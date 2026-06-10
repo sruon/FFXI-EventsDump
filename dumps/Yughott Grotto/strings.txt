@@ -1,5 +1,5 @@
 # Strings for Yughott Grotto
-# Total: 7485 strings
+# Total: 7486 strings
 
     0: Tallying conquest results...
     1: Conquest results tallied.
@@ -6543,946 +6543,947 @@
  6539: You will be able to use the Assist Channel until // at : (JST).
  6540: As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
  6541: You sense a tiny sparkle from San d'Oria in your inventory!
- 6542: You cannot obtain the $0.
- 6543: You cannot obtain any more.
- 6544: You cannot obtain the $0. Come back after sorting your inventory.
+ 6542: The Deeds of Heroism Bonus Campaign is underway!
+ 6543: You cannot obtain the $0.
+ 6544: You cannot obtain any more.
  6545: You cannot obtain the $0. Come back after sorting your inventory.
- 6546: You cannot obtain the item. Come back after sorting your inventory.
- 6547: You cannot obtain the $0. Speak with the mystic retriever after sorting your inventory.
- 6548: You cannot obtain the $0. Try trading again after sorting your inventory.
- 6549: You must free at least $0 space[/s] before trading any items.
- 6550: You are unable to carry any more $0 because your recycle bin is full.
- 6551: You are unable to carry any more items because your recycle bin is full.
- 6552: Obtained: #.
- 6553: Obtained $0 gil.
+ 6546: You cannot obtain the $0. Come back after sorting your inventory.
+ 6547: You cannot obtain the item. Come back after sorting your inventory.
+ 6548: You cannot obtain the $0. Speak with the mystic retriever after sorting your inventory.
+ 6549: You cannot obtain the $0. Try trading again after sorting your inventory.
+ 6550: You must free at least $0 space[/s] before trading any items.
+ 6551: You are unable to carry any more $0 because your recycle bin is full.
+ 6552: You are unable to carry any more items because your recycle bin is full.
+ 6553: Obtained: #.
  6554: Obtained $0 gil.
- 6555: Obtained key item: 3.
- 6556: Lost key item: 3.
- 6557: You do not have enough gil.
- 6558: You obtain $1 $0 !
- 6559: You do not have enough gil.
- 6560: A party member has an NPC called up. You cannot take part in this event.
- 6561: You obtain $1 $0 !
- 6562: You find the hoofprint of a gigantic warhorse...
- 6563: You set the $3 in the warhorse hoofprint.
- 6564: The $0 is returned to you.
- 6565: The $1 $0 are returned to you.
- 6566: There is nothing out of the ordinary here.
- 6567: You are suddenly overcome with a sense of foreboding...
- 6568: Now is not the time for that!
- 6569: It seems that you will have to wait a bit longer...
- 6570: An aura of irrepressible might threatens to overwhelm you...
- 6571: You no longer sense the monster's presence...
- 6572: Adventurer! Feast your eyes on the might of an Orcish champion!
- 6573: Adventurer! Hear the cry of a true Orcish warrior!
- 6574: Witness the effectiveness of a common Quadav tactic!
- 6575: Da'Vhu Deadeye heeds your command. Revel in the fighting spirit of the Quadav!
- 6576: Kwakwah! Never forget the mercy of the Manifest, heretic! One day these talons will sink into your chest!
- 6577: Think well on the words of the Manifest, heretic! Now hear the soaring voice of a Divine Inspirer!
- 6578: Advennteurerueraroo! Sooosomeone 'n needs ofa amput...anmpyu...amputit...amptitationn?
- 6579: You lika gammmble? Lessee if dice likes youse today. <Hic!>
- 6580: [/I'm ready./Alright!/Okay.../Attention!/Okay, kiddo./Okay!/I'm ready./Okay!/Attention!] [/I suppose./Here we go!/Ready when you are./Weapon skill ready!/I'm ready./Bring it on!/We can start any time./Ready when you are!/Weapon skill ready!]
- 6581: I'm ready. I suppose.
- 6582: Alright! Here we go!
- 6583: Okay... Ready when you are.
- 6584: Attention! Weapon skill ready!
- 6585: I'm ready. Just say when!
- 6586: Good to go! This is gonna be fun!
- 6587: My preparations are complete. Ready at your command.
- 6588: Okay, kiddo. I'm ready.
- 6589: Okay! Bring it on!
- 6590: I'm ready. We can start any time.
- 6591: Okay! Ready when you are!
- 6592: Attention! Weapon skill ready!
- 6593: What is taking so long? Aren't you ready yet?
- 6594: I'm warmed up and rrready to go!
- 6595: [/Ugh.../Dammit!/Ugh.../I'm too badly hurt./This is a little.../No!/Ugh.../Ouch!/I'm too badly hurt.] [/This could be bad.../I'm not going down!/I'm not done yet!/I don't think I can make it.../...tougher than I expected./I won't give up!/This may be the end.../Hey, that hurts!/I don't think I can make it...]
- 6596: Ugh... This could be bad...
- 6597: Dammit! I'm not going down!
- 6598: Ugh... I'm not done yet!
- 6599: I'm too badly hurt. I don't think I can make it...
- 6600: Uh-oh, I'm in trouble...
- 6601: This is getting rough. I'm not sure how much longer I can hold up...
- 6602: It pains me to inform you, but I'm in severe pain...
- 6603: This is a little... ...tougher than I expected.
- 6604: No! I won't give up!
- 6605: Ugh... This may be the end...
- 6606: Ouch! Hey, that hurts!
- 6607: I'm too badly hurt. I don't think I can make it...
- 6608: Grrr... I...will not...be bested!
- 6609: This is looking rrreally bad...
- 6610: [/My magic.../Uh-oh!/Heads up./Attention!/Be careful./Whoops!/Careful./Hey!?/Attention!] [/...is running low./Running out of magic!/My magic is almost gone./Magical reserves running low!/I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/Magical reserves running low!]
- 6611: My magic... ...is running low.
- 6612: Uh-oh! Running out of magic!
- 6613: Heads up. My magic is almost gone.
- 6614: Attention! Magical reserves running low!
- 6615: Nooo... I'm almost out of magic...
- 6616: Sorry, but I'm running low on magic.
- 6617: Excuse me, but my magical reserves are nearing depletion.
- 6618: Be careful. I'm almost out of magic.
- 6619: Whoops! Almost out of magic!
- 6620: Careful. My magic is running low.
- 6621: Hey!? Where'd all my magic go!?
- 6622: Attention! Magical reserves running low!
- 6623: Damn! Magical reserves critical!
- 6624: Rrrunning low on magic here...
- 6625: [/My magic?/Okay!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status?/Okay./Okay!/My magical reserves have recovered.] [/Don't worry, I have plenty./My magic is restored!/I'm ready./I'm ready to continue./Any time you're ready./Ready to go!/My magical reserves are almost full again./My magic is ready to go!/I'm ready to continue.]
- 6626: My magic? Don't worry, I have plenty.
- 6627: Okay! My magic is restored!
- 6628: My magic has recovered. I'm ready.
- 6629: My magical reserves have recovered. I'm ready to continue.
- 6630: My magic's back to normal now.
- 6631: Magic A-OK! Let's keep moving!
- 6632: Apologies for the delay. My magic reserves are now in good order.
- 6633: My magic is restored. Any time you're ready.
- 6634: My magic status? Ready to go!
- 6635: Okay. My magical reserves are almost full again.
- 6636: Okay! My magic is ready to go!
- 6637: My magical reserves have recovered. I'm ready to continue.
- 6638: My magic has sufficiently recovered. Let's not delay any further.
- 6639: Magic is rrripe and rrready!
- 6640: [/I'm tired./Phew!/Hm./A fruitful day./I'm exhausted./Phew!/We fought many battles today./Wow!/A fruitful day.] [/I think we've done enough for today./It's been a busy day!/That should be enough for today./I believe we reached our quota./No more fighting for me./I guess we should call it quits for today!/Time to take a break./I'm exhausted!/I believe we reached our quota.]
- 6641: I'm tired. I think we've done enough for today.
- 6642: Phew! It's been a busy day!
- 6643: Hm. That should be enough for today.
- 6644: A fruitful day. I believe we reached our quota.
- 6645: We've defeated quite a lot today.
- 6646: We did great today! I can sleep well tonight knowing I made a difference.
- 6647: Well done, [sir/milady]. We have accomplished much this day.
- 6648: I'm exhausted. No more fighting for me.
- 6649: Phew! I guess we should call it quits for today!
- 6650: We fought many battles today. Time to take a break.
- 6651: Wow! I'm exhausted!
- 6652: A fruitful day. I believe we reached our quota.
- 6653: Hm. I am satisfied with today's effort.
- 6654: We did grrreat today, didn't we?
- 6655: [/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.] [/...when you're having fun./Is that the time!/It's getting late./Quite some time has passed./It's past my bedtime./I didn't realize it was so late!/Where does all the time go?/It's getting late!/Quite some time has passed.]
- 6656: Time flies... ...when you're having fun.
- 6657: Whoa! Is that the time!
- 6658: Hm. It's getting late.
- 6659: Well, well. Quite some time has passed.
- 6660: Awww, it's way past my nap time...
- 6661: Time sure does fly when you're having fun.
- 6662: A thousand pardons, [sir/milady], but I must take my leave.
- 6663: Look at that. It's past my bedtime.
- 6664: Whoa! I didn't realize it was so late!
- 6665: Well, now. Where does all the time go?
- 6666: Hey! It's getting late!
- 6667: Oh my. Quite some time has passed.
- 6668: It's rather late.
- 6669: <Yawn> So...sleepy...
- 6670: [/I guess I'll be going./Well, I'm off then!/I'm headed off./I take my leave of you./Must be going./Well, I'm off then!/It's time for me to go./I gotta go now!/I take my leave of you.] [/See you around./See you soon!/Later./Until we meet again./Take care of yourself./See you soon!/Farewell./Bye!/Until we meet again.]
- 6671: I guess I'll be going. See you around.
- 6672: Well, I'm off then! See you soon!
- 6673: I'm headed off. Later.
- 6674: I take my leave of you. Until we meet again.
- 6675: I'm going now. Call me again.
- 6676: It's time I hit the road. Don't go forgetting about me, you hear!
- 6677: Until next time, then. I shall be prepared for for when you next call.
- 6678: Must be going. Take care of yourself.
- 6679: Well, I'm off then! See you soon!
- 6680: It's time for me to go. Farewell.
- 6681: I gotta go now! Bye!
- 6682: I take my leave of you. Until we meet again.
- 6683: I'm going now. Don't do anything stupid in my absence.
- 6684: See you laterrr! Bye!
- 6685: [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]
- 6686: Getting rid of me already?
- 6687: Are we done already!?
- 6688: Are we done for the day?
- 6689: Time to part ways?
- 6690: Are we finished already? Awww...
- 6691: Huh? Party's over?
- 6692: Oh? Do you have engagements elsewhere? As you wish, then.
- 6693: Sending me on my way?
- 6694: Are we done already!?
- 6695: Time for goodbyes?
- 6696: What? You want me to go?
- 6697: Time to part ways?
- 6698: I come all the way here, and now you want me to leave? We'll have to do something about your impudence.
- 6699: You don't want me to stay? Meow...
- 6700: [/Well./We're not done yet, right?/Changed your mind?/You wish to continue?/We're not done, are we?/We're still good to go, right?/Still ready for action?/You changed your mind!?/You wish to continue?] [/I suppose I could stick around./Let's go!/No problem./Very well, let us proceed./Then let's get back to it./Okay, off we go!/I can stay around a little more./Great, I'm ready for more!/Very well, let us proceed.]
- 6701: Well. I suppose I could stick around.
- 6702: We're not done yet, right? Let's go!
- 6703: Changed your mind? No problem.
- 6704: You wish to continue? Very well, let us proceed.
- 6705: Yay! let's keep at it!
- 6706: That's music to my ears! It's waaay too early for the party to end!
- 6707: Very good, [sir/milady]. It will be my pleasure to accompany you further.
- 6708: We're not done, are we? Then let's get back to it.
- 6709: We're still good to go, right? Okay, off we go!
- 6710: Still ready for action? I can stay around a little more.
- 6711: You changed your mind!? Great, I'm ready for more!
- 6712: You wish to continue? Very well, let us proceed.
- 6713: Changed your mind? We'll have to do something about your indecisiveness.
- 6714: Yay! Let's keep going!
- 6715: [/Your fight is with me./Bring it on!/Over here./I will be your opponent this day!/I'll take it from here./Over here!/Over here./Hey! Don't ignore me!/I will be your opponent this day!]
- 6716: Your fight is with me.
- 6717: Bring it on!
- 6718: Over here.
- 6719: I will be your opponent this day!
- 6720: Over here, you big meanie!
- 6721: You wanna fight? Fight me!
- 6722: Ahem! Your attention, please!
- 6723: I'll take it from here.
- 6724: Over here!
- 6725: Over here.
- 6726: Hey! Don't ignore me!
- 6727: I will be your opponent this day!
- 6728: Look at me when I'm talking to you!
- 6729: Hisss!!!
- 6730: [/You called?/Here I am!/You're here. I'm here./Greetings./Sure, I'll help./Hey there!/Good day./Hello!/Greetings.] [/I'm ready to go./Ready for anything!/Let's get moving./A fine day for adventuring./Try not to slow me down./I'm ready to go!/Shall we get moving?/What are we up to today?/A fine day for adventuring.]
- 6731: You called? I'm ready to go.
- 6732: Here I am! Ready for anything!
- 6733: You're here. I'm here. Let's get moving.
- 6734: Greetings. A fine day for adventuring.
- 6735: Sorry to keep you waiting. Let's go!
- 6736: Did you wait long? Alright, let's go have some fun!
- 6737: Please forgive my tardiness. I'm yours to command.
- 6738: Sure, I'll help. Try not to slow me down.
- 6739: Hey there! I'm ready to go!
- 6740: Good day. Shall we get moving?
- 6741: Hello! What are we up to today?
- 6742: Greetings. A fine day for adventuring.
- 6743: Let's go. Try not to get in the way.
- 6744: Meow!
- 6745: [/It might be time to head back to town./I have to be heading back soon./My reflexes are starting to slow./I believe it's almost time for a rest./A nice soft bed is looking good about now./We've been at this for a while now./Sorry, but I have some other chores to take care of./I'm starting to get kinda tired./I believe it's almost time for a rest.] [/I think I need a rest./Other duties call!/We should call it a day pretty soon./Shall we head back to town shortly?/Shall we call it quits soon?/I think I have enough energy for one last spurt!/Can we finish up here soon?/But I can keep going for a little while! <Yawn>.../Shall we head back to town shortly?]
- 6746: It might be time to head back to town. I think I need a rest.
- 6747: I have to be heading back soon. Other duties call!
- 6748: My reflexes are starting to slow. We should call it a day pretty soon.
- 6749: I believe it's almost time for a rest. Shall we head back to town shortly?
- 6750: I've almost had enough for one day.
- 6751: Whoops! Forgot to tell you, but I have to be somewhere soon.
- 6752: I regret to inform you that my presence will be required in town shortly. I pray you do not think ill of me.
- 6753: A nice soft bed is looking good about now. Shall we call it quits soon?
- 6754: We've been at this for a while now. I think I have enough energy for one last spurt!
- 6755: Sorry, but I have some other chores to take care of. Can we finish up here soon?
- 6756: I'm starting to get kinda tired. But I can keep going for a little while! <Yawn...>
- 6757: I believe it's almost time for a rest. Shall we head back to town shortly?
- 6758: I've babysitted you long enough for one day. I will leave soon.
- 6759: This is getting borrring...
- 6760: [/We've been through a good number of enemies./I think I'm finally getting tired./We've done enough today, I think./We've proved ourselves in battle this day./Phew, I'm beat./Maybe just one more battle./We should call it day./Phew! I'm beat!/We've proved ourselves in battle this day.] [/One more ought to do it./Should we make the next battle our last?/Let's make the next battle our last./Let us make the next opponent our last./One more battle ought to do it./This time I mean it, honest!/Let's make the next battle our last./One more battle?/Let us make the next opponent our last.]
- 6761: We've been through a good number of enemies. One more ought to do it.
- 6762: I think I'm finally getting tired. Should we make the next battle our last?
- 6763: We've done enough today, I think. Let's make the next battle our last.
- 6764: We've proved ourselves in battle this day. Let us make the next opponent our last.
- 6765: <Puff, wheeze> Just one more battle, okay?
- 6766: I'm starting to feel sorry for our opponents! Think I'll call it a day after the next one.
- 6767: Would I be out of place to recommend recuperating? Let us return to town upon the next battle's conclusion.
- 6768: Phew, I'm beat. One more battle ought to do it.
- 6769: Maybe just one more battle. This time I mean it, honest!
- 6770: We should call it day. Let's make the next battle our last.
- 6771: Phew! I'm beat! One more battle?
- 6772: We've proved ourselves in battle this day. Let us make the next opponent our last.
- 6773: One more victory should satisfy me for the day.
- 6774: I'm sooo tirrred...
- 6775: [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?] [/Call if you need me./Call me again any time!/No problem. Until we meet again./Very well. Until we meet again./I'll be around if you need me./It's been fun!/Until next we meet./Make sure you keep in touch!/Very well. Until we meet again.]
- 6776: Getting rid of me already? Call if you need me.
- 6777: Are we done already!? Call me again any time!
- 6778: Are we done for the day? No problem. Until we meet again.
- 6779: Time to part ways? Very well. Until we meet again.
- 6780: Are we finished already? Awww... Call me again, okay?
- 6781: Huh? Party's over? That's a shame... Let's do this again sometime!
- 6782: Oh? Do you have engagements elsewhere? As you wish. I shall be prepared for when you next call.
- 6783: Sending me on my way? I'll be around if you need me.
- 6784: Are we done already!? It's been fun!
- 6785: Time for goodbyes? Until next we meet.
- 6786: What? You want me to go? Make sure you keep in touch!
- 6787: Time to part ways? Very well. Until we meet again.
- 6788: I come all the way here, and now you want me to leave? Hmph. Just don't let me catch you slacking off from your drills.
- 6789: Alrrright! I'll see you later.
- 6790: You are unable to disband with your fellow at this time.
- 6791: [/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]
- 6792: A parting gift!
- 6793: Ha!
- 6794: Back to the pit with you!
- 6795: The tide of battle turns!
- 6796: How do you like this!?
- 6797: I saved this just for you!
- 6798: I believe it is my turn!
- 6799: Your time is up!
- 6800: Time for action!
- 6801: This battle is ours!
- 6802: Try this on for size!
- 6803: The tide of battle turns!
- 6804: Taste my wrath!
- 6805: Hisss! Superrr...attack!
- 6806: [/I'm ready to fight./I'm in top shape and ready to go!/We can start fighting any time./I'm prepared for battle./I'm ready to fight anytime./I'm good to go!/I'm ready when you are./I'm all healed up and ready to go!/I'm prepared for battle.]
- 6807: I'm ready to fight.
- 6808: I'm in top shape and ready to go!
- 6809: We can start fighting any time.
- 6810: I'm prepared for battle.
- 6811: I feel good!
- 6812: I'm ready to rumble!
- 6813: Fit as a fiddle, and at your command.
- 6814: I'm ready to fight anytime.
- 6815: I'm good to go!
- 6816: I'm ready when you are.
- 6817: I'm all healed up and ready to go!
- 6818: I'm prepared for battle.
- 6819: You presume to be my guardian? I suggest you worry about yourself.
- 6820: I feel grrreat! Come on, let me at them!
- 6821: [/Don't worry about me./No problem!/Nothing to worry about./Don't hold back on my account./This little scratch?/This little scratch?/Nice of you to worry./No problem!/Don't hold back on my account.] [/It's just a scratch./This is just a scratch!/Just a scratch./This is a mere scratch./Pay it no mind./I've had bigger paper cuts!/But I'm fine, it's just a scratch./This little scratch won't slow me down!/This is a mere scratch.]
- 6822: Don't worry about me. It's just a scratch.
- 6823: No problem! This is just a scratch!
- 6824: Nothing to worry about. Just a scratch.
- 6825: Don't hold back on my account. This is a mere scratch.
- 6826: I'm fine. No need to worry, okay?
- 6827: This? An injury? Psshaw!
- 6828: Thank you for asking, but this is no cause for concern.
- 6829: This little scratch? Pay it no mind.
- 6830: This little scratch? I've had bigger paper cuts!
- 6831: Nice of you to worry. But I'm fine, it's just a scratch.
- 6832: No problem! This little scratch won't slow me down!
- 6833: Don't hold back on my account. This is a mere scratch.
- 6834: I would hardly call this a scratch. Don't mind me, mind yourself.
- 6835: Around seven out of nine lives rrremaining!
- 6836: [/I should probably rest a little more./I'm not gonna let a slight wound like this keep me down!/You might want to keep on eye on my health./Shouldn't we rest a little?/I'm a little tired./I'm still fairly fresh, but maybe we should rest a bit more./I'm a little tired./Can we take a break?/Shouldn't we rest a little?] [/ Just in case./ I'm ready for more!/ Better to be ready for anything./I question my ability to survive another battle./Maybe we should rest a bit./Then I'll be ready for anything!/Shall we rest for a bit?/I don't think I can handle another fight just yet./I question my ability to survive another battle.]
- 6837: I should probably rest a little more. Just in case.
- 6838: I'm not gonna let a slight wound like this keep me down! I'm ready for more!
- 6839: You might want to keep on eye on my health. Better to be ready for anything.
- 6840: Shouldn't we rest a little? I question my ability to survive another battle.
- 6841: I'm fine...really.
- 6842: I think I still can push on for a while.
- 6843: I am not in immediate danger, but prevention is better than cure. And cure is better than raise...
- 6844: I'm a little tired. Maybe we should rest a bit.
- 6845: I'm still fairly fresh, but maybe we should rest a bit more. Then I'll be ready for anything!
- 6846: I'm a little tired. Shall we rest for a bit?
- 6847: Can we take a break? I don't think I can handle another fight just yet.
- 6848: Shouldn't we rest a little? I question my ability to survive another battle.
- 6849: Hm... Our opponents are quite determined to make us work.
- 6850: Around five out of nine lives rrremaining!
- 6851: [/We should really take a break./I feel a little...lightheaded./That last fight took it out of me./Let's take a break, shall we?/I'm exhausted./Phew!/I'm exhausted./Phew.../Let's take a break, shall we?] [/I'm not ready for another battle./Maybe we should take a break./Let me catch my breath./No sense rushing into battle in this condition./Can you give me a minute./I think I've earned a break, don't you?/Can we sit down...for a bit...?/I think I need to lie down.../No sense rushing into battle in this condition.]
- 6852: We should really take a break. I'm not ready for another battle.
- 6853: I feel a little...lightheaded. Maybe we should take a break.
- 6854: That last fight took it out of me. Let me catch my breath.
- 6855: Let's take a break, shall we? No sense rushing into battle in this condition.
- 6856: I need to take a break soon.
- 6857: Hey, how about taking five?
- 6858: Might I be so bold as to suggest we rest?
- 6859: I'm exhausted. Can you give me a minute?
- 6860: Phew! I think I've earned a break, don't you?
- 6861: I'm exhausted. Can we sit down...for a bit...?
- 6862: Phew... I think I need to lie down...
- 6863: Let's take a break, shall we? No sense rushing into battle in this condition.
- 6864: <Puff> Tell me if you feel...you need rest... <Pant> I mean it...
- 6865: Around three out of nine lives rrremaining...
- 6866: [/We really should rest./No...no more.../Hold on.../I'm at my limit./Enough!/Whoa.../Please.../Can't...fight...any...longer.../I'm at my limit.] [/I don't think I can survive another fight./I gotta sit down.../I need to get my strength back.../Please let me recover my strength./Let me rest already!/I think I'm gonna fall over.../I need to sit down.../Must...rest.../Please let me recover my strength.]
- 6867: We really should rest. I don't think I can survive another fight.
- 6868: No...no more... I gotta sit down...
- 6869: Hold on... I need to get my strength back...
- 6870: I'm at my limit. Please let me recover my strength.
- 6871: I can't...go on. You have to let me rest...
- 6872: Ugh... If you hadn't noticed, I seriously need rest.
- 6873: I fear the next battle may be my last. I beseech you, please permit me to rest.
- 6874: Enough! Let me rest already!
- 6875: Whoa... I think I'm gonna fall over...
- 6876: Please... I need to sit down...
- 6877: Can't...fight...any...longer... Must...rest...
- 6878: I'm at my limit. Please let me recover my strength.
- 6879: The enemy isn't going anywhere. Withdraw and regroup!
- 6880: I'm almost out of lives. Meow...
- 6881: [/No need to worry about my magic, I have plenty./My magic reserves are full!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status is A-OK!/My magical reserves are full./Magic-wise, I'm good to go!/My magical reserves have recovered.]
- 6882: No need to worry about my magic, I have plenty.
- 6883: My magic reserves are full!
- 6884: My magic has recovered.
- 6885: My magical reserves have recovered.
- 6886: My magic? Full to the brim!
- 6887: I've got magic to burn!
- 6888: I am overflowing with magic.
- 6889: My magic is restored.
- 6890: My magic status is A-OK!
- 6891: My magical reserves are full.
- 6892: Magic-wise, I'm good to go!
- 6893: My magical reserves have recovered.
- 6894: I have more than enough magic.
- 6895: I have a full tank of magic!
- 6896: [/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?] [/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]
- 6897: Hmm. Better keep an eye on my magic reserves.
- 6898: Let's see now. I think my magic is about half gone.
- 6899: My magic? It might be time to rest soon.
- 6900: My magical reserves? Depleted to about the halfway mark.
- 6901: I have around half of my magic left.
- 6902: My magic is good for a while yet.
- 6903: My magical reserves should suffice for now, but we best avoid taking unnecessary risks.
- 6904: Are you relying on my magic? If so, we may need to rest soon.
- 6905: I still have lots of magic left! Well, maybe half...
- 6906: My magic? It might be time to keep an eye on my reserves.
- 6907: Hmmm. I've used up half my magic already...
- 6908: My magical reserves? Depleted to about the halfway mark.
- 6909: My magical reserves don't require your sympathy just yet.
- 6910: I've used up arrround half my magic.
- 6911: [/My magic is running low.../I've almost run out of magic!/My magic is almost gone./My magical reserves are running low./I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/My magical reserves are running low.]
- 6912: My magic is running low...
- 6913: I've almost run out of magic!
- 6914: My magic is almost gone.
- 6915: My magical reserves are running low.
- 6916: Nooo... I'm almost out of magic...
- 6917: Magic? I'm scraping the bottom of the barrel here...
- 6918: My magical reserves are nearing depletion.
- 6919: I'm almost out of magic.
- 6920: Almost out of magic!
- 6921: My magic is running low.
- 6922: Where'd all my magic go!?
- 6923: My magical reserves are running low.
- 6924: My magic will no longer be of much aid. Stay sharp!
- 6925: My magic...it's all gone!
- 6926: [/I've just recently gained a level./I've just gained a level./Take it easy./I have recently risen in level./I've just gained a level./I just gained a level!/Little time has passed since I last gained a level./I've just gained a level, I know./I have recently risen in level.] [/There's still a lot of work to be done until the next one./I'm itching to get out and test my newfound strength!/I've just gained a level./The next level is still quite some distance away./The next level is still quite a way off./You can't expect me to level again any time soon!/The next level is still some distance away./But I still can't wait until I go up again!/The next level is still quite some distance away.]
- 6927: I've just recently gained a level. There's still a lot of work to be done until the next one.
- 6928: I've just gained a level. I'm itching to get out and test my newfound strength!
- 6929: Take it easy. I've just gained a level.
- 6930: I have recently risen in level. The next level is still quite some distance away.
- 6931: I've just leveled up, but with your help, it'll take no time at all to get to the next level!
- 6932: Hey, I just leveled up, didn't I? Easy on the expectations there, partner.
- 6933: Since I have just gained a level, it will be quite some time until I reach the next. Sorry to disappoint you, [sir/milady].
- 6934: I've just gained a level. The next level is still quite a way off.
- 6935: I just gained a level! You can't expect me to level again any time soon!
- 6936: Little time has passed since I last gained a level. The next level is still some distance away.
- 6937: I've just gained a level, I know. But I still can't wait until I go up again!
- 6938: I have recently risen in level. The next level is still quite some distance away.
- 6939: I just leveled up! We'll have to do something about your memory problem.
- 6940: It's so farrr away...
- 6941: [/My experience is still shallow./I have lots of work to do!/Not even close.../There is still much work to be done./Not even close.../I have lots of work to do!/I still have much to do./Ho-hum./There is still much work to be done.] [/I have much work to do./I need more experience if I'm gonna get stronger!/I still have much experience to gain./I must gain more experience if I am to become stronger./I still have much experience to gain./I need more experience if I'm gonna get stronger!/I must gain more experience in order to grow stronger./Still lots of work to do until my next level!/I must gain more experience if I am to become stronger.]
- 6942: My experience is still shallow. I have much work to do.
- 6943: I have lots of work to do! I need more experience if I'm gonna get stronger!
- 6944: Not even close... I still have much experience to gain.
- 6945: There is still much work to be done. I must gain more experience if I am to become stronger.
- 6946: I still have to gain lots more experience, but I'll do my best!
- 6947: My next level is still ages away. Why hurry? Don't worry, be happy!
- 6948: I have made some progress, but the next level still eludes me.
- 6949: Not even close... I still have much experience to gain.
- 6950: I have lots of work to do! I need more experience if I'm gonna get stronger!
- 6951: I still have much to do. I must gain more experience in order to grow stronger.
- 6952: Ho-hum. Still lots of work to do until my next level!
- 6953: There is still much work to be done. I must gain more experience if I am to become stronger.
- 6954: My level won't rise if we stand around talking like this!
- 6955: No, don't rrremind me! Such a long way to go...
- 6956: [/I've gained a fair amount of experience./I think I must be almost halfway to my next level./Hmm./I believe I've almost reached the halfway point to my next level./I do believe I'm coming up on halfway to my next level./I think I must be almost halfway to my next level./I've come a long way towards my next level./We've been busy, huh?/I believe I've almost reached the halfway point to my next level.] [/I must be close to halfway to my next level by now./Can't slow down now!/I must be almost halfway to my next level by now./Let's not rest on our laurels, however!/That was much faster than I expected./No time to be slacking off!/Must be close to halfway by now./I think I'm almost halfway to my next level./Let's not rest on our laurels, however!]
- 6957: I've gained a fair amount of experience. I must be close to halfway to my next level by now.
- 6958: I think I must be almost halfway to my next level. Can't slow down now!
- 6959: Hmm. I must be almost halfway to my next level by now.
- 6960: I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
- 6961: I think I'm about half way there...
- 6962: I'm half way there, so let's keep up the pace!
- 6963: Through sustained effort and your invaluable assistance, I believe I now stand at the halfway point.
- 6964: I do believe I'm coming up on halfway to my next level. That was much faster than I expected.
- 6965: I think I must be almost halfway to my next level. No time to be slacking off!
- 6966: I've come a long way towards my next level. Must be close to halfway by now.
- 6967: We've been busy, huh? I think I'm almost halfway to my next level.
- 6968: I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
- 6969: I still haven't acquired enough experience. About double what I have now should be sufficient for the next level.
- 6970: I'm halfway there...maybe?
- 6971: [/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.] [/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]
- 6972: Hmm. Not too much further to my next level.
- 6973: This is a good pace! Not much more to my next level!
- 6974: Hmm. Still need a little more experience for my next level.
- 6975: Well, well. It appears my next level is not far off at all.
- 6976: I'm slowly getting closer to the next level.
- 6977: I reckon I'm fairly close to the next level.
- 6978: My next level is now visible on the horizon.
- 6979: Just a little more. My next level is not too far away.
- 6980: Come on! I need to gain a little more experience for my next level!
- 6981: I'm past the halfway point. Not long now until I gain another level.
- 6982: Just a little more! My next level is almost within sight!
- 6983: Well, well. It appears my next level is not far off at all.
- 6984: My next level draws ever nearer. But that doesn't mean you can slack off.
- 6985: It can't be so far off, now...can it?
- 6986: [/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.] [/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]
- 6987: Hmm. I should be gaining a level soon.
- 6988: I'm almost there! I can almost taste my next level!
- 6989: Not long now. My next level is just around the corner.
- 6990: Any time now. My next level is very close, indeed.
- 6991: I think I'll level up any time now! Yay!
- 6992: Ooh, the next level's close...really close. We should prepare to celebrate!
- 6993: Why, I would not be surprised if my level were to rise...now! Er...perhaps not quite yet.
- 6994: Well, what do you know? I think I'll be gaining a level soon.
- 6995: Woohoo! I'll be leveling up really soon!
- 6996: This is encouraging. I should be gaining a level any time now.
- 6997: I love this time! I'm on the final stretch towards my next level!
- 6998: Any time now. My next level is very close, indeed.
- 6999: My next level is within reaching distance! From now it's a charge to the finish line!
- 7000: <Sniff, sniff> I think I can smell my next level! Come out, come out, whereverrr you are!
- 7001: I tell you what. Changing your weapon is fun. Seriously.
- 7002: It's always nice to come outside and move around! Those Mog Houses can get so stuffy! Wanna race?
- 7003: ... We should keep the chat down. The sound could give our position away to some beastman...
- 7004: It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
- 7005: Wh-what? Y...you say you want to have a conversation? Um, here goes... Er...nice weather, isn't it...?
- 7006: You know, we've been adventuring together for a while now, but we still have lots to learn about each other.
- 7007: You called? How may I be of service? You need but ask, and it shall be done!
- 7008: I love to chat. But we should keep an eye out for wandering monsters. Just in case.
- 7009: Treasure? I'm not really interested. You go ahead and keep it all.
- 7010: I just realized something. I've never once had Signet cast on me. Oh well, never mind...
- 7011: Communication is really important. We should always let each other know what we're thinking, right? No secrets!
- 7012: It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
- 7013: There is a time and place for idle chatter. No, I stand corrected: There is no time nor place for idle chatter.
- 7014: She floats like a butterfly and stings like a bee.t The grrreatest Mithra in the world--that's me!t
- 7015: Fight or evade? I'll leave those decisions up to you. Either is fine with me.
- 7016: Battle strategy! We should work together, you know. I know some great weapon skills!
- 7017: No need to worry. I've had training in all sorts of weapons. Try me.
- 7018: Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
- 7019: ...... S-sorry, but I couldn't think of anything to say. I'm not very good at conversation and stuff...
- 7020: Seems to me all we do is fight, fight, and fight. Next time we should do something different--something fun!
- 7021: While your battle prowess is beyond criticism, the ability to gracefully wield knife and fork at the dining table must not be underestimated. Might I be so bold as to suggest spending more time mastering table manners?
- 7022: It's surprising. There's so much beauty to be found outside the city walls. I spend too much time in clothes stores.
- 7023: Listen. Let me know if you want me to take the heat. I can take it!
- 7024: I like the outdoors. Away from the hustle and bustle of the towns. So relaxing...
- 7025: Hey! It's really a lot of fun adventuring with you. We get to see all kinds of things!
- 7026: Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
- 7027: If I wanted to engage in petty conversation, I'd ask for it!
- 7028: Heal the worrrld.t Make it a better place.t For you and for me, and the entire Mithran rrrace.t
- 7029: Is that a yawn? Be careful to get enough sleep. It could affect your performance in battle.
- 7030: You know me! I can take the hits. Just bring it on!
- 7031: ... Sometimes... I just like to be quiet...
- 7032: A small reminder: We should be extra careful out here. You never know when an enemy may be near...
- 7033: Um... I've been meaning to ask, I mean... I hope you don't mind me asking, but...uh... Nevermind... <Sigh>
- 7034: You know, it's kind of embarrassing we have exactly the same pearl, don't you think?
- 7035: Nothing grants me greater happiness than being able to stand at your side, come what may.
- 7036: By the way. You don't have to handle everything yourself. I can take the frontline sometimes, too.
- 7037: Ah, this is fun! I love visiting different places. Don't you?
- 7038: By the way. I'll be there for you, no matter what. Even if your opponent seems too weak to be worthwhile.
- 7039: You never know when something bad is going to happen. What's that over there!? Kidding!
- 7040: A small reminder: We should be extra careful out here. You never know when an enemy may be near...
- 7041: Your curiosity and persistence will take you a long way. But it can be irritating, so don't overdo it.
- 7042: Huh...? What is this place? Why am I here? I was supposed to be--ow! My head hurrrts...
- 7043: [/Ready?/Keep your eyes open!/I see an opening./Are you ready?/I'm warmed up now./Don't blink now!/Are you ready?/Alrighty!/Are you ready?] [/I'm taking my shot!/You don't wanna miss this!/Get ready to follow up./I'm beginning my attack!/Time for a real attack!/Follow my lead!/I'm taking my shot!/Here goes nothing!/I'm beginning my attack!]
- 7044: Ready? I'm taking my shot!
- 7045: Keep your eyes open! You don't wanna miss this!
- 7046: I see an opening. Get ready to follow up.
- 7047: Are you ready? I'm beginning my attack!
- 7048: I'm going to attack! Are you ready?
- 7049: Keep your eyes peeled! I'm going in for the big one!
- 7050: Are preparations in order, [sir/milady]? Then, I shall proceed with my offensive.
- 7051: I'm warmed up now. Time for a real attack!
- 7052: Don't blink now! Follow my lead!
- 7053: Are you ready? I'm taking my shot!
- 7054: Alrighty! Here goes nothing!
- 7055: Are you ready? I'm beginning my attack!
- 7056: I'm going in, so get ready! No slipping up!
- 7057: It's my turrrn! Get ready to pounce after me!
- 7058: Blessed radiance! Purge this evil with your purifying light!
- 7059: Blessed radiance! Grant me your power!
- 7060: Blessed radiance! Strike down this evil with blades of cleansing incandescence!
- 7061: Blessed radiance! Lend me the strength to defeat this evil!
- 7062: Blessed radiance! Lend me your power!
- 7063: Blessed radiance! Smite this evil with your purifying light!
- 7064: Blessed radiance! I humbly call upon thee! Protect us with your divine light!
- 7065: Blessed radiance! Purge this evil with your purifying light!
- 7066: Blessed radiance! Grant me your power!
- 7067: Blessed radiance! Strike down this evil with blades of cleansing incandescence!
- 7068: Blessed radiance! Grant me your power!
- 7069: Blessed radiance! Lend me the strength to defeat this evil!
- 7070: Blessed radiance! Strike down this evil with your divine beam of judgment!
- 7071: Blessed rrradiance! Go forth and...zap that evil thing...over there! Meow!
- 7072: Defeated enemies? That was number $0.
- 7073: So far, we've only taken down $0 [enemy/enemies] today!
- 7074: How many enemies have we defeated? Only $0. You can count that high, right...?
- 7075: You wish to know the tally of defeated enemies? Why, we have only vanquished $0 [foe/foes] so far.
- 7076: We haven't defeated many enemies yet. Only $0 so far.
- 7077: We've only defeated $0 [enemy/enemies] so far. Nothing to write home about.
- 7078: Our progress, [sir/milady]? The last foe bested brings today's tally to $0 [enemy/enemies].
- 7079: We've only beaten $0 [enemy/enemies] so far. Don't tell me you're tired already!?
- 7080: Only $0 [enemy has/enemies have] fallen to us today! We're just getting started!
- 7081: The last enemy we defeated was number $0.
- 7082: The last enemy we took down was number $0.
- 7083: You wish to know the tally of defeated enemies? Why, we have only vanquished $0 [foe/foes] so far.
- 7084: Only $0 [enemy/enemies] defeated so far. This doesn't even amount to a warm-up.
- 7085: We've beaten at least two...right?
- 7086: Defeated enemies? That was number $0.
- 7087: I'd say we've blasted through around $0 [enemy/enemies] by now!
- 7088: How many enemies have we defeated? Hmm, around $0...
- 7089: You wish to know the tally of defeated enemies? The last villain we defeated brings us to number $0.
- 7090: You want to know how many enemies we've beaten so far? Let me check... It's $0.
- 7091: The last one we took care of makes number $0, right? Not too shabby, if I do say so myself.
- 7092: Our progress, [sir/milady]? The last foe bested brings today's tally to $0 [enemy/enemies].
- 7093: We've defeated about $0 [enemy/enemies] now. That should quieten things down around here!
- 7094: I would say we've taken out around $0 [enemy/enemies] by now. Still more work to be done!
- 7095: The last enemy we defeated was number $0. As far as I remember.
- 7096: How many enemies have we downed? Umm...around $0. I think.
- 7097: You wish to know the tally of defeated enemies? The last villain we defeated brings us to number $0.
- 7098: Our tally stands at a meager $0 enemies. This is unacceptable. We're picking up the pace!
- 7099: We've beaten a lot more than three now...prrrobably.
- 7100: Defeated enemies? That was number $0, I believe.
- 7101: I'm just guessing here, but I'd say we've destroyed about $0 [enemy/enemies] today!
- 7102: Enemies defeated? I wasn't really keeping track. Around $0, I suppose...
- 7103: You wish to know the tally of defeated enemies? I believe our total comes to $0.
- 7104: How many enemies we've defeated? Isn't it something like $0?
- 7105: Let's see... So far we've wiped the floor with $0 enemies. Good job!
- 7106: The last foe bested brings today's tally to $0 [enemy/enemies]--a most impressive figure. Shall I prepare tea and biscuits?
- 7107: We just beat enemy number $0. They just keep coming, don't they?
- 7108: The last enemy we took down was number $0...I think.
- 7109: That last enemy brings us to a total of $0 [enemy/enemies] defeated. We've been busy.
- 7110: Umm, let's see here... We've beaten $0 [enemy/enemies] today, right? I've totally lost count...
- 7111: You wish to know the tally of defeated enemies? I believe our total comes to $0.
- 7112: We've already rid the land of $0 enemies today, but it doesn't seem to make even the slightest dint in their numbers.
- 7113: How many enemies we've beaten? Why, that would be heaps and heaps!
- 7114: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] appears frightened by the $1.
- 7115: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] appears frightened by the $1.
- 7116: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] appears frightened by the $1.
- 7117: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] appears frightened by the $1.
- 7118: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] appears frightened by the $1.
- 7119: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] appears frightened by the $1.
- 7120: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] appears frightened by the $1.
- 7121: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] appears frightened by the $1.
- 7122: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s personality changes!
- 7123: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s personality changed!
- 7124: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s personality changes!
- 7125: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s personality changes!
- 7126: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s personality changes!
- 7127: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s personality changes!
- 7128: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli]'s personality changes!
- 7129: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s personality changes!
- 7130: What do you think? It might be somewhat of an acquired taste...
- 7131: Well? Tastes great, doesn't it!?
- 7132: You've got some stuck on your lips.
- 7133: Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...
- 7134: I think I overcooked it a little. What do you think of the taste?
- 7135: Not bad is it? I bet you never thought me to be a cooking type!
- 7136: 
- 7137: Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?
- 7138: So...how was it? Did I make the texture too firm?
- 7139: What do you think? I tried picking an aroma I thought you'd like, you know.
- 7140: That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?
- 7141: I hope it's compatible with your taste buds...
- 7142: This isn't the time nor the place to be nonchalantly slurping up pasta!
- 7143: 
- 7144: $0...
- 7145: The mine explodes!
- 7146: The mine misfires...
- 7147: You retrieve the mine.
- 7148: You successfully deactivate the mine!
- 7149: You failed to deactivate the mine...
- 7150: Obtained $0 cruor. (Total: $1)
+ 6555: Obtained $0 gil.
+ 6556: Obtained key item: 3.
+ 6557: Lost key item: 3.
+ 6558: You do not have enough gil.
+ 6559: You obtain $1 $0 !
+ 6560: You do not have enough gil.
+ 6561: A party member has an NPC called up. You cannot take part in this event.
+ 6562: You obtain $1 $0 !
+ 6563: You find the hoofprint of a gigantic warhorse...
+ 6564: You set the $3 in the warhorse hoofprint.
+ 6565: The $0 is returned to you.
+ 6566: The $1 $0 are returned to you.
+ 6567: There is nothing out of the ordinary here.
+ 6568: You are suddenly overcome with a sense of foreboding...
+ 6569: Now is not the time for that!
+ 6570: It seems that you will have to wait a bit longer...
+ 6571: An aura of irrepressible might threatens to overwhelm you...
+ 6572: You no longer sense the monster's presence...
+ 6573: Adventurer! Feast your eyes on the might of an Orcish champion!
+ 6574: Adventurer! Hear the cry of a true Orcish warrior!
+ 6575: Witness the effectiveness of a common Quadav tactic!
+ 6576: Da'Vhu Deadeye heeds your command. Revel in the fighting spirit of the Quadav!
+ 6577: Kwakwah! Never forget the mercy of the Manifest, heretic! One day these talons will sink into your chest!
+ 6578: Think well on the words of the Manifest, heretic! Now hear the soaring voice of a Divine Inspirer!
+ 6579: Advennteurerueraroo! Sooosomeone 'n needs ofa amput...anmpyu...amputit...amptitationn?
+ 6580: You lika gammmble? Lessee if dice likes youse today. <Hic!>
+ 6581: [/I'm ready./Alright!/Okay.../Attention!/Okay, kiddo./Okay!/I'm ready./Okay!/Attention!] [/I suppose./Here we go!/Ready when you are./Weapon skill ready!/I'm ready./Bring it on!/We can start any time./Ready when you are!/Weapon skill ready!]
+ 6582: I'm ready. I suppose.
+ 6583: Alright! Here we go!
+ 6584: Okay... Ready when you are.
+ 6585: Attention! Weapon skill ready!
+ 6586: I'm ready. Just say when!
+ 6587: Good to go! This is gonna be fun!
+ 6588: My preparations are complete. Ready at your command.
+ 6589: Okay, kiddo. I'm ready.
+ 6590: Okay! Bring it on!
+ 6591: I'm ready. We can start any time.
+ 6592: Okay! Ready when you are!
+ 6593: Attention! Weapon skill ready!
+ 6594: What is taking so long? Aren't you ready yet?
+ 6595: I'm warmed up and rrready to go!
+ 6596: [/Ugh.../Dammit!/Ugh.../I'm too badly hurt./This is a little.../No!/Ugh.../Ouch!/I'm too badly hurt.] [/This could be bad.../I'm not going down!/I'm not done yet!/I don't think I can make it.../...tougher than I expected./I won't give up!/This may be the end.../Hey, that hurts!/I don't think I can make it...]
+ 6597: Ugh... This could be bad...
+ 6598: Dammit! I'm not going down!
+ 6599: Ugh... I'm not done yet!
+ 6600: I'm too badly hurt. I don't think I can make it...
+ 6601: Uh-oh, I'm in trouble...
+ 6602: This is getting rough. I'm not sure how much longer I can hold up...
+ 6603: It pains me to inform you, but I'm in severe pain...
+ 6604: This is a little... ...tougher than I expected.
+ 6605: No! I won't give up!
+ 6606: Ugh... This may be the end...
+ 6607: Ouch! Hey, that hurts!
+ 6608: I'm too badly hurt. I don't think I can make it...
+ 6609: Grrr... I...will not...be bested!
+ 6610: This is looking rrreally bad...
+ 6611: [/My magic.../Uh-oh!/Heads up./Attention!/Be careful./Whoops!/Careful./Hey!?/Attention!] [/...is running low./Running out of magic!/My magic is almost gone./Magical reserves running low!/I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/Magical reserves running low!]
+ 6612: My magic... ...is running low.
+ 6613: Uh-oh! Running out of magic!
+ 6614: Heads up. My magic is almost gone.
+ 6615: Attention! Magical reserves running low!
+ 6616: Nooo... I'm almost out of magic...
+ 6617: Sorry, but I'm running low on magic.
+ 6618: Excuse me, but my magical reserves are nearing depletion.
+ 6619: Be careful. I'm almost out of magic.
+ 6620: Whoops! Almost out of magic!
+ 6621: Careful. My magic is running low.
+ 6622: Hey!? Where'd all my magic go!?
+ 6623: Attention! Magical reserves running low!
+ 6624: Damn! Magical reserves critical!
+ 6625: Rrrunning low on magic here...
+ 6626: [/My magic?/Okay!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status?/Okay./Okay!/My magical reserves have recovered.] [/Don't worry, I have plenty./My magic is restored!/I'm ready./I'm ready to continue./Any time you're ready./Ready to go!/My magical reserves are almost full again./My magic is ready to go!/I'm ready to continue.]
+ 6627: My magic? Don't worry, I have plenty.
+ 6628: Okay! My magic is restored!
+ 6629: My magic has recovered. I'm ready.
+ 6630: My magical reserves have recovered. I'm ready to continue.
+ 6631: My magic's back to normal now.
+ 6632: Magic A-OK! Let's keep moving!
+ 6633: Apologies for the delay. My magic reserves are now in good order.
+ 6634: My magic is restored. Any time you're ready.
+ 6635: My magic status? Ready to go!
+ 6636: Okay. My magical reserves are almost full again.
+ 6637: Okay! My magic is ready to go!
+ 6638: My magical reserves have recovered. I'm ready to continue.
+ 6639: My magic has sufficiently recovered. Let's not delay any further.
+ 6640: Magic is rrripe and rrready!
+ 6641: [/I'm tired./Phew!/Hm./A fruitful day./I'm exhausted./Phew!/We fought many battles today./Wow!/A fruitful day.] [/I think we've done enough for today./It's been a busy day!/That should be enough for today./I believe we reached our quota./No more fighting for me./I guess we should call it quits for today!/Time to take a break./I'm exhausted!/I believe we reached our quota.]
+ 6642: I'm tired. I think we've done enough for today.
+ 6643: Phew! It's been a busy day!
+ 6644: Hm. That should be enough for today.
+ 6645: A fruitful day. I believe we reached our quota.
+ 6646: We've defeated quite a lot today.
+ 6647: We did great today! I can sleep well tonight knowing I made a difference.
+ 6648: Well done, [sir/milady]. We have accomplished much this day.
+ 6649: I'm exhausted. No more fighting for me.
+ 6650: Phew! I guess we should call it quits for today!
+ 6651: We fought many battles today. Time to take a break.
+ 6652: Wow! I'm exhausted!
+ 6653: A fruitful day. I believe we reached our quota.
+ 6654: Hm. I am satisfied with today's effort.
+ 6655: We did grrreat today, didn't we?
+ 6656: [/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.] [/...when you're having fun./Is that the time!/It's getting late./Quite some time has passed./It's past my bedtime./I didn't realize it was so late!/Where does all the time go?/It's getting late!/Quite some time has passed.]
+ 6657: Time flies... ...when you're having fun.
+ 6658: Whoa! Is that the time!
+ 6659: Hm. It's getting late.
+ 6660: Well, well. Quite some time has passed.
+ 6661: Awww, it's way past my nap time...
+ 6662: Time sure does fly when you're having fun.
+ 6663: A thousand pardons, [sir/milady], but I must take my leave.
+ 6664: Look at that. It's past my bedtime.
+ 6665: Whoa! I didn't realize it was so late!
+ 6666: Well, now. Where does all the time go?
+ 6667: Hey! It's getting late!
+ 6668: Oh my. Quite some time has passed.
+ 6669: It's rather late.
+ 6670: <Yawn> So...sleepy...
+ 6671: [/I guess I'll be going./Well, I'm off then!/I'm headed off./I take my leave of you./Must be going./Well, I'm off then!/It's time for me to go./I gotta go now!/I take my leave of you.] [/See you around./See you soon!/Later./Until we meet again./Take care of yourself./See you soon!/Farewell./Bye!/Until we meet again.]
+ 6672: I guess I'll be going. See you around.
+ 6673: Well, I'm off then! See you soon!
+ 6674: I'm headed off. Later.
+ 6675: I take my leave of you. Until we meet again.
+ 6676: I'm going now. Call me again.
+ 6677: It's time I hit the road. Don't go forgetting about me, you hear!
+ 6678: Until next time, then. I shall be prepared for for when you next call.
+ 6679: Must be going. Take care of yourself.
+ 6680: Well, I'm off then! See you soon!
+ 6681: It's time for me to go. Farewell.
+ 6682: I gotta go now! Bye!
+ 6683: I take my leave of you. Until we meet again.
+ 6684: I'm going now. Don't do anything stupid in my absence.
+ 6685: See you laterrr! Bye!
+ 6686: [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]
+ 6687: Getting rid of me already?
+ 6688: Are we done already!?
+ 6689: Are we done for the day?
+ 6690: Time to part ways?
+ 6691: Are we finished already? Awww...
+ 6692: Huh? Party's over?
+ 6693: Oh? Do you have engagements elsewhere? As you wish, then.
+ 6694: Sending me on my way?
+ 6695: Are we done already!?
+ 6696: Time for goodbyes?
+ 6697: What? You want me to go?
+ 6698: Time to part ways?
+ 6699: I come all the way here, and now you want me to leave? We'll have to do something about your impudence.
+ 6700: You don't want me to stay? Meow...
+ 6701: [/Well./We're not done yet, right?/Changed your mind?/You wish to continue?/We're not done, are we?/We're still good to go, right?/Still ready for action?/You changed your mind!?/You wish to continue?] [/I suppose I could stick around./Let's go!/No problem./Very well, let us proceed./Then let's get back to it./Okay, off we go!/I can stay around a little more./Great, I'm ready for more!/Very well, let us proceed.]
+ 6702: Well. I suppose I could stick around.
+ 6703: We're not done yet, right? Let's go!
+ 6704: Changed your mind? No problem.
+ 6705: You wish to continue? Very well, let us proceed.
+ 6706: Yay! let's keep at it!
+ 6707: That's music to my ears! It's waaay too early for the party to end!
+ 6708: Very good, [sir/milady]. It will be my pleasure to accompany you further.
+ 6709: We're not done, are we? Then let's get back to it.
+ 6710: We're still good to go, right? Okay, off we go!
+ 6711: Still ready for action? I can stay around a little more.
+ 6712: You changed your mind!? Great, I'm ready for more!
+ 6713: You wish to continue? Very well, let us proceed.
+ 6714: Changed your mind? We'll have to do something about your indecisiveness.
+ 6715: Yay! Let's keep going!
+ 6716: [/Your fight is with me./Bring it on!/Over here./I will be your opponent this day!/I'll take it from here./Over here!/Over here./Hey! Don't ignore me!/I will be your opponent this day!]
+ 6717: Your fight is with me.
+ 6718: Bring it on!
+ 6719: Over here.
+ 6720: I will be your opponent this day!
+ 6721: Over here, you big meanie!
+ 6722: You wanna fight? Fight me!
+ 6723: Ahem! Your attention, please!
+ 6724: I'll take it from here.
+ 6725: Over here!
+ 6726: Over here.
+ 6727: Hey! Don't ignore me!
+ 6728: I will be your opponent this day!
+ 6729: Look at me when I'm talking to you!
+ 6730: Hisss!!!
+ 6731: [/You called?/Here I am!/You're here. I'm here./Greetings./Sure, I'll help./Hey there!/Good day./Hello!/Greetings.] [/I'm ready to go./Ready for anything!/Let's get moving./A fine day for adventuring./Try not to slow me down./I'm ready to go!/Shall we get moving?/What are we up to today?/A fine day for adventuring.]
+ 6732: You called? I'm ready to go.
+ 6733: Here I am! Ready for anything!
+ 6734: You're here. I'm here. Let's get moving.
+ 6735: Greetings. A fine day for adventuring.
+ 6736: Sorry to keep you waiting. Let's go!
+ 6737: Did you wait long? Alright, let's go have some fun!
+ 6738: Please forgive my tardiness. I'm yours to command.
+ 6739: Sure, I'll help. Try not to slow me down.
+ 6740: Hey there! I'm ready to go!
+ 6741: Good day. Shall we get moving?
+ 6742: Hello! What are we up to today?
+ 6743: Greetings. A fine day for adventuring.
+ 6744: Let's go. Try not to get in the way.
+ 6745: Meow!
+ 6746: [/It might be time to head back to town./I have to be heading back soon./My reflexes are starting to slow./I believe it's almost time for a rest./A nice soft bed is looking good about now./We've been at this for a while now./Sorry, but I have some other chores to take care of./I'm starting to get kinda tired./I believe it's almost time for a rest.] [/I think I need a rest./Other duties call!/We should call it a day pretty soon./Shall we head back to town shortly?/Shall we call it quits soon?/I think I have enough energy for one last spurt!/Can we finish up here soon?/But I can keep going for a little while! <Yawn>.../Shall we head back to town shortly?]
+ 6747: It might be time to head back to town. I think I need a rest.
+ 6748: I have to be heading back soon. Other duties call!
+ 6749: My reflexes are starting to slow. We should call it a day pretty soon.
+ 6750: I believe it's almost time for a rest. Shall we head back to town shortly?
+ 6751: I've almost had enough for one day.
+ 6752: Whoops! Forgot to tell you, but I have to be somewhere soon.
+ 6753: I regret to inform you that my presence will be required in town shortly. I pray you do not think ill of me.
+ 6754: A nice soft bed is looking good about now. Shall we call it quits soon?
+ 6755: We've been at this for a while now. I think I have enough energy for one last spurt!
+ 6756: Sorry, but I have some other chores to take care of. Can we finish up here soon?
+ 6757: I'm starting to get kinda tired. But I can keep going for a little while! <Yawn...>
+ 6758: I believe it's almost time for a rest. Shall we head back to town shortly?
+ 6759: I've babysitted you long enough for one day. I will leave soon.
+ 6760: This is getting borrring...
+ 6761: [/We've been through a good number of enemies./I think I'm finally getting tired./We've done enough today, I think./We've proved ourselves in battle this day./Phew, I'm beat./Maybe just one more battle./We should call it day./Phew! I'm beat!/We've proved ourselves in battle this day.] [/One more ought to do it./Should we make the next battle our last?/Let's make the next battle our last./Let us make the next opponent our last./One more battle ought to do it./This time I mean it, honest!/Let's make the next battle our last./One more battle?/Let us make the next opponent our last.]
+ 6762: We've been through a good number of enemies. One more ought to do it.
+ 6763: I think I'm finally getting tired. Should we make the next battle our last?
+ 6764: We've done enough today, I think. Let's make the next battle our last.
+ 6765: We've proved ourselves in battle this day. Let us make the next opponent our last.
+ 6766: <Puff, wheeze> Just one more battle, okay?
+ 6767: I'm starting to feel sorry for our opponents! Think I'll call it a day after the next one.
+ 6768: Would I be out of place to recommend recuperating? Let us return to town upon the next battle's conclusion.
+ 6769: Phew, I'm beat. One more battle ought to do it.
+ 6770: Maybe just one more battle. This time I mean it, honest!
+ 6771: We should call it day. Let's make the next battle our last.
+ 6772: Phew! I'm beat! One more battle?
+ 6773: We've proved ourselves in battle this day. Let us make the next opponent our last.
+ 6774: One more victory should satisfy me for the day.
+ 6775: I'm sooo tirrred...
+ 6776: [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?] [/Call if you need me./Call me again any time!/No problem. Until we meet again./Very well. Until we meet again./I'll be around if you need me./It's been fun!/Until next we meet./Make sure you keep in touch!/Very well. Until we meet again.]
+ 6777: Getting rid of me already? Call if you need me.
+ 6778: Are we done already!? Call me again any time!
+ 6779: Are we done for the day? No problem. Until we meet again.
+ 6780: Time to part ways? Very well. Until we meet again.
+ 6781: Are we finished already? Awww... Call me again, okay?
+ 6782: Huh? Party's over? That's a shame... Let's do this again sometime!
+ 6783: Oh? Do you have engagements elsewhere? As you wish. I shall be prepared for when you next call.
+ 6784: Sending me on my way? I'll be around if you need me.
+ 6785: Are we done already!? It's been fun!
+ 6786: Time for goodbyes? Until next we meet.
+ 6787: What? You want me to go? Make sure you keep in touch!
+ 6788: Time to part ways? Very well. Until we meet again.
+ 6789: I come all the way here, and now you want me to leave? Hmph. Just don't let me catch you slacking off from your drills.
+ 6790: Alrrright! I'll see you later.
+ 6791: You are unable to disband with your fellow at this time.
+ 6792: [/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]
+ 6793: A parting gift!
+ 6794: Ha!
+ 6795: Back to the pit with you!
+ 6796: The tide of battle turns!
+ 6797: How do you like this!?
+ 6798: I saved this just for you!
+ 6799: I believe it is my turn!
+ 6800: Your time is up!
+ 6801: Time for action!
+ 6802: This battle is ours!
+ 6803: Try this on for size!
+ 6804: The tide of battle turns!
+ 6805: Taste my wrath!
+ 6806: Hisss! Superrr...attack!
+ 6807: [/I'm ready to fight./I'm in top shape and ready to go!/We can start fighting any time./I'm prepared for battle./I'm ready to fight anytime./I'm good to go!/I'm ready when you are./I'm all healed up and ready to go!/I'm prepared for battle.]
+ 6808: I'm ready to fight.
+ 6809: I'm in top shape and ready to go!
+ 6810: We can start fighting any time.
+ 6811: I'm prepared for battle.
+ 6812: I feel good!
+ 6813: I'm ready to rumble!
+ 6814: Fit as a fiddle, and at your command.
+ 6815: I'm ready to fight anytime.
+ 6816: I'm good to go!
+ 6817: I'm ready when you are.
+ 6818: I'm all healed up and ready to go!
+ 6819: I'm prepared for battle.
+ 6820: You presume to be my guardian? I suggest you worry about yourself.
+ 6821: I feel grrreat! Come on, let me at them!
+ 6822: [/Don't worry about me./No problem!/Nothing to worry about./Don't hold back on my account./This little scratch?/This little scratch?/Nice of you to worry./No problem!/Don't hold back on my account.] [/It's just a scratch./This is just a scratch!/Just a scratch./This is a mere scratch./Pay it no mind./I've had bigger paper cuts!/But I'm fine, it's just a scratch./This little scratch won't slow me down!/This is a mere scratch.]
+ 6823: Don't worry about me. It's just a scratch.
+ 6824: No problem! This is just a scratch!
+ 6825: Nothing to worry about. Just a scratch.
+ 6826: Don't hold back on my account. This is a mere scratch.
+ 6827: I'm fine. No need to worry, okay?
+ 6828: This? An injury? Psshaw!
+ 6829: Thank you for asking, but this is no cause for concern.
+ 6830: This little scratch? Pay it no mind.
+ 6831: This little scratch? I've had bigger paper cuts!
+ 6832: Nice of you to worry. But I'm fine, it's just a scratch.
+ 6833: No problem! This little scratch won't slow me down!
+ 6834: Don't hold back on my account. This is a mere scratch.
+ 6835: I would hardly call this a scratch. Don't mind me, mind yourself.
+ 6836: Around seven out of nine lives rrremaining!
+ 6837: [/I should probably rest a little more./I'm not gonna let a slight wound like this keep me down!/You might want to keep on eye on my health./Shouldn't we rest a little?/I'm a little tired./I'm still fairly fresh, but maybe we should rest a bit more./I'm a little tired./Can we take a break?/Shouldn't we rest a little?] [/ Just in case./ I'm ready for more!/ Better to be ready for anything./I question my ability to survive another battle./Maybe we should rest a bit./Then I'll be ready for anything!/Shall we rest for a bit?/I don't think I can handle another fight just yet./I question my ability to survive another battle.]
+ 6838: I should probably rest a little more. Just in case.
+ 6839: I'm not gonna let a slight wound like this keep me down! I'm ready for more!
+ 6840: You might want to keep on eye on my health. Better to be ready for anything.
+ 6841: Shouldn't we rest a little? I question my ability to survive another battle.
+ 6842: I'm fine...really.
+ 6843: I think I still can push on for a while.
+ 6844: I am not in immediate danger, but prevention is better than cure. And cure is better than raise...
+ 6845: I'm a little tired. Maybe we should rest a bit.
+ 6846: I'm still fairly fresh, but maybe we should rest a bit more. Then I'll be ready for anything!
+ 6847: I'm a little tired. Shall we rest for a bit?
+ 6848: Can we take a break? I don't think I can handle another fight just yet.
+ 6849: Shouldn't we rest a little? I question my ability to survive another battle.
+ 6850: Hm... Our opponents are quite determined to make us work.
+ 6851: Around five out of nine lives rrremaining!
+ 6852: [/We should really take a break./I feel a little...lightheaded./That last fight took it out of me./Let's take a break, shall we?/I'm exhausted./Phew!/I'm exhausted./Phew.../Let's take a break, shall we?] [/I'm not ready for another battle./Maybe we should take a break./Let me catch my breath./No sense rushing into battle in this condition./Can you give me a minute./I think I've earned a break, don't you?/Can we sit down...for a bit...?/I think I need to lie down.../No sense rushing into battle in this condition.]
+ 6853: We should really take a break. I'm not ready for another battle.
+ 6854: I feel a little...lightheaded. Maybe we should take a break.
+ 6855: That last fight took it out of me. Let me catch my breath.
+ 6856: Let's take a break, shall we? No sense rushing into battle in this condition.
+ 6857: I need to take a break soon.
+ 6858: Hey, how about taking five?
+ 6859: Might I be so bold as to suggest we rest?
+ 6860: I'm exhausted. Can you give me a minute?
+ 6861: Phew! I think I've earned a break, don't you?
+ 6862: I'm exhausted. Can we sit down...for a bit...?
+ 6863: Phew... I think I need to lie down...
+ 6864: Let's take a break, shall we? No sense rushing into battle in this condition.
+ 6865: <Puff> Tell me if you feel...you need rest... <Pant> I mean it...
+ 6866: Around three out of nine lives rrremaining...
+ 6867: [/We really should rest./No...no more.../Hold on.../I'm at my limit./Enough!/Whoa.../Please.../Can't...fight...any...longer.../I'm at my limit.] [/I don't think I can survive another fight./I gotta sit down.../I need to get my strength back.../Please let me recover my strength./Let me rest already!/I think I'm gonna fall over.../I need to sit down.../Must...rest.../Please let me recover my strength.]
+ 6868: We really should rest. I don't think I can survive another fight.
+ 6869: No...no more... I gotta sit down...
+ 6870: Hold on... I need to get my strength back...
+ 6871: I'm at my limit. Please let me recover my strength.
+ 6872: I can't...go on. You have to let me rest...
+ 6873: Ugh... If you hadn't noticed, I seriously need rest.
+ 6874: I fear the next battle may be my last. I beseech you, please permit me to rest.
+ 6875: Enough! Let me rest already!
+ 6876: Whoa... I think I'm gonna fall over...
+ 6877: Please... I need to sit down...
+ 6878: Can't...fight...any...longer... Must...rest...
+ 6879: I'm at my limit. Please let me recover my strength.
+ 6880: The enemy isn't going anywhere. Withdraw and regroup!
+ 6881: I'm almost out of lives. Meow...
+ 6882: [/No need to worry about my magic, I have plenty./My magic reserves are full!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status is A-OK!/My magical reserves are full./Magic-wise, I'm good to go!/My magical reserves have recovered.]
+ 6883: No need to worry about my magic, I have plenty.
+ 6884: My magic reserves are full!
+ 6885: My magic has recovered.
+ 6886: My magical reserves have recovered.
+ 6887: My magic? Full to the brim!
+ 6888: I've got magic to burn!
+ 6889: I am overflowing with magic.
+ 6890: My magic is restored.
+ 6891: My magic status is A-OK!
+ 6892: My magical reserves are full.
+ 6893: Magic-wise, I'm good to go!
+ 6894: My magical reserves have recovered.
+ 6895: I have more than enough magic.
+ 6896: I have a full tank of magic!
+ 6897: [/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?] [/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]
+ 6898: Hmm. Better keep an eye on my magic reserves.
+ 6899: Let's see now. I think my magic is about half gone.
+ 6900: My magic? It might be time to rest soon.
+ 6901: My magical reserves? Depleted to about the halfway mark.
+ 6902: I have around half of my magic left.
+ 6903: My magic is good for a while yet.
+ 6904: My magical reserves should suffice for now, but we best avoid taking unnecessary risks.
+ 6905: Are you relying on my magic? If so, we may need to rest soon.
+ 6906: I still have lots of magic left! Well, maybe half...
+ 6907: My magic? It might be time to keep an eye on my reserves.
+ 6908: Hmmm. I've used up half my magic already...
+ 6909: My magical reserves? Depleted to about the halfway mark.
+ 6910: My magical reserves don't require your sympathy just yet.
+ 6911: I've used up arrround half my magic.
+ 6912: [/My magic is running low.../I've almost run out of magic!/My magic is almost gone./My magical reserves are running low./I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/My magical reserves are running low.]
+ 6913: My magic is running low...
+ 6914: I've almost run out of magic!
+ 6915: My magic is almost gone.
+ 6916: My magical reserves are running low.
+ 6917: Nooo... I'm almost out of magic...
+ 6918: Magic? I'm scraping the bottom of the barrel here...
+ 6919: My magical reserves are nearing depletion.
+ 6920: I'm almost out of magic.
+ 6921: Almost out of magic!
+ 6922: My magic is running low.
+ 6923: Where'd all my magic go!?
+ 6924: My magical reserves are running low.
+ 6925: My magic will no longer be of much aid. Stay sharp!
+ 6926: My magic...it's all gone!
+ 6927: [/I've just recently gained a level./I've just gained a level./Take it easy./I have recently risen in level./I've just gained a level./I just gained a level!/Little time has passed since I last gained a level./I've just gained a level, I know./I have recently risen in level.] [/There's still a lot of work to be done until the next one./I'm itching to get out and test my newfound strength!/I've just gained a level./The next level is still quite some distance away./The next level is still quite a way off./You can't expect me to level again any time soon!/The next level is still some distance away./But I still can't wait until I go up again!/The next level is still quite some distance away.]
+ 6928: I've just recently gained a level. There's still a lot of work to be done until the next one.
+ 6929: I've just gained a level. I'm itching to get out and test my newfound strength!
+ 6930: Take it easy. I've just gained a level.
+ 6931: I have recently risen in level. The next level is still quite some distance away.
+ 6932: I've just leveled up, but with your help, it'll take no time at all to get to the next level!
+ 6933: Hey, I just leveled up, didn't I? Easy on the expectations there, partner.
+ 6934: Since I have just gained a level, it will be quite some time until I reach the next. Sorry to disappoint you, [sir/milady].
+ 6935: I've just gained a level. The next level is still quite a way off.
+ 6936: I just gained a level! You can't expect me to level again any time soon!
+ 6937: Little time has passed since I last gained a level. The next level is still some distance away.
+ 6938: I've just gained a level, I know. But I still can't wait until I go up again!
+ 6939: I have recently risen in level. The next level is still quite some distance away.
+ 6940: I just leveled up! We'll have to do something about your memory problem.
+ 6941: It's so farrr away...
+ 6942: [/My experience is still shallow./I have lots of work to do!/Not even close.../There is still much work to be done./Not even close.../I have lots of work to do!/I still have much to do./Ho-hum./There is still much work to be done.] [/I have much work to do./I need more experience if I'm gonna get stronger!/I still have much experience to gain./I must gain more experience if I am to become stronger./I still have much experience to gain./I need more experience if I'm gonna get stronger!/I must gain more experience in order to grow stronger./Still lots of work to do until my next level!/I must gain more experience if I am to become stronger.]
+ 6943: My experience is still shallow. I have much work to do.
+ 6944: I have lots of work to do! I need more experience if I'm gonna get stronger!
+ 6945: Not even close... I still have much experience to gain.
+ 6946: There is still much work to be done. I must gain more experience if I am to become stronger.
+ 6947: I still have to gain lots more experience, but I'll do my best!
+ 6948: My next level is still ages away. Why hurry? Don't worry, be happy!
+ 6949: I have made some progress, but the next level still eludes me.
+ 6950: Not even close... I still have much experience to gain.
+ 6951: I have lots of work to do! I need more experience if I'm gonna get stronger!
+ 6952: I still have much to do. I must gain more experience in order to grow stronger.
+ 6953: Ho-hum. Still lots of work to do until my next level!
+ 6954: There is still much work to be done. I must gain more experience if I am to become stronger.
+ 6955: My level won't rise if we stand around talking like this!
+ 6956: No, don't rrremind me! Such a long way to go...
+ 6957: [/I've gained a fair amount of experience./I think I must be almost halfway to my next level./Hmm./I believe I've almost reached the halfway point to my next level./I do believe I'm coming up on halfway to my next level./I think I must be almost halfway to my next level./I've come a long way towards my next level./We've been busy, huh?/I believe I've almost reached the halfway point to my next level.] [/I must be close to halfway to my next level by now./Can't slow down now!/I must be almost halfway to my next level by now./Let's not rest on our laurels, however!/That was much faster than I expected./No time to be slacking off!/Must be close to halfway by now./I think I'm almost halfway to my next level./Let's not rest on our laurels, however!]
+ 6958: I've gained a fair amount of experience. I must be close to halfway to my next level by now.
+ 6959: I think I must be almost halfway to my next level. Can't slow down now!
+ 6960: Hmm. I must be almost halfway to my next level by now.
+ 6961: I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
+ 6962: I think I'm about half way there...
+ 6963: I'm half way there, so let's keep up the pace!
+ 6964: Through sustained effort and your invaluable assistance, I believe I now stand at the halfway point.
+ 6965: I do believe I'm coming up on halfway to my next level. That was much faster than I expected.
+ 6966: I think I must be almost halfway to my next level. No time to be slacking off!
+ 6967: I've come a long way towards my next level. Must be close to halfway by now.
+ 6968: We've been busy, huh? I think I'm almost halfway to my next level.
+ 6969: I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
+ 6970: I still haven't acquired enough experience. About double what I have now should be sufficient for the next level.
+ 6971: I'm halfway there...maybe?
+ 6972: [/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.] [/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]
+ 6973: Hmm. Not too much further to my next level.
+ 6974: This is a good pace! Not much more to my next level!
+ 6975: Hmm. Still need a little more experience for my next level.
+ 6976: Well, well. It appears my next level is not far off at all.
+ 6977: I'm slowly getting closer to the next level.
+ 6978: I reckon I'm fairly close to the next level.
+ 6979: My next level is now visible on the horizon.
+ 6980: Just a little more. My next level is not too far away.
+ 6981: Come on! I need to gain a little more experience for my next level!
+ 6982: I'm past the halfway point. Not long now until I gain another level.
+ 6983: Just a little more! My next level is almost within sight!
+ 6984: Well, well. It appears my next level is not far off at all.
+ 6985: My next level draws ever nearer. But that doesn't mean you can slack off.
+ 6986: It can't be so far off, now...can it?
+ 6987: [/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.] [/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]
+ 6988: Hmm. I should be gaining a level soon.
+ 6989: I'm almost there! I can almost taste my next level!
+ 6990: Not long now. My next level is just around the corner.
+ 6991: Any time now. My next level is very close, indeed.
+ 6992: I think I'll level up any time now! Yay!
+ 6993: Ooh, the next level's close...really close. We should prepare to celebrate!
+ 6994: Why, I would not be surprised if my level were to rise...now! Er...perhaps not quite yet.
+ 6995: Well, what do you know? I think I'll be gaining a level soon.
+ 6996: Woohoo! I'll be leveling up really soon!
+ 6997: This is encouraging. I should be gaining a level any time now.
+ 6998: I love this time! I'm on the final stretch towards my next level!
+ 6999: Any time now. My next level is very close, indeed.
+ 7000: My next level is within reaching distance! From now it's a charge to the finish line!
+ 7001: <Sniff, sniff> I think I can smell my next level! Come out, come out, whereverrr you are!
+ 7002: I tell you what. Changing your weapon is fun. Seriously.
+ 7003: It's always nice to come outside and move around! Those Mog Houses can get so stuffy! Wanna race?
+ 7004: ... We should keep the chat down. The sound could give our position away to some beastman...
+ 7005: It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
+ 7006: Wh-what? Y...you say you want to have a conversation? Um, here goes... Er...nice weather, isn't it...?
+ 7007: You know, we've been adventuring together for a while now, but we still have lots to learn about each other.
+ 7008: You called? How may I be of service? You need but ask, and it shall be done!
+ 7009: I love to chat. But we should keep an eye out for wandering monsters. Just in case.
+ 7010: Treasure? I'm not really interested. You go ahead and keep it all.
+ 7011: I just realized something. I've never once had Signet cast on me. Oh well, never mind...
+ 7012: Communication is really important. We should always let each other know what we're thinking, right? No secrets!
+ 7013: It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
+ 7014: There is a time and place for idle chatter. No, I stand corrected: There is no time nor place for idle chatter.
+ 7015: She floats like a butterfly and stings like a bee.t The grrreatest Mithra in the world--that's me!t
+ 7016: Fight or evade? I'll leave those decisions up to you. Either is fine with me.
+ 7017: Battle strategy! We should work together, you know. I know some great weapon skills!
+ 7018: No need to worry. I've had training in all sorts of weapons. Try me.
+ 7019: Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
+ 7020: ...... S-sorry, but I couldn't think of anything to say. I'm not very good at conversation and stuff...
+ 7021: Seems to me all we do is fight, fight, and fight. Next time we should do something different--something fun!
+ 7022: While your battle prowess is beyond criticism, the ability to gracefully wield knife and fork at the dining table must not be underestimated. Might I be so bold as to suggest spending more time mastering table manners?
+ 7023: It's surprising. There's so much beauty to be found outside the city walls. I spend too much time in clothes stores.
+ 7024: Listen. Let me know if you want me to take the heat. I can take it!
+ 7025: I like the outdoors. Away from the hustle and bustle of the towns. So relaxing...
+ 7026: Hey! It's really a lot of fun adventuring with you. We get to see all kinds of things!
+ 7027: Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
+ 7028: If I wanted to engage in petty conversation, I'd ask for it!
+ 7029: Heal the worrrld.t Make it a better place.t For you and for me, and the entire Mithran rrrace.t
+ 7030: Is that a yawn? Be careful to get enough sleep. It could affect your performance in battle.
+ 7031: You know me! I can take the hits. Just bring it on!
+ 7032: ... Sometimes... I just like to be quiet...
+ 7033: A small reminder: We should be extra careful out here. You never know when an enemy may be near...
+ 7034: Um... I've been meaning to ask, I mean... I hope you don't mind me asking, but...uh... Nevermind... <Sigh>
+ 7035: You know, it's kind of embarrassing we have exactly the same pearl, don't you think?
+ 7036: Nothing grants me greater happiness than being able to stand at your side, come what may.
+ 7037: By the way. You don't have to handle everything yourself. I can take the frontline sometimes, too.
+ 7038: Ah, this is fun! I love visiting different places. Don't you?
+ 7039: By the way. I'll be there for you, no matter what. Even if your opponent seems too weak to be worthwhile.
+ 7040: You never know when something bad is going to happen. What's that over there!? Kidding!
+ 7041: A small reminder: We should be extra careful out here. You never know when an enemy may be near...
+ 7042: Your curiosity and persistence will take you a long way. But it can be irritating, so don't overdo it.
+ 7043: Huh...? What is this place? Why am I here? I was supposed to be--ow! My head hurrrts...
+ 7044: [/Ready?/Keep your eyes open!/I see an opening./Are you ready?/I'm warmed up now./Don't blink now!/Are you ready?/Alrighty!/Are you ready?] [/I'm taking my shot!/You don't wanna miss this!/Get ready to follow up./I'm beginning my attack!/Time for a real attack!/Follow my lead!/I'm taking my shot!/Here goes nothing!/I'm beginning my attack!]
+ 7045: Ready? I'm taking my shot!
+ 7046: Keep your eyes open! You don't wanna miss this!
+ 7047: I see an opening. Get ready to follow up.
+ 7048: Are you ready? I'm beginning my attack!
+ 7049: I'm going to attack! Are you ready?
+ 7050: Keep your eyes peeled! I'm going in for the big one!
+ 7051: Are preparations in order, [sir/milady]? Then, I shall proceed with my offensive.
+ 7052: I'm warmed up now. Time for a real attack!
+ 7053: Don't blink now! Follow my lead!
+ 7054: Are you ready? I'm taking my shot!
+ 7055: Alrighty! Here goes nothing!
+ 7056: Are you ready? I'm beginning my attack!
+ 7057: I'm going in, so get ready! No slipping up!
+ 7058: It's my turrrn! Get ready to pounce after me!
+ 7059: Blessed radiance! Purge this evil with your purifying light!
+ 7060: Blessed radiance! Grant me your power!
+ 7061: Blessed radiance! Strike down this evil with blades of cleansing incandescence!
+ 7062: Blessed radiance! Lend me the strength to defeat this evil!
+ 7063: Blessed radiance! Lend me your power!
+ 7064: Blessed radiance! Smite this evil with your purifying light!
+ 7065: Blessed radiance! I humbly call upon thee! Protect us with your divine light!
+ 7066: Blessed radiance! Purge this evil with your purifying light!
+ 7067: Blessed radiance! Grant me your power!
+ 7068: Blessed radiance! Strike down this evil with blades of cleansing incandescence!
+ 7069: Blessed radiance! Grant me your power!
+ 7070: Blessed radiance! Lend me the strength to defeat this evil!
+ 7071: Blessed radiance! Strike down this evil with your divine beam of judgment!
+ 7072: Blessed rrradiance! Go forth and...zap that evil thing...over there! Meow!
+ 7073: Defeated enemies? That was number $0.
+ 7074: So far, we've only taken down $0 [enemy/enemies] today!
+ 7075: How many enemies have we defeated? Only $0. You can count that high, right...?
+ 7076: You wish to know the tally of defeated enemies? Why, we have only vanquished $0 [foe/foes] so far.
+ 7077: We haven't defeated many enemies yet. Only $0 so far.
+ 7078: We've only defeated $0 [enemy/enemies] so far. Nothing to write home about.
+ 7079: Our progress, [sir/milady]? The last foe bested brings today's tally to $0 [enemy/enemies].
+ 7080: We've only beaten $0 [enemy/enemies] so far. Don't tell me you're tired already!?
+ 7081: Only $0 [enemy has/enemies have] fallen to us today! We're just getting started!
+ 7082: The last enemy we defeated was number $0.
+ 7083: The last enemy we took down was number $0.
+ 7084: You wish to know the tally of defeated enemies? Why, we have only vanquished $0 [foe/foes] so far.
+ 7085: Only $0 [enemy/enemies] defeated so far. This doesn't even amount to a warm-up.
+ 7086: We've beaten at least two...right?
+ 7087: Defeated enemies? That was number $0.
+ 7088: I'd say we've blasted through around $0 [enemy/enemies] by now!
+ 7089: How many enemies have we defeated? Hmm, around $0...
+ 7090: You wish to know the tally of defeated enemies? The last villain we defeated brings us to number $0.
+ 7091: You want to know how many enemies we've beaten so far? Let me check... It's $0.
+ 7092: The last one we took care of makes number $0, right? Not too shabby, if I do say so myself.
+ 7093: Our progress, [sir/milady]? The last foe bested brings today's tally to $0 [enemy/enemies].
+ 7094: We've defeated about $0 [enemy/enemies] now. That should quieten things down around here!
+ 7095: I would say we've taken out around $0 [enemy/enemies] by now. Still more work to be done!
+ 7096: The last enemy we defeated was number $0. As far as I remember.
+ 7097: How many enemies have we downed? Umm...around $0. I think.
+ 7098: You wish to know the tally of defeated enemies? The last villain we defeated brings us to number $0.
+ 7099: Our tally stands at a meager $0 enemies. This is unacceptable. We're picking up the pace!
+ 7100: We've beaten a lot more than three now...prrrobably.
+ 7101: Defeated enemies? That was number $0, I believe.
+ 7102: I'm just guessing here, but I'd say we've destroyed about $0 [enemy/enemies] today!
+ 7103: Enemies defeated? I wasn't really keeping track. Around $0, I suppose...
+ 7104: You wish to know the tally of defeated enemies? I believe our total comes to $0.
+ 7105: How many enemies we've defeated? Isn't it something like $0?
+ 7106: Let's see... So far we've wiped the floor with $0 enemies. Good job!
+ 7107: The last foe bested brings today's tally to $0 [enemy/enemies]--a most impressive figure. Shall I prepare tea and biscuits?
+ 7108: We just beat enemy number $0. They just keep coming, don't they?
+ 7109: The last enemy we took down was number $0...I think.
+ 7110: That last enemy brings us to a total of $0 [enemy/enemies] defeated. We've been busy.
+ 7111: Umm, let's see here... We've beaten $0 [enemy/enemies] today, right? I've totally lost count...
+ 7112: You wish to know the tally of defeated enemies? I believe our total comes to $0.
+ 7113: We've already rid the land of $0 enemies today, but it doesn't seem to make even the slightest dint in their numbers.
+ 7114: How many enemies we've beaten? Why, that would be heaps and heaps!
+ 7115: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] appears frightened by the $1.
+ 7116: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] appears frightened by the $1.
+ 7117: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] appears frightened by the $1.
+ 7118: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] appears frightened by the $1.
+ 7119: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] appears frightened by the $1.
+ 7120: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] appears frightened by the $1.
+ 7121: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] appears frightened by the $1.
+ 7122: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] appears frightened by the $1.
+ 7123: [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s personality changes!
+ 7124: [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s personality changed!
+ 7125: [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s personality changes!
+ 7126: [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s personality changes!
+ 7127: [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s personality changes!
+ 7128: [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s personality changes!
+ 7129: [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli]'s personality changes!
+ 7130: [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s personality changes!
+ 7131: What do you think? It might be somewhat of an acquired taste...
+ 7132: Well? Tastes great, doesn't it!?
+ 7133: You've got some stuck on your lips.
+ 7134: Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...
+ 7135: I think I overcooked it a little. What do you think of the taste?
+ 7136: Not bad is it? I bet you never thought me to be a cooking type!
+ 7137: 
+ 7138: Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?
+ 7139: So...how was it? Did I make the texture too firm?
+ 7140: What do you think? I tried picking an aroma I thought you'd like, you know.
+ 7141: That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?
+ 7142: I hope it's compatible with your taste buds...
+ 7143: This isn't the time nor the place to be nonchalantly slurping up pasta!
+ 7144: 
+ 7145: $0...
+ 7146: The mine explodes!
+ 7147: The mine misfires...
+ 7148: You retrieve the mine.
+ 7149: You successfully deactivate the mine!
+ 7150: You failed to deactivate the mine...
  7151: Obtained $0 cruor. (Total: $1)
- 7152: You do not have enough cruor.
+ 7152: Obtained $0 cruor. (Total: $1)
  7153: You do not have enough cruor.
- 7154: You have obtained all of Lilisette's memory fragments. Make haste and report to Cait Sith.
- 7155: You cannot perform that action. Come back after you have obtained visitant status.
- 7156: You cannot perform that action while participating in Bastion.
- 7157: Target out of range.
- 7158: You cannot view this event while holding claim over a synergy furnace.
- 7159: You cannot perform that action with a free trial account.
- 7160: You must wait another $0 [day/days] to perform that action.
- 7161: <Player> gained $0 [points of experience/limit points].
- 7162: You cannot carry any more $5.
- 7163: You have carried over $1 login point[/s].
- 7164: The [/January/February/March/April/May/June/July/August/September/October/November/December] $0 Login Campaign is currently underway!
- 7165: In celebration of your most recent login (login no. $1), we have provided you with $2 points! You currently have a total of $3 points.
- 7166: 
+ 7154: You do not have enough cruor.
+ 7155: You have obtained all of Lilisette's memory fragments. Make haste and report to Cait Sith.
+ 7156: You cannot perform that action. Come back after you have obtained visitant status.
+ 7157: You cannot perform that action while participating in Bastion.
+ 7158: Target out of range.
+ 7159: You cannot view this event while holding claim over a synergy furnace.
+ 7160: You cannot perform that action with a free trial account.
+ 7161: You must wait another $0 [day/days] to perform that action.
+ 7162: <Player> gained $0 [points of experience/limit points].
+ 7163: You cannot carry any more $5.
+ 7164: You have carried over $1 login point[/s].
+ 7165: The [/January/February/March/April/May/June/July/August/September/October/November/December] $0 Login Campaign is currently underway!
+ 7166: In celebration of your most recent login (login no. $1), we have provided you with $2 points! You currently have a total of $3 points.
  7167: 
  7168: 
- 7169: You have obtained $0 bayld!
+ 7169: 
  7170: You have obtained $0 bayld!
- 7171: You do not have enough bayld!
+ 7171: You have obtained $0 bayld!
  7172: You do not have enough bayld!
- 7173: You can now become a [geomancer/rune fencer]!
- 7174: Your $3 has been attuned to a geomagnetic fount in the corresponding locale.
- 7175: A faint energy wafts up from the ground.
- 7176: Your device has already been attuned to a geomagnetic fount in the corresponding locale.
- 7177: You have learned $3!
- 7178: I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!
- 7179: The level of difficulty for this content is $0.
- 7180: Your maximum level has been raised to [50/55/60/65/70/75/80/85/90/95/99]!
- 7181: You have entered belligerency.
- 7182: You have entered belligerency and your level has been restricted to $0.
- 7183: You have entered belligerency. Your level has been restricted to $0 and the attributes of applicable equipment you may be wearing have been appropriately reduced.
- 7184: You have learned a new instinct!
- 7185: Your party is unable to participate because certain members' levels are restricted.
- 7186: Please remove your level restriction before endeavoring to participate.
- 7187: You learned Trust: $1!
- 7188: You are now able to call multiple alter egos.
- 7189: Enter? [Yes./No.]
- 7190: Leave? [Yes./No.]
- 7191: The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
- 7192: What do you wish to do? [Show me the cutscene again./Skip the cutscene and continue.]
- 7193: Displaying the next scene.
- 7194: Alter egos may be used here without any effect on enmity.
- 7195: The maximum level of the content you are currently attempting is $0.
- 7196: $0 $1 $2 $3
- 7197: $4 $5 $6 $7
- 7198: The Unity ranking tabulation period has begun.
- 7199: The Unity ranking tabulation period has ended.
- 7200: [Unranked/First place/Second place/Third place/Fourth place/Fifth place]: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].
- 7201: Jump into the vortex? [Off we go!/Not just yet.]
- 7202: Nothing out of the ordinary happens.
- 7203: You are unable to proceed to the next area because [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.
- 7204: You are now able to call forth alter egos here because you have obtained the $3 key item.
- 7205: You cannot carry any more $5.
- 7206: You have been promoted to [/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!
- 7207: Your bags mysteriously feel a little bit heavier...
- 7208: The bonds tying you to Altana have strengthened, enabling you to experience all the memories of [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!
- 7209: You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the [Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.
- 7210: You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the quest [Champion of the Dawn/A Forbidden Reunion].
- 7211: The crystal glistens with a divine radiance.
- 7212: You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana'diel missions.
- 7213: You have been awarded the temporary item $0 as compensation.
- 7214: You already posses the temporary item $0 and cannot receive another one as compensation.
- 7215: Please claim your item before maintenance for the February 2022 version update begins.
- 7216: You have been rewarded $0 as compensation.
- 7217: You are unable to accept the compensatory $0. Free up some space in your inventory and try again.
- 7218: Please claim your item before maintenance for the October 2022 version update begins.
- 7219: You receive $0 deeds for a total of $1!
- 7220: Word has been received of a Mamool Ja threat in Wajaom Woodlands.
- 7221: Word has been received of a Troll threat in Wajaom Woodlands.
- 7222: Word has been received of an undead threat in Bhaflau Thickets.
- 7223: --------------/ : ($P12n [$5$30$Tj]
- 7224: Vana'Bout Records of Eminence objectives have been updated.
- 7225: Vana'Bout No. $0 has commenced!
- 7226: Vana'Bout No. $0 has concluded.
- 7227: Obtained temporary item: $0.
- 7228: Lost temporary item: $0.
- 7229: It won't open.
- 7230: You can't fish here.
- 7231: You can't fish without a rod in your hands.
- 7232: You can't fish without bait on the hook.
- 7233: You can't fish at the moment.
- 7234: You didn't catch anything.
- 7235: %0 caught a monster!
- 7236: Your line breaks.
- 7237: Your rod breaks.
- 7238: Something caught the hook!
- 7239: You lost your catch.
- 7240: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
- 7241: You feel there's something here.
- 7242: You feel there's something nearby.
- 7243: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
- 7244: %0 caught $1 $0 !
- 7245: You dig and you dig, but find nothing.
- 7246: $0/$0p$3Z$3b$3g
- 7247: Your rod breaks. Whatever caught the hook was pretty big.
- 7248: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
- 7249: You lost your catch. Whatever caught the hook was too small to catch with this rod.
- 7250: You lost your catch due to your lack of skill.
- 7251: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
- 7252: You didn't catch anything.
- 7253: The paper on your $0 ripped.
- 7254: A tiny goldfish approaches!
- 7255: A plump, black goldfish approaches!
- 7256: A fat, juicy goldfish approaches!
- 7257: There are no goldfish to be found...
- 7258: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
- 7259: The goldfish slipped off your scoop...
- 7260: ch$0 skill up check.
- 7261: a:$0.
- 7262: Time $0 / Status $1 / $2
- 7263: d:$0. e:$1. f:$2. g:$3.
- 7264: h: $1. i: $0. sr: $2.
- 7265: j:$0. k:$1.
- 7266: You give up and reel in your line.
- 7267: You give up.
- 7268: %0 obtains $1 gil.
- 7269: %0 caught $0!
- 7270: You don't know how much longer you can keep this one on the line...
- 7271: You have a good feeling about this one!
- 7272: You have a bad feeling about this one.
- 7273: You have a terrible feeling about this one...
- 7274: You don't know if you have enough skill to reel this one in.
- 7275: You're fairly sure you don't have enough skill to reel this one in.
- 7276: You're positive you don't have enough skill to reel this one in!
- 7277: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
- 7278: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
- 7279: l: $0. m: $1. n: $2. CH: $3.
- 7280: Something caught the hook!!!
- 7281: You feel something pulling at your line.
- 7282: Something clamps onto your line ferociously!
- 7283: Your keen angler's senses tell you that this is the pull of $0!
- 7284: This strength... You get the sense that you are on the verge of an epic catch!
- 7285: The timer has started. $0 seconds remaining.
- 7286: $0sec.$1/$2sec.
- 7287: 0:$0 1:$1 2:$2 3:$3
- 7288: 4:$0 5:$1 6:$2 7:$3
- 7289: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
- 7290: You lost your catch. Whatever caught the hook was too large to catch with this rod.
- 7291: $0/$1($2j
- 7292: Version invalid error!
- 7293: Hurry before the goldfish sees you!
- 7294: %0 fishes up a large box!
- 7295: $23$o$P122$8$0
- 7296: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
- 7297: PointF$0 >>> $1
- 7298: [$1($0)/skillF$1]
- 7299: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
- 7300: Im Rnd : $0 Pz Rnd : $1
- 7301: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
- 7302: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
- 7303: skill : $0 size : $1 kind : $2 sch : $3
- 7304: time : $0 mes : $1 flag : $2 bonus : $3
- 7305: item : $0 hp : $1 pow : $2 swing : $3
- 7306: suc : $0 cons : $1 weight : $2 +- : $3
- 7307: speed : $0 +- : $1 exc : $2 client : $3
- 7308: general : $0
- 7309: ro:$0 rs:$1 ps:$2 dt:$3
- 7310: ra:$0 ti:$1
- 7311: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
- 7312: You get the distinct sense that your moogle friend frequents this spot...
- 7313: You have a feeling that your moogle friend has been through this way...
- 7314: You suspect that the scenery around here would be to a moogle's liking...
- 7315: You have a vague feeling that a moogle would enjoy traversing this terrain...
- 7316: You have a hunch that this area would be favored by moogles...
- 7317: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
- 7318: %0 catches $1 $0 !
- 7319: %0 obtained $6!
- 7320: It appears your chocobo found this item with ease.
- 7321: Your chocobo appears to have gained valuable knowledge from this discovery.
- 7322: FPT $0 DPT $1 DoT$2
- 7323: FPT $0 TDPT $1 h$2
- 7324: You cannot fish at this time.
- 7325: You discover a cache of beastman resources and receive $0 conquest point[/s]!
- 7326: You discover a cache of beastman resources and receive $0 Imperial Standing!
- 7327: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
- 7328: You receive $0 bayld!
- 7329: Your chocobo refuses to partake of the $0.
- 7330: Your wing skill improved to $0!
- 7331: There is no response...
- 7332: Your party leader is currently inspecting the entrance.
- 7333: Only your party leader may inspect the entrance.
- 7334: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
- 7335: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7336: Proceed? [Yes./No.]
- 7337: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7338: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7339: The hands of darkness have impeded your progress into the next area.
- 7340: You cannot enter at this time. Please wait a moment and try again.
- 7341: This area is fully occupied. You are unable to enter.
- 7342: The hands of darkness have prevented you from proceeding.
- 7343: Your request for entry is being considered...
- 7344: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
- 7345: Your party does not meet the minimum required number of $0 members. Unable to enter area.
- 7346: Not all of your party members meet the requirements for this objective. Unable to enter area.
- 7347: Returning to BIND. Press the button!
- 7348: $3{$3^$3$2p$317F$P10i^
- 7349: This chest is locked. It can be opened with $0.
- 7350: This chest is empty.
- 7351: Your inventory is full. You cannot carry any more items.
- 7352: You must be closer to the chest to open it.
- 7353: %0 opens the chest and finds $0.
- 7354: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
- 7355: %0 obtains a key item, $6, from the chest.
- 7356: You obtain a key item, $6, from the chest.
- 7357: You unlock the chest!
- 7358: %0 fails to open the chest.
- 7359: The chest was trapped!
- 7360: You cannot open the chest when you are in a weakened state.
- 7361: The chest was a mimic!
- 7362: You cannot open the chest while participating in the moogle event.
- 7363: The chest was but an illusion...
- 7364: The chest appears to be locked. If only you had $0, perhaps you could open it...
- 7365: Mining is possible here if you have $0.
- 7366: Probability of loss = $3/10000.
- 7367: Your $7 breaks!
- 7368: You successfully dig up $0!
- 7369: You dig up $0, but your $7 breaks in the process.
- 7370: You are unable to mine anything.
- 7371: You cannot carry any more items. Your inventory is full.
- 7372: There is nothing out of the ordinary here.
- 7373: You can hear a strange voice... "Items, items, la la la la la`t"
- 7374: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
- 7375: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
- 7376: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
- 7377: Now, listen close...
- 7378: Oh... Well, if that's the case, I'm outta here.
- 7379: The Goblin slipped away when you were not looking...
- 7380: You can hear a strange, raspy voice...
- 7381: I travel......hear lots... Hear...stories... Can tell...if...
- 7382: .........listen......
- 7383: Oh...... ...outta here.........
- 7384: Do you want to hear a story? [No, thank you./Let's hear one.]
- 7385: What story would you like to be told? [On second thought, maybe later./Face of the Future(pt.1)./Face of the Future(pt.2).]
- 7386: 
+ 7173: You do not have enough bayld!
+ 7174: You can now become a [geomancer/rune fencer]!
+ 7175: Your $3 has been attuned to a geomagnetic fount in the corresponding locale.
+ 7176: A faint energy wafts up from the ground.
+ 7177: Your device has already been attuned to a geomagnetic fount in the corresponding locale.
+ 7178: You have learned $3!
+ 7179: I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!
+ 7180: The level of difficulty for this content is $0.
+ 7181: Your maximum level has been raised to [50/55/60/65/70/75/80/85/90/95/99]!
+ 7182: You have entered belligerency.
+ 7183: You have entered belligerency and your level has been restricted to $0.
+ 7184: You have entered belligerency. Your level has been restricted to $0 and the attributes of applicable equipment you may be wearing have been appropriately reduced.
+ 7185: You have learned a new instinct!
+ 7186: Your party is unable to participate because certain members' levels are restricted.
+ 7187: Please remove your level restriction before endeavoring to participate.
+ 7188: You learned Trust: $1!
+ 7189: You are now able to call multiple alter egos.
+ 7190: Enter? [Yes./No.]
+ 7191: Leave? [Yes./No.]
+ 7192: The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
+ 7193: What do you wish to do? [Show me the cutscene again./Skip the cutscene and continue.]
+ 7194: Displaying the next scene.
+ 7195: Alter egos may be used here without any effect on enmity.
+ 7196: The maximum level of the content you are currently attempting is $0.
+ 7197: $0 $1 $2 $3
+ 7198: $4 $5 $6 $7
+ 7199: The Unity ranking tabulation period has begun.
+ 7200: The Unity ranking tabulation period has ended.
+ 7201: [Unranked/First place/Second place/Third place/Fourth place/Fifth place]: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].
+ 7202: Jump into the vortex? [Off we go!/Not just yet.]
+ 7203: Nothing out of the ordinary happens.
+ 7204: You are unable to proceed to the next area because [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.
+ 7205: You are now able to call forth alter egos here because you have obtained the $3 key item.
+ 7206: You cannot carry any more $5.
+ 7207: You have been promoted to [/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!
+ 7208: Your bags mysteriously feel a little bit heavier...
+ 7209: The bonds tying you to Altana have strengthened, enabling you to experience all the memories of [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!
+ 7210: You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the [Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.
+ 7211: You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the quest [Champion of the Dawn/A Forbidden Reunion].
+ 7212: The crystal glistens with a divine radiance.
+ 7213: You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana'diel missions.
+ 7214: You have been awarded the temporary item $0 as compensation.
+ 7215: You already posses the temporary item $0 and cannot receive another one as compensation.
+ 7216: Please claim your item before maintenance for the February 2022 version update begins.
+ 7217: You have been rewarded $0 as compensation.
+ 7218: You are unable to accept the compensatory $0. Free up some space in your inventory and try again.
+ 7219: Please claim your item before maintenance for the October 2022 version update begins.
+ 7220: You receive $0 deeds for a total of $1!
+ 7221: Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+ 7222: Word has been received of a Troll threat in Wajaom Woodlands.
+ 7223: Word has been received of an undead threat in Bhaflau Thickets.
+ 7224: --------------/ : ($P12n [$5$30$Tj]
+ 7225: Vana'Bout Records of Eminence objectives have been updated.
+ 7226: Vana'Bout No. $0 has commenced!
+ 7227: Vana'Bout No. $0 has concluded.
+ 7228: Obtained temporary item: $0.
+ 7229: Lost temporary item: $0.
+ 7230: It won't open.
+ 7231: You can't fish here.
+ 7232: You can't fish without a rod in your hands.
+ 7233: You can't fish without bait on the hook.
+ 7234: You can't fish at the moment.
+ 7235: You didn't catch anything.
+ 7236: %0 caught a monster!
+ 7237: Your line breaks.
+ 7238: Your rod breaks.
+ 7239: Something caught the hook!
+ 7240: You lost your catch.
+ 7241: %0 caught $0, but cannot carry any more items. %0 regretfully releases the $0.
+ 7242: You feel there's something here.
+ 7243: You feel there's something nearby.
+ 7244: You dig up $0, but your inventory is full. You regretfully throw the $0 away.
+ 7245: %0 caught $1 $0 !
+ 7246: You dig and you dig, but find nothing.
+ 7247: $0/$0p$3Z$3b$3g
+ 7248: Your rod breaks. Whatever caught the hook was pretty big.
+ 7249: Your rod breaks. Whatever caught the hook was too heavy to catch with this rod.
+ 7250: You lost your catch. Whatever caught the hook was too small to catch with this rod.
+ 7251: You lost your catch due to your lack of skill.
+ 7252: Number fished : $0 Original Dice No. $6640135sult F$3 (0=caught)
+ 7253: You didn't catch anything.
+ 7254: The paper on your $0 ripped.
+ 7255: A tiny goldfish approaches!
+ 7256: A plump, black goldfish approaches!
+ 7257: A fat, juicy goldfish approaches!
+ 7258: There are no goldfish to be found...
+ 7259: %0 caught $0, but cannot carry any more items. %0 regretfully releases it.
+ 7260: The goldfish slipped off your scoop...
+ 7261: ch$0 skill up check.
+ 7262: a:$0.
+ 7263: Time $0 / Status $1 / $2
+ 7264: d:$0. e:$1. f:$2. g:$3.
+ 7265: h: $1. i: $0. sr: $2.
+ 7266: j:$0. k:$1.
+ 7267: You give up and reel in your line.
+ 7268: You give up.
+ 7269: %0 obtains $1 gil.
+ 7270: %0 caught $0!
+ 7271: You don't know how much longer you can keep this one on the line...
+ 7272: You have a good feeling about this one!
+ 7273: You have a bad feeling about this one.
+ 7274: You have a terrible feeling about this one...
+ 7275: You don't know if you have enough skill to reel this one in.
+ 7276: You're fairly sure you don't have enough skill to reel this one in.
+ 7277: You're positive you don't have enough skill to reel this one in!
+ 7278: Select Fish Type: [Saltwater./Freshwater./Item./Flag./Treasure Chest./Monster.]
+ 7279: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+ 7280: l: $0. m: $1. n: $2. CH: $3.
+ 7281: Something caught the hook!!!
+ 7282: You feel something pulling at your line.
+ 7283: Something clamps onto your line ferociously!
+ 7284: Your keen angler's senses tell you that this is the pull of $0!
+ 7285: This strength... You get the sense that you are on the verge of an epic catch!
+ 7286: The timer has started. $0 seconds remaining.
+ 7287: $0sec.$1/$2sec.
+ 7288: 0:$0 1:$1 2:$2 3:$3
+ 7289: 4:$0 5:$1 6:$2 7:$3
+ 7290: Select. [Set./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF]./$3: [ON/OFF].]
+ 7291: You lost your catch. Whatever caught the hook was too large to catch with this rod.
+ 7292: $0/$1($2j
+ 7293: Version invalid error!
+ 7294: Hurry before the goldfish sees you!
+ 7295: %0 fishes up a large box!
+ 7296: $23$o$P122$8$0
+ 7297: Fish NoF$0 / Bait NoF$1 / Hit$4079136> $3
+ 7298: PointF$0 >>> $1
+ 7299: [$1($0)/skillF$1]
+ 7300: Im Min : $0 Im Max : $1 Pz Min : $2 Pz Max : $3
+ 7301: Im Rnd : $0 Pz Rnd : $1
+ 7302: CLI_NUM0:$0 CLI_NUM1:$1 CLI_NUM2:$2 CLI_NUM3:$3
+ 7303: CLI_NUM4:$0 CLI_NUM5:$1 CLI_NUM6:$2 CLI_NUM7:$3
+ 7304: skill : $0 size : $1 kind : $2 sch : $3
+ 7305: time : $0 mes : $1 flag : $2 bonus : $3
+ 7306: item : $0 hp : $1 pow : $2 swing : $3
+ 7307: suc : $0 cons : $1 weight : $2 +- : $3
+ 7308: speed : $0 +- : $1 exc : $2 client : $3
+ 7309: general : $0
+ 7310: ro:$0 rs:$1 ps:$2 dt:$3
+ 7311: ra:$0 ti:$1
+ 7312: You spot some familiar footprints. You are convinced that your moogle friend has been digging in the immediate vicinity.
+ 7313: You get the distinct sense that your moogle friend frequents this spot...
+ 7314: You have a feeling that your moogle friend has been through this way...
+ 7315: You suspect that the scenery around here would be to a moogle's liking...
+ 7316: You have a vague feeling that a moogle would enjoy traversing this terrain...
+ 7317: You have a hunch that this area would be favored by moogles...
+ 7318: Your chocobo is pulling at the bit. You sense that it is leading you to the [east/southeast/south/southwest/west/northwest/north/northeast].
+ 7319: %0 catches $1 $0 !
+ 7320: %0 obtained $6!
+ 7321: It appears your chocobo found this item with ease.
+ 7322: Your chocobo appears to have gained valuable knowledge from this discovery.
+ 7323: FPT $0 DPT $1 DoT$2
+ 7324: FPT $0 TDPT $1 h$2
+ 7325: You cannot fish at this time.
+ 7326: You discover a cache of beastman resources and receive $0 conquest point[/s]!
+ 7327: You discover a cache of beastman resources and receive $0 Imperial Standing!
+ 7328: You discover a cache of beastman confederate resources and receive $0 allied note[/s]!
+ 7329: You receive $0 bayld!
+ 7330: Your chocobo refuses to partake of the $0.
+ 7331: Your wing skill improved to $0!
+ 7332: There is no response...
+ 7333: Your party leader is currently inspecting the entrance.
+ 7334: Only your party leader may inspect the entrance.
+ 7335: Attempt which objective? [None./$0./$1./$2./$3./$4./$5./$6./$7.]
+ 7336: Only party members present with you in this area will be transported to [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7337: Proceed? [Yes./No.]
+ 7338: Now entering [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7339: You have chosen not to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7340: The hands of darkness have impeded your progress into the next area.
+ 7341: You cannot enter at this time. Please wait a moment and try again.
+ 7342: This area is fully occupied. You are unable to enter.
+ 7343: The hands of darkness have prevented you from proceeding.
+ 7344: Your request for entry is being considered...
+ 7345: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+ 7346: Your party does not meet the minimum required number of $0 members. Unable to enter area.
+ 7347: Not all of your party members meet the requirements for this objective. Unable to enter area.
+ 7348: Returning to BIND. Press the button!
+ 7349: $3{$3^$3$2p$317F$P10i^
+ 7350: This chest is locked. It can be opened with $0.
+ 7351: This chest is empty.
+ 7352: Your inventory is full. You cannot carry any more items.
+ 7353: You must be closer to the chest to open it.
+ 7354: %0 opens the chest and finds $0.
+ 7355: The item in this chest cannot be handled by the other members of your party. %0 receives the $0.
+ 7356: %0 obtains a key item, $6, from the chest.
+ 7357: You obtain a key item, $6, from the chest.
+ 7358: You unlock the chest!
+ 7359: %0 fails to open the chest.
+ 7360: The chest was trapped!
+ 7361: You cannot open the chest when you are in a weakened state.
+ 7362: The chest was a mimic!
+ 7363: You cannot open the chest while participating in the moogle event.
+ 7364: The chest was but an illusion...
+ 7365: The chest appears to be locked. If only you had $0, perhaps you could open it...
+ 7366: Mining is possible here if you have $0.
+ 7367: Probability of loss = $3/10000.
+ 7368: Your $7 breaks!
+ 7369: You successfully dig up $0!
+ 7370: You dig up $0, but your $7 breaks in the process.
+ 7371: You are unable to mine anything.
+ 7372: You cannot carry any more items. Your inventory is full.
+ 7373: There is nothing out of the ordinary here.
+ 7374: You can hear a strange voice... "Items, items, la la la la la`t"
+ 7375: Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, [man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+ 7376: Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+ 7377: I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+ 7378: Now, listen close...
+ 7379: Oh... Well, if that's the case, I'm outta here.
+ 7380: The Goblin slipped away when you were not looking...
+ 7381: You can hear a strange, raspy voice...
+ 7382: I travel......hear lots... Hear...stories... Can tell...if...
+ 7383: .........listen......
+ 7384: Oh...... ...outta here.........
+ 7385: Do you want to hear a story? [No, thank you./Let's hear one.]
+ 7386: What story would you like to be told? [On second thought, maybe later./Face of the Future(pt.1)./Face of the Future(pt.2).]
  7387: 
  7388: 
- 7389: Show yourself, Zogbog! I've come to retrieve Rahal! You will return him to me this instant!
- 7390: Fi-fie-fo-fum, I smell the blood of a young Elvaan...
- 7391: No skulking about the shadows today, Zogbog? Highly unusual for a habitual coward such as you.
- 7392: Hah! Spare me the mockery! The predator has no need to cower from prey!
- 7393: Feast your eyes upon the unequalled majesty of my minions!
- 7394: Wh-what are these monstrosities!?
- 7395: They are the "Fangmonger Stone Legion," the juggernaut that shall run rampant over all of Vana'diel!
- 7396: Into the past I shall send them, to wrest power from the weakened grips of men and beastmen both as they wage war and bleed each other dry.
- 7397: In time, the name of the Fangmonger clan shall come to be feared the world over...and then my ascension to the Orcish throne shall be complete!
- 7398: For old times' sake, my young nemesis, I shall make you an offer most generous. You shan't find it wanting.
- 7399: Lay to rest your hostility towards me and join my cause. Bend your knee to me--accept me as your liege lord--and I shall make you a general among my armies.
- 7400: Your presumption that I might betray my own is the greatest affront, Zogbog! Steel yourself for grave disappointment, for your vile ambition shall soon be reduced to piles of rubble!
- 7401: Hmph. I find your lack of foresight disturbing, little rabbit. You shall come to regret spurning a place in the new Orcish Empire.
- 7402: Boy!
- 7403: Hah. More guests, and right on cue.
- 7404: The time for talk is ended! Come face your doom, Excenmille! <Player>!
- 7405: Awaken, my loyal minions!
- 7406: Commander!
- 7407: A veritable den of adders... It shall be all we can do to keep them at bay until Bostillette arrives with reinforcements.
- 7408: And boy. Think not for a moment that being here excuses you from lessons.
- 7409: S-surely there're environs more conducive to learning!
- 7410: Go forth, Fangmonger Stone Legion! Go forth and annihilate those who would oppose my will!
- 7411: Lesson number sixty-seven...
- 7412: Naught ventured, naught gained! Hold fast to your objective...and chaaarge!!!
- 7413: Yaaaaaarghhh!!!
- 7414: (Nooo! H-how could this be!? Two decades of painstaking labor undone in a single confrontation...)
- 7415: (Mekglok! Do something, or my entire legion is finished!)
- 7416: (Uh...easy say, difficult do, Master Zogbog.)
- 7417: Right in the nick of time!
- 7418: Bostillette! We shall have words regarding your definition of "nick of time" before the day is through!
- 7419: (D-damn it! Move, I say! Move, you worthless piece of junk!)
- 7420: (Aaargh!!! Vex me to the very end, will you!?)
- 7421: (Ah! It's resumed functioning!)
- 7422: (Huh? S-something's amiss...)
- 7423: (Uh-oh. This not good. Statue go out of control.)
- 7424: Wh-what strange spell is this that the colossus incants?
- 7425: (Mekglok! Explain to me what's happening!)
- 7426: (Huh? Whither did that machine-loving misfit vanish!? Damn him thrice over!)
- 7427: (Master Zogbog, me so sorry. Self-destruct device me fit is activate. Explosion happen soon.)
- 7428: (Wh-what!? By Bakgodek's backside, who placed an order for such a hazardous feature!?)
- 7429: (Uh...m-me forget meat over cookfire. Me go now, Master Zogbog.)
- 7430: (D-don't you dare abandon me, you disloyal, self-preserving wretch!)
- 7431: Commander! If that Orc speaks true, we haven't a moment to lose!
- 7432: Why do you linger!? Hurry and escape lest the explosion claim us all!
- 7433: Are you certain, boy? That your friend is being held hereabouts?
- 7434: Past certain. I must neutralize the explosion and save him!
- 7435: Let me remind you, no guarantee exists that we will succeed and escape with our own lives.
- 7436: Even should I knowingly face impossible odds, I cannot leave a friend at the mercy of death.
- 7437: A man must be prepared to bear all of life's burdens if he wishes to move forward. These are your own words.
- 7438: Aptly said, boy. Very well, I shall stand beside you in this. Consider this your chance to put to practice all you've learned.
- 7439: Let the final examination commence!
- 7440: (Confound it! The means to fulfilling my ambition...all spent...)
- 7441: With me, boy!
- 7442: Yaaaaaargh!!!
- 7443: Stop, damn you!!!
- 7444: Did he...do it?
- 7445: Hah. He's passed out from the exertion.
- 7446: Rest easy, boy. You've passed the exam with flying colors.
- 7447: Will these two be all right?
- 7448: They've fallen into a slumber of exhaustion, but have taken no permanent harm as far as I can see.
- 7449: Ah, Commander. I discovered this ring by the cavern entrance. The fine craftsmanship bespeaks great worth, and I thought you should see it.
- 7450: By the Goddess! I had thought it forever lost!
- 7451: This ring disappeared from my possession sometime during the expedition to Rhazowa. Such a journey it must have made to find its way back here...
- 7452: I must say, gazing at the children puts me in mind of our own childhood.
- 7453: Decked out in their swords and armor, with the Orcish warmachine standing guard over them--all of this seems to add to the vividness of my recollections.
- 7454: Hehehe. In that sentiment, you are not alone.
- 7455: I for one could bask for eternity in the warmth of this moment, but duty calls.
- 7456: I shall see the children returned safely to Batallia Downs.
- 7457: Please join me at your earliest convenience, <Player>. You shall find me by the statue where first we met.
- 7458: Shall I accompany you?
- 7459: I alone should suffice for this simple task, Commander. Might I suggest you take word of our success back to the Kingdom? And pay visit to Lady Altennia, too, if you've a mind?
- 7460: <Blush> A-ahem! You may take your leave of us, soldier!
- 7461: Yes, sir! At once, sir!
- 7462: Father...
- 7463: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
- 7464: Set this as current home point? [Yes./No.]
- 7465: Home point set!
- 7466: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
- 7467: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
- 7468: You have registered a new home point! You are now able to teleport here from any other home point.
- 7469: You may teleport from here to any other home point you have registered.
- 7470: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
- 7471: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
- 7472: You have not yet registered any other home points, and thus are unable to teleport.
- 7473: It costs $3 gil to teleport to Home Point #$2 in $8.
- 7474: There is no fee for teleporting to Home Point #$2 in $8.
- 7475: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
- 7476: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
- 7477: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
- 7478: You may change the method of selecting the area of your desired home point to teleport to.
- 7479: Which setting would you like? [My current setting./Select by region./Select by expansion.]
- 7480: You are now selecting by [region/expansion].
- 7481: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
- 7482: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
- 7483: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
- 7484: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]
+ 7389: 
+ 7390: Show yourself, Zogbog! I've come to retrieve Rahal! You will return him to me this instant!
+ 7391: Fi-fie-fo-fum, I smell the blood of a young Elvaan...
+ 7392: No skulking about the shadows today, Zogbog? Highly unusual for a habitual coward such as you.
+ 7393: Hah! Spare me the mockery! The predator has no need to cower from prey!
+ 7394: Feast your eyes upon the unequalled majesty of my minions!
+ 7395: Wh-what are these monstrosities!?
+ 7396: They are the "Fangmonger Stone Legion," the juggernaut that shall run rampant over all of Vana'diel!
+ 7397: Into the past I shall send them, to wrest power from the weakened grips of men and beastmen both as they wage war and bleed each other dry.
+ 7398: In time, the name of the Fangmonger clan shall come to be feared the world over...and then my ascension to the Orcish throne shall be complete!
+ 7399: For old times' sake, my young nemesis, I shall make you an offer most generous. You shan't find it wanting.
+ 7400: Lay to rest your hostility towards me and join my cause. Bend your knee to me--accept me as your liege lord--and I shall make you a general among my armies.
+ 7401: Your presumption that I might betray my own is the greatest affront, Zogbog! Steel yourself for grave disappointment, for your vile ambition shall soon be reduced to piles of rubble!
+ 7402: Hmph. I find your lack of foresight disturbing, little rabbit. You shall come to regret spurning a place in the new Orcish Empire.
+ 7403: Boy!
+ 7404: Hah. More guests, and right on cue.
+ 7405: The time for talk is ended! Come face your doom, Excenmille! <Player>!
+ 7406: Awaken, my loyal minions!
+ 7407: Commander!
+ 7408: A veritable den of adders... It shall be all we can do to keep them at bay until Bostillette arrives with reinforcements.
+ 7409: And boy. Think not for a moment that being here excuses you from lessons.
+ 7410: S-surely there're environs more conducive to learning!
+ 7411: Go forth, Fangmonger Stone Legion! Go forth and annihilate those who would oppose my will!
+ 7412: Lesson number sixty-seven...
+ 7413: Naught ventured, naught gained! Hold fast to your objective...and chaaarge!!!
+ 7414: Yaaaaaarghhh!!!
+ 7415: (Nooo! H-how could this be!? Two decades of painstaking labor undone in a single confrontation...)
+ 7416: (Mekglok! Do something, or my entire legion is finished!)
+ 7417: (Uh...easy say, difficult do, Master Zogbog.)
+ 7418: Right in the nick of time!
+ 7419: Bostillette! We shall have words regarding your definition of "nick of time" before the day is through!
+ 7420: (D-damn it! Move, I say! Move, you worthless piece of junk!)
+ 7421: (Aaargh!!! Vex me to the very end, will you!?)
+ 7422: (Ah! It's resumed functioning!)
+ 7423: (Huh? S-something's amiss...)
+ 7424: (Uh-oh. This not good. Statue go out of control.)
+ 7425: Wh-what strange spell is this that the colossus incants?
+ 7426: (Mekglok! Explain to me what's happening!)
+ 7427: (Huh? Whither did that machine-loving misfit vanish!? Damn him thrice over!)
+ 7428: (Master Zogbog, me so sorry. Self-destruct device me fit is activate. Explosion happen soon.)
+ 7429: (Wh-what!? By Bakgodek's backside, who placed an order for such a hazardous feature!?)
+ 7430: (Uh...m-me forget meat over cookfire. Me go now, Master Zogbog.)
+ 7431: (D-don't you dare abandon me, you disloyal, self-preserving wretch!)
+ 7432: Commander! If that Orc speaks true, we haven't a moment to lose!
+ 7433: Why do you linger!? Hurry and escape lest the explosion claim us all!
+ 7434: Are you certain, boy? That your friend is being held hereabouts?
+ 7435: Past certain. I must neutralize the explosion and save him!
+ 7436: Let me remind you, no guarantee exists that we will succeed and escape with our own lives.
+ 7437: Even should I knowingly face impossible odds, I cannot leave a friend at the mercy of death.
+ 7438: A man must be prepared to bear all of life's burdens if he wishes to move forward. These are your own words.
+ 7439: Aptly said, boy. Very well, I shall stand beside you in this. Consider this your chance to put to practice all you've learned.
+ 7440: Let the final examination commence!
+ 7441: (Confound it! The means to fulfilling my ambition...all spent...)
+ 7442: With me, boy!
+ 7443: Yaaaaaargh!!!
+ 7444: Stop, damn you!!!
+ 7445: Did he...do it?
+ 7446: Hah. He's passed out from the exertion.
+ 7447: Rest easy, boy. You've passed the exam with flying colors.
+ 7448: Will these two be all right?
+ 7449: They've fallen into a slumber of exhaustion, but have taken no permanent harm as far as I can see.
+ 7450: Ah, Commander. I discovered this ring by the cavern entrance. The fine craftsmanship bespeaks great worth, and I thought you should see it.
+ 7451: By the Goddess! I had thought it forever lost!
+ 7452: This ring disappeared from my possession sometime during the expedition to Rhazowa. Such a journey it must have made to find its way back here...
+ 7453: I must say, gazing at the children puts me in mind of our own childhood.
+ 7454: Decked out in their swords and armor, with the Orcish warmachine standing guard over them--all of this seems to add to the vividness of my recollections.
+ 7455: Hehehe. In that sentiment, you are not alone.
+ 7456: I for one could bask for eternity in the warmth of this moment, but duty calls.
+ 7457: I shall see the children returned safely to Batallia Downs.
+ 7458: Please join me at your earliest convenience, <Player>. You shall find me by the statue where first we met.
+ 7459: Shall I accompany you?
+ 7460: I alone should suffice for this simple task, Commander. Might I suggest you take word of our success back to the Kingdom? And pay visit to Lady Altennia, too, if you've a mind?
+ 7461: <Blush> A-ahem! You may take your leave of us, soldier!
+ 7462: Yes, sir! At once, sir!
+ 7463: Father...
+ 7464: You can set this as your current home point. Once you set a home point, you will return there whenever you are incapacitated.
+ 7465: Set this as current home point? [Yes./No.]
+ 7466: Home point set!
+ 7467: A home point can be set as a spot for you to return to Vana'diel when you have been knocked out. You can also use a home point to teleport to other home points.
+ 7468: What will you do? [Travel to another home point./Set this as your home point./Other settings./On second thought, never mind.]
+ 7469: You have registered a new home point! You are now able to teleport here from any other home point.
+ 7470: You may teleport from here to any other home point you have registered.
+ 7471: Teleport where? [Never mind./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./Previous page./Next page.]
+ 7472: Teleport where?$8j [Nowhere./Home Point #1[/ (M)/ (A)/ (E)]./Home Point #2[/ (M)/ (A)/ (E)]./Home Point #3[/ (M)/ (A)/ (E)]./Home Point #4[/ (M)/ (A)/ (E)]./Home Point #5[/ (M)/ (A)/ (E)].]
+ 7473: You have not yet registered any other home points, and thus are unable to teleport.
+ 7474: It costs $3 gil to teleport to Home Point #$2 in $8.
+ 7475: There is no fee for teleporting to Home Point #$2 in $8.
+ 7476: Teleport? (Current gil: $0) [[Add to favorites/Remove from favorites]./Yes, please./No, thank you.]
+ 7477: Teleport to which region? [On second thought, none./Select from favorites./Current region./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+ 7478: Teleport where? [None of these./A favorited location./An original area./A Rise of the Zilart area./A Chains of Promathia area./A Treasures of Aht Urhgan area./A Wings of the Goddess area./A Seekers of Adoulin area.]
+ 7479: You may change the method of selecting the area of your desired home point to teleport to.
+ 7480: Which setting would you like? [My current setting./Select by region./Select by expansion.]
+ 7481: You are now selecting by [region/expansion].
+ 7482: Teleport where? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25./[Add to favorites/Remove from favorites].]
+ 7483: Home Point #$2 in $8 has been [registered to/removed from] your list of favorite locations.
+ 7484: Your list of favorite locations is full. You must delete an existing entry in order to register a new one.
+ 7485: Delete which? [None of these./$8 #$17./$8 #$18./$8 #$19./$8 #$20./$8 #$21./$8 #$22./$8 #$23./$8 #$24./$8 #$25.]

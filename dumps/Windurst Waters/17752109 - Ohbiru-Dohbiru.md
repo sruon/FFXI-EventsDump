@@ -98,62 +98,62 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1F55      |        8021 |
-|       4 | 0x1F56      |        8022 |
-|       5 | 0x1F57      |        8023 |
-|       6 | 0x1DBE      |        7614 |
-|       7 | 0x1DBF      |        7615 |
-|       8 | 0x1DC0      |        7616 |
-|       9 | 0x1DC1      |        7617 |
-|      10 | 0x1F64      |        8036 |
-|      11 | 0x1F65      |        8037 |
-|      12 | 0x1F66      |        8038 |
-|      13 | 0x1F67      |        8039 |
-|      14 | 0x1F68      |        8040 |
-|      15 | 0x1F7A      |        8058 |
-|      16 | 0x1F7B      |        8059 |
-|      17 | 0x1F7C      |        8060 |
-|      18 | 0x1F7D      |        8061 |
-|      19 | 0x1F7E      |        8062 |
-|      20 | 0x1F84      |        8068 |
-|      21 | 0x1F85      |        8069 |
+|       3 | 0x1F56      |        8022 |
+|       4 | 0x1F57      |        8023 |
+|       5 | 0x1F58      |        8024 |
+|       6 | 0x1DBF      |        7615 |
+|       7 | 0x1DC0      |        7616 |
+|       8 | 0x1DC1      |        7617 |
+|       9 | 0x1DC2      |        7618 |
+|      10 | 0x1F65      |        8037 |
+|      11 | 0x1F66      |        8038 |
+|      12 | 0x1F67      |        8039 |
+|      13 | 0x1F68      |        8040 |
+|      14 | 0x1F69      |        8041 |
+|      15 | 0x1F7B      |        8059 |
+|      16 | 0x1F7C      |        8060 |
+|      17 | 0x1F7D      |        8061 |
+|      18 | 0x1F7E      |        8062 |
+|      19 | 0x1F7F      |        8063 |
+|      20 | 0x1F85      |        8069 |
+|      21 | 0x1F86      |        8070 |
 |      22 | 0x0001      |           1 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x0000      |           0 |
-|      25 | 0x199A      |        6554 |
-|      26 | 0x1F86      |        8070 |
-|      27 | 0x1F87      |        8071 |
-|      28 | 0x1F88      |        8072 |
-|      29 | 0x1F89      |        8073 |
-|      30 | 0x1F8A      |        8074 |
-|      31 | 0x1F8B      |        8075 |
-|      32 | 0x1F8C      |        8076 |
-|      33 | 0x1F8D      |        8077 |
-|      34 | 0x1F8E      |        8078 |
-|      35 | 0x1F8F      |        8079 |
-|      36 | 0x1FAD      |        8109 |
-|      37 | 0x1FAE      |        8110 |
-|      38 | 0x1FBB      |        8123 |
-|      39 | 0x1FBC      |        8124 |
-|      40 | 0x1FC1      |        8129 |
-|      41 | 0x1FBD      |        8125 |
-|      42 | 0x1FBE      |        8126 |
-|      43 | 0x1FBF      |        8127 |
-|      44 | 0x1FC0      |        8128 |
-|      45 | 0x1FC2      |        8130 |
-|      46 | 0x1FC3      |        8131 |
-|      47 | 0x1FC4      |        8132 |
-|      48 | 0x1FC5      |        8133 |
-|      49 | 0x1FC6      |        8134 |
-|      50 | 0x1FC7      |        8135 |
-|      51 | 0x1FC8      |        8136 |
-|      52 | 0x1FC9      |        8137 |
-|      53 | 0x1FCA      |        8138 |
-|      54 | 0x1FCB      |        8139 |
-|      55 | 0x216C      |        8556 |
+|      25 | 0x199B      |        6555 |
+|      26 | 0x1F87      |        8071 |
+|      27 | 0x1F88      |        8072 |
+|      28 | 0x1F89      |        8073 |
+|      29 | 0x1F8A      |        8074 |
+|      30 | 0x1F8B      |        8075 |
+|      31 | 0x1F8C      |        8076 |
+|      32 | 0x1F8D      |        8077 |
+|      33 | 0x1F8E      |        8078 |
+|      34 | 0x1F8F      |        8079 |
+|      35 | 0x1F90      |        8080 |
+|      36 | 0x1FAE      |        8110 |
+|      37 | 0x1FAF      |        8111 |
+|      38 | 0x1FBC      |        8124 |
+|      39 | 0x1FBD      |        8125 |
+|      40 | 0x1FC2      |        8130 |
+|      41 | 0x1FBE      |        8126 |
+|      42 | 0x1FBF      |        8127 |
+|      43 | 0x1FC0      |        8128 |
+|      44 | 0x1FC1      |        8129 |
+|      45 | 0x1FC3      |        8131 |
+|      46 | 0x1FC4      |        8132 |
+|      47 | 0x1FC5      |        8133 |
+|      48 | 0x1FC6      |        8134 |
+|      49 | 0x1FC7      |        8135 |
+|      50 | 0x1FC8      |        8136 |
+|      51 | 0x1FC9      |        8137 |
+|      52 | 0x1FCA      |        8138 |
+|      53 | 0x1FCB      |        8139 |
+|      54 | 0x1FCC      |        8140 |
+|      55 | 0x216D      |        8557 |
 |      56 | 0x0002      |           2 |
-|      57 | 0x216D      |        8557 |
-|      58 | 0x216E      |        8558 |
+|      57 | 0x216E      |        8558 |
+|      58 | 0x216F      |        8559 |
 |      59 | 0x0003      |           3 |
 |      60 | 0x0004      |           4 |
 |      61 | 0x0005      |           5 |
@@ -171,21 +171,21 @@
 |      73 | 0x0064      |         100 |
 |      74 | 0x0006      |           6 |
 |      75 | 0x03BF      |         959 |
-|      76 | 0x216B      |        8555 |
-|      77 | 0x216F      |        8559 |
-|      78 | 0x2170      |        8560 |
-|      79 | 0x2171      |        8561 |
-|      80 | 0x2172      |        8562 |
-|      81 | 0x2174      |        8564 |
-|      82 | 0x2175      |        8565 |
-|      83 | 0x2176      |        8566 |
-|      84 | 0x2178      |        8568 |
-|      85 | 0x2179      |        8569 |
-|      86 | 0x217A      |        8570 |
-|      87 | 0x260F      |        9743 |
-|      88 | 0x2610      |        9744 |
-|      89 | 0x2621      |        9761 |
-|      90 | 0x2622      |        9762 |
+|      76 | 0x216C      |        8556 |
+|      77 | 0x2170      |        8560 |
+|      78 | 0x2171      |        8561 |
+|      79 | 0x2172      |        8562 |
+|      80 | 0x2173      |        8563 |
+|      81 | 0x2175      |        8565 |
+|      82 | 0x2176      |        8566 |
+|      83 | 0x2177      |        8567 |
+|      84 | 0x2179      |        8569 |
+|      85 | 0x217A      |        8570 |
+|      86 | 0x217B      |        8571 |
+|      87 | 0x2610      |        9744 |
+|      88 | 0x2611      |        9745 |
+|      89 | 0x2622      |        9762 |
+|      90 | 0x2623      |        9763 |
 |      91 | 0x3F30      |       16176 |
 |      92 | 0xFFFCFFAF  |  4294770607 |
 |      93 | 0xFFFFEF66  |  4294963046 |
@@ -194,124 +194,124 @@
 |      96 | 0x018D      |         397 |
 |      97 | 0x007F      |         127 |
 |      98 | 0x00F8      |         248 |
-|      99 | 0x2699      |        9881 |
-|     100 | 0x269C      |        9884 |
-|     101 | 0x269D      |        9885 |
-|     102 | 0x26A1      |        9889 |
-|     103 | 0x26A2      |        9890 |
-|     104 | 0x26A4      |        9892 |
+|      99 | 0x269A      |        9882 |
+|     100 | 0x269D      |        9885 |
+|     101 | 0x269E      |        9886 |
+|     102 | 0x26A2      |        9890 |
+|     103 | 0x26A3      |        9891 |
+|     104 | 0x26A5      |        9893 |
 |     105 | 0x0008      |           8 |
-|     106 | 0x26A9      |        9897 |
-|     107 | 0x26AB      |        9899 |
-|     108 | 0x26AD      |        9901 |
-|     109 | 0x26AE      |        9902 |
-|     110 | 0x26AC      |        9900 |
+|     106 | 0x26AA      |        9898 |
+|     107 | 0x26AC      |        9900 |
+|     108 | 0x26AE      |        9902 |
+|     109 | 0x26AF      |        9903 |
+|     110 | 0x26AD      |        9901 |
 |     111 | 0x0097      |         151 |
-|     112 | 0x26AF      |        9903 |
-|     113 | 0x26B0      |        9904 |
-|     114 | 0x26B1      |        9905 |
-|     115 | 0x26BA      |        9914 |
-|     116 | 0x26BB      |        9915 |
-|     117 | 0x26BC      |        9916 |
-|     118 | 0x26C6      |        9926 |
-|     119 | 0x26C5      |        9925 |
-|     120 | 0x26C7      |        9927 |
+|     112 | 0x26B0      |        9904 |
+|     113 | 0x26B1      |        9905 |
+|     114 | 0x26B2      |        9906 |
+|     115 | 0x26BB      |        9915 |
+|     116 | 0x26BC      |        9916 |
+|     117 | 0x26BD      |        9917 |
+|     118 | 0x26C7      |        9927 |
+|     119 | 0x26C6      |        9926 |
+|     120 | 0x26C8      |        9928 |
 |     121 | 0x5A9A      |       23194 |
 |     122 | 0xFFFD0A49  |  4294773321 |
 |     123 | 0xFFFFEB7E  |  4294962046 |
 |     124 | 0x0AB1      |        2737 |
-|     125 | 0x28F2      |       10482 |
-|     126 | 0x28F1      |       10481 |
+|     125 | 0x28F3      |       10483 |
+|     126 | 0x28F2      |       10482 |
 
 ## String References
 
-- **6554**: Obtained $0 gil.
-- **7614**: You're the adventurer who accepted our mission for today? Leepe-Hoppe has prepared the food offerings for you to take to Giddeus. He's waiting on the rooftop orchard right above us.
-- **7615**: To get to the roof, go outside and take the stairs on the side of the building.
-- **7616**: At first there was just one altar for offerings in Giddeus. So we only needed to take one bag of food.
-- **7617**: Then one day, those sneaky Yagudo decided to build another altar. They are so greedy.
-- **8021**: This is the Rhinostery. We run a biological laboratory that uses magic to study all kinds of living things here.
-- **8022**: Some people mistakenly think we're just a botanical garden, but we study fauna as well as flora.
-- **8023**: It's just that we can't keep a zooful of animals here in the middle of town, right? So the staff here who specialize in zoology have to study out of town. That's why our minister, Rukususu, is out journeying right now.
-- **8036**: Uh, excuse my tummy-grumbles. I'm utterly famished.
-- **8037**: But now is the critical point that will decide whether this project is a success or a total failure.
-- **8038**: I can't take my eyes off my work, so I can't move right now. Why, I can't even afford to sleep!
-- **8039**: Oooh... But I'm so hungry! I feel like I'm starving to death...
-- **8040**: Aagh! Nothing's left from the food I prepared in advance.
-- **8058**: You volunteered to go buy us some food? Why, that's most kind of you! What a godsend!
-- **8059**: Well, as for me... I'll have $1 and $2...
-- **8060**: Oh, and I'll have a side order of $3 with that. Did you get all that?
-- **8061**: I'll have the $1 with $2 and a side order of $3 to go, thank you.
-- **8062**: While I'm waiting for you, I'll sink my last remaining energy into continuing this project.
-- **8068**: Hey! These look good! I'm glad I managed to keep waiting!
-- **8069**: Thanks... Take this for your troubles...
-- **8070**: What's this?
-- **8071**: Humph. I guess this is what they mean when they say "Close is my shirt, but closer is my skin." This'll have to do, then. So I'll take it.
-- **8072**: Of course, you're going to get Kenapa-Keppa and Kerutoto's orders as well, aren't you?
-- **8073**: Just hand each of them their orders directly. I'm sure they don't want to wait any more than they have to.
-- **8074**: Whoa! That's a surprise. How did you know what I wanted to eat?
-- **8075**: Well, I'm not complaining, just surprised. But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?
-- **8076**: A-ha-ha... Just kidding. Relax. I was really intending to pay.
-- **8077**: Whoa! That's a surprise. What's this all of a sudden? Is it okay for me to have this?
-- **8078**: But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?
-- **8079**: A-ha-ha... Just kidding. Relax. I was really intending to pay.
-- **8109**: Sometimes I spend all night trying to have a decent conversation with Kenapa-Keppa.
-- **8110**: I guess unless you have a personality like his, you wouldn't be able to spend years studying plants that don't talk.
-- **8123**: I was wondering what he was asking you to do. Now I see it was bringing him the cargo shipped in via Mhaura.
-- **8124**: I hope you kept to the time limit. Those things are extremely hard to handle.
-- **8125**: You've seen the flowers all over Windurst that serve as streetlights, right?
-- **8126**: Those flowers are called fluoro-flora. We cast magic on their seeds to enhance their illumination.
-- **8127**: But the $1 needed to carry out our enhancing work is running in short supply.
-- **8128**: Could I dare ask you to obtain $1 for us? I must warn you, it involves going to some dangerous territory!
-- **8129**: Go fetch some water? [Yes./No.]
-- **8130**: Thank you. Please fill this canteen full of water from the springs at the back of Giddeus.
-- **8131**: The depths of Giddeus are indeed dangerous, so I don't blame you for backing out.
-- **8132**: Parts of Giddeus can get confusing, so I recommend you check a map as you go.
-- **8133**: Ah, it would be unthinkable to try to go there alone. You should gather a few competent adventurer friends so you can travel together. But don't worry. Your remuneration will be most handsome.
-- **8134**: What? You lost my canteen? Here, take another. But be more careful with people's things, okay?
-- **8135**: Oh! Well done!
-- **8136**: Right on time, too. I was down to my last drop.
-- **8137**: Here's your remuneration. Please help us out again the next time our supply dwindles.
-- **8138**: Currently, we can only obtain $1 from the springs at the back of Giddeus. However, the magic of that water has weakened considerably.
-- **8139**: We used to be able to find stronger magic water in another place, but that was before the war...
-- **8555**: You want a flower? What kind do you want?
-- **8556**: Firstly-wirstly...? [The brightest.../The fragrentest.../The rarest...]
-- **8557**: Secondly-wecondly... [The mysticalest.../The cheeriest.../The beautifulest...]
-- **8558**: And, thirdly-wirdly... [The remarkablest flower./The elegantest flower./The popularest flower.]
-- **8559**: Well then, that'll be $1. Here, it's $5 gil, please.
-- **8560**: Alright, $2 it is then. Here, that'll be $6 gil, please.
-- **8561**: So, you'll be wanting $3, then. Here, that's $7 gil, thank you.
-- **8562**: Sorry, but we don't have that sort of flower in stock right now.
-- **8564**: Hmm... The flower you talk of does exist, but...
-- **8565**: I think Kerutoto is using the last one we have in some kind of experiment. She's in the meditation chamber next door.
-- **8566**: Hey, Kenapa-Keppa! Where do you actually get $4 from?
-- **8568**: Guess you should go ask Kenapa-Keppa where you can get them, so you can go get your own $4. It's probably somewhere dangerous, but hey, at least you'll be getting it for free.
-- **8569**: You should go ask Kenapa-Keppa where you can pick your own $4. It's probably somewhere pathetically dangerous, but at least you'll be getting one for free.
-- **8570**: Thank you and ta-ta\`ru!
-- **9743**: When the chance to join the Multinational Expedition came to the Rhinostery, no one was particularly eager to sign up. The Northlands is a dreadful-wedful place.
-- **9744**: Only Iru-Kuiru had the courage to put his hand up and volunteer. I wish that I could be as brave as Iru-Kuiru.
-- **9761**: Was Iru-Kuiru living somewhere on the southern continent?
-- **9762**: ...... Oh, so the curse did kill him. I guess that's why the minister went back to the Northlands. Even your memories become frozen up there...
-- **9881**: This is awful! Whatever is the Rhinostery to do...?
-- **9885**: Leepe-Hoppe, where have you been? There's globby-wobs of miteslime all over the Priming Gate. The other side of the gate must be teeming with them.
-- **9889**: Exactly-wactly! With the magic disappearing from the water around here, Toraimarai Canal has stagnated.
-- **9890**: But the real question is: Why on Vana'diel has the magic evaporated?
-- **9897**: You're rightaru, this is an emergency. If this adventurer is up to it, let's give [him/her] Rhinostery authorization.
-- **9899**: Work for the Rhinostery? [You called for an exterminator?/Ewww, bugs!]
-- **9900**: ...... There are other adventurers who have worked for us in the past. We can try asking them, I suppose.
-- **9901**: Greataru! Please use this $3. If you show it to the Cardian at the Priming Gate and explain the emergency, it should let you in.
-- **9902**: Collect three $2 from the starmites you squash, and we'll pay you $0 gil.
-- **9903**: That $3 is proof that you are working for the Rhinostery. Show it to the Cardian on guard, and it will open the Priming Gate for you.
-- **9904**: Enter Toraimarai Canal and squish those starmites. Gather three $2 from the bugs you bash, and we'll pay you $0 gil.
-- **9905**: Our offer to you still stands. Will you work under Rhinostery authorization? You've always helped us before, rightaru?
-- **9914**: One, two, three...
-- **9915**: Thank you! You squishy-squished a lot of those starmites.
-- **9916**: Here's your reward... If possible, I'd like you to help us out again.
-- **9925**: Are you willing to head back into Toraimarai Canal? I'll pay you $0 gil for every three $2.
-- **9926**: Continue exterminating? [I live to bash bugs!/I'm a little busy...]
-- **9927**: Ahaha! That's what I like to hear from our Rhinostery adventurers. We're counting on you!
-- **10481**: I'm not sure he'll be willing to tell you what Iru-Kuiru was researching, mind you. It's probably super-duper-confidential information.
-- **10482**: If you want to know more about Iru-Kuiru, you should have a chitchat with Doctor Yoran-Oran in Windurst Walls.
+- **6555**: Obtained $0 gil.
+- **7615**: You're the adventurer who accepted our mission for today? Leepe-Hoppe has prepared the food offerings for you to take to Giddeus. He's waiting on the rooftop orchard right above us.
+- **7616**: To get to the roof, go outside and take the stairs on the side of the building.
+- **7617**: At first there was just one altar for offerings in Giddeus. So we only needed to take one bag of food.
+- **7618**: Then one day, those sneaky Yagudo decided to build another altar. They are so greedy.
+- **8022**: This is the Rhinostery. We run a biological laboratory that uses magic to study all kinds of living things here.
+- **8023**: Some people mistakenly think we're just a botanical garden, but we study fauna as well as flora.
+- **8024**: It's just that we can't keep a zooful of animals here in the middle of town, right? So the staff here who specialize in zoology have to study out of town. That's why our minister, Rukususu, is out journeying right now.
+- **8037**: Uh, excuse my tummy-grumbles. I'm utterly famished.
+- **8038**: But now is the critical point that will decide whether this project is a success or a total failure.
+- **8039**: I can't take my eyes off my work, so I can't move right now. Why, I can't even afford to sleep!
+- **8040**: Oooh... But I'm so hungry! I feel like I'm starving to death...
+- **8041**: Aagh! Nothing's left from the food I prepared in advance.
+- **8059**: You volunteered to go buy us some food? Why, that's most kind of you! What a godsend!
+- **8060**: Well, as for me... I'll have $1 and $2...
+- **8061**: Oh, and I'll have a side order of $3 with that. Did you get all that?
+- **8062**: I'll have the $1 with $2 and a side order of $3 to go, thank you.
+- **8063**: While I'm waiting for you, I'll sink my last remaining energy into continuing this project.
+- **8069**: Hey! These look good! I'm glad I managed to keep waiting!
+- **8070**: Thanks... Take this for your troubles...
+- **8071**: What's this?
+- **8072**: Humph. I guess this is what they mean when they say "Close is my shirt, but closer is my skin." This'll have to do, then. So I'll take it.
+- **8073**: Of course, you're going to get Kenapa-Keppa and Kerutoto's orders as well, aren't you?
+- **8074**: Just hand each of them their orders directly. I'm sure they don't want to wait any more than they have to.
+- **8075**: Whoa! That's a surprise. How did you know what I wanted to eat?
+- **8076**: Well, I'm not complaining, just surprised. But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?
+- **8077**: A-ha-ha... Just kidding. Relax. I was really intending to pay.
+- **8078**: Whoa! That's a surprise. What's this all of a sudden? Is it okay for me to have this?
+- **8079**: But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?
+- **8080**: A-ha-ha... Just kidding. Relax. I was really intending to pay.
+- **8110**: Sometimes I spend all night trying to have a decent conversation with Kenapa-Keppa.
+- **8111**: I guess unless you have a personality like his, you wouldn't be able to spend years studying plants that don't talk.
+- **8124**: I was wondering what he was asking you to do. Now I see it was bringing him the cargo shipped in via Mhaura.
+- **8125**: I hope you kept to the time limit. Those things are extremely hard to handle.
+- **8126**: You've seen the flowers all over Windurst that serve as streetlights, right?
+- **8127**: Those flowers are called fluoro-flora. We cast magic on their seeds to enhance their illumination.
+- **8128**: But the $1 needed to carry out our enhancing work is running in short supply.
+- **8129**: Could I dare ask you to obtain $1 for us? I must warn you, it involves going to some dangerous territory!
+- **8130**: Go fetch some water? [Yes./No.]
+- **8131**: Thank you. Please fill this canteen full of water from the springs at the back of Giddeus.
+- **8132**: The depths of Giddeus are indeed dangerous, so I don't blame you for backing out.
+- **8133**: Parts of Giddeus can get confusing, so I recommend you check a map as you go.
+- **8134**: Ah, it would be unthinkable to try to go there alone. You should gather a few competent adventurer friends so you can travel together. But don't worry. Your remuneration will be most handsome.
+- **8135**: What? You lost my canteen? Here, take another. But be more careful with people's things, okay?
+- **8136**: Oh! Well done!
+- **8137**: Right on time, too. I was down to my last drop.
+- **8138**: Here's your remuneration. Please help us out again the next time our supply dwindles.
+- **8139**: Currently, we can only obtain $1 from the springs at the back of Giddeus. However, the magic of that water has weakened considerably.
+- **8140**: We used to be able to find stronger magic water in another place, but that was before the war...
+- **8556**: You want a flower? What kind do you want?
+- **8557**: Firstly-wirstly...? [The brightest.../The fragrentest.../The rarest...]
+- **8558**: Secondly-wecondly... [The mysticalest.../The cheeriest.../The beautifulest...]
+- **8559**: And, thirdly-wirdly... [The remarkablest flower./The elegantest flower./The popularest flower.]
+- **8560**: Well then, that'll be $1. Here, it's $5 gil, please.
+- **8561**: Alright, $2 it is then. Here, that'll be $6 gil, please.
+- **8562**: So, you'll be wanting $3, then. Here, that's $7 gil, thank you.
+- **8563**: Sorry, but we don't have that sort of flower in stock right now.
+- **8565**: Hmm... The flower you talk of does exist, but...
+- **8566**: I think Kerutoto is using the last one we have in some kind of experiment. She's in the meditation chamber next door.
+- **8567**: Hey, Kenapa-Keppa! Where do you actually get $4 from?
+- **8569**: Guess you should go ask Kenapa-Keppa where you can get them, so you can go get your own $4. It's probably somewhere dangerous, but hey, at least you'll be getting it for free.
+- **8570**: You should go ask Kenapa-Keppa where you can pick your own $4. It's probably somewhere pathetically dangerous, but at least you'll be getting one for free.
+- **8571**: Thank you and ta-ta\`ru!
+- **9744**: When the chance to join the Multinational Expedition came to the Rhinostery, no one was particularly eager to sign up. The Northlands is a dreadful-wedful place.
+- **9745**: Only Iru-Kuiru had the courage to put his hand up and volunteer. I wish that I could be as brave as Iru-Kuiru.
+- **9762**: Was Iru-Kuiru living somewhere on the southern continent?
+- **9763**: ...... Oh, so the curse did kill him. I guess that's why the minister went back to the Northlands. Even your memories become frozen up there...
+- **9882**: This is awful! Whatever is the Rhinostery to do...?
+- **9886**: Leepe-Hoppe, where have you been? There's globby-wobs of miteslime all over the Priming Gate. The other side of the gate must be teeming with them.
+- **9890**: Exactly-wactly! With the magic disappearing from the water around here, Toraimarai Canal has stagnated.
+- **9891**: But the real question is: Why on Vana'diel has the magic evaporated?
+- **9898**: You're rightaru, this is an emergency. If this adventurer is up to it, let's give [him/her] Rhinostery authorization.
+- **9900**: Work for the Rhinostery? [You called for an exterminator?/Ewww, bugs!]
+- **9901**: ...... There are other adventurers who have worked for us in the past. We can try asking them, I suppose.
+- **9902**: Greataru! Please use this $3. If you show it to the Cardian at the Priming Gate and explain the emergency, it should let you in.
+- **9903**: Collect three $2 from the starmites you squash, and we'll pay you $0 gil.
+- **9904**: That $3 is proof that you are working for the Rhinostery. Show it to the Cardian on guard, and it will open the Priming Gate for you.
+- **9905**: Enter Toraimarai Canal and squish those starmites. Gather three $2 from the bugs you bash, and we'll pay you $0 gil.
+- **9906**: Our offer to you still stands. Will you work under Rhinostery authorization? You've always helped us before, rightaru?
+- **9915**: One, two, three...
+- **9916**: Thank you! You squishy-squished a lot of those starmites.
+- **9917**: Here's your reward... If possible, I'd like you to help us out again.
+- **9926**: Are you willing to head back into Toraimarai Canal? I'll pay you $0 gil for every three $2.
+- **9927**: Continue exterminating? [I live to bash bugs!/I'm a little busy...]
+- **9928**: Ahaha! That's what I like to hear from our Rhinostery adventurers. We're counting on you!
+- **10482**: I'm not sure he'll be willing to tell you what Iru-Kuiru was researching, mind you. It's probably super-duper-confidential information.
+- **10483**: If you want to know more about Iru-Kuiru, you should have a chitchat with Doctor Yoran-Oran in Windurst Walls.
 
 ## Events
 
@@ -772,13 +772,13 @@
   1: 0x0107 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0108 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0109 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+  4: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "This is the Rhinostery. We run a biological laboratory that uses magic to study all kinds of living things here."
   5: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
+  6: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "Some people mistakenly think we're just a botanical garden, but we study fauna as well as flora."
   7: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
+  8: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
     → "It's just that we can't keep a zooful of animals here in the middle of town, right? So the staff here who specialize in zoology have to study out of town. That's why our minister, Rukususu, is out journeying right now."
   9: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x011C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -812,10 +812,10 @@
   1: 0x012C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x012E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
+  4: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "You're the adventurer who accepted our mission for today? Leepe-Hoppe has prepared the food offerings for you to take to Giddeus. He's waiting on the rooftop orchard right above us."
   5: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
+  6: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
     → "To get to the roof, go outside and take the stairs on the side of the building."
   7: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x013D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -849,10 +849,10 @@
   1: 0x014D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
+  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
     → "At first there was just one altar for offerings in Giddeus. So we only needed to take one bag of food."
   5: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
+  6: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
     → "Then one day, those sneaky Yagudo decided to build another altar. They are so greedy."
   7: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x015E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -914,7 +914,7 @@
 
 ```
   0: 0x0189 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+  1: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "Uh, excuse my tummy-grumbles. I'm utterly famished."
   2: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0194 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -943,10 +943,10 @@
 
 ```
   0: 0x019C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  1: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "But now is the critical point that will decide whether this project is a success or a total failure."
   2: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  3: 0x01A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "I can't take my eyes off my work, so I can't move right now. Why, I can't even afford to sleep!"
   4: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -978,10 +978,10 @@
   1: 0x01B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  4: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "Oooh... But I'm so hungry! I feel like I'm starving to death..."
   5: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+  6: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "Aagh! Nothing's left from the food I prepared in advance."
   7: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1015,10 +1015,10 @@
   1: 0x01D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  4: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "Oooh... But I'm so hungry! I feel like I'm starving to death..."
   5: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+  6: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "Aagh! Nothing's left from the food I prepared in advance."
   7: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1052,13 +1052,13 @@
   1: 0x01FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01FB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  4: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "You volunteered to go buy us some food? Why, that's most kind of you! What a godsend!"
   5: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
+  6: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "Well, as for me... I'll have $1 and $2..."
   7: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
+  8: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
     → "Oh, and I'll have a side order of $3 with that. Did you get all that?"
   9: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x020F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1092,10 +1092,10 @@
   1: 0x021F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0220 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
+  4: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8062*)
     → "I'll have the $1 with $2 and a side order of $3 to go, thank you."
   5: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8062*)
+  6: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8063*)
     → "While I'm waiting for you, I'll sink my last remaining energy into continuing this project."
   7: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0230 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1133,16 +1133,16 @@
   3: 0x0243 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0244 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0245 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  6: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
+  6: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
     → "Hey! These look good! I'm glad I managed to keep waiting!"
   7: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
+  8: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
     → "Thanks... Take this for your troubles..."
   9: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0254 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
  11: 0x025B [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0274
  12: 0x0263 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 13: 0x0274 [0x48] [System] [6554*]:
+ 13: 0x0274 [0x48] [System] [6555*]:
     → "Obtained $0 gil."
  14: 0x0277 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  15: 0x0279 [0x21] END_EVENT
@@ -1174,10 +1174,10 @@
   1: 0x0280 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0281 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0282 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
+  4: 0x0289 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
     → "What's this?"
   5: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
+  6: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
     → "Humph. I guess this is what they mean when they say "Close is my shirt, but closer is my skin." This'll have to do, then. So I'll take it."
   7: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0291 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1211,10 +1211,10 @@
   1: 0x02A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
+  4: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
     → "Of course, you're going to get Kenapa-Keppa and Kerutoto's orders as well, aren't you?"
   5: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+  6: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
     → "Just hand each of them their orders directly. I'm sure they don't want to wait any more than they have to."
   7: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1253,19 +1253,19 @@
   3: 0x02C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x02C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  6: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
+  6: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
     → "Whoa! That's a surprise. How did you know what I wanted to eat?"
   7: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+  8: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "Well, I'm not complaining, just surprised. But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?"
   9: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+ 10: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "A-ha-ha... Just kidding. Relax. I was really intending to pay."
  11: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
  13: 0x02E1 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x02FA
  14: 0x02E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 15: 0x02FA [0x48] [System] [6554*]:
+ 15: 0x02FA [0x48] [System] [6555*]:
     → "Obtained $0 gil."
  16: 0x02FD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  17: 0x02FF [0x21] END_EVENT
@@ -1297,13 +1297,13 @@
   1: 0x0306 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0307 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0308 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  4: 0x030F [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "Whoa! That's a surprise. What's this all of a sudden? Is it okay for me to have this?"
   5: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
+  6: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "But seeing as you're giving it to me without my asking, I assume I don't have to pay, right?"
   7: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
+  8: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
     → "A-ha-ha... Just kidding. Relax. I was really intending to pay."
   9: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x031B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1337,10 +1337,10 @@
   1: 0x032B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x032D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
+  4: 0x0334 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
     → "Sometimes I spend all night trying to have a decent conversation with Kenapa-Keppa."
   5: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
+  6: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
     → "I guess unless you have a personality like his, you wouldn't be able to spend years studying plants that don't talk."
   7: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1374,10 +1374,10 @@
   1: 0x034C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x034D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x034E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  4: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "I was wondering what he was asking you to do. Now I see it was bringing him the cargo shipped in via Mhaura."
   5: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+  6: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "I hope you kept to the time limit. Those things are extremely hard to handle."
   7: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x035D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1415,7 +1415,7 @@
   2: 0x036E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x036F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x24)
   4: 0x0376 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x25)
-  5: 0x037D [0x24] CREATE_DIALOG(message_id=8129*, default_option=0*, option_flags=0*)
+  5: 0x037D [0x24] CREATE_DIALOG(message_id=8130*, default_option=0*, option_flags=0*)
     → "Go fetch some water? [Yes./No.]"
   6: 0x0384 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0385 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x039C
@@ -1454,10 +1454,10 @@ SUBROUTINE_03B3:
 
 ```
   0: 0x03B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  1: 0x03BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "You've seen the flowers all over Windurst that serve as streetlights, right?"
   2: 0x03C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+  3: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "Those flowers are called fluoro-flora. We cast magic on their seeds to enhance their illumination."
   4: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x03C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1487,12 +1487,12 @@ SUBROUTINE_03B3:
 
 ```
   0: 0x03CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x03)
-  1: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+  1: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "But the $1 needed to carry out our enhancing work is running in short supply."
   2: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x04)
   4: 0x03E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x05)
-  5: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+  5: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "Could I dare ask you to obtain $1 for us? I must warn you, it involves going to some dangerous territory!"
   6: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x06)
@@ -1520,7 +1520,7 @@ SUBROUTINE_03B3:
 
 ```
   0: 0x03F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0D)
-  1: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  1: 0x03FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "Thank you. Please fill this canteen full of water from the springs at the back of Giddeus."
   2: 0x03FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0E)
@@ -1548,7 +1548,7 @@ SUBROUTINE_03B3:
 
 ```
   0: 0x0406 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  1: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "The depths of Giddeus are indeed dangerous, so I don't blame you for backing out."
   2: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0411 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1580,10 +1580,10 @@ SUBROUTINE_03B3:
   1: 0x041E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x041F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0420 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0427 [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  4: 0x0427 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "Parts of Giddeus can get confusing, so I recommend you check a map as you go."
   5: 0x042A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  6: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "Ah, it would be unthinkable to try to go there alone. You should gather a few competent adventurer friends so you can travel together. But don't worry. Your remuneration will be most handsome."
   7: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x042F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1617,7 +1617,7 @@ SUBROUTINE_03B3:
   1: 0x043F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0440 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0441 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+  4: 0x0448 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "What? You lost my canteen? Here, take another. But be more careful with people's things, okay?"
   5: 0x044B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x044C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1654,7 +1654,7 @@ SUBROUTINE_03B3:
   4: 0x0460 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0461 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x2B)
   6: 0x0468 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  7: 0x0479 [0x48] [System] [6554*]:
+  7: 0x0479 [0x48] [System] [6555*]:
     → "Obtained $0 gil."
   8: 0x047C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
   9: 0x047E [0x21] END_EVENT
@@ -1683,15 +1683,15 @@ SUBROUTINE_03B3:
 
 ```
   0: 0x0480 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+  1: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Oh! Well done!"
   2: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
+  3: 0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "Right on time, too. I was down to my last drop."
   4: 0x048E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x048F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
   6: 0x0496 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0D)
-  7: 0x049D [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
+  7: 0x049D [0x1D] PRINT_EVENT_MESSAGE(message_id=8138*)
     → "Here's your remuneration. Please help us out again the next time our supply dwindles."
   8: 0x04A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0E)
@@ -1723,10 +1723,10 @@ SUBROUTINE_03B3:
   1: 0x04AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8138*)
+  4: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
     → "Currently, we can only obtain $1 from the springs at the back of Giddeus. However, the magic of that water has weakened considerably."
   5: 0x04BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
+  6: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
     → "We used to be able to find stronger magic water in another place, but that was before the war..."
   7: 0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -1819,7 +1819,7 @@ SUBROUTINE_03B3:
   1: 0x04CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x2E)
-  4: 0x04D8 [0x24] CREATE_DIALOG(message_id=8556*, default_option=0*, option_flags=0*)
+  4: 0x04D8 [0x24] CREATE_DIALOG(message_id=8557*, default_option=0*, option_flags=0*)
     → "Firstly-wirstly...? [The brightest.../The fragrentest.../The rarest...]"
   5: 0x04DF [0x25] WAIT_DIALOG_SELECT()
   6: 0x04E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04F0
@@ -1833,7 +1833,7 @@ SUBROUTINE_03B3:
  14: 0x050D [0x01] GOTO 0x0510
 
 SUBROUTINE_0510:
- 15: 0x0510 [0x24] CREATE_DIALOG(message_id=8557*, default_option=0*, option_flags=0*)
+ 15: 0x0510 [0x24] CREATE_DIALOG(message_id=8558*, default_option=0*, option_flags=0*)
     → "Secondly-wecondly... [The mysticalest.../The cheeriest.../The beautifulest...]"
  16: 0x0517 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0518 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0528
@@ -1847,7 +1847,7 @@ SUBROUTINE_0510:
  25: 0x0545 [0x01] GOTO 0x0548
 
 SUBROUTINE_0548:
- 26: 0x0548 [0x24] CREATE_DIALOG(message_id=8558*, default_option=0*, option_flags=0*)
+ 26: 0x0548 [0x24] CREATE_DIALOG(message_id=8559*, default_option=0*, option_flags=0*)
     → "And, thirdly-wirdly... [The remarkablest flower./The elegantest flower./The popularest flower.]"
  27: 0x054F [0x25] WAIT_DIALOG_SELECT()
  28: 0x0550 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0560
@@ -2067,7 +2067,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x089C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  1: 0x08A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8555*)
+  1: 0x08A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8556*)
     → "You want a flower? What kind do you want?"
   2: 0x08A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -2096,7 +2096,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x08AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0B)
-  1: 0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
+  1: 0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
     → "Well then, that'll be $1. Here, it's $5 gil, please."
   2: 0x08B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0C)
@@ -2124,7 +2124,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x08C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0B)
-  1: 0x08C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
+  1: 0x08C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
     → "Alright, $2 it is then. Here, that'll be $6 gil, please."
   2: 0x08CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0C)
@@ -2152,7 +2152,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x08D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0B)
-  1: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
+  1: 0x08DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
     → "So, you'll be wanting $3, then. Here, that's $7 gil, thank you."
   2: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0C)
@@ -2178,7 +2178,7 @@ SUBROUTINE_0891:
 #### Opcodes
 
 ```
-  0: 0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
+  0: 0x08E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
     → "Sorry, but we don't have that sort of flower in stock right now."
   1: 0x08EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x08EC [0x00] END_REQSTACK()
@@ -2207,12 +2207,12 @@ SUBROUTINE_0891:
 
 ```
   0: 0x08ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x03)
-  1: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
+  1: 0x08F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
     → "Hmm... The flower you talk of does exist, but..."
   2: 0x08F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x04)
   4: 0x08FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x05)
-  5: 0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
+  5: 0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=8566*)
     → "I think Kerutoto is using the last one we have in some kind of experiment. She's in the meditation chamber next door."
   6: 0x0909 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x090A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x06)
@@ -2240,7 +2240,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x0912 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0F)
-  1: 0x0919 [0x1D] PRINT_EVENT_MESSAGE(message_id=8566*)
+  1: 0x0919 [0x1D] PRINT_EVENT_MESSAGE(message_id=8567*)
     → "Hey, Kenapa-Keppa! Where do you actually get $4 from?"
   2: 0x091C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x091D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x10)
@@ -2268,7 +2268,7 @@ SUBROUTINE_0891:
 
 ```
   0: 0x0925 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x09)
-  1: 0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
+  1: 0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
     → "Guess you should go ask Kenapa-Keppa where you can get them, so you can go get your own $4. It's probably somewhere dangerous, but hey, at least you'll be getting it for free."
   2: 0x092F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0930 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0A)
@@ -2300,7 +2300,7 @@ SUBROUTINE_0891:
   1: 0x093D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x093E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x093F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0946 [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
+  4: 0x0946 [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
     → "You should go ask Kenapa-Keppa where you can pick your own $4. It's probably somewhere pathetically dangerous, but at least you'll be getting one for free."
   5: 0x0949 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x094A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x11)
@@ -2334,7 +2334,7 @@ SUBROUTINE_0891:
   1: 0x095A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x095B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x095C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x0963 [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
+  4: 0x0963 [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
     → "Thank you and ta-ta`ru!"
   5: 0x0966 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0967 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x11)
@@ -2369,12 +2369,12 @@ SUBROUTINE_0891:
   1: 0x0977 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0978 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0979 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x03)
-  4: 0x0980 [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
+  4: 0x0980 [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
     → "When the chance to join the Multinational Expedition came to the Rhinostery, no one was particularly eager to sign up. The Northlands is a dreadful-wedful place."
   5: 0x0983 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0984 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x04)
   7: 0x098B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x05)
-  8: 0x0992 [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
+  8: 0x0992 [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
     → "Only Iru-Kuiru had the courage to put his hand up and volunteer. I wish that I could be as brave as Iru-Kuiru."
   9: 0x0995 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0996 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x06)
@@ -2408,11 +2408,11 @@ SUBROUTINE_0891:
   1: 0x09A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x09AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
+  4: 0x09AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9762*)
     → "Was Iru-Kuiru living somewhere on the southern continent?"
   5: 0x09B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x09B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x11)
-  7: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9762*)
+  7: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=9763*)
     → "...... Oh, so the curse did kill him. I guess that's why the minister went back to the Northlands. Even your memories become frozen up there..."
   8: 0x09BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x09BE [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2591,7 +2591,7 @@ SUBROUTINE_0891:
  23: 0x0A48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x04)
  24: 0x0A4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[248*, 0*]
  25: 0x0A60 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 26: 0x0A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=9881*)
+ 26: 0x0A71 [0x1D] PRINT_EVENT_MESSAGE(message_id=9882*)
     → "This is awful! Whatever is the Rhinostery to do...?"
  27: 0x0A74 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0A75 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=248*
@@ -2613,7 +2613,7 @@ SUBROUTINE_0891:
  44: 0x0B01 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=248*
  45: 0x0B10 [0x27] REQ_SET(priority=0x0B, entity_id=Kerutoto (ID: 17752111/0x010EE02F), tag_num=0x38)
  46: 0x0B17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x47)
- 47: 0x0B1E [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9884*]:
+ 47: 0x0B1E [0x2B] Leepe-Hoppe (ID: 17752112/0x010EE030) [9885*]:
     → "What's all this fuss and noise I hear? An emergency, huh? What's there to fear?"
  48: 0x0B25 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0B26 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kerutoto (ID: 17752111/0x010EE02F))
@@ -2624,7 +2624,7 @@ SUBROUTINE_0891:
  54: 0x0B5E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Leepe-Hoppe (ID: 17752112/0x010EE030), tag_num=0x64)
  55: 0x0B65 [0x4A] Kenapa-Keppa (ID: 17752110/0x010EE02E) looks at Leepe-Hoppe (ID: 17752112/0x010EE030)
  56: 0x0B6E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0B)
- 57: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=9885*)
+ 57: 0x0B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=9886*)
     → "Leepe-Hoppe, where have you been? There's globby-wobs of miteslime all over the Priming Gate. The other side of the gate must be teeming with them."
  58: 0x0B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0B79 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0C)
@@ -2655,12 +2655,12 @@ SUBROUTINE_0891:
  84: 0x0C61 [0x4A] Kenapa-Keppa (ID: 17752110/0x010EE02E) looks at Kerutoto (ID: 17752111/0x010EE02F)
  85: 0x0C6A [0x4A] Leepe-Hoppe (ID: 17752112/0x010EE030) looks at Kerutoto (ID: 17752111/0x010EE02F)
  86: 0x0C73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x03)
- 87: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9889*)
+ 87: 0x0C7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9890*)
     → "Exactly-wactly! With the magic disappearing from the water around here, Toraimarai Canal has stagnated."
  88: 0x0C7D [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0C7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x04)
  90: 0x0C85 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x05)
- 91: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=9890*)
+ 91: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=9891*)
     → "But the real question is: Why on Vana'diel has the magic evaporated?"
  92: 0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0C90 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x06)
@@ -2676,7 +2676,7 @@ SUBROUTINE_0891:
 103: 0x0CEF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 104: 0x0CF0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Kerutoto (ID: 17752111/0x010EE02F) Render.Flags0 and Render.Flags3 conditions are met
 105: 0x0CF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kerutoto (ID: 17752111/0x010EE02F), tag_num=0x0B)
-106: 0x0CFC [0x2B] Kerutoto (ID: 17752111/0x010EE02F) [9892*]:
+106: 0x0CFC [0x2B] Kerutoto (ID: 17752111/0x010EE02F) [9893*]:
     → "Desperate times call for desperate measures. I think we should give this adventurer full Rhinostery authorization."
 107: 0x0D03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0D04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kerutoto (ID: 17752111/0x010EE02F), tag_num=0x0C)
@@ -2737,7 +2737,7 @@ SUBROUTINE_0E98:
 159: 0x0ECC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x05)
 160: 0x0ED3 [0x79] Ohbiru-Dohbiru (ID: 17752109/0x010EE02D) looks at LocalPlayer (Basic look)
 161: 0x0EDD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x06)
-162: 0x0EE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9897*)
+162: 0x0EE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9898*)
     → "You're rightaru, this is an emergency. If this adventurer is up to it, let's give [him/her] Rhinostery authorization."
 163: 0x0EE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0EE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x07)
@@ -2753,7 +2753,7 @@ SUBROUTINE_0E98:
 174: 0x0F3D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kerutoto (ID: 17752111/0x010EE02F), tag_num=0x3E)
 175: 0x0F44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kerutoto (ID: 17752111/0x010EE02F), tag_num=0x0A)
 176: 0x0F4B [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=248*
-177: 0x0F5A [0x24] CREATE_DIALOG(message_id=9899*, default_option=0*, option_flags=0*)
+177: 0x0F5A [0x24] CREATE_DIALOG(message_id=9900*, default_option=0*, option_flags=0*)
     → "Work for the Rhinostery? [You called for an exterminator?/Ewww, bugs!]"
 178: 0x0F61 [0x25] WAIT_DIALOG_SELECT()
 179: 0x0F62 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FA8
@@ -2761,12 +2761,12 @@ SUBROUTINE_0E98:
 181: 0x0F6B [0x03] Work_Zone[1] = 1*
 182: 0x0F70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[248*, 0*]
 183: 0x0F81 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-184: 0x0F88 [0x1D] PRINT_EVENT_MESSAGE(message_id=9901*)
+184: 0x0F88 [0x1D] PRINT_EVENT_MESSAGE(message_id=9902*)
     → "Greataru! Please use this $3. If you show it to the Cardian at the Priming Gate and explain the emergency, it should let you in."
 185: 0x0F8B [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0F8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
 187: 0x0F93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0B)
-188: 0x0F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=9902*)
+188: 0x0F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=9903*)
     → "Collect three $2 from the starmites you squash, and we'll pay you $0 gil."
 189: 0x0F9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0F9E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x0C)
@@ -2776,7 +2776,7 @@ SUBROUTINE_0E98:
 194: 0x0FB5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[248*, 0*]
 195: 0x0FC6 [0x4A] Ohbiru-Dohbiru (ID: 17752109/0x010EE02D) looks at Kerutoto (ID: 17752111/0x010EE02F)
 196: 0x0FCF [0x79] Kerutoto (ID: 17752111/0x010EE02F) looks at Ohbiru-Dohbiru (ID: 17752109/0x010EE02D) (Basic look)
-197: 0x0FD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9900*)
+197: 0x0FD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9901*)
     → "...... There are other adventurers who have worked for us in the past. We can try asking them, I suppose."
 198: 0x0FDC [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x0FDD [0x01] GOTO 0x0FE0
@@ -2911,10 +2911,10 @@ SUBROUTINE_0FE0:
   1: 0x1049 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x104A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x104B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x1052 [0x1D] PRINT_EVENT_MESSAGE(message_id=9903*)
+  4: 0x1052 [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
     → "That $3 is proof that you are working for the Rhinostery. Show it to the Cardian on guard, and it will open the Priming Gate for you."
   5: 0x1055 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1056 [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
+  6: 0x1056 [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
     → "Enter Toraimarai Canal and squish those starmites. Gather three $2 from the bugs you bash, and we'll pay you $0 gil."
   7: 0x1059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x105A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)
@@ -2951,7 +2951,7 @@ SUBROUTINE_0FE0:
   1: 0x106A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x106B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x106C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x42)
-  4: 0x1073 [0x24] CREATE_DIALOG(message_id=9899*, default_option=0*, option_flags=0*)
+  4: 0x1073 [0x24] CREATE_DIALOG(message_id=9900*, default_option=0*, option_flags=0*)
     → "Work for the Rhinostery? [You called for an exterminator?/Ewww, bugs!]"
   5: 0x107A [0x25] WAIT_DIALOG_SELECT()
   6: 0x107B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10A1
@@ -2992,7 +2992,7 @@ SUBROUTINE_10B8:
 #### Opcodes
 
 ```
-  0: 0x10BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
+  0: 0x10BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
     → "Our offer to you still stands. Will you work under Rhinostery authorization? You've always helped us before, rightaru?"
   1: 0x10BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x10C0 [0x00] END_REQSTACK()
@@ -3063,7 +3063,7 @@ SUBROUTINE_10B8:
 #### Opcodes
 
 ```
-  0: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9914*)
+  0: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9915*)
     → "One, two, three..."
   1: 0x1135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1136 [0x00] END_REQSTACK()
@@ -3088,7 +3088,7 @@ SUBROUTINE_10B8:
 #### Opcodes
 
 ```
-  0: 0x1137 [0x1D] PRINT_EVENT_MESSAGE(message_id=9915*)
+  0: 0x1137 [0x1D] PRINT_EVENT_MESSAGE(message_id=9916*)
     → "Thank you! You squishy-squished a lot of those starmites."
   1: 0x113A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x113B [0x00] END_REQSTACK()
@@ -3114,7 +3114,7 @@ SUBROUTINE_10B8:
 #### Opcodes
 
 ```
-  0: 0x113C [0x1D] PRINT_EVENT_MESSAGE(message_id=9916*)
+  0: 0x113C [0x1D] PRINT_EVENT_MESSAGE(message_id=9917*)
     → "Here's your reward... If possible, I'd like you to help us out again."
   1: 0x113F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1140 [0x00] END_REQSTACK()
@@ -3148,7 +3148,7 @@ SUBROUTINE_10B8:
   1: 0x1146 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1147 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1148 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x48)
-  4: 0x114F [0x24] CREATE_DIALOG(message_id=9926*, default_option=0*, option_flags=0*)
+  4: 0x114F [0x24] CREATE_DIALOG(message_id=9927*, default_option=0*, option_flags=0*)
     → "Continue exterminating? [I live to bash bugs!/I'm a little busy...]"
   5: 0x1156 [0x25] WAIT_DIALOG_SELECT()
   6: 0x1157 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1176
@@ -3187,7 +3187,7 @@ SUBROUTINE_118D:
 #### Opcodes
 
 ```
-  0: 0x1191 [0x1D] PRINT_EVENT_MESSAGE(message_id=9925*)
+  0: 0x1191 [0x1D] PRINT_EVENT_MESSAGE(message_id=9926*)
     → "Are you willing to head back into Toraimarai Canal? I'll pay you $0 gil for every three $2."
   1: 0x1194 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1195 [0x00] END_REQSTACK()
@@ -3212,7 +3212,7 @@ SUBROUTINE_118D:
 #### Opcodes
 
 ```
-  0: 0x1196 [0x1D] PRINT_EVENT_MESSAGE(message_id=9927*)
+  0: 0x1196 [0x1D] PRINT_EVENT_MESSAGE(message_id=9928*)
     → "Ahaha! That's what I like to hear from our Rhinostery adventurers. We're counting on you!"
   1: 0x1199 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x119A [0x00] END_REQSTACK()
@@ -3289,10 +3289,10 @@ SUBROUTINE_118D:
   1: 0x11AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x11AC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x11AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x01)
-  4: 0x11B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10482*)
+  4: 0x11B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10483*)
     → "If you want to know more about Iru-Kuiru, you should have a chitchat with Doctor Yoran-Oran in Windurst Walls."
   5: 0x11B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x11B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10481*)
+  6: 0x11B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10482*)
     → "I'm not sure he'll be willing to tell you what Iru-Kuiru was researching, mind you. It's probably super-duper-confidential information."
   7: 0x11BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x11BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ohbiru-Dohbiru (ID: 17752109/0x010EE02D), tag_num=0x02)

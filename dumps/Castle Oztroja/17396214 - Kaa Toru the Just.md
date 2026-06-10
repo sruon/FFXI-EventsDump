@@ -26,23 +26,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D24      |        7460 |
-|       1 | 0x1D25      |        7461 |
-|       2 | 0x1D26      |        7462 |
-|       3 | 0x1D27      |        7463 |
-|       4 | 0x1D28      |        7464 |
-|       5 | 0x1D29      |        7465 |
-|       6 | 0x1D2A      |        7466 |
+|       0 | 0x1D25      |        7461 |
+|       1 | 0x1D26      |        7462 |
+|       2 | 0x1D27      |        7463 |
+|       3 | 0x1D28      |        7464 |
+|       4 | 0x1D29      |        7465 |
+|       5 | 0x1D2A      |        7466 |
+|       6 | 0x1D2B      |        7467 |
 
 ## String References
 
-- **7460**: If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
-- **7461**: I am Kaa Toru the Just.
-- **7462**: You be the victor of Balga Contest held in Giddeus, kyah? You be taking this $3 and your prize.
-- **7463**: This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
-- **7464**: Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
-- **7465**: ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
-- **7466**: Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
+- **7461**: If you hop down here, you be finding shortcut to the entrance of Castle Oztroja.
+- **7462**: I am Kaa Toru the Just.
+- **7463**: You be the victor of Balga Contest held in Giddeus, kyah? You be taking this $3 and your prize.
+- **7464**: This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged.
+- **7465**: Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you.
+- **7466**: ...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?
+- **7467**: Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just.
 
 ## Events
 
@@ -87,7 +87,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "If you hop down here, you be finding shortcut to the entrance of Castle Oztroja."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x00] END_REQSTACK()
@@ -147,7 +147,7 @@
 #### Opcodes
 
 ```
-  0: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  0: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "I am Kaa Toru the Just."
   1: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0032 [0x00] END_REQSTACK()
@@ -172,7 +172,7 @@
 #### Opcodes
 
 ```
-  0: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  0: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "You be the victor of Balga Contest held in Giddeus, kyah? You be taking this $3 and your prize."
   1: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0037 [0x00] END_REQSTACK()
@@ -197,7 +197,7 @@
 #### Opcodes
 
 ```
-  0: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  0: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "This contest being beneficial for both Yagudo and smoothskins. Valuable knowledge and skills be exchanged."
   1: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003C [0x00] END_REQSTACK()
@@ -223,7 +223,7 @@
 #### Opcodes
 
 ```
-  0: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
+  0: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
     → "Quawk! You be going back to your nest now. Your victory be the most valuable thing you taking with you."
   1: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0041 [0x00] END_REQSTACK()
@@ -252,10 +252,10 @@
   0: 0x0042 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0047 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0048 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+  3: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
     → "...Kyah! Now what you be wanting? Quawk? You saying you had hard time getting here?"
   4: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  5: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "Not words me be expecting from champion of Balga Contest, kyah! Victor has a duty to be meeting all challenges. A duty of the just."
   6: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0051 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

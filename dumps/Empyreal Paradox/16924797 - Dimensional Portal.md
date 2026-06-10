@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E90      |        7824 |
-|       1 | 0x1E91      |        7825 |
+|       0 | 0x1E91      |        7825 |
+|       1 | 0x1E92      |        7826 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
@@ -31,16 +31,16 @@
 |       7 | 0x00C9      |         201 |
 |       8 | 0x00C8      |         200 |
 |       9 | 0x001E      |          30 |
-|      10 | 0x1EDD      |        7901 |
+|      10 | 0x1EDE      |        7902 |
 |      11 | 0x0004      |           4 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
 
 ## String References
 
-- **7824**: This device allows teleportation to [Holla/Dem/Mea].
-- **7825**: Would you like to teleport? [Ready, willing, and able./No thanks.]
-- **7901**: Teleport to where? [Crag of Holla./Crag of Dem./Crag of Mea./Reisenjima Sanctorium./None of the above.]
+- **7825**: This device allows teleportation to [Holla/Dem/Mea].
+- **7826**: Would you like to teleport? [Ready, willing, and able./No thanks.]
+- **7902**: Teleport to where? [Crag of Holla./Crag of Dem./Crag of Mea./Reisenjima Sanctorium./None of the above.]
 
 ## Events
 
@@ -93,10 +93,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7824*]:
+  0: 0x0001 [0x48] [System] [7825*]:
     → "This device allows teleportation to [Holla/Dem/Mea]."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7825*, default_option=1*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7826*, default_option=1*, option_flags=0*)
     → "Would you like to teleport? [Ready, willing, and able./No thanks.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001F
@@ -175,7 +175,7 @@ SUBROUTINE_001F:
 #### Opcodes
 
 ```
-  0: 0x0085 [0x24] CREATE_DIALOG(message_id=7901*, default_option=4*, option_flags=0*)
+  0: 0x0085 [0x24] CREATE_DIALOG(message_id=7902*, default_option=4*, option_flags=0*)
     → "Teleport to where? [Crag of Holla./Crag of Dem./Crag of Mea./Reisenjima Sanctorium./None of the above.]"
   1: 0x008C [0x25] WAIT_DIALOG_SELECT()
   2: 0x008D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F7

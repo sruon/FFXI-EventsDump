@@ -33,8 +33,8 @@
 |       7 | 0x0CE5      |        3301 |
 |       8 | 0x095F      |        2399 |
 |       9 | 0x0954      |        2388 |
-|      10 | 0x1EB9      |        7865 |
-|      11 | 0x1EBA      |        7866 |
+|      10 | 0x1EBA      |        7866 |
+|      11 | 0x1EBB      |        7867 |
 |      12 | 0x0000      |           0 |
 |      13 | 0x0001      |           1 |
 |      14 | 0x00C8      |         200 |
@@ -155,8 +155,8 @@
 
 ## String References
 
-- **7865**: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
-- **7866**: [Descend/Ascend]? [Yes./No.]
+- **7866**: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
+- **7867**: [Descend/Ascend]? [Yes./No.]
 
 ## Events
 
@@ -335,10 +335,10 @@
 ```
   0: 0x0016 [0x03] Work_Zone[5] = 2399*
   1: 0x001B [0x03] Work_Zone[6] = 2388*
-  2: 0x0020 [0x48] [System] [7865*]:
+  2: 0x0020 [0x48] [System] [7866*]:
     → "You might be able to [descend/ascend] using these vines if you only had $3 and $6."
   3: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0024 [0x24] CREATE_DIALOG(message_id=7866*, default_option=0*, option_flags=0*)
+  4: 0x0024 [0x24] CREATE_DIALOG(message_id=7867*, default_option=0*, option_flags=0*)
     → "[Descend/Ascend]? [Yes./No.]"
   5: 0x002B [0x25] WAIT_DIALOG_SELECT()
   6: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6

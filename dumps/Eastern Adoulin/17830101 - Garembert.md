@@ -23,8 +23,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x28D2      |       10450 |
-|       2 | 0x28D3      |       10451 |
+|       1 | 0x28D3      |       10451 |
+|       2 | 0x28D4      |       10452 |
 |       3 | 0x0028      |          40 |
 |       4 | 0xFFFEB2A1  |  4294881953 |
 |       5 | 0x24AD      |        9389 |
@@ -35,8 +35,8 @@
 
 ## String References
 
-- **10450**: Oho, a sojourner come to experience the wonders of our fine city, are you? Eastern Adoulin surpasses even your wildest expectations for this mysterious continent, does it not?
-- **10451**: I can say with certainty that our side of the city is vastly more dignified than the plebian slum... That is where the Pioneers' Coalition resides, however, so you'll have to brave the filth if you wish to register for the colonization effort.
+- **10451**: Oho, a sojourner come to experience the wonders of our fine city, are you? Eastern Adoulin surpasses even your wildest expectations for this mysterious continent, does it not?
+- **10452**: I can say with certainty that our side of the city is vastly more dignified than the plebian slum... That is where the Pioneers' Coalition resides, however, so you'll have to brave the filth if you wish to register for the colonization effort.
 
 ## Events
 
@@ -87,11 +87,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10450*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
     → "Oho, a sojourner come to experience the wonders of our fine city, are you? Eastern Adoulin surpasses even your wildest expectations for this mysterious continent, does it not?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
-  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
+  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
     → "I can say with certainty that our side of the city is vastly more dignified than the plebian slum... That is where the Pioneers' Coalition resides, however, so you'll have to brave the filth if you wish to register for the colonization effort."
   8: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002E [0x21] END_EVENT

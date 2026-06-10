@@ -52,7 +52,7 @@
 |      28 | 0x022E      |         558 |
 |      29 | 0x000F      |          15 |
 |      30 | 0x00B4      |         180 |
-|      31 | 0x1D7B      |        7547 |
+|      31 | 0x1D7C      |        7548 |
 |      32 | 0x0014      |          20 |
 |      33 | 0xFFF99F44  |  4294549316 |
 |      34 | 0xFFFF1613  |  4294907411 |
@@ -60,31 +60,31 @@
 |      36 | 0x008A      |         138 |
 |      37 | 0x0064      |         100 |
 |      38 | 0x0512      |        1298 |
-|      39 | 0x1D7C      |        7548 |
+|      39 | 0x1D7D      |        7549 |
 |      40 | 0x001E      |          30 |
 |      41 | 0x0CCC      |        3276 |
 |      42 | 0x0CCD      |        3277 |
 |      43 | 0x0013      |          19 |
-|      44 | 0x1D7D      |        7549 |
+|      44 | 0x1D7E      |        7550 |
 |      45 | 0x0009      |           9 |
-|      46 | 0x1D7E      |        7550 |
+|      46 | 0x1D7F      |        7551 |
 |      47 | 0xFFF99777  |  4294547319 |
 |      48 | 0xFFFF223D  |  4294910525 |
 |      49 | 0xFFFFB24F  |  4294947407 |
 |      50 | 0x078A      |        1930 |
 |      51 | 0x0975      |        2421 |
-|      52 | 0x1D7F      |        7551 |
+|      52 | 0x1D80      |        7552 |
 |      53 | 0x003D      |          61 |
 |      54 | 0x0CCE      |        3278 |
 |      55 | 0x0015      |          21 |
-|      56 | 0x1D80      |        7552 |
-|      57 | 0x1D81      |        7553 |
-|      58 | 0x1D82      |        7554 |
-|      59 | 0x1D83      |        7555 |
+|      56 | 0x1D81      |        7553 |
+|      57 | 0x1D82      |        7554 |
+|      58 | 0x1D83      |        7555 |
+|      59 | 0x1D84      |        7556 |
 |      60 | 0x001D      |          29 |
-|      61 | 0x1D84      |        7556 |
-|      62 | 0x1D85      |        7557 |
-|      63 | 0x1D86      |        7558 |
+|      61 | 0x1D85      |        7557 |
+|      62 | 0x1D86      |        7558 |
+|      63 | 0x1D87      |        7559 |
 |      64 | 0x003C      |          60 |
 |      65 | 0x0006      |           6 |
 |      66 | 0x0008      |           8 |
@@ -114,23 +114,23 @@
 |      90 | 0xFFFFB340  |  4294947648 |
 |      91 | 0x015F      |         351 |
 |      92 | 0x0001      |           1 |
-|      93 | 0x1D87      |        7559 |
-|      94 | 0x1D88      |        7560 |
+|      93 | 0x1D88      |        7560 |
+|      94 | 0x1D89      |        7561 |
 |      95 | 0x0062      |          98 |
-|      96 | 0x1D89      |        7561 |
+|      96 | 0x1D8A      |        7562 |
 |      97 | 0x0080      |         128 |
-|      98 | 0x1D8A      |        7562 |
+|      98 | 0x1D8B      |        7563 |
 |      99 | 0xFFF9899D  |  4294543773 |
 |     100 | 0xFFFF2397  |  4294910871 |
-|     101 | 0x1D8B      |        7563 |
-|     102 | 0x1D8C      |        7564 |
+|     101 | 0x1D8C      |        7564 |
+|     102 | 0x1D8D      |        7565 |
 |     103 | 0x0046      |          70 |
-|     104 | 0x1D8D      |        7565 |
-|     105 | 0x1D8E      |        7566 |
-|     106 | 0x1D8F      |        7567 |
-|     107 | 0x1D90      |        7568 |
-|     108 | 0x1D91      |        7569 |
-|     109 | 0x1D92      |        7570 |
+|     104 | 0x1D8E      |        7566 |
+|     105 | 0x1D8F      |        7567 |
+|     106 | 0x1D90      |        7568 |
+|     107 | 0x1D91      |        7569 |
+|     108 | 0x1D92      |        7570 |
+|     109 | 0x1D93      |        7571 |
 |     110 | 0x02C1      |         705 |
 |     111 | 0x0002      |           2 |
 |     112 | 0xFFF8A5F2  |  4294485490 |
@@ -145,9 +145,9 @@
 |     121 | 0x00D7      |         215 |
 |     122 | 0x0096      |         150 |
 |     123 | 0x007F      |         127 |
-|     124 | 0x1D93      |        7571 |
-|     125 | 0x1D94      |        7572 |
-|     126 | 0x1D95      |        7573 |
+|     124 | 0x1D94      |        7572 |
+|     125 | 0x1D95      |        7573 |
+|     126 | 0x1D96      |        7574 |
 |     127 | 0x00D2      |         210 |
 |     128 | 0xFFF8A918  |  4294486296 |
 |     129 | 0xFFFA85A8  |  4294608296 |
@@ -155,22 +155,22 @@
 |     131 | 0x0DF1      |        3569 |
 |     132 | 0x0004      |           4 |
 |     133 | 0x00D5      |         213 |
-|     134 | 0x1D96      |        7574 |
-|     135 | 0x1D97      |        7575 |
-|     136 | 0x1D98      |        7576 |
-|     137 | 0x1D99      |        7577 |
-|     138 | 0x1D9A      |        7578 |
-|     139 | 0x1D9B      |        7579 |
+|     134 | 0x1D97      |        7575 |
+|     135 | 0x1D98      |        7576 |
+|     136 | 0x1D99      |        7577 |
+|     137 | 0x1D9A      |        7578 |
+|     138 | 0x1D9B      |        7579 |
+|     139 | 0x1D9C      |        7580 |
 |     140 | 0xFFF8B803  |  4294490115 |
 |     141 | 0xFFFA7B73  |  4294605683 |
 |     142 | 0xFFFEE2D8  |  4294894296 |
-|     143 | 0x1D9C      |        7580 |
-|     144 | 0x1D9D      |        7581 |
-|     145 | 0x1D9E      |        7582 |
-|     146 | 0x1D9F      |        7583 |
-|     147 | 0x1DA0      |        7584 |
-|     148 | 0x1DA1      |        7585 |
-|     149 | 0x1DA2      |        7586 |
+|     143 | 0x1D9D      |        7581 |
+|     144 | 0x1D9E      |        7582 |
+|     145 | 0x1D9F      |        7583 |
+|     146 | 0x1DA0      |        7584 |
+|     147 | 0x1DA1      |        7585 |
+|     148 | 0x1DA2      |        7586 |
+|     149 | 0x1DA3      |        7587 |
 |     150 | 0x00BE      |         190 |
 |     151 | 0x02C8      |         712 |
 |     152 | 0xFFF9A43E  |  4294550590 |
@@ -180,33 +180,33 @@
 |     156 | 0xFFF98E42  |  4294544962 |
 |     157 | 0xFFFF15C5  |  4294907333 |
 |     158 | 0xFFFFB31F  |  4294947615 |
-|     159 | 0x1DA3      |        7587 |
-|     160 | 0x1DA4      |        7588 |
-|     161 | 0x1DA5      |        7589 |
-|     162 | 0x1DA6      |        7590 |
-|     163 | 0x1DA7      |        7591 |
-|     164 | 0x1DA8      |        7592 |
-|     165 | 0x1DA9      |        7593 |
-|     166 | 0x1DAA      |        7594 |
-|     167 | 0x1DAB      |        7595 |
-|     168 | 0x1DAC      |        7596 |
-|     169 | 0x1DAD      |        7597 |
+|     159 | 0x1DA4      |        7588 |
+|     160 | 0x1DA5      |        7589 |
+|     161 | 0x1DA6      |        7590 |
+|     162 | 0x1DA7      |        7591 |
+|     163 | 0x1DA8      |        7592 |
+|     164 | 0x1DA9      |        7593 |
+|     165 | 0x1DAA      |        7594 |
+|     166 | 0x1DAB      |        7595 |
+|     167 | 0x1DAC      |        7596 |
+|     168 | 0x1DAD      |        7597 |
+|     169 | 0x1DAE      |        7598 |
 |     170 | 0x08B0      |        2224 |
-|     171 | 0x1DAE      |        7598 |
-|     172 | 0x1DAF      |        7599 |
-|     173 | 0x1DB0      |        7600 |
-|     174 | 0x1DB1      |        7601 |
+|     171 | 0x1DAF      |        7599 |
+|     172 | 0x1DB0      |        7600 |
+|     173 | 0x1DB1      |        7601 |
+|     174 | 0x1DB2      |        7602 |
 |     175 | 0x0045      |          69 |
 |     176 | 0xFFF99191  |  4294545809 |
 |     177 | 0xFFFF1E09  |  4294909449 |
 |     178 | 0xFFFFB352  |  4294947666 |
-|     179 | 0x1DB2      |        7602 |
-|     180 | 0x1DB3      |        7603 |
+|     179 | 0x1DB3      |        7603 |
+|     180 | 0x1DB4      |        7604 |
 |     181 | 0xFFF99CE3  |  4294548707 |
 |     182 | 0xFFFF2135  |  4294910261 |
 |     183 | 0xFFFFB208  |  4294947336 |
-|     184 | 0x1DB4      |        7604 |
-|     185 | 0x1DB5      |        7605 |
+|     184 | 0x1DB5      |        7605 |
+|     185 | 0x1DB6      |        7606 |
 |     186 | 0xFFF9B1A9  |  4294554025 |
 |     187 | 0xFFFF1816  |  4294907926 |
 |     188 | 0xFFFFB10E  |  4294947086 |
@@ -406,7 +406,7 @@
  33: 0x010A [0x1C] WAIT(180* ticks)
  34: 0x010D [0x52] END_LOAD_SCHEDULER: End scheduler "s152" with entities [EventEntity, EventEntity], work=558*
  35: 0x011C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s153" with entities [EventEntity, EventEntity], work=[558*, 0*]
- 36: 0x012D [0x2B] Bilp (ID: 17875318/0x0110C176) [7547*]:
+ 36: 0x012D [0x2B] Bilp (ID: 17875318/0x0110C176) [7548*]:
     → "It was somewhere around here."
  37: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0135 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Bilp (ID: 17875318/0x0110C176))
@@ -423,7 +423,7 @@
  49: 0x01A0 [0x1C] WAIT(5* ticks)
  50: 0x01A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s154" with entities [EventEntity, EventEntity], work=558*
  51: 0x01B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s155" with entities [EventEntity, EventEntity], work=[558*, 0*]
- 52: 0x01C3 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7548*]:
+ 52: 0x01C3 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7549*]:
     → "Aaaaaaaaa!"
  53: 0x01CA [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=0.8°*)
  54: 0x01D1 [0x4B] UPDATE_ENTITY_YAW(entity=Lhe Lhangavo (ID: 17875320/0x0110C178), yaw=0.8°*)
@@ -444,7 +444,7 @@
  69: 0x0253 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s157" with entities [EventEntity, EventEntity], work=[558*, 0*]
  70: 0x0264 [0x6E] Bilp (ID: 17875318/0x0110C176) uses emote 19*
  71: 0x026B [0x99] Wait for Bilp (ID: 17875318/0x0110C176) animation to complete
- 72: 0x0270 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7549*]:
+ 72: 0x0270 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7550*]:
     → "This!? You were worried about a funguarrr!?"
  73: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0278 [0x6B] STOP_AND_IDLE: Eamonn (ID: 17875319/0x0110C177) stops current action and resets to idle (animation="idl0")
@@ -455,7 +455,7 @@
  79: 0x02A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s157" with entities [EventEntity, EventEntity], work=558*
  80: 0x02AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s158" with entities [EventEntity, EventEntity], work=[558*, 0*]
  81: 0x02C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Eamonn (ID: 17875319/0x0110C177), Eamonn (ID: 17875319/0x0110C177)], work=9*
- 82: 0x02CF [0x2B] Eamonn (ID: 17875319/0x0110C177) [7550*]:
+ 82: 0x02CF [0x2B] Eamonn (ID: 17875319/0x0110C177) [7551*]:
     → "No, I was..."
  83: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x02D7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "f000" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
@@ -472,7 +472,7 @@
  95: 0x0345 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s159" with entities [EventEntity, EventEntity], work=[558*, 0*]
  96: 0x0356 [0x6E] Bilp (ID: 17875318/0x0110C176) uses emote 0*
  97: 0x035D [0x99] Wait for Bilp (ID: 17875318/0x0110C176) animation to complete
- 98: 0x0362 [0x2B] Bilp (ID: 17875318/0x0110C176) [7551*]:
+ 98: 0x0362 [0x2B] Bilp (ID: 17875318/0x0110C176) [7552*]:
     → "B-behind you!"
  99: 0x0369 [0x1C] WAIT(30* ticks)
 100: 0x036C [0x6B] STOP_AND_IDLE: Lhe Lhangavo (ID: 17875320/0x0110C178) stops current action and resets to idle (animation="idl0")
@@ -494,20 +494,20 @@
 116: 0x03DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s160" with entities [EventEntity, EventEntity], work=[558*, 0*]
 117: 0x03EB [0x6E] LocalPlayer uses emote 21*
 118: 0x03F2 [0x99] Wait for LocalPlayer animation to complete
-119: 0x03F7 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7552*]:
+119: 0x03F7 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7553*]:
     → "!?"
 120: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x03FF [0x27] REQ_SET(priority=0x05, entity_id=Eamonn (ID: 17875319/0x0110C177), tag_num=0x03)
 122: 0x0406 [0x52] END_LOAD_SCHEDULER: End scheduler "s160" with entities [EventEntity, EventEntity], work=558*
 123: 0x0415 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s161" with entities [EventEntity, EventEntity], work=[558*, 0*]
-124: 0x0426 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7553*]:
+124: 0x0426 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7554*]:
     → "There it is!!!"
 125: 0x042D [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x042E [0x2A] GET_REQ_LEVEL(level=5, entity_id=Eamonn (ID: 17875319/0x0110C177))
 127: 0x0434 [0x52] END_LOAD_SCHEDULER: End scheduler "s161" with entities [EventEntity, EventEntity], work=558*
 128: 0x0443 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s162" with entities [EventEntity, EventEntity], work=[558*, 0*]
 129: 0x0454 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
-130: 0x0463 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7554*]:
+130: 0x0463 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7555*]:
     → "What is this thing? I've never seen anything like it before!"
 131: 0x046A [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x046B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe00" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
@@ -516,20 +516,20 @@
 135: 0x049A [0x6B] STOP_AND_IDLE: Eamonn (ID: 17875319/0x0110C177) stops current action and resets to idle (animation="idl0")
 136: 0x04A3 [0x4A] Eamonn (ID: 17875319/0x0110C177) looks at Lhe Lhangavo (ID: 17875320/0x0110C178)
 137: 0x04AC [0x1C] WAIT(30* ticks)
-138: 0x04AF [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7555*]:
+138: 0x04AF [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7556*]:
     → "...?"
 139: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x04B7 [0x52] END_LOAD_SCHEDULER: End scheduler "s163" with entities [EventEntity, EventEntity], work=558*
 141: 0x04C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s164" with entities [EventEntity, EventEntity], work=[558*, 0*]
 142: 0x04D7 [0x6E] Eamonn (ID: 17875319/0x0110C177) uses emote 29*
 143: 0x04DE [0x99] Wait for Eamonn (ID: 17875319/0x0110C177) animation to complete
-144: 0x04E3 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7556*]:
+144: 0x04E3 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7557*]:
     → "Leathery Lhe! We gotta get outta here, n-now!"
 145: 0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x04EB [0x52] END_LOAD_SCHEDULER: End scheduler "s164" with entities [EventEntity, EventEntity], work=558*
 147: 0x04FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s165" with entities [EventEntity, EventEntity], work=[558*, 0*]
 148: 0x050B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
-149: 0x051A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7557*]:
+149: 0x051A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7558*]:
     → "What's wrong with me...? Somehow this feels so familiar..."
 150: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0522 [0x6B] STOP_AND_IDLE: Unnamed NPC (ID: 17875317/0x0110C175) stops current action and resets to idle (animation="idl0")
@@ -543,7 +543,7 @@
 159: 0x0578 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s167" with entities [EventEntity, EventEntity], work=[558*, 0*]
 160: 0x0589 [0x6E] Bilp (ID: 17875318/0x0110C176) uses emote 29*
 161: 0x0590 [0x99] Wait for Bilp (ID: 17875318/0x0110C176) animation to complete
-162: 0x0595 [0x2B] Bilp (ID: 17875318/0x0110C176) [7558*]:
+162: 0x0595 [0x2B] Bilp (ID: 17875318/0x0110C176) [7559*]:
     → "Heeeeeelp!"
 163: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x059D [0x1C] WAIT(60* ticks)
@@ -927,14 +927,14 @@ SUBROUTINE_061E:
  48: 0x08A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s171" with entities [EventEntity, EventEntity], work=[558*, 0*]
  49: 0x08B6 [0x6E] Bilp (ID: 17875318/0x0110C176) uses emote 19*
  50: 0x08BD [0x99] Wait for Bilp (ID: 17875318/0x0110C176) animation to complete
- 51: 0x08C2 [0x2B] Bilp (ID: 17875318/0x0110C176) [7559*]:
+ 51: 0x08C2 [0x2B] Bilp (ID: 17875318/0x0110C176) [7560*]:
     → "We're...alive..."
  52: 0x08C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x08CA [0x27] REQ_SET(priority=0x05, entity_id=Eamonn (ID: 17875319/0x0110C177), tag_num=0x05)
  54: 0x08D1 [0x1C] WAIT(15* ticks)
  55: 0x08D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s171" with entities [EventEntity, EventEntity], work=558*
  56: 0x08E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s172" with entities [EventEntity, EventEntity], work=[558*, 0*]
- 57: 0x08F4 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7560*]:
+ 57: 0x08F4 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7561*]:
     → "Wow! Adventurers from the Middle Lands are unlike anything I've ever seen!"
  58: 0x08FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x08FC [0x2A] GET_REQ_LEVEL(level=5, entity_id=Eamonn (ID: 17875319/0x0110C177))
@@ -943,7 +943,7 @@ SUBROUTINE_061E:
  62: 0x0922 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "pc00" with entities [Unnamed NPC (ID: 17875317/0x0110C175), Unnamed NPC (ID: 17875317/0x0110C175)], work=[98*, 0*]
  63: 0x0933 [0x1C] WAIT(60* ticks)
  64: 0x0936 [0x4A] Eamonn (ID: 17875319/0x0110C177) looks at Unnamed NPC (ID: 17875317/0x0110C175)
- 65: 0x093F [0x2B] Eamonn (ID: 17875319/0x0110C177) [7561*]:
+ 65: 0x093F [0x2B] Eamonn (ID: 17875319/0x0110C177) [7562*]:
     → "Hm?"
  66: 0x0946 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0947 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 61*
@@ -960,7 +960,7 @@ SUBROUTINE_061E:
  78: 0x09A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s174" with entities [EventEntity, EventEntity], work=[558*, 0*]
  79: 0x09B5 [0x6E] Eamonn (ID: 17875319/0x0110C177) uses emote 29*
  80: 0x09BC [0x99] Wait for Eamonn (ID: 17875319/0x0110C177) animation to complete
- 81: 0x09C1 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7562*]:
+ 81: 0x09C1 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7563*]:
     → "What the...?"
  82: 0x09C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x09C9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mae0" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3277*
@@ -969,7 +969,7 @@ SUBROUTINE_061E:
  86: 0x09EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s176" with entities [EventEntity, EventEntity], work=[558*, 0*]
  87: 0x09FB [0x79] Bilp (ID: 17875318/0x0110C176) looks at Lhe Lhangavo (ID: 17875320/0x0110C178) (Basic look)
  88: 0x0A05 [0xBA] SET_ENTITY_POSITION(entity_id=Shla Kheefid (ID: 17875316/0x0110C174), pos_x=-423.523*, pos_z=-56.425*, pos_y=-19.648*, direction=30.8°*)
- 89: 0x0A12 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7563*]:
+ 89: 0x0A12 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7564*]:
     → "...Shla? Is that you?"
  90: 0x0A19 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0A1A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mae0" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)]
@@ -977,7 +977,7 @@ SUBROUTINE_061E:
  93: 0x0A36 [0x1C] WAIT(15* ticks)
  94: 0x0A39 [0x52] END_LOAD_SCHEDULER: End scheduler "s176" with entities [EventEntity, EventEntity], work=558*
  95: 0x0A48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s177" with entities [EventEntity, EventEntity], work=[558*, 0*]
- 96: 0x0A59 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7564*]:
+ 96: 0x0A59 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7565*]:
     → "Shla!? Shla, can you hear me!?"
  97: 0x0A60 [0x1C] WAIT(70* ticks)
  98: 0x0A63 [0x52] END_LOAD_SCHEDULER: End scheduler "s177" with entities [EventEntity, EventEntity], work=558*
@@ -990,7 +990,7 @@ SUBROUTINE_061E:
 105: 0x0AB7 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Shla Kheefid (ID: 17875316/0x0110C174))
 106: 0x0ABD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sha1" with entities [Shla Kheefid (ID: 17875316/0x0110C174), Shla Kheefid (ID: 17875316/0x0110C174)], work=3046*
 107: 0x0ACC [0x1C] WAIT(60* ticks)
-108: 0x0ACF [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7565*]:
+108: 0x0ACF [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7566*]:
     → "...Lhe?"
 109: 0x0AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0AD7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mae1" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)]
@@ -998,23 +998,23 @@ SUBROUTINE_061E:
 112: 0x0AEA [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Shla Kheefid (ID: 17875316/0x0110C174))
 113: 0x0AF0 [0x52] END_LOAD_SCHEDULER: End scheduler "s178" with entities [EventEntity, EventEntity], work=558*
 114: 0x0AFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s179" with entities [EventEntity, EventEntity], work=[558*, 0*]
-115: 0x0B10 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7566*]:
+115: 0x0B10 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7567*]:
     → "Shla, but...how? How did it turrrn out like this?"
 116: 0x0B17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0B18 [0x52] END_LOAD_SCHEDULER: End scheduler "s179" with entities [EventEntity, EventEntity], work=558*
 118: 0x0B27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s180" with entities [EventEntity, EventEntity], work=[558*, 0*]
-119: 0x0B38 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7567*]:
+119: 0x0B38 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7568*]:
     → "Lhe, I just had to know..."
 120: 0x0B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x0B40 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7568*]:
+121: 0x0B40 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7569*]:
     → "To feel it with my own whiskerrrs, and find out..."
 122: 0x0B47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0B48 [0x52] END_LOAD_SCHEDULER: End scheduler "s180" with entities [EventEntity, EventEntity], work=558*
 124: 0x0B57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s181" with entities [EventEntity, EventEntity], work=[558*, 0*]
-125: 0x0B68 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7569*]:
+125: 0x0B68 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7570*]:
     → "Shhh. That's not imporrrtant. What matters is that you're here, back with me."
 126: 0x0B6F [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x0B70 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7570*]:
+127: 0x0B70 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7571*]:
     → "No, I'm not. I couldn't face them alone."
 128: 0x0B77 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0B78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1062,17 +1062,17 @@ SUBROUTINE_061E:
 171: 0x0D15 [0x52] END_LOAD_SCHEDULER: End scheduler "s184" with entities [EventEntity, EventEntity], work=558*
 172: 0x0D24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s186" with entities [EventEntity, EventEntity], work=[558*, 0*]
 173: 0x0D35 [0x1C] WAIT(30* ticks)
-174: 0x0D38 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7571*]:
+174: 0x0D38 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7572*]:
     → "Lhe..."
 175: 0x0D3F [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x0D40 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7572*]:
+176: 0x0D40 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7573*]:
     → "I should...have brrrought you with...me. I realize that now."
 177: 0x0D47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x0D48 [0x52] END_LOAD_SCHEDULER: End scheduler "s186" with entities [EventEntity, EventEntity], work=558*
 179: 0x0D57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s187" with entities [EventEntity, EventEntity], work=[558*, 0*]
 180: 0x0D68 [0x4E] SET_ENTITY_HIDE_FLAG: Hide ??? (ID: 17875321/0x0110C179)
 181: 0x0D6E [0x7C] Shla Kheefid (ID: 17875316/0x0110C174)->Render.Flags2 |= 0x00
-182: 0x0D74 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7573*]:
+182: 0x0D74 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7574*]:
     → "..."
 183: 0x0D7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0D7C [0x52] END_LOAD_SCHEDULER: End scheduler "s187" with entities [EventEntity, EventEntity], work=558*
@@ -1103,34 +1103,34 @@ SUBROUTINE_061E:
 209: 0x0E53 [0x1C] WAIT(15* ticks)
 210: 0x0E56 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 211: 0x0E67 [0x1C] WAIT(120* ticks)
-212: 0x0E6A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7574*]:
+212: 0x0E6A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7575*]:
     → "(...Huh?)"
 213: 0x0E71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x0E72 [0x52] END_LOAD_SCHEDULER: End scheduler "s189" with entities [EventEntity, EventEntity], work=558*
 215: 0x0E81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s190" with entities [EventEntity, EventEntity], work=[558*, 0*]
-216: 0x0E92 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7575*]:
+216: 0x0E92 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7576*]:
     → "(Am I...dead?)"
 217: 0x0E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x0E9A [0x52] END_LOAD_SCHEDULER: End scheduler "s190" with entities [EventEntity, EventEntity], work=558*
 219: 0x0EA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s191" with entities [EventEntity, EventEntity], work=[558*, 0*]
-220: 0x0EBA [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7576*]:
+220: 0x0EBA [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7577*]:
     → "(What'll become of me?)"
 221: 0x0EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0EC2 [0x52] END_LOAD_SCHEDULER: End scheduler "s191" with entities [EventEntity, EventEntity], work=558*
 223: 0x0ED1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s192" with entities [EventEntity, EventEntity], work=[558*, 0*]
-224: 0x0EE2 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7577*]:
+224: 0x0EE2 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7578*]:
     → "(No, I'm not rrready to go! I have to tell them what I saw...)"
 225: 0x0EE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x0EEA [0x52] END_LOAD_SCHEDULER: End scheduler "s192" with entities [EventEntity, EventEntity], work=558*
 227: 0x0EF9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s193" with entities [EventEntity, EventEntity], work=[558*, 0*]
-228: 0x0F0A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7578*]:
+228: 0x0F0A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7579*]:
     → "(Everything...so darrrk. I c-can't...see...)"
 229: 0x0F11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x0F12 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 231: 0x0F23 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
 232: 0x0F32 [0x52] END_LOAD_SCHEDULER: End scheduler "s193" with entities [EventEntity, EventEntity], work=558*
 233: 0x0F41 [0x1C] WAIT(90* ticks)
-234: 0x0F44 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7579*]:
+234: 0x0F44 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7580*]:
     → "(...)"
 235: 0x0F4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0F4C [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17875321/0x0110C179)
@@ -1141,35 +1141,35 @@ SUBROUTINE_061E:
 241: 0x0F70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s194" with entities [EventEntity, EventEntity], work=[558*, 0*]
 242: 0x0F81 [0x1C] WAIT(15* ticks)
 243: 0x0F84 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-244: 0x0F95 [0x2B] ??? (ID: 17875321/0x0110C179) [7580*]:
+244: 0x0F95 [0x2B] ??? (ID: 17875321/0x0110C179) [7581*]:
     → "Hah. The wailing of your spirit cried out, and now--well, look at this."
 245: 0x0F9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x0F9D [0x52] END_LOAD_SCHEDULER: End scheduler "s194" with entities [EventEntity, EventEntity], work=558*
 247: 0x0FAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s195" with entities [EventEntity, EventEntity], work=[558*, 0*]
-248: 0x0FBD [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7581*]:
+248: 0x0FBD [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7582*]:
     → "(Who are...?)"
 249: 0x0FC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x0FC5 [0x2B] ??? (ID: 17875321/0x0110C179) [7582*]:
+250: 0x0FC5 [0x2B] ??? (ID: 17875321/0x0110C179) [7583*]:
     → "This will make an excellent specimen. I know what you desire. And I may yet grant it to you."
 251: 0x0FCC [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0FCD [0x52] END_LOAD_SCHEDULER: End scheduler "s195" with entities [EventEntity, EventEntity], work=558*
 253: 0x0FDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s196" with entities [EventEntity, EventEntity], work=[558*, 0*]
-254: 0x0FED [0x2B] ??? (ID: 17875321/0x0110C179) [7583*]:
+254: 0x0FED [0x2B] ??? (ID: 17875321/0x0110C179) [7584*]:
     → "But, yes, you are indeed dead. To remain in this world would require an immense amount of power. Even if you were to find a new vessel, you won't be completely whole."
 255: 0x0FF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0FF5 [0x52] END_LOAD_SCHEDULER: End scheduler "s196" with entities [EventEntity, EventEntity], work=558*
 257: 0x1004 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s198" with entities [EventEntity, EventEntity], work=[558*, 0*]
-258: 0x1015 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7584*]:
+258: 0x1015 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7585*]:
     → "(I don't care. As long as I can prrrotect everyone, I don't care what happens to me!)"
 259: 0x101C [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x101D [0x52] END_LOAD_SCHEDULER: End scheduler "s198" with entities [EventEntity, EventEntity], work=558*
 261: 0x102C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s197" with entities [EventEntity, EventEntity], work=[558*, 0*]
-262: 0x103D [0x2B] ??? (ID: 17875321/0x0110C179) [7585*]:
+262: 0x103D [0x2B] ??? (ID: 17875321/0x0110C179) [7586*]:
     → "Hahaha. Then let me try this codex I grabbed off a wandering Goblin. We'll see if you are still pleased with your choice."
 263: 0x1044 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x1045 [0x52] END_LOAD_SCHEDULER: End scheduler "s197" with entities [EventEntity, EventEntity], work=558*
 265: 0x1054 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s199" with entities [EventEntity, EventEntity], work=[558*, 0*]
-266: 0x1065 [0x2B] ??? (ID: 17875321/0x0110C179) [7586*]:
+266: 0x1065 [0x2B] ??? (ID: 17875321/0x0110C179) [7587*]:
     → "Your passions and emotions may just let you survive this ritual. Enjoy your new "leash" on life."
 267: 0x106C [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x106D [0x52] END_LOAD_SCHEDULER: End scheduler "s199" with entities [EventEntity, EventEntity], work=558*
@@ -1234,50 +1234,50 @@ SUBROUTINE_061E:
 327: 0x12AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 328: 0x12BC [0x1C] WAIT(30* ticks)
 329: 0x12BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
-330: 0x12CE [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7587*]:
+330: 0x12CE [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7588*]:
     → "How... You mean you're...dead!?"
 331: 0x12D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x12D6 [0x52] END_LOAD_SCHEDULER: End scheduler "s204" with entities [EventEntity, EventEntity], work=558*
 333: 0x12E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s205" with entities [EventEntity, EventEntity], work=[558*, 0*]
-334: 0x12F6 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7588*]:
+334: 0x12F6 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7589*]:
     → "This is impossible... You're rrright here!"
 335: 0x12FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x12FE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe00" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
 337: 0x130D [0x52] END_LOAD_SCHEDULER: End scheduler "s205" with entities [EventEntity, EventEntity], work=558*
 338: 0x131C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s206" with entities [EventEntity, EventEntity], work=[558*, 0*]
 339: 0x132D [0x7C] Shla Kheefid (ID: 17875316/0x0110C174)->Render.Flags2 |= 0x01
-340: 0x1333 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7589*]:
+340: 0x1333 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7590*]:
     → "I hearrrd a voice calling out to me. I can't explain it..."
 341: 0x133A [0x23] WAIT_FOR_DIALOG_INTERACTION
-342: 0x133B [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7590*]:
+342: 0x133B [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7591*]:
     → "But whatever it was trrransported me back here, to this world."
 343: 0x1342 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x1343 [0x52] END_LOAD_SCHEDULER: End scheduler "s206" with entities [EventEntity, EventEntity], work=558*
 345: 0x1352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[558*, 0*]
 346: 0x1363 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sha1" with entities [Shla Kheefid (ID: 17875316/0x0110C174), Shla Kheefid (ID: 17875316/0x0110C174)], work=3046*
-347: 0x1372 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7591*]:
+347: 0x1372 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7592*]:
     → "Lhe...the dangers of Eastern Ulbuka are graverrrr than you could possibly imagine."
 348: 0x1379 [0x23] WAIT_FOR_DIALOG_INTERACTION
-349: 0x137A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7592*]:
+349: 0x137A [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7593*]:
     → "Neither you nor anyone else must ever trrread upon its forbidden grounds!"
 350: 0x1381 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x1382 [0x52] END_LOAD_SCHEDULER: End scheduler "s207" with entities [EventEntity, EventEntity], work=558*
 352: 0x1391 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s208" with entities [EventEntity, EventEntity], work=[558*, 0*]
-353: 0x13A2 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7593*]:
+353: 0x13A2 [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7594*]:
     → "Those fairy tales we hearrrd as children...true, all of them...down to the last word."
 354: 0x13A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 355: 0x13AA [0x52] END_LOAD_SCHEDULER: End scheduler "s208" with entities [EventEntity, EventEntity], work=558*
 356: 0x13B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s209" with entities [EventEntity, EventEntity], work=[558*, 0*]
 357: 0x13CA [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "pc00" with entities [Shla Kheefid (ID: 17875316/0x0110C174), Shla Kheefid (ID: 17875316/0x0110C174)], work=[98*, 0*]
-358: 0x13DB [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7594*]:
+358: 0x13DB [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7595*]:
     → "Lhe, give me your worrrd...that you'll never go any further into the woods."
 359: 0x13E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-360: 0x13E3 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7595*]:
+360: 0x13E3 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7596*]:
     → "Shla?"
 361: 0x13EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 362: 0x13EB [0x52] END_LOAD_SCHEDULER: End scheduler "s209" with entities [EventEntity, EventEntity], work=558*
 363: 0x13FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s210" with entities [EventEntity, EventEntity], work=[558*, 0*]
-364: 0x140B [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7596*]:
+364: 0x140B [0x2B] Shla Kheefid (ID: 17875316/0x0110C174) [7597*]:
     → "Please...I'm begging you..."
 365: 0x1412 [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x1413 [0x1C] WAIT(60* ticks)
@@ -1286,7 +1286,7 @@ SUBROUTINE_061E:
 369: 0x142A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fe01" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
 370: 0x1439 [0x52] END_LOAD_SCHEDULER: End scheduler "s210" with entities [EventEntity, EventEntity], work=558*
 371: 0x1448 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s211" with entities [EventEntity, EventEntity], work=[558*, 0*]
-372: 0x1459 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7597*]:
+372: 0x1459 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7598*]:
     → "Shla!"
 373: 0x1460 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x1461 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ff00" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
@@ -1294,26 +1294,26 @@ SUBROUTINE_061E:
 376: 0x147F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s212" with entities [EventEntity, EventEntity], work=[558*, 0*]
 377: 0x1490 [0x1C] WAIT(30* ticks)
 378: 0x1493 [0x4B] UPDATE_ENTITY_YAW(entity=Eamonn (ID: 17875319/0x0110C177), yaw=12.2°*)
-379: 0x149A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7598*]:
+379: 0x149A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7599*]:
     → "..."
 380: 0x14A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x14A2 [0x1C] WAIT(120* ticks)
 382: 0x14A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s212" with entities [EventEntity, EventEntity], work=558*
 383: 0x14B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s213" with entities [EventEntity, EventEntity], work=[558*, 0*]
 384: 0x14C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Eamonn (ID: 17875319/0x0110C177), Eamonn (ID: 17875319/0x0110C177)], work=9*
-385: 0x14D4 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7599*]:
+385: 0x14D4 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7600*]:
     → "M-Maester..."
 386: 0x14DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x14DC [0x4A] Bilp (ID: 17875318/0x0110C176) looks at Lhe Lhangavo (ID: 17875320/0x0110C178)
 388: 0x14E5 [0x4A] LocalPlayer looks at Lhe Lhangavo (ID: 17875320/0x0110C178)
-389: 0x14EE [0x2B] Eamonn (ID: 17875319/0x0110C177) [7600*]:
+389: 0x14EE [0x2B] Eamonn (ID: 17875319/0x0110C177) [7601*]:
     → "Do you think we should stop the colonization effort? The fairy tales she mentioned...she must have meant the will of the founder."
 390: 0x14F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x14F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Eamonn (ID: 17875319/0x0110C177), Eamonn (ID: 17875319/0x0110C177)], work=9*
 392: 0x1505 [0x52] END_LOAD_SCHEDULER: End scheduler "s213" with entities [EventEntity, EventEntity], work=558*
 393: 0x1514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s215" with entities [EventEntity, EventEntity], work=[558*, 0*]
 394: 0x1525 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "mae2" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3277*
-395: 0x1534 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7601*]:
+395: 0x1534 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7602*]:
     → "You two boobs think I'm going to stand down now?"
 396: 0x153B [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x153C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "mae2" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)]
@@ -1326,7 +1326,7 @@ SUBROUTINE_061E:
 404: 0x1591 [0x80] LOAD_WAIT(entity=Lhe Lhangavo (ID: 17875320/0x0110C178))
 405: 0x1596 [0x4A] Lhe Lhangavo (ID: 17875320/0x0110C178) looks at Eamonn (ID: 17875319/0x0110C177)
 406: 0x159F [0x7B] Lhe Lhangavo (ID: 17875320/0x0110C178) stops talking
-407: 0x15A4 [0x2B] Bilp (ID: 17875318/0x0110C176) [7602*]:
+407: 0x15A4 [0x2B] Bilp (ID: 17875318/0x0110C176) [7603*]:
     → "B-but you saw what she had become!"
 408: 0x15AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x15AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Bilp (ID: 17875318/0x0110C176), Bilp (ID: 17875318/0x0110C176)], work=69*
@@ -1335,7 +1335,7 @@ SUBROUTINE_061E:
 412: 0x15DB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fb01" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
 413: 0x15EA [0x79] Lhe Lhangavo (ID: 17875320/0x0110C178) looks at Bilp (ID: 17875318/0x0110C176) (Basic look)
 414: 0x15F4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksi0" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3278*
-415: 0x1603 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7603*]:
+415: 0x1603 [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7604*]:
     → "Imbeciles! You didn't think a lost parrradise was waiting for us, did you!?"
 416: 0x160A [0x23] WAIT_FOR_DIALOG_INTERACTION
 417: 0x160B [0xBA] SET_ENTITY_POSITION(entity_id=Eamonn (ID: 17875319/0x0110C177), pos_x=-418.589*, pos_z=-57.035*, pos_y=-19.960*, direction=235.7°*)
@@ -1347,7 +1347,7 @@ SUBROUTINE_061E:
 423: 0x1645 [0x52] END_LOAD_SCHEDULER: End scheduler "s216" with entities [EventEntity, EventEntity], work=558*
 424: 0x1654 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s217" with entities [EventEntity, EventEntity], work=[558*, 0*]
 425: 0x1665 [0x7B] Lhe Lhangavo (ID: 17875320/0x0110C178) stops talking
-426: 0x166A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7604*]:
+426: 0x166A [0x2B] Lhe Lhangavo (ID: 17875320/0x0110C178) [7605*]:
     → "I don't care if we're grrreeted by the flames of hell themselves. We've got a task to do, and we're going to do it."
 427: 0x1671 [0x23] WAIT_FOR_DIALOG_INTERACTION
 428: 0x1672 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fb00" with entities [Lhe Lhangavo (ID: 17875320/0x0110C178), Lhe Lhangavo (ID: 17875320/0x0110C178)], work=3276*
@@ -1365,7 +1365,7 @@ SUBROUTINE_061E:
 440: 0x16F6 [0x7A] VM_CONTROL: Reset VM for Lhe Lhangavo (ID: 17875320/0x0110C178)
 441: 0x16FC [0x6E] Eamonn (ID: 17875319/0x0110C177) uses emote 29*
 442: 0x1703 [0x99] Wait for Eamonn (ID: 17875319/0x0110C177) animation to complete
-443: 0x1708 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7605*]:
+443: 0x1708 [0x2B] Eamonn (ID: 17875319/0x0110C177) [7606*]:
     → "M-Maester! Waaait!"
 444: 0x170F [0x23] WAIT_FOR_DIALOG_INTERACTION
 445: 0x1710 [0xBA] SET_ENTITY_POSITION(entity_id=Lhe Lhangavo (ID: 17875320/0x0110C178), pos_x=-413.271*, pos_z=-59.370*, pos_y=-20.210*, direction=348.4°*)

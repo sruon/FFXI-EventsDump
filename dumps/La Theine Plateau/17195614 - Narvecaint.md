@@ -41,20 +41,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E3F      |        7743 |
-|       1 | 0x1E40      |        7744 |
-|       2 | 0x1E41      |        7745 |
+|       0 | 0x1E40      |        7744 |
+|       1 | 0x1E41      |        7745 |
+|       2 | 0x1E42      |        7746 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x1CFD      |        7421 |
+|       4 | 0x1CFE      |        7422 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1CFB      |        7419 |
+|       6 | 0x1CFC      |        7420 |
 |       7 | 0x004B      |          75 |
 |       8 | 0xFFFBF727  |  4294702887 |
 |       9 | 0x207B2     |      133042 |
 |      10 | 0x550E      |       21774 |
 |      11 | 0x08B6      |        2230 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x1CFC      |        7420 |
+|      13 | 0x1CFD      |        7421 |
 |      14 | 0xFFFC00D0  |  4294705360 |
 |      15 | 0x1F27A     |      127610 |
 |      16 | 0x5A68      |       23144 |
@@ -85,12 +85,12 @@
 
 ## String References
 
-- **7419**: Hey!
-- **7420**: Hey! Come take a look at this! Quickly!
-- **7421**: Look, a cave! Maybe he went in there!
-- **7743**: Sir Elmemague has taken the suspect to the chateau for questioning. It's back to regular training drills for us.
-- **7744**: We have received a report from Sir Elmemague that the suspect we apprehended wasn't the criminal after all. We must be ready to send word to the chateau if any other suspicious characters are sighted.
-- **7745**: Thanks to our effective training drills, we were able to capture the new suspect with little trouble. Although I do wonder where that other knight disappeared to...
+- **7420**: Hey!
+- **7421**: Hey! Come take a look at this! Quickly!
+- **7422**: Look, a cave! Maybe he went in there!
+- **7744**: Sir Elmemague has taken the suspect to the chateau for questioning. It's back to regular training drills for us.
+- **7745**: We have received a report from Sir Elmemague that the suspect we apprehended wasn't the criminal after all. We must be ready to send word to the chateau if any other suspicious characters are sighted.
+- **7746**: Thanks to our effective training drills, we were able to capture the new suspect with little trouble. Although I do wonder where that other knight disappeared to...
 
 ## Events
 
@@ -138,7 +138,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
     → "Sir Elmemague has taken the suspect to the chateau for questioning. It's back to regular training drills for us."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -168,7 +168,7 @@
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
     → "We have received a report from Sir Elmemague that the suspect we apprehended wasn't the criminal after all. We must be ready to send word to the chateau if any other suspicious characters are sighted."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT
@@ -198,7 +198,7 @@
   0: 0x001B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0020 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0021 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "Thanks to our effective training drills, we were able to capture the new suspect with little trouble. Although I do wonder where that other knight disappeared to..."
   4: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0026 [0x21] END_EVENT
@@ -230,7 +230,7 @@
   1: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "Look, a cave! Maybe he went in there!"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0042 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -281,7 +281,7 @@
 #### Opcodes
 
 ```
-  0: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  0: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "Hey!"
   1: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0051 [0x00] END_REQSTACK()
@@ -315,7 +315,7 @@
   3: 0x005F [0x39] SET_ENTITY_DIRECTION(direction=12.2°*)
   4: 0x0062 [0x1C] WAIT(60* ticks)
   5: 0x0065 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  6: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Hey! Come take a look at this! Quickly!"
   7: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0078 [0x1C] WAIT(30* ticks)

@@ -30,13 +30,13 @@
 |       5 | 0x005C      |          92 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x00C8      |         200 |
-|       8 | 0x1CD4      |        7380 |
+|       8 | 0x1CD5      |        7381 |
 |       9 | 0x0064      |         100 |
-|      10 | 0x1CD5      |        7381 |
-|      11 | 0x1CD6      |        7382 |
-|      12 | 0x1CD7      |        7383 |
-|      13 | 0x1CD8      |        7384 |
-|      14 | 0x1CD9      |        7385 |
+|      10 | 0x1CD6      |        7382 |
+|      11 | 0x1CD7      |        7383 |
+|      12 | 0x1CD8      |        7384 |
+|      13 | 0x1CD9      |        7385 |
+|      14 | 0x1CDA      |        7386 |
 |      15 | 0xFFFC0860  |  4294707296 |
 |      16 | 0x3A45C     |      238684 |
 |      17 | 0x1F3F      |        7999 |
@@ -44,12 +44,12 @@
 
 ## String References
 
-- **7380**: ...Beep...
-- **7381**: ...Beeeep! Beeeep! Beeeep!
-- **7382**: ...Detected... Unclassifiable magic source... ...Location... Sealed area...
-- **7383**: Contact manufacturer...
-- **7384**: ...Detected... Unclassifiable magic source... ...Location... Behind door...
-- **7385**: Contact manufacturer...
+- **7381**: ...Beep...
+- **7382**: ...Beeeep! Beeeep! Beeeep!
+- **7383**: ...Detected... Unclassifiable magic source... ...Location... Sealed area...
+- **7384**: Contact manufacturer...
+- **7385**: ...Detected... Unclassifiable magic source... ...Location... Behind door...
+- **7386**: Contact manufacturer...
 
 ## Events
 
@@ -117,25 +117,25 @@
   9: 0x0026 [0x80] LOAD_WAIT(entity=LocalPlayer)
  10: 0x002B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[92*, 0*]
  11: 0x003C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 12: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 12: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  13: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 14: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  15: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 16: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  17: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0059 [0x1C] WAIT(100* ticks)
- 19: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+ 19: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "...Beeeep! Beeeep! Beeeep!"
  20: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0060 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [EventEntity, EventEntity], work=92*
  22: 0x006F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [EventEntity, EventEntity], work=[92*, 0*]
- 23: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+ 23: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "...Detected... Unclassifiable magic source... ...Location... Sealed area..."
  24: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+ 25: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "Contact manufacturer..."
  26: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0088 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -166,10 +166,10 @@
 #### Opcodes
 
 ```
-  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+  0: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "...Detected... Unclassifiable magic source... ...Location... Behind door..."
   1: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+  2: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
     → "Contact manufacturer..."
   3: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00BB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -220,25 +220,25 @@
   9: 0x00E4 [0x80] LOAD_WAIT(entity=LocalPlayer)
  10: 0x00E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[92*, 0*]
  11: 0x00FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 12: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 12: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  13: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 14: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  15: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+ 16: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "...Beep..."
  17: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0117 [0x1C] WAIT(100* ticks)
- 19: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+ 19: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "...Beeeep! Beeeep! Beeeep!"
  20: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x011E [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=92*
  22: 0x012D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[92*, 0*]
- 23: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+ 23: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "...Detected... Unclassifiable magic source... ...Location... Sealed area..."
  24: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
+ 25: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
     → "Contact manufacturer..."
  26: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0146 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

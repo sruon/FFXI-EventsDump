@@ -28,36 +28,36 @@
 |       4 | 0x0003      |           3 |
 |       5 | 0x008F      |         143 |
 |       6 | 0x003C      |          60 |
-|       7 | 0x274C      |       10060 |
+|       7 | 0x274D      |       10061 |
 |       8 | 0x0096      |         150 |
 |       9 | 0x001E      |          30 |
-|      10 | 0x274F      |       10063 |
-|      11 | 0x2752      |       10066 |
-|      12 | 0x2755      |       10069 |
+|      10 | 0x2750      |       10064 |
+|      11 | 0x2753      |       10067 |
+|      12 | 0x2756      |       10070 |
 |      13 | 0x0022      |          34 |
 |      14 | 0x00C9      |         201 |
 |      15 | 0x00D2      |         210 |
-|      16 | 0x275B      |       10075 |
+|      16 | 0x275C      |       10076 |
 |      17 | 0x000F      |          15 |
 |      18 | 0x005A      |          90 |
 |      19 | 0x0075      |         117 |
-|      20 | 0x2767      |       10087 |
-|      21 | 0x276A      |       10090 |
-|      22 | 0x276D      |       10093 |
-|      23 | 0x2773      |       10099 |
-|      24 | 0x2776      |       10102 |
-|      25 | 0x2777      |       10103 |
+|      20 | 0x2768      |       10088 |
+|      21 | 0x276B      |       10091 |
+|      22 | 0x276E      |       10094 |
+|      23 | 0x2774      |       10100 |
+|      24 | 0x2777      |       10103 |
+|      25 | 0x2778      |       10104 |
 |      26 | 0x0001      |           1 |
-|      27 | 0x277A      |       10106 |
+|      27 | 0x277B      |       10107 |
 |      28 | 0x0002      |           2 |
 |      29 | 0x0038      |          56 |
-|      30 | 0x277D      |       10109 |
-|      31 | 0x277E      |       10110 |
-|      32 | 0x2783      |       10115 |
+|      30 | 0x277E      |       10110 |
+|      31 | 0x277F      |       10111 |
+|      32 | 0x2784      |       10116 |
 
 ## String References
 
-- **10102**: Proceed to the archduke's palace? [Right away./Let me think about it.]
+- **10103**: Proceed to the archduke's palace? [Right away./Let me think about it.]
 
 ## Events
 
@@ -151,7 +151,7 @@
  16: 0x0073 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0084 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x0093 [0x1C] WAIT(60* ticks)
- 19: 0x0096 [0x2B] Jima (ID: 17772546/0x010F3002) [10060*]:
+ 19: 0x0096 [0x2B] Jima (ID: 17772546/0x010F3002) [10061*]:
     → "Ah, I'm so glad to see you."
  20: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x009E [0x27] REQ_SET(priority=0x03, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x03)
@@ -168,7 +168,7 @@
  32: 0x00F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  33: 0x00F4 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jima (ID: 17772546/0x010F3002) Render.Flags0 and Render.Flags3 conditions are met
  34: 0x00F9 [0x27] REQ_SET(priority=0x04, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x04)
- 35: 0x0100 [0x2B] Jima (ID: 17772546/0x010F3002) [10063*]:
+ 35: 0x0100 [0x2B] Jima (ID: 17772546/0x010F3002) [10064*]:
     → "Thank you so much for braving the dangers and finding me. You have my thanks. Now, enough formalities..."
  36: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0108 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x09)
@@ -176,17 +176,17 @@
  39: 0x0116 [0x1C] WAIT(60* ticks)
  40: 0x0119 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cma2" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  41: 0x012A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cma2" with entities [LocalPlayer, LocalPlayer], work=143*
- 42: 0x0139 [0x2B] Jima (ID: 17772546/0x010F3002) [10066*]:
+ 42: 0x0139 [0x2B] Jima (ID: 17772546/0x010F3002) [10067*]:
     → "I hereby assign you, <Player>, to the post of attach<Player>i of the Embassy to Jeuno."
  43: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0141 [0x2B] Jima (ID: 17772546/0x010F3002) [10069*]:
+ 44: 0x0141 [0x2B] Jima (ID: 17772546/0x010F3002) [10070*]:
     → "May you apply all your powers for the sake of the motherland and her friendship with Jeuno."
  45: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0149 [0x7D] LOAD_START_SCHEDULER_PLAYER: Load scheduler with animation_id 32781
  47: 0x014C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  48: 0x015D [0x1C] WAIT(210* ticks)
  49: 0x0160 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x08)
- 50: 0x0167 [0x2B] Jima (ID: 17772546/0x010F3002) [10075*]:
+ 50: 0x0167 [0x2B] Jima (ID: 17772546/0x010F3002) [10076*]:
     → "Prove yourself, and I might have need of you later. When the time comes, I hope you can help me as you did before."
  51: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x016F [0x1C] WAIT(60* ticks)
@@ -298,13 +298,13 @@
  25: 0x02B8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cmb1" with entities [LocalPlayer, LocalPlayer], work=143*
  26: 0x02C7 [0x4D] EventEntity->StatusEvent = 9 // Close door
  27: 0x02C8 [0x27] REQ_SET(priority=0x03, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x04)
- 28: 0x02CF [0x2B] Jima (ID: 17772546/0x010F3002) [10087*]:
+ 28: 0x02CF [0x2B] Jima (ID: 17772546/0x010F3002) [10088*]:
     → "Thank you for coming, <Player>."
  29: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x02D7 [0x2B] Jima (ID: 17772546/0x010F3002) [10090*]:
+ 30: 0x02D7 [0x2B] Jima (ID: 17772546/0x010F3002) [10091*]:
     → "This embassy has received a request from the Archduke of Jeuno to send someone for a special mission."
  31: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x02DF [0x2B] Jima (ID: 17772546/0x010F3002) [10093*]:
+ 32: 0x02DF [0x2B] Jima (ID: 17772546/0x010F3002) [10094*]:
     → "Due to your exemplary service at Delkfutt's Tower, I believe you to be the foremost candidate."
  33: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x02E7 [0x27] REQ_SET(priority=0x04, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x09)
@@ -315,16 +315,16 @@
  39: 0x0308 [0x1C] WAIT(15* ticks)
  40: 0x030B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cmb2" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  41: 0x031C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cmb2" with entities [LocalPlayer, LocalPlayer], work=143*
- 42: 0x032B [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10099*]:
+ 42: 0x032B [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10100*]:
     → "Succeed, and you will honor us all, <Player>. I am optimistic that you will gain the archduke's countenance."
  43: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0333 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Nelcabrit (ID: 17772545/0x010F3001), tag_num=0x16)
- 45: 0x033A [0x24] CREATE_DIALOG(message_id=10102*, default_option=0*, option_flags=0*)
+ 45: 0x033A [0x24] CREATE_DIALOG(message_id=10103*, default_option=0*, option_flags=0*)
     → "Proceed to the archduke's palace? [Right away./Let me think about it.]"
  46: 0x0341 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0342 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0368
  48: 0x034A [0x27] REQ_SET(priority=0x03, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x04)
- 49: 0x0351 [0x2B] Jima (ID: 17772546/0x010F3002) [10103*]:
+ 49: 0x0351 [0x2B] Jima (ID: 17772546/0x010F3002) [10104*]:
     → "Your deeds will shine upon us all!"
  50: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0359 [0x27] REQ_SET(priority=0x04, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x09)
@@ -332,7 +332,7 @@
  53: 0x0365 [0x01] GOTO 0x038E
  54: 0x0368 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x038E
  55: 0x0370 [0x27] REQ_SET(priority=0x03, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x04)
- 56: 0x0377 [0x2B] Jima (ID: 17772546/0x010F3002) [10106*]:
+ 56: 0x0377 [0x2B] Jima (ID: 17772546/0x010F3002) [10107*]:
     → "Either way, you must present yourself to the archduke as a new member of the San d'Orian diplomatic mission. It is always darkest before dawn, as they say."
  57: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x037F [0x27] REQ_SET(priority=0x04, entity_id=Jima (ID: 17772546/0x010F3002), tag_num=0x09)
@@ -344,19 +344,19 @@ SUBROUTINE_038E:
  62: 0x0398 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x05)
  63: 0x039F [0x03] Work_Zone[9] = 56*
  64: 0x03A4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03BE
- 65: 0x03AC [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10109*]:
+ 65: 0x03AC [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10110*]:
     → "This is your $3."
  66: 0x03B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x03B4 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Nelcabrit (ID: 17772545/0x010F3001), tag_num=0x15)
  68: 0x03BB [0x01] GOTO 0x03C6
- 69: 0x03BE [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10110*]:
+ 69: 0x03BE [0x2B] Nelcabrit (ID: 17772545/0x010F3001) [10111*]:
     → "You already have $6? Well, I guess there is no need to issue a new one."
  70: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03C6:
  71: 0x03C6 [0x79] LocalPlayer looks at Jima (ID: 17772546/0x010F3002) (Basic look)
  72: 0x03D0 [0x4A] LocalPlayer looks at Jima (ID: 17772546/0x010F3002)
- 73: 0x03D9 [0x2B] Jima (ID: 17772546/0x010F3002) [10115*]:
+ 73: 0x03D9 [0x2B] Jima (ID: 17772546/0x010F3002) [10116*]:
     → "Our friendship with the Jeunoans rests upon your shoulders. Luck be with you!"
  74: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x03E1 [0x1C] WAIT(60* ticks)

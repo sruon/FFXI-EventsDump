@@ -25,27 +25,27 @@
 |       0 | 0x039A      |         922 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2F44      |       12100 |
-|       4 | 0x2F45      |       12101 |
-|       5 | 0x2F47      |       12103 |
+|       3 | 0x2F45      |       12101 |
+|       4 | 0x2F46      |       12102 |
+|       5 | 0x2F48      |       12104 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x2F48      |       12104 |
-|       8 | 0x2F49      |       12105 |
-|       9 | 0x2F46      |       12102 |
-|      10 | 0x2F4A      |       12106 |
-|      11 | 0x2F4B      |       12107 |
+|       7 | 0x2F49      |       12105 |
+|       8 | 0x2F4A      |       12106 |
+|       9 | 0x2F47      |       12103 |
+|      10 | 0x2F4B      |       12107 |
+|      11 | 0x2F4C      |       12108 |
 |      12 | 0x00C9      |         201 |
 
 ## String References
 
-- **12100**: There's something foul in the air of late. Can you not feel it? I must get some charms to ward away this wickedness.
-- **12101**: To make such charms I need $1 $0 ! Might you bring me some?
-- **12102**: I need $1 more $0 ! Please, give me any you find!
-- **12103**: How about it? [I'll do it./I'll pass.]
-- **12104**: I am in your debt! I need them to ward away darkness, you know! Remember, that's $1 $0 !
-- **12105**: Very well. But still the darkness draws closer... I must do something!
-- **12106**: Remember, I need $1 $0 ! Make haste!
-- **12107**: Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.
+- **12101**: There's something foul in the air of late. Can you not feel it? I must get some charms to ward away this wickedness.
+- **12102**: To make such charms I need $1 $0 ! Might you bring me some?
+- **12103**: I need $1 more $0 ! Please, give me any you find!
+- **12104**: How about it? [I'll do it./I'll pass.]
+- **12105**: I am in your debt! I need them to ward away darkness, you know! Remember, that's $1 $0 !
+- **12106**: Very well. But still the darkness draws closer... I must do something!
+- **12107**: Remember, I need $1 $0 ! Make haste!
+- **12108**: Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can.
 
 ## Events
 
@@ -103,31 +103,31 @@
   3: 0x0018 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0019 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x001A [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0059
-  6: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=12100*)
+  6: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
     → "There's something foul in the air of late. Can you not feel it? I must get some charms to ward away this wickedness."
   7: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12101*)
+  8: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
     → "To make such charms I need $1 $0 ! Might you bring me some?"
   9: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x002A [0x24] CREATE_DIALOG(message_id=12103*, default_option=1*, option_flags=0*)
+ 10: 0x002A [0x24] CREATE_DIALOG(message_id=12104*, default_option=1*, option_flags=0*)
     → "How about it? [I'll do it./I'll pass.]"
  11: 0x0031 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0032 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0047
  13: 0x003A [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=12104*)
+ 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
     → "I am in your debt! I need them to ward away darkness, you know! Remember, that's $1 $0 !"
  15: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x003F [0x03] Work_Zone[1] = 1*
  17: 0x0044 [0x01] GOTO 0x0056
  18: 0x0047 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0056
- 19: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12105*)
+ 19: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
     → "Very well. But still the darkness draws closer... I must do something!"
  20: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0053 [0x01] GOTO 0x0056
 
 SUBROUTINE_0056:
  22: 0x0056 [0x01] GOTO 0x005D
- 23: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=12102*)
+ 23: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=12103*)
     → "I need $1 more $0 ! Please, give me any you find!"
  24: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -159,7 +159,7 @@ SUBROUTINE_005D:
   0: 0x005F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0064 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0065 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=12106*)
+  3: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
     → "Remember, I need $1 $0 ! Make haste!"
   4: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006A [0x21] END_EVENT
@@ -192,7 +192,7 @@ SUBROUTINE_005D:
   2: 0x006F [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0074 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0075 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
     → "Thank you! This should hold the darkness at bay...if only for a while. Bring more, if you can."
   6: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

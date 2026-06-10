@@ -21,17 +21,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2055      |        8277 |
-|       2 | 0x2056      |        8278 |
-|       3 | 0x2057      |        8279 |
-|       4 | 0x2058      |        8280 |
+|       1 | 0x2056      |        8278 |
+|       2 | 0x2057      |        8279 |
+|       3 | 0x2058      |        8280 |
+|       4 | 0x2059      |        8281 |
 
 ## String References
 
-- **8277**: Oh, woe is me! Had I only known that Abyssean fiends had individual weaknesses, I might have saved my beloved from their vile clutches!
-- **8278**: After all, by striking those vile creatures where they're vulnerable, one can stagger them so forcefully that they will forget their most formidable attacks, or even freeze dead in their tracks! Oh, Prietta, forgive me!
-- **8279**: And if I had known that the monsters summon more and more powerful reinforcements if you fight them in the same place for too long, I would have fled before we got overwhelmed! <Sob>...
-- **8280**: The hordes possess an intelligence that only a fool would ignore. We must fight on, and fight wisely, that no more...<sniff>...victims will be claimed...
+- **8278**: Oh, woe is me! Had I only known that Abyssean fiends had individual weaknesses, I might have saved my beloved from their vile clutches!
+- **8279**: After all, by striking those vile creatures where they're vulnerable, one can stagger them so forcefully that they will forget their most formidable attacks, or even freeze dead in their tracks! Oh, Prietta, forgive me!
+- **8280**: And if I had known that the monsters summon more and more powerful reinforcements if you fight them in the same place for too long, I would have fled before we got overwhelmed! <Sob>...
+- **8281**: The hordes possess an intelligence that only a fool would ignore. We must fight on, and fight wisely, that no more...<sniff>...victims will be claimed...
 
 ## Events
 
@@ -79,16 +79,16 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8277*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
     → "Oh, woe is me! Had I only known that Abyssean fiends had individual weaknesses, I might have saved my beloved from their vile clutches!"
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "After all, by striking those vile creatures where they're vulnerable, one can stagger them so forcefully that they will forget their most formidable attacks, or even freeze dead in their tracks! Oh, Prietta, forgive me!"
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
+  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
     → "And if I had known that the monsters summon more and more powerful reinforcements if you fight them in the same place for too long, I would have fled before we got overwhelmed! <Sob>..."
   7: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+  8: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "The hordes possess an intelligence that only a fool would ignore. We must fight on, and fight wisely, that no more...<sniff>...victims will be claimed..."
   9: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0019 [0x21] END_EVENT

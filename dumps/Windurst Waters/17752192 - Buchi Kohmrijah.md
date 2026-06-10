@@ -26,15 +26,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2299      |        8857 |
-|       3 | 0x229A      |        8858 |
-|       4 | 0x229B      |        8859 |
+|       2 | 0x229A      |        8858 |
+|       3 | 0x229B      |        8859 |
+|       4 | 0x229C      |        8860 |
 
 ## String References
 
-- **8857**: Therrre's a strrrange lady staying in the rrroom on the second floor of the hostelrrry. She's funny, even forrr a Hume!
-- **8858**: But she's loved by the Tarrrutarrru. I guess it's trrrue what they say about "chocobos of a featherrr flocking togetherrr."
-- **8859**: Ahh!? Maybe, just maybe...she could be a prrrincess underrr some wicked spell?
+- **8858**: Therrre's a strrrange lady staying in the rrroom on the second floor of the hostelrrry. She's funny, even forrr a Hume!
+- **8859**: But she's loved by the Tarrrutarrru. I guess it's trrrue what they say about "chocobos of a featherrr flocking togetherrr."
+- **8860**: Ahh!? Maybe, just maybe...she could be a prrrincess underrr some wicked spell?
 
 ## Events
 
@@ -159,10 +159,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Buchi Kohmrijah (ID: 17752192/0x010EE080), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8857*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
     → "Therrre's a strrrange lady staying in the rrroom on the second floor of the hostelrrry. She's funny, even forrr a Hume!"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
     → "But she's loved by the Tarrrutarrru. I guess it's trrrue what they say about "chocobos of a featherrr flocking togetherrr.""
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Buchi Kohmrijah (ID: 17752192/0x010EE080), tag_num=0x03)
@@ -195,7 +195,7 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Buchi Kohmrijah (ID: 17752192/0x010EE080), tag_num=0x01)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
     → "Ahh!? Maybe, just maybe...she could be a prrrincess underrr some wicked spell?"
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0063 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Buchi Kohmrijah (ID: 17752192/0x010EE080), tag_num=0x03)

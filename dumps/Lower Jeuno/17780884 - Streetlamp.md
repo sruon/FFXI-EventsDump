@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1C68      |        7272 |
+|       1 | 0x1C69      |        7273 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x40000000  |  1073741824 |
 |       4 | 0x0091      |         145 |
@@ -36,20 +36,20 @@
 |      13 | 0x000A      |          10 |
 |      14 | 0x000B      |          11 |
 |      15 | 0x00B4      |         180 |
-|      16 | 0x1C6D      |        7277 |
-|      17 | 0x1C70      |        7280 |
-|      18 | 0x1C71      |        7281 |
-|      19 | 0x1C6E      |        7278 |
-|      20 | 0x1C6F      |        7279 |
+|      16 | 0x1C6E      |        7278 |
+|      17 | 0x1C71      |        7281 |
+|      18 | 0x1C72      |        7282 |
+|      19 | 0x1C6F      |        7279 |
+|      20 | 0x1C70      |        7280 |
 
 ## String References
 
-- **7272**: Light the lamp? [Yes./No.]
-- **7277**: The lamp is already lit.
-- **7278**: The lamp is lit.
-- **7279**: You examine the lamp. It seems that it must be lit manually.
-- **7280**: It is too early to light it. You must wait until nine o'clock.
-- **7281**: You have failed to light all the lamps in time.
+- **7273**: Light the lamp? [Yes./No.]
+- **7278**: The lamp is already lit.
+- **7279**: The lamp is lit.
+- **7280**: You examine the lamp. It seems that it must be lit manually.
+- **7281**: It is too early to light it. You must wait until nine o'clock.
+- **7282**: You have failed to light all the lamps in time.
 
 ## Events
 
@@ -132,7 +132,7 @@
   3: 0x0009 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   4: 0x000E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x01B6
   5: 0x0016 [0x06] Work_Zone[1] = 0
-  6: 0x0019 [0x24] CREATE_DIALOG(message_id=7272*, default_option=0*, option_flags=0*)
+  6: 0x0019 [0x24] CREATE_DIALOG(message_id=7273*, default_option=0*, option_flags=0*)
     → "Light the lamp? [Yes./No.]"
   7: 0x0020 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0021 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B3
@@ -193,27 +193,27 @@ SUBROUTINE_01AE:
 SUBROUTINE_01B3:
  58: 0x01B3 [0x01] GOTO 0x0201
  59: 0x01B6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x01C5
- 60: 0x01BE [0x48] [System] [7277*]:
+ 60: 0x01BE [0x48] [System] [7278*]:
     → "The lamp is already lit."
  61: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01C2 [0x01] GOTO 0x0201
  63: 0x01C5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x01D4
- 64: 0x01CD [0x48] [System] [7280*]:
+ 64: 0x01CD [0x48] [System] [7281*]:
     → "It is too early to light it. You must wait until nine o'clock."
  65: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01D1 [0x01] GOTO 0x0201
  67: 0x01D4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x01E3
- 68: 0x01DC [0x48] [System] [7281*]:
+ 68: 0x01DC [0x48] [System] [7282*]:
     → "You have failed to light all the lamps in time."
  69: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x01E0 [0x01] GOTO 0x0201
  71: 0x01E3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x01F2
- 72: 0x01EB [0x48] [System] [7278*]:
+ 72: 0x01EB [0x48] [System] [7279*]:
     → "The lamp is lit."
  73: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01EF [0x01] GOTO 0x0201
  75: 0x01F2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0201
- 76: 0x01FA [0x48] [System] [7279*]:
+ 76: 0x01FA [0x48] [System] [7280*]:
     → "You examine the lamp. It seems that it must be lit manually."
  77: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x01FE [0x01] GOTO 0x0201

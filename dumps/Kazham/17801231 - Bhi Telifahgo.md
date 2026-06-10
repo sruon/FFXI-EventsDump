@@ -25,15 +25,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2734      |       10036 |
-|       3 | 0x2735      |       10037 |
-|       4 | 0x2883      |       10371 |
+|       2 | 0x2735      |       10037 |
+|       3 | 0x2736      |       10038 |
+|       4 | 0x2884      |       10372 |
 
 ## String References
 
-- **10036**: Whenever I hearrr the sound of the ocean, I always think it sounds like someone calling "slee\`p, slee\`p." Can you hearrr it too, [misterrr/lady]?
-- **10037**: You shouldn't fight it when you do. It's best to just lie down and...<yawn>...
-- **10371**: Okay, okay! I'm awake. I didn't think anything would wake me up, but that smell sure did the trrrick.
+- **10037**: Whenever I hearrr the sound of the ocean, I always think it sounds like someone calling "slee\`p, slee\`p." Can you hearrr it too, [misterrr/lady]?
+- **10038**: You shouldn't fight it when you do. It's best to just lie down and...<yawn>...
+- **10372**: Okay, okay! I'm awake. I didn't think anything would wake me up, but that smell sure did the trrrick.
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhi Telifahgo (ID: 17801231/0x010FA00F), tag_num=0x01)
-  4: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10036*)
+  4: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
     → "Whenever I hearrr the sound of the ocean, I always think it sounds like someone calling "slee`p, slee`p." Can you hearrr it too, [misterrr/lady]?"
   5: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
+  6: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
     → "You shouldn't fight it when you do. It's best to just lie down and...<yawn>..."
   7: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhi Telifahgo (ID: 17801231/0x010FA00F), tag_num=0x02)
@@ -171,7 +171,7 @@
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhi Telifahgo (ID: 17801231/0x010FA00F), tag_num=0x01)
-  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10371*)
+  4: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=10372*)
     → "Okay, okay! I'm awake. I didn't think anything would wake me up, but that smell sure did the trrrick."
   5: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x005A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Bhi Telifahgo (ID: 17801231/0x010FA00F), tag_num=0x02)

@@ -22,29 +22,29 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x005A      |          90 |
-|       1 | 0x1B45      |        6981 |
+|       1 | 0x1B46      |        6982 |
 |       2 | 0x0005      |           5 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1B46      |        6982 |
+|       4 | 0x1B47      |        6983 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1B47      |        6983 |
+|       6 | 0x1B48      |        6984 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x1B48      |        6984 |
+|       8 | 0x1B49      |        6985 |
 |       9 | 0x0003      |           3 |
-|      10 | 0x1B49      |        6985 |
+|      10 | 0x1B4A      |        6986 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B4A      |        6986 |
-|      13 | 0x1B4B      |        6987 |
+|      12 | 0x1B4B      |        6987 |
+|      13 | 0x1B4C      |        6988 |
 
 ## String References
 
-- **6981**: What can I do for you? I'm Gabwaleid. Someday I want to be a real fisherman like Zaldon.
-- **6982**: You have to pick the right bait depending on what fish you want to catch. Otherwise it's all a waste!
-- **6983**: You have to be aware of the time of day and the weather, too. Try to fish at the best time and under the best weather.
-- **6984**: You'll catch different fish depending on where you are. Of course, there's a big difference between fishing from the river and from the sea.
-- **6985**: Oh, and one more thing... It hardly ever happens, but once in a while something...unexpected may bite. Be careful!
-- **6986**: There's nothing better than fishing from the ship. There are so many unique things to catch. The time just flies!
-- **6987**: There's nothing wrong with bait, but I go for lures, myself. You can keep using them till your line breaks or your pole snaps. Of course, they cost more.
+- **6982**: What can I do for you? I'm Gabwaleid. Someday I want to be a real fisherman like Zaldon.
+- **6983**: You have to pick the right bait depending on what fish you want to catch. Otherwise it's all a waste!
+- **6984**: You have to be aware of the time of day and the weather, too. Try to fish at the best time and under the best weather.
+- **6985**: You'll catch different fish depending on where you are. Of course, there's a big difference between fishing from the river and from the sea.
+- **6986**: Oh, and one more thing... It hardly ever happens, but once in a while something...unexpected may bite. Be careful!
+- **6987**: There's nothing better than fishing from the ship. There are so many unique things to catch. The time just flies!
+- **6988**: There's nothing wrong with bait, but I go for lures, myself. You can keep using them till your line breaks or your pole snaps. Of course, they cost more.
 
 ## Events
 
@@ -94,7 +94,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=90*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6981*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6982*)
     → "What can I do for you? I'm Gabwaleid. Someday I want to be a real fisherman like Zaldon."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT
@@ -134,32 +134,32 @@
   3: 0x0028 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0029 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=90*
   5: 0x0038 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0047
-  6: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6982*)
+  6: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6983*)
     → "You have to pick the right bait depending on what fish you want to catch. Otherwise it's all a waste!"
   7: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0044 [0x01] GOTO 0x0092
   9: 0x0047 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0056
- 10: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=6983*)
+ 10: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=6984*)
     → "You have to be aware of the time of day and the weather, too. Try to fish at the best time and under the best weather."
  11: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0053 [0x01] GOTO 0x0092
  13: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0065
- 14: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=6984*)
+ 14: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=6985*)
     → "You'll catch different fish depending on where you are. Of course, there's a big difference between fishing from the river and from the sea."
  15: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0062 [0x01] GOTO 0x0092
  17: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0074
- 18: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=6985*)
+ 18: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
     → "Oh, and one more thing... It hardly ever happens, but once in a while something...unexpected may bite. Be careful!"
  19: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0071 [0x01] GOTO 0x0092
  21: 0x0074 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0083
- 22: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
+ 22: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
     → "There's nothing better than fishing from the ship. There are so many unique things to catch. The time just flies!"
  23: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0080 [0x01] GOTO 0x0092
  25: 0x0083 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0092
- 26: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
+ 26: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=6988*)
     → "There's nothing wrong with bait, but I go for lures, myself. You can keep using them till your line breaks or your pole snaps. Of course, they cost more."
  27: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x008F [0x01] GOTO 0x0092

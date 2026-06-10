@@ -28,12 +28,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3409      |       13321 |
-|       1 | 0x340A      |       13322 |
-|       2 | 0x340B      |       13323 |
-|       3 | 0x340C      |       13324 |
-|       4 | 0x340D      |       13325 |
-|       5 | 0x340E      |       13326 |
+|       0 | 0x340A      |       13322 |
+|       1 | 0x340B      |       13323 |
+|       2 | 0x340C      |       13324 |
+|       3 | 0x340D      |       13325 |
+|       4 | 0x340E      |       13326 |
+|       5 | 0x340F      |       13327 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0003      |           3 |
@@ -41,41 +41,41 @@
 |      10 | 0x0010      |          16 |
 |      11 | 0x001F      |          31 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x340F      |       13327 |
-|      14 | 0x3410      |       13328 |
+|      13 | 0x3410      |       13328 |
+|      14 | 0x3411      |       13329 |
 |      15 | 0x000D      |          13 |
-|      16 | 0x3411      |       13329 |
-|      17 | 0x3412      |       13330 |
-|      18 | 0x3413      |       13331 |
-|      19 | 0x3414      |       13332 |
+|      16 | 0x3412      |       13330 |
+|      17 | 0x3413      |       13331 |
+|      18 | 0x3414      |       13332 |
+|      19 | 0x3415      |       13333 |
 |      20 | 0x0862      |        2146 |
 |      21 | 0x0861      |        2145 |
-|      22 | 0x3415      |       13333 |
-|      23 | 0x3416      |       13334 |
-|      24 | 0x3417      |       13335 |
-|      25 | 0x3418      |       13336 |
-|      26 | 0x3419      |       13337 |
+|      22 | 0x3416      |       13334 |
+|      23 | 0x3417      |       13335 |
+|      24 | 0x3418      |       13336 |
+|      25 | 0x3419      |       13337 |
+|      26 | 0x341A      |       13338 |
 |      27 | 0x1733      |        5939 |
-|      28 | 0x341A      |       13338 |
-|      29 | 0x341B      |       13339 |
-|      30 | 0x341C      |       13340 |
-|      31 | 0x341D      |       13341 |
-|      32 | 0x341F      |       13343 |
-|      33 | 0x3420      |       13344 |
-|      34 | 0x3421      |       13345 |
-|      35 | 0x3422      |       13346 |
-|      36 | 0x3423      |       13347 |
-|      37 | 0x3424      |       13348 |
+|      28 | 0x341B      |       13339 |
+|      29 | 0x341C      |       13340 |
+|      30 | 0x341D      |       13341 |
+|      31 | 0x341E      |       13342 |
+|      32 | 0x3420      |       13344 |
+|      33 | 0x3421      |       13345 |
+|      34 | 0x3422      |       13346 |
+|      35 | 0x3423      |       13347 |
+|      36 | 0x3424      |       13348 |
+|      37 | 0x3425      |       13349 |
 |      38 | 0x0014      |          20 |
-|      39 | 0x341E      |       13342 |
+|      39 | 0x341F      |       13343 |
 |      40 | 0x000B      |          11 |
 |      41 | 0x000E      |          14 |
 |      42 | 0x0006      |           6 |
 |      43 | 0xFFFFF041  |  4294963265 |
 |      44 | 0xFFFFF04F  |  4294963279 |
 |      45 | 0x000C      |          12 |
-|      46 | 0x3426      |       13350 |
-|      47 | 0x3425      |       13349 |
+|      46 | 0x3427      |       13351 |
+|      47 | 0x3426      |       13350 |
 |      48 | 0x0007      |           7 |
 |      49 | 0x0004      |           4 |
 |      50 | 0x0005      |           5 |
@@ -86,140 +86,140 @@
 |      55 | 0x40000000  |  1073741824 |
 |      56 | 0x001D      |          29 |
 |      57 | 0x001E      |          30 |
-|      58 | 0x3427      |       13351 |
-|      59 | 0x3428      |       13352 |
-|      60 | 0x3429      |       13353 |
-|      61 | 0x342A      |       13354 |
-|      62 | 0x342B      |       13355 |
-|      63 | 0x342D      |       13357 |
-|      64 | 0x342E      |       13358 |
-|      65 | 0x342F      |       13359 |
-|      66 | 0x3430      |       13360 |
-|      67 | 0x3431      |       13361 |
-|      68 | 0x3432      |       13362 |
-|      69 | 0x3433      |       13363 |
-|      70 | 0x3434      |       13364 |
-|      71 | 0x3435      |       13365 |
-|      72 | 0x3436      |       13366 |
-|      73 | 0x3437      |       13367 |
-|      74 | 0x3439      |       13369 |
-|      75 | 0x3438      |       13368 |
-|      76 | 0x343A      |       13370 |
-|      77 | 0x343C      |       13372 |
-|      78 | 0x343D      |       13373 |
-|      79 | 0x343E      |       13374 |
-|      80 | 0x343F      |       13375 |
-|      81 | 0x3440      |       13376 |
-|      82 | 0x3441      |       13377 |
-|      83 | 0x3442      |       13378 |
-|      84 | 0x3443      |       13379 |
-|      85 | 0x3444      |       13380 |
-|      86 | 0x3445      |       13381 |
-|      87 | 0x3446      |       13382 |
-|      88 | 0x3447      |       13383 |
-|      89 | 0x3448      |       13384 |
+|      58 | 0x3428      |       13352 |
+|      59 | 0x3429      |       13353 |
+|      60 | 0x342A      |       13354 |
+|      61 | 0x342B      |       13355 |
+|      62 | 0x342C      |       13356 |
+|      63 | 0x342E      |       13358 |
+|      64 | 0x342F      |       13359 |
+|      65 | 0x3430      |       13360 |
+|      66 | 0x3431      |       13361 |
+|      67 | 0x3432      |       13362 |
+|      68 | 0x3433      |       13363 |
+|      69 | 0x3434      |       13364 |
+|      70 | 0x3435      |       13365 |
+|      71 | 0x3436      |       13366 |
+|      72 | 0x3437      |       13367 |
+|      73 | 0x3438      |       13368 |
+|      74 | 0x343A      |       13370 |
+|      75 | 0x3439      |       13369 |
+|      76 | 0x343B      |       13371 |
+|      77 | 0x343D      |       13373 |
+|      78 | 0x343E      |       13374 |
+|      79 | 0x343F      |       13375 |
+|      80 | 0x3440      |       13376 |
+|      81 | 0x3441      |       13377 |
+|      82 | 0x3442      |       13378 |
+|      83 | 0x3443      |       13379 |
+|      84 | 0x3444      |       13380 |
+|      85 | 0x3445      |       13381 |
+|      86 | 0x3446      |       13382 |
+|      87 | 0x3447      |       13383 |
+|      88 | 0x3448      |       13384 |
+|      89 | 0x3449      |       13385 |
 |      90 | 0x1732      |        5938 |
-|      91 | 0x3449      |       13385 |
-|      92 | 0x344A      |       13386 |
-|      93 | 0x344B      |       13387 |
-|      94 | 0x344C      |       13388 |
-|      95 | 0x344D      |       13389 |
-|      96 | 0x344E      |       13390 |
-|      97 | 0x344F      |       13391 |
-|      98 | 0x3450      |       13392 |
-|      99 | 0x3451      |       13393 |
-|     100 | 0x3452      |       13394 |
-|     101 | 0x3453      |       13395 |
-|     102 | 0x3454      |       13396 |
-|     103 | 0x3455      |       13397 |
-|     104 | 0x3456      |       13398 |
-|     105 | 0x3457      |       13399 |
-|     106 | 0x3458      |       13400 |
-|     107 | 0x3459      |       13401 |
-|     108 | 0x345A      |       13402 |
-|     109 | 0x345B      |       13403 |
-|     110 | 0x345C      |       13404 |
-|     111 | 0x345D      |       13405 |
-|     112 | 0x345E      |       13406 |
-|     113 | 0x345F      |       13407 |
-|     114 | 0x3460      |       13408 |
-|     115 | 0x3461      |       13409 |
-|     116 | 0x3462      |       13410 |
-|     117 | 0x3463      |       13411 |
-|     118 | 0x3464      |       13412 |
-|     119 | 0x3465      |       13413 |
-|     120 | 0x3466      |       13414 |
-|     121 | 0x3467      |       13415 |
-|     122 | 0x3468      |       13416 |
-|     123 | 0x3469      |       13417 |
-|     124 | 0x346A      |       13418 |
-|     125 | 0x346B      |       13419 |
-|     126 | 0x346C      |       13420 |
-|     127 | 0x346D      |       13421 |
-|     128 | 0x346E      |       13422 |
-|     129 | 0x346F      |       13423 |
-|     130 | 0x3470      |       13424 |
-|     131 | 0x3471      |       13425 |
-|     132 | 0x3472      |       13426 |
-|     133 | 0x3473      |       13427 |
-|     134 | 0x3474      |       13428 |
-|     135 | 0x3475      |       13429 |
-|     136 | 0x3476      |       13430 |
-|     137 | 0x3477      |       13431 |
-|     138 | 0x3478      |       13432 |
-|     139 | 0x3479      |       13433 |
-|     140 | 0x347A      |       13434 |
-|     141 | 0x347B      |       13435 |
-|     142 | 0x347C      |       13436 |
-|     143 | 0x347D      |       13437 |
-|     144 | 0x347E      |       13438 |
-|     145 | 0x347F      |       13439 |
-|     146 | 0x3480      |       13440 |
-|     147 | 0x3481      |       13441 |
-|     148 | 0x3482      |       13442 |
-|     149 | 0x3483      |       13443 |
-|     150 | 0x3484      |       13444 |
+|      91 | 0x344A      |       13386 |
+|      92 | 0x344B      |       13387 |
+|      93 | 0x344C      |       13388 |
+|      94 | 0x344D      |       13389 |
+|      95 | 0x344E      |       13390 |
+|      96 | 0x344F      |       13391 |
+|      97 | 0x3450      |       13392 |
+|      98 | 0x3451      |       13393 |
+|      99 | 0x3452      |       13394 |
+|     100 | 0x3453      |       13395 |
+|     101 | 0x3454      |       13396 |
+|     102 | 0x3455      |       13397 |
+|     103 | 0x3456      |       13398 |
+|     104 | 0x3457      |       13399 |
+|     105 | 0x3458      |       13400 |
+|     106 | 0x3459      |       13401 |
+|     107 | 0x345A      |       13402 |
+|     108 | 0x345B      |       13403 |
+|     109 | 0x345C      |       13404 |
+|     110 | 0x345D      |       13405 |
+|     111 | 0x345E      |       13406 |
+|     112 | 0x345F      |       13407 |
+|     113 | 0x3460      |       13408 |
+|     114 | 0x3461      |       13409 |
+|     115 | 0x3462      |       13410 |
+|     116 | 0x3463      |       13411 |
+|     117 | 0x3464      |       13412 |
+|     118 | 0x3465      |       13413 |
+|     119 | 0x3466      |       13414 |
+|     120 | 0x3467      |       13415 |
+|     121 | 0x3468      |       13416 |
+|     122 | 0x3469      |       13417 |
+|     123 | 0x346A      |       13418 |
+|     124 | 0x346B      |       13419 |
+|     125 | 0x346C      |       13420 |
+|     126 | 0x346D      |       13421 |
+|     127 | 0x346E      |       13422 |
+|     128 | 0x346F      |       13423 |
+|     129 | 0x3470      |       13424 |
+|     130 | 0x3471      |       13425 |
+|     131 | 0x3472      |       13426 |
+|     132 | 0x3473      |       13427 |
+|     133 | 0x3474      |       13428 |
+|     134 | 0x3475      |       13429 |
+|     135 | 0x3476      |       13430 |
+|     136 | 0x3477      |       13431 |
+|     137 | 0x3478      |       13432 |
+|     138 | 0x3479      |       13433 |
+|     139 | 0x347A      |       13434 |
+|     140 | 0x347B      |       13435 |
+|     141 | 0x347C      |       13436 |
+|     142 | 0x347D      |       13437 |
+|     143 | 0x347E      |       13438 |
+|     144 | 0x347F      |       13439 |
+|     145 | 0x3480      |       13440 |
+|     146 | 0x3481      |       13441 |
+|     147 | 0x3482      |       13442 |
+|     148 | 0x3483      |       13443 |
+|     149 | 0x3484      |       13444 |
+|     150 | 0x3485      |       13445 |
 |     151 | 0x007A      |         122 |
 |     152 | 0x0104      |         260 |
 |     153 | 0x00C8      |         200 |
 |     154 | 0x003C      |          60 |
 |     155 | 0xFFFFFFFE  |  4294967294 |
-|     156 | 0x348D      |       13453 |
-|     157 | 0x3486      |       13446 |
-|     158 | 0x3485      |       13445 |
+|     156 | 0x348E      |       13454 |
+|     157 | 0x3487      |       13447 |
+|     158 | 0x3486      |       13446 |
 |     159 | 0x0F23      |        3875 |
 |     160 | 0x0F24      |        3876 |
 |     161 | 0x0F25      |        3877 |
 |     162 | 0x0F26      |        3878 |
 |     163 | 0x0F27      |        3879 |
-|     164 | 0x3487      |       13447 |
+|     164 | 0x3488      |       13448 |
 |     165 | 0x07D0      |        2000 |
-|     166 | 0x3488      |       13448 |
-|     167 | 0x3489      |       13449 |
-|     168 | 0x348E      |       13454 |
-|     169 | 0x348F      |       13455 |
-|     170 | 0x3490      |       13456 |
-|     171 | 0x3491      |       13457 |
-|     172 | 0x3492      |       13458 |
-|     173 | 0x3493      |       13459 |
+|     166 | 0x3489      |       13449 |
+|     167 | 0x348A      |       13450 |
+|     168 | 0x348F      |       13455 |
+|     169 | 0x3490      |       13456 |
+|     170 | 0x3491      |       13457 |
+|     171 | 0x3492      |       13458 |
+|     172 | 0x3493      |       13459 |
+|     173 | 0x3494      |       13460 |
 |     174 | 0xFFFFFFFF  |  4294967295 |
-|     175 | 0x3494      |       13460 |
+|     175 | 0x3495      |       13461 |
 |     176 | 0x03E8      |        1000 |
 |     177 | 0x1388      |        5000 |
 |     178 | 0x2710      |       10000 |
-|     179 | 0x3498      |       13464 |
-|     180 | 0x3499      |       13465 |
-|     181 | 0x3497      |       13463 |
+|     179 | 0x3499      |       13465 |
+|     180 | 0x349A      |       13466 |
+|     181 | 0x3498      |       13464 |
 |     182 | 0x0013      |          19 |
-|     183 | 0x34A0      |       13472 |
-|     184 | 0x34A1      |       13473 |
-|     185 | 0x34A2      |       13474 |
+|     183 | 0x34A1      |       13473 |
+|     184 | 0x34A2      |       13474 |
+|     185 | 0x34A3      |       13475 |
 |     186 | 0x0012      |          18 |
-|     187 | 0x348A      |       13450 |
-|     188 | 0x349C      |       13468 |
-|     189 | 0x349D      |       13469 |
-|     190 | 0x349E      |       13470 |
-|     191 | 0x349F      |       13471 |
+|     187 | 0x348B      |       13451 |
+|     188 | 0x349D      |       13469 |
+|     189 | 0x349E      |       13470 |
+|     190 | 0x349F      |       13471 |
+|     191 | 0x34A0      |       13472 |
 |     192 | 0x0863      |        2147 |
 |     193 | 0x0864      |        2148 |
 |     194 | 0x0865      |        2149 |
@@ -239,116 +239,116 @@
 |     208 | 0x11940     |       72000 |
 |     209 | 0x0258      |         600 |
 |     210 | 0x0E10      |        3600 |
-|     211 | 0x34A6      |       13478 |
-|     212 | 0x34A5      |       13477 |
-|     213 | 0x34A4      |       13476 |
-|     214 | 0x3495      |       13461 |
-|     215 | 0x3496      |       13462 |
-|     216 | 0x34A8      |       13480 |
-|     217 | 0x34A7      |       13479 |
-|     218 | 0x34AE      |       13486 |
-|     219 | 0x34AF      |       13487 |
-|     220 | 0x34B8      |       13496 |
+|     211 | 0x34A7      |       13479 |
+|     212 | 0x34A6      |       13478 |
+|     213 | 0x34A5      |       13477 |
+|     214 | 0x3496      |       13462 |
+|     215 | 0x3497      |       13463 |
+|     216 | 0x34A9      |       13481 |
+|     217 | 0x34A8      |       13480 |
+|     218 | 0x34AF      |       13487 |
+|     219 | 0x34B0      |       13488 |
+|     220 | 0x34B9      |       13497 |
 |     221 | 0x001A      |          26 |
-|     222 | 0x34B0      |       13488 |
-|     223 | 0x34B1      |       13489 |
-|     224 | 0x34B2      |       13490 |
-|     225 | 0x34B3      |       13491 |
-|     226 | 0x34B4      |       13492 |
+|     222 | 0x34B1      |       13489 |
+|     223 | 0x34B2      |       13490 |
+|     224 | 0x34B3      |       13491 |
+|     225 | 0x34B4      |       13492 |
+|     226 | 0x34B5      |       13493 |
 |     227 | 0x0017      |          23 |
 |     228 | 0x0018      |          24 |
-|     229 | 0x34B5      |       13493 |
-|     230 | 0x34BD      |       13501 |
-|     231 | 0x34E8      |       13544 |
-|     232 | 0x34F5      |       13557 |
-|     233 | 0x34F4      |       13556 |
-|     234 | 0x34F8      |       13560 |
-|     235 | 0x34F9      |       13561 |
-|     236 | 0x34B9      |       13497 |
-|     237 | 0x34BA      |       13498 |
-|     238 | 0x34BB      |       13499 |
-|     239 | 0x34BC      |       13500 |
-|     240 | 0x34BE      |       13502 |
-|     241 | 0x34BF      |       13503 |
-|     242 | 0x34C0      |       13504 |
-|     243 | 0x34C1      |       13505 |
-|     244 | 0x34C2      |       13506 |
-|     245 | 0x34C3      |       13507 |
-|     246 | 0x34C4      |       13508 |
-|     247 | 0x34C5      |       13509 |
-|     248 | 0x34C6      |       13510 |
-|     249 | 0x34C7      |       13511 |
-|     250 | 0x34C8      |       13512 |
-|     251 | 0x34C9      |       13513 |
+|     229 | 0x34B6      |       13494 |
+|     230 | 0x34BE      |       13502 |
+|     231 | 0x34E9      |       13545 |
+|     232 | 0x34F6      |       13558 |
+|     233 | 0x34F5      |       13557 |
+|     234 | 0x34F9      |       13561 |
+|     235 | 0x34FA      |       13562 |
+|     236 | 0x34BA      |       13498 |
+|     237 | 0x34BB      |       13499 |
+|     238 | 0x34BC      |       13500 |
+|     239 | 0x34BD      |       13501 |
+|     240 | 0x34BF      |       13503 |
+|     241 | 0x34C0      |       13504 |
+|     242 | 0x34C1      |       13505 |
+|     243 | 0x34C2      |       13506 |
+|     244 | 0x34C3      |       13507 |
+|     245 | 0x34C4      |       13508 |
+|     246 | 0x34C5      |       13509 |
+|     247 | 0x34C6      |       13510 |
+|     248 | 0x34C7      |       13511 |
+|     249 | 0x34C8      |       13512 |
+|     250 | 0x34C9      |       13513 |
+|     251 | 0x34CA      |       13514 |
 |     252 | 0x0015      |          21 |
-|     253 | 0x34CA      |       13514 |
+|     253 | 0x34CB      |       13515 |
 |     254 | 0x0016      |          22 |
-|     255 | 0x34CB      |       13515 |
-|     256 | 0x34CC      |       13516 |
-|     257 | 0x34CD      |       13517 |
+|     255 | 0x34CC      |       13516 |
+|     256 | 0x34CD      |       13517 |
+|     257 | 0x34CE      |       13518 |
 |     258 | 0x0019      |          25 |
 |     259 | 0x001B      |          27 |
-|     260 | 0x34CE      |       13518 |
+|     260 | 0x34CF      |       13519 |
 |     261 | 0x001C      |          28 |
-|     262 | 0x34CF      |       13519 |
-|     263 | 0x34D0      |       13520 |
-|     264 | 0x34D1      |       13521 |
+|     262 | 0x34D0      |       13520 |
+|     263 | 0x34D1      |       13521 |
+|     264 | 0x34D2      |       13522 |
 |     265 | 0x0020      |          32 |
-|     266 | 0x34D2      |       13522 |
+|     266 | 0x34D3      |       13523 |
 |     267 | 0x0021      |          33 |
-|     268 | 0x34D3      |       13523 |
+|     268 | 0x34D4      |       13524 |
 |     269 | 0x0022      |          34 |
-|     270 | 0x34D4      |       13524 |
+|     270 | 0x34D5      |       13525 |
 |     271 | 0x0023      |          35 |
-|     272 | 0x34D5      |       13525 |
+|     272 | 0x34D6      |       13526 |
 |     273 | 0x0024      |          36 |
 |     274 | 0x0025      |          37 |
-|     275 | 0x34D6      |       13526 |
+|     275 | 0x34D7      |       13527 |
 |     276 | 0x0026      |          38 |
-|     277 | 0x34D7      |       13527 |
+|     277 | 0x34D8      |       13528 |
 |     278 | 0x0027      |          39 |
-|     279 | 0x34D8      |       13528 |
+|     279 | 0x34D9      |       13529 |
 |     280 | 0x0028      |          40 |
-|     281 | 0x34D9      |       13529 |
+|     281 | 0x34DA      |       13530 |
 |     282 | 0x0029      |          41 |
 |     283 | 0x002A      |          42 |
-|     284 | 0x34DA      |       13530 |
-|     285 | 0x34DB      |       13531 |
-|     286 | 0x34DC      |       13532 |
-|     287 | 0x34DD      |       13533 |
-|     288 | 0x34DE      |       13534 |
-|     289 | 0x34DF      |       13535 |
-|     290 | 0x34E0      |       13536 |
-|     291 | 0x34E1      |       13537 |
-|     292 | 0x34E2      |       13538 |
-|     293 | 0x34E3      |       13539 |
-|     294 | 0x34E4      |       13540 |
-|     295 | 0x34E5      |       13541 |
-|     296 | 0x34E6      |       13542 |
-|     297 | 0x34E7      |       13543 |
-|     298 | 0x34E9      |       13545 |
-|     299 | 0x34EA      |       13546 |
-|     300 | 0x34EB      |       13547 |
-|     301 | 0x34EC      |       13548 |
-|     302 | 0x34ED      |       13549 |
-|     303 | 0x34EE      |       13550 |
-|     304 | 0x34EF      |       13551 |
-|     305 | 0x34F0      |       13552 |
-|     306 | 0x34F1      |       13553 |
-|     307 | 0x34F2      |       13554 |
-|     308 | 0x34FE      |       13566 |
-|     309 | 0x34FF      |       13567 |
-|     310 | 0x34FA      |       13562 |
-|     311 | 0x34FD      |       13565 |
-|     312 | 0x34FB      |       13563 |
-|     313 | 0x34FC      |       13564 |
-|     314 | 0x3408      |       13320 |
-|     315 | 0x3500      |       13568 |
-|     316 | 0x34AA      |       13482 |
-|     317 | 0x34AB      |       13483 |
-|     318 | 0x34AC      |       13484 |
-|     319 | 0x34A9      |       13481 |
-|     320 | 0x34F3      |       13555 |
+|     284 | 0x34DB      |       13531 |
+|     285 | 0x34DC      |       13532 |
+|     286 | 0x34DD      |       13533 |
+|     287 | 0x34DE      |       13534 |
+|     288 | 0x34DF      |       13535 |
+|     289 | 0x34E0      |       13536 |
+|     290 | 0x34E1      |       13537 |
+|     291 | 0x34E2      |       13538 |
+|     292 | 0x34E3      |       13539 |
+|     293 | 0x34E4      |       13540 |
+|     294 | 0x34E5      |       13541 |
+|     295 | 0x34E6      |       13542 |
+|     296 | 0x34E7      |       13543 |
+|     297 | 0x34E8      |       13544 |
+|     298 | 0x34EA      |       13546 |
+|     299 | 0x34EB      |       13547 |
+|     300 | 0x34EC      |       13548 |
+|     301 | 0x34ED      |       13549 |
+|     302 | 0x34EE      |       13550 |
+|     303 | 0x34EF      |       13551 |
+|     304 | 0x34F0      |       13552 |
+|     305 | 0x34F1      |       13553 |
+|     306 | 0x34F2      |       13554 |
+|     307 | 0x34F3      |       13555 |
+|     308 | 0x34FF      |       13567 |
+|     309 | 0x3500      |       13568 |
+|     310 | 0x34FB      |       13563 |
+|     311 | 0x34FE      |       13566 |
+|     312 | 0x34FC      |       13564 |
+|     313 | 0x34FD      |       13565 |
+|     314 | 0x3409      |       13321 |
+|     315 | 0x3501      |       13569 |
+|     316 | 0x34AB      |       13483 |
+|     317 | 0x34AC      |       13484 |
+|     318 | 0x34AD      |       13485 |
+|     319 | 0x34AA      |       13482 |
+|     320 | 0x34F4      |       13556 |
 |     321 | 0x002D      |          45 |
 |     322 | 0x0F21      |        3873 |
 |     323 | 0x0F34      |        3892 |
@@ -416,241 +416,241 @@
 
 ## String References
 
-- **13320**: Hmmm. Sorry, but I don't think you have what it takes to survive these underground caverns.
-- **13321**: Have you heard of the Meebles before?
-- **13322**: They're a subterranean race of beastmen that strikingly resemble moles. No need to get your britches in a bunch if you haven't, though--studying them is our job.
-- **13323**: We, the Meeble Burrows Exploration Committee, have left no stone--figurative or real--unturned in our search for answers about this elusive species. Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat.
-- **13324**: They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work throughout a network of burrows.
-- **13325**: Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought...
-- **13326**: Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community.
-- **13327**: Oho, I knew it was a good idea to prepare this grimoire. Here, it should help with your research.
-- **13328**: It looks like you can't carry any more. Try emptying some articles out and return when you have the room.
-- **13329**: Hahaha, you look like you've just been thrown from a chocobo! No need to be scared. I'll explain the process as best I can, but feel free to ask if I've missed something.
-- **13330**: Let's see if I can do this. First, form a party of one to six people. Next, trade your grimoire to the Burrow Researcher in charge of the burrows you're investigating.
-- **13331**: If the need arises, I can always transport you there.
-- **13332**: Alright, here goes nothing. First, form a party of one to six people. Next, trade your grimoire to me.
-- **13333**: [You'll receive/I'll give you/I'll give you] $6 and $6 once you hand it over. After that's done, you're ready to go spelunking...unless you're the party leader.
-- **13334**: Then you'll have to talk to [the Burrow Researcher/me/me] again to decide which expedition to undertake.
-- **13335**: I must warn you, though, that some expeditions require everyone to make a unanimous decision.
-- **13336**: Once your party's expedition has been chosen, it's time to go spelunking.
-- **13337**: Have your party leader talk to the Meeble guarding the burrow entrance. He'll escort you to the right research site.
-- **13338**: After you've finished an expedition, use $1 to return aboveground and report to [the Burrow Researcher in charge or me/me/me] to get your grimoire back.
-- **13339**: Now for a word about grimoires. They impart various benefits depending on what expeditions you've completed.
-- **13340**: It's dangerous down there, so be sure to make use of your grimoire.
-- **13341**: Finally, while there are many types of grimoires, they all share the same attributes. Feel free to change them out depending on your companions and the research assignment at hand.
-- **13342**: You must be the explorer my compatriot in Jeuno was talking about. What brings you here?
-- **13343**: Well, well, look who it is. What do you need this time?
-- **13344**: Finally! I've been waiting for you this whole time.
-- **13345**: We thought we had a bead on the Meebles' habitat, but it turns out we were dead wrong. There's another set of caverns in the vicinity of Batallia Downs!
-- **13346**: I can't understand how it remained buried for so long. Reports abound that the Moblins have expanded their base of operations and are employing Meebles for "nefarious deeds" once again.
-- **13347**: Now it's up to us, the Meeble Burrows Exploration Committee, to unearth heaping amounts of knowledge for our glorious archives! Oh, and maybe to save the day, too.
-- **13348**: How, you ask? By collecting as much information as possible through new expeditions and finally getting to the bottom of this Moblin nuisance! We're always in need of proven researchers like yourself, should you wish to join in the action.
-- **13351**: Any questions? [No, not right now./How does this whole research thing work?/I...descend into underground caves!?/What are these grimoires about?/How do I begin an expedition?/What goes on after an expedition?/What dastardly foes lurk down below?/Any rhyme or reason to these burrows?/What are research marks?/Can you tell me about the Meebles?/What is grimoire engraving?/Could you tell me about wizened worms?/Palimpsests? Huh?]
-- **13352**: You adventurers can help us collect data by embarking on certain expeditions belowground. The goals and activities for each journey you undertake will vary, so this won't be just some routine experiment.
-- **13353**: Although these subterranean caverns may appear simplistic from the outside, their twisting corridors disorient even the Moblins. Be careful.
-- **13354**: Of course, you'll have to prove your problem-solving skills during more forgiving operations before we let you tackle the truly scary stuff.
-- **13355**: Each expedition has a total of three goals for you to achieve. Complete just one goal or up to all three--the choice is yours. However, it should go without saying that the more goals you achieve, the better the reward.
-- **13357**: Grimoires are types of magical books that ancient sorcerers brandished in battle long, long ago. Now that they've been unearthed again, we can use them for our benefit.
-- **13358**: What's the point of adapting them for use in the burrows? Why, to record the feats of explorers like you. Without them, it would be much harder to complete expeditions.
-- **13359**: Like I said, they're no picture books for children. They grant powerful effects for each expedition you finish.
-- **13360**: These boons pack a punch from the get-go, but completing expeditions also allows you to increase their potency twice! See, I'm sure these grimoires will prove useful in your studies of the Meebles' tunnels.
-- **13361**: Just to warn you beforehand, though, boons that affect Auto-Reraise and spoils cannot have their potency increased.
-- **13362**: Another catch is that only the effects of your leader's tome may be bestowed upon your party for normal expeditions. Hopefully that should be all the firepower you need, though.
-- **13363**: At the moment we only have $0 types of grimoires available, but we do plan on adding to that number eventually.
-- **13364**: When you want to start a new expedition, just hand over your grimoire to the Burrow Researcher in charge of the burrows you're investigating.
-- **13365**: When you want to start a new expedition, just hand over your grimoire to me.
-- **13366**: Once you do that, [he'll/I'll/I'll] dole out $6 and $6.
-- **13367**: Those're the only supplies you'll need to start spelunking, but not so fast. You first have to decide what expedition you'll undertake.
-- **13368**: I'll help you make the necessary preparations for that based on your grimoire's records.
-- **13369**: It may seem like a lot to handle, but there's no need to start shaking in your boots. The Burrow Researcher in charge of the burrows you're investigating will help you make all the necessary preparations for that based on your grimoire's records.
-- **13370**: Only then can your party leader declare which journey you and your companions shall embark upon.
-- **13372**: Oh, and before I forget--for particularly grueling endeavors, everyone must sign up individually. The higher-ups like to think of it as "exonerating the committee from responsibility" or something I don't understand.
-- **13373**: After signing up, you'll <cough> almost <cough> be ready to set off. The thing is...Meebles[/, like that one over there,/, like that one over there,] roam the mouth of the burrows.
-- **13374**: They don't trust anyone but the Moblins, so you'll have to dance like Moblins, prance like Moblins, and even romance like Moblins to gain access to the caves.
-- **13375**: ...Actually, you'll only need to stink like Moblins. I can give you $6 in exchange for a grimoire to make sure you smell the part.
-- **13376**: Don't worry, this method is tried and true. Meebles have very bad eyesight, so they mostly use their sense of smell to determine who's who.
-- **13377**: That sense of smell, however, is unrivaled. Even if you're the only one who isn't carrying $6, they'll sniff you out in an instant.
-- **13378**: In fact, the only reason I haven't been turned into Galka gristle after standing here so long is because I keep one on me at all times.
-- **13379**: Once the $3 does its thing and the Meebles take you down into their burrows, you're free to experiment all you want.
-- **13380**: ...Oh, but if you ever let enthusiasm get the best of you and forget your objectives, just use $6 to remind yourself.
-- **13381**: There should be Speleological Handbooks secretly placed by our members all over the burrows.
-- **13382**: Holding your $3 up to one should do the trick.
-- **13383**: They can also serve as a way to record your underground activities.
-- **13384**: Once you finish an expedition, any information you record will have to be reflected in your grimoire.
-- **13385**: You'll be given $1 after completing an expedition.
-- **13386**: One puff on your $1 will allow your whole posse to climb back aboveground.
-- **13387**: After making your escape, there's only one thing left to do. Pay a visit to either the appropriate Burrow Researcher or me and show him your $3.
-- **13388**: After making your escape, you can show your $3 to me.
-- **13389**: [One of us will/I'll/I'll] reference the data you've collected and catalog it in your grimoire.
-- **13390**: If you ever need to escape before completing an expedition, though, you can always use $3 instead.
-- **13391**: Sadly, using $3 allows only its bearer to come up for air. Don't forget to show your $3 once you exit, even if you've bowed out midway through.
-- **13392**: There's nothing wrong with leaving in the middle of an expedition. You'll never be penalized for it, as we wouldn't want to weaken your adventuring spirit.
-- **13393**: Oh, and if you've been wondering how to get ahold of one of these $3, you'll get one from the Meeble guarding the entrance.
-- **13394**: Some scary, twisted fiends roam the depths of these caverns...at least that's what our scouts who come back alive tell me. Of course, you'll likely come face-to-face with these nightmares, too.
-- **13395**: Why? Well, because you'll be tasked with culling one of them after completing the first four expeditions in a course. That's why.
-- **13396**: Whether you choose to accept such a dangerous mission is all up to you. However, keep this in mind.
-- **13397**: Accepting such an assignment means you'll never get back any grimoires we're holding for you.
-- **13398**: That's right. We'll need to archive all the precious data you've collected. Jeuno wasn't built in a day, and the same goes for our analysis of Meeble Burrows.
-- **13399**: Oh, I almost forgot. For extremely harrowing journeys such as these, everyone must sign up individually.
-- **13400**: This way we can be absolutely sure that everyone's prepared for the task at hand. We wouldn't want people without enough experience getting hurt down there.
-- **13401**: In return for your cooperation (or to make sure you truly survive), I'll bestow on your whole party the boons everyone has received up until now.
-- **13402**: This way you'll all be at your best to face the worst...in the name of science!
-- **13403**: This may seem obvious, but you can't just mull around all you want down there.
-- **13404**: Even if you can use $6 to confuse the Meebles, they aren't stupid enough to ignore you forever.
-- **13405**: That's why we've set a $2-minute limit per expedition (Earth time). We want to limit the number of casualties to as few as possible. Safety first, that's our motto.
-- **13406**: You should also know that we only give out one $3 every $1 [hour/minute][/s] (Earth time).
-- **13407**: We do want you to be the best researcher you can be, though... How about we give you $3 $5 as a first-time offer? That way you can learn the ropes faster.
-- **13408**: It took us a while to realize, but the health of our explorers started failing after they'd carry multiple pouches for long periods of time.
-- **13409**: On the bright side, I'm bound by the Meeble Burrows Exploration Committee code to keep up to $3 of them for you. Don't ask why the pouches don't affect me. And if you make a joke about my mother being a Moblin...
-- **13410**: I may be haler and heartier than the average Galka, but there's only so much of that stench I can take. If you need more pouches than I can carry, you'd better get yourself a pherobarrier box.
-- **13411**: Mind if I change to a fairer smelling subject now?
-- **13412**: In the event that the spirits haunting these caverns disallow one of your brethren entry, just return aboveground within three minutes without completing any objectives. You'll be refunded your $3 at no cost!
-- **13413**: How nice of the committee, right? Now you don't have to burst a blood vessel if something happens during your descent.
-- **13414**: We may have many limits and regulations, but we're not heartless. We also dole out "research marks" to those who help us learn about Meeble Burrows.
-- **13415**: How do you get them? It's simple. The more you accomplish down there, the more marks you receive. You can also turn in marks for certain items and equipment.
-- **13416**: There's no need to be a forlorn funguar, either. The more fellow researchers on your expedition, the more marks you reap. "The more the merrier" has never rung more true!
-- **13417**: Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat.
-- **13418**: They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work in caverns all over the realm.
-- **13419**: Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought...
-- **13420**: Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community.
-- **13421**: I'm sure I don't have to lecture you on receiving certain boons from your grimoire depending on the expeditions you've completed.
-- **13422**: But you do remember that boons from one grimoire can't be applied to another, right?
-- **13423**: Even worse, you build a relationship with your grimoire only to have it stolen away from you by some unfeeling bookworms right before you set off to slay the most fearsome of monsters!
-- **13424**: Well, even if you don't remember, those days are long gone! That's the wonderful thing about science--it progresses!
-- **13425**: We've identified unique arcane essences that are released with the completion of some goals and imbue the ink of our pens as we record your exploits.
-- **13426**: Using these essences, we can reconstruct the boons you've received from your grimoire records. Let me explain.
-- **13427**: If you had completed Adjunct Expedition #1, we could inscribe the boons from that expedition onto a blank grimoire.
-- **13428**: Of course the boon would be the same as the one granted from completing that expedition...except for the fact that we can only inscribe level one boons into grimoires. Sorry, but the process is not yet perfect.
-- **13429**: Want to know what else isn't perfect? These inscriptions aren't free. It's sad, but grimoires and pheromone sacks don't sprout from the ground, you know!
-- **13430**: Meebles use their long sniffers to snuff up odds and ends from the burrow floor.
-- **13431**: According to our latest scouting report, they dredged up some things called... Give me a minute here...
-- **13432**: Palimpsests? I may not have the biggest brain this side of the Sea of Shu'Meyo, but I do know that these papers are some powerful stuff.
-- **13433**: The MBEC now also gives away wizened worms to adventurers who complete objectives.
-- **13434**: Meebles love their wizened worms, and how. Quite a non sequitur I pulled on you, right?
-- **13435**: Except it's not! Give the Meebles that guard the burrow entrances some of those water-starved wrigglers and they'll give you stuff in return...possibly even some parades...sorry, palisades...uh, palimpsests.
-- **13436**: Ridiculous name, I know. I can barely say it. These palimpsests are types of magical paper that temporarily aid everyone in your troop.
-- **13437**: All you need to do is trade it to the grimoire inside the caverns and you're good to go.
-- **13438**: I haven't been able to use it myself yet, so this might not be true. Still, a friend of a friend told me that while each piece of parchment has three possible effects, you can only choose one!
-- **13439**: Don't worry, he assures me that you can choose your desired effect through the wonders of that grimoire down there.
-- **13440**: If you want the beat-'em-up power of all three effects, though, you'll need to gather three pieces of parchment.
-- **13441**: To where will you travel? [The Sauromugue Champaign caverns./The Batallia Downs caverns./Nowhere.]
-- **13442**: So, you want to head to the caverns? Alright, I'll make sure you reach Sauromugue Champaign safely...when you're ready, that is.
-- **13443**: So, you want to head to the caverns? Alright, I'll make sure you reach Batallia Downs safely...when you're ready, that is.
-- **13444**: Well, are you ready? [Ready as ever./Not quite yet.]
-- **13445**: In the market for a grimoire, eh? What'll it be?
-- **13446**: In the market for a grimoire, eh? Just so you know, we've finally got some new volumes in stock. Maybe that'll change your decision?
-- **13447**: Which grimoire do you want? [None at the moment./#./$1./$2./$3./$4.]
-- **13448**: I'll accept either $0 research mark[/s] or $1 gil for that. So, how'll you pay?
-- **13449**: How will you pay? [I don't want anything anymore./In research marks. (Marks: $2)/In gil. (Current gil: $3)]
-- **13450**: Uh, you don't have enough [research marks/gil] to buy this...
-- **13453**: Our coffers are empty. We don't have anything available for [exchange/purchase].
-- **13454**: Oh, so you want to abandon your current expedition?
-- **13455**: ...But then all the discoveries you've made during it will be discarded. Is that alright with you?
-- **13456**: Have your grimoire returned? [Yes./No.]
-- **13457**: Fine, but you'll have to give me back your $3.
-- **13458**: Turning in your research marks, I see. Very well. What'll it be?
-- **13459**: What goods are you looking for? [Dispensables./Sauromugue Champaign rewards./Batallia Downs rewards./Pherobarrier box./None, thanks.]
-- **13460**: What goods are you looking for? [Adjunct rewards./Assistant rewards./Instructor rewards./Ast. Researcher rewards./Researcher rewards./Researcher Em. rewards./Total completion rewards./None, thanks.]
-- **13461**: Redeem research marks? (Marks: $0) [$1 ($2 marks)./$3 ($4 marks)./$5 ($6 marks)./$7 ($8 marks)./$9 ($10 marks)./$11 ($12 marks)./$13 ($14 marks)./$15 ($16 marks)./$17 ($18 marks)./Previous page./Next page./Not now.]
-- **13462**: $0? Well then, you'll need to redeem $1 research mark[/s] for that.
-- **13463**: Redeem research marks? (Marks: $2) [Yes./Never mind.]
-- **13464**: Redeem research marks? (Marks: $0) [Paper pherobarrier box. ($1 marks)/Wooden pherobarrier box. ($2 marks)/Leather pherobarrier box. ($3 marks)/No.]
-- **13465**: A [paper/wooden/leather] pherobarrier box is going to run you $1 marks. Is that okay with you?
-- **13468**: The committee also sells certain key items to adventurers who've completed all expeditions in every rank! So...what'll it be?
-- **13469**: What will you purchase? (Gil: $0) [$3 ($6 gil)./$3 ($7 gil)./$3 ($8 gil)./$3 ($9 gil)./$3 ($10 gil)./$3 ($14 gil)./$3 ($15 gil)./$3 ($16 gil)./Nothing.]
-- **13470**: You do know the $3 is the emblem of valiance for [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] expeditions based in [Sauromugue Champaign/Batallia Downs], right? Are you sure that's the one you want?
-- **13471**: Purchase the $3? [Yes./No.]
-- **13472**: Inscribe which feats? (GilF$1) [Adjunct #1 ($2 gil)./Adjunct #2 ($3 gil)./Adjunct #3 ($4 gil)./Adjunct #4 ($5 gil)./Assistant #1 ($2 gil)./Assistant #2 ($3 gil)./Assistant #3 ($4 gil)./Assistant #4 ($5 gil)./Instructor #1 ($2 gil)./Instructor #2 ($3 gil)./Instructor #3 ($4 gil)./Instructor #4 ($5 gil)./Associate Researcher #1 ($2 gil)./Associate Researcher #2 ($3 gil)./Associate Researcher #3 ($4 gil)./Associate Researcher #4 ($5 gil)./Researcher #1 ($2 gil)./Researcher #2 ($3 gil)./Researcher #3 ($4 gil)./Researcher #4 ($5 gil)./Never mind.]
-- **13473**: So, you want the feats of [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition [#1/#2/#3/#4] inscribed in your $0? That'll run you $3 gil, but are you fine with that?
-- **13474**: Inscribe said feats? (Gil: $0) [Yes!/Nope.]
-- **13476**: We've got $1 $3 on hand.
-- **13477**: We've got $1 $5 on hand.
-- **13478**: We don't have a single $3 on hand, but we should in $1 [hour/minute/minute][/s] (Earth time). Sorry, but you'll have to wait until then to get one.
-- **13479**: A grimoire, huh? Well then, here's $6 and $6 in exchange.
-- **13480**: A grimoire, huh? It seems you have $6 already, so here's just the $3.
-- **13481**: What do we have here? This grimoire already seems to contain feats from expeditions under [Sauromugue Champaign/Batallia Downs].
-- **13482**: What? You've already given us a grimoire, and one's the limit.
-- **13483**: Slow down, you're moving too fast. If you want to change to a different one, you've got to withdraw the one we're already keeping.
-- **13484**: I like your gumption, but you've exceeded the authorized time underground. Remember, safety first. Come back in $1 [hour/minute][/s] (Earth time) and we'll let you descend into the depths again.
-- **13486**: What rank shall you choose? [Adjunct./Assistant./Instructor./Associate Researcher./Researcher./Researcher Emeritus./None, on second thought.]
-- **13487**: Which expedition, then? [[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #1[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #2[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #3[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #4[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #5[./ (Complete).]/None.]
-- **13488**: You're absolutely sure you want to attempt [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition #[1/2/3/4]?
-- **13489**: [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/The Researcher Emeritus] Expedition[ #5?/!?] Due to the highly dangerous nature of this assignment, everyone in your troop must speak with me to undertake it.
-- **13490**: Agreeing to set off on one of these expeditions means the committee gets to keep any of your grimoires we have on hand. It's for the greater good, I promise.
-- **13491**: Don't fret. In return for your cooperation, I'll grant your troop every effect from all grimoires currently registered with me.
-- **13492**: How does that sound? [Great! It's a deal./Terrible, that's how.]
-- **13493**: Fight the good fight...for the sake of discovery!
-- **13496**: The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:
-- **13497**: Boon bestowed: Increased HP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13498**: Boon bestowed: Increased accuracy Goal 1: Vanquish the Pugnacious Eft. Goal 2: Vanquish the Pugnacious Eft and all Feeble Efts. Goal 3: Vanquish all enemies.
-- **13499**: Boon bestowed: Increased DEX and AGI Goal 1: Examine $0 ??? target[/s]. Goal 2: Examine $1 ??? target[/s]. Goal 3: Examine $2 ??? target[/s] without being detected.
-- **13500**: Boon bestowed: Enhanced magic defense Goal 1: Extinguish $0 Subterranean Safepoint[/s]. Goal 2: Extinguish $1 Subterranean Safepoint[/s]. Goal 3: Extinguish $2 Subterranean Safepoint[/s].
-- **13501**: Boon bestowed: None Goal: ???
-- **13502**: Boon bestowed: Increased MP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13503**: Boon bestowed: Increased evasion Goal 1: Arrive at the Goal with at least $0 party member[/s]. Goal 2: Arrive at the Goal with all party members. Goal 3: Ensure all party members arrive at the Goal undetected.
-- **13504**: Boon bestowed: Increased STR and VIT Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies], but leave the Snarling Meebles alone!
-- **13505**: Boon bestowed: Treasure Hunter bonus Goal 1: Acquire and feed $0 $0$3 to Ollek. Goal 2: Acquire and feed $1 $0$3 to Ollek. Goal 3: Acquire and feed $2 $0$3 to Ollek.
-- **13506**: Boon bestowed: Increased movement speed Goal 1: Ensure one party member arrives at the Goal within $0 minute[/s]. Goal 2: Ensure all party members arrive at the Goal within $1 minute[/s]. Goal 3: Ensure all party members arrive at the Goal within $2 minute[/s].
-- **13507**: Boon bestowed: Increased attack and ranged attack Goal 1: Alternately vanquish $0 Varanefts and Tectochuks. Goal 2: Alternately vanquish $1 Varanefts and Tectochuks. Goal 3: Alternately vanquish $2 Varanefts and Tectochuks.
-- **13508**: Boon bestowed: Increased INT, MND, CHR Goal 1: Withstand the enemy's assault for $0 minute[/s]. Goal 2: Withstand the enemy's assault for $1 minute[/s]. Goal 3: Withstand the enemy's assault for $2 minute[/s] without a single KO.
-- **13509**: Boons bestowed: Magic attack bonus, increased magic accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13510**: Boon bestowed: Auto-Reraise Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13511**: Boon bestowed: Enhanced defense Goal 1: Ensure one person in the party arrives at Point 1. Goal 2: Ensure everyone in the party gets from Point 1 to Point 2. Goal 3: Ensure everyone in the party gets from Point 1 to Point 3 without a single KO.
-- **13512**: Boon bestowed: Increased double attack Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13513**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Open $0 treasure chest[/s]. Goal 2: Open $1 treasure chest[/s]. Goal 3: Open all treasure chests.
-- **13514**: Boon bestowed: Refresh Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies].
-- **13515**: Boon bestowed: Regain Goal 1: Simultaneously vanquish $0 Hirudinids and Stagdellas, in pairs. Goal 2: Simultaneously vanquish $1 Hirudinids and Stagdellas, in pairs. Goal 3: Simultaneously vanquish $2 Hirudinids and Stagdellas, in pairs.
-- **13516**: Boon bestowed: Increased ranged accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
-- **13517**: Boon bestowed: Bonus to spoils Goal 1: Vanquish $0 notorious monster[/s]. Goal 2: Vanquish $1 notorious monster[/s]. Goal 3: Vanquish all enemies.
-- **13518**: Boon bestowed: Increased HP Goal 1: Vanquish $0 Limber Lynx[/es]. Goal 2: Vanquish $1 Limber Lynx[/es]. Goal 3: Vanquish $2 Limber Lynx[/es].
-- **13519**: Boon bestowed: Auto-Reraise Goal 1: Examine $0 ??? target[/s] and vanquish at least 1 Mafic Marolith. Goal 2: Examine $1 ??? target[/s] and vanquish at least 2 Mafic Maroliths. Goal 3: Examine $2 ??? target[/s] and vanquish at least 4 Mafic Maroliths.
-- **13520**: Boons bestowed: Increased DEX and AGI Goal 1: Vanquish $0 enem[y/ies] in a row without being detected. Goal 2: Vanquish $1 enem[y/ies] in a row without being detected. Goal 3: Vanquish $2 enem[y/ies] in a row without being detected.
-- **13521**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies.
-- **13522**: Boon bestowed: Increased MP Goal 1: Rescue $0 Meeble[/s] under attack. Goal 2: Rescue $1 Meeble[/s] under attack. Goal 3: Rescue $2 Meeble[/s] under attack.
-- **13523**: Boon bestowed: Refresh Goal 1: Extinguish $0 Subterranean Leohtfaet[/s]. Goal 2: Extinguish $1 Subterranean Leohtfaet[/s]. Goal 3: Extinguish $2 Subterranean Leohtfaet[/s]. This goal will be failed if even one Meeble Horticulturist is vanquished.
-- **13524**: Boons bestowed: Increased STR and VIT Goal 1: Acquire $3 and bring $0 to Kobcha. Goal 2: Acquire $3 and bring $1 to Kobcha. Goal 3: Without being caught, acquire $3 and bring $2 to Kobcha.
-- **13525**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies.
-- **13526**: Boon bestowed: Increased movement speed Goal 1: Examine $0 Point[/s] in ascending numerical order. Goal 2: Examine $1 Point[/s] in ascending numerical order. Goal 3: Examine $2 Point[/s] in ascending numerical order.
-- **13527**: Boon bestowed: Regain Goal 1: Defend the Burrows Depthmarker for $0 minute[/s]. Goal 2: Defend the Burrows Depthmarker for $1 minute[/s]. Goal 3: Defend the Burrows Depthmarker for $2 minute[/s].
-- **13528**: Boons bestowed: Increased INT, MND, and CHR Goal 1: Cause $0 enem[y/ies] to self-destruct. Goal 2: Cause $1 enem[y/ies] to self-destruct. Goal 3: Cause $2 enem[y/ies], including at least $3 Sulphurous Djinn[/s], to self-destruct.
-- **13529**: Boon bestowed: Bonus to spoils Goal 1: Collect $0 elaborate part[/s]. Goal 2: Collect $1 elaborate part[/s]. Goal 3: Collect $2 elaborate part[/s].
-- **13530**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!
-- **13531**: This expedition involves collecting data at certain Points deep within the caverns...stealthily. Don't get found by anything there, or you'll come back empty-handed.
-- **13532**: Like moths to flame, the beasts in these caves are attracted to Subterranean Safepoint fire. Extinguish the torches to disperse the hordes...but not too fast. Extinguish multiple ones at once and you'll attract unwelcome guests.
-- **13533**: "Endeavor to find the most expeditious route from the specified points to increase research productivity." Wow, you'd think whoever made this objective could be a little more direct. Anyway, you may not need this advice, but try not to get found by any enemies along the way.
-- **13534**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...without injuring any Snarling Meebles, for they're the subject of our research at the moment.
-- **13535**: For the cost of just a few $3 an expedition, you too can help save the lives of starving Meebles. Please, think of the Meebles and do the right thing.
-- **13536**: This expedition aims to improve research efficiency by having you find the shortest route from point myeh to point gah. Oh, those names aren't the product of apathy on my part. I'm subtly hinting that the routes change depending on the time of day you enter. Whoops, so much for subtlety.
-- **13537**: Those Varanefts and Tectochuks are enigmas wrapped in riddles encased in gobs of mystery. Yummy, yummy mystery. This expedition tasks you with unwrapping and sucking every last drop of mystery out of their behavior.
-- **13538**: We'd like you to develop an intimate relationship with certain subjects down there. The catch is that they're not very friendly, so you'll need to endure some of their blows first. Go unconscious, though, and it'll be harder to collect the right data.
-- **13539**: Ready for a little reconnaissance? We need someone to clear the way for "big boys" to do "real researcher's work." Pompous jerks. Anyway, this sounds obvious, but try not to get knocked out, okay?
-- **13540**: Treasure for everyone! The MBEC has unearthed lots of chests down belowground! Experience has proven that some of those chests are just monsters lying in wait, though...so we've decided to send adventurers down there first.
-- **13541**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...which may require you to go for a swim!
-- **13542**: "Even filthy bloodsuckers like Hirudinids and Stagdellas can offer scientific insights," my tail! We've tried everything and haven't found a single piece of data worthy of analysis, so...uh...try slaying them at the same time? I don't know.
-- **13543**: "Just when we thought it was okay to implement the scientific method again, our fellow researchers get attacked by notarizing monarchs!" Wait a minute! When I find the dolt who wrote this report...
-- **13544**: You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two.
-- **13545**: The goal of this expedition is to compile data regarding certain points within the burrows. The area is crawling with annoying Mafic Maroliths, though. We know that they possess a hive mentality, so as long as you take some down, the others should get the point.
-- **13546**: Ever feel like you're being watched? I do all the time. My superiors tell me that our activities are being monitored by enemies...though not by the evil rarab in my closet, as I'd suggested. But what do they know!? Try and beat them at their own game and best them without getting detected. Then maybe I can get some sleep at night.
-- **13547**: The Meebles we were observing have been attacked! Oh, the Galkanity! The Elvaanity! The...I'm so flustered I can't think! Please save them! Without their cute little snouts and endearing gruff talk, what else is left in the world to enjoy!?
-- **13548**: Like moths to flame, the beasts in these caves are attracted to Subterranean Leohtfaet fire. Extinguish the torches to disperse the hordes...but not the Meebles. Spare the Meebles at all costs.
-- **13549**: Those adorable Meebles are at it again, collecting $3 like they were real miners. Indulge them in their harmless fantasy and try finding $3 at mining points throughout the caves. Pretty please?
-- **13550**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible.
-- **13551**: The goal of this expedition is to compile data regarding certain points within the burrows. For this one, they've even been pre-numbered for you! All you need to do is examine them in order from youngest to oldest. What, that's not how you say it? You mustn't be from around here.
-- **13552**: Those dastardly little buggers are breaking our Burrows Depthmarker! Show them that science always shines brightest by defending the Burrows Depthmarker for as long as possible!
-- **13553**: On this expedition, you'll have to make as many hot-tempered bombs as possible self-destruct. Sounds like your best bet is to insult their cooking. Thanks, I'll be here for all eternity.
-- **13554**: Moblins are supposedly gathering certain "elaborate parts" from treasure chests and fallen fiends. We don't know exactly what manner of confounding contraption they intend to contrive, but bring us enough parts and we'll <ahem> "piece it together."
-- **13555**: $0, huh? That'll grant you the following effects:
-- **13556**: # boons: [Cancel./Adjunct Expedition #1...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #2...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #3...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #4...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #1...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #2...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #3...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #4...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #1...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #2...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #3...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #4...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #4...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #4...[Lv.1/Lv.2/Lv.3].]
-- **13557**: Um...it looks like the grimoire you gave me is completely blank.
-- **13560**: Review specifics from which locale? [Sauromugue Champaign./Batallia Downs./None.]
-- **13561**: Expedition Specifics: [Cancel./Adjunct #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3].]
-- **13562**: Good job. Now it's time to record your latest discoveries in your $3.
-- **13563**: It looks like you've completed $0 goal[/s] on this last expedition. Now that everything's been recorded, you can have your grimoire back.
-- **13564**: You've completed all three goals!? Great! You're a credit to the Exploration Committee, <Player>, and more than worthy of your grimoire.
-- **13565**: Well, you may not have met any goals this time, but failures are the building blocks of success. Good luck next time!
-- **13566**: It must have been really hairy down there, huh? Oh, and as I explained before, we'll be needing that grimoire of yours for analysis.
-- **13567**: Here's a new grimoire we've prepared for you. Go on, take it.
-- **13568**: I'm part of the Meeble Burrows Exploration Committee, but I'm not allowed to say anything else about our operations right now. If you'd like to learn more, try talking with the Burrow Investigator in Upper Jeuno.
+- **13321**: Hmmm. Sorry, but I don't think you have what it takes to survive these underground caverns.
+- **13322**: Have you heard of the Meebles before?
+- **13323**: They're a subterranean race of beastmen that strikingly resemble moles. No need to get your britches in a bunch if you haven't, though--studying them is our job.
+- **13324**: We, the Meeble Burrows Exploration Committee, have left no stone--figurative or real--unturned in our search for answers about this elusive species. Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat.
+- **13325**: They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work throughout a network of burrows.
+- **13326**: Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought...
+- **13327**: Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community.
+- **13328**: Oho, I knew it was a good idea to prepare this grimoire. Here, it should help with your research.
+- **13329**: It looks like you can't carry any more. Try emptying some articles out and return when you have the room.
+- **13330**: Hahaha, you look like you've just been thrown from a chocobo! No need to be scared. I'll explain the process as best I can, but feel free to ask if I've missed something.
+- **13331**: Let's see if I can do this. First, form a party of one to six people. Next, trade your grimoire to the Burrow Researcher in charge of the burrows you're investigating.
+- **13332**: If the need arises, I can always transport you there.
+- **13333**: Alright, here goes nothing. First, form a party of one to six people. Next, trade your grimoire to me.
+- **13334**: [You'll receive/I'll give you/I'll give you] $6 and $6 once you hand it over. After that's done, you're ready to go spelunking...unless you're the party leader.
+- **13335**: Then you'll have to talk to [the Burrow Researcher/me/me] again to decide which expedition to undertake.
+- **13336**: I must warn you, though, that some expeditions require everyone to make a unanimous decision.
+- **13337**: Once your party's expedition has been chosen, it's time to go spelunking.
+- **13338**: Have your party leader talk to the Meeble guarding the burrow entrance. He'll escort you to the right research site.
+- **13339**: After you've finished an expedition, use $1 to return aboveground and report to [the Burrow Researcher in charge or me/me/me] to get your grimoire back.
+- **13340**: Now for a word about grimoires. They impart various benefits depending on what expeditions you've completed.
+- **13341**: It's dangerous down there, so be sure to make use of your grimoire.
+- **13342**: Finally, while there are many types of grimoires, they all share the same attributes. Feel free to change them out depending on your companions and the research assignment at hand.
+- **13343**: You must be the explorer my compatriot in Jeuno was talking about. What brings you here?
+- **13344**: Well, well, look who it is. What do you need this time?
+- **13345**: Finally! I've been waiting for you this whole time.
+- **13346**: We thought we had a bead on the Meebles' habitat, but it turns out we were dead wrong. There's another set of caverns in the vicinity of Batallia Downs!
+- **13347**: I can't understand how it remained buried for so long. Reports abound that the Moblins have expanded their base of operations and are employing Meebles for "nefarious deeds" once again.
+- **13348**: Now it's up to us, the Meeble Burrows Exploration Committee, to unearth heaping amounts of knowledge for our glorious archives! Oh, and maybe to save the day, too.
+- **13349**: How, you ask? By collecting as much information as possible through new expeditions and finally getting to the bottom of this Moblin nuisance! We're always in need of proven researchers like yourself, should you wish to join in the action.
+- **13352**: Any questions? [No, not right now./How does this whole research thing work?/I...descend into underground caves!?/What are these grimoires about?/How do I begin an expedition?/What goes on after an expedition?/What dastardly foes lurk down below?/Any rhyme or reason to these burrows?/What are research marks?/Can you tell me about the Meebles?/What is grimoire engraving?/Could you tell me about wizened worms?/Palimpsests? Huh?]
+- **13353**: You adventurers can help us collect data by embarking on certain expeditions belowground. The goals and activities for each journey you undertake will vary, so this won't be just some routine experiment.
+- **13354**: Although these subterranean caverns may appear simplistic from the outside, their twisting corridors disorient even the Moblins. Be careful.
+- **13355**: Of course, you'll have to prove your problem-solving skills during more forgiving operations before we let you tackle the truly scary stuff.
+- **13356**: Each expedition has a total of three goals for you to achieve. Complete just one goal or up to all three--the choice is yours. However, it should go without saying that the more goals you achieve, the better the reward.
+- **13358**: Grimoires are types of magical books that ancient sorcerers brandished in battle long, long ago. Now that they've been unearthed again, we can use them for our benefit.
+- **13359**: What's the point of adapting them for use in the burrows? Why, to record the feats of explorers like you. Without them, it would be much harder to complete expeditions.
+- **13360**: Like I said, they're no picture books for children. They grant powerful effects for each expedition you finish.
+- **13361**: These boons pack a punch from the get-go, but completing expeditions also allows you to increase their potency twice! See, I'm sure these grimoires will prove useful in your studies of the Meebles' tunnels.
+- **13362**: Just to warn you beforehand, though, boons that affect Auto-Reraise and spoils cannot have their potency increased.
+- **13363**: Another catch is that only the effects of your leader's tome may be bestowed upon your party for normal expeditions. Hopefully that should be all the firepower you need, though.
+- **13364**: At the moment we only have $0 types of grimoires available, but we do plan on adding to that number eventually.
+- **13365**: When you want to start a new expedition, just hand over your grimoire to the Burrow Researcher in charge of the burrows you're investigating.
+- **13366**: When you want to start a new expedition, just hand over your grimoire to me.
+- **13367**: Once you do that, [he'll/I'll/I'll] dole out $6 and $6.
+- **13368**: Those're the only supplies you'll need to start spelunking, but not so fast. You first have to decide what expedition you'll undertake.
+- **13369**: I'll help you make the necessary preparations for that based on your grimoire's records.
+- **13370**: It may seem like a lot to handle, but there's no need to start shaking in your boots. The Burrow Researcher in charge of the burrows you're investigating will help you make all the necessary preparations for that based on your grimoire's records.
+- **13371**: Only then can your party leader declare which journey you and your companions shall embark upon.
+- **13373**: Oh, and before I forget--for particularly grueling endeavors, everyone must sign up individually. The higher-ups like to think of it as "exonerating the committee from responsibility" or something I don't understand.
+- **13374**: After signing up, you'll <cough> almost <cough> be ready to set off. The thing is...Meebles[/, like that one over there,/, like that one over there,] roam the mouth of the burrows.
+- **13375**: They don't trust anyone but the Moblins, so you'll have to dance like Moblins, prance like Moblins, and even romance like Moblins to gain access to the caves.
+- **13376**: ...Actually, you'll only need to stink like Moblins. I can give you $6 in exchange for a grimoire to make sure you smell the part.
+- **13377**: Don't worry, this method is tried and true. Meebles have very bad eyesight, so they mostly use their sense of smell to determine who's who.
+- **13378**: That sense of smell, however, is unrivaled. Even if you're the only one who isn't carrying $6, they'll sniff you out in an instant.
+- **13379**: In fact, the only reason I haven't been turned into Galka gristle after standing here so long is because I keep one on me at all times.
+- **13380**: Once the $3 does its thing and the Meebles take you down into their burrows, you're free to experiment all you want.
+- **13381**: ...Oh, but if you ever let enthusiasm get the best of you and forget your objectives, just use $6 to remind yourself.
+- **13382**: There should be Speleological Handbooks secretly placed by our members all over the burrows.
+- **13383**: Holding your $3 up to one should do the trick.
+- **13384**: They can also serve as a way to record your underground activities.
+- **13385**: Once you finish an expedition, any information you record will have to be reflected in your grimoire.
+- **13386**: You'll be given $1 after completing an expedition.
+- **13387**: One puff on your $1 will allow your whole posse to climb back aboveground.
+- **13388**: After making your escape, there's only one thing left to do. Pay a visit to either the appropriate Burrow Researcher or me and show him your $3.
+- **13389**: After making your escape, you can show your $3 to me.
+- **13390**: [One of us will/I'll/I'll] reference the data you've collected and catalog it in your grimoire.
+- **13391**: If you ever need to escape before completing an expedition, though, you can always use $3 instead.
+- **13392**: Sadly, using $3 allows only its bearer to come up for air. Don't forget to show your $3 once you exit, even if you've bowed out midway through.
+- **13393**: There's nothing wrong with leaving in the middle of an expedition. You'll never be penalized for it, as we wouldn't want to weaken your adventuring spirit.
+- **13394**: Oh, and if you've been wondering how to get ahold of one of these $3, you'll get one from the Meeble guarding the entrance.
+- **13395**: Some scary, twisted fiends roam the depths of these caverns...at least that's what our scouts who come back alive tell me. Of course, you'll likely come face-to-face with these nightmares, too.
+- **13396**: Why? Well, because you'll be tasked with culling one of them after completing the first four expeditions in a course. That's why.
+- **13397**: Whether you choose to accept such a dangerous mission is all up to you. However, keep this in mind.
+- **13398**: Accepting such an assignment means you'll never get back any grimoires we're holding for you.
+- **13399**: That's right. We'll need to archive all the precious data you've collected. Jeuno wasn't built in a day, and the same goes for our analysis of Meeble Burrows.
+- **13400**: Oh, I almost forgot. For extremely harrowing journeys such as these, everyone must sign up individually.
+- **13401**: This way we can be absolutely sure that everyone's prepared for the task at hand. We wouldn't want people without enough experience getting hurt down there.
+- **13402**: In return for your cooperation (or to make sure you truly survive), I'll bestow on your whole party the boons everyone has received up until now.
+- **13403**: This way you'll all be at your best to face the worst...in the name of science!
+- **13404**: This may seem obvious, but you can't just mull around all you want down there.
+- **13405**: Even if you can use $6 to confuse the Meebles, they aren't stupid enough to ignore you forever.
+- **13406**: That's why we've set a $2-minute limit per expedition (Earth time). We want to limit the number of casualties to as few as possible. Safety first, that's our motto.
+- **13407**: You should also know that we only give out one $3 every $1 [hour/minute][/s] (Earth time).
+- **13408**: We do want you to be the best researcher you can be, though... How about we give you $3 $5 as a first-time offer? That way you can learn the ropes faster.
+- **13409**: It took us a while to realize, but the health of our explorers started failing after they'd carry multiple pouches for long periods of time.
+- **13410**: On the bright side, I'm bound by the Meeble Burrows Exploration Committee code to keep up to $3 of them for you. Don't ask why the pouches don't affect me. And if you make a joke about my mother being a Moblin...
+- **13411**: I may be haler and heartier than the average Galka, but there's only so much of that stench I can take. If you need more pouches than I can carry, you'd better get yourself a pherobarrier box.
+- **13412**: Mind if I change to a fairer smelling subject now?
+- **13413**: In the event that the spirits haunting these caverns disallow one of your brethren entry, just return aboveground within three minutes without completing any objectives. You'll be refunded your $3 at no cost!
+- **13414**: How nice of the committee, right? Now you don't have to burst a blood vessel if something happens during your descent.
+- **13415**: We may have many limits and regulations, but we're not heartless. We also dole out "research marks" to those who help us learn about Meeble Burrows.
+- **13416**: How do you get them? It's simple. The more you accomplish down there, the more marks you receive. You can also turn in marks for certain items and equipment.
+- **13417**: There's no need to be a forlorn funguar, either. The more fellow researchers on your expedition, the more marks you reap. "The more the merrier" has never rung more true!
+- **13418**: Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat.
+- **13419**: They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work in caverns all over the realm.
+- **13420**: Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought...
+- **13421**: Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community.
+- **13422**: I'm sure I don't have to lecture you on receiving certain boons from your grimoire depending on the expeditions you've completed.
+- **13423**: But you do remember that boons from one grimoire can't be applied to another, right?
+- **13424**: Even worse, you build a relationship with your grimoire only to have it stolen away from you by some unfeeling bookworms right before you set off to slay the most fearsome of monsters!
+- **13425**: Well, even if you don't remember, those days are long gone! That's the wonderful thing about science--it progresses!
+- **13426**: We've identified unique arcane essences that are released with the completion of some goals and imbue the ink of our pens as we record your exploits.
+- **13427**: Using these essences, we can reconstruct the boons you've received from your grimoire records. Let me explain.
+- **13428**: If you had completed Adjunct Expedition #1, we could inscribe the boons from that expedition onto a blank grimoire.
+- **13429**: Of course the boon would be the same as the one granted from completing that expedition...except for the fact that we can only inscribe level one boons into grimoires. Sorry, but the process is not yet perfect.
+- **13430**: Want to know what else isn't perfect? These inscriptions aren't free. It's sad, but grimoires and pheromone sacks don't sprout from the ground, you know!
+- **13431**: Meebles use their long sniffers to snuff up odds and ends from the burrow floor.
+- **13432**: According to our latest scouting report, they dredged up some things called... Give me a minute here...
+- **13433**: Palimpsests? I may not have the biggest brain this side of the Sea of Shu'Meyo, but I do know that these papers are some powerful stuff.
+- **13434**: The MBEC now also gives away wizened worms to adventurers who complete objectives.
+- **13435**: Meebles love their wizened worms, and how. Quite a non sequitur I pulled on you, right?
+- **13436**: Except it's not! Give the Meebles that guard the burrow entrances some of those water-starved wrigglers and they'll give you stuff in return...possibly even some parades...sorry, palisades...uh, palimpsests.
+- **13437**: Ridiculous name, I know. I can barely say it. These palimpsests are types of magical paper that temporarily aid everyone in your troop.
+- **13438**: All you need to do is trade it to the grimoire inside the caverns and you're good to go.
+- **13439**: I haven't been able to use it myself yet, so this might not be true. Still, a friend of a friend told me that while each piece of parchment has three possible effects, you can only choose one!
+- **13440**: Don't worry, he assures me that you can choose your desired effect through the wonders of that grimoire down there.
+- **13441**: If you want the beat-'em-up power of all three effects, though, you'll need to gather three pieces of parchment.
+- **13442**: To where will you travel? [The Sauromugue Champaign caverns./The Batallia Downs caverns./Nowhere.]
+- **13443**: So, you want to head to the caverns? Alright, I'll make sure you reach Sauromugue Champaign safely...when you're ready, that is.
+- **13444**: So, you want to head to the caverns? Alright, I'll make sure you reach Batallia Downs safely...when you're ready, that is.
+- **13445**: Well, are you ready? [Ready as ever./Not quite yet.]
+- **13446**: In the market for a grimoire, eh? What'll it be?
+- **13447**: In the market for a grimoire, eh? Just so you know, we've finally got some new volumes in stock. Maybe that'll change your decision?
+- **13448**: Which grimoire do you want? [None at the moment./#./$1./$2./$3./$4.]
+- **13449**: I'll accept either $0 research mark[/s] or $1 gil for that. So, how'll you pay?
+- **13450**: How will you pay? [I don't want anything anymore./In research marks. (Marks: $2)/In gil. (Current gil: $3)]
+- **13451**: Uh, you don't have enough [research marks/gil] to buy this...
+- **13454**: Our coffers are empty. We don't have anything available for [exchange/purchase].
+- **13455**: Oh, so you want to abandon your current expedition?
+- **13456**: ...But then all the discoveries you've made during it will be discarded. Is that alright with you?
+- **13457**: Have your grimoire returned? [Yes./No.]
+- **13458**: Fine, but you'll have to give me back your $3.
+- **13459**: Turning in your research marks, I see. Very well. What'll it be?
+- **13460**: What goods are you looking for? [Dispensables./Sauromugue Champaign rewards./Batallia Downs rewards./Pherobarrier box./None, thanks.]
+- **13461**: What goods are you looking for? [Adjunct rewards./Assistant rewards./Instructor rewards./Ast. Researcher rewards./Researcher rewards./Researcher Em. rewards./Total completion rewards./None, thanks.]
+- **13462**: Redeem research marks? (Marks: $0) [$1 ($2 marks)./$3 ($4 marks)./$5 ($6 marks)./$7 ($8 marks)./$9 ($10 marks)./$11 ($12 marks)./$13 ($14 marks)./$15 ($16 marks)./$17 ($18 marks)./Previous page./Next page./Not now.]
+- **13463**: $0? Well then, you'll need to redeem $1 research mark[/s] for that.
+- **13464**: Redeem research marks? (Marks: $2) [Yes./Never mind.]
+- **13465**: Redeem research marks? (Marks: $0) [Paper pherobarrier box. ($1 marks)/Wooden pherobarrier box. ($2 marks)/Leather pherobarrier box. ($3 marks)/No.]
+- **13466**: A [paper/wooden/leather] pherobarrier box is going to run you $1 marks. Is that okay with you?
+- **13469**: The committee also sells certain key items to adventurers who've completed all expeditions in every rank! So...what'll it be?
+- **13470**: What will you purchase? (Gil: $0) [$3 ($6 gil)./$3 ($7 gil)./$3 ($8 gil)./$3 ($9 gil)./$3 ($10 gil)./$3 ($14 gil)./$3 ($15 gil)./$3 ($16 gil)./Nothing.]
+- **13471**: You do know the $3 is the emblem of valiance for [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] expeditions based in [Sauromugue Champaign/Batallia Downs], right? Are you sure that's the one you want?
+- **13472**: Purchase the $3? [Yes./No.]
+- **13473**: Inscribe which feats? (GilF$1) [Adjunct #1 ($2 gil)./Adjunct #2 ($3 gil)./Adjunct #3 ($4 gil)./Adjunct #4 ($5 gil)./Assistant #1 ($2 gil)./Assistant #2 ($3 gil)./Assistant #3 ($4 gil)./Assistant #4 ($5 gil)./Instructor #1 ($2 gil)./Instructor #2 ($3 gil)./Instructor #3 ($4 gil)./Instructor #4 ($5 gil)./Associate Researcher #1 ($2 gil)./Associate Researcher #2 ($3 gil)./Associate Researcher #3 ($4 gil)./Associate Researcher #4 ($5 gil)./Researcher #1 ($2 gil)./Researcher #2 ($3 gil)./Researcher #3 ($4 gil)./Researcher #4 ($5 gil)./Never mind.]
+- **13474**: So, you want the feats of [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition [#1/#2/#3/#4] inscribed in your $0? That'll run you $3 gil, but are you fine with that?
+- **13475**: Inscribe said feats? (Gil: $0) [Yes!/Nope.]
+- **13477**: We've got $1 $3 on hand.
+- **13478**: We've got $1 $5 on hand.
+- **13479**: We don't have a single $3 on hand, but we should in $1 [hour/minute/minute][/s] (Earth time). Sorry, but you'll have to wait until then to get one.
+- **13480**: A grimoire, huh? Well then, here's $6 and $6 in exchange.
+- **13481**: A grimoire, huh? It seems you have $6 already, so here's just the $3.
+- **13482**: What do we have here? This grimoire already seems to contain feats from expeditions under [Sauromugue Champaign/Batallia Downs].
+- **13483**: What? You've already given us a grimoire, and one's the limit.
+- **13484**: Slow down, you're moving too fast. If you want to change to a different one, you've got to withdraw the one we're already keeping.
+- **13485**: I like your gumption, but you've exceeded the authorized time underground. Remember, safety first. Come back in $1 [hour/minute][/s] (Earth time) and we'll let you descend into the depths again.
+- **13487**: What rank shall you choose? [Adjunct./Assistant./Instructor./Associate Researcher./Researcher./Researcher Emeritus./None, on second thought.]
+- **13488**: Which expedition, then? [[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #1[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #2[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #3[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #4[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #5[./ (Complete).]/None.]
+- **13489**: You're absolutely sure you want to attempt [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition #[1/2/3/4]?
+- **13490**: [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/The Researcher Emeritus] Expedition[ #5?/!?] Due to the highly dangerous nature of this assignment, everyone in your troop must speak with me to undertake it.
+- **13491**: Agreeing to set off on one of these expeditions means the committee gets to keep any of your grimoires we have on hand. It's for the greater good, I promise.
+- **13492**: Don't fret. In return for your cooperation, I'll grant your troop every effect from all grimoires currently registered with me.
+- **13493**: How does that sound? [Great! It's a deal./Terrible, that's how.]
+- **13494**: Fight the good fight...for the sake of discovery!
+- **13497**: The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:
+- **13498**: Boon bestowed: Increased HP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13499**: Boon bestowed: Increased accuracy Goal 1: Vanquish the Pugnacious Eft. Goal 2: Vanquish the Pugnacious Eft and all Feeble Efts. Goal 3: Vanquish all enemies.
+- **13500**: Boon bestowed: Increased DEX and AGI Goal 1: Examine $0 ??? target[/s]. Goal 2: Examine $1 ??? target[/s]. Goal 3: Examine $2 ??? target[/s] without being detected.
+- **13501**: Boon bestowed: Enhanced magic defense Goal 1: Extinguish $0 Subterranean Safepoint[/s]. Goal 2: Extinguish $1 Subterranean Safepoint[/s]. Goal 3: Extinguish $2 Subterranean Safepoint[/s].
+- **13502**: Boon bestowed: None Goal: ???
+- **13503**: Boon bestowed: Increased MP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13504**: Boon bestowed: Increased evasion Goal 1: Arrive at the Goal with at least $0 party member[/s]. Goal 2: Arrive at the Goal with all party members. Goal 3: Ensure all party members arrive at the Goal undetected.
+- **13505**: Boon bestowed: Increased STR and VIT Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies], but leave the Snarling Meebles alone!
+- **13506**: Boon bestowed: Treasure Hunter bonus Goal 1: Acquire and feed $0 $0$3 to Ollek. Goal 2: Acquire and feed $1 $0$3 to Ollek. Goal 3: Acquire and feed $2 $0$3 to Ollek.
+- **13507**: Boon bestowed: Increased movement speed Goal 1: Ensure one party member arrives at the Goal within $0 minute[/s]. Goal 2: Ensure all party members arrive at the Goal within $1 minute[/s]. Goal 3: Ensure all party members arrive at the Goal within $2 minute[/s].
+- **13508**: Boon bestowed: Increased attack and ranged attack Goal 1: Alternately vanquish $0 Varanefts and Tectochuks. Goal 2: Alternately vanquish $1 Varanefts and Tectochuks. Goal 3: Alternately vanquish $2 Varanefts and Tectochuks.
+- **13509**: Boon bestowed: Increased INT, MND, CHR Goal 1: Withstand the enemy's assault for $0 minute[/s]. Goal 2: Withstand the enemy's assault for $1 minute[/s]. Goal 3: Withstand the enemy's assault for $2 minute[/s] without a single KO.
+- **13510**: Boons bestowed: Magic attack bonus, increased magic accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13511**: Boon bestowed: Auto-Reraise Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13512**: Boon bestowed: Enhanced defense Goal 1: Ensure one person in the party arrives at Point 1. Goal 2: Ensure everyone in the party gets from Point 1 to Point 2. Goal 3: Ensure everyone in the party gets from Point 1 to Point 3 without a single KO.
+- **13513**: Boon bestowed: Increased double attack Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13514**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Open $0 treasure chest[/s]. Goal 2: Open $1 treasure chest[/s]. Goal 3: Open all treasure chests.
+- **13515**: Boon bestowed: Refresh Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies].
+- **13516**: Boon bestowed: Regain Goal 1: Simultaneously vanquish $0 Hirudinids and Stagdellas, in pairs. Goal 2: Simultaneously vanquish $1 Hirudinids and Stagdellas, in pairs. Goal 3: Simultaneously vanquish $2 Hirudinids and Stagdellas, in pairs.
+- **13517**: Boon bestowed: Increased ranged accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies.
+- **13518**: Boon bestowed: Bonus to spoils Goal 1: Vanquish $0 notorious monster[/s]. Goal 2: Vanquish $1 notorious monster[/s]. Goal 3: Vanquish all enemies.
+- **13519**: Boon bestowed: Increased HP Goal 1: Vanquish $0 Limber Lynx[/es]. Goal 2: Vanquish $1 Limber Lynx[/es]. Goal 3: Vanquish $2 Limber Lynx[/es].
+- **13520**: Boon bestowed: Auto-Reraise Goal 1: Examine $0 ??? target[/s] and vanquish at least 1 Mafic Marolith. Goal 2: Examine $1 ??? target[/s] and vanquish at least 2 Mafic Maroliths. Goal 3: Examine $2 ??? target[/s] and vanquish at least 4 Mafic Maroliths.
+- **13521**: Boons bestowed: Increased DEX and AGI Goal 1: Vanquish $0 enem[y/ies] in a row without being detected. Goal 2: Vanquish $1 enem[y/ies] in a row without being detected. Goal 3: Vanquish $2 enem[y/ies] in a row without being detected.
+- **13522**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies.
+- **13523**: Boon bestowed: Increased MP Goal 1: Rescue $0 Meeble[/s] under attack. Goal 2: Rescue $1 Meeble[/s] under attack. Goal 3: Rescue $2 Meeble[/s] under attack.
+- **13524**: Boon bestowed: Refresh Goal 1: Extinguish $0 Subterranean Leohtfaet[/s]. Goal 2: Extinguish $1 Subterranean Leohtfaet[/s]. Goal 3: Extinguish $2 Subterranean Leohtfaet[/s]. This goal will be failed if even one Meeble Horticulturist is vanquished.
+- **13525**: Boons bestowed: Increased STR and VIT Goal 1: Acquire $3 and bring $0 to Kobcha. Goal 2: Acquire $3 and bring $1 to Kobcha. Goal 3: Without being caught, acquire $3 and bring $2 to Kobcha.
+- **13526**: Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies.
+- **13527**: Boon bestowed: Increased movement speed Goal 1: Examine $0 Point[/s] in ascending numerical order. Goal 2: Examine $1 Point[/s] in ascending numerical order. Goal 3: Examine $2 Point[/s] in ascending numerical order.
+- **13528**: Boon bestowed: Regain Goal 1: Defend the Burrows Depthmarker for $0 minute[/s]. Goal 2: Defend the Burrows Depthmarker for $1 minute[/s]. Goal 3: Defend the Burrows Depthmarker for $2 minute[/s].
+- **13529**: Boons bestowed: Increased INT, MND, and CHR Goal 1: Cause $0 enem[y/ies] to self-destruct. Goal 2: Cause $1 enem[y/ies] to self-destruct. Goal 3: Cause $2 enem[y/ies], including at least $3 Sulphurous Djinn[/s], to self-destruct.
+- **13530**: Boon bestowed: Bonus to spoils Goal 1: Collect $0 elaborate part[/s]. Goal 2: Collect $1 elaborate part[/s]. Goal 3: Collect $2 elaborate part[/s].
+- **13531**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!
+- **13532**: This expedition involves collecting data at certain Points deep within the caverns...stealthily. Don't get found by anything there, or you'll come back empty-handed.
+- **13533**: Like moths to flame, the beasts in these caves are attracted to Subterranean Safepoint fire. Extinguish the torches to disperse the hordes...but not too fast. Extinguish multiple ones at once and you'll attract unwelcome guests.
+- **13534**: "Endeavor to find the most expeditious route from the specified points to increase research productivity." Wow, you'd think whoever made this objective could be a little more direct. Anyway, you may not need this advice, but try not to get found by any enemies along the way.
+- **13535**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...without injuring any Snarling Meebles, for they're the subject of our research at the moment.
+- **13536**: For the cost of just a few $3 an expedition, you too can help save the lives of starving Meebles. Please, think of the Meebles and do the right thing.
+- **13537**: This expedition aims to improve research efficiency by having you find the shortest route from point myeh to point gah. Oh, those names aren't the product of apathy on my part. I'm subtly hinting that the routes change depending on the time of day you enter. Whoops, so much for subtlety.
+- **13538**: Those Varanefts and Tectochuks are enigmas wrapped in riddles encased in gobs of mystery. Yummy, yummy mystery. This expedition tasks you with unwrapping and sucking every last drop of mystery out of their behavior.
+- **13539**: We'd like you to develop an intimate relationship with certain subjects down there. The catch is that they're not very friendly, so you'll need to endure some of their blows first. Go unconscious, though, and it'll be harder to collect the right data.
+- **13540**: Ready for a little reconnaissance? We need someone to clear the way for "big boys" to do "real researcher's work." Pompous jerks. Anyway, this sounds obvious, but try not to get knocked out, okay?
+- **13541**: Treasure for everyone! The MBEC has unearthed lots of chests down belowground! Experience has proven that some of those chests are just monsters lying in wait, though...so we've decided to send adventurers down there first.
+- **13542**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...which may require you to go for a swim!
+- **13543**: "Even filthy bloodsuckers like Hirudinids and Stagdellas can offer scientific insights," my tail! We've tried everything and haven't found a single piece of data worthy of analysis, so...uh...try slaying them at the same time? I don't know.
+- **13544**: "Just when we thought it was okay to implement the scientific method again, our fellow researchers get attacked by notarizing monarchs!" Wait a minute! When I find the dolt who wrote this report...
+- **13545**: You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two.
+- **13546**: The goal of this expedition is to compile data regarding certain points within the burrows. The area is crawling with annoying Mafic Maroliths, though. We know that they possess a hive mentality, so as long as you take some down, the others should get the point.
+- **13547**: Ever feel like you're being watched? I do all the time. My superiors tell me that our activities are being monitored by enemies...though not by the evil rarab in my closet, as I'd suggested. But what do they know!? Try and beat them at their own game and best them without getting detected. Then maybe I can get some sleep at night.
+- **13548**: The Meebles we were observing have been attacked! Oh, the Galkanity! The Elvaanity! The...I'm so flustered I can't think! Please save them! Without their cute little snouts and endearing gruff talk, what else is left in the world to enjoy!?
+- **13549**: Like moths to flame, the beasts in these caves are attracted to Subterranean Leohtfaet fire. Extinguish the torches to disperse the hordes...but not the Meebles. Spare the Meebles at all costs.
+- **13550**: Those adorable Meebles are at it again, collecting $3 like they were real miners. Indulge them in their harmless fantasy and try finding $3 at mining points throughout the caves. Pretty please?
+- **13551**: Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible.
+- **13552**: The goal of this expedition is to compile data regarding certain points within the burrows. For this one, they've even been pre-numbered for you! All you need to do is examine them in order from youngest to oldest. What, that's not how you say it? You mustn't be from around here.
+- **13553**: Those dastardly little buggers are breaking our Burrows Depthmarker! Show them that science always shines brightest by defending the Burrows Depthmarker for as long as possible!
+- **13554**: On this expedition, you'll have to make as many hot-tempered bombs as possible self-destruct. Sounds like your best bet is to insult their cooking. Thanks, I'll be here for all eternity.
+- **13555**: Moblins are supposedly gathering certain "elaborate parts" from treasure chests and fallen fiends. We don't know exactly what manner of confounding contraption they intend to contrive, but bring us enough parts and we'll <ahem> "piece it together."
+- **13556**: $0, huh? That'll grant you the following effects:
+- **13557**: # boons: [Cancel./Adjunct Expedition #1...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #2...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #3...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #4...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #1...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #2...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #3...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #4...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #1...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #2...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #3...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #4...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #4...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #4...[Lv.1/Lv.2/Lv.3].]
+- **13558**: Um...it looks like the grimoire you gave me is completely blank.
+- **13561**: Review specifics from which locale? [Sauromugue Champaign./Batallia Downs./None.]
+- **13562**: Expedition Specifics: [Cancel./Adjunct #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3].]
+- **13563**: Good job. Now it's time to record your latest discoveries in your $3.
+- **13564**: It looks like you've completed $0 goal[/s] on this last expedition. Now that everything's been recorded, you can have your grimoire back.
+- **13565**: You've completed all three goals!? Great! You're a credit to the Exploration Committee, <Player>, and more than worthy of your grimoire.
+- **13566**: Well, you may not have met any goals this time, but failures are the building blocks of success. Good luck next time!
+- **13567**: It must have been really hairy down there, huh? Oh, and as I explained before, we'll be needing that grimoire of yours for analysis.
+- **13568**: Here's a new grimoire we've prepared for you. Go on, take it.
+- **13569**: I'm part of the Meeble Burrows Exploration Committee, but I'm not allowed to say anything else about our operations right now. If you'd like to learn more, try talking with the Burrow Investigator in Upper Jeuno.
 
 ## Events
 
@@ -699,22 +699,22 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=13321*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=13322*)
     → "Have you heard of the Meebles before?"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=13322*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=13323*)
     → "They're a subterranean race of beastmen that strikingly resemble moles. No need to get your britches in a bunch if you haven't, though--studying them is our job."
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=13323*)
+  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=13324*)
     → "We, the Meeble Burrows Exploration Committee, have left no stone--figurative or real--unturned in our search for answers about this elusive species. Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat."
   7: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=13324*)
+  8: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=13325*)
     → "They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work throughout a network of burrows."
   9: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=13325*)
+ 10: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
     → "Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought..."
  11: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
+ 12: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
     → "Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community."
  13: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x001F [0x21] END_EVENT
@@ -1062,7 +1062,7 @@
  23: 0x0094 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[9]
  24: 0x0099 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0126
  25: 0x00A1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 26: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
+ 26: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13328*)
     → "Oho, I knew it was a good idea to prepare this grimoire. Here, it should help with your research."
  27: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00A6 [0x03] Work_Zone[1] = 1*
@@ -1070,7 +1070,7 @@
  30: 0x00AD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  31: 0x00AF [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
  32: 0x00B4 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 0*) GOTO 0x00CA
- 33: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=13328*)
+ 33: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=13329*)
     → "It looks like you can't carry any more. Try emptying some articles out and return when you have the room."
  34: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00C0 [0x03] Work_Zone[1] = 13*
@@ -1081,32 +1081,32 @@ SUBROUTINE_00EA:
  38: 0x00EA [0x03] Work_Zone[2] = 0*
  39: 0x00EF [0x03] Work_Zone[3] = 2146*
  40: 0x00F4 [0x03] Work_Zone[4] = 2145*
- 41: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13333*)
+ 41: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
     → "[You'll receive/I'll give you/I'll give you] $6 and $6 once you hand it over. After that's done, you're ready to go spelunking...unless you're the party leader."
  42: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
+ 43: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
     → "Then you'll have to talk to [the Burrow Researcher/me/me] again to decide which expedition to undertake."
  44: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
+ 45: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
     → "I must warn you, though, that some expeditions require everyone to make a unanimous decision."
  46: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
+ 47: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
     → "Once your party's expedition has been chosen, it's time to go spelunking."
  48: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
+ 49: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
     → "Have your party leader talk to the Meeble guarding the burrow entrance. He'll escort you to the right research site."
  50: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x010D [0x03] Work_Zone[3] = 5939*
- 52: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
+ 52: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=13339*)
     → "After you've finished an expedition, use $1 to return aboveground and report to [the Burrow Researcher in charge or me/me/me] to get your grimoire back."
  53: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=13339*)
+ 54: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
     → "Now for a word about grimoires. They impart various benefits depending on what expeditions you've completed."
  55: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
+ 56: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
     → "It's dangerous down there, so be sure to make use of your grimoire."
  57: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
+ 58: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=13342*)
     → "Finally, while there are many types of grimoires, they all share the same attributes. Feel free to change them out depending on your companions and the research assignment at hand."
  59: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1115,25 +1115,25 @@ SUBROUTINE_0122:
  61: 0x0123 [0x01] GOTO 0x01F9
  62: 0x0126 [0x02] IF !(0* == 0*) GOTO 0x016E
  63: 0x012E [0x02] IF !(ExtData[1]->WorkLocal[66] == 0*) GOTO 0x013D
- 64: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
+ 64: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
     → "Well, well, look who it is. What do you need this time?"
  65: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x013A [0x01] GOTO 0x016B
  67: 0x013D [0x02] IF !(ExtData[1]->WorkLocal[67] == 0*) GOTO 0x0167
  68: 0x0145 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 69: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
+ 69: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=13345*)
     → "Finally! I've been waiting for you this whole time."
  70: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=13345*)
+ 71: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=13346*)
     → "We thought we had a bead on the Meebles' habitat, but it turns out we were dead wrong. There's another set of caverns in the vicinity of Batallia Downs!"
  72: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=13346*)
+ 73: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=13347*)
     → "I can't understand how it remained buried for so long. Reports abound that the Moblins have expanded their base of operations and are employing Meebles for "nefarious deeds" once again."
  74: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13347*)
+ 75: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13348*)
     → "Now it's up to us, the Meeble Burrows Exploration Committee, to unearth heaping amounts of knowledge for our glorious archives! Oh, and maybe to save the day, too."
  76: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=13348*)
+ 77: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=13349*)
     → "How, you ask? By collecting as much information as possible through new expeditions and finally getting to the bottom of this Moblin nuisance! We're always in need of proven researchers like yourself, should you wish to join in the action."
  78: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x015A [0x03] Work_Zone[1] = 20*
@@ -1141,7 +1141,7 @@ SUBROUTINE_0122:
  81: 0x0161 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  82: 0x0163 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  83: 0x0164 [0x01] GOTO 0x016B
- 84: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
+ 84: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
     → "Well, well, look who it is. What do you need this time?"
  85: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1150,7 +1150,7 @@ SUBROUTINE_016B:
  87: 0x016E [0x02] IF !(0* == 1*) GOTO 0x01D0
  88: 0x0176 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0190
  89: 0x017E [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 90: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=13342*)
+ 90: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
     → "You must be the explorer my compatriot in Jeuno was talking about. What brings you here?"
  91: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0183 [0x03] Work_Zone[1] = 11*
@@ -1159,25 +1159,25 @@ SUBROUTINE_016B:
  95: 0x018C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  96: 0x018D [0x01] GOTO 0x01CD
  97: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[66] == 0*) GOTO 0x019F
- 98: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
+ 98: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
     → "Well, well, look who it is. What do you need this time?"
  99: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x019C [0x01] GOTO 0x01CD
 101: 0x019F [0x02] IF !(ExtData[1]->WorkLocal[67] == 0*) GOTO 0x01C9
 102: 0x01A7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-103: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
+103: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13345*)
     → "Finally! I've been waiting for you this whole time."
 104: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=13345*)
+105: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=13346*)
     → "We thought we had a bead on the Meebles' habitat, but it turns out we were dead wrong. There's another set of caverns in the vicinity of Batallia Downs!"
 106: 0x01AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13346*)
+107: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13347*)
     → "I can't understand how it remained buried for so long. Reports abound that the Moblins have expanded their base of operations and are employing Meebles for "nefarious deeds" once again."
 108: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-109: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13347*)
+109: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13348*)
     → "Now it's up to us, the Meeble Burrows Exploration Committee, to unearth heaping amounts of knowledge for our glorious archives! Oh, and maybe to save the day, too."
 110: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13348*)
+111: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13349*)
     → "How, you ask? By collecting as much information as possible through new expeditions and finally getting to the bottom of this Moblin nuisance! We're always in need of proven researchers like yourself, should you wish to join in the action."
 112: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x01BC [0x03] Work_Zone[1] = 20*
@@ -1185,7 +1185,7 @@ SUBROUTINE_016B:
 115: 0x01C3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 116: 0x01C5 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 117: 0x01C6 [0x01] GOTO 0x01CD
-118: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
+118: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
     → "Well, well, look who it is. What do you need this time?"
 119: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1194,7 +1194,7 @@ SUBROUTINE_01CD:
 121: 0x01D0 [0x02] IF !(0* == 2*) GOTO 0x01F9
 122: 0x01D8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x01F2
 123: 0x01E0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-124: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13342*)
+124: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
     → "You must be the explorer my compatriot in Jeuno was talking about. What brings you here?"
 125: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x01E5 [0x03] Work_Zone[1] = 11*
@@ -1202,7 +1202,7 @@ SUBROUTINE_01CD:
 128: 0x01EC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 129: 0x01EE [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 130: 0x01EF [0x01] GOTO 0x01F6
-131: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
+131: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13344*)
     → "Well, well, look who it is. What do you need this time?"
 132: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1227,13 +1227,13 @@ SUBROUTINE_01F9:
 SUBROUTINE_0240:
 147: 0x0240 [0x3E] IF !(ExtData[1]->WorkLocal[5] bit 6*) GOTO 0x025E
 148: 0x0247 [0x3E] IF !(ExtData[1]->WorkLocal[5] bit 12*) GOTO 0x0256
-149: 0x024E [0x03] ExtData[1]->WorkLocal[19] = 13350*
+149: 0x024E [0x03] ExtData[1]->WorkLocal[19] = 13351*
 150: 0x0253 [0x01] GOTO 0x025B
-151: 0x0256 [0x03] ExtData[1]->WorkLocal[19] = 13349*
+151: 0x0256 [0x03] ExtData[1]->WorkLocal[19] = 13350*
 
 SUBROUTINE_025B:
 152: 0x025B [0x01] GOTO 0x0263
-153: 0x025E [0x03] ExtData[1]->WorkLocal[19] = 13349*
+153: 0x025E [0x03] ExtData[1]->WorkLocal[19] = 13350*
 
 SUBROUTINE_0263:
 154: 0x0263 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=7*, condition_work_offset=1*)
@@ -1333,7 +1333,7 @@ SUBROUTINE_03FF:
 
 SUBROUTINE_0405:
 236: 0x0405 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0708
-237: 0x040D [0x24] CREATE_DIALOG(message_id=13351*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+237: 0x040D [0x24] CREATE_DIALOG(message_id=13352*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "Any questions? [No, not right now./How does this whole research thing work?/I...descend into underground caves!?/What are these grimoires about?/How do I begin an expedition?/What goes on after an expedition?/What dastardly foes lurk down below?/Any rhyme or reason to these burrows?/What are research marks?/Can you tell me about the Meebles?/What is grimoire engraving?/Could you tell me about wizened worms?/Palimpsests? Huh?]"
 238: 0x0414 [0x25] WAIT_DIALOG_SELECT()
 239: 0x0415 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0426
@@ -1342,14 +1342,14 @@ SUBROUTINE_0405:
 242: 0x0423 [0x01] GOTO 0x0700
 243: 0x0426 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0480
 244: 0x042E [0x02] IF !(0* == 0*) GOTO 0x0441
-245: 0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=13330*)
+245: 0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=13331*)
     → "Let's see if I can do this. First, form a party of one to six people. Next, trade your grimoire to the Burrow Researcher in charge of the burrows you're investigating."
 246: 0x0439 [0x23] WAIT_FOR_DIALOG_INTERACTION
-247: 0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=13331*)
+247: 0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=13332*)
     → "If the need arises, I can always transport you there."
 248: 0x043D [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x043E [0x01] GOTO 0x0445
-250: 0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=13332*)
+250: 0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=13333*)
     → "Alright, here goes nothing. First, form a party of one to six people. Next, trade your grimoire to me."
 251: 0x0444 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1357,71 +1357,71 @@ SUBROUTINE_0445:
 252: 0x0445 [0x03] Work_Zone[2] = 0*
 253: 0x044A [0x03] Work_Zone[3] = 2146*
 254: 0x044F [0x03] Work_Zone[4] = 2145*
-255: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=13333*)
+255: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
     → "[You'll receive/I'll give you/I'll give you] $6 and $6 once you hand it over. After that's done, you're ready to go spelunking...unless you're the party leader."
 256: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
+257: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
     → "Then you'll have to talk to [the Burrow Researcher/me/me] again to decide which expedition to undertake."
 258: 0x045B [0x23] WAIT_FOR_DIALOG_INTERACTION
-259: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
+259: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
     → "I must warn you, though, that some expeditions require everyone to make a unanimous decision."
 260: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
-261: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=13336*)
+261: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
     → "Once your party's expedition has been chosen, it's time to go spelunking."
 262: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
-263: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=13337*)
+263: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
     → "Have your party leader talk to the Meeble guarding the burrow entrance. He'll escort you to the right research site."
 264: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0468 [0x03] Work_Zone[3] = 5939*
-266: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
+266: 0x046D [0x1D] PRINT_EVENT_MESSAGE(message_id=13339*)
     → "After you've finished an expedition, use $1 to return aboveground and report to [the Burrow Researcher in charge or me/me/me] to get your grimoire back."
 267: 0x0470 [0x23] WAIT_FOR_DIALOG_INTERACTION
-268: 0x0471 [0x1D] PRINT_EVENT_MESSAGE(message_id=13339*)
+268: 0x0471 [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
     → "Now for a word about grimoires. They impart various benefits depending on what expeditions you've completed."
 269: 0x0474 [0x23] WAIT_FOR_DIALOG_INTERACTION
-270: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=13340*)
+270: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
     → "It's dangerous down there, so be sure to make use of your grimoire."
 271: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
-272: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=13341*)
+272: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=13342*)
     → "Finally, while there are many types of grimoires, they all share the same attributes. Feel free to change them out depending on your companions and the research assignment at hand."
 273: 0x047C [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x047D [0x01] GOTO 0x0700
 275: 0x0480 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x049B
-276: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=13352*)
+276: 0x0488 [0x1D] PRINT_EVENT_MESSAGE(message_id=13353*)
     → "You adventurers can help us collect data by embarking on certain expeditions belowground. The goals and activities for each journey you undertake will vary, so this won't be just some routine experiment."
 277: 0x048B [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=13353*)
+278: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=13354*)
     → "Although these subterranean caverns may appear simplistic from the outside, their twisting corridors disorient even the Moblins. Be careful."
 279: 0x048F [0x23] WAIT_FOR_DIALOG_INTERACTION
-280: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=13354*)
+280: 0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=13355*)
     → "Of course, you'll have to prove your problem-solving skills during more forgiving operations before we let you tackle the truly scary stuff."
 281: 0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
-282: 0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=13355*)
+282: 0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=13356*)
     → "Each expedition has a total of three goals for you to achieve. Complete just one goal or up to all three--the choice is yours. However, it should go without saying that the more goals you achieve, the better the reward."
 283: 0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x0498 [0x01] GOTO 0x0700
 285: 0x049B [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x04CF
-286: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13357*)
+286: 0x04A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13358*)
     → "Grimoires are types of magical books that ancient sorcerers brandished in battle long, long ago. Now that they've been unearthed again, we can use them for our benefit."
 287: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-288: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13358*)
+288: 0x04A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13359*)
     → "What's the point of adapting them for use in the burrows? Why, to record the feats of explorers like you. Without them, it would be much harder to complete expeditions."
 289: 0x04AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-290: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13359*)
+290: 0x04AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13360*)
     → "Like I said, they're no picture books for children. They grant powerful effects for each expedition you finish."
 291: 0x04AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-292: 0x04AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13360*)
+292: 0x04AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13361*)
     → "These boons pack a punch from the get-go, but completing expeditions also allows you to increase their potency twice! See, I'm sure these grimoires will prove useful in your studies of the Meebles' tunnels."
 293: 0x04B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-294: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13361*)
+294: 0x04B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13362*)
     → "Just to warn you beforehand, though, boons that affect Auto-Reraise and spoils cannot have their potency increased."
 295: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-296: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13362*)
+296: 0x04B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13363*)
     → "Another catch is that only the effects of your leader's tome may be bestowed upon your party for normal expeditions. Hopefully that should be all the firepower you need, though."
 297: 0x04BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x04BB [0x02] IF !(ExtData[1]->WorkLocal[0] > 2*) GOTO 0x04CC
 299: 0x04C3 [0x03] Work_Zone[2] = 2*
-300: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13363*)
+300: 0x04C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13364*)
     → "At the moment we only have $0 types of grimoires available, but we do plan on adding to that number eventually."
 301: 0x04CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x04CC [0x01] GOTO 0x0700
@@ -1430,75 +1430,75 @@ SUBROUTINE_0445:
 305: 0x04DC [0x03] Work_Zone[3] = 2146*
 306: 0x04E1 [0x03] Work_Zone[4] = 2145*
 307: 0x04E6 [0x02] IF !(0* == 0*) GOTO 0x04F5
-308: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13364*)
+308: 0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13365*)
     → "When you want to start a new expedition, just hand over your grimoire to the Burrow Researcher in charge of the burrows you're investigating."
 309: 0x04F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x04F2 [0x01] GOTO 0x04F9
-311: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13365*)
+311: 0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13366*)
     → "When you want to start a new expedition, just hand over your grimoire to me."
 312: 0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F9:
-313: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13366*)
+313: 0x04F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13367*)
     → "Once you do that, [he'll/I'll/I'll] dole out $6 and $6."
 314: 0x04FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13367*)
+315: 0x04FD [0x1D] PRINT_EVENT_MESSAGE(message_id=13368*)
     → "Those're the only supplies you'll need to start spelunking, but not so fast. You first have to decide what expedition you'll undertake."
 316: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0501 [0x02] IF !(0* == 0*) GOTO 0x0510
-318: 0x0509 [0x1D] PRINT_EVENT_MESSAGE(message_id=13369*)
+318: 0x0509 [0x1D] PRINT_EVENT_MESSAGE(message_id=13370*)
     → "It may seem like a lot to handle, but there's no need to start shaking in your boots. The Burrow Researcher in charge of the burrows you're investigating will help you make all the necessary preparations for that based on your grimoire's records."
 319: 0x050C [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x050D [0x01] GOTO 0x0514
-321: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=13368*)
+321: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=13369*)
     → "I'll help you make the necessary preparations for that based on your grimoire's records."
 322: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0514:
-323: 0x0514 [0x1D] PRINT_EVENT_MESSAGE(message_id=13370*)
+323: 0x0514 [0x1D] PRINT_EVENT_MESSAGE(message_id=13371*)
     → "Only then can your party leader declare which journey you and your companions shall embark upon."
 324: 0x0517 [0x23] WAIT_FOR_DIALOG_INTERACTION
-325: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=13372*)
+325: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=13373*)
     → "Oh, and before I forget--for particularly grueling endeavors, everyone must sign up individually. The higher-ups like to think of it as "exonerating the committee from responsibility" or something I don't understand."
 326: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=13373*)
+327: 0x051C [0x1D] PRINT_EVENT_MESSAGE(message_id=13374*)
     → "After signing up, you'll <cough> almost <cough> be ready to set off. The thing is...Meebles[/, like that one over there,/, like that one over there,] roam the mouth of the burrows."
 328: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
-329: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=13374*)
+329: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=13375*)
     → "They don't trust anyone but the Moblins, so you'll have to dance like Moblins, prance like Moblins, and even romance like Moblins to gain access to the caves."
 330: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
-331: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=13375*)
+331: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=13376*)
     → "...Actually, you'll only need to stink like Moblins. I can give you $6 in exchange for a grimoire to make sure you smell the part."
 332: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x0528 [0x1D] PRINT_EVENT_MESSAGE(message_id=13376*)
+333: 0x0528 [0x1D] PRINT_EVENT_MESSAGE(message_id=13377*)
     → "Don't worry, this method is tried and true. Meebles have very bad eyesight, so they mostly use their sense of smell to determine who's who."
 334: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
-335: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=13377*)
+335: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=13378*)
     → "That sense of smell, however, is unrivaled. Even if you're the only one who isn't carrying $6, they'll sniff you out in an instant."
 336: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x0530 [0x02] IF !(0* == 0*) GOTO 0x053B
 338: 0x0538 [0x01] GOTO 0x053F
-339: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=13378*)
+339: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=13379*)
     → "In fact, the only reason I haven't been turned into Galka gristle after standing here so long is because I keep one on me at all times."
 340: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_053F:
-341: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=13379*)
+341: 0x053F [0x1D] PRINT_EVENT_MESSAGE(message_id=13380*)
     → "Once the $3 does its thing and the Meebles take you down into their burrows, you're free to experiment all you want."
 342: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
-343: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=13380*)
+343: 0x0543 [0x1D] PRINT_EVENT_MESSAGE(message_id=13381*)
     → "...Oh, but if you ever let enthusiasm get the best of you and forget your objectives, just use $6 to remind yourself."
 344: 0x0546 [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=13381*)
+345: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=13382*)
     → "There should be Speleological Handbooks secretly placed by our members all over the burrows."
 346: 0x054A [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=13382*)
+347: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=13383*)
     → "Holding your $3 up to one should do the trick."
 348: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
-349: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=13383*)
+349: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=13384*)
     → "They can also serve as a way to record your underground activities."
 350: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
-351: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=13384*)
+351: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=13385*)
     → "Once you finish an expedition, any information you record will have to be reflected in your grimoire."
 352: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0557 [0x01] GOTO 0x0700
@@ -1508,64 +1508,64 @@ SUBROUTINE_053F:
 357: 0x056C [0x03] Work_Zone[4] = 2145*
 358: 0x0571 [0x03] Work_Zone[5] = 5938*
 359: 0x0576 [0x03] Work_Zone[6] = 2146*
-360: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=13385*)
+360: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=13386*)
     → "You'll be given $1 after completing an expedition."
 361: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=13386*)
+362: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=13387*)
     → "One puff on your $1 will allow your whole posse to climb back aboveground."
 363: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0583 [0x02] IF !(0* == 0*) GOTO 0x0592
-365: 0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=13387*)
+365: 0x058B [0x1D] PRINT_EVENT_MESSAGE(message_id=13388*)
     → "After making your escape, there's only one thing left to do. Pay a visit to either the appropriate Burrow Researcher or me and show him your $3."
 366: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
 367: 0x058F [0x01] GOTO 0x0596
-368: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=13388*)
+368: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=13389*)
     → "After making your escape, you can show your $3 to me."
 369: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0596:
-370: 0x0596 [0x1D] PRINT_EVENT_MESSAGE(message_id=13389*)
+370: 0x0596 [0x1D] PRINT_EVENT_MESSAGE(message_id=13390*)
     → "[One of us will/I'll/I'll] reference the data you've collected and catalog it in your grimoire."
 371: 0x0599 [0x23] WAIT_FOR_DIALOG_INTERACTION
-372: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=13390*)
+372: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=13391*)
     → "If you ever need to escape before completing an expedition, though, you can always use $3 instead."
 373: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
-374: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=13391*)
+374: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=13392*)
     → "Sadly, using $3 allows only its bearer to come up for air. Don't forget to show your $3 once you exit, even if you've bowed out midway through."
 375: 0x05A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-376: 0x05A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13392*)
+376: 0x05A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13393*)
     → "There's nothing wrong with leaving in the middle of an expedition. You'll never be penalized for it, as we wouldn't want to weaken your adventuring spirit."
 377: 0x05A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-378: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13393*)
+378: 0x05A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13394*)
     → "Oh, and if you've been wondering how to get ahold of one of these $3, you'll get one from the Meeble guarding the entrance."
 379: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x05AA [0x01] GOTO 0x0700
 381: 0x05AD [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x05DC
-382: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13394*)
+382: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13395*)
     → "Some scary, twisted fiends roam the depths of these caverns...at least that's what our scouts who come back alive tell me. Of course, you'll likely come face-to-face with these nightmares, too."
 383: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-384: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13395*)
+384: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13396*)
     → "Why? Well, because you'll be tasked with culling one of them after completing the first four expeditions in a course. That's why."
 385: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-386: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13396*)
+386: 0x05BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13397*)
     → "Whether you choose to accept such a dangerous mission is all up to you. However, keep this in mind."
 387: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-388: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13397*)
+388: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13398*)
     → "Accepting such an assignment means you'll never get back any grimoires we're holding for you."
 389: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-390: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13398*)
+390: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13399*)
     → "That's right. We'll need to archive all the precious data you've collected. Jeuno wasn't built in a day, and the same goes for our analysis of Meeble Burrows."
 391: 0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-392: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13399*)
+392: 0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13400*)
     → "Oh, I almost forgot. For extremely harrowing journeys such as these, everyone must sign up individually."
 393: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-394: 0x05CD [0x1D] PRINT_EVENT_MESSAGE(message_id=13400*)
+394: 0x05CD [0x1D] PRINT_EVENT_MESSAGE(message_id=13401*)
     → "This way we can be absolutely sure that everyone's prepared for the task at hand. We wouldn't want people without enough experience getting hurt down there."
 395: 0x05D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-396: 0x05D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13401*)
+396: 0x05D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13402*)
     → "In return for your cooperation (or to make sure you truly survive), I'll bestow on your whole party the boons everyone has received up until now."
 397: 0x05D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-398: 0x05D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13402*)
+398: 0x05D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13403*)
     → "This way you'll all be at your best to face the worst...in the name of science!"
 399: 0x05D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x05D9 [0x01] GOTO 0x0700
@@ -1582,135 +1582,135 @@ SUBROUTINE_0596:
 411: 0x0611 [0x03] Work_Zone[5] = 0*
 
 SUBROUTINE_0616:
-412: 0x0616 [0x1D] PRINT_EVENT_MESSAGE(message_id=13403*)
+412: 0x0616 [0x1D] PRINT_EVENT_MESSAGE(message_id=13404*)
     → "This may seem obvious, but you can't just mull around all you want down there."
 413: 0x0619 [0x23] WAIT_FOR_DIALOG_INTERACTION
-414: 0x061A [0x1D] PRINT_EVENT_MESSAGE(message_id=13404*)
+414: 0x061A [0x1D] PRINT_EVENT_MESSAGE(message_id=13405*)
     → "Even if you can use $6 to confuse the Meebles, they aren't stupid enough to ignore you forever."
 415: 0x061D [0x23] WAIT_FOR_DIALOG_INTERACTION
-416: 0x061E [0x1D] PRINT_EVENT_MESSAGE(message_id=13405*)
+416: 0x061E [0x1D] PRINT_EVENT_MESSAGE(message_id=13406*)
     → "That's why we've set a $2-minute limit per expedition (Earth time). We want to limit the number of casualties to as few as possible. Safety first, that's our motto."
 417: 0x0621 [0x23] WAIT_FOR_DIALOG_INTERACTION
-418: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=13406*)
+418: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=13407*)
     → "You should also know that we only give out one $3 every $1 [hour/minute][/s] (Earth time)."
 419: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
 420: 0x0626 [0x03] Work_Zone[5] = 10*
-421: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=13407*)
+421: 0x062B [0x1D] PRINT_EVENT_MESSAGE(message_id=13408*)
     → "We do want you to be the best researcher you can be, though... How about we give you $3 $5 as a first-time offer? That way you can learn the ropes faster."
 422: 0x062E [0x23] WAIT_FOR_DIALOG_INTERACTION
-423: 0x062F [0x1D] PRINT_EVENT_MESSAGE(message_id=13408*)
+423: 0x062F [0x1D] PRINT_EVENT_MESSAGE(message_id=13409*)
     → "It took us a while to realize, but the health of our explorers started failing after they'd carry multiple pouches for long periods of time."
 424: 0x0632 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x0633 [0x1A] CALL_SUBROUTINE(address=0x03D5)
 426: 0x0636 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[69]
-427: 0x063B [0x1D] PRINT_EVENT_MESSAGE(message_id=13409*)
+427: 0x063B [0x1D] PRINT_EVENT_MESSAGE(message_id=13410*)
     → "On the bright side, I'm bound by the Meeble Burrows Exploration Committee code to keep up to $3 of them for you. Don't ask why the pouches don't affect me. And if you make a joke about my mother being a Moblin..."
 428: 0x063E [0x23] WAIT_FOR_DIALOG_INTERACTION
 429: 0x063F [0x02] IF !(ExtData[1]->WorkLocal[69] == 16*) GOTO 0x064A
 430: 0x0647 [0x01] GOTO 0x064E
-431: 0x064A [0x1D] PRINT_EVENT_MESSAGE(message_id=13410*)
+431: 0x064A [0x1D] PRINT_EVENT_MESSAGE(message_id=13411*)
     → "I may be haler and heartier than the average Galka, but there's only so much of that stench I can take. If you need more pouches than I can carry, you'd better get yourself a pherobarrier box."
 432: 0x064D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_064E:
-433: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=13411*)
+433: 0x064E [0x1D] PRINT_EVENT_MESSAGE(message_id=13412*)
     → "Mind if I change to a fairer smelling subject now?"
 434: 0x0651 [0x23] WAIT_FOR_DIALOG_INTERACTION
-435: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=13412*)
+435: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=13413*)
     → "In the event that the spirits haunting these caverns disallow one of your brethren entry, just return aboveground within three minutes without completing any objectives. You'll be refunded your $3 at no cost!"
 436: 0x0655 [0x23] WAIT_FOR_DIALOG_INTERACTION
-437: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=13413*)
+437: 0x0656 [0x1D] PRINT_EVENT_MESSAGE(message_id=13414*)
     → "How nice of the committee, right? Now you don't have to burst a blood vessel if something happens during your descent."
 438: 0x0659 [0x23] WAIT_FOR_DIALOG_INTERACTION
 439: 0x065A [0x01] GOTO 0x0700
 440: 0x065D [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0674
-441: 0x0665 [0x1D] PRINT_EVENT_MESSAGE(message_id=13414*)
+441: 0x0665 [0x1D] PRINT_EVENT_MESSAGE(message_id=13415*)
     → "We may have many limits and regulations, but we're not heartless. We also dole out "research marks" to those who help us learn about Meeble Burrows."
 442: 0x0668 [0x23] WAIT_FOR_DIALOG_INTERACTION
-443: 0x0669 [0x1D] PRINT_EVENT_MESSAGE(message_id=13415*)
+443: 0x0669 [0x1D] PRINT_EVENT_MESSAGE(message_id=13416*)
     → "How do you get them? It's simple. The more you accomplish down there, the more marks you receive. You can also turn in marks for certain items and equipment."
 444: 0x066C [0x23] WAIT_FOR_DIALOG_INTERACTION
-445: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=13416*)
+445: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=13417*)
     → "There's no need to be a forlorn funguar, either. The more fellow researchers on your expedition, the more marks you reap. "The more the merrier" has never rung more true!"
 446: 0x0670 [0x23] WAIT_FOR_DIALOG_INTERACTION
 447: 0x0671 [0x01] GOTO 0x0700
 448: 0x0674 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x068F
-449: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=13417*)
+449: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=13418*)
     → "Our results suggest that Meebles are rather docile creatures, with little if any culture to speak of. They shouldn't pose much of a threat."
 450: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
-451: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=13418*)
+451: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=13419*)
     → "They're easily manipulated, though, and the Moblins have taken advantage of that. They put the Meebles to work in caverns all over the realm."
 452: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
-453: 0x0684 [0x1D] PRINT_EVENT_MESSAGE(message_id=13419*)
+453: 0x0684 [0x1D] PRINT_EVENT_MESSAGE(message_id=13420*)
     → "Meeble Burrows may be a quaint name, but what sort of fiends lurk amongst these dank caverns? Why are the Moblins making Meebles do their dirty work? And how large are these underground tunnels anyway? Maybe we haven't learned as much about the Meebles and their habitat as we thought..."
 454: 0x0687 [0x23] WAIT_FOR_DIALOG_INTERACTION
-455: 0x0688 [0x1D] PRINT_EVENT_MESSAGE(message_id=13420*)
+455: 0x0688 [0x1D] PRINT_EVENT_MESSAGE(message_id=13421*)
     → "Wait...if you don't mind crawling through caves and dirtying your own hands for a good cause, how about joining in the exploration? We could use another pair of eyes down there. Just talk to me when you decide you'd like to help the scientific community."
 456: 0x068B [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x068C [0x01] GOTO 0x0700
 458: 0x068F [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x06BE
-459: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=13421*)
+459: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=13422*)
     → "I'm sure I don't have to lecture you on receiving certain boons from your grimoire depending on the expeditions you've completed."
 460: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
-461: 0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=13422*)
+461: 0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=13423*)
     → "But you do remember that boons from one grimoire can't be applied to another, right?"
 462: 0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
-463: 0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=13423*)
+463: 0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=13424*)
     → "Even worse, you build a relationship with your grimoire only to have it stolen away from you by some unfeeling bookworms right before you set off to slay the most fearsome of monsters!"
 464: 0x06A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-465: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13424*)
+465: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13425*)
     → "Well, even if you don't remember, those days are long gone! That's the wonderful thing about science--it progresses!"
 466: 0x06A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-467: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13425*)
+467: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13426*)
     → "We've identified unique arcane essences that are released with the completion of some goals and imbue the ink of our pens as we record your exploits."
 468: 0x06AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-469: 0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13426*)
+469: 0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13427*)
     → "Using these essences, we can reconstruct the boons you've received from your grimoire records. Let me explain."
 470: 0x06AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-471: 0x06AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13427*)
+471: 0x06AF [0x1D] PRINT_EVENT_MESSAGE(message_id=13428*)
     → "If you had completed Adjunct Expedition #1, we could inscribe the boons from that expedition onto a blank grimoire."
 472: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-473: 0x06B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13428*)
+473: 0x06B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13429*)
     → "Of course the boon would be the same as the one granted from completing that expedition...except for the fact that we can only inscribe level one boons into grimoires. Sorry, but the process is not yet perfect."
 474: 0x06B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-475: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13429*)
+475: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13430*)
     → "Want to know what else isn't perfect? These inscriptions aren't free. It's sad, but grimoires and pheromone sacks don't sprout from the ground, you know!"
 476: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x06BB [0x01] GOTO 0x0700
 478: 0x06BE [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x06E1
-479: 0x06C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13430*)
+479: 0x06C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13431*)
     → "Meebles use their long sniffers to snuff up odds and ends from the burrow floor."
 480: 0x06C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-481: 0x06CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13431*)
+481: 0x06CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13432*)
     → "According to our latest scouting report, they dredged up some things called... Give me a minute here..."
 482: 0x06CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-483: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13432*)
+483: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13433*)
     → "Palimpsests? I may not have the biggest brain this side of the Sea of Shu'Meyo, but I do know that these papers are some powerful stuff."
 484: 0x06D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-485: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13433*)
+485: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13434*)
     → "The MBEC now also gives away wizened worms to adventurers who complete objectives."
 486: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-487: 0x06D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13434*)
+487: 0x06D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13435*)
     → "Meebles love their wizened worms, and how. Quite a non sequitur I pulled on you, right?"
 488: 0x06D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-489: 0x06DA [0x1D] PRINT_EVENT_MESSAGE(message_id=13435*)
+489: 0x06DA [0x1D] PRINT_EVENT_MESSAGE(message_id=13436*)
     → "Except it's not! Give the Meebles that guard the burrow entrances some of those water-starved wrigglers and they'll give you stuff in return...possibly even some parades...sorry, palisades...uh, palimpsests."
 490: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 491: 0x06DE [0x01] GOTO 0x0700
 492: 0x06E1 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0700
-493: 0x06E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13436*)
+493: 0x06E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13437*)
     → "Ridiculous name, I know. I can barely say it. These palimpsests are types of magical paper that temporarily aid everyone in your troop."
 494: 0x06EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-495: 0x06ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13437*)
+495: 0x06ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13438*)
     → "All you need to do is trade it to the grimoire inside the caverns and you're good to go."
 496: 0x06F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-497: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13438*)
+497: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13439*)
     → "I haven't been able to use it myself yet, so this might not be true. Still, a friend of a friend told me that while each piece of parchment has three possible effects, you can only choose one!"
 498: 0x06F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-499: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13439*)
+499: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13440*)
     → "Don't worry, he assures me that you can choose your desired effect through the wonders of that grimoire down there."
 500: 0x06F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-501: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13440*)
+501: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13441*)
     → "If you want the beat-'em-up power of all three effects, though, you'll need to gather three pieces of parchment."
 502: 0x06FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 503: 0x06FD [0x01] GOTO 0x0700
@@ -1732,18 +1732,18 @@ SUBROUTINE_071E:
 
 SUBROUTINE_0724:
 513: 0x0724 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0773
-514: 0x072C [0x24] CREATE_DIALOG(message_id=13441*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+514: 0x072C [0x24] CREATE_DIALOG(message_id=13442*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "To where will you travel? [The Sauromugue Champaign caverns./The Batallia Downs caverns./Nowhere.]"
 515: 0x0733 [0x25] WAIT_DIALOG_SELECT()
 516: 0x0734 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x074B
-517: 0x073C [0x1D] PRINT_EVENT_MESSAGE(message_id=13442*)
+517: 0x073C [0x1D] PRINT_EVENT_MESSAGE(message_id=13443*)
     → "So, you want to head to the caverns? Alright, I'll make sure you reach Sauromugue Champaign safely...when you're ready, that is."
 518: 0x073F [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x0740 [0x03] ExtData[1]->WorkLocal[6] = 1*
 520: 0x0745 [0x1A] CALL_SUBROUTINE(address=0x0774)
 521: 0x0748 [0x01] GOTO 0x0770
 522: 0x074B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0762
-523: 0x0753 [0x1D] PRINT_EVENT_MESSAGE(message_id=13443*)
+523: 0x0753 [0x1D] PRINT_EVENT_MESSAGE(message_id=13444*)
     → "So, you want to head to the caverns? Alright, I'll make sure you reach Batallia Downs safely...when you're ready, that is."
 524: 0x0756 [0x23] WAIT_FOR_DIALOG_INTERACTION
 525: 0x0757 [0x03] ExtData[1]->WorkLocal[6] = 2*
@@ -1758,7 +1758,7 @@ SUBROUTINE_0770:
 532: 0x0773 [0x1B] RETURN
 
 SUBROUTINE_0774:
-533: 0x0774 [0x24] CREATE_DIALOG(message_id=13444*, default_option=1*, option_flags=0*)
+533: 0x0774 [0x24] CREATE_DIALOG(message_id=13445*, default_option=1*, option_flags=0*)
     → "Well, are you ready? [Ready as ever./Not quite yet.]"
 534: 0x077B [0x25] WAIT_DIALOG_SELECT()
 535: 0x077C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C3
@@ -1795,24 +1795,24 @@ SUBROUTINE_0811:
 562: 0x083D [0x03] ExtData[1]->WorkLocal[59] = Work_Zone[8]
 563: 0x0842 [0x02] IF !(ExtData[1]->WorkLocal[14] == 4294967294*) GOTO 0x0854
 564: 0x084A [0x03] Work_Zone[2] = 1*
-565: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=13453*)
+565: 0x084F [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
     → "Our coffers are empty. We don't have anything available for [exchange/purchase]."
 566: 0x0852 [0x23] WAIT_FOR_DIALOG_INTERACTION
 567: 0x0853 [0x1B] RETURN
 568: 0x0854 [0x02] IF !(ExtData[1]->WorkLocal[68] <= ExtData[1]->WorkLocal[0]) GOTO 0x0877
 569: 0x085C [0x02] IF !(ExtData[1]->WorkLocal[13] <= 0*) GOTO 0x0870
-570: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
+570: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
     → "In the market for a grimoire, eh? Just so you know, we've finally got some new volumes in stock. Maybe that'll change your decision?"
 571: 0x0867 [0x23] WAIT_FOR_DIALOG_INTERACTION
 572: 0x0868 [0x03] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[68]
 573: 0x086D [0x01] GOTO 0x0874
-574: 0x0870 [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
+574: 0x0870 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
     → "In the market for a grimoire, eh? What'll it be?"
 575: 0x0873 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0874:
 576: 0x0874 [0x01] GOTO 0x087B
-577: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
+577: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
     → "In the market for a grimoire, eh? What'll it be?"
 578: 0x087A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1823,7 +1823,7 @@ SUBROUTINE_087B:
 582: 0x0888 [0x03] Work_Zone[4] = 3877*
 583: 0x088D [0x03] Work_Zone[5] = 3878*
 584: 0x0892 [0x03] Work_Zone[6] = 3879*
-585: 0x0897 [0x24] CREATE_DIALOG(message_id=13447*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
+585: 0x0897 [0x24] CREATE_DIALOG(message_id=13448*, default_option=0*, option_flags=ExtData[1]->WorkLocal[14])
     → "Which grimoire do you want? [None at the moment./#./$1./$2./$3./$4.]"
 586: 0x089E [0x25] WAIT_DIALOG_SELECT()
 587: 0x089F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08AB
@@ -1835,13 +1835,13 @@ SUBROUTINE_08AB:
 591: 0x08B8 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[24])
 592: 0x08BB [0x03] Work_Zone[2] = 200*
 593: 0x08C0 [0x03] Work_Zone[3] = 2000*
-594: 0x08C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
+594: 0x08C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13449*)
     → "I'll accept either $0 research mark[/s] or $1 gil for that. So, how'll you pay?"
 595: 0x08C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x08C9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 597: 0x08CC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[15]
 598: 0x08D1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[59]
-599: 0x08D6 [0x24] CREATE_DIALOG(message_id=13449*, default_option=0*, option_flags=0*)
+599: 0x08D6 [0x24] CREATE_DIALOG(message_id=13450*, default_option=0*, option_flags=0*)
     → "How will you pay? [I don't want anything anymore./In research marks. (Marks: $2)/In gil. (Current gil: $3)]"
 600: 0x08DD [0x25] WAIT_DIALOG_SELECT()
 601: 0x08DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08EA
@@ -1851,20 +1851,20 @@ SUBROUTINE_092C:
 603: 0x092C [0x1B] RETURN
 
 SUBROUTINE_092D:
-604: 0x092D [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
+604: 0x092D [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
     → "Oh, so you want to abandon your current expedition?"
 605: 0x0930 [0x23] WAIT_FOR_DIALOG_INTERACTION
 606: 0x0931 [0x3E] IF !(ExtData[1]->WorkLocal[5] bit 12*) GOTO 0x093C
-607: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
+607: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
     → "...But then all the discoveries you've made during it will be discarded. Is that alright with you?"
 608: 0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
-609: 0x093C [0x24] CREATE_DIALOG(message_id=13456*, default_option=1*, option_flags=0*)
+609: 0x093C [0x24] CREATE_DIALOG(message_id=13457*, default_option=1*, option_flags=0*)
     → "Have your grimoire returned? [Yes./No.]"
 610: 0x0943 [0x25] WAIT_DIALOG_SELECT()
 611: 0x0944 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x096E
 612: 0x094C [0x42] SET_CLI_EVENT_CANCEL_DATA()
 613: 0x094D [0x03] Work_Zone[2] = 2145*
-614: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=13457*)
+614: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
     → "Fine, but you'll have to give me back your $3."
 615: 0x0955 [0x23] WAIT_FOR_DIALOG_INTERACTION
 616: 0x0956 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=6*)
@@ -1878,7 +1878,7 @@ SUBROUTINE_0979:
 622: 0x0979 [0x1B] RETURN
 
 SUBROUTINE_097A:
-623: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=13458*)
+623: 0x097A [0x1D] PRINT_EVENT_MESSAGE(message_id=13459*)
     → "Turning in your research marks, I see. Very well. What'll it be?"
 624: 0x097D [0x23] WAIT_FOR_DIALOG_INTERACTION
 625: 0x097E [0x06] ExtData[1]->WorkLocal[23] = 0
@@ -1923,7 +1923,7 @@ SUBROUTINE_0A30:
 656: 0x0A30 [0x41] ExtData[1]->WorkLocal[7] = ExtData[1]->WorkLocal[5] (bits 29*-31*)
 657: 0x0A39 [0x02] IF !(ExtData[1]->WorkLocal[7] == 7*) GOTO 0x0A48
 658: 0x0A41 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[26], bit_index_work_offset=3*, condition_work_offset=1*)
-659: 0x0A48 [0x24] CREATE_DIALOG(message_id=13459*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+659: 0x0A48 [0x24] CREATE_DIALOG(message_id=13460*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "What goods are you looking for? [Dispensables./Sauromugue Champaign rewards./Batallia Downs rewards./Pherobarrier box./None, thanks.]"
 660: 0x0A4F [0x25] WAIT_DIALOG_SELECT()
 661: 0x0A50 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0A5E
@@ -1980,7 +1980,7 @@ SUBROUTINE_0AC9:
 SUBROUTINE_0B42:
 703: 0x0B42 [0x0F] ExtData[1]->WorkLocal[26] ^= 4294967295*
 704: 0x0B47 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[26], bit_index_work_offset=7*, condition_work_offset=1*)
-705: 0x0B4E [0x24] CREATE_DIALOG(message_id=13460*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+705: 0x0B4E [0x24] CREATE_DIALOG(message_id=13461*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "What goods are you looking for? [Adjunct rewards./Assistant rewards./Instructor rewards./Ast. Researcher rewards./Researcher rewards./Researcher Em. rewards./Total completion rewards./None, thanks.]"
 706: 0x0B55 [0x25] WAIT_DIALOG_SELECT()
 707: 0x0B56 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0B64
@@ -2006,7 +2006,7 @@ SUBROUTINE_0B7E:
 721: 0x0B9B [0x03] Work_Zone[3] = 1000*
 722: 0x0BA0 [0x03] Work_Zone[4] = 5000*
 723: 0x0BA5 [0x03] Work_Zone[5] = 10000*
-724: 0x0BAA [0x24] CREATE_DIALOG(message_id=13464*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+724: 0x0BAA [0x24] CREATE_DIALOG(message_id=13465*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "Redeem research marks? (Marks: $0) [Paper pherobarrier box. ($1 marks)/Wooden pherobarrier box. ($2 marks)/Leather pherobarrier box. ($3 marks)/No.]"
 725: 0x0BB1 [0x25] WAIT_DIALOG_SELECT()
 726: 0x0BB2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BC2
@@ -2027,10 +2027,10 @@ SUBROUTINE_0BF0:
 739: 0x0BF5 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0C45
 740: 0x0BFD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 741: 0x0C02 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[12]
-742: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13465*)
+742: 0x0C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=13466*)
     → "A [paper/wooden/leather] pherobarrier box is going to run you $1 marks. Is that okay with you?"
 743: 0x0C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-744: 0x0C0B [0x24] CREATE_DIALOG(message_id=13463*, default_option=1*, option_flags=0*)
+744: 0x0C0B [0x24] CREATE_DIALOG(message_id=13464*, default_option=1*, option_flags=0*)
     → "Redeem research marks? (Marks: $2) [Yes./Never mind.]"
 745: 0x0C12 [0x25] WAIT_DIALOG_SELECT()
 746: 0x0C13 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C3A
@@ -2125,7 +2125,7 @@ SUBROUTINE_0D6C:
 821: 0x0D83 [0x03] Work_Zone[5] = Work_Zone_1700[15]
 822: 0x0D88 [0x03] Work_Zone[6] = Work_Zone_1700[16]
 823: 0x0D8D [0x03] Work_Zone[7] = Work_Zone_1700[17]
-824: 0x0D92 [0x24] CREATE_DIALOG(message_id=13472*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+824: 0x0D92 [0x24] CREATE_DIALOG(message_id=13473*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "Inscribe which feats? (GilF$1) [Adjunct #1 ($2 gil)./Adjunct #2 ($3 gil)./Adjunct #3 ($4 gil)./Adjunct #4 ($5 gil)./Assistant #1 ($2 gil)./Assistant #2 ($3 gil)./Assistant #3 ($4 gil)./Assistant #4 ($5 gil)./Instructor #1 ($2 gil)./Instructor #2 ($3 gil)./Instructor #3 ($4 gil)./Instructor #4 ($5 gil)./Associate Researcher #1 ($2 gil)./Associate Researcher #2 ($3 gil)./Associate Researcher #3 ($4 gil)./Associate Researcher #4 ($5 gil)./Researcher #1 ($2 gil)./Researcher #2 ($3 gil)./Researcher #3 ($4 gil)./Researcher #4 ($5 gil)./Never mind.]"
 825: 0x0D99 [0x25] WAIT_DIALOG_SELECT()
 826: 0x0D9A [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0DA8
@@ -2156,11 +2156,11 @@ SUBROUTINE_0DA8:
 849: 0x0E17 [0x01] GOTO 0x0E1A
 
 SUBROUTINE_0E1A:
-850: 0x0E1A [0x1D] PRINT_EVENT_MESSAGE(message_id=13473*)
+850: 0x0E1A [0x1D] PRINT_EVENT_MESSAGE(message_id=13474*)
     → "So, you want the feats of [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition [#1/#2/#3/#4] inscribed in your $0? That'll run you $3 gil, but are you fine with that?"
 851: 0x0E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 852: 0x0E1E [0x03] Work_Zone[2] = Work_Zone_1700[13]
-853: 0x0E23 [0x24] CREATE_DIALOG(message_id=13474*, default_option=1*, option_flags=0*)
+853: 0x0E23 [0x24] CREATE_DIALOG(message_id=13475*, default_option=1*, option_flags=0*)
     → "Inscribe said feats? (Gil: $0) [Yes!/Nope.]"
 854: 0x0E2A [0x25] WAIT_DIALOG_SELECT()
 855: 0x0E2B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E62
@@ -2171,7 +2171,7 @@ SUBROUTINE_0E1A:
 860: 0x0E50 [0x05] ExtData[1]->WorkLocal[8] = 1
 861: 0x0E53 [0x01] GOTO 0x0E5F
 862: 0x0E56 [0x03] Work_Zone[2] = 1*
-863: 0x0E5B [0x1D] PRINT_EVENT_MESSAGE(message_id=13450*)
+863: 0x0E5B [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
     → "Uh, you don't have enough [research marks/gil] to buy this..."
 864: 0x0E5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2185,7 +2185,7 @@ SUBROUTINE_0E6D:
 869: 0x0E70 [0x1B] RETURN
 
 SUBROUTINE_0E71:
-870: 0x0E71 [0x1D] PRINT_EVENT_MESSAGE(message_id=13468*)
+870: 0x0E71 [0x1D] PRINT_EVENT_MESSAGE(message_id=13469*)
     → "The committee also sells certain key items to adventurers who've completed all expeditions in every rank! So...what'll it be?"
 871: 0x0E74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 872: 0x0E75 [0x06] ExtData[1]->WorkLocal[30] = 0
@@ -2223,7 +2223,7 @@ SUBROUTINE_0F0D:
 898: 0x0F0D [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x0FB1
 899: 0x0F15 [0x1A] CALL_SUBROUTINE(address=0x0FB2)
 900: 0x0F18 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[59]
-901: 0x0F1D [0x24] CREATE_DIALOG(message_id=13469*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+901: 0x0F1D [0x24] CREATE_DIALOG(message_id=13470*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "What will you purchase? (Gil: $0) [$3 ($6 gil)./$3 ($7 gil)./$3 ($8 gil)./$3 ($9 gil)./$3 ($10 gil)./$3 ($14 gil)./$3 ($15 gil)./$3 ($16 gil)./Nothing.]"
 902: 0x0F24 [0x25] WAIT_DIALOG_SELECT()
 903: 0x0F25 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0F33
@@ -2245,10 +2245,10 @@ SUBROUTINE_0F33:
 917: 0x0F6F [0x03] Work_Zone[4] = 1*
 
 SUBROUTINE_0F74:
-918: 0x0F74 [0x1D] PRINT_EVENT_MESSAGE(message_id=13470*)
+918: 0x0F74 [0x1D] PRINT_EVENT_MESSAGE(message_id=13471*)
     → "You do know the $3 is the emblem of valiance for [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] expeditions based in [Sauromugue Champaign/Batallia Downs], right? Are you sure that's the one you want?"
 919: 0x0F77 [0x23] WAIT_FOR_DIALOG_INTERACTION
-920: 0x0F78 [0x24] CREATE_DIALOG(message_id=13471*, default_option=1*, option_flags=0*)
+920: 0x0F78 [0x24] CREATE_DIALOG(message_id=13472*, default_option=1*, option_flags=0*)
     → "Purchase the $3? [Yes./No.]"
 921: 0x0F7F [0x25] WAIT_DIALOG_SELECT()
 922: 0x0F80 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FA3
@@ -2334,18 +2334,18 @@ SUBROUTINE_10D6:
 SUBROUTINE_10DE:
 991: 0x10DE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
 992: 0x10E3 [0x03] Work_Zone[2] = 2146*
-993: 0x10E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13478*)
+993: 0x10E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13479*)
     → "We don't have a single $3 on hand, but we should in $1 [hour/minute/minute][/s] (Earth time). Sorry, but you'll have to wait until then to get one."
 994: 0x10EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 995: 0x10EC [0x01] GOTO 0x110C
 996: 0x10EF [0x03] Work_Zone[2] = 2146*
 997: 0x10F4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
 998: 0x10F9 [0x02] IF !(ExtData[1]->WorkLocal[7] <= 1*) GOTO 0x1108
-999: 0x1101 [0x1D] PRINT_EVENT_MESSAGE(message_id=13477*)
+999: 0x1101 [0x1D] PRINT_EVENT_MESSAGE(message_id=13478*)
     → "We've got $1 $5 on hand."
 1000: 0x1104 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1001: 0x1105 [0x01] GOTO 0x110C
-1002: 0x1108 [0x1D] PRINT_EVENT_MESSAGE(message_id=13476*)
+1002: 0x1108 [0x1D] PRINT_EVENT_MESSAGE(message_id=13477*)
     → "We've got $1 $3 on hand."
 1003: 0x110B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2359,7 +2359,7 @@ SUBROUTINE_1110:
 1006: 0x1110 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x11B4
 1007: 0x1118 [0x1A] CALL_SUBROUTINE(address=0x11F1)
 1008: 0x111B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
-1009: 0x1120 [0x24] CREATE_DIALOG(message_id=13461*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
+1009: 0x1120 [0x24] CREATE_DIALOG(message_id=13462*, default_option=0*, option_flags=ExtData[1]->WorkLocal[26])
     → "Redeem research marks? (Marks: $0) [$1 ($2 marks)./$3 ($4 marks)./$5 ($6 marks)./$7 ($8 marks)./$9 ($10 marks)./$11 ($12 marks)./$13 ($14 marks)./$15 ($16 marks)./$17 ($18 marks)./Previous page./Next page./Not now.]"
 1010: 0x1127 [0x25] WAIT_DIALOG_SELECT()
 1011: 0x1128 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x1136
@@ -2377,11 +2377,11 @@ SUBROUTINE_1136:
 1021: 0x115E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
 1022: 0x1163 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
 1023: 0x1168 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[12]
-1024: 0x116D [0x1D] PRINT_EVENT_MESSAGE(message_id=13462*)
+1024: 0x116D [0x1D] PRINT_EVENT_MESSAGE(message_id=13463*)
     → "$0? Well then, you'll need to redeem $1 research mark[/s] for that."
 1025: 0x1170 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1026: 0x1171 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1027: 0x1174 [0x24] CREATE_DIALOG(message_id=13463*, default_option=1*, option_flags=0*)
+1027: 0x1174 [0x24] CREATE_DIALOG(message_id=13464*, default_option=1*, option_flags=0*)
     → "Redeem research marks? (Marks: $2) [Yes./Never mind.]"
 1028: 0x117B [0x25] WAIT_DIALOG_SELECT()
 1029: 0x117C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11A6
@@ -2778,7 +2778,7 @@ SUBROUTINE_1279:
  23: 0x1311 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  24: 0x1312 [0x03] Work_Zone[2] = 2146*
  25: 0x1317 [0x03] Work_Zone[3] = 2145*
- 26: 0x131C [0x1D] PRINT_EVENT_MESSAGE(message_id=13480*)
+ 26: 0x131C [0x1D] PRINT_EVENT_MESSAGE(message_id=13481*)
     → "A grimoire, huh? It seems you have $6 already, so here's just the $3."
  27: 0x131F [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x1320 [0x03] Work_Zone[1] = 10*
@@ -2792,7 +2792,7 @@ SUBROUTINE_1279:
  36: 0x1342 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  37: 0x1343 [0x03] Work_Zone[2] = 2146*
  38: 0x1348 [0x03] Work_Zone[3] = 2145*
- 39: 0x134D [0x1D] PRINT_EVENT_MESSAGE(message_id=13479*)
+ 39: 0x134D [0x1D] PRINT_EVENT_MESSAGE(message_id=13480*)
     → "A grimoire, huh? Well then, here's $6 and $6 in exchange."
  40: 0x1350 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x1351 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=10*)
@@ -2954,7 +2954,7 @@ SUBROUTINE_1CC9:
      0x1375 [0x06] ExtData[1]->WorkLocal[73] = 0
      0x1378 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x1560
      0x1380 [0x1A] CALL_SUBROUTINE(address=0x1951)
-     0x1383 [0x24] CREATE_DIALOG(message_id=13486*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
+     0x1383 [0x24] CREATE_DIALOG(message_id=13487*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
     → "What rank shall you choose? [Adjunct./Assistant./Instructor./Associate Researcher./Researcher./Researcher Emeritus./None, on second thought.]"
      0x138A [0x25] WAIT_DIALOG_SELECT()
      0x138B [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1399
@@ -2968,7 +2968,7 @@ SUBROUTINE_1CC9:
      0x13B4 [0x02] IF !(ExtData[1]->WorkLocal[28] >= 5*) GOTO 0x14B0
      0x13BC [0x1A] CALL_SUBROUTINE(address=0x197C)
      0x13BF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
-     0x13C4 [0x24] CREATE_DIALOG(message_id=13487*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
+     0x13C4 [0x24] CREATE_DIALOG(message_id=13488*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
     → "Which expedition, then? [[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #1[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #2[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #3[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #4[./ (Complete).]/[Adjunct/Assistant/Instructor/Associate Researcher/Researcher] #5[./ (Complete).]/None.]"
      0x13CB [0x25] WAIT_DIALOG_SELECT()
      0x13CC [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x13DA
@@ -2983,7 +2983,7 @@ SUBROUTINE_1CC9:
      0x13F7 [0x07] ExtData[1]->WorkLocal[7] += ExtData[1]->WorkLocal[29]
      0x13FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
      0x1401 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-     0x1406 [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
+     0x1406 [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
     → "The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:"
      0x1409 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x140A [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x141A
@@ -2997,21 +2997,21 @@ SUBROUTINE_1CC9:
      0x1430 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
      0x1435 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
      0x143A [0x02] IF !(ExtData[1]->WorkLocal[29] >= 4*) GOTO 0x1449
-     0x1442 [0x1D] PRINT_EVENT_MESSAGE(message_id=13488*)
+     0x1442 [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
     → "You're absolutely sure you want to attempt [Adjunct/Assistant/Instructor/Associate Researcher/Researcher] Expedition #[1/2/3/4]?"
      0x1445 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1446 [0x01] GOTO 0x145A
      0x1449 [0x03] Work_Zone[3] = 0*
-     0x144E [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
+     0x144E [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
     → "[Adjunct/Assistant/Instructor/Associate Researcher/Researcher/The Researcher Emeritus] Expedition[ #5?/!?] Due to the highly dangerous nature of this assignment, everyone in your troop must speak with me to undertake it."
      0x1451 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1452 [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
+     0x1452 [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
     → "Agreeing to set off on one of these expeditions means the committee gets to keep any of your grimoires we have on hand. It's for the greater good, I promise."
      0x1455 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1456 [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
+     0x1456 [0x1D] PRINT_EVENT_MESSAGE(message_id=13492*)
     → "Don't fret. In return for your cooperation, I'll grant your troop every effect from all grimoires currently registered with me."
      0x1459 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x145A [0x24] CREATE_DIALOG(message_id=13492*, default_option=1*, option_flags=0*)
+     0x145A [0x24] CREATE_DIALOG(message_id=13493*, default_option=1*, option_flags=0*)
     → "How does that sound? [Great! It's a deal./Terrible, that's how.]"
      0x1461 [0x25] WAIT_DIALOG_SELECT()
      0x1462 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x149F
@@ -3025,7 +3025,7 @@ SUBROUTINE_1CC9:
      0x1483 [0x0B] ExtData[1]->WorkLocal[29]++
      0x1486 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[28])
      0x148F [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[29])
-     0x1498 [0x1D] PRINT_EVENT_MESSAGE(message_id=13493*)
+     0x1498 [0x1D] PRINT_EVENT_MESSAGE(message_id=13494*)
     → "Fight the good fight...for the sake of discovery!"
      0x149B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x149C [0x01] GOTO 0x14AD
@@ -3036,27 +3036,27 @@ SUBROUTINE_1CC9:
      0x14B0 [0x03] ExtData[1]->WorkLocal[29] = 5*
      0x14B5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
      0x14BA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
-     0x14BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
+     0x14BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
     → "The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:"
      0x14C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14C3 [0x48] [System] [13501*]:
+     0x14C3 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x14C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x14CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14CB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[28]
      0x14D0 [0x03] Work_Zone[3] = 1*
-     0x14D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13489*)
+     0x14D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
     → "[Adjunct/Assistant/Instructor/Associate Researcher/Researcher/The Researcher Emeritus] Expedition[ #5?/!?] Due to the highly dangerous nature of this assignment, everyone in your troop must speak with me to undertake it."
      0x14D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13490*)
+     0x14D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
     → "Agreeing to set off on one of these expeditions means the committee gets to keep any of your grimoires we have on hand. It's for the greater good, I promise."
      0x14DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=13491*)
+     0x14DD [0x1D] PRINT_EVENT_MESSAGE(message_id=13492*)
     → "Don't fret. In return for your cooperation, I'll grant your troop every effect from all grimoires currently registered with me."
      0x14E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x14E1 [0x24] CREATE_DIALOG(message_id=13492*, default_option=1*, option_flags=0*)
+     0x14E1 [0x24] CREATE_DIALOG(message_id=13493*, default_option=1*, option_flags=0*)
     → "How does that sound? [Great! It's a deal./Terrible, that's how.]"
      0x14E8 [0x25] WAIT_DIALOG_SELECT()
      0x14E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1546
@@ -3076,7 +3076,7 @@ SUBROUTINE_1CC9:
      0x152A [0x01] GOTO 0x152D
      0x152D [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[28])
      0x1536 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[29])
-     0x153F [0x1D] PRINT_EVENT_MESSAGE(message_id=13493*)
+     0x153F [0x1D] PRINT_EVENT_MESSAGE(message_id=13494*)
     → "Fight the good fight...for the sake of discovery!"
      0x1542 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1543 [0x01] GOTO 0x155A
@@ -3143,7 +3143,7 @@ SUBROUTINE_1CC9:
      0x1676 [0x9D] ExtData[1]->WorkLocal[16] = 0x2659[ExtData[1]->WorkLocal[65]] // Read WORD
      0x167E [0x1A] CALL_SUBROUTINE(address=0x1561)
      0x1681 [0x02] IF !(ExtData[1]->WorkLocal[74] == 0*) GOTO 0x1690
-     0x1689 [0x1D] PRINT_EVENT_MESSAGE(message_id=13557*)
+     0x1689 [0x1D] PRINT_EVENT_MESSAGE(message_id=13558*)
     → "Um...it looks like the grimoire you gave me is completely blank."
      0x168C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x168D [0x01] GOTO 0x1713
@@ -3151,7 +3151,7 @@ SUBROUTINE_1CC9:
      0x1693 [0x02] IF !(ExtData[1]->WorkLocal[30] == 0*) GOTO 0x1713
      0x169B [0x1A] CALL_SUBROUTINE(address=0x1561)
      0x169E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-     0x16A3 [0x24] CREATE_DIALOG(message_id=13556*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
+     0x16A3 [0x24] CREATE_DIALOG(message_id=13557*, default_option=0*, option_flags=ExtData[1]->WorkLocal[31])
     → "# boons: [Cancel./Adjunct Expedition #1...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #2...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #3...[Lv.1/Lv.2/Lv.3]./Adjunct Expedition #4...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #1...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #2...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #3...[Lv.1/Lv.2/Lv.3]./Assistant Expedition #4...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #1...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #2...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #3...[Lv.1/Lv.2/Lv.3]./Instructor Expedition #4...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Assoc. Researcher Expedition #4...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #1...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #2...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #3...[Lv.1/Lv.2/Lv.3]./Researcher Expedition #4...[Lv.1/Lv.2/Lv.3].]"
      0x16AA [0x25] WAIT_DIALOG_SELECT()
      0x16AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16B9
@@ -3164,7 +3164,7 @@ SUBROUTINE_1CC9:
      0x16CE [0x15] Work_Zone[2] /= 4*
      0x16D3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
      0x16D8 [0x3F] Work_Zone[3] = Work_Zone[3] % 4*
-     0x16DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
+     0x16DF [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
     → "The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:"
      0x16E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16E3 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[2]
@@ -3183,7 +3183,7 @@ SUBROUTINE_1CC9:
      0x171F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[69], bit_index_work_offset=1*, condition_work_offset=1*)
      0x1726 [0x06] ExtData[1]->WorkLocal[9] = 0
      0x1729 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x1950
-     0x1731 [0x24] CREATE_DIALOG(message_id=13560*, default_option=0*, option_flags=ExtData[1]->WorkLocal[69])
+     0x1731 [0x24] CREATE_DIALOG(message_id=13561*, default_option=0*, option_flags=ExtData[1]->WorkLocal[69])
     → "Review specifics from which locale? [Sauromugue Champaign./Batallia Downs./None.]"
      0x1738 [0x25] WAIT_DIALOG_SELECT()
      0x1739 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x174C
@@ -3265,7 +3265,7 @@ SUBROUTINE_1CC9:
      0x18C6 [0x01] GOTO 0x1899
      0x18C9 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[26], bit_index_work_offset=0*, condition_work_offset=1*)
      0x18D0 [0x01] GOTO 0x18D3
-     0x18D3 [0x24] CREATE_DIALOG(message_id=13561*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[26])
+     0x18D3 [0x24] CREATE_DIALOG(message_id=13562*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[26])
     → "Expedition Specifics: [Cancel./Adjunct #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Adjunct #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Assistant #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Instructor #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Associate Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #1...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #2...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #3...[Incomplete/Goal 1/Goal 2/Goal 3]./Researcher #4...[Incomplete/Goal 1/Goal 2/Goal 3].]"
      0x18DA [0x25] WAIT_DIALOG_SELECT()
      0x18DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x18E9
@@ -3278,7 +3278,7 @@ SUBROUTINE_1CC9:
      0x18FE [0x15] Work_Zone[2] /= 4*
      0x1903 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
      0x1908 [0x3F] Work_Zone[3] = Work_Zone[3] % 4*
-     0x190F [0x1D] PRINT_EVENT_MESSAGE(message_id=13496*)
+     0x190F [0x1D] PRINT_EVENT_MESSAGE(message_id=13497*)
     → "The details regarding [Adjunct/Assistant/Instructor/Associate Researcher/Researcher/the Researcher Emeritus] Expedition[ #1/ #2/ #3/ #4/ #5/] are as follows:"
      0x1912 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1913 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[2]
@@ -3365,137 +3365,137 @@ SUBROUTINE_1CC9:
      0x1CF8 [0x9D] Work_Zone[5] = 0x24D9[ExtData[1]->WorkLocal[7]] // Read WORD
      0x1D00 [0x0B] ExtData[1]->WorkLocal[7]++
      0x1D03 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1D12
-     0x1D0B [0x48] [System] [13497*]:
+     0x1D0B [0x48] [System] [13498*]:
     → "Boon bestowed: Increased HP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D0F [0x01] GOTO 0x1F88
      0x1D12 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x1D21
-     0x1D1A [0x48] [System] [13498*]:
+     0x1D1A [0x48] [System] [13499*]:
     → "Boon bestowed: Increased accuracy Goal 1: Vanquish the Pugnacious Eft. Goal 2: Vanquish the Pugnacious Eft and all Feeble Efts. Goal 3: Vanquish all enemies."
      0x1D1D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D1E [0x01] GOTO 0x1F88
      0x1D21 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x1D30
-     0x1D29 [0x48] [System] [13499*]:
+     0x1D29 [0x48] [System] [13500*]:
     → "Boon bestowed: Increased DEX and AGI Goal 1: Examine $0 ??? target[/s]. Goal 2: Examine $1 ??? target[/s]. Goal 3: Examine $2 ??? target[/s] without being detected."
      0x1D2C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D2D [0x01] GOTO 0x1F88
      0x1D30 [0x02] IF !(ExtData[1]->WorkLocal[7] == 4*) GOTO 0x1D3F
-     0x1D38 [0x48] [System] [13500*]:
+     0x1D38 [0x48] [System] [13501*]:
     → "Boon bestowed: Enhanced magic defense Goal 1: Extinguish $0 Subterranean Safepoint[/s]. Goal 2: Extinguish $1 Subterranean Safepoint[/s]. Goal 3: Extinguish $2 Subterranean Safepoint[/s]."
      0x1D3B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D3C [0x01] GOTO 0x1F88
      0x1D3F [0x02] IF !(ExtData[1]->WorkLocal[7] == 5*) GOTO 0x1D4E
-     0x1D47 [0x48] [System] [13501*]:
+     0x1D47 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D4B [0x01] GOTO 0x1F88
      0x1D4E [0x02] IF !(ExtData[1]->WorkLocal[7] == 6*) GOTO 0x1D5D
-     0x1D56 [0x48] [System] [13502*]:
+     0x1D56 [0x48] [System] [13503*]:
     → "Boon bestowed: Increased MP Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1D59 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D5A [0x01] GOTO 0x1F88
      0x1D5D [0x02] IF !(ExtData[1]->WorkLocal[7] == 7*) GOTO 0x1D6C
-     0x1D65 [0x48] [System] [13503*]:
+     0x1D65 [0x48] [System] [13504*]:
     → "Boon bestowed: Increased evasion Goal 1: Arrive at the Goal with at least $0 party member[/s]. Goal 2: Arrive at the Goal with all party members. Goal 3: Ensure all party members arrive at the Goal undetected."
      0x1D68 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D69 [0x01] GOTO 0x1F88
      0x1D6C [0x02] IF !(ExtData[1]->WorkLocal[7] == 8*) GOTO 0x1D7B
-     0x1D74 [0x48] [System] [13504*]:
+     0x1D74 [0x48] [System] [13505*]:
     → "Boon bestowed: Increased STR and VIT Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies], but leave the Snarling Meebles alone!"
      0x1D77 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D78 [0x01] GOTO 0x1F88
      0x1D7B [0x02] IF !(ExtData[1]->WorkLocal[7] == 9*) GOTO 0x1D8A
-     0x1D83 [0x48] [System] [13505*]:
+     0x1D83 [0x48] [System] [13506*]:
     → "Boon bestowed: Treasure Hunter bonus Goal 1: Acquire and feed $0 $0$3 to Ollek. Goal 2: Acquire and feed $1 $0$3 to Ollek. Goal 3: Acquire and feed $2 $0$3 to Ollek."
      0x1D86 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D87 [0x01] GOTO 0x1F88
      0x1D8A [0x02] IF !(ExtData[1]->WorkLocal[7] == 10*) GOTO 0x1D99
-     0x1D92 [0x48] [System] [13501*]:
+     0x1D92 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1D95 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D96 [0x01] GOTO 0x1F88
      0x1D99 [0x02] IF !(ExtData[1]->WorkLocal[7] == 11*) GOTO 0x1DA8
-     0x1DA1 [0x48] [System] [13506*]:
+     0x1DA1 [0x48] [System] [13507*]:
     → "Boon bestowed: Increased movement speed Goal 1: Ensure one party member arrives at the Goal within $0 minute[/s]. Goal 2: Ensure all party members arrive at the Goal within $1 minute[/s]. Goal 3: Ensure all party members arrive at the Goal within $2 minute[/s]."
      0x1DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DA5 [0x01] GOTO 0x1F88
      0x1DA8 [0x02] IF !(ExtData[1]->WorkLocal[7] == 12*) GOTO 0x1DB7
-     0x1DB0 [0x48] [System] [13507*]:
+     0x1DB0 [0x48] [System] [13508*]:
     → "Boon bestowed: Increased attack and ranged attack Goal 1: Alternately vanquish $0 Varanefts and Tectochuks. Goal 2: Alternately vanquish $1 Varanefts and Tectochuks. Goal 3: Alternately vanquish $2 Varanefts and Tectochuks."
      0x1DB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DB4 [0x01] GOTO 0x1F88
      0x1DB7 [0x02] IF !(ExtData[1]->WorkLocal[7] == 13*) GOTO 0x1DC6
-     0x1DBF [0x48] [System] [13508*]:
+     0x1DBF [0x48] [System] [13509*]:
     → "Boon bestowed: Increased INT, MND, CHR Goal 1: Withstand the enemy's assault for $0 minute[/s]. Goal 2: Withstand the enemy's assault for $1 minute[/s]. Goal 3: Withstand the enemy's assault for $2 minute[/s] without a single KO."
      0x1DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DC3 [0x01] GOTO 0x1F88
      0x1DC6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 14*) GOTO 0x1DD5
-     0x1DCE [0x48] [System] [13509*]:
+     0x1DCE [0x48] [System] [13510*]:
     → "Boons bestowed: Magic attack bonus, increased magic accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DD2 [0x01] GOTO 0x1F88
      0x1DD5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 15*) GOTO 0x1DE4
-     0x1DDD [0x48] [System] [13501*]:
+     0x1DDD [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DE1 [0x01] GOTO 0x1F88
      0x1DE4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 16*) GOTO 0x1DF3
-     0x1DEC [0x48] [System] [13510*]:
+     0x1DEC [0x48] [System] [13511*]:
     → "Boon bestowed: Auto-Reraise Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1DEF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DF0 [0x01] GOTO 0x1F88
      0x1DF3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 17*) GOTO 0x1E02
-     0x1DFB [0x48] [System] [13511*]:
+     0x1DFB [0x48] [System] [13512*]:
     → "Boon bestowed: Enhanced defense Goal 1: Ensure one person in the party arrives at Point 1. Goal 2: Ensure everyone in the party gets from Point 1 to Point 2. Goal 3: Ensure everyone in the party gets from Point 1 to Point 3 without a single KO."
      0x1DFE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DFF [0x01] GOTO 0x1F88
      0x1E02 [0x02] IF !(ExtData[1]->WorkLocal[7] == 18*) GOTO 0x1E11
-     0x1E0A [0x48] [System] [13512*]:
+     0x1E0A [0x48] [System] [13513*]:
     → "Boon bestowed: Increased double attack Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1E0D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E0E [0x01] GOTO 0x1F88
      0x1E11 [0x02] IF !(ExtData[1]->WorkLocal[7] == 19*) GOTO 0x1E20
-     0x1E19 [0x48] [System] [13513*]:
+     0x1E19 [0x48] [System] [13514*]:
     → "Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Open $0 treasure chest[/s]. Goal 2: Open $1 treasure chest[/s]. Goal 3: Open all treasure chests."
      0x1E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E1D [0x01] GOTO 0x1F88
      0x1E20 [0x02] IF !(ExtData[1]->WorkLocal[7] == 20*) GOTO 0x1E2F
-     0x1E28 [0x48] [System] [13501*]:
+     0x1E28 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1E2B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E2C [0x01] GOTO 0x1F88
      0x1E2F [0x02] IF !(ExtData[1]->WorkLocal[7] == 21*) GOTO 0x1E3E
-     0x1E37 [0x48] [System] [13514*]:
+     0x1E37 [0x48] [System] [13515*]:
     → "Boon bestowed: Refresh Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish $2 [enemy/enemies]."
      0x1E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E3B [0x01] GOTO 0x1F88
      0x1E3E [0x02] IF !(ExtData[1]->WorkLocal[7] == 22*) GOTO 0x1E4D
-     0x1E46 [0x48] [System] [13515*]:
+     0x1E46 [0x48] [System] [13516*]:
     → "Boon bestowed: Regain Goal 1: Simultaneously vanquish $0 Hirudinids and Stagdellas, in pairs. Goal 2: Simultaneously vanquish $1 Hirudinids and Stagdellas, in pairs. Goal 3: Simultaneously vanquish $2 Hirudinids and Stagdellas, in pairs."
      0x1E49 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E4A [0x01] GOTO 0x1F88
      0x1E4D [0x02] IF !(ExtData[1]->WorkLocal[7] == 23*) GOTO 0x1E5C
-     0x1E55 [0x48] [System] [13516*]:
+     0x1E55 [0x48] [System] [13517*]:
     → "Boon bestowed: Increased ranged accuracy Goal 1: Vanquish $0 [enemy/enemies]. Goal 2: Vanquish $1 [enemy/enemies]. Goal 3: Vanquish all enemies."
      0x1E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E59 [0x01] GOTO 0x1F88
      0x1E5C [0x02] IF !(ExtData[1]->WorkLocal[7] == 24*) GOTO 0x1E6B
-     0x1E64 [0x48] [System] [13517*]:
+     0x1E64 [0x48] [System] [13518*]:
     → "Boon bestowed: Bonus to spoils Goal 1: Vanquish $0 notorious monster[/s]. Goal 2: Vanquish $1 notorious monster[/s]. Goal 3: Vanquish all enemies."
      0x1E67 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E68 [0x01] GOTO 0x1F88
      0x1E6B [0x02] IF !(ExtData[1]->WorkLocal[7] == 25*) GOTO 0x1E7A
-     0x1E73 [0x48] [System] [13501*]:
+     0x1E73 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E77 [0x01] GOTO 0x1F88
      0x1E7A [0x02] IF !(ExtData[1]->WorkLocal[7] == 26*) GOTO 0x1E89
-     0x1E82 [0x48] [System] [13501*]:
+     0x1E82 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1E85 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E86 [0x01] GOTO 0x1F88
      0x1E89 [0x02] IF !(ExtData[1]->WorkLocal[7] == 27*) GOTO 0x1E98
-     0x1E91 [0x48] [System] [13518*]:
+     0x1E91 [0x48] [System] [13519*]:
     → "Boon bestowed: Increased HP Goal 1: Vanquish $0 Limber Lynx[/es]. Goal 2: Vanquish $1 Limber Lynx[/es]. Goal 3: Vanquish $2 Limber Lynx[/es]."
      0x1E94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E95 [0x01] GOTO 0x1F88
@@ -3503,288 +3503,288 @@ SUBROUTINE_1CC9:
      0x1EA0 [0x03] Work_Zone[2] = 2*
      0x1EA5 [0x03] Work_Zone[3] = 3*
      0x1EAA [0x03] Work_Zone[4] = 4*
-     0x1EAF [0x48] [System] [13519*]:
+     0x1EAF [0x48] [System] [13520*]:
     → "Boon bestowed: Auto-Reraise Goal 1: Examine $0 ??? target[/s] and vanquish at least 1 Mafic Marolith. Goal 2: Examine $1 ??? target[/s] and vanquish at least 2 Mafic Maroliths. Goal 3: Examine $2 ??? target[/s] and vanquish at least 4 Mafic Maroliths."
      0x1EB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EB3 [0x01] GOTO 0x1F88
      0x1EB6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 29*) GOTO 0x1EC5
-     0x1EBE [0x48] [System] [13520*]:
+     0x1EBE [0x48] [System] [13521*]:
     → "Boons bestowed: Increased DEX and AGI Goal 1: Vanquish $0 enem[y/ies] in a row without being detected. Goal 2: Vanquish $1 enem[y/ies] in a row without being detected. Goal 3: Vanquish $2 enem[y/ies] in a row without being detected."
      0x1EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EC2 [0x01] GOTO 0x1F88
      0x1EC5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 30*) GOTO 0x1ED4
-     0x1ECD [0x48] [System] [13521*]:
+     0x1ECD [0x48] [System] [13522*]:
     → "Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies."
      0x1ED0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ED1 [0x01] GOTO 0x1F88
      0x1ED4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 31*) GOTO 0x1EE3
-     0x1EDC [0x48] [System] [13501*]:
+     0x1EDC [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1EDF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EE0 [0x01] GOTO 0x1F88
      0x1EE3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 32*) GOTO 0x1EF2
-     0x1EEB [0x48] [System] [13522*]:
+     0x1EEB [0x48] [System] [13523*]:
     → "Boon bestowed: Increased MP Goal 1: Rescue $0 Meeble[/s] under attack. Goal 2: Rescue $1 Meeble[/s] under attack. Goal 3: Rescue $2 Meeble[/s] under attack."
      0x1EEE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EEF [0x01] GOTO 0x1F88
      0x1EF2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 33*) GOTO 0x1F01
-     0x1EFA [0x48] [System] [13523*]:
+     0x1EFA [0x48] [System] [13524*]:
     → "Boon bestowed: Refresh Goal 1: Extinguish $0 Subterranean Leohtfaet[/s]. Goal 2: Extinguish $1 Subterranean Leohtfaet[/s]. Goal 3: Extinguish $2 Subterranean Leohtfaet[/s]. This goal will be failed if even one Meeble Horticulturist is vanquished."
      0x1EFD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EFE [0x01] GOTO 0x1F88
      0x1F01 [0x02] IF !(ExtData[1]->WorkLocal[7] == 34*) GOTO 0x1F10
-     0x1F09 [0x48] [System] [13524*]:
+     0x1F09 [0x48] [System] [13525*]:
     → "Boons bestowed: Increased STR and VIT Goal 1: Acquire $3 and bring $0 to Kobcha. Goal 2: Acquire $3 and bring $1 to Kobcha. Goal 3: Without being caught, acquire $3 and bring $2 to Kobcha."
      0x1F0C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F0D [0x01] GOTO 0x1F88
      0x1F10 [0x02] IF !(ExtData[1]->WorkLocal[7] == 35*) GOTO 0x1F1F
-     0x1F18 [0x48] [System] [13525*]:
+     0x1F18 [0x48] [System] [13526*]:
     → "Boon bestowed: Enhanced Treasure Hunter ability Goal 1: Vanquish $0 enem[y/ies]. Goal 2: Vanquish $1 enem[y/ies]. Goal 3: Vanquish all enemies."
      0x1F1B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F1C [0x01] GOTO 0x1F88
      0x1F1F [0x02] IF !(ExtData[1]->WorkLocal[7] == 36*) GOTO 0x1F2E
-     0x1F27 [0x48] [System] [13501*]:
+     0x1F27 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F2B [0x01] GOTO 0x1F88
      0x1F2E [0x02] IF !(ExtData[1]->WorkLocal[7] == 37*) GOTO 0x1F3D
-     0x1F36 [0x48] [System] [13526*]:
+     0x1F36 [0x48] [System] [13527*]:
     → "Boon bestowed: Increased movement speed Goal 1: Examine $0 Point[/s] in ascending numerical order. Goal 2: Examine $1 Point[/s] in ascending numerical order. Goal 3: Examine $2 Point[/s] in ascending numerical order."
      0x1F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F3A [0x01] GOTO 0x1F88
      0x1F3D [0x02] IF !(ExtData[1]->WorkLocal[7] == 38*) GOTO 0x1F4C
-     0x1F45 [0x48] [System] [13527*]:
+     0x1F45 [0x48] [System] [13528*]:
     → "Boon bestowed: Regain Goal 1: Defend the Burrows Depthmarker for $0 minute[/s]. Goal 2: Defend the Burrows Depthmarker for $1 minute[/s]. Goal 3: Defend the Burrows Depthmarker for $2 minute[/s]."
      0x1F48 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F49 [0x01] GOTO 0x1F88
      0x1F4C [0x02] IF !(ExtData[1]->WorkLocal[7] == 39*) GOTO 0x1F5B
-     0x1F54 [0x48] [System] [13528*]:
+     0x1F54 [0x48] [System] [13529*]:
     → "Boons bestowed: Increased INT, MND, and CHR Goal 1: Cause $0 enem[y/ies] to self-destruct. Goal 2: Cause $1 enem[y/ies] to self-destruct. Goal 3: Cause $2 enem[y/ies], including at least $3 Sulphurous Djinn[/s], to self-destruct."
      0x1F57 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F58 [0x01] GOTO 0x1F88
      0x1F5B [0x02] IF !(ExtData[1]->WorkLocal[7] == 40*) GOTO 0x1F6A
-     0x1F63 [0x48] [System] [13529*]:
+     0x1F63 [0x48] [System] [13530*]:
     → "Boon bestowed: Bonus to spoils Goal 1: Collect $0 elaborate part[/s]. Goal 2: Collect $1 elaborate part[/s]. Goal 3: Collect $2 elaborate part[/s]."
      0x1F66 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F67 [0x01] GOTO 0x1F88
      0x1F6A [0x02] IF !(ExtData[1]->WorkLocal[7] == 41*) GOTO 0x1F79
-     0x1F72 [0x48] [System] [13501*]:
+     0x1F72 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F76 [0x01] GOTO 0x1F88
      0x1F79 [0x02] IF !(ExtData[1]->WorkLocal[7] == 42*) GOTO 0x1F88
-     0x1F81 [0x48] [System] [13501*]:
+     0x1F81 [0x48] [System] [13502*]:
     → "Boon bestowed: None Goal: ???"
      0x1F84 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F85 [0x01] GOTO 0x1F88
      0x1F88 [0x1B] RETURN
      0x1F89 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1F98
-     0x1F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x1F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x1F94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F95 [0x01] GOTO 0x21FF
      0x1F98 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x1FA7
-     0x1FA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x1FA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x1FA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FA4 [0x01] GOTO 0x21FF
      0x1FA7 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x1FB6
-     0x1FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
+     0x1FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=13532*)
     → "This expedition involves collecting data at certain Points deep within the caverns...stealthily. Don't get found by anything there, or you'll come back empty-handed."
      0x1FB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FB3 [0x01] GOTO 0x21FF
      0x1FB6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 4*) GOTO 0x1FC5
-     0x1FBE [0x1D] PRINT_EVENT_MESSAGE(message_id=13532*)
+     0x1FBE [0x1D] PRINT_EVENT_MESSAGE(message_id=13533*)
     → "Like moths to flame, the beasts in these caves are attracted to Subterranean Safepoint fire. Extinguish the torches to disperse the hordes...but not too fast. Extinguish multiple ones at once and you'll attract unwelcome guests."
      0x1FC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FC2 [0x01] GOTO 0x21FF
      0x1FC5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 5*) GOTO 0x1FD4
-     0x1FCD [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x1FCD [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x1FD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FD1 [0x01] GOTO 0x21FF
      0x1FD4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 6*) GOTO 0x1FE3
-     0x1FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x1FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x1FDF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FE0 [0x01] GOTO 0x21FF
      0x1FE3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 7*) GOTO 0x1FF2
-     0x1FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=13533*)
+     0x1FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=13534*)
     → ""Endeavor to find the most expeditious route from the specified points to increase research productivity." Wow, you'd think whoever made this objective could be a little more direct. Anyway, you may not need this advice, but try not to get found by any enemies along the way."
      0x1FEE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FEF [0x01] GOTO 0x21FF
      0x1FF2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 8*) GOTO 0x2001
-     0x1FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=13534*)
+     0x1FFA [0x1D] PRINT_EVENT_MESSAGE(message_id=13535*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...without injuring any Snarling Meebles, for they're the subject of our research at the moment."
      0x1FFD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FFE [0x01] GOTO 0x21FF
      0x2001 [0x02] IF !(ExtData[1]->WorkLocal[7] == 9*) GOTO 0x2010
-     0x2009 [0x1D] PRINT_EVENT_MESSAGE(message_id=13535*)
+     0x2009 [0x1D] PRINT_EVENT_MESSAGE(message_id=13536*)
     → "For the cost of just a few $3 an expedition, you too can help save the lives of starving Meebles. Please, think of the Meebles and do the right thing."
      0x200C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x200D [0x01] GOTO 0x21FF
      0x2010 [0x02] IF !(ExtData[1]->WorkLocal[7] == 10*) GOTO 0x201F
-     0x2018 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x2018 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x201B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x201C [0x01] GOTO 0x21FF
      0x201F [0x02] IF !(ExtData[1]->WorkLocal[7] == 11*) GOTO 0x202E
-     0x2027 [0x1D] PRINT_EVENT_MESSAGE(message_id=13536*)
+     0x2027 [0x1D] PRINT_EVENT_MESSAGE(message_id=13537*)
     → "This expedition aims to improve research efficiency by having you find the shortest route from point myeh to point gah. Oh, those names aren't the product of apathy on my part. I'm subtly hinting that the routes change depending on the time of day you enter. Whoops, so much for subtlety."
      0x202A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x202B [0x01] GOTO 0x21FF
      0x202E [0x02] IF !(ExtData[1]->WorkLocal[7] == 12*) GOTO 0x203D
-     0x2036 [0x1D] PRINT_EVENT_MESSAGE(message_id=13537*)
+     0x2036 [0x1D] PRINT_EVENT_MESSAGE(message_id=13538*)
     → "Those Varanefts and Tectochuks are enigmas wrapped in riddles encased in gobs of mystery. Yummy, yummy mystery. This expedition tasks you with unwrapping and sucking every last drop of mystery out of their behavior."
      0x2039 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x203A [0x01] GOTO 0x21FF
      0x203D [0x02] IF !(ExtData[1]->WorkLocal[7] == 13*) GOTO 0x204C
-     0x2045 [0x1D] PRINT_EVENT_MESSAGE(message_id=13538*)
+     0x2045 [0x1D] PRINT_EVENT_MESSAGE(message_id=13539*)
     → "We'd like you to develop an intimate relationship with certain subjects down there. The catch is that they're not very friendly, so you'll need to endure some of their blows first. Go unconscious, though, and it'll be harder to collect the right data."
      0x2048 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2049 [0x01] GOTO 0x21FF
      0x204C [0x02] IF !(ExtData[1]->WorkLocal[7] == 14*) GOTO 0x205B
-     0x2054 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x2054 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x2057 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2058 [0x01] GOTO 0x21FF
      0x205B [0x02] IF !(ExtData[1]->WorkLocal[7] == 15*) GOTO 0x206A
-     0x2063 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x2063 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x2066 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2067 [0x01] GOTO 0x21FF
      0x206A [0x02] IF !(ExtData[1]->WorkLocal[7] == 16*) GOTO 0x2079
-     0x2072 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x2072 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x2075 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2076 [0x01] GOTO 0x21FF
      0x2079 [0x02] IF !(ExtData[1]->WorkLocal[7] == 17*) GOTO 0x2088
-     0x2081 [0x1D] PRINT_EVENT_MESSAGE(message_id=13539*)
+     0x2081 [0x1D] PRINT_EVENT_MESSAGE(message_id=13540*)
     → "Ready for a little reconnaissance? We need someone to clear the way for "big boys" to do "real researcher's work." Pompous jerks. Anyway, this sounds obvious, but try not to get knocked out, okay?"
      0x2084 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2085 [0x01] GOTO 0x21FF
      0x2088 [0x02] IF !(ExtData[1]->WorkLocal[7] == 18*) GOTO 0x2097
-     0x2090 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x2090 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x2093 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2094 [0x01] GOTO 0x21FF
      0x2097 [0x02] IF !(ExtData[1]->WorkLocal[7] == 19*) GOTO 0x20A6
-     0x209F [0x1D] PRINT_EVENT_MESSAGE(message_id=13540*)
+     0x209F [0x1D] PRINT_EVENT_MESSAGE(message_id=13541*)
     → "Treasure for everyone! The MBEC has unearthed lots of chests down belowground! Experience has proven that some of those chests are just monsters lying in wait, though...so we've decided to send adventurers down there first."
      0x20A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20A3 [0x01] GOTO 0x21FF
      0x20A6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 20*) GOTO 0x20B5
-     0x20AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x20AE [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x20B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20B2 [0x01] GOTO 0x21FF
      0x20B5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 21*) GOTO 0x20C4
-     0x20BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13541*)
+     0x20BD [0x1D] PRINT_EVENT_MESSAGE(message_id=13542*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...which may require you to go for a swim!"
      0x20C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20C1 [0x01] GOTO 0x21FF
      0x20C4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 22*) GOTO 0x20D3
-     0x20CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13542*)
+     0x20CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13543*)
     → ""Even filthy bloodsuckers like Hirudinids and Stagdellas can offer scientific insights," my tail! We've tried everything and haven't found a single piece of data worthy of analysis, so...uh...try slaying them at the same time? I don't know."
      0x20CF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20D0 [0x01] GOTO 0x21FF
      0x20D3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 23*) GOTO 0x20E2
-     0x20DB [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x20DB [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x20DE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20DF [0x01] GOTO 0x21FF
      0x20E2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 24*) GOTO 0x20F1
-     0x20EA [0x1D] PRINT_EVENT_MESSAGE(message_id=13543*)
+     0x20EA [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
     → ""Just when we thought it was okay to implement the scientific method again, our fellow researchers get attacked by notarizing monarchs!" Wait a minute! When I find the dolt who wrote this report..."
      0x20ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20EE [0x01] GOTO 0x21FF
      0x20F1 [0x02] IF !(ExtData[1]->WorkLocal[7] == 25*) GOTO 0x2100
-     0x20F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x20F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x20FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20FD [0x01] GOTO 0x21FF
      0x2100 [0x02] IF !(ExtData[1]->WorkLocal[7] == 26*) GOTO 0x210F
-     0x2108 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x2108 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x210B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x210C [0x01] GOTO 0x21FF
      0x210F [0x02] IF !(ExtData[1]->WorkLocal[7] == 27*) GOTO 0x211E
-     0x2117 [0x1D] PRINT_EVENT_MESSAGE(message_id=13543*)
+     0x2117 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
     → ""Just when we thought it was okay to implement the scientific method again, our fellow researchers get attacked by notarizing monarchs!" Wait a minute! When I find the dolt who wrote this report..."
      0x211A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x211B [0x01] GOTO 0x21FF
      0x211E [0x02] IF !(ExtData[1]->WorkLocal[7] == 28*) GOTO 0x212D
-     0x2126 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
+     0x2126 [0x1D] PRINT_EVENT_MESSAGE(message_id=13546*)
     → "The goal of this expedition is to compile data regarding certain points within the burrows. The area is crawling with annoying Mafic Maroliths, though. We know that they possess a hive mentality, so as long as you take some down, the others should get the point."
      0x2129 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x212A [0x01] GOTO 0x21FF
      0x212D [0x02] IF !(ExtData[1]->WorkLocal[7] == 29*) GOTO 0x213C
-     0x2135 [0x1D] PRINT_EVENT_MESSAGE(message_id=13546*)
+     0x2135 [0x1D] PRINT_EVENT_MESSAGE(message_id=13547*)
     → "Ever feel like you're being watched? I do all the time. My superiors tell me that our activities are being monitored by enemies...though not by the evil rarab in my closet, as I'd suggested. But what do they know!? Try and beat them at their own game and best them without getting detected. Then maybe I can get some sleep at night."
      0x2138 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2139 [0x01] GOTO 0x21FF
      0x213C [0x02] IF !(ExtData[1]->WorkLocal[7] == 30*) GOTO 0x214B
-     0x2144 [0x1D] PRINT_EVENT_MESSAGE(message_id=13530*)
+     0x2144 [0x1D] PRINT_EVENT_MESSAGE(message_id=13531*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible...in the name of knowledge!"
      0x2147 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2148 [0x01] GOTO 0x21FF
      0x214B [0x02] IF !(ExtData[1]->WorkLocal[7] == 31*) GOTO 0x215A
-     0x2153 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x2153 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x2156 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2157 [0x01] GOTO 0x21FF
      0x215A [0x02] IF !(ExtData[1]->WorkLocal[7] == 32*) GOTO 0x2169
-     0x2162 [0x1D] PRINT_EVENT_MESSAGE(message_id=13547*)
+     0x2162 [0x1D] PRINT_EVENT_MESSAGE(message_id=13548*)
     → "The Meebles we were observing have been attacked! Oh, the Galkanity! The Elvaanity! The...I'm so flustered I can't think! Please save them! Without their cute little snouts and endearing gruff talk, what else is left in the world to enjoy!?"
      0x2165 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2166 [0x01] GOTO 0x21FF
      0x2169 [0x02] IF !(ExtData[1]->WorkLocal[7] == 33*) GOTO 0x2178
-     0x2171 [0x1D] PRINT_EVENT_MESSAGE(message_id=13548*)
+     0x2171 [0x1D] PRINT_EVENT_MESSAGE(message_id=13549*)
     → "Like moths to flame, the beasts in these caves are attracted to Subterranean Leohtfaet fire. Extinguish the torches to disperse the hordes...but not the Meebles. Spare the Meebles at all costs."
      0x2174 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2175 [0x01] GOTO 0x21FF
      0x2178 [0x02] IF !(ExtData[1]->WorkLocal[7] == 34*) GOTO 0x2187
-     0x2180 [0x1D] PRINT_EVENT_MESSAGE(message_id=13549*)
+     0x2180 [0x1D] PRINT_EVENT_MESSAGE(message_id=13550*)
     → "Those adorable Meebles are at it again, collecting $3 like they were real miners. Indulge them in their harmless fantasy and try finding $3 at mining points throughout the caves. Pretty please?"
      0x2183 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2184 [0x01] GOTO 0x21FF
      0x2187 [0x02] IF !(ExtData[1]->WorkLocal[7] == 35*) GOTO 0x2196
-     0x218F [0x1D] PRINT_EVENT_MESSAGE(message_id=13550*)
+     0x218F [0x1D] PRINT_EVENT_MESSAGE(message_id=13551*)
     → "Swarms of vicious fiends have been impeding our scientific discoveries! Therefore, we'd like for you to utterly obliterate as many of them as possible."
      0x2192 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2193 [0x01] GOTO 0x21FF
      0x2196 [0x02] IF !(ExtData[1]->WorkLocal[7] == 36*) GOTO 0x21A5
-     0x219E [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x219E [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x21A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21A2 [0x01] GOTO 0x21FF
      0x21A5 [0x02] IF !(ExtData[1]->WorkLocal[7] == 37*) GOTO 0x21B4
-     0x21AD [0x1D] PRINT_EVENT_MESSAGE(message_id=13551*)
+     0x21AD [0x1D] PRINT_EVENT_MESSAGE(message_id=13552*)
     → "The goal of this expedition is to compile data regarding certain points within the burrows. For this one, they've even been pre-numbered for you! All you need to do is examine them in order from youngest to oldest. What, that's not how you say it? You mustn't be from around here."
      0x21B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21B1 [0x01] GOTO 0x21FF
      0x21B4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 38*) GOTO 0x21C3
-     0x21BC [0x1D] PRINT_EVENT_MESSAGE(message_id=13552*)
+     0x21BC [0x1D] PRINT_EVENT_MESSAGE(message_id=13553*)
     → "Those dastardly little buggers are breaking our Burrows Depthmarker! Show them that science always shines brightest by defending the Burrows Depthmarker for as long as possible!"
      0x21BF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21C0 [0x01] GOTO 0x21FF
      0x21C3 [0x02] IF !(ExtData[1]->WorkLocal[7] == 39*) GOTO 0x21D2
-     0x21CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13553*)
+     0x21CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13554*)
     → "On this expedition, you'll have to make as many hot-tempered bombs as possible self-destruct. Sounds like your best bet is to insult their cooking. Thanks, I'll be here for all eternity."
      0x21CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21CF [0x01] GOTO 0x21FF
      0x21D2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 40*) GOTO 0x21E1
-     0x21DA [0x1D] PRINT_EVENT_MESSAGE(message_id=13554*)
+     0x21DA [0x1D] PRINT_EVENT_MESSAGE(message_id=13555*)
     → "Moblins are supposedly gathering certain "elaborate parts" from treasure chests and fallen fiends. We don't know exactly what manner of confounding contraption they intend to contrive, but bring us enough parts and we'll <ahem> "piece it together.""
      0x21DD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21DE [0x01] GOTO 0x21FF
      0x21E1 [0x02] IF !(ExtData[1]->WorkLocal[7] == 41*) GOTO 0x21F0
-     0x21E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x21E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x21EC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21ED [0x01] GOTO 0x21FF
      0x21F0 [0x02] IF !(ExtData[1]->WorkLocal[7] == 42*) GOTO 0x21FF
-     0x21F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13544*)
+     0x21F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13545*)
     → "You've researched the rest, so now it's time to take on the best! Brave close encounters with the burrows' most feral fiends to receive glory, gil, and [girls/guys]! ...Wait, we don't have the funds for those last two."
      0x21FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21FC [0x01] GOTO 0x21FF
@@ -3831,36 +3831,36 @@ SUBROUTINE_1CC9:
   9: 0x2227 [0x3E] IF !(ExtData[1]->WorkLocal[68] bit 2*) GOTO 0x2231
  10: 0x222E [0x0B] ExtData[1]->WorkLocal[7]++
  11: 0x2231 [0x02] IF !(ExtData[1]->WorkLocal[21] <= 0*) GOTO 0x2244
- 12: 0x2239 [0x1D] PRINT_EVENT_MESSAGE(message_id=13566*)
+ 12: 0x2239 [0x1D] PRINT_EVENT_MESSAGE(message_id=13567*)
     → "It must have been really hairy down there, huh? Oh, and as I explained before, we'll be needing that grimoire of yours for analysis."
  13: 0x223C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x223D [0x1D] PRINT_EVENT_MESSAGE(message_id=13567*)
+ 14: 0x223D [0x1D] PRINT_EVENT_MESSAGE(message_id=13568*)
     → "Here's a new grimoire we've prepared for you. Go on, take it."
  15: 0x2240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x2241 [0x01] GOTO 0x2293
  17: 0x2244 [0x03] Work_Zone[2] = 2145*
- 18: 0x2249 [0x1D] PRINT_EVENT_MESSAGE(message_id=13562*)
+ 18: 0x2249 [0x1D] PRINT_EVENT_MESSAGE(message_id=13563*)
     → "Good job. Now it's time to record your latest discoveries in your $3."
  19: 0x224C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x224D [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x225C
- 21: 0x2255 [0x1D] PRINT_EVENT_MESSAGE(message_id=13565*)
+ 21: 0x2255 [0x1D] PRINT_EVENT_MESSAGE(message_id=13566*)
     → "Well, you may not have met any goals this time, but failures are the building blocks of success. Good luck next time!"
  22: 0x2258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x2259 [0x01] GOTO 0x2293
  24: 0x225C [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x2270
  25: 0x2264 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
- 26: 0x2269 [0x1D] PRINT_EVENT_MESSAGE(message_id=13563*)
+ 26: 0x2269 [0x1D] PRINT_EVENT_MESSAGE(message_id=13564*)
     → "It looks like you've completed $0 goal[/s] on this last expedition. Now that everything's been recorded, you can have your grimoire back."
  27: 0x226C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x226D [0x01] GOTO 0x2293
  29: 0x2270 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x2284
  30: 0x2278 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
- 31: 0x227D [0x1D] PRINT_EVENT_MESSAGE(message_id=13563*)
+ 31: 0x227D [0x1D] PRINT_EVENT_MESSAGE(message_id=13564*)
     → "It looks like you've completed $0 goal[/s] on this last expedition. Now that everything's been recorded, you can have your grimoire back."
  32: 0x2280 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x2281 [0x01] GOTO 0x2293
  34: 0x2284 [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x2293
- 35: 0x228C [0x1D] PRINT_EVENT_MESSAGE(message_id=13564*)
+ 35: 0x228C [0x1D] PRINT_EVENT_MESSAGE(message_id=13565*)
     → "You've completed all three goals!? Great! You're a credit to the Exploration Committee, <Player>, and more than worthy of your grimoire."
  36: 0x228F [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x2290 [0x01] GOTO 0x2293
@@ -3890,7 +3890,7 @@ SUBROUTINE_2293:
 
 ```
   0: 0x2295 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x229A [0x1D] PRINT_EVENT_MESSAGE(message_id=13320*)
+  1: 0x229A [0x1D] PRINT_EVENT_MESSAGE(message_id=13321*)
     → "Hmmm. Sorry, but I don't think you have what it takes to survive these underground caverns."
   2: 0x229D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x229E [0x21] END_EVENT
@@ -3917,7 +3917,7 @@ SUBROUTINE_2293:
 
 ```
   0: 0x22A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x22A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13568*)
+  1: 0x22A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13569*)
     → "I'm part of the Meeble Burrows Exploration Committee, but I'm not allowed to say anything else about our operations right now. If you'd like to learn more, try talking with the Burrow Investigator in Upper Jeuno."
   2: 0x22A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x22A9 [0x21] END_EVENT
@@ -3945,10 +3945,10 @@ SUBROUTINE_2293:
 
 ```
   0: 0x22AB [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x22B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13482*)
+  1: 0x22B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13483*)
     → "What? You've already given us a grimoire, and one's the limit."
   2: 0x22B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13483*)
+  3: 0x22B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
     → "Slow down, you're moving too fast. If you want to change to a different one, you've got to withdraw the one we're already keeping."
   4: 0x22B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x22B8 [0x21] END_EVENT
@@ -3976,7 +3976,7 @@ SUBROUTINE_2293:
 
 ```
   0: 0x22BA [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x22BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13484*)
+  1: 0x22BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13485*)
     → "I like your gumption, but you've exceeded the authorized time underground. Remember, safety first. Come back in $1 [hour/minute][/s] (Earth time) and we'll let you descend into the depths again."
   2: 0x22C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x22C3 [0x21] END_EVENT
@@ -4076,11 +4076,11 @@ SUBROUTINE_2293:
  11: 0x22F4 [0x1A] CALL_SUBROUTINE(address=0x1C0E)
  12: 0x22F7 [0x9D] ExtData[1]->WorkLocal[16] = 0x2659[ExtData[1]->WorkLocal[65]] // Read WORD
  13: 0x22FF [0x03] Work_Zone[2] = Work_Zone[5]
- 14: 0x2304 [0x1D] PRINT_EVENT_MESSAGE(message_id=13481*)
+ 14: 0x2304 [0x1D] PRINT_EVENT_MESSAGE(message_id=13482*)
     → "What do we have here? This grimoire already seems to contain feats from expeditions under [Sauromugue Champaign/Batallia Downs]."
  15: 0x2307 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x2308 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
- 17: 0x230D [0x1D] PRINT_EVENT_MESSAGE(message_id=13555*)
+ 17: 0x230D [0x1D] PRINT_EVENT_MESSAGE(message_id=13556*)
     → "$0, huh? That'll grant you the following effects:"
  18: 0x2310 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x2311 [0x1A] CALL_SUBROUTINE(address=0x1C4E)

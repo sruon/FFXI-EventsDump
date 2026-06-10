@@ -34,93 +34,93 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x28CF      |       10447 |
-|       1 | 0x28D0      |       10448 |
-|       2 | 0x28E1      |       10465 |
-|       3 | 0x28E2      |       10466 |
-|       4 | 0x28E3      |       10467 |
+|       0 | 0x28D0      |       10448 |
+|       1 | 0x28D1      |       10449 |
+|       2 | 0x28E2      |       10466 |
+|       3 | 0x28E3      |       10467 |
+|       4 | 0x28E4      |       10468 |
 |       5 | 0x00F9      |         249 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0064      |         100 |
 |       8 | 0x00C8      |         200 |
 |       9 | 0x0096      |         150 |
-|      10 | 0x2916      |       10518 |
-|      11 | 0x2917      |       10519 |
-|      12 | 0x2918      |       10520 |
+|      10 | 0x2917      |       10519 |
+|      11 | 0x2918      |       10520 |
+|      12 | 0x2919      |       10521 |
 |      13 | 0x0007      |           7 |
-|      14 | 0x2919      |       10521 |
-|      15 | 0x291A      |       10522 |
-|      16 | 0x291B      |       10523 |
-|      17 | 0x291E      |       10526 |
-|      18 | 0x291F      |       10527 |
+|      14 | 0x291A      |       10522 |
+|      15 | 0x291B      |       10523 |
+|      16 | 0x291C      |       10524 |
+|      17 | 0x291F      |       10527 |
+|      18 | 0x2920      |       10528 |
 |      19 | 0x0006      |           6 |
-|      20 | 0x2923      |       10531 |
-|      21 | 0x2925      |       10533 |
+|      20 | 0x2924      |       10532 |
+|      21 | 0x2926      |       10534 |
 |      22 | 0x0001      |           1 |
-|      23 | 0x2926      |       10534 |
-|      24 | 0x2927      |       10535 |
-|      25 | 0x292A      |       10538 |
-|      26 | 0x292B      |       10539 |
+|      23 | 0x2927      |       10535 |
+|      24 | 0x2928      |       10536 |
+|      25 | 0x292B      |       10539 |
+|      26 | 0x292C      |       10540 |
 |      27 | 0x0002      |           2 |
-|      28 | 0x292C      |       10540 |
-|      29 | 0x292D      |       10541 |
-|      30 | 0x292E      |       10542 |
-|      31 | 0x292F      |       10543 |
-|      32 | 0x2930      |       10544 |
+|      28 | 0x292D      |       10541 |
+|      29 | 0x292E      |       10542 |
+|      30 | 0x292F      |       10543 |
+|      31 | 0x2930      |       10544 |
+|      32 | 0x2931      |       10545 |
 |      33 | 0x0105      |         261 |
 |      34 | 0x001E      |          30 |
-|      35 | 0x2931      |       10545 |
+|      35 | 0x2932      |       10546 |
 |      36 | 0x0078      |         120 |
 |      37 | 0x0003      |           3 |
 |      38 | 0x0005      |           5 |
-|      39 | 0x2933      |       10547 |
-|      40 | 0x2934      |       10548 |
-|      41 | 0x2932      |       10546 |
-|      42 | 0x2945      |       10565 |
-|      43 | 0x2946      |       10566 |
-|      44 | 0x2935      |       10549 |
-|      45 | 0x2936      |       10550 |
-|      46 | 0x2938      |       10552 |
-|      47 | 0x2939      |       10553 |
+|      39 | 0x2934      |       10548 |
+|      40 | 0x2935      |       10549 |
+|      41 | 0x2933      |       10547 |
+|      42 | 0x2946      |       10566 |
+|      43 | 0x2947      |       10567 |
+|      44 | 0x2936      |       10550 |
+|      45 | 0x2937      |       10551 |
+|      46 | 0x2939      |       10553 |
+|      47 | 0x293A      |       10554 |
 |      48 | 0x0015      |          21 |
 |      49 | 0x0050      |          80 |
-|      50 | 0x293B      |       10555 |
-|      51 | 0x293C      |       10556 |
+|      50 | 0x293C      |       10556 |
+|      51 | 0x293D      |       10557 |
 
 ## String References
 
-- **10447**: Try though you may, there will come a time when failure is inevitable.
-- **10448**: Channel that agony and bitterness into creating a new plan.
-- **10465**: If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did!
-- **10466**: As soon as we gather our companions, we'll be jumping into the fray again. I just hope this little researcher doesn't get in our way...
-- **10518**: Hmmm... Hrmmm... So it's time to use...no...
-- **10519**: Hello? You're an adventurer, right? Maybe you can help us out.
-- **10520**: Let me introduce myself and my companion. We're from the Rhinostery in Windurst.
-- **10521**: I was hired by the ministry to accompany this researcher to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree] and assist him in his study of a series of giant crystals.
-- **10522**: But what was waiting for us inside those crystals was more than I could deal with...
-- **10523**: We tried countless times, but I could not defeat that beast. Another researcher at the Rhinostery sympathized with our plight and developed an improved tuning fork.
-- **10526**: Do you see what I have to deal with? I don't know how much longer I can work with such a pessimist.
-- **10527**: That's where you come in. I was thinking of letting one of you adventurers test out the new fork and prove to my colleague that it is able to return data valuable to his research.
-- **10531**: ... Yes, but sir... The Rhinostery has been pressing us to produce results. If we do not take some sort of action quickly...
-- **10533**: No, one round could not hurt.
-- **10535**: Are you really-dilly sure? [Fork me!/On second thought...]
-- **10538**: The researcher who made the $1 warned that "the door home would only open to those who defeated the prime avatar."
-- **10539**: I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey. Remember, you have to be at least a level $3 summoner.
-- **10540**: Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?
-- **10541**: Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days.
-- **10542**: Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]
-- **10543**: Sir, our adventurer has completed [his/her] preparations and requests a warp.
-- **10546**: Don't use that excuse on me, [young man/young lady]. If you want another $1, all you have to do ask.
-- **10547**: If you do not bring the $1 we gave you, my companion cannot warp you to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree].
-- **10548**: Did you remember to bring the $1?
-- **10549**: What!? You defeated the prime avatar!?
-- **10550**: Sir!
-- **10552**: ... Sir...
-- **10553**: ... (Now if I could only find me some real work so I could do some real adventuring...)
-- **10555**: Remember that you must fight the prime avatar as a level $3 summoner. As you already know, this will not be an easy task. Prepare well for the battle.
-- **10556**: Do you want another mini tuning fork? [Fork me baby, one more time./Stick a fork in me, I'm done.]
-- **10565**: Ah, you are back. How was your battle with the avatar?
-- **10566**: Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge.
+- **10448**: Try though you may, there will come a time when failure is inevitable.
+- **10449**: Channel that agony and bitterness into creating a new plan.
+- **10466**: If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did!
+- **10467**: As soon as we gather our companions, we'll be jumping into the fray again. I just hope this little researcher doesn't get in our way...
+- **10519**: Hmmm... Hrmmm... So it's time to use...no...
+- **10520**: Hello? You're an adventurer, right? Maybe you can help us out.
+- **10521**: Let me introduce myself and my companion. We're from the Rhinostery in Windurst.
+- **10522**: I was hired by the ministry to accompany this researcher to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree] and assist him in his study of a series of giant crystals.
+- **10523**: But what was waiting for us inside those crystals was more than I could deal with...
+- **10524**: We tried countless times, but I could not defeat that beast. Another researcher at the Rhinostery sympathized with our plight and developed an improved tuning fork.
+- **10527**: Do you see what I have to deal with? I don't know how much longer I can work with such a pessimist.
+- **10528**: That's where you come in. I was thinking of letting one of you adventurers test out the new fork and prove to my colleague that it is able to return data valuable to his research.
+- **10532**: ... Yes, but sir... The Rhinostery has been pressing us to produce results. If we do not take some sort of action quickly...
+- **10534**: No, one round could not hurt.
+- **10536**: Are you really-dilly sure? [Fork me!/On second thought...]
+- **10539**: The researcher who made the $1 warned that "the door home would only open to those who defeated the prime avatar."
+- **10540**: I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey. Remember, you have to be at least a level $3 summoner.
+- **10541**: Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?
+- **10542**: Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days.
+- **10543**: Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]
+- **10544**: Sir, our adventurer has completed [his/her] preparations and requests a warp.
+- **10547**: Don't use that excuse on me, [young man/young lady]. If you want another $1, all you have to do ask.
+- **10548**: If you do not bring the $1 we gave you, my companion cannot warp you to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree].
+- **10549**: Did you remember to bring the $1?
+- **10550**: What!? You defeated the prime avatar!?
+- **10551**: Sir!
+- **10553**: ... Sir...
+- **10554**: ... (Now if I could only find me some real work so I could do some real adventuring...)
+- **10556**: Remember that you must fight the prime avatar as a level $3 summoner. As you already know, this will not be an easy task. Prepare well for the battle.
+- **10557**: Do you want another mini tuning fork? [Fork me baby, one more time./Stick a fork in me, I'm done.]
+- **10566**: Ah, you are back. How was your battle with the avatar?
+- **10567**: Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge.
 
 ## Events
 
@@ -192,10 +192,10 @@
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=10447*)
+  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
     → "Try though you may, there will come a time when failure is inevitable."
   4: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10449*)
     → "Channel that agony and bitterness into creating a new plan."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -229,17 +229,17 @@
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0024 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0025 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
+  3: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
     → "If you don't prepare yourself for battle, you'll get beaten to a pulp, like we did!"
   4: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
+  5: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10467*)
     → "As soon as we gather our companions, we'll be jumping into the fray again. I just hope this little researcher doesn't get in our way..."
   6: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002E [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
   8: 0x0037 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x0038 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x13)
- 11: 0x0044 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10467*]:
+ 11: 0x0044 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10468*]:
     → "What nonsense! If I don't go with you, there's no pointaru to the research now, is there?"
  12: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x004C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x14)
@@ -439,30 +439,30 @@
 #### Opcodes
 
 ```
-  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=10518*)
+  0: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=10519*)
     → "Hmmm... Hrmmm... So it's time to use...no..."
   1: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0165 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
-  3: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=10519*)
+  3: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=10520*)
     → "Hello? You're an adventurer, right? Maybe you can help us out."
   4: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0172 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059) (Basic look)
   6: 0x017C [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
-  7: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=10520*)
+  7: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=10521*)
     → "Let me introduce myself and my companion. We're from the Rhinostery in Windurst."
   8: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0189 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer (Basic look)
  10: 0x0193 [0x6E] EventEntity uses emote 7*
  11: 0x019A [0x99] Wait for EventEntity animation to complete
- 12: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=10521*)
+ 12: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=10522*)
     → "I was hired by the ministry to accompany this researcher to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree] and assist him in his study of a series of giant crystals."
  13: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10522*)
+ 14: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10523*)
     → "But what was waiting for us inside those crystals was more than I could deal with..."
  15: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x01A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  17: 0x01A8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
- 18: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10523*)
+ 18: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=10524*)
     → "We tried countless times, but I could not defeat that beast. Another researcher at the Rhinostery sympathized with our plight and developed an improved tuning fork."
  19: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01B1 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
@@ -475,12 +475,12 @@
  27: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x19)
  28: 0x01DD [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer (Basic look)
  29: 0x01E7 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
- 30: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10526*)
+ 30: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
     → "Do you see what I have to deal with? I don't know how much longer I can work with such a pessimist."
  31: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x01F4 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1A)
  33: 0x01FB [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A)
- 34: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
+ 34: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=10528*)
     → "That's where you come in. I was thinking of letting one of you adventurers test out the new fork and prove to my colleague that it is able to return data valuable to his research."
  35: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0208 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -491,7 +491,7 @@
  41: 0x021D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2D)
  42: 0x0224 [0x6E] EventEntity uses emote 6*
  43: 0x022B [0x99] Wait for EventEntity animation to complete
- 44: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=10531*)
+ 44: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=10532*)
     → "... Yes, but sir... The Rhinostery has been pressing us to produce results. If we do not take some sort of action quickly..."
  45: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0234 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -502,7 +502,7 @@
  51: 0x0249 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2E)
  52: 0x0250 [0x79] Verctissa (ID: 17809498/0x010FC05A) looks at Edal-Tahdal (ID: 17809497/0x010FC059) (Basic look)
  53: 0x025A [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
- 54: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=10533*)
+ 54: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=10534*)
     → "No, one round could not hurt."
  55: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0265 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
@@ -511,12 +511,12 @@
  59: 0x027D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  60: 0x027E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
  61: 0x0283 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 62: 0x028A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10534*]:
+ 62: 0x028A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10535*]:
     → "You know that you probably won't gain anything from this battle-waddle. Are you sure you still want the fork?"
  63: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0292 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
  65: 0x0299 [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer (Basic look)
- 66: 0x02A3 [0x24] CREATE_DIALOG(message_id=10535*, default_option=0*, option_flags=0*)
+ 66: 0x02A3 [0x24] CREATE_DIALOG(message_id=10536*, default_option=0*, option_flags=0*)
     → "Are you really-dilly sure? [Fork me!/On second thought...]"
  67: 0x02AA [0x25] WAIT_DIALOG_SELECT()
  68: 0x02AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02F7
@@ -529,10 +529,10 @@
  75: 0x02D2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x2F)
  76: 0x02D9 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
  77: 0x02E2 [0x79] Edal-Tahdal (ID: 17809497/0x010FC059) looks at Verctissa (ID: 17809498/0x010FC05A) (Basic look)
- 78: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
+ 78: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
     → "The researcher who made the $1 warned that "the door home would only open to those who defeated the prime avatar.""
  79: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
+ 80: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
     → "I'm not quite sure what that is supposed to mean, but I suggest that you prepare well before taking on this journey. Remember, you have to be at least a level $3 summoner."
  81: 0x02F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x02F4 [0x01] GOTO 0x0307
@@ -580,13 +580,13 @@ SUBROUTINE_0307:
   1: 0x0310 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at LocalPlayer
   2: 0x0319 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x031A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
+  4: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
     → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
   5: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+  6: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
     → "Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days."
   7: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0323 [0x24] CREATE_DIALOG(message_id=10542*, default_option=0*, option_flags=Work_Zone[6])
+  8: 0x0323 [0x24] CREATE_DIALOG(message_id=10543*, default_option=0*, option_flags=Work_Zone[6])
     → "Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]"
   9: 0x032A [0x25] WAIT_DIALOG_SELECT()
  10: 0x032B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AB
@@ -597,19 +597,19 @@ SUBROUTINE_0307:
  15: 0x0343 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Verctissa (ID: 17809498/0x010FC05A) Render.Flags0 and Render.Flags3 conditions are met
  16: 0x0348 [0x6E] EventEntity uses emote 1*
  17: 0x034F [0x99] Wait for EventEntity animation to complete
- 18: 0x0354 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
+ 18: 0x0354 [0x1D] PRINT_EVENT_MESSAGE(message_id=10544*)
     → "Sir, our adventurer has completed [his/her] preparations and requests a warp."
  19: 0x0357 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0358 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  21: 0x0359 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Edal-Tahdal (ID: 17809497/0x010FC059) Render.Flags0 and Render.Flags3 conditions are met
  22: 0x035E [0x6E] Edal-Tahdal (ID: 17809497/0x010FC059) uses emote 7*
  23: 0x0365 [0x99] Wait for Edal-Tahdal (ID: 17809497/0x010FC059) animation to complete
- 24: 0x036A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10544*]:
+ 24: 0x036A [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10545*]:
     → "... Abracadoodle-strudel-poodle... ..."
  25: 0x0371 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0372 [0x73] Edal-Tahdal (ID: 17809497/0x010FC059) casts magic 261* on LocalPlayer
  27: 0x037D [0x1C] WAIT(30* ticks)
- 28: 0x0380 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10545*]:
+ 28: 0x0380 [0x2B] Edal-Tahdal (ID: 17809497/0x010FC059) [10546*]:
     → "Sha-mone!"
  29: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0388 [0x4A] Verctissa (ID: 17809498/0x010FC05A) looks at LocalPlayer
@@ -660,32 +660,32 @@ SUBROUTINE_03BB:
   3: 0x03CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x03CF [0x3E] IF !(Work_Zone[6] bit 5*) GOTO 0x03E3
   5: 0x03D6 [0x03] Work_Zone[1] = 0*
-  6: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10547*)
+  6: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10548*)
     → "If you do not bring the $1 we gave you, my companion cannot warp you to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]."
   7: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03DF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
   9: 0x03E1 [0x21] END_EVENT
  10: 0x03E2 [0x00] END_REQSTACK()
- 11: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
+ 11: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
     → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
  12: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+ 13: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
     → "Also, regardless of whether you defeat the avatar or not, you will be unable to re-enter the protocrystal again for a number of days."
  14: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x03EB [0x24] CREATE_DIALOG(message_id=10542*, default_option=0*, option_flags=Work_Zone[6])
+ 15: 0x03EB [0x24] CREATE_DIALOG(message_id=10543*, default_option=0*, option_flags=Work_Zone[6])
     → "Are you sure you are ready? [Off to [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]!/My dog ate my mini tuning fork./Not just yet...]"
  16: 0x03F2 [0x25] WAIT_DIALOG_SELECT()
  17: 0x03F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0408
  18: 0x03FB [0x42] SET_CLI_EVENT_CANCEL_DATA()
  19: 0x03FC [0x03] Work_Zone[1] = 1*
- 20: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=10548*)
+ 20: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=10549*)
     → "Did you remember to bring the $1?"
  21: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0405 [0x01] GOTO 0x042D
  23: 0x0408 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x041D
  24: 0x0410 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  25: 0x0411 [0x03] Work_Zone[1] = 2*
- 26: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=10546*)
+ 26: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=10547*)
     → "Don't use that excuse on me, [young man/young lady]. If you want another $1, all you have to do ask."
  27: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x041A [0x01] GOTO 0x042D
@@ -721,7 +721,7 @@ SUBROUTINE_042D:
   0: 0x0431 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0436 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0437 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
+  3: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
     → "Are you and Carbuncle ready to fight the prime avatar as a level $3 summoner?"
   4: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x043C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -752,10 +752,10 @@ SUBROUTINE_042D:
   0: 0x0440 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0445 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0446 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0447 [0x1D] PRINT_EVENT_MESSAGE(message_id=10565*)
+  3: 0x0447 [0x1D] PRINT_EVENT_MESSAGE(message_id=10566*)
     → "Ah, you are back. How was your battle with the avatar?"
   4: 0x044A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x044B [0x1D] PRINT_EVENT_MESSAGE(message_id=10566*)
+  5: 0x044B [0x1D] PRINT_EVENT_MESSAGE(message_id=10567*)
     → "Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge."
   6: 0x044E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x044F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -790,21 +790,21 @@ SUBROUTINE_042D:
   1: 0x045D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0462 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0463 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=10549*)
+  4: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=10550*)
     → "What!? You defeated the prime avatar!?"
   5: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0468 [0x4A] Edal-Tahdal (ID: 17809497/0x010FC059) looks at EventEntity
   7: 0x0471 [0x1E] EventEntity looks at Edal-Tahdal (ID: 17809497/0x010FC059) and starts talking
-  8: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=10550*)
+  8: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=10551*)
     → "Sir!"
   9: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x047A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x047B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x047C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x33)
- 13: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
+ 13: 0x0483 [0x1D] PRINT_EVENT_MESSAGE(message_id=10553*)
     → "... Sir..."
  14: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=10553*)
+ 15: 0x0487 [0x1D] PRINT_EVENT_MESSAGE(message_id=10554*)
     → "... (Now if I could only find me some real work so I could do some real adventuring...)"
  16: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x048B [0x6E] Edal-Tahdal (ID: 17809497/0x010FC059) uses emote 21*
@@ -849,11 +849,11 @@ SUBROUTINE_042D:
   6: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x35)
   7: 0x04BB [0x6E] EventEntity uses emote 7*
   8: 0x04C2 [0x99] Wait for EventEntity animation to complete
-  9: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
+  9: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
     → "Remember that you must fight the prime avatar as a level $3 summoner. As you already know, this will not be an easy task. Prepare well for the battle."
  10: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x04CB [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x04FC
- 12: 0x04D3 [0x24] CREATE_DIALOG(message_id=10556*, default_option=0*, option_flags=0*)
+ 12: 0x04D3 [0x24] CREATE_DIALOG(message_id=10557*, default_option=0*, option_flags=0*)
     → "Do you want another mini tuning fork? [Fork me baby, one more time./Stick a fork in me, I'm done.]"
  13: 0x04DA [0x25] WAIT_DIALOG_SELECT()
  14: 0x04DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EC

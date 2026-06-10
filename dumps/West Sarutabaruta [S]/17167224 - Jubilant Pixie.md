@@ -32,7 +32,7 @@
 |       5 | 0x0009      |           9 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x000A      |          10 |
-|       8 | 0x1F3F      |        7999 |
+|       8 | 0x1F40      |        8000 |
 |       9 | 0x4849      |       18505 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x494C      |       18764 |
@@ -66,21 +66,21 @@
 |      39 | 0x4AAD      |       19117 |
 |      40 | 0x0014      |          20 |
 |      41 | 0x48AA      |       18602 |
-|      42 | 0x1F40      |        8000 |
-|      43 | 0x1F41      |        8001 |
+|      42 | 0x1F41      |        8001 |
+|      43 | 0x1F42      |        8002 |
 |      44 | 0x00C9      |         201 |
-|      45 | 0x1F42      |        8002 |
+|      45 | 0x1F43      |        8003 |
 |      46 | 0x0065      |         101 |
 |      47 | 0x03E7      |         999 |
 |      48 | 0x00CA      |         202 |
-|      49 | 0x1F44      |        8004 |
-|      50 | 0x1F45      |        8005 |
+|      49 | 0x1F45      |        8005 |
+|      50 | 0x1F46      |        8006 |
 |      51 | 0x0066      |         102 |
-|      52 | 0x1F46      |        8006 |
-|      53 | 0x1F47      |        8007 |
-|      54 | 0x1F48      |        8008 |
-|      55 | 0x1F49      |        8009 |
-|      56 | 0x1F4A      |        8010 |
+|      52 | 0x1F47      |        8007 |
+|      53 | 0x1F48      |        8008 |
+|      54 | 0x1F49      |        8009 |
+|      55 | 0x1F4A      |        8010 |
+|      56 | 0x1F4B      |        8011 |
 |      57 | 0x008D      |         141 |
 |      58 | 0xFFFC42F8  |  4294722296 |
 |      59 | 0xA1220     |      660000 |
@@ -101,26 +101,26 @@
 |      74 | 0x001E      |          30 |
 |      75 | 0x0223      |         547 |
 |      76 | 0x03B3      |         947 |
-|      77 | 0x209F      |        8351 |
+|      77 | 0x20A0      |        8352 |
 |      78 | 0x0078      |         120 |
 |      79 | 0x003C      |          60 |
 |      80 | 0x0028      |          40 |
 |      81 | 0x0856      |        2134 |
-|      82 | 0x20A0      |        8352 |
+|      82 | 0x20A1      |        8353 |
 |      83 | 0x0064      |         100 |
 |      84 | 0x0032      |          50 |
 |      85 | 0x085C      |        2140 |
 |      86 | 0x0050      |          80 |
-|      87 | 0x20A1      |        8353 |
+|      87 | 0x20A2      |        8354 |
 |      88 | 0xFFFC59F4  |  4294728180 |
 |      89 | 0xA0A25     |      657957 |
 |      90 | 0xFFFFBD1C  |  4294950172 |
 |      91 | 0x092E      |        2350 |
 |      92 | 0x00AA      |         170 |
-|      93 | 0x20A2      |        8354 |
+|      93 | 0x20A3      |        8355 |
 |      94 | 0x0096      |         150 |
 |      95 | 0x0854      |        2132 |
-|      96 | 0x20A3      |        8355 |
+|      96 | 0x20A4      |        8356 |
 |      97 | 0x005A      |          90 |
 |      98 | 0xFFFC4B5B  |  4294724443 |
 |      99 | 0xA1173     |      659827 |
@@ -129,40 +129,40 @@
 |     102 | 0xA14F0     |      660720 |
 |     103 | 0xFFFFBCCA  |  4294950090 |
 |     104 | 0x07D0      |        2000 |
-|     105 | 0x20A4      |        8356 |
+|     105 | 0x20A5      |        8357 |
 |     106 | 0x006E      |         110 |
 |     107 | 0x0857      |        2135 |
-|     108 | 0x20A5      |        8357 |
+|     108 | 0x20A6      |        8358 |
 |     109 | 0x0855      |        2133 |
-|     110 | 0x20A6      |        8358 |
+|     110 | 0x20A7      |        8359 |
 |     111 | 0x008C      |         140 |
 |     112 | 0x08C0      |        2240 |
-|     113 | 0x20A7      |        8359 |
+|     113 | 0x20A8      |        8360 |
 |     114 | 0x0041      |          65 |
 |     115 | 0x0015      |          21 |
 |     116 | 0x0091      |         145 |
 |     117 | 0x0850      |        2128 |
 |     118 | 0x0046      |          70 |
-|     119 | 0x20A8      |        8360 |
+|     119 | 0x20A9      |        8361 |
 |     120 | 0x08C5      |        2245 |
-|     121 | 0x20A9      |        8361 |
+|     121 | 0x20AA      |        8362 |
 |     122 | 0x0087      |         135 |
-|     123 | 0x20AA      |        8362 |
+|     123 | 0x20AB      |        8363 |
 |     124 | 0x08C2      |        2242 |
-|     125 | 0x20AB      |        8363 |
+|     125 | 0x20AC      |        8364 |
 |     126 | 0x00A0      |         160 |
-|     127 | 0x20AC      |        8364 |
-|     128 | 0x20AD      |        8365 |
+|     127 | 0x20AD      |        8365 |
+|     128 | 0x20AE      |        8366 |
 |     129 | 0x0154      |         340 |
-|     130 | 0x20AE      |        8366 |
-|     131 | 0x20AF      |        8367 |
-|     132 | 0x20B0      |        8368 |
-|     133 | 0x20B1      |        8369 |
-|     134 | 0x20B2      |        8370 |
+|     130 | 0x20AF      |        8367 |
+|     131 | 0x20B0      |        8368 |
+|     132 | 0x20B1      |        8369 |
+|     133 | 0x20B2      |        8370 |
+|     134 | 0x20B3      |        8371 |
 |     135 | 0x001D      |          29 |
-|     136 | 0x20B3      |        8371 |
-|     137 | 0x20B4      |        8372 |
-|     138 | 0x20B5      |        8373 |
+|     136 | 0x20B4      |        8372 |
+|     137 | 0x20B5      |        8373 |
+|     138 | 0x20B6      |        8374 |
 |     139 | 0x00B4      |         180 |
 |     140 | 0x405B0     |      263600 |
 |     141 | 0x9C40      |       40000 |
@@ -221,22 +221,22 @@
 
 ## String References
 
-- **7999**: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
-- **8000**: Dost thou find this enchantment to thy liking?
-- **8001**: Accept the item? [Accept./Refuse. ($0 times remaining)]
-- **8002**: Splendid! May it serve thee well.
-- **8004**: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
-- **8005**: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
-- **8006**: What's this? 'Twould appear that thy weapon can endure no further enchantments.
-- **8007**: Though it may fall short of thy expectations, pray accept it.
-- **8008**: Otherwise, we shall have no choice but to dispose of it.
-- **8009**: Many thanks for thine assistance!
-- **8010**: Pray accept this $0 as but a humble token of our gratitude.
-- **8351**: This door has already been repaired with $3.
-- **8354**: Lilisette applies $3 to the cracks on the entrance.
-- **8362**: This door has already been repaired with $3, although perhaps not quite to the highest standard.
-- **8367**: Lilisette prods testily at $3.
-- **8369**: 3 became dislodged!
+- **8000**: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+- **8001**: Dost thou find this enchantment to thy liking?
+- **8002**: Accept the item? [Accept./Refuse. ($0 times remaining)]
+- **8003**: Splendid! May it serve thee well.
+- **8005**: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+- **8006**: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+- **8007**: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+- **8008**: Though it may fall short of thy expectations, pray accept it.
+- **8009**: Otherwise, we shall have no choice but to dispose of it.
+- **8010**: Many thanks for thine assistance!
+- **8011**: Pray accept this $0 as but a humble token of our gratitude.
+- **8352**: This door has already been repaired with $3.
+- **8355**: Lilisette applies $3 to the cracks on the entrance.
+- **8363**: This door has already been repaired with $3, although perhaps not quite to the highest standard.
+- **8368**: Lilisette prods testily at $3.
+- **8370**: 3 became dislodged!
 
 ## Events
 
@@ -332,7 +332,7 @@
  12: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
  13: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  14: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 15: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+ 15: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward."
  16: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0063
@@ -398,14 +398,14 @@
 
 SUBROUTINE_0193:
  77: 0x0193 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[4], buffer1=ExtData[1]->WorkLocal[5], buffer2=ExtData[1]->WorkLocal[6], buffer3=ExtData[1]->WorkLocal[7])
- 78: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
+ 78: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "Dost thou find this enchantment to thy liking?"
  79: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01A1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 
 SUBROUTINE_01A4:
  81: 0x01A4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 82: 0x01A9 [0x24] CREATE_DIALOG(message_id=8001*, default_option=0*, option_flags=0*)
+ 82: 0x01A9 [0x24] CREATE_DIALOG(message_id=8002*, default_option=0*, option_flags=0*)
     → "Accept the item? [Accept./Refuse. ($0 times remaining)]"
  83: 0x01B0 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -414,7 +414,7 @@ SUBROUTINE_01A4:
  87: 0x01C0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  88: 0x01C2 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
  89: 0x01C7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x01F4
- 90: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
+ 90: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
     → "Splendid! May it serve thee well."
  91: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x01D3 [0x03] Work_Zone[1] = 101*
@@ -432,21 +432,21 @@ SUBROUTINE_01F9:
 102: 0x020D [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
 103: 0x0212 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x0244
 104: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0232
-105: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+105: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days..."
 106: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
+107: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
     → "In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!"
 108: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x022A [0x03] Work_Zone[1] = 102*
 110: 0x022F [0x01] GOTO 0x0241
-111: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+111: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
     → "What's this? 'Twould appear that thy weapon can endure no further enchantments."
 112: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+113: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "Though it may fall short of thy expectations, pray accept it."
 114: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
+115: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "Otherwise, we shall have no choice but to dispose of it."
 116: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x023E [0x01] GOTO 0x01A4
@@ -491,11 +491,11 @@ SUBROUTINE_024C:
   3: 0x0259 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x025E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x025F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
+  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
     → "Many thanks for thine assistance!"
   7: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0264 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-  9: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+  9: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "Pray accept this $0 as but a humble token of our gratitude."
  10: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x026D [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -745,7 +745,7 @@ SUBROUTINE_0343:
  47: 0x037D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[547*, 0*]
  48: 0x038E [0x1A] CALL_SUBROUTINE(address=0x2281)
  49: 0x0391 [0x03] Work_Zone[2] = 947*
- 50: 0x0396 [0x48] [System] [8351*]:
+ 50: 0x0396 [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
  51: 0x0399 [0x1C] WAIT(120* ticks)
  52: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -767,7 +767,7 @@ SUBROUTINE_0343:
  68: 0x0405 [0x52] END_LOAD_SCHEDULER: End scheduler "w031" with entities [EventEntity, EventEntity], work=547*
  69: 0x0414 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
  70: 0x0425 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w032" with entities [EventEntity, EventEntity], work=[547*, 0*]
- 71: 0x0436 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8352*]:
+ 71: 0x0436 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
     → "So here is where the magic towers are found."
  72: 0x043D [0x1C] WAIT(100* ticks)
  73: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -788,7 +788,7 @@ SUBROUTINE_0343:
  88: 0x04B6 [0x7B] Lilisette (ID: 17167189/0x0105F355) stops talking
  89: 0x04BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
  90: 0x04CA [0x1C] WAIT(80* ticks)
- 91: 0x04CD [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
+ 91: 0x04CD [0x2B] Lilisette (ID: 17167189/0x0105F355) [8354*]:
     → "And all I'm required to do is mend cracks using the putty..."
  92: 0x04D4 [0x1C] WAIT(20* ticks)
  93: 0x04D7 [0x52] END_LOAD_SCHEDULER: End scheduler "w033" with entities [EventEntity, EventEntity], work=547*
@@ -802,7 +802,7 @@ SUBROUTINE_0343:
 101: 0x052B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 102: 0x053C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w035" with entities [EventEntity, EventEntity], work=[547*, 0*]
 103: 0x054D [0x03] Work_Zone[2] = 947*
-104: 0x0552 [0x48] [System] [8354*]:
+104: 0x0552 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 105: 0x0555 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0556 [0x1C] WAIT(100* ticks)
@@ -811,7 +811,7 @@ SUBROUTINE_0343:
 109: 0x056B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
 110: 0x057A [0x52] END_LOAD_SCHEDULER: End scheduler "w035" with entities [EventEntity, EventEntity], work=547*
 111: 0x0589 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w036" with entities [EventEntity, EventEntity], work=[547*, 0*]
-112: 0x059A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8355*]:
+112: 0x059A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
     → "Well, that was a piece of cake. I didn't even break a single bead of sweat!"
 113: 0x05A1 [0x1C] WAIT(90* ticks)
 114: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -845,7 +845,7 @@ SUBROUTINE_0614:
 140: 0x067D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[547*, 0*]
 141: 0x068E [0x1A] CALL_SUBROUTINE(address=0x2281)
 142: 0x0691 [0x03] Work_Zone[2] = 947*
-143: 0x0696 [0x48] [System] [8351*]:
+143: 0x0696 [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
 144: 0x0699 [0x1C] WAIT(120* ticks)
 145: 0x069C [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -861,14 +861,14 @@ SUBROUTINE_0614:
 155: 0x06E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w231" with entities [EventEntity, EventEntity], work=[547*, 0*]
 156: 0x06F9 [0x1A] CALL_SUBROUTINE(address=0x21FD)
 157: 0x06FC [0x03] Work_Zone[2] = 947*
-158: 0x0701 [0x48] [System] [8354*]:
+158: 0x0701 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 159: 0x0704 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0705 [0x1C] WAIT(170* ticks)
 161: 0x0708 [0x52] END_LOAD_SCHEDULER: End scheduler "w231" with entities [EventEntity, EventEntity], work=547*
 162: 0x0717 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w232" with entities [EventEntity, EventEntity], work=[547*, 0*]
 163: 0x0728 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
-164: 0x0737 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
+164: 0x0737 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
     → "Phew... One thing's for certain: Sarutabaruta's vastness is not to be mocked."
 165: 0x073E [0x1C] WAIT(110* ticks)
 166: 0x0741 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -879,7 +879,7 @@ SUBROUTINE_0614:
 171: 0x076C [0x52] END_LOAD_SCHEDULER: End scheduler "w232" with entities [EventEntity, EventEntity], work=547*
 172: 0x077B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 173: 0x078C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w234" with entities [EventEntity, EventEntity], work=[547*, 0*]
-174: 0x079D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
+174: 0x079D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
     → "To think about it, though, isn't this more akin to household drudgery than a test of fighting prowess?"
 175: 0x07A4 [0x1C] WAIT(100* ticks)
 176: 0x07A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -888,7 +888,7 @@ SUBROUTINE_0614:
 179: 0x07C6 [0x1C] WAIT(30* ticks)
 180: 0x07C9 [0x52] END_LOAD_SCHEDULER: End scheduler "w234" with entities [EventEntity, EventEntity], work=547*
 181: 0x07D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w235" with entities [EventEntity, EventEntity], work=[547*, 0*]
-182: 0x07E9 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
+182: 0x07E9 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
     → "..."
 183: 0x07F0 [0x1C] WAIT(140* ticks)
 184: 0x07F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -898,7 +898,7 @@ SUBROUTINE_0614:
 188: 0x0821 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov30" with entities [EventEntity, EventEntity], work=[547*, 0*]
 189: 0x0832 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w236" with entities [EventEntity, EventEntity], work=[547*, 0*]
 190: 0x0843 [0x1C] WAIT(30* ticks)
-191: 0x0846 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
+191: 0x0846 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
     → "Grrr! If only <Player> were here to share the workload, we'd be finished and sipping Windurstian tea by now. But then again, that would sort of defeat the purpose..."
 192: 0x084D [0x1C] WAIT(65* ticks)
 193: 0x0850 [0x6E] LocalPlayer uses emote 21*
@@ -911,13 +911,13 @@ SUBROUTINE_0614:
 200: 0x088D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 201: 0x089E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w237" with entities [EventEntity, EventEntity], work=[547*, 0*]
 202: 0x08AF [0x1C] WAIT(70* ticks)
-203: 0x08B2 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
+203: 0x08B2 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
     → "Hehehe... I can't wait to see the surprised look on <Player>'s face when [he/she] sees me lined up among the Cobras!"
 204: 0x08B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x08BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kia0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2245*
 206: 0x08C9 [0x52] END_LOAD_SCHEDULER: End scheduler "w237" with entities [EventEntity, EventEntity], work=547*
 207: 0x08D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w238" with entities [EventEntity, EventEntity], work=[547*, 0*]
-208: 0x08E9 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
+208: 0x08E9 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8362*]:
     → "Just a little bit further and I'll be home free!"
 209: 0x08F0 [0x1C] WAIT(135* ticks)
 210: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -938,7 +938,7 @@ SUBROUTINE_090A:
 223: 0x0952 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[547*, 0*]
 224: 0x0963 [0x1A] CALL_SUBROUTINE(address=0x2281)
 225: 0x0966 [0x03] Work_Zone[2] = 947*
-226: 0x096B [0x48] [System] [8362*]:
+226: 0x096B [0x48] [System] [8363*]:
     → "This door has already been repaired with $3, although perhaps not quite to the highest standard."
 227: 0x096E [0x1C] WAIT(120* ticks)
 228: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -954,14 +954,14 @@ SUBROUTINE_090A:
 238: 0x09BD [0x1C] WAIT(60* ticks)
 239: 0x09C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w431" with entities [EventEntity, EventEntity], work=[547*, 0*]
 240: 0x09D1 [0x1A] CALL_SUBROUTINE(address=0x21FD)
-241: 0x09D4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8363*]:
+241: 0x09D4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
     → "Yaaargh! Take this, you detestable crack!"
 242: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x09DC [0x52] END_LOAD_SCHEDULER: End scheduler "w431" with entities [EventEntity, EventEntity], work=547*
 244: 0x09EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 245: 0x09FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w432" with entities [EventEntity, EventEntity], work=[547*, 0*]
 246: 0x0A0D [0x03] Work_Zone[2] = 947*
-247: 0x0A12 [0x48] [System] [8354*]:
+247: 0x0A12 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 248: 0x0A15 [0x1C] WAIT(80* ticks)
 249: 0x0A18 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
@@ -970,7 +970,7 @@ SUBROUTINE_090A:
 252: 0x0A30 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yah0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2128*
 253: 0x0A3F [0x52] END_LOAD_SCHEDULER: End scheduler "w432" with entities [EventEntity, EventEntity], work=547*
 254: 0x0A4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w433" with entities [EventEntity, EventEntity], work=[547*, 0*]
-255: 0x0A5F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
+255: 0x0A5F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
     → "Ta-da! Mission accomplished!"
 256: 0x0A66 [0x1C] WAIT(110* ticks)
 257: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -984,7 +984,7 @@ SUBROUTINE_090A:
 265: 0x0ABF [0x52] END_LOAD_SCHEDULER: End scheduler "w434" with entities [EventEntity, EventEntity], work=547*
 266: 0x0ACE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 267: 0x0ADF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w435" with entities [EventEntity, EventEntity], work=[547*, 0*]
-268: 0x0AF0 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
+268: 0x0AF0 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
     → "Hmmm... For a structure that's vital to the Federation's defense, I can't help but feel that this repair method lacks...substance."
 269: 0x0AF7 [0x1C] WAIT(340* ticks)
 270: 0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -994,23 +994,23 @@ SUBROUTINE_090A:
 274: 0x0B2C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2133*
 275: 0x0B3B [0x1C] WAIT(120* ticks)
 276: 0x0B3E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
-277: 0x0B4D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
+277: 0x0B4D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8367*]:
     → "Hmmm..."
 278: 0x0B54 [0x1C] WAIT(200* ticks)
 279: 0x0B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x0B58 [0x52] END_LOAD_SCHEDULER: End scheduler "w436" with entities [EventEntity, EventEntity], work=547*
 281: 0x0B67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[547*, 0*]
 282: 0x0B78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w437" with entities [EventEntity, EventEntity], work=[547*, 0*]
-283: 0x0B89 [0x48] [System] [8367*]:
+283: 0x0B89 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 284: 0x0B8C [0x1C] WAIT(120* ticks)
-285: 0x0B8F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8368*]:
+285: 0x0B8F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8369*]:
     → "Considering the Windurstian predilection for magic, I wonder if I could find someone well-versed in curses..."
 286: 0x0B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
-287: 0x0B97 [0x48] [System] [8367*]:
+287: 0x0B97 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 288: 0x0B9A [0x1C] WAIT(120* ticks)
-289: 0x0B9D [0x48] [System] [8369*]:
+289: 0x0B9D [0x48] [System] [8370*]:
     → "3 became dislodged!"
 290: 0x0BA0 [0x6E] LocalPlayer uses emote 21*
 291: 0x0BA7 [0x99] Wait for LocalPlayer animation to complete
@@ -1021,7 +1021,7 @@ SUBROUTINE_090A:
 296: 0x0BCA [0x1C] WAIT(1* ticks)
 297: 0x0BCD [0x52] END_LOAD_SCHEDULER: End scheduler "w437" with entities [EventEntity, EventEntity], work=547*
 298: 0x0BDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w438" with entities [EventEntity, EventEntity], work=[547*, 0*]
-299: 0x0BED [0x2B] Lilisette (ID: 17167189/0x0105F355) [8370*]:
+299: 0x0BED [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
     → "Whoops."
 300: 0x0BF4 [0x1C] WAIT(50* ticks)
 301: 0x0BF7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ff00" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2135*
@@ -1032,14 +1032,14 @@ SUBROUTINE_090A:
 306: 0x0C38 [0x6E] LocalPlayer uses emote 29*
 307: 0x0C3F [0x99] Wait for LocalPlayer animation to complete
 308: 0x0C44 [0x1C] WAIT(60* ticks)
-309: 0x0C47 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
+309: 0x0C47 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
     → "..."
 310: 0x0C4E [0x1C] WAIT(160* ticks)
 311: 0x0C51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 312: 0x0C52 [0x1A] CALL_SUBROUTINE(address=0x22A2)
 313: 0x0C55 [0x52] END_LOAD_SCHEDULER: End scheduler "w439" with entities [EventEntity, EventEntity], work=547*
 314: 0x0C64 [0x1C] WAIT(90* ticks)
-315: 0x0C67 [0x48] [System] [8354*]:
+315: 0x0C67 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 316: 0x0C6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0C6B [0x1C] WAIT(150* ticks)
@@ -1050,13 +1050,13 @@ SUBROUTINE_090A:
 322: 0x0C98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w440" with entities [EventEntity, EventEntity], work=[547*, 0*]
 323: 0x0CA9 [0x1A] CALL_SUBROUTINE(address=0x2416)
 324: 0x0CAC [0x1C] WAIT(60* ticks)
-325: 0x0CAF [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
+325: 0x0CAF [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
     → "This shouldn't pose any problems...right?"
 326: 0x0CB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 327: 0x0CB7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
 328: 0x0CC6 [0x52] END_LOAD_SCHEDULER: End scheduler "w440" with entities [EventEntity, EventEntity], work=547*
 329: 0x0CD5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w441" with entities [EventEntity, EventEntity], work=[547*, 0*]
-330: 0x0CE6 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
+330: 0x0CE6 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8374*]:
     → "Of course it's fine! I'm just overthinking, is all! Now then, time to head back and claim my hard-earned reward!"
 331: 0x0CED [0x1C] WAIT(180* ticks)
 332: 0x0CF0 [0x1C] WAIT(100* ticks)
@@ -1307,7 +1307,7 @@ SUBROUTINE_0DE9:
  46: 0x0E0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[548*, 0*]
  47: 0x0E20 [0x1A] CALL_SUBROUTINE(address=0x2281)
  48: 0x0E23 [0x03] Work_Zone[2] = 947*
- 49: 0x0E28 [0x48] [System] [8351*]:
+ 49: 0x0E28 [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
  50: 0x0E2B [0x1C] WAIT(120* ticks)
  51: 0x0E2E [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1329,7 +1329,7 @@ SUBROUTINE_0DE9:
  67: 0x0E97 [0x52] END_LOAD_SCHEDULER: End scheduler "w031" with entities [EventEntity, EventEntity], work=548*
  68: 0x0EA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
  69: 0x0EB7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w032" with entities [EventEntity, EventEntity], work=[548*, 0*]
- 70: 0x0EC8 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8352*]:
+ 70: 0x0EC8 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
     → "So here is where the magic towers are found."
  71: 0x0ECF [0x1C] WAIT(100* ticks)
  72: 0x0ED2 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1350,7 +1350,7 @@ SUBROUTINE_0DE9:
  87: 0x0F48 [0x7B] Lilisette (ID: 17167189/0x0105F355) stops talking
  88: 0x0F4D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
  89: 0x0F5C [0x1C] WAIT(80* ticks)
- 90: 0x0F5F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
+ 90: 0x0F5F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8354*]:
     → "And all I'm required to do is mend cracks using the putty..."
  91: 0x0F66 [0x1C] WAIT(20* ticks)
  92: 0x0F69 [0x52] END_LOAD_SCHEDULER: End scheduler "w033" with entities [EventEntity, EventEntity], work=548*
@@ -1364,7 +1364,7 @@ SUBROUTINE_0DE9:
 100: 0x0FBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 101: 0x0FCE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w035" with entities [EventEntity, EventEntity], work=[548*, 0*]
 102: 0x0FDF [0x03] Work_Zone[2] = 947*
-103: 0x0FE4 [0x48] [System] [8354*]:
+103: 0x0FE4 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 104: 0x0FE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0FE8 [0x1C] WAIT(100* ticks)
@@ -1373,7 +1373,7 @@ SUBROUTINE_0DE9:
 108: 0x0FFD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
 109: 0x100C [0x52] END_LOAD_SCHEDULER: End scheduler "w035" with entities [EventEntity, EventEntity], work=548*
 110: 0x101B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w036" with entities [EventEntity, EventEntity], work=[548*, 0*]
-111: 0x102C [0x2B] Lilisette (ID: 17167189/0x0105F355) [8355*]:
+111: 0x102C [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
     → "Well, that was a piece of cake. I didn't even break a single bead of sweat!"
 112: 0x1033 [0x1C] WAIT(90* ticks)
 113: 0x1036 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1405,7 +1405,7 @@ SUBROUTINE_10A6:
 137: 0x10FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[548*, 0*]
 138: 0x110C [0x1A] CALL_SUBROUTINE(address=0x2281)
 139: 0x110F [0x03] Work_Zone[2] = 947*
-140: 0x1114 [0x48] [System] [8351*]:
+140: 0x1114 [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
 141: 0x1117 [0x1C] WAIT(120* ticks)
 142: 0x111A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1421,14 +1421,14 @@ SUBROUTINE_10A6:
 152: 0x1166 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w231" with entities [EventEntity, EventEntity], work=[548*, 0*]
 153: 0x1177 [0x1A] CALL_SUBROUTINE(address=0x21FD)
 154: 0x117A [0x03] Work_Zone[2] = 947*
-155: 0x117F [0x48] [System] [8354*]:
+155: 0x117F [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 156: 0x1182 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x1183 [0x1C] WAIT(170* ticks)
 158: 0x1186 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
 159: 0x1195 [0x52] END_LOAD_SCHEDULER: End scheduler "w231" with entities [EventEntity, EventEntity], work=548*
 160: 0x11A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w232" with entities [EventEntity, EventEntity], work=[548*, 0*]
-161: 0x11B5 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
+161: 0x11B5 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
     → "Phew... One thing's for certain: Sarutabaruta's vastness is not to be mocked."
 162: 0x11BC [0x1C] WAIT(110* ticks)
 163: 0x11BF [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1439,7 +1439,7 @@ SUBROUTINE_10A6:
 168: 0x11EA [0x52] END_LOAD_SCHEDULER: End scheduler "w232" with entities [EventEntity, EventEntity], work=548*
 169: 0x11F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 170: 0x120A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w234" with entities [EventEntity, EventEntity], work=[548*, 0*]
-171: 0x121B [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
+171: 0x121B [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
     → "To think about it, though, isn't this more akin to household drudgery than a test of fighting prowess?"
 172: 0x1222 [0x1C] WAIT(100* ticks)
 173: 0x1225 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1448,7 +1448,7 @@ SUBROUTINE_10A6:
 176: 0x1244 [0x1C] WAIT(30* ticks)
 177: 0x1247 [0x52] END_LOAD_SCHEDULER: End scheduler "w234" with entities [EventEntity, EventEntity], work=548*
 178: 0x1256 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w235" with entities [EventEntity, EventEntity], work=[548*, 0*]
-179: 0x1267 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
+179: 0x1267 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
     → "..."
 180: 0x126E [0x1C] WAIT(140* ticks)
 181: 0x1271 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1458,7 +1458,7 @@ SUBROUTINE_10A6:
 185: 0x129F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov30" with entities [EventEntity, EventEntity], work=[548*, 0*]
 186: 0x12B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w236" with entities [EventEntity, EventEntity], work=[548*, 0*]
 187: 0x12C1 [0x1C] WAIT(30* ticks)
-188: 0x12C4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
+188: 0x12C4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
     → "Grrr! If only <Player> were here to share the workload, we'd be finished and sipping Windurstian tea by now. But then again, that would sort of defeat the purpose..."
 189: 0x12CB [0x1C] WAIT(65* ticks)
 190: 0x12CE [0x6E] LocalPlayer uses emote 21*
@@ -1471,13 +1471,13 @@ SUBROUTINE_10A6:
 197: 0x130B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 198: 0x131C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w237" with entities [EventEntity, EventEntity], work=[548*, 0*]
 199: 0x132D [0x1C] WAIT(70* ticks)
-200: 0x1330 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
+200: 0x1330 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
     → "Hehehe... I can't wait to see the surprised look on <Player>'s face when [he/she] sees me lined up among the Cobras!"
 201: 0x1337 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x1338 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kia0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2245*
 203: 0x1347 [0x52] END_LOAD_SCHEDULER: End scheduler "w237" with entities [EventEntity, EventEntity], work=548*
 204: 0x1356 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w238" with entities [EventEntity, EventEntity], work=[548*, 0*]
-205: 0x1367 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
+205: 0x1367 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8362*]:
     → "Just a little bit further and I'll be home free!"
 206: 0x136E [0x1C] WAIT(135* ticks)
 207: 0x1371 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1497,7 +1497,7 @@ SUBROUTINE_1388:
 219: 0x13CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w030" with entities [EventEntity, EventEntity], work=[548*, 0*]
 220: 0x13DC [0x1A] CALL_SUBROUTINE(address=0x2281)
 221: 0x13DF [0x03] Work_Zone[2] = 947*
-222: 0x13E4 [0x48] [System] [8362*]:
+222: 0x13E4 [0x48] [System] [8363*]:
     → "This door has already been repaired with $3, although perhaps not quite to the highest standard."
 223: 0x13E7 [0x1C] WAIT(120* ticks)
 224: 0x13EA [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1513,14 +1513,14 @@ SUBROUTINE_1388:
 234: 0x1436 [0x1C] WAIT(60* ticks)
 235: 0x1439 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w431" with entities [EventEntity, EventEntity], work=[548*, 0*]
 236: 0x144A [0x1A] CALL_SUBROUTINE(address=0x21FD)
-237: 0x144D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8363*]:
+237: 0x144D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
     → "Yaaargh! Take this, you detestable crack!"
 238: 0x1454 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x1455 [0x52] END_LOAD_SCHEDULER: End scheduler "w431" with entities [EventEntity, EventEntity], work=548*
 240: 0x1464 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 241: 0x1475 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w432" with entities [EventEntity, EventEntity], work=[548*, 0*]
 242: 0x1486 [0x03] Work_Zone[2] = 947*
-243: 0x148B [0x48] [System] [8354*]:
+243: 0x148B [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 244: 0x148E [0x1C] WAIT(80* ticks)
 245: 0x1491 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
@@ -1529,7 +1529,7 @@ SUBROUTINE_1388:
 248: 0x14A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yah0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2128*
 249: 0x14B8 [0x52] END_LOAD_SCHEDULER: End scheduler "w432" with entities [EventEntity, EventEntity], work=548*
 250: 0x14C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w433" with entities [EventEntity, EventEntity], work=[548*, 0*]
-251: 0x14D8 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
+251: 0x14D8 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
     → "Ta-da! Mission accomplished!"
 252: 0x14DF [0x1C] WAIT(110* ticks)
 253: 0x14E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1543,7 +1543,7 @@ SUBROUTINE_1388:
 261: 0x1538 [0x52] END_LOAD_SCHEDULER: End scheduler "w434" with entities [EventEntity, EventEntity], work=548*
 262: 0x1547 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 263: 0x1558 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w435" with entities [EventEntity, EventEntity], work=[548*, 0*]
-264: 0x1569 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
+264: 0x1569 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
     → "Hmmm... For a structure that's vital to the Federation's defense, I can't help but feel that this repair method lacks...substance."
 265: 0x1570 [0x1C] WAIT(340* ticks)
 266: 0x1573 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1553,23 +1553,23 @@ SUBROUTINE_1388:
 270: 0x15A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2133*
 271: 0x15B4 [0x1C] WAIT(120* ticks)
 272: 0x15B7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
-273: 0x15C6 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
+273: 0x15C6 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8367*]:
     → "Hmmm..."
 274: 0x15CD [0x1C] WAIT(200* ticks)
 275: 0x15D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x15D1 [0x52] END_LOAD_SCHEDULER: End scheduler "w436" with entities [EventEntity, EventEntity], work=548*
 277: 0x15E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 278: 0x15F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w437" with entities [EventEntity, EventEntity], work=[548*, 0*]
-279: 0x1602 [0x48] [System] [8367*]:
+279: 0x1602 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 280: 0x1605 [0x1C] WAIT(120* ticks)
-281: 0x1608 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8368*]:
+281: 0x1608 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8369*]:
     → "Considering the Windurstian predilection for magic, I wonder if I could find someone well-versed in curses..."
 282: 0x160F [0x23] WAIT_FOR_DIALOG_INTERACTION
-283: 0x1610 [0x48] [System] [8367*]:
+283: 0x1610 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 284: 0x1613 [0x1C] WAIT(120* ticks)
-285: 0x1616 [0x48] [System] [8369*]:
+285: 0x1616 [0x48] [System] [8370*]:
     → "3 became dislodged!"
 286: 0x1619 [0x6E] LocalPlayer uses emote 21*
 287: 0x1620 [0x99] Wait for LocalPlayer animation to complete
@@ -1580,7 +1580,7 @@ SUBROUTINE_1388:
 292: 0x1643 [0x1C] WAIT(1* ticks)
 293: 0x1646 [0x52] END_LOAD_SCHEDULER: End scheduler "w437" with entities [EventEntity, EventEntity], work=548*
 294: 0x1655 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w438" with entities [EventEntity, EventEntity], work=[548*, 0*]
-295: 0x1666 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8370*]:
+295: 0x1666 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
     → "Whoops."
 296: 0x166D [0x1C] WAIT(50* ticks)
 297: 0x1670 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ff00" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2135*
@@ -1591,14 +1591,14 @@ SUBROUTINE_1388:
 302: 0x16B1 [0x6E] LocalPlayer uses emote 29*
 303: 0x16B8 [0x99] Wait for LocalPlayer animation to complete
 304: 0x16BD [0x1C] WAIT(60* ticks)
-305: 0x16C0 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
+305: 0x16C0 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
     → "..."
 306: 0x16C7 [0x1C] WAIT(160* ticks)
 307: 0x16CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x16CB [0x1A] CALL_SUBROUTINE(address=0x22A2)
 309: 0x16CE [0x52] END_LOAD_SCHEDULER: End scheduler "w439" with entities [EventEntity, EventEntity], work=548*
 310: 0x16DD [0x1C] WAIT(90* ticks)
-311: 0x16E0 [0x48] [System] [8354*]:
+311: 0x16E0 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 312: 0x16E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x16E4 [0x1C] WAIT(150* ticks)
@@ -1609,13 +1609,13 @@ SUBROUTINE_1388:
 318: 0x1711 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w440" with entities [EventEntity, EventEntity], work=[548*, 0*]
 319: 0x1722 [0x1A] CALL_SUBROUTINE(address=0x2416)
 320: 0x1725 [0x1C] WAIT(60* ticks)
-321: 0x1728 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
+321: 0x1728 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
     → "This shouldn't pose any problems...right?"
 322: 0x172F [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x1730 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
 324: 0x173F [0x52] END_LOAD_SCHEDULER: End scheduler "w440" with entities [EventEntity, EventEntity], work=548*
 325: 0x174E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w441" with entities [EventEntity, EventEntity], work=[548*, 0*]
-326: 0x175F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
+326: 0x175F [0x2B] Lilisette (ID: 17167189/0x0105F355) [8374*]:
     → "Of course it's fine! I'm just overthinking, is all! Now then, time to head back and claim my hard-earned reward!"
 327: 0x1766 [0x1C] WAIT(180* ticks)
 328: 0x1769 [0x1C] WAIT(100* ticks)
@@ -1909,7 +1909,7 @@ SUBROUTINE_185B:
  45: 0x1881 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x030" with entities [EventEntity, EventEntity], work=[548*, 0*]
  46: 0x1892 [0x1A] CALL_SUBROUTINE(address=0x2281)
  47: 0x1895 [0x03] Work_Zone[2] = 947*
- 48: 0x189A [0x48] [System] [8351*]:
+ 48: 0x189A [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
  49: 0x189D [0x1C] WAIT(120* ticks)
  50: 0x18A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1931,7 +1931,7 @@ SUBROUTINE_185B:
  66: 0x1909 [0x52] END_LOAD_SCHEDULER: End scheduler "x031" with entities [EventEntity, EventEntity], work=548*
  67: 0x1918 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
  68: 0x1929 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x032" with entities [EventEntity, EventEntity], work=[548*, 0*]
- 69: 0x193A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8352*]:
+ 69: 0x193A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
     → "So here is where the magic towers are found."
  70: 0x1941 [0x1C] WAIT(100* ticks)
  71: 0x1944 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1952,7 +1952,7 @@ SUBROUTINE_185B:
  86: 0x19BA [0x7B] Lilisette (ID: 17167189/0x0105F355) stops talking
  87: 0x19BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
  88: 0x19CE [0x1C] WAIT(80* ticks)
- 89: 0x19D1 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8353*]:
+ 89: 0x19D1 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8354*]:
     → "And all I'm required to do is mend cracks using the putty..."
  90: 0x19D8 [0x1C] WAIT(20* ticks)
  91: 0x19DB [0x52] END_LOAD_SCHEDULER: End scheduler "x033" with entities [EventEntity, EventEntity], work=548*
@@ -1965,7 +1965,7 @@ SUBROUTINE_185B:
  98: 0x1A22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
  99: 0x1A33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x035" with entities [EventEntity, EventEntity], work=[548*, 0*]
 100: 0x1A44 [0x03] Work_Zone[2] = 947*
-101: 0x1A49 [0x48] [System] [8354*]:
+101: 0x1A49 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 102: 0x1A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x1A4D [0x1C] WAIT(100* ticks)
@@ -1974,7 +1974,7 @@ SUBROUTINE_185B:
 106: 0x1A62 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
 107: 0x1A71 [0x52] END_LOAD_SCHEDULER: End scheduler "x035" with entities [EventEntity, EventEntity], work=548*
 108: 0x1A80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x036" with entities [EventEntity, EventEntity], work=[548*, 0*]
-109: 0x1A91 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8355*]:
+109: 0x1A91 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
     → "Well, that was a piece of cake. I didn't even break a single bead of sweat!"
 110: 0x1A98 [0x1C] WAIT(90* ticks)
 111: 0x1A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2006,7 +2006,7 @@ SUBROUTINE_1B0B:
 135: 0x1B60 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x030" with entities [EventEntity, EventEntity], work=[548*, 0*]
 136: 0x1B71 [0x1A] CALL_SUBROUTINE(address=0x2281)
 137: 0x1B74 [0x03] Work_Zone[2] = 947*
-138: 0x1B79 [0x48] [System] [8351*]:
+138: 0x1B79 [0x48] [System] [8352*]:
     → "This door has already been repaired with $3."
 139: 0x1B7C [0x1C] WAIT(120* ticks)
 140: 0x1B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2022,14 +2022,14 @@ SUBROUTINE_1B0B:
 150: 0x1BCB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x231" with entities [EventEntity, EventEntity], work=[548*, 0*]
 151: 0x1BDC [0x1A] CALL_SUBROUTINE(address=0x21FD)
 152: 0x1BDF [0x03] Work_Zone[2] = 947*
-153: 0x1BE4 [0x48] [System] [8354*]:
+153: 0x1BE4 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 154: 0x1BE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x1BE8 [0x1C] WAIT(170* ticks)
 156: 0x1BEB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2132*
 157: 0x1BFA [0x52] END_LOAD_SCHEDULER: End scheduler "x231" with entities [EventEntity, EventEntity], work=548*
 158: 0x1C09 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x232" with entities [EventEntity, EventEntity], work=[548*, 0*]
-159: 0x1C1A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8356*]:
+159: 0x1C1A [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
     → "Phew... One thing's for certain: Sarutabaruta's vastness is not to be mocked."
 160: 0x1C21 [0x1C] WAIT(110* ticks)
 161: 0x1C24 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2040,7 +2040,7 @@ SUBROUTINE_1B0B:
 166: 0x1C4F [0x52] END_LOAD_SCHEDULER: End scheduler "x232" with entities [EventEntity, EventEntity], work=548*
 167: 0x1C5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 168: 0x1C6F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x234" with entities [EventEntity, EventEntity], work=[548*, 0*]
-169: 0x1C80 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8357*]:
+169: 0x1C80 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
     → "To think about it, though, isn't this more akin to household drudgery than a test of fighting prowess?"
 170: 0x1C87 [0x1C] WAIT(100* ticks)
 171: 0x1C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2049,7 +2049,7 @@ SUBROUTINE_1B0B:
 174: 0x1CA9 [0x1C] WAIT(30* ticks)
 175: 0x1CAC [0x52] END_LOAD_SCHEDULER: End scheduler "x234" with entities [EventEntity, EventEntity], work=548*
 176: 0x1CBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x235" with entities [EventEntity, EventEntity], work=[548*, 0*]
-177: 0x1CCC [0x2B] Lilisette (ID: 17167189/0x0105F355) [8358*]:
+177: 0x1CCC [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
     → "..."
 178: 0x1CD3 [0x1C] WAIT(140* ticks)
 179: 0x1CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2059,7 +2059,7 @@ SUBROUTINE_1B0B:
 183: 0x1D04 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov30" with entities [EventEntity, EventEntity], work=[548*, 0*]
 184: 0x1D15 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x236" with entities [EventEntity, EventEntity], work=[548*, 0*]
 185: 0x1D26 [0x1C] WAIT(30* ticks)
-186: 0x1D29 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8359*]:
+186: 0x1D29 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
     → "Grrr! If only <Player> were here to share the workload, we'd be finished and sipping Windurstian tea by now. But then again, that would sort of defeat the purpose..."
 187: 0x1D30 [0x1C] WAIT(65* ticks)
 188: 0x1D33 [0x6E] LocalPlayer uses emote 21*
@@ -2072,13 +2072,13 @@ SUBROUTINE_1B0B:
 195: 0x1D70 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 196: 0x1D81 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x237" with entities [EventEntity, EventEntity], work=[548*, 0*]
 197: 0x1D92 [0x1C] WAIT(70* ticks)
-198: 0x1D95 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8360*]:
+198: 0x1D95 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
     → "Hehehe... I can't wait to see the surprised look on <Player>'s face when [he/she] sees me lined up among the Cobras!"
 199: 0x1D9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x1D9D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kia0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2245*
 201: 0x1DAC [0x52] END_LOAD_SCHEDULER: End scheduler "x237" with entities [EventEntity, EventEntity], work=548*
 202: 0x1DBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x238" with entities [EventEntity, EventEntity], work=[548*, 0*]
-203: 0x1DCC [0x2B] Lilisette (ID: 17167189/0x0105F355) [8361*]:
+203: 0x1DCC [0x2B] Lilisette (ID: 17167189/0x0105F355) [8362*]:
     → "Just a little bit further and I'll be home free!"
 204: 0x1DD3 [0x1C] WAIT(135* ticks)
 205: 0x1DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2098,7 +2098,7 @@ SUBROUTINE_1DED:
 217: 0x1E30 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x030" with entities [EventEntity, EventEntity], work=[548*, 0*]
 218: 0x1E41 [0x1A] CALL_SUBROUTINE(address=0x2281)
 219: 0x1E44 [0x03] Work_Zone[2] = 947*
-220: 0x1E49 [0x48] [System] [8362*]:
+220: 0x1E49 [0x48] [System] [8363*]:
     → "This door has already been repaired with $3, although perhaps not quite to the highest standard."
 221: 0x1E4C [0x1C] WAIT(120* ticks)
 222: 0x1E4F [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2114,14 +2114,14 @@ SUBROUTINE_1DED:
 232: 0x1E9B [0x1C] WAIT(60* ticks)
 233: 0x1E9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x431" with entities [EventEntity, EventEntity], work=[548*, 0*]
 234: 0x1EAF [0x1A] CALL_SUBROUTINE(address=0x21FD)
-235: 0x1EB2 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8363*]:
+235: 0x1EB2 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
     → "Yaaargh! Take this, you detestable crack!"
 236: 0x1EB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x1EBA [0x52] END_LOAD_SCHEDULER: End scheduler "x431" with entities [EventEntity, EventEntity], work=548*
 238: 0x1EC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 239: 0x1EDA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x432" with entities [EventEntity, EventEntity], work=[548*, 0*]
 240: 0x1EEB [0x03] Work_Zone[2] = 947*
-241: 0x1EF0 [0x48] [System] [8354*]:
+241: 0x1EF0 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 242: 0x1EF3 [0x1C] WAIT(80* ticks)
 243: 0x1EF6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
@@ -2130,7 +2130,7 @@ SUBROUTINE_1DED:
 246: 0x1F0E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yah0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2128*
 247: 0x1F1D [0x52] END_LOAD_SCHEDULER: End scheduler "x432" with entities [EventEntity, EventEntity], work=548*
 248: 0x1F2C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x433" with entities [EventEntity, EventEntity], work=[548*, 0*]
-249: 0x1F3D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8364*]:
+249: 0x1F3D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
     → "Ta-da! Mission accomplished!"
 250: 0x1F44 [0x1C] WAIT(110* ticks)
 251: 0x1F47 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2144,7 +2144,7 @@ SUBROUTINE_1DED:
 259: 0x1F9D [0x52] END_LOAD_SCHEDULER: End scheduler "x434" with entities [EventEntity, EventEntity], work=548*
 260: 0x1FAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 261: 0x1FBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x435" with entities [EventEntity, EventEntity], work=[548*, 0*]
-262: 0x1FCE [0x2B] Lilisette (ID: 17167189/0x0105F355) [8365*]:
+262: 0x1FCE [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
     → "Hmmm... For a structure that's vital to the Federation's defense, I can't help but feel that this repair method lacks...substance."
 263: 0x1FD5 [0x1C] WAIT(300* ticks)
 264: 0x1FD8 [0xBA] SET_ENTITY_POSITION(entity_id=Lilisette (ID: 17167189/0x0105F355), pos_x=-339.852*, pos_z=-362.545*, pos_y=2.730*, direction=87.9°*)
@@ -2156,23 +2156,23 @@ SUBROUTINE_1DED:
 270: 0x201A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thb1" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2133*
 271: 0x2029 [0x1C] WAIT(120* ticks)
 272: 0x202C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "aan0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2140*
-273: 0x203B [0x2B] Lilisette (ID: 17167189/0x0105F355) [8366*]:
+273: 0x203B [0x2B] Lilisette (ID: 17167189/0x0105F355) [8367*]:
     → "Hmmm..."
 274: 0x2042 [0x1C] WAIT(200* ticks)
 275: 0x2045 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x2046 [0x52] END_LOAD_SCHEDULER: End scheduler "x436" with entities [EventEntity, EventEntity], work=548*
 277: 0x2055 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[548*, 0*]
 278: 0x2066 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x437" with entities [EventEntity, EventEntity], work=[548*, 0*]
-279: 0x2077 [0x48] [System] [8367*]:
+279: 0x2077 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 280: 0x207A [0x1C] WAIT(120* ticks)
-281: 0x207D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8368*]:
+281: 0x207D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8369*]:
     → "Considering the Windurstian predilection for magic, I wonder if I could find someone well-versed in curses..."
 282: 0x2084 [0x23] WAIT_FOR_DIALOG_INTERACTION
-283: 0x2085 [0x48] [System] [8367*]:
+283: 0x2085 [0x48] [System] [8368*]:
     → "Lilisette prods testily at $3."
 284: 0x2088 [0x1C] WAIT(120* ticks)
-285: 0x208B [0x48] [System] [8369*]:
+285: 0x208B [0x48] [System] [8370*]:
     → "3 became dislodged!"
 286: 0x208E [0x6E] LocalPlayer uses emote 21*
 287: 0x2095 [0x99] Wait for LocalPlayer animation to complete
@@ -2183,7 +2183,7 @@ SUBROUTINE_1DED:
 292: 0x20B8 [0x1C] WAIT(1* ticks)
 293: 0x20BB [0x52] END_LOAD_SCHEDULER: End scheduler "x437" with entities [EventEntity, EventEntity], work=548*
 294: 0x20CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x438" with entities [EventEntity, EventEntity], work=[548*, 0*]
-295: 0x20DB [0x2B] Lilisette (ID: 17167189/0x0105F355) [8370*]:
+295: 0x20DB [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
     → "Whoops."
 296: 0x20E2 [0x1C] WAIT(50* ticks)
 297: 0x20E5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ff00" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2135*
@@ -2194,14 +2194,14 @@ SUBROUTINE_1DED:
 302: 0x2126 [0x6E] LocalPlayer uses emote 29*
 303: 0x212D [0x99] Wait for LocalPlayer animation to complete
 304: 0x2132 [0x1C] WAIT(60* ticks)
-305: 0x2135 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8371*]:
+305: 0x2135 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
     → "..."
 306: 0x213C [0x1C] WAIT(160* ticks)
 307: 0x213F [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x2140 [0x1A] CALL_SUBROUTINE(address=0x22A2)
 309: 0x2143 [0x52] END_LOAD_SCHEDULER: End scheduler "x439" with entities [EventEntity, EventEntity], work=548*
 310: 0x2152 [0x1C] WAIT(90* ticks)
-311: 0x2155 [0x48] [System] [8354*]:
+311: 0x2155 [0x48] [System] [8355*]:
     → "Lilisette applies $3 to the cracks on the entrance."
 312: 0x2158 [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x2159 [0x1C] WAIT(150* ticks)
@@ -2212,13 +2212,13 @@ SUBROUTINE_1DED:
 318: 0x2186 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x440" with entities [EventEntity, EventEntity], work=[548*, 0*]
 319: 0x2197 [0x1A] CALL_SUBROUTINE(address=0x2416)
 320: 0x219A [0x1C] WAIT(60* ticks)
-321: 0x219D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8372*]:
+321: 0x219D [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
     → "This shouldn't pose any problems...right?"
 322: 0x21A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x21A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hdc0" with entities [Lilisette (ID: 17167189/0x0105F355), Lilisette (ID: 17167189/0x0105F355)], work=2242*
 324: 0x21B4 [0x52] END_LOAD_SCHEDULER: End scheduler "x440" with entities [EventEntity, EventEntity], work=548*
 325: 0x21C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x441" with entities [EventEntity, EventEntity], work=[548*, 0*]
-326: 0x21D4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8373*]:
+326: 0x21D4 [0x2B] Lilisette (ID: 17167189/0x0105F355) [8374*]:
     → "Of course it's fine! I'm just overthinking, is all! Now then, time to head back and claim my hard-earned reward!"
 327: 0x21DB [0x1C] WAIT(180* ticks)
 328: 0x21DE [0x1C] WAIT(100* ticks)

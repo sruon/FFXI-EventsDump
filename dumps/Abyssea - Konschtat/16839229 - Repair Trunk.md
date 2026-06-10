@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0624      |        1572 |
-|       1 | 0x1F8D      |        8077 |
+|       1 | 0x1F8E      |        8078 |
 
 ## String References
 
-- **8077**: The casket is filled to the brim with $5.
+- **8078**: The casket is filled to the brim with $5.
 
 ## Events
 
@@ -72,7 +72,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x03] Work_Zone[2] = 1572*
-  2: 0x0007 [0x48] [System] [8077*]:
+  2: 0x0007 [0x48] [System] [8078*]:
     → "The casket is filled to the brim with $5."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT

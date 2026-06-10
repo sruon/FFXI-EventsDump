@@ -21,9 +21,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B71      |       11121 |
-|       1 | 0x2B72      |       11122 |
-|       2 | 0x2B73      |       11123 |
+|       0 | 0x2B72      |       11122 |
+|       1 | 0x2B73      |       11123 |
+|       2 | 0x2B74      |       11124 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -36,9 +36,9 @@
 
 ## String References
 
-- **11121**: The king's forest is crawling with Orcs! Take care, lest you find yourself roasting on a spit over one of their campfires!
-- **11122**: Or would you rather stay within the city walls?
-- **11123**: Brave the wilds? [Yes./No.]
+- **11122**: The king's forest is crawling with Orcs! Take care, lest you find yourself roasting on a spit over one of their campfires!
+- **11123**: Or would you rather stay within the city walls?
+- **11124**: Brave the wilds? [Yes./No.]
 
 ## Events
 
@@ -98,13 +98,13 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11121*)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11122*)
     → "The king's forest is crawling with Orcs! Take care, lest you find yourself roasting on a spit over one of their campfires!"
   5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=11122*)
+  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=11123*)
     → "Or would you rather stay within the city walls?"
   7: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0012 [0x24] CREATE_DIALOG(message_id=11123*, default_option=1*, option_flags=0*)
+  8: 0x0012 [0x24] CREATE_DIALOG(message_id=11124*, default_option=1*, option_flags=0*)
     → "Brave the wilds? [Yes./No.]"
   9: 0x0019 [0x25] WAIT_DIALOG_SELECT()
  10: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A5

@@ -35,24 +35,24 @@
 |       4 | 0x003C      |          60 |
 |       5 | 0x0013      |          19 |
 |       6 | 0x00D3      |         211 |
-|       7 | 0x2734      |       10036 |
-|       8 | 0x2735      |       10037 |
+|       7 | 0x2735      |       10037 |
+|       8 | 0x2736      |       10038 |
 |       9 | 0x0096      |         150 |
-|      10 | 0x2736      |       10038 |
-|      11 | 0x2737      |       10039 |
+|      10 | 0x2737      |       10039 |
+|      11 | 0x2738      |       10040 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x2738      |       10040 |
-|      14 | 0x2739      |       10041 |
+|      13 | 0x2739      |       10041 |
+|      14 | 0x273A      |       10042 |
 |      15 | 0x0064      |         100 |
 
 ## String References
 
-- **10036**: Whaddaya want, whimperin' whipper-shnapper?
-- **10037**: What? You shay you're wookin' for $6? Well, I can hewp you out in that department.
-- **10038**: Ah-ha! Here it is!
-- **10039**: Yesh...I remember the shtudent that wrote thish. A probwematic bugger-wugger that boy was.
-- **10040**: But that was a wong, wong time ago... Wait a minute. You anshered all the queshtions in QUIZ DE VANA'DIEW correctwy.
-- **10041**: You weren't cheat-sheetin' now, were you? Well, no matter. Here's your prize. You earned it.
+- **10037**: Whaddaya want, whimperin' whipper-shnapper?
+- **10038**: What? You shay you're wookin' for $6? Well, I can hewp you out in that department.
+- **10039**: Ah-ha! Here it is!
+- **10040**: Yesh...I remember the shtudent that wrote thish. A probwematic bugger-wugger that boy was.
+- **10041**: But that was a wong, wong time ago... Wait a minute. You anshered all the queshtions in QUIZ DE VANA'DIEW correctwy.
+- **10042**: You weren't cheat-sheetin' now, were you? Well, no matter. Here's your prize. You earned it.
 
 ## Events
 
@@ -335,12 +335,12 @@
  13: 0x00CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
  14: 0x00DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x00ED [0x1C] WAIT(60* ticks)
- 16: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10036*)
+ 16: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
     → "Whaddaya want, whimperin' whipper-shnapper?"
  17: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00F4 [0x52] END_LOAD_SCHEDULER: End scheduler "s097" with entities [LocalPlayer, LocalPlayer], work=211*
  19: 0x0103 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s098" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
- 20: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=10037*)
+ 20: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
     → "What? You shay you're wookin' for $6? Well, I can hewp you out in that department."
  21: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0118 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -349,12 +349,12 @@
  25: 0x013B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
  26: 0x014C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x015D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x07)
- 28: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
+ 28: 0x0164 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
     → "Ah-ha! Here it is!"
  29: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0168 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x08)
  31: 0x016F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x03)
- 32: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
+ 32: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=10040*)
     → "Yesh...I remember the shtudent that wrote thish. A probwematic bugger-wugger that boy was."
  33: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x017A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x04)
@@ -364,12 +364,12 @@
  38: 0x019D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  39: 0x01AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
  40: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x05)
- 41: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10040*)
+ 41: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10041*)
     → "But that was a wong, wong time ago... Wait a minute. You anshered all the queshtions in QUIZ DE VANA'DIEW correctwy."
  42: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x06)
  44: 0x01D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x07)
- 45: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10041*)
+ 45: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10042*)
     → "You weren't cheat-sheetin' now, were you? Well, no matter. Here's your prize. You earned it."
  46: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Katzun-Nattzun (ID: 17752286/0x010EE0DE), tag_num=0x08)

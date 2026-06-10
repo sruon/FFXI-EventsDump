@@ -33,36 +33,36 @@
 |      10 | 0x37599     |      226713 |
 |      11 | 0xA7FB      |       43003 |
 |      12 | 0x01C9      |         457 |
-|      13 | 0x1ED4      |        7892 |
-|      14 | 0x1ED5      |        7893 |
-|      15 | 0x1ED6      |        7894 |
+|      13 | 0x1ED5      |        7893 |
+|      14 | 0x1ED6      |        7894 |
+|      15 | 0x1ED7      |        7895 |
 |      16 | 0x062B      |        1579 |
-|      17 | 0x1ED7      |        7895 |
-|      18 | 0x1ED8      |        7896 |
-|      19 | 0x1ED9      |        7897 |
+|      17 | 0x1ED8      |        7896 |
+|      18 | 0x1ED9      |        7897 |
+|      19 | 0x1EDA      |        7898 |
 |      20 | 0x0001      |           1 |
-|      21 | 0x1EE3      |        7907 |
+|      21 | 0x1EE4      |        7908 |
 |      22 | 0x0002      |           2 |
 |      23 | 0x0088      |         136 |
-|      24 | 0x1EDA      |        7898 |
-|      25 | 0x1EDD      |        7901 |
-|      26 | 0x1EDC      |        7900 |
-|      27 | 0x1EDB      |        7899 |
+|      24 | 0x1EDB      |        7899 |
+|      25 | 0x1EDE      |        7902 |
+|      26 | 0x1EDD      |        7901 |
+|      27 | 0x1EDC      |        7900 |
 |      28 | 0x00C9      |         201 |
-|      29 | 0x1EDE      |        7902 |
-|      30 | 0x1EDF      |        7903 |
+|      29 | 0x1EDF      |        7903 |
+|      30 | 0x1EE0      |        7904 |
 |      31 | 0x00FA      |         250 |
 |      32 | 0x012C      |         300 |
 |      33 | 0x01FB      |         507 |
-|      34 | 0x1EE0      |        7904 |
-|      35 | 0x1EE1      |        7905 |
-|      36 | 0x1EE2      |        7906 |
+|      34 | 0x1EE1      |        7905 |
+|      35 | 0x1EE2      |        7906 |
+|      36 | 0x1EE3      |        7907 |
 |      37 | 0x0033      |          51 |
 
 ## String References
 
-- **7896**: Are you ready? [Ready to the extreme!/I hear my kettle whistling...]
-- **7903**: Grab the $3... (Tries left: $1) [Now!]
+- **7897**: Are you ready? [Ready to the extreme!/I hear my kettle whistling...]
+- **7904**: Grab the $3... (Tries left: $1) [Now!]
 
 ## Events
 
@@ -179,32 +179,32 @@
  20: 0x0086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  21: 0x0097 [0x1C] WAIT(60* ticks)
  22: 0x009A [0x4A] LocalPlayer looks at Raminel (ID: 17318647/0x010842F7)
- 23: 0x00A3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7892*]:
+ 23: 0x00A3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7893*]:
     → "Ah, Amaura sent you, I'll wager. Raminel is my name, and I thank you for your aid."
  24: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x00AB [0x2B] Raminel (ID: 17318647/0x010842F7) [7893*]:
+ 25: 0x00AB [0x2B] Raminel (ID: 17318647/0x010842F7) [7894*]:
     → "Without ado, I shall explain the process."
  26: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x00B3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7894*]:
+ 27: 0x00B3 [0x2B] Raminel (ID: 17318647/0x010842F7) [7895*]:
     → "I have with me a rope, magicked to be elastic yet durable. One end of it I shall tie to the tree yonder, and the other to your ankles."
  28: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00BB [0x03] Work_Zone[2] = 1579*
- 30: 0x00C0 [0x2B] Raminel (ID: 17318647/0x010842F7) [7895*]:
+ 30: 0x00C0 [0x2B] Raminel (ID: 17318647/0x010842F7) [7896*]:
     → "After that, all that's required of you is to dive into the ravine and grab the $3. It's as simple as running parcels. Just give the word and we'll get started."
  31: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00C8 [0x08] ExtData[1]->WorkLocal[1] -= ExtData[1]->WorkLocal[0]
  33: 0x00CD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 34: 0x00D2 [0x24] CREATE_DIALOG(message_id=7896*, default_option=0*, option_flags=0*)
+ 34: 0x00D2 [0x24] CREATE_DIALOG(message_id=7897*, default_option=0*, option_flags=0*)
     → "Are you ready? [Ready to the extreme!/I hear my kettle whistling...]"
  35: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00ED
- 37: 0x00E2 [0x2B] Raminel (ID: 17318647/0x010842F7) [7897*]:
+ 37: 0x00E2 [0x2B] Raminel (ID: 17318647/0x010842F7) [7898*]:
     → "Ah yes, that's the spirit."
  38: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00EA [0x01] GOTO 0x0110
  40: 0x00ED [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0110
  41: 0x00F5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010A
- 42: 0x00FD [0x2B] Raminel (ID: 17318647/0x010842F7) [7907*]:
+ 42: 0x00FD [0x2B] Raminel (ID: 17318647/0x010842F7) [7908*]:
     → "Hmmm...perhaps we can do without rosy cheeks for a day or two. And I would sooner not dive for your broken corpse."
  43: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0105 [0x03] Work_Zone[1] = 2*
@@ -222,30 +222,30 @@ SUBROUTINE_0110:
  54: 0x0154 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  55: 0x0165 [0x1C] WAIT(60* ticks)
  56: 0x0168 [0x03] Work_Zone[2] = 1579*
- 57: 0x016D [0x2B] Raminel (ID: 17318647/0x010842F7) [7898*]:
+ 57: 0x016D [0x2B] Raminel (ID: 17318647/0x010842F7) [7899*]:
     → "Simply dive down and grab hold of the $3 when it's within reach. Let us commence!"
  58: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0175 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "bg01" with entities [LocalPlayer, LocalPlayer], work=457*
- 60: 0x0184 [0x2B] Raminel (ID: 17318647/0x010842F7) [7901*]:
+ 60: 0x0184 [0x2B] Raminel (ID: 17318647/0x010842F7) [7902*]:
     → "Three!"
  61: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x018C [0x2B] Raminel (ID: 17318647/0x010842F7) [7900*]:
+ 62: 0x018C [0x2B] Raminel (ID: 17318647/0x010842F7) [7901*]:
     → "Two!"
  63: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0194 [0x2B] Raminel (ID: 17318647/0x010842F7) [7899*]:
+ 64: 0x0194 [0x2B] Raminel (ID: 17318647/0x010842F7) [7900*]:
     → "One!"
  65: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x019C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  67: 0x01AD [0x1C] WAIT(60* ticks)
  68: 0x01B0 [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
- 69: 0x01B6 [0x2B] Raminel (ID: 17318647/0x010842F7) [7902*]:
+ 69: 0x01B6 [0x2B] Raminel (ID: 17318647/0x010842F7) [7903*]:
     → "Descend!"
  70: 0x01BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  71: 0x01CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bg02" with entities [LocalPlayer, LocalPlayer], work=[457*, 0*]
  72: 0x01DF [0x06] Work_Zone[32] = 0
  73: 0x01E2 [0x27] REQ_SET(priority=0x00, entity_id=??? (ID: 17318649/0x010842F9), tag_num=0x02)
  74: 0x01E9 [0x03] Work_Zone[2] = 1579*
- 75: 0x01EE [0x24] CREATE_DIALOG(message_id=7903*, default_option=0*, option_flags=0*)
+ 75: 0x01EE [0x24] CREATE_DIALOG(message_id=7904*, default_option=0*, option_flags=0*)
     → "Grab the $3... (Tries left: $1) [Now!]"
  76: 0x01F5 [0x25] WAIT_DIALOG_SELECT()
  77: 0x01F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0201
@@ -267,21 +267,21 @@ SUBROUTINE_0201:
  91: 0x0284 [0x1C] WAIT(60* ticks)
  92: 0x0287 [0x02] IF !(ExtData[1]->WorkLocal[2] < 250*) GOTO 0x02AF
  93: 0x028F [0x02] IF !(ExtData[1]->WorkLocal[2] > 300*) GOTO 0x02AF
- 94: 0x0297 [0x2B] Raminel (ID: 17318647/0x010842F7) [7904*]:
+ 94: 0x0297 [0x2B] Raminel (ID: 17318647/0x010842F7) [7905*]:
     → "Beautifully done! I had every confidence that you would succeed!"
  95: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x029F [0x2B] Raminel (ID: 17318647/0x010842F7) [7905*]:
+ 96: 0x029F [0x2B] Raminel (ID: 17318647/0x010842F7) [7906*]:
     → "Amaura awaits you at the encampment. Please hurry back."
  97: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x02A7 [0x03] Work_Zone[1] = 1*
  99: 0x02AC [0x01] GOTO 0x02D5
 100: 0x02AF [0x02] IF !(ExtData[1]->WorkLocal[0] < 2*) GOTO 0x02C7
-101: 0x02B7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7907*]:
+101: 0x02B7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7908*]:
     → "Hmmm...perhaps we can do without rosy cheeks for a day or two. And I would sooner not dive for your broken corpse."
 102: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x02BF [0x03] Work_Zone[1] = 2*
 104: 0x02C4 [0x01] GOTO 0x02D5
-105: 0x02C7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7906*]:
+105: 0x02C7 [0x2B] Raminel (ID: 17318647/0x010842F7) [7907*]:
     → "Oh, that was so awfully close! Would you care for another attempt?"
 106: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x02CF [0x0B] ExtData[1]->WorkLocal[0]++

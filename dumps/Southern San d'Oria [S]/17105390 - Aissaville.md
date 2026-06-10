@@ -30,11 +30,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2F4B      |       12107 |
+|       1 | 0x2F4C      |       12108 |
 
 ## String References
 
-- **12107**: Even if the city is invaded by beastmen, the Victory Gate alone must be defended to the last. It has been the pride of San d'Oria for generations! It must not fall!
+- **12108**: Even if the city is invaded by beastmen, the Victory Gate alone must be defended to the last. It has been the pride of San d'Oria for generations! It must not fall!
 
 ## Events
 
@@ -83,7 +83,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Touttaures (ID: 17105396/0x010501F4), Touttaures (ID: 17105396/0x010501F4)], work=20*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12107*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
     → "Even if the city is invaded by beastmen, the Victory Gate alone must be defended to the last. It has been the pride of San d'Oria for generations! It must not fall!"
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Touttaures (ID: 17105396/0x010501F4), Touttaures (ID: 17105396/0x010501F4)], work=20*

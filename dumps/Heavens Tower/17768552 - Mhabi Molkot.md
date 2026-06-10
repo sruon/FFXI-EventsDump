@@ -30,16 +30,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x227B      |        8827 |
-|       1 | 0x227C      |        8828 |
-|       2 | 0x227D      |        8829 |
+|       0 | 0x227C      |        8828 |
+|       1 | 0x227D      |        8829 |
+|       2 | 0x227E      |        8830 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x228B      |        8843 |
-|       5 | 0x228C      |        8844 |
-|       6 | 0x228D      |        8845 |
-|       7 | 0x228E      |        8846 |
-|       8 | 0x228F      |        8847 |
-|       9 | 0x2290      |        8848 |
+|       4 | 0x228C      |        8844 |
+|       5 | 0x228D      |        8845 |
+|       6 | 0x228E      |        8846 |
+|       7 | 0x228F      |        8847 |
+|       8 | 0x2290      |        8848 |
+|       9 | 0x2291      |        8849 |
 |      10 | 0x00C8      |         200 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x007F      |         127 |
@@ -49,284 +49,284 @@
 |      16 | 0x01B7      |         439 |
 |      17 | 0x0040      |          64 |
 |      18 | 0x0001      |           1 |
-|      19 | 0x21A5      |        8613 |
+|      19 | 0x21A6      |        8614 |
 |      20 | 0x005A      |          90 |
 |      21 | 0x000F      |          15 |
-|      22 | 0x21A6      |        8614 |
+|      22 | 0x21A7      |        8615 |
 |      23 | 0x000A      |          10 |
-|      24 | 0x21A7      |        8615 |
+|      24 | 0x21A8      |        8616 |
 |      25 | 0x0014      |          20 |
-|      26 | 0x21A8      |        8616 |
-|      27 | 0x21A9      |        8617 |
-|      28 | 0x21AA      |        8618 |
-|      29 | 0x21AB      |        8619 |
-|      30 | 0x21AC      |        8620 |
-|      31 | 0x21AD      |        8621 |
-|      32 | 0x21AE      |        8622 |
-|      33 | 0x21AF      |        8623 |
-|      34 | 0x21B0      |        8624 |
-|      35 | 0x21B1      |        8625 |
-|      36 | 0x21B2      |        8626 |
-|      37 | 0x21B3      |        8627 |
-|      38 | 0x21B4      |        8628 |
-|      39 | 0x21B5      |        8629 |
-|      40 | 0x21B6      |        8630 |
-|      41 | 0x21B7      |        8631 |
-|      42 | 0x21B8      |        8632 |
-|      43 | 0x21B9      |        8633 |
-|      44 | 0x21BA      |        8634 |
-|      45 | 0x21BB      |        8635 |
-|      46 | 0x21BC      |        8636 |
-|      47 | 0x21BD      |        8637 |
-|      48 | 0x21BE      |        8638 |
-|      49 | 0x21BF      |        8639 |
-|      50 | 0x21C0      |        8640 |
-|      51 | 0x21C1      |        8641 |
-|      52 | 0x21C2      |        8642 |
-|      53 | 0x21C3      |        8643 |
-|      54 | 0x21C4      |        8644 |
-|      55 | 0x21C5      |        8645 |
-|      56 | 0x21C6      |        8646 |
-|      57 | 0x21C7      |        8647 |
-|      58 | 0x21C8      |        8648 |
-|      59 | 0x21C9      |        8649 |
+|      26 | 0x21A9      |        8617 |
+|      27 | 0x21AA      |        8618 |
+|      28 | 0x21AB      |        8619 |
+|      29 | 0x21AC      |        8620 |
+|      30 | 0x21AD      |        8621 |
+|      31 | 0x21AE      |        8622 |
+|      32 | 0x21AF      |        8623 |
+|      33 | 0x21B0      |        8624 |
+|      34 | 0x21B1      |        8625 |
+|      35 | 0x21B2      |        8626 |
+|      36 | 0x21B3      |        8627 |
+|      37 | 0x21B4      |        8628 |
+|      38 | 0x21B5      |        8629 |
+|      39 | 0x21B6      |        8630 |
+|      40 | 0x21B7      |        8631 |
+|      41 | 0x21B8      |        8632 |
+|      42 | 0x21B9      |        8633 |
+|      43 | 0x21BA      |        8634 |
+|      44 | 0x21BB      |        8635 |
+|      45 | 0x21BC      |        8636 |
+|      46 | 0x21BD      |        8637 |
+|      47 | 0x21BE      |        8638 |
+|      48 | 0x21BF      |        8639 |
+|      49 | 0x21C0      |        8640 |
+|      50 | 0x21C1      |        8641 |
+|      51 | 0x21C2      |        8642 |
+|      52 | 0x21C3      |        8643 |
+|      53 | 0x21C4      |        8644 |
+|      54 | 0x21C5      |        8645 |
+|      55 | 0x21C6      |        8646 |
+|      56 | 0x21C7      |        8647 |
+|      57 | 0x21C8      |        8648 |
+|      58 | 0x21C9      |        8649 |
+|      59 | 0x21CA      |        8650 |
 |      60 | 0x003C      |          60 |
-|      61 | 0x21CA      |        8650 |
-|      62 | 0x21CB      |        8651 |
-|      63 | 0x21CC      |        8652 |
-|      64 | 0x21CD      |        8653 |
-|      65 | 0x21CE      |        8654 |
-|      66 | 0x21CF      |        8655 |
+|      61 | 0x21CB      |        8651 |
+|      62 | 0x21CC      |        8652 |
+|      63 | 0x21CD      |        8653 |
+|      64 | 0x21CE      |        8654 |
+|      65 | 0x21CF      |        8655 |
+|      66 | 0x21D0      |        8656 |
 |      67 | 0x001E      |          30 |
-|      68 | 0x21D0      |        8656 |
+|      68 | 0x21D1      |        8657 |
 |      69 | 0x0032      |          50 |
-|      70 | 0x21D1      |        8657 |
-|      71 | 0x21D2      |        8658 |
-|      72 | 0x21D3      |        8659 |
-|      73 | 0x21D4      |        8660 |
-|      74 | 0x21D5      |        8661 |
-|      75 | 0x21D6      |        8662 |
-|      76 | 0x21D7      |        8663 |
-|      77 | 0x21D8      |        8664 |
-|      78 | 0x21D9      |        8665 |
-|      79 | 0x21DA      |        8666 |
-|      80 | 0x21DB      |        8667 |
-|      81 | 0x21DC      |        8668 |
-|      82 | 0x21DD      |        8669 |
+|      70 | 0x21D2      |        8658 |
+|      71 | 0x21D3      |        8659 |
+|      72 | 0x21D4      |        8660 |
+|      73 | 0x21D5      |        8661 |
+|      74 | 0x21D6      |        8662 |
+|      75 | 0x21D7      |        8663 |
+|      76 | 0x21D8      |        8664 |
+|      77 | 0x21D9      |        8665 |
+|      78 | 0x21DA      |        8666 |
+|      79 | 0x21DB      |        8667 |
+|      80 | 0x21DC      |        8668 |
+|      81 | 0x21DD      |        8669 |
+|      82 | 0x21DE      |        8670 |
 |      83 | 0x0168      |         360 |
-|      84 | 0x21DE      |        8670 |
+|      84 | 0x21DF      |        8671 |
 |      85 | 0x0078      |         120 |
-|      86 | 0x21DF      |        8671 |
-|      87 | 0x21E0      |        8672 |
-|      88 | 0x21E1      |        8673 |
-|      89 | 0x21E2      |        8674 |
-|      90 | 0x21E3      |        8675 |
-|      91 | 0x21E4      |        8676 |
-|      92 | 0x21E5      |        8677 |
-|      93 | 0x21E6      |        8678 |
-|      94 | 0x21E7      |        8679 |
-|      95 | 0x21E8      |        8680 |
-|      96 | 0x21E9      |        8681 |
-|      97 | 0x21EA      |        8682 |
-|      98 | 0x21EB      |        8683 |
-|      99 | 0x21ED      |        8685 |
-|     100 | 0x21EC      |        8684 |
+|      86 | 0x21E0      |        8672 |
+|      87 | 0x21E1      |        8673 |
+|      88 | 0x21E2      |        8674 |
+|      89 | 0x21E3      |        8675 |
+|      90 | 0x21E4      |        8676 |
+|      91 | 0x21E5      |        8677 |
+|      92 | 0x21E6      |        8678 |
+|      93 | 0x21E7      |        8679 |
+|      94 | 0x21E8      |        8680 |
+|      95 | 0x21E9      |        8681 |
+|      96 | 0x21EA      |        8682 |
+|      97 | 0x21EB      |        8683 |
+|      98 | 0x21EC      |        8684 |
+|      99 | 0x21EE      |        8686 |
+|     100 | 0x21ED      |        8685 |
 |     101 | 0x0005      |           5 |
-|     102 | 0x21EE      |        8686 |
-|     103 | 0x21EF      |        8687 |
-|     104 | 0x21F0      |        8688 |
+|     102 | 0x21EF      |        8687 |
+|     103 | 0x21F0      |        8688 |
+|     104 | 0x21F1      |        8689 |
 |     105 | 0x0400      |        1024 |
-|     106 | 0x21F1      |        8689 |
-|     107 | 0x21F2      |        8690 |
-|     108 | 0x21F3      |        8691 |
-|     109 | 0x21F4      |        8692 |
-|     110 | 0x21F5      |        8693 |
-|     111 | 0x21F6      |        8694 |
+|     106 | 0x21F2      |        8690 |
+|     107 | 0x21F3      |        8691 |
+|     108 | 0x21F4      |        8692 |
+|     109 | 0x21F5      |        8693 |
+|     110 | 0x21F6      |        8694 |
+|     111 | 0x21F7      |        8695 |
 |     112 | 0x0766      |        1894 |
-|     113 | 0x21F7      |        8695 |
-|     114 | 0x21F8      |        8696 |
-|     115 | 0x21F9      |        8697 |
+|     113 | 0x21F8      |        8696 |
+|     114 | 0x21F9      |        8697 |
+|     115 | 0x21FA      |        8698 |
 |     116 | 0x00F2      |         242 |
 |     117 | 0x01AA      |         426 |
 |     118 | 0x00A2      |         162 |
-|     119 | 0x2291      |        8849 |
-|     120 | 0x2292      |        8850 |
-|     121 | 0x229F      |        8863 |
-|     122 | 0x2261      |        8801 |
-|     123 | 0x22A7      |        8871 |
-|     124 | 0x22A8      |        8872 |
-|     125 | 0x22A9      |        8873 |
-|     126 | 0x22AA      |        8874 |
-|     127 | 0x22AB      |        8875 |
-|     128 | 0x22AC      |        8876 |
-|     129 | 0x2293      |        8851 |
-|     130 | 0x22B5      |        8885 |
-|     131 | 0x22B6      |        8886 |
-|     132 | 0x22BB      |        8891 |
-|     133 | 0x22BC      |        8892 |
+|     119 | 0x2292      |        8850 |
+|     120 | 0x2293      |        8851 |
+|     121 | 0x22A0      |        8864 |
+|     122 | 0x2262      |        8802 |
+|     123 | 0x22A8      |        8872 |
+|     124 | 0x22A9      |        8873 |
+|     125 | 0x22AA      |        8874 |
+|     126 | 0x22AB      |        8875 |
+|     127 | 0x22AC      |        8876 |
+|     128 | 0x22AD      |        8877 |
+|     129 | 0x2294      |        8852 |
+|     130 | 0x22B6      |        8886 |
+|     131 | 0x22B7      |        8887 |
+|     132 | 0x22BC      |        8892 |
+|     133 | 0x22BD      |        8893 |
 |     134 | 0x0002      |           2 |
 |     135 | 0x0004      |           4 |
 |     136 | 0x0006      |           6 |
 |     137 | 0x0009      |           9 |
 |     138 | 0x0240      |         576 |
-|     139 | 0x22C5      |        8901 |
-|     140 | 0x22C6      |        8902 |
-|     141 | 0x22C7      |        8903 |
-|     142 | 0x22D4      |        8916 |
-|     143 | 0x22D5      |        8917 |
-|     144 | 0x22E8      |        8936 |
-|     145 | 0x22E9      |        8937 |
-|     146 | 0x22DC      |        8924 |
-|     147 | 0x22DD      |        8925 |
-|     148 | 0x22DE      |        8926 |
-|     149 | 0x22DF      |        8927 |
-|     150 | 0x2265      |        8805 |
-|     151 | 0x2267      |        8807 |
-|     152 | 0x226A      |        8810 |
-|     153 | 0x226F      |        8815 |
-|     154 | 0x2275      |        8821 |
+|     139 | 0x22C6      |        8902 |
+|     140 | 0x22C7      |        8903 |
+|     141 | 0x22C8      |        8904 |
+|     142 | 0x22D5      |        8917 |
+|     143 | 0x22D6      |        8918 |
+|     144 | 0x22E9      |        8937 |
+|     145 | 0x22EA      |        8938 |
+|     146 | 0x22DD      |        8925 |
+|     147 | 0x22DE      |        8926 |
+|     148 | 0x22DF      |        8927 |
+|     149 | 0x22E0      |        8928 |
+|     150 | 0x2266      |        8806 |
+|     151 | 0x2268      |        8808 |
+|     152 | 0x226B      |        8811 |
+|     153 | 0x2270      |        8816 |
+|     154 | 0x2276      |        8822 |
 |     155 | 0x01F4      |         500 |
-|     156 | 0x22ED      |        8941 |
-|     157 | 0x22EE      |        8942 |
-|     158 | 0x22EF      |        8943 |
-|     159 | 0x22F3      |        8947 |
-|     160 | 0x22F5      |        8949 |
-|     161 | 0x22F8      |        8952 |
-|     162 | 0x22FB      |        8955 |
-|     163 | 0x22FD      |        8957 |
-|     164 | 0x22FF      |        8959 |
-|     165 | 0x22D1      |        8913 |
-|     166 | 0x2324      |        8996 |
+|     156 | 0x22EE      |        8942 |
+|     157 | 0x22EF      |        8943 |
+|     158 | 0x22F0      |        8944 |
+|     159 | 0x22F4      |        8948 |
+|     160 | 0x22F6      |        8950 |
+|     161 | 0x22F9      |        8953 |
+|     162 | 0x22FC      |        8956 |
+|     163 | 0x22FE      |        8958 |
+|     164 | 0x2300      |        8960 |
+|     165 | 0x22D2      |        8914 |
+|     166 | 0x2325      |        8997 |
 |     167 | 0x000C      |          12 |
-|     168 | 0x2325      |        8997 |
-|     169 | 0x21FA      |        8698 |
-|     170 | 0x21FB      |        8699 |
-|     171 | 0x21FC      |        8700 |
-|     172 | 0x21FD      |        8701 |
-|     173 | 0x21FE      |        8702 |
-|     174 | 0x21FF      |        8703 |
-|     175 | 0x2200      |        8704 |
-|     176 | 0x2201      |        8705 |
-|     177 | 0x2202      |        8706 |
-|     178 | 0x2203      |        8707 |
-|     179 | 0x2204      |        8708 |
-|     180 | 0x2205      |        8709 |
-|     181 | 0x2206      |        8710 |
-|     182 | 0x2207      |        8711 |
-|     183 | 0x2208      |        8712 |
-|     184 | 0x2209      |        8713 |
-|     185 | 0x220A      |        8714 |
-|     186 | 0x220B      |        8715 |
-|     187 | 0x220C      |        8716 |
-|     188 | 0x220D      |        8717 |
-|     189 | 0x220E      |        8718 |
-|     190 | 0x220F      |        8719 |
-|     191 | 0x2210      |        8720 |
-|     192 | 0x2211      |        8721 |
-|     193 | 0x2212      |        8722 |
-|     194 | 0x2213      |        8723 |
-|     195 | 0x2214      |        8724 |
-|     196 | 0x2215      |        8725 |
-|     197 | 0x2216      |        8726 |
-|     198 | 0x2217      |        8727 |
+|     168 | 0x2326      |        8998 |
+|     169 | 0x21FB      |        8699 |
+|     170 | 0x21FC      |        8700 |
+|     171 | 0x21FD      |        8701 |
+|     172 | 0x21FE      |        8702 |
+|     173 | 0x21FF      |        8703 |
+|     174 | 0x2200      |        8704 |
+|     175 | 0x2201      |        8705 |
+|     176 | 0x2202      |        8706 |
+|     177 | 0x2203      |        8707 |
+|     178 | 0x2204      |        8708 |
+|     179 | 0x2205      |        8709 |
+|     180 | 0x2206      |        8710 |
+|     181 | 0x2207      |        8711 |
+|     182 | 0x2208      |        8712 |
+|     183 | 0x2209      |        8713 |
+|     184 | 0x220A      |        8714 |
+|     185 | 0x220B      |        8715 |
+|     186 | 0x220C      |        8716 |
+|     187 | 0x220D      |        8717 |
+|     188 | 0x220E      |        8718 |
+|     189 | 0x220F      |        8719 |
+|     190 | 0x2210      |        8720 |
+|     191 | 0x2211      |        8721 |
+|     192 | 0x2212      |        8722 |
+|     193 | 0x2213      |        8723 |
+|     194 | 0x2214      |        8724 |
+|     195 | 0x2215      |        8725 |
+|     196 | 0x2216      |        8726 |
+|     197 | 0x2217      |        8727 |
+|     198 | 0x2218      |        8728 |
 |     199 | 0x0007      |           7 |
-|     200 | 0x2218      |        8728 |
-|     201 | 0x2219      |        8729 |
-|     202 | 0x221A      |        8730 |
-|     203 | 0x221B      |        8731 |
-|     204 | 0x221C      |        8732 |
-|     205 | 0x221D      |        8733 |
-|     206 | 0x221E      |        8734 |
-|     207 | 0x2223      |        8739 |
-|     208 | 0x2224      |        8740 |
-|     209 | 0x2225      |        8741 |
+|     200 | 0x2219      |        8729 |
+|     201 | 0x221A      |        8730 |
+|     202 | 0x221B      |        8731 |
+|     203 | 0x221C      |        8732 |
+|     204 | 0x221D      |        8733 |
+|     205 | 0x221E      |        8734 |
+|     206 | 0x221F      |        8735 |
+|     207 | 0x2224      |        8740 |
+|     208 | 0x2225      |        8741 |
+|     209 | 0x2226      |        8742 |
 |     210 | 0x0A20      |        2592 |
-|     211 | 0x2226      |        8742 |
-|     212 | 0x2227      |        8743 |
-|     213 | 0x2228      |        8744 |
-|     214 | 0x2229      |        8745 |
+|     211 | 0x2227      |        8743 |
+|     212 | 0x2228      |        8744 |
+|     213 | 0x2229      |        8745 |
+|     214 | 0x222A      |        8746 |
 |     215 | 0x0008      |           8 |
-|     216 | 0x222A      |        8746 |
-|     217 | 0x222B      |        8747 |
+|     216 | 0x222B      |        8747 |
+|     217 | 0x222C      |        8748 |
 |     218 | 0x07D0      |        2000 |
-|     219 | 0x221F      |        8735 |
-|     220 | 0x2220      |        8736 |
-|     221 | 0x2221      |        8737 |
-|     222 | 0x2222      |        8738 |
-|     223 | 0x222C      |        8748 |
-|     224 | 0x222D      |        8749 |
-|     225 | 0x222E      |        8750 |
-|     226 | 0x222F      |        8751 |
-|     227 | 0x2230      |        8752 |
-|     228 | 0x2231      |        8753 |
-|     229 | 0x2232      |        8754 |
-|     230 | 0x2233      |        8755 |
-|     231 | 0x2234      |        8756 |
-|     232 | 0x2235      |        8757 |
-|     233 | 0x2236      |        8758 |
+|     219 | 0x2220      |        8736 |
+|     220 | 0x2221      |        8737 |
+|     221 | 0x2222      |        8738 |
+|     222 | 0x2223      |        8739 |
+|     223 | 0x222D      |        8749 |
+|     224 | 0x222E      |        8750 |
+|     225 | 0x222F      |        8751 |
+|     226 | 0x2230      |        8752 |
+|     227 | 0x2231      |        8753 |
+|     228 | 0x2232      |        8754 |
+|     229 | 0x2233      |        8755 |
+|     230 | 0x2234      |        8756 |
+|     231 | 0x2235      |        8757 |
+|     232 | 0x2236      |        8758 |
+|     233 | 0x2237      |        8759 |
 |     234 | 0x02AA      |         682 |
-|     235 | 0x2237      |        8759 |
+|     235 | 0x2238      |        8760 |
 |     236 | 0x02AB      |         683 |
-|     237 | 0x2238      |        8760 |
+|     237 | 0x2239      |        8761 |
 |     238 | 0x02AC      |         684 |
-|     239 | 0x2239      |        8761 |
+|     239 | 0x223A      |        8762 |
 |     240 | 0x02AD      |         685 |
-|     241 | 0x223A      |        8762 |
+|     241 | 0x223B      |        8763 |
 |     242 | 0x02AE      |         686 |
-|     243 | 0x223B      |        8763 |
+|     243 | 0x223C      |        8764 |
 |     244 | 0x02AF      |         687 |
-|     245 | 0x223C      |        8764 |
+|     245 | 0x223D      |        8765 |
 |     246 | 0x02B0      |         688 |
-|     247 | 0x223D      |        8765 |
+|     247 | 0x223E      |        8766 |
 |     248 | 0x02B1      |         689 |
-|     249 | 0x223E      |        8766 |
+|     249 | 0x223F      |        8767 |
 |     250 | 0x02B2      |         690 |
-|     251 | 0x223F      |        8767 |
+|     251 | 0x2240      |        8768 |
 |     252 | 0x02B3      |         691 |
-|     253 | 0x2240      |        8768 |
+|     253 | 0x2241      |        8769 |
 |     254 | 0x02B4      |         692 |
-|     255 | 0x2241      |        8769 |
+|     255 | 0x2242      |        8770 |
 |     256 | 0x000B      |          11 |
 |     257 | 0x02B5      |         693 |
-|     258 | 0x2242      |        8770 |
+|     258 | 0x2243      |        8771 |
 |     259 | 0x02B6      |         694 |
-|     260 | 0x2243      |        8771 |
+|     260 | 0x2244      |        8772 |
 |     261 | 0x000D      |          13 |
 |     262 | 0x02B7      |         695 |
-|     263 | 0x2244      |        8772 |
+|     263 | 0x2245      |        8773 |
 |     264 | 0x000E      |          14 |
 |     265 | 0x02B8      |         696 |
-|     266 | 0x2245      |        8773 |
+|     266 | 0x2246      |        8774 |
 |     267 | 0x02B9      |         697 |
-|     268 | 0x2246      |        8774 |
+|     268 | 0x2247      |        8775 |
 |     269 | 0x0010      |          16 |
 |     270 | 0x02BA      |         698 |
-|     271 | 0x2247      |        8775 |
+|     271 | 0x2248      |        8776 |
 |     272 | 0x0011      |          17 |
 |     273 | 0x02BB      |         699 |
-|     274 | 0x2248      |        8776 |
+|     274 | 0x2249      |        8777 |
 |     275 | 0x0012      |          18 |
 |     276 | 0x02BC      |         700 |
-|     277 | 0x2249      |        8777 |
+|     277 | 0x224A      |        8778 |
 |     278 | 0x0309      |         777 |
-|     279 | 0x224A      |        8778 |
+|     279 | 0x224B      |        8779 |
 |     280 | 0x030A      |         778 |
-|     281 | 0x224B      |        8779 |
+|     281 | 0x224C      |        8780 |
 |     282 | 0x0015      |          21 |
 |     283 | 0x030B      |         779 |
-|     284 | 0x224C      |        8780 |
+|     284 | 0x224D      |        8781 |
 |     285 | 0x0016      |          22 |
 |     286 | 0x0393      |         915 |
-|     287 | 0x224D      |        8781 |
+|     287 | 0x224E      |        8782 |
 |     288 | 0x0017      |          23 |
 |     289 | 0x0394      |         916 |
-|     290 | 0x224E      |        8782 |
+|     290 | 0x224F      |        8783 |
 |     291 | 0x0018      |          24 |
 |     292 | 0x0737      |        1847 |
-|     293 | 0x224F      |        8783 |
+|     293 | 0x2250      |        8784 |
 |     294 | 0x0019      |          25 |
 |     295 | 0x0738      |        1848 |
-|     296 | 0x2250      |        8784 |
+|     296 | 0x2251      |        8785 |
 |     297 | 0x1B00      |        6912 |
 |     298 | 0x3600      |       13824 |
 |     299 | 0x5100      |       20736 |
@@ -342,139 +342,139 @@
 |     309 | 0x19500     |      103680 |
 |     310 | 0x7FFF      |       32767 |
 |     311 | 0x116700    |     1140480 |
-|     312 | 0x225A      |        8794 |
-|     313 | 0x2259      |        8793 |
-|     314 | 0x2258      |        8792 |
-|     315 | 0x225B      |        8795 |
-|     316 | 0x225C      |        8796 |
-|     317 | 0x225D      |        8797 |
-|     318 | 0x225E      |        8798 |
-|     319 | 0x225F      |        8799 |
-|     320 | 0x2260      |        8800 |
-|     321 | 0x2253      |        8787 |
-|     322 | 0x2254      |        8788 |
-|     323 | 0x2255      |        8789 |
-|     324 | 0x2256      |        8790 |
-|     325 | 0x2257      |        8791 |
-|     326 | 0x231C      |        8988 |
-|     327 | 0x231D      |        8989 |
-|     328 | 0x231E      |        8990 |
-|     329 | 0x2313      |        8979 |
-|     330 | 0x2314      |        8980 |
-|     331 | 0x2315      |        8981 |
-|     332 | 0x2308      |        8968 |
-|     333 | 0x2302      |        8962 |
-|     334 | 0x2305      |        8965 |
-|     335 | 0x230C      |        8972 |
-|     336 | 0x230D      |        8973 |
+|     312 | 0x225B      |        8795 |
+|     313 | 0x225A      |        8794 |
+|     314 | 0x2259      |        8793 |
+|     315 | 0x225C      |        8796 |
+|     316 | 0x225D      |        8797 |
+|     317 | 0x225E      |        8798 |
+|     318 | 0x225F      |        8799 |
+|     319 | 0x2260      |        8800 |
+|     320 | 0x2261      |        8801 |
+|     321 | 0x2254      |        8788 |
+|     322 | 0x2255      |        8789 |
+|     323 | 0x2256      |        8790 |
+|     324 | 0x2257      |        8791 |
+|     325 | 0x2258      |        8792 |
+|     326 | 0x231D      |        8989 |
+|     327 | 0x231E      |        8990 |
+|     328 | 0x231F      |        8991 |
+|     329 | 0x2314      |        8980 |
+|     330 | 0x2315      |        8981 |
+|     331 | 0x2316      |        8982 |
+|     332 | 0x2309      |        8969 |
+|     333 | 0x2303      |        8963 |
+|     334 | 0x2306      |        8966 |
+|     335 | 0x230D      |        8973 |
+|     336 | 0x230E      |        8974 |
 
 ## String References
 
-- **8698**: What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]
-- **8699**: Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries.
-- **8700**: The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
-- **8701**: Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
-- **8702**: These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
-- **8703**: Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
-- **8704**: Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
-- **8705**: Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
-- **8706**: Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
-- **8707**: But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
-- **8708**: As one can see, careful planning and impeccable timing are the keys to victory.
-- **8709**: All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
-- **8710**: However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
-- **8711**: The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
-- **8712**: Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
-- **8713**: Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
-- **8714**: So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
-- **8715**: There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
-- **8716**: To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
-- **8717**: But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
-- **8718**: This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
-- **8719**: Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
-- **8720**: The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
-- **8721**: Best of Three series rules are as follows: Winning a match will earn a nation one "match point." The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for "come-from-behind" victories.
-- **8722**: Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
-- **8723**: Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
-- **8724**: When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
-- **8725**: For more information on temporary items, refer to the "special rules."
-- **8726**: After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
-- **8727**: If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
-- **8728**: Please note that many of the rules previously considered "special" have been fully implemented. Also, several new special rules have been added.
-- **8729**: Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]
-- **8730**: Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
-- **8731**: Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
-- **8732**: If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
-- **8733**: Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
-- **8734**: Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
-- **8735**: Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0.
-- **8736**: While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
-- **8737**: Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches.
-- **8738**: However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
-- **8739**: Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
-- **8740**: All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
-- **8741**: Players' resistance to sleep will be increased.
-- **8742**: During the entry period, from $0:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
-- **8743**: In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 1\`30
-- **8744**: Level 40 matches: 31\`40 Level 50 matches: 41\`50 Level 60 matches: 51\`60 Unrestricted matches: 61\`
-- **8745**: Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
-- **8746**: When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
-- **8747**: Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
-- **8748**: Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]
-- **8749**: Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
-- **8750**: Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
-- **8751**: After the registration period ends, players can compare their record with those of the previous nine matches.
-- **8752**: If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
-- **8753**: There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs.
-- **8754**: Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
-- **8755**: Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
-- **8756**: However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
-- **8757**: Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
-- **8758**: View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]
-- **8759**: Key Item: $3 Title: Gold Balli$25$25$25$25star
-- **8760**: Key Item: $3 Title: Mythril Balli$25$25$25star
-- **8761**: Key Item: $3 Title: Silver Balli$25$25star
-- **8762**: Key Item: $3 Title: Bronze Balli$25star
-- **8763**: Key Item: $3 Title: Searing$26Star
-- **8764**: Key Item: $3 Title: Striking$26Star
-- **8765**: Key Item: $3 Title: Soothing$26Star
-- **8766**: Key Item: $3 Title: Sable$26Star
-- **8767**: Key Item: $3 Title: Scarlet$26Star
-- **8768**: Key Item: $3 Title: Sonic$26Star
-- **8769**: Key Item: $3 Title: Saintly$26Star
-- **8770**: Key Item: $3 Title: Shadowy$26Star
-- **8771**: Key Item: $3 Title: Savage$26Star
-- **8772**: Key Item: $3 Title: Singing$26Star
-- **8773**: Key Item: $3 Title: Sniping$26Star
-- **8774**: Key Item: $3 Title: Slicing$26Star
-- **8775**: Key Item: $3 Title: Sneaking$26Star
-- **8776**: Key Item: $3 Title: Spearing$26Star
-- **8777**: Key Item: $3 Title: Summoning$26Star
-- **8778**: Key Item: $3 Title: Sapphire$26Star
-- **8779**: Key Item: $3 Title: Surging$26Star
-- **8780**: Key Item: $3 Title: Swaying$26Star
-- **8781**: Key Item: $3 Title: Sprightly$26Star
-- **8782**: Key Item: $3 Title: Sagacious$26Star
-- **8783**: Key Item: $3 Title: Spiritual$26Star
-- **8784**: Key Item: $3 Title: Stippling$26Star
-- **8787**: Matches are only played on even days (Vana'diel time).
-- **8788**: Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
-- **8789**: Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None
-- **8790**: And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil
-- **8791**: Participating nations are selected in the following manner...
-- **8792**: Matches for the 1st\`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
-- **8793**: Matches for the 5th\`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
-- **8794**: Matches for the 9th\`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
-- **8795**: Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]
-- **8796**: Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]
-- **8797**: Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]
-- **8798**: Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
-- **8799**: Entry period begins: Vana'diel: Earth:
-- **8800**: Match begins: Vana'diel: Earth:
-- **8801**: Register for Conflict? [Sign me up!/I need more time to think.]
-- **8807**: What shall you ask? [About the coming Ballista matches./About the Ballista schedule./About Ballista Earrings./About the rules of Ballista./Nothing at the moment.]
-- **8947**: Ask for an earring? [Yes./No.]
-- **8957**: Return the earring? [Yes./Not yet.]
+- **8699**: What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]
+- **8700**: Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries.
+- **8701**: The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
+- **8702**: Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
+- **8703**: These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
+- **8704**: Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
+- **8705**: Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
+- **8706**: Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
+- **8707**: Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
+- **8708**: But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
+- **8709**: As one can see, careful planning and impeccable timing are the keys to victory.
+- **8710**: All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
+- **8711**: However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
+- **8712**: The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
+- **8713**: Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
+- **8714**: Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
+- **8715**: So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
+- **8716**: There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
+- **8717**: To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
+- **8718**: But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
+- **8719**: This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
+- **8720**: Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
+- **8721**: The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
+- **8722**: Best of Three series rules are as follows: Winning a match will earn a nation one "match point." The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for "come-from-behind" victories.
+- **8723**: Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
+- **8724**: Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
+- **8725**: When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
+- **8726**: For more information on temporary items, refer to the "special rules."
+- **8727**: After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
+- **8728**: If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
+- **8729**: Please note that many of the rules previously considered "special" have been fully implemented. Also, several new special rules have been added.
+- **8730**: Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]
+- **8731**: Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
+- **8732**: Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
+- **8733**: If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
+- **8734**: Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
+- **8735**: Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
+- **8736**: Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0.
+- **8737**: While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
+- **8738**: Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches.
+- **8739**: However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
+- **8740**: Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
+- **8741**: All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
+- **8742**: Players' resistance to sleep will be increased.
+- **8743**: During the entry period, from $0:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
+- **8744**: In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 1\`30
+- **8745**: Level 40 matches: 31\`40 Level 50 matches: 41\`50 Level 60 matches: 51\`60 Unrestricted matches: 61\`
+- **8746**: Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
+- **8747**: When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
+- **8748**: Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
+- **8749**: Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]
+- **8750**: Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
+- **8751**: Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
+- **8752**: After the registration period ends, players can compare their record with those of the previous nine matches.
+- **8753**: If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
+- **8754**: There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs.
+- **8755**: Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
+- **8756**: Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
+- **8757**: However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
+- **8758**: Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
+- **8759**: View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]
+- **8760**: Key Item: $3 Title: Gold Balli$25$25$25$25star
+- **8761**: Key Item: $3 Title: Mythril Balli$25$25$25star
+- **8762**: Key Item: $3 Title: Silver Balli$25$25star
+- **8763**: Key Item: $3 Title: Bronze Balli$25star
+- **8764**: Key Item: $3 Title: Searing$26Star
+- **8765**: Key Item: $3 Title: Striking$26Star
+- **8766**: Key Item: $3 Title: Soothing$26Star
+- **8767**: Key Item: $3 Title: Sable$26Star
+- **8768**: Key Item: $3 Title: Scarlet$26Star
+- **8769**: Key Item: $3 Title: Sonic$26Star
+- **8770**: Key Item: $3 Title: Saintly$26Star
+- **8771**: Key Item: $3 Title: Shadowy$26Star
+- **8772**: Key Item: $3 Title: Savage$26Star
+- **8773**: Key Item: $3 Title: Singing$26Star
+- **8774**: Key Item: $3 Title: Sniping$26Star
+- **8775**: Key Item: $3 Title: Slicing$26Star
+- **8776**: Key Item: $3 Title: Sneaking$26Star
+- **8777**: Key Item: $3 Title: Spearing$26Star
+- **8778**: Key Item: $3 Title: Summoning$26Star
+- **8779**: Key Item: $3 Title: Sapphire$26Star
+- **8780**: Key Item: $3 Title: Surging$26Star
+- **8781**: Key Item: $3 Title: Swaying$26Star
+- **8782**: Key Item: $3 Title: Sprightly$26Star
+- **8783**: Key Item: $3 Title: Sagacious$26Star
+- **8784**: Key Item: $3 Title: Spiritual$26Star
+- **8785**: Key Item: $3 Title: Stippling$26Star
+- **8788**: Matches are only played on even days (Vana'diel time).
+- **8789**: Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
+- **8790**: Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None
+- **8791**: And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil
+- **8792**: Participating nations are selected in the following manner...
+- **8793**: Matches for the 1st\`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
+- **8794**: Matches for the 5th\`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
+- **8795**: Matches for the 9th\`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
+- **8796**: Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]
+- **8797**: Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]
+- **8798**: Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]
+- **8799**: Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
+- **8800**: Entry period begins: Vana'diel: Earth:
+- **8801**: Match begins: Vana'diel: Earth:
+- **8802**: Register for Conflict? [Sign me up!/I need more time to think.]
+- **8808**: What shall you ask? [About the coming Ballista matches./About the Ballista schedule./About Ballista Earrings./About the rules of Ballista./Nothing at the moment.]
+- **8948**: Ask for an earring? [Yes./No.]
+- **8958**: Return the earring? [Yes./Not yet.]
 
 ## Events
 
@@ -524,13 +524,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8827*]:
+  3: 0x0008 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8828*]:
     → "Wait a minute, don't tell me... You'rrre one of the Federation's adventurers, right? And you want to sign up for Conflict?"
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0010 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8828*]:
+  5: 0x0010 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8829*]:
     → "Hmmm... I don't know... Your rank is awfully low. How am I supposed to trrrust someone who hasn't prrroved themselves to the nation?"
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0018 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8829*]:
+  7: 0x0018 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8830*]:
     → "Get out there and do some missions, and I'll guarantee you a spot on our team. You look like you've got what it takes!"
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0020 [0x21] END_EVENT
@@ -771,22 +771,22 @@
   3: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0034 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8843*]:
+  6: 0x0034 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8844*]:
     → "Wait a minute, don't tell me... You'rrre one of the Federation's adventurers, right? And you want to sign up for Conflict?"
   7: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x003C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8844*]:
+  8: 0x003C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8845*]:
     → "Hmmm... Your rank seems high enough... OK! You'rrre in. I could use a veteran like you to whip some of my younger mercenaries into shape."
   9: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0044 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8845*]:
+ 10: 0x0044 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8846*]:
     → "My name's Mhabi Molkot. Up until a few days ago, I was Captain of the Terrible Tigresses, the most fearrred group of Mithra Mercenaries in all of Windurst!"
  11: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x004C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8846*]:
+ 12: 0x004C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8847*]:
     → "And then all of a sudden, they make me Conflict Commander..."
  13: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0054 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8847*]:
+ 14: 0x0054 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8848*]:
     → "Anyway, I said you'rrre in, so you'rrre in already! What? Don't tell me you're having second thoughts!"
  15: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x005C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8848*]:
+ 16: 0x005C [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8849*]:
     → "Let me tell you a little about what's been going on in the past few months. It all starrrted at some stuffy conference to talk about the conquest..."
  17: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0064 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -836,7 +836,7 @@ SUBROUTINE_010B:
  60: 0x017A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  61: 0x018B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  62: 0x019A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=64*
- 63: 0x01A9 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8613*]:
+ 63: 0x01A9 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8614*]:
     → "I think we have covered all of the topics on our agenda today."
  64: 0x01B0 [0x79] Wolfgang (ID: 17768553/0x010F2069) looks at Trion (ID: 17768556/0x010F206C) (Basic look)
  65: 0x01BA [0x1C] WAIT(90* ticks)
@@ -847,11 +847,11 @@ SUBROUTINE_010B:
  70: 0x01D0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
  71: 0x01E1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=64*
  72: 0x01F0 [0x1C] WAIT(15* ticks)
- 73: 0x01F3 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8614*]:
+ 73: 0x01F3 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8615*]:
     → "If there are no objections, I would like to call the 136th Conquest Evaluation Assembly to a close."
  74: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x01FB [0x1C] WAIT(10* ticks)
- 76: 0x01FE [0x2B] Trion (ID: 17768556/0x010F206C) [8615*]:
+ 76: 0x01FE [0x2B] Trion (ID: 17768556/0x010F206C) [8616*]:
     → "Just a moment."
  77: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0206 [0x1C] WAIT(20* ticks)
@@ -864,22 +864,22 @@ SUBROUTINE_010B:
  85: 0x0235 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Trion (ID: 17768556/0x010F206C)
  86: 0x023E [0x4A] Shantotto (ID: 17768533/0x010F2055) looks at Trion (ID: 17768556/0x010F206C)
  87: 0x0247 [0x1C] WAIT(20* ticks)
- 88: 0x024A [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8616*]:
+ 88: 0x024A [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8617*]:
     → "Prince Trion, is there something you wish to add?"
  89: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0252 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=64*
- 91: 0x0261 [0x2B] Trion (ID: 17768556/0x010F206C) [8617*]:
+ 91: 0x0261 [0x2B] Trion (ID: 17768556/0x010F206C) [8618*]:
     → "... I will not deny that the participation of adventurers has been of great benefit to the conquest, as well as maintained a new level of safety in the outlying regions."
  92: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0269 [0x2B] Trion (ID: 17768556/0x010F206C) [8618*]:
+ 93: 0x0269 [0x2B] Trion (ID: 17768556/0x010F206C) [8619*]:
     → "In addition, the many treaties signed by our nations have successfully paved a path of peace. No longer need our border guards fear attacks from our friends to the south and east."
  94: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0271 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Trion (ID: 17768556/0x010F206C))
  96: 0x0277 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
- 97: 0x0288 [0x2B] Trion (ID: 17768556/0x010F206C) [8619*]:
+ 97: 0x0288 [0x2B] Trion (ID: 17768556/0x010F206C) [8620*]:
     → "However, the beastman forces display no signs of weakening. Those noble guards stationed in faraway lands must deal with this reality constantly...and the burden has begun taking its toll."
  98: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x0290 [0x2B] Trion (ID: 17768556/0x010F206C) [8620*]:
+ 99: 0x0290 [0x2B] Trion (ID: 17768556/0x010F206C) [8621*]:
     → "The already large gap between the guards on our borders and the guards in the Outlands expands with each day. If nothing is done, morale shall continue to fall while discontent grows."
 100: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0298 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Trion (ID: 17768556/0x010F206C))
@@ -892,26 +892,26 @@ SUBROUTINE_010B:
 108: 0x02DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 109: 0x02DD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Trion (ID: 17768556/0x010F206C) Render.Flags0 and Render.Flags3 conditions are met
 110: 0x02E2 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x08)
-111: 0x02E9 [0x2B] Trion (ID: 17768556/0x010F206C) [8621*]:
+111: 0x02E9 [0x2B] Trion (ID: 17768556/0x010F206C) [8622*]:
     → "I sense that my kingdom is not alone in these worries."
 112: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x02F1 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x03)
-114: 0x02F8 [0x2B] Volker (ID: 17768558/0x010F206E) [8622*]:
+114: 0x02F8 [0x2B] Volker (ID: 17768558/0x010F206E) [8623*]:
     → "Soldier morale..."
 115: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0300 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x04)
 117: 0x0307 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x031A
-118: 0x030F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8623*]:
+118: 0x030F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8624*]:
     → "Well, well, well! I never thought I'd see such a lack of confidence from a member of the mighty d'Oraguille family!"
 119: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0317 [0x01] GOTO 0x0322
-121: 0x031A [0x2B] Shantotto (ID: 17768533/0x010F2055) [8624*]:
+121: 0x031A [0x2B] Shantotto (ID: 17768533/0x010F2055) [8625*]:
     → "Ohohoho! I never thought I'd see such a lack of confidence from Destin's baby boy--Trion, the prince."
 122: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0322:
 123: 0x0322 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x09)
-124: 0x0329 [0x2B] Trion (ID: 17768556/0x010F206C) [8625*]:
+124: 0x0329 [0x2B] Trion (ID: 17768556/0x010F206C) [8626*]:
     → "How dare you!?"
 125: 0x0330 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0331 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x039D
@@ -922,14 +922,14 @@ SUBROUTINE_0322:
 131: 0x0365 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 132: 0x0366 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Volker (ID: 17768558/0x010F206E) Render.Flags0 and Render.Flags3 conditions are met
 133: 0x036B [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x07)
-134: 0x0372 [0x2B] Volker (ID: 17768558/0x010F206E) [8626*]:
+134: 0x0372 [0x2B] Volker (ID: 17768558/0x010F206E) [8627*]:
     → "I think that is quite enough, Minister."
 135: 0x0379 [0x1C] WAIT(10* ticks)
 136: 0x037C [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Volker (ID: 17768558/0x010F206E)
 137: 0x0385 [0x1C] WAIT(10* ticks)
 138: 0x0388 [0x4A] Shantotto (ID: 17768533/0x010F2055) looks at Volker (ID: 17768558/0x010F206E)
 139: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x0392 [0x2B] Volker (ID: 17768558/0x010F206E) [8627*]:
+140: 0x0392 [0x2B] Volker (ID: 17768558/0x010F206E) [8628*]:
     → "I fully understand the concerns of Prince Trion, and believe he has a point."
 141: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x039A [0x01] GOTO 0x03EA
@@ -940,14 +940,14 @@ SUBROUTINE_0322:
 147: 0x03C9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 148: 0x03CA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Volker (ID: 17768558/0x010F206E) Render.Flags0 and Render.Flags3 conditions are met
 149: 0x03CF [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x07)
-150: 0x03D6 [0x2B] Volker (ID: 17768558/0x010F206E) [8628*]:
+150: 0x03D6 [0x2B] Volker (ID: 17768558/0x010F206E) [8629*]:
     → "Doctor Shantotto... I fully understand the concerns of Prince Trion, and believe he has a point."
 151: 0x03DD [0x1C] WAIT(10* ticks)
 152: 0x03E0 [0x4A] Shantotto (ID: 17768533/0x010F2055) looks at Volker (ID: 17768558/0x010F206E)
 153: 0x03E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03EA:
-154: 0x03EA [0x2B] Volker (ID: 17768558/0x010F206E) [8629*]:
+154: 0x03EA [0x2B] Volker (ID: 17768558/0x010F206E) [8630*]:
     → "In a republic like Bastok, where a large portion of our army is made up of normal citizens, it is easy for morale levels to slide. This is a problem that is constantly being tackled by our officials."
 155: 0x03F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x03F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
@@ -956,95 +956,95 @@ SUBROUTINE_03EA:
 159: 0x041A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 160: 0x041B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
 161: 0x0420 [0x27] REQ_SET(priority=0x03, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x06)
-162: 0x0427 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8630*]:
+162: 0x0427 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8631*]:
     → "Really? Well, that's your nation. Windurst doesn't face such problems."
 163: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x042F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8631*]:
+164: 0x042F [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8632*]:
     → "Our Mithran Mercenaries enjoy being sent to far-off places. It gives them the opportunity to run and jump and hunt and roll around in the mud--whatever those feminine felines like to do in their free time."
 165: 0x0436 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0437 [0x27] REQ_SET(priority=0x03, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017), tag_num=0x07)
-167: 0x043E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8632*]:
+167: 0x043E [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8633*]:
     → "Maybe instead of buffing up your soldiers' muscles all day, you should try training their minds...like we do. And that's my two gil!"
 168: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0446 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Ajido-Marujido (ID: 17768471/0x010F2017))
 170: 0x044C [0x01] GOTO 0x0475
 171: 0x044F [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x06)
-172: 0x0456 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8633*]:
+172: 0x0456 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8634*]:
     → "Oh, rea`lly? Well, that's your nation. We don't have such problems in the Federation."
 173: 0x045D [0x23] WAIT_FOR_DIALOG_INTERACTION
-174: 0x045E [0x2B] Shantotto (ID: 17768533/0x010F2055) [8634*]:
+174: 0x045E [0x2B] Shantotto (ID: 17768533/0x010F2055) [8635*]:
     → "Our Mithran Mercenaries enjoy being sent to faraway places. It gives them time to take their naps, hunt their mice, and go on their chases."
 175: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x0466 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8635*]:
+176: 0x0466 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8636*]:
     → "Maybe it's to the lack of confidence that you can give thanks for the drastic fall of morale in your pathetic ranks."
 177: 0x046D [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x046E [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x07)
 
 SUBROUTINE_0475:
 179: 0x0475 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
-180: 0x0486 [0x2B] Trion (ID: 17768556/0x010F206C) [8636*]:
+180: 0x0486 [0x2B] Trion (ID: 17768556/0x010F206C) [8637*]:
     → "..."
 181: 0x048D [0x1C] WAIT(100* ticks)
 182: 0x0490 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x08)
 183: 0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0498 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=64*
 185: 0x04A7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x04BA
-186: 0x04AF [0x2B] Volker (ID: 17768558/0x010F206E) [8637*]:
+186: 0x04AF [0x2B] Volker (ID: 17768558/0x010F206E) [8638*]:
     → "Yes, but hiring mercenaries can be quite the burden on the Federation's treasury, can it not?"
 187: 0x04B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x04B7 [0x01] GOTO 0x04C2
-189: 0x04BA [0x2B] Volker (ID: 17768558/0x010F206E) [8638*]:
+189: 0x04BA [0x2B] Volker (ID: 17768558/0x010F206E) [8639*]:
     → "Yes, but hiring mercenaries can be quite the burden on the Federation's treasury, can it not?"
 190: 0x04C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04C2:
-191: 0x04C2 [0x2B] Volker (ID: 17768558/0x010F206E) [8639*]:
+191: 0x04C2 [0x2B] Volker (ID: 17768558/0x010F206E) [8640*]:
     → "The more regions under your nation's control, the more mercenaries you must hire. And before you realize it, your vaults will be empty."
 192: 0x04C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-193: 0x04CA [0x2B] Volker (ID: 17768558/0x010F206E) [8640*]:
+193: 0x04CA [0x2B] Volker (ID: 17768558/0x010F206E) [8641*]:
     → "I suspect that the conquest is taking its toll on the Federation."
 194: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x04D2 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0571
-196: 0x04DA [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8641*]:
+196: 0x04DA [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8642*]:
     → "Well, we..."
 197: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x04E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 199: 0x04F3 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x09)
-200: 0x04FA [0x2B] Shantotto (ID: 17768533/0x010F2055) [8642*]:
+200: 0x04FA [0x2B] Shantotto (ID: 17768533/0x010F2055) [8643*]:
     → "Ohohohoho! In a matter of months, our wishy-worries will be gone, When our Outland regions are patrolled by automatons."
 201: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0502 [0x79] Volker (ID: 17768558/0x010F206E) looks at Shantotto (ID: 17768533/0x010F2055) (Basic look)
 203: 0x050C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=64*
 204: 0x051B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
-205: 0x052C [0x2B] Shantotto (ID: 17768533/0x010F2055) [8643*]:
+205: 0x052C [0x2B] Shantotto (ID: 17768533/0x010F2055) [8644*]:
     → "Operation costs will stay lower than low. And into our vaults the gil shall flow. Ohoho!"
 206: 0x0533 [0x1C] WAIT(10* ticks)
 207: 0x0536 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Shantotto (ID: 17768533/0x010F2055)
 208: 0x053F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 209: 0x0540 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ajido-Marujido (ID: 17768471/0x010F2017) Render.Flags0 and Render.Flags3 conditions are met
 210: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
-211: 0x0546 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8644*]:
+211: 0x0546 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8645*]:
     → "Shantotto!"
 212: 0x054D [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x054E [0x6B] STOP_AND_IDLE: Shantotto (ID: 17768533/0x010F2055) stops current action and resets to idle (animation="idl0")
-214: 0x0557 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8645*]:
+214: 0x0557 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8646*]:
     → "If you wish, Windurst can also build some for use by the king and the president. All for a small fee payable in five easy installments."
 215: 0x055E [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x055F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=64*
 217: 0x056E [0x01] GOTO 0x05CB
 218: 0x0571 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 219: 0x0582 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0B)
-220: 0x0589 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8646*]:
+220: 0x0589 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8647*]:
     → "Ohohohoho! In a matter of months, our wishy-worries will be gone, when our Outland regions are patrolled by automatons."
 221: 0x0590 [0x23] WAIT_FOR_DIALOG_INTERACTION
-222: 0x0591 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8647*]:
+222: 0x0591 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8648*]:
     → "Operation costs will stay lower than low. And into our vaults the gil shall flow. Ohoho!"
 223: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
-224: 0x0599 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8648*]:
+224: 0x0599 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8649*]:
     → "While we appreciate the concern from Destin's baby and Karst's pet, I don't think Windurst will be taking any drastic actions yet."
 225: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x05A1 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shantotto (ID: 17768533/0x010F2055))
-227: 0x05A7 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8649*]:
+227: 0x05A7 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8650*]:
     → "But if you wish, we could build some Cardians for use by the king and the president. All for a small fee payable in five easy installments. O`hohohohoho!"
 228: 0x05AE [0x1C] WAIT(60* ticks)
 229: 0x05B1 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x08)
@@ -1054,25 +1054,25 @@ SUBROUTINE_04C2:
 
 SUBROUTINE_05CB:
 233: 0x05CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
-234: 0x05DC [0x2B] Volker (ID: 17768558/0x010F206E) [8650*]:
+234: 0x05DC [0x2B] Volker (ID: 17768558/0x010F206E) [8651*]:
     → "That sounds like a lovely plan, Minister Shantotto."
 235: 0x05E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x05E4 [0x7B] Volker (ID: 17768558/0x010F206E) stops talking
-237: 0x05E9 [0x2B] Volker (ID: 17768558/0x010F206E) [8651*]:
+237: 0x05E9 [0x2B] Volker (ID: 17768558/0x010F206E) [8652*]:
     → "But wouldn't the use of automatons in the conquest be in violation of the Treaty of Nations...?"
 238: 0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x05F1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=64*
 240: 0x0600 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
-241: 0x0611 [0x2B] Trion (ID: 17768556/0x010F206C) [8652*]:
+241: 0x0611 [0x2B] Trion (ID: 17768556/0x010F206C) [8653*]:
     → "Hmph. And I have heard many a tale of those walking scarecrows turning on their masters..."
 242: 0x0618 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0619 [0x4A] Shantotto (ID: 17768533/0x010F2055) looks at Trion (ID: 17768556/0x010F206C)
 244: 0x0622 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0635
-245: 0x062A [0x2B] Trion (ID: 17768556/0x010F206C) [8653*]:
+245: 0x062A [0x2B] Trion (ID: 17768556/0x010F206C) [8654*]:
     → "Like father, like son, I say. I would not trust a lump of rubbish made by one of you lunatics any more than I would trust one of you lunatics!"
 246: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x0632 [0x01] GOTO 0x063D
-248: 0x0635 [0x2B] Trion (ID: 17768556/0x010F206C) [8654*]:
+248: 0x0635 [0x2B] Trion (ID: 17768556/0x010F206C) [8655*]:
     → "How can one call a soldier that does not obey his leader a soldier? And how can one call a leader who cannot control his soldiers a leader?"
 249: 0x063C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1080,7 +1080,7 @@ SUBROUTINE_063D:
 250: 0x063D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=64*
 251: 0x064C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 252: 0x064D [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shantotto (ID: 17768533/0x010F2055) Render.Flags0 and Render.Flags3 conditions are met
-253: 0x0652 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8655*]:
+253: 0x0652 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8656*]:
     → "Ooh, somebody's in a bad mood..."
 254: 0x0659 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x065A [0x1C] WAIT(30* ticks)
@@ -1092,7 +1092,7 @@ SUBROUTINE_063D:
 261: 0x0692 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 262: 0x0693 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Volker (ID: 17768558/0x010F206E) Render.Flags0 and Render.Flags3 conditions are met
 263: 0x0698 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x05)
-264: 0x069F [0x2B] Volker (ID: 17768558/0x010F206E) [8656*]:
+264: 0x069F [0x2B] Volker (ID: 17768558/0x010F206E) [8657*]:
     → "Prince Trion. You certainly did not bring up this issue without having a solution in mind."
 265: 0x06A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x06A7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x06F7
@@ -1101,7 +1101,7 @@ SUBROUTINE_063D:
 269: 0x06C3 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Trion (ID: 17768556/0x010F206C)
 270: 0x06CC [0x1C] WAIT(50* ticks)
 271: 0x06CF [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x04)
-272: 0x06D6 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8657*]:
+272: 0x06D6 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8658*]:
     → "Exactly! You'd better have something interesting to say. Or Ajido and I will pack up our things and be on our way."
 273: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x06DE [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x05)
@@ -1115,17 +1115,17 @@ SUBROUTINE_063D:
 282: 0x0710 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y004" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 283: 0x0721 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y004" with entities [LocalPlayer, LocalPlayer], work=64*
 284: 0x0730 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Trion (ID: 17768556/0x010F206C))
-285: 0x0736 [0x2B] Trion (ID: 17768556/0x010F206C) [8658*]:
+285: 0x0736 [0x2B] Trion (ID: 17768556/0x010F206C) [8659*]:
     → "Recently one of our Royal Knights made his return journey from our kingdom's territories to the north--Lord Excenmille."
 286: 0x073D [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x073E [0x4A] Wolfgang (ID: 17768553/0x010F2069) looks at Trion (ID: 17768556/0x010F206C)
-288: 0x0747 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8659*]:
+288: 0x0747 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8660*]:
     → "Excenmille? The man who, after the Great War, took a handful of soldiers and successfully invaded the Orcish Empire using guerilla tactics?"
 289: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
-290: 0x074F [0x2B] Trion (ID: 17768556/0x010F206C) [8660*]:
+290: 0x074F [0x2B] Trion (ID: 17768556/0x010F206C) [8661*]:
     → "Yes. Sword in hand, donning armor stained with the blood of a thousand foes, he returned to his homeland for the first time in twenty years...and was shocked at what he found lurking beyond its gates."
 291: 0x0756 [0x23] WAIT_FOR_DIALOG_INTERACTION
-292: 0x0757 [0x2B] Trion (ID: 17768556/0x010F206C) [8661*]:
+292: 0x0757 [0x2B] Trion (ID: 17768556/0x010F206C) [8662*]:
     → "Foreign merchants of all shapes and sizes peddling their trinkets. Scruffy adventurers shouting out their petty problems as they walked freely among the streets and alleys. Local shopkeeps and Temple Knights laughing as they mingled with the scum washed up from all corners of the continent."
 293: 0x075E [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x075F [0x4B] UPDATE_ENTITY_YAW(entity=Trion (ID: 17768556/0x010F206C), yaw=0.0°*)
@@ -1134,33 +1134,33 @@ SUBROUTINE_063D:
 297: 0x077A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 298: 0x077B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Trion (ID: 17768556/0x010F206C) Render.Flags0 and Render.Flags3 conditions are met
 299: 0x0780 [0x1C] WAIT(30* ticks)
-300: 0x0783 [0x2B] Trion (ID: 17768556/0x010F206C) [8662*]:
+300: 0x0783 [0x2B] Trion (ID: 17768556/0x010F206C) [8663*]:
     → "Excenmille was furious."
 301: 0x078A [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x078B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y00b" with entities [LocalPlayer, LocalPlayer], work=64*
 303: 0x079A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y006" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 304: 0x07AB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y006" with entities [LocalPlayer, LocalPlayer], work=64*
-305: 0x07BA [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8663*]:
+305: 0x07BA [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8664*]:
     → "Why would he be furious? The influx of adventurers has revitalized your nation."
 306: 0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x07C2 [0x79] Trion (ID: 17768556/0x010F206C) looks at Wolfgang (ID: 17768553/0x010F2069) (Basic look)
 308: 0x07CC [0x1C] WAIT(10* ticks)
 309: 0x07CF [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x06)
-310: 0x07D6 [0x2B] Trion (ID: 17768556/0x010F206C) [8664*]:
+310: 0x07D6 [0x2B] Trion (ID: 17768556/0x010F206C) [8665*]:
     → "According to Excenmille, twenty-five years ago, a union among the children of Altana was necessary to defeat the armies of darkness."
 311: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-312: 0x07DE [0x2B] Trion (ID: 17768556/0x010F206C) [8665*]:
+312: 0x07DE [0x2B] Trion (ID: 17768556/0x010F206C) [8666*]:
     → "However, now that the threat has gone, there is no reason for San d'Oria's citizens to be brushing shoulders with the common folk of other nations. It is this symbiotic relationship that plagues the Kingdom and keeps the once mighty red lion shackled down."
 313: 0x07E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x07E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 315: 0x07F7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=64*
-316: 0x0806 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8666*]:
+316: 0x0806 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8667*]:
     → "That seems like quite an anachronous opinion..."
 317: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x080E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y008" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 319: 0x081F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y008" with entities [LocalPlayer, LocalPlayer], work=64*
 320: 0x082E [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x07)
-321: 0x0835 [0x2B] Trion (ID: 17768556/0x010F206C) [8667*]:
+321: 0x0835 [0x2B] Trion (ID: 17768556/0x010F206C) [8668*]:
     → "Excenmille's way of thinking may seem out-of-date, but his logic cannot be denied. Ever since the opening of our gates to outsiders, the quality of our knights has fallen dramatically."
 322: 0x083C [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x083D [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x0B)
@@ -1172,7 +1172,7 @@ SUBROUTINE_063D:
 329: 0x0880 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=64*
 
 SUBROUTINE_088F:
-330: 0x088F [0x2B] Shantotto (ID: 17768533/0x010F2055) [8668*]:
+330: 0x088F [0x2B] Shantotto (ID: 17768533/0x010F2055) [8669*]:
     → "... I'm tired of hearing stories about some pumpkin-bumpkin knight. Are you going to get to the point, or are we going to be here all night?"
 331: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x0897 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Trion (ID: 17768556/0x010F206C))
@@ -1180,12 +1180,12 @@ SUBROUTINE_088F:
 334: 0x08A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y005" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 335: 0x08B3 [0x1C] WAIT(30* ticks)
 336: 0x08B6 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x08)
-337: 0x08BD [0x2B] Trion (ID: 17768556/0x010F206C) [8669*]:
+337: 0x08BD [0x2B] Trion (ID: 17768556/0x010F206C) [8670*]:
     → "Excenmille offered me with the following suggestion..."
 338: 0x08C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x08C5 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=360*)
 340: 0x08CA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y005" with entities [LocalPlayer, LocalPlayer], work=64*
-341: 0x08D9 [0x2B] Trion (ID: 17768556/0x010F206C) [8670*]:
+341: 0x08D9 [0x2B] Trion (ID: 17768556/0x010F206C) [8671*]:
     → "Revive Conflict!"
 342: 0x08E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 343: 0x08E1 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x09)
@@ -1194,7 +1194,7 @@ SUBROUTINE_088F:
 346: 0x0908 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
 347: 0x090C [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 120*
 348: 0x0910 [0x7C] Volker (ID: 17768558/0x010F206E)->Render.Flags2 |= 0x00
-349: 0x0916 [0x2B] Volker (ID: 17768558/0x010F206E) [8671*]:
+349: 0x0916 [0x2B] Volker (ID: 17768558/0x010F206E) [8672*]:
     → "..."
 350: 0x091D [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x091E [0x7C] Volker (ID: 17768558/0x010F206E)->Render.Flags2 |= 0x01
@@ -1207,62 +1207,62 @@ SUBROUTINE_088F:
 
 SUBROUTINE_096F:
 358: 0x096F [0x7C] Shantotto (ID: 17768533/0x010F2055)->Render.Flags2 |= 0x00
-359: 0x0975 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8672*]:
+359: 0x0975 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8673*]:
     → "...!?"
 360: 0x097C [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x097D [0x7C] Shantotto (ID: 17768533/0x010F2055)->Render.Flags2 |= 0x01
 362: 0x0983 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 363: 0x0994 [0x1C] WAIT(20* ticks)
 364: 0x0997 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17768553/0x010F2069), tag_num=0x02)
-365: 0x099E [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8673*]:
+365: 0x099E [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8674*]:
     → "C-Conflict!? A series of games based on battle exercises, played by select heroes from each of the nations..."
 366: 0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 367: 0x09A6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=64*
-368: 0x09B5 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8674*]:
+368: 0x09B5 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8675*]:
     → "Due to the extreme level of danger involved, it was banned well before the Great War. You are not suggesting that we reinstate Conflict, are you?"
 369: 0x09BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x09BD [0x1C] WAIT(30* ticks)
-371: 0x09C0 [0x2B] Trion (ID: 17768556/0x010F206C) [8675*]:
+371: 0x09C0 [0x2B] Trion (ID: 17768556/0x010F206C) [8676*]:
     → "That is what I propose."
 372: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x09C8 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17768553/0x010F2069), tag_num=0x03)
 374: 0x09CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 375: 0x09E0 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x07)
-376: 0x09E7 [0x2B] Volker (ID: 17768558/0x010F206E) [8676*]:
+376: 0x09E7 [0x2B] Volker (ID: 17768558/0x010F206E) [8677*]:
     → "Conflict... An interesting idea..."
 377: 0x09EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-378: 0x09EF [0x2B] Volker (ID: 17768558/0x010F206E) [8677*]:
+378: 0x09EF [0x2B] Volker (ID: 17768558/0x010F206E) [8678*]:
     → "There was once a time when Conflict ignited the spirits of the people of Bastok--players and fans alike."
 379: 0x09F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x09F7 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x08)
-381: 0x09FE [0x2B] Volker (ID: 17768558/0x010F206E) [8678*]:
+381: 0x09FE [0x2B] Volker (ID: 17768558/0x010F206E) [8679*]:
     → "However, after numerous "accidents," the games were deemed a bad influence on the Republic's image, and were banned by law."
 382: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
-383: 0x0A06 [0x2B] Volker (ID: 17768558/0x010F206E) [8679*]:
+383: 0x0A06 [0x2B] Volker (ID: 17768558/0x010F206E) [8680*]:
     → "If Conflict was reinstated, it could re-ignite the flames in the hearts of all Bastokers and renew their faith in the Republican Army. Morale would be restored, and our problems solved."
 384: 0x0A0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x0A0E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=64*
 386: 0x0A1D [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0AA7
 387: 0x0A25 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 388: 0x0A36 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x06)
-389: 0x0A3D [0x2B] Shantotto (ID: 17768533/0x010F2055) [8680*]:
+389: 0x0A3D [0x2B] Shantotto (ID: 17768533/0x010F2055) [8681*]:
     → "Prince Trion, Prince Trion. If that's all that you wanted to say, you didn't have to go beat around the bush all day."
 390: 0x0A44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-391: 0x0A45 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8681*]:
+391: 0x0A45 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8682*]:
     → "Windurst welcomes Conflict with open arms! A little feuding fun could do no harm."
 392: 0x0A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x0A4D [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x07)
 394: 0x0A54 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Shantotto (ID: 17768533/0x010F2055)
 395: 0x0A5D [0x1C] WAIT(10* ticks)
-396: 0x0A60 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8682*]:
+396: 0x0A60 [0x2B] Ajido-Marujido (ID: 17768471/0x010F2017) [8683*]:
     → "Shantotto!?"
 397: 0x0A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x0A68 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shantotto (ID: 17768533/0x010F2055))
 399: 0x0A6E [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x09)
-400: 0x0A75 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8683*]:
+400: 0x0A75 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8684*]:
     → "Oh, there's nothing to get all excited about. The forces of Windurst are in good hands. A couple of knutty knights and measly musketeers are no match for Shantotto's superior battle plans."
 401: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
-402: 0x0A7D [0x2B] Shantotto (ID: 17768533/0x010F2055) [8685*]:
+402: 0x0A7D [0x2B] Shantotto (ID: 17768533/0x010F2055) [8686*]:
     → "And once we get our fearless loyal adventurers to help, it will be your two nations letting out cries and yelps."
 403: 0x0A84 [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x0A85 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1273,17 +1273,17 @@ SUBROUTINE_096F:
 409: 0x0AA4 [0x01] GOTO 0x0AF5
 410: 0x0AA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 411: 0x0AB8 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x06)
-412: 0x0ABF [0x2B] Shantotto (ID: 17768533/0x010F2055) [8680*]:
+412: 0x0ABF [0x2B] Shantotto (ID: 17768533/0x010F2055) [8681*]:
     → "Prince Trion, Prince Trion. If that's all that you wanted to say, you didn't have to go beat around the bush all day."
 413: 0x0AC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-414: 0x0AC7 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8681*]:
+414: 0x0AC7 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8682*]:
     → "Windurst welcomes Conflict with open arms! A little feuding fun could do no harm."
 415: 0x0ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
 416: 0x0ACF [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x07)
-417: 0x0AD6 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8684*]:
+417: 0x0AD6 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8685*]:
     → "The forces of Windurst are in good hands. A couple of knutty knights and measly musketeers are no match for Shantotto's superior battle plans."
 418: 0x0ADD [0x23] WAIT_FOR_DIALOG_INTERACTION
-419: 0x0ADE [0x2B] Shantotto (ID: 17768533/0x010F2055) [8685*]:
+419: 0x0ADE [0x2B] Shantotto (ID: 17768533/0x010F2055) [8686*]:
     → "And once we get our fearless loyal adventurers to help, it will be your two nations letting out cries and yelps."
 420: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 421: 0x0AE6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=64*
@@ -1299,16 +1299,16 @@ SUBROUTINE_0AF5:
 429: 0x0B37 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 430: 0x0B38 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Volker (ID: 17768558/0x010F206E) Render.Flags0 and Render.Flags3 conditions are met
 431: 0x0B3D [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x03)
-432: 0x0B44 [0x2B] Volker (ID: 17768558/0x010F206E) [8686*]:
+432: 0x0B44 [0x2B] Volker (ID: 17768558/0x010F206E) [8687*]:
     → "If San d'Oria and Windurst have agreed to participate, the president is sure to grant his approval."
 433: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-434: 0x0B4C [0x2B] Volker (ID: 17768558/0x010F206E) [8687*]:
+434: 0x0B4C [0x2B] Volker (ID: 17768558/0x010F206E) [8688*]:
     → "And I know our adventurers will be more than happy to take up their swords for the Republic."
 435: 0x0B53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 436: 0x0B54 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x04)
 437: 0x0B5B [0x4A] Trion (ID: 17768556/0x010F206C) looks at Wolfgang (ID: 17768553/0x010F2069)
 438: 0x0B64 [0x1C] WAIT(10* ticks)
-439: 0x0B67 [0x2B] Trion (ID: 17768556/0x010F206C) [8688*]:
+439: 0x0B67 [0x2B] Trion (ID: 17768556/0x010F206C) [8689*]:
     → "Excellent. I look forward to meeting you all again on the battlefield."
 440: 0x0B6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 441: 0x0B6F [0x4B] UPDATE_ENTITY_YAW(entity=Wolfgang (ID: 17768553/0x010F2069), yaw=5.6°*)
@@ -1318,29 +1318,29 @@ SUBROUTINE_0AF5:
 445: 0x0B85 [0x4A] Ajido-Marujido (ID: 17768471/0x010F2017) looks at Wolfgang (ID: 17768553/0x010F2069)
 446: 0x0B8E [0x1C] WAIT(10* ticks)
 447: 0x0B91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
-448: 0x0BA2 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8689*]:
+448: 0x0BA2 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8690*]:
     → "Well... It is a rare occasion that all three nations agree on an issue."
 449: 0x0BA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-450: 0x0BAA [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8690*]:
+450: 0x0BAA [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8691*]:
     → "Unfortunately, ducal law prevents Jeuno from participating in such matters."
 451: 0x0BB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-452: 0x0BB2 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8691*]:
+452: 0x0BB2 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8692*]:
     → "However, we will assign officials to take part as Heralds and watch over the games."
 453: 0x0BB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 454: 0x0BBA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=64*
 455: 0x0BC9 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x05)
-456: 0x0BD0 [0x2B] Volker (ID: 17768558/0x010F206E) [8692*]:
+456: 0x0BD0 [0x2B] Volker (ID: 17768558/0x010F206E) [8693*]:
     → "I have no objections. Now let us return to our nations and begin with the preparations."
 457: 0x0BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x0BD8 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x04)
-459: 0x0BDF [0x2B] Trion (ID: 17768556/0x010F206C) [8693*]:
+459: 0x0BDF [0x2B] Trion (ID: 17768556/0x010F206C) [8694*]:
     → "Then it has been decided. Sir Wolfgang."
 460: 0x0BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 461: 0x0BE7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 462: 0x0BF8 [0x1C] WAIT(30* ticks)
 463: 0x0BFB [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17768558/0x010F206E), tag_num=0x06)
 464: 0x0C02 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17768556/0x010F206C), tag_num=0x05)
-465: 0x0C09 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8694*]:
+465: 0x0C09 [0x2B] Wolfgang (ID: 17768553/0x010F2069) [8695*]:
     → "Ahem. Then, if there is nothing further, I call the 136th Conquest Evaluation Assembly to a close."
 466: 0x0C10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 467: 0x0C11 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=64*
@@ -1358,17 +1358,17 @@ SUBROUTINE_0C37:
 477: 0x0C58 [0x1C] WAIT(50* ticks)
 478: 0x0C5B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[64*, 0*]
 479: 0x0C6C [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0C7F
-480: 0x0C74 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8695*]:
+480: 0x0C74 [0x2B] Shantotto (ID: 17768533/0x010F2055) [8696*]:
     → "Though I'd rather be sitting on the beach, catching some sun, sometimes these stuffy-snuffy meetings can be kind of fun!"
 481: 0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 482: 0x0C7C [0x01] GOTO 0x0C87
-483: 0x0C7F [0x2B] Shantotto (ID: 17768533/0x010F2055) [8696*]:
+483: 0x0C7F [0x2B] Shantotto (ID: 17768533/0x010F2055) [8697*]:
     → "Though I'd rather be sitting on the beach, catching some sun, sometimes these stuffy-snuffy meetings can be kind of fun!"
 484: 0x0C86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0C87:
 485: 0x0C87 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17768533/0x010F2055), tag_num=0x09)
-486: 0x0C8E [0x2B] Shantotto (ID: 17768533/0x010F2055) [8697*]:
+486: 0x0C8E [0x2B] Shantotto (ID: 17768533/0x010F2055) [8698*]:
     → "I could take up my staff and participate in Conflict myself, but my super-duper whammy-slammy spells would be bad for my opponents' health! Ohohohohoho!"
 487: 0x0C95 [0x1C] WAIT(100* ticks)
 488: 0x0C98 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=64*
@@ -1392,10 +1392,10 @@ SUBROUTINE_0C87:
 506: 0x0D11 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 162*
 507: 0x0D15 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 162*
 508: 0x0D19 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0D34
-509: 0x0D21 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8849*]:
+509: 0x0D21 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8850*]:
     → "And there you have it. The bigwigs up in the ministries probably hearrrd that I was a professional Conflict player back in my homeland, and entrrrusted me with the reins of this runaway horse."
 510: 0x0D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
-511: 0x0D29 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8850*]:
+511: 0x0D29 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8851*]:
     → "Maybe it's my instincts talking, but you look like the type who's dying for a chance at the hunt. What do you say?"
 512: 0x0D30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x0D31 [0x1A] CALL_SUBROUTINE(address=0x0D4C)
@@ -1433,7 +1433,7 @@ SUBROUTINE_0C87:
   1: 0x0D38 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0D3D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0D3E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0D3F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8863*]:
+  4: 0x0D3F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8864*]:
     → "Well, look who's back. I knew you couldn't rrresist the excitement of Conflict. You're ready to sign up, right?"
   5: 0x0D46 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0D47 [0x1A] CALL_SUBROUTINE(address=0x0D4C)
@@ -1442,33 +1442,33 @@ SUBROUTINE_0C87:
 
 SUBROUTINE_0D4C:
   9: 0x0D4C [0x06] Work_Zone[1] = 0
- 10: 0x0D4F [0x24] CREATE_DIALOG(message_id=8801*, default_option=1*, option_flags=0*)
+ 10: 0x0D4F [0x24] CREATE_DIALOG(message_id=8802*, default_option=1*, option_flags=0*)
     → "Register for Conflict? [Sign me up!/I need more time to think.]"
  11: 0x0D56 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0D57 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D96
  13: 0x0D5F [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 14: 0x0D60 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8871*]:
+ 14: 0x0D60 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8872*]:
     → "Wonderful! I know you'rrre ready to get out there and starrrt fighting right away, but before you do, you'rrre going to need a license."
  15: 0x0D67 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0D68 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8872*]:
+ 16: 0x0D68 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8873*]:
     → "To get a license, you'll need to meet the leaders of the other two nations."
  17: 0x0D6F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0D70 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8873*]:
+ 18: 0x0D70 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8874*]:
     → "And--you thought that was it?--you'll need to take these letters to the Conflict Commanders of San d'Oria and Bastok."
  19: 0x0D77 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0D78 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8874*]:
+ 20: 0x0D78 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8875*]:
     → "I don't know much about the two, but the Commander of Bastok is some thousand-year-old gut-busterrr named Invincible Shield. I think I rememberrr the one from San d'Oria being some cold-blooded Elvaan named Excenmille."
  21: 0x0D7F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0D80 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8875*]:
+ 22: 0x0D80 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8876*]:
     → "Now get going! The faster you get this done, the quicker you can be exchanging blows with those boneheads from the other nations!"
  23: 0x0D87 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0D88 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8876*]:
+ 24: 0x0D88 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8877*]:
     → "Heh heh heh... When they see who I've sent to them, they'll be shaking in their greaves!"
  25: 0x0D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0D90 [0x05] Work_Zone[1] = 1
  27: 0x0D93 [0x01] GOTO 0x0DA9
  28: 0x0D96 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DA9
- 29: 0x0D9E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8851*]:
+ 29: 0x0D9E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8852*]:
     → "[Hmph. Well, you've got guts. You're the first man who's ever turned this cat down./You're turrrning me down?] But I know you'll be back. I can see it in your eyes..."
  30: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0DA6 [0x01] GOTO 0x0DA9
@@ -1501,10 +1501,10 @@ SUBROUTINE_0DA9:
   0: 0x0DAA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0DAF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DB0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0DB1 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8885*]:
+  3: 0x0DB1 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8886*]:
     → "What's wrong? Hurry up and meet the leaders of Bastok and San d'Oria."
   4: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0DB9 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8886*]:
+  5: 0x0DB9 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8887*]:
     → "Oh, and don't forrrget to give my letters to Invincible Shield and Excenmille."
   6: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0DC1 [0x21] END_EVENT
@@ -1534,10 +1534,10 @@ SUBROUTINE_0DA9:
   0: 0x0DC3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0DC8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DC9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0DCA [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8891*]:
+  3: 0x0DCA [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8892*]:
     → "Welcome back! I was beginning to worrrry that you got lost! ...Heh heh heh! Those two buffoons were rubbed the wrong way by my letters? Hah hah! Thanks, <Player>. You've just made my day."
   4: 0x0DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0DD2 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8892*]:
+  5: 0x0DD2 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8893*]:
     → "Now, all that's left is for you to talk to little Kupipi over there and have her take you to the Star Sibyl. When you'rrre done, you can tell me more about your trip."
   6: 0x0DD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0DDA [0x21] END_EVENT
@@ -1758,13 +1758,13 @@ SUBROUTINE_0DA9:
  11: 0x0E20 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0E4E
  12: 0x0E28 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  13: 0x0E29 [0x03] Work_Zone[2] = 576*
- 14: 0x0E2E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8901*]:
+ 14: 0x0E2E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8902*]:
     → "OK! You'rrre done. Here's your $3!"
  15: 0x0E35 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0E36 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8902*]:
+ 16: 0x0E36 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8903*]:
     → "With this license, you'll be able to parrrticipate in one of San d'Oria's old Conflict events--Ballista. I would have preferrrred something more exciting--more Mithran--but I guess this will have to do for now."
  17: 0x0E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0E3E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8903*]:
+ 18: 0x0E3E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8904*]:
     → "And no matter the game, the best will always win, so we have nothing to worry about! Right, <Player>?"
  19: 0x0E45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0E46 [0x03] Work_Zone[1] = 3*
@@ -1787,99 +1787,99 @@ SUBROUTINE_0E71:
  35: 0x0E90 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 1*) GOTO 0x0E9D
  36: 0x0E97 [0x05] ExtData[1]->WorkLocal[13] = 1
  37: 0x0E9A [0x01] GOTO 0x0EAD
- 38: 0x0E9D [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8916*]:
+ 38: 0x0E9D [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8917*]:
     → "Great job out there, <Player>!"
  39: 0x0EA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x0EA5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8917*]:
+ 40: 0x0EA5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8918*]:
     → "The dodging and slicing and dashing and slicing. I couldn't have done better myself!"
  41: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0EAD:
  42: 0x0EAD [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x0EC5
- 43: 0x0EB5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8936*]:
+ 43: 0x0EB5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8937*]:
     → "So close, yet so farrr..."
  44: 0x0EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0EBD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8937*]:
+ 45: 0x0EBD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8938*]:
     → "Tell me we're closer than farrrer, right?"
  46: 0x0EC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0EC5 [0x01] GOTO 0x0EFD
  48: 0x0EC8 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 0*) GOTO 0x0EDF
- 49: 0x0ECF [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8924*]:
+ 49: 0x0ECF [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8925*]:
     → "You lost to those arrogant ignoramuses!? How could you lose to those arrogant..."
  50: 0x0ED6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0ED7 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8925*]:
+ 51: 0x0ED7 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8926*]:
     → "Ahem! Don't let it happen again, <Player>! You'rrre making me look bad!"
  52: 0x0EDE [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0EDF [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 1*) GOTO 0x0EF6
- 54: 0x0EE6 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8926*]:
+ 54: 0x0EE6 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8927*]:
     → "Hissssss! You couldn't even beat Bastok? You couldn't even beat..."
  55: 0x0EED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0EEE [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8927*]:
+ 56: 0x0EEE [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8928*]:
     → "Ahem! Don't let it happen again, <Player>, or I'll scrrratch one of your eyes out!"
  57: 0x0EF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0EF6 [0x3E] IF !(ExtData[1]->WorkLocal[8] bit 2*) GOTO 0x0EFD
 
 SUBROUTINE_0EFD:
- 59: 0x0EFD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8805*]:
+ 59: 0x0EFD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8806*]:
     → "Arrre you talking to me?"
  60: 0x0F04 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x0F05 [0x24] CREATE_DIALOG(message_id=8807*, default_option=0*, option_flags=0*)
+ 61: 0x0F05 [0x24] CREATE_DIALOG(message_id=8808*, default_option=0*, option_flags=0*)
     → "What shall you ask? [About the coming Ballista matches./About the Ballista schedule./About Ballista Earrings./About the rules of Ballista./Nothing at the moment.]"
  62: 0x0F0C [0x25] WAIT_DIALOG_SELECT()
  63: 0x0F0D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F23
- 64: 0x0F15 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8810*]:
+ 64: 0x0F15 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8811*]:
     → "The coming matches? I guess I could tell you what I know."
  65: 0x0F1C [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0F1D [0x1A] CALL_SUBROUTINE(address=0x1673)
  67: 0x0F20 [0x01] GOTO 0x0FF5
  68: 0x0F23 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0F41
- 69: 0x0F2B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8815*]:
+ 69: 0x0F2B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8816*]:
     → "Those fat cats up in Jeuno have finally finished worrrking on the fixed schedule. Let me fill you in on what has been decided."
  70: 0x0F32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0F33 [0x1A] CALL_SUBROUTINE(address=0x18C6)
- 72: 0x0F36 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8821*]:
+ 72: 0x0F36 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8822*]:
     → "Did you get all that? What? It's too complicated? Well, you can always do what I do and wrrrite it down."
  73: 0x0F3D [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0F3E [0x01] GOTO 0x0FF5
  75: 0x0F41 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0FDC
  76: 0x0F49 [0x03] Work_Zone[2] = 500*
  77: 0x0F4E [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0FA5
- 78: 0x0F56 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8941*]:
+ 78: 0x0F56 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8942*]:
     → "You want to see this $3? Here, take a look. These things arrre pretty useful. I often worrre one back when I was a pro."
  79: 0x0F5D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x0F5E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8942*]:
+ 80: 0x0F5E [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8943*]:
     → "When you have it on, you'll be able to hearrr orders from Windurst's Pursuivant. He'll tell you what to do when you'rrre in a pinch."
  81: 0x0F65 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x0F66 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8943*]:
+ 82: 0x0F66 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8944*]:
     → "He'll also give you important info on upcoming matches when you'rrre in any of the four nations."
  83: 0x0F6D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x0F6E [0x24] CREATE_DIALOG(message_id=8947*, default_option=1*, option_flags=0*)
+ 84: 0x0F6E [0x24] CREATE_DIALOG(message_id=8948*, default_option=1*, option_flags=0*)
     → "Ask for an earring? [Yes./No.]"
  85: 0x0F75 [0x25] WAIT_DIALOG_SELECT()
  86: 0x0F76 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F8F
  87: 0x0F7E [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 88: 0x0F7F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8949*]:
+ 88: 0x0F7F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8950*]:
     → "Here, let me put it on for you. Hmmm... You look great! Now there's nothing that can stop Windurst!"
  89: 0x0F86 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0F87 [0x03] Work_Zone[1] = 1*
  91: 0x0F8C [0x01] GOTO 0x0FA2
  92: 0x0F8F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0FA2
- 93: 0x0F97 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8952*]:
+ 93: 0x0F97 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8953*]:
     → "Well, if you think that you don't need one..."
  94: 0x0F9E [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0F9F [0x01] GOTO 0x0FA2
 
 SUBROUTINE_0FA2:
  96: 0x0FA2 [0x01] GOTO 0x0FD9
- 97: 0x0FA5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8955*]:
+ 97: 0x0FA5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8956*]:
     → "How's the $3 worrrking? Or maybe you don't need it anymore. I could always take it off your hands."
  98: 0x0FAC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x0FAD [0x24] CREATE_DIALOG(message_id=8957*, default_option=1*, option_flags=0*)
+ 99: 0x0FAD [0x24] CREATE_DIALOG(message_id=8958*, default_option=1*, option_flags=0*)
     → "Return the earring? [Yes./Not yet.]"
 100: 0x0FB4 [0x25] WAIT_DIALOG_SELECT()
 101: 0x0FB5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FCE
 102: 0x0FBD [0x42] SET_CLI_EVENT_CANCEL_DATA()
-103: 0x0FBE [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8959*]:
+103: 0x0FBE [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8960*]:
     → "Really? But it looked so good on you... Oh well, if you ever need another, you know where I am."
 104: 0x0FC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0FC6 [0x03] Work_Zone[1] = 2*
@@ -1890,7 +1890,7 @@ SUBROUTINE_0FA2:
 SUBROUTINE_0FD9:
 109: 0x0FD9 [0x01] GOTO 0x0FF5
 110: 0x0FDC [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0FF5
-111: 0x0FE4 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8913*]:
+111: 0x0FE4 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8914*]:
     → "Though I'm not one to really follow the rules, I guess it's good that one of us knows them..."
 112: 0x0FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0FEC [0x06] Work_Zone[0] = 0
@@ -1903,57 +1903,57 @@ SUBROUTINE_0FF5:
 
 SUBROUTINE_0FF7:
 118: 0x0FF7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x101B
-119: 0x0FFF [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8996*]:
+119: 0x0FFF [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8997*]:
     → "I just received the news, <Player>! It seems like you did an outstanding job at tearing up the battlefield during the last Ballista match."
 120: 0x1006 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1007 [0x6E] EventEntity uses emote 12*
 122: 0x100E [0x99] Wait for EventEntity animation to complete
-123: 0x1013 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8997*]:
+123: 0x1013 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8998*]:
     → "I applaud you on your skill! Maybe it's time I challenged you to a little one-on-one..."
 124: 0x101A [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x101B [0x1C] WAIT(60* ticks)
 126: 0x101E [0x1B] RETURN
 
 SUBROUTINE_101F:
-127: 0x101F [0x24] CREATE_DIALOG(message_id=8698*, default_option=Work_Zone[0], option_flags=0*)
+127: 0x101F [0x24] CREATE_DIALOG(message_id=8699*, default_option=Work_Zone[0], option_flags=0*)
     → "What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]"
 128: 0x1026 [0x25] WAIT_DIALOG_SELECT()
 129: 0x1027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1049
-130: 0x102F [0x48] [System] [8699*]:
+130: 0x102F [0x48] [System] [8700*]:
     → "Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries."
 131: 0x1032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x1033 [0x48] [System] [8700*]:
+132: 0x1033 [0x48] [System] [8701*]:
     → "The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor."
 133: 0x1036 [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x1037 [0x48] [System] [8701*]:
+134: 0x1037 [0x48] [System] [8702*]:
     → "Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks."
 135: 0x103A [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x103B [0x48] [System] [8702*]:
+136: 0x103B [0x48] [System] [8703*]:
     → "These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them."
 137: 0x103E [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x103F [0x48] [System] [8703*]:
+138: 0x103F [0x48] [System] [8704*]:
     → "Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle."
 139: 0x1042 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x1043 [0x01] GOTO 0x101F
 
 SUBROUTINE_110C:
-141: 0x110C [0x24] CREATE_DIALOG(message_id=8729*, default_option=Work_Zone[0], option_flags=0*)
+141: 0x110C [0x24] CREATE_DIALOG(message_id=8730*, default_option=Work_Zone[0], option_flags=0*)
     → "Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]"
 142: 0x1113 [0x25] WAIT_DIALOG_SELECT()
 143: 0x1114 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1136
-144: 0x111C [0x48] [System] [8730*]:
+144: 0x111C [0x48] [System] [8731*]:
     → "Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match."
 145: 0x111F [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x1120 [0x48] [System] [8731*]:
+146: 0x1120 [0x48] [System] [8732*]:
     → "Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away."
 147: 0x1123 [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x1124 [0x48] [System] [8732*]:
+148: 0x1124 [0x48] [System] [8733*]:
     → "If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items."
 149: 0x1127 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x1128 [0x48] [System] [8733*]:
+150: 0x1128 [0x48] [System] [8734*]:
     → "Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried."
 151: 0x112B [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x112C [0x48] [System] [8734*]:
+152: 0x112C [0x48] [System] [8735*]:
     → "Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded."
 153: 0x112F [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x1130 [0x01] GOTO 0x110C
@@ -1966,16 +1966,16 @@ SUBROUTINE_1202:
 
 SUBROUTINE_1203:
 157: 0x1203 [0x03] Work_Zone[2] = 2000*
-158: 0x1208 [0x48] [System] [8735*]:
+158: 0x1208 [0x48] [System] [8736*]:
     → "Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0."
 159: 0x120B [0x23] WAIT_FOR_DIALOG_INTERACTION
-160: 0x120C [0x48] [System] [8736*]:
+160: 0x120C [0x48] [System] [8737*]:
     → "While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score."
 161: 0x120F [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x1210 [0x48] [System] [8737*]:
+162: 0x1210 [0x48] [System] [8738*]:
     → "Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches."
 163: 0x1213 [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x1214 [0x48] [System] [8738*]:
+164: 0x1214 [0x48] [System] [8739*]:
     → "However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points."
 165: 0x1217 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x1218 [0x1B] RETURN
@@ -2127,16 +2127,16 @@ SUBROUTINE_1691:
 290: 0x171D [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[40], year=Work_Zone[5], month=Work_Zone[6], day=ExtData[1]->WorkLocal[12], weekday=ExtData[1]->WorkLocal[12], hour=ExtData[1]->WorkLocal[12], minute=ExtData[1]->WorkLocal[12], moon=ExtData[1]->WorkLocal[12])
 291: 0x172E [0x02] IF !(ExtData[1]->WorkLocal[41] == 0*) GOTO 0x175B
 292: 0x1736 [0x02] IF !(Work_Zone[6] < 9*) GOTO 0x1745
-293: 0x173E [0x48] [System] [8794*]:
+293: 0x173E [0x48] [System] [8795*]:
     → "Matches for the 9th`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst"
 294: 0x1741 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x1742 [0x01] GOTO 0x1758
 296: 0x1745 [0x02] IF !(Work_Zone[6] < 5*) GOTO 0x1754
-297: 0x174D [0x48] [System] [8793*]:
+297: 0x174D [0x48] [System] [8794*]:
     → "Matches for the 5th`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria"
 298: 0x1750 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x1751 [0x01] GOTO 0x1758
-300: 0x1754 [0x48] [System] [8792*]:
+300: 0x1754 [0x48] [System] [8793*]:
     → "Matches for the 1st`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst"
 301: 0x1757 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2144,7 +2144,7 @@ SUBROUTINE_1758:
 302: 0x1758 [0x05] ExtData[1]->WorkLocal[41] = 1
 303: 0x175B [0xB1] GET_APP_FLAG(flag_type=0x00, dest_offset=0x2A)
 304: 0x175F [0x02] IF !(ExtData[1]->WorkLocal[42] == 0*) GOTO 0x177D
-305: 0x1767 [0x24] CREATE_DIALOG(message_id=8795*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+305: 0x1767 [0x24] CREATE_DIALOG(message_id=8796*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]"
 306: 0x176E [0x25] WAIT_DIALOG_SELECT()
 307: 0x176F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x177A
@@ -2153,7 +2153,7 @@ SUBROUTINE_1758:
 SUBROUTINE_177A:
 309: 0x177A [0x01] GOTO 0x17B9
 310: 0x177D [0x02] IF !(ExtData[1]->WorkLocal[42] == 1*) GOTO 0x179B
-311: 0x1785 [0x24] CREATE_DIALOG(message_id=8796*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+311: 0x1785 [0x24] CREATE_DIALOG(message_id=8797*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]"
 312: 0x178C [0x25] WAIT_DIALOG_SELECT()
 313: 0x178D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1798
@@ -2162,7 +2162,7 @@ SUBROUTINE_177A:
 SUBROUTINE_1798:
 315: 0x1798 [0x01] GOTO 0x17B9
 316: 0x179B [0x02] IF !(ExtData[1]->WorkLocal[42] == 2*) GOTO 0x17B9
-317: 0x17A3 [0x24] CREATE_DIALOG(message_id=8797*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+317: 0x17A3 [0x24] CREATE_DIALOG(message_id=8798*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]"
 318: 0x17AA [0x25] WAIT_DIALOG_SELECT()
 319: 0x17AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17B6
@@ -2203,32 +2203,32 @@ SUBROUTINE_182D:
 346: 0x188A [0x01] GOTO 0x188D
 
 SUBROUTINE_188D:
-347: 0x188D [0x48] [System] [8798*]:
+347: 0x188D [0x48] [System] [8799*]:
     → "Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]"
 348: 0x1890 [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x1891 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[24]
 350: 0x1896 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[24], year=Work_Zone[5], month=Work_Zone[6], day=Work_Zone[7], weekday=ExtData[1]->WorkLocal[12], hour=Work_Zone[8], minute=Work_Zone[9], moon=ExtData[1]->WorkLocal[12])
-351: 0x18A7 [0x48] [System] [8799*]:
+351: 0x18A7 [0x48] [System] [8800*]:
     → "Entry period begins: Vana'diel: Earth:"
 352: 0x18AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x18AB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
 354: 0x18B0 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[26], year=Work_Zone[5], month=Work_Zone[6], day=Work_Zone[7], weekday=ExtData[1]->WorkLocal[12], hour=Work_Zone[8], minute=Work_Zone[9], moon=ExtData[1]->WorkLocal[12])
-355: 0x18C1 [0x48] [System] [8800*]:
+355: 0x18C1 [0x48] [System] [8801*]:
     → "Match begins: Vana'diel: Earth:"
 356: 0x18C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 357: 0x18C5 [0x1B] RETURN
 
 SUBROUTINE_18C6:
-358: 0x18C6 [0x48] [System] [8787*]:
+358: 0x18C6 [0x48] [System] [8788*]:
     → "Matches are only played on even days (Vana'diel time)."
 359: 0x18C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-360: 0x18CA [0x48] [System] [8788*]:
+360: 0x18CA [0x48] [System] [8789*]:
     → "Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud"
 361: 0x18CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x18CE [0x48] [System] [8720*]:
+362: 0x18CE [0x48] [System] [8721*]:
     → "The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains"
 363: 0x18D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-364: 0x18D2 [0x48] [System] [8789*]:
+364: 0x18D2 [0x48] [System] [8790*]:
     → "Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None"
 365: 0x18D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x18D6 [0x03] ExtData[1]->WorkLocal[21] = 30*
@@ -2246,19 +2246,19 @@ SUBROUTINE_18C6:
 378: 0x190A [0x03] ExtData[1]->WorkLocal[21] = 0*
 379: 0x190F [0x1A] CALL_SUBROUTINE(address=0x162D)
 380: 0x1912 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[35]
-381: 0x1917 [0x48] [System] [8790*]:
+381: 0x1917 [0x48] [System] [8791*]:
     → "And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil"
 382: 0x191A [0x23] WAIT_FOR_DIALOG_INTERACTION
-383: 0x191B [0x48] [System] [8791*]:
+383: 0x191B [0x48] [System] [8792*]:
     → "Participating nations are selected in the following manner..."
 384: 0x191E [0x23] WAIT_FOR_DIALOG_INTERACTION
-385: 0x191F [0x48] [System] [8792*]:
+385: 0x191F [0x48] [System] [8793*]:
     → "Matches for the 1st`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst"
 386: 0x1922 [0x23] WAIT_FOR_DIALOG_INTERACTION
-387: 0x1923 [0x48] [System] [8793*]:
+387: 0x1923 [0x48] [System] [8794*]:
     → "Matches for the 5th`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria"
 388: 0x1926 [0x23] WAIT_FOR_DIALOG_INTERACTION
-389: 0x1927 [0x48] [System] [8794*]:
+389: 0x1927 [0x48] [System] [8795*]:
     → "Matches for the 9th`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst"
 390: 0x192A [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x192B [0x1B] RETURN
@@ -2288,205 +2288,205 @@ SUBROUTINE_18C6:
      0x11E9 [0x01] GOTO 0x11FF
      0x11FC [0x01] GOTO 0x11FF
 # Dead code (unreachable instructions):
-     0x1219 [0x24] CREATE_DIALOG(message_id=8748*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
+     0x1219 [0x24] CREATE_DIALOG(message_id=8749*, default_option=ExtData[1]->WorkLocal[17], option_flags=0*)
     → "Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]"
      0x1220 [0x25] WAIT_DIALOG_SELECT()
      0x1221 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[0]
      0x1226 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1238
-     0x122E [0x48] [System] [8749*]:
+     0x122E [0x48] [System] [8750*]:
     → "Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas."
      0x1231 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1232 [0x01] GOTO 0x1219
      0x1235 [0x01] GOTO 0x149D
      0x1238 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x124E
-     0x1240 [0x48] [System] [8750*]:
+     0x1240 [0x48] [System] [8751*]:
     → "Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match."
      0x1243 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1244 [0x48] [System] [8751*]:
+     0x1244 [0x48] [System] [8752*]:
     → "After the registration period ends, players can compare their record with those of the previous nine matches."
      0x1247 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1248 [0x01] GOTO 0x1219
      0x124B [0x01] GOTO 0x149D
      0x124E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1274
-     0x1256 [0x48] [System] [8752*]:
+     0x1256 [0x48] [System] [8753*]:
     → "If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title."
      0x1259 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x125A [0x48] [System] [8753*]:
+     0x125A [0x48] [System] [8754*]:
     → "There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs."
      0x125D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x125E [0x48] [System] [8754*]:
+     0x125E [0x48] [System] [8755*]:
     → "Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria."
      0x1261 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1262 [0x48] [System] [8755*]:
+     0x1262 [0x48] [System] [8756*]:
     → "Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players."
      0x1265 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1266 [0x48] [System] [8756*]:
+     0x1266 [0x48] [System] [8757*]:
     → "However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches."
      0x1269 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x126A [0x48] [System] [8757*]:
+     0x126A [0x48] [System] [8758*]:
     → "Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date."
      0x126D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x126E [0x01] GOTO 0x1219
      0x1271 [0x01] GOTO 0x149D
      0x1274 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x149D
      0x127C [0x06] ExtData[1]->WorkLocal[18] = 0
-     0x127F [0x24] CREATE_DIALOG(message_id=8758*, default_option=ExtData[1]->WorkLocal[18], option_flags=0*)
+     0x127F [0x24] CREATE_DIALOG(message_id=8759*, default_option=ExtData[1]->WorkLocal[18], option_flags=0*)
     → "View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]"
      0x1286 [0x25] WAIT_DIALOG_SELECT()
      0x1287 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x128C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12A0
      0x1294 [0x03] Work_Zone[2] = 682*
-     0x1299 [0x48] [System] [8759*]:
+     0x1299 [0x48] [System] [8760*]:
     → "Key Item: $3 Title: Gold Balli$25$25$25$25star"
      0x129C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x129D [0x01] GOTO 0x1497
      0x12A0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x12B4
      0x12A8 [0x03] Work_Zone[2] = 683*
-     0x12AD [0x48] [System] [8760*]:
+     0x12AD [0x48] [System] [8761*]:
     → "Key Item: $3 Title: Mythril Balli$25$25$25star"
      0x12B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12B1 [0x01] GOTO 0x1497
      0x12B4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x12C8
      0x12BC [0x03] Work_Zone[2] = 684*
-     0x12C1 [0x48] [System] [8761*]:
+     0x12C1 [0x48] [System] [8762*]:
     → "Key Item: $3 Title: Silver Balli$25$25star"
      0x12C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12C5 [0x01] GOTO 0x1497
      0x12C8 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x12DC
      0x12D0 [0x03] Work_Zone[2] = 685*
-     0x12D5 [0x48] [System] [8762*]:
+     0x12D5 [0x48] [System] [8763*]:
     → "Key Item: $3 Title: Bronze Balli$25star"
      0x12D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12D9 [0x01] GOTO 0x1497
      0x12DC [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x12F0
      0x12E4 [0x03] Work_Zone[2] = 686*
-     0x12E9 [0x48] [System] [8763*]:
+     0x12E9 [0x48] [System] [8764*]:
     → "Key Item: $3 Title: Searing$26Star"
      0x12EC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12ED [0x01] GOTO 0x1497
      0x12F0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1304
      0x12F8 [0x03] Work_Zone[2] = 687*
-     0x12FD [0x48] [System] [8764*]:
+     0x12FD [0x48] [System] [8765*]:
     → "Key Item: $3 Title: Striking$26Star"
      0x1300 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1301 [0x01] GOTO 0x1497
      0x1304 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1318
      0x130C [0x03] Work_Zone[2] = 688*
-     0x1311 [0x48] [System] [8765*]:
+     0x1311 [0x48] [System] [8766*]:
     → "Key Item: $3 Title: Soothing$26Star"
      0x1314 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1315 [0x01] GOTO 0x1497
      0x1318 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x132C
      0x1320 [0x03] Work_Zone[2] = 689*
-     0x1325 [0x48] [System] [8766*]:
+     0x1325 [0x48] [System] [8767*]:
     → "Key Item: $3 Title: Sable$26Star"
      0x1328 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1329 [0x01] GOTO 0x1497
      0x132C [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1340
      0x1334 [0x03] Work_Zone[2] = 690*
-     0x1339 [0x48] [System] [8767*]:
+     0x1339 [0x48] [System] [8768*]:
     → "Key Item: $3 Title: Scarlet$26Star"
      0x133C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x133D [0x01] GOTO 0x1497
      0x1340 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x1354
      0x1348 [0x03] Work_Zone[2] = 691*
-     0x134D [0x48] [System] [8768*]:
+     0x134D [0x48] [System] [8769*]:
     → "Key Item: $3 Title: Sonic$26Star"
      0x1350 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1351 [0x01] GOTO 0x1497
      0x1354 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x1368
      0x135C [0x03] Work_Zone[2] = 692*
-     0x1361 [0x48] [System] [8769*]:
+     0x1361 [0x48] [System] [8770*]:
     → "Key Item: $3 Title: Saintly$26Star"
      0x1364 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1365 [0x01] GOTO 0x1497
      0x1368 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x137C
      0x1370 [0x03] Work_Zone[2] = 693*
-     0x1375 [0x48] [System] [8770*]:
+     0x1375 [0x48] [System] [8771*]:
     → "Key Item: $3 Title: Shadowy$26Star"
      0x1378 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1379 [0x01] GOTO 0x1497
      0x137C [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x1390
      0x1384 [0x03] Work_Zone[2] = 694*
-     0x1389 [0x48] [System] [8771*]:
+     0x1389 [0x48] [System] [8772*]:
     → "Key Item: $3 Title: Savage$26Star"
      0x138C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x138D [0x01] GOTO 0x1497
      0x1390 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x13A4
      0x1398 [0x03] Work_Zone[2] = 695*
-     0x139D [0x48] [System] [8772*]:
+     0x139D [0x48] [System] [8773*]:
     → "Key Item: $3 Title: Singing$26Star"
      0x13A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13A1 [0x01] GOTO 0x1497
      0x13A4 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x13B8
      0x13AC [0x03] Work_Zone[2] = 696*
-     0x13B1 [0x48] [System] [8773*]:
+     0x13B1 [0x48] [System] [8774*]:
     → "Key Item: $3 Title: Sniping$26Star"
      0x13B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13B5 [0x01] GOTO 0x1497
      0x13B8 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x13CC
      0x13C0 [0x03] Work_Zone[2] = 697*
-     0x13C5 [0x48] [System] [8774*]:
+     0x13C5 [0x48] [System] [8775*]:
     → "Key Item: $3 Title: Slicing$26Star"
      0x13C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13C9 [0x01] GOTO 0x1497
      0x13CC [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x13E0
      0x13D4 [0x03] Work_Zone[2] = 698*
-     0x13D9 [0x48] [System] [8775*]:
+     0x13D9 [0x48] [System] [8776*]:
     → "Key Item: $3 Title: Sneaking$26Star"
      0x13DC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13DD [0x01] GOTO 0x1497
      0x13E0 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x13F4
      0x13E8 [0x03] Work_Zone[2] = 699*
-     0x13ED [0x48] [System] [8776*]:
+     0x13ED [0x48] [System] [8777*]:
     → "Key Item: $3 Title: Spearing$26Star"
      0x13F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13F1 [0x01] GOTO 0x1497
      0x13F4 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x1408
      0x13FC [0x03] Work_Zone[2] = 700*
-     0x1401 [0x48] [System] [8777*]:
+     0x1401 [0x48] [System] [8778*]:
     → "Key Item: $3 Title: Summoning$26Star"
      0x1404 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1405 [0x01] GOTO 0x1497
      0x1408 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x141C
      0x1410 [0x03] Work_Zone[2] = 777*
-     0x1415 [0x48] [System] [8778*]:
+     0x1415 [0x48] [System] [8779*]:
     → "Key Item: $3 Title: Sapphire$26Star"
      0x1418 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1419 [0x01] GOTO 0x1497
      0x141C [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x1430
      0x1424 [0x03] Work_Zone[2] = 778*
-     0x1429 [0x48] [System] [8779*]:
+     0x1429 [0x48] [System] [8780*]:
     → "Key Item: $3 Title: Surging$26Star"
      0x142C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x142D [0x01] GOTO 0x1497
      0x1430 [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x1444
      0x1438 [0x03] Work_Zone[2] = 779*
-     0x143D [0x48] [System] [8780*]:
+     0x143D [0x48] [System] [8781*]:
     → "Key Item: $3 Title: Swaying$26Star"
      0x1440 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1441 [0x01] GOTO 0x1497
      0x1444 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x1458
      0x144C [0x03] Work_Zone[2] = 915*
-     0x1451 [0x48] [System] [8781*]:
+     0x1451 [0x48] [System] [8782*]:
     → "Key Item: $3 Title: Sprightly$26Star"
      0x1454 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1455 [0x01] GOTO 0x1497
      0x1458 [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x146C
      0x1460 [0x03] Work_Zone[2] = 916*
-     0x1465 [0x48] [System] [8782*]:
+     0x1465 [0x48] [System] [8783*]:
     → "Key Item: $3 Title: Sagacious$26Star"
      0x1468 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1469 [0x01] GOTO 0x1497
      0x146C [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x1480
      0x1474 [0x03] Work_Zone[2] = 1847*
-     0x1479 [0x48] [System] [8783*]:
+     0x1479 [0x48] [System] [8784*]:
     → "Key Item: $3 Title: Spiritual$26Star"
      0x147C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x147D [0x01] GOTO 0x1497
      0x1480 [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x1494
      0x1488 [0x03] Work_Zone[2] = 1848*
-     0x148D [0x48] [System] [8784*]:
+     0x148D [0x48] [System] [8785*]:
     → "Key Item: $3 Title: Stippling$26Star"
      0x1490 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1491 [0x01] GOTO 0x1497
@@ -2528,13 +2528,13 @@ SUBROUTINE_18C6:
   2: 0x1930 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x1935 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x1936 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x1937 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8988*]:
+  5: 0x1937 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8989*]:
     → "A letter from Lord Excenmille? And it's not even my birthday!"
   6: 0x193E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x193F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8989*]:
+  7: 0x193F [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8990*]:
     → "......... Grrrrrr! What does he mean, amateurrr!? Ballista's a game, and I was the best! Battle experrrience has nothing to do with anything!"
   8: 0x1946 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x1947 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8990*]:
+  9: 0x1947 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8991*]:
     → "You! You tell that pompous pighead that twenty yearrrs of playing in the snow with the Orcs won't help him in Conflict! My merrrcenaries will be all over him in a second!"
  10: 0x194E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x194F [0x21] END_EVENT
@@ -2567,13 +2567,13 @@ SUBROUTINE_18C6:
   2: 0x1954 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x1959 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x195A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x195B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8979*]:
+  5: 0x195B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8980*]:
     → "A letter from Bastok? Here, let me see that..."
   6: 0x1962 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x1963 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8980*]:
+  7: 0x1963 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8981*]:
     → "......... Grrrrrr! The nerrrve of that Galka... Did he think that after sending such a letter, I'd send you back to your nation in anything less than a body bag!?"
   8: 0x196A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x196B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8981*]:
+  9: 0x196B [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8982*]:
     → "Hm? You had no idea of what was in the letter? Well, then you take this message back to your precious Broken Shield--tell that old bloke that I'll show him the quickest path to rrreincarnation!"
  10: 0x1972 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1973 [0x21] END_EVENT
@@ -2636,17 +2636,17 @@ SUBROUTINE_18C6:
   1: 0x1986 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1987 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1988 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x199B
-  4: 0x1990 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8968*]:
+  4: 0x1990 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8969*]:
     → "Well, well, well! They even gave you a license. Your country must be really desperate..."
   5: 0x1997 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1998 [0x01] GOTO 0x19CC
   7: 0x199B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x19AE
-  8: 0x19A3 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8962*]:
+  8: 0x19A3 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8963*]:
     → "??? If you haven't noticed, this is not San d'Oria. If you want to sign up for Conflict, I suggest you head back to Ronfaure."
   9: 0x19AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x19AB [0x01] GOTO 0x19CC
  11: 0x19AE [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x19C1
- 12: 0x19B6 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8965*]:
+ 12: 0x19B6 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8966*]:
     → "Are you talking to me? Are you talking to me? Well, you can keep talking, but don't think I'll be listening. I don't have any business with a Bastoker."
  13: 0x19BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x19BE [0x01] GOTO 0x19CC
@@ -2682,10 +2682,10 @@ SUBROUTINE_19CC:
   0: 0x19CE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x19D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x19D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x19D5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8972*]:
+  3: 0x19D5 [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8973*]:
     → "Wait, don't tell me... You'rrre applying for participation in Conflict!? (Hah! A few more players like this and Windurst is guarrranteed victory!)"
   4: 0x19DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x19DD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8973*]:
+  5: 0x19DD [0x2B] Mhabi Molkot (ID: 17768552/0x010F2068) [8974*]:
     → "Oh, I'm sorry, did you hearrr that? Well, never mind. You see that cute Tarutaru, Kupipi, over there? You just talk to her and she'll take you to the Star Sibyl."
   6: 0x19E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x19E5 [0x21] END_EVENT

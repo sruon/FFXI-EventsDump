@@ -68,9 +68,9 @@
 |       2 | 0x002A      |          42 |
 |       3 | 0x0029      |          41 |
 |       4 | 0x000F      |          15 |
-|       5 | 0x1E2A      |        7722 |
-|       6 | 0x1E30      |        7728 |
-|       7 | 0x1E42      |        7746 |
+|       5 | 0x1E2B      |        7723 |
+|       6 | 0x1E31      |        7729 |
+|       7 | 0x1E43      |        7747 |
 |       8 | 0x64D2      |       25810 |
 |       9 | 0x7AFD      |       31485 |
 |      10 | 0xFFFFB80F  |  4294948879 |
@@ -89,9 +89,9 @@
 
 ## String References
 
-- **7722**: I vas only pretending-vending to be under your control, Uran-Mafran. The only vay a non-vizard like myself could triumph against you vas to get in under your guard.
-- **7728**: I have no more desire to vield magical power.
-- **7746**: ...Uran-Mafran... I von't give up either. I vill stop you...
+- **7723**: I vas only pretending-vending to be under your control, Uran-Mafran. The only vay a non-vizard like myself could triumph against you vas to get in under your guard.
+- **7729**: I have no more desire to vield magical power.
+- **7747**: ...Uran-Mafran... I von't give up either. I vill stop you...
 
 ## Events
 
@@ -998,7 +998,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
+  0: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7723*)
     → "I vas only pretending-vending to be under your control, Uran-Mafran. The only vay a non-vizard like myself could triumph against you vas to get in under your guard."
   1: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0201 [0x00] END_REQSTACK()
@@ -1023,7 +1023,7 @@
 #### Opcodes
 
 ```
-  0: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
+  0: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
     → "I have no more desire to vield magical power."
   1: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0206 [0x00] END_REQSTACK()
@@ -1048,7 +1048,7 @@
 #### Opcodes
 
 ```
-  0: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
+  0: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
     → "...Uran-Mafran... I von't give up either. I vill stop you..."
   1: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x020B [0x00] END_REQSTACK()

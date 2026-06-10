@@ -22,34 +22,34 @@
 |---------|-------------|-------------|
 |       0 | 0x0064      |         100 |
 |       1 | 0x001A      |          26 |
-|       2 | 0x1FC4      |        8132 |
-|       3 | 0x1FC5      |        8133 |
+|       2 | 0x1FC5      |        8133 |
+|       3 | 0x1FC6      |        8134 |
 |       4 | 0x004B      |          75 |
 |       5 | 0x0020      |          32 |
-|       6 | 0x1FC2      |        8130 |
-|       7 | 0x1FC3      |        8131 |
+|       6 | 0x1FC3      |        8131 |
+|       7 | 0x1FC4      |        8132 |
 |       8 | 0x0032      |          50 |
 |       9 | 0x0007      |           7 |
-|      10 | 0x1FC0      |        8128 |
-|      11 | 0x1FC1      |        8129 |
+|      10 | 0x1FC1      |        8129 |
+|      11 | 0x1FC2      |        8130 |
 |      12 | 0x0019      |          25 |
-|      13 | 0x1FBE      |        8126 |
-|      14 | 0x1FBF      |        8127 |
-|      15 | 0x1FBC      |        8124 |
-|      16 | 0x1FBD      |        8125 |
+|      13 | 0x1FBF      |        8127 |
+|      14 | 0x1FC0      |        8128 |
+|      15 | 0x1FBD      |        8125 |
+|      16 | 0x1FBE      |        8126 |
 
 ## String References
 
-- **8124**: The fiends are strong, and numerous. I'll be frrrank with you--the odds are against us.
-- **8125**: Grrr... It's just like it was in the Great War. But we were victorious then, and we can do it again!
-- **8126**: We've put a dent in their rrranks, but they still outnumber us.
-- **8127**: Do I need t' spell it out for you!? This is no time to be standing about. Get out there on the battlefield. We're fightin' for our futurrre here!
-- **8128**: Finally, we've gained the upperrr hand.
-- **8129**: But this is no time to rrrest on our laurels. Our job's not through until the last currrsed fiend has drawn its dyin' breath!
-- **8130**: Can ya smell that in the air? That's the scent of our enemy's fear!
-- **8131**: Victorrry is close at hand! We must strike like a cobra and sink our fangs deep into our foe's dark heart!
-- **8132**: It's quiet here. Too quiet for my likin'...
-- **8133**: We may have won the day, but we must rrremain ever vigilant. A desperate foe's a dangerrrous foe.
+- **8125**: The fiends are strong, and numerous. I'll be frrrank with you--the odds are against us.
+- **8126**: Grrr... It's just like it was in the Great War. But we were victorious then, and we can do it again!
+- **8127**: We've put a dent in their rrranks, but they still outnumber us.
+- **8128**: Do I need t' spell it out for you!? This is no time to be standing about. Get out there on the battlefield. We're fightin' for our futurrre here!
+- **8129**: Finally, we've gained the upperrr hand.
+- **8130**: But this is no time to rrrest on our laurels. Our job's not through until the last currrsed fiend has drawn its dyin' breath!
+- **8131**: Can ya smell that in the air? That's the scent of our enemy's fear!
+- **8132**: Victorrry is close at hand! We must strike like a cobra and sink our fangs deep into our foe's dark heart!
+- **8133**: It's quiet here. Too quiet for my likin'...
+- **8134**: We may have won the day, but we must rrremain ever vigilant. A desperate foe's a dangerrrous foe.
 
 ## Events
 
@@ -109,49 +109,49 @@
   3: 0x0008 [0x02] IF !(Work_Zone[2] <= 100*) GOTO 0x0027
   4: 0x0010 [0x6E] Romaa Mihgo (ID: 17814128/0x010FD270) uses emote 26*
   5: 0x0017 [0x99] Wait for Romaa Mihgo (ID: 17814128/0x010FD270) animation to complete
-  6: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  6: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "It's quiet here. Too quiet for my likin'..."
   7: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  8: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "We may have won the day, but we must rrremain ever vigilant. A desperate foe's a dangerrrous foe."
   9: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0024 [0x01] GOTO 0x0098
  11: 0x0027 [0x02] IF !(Work_Zone[2] <= 75*) GOTO 0x0046
  12: 0x002F [0x6E] Romaa Mihgo (ID: 17814128/0x010FD270) uses emote 32*
  13: 0x0036 [0x99] Wait for Romaa Mihgo (ID: 17814128/0x010FD270) animation to complete
- 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+ 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "Can ya smell that in the air? That's the scent of our enemy's fear!"
  15: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+ 16: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "Victorrry is close at hand! We must strike like a cobra and sink our fangs deep into our foe's dark heart!"
  17: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0043 [0x01] GOTO 0x0098
  19: 0x0046 [0x02] IF !(Work_Zone[2] <= 50*) GOTO 0x0065
  20: 0x004E [0x6E] Romaa Mihgo (ID: 17814128/0x010FD270) uses emote 7*
  21: 0x0055 [0x99] Wait for Romaa Mihgo (ID: 17814128/0x010FD270) animation to complete
- 22: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 22: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "Finally, we've gained the upperrr hand."
  23: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+ 24: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "But this is no time to rrrest on our laurels. Our job's not through until the last currrsed fiend has drawn its dyin' breath!"
  25: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0062 [0x01] GOTO 0x0098
  27: 0x0065 [0x02] IF !(Work_Zone[2] <= 25*) GOTO 0x0084
  28: 0x006D [0x6E] Romaa Mihgo (ID: 17814128/0x010FD270) uses emote 32*
  29: 0x0074 [0x99] Wait for Romaa Mihgo (ID: 17814128/0x010FD270) animation to complete
- 30: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+ 30: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "We've put a dent in their rrranks, but they still outnumber us."
  31: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
+ 32: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
     → "Do I need t' spell it out for you!? This is no time to be standing about. Get out there on the battlefield. We're fightin' for our futurrre here!"
  33: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0081 [0x01] GOTO 0x0098
  35: 0x0084 [0x6E] Romaa Mihgo (ID: 17814128/0x010FD270) uses emote 32*
  36: 0x008B [0x99] Wait for Romaa Mihgo (ID: 17814128/0x010FD270) animation to complete
- 37: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 37: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "The fiends are strong, and numerous. I'll be frrrank with you--the odds are against us."
  38: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 39: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Grrr... It's just like it was in the Great War. But we were victorious then, and we can do it again!"
  40: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

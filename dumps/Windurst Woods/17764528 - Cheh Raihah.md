@@ -25,21 +25,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D95      |        7573 |
-|       1 | 0x1D96      |        7574 |
-|       2 | 0x1D9F      |        7583 |
-|       3 | 0x1DA0      |        7584 |
-|       4 | 0x1DA9      |        7593 |
-|       5 | 0x1DAA      |        7594 |
+|       0 | 0x1D96      |        7574 |
+|       1 | 0x1D97      |        7575 |
+|       2 | 0x1DA0      |        7584 |
+|       3 | 0x1DA1      |        7585 |
+|       4 | 0x1DAA      |        7594 |
+|       5 | 0x1DAB      |        7595 |
 
 ## String References
 
-- **7573**: The food around here's purrretty good, especially with all the exotic ingrrredients available these days. My fellow Windurstians, you had better go on morrre conquests or you'll be left behind!
-- **7574**: Interrrested in a knife trick? It's a special routine I worrrked out. But keep your distance, if you value your ears and moustaches as they are!
-- **7583**: The food here's terrrible! C'mon, Windurstians, worrrk harder! I miss Windurstian cuisine.
-- **7584**: Like to see my new knife trrrick? Oh, but keep your distance, if you value your ears and moustaches as they are!
-- **7593**: It's so verrrdant here and the food is delicious. I can hardly breathe in those other countries. Keep up the good work so I can stay here longerrr!
-- **7594**: Want to see my new knife trrrick? But keep your distance, if you value your ears and moustaches as they arrre!
+- **7574**: The food around here's purrretty good, especially with all the exotic ingrrredients available these days. My fellow Windurstians, you had better go on morrre conquests or you'll be left behind!
+- **7575**: Interrrested in a knife trick? It's a special routine I worrrked out. But keep your distance, if you value your ears and moustaches as they are!
+- **7584**: The food here's terrrible! C'mon, Windurstians, worrrk harder! I miss Windurstian cuisine.
+- **7585**: Like to see my new knife trrrick? Oh, but keep your distance, if you value your ears and moustaches as they are!
+- **7594**: It's so verrrdant here and the food is delicious. I can hardly breathe in those other countries. Keep up the good work so I can stay here longerrr!
+- **7595**: Want to see my new knife trrrick? But keep your distance, if you value your ears and moustaches as they arrre!
 
 ## Events
 
@@ -84,7 +84,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "The food around here's purrretty good, especially with all the exotic ingrrredients available these days. My fellow Windurstians, you had better go on morrre conquests or you'll be left behind!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -112,7 +112,7 @@
 #### Opcodes
 
 ```
-  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
+  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
     → "Interrrested in a knife trick? It's a special routine I worrrked out. But keep your distance, if you value your ears and moustaches as they are!"
   1: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -139,7 +139,7 @@
 #### Opcodes
 
 ```
-  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
+  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "The food here's terrrible! C'mon, Windurstians, worrrk harder! I miss Windurstian cuisine."
   1: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0015 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -167,7 +167,7 @@
 #### Opcodes
 
 ```
-  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
+  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
     → "Like to see my new knife trrrick? Oh, but keep your distance, if you value your ears and moustaches as they are!"
   1: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -194,7 +194,7 @@
 #### Opcodes
 
 ```
-  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "It's so verrrdant here and the food is delicious. I can hardly breathe in those other countries. Keep up the good work so I can stay here longerrr!"
   1: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0025 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -222,7 +222,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Want to see my new knife trrrick? But keep your distance, if you value your ears and moustaches as they arrre!"
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

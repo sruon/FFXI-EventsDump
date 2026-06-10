@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA7      |        7335 |
+|       0 | 0x1CA8      |        7336 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7335**: Return to the Crag of Holla? [Yes./No.]
+- **7336**: Return to the Crag of Holla? [Yes./No.]
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7335*, default_option=1*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7336*, default_option=1*, option_flags=0*)
     → "Return to the Crag of Holla? [Yes./No.]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0027

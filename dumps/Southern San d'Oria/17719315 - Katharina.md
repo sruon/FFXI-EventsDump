@@ -30,8 +30,8 @@
 |       2 | 0x838A      |       33674 |
 |       3 | 0xFFFFF449  |  4294964297 |
 |       4 | 0x000A      |          10 |
-|       5 | 0x1EBD      |        7869 |
-|       6 | 0x1EC0      |        7872 |
+|       5 | 0x1EBE      |        7870 |
+|       6 | 0x1EC1      |        7873 |
 |       7 | 0xFFFDC9B1  |  4294822321 |
 |       8 | 0x60F7      |       24823 |
 |       9 | 0xFFFFF448  |  4294964296 |
@@ -39,8 +39,8 @@
 
 ## String References
 
-- **7869**: Maybe it's the weather, but we've been selling mulsum so fast, we can't keep up! We need another cask as soon as possible!
-- **7872**: Oh... Well, I have to get back now, but could you bring another one extra quick? Thanks!
+- **7870**: Maybe it's the weather, but we've been selling mulsum so fast, we can't keep up! We need another cask as soon as possible!
+- **7873**: Oh... Well, I have to get back now, but could you bring another one extra quick? Thanks!
 
 ## Events
 
@@ -161,7 +161,7 @@
 
 ```
   0: 0x001E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  1: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+  1: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
     → "Maybe it's the weather, but we've been selling mulsum so fast, we can't keep up! We need another cask as soon as possible!"
   2: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0031 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -189,7 +189,7 @@
 
 ```
   0: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  1: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
+  1: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
     → "Oh... Well, I have to get back now, but could you bring another one extra quick? Thanks!"
   2: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x004A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

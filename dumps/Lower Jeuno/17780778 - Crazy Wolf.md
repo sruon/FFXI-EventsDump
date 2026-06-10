@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E5A      |        7770 |
+|       0 | 0x1E5B      |        7771 |
 
 ## String References
 
-- **7770**: Hey! I'm changing!
+- **7771**: Hey! I'm changing!
 
 ## Events
 
@@ -73,7 +73,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "Hey! I'm changing!"
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT

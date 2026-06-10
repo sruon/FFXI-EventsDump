@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x204F      |        8271 |
-|       2 | 0x2050      |        8272 |
-|       3 | 0x2051      |        8273 |
+|       1 | 0x2050      |        8272 |
+|       2 | 0x2051      |        8273 |
+|       3 | 0x2052      |        8274 |
 
 ## String References
 
-- **8271**: You look like you're new around here, so let me give you a tippy-wip. Here in Abyssea, it's all aboutaru the cruor!
-- **8272**: Cruor is a most peculiar-wuliar substance that you'll find on the fiends you slay. You can use it to power those varicky-dal confloozies or whatever they're called.
-- **8273**: If you amass more cruor than you know what to do with, you can exchange it for various goodies with the cruor prospector over there. Or you could give it to me. I certainly-wertainly wouldn't say no to that!
+- **8272**: You look like you're new around here, so let me give you a tippy-wip. Here in Abyssea, it's all aboutaru the cruor!
+- **8273**: Cruor is a most peculiar-wuliar substance that you'll find on the fiends you slay. You can use it to power those varicky-dal confloozies or whatever they're called.
+- **8274**: If you amass more cruor than you know what to do with, you can exchange it for various goodies with the cruor prospector over there. Or you could give it to me. I certainly-wertainly wouldn't say no to that!
 
 ## Events
 
@@ -77,13 +77,13 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
     → "You look like you're new around here, so let me give you a tippy-wip. Here in Abyssea, it's all aboutaru the cruor!"
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
     → "Cruor is a most peculiar-wuliar substance that you'll find on the fiends you slay. You can use it to power those varicky-dal confloozies or whatever they're called."
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8273*)
+  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=8274*)
     → "If you amass more cruor than you know what to do with, you can exchange it for various goodies with the cruor prospector over there. Or you could give it to me. I certainly-wertainly wouldn't say no to that!"
   7: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0015 [0x21] END_EVENT

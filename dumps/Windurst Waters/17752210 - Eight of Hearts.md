@@ -24,13 +24,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F0D      |        7949 |
-|       2 | 0x1F0E      |        7950 |
+|       1 | 0x1F0E      |        7950 |
+|       2 | 0x1F0F      |        7951 |
 
 ## String References
 
-- **7949**: ThIs$26Is WiNdUrSt$26WaTerS,$26oNe of$26tHe FoUr$26dIs-TrIcTs$26oF WiNdUrSt!
-- **7950**: mOsT oF$26tHe TaRuTaRu$26liVe$26iN tHiS$26dIsTrIcT sO$26ThrEe$26oF tHe$26fIvE mIn-IsTrIeS$26aRe$26cEnTeReD hErE!
+- **7950**: ThIs$26Is WiNdUrSt$26WaTerS,$26oNe of$26tHe FoUr$26dIs-TrIcTs$26oF WiNdUrSt!
+- **7951**: mOsT oF$26tHe TaRuTaRu$26liVe$26iN tHiS$26dIsTrIcT sO$26ThrEe$26oF tHe$26fIvE mIn-IsTrIeS$26aRe$26cEnTeReD hErE!
 
 ## Events
 
@@ -150,10 +150,10 @@
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "ThIs$26Is WiNdUrSt$26WaTerS,$26oNe of$26tHe FoUr$26dIs-TrIcTs$26oF WiNdUrSt!"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "mOsT oF$26tHe TaRuTaRu$26liVe$26iN tHiS$26dIsTrIcT sO$26ThrEe$26oF tHe$26fIvE mIn-IsTrIeS$26aRe$26cEnTeReD hErE!"
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF0      |        7408 |
-|       1 | 0x1CF1      |        7409 |
-|       2 | 0x1CF2      |        7410 |
-|       3 | 0x1CF3      |        7411 |
-|       4 | 0x1CF4      |        7412 |
-|       5 | 0x1CF5      |        7413 |
+|       0 | 0x1CF1      |        7409 |
+|       1 | 0x1CF2      |        7410 |
+|       2 | 0x1CF3      |        7411 |
+|       3 | 0x1CF4      |        7412 |
+|       4 | 0x1CF5      |        7413 |
+|       5 | 0x1CF6      |        7414 |
 
 ## String References
 
-- **7408**: You see a message engraved on the stone:
-- **7409**: Buburimu is famous for the miraculous rocks of Gibubu, meaning "lighthouse" in the Tarutaru tongue. True to their name, the spires help sailors and fishermen weather the storms.
-- **7410**: Like crooked towers they loom, each adorned with a great crystal that glimmers at night.
-- **7411**: I theorize that here, in the days of old, was ore of the highest purity, known in our legends as orichalcum.
-- **7412**: I believe the ages brought decay to the surrounding bedrock, whilst the ore itself remained. The Tarutaru then wrought their magic upon them to make them shimmer everlastingly.
-- **7413**: Still, however, I yearn to know why the ore was here in the first place. --Enid Ironheart, 778 Crystal Era.
+- **7409**: You see a message engraved on the stone:
+- **7410**: Buburimu is famous for the miraculous rocks of Gibubu, meaning "lighthouse" in the Tarutaru tongue. True to their name, the spires help sailors and fishermen weather the storms.
+- **7411**: Like crooked towers they loom, each adorned with a great crystal that glimmers at night.
+- **7412**: I theorize that here, in the days of old, was ore of the highest purity, known in our legends as orichalcum.
+- **7413**: I believe the ages brought decay to the surrounding bedrock, whilst the ore itself remained. The Tarutaru then wrought their magic upon them to make them shimmer everlastingly.
+- **7414**: Still, however, I yearn to know why the ore was here in the first place. --Enid Ironheart, 778 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7408*]:
+  0: 0x0001 [0x48] [System] [7409*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7409*]:
+  2: 0x0005 [0x48] [System] [7410*]:
     → "Buburimu is famous for the miraculous rocks of Gibubu, meaning "lighthouse" in the Tarutaru tongue. True to their name, the spires help sailors and fishermen weather the storms."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7410*]:
+  4: 0x0009 [0x48] [System] [7411*]:
     → "Like crooked towers they loom, each adorned with a great crystal that glimmers at night."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7411*]:
+  6: 0x000D [0x48] [System] [7412*]:
     → "I theorize that here, in the days of old, was ore of the highest purity, known in our legends as orichalcum."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7412*]:
+  8: 0x0011 [0x48] [System] [7413*]:
     → "I believe the ages brought decay to the surrounding bedrock, whilst the ore itself remained. The Tarutaru then wrought their magic upon them to make them shimmer everlastingly."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7413*]:
+ 10: 0x0015 [0x48] [System] [7414*]:
     → "Still, however, I yearn to know why the ore was here in the first place. --Enid Ironheart, 778 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

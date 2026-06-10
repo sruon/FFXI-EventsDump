@@ -34,21 +34,21 @@
 |      10 | 0x000F      |          15 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x40000000  |  1073741824 |
-|      13 | 0x20D3      |        8403 |
+|      13 | 0x20D4      |        8404 |
 |      14 | 0x01F3      |         499 |
-|      15 | 0x20D4      |        8404 |
-|      16 | 0x20D5      |        8405 |
-|      17 | 0x20D6      |        8406 |
+|      15 | 0x20D5      |        8405 |
+|      16 | 0x20D6      |        8406 |
+|      17 | 0x20D7      |        8407 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x20D7      |        8407 |
-|      20 | 0x20D8      |        8408 |
-|      21 | 0x20D9      |        8409 |
-|      22 | 0x20DA      |        8410 |
-|      23 | 0x20DB      |        8411 |
-|      24 | 0x20DC      |        8412 |
-|      25 | 0x20DD      |        8413 |
-|      26 | 0x20DE      |        8414 |
-|      27 | 0x20E0      |        8416 |
+|      19 | 0x20D8      |        8408 |
+|      20 | 0x20D9      |        8409 |
+|      21 | 0x20DA      |        8410 |
+|      22 | 0x20DB      |        8411 |
+|      23 | 0x20DC      |        8412 |
+|      24 | 0x20DD      |        8413 |
+|      25 | 0x20DE      |        8414 |
+|      26 | 0x20DF      |        8415 |
+|      27 | 0x20E1      |        8417 |
 |      28 | 0xFFFFFFFF  |  4294967295 |
 |      29 | 0x19D7      |        6615 |
 |      30 | 0x0011      |          17 |
@@ -61,55 +61,55 @@
 |      37 | 0x000B      |          11 |
 |      38 | 0x000C      |          12 |
 |      39 | 0x000E      |          14 |
-|      40 | 0x20E2      |        8418 |
-|      41 | 0x20E3      |        8419 |
-|      42 | 0x20DF      |        8415 |
-|      43 | 0x20E4      |        8420 |
-|      44 | 0x20E5      |        8421 |
-|      45 | 0x20E6      |        8422 |
+|      40 | 0x20E3      |        8419 |
+|      41 | 0x20E4      |        8420 |
+|      42 | 0x20E0      |        8416 |
+|      43 | 0x20E5      |        8421 |
+|      44 | 0x20E6      |        8422 |
+|      45 | 0x20E7      |        8423 |
 |      46 | 0x2710      |       10000 |
 |      47 | 0x1FFF9     |      131065 |
-|      48 | 0x20EB      |        8427 |
-|      49 | 0x20E7      |        8423 |
-|      50 | 0x20E8      |        8424 |
-|      51 | 0x20E9      |        8425 |
-|      52 | 0x20F1      |        8433 |
-|      53 | 0x20EE      |        8430 |
-|      54 | 0x20EF      |        8431 |
+|      48 | 0x20EC      |        8428 |
+|      49 | 0x20E8      |        8424 |
+|      50 | 0x20E9      |        8425 |
+|      51 | 0x20EA      |        8426 |
+|      52 | 0x20F2      |        8434 |
+|      53 | 0x20EF      |        8431 |
+|      54 | 0x20F0      |        8432 |
 |      55 | 0x0018      |          24 |
-|      56 | 0x20F0      |        8432 |
-|      57 | 0x20F3      |        8435 |
-|      58 | 0x20F8      |        8440 |
+|      56 | 0x20F1      |        8433 |
+|      57 | 0x20F4      |        8436 |
+|      58 | 0x20F9      |        8441 |
 
 ## String References
 
-- **8403**: Good tidings! Vana'Bout Round $0 is currently underway!
-- **8404**: Those wishing to participate in Vana'Bout Round $0 must complete the Records of Eminence objective $1.
-- **8405**: We're currently in the process of distributing items to those who participated in Vana'Bout round $0, kupo!
-- **8406**: How can I help you? [[Check/Receive] personal rewards./[Check/Receive] overall rewards. /View plaudit rankings./Register plaudit rankings./What is Vana'Bout?/Nothing for now.]
-- **8407**: Vana'Bout is a special competition in which a specific Records of Eminence objective is available for a certain period of time.
-- **8408**: Completing this Records of Eminence objective will reward you with a special Vana'Bout-specific currency known as plaudits, kupo.
-- **8409**: Adventurers who earn enough plaudits will be eligible for special rewards!
-- **8410**: Even more rewards will be made available based on the total number of plaudits earned by all adventurers, kupo!
-- **8411**: The number of plaudits you have earned will be reset once a given round of Vana'Bout has concluded, so make sure you grab your goodies in that time period!
-- **8412**: The currently available Vana'Bout Records of Eminence objectives can be viewed from the Vana'Bout section of the Records of Eminence objectives menu.
-- **8413**: No special objectives are available at present. Stay tuned for the next event, kupo!
-- **8414**: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]
-- **8415**: The amount of [/exemplar points/experience points/job points] you earn from plaudits will change.
-- **8418**: Receiving this reward will render you unable to receive another reward from this category.
-- **8419**: Receive $10 deeds? [Yes./No.]
-- **8420**: Receive $11 exemplar points? [Yes./No.]
-- **8421**: Receive $12 EXP? [Yes./No.]
-- **8422**: Receive $23 job points? [Yes./No.]
-- **8423**: You will receive $29 $0%0 .
-- **8424**: Receive the $28? [Yes./No.]
-- **8425**: Receive the $3? [Yes./No.]
-- **8427**: Overall rewards [/(not received)/(received)]: [$10 deeds./$11 exemplar points./$12 EXP./$23 job points./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$3./$3./$3./Back.]
-- **8430**: Register your ranking? [Yes, with my name./Yes, but anonymously./Back.]
-- **8431**: Register [with your name/anonymously]? [Yes please./No thanak you.]
-- **8432**: Your registration has been accepted, kupo! It may taake a while for this to be reflect in the official records.
-- **8435**: $3$3$3L$3$3O$9$z%; Debug: Round $0. [contribution./No. of objective clears./Reset total contribution./Reset objective clears./Reset player./Event: [off/on]./Personal: [off/on]./Overall: [off/on]./Reset Rankings./Back.]
-- **8440**: Really reset rankings? [Yes./No.]
+- **8404**: Good tidings! Vana'Bout Round $0 is currently underway!
+- **8405**: Those wishing to participate in Vana'Bout Round $0 must complete the Records of Eminence objective $1.
+- **8406**: We're currently in the process of distributing items to those who participated in Vana'Bout round $0, kupo!
+- **8407**: How can I help you? [[Check/Receive] personal rewards./[Check/Receive] overall rewards. /View plaudit rankings./Register plaudit rankings./What is Vana'Bout?/Nothing for now.]
+- **8408**: Vana'Bout is a special competition in which a specific Records of Eminence objective is available for a certain period of time.
+- **8409**: Completing this Records of Eminence objective will reward you with a special Vana'Bout-specific currency known as plaudits, kupo.
+- **8410**: Adventurers who earn enough plaudits will be eligible for special rewards!
+- **8411**: Even more rewards will be made available based on the total number of plaudits earned by all adventurers, kupo!
+- **8412**: The number of plaudits you have earned will be reset once a given round of Vana'Bout has concluded, so make sure you grab your goodies in that time period!
+- **8413**: The currently available Vana'Bout Records of Eminence objectives can be viewed from the Vana'Bout section of the Records of Eminence objectives menu.
+- **8414**: No special objectives are available at present. Stay tuned for the next event, kupo!
+- **8415**: Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]
+- **8416**: The amount of [/exemplar points/experience points/job points] you earn from plaudits will change.
+- **8419**: Receiving this reward will render you unable to receive another reward from this category.
+- **8420**: Receive $10 deeds? [Yes./No.]
+- **8421**: Receive $11 exemplar points? [Yes./No.]
+- **8422**: Receive $12 EXP? [Yes./No.]
+- **8423**: Receive $23 job points? [Yes./No.]
+- **8424**: You will receive $29 $0%0 .
+- **8425**: Receive the $28? [Yes./No.]
+- **8426**: Receive the $3? [Yes./No.]
+- **8428**: Overall rewards [/(not received)/(received)]: [$10 deeds./$11 exemplar points./$12 EXP./$23 job points./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$3./$3./$3./Back.]
+- **8431**: Register your ranking? [Yes, with my name./Yes, but anonymously./Back.]
+- **8432**: Register [with your name/anonymously]? [Yes please./No thanak you.]
+- **8433**: Your registration has been accepted, kupo! It may taake a while for this to be reflect in the official records.
+- **8436**: $3$3$3L$3$3O$9$z%; Debug: Round $0. [contribution./No. of objective clears./Reset total contribution./Reset objective clears./Reset player./Event: [off/on]./Personal: [off/on]./Overall: [off/on]./Reset Rankings./Back.]
+- **8441**: Really reset rankings? [Yes./No.]
 
 ## Events
 
@@ -383,24 +383,24 @@ SUBROUTINE_00A1:
  29: 0x00A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
  30: 0x00AB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  31: 0x00B0 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 0*) GOTO 0x00D2
- 32: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
+ 32: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
     → "Good tidings! Vana'Bout Round $0 is currently underway!"
  33: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00BB [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x00CC
  35: 0x00C3 [0x03] Work_Zone[3] = 499*
- 36: 0x00C8 [0x48] [System] [8404*]:
+ 36: 0x00C8 [0x48] [System] [8405*]:
     → "Those wishing to participate in Vana'Bout Round $0 must complete the Records of Eminence objective $1."
  37: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00CC [0x1A] CALL_SUBROUTINE(address=0x00F6)
  39: 0x00CF [0x01] GOTO 0x00F4
  40: 0x00D2 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 1*) GOTO 0x00E3
- 41: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
+ 41: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "We're currently in the process of distributing items to those who participated in Vana'Bout round $0, kupo!"
  42: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00DD [0x1A] CALL_SUBROUTINE(address=0x00F6)
  44: 0x00E0 [0x01] GOTO 0x00F4
  45: 0x00E3 [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 2*) GOTO 0x00F4
- 46: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
+ 46: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "We're currently in the process of distributing items to those who participated in Vana'Bout round $0, kupo!"
  47: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00EE [0x1A] CALL_SUBROUTINE(address=0x00F6)
@@ -438,7 +438,7 @@ SUBROUTINE_014E:
  70: 0x015D [0x03] Work_Zone[4] = 0*
 
 SUBROUTINE_0162:
- 71: 0x0162 [0x24] CREATE_DIALOG(message_id=8406*, default_option=ExtData[1]->WorkLocal[41], option_flags=ExtData[1]->WorkLocal[42])
+ 71: 0x0162 [0x24] CREATE_DIALOG(message_id=8407*, default_option=ExtData[1]->WorkLocal[41], option_flags=ExtData[1]->WorkLocal[42])
     → "How can I help you? [[Check/Receive] personal rewards./[Check/Receive] overall rewards. /View plaudit rankings./Register plaudit rankings./What is Vana'Bout?/Nothing for now.]"
  72: 0x0169 [0x25] WAIT_DIALOG_SELECT()
  73: 0x016A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -470,30 +470,30 @@ SUBROUTINE_01AE:
  95: 0x01D4 [0x01] GOTO 0x0256
  96: 0x01D7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0249
  97: 0x01DF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
- 98: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8407*)
+ 98: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
     → "Vana'Bout is a special competition in which a specific Records of Eminence objective is available for a certain period of time."
  99: 0x01EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
+100: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
     → "Completing this Records of Eminence objective will reward you with a special Vana'Bout-specific currency known as plaudits, kupo."
 101: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x01F4 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "exp0" with entities [EventEntity, EventEntity]
-103: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
+103: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8410*)
     → "Adventurers who earn enough plaudits will be eligible for special rewards!"
 104: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=8410*)
+105: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=8411*)
     → "Even more rewards will be made available based on the total number of plaudits earned by all adventurers, kupo!"
 106: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0209 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-108: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=8411*)
+108: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=8412*)
     → "The number of plaudits you have earned will be reset once a given round of Vana'Bout has concluded, so make sure you grab your goodies in that time period!"
 109: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x021A [0x3E] IF !(ExtData[1]->WorkLocal[2] bit 0*) GOTO 0x0230
 111: 0x0221 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x022D
-112: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=8412*)
+112: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=8413*)
     → "The currently available Vana'Bout Records of Eminence objectives can be viewed from the Vana'Bout section of the Records of Eminence objectives menu."
 113: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x022D [0x01] GOTO 0x0234
-115: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8413*)
+115: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8414*)
     → "No special objectives are available at present. Stay tuned for the next event, kupo!"
 116: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -532,7 +532,7 @@ SUBROUTINE_0287:
 142: 0x0294 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[37]
 143: 0x0299 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[38]
 144: 0x029E [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[5]
-145: 0x02A3 [0x24] CREATE_DIALOG(message_id=8414*, default_option=ExtData[1]->WorkLocal[44], option_flags=0*)
+145: 0x02A3 [0x24] CREATE_DIALOG(message_id=8415*, default_option=ExtData[1]->WorkLocal[44], option_flags=0*)
     → "Personal Rewards: ($6 pl.) [Limit: $3+ plaudits.@/Gold: $4+ plaudits.@/Silver: $5+ plaudits.@/Back.]"
 146: 0x02AA [0x25] WAIT_DIALOG_SELECT()
 147: 0x02AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C2
@@ -546,7 +546,7 @@ SUBROUTINE_0287:
 
 SUBROUTINE_02D7:
 155: 0x02D7 [0x03] Work_Zone[9] = 0*
-156: 0x02DC [0x03] ExtData[1]->WorkLocal[11] = 8416*
+156: 0x02DC [0x03] ExtData[1]->WorkLocal[11] = 8417*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[45] = 4294967295*
 158: 0x02E6 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x02F5
 159: 0x02EE [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=1*, condition_work_offset=1*)
@@ -598,7 +598,7 @@ SUBROUTINE_03BF:
 
 SUBROUTINE_03EE:
 203: 0x03EE [0x03] Work_Zone[9] = 1*
-204: 0x03F3 [0x03] ExtData[1]->WorkLocal[11] = 8416*
+204: 0x03F3 [0x03] ExtData[1]->WorkLocal[11] = 8417*
 205: 0x03F8 [0x03] ExtData[1]->WorkLocal[45] = 4294967295*
 206: 0x03FD [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=4*, condition_work_offset=1*)
 207: 0x0404 [0x03] ExtData[1]->WorkLocal[12] = 9089*
@@ -628,7 +628,7 @@ SUBROUTINE_0450:
 
 SUBROUTINE_047F:
 229: 0x047F [0x03] Work_Zone[9] = 2*
-230: 0x0484 [0x03] ExtData[1]->WorkLocal[11] = 8416*
+230: 0x0484 [0x03] ExtData[1]->WorkLocal[11] = 8417*
 231: 0x0489 [0x03] ExtData[1]->WorkLocal[45] = 4294967295*
 232: 0x048E [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=4*, condition_work_offset=1*)
 233: 0x0495 [0x03] ExtData[1]->WorkLocal[12] = 9168*
@@ -689,18 +689,18 @@ SUBROUTINE_096D:
 274: 0x0970 [0x03] Work_Zone_1700[19] = 1*
 
 SUBROUTINE_0975:
-275: 0x0975 [0x24] CREATE_DIALOG(message_id=8427*, default_option=ExtData[1]->WorkLocal[49], option_flags=ExtData[1]->WorkLocal[45])
+275: 0x0975 [0x24] CREATE_DIALOG(message_id=8428*, default_option=ExtData[1]->WorkLocal[49], option_flags=ExtData[1]->WorkLocal[45])
     → "Overall rewards [/(not received)/(received)]: [$10 deeds./$11 exemplar points./$12 EXP./$23 job points./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$3./$3./$3./Back.]"
 276: 0x097C [0x25] WAIT_DIALOG_SELECT()
 277: 0x097D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09D7
 278: 0x0985 [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x09CF
-279: 0x098D [0x48] [System] [8418*]:
+279: 0x098D [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
 280: 0x0990 [0x03] Work_Zone[1] = 0*
 281: 0x0995 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=2*)
 282: 0x099E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 283: 0x09A0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-284: 0x09A2 [0x24] CREATE_DIALOG(message_id=8420*, default_option=1*, option_flags=0*)
+284: 0x09A2 [0x24] CREATE_DIALOG(message_id=8421*, default_option=1*, option_flags=0*)
     → "Receive $11 exemplar points? [Yes./No.]"
 285: 0x09A9 [0x25] WAIT_DIALOG_SELECT()
 286: 0x09AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09CF
@@ -715,13 +715,13 @@ SUBROUTINE_09CF:
 293: 0x09D4 [0x01] GOTO 0x0A39
 294: 0x09D7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0A31
 295: 0x09DF [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x0A29
-296: 0x09E7 [0x48] [System] [8418*]:
+296: 0x09E7 [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
 297: 0x09EA [0x03] Work_Zone[1] = 0*
 298: 0x09EF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=1*)
 299: 0x09F8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 300: 0x09FA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-301: 0x09FC [0x24] CREATE_DIALOG(message_id=8421*, default_option=1*, option_flags=0*)
+301: 0x09FC [0x24] CREATE_DIALOG(message_id=8422*, default_option=1*, option_flags=0*)
     → "Receive $12 EXP? [Yes./No.]"
 302: 0x0A03 [0x25] WAIT_DIALOG_SELECT()
 303: 0x0A04 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A29
@@ -748,7 +748,7 @@ SUBROUTINE_0A9B:
 318: 0x0AA5 [0x01] GOTO 0x0033
 
 SUBROUTINE_0B36:
-319: 0x0B36 [0x24] CREATE_DIALOG(message_id=8430*, default_option=0*, option_flags=0*)
+319: 0x0B36 [0x24] CREATE_DIALOG(message_id=8431*, default_option=0*, option_flags=0*)
     → "Register your ranking? [Yes, with my name./Yes, but anonymously./Back.]"
 320: 0x0B3D [0x25] WAIT_DIALOG_SELECT()
 321: 0x0B3E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B4E
@@ -760,7 +760,7 @@ SUBROUTINE_0B36:
 327: 0x0B5E [0x1B] RETURN
 
 SUBROUTINE_0B5F:
-328: 0x0B5F [0x24] CREATE_DIALOG(message_id=8431*, default_option=1*, option_flags=0*)
+328: 0x0B5F [0x24] CREATE_DIALOG(message_id=8432*, default_option=1*, option_flags=0*)
     → "Register [with your name/anonymously]? [Yes please./No thanak you.]"
 329: 0x0B66 [0x25] WAIT_DIALOG_SELECT()
 330: 0x0B67 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B8F
@@ -800,13 +800,13 @@ SUBROUTINE_0B90:
      0x058F [0xD4] MAP_QUERY_WINDOW: Test and open query window (flag=0x0B, work=[0x2F00, 0x2D00, 0x2500])
      0x0598 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E0
      0x05A0 [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x05D8
-     0x05A8 [0x48] [System] [8418*]:
+     0x05A8 [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
      0x05AB [0x03] Work_Zone[1] = 0*
      0x05B0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=3*)
      0x05B9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x05BB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x05BD [0x24] CREATE_DIALOG(message_id=8419*, default_option=1*, option_flags=0*)
+     0x05BD [0x24] CREATE_DIALOG(message_id=8420*, default_option=1*, option_flags=0*)
     → "Receive $10 deeds? [Yes./No.]"
      0x05C4 [0x25] WAIT_DIALOG_SELECT()
      0x05C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05D8
@@ -817,17 +817,17 @@ SUBROUTINE_0B90:
      0x05DD [0x01] GOTO 0x0915
      0x05E0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0631
      0x05E8 [0x03] Work_Zone_1700[1] = 1*
-     0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8415*)
+     0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
     → "The amount of [/exemplar points/experience points/job points] you earn from plaudits will change."
      0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05F1 [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x0629
-     0x05F9 [0x48] [System] [8418*]:
+     0x05F9 [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
      0x05FC [0x03] Work_Zone[1] = 0*
      0x0601 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=2*)
      0x060A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x060C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x060E [0x24] CREATE_DIALOG(message_id=8420*, default_option=1*, option_flags=0*)
+     0x060E [0x24] CREATE_DIALOG(message_id=8421*, default_option=1*, option_flags=0*)
     → "Receive $11 exemplar points? [Yes./No.]"
      0x0615 [0x25] WAIT_DIALOG_SELECT()
      0x0616 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0629
@@ -838,17 +838,17 @@ SUBROUTINE_0B90:
      0x062E [0x01] GOTO 0x0915
      0x0631 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0682
      0x0639 [0x03] Work_Zone_1700[1] = 2*
-     0x063E [0x1D] PRINT_EVENT_MESSAGE(message_id=8415*)
+     0x063E [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
     → "The amount of [/exemplar points/experience points/job points] you earn from plaudits will change."
      0x0641 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0642 [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x067A
-     0x064A [0x48] [System] [8418*]:
+     0x064A [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
      0x064D [0x03] Work_Zone[1] = 0*
      0x0652 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=1*)
      0x065B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x065D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x065F [0x24] CREATE_DIALOG(message_id=8421*, default_option=1*, option_flags=0*)
+     0x065F [0x24] CREATE_DIALOG(message_id=8422*, default_option=1*, option_flags=0*)
     → "Receive $12 EXP? [Yes./No.]"
      0x0666 [0x25] WAIT_DIALOG_SELECT()
      0x0667 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x067A
@@ -859,17 +859,17 @@ SUBROUTINE_0B90:
      0x067F [0x01] GOTO 0x0915
      0x0682 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06D3
      0x068A [0x03] Work_Zone_1700[1] = 3*
-     0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=8415*)
+     0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=8416*)
     → "The amount of [/exemplar points/experience points/job points] you earn from plaudits will change."
      0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0693 [0x02] IF !(Work_Zone_1700[19] == 0*) GOTO 0x06CB
-     0x069B [0x48] [System] [8418*]:
+     0x069B [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
      0x069E [0x03] Work_Zone[1] = 0*
      0x06A3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=Work_Zone[1], source=4*)
      0x06AC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x06AE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x06B0 [0x24] CREATE_DIALOG(message_id=8422*, default_option=1*, option_flags=0*)
+     0x06B0 [0x24] CREATE_DIALOG(message_id=8423*, default_option=1*, option_flags=0*)
     → "Receive $23 job points? [Yes./No.]"
      0x06B7 [0x25] WAIT_DIALOG_SELECT()
      0x06B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06CB
@@ -999,15 +999,15 @@ SUBROUTINE_0B90:
      0x0A3D [0x06] ExtData[1]->WorkLocal[7] = 0
      0x0A40 [0x02] IF !(Work_Zone_1700[21] <= 1*) GOTO 0x0A52
      0x0A48 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[20])
-     0x0A4B [0x48] [System] [8423*]:
+     0x0A4B [0x48] [System] [8424*]:
     → "You will receive $29 $0%0 ."
      0x0A4E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A4F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0A52 [0x02] IF !(Work_Zone_1700[19] <= 0*) GOTO 0x0A5B
      0x0A5A [0x1B] RETURN
-     0x0A5B [0x48] [System] [8418*]:
+     0x0A5B [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
-     0x0A5E [0x24] CREATE_DIALOG(message_id=8424*, default_option=1*, option_flags=0*)
+     0x0A5E [0x24] CREATE_DIALOG(message_id=8425*, default_option=1*, option_flags=0*)
     → "Receive the $28? [Yes./No.]"
      0x0A65 [0x25] WAIT_DIALOG_SELECT()
      0x0A66 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A74
@@ -1017,9 +1017,9 @@ SUBROUTINE_0B90:
      0x0A75 [0x06] ExtData[1]->WorkLocal[7] = 0
      0x0A78 [0x02] IF !(Work_Zone_1700[19] <= 0*) GOTO 0x0A81
      0x0A80 [0x1B] RETURN
-     0x0A81 [0x48] [System] [8418*]:
+     0x0A81 [0x48] [System] [8419*]:
     → "Receiving this reward will render you unable to receive another reward from this category."
-     0x0A84 [0x24] CREATE_DIALOG(message_id=8425*, default_option=1*, option_flags=0*)
+     0x0A84 [0x24] CREATE_DIALOG(message_id=8426*, default_option=1*, option_flags=0*)
     → "Receive the $3? [Yes./No.]"
      0x0A8B [0x25] WAIT_DIALOG_SELECT()
      0x0A8C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A9A
@@ -1075,7 +1075,7 @@ SUBROUTINE_0B90:
      0x0BC9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0BCB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0BCD [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-     0x0BCE [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
+     0x0BCE [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
     → "Your registration has been accepted, kupo! It may taake a while for this to be reflect in the official records."
      0x0BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BD2 [0x1B] RETURN
@@ -1138,14 +1138,14 @@ SUBROUTINE_0C00:
  12: 0x0C0F [0x03] Work_Zone[5] = 0*
 
 SUBROUTINE_0C14:
- 13: 0x0C14 [0x24] CREATE_DIALOG(message_id=8435*, default_option=0*, option_flags=0*)
+ 13: 0x0C14 [0x24] CREATE_DIALOG(message_id=8436*, default_option=0*, option_flags=0*)
     → "$3$3$3L$3$3O$9$z%; Debug: Round $0. [contribution./No. of objective clears./Reset total contribution./Reset objective clears./Reset player./Event: [off/on]./Personal: [off/on]./Overall: [off/on]./Reset Rankings./Back.]"
  14: 0x0C1B [0x25] WAIT_DIALOG_SELECT()
  15: 0x0C1C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C2C
  16: 0x0C24 [0x03] Work_Zone[1] = 1*
  17: 0x0C29 [0x01] GOTO 0x0D09
  18: 0x0C2C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C52
- 19: 0x0C34 [0x24] CREATE_DIALOG(message_id=8440*, default_option=1*, option_flags=0*)
+ 19: 0x0C34 [0x24] CREATE_DIALOG(message_id=8441*, default_option=1*, option_flags=0*)
     → "Really reset rankings? [Yes./No.]"
  20: 0x0C3B [0x25] WAIT_DIALOG_SELECT()
  21: 0x0C3C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C4C
@@ -1159,7 +1159,7 @@ SUBROUTINE_0C4F:
  27: 0x0C5A [0x03] Work_Zone[1] = 3*
  28: 0x0C5F [0x01] GOTO 0x0D09
  29: 0x0C62 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0C88
- 30: 0x0C6A [0x24] CREATE_DIALOG(message_id=8440*, default_option=1*, option_flags=0*)
+ 30: 0x0C6A [0x24] CREATE_DIALOG(message_id=8441*, default_option=1*, option_flags=0*)
     → "Really reset rankings? [Yes./No.]"
  31: 0x0C71 [0x25] WAIT_DIALOG_SELECT()
  32: 0x0C72 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C82
@@ -1170,7 +1170,7 @@ SUBROUTINE_0C4F:
 SUBROUTINE_0C85:
  36: 0x0C85 [0x01] GOTO 0x0D09
  37: 0x0C88 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0CAE
- 38: 0x0C90 [0x24] CREATE_DIALOG(message_id=8440*, default_option=1*, option_flags=0*)
+ 38: 0x0C90 [0x24] CREATE_DIALOG(message_id=8441*, default_option=1*, option_flags=0*)
     → "Really reset rankings? [Yes./No.]"
  39: 0x0C97 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0C98 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CA8
@@ -1190,7 +1190,7 @@ SUBROUTINE_0CAB:
  52: 0x0CD6 [0x03] Work_Zone[1] = 8*
  53: 0x0CDB [0x01] GOTO 0x0D09
  54: 0x0CDE [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0D04
- 55: 0x0CE6 [0x24] CREATE_DIALOG(message_id=8440*, default_option=1*, option_flags=0*)
+ 55: 0x0CE6 [0x24] CREATE_DIALOG(message_id=8441*, default_option=1*, option_flags=0*)
     → "Really reset rankings? [Yes./No.]"
  56: 0x0CED [0x25] WAIT_DIALOG_SELECT()
  57: 0x0CEE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CFE

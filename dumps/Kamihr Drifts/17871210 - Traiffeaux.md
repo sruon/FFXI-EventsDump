@@ -60,38 +60,38 @@
 |       5 | 0x0064      |         100 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1E49      |        7753 |
-|       9 | 0x1E4A      |        7754 |
-|      10 | 0x1E4F      |        7759 |
+|       8 | 0x1E4A      |        7754 |
+|       9 | 0x1E4B      |        7755 |
+|      10 | 0x1E50      |        7760 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1E50      |        7760 |
-|      13 | 0x1E51      |        7761 |
-|      14 | 0x1E52      |        7762 |
-|      15 | 0x1E53      |        7763 |
-|      16 | 0x1E54      |        7764 |
-|      17 | 0x1E56      |        7766 |
-|      18 | 0x1E55      |        7765 |
-|      19 | 0x1E57      |        7767 |
-|      20 | 0x1E58      |        7768 |
-|      21 | 0x1E59      |        7769 |
-|      22 | 0x1E5A      |        7770 |
-|      23 | 0x1E5B      |        7771 |
-|      24 | 0x1E5C      |        7772 |
-|      25 | 0x1E5D      |        7773 |
-|      26 | 0x1E5E      |        7774 |
-|      27 | 0x1E5F      |        7775 |
-|      28 | 0x1E60      |        7776 |
-|      29 | 0x1E61      |        7777 |
-|      30 | 0x1E62      |        7778 |
-|      31 | 0x1E63      |        7779 |
+|      12 | 0x1E51      |        7761 |
+|      13 | 0x1E52      |        7762 |
+|      14 | 0x1E53      |        7763 |
+|      15 | 0x1E54      |        7764 |
+|      16 | 0x1E55      |        7765 |
+|      17 | 0x1E57      |        7767 |
+|      18 | 0x1E56      |        7766 |
+|      19 | 0x1E58      |        7768 |
+|      20 | 0x1E59      |        7769 |
+|      21 | 0x1E5A      |        7770 |
+|      22 | 0x1E5B      |        7771 |
+|      23 | 0x1E5C      |        7772 |
+|      24 | 0x1E5D      |        7773 |
+|      25 | 0x1E5E      |        7774 |
+|      26 | 0x1E5F      |        7775 |
+|      27 | 0x1E60      |        7776 |
+|      28 | 0x1E61      |        7777 |
+|      29 | 0x1E62      |        7778 |
+|      30 | 0x1E63      |        7779 |
+|      31 | 0x1E64      |        7780 |
 |      32 | 0x0358      |         856 |
-|      33 | 0x1E64      |        7780 |
+|      33 | 0x1E65      |        7781 |
 |      34 | 0x2205      |        8709 |
-|      35 | 0x1E65      |        7781 |
-|      36 | 0x1E66      |        7782 |
-|      37 | 0x1E67      |        7783 |
-|      38 | 0x1E68      |        7784 |
-|      39 | 0x1E69      |        7785 |
+|      35 | 0x1E66      |        7782 |
+|      36 | 0x1E67      |        7783 |
+|      37 | 0x1E68      |        7784 |
+|      38 | 0x1E69      |        7785 |
+|      39 | 0x1E6A      |        7786 |
 |      40 | 0x6ACCB     |      437451 |
 |      41 | 0xFFFB9130  |  4294676784 |
 |      42 | 0xF618      |       63000 |
@@ -107,42 +107,42 @@
 |      52 | 0x1C2B4     |      115380 |
 |      53 | 0xFFFBD5B1  |  4294694321 |
 |      54 | 0x9E1A      |       40474 |
-|      55 | 0x1E79      |        7801 |
-|      56 | 0x1E7A      |        7802 |
+|      55 | 0x1E7A      |        7802 |
+|      56 | 0x1E7B      |        7803 |
 
 ## String References
 
-- **7753**: ...
-- **7754**: He seems to be trying to say something, but his voice is too soft to make out.
-- **7759**: What will you do? [Ask him to speak up./Leave in despair.]
-- **7760**: <Shuffle> <shuffle>
-- **7761**: <Shuffle> (You are a p-patient one, aren't you?)
-- **7762**: (The Kamihr Drifts are long known as a place of t-training and ritual for geomancers of old, and so, too, have I chosen to make this p-pilgrimage.)
-- **7763**: (My voice is so s-soft because I am attuning my senses to the region so I can become one with n-nature... Can you even hear me?)
-- **7764**: Can you hear him? [Of course./Why would I even want to?]
-- **7765**: (Then leave me to my devices.)
-- **7766**: (Then t-tell that little toy soldier over there to stop pestering me to break down the walls while I am t-training.)
-- **7767**: Will you tell the Taru to stop? [Sure./Wait. What if you taught me how?]
-- **7768**: (I appreciate your th-thoughtfulness, but there's no way he will lend an ear to my plight.)
-- **7769**: (You raise an interesting p-point. If I imparted my knowledge to you, then you could d-do as he asks...and in turn, I can resume my regimen.)
-- **7770**: (You must f-focus all your thoughts on the ice. Become the ice. Find its eye--the weakest point--and s-smash into it with all your might.)
-- **7771**: (S-sounds easy? Well, it is not. No, I predict it would take you...[thirty/three] years to perform such a feat.)
-- **7772**: What will you say? [[Thirty/Three] years? Piece of cake!/I can't even wait that many minutes...]
-- **7773**: (I admire your dedication, but...there may yet b-be another way.)
-- **7774**: (W-wait...there may be another way.)
-- **7775**: (If you can hear me, then p-perhaps...perhaps you could sense the changes in tone when you thump different parts of the wall.)
-- **7776**: (This might enable you to f-find the eye.)
-- **7777**: (I shall teach you to distinguish b-between the eye and the other parts of the ice.)
-- **7778**: (But do not be so b-brash as to put your head directly to the ice. Your ears would just weld to the surface.)
-- **7779**: (So what you need, then, is a n-nice pair of earmuffs.)
-- **7780**: (G-gather three $1 from the snowpelt rabbits around the drifts...)
-- **7781**: (And while you are in the vicinity, one $2 from a raaz.)
-- **7782**: (I can tear myself a-away from my training long enough to make a pair for you.)
-- **7783**: (I am s-sure you would be able to break the wall if you could hear the eye of the ice.)
-- **7784**: (To p-protect your ears during the process, I will make you a little something if you bring me three $1 from rabbits and one $2 from a raaz.)
-- **7785**: (That should be enough for you to accomplish your t-task.)
-- **7801**: (Breaking down the wall is b-but one of many grueling trials that you will doubtless undertake.)
-- **7802**: (B-but all this gives me pause...why would the leafkin be in such an inhospitable place...?)
+- **7754**: ...
+- **7755**: He seems to be trying to say something, but his voice is too soft to make out.
+- **7760**: What will you do? [Ask him to speak up./Leave in despair.]
+- **7761**: <Shuffle> <shuffle>
+- **7762**: <Shuffle> (You are a p-patient one, aren't you?)
+- **7763**: (The Kamihr Drifts are long known as a place of t-training and ritual for geomancers of old, and so, too, have I chosen to make this p-pilgrimage.)
+- **7764**: (My voice is so s-soft because I am attuning my senses to the region so I can become one with n-nature... Can you even hear me?)
+- **7765**: Can you hear him? [Of course./Why would I even want to?]
+- **7766**: (Then leave me to my devices.)
+- **7767**: (Then t-tell that little toy soldier over there to stop pestering me to break down the walls while I am t-training.)
+- **7768**: Will you tell the Taru to stop? [Sure./Wait. What if you taught me how?]
+- **7769**: (I appreciate your th-thoughtfulness, but there's no way he will lend an ear to my plight.)
+- **7770**: (You raise an interesting p-point. If I imparted my knowledge to you, then you could d-do as he asks...and in turn, I can resume my regimen.)
+- **7771**: (You must f-focus all your thoughts on the ice. Become the ice. Find its eye--the weakest point--and s-smash into it with all your might.)
+- **7772**: (S-sounds easy? Well, it is not. No, I predict it would take you...[thirty/three] years to perform such a feat.)
+- **7773**: What will you say? [[Thirty/Three] years? Piece of cake!/I can't even wait that many minutes...]
+- **7774**: (I admire your dedication, but...there may yet b-be another way.)
+- **7775**: (W-wait...there may be another way.)
+- **7776**: (If you can hear me, then p-perhaps...perhaps you could sense the changes in tone when you thump different parts of the wall.)
+- **7777**: (This might enable you to f-find the eye.)
+- **7778**: (I shall teach you to distinguish b-between the eye and the other parts of the ice.)
+- **7779**: (But do not be so b-brash as to put your head directly to the ice. Your ears would just weld to the surface.)
+- **7780**: (So what you need, then, is a n-nice pair of earmuffs.)
+- **7781**: (G-gather three $1 from the snowpelt rabbits around the drifts...)
+- **7782**: (And while you are in the vicinity, one $2 from a raaz.)
+- **7783**: (I can tear myself a-away from my training long enough to make a pair for you.)
+- **7784**: (I am s-sure you would be able to break the wall if you could hear the eye of the ice.)
+- **7785**: (To p-protect your ears during the process, I will make you a little something if you bring me three $1 from rabbits and one $2 from a raaz.)
+- **7786**: (That should be enough for you to accomplish your t-task.)
+- **7802**: (Breaking down the wall is b-but one of many grueling trials that you will doubtless undertake.)
+- **7803**: (B-but all this gives me pause...why would the leafkin be in such an inhospitable place...?)
 
 ## Events
 
@@ -629,10 +629,10 @@
   0: 0x0128 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x012D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  3: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "..."
   4: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0133 [0x48] [System] [7754*]:
+  5: 0x0133 [0x48] [System] [7755*]:
     → "He seems to be trying to say something, but his voice is too soft to make out."
   6: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0137 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -663,10 +663,10 @@
   0: 0x013B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0140 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0141 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  3: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "..."
   4: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0146 [0x48] [System] [7754*]:
+  5: 0x0146 [0x48] [System] [7755*]:
     → "He seems to be trying to say something, but his voice is too soft to make out."
   6: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x014A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -722,35 +722,35 @@
 
 ```
   0: 0x014E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  1: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "..."
   2: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0153 [0x48] [System] [7754*]:
+  3: 0x0153 [0x48] [System] [7755*]:
     → "He seems to be trying to say something, but his voice is too soft to make out."
   4: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0157 [0x24] CREATE_DIALOG(message_id=7759*, default_option=0*, option_flags=0*)
+  5: 0x0157 [0x24] CREATE_DIALOG(message_id=7760*, default_option=0*, option_flags=0*)
     → "What will you do? [Ask him to speak up./Leave in despair.]"
   6: 0x015E [0x25] WAIT_DIALOG_SELECT()
   7: 0x015F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D7
   8: 0x0167 [0x03] Work_Zone[1] = 2*
-  9: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
+  9: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
     → "<Shuffle> <shuffle>"
  10: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0170 [0x48] [System] [7754*]:
+ 11: 0x0170 [0x48] [System] [7755*]:
     → "He seems to be trying to say something, but his voice is too soft to make out."
  12: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0174 [0x24] CREATE_DIALOG(message_id=7759*, default_option=0*, option_flags=0*)
+ 13: 0x0174 [0x24] CREATE_DIALOG(message_id=7760*, default_option=0*, option_flags=0*)
     → "What will you do? [Ask him to speak up./Leave in despair.]"
  14: 0x017B [0x25] WAIT_DIALOG_SELECT()
  15: 0x017C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C0
  16: 0x0184 [0x03] Work_Zone[1] = 2*
- 17: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
+ 17: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
     → "<Shuffle> <shuffle>"
  18: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x018D [0x48] [System] [7754*]:
+ 19: 0x018D [0x48] [System] [7755*]:
     → "He seems to be trying to say something, but his voice is too soft to make out."
  20: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0191 [0x24] CREATE_DIALOG(message_id=7759*, default_option=0*, option_flags=0*)
+ 21: 0x0191 [0x24] CREATE_DIALOG(message_id=7760*, default_option=0*, option_flags=0*)
     → "What will you do? [Ask him to speak up./Leave in despair.]"
  22: 0x0198 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0199 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A9
@@ -782,30 +782,30 @@ SUBROUTINE_01EB:
  43: 0x01EB [0x1E] EventEntity looks at LocalPlayer and starts talking
  44: 0x01F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  45: 0x01F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 46: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+ 46: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "<Shuffle> (You are a p-patient one, aren't you?)"
  47: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x06)
- 49: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
+ 49: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
     → "(The Kamihr Drifts are long known as a place of t-training and ritual for geomancers of old, and so, too, have I chosen to make this p-pilgrimage.)"
  50: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+ 51: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "(My voice is so s-soft because I am attuning my senses to the region so I can become one with n-nature... Can you even hear me?)"
  52: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0205 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x07)
- 54: 0x020C [0x24] CREATE_DIALOG(message_id=7764*, default_option=0*, option_flags=0*)
+ 54: 0x020C [0x24] CREATE_DIALOG(message_id=7765*, default_option=0*, option_flags=0*)
     → "Can you hear him? [Of course./Why would I even want to?]"
  55: 0x0213 [0x25] WAIT_DIALOG_SELECT()
  56: 0x0214 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0228
  57: 0x021C [0x03] Work_Zone[1] = 2*
- 58: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7766*)
+ 58: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
     → "(Then t-tell that little toy soldier over there to stop pestering me to break down the walls while I am t-training.)"
  59: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0225 [0x01] GOTO 0x024E
  61: 0x0228 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x024E
  62: 0x0230 [0x03] Work_Zone[1] = 1*
  63: 0x0235 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x08)
- 64: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
+ 64: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7766*)
     → "(Then leave me to my devices.)"
  65: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0240 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x09)
@@ -814,13 +814,13 @@ SUBROUTINE_01EB:
  69: 0x024A [0x00] END_REQSTACK()
 
 SUBROUTINE_024E:
- 70: 0x024E [0x24] CREATE_DIALOG(message_id=7767*, default_option=0*, option_flags=0*)
+ 70: 0x024E [0x24] CREATE_DIALOG(message_id=7768*, default_option=0*, option_flags=0*)
     → "Will you tell the Taru to stop? [Sure./Wait. What if you taught me how?]"
  71: 0x0255 [0x25] WAIT_DIALOG_SELECT()
  72: 0x0256 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027C
  73: 0x025E [0x03] Work_Zone[1] = 1*
  74: 0x0263 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x08)
- 75: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7768*)
+ 75: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7769*)
     → "(I appreciate your th-thoughtfulness, but there's no way he will lend an ear to my plight.)"
  76: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x09)
@@ -829,50 +829,50 @@ SUBROUTINE_024E:
  80: 0x0278 [0x00] END_REQSTACK()
 
 SUBROUTINE_0298:
- 81: 0x0298 [0x24] CREATE_DIALOG(message_id=7772*, default_option=0*, option_flags=0*)
+ 81: 0x0298 [0x24] CREATE_DIALOG(message_id=7773*, default_option=0*, option_flags=0*)
     → "What will you say? [[Thirty/Three] years? Piece of cake!/I can't even wait that many minutes...]"
  82: 0x029F [0x25] WAIT_DIALOG_SELECT()
  83: 0x02A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BB
  84: 0x02A8 [0x03] Work_Zone[1] = 2*
  85: 0x02AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x08)
- 86: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+ 86: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
     → "(I admire your dedication, but...there may yet b-be another way.)"
  87: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x02B8 [0x01] GOTO 0x02D6
  89: 0x02BB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02D6
  90: 0x02C3 [0x03] Work_Zone[1] = 2*
  91: 0x02C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x08)
- 92: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
+ 92: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
     → "(W-wait...there may be another way.)"
  93: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x02D3 [0x01] GOTO 0x02D6
 
 SUBROUTINE_02D6:
- 95: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
+ 95: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
     → "(If you can hear me, then p-perhaps...perhaps you could sense the changes in tone when you thump different parts of the wall.)"
  96: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x02DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Traiffeaux (ID: 17871210/0x0110B16A), tag_num=0x09)
- 98: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
+ 98: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
     → "(This might enable you to f-find the eye.)"
  99: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+100: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
     → "(I shall teach you to distinguish b-between the eye and the other parts of the ice.)"
 101: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+102: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "(But do not be so b-brash as to put your head directly to the ice. Your ears would just weld to the surface.)"
 103: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
+104: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
     → "(So what you need, then, is a n-nice pair of earmuffs.)"
 105: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x02F1 [0x03] Work_Zone[3] = 856*
-107: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
+107: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
     → "(G-gather three $1 from the snowpelt rabbits around the drifts...)"
 108: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x02FA [0x03] Work_Zone[4] = 8709*
-110: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+110: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "(And while you are in the vicinity, one $2 from a raaz.)"
 111: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+112: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "(I can tear myself a-away from my training long enough to make a pair for you.)"
 113: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0307 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -921,13 +921,13 @@ SUBROUTINE_02D6:
   2: 0x0311 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0312 [0x03] Work_Zone[3] = 856*
   4: 0x0317 [0x03] Work_Zone[4] = 8709*
-  5: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
+  5: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
     → "(I am s-sure you would be able to break the wall if you could hear the eye of the ice.)"
   6: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  7: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "(To p-protect your ears during the process, I will make you a little something if you bring me three $1 from rabbits and one $2 from a raaz.)"
   8: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+  9: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "(That should be enough for you to accomplish your t-task.)"
  10: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0328 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1123,7 +1123,7 @@ SUBROUTINE_02D6:
   0: 0x035F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0364 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0365 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+  3: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "(Breaking down the wall is b-but one of many grueling trials that you will doubtless undertake.)"
   4: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x036A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1154,7 +1154,7 @@ SUBROUTINE_02D6:
   0: 0x036E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0373 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0374 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+  3: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "(B-but all this gives me pause...why would the leafkin be in such an inhospitable place...?)"
   4: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0379 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

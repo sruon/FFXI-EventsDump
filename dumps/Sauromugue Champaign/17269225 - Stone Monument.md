@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D07      |        7431 |
-|       1 | 0x1D08      |        7432 |
-|       2 | 0x1D09      |        7433 |
-|       3 | 0x1D0A      |        7434 |
-|       4 | 0x1D0B      |        7435 |
-|       5 | 0x1D0C      |        7436 |
+|       0 | 0x1D08      |        7432 |
+|       1 | 0x1D09      |        7433 |
+|       2 | 0x1D0A      |        7434 |
+|       3 | 0x1D0B      |        7435 |
+|       4 | 0x1D0C      |        7436 |
+|       5 | 0x1D0D      |        7437 |
 
 ## String References
 
-- **7431**: You see a message engraved on the stone:
-- **7432**: The Jeuno Straits separate our continent of Quon from the unknown lands of Mindartia. I was surprised to find it far narrower than I had thought.
-- **7433**: Crossing the straits, I arrived in the Sauromugue Champaign, the gateway to Mindartia. The Royal Knights of San d'Oria built a castle here in the heyday of that kingdom's power.
-- **7434**: The castle fell to a nighttime raid of three Tarutaru mages. The mighty knights routed, and their chocobos scattered. One by one they were driven into the straits. It became known as the Flight from Sauromugue.
-- **7435**: I began my survey here, in this blood-soaked land that has won a place in the studies of every San d'Orian officer. But history is history. You cannot walk forward if you only look back.
-- **7436**: I will befriend the Tarutaru and the Yagudo, so that peace may span across the continents. --Enid Ironheart, 770 Crystal Era.
+- **7432**: You see a message engraved on the stone:
+- **7433**: The Jeuno Straits separate our continent of Quon from the unknown lands of Mindartia. I was surprised to find it far narrower than I had thought.
+- **7434**: Crossing the straits, I arrived in the Sauromugue Champaign, the gateway to Mindartia. The Royal Knights of San d'Oria built a castle here in the heyday of that kingdom's power.
+- **7435**: The castle fell to a nighttime raid of three Tarutaru mages. The mighty knights routed, and their chocobos scattered. One by one they were driven into the straits. It became known as the Flight from Sauromugue.
+- **7436**: I began my survey here, in this blood-soaked land that has won a place in the studies of every San d'Orian officer. But history is history. You cannot walk forward if you only look back.
+- **7437**: I will befriend the Tarutaru and the Yagudo, so that peace may span across the continents. --Enid Ironheart, 770 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7431*]:
+  0: 0x0001 [0x48] [System] [7432*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7432*]:
+  2: 0x0005 [0x48] [System] [7433*]:
     → "The Jeuno Straits separate our continent of Quon from the unknown lands of Mindartia. I was surprised to find it far narrower than I had thought."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7433*]:
+  4: 0x0009 [0x48] [System] [7434*]:
     → "Crossing the straits, I arrived in the Sauromugue Champaign, the gateway to Mindartia. The Royal Knights of San d'Oria built a castle here in the heyday of that kingdom's power."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7434*]:
+  6: 0x000D [0x48] [System] [7435*]:
     → "The castle fell to a nighttime raid of three Tarutaru mages. The mighty knights routed, and their chocobos scattered. One by one they were driven into the straits. It became known as the Flight from Sauromugue."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7435*]:
+  8: 0x0011 [0x48] [System] [7436*]:
     → "I began my survey here, in this blood-soaked land that has won a place in the studies of every San d'Orian officer. But history is history. You cannot walk forward if you only look back."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7436*]:
+ 10: 0x0015 [0x48] [System] [7437*]:
     → "I will befriend the Tarutaru and the Yagudo, so that peace may span across the continents. --Enid Ironheart, 770 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

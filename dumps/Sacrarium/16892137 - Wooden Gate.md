@@ -24,7 +24,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0246      |         582 |
-|       1 | 0x1C43      |        7235 |
+|       1 | 0x1C44      |        7236 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
@@ -36,7 +36,7 @@
 
 ## String References
 
-- **7235**: Use the $3? [Yes./No.]
+- **7236**: Use the $3? [Yes./No.]
 
 ## Events
 
@@ -163,7 +163,7 @@
 ```
   0: 0x0006 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0008 [0x03] Work_Zone[2] = 582*
-  2: 0x000D [0x24] CREATE_DIALOG(message_id=7235*, default_option=1*, option_flags=0*)
+  2: 0x000D [0x24] CREATE_DIALOG(message_id=7236*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   3: 0x0014 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B9

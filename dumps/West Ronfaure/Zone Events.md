@@ -29,7 +29,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D3B      |        7483 |
+|       0 | 0x1D3C      |        7484 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -57,18 +57,18 @@
 |      25 | 0xFFFF36D5  |  4294915797 |
 |      26 | 0x07F8      |        2040 |
 |      27 | 0x00F5      |         245 |
-|      28 | 0x1EE2      |        7906 |
-|      29 | 0x1EE3      |        7907 |
-|      30 | 0x1EE4      |        7908 |
-|      31 | 0x1EE5      |        7909 |
-|      32 | 0x1EE6      |        7910 |
-|      33 | 0x1EE7      |        7911 |
-|      34 | 0x1EE8      |        7912 |
-|      35 | 0x1EE9      |        7913 |
-|      36 | 0x1EEA      |        7914 |
-|      37 | 0x1EEB      |        7915 |
+|      28 | 0x1EE3      |        7907 |
+|      29 | 0x1EE4      |        7908 |
+|      30 | 0x1EE5      |        7909 |
+|      31 | 0x1EE6      |        7910 |
+|      32 | 0x1EE7      |        7911 |
+|      33 | 0x1EE8      |        7912 |
+|      34 | 0x1EE9      |        7913 |
+|      35 | 0x1EEA      |        7914 |
+|      36 | 0x1EEB      |        7915 |
+|      37 | 0x1EEC      |        7916 |
 |      38 | 0x000A      |          10 |
-|      39 | 0x1EEC      |        7916 |
+|      39 | 0x1EED      |        7917 |
 |      40 | 0x006D      |         109 |
 |      41 | 0xFFFC03FA  |  4294706170 |
 |      42 | 0x66E73     |      421491 |
@@ -78,18 +78,18 @@
 |      46 | 0x3E472     |      255090 |
 |      47 | 0xFFFF161C  |  4294907420 |
 |      48 | 0x0C66      |        3174 |
-|      49 | 0x1F7E      |        8062 |
+|      49 | 0x1F7F      |        8063 |
 |      50 | 0x001E      |          30 |
-|      51 | 0x1F7F      |        8063 |
-|      52 | 0x1F80      |        8064 |
-|      53 | 0x1F84      |        8068 |
-|      54 | 0x1F81      |        8065 |
+|      51 | 0x1F80      |        8064 |
+|      52 | 0x1F81      |        8065 |
+|      53 | 0x1F85      |        8069 |
+|      54 | 0x1F82      |        8066 |
 |      55 | 0x00C9      |         201 |
 
 ## String References
 
-- **7483**: Where do you want to goiScroll +j [Nowhere/San d'Oria/Windurst/Ghelsba Lift/Hot Springs Valley/Bastok]
-- **7909**: Any idea? [I have a pretty good idea./Not a clue.]
+- **7484**: Where do you want to goiScroll +j [Nowhere/San d'Oria/Windurst/Ghelsba Lift/Hot Springs Valley/Bastok]
+- **7910**: Any idea? [I have a pretty good idea./Not a clue.]
 
 ## Events
 
@@ -141,7 +141,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7483*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7484*, default_option=0*, option_flags=0*)
     → "Where do you want to goiScroll +j [Nowhere/San d'Oria/Windurst/Ghelsba Lift/Hot Springs Valley/Bastok]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -381,32 +381,32 @@ SUBROUTINE_0079:
  14: 0x012A [0x4A] Esca (ID: 17187493/0x010642A5) looks at LocalPlayer
  15: 0x0133 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x0134 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187493/0x010642A5) Render.Flags0 and Render.Flags3 conditions are met
- 17: 0x0139 [0x2B] Esca (ID: 17187493/0x010642A5) [7906*]:
+ 17: 0x0139 [0x2B] Esca (ID: 17187493/0x010642A5) [7907*]:
     → "What do you want? You want to know if I've seen that earring before?"
  18: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0141 [0x27] REQ_SET(priority=0x02, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0B)
  20: 0x0148 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0F)
- 21: 0x014F [0x2B] Esca (ID: 17187493/0x010642A5) [7907*]:
+ 21: 0x014F [0x2B] Esca (ID: 17187493/0x010642A5) [7908*]:
     → "...! Where did you get that? Ah, I must have dropped it that time I was... Damn, I'm so clumsy!"
  22: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0157 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187493/0x010642A5))
  24: 0x015D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
  25: 0x016E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=245*
- 26: 0x017D [0x2B] Esca (ID: 17187493/0x010642A5) [7908*]:
+ 26: 0x017D [0x2B] Esca (ID: 17187493/0x010642A5) [7909*]:
     → "Well, I guess you found me out. I was the one who mugged Brugaire for his father's inheritance. Even if I am a thief, a lady likes to look her best when doing her job. By the way, do you have any idea what I stole?"
  27: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0185 [0x24] CREATE_DIALOG(message_id=7909*, default_option=1*, option_flags=0*)
+ 28: 0x0185 [0x24] CREATE_DIALOG(message_id=7910*, default_option=1*, option_flags=0*)
     → "Any idea? [I have a pretty good idea./Not a clue.]"
  29: 0x018C [0x25] WAIT_DIALOG_SELECT()
  30: 0x018D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
  31: 0x019E [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x09)
  32: 0x01A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B8
- 33: 0x01AD [0x2B] Esca (ID: 17187493/0x010642A5) [7910*]:
+ 33: 0x01AD [0x2B] Esca (ID: 17187493/0x010642A5) [7911*]:
     → "That's right, a piece of the armor said to have been worn by the legendary last dragoon."
  34: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01B5 [0x01] GOTO 0x01CB
  36: 0x01B8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01CB
- 37: 0x01C0 [0x2B] Esca (ID: 17187493/0x010642A5) [7911*]:
+ 37: 0x01C0 [0x2B] Esca (ID: 17187493/0x010642A5) [7912*]:
     → "Unbelievable. You come after me even though you don't know what you're looking for? The thing I took was a piece of the armor said to have been worn by the legendary last dragoon."
  38: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01C8 [0x01] GOTO 0x01CB
@@ -414,30 +414,30 @@ SUBROUTINE_0079:
 SUBROUTINE_01CB:
  40: 0x01CB [0x2A] GET_REQ_LEVEL(level=3, entity_id=Esca (ID: 17187493/0x010642A5))
  41: 0x01D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=245*
- 42: 0x01E0 [0x2B] Esca (ID: 17187493/0x010642A5) [7912*]:
+ 42: 0x01E0 [0x2B] Esca (ID: 17187493/0x010642A5) [7913*]:
     → "My employer is one of the many people who are after that armor."
  43: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x01E8 [0x4A] Esca (ID: 17187493/0x010642A5) looks at LocalPlayer
- 45: 0x01F1 [0x2B] Esca (ID: 17187493/0x010642A5) [7913*]:
+ 45: 0x01F1 [0x2B] Esca (ID: 17187493/0x010642A5) [7914*]:
     → "The name of my employer? You know, he never told me. I was just told to bury the armor in a certain spot in exchange for a small fortune in gil."
  46: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  48: 0x01FA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Esca (ID: 17187493/0x010642A5) Render.Flags0 and Render.Flags3 conditions are met
  49: 0x01FF [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x10)
- 50: 0x0206 [0x2B] Esca (ID: 17187493/0x010642A5) [7914*]:
+ 50: 0x0206 [0x2B] Esca (ID: 17187493/0x010642A5) [7915*]:
     → "I've already been paid for the job, so I'll tell you where I buried it. But on one condition: You can't tell Brugaire that I was the thief. I don't need him breathing down my neck when I'm trying to work."
  51: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x020E [0x27] REQ_SET(priority=0x04, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x11)
  53: 0x0215 [0x1C] WAIT(60* ticks)
  54: 0x0218 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[245*, 0*]
  55: 0x0229 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=245*
- 56: 0x0238 [0x2B] Esca (ID: 17187493/0x010642A5) [7915*]:
+ 56: 0x0238 [0x2B] Esca (ID: 17187493/0x010642A5) [7916*]:
     → "Right. The armor is buried on a small island that can be reached through the Eldieme Necropolis. A monster has been put on guard over the spot though, so don't think you can just waltz in and scoop it up."
  57: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0240 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Esca (ID: 17187493/0x010642A5))
  59: 0x0246 [0x27] REQ_SET(priority=0x03, entity_id=Esca (ID: 17187493/0x010642A5), tag_num=0x0A)
  60: 0x024D [0x1C] WAIT(10* ticks)
- 61: 0x0250 [0x2B] Esca (ID: 17187493/0x010642A5) [7916*]:
+ 61: 0x0250 [0x2B] Esca (ID: 17187493/0x010642A5) [7917*]:
     → "Oh, and give me back my earring. I wear those for good luck."
  62: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0258 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -536,11 +536,11 @@ SUBROUTINE_01CB:
  16: 0x0313 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x0324 [0x4A] Camereine (ID: 17187547/0x010642DB) looks at LocalPlayer
  18: 0x032D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x033E [0x2B] Camereine (ID: 17187547/0x010642DB) [8062*]:
+ 19: 0x033E [0x2B] Camereine (ID: 17187547/0x010642DB) [8063*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0346 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Camereine (ID: 17187547/0x010642DB), Camereine (ID: 17187547/0x010642DB)], work=30*
- 22: 0x0355 [0x2B] Camereine (ID: 17187547/0x010642DB) [8063*]:
+ 22: 0x0355 [0x2B] Camereine (ID: 17187547/0x010642DB) [8064*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x035D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x03AF
@@ -552,17 +552,17 @@ SUBROUTINE_01CB:
  30: 0x0388 [0x15] Work_Zone[6] /= 60*
  31: 0x038D [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0394 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03A7
- 33: 0x039C [0x2B] Camereine (ID: 17187547/0x010642DB) [8064*]:
+ 33: 0x039C [0x2B] Camereine (ID: 17187547/0x010642DB) [8065*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x03A4 [0x01] GOTO 0x03AF
- 36: 0x03A7 [0x2B] Camereine (ID: 17187547/0x010642DB) [8068*]:
+ 36: 0x03A7 [0x2B] Camereine (ID: 17187547/0x010642DB) [8069*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03AF:
  38: 0x03AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Camereine (ID: 17187547/0x010642DB), Camereine (ID: 17187547/0x010642DB)], work=30*
- 39: 0x03BE [0x2B] Camereine (ID: 17187547/0x010642DB) [8065*]:
+ 39: 0x03BE [0x2B] Camereine (ID: 17187547/0x010642DB) [8066*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x03C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=5*

@@ -32,23 +32,23 @@
 |       1 | 0x22ED7     |      143063 |
 |       2 | 0xFFFFBAC4  |  4294949572 |
 |       3 | 0x32C7      |       12999 |
-|       4 | 0x1D13      |        7443 |
-|       5 | 0x1D14      |        7444 |
-|       6 | 0x1D15      |        7445 |
-|       7 | 0x1D17      |        7447 |
-|       8 | 0x1D1B      |        7451 |
-|       9 | 0x1D1C      |        7452 |
-|      10 | 0x1D1D      |        7453 |
+|       4 | 0x1D14      |        7444 |
+|       5 | 0x1D15      |        7445 |
+|       6 | 0x1D16      |        7446 |
+|       7 | 0x1D18      |        7448 |
+|       8 | 0x1D1C      |        7452 |
+|       9 | 0x1D1D      |        7453 |
+|      10 | 0x1D1E      |        7454 |
 
 ## String References
 
-- **7443**: Yes, I would like to name this magic "summoning."
-- **7444**: The divine texts mention it as the words used when the Star Sibyl was commanding the great beast, Fenrir.
-- **7445**: At any rate, we are very close. Soon the magic of summoning will be complete.
-- **7447**: Are you uneasy, Your Holiness?
-- **7451**: Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin.
-- **7452**: The Book of the Gods has taught me everything.
-- **7453**: It told me the meaning of the tower and the fountain. And it has taught me what the beast Fenrir truly is.
+- **7444**: Yes, I would like to name this magic "summoning."
+- **7445**: The divine texts mention it as the words used when the Star Sibyl was commanding the great beast, Fenrir.
+- **7446**: At any rate, we are very close. Soon the magic of summoning will be complete.
+- **7448**: Are you uneasy, Your Holiness?
+- **7452**: Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin.
+- **7453**: The Book of the Gods has taught me everything.
+- **7454**: It told me the meaning of the tower and the fountain. And it has taught me what the beast Fenrir truly is.
 
 ## Events
 
@@ -140,7 +140,7 @@
 #### Opcodes
 
 ```
-  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+  0: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "Yes, I would like to name this magic "summoning.""
   1: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0014 [0x00] END_REQSTACK()
@@ -165,7 +165,7 @@
 #### Opcodes
 
 ```
-  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+  0: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "The divine texts mention it as the words used when the Star Sibyl was commanding the great beast, Fenrir."
   1: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0019 [0x00] END_REQSTACK()
@@ -190,7 +190,7 @@
 #### Opcodes
 
 ```
-  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+  0: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "At any rate, we are very close. Soon the magic of summoning will be complete."
   1: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001E [0x00] END_REQSTACK()
@@ -216,7 +216,7 @@
 #### Opcodes
 
 ```
-  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  0: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Are you uneasy, Your Holiness?"
   1: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0023 [0x00] END_REQSTACK()
@@ -241,7 +241,7 @@
 #### Opcodes
 
 ```
-  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
+  0: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
     → "Place your trust in me, Your Holiness. Windurst shall escape its fate of ruin."
   1: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0028 [0x00] END_REQSTACK()
@@ -266,7 +266,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "The Book of the Gods has taught me everything."
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x00] END_REQSTACK()
@@ -292,7 +292,7 @@
 #### Opcodes
 
 ```
-  0: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  0: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "It told me the meaning of the tower and the fountain. And it has taught me what the beast Fenrir truly is."
   1: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0032 [0x00] END_REQSTACK()

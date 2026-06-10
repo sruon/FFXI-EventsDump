@@ -24,56 +24,56 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x000B      |          11 |
-|       4 | 0x1F91      |        8081 |
-|       5 | 0x1F92      |        8082 |
+|       4 | 0x1F92      |        8082 |
+|       5 | 0x1F93      |        8083 |
 |       6 | 0x0276      |         630 |
-|       7 | 0x1F93      |        8083 |
+|       7 | 0x1F94      |        8084 |
 |       8 | 0x0028      |          40 |
 |       9 | 0x0007      |           7 |
-|      10 | 0x1F8F      |        8079 |
-|      11 | 0x1F90      |        8080 |
+|      10 | 0x1F90      |        8080 |
+|      11 | 0x1F91      |        8081 |
 |      12 | 0x001E      |          30 |
 |      13 | 0x001D      |          29 |
-|      14 | 0x1F8D      |        8077 |
-|      15 | 0x1F8E      |        8078 |
+|      14 | 0x1F8E      |        8078 |
+|      15 | 0x1F8F      |        8079 |
 |      16 | 0x0014      |          20 |
-|      17 | 0x1F8B      |        8075 |
-|      18 | 0x1F8C      |        8076 |
+|      17 | 0x1F8C      |        8076 |
+|      18 | 0x1F8D      |        8077 |
 |      19 | 0x000A      |          10 |
-|      20 | 0x1F89      |        8073 |
-|      21 | 0x1F8A      |        8074 |
-|      22 | 0x1F86      |        8070 |
-|      23 | 0x1F87      |        8071 |
-|      24 | 0x1F88      |        8072 |
+|      20 | 0x1F8A      |        8074 |
+|      21 | 0x1F8B      |        8075 |
+|      22 | 0x1F87      |        8071 |
+|      23 | 0x1F88      |        8072 |
+|      24 | 0x1F89      |        8073 |
 |      25 | 0x00FE      |         254 |
-|      26 | 0x1EB3      |        7859 |
-|      27 | 0x1EB4      |        7860 |
+|      26 | 0x1EB4      |        7860 |
+|      27 | 0x1EB5      |        7861 |
 |      28 | 0x0008      |           8 |
-|      29 | 0x1EB5      |        7861 |
+|      29 | 0x1EB6      |        7862 |
 |      30 | 0x0002      |           2 |
 |      31 | 0x0009      |           9 |
-|      32 | 0x1EB6      |        7862 |
+|      32 | 0x1EB7      |        7863 |
 
 ## String References
 
-- **7859**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
-- **7860**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-- **7861**: [Requirement/Objective completed]: Obtain all atma found in this area.
-- **7862**: [Requirement/Objective completed]: Complete all quests issued in this area.
-- **8070**: <Player>? Can't say I've ever heard that name.
-- **8071**: What did you expect? Those who live in chill, harsh environs such as these are slow to warm up to strangers.
-- **8072**: But take heart. Do what you can to make yourself useful, and someday you might find yourself as beloved as me. Ahahaha!
-- **8073**: <Player>, you say? Yes, I may have overheard a person mention someone who claims he might have possibly known a fellow who spoke a name that almost vaguely resembles yours...though I cannot be sure.
-- **8074**: Keep working as you are, and I'm sure the community will warm up to you before long. Even if you're not as charming as yours truly. Ahahaha!
-- **8075**: <Player>...? Yes, there's no mistaking it. That's a name I heard just this past day.
-- **8076**: "Why, [he/she] almost reminds me of a young Magriffon," the fellow said. "Not half as brave and gallant, of course...but then again, who is?"
-- **8077**: <Player>! You're quite the talk of the range these days. Seems your hard work has made quite an impression on the survivors.
-- **8078**: Just between you and me, do feel free to take a break from playing [hero/heroine] all the time. There's no need to overshadow, er, a certain other prestigious personage. Would you not agree?
-- **8079**: Ah, greetings, <Player>. Always a pleasure.
-- **8080**: Every time I hear your name--quite often these days, I must say--it brings to mind my own remarkable exploits. Exploits that people don't seem to be speaking much of these days...<sigh>.
-- **8081**: Well, you've certainly done it, <Player>. You've completely eclipsed yours truly in the hearts and minds of the survivors of Uleguerand.
-- **8082**: I must admit: at first, I was more than a little jealous. But not anymore. We're truly fortunate that you arrived.
-- **8083**: No doubt it's thanks to the $3 I acquired. I knew it was worth every last coin!
+- **7860**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
+- **7861**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+- **7862**: [Requirement/Objective completed]: Obtain all atma found in this area.
+- **7863**: [Requirement/Objective completed]: Complete all quests issued in this area.
+- **8071**: <Player>? Can't say I've ever heard that name.
+- **8072**: What did you expect? Those who live in chill, harsh environs such as these are slow to warm up to strangers.
+- **8073**: But take heart. Do what you can to make yourself useful, and someday you might find yourself as beloved as me. Ahahaha!
+- **8074**: <Player>, you say? Yes, I may have overheard a person mention someone who claims he might have possibly known a fellow who spoke a name that almost vaguely resembles yours...though I cannot be sure.
+- **8075**: Keep working as you are, and I'm sure the community will warm up to you before long. Even if you're not as charming as yours truly. Ahahaha!
+- **8076**: <Player>...? Yes, there's no mistaking it. That's a name I heard just this past day.
+- **8077**: "Why, [he/she] almost reminds me of a young Magriffon," the fellow said. "Not half as brave and gallant, of course...but then again, who is?"
+- **8078**: <Player>! You're quite the talk of the range these days. Seems your hard work has made quite an impression on the survivors.
+- **8079**: Just between you and me, do feel free to take a break from playing [hero/heroine] all the time. There's no need to overshadow, er, a certain other prestigious personage. Would you not agree?
+- **8080**: Ah, greetings, <Player>. Always a pleasure.
+- **8081**: Every time I hear your name--quite often these days, I must say--it brings to mind my own remarkable exploits. Exploits that people don't seem to be speaking much of these days...<sigh>.
+- **8082**: Well, you've certainly done it, <Player>. You've completely eclipsed yours truly in the hearts and minds of the survivors of Uleguerand.
+- **8083**: I must admit: at first, I was more than a little jealous. But not anymore. We're truly fortunate that you arrived.
+- **8084**: No doubt it's thanks to the $3 I acquired. I knew it was worth every last coin!
 
 ## Events
 
@@ -171,14 +171,14 @@
 SUBROUTINE_0031:
  10: 0x0031 [0x6E] Magriffon (ID: 17814121/0x010FD269) uses emote 11*
  11: 0x0038 [0x99] Wait for Magriffon (ID: 17814121/0x010FD269) animation to complete
- 12: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+ 12: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "Well, you've certainly done it, <Player>. You've completely eclipsed yours truly in the hearts and minds of the survivors of Uleguerand."
  13: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+ 14: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "I must admit: at first, I was more than a little jealous. But not anymore. We're truly fortunate that you arrived."
  15: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0045 [0x03] Work_Zone[2] = 630*
- 17: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+ 17: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "No doubt it's thanks to the $3 I acquired. I knew it was worth every last coin!"
  18: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x004E [0x01] GOTO 0x01A7
@@ -192,10 +192,10 @@ SUBROUTINE_0031:
 SUBROUTINE_0075:
  26: 0x0075 [0x6E] Magriffon (ID: 17814121/0x010FD269) uses emote 7*
  27: 0x007C [0x99] Wait for Magriffon (ID: 17814121/0x010FD269) animation to complete
- 28: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
+ 28: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
     → "Ah, greetings, <Player>. Always a pleasure."
  29: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+ 30: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "Every time I hear your name--quite often these days, I must say--it brings to mind my own remarkable exploits. Exploits that people don't seem to be speaking much of these days...<sigh>."
  31: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0089 [0x01] GOTO 0x01A7
@@ -208,10 +208,10 @@ SUBROUTINE_0075:
 
 SUBROUTINE_00B0:
  39: 0x00B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
- 40: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+ 40: 0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "<Player>! You're quite the talk of the range these days. Seems your hard work has made quite an impression on the survivors."
  41: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
+ 42: 0x00C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "Just between you and me, do feel free to take a break from playing [hero/heroine] all the time. There's no need to overshadow, er, a certain other prestigious personage. Would you not agree?"
  43: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
@@ -226,10 +226,10 @@ SUBROUTINE_00B0:
 SUBROUTINE_00FD:
  52: 0x00FD [0x6E] Magriffon (ID: 17814121/0x010FD269) uses emote 7*
  53: 0x0104 [0x99] Wait for Magriffon (ID: 17814121/0x010FD269) animation to complete
- 54: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+ 54: 0x0109 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "<Player>...? Yes, there's no mistaking it. That's a name I heard just this past day."
  55: 0x010C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+ 56: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → ""Why, [he/she] almost reminds me of a young Magriffon," the fellow said. "Not half as brave and gallant, of course...but then again, who is?""
  57: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0111 [0x01] GOTO 0x01A7
@@ -242,10 +242,10 @@ SUBROUTINE_00FD:
 
 SUBROUTINE_0138:
  65: 0x0138 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
- 66: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+ 66: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
     → "<Player>, you say? Yes, I may have overheard a person mention someone who claims he might have possibly known a fellow who spoke a name that almost vaguely resembles yours...though I cannot be sure."
  67: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
+ 68: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
     → "Keep working as you are, and I'm sure the community will warm up to you before long. Even if you're not as charming as yours truly. Ahahaha!"
  69: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x014F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
@@ -258,13 +258,13 @@ SUBROUTINE_0138:
 
 SUBROUTINE_017D:
  77: 0x017D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
- 78: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
+ 78: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
     → "<Player>? Can't say I've ever heard that name."
  79: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
+ 80: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
     → "What did you expect? Those who live in chill, harsh environs such as these are slow to warm up to strangers."
  81: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
+ 82: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
     → "But take heart. Do what you can to make yourself useful, and someday you might find yourself as beloved as me. Ahahaha!"
  83: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0198 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Magriffon (ID: 17814121/0x010FD269), Magriffon (ID: 17814121/0x010FD269)], work=29*
@@ -289,7 +289,7 @@ SUBROUTINE_01A7:
      0x01CB [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[7]
      0x01D0 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[8]
      0x01D5 [0x02] IF !(1* == 1*) GOTO 0x0270
-     0x01DD [0x24] CREATE_DIALOG(message_id=7859*, default_option=0*, option_flags=0*)
+     0x01DD [0x24] CREATE_DIALOG(message_id=7860*, default_option=0*, option_flags=0*)
     → "Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]"
      0x01E4 [0x25] WAIT_DIALOG_SELECT()
      0x01E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0208
@@ -297,7 +297,7 @@ SUBROUTINE_01A7:
      0x01F4 [0x03] Work_Zone[2] = 1*
      0x01F9 [0x01] GOTO 0x0201
      0x01FC [0x03] Work_Zone[2] = 0*
-     0x0201 [0x48] [System] [7860*]:
+     0x0201 [0x48] [System] [7861*]:
     → "[Requirement/Objective completed]: Obtain all ancient abyssite found in this area."
      0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0205 [0x01] GOTO 0x024F
@@ -306,7 +306,7 @@ SUBROUTINE_01A7:
      0x0217 [0x03] Work_Zone[2] = 1*
      0x021C [0x01] GOTO 0x0224
      0x021F [0x03] Work_Zone[2] = 0*
-     0x0224 [0x48] [System] [7861*]:
+     0x0224 [0x48] [System] [7862*]:
     → "[Requirement/Objective completed]: Obtain all atma found in this area."
      0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0228 [0x01] GOTO 0x024F
@@ -315,7 +315,7 @@ SUBROUTINE_01A7:
      0x023A [0x03] Work_Zone[2] = 1*
      0x023F [0x01] GOTO 0x0247
      0x0242 [0x03] Work_Zone[2] = 0*
-     0x0247 [0x48] [System] [7862*]:
+     0x0247 [0x48] [System] [7863*]:
     → "[Requirement/Objective completed]: Complete all quests issued in this area."
      0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x024B [0x01] GOTO 0x024F

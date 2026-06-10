@@ -30,13 +30,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2920      |       10528 |
+|       0 | 0x2921      |       10529 |
 |       1 | 0x115B      |        4443 |
 |       2 | 0x0281      |         641 |
-|       3 | 0x2921      |       10529 |
-|       4 | 0x2929      |       10537 |
-|       5 | 0x292E      |       10542 |
-|       6 | 0x290D      |       10509 |
+|       3 | 0x2922      |       10530 |
+|       4 | 0x292A      |       10538 |
+|       5 | 0x292F      |       10543 |
+|       6 | 0x290E      |       10510 |
 |       7 | 0x0078      |         120 |
 |       8 | 0x034B      |         843 |
 |       9 | 0x6970      |       26992 |
@@ -52,11 +52,11 @@
 
 ## String References
 
-- **10509**: Tsetseroon so looonely.
-- **10528**: Tsetseroon block his "Treasooor Huntooor" with special stooo!
-- **10529**: But Tsetseroon need $0 and $1 tooo make it, yes?
-- **10537**: Yooo bring stooo to place that smell like Wawaroon? If yooo wooodn't mind?
-- **10542**: Yooo toook down Wawaroon? Wawaroon is dooown? Treasooor Huntooor, bye bye? Ooo...soooper soooper! Tsetseroon happy!
+- **10510**: Tsetseroon so looonely.
+- **10529**: Tsetseroon block his "Treasooor Huntooor" with special stooo!
+- **10530**: But Tsetseroon need $0 and $1 tooo make it, yes?
+- **10538**: Yooo bring stooo to place that smell like Wawaroon? If yooo wooodn't mind?
+- **10543**: Yooo toook down Wawaroon? Wawaroon is dooown? Treasooor Huntooor, bye bye? Ooo...soooper soooper! Tsetseroon happy!
 
 ## Events
 
@@ -127,12 +127,12 @@
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10528*)
+  3: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
     → "Tsetseroon block his "Treasooor Huntooor" with special stooo!"
   4: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000D [0x03] Work_Zone[2] = 4443*
   6: 0x0012 [0x03] Work_Zone[3] = 641*
-  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
+  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10530*)
     → "But Tsetseroon need $0 and $1 tooo make it, yes?"
   8: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001B [0x21] END_EVENT
@@ -184,7 +184,7 @@
   0: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0023 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0024 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+  3: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
     → "Yooo bring stooo to place that smell like Wawaroon? If yooo wooodn't mind?"
   4: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0029 [0x21] END_EVENT
@@ -236,7 +236,7 @@
   0: 0x002C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0031 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0032 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
+  3: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
     → "Yooo toook down Wawaroon? Wawaroon is dooown? Treasooor Huntooor, bye bye? Ooo...soooper soooper! Tsetseroon happy!"
   4: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0037 [0x21] END_EVENT
@@ -266,7 +266,7 @@
   0: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10509*)
+  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10510*)
     → "Tsetseroon so looonely."
   4: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0044 [0x21] END_EVENT

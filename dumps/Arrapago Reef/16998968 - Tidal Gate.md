@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2185      |        8581 |
-|       1 | 0x2186      |        8582 |
+|       0 | 0x2186      |        8582 |
+|       1 | 0x2187      |        8583 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C9      |         201 |
@@ -30,8 +30,8 @@
 
 ## String References
 
-- **8581**: You can feel a strong magical power emanating from the center of the gate. It seems powerful enough to transport you to a distant place.
-- **8582**: Give in to the magical power? [It's worth a shot./You must be joking!]
+- **8582**: You can feel a strong magical power emanating from the center of the gate. It seems powerful enough to transport you to a distant place.
+- **8583**: Give in to the magical power? [It's worth a shot./You must be joking!]
 
 ## Events
 
@@ -85,10 +85,10 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0004 [0x48] [System] [8581*]:
+  2: 0x0004 [0x48] [System] [8582*]:
     → "You can feel a strong magical power emanating from the center of the gate. It seems powerful enough to transport you to a distant place."
   3: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0008 [0x24] CREATE_DIALOG(message_id=8582*, default_option=1*, option_flags=0*)
+  4: 0x0008 [0x24] CREATE_DIALOG(message_id=8583*, default_option=1*, option_flags=0*)
     → "Give in to the magical power? [It's worth a shot./You must be joking!]"
   5: 0x000F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B

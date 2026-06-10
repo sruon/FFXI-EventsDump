@@ -34,9 +34,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x034B      |         843 |
-|       2 | 0x294B      |       10571 |
-|       3 | 0x294C      |       10572 |
-|       4 | 0x294D      |       10573 |
+|       2 | 0x294C      |       10572 |
+|       3 | 0x294D      |       10573 |
+|       4 | 0x294E      |       10574 |
 |       5 | 0x3648      |       13896 |
 |       6 | 0xFFFF6AC2  |  4294929090 |
 |       7 | 0x0000      |           0 |
@@ -66,9 +66,9 @@
 
 ## String References
 
-- **10571**: Spaaarkle! Shiiiny! Spoooaaarkle! Too bright! Aaah! Tsotsoroon's eyes! Gold, gold! Shiiiny! Oooh!
-- **10572**: Tsotsoroon saw, Tsotsoroon saaaw! At Talacca Cooove! Mooountains of gold! Spaaarkly gold! Shiiiny gold! Tsotsoroon never sleep again!
-- **10573**: Spaaarkle! Spoooaaarkle! Ahahahaaa!
+- **10572**: Spaaarkle! Shiiiny! Spoooaaarkle! Too bright! Aaah! Tsotsoroon's eyes! Gold, gold! Shiiiny! Oooh!
+- **10573**: Tsotsoroon saw, Tsotsoroon saaaw! At Talacca Cooove! Mooountains of gold! Spaaarkly gold! Shiiiny gold! Tsotsoroon never sleep again!
+- **10574**: Spaaarkle! Spoooaaarkle! Ahahahaaa!
 
 ## Events
 
@@ -119,15 +119,15 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=843*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=10571*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=10572*)
     → "Spaaarkle! Shiiiny! Spoooaaarkle! Too bright! Aaah! Tsotsoroon's eyes! Gold, gold! Shiiiny! Oooh!"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10572*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10573*)
     → "Tsotsoroon saw, Tsotsoroon saaaw! At Talacca Cooove! Mooountains of gold! Spaaarkly gold! Shiiiny gold! Tsotsoroon never sleep again!"
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [EventEntity, EventEntity], work=843*
   8: 0x002F [0x1C] WAIT(30* ticks)
-  9: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=10573*)
+  9: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=10574*)
     → "Spaaarkle! Spoooaaarkle! Ahahahaaa!"
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x21] END_EVENT

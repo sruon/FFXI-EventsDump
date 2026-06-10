@@ -36,15 +36,15 @@
 |      13 | 0x0005      |           5 |
 |      14 | 0x0006      |           6 |
 |      15 | 0x0007      |           7 |
-|      16 | 0x1DC8      |        7624 |
-|      17 | 0x1DC9      |        7625 |
-|      18 | 0x1DCA      |        7626 |
+|      16 | 0x1DC9      |        7625 |
+|      17 | 0x1DCA      |        7626 |
+|      18 | 0x1DCB      |        7627 |
 
 ## String References
 
-- **7624**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]
-- **7625**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Regen./@Refresh./@Double Attack +2%/@Haste +2%/@Beefed-up Dual Wield (3%)/@Store TP +5/@Subtle Blow +5/@@@"Blood Pact" ability delay -5/@Avatar perpetuation cost -1/@Charm +5/@Song spellcasting time -10%/@Beefed-up Fast Cast (5%)/@Critical hit rate +3%/@Magic Accuracy Bonus +5/@Magic Attack Bonus +5/@Is dat all ya got?]
-- **7626**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Pet: Accuracy +10/@Pet: Attack +10/@Pet: Magic Accuracy Bonus +10/@Pet: Magic Attack Bonus +5/@Pet: Critical hit rate +3%/@I sez, what else ya got?]
+- **7625**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]
+- **7626**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Regen./@Refresh./@Double Attack +2%/@Haste +2%/@Beefed-up Dual Wield (3%)/@Store TP +5/@Subtle Blow +5/@@@"Blood Pact" ability delay -5/@Avatar perpetuation cost -1/@Charm +5/@Song spellcasting time -10%/@Beefed-up Fast Cast (5%)/@Critical hit rate +3%/@Magic Accuracy Bonus +5/@Magic Attack Bonus +5/@Is dat all ya got?]
+- **7627**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Pet: Accuracy +10/@Pet: Attack +10/@Pet: Magic Accuracy Bonus +10/@Pet: Magic Attack Bonus +5/@Pet: Critical hit rate +3%/@I sez, what else ya got?]
 
 ## Events
 
@@ -211,7 +211,7 @@ SUBROUTINE_0048:
      0x0157 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=5*, target=ExtData[1]->WorkLocal[0], source=ExtData[1]->WorkLocal[9])
      0x0160 [0x40] SET_BIT_WORK_RANGE(start_bit=6*, end_bit=7*, target=ExtData[1]->WorkLocal[0], source=ExtData[1]->WorkLocal[8])
      0x0169 [0x1B] RETURN
-     0x016A [0x24] CREATE_DIALOG(message_id=7624*, default_option=0*, option_flags=0*)
+     0x016A [0x24] CREATE_DIALOG(message_id=7625*, default_option=0*, option_flags=0*)
     → "[First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]"
      0x0171 [0x25] WAIT_DIALOG_SELECT()
      0x0172 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0182
@@ -220,7 +220,7 @@ SUBROUTINE_0048:
      0x0182 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
      0x0187 [0x05] ExtData[1]->WorkLocal[7] = 1
      0x018A [0x1B] RETURN
-     0x018B [0x24] CREATE_DIALOG(message_id=7625*, default_option=0*, option_flags=0*)
+     0x018B [0x24] CREATE_DIALOG(message_id=7626*, default_option=0*, option_flags=0*)
     → "[First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Regen./@Refresh./@Double Attack +2%/@Haste +2%/@Beefed-up Dual Wield (3%)/@Store TP +5/@Subtle Blow +5/@@@"Blood Pact" ability delay -5/@Avatar perpetuation cost -1/@Charm +5/@Song spellcasting time -10%/@Beefed-up Fast Cast (5%)/@Critical hit rate +3%/@Magic Accuracy Bonus +5/@Magic Attack Bonus +5/@Is dat all ya got?]"
      0x0192 [0x25] WAIT_DIALOG_SELECT()
      0x0193 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x01A3
@@ -229,7 +229,7 @@ SUBROUTINE_0048:
      0x01A3 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
      0x01A8 [0x05] ExtData[1]->WorkLocal[7] = 1
      0x01AB [0x1B] RETURN
-     0x01AC [0x24] CREATE_DIALOG(message_id=7626*, default_option=0*, option_flags=0*)
+     0x01AC [0x24] CREATE_DIALOG(message_id=7627*, default_option=0*, option_flags=0*)
     → "[First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./@Pet: Accuracy +10/@Pet: Attack +10/@Pet: Magic Accuracy Bonus +10/@Pet: Magic Attack Bonus +5/@Pet: Critical hit rate +3%/@I sez, what else ya got?]"
      0x01B3 [0x25] WAIT_DIALOG_SELECT()
      0x01B4 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01C4

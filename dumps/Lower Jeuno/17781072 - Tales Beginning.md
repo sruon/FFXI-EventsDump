@@ -23,30 +23,30 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0007      |           7 |
-|       2 | 0x2C50      |       11344 |
-|       3 | 0x2C51      |       11345 |
+|       2 | 0x2C51      |       11345 |
+|       3 | 0x2C52      |       11346 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x2C4E      |       11342 |
-|       6 | 0x2C4F      |       11343 |
+|       5 | 0x2C4F      |       11343 |
+|       6 | 0x2C50      |       11344 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0004      |           4 |
 |      10 | 0x0005      |           5 |
 |      11 | 0x0006      |           6 |
 |      12 | 0x5D56      |       23894 |
-|      13 | 0x2C52      |       11346 |
+|      13 | 0x2C53      |       11347 |
 |      14 | 0x0D28      |        3368 |
-|      15 | 0x18FC      |        6396 |
+|      15 | 0x18FD      |        6397 |
 |      16 | 0x00C8      |         200 |
 
 ## String References
 
-- **6396**: Obtained key item: 3.
-- **11342**: Would you like to start a new storyline that you previously postponed?
-- **11343**: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-- **11344**: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-- **11345**: Start the storyline? [Yes, please./No, thank you.]
-- **11346**: Your $0 begin to quiver!
+- **6397**: Obtained key item: 3.
+- **11343**: Would you like to start a new storyline that you previously postponed?
+- **11344**: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+- **11345**: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+- **11346**: Start the storyline? [Yes, please./No, thank you.]
+- **11347**: Your $0 begin to quiver!
 
 ## Events
 
@@ -109,10 +109,10 @@
   2: 0x000B [0x02] IF !(ExtData[1]->WorkLocal[0] <= 7*) GOTO 0x0018
   3: 0x0013 [0x03] ExtData[1]->WorkLocal[0] = 7*
   4: 0x0018 [0x02] IF !(Work_Zone[3] >= 1*) GOTO 0x004F
-  5: 0x0020 [0x48] [System] [11344*]:
-    → "Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promthia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?"
+  5: 0x0020 [0x48] [System] [11345*]:
+    → "Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?"
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0024 [0x24] CREATE_DIALOG(message_id=11345*, default_option=1*, option_flags=0*)
+  7: 0x0024 [0x24] CREATE_DIALOG(message_id=11346*, default_option=1*, option_flags=0*)
     → "Start the storyline? [Yes, please./No, thank you.]"
   8: 0x002B [0x25] WAIT_DIALOG_SELECT()
   9: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003C
@@ -124,10 +124,10 @@
 
 SUBROUTINE_004C:
  15: 0x004C [0x01] GOTO 0x00DB
- 16: 0x004F [0x48] [System] [11342*]:
+ 16: 0x004F [0x48] [System] [11343*]:
     → "Would you like to start a new storyline that you previously postponed?"
  17: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0053 [0x24] CREATE_DIALOG(message_id=11343*, default_option=0*, option_flags=Work_Zone[3])
+ 18: 0x0053 [0x24] CREATE_DIALOG(message_id=11344*, default_option=0*, option_flags=Work_Zone[3])
     → "Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]"
  19: 0x005A [0x25] WAIT_DIALOG_SELECT()
  20: 0x005B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B
@@ -186,12 +186,12 @@ SUBROUTINE_00DB:
 ```
   0: 0x00DF [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00E0 [0x03] Work_Zone[2] = 23894*
-  2: 0x00E5 [0x48] [System] [11346*]:
+  2: 0x00E5 [0x48] [System] [11347*]:
     → "Your $0 begin to quiver!"
   3: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00E9 [0x03] Work_Zone[2] = 3368*
   5: 0x00EE [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=Work_Zone[2])
-  6: 0x00F2 [0x48] [System] [6396*]:
+  6: 0x00F2 [0x48] [System] [6397*]:
     → "Obtained key item: 3."
   7: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00F6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x20 - Event item window create/destroy, window_action=0*)

@@ -49,23 +49,23 @@
 |      21 | 0xFFFFD840  |  4294957120 |
 |      22 | 0x0CFC      |        3324 |
 |      23 | 0xFFFFFFFF  |  4294967295 |
-|      24 | 0x1CD1      |        7377 |
-|      25 | 0x1CCF      |        7375 |
-|      26 | 0x1CFC      |        7420 |
+|      24 | 0x1CD2      |        7378 |
+|      25 | 0x1CD0      |        7376 |
+|      26 | 0x1CFD      |        7421 |
 |      27 | 0x003F      |          63 |
 |      28 | 0x0020      |          32 |
-|      29 | 0x1CF9      |        7417 |
-|      30 | 0x1CFA      |        7418 |
-|      31 | 0x1CFB      |        7419 |
+|      29 | 0x1CFA      |        7418 |
+|      30 | 0x1CFB      |        7419 |
+|      31 | 0x1CFC      |        7420 |
 |      32 | 0x0003      |           3 |
 |      33 | 0x1072      |        4210 |
 |      34 | 0x1074      |        4212 |
 |      35 | 0x14B8      |        5304 |
 |      36 | 0x14B9      |        5305 |
-|      37 | 0x1CFE      |        7422 |
+|      37 | 0x1CFF      |        7423 |
 |      38 | 0x40000000  |  1073741824 |
 |      39 | 0x001F      |          31 |
-|      40 | 0x1CFF      |        7423 |
+|      40 | 0x1D00      |        7424 |
 |      41 | 0x03E8      |        1000 |
 |      42 | 0x0004      |           4 |
 |      43 | 0x0005      |           5 |
@@ -162,14 +162,14 @@
 
 ## String References
 
-- **7375**: Contributing a total of $7 [Petra/Petras] for the [Wyverns/Griffons], today's high scorer is %0!
-- **7377**: You scored $4 [Petra/Petras].
-- **7417**: You find the temporary item: $0!
-- **7418**: You find $0, but you cannot carry any more temporary items.
-- **7419**: You find $0, but you cannot carry more than one of that temporary item.
-- **7420**: You find a Petra! [Keep it./Throw it away.]
-- **7422**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
-- **7423**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+- **7376**: Contributing a total of $7 [Petra/Petras] for the [Wyverns/Griffons], today's high scorer is %0!
+- **7378**: You scored $4 [Petra/Petras].
+- **7418**: You find the temporary item: $0!
+- **7419**: You find $0, but you cannot carry any more temporary items.
+- **7420**: You find $0, but you cannot carry more than one of that temporary item.
+- **7421**: You find a Petra! [Keep it./Throw it away.]
+- **7423**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+- **7424**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
 
 ## Events
 
@@ -359,11 +359,11 @@
   3: 0x01A2 [0x47] UPDATE_PLAYER_POS(Work_Zone[2], Work_Zone[3], Work_Zone[4], yaw=Work_Zone[5])
   4: 0x01AC [0x47] WAIT_PLAYER_POS_UPDATE
   5: 0x01AE [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x01C6
-  6: 0x01B6 [0x48] [System] [7377*]:
+  6: 0x01B6 [0x48] [System] [7378*]:
     → "You scored $4 [Petra/Petras]."
   7: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01BA [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01C6
-  9: 0x01C2 [0x48] [System] [7375*]:
+  9: 0x01C2 [0x48] [System] [7376*]:
     → "Contributing a total of $7 [Petra/Petras] for the [Wyverns/Griffons], today's high scorer is %0!"
  10: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x01C6 [0x21] END_EVENT
@@ -392,7 +392,7 @@
 
 ```
   0: 0x01C8 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01CA [0x24] CREATE_DIALOG(message_id=7420*, default_option=1*, option_flags=0*)
+  1: 0x01CA [0x24] CREATE_DIALOG(message_id=7421*, default_option=1*, option_flags=0*)
     → "You find a Petra! [Keep it./Throw it away.]"
   2: 0x01D1 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E3
@@ -718,19 +718,19 @@ SUBROUTINE_022D:
  18: 0x0240 [0x06] ExtData[1]->WorkLocal[16] = 0
  19: 0x0243 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
  20: 0x0248 [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x025C
- 21: 0x0250 [0x48] [System] [7417*]:
+ 21: 0x0250 [0x48] [System] [7418*]:
     → "You find the temporary item: $0!"
  22: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0254 [0x03] ExtData[1]->WorkLocal[16] = 2*
  24: 0x0259 [0x01] GOTO 0x0284
  25: 0x025C [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x0270
- 26: 0x0264 [0x48] [System] [7418*]:
+ 26: 0x0264 [0x48] [System] [7419*]:
     → "You find $0, but you cannot carry any more temporary items."
  27: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0268 [0x03] ExtData[1]->WorkLocal[16] = 1*
  29: 0x026D [0x01] GOTO 0x0284
  30: 0x0270 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x0284
- 31: 0x0278 [0x48] [System] [7419*]:
+ 31: 0x0278 [0x48] [System] [7420*]:
     → "You find $0, but you cannot carry more than one of that temporary item."
  32: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x027C [0x03] ExtData[1]->WorkLocal[16] = 3*
@@ -756,7 +756,7 @@ SUBROUTINE_0284:
 SUBROUTINE_02C5:
  50: 0x02C5 [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x02D4
  51: 0x02CD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=2*, condition_work_offset=1*)
- 52: 0x02D4 [0x24] CREATE_DIALOG(message_id=7422*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+ 52: 0x02D4 [0x24] CREATE_DIALOG(message_id=7423*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]"
  53: 0x02DB [0x25] WAIT_DIALOG_SELECT()
  54: 0x02DC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02EC
@@ -816,7 +816,7 @@ SUBROUTINE_0368:
 106: 0x0399 [0x01] GOTO 0x0368
 107: 0x039C [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[18]
 108: 0x03A1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=31*, condition_work_offset=1*)
-109: 0x03A8 [0x24] CREATE_DIALOG(message_id=7423*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+109: 0x03A8 [0x24] CREATE_DIALOG(message_id=7424*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]"
 110: 0x03AF [0x25] WAIT_DIALOG_SELECT()
 111: 0x03B0 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x03BE

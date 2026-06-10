@@ -25,31 +25,31 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2242      |        8770 |
+|       2 | 0x2243      |        8771 |
 |       3 | 0x0010      |          16 |
 |       4 | 0x0018      |          24 |
 |       5 | 0x001F      |          31 |
 |       6 | 0x40000000  |  1073741824 |
-|       7 | 0x2253      |        8787 |
-|       8 | 0x225A      |        8794 |
-|       9 | 0x2245      |        8773 |
+|       7 | 0x2254      |        8788 |
+|       8 | 0x225B      |        8795 |
+|       9 | 0x2246      |        8774 |
 |      10 | 0x000B      |          11 |
-|      11 | 0x2247      |        8775 |
-|      12 | 0x225E      |        8798 |
-|      13 | 0x2260      |        8800 |
-|      14 | 0x225D      |        8797 |
-|      15 | 0x225F      |        8799 |
-|      16 | 0x2261      |        8801 |
+|      11 | 0x2248      |        8776 |
+|      12 | 0x225F      |        8799 |
+|      13 | 0x2261      |        8801 |
+|      14 | 0x225E      |        8798 |
+|      15 | 0x2260      |        8800 |
+|      16 | 0x2262      |        8802 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x2244      |        8772 |
-|      19 | 0x2246      |        8774 |
-|      20 | 0x226D      |        8813 |
-|      21 | 0x2274      |        8820 |
+|      18 | 0x2245      |        8773 |
+|      19 | 0x2247      |        8775 |
+|      20 | 0x226E      |        8814 |
+|      21 | 0x2275      |        8821 |
 |      22 | 0x0003      |           3 |
 |      23 | 0x0008      |           8 |
 |      24 | 0x000F      |          15 |
 |      25 | 0x0032      |          50 |
-|      26 | 0x2277      |        8823 |
+|      26 | 0x2278      |        8824 |
 |      27 | 0x0004      |           4 |
 |      28 | 0x0005      |           5 |
 |      29 | 0x0006      |           6 |
@@ -62,21 +62,21 @@
 
 ## String References
 
-- **8770**: Attempt which? (Auto-transport: [off/on]) [None./Sortie./././././././././././././././Toggle auto-transport.]
-- **8772**: Only party members present with you in this area will be transported to [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8773**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **8774**: Entering [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8775**: You have chosen not to [apply to/enter] [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8787**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **8794**: Applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
-- **8797**: You are currently number in line to be drawn into this nightmare.
-- **8798**: You are currently number in line, with in front of you.
-- **8799**: Prepare yourselves! The battlefield is almost ready!
-- **8800**: You are currently applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
-- **8801**: Your number: . (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **8813**: Debug menu. [Check information./View applicants./Create./Change maximum limit./Clear applications./Automatically create./Check issued tickets./Close dialogue.]
-- **8820**: Create [ASSIGN 1 : [standby/make/retry/rest/suspend]/ASSIGN 2 : [standby/make/retry/rest/suspend]/ASSIGN 3 : [standby/make/retry/rest/suspend]/Close menu.]
-- **8823**: Designate a value between $0 and $1.
+- **8771**: Attempt which? (Auto-transport: [off/on]) [None./Sortie./././././././././././././././Toggle auto-transport.]
+- **8773**: Only party members present with you in this area will be transported to [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8774**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **8775**: Entering [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8776**: You have chosen not to [apply to/enter] [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8788**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **8795**: Applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?
+- **8798**: You are currently number in line to be drawn into this nightmare.
+- **8799**: You are currently number in line, with in front of you.
+- **8800**: Prepare yourselves! The battlefield is almost ready!
+- **8801**: You are currently applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **8802**: Your number: . (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **8814**: Debug menu. [Check information./View applicants./Create./Change maximum limit./Clear applications./Automatically create./Check issued tickets./Close dialogue.]
+- **8821**: Create [ASSIGN 1 : [standby/make/retry/rest/suspend]/ASSIGN 2 : [standby/make/retry/rest/suspend]/ASSIGN 3 : [standby/make/retry/rest/suspend]/Close menu.]
+- **8824**: Designate a value between $0 and $1.
 
 ## Events
 
@@ -146,7 +146,7 @@
   8: 0x0026 [0x03] ExtData[1]->WorkLocal[3] = 0*
   9: 0x002B [0x03] ExtData[1]->WorkLocal[1] = 0*
  10: 0x0030 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
- 11: 0x0035 [0x24] CREATE_DIALOG(message_id=8770*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 11: 0x0035 [0x24] CREATE_DIALOG(message_id=8771*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Attempt which? (Auto-transport: [off/on]) [None./Sortie./././././././././././././././Toggle auto-transport.]"
  12: 0x003C [0x25] WAIT_DIALOG_SELECT()
  13: 0x003D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004D
@@ -167,14 +167,14 @@ SUBROUTINE_006F:
 
 SUBROUTINE_0087:
  26: 0x0087 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 27: 0x008C [0x48] [System] [8787*]:
+ 27: 0x008C [0x48] [System] [8788*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  28: 0x008F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 29: 0x0094 [0x48] [System] [8794*]:
+ 29: 0x0094 [0x48] [System] [8795*]:
     → "Applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]. You will be unable to participate if you add any more party members. Are you sure?"
  30: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0098 [0x03] Work_Zone[3] = 0*
- 32: 0x009D [0x24] CREATE_DIALOG(message_id=8773*, default_option=0*, option_flags=0*)
+ 32: 0x009D [0x24] CREATE_DIALOG(message_id=8774*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  33: 0x00A4 [0x25] WAIT_DIALOG_SELECT()
  34: 0x00A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CD
@@ -188,7 +188,7 @@ SUBROUTINE_0087:
  42: 0x00CD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  43: 0x00D2 [0x03] Work_Zone[3] = 0*
  44: 0x00D7 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[3]
- 45: 0x00DC [0x48] [System] [8775*]:
+ 45: 0x00DC [0x48] [System] [8776*]:
     → "You have chosen not to [apply to/enter] [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  46: 0x00DF [0x03] Work_Zone[1] = 1073741824*
  47: 0x00E4 [0x21] END_EVENT
@@ -235,26 +235,26 @@ SUBROUTINE_00E6:
   0: 0x00E8 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[4]
   1: 0x00ED [0x03] Work_Zone[4] = Work_Zone[6]
   2: 0x00F2 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x0101
-  3: 0x00FA [0x48] [System] [8798*]:
+  3: 0x00FA [0x48] [System] [8799*]:
     → "You are currently number in line, with in front of you."
   4: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00FE [0x01] GOTO 0x0105
-  6: 0x0101 [0x48] [System] [8800*]:
+  6: 0x0101 [0x48] [System] [8801*]:
     → "You are currently applying to enter [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   7: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0105:
   8: 0x0105 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[18]
-  9: 0x010A [0x48] [System] [8797*]:
+  9: 0x010A [0x48] [System] [8798*]:
     → "You are currently number in line to be drawn into this nightmare."
  10: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x010E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0121
- 12: 0x0116 [0x48] [System] [8799*]:
+ 12: 0x0116 [0x48] [System] [8800*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  13: 0x0119 [0x03] Work_Zone[1] = 1073741824*
  14: 0x011E [0x01] GOTO 0x0153
  15: 0x0121 [0x03] Work_Zone[2] = 1*
- 16: 0x0126 [0x24] CREATE_DIALOG(message_id=8801*, default_option=1*, option_flags=0*)
+ 16: 0x0126 [0x24] CREATE_DIALOG(message_id=8802*, default_option=1*, option_flags=0*)
     → "Your number: . (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  17: 0x012D [0x25] WAIT_DIALOG_SELECT()
  18: 0x012E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013E
@@ -298,11 +298,11 @@ SUBROUTINE_0153:
   0: 0x0155 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0156 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[2]
   2: 0x015B [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[4]
-  3: 0x0160 [0x48] [System] [8772*]:
+  3: 0x0160 [0x48] [System] [8773*]:
     → "Only party members present with you in this area will be transported to [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   4: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0164 [0x03] Work_Zone[3] = 1*
-  6: 0x0169 [0x24] CREATE_DIALOG(message_id=8773*, default_option=0*, option_flags=0*)
+  6: 0x0169 [0x24] CREATE_DIALOG(message_id=8774*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
   7: 0x0170 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0171 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AB
@@ -312,7 +312,7 @@ SUBROUTINE_0153:
  12: 0x0182 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01A3
  13: 0x018A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
  14: 0x018F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[16]
- 15: 0x0194 [0x48] [System] [8774*]:
+ 15: 0x0194 [0x48] [System] [8775*]:
     → "Entering [/Sortie][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
  16: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0198 [0x1A] CALL_SUBROUTINE(address=0x031A)
@@ -382,7 +382,7 @@ SUBROUTINE_01B0:
   2: 0x01BC [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[4]
   3: 0x01C1 [0x05] ExtData[1]->WorkLocal[10] = 1
   4: 0x01C4 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0318
-  5: 0x01CC [0x24] CREATE_DIALOG(message_id=8813*, default_option=0*, option_flags=0*)
+  5: 0x01CC [0x24] CREATE_DIALOG(message_id=8814*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Create./Change maximum limit./Clear applications./Automatically create./Check issued tickets./Close dialogue.]"
   6: 0x01D3 [0x25] WAIT_DIALOG_SELECT()
   7: 0x01D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E8
@@ -399,7 +399,7 @@ SUBROUTINE_01B0:
  18: 0x0204 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
  19: 0x0209 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[20]
  20: 0x020E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[21]
- 21: 0x0213 [0x24] CREATE_DIALOG(message_id=8820*, default_option=0*, option_flags=0*)
+ 21: 0x0213 [0x24] CREATE_DIALOG(message_id=8821*, default_option=0*, option_flags=0*)
     → "Create [ASSIGN 1 : [standby/make/retry/rest/suspend]/ASSIGN 2 : [standby/make/retry/rest/suspend]/ASSIGN 3 : [standby/make/retry/rest/suspend]/Close menu.]"
  22: 0x021A [0x25] WAIT_DIALOG_SELECT()
  23: 0x021B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x022B
@@ -427,7 +427,7 @@ SUBROUTINE_0253:
  43: 0x027F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02B3
  44: 0x0287 [0x03] Work_Zone[2] = 1*
  45: 0x028C [0x03] Work_Zone[3] = 50*
- 46: 0x0291 [0x48] [System] [8823*]:
+ 46: 0x0291 [0x48] [System] [8824*]:
     → "Designate a value between $0 and $1."
  47: 0x0294 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  48: 0x029A [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -444,7 +444,7 @@ SUBROUTINE_0253:
  59: 0x02C7 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02FE
  60: 0x02CF [0x03] Work_Zone[2] = 1*
  61: 0x02D4 [0x03] Work_Zone[3] = 50*
- 62: 0x02D9 [0x48] [System] [8823*]:
+ 62: 0x02D9 [0x48] [System] [8824*]:
     → "Designate a value between $0 and $1."
  63: 0x02DC [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  64: 0x02E2 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])

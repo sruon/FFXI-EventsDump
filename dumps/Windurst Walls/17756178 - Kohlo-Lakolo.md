@@ -115,20 +115,20 @@
 |      19 | 0x4290C     |      272652 |
 |      20 | 0x0C7B      |        3195 |
 |      21 | 0x0064      |         100 |
-|      22 | 0x1E81      |        7809 |
-|      23 | 0x1E82      |        7810 |
-|      24 | 0x1E83      |        7811 |
-|      25 | 0x1E85      |        7813 |
-|      26 | 0x1E86      |        7814 |
-|      27 | 0x1E89      |        7817 |
-|      28 | 0x1E8E      |        7822 |
-|      29 | 0x1E91      |        7825 |
-|      30 | 0x1E98      |        7832 |
-|      31 | 0x1E99      |        7833 |
-|      32 | 0x1E9A      |        7834 |
-|      33 | 0x1E9B      |        7835 |
-|      34 | 0x1E9C      |        7836 |
-|      35 | 0x1EAF      |        7855 |
+|      22 | 0x1E82      |        7810 |
+|      23 | 0x1E83      |        7811 |
+|      24 | 0x1E84      |        7812 |
+|      25 | 0x1E86      |        7814 |
+|      26 | 0x1E87      |        7815 |
+|      27 | 0x1E8A      |        7818 |
+|      28 | 0x1E8F      |        7823 |
+|      29 | 0x1E92      |        7826 |
+|      30 | 0x1E99      |        7833 |
+|      31 | 0x1E9A      |        7834 |
+|      32 | 0x1E9B      |        7835 |
+|      33 | 0x1E9C      |        7836 |
+|      34 | 0x1E9D      |        7837 |
+|      35 | 0x1EB0      |        7856 |
 |      36 | 0xFFFF8FD4  |  4294938580 |
 |      37 | 0x45A1F     |      285215 |
 |      38 | 0xFFFFCD39  |  4294954297 |
@@ -143,12 +143,12 @@
 |      47 | 0xFFFFCD38  |  4294954296 |
 |      48 | 0xFFFF905B  |  4294938715 |
 |      49 | 0x45572     |      284018 |
-|      50 | 0x1E9D      |        7837 |
-|      51 | 0x1EA6      |        7846 |
-|      52 | 0x1EA8      |        7848 |
-|      53 | 0x1EAA      |        7850 |
-|      54 | 0x1EAC      |        7852 |
-|      55 | 0x1EAD      |        7853 |
+|      50 | 0x1E9E      |        7838 |
+|      51 | 0x1EA7      |        7847 |
+|      52 | 0x1EA9      |        7849 |
+|      53 | 0x1EAB      |        7851 |
+|      54 | 0x1EAD      |        7853 |
+|      55 | 0x1EAE      |        7854 |
 |      56 | 0xFFFF9A72  |  4294941298 |
 |      57 | 0x3FCF4     |      261364 |
 |      58 | 0x049A      |        1178 |
@@ -159,9 +159,9 @@
 |      63 | 0xFFFF6844  |  4294928452 |
 |      64 | 0x3B5A8     |      243112 |
 |      65 | 0xFFFFCF2D  |  4294954797 |
-|      66 | 0x1EBA      |        7866 |
-|      67 | 0x1EBF      |        7871 |
-|      68 | 0x1EC0      |        7872 |
+|      66 | 0x1EBB      |        7867 |
+|      67 | 0x1EC0      |        7872 |
+|      68 | 0x1EC1      |        7873 |
 |      69 | 0xFFFF9B01  |  4294941441 |
 |      70 | 0x407D1     |      264145 |
 |      71 | 0xFFFFB9B1  |  4294949297 |
@@ -182,54 +182,54 @@
 |      86 | 0x0BEA      |        3050 |
 |      87 | 0xFFFF9AE2  |  4294941410 |
 |      88 | 0x3F3EF     |      259055 |
-|      89 | 0x1E60      |        7776 |
-|      90 | 0x1E61      |        7777 |
-|      91 | 0x1E62      |        7778 |
-|      92 | 0x1E63      |        7779 |
-|      93 | 0x1E65      |        7781 |
-|      94 | 0x1E67      |        7783 |
-|      95 | 0x1E6C      |        7788 |
-|      96 | 0x1E72      |        7794 |
-|      97 | 0x1E73      |        7795 |
-|      98 | 0x1E79      |        7801 |
-|      99 | 0x1E7A      |        7802 |
+|      89 | 0x1E61      |        7777 |
+|      90 | 0x1E62      |        7778 |
+|      91 | 0x1E63      |        7779 |
+|      92 | 0x1E64      |        7780 |
+|      93 | 0x1E66      |        7782 |
+|      94 | 0x1E68      |        7784 |
+|      95 | 0x1E6D      |        7789 |
+|      96 | 0x1E73      |        7795 |
+|      97 | 0x1E74      |        7796 |
+|      98 | 0x1E7A      |        7802 |
+|      99 | 0x1E7B      |        7803 |
 
 ## String References
 
-- **7776**: I was able to make some pretty cool stinky-bombs with the $1 you brought us!
-- **7777**: Star Onion Brigade, attentio\`n! "Operation Onion" will now begin!
-- **7778**: The trap is set, and we're all in position! Now all we have to do is wait for the Cat Burglar to show!
-- **7779**: Oi! Whoever's in charge of candy provisions! How about you deal out some candy now?
-- **7781**: You idiot! You're pushing for a dishonorable discharge from the Star Onion Brigade for forgetting your candy responsibilities!
-- **7783**: Wait till you see the whites of her eyes, then let her have it with our onion stinky-bombs!!!
-- **7788**: Everybody, CHAAAAARRRGE!
-- **7794**: (I think we knocked her out...!)
-- **7795**: (Good. Now let's quietly approach her and tie her up with our ropey-rope!)
-- **7801**: Waaa\`rgh!
-- **7802**: Run for your li\`ves!
-- **7809**: Ta-da\`! The Star Onion Brigade is on the scene!
-- **7810**: Nanaa Mihgo! Otherwise known as the Cat Burglar! We're on your tail now!
-- **7811**: We're not letting you out of here until you promise to give up your evil ways for good!
-- **7813**: Bite your tongue! We're very busy-wusy fighting crime, you know?
-- **7814**: We're the ones who solve all of Windurst's problems that grown-ups turn a blind eye to!
-- **7817**: Huh? Is that true?
-- **7822**: ......
-- **7825**: Did the door just lock...?
-- **7832**: ......
-- **7833**: Zoinks...!
-- **7834**: E-e-e-every-one re-m-m-main c-c-calm!
-- **7835**: Th-there's no-no-no s-s-such th-things as g-ghosties! The C-cat Burglar is j-just trying t-to s-scare us!
-- **7836**: Th-there's got to be a perfectly reasonable explanation for this! L-let's check out where the s-sound came from...e-everyone!
-- **7837**: Looky-see... There's a gap behind this bookshelf!
-- **7846**: A corpse!?
-- **7848**: No, Pichichi! Keep back! It's too dangerous!
-- **7850**: I, erh, guess not...but a ghosty may come out of it!
-- **7852**: Um... Either way, I don't think it's wise to find out!
-- **7853**: Ah...!
-- **7855**: Wo-wo-wo-wo-whoah!
-- **7866**: Yet another close call for the Star Onion Brigade!
-- **7871**: And thanks to Joker, we were able to escape!
-- **7872**: Well, that was more than enough adventure for today... Let's all head back to Star Onion headquarters at the port.
+- **7777**: I was able to make some pretty cool stinky-bombs with the $1 you brought us!
+- **7778**: Star Onion Brigade, attentio\`n! "Operation Onion" will now begin!
+- **7779**: The trap is set, and we're all in position! Now all we have to do is wait for the Cat Burglar to show!
+- **7780**: Oi! Whoever's in charge of candy provisions! How about you deal out some candy now?
+- **7782**: You idiot! You're pushing for a dishonorable discharge from the Star Onion Brigade for forgetting your candy responsibilities!
+- **7784**: Wait till you see the whites of her eyes, then let her have it with our onion stinky-bombs!!!
+- **7789**: Everybody, CHAAAAARRRGE!
+- **7795**: (I think we knocked her out...!)
+- **7796**: (Good. Now let's quietly approach her and tie her up with our ropey-rope!)
+- **7802**: Waaa\`rgh!
+- **7803**: Run for your li\`ves!
+- **7810**: Ta-da\`! The Star Onion Brigade is on the scene!
+- **7811**: Nanaa Mihgo! Otherwise known as the Cat Burglar! We're on your tail now!
+- **7812**: We're not letting you out of here until you promise to give up your evil ways for good!
+- **7814**: Bite your tongue! We're very busy-wusy fighting crime, you know?
+- **7815**: We're the ones who solve all of Windurst's problems that grown-ups turn a blind eye to!
+- **7818**: Huh? Is that true?
+- **7823**: ......
+- **7826**: Did the door just lock...?
+- **7833**: ......
+- **7834**: Zoinks...!
+- **7835**: E-e-e-every-one re-m-m-main c-c-calm!
+- **7836**: Th-there's no-no-no s-s-such th-things as g-ghosties! The C-cat Burglar is j-just trying t-to s-scare us!
+- **7837**: Th-there's got to be a perfectly reasonable explanation for this! L-let's check out where the s-sound came from...e-everyone!
+- **7838**: Looky-see... There's a gap behind this bookshelf!
+- **7847**: A corpse!?
+- **7849**: No, Pichichi! Keep back! It's too dangerous!
+- **7851**: I, erh, guess not...but a ghosty may come out of it!
+- **7853**: Um... Either way, I don't think it's wise to find out!
+- **7854**: Ah...!
+- **7856**: Wo-wo-wo-wo-whoah!
+- **7867**: Yet another close call for the Star Onion Brigade!
+- **7872**: And thanks to Joker, we were able to escape!
+- **7873**: Well, that was more than enough adventure for today... Let's all head back to Star Onion headquarters at the port.
 
 ## Events
 
@@ -997,7 +997,7 @@
 #### Opcodes
 
 ```
-  0: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7809*)
+  0: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
     → "Ta-da`! The Star Onion Brigade is on the scene!"
   1: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01EF [0x00] END_REQSTACK()
@@ -1025,12 +1025,12 @@
 
 ```
   0: 0x01F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x07)
-  1: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7810*)
+  1: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
     → "Nanaa Mihgo! Otherwise known as the Cat Burglar! We're on your tail now!"
   2: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x08)
   4: 0x0202 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  5: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=7811*)
+  5: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=7812*)
     → "We're not letting you out of here until you promise to give up your evil ways for good!"
   6: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x020D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1058,10 +1058,10 @@
 
 ```
   0: 0x0215 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x09)
-  1: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+  1: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "Bite your tongue! We're very busy-wusy fighting crime, you know?"
   2: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
+  3: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
     → "We're the ones who solve all of Windurst's problems that grown-ups turn a blind eye to!"
   4: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0224 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0A)
@@ -1088,7 +1088,7 @@
 #### Opcodes
 
 ```
-  0: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+  0: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "Huh? Is that true?"
   1: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0230 [0x00] END_REQSTACK()
@@ -1113,7 +1113,7 @@
 #### Opcodes
 
 ```
-  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
+  0: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
     → "......"
   1: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0235 [0x00] END_REQSTACK()
@@ -1138,7 +1138,7 @@
 #### Opcodes
 
 ```
-  0: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+  0: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "Did the door just lock...?"
   1: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x023A [0x00] END_REQSTACK()
@@ -1163,7 +1163,7 @@
 #### Opcodes
 
 ```
-  0: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+  0: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "......"
   1: 0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x023F [0x00] END_REQSTACK()
@@ -1188,7 +1188,7 @@
 #### Opcodes
 
 ```
-  0: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+  0: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
     → "Zoinks...!"
   1: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0244 [0x00] END_REQSTACK()
@@ -1215,7 +1215,7 @@
 
 ```
   0: 0x0245 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+  1: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "E-e-e-every-one re-m-m-main c-c-calm!"
   2: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0250 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1243,7 +1243,7 @@
 
 ```
   0: 0x0258 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  1: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "Th-there's no-no-no s-s-such th-things as g-ghosties! The C-cat Burglar is j-just trying t-to s-scare us!"
   2: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0263 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1271,7 +1271,7 @@
 
 ```
   0: 0x026B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  1: 0x0272 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "Th-there's got to be a perfectly reasonable explanation for this! L-let's check out where the s-sound came from...e-everyone!"
   2: 0x0275 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1298,7 +1298,7 @@
 #### Opcodes
 
 ```
-  0: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  0: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "Wo-wo-wo-wo-whoah!"
   1: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0282 [0x00] END_REQSTACK()
@@ -1453,7 +1453,7 @@
 #### Opcodes
 
 ```
-  0: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+  0: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "Looky-see... There's a gap behind this bookshelf!"
   1: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D1 [0x00] END_REQSTACK()
@@ -1480,7 +1480,7 @@
 
 ```
   0: 0x02D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x11)
-  1: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
+  1: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "A corpse!?"
   2: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02DD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x12)
@@ -1508,7 +1508,7 @@
 
 ```
   0: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0F)
-  1: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
+  1: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
     → "No, Pichichi! Keep back! It's too dangerous!"
   2: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x10)
@@ -1536,7 +1536,7 @@
 
 ```
   0: 0x02F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  1: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "I, erh, guess not...but a ghosty may come out of it!"
   2: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1565,7 +1565,7 @@
 
 ```
   0: 0x030B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x03)
-  1: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  1: 0x0312 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Um... Either way, I don't think it's wise to find out!"
   2: 0x0315 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0316 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x04)
@@ -1594,7 +1594,7 @@
 #### Opcodes
 
 ```
-  0: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+  0: 0x032C [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Ah...!"
   1: 0x032F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0330 [0x00] END_REQSTACK()
@@ -1678,7 +1678,7 @@
 
 ```
   0: 0x035D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+  1: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Yet another close call for the Star Onion Brigade!"
   2: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0368 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -1704,7 +1704,7 @@
 #### Opcodes
 
 ```
-  0: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  0: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "And thanks to Joker, we were able to escape!"
   1: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0374 [0x00] END_REQSTACK()
@@ -1729,7 +1729,7 @@
 #### Opcodes
 
 ```
-  0: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
+  0: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
     → "Well, that was more than enough adventure for today... Let's all head back to Star Onion headquarters at the port."
   1: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0379 [0x00] END_REQSTACK()
@@ -1909,7 +1909,7 @@
 #### Opcodes
 
 ```
-  0: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
+  0: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
     → "I was able to make some pretty cool stinky-bombs with the $1 you brought us!"
   1: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03DC [0x00] END_REQSTACK()
@@ -1935,7 +1935,7 @@
 #### Opcodes
 
 ```
-  0: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+  0: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
     → "Star Onion Brigade, attentio`n! "Operation Onion" will now begin!"
   1: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E1 [0x00] END_REQSTACK()
@@ -1960,7 +1960,7 @@
 #### Opcodes
 
 ```
-  0: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+  0: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "The trap is set, and we're all in position! Now all we have to do is wait for the Cat Burglar to show!"
   1: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E6 [0x00] END_REQSTACK()
@@ -1985,7 +1985,7 @@
 #### Opcodes
 
 ```
-  0: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
+  0: 0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
     → "Oi! Whoever's in charge of candy provisions! How about you deal out some candy now?"
   1: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03EB [0x00] END_REQSTACK()
@@ -2012,7 +2012,7 @@
 
 ```
   0: 0x03EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x09)
-  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+  1: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "You idiot! You're pushing for a dishonorable discharge from the Star Onion Brigade for forgetting your candy responsibilities!"
   2: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0A)
@@ -2039,7 +2039,7 @@
 #### Opcodes
 
 ```
-  0: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
+  0: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
     → "Wait till you see the whites of her eyes, then let her have it with our onion stinky-bombs!!!"
   1: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0403 [0x00] END_REQSTACK()
@@ -2066,7 +2066,7 @@
 
 ```
   0: 0x0404 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x11)
-  1: 0x040B [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+  1: 0x040B [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "Everybody, CHAAAAARRRGE!"
   2: 0x040E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x040F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x12)
@@ -2092,7 +2092,7 @@
 #### Opcodes
 
 ```
-  0: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+  0: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "(I think we knocked her out...!)"
   1: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x041B [0x00] END_REQSTACK()
@@ -2119,7 +2119,7 @@
 
 ```
   0: 0x041C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x01)
-  1: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+  1: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "(Good. Now let's quietly approach her and tie her up with our ropey-rope!)"
   2: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0427 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x02)
@@ -2148,7 +2148,7 @@
 
 ```
   0: 0x042F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0D)
-  1: 0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=7801*)
+  1: 0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
     → "Waaa`rgh!"
   2: 0x0439 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x043A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17756178/0x010EF012), tag_num=0x0E)
@@ -2174,7 +2174,7 @@
 #### Opcodes
 
 ```
-  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7802*)
+  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
     → "Run for your li`ves!"
   1: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0446 [0x00] END_REQSTACK()

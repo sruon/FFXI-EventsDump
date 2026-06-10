@@ -44,8 +44,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F77      |        8055 |
-|       3 | 0x1F78      |        8056 |
+|       2 | 0x1F78      |        8056 |
+|       3 | 0x1F79      |        8057 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0FA0      |        4000 |
@@ -91,7 +91,7 @@
 |      46 | 0x0027      |          39 |
 |      47 | 0x836E      |       33646 |
 |      48 | 0x0002      |           2 |
-|      49 | 0x1F87      |        8071 |
+|      49 | 0x1F88      |        8072 |
 |      50 | 0x0372      |         882 |
 |      51 | 0x0373      |         883 |
 |      52 | 0x0374      |         884 |
@@ -101,48 +101,48 @@
 |      56 | 0x0378      |         888 |
 |      57 | 0x0379      |         889 |
 |      58 | 0x037A      |         890 |
-|      59 | 0x1F79      |        8057 |
-|      60 | 0x1F83      |        8067 |
+|      59 | 0x1F7A      |        8058 |
+|      60 | 0x1F84      |        8068 |
 |      61 | 0x0003      |           3 |
-|      62 | 0x1F8F      |        8079 |
-|      63 | 0x1F94      |        8084 |
-|      64 | 0x1F95      |        8085 |
-|      65 | 0x1F96      |        8086 |
-|      66 | 0x1F97      |        8087 |
-|      67 | 0x1F99      |        8089 |
-|      68 | 0x1F9A      |        8090 |
-|      69 | 0x1F9B      |        8091 |
-|      70 | 0x1F9C      |        8092 |
-|      71 | 0x1F9D      |        8093 |
-|      72 | 0x1FAB      |        8107 |
-|      73 | 0x1FAC      |        8108 |
-|      74 | 0x1FAD      |        8109 |
+|      62 | 0x1F90      |        8080 |
+|      63 | 0x1F95      |        8085 |
+|      64 | 0x1F96      |        8086 |
+|      65 | 0x1F97      |        8087 |
+|      66 | 0x1F98      |        8088 |
+|      67 | 0x1F9A      |        8090 |
+|      68 | 0x1F9B      |        8091 |
+|      69 | 0x1F9C      |        8092 |
+|      70 | 0x1F9D      |        8093 |
+|      71 | 0x1F9E      |        8094 |
+|      72 | 0x1FAC      |        8108 |
+|      73 | 0x1FAD      |        8109 |
+|      74 | 0x1FAE      |        8110 |
 |      75 | 0x0004      |           4 |
-|      76 | 0x1FAE      |        8110 |
-|      77 | 0x1FAF      |        8111 |
-|      78 | 0x1FB0      |        8112 |
-|      79 | 0x1FB1      |        8113 |
-|      80 | 0x1FB2      |        8114 |
+|      76 | 0x1FAF      |        8111 |
+|      77 | 0x1FB0      |        8112 |
+|      78 | 0x1FB1      |        8113 |
+|      79 | 0x1FB2      |        8114 |
+|      80 | 0x1FB3      |        8115 |
 |      81 | 0x7A120     |      500000 |
 |      82 | 0xFFFFB1E0  |  4294947296 |
 |      83 | 0xFFFC8B3C  |  4294740796 |
 |      84 | 0x000F      |          15 |
 |      85 | 0x0010      |          16 |
 |      86 | 0xFFFFFFFF  |  4294967295 |
-|      87 | 0x1DDC      |        7644 |
-|      88 | 0x1DCE      |        7630 |
+|      87 | 0x1DDD      |        7645 |
+|      88 | 0x1DCF      |        7631 |
 |      89 | 0x0005      |           5 |
-|      90 | 0x1C61      |        7265 |
+|      90 | 0x1C62      |        7266 |
 |      91 | 0x00FF      |         255 |
 |      92 | 0x0013      |          19 |
 |      93 | 0x0008      |           8 |
 |      94 | 0x0009      |           9 |
 |      95 | 0x000B      |          11 |
-|      96 | 0x1C6C      |        7276 |
-|      97 | 0x1C6D      |        7277 |
-|      98 | 0x1C6E      |        7278 |
-|      99 | 0x1C6F      |        7279 |
-|     100 | 0x1C93      |        7315 |
+|      96 | 0x1C6D      |        7277 |
+|      97 | 0x1C6E      |        7278 |
+|      98 | 0x1C6F      |        7279 |
+|      99 | 0x1C70      |        7280 |
+|     100 | 0x1C94      |        7316 |
 |     101 | 0x0006      |           6 |
 |     102 | 0x0007      |           7 |
 |     103 | 0x000A      |          10 |
@@ -161,13 +161,13 @@
 |     116 | 0x001B      |          27 |
 |     117 | 0x001C      |          28 |
 |     118 | 0x001D      |          29 |
-|     119 | 0x1DC8      |        7624 |
+|     119 | 0x1DC9      |        7625 |
 |     120 | 0x003C      |          60 |
 |     121 | 0x0064      |         100 |
-|     122 | 0x1DB4      |        7604 |
+|     122 | 0x1DB5      |        7605 |
 |     123 | 0x008F      |         143 |
 |     124 | 0x00BA      |         186 |
-|     125 | 0x1C64      |        7268 |
+|     125 | 0x1C65      |        7269 |
 |     126 | 0x00C9      |         201 |
 |     127 | 0x00B4      |         180 |
 |     128 | 0xFFF6C42B  |  4294362155 |
@@ -234,10 +234,10 @@
 |     189 | 0xFFFFAA3A  |  4294945338 |
 |     190 | 0xFFFFFF06  |  4294967046 |
 |     191 | 0x0411      |        1041 |
-|     192 | 0x1DB6      |        7606 |
-|     193 | 0x1DB5      |        7605 |
-|     194 | 0x1DD6      |        7638 |
-|     195 | 0x1C62      |        7266 |
+|     192 | 0x1DB7      |        7607 |
+|     193 | 0x1DB6      |        7606 |
+|     194 | 0x1DD7      |        7639 |
+|     195 | 0x1C63      |        7267 |
 |     196 | 0x006C      |         108 |
 |     197 | 0x002D      |          45 |
 |     198 | 0x00D7      |         215 |
@@ -252,49 +252,49 @@
 |     207 | 0xFFFF529A  |  4294922906 |
 |     208 | 0x84A8      |       33960 |
 |     209 | 0x0078      |         120 |
-|     210 | 0x1F3C      |        7996 |
+|     210 | 0x1F3D      |        7997 |
 
 ## String References
 
-- **7265**: Enter the battlefield? [Enter./Decline.]
-- **7266**: Leave the battlefield? [Run away./Stay.]
-- **7268**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7276**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7266**: Enter the battlefield? [Enter./Decline.]
+- **7267**: Leave the battlefield? [Run away./Stay.]
+- **7269**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7277**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7278**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7279**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7315**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7604**: Skip the event? [Yes./No.]
-- **7605**: Battlefield clear time: $3 second[/s]!
-- **7606**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7624**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7630**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7638**: You have broken the clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]"!
-- **7644**: Which battlefield will you enter? [None./[The Rider Cometh/Unwavering Resolve/A Stygian Pact]./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
-- **7996**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
-- **8055**: Preparing teleport to Hazhalm Testing Grounds - [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
-- **8056**: Proceed to [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]? [Yes./Not yet./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
-- **8057**: All of the valkyrie feathers in your possession are consumed!
-- **8067**: You do not possess the items required for entry.
-- **8071**: There are too many adventurers in the chamber.
-- **8079**: Other members currently engaged in battle. Entry denied.
-- **8084**: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
-- **8085**: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
-- **8086**: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
-- **8087**: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
-- **8089**: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
-- **8090**: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
-- **8091**: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
-- **8092**: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
-- **8093**: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
-- **8107**: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
-- **8108**: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
-- **8109**: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
-- **8110**: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
-- **8111**: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
-- **8112**: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
-- **8113**: At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately $1 [minute/minutes] (Earth time).
-- **8114**: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
+- **7280**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7316**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7605**: Skip the event? [Yes./No.]
+- **7606**: Battlefield clear time: $3 second[/s]!
+- **7607**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7625**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7631**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7639**: You have broken the clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]"!
+- **7645**: Which battlefield will you enter? [None./[The Rider Cometh/Unwavering Resolve/A Stygian Pact]./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+- **7997**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+- **8056**: Preparing teleport to Hazhalm Testing Grounds - [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber].
+- **8057**: Proceed to [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]? [Yes./Not yet./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
+- **8058**: All of the valkyrie feathers in your possession are consumed!
+- **8068**: You do not possess the items required for entry.
+- **8072**: There are too many adventurers in the chamber.
+- **8080**: Other members currently engaged in battle. Entry denied.
+- **8085**: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
+- **8086**: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
+- **8087**: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
+- **8088**: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
+- **8090**: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
+- **8091**: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
+- **8092**: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
+- **8093**: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
+- **8094**: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
+- **8108**: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
+- **8109**: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
+- **8110**: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
+- **8111**: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
+- **8112**: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
+- **8113**: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
+- **8114**: At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately $1 [minute/minutes] (Earth time).
+- **8115**: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
 
 ## Events
 
@@ -409,12 +409,12 @@
 ```
   0: 0x0002 [0x03] Work_Zone[1] = 0*
   1: 0x0007 [0x08] Work_Zone[2] -= 30*
-  2: 0x000C [0x48] [System] [8055*]:
+  2: 0x000C [0x48] [System] [8056*]:
     → "Preparing teleport to Hazhalm Testing Grounds - [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]."
   3: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0010 [0x03] ExtData[1]->WorkLocal[0] = 0*
   5: 0x0015 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x02E7
-  6: 0x001D [0x24] CREATE_DIALOG(message_id=8056*, default_option=1*, option_flags=0*)
+  6: 0x001D [0x24] CREATE_DIALOG(message_id=8057*, default_option=1*, option_flags=0*)
     → "Proceed to [Rossweisse's Chamber/Grimgerde's Chamber/Siegrune's Chamber/Helmwige's Chamber/Schwertleite's Chamber/Waltraute's Chamber/Ortlinde's Chamber/Gerhilde's Chamber/Brunhilde's Chamber/Odin's Chamber/Odin's Chamber]? [Yes./Not yet./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]"
   7: 0x0024 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0025 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x026F
@@ -497,7 +497,7 @@ SUBROUTINE_01CF:
  83: 0x01E3 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[2*, 0*]
  84: 0x01F4 [0x1C] WAIT(30* ticks)
  85: 0x01F7 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0206
- 86: 0x01FF [0x48] [System] [8071*]:
+ 86: 0x01FF [0x48] [System] [8072*]:
     → "There are too many adventurers in the chamber."
  87: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0203 [0x01] GOTO 0x0267
@@ -512,16 +512,16 @@ SUBROUTINE_01CF:
  97: 0x0234 [0x03] Work_Zone[8] = 888*
  98: 0x0239 [0x03] Work_Zone[9] = 889*
  99: 0x023E [0x03] Work_Zone_1700[0] = 890*
-100: 0x0243 [0x48] [System] [8057*]:
+100: 0x0243 [0x48] [System] [8058*]:
     → "All of the valkyrie feathers in your possession are consumed!"
 101: 0x0246 [0x01] GOTO 0x0267
 102: 0x0249 [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x0258
-103: 0x0251 [0x48] [System] [8067*]:
+103: 0x0251 [0x48] [System] [8068*]:
     → "You do not possess the items required for entry."
 104: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0255 [0x01] GOTO 0x0267
 106: 0x0258 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0267
-107: 0x0260 [0x48] [System] [8079*]:
+107: 0x0260 [0x48] [System] [8080*]:
     → "Other members currently engaged in battle. Entry denied."
 108: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0264 [0x01] GOTO 0x0267
@@ -533,59 +533,59 @@ SUBROUTINE_0267:
 113: 0x0277 [0x03] ExtData[1]->WorkLocal[0] = 1*
 114: 0x027C [0x01] GOTO 0x02E4
 115: 0x027F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02AE
-116: 0x0287 [0x48] [System] [8084*]:
+116: 0x0287 [0x48] [System] [8085*]:
     → "When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7."
 117: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x028B [0x48] [System] [8085*]:
+118: 0x028B [0x48] [System] [8086*]:
     → "From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers."
 119: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x028F [0x48] [System] [8086*]:
+120: 0x028F [0x48] [System] [8087*]:
     → "By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber."
 121: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x0293 [0x48] [System] [8087*]:
+122: 0x0293 [0x48] [System] [8088*]:
     → "Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber."
 123: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x0297 [0x48] [System] [8089*]:
+124: 0x0297 [0x48] [System] [8090*]:
     → "These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates."
 125: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
-126: 0x029B [0x48] [System] [8090*]:
+126: 0x029B [0x48] [System] [8091*]:
     → "To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate."
 127: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x029F [0x48] [System] [8091*]:
+128: 0x029F [0x48] [System] [8092*]:
     → "However, please note that not everyone in possession of a lamp will be allowed into Hazhalm."
 129: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x02A3 [0x48] [System] [8092*]:
+130: 0x02A3 [0x48] [System] [8093*]:
     → "As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity."
 131: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x02A7 [0x48] [System] [8093*]:
+132: 0x02A7 [0x48] [System] [8094*]:
     → "Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry."
 133: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x02AB [0x01] GOTO 0x02E4
 135: 0x02AE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02C5
-136: 0x02B6 [0x48] [System] [8107*]:
+136: 0x02B6 [0x48] [System] [8108*]:
     → "After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again."
 137: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x02BA [0x48] [System] [8108*]:
+138: 0x02BA [0x48] [System] [8109*]:
     → "This not only pertains to the chamber previously visited, but all areas within the testing grounds."
 139: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x02BE [0x48] [System] [8109*]:
+140: 0x02BE [0x48] [System] [8110*]:
     → "The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate."
 141: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x02C2 [0x01] GOTO 0x02E4
 143: 0x02C5 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x02E4
-144: 0x02CD [0x48] [System] [8110*]:
+144: 0x02CD [0x48] [System] [8111*]:
     → "All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance."
 145: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x02D1 [0x48] [System] [8111*]:
+146: 0x02D1 [0x48] [System] [8112*]:
     → "In addition, any items dropped by a foe can be lotted on by anyone in the chamber."
 147: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x02D5 [0x48] [System] [8112*]:
+148: 0x02D5 [0x48] [System] [8113*]:
     → "However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random."
 149: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x02D9 [0x48] [System] [8113*]:
+150: 0x02D9 [0x48] [System] [8114*]:
     → "At any time, if the number of active adventurers participating in the cleansing of the testing grounds falls below six, the reservation will become void and any remaining members will be teleported from the area in approximately $1 [minute/minutes] (Earth time)."
 151: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x02DD [0x48] [System] [8114*]:
+152: 0x02DD [0x48] [System] [8115*]:
     → "Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds."
 153: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x02E1 [0x01] GOTO 0x02E4
@@ -1045,7 +1045,7 @@ SUBROUTINE_02E4:
  13: 0x0458 [0x03] ExtData[1]->WorkLocal[12] = 4294967295*
  14: 0x045D [0x0F] ExtData[1]->WorkLocal[12] ^= ExtData[1]->WorkLocal[10]
  15: 0x0462 [0x10] ExtData[1]->WorkLocal[12] <<= 1*
- 16: 0x0467 [0x24] CREATE_DIALOG(message_id=7644*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+ 16: 0x0467 [0x24] CREATE_DIALOG(message_id=7645*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which battlefield will you enter? [None./[The Rider Cometh/Unwavering Resolve/A Stygian Pact]./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]"
  17: 0x046E [0x25] WAIT_DIALOG_SELECT()
  18: 0x046F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x047D
@@ -1058,7 +1058,7 @@ SUBROUTINE_04A6:
 
 SUBROUTINE_04B7:
  23: 0x04B7 [0x1A] CALL_SUBROUTINE(address=0x1484)
- 24: 0x04BA [0x24] CREATE_DIALOG(message_id=7630*, default_option=5*, option_flags=ExtData[1]->WorkLocal[12])
+ 24: 0x04BA [0x24] CREATE_DIALOG(message_id=7631*, default_option=5*, option_flags=ExtData[1]->WorkLocal[12])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x04C1 [0x25] WAIT_DIALOG_SELECT()
  26: 0x04C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04D2
@@ -1084,7 +1084,7 @@ SUBROUTINE_0525:
  44: 0x0528 [0x06] ExtData[1]->WorkLocal[19] = 0
  45: 0x052B [0x1A] CALL_SUBROUTINE(address=0x0C98)
  46: 0x052E [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x054C
- 47: 0x0536 [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
+ 47: 0x0536 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x053D [0x25] WAIT_DIALOG_SELECT()
  49: 0x053E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x054C
@@ -1158,22 +1158,22 @@ SUBROUTINE_0660:
 109: 0x0692 [0x01] GOTO 0x0C34
 110: 0x0695 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x06DF
 111: 0x069D [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x06AC
-112: 0x06A5 [0x48] [System] [7276*]:
+112: 0x06A5 [0x48] [System] [7277*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 113: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x06A9 [0x01] GOTO 0x06D9
 115: 0x06AC [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x06BB
-116: 0x06B4 [0x48] [System] [7277*]:
+116: 0x06B4 [0x48] [System] [7278*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 117: 0x06B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x06B8 [0x01] GOTO 0x06D9
 119: 0x06BB [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x06CA
-120: 0x06C3 [0x48] [System] [7278*]:
+120: 0x06C3 [0x48] [System] [7279*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 121: 0x06C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x06C7 [0x01] GOTO 0x06D9
 123: 0x06CA [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x06D9
-124: 0x06D2 [0x48] [System] [7279*]:
+124: 0x06D2 [0x48] [System] [7280*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 125: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x06D6 [0x01] GOTO 0x06D9
@@ -1182,7 +1182,7 @@ SUBROUTINE_06D9:
 127: 0x06D9 [0x01] GOTO 0x0C4B
 
 SUBROUTINE_08E9:
-128: 0x08E9 [0x48] [System] [7624*]:
+128: 0x08E9 [0x48] [System] [7625*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 129: 0x08EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x08ED [0x01] GOTO 0x0C4B
@@ -1206,7 +1206,7 @@ SUBROUTINE_094D:
 SUBROUTINE_0971:
 143: 0x0971 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0997
 144: 0x0979 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x0997
-145: 0x0981 [0x24] CREATE_DIALOG(message_id=7604*, default_option=1*, option_flags=0*)
+145: 0x0981 [0x24] CREATE_DIALOG(message_id=7605*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 146: 0x0988 [0x25] WAIT_DIALOG_SELECT()
 147: 0x0989 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0997
@@ -1347,7 +1347,7 @@ SUBROUTINE_0C34:
 272: 0x0C37 [0x02] IF !(0* == 1*) GOTO 0x0C44
 273: 0x0C3F [0x03] ExtData[1]->WorkLocal[4] = 2*
 274: 0x0C44 [0x01] GOTO 0x05AB
-275: 0x0C47 [0x48] [System] [7268*]:
+275: 0x0C47 [0x48] [System] [7269*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 276: 0x0C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1668,7 +1668,7 @@ SUBROUTINE_0FF1:
  58: 0x0FFC [0x01] GOTO 0x101A
  59: 0x0FFF [0x02] IF !(ExtData[1]->WorkLocal[26] == 1*) GOTO 0x10CA
  60: 0x1007 [0x1C] WAIT(15* ticks)
- 61: 0x100A [0x24] CREATE_DIALOG(message_id=7604*, default_option=1*, option_flags=0*)
+ 61: 0x100A [0x24] CREATE_DIALOG(message_id=7605*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  62: 0x1011 [0x25] WAIT_DIALOG_SELECT()
  63: 0x1012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10CA
@@ -1707,7 +1707,7 @@ SUBROUTINE_108F:
 SUBROUTINE_111D:
  89: 0x111D [0x02] IF !(ExtData[1]->WorkLocal[30] > ExtData[1]->WorkLocal[29]) GOTO 0x1131
  90: 0x1125 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[28]
- 91: 0x112A [0x48] [System] [7638*]:
+ 91: 0x112A [0x48] [System] [7639*]:
     → "You have broken the clear time record for "[[The Rider Cometh/Unwavering Resolve/A Stygian Pact]/]"!"
  92: 0x112D [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x112E [0x01] GOTO 0x1152
@@ -1980,7 +1980,7 @@ SUBROUTINE_1329:
 
 ```
 # Dead code (unreachable instructions):
-     0x136F [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
+     0x136F [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1376 [0x25] WAIT_DIALOG_SELECT()
      0x1377 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1385
@@ -2024,7 +2024,7 @@ SUBROUTINE_1329:
      0x1442 [0x1C] WAIT(30* ticks)
      0x1445 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x1454 [0x1B] RETURN
-     0x1455 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+     0x1455 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x145C [0x25] WAIT_DIALOG_SELECT()
      0x145D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x146B
@@ -2410,7 +2410,7 @@ SUBROUTINE_1329:
  51: 0x1A1E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[39], bit_index_work_offset=8*, condition_work_offset=1*)
  52: 0x1A25 [0x03] ExtData[1]->WorkLocal[40] = 4294967295*
  53: 0x1A2A [0x0F] ExtData[1]->WorkLocal[40] ^= ExtData[1]->WorkLocal[39]
- 54: 0x1A2F [0x24] CREATE_DIALOG(message_id=7996*, default_option=0*, option_flags=ExtData[1]->WorkLocal[40])
+ 54: 0x1A2F [0x24] CREATE_DIALOG(message_id=7997*, default_option=0*, option_flags=ExtData[1]->WorkLocal[40])
     → "What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]"
  55: 0x1A36 [0x25] WAIT_DIALOG_SELECT()
  56: 0x1A37 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A47

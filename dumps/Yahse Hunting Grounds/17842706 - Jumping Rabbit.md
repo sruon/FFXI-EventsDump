@@ -23,7 +23,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000A      |          10 |
-|       1 | 0x1EAF      |        7855 |
+|       1 | 0x1EB0      |        7856 |
 |       2 | 0x0028      |          40 |
 |       3 | 0x5284      |       21124 |
 |       4 | 0x6C8A      |       27786 |
@@ -48,68 +48,68 @@
 |      23 | 0x0009      |           9 |
 |      24 | 0x000B      |          11 |
 |      25 | 0x000C      |          12 |
-|      26 | 0x1EB0      |        7856 |
+|      26 | 0x1EB1      |        7857 |
 |      27 | 0x0000      |           0 |
 |      28 | 0x0020      |          32 |
-|      29 | 0x1EB1      |        7857 |
+|      29 | 0x1EB2      |        7858 |
 |      30 | 0x0050      |          80 |
 |      31 | 0x0046      |          70 |
-|      32 | 0x1EB2      |        7858 |
-|      33 | 0x1EB3      |        7859 |
-|      34 | 0x1EB4      |        7860 |
+|      32 | 0x1EB3      |        7859 |
+|      33 | 0x1EB4      |        7860 |
+|      34 | 0x1EB5      |        7861 |
 |      35 | 0x4E20      |       20000 |
-|      36 | 0x1EB5      |        7861 |
+|      36 | 0x1EB6      |        7862 |
 |      37 | 0x0026      |          38 |
-|      38 | 0x1EB6      |        7862 |
+|      38 | 0x1EB7      |        7863 |
 |      39 | 0x0096      |         150 |
-|      40 | 0x1EB7      |        7863 |
-|      41 | 0x1EB8      |        7864 |
+|      40 | 0x1EB8      |        7864 |
+|      41 | 0x1EB9      |        7865 |
 |      42 | 0x0083      |         131 |
 |      43 | 0x00C8      |         200 |
-|      44 | 0x1EB9      |        7865 |
+|      44 | 0x1EBA      |        7866 |
 |      45 | 0x0024      |          36 |
-|      46 | 0x1EBA      |        7866 |
+|      46 | 0x1EBB      |        7867 |
 |      47 | 0x005A      |          90 |
 |      48 | 0x001A      |          26 |
-|      49 | 0x1EBB      |        7867 |
+|      49 | 0x1EBC      |        7868 |
 |      50 | 0x001E      |          30 |
-|      51 | 0x1EA1      |        7841 |
-|      52 | 0x1EA2      |        7842 |
-|      53 | 0x1EA3      |        7843 |
-|      54 | 0x1EA4      |        7844 |
+|      51 | 0x1EA2      |        7842 |
+|      52 | 0x1EA3      |        7843 |
+|      53 | 0x1EA4      |        7844 |
+|      54 | 0x1EA5      |        7845 |
 |      55 | 0x0063      |          99 |
 |      56 | 0x0032      |          50 |
-|      57 | 0x1EA5      |        7845 |
-|      58 | 0x1EA6      |        7846 |
-|      59 | 0x1EA7      |        7847 |
-|      60 | 0x1EA8      |        7848 |
-|      61 | 0x1EA9      |        7849 |
+|      57 | 0x1EA6      |        7846 |
+|      58 | 0x1EA7      |        7847 |
+|      59 | 0x1EA8      |        7848 |
+|      60 | 0x1EA9      |        7849 |
+|      61 | 0x1EAA      |        7850 |
 |      62 | 0x0010      |          16 |
-|      63 | 0x1EAA      |        7850 |
-|      64 | 0x1EAB      |        7851 |
-|      65 | 0x1EAC      |        7852 |
+|      63 | 0x1EAB      |        7851 |
+|      64 | 0x1EAC      |        7852 |
+|      65 | 0x1EAD      |        7853 |
 |      66 | 0x003C      |          60 |
-|      67 | 0x1E9F      |        7839 |
+|      67 | 0x1EA0      |        7840 |
 
 ## String References
 
-- **7839**: When I think of how many good men and women drowned from the crashing waves of the Senroh Sea...
-- **7841**: I never expected one from the Middle Lands to emit such a familiar aura...
-- **7842**: ...You must have studied under the tutelage of Sylvie or Octavien.
-- **7843**: I stand guard over this spot, waiting for ill tidings to be borne from the Senroh Sea.
-- **7844**: Bah. I say ill tidings, but in truth nothing of the sort has happened in months.
-- **7845**: And what about you? Are you here in search of answers?
-- **7846**: Need any answers? [I like answers./I'm better off not knowing.]
-- **7847**: Hush now. You needn't say a word.
-- **7848**: I can sense you questioning. Questioning whether you'll be able to recapture a sense of powers once gleaned but later lost.
-- **7849**: Perhaps...perhaps I can guide you.
-- **7855**: A deal. Right.
-- **7857**: Hmm hmm hmm...given your height and weight, I'd say...
-- **7858**: Yo, Nunana! You're better at this than I am. What d'you think will fit her?
-- **7860**: Absolutely perfect! You'll have an endless parade of people clawing to get a look at you!
-- **7861**: We're willing to part with it for, say...$0 bayld.
-- **7865**: Enjoy, and may this be the answer you were looking for!
-- **7867**: Can't help you if you don't have enough bayld!
+- **7840**: When I think of how many good men and women drowned from the crashing waves of the Senroh Sea...
+- **7842**: I never expected one from the Middle Lands to emit such a familiar aura...
+- **7843**: ...You must have studied under the tutelage of Sylvie or Octavien.
+- **7844**: I stand guard over this spot, waiting for ill tidings to be borne from the Senroh Sea.
+- **7845**: Bah. I say ill tidings, but in truth nothing of the sort has happened in months.
+- **7846**: And what about you? Are you here in search of answers?
+- **7847**: Need any answers? [I like answers./I'm better off not knowing.]
+- **7848**: Hush now. You needn't say a word.
+- **7849**: I can sense you questioning. Questioning whether you'll be able to recapture a sense of powers once gleaned but later lost.
+- **7850**: Perhaps...perhaps I can guide you.
+- **7856**: A deal. Right.
+- **7858**: Hmm hmm hmm...given your height and weight, I'd say...
+- **7859**: Yo, Nunana! You're better at this than I am. What d'you think will fit her?
+- **7861**: Absolutely perfect! You'll have an endless parade of people clawing to get a look at you!
+- **7862**: We're willing to part with it for, say...$0 bayld.
+- **7866**: Enjoy, and may this be the answer you were looking for!
+- **7868**: Can't help you if you don't have enough bayld!
 
 ## Events
 
@@ -217,7 +217,7 @@
   3: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0018 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  6: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "A deal. Right."
   7: 0x001C [0x1C] WAIT(40* ticks)
   8: 0x001F [0x4A] Nunana (ID: 17842707/0x01104213) looks at LocalPlayer
@@ -313,7 +313,7 @@
      0x0206 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0236
      0x020E [0x6E] EventEntity uses emote 32*
      0x0215 [0x99] Wait for EventEntity animation to complete
-     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "Hmm hmm hmm...given your height and weight, I'd say..."
      0x021D [0x1C] WAIT(80* ticks)
      0x0220 [0x4A] Nunana (ID: 17842707/0x01104213) looks at EventEntity
@@ -325,12 +325,12 @@
      0x0236 [0x1E] EventEntity looks at Nunana (ID: 17842707/0x01104213) and starts talking
      0x023B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x023C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
+     0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
     → "Yo, Nunana! You're better at this than I am. What d'you think will fit her?"
      0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0241 [0x6E] Nunana (ID: 17842707/0x01104213) uses emote 7*
      0x0248 [0x99] Wait for Nunana (ID: 17842707/0x01104213) animation to complete
-     0x024D [0x2B] Nunana (ID: 17842707/0x01104213) [7859*]:
+     0x024D [0x2B] Nunana (ID: 17842707/0x01104213) [7860*]:
     → "Hmm... Maybe you could stand to lose a few ponzes-wonzes... How about this?"
      0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0255 [0x1C] WAIT(80* ticks)
@@ -341,16 +341,16 @@
      0x0268 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x026D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x026E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+     0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
     → "Absolutely perfect! You'll have an endless parade of people clawing to get a look at you!"
      0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0273 [0x03] Work_Zone[2] = 20000*
-     0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+     0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "We're willing to part with it for, say...$0 bayld."
      0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x027C [0x6E] Nunana (ID: 17842707/0x01104213) uses emote 38*
      0x0283 [0x99] Wait for Nunana (ID: 17842707/0x01104213) animation to complete
-     0x0288 [0x2B] Nunana (ID: 17842707/0x01104213) [7862*]:
+     0x0288 [0x2B] Nunana (ID: 17842707/0x01104213) [7863*]:
     → "Hey, Rabbit! You tryin' to run us out of business-wusiness?"
      0x028F [0x1C] WAIT(150* ticks)
      0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -372,12 +372,12 @@
      0x02FD [0x06] Work_Zone[1] = 0
      0x0300 [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x034B
      0x0308 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x06 - Load ext scheduler with flag (OpCode 0x5B mode 1, flag 1), ref=131*, entity1=EventEntity, entity2=EventEntity, string="pas0", extra=200*)
-     0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+     0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Enjoy, and may this be the answer you were looking for!"
      0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x031E [0x6E] Nunana (ID: 17842707/0x01104213) uses emote 36*
      0x0325 [0x99] Wait for Nunana (ID: 17842707/0x01104213) animation to complete
-     0x032A [0x2B] Nunana (ID: 17842707/0x01104213) [7866*]:
+     0x032A [0x2B] Nunana (ID: 17842707/0x01104213) [7867*]:
     → "Come back if you need anything else!"
      0x0331 [0x1C] WAIT(90* ticks)
      0x0334 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x07 - Wait scheduler task (OpCode 0x53))
@@ -387,7 +387,7 @@
      0x034B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
      0x034C [0x6E] EventEntity uses emote 26*
      0x0353 [0x99] Wait for EventEntity animation to complete
-     0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
+     0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
     → "Can't help you if you don't have enough bayld!"
      0x035B [0x1C] WAIT(150* ticks)
      0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -397,7 +397,7 @@
      0x036D [0x01] GOTO 0x0383
      0x0370 [0x6E] EventEntity uses emote 26*
      0x0377 [0x99] Wait for EventEntity animation to complete
-     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
+     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
     → "Can't help you if you don't have enough bayld!"
      0x037F [0x1C] WAIT(150* ticks)
      0x0382 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -447,20 +447,20 @@
   5: 0x03A6 [0x1C] WAIT(30* ticks)
   6: 0x03A9 [0x6E] EventEntity uses emote 32*
   7: 0x03B0 [0x99] Wait for EventEntity animation to complete
-  8: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+  8: 0x03B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "I never expected one from the Middle Lands to emit such a familiar aura..."
   9: 0x03B8 [0x1C] WAIT(40* ticks)
  10: 0x03BB [0x4A] Nunana (ID: 17842707/0x01104213) looks at LocalPlayer
  11: 0x03C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x03C5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nunana (ID: 17842707/0x01104213) Render.Flags0 and Render.Flags3 conditions are met
  13: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+ 14: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "...You must have studied under the tutelage of Sylvie or Octavien."
  15: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
+ 16: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
     → "I stand guard over this spot, waiting for ill tidings to be borne from the Senroh Sea."
  17: 0x03D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x03D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+ 18: 0x03D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "Bah. I say ill tidings, but in truth nothing of the sort has happened in months."
  19: 0x03D6 [0x1C] WAIT(90* ticks)
  20: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -469,10 +469,10 @@
  23: 0x03E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  24: 0x03E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  25: 0x03E8 [0x1C] WAIT(50* ticks)
- 26: 0x03EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+ 26: 0x03EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
     → "And what about you? Are you here in search of answers?"
  27: 0x03EE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x03EF [0x24] CREATE_DIALOG(message_id=7846*, default_option=0*, option_flags=0*)
+ 28: 0x03EF [0x24] CREATE_DIALOG(message_id=7847*, default_option=0*, option_flags=0*)
     → "Need any answers? [I like answers./I'm better off not knowing.]"
  29: 0x03F6 [0x25] WAIT_DIALOG_SELECT()
  30: 0x03F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0402
@@ -481,28 +481,28 @@
  33: 0x040A [0x01] GOTO 0x040D
 
 SUBROUTINE_040D:
- 34: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
+ 34: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
     → "Hush now. You needn't say a word."
  35: 0x0410 [0x1C] WAIT(50* ticks)
  36: 0x0413 [0x6E] EventEntity uses emote 6*
  37: 0x041A [0x99] Wait for EventEntity animation to complete
  38: 0x041F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0420 [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
+ 39: 0x0420 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
     → "I can sense you questioning. Questioning whether you'll be able to recapture a sense of powers once gleaned but later lost."
  40: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+ 41: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "Perhaps...perhaps I can guide you."
  42: 0x0427 [0x1C] WAIT(90* ticks)
  43: 0x042A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x042B [0x6E] Nunana (ID: 17842707/0x01104213) uses emote 16*
  45: 0x0432 [0x99] Wait for Nunana (ID: 17842707/0x01104213) animation to complete
- 46: 0x0437 [0x2B] Nunana (ID: 17842707/0x01104213) [7850*]:
+ 46: 0x0437 [0x2B] Nunana (ID: 17842707/0x01104213) [7851*]:
     → "(Psssssst! You there, with the face!)"
  47: 0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x043F [0x2B] Nunana (ID: 17842707/0x01104213) [7851*]:
+ 48: 0x043F [0x2B] Nunana (ID: 17842707/0x01104213) [7852*]:
     → "(We're offering to replace valuable-waluable geomantic and runic treasures you may have lost along your travels.)"
  49: 0x0446 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0447 [0x2B] Nunana (ID: 17842707/0x01104213) [7852*]:
+ 50: 0x0447 [0x2B] Nunana (ID: 17842707/0x01104213) [7853*]:
     → "(You don't need to get bogged down in the details. Your bayld will do the talking.)"
  51: 0x044E [0x1C] WAIT(60* ticks)
  52: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -532,7 +532,7 @@ SUBROUTINE_040D:
 ```
   0: 0x0454 [0x6E] EventEntity uses emote 7*
   1: 0x045B [0x99] Wait for EventEntity animation to complete
-  2: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
+  2: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "When I think of how many good men and women drowned from the crashing waves of the Senroh Sea..."
   3: 0x0463 [0x1C] WAIT(60* ticks)
   4: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION

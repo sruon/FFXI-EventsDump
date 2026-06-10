@@ -47,24 +47,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB9      |        7609 |
-|       7 | 0x1D0D      |        7437 |
+|       6 | 0x1DBA      |        7610 |
+|       7 | 0x1D0E      |        7438 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9F      |        7071 |
+|      12 | 0x1BA0      |        7072 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BAA      |        7082 |
-|      20 | 0x1BAB      |        7083 |
-|      21 | 0x1BAC      |        7084 |
-|      22 | 0x1BAD      |        7085 |
-|      23 | 0x1BD1      |        7121 |
+|      19 | 0x1BAB      |        7083 |
+|      20 | 0x1BAC      |        7084 |
+|      21 | 0x1BAD      |        7085 |
+|      22 | 0x1BAE      |        7086 |
+|      23 | 0x1BD2      |        7122 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -84,22 +84,22 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D06      |        7430 |
-|      44 | 0x1D0B      |        7435 |
-|      45 | 0x1D0A      |        7434 |
+|      43 | 0x1D07      |        7431 |
+|      44 | 0x1D0C      |        7436 |
+|      45 | 0x1D0B      |        7435 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB7      |        7607 |
-|      48 | 0x1DB6      |        7606 |
+|      47 | 0x1DB8      |        7608 |
+|      48 | 0x1DB7      |        7607 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1CF2      |        7410 |
+|      50 | 0x1CF3      |        7411 |
 |      51 | 0x00DC      |         220 |
-|      52 | 0x1E97      |        7831 |
-|      53 | 0x1BA2      |        7074 |
+|      52 | 0x1E98      |        7832 |
+|      53 | 0x1BA3      |        7075 |
 |      54 | 0x00C9      |         201 |
-|      55 | 0x1DBA      |        7610 |
-|      56 | 0x1DBB      |        7611 |
-|      57 | 0x1DBC      |        7612 |
-|      58 | 0x1DBD      |        7613 |
+|      55 | 0x1DBB      |        7611 |
+|      56 | 0x1DBC      |        7612 |
+|      57 | 0x1DBD      |        7613 |
+|      58 | 0x1DBE      |        7614 |
 |      59 | 0x00B4      |         180 |
 |      60 | 0xFFF6C42B  |  4294362155 |
 |      61 | 0x752B9     |      479929 |
@@ -188,11 +188,11 @@
 |     144 | 0x8FE5      |       36837 |
 |     145 | 0x02A1      |         673 |
 |     146 | 0x0024      |          36 |
-|     147 | 0x1CF4      |        7412 |
-|     148 | 0x1CF3      |        7411 |
-|     149 | 0x1DB5      |        7605 |
-|     150 | 0x1CF6      |        7414 |
-|     151 | 0x1CF5      |        7413 |
+|     147 | 0x1CF5      |        7413 |
+|     148 | 0x1CF4      |        7412 |
+|     149 | 0x1DB6      |        7606 |
+|     150 | 0x1CF7      |        7415 |
+|     151 | 0x1CF6      |        7414 |
 |     152 | 0xFFF699CD  |  4294351309 |
 |     153 | 0x7A9FA     |      502266 |
 |     154 | 0xFFFFF936  |  4294965558 |
@@ -215,7 +215,7 @@
 |     171 | 0x867E8     |      550888 |
 |     172 | 0xFFF79B5C  |  4294417244 |
 |     173 | 0xFFFFFB18  |  4294966040 |
-|     174 | 0x1BA0      |        7072 |
+|     174 | 0x1BA1      |        7073 |
 |     175 | 0xFFF66F0E  |  4294340366 |
 |     176 | 0xFFF7DF1F  |  4294434591 |
 |     177 | 0xFFFFF9B0  |  4294965680 |
@@ -279,101 +279,101 @@
 |     235 | 0x00AE      |         174 |
 |     236 | 0x0E20      |        3616 |
 |     237 | 0x0054      |          84 |
-|     238 | 0x1E5A      |        7770 |
-|     239 | 0x1E5B      |        7771 |
+|     238 | 0x1E5B      |        7771 |
+|     239 | 0x1E5C      |        7772 |
 |     240 | 0x029C      |         668 |
-|     241 | 0x1E5C      |        7772 |
-|     242 | 0x1E5D      |        7773 |
-|     243 | 0x1E5E      |        7774 |
-|     244 | 0x1E5F      |        7775 |
-|     245 | 0x1E60      |        7776 |
+|     241 | 0x1E5D      |        7773 |
+|     242 | 0x1E5E      |        7774 |
+|     243 | 0x1E5F      |        7775 |
+|     244 | 0x1E60      |        7776 |
+|     245 | 0x1E61      |        7777 |
 |     246 | 0x00B0      |         176 |
-|     247 | 0x1E61      |        7777 |
-|     248 | 0x1E62      |        7778 |
-|     249 | 0x1E63      |        7779 |
-|     250 | 0x1E64      |        7780 |
+|     247 | 0x1E62      |        7778 |
+|     248 | 0x1E63      |        7779 |
+|     249 | 0x1E64      |        7780 |
+|     250 | 0x1E65      |        7781 |
 |     251 | 0x0032      |          50 |
 |     252 | 0xFFF7E717  |  4294436631 |
 |     253 | 0xFFF8B448  |  4294489160 |
 |     254 | 0x014A      |         330 |
 |     255 | 0x035B      |         859 |
 |     256 | 0x0021      |          33 |
-|     257 | 0x1E67      |        7783 |
+|     257 | 0x1E68      |        7784 |
 |     258 | 0x0023      |          35 |
-|     259 | 0x1E68      |        7784 |
-|     260 | 0x1E69      |        7785 |
-|     261 | 0x1E6A      |        7786 |
-|     262 | 0x1E6B      |        7787 |
+|     259 | 0x1E69      |        7785 |
+|     260 | 0x1E6A      |        7786 |
+|     261 | 0x1E6B      |        7787 |
+|     262 | 0x1E6C      |        7788 |
 |     263 | 0xFFF6E7CA  |  4294371274 |
 |     264 | 0xFFF8A20C  |  4294484492 |
 |     265 | 0xFFFFFFFE  |  4294967294 |
 |     266 | 0x0F09      |        3849 |
 |     267 | 0xFFFFF830  |  4294965296 |
 |     268 | 0x07D0      |        2000 |
-|     269 | 0x1E6C      |        7788 |
-|     270 | 0x1E6D      |        7789 |
-|     271 | 0x1E6E      |        7790 |
-|     272 | 0x1E6F      |        7791 |
-|     273 | 0x1E70      |        7792 |
-|     274 | 0x1E71      |        7793 |
-|     275 | 0x1E72      |        7794 |
-|     276 | 0x1E73      |        7795 |
-|     277 | 0x1E74      |        7796 |
-|     278 | 0x1E75      |        7797 |
+|     269 | 0x1E6D      |        7789 |
+|     270 | 0x1E6E      |        7790 |
+|     271 | 0x1E6F      |        7791 |
+|     272 | 0x1E70      |        7792 |
+|     273 | 0x1E71      |        7793 |
+|     274 | 0x1E72      |        7794 |
+|     275 | 0x1E73      |        7795 |
+|     276 | 0x1E74      |        7796 |
+|     277 | 0x1E75      |        7797 |
+|     278 | 0x1E76      |        7798 |
 |     279 | 0x00E7      |         231 |
-|     280 | 0x1E76      |        7798 |
-|     281 | 0x1E77      |        7799 |
-|     282 | 0x1E78      |        7800 |
-|     283 | 0x1E79      |        7801 |
-|     284 | 0x1E7A      |        7802 |
-|     285 | 0x1E7B      |        7803 |
-|     286 | 0x1E7C      |        7804 |
-|     287 | 0x1E7D      |        7805 |
-|     288 | 0x1E7E      |        7806 |
-|     289 | 0x1E7F      |        7807 |
-|     290 | 0x1E80      |        7808 |
+|     280 | 0x1E77      |        7799 |
+|     281 | 0x1E78      |        7800 |
+|     282 | 0x1E79      |        7801 |
+|     283 | 0x1E7A      |        7802 |
+|     284 | 0x1E7B      |        7803 |
+|     285 | 0x1E7C      |        7804 |
+|     286 | 0x1E7D      |        7805 |
+|     287 | 0x1E7E      |        7806 |
+|     288 | 0x1E7F      |        7807 |
+|     289 | 0x1E80      |        7808 |
+|     290 | 0x1E81      |        7809 |
 |     291 | 0x005A      |          90 |
-|     292 | 0x1E81      |        7809 |
+|     292 | 0x1E82      |        7810 |
 |     293 | 0x0096      |         150 |
 |     294 | 0xFFF7B8C0  |  4294424768 |
 |     295 | 0xFFF8ADDA  |  4294487514 |
 |     296 | 0x0347      |         839 |
 |     297 | 0x028A      |         650 |
-|     298 | 0x1E85      |        7813 |
-|     299 | 0x1E86      |        7814 |
-|     300 | 0x1E87      |        7815 |
-|     301 | 0x1E88      |        7816 |
+|     298 | 0x1E86      |        7814 |
+|     299 | 0x1E87      |        7815 |
+|     300 | 0x1E88      |        7816 |
+|     301 | 0x1E89      |        7817 |
 |     302 | 0x0800      |        2048 |
-|     303 | 0x1E89      |        7817 |
+|     303 | 0x1E8A      |        7818 |
 
 ## String References
 
-- **7071**: Enter the battlefield? [Enter./Decline.]
-- **7072**: Leave the battlefield? [Run away./Stay.]
-- **7074**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7072**: Enter the battlefield? [Enter./Decline.]
+- **7073**: Leave the battlefield? [Run away./Stay.]
+- **7075**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7121**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7410**: Skip the event? [Yes./No.]
-- **7411**: Battlefield clear time: $3 second[/s]!
-- **7412**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7413**: The current battlefield clear time record is $3 second[/s].
-- **7414**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7430**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7434**: That record is held by $5 adventurers, including %0!
-- **7435**: That record is held by %0!
-- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7605**: You have broken the clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]"!
-- **7606**: The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 second[/s].
-- **7607**: The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 minute[/s] $2 second[/s].
-- **7609**: Which battlefield will you enter? [None./Head Wind./Like the Wind./Sheep in Antlion's Clothing./Shell We Dance?/Totentanz./Tango with a Tracker./Requiem of Sin./Antagonistic Ambuscade./$26Head Wind./././././././././././././././././././././././]
-- **7610**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of four or more members.
-- **7611**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
-- **7612**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of thirteen or more members.
-- **7613**: Level limit of 75.
-- **7831**: You feel the gaze of innumerable eyes watching you from the darkness...
+- **7086**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7122**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7411**: Skip the event? [Yes./No.]
+- **7412**: Battlefield clear time: $3 second[/s]!
+- **7413**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7414**: The current battlefield clear time record is $3 second[/s].
+- **7415**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7431**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7435**: That record is held by $5 adventurers, including %0!
+- **7436**: That record is held by %0!
+- **7438**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7606**: You have broken the clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]"!
+- **7607**: The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 second[/s].
+- **7608**: The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 minute[/s] $2 second[/s].
+- **7610**: Which battlefield will you enter? [None./Head Wind./Like the Wind./Sheep in Antlion's Clothing./Shell We Dance?/Totentanz./Tango with a Tracker./Requiem of Sin./Antagonistic Ambuscade./$26Head Wind./././././././././././././././././././././././]
+- **7611**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of four or more members.
+- **7612**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7613**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of thirteen or more members.
+- **7614**: Level limit of 75.
+- **7832**: You feel the gaze of innumerable eyes watching you from the darkness...
 
 ## Events
 
@@ -593,7 +593,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Head Wind./Like the Wind./Sheep in Antlion's Clothing./Shell We Dance?/Totentanz./Tango with a Tracker./Requiem of Sin./Antagonistic Ambuscade./$26Head Wind./././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -606,7 +606,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x15AD)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7438*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -632,7 +632,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0854)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -681,22 +681,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07F0
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7082*]:
+ 89: 0x0225 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7083*]:
+ 93: 0x0234 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7084*]:
+ 97: 0x0243 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7085*]:
+101: 0x0252 [0x48] [System] [7086*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -705,7 +705,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x0807
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7430*]:
+105: 0x0469 [0x48] [System] [7431*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x0807
@@ -717,24 +717,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7607*]:
+114: 0x04EA [0x48] [System] [7608*]:
     → "The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7606*]:
+117: 0x04F1 [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7435*]:
+120: 0x04FD [0x48] [System] [7436*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7434*]:
+126: 0x0511 [0x48] [System] [7435*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -750,7 +750,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -882,7 +882,7 @@ SUBROUTINE_078A:
 
 SUBROUTINE_07D1:
 259: 0x07D1 [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x07E0
-260: 0x07D9 [0x48] [System] [7831*]:
+260: 0x07D9 [0x48] [System] [7832*]:
     → "You feel the gaze of innumerable eyes watching you from the darkness..."
 261: 0x07DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x07DD [0x01] GOTO 0x07E0
@@ -897,7 +897,7 @@ SUBROUTINE_07F0:
 267: 0x07F3 [0x02] IF !(0* == 1*) GOTO 0x0800
 268: 0x07FB [0x03] ExtData[1]->WorkLocal[0] = 4*
 269: 0x0800 [0x01] GOTO 0x01A4
-270: 0x0803 [0x48] [System] [7074*]:
+270: 0x0803 [0x48] [System] [7075*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 271: 0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -917,25 +917,25 @@ SUBROUTINE_083A:
 
 SUBROUTINE_0854:
 282: 0x0854 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0866
-283: 0x085C [0x48] [System] [7610*]:
+283: 0x085C [0x48] [System] [7611*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of four or more members."
 284: 0x085F [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x0860 [0x05] ExtData[1]->WorkLocal[22] = 1
 286: 0x0863 [0x01] GOTO 0x089C
 287: 0x0866 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0878
-288: 0x086E [0x48] [System] [7611*]:
+288: 0x086E [0x48] [System] [7612*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 289: 0x0871 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x0872 [0x05] ExtData[1]->WorkLocal[22] = 1
 291: 0x0875 [0x01] GOTO 0x089C
 292: 0x0878 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x088A
-293: 0x0880 [0x48] [System] [7612*]:
+293: 0x0880 [0x48] [System] [7613*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of thirteen or more members."
 294: 0x0883 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x0884 [0x05] ExtData[1]->WorkLocal[22] = 1
 296: 0x0887 [0x01] GOTO 0x089C
 297: 0x088A [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x089C
-298: 0x0892 [0x48] [System] [7613*]:
+298: 0x0892 [0x48] [System] [7614*]:
     → "Level limit of 75."
 299: 0x0895 [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x0896 [0x05] ExtData[1]->WorkLocal[22] = 1
@@ -1290,7 +1290,7 @@ SUBROUTINE_0C8C:
  84: 0x0C97 [0x01] GOTO 0x0CB5
  85: 0x0C9A [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D65
  86: 0x0CA2 [0x1C] WAIT(15* ticks)
- 87: 0x0CA5 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
+ 87: 0x0CA5 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0CAC [0x25] WAIT_DIALOG_SELECT()
  89: 0x0CAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D65
@@ -1357,18 +1357,18 @@ SUBROUTINE_0D97:
 138: 0x0DD0 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DEB
 139: 0x0DD8 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0DDF [0x15] Work_Zone[5] /= 60*
-141: 0x0DE4 [0x48] [System] [7412*]:
+141: 0x0DE4 [0x48] [System] [7413*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0DE8 [0x01] GOTO 0x0DEF
-144: 0x0DEB [0x48] [System] [7411*]:
+144: 0x0DEB [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0DEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DEF:
 146: 0x0DEF [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E03
 147: 0x0DF7 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DFC [0x48] [System] [7605*]:
+148: 0x0DFC [0x48] [System] [7606*]:
     → "You have broken the clear time record for "[Head Wind/Like the Wind/Sheep in Antlion's Clothing/Shell We Dance?/Totentanz/Tango with a Tracker/Requiem of Sin/Antagonistic Ambuscade/$26Head Wind]"!"
 149: 0x0DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0E00 [0x01] GOTO 0x0E2C
@@ -1376,12 +1376,12 @@ SUBROUTINE_0DEF:
 152: 0x0E0B [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0E10 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0E17 [0x15] Work_Zone[5] /= 60*
-155: 0x0E1C [0x48] [System] [7414*]:
+155: 0x0E1C [0x48] [System] [7415*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0E1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0E20 [0x01] GOTO 0x0E2C
 158: 0x0E23 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0E28 [0x48] [System] [7413*]:
+159: 0x0E28 [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0E2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1666,7 +1666,7 @@ SUBROUTINE_1003:
 
 ```
 # Dead code (unreachable instructions):
-     0x1049 [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
+     0x1049 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1050 [0x25] WAIT_DIALOG_SELECT()
      0x1051 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x105F
@@ -1810,7 +1810,7 @@ SUBROUTINE_1003:
      0x140B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x140C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
      0x141B [0x1B] RETURN
-     0x141C [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+     0x141C [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x1423 [0x25] WAIT_DIALOG_SELECT()
      0x1424 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1432
@@ -2527,14 +2527,14 @@ SUBROUTINE_1003:
      0x176F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=84*
      0x177E [0x6E] Shikaree X (ID: 16810220/0x010080EC) uses emote 25*
      0x1785 [0x99] Wait for Shikaree X (ID: 16810220/0x010080EC) animation to complete
-     0x178A [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7770*]:
+     0x178A [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7771*]:
     → "What kept you, sugarplum? There're no roses to smell on the way!"
      0x1791 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1792 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Y (ID: 16810219/0x010080EB))
      0x1798 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x17A9 [0x1C] WAIT(20* ticks)
      0x17AC [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x13)
-     0x17B3 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7771*]:
+     0x17B3 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7772*]:
     → "You've got some nerve, keeping a sin hunter waiting."
      0x17BA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17BB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2544,19 +2544,19 @@ SUBROUTINE_1003:
      0x17DF [0x79] Shikaree Y (ID: 16810219/0x010080EB) looks at Shikaree X (ID: 16810220/0x010080EC) (Basic look)
      0x17E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x17EA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Y (ID: 16810219/0x010080EB) Render.Flags0 and Render.Flags3 conditions are met
-     0x17EF [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7772*]:
+     0x17EF [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7773*]:
     → "See? This is what happens when you fool arrround with written challenges."
      0x17F6 [0x1C] WAIT(15* ticks)
      0x17F9 [0x79] Shikaree X (ID: 16810220/0x010080EC) looks at Shikaree Y (ID: 16810219/0x010080EB) (Basic look)
      0x1803 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1804 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1815 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x20)
-     0x181C [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7773*]:
+     0x181C [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7774*]:
     → "But it gets people in the mood for the final confrontation."
      0x1823 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1824 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x21)
      0x182B [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x22)
-     0x1832 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7774*]:
+     0x1832 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7775*]:
     → "Hmph. I was more worried that the adventurer wouldn't be able to read your terrible handwriting."
      0x1839 [0x1C] WAIT(30* ticks)
      0x183C [0x4A] Shikaree Y (ID: 16810219/0x010080EB) looks at LocalPlayer
@@ -2565,7 +2565,7 @@ SUBROUTINE_1003:
      0x184B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x184C [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x39)
      0x1853 [0x1C] WAIT(10* ticks)
-     0x1856 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7775*]:
+     0x1856 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7776*]:
     → "Hey!"
      0x185D [0x1C] WAIT(40* ticks)
      0x1860 [0x52] END_LOAD_SCHEDULER: End scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2576,22 +2576,22 @@ SUBROUTINE_1003:
      0x188F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Y (ID: 16810219/0x010080EB))
      0x1895 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1896 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x18A5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7776*]:
+     0x18A5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7777*]:
     → "So, <Player>. Did you think that your battles with the Mithran Trackers were over with your last victory?"
      0x18AC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18AD [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x1B)
      0x18B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6079" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
-     0x18C5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7777*]:
+     0x18C5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7778*]:
     → "That fight was nothing more than a test. Your pitiful skills have done nothing to help our cause."
      0x18CC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18CD [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x09)
      0x18D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x18E5 [0x1C] WAIT(10* ticks)
      0x18E8 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x18FA
-     0x18F0 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7778*]:
+     0x18F0 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7779*]:
     → "We'll soon see if you're worthy to share our sister's company. Can't have some untrained kitten trrripping over her tail."
      0x18F7 [0x01] GOTO 0x1901
-     0x18FA [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7779*]:
+     0x18FA [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7780*]:
     → "Let's see if the adventurer Shikaree Z has chosen can stand up to the younger sisters."
      0x1901 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree X (ID: 16810220/0x010080EC))
      0x1907 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6081" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
@@ -2602,7 +2602,7 @@ SUBROUTINE_1003:
      0x1936 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Shikaree X (ID: 16810220/0x010080EC), Shikaree X (ID: 16810220/0x010080EC)], work=[200*, 0*]
      0x1947 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1958 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1967 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7780*]:
+     0x1967 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7781*]:
     → "Are you rrready? There'll be no punches pulled this time. You're gonna be mewling like a newborn!"
      0x196E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x196F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
@@ -2640,7 +2640,7 @@ SUBROUTINE_1003:
      0x1A93 [0x52] END_LOAD_SCHEDULER: End scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=84*
      0x1AA2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Shikaree Y (ID: 16810219/0x010080EB), Shikaree Y (ID: 16810219/0x010080EB)], work=[200*, 0*]
      0x1AB3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x1AC4 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7783*]:
+     0x1AC4 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7784*]:
     → "I can't believe I lost to you again...!"
      0x1ACB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ACC [0x52] END_LOAD_SCHEDULER: End scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2648,7 +2648,7 @@ SUBROUTINE_1003:
      0x1AEC [0x6E] Shikaree Y (ID: 16810219/0x010080EB) uses emote 35*
      0x1AF3 [0x99] Wait for Shikaree Y (ID: 16810219/0x010080EB) animation to complete
      0x1AF8 [0x1C] WAIT(30* ticks)
-     0x1AFB [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7784*]:
+     0x1AFB [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7785*]:
     → "Not bad, honeybee..."
      0x1B02 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B03 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2657,11 +2657,11 @@ SUBROUTINE_1003:
      0x1B1E [0x1C] WAIT(10* ticks)
      0x1B21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1B32 [0x02] IF !(ExtData[1]->WorkLocal[28] == 0*) GOTO 0x1B45
-     0x1B3A [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7785*]:
+     0x1B3A [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7786*]:
     → "<Player>! If anything happens to my sister, I'll be hunting you down! You take care of her!"
      0x1B41 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B42 [0x01] GOTO 0x1B4D
-     0x1B45 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7786*]:
+     0x1B45 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7787*]:
     → "<Player>! I see now why my sister chose you. I'll be catching you up, though--just you wait!"
      0x1B4C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B4D [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x06)
@@ -2673,7 +2673,7 @@ SUBROUTINE_1003:
      0x1B81 [0x1C] WAIT(180* ticks)
      0x1B84 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1B95 [0x1C] WAIT(60* ticks)
-     0x1B98 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7787*]:
+     0x1B98 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7788*]:
     → "If you get back with your hide intact, you better give me another chance to tearrr you into pieces..."
      0x1B9F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BA0 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x36)
@@ -2712,16 +2712,16 @@ SUBROUTINE_1003:
      0x1C9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1CAC [0x79] Shikaree Y (ID: 16810219/0x010080EB) looks at LocalPlayer (Basic look)
      0x1CB6 [0x1C] WAIT(30* ticks)
-     0x1CB9 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7788*]:
+     0x1CB9 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7789*]:
     → "So you've come. You're the first to accept my invitation without any further...encourrragement."
      0x1CC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CC1 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Y (ID: 16810219/0x010080EB))
      0x1CC7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1CD6 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7789*]:
+     0x1CD6 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7790*]:
     → "No one in my homeland wants to fight me anymore. Even though I prrromise not to hurrrt them too much..."
      0x1CDD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CDE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v002" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x1CEF [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7790*]:
+     0x1CEF [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7791*]:
     → "But you aren't afraid of me, are you, sweetcakes? Even when I thrrreaten to tearrr you into pieces..."
      0x1CF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CF7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v002" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2731,7 +2731,7 @@ SUBROUTINE_1003:
      0x1D21 [0x1C] WAIT(60* ticks)
      0x1D24 [0x4A] LocalPlayer looks at Shikaree X (ID: 16810220/0x010080EC)
      0x1D2D [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree X (ID: 16810220/0x010080EC))
-     0x1D33 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7791*]:
+     0x1D33 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7792*]:
     → "Are you serious? I don't mind helping out with a little training, but we can't hurrrt <Player>..."
      0x1D3A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D3B [0x7B] Shikaree Y (ID: 16810219/0x010080EB) stops talking
@@ -2741,14 +2741,14 @@ SUBROUTINE_1003:
      0x1D59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1D6A [0x4A] Shikaree X (ID: 16810220/0x010080EC) looks at LocalPlayer
      0x1D73 [0x1C] WAIT(40* ticks)
-     0x1D76 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7792*]:
+     0x1D76 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7793*]:
     → "Think about it. If we crrrush the adventurer that defeated Promathia, the Mithran Trackers will be number one."
      0x1D7D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D7E [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Y (ID: 16810219/0x010080EB))
      0x1D84 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=84*
      0x1D93 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x1B)
      0x1D9A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6079" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
-     0x1DAB [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7793*]:
+     0x1DAB [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7794*]:
     → "And I can't stand losing to anyone, even when I'm not trying my hardest."
      0x1DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DB3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6081" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
@@ -2756,7 +2756,7 @@ SUBROUTINE_1003:
      0x1DCB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1DDC [0x1C] WAIT(60* ticks)
      0x1DDF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1DEE [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7794*]:
+     0x1DEE [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7795*]:
     → "So that's why I'm going to wipe the slate clean. Wipe you out of existence."
      0x1DF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DF6 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Z (ID: 16810218/0x010080EA), tag_num=0x04)
@@ -2767,7 +2767,7 @@ SUBROUTINE_1003:
      0x1E3F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Z (ID: 16810218/0x010080EA))
      0x1E45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [Shikaree X (ID: 16810220/0x010080EC), Shikaree X (ID: 16810220/0x010080EC)], work=[200*, 0*]
      0x1E56 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=0*)
-     0x1E5B [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7795*]:
+     0x1E5B [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7796*]:
     → "That's far enough!"
      0x1E62 [0x4A] LocalPlayer looks at Shikaree Z (ID: 16810218/0x010080EA)
      0x1E6B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2783,63 +2783,63 @@ SUBROUTINE_1003:
      0x1ECB [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x32)
      0x1ED2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1EE3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1EF2 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7796*]:
+     0x1EF2 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7797*]:
     → "Sis!?"
      0x1EF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EFA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se00" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1F0B [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x1D)
      0x1F12 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x1F23 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1F32 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7797*]:
+     0x1F32 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7798*]:
     → "Shikaree Z!"
      0x1F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F3A [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 231*
      0x1F3E [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 231*
      0x1F42 [0x9A] WAIT_MUSIC_SERVER()
      0x1F43 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x1F54 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7798*]:
+     0x1F54 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7799*]:
     → "You forget that many eyes keep a watch on the actions of the Mithran Trackers."
      0x1F5B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F5C [0x6E] Shikaree Y (ID: 16810219/0x010080EB) uses emote 35*
      0x1F63 [0x99] Wait for Shikaree Y (ID: 16810219/0x010080EB) animation to complete
      0x1F68 [0x6E] Shikaree X (ID: 16810220/0x010080EC) uses emote 35*
      0x1F6F [0x99] Wait for Shikaree X (ID: 16810220/0x010080EC) animation to complete
-     0x1F74 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7799*]:
+     0x1F74 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7800*]:
     → "Even while traveling in distant lands, word of the makeshift trials you hold here rrreached my ears."
      0x1F7B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F7C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=84*
      0x1F8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x1F9C [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7800*]:
+     0x1F9C [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7801*]:
     → "The reason we lost to this adventurer was simple: Justice."
      0x1FA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FA4 [0x03] Work_Zone[2] = (Entity->Render.Flags01 >> 25) & 1
-     0x1FA9 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7801*]:
+     0x1FA9 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7802*]:
     → "We are given a sense of justice by our roles as sin hunters. But [her/his] sense of justice was stronger."
      0x1FB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FB1 [0x79] Shikaree Z (ID: 16810218/0x010080EA) looks at Shikaree Y (ID: 16810219/0x010080EB) (Basic look)
      0x1FBB [0x1C] WAIT(30* ticks)
      0x1FBE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=84*
      0x1FCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t002" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x1FDE [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7802*]:
+     0x1FDE [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7803*]:
     → "Shikaree Y, there is no justice in what you propose. Your actions here thrrreaten all that you stand for."
      0x1FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FE6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t002" with entities [LocalPlayer, LocalPlayer], work=84*
-     0x1FF5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7803*]:
+     0x1FF5 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7804*]:
     → "I..."
      0x1FFC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FFD [0x79] Shikaree Z (ID: 16810218/0x010080EA) looks at LocalPlayer (Basic look)
      0x2007 [0x1C] WAIT(10* ticks)
      0x200A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x201B [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7804*]:
+     0x201B [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7805*]:
     → "But <Player>, your presence in this place shows your willingness to grow."
      0x2022 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2023 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7805*]:
+     0x2023 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7806*]:
     → "I join with my sisters and challenge you to battle once more."
      0x202A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x202B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=84*
      0x203A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Shikaree Y (ID: 16810219/0x010080EB), Shikaree Y (ID: 16810219/0x010080EB)], work=[200*, 0*]
      0x204B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t004" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x205C [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7806*]:
+     0x205C [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7807*]:
     → "Not a battle to the death, but a means to strrrengthen our skills."
      0x2063 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2064 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t004" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2847,7 +2847,7 @@ SUBROUTINE_1003:
      0x2078 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6081" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
      0x2089 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree X (ID: 16810220/0x010080EC), tag_num=0x30)
      0x2090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x20A1 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7807*]:
+     0x20A1 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7808*]:
     → "Sis! We get to fight together again!?"
      0x20A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20A9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2855,7 +2855,7 @@ SUBROUTINE_1003:
      0x20BD [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Y (ID: 16810219/0x010080EB), tag_num=0x1B)
      0x20C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "6079" with entities [Dark Miasma (ID: 16810207/0x010080DF), Dark Miasma (ID: 16810207/0x010080DF)], work=[176*, 0*]
      0x20D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x20E6 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7808*]:
+     0x20E6 [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7809*]:
     → "Hmph. As long as there's fighting involved, you can count me in, sweet pea."
      0x20ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20EE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2869,7 +2869,7 @@ SUBROUTINE_1003:
      0x2126 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t007" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x2137 [0x27] REQ_SET(priority=0x03, entity_id=Shikaree Z (ID: 16810218/0x010080EA), tag_num=0x0F)
      0x213E [0x1C] WAIT(90* ticks)
-     0x2141 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7809*]:
+     0x2141 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7810*]:
     → "Then let us begin. In the name of justice, submit yourself to this trial!"
      0x2148 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2149 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Shikaree Z (ID: 16810218/0x010080EA), tag_num=0x0F)
@@ -2911,7 +2911,7 @@ SUBROUTINE_1003:
      0x22A4 [0x52] END_LOAD_SCHEDULER: End scheduler "r000" with entities [LocalPlayer, LocalPlayer], work=84*
      0x22B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Shikaree Y (ID: 16810219/0x010080EB), Shikaree Y (ID: 16810219/0x010080EB)], work=[200*, 0*]
      0x22C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x22D5 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7813*]:
+     0x22D5 [0x2B] Shikaree X (ID: 16810220/0x010080EC) [7814*]:
     → "Am I still missing something...?"
      0x22DC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22DD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2919,7 +2919,7 @@ SUBROUTINE_1003:
      0x22F3 [0x99] Wait for Shikaree Y (ID: 16810219/0x010080EB) animation to complete
      0x22F8 [0x1C] WAIT(10* ticks)
      0x22FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x230C [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7814*]:
+     0x230C [0x2B] Shikaree Y (ID: 16810219/0x010080EB) [7815*]:
     → "Dammit! I won't admit defeat!"
      0x2313 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2314 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2928,14 +2928,14 @@ SUBROUTINE_1003:
      0x232D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r005" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
      0x233E [0x1C] WAIT(10* ticks)
      0x2341 [0x4A] Shikaree X (ID: 16810220/0x010080EC) looks at Shikaree Z (ID: 16810218/0x010080EA)
-     0x234A [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7815*]:
+     0x234A [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7816*]:
     → "For someone who has left the world of sin hunting, these battles are a true calling. Come, sisters. We have some trrraining to do."
      0x2351 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shikaree Z (ID: 16810218/0x010080EA))
      0x2357 [0x4A] Shikaree Y (ID: 16810219/0x010080EB) looks at Shikaree Z (ID: 16810218/0x010080EA)
      0x2360 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2361 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r005" with entities [LocalPlayer, LocalPlayer], work=84*
      0x2370 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=[84*, 0*]
-     0x2381 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7816*]:
+     0x2381 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7817*]:
     → "We'll be here whenever you need us, <Player>. We all still have much room to grow."
      0x2388 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2389 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=84*
@@ -2946,7 +2946,7 @@ SUBROUTINE_1003:
      0x23BA [0x4B] UPDATE_ENTITY_YAW(entity=Shikaree Z (ID: 16810218/0x010080EA), yaw=ExtData[1]->WorkLocal[18])
      0x23C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x23C2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shikaree Z (ID: 16810218/0x010080EA) Render.Flags0 and Render.Flags3 conditions are met
-     0x23C7 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7817*]:
+     0x23C7 [0x2B] Shikaree Z (ID: 16810218/0x010080EA) [7818*]:
     → "For now, our futures follow the same path..."
      0x23CE [0x1C] WAIT(10* ticks)
      0x23D1 [0x4A] Shikaree Y (ID: 16810219/0x010080EB) looks at Shikaree Z (ID: 16810218/0x010080EA)

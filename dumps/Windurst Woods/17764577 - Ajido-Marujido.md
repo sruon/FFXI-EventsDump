@@ -101,7 +101,7 @@
 |      26 | 0xFFFF8951  |  4294936913 |
 |      27 | 0xFFFFD39A  |  4294955930 |
 |      28 | 0xFFFFF63C  |  4294964796 |
-|      29 | 0x2574      |        9588 |
+|      29 | 0x2575      |        9589 |
 |      30 | 0xFFFFA2D6  |  4294943446 |
 |      31 | 0x2A4F      |       10831 |
 |      32 | 0x0FCB      |        4043 |
@@ -109,7 +109,7 @@
 |      34 | 0x3120      |       12576 |
 |      35 | 0xFFFFC198  |  4294951320 |
 |      36 | 0x30EF      |       12527 |
-|      37 | 0x25A1      |        9633 |
+|      37 | 0x25A2      |        9634 |
 |      38 | 0xFFFFBA1D  |  4294949405 |
 |      39 | 0x2AF5      |       10997 |
 |      40 | 0xFFFFC3B2  |  4294951858 |
@@ -117,8 +117,8 @@
 
 ## String References
 
-- **9588**: Thanks to you, I was able to see all that was written in the Book of the Gods. We must act before Windurst is wiped off the face of Vana'diel...
-- **9633**: ...
+- **9589**: Thanks to you, I was able to see all that was written in the Book of the Gods. We must act before Windurst is wiped off the face of Vana'diel...
+- **9634**: ...
 
 ## Events
 
@@ -1210,7 +1210,7 @@
 #### Opcodes
 
 ```
-  0: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=9588*)
+  0: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=9589*)
     → "Thanks to you, I was able to see all that was written in the Book of the Gods. We must act before Windurst is wiped off the face of Vana'diel..."
   1: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A1 [0x00] END_REQSTACK()
@@ -1363,7 +1363,7 @@
 
 ```
   0: 0x02DB [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9633*)
+  1: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9634*)
     → "..."
   2: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02E5 [0x7C] EventEntity->Render.Flags2 |= 0x01

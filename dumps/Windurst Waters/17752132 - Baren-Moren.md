@@ -108,30 +108,30 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
 |       3 | 0x002A      |          42 |
-|       4 | 0x1CCA      |        7370 |
-|       5 | 0x1CCB      |        7371 |
-|       6 | 0x1CCE      |        7374 |
-|       7 | 0x1CCF      |        7375 |
-|       8 | 0x1CD0      |        7376 |
-|       9 | 0x1CD1      |        7377 |
-|      10 | 0x1CD2      |        7378 |
-|      11 | 0x1CD7      |        7383 |
+|       4 | 0x1CCB      |        7371 |
+|       5 | 0x1CCC      |        7372 |
+|       6 | 0x1CCF      |        7375 |
+|       7 | 0x1CD0      |        7376 |
+|       8 | 0x1CD1      |        7377 |
+|       9 | 0x1CD2      |        7378 |
+|      10 | 0x1CD3      |        7379 |
+|      11 | 0x1CD8      |        7384 |
 |      12 | 0x0000      |           0 |
 |      13 | 0x0001      |           1 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x1CD3      |        7379 |
-|      16 | 0x1CD4      |        7380 |
-|      17 | 0x1CD5      |        7381 |
-|      18 | 0x1CD8      |        7384 |
-|      19 | 0x1CD9      |        7385 |
-|      20 | 0x1CDA      |        7386 |
-|      21 | 0x1CDB      |        7387 |
-|      22 | 0x1CD6      |        7382 |
-|      23 | 0x1CDC      |        7388 |
-|      24 | 0x1CDD      |        7389 |
-|      25 | 0x1CDE      |        7390 |
-|      26 | 0x1CDF      |        7391 |
-|      27 | 0x1CF4      |        7412 |
+|      15 | 0x1CD4      |        7380 |
+|      16 | 0x1CD5      |        7381 |
+|      17 | 0x1CD6      |        7382 |
+|      18 | 0x1CD9      |        7385 |
+|      19 | 0x1CDA      |        7386 |
+|      20 | 0x1CDB      |        7387 |
+|      21 | 0x1CDC      |        7388 |
+|      22 | 0x1CD7      |        7383 |
+|      23 | 0x1CDD      |        7389 |
+|      24 | 0x1CDE      |        7390 |
+|      25 | 0x1CDF      |        7391 |
+|      26 | 0x1CE0      |        7392 |
+|      27 | 0x1CF5      |        7413 |
 |      28 | 0x00C8      |         200 |
 |      29 | 0x0078      |         120 |
 |      30 | 0x0014      |          20 |
@@ -140,122 +140,122 @@
 |      33 | 0x0004      |           4 |
 |      34 | 0x0005      |           5 |
 |      35 | 0x00C9      |         201 |
-|      36 | 0x1CF5      |        7413 |
-|      37 | 0x1CF6      |        7414 |
-|      38 | 0x1CF8      |        7416 |
-|      39 | 0x1CF9      |        7417 |
-|      40 | 0x1CFB      |        7419 |
-|      41 | 0x1CFC      |        7420 |
-|      42 | 0x1CFE      |        7422 |
-|      43 | 0x1D00      |        7424 |
-|      44 | 0x1CFF      |        7423 |
-|      45 | 0x1D01      |        7425 |
-|      46 | 0x1D03      |        7427 |
-|      47 | 0x1D02      |        7426 |
-|      48 | 0x1CF7      |        7415 |
-|      49 | 0x1CFA      |        7418 |
-|      50 | 0x1CFD      |        7421 |
-|      51 | 0x1D04      |        7428 |
-|      52 | 0x1D0A      |        7434 |
-|      53 | 0x2240      |        8768 |
-|      54 | 0x2241      |        8769 |
-|      55 | 0x2242      |        8770 |
-|      56 | 0x2243      |        8771 |
-|      57 | 0x2244      |        8772 |
-|      58 | 0x2245      |        8773 |
-|      59 | 0x2246      |        8774 |
-|      60 | 0x2247      |        8775 |
-|      61 | 0x2248      |        8776 |
-|      62 | 0x2249      |        8777 |
-|      63 | 0x224A      |        8778 |
-|      64 | 0x1D09      |        7433 |
-|      65 | 0x1D11      |        7441 |
-|      66 | 0x1D0B      |        7435 |
-|      67 | 0x1D0C      |        7436 |
-|      68 | 0x1D0D      |        7437 |
-|      69 | 0x1D0F      |        7439 |
-|      70 | 0x1D10      |        7440 |
-|      71 | 0x1D12      |        7442 |
-|      72 | 0x1D13      |        7443 |
-|      73 | 0x1D15      |        7445 |
-|      74 | 0x199A      |        6554 |
-|      75 | 0x1D16      |        7446 |
-|      76 | 0x1D17      |        7447 |
-|      77 | 0x1D18      |        7448 |
-|      78 | 0x1D1C      |        7452 |
-|      79 | 0x1D1D      |        7453 |
-|      80 | 0x1D1E      |        7454 |
-|      81 | 0x1D1F      |        7455 |
+|      36 | 0x1CF6      |        7414 |
+|      37 | 0x1CF7      |        7415 |
+|      38 | 0x1CF9      |        7417 |
+|      39 | 0x1CFA      |        7418 |
+|      40 | 0x1CFC      |        7420 |
+|      41 | 0x1CFD      |        7421 |
+|      42 | 0x1CFF      |        7423 |
+|      43 | 0x1D01      |        7425 |
+|      44 | 0x1D00      |        7424 |
+|      45 | 0x1D02      |        7426 |
+|      46 | 0x1D04      |        7428 |
+|      47 | 0x1D03      |        7427 |
+|      48 | 0x1CF8      |        7416 |
+|      49 | 0x1CFB      |        7419 |
+|      50 | 0x1CFE      |        7422 |
+|      51 | 0x1D05      |        7429 |
+|      52 | 0x1D0B      |        7435 |
+|      53 | 0x2241      |        8769 |
+|      54 | 0x2242      |        8770 |
+|      55 | 0x2243      |        8771 |
+|      56 | 0x2244      |        8772 |
+|      57 | 0x2245      |        8773 |
+|      58 | 0x2246      |        8774 |
+|      59 | 0x2247      |        8775 |
+|      60 | 0x2248      |        8776 |
+|      61 | 0x2249      |        8777 |
+|      62 | 0x224A      |        8778 |
+|      63 | 0x224B      |        8779 |
+|      64 | 0x1D0A      |        7434 |
+|      65 | 0x1D12      |        7442 |
+|      66 | 0x1D0C      |        7436 |
+|      67 | 0x1D0D      |        7437 |
+|      68 | 0x1D0E      |        7438 |
+|      69 | 0x1D10      |        7440 |
+|      70 | 0x1D11      |        7441 |
+|      71 | 0x1D13      |        7443 |
+|      72 | 0x1D14      |        7444 |
+|      73 | 0x1D16      |        7446 |
+|      74 | 0x199B      |        6555 |
+|      75 | 0x1D17      |        7447 |
+|      76 | 0x1D18      |        7448 |
+|      77 | 0x1D19      |        7449 |
+|      78 | 0x1D1D      |        7453 |
+|      79 | 0x1D1E      |        7454 |
+|      80 | 0x1D1F      |        7455 |
+|      81 | 0x1D20      |        7456 |
 
 ## String References
 
-- **6554**: Obtained $0 gil.
-- **7370**: Humph. Sorry, but we don't have a hat to suit you right now.
-- **7371**: Perhaps if you grew a smarter head we could find you a smarter hat!
-- **7374**: A hat may seem to be a simple garment, but it has the right to select the one who will wear it.
-- **7375**: As we in the business say... "If the wearer fits, hat it."
-- **7376**: For many long years I've been friends with Bondada, that customer over there. We've chatted over tea, but we can never seem to agree on anything.
-- **7377**: A good hat doesn't hide the wearer--it expresses the very essence of the wearer.
-- **7378**: They say that there are stars in the heavens that wear hats. They're far better dressers than we could ever be!
-- **7379**: Hey, you'll do! You have just the right appearance.
-- **7380**: I'd like you to take my latest creation and show it off around the whole of Windurst Waters.
-- **7381**: How about it? I'll make it worth your while. Care to try your hand at the exciting new field of headwear advertising?
-- **7382**: By the way, do you want to give the hat advertising gig another go?
-- **7383**: Advertise the hatter's wares? [Give it a go./Decline.]
-- **7384**: That's the problem with young people today... They give in at the drop of a hat! Come back when you're ready to help both me and yourself!
-- **7385**: A mad rush, or mediocre sales... It all depends on how well you show off this model!
-- **7386**: Be sure to talk to any potential customers you see! If it goes well, I'll give you a small percentage of the sales.
-- **7387**: Oh, and please limit your advertising to Windurst Waters. We must focus our efforts in this one area! Understand?
-- **7388**: If you see a potential customer, go ahead and converse with him or her as you show off my hat. People who appreciate fine headwear will surely have their interests aroused.
-- **7389**: I have a bet with that customer, Bondada, over how many orders we'll get from the people in this area today.
-- **7390**: Take that hat and walk around Windurst Waters with it. Try and attract as much attention as possible by talking to people.
-- **7391**: Fashion tastes change, so each style of hat has a limited time and area of appeal. It's better if you stay in Windurst Waters and focus your efforts here. You got it?
-- **7412**: Hang your hat up? [Not yet./Yes. Done.]
-- **7413**: If you're throwing in the hat, then I'm taking it back from you.
-- **7414**: Hey, you didn't seem to do any work at all. You have the impudence to ask for a wage for that? What do you think I am, a charity?
-- **7415**: There'll be no passing the hat around here! Get out of here, you slacker!
-- **7416**: That didn't go very well at all. I didn't get a single inquiry, let alone an order.
-- **7417**: Anyway, here's a little pocket money for your limited effort, bad hat. Don't spend it all at once.
-- **7418**: It's not my workmanship that's the problem. It's my poor choice of hired help! Why did I ever bother asking you?
-- **7419**: A few orders have trickled in, but nothing like I had expected. This style should have caught on like wildfire.
-- **7420**: Anyway, here's your pocket money. Don't spend it all at once.
-- **7421**: I guess that's what happens when you ask an amateur to do your advertising. I had better go put on my thinking cap...
-- **7422**: That's a lot of orders we've had. My new style of hat is so charming, it's a crime!
-- **7423**: You've earned yourself quite a hefty cut of the sales, young'un. Watch you don't get cat burgled! I'll also give you one of my hats for good measure.
-- **7424**: Both my workmanship and my skill in selecting hired help are spot on! I won the wager. That'll make Bondada eat her hat.
-- **7425**: I take my hat off to you. Why, I even have orders coming in from other countries! I don't know what you did, but it worked wonders.
-- **7426**: Your talent in advertising is almost as brilliantaru as my talent in hatmaking. Here, take the hat as a reward.
-- **7427**: You seem to have a sense of business there, young'un. Perhaps you should wear two hats, and take up advertising as a side job to your adventuring?
-- **7428**: Come back to this shop when you have the time, and train yourself to become a hat connoisseur.
-- **7433**: I'm in a bit of a fix... but it doesn't concern you.
-- **7434**: If you're not here to buy one of my hats, then hurry up and leave.
-- **7435**: I'm in a bit of a fix... Would you be so good as to hear me out...?
-- **7436**: Some big-wigged madam wants me to make her a particularly luxurious hat... Arrrgh!
-- **7437**: I'm reluctant, as my hats aren't just for appearance's sake.
-- **7439**: I already told you, Bondada, I can make something as simple as a grande dame's hat with my eyes shut.
-- **7440**: That's it! Hey, <Player>! Want to help me out here?
-- **7441**: Help make the lady's luxurious hat? [Give it a try./Decline.]
-- **7442**: Why you...! You just came here to see me wear a dunce's cap too, didn't you?
-- **7443**: I'm going to need feathers... Lots of big feathers! How about you get me three $1 from the monsters that live on the Meriphataud Mountains and Sauromugue Champaign?
-- **7445**: Hurry up and get me those feathers! I'll make that woman eat her hat!
-- **7446**: Well done. You were able to get all I needed.
-- **7447**: That caps off this story! Here, this should pay for your efforts.
-- **7448**: Prepare yourself, Bondada! I'll show you what a luxurious hat is!
-- **7452**: Remember that luxurious hat I was making? Well, it seems that I don't have enough plumage.
-- **7453**: Would you be so good as to help me out again? Then you can help me ruffle Bondada's feathers.
-- **7454**: I need three more $1 that you can pluck from the monsters on the Sauromugue Champaign and Meriphataud Mountains.
-- **7455**: So hurry up and plucking get me those feathers!
-- **8768**: What a fine sailor's cap... Such a shame it's so terribly torn...
-- **8769**: And these are made out of leather, too... It would be a damn sight quicker to make a new one.
-- **8770**: To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter.
-- **8771**: Listen up. I'll need four $1 to save this worn and torn sailor...and a little bit of luck as well.
-- **8772**: To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter.
-- **8773**: Listen up. I'll need four $1 to save this worn and torn sailor...and a little luck as well.
-- **8774**: Wish me luck, 'cause here it goes...
-- **8775**: Ta\`da\`t The operation was a success! To tell you the truth, I had been working on it using some of the leather I had lying around here. To-ho-ho.
-- **8776**: Oh, and here, I also made a little something for you, too...
-- **8777**: To-ho-ho! I just made it using the scraps of leather I had left over, but it's quite a dandy little design, isn't it?
-- **8778**: To-ho-ho! Not that it would happen, but if you ever lost your $0 again, just bring me four $1, and I'll make you a new one.
+- **6555**: Obtained $0 gil.
+- **7371**: Humph. Sorry, but we don't have a hat to suit you right now.
+- **7372**: Perhaps if you grew a smarter head we could find you a smarter hat!
+- **7375**: A hat may seem to be a simple garment, but it has the right to select the one who will wear it.
+- **7376**: As we in the business say... "If the wearer fits, hat it."
+- **7377**: For many long years I've been friends with Bondada, that customer over there. We've chatted over tea, but we can never seem to agree on anything.
+- **7378**: A good hat doesn't hide the wearer--it expresses the very essence of the wearer.
+- **7379**: They say that there are stars in the heavens that wear hats. They're far better dressers than we could ever be!
+- **7380**: Hey, you'll do! You have just the right appearance.
+- **7381**: I'd like you to take my latest creation and show it off around the whole of Windurst Waters.
+- **7382**: How about it? I'll make it worth your while. Care to try your hand at the exciting new field of headwear advertising?
+- **7383**: By the way, do you want to give the hat advertising gig another go?
+- **7384**: Advertise the hatter's wares? [Give it a go./Decline.]
+- **7385**: That's the problem with young people today... They give in at the drop of a hat! Come back when you're ready to help both me and yourself!
+- **7386**: A mad rush, or mediocre sales... It all depends on how well you show off this model!
+- **7387**: Be sure to talk to any potential customers you see! If it goes well, I'll give you a small percentage of the sales.
+- **7388**: Oh, and please limit your advertising to Windurst Waters. We must focus our efforts in this one area! Understand?
+- **7389**: If you see a potential customer, go ahead and converse with him or her as you show off my hat. People who appreciate fine headwear will surely have their interests aroused.
+- **7390**: I have a bet with that customer, Bondada, over how many orders we'll get from the people in this area today.
+- **7391**: Take that hat and walk around Windurst Waters with it. Try and attract as much attention as possible by talking to people.
+- **7392**: Fashion tastes change, so each style of hat has a limited time and area of appeal. It's better if you stay in Windurst Waters and focus your efforts here. You got it?
+- **7413**: Hang your hat up? [Not yet./Yes. Done.]
+- **7414**: If you're throwing in the hat, then I'm taking it back from you.
+- **7415**: Hey, you didn't seem to do any work at all. You have the impudence to ask for a wage for that? What do you think I am, a charity?
+- **7416**: There'll be no passing the hat around here! Get out of here, you slacker!
+- **7417**: That didn't go very well at all. I didn't get a single inquiry, let alone an order.
+- **7418**: Anyway, here's a little pocket money for your limited effort, bad hat. Don't spend it all at once.
+- **7419**: It's not my workmanship that's the problem. It's my poor choice of hired help! Why did I ever bother asking you?
+- **7420**: A few orders have trickled in, but nothing like I had expected. This style should have caught on like wildfire.
+- **7421**: Anyway, here's your pocket money. Don't spend it all at once.
+- **7422**: I guess that's what happens when you ask an amateur to do your advertising. I had better go put on my thinking cap...
+- **7423**: That's a lot of orders we've had. My new style of hat is so charming, it's a crime!
+- **7424**: You've earned yourself quite a hefty cut of the sales, young'un. Watch you don't get cat burgled! I'll also give you one of my hats for good measure.
+- **7425**: Both my workmanship and my skill in selecting hired help are spot on! I won the wager. That'll make Bondada eat her hat.
+- **7426**: I take my hat off to you. Why, I even have orders coming in from other countries! I don't know what you did, but it worked wonders.
+- **7427**: Your talent in advertising is almost as brilliantaru as my talent in hatmaking. Here, take the hat as a reward.
+- **7428**: You seem to have a sense of business there, young'un. Perhaps you should wear two hats, and take up advertising as a side job to your adventuring?
+- **7429**: Come back to this shop when you have the time, and train yourself to become a hat connoisseur.
+- **7434**: I'm in a bit of a fix... but it doesn't concern you.
+- **7435**: If you're not here to buy one of my hats, then hurry up and leave.
+- **7436**: I'm in a bit of a fix... Would you be so good as to hear me out...?
+- **7437**: Some big-wigged madam wants me to make her a particularly luxurious hat... Arrrgh!
+- **7438**: I'm reluctant, as my hats aren't just for appearance's sake.
+- **7440**: I already told you, Bondada, I can make something as simple as a grande dame's hat with my eyes shut.
+- **7441**: That's it! Hey, <Player>! Want to help me out here?
+- **7442**: Help make the lady's luxurious hat? [Give it a try./Decline.]
+- **7443**: Why you...! You just came here to see me wear a dunce's cap too, didn't you?
+- **7444**: I'm going to need feathers... Lots of big feathers! How about you get me three $1 from the monsters that live on the Meriphataud Mountains and Sauromugue Champaign?
+- **7446**: Hurry up and get me those feathers! I'll make that woman eat her hat!
+- **7447**: Well done. You were able to get all I needed.
+- **7448**: That caps off this story! Here, this should pay for your efforts.
+- **7449**: Prepare yourself, Bondada! I'll show you what a luxurious hat is!
+- **7453**: Remember that luxurious hat I was making? Well, it seems that I don't have enough plumage.
+- **7454**: Would you be so good as to help me out again? Then you can help me ruffle Bondada's feathers.
+- **7455**: I need three more $1 that you can pluck from the monsters on the Sauromugue Champaign and Meriphataud Mountains.
+- **7456**: So hurry up and plucking get me those feathers!
+- **8769**: What a fine sailor's cap... Such a shame it's so terribly torn...
+- **8770**: And these are made out of leather, too... It would be a damn sight quicker to make a new one.
+- **8771**: To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter.
+- **8772**: Listen up. I'll need four $1 to save this worn and torn sailor...and a little bit of luck as well.
+- **8773**: To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter.
+- **8774**: Listen up. I'll need four $1 to save this worn and torn sailor...and a little luck as well.
+- **8775**: Wish me luck, 'cause here it goes...
+- **8776**: Ta\`da\`t The operation was a success! To tell you the truth, I had been working on it using some of the leather I had lying around here. To-ho-ho.
+- **8777**: Oh, and here, I also made a little something for you, too...
+- **8778**: To-ho-ho! I just made it using the scraps of leather I had left over, but it's quite a dandy little design, isn't it?
+- **8779**: To-ho-ho! Not that it would happen, but if you ever lost your $0 again, just bring me four $1, and I'll make you a new one.
 
 ## Events
 
@@ -1064,10 +1064,10 @@
   1: 0x01F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+  4: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "Humph. Sorry, but we don't have a hat to suit you right now."
   5: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+  6: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
     → "Perhaps if you grew a smarter head we could find you a smarter hat!"
   7: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0201 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1101,10 +1101,10 @@
   1: 0x0211 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0212 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0213 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
+  4: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
     → "A hat may seem to be a simple garment, but it has the right to select the one who will wear it."
   5: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7375*)
+  6: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
     → "As we in the business say... "If the wearer fits, hat it.""
   7: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0222 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1138,7 +1138,7 @@
   1: 0x0232 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0233 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+  4: 0x023B [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
     → "For many long years I've been friends with Bondada, that customer over there. We've chatted over tea, but we can never seem to agree on anything."
   5: 0x023E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x023F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1172,7 +1172,7 @@
   1: 0x024F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0250 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0251 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+  4: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
     → "A good hat doesn't hide the wearer--it expresses the very essence of the wearer."
   5: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x025C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1206,7 +1206,7 @@
   1: 0x026C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "They say that there are stars in the heavens that wear hats. They're far better dressers than we could ever be!"
   5: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0279 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1242,7 +1242,7 @@
   1: 0x0289 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x028A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x028B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x28)
-  4: 0x0292 [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=0*)
+  4: 0x0292 [0x24] CREATE_DIALOG(message_id=7384*, default_option=0*, option_flags=0*)
     → "Advertise the hatter's wares? [Give it a go./Decline.]"
   5: 0x0299 [0x25] WAIT_DIALOG_SELECT()
   6: 0x029A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B1
@@ -1330,13 +1330,13 @@ SUBROUTINE_02C8:
 
 ```
   0: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+  1: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "Hey, you'll do! You have just the right appearance."
   2: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
+  3: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
     → "I'd like you to take my latest creation and show it off around the whole of Windurst Waters."
   4: 0x02F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+  5: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "How about it? I'll make it worth your while. Care to try your hand at the exciting new field of headwear advertising?"
   6: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1363,7 +1363,7 @@ SUBROUTINE_02C8:
 #### Opcodes
 
 ```
-  0: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7384*)
+  0: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
     → "That's the problem with young people today... They give in at the drop of a hat! Come back when you're ready to help both me and yourself!"
   1: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0302 [0x00] END_REQSTACK()
@@ -1390,10 +1390,10 @@ SUBROUTINE_02C8:
 
 ```
   0: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+  1: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
     → "A mad rush, or mediocre sales... It all depends on how well you show off this model!"
   2: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+  3: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "Be sure to talk to any potential customers you see! If it goes well, I'll give you a small percentage of the sales."
   4: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0312 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1419,7 +1419,7 @@ SUBROUTINE_02C8:
 #### Opcodes
 
 ```
-  0: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+  0: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
     → "Oh, and please limit your advertising to Windurst Waters. We must focus our efforts in this one area! Understand?"
   1: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x031E [0x00] END_REQSTACK()
@@ -1455,14 +1455,14 @@ SUBROUTINE_02C8:
   2: 0x0326 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0327 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0328 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  5: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
+  5: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7383*)
     → "By the way, do you want to give the hat advertising gig another go?"
   6: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=7381*)
+  7: 0x0333 [0x1D] PRINT_EVENT_MESSAGE(message_id=7382*)
     → "How about it? I'll make it worth your while. Care to try your hand at the exciting new field of headwear advertising?"
   8: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0337 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
- 10: 0x033E [0x24] CREATE_DIALOG(message_id=7383*, default_option=0*, option_flags=0*)
+ 10: 0x033E [0x24] CREATE_DIALOG(message_id=7384*, default_option=0*, option_flags=0*)
     → "Advertise the hatter's wares? [Give it a go./Decline.]"
  11: 0x0345 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0346 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035D
@@ -1505,10 +1505,10 @@ SUBROUTINE_0374:
   1: 0x037D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x037E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x037F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  4: 0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "If you see a potential customer, go ahead and converse with him or her as you show off my hat. People who appreciate fine headwear will surely have their interests aroused."
   5: 0x0389 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x038A [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
+  6: 0x038A [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
     → "I have a bet with that customer, Bondada, over how many orders we'll get from the people in this area today."
   7: 0x038D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x038E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1556,14 +1556,14 @@ SUBROUTINE_0374:
   1: 0x039E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x039F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
+  4: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
     → "Take that hat and walk around Windurst Waters with it. Try and attract as much attention as possible by talking to people."
   5: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
+  6: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
     → "Fashion tastes change, so each style of hat has a limited time and area of appeal. It's better if you stay in Windurst Waters and focus your efforts here. You got it?"
   7: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
-  9: 0x03B6 [0x24] CREATE_DIALOG(message_id=7412*, default_option=0*, option_flags=0*)
+  9: 0x03B6 [0x24] CREATE_DIALOG(message_id=7413*, default_option=0*, option_flags=0*)
     → "Hang your hat up? [Not yet./Yes. Done.]"
  10: 0x03BD [0x25] WAIT_DIALOG_SELECT()
  11: 0x03BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03CE
@@ -1619,7 +1619,7 @@ SUBROUTINE_048D:
 #### Opcodes
 
 ```
-  0: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+  0: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "If you're throwing in the hat, then I'm taking it back from you."
   1: 0x0494 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0495 [0x00] END_REQSTACK()
@@ -1644,7 +1644,7 @@ SUBROUTINE_048D:
 #### Opcodes
 
 ```
-  0: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+  0: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Hey, you didn't seem to do any work at all. You have the impudence to ask for a wage for that? What do you think I am, a charity?"
   1: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x049A [0x00] END_REQSTACK()
@@ -1670,10 +1670,10 @@ SUBROUTINE_048D:
 #### Opcodes
 
 ```
-  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "That didn't go very well at all. I didn't get a single inquiry, let alone an order."
   1: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
+  2: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
     → "Anyway, here's a little pocket money for your limited effort, bad hat. Don't spend it all at once."
   3: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04A3 [0x00] END_REQSTACK()
@@ -1698,10 +1698,10 @@ SUBROUTINE_048D:
 #### Opcodes
 
 ```
-  0: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  0: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "A few orders have trickled in, but nothing like I had expected. This style should have caught on like wildfire."
   1: 0x04A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  2: 0x04A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "Anyway, here's your pocket money. Don't spend it all at once."
   3: 0x04AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04AC [0x00] END_REQSTACK()
@@ -1728,15 +1728,15 @@ SUBROUTINE_048D:
 #### Opcodes
 
 ```
-  0: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
+  0: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
     → "That's a lot of orders we've had. My new style of hat is so charming, it's a crime!"
   1: 0x04B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04B1 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x04C0
-  3: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+  3: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Both my workmanship and my skill in selecting hired help are spot on! I won the wager. That'll make Bondada eat her hat."
   4: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04BD [0x01] GOTO 0x04C4
-  6: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+  6: 0x04C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "You've earned yourself quite a hefty cut of the sales, young'un. Watch you don't get cat burgled! I'll also give you one of my hats for good measure."
   7: 0x04C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1764,15 +1764,15 @@ SUBROUTINE_04C4:
 #### Opcodes
 
 ```
-  0: 0x04C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
+  0: 0x04C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
     → "I take my hat off to you. Why, I even have orders coming in from other countries! I don't know what you did, but it worked wonders."
   1: 0x04C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04C9 [0x02] IF !(Work_Zone[7] == 1*) GOTO 0x04D8
-  3: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  3: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "You seem to have a sense of business there, young'un. Perhaps you should wear two hats, and take up advertising as a side job to your adventuring?"
   4: 0x04D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04D5 [0x01] GOTO 0x04DC
-  6: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7426*)
+  6: 0x04D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
     → "Your talent in advertising is almost as brilliantaru as my talent in hatmaking. Here, take the hat as a reward."
   7: 0x04DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1805,7 +1805,7 @@ SUBROUTINE_04DC:
   1: 0x04E2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04E3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+  4: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "There'll be no passing the hat around here! Get out of here, you slacker!"
   5: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1839,7 +1839,7 @@ SUBROUTINE_04DC:
   1: 0x04FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0500 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0501 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0508 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+  4: 0x0508 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "It's not my workmanship that's the problem. It's my poor choice of hired help! Why did I ever bother asking you?"
   5: 0x050B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x050C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1873,7 +1873,7 @@ SUBROUTINE_04DC:
   1: 0x051C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x051D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x051E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0525 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+  4: 0x0525 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "I guess that's what happens when you ask an amateur to do your advertising. I had better go put on my thinking cap..."
   5: 0x0528 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0529 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1907,7 +1907,7 @@ SUBROUTINE_04DC:
   1: 0x0539 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x053A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x053B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+  4: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Both my workmanship and my skill in selecting hired help are spot on! I won the wager. That'll make Bondada eat her hat."
   5: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0546 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1940,7 +1940,7 @@ SUBROUTINE_04DC:
   1: 0x0556 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0557 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0558 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=7427*)
+  4: 0x055F [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
     → "You seem to have a sense of business there, young'un. Perhaps you should wear two hats, and take up advertising as a side job to your adventuring?"
   5: 0x0562 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -1974,7 +1974,7 @@ SUBROUTINE_04DC:
   1: 0x0573 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0574 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0575 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+  4: 0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "Come back to this shop when you have the time, and train yourself to become a hat connoisseur."
   5: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0580 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2008,7 +2008,7 @@ SUBROUTINE_04DC:
   1: 0x0590 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0591 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0592 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+  4: 0x0599 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "If you're not here to buy one of my hats, then hurry up and leave."
   5: 0x059C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x059D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2072,10 +2072,10 @@ SUBROUTINE_04DC:
 #### Opcodes
 
 ```
-  0: 0x05D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8768*)
+  0: 0x05D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8769*)
     → "What a fine sailor's cap... Such a shame it's so terribly torn..."
   1: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8769*)
+  2: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8770*)
     → "And these are made out of leather, too... It would be a damn sight quicker to make a new one."
   3: 0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x05DA [0x00] END_REQSTACK()
@@ -2101,10 +2101,10 @@ SUBROUTINE_04DC:
 #### Opcodes
 
 ```
-  0: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8770*)
+  0: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8771*)
     → "To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter."
   1: 0x05DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x05DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8771*)
+  2: 0x05DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8772*)
     → "Listen up. I'll need four $1 to save this worn and torn sailor...and a little bit of luck as well."
   3: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x05E3 [0x00] END_REQSTACK()
@@ -2135,10 +2135,10 @@ SUBROUTINE_04DC:
   1: 0x05E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8772*)
+  4: 0x05F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
     → "To-ho-ho... Might as well try full-scale surgery to see if we can resurrect the poor blighter."
   5: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
+  6: 0x05F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
     → "Listen up. I'll need four $1 to save this worn and torn sailor...and a little luck as well."
   7: 0x05F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2213,10 +2213,10 @@ SUBROUTINE_0648:
 
 ```
   0: 0x064C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+  1: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "Wish me luck, 'cause here it goes..."
   2: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
+  3: 0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
     → "Ta`da`t The operation was a success! To tell you the truth, I had been working on it using some of the leather I had lying around here. To-ho-ho."
   4: 0x065A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x065B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x02)
@@ -2242,7 +2242,7 @@ SUBROUTINE_0648:
 #### Opcodes
 
 ```
-  0: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=8776*)
+  0: 0x0663 [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
     → "Oh, and here, I also made a little something for you, too..."
   1: 0x0666 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0667 [0x00] END_REQSTACK()
@@ -2267,7 +2267,7 @@ SUBROUTINE_0648:
 #### Opcodes
 
 ```
-  0: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
+  0: 0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
     → "To-ho-ho! I just made it using the scraps of leather I had left over, but it's quite a dandy little design, isn't it?"
   1: 0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x066C [0x00] END_REQSTACK()
@@ -2298,7 +2298,7 @@ SUBROUTINE_0648:
   1: 0x0672 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0673 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0674 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  4: 0x067B [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
+  4: 0x067B [0x1D] PRINT_EVENT_MESSAGE(message_id=8779*)
     → "To-ho-ho! Not that it would happen, but if you ever lost your $0 again, just bring me four $1, and I'll make you a new one."
   5: 0x067E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x067F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2365,7 +2365,7 @@ SUBROUTINE_0648:
 
 ```
   0: 0x06BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x06C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+  1: 0x06C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "I'm in a bit of a fix... but it doesn't concern you."
   2: 0x06C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2394,7 +2394,7 @@ SUBROUTINE_0648:
 
 ```
   0: 0x06CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x06D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+  1: 0x06D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "If you're not here to buy one of my hats, then hurry up and leave."
   2: 0x06D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x1D)
@@ -2447,7 +2447,7 @@ SUBROUTINE_0648:
  15: 0x072D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x072E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
  17: 0x0733 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x4B)
- 18: 0x073A [0x24] CREATE_DIALOG(message_id=7441*, default_option=0*, option_flags=0*)
+ 18: 0x073A [0x24] CREATE_DIALOG(message_id=7442*, default_option=0*, option_flags=0*)
     → "Help make the lady's luxurious hat? [Give it a try./Decline.]"
  19: 0x0741 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0742 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0759
@@ -2488,17 +2488,17 @@ SUBROUTINE_0770:
 
 ```
   0: 0x0774 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x03)
-  1: 0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+  1: 0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "I'm in a bit of a fix... Would you be so good as to hear me out...?"
   2: 0x077E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x077F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x04)
   4: 0x0786 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x05)
-  5: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  5: 0x078D [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "Some big-wigged madam wants me to make her a particularly luxurious hat... Arrrgh!"
   6: 0x0790 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0791 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x06)
   8: 0x0798 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  9: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+  9: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "I'm reluctant, as my hats aren't just for appearance's sake."
  10: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x07A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x02)
@@ -2526,7 +2526,7 @@ SUBROUTINE_0770:
 
 ```
   0: 0x07AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x17)
-  1: 0x07B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+  1: 0x07B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "I already told you, Bondada, I can make something as simple as a grande dame's hat with my eyes shut."
   2: 0x07B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x18)
@@ -2555,7 +2555,7 @@ SUBROUTINE_0770:
 
 ```
   0: 0x07BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x09)
-  1: 0x07C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+  1: 0x07C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "That's it! Hey, <Player>! Want to help me out here?"
   2: 0x07C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x0A)
@@ -2583,7 +2583,7 @@ SUBROUTINE_0770:
 
 ```
   0: 0x07D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x15)
-  1: 0x07D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+  1: 0x07D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "Why you...! You just came here to see me wear a dunce's cap too, didn't you?"
   2: 0x07DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x16)
@@ -2615,12 +2615,12 @@ SUBROUTINE_0770:
   1: 0x07E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x03)
-  4: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+  4: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "I'm going to need feathers... Lots of big feathers! How about you get me three $1 from the monsters that live on the Meriphataud Mountains and Sauromugue Champaign?"
   5: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x07F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x04)
   7: 0x07FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x05)
-  8: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+  8: 0x0804 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "Hurry up and get me those feathers! I'll make that woman eat her hat!"
   9: 0x0807 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0808 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x06)
@@ -2652,12 +2652,12 @@ SUBROUTINE_0770:
   1: 0x0815 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0816 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0817 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x03)
-  4: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+  4: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "I'm going to need feathers... Lots of big feathers! How about you get me three $1 from the monsters that live on the Meriphataud Mountains and Sauromugue Champaign?"
   5: 0x0821 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0822 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x04)
   7: 0x0829 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x05)
-  8: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+  8: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "Hurry up and get me those feathers! I'll make that woman eat her hat!"
   9: 0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0834 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x06)
@@ -2706,7 +2706,7 @@ SUBROUTINE_0770:
  12: 0x0870 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Bondada (ID: 17752133/0x010EE045) Render.Flags0 and Render.Flags3 conditions are met
  13: 0x0875 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Bondada (ID: 17752133/0x010EE045), tag_num=0x2B)
  14: 0x087C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 15: 0x088D [0x48] [System] [6554*]:
+ 15: 0x088D [0x48] [System] [6555*]:
     → "Obtained $0 gil."
  16: 0x0890 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  17: 0x0892 [0x21] END_EVENT
@@ -2734,10 +2734,10 @@ SUBROUTINE_0770:
 
 ```
   0: 0x0894 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x089B [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
+  1: 0x089B [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
     → "Well done. You were able to get all I needed."
   2: 0x089E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x089F [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  3: 0x089F [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "That caps off this story! Here, this should pay for your efforts."
   4: 0x08A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x02)
@@ -2765,7 +2765,7 @@ SUBROUTINE_0770:
 
 ```
   0: 0x08AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x09)
-  1: 0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  1: 0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Prepare yourself, Bondada! I'll show you what a luxurious hat is!"
   2: 0x08B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x08B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x0A)
@@ -2801,7 +2801,7 @@ SUBROUTINE_0770:
   4: 0x08CE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x08CF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   6: 0x08D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x09)
-  7: 0x08DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  7: 0x08DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Prepare yourself, Bondada! I'll show you what a luxurious hat is!"
   8: 0x08DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x08DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x0A)
@@ -2839,7 +2839,7 @@ SUBROUTINE_0770:
   2: 0x08F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x08F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x08F3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x54)
-  5: 0x08FA [0x24] CREATE_DIALOG(message_id=7441*, default_option=0*, option_flags=0*)
+  5: 0x08FA [0x24] CREATE_DIALOG(message_id=7442*, default_option=0*, option_flags=0*)
     → "Help make the lady's luxurious hat? [Give it a try./Decline.]"
   6: 0x0901 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0902 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0919
@@ -2878,10 +2878,10 @@ SUBROUTINE_0930:
 
 ```
   0: 0x0934 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x01)
-  1: 0x093B [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  1: 0x093B [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Remember that luxurious hat I was making? Well, it seems that I don't have enough plumage."
   2: 0x093E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x093F [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  3: 0x093F [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Would you be so good as to help me out again? Then you can help me ruffle Bondada's feathers."
   4: 0x0942 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0943 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x02)
@@ -2914,12 +2914,12 @@ SUBROUTINE_0930:
   1: 0x0950 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0951 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0952 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x03)
-  4: 0x0959 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  4: 0x0959 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "I need three more $1 that you can pluck from the monsters on the Sauromugue Champaign and Meriphataud Mountains."
   5: 0x095C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x095D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x04)
   7: 0x0964 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x05)
-  8: 0x096B [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
+  8: 0x096B [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
     → "So hurry up and plucking get me those feathers!"
   9: 0x096E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x096F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Baren-Moren (ID: 17752132/0x010EE044), tag_num=0x06)

@@ -28,25 +28,25 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CB6      |        7350 |
-|       1 | 0x1CB7      |        7351 |
-|       2 | 0x1CB8      |        7352 |
+|       0 | 0x1CB7      |        7351 |
+|       1 | 0x1CB8      |        7352 |
+|       2 | 0x1CB9      |        7353 |
 |       3 | 0x0889      |        2185 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1CB9      |        7353 |
+|       5 | 0x1CBA      |        7354 |
 |       6 | 0x088A      |        2186 |
 |       7 | 0x0003      |           3 |
-|       8 | 0x1CBE      |        7358 |
+|       8 | 0x1CBF      |        7359 |
 |       9 | 0x0004      |           4 |
 |      10 | 0x00C8      |         200 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x003C      |          60 |
 |      13 | 0x0013      |          19 |
 |      14 | 0x00D9      |         217 |
-|      15 | 0x1CBA      |        7354 |
+|      15 | 0x1CBB      |        7355 |
 |      16 | 0x0078      |         120 |
-|      17 | 0x1CBB      |        7355 |
-|      18 | 0x1CBC      |        7356 |
+|      17 | 0x1CBC      |        7356 |
+|      18 | 0x1CBD      |        7357 |
 |      19 | 0x00B4      |         180 |
 |      20 | 0x00F0      |         240 |
 |      21 | 0x000D      |          13 |
@@ -59,22 +59,22 @@
 |      28 | 0xFFFF87F7  |  4294936567 |
 |      29 | 0x0400      |        1024 |
 |      30 | 0x0749      |        1865 |
-|      31 | 0x1CBF      |        7359 |
+|      31 | 0x1CC0      |        7360 |
 |      32 | 0x0020      |          32 |
-|      33 | 0x1CC0      |        7360 |
+|      33 | 0x1CC1      |        7361 |
 
 ## String References
 
-- **7350**: This tunnel leads to the Alzadaal Undersea Ruins.
-- **7351**: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
-- **7352**: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
-- **7353**: The fee for entering the ruins comes to $1 $0 .
-- **7354**: Very well. You may proceed.
-- **7355**: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
-- **7356**: Leave the ruins? [Yes, I'm done here./Not just yet.]
-- **7358**: If you need a map of the ruins, you can purchase one for $1 $0 .
-- **7359**: Here is your $3. Keep it in a safe place.
-- **7360**: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
+- **7351**: This tunnel leads to the Alzadaal Undersea Ruins.
+- **7352**: Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public.
+- **7353**: However we cannot guarantee your safety--you would be wise to stay aware of your surroundings.
+- **7354**: The fee for entering the ruins comes to $1 $0 .
+- **7355**: Very well. You may proceed.
+- **7356**: Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins.
+- **7357**: Leave the ruins? [Yes, I'm done here./Not just yet.]
+- **7359**: If you need a map of the ruins, you can purchase one for $1 $0 .
+- **7360**: Here is your $3. Keep it in a safe place.
+- **7361**: You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have.
 
 ## Events
 
@@ -126,23 +126,23 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "This tunnel leads to the Alzadaal Undersea Ruins."
   5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+  6: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "Now that the investigation of the Aht Urhgan Archaelogical Research Institute has drawn to a close, the ruins have been opened to the public."
   7: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  8: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "However we cannot guarantee your safety--you would be wise to stay aware of your surroundings."
   9: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0016 [0x03] Work_Zone[2] = 2185*
  11: 0x001B [0x03] Work_Zone[3] = 1*
- 12: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+ 12: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "The fee for entering the ruins comes to $1 $0 ."
  13: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0024 [0x03] Work_Zone[2] = 2186*
  15: 0x0029 [0x03] Work_Zone[3] = 3*
- 16: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
+ 16: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
     → "If you need a map of the ruins, you can purchase one for $1 $0 ."
  17: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0032 [0x21] END_EVENT
@@ -192,7 +192,7 @@
  11: 0x0069 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x0D)
  12: 0x0070 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x0081 [0x1C] WAIT(60* ticks)
- 14: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+ 14: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "Very well. You may proceed."
  15: 0x0087 [0x1C] WAIT(60* ticks)
  16: 0x008A [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Kamih Mapokhalam (ID: 16990635/0x010341AB), tag_num=0x04)
@@ -249,10 +249,10 @@
   2: 0x00D5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "Heading outside? Please be aware that you will be required to pay a fee if you wish to reenter the ruins."
   6: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00E0 [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
+  7: 0x00E0 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
     → "Leave the ruins? [Yes, I'm done here./Not just yet.]"
   8: 0x00E7 [0x25] WAIT_DIALOG_SELECT()
   9: 0x00E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AB
@@ -425,7 +425,7 @@ SUBROUTINE_01BB:
   7: 0x01F1 [0x6E] Kamih Mapokhalam (ID: 16990635/0x010341AB) uses emote 0*
   8: 0x01F8 [0x99] Wait for Kamih Mapokhalam (ID: 16990635/0x010341AB) animation to complete
   9: 0x01FD [0x03] Work_Zone[2] = 1865*
- 10: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7359*)
+ 10: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
     → "Here is your $3. Keep it in a safe place."
  11: 0x0205 [0x1C] WAIT(180* ticks)
  12: 0x0208 [0x21] END_EVENT
@@ -459,7 +459,7 @@ SUBROUTINE_01BB:
   3: 0x0212 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0213 [0x6E] Kamih Mapokhalam (ID: 16990635/0x010341AB) uses emote 32*
   5: 0x021A [0x99] Wait for Kamih Mapokhalam (ID: 16990635/0x010341AB) animation to complete
-  6: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7360*)
+  6: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7361*)
     → "You already possess a map of the ruins. I only have a limited number of copies, so please use the one you have."
   7: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0223 [0x21] END_EVENT

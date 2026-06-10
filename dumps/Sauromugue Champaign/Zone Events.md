@@ -103,12 +103,12 @@
 |      24 | 0x0165      |         357 |
 |      25 | 0x08CD      |        2253 |
 |      26 | 0x0005      |           5 |
-|      27 | 0x1DF4      |        7668 |
+|      27 | 0x1DF5      |        7669 |
 |      28 | 0x001E      |          30 |
-|      29 | 0x1DF5      |        7669 |
-|      30 | 0x1DF6      |        7670 |
-|      31 | 0x1DFA      |        7674 |
-|      32 | 0x1DF7      |        7671 |
+|      29 | 0x1DF6      |        7670 |
+|      30 | 0x1DF7      |        7671 |
+|      31 | 0x1DFB      |        7675 |
+|      32 | 0x1DF8      |        7672 |
 |      33 | 0x00C9      |         201 |
 |      34 | 0x000B      |          11 |
 |      35 | 0xFFFCF255  |  4294767189 |
@@ -538,11 +538,11 @@
  16: 0x0116 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x0127 [0x4A] Narsha (ID: 17269242/0x010781FA) looks at LocalPlayer
  18: 0x0130 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x0141 [0x2B] Narsha (ID: 17269242/0x010781FA) [7668*]:
+ 19: 0x0141 [0x2B] Narsha (ID: 17269242/0x010781FA) [7669*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0149 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narsha (ID: 17269242/0x010781FA), Narsha (ID: 17269242/0x010781FA)], work=30*
- 22: 0x0158 [0x2B] Narsha (ID: 17269242/0x010781FA) [7669*]:
+ 22: 0x0158 [0x2B] Narsha (ID: 17269242/0x010781FA) [7670*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0160 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x01B2
@@ -554,17 +554,17 @@
  30: 0x018B [0x15] Work_Zone[6] /= 60*
  31: 0x0190 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0197 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x01AA
- 33: 0x019F [0x2B] Narsha (ID: 17269242/0x010781FA) [7670*]:
+ 33: 0x019F [0x2B] Narsha (ID: 17269242/0x010781FA) [7671*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x01A7 [0x01] GOTO 0x01B2
- 36: 0x01AA [0x2B] Narsha (ID: 17269242/0x010781FA) [7674*]:
+ 36: 0x01AA [0x2B] Narsha (ID: 17269242/0x010781FA) [7675*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01B2:
  38: 0x01B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Narsha (ID: 17269242/0x010781FA), Narsha (ID: 17269242/0x010781FA)], work=30*
- 39: 0x01C1 [0x2B] Narsha (ID: 17269242/0x010781FA) [7671*]:
+ 39: 0x01C1 [0x2B] Narsha (ID: 17269242/0x010781FA) [7672*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01C9 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=5*

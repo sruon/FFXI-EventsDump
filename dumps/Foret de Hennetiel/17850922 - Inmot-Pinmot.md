@@ -25,31 +25,31 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0022      |          34 |
-|       1 | 0x1D57      |        7511 |
-|       2 | 0x1D58      |        7512 |
-|       3 | 0x1D59      |        7513 |
-|       4 | 0x1D5A      |        7514 |
-|       5 | 0x1D5B      |        7515 |
-|       6 | 0x1D5C      |        7516 |
-|       7 | 0x1D5D      |        7517 |
-|       8 | 0x1D5E      |        7518 |
+|       1 | 0x1D58      |        7512 |
+|       2 | 0x1D59      |        7513 |
+|       3 | 0x1D5A      |        7514 |
+|       4 | 0x1D5B      |        7515 |
+|       5 | 0x1D5C      |        7516 |
+|       6 | 0x1D5D      |        7517 |
+|       7 | 0x1D5E      |        7518 |
+|       8 | 0x1D5F      |        7519 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x1D5F      |        7519 |
-|      12 | 0x1D60      |        7520 |
+|      11 | 0x1D60      |        7520 |
+|      12 | 0x1D61      |        7521 |
 
 ## String References
 
-- **7511**: Excuse me! On your way here, did you come across any unsully-wullied land?
-- **7512**: These areas are keptaru clean by mystical forces known as "ergon loci."
-- **7513**: If you find one, can you collectaru a bunch of sand from the area? I'm conducting advanced research into the loci's origin-worigin and effects.
-- **7514**: I've heard that ergon loci have the power to cleansy-weanse poison and other detrimentarus from the surrounding land. You should recognize one at first sight. Does that help?
-- **7515**: You found it! You really found it! This is fantastic-wastic! It's both pure and clean. My experimentations can now continue!
-- **7516**: You see, we don't know much about these loci, except that there are pristine locations in other areas of Eastern Ulbuka-wuka, too.
-- **7517**: The one thing the loci have in common is their ability to sanctify surrounding lands, like a force of energy-wenergy welling up from the ground. You must have feltaru something when you crossed the beaches.
-- **7518**: But for now, back to work! If all goes according to plan, this may be the secretaru to cleansing the whole river!
-- **7519**: [Defiled/Pure white] sand stretches out before you.
-- **7520**: An aura of tranquility embraces the land and soothes your heart.
+- **7512**: Excuse me! On your way here, did you come across any unsully-wullied land?
+- **7513**: These areas are keptaru clean by mystical forces known as "ergon loci."
+- **7514**: If you find one, can you collectaru a bunch of sand from the area? I'm conducting advanced research into the loci's origin-worigin and effects.
+- **7515**: I've heard that ergon loci have the power to cleansy-weanse poison and other detrimentarus from the surrounding land. You should recognize one at first sight. Does that help?
+- **7516**: You found it! You really found it! This is fantastic-wastic! It's both pure and clean. My experimentations can now continue!
+- **7517**: You see, we don't know much about these loci, except that there are pristine locations in other areas of Eastern Ulbuka-wuka, too.
+- **7518**: The one thing the loci have in common is their ability to sanctify surrounding lands, like a force of energy-wenergy welling up from the ground. You must have feltaru something when you crossed the beaches.
+- **7519**: But for now, back to work! If all goes according to plan, this may be the secretaru to cleansing the whole river!
+- **7520**: [Defiled/Pure white] sand stretches out before you.
+- **7521**: An aura of tranquility embraces the land and soothes your heart.
 
 ## Events
 
@@ -102,16 +102,16 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "Excuse me! On your way here, did you come across any unsully-wullied land?"
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
+  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
     → "These areas are keptaru clean by mystical forces known as "ergon loci.""
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+  9: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "If you find one, can you collectaru a bunch of sand from the area? I'm conducting advanced research into the loci's origin-worigin and effects."
  10: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+ 11: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "I've heard that ergon loci have the power to cleansy-weanse poison and other detrimentarus from the surrounding land. You should recognize one at first sight. Does that help?"
  12: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
@@ -146,7 +146,7 @@
   2: 0x003F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0040 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0041 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
-  5: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  5: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "I've heard that ergon loci have the power to cleansy-weanse poison and other detrimentarus from the surrounding land. You should recognize one at first sight. Does that help?"
   6: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
@@ -182,16 +182,16 @@
   2: 0x006B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x006C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x006D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
-  5: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  5: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "You found it! You really found it! This is fantastic-wastic! It's both pure and clean. My experimentations can now continue!"
   6: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  7: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "You see, we don't know much about these loci, except that there are pristine locations in other areas of Eastern Ulbuka-wuka, too."
   8: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  9: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "The one thing the loci have in common is their ability to sanctify surrounding lands, like a force of energy-wenergy welling up from the ground. You must have feltaru something when you crossed the beaches."
  10: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+ 11: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "But for now, back to work! If all goes according to plan, this may be the secretaru to cleansing the whole river!"
  12: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x008C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
@@ -227,7 +227,7 @@
   2: 0x00B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=34*
-  5: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  5: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "But for now, back to work! If all goes according to plan, this may be the secretaru to cleansing the whole river!"
   6: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=34*
@@ -256,10 +256,10 @@
 
 ```
   0: 0x00DA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00DB [0x48] [System] [7519*]:
+  1: 0x00DB [0x48] [System] [7520*]:
     → "[Defiled/Pure white] sand stretches out before you."
   2: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00DF [0x48] [System] [7520*]:
+  3: 0x00DF [0x48] [System] [7521*]:
     → "An aura of tranquility embraces the land and soothes your heart."
   4: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E3 [0x21] END_EVENT

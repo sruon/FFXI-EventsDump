@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D27      |        7463 |
-|       1 | 0x1D28      |        7464 |
-|       2 | 0x1D29      |        7465 |
-|       3 | 0x1D2A      |        7466 |
-|       4 | 0x1D2B      |        7467 |
-|       5 | 0x1D2C      |        7468 |
+|       0 | 0x1D28      |        7464 |
+|       1 | 0x1D29      |        7465 |
+|       2 | 0x1D2A      |        7466 |
+|       3 | 0x1D2B      |        7467 |
+|       4 | 0x1D2C      |        7468 |
+|       5 | 0x1D2D      |        7469 |
 
 ## String References
 
-- **7463**: You see a message engraved on the stone:
-- **7464**: It is clear from my research that, in addition to the endearing Tarutaru and the unsophisticated Mithra, a third race once lived here on the plains of Sarutabaruta.
-- **7465**: The ancient towers that the Tarutaru call the "Horutoto Ruins" look to have been made for people their size, but there are peculiar differences in design and style.
-- **7466**: Indeed, they closely resemble the "Tower Like a Hand" in a sketch my father Gwynham once sent me.
-- **7467**: Yet the tower he saw was in Valdeaunia in the north of Quon, a great distance from its counterparts here. Clearly, an advanced civilization once covered this world.
-- **7468**: I believe I can still hear its echoes in Vana'diel today, or perhaps it is just my imagination running wild. --Enid Ironheart, 777 Crystal Era.
+- **7464**: You see a message engraved on the stone:
+- **7465**: It is clear from my research that, in addition to the endearing Tarutaru and the unsophisticated Mithra, a third race once lived here on the plains of Sarutabaruta.
+- **7466**: The ancient towers that the Tarutaru call the "Horutoto Ruins" look to have been made for people their size, but there are peculiar differences in design and style.
+- **7467**: Indeed, they closely resemble the "Tower Like a Hand" in a sketch my father Gwynham once sent me.
+- **7468**: Yet the tower he saw was in Valdeaunia in the north of Quon, a great distance from its counterparts here. Clearly, an advanced civilization once covered this world.
+- **7469**: I believe I can still hear its echoes in Vana'diel today, or perhaps it is just my imagination running wild. --Enid Ironheart, 777 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7463*]:
+  0: 0x0001 [0x48] [System] [7464*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7464*]:
+  2: 0x0005 [0x48] [System] [7465*]:
     → "It is clear from my research that, in addition to the endearing Tarutaru and the unsophisticated Mithra, a third race once lived here on the plains of Sarutabaruta."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7465*]:
+  4: 0x0009 [0x48] [System] [7466*]:
     → "The ancient towers that the Tarutaru call the "Horutoto Ruins" look to have been made for people their size, but there are peculiar differences in design and style."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7466*]:
+  6: 0x000D [0x48] [System] [7467*]:
     → "Indeed, they closely resemble the "Tower Like a Hand" in a sketch my father Gwynham once sent me."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7467*]:
+  8: 0x0011 [0x48] [System] [7468*]:
     → "Yet the tower he saw was in Valdeaunia in the north of Quon, a great distance from its counterparts here. Clearly, an advanced civilization once covered this world."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7468*]:
+ 10: 0x0015 [0x48] [System] [7469*]:
     → "I believe I can still hear its echoes in Vana'diel today, or perhaps it is just my imagination running wild. --Enid Ironheart, 777 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

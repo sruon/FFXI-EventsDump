@@ -22,10 +22,10 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x270F      |        9999 |
-|       2 | 0x1FDD      |        8157 |
+|       2 | 0x1FDE      |        8158 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
-|       5 | 0x1FDB      |        8155 |
+|       5 | 0x1FDC      |        8156 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0008      |           8 |
 |       8 | 0x000F      |          15 |
@@ -35,20 +35,20 @@
 |      12 | 0x0005      |           5 |
 |      13 | 0x0003      |           3 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x1FDE      |        8158 |
+|      15 | 0x1FDF      |        8159 |
 |      16 | 0x0638      |        1592 |
 |      17 | 0x0639      |        1593 |
-|      18 | 0x1FDF      |        8159 |
+|      18 | 0x1FE0      |        8160 |
 |      19 | 0x01F0      |         496 |
 |      20 | 0x0010      |          16 |
 |      21 | 0x0017      |          23 |
 
 ## String References
 
-- **8155**: Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel).
-- **8157**: Do something? [Nope./Reset fame./Quest 01 (Fame rank: $0/Quest 02 (Fame rank: $1/Quest 03 (Fame rank: $2/Quest 04 (Fame rank: $3/Quest 05 (Fame rank: $4/Quest 06 (Fame rank: $5/Quest 07 (Fame rank: $6/Quest 08 (Fame rank: $7/Quest 09 (Fame rank: $8/Quest 10 (Fame rank: $9/Toggle AP check (currently [on/off]).]
-- **8158**: Do something? (Quest ). [Nope./Set to incomplete./Progress report./Obtain key item./Set to complete./Set times completed.]
-- **8159**: GjI7i$6226530i . . . . . . .
+- **8156**: Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel).
+- **8158**: Do something? [Nope./Reset fame./Quest 01 (Fame rank: $0/Quest 02 (Fame rank: $1/Quest 03 (Fame rank: $2/Quest 04 (Fame rank: $3/Quest 05 (Fame rank: $4/Quest 06 (Fame rank: $5/Quest 07 (Fame rank: $6/Quest 08 (Fame rank: $7/Quest 09 (Fame rank: $8/Quest 10 (Fame rank: $9/Toggle AP check (currently [on/off]).]
+- **8159**: Do something? (Quest ). [Nope./Set to incomplete./Progress report./Obtain key item./Set to complete./Set times completed.]
+- **8160**: GjI7i$6226530i . . . . . . .
 
 ## Events
 
@@ -137,7 +137,7 @@
   4: 0x0013 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x010A
   5: 0x001B [0x1A] CALL_SUBROUTINE(address=0x020B)
   6: 0x001E [0x03] ExtData[1]->WorkLocal[2] = 9999*
-  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8157*, default_option=0*, option_flags=0*)
+  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8158*, default_option=0*, option_flags=0*)
     → "Do something? [Nope./Reset fame./Quest 01 (Fame rank: $0/Quest 02 (Fame rank: $1/Quest 03 (Fame rank: $2/Quest 04 (Fame rank: $3/Quest 05 (Fame rank: $4/Quest 06 (Fame rank: $5/Quest 07 (Fame rank: $6/Quest 08 (Fame rank: $7/Quest 09 (Fame rank: $8/Quest 10 (Fame rank: $9/Toggle AP check (currently [on/off]).]"
   8: 0x002A [0x25] WAIT_DIALOG_SELECT()
   9: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
@@ -147,7 +147,7 @@
  13: 0x003E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0071
  14: 0x0046 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  15: 0x004B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
- 16: 0x0050 [0x48] [System] [8155*]:
+ 16: 0x0050 [0x48] [System] [8156*]:
     → "Current area score: $0 (Rank $1) Enter a number between 0 and 63. (0 to cancel)."
  17: 0x0053 [0x03] Work_Zone[1] = 0*
  18: 0x0058 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -191,7 +191,7 @@ SUBROUTINE_00F2:
  52: 0x010B [0x00] END_REQSTACK()
 
 SUBROUTINE_010C:
- 53: 0x010C [0x24] CREATE_DIALOG(message_id=8158*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 53: 0x010C [0x24] CREATE_DIALOG(message_id=8159*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Do something? (Quest ). [Nope./Set to incomplete./Progress report./Obtain key item./Set to complete./Set times completed.]"
  54: 0x0113 [0x25] WAIT_DIALOG_SELECT()
  55: 0x0114 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0124
@@ -211,7 +211,7 @@ SUBROUTINE_010C:
  69: 0x016C [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x01B4
  70: 0x0174 [0x03] Work_Zone[2] = 1592*
  71: 0x0179 [0x03] Work_Zone[3] = 1593*
- 72: 0x017E [0x24] CREATE_DIALOG(message_id=8159*, default_option=0*, option_flags=496*)
+ 72: 0x017E [0x24] CREATE_DIALOG(message_id=8160*, default_option=0*, option_flags=496*)
     → "GjI7i$6226530i . . . . . . ."
  73: 0x0185 [0x25] WAIT_DIALOG_SELECT()
  74: 0x0186 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0196

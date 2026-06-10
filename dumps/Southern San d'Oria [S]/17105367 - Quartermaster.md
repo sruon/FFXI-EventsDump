@@ -24,81 +24,81 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2EF4      |       12020 |
+|       0 | 0x2EF5      |       12021 |
 |       1 | 0x0051      |          81 |
 |       2 | 0x005E      |          94 |
-|       3 | 0x2EF5      |       12021 |
-|       4 | 0x2EF6      |       12022 |
-|       5 | 0x2EFF      |       12031 |
+|       3 | 0x2EF6      |       12022 |
+|       4 | 0x2EF7      |       12023 |
+|       5 | 0x2F00      |       12032 |
 |       6 | 0x0052      |          82 |
-|       7 | 0x2EF7      |       12023 |
+|       7 | 0x2EF8      |       12024 |
 |       8 | 0x0053      |          83 |
 |       9 | 0x0054      |          84 |
 |      10 | 0x005B      |          91 |
-|      11 | 0x2EF8      |       12024 |
+|      11 | 0x2EF9      |       12025 |
 |      12 | 0x005C      |          92 |
-|      13 | 0x2EF9      |       12025 |
+|      13 | 0x2EFA      |       12026 |
 |      14 | 0x005D      |          93 |
-|      15 | 0x2EFA      |       12026 |
+|      15 | 0x2EFB      |       12027 |
 |      16 | 0x0001      |           1 |
-|      17 | 0x2F00      |       12032 |
-|      18 | 0x2F01      |       12033 |
+|      17 | 0x2F01      |       12033 |
+|      18 | 0x2F02      |       12034 |
 |      19 | 0x0002      |           2 |
 |      20 | 0x0003      |           3 |
-|      21 | 0x2F05      |       12037 |
+|      21 | 0x2F06      |       12038 |
 |      22 | 0x0004      |           4 |
-|      23 | 0x2F08      |       12040 |
+|      23 | 0x2F09      |       12041 |
 |      24 | 0x0005      |           5 |
-|      25 | 0x2F02      |       12034 |
+|      25 | 0x2F03      |       12035 |
 |      26 | 0x0006      |           6 |
 |      27 | 0x0007      |           7 |
-|      28 | 0x2F0A      |       12042 |
+|      28 | 0x2F0B      |       12043 |
 |      29 | 0x0008      |           8 |
-|      30 | 0x2F09      |       12041 |
+|      30 | 0x2F0A      |       12042 |
 |      31 | 0x0060      |          96 |
 |      32 | 0x0000      |           0 |
-|      33 | 0x2F0B      |       12043 |
-|      34 | 0x2F0C      |       12044 |
-|      35 | 0x2F0D      |       12045 |
-|      36 | 0x2DFF      |       11775 |
-|      37 | 0x2E00      |       11776 |
-|      38 | 0x2E01      |       11777 |
-|      39 | 0x2E02      |       11778 |
-|      40 | 0x2E03      |       11779 |
-|      41 | 0x2E04      |       11780 |
-|      42 | 0x2DFC      |       11772 |
-|      43 | 0x2DFD      |       11773 |
-|      44 | 0x2DFE      |       11774 |
+|      33 | 0x2F0C      |       12044 |
+|      34 | 0x2F0D      |       12045 |
+|      35 | 0x2F0E      |       12046 |
+|      36 | 0x2E00      |       11776 |
+|      37 | 0x2E01      |       11777 |
+|      38 | 0x2E02      |       11778 |
+|      39 | 0x2E03      |       11779 |
+|      40 | 0x2E04      |       11780 |
+|      41 | 0x2E05      |       11781 |
+|      42 | 0x2DFD      |       11773 |
+|      43 | 0x2DFE      |       11774 |
+|      44 | 0x2DFF      |       11775 |
 
 ## String References
 
-- **11772**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
-- **11773**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
-- **11774**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
-- **11775**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
-- **11776**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
-- **11777**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
-- **11778**: Make haste, <Player>. Sir Rasdinice awaits your report!
-- **11779**: What are you waiting for, <Player>? Report to First Centurion Hieronymus on the double!
-- **11780**: Why are you wasting your time chatting with me? Shouldn't you be reporting to Emhi Tchaoryo?
-- **12020**: I am very busy here. Stand down or I will call the guards!
-- **12021**: I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign.
-- **12022**: You are to travel to [East Ronfaure/North Gustaberg/West Sarutabaruta/the Jugner Forest/Grauberg/Fort Karugo-Narugo] and use your [logging/mining/harvesting/logging/harvesting/logging] skills to find $3 $0$0 .
-- **12023**: You are to appropriate $3 $0$0 from the enemy. This is a very dangerous mission, but, if successful, will help weaken the hordes significantly.
-- **12024**: You are to collect a mere $3 $0$0 . If you cannot manage that, you might want to reconsider your participation in our forces.
-- **12025**: Unfortunately, our forces on the frontlines require a constant flow of rations to maintain their strength. Bring me $3 $0$0 and I will make sure that they are distributed properly.
-- **12026**: Unfortunately, our forces are running low on medicine. To prevent the further loss of any life, I need you to procure $3 $0$0 .
-- **12031**: Report to me when you've finished, but do not delay. Time is of the essence, <Player>.
-- **12032**: What is this? Are you still not finished carrying out your orders?
-- **12033**: Your orders are to procure $3 $0$0 . Perhaps you should take notes.
-- **12034**: Excellent work, <Player>. Do not forget to report your completion of the mission to Sir Rasdinice.
-- **12037**: What are you waiting for, <Player>, a written invitation? Report to Sir Rasdinice on the double!
-- **12040**: This is not the full order, <Player>.
-- **12041**: This is not the full order, <Player>. However, I'll accept what you have. Next time, make sure to procure all the items requested of you. Dismissed!
-- **12042**: I do not believe this is what your mission orders specify, <Player>.
-- **12043**: You the new temporay raid recruit? Alright, listen up, soldier! I'm gonna keep this short and simple, so's you can understand it real good-like. The sole purpose of your existence is to attack Beastman supply divisions and seize any viable cargo!
-- **12044**: Our best intelligence indicates that the enemy units we're after most frequently pass through an area when it is under Beastman influence.
-- **12045**: You are to infiltrate said area and promptly locate and dispatch said enemy. You are then to proceed to acquire any and all enemy-held supplies and return here with them. Is that understood, soldier!?
+- **11773**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
+- **11774**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
+- **11775**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
+- **11776**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
+- **11777**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
+- **11778**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
+- **11779**: Make haste, <Player>. Sir Rasdinice awaits your report!
+- **11780**: What are you waiting for, <Player>? Report to First Centurion Hieronymus on the double!
+- **11781**: Why are you wasting your time chatting with me? Shouldn't you be reporting to Emhi Tchaoryo?
+- **12021**: I am very busy here. Stand down or I will call the guards!
+- **12022**: I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign.
+- **12023**: You are to travel to [East Ronfaure/North Gustaberg/West Sarutabaruta/the Jugner Forest/Grauberg/Fort Karugo-Narugo] and use your [logging/mining/harvesting/logging/harvesting/logging] skills to find $3 $0$0 .
+- **12024**: You are to appropriate $3 $0$0 from the enemy. This is a very dangerous mission, but, if successful, will help weaken the hordes significantly.
+- **12025**: You are to collect a mere $3 $0$0 . If you cannot manage that, you might want to reconsider your participation in our forces.
+- **12026**: Unfortunately, our forces on the frontlines require a constant flow of rations to maintain their strength. Bring me $3 $0$0 and I will make sure that they are distributed properly.
+- **12027**: Unfortunately, our forces are running low on medicine. To prevent the further loss of any life, I need you to procure $3 $0$0 .
+- **12032**: Report to me when you've finished, but do not delay. Time is of the essence, <Player>.
+- **12033**: What is this? Are you still not finished carrying out your orders?
+- **12034**: Your orders are to procure $3 $0$0 . Perhaps you should take notes.
+- **12035**: Excellent work, <Player>. Do not forget to report your completion of the mission to Sir Rasdinice.
+- **12038**: What are you waiting for, <Player>, a written invitation? Report to Sir Rasdinice on the double!
+- **12041**: This is not the full order, <Player>.
+- **12042**: This is not the full order, <Player>. However, I'll accept what you have. Next time, make sure to procure all the items requested of you. Dismissed!
+- **12043**: I do not believe this is what your mission orders specify, <Player>.
+- **12044**: You the new temporay raid recruit? Alright, listen up, soldier! I'm gonna keep this short and simple, so's you can understand it real good-like. The sole purpose of your existence is to attack Beastman supply divisions and seize any viable cargo!
+- **12045**: Our best intelligence indicates that the enemy units we're after most frequently pass through an area when it is under Beastman influence.
+- **12046**: You are to infiltrate said area and promptly locate and dispatch said enemy. You are then to proceed to acquire any and all enemy-held supplies and return here with them. Is that understood, soldier!?
 
 ## Events
 
@@ -145,7 +145,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=12020*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
     → "I am very busy here. Stand down or I will call the guards!"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -202,94 +202,94 @@
  12: 0x003B [0x02] IF !(ExtData[1]->WorkLocal[0] < 81*) GOTO 0x0107
  13: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[0] > 94*) GOTO 0x0107
  14: 0x004B [0x02] IF !(ExtData[1]->WorkLocal[0] == 81*) GOTO 0x0062
- 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  16: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
+ 17: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
     → "You are to travel to [East Ronfaure/North Gustaberg/West Sarutabaruta/the Jugner Forest/Grauberg/Fort Karugo-Narugo] and use your [logging/mining/harvesting/logging/harvesting/logging] skills to find $3 $0$0 ."
  18: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 19: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  20: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x005F [0x01] GOTO 0x0107
  22: 0x0062 [0x02] IF !(ExtData[1]->WorkLocal[0] == 82*) GOTO 0x0079
- 23: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 23: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  24: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
+ 25: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
     → "You are to appropriate $3 $0$0 from the enemy. This is a very dangerous mission, but, if successful, will help weaken the hordes significantly."
  26: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 27: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  28: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0076 [0x01] GOTO 0x0107
  30: 0x0079 [0x02] IF !(ExtData[1]->WorkLocal[0] == 83*) GOTO 0x0090
- 31: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 31: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  32: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
+ 33: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
     → "You are to travel to [East Ronfaure/North Gustaberg/West Sarutabaruta/the Jugner Forest/Grauberg/Fort Karugo-Narugo] and use your [logging/mining/harvesting/logging/harvesting/logging] skills to find $3 $0$0 ."
  34: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 35: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  36: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x008D [0x01] GOTO 0x0107
  38: 0x0090 [0x02] IF !(ExtData[1]->WorkLocal[0] == 84*) GOTO 0x00A7
- 39: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 39: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  40: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=12023*)
+ 41: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
     → "You are to appropriate $3 $0$0 from the enemy. This is a very dangerous mission, but, if successful, will help weaken the hordes significantly."
  42: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 43: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  44: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00A4 [0x01] GOTO 0x0107
  46: 0x00A7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 91*) GOTO 0x00BE
- 47: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 47: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  48: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12024*)
+ 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
     → "You are to collect a mere $3 $0$0 . If you cannot manage that, you might want to reconsider your participation in our forces."
  50: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 51: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  52: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x00BB [0x01] GOTO 0x0107
  54: 0x00BE [0x02] IF !(ExtData[1]->WorkLocal[0] == 92*) GOTO 0x00D5
- 55: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 55: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  56: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+ 57: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
     → "Unfortunately, our forces on the frontlines require a constant flow of rations to maintain their strength. Bring me $3 $0$0 and I will make sure that they are distributed properly."
  58: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 59: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  60: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x00D2 [0x01] GOTO 0x0107
  62: 0x00D5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 93*) GOTO 0x00EC
- 63: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 63: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  64: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
+ 65: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
     → "Unfortunately, our forces are running low on medicine. To prevent the further loss of any life, I need you to procure $3 $0$0 ."
  66: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 67: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  68: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x00E9 [0x01] GOTO 0x0107
  70: 0x00EC [0x02] IF !(ExtData[1]->WorkLocal[0] == 94*) GOTO 0x0103
- 71: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
+ 71: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12022*)
     → "I've been waiting for you, <Player>. We have decided to increase our nation's supply stockpile to better ready ourselves for an extended campaign."
  72: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+ 73: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
     → "Unfortunately, our forces on the frontlines require a constant flow of rations to maintain their strength. Bring me $3 $0$0 and I will make sure that they are distributed properly."
  74: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12031*)
+ 75: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
     → "Report to me when you've finished, but do not delay. Time is of the essence, <Player>."
  76: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0100 [0x01] GOTO 0x0107
- 78: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=12020*)
+ 78: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=12021*)
     → "I am very busy here. Stand down or I will call the guards!"
  79: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -338,52 +338,52 @@ SUBROUTINE_0107:
   6: 0x011D [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[5]
   7: 0x0122 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[7]
   8: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x013F
-  9: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
+  9: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
     → "What is this? Are you still not finished carrying out your orders?"
  10: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
+ 11: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
     → "Your orders are to procure $3 $0$0 . Perhaps you should take notes."
  12: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0137 [0x03] Work_Zone[1] = 1*
  14: 0x013C [0x01] GOTO 0x01CB
  15: 0x013F [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0153
- 16: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
+ 16: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
     → "What is this? Are you still not finished carrying out your orders?"
  17: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x014B [0x03] Work_Zone[1] = 2*
  19: 0x0150 [0x01] GOTO 0x01CB
  20: 0x0153 [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x0167
- 21: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=12037*)
+ 21: 0x015B [0x1D] PRINT_EVENT_MESSAGE(message_id=12038*)
     → "What are you waiting for, <Player>, a written invitation? Report to Sir Rasdinice on the double!"
  22: 0x015E [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x015F [0x03] Work_Zone[1] = 3*
  24: 0x0164 [0x01] GOTO 0x01CB
  25: 0x0167 [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x017B
- 26: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=12040*)
+ 26: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
     → "This is not the full order, <Player>."
  27: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0173 [0x03] Work_Zone[1] = 4*
  29: 0x0178 [0x01] GOTO 0x01CB
  30: 0x017B [0x02] IF !(ExtData[1]->WorkLocal[4] == 5*) GOTO 0x018F
- 31: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+ 31: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
     → "Excellent work, <Player>. Do not forget to report your completion of the mission to Sir Rasdinice."
  32: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0187 [0x03] Work_Zone[1] = 5*
  34: 0x018C [0x01] GOTO 0x01CB
  35: 0x018F [0x02] IF !(ExtData[1]->WorkLocal[4] == 6*) GOTO 0x01A3
- 36: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+ 36: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
     → "Excellent work, <Player>. Do not forget to report your completion of the mission to Sir Rasdinice."
  37: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x019B [0x03] Work_Zone[1] = 6*
  39: 0x01A0 [0x01] GOTO 0x01CB
  40: 0x01A3 [0x02] IF !(ExtData[1]->WorkLocal[4] == 7*) GOTO 0x01B7
- 41: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
+ 41: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12043*)
     → "I do not believe this is what your mission orders specify, <Player>."
  42: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01AF [0x03] Work_Zone[1] = 7*
  44: 0x01B4 [0x01] GOTO 0x01CB
  45: 0x01B7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x01CB
- 46: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=12041*)
+ 46: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=12042*)
     → "This is not the full order, <Player>. However, I'll accept what you have. Next time, make sure to procure all the items requested of you. Dismissed!"
  47: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x01C3 [0x03] Work_Zone[1] = 8*
@@ -435,34 +435,34 @@ SUBROUTINE_01CB:
   4: 0x01DD [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[4]
   5: 0x01E2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 96*) GOTO 0x02BB
   6: 0x01EA [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0201
-  7: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12043*)
+  7: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12044*)
     → "You the new temporay raid recruit? Alright, listen up, soldier! I'm gonna keep this short and simple, so's you can understand it real good-like. The sole purpose of your existence is to attack Beastman supply divisions and seize any viable cargo!"
   8: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12044*)
+  9: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
     → "Our best intelligence indicates that the enemy units we're after most frequently pass through an area when it is under Beastman influence."
  10: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
+ 11: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12046*)
     → "You are to infiltrate said area and promptly locate and dispatch said enemy. You are then to proceed to acquire any and all enemy-held supplies and return here with them. Is that understood, soldier!?"
  12: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01FE [0x01] GOTO 0x02B8
  14: 0x0201 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x0210
- 15: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=12032*)
+ 15: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
     → "What is this? Are you still not finished carrying out your orders?"
  16: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x020D [0x01] GOTO 0x02B8
  18: 0x0210 [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x0248
  19: 0x0218 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0227
- 20: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=11775*)
+ 20: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=11776*)
     → "It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you."
  21: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0224 [0x01] GOTO 0x0245
  23: 0x0227 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0236
- 24: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=11776*)
+ 24: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=11777*)
     → "Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier."
  25: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0233 [0x01] GOTO 0x0245
  27: 0x0236 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x0245
- 28: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=11777*)
+ 28: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=11778*)
     → "Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first."
  29: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0242 [0x01] GOTO 0x0245
@@ -471,17 +471,17 @@ SUBROUTINE_0245:
  31: 0x0245 [0x01] GOTO 0x02B8
  32: 0x0248 [0x02] IF !(ExtData[1]->WorkLocal[4] == 3*) GOTO 0x0280
  33: 0x0250 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x025F
- 34: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=11778*)
+ 34: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=11779*)
     → "Make haste, <Player>. Sir Rasdinice awaits your report!"
  35: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x025C [0x01] GOTO 0x027D
  37: 0x025F [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x026E
- 38: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11779*)
+ 38: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11780*)
     → "What are you waiting for, <Player>? Report to First Centurion Hieronymus on the double!"
  39: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x026B [0x01] GOTO 0x027D
  41: 0x026E [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x027D
- 42: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=11780*)
+ 42: 0x0276 [0x1D] PRINT_EVENT_MESSAGE(message_id=11781*)
     → "Why are you wasting your time chatting with me? Shouldn't you be reporting to Emhi Tchaoryo?"
  43: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x027A [0x01] GOTO 0x027D
@@ -490,17 +490,17 @@ SUBROUTINE_027D:
  45: 0x027D [0x01] GOTO 0x02B8
  46: 0x0280 [0x02] IF !(ExtData[1]->WorkLocal[4] == 4*) GOTO 0x02B8
  47: 0x0288 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0297
- 48: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11772*)
+ 48: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11773*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
  49: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0294 [0x01] GOTO 0x02B5
  51: 0x0297 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x02A6
- 52: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=11773*)
+ 52: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=11774*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
  53: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x02A3 [0x01] GOTO 0x02B5
  55: 0x02A6 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x02B5
- 56: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11774*)
+ 56: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11775*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
  57: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x02B2 [0x01] GOTO 0x02B5

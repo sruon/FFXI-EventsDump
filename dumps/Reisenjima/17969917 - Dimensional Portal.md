@@ -22,8 +22,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE5      |        7397 |
-|       1 | 0x1CE6      |        7398 |
+|       0 | 0x1CE6      |        7398 |
+|       1 | 0x1CE7      |        7399 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
@@ -35,8 +35,8 @@
 
 ## String References
 
-- **7397**: You should be able to teleport to the Crag of [Holla/Dem/Mea] from here.
-- **7398**: Ready to teleport? [Yes./No.]
+- **7398**: You should be able to teleport to the Crag of [Holla/Dem/Mea] from here.
+- **7399**: Ready to teleport? [Yes./No.]
 
 ## Events
 
@@ -89,10 +89,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7397*]:
+  0: 0x0001 [0x48] [System] [7398*]:
     → "You should be able to teleport to the Crag of [Holla/Dem/Mea] from here."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7398*, default_option=1*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7399*, default_option=1*, option_flags=0*)
     → "Ready to teleport? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x001F

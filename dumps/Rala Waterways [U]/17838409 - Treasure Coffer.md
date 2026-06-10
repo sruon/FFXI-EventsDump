@@ -25,17 +25,17 @@
 |       2 | 0x000F      |          15 |
 |       3 | 0x0010      |          16 |
 |       4 | 0x001F      |          31 |
-|       5 | 0x1CD4      |        7380 |
+|       5 | 0x1CD5      |        7381 |
 |       6 | 0x000B      |          11 |
-|       7 | 0x1CD5      |        7381 |
-|       8 | 0x1CD6      |        7382 |
+|       7 | 0x1CD6      |        7382 |
+|       8 | 0x1CD7      |        7383 |
 |       9 | 0xFFFFFFFF  |  4294967295 |
 
 ## String References
 
-- **7380**: Which will you obtain? [Nothing./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./All the spoils!]
-- **7381**: Obtain this item?
-- **7382**: Obtain the $0? [Yes./No.]
+- **7381**: Which will you obtain? [Nothing./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./All the spoils!]
+- **7382**: Obtain this item?
+- **7383**: Obtain the $0? [Yes./No.]
 
 ## Events
 
@@ -127,7 +127,7 @@
  20: 0x0091 [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[8]
  21: 0x0096 [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[9]
  22: 0x009B [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[10]
- 23: 0x00A0 [0x24] CREATE_DIALOG(message_id=7380*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+ 23: 0x00A0 [0x24] CREATE_DIALOG(message_id=7381*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Which will you obtain? [Nothing./#./$1./$2./$3./$4./$5./$6./$7./$8./$9./All the spoils!]"
  24: 0x00A7 [0x25] WAIT_DIALOG_SELECT()
  25: 0x00A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B6
@@ -141,13 +141,13 @@ SUBROUTINE_00B6:
  31: 0x00CB [0x0C] ExtData[1]->WorkLocal[13]--
  32: 0x00CE [0x9D] ExtData[1]->WorkLocal[14] = 0x0152[ExtData[1]->WorkLocal[13]] // Read WORD
  33: 0x00D6 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[14])
- 34: 0x00D9 [0x48] [System] [7381*]:
+ 34: 0x00D9 [0x48] [System] [7382*]:
     → "Obtain this item?"
  35: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00DD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  37: 0x00E0 [0x0B] ExtData[1]->WorkLocal[13]++
  38: 0x00E3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
- 39: 0x00E8 [0x24] CREATE_DIALOG(message_id=7382*, default_option=1*, option_flags=0*)
+ 39: 0x00E8 [0x24] CREATE_DIALOG(message_id=7383*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
  40: 0x00EF [0x25] WAIT_DIALOG_SELECT()
  41: 0x00F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0112

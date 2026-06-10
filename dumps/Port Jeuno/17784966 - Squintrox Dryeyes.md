@@ -63,7 +63,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FF6      |        8182 |
+|       0 | 0x1FF7      |        8183 |
 |       1 | 0x0451      |        1105 |
 |       2 | 0x0452      |        1106 |
 |       3 | 0x0469      |        1129 |
@@ -72,23 +72,23 @@
 |       6 | 0x04A0      |        1184 |
 |       7 | 0x04A1      |        1185 |
 |       8 | 0x04A3      |        1187 |
-|       9 | 0x1FF7      |        8183 |
+|       9 | 0x1FF8      |        8184 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x0001      |           1 |
-|      12 | 0x1FF8      |        8184 |
+|      12 | 0x1FF9      |        8185 |
 |      13 | 0x0AB4      |        2740 |
 |      14 | 0x0AB5      |        2741 |
 |      15 | 0x0AB6      |        2742 |
-|      16 | 0x1FF9      |        8185 |
+|      16 | 0x1FFA      |        8186 |
 |      17 | 0x0002      |           2 |
 |      18 | 0x0064      |         100 |
 |      19 | 0x043D      |        1085 |
 |      20 | 0x043E      |        1086 |
 |      21 | 0x043F      |        1087 |
-|      22 | 0x1FFA      |        8186 |
-|      23 | 0x1FFB      |        8187 |
-|      24 | 0x1FFC      |        8188 |
-|      25 | 0x1FFD      |        8189 |
+|      22 | 0x1FFB      |        8187 |
+|      23 | 0x1FFC      |        8188 |
+|      24 | 0x1FFD      |        8189 |
+|      25 | 0x1FFE      |        8190 |
 |      26 | 0x0003      |           3 |
 |      27 | 0x0AC5      |        2757 |
 |      28 | 0x0AC6      |        2758 |
@@ -101,47 +101,47 @@
 |      35 | 0x0005      |           5 |
 |      36 | 0x0066      |         102 |
 |      37 | 0x0478      |        1144 |
-|      38 | 0x2002      |        8194 |
-|      39 | 0x2003      |        8195 |
+|      38 | 0x2003      |        8195 |
+|      39 | 0x2004      |        8196 |
 |      40 | 0x0006      |           6 |
 |      41 | 0x0067      |         103 |
-|      42 | 0x2004      |        8196 |
+|      42 | 0x2005      |        8197 |
 |      43 | 0x0007      |           7 |
 |      44 | 0x0068      |         104 |
-|      45 | 0x2007      |        8199 |
-|      46 | 0x2005      |        8197 |
-|      47 | 0x2006      |        8198 |
+|      45 | 0x2008      |        8200 |
+|      46 | 0x2006      |        8198 |
+|      47 | 0x2007      |        8199 |
 |      48 | 0x0069      |         105 |
 |      49 | 0x0008      |           8 |
 |      50 | 0x04B4      |        1204 |
 |      51 | 0x04B5      |        1205 |
 |      52 | 0x04B6      |        1206 |
 |      53 | 0x04B7      |        1207 |
-|      54 | 0x2008      |        8200 |
+|      54 | 0x2009      |        8201 |
 |      55 | 0x04B8      |        1208 |
 |      56 | 0x04B9      |        1209 |
-|      57 | 0x2009      |        8201 |
-|      58 | 0x200A      |        8202 |
-|      59 | 0x200B      |        8203 |
+|      57 | 0x200A      |        8202 |
+|      58 | 0x200B      |        8203 |
+|      59 | 0x200C      |        8204 |
 |      60 | 0x0009      |           9 |
-|      61 | 0x200C      |        8204 |
+|      61 | 0x200D      |        8205 |
 |      62 | 0x00CB      |         203 |
 |      63 | 0x0443      |        1091 |
 |      64 | 0x0450      |        1104 |
 |      65 | 0x0486      |        1158 |
 |      66 | 0x0487      |        1159 |
 |      67 | 0x04B3      |        1203 |
-|      68 | 0x200D      |        8205 |
-|      69 | 0x2011      |        8209 |
+|      68 | 0x200E      |        8206 |
+|      69 | 0x2012      |        8210 |
 |      70 | 0x01F4      |         500 |
-|      71 | 0x200E      |        8206 |
+|      71 | 0x200F      |        8207 |
 |      72 | 0x00C8      |         200 |
-|      73 | 0x2012      |        8210 |
+|      73 | 0x2013      |        8211 |
 |      74 | 0x012C      |         300 |
 |      75 | 0x05DC      |        1500 |
 |      76 | 0x000F      |          15 |
 |      77 | 0x00C9      |         201 |
-|      78 | 0x2013      |        8211 |
+|      78 | 0x2014      |        8212 |
 |      79 | 0x012D      |         301 |
 |      80 | 0x07D0      |        2000 |
 |      81 | 0x0014      |          20 |
@@ -238,30 +238,30 @@
 
 ## String References
 
-- **8182**: Yeah? You want somethin' from me?
-- **8183**: What you want? [Nothing in particular./6./$6./$6./$6./$6./$6./$6./$6./A certain something else...]
-- **8184**: So you want $3...that right?
-- **8185**: How you gonna make it worth my while? Eh? Bring me $0, $1, and $2 and I just might think about it...maybe. If I feel like it.
-- **8186**: You gonna make it worth my while? Eh? Bring me $3, $3, and $3 and I just might think about it...maybe. If I feel like it.
-- **8187**: Then you give me $3, $3, and $3 and we gotta deal. Whaddaya think?
-- **8188**: Accepting the $3 will trigger a time limit for the quest, "Gatherer of Light."
-- **8189**: Make the trade? [It's a deal!/On second thought...]
-- **8194**: How ya gonna make it worth my while? Eh? I got it. How 'bout ya fetch me $3? Yeah, that should do the trick.
-- **8195**: [$3$3e$3093516$3o$3 [$3N$3 [$3 $; [u/$3W$3$3$3O$3i[$P10X%Q/$3R$3$3V$3$5$3^$3b$3g$2$P12n/$3p$3V$3$5$3n$3E$@/$3^$3$3$3M$P11e [,$P12J/$3u$3u$3$3 $P14<$7/$3$3$3t$3@$3g$R$P12n/$P109$P12n$3WE$3^/$3$6$3^$3$3K$P11e$P10X%Q/$3%3A$3g$3 [$P11e$P10X%Q/$P10<$3A$3 [$3e$3p$;$25/$12$3A$3 [$3e$3p$;$25]E$4_=$3[$3O$3$1A)=B/Where can ya find it!? Ya need me to tell ya everything?/Bah, fine. My buddies say they saw a moogle actin' all suspicious-like over in [La Theine Plateau/Valkurm Dunes/Jugner Forest/Konschtat Highlands/Pashhow Marshlands/Tahrongi Canyon/Buburimu Peninsula/Meriphataud Mountains/The Sanctuary of Zi'Tah/Yuhtunga Jungle/Yhoator Jungle/Western Altepa Desert/Eastern Altepa Desert]./And that's the straight Gobbie dope.]
-- **8196**: How you gonna make it worth my while? Eh? Bring me $0, and I just might think about it...maybe. If I feel like it.
-- **8197**: You see these six magic seals? They're worthless, but the counterseals they're attached to'll fetch a good price. Get the seals off of say...three of 'em for me, and I'll give ya the goods.
-- **8198**: Oho! Looks like you got $1 [counterseal/counterseals]. You wanna trade [it/'em] for $6?
-- **8199**: It'll cost ya three counterseals...no wait, more! Ahhh, I'll take whatever ya got, but no less than three. Deal?
-- **8200**: Then you fetch me $3, $3, $3, and $3.
-- **8201**: That ain't all! I'll be needin' $3 and $3, too. Then it's a deal.
-- **8202**: You give me $3, $3, $3, $3...
-- **8203**: Also $3 and $3, and it's a done deal. Sound good?
-- **8204**: Why, you greedier than Grand Greedalox! You want goods, you pay me both gil and beastmen's seals. Or we no do business.
-- **8205**: What you want? [None of these." Seedspalls./$3./$3./4 Mana Orbs./$3./$3./$3./8 Star Tree Sap Crystals./16 Tablets of Hexes.]
-- **8206**: That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see.
-- **8209**: So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?
-- **8210**: Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]
-- **8211**: Acquire $6? [Yes, please./On second thought...]
+- **8183**: Yeah? You want somethin' from me?
+- **8184**: What you want? [Nothing in particular./6./$6./$6./$6./$6./$6./$6./$6./A certain something else...]
+- **8185**: So you want $3...that right?
+- **8186**: How you gonna make it worth my while? Eh? Bring me $0, $1, and $2 and I just might think about it...maybe. If I feel like it.
+- **8187**: You gonna make it worth my while? Eh? Bring me $3, $3, and $3 and I just might think about it...maybe. If I feel like it.
+- **8188**: Then you give me $3, $3, and $3 and we gotta deal. Whaddaya think?
+- **8189**: Accepting the $3 will trigger a time limit for the quest, "Gatherer of Light."
+- **8190**: Make the trade? [It's a deal!/On second thought...]
+- **8195**: How ya gonna make it worth my while? Eh? I got it. How 'bout ya fetch me $3? Yeah, that should do the trick.
+- **8196**: [$3$3e$3093516$3o$3 [$3N$3 [$3 $; [u/$3W$3$3$3O$3i[$P10X%Q/$3R$3$3V$3$5$3^$3b$3g$2$P12n/$3p$3V$3$5$3n$3E$@/$3^$3$3$3M$P11e [,$P12J/$3u$3u$3$3 $P14<$7/$3$3$3t$3@$3g$R$P12n/$P109$P12n$3WE$3^/$3$6$3^$3$3K$P11e$P10X%Q/$3%3A$3g$3 [$P11e$P10X%Q/$P10<$3A$3 [$3e$3p$;$25/$12$3A$3 [$3e$3p$;$25]E$4_=$3[$3O$3$1A)=B/Where can ya find it!? Ya need me to tell ya everything?/Bah, fine. My buddies say they saw a moogle actin' all suspicious-like over in [La Theine Plateau/Valkurm Dunes/Jugner Forest/Konschtat Highlands/Pashhow Marshlands/Tahrongi Canyon/Buburimu Peninsula/Meriphataud Mountains/The Sanctuary of Zi'Tah/Yuhtunga Jungle/Yhoator Jungle/Western Altepa Desert/Eastern Altepa Desert]./And that's the straight Gobbie dope.]
+- **8197**: How you gonna make it worth my while? Eh? Bring me $0, and I just might think about it...maybe. If I feel like it.
+- **8198**: You see these six magic seals? They're worthless, but the counterseals they're attached to'll fetch a good price. Get the seals off of say...three of 'em for me, and I'll give ya the goods.
+- **8199**: Oho! Looks like you got $1 [counterseal/counterseals]. You wanna trade [it/'em] for $6?
+- **8200**: It'll cost ya three counterseals...no wait, more! Ahhh, I'll take whatever ya got, but no less than three. Deal?
+- **8201**: Then you fetch me $3, $3, $3, and $3.
+- **8202**: That ain't all! I'll be needin' $3 and $3, too. Then it's a deal.
+- **8203**: You give me $3, $3, $3, $3...
+- **8204**: Also $3 and $3, and it's a done deal. Sound good?
+- **8205**: Why, you greedier than Grand Greedalox! You want goods, you pay me both gil and beastmen's seals. Or we no do business.
+- **8206**: What you want? [None of these." Seedspalls./$3./$3./4 Mana Orbs./$3./$3./$3./8 Star Tree Sap Crystals./16 Tablets of Hexes.]
+- **8207**: That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see.
+- **8210**: So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?
+- **8211**: Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]
+- **8212**: Acquire $6? [Yes, please./On second thought...]
 
 ## Events
 
@@ -427,7 +427,7 @@
   3: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x000B [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
     → "Yeah? You want somethin' from me?"
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0014 [0x03] Work_Zone[2] = 1105*
@@ -438,25 +438,25 @@
  13: 0x002D [0x03] Work_Zone[7] = 1184*
  14: 0x0032 [0x03] Work_Zone[8] = 1185*
  15: 0x0037 [0x03] Work_Zone[9] = 1187*
- 16: 0x003C [0x24] CREATE_DIALOG(message_id=8183*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 16: 0x003C [0x24] CREATE_DIALOG(message_id=8184*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What you want? [Nothing in particular./6./$6./$6./$6./$6./$6./$6./$6./A certain something else...]"
  17: 0x0043 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0044 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0070
  19: 0x004C [0x03] Work_Zone[2] = 1105*
- 20: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+ 20: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
  21: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0055 [0x03] Work_Zone[2] = 2740*
  23: 0x005A [0x03] Work_Zone[3] = 2741*
  24: 0x005F [0x03] Work_Zone[4] = 2742*
- 25: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
+ 25: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
     → "How you gonna make it worth my while? Eh? Bring me $0, $1, and $2 and I just might think about it...maybe. If I feel like it."
  26: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0068 [0x03] Work_Zone[1] = 0*
  28: 0x006D [0x01] GOTO 0x0737
  29: 0x0070 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00E3
  30: 0x0078 [0x03] Work_Zone[2] = 1106*
- 31: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+ 31: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
  32: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0081 [0x03] Work_Zone[1] = 100*
@@ -468,18 +468,18 @@
  39: 0x0099 [0x03] Work_Zone[4] = 1087*
  40: 0x009E [0x03] Work_Zone[5] = 1106*
  41: 0x00A3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00B7
- 42: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+ 42: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "You gonna make it worth my while? Eh? Bring me $3, $3, and $3 and I just might think about it...maybe. If I feel like it."
  43: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00AF [0x03] Work_Zone[1] = 0*
  45: 0x00B4 [0x01] GOTO 0x00E0
- 46: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+ 46: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "Then you give me $3, $3, and $3 and we gotta deal. Whaddaya think?"
  47: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00BB [0x03] Work_Zone[2] = 1106*
- 49: 0x00C0 [0x48] [System] [8188*]:
+ 49: 0x00C0 [0x48] [System] [8189*]:
     → "Accepting the $3 will trigger a time limit for the quest, "Gatherer of Light.""
- 50: 0x00C3 [0x24] CREATE_DIALOG(message_id=8189*, default_option=1*, option_flags=0*)
+ 50: 0x00C3 [0x24] CREATE_DIALOG(message_id=8190*, default_option=1*, option_flags=0*)
     → "Make the trade? [It's a deal!/On second thought...]"
  51: 0x00CA [0x25] WAIT_DIALOG_SELECT()
  52: 0x00CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DB
@@ -491,20 +491,20 @@ SUBROUTINE_00E0:
  56: 0x00E0 [0x01] GOTO 0x0737
  57: 0x00E3 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x010F
  58: 0x00EB [0x03] Work_Zone[2] = 1129*
- 59: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+ 59: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
  60: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x00F4 [0x03] Work_Zone[2] = 2757*
  62: 0x00F9 [0x03] Work_Zone[3] = 2758*
  63: 0x00FE [0x03] Work_Zone[4] = 2759*
- 64: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
+ 64: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
     → "How you gonna make it worth my while? Eh? Bring me $0, $1, and $2 and I just might think about it...maybe. If I feel like it."
  65: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0107 [0x03] Work_Zone[1] = 0*
  67: 0x010C [0x01] GOTO 0x0737
  68: 0x010F [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x017A
  69: 0x0117 [0x03] Work_Zone[2] = 1130*
- 70: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+ 70: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
  71: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0120 [0x03] Work_Zone[1] = 101*
@@ -515,16 +515,16 @@ SUBROUTINE_00E0:
  77: 0x0133 [0x03] Work_Zone[3] = 1137*
  78: 0x0138 [0x03] Work_Zone[4] = 1138*
  79: 0x013D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0151
- 80: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+ 80: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "You gonna make it worth my while? Eh? Bring me $3, $3, and $3 and I just might think about it...maybe. If I feel like it."
  81: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0149 [0x03] Work_Zone[1] = 0*
  83: 0x014E [0x01] GOTO 0x0177
- 84: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+ 84: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "Then you give me $3, $3, and $3 and we gotta deal. Whaddaya think?"
  85: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0155 [0x03] Work_Zone[2] = 1130*
- 87: 0x015A [0x24] CREATE_DIALOG(message_id=8189*, default_option=1*, option_flags=0*)
+ 87: 0x015A [0x24] CREATE_DIALOG(message_id=8190*, default_option=1*, option_flags=0*)
     → "Make the trade? [It's a deal!/On second thought...]"
  88: 0x0161 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0162 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172
@@ -536,7 +536,7 @@ SUBROUTINE_0177:
  93: 0x0177 [0x01] GOTO 0x0737
  94: 0x017A [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01FE
  95: 0x0182 [0x03] Work_Zone[2] = 1132*
- 96: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+ 96: 0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
  97: 0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x018B [0x03] Work_Zone[1] = 102*
@@ -547,13 +547,13 @@ SUBROUTINE_0177:
 103: 0x019E [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
 104: 0x01A3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01D0
 105: 0x01AB [0x03] Work_Zone[2] = 1144*
-106: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
+106: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
     → "How ya gonna make it worth my while? Eh? I got it. How 'bout ya fetch me $3? Yeah, that should do the trick."
 107: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x01B4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
 109: 0x01B9 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x01C4
 110: 0x01C1 [0x01] GOTO 0x01C8
-111: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
+111: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
     → "[$3$3e$3093516$3o$3 [$3N$3 [$3 $; [u/$3W$3$3$3O$3i[$P10X%Q/$3R$3$3V$3$5$3^$3b$3g$2$P12n/$3p$3V$3$5$3n$3E$@/$3^$3$3$3M$P11e [,$P12J/$3u$3u$3$3 $P14<$7/$3$3$3t$3@$3g$R$P12n/$P109$P12n$3WE$3^/$3$6$3^$3$3K$P11e$P10X%Q/$3%3A$3g$3 [$P11e$P10X%Q/$P10<$3A$3 [$3e$3p$;$25/$12$3A$3 [$3e$3p$;$25]E$4_=$3[$3O$3$1A)=B/Where can ya find it!? Ya need me to tell ya everything?/Bah, fine. My buddies say they saw a moogle actin' all suspicious-like over in [La Theine Plateau/Valkurm Dunes/Jugner Forest/Konschtat Highlands/Pashhow Marshlands/Tahrongi Canyon/Buburimu Peninsula/Meriphataud Mountains/The Sanctuary of Zi'Tah/Yuhtunga Jungle/Yhoator Jungle/Western Altepa Desert/Eastern Altepa Desert]./And that's the straight Gobbie dope.]"
 112: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -561,11 +561,11 @@ SUBROUTINE_01C8:
 113: 0x01C8 [0x03] Work_Zone[1] = 0*
 114: 0x01CD [0x01] GOTO 0x01FB
 115: 0x01D0 [0x03] Work_Zone[2] = 1144*
-116: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
+116: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
     → "How ya gonna make it worth my while? Eh? I got it. How 'bout ya fetch me $3? Yeah, that should do the trick."
 117: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x01D9 [0x03] Work_Zone[2] = 1132*
-119: 0x01DE [0x24] CREATE_DIALOG(message_id=8189*, default_option=1*, option_flags=0*)
+119: 0x01DE [0x24] CREATE_DIALOG(message_id=8190*, default_option=1*, option_flags=0*)
     → "Make the trade? [It's a deal!/On second thought...]"
 120: 0x01E5 [0x25] WAIT_DIALOG_SELECT()
 121: 0x01E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F6
@@ -577,20 +577,20 @@ SUBROUTINE_01FB:
 125: 0x01FB [0x01] GOTO 0x0737
 126: 0x01FE [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0224
 127: 0x0206 [0x03] Work_Zone[2] = 1184*
-128: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+128: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 129: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x020F [0x03] Work_Zone[1] = 103*
 131: 0x0214 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 132: 0x0216 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-133: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
+133: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
     → "How you gonna make it worth my while? Eh? Bring me $0, and I just might think about it...maybe. If I feel like it."
 134: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x021C [0x03] Work_Zone[1] = 0*
 136: 0x0221 [0x01] GOTO 0x0737
 137: 0x0224 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x02B0
 138: 0x022C [0x03] Work_Zone[2] = 1185*
-139: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+139: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 140: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0235 [0x03] Work_Zone[1] = 104*
@@ -601,12 +601,12 @@ SUBROUTINE_01FB:
 146: 0x024B [0x01] GOTO 0x02AD
 147: 0x024E [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0276
 148: 0x0256 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x026A
-149: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
+149: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
     → "It'll cost ya three counterseals...no wait, more! Ahhh, I'll take whatever ya got, but no less than three. Deal?"
 150: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0262 [0x03] Work_Zone[1] = 0*
 152: 0x0267 [0x01] GOTO 0x0273
-153: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
+153: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
     → "You see these six magic seals? They're worthless, but the counterseals they're attached to'll fetch a good price. Get the seals off of say...three of 'em for me, and I'll give ya the goods."
 154: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x026E [0x03] Work_Zone[1] = 103*
@@ -614,10 +614,10 @@ SUBROUTINE_01FB:
 SUBROUTINE_0273:
 156: 0x0273 [0x01] GOTO 0x02AD
 157: 0x0276 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x02AD
-158: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
+158: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
     → "Oho! Looks like you got $1 [counterseal/counterseals]. You wanna trade [it/'em] for $6?"
 159: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
-160: 0x0282 [0x24] CREATE_DIALOG(message_id=8189*, default_option=1*, option_flags=0*)
+160: 0x0282 [0x24] CREATE_DIALOG(message_id=8190*, default_option=1*, option_flags=0*)
     → "Make the trade? [It's a deal!/On second thought...]"
 161: 0x0289 [0x25] WAIT_DIALOG_SELECT()
 162: 0x028A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029A
@@ -634,7 +634,7 @@ SUBROUTINE_02AD:
 169: 0x02AD [0x01] GOTO 0x0737
 170: 0x02B0 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x033C
 171: 0x02B8 [0x03] Work_Zone[2] = 1187*
-172: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+172: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 173: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x02C1 [0x03] Work_Zone[1] = 105*
@@ -646,26 +646,26 @@ SUBROUTINE_02AD:
 180: 0x02D9 [0x03] Work_Zone[4] = 1206*
 181: 0x02DE [0x03] Work_Zone[5] = 1207*
 182: 0x02E3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0305
-183: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
+183: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
     → "Then you fetch me $3, $3, $3, and $3."
 184: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x02EF [0x03] Work_Zone[6] = 1208*
 186: 0x02F4 [0x03] Work_Zone[7] = 1209*
-187: 0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+187: 0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "That ain't all! I'll be needin' $3 and $3, too. Then it's a deal."
 188: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x02FD [0x03] Work_Zone[1] = 0*
 190: 0x0302 [0x01] GOTO 0x0339
-191: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
+191: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
     → "You give me $3, $3, $3, $3..."
 192: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0309 [0x03] Work_Zone[6] = 1208*
 194: 0x030E [0x03] Work_Zone[7] = 1209*
-195: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+195: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "Also $3 and $3, and it's a done deal. Sound good?"
 196: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0317 [0x03] Work_Zone[2] = 1187*
-198: 0x031C [0x24] CREATE_DIALOG(message_id=8189*, default_option=1*, option_flags=0*)
+198: 0x031C [0x24] CREATE_DIALOG(message_id=8190*, default_option=1*, option_flags=0*)
     → "Make the trade? [It's a deal!/On second thought...]"
 199: 0x0323 [0x25] WAIT_DIALOG_SELECT()
 200: 0x0324 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0334
@@ -676,7 +676,7 @@ SUBROUTINE_02AD:
 SUBROUTINE_0339:
 204: 0x0339 [0x01] GOTO 0x0737
 205: 0x033C [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0732
-206: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
+206: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
     → "Why, you greedier than Grand Greedalox! You want goods, you pay me both gil and beastmen's seals. Or we no do business."
 207: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0348 [0x03] Work_Zone[1] = 203*
@@ -688,7 +688,7 @@ SUBROUTINE_0339:
 214: 0x0360 [0x03] Work_Zone[5] = 1158*
 215: 0x0365 [0x03] Work_Zone[6] = 1159*
 216: 0x036A [0x03] Work_Zone[7] = 1203*
-217: 0x036F [0x24] CREATE_DIALOG(message_id=8205*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+217: 0x036F [0x24] CREATE_DIALOG(message_id=8206*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What you want? [None of these." Seedspalls./$3./$3./4 Mana Orbs./$3./$3./$3./8 Star Tree Sap Crystals./16 Tablets of Hexes.]"
 218: 0x0376 [0x25] WAIT_DIALOG_SELECT()
 219: 0x0377 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0387
@@ -696,12 +696,12 @@ SUBROUTINE_0339:
 221: 0x0384 [0x01] GOTO 0x072F
 222: 0x0387 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03EF
 223: 0x038F [0x03] Work_Zone[2] = 0*
-224: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+224: 0x0394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?"
 225: 0x0397 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x0398 [0x03] Work_Zone[2] = 500*
 227: 0x039D [0x03] Work_Zone[3] = 5*
-228: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+228: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 229: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x03A6 [0x03] Work_Zone[1] = 200*
@@ -709,7 +709,7 @@ SUBROUTINE_0339:
 232: 0x03AD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 233: 0x03AF [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x03E7
 234: 0x03B7 [0x03] Work_Zone[2] = 0*
-235: 0x03BC [0x24] CREATE_DIALOG(message_id=8210*, default_option=1*, option_flags=0*)
+235: 0x03BC [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
     → "Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]"
 236: 0x03C3 [0x25] WAIT_DIALOG_SELECT()
 237: 0x03C4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D4
@@ -727,12 +727,12 @@ SUBROUTINE_03EC:
 245: 0x03EC [0x01] GOTO 0x072F
 246: 0x03EF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0457
 247: 0x03F7 [0x03] Work_Zone[2] = 1091*
-248: 0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+248: 0x03FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 249: 0x03FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x0400 [0x03] Work_Zone[2] = 1500*
 251: 0x0405 [0x03] Work_Zone[3] = 15*
-252: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+252: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 253: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x040E [0x03] Work_Zone[1] = 201*
@@ -740,7 +740,7 @@ SUBROUTINE_03EC:
 256: 0x0415 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 257: 0x0417 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x044F
 258: 0x041F [0x03] Work_Zone[2] = 1091*
-259: 0x0424 [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
+259: 0x0424 [0x24] CREATE_DIALOG(message_id=8212*, default_option=1*, option_flags=0*)
     → "Acquire $6? [Yes, please./On second thought...]"
 260: 0x042B [0x25] WAIT_DIALOG_SELECT()
 261: 0x042C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x043C
@@ -758,12 +758,12 @@ SUBROUTINE_0454:
 269: 0x0454 [0x01] GOTO 0x072F
 270: 0x0457 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x04BF
 271: 0x045F [0x03] Work_Zone[2] = 1104*
-272: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+272: 0x0464 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 273: 0x0467 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0468 [0x03] Work_Zone[2] = 2000*
 275: 0x046D [0x03] Work_Zone[3] = 20*
-276: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+276: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 277: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0476 [0x03] Work_Zone[1] = 202*
@@ -771,7 +771,7 @@ SUBROUTINE_0454:
 280: 0x047D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 281: 0x047F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x04B7
 282: 0x0487 [0x03] Work_Zone[2] = 1104*
-283: 0x048C [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
+283: 0x048C [0x24] CREATE_DIALOG(message_id=8212*, default_option=1*, option_flags=0*)
     → "Acquire $6? [Yes, please./On second thought...]"
 284: 0x0493 [0x25] WAIT_DIALOG_SELECT()
 285: 0x0494 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04A4
@@ -789,12 +789,12 @@ SUBROUTINE_04BC:
 293: 0x04BC [0x01] GOTO 0x072F
 294: 0x04BF [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0527
 295: 0x04C7 [0x03] Work_Zone[2] = 1*
-296: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+296: 0x04CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?"
 297: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x04D0 [0x03] Work_Zone[2] = 500*
 299: 0x04D5 [0x03] Work_Zone[3] = 5*
-300: 0x04DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+300: 0x04DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 301: 0x04DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x04DE [0x03] Work_Zone[1] = 200*
@@ -802,7 +802,7 @@ SUBROUTINE_04BC:
 304: 0x04E5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 305: 0x04E7 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x051F
 306: 0x04EF [0x03] Work_Zone[2] = 1*
-307: 0x04F4 [0x24] CREATE_DIALOG(message_id=8210*, default_option=1*, option_flags=0*)
+307: 0x04F4 [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
     → "Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]"
 308: 0x04FB [0x25] WAIT_DIALOG_SELECT()
 309: 0x04FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x050C
@@ -820,12 +820,12 @@ SUBROUTINE_0524:
 317: 0x0524 [0x01] GOTO 0x072F
 318: 0x0527 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x058F
 319: 0x052F [0x03] Work_Zone[2] = 1158*
-320: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+320: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 321: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0538 [0x03] Work_Zone[2] = 1500*
 323: 0x053D [0x03] Work_Zone[3] = 15*
-324: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+324: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 325: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x0546 [0x03] Work_Zone[1] = 201*
@@ -833,7 +833,7 @@ SUBROUTINE_0524:
 328: 0x054D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 329: 0x054F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0587
 330: 0x0557 [0x03] Work_Zone[2] = 1158*
-331: 0x055C [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
+331: 0x055C [0x24] CREATE_DIALOG(message_id=8212*, default_option=1*, option_flags=0*)
     → "Acquire $6? [Yes, please./On second thought...]"
 332: 0x0563 [0x25] WAIT_DIALOG_SELECT()
 333: 0x0564 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0574
@@ -851,12 +851,12 @@ SUBROUTINE_058C:
 341: 0x058C [0x01] GOTO 0x072F
 342: 0x058F [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x05F7
 343: 0x0597 [0x03] Work_Zone[2] = 1159*
-344: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+344: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 345: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0x05A0 [0x03] Work_Zone[2] = 2000*
 347: 0x05A5 [0x03] Work_Zone[3] = 20*
-348: 0x05AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+348: 0x05AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 349: 0x05AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x05AE [0x03] Work_Zone[1] = 202*
@@ -864,7 +864,7 @@ SUBROUTINE_058C:
 352: 0x05B5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 353: 0x05B7 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05EF
 354: 0x05BF [0x03] Work_Zone[2] = 1159*
-355: 0x05C4 [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
+355: 0x05C4 [0x24] CREATE_DIALOG(message_id=8212*, default_option=1*, option_flags=0*)
     → "Acquire $6? [Yes, please./On second thought...]"
 356: 0x05CB [0x25] WAIT_DIALOG_SELECT()
 357: 0x05CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DC
@@ -882,12 +882,12 @@ SUBROUTINE_05F4:
 365: 0x05F4 [0x01] GOTO 0x072F
 366: 0x05F7 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x065F
 367: 0x05FF [0x03] Work_Zone[2] = 1203*
-368: 0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+368: 0x0604 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "So you want $3...that right?"
 369: 0x0607 [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x0608 [0x03] Work_Zone[2] = 500*
 371: 0x060D [0x03] Work_Zone[3] = 5*
-372: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+372: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 373: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0616 [0x03] Work_Zone[1] = 200*
@@ -895,7 +895,7 @@ SUBROUTINE_05F4:
 376: 0x061D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 377: 0x061F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0657
 378: 0x0627 [0x03] Work_Zone[2] = 1203*
-379: 0x062C [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
+379: 0x062C [0x24] CREATE_DIALOG(message_id=8212*, default_option=1*, option_flags=0*)
     → "Acquire $6? [Yes, please./On second thought...]"
 380: 0x0633 [0x25] WAIT_DIALOG_SELECT()
 381: 0x0634 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0644
@@ -913,12 +913,12 @@ SUBROUTINE_065C:
 389: 0x065C [0x01] GOTO 0x072F
 390: 0x065F [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x06C7
 391: 0x0667 [0x03] Work_Zone[2] = 2*
-392: 0x066C [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+392: 0x066C [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?"
 393: 0x066F [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x0670 [0x03] Work_Zone[2] = 1500*
 395: 0x0675 [0x03] Work_Zone[3] = 15*
-396: 0x067A [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+396: 0x067A [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 397: 0x067D [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x067E [0x03] Work_Zone[1] = 201*
@@ -926,7 +926,7 @@ SUBROUTINE_065C:
 400: 0x0685 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 401: 0x0687 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x06BF
 402: 0x068F [0x03] Work_Zone[2] = 2*
-403: 0x0694 [0x24] CREATE_DIALOG(message_id=8210*, default_option=1*, option_flags=0*)
+403: 0x0694 [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
     → "Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]"
 404: 0x069B [0x25] WAIT_DIALOG_SELECT()
 405: 0x069C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06AC
@@ -944,12 +944,12 @@ SUBROUTINE_06C4:
 413: 0x06C4 [0x01] GOTO 0x072F
 414: 0x06C7 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x072F
 415: 0x06CF [0x03] Work_Zone[2] = 3*
-416: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+416: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "So it's the set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes] you want? That right?"
 417: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 418: 0x06D8 [0x03] Work_Zone[2] = 2000*
 419: 0x06DD [0x03] Work_Zone[3] = 20*
-420: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+420: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "That'll cost ya $0 gil and $1 beastmen's [seal/seals]. The seals I get straight from Shami. I got a deal goin' with him, ya see."
 421: 0x06E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x06E6 [0x03] Work_Zone[1] = 202*
@@ -957,7 +957,7 @@ SUBROUTINE_06C4:
 424: 0x06ED [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 425: 0x06EF [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0727
 426: 0x06F7 [0x03] Work_Zone[2] = 3*
-427: 0x06FC [0x24] CREATE_DIALOG(message_id=8210*, default_option=1*, option_flags=0*)
+427: 0x06FC [0x24] CREATE_DIALOG(message_id=8211*, default_option=1*, option_flags=0*)
     → "Acquire a set of [three Seedspalls/four Mana Orbs/eight sap crystals/sixteen Tablets of Hexes]? [Yes, please./On second thought...]"
 428: 0x0703 [0x25] WAIT_DIALOG_SELECT()
 429: 0x0704 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0714

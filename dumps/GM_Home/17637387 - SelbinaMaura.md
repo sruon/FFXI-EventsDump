@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BAF      |        7087 |
+|       0 | 0x1BB0      |        7088 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0064      |         100 |
 |       3 | 0x0001      |           1 |
@@ -36,7 +36,7 @@
 
 ## String References
 
-- **7087**: BAAAAAAA (what do you want)? [Time passed for the cooking quest./1 week passed for the clay quest./Down to the last monument./9999 moat carps (San d'Oria)./LV 100 Chocobo!/Check Chocobo level.]
+- **7088**: BAAAAAAA (what do you want)? [Time passed for the cooking quest./1 week passed for the clay quest./Down to the last monument./9999 moat carps (San d'Oria)./LV 100 Chocobo!/Check Chocobo level.]
 
 ## Events
 
@@ -87,7 +87,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7087*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7088*, default_option=0*, option_flags=0*)
     → "BAAAAAAA (what do you want)? [Time passed for the cooking quest./1 week passed for the clay quest./Down to the last monument./9999 moat carps (San d'Oria)./LV 100 Chocobo!/Check Chocobo level.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019

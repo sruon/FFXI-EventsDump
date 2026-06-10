@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C46      |        7238 |
-|       1 | 0x1C44      |        7236 |
-|       2 | 0x1C45      |        7237 |
+|       0 | 0x1C47      |        7239 |
+|       1 | 0x1C45      |        7237 |
+|       2 | 0x1C46      |        7238 |
 
 ## String References
 
-- **7236**: This manaclipper is currently [following the Dhalmel Rock course/following the Maliyakaleya Reef course/en route to Purgonorgo Isle/enroute to Sunset Docks].
-- **7237**: We should [arrive back at Sunset Docks/arrive back at Sunset Docks/arrive there/arrive there] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7238**: We are nearing [Sunset Docks/Sunset Docks/Purgonorgo Isle/Sunset Docks].
+- **7237**: This manaclipper is currently [following the Dhalmel Rock course/following the Maliyakaleya Reef course/en route to Purgonorgo Isle/enroute to Sunset Docks].
+- **7238**: We should [arrive back at Sunset Docks/arrive back at Sunset Docks/arrive there/arrive there] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7239**: We are nearing [Sunset Docks/Sunset Docks/Purgonorgo Isle/Sunset Docks].
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
     → "We are nearing [Sunset Docks/Sunset Docks/Purgonorgo Isle/Sunset Docks]."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -103,10 +103,10 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
     → "This manaclipper is currently [following the Dhalmel Rock course/following the Maliyakaleya Reef course/en route to Purgonorgo Isle/enroute to Sunset Docks]."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
     → "We should [arrive back at Sunset Docks/arrive back at Sunset Docks/arrive there/arrive there] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT

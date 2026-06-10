@@ -21,14 +21,14 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAA      |        7338 |
+|       0 | 0x1CAB      |        7339 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x003C      |          60 |
 |       3 | 0x0001      |           1 |
 
 ## String References
 
-- **7338**: $3A$3C$3e$3 00p$3Z$3b$3g5\\7)$2228813 ""&
+- **7339**: $3A$3C$3e$3 00p$3Z$3b$3g5\\7)$2228813 ""&
 
 ## Events
 
@@ -79,7 +79,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7338*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7339*, default_option=0*, option_flags=0*)
     → "$3A$3C$3e$3 00p$3Z$3b$3g5\7)$2228813 ""&"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0054

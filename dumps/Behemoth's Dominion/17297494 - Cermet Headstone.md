@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAB      |        7339 |
-|       1 | 0x1CAC      |        7340 |
+|       0 | 0x1CAC      |        7340 |
+|       1 | 0x1CAD      |        7341 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 
 ## String References
 
-- **7339**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
-- **7340**: Do you remove the $3? [Yes./No.]
+- **7340**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
+- **7341**: Do you remove the $3? [Yes./No.]
 
 ## Events
 
@@ -77,10 +77,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [7339*]:
+  1: 0x000A [0x48] [System] [7340*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7340*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7341*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026
@@ -114,10 +114,10 @@ SUBROUTINE_0026:
 
 ```
   0: 0x0028 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x0031 [0x48] [System] [7339*]:
+  1: 0x0031 [0x48] [System] [7340*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7340*, default_option=0*, option_flags=0*)
+  3: 0x0035 [0x24] CREATE_DIALOG(message_id=7341*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x003C [0x25] WAIT_DIALOG_SELECT()
   5: 0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D

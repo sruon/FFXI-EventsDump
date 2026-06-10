@@ -23,26 +23,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x29EC      |       10732 |
-|       1 | 0x29ED      |       10733 |
-|       2 | 0x29EF      |       10735 |
+|       0 | 0x29ED      |       10733 |
+|       1 | 0x29EE      |       10734 |
+|       2 | 0x29F0      |       10736 |
 |       3 | 0x06D2      |        1746 |
-|       4 | 0x29F0      |       10736 |
+|       4 | 0x29F1      |       10737 |
 |       5 | 0x06D3      |        1747 |
 |       6 | 0x06D4      |        1748 |
-|       7 | 0x29F2      |       10738 |
-|       8 | 0x29F3      |       10739 |
+|       7 | 0x29F3      |       10739 |
+|       8 | 0x29F4      |       10740 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x0064      |         100 |
-|      13 | 0x29F4      |       10740 |
+|      13 | 0x29F5      |       10741 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x29F5      |       10741 |
-|      16 | 0x29F6      |       10742 |
-|      17 | 0x29F7      |       10743 |
-|      18 | 0x29F8      |       10744 |
-|      19 | 0x29F1      |       10737 |
+|      15 | 0x29F6      |       10742 |
+|      16 | 0x29F7      |       10743 |
+|      17 | 0x29F8      |       10744 |
+|      18 | 0x29F9      |       10745 |
+|      19 | 0x29F2      |       10738 |
 |      20 | 0x0005      |           5 |
 |      21 | 0x0002      |           2 |
 |      22 | 0x0004      |           4 |
@@ -50,42 +50,42 @@
 |      24 | 0x0007      |           7 |
 |      25 | 0x0008      |           8 |
 |      26 | 0x0009      |           9 |
-|      27 | 0x2A60      |       10848 |
-|      28 | 0x2A61      |       10849 |
-|      29 | 0x2A62      |       10850 |
-|      30 | 0x2A63      |       10851 |
-|      31 | 0x2A64      |       10852 |
-|      32 | 0x2A65      |       10853 |
-|      33 | 0x2A66      |       10854 |
+|      27 | 0x2A61      |       10849 |
+|      28 | 0x2A62      |       10850 |
+|      29 | 0x2A63      |       10851 |
+|      30 | 0x2A64      |       10852 |
+|      31 | 0x2A65      |       10853 |
+|      32 | 0x2A66      |       10854 |
+|      33 | 0x2A67      |       10855 |
 |      34 | 0x0014      |          20 |
-|      35 | 0x2A67      |       10855 |
+|      35 | 0x2A68      |       10856 |
 |      36 | 0x0019      |          25 |
 |      37 | 0x00B4      |         180 |
-|      38 | 0x2A68      |       10856 |
+|      38 | 0x2A69      |       10857 |
 
 ## String References
 
-- **10732**: Yo ho ho and a bottle of mulsum! I may be a pirate, but ye won't sees me plunderin' the hearts of the wee lads and lassies!
-- **10733**: Here, ya scurvy dawg, takes this booty and pass her on to an innocent child. Arrrg, but if I hears ya kept it fer yer own lonesome, I'll personally sees ya walk the plank!
-- **10735**: What's this? Might it be maps of buried treasure? Hm? Letter from the kiddies? Arrrg, brings a tear t'me one good eye.
-- **10736**: Do ye remember the name of the lassie that wrote this here $1?
-- **10737**: Who was it? [Arukoko./Chomomo./Hororo./Komomo./Mimomo./Myumimi./Paruru./Pichichi./Purakoko./Shanruru.]
-- **10738**: Arrrg, are ye absolutely, positively sure that it was [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], and [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru] that gave ye th'letters?
-- **10739**: Well? [Absolutely, positively!/Wait a minute...]
-- **10740**: I wonders who could've written this $1...
-- **10741**: Yo ho ho\`! Those wee children'd make fine pirates!
-- **10742**: Arrrg, I can tells by the look on yer face that you'd like t'bring some joy of yer own t'the children. Here, take me hat.
-- **10743**: Ye can always tell a pirate by lookin' at the dawg's hat; the kids can too!
-- **10744**: Yo ho ho\`! Those wee children'd make fine pirates!
-- **10848**: Are you spreading joy to the children of Vana'diel? Hey, I can tell you something you should know!
-- **10849**: Listen close, now! To make the children happy you must...give them presents! You should think hard about what to get them! You might say it's the thought that counts, but unfortunately, the children think otherwise!
-- **10850**: You should also wear a red hat like the one I have on now! It'll prove you're a smilebringer, so the kids won't think you're a creep.
-- **10851**: Where can you find a hat? Well, I saw someone selling them around here earlier. I'm sure you can find them if you look!
-- **10852**: [You haven't brought any happiness to the children!/You've done some good./You have done fairly well./You have given the children much joy!/You have brought smile upon smile to the children!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]
-- **10853**: You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!
-- **10854**: Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]
-- **10855**: See ya!
-- **10856**: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!
+- **10733**: Yo ho ho and a bottle of mulsum! I may be a pirate, but ye won't sees me plunderin' the hearts of the wee lads and lassies!
+- **10734**: Here, ya scurvy dawg, takes this booty and pass her on to an innocent child. Arrrg, but if I hears ya kept it fer yer own lonesome, I'll personally sees ya walk the plank!
+- **10736**: What's this? Might it be maps of buried treasure? Hm? Letter from the kiddies? Arrrg, brings a tear t'me one good eye.
+- **10737**: Do ye remember the name of the lassie that wrote this here $1?
+- **10738**: Who was it? [Arukoko./Chomomo./Hororo./Komomo./Mimomo./Myumimi./Paruru./Pichichi./Purakoko./Shanruru.]
+- **10739**: Arrrg, are ye absolutely, positively sure that it was [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], and [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru] that gave ye th'letters?
+- **10740**: Well? [Absolutely, positively!/Wait a minute...]
+- **10741**: I wonders who could've written this $1...
+- **10742**: Yo ho ho\`! Those wee children'd make fine pirates!
+- **10743**: Arrrg, I can tells by the look on yer face that you'd like t'bring some joy of yer own t'the children. Here, take me hat.
+- **10744**: Ye can always tell a pirate by lookin' at the dawg's hat; the kids can too!
+- **10745**: Yo ho ho\`! Those wee children'd make fine pirates!
+- **10849**: Are you spreading joy to the children of Vana'diel? Hey, I can tell you something you should know!
+- **10850**: Listen close, now! To make the children happy you must...give them presents! You should think hard about what to get them! You might say it's the thought that counts, but unfortunately, the children think otherwise!
+- **10851**: You should also wear a red hat like the one I have on now! It'll prove you're a smilebringer, so the kids won't think you're a creep.
+- **10852**: Where can you find a hat? Well, I saw someone selling them around here earlier. I'm sure you can find them if you look!
+- **10853**: [You haven't brought any happiness to the children!/You've done some good./You have done fairly well./You have given the children much joy!/You have brought smile upon smile to the children!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]
+- **10854**: You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!
+- **10855**: Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]
+- **10856**: See ya!
+- **10857**: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!
 
 ## Events
 
@@ -131,10 +131,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
     → "Yo ho ho and a bottle of mulsum! I may be a pirate, but ye won't sees me plunderin' the hearts of the wee lads and lassies!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10734*)
     → "Here, ya scurvy dawg, takes this booty and pass her on to an innocent child. Arrrg, but if I hears ya kept it fer yer own lonesome, I'll personally sees ya walk the plank!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -187,11 +187,11 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10735*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
     → "What's this? Might it be maps of buried treasure? Hm? Letter from the kiddies? Arrrg, brings a tear t'me one good eye."
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x03] Work_Zone[3] = 1746*
-  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "Do ye remember the name of the lassie that wrote this here $1?"
   6: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0023 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -199,7 +199,7 @@
   9: 0x002B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  10: 0x002D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  11: 0x002F [0x03] Work_Zone[3] = 1747*
- 12: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+ 12: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "Do ye remember the name of the lassie that wrote this here $1?"
  13: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0038 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -207,7 +207,7 @@
  16: 0x0040 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  17: 0x0042 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  18: 0x0044 [0x03] Work_Zone[3] = 1748*
- 19: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10736*)
+ 19: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
     → "Do ye remember the name of the lassie that wrote this here $1?"
  20: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004D [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -217,10 +217,10 @@
  25: 0x0059 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
  26: 0x005E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
  27: 0x0063 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[2]
- 28: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+ 28: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "Arrrg, are ye absolutely, positively sure that it was [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru], and [Arukoko/Chomomo/Hororo/Komomo/Mimomo/Myumimi/Paruru/Pichichi/Purakoko/Shanruru] that gave ye th'letters?"
  29: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x006C [0x24] CREATE_DIALOG(message_id=10739*, default_option=1*, option_flags=0*)
+ 30: 0x006C [0x24] CREATE_DIALOG(message_id=10740*, default_option=1*, option_flags=0*)
     → "Well? [Absolutely, positively!/Wait a minute...]"
  31: 0x0073 [0x25] WAIT_DIALOG_SELECT()
  32: 0x0074 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0088
@@ -233,7 +233,7 @@
  39: 0x0095 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  40: 0x0097 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  41: 0x0099 [0x03] Work_Zone[3] = 1746*
- 42: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10740*)
+ 42: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10741*)
     → "I wonders who could've written this $1..."
  43: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00A2 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -241,7 +241,7 @@
  46: 0x00AA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  47: 0x00AC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  48: 0x00AE [0x03] Work_Zone[3] = 1747*
- 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10740*)
+ 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10741*)
     → "I wonders who could've written this $1..."
  50: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00B7 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -249,7 +249,7 @@
  53: 0x00BF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  54: 0x00C1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  55: 0x00C3 [0x03] Work_Zone[3] = 1748*
- 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10740*)
+ 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10741*)
     → "I wonders who could've written this $1..."
  57: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x00CC [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -260,18 +260,18 @@
 
 SUBROUTINE_00DE:
  63: 0x00DE [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00FA
- 64: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10741*)
+ 64: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10742*)
     → "Yo ho ho`! Those wee children'd make fine pirates!"
  65: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10742*)
+ 66: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=10743*)
     → "Arrrg, I can tells by the look on yer face that you'd like t'bring some joy of yer own t'the children. Here, take me hat."
  67: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10743*)
+ 68: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
     → "Ye can always tell a pirate by lookin' at the dawg's hat; the kids can too!"
  69: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x00F2 [0x03] Work_Zone[1] = 1*
  71: 0x00F7 [0x01] GOTO 0x0103
- 72: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10744*)
+ 72: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10745*)
     → "Yo ho ho`! Those wee children'd make fine pirates!"
  73: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x00FE [0x03] Work_Zone[1] = 0*
@@ -281,7 +281,7 @@ SUBROUTINE_0103:
  76: 0x0104 [0x00] END_REQSTACK()
 
 SUBROUTINE_0105:
- 77: 0x0105 [0x24] CREATE_DIALOG(message_id=10737*, default_option=0*, option_flags=0*)
+ 77: 0x0105 [0x24] CREATE_DIALOG(message_id=10738*, default_option=0*, option_flags=0*)
     → "Who was it? [Arukoko./Chomomo./Hororo./Komomo./Mimomo./Myumimi./Paruru./Pichichi./Purakoko./Shanruru.]"
  78: 0x010C [0x25] WAIT_DIALOG_SELECT()
  79: 0x010D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011D
@@ -348,16 +348,16 @@ SUBROUTINE_01AD:
 
 ```
   0: 0x01AE [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10848*)
+  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
     → "Are you spreading joy to the children of Vana'diel? Hey, I can tell you something you should know!"
   2: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10849*)
+  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
     → "Listen close, now! To make the children happy you must...give them presents! You should think hard about what to get them! You might say it's the thought that counts, but unfortunately, the children think otherwise!"
   4: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10850*)
+  5: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10851*)
     → "You should also wear a red hat like the one I have on now! It'll prove you're a smilebringer, so the kids won't think you're a creep."
   6: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10851*)
+  7: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10852*)
     → "Where can you find a hat? Well, I saw someone selling them around here earlier. I'm sure you can find them if you look!"
   8: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01C3 [0x21] END_EVENT
@@ -396,13 +396,13 @@ SUBROUTINE_01AD:
 
 ```
   0: 0x01C5 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10852*)
+  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10853*)
     → "[You haven't brought any happiness to the children!/You've done some good./You have done fairly well./You have given the children much joy!/You have brought smile upon smile to the children!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]"
   2: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10853*)
+  3: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10854*)
     → "You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!"
   4: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01D2 [0x24] CREATE_DIALOG(message_id=10854*, default_option=0*, option_flags=Work_Zone[2])
+  5: 0x01D2 [0x24] CREATE_DIALOG(message_id=10855*, default_option=0*, option_flags=Work_Zone[2])
     → "Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]"
   6: 0x01D9 [0x25] WAIT_DIALOG_SELECT()
   7: 0x01DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EA
@@ -411,7 +411,7 @@ SUBROUTINE_01AD:
  10: 0x01EA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x021E
  11: 0x01F2 [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x0217
  12: 0x01FA [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
+ 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
     → "See ya!"
  14: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01FF [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -419,7 +419,7 @@ SUBROUTINE_01AD:
  17: 0x020E [0x30] SET_UCOFF_CONTINUE_ZERO()
  18: 0x020F [0x03] Work_Zone[1] = 1*
  19: 0x0214 [0x01] GOTO 0x021B
- 20: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+ 20: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  21: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -428,7 +428,7 @@ SUBROUTINE_021B:
  23: 0x021E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0252
  24: 0x0226 [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x024B
  25: 0x022E [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 26: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
+ 26: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
     → "See ya!"
  27: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0233 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -436,7 +436,7 @@ SUBROUTINE_021B:
  30: 0x0242 [0x30] SET_UCOFF_CONTINUE_ZERO()
  31: 0x0243 [0x03] Work_Zone[1] = 2*
  32: 0x0248 [0x01] GOTO 0x024F
- 33: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+ 33: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  34: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -445,7 +445,7 @@ SUBROUTINE_024F:
  36: 0x0252 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0286
  37: 0x025A [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x027F
  38: 0x0262 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=10855*)
+ 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
     → "See ya!"
  40: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0267 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -453,7 +453,7 @@ SUBROUTINE_024F:
  43: 0x0276 [0x30] SET_UCOFF_CONTINUE_ZERO()
  44: 0x0277 [0x03] Work_Zone[1] = 3*
  45: 0x027C [0x01] GOTO 0x0283
- 46: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=10856*)
+ 46: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=10857*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  47: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

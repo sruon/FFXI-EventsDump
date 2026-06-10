@@ -27,12 +27,12 @@
 |       4 | 0x0155      |         341 |
 |       5 | 0x00C9      |         201 |
 |       6 | 0x001E      |          30 |
-|       7 | 0x1BA7      |        7079 |
+|       7 | 0x1BA8      |        7080 |
 |       8 | 0x012C      |         300 |
 
 ## String References
 
-- **7079**: Your memory is engraved with an image of your surroundings and the fragrance of flowers...
+- **7080**: Your memory is engraved with an image of your surroundings and the fragrance of flowers...
 
 ## Events
 
@@ -106,7 +106,7 @@
  13: 0x007E [0x1C] WAIT(60* ticks)
  14: 0x0081 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "warp" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  15: 0x0092 [0x1C] WAIT(30* ticks)
- 16: 0x0095 [0x48] [System] [7079*]:
+ 16: 0x0095 [0x48] [System] [7080*]:
     → "Your memory is engraved with an image of your surroundings and the fragrance of flowers..."
  17: 0x0098 [0x1C] WAIT(300* ticks)
  18: 0x009B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

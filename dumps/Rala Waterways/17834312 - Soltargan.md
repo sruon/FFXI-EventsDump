@@ -27,8 +27,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0009      |           9 |
-|       1 | 0x1FC2      |        8130 |
-|       2 | 0x1FC3      |        8131 |
+|       1 | 0x1FC3      |        8131 |
+|       2 | 0x1FC4      |        8132 |
 |       3 | 0x0028      |          40 |
 |       4 | 0xFFFB5BF5  |  4294663157 |
 |       5 | 0xFFFB1BE3  |  4294646755 |
@@ -43,15 +43,15 @@
 |      14 | 0xFFFADB60  |  4294630240 |
 |      15 | 0xFFFB403C  |  4294656060 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x1F56      |        8022 |
-|      18 | 0x1F57      |        8023 |
+|      17 | 0x1F57      |        8023 |
+|      18 | 0x1F58      |        8024 |
 
 ## String References
 
-- **8022**: Please forgive us for the raptor incident.
-- **8023**: That being said, shouldn't you be heading back to the Mummers' Coalition to let them know the raptors are safe and unharmed?
-- **8130**: I wouldn't go past the gates if I were you...but if you're determined, make sure you're prepared for the dangers within.
-- **8131**: And I don't just mean the monsters. Which gates are opening depends on the day and time, so if you aren't careful, you may find yourself in trouble should you need to beat a hasty retreat!
+- **8023**: Please forgive us for the raptor incident.
+- **8024**: That being said, shouldn't you be heading back to the Mummers' Coalition to let them know the raptors are safe and unharmed?
+- **8131**: I wouldn't go past the gates if I were you...but if you're determined, make sure you're prepared for the dangers within.
+- **8132**: And I don't just mean the monsters. Which gates are opening depends on the day and time, so if you aren't careful, you may find yourself in trouble should you need to beat a hasty retreat!
 
 ## Events
 
@@ -102,10 +102,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "I wouldn't go past the gates if I were you...but if you're determined, make sure you're prepared for the dangers within."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "And I don't just mean the monsters. Which gates are opening depends on the day and time, so if you aren't careful, you may find yourself in trouble should you need to beat a hasty retreat!"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=9*
@@ -266,10 +266,10 @@
   0: 0x007C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0081 [0x1C] WAIT(30* ticks)
   2: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
+  3: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "Please forgive us for the raptor incident."
   4: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
+  5: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
     → "That being said, shouldn't you be heading back to the Mummers' Coalition to let them know the raptors are safe and unharmed?"
   6: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x009B [0x21] END_EVENT

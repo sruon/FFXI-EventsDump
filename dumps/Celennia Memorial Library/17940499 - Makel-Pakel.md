@@ -25,26 +25,26 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x1E0D      |        7693 |
-|       2 | 0x1E08      |        7688 |
+|       1 | 0x1E0E      |        7694 |
+|       2 | 0x1E09      |        7689 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0028      |          40 |
-|       6 | 0x1E0E      |        7694 |
+|       6 | 0x1E0F      |        7695 |
 |       7 | 0xFFFFFFF6  |  4294967286 |
-|       8 | 0x1E00      |        7680 |
-|       9 | 0x1E01      |        7681 |
-|      10 | 0x1E02      |        7682 |
-|      11 | 0x1E03      |        7683 |
-|      12 | 0x1E0B      |        7691 |
-|      13 | 0x1E0C      |        7692 |
-|      14 | 0x1E04      |        7684 |
-|      15 | 0x1E05      |        7685 |
+|       8 | 0x1E01      |        7681 |
+|       9 | 0x1E02      |        7682 |
+|      10 | 0x1E03      |        7683 |
+|      11 | 0x1E04      |        7684 |
+|      12 | 0x1E0C      |        7692 |
+|      13 | 0x1E0D      |        7693 |
+|      14 | 0x1E05      |        7685 |
+|      15 | 0x1E06      |        7686 |
 |      16 | 0x0016      |          22 |
-|      17 | 0x1E06      |        7686 |
-|      18 | 0x1E07      |        7687 |
-|      19 | 0x1E09      |        7689 |
-|      20 | 0x1E0A      |        7690 |
+|      17 | 0x1E07      |        7687 |
+|      18 | 0x1E08      |        7688 |
+|      19 | 0x1E0A      |        7690 |
+|      20 | 0x1E0B      |        7691 |
 |      21 | 0x515D      |       20829 |
 |      22 | 0x51E5      |       20965 |
 |      23 | 0x6C85      |       27781 |
@@ -233,21 +233,21 @@
 
 ## String References
 
-- **7680**: As a member-wember of the Scouts' Coalition, I am tasked with studying the various pieces of equipment that can be gathered from deep within the Ulbukan jungle.
-- **7681**: Of specific interestaru to me are those that hang from one's shoulders. Capes, mantles, cloaks, you name it! ...Or just ones that enhance job-related faculties.
-- **7682**: On a serious-werious note, though, if you bring me said equipment, I'll be pleased as punch.
-- **7683**: Obviously, I'll make it worth your while. Hmmm... For every three pieces of equipmentaru you bring me, why don't I bequeath you one from my personal troves?
-- **7684**: Yeeeah, that's the stuff-wuff.
-- **7685**: Now to fulfill my end of the deal. Quench your thirstaru for power with one of these beauties!
-- **7686**: Receive which one? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22.]
-- **7687**: You're positive-wositive this is the one you want?
-- **7688**: Are you positive? [Yes./No.]
-- **7689**: Mmm...that high thread countaru, that velvety softness... I'd rub this all over my body if you weren't here.
-- **7690**: It's been great doing business-wusiness with you. Come again!
-- **7691**: Arcane glyptics may be fancy-wancy, but sometimes you want to restore your items to their fresh-off-the-Naakual state.
-- **7692**: Fortunataruly, I can provide this service to you free of charge. A little hocus-pocus goes a long way! Just trade a cape to me--only one at a time--and I'll remove all magical traces in a snap.
-- **7693**: Are you absolutaruly sure you wish to remove arcane glyptics from this item?
-- **7694**: All clear! Sometimes you want pure cloth untainted by needless magic. There's something to be said for fine craftsmanship!
+- **7681**: As a member-wember of the Scouts' Coalition, I am tasked with studying the various pieces of equipment that can be gathered from deep within the Ulbukan jungle.
+- **7682**: Of specific interestaru to me are those that hang from one's shoulders. Capes, mantles, cloaks, you name it! ...Or just ones that enhance job-related faculties.
+- **7683**: On a serious-werious note, though, if you bring me said equipment, I'll be pleased as punch.
+- **7684**: Obviously, I'll make it worth your while. Hmmm... For every three pieces of equipmentaru you bring me, why don't I bequeath you one from my personal troves?
+- **7685**: Yeeeah, that's the stuff-wuff.
+- **7686**: Now to fulfill my end of the deal. Quench your thirstaru for power with one of these beauties!
+- **7687**: Receive which one? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22.]
+- **7688**: You're positive-wositive this is the one you want?
+- **7689**: Are you positive? [Yes./No.]
+- **7690**: Mmm...that high thread countaru, that velvety softness... I'd rub this all over my body if you weren't here.
+- **7691**: It's been great doing business-wusiness with you. Come again!
+- **7692**: Arcane glyptics may be fancy-wancy, but sometimes you want to restore your items to their fresh-off-the-Naakual state.
+- **7693**: Fortunataruly, I can provide this service to you free of charge. A little hocus-pocus goes a long way! Just trade a cape to me--only one at a time--and I'll remove all magical traces in a snap.
+- **7694**: Are you absolutaruly sure you wish to remove arcane glyptics from this item?
+- **7695**: All clear! Sometimes you want pure cloth untainted by needless magic. There's something to be said for fine craftsmanship!
 
 ## Events
 
@@ -303,15 +303,15 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
     → "Are you absolutaruly sure you wish to remove arcane glyptics from this item?"
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001C [0x24] CREATE_DIALOG(message_id=7688*, default_option=1*, option_flags=0*)
+  7: 0x001C [0x24] CREATE_DIALOG(message_id=7689*, default_option=1*, option_flags=0*)
     → "Are you positive? [Yes./No.]"
   8: 0x0023 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0024 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0047
  10: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+ 11: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "All clear! Sometimes you want pure cloth untainted by needless magic. There's something to be said for fine craftsmanship!"
  12: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003F [0x03] Work_Zone[1] = 1*
@@ -353,22 +353,22 @@ SUBROUTINE_0066:
   1: 0x006D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x006F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+  4: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "As a member-wember of the Scouts' Coalition, I am tasked with studying the various pieces of equipment that can be gathered from deep within the Ulbukan jungle."
   5: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
+  6: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
     → "Of specific interestaru to me are those that hang from one's shoulders. Capes, mantles, cloaks, you name it! ...Or just ones that enhance job-related faculties."
   7: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7682*)
+  8: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
     → "On a serious-werious note, though, if you bring me said equipment, I'll be pleased as punch."
   9: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
+ 10: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
     → "Obviously, I'll make it worth your while. Hmmm... For every three pieces of equipmentaru you bring me, why don't I bequeath you one from my personal troves?"
  11: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
+ 12: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
     → "Arcane glyptics may be fancy-wancy, but sometimes you want to restore your items to their fresh-off-the-Naakual state."
  13: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
+ 14: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
     → "Fortunataruly, I can provide this service to you free of charge. A little hocus-pocus goes a long way! Just trade a cape to me--only one at a time--and I'll remove all magical traces in a snap."
  15: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
@@ -473,10 +473,10 @@ SUBROUTINE_0066:
   9: 0x00C4 [0x06] ExtData[1]->WorkLocal[8] = 0
  10: 0x00C7 [0x06] ExtData[1]->WorkLocal[2] = 0
  11: 0x00CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 12: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
+ 12: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
     → "Yeeeah, that's the stuff-wuff."
  13: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
+ 14: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
     → "Now to fulfill my end of the deal. Quench your thirstaru for power with one of these beauties!"
  15: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00E1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01C2
@@ -491,7 +491,7 @@ SUBROUTINE_0066:
  25: 0x0122 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[1]) GOTO 0x0131
  26: 0x012A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=ExtData[1]->WorkLocal[0], condition_work_offset=1*)
  27: 0x0131 [0x01] GOTO 0x00E9
- 28: 0x0134 [0x24] CREATE_DIALOG(message_id=7686*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[3])
+ 28: 0x0134 [0x24] CREATE_DIALOG(message_id=7687*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[3])
     → "Receive which one? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22.]"
  29: 0x013B [0x25] WAIT_DIALOG_SELECT()
  30: 0x013C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0147
@@ -505,19 +505,19 @@ SUBROUTINE_0147:
  36: 0x015C [0x9D] ExtData[1]->WorkLocal[1] = 0x0463[ExtData[1]->WorkLocal[4]] // Read WORD
  37: 0x0164 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[1])
  38: 0x0167 [0x03] Work_Zone[2] = 0*
- 39: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+ 39: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "You're positive-wositive this is the one you want?"
  40: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0170 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 42: 0x0173 [0x24] CREATE_DIALOG(message_id=7688*, default_option=1*, option_flags=0*)
+ 42: 0x0173 [0x24] CREATE_DIALOG(message_id=7689*, default_option=1*, option_flags=0*)
     → "Are you positive? [Yes./No.]"
  43: 0x017A [0x25] WAIT_DIALOG_SELECT()
  44: 0x017B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A7
  45: 0x0183 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 46: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+ 46: 0x0192 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "Mmm...that high thread countaru, that velvety softness... I'd rub this all over my body if you weren't here."
  47: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
+ 48: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
     → "It's been great doing business-wusiness with you. Come again!"
  49: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x019A [0x0B] ExtData[1]->WorkLocal[4]++

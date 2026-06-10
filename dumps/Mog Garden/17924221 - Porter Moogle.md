@@ -26,62 +26,62 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2168      |        8552 |
+|       0 | 0x2169      |        8553 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2169      |        8553 |
+|       2 | 0x216A      |        8554 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x40000000  |  1073741824 |
-|       6 | 0x218D      |        8589 |
-|       7 | 0x218C      |        8588 |
-|       8 | 0x2195      |        8597 |
-|       9 | 0x2196      |        8598 |
-|      10 | 0x2186      |        8582 |
-|      11 | 0x2187      |        8583 |
-|      12 | 0x218B      |        8587 |
-|      13 | 0x218E      |        8590 |
-|      14 | 0x2190      |        8592 |
+|       6 | 0x218E      |        8590 |
+|       7 | 0x218D      |        8589 |
+|       8 | 0x2196      |        8598 |
+|       9 | 0x2197      |        8599 |
+|      10 | 0x2187      |        8583 |
+|      11 | 0x2188      |        8584 |
+|      12 | 0x218C      |        8588 |
+|      13 | 0x218F      |        8591 |
+|      14 | 0x2191      |        8593 |
 |      15 | 0x003C      |          60 |
-|      16 | 0x2191      |        8593 |
-|      17 | 0x2192      |        8594 |
-|      18 | 0x216A      |        8554 |
-|      19 | 0x216B      |        8555 |
+|      16 | 0x2192      |        8594 |
+|      17 | 0x2193      |        8595 |
+|      18 | 0x216B      |        8555 |
+|      19 | 0x216C      |        8556 |
 |      20 | 0x7280      |       29312 |
-|      21 | 0x216C      |        8556 |
+|      21 | 0x216D      |        8557 |
 |      22 | 0x7283      |       29315 |
-|      23 | 0x216D      |        8557 |
+|      23 | 0x216E      |        8558 |
 |      24 | 0x728A      |       29322 |
-|      25 | 0x216E      |        8558 |
-|      26 | 0x216F      |        8559 |
-|      27 | 0x2170      |        8560 |
-|      28 | 0x2171      |        8561 |
-|      29 | 0x2172      |        8562 |
-|      30 | 0x2173      |        8563 |
-|      31 | 0x2174      |        8564 |
-|      32 | 0x2175      |        8565 |
-|      33 | 0x2176      |        8566 |
-|      34 | 0x2177      |        8567 |
-|      35 | 0x2178      |        8568 |
-|      36 | 0x2179      |        8569 |
-|      37 | 0x217A      |        8570 |
-|      38 | 0x217B      |        8571 |
-|      39 | 0x217C      |        8572 |
+|      25 | 0x216F      |        8559 |
+|      26 | 0x2170      |        8560 |
+|      27 | 0x2171      |        8561 |
+|      28 | 0x2172      |        8562 |
+|      29 | 0x2173      |        8563 |
+|      30 | 0x2174      |        8564 |
+|      31 | 0x2175      |        8565 |
+|      32 | 0x2176      |        8566 |
+|      33 | 0x2177      |        8567 |
+|      34 | 0x2178      |        8568 |
+|      35 | 0x2179      |        8569 |
+|      36 | 0x217A      |        8570 |
+|      37 | 0x217B      |        8571 |
+|      38 | 0x217C      |        8572 |
+|      39 | 0x217D      |        8573 |
 |      40 | 0x0028      |          40 |
 |      41 | 0x0010      |          16 |
 |      42 | 0x0011      |          17 |
-|      43 | 0x217D      |        8573 |
+|      43 | 0x217E      |        8574 |
 |      44 | 0x0012      |          18 |
-|      45 | 0x217E      |        8574 |
-|      46 | 0x217F      |        8575 |
+|      45 | 0x217F      |        8575 |
+|      46 | 0x2180      |        8576 |
 |      47 | 0x0003      |           3 |
 |      48 | 0x0004      |           4 |
 |      49 | 0x0009      |           9 |
 |      50 | 0x00C0      |         192 |
-|      51 | 0x2184      |        8580 |
+|      51 | 0x2185      |        8581 |
 |      52 | 0x1FFFE     |      131070 |
 |      53 | 0x0006      |           6 |
 |      54 | 0x0020      |          32 |
-|      55 | 0x2188      |        8584 |
+|      55 | 0x2189      |        8585 |
 |      56 | 0x3F0B      |       16139 |
 |      57 | 0x38F3      |       14579 |
 |      58 | 0x3A9B      |       15003 |
@@ -145,40 +145,40 @@
 
 ## String References
 
-- **8552**: Welcome to the MHMU's porter service, kupo! Which of your burdensome belongings shall I take off your hands today?
-- **8553**: Do something, kupo? [Porter service?/Buy a storage slip./No, thank you.]
-- **8554**: Is your gobbiebag splitting at the seams? Mog Safe spilling over? Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.
-- **8555**: That's where I come in, kupo. I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.
-- **8556**: To make use of my services, first you'll need to buy one of these storage slips for the low, low fee of $19 gil.
-- **8557**: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.
-- **8558**: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.
-- **8559**: Not that we moogles would object to that sort of donation, kupo.
-- **8560**: Choose the item you wish to entrust, then trade it to me along with a single storage slip. I will take the item and return the slip to you, marked with an invisible seal.
-- **8561**: Invisible to you, at least. It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.
-- **8562**: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.
-- **8563**: I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw. Simple as that, kupo!
-- **8564**: What's more, no additional transaction fees will be incurred! Pretty generous of us for a change, no?
-- **8565**: Now I bet you're wondering what the catch is, kupo. So as not to disappoint you, there are a few!
-- **8566**: For one, any signed items will lose their signatures if you store them with me.
-- **8567**: Why, you say? Hey, even we moogles aren't perfect! It's better for both of us if you keep your most precious possessions close at hand, kupo.
-- **8568**: Now listen up, because there's another catch, and it's a doozy.
-- **8569**: If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts! No "I'm sorry, Mister Porter Moogle, it'll never happen again!" Rules are rules, kupo, and someone has to keep them.
-- **8570**: Last, but not least, I can't accept equipment bearing Magian trial insignia.
-- **8571**: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.
-- **8572**: And that's all there is to it. This humble moogle can hardly wait to serve you!
-- **8574**: $32 will cost you $19 gil. Do we have a deal, kupo?
-- **8575**: Deal, kupo? (Current gil: $18). [Check storable items./Deal./No deal.]
-- **8582**: Is that $3 I see, kupo?
-- **8583**: What will you do? [Retrieve an item./Confirm storable items./Nothing.]
-- **8587**: Kupo? I'm already taking care of that item for you.
-- **8588**: $0, yes? Very well! Your precious property is safe with me, kupo!
-- **8589**: $0 [variety/varieties] of item, is it? Very well! Your precious property is safe with me, kupo!
-- **8590**: Is that a Magian insignia I see on that $0? You'll have to abandon your trial before I can take it off your hands, kupo.
-- **8592**: Curious as to whether I can accept that item? Let me check my annals.
-- **8593**: Why, yes I can! % can be stored with $1.
-- **8594**: Why, it looks as if you have $1 located in your [inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!
-- **8597**: 0: $0 1: $1 2: $2 3: $3
-- **8598**: 4: $4 5: $5 6: $6 7: $7
+- **8553**: Welcome to the MHMU's porter service, kupo! Which of your burdensome belongings shall I take off your hands today?
+- **8554**: Do something, kupo? [Porter service?/Buy a storage slip./No, thank you.]
+- **8555**: Is your gobbiebag splitting at the seams? Mog Safe spilling over? Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with.
+- **8556**: That's where I come in, kupo. I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies.
+- **8557**: To make use of my services, first you'll need to buy one of these storage slips for the low, low fee of $19 gil.
+- **8558**: Storage slips come in numerous varieties, kupo, each corresponding to a different type of item.
+- **8559**: You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store.
+- **8560**: Not that we moogles would object to that sort of donation, kupo.
+- **8561**: Choose the item you wish to entrust, then trade it to me along with a single storage slip. I will take the item and return the slip to you, marked with an invisible seal.
+- **8562**: Invisible to you, at least. It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo.
+- **8563**: When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again.
+- **8564**: I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw. Simple as that, kupo!
+- **8565**: What's more, no additional transaction fees will be incurred! Pretty generous of us for a change, no?
+- **8566**: Now I bet you're wondering what the catch is, kupo. So as not to disappoint you, there are a few!
+- **8567**: For one, any signed items will lose their signatures if you store them with me.
+- **8568**: Why, you say? Hey, even we moogles aren't perfect! It's better for both of us if you keep your most precious possessions close at hand, kupo.
+- **8569**: Now listen up, because there's another catch, and it's a doozy.
+- **8570**: If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts! No "I'm sorry, Mister Porter Moogle, it'll never happen again!" Rules are rules, kupo, and someone has to keep them.
+- **8571**: Last, but not least, I can't accept equipment bearing Magian trial insignia.
+- **8572**: If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo.
+- **8573**: And that's all there is to it. This humble moogle can hardly wait to serve you!
+- **8575**: $32 will cost you $19 gil. Do we have a deal, kupo?
+- **8576**: Deal, kupo? (Current gil: $18). [Check storable items./Deal./No deal.]
+- **8583**: Is that $3 I see, kupo?
+- **8584**: What will you do? [Retrieve an item./Confirm storable items./Nothing.]
+- **8588**: Kupo? I'm already taking care of that item for you.
+- **8589**: $0, yes? Very well! Your precious property is safe with me, kupo!
+- **8590**: $0 [variety/varieties] of item, is it? Very well! Your precious property is safe with me, kupo!
+- **8591**: Is that a Magian insignia I see on that $0? You'll have to abandon your trial before I can take it off your hands, kupo.
+- **8593**: Curious as to whether I can accept that item? Let me check my annals.
+- **8594**: Why, yes I can! % can be stored with $1.
+- **8595**: Why, it looks as if you have $1 located in your [inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!
+- **8598**: 0: $0 1: $1 2: $2 3: $3
+- **8599**: 4: $4 5: $5 6: $6 7: $7
 
 ## Events
 
@@ -528,15 +528,15 @@
 
 SUBROUTINE_0170:
   3: 0x0170 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8592*)
+  4: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=8593*)
     → "Curious as to whether I can accept that item? Let me check my annals."
   5: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0179 [0x1C] WAIT(60* ticks)
-  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8593*)
+  7: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=8594*)
     → "Why, yes I can! % can be stored with $1."
   8: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0180 [0x02] IF !(Work_Zone[4] < 0*) GOTO 0x018C
- 10: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=8594*)
+ 10: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=8595*)
     → "Why, it looks as if you have $1 located in your [inventory/Mog Safe/Mog Safe 2/Mog House storage/Mog Locker/Mog Satchel/Mog Sack/Mog Case/Mog Wardrobe/Mog Wardrobe 2/Mog Wardrobe 3/Mog Wardrobe 4/Mog Wardrobe 5/Mog Wardrobe 6/Mog Wardrobe 7/Mog Wardrobe 8/Recycle Bin]!"
  11: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x018C [0x1B] RETURN
@@ -551,12 +551,12 @@ SUBROUTINE_0170:
      0x002A [0x03] Work_Zone_1700[10] = Work_Zone[8]
      0x002F [0x03] Work_Zone_1700[11] = Work_Zone[9]
      0x0034 [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8552*)
+     0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8553*)
     → "Welcome to the MHMU's porter service, kupo! Which of your burdensome belongings shall I take off your hands today?"
      0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x003D [0x05] ExtData[1]->WorkLocal[1] = 1
      0x0040 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0082
-     0x0048 [0x24] CREATE_DIALOG(message_id=8553*, default_option=0*, option_flags=0*)
+     0x0048 [0x24] CREATE_DIALOG(message_id=8554*, default_option=0*, option_flags=0*)
     → "Do something, kupo? [Porter service?/Buy a storage slip./No, thank you.]"
      0x004F [0x25] WAIT_DIALOG_SELECT()
      0x0050 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005E
@@ -574,11 +574,11 @@ SUBROUTINE_0170:
      0x0083 [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0088 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0089 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0098
-     0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=8589*)
+     0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=8590*)
     → "$0 [variety/varieties] of item, is it? Very well! Your precious property is safe with me, kupo!"
      0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0095 [0x01] GOTO 0x009C
-     0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=8588*)
+     0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=8589*)
     → "$0, yes? Very well! Your precious property is safe with me, kupo!"
      0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x009C [0x1B] RETURN
@@ -596,15 +596,15 @@ SUBROUTINE_0170:
      0x00D4 [0x03] ExtData[1]->WorkLocal[25] = 0*
      0x00D9 [0x9D] ExtData[1]->WorkLocal[12] = 0x0952[ExtData[1]->WorkLocal[11]] // Read WORD
      0x00E1 [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x00F1
-     0x00E9 [0x48] [System] [8597*]:
+     0x00E9 [0x48] [System] [8598*]:
     → "0: $0 1: $1 2: $2 3: $3"
      0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00ED [0x48] [System] [8598*]:
+     0x00ED [0x48] [System] [8599*]:
     → "4: $4 5: $5 6: $6 7: $7"
      0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00F1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[12]
      0x00F6 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[12]
-     0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8582*)
+     0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8583*)
     → "Is that $3 I see, kupo?"
      0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00FF [0x05] ExtData[1]->WorkLocal[1] = 1
@@ -613,7 +613,7 @@ SUBROUTINE_0170:
      0x010F [0x1A] CALL_SUBROUTINE(address=0x06A7)
      0x0112 [0x02] IF !(ExtData[1]->WorkLocal[21] == 0*) GOTO 0x0121
      0x011A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x0121 [0x24] CREATE_DIALOG(message_id=8583*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
+     0x0121 [0x24] CREATE_DIALOG(message_id=8584*, default_option=0*, option_flags=ExtData[1]->WorkLocal[10])
     → "What will you do? [Retrieve an item./Confirm storable items./Nothing.]"
      0x0128 [0x25] WAIT_DIALOG_SELECT()
      0x0129 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0137
@@ -629,77 +629,77 @@ SUBROUTINE_0170:
      0x0158 [0x01] GOTO 0x0102
      0x015B [0x1B] RETURN
      0x015C [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8587*)
+     0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8588*)
     → "Kupo? I'm already taking care of that item for you."
      0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0165 [0x1B] RETURN
      0x0166 [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8590*)
+     0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8591*)
     → "Is that a Magian insignia I see on that $0? You'll have to abandon your trial before I can take it off your hands, kupo."
      0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x016F [0x1B] RETURN
 # Dead code (unreachable instructions):
-     0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8554*)
+     0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=8555*)
     → "Is your gobbiebag splitting at the seams? Mog Safe spilling over? Why, an accomplished adventurer like yourself surely has more stuff than you know what to do with."
      0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8555*)
+     0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8556*)
     → "That's where I come in, kupo. I'll gladly hold onto your prized possessions, freeing you space to gather up even grander goodies."
      0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0195 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=29312*, buffer1=0*, buffer2=0*, buffer3=0*)
-     0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8556*)
+     0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8557*)
     → "To make use of my services, first you'll need to buy one of these storage slips for the low, low fee of $19 gil."
      0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01A3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x01A6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=29315*, buffer1=0*, buffer2=0*, buffer3=0*)
-     0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8557*)
+     0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8558*)
     → "Storage slips come in numerous varieties, kupo, each corresponding to a different type of item."
      0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01B4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x01B7 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=29322*, buffer1=0*, buffer2=0*, buffer3=0*)
-     0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8558*)
+     0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
     → "You'll want to peruse the fine print closely, so you don't end up paying good gil for a scrap of parchment useless for the particular item you wish to store."
      0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01C5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
+     0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
     → "Not that we moogles would object to that sort of donation, kupo."
      0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
+     0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
     → "Choose the item you wish to entrust, then trade it to me along with a single storage slip. I will take the item and return the slip to you, marked with an invisible seal."
      0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
+     0x01D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
     → "Invisible to you, at least. It's plain as day to us moogles, so don't even think of trying to pull one over on us, kupo."
      0x01D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
+     0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
     → "When it comes time to retrieve your item, just trade to me a single storage slip--any slip--once again."
      0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
+     0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
     → "I will present you with a list of all the items currently in my care, and you may choose the one you wish to withdraw. Simple as that, kupo!"
      0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
+     0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
     → "What's more, no additional transaction fees will be incurred! Pretty generous of us for a change, no?"
      0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
+     0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8566*)
     → "Now I bet you're wondering what the catch is, kupo. So as not to disappoint you, there are a few!"
      0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8566*)
+     0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8567*)
     → "For one, any signed items will lose their signatures if you store them with me."
      0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8567*)
+     0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
     → "Why, you say? Hey, even we moogles aren't perfect! It's better for both of us if you keep your most precious possessions close at hand, kupo."
      0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
+     0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
     → "Now listen up, because there's another catch, and it's a doozy."
      0x01EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
+     0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
     → "If you lose your storage slip, I won't be able to return your item. Ever. No ifs, ands, or buts! No "I'm sorry, Mister Porter Moogle, it'll never happen again!" Rules are rules, kupo, and someone has to keep them."
      0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
+     0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
     → "Last, but not least, I can't accept equipment bearing Magian trial insignia."
      0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
+     0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
     → "If you have such an item that you're simply dying to entrust to me, you'll have to abandon your trial first, kupo."
      0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
+     0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
     → "And that's all there is to it. This humble moogle can hardly wait to serve you!"
      0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0200 [0x1B] RETURN
@@ -761,11 +761,11 @@ SUBROUTINE_0170:
      0x0323 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x0396
      0x032B [0x9D] Work_Zone_1700[24] = 0x0952[ExtData[1]->WorkLocal[11]] // Read WORD
      0x0333 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone_1700[24], buffer1=0*, buffer2=0*, buffer3=0*)
-     0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
+     0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
     → "$32 will cost you $19 gil. Do we have a deal, kupo?"
      0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0341 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x0344 [0x24] CREATE_DIALOG(message_id=8575*, default_option=0*, option_flags=0*)
+     0x0344 [0x24] CREATE_DIALOG(message_id=8576*, default_option=0*, option_flags=0*)
     → "Deal, kupo? (Current gil: $18). [Check storable items./Deal./No deal.]"
      0x034B [0x25] WAIT_DIALOG_SELECT()
      0x034C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035A
@@ -901,10 +901,10 @@ SUBROUTINE_0170:
      0x062A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x062C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x062E [0x02] IF !(ExtData[1]->WorkLocal[25] == 1*) GOTO 0x063E
-     0x0636 [0x48] [System] [8597*]:
+     0x0636 [0x48] [System] [8598*]:
     → "0: $0 1: $1 2: $2 3: $3"
      0x0639 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x063A [0x48] [System] [8598*]:
+     0x063A [0x48] [System] [8599*]:
     → "4: $4 5: $5 6: $6 7: $7"
      0x063D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x063E [0x03] ExtData[1]->WorkLocal[13] = Work_Zone[2]

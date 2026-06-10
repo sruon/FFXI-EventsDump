@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CB2      |        7346 |
+|       0 | 0x1CB3      |        7347 |
 
 ## String References
 
-- **7346**: Time: $0 Route: $1
+- **7347**: Time: $0 Route: $1
 
 ## Events
 
@@ -69,7 +69,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Time: $0 Route: $1"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT

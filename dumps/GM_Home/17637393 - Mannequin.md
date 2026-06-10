@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C00      |        7168 |
-|       1 | 0x1C01      |        7169 |
+|       0 | 0x1C01      |        7169 |
+|       1 | 0x1C02      |        7170 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
@@ -33,8 +33,8 @@
 
 ## String References
 
-- **7168**: Select the race and sex of the mannequin that you want...
-- **7169**: Well... [Hume male./Hume female./Elvaan male./Elvaan female./Tarutaru male./Tarutaru female./Mithra./Galka.]
+- **7169**: Select the race and sex of the mannequin that you want...
+- **7170**: Well... [Hume male./Hume female./Elvaan male./Elvaan female./Tarutaru male./Tarutaru female./Mithra./Galka.]
 
 ## Events
 
@@ -88,10 +88,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7168*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7169*)
     → "Select the race and sex of the mannequin that you want..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7169*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7170*, default_option=0*, option_flags=0*)
     → "Well... [Hume male./Hume female./Elvaan male./Elvaan female./Tarutaru male./Tarutaru female./Mithra./Galka.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D

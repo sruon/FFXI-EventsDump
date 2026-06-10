@@ -39,24 +39,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB9      |        7609 |
-|       7 | 0x1DAC      |        7596 |
+|       6 | 0x1DBA      |        7610 |
+|       7 | 0x1DAD      |        7597 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1C3E      |        7230 |
+|      12 | 0x1C3F      |        7231 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1C49      |        7241 |
-|      20 | 0x1C4A      |        7242 |
-|      21 | 0x1C4B      |        7243 |
-|      22 | 0x1C4C      |        7244 |
-|      23 | 0x1C70      |        7280 |
+|      19 | 0x1C4A      |        7242 |
+|      20 | 0x1C4B      |        7243 |
+|      21 | 0x1C4C      |        7244 |
+|      22 | 0x1C4D      |        7245 |
+|      23 | 0x1C71      |        7281 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -76,16 +76,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1DA5      |        7589 |
-|      44 | 0x1DAA      |        7594 |
-|      45 | 0x1DA9      |        7593 |
+|      43 | 0x1DA6      |        7590 |
+|      44 | 0x1DAB      |        7595 |
+|      45 | 0x1DAA      |        7594 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB7      |        7607 |
-|      48 | 0x1DB6      |        7606 |
+|      47 | 0x1DB8      |        7608 |
+|      48 | 0x1DB7      |        7607 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1D91      |        7569 |
+|      50 | 0x1D92      |        7570 |
 |      51 | 0x008F      |         143 |
-|      52 | 0x1C41      |        7233 |
+|      52 | 0x1C42      |        7234 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x00B4      |         180 |
 |      55 | 0xFFF6C42B  |  4294362155 |
@@ -174,11 +174,11 @@
 |     138 | 0x8FE5      |       36837 |
 |     139 | 0x02A1      |         673 |
 |     140 | 0x0024      |          36 |
-|     141 | 0x1D93      |        7571 |
-|     142 | 0x1D92      |        7570 |
-|     143 | 0x1DB5      |        7605 |
-|     144 | 0x1D95      |        7573 |
-|     145 | 0x1D94      |        7572 |
+|     141 | 0x1D94      |        7572 |
+|     142 | 0x1D93      |        7571 |
+|     143 | 0x1DB6      |        7606 |
+|     144 | 0x1D96      |        7574 |
+|     145 | 0x1D95      |        7573 |
 |     146 | 0xFFF6D01A  |  4294365210 |
 |     147 | 0xFFFE796C  |  4294867308 |
 |     148 | 0x270F      |        9999 |
@@ -187,10 +187,10 @@
 |     151 | 0xFFFE7975  |  4294867317 |
 |     152 | 0x2668      |        9832 |
 |     153 | 0x0023      |          35 |
-|     154 | 0x1DCB      |        7627 |
-|     155 | 0x1DCC      |        7628 |
-|     156 | 0x1DCD      |        7629 |
-|     157 | 0x1DCE      |        7630 |
+|     154 | 0x1DCC      |        7628 |
+|     155 | 0x1DCD      |        7629 |
+|     156 | 0x1DCE      |        7630 |
+|     157 | 0x1DCF      |        7631 |
 |     158 | 0x45F39     |      286521 |
 |     159 | 0x5CBE7     |      379879 |
 |     160 | 0xFFFE1A37  |  4294842935 |
@@ -208,54 +208,54 @@
 |     172 | 0x0078      |         120 |
 |     173 | 0x007F      |         127 |
 |     174 | 0x0028      |          40 |
-|     175 | 0x1E55      |        7765 |
-|     176 | 0x1E56      |        7766 |
+|     175 | 0x1E56      |        7766 |
+|     176 | 0x1E57      |        7767 |
 |     177 | 0x01E0      |         480 |
-|     178 | 0x1DCF      |        7631 |
-|     179 | 0x1DD0      |        7632 |
-|     180 | 0x1DD1      |        7633 |
-|     181 | 0x1DD2      |        7634 |
-|     182 | 0x1DD3      |        7635 |
-|     183 | 0x1DD4      |        7636 |
-|     184 | 0x1DD5      |        7637 |
+|     178 | 0x1DD0      |        7632 |
+|     179 | 0x1DD1      |        7633 |
+|     180 | 0x1DD2      |        7634 |
+|     181 | 0x1DD3      |        7635 |
+|     182 | 0x1DD4      |        7636 |
+|     183 | 0x1DD5      |        7637 |
+|     184 | 0x1DD6      |        7638 |
 |     185 | 0x033E      |         830 |
 |     186 | 0x00A3      |         163 |
 |     187 | 0x0029      |          41 |
-|     188 | 0x1E57      |        7767 |
+|     188 | 0x1E58      |        7768 |
 |     189 | 0x00B5      |         181 |
-|     190 | 0x1E58      |        7768 |
-|     191 | 0x1E59      |        7769 |
-|     192 | 0x1E5A      |        7770 |
+|     190 | 0x1E59      |        7769 |
+|     191 | 0x1E5A      |        7770 |
+|     192 | 0x1E5B      |        7771 |
 |     193 | 0x00D8      |         216 |
-|     194 | 0x1E5B      |        7771 |
-|     195 | 0x1E5C      |        7772 |
-|     196 | 0x1E5D      |        7773 |
-|     197 | 0x1E5E      |        7774 |
-|     198 | 0x1E5F      |        7775 |
-|     199 | 0x1E60      |        7776 |
-|     200 | 0x1E61      |        7777 |
-|     201 | 0x1E62      |        7778 |
-|     202 | 0x1E63      |        7779 |
-|     203 | 0x1E64      |        7780 |
-|     204 | 0x1E65      |        7781 |
-|     205 | 0x1E66      |        7782 |
-|     206 | 0x1E67      |        7783 |
+|     194 | 0x1E5C      |        7772 |
+|     195 | 0x1E5D      |        7773 |
+|     196 | 0x1E5E      |        7774 |
+|     197 | 0x1E5F      |        7775 |
+|     198 | 0x1E60      |        7776 |
+|     199 | 0x1E61      |        7777 |
+|     200 | 0x1E62      |        7778 |
+|     201 | 0x1E63      |        7779 |
+|     202 | 0x1E64      |        7780 |
+|     203 | 0x1E65      |        7781 |
+|     204 | 0x1E66      |        7782 |
+|     205 | 0x1E67      |        7783 |
+|     206 | 0x1E68      |        7784 |
 |     207 | 0x005A      |          90 |
-|     208 | 0x1E68      |        7784 |
-|     209 | 0x1E69      |        7785 |
+|     208 | 0x1E69      |        7785 |
+|     209 | 0x1E6A      |        7786 |
 |     210 | 0x00B0      |         176 |
-|     211 | 0x1E6A      |        7786 |
-|     212 | 0x1E6B      |        7787 |
-|     213 | 0x1E6C      |        7788 |
+|     211 | 0x1E6B      |        7787 |
+|     212 | 0x1E6C      |        7788 |
+|     213 | 0x1E6D      |        7789 |
 |     214 | 0x00D7      |         215 |
-|     215 | 0x1E6D      |        7789 |
-|     216 | 0x1E6E      |        7790 |
-|     217 | 0x1E6F      |        7791 |
+|     215 | 0x1E6E      |        7790 |
+|     216 | 0x1E6F      |        7791 |
+|     217 | 0x1E70      |        7792 |
 |     218 | 0x0105      |         261 |
-|     219 | 0x1E70      |        7792 |
-|     220 | 0x1E71      |        7793 |
-|     221 | 0x1E72      |        7794 |
-|     222 | 0x1C3F      |        7231 |
+|     219 | 0x1E71      |        7793 |
+|     220 | 0x1E72      |        7794 |
+|     221 | 0x1E73      |        7795 |
+|     222 | 0x1C40      |        7232 |
 |     223 | 0x44ED3     |      282323 |
 |     224 | 0x5CCBE     |      380094 |
 |     225 | 0xFFFE1BA0  |  4294843296 |
@@ -292,27 +292,27 @@
 
 ## String References
 
-- **7230**: Enter the battlefield? [Enter./Decline.]
-- **7231**: Leave the battlefield? [Run away./Stay.]
-- **7233**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7231**: Enter the battlefield? [Enter./Decline.]
+- **7232**: Leave the battlefield? [Run away./Stay.]
+- **7234**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7243**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7244**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7280**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7569**: Skip the event? [Yes./No.]
-- **7570**: Battlefield clear time: $3 second[/s]!
-- **7571**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7572**: The current battlefield clear time record is $3 second[/s].
-- **7573**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7589**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7593**: That record is held by $5 adventurers, including %0!
-- **7594**: That record is held by %0!
-- **7596**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7605**: You have broken the clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]"!
-- **7606**: The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 second[/s].
-- **7607**: The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
-- **7609**: Which battlefield will you enter? [None./Tough Nut to Crack./Happy Caster./Omens./Achieving True Power./Shield of Diplomacy./An Imperial Heist./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+- **7245**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7281**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7570**: Skip the event? [Yes./No.]
+- **7571**: Battlefield clear time: $3 second[/s]!
+- **7572**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7573**: The current battlefield clear time record is $3 second[/s].
+- **7574**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7590**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7594**: That record is held by $5 adventurers, including %0!
+- **7595**: That record is held by %0!
+- **7597**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7606**: You have broken the clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]"!
+- **7607**: The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 second[/s].
+- **7608**: The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 minute[/s] $2 second[/s].
+- **7610**: Which battlefield will you enter? [None./Tough Nut to Crack./Happy Caster./Omens./Achieving True Power./Shield of Diplomacy./An Imperial Heist./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
 
 ## Events
 
@@ -527,7 +527,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Tough Nut to Crack./Happy Caster./Omens./Achieving True Power./Shield of Diplomacy./An Imperial Heist./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -540,7 +540,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x22D2)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7596*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7597*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -566,7 +566,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -615,22 +615,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7241*]:
+ 89: 0x0225 [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7242*]:
+ 93: 0x0234 [0x48] [System] [7243*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7243*]:
+ 97: 0x0243 [0x48] [System] [7244*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7244*]:
+101: 0x0252 [0x48] [System] [7245*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -639,7 +639,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7589*]:
+105: 0x0469 [0x48] [System] [7590*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -651,24 +651,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7607*]:
+114: 0x04EA [0x48] [System] [7608*]:
     → "The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7606*]:
+117: 0x04F1 [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7594*]:
+120: 0x04FD [0x48] [System] [7595*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7593*]:
+126: 0x0511 [0x48] [System] [7594*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -684,7 +684,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -824,7 +824,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7233*]:
+266: 0x07F4 [0x48] [System] [7234*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1196,7 +1196,7 @@ SUBROUTINE_0C45:
  87: 0x0C50 [0x01] GOTO 0x0C6E
  88: 0x0C53 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D1E
  89: 0x0C5B [0x1C] WAIT(15* ticks)
- 90: 0x0C5E [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
+ 90: 0x0C5E [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  91: 0x0C65 [0x25] WAIT_DIALOG_SELECT()
  92: 0x0C66 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D1E
@@ -1263,18 +1263,18 @@ SUBROUTINE_0D50:
 141: 0x0D89 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DA4
 142: 0x0D91 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 143: 0x0D98 [0x15] Work_Zone[5] /= 60*
-144: 0x0D9D [0x48] [System] [7571*]:
+144: 0x0D9D [0x48] [System] [7572*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 145: 0x0DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0DA1 [0x01] GOTO 0x0DA8
-147: 0x0DA4 [0x48] [System] [7570*]:
+147: 0x0DA4 [0x48] [System] [7571*]:
     → "Battlefield clear time: $3 second[/s]!"
 148: 0x0DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DA8:
 149: 0x0DA8 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DBC
 150: 0x0DB0 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-151: 0x0DB5 [0x48] [System] [7605*]:
+151: 0x0DB5 [0x48] [System] [7606*]:
     → "You have broken the clear time record for "[Tough Nut to Crack/Happy Caster/Omens/Achieving True Power/Shield of Diplomacy/An Imperial Heist]"!"
 152: 0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x0DB9 [0x01] GOTO 0x0DE5
@@ -1282,12 +1282,12 @@ SUBROUTINE_0DA8:
 155: 0x0DC4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 156: 0x0DC9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 157: 0x0DD0 [0x15] Work_Zone[5] /= 60*
-158: 0x0DD5 [0x48] [System] [7573*]:
+158: 0x0DD5 [0x48] [System] [7574*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 159: 0x0DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0DD9 [0x01] GOTO 0x0DE5
 161: 0x0DDC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-162: 0x0DE1 [0x48] [System] [7572*]:
+162: 0x0DE1 [0x48] [System] [7573*]:
     → "The current battlefield clear time record is $3 second[/s]."
 163: 0x0DE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1789,7 +1789,7 @@ SUBROUTINE_0FBC:
 
 ```
 # Dead code (unreachable instructions):
-     0x1002 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
+     0x1002 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1009 [0x25] WAIT_DIALOG_SELECT()
      0x100A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1018
@@ -1826,19 +1826,19 @@ SUBROUTINE_0FBC:
      0x10E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s850" with entities [EventEntity, EventEntity], work=[35*, 0*]
      0x10F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1102 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-     0x1111 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7627*]:
+     0x1111 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7628*]:
     → "Long ago, I had another automaton."
      0x1118 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1119 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7628*]:
+     0x1119 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7629*]:
     → "But during a battle with the Undead Swarm, the Lamiae managed to wrest it from my control and used it to inflict great damage to our army."
      0x1120 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1121 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7629*]:
+     0x1121 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7630*]:
     → "A puppetmaster must be able to retain complete control over his automaton no matter the situation."
      0x1128 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1129 [0x52] END_LOAD_SCHEDULER: End scheduler "s850" with entities [EventEntity, EventEntity], work=35*
      0x1138 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [EventEntity, EventEntity], work=[200*, 60*]
      0x1149 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s851" with entities [EventEntity, EventEntity], work=[35*, 0*]
-     0x115A [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7630*]:
+     0x115A [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7631*]:
     → "Show me you have the strength to destroy your automaton if need be!"
      0x1161 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1162 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s851" with entities [EventEntity, EventEntity], work=35*
@@ -1921,10 +1921,10 @@ SUBROUTINE_0FBC:
      0x13F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s129" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1407 [0x1C] WAIT(30* ticks)
      0x140A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=40*
-     0x1419 [0x2B] Karababa (ID: 17039460/0x01040064) [7765*]:
+     0x1419 [0x2B] Karababa (ID: 17039460/0x01040064) [7766*]:
     → "Ho-hum. Such a typical scene."
      0x1420 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1421 [0x2B] Karababa (ID: 17039460/0x01040064) [7766*]:
+     0x1421 [0x2B] Karababa (ID: 17039460/0x01040064) [7767*]:
     → "These betrayals have become so routine."
      0x1428 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1429 [0x52] END_LOAD_SCHEDULER: End scheduler "s129" with entities [LocalPlayer, LocalPlayer], work=196*
@@ -2031,34 +2031,34 @@ SUBROUTINE_0FBC:
      0x176F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1780 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
      0x178F [0x1C] WAIT(480* ticks)
-     0x1792 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7631*]:
+     0x1792 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7632*]:
     → "You did not achieve that strength simply by defeating monsters..."
      0x1799 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x179A [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7632*]:
+     0x179A [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7633*]:
     → "Your power comes from the inseverable bond between you and your automaton."
      0x17A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17A2 [0x52] END_LOAD_SCHEDULER: End scheduler "s852" with entities [EventEntity, EventEntity], work=35*
      0x17B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s853" with entities [EventEntity, EventEntity], work=[35*, 0*]
-     0x17C2 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7633*]:
+     0x17C2 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7634*]:
     → "When I chose to destroy my automaton, I felt it was the only path I could take."
      0x17C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17CA [0x52] END_LOAD_SCHEDULER: End scheduler "s853" with entities [EventEntity, EventEntity], work=35*
      0x17D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shamarhaan (ID: 17039454/0x0104005E), Shamarhaan (ID: 17039454/0x0104005E)], work=29*
      0x17E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s855" with entities [EventEntity, EventEntity], work=[35*, 0*]
-     0x17F9 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7634*]:
+     0x17F9 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7635*]:
     → "If only I'd had the strength to save it instead..."
      0x1800 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1801 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s855" with entities [EventEntity, EventEntity], work=35*
      0x1810 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s856" with entities [EventEntity, EventEntity], work=[35*, 0*]
      0x1821 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shamarhaan (ID: 17039454/0x0104005E), Shamarhaan (ID: 17039454/0x0104005E)], work=29*
-     0x1830 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7635*]:
+     0x1830 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7636*]:
     → "I apologize. The more years pass by, the more I tend to think back on the past..."
      0x1837 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1838 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s854" with entities [EventEntity, EventEntity], work=[35*, 0*]
-     0x1849 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7636*]:
+     0x1849 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7637*]:
     → "While in a different manner than I expected, you passed with flying colors. Now you can walk whatever path you desire."
      0x1850 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1851 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7637*]:
+     0x1851 [0x2B] Shamarhaan (ID: 17039454/0x0104005E) [7638*]:
     → "But no matter what you choose to do or where you decide to travel, I have no doubt... Your automaton will always be right behind you."
      0x1858 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1859 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2132,7 +2132,7 @@ SUBROUTINE_0FBC:
      0x1A7B [0x52] END_LOAD_SCHEDULER: End scheduler "s178" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1A8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s179" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1A9B [0x1C] WAIT(60* ticks)
-     0x1A9E [0x2B] King of Hearts (ID: 17039461/0x01040065) [7767*]:
+     0x1A9E [0x2B] King of Hearts (ID: 17039461/0x01040065) [7768*]:
     → "LaDy$26KaRabAbA!"
      0x1AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1AA6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh1" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
@@ -2144,10 +2144,10 @@ SUBROUTINE_0FBC:
      0x1AD3 [0x52] END_LOAD_SCHEDULER: End scheduler "s179" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1AE2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s180" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1AF3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [King of Hearts (ID: 17039461/0x01040065), King of Hearts (ID: 17039461/0x01040065)], work=181*
-     0x1B02 [0x2B] King of Hearts (ID: 17039461/0x01040065) [7768*]:
+     0x1B02 [0x2B] King of Hearts (ID: 17039461/0x01040065) [7769*]:
     → "I'vE SeaLEd$26tHE doOR aS$26yOU RequESteD!"
      0x1B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1B0A [0x2B] King of Hearts (ID: 17039461/0x01040065) [7769*]:
+     0x1B0A [0x2B] King of Hearts (ID: 17039461/0x01040065) [7770*]:
     → "ThaT sHouLD$26hoLD tHoSe TroLLs$26foR a wHiLe."
      0x1B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B12 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [King of Hearts (ID: 17039461/0x01040065), King of Hearts (ID: 17039461/0x01040065)], work=181*
@@ -2155,19 +2155,19 @@ SUBROUTINE_0FBC:
      0x1B30 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s181" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1B41 [0x1C] WAIT(60* ticks)
      0x1B44 [0x27] REQ_SET(priority=0x0A, entity_id=King of Hearts (ID: 17039461/0x01040065), tag_num=0x0F)
-     0x1B4B [0x2B] King of Hearts (ID: 17039461/0x01040065) [7770*]:
+     0x1B4B [0x2B] King of Hearts (ID: 17039461/0x01040065) [7771*]:
     → "WhaT aboUT$26tHaT MobLiN?"
      0x1B52 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B53 [0x52] END_LOAD_SCHEDULER: End scheduler "s181" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1B62 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s183" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1B73 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Megomak (ID: 17039458/0x01040062), Megomak (ID: 17039458/0x01040062)], work=216*
-     0x1B82 [0x2B] Megomak (ID: 17039458/0x01040062) [7771*]:
+     0x1B82 [0x2B] Megomak (ID: 17039458/0x01040062) [7772*]:
     → "!!!"
      0x1B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1B8A [0x52] END_LOAD_SCHEDULER: End scheduler "s183" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1B99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s182" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1BAA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik1" with entities [Megomak (ID: 17039458/0x01040062), Megomak (ID: 17039458/0x01040062)], work=216*
-     0x1BB9 [0x2B] Karababa (ID: 17039460/0x01040064) [7772*]:
+     0x1BB9 [0x2B] Karababa (ID: 17039460/0x01040064) [7773*]:
     → "Never mind, my good King, just leave him be..."
      0x1BC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BC1 [0x27] REQ_SET(priority=0x05, entity_id=King of Hearts (ID: 17039461/0x01040065), tag_num=0x10)
@@ -2175,70 +2175,70 @@ SUBROUTINE_0FBC:
      0x1BCE [0x4A] Karababa (ID: 17039460/0x01040064) looks at King of Hearts (ID: 17039461/0x01040065)
      0x1BD7 [0x1C] WAIT(30* ticks)
      0x1BDA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=40*
-     0x1BE9 [0x2B] Karababa (ID: 17039460/0x01040064) [7773*]:
+     0x1BE9 [0x2B] Karababa (ID: 17039460/0x01040064) [7774*]:
     → "Why, his betrayal hasn't made me the least bit angry."
      0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BF1 [0x52] END_LOAD_SCHEDULER: End scheduler "s182" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1C00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s184" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1C11 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [King of Hearts (ID: 17039461/0x01040065), King of Hearts (ID: 17039461/0x01040065)], work=181*
-     0x1C20 [0x2B] King of Hearts (ID: 17039461/0x01040065) [7774*]:
+     0x1C20 [0x2B] King of Hearts (ID: 17039461/0x01040065) [7775*]:
     → "AnD tHE$26eGg?"
      0x1C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C28 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [King of Hearts (ID: 17039461/0x01040065), King of Hearts (ID: 17039461/0x01040065)], work=181*
      0x1C37 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=40*
-     0x1C46 [0x2B] Karababa (ID: 17039460/0x01040064) [7775*]:
+     0x1C46 [0x2B] Karababa (ID: 17039460/0x01040064) [7776*]:
     → "Now that we have this khimaira wing, the egg no longer counts for anything."
      0x1C4D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C4E [0x52] END_LOAD_SCHEDULER: End scheduler "s184" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1C5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s185" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1C6E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
-     0x1C7D [0x2B] Karababa (ID: 17039460/0x01040064) [7776*]:
+     0x1C7D [0x2B] Karababa (ID: 17039460/0x01040064) [7777*]:
     → "Ohohoho!"
      0x1C84 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1C85 [0x2B] Karababa (ID: 17039460/0x01040064) [7777*]:
+     0x1C85 [0x2B] Karababa (ID: 17039460/0x01040064) [7778*]:
     → "The Rhinostery will discover its secrets without fail, and Windurst will have the Empire caught by the tail."
      0x1C8C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C8D [0x52] END_LOAD_SCHEDULER: End scheduler "s185" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1C9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s186" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1CAD [0x2B] Karababa (ID: 17039460/0x01040064) [7778*]:
+     0x1CAD [0x2B] Karababa (ID: 17039460/0x01040064) [7779*]:
     → "That idiot prince will be furious, I'll wager. I do so love when my victories are major!"
      0x1CB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CB5 [0x52] END_LOAD_SCHEDULER: End scheduler "s186" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1CC4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s187" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1CD5 [0x6B] STOP_AND_IDLE: Karababa (ID: 17039460/0x01040064) stops current action and resets to idle (animation="idl0")
-     0x1CDE [0x2B] King of Hearts (ID: 17039461/0x01040065) [7779*]:
+     0x1CDE [0x2B] King of Hearts (ID: 17039461/0x01040065) [7780*]:
     → "BuT tHE$26cHeST fuLL$26oF GiL..."
      0x1CE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CE6 [0x52] END_LOAD_SCHEDULER: End scheduler "s187" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1CF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s188" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1D06 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=40*
-     0x1D15 [0x2B] Karababa (ID: 17039460/0x01040064) [7780*]:
+     0x1D15 [0x2B] Karababa (ID: 17039460/0x01040064) [7781*]:
     → "Hm? Who said anything about putting gil in the chest? I'm not going to help feather that Moblin's nest."
      0x1D1C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1D1D [0x2B] King of Hearts (ID: 17039461/0x01040065) [7781*]:
+     0x1D1D [0x2B] King of Hearts (ID: 17039461/0x01040065) [7782*]:
     → "TheN,$26wHaT WaS$26iN tHE--"
      0x1D24 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D25 [0x52] END_LOAD_SCHEDULER: End scheduler "s188" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1D34 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s189" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1D45 [0x2B] Karababa (ID: 17039460/0x01040064) [7782*]:
+     0x1D45 [0x2B] Karababa (ID: 17039460/0x01040064) [7783*]:
     → "Shhh..."
      0x1D4C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D4D [0x4A] Megomak (ID: 17039458/0x01040062) looks at Unnamed NPC (ID: 17039466/0x0104006A)
      0x1D56 [0x52] END_LOAD_SCHEDULER: End scheduler "s189" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1D65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s190" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1D76 [0x2B] Karababa (ID: 17039460/0x01040064) [7783*]:
+     0x1D76 [0x2B] Karababa (ID: 17039460/0x01040064) [7784*]:
     → "3..."
      0x1D7D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D7E [0x1C] WAIT(90* ticks)
      0x1D81 [0x52] END_LOAD_SCHEDULER: End scheduler "s190" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1D90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s191" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1DA1 [0x2B] Karababa (ID: 17039460/0x01040064) [7784*]:
+     0x1DA1 [0x2B] Karababa (ID: 17039460/0x01040064) [7785*]:
     → "2..."
      0x1DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DA9 [0x1C] WAIT(90* ticks)
      0x1DAC [0x52] END_LOAD_SCHEDULER: End scheduler "s191" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1DBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s192" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1DCC [0x2B] Karababa (ID: 17039460/0x01040064) [7785*]:
+     0x1DCC [0x2B] Karababa (ID: 17039460/0x01040064) [7786*]:
     → "1..."
      0x1DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DD4 [0x1C] WAIT(30* ticks)
@@ -2249,20 +2249,20 @@ SUBROUTINE_0FBC:
      0x1E05 [0x4A] King of Hearts (ID: 17039461/0x01040065) looks at Unnamed NPC (ID: 17039466/0x0104006A)
      0x1E0E [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17039466/0x0104006A)
      0x1E17 [0x27] REQ_SET(priority=0x05, entity_id=Unnamed NPC (ID: 17039466/0x0104006A), tag_num=0x05)
-     0x1E1E [0x2B] King of Hearts (ID: 17039461/0x01040065) [7786*]:
+     0x1E1E [0x2B] King of Hearts (ID: 17039461/0x01040065) [7787*]:
     → "!?"
      0x1E25 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E26 [0x4A] Karababa (ID: 17039460/0x01040064) looks at Megomak (ID: 17039458/0x01040062)
      0x1E2F [0x2A] GET_REQ_LEVEL(level=5, entity_id=Unnamed NPC (ID: 17039466/0x0104006A))
      0x1E35 [0x52] END_LOAD_SCHEDULER: End scheduler "s193" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1E44 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s194" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1E55 [0x2B] Karababa (ID: 17039460/0x01040064) [7787*]:
+     0x1E55 [0x2B] Karababa (ID: 17039460/0x01040064) [7788*]:
     → "Aren't bomb arms fun?"
      0x1E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
      0x1E6C [0x52] END_LOAD_SCHEDULER: End scheduler "s194" with entities [LocalPlayer, LocalPlayer], work=196*
      0x1E7B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s195" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x1E8C [0x2B] Karababa (ID: 17039460/0x01040064) [7788*]:
+     0x1E8C [0x2B] Karababa (ID: 17039460/0x01040064) [7789*]:
     → "Ohohohohohoho!"
      0x1E93 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E94 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s195" with entities [LocalPlayer, LocalPlayer], work=196*
@@ -2276,12 +2276,12 @@ SUBROUTINE_0FBC:
      0x1EF2 [0x4A] Karababa (ID: 17039460/0x01040064) looks at LocalPlayer
      0x1EFB [0x1C] WAIT(30* ticks)
      0x1EFE [0x4A] King of Hearts (ID: 17039461/0x01040065) looks at LocalPlayer
-     0x1F07 [0x2B] Karababa (ID: 17039460/0x01040064) [7789*]:
+     0x1F07 [0x2B] Karababa (ID: 17039460/0x01040064) [7790*]:
     → "<Player>, our work here is done."
      0x1F0E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F0F [0x4A] LocalPlayer looks at Karababa (ID: 17039460/0x01040064)
      0x1F18 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gmn0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
-     0x1F27 [0x2B] Karababa (ID: 17039460/0x01040064) [7790*]:
+     0x1F27 [0x2B] Karababa (ID: 17039460/0x01040064) [7791*]:
     → "The King and I shall return to town."
      0x1F2E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F2F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gmn1" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
@@ -2290,7 +2290,7 @@ SUBROUTINE_0FBC:
      0x1F50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s198" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
      0x1F61 [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "ei00" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=[18*, 0*]
      0x1F72 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [Karababa (ID: 17039460/0x01040064), Karababa (ID: 17039460/0x01040064)], work=41*
-     0x1F81 [0x2B] Karababa (ID: 17039460/0x01040064) [7791*]:
+     0x1F81 [0x2B] Karababa (ID: 17039460/0x01040064) [7792*]:
     → "Be sure to relay your fine performance to that cat in the crown."
      0x1F88 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F89 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -2302,7 +2302,7 @@ SUBROUTINE_0FBC:
      0x1FC5 [0x73] Flit (ID: 17039462/0x01040066) casts magic 261* on Karababa (ID: 17039460/0x01040064)
      0x1FD0 [0x73] Unnamed NPC (ID: 17039468/0x0104006C) casts magic 261* on King of Hearts (ID: 17039461/0x01040065)
      0x1FDB [0x1C] WAIT(180* ticks)
-     0x1FDE [0x2B] Karababa (ID: 17039460/0x01040064) [7792*]:
+     0x1FDE [0x2B] Karababa (ID: 17039460/0x01040064) [7793*]:
     → "President Naja..."
      0x1FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FE6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "std0" with entities [Flit (ID: 17039462/0x01040066), Flit (ID: 17039462/0x01040066)], work=830*
@@ -2312,10 +2312,10 @@ SUBROUTINE_0FBC:
      0x2018 [0x1C] WAIT(240* ticks)
      0x201B [0x52] END_LOAD_SCHEDULER: End scheduler "s200" with entities [LocalPlayer, LocalPlayer], work=196*
      0x202A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s201" with entities [LocalPlayer, LocalPlayer], work=[196*, 0*]
-     0x203B [0x2B] Flit (ID: 17039462/0x01040066) [7793*]:
+     0x203B [0x2B] Flit (ID: 17039462/0x01040066) [7794*]:
     → "That mercenary..."
      0x2042 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2043 [0x2B] Flit (ID: 17039462/0x01040066) [7794*]:
+     0x2043 [0x2B] Flit (ID: 17039462/0x01040066) [7795*]:
     → "[He/She] looks mighty familiar..."
      0x204A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x204B [0x52] END_LOAD_SCHEDULER: End scheduler "s201" with entities [LocalPlayer, LocalPlayer], work=196*
@@ -2363,7 +2363,7 @@ SUBROUTINE_0FBC:
      0x21C5 [0x1C] WAIT(120* ticks)
      0x21C8 [0x46] CAMERA_CONTROL: Restore default settings
      0x21CA [0x1B] RETURN
-     0x21CB [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+     0x21CB [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x21D2 [0x25] WAIT_DIALOG_SELECT()
      0x21D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21E1

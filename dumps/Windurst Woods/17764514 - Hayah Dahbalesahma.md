@@ -26,13 +26,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0166      |         358 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F5F      |        8031 |
-|       3 | 0x1F60      |        8032 |
+|       2 | 0x1F60      |        8032 |
+|       3 | 0x1F61      |        8033 |
 
 ## String References
 
-- **8031**: Would you shut this little cub up for me? She is too pesky and noisy forrr her own good!
-- **8032**: The Sibyl Guards are not real Mithra because they werrre raised by Tarutaru! I don't carrre how strong they are. They've lost the Mithra spirrrit.
+- **8032**: Would you shut this little cub up for me? She is too pesky and noisy forrr her own good!
+- **8033**: The Sibyl Guards are not real Mithra because they werrre raised by Tarutaru! I don't carrre how strong they are. They've lost the Mithra spirrrit.
 
 ## Events
 
@@ -180,12 +180,12 @@
   1: 0x003D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hayah Dahbalesahma (ID: 17764514/0x010F10A2), tag_num=0x03)
-  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
     → "Would you shut this little cub up for me? She is too pesky and noisy forrr her own good!"
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hayah Dahbalesahma (ID: 17764514/0x010F10A2), tag_num=0x04)
   7: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hayah Dahbalesahma (ID: 17764514/0x010F10A2), tag_num=0x01)
-  8: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
+  8: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "The Sibyl Guards are not real Mithra because they werrre raised by Tarutaru! I don't carrre how strong they are. They've lost the Mithra spirrrit."
   9: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x005C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hayah Dahbalesahma (ID: 17764514/0x010F10A2), tag_num=0x02)

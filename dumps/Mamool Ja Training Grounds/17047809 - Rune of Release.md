@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C9F      |        7327 |
+|       0 | 0x1CA0      |        7328 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 
 ## String References
 
-- **7327**: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
+- **7328**: Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]
 
 ## Events
 
@@ -73,7 +73,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7327*, default_option=1*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7328*, default_option=1*, option_flags=0*)
     → "Leave [Leujaoam Sanctum/the Mamool Ja Training Grounds/Lebros Cavern/Periqia/Ilrusi Atoll]? [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019

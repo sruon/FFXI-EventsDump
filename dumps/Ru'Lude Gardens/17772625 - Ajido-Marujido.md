@@ -62,15 +62,15 @@
 |      22 | 0x000D      |          13 |
 |      23 | 0xFFFE7A18  |  4294867480 |
 |      24 | 0x17FBC     |       98236 |
-|      25 | 0x2B03      |       11011 |
-|      26 | 0x2B0E      |       11022 |
-|      27 | 0x2B0F      |       11023 |
+|      25 | 0x2B04      |       11012 |
+|      26 | 0x2B0F      |       11023 |
+|      27 | 0x2B10      |       11024 |
 
 ## String References
 
-- **11011**: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
-- **11022**: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
-- **11023**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
+- **11012**: Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!
+- **11023**: The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?
+- **11024**: What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?
 
 ## Events
 
@@ -491,7 +491,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11011*)
+  0: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11012*)
     → "Shoo! Shoo! Keep your grimy claws off of Windurst Orastery minister, Ajido-Marujido!"
   1: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FB [0x00] END_REQSTACK()
@@ -517,7 +517,7 @@
 #### Opcodes
 
 ```
-  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11022*)
+  0: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
     → "The towers are all damaged! How do you explain magic still being drained from the plains of Sarutabaruta?"
   1: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0100 [0x00] END_REQSTACK()
@@ -542,7 +542,7 @@
 #### Opcodes
 
 ```
-  0: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=11023*)
+  0: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=11024*)
     → "What about you Yagudo? What are those things that you continue digging? Those stones...maybe they are the cause of all this?"
   1: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0105 [0x00] END_REQSTACK()

@@ -21,14 +21,14 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1E9D      |        7837 |
+|       1 | 0x1E9E      |        7838 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1E9E      |        7838 |
+|       3 | 0x1E9F      |        7839 |
 
 ## String References
 
-- **7837**: Orcs have been harassing us ever since they took West Ronfaure. Confound those beastmen!
-- **7838**: But where are the knights? They should have stomped their camps flat months ago, just like in the Great War.
+- **7838**: Orcs have been harassing us ever since they took West Ronfaure. Confound those beastmen!
+- **7839**: But where are the knights? They should have stomped their camps flat months ago, just like in the Great War.
 
 ## Events
 
@@ -79,11 +79,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "Orcs have been harassing us ever since they took West Ronfaure. Confound those beastmen!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "But where are the knights? They should have stomped their camps flat months ago, just like in the Great War."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

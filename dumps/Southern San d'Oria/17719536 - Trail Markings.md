@@ -49,39 +49,39 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D15      |        7445 |
-|       1 | 0x1D16      |        7446 |
+|       0 | 0x1D16      |        7446 |
+|       1 | 0x1D17      |        7447 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1DBC      |        7612 |
-|       7 | 0x1DBD      |        7613 |
-|       8 | 0x1DBE      |        7614 |
-|       9 | 0x1DBF      |        7615 |
-|      10 | 0x1DC0      |        7616 |
-|      11 | 0x1DC1      |        7617 |
-|      12 | 0x1DC2      |        7618 |
-|      13 | 0x1DC3      |        7619 |
-|      14 | 0x1DC4      |        7620 |
+|       6 | 0x1DBD      |        7613 |
+|       7 | 0x1DBE      |        7614 |
+|       8 | 0x1DBF      |        7615 |
+|       9 | 0x1DC0      |        7616 |
+|      10 | 0x1DC1      |        7617 |
+|      11 | 0x1DC2      |        7618 |
+|      12 | 0x1DC3      |        7619 |
+|      13 | 0x1DC4      |        7620 |
+|      14 | 0x1DC5      |        7621 |
 |      15 | 0x0003      |           3 |
-|      16 | 0x1DCD      |        7629 |
-|      17 | 0x1DCE      |        7630 |
-|      18 | 0x1DCF      |        7631 |
-|      19 | 0x1DD0      |        7632 |
-|      20 | 0x1DD1      |        7633 |
-|      21 | 0x1DD3      |        7635 |
+|      16 | 0x1DCE      |        7630 |
+|      17 | 0x1DCF      |        7631 |
+|      18 | 0x1DD0      |        7632 |
+|      19 | 0x1DD1      |        7633 |
+|      20 | 0x1DD2      |        7634 |
+|      21 | 0x1DD4      |        7636 |
 |      22 | 0x0004      |           4 |
-|      23 | 0x1DDA      |        7642 |
-|      24 | 0x1DDB      |        7643 |
-|      25 | 0x1DDC      |        7644 |
-|      26 | 0x1DDD      |        7645 |
-|      27 | 0x1D17      |        7447 |
+|      23 | 0x1DDB      |        7643 |
+|      24 | 0x1DDC      |        7644 |
+|      25 | 0x1DDD      |        7645 |
+|      26 | 0x1DDE      |        7646 |
+|      27 | 0x1D18      |        7448 |
 |      28 | 0x0005      |           5 |
 |      29 | 0x0006      |           6 |
-|      30 | 0x1D1D      |        7453 |
-|      31 | 0x1D1E      |        7454 |
-|      32 | 0x1DD2      |        7634 |
+|      30 | 0x1D1E      |        7454 |
+|      31 | 0x1D1F      |        7455 |
+|      32 | 0x1DD3      |        7635 |
 |      33 | 0x0007      |           7 |
 |      34 | 0x0008      |           8 |
 |      35 | 0x0009      |           9 |
@@ -89,157 +89,157 @@
 |      37 | 0x000F      |          15 |
 |      38 | 0x0010      |          16 |
 |      39 | 0x001F      |          31 |
-|      40 | 0x1DC5      |        7621 |
-|      41 | 0x1DC6      |        7622 |
-|      42 | 0x1DC7      |        7623 |
-|      43 | 0x1DC8      |        7624 |
-|      44 | 0x1DC9      |        7625 |
-|      45 | 0x1DCA      |        7626 |
-|      46 | 0x1DCB      |        7627 |
-|      47 | 0x1DCC      |        7628 |
-|      48 | 0x1DD4      |        7636 |
-|      49 | 0x1DD5      |        7637 |
-|      50 | 0x1DD6      |        7638 |
-|      51 | 0x1DD9      |        7641 |
-|      52 | 0x1DDE      |        7646 |
-|      53 | 0x1DDF      |        7647 |
-|      54 | 0x1DE0      |        7648 |
+|      40 | 0x1DC6      |        7622 |
+|      41 | 0x1DC7      |        7623 |
+|      42 | 0x1DC8      |        7624 |
+|      43 | 0x1DC9      |        7625 |
+|      44 | 0x1DCA      |        7626 |
+|      45 | 0x1DCB      |        7627 |
+|      46 | 0x1DCC      |        7628 |
+|      47 | 0x1DCD      |        7629 |
+|      48 | 0x1DD5      |        7637 |
+|      49 | 0x1DD6      |        7638 |
+|      50 | 0x1DD7      |        7639 |
+|      51 | 0x1DDA      |        7642 |
+|      52 | 0x1DDF      |        7647 |
+|      53 | 0x1DE0      |        7648 |
+|      54 | 0x1DE1      |        7649 |
 |      55 | 0x0013      |          19 |
 |      56 | 0x00E8      |         232 |
 |      57 | 0x0027      |          39 |
 |      58 | 0x0016      |          22 |
 |      59 | 0x003C      |          60 |
-|      60 | 0x1D2F      |        7471 |
-|      61 | 0x1D30      |        7472 |
+|      60 | 0x1D30      |        7472 |
+|      61 | 0x1D31      |        7473 |
 |      62 | 0x002D      |          45 |
 |      63 | 0x108C      |        4236 |
 |      64 | 0x060E      |        1550 |
-|      65 | 0x1D31      |        7473 |
-|      66 | 0x1D32      |        7474 |
-|      67 | 0x1D33      |        7475 |
+|      65 | 0x1D32      |        7474 |
+|      66 | 0x1D33      |        7475 |
+|      67 | 0x1D34      |        7476 |
 |      68 | 0x0096      |         150 |
 |      69 | 0x001E      |          30 |
 |      70 | 0x005A      |          90 |
-|      71 | 0x1D34      |        7476 |
-|      72 | 0x1D35      |        7477 |
-|      73 | 0x1D36      |        7478 |
-|      74 | 0x1D37      |        7479 |
-|      75 | 0x1D47      |        7495 |
-|      76 | 0x1D48      |        7496 |
-|      77 | 0x1D49      |        7497 |
-|      78 | 0x1D4A      |        7498 |
-|      79 | 0x1D4F      |        7503 |
-|      80 | 0x1D38      |        7480 |
+|      71 | 0x1D35      |        7477 |
+|      72 | 0x1D36      |        7478 |
+|      73 | 0x1D37      |        7479 |
+|      74 | 0x1D38      |        7480 |
+|      75 | 0x1D48      |        7496 |
+|      76 | 0x1D49      |        7497 |
+|      77 | 0x1D4A      |        7498 |
+|      78 | 0x1D4B      |        7499 |
+|      79 | 0x1D50      |        7504 |
+|      80 | 0x1D39      |        7481 |
 |      81 | 0x0078      |         120 |
 |      82 | 0x0026      |          38 |
-|      83 | 0x1D39      |        7481 |
-|      84 | 0x1D3A      |        7482 |
+|      83 | 0x1D3A      |        7482 |
+|      84 | 0x1D3B      |        7483 |
 |      85 | 0x00B4      |         180 |
 |      86 | 0x001A      |          26 |
-|      87 | 0x1D3B      |        7483 |
-|      88 | 0x1D3C      |        7484 |
-|      89 | 0x1D3D      |        7485 |
-|      90 | 0x1D3E      |        7486 |
-|      91 | 0x1D3F      |        7487 |
-|      92 | 0x1D40      |        7488 |
+|      87 | 0x1D3C      |        7484 |
+|      88 | 0x1D3D      |        7485 |
+|      89 | 0x1D3E      |        7486 |
+|      90 | 0x1D3F      |        7487 |
+|      91 | 0x1D40      |        7488 |
+|      92 | 0x1D41      |        7489 |
 |      93 | 0x0032      |          50 |
-|      94 | 0x1D41      |        7489 |
-|      95 | 0x1D42      |        7490 |
-|      96 | 0x1D43      |        7491 |
-|      97 | 0x1D44      |        7492 |
-|      98 | 0x1D4B      |        7499 |
-|      99 | 0x1D4C      |        7500 |
-|     100 | 0x1D4D      |        7501 |
-|     101 | 0x1D4E      |        7502 |
+|      94 | 0x1D42      |        7490 |
+|      95 | 0x1D43      |        7491 |
+|      96 | 0x1D44      |        7492 |
+|      97 | 0x1D45      |        7493 |
+|      98 | 0x1D4C      |        7500 |
+|      99 | 0x1D4D      |        7501 |
+|     100 | 0x1D4E      |        7502 |
+|     101 | 0x1D4F      |        7503 |
 |     102 | 0x0064      |         100 |
 |     103 | 0x0030      |          48 |
-|     104 | 0x1D50      |        7504 |
-|     105 | 0x1D51      |        7505 |
-|     106 | 0x1D52      |        7506 |
-|     107 | 0x1D53      |        7507 |
-|     108 | 0x1D54      |        7508 |
+|     104 | 0x1D51      |        7505 |
+|     105 | 0x1D52      |        7506 |
+|     106 | 0x1D53      |        7507 |
+|     107 | 0x1D54      |        7508 |
+|     108 | 0x1D55      |        7509 |
 |     109 | 0x0048      |          72 |
 |     110 | 0x00C8      |         200 |
 |     111 | 0x00D7      |         215 |
-|     112 | 0x1D55      |        7509 |
-|     113 | 0x1D56      |        7510 |
+|     112 | 0x1D56      |        7510 |
+|     113 | 0x1D57      |        7511 |
 |     114 | 0x001D      |          29 |
-|     115 | 0x1D57      |        7511 |
-|     116 | 0x1D58      |        7512 |
-|     117 | 0x1D59      |        7513 |
-|     118 | 0x1D5A      |        7514 |
-|     119 | 0x1D5B      |        7515 |
-|     120 | 0x1D5C      |        7516 |
-|     121 | 0x1D5D      |        7517 |
-|     122 | 0x1D5E      |        7518 |
-|     123 | 0x1D5F      |        7519 |
+|     115 | 0x1D58      |        7512 |
+|     116 | 0x1D59      |        7513 |
+|     117 | 0x1D5A      |        7514 |
+|     118 | 0x1D5B      |        7515 |
+|     119 | 0x1D5C      |        7516 |
+|     120 | 0x1D5D      |        7517 |
+|     121 | 0x1D5E      |        7518 |
+|     122 | 0x1D5F      |        7519 |
+|     123 | 0x1D60      |        7520 |
 |     124 | 0x0028      |          40 |
-|     125 | 0x1D60      |        7520 |
-|     126 | 0x1D61      |        7521 |
+|     125 | 0x1D61      |        7521 |
+|     126 | 0x1D62      |        7522 |
 |     127 | 0x0029      |          41 |
-|     128 | 0x1D62      |        7522 |
-|     129 | 0x1D63      |        7523 |
-|     130 | 0x1D64      |        7524 |
-|     131 | 0x1D65      |        7525 |
-|     132 | 0x1D66      |        7526 |
-|     133 | 0x1D67      |        7527 |
+|     128 | 0x1D63      |        7523 |
+|     129 | 0x1D64      |        7524 |
+|     130 | 0x1D65      |        7525 |
+|     131 | 0x1D66      |        7526 |
+|     132 | 0x1D67      |        7527 |
+|     133 | 0x1D68      |        7528 |
 |     134 | 0x0024      |          36 |
-|     135 | 0x1D68      |        7528 |
-|     136 | 0x1D69      |        7529 |
-|     137 | 0x1D6A      |        7530 |
-|     138 | 0x1D6B      |        7531 |
-|     139 | 0x1D6C      |        7532 |
-|     140 | 0x1D6D      |        7533 |
-|     141 | 0x1D6E      |        7534 |
-|     142 | 0x1D6F      |        7535 |
-|     143 | 0x1D70      |        7536 |
+|     135 | 0x1D69      |        7529 |
+|     136 | 0x1D6A      |        7530 |
+|     137 | 0x1D6B      |        7531 |
+|     138 | 0x1D6C      |        7532 |
+|     139 | 0x1D6D      |        7533 |
+|     140 | 0x1D6E      |        7534 |
+|     141 | 0x1D6F      |        7535 |
+|     142 | 0x1D70      |        7536 |
+|     143 | 0x1D71      |        7537 |
 |     144 | 0x0087      |         135 |
 |     145 | 0x0077      |         119 |
 |     146 | 0x003F      |          63 |
-|     147 | 0x1D71      |        7537 |
-|     148 | 0x1D72      |        7538 |
-|     149 | 0x1D73      |        7539 |
-|     150 | 0x1D74      |        7540 |
+|     147 | 0x1D72      |        7538 |
+|     148 | 0x1D73      |        7539 |
+|     149 | 0x1D74      |        7540 |
+|     150 | 0x1D75      |        7541 |
 |     151 | 0x0231      |         561 |
-|     152 | 0x1D75      |        7541 |
-|     153 | 0x1D76      |        7542 |
-|     154 | 0x1D77      |        7543 |
-|     155 | 0x1D78      |        7544 |
+|     152 | 0x1D76      |        7542 |
+|     153 | 0x1D77      |        7543 |
+|     154 | 0x1D78      |        7544 |
+|     155 | 0x1D79      |        7545 |
 |     156 | 0x0017      |          23 |
-|     157 | 0x1D79      |        7545 |
-|     158 | 0x1D7A      |        7546 |
-|     159 | 0x1D7B      |        7547 |
-|     160 | 0x1D7C      |        7548 |
-|     161 | 0x1D7D      |        7549 |
-|     162 | 0x1D7E      |        7550 |
-|     163 | 0x1D7F      |        7551 |
-|     164 | 0x1D80      |        7552 |
-|     165 | 0x1D81      |        7553 |
-|     166 | 0x1D82      |        7554 |
-|     167 | 0x1D83      |        7555 |
-|     168 | 0x1D84      |        7556 |
-|     169 | 0x1D85      |        7557 |
+|     157 | 0x1D7A      |        7546 |
+|     158 | 0x1D7B      |        7547 |
+|     159 | 0x1D7C      |        7548 |
+|     160 | 0x1D7D      |        7549 |
+|     161 | 0x1D7E      |        7550 |
+|     162 | 0x1D7F      |        7551 |
+|     163 | 0x1D80      |        7552 |
+|     164 | 0x1D81      |        7553 |
+|     165 | 0x1D82      |        7554 |
+|     166 | 0x1D83      |        7555 |
+|     167 | 0x1D84      |        7556 |
+|     168 | 0x1D85      |        7557 |
+|     169 | 0x1D86      |        7558 |
 |     170 | 0x009F      |         159 |
-|     171 | 0x1D86      |        7558 |
-|     172 | 0x1D87      |        7559 |
-|     173 | 0x1D88      |        7560 |
-|     174 | 0x1D89      |        7561 |
-|     175 | 0x1D8A      |        7562 |
-|     176 | 0x1D8B      |        7563 |
-|     177 | 0x1D8C      |        7564 |
-|     178 | 0x1D8D      |        7565 |
+|     171 | 0x1D87      |        7559 |
+|     172 | 0x1D88      |        7560 |
+|     173 | 0x1D89      |        7561 |
+|     174 | 0x1D8A      |        7562 |
+|     175 | 0x1D8B      |        7563 |
+|     176 | 0x1D8C      |        7564 |
+|     177 | 0x1D8D      |        7565 |
+|     178 | 0x1D8E      |        7566 |
 |     179 | 0x0019      |          25 |
-|     180 | 0x1D8E      |        7566 |
-|     181 | 0x1D8F      |        7567 |
-|     182 | 0x1D90      |        7568 |
-|     183 | 0x1D91      |        7569 |
-|     184 | 0x1D92      |        7570 |
-|     185 | 0x1D93      |        7571 |
-|     186 | 0x1D94      |        7572 |
-|     187 | 0x1D95      |        7573 |
-|     188 | 0x1D96      |        7574 |
-|     189 | 0x1D97      |        7575 |
-|     190 | 0x1D98      |        7576 |
+|     180 | 0x1D8F      |        7567 |
+|     181 | 0x1D90      |        7568 |
+|     182 | 0x1D91      |        7569 |
+|     183 | 0x1D92      |        7570 |
+|     184 | 0x1D93      |        7571 |
+|     185 | 0x1D94      |        7572 |
+|     186 | 0x1D95      |        7573 |
+|     187 | 0x1D96      |        7574 |
+|     188 | 0x1D97      |        7575 |
+|     189 | 0x1D98      |        7576 |
+|     190 | 0x1D99      |        7577 |
 |     191 | 0x0070      |         112 |
 |     192 | 0x00A4      |         164 |
 |     193 | 0x0065      |         101 |
@@ -250,82 +250,82 @@
 |     198 | 0x01FE      |         510 |
 |     199 | 0x00DE      |         222 |
 |     200 | 0x009B      |         155 |
-|     201 | 0x1D9E      |        7582 |
-|     202 | 0x1D9F      |        7583 |
+|     201 | 0x1D9F      |        7583 |
+|     202 | 0x1DA0      |        7584 |
 |     203 | 0x01FF      |         511 |
-|     204 | 0x1DA0      |        7584 |
-|     205 | 0x1DA1      |        7585 |
-|     206 | 0x1DA2      |        7586 |
-|     207 | 0x1DA3      |        7587 |
-|     208 | 0x1DA4      |        7588 |
-|     209 | 0x1DA5      |        7589 |
+|     204 | 0x1DA1      |        7585 |
+|     205 | 0x1DA2      |        7586 |
+|     206 | 0x1DA3      |        7587 |
+|     207 | 0x1DA4      |        7588 |
+|     208 | 0x1DA5      |        7589 |
+|     209 | 0x1DA6      |        7590 |
 |     210 | 0x0076      |         118 |
 |     211 | 0x007E      |         126 |
-|     212 | 0x1DA6      |        7590 |
-|     213 | 0x1DA7      |        7591 |
-|     214 | 0x1DA8      |        7592 |
-|     215 | 0x1DA9      |        7593 |
-|     216 | 0x1DAA      |        7594 |
+|     212 | 0x1DA7      |        7591 |
+|     213 | 0x1DA8      |        7592 |
+|     214 | 0x1DA9      |        7593 |
+|     215 | 0x1DAA      |        7594 |
+|     216 | 0x1DAB      |        7595 |
 |     217 | 0x002A      |          42 |
-|     218 | 0x1DAB      |        7595 |
-|     219 | 0x1DAC      |        7596 |
+|     218 | 0x1DAC      |        7596 |
+|     219 | 0x1DAD      |        7597 |
 |     220 | 0x028A      |         650 |
-|     221 | 0x1DAD      |        7597 |
-|     222 | 0x1DAE      |        7598 |
+|     221 | 0x1DAE      |        7598 |
+|     222 | 0x1DAF      |        7599 |
 |     223 | 0x00F5      |         245 |
 |     224 | 0x0054      |          84 |
-|     225 | 0x1DB3      |        7603 |
-|     226 | 0x1DB4      |        7604 |
-|     227 | 0x1DB5      |        7605 |
-|     228 | 0x1DB6      |        7606 |
-|     229 | 0x1DB7      |        7607 |
-|     230 | 0x1DBA      |        7610 |
-|     231 | 0x1DBB      |        7611 |
-|     232 | 0x1DB8      |        7608 |
-|     233 | 0x1DB9      |        7609 |
+|     225 | 0x1DB4      |        7604 |
+|     226 | 0x1DB5      |        7605 |
+|     227 | 0x1DB6      |        7606 |
+|     228 | 0x1DB7      |        7607 |
+|     229 | 0x1DB8      |        7608 |
+|     230 | 0x1DBB      |        7611 |
+|     231 | 0x1DBC      |        7612 |
+|     232 | 0x1DB9      |        7609 |
+|     233 | 0x1DBA      |        7610 |
 
 ## String References
 
-- **7445**: The time and destination for your foray into Dynamis will be recorded on your $6. === Destination: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ===
-- **7446**: Record the time and destination? [Proceed./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]
-- **7447**: Connecting with server. Please wait.
-- **7453**: You will now be warped to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
-- **7454**: Ready to warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]? [Ready!/Ready! (Support jobs unlocked)./Ready! (Support jobs restricted)./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]
-- **7612**: "Trade" the $6 to the "Hieroglyphics" found in each area. The $6 will be transformed into $7.
-- **7613**: From that point on, one of the areas of Dynamis will be reserved by the bearer of the $7. The destination and time to be spent in Dynamis will be recorded in the help text of the $7.
-- **7614**: By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the $7's help text.
-- **7615**: Using the $7 creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
-- **7616**: The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to $4 people.
-- **7617**: The $7 can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of $7 to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
-- **7618**: To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Trade" the $7 to the "Hieroglyphics" where you originally received it.
-- **7619**: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $7.
-- **7620**: In addition, only players above level 64 can travel to the Shrouded Land.
-- **7621**: Ensuring that you have $6 in your possession, seek out the "Trail Markings" or "Hieroglyphics" found in each area.
-- **7622**: Examine them and you will be granted entrance to the corresponding Dynamis area.
-- **7623**: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
-- **7624**: Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
-- **7625**: Parties and alliances can extend their duration of stay by defeating certain enemies.
-- **7626**: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $3.
-- **7627**: Remember that only players level 65 or above can travel to the Shrouded Land.
-- **7628**: Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using $6 or $7.
-- **7629**: Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the $7.
-- **7630**: However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
-- **7631**: This weakened state will last for longer than the usual period experienced after being raised from KO status.
-- **7632**: Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different $7 for $3 [day/days] (Earth time).
-- **7633**: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
-- **7634**: Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
-- **7635**: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
-- **7636**: Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
-- **7637**: Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
-- **7638**: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
-- **7641**: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
-- **7642**: In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
-- **7643**: Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
-- **7644**: Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
-- **7645**: Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately $2 [minute/minutes] (Earth time), the time and area designation on the $7 will be canceled.
-- **7646**: When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
-- **7647**: Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
-- **7648**: Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
+- **7446**: The time and destination for your foray into Dynamis will be recorded on your $6. === Destination: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ===
+- **7447**: Record the time and destination? [Proceed./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]
+- **7448**: Connecting with server. Please wait.
+- **7454**: You will now be warped to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
+- **7455**: Ready to warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]? [Ready!/Ready! (Support jobs unlocked)./Ready! (Support jobs restricted)./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]
+- **7613**: "Trade" the $6 to the "Hieroglyphics" found in each area. The $6 will be transformed into $7.
+- **7614**: From that point on, one of the areas of Dynamis will be reserved by the bearer of the $7. The destination and time to be spent in Dynamis will be recorded in the help text of the $7.
+- **7615**: By defeating certain enemies, a group can extend the amount of time they are allowed in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]. Any time extensions will be reflected in the $7's help text.
+- **7616**: Using the $7 creates a copy. By handing these copies out to other characters, it is possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] in large groups.
+- **7617**: The number of characters that can enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] at one time is limited to $4 people.
+- **7618**: The $7 can be duplicated further by those who have received a copy, essentially allowing for an unlimited number of $7 to be made. However, the moment the maximum allowable number of players have entered Dynamis, all extra hourglasses will become void. Please take this into consideration when deciding to whom, and how many, copies are to be handed out.
+- **7619**: To warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], "Trade" the $7 to the "Hieroglyphics" where you originally received it.
+- **7620**: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $7.
+- **7621**: In addition, only players above level 64 can travel to the Shrouded Land.
+- **7622**: Ensuring that you have $6 in your possession, seek out the "Trail Markings" or "Hieroglyphics" found in each area.
+- **7623**: Examine them and you will be granted entrance to the corresponding Dynamis area.
+- **7624**: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will not be reserved to anyone. It will be accessible to any and all who meet the entry requirements.
+- **7625**: Your stay in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] will be subject to a time restriction. Parties will automatically be expelled from the area when this time elapses.
+- **7626**: Parties and alliances can extend their duration of stay by defeating certain enemies.
+- **7627**: Please note that it is not possible to enter Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] without $6, even if you trade the required $3.
+- **7628**: Remember that only players level 65 or above can travel to the Shrouded Land.
+- **7629**: Furthermore, it is not possible to reserve Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] using $6 or $7.
+- **7630**: Even if you leave Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] through magic or being KO'd, you can reenter the same area without restriction as long as it is within the designated time of the $7.
+- **7631**: However, you will be in a weakened state for some time upon returning to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].
+- **7632**: This weakened state will last for longer than the usual period experienced after being raised from KO status.
+- **7633**: Upon entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], you will be unable to reenter using a different $7 for $3 [day/days] (Earth time).
+- **7634**: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to the following Dynamis areas:
+- **7635**: Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Buburimu/Valkurm/Valkurm/Valkurm]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Qufim/Qufim/Buburimu/Buburimu]. Dynamis - [Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Dummy/Tavnazia/Tavnazia/Tavnazia/Qufim.]
+- **7636**: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+- **7637**: Travel to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] is limited to once per [day/ten minutes] (Earth time).
+- **7638**: Even if expelled from the area by magic or being KO'd, you will not be able to reenter until the waiting period has elapsed.
+- **7639**: In addition to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], this restriction will also apply to other Dynamis areas.
+- **7642**: You may confirm the remaining waiting period until reentry is permitted at any time by examining the Trail Markings or Hieroglyphics.
+- **7643**: In Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it is possible to cooperate with other characters to defeat enemies without being in the same party or alliance.
+- **7644**: Also, items dropped by enemies become available for every character in the area to cast lots on. As in normal parties, the item is gained by the character who casts the highest lot.
+- **7645**: Please be aware that items not lotted for within the restricted time may go to random characters or be lost entirely.
+- **7646**: Starting from when the first character enters, if the number of people in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] reaches and remains at zero for approximately $2 [minute/minutes] (Earth time), the time and area designation on the $7 will be canceled.
+- **7647**: When battling enemies in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia], it will only be possible to cooperate with characters in the same party or alliance.
+- **7648**: Spoils dropped by enemies will become available for every character in the party or alliance to cast lots on. The item will be awarded to the character who casts the highest lot.
+- **7649**: Please be aware that items not lotted for within the restricted time may go to a random party or alliance member, or be lost entirely.
 
 ## Events
 
@@ -387,10 +387,10 @@
 
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
-  1: 0x0006 [0x48] [System] [7445*]:
+  1: 0x0006 [0x48] [System] [7446*]:
     → "The time and destination for your foray into Dynamis will be recorded on your $6. === Destination: Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia] ==="
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x24] CREATE_DIALOG(message_id=7446*, default_option=1*, option_flags=0*)
+  3: 0x000A [0x24] CREATE_DIALOG(message_id=7447*, default_option=1*, option_flags=0*)
     → "Record the time and destination? [Proceed./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]"
   4: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0012 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0024
@@ -400,7 +400,7 @@
 
 SUBROUTINE_009A:
   9: 0x009A [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 10: 0x009B [0x48] [System] [7447*]:
+ 10: 0x009B [0x48] [System] [7448*]:
     → "Connecting with server. Please wait."
  11: 0x009E [0x06] Work_Zone[1] = 0
  12: 0x00A1 [0xA7] BATTLEFIELD_RESPONSE_WAIT: Wait for server response (Dynamis/MMM/Salvage), mode=0x00
@@ -491,10 +491,10 @@ SUBROUTINE_010B:
 
 ```
   0: 0x010D [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[3]
-  1: 0x0112 [0x48] [System] [7453*]:
+  1: 0x0112 [0x48] [System] [7454*]:
     → "You will now be warped to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]."
   2: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0116 [0x24] CREATE_DIALOG(message_id=7454*, default_option=1*, option_flags=0*)
+  3: 0x0116 [0x24] CREATE_DIALOG(message_id=7455*, default_option=1*, option_flags=0*)
     → "Ready to warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]? [Ready!/Ready! (Support jobs unlocked)./Ready! (Support jobs restricted)./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]"
   4: 0x011D [0x25] WAIT_DIALOG_SELECT()
   5: 0x011E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0130
@@ -661,12 +661,12 @@ SUBROUTINE_02ED:
 SUBROUTINE_0316:
   6: 0x0316 [0x02] IF !(ExtData[1]->WorkLocal[8] <= 0*) GOTO 0x0325
   7: 0x031E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=5*, condition_work_offset=1*)
-  8: 0x0325 [0x48] [System] [7453*]:
+  8: 0x0325 [0x48] [System] [7454*]:
     → "You will now be warped to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]."
   9: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0329:
- 10: 0x0329 [0x24] CREATE_DIALOG(message_id=7454*, default_option=3*, option_flags=ExtData[1]->WorkLocal[7])
+ 10: 0x0329 [0x24] CREATE_DIALOG(message_id=7455*, default_option=3*, option_flags=ExtData[1]->WorkLocal[7])
     → "Ready to warp to Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]? [Ready!/Ready! (Support jobs unlocked)./Ready! (Support jobs restricted)./Not yet./Entering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Reentering Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia]./Battles in Dynamis - [Dummy/San d'Oria/Bastok/Windurst/Jeuno/Beaucedine/Xarcabard/Valkurm/Buburimu/Qufim/Tavnazia].]"
  11: 0x0330 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0331 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0341
@@ -844,13 +844,13 @@ SUBROUTINE_0521:
  17: 0x0593 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
  18: 0x0599 [0x52] END_LOAD_SCHEDULER: End scheduler "sd01" with entities [LocalPlayer, LocalPlayer], work=232*
  19: 0x05A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 20: 0x05B9 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7471*]:
+ 20: 0x05B9 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
     → "I see you have met with Raogrimm. His soul is no longer confined to that incarnation of rage, the Shadow Lord, yet the fact remains that he has committed sins beyond redemption."
  21: 0x05C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x05C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  23: 0x05D0 [0x52] END_LOAD_SCHEDULER: End scheduler "sd02" with entities [LocalPlayer, LocalPlayer], work=232*
  24: 0x05DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd04" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 25: 0x05F0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
+ 25: 0x05F0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
     → "In spite of those sins, I still wish to rescue him from the darkness. I no longer have a mortal body with which to act, and so the most I can do is guide you in my stead."
  26: 0x05F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x05F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -861,11 +861,11 @@ SUBROUTINE_0521:
  32: 0x062B [0x52] END_LOAD_SCHEDULER: End scheduler "sd04" with entities [LocalPlayer, LocalPlayer], work=232*
  33: 0x063A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd05" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  34: 0x064B [0x03] Work_Zone[2] = 1550*
- 35: 0x0650 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
+ 35: 0x0650 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
     → "You will need the $3, a key that bridges the void between Vana'diel and that other world."
  36: 0x0657 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0658 [0x03] Work_Zone[2] = 1550*
- 38: 0x065D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
+ 38: 0x065D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
     → "It is said that there are items in this world that gain a soul of their own through contact with the thoughts and dreams of other living creatures. The $3 is one of those items."
  39: 0x0664 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0665 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -874,7 +874,7 @@ SUBROUTINE_0521:
  43: 0x0686 [0x52] END_LOAD_SCHEDULER: End scheduler "sd05" with entities [LocalPlayer, LocalPlayer], work=232*
  44: 0x0695 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  45: 0x06A6 [0x03] Work_Zone[2] = 1550*
- 46: 0x06AB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
+ 46: 0x06AB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
     → "You must look for the Goblin peddlers. They are certain to have knowledge of the $3. When you have it safely within your grasp, seek out the markings that we left behind..."
  47: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x06B3 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -955,13 +955,13 @@ SUBROUTINE_0521:
  17: 0x0758 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
  18: 0x075E [0x52] END_LOAD_SCHEDULER: End scheduler "bs01" with entities [LocalPlayer, LocalPlayer], work=232*
  19: 0x076D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 20: 0x077E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7471*]:
+ 20: 0x077E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
     → "I see you have met with Raogrimm. His soul is no longer confined to that incarnation of rage, the Shadow Lord, yet the fact remains that he has committed sins beyond redemption."
  21: 0x0785 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0786 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  23: 0x0795 [0x52] END_LOAD_SCHEDULER: End scheduler "bs02" with entities [LocalPlayer, LocalPlayer], work=232*
  24: 0x07A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 25: 0x07B5 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
+ 25: 0x07B5 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
     → "In spite of those sins, I still wish to rescue him from the darkness. I no longer have a mortal body with which to act, and so the most I can do is guide you in my stead."
  26: 0x07BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x07BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -972,11 +972,11 @@ SUBROUTINE_0521:
  32: 0x07F0 [0x52] END_LOAD_SCHEDULER: End scheduler "bs03" with entities [LocalPlayer, LocalPlayer], work=232*
  33: 0x07FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs04" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  34: 0x0810 [0x03] Work_Zone[2] = 1550*
- 35: 0x0815 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
+ 35: 0x0815 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
     → "You will need the $3, a key that bridges the void between Vana'diel and that other world."
  36: 0x081C [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x081D [0x03] Work_Zone[2] = 1550*
- 38: 0x0822 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
+ 38: 0x0822 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
     → "It is said that there are items in this world that gain a soul of their own through contact with the thoughts and dreams of other living creatures. The $3 is one of those items."
  39: 0x0829 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x082A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -985,7 +985,7 @@ SUBROUTINE_0521:
  43: 0x084B [0x52] END_LOAD_SCHEDULER: End scheduler "bs04" with entities [LocalPlayer, LocalPlayer], work=232*
  44: 0x085A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs05" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  45: 0x086B [0x03] Work_Zone[2] = 1550*
- 46: 0x0870 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
+ 46: 0x0870 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
     → "You must look for the Goblin peddlers. They are certain to have knowledge of the $3. When you have it safely within your grasp, seek out the markings that we left behind..."
  47: 0x0877 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0878 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1067,13 +1067,13 @@ SUBROUTINE_0521:
  17: 0x091D [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
  18: 0x0923 [0x52] END_LOAD_SCHEDULER: End scheduler "ws01" with entities [LocalPlayer, LocalPlayer], work=232*
  19: 0x0932 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 20: 0x0943 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7471*]:
+ 20: 0x0943 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
     → "I see you have met with Raogrimm. His soul is no longer confined to that incarnation of rage, the Shadow Lord, yet the fact remains that he has committed sins beyond redemption."
  21: 0x094A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x094B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  23: 0x095A [0x52] END_LOAD_SCHEDULER: End scheduler "ws02" with entities [LocalPlayer, LocalPlayer], work=232*
  24: 0x0969 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 25: 0x097A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
+ 25: 0x097A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
     → "In spite of those sins, I still wish to rescue him from the darkness. I no longer have a mortal body with which to act, and so the most I can do is guide you in my stead."
  26: 0x0981 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0982 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -1084,11 +1084,11 @@ SUBROUTINE_0521:
  32: 0x09B5 [0x52] END_LOAD_SCHEDULER: End scheduler "ws03" with entities [LocalPlayer, LocalPlayer], work=232*
  33: 0x09C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws04" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  34: 0x09D5 [0x03] Work_Zone[2] = 1550*
- 35: 0x09DA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
+ 35: 0x09DA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
     → "You will need the $3, a key that bridges the void between Vana'diel and that other world."
  36: 0x09E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x09E2 [0x03] Work_Zone[2] = 1550*
- 38: 0x09E7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
+ 38: 0x09E7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
     → "It is said that there are items in this world that gain a soul of their own through contact with the thoughts and dreams of other living creatures. The $3 is one of those items."
  39: 0x09EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x09EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -1097,7 +1097,7 @@ SUBROUTINE_0521:
  43: 0x0A10 [0x52] END_LOAD_SCHEDULER: End scheduler "ws04" with entities [LocalPlayer, LocalPlayer], work=232*
  44: 0x0A1F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws05" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  45: 0x0A30 [0x03] Work_Zone[2] = 1550*
- 46: 0x0A35 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
+ 46: 0x0A35 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
     → "You must look for the Goblin peddlers. They are certain to have knowledge of the $3. When you have it safely within your grasp, seek out the markings that we left behind..."
  47: 0x0A3C [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0A3D [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1710,13 +1710,13 @@ SUBROUTINE_0521:
  17: 0x0AE2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
  18: 0x0AE8 [0x52] END_LOAD_SCHEDULER: End scheduler "jn01" with entities [LocalPlayer, LocalPlayer], work=232*
  19: 0x0AF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 20: 0x0B08 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7471*]:
+ 20: 0x0B08 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
     → "I see you have met with Raogrimm. His soul is no longer confined to that incarnation of rage, the Shadow Lord, yet the fact remains that he has committed sins beyond redemption."
  21: 0x0B0F [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0B10 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  23: 0x0B1F [0x52] END_LOAD_SCHEDULER: End scheduler "jn02" with entities [LocalPlayer, LocalPlayer], work=232*
  24: 0x0B2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 25: 0x0B3F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7472*]:
+ 25: 0x0B3F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
     → "In spite of those sins, I still wish to rescue him from the darkness. I no longer have a mortal body with which to act, and so the most I can do is guide you in my stead."
  26: 0x0B46 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0B47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -1727,11 +1727,11 @@ SUBROUTINE_0521:
  32: 0x0B7A [0x52] END_LOAD_SCHEDULER: End scheduler "jn03" with entities [LocalPlayer, LocalPlayer], work=232*
  33: 0x0B89 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn04" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  34: 0x0B9A [0x03] Work_Zone[2] = 1550*
- 35: 0x0B9F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7473*]:
+ 35: 0x0B9F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
     → "You will need the $3, a key that bridges the void between Vana'diel and that other world."
  36: 0x0BA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0BA7 [0x03] Work_Zone[2] = 1550*
- 38: 0x0BAC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7474*]:
+ 38: 0x0BAC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
     → "It is said that there are items in this world that gain a soul of their own through contact with the thoughts and dreams of other living creatures. The $3 is one of those items."
  39: 0x0BB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0BB4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
@@ -1740,7 +1740,7 @@ SUBROUTINE_0521:
  43: 0x0BD5 [0x52] END_LOAD_SCHEDULER: End scheduler "jn04" with entities [LocalPlayer, LocalPlayer], work=232*
  44: 0x0BE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn05" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  45: 0x0BF5 [0x03] Work_Zone[2] = 1550*
- 46: 0x0BFA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7475*]:
+ 46: 0x0BFA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
     → "You must look for the Goblin peddlers. They are certain to have knowledge of the $3. When you have it safely within your grasp, seek out the markings that we left behind..."
  47: 0x0C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0C02 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1777,23 +1777,23 @@ SUBROUTINE_2D66:
      0x0C77 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x0C80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x0C91 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x0C94 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x0C94 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x0C9B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C9C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0CAB [0x52] END_LOAD_SCHEDULER: End scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0CBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0CCB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x0CCB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x0CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0CD3 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x0CD3 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x0CDA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CDB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0CEA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x0CF7 [0x52] END_LOAD_SCHEDULER: End scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0D06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0D17 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x0D17 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x0D1E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D1F [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1818,23 +1818,23 @@ SUBROUTINE_2D66:
      0x0D93 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x0D9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x0DAD [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x0DB0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x0DB0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x0DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DB8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0DC7 [0x52] END_LOAD_SCHEDULER: End scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0DD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0DE7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x0DE7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x0DEE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0DEF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x0DEF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x0DF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DF7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0E06 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x0E13 [0x52] END_LOAD_SCHEDULER: End scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0E22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0E33 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x0E33 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x0E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E3B [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1859,23 +1859,23 @@ SUBROUTINE_2D66:
      0x0EAF [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x0EB8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x0EC9 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x0ECC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x0ECC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x0ED3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ED4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0EE3 [0x52] END_LOAD_SCHEDULER: End scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0EF2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0F03 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x0F03 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x0F0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F0B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x0F0B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x0F12 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F13 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0F22 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x0F2F [0x52] END_LOAD_SCHEDULER: End scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x0F3E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x0F4F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x0F4F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x0F56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F57 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1900,23 +1900,23 @@ SUBROUTINE_2D66:
      0x0FCB [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x0FD4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x0FE5 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x0FE8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x0FE8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x0FEF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FF0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x0FFF [0x52] END_LOAD_SCHEDULER: End scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x100E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x101F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x101F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x1026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1027 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x1027 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x102E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x102F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x103E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x104B [0x52] END_LOAD_SCHEDULER: End scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x105A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x106B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x106B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x1072 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1073 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1945,20 +1945,20 @@ SUBROUTINE_2D66:
      0x110B [0x1C] WAIT(60* ticks)
      0x110E [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x1117 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
-     0x111D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7495*]:
+     0x111D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
     → "I have been waiting for you."
      0x1124 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1125 [0x52] END_LOAD_SCHEDULER: End scheduler "ga01" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1134 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1145 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
+     0x1145 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
     → "Do you remember the last words Raogrimm spoke to you? "The link will soon be severed"... Do you understand the significance of these words?"
      0x114C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x114D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
+     0x114D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
     → "When the soul that was divided is whole once again, towering rage will take on physical form... Yes, a new Shadow Lord will be born. Even I will no longer hear his voice."
      0x1154 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1155 [0x52] END_LOAD_SCHEDULER: End scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1164 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1175 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
+     0x1175 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
     → "Even now, I can barely feel the emanations of Raogrimm's faltering spirit. When those emanations fade completely, he will be..."
      0x117C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x117D [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -1982,7 +1982,7 @@ SUBROUTINE_2D66:
      0x11E2 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x11EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa01" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x11FC [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x11FF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
+     0x11FF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7504*]:
     → "Even after the blackest night, the golden sun always rises to begin a new morning. This troubled land will soon have its dawn...of that I am certain."
      0x1206 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1207 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -2008,7 +2008,7 @@ SUBROUTINE_2D66:
      0x1284 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1295 [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x1298 [0x03] Work_Zone[2] = 1550*
-     0x129D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x129D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x12A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12A5 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2027,12 +2027,12 @@ SUBROUTINE_2D66:
      0x131B [0x1C] WAIT(90* ticks)
      0x131E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x132F [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x1332 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7481*]:
+     0x1332 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
     → "I never believed that my indifference to the state of other nations would cause harm to my beloved San d'Oria..."
      0x1339 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x133A [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)]
      0x1347 [0x03] Work_Zone[2] = 1550*
-     0x134C [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
+     0x134C [0x2B] Francmage (ID: 17719538/0x010E60F2) [7483*]:
     → "As part of my penance, I will infuse the $3 with what guidance I can."
      0x1353 [0x1C] WAIT(180* ticks)
      0x1356 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
@@ -2065,7 +2065,7 @@ SUBROUTINE_2D66:
      0x1407 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1418 [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x141B [0x03] Work_Zone[2] = 1550*
-     0x1420 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x1420 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x1427 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1428 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2085,7 +2085,7 @@ SUBROUTINE_2D66:
      0x14A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x14B2 [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x14B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)], work=0*
-     0x14C4 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7483*]:
+     0x14C4 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
     → "I betrayed him... And now I am needed, the one who cut down poor Cornelia. The man cursed with the brand of traitor..."
      0x14CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14CC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
@@ -2093,13 +2093,13 @@ SUBROUTINE_2D66:
      0x14E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x14F9 [0x6E] Ulrich (ID: 17719537/0x010E60F1) uses emote 5*
      0x1500 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
-     0x1505 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
+     0x1505 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
     → "Sure, I got everything I wanted, but what was left to me in the end? For one rash action, all I gained was an empty title and irreconcilable guilt..."
      0x150C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x150D [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
      0x1512 [0x1C] WAIT(45* ticks)
      0x1515 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
-     0x1522 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
+     0x1522 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7486*]:
     → "I doubt you'll listen to the words of a traitor, but please, help free him from the bonds of his eternal night..."
      0x1529 [0x1C] WAIT(180* ticks)
      0x152C [0x52] END_LOAD_SCHEDULER: End scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2133,7 +2133,7 @@ SUBROUTINE_2D66:
      0x15EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x15FD [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x1600 [0x03] Work_Zone[2] = 1550*
-     0x1605 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x1605 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x160C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x160D [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2152,16 +2152,16 @@ SUBROUTINE_2D66:
      0x1683 [0x1C] WAIT(90* ticks)
      0x1686 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1697 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x169A [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7486*]:
+     0x169A [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
     → "Our expedition was supposed to have been an allied effortaru, but not one of us was interested in the fate of the other nations. In our hasty-waste to outdo each other, we failed to see to the heart of the mattaru."
      0x16A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16A2 [0x52] END_LOAD_SCHEDULER: End scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=232*
      0x16B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x16C2 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
+     0x16C2 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
     → "Our attitudes led to the death of two of our members, and precipitated the birth of the Shadow Lord... This sin does not belong on Raogrimm's shoulders alone. We all mustaru atone for our actions."
      0x16C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16CA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)]
-     0x16D7 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
+     0x16D7 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7489*]:
     → "Please help him. Help Raogrimm escape from his horrid-worrid darkness, forever this time."
      0x16DE [0x1C] WAIT(180* ticks)
      0x16E1 [0x52] END_LOAD_SCHEDULER: End scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2195,7 +2195,7 @@ SUBROUTINE_2D66:
      0x17A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x17B2 [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x17B5 [0x03] Work_Zone[2] = 1550*
-     0x17BA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x17BA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x17C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x17C2 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2215,7 +2215,7 @@ SUBROUTINE_2D66:
      0x183B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x184C [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x184F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
-     0x185E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7489*]:
+     0x185E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
     → "Humes and Galka have never been the best of friends. I used to think that was just the way it was, and always would be."
      0x1865 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1866 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -2225,7 +2225,7 @@ SUBROUTINE_2D66:
      0x188B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
      0x189A [0x52] END_LOAD_SCHEDULER: End scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=232*
      0x18A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x18BA [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
+     0x18BA [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
     → "I figured I'd be causing myself grrrief if I stuck my whiskers into other nations' problems. My next catnap was all that mattered to me in those days. Ignorrrance is bliss, as they say."
      0x18C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18C2 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
@@ -2233,12 +2233,12 @@ SUBROUTINE_2D66:
      0x18D7 [0x52] END_LOAD_SCHEDULER: End scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=232*
      0x18E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x18F7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
-     0x1904 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
+     0x1904 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
     → "Responsibility for Raogrimm's trrransformation lies with all of us who traveled with him on that expedition. By sharing the blame for the crimes he committed as the Shadow Lord, we can finally call ourselves his trrrue companions."
      0x190B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x190C [0x03] Work_Zone[2] = 1550*
      0x1911 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
-     0x191E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
+     0x191E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7493*]:
     → "Let me help you on your path. May guiding light fill this $3! Raogrimm's fate is in your hands."
      0x1925 [0x1C] WAIT(180* ticks)
      0x1928 [0x52] END_LOAD_SCHEDULER: End scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2271,21 +2271,21 @@ SUBROUTINE_2D66:
      0x19DF [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x19E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x19F9 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x19FC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
+     0x19FC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
     → "The Xarcabard of that other realm is shrouded in a vast darkness, preventing contact from the outside. Even those of us without material bodies are unable to penetrate that mist of eternal night."
      0x1A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A04 [0x52] END_LOAD_SCHEDULER: End scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1A13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1A24 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
+     0x1A24 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
     → "Until that mist clears, I cannot guide you to Xarcabard. The next place you must venture is the twin of Vana'diel's Beaucedine. There you will find the last trophy to complete the set of keys we need."
      0x1A2B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1A2C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
+     0x1A2C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
     → "You must obtain the last trophy. All five trophies combined with our power will create a synergistic force, allowing us to part the shroud for a few precious moments. It will open a path between worlds."
      0x1A33 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A34 [0x52] END_LOAD_SCHEDULER: End scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1A43 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x1A50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1A61 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
+     0x1A61 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
     → "Take care, my brave adventurer. May the blessings of Altana guide and protect you..."
      0x1A68 [0x1C] WAIT(180* ticks)
      0x1A6B [0x52] END_LOAD_SCHEDULER: End scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2338,22 +2338,22 @@ SUBROUTINE_2D66:
      0x1BD2 [0x1C] WAIT(15* ticks)
      0x1BD5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1BE6 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x1BE9 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7504*]:
+     0x1BE9 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7505*]:
     → "I never thought to walk this land again, not even in death. Is this what they call karma...?"
      0x1BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1BF1 [0x52] END_LOAD_SCHEDULER: End scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1C00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1C11 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7505*]:
+     0x1C11 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7506*]:
     → "This land has borne the weight of my sins. I will not beg for forgiveness, but accept my responsibility..."
      0x1C18 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C19 [0x52] END_LOAD_SCHEDULER: End scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1C28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1C39 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7506*]:
+     0x1C39 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7507*]:
     → "So this is the reason for that unspeakable terror I feltaru here when I was still alive. It's possible that the other realm has existed for much longer than anyone ever dreamed... Keep your wits aboutaru you, <Player>."
      0x1C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C41 [0x52] END_LOAD_SCHEDULER: End scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1C50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1C61 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7507*]:
+     0x1C61 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7508*]:
     → "I'm not rrreally fond of touching platitudes. Snap Raogrimm to his senses with a big ol' smack to the head for me."
      0x1C68 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C69 [0x52] END_LOAD_SCHEDULER: End scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2368,7 +2368,7 @@ SUBROUTINE_2D66:
      0x1CC6 [0x1C] WAIT(1* ticks)
      0x1CC9 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cabk" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x1CD6 [0x03] Work_Zone[2] = 1550*
-     0x1CDB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7508*]:
+     0x1CDB [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7509*]:
     → "It is time! Put an end to this thirty-year nightmare, <Player>. 3! Show us the path to Xarcabard!"
      0x1CE2 [0x1C] WAIT(150* ticks)
      0x1CE5 [0x52] END_LOAD_SCHEDULER: End scheduler "xa16" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2414,27 +2414,27 @@ SUBROUTINE_2D66:
      0x1E31 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x1E3A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1E4B [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x1E4E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x1E4E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x1E55 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E56 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x1E65 [0x52] END_LOAD_SCHEDULER: End scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1E74 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1E85 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x1E85 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x1E8C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1E8D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x1E8D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x1E94 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E95 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x1EA4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x1EB1 [0x52] END_LOAD_SCHEDULER: End scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x1EC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x1ED1 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x1ED1 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x1ED8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1ED9 [0x03] Work_Zone[2] = 1550*
-     0x1EDE [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x1EDE [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x1EE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EE6 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2453,12 +2453,12 @@ SUBROUTINE_2D66:
      0x1F5C [0x1C] WAIT(90* ticks)
      0x1F5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x1F70 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x1F73 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7481*]:
+     0x1F73 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
     → "I never believed that my indifference to the state of other nations would cause harm to my beloved San d'Oria..."
      0x1F7A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1F7B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)]
      0x1F88 [0x03] Work_Zone[2] = 1550*
-     0x1F8D [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
+     0x1F8D [0x2B] Francmage (ID: 17719538/0x010E60F2) [7483*]:
     → "As part of my penance, I will infuse the $3 with what guidance I can."
      0x1F94 [0x1C] WAIT(180* ticks)
      0x1F97 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
@@ -2490,27 +2490,27 @@ SUBROUTINE_2D66:
      0x203F [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x2048 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x2059 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x205C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x205C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x2063 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2064 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x2073 [0x52] END_LOAD_SCHEDULER: End scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2082 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2093 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x2093 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x209A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x209B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x209B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x20A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x20B2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x20BF [0x52] END_LOAD_SCHEDULER: End scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x20CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x20DF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x20DF [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x20E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20E7 [0x03] Work_Zone[2] = 1550*
-     0x20EC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x20EC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x20F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x20F4 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2530,7 +2530,7 @@ SUBROUTINE_2D66:
      0x216D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x217E [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x2181 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)], work=0*
-     0x2190 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7483*]:
+     0x2190 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
     → "I betrayed him... And now I am needed, the one who cut down poor Cornelia. The man cursed with the brand of traitor..."
      0x2197 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2198 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
@@ -2538,13 +2538,13 @@ SUBROUTINE_2D66:
      0x21B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x21C5 [0x6E] Ulrich (ID: 17719537/0x010E60F1) uses emote 5*
      0x21CC [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
-     0x21D1 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
+     0x21D1 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
     → "Sure, I got everything I wanted, but what was left to me in the end? For one rash action, all I gained was an empty title and irreconcilable guilt..."
      0x21D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21D9 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
      0x21DE [0x1C] WAIT(45* ticks)
      0x21E1 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
-     0x21EE [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
+     0x21EE [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7486*]:
     → "I doubt you'll listen to the words of a traitor, but please, help free him from the bonds of his eternal night..."
      0x21F5 [0x1C] WAIT(180* ticks)
      0x21F8 [0x52] END_LOAD_SCHEDULER: End scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2577,27 +2577,27 @@ SUBROUTINE_2D66:
      0x22AF [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x22B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x22C9 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x22CC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x22CC [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x22D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x22E3 [0x52] END_LOAD_SCHEDULER: End scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x22F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2303 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x2303 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x230A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x230B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x230B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x2312 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2313 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x2322 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x232F [0x52] END_LOAD_SCHEDULER: End scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x233E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x234F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x234F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x2356 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2357 [0x03] Work_Zone[2] = 1550*
-     0x235C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x235C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x2363 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2364 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2616,16 +2616,16 @@ SUBROUTINE_2D66:
      0x23DA [0x1C] WAIT(90* ticks)
      0x23DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x23EE [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x23F1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7486*]:
+     0x23F1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
     → "Our expedition was supposed to have been an allied effortaru, but not one of us was interested in the fate of the other nations. In our hasty-waste to outdo each other, we failed to see to the heart of the mattaru."
      0x23F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23F9 [0x52] END_LOAD_SCHEDULER: End scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2408 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2419 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
+     0x2419 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
     → "Our attitudes led to the death of two of our members, and precipitated the birth of the Shadow Lord... This sin does not belong on Raogrimm's shoulders alone. We all mustaru atone for our actions."
      0x2420 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2421 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)]
-     0x242E [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
+     0x242E [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7489*]:
     → "Please help him. Help Raogrimm escape from his horrid-worrid darkness, forever this time."
      0x2435 [0x1C] WAIT(180* ticks)
      0x2438 [0x52] END_LOAD_SCHEDULER: End scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2658,27 +2658,27 @@ SUBROUTINE_2D66:
      0x24EF [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x24F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x2509 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x250C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+     0x250C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
      0x2513 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2514 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x2523 [0x52] END_LOAD_SCHEDULER: End scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2532 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2543 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+     0x2543 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
      0x254A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x254B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+     0x254B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
      0x2552 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2553 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
      0x2562 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x256F [0x52] END_LOAD_SCHEDULER: End scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x257E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x258F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+     0x258F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
      0x2596 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2597 [0x03] Work_Zone[2] = 1550*
-     0x259C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+     0x259C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
      0x25A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x25A4 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2698,7 +2698,7 @@ SUBROUTINE_2D66:
      0x261D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x262E [0x1A] CALL_SUBROUTINE(address=0x4F14)
      0x2631 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
-     0x2640 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7489*]:
+     0x2640 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
     → "Humes and Galka have never been the best of friends. I used to think that was just the way it was, and always would be."
      0x2647 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2648 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -2708,7 +2708,7 @@ SUBROUTINE_2D66:
      0x266D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
      0x267C [0x52] END_LOAD_SCHEDULER: End scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=232*
      0x268B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x269C [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
+     0x269C [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
     → "I figured I'd be causing myself grrrief if I stuck my whiskers into other nations' problems. My next catnap was all that mattered to me in those days. Ignorrrance is bliss, as they say."
      0x26A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x26A4 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
@@ -2716,12 +2716,12 @@ SUBROUTINE_2D66:
      0x26B9 [0x52] END_LOAD_SCHEDULER: End scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=232*
      0x26C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x26D9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
-     0x26E6 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
+     0x26E6 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
     → "Responsibility for Raogrimm's trrransformation lies with all of us who traveled with him on that expedition. By sharing the blame for the crimes he committed as the Shadow Lord, we can finally call ourselves his trrrue companions."
      0x26ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x26EE [0x03] Work_Zone[2] = 1550*
      0x26F3 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
-     0x2700 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
+     0x2700 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7493*]:
     → "Let me help you on your path. May guiding light fill this $3! Raogrimm's fate is in your hands."
      0x2707 [0x1C] WAIT(180* ticks)
      0x270A [0x52] END_LOAD_SCHEDULER: End scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2758,20 +2758,20 @@ SUBROUTINE_2D66:
      0x27E5 [0x1C] WAIT(60* ticks)
      0x27E8 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x27F1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
-     0x27F7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7495*]:
+     0x27F7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
     → "I have been waiting for you."
      0x27FE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x27FF [0x52] END_LOAD_SCHEDULER: End scheduler "ga01" with entities [LocalPlayer, LocalPlayer], work=232*
      0x280E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x281F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
+     0x281F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
     → "Do you remember the last words Raogrimm spoke to you? "The link will soon be severed"... Do you understand the significance of these words?"
      0x2826 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2827 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
+     0x2827 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
     → "When the soul that was divided is whole once again, towering rage will take on physical form... Yes, a new Shadow Lord will be born. Even I will no longer hear his voice."
      0x282E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x282F [0x52] END_LOAD_SCHEDULER: End scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=232*
      0x283E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x284F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
+     0x284F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
     → "Even now, I can barely feel the emanations of Raogrimm's faltering spirit. When those emanations fade completely, he will be..."
      0x2856 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2857 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -2788,21 +2788,21 @@ SUBROUTINE_2D66:
      0x28B5 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x28BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x28CF [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x28D2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
+     0x28D2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
     → "The Xarcabard of that other realm is shrouded in a vast darkness, preventing contact from the outside. Even those of us without material bodies are unable to penetrate that mist of eternal night."
      0x28D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x28DA [0x52] END_LOAD_SCHEDULER: End scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=232*
      0x28E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x28FA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
+     0x28FA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
     → "Until that mist clears, I cannot guide you to Xarcabard. The next place you must venture is the twin of Vana'diel's Beaucedine. There you will find the last trophy to complete the set of keys we need."
      0x2901 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x2902 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
+     0x2902 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
     → "You must obtain the last trophy. All five trophies combined with our power will create a synergistic force, allowing us to part the shroud for a few precious moments. It will open a path between worlds."
      0x2909 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x290A [0x52] END_LOAD_SCHEDULER: End scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2919 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x2926 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2937 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
+     0x2937 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
     → "Take care, my brave adventurer. May the blessings of Altana guide and protect you..."
      0x293E [0x1C] WAIT(180* ticks)
      0x2941 [0x52] END_LOAD_SCHEDULER: End scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2835,7 +2835,7 @@ SUBROUTINE_2D66:
      0x29F8 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
      0x2A01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa01" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x2A12 [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x2A15 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
+     0x2A15 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7504*]:
     → "Even after the blackest night, the golden sun always rises to begin a new morning. This troubled land will soon have its dawn...of that I am certain."
      0x2A1C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2A1D [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -2875,22 +2875,22 @@ SUBROUTINE_2D66:
      0x2B47 [0x1C] WAIT(15* ticks)
      0x2B4A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
      0x2B5B [0x1A] CALL_SUBROUTINE(address=0x4F14)
-     0x2B5E [0x2B] Francmage (ID: 17719538/0x010E60F2) [7504*]:
+     0x2B5E [0x2B] Francmage (ID: 17719538/0x010E60F2) [7505*]:
     → "I never thought to walk this land again, not even in death. Is this what they call karma...?"
      0x2B65 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B66 [0x52] END_LOAD_SCHEDULER: End scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2B75 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2B86 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7505*]:
+     0x2B86 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7506*]:
     → "This land has borne the weight of my sins. I will not beg for forgiveness, but accept my responsibility..."
      0x2B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2B8E [0x52] END_LOAD_SCHEDULER: End scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2B9D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2BAE [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7506*]:
+     0x2BAE [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7507*]:
     → "So this is the reason for that unspeakable terror I feltaru here when I was still alive. It's possible that the other realm has existed for much longer than anyone ever dreamed... Keep your wits aboutaru you, <Player>."
      0x2BB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2BB6 [0x52] END_LOAD_SCHEDULER: End scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=232*
      0x2BC5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-     0x2BD6 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7507*]:
+     0x2BD6 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7508*]:
     → "I'm not rrreally fond of touching platitudes. Snap Raogrimm to his senses with a big ol' smack to the head for me."
      0x2BDD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2BDE [0x52] END_LOAD_SCHEDULER: End scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -2905,7 +2905,7 @@ SUBROUTINE_2D66:
      0x2C3B [0x1C] WAIT(1* ticks)
      0x2C3E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cabk" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
      0x2C4B [0x03] Work_Zone[2] = 1550*
-     0x2C50 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7508*]:
+     0x2C50 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7509*]:
     → "It is time! Put an end to this thirty-year nightmare, <Player>. 3! Show us the path to Xarcabard!"
      0x2C57 [0x1C] WAIT(180* ticks)
      0x2C5A [0x52] END_LOAD_SCHEDULER: End scheduler "xa16" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3007,27 +3007,27 @@ SUBROUTINE_2D66:
  11: 0x2DBA [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  12: 0x2DC3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  13: 0x2DD4 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 14: 0x2DD7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+ 14: 0x2DD7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
  15: 0x2DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x2DDF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  17: 0x2DEE [0x52] END_LOAD_SCHEDULER: End scheduler "sd11" with entities [LocalPlayer, LocalPlayer], work=232*
  18: 0x2DFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 19: 0x2E0E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+ 19: 0x2E0E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
  20: 0x2E15 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x2E16 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+ 21: 0x2E16 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
  22: 0x2E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x2E1E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  24: 0x2E2D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  25: 0x2E3A [0x52] END_LOAD_SCHEDULER: End scheduler "sd12" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x2E49 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 27: 0x2E5A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+ 27: 0x2E5A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
  28: 0x2E61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x2E62 [0x03] Work_Zone[2] = 1550*
- 30: 0x2E67 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+ 30: 0x2E67 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
  31: 0x2E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x2E6F [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -3046,12 +3046,12 @@ SUBROUTINE_2D66:
  45: 0x2EE5 [0x1C] WAIT(90* ticks)
  46: 0x2EE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  47: 0x2EF9 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 48: 0x2EFC [0x2B] Francmage (ID: 17719538/0x010E60F2) [7481*]:
+ 48: 0x2EFC [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
     → "I never believed that my indifference to the state of other nations would cause harm to my beloved San d'Oria..."
  49: 0x2F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x2F04 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)]
  51: 0x2F11 [0x03] Work_Zone[2] = 1550*
- 52: 0x2F16 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7482*]:
+ 52: 0x2F16 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7483*]:
     → "As part of my penance, I will infuse the $3 with what guidance I can."
  53: 0x2F1D [0x1C] WAIT(180* ticks)
  54: 0x2F20 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
@@ -3147,27 +3147,27 @@ SUBROUTINE_2D66:
  11: 0x2FEB [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  12: 0x2FF4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  13: 0x3005 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 14: 0x3008 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+ 14: 0x3008 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
  15: 0x300F [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x3010 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  17: 0x301F [0x52] END_LOAD_SCHEDULER: End scheduler "bs11" with entities [LocalPlayer, LocalPlayer], work=232*
  18: 0x302E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 19: 0x303F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+ 19: 0x303F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
  20: 0x3046 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x3047 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+ 21: 0x3047 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
  22: 0x304E [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x304F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  24: 0x305E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  25: 0x306B [0x52] END_LOAD_SCHEDULER: End scheduler "bs12" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x307A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 27: 0x308B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+ 27: 0x308B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
  28: 0x3092 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x3093 [0x03] Work_Zone[2] = 1550*
- 30: 0x3098 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+ 30: 0x3098 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
  31: 0x309F [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x30A0 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -3187,7 +3187,7 @@ SUBROUTINE_2D66:
  46: 0x3119 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  47: 0x312A [0x1A] CALL_SUBROUTINE(address=0x4F14)
  48: 0x312D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)], work=0*
- 49: 0x313C [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7483*]:
+ 49: 0x313C [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
     → "I betrayed him... And now I am needed, the one who cut down poor Cornelia. The man cursed with the brand of traitor..."
  50: 0x3143 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x3144 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
@@ -3195,13 +3195,13 @@ SUBROUTINE_2D66:
  53: 0x3160 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  54: 0x3171 [0x6E] Ulrich (ID: 17719537/0x010E60F1) uses emote 5*
  55: 0x3178 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
- 56: 0x317D [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7484*]:
+ 56: 0x317D [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
     → "Sure, I got everything I wanted, but what was left to me in the end? For one rash action, all I gained was an empty title and irreconcilable guilt..."
  57: 0x3184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x3185 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
  59: 0x318A [0x1C] WAIT(45* ticks)
  60: 0x318D [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)]
- 61: 0x319A [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7485*]:
+ 61: 0x319A [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7486*]:
     → "I doubt you'll listen to the words of a traitor, but please, help free him from the bonds of his eternal night..."
  62: 0x31A1 [0x1C] WAIT(180* ticks)
  63: 0x31A4 [0x52] END_LOAD_SCHEDULER: End scheduler "bs21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3296,27 +3296,27 @@ SUBROUTINE_2D66:
  11: 0x327E [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  12: 0x3287 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  13: 0x3298 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 14: 0x329B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+ 14: 0x329B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
  15: 0x32A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x32A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  17: 0x32B2 [0x52] END_LOAD_SCHEDULER: End scheduler "ws11" with entities [LocalPlayer, LocalPlayer], work=232*
  18: 0x32C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 19: 0x32D2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+ 19: 0x32D2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
  20: 0x32D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x32DA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+ 21: 0x32DA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
  22: 0x32E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x32E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  24: 0x32F1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  25: 0x32FE [0x52] END_LOAD_SCHEDULER: End scheduler "ws12" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x330D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 27: 0x331E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+ 27: 0x331E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
  28: 0x3325 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x3326 [0x03] Work_Zone[2] = 1550*
- 30: 0x332B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+ 30: 0x332B [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
  31: 0x3332 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x3333 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -3335,16 +3335,16 @@ SUBROUTINE_2D66:
  45: 0x33A9 [0x1C] WAIT(90* ticks)
  46: 0x33AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  47: 0x33BD [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 48: 0x33C0 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7486*]:
+ 48: 0x33C0 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
     → "Our expedition was supposed to have been an allied effortaru, but not one of us was interested in the fate of the other nations. In our hasty-waste to outdo each other, we failed to see to the heart of the mattaru."
  49: 0x33C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x33C8 [0x52] END_LOAD_SCHEDULER: End scheduler "ws20" with entities [LocalPlayer, LocalPlayer], work=232*
  51: 0x33D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 52: 0x33E8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7487*]:
+ 52: 0x33E8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
     → "Our attitudes led to the death of two of our members, and precipitated the birth of the Shadow Lord... This sin does not belong on Raogrimm's shoulders alone. We all mustaru atone for our actions."
  53: 0x33EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x33F0 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)]
- 55: 0x33FD [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7488*]:
+ 55: 0x33FD [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7489*]:
     → "Please help him. Help Raogrimm escape from his horrid-worrid darkness, forever this time."
  56: 0x3404 [0x1C] WAIT(180* ticks)
  57: 0x3407 [0x52] END_LOAD_SCHEDULER: End scheduler "ws21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3447,27 +3447,27 @@ SUBROUTINE_2D66:
  11: 0x34E1 [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  12: 0x34EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  13: 0x34FB [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 14: 0x34FE [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7476*]:
+ 14: 0x34FE [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
     → "That world is a land now draped in the blackest night. We can pass from one world to the other, but without the physical forms lost to us thirty years ago, there is little we can do to intervene."
  15: 0x3505 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x3506 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  17: 0x3515 [0x52] END_LOAD_SCHEDULER: End scheduler "jn11" with entities [LocalPlayer, LocalPlayer], work=232*
  18: 0x3524 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 19: 0x3535 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7477*]:
+ 19: 0x3535 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
     → "Raogrimm is the one who... No, the world has been divided into separate realms through the machinations of the new Shadow Lord."
  20: 0x353C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x353D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7478*]:
+ 21: 0x353D [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
     → "The Shadow Lord resides in the Xarcabard of the other reality. However, I fear you would be marching to your death should you go to confront him... I ask you to first obtain trophies from four of the alternate realms."
  22: 0x3544 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x3545 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  24: 0x3554 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  25: 0x3561 [0x52] END_LOAD_SCHEDULER: End scheduler "jn12" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x3570 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 27: 0x3581 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7479*]:
+ 27: 0x3581 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
     → "We understand that there is little time to spare. But without a certain degree of power, it will be impossible to traverse the land the Shadow Lord holds in thrall. Show me your strength with the four trophies you bring back."
  28: 0x3588 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x3589 [0x03] Work_Zone[2] = 1550*
- 30: 0x358E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7480*]:
+ 30: 0x358E [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7481*]:
     → "Those whose fate is linked to his world will empower the $3 to guide you..."
  31: 0x3595 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x3596 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -3487,7 +3487,7 @@ SUBROUTINE_2D66:
  46: 0x360F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  47: 0x3620 [0x1A] CALL_SUBROUTINE(address=0x4F14)
  48: 0x3623 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
- 49: 0x3632 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7489*]:
+ 49: 0x3632 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
     → "Humes and Galka have never been the best of friends. I used to think that was just the way it was, and always would be."
  50: 0x3639 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x363A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -3497,7 +3497,7 @@ SUBROUTINE_2D66:
  55: 0x365F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
  56: 0x366E [0x52] END_LOAD_SCHEDULER: End scheduler "jn20" with entities [LocalPlayer, LocalPlayer], work=232*
  57: 0x367D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 58: 0x368E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7490*]:
+ 58: 0x368E [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
     → "I figured I'd be causing myself grrrief if I stuck my whiskers into other nations' problems. My next catnap was all that mattered to me in those days. Ignorrrance is bliss, as they say."
  59: 0x3695 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x3696 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
@@ -3505,12 +3505,12 @@ SUBROUTINE_2D66:
  62: 0x36AB [0x52] END_LOAD_SCHEDULER: End scheduler "jn22" with entities [LocalPlayer, LocalPlayer], work=232*
  63: 0x36BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  64: 0x36CB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
- 65: 0x36D8 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7491*]:
+ 65: 0x36D8 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
     → "Responsibility for Raogrimm's trrransformation lies with all of us who traveled with him on that expedition. By sharing the blame for the crimes he committed as the Shadow Lord, we can finally call ourselves his trrrue companions."
  66: 0x36DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x36E0 [0x03] Work_Zone[2] = 1550*
  68: 0x36E5 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
- 69: 0x36F2 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7492*]:
+ 69: 0x36F2 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7493*]:
     → "Let me help you on your path. May guiding light fill this $3! Raogrimm's fate is in your hands."
  70: 0x36F9 [0x1C] WAIT(180* ticks)
  71: 0x36FC [0x52] END_LOAD_SCHEDULER: End scheduler "jn21" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3606,20 +3606,20 @@ SUBROUTINE_2D66:
  15: 0x37FA [0x1C] WAIT(60* ticks)
  16: 0x37FD [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  17: 0x3806 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6))
- 18: 0x380C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7495*]:
+ 18: 0x380C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
     → "I have been waiting for you."
  19: 0x3813 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x3814 [0x52] END_LOAD_SCHEDULER: End scheduler "ga01" with entities [LocalPlayer, LocalPlayer], work=232*
  21: 0x3823 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 22: 0x3834 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7496*]:
+ 22: 0x3834 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
     → "Do you remember the last words Raogrimm spoke to you? "The link will soon be severed"... Do you understand the significance of these words?"
  23: 0x383B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x383C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7497*]:
+ 24: 0x383C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
     → "When the soul that was divided is whole once again, towering rage will take on physical form... Yes, a new Shadow Lord will be born. Even I will no longer hear his voice."
  25: 0x3843 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x3844 [0x52] END_LOAD_SCHEDULER: End scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=232*
  27: 0x3853 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga03" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 28: 0x3864 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7498*]:
+ 28: 0x3864 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
     → "Even now, I can barely feel the emanations of Raogrimm's faltering spirit. When those emanations fade completely, he will be..."
  29: 0x386B [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x386C [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -3636,21 +3636,21 @@ SUBROUTINE_2D66:
  41: 0x38CA [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  42: 0x38D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  43: 0x38E4 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 44: 0x38E7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7499*]:
+ 44: 0x38E7 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
     → "The Xarcabard of that other realm is shrouded in a vast darkness, preventing contact from the outside. Even those of us without material bodies are unable to penetrate that mist of eternal night."
  45: 0x38EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x38EF [0x52] END_LOAD_SCHEDULER: End scheduler "ga11" with entities [LocalPlayer, LocalPlayer], work=232*
  47: 0x38FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 48: 0x390F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7500*]:
+ 48: 0x390F [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
     → "Until that mist clears, I cannot guide you to Xarcabard. The next place you must venture is the twin of Vana'diel's Beaucedine. There you will find the last trophy to complete the set of keys we need."
  49: 0x3916 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x3917 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7501*]:
+ 50: 0x3917 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
     → "You must obtain the last trophy. All five trophies combined with our power will create a synergistic force, allowing us to part the shroud for a few precious moments. It will open a path between worlds."
  51: 0x391E [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x391F [0x52] END_LOAD_SCHEDULER: End scheduler "ga12" with entities [LocalPlayer, LocalPlayer], work=232*
  53: 0x392E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cawh" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  54: 0x393B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 55: 0x394C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7502*]:
+ 55: 0x394C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
     → "Take care, my brave adventurer. May the blessings of Altana guide and protect you..."
  56: 0x3953 [0x1C] WAIT(180* ticks)
  57: 0x3956 [0x52] END_LOAD_SCHEDULER: End scheduler "ga13" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3770,7 +3770,7 @@ SUBROUTINE_2D66:
  11: 0x3A1F [0x4A] LocalPlayer looks at Cornelia (ID: 17719541/0x010E60F5)
  12: 0x3A28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa01" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  13: 0x3A39 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 14: 0x3A3C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7503*]:
+ 14: 0x3A3C [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7504*]:
     → "Even after the blackest night, the golden sun always rises to begin a new morning. This troubled land will soon have its dawn...of that I am certain."
  15: 0x3A43 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x3A44 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -3810,22 +3810,22 @@ SUBROUTINE_2D66:
  50: 0x3B6E [0x1C] WAIT(15* ticks)
  51: 0x3B71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  52: 0x3B82 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 53: 0x3B85 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7504*]:
+ 53: 0x3B85 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7505*]:
     → "I never thought to walk this land again, not even in death. Is this what they call karma...?"
  54: 0x3B8C [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x3B8D [0x52] END_LOAD_SCHEDULER: End scheduler "xa12" with entities [LocalPlayer, LocalPlayer], work=232*
  56: 0x3B9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 57: 0x3BAD [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7505*]:
+ 57: 0x3BAD [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7506*]:
     → "This land has borne the weight of my sins. I will not beg for forgiveness, but accept my responsibility..."
  58: 0x3BB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x3BB5 [0x52] END_LOAD_SCHEDULER: End scheduler "xa13" with entities [LocalPlayer, LocalPlayer], work=232*
  60: 0x3BC4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 61: 0x3BD5 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7506*]:
+ 61: 0x3BD5 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7507*]:
     → "So this is the reason for that unspeakable terror I feltaru here when I was still alive. It's possible that the other realm has existed for much longer than anyone ever dreamed... Keep your wits aboutaru you, <Player>."
  62: 0x3BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x3BDD [0x52] END_LOAD_SCHEDULER: End scheduler "xa14" with entities [LocalPlayer, LocalPlayer], work=232*
  64: 0x3BEC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 65: 0x3BFD [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7507*]:
+ 65: 0x3BFD [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7508*]:
     → "I'm not rrreally fond of touching platitudes. Snap Raogrimm to his senses with a big ol' smack to the head for me."
  66: 0x3C04 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x3C05 [0x52] END_LOAD_SCHEDULER: End scheduler "xa15" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3840,7 +3840,7 @@ SUBROUTINE_2D66:
  76: 0x3C62 [0x1C] WAIT(1* ticks)
  77: 0x3C65 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cabk" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)]
  78: 0x3C72 [0x03] Work_Zone[2] = 1550*
- 79: 0x3C77 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7508*]:
+ 79: 0x3C77 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7509*]:
     → "It is time! Put an end to this thirty-year nightmare, <Player>. 3! Show us the path to Xarcabard!"
  80: 0x3C7E [0x1C] WAIT(180* ticks)
  81: 0x3C81 [0x52] END_LOAD_SCHEDULER: End scheduler "xa16" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -3943,19 +3943,19 @@ SUBROUTINE_2D66:
  17: 0x3E5A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
 
 SUBROUTINE_3E6B:
- 18: 0x3E6B [0x2B] Francmage (ID: 17719538/0x010E60F2) [7509*]:
+ 18: 0x3E6B [0x2B] Francmage (ID: 17719538/0x010E60F2) [7510*]:
     → "Death does not exist in that realm. You might call it a "prison of souls.""
  19: 0x3E72 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x3E73 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7510*]:
+ 20: 0x3E73 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7511*]:
     → "Even those who fall in battle will rise again after a time as if nothing had happened. Like a flame returning to a candle whose light has been extinguished..."
  21: 0x3E7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x3E7B [0x52] END_LOAD_SCHEDULER: End scheduler "sd31" with entities [LocalPlayer, LocalPlayer], work=232*
  23: 0x3E8A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)], work=29*
  24: 0x3E99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd32" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 25: 0x3EAA [0x2B] Francmage (ID: 17719538/0x010E60F2) [7511*]:
+ 25: 0x3EAA [0x2B] Francmage (ID: 17719538/0x010E60F2) [7512*]:
     → "It is an endless succession of life and death. How many times has that cycle repeated itself in that damned abode?"
  26: 0x3EB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x3EB2 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7512*]:
+ 27: 0x3EB2 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7513*]:
     → "There is one thing that bothers me. Whatever happened to the original wielders of the weapons and armor that the beastmen there now possess? If the statues in the shape of Orcs and such were once actual beastmen, then...? But I get carried away with my musings."
  28: 0x3EB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x3EBA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)], work=29*
@@ -3966,11 +3966,11 @@ SUBROUTINE_3E6B:
  34: 0x3EF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sd33" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  35: 0x3F02 [0x99] Wait for Francmage (ID: 17719538/0x010E60F2) animation to complete
  36: 0x3F07 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 37: 0x3F0C [0x2B] Francmage (ID: 17719538/0x010E60F2) [7513*]:
+ 37: 0x3F0C [0x2B] Francmage (ID: 17719538/0x010E60F2) [7514*]:
     → "Please pay no mind to my ramblings. You have secured the $3. An incredible feat. It proves the strength of your conviction, and is one of the keys you will need to enter Xarcabard."
  38: 0x3F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x3F14 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)], work=29*
- 40: 0x3F23 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7514*]:
+ 40: 0x3F23 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7515*]:
     → "You will need four such trophies. Once you have them within your grasp, make your way to Beaucedine Glacier in the Northlands. Cornelia awaits you there."
  41: 0x3F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x3F2B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Francmage (ID: 17719538/0x010E60F2), Francmage (ID: 17719538/0x010E60F2)], work=29*
@@ -4048,18 +4048,18 @@ SUBROUTINE_3E6B:
  17: 0x3FEF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
 
 SUBROUTINE_4000:
- 18: 0x4000 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7515*]:
+ 18: 0x4000 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7516*]:
     → "I don't know about the other four, but I can't hear his voice anymore..."
  19: 0x4007 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x4008 [0x6E] Ulrich (ID: 17719537/0x010E60F1) uses emote 4*
  21: 0x400F [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
- 22: 0x4014 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7516*]:
+ 22: 0x4014 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7517*]:
     → "Is this another brand I must bear for my treachery? I must truly be hated if that's the case."
  23: 0x401B [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x401C [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
  25: 0x4021 [0x52] END_LOAD_SCHEDULER: End scheduler "bs31" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x4030 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs33" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 27: 0x4041 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7517*]:
+ 27: 0x4041 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7518*]:
     → "It is something I would wish for at the moment, however. I pray this silence is just a continuation of our incompatible personalities. If not, then it means his pronouncement has become reality..."
  28: 0x4048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x4049 [0x1C] WAIT(30* ticks)
@@ -4070,12 +4070,12 @@ SUBROUTINE_4000:
  34: 0x4076 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ulrich (ID: 17719537/0x010E60F1) Render.Flags0 and Render.Flags3 conditions are met
  35: 0x407B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [Ulrich (ID: 17719537/0x010E60F1), Ulrich (ID: 17719537/0x010E60F1)], work=3*
  36: 0x408A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 37: 0x408F [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7518*]:
+ 37: 0x408F [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7519*]:
     → "3. This is more than just a testament to your strength. It is one of the keys that will lead you to Xarcabard, along with the trophies of the other realms."
  38: 0x4096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x4097 [0x52] END_LOAD_SCHEDULER: End scheduler "bs32" with entities [LocalPlayer, LocalPlayer], work=232*
  40: 0x40A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bs34" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 41: 0x40B7 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7519*]:
+ 41: 0x40B7 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7520*]:
     → "When you have all four trophies, travel to Beaucedine Glacier in the Northlands. You will find Cornelia waiting for you there. That is all the wisdom I have left to give you."
  42: 0x40BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x40BF [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -4156,11 +4156,11 @@ SUBROUTINE_4000:
  19: 0x4190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "efon" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
 
 SUBROUTINE_41A1:
- 20: 0x41A1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7520*]:
+ 20: 0x41A1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7521*]:
     → "What is the true nature of that other world? I can only explain it as a place that lies beyond the limitarus of our knowledge. But I'm sure I've feltaru that aura somewhere before..."
  21: 0x41A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x41A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=40*
- 23: 0x41B8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7521*]:
+ 23: 0x41B8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7522*]:
     → "That's it. That protocrystal I came across when I was doing research in Elshimo. The magical emanations coming from the crystal gave me a similar impression. An avatar? No, that can'taru be..."
  24: 0x41BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x41C0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)]
@@ -4170,16 +4170,16 @@ SUBROUTINE_41A1:
  29: 0x41F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  30: 0x41F7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Iru-Kuiru (ID: 17719539/0x010E60F3) Render.Flags0 and Render.Flags3 conditions are met
  31: 0x41FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "shk0" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=41*
- 32: 0x420B [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7522*]:
+ 32: 0x420B [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7523*]:
     → "Oh! Oh, I'm terribly-werribly sorry! I appear to have driftarued into my old habits."
  33: 0x4212 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x4213 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk0" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)]
  35: 0x4220 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=41*
  36: 0x422F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 37: 0x4234 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7523*]:
+ 37: 0x4234 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7524*]:
     → "Now, <Player>. This $3 is both a symbol of your fortitude, and one of the keys that will help you gain access to Xarcabard. The trophies from the other three realms carry the same importance."
  38: 0x423B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x423C [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7524*]:
+ 39: 0x423C [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7525*]:
     → "Gather all four trophies and hurry yourself on to Beaucedine Glacier. Cornelia will be waiting for you when you get there. But be wary, <Player>. The blackness enveloping that world grows ever deeper, ever darker..."
  40: 0x4243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x4244 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=41*
@@ -4269,7 +4269,7 @@ SUBROUTINE_41A1:
 
 SUBROUTINE_4322:
  19: 0x4322 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
- 20: 0x4331 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7525*]:
+ 20: 0x4331 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7526*]:
     → "The beastmen of that world carry the spoils of prrrevious battles. Equipment that you or I would use."
  21: 0x4338 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x4339 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -4278,7 +4278,7 @@ SUBROUTINE_4322:
  25: 0x435B [0x52] END_LOAD_SCHEDULER: End scheduler "jn31" with entities [LocalPlayer, LocalPlayer], work=232*
  26: 0x436A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
  27: 0x4379 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn32" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 28: 0x438A [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7526*]:
+ 28: 0x438A [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7527*]:
     → "I'm not able to touch them in my prrresent form, but I feel something about those weapons and armor...something extrrraordinary."
  29: 0x4391 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x4392 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
@@ -4288,7 +4288,7 @@ SUBROUTINE_4322:
  34: 0x43C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn33" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  35: 0x43D4 [0x6E] Yow Rabntah (ID: 17719540/0x010E60F4) uses emote 29*
  36: 0x43DB [0x99] Wait for Yow Rabntah (ID: 17719540/0x010E60F4) animation to complete
- 37: 0x43E0 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7527*]:
+ 37: 0x43E0 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7528*]:
     → "Wait, wait, wait! I don't mean that they're currrsed or anything like that! It's something more like, um, not ominous, but... How can I explain it?"
  38: 0x43E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x43E8 [0x99] Wait for Yow Rabntah (ID: 17719540/0x010E60F4) animation to complete
@@ -4296,7 +4296,7 @@ SUBROUTINE_4322:
  41: 0x43FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn34" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  42: 0x440D [0x6E] Yow Rabntah (ID: 17719540/0x010E60F4) uses emote 36*
  43: 0x4414 [0x99] Wait for Yow Rabntah (ID: 17719540/0x010E60F4) animation to complete
- 44: 0x4419 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7528*]:
+ 44: 0x4419 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7529*]:
     → "Anyway! They're not evil, just...you know? Different from other normal swords and things. Being all ghostlike and stuff, you can feel things like that."
  45: 0x4420 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x4421 [0x99] Wait for Yow Rabntah (ID: 17719540/0x010E60F4) animation to complete
@@ -4304,10 +4304,10 @@ SUBROUTINE_4322:
  48: 0x442B [0x52] END_LOAD_SCHEDULER: End scheduler "jn34" with entities [LocalPlayer, LocalPlayer], work=232*
  49: 0x443A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
  50: 0x4449 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "jn35" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 51: 0x445A [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7529*]:
+ 51: 0x445A [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7530*]:
     → "But enough of that kinda talk--congrrratulations are in order! You've got your paws on the $3! It shows you've got the goods in the hero department, and it will also help you get into Xarcabard."
  52: 0x4461 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x4462 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7530*]:
+ 53: 0x4462 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7531*]:
     → "But first you've got to collect the other three trophies and then hightail it to snowy Beaucedine Glacier. Cornelia should be up there waiting for you."
  54: 0x4469 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x446A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -4390,27 +4390,27 @@ SUBROUTINE_4322:
 
 SUBROUTINE_4555:
  22: 0x4555 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 23: 0x455A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7531*]:
+ 23: 0x455A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7532*]:
     → "3 and the four trophies. These artifacts have long been lost to that other world. The Hydra Corps was a unit formed after our expedition to the Northlands."
  24: 0x4561 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x4562 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
- 26: 0x4571 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7532*]:
+ 26: 0x4571 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7533*]:
     → "It must have been in the time of the Great War... Nobody knows how the Hydra artifacts came to be there, but those five trophies will open the path for you."
  27: 0x4578 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x4579 [0x52] END_LOAD_SCHEDULER: End scheduler "ga02" with entities [LocalPlayer, LocalPlayer], work=232*
  29: 0x4588 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
  30: 0x4597 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 31: 0x45A8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7533*]:
+ 31: 0x45A8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7534*]:
     → "Each of these items holds a measure of power. However, the strength of a single artifact is limited."
  32: 0x45AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x45B0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
  34: 0x45B5 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[6]
- 35: 0x45BA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7534*]:
+ 35: 0x45BA [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7535*]:
     → "The $3 and the $3. Combining these separate entities created a bridge from Vana'diel to the other realms. Xarcabard, I'm afraid, is another matter entirely..."
  36: 0x45C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x45C2 [0x52] END_LOAD_SCHEDULER: End scheduler "ga21" with entities [LocalPlayer, LocalPlayer], work=232*
  38: 0x45D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ga22" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 39: 0x45E2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7535*]:
+ 39: 0x45E2 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7536*]:
     → "Unless the shroud of darkness is lifted, that power alone will not be enough to open the way. However, the five trophies resonate with another artifact that lies within his land. If we can join our strength to theirs..."
  40: 0x45E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x45EA [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x09)
@@ -4419,7 +4419,7 @@ SUBROUTINE_4555:
  44: 0x4605 [0x1A] CALL_SUBROUTINE(address=0x4F35)
  45: 0x4608 [0x1C] WAIT(30* ticks)
  46: 0x460B [0x52] END_LOAD_SCHEDULER: End scheduler "ga22" with entities [LocalPlayer, LocalPlayer], work=232*
- 47: 0x461A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7536*]:
+ 47: 0x461A [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7537*]:
     → "Let us make haste to the land where this all began. To Xarcabard..."
  48: 0x4621 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x4622 [0x1C] WAIT(45* ticks)
@@ -4675,22 +4675,22 @@ SUBROUTINE_4555:
  45: 0x4780 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa20" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  46: 0x4791 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  47: 0x47A2 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Cornelia (ID: 17719541/0x010E60F5), tag_num=0x20)
- 48: 0x47A9 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7537*]:
+ 48: 0x47A9 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7538*]:
     → "Is it over...?"
  49: 0x47B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x47B1 [0x52] END_LOAD_SCHEDULER: End scheduler "xa20" with entities [LocalPlayer, LocalPlayer], work=232*
  51: 0x47C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa21" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 52: 0x47D1 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7538*]:
+ 52: 0x47D1 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7539*]:
     → "No, the rage has merely been dispersed."
  53: 0x47D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x47D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "rgm3" with entities [Raogrimm (ID: 17719543/0x010E60F7), Raogrimm (ID: 17719543/0x010E60F7)], work=63*
- 55: 0x47E8 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7539*]:
+ 55: 0x47E8 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7540*]:
     → "As long as I exist, he will never truly die..."
  56: 0x47EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x47F0 [0x52] END_LOAD_SCHEDULER: End scheduler "xa21" with entities [LocalPlayer, LocalPlayer], work=232*
  58: 0x47FF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa22" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  59: 0x4810 [0x6B] STOP_AND_IDLE: Raogrimm (ID: 17719543/0x010E60F7) stops current action and resets to idle (animation="idl0")
- 60: 0x4819 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7540*]:
+ 60: 0x4819 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7541*]:
     → "Or perhaps an eternal soul is something beyond the concept of death?"
  61: 0x4820 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x4821 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -4703,22 +4703,22 @@ SUBROUTINE_4555:
  69: 0x4856 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Raogrimm (ID: 17719543/0x010E60F7), tag_num=0x04)
  70: 0x485D [0x79] Cornelia (ID: 17719541/0x010E60F5) looks at LocalPlayer (Basic look)
  71: 0x4867 [0x4B] UPDATE_ENTITY_YAW(entity=Cornelia (ID: 17719541/0x010E60F5), yaw=3.1°*)
- 72: 0x486E [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7541*]:
+ 72: 0x486E [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7542*]:
     → "<Player>... You have achieved an incredible feat--the unification of the Shadow Lord has been prevented. I have not the words to express my gratitude."
  73: 0x4875 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x4876 [0x52] END_LOAD_SCHEDULER: End scheduler "xa23" with entities [LocalPlayer, LocalPlayer], work=232*
  75: 0x4885 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa24" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 76: 0x4896 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7542*]:
+ 76: 0x4896 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7543*]:
     → "The power of the crystal has faded, but I will be drawn into that towering rage no more. I have heard the voice of the one who holds sway over this realm..."
  77: 0x489D [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x489E [0x79] Cornelia (ID: 17719541/0x010E60F5) looks at Raogrimm (ID: 17719543/0x010E60F7) (Basic look)
- 79: 0x48A8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7543*]:
+ 79: 0x48A8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7544*]:
     → "The one who holds sway...?"
  80: 0x48AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x48B0 [0x52] END_LOAD_SCHEDULER: End scheduler "xa24" with entities [LocalPlayer, LocalPlayer], work=232*
  82: 0x48BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "rgm2" with entities [Raogrimm (ID: 17719543/0x010E60F7), Raogrimm (ID: 17719543/0x010E60F7)], work=63*
  83: 0x48CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa25" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
- 84: 0x48DF [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7544*]:
+ 84: 0x48DF [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7545*]:
     → "Yes. From the center of infinite darkness. I was in a place beyond comprehension when those words reached into my mind..."
  85: 0x48E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x48E7 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -4727,16 +4727,16 @@ SUBROUTINE_4555:
  89: 0x48F2 [0x52] END_LOAD_SCHEDULER: End scheduler "xa25" with entities [LocalPlayer, LocalPlayer], work=232*
  90: 0x4901 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa26" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
  91: 0x4912 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 92: 0x4915 [0x2B] ??? (ID: 17719544/0x010E60F8) [7545*]:
+ 92: 0x4915 [0x2B] ??? (ID: 17719544/0x010E60F8) [7546*]:
     → "You who have touched the crystal, the one who holds immortal power within a mortal shell. The rage that has arisen from your twisted core will devour my world."
  93: 0x491C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x491D [0x2B] ??? (ID: 17719544/0x010E60F8) [7546*]:
+ 94: 0x491D [0x2B] ??? (ID: 17719544/0x010E60F8) [7547*]:
     → "It was an error in judgment to shelter you... The order of my realm has been disrupted."
  95: 0x4924 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x4925 [0x2B] ??? (ID: 17719544/0x010E60F8) [7547*]:
+ 96: 0x4925 [0x2B] ??? (ID: 17719544/0x010E60F8) [7548*]:
     → "I give to you a duty... You will stand vigil until an age without hatred has dawned."
  97: 0x492C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x492D [0x2B] ??? (ID: 17719544/0x010E60F8) [7548*]:
+ 98: 0x492D [0x2B] ??? (ID: 17719544/0x010E60F8) [7549*]:
     → "No matter what terrible power you might wield, there is no escape from Dynamis for an incomplete soul. No return to the land of blessed light..."
  99: 0x4934 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x4935 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -4745,12 +4745,12 @@ SUBROUTINE_4555:
 103: 0x4940 [0x52] END_LOAD_SCHEDULER: End scheduler "xa26" with entities [LocalPlayer, LocalPlayer], work=232*
 104: 0x494F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa27" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 105: 0x4960 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-106: 0x4971 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7549*]:
+106: 0x4971 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7550*]:
     → "What manner of being was this who spoke from a pit of blackness? As this question gnawed at my mind, the voice grew quiet, leaving me in unanswered silence."
 107: 0x4978 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x4979 [0x52] END_LOAD_SCHEDULER: End scheduler "xa27" with entities [LocalPlayer, LocalPlayer], work=232*
 109: 0x4988 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa28" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-110: 0x4999 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7550*]:
+110: 0x4999 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7551*]:
     → "Of one thing I was certain. This voice belonged to the ruler of Dynamis."
 111: 0x49A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x49A1 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -4760,20 +4760,20 @@ SUBROUTINE_4555:
 116: 0x49BA [0x52] END_LOAD_SCHEDULER: End scheduler "xa28" with entities [LocalPlayer, LocalPlayer], work=232*
 117: 0x49C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa29" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 118: 0x49DA [0x1A] CALL_SUBROUTINE(address=0x4F14)
-119: 0x49DD [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7551*]:
+119: 0x49DD [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7552*]:
     → "A flow of energy exists in Vana'diel that has escaped the notice of those who dwell there."
 120: 0x49E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x49E5 [0x52] END_LOAD_SCHEDULER: End scheduler "xa29" with entities [LocalPlayer, LocalPlayer], work=232*
 122: 0x49F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa30" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-123: 0x4A05 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7552*]:
+123: 0x4A05 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7553*]:
     → "Thirty years past, my contact with the crystal caused an accelerated change in this flow. It was as if it had leapt forward, rushing along a deliberate course."
 124: 0x4A0C [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x4A0D [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7553*]:
+125: 0x4A0D [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7554*]:
     → "Nobody knows what lies at the end of this journey. Perhaps it will reveal the true nature of Vana'diel."
 126: 0x4A14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x4A15 [0x52] END_LOAD_SCHEDULER: End scheduler "xa30" with entities [LocalPlayer, LocalPlayer], work=232*
 128: 0x4A24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa31" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-129: 0x4A35 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7554*]:
+129: 0x4A35 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7555*]:
     → "<Player>, you may be the one to witness this truth."
 130: 0x4A3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x4A3D [0x79] Francmage (ID: 17719538/0x010E60F2) looks at LocalPlayer (Basic look)
@@ -4783,10 +4783,10 @@ SUBROUTINE_4555:
 135: 0x4A62 [0x52] END_LOAD_SCHEDULER: End scheduler "xa31" with entities [LocalPlayer, LocalPlayer], work=232*
 136: 0x4A71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa32" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 137: 0x4A82 [0x03] Work_Zone[2] = 1550*
-138: 0x4A87 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7555*]:
+138: 0x4A87 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7556*]:
     → "The power stored in the $3 will soon be drained. And I must remain in this world in my role of observer."
 139: 0x4A8E [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x4A8F [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7556*]:
+140: 0x4A8F [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7557*]:
     → "Do not forget who you are, <Player>. I bid farewell to a most heroic adventurer."
 141: 0x4A96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x4A97 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17719542/0x010E60F6), tag_num=0x17)
@@ -4817,7 +4817,7 @@ SUBROUTINE_4555:
 167: 0x4B53 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 168: 0x4B54 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Raogrimm (ID: 17719543/0x010E60F7) Render.Flags0 and Render.Flags3 conditions are met
 169: 0x4B59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa34" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-170: 0x4B6A [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7557*]:
+170: 0x4B6A [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7558*]:
     → "My old companions...?"
 171: 0x4B71 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 159*
 172: 0x4B75 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 159*
@@ -4826,30 +4826,30 @@ SUBROUTINE_4555:
 175: 0x4B81 [0x9A] WAIT_MUSIC_SERVER()
 176: 0x4B82 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "xa34" with entities [LocalPlayer, LocalPlayer], work=232*
 177: 0x4B91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa35" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-178: 0x4BA2 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7558*]:
+178: 0x4BA2 [0x2B] Francmage (ID: 17719538/0x010E60F2) [7559*]:
     → "This duty is too much for just one to bear. If you will have me, I will stand at your side until an age without hatred has arrived. It pains me to see the depths to which my country has fallen."
 179: 0x4BA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x4BAA [0x2B] Francmage (ID: 17719538/0x010E60F2) [7559*]:
+180: 0x4BAA [0x2B] Francmage (ID: 17719538/0x010E60F2) [7560*]:
     → "That is my only reason for staying. Do not misunderstand my motivations."
 181: 0x4BB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x4BB2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=40*
 183: 0x4BC1 [0x52] END_LOAD_SCHEDULER: End scheduler "xa35" with entities [LocalPlayer, LocalPlayer], work=232*
 184: 0x4BD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa36" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-185: 0x4BE1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7560*]:
+185: 0x4BE1 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7561*]:
     → "Blessed light and the ruler of Dynamis? I do believe you've rekindled my long-forgotten sense of adventure."
 186: 0x4BE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x4BE9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Iru-Kuiru (ID: 17719539/0x010E60F3), Iru-Kuiru (ID: 17719539/0x010E60F3)], work=40*
-188: 0x4BF8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7561*]:
+188: 0x4BF8 [0x2B] Iru-Kuiru (ID: 17719539/0x010E60F3) [7562*]:
     → "Once I've gotten all firedy-up, even you can'taru keep me back, Raogrimm. I'm sure my incomparable research skills will be of use in your task."
 189: 0x4BFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x4C00 [0x52] END_LOAD_SCHEDULER: End scheduler "xa36" with entities [LocalPlayer, LocalPlayer], work=232*
 191: 0x4C0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa37" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 192: 0x4C20 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
 193: 0x4C26 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
-194: 0x4C35 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7562*]:
+194: 0x4C35 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7563*]:
     → "C'mon, let's see a little excitement! This is our expedition's thirty-year rrreunion."
 195: 0x4C3C [0x23] WAIT_FOR_DIALOG_INTERACTION
-196: 0x4C3D [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7563*]:
+196: 0x4C3D [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7564*]:
     → "It's not the Northlands this time. None of us are going to grow old and die, so who else would you want with you on a task as long as this one?"
 197: 0x4C44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x4C45 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Yow Rabntah (ID: 17719540/0x010E60F4))
@@ -4857,7 +4857,7 @@ SUBROUTINE_4555:
 200: 0x4C5A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)]
 201: 0x4C67 [0x1C] WAIT(30* ticks)
 202: 0x4C6A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
-203: 0x4C79 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7564*]:
+203: 0x4C79 [0x2B] Yow Rabntah (ID: 17719540/0x010E60F4) [7565*]:
     → "I'm not gonna back down, no matterrr how much you complain. Better just give in and accept the fact that you're stuck with me."
 204: 0x4C80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x4C81 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [Yow Rabntah (ID: 17719540/0x010E60F4), Yow Rabntah (ID: 17719540/0x010E60F4)], work=50*
@@ -4865,7 +4865,7 @@ SUBROUTINE_4555:
 207: 0x4C99 [0x52] END_LOAD_SCHEDULER: End scheduler "xa37" with entities [LocalPlayer, LocalPlayer], work=232*
 208: 0x4CA8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa38" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 209: 0x4CB9 [0x79] Raogrimm (ID: 17719543/0x010E60F7) looks at Ulrich (ID: 17719537/0x010E60F1) (Basic look)
-210: 0x4CC3 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7565*]:
+210: 0x4CC3 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7566*]:
     → "I thought this would be the end of you for sure... Hmph. You're just as thick-skinned as you used to be."
 211: 0x4CCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x4CCB [0x52] END_LOAD_SCHEDULER: End scheduler "xa38" with entities [LocalPlayer, LocalPlayer], work=232*
@@ -4873,52 +4873,52 @@ SUBROUTINE_4555:
 214: 0x4CEB [0x6E] Ulrich (ID: 17719537/0x010E60F1) uses emote 25*
 215: 0x4CF2 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
 216: 0x4CF7 [0x99] Wait for Ulrich (ID: 17719537/0x010E60F1) animation to complete
-217: 0x4CFC [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7566*]:
+217: 0x4CFC [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7567*]:
     → "What, no words for an old friend? Thinking about testing your theory on whether or not a soul can be killed?"
 218: 0x4D03 [0x23] WAIT_FOR_DIALOG_INTERACTION
-219: 0x4D04 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7567*]:
+219: 0x4D04 [0x2B] Ulrich (ID: 17719537/0x010E60F1) [7568*]:
     → "I betrayed you! I extinguished the light of your precious Cornelia! The man responsible for this entire nightmare stands right before you!"
 220: 0x4D0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x4D0C [0x52] END_LOAD_SCHEDULER: End scheduler "xa39" with entities [LocalPlayer, LocalPlayer], work=232*
 222: 0x4D1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa40" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 223: 0x4D2C [0x1C] WAIT(45* ticks)
-224: 0x4D2F [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7568*]:
+224: 0x4D2F [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7569*]:
     → "Everything began thirty years ago. And there were things that came to an end... Even though I was a prisoner of uncontrollable rage, the fact remains that I took the lives of my companions with my own hands."
 225: 0x4D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x4D37 [0x52] END_LOAD_SCHEDULER: End scheduler "xa40" with entities [LocalPlayer, LocalPlayer], work=232*
 227: 0x4D46 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa41" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 228: 0x4D57 [0x79] Raogrimm (ID: 17719543/0x010E60F7) looks at Raogrimm (ID: 17719543/0x010E60F7) (Basic look)
-229: 0x4D61 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7569*]:
+229: 0x4D61 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7570*]:
     → "And yet, my old companions, you are the ones who have saved me from falling into that pit of hatred a second time."
 230: 0x4D68 [0x23] WAIT_FOR_DIALOG_INTERACTION
-231: 0x4D69 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7570*]:
+231: 0x4D69 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7571*]:
     → "I have words of gratitude, but do not stand in a position to blame anyone for their actions. No matter who that person may be."
 232: 0x4D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x4D71 [0x52] END_LOAD_SCHEDULER: End scheduler "xa41" with entities [LocalPlayer, LocalPlayer], work=232*
 234: 0x4D80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa42" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-235: 0x4D91 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7571*]:
+235: 0x4D91 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7572*]:
     → "Raogrimm..."
 236: 0x4D98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x4D99 [0x52] END_LOAD_SCHEDULER: End scheduler "xa42" with entities [LocalPlayer, LocalPlayer], work=232*
 238: 0x4DA8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa43" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-239: 0x4DB9 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7572*]:
+239: 0x4DB9 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7573*]:
     → "Are you sure you want to do this? This duty will continue until hatred has faded from the land. As long as my divided soul remains, there may never be an end to that rage..."
 240: 0x4DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x4DC1 [0x52] END_LOAD_SCHEDULER: End scheduler "xa43" with entities [LocalPlayer, LocalPlayer], work=232*
 242: 0x4DD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa44" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
 243: 0x4DE1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Cornelia (ID: 17719541/0x010E60F5), Cornelia (ID: 17719541/0x010E60F5)], work=10*
-244: 0x4DF0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7573*]:
+244: 0x4DF0 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7574*]:
     → "Raogrimm. There is no need to suffer alone anymore. Our presence here should answer your question."
 245: 0x4DF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-246: 0x4DF8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7574*]:
+246: 0x4DF8 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7575*]:
     → "There are crimes that must be atoned for. And if that means staying on after death and watching over this world, then we who were your companions will share the burden along with you."
 247: 0x4DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x4E00 [0x52] END_LOAD_SCHEDULER: End scheduler "xa44" with entities [LocalPlayer, LocalPlayer], work=232*
 249: 0x4E0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "xa45" with entities [LocalPlayer, LocalPlayer], work=[232*, 0*]
-250: 0x4E20 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7575*]:
+250: 0x4E20 [0x2B] Cornelia (ID: 17719541/0x010E60F5) [7576*]:
     → "Until the dawn of an age without hatred... No, as long as this world continues to be, I will remain by your side."
 251: 0x4E27 [0x23] WAIT_FOR_DIALOG_INTERACTION
-252: 0x4E28 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7576*]:
+252: 0x4E28 [0x2B] Raogrimm (ID: 17719543/0x010E60F7) [7577*]:
     → "Cornelia..."
 253: 0x4E2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x4E30 [0x1A] CALL_SUBROUTINE(address=0x4F35)
@@ -5108,40 +5108,40 @@ SUBROUTINE_4F35:
  32: 0x5227 [0x1C] WAIT(30* ticks)
  33: 0x522A [0x52] END_LOAD_SCHEDULER: End scheduler "dv00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x5239 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x524A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7582*]:
+ 35: 0x524A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
     → "I am the ruler of Dynamis."
  36: 0x5251 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x5252 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
+ 37: 0x5252 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
     → "Are you lost? Or are you here by your own reckless designs? Either way, this is not your dream."
  38: 0x5259 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x525A [0x52] END_LOAD_SCHEDULER: End scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=155*
  40: 0x5269 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  41: 0x527A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 42: 0x5289 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
+ 42: 0x5289 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
     → "The dreamer of this realm is a separate entity than he who dreamt of that wasteland of malice, Xarcabard."
  43: 0x5290 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x5291 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
+ 44: 0x5291 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
     → "Who would dare bring a new dream into my world of Dynamis?"
  45: 0x5298 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x5299 [0x52] END_LOAD_SCHEDULER: End scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=155*
  47: 0x52A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv03" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 48: 0x52B9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
+ 48: 0x52B9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
     → "I divided my form in order to find the answer, but my counterpart has yet to return to me."
  49: 0x52C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x52C1 [0x1C] WAIT(90* ticks)
  51: 0x52C4 [0x52] END_LOAD_SCHEDULER: End scheduler "dv03" with entities [LocalPlayer, LocalPlayer], work=155*
  52: 0x52D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv04" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  53: 0x52E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 54: 0x52F3 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
+ 54: 0x52F3 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
     → "While wandering through this realm, you may come across another semblance of myself."
  55: 0x52FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x52FB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 56: 0x52FB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  57: 0x5302 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x5303 [0x52] END_LOAD_SCHEDULER: End scheduler "dv04" with entities [LocalPlayer, LocalPlayer], work=155*
  59: 0x5312 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  60: 0x5323 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 61: 0x5332 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 61: 0x5332 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  62: 0x5339 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x533A [0x52] END_LOAD_SCHEDULER: End scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5260,40 +5260,40 @@ SUBROUTINE_4F35:
  32: 0x5487 [0x1C] WAIT(30* ticks)
  33: 0x548A [0x52] END_LOAD_SCHEDULER: End scheduler "db00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x5499 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x54AA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7582*]:
+ 35: 0x54AA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
     → "I am the ruler of Dynamis."
  36: 0x54B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x54B2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
+ 37: 0x54B2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
     → "Are you lost? Or are you here by your own reckless designs? Either way, this is not your dream."
  38: 0x54B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x54BA [0x52] END_LOAD_SCHEDULER: End scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=155*
  40: 0x54C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  41: 0x54DA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 42: 0x54E9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
+ 42: 0x54E9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
     → "The dreamer of this realm is a separate entity than he who dreamt of that wasteland of malice, Xarcabard."
  43: 0x54F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x54F1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
+ 44: 0x54F1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
     → "Who would dare bring a new dream into my world of Dynamis?"
  45: 0x54F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x54F9 [0x52] END_LOAD_SCHEDULER: End scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=155*
  47: 0x5508 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db03" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 48: 0x5519 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
+ 48: 0x5519 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
     → "I divided my form in order to find the answer, but my counterpart has yet to return to me."
  49: 0x5520 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x5521 [0x1C] WAIT(90* ticks)
  51: 0x5524 [0x52] END_LOAD_SCHEDULER: End scheduler "db03" with entities [LocalPlayer, LocalPlayer], work=155*
  52: 0x5533 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db04" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  53: 0x5544 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 54: 0x5553 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
+ 54: 0x5553 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
     → "While wandering through this realm, you may come across another semblance of myself."
  55: 0x555A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x555B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 56: 0x555B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  57: 0x5562 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x5563 [0x52] END_LOAD_SCHEDULER: End scheduler "db04" with entities [LocalPlayer, LocalPlayer], work=155*
  59: 0x5572 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  60: 0x5583 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 61: 0x5592 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 61: 0x5592 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  62: 0x5599 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x559A [0x52] END_LOAD_SCHEDULER: End scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5412,40 +5412,40 @@ SUBROUTINE_4F35:
  32: 0x56E7 [0x1C] WAIT(30* ticks)
  33: 0x56EA [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x56F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x570A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7582*]:
+ 35: 0x570A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
     → "I am the ruler of Dynamis."
  36: 0x5711 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x5712 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7583*]:
+ 37: 0x5712 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
     → "Are you lost? Or are you here by your own reckless designs? Either way, this is not your dream."
  38: 0x5719 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x571A [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=155*
  40: 0x5729 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  41: 0x573A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 42: 0x5749 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7584*]:
+ 42: 0x5749 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
     → "The dreamer of this realm is a separate entity than he who dreamt of that wasteland of malice, Xarcabard."
  43: 0x5750 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x5751 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7585*]:
+ 44: 0x5751 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
     → "Who would dare bring a new dream into my world of Dynamis?"
  45: 0x5758 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x5759 [0x52] END_LOAD_SCHEDULER: End scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=155*
  47: 0x5768 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 48: 0x5779 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7586*]:
+ 48: 0x5779 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
     → "I divided my form in order to find the answer, but my counterpart has yet to return to me."
  49: 0x5780 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x5781 [0x1C] WAIT(90* ticks)
  51: 0x5784 [0x52] END_LOAD_SCHEDULER: End scheduler "dq03" with entities [LocalPlayer, LocalPlayer], work=155*
  52: 0x5793 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq04" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  53: 0x57A4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 54: 0x57B3 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7587*]:
+ 54: 0x57B3 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
     → "While wandering through this realm, you may come across another semblance of myself."
  55: 0x57BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x57BB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 56: 0x57BB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  57: 0x57C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x57C3 [0x52] END_LOAD_SCHEDULER: End scheduler "dq04" with entities [LocalPlayer, LocalPlayer], work=155*
  59: 0x57D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  60: 0x57E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 61: 0x57F2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 61: 0x57F2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  62: 0x57F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x57FA [0x52] END_LOAD_SCHEDULER: End scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5559,25 +5559,25 @@ SUBROUTINE_4F35:
  32: 0x5947 [0x1C] WAIT(30* ticks)
  33: 0x594A [0x52] END_LOAD_SCHEDULER: End scheduler "dv00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x5959 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x596A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+ 35: 0x596A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
  36: 0x5971 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x5972 [0x52] END_LOAD_SCHEDULER: End scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=155*
  38: 0x5981 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  39: 0x5992 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 40: 0x59A1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+ 40: 0x59A1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
  41: 0x59A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x59A9 [0x52] END_LOAD_SCHEDULER: End scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=155*
  43: 0x59B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  44: 0x59C9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 45: 0x59D8 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 45: 0x59D8 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  46: 0x59DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x59E0 [0x52] END_LOAD_SCHEDULER: End scheduler "dv07" with entities [LocalPlayer, LocalPlayer], work=155*
  48: 0x59EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  49: 0x5A00 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 50: 0x5A0F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 50: 0x5A0F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  51: 0x5A16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x5A17 [0x52] END_LOAD_SCHEDULER: End scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5690,24 +5690,24 @@ SUBROUTINE_4F35:
  32: 0x5B64 [0x1C] WAIT(30* ticks)
  33: 0x5B67 [0x52] END_LOAD_SCHEDULER: End scheduler "db00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x5B76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x5B87 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+ 35: 0x5B87 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
  36: 0x5B8E [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x5B8F [0x52] END_LOAD_SCHEDULER: End scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=155*
  38: 0x5B9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  39: 0x5BAF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 40: 0x5BBE [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+ 40: 0x5BBE [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
  41: 0x5BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x5BC6 [0x52] END_LOAD_SCHEDULER: End scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=155*
  43: 0x5BD5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  44: 0x5BE6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 45: 0x5BF5 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 45: 0x5BF5 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  46: 0x5BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x5BFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  48: 0x5C0E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 49: 0x5C1D [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 49: 0x5C1D [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  50: 0x5C24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x5C25 [0x52] END_LOAD_SCHEDULER: End scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5822,25 +5822,25 @@ SUBROUTINE_4F35:
  32: 0x5D72 [0x1C] WAIT(30* ticks)
  33: 0x5D75 [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=155*
  34: 0x5D84 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 35: 0x5D95 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+ 35: 0x5D95 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
  36: 0x5D9C [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x5D9D [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=155*
  38: 0x5DAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  39: 0x5DBD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 40: 0x5DCC [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+ 40: 0x5DCC [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
  41: 0x5DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x5DD4 [0x52] END_LOAD_SCHEDULER: End scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=155*
  43: 0x5DE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  44: 0x5DF4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 45: 0x5E03 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+ 45: 0x5E03 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
  46: 0x5E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x5E0B [0x52] END_LOAD_SCHEDULER: End scheduler "dq07" with entities [LocalPlayer, LocalPlayer], work=155*
  48: 0x5E1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  49: 0x5E2B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 50: 0x5E3A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+ 50: 0x5E3A [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
  51: 0x5E41 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x5E42 [0x52] END_LOAD_SCHEDULER: End scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -5928,16 +5928,16 @@ SUBROUTINE_4F35:
  20: 0x5F3F [0x1C] WAIT(15* ticks)
  21: 0x5F42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv08" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  22: 0x5F53 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 23: 0x5F56 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
+ 23: 0x5F56 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
     → "I have been watching your dream."
  24: 0x5F5D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x5F5E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
+ 25: 0x5F5E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
     → "But you cannot grasp the identity of this realm's dreamer from there. This land will continue to devour its way into Dynamis."
  26: 0x5F65 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x5F66 [0x52] END_LOAD_SCHEDULER: End scheduler "dv08" with entities [LocalPlayer, LocalPlayer], work=155*
  28: 0x5F75 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv09" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  29: 0x5F86 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 30: 0x5F95 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
+ 30: 0x5F95 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7595*]:
     → "You must find my counterpart and crush the dreamer of this realm."
  31: 0x5F9C [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x5F9D [0x1A] CALL_SUBROUTINE(address=0x4F77)
@@ -6019,16 +6019,16 @@ SUBROUTINE_4F35:
  20: 0x6065 [0x1C] WAIT(15* ticks)
  21: 0x6068 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db08" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  22: 0x6079 [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 23: 0x607C [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
+ 23: 0x607C [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
     → "I have been watching your dream."
  24: 0x6083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x6084 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
+ 25: 0x6084 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
     → "But you cannot grasp the identity of this realm's dreamer from there. This land will continue to devour its way into Dynamis."
  26: 0x608B [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x608C [0x52] END_LOAD_SCHEDULER: End scheduler "db08" with entities [LocalPlayer, LocalPlayer], work=155*
  28: 0x609B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db09" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  29: 0x60AC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 30: 0x60BB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
+ 30: 0x60BB [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7595*]:
     → "You must find my counterpart and crush the dreamer of this realm."
  31: 0x60C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x60C3 [0x1A] CALL_SUBROUTINE(address=0x4F77)
@@ -6206,16 +6206,16 @@ SUBROUTINE_4F35:
  20: 0x618B [0x1C] WAIT(15* ticks)
  21: 0x618E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq08" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  22: 0x619F [0x1A] CALL_SUBROUTINE(address=0x4F14)
- 23: 0x61A2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
+ 23: 0x61A2 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
     → "I have been watching your dream."
  24: 0x61A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x61AA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7593*]:
+ 25: 0x61AA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
     → "But you cannot grasp the identity of this realm's dreamer from there. This land will continue to devour its way into Dynamis."
  26: 0x61B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x61B2 [0x52] END_LOAD_SCHEDULER: End scheduler "dq08" with entities [LocalPlayer, LocalPlayer], work=155*
  28: 0x61C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq09" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  29: 0x61D2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
- 30: 0x61E1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7594*]:
+ 30: 0x61E1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7595*]:
     → "You must find my counterpart and crush the dreamer of this realm."
  31: 0x61E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x61E9 [0x1A] CALL_SUBROUTINE(address=0x4F77)
@@ -6276,25 +6276,25 @@ SUBROUTINE_4F35:
      0x6301 [0x1C] WAIT(30* ticks)
      0x6304 [0x52] END_LOAD_SCHEDULER: End scheduler "dv00" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6313 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x6324 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+     0x6324 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
      0x632B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x632C [0x52] END_LOAD_SCHEDULER: End scheduler "dv01" with entities [LocalPlayer, LocalPlayer], work=155*
      0x633B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x634C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x635B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+     0x635B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
      0x6362 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6363 [0x52] END_LOAD_SCHEDULER: End scheduler "dv02" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6372 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x6383 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x6392 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+     0x6392 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
      0x6399 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x639A [0x52] END_LOAD_SCHEDULER: End scheduler "dv07" with entities [LocalPlayer, LocalPlayer], work=155*
      0x63A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x63BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x63C9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+     0x63C9 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
      0x63D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x63D1 [0x52] END_LOAD_SCHEDULER: End scheduler "dv05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6350,24 +6350,24 @@ SUBROUTINE_4F35:
      0x6504 [0x1C] WAIT(30* ticks)
      0x6507 [0x52] END_LOAD_SCHEDULER: End scheduler "db00" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6516 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x6527 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+     0x6527 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
      0x652E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x652F [0x52] END_LOAD_SCHEDULER: End scheduler "db01" with entities [LocalPlayer, LocalPlayer], work=155*
      0x653E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x654F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x655E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+     0x655E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
      0x6565 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6566 [0x52] END_LOAD_SCHEDULER: End scheduler "db02" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6575 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x6586 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x6595 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+     0x6595 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
      0x659C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x659D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x65AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x65BD [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+     0x65BD [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
      0x65C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x65C5 [0x52] END_LOAD_SCHEDULER: End scheduler "db05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6423,25 +6423,25 @@ SUBROUTINE_4F35:
      0x66F8 [0x1C] WAIT(30* ticks)
      0x66FB [0x52] END_LOAD_SCHEDULER: End scheduler "dq00" with entities [LocalPlayer, LocalPlayer], work=155*
      0x670A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x671B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
+     0x671B [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
     → "A nightmare curses this land yet again."
      0x6722 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6723 [0x52] END_LOAD_SCHEDULER: End scheduler "dq01" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6732 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x6743 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x6752 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7591*]:
+     0x6752 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7592*]:
     → "Take heed, dream traveler."
      0x6759 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x675A [0x52] END_LOAD_SCHEDULER: End scheduler "dq02" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6769 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq07" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x677A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x6789 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7588*]:
+     0x6789 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
     → "The memory of our encounter will become a guide to my shadow as it wanders this dream."
      0x6790 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6791 [0x52] END_LOAD_SCHEDULER: End scheduler "dq07" with entities [LocalPlayer, LocalPlayer], work=155*
      0x67A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x67B1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=511*
-     0x67C0 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7589*]:
+     0x67C0 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7590*]:
     → "Search for my counterpart, and unite this realm with your own dream."
      0x67C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x67C8 [0x52] END_LOAD_SCHEDULER: End scheduler "dq05" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6583,23 +6583,23 @@ SUBROUTINE_4F35:
  34: 0x690D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  35: 0x691E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "dt01" with entities [LocalPlayer, LocalPlayer], work=155*
  36: 0x692D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 37: 0x693E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7595*]:
+ 37: 0x693E [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7596*]:
     → "I see that you have gathered three slivers of black crystal..."
  38: 0x6945 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x6946 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7596*]:
+ 39: 0x6946 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7597*]:
     → "The Emptiness is sealed inside of them. Those are no mere fragments."
  40: 0x694D [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x694E [0x52] END_LOAD_SCHEDULER: End scheduler "dt02" with entities [LocalPlayer, LocalPlayer], work=155*
  42: 0x695D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt03" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  43: 0x696E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=650*
- 44: 0x697D [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7597*]:
+ 44: 0x697D [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7598*]:
     → "Those pieces of crystal have led you to this place... The source of this nightmare is near. I can feel the dreamer's presence."
  45: 0x6984 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x6985 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tmb0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)]
  47: 0x6992 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=650*
  48: 0x69A1 [0x52] END_LOAD_SCHEDULER: End scheduler "dt03" with entities [LocalPlayer, LocalPlayer], work=155*
  49: 0x69B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt04" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 50: 0x69C1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7598*]:
+ 50: 0x69C1 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7599*]:
     → "The entrance to the dream has already been opened. Find and destroy the source if you wish to protect my realm."
  51: 0x69C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x69C9 [0x52] END_LOAD_SCHEDULER: End scheduler "dt04" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6665,23 +6665,23 @@ SUBROUTINE_4F35:
      0x6B16 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt01" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x6B27 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "dt01" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6B36 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt02" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x6B47 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7595*]:
+     0x6B47 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7596*]:
     → "I see that you have gathered three slivers of black crystal..."
      0x6B4E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x6B4F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7596*]:
+     0x6B4F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7597*]:
     → "The Emptiness is sealed inside of them. Those are no mere fragments."
      0x6B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B57 [0x52] END_LOAD_SCHEDULER: End scheduler "dt02" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6B66 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt03" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
      0x6B77 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=650*
-     0x6B86 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7597*]:
+     0x6B86 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7598*]:
     → "Those pieces of crystal have led you to this place... The source of this nightmare is near. I can feel the dreamer's presence."
      0x6B8D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6B8E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tmb0" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)]
      0x6B9B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tmb1" with entities [Diabolos (ID: 17719545/0x010E60F9), Diabolos (ID: 17719545/0x010E60F9)], work=650*
      0x6BAA [0x52] END_LOAD_SCHEDULER: End scheduler "dt03" with entities [LocalPlayer, LocalPlayer], work=155*
      0x6BB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt04" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
-     0x6BCA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7598*]:
+     0x6BCA [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7599*]:
     → "The entrance to the dream has already been opened. Find and destroy the source if you wish to protect my realm."
      0x6BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x6BD2 [0x52] END_LOAD_SCHEDULER: End scheduler "dt04" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6809,7 +6809,7 @@ SUBROUTINE_4F35:
  39: 0x6D32 [0x1C] WAIT(120* ticks)
  40: 0x6D35 [0x52] END_LOAD_SCHEDULER: End scheduler "dt12" with entities [LocalPlayer, LocalPlayer], work=155*
  41: 0x6D44 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt13" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 42: 0x6D55 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7603*]:
+ 42: 0x6D55 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7604*]:
     → "The shadow that you defeated had been consumed by the dreamer of this realm."
  43: 0x6D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x6D5D [0x52] END_LOAD_SCHEDULER: End scheduler "dt13" with entities [LocalPlayer, LocalPlayer], work=155*
@@ -6818,11 +6818,11 @@ SUBROUTINE_4F35:
  47: 0x6D8E [0x4A] LocalPlayer looks at Diabolos (ID: 17719546/0x010E60FA)
  48: 0x6D97 [0x1C] WAIT(120* ticks)
  49: 0x6D9A [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x6DAD
- 50: 0x6DA2 [0x2B] Diabolos (ID: 17719546/0x010E60FA) [7604*]:
+ 50: 0x6DA2 [0x2B] Diabolos (ID: 17719546/0x010E60FA) [7605*]:
     → "It seems that this nightmare was dreamt into existence by beings who have come into contact with the Emptiness."
  51: 0x6DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x6DAA [0x01] GOTO 0x6DB5
- 53: 0x6DAD [0x2B] Diabolos (ID: 17719546/0x010E60FA) [7605*]:
+ 53: 0x6DAD [0x2B] Diabolos (ID: 17719546/0x010E60FA) [7606*]:
     → "It seems that this nightmare was dreamt into existence by beings who came into contact with the Emptiness."
  54: 0x6DB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -6833,22 +6833,22 @@ SUBROUTINE_6DB5:
  58: 0x6DE6 [0x4A] LocalPlayer looks at Diabolos (ID: 17719547/0x010E60FB)
  59: 0x6DEF [0x1C] WAIT(120* ticks)
  60: 0x6DF2 [0x02] IF !(ExtData[1]->WorkLocal[10] == 0*) GOTO 0x6E05
- 61: 0x6DFA [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7606*]:
+ 61: 0x6DFA [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7607*]:
     → "Could it have been that girl...? When I next see her, she will pay dearly."
  62: 0x6E01 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x6E02 [0x01] GOTO 0x6E3E
  64: 0x6E05 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x6E18
- 65: 0x6E0D [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7607*]:
+ 65: 0x6E0D [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7608*]:
     → "Could it have been that girl...? No, there was one more, transformed after death..."
  66: 0x6E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x6E15 [0x01] GOTO 0x6E3E
  68: 0x6E18 [0x02] IF !(ExtData[1]->WorkLocal[10] == 2*) GOTO 0x6E2B
- 69: 0x6E20 [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7610*]:
+ 69: 0x6E20 [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7611*]:
     → "The dreamer is not the girl who once harbored the Emptiness... Could it have been transferred to another girl...?"
  70: 0x6E27 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x6E28 [0x01] GOTO 0x6E3E
  72: 0x6E2B [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x6E3E
- 73: 0x6E33 [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7611*]:
+ 73: 0x6E33 [0x2B] Diabolos (ID: 17719547/0x010E60FB) [7612*]:
     → "You know this girl well. I could take care of her easily, but if you wish me to spare her, then you will lend me your power."
  74: 0x6E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x6E3B [0x01] GOTO 0x6E3E
@@ -6857,12 +6857,12 @@ SUBROUTINE_6E3E:
  76: 0x6E3E [0x52] END_LOAD_SCHEDULER: End scheduler "dt15" with entities [LocalPlayer, LocalPlayer], work=155*
  77: 0x6E4D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt16" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
  78: 0x6E5E [0x4A] LocalPlayer looks at Diabolos (ID: 17719545/0x010E60F9)
- 79: 0x6E67 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7608*]:
+ 79: 0x6E67 [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7609*]:
     → "Her malice will not perish as long as this dream continues, using my shadows to revive countless times."
  80: 0x6E6E [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x6E6F [0x52] END_LOAD_SCHEDULER: End scheduler "dt16" with entities [LocalPlayer, LocalPlayer], work=155*
  82: 0x6E7E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "dt17" with entities [LocalPlayer, LocalPlayer], work=[155*, 0*]
- 83: 0x6E8F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7609*]:
+ 83: 0x6E8F [0x2B] Diabolos (ID: 17719545/0x010E60F9) [7610*]:
     → "You must confront the nightmare and continue to fight them to keep this realm from spreading."
  84: 0x6E96 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x6E97 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "dt17" with entities [LocalPlayer, LocalPlayer], work=155*

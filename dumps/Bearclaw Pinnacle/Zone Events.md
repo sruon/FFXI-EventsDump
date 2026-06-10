@@ -64,24 +64,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB9      |        7609 |
-|       7 | 0x1D0D      |        7437 |
+|       6 | 0x1DBA      |        7610 |
+|       7 | 0x1D0E      |        7438 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1B9F      |        7071 |
+|      12 | 0x1BA0      |        7072 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BAA      |        7082 |
-|      20 | 0x1BAB      |        7083 |
-|      21 | 0x1BAC      |        7084 |
-|      22 | 0x1BAD      |        7085 |
-|      23 | 0x1BD1      |        7121 |
+|      19 | 0x1BAB      |        7083 |
+|      20 | 0x1BAC      |        7084 |
+|      21 | 0x1BAD      |        7085 |
+|      22 | 0x1BAE      |        7086 |
+|      23 | 0x1BD2      |        7122 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -101,21 +101,21 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D06      |        7430 |
-|      44 | 0x1D0B      |        7435 |
-|      45 | 0x1D0A      |        7434 |
+|      43 | 0x1D07      |        7431 |
+|      44 | 0x1D0C      |        7436 |
+|      45 | 0x1D0B      |        7435 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB7      |        7607 |
-|      48 | 0x1DB6      |        7606 |
+|      47 | 0x1DB8      |        7608 |
+|      48 | 0x1DB7      |        7607 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1CF2      |        7410 |
+|      50 | 0x1CF3      |        7411 |
 |      51 | 0x00DC      |         220 |
-|      52 | 0x1BA2      |        7074 |
+|      52 | 0x1BA3      |        7075 |
 |      53 | 0x00C9      |         201 |
-|      54 | 0x1DBA      |        7610 |
-|      55 | 0x1DBB      |        7611 |
-|      56 | 0x1DBC      |        7612 |
-|      57 | 0x1DBD      |        7613 |
+|      54 | 0x1DBB      |        7611 |
+|      55 | 0x1DBC      |        7612 |
+|      56 | 0x1DBD      |        7613 |
+|      57 | 0x1DBE      |        7614 |
 |      58 | 0x00B4      |         180 |
 |      59 | 0xFFF6C42B  |  4294362155 |
 |      60 | 0x752B9     |      479929 |
@@ -204,11 +204,11 @@
 |     143 | 0x8FE5      |       36837 |
 |     144 | 0x02A1      |         673 |
 |     145 | 0x0024      |          36 |
-|     146 | 0x1CF4      |        7412 |
-|     147 | 0x1CF3      |        7411 |
-|     148 | 0x1DB5      |        7605 |
-|     149 | 0x1CF6      |        7414 |
-|     150 | 0x1CF5      |        7413 |
+|     146 | 0x1CF5      |        7413 |
+|     147 | 0x1CF4      |        7412 |
+|     148 | 0x1DB6      |        7606 |
+|     149 | 0x1CF7      |        7415 |
+|     150 | 0x1CF6      |        7414 |
 |     151 | 0xFFF948CF  |  4294527183 |
 |     152 | 0xCC229     |      836137 |
 |     153 | 0xFFFFFF3F  |  4294967103 |
@@ -229,7 +229,7 @@
 |     168 | 0x212C      |        8492 |
 |     169 | 0x09A4      |        2468 |
 |     170 | 0x004D      |          77 |
-|     171 | 0x1BA0      |        7072 |
+|     171 | 0x1BA1      |        7073 |
 |     172 | 0xFFF95635  |  4294530613 |
 |     173 | 0xCBB4E     |      834382 |
 |     174 | 0xFFFFFF57  |  4294967127 |
@@ -319,31 +319,31 @@
 
 ## String References
 
-- **7071**: Enter the battlefield? [Enter./Decline.]
-- **7072**: Leave the battlefield? [Run away./Stay.]
-- **7074**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7082**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7072**: Enter the battlefield? [Enter./Decline.]
+- **7073**: Leave the battlefield? [Run away./Stay.]
+- **7075**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7121**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7410**: Skip the event? [Yes./No.]
-- **7411**: Battlefield clear time: $3 second[/s]!
-- **7412**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7413**: The current battlefield clear time record is $3 second[/s].
-- **7414**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7430**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7434**: That record is held by $5 adventurers, including %0!
-- **7435**: That record is held by %0!
-- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7605**: You have broken the clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]"!
-- **7606**: The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 second[/s].
-- **7607**: The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 minute[/s] $2 second[/s].
-- **7609**: Which battlefield will you enter? [None./Flames for the Dead./Follow the White Rabbit./When Hell Freezes Over./Brothers./Holy Cow./Taurassic Park./././././././././././././././././././././././././]
-- **7610**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7086**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7122**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7411**: Skip the event? [Yes./No.]
+- **7412**: Battlefield clear time: $3 second[/s]!
+- **7413**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7414**: The current battlefield clear time record is $3 second[/s].
+- **7415**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7431**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7435**: That record is held by $5 adventurers, including %0!
+- **7436**: That record is held by %0!
+- **7438**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7606**: You have broken the clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]"!
+- **7607**: The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 second[/s].
+- **7608**: The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 minute[/s] $2 second[/s].
+- **7610**: Which battlefield will you enter? [None./Flames for the Dead./Follow the White Rabbit./When Hell Freezes Over./Brothers./Holy Cow./Taurassic Park./././././././././././././././././././././././././]
 - **7611**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
 - **7612**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
 - **7613**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
+- **7614**: Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members.
 
 ## Events
 
@@ -562,7 +562,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Flames for the Dead./Follow the White Rabbit./When Hell Freezes Over./Brothers./Holy Cow./Taurassic Park./././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -575,7 +575,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1393)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7438*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -601,7 +601,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -650,22 +650,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7082*]:
+ 89: 0x0225 [0x48] [System] [7083*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7083*]:
+ 93: 0x0234 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7084*]:
+ 97: 0x0243 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7085*]:
+101: 0x0252 [0x48] [System] [7086*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -674,7 +674,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7430*]:
+105: 0x0469 [0x48] [System] [7431*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -686,24 +686,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7607*]:
+114: 0x04EA [0x48] [System] [7608*]:
     → "The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7606*]:
+117: 0x04F1 [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7435*]:
+120: 0x04FD [0x48] [System] [7436*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7434*]:
+126: 0x0511 [0x48] [System] [7435*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -719,7 +719,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -859,7 +859,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7074*]:
+266: 0x07F4 [0x48] [System] [7075*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -879,25 +879,25 @@ SUBROUTINE_082B:
 
 SUBROUTINE_0845:
 278: 0x0845 [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0857
-279: 0x084D [0x48] [System] [7610*]:
+279: 0x084D [0x48] [System] [7611*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 280: 0x0850 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x0851 [0x05] ExtData[1]->WorkLocal[22] = 1
 282: 0x0854 [0x01] GOTO 0x088D
 283: 0x0857 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0869
-284: 0x085F [0x48] [System] [7611*]:
+284: 0x085F [0x48] [System] [7612*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 285: 0x0862 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0863 [0x05] ExtData[1]->WorkLocal[22] = 1
 287: 0x0866 [0x01] GOTO 0x088D
 288: 0x0869 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x087B
-289: 0x0871 [0x48] [System] [7612*]:
+289: 0x0871 [0x48] [System] [7613*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 290: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x0875 [0x05] ExtData[1]->WorkLocal[22] = 1
 292: 0x0878 [0x01] GOTO 0x088D
 293: 0x087B [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x088D
-294: 0x0883 [0x48] [System] [7613*]:
+294: 0x0883 [0x48] [System] [7614*]:
     → "Level limit of 75. The experience point reward for this battlefield will be reduced for parties of seven or more members."
 295: 0x0886 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0887 [0x05] ExtData[1]->WorkLocal[22] = 1
@@ -1252,7 +1252,7 @@ SUBROUTINE_0C7D:
  84: 0x0C88 [0x01] GOTO 0x0CA6
  85: 0x0C8B [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D56
  86: 0x0C93 [0x1C] WAIT(15* ticks)
- 87: 0x0C96 [0x24] CREATE_DIALOG(message_id=7410*, default_option=1*, option_flags=0*)
+ 87: 0x0C96 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C9D [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C9E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D56
@@ -1319,18 +1319,18 @@ SUBROUTINE_0D88:
 138: 0x0DC1 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DDC
 139: 0x0DC9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0DD0 [0x15] Work_Zone[5] /= 60*
-141: 0x0DD5 [0x48] [System] [7412*]:
+141: 0x0DD5 [0x48] [System] [7413*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0DD9 [0x01] GOTO 0x0DE0
-144: 0x0DDC [0x48] [System] [7411*]:
+144: 0x0DDC [0x48] [System] [7412*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0DDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DE0:
 146: 0x0DE0 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DF4
 147: 0x0DE8 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DED [0x48] [System] [7605*]:
+148: 0x0DED [0x48] [System] [7606*]:
     → "You have broken the clear time record for "[Flames for the Dead/Follow the White Rabbit/When Hell Freezes Over/Brothers/Holy Cow/Taurassic Park]"!"
 149: 0x0DF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DF1 [0x01] GOTO 0x0E1D
@@ -1338,12 +1338,12 @@ SUBROUTINE_0DE0:
 152: 0x0DFC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0E01 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0E08 [0x15] Work_Zone[5] /= 60*
-155: 0x0E0D [0x48] [System] [7414*]:
+155: 0x0E0D [0x48] [System] [7415*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0E10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0E11 [0x01] GOTO 0x0E1D
 158: 0x0E14 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0E19 [0x48] [System] [7413*]:
+159: 0x0E19 [0x48] [System] [7414*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1594,7 +1594,7 @@ SUBROUTINE_0FF4:
 
 ```
 # Dead code (unreachable instructions):
-     0x103A [0x24] CREATE_DIALOG(message_id=7071*, default_option=1*, option_flags=0*)
+     0x103A [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1041 [0x25] WAIT_DIALOG_SELECT()
      0x1042 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1050
@@ -1662,7 +1662,7 @@ SUBROUTINE_0FF4:
      0x1240 [0x1C] WAIT(120* ticks)
      0x1243 [0x46] CAMERA_CONTROL: Restore default settings
      0x1245 [0x1B] RETURN
-     0x1246 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+     0x1246 [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x124D [0x25] WAIT_DIALOG_SELECT()
      0x124E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x125C

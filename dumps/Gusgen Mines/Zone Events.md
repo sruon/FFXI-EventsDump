@@ -46,11 +46,11 @@
 |      15 | 0x0013      |          19 |
 |      16 | 0x0060      |          96 |
 |      17 | 0x00B4      |         180 |
-|      18 | 0x1CC7      |        7367 |
-|      19 | 0x1CC8      |        7368 |
+|      18 | 0x1CC8      |        7368 |
+|      19 | 0x1CC9      |        7369 |
 |      20 | 0x00F3      |         243 |
-|      21 | 0x1CC9      |        7369 |
-|      22 | 0x1CCA      |        7370 |
+|      21 | 0x1CCA      |        7370 |
+|      22 | 0x1CCB      |        7371 |
 |      23 | 0x003C      |          60 |
 |      24 | 0x00C9      |         201 |
 |      25 | 0x0095      |         149 |
@@ -292,13 +292,13 @@ SUBROUTINE_0066:
   9: 0x0127 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  10: 0x0138 [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17580387/0x010C4163), tag_num=0x02)
  11: 0x013F [0x1C] WAIT(180* ticks)
- 12: 0x0142 [0x2B] Zeid (ID: 17580387/0x010C4163) [7367*]:
+ 12: 0x0142 [0x2B] Zeid (ID: 17580387/0x010C4163) [7368*]:
     → "I see you have become quite skilled with that blade."
  13: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x014A [0x1E] EventEntity looks at Zeid (ID: 17580387/0x010C4163) and starts talking
  15: 0x014F [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17580387/0x010C4163))
  16: 0x0155 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[96*, 0*]
- 17: 0x0166 [0x2B] Zeid (ID: 17580387/0x010C4163) [7368*]:
+ 17: 0x0166 [0x2B] Zeid (ID: 17580387/0x010C4163) [7369*]:
     → "It is no longer worthy of your ability. Take this, and unleash its true power."
  18: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x016E [0x4A] Zeid (ID: 17580387/0x010C4163) looks at LocalPlayer
@@ -313,12 +313,12 @@ SUBROUTINE_0066:
  28: 0x01C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "swo1" with entities [Zeid (ID: 17580387/0x010C4163), Zeid (ID: 17580387/0x010C4163)], work=243*
  29: 0x01CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[96*, 0*]
  30: 0x01E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 31: 0x01F1 [0x2B] Zeid (ID: 17580387/0x010C4163) [7369*]:
+ 31: 0x01F1 [0x2B] Zeid (ID: 17580387/0x010C4163) [7370*]:
     → "Behold, $7, bringer of death. Grasp now the blade that hears not the cry of justice."
  32: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x01F9 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "wof4" with entities [Zeid (ID: 17580387/0x010C4163), Zeid (ID: 17580387/0x010C4163)]
  34: 0x0206 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "swo2" with entities [Zeid (ID: 17580387/0x010C4163), Zeid (ID: 17580387/0x010C4163)], work=243*
- 35: 0x0215 [0x2B] Zeid (ID: 17580387/0x010C4163) [7370*]:
+ 35: 0x0215 [0x2B] Zeid (ID: 17580387/0x010C4163) [7371*]:
     → "The battle calls upon Death...but now it calls upon you. The title that this sword bestows...can you withstand its terrible weight?"
  36: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x021D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "swo2" with entities [Zeid (ID: 17580387/0x010C4163), Zeid (ID: 17580387/0x010C4163)]

@@ -27,39 +27,39 @@
 |       0 | 0x03FA      |        1018 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x2F4C      |       12108 |
-|       4 | 0x2F4D      |       12109 |
+|       3 | 0x2F4D      |       12109 |
+|       4 | 0x2F4E      |       12110 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x2F4E      |       12110 |
-|       7 | 0x2F50      |       12112 |
+|       6 | 0x2F4F      |       12111 |
+|       7 | 0x2F51      |       12113 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x2F51      |       12113 |
-|      10 | 0x2F52      |       12114 |
-|      11 | 0x2F4F      |       12111 |
-|      12 | 0x2F53      |       12115 |
-|      13 | 0x2F54      |       12116 |
+|       9 | 0x2F52      |       12114 |
+|      10 | 0x2F53      |       12115 |
+|      11 | 0x2F50      |       12112 |
+|      12 | 0x2F54      |       12116 |
+|      13 | 0x2F55      |       12117 |
 |      14 | 0x00C9      |         201 |
-|      15 | 0x37F3      |       14323 |
+|      15 | 0x37F4      |       14324 |
 |      16 | 0x001E      |          30 |
-|      17 | 0x37F9      |       14329 |
-|      18 | 0x37FA      |       14330 |
-|      19 | 0x37FB      |       14331 |
+|      17 | 0x37FA      |       14330 |
+|      18 | 0x37FB      |       14331 |
+|      19 | 0x37FC      |       14332 |
 
 ## String References
 
-- **12108**: There's a guard in the dungeon of Chateau d'Oraguille. Have you heard what they say of him?
-- **12109**: They say he's a vampire! He dwells there perhaps to hide from the light. And there's plenty of adventurers to suck fresh blood from!
-- **12110**: I have been eating $0 just to be safe. You don't think you could bring me $1, could you? I'll pay!
-- **12111**: I still seek $1 $0 ! I cannot seem to get enough!
-- **12112**: Accept his request? [Sure./No, thanks.]
-- **12113**: What a relief! Eh? My breath a little strong for you? Well, I'll take halitosis over blood-sucking vampires any day!
-- **12114**: Pity. I'll just hope to catch you later when you're not so "busy."
-- **12115**: Those Orcish cursemakers in Davoi carry $0 sometimes. They use it as an ingredient for their spells, I hear.
-- **12116**: Ah! I can't thank you enough. Here, take this... What, my breath? It's not that bad, is it?
-- **14323**: <Player>'s badge flashes brightly.
-- **14329**: Have you heard much about the company distributing those badges?
-- **14330**: Their headquarters are in a Near Eastern town called "Al Zahbi." Rumor has it that the company president is something of a miser.
-- **14331**: What could they possibly want with San d'Oria? You may want to think twice before clipping on one of those things.
+- **12109**: There's a guard in the dungeon of Chateau d'Oraguille. Have you heard what they say of him?
+- **12110**: They say he's a vampire! He dwells there perhaps to hide from the light. And there's plenty of adventurers to suck fresh blood from!
+- **12111**: I have been eating $0 just to be safe. You don't think you could bring me $1, could you? I'll pay!
+- **12112**: I still seek $1 $0 ! I cannot seem to get enough!
+- **12113**: Accept his request? [Sure./No, thanks.]
+- **12114**: What a relief! Eh? My breath a little strong for you? Well, I'll take halitosis over blood-sucking vampires any day!
+- **12115**: Pity. I'll just hope to catch you later when you're not so "busy."
+- **12116**: Those Orcish cursemakers in Davoi carry $0 sometimes. They use it as an ingredient for their spells, I hear.
+- **12117**: Ah! I can't thank you enough. Here, take this... What, my breath? It's not that bad, is it?
+- **14324**: <Player>'s badge flashes brightly.
+- **14330**: Have you heard much about the company distributing those badges?
+- **14331**: Their headquarters are in a Near Eastern town called "Al Zahbi." Rumor has it that the company president is something of a miser.
+- **14332**: What could they possibly want with San d'Oria? You may want to think twice before clipping on one of those things.
 
 ## Events
 
@@ -112,10 +112,10 @@
   1: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0012 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
+  4: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "There's a guard in the dungeon of Chateau d'Oraguille. Have you heard what they say of him?"
   5: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+  6: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "They say he's a vampire! He dwells there perhaps to hide from the light. And there's plenty of adventurers to suck fresh blood from!"
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -155,35 +155,35 @@
   4: 0x003E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x003F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   6: 0x004E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0096
-  7: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=12108*)
+  7: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
     → "There's a guard in the dungeon of Chateau d'Oraguille. Have you heard what they say of him?"
   8: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=12109*)
+  9: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
     → "They say he's a vampire! He dwells there perhaps to hide from the light. And there's plenty of adventurers to suck fresh blood from!"
  10: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=12110*)
+ 11: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=12111*)
     → "I have been eating $0 just to be safe. You don't think you could bring me $1, could you? I'll pay!"
  12: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0062 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 14: 0x0067 [0x24] CREATE_DIALOG(message_id=12112*, default_option=1*, option_flags=0*)
+ 14: 0x0067 [0x24] CREATE_DIALOG(message_id=12113*, default_option=1*, option_flags=0*)
     → "Accept his request? [Sure./No, thanks.]"
  15: 0x006E [0x25] WAIT_DIALOG_SELECT()
  16: 0x006F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0084
  17: 0x0077 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 18: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
+ 18: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
     → "What a relief! Eh? My breath a little strong for you? Well, I'll take halitosis over blood-sucking vampires any day!"
  19: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x007C [0x03] Work_Zone[1] = 1*
  21: 0x0081 [0x01] GOTO 0x0093
  22: 0x0084 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0093
- 23: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
+ 23: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=12115*)
     → "Pity. I'll just hope to catch you later when you're not so "busy.""
  24: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0090 [0x01] GOTO 0x0093
 
 SUBROUTINE_0093:
  26: 0x0093 [0x01] GOTO 0x009A
- 27: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=12111*)
+ 27: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
     → "I still seek $1 $0 ! I cannot seem to get enough!"
  28: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -215,7 +215,7 @@ SUBROUTINE_009A:
   0: 0x009C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12115*)
+  3: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
     → "Those Orcish cursemakers in Davoi carry $0 sometimes. They use it as an ingredient for their spells, I hear."
   4: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00A7 [0x21] END_EVENT
@@ -248,7 +248,7 @@ SUBROUTINE_009A:
   2: 0x00AC [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12116*)
+  5: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12117*)
     → "Ah! I can't thank you enough. Here, take this... What, my breath? It's not that bad, is it?"
   6: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -280,18 +280,18 @@ SUBROUTINE_009A:
 
 ```
   0: 0x00CA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00CB [0x48] [System] [14323*]:
+  1: 0x00CB [0x48] [System] [14324*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00CE [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00D3 [0x1C] WAIT(30* ticks)
-  4: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
+  4: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
     → "Have you heard much about the company distributing those badges?"
   5: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
+  7: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
     → "Their headquarters are in a Near Eastern town called "Al Zahbi." Rumor has it that the company president is something of a miser."
   8: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
+  9: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
     → "What could they possibly want with San d'Oria? You may want to think twice before clipping on one of those things."
  10: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

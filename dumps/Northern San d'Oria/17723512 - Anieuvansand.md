@@ -32,13 +32,13 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C6E      |        7278 |
-|       4 | 0x1C6F      |        7279 |
+|       3 | 0x1C6F      |        7279 |
+|       4 | 0x1C70      |        7280 |
 
 ## String References
 
-- **7278**: Always take care of your sword, the body that wields it, and the spirit that guides them!
-- **7279**: Whether you lose your sword or lose your arm, never quit while you still have fight left in you!
+- **7279**: Always take care of your sword, the body that wields it, and the spirit that guides them!
+- **7280**: Whether you lose your sword or lose your arm, never quit while you still have fight left in you!
 
 ## Events
 
@@ -307,10 +307,10 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Anieuvansand (ID: 17723512/0x010E7078), tag_num=0x01)
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
     → "Always take care of your sword, the body that wields it, and the spirit that guides them!"
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "Whether you lose your sword or lose your arm, never quit while you still have fight left in you!"
   7: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Anieuvansand (ID: 17723512/0x010E7078), tag_num=0x02)

@@ -39,7 +39,7 @@
 |       3 | 0xFFFE80D7  |  4294869207 |
 |       4 | 0x0399      |         921 |
 |       5 | 0x0C26      |        3110 |
-|       6 | 0x130C      |        4876 |
+|       6 | 0x130D      |        4877 |
 |       7 | 0xFFFFFFDD  |  4294967261 |
 |       8 | 0xFFFFE5FE  |  4294960638 |
 |       9 | 0xFFFFFB8E  |  4294966158 |
@@ -57,7 +57,7 @@
 
 ## String References
 
-- **4876**: DEBUG: Press a button to continue.
+- **4877**: DEBUG: Press a button to continue.
 
 ## Events
 
@@ -183,7 +183,7 @@
 
 ```
   0: 0x0040 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0045 [0x48] [System] [4876*]:
+  1: 0x0045 [0x48] [System] [4877*]:
     → "DEBUG: Press a button to continue."
   2: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0049 [0x21] END_EVENT
@@ -211,7 +211,7 @@
 
 ```
   0: 0x004B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0050 [0x48] [System] [4876*]:
+  1: 0x0050 [0x48] [System] [4877*]:
     → "DEBUG: Press a button to continue."
   2: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0054 [0x21] END_EVENT
@@ -239,7 +239,7 @@
 
 ```
   0: 0x0056 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x005B [0x48] [System] [4876*]:
+  1: 0x005B [0x48] [System] [4877*]:
     → "DEBUG: Press a button to continue."
   2: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x005F [0x21] END_EVENT
@@ -266,7 +266,7 @@
 
 ```
   0: 0x0061 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0066 [0x48] [System] [4876*]:
+  1: 0x0066 [0x48] [System] [4877*]:
     → "DEBUG: Press a button to continue."
   2: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x006A [0x21] END_EVENT

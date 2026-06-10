@@ -22,38 +22,38 @@
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
 |       1 | 0x0032      |          50 |
-|       2 | 0x1E95      |        7829 |
-|       3 | 0x1E96      |        7830 |
+|       2 | 0x1E96      |        7830 |
+|       3 | 0x1E97      |        7831 |
 |       4 | 0x0028      |          40 |
-|       5 | 0x1E93      |        7827 |
-|       6 | 0x1E94      |        7828 |
+|       5 | 0x1E94      |        7828 |
+|       6 | 0x1E95      |        7829 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1E91      |        7825 |
-|       9 | 0x1E92      |        7826 |
-|      10 | 0x1E8F      |        7823 |
-|      11 | 0x1E90      |        7824 |
+|       8 | 0x1E92      |        7826 |
+|       9 | 0x1E93      |        7827 |
+|      10 | 0x1E90      |        7824 |
+|      11 | 0x1E91      |        7825 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x1E8D      |        7821 |
-|      14 | 0x1E8E      |        7822 |
-|      15 | 0x1E8A      |        7818 |
-|      16 | 0x1E8B      |        7819 |
-|      17 | 0x1E8C      |        7820 |
+|      13 | 0x1E8E      |        7822 |
+|      14 | 0x1E8F      |        7823 |
+|      15 | 0x1E8B      |        7819 |
+|      16 | 0x1E8C      |        7820 |
+|      17 | 0x1E8D      |        7821 |
 
 ## String References
 
-- **7818**: Hmm... <Player>, you say? No, never heard that name.
-- **7819**: But do good for the survivors, and they shall come to know you.
-- **7820**: Once you have their trust, they will more readily turn to you for help. Just keep your head down, and your day shall come.
-- **7821**: <Player>...? Hmm... I might have heard that name before. Then again, maybe not.
-- **7822**: You are not yet famous. Keep your nose to the grindstone and do your part for the people. Soon, they will know you better!
-- **7823**: Ah, <Player>. That is a name I often hear. People speak well of you!
-- **7824**: Your deeds for the folk battling here have earned you much honor.
-- **7825**: <Player>! You have become well known in these parts!
-- **7826**: I hear much of your accomplishments. Keep up the good work, and greatness lies in your future.
-- **7827**: Ah, <Player>! You are famous among the community of survivors!
-- **7828**: Of you no ill is spoken. Give to the community and it will give to you, no?
-- **7829**: <Player>! I would venture that most who've taken refuge in the plateau have heard your name!
-- **7830**: And your reputation sparkles. Indeed I am proud of you. And to think I first knew you when first you came to us!
+- **7819**: Hmm... <Player>, you say? No, never heard that name.
+- **7820**: But do good for the survivors, and they shall come to know you.
+- **7821**: Once you have their trust, they will more readily turn to you for help. Just keep your head down, and your day shall come.
+- **7822**: <Player>...? Hmm... I might have heard that name before. Then again, maybe not.
+- **7823**: You are not yet famous. Keep your nose to the grindstone and do your part for the people. Soon, they will know you better!
+- **7824**: Ah, <Player>. That is a name I often hear. People speak well of you!
+- **7825**: Your deeds for the folk battling here have earned you much honor.
+- **7826**: <Player>! You have become well known in these parts!
+- **7827**: I hear much of your accomplishments. Keep up the good work, and greatness lies in your future.
+- **7828**: Ah, <Player>! You are famous among the community of survivors!
+- **7829**: Of you no ill is spoken. Give to the community and it will give to you, no?
+- **7830**: <Player>! I would venture that most who've taken refuge in the plateau have heard your name!
+- **7831**: And your reputation sparkles. Indeed I am proud of you. And to think I first knew you when first you came to us!
 
 ## Events
 
@@ -112,52 +112,52 @@
   3: 0x000C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   5: 0x001C [0x02] IF !(ExtData[1]->WorkLocal[0] < 50*) GOTO 0x002F
-  6: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+  6: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "<Player>! I would venture that most who've taken refuge in the plateau have heard your name!"
   7: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  8: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "And your reputation sparkles. Indeed I am proud of you. And to think I first knew you when first you came to us!"
   9: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002C [0x01] GOTO 0x0087
  11: 0x002F [0x02] IF !(ExtData[1]->WorkLocal[0] < 40*) GOTO 0x0042
- 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
+ 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
     → "Ah, <Player>! You are famous among the community of survivors!"
  13: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7828*)
+ 14: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
     → "Of you no ill is spoken. Give to the community and it will give to you, no?"
  15: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x003F [0x01] GOTO 0x0087
  17: 0x0042 [0x02] IF !(ExtData[1]->WorkLocal[0] < 30*) GOTO 0x0055
- 18: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+ 18: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "<Player>! You have become well known in these parts!"
  19: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
+ 20: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=7827*)
     → "I hear much of your accomplishments. Keep up the good work, and greatness lies in your future."
  21: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0052 [0x01] GOTO 0x0087
  23: 0x0055 [0x02] IF !(ExtData[1]->WorkLocal[0] < 20*) GOTO 0x0068
- 24: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
+ 24: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
     → "Ah, <Player>. That is a name I often hear. People speak well of you!"
  25: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
+ 26: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
     → "Your deeds for the folk battling here have earned you much honor."
  27: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0065 [0x01] GOTO 0x0087
  29: 0x0068 [0x02] IF !(ExtData[1]->WorkLocal[0] < 10*) GOTO 0x007B
- 30: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+ 30: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
     → "<Player>...? Hmm... I might have heard that name before. Then again, maybe not."
  31: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
+ 32: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
     → "You are not yet famous. Keep your nose to the grindstone and do your part for the people. Soon, they will know you better!"
  33: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0078 [0x01] GOTO 0x0087
- 35: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
+ 35: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
     → "Hmm... <Player>, you say? No, never heard that name."
  36: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
+ 37: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
     → "But do good for the survivors, and they shall come to know you."
  38: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
+ 39: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "Once you have their trust, they will more readily turn to you for help. Just keep your head down, and your day shall come."
  40: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

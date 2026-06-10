@@ -59,56 +59,56 @@
 |      13 | 0x027B      |         635 |
 |      14 | 0x00F0      |         240 |
 |      15 | 0x05FA      |        1530 |
-|      16 | 0x2790      |       10128 |
+|      16 | 0x2791      |       10129 |
 |      17 | 0x0320      |         800 |
 |      18 | 0x005A      |          90 |
 |      19 | 0x001E      |          30 |
-|      20 | 0x2791      |       10129 |
+|      20 | 0x2792      |       10130 |
 |      21 | 0x0B95      |        2965 |
 |      22 | 0x00B4      |         180 |
-|      23 | 0x2792      |       10130 |
+|      23 | 0x2793      |       10131 |
 |      24 | 0x0BE1      |        3041 |
-|      25 | 0x2793      |       10131 |
+|      25 | 0x2794      |       10132 |
 |      26 | 0x0032      |          50 |
-|      27 | 0x2794      |       10132 |
-|      28 | 0x2795      |       10133 |
+|      27 | 0x2795      |       10133 |
+|      28 | 0x2796      |       10134 |
 |      29 | 0x0039      |          57 |
-|      30 | 0x2796      |       10134 |
+|      30 | 0x2797      |       10135 |
 |      31 | 0x0005      |           5 |
 |      32 | 0x0006      |           6 |
 |      33 | 0x052F      |        1327 |
-|      34 | 0x2797      |       10135 |
-|      35 | 0x2798      |       10136 |
+|      34 | 0x2798      |       10136 |
+|      35 | 0x2799      |       10137 |
 |      36 | 0x05F9      |        1529 |
 |      37 | 0x0078      |         120 |
-|      38 | 0x2799      |       10137 |
+|      38 | 0x279A      |       10138 |
 |      39 | 0x003B      |          59 |
-|      40 | 0x279A      |       10138 |
+|      40 | 0x279B      |       10139 |
 |      41 | 0x0364      |         868 |
-|      42 | 0x279B      |       10139 |
+|      42 | 0x279C      |       10140 |
 |      43 | 0x00C7      |         199 |
-|      44 | 0x279C      |       10140 |
-|      45 | 0x279D      |       10141 |
-|      46 | 0x279E      |       10142 |
-|      47 | 0x279F      |       10143 |
-|      48 | 0x27A0      |       10144 |
-|      49 | 0x27A1      |       10145 |
-|      50 | 0x27A2      |       10146 |
-|      51 | 0x27A3      |       10147 |
+|      44 | 0x279D      |       10141 |
+|      45 | 0x279E      |       10142 |
+|      46 | 0x279F      |       10143 |
+|      47 | 0x27A0      |       10144 |
+|      48 | 0x27A1      |       10145 |
+|      49 | 0x27A2      |       10146 |
+|      50 | 0x27A3      |       10147 |
+|      51 | 0x27A4      |       10148 |
 |      52 | 0x007C      |         124 |
-|      53 | 0x27A9      |       10153 |
-|      54 | 0x27AA      |       10154 |
+|      53 | 0x27AA      |       10154 |
+|      54 | 0x27AB      |       10155 |
 |      55 | 0x0002      |           2 |
-|      56 | 0x27AB      |       10155 |
-|      57 | 0x27AC      |       10156 |
-|      58 | 0x27AD      |       10157 |
+|      56 | 0x27AC      |       10156 |
+|      57 | 0x27AD      |       10157 |
+|      58 | 0x27AE      |       10158 |
 |      59 | 0x0600      |        1536 |
 |      60 | 0xFFFF8A03  |  4294937091 |
 |      61 | 0xFFFE81E4  |  4294869476 |
-|      62 | 0x27A8      |       10152 |
+|      62 | 0x27A9      |       10153 |
 |      63 | 0x001A      |          26 |
-|      64 | 0x2817      |       10263 |
-|      65 | 0x2818      |       10264 |
+|      64 | 0x2818      |       10264 |
+|      65 | 0x2819      |       10265 |
 |      66 | 0x0028      |          40 |
 |      67 | 0x16378     |       91000 |
 |      68 | 0xFFFE29E2  |  4294846946 |
@@ -116,12 +116,12 @@
 |      70 | 0x16184     |       90500 |
 |      71 | 0xFFFE2B40  |  4294847296 |
 |      72 | 0x1123      |        4387 |
-|      73 | 0x27A4      |       10148 |
+|      73 | 0x27A5      |       10149 |
 |      74 | 0x1713      |        5907 |
-|      75 | 0x27A5      |       10149 |
+|      75 | 0x27A6      |       10150 |
 |      76 | 0x0384      |         900 |
-|      77 | 0x27A6      |       10150 |
-|      78 | 0x27A7      |       10151 |
+|      77 | 0x27A7      |       10151 |
+|      78 | 0x27A8      |       10152 |
 |      79 | 0xFFFFFE01  |  4294966785 |
 |      80 | 0x1192      |        4498 |
 |      81 | 0x11D0      |        4560 |
@@ -129,94 +129,94 @@
 |      83 | 0x15E0      |        5600 |
 |      84 | 0x175E      |        5982 |
 |      85 | 0x1AB0      |        6832 |
-|      86 | 0x2852      |       10322 |
+|      86 | 0x2853      |       10323 |
 |      87 | 0x1701      |        5889 |
 |      88 | 0x4BF0      |       19440 |
 |      89 | 0x141B      |        5147 |
 |      90 | 0x0BB8      |        3000 |
-|      91 | 0x2853      |       10323 |
-|      92 | 0x2854      |       10324 |
+|      91 | 0x2854      |       10324 |
+|      92 | 0x2855      |       10325 |
 |      93 | 0x9A08      |       39432 |
-|      94 | 0x2855      |       10325 |
+|      94 | 0x2856      |       10326 |
 |      95 | 0x000F      |          15 |
 |      96 | 0x080D      |        2061 |
 |      97 | 0x0009      |           9 |
 |      98 | 0x0069      |         105 |
-|      99 | 0x2856      |       10326 |
-|     100 | 0x2857      |       10327 |
+|      99 | 0x2857      |       10327 |
+|     100 | 0x2858      |       10328 |
 |     101 | 0x02FF      |         767 |
-|     102 | 0x2858      |       10328 |
-|     103 | 0x2859      |       10329 |
-|     104 | 0x285A      |       10330 |
+|     102 | 0x2859      |       10329 |
+|     103 | 0x285A      |       10330 |
+|     104 | 0x285B      |       10331 |
 |     105 | 0x0906      |        2310 |
-|     106 | 0x285B      |       10331 |
-|     107 | 0x285C      |       10332 |
-|     108 | 0x285D      |       10333 |
-|     109 | 0x285E      |       10334 |
-|     110 | 0x285F      |       10335 |
-|     111 | 0x2860      |       10336 |
-|     112 | 0x2861      |       10337 |
+|     106 | 0x285C      |       10332 |
+|     107 | 0x285D      |       10333 |
+|     108 | 0x285E      |       10334 |
+|     109 | 0x285F      |       10335 |
+|     110 | 0x2860      |       10336 |
+|     111 | 0x2861      |       10337 |
+|     112 | 0x2862      |       10338 |
 |     113 | 0x0064      |         100 |
 |     114 | 0x000D      |          13 |
 |     115 | 0xFFFF8F48  |  4294938440 |
 |     116 | 0xFFFE8782  |  4294870914 |
 |     117 | 0xFFFF8BEF  |  4294937583 |
 |     118 | 0xFFFE8B25  |  4294871845 |
-|     119 | 0x2862      |       10338 |
-|     120 | 0x2863      |       10339 |
-|     121 | 0x2864      |       10340 |
-|     122 | 0x2865      |       10341 |
+|     119 | 0x2863      |       10339 |
+|     120 | 0x2864      |       10340 |
+|     121 | 0x2865      |       10341 |
+|     122 | 0x2866      |       10342 |
 |     123 | 0x0015      |          21 |
-|     124 | 0x2866      |       10342 |
-|     125 | 0x2867      |       10343 |
+|     124 | 0x2867      |       10343 |
+|     125 | 0x2868      |       10344 |
 |     126 | 0xF4D3      |       62675 |
 |     127 | 0x1E061     |      122977 |
 |     128 | 0x7D00      |       32000 |
 |     129 | 0x0096      |         150 |
-|     130 | 0x2868      |       10344 |
+|     130 | 0x2869      |       10345 |
 |     131 | 0x0020      |          32 |
-|     132 | 0x2869      |       10345 |
-|     133 | 0x2874      |       10356 |
+|     132 | 0x286A      |       10346 |
+|     133 | 0x2875      |       10357 |
 |     134 | 0x095C      |        2396 |
-|     135 | 0x2870      |       10352 |
+|     135 | 0x2871      |       10353 |
 |     136 | 0x095D      |        2397 |
-|     137 | 0x2871      |       10353 |
-|     138 | 0x2872      |       10354 |
+|     137 | 0x2872      |       10354 |
+|     138 | 0x2873      |       10355 |
 |     139 | 0x027C      |         636 |
-|     140 | 0x2873      |       10355 |
-|     141 | 0x28D6      |       10454 |
-|     142 | 0x28D7      |       10455 |
+|     140 | 0x2874      |       10356 |
+|     141 | 0x28D7      |       10455 |
+|     142 | 0x28D8      |       10456 |
 |     143 | 0xFFFF8B98  |  4294937496 |
 |     144 | 0xFFFE8AF4  |  4294871796 |
 |     145 | 0x028A      |         650 |
-|     146 | 0x29DA      |       10714 |
-|     147 | 0x29DB      |       10715 |
-|     148 | 0x29DC      |       10716 |
+|     146 | 0x29DB      |       10715 |
+|     147 | 0x29DC      |       10716 |
+|     148 | 0x29DD      |       10717 |
 |     149 | 0x16292     |       90770 |
 |     150 | 0xFFFE311C  |  4294848796 |
 |     151 | 0x0004      |           4 |
-|     152 | 0x29DD      |       10717 |
+|     152 | 0x29DE      |       10718 |
 |     153 | 0x2710      |       10000 |
-|     154 | 0x29DE      |       10718 |
-|     155 | 0x29DF      |       10719 |
+|     154 | 0x29DF      |       10719 |
+|     155 | 0x29E0      |       10720 |
 |     156 | 0x6B87      |       27527 |
 |     157 | 0x6B88      |       27528 |
 |     158 | 0x6B89      |       27529 |
 |     159 | 0x6B8A      |       27530 |
 |     160 | 0x0003      |           3 |
-|     161 | 0x29E0      |       10720 |
-|     162 | 0x29E1      |       10721 |
-|     163 | 0x29E2      |       10722 |
-|     164 | 0x29E3      |       10723 |
+|     161 | 0x29E1      |       10721 |
+|     162 | 0x29E2      |       10722 |
+|     163 | 0x29E3      |       10723 |
+|     164 | 0x29E4      |       10724 |
 |     165 | 0xC350      |       50000 |
-|     166 | 0x29E7      |       10727 |
-|     167 | 0x29E6      |       10726 |
-|     168 | 0x29EB      |       10731 |
-|     169 | 0x29E4      |       10724 |
-|     170 | 0x29E8      |       10728 |
-|     171 | 0x29E9      |       10729 |
-|     172 | 0x29EA      |       10730 |
-|     173 | 0x29E5      |       10725 |
+|     166 | 0x29E8      |       10728 |
+|     167 | 0x29E7      |       10727 |
+|     168 | 0x29EC      |       10732 |
+|     169 | 0x29E5      |       10725 |
+|     170 | 0x29E9      |       10729 |
+|     171 | 0x29EA      |       10730 |
+|     172 | 0x29EB      |       10731 |
+|     173 | 0x29E6      |       10726 |
 |     174 | 0x0008      |           8 |
 |     175 | 0x0019      |          25 |
 |     176 | 0x9E34      |       40500 |
@@ -227,80 +227,80 @@
 
 ## String References
 
-- **10128**: I can't believe it! That flop of a duo causes prrroblem after problem and sucks all the life out of the room--and now they're late!
-- **10129**: I hirrred them to serve as novice entertainers for those from the Middle Lands, and no one crrracks so much as a smile.
-- **10130**: Forrrget making a quick bit of catnip--I can't even rrrecoup my investment!
-- **10131**: No, it's my own fault for brrringing them here in the first place.
-- **10132**: I've got to unearth those dolts before they get into even more trrrouble!
-- **10133**: On top of it all, their managerrr quits, leaving me to play a game of cat and mouse. They're so off-kilter I might need to call in a favor from the Order of Thurandaut! Maybe get me a raptorrr or two.
-- **10134**: Rrraptors? No, I need something with hands...
-- **10135**: Oh-ho! Another visitor, I see. Here to apply to be a purrrformer?
-- **10136**: (<Sigh> With that grrrim look on [his/her] face, [he'd/she'd] just scare the audience away. Oh, Altana, why can't you bring me some real talent?)
-- **10137**: So, what is it you do, then? Crrroak out a tune? Two-left-feet your way to miserrry? Just don't tell me you're going to bring the house crashing down with your "jokes"!
-- **10138**: So that must mean that... You want to be a managerrr!
-- **10139**: We'd be just tickled pink to have you! (Yes, yes...this is a golden opportunity for success. I must rope [him/her] in before [he/she] rrrealizes what [he's/she's] getting into...)
-- **10140**: Well, you're in for a bit of luck! We have a chance opening for a new managerrr...something that only happens once every few yearrrs.
-- **10141**: Of course, there's a bit of a grrrooming period first, but I can see in your eyes that you're a lion of a worker!
-- **10142**: But I've skipped over the self-intrrroduction, haven't I? My name is Peladi Shalmohr.
-- **10143**: And you?
-- **10144**: <Player>? A name befitting one with your flairrr, to be sure.
-- **10145**: So let's get starrrted right away, hmm? Money doesn't make itself!
-- **10146**: [Good to go?/Ready to hit it off?] [You bet!/Um, no?/Manager? Me? Uhhh...]
-- **10147**: Outstanding! Your firrrst duty as manager is to find our newest "comedians"-in-training: Tarutaru Sauce.
-- **10148**: How will you rrrecognize them? Well, one has hair shaped like $0.
-- **10149**: And the otherrr's hair looks like rotten $0.
-- **10150**: Well, together they're like $0. They've got heads, but nothing to fill them.
-- **10151**: What are you standing arrround for? Pounce to it! (For the love of all that is sacrrred, find them before they cause more trouble...)
-- **10152**: You forgot what they looked like already? <Sigh> Let me rrrun it by you once more.
-- **10153**: Now listen good: there's only room for one managerrr, and if you can't perform your duties, there's a whole legion of people who're willing to take your place!
-- **10154**: <Player>, you were borrrn to be a manager! I can feel it in my tail! Rrready to make a splash in the entertainment world?
-- **10155**: (Come on, come on...I can't let this fish slip through my paws...!)
-- **10156**: The best part of being the top cat is the fame and forrrtune that comes with success!
-- **10157**: This is a unique opportunity for you. You'd never forgive yourself if you let it slip from your grrrasp!
-- **10263**: <Mutter> With those two running around, I can't even focus on my worrrk...
-- **10264**: <Player>! Don't forrrget the most important task at hand--keep Tarutaru Sauce out of trouble, or your days as an apprentice manager are numbered!
-- **10322**: $0...$1 gil... $2...$3 gil... $4...$5 gil...
-- **10323**: $0...$1 gil... $2...$3 gil...
-- **10324**: Masad, you good-for-nothing currr! Just how much is it!?
-- **10326**: $0 gil!? Are you kidding me!?
-- **10327**: <Player>, get over here!
-- **10328**: Tell me, "[Mr./Ms.] Managerrr"...just what do you think the gil we're talking about is for?
-- **10329**: What is the money for? [I haven't the foggiest./My salary!/Do you mean to tell me...]
-- **10330**: Your extrrreme honesty is so refreshing...
-- **10331**: ...Not in your wildest drrreams!
-- **10332**: You're as unfathomably stupid as a mouse repeatedly caught in the same trrrap!
-- **10333**: As impudent as you are ugly, I see. I have to say, I like your gumption...
-- **10334**: Did you forget that you're at the bottom of this scrrratching post!? You'll get no pay until you've shown you're not totally useless!
-- **10335**: Oh? You think you have an idea of what the money's for? You rrreally catch on quick, don't you? You must even think I'm impressed.
-- **10336**: Stop prrretending that your head is filled with something other than cobwebs!
-- **10337**: Tarutaru Sauce--that's right, your Tarutaru Sauce--has been rrrunning up a tab at vendors all throughout the city--and this is their total bill!
-- **10338**: Those bumbling morrrons spend all their time eating their way throughout the city, but mysteriously "never-wever have time for work."
-- **10339**: It's all because a certain someone hasn't been managing them prrroperly. Now, who do you think that could be?
-- **10340**: That's rrright, <Player>, you! All this is your fault!
-- **10341**: Paying their tab is your rrresponsibility!
-- **10342**: Why're you still standing around here like a dead trrree in Yorcia Weald!? Hurry up before they rrrack up more expenses, you lazy good-for-nothing!
-- **10343**: <Sigh> Even that rrravenous Galka acquaintance of mine doesn't inhale as much as those two...
-- **10352**: What do you mean, "I don't know where to go"? You've got the invoice rrright in front of you! Now get crrracking before the coalition collapses under the weight of their collective behinds!
-- **10353**: You handed over the $3 and the $3.
-- **10354**: Finally finished, are we?
-- **10355**: Well? Stop flounderrring about here and find those two idiots!
-- **10356**: Get your rrrear in gear and catch those fools before it's too late!
-- **10454**: Haven't you done enough ogling for one day!? Get out there and make sure Tarutaru Sauce isn't wrrreaking havoc throughout the city!
-- **10455**: Owwwwww... Those fools made me thrrrow my back out!
-- **10714**: Looking for Tarutaru Sauce? Can't say I've seen those two crrretins around lately.
-- **10715**: But isn't that your job? Hmmmmmmmmm?
-- **10716**: I suppose it'd be too much to ask for them to have boarrrded the last ship bound for Windurst.
-- **10717**: <Sigh> You're undoubtedly herrre for your Mummers' Coalition signet, so I'll give you a choice of four.
-- **10718**: Choose wisely, as if you want anotherrr one I'll charge you a handling fee of $0 bayld.
-- **10719**: But such precious signets take a fair bit of time to fashion, so you may need to wait a tad in between trrransactions.
-- **10723**: Listen carefully. This is a prrrized artifact of the Order of Thurandaut. Losing it could be considered a grievous breach of contract.
-- **10724**: Here for a new signet? Well...you'll need to trrrade the old one to me.
-- **10725**: So? Which signet you in the business for?
-- **10727**: Don't try to bamboozle me! That's not enough bayld!
-- **10728**: Ugh! How could you go about losing your signet!? You're lucky I don't brrring Maester Flaviria out here to give you a tongue-lashing!
-- **10729**: Normally it would spell the end of your dead-on-the-vine careerrr... But I'll let it pass--this time.
-- **10730**: Don't think I'll give it away for a song and a dance. I'll need a fee of $0 bayld.
-- **10731**: And what do you want? You've gotta wait a little while to exchange your signet.[/ And don't tell me you've lost the old one!]
+- **10129**: I can't believe it! That flop of a duo causes prrroblem after problem and sucks all the life out of the room--and now they're late!
+- **10130**: I hirrred them to serve as novice entertainers for those from the Middle Lands, and no one crrracks so much as a smile.
+- **10131**: Forrrget making a quick bit of catnip--I can't even rrrecoup my investment!
+- **10132**: No, it's my own fault for brrringing them here in the first place.
+- **10133**: I've got to unearth those dolts before they get into even more trrrouble!
+- **10134**: On top of it all, their managerrr quits, leaving me to play a game of cat and mouse. They're so off-kilter I might need to call in a favor from the Order of Thurandaut! Maybe get me a raptorrr or two.
+- **10135**: Rrraptors? No, I need something with hands...
+- **10136**: Oh-ho! Another visitor, I see. Here to apply to be a purrrformer?
+- **10137**: (<Sigh> With that grrrim look on [his/her] face, [he'd/she'd] just scare the audience away. Oh, Altana, why can't you bring me some real talent?)
+- **10138**: So, what is it you do, then? Crrroak out a tune? Two-left-feet your way to miserrry? Just don't tell me you're going to bring the house crashing down with your "jokes"!
+- **10139**: So that must mean that... You want to be a managerrr!
+- **10140**: We'd be just tickled pink to have you! (Yes, yes...this is a golden opportunity for success. I must rope [him/her] in before [he/she] rrrealizes what [he's/she's] getting into...)
+- **10141**: Well, you're in for a bit of luck! We have a chance opening for a new managerrr...something that only happens once every few yearrrs.
+- **10142**: Of course, there's a bit of a grrrooming period first, but I can see in your eyes that you're a lion of a worker!
+- **10143**: But I've skipped over the self-intrrroduction, haven't I? My name is Peladi Shalmohr.
+- **10144**: And you?
+- **10145**: <Player>? A name befitting one with your flairrr, to be sure.
+- **10146**: So let's get starrrted right away, hmm? Money doesn't make itself!
+- **10147**: [Good to go?/Ready to hit it off?] [You bet!/Um, no?/Manager? Me? Uhhh...]
+- **10148**: Outstanding! Your firrrst duty as manager is to find our newest "comedians"-in-training: Tarutaru Sauce.
+- **10149**: How will you rrrecognize them? Well, one has hair shaped like $0.
+- **10150**: And the otherrr's hair looks like rotten $0.
+- **10151**: Well, together they're like $0. They've got heads, but nothing to fill them.
+- **10152**: What are you standing arrround for? Pounce to it! (For the love of all that is sacrrred, find them before they cause more trouble...)
+- **10153**: You forgot what they looked like already? <Sigh> Let me rrrun it by you once more.
+- **10154**: Now listen good: there's only room for one managerrr, and if you can't perform your duties, there's a whole legion of people who're willing to take your place!
+- **10155**: <Player>, you were borrrn to be a manager! I can feel it in my tail! Rrready to make a splash in the entertainment world?
+- **10156**: (Come on, come on...I can't let this fish slip through my paws...!)
+- **10157**: The best part of being the top cat is the fame and forrrtune that comes with success!
+- **10158**: This is a unique opportunity for you. You'd never forgive yourself if you let it slip from your grrrasp!
+- **10264**: <Mutter> With those two running around, I can't even focus on my worrrk...
+- **10265**: <Player>! Don't forrrget the most important task at hand--keep Tarutaru Sauce out of trouble, or your days as an apprentice manager are numbered!
+- **10323**: $0...$1 gil... $2...$3 gil... $4...$5 gil...
+- **10324**: $0...$1 gil... $2...$3 gil...
+- **10325**: Masad, you good-for-nothing currr! Just how much is it!?
+- **10327**: $0 gil!? Are you kidding me!?
+- **10328**: <Player>, get over here!
+- **10329**: Tell me, "[Mr./Ms.] Managerrr"...just what do you think the gil we're talking about is for?
+- **10330**: What is the money for? [I haven't the foggiest./My salary!/Do you mean to tell me...]
+- **10331**: Your extrrreme honesty is so refreshing...
+- **10332**: ...Not in your wildest drrreams!
+- **10333**: You're as unfathomably stupid as a mouse repeatedly caught in the same trrrap!
+- **10334**: As impudent as you are ugly, I see. I have to say, I like your gumption...
+- **10335**: Did you forget that you're at the bottom of this scrrratching post!? You'll get no pay until you've shown you're not totally useless!
+- **10336**: Oh? You think you have an idea of what the money's for? You rrreally catch on quick, don't you? You must even think I'm impressed.
+- **10337**: Stop prrretending that your head is filled with something other than cobwebs!
+- **10338**: Tarutaru Sauce--that's right, your Tarutaru Sauce--has been rrrunning up a tab at vendors all throughout the city--and this is their total bill!
+- **10339**: Those bumbling morrrons spend all their time eating their way throughout the city, but mysteriously "never-wever have time for work."
+- **10340**: It's all because a certain someone hasn't been managing them prrroperly. Now, who do you think that could be?
+- **10341**: That's rrright, <Player>, you! All this is your fault!
+- **10342**: Paying their tab is your rrresponsibility!
+- **10343**: Why're you still standing around here like a dead trrree in Yorcia Weald!? Hurry up before they rrrack up more expenses, you lazy good-for-nothing!
+- **10344**: <Sigh> Even that rrravenous Galka acquaintance of mine doesn't inhale as much as those two...
+- **10353**: What do you mean, "I don't know where to go"? You've got the invoice rrright in front of you! Now get crrracking before the coalition collapses under the weight of their collective behinds!
+- **10354**: You handed over the $3 and the $3.
+- **10355**: Finally finished, are we?
+- **10356**: Well? Stop flounderrring about here and find those two idiots!
+- **10357**: Get your rrrear in gear and catch those fools before it's too late!
+- **10455**: Haven't you done enough ogling for one day!? Get out there and make sure Tarutaru Sauce isn't wrrreaking havoc throughout the city!
+- **10456**: Owwwwww... Those fools made me thrrrow my back out!
+- **10715**: Looking for Tarutaru Sauce? Can't say I've seen those two crrretins around lately.
+- **10716**: But isn't that your job? Hmmmmmmmmm?
+- **10717**: I suppose it'd be too much to ask for them to have boarrrded the last ship bound for Windurst.
+- **10718**: <Sigh> You're undoubtedly herrre for your Mummers' Coalition signet, so I'll give you a choice of four.
+- **10719**: Choose wisely, as if you want anotherrr one I'll charge you a handling fee of $0 bayld.
+- **10720**: But such precious signets take a fair bit of time to fashion, so you may need to wait a tad in between trrransactions.
+- **10724**: Listen carefully. This is a prrrized artifact of the Order of Thurandaut. Losing it could be considered a grievous breach of contract.
+- **10725**: Here for a new signet? Well...you'll need to trrrade the old one to me.
+- **10726**: So? Which signet you in the business for?
+- **10728**: Don't try to bamboozle me! That's not enough bayld!
+- **10729**: Ugh! How could you go about losing your signet!? You're lucky I don't brrring Maester Flaviria out here to give you a tongue-lashing!
+- **10730**: Normally it would spell the end of your dead-on-the-vine careerrr... But I'll let it pass--this time.
+- **10731**: Don't think I'll give it away for a song and a dance. I'll need a fee of $0 bayld.
+- **10732**: And what do you want? You've gotta wait a little while to exchange your signet.[/ And don't tell me you've lost the old one!]
 
 ## Events
 
@@ -513,7 +513,7 @@
  40: 0x010E [0x1C] WAIT(240* ticks)
  41: 0x0111 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
  42: 0x0120 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hja0" with entities [EventEntity, EventEntity], work=1530*
- 43: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=10128*)
+ 43: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=10129*)
     → "I can't believe it! That flop of a duo causes prrroblem after problem and sucks all the life out of the room--and now they're late!"
  44: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0133 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=635*
@@ -531,36 +531,36 @@
  57: 0x0192 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=635*
  58: 0x01A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[635*, 0*]
  59: 0x01B2 [0x1C] WAIT(30* ticks)
- 60: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10129*)
+ 60: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10130*)
     → "I hirrred them to serve as novice entertainers for those from the Middle Lands, and no one crrracks so much as a smile."
  61: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01B9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yre0" with entities [EventEntity, EventEntity], work=2965*
  63: 0x01C8 [0x03] Work_Zone_1700[0] = 180*
  64: 0x01CD [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 65: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10130*)
+ 65: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
     → "Forrrget making a quick bit of catnip--I can't even rrrecoup my investment!"
  66: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01D8 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
  68: 0x01DE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tun0" with entities [EventEntity, EventEntity], work=3041*
  69: 0x01ED [0x03] Work_Zone_1700[0] = 240*
  70: 0x01F2 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 71: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
+ 71: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
     → "No, it's my own fault for brrringing them here in the first place."
  72: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x01FD [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
  74: 0x0203 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
  75: 0x0212 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
- 76: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
+ 76: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
     → "I've got to unearth those dolts before they get into even more trrrouble!"
  77: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
+ 78: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=10134*)
     → "On top of it all, their managerrr quits, leaving me to play a game of cat and mouse. They're so off-kilter I might need to call in a favor from the Order of Thurandaut! Maybe get me a raptorrr or two."
  79: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0220 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
  81: 0x0226 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "nto0" with entities [EventEntity, EventEntity], work=57*
  82: 0x0235 [0x03] Work_Zone_1700[0] = 180*
  83: 0x023A [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 84: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10134*)
+ 84: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10135*)
     → "Rrraptors? No, I need something with hands..."
  85: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0245 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -588,7 +588,7 @@ SUBROUTINE_02E9:
 106: 0x02F8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 107: 0x02F9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 108: 0x02FE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sta0" with entities [EventEntity, EventEntity], work=1327*
-109: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=10135*)
+109: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
     → "Oh-ho! Another visitor, I see. Here to apply to be a purrrformer?"
 110: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0311 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x032B
@@ -606,7 +606,7 @@ SUBROUTINE_0354:
 121: 0x0370 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "nto0" with entities [EventEntity, EventEntity], work=57*
 122: 0x037F [0x03] Work_Zone_1700[0] = 180*
 123: 0x0384 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-124: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10136*)
+124: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
     → "(<Sigh> With that grrrim look on [his/her] face, [he'd/she'd] just scare the audience away. Oh, Altana, why can't you bring me some real talent?)"
 125: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x038F [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -616,7 +616,7 @@ SUBROUTINE_0354:
 130: 0x03BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "man0" with entities [EventEntity, EventEntity], work=1529*
 131: 0x03CA [0x03] Work_Zone_1700[0] = 120*
 132: 0x03CF [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-133: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10137*)
+133: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
     → "So, what is it you do, then? Crrroak out a tune? Two-left-feet your way to miserrry? Just don't tell me you're going to bring the house crashing down with your "jokes"!"
 134: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x03DA [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -625,14 +625,14 @@ SUBROUTINE_0354:
 138: 0x03F1 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
 139: 0x03F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[635*, 0*]
 140: 0x0408 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-141: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
+141: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
     → "So that must mean that... You want to be a managerrr!"
 142: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x041B [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
 144: 0x0421 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=635*
 145: 0x0430 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[635*, 0*]
 146: 0x0441 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yad0" with entities [EventEntity, EventEntity], work=868*
-147: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
+147: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
     → "We'd be just tickled pink to have you! (Yes, yes...this is a golden opportunity for success. I must rope [him/her] in before [he/she] rrrealizes what [he's/she's] getting into...)"
 148: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0454 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=635*
@@ -646,16 +646,16 @@ SUBROUTINE_0354:
 
 SUBROUTINE_04AC:
 157: 0x04AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-158: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
+158: 0x04BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
     → "Well, you're in for a bit of luck! We have a chance opening for a new managerrr...something that only happens once every few yearrrs."
 159: 0x04BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-160: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10141*)
+160: 0x04BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
     → "Of course, there's a bit of a grrrooming period first, but I can see in your eyes that you're a lion of a worker!"
 161: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
+162: 0x04C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
     → "But I've skipped over the self-intrrroduction, haven't I? My name is Peladi Shalmohr."
 163: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
+164: 0x04C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
     → "And you?"
 165: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x04CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -673,21 +673,21 @@ SUBROUTINE_04AC:
 SUBROUTINE_052C:
 177: 0x052C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [EventEntity, EventEntity], work=[635*, 0*]
 178: 0x053D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-179: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
+179: 0x054C [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
     → "<Player>? A name befitting one with your flairrr, to be sure."
 180: 0x054F [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0550 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s040" with entities [EventEntity, EventEntity], work=635*
 182: 0x055F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[635*, 0*]
 183: 0x0570 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "man0" with entities [EventEntity, EventEntity], work=1529*
 184: 0x057F [0x7B] EventEntity stops talking
-185: 0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
+185: 0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=10146*)
     → "So let's get starrrted right away, hmm? Money doesn't make itself!"
 186: 0x0587 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0588 [0x06] ExtData[1]->WorkLocal[0] = 0
 188: 0x058B [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0590:
-189: 0x0590 [0x24] CREATE_DIALOG(message_id=10146*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+189: 0x0590 [0x24] CREATE_DIALOG(message_id=10147*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "[Good to go?/Ready to hit it off?] [You bet!/Um, no?/Manager? Me? Uhhh...]"
 190: 0x0597 [0x25] WAIT_DIALOG_SELECT()
 191: 0x0598 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0691
@@ -703,7 +703,7 @@ SUBROUTINE_0590:
 
 SUBROUTINE_0602:
 201: 0x0602 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-202: 0x0611 [0x1D] PRINT_EVENT_MESSAGE(message_id=10147*)
+202: 0x0611 [0x1D] PRINT_EVENT_MESSAGE(message_id=10148*)
     → "Outstanding! Your firrrst duty as manager is to find our newest "comedians"-in-training: Tarutaru Sauce."
 203: 0x0614 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x0615 [0x1A] CALL_SUBROUTINE(address=0x099F)
@@ -726,10 +726,10 @@ SUBROUTINE_067B:
 219: 0x06A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[635*, 0*]
 220: 0x06B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [EventEntity, EventEntity], work=124*
 221: 0x06C8 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
-222: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10153*)
+222: 0x06CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
     → "Now listen good: there's only room for one managerrr, and if you can't perform your duties, there's a whole legion of people who're willing to take your place!"
 223: 0x06D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-224: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
+224: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10155*)
     → "<Player>, you were borrrn to be a manager! I can feel it in my tail! Rrready to make a splash in the entertainment world?"
 225: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x06D6 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=EventEntity)
@@ -849,7 +849,7 @@ SUBROUTINE_07DC:
 SUBROUTINE_08AE:
  29: 0x08AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  30: 0x08BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 31: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10152*)
+ 31: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10153*)
     → "You forgot what they looked like already? <Sigh> Let me rrrun it by you once more."
  32: 0x08D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x08D2 [0x1A] CALL_SUBROUTINE(address=0x099F)
@@ -897,11 +897,11 @@ SUBROUTINE_0938:
   2: 0x0953 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0954 [0x6E] EventEntity uses emote 26*
   4: 0x095B [0x99] Wait for EventEntity animation to complete
-  5: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
+  5: 0x0960 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
     → "<Mutter> With those two running around, I can't even focus on my worrrk..."
   6: 0x0963 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0964 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  8: 0x0973 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
+  8: 0x0973 [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
     → "<Player>! Don't forrrget the most important task at hand--keep Tarutaru Sauce out of trouble, or your days as an apprentice manager are numbered!"
   9: 0x0976 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0977 [0x21] END_EVENT
@@ -986,13 +986,13 @@ SUBROUTINE_0938:
      0x099F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
      0x09AE [0x03] Work_Zone[2] = 4387*
      0x09B3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10148*)
+     0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10149*)
     → "How will you rrrecognize them? Well, one has hair shaped like $0."
      0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09BA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x09BD [0x03] Work_Zone[2] = 5907*
      0x09C2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x09C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10149*)
+     0x09C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10150*)
     → "And the otherrr's hair looks like rotten $0."
      0x09C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09C9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1001,7 +1001,7 @@ SUBROUTINE_0938:
      0x09D4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yre0" with entities [EventEntity, EventEntity], work=2965*
      0x09E3 [0x03] Work_Zone_1700[0] = 180*
      0x09E8 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-     0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10150*)
+     0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10151*)
     → "Well, together they're like $0. They've got heads, but nothing to fill them."
      0x09F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09F3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -1023,7 +1023,7 @@ SUBROUTINE_0938:
      0x0A88 [0x7B] EventEntity stops talking
      0x0A8D [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
      0x0A93 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pos0" with entities [EventEntity, EventEntity], work=124*
-     0x0AA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10151*)
+     0x0AA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10152*)
     → "What are you standing arrround for? Pounce to it! (For the love of all that is sacrrred, find them before they cause more trouble...)"
      0x0AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AA6 [0x1B] RETURN
@@ -1238,14 +1238,14 @@ SUBROUTINE_0938:
  46: 0x0BCF [0x03] Work_Zone[6] = 5982*
  47: 0x0BD4 [0x03] Work_Zone[7] = 6832*
  48: 0x0BD9 [0x03] Work_Zone_1700[0] = 120*
- 49: 0x0BDE [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
+ 49: 0x0BDE [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
     → "$0...$1 gil... $2...$3 gil... $4...$5 gil..."
  50: 0x0BE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0BE2 [0x03] Work_Zone[2] = 5889*
  52: 0x0BE7 [0x03] Work_Zone[3] = 19440*
  53: 0x0BEC [0x03] Work_Zone[4] = 5147*
  54: 0x0BF1 [0x03] Work_Zone[5] = 3000*
- 55: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
+ 55: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
     → "$0...$1 gil... $2...$3 gil..."
  56: 0x0BF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0BFA [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1254,7 +1254,7 @@ SUBROUTINE_0938:
  60: 0x0C12 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s201" with entities [EventEntity, EventEntity], work=[635*, 0*]
  61: 0x0C23 [0x03] Work_Zone_1700[0] = 60*
  62: 0x0C28 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 63: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
+ 63: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=10325*)
     → "Masad, you good-for-nothing currr! Just how much is it!?"
  64: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0C33 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1264,7 +1264,7 @@ SUBROUTINE_0938:
  69: 0x0C5F [0x03] Work_Zone_1700[0] = 60*
  70: 0x0C64 [0x27] REQ_SET(priority=0x10, entity_id=Masad (ID: 17826149/0x01100165), tag_num=0x08)
  71: 0x0C6B [0x03] Work_Zone[2] = 39432*
- 72: 0x0C70 [0x2B] Masad (ID: 17826149/0x01100165) [10325*]:
+ 72: 0x0C70 [0x2B] Masad (ID: 17826149/0x01100165) [10326*]:
     → "I-it's a total of...$0 gil, chief!"
  73: 0x0C77 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0C78 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Masad (ID: 17826149/0x01100165))
@@ -1278,7 +1278,7 @@ SUBROUTINE_0938:
  82: 0x0CCA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Masad (ID: 17826149/0x01100165), Masad (ID: 17826149/0x01100165)], work=9*
  83: 0x0CD9 [0x03] Work_Zone_1700[0] = 105*
  84: 0x0CDE [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 85: 0x0CE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10326*)
+ 85: 0x0CE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10327*)
     → "$0 gil!? Are you kidding me!?"
  86: 0x0CE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0CE9 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1293,7 +1293,7 @@ SUBROUTINE_0938:
  96: 0x0D39 [0x1C] WAIT(1* ticks)
  97: 0x0D3C [0x03] Work_Zone_1700[0] = 120*
  98: 0x0D41 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x3C)
- 99: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=10327*)
+ 99: 0x0D48 [0x1D] PRINT_EVENT_MESSAGE(message_id=10328*)
     → "<Player>, get over here!"
 100: 0x0D4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0D4C [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1318,10 +1318,10 @@ SUBROUTINE_0DD1:
 118: 0x0DD2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 119: 0x0DD3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ed00" with entities [EventEntity, EventEntity], work=767*
 120: 0x0DE2 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
-121: 0x0DE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10328*)
+121: 0x0DE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10329*)
     → "Tell me, "[Mr./Ms.] Managerrr"...just what do you think the gil we're talking about is for?"
 122: 0x0DEB [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x0DEC [0x24] CREATE_DIALOG(message_id=10329*, default_option=0*, option_flags=0*)
+123: 0x0DEC [0x24] CREATE_DIALOG(message_id=10330*, default_option=0*, option_flags=0*)
     → "What is the money for? [I haven't the foggiest./My salary!/Do you mean to tell me...]"
 124: 0x0DF3 [0x25] WAIT_DIALOG_SELECT()
 125: 0x0DF4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DFF
@@ -1352,7 +1352,7 @@ SUBROUTINE_0E71:
 146: 0x0E90 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "man0" with entities [EventEntity, EventEntity], work=1529*
 147: 0x0E9F [0x03] Work_Zone_1700[0] = 120*
 148: 0x0EA4 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-149: 0x0EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=10330*)
+149: 0x0EAB [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
     → "Your extrrreme honesty is so refreshing..."
 150: 0x0EAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0EAF [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1361,10 +1361,10 @@ SUBROUTINE_0E71:
 154: 0x0ED3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[635*, 0*]
 155: 0x0EE4 [0x03] Work_Zone_1700[0] = 120*
 156: 0x0EE9 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-157: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
+157: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
     → "...Not in your wildest drrreams!"
 158: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-159: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
+159: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
     → "You're as unfathomably stupid as a mouse repeatedly caught in the same trrrap!"
 160: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0EF8 [0x01] GOTO 0x0FE1
@@ -1372,7 +1372,7 @@ SUBROUTINE_0E71:
 163: 0x0F03 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "man0" with entities [EventEntity, EventEntity], work=1529*
 164: 0x0F12 [0x03] Work_Zone_1700[0] = 120*
 165: 0x0F17 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-166: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
+166: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=10334*)
     → "As impudent as you are ugly, I see. I have to say, I like your gumption..."
 167: 0x0F21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0F22 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1381,10 +1381,10 @@ SUBROUTINE_0E71:
 171: 0x0F46 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[635*, 0*]
 172: 0x0F57 [0x03] Work_Zone_1700[0] = 120*
 173: 0x0F5C [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-174: 0x0F63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
+174: 0x0F63 [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
     → "...Not in your wildest drrreams!"
 175: 0x0F66 [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x0F67 [0x1D] PRINT_EVENT_MESSAGE(message_id=10334*)
+176: 0x0F67 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
     → "Did you forget that you're at the bottom of this scrrratching post!? You'll get no pay until you've shown you're not totally useless!"
 177: 0x0F6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x0F6B [0x01] GOTO 0x0FE1
@@ -1392,7 +1392,7 @@ SUBROUTINE_0E71:
 180: 0x0F76 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "man0" with entities [EventEntity, EventEntity], work=1529*
 181: 0x0F85 [0x03] Work_Zone_1700[0] = 120*
 182: 0x0F8A [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-183: 0x0F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
+183: 0x0F91 [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
     → "Oh? You think you have an idea of what the money's for? You rrreally catch on quick, don't you? You must even think I'm impressed."
 184: 0x0F94 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0F95 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1401,10 +1401,10 @@ SUBROUTINE_0E71:
 188: 0x0FB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s207" with entities [EventEntity, EventEntity], work=[635*, 0*]
 189: 0x0FCA [0x03] Work_Zone_1700[0] = 120*
 190: 0x0FCF [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
-191: 0x0FD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
+191: 0x0FD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
     → "...Not in your wildest drrreams!"
 192: 0x0FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-193: 0x0FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
+193: 0x0FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=10337*)
     → "Stop prrretending that your head is filled with something other than cobwebs!"
 194: 0x0FDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x0FDE [0x01] GOTO 0x0FE1
@@ -1421,7 +1421,7 @@ SUBROUTINE_0FE1:
 204: 0x102C [0x03] Work_Zone_1700[0] = 120*
 205: 0x1031 [0x27] REQ_SET(priority=0x10, entity_id=Masad (ID: 17826149/0x01100165), tag_num=0x05)
 206: 0x1038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-207: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=10337*)
+207: 0x1047 [0x1D] PRINT_EVENT_MESSAGE(message_id=10338*)
     → "Tarutaru Sauce--that's right, your Tarutaru Sauce--has been rrrunning up a tab at vendors all throughout the city--and this is their total bill!"
 208: 0x104A [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x104B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -1445,10 +1445,10 @@ SUBROUTINE_0FE1:
 227: 0x10C3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ed00" with entities [EventEntity, EventEntity], work=767*
 228: 0x10D2 [0x59] UPDATE_ENTITY_DATA: Set EventEntity target turn speed head = 100*
 229: 0x10D6 [0x4A] LocalPlayer looks at EventEntity
-230: 0x10DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10338*)
+230: 0x10DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
     → "Those bumbling morrrons spend all their time eating their way throughout the city, but mysteriously "never-wever have time for work.""
 231: 0x10E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-232: 0x10E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
+232: 0x10E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
     → "It's all because a certain someone hasn't been managing them prrroperly. Now, who do you think that could be?"
 233: 0x10E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x10E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -1460,10 +1460,10 @@ SUBROUTINE_0FE1:
 240: 0x1121 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 241: 0x1122 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 242: 0x1123 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
-243: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
+243: 0x1132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10341*)
     → "That's rrright, <Player>, you! All this is your fault!"
 244: 0x1135 [0x23] WAIT_FOR_DIALOG_INTERACTION
-245: 0x1136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10341*)
+245: 0x1136 [0x1D] PRINT_EVENT_MESSAGE(message_id=10342*)
     → "Paying their tab is your rrresponsibility!"
 246: 0x1139 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x113A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=199*
@@ -1482,7 +1482,7 @@ SUBROUTINE_0FE1:
 SUBROUTINE_11B0:
 259: 0x11B0 [0x7B] EventEntity stops talking
 260: 0x11B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yre0" with entities [EventEntity, EventEntity], work=2965*
-261: 0x11C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10342*)
+261: 0x11C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10343*)
     → "Why're you still standing around here like a dead trrree in Yorcia Weald!? Hurry up before they rrrack up more expenses, you lazy good-for-nothing!"
 262: 0x11C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x11C8 [0x1C] WAIT(30* ticks)
@@ -1500,7 +1500,7 @@ SUBROUTINE_1218:
 273: 0x1218 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s212" with entities [EventEntity, EventEntity], work=[635*, 0*]
 274: 0x1229 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=EventEntity)
 275: 0x122F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-276: 0x123E [0x1D] PRINT_EVENT_MESSAGE(message_id=10343*)
+276: 0x123E [0x1D] PRINT_EVENT_MESSAGE(message_id=10344*)
     → "<Sigh> Even that rrravenous Galka acquaintance of mine doesn't inhale as much as those two..."
 277: 0x1241 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x1242 [0x1C] WAIT(120* ticks)
@@ -1520,14 +1520,14 @@ SUBROUTINE_1218:
 292: 0x12E0 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
 293: 0x12E7 [0x6E] Westerly Breeze (ID: 17826080/0x01100120) uses emote 21*
 294: 0x12EE [0x99] Wait for Westerly Breeze (ID: 17826080/0x01100120) animation to complete
-295: 0x12F3 [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10344*]:
+295: 0x12F3 [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10345*]:
     → "Ah...ah... Achoo!"
 296: 0x12FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x12FB [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
 298: 0x1301 [0x03] Work_Zone_1700[0] = 180*
 299: 0x1306 [0x6E] Westerly Breeze (ID: 17826080/0x01100120) uses emote 32*
 300: 0x130D [0x99] Wait for Westerly Breeze (ID: 17826080/0x01100120) animation to complete
-301: 0x1312 [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10345*]:
+301: 0x1312 [0x2B] Westerly Breeze (ID: 17826080/0x01100120) [10346*]:
     → "Urk, I musta caught this cold from staying close to the pier for too long."
 302: 0x1319 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x131A [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1569,15 +1569,15 @@ SUBROUTINE_1218:
   2: 0x1378 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1379 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
   4: 0x1388 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x139B
-  5: 0x1390 [0x1D] PRINT_EVENT_MESSAGE(message_id=10356*)
+  5: 0x1390 [0x1D] PRINT_EVENT_MESSAGE(message_id=10357*)
     → "Get your rrrear in gear and catch those fools before it's too late!"
   6: 0x1393 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x1394 [0x1D] PRINT_EVENT_MESSAGE(message_id=10342*)
+  7: 0x1394 [0x1D] PRINT_EVENT_MESSAGE(message_id=10343*)
     → "Why're you still standing around here like a dead trrree in Yorcia Weald!? Hurry up before they rrrack up more expenses, you lazy good-for-nothing!"
   8: 0x1397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1398 [0x01] GOTO 0x13A4
  10: 0x139B [0x03] Work_Zone[2] = 2396*
- 11: 0x13A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10352*)
+ 11: 0x13A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10353*)
     → "What do you mean, "I don't know where to go"? You've got the invoice rrright in front of you! Now get crrracking before the coalition collapses under the weight of their collective behinds!"
  12: 0x13A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1688,12 +1688,12 @@ SUBROUTINE_13A4:
  40: 0x14AD [0x1C] WAIT(180* ticks)
  41: 0x14B0 [0x03] Work_Zone[2] = 2396*
  42: 0x14B5 [0x03] Work_Zone[3] = 2397*
- 43: 0x14BA [0x48] [System] [10353*]:
+ 43: 0x14BA [0x48] [System] [10354*]:
     → "You handed over the $3 and the $3."
  44: 0x14BD [0x1C] WAIT(120* ticks)
  45: 0x14C0 [0x03] Work_Zone_1700[0] = 60*
  46: 0x14C5 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 47: 0x14CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10354*)
+ 47: 0x14CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10355*)
     → "Finally finished, are we?"
  48: 0x14CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x14D0 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1704,7 +1704,7 @@ SUBROUTINE_13A4:
  54: 0x1501 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=199*
  55: 0x1510 [0x03] Work_Zone_1700[0] = 60*
  56: 0x1515 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x48)
- 57: 0x151C [0x1D] PRINT_EVENT_MESSAGE(message_id=10355*)
+ 57: 0x151C [0x1D] PRINT_EVENT_MESSAGE(message_id=10356*)
     → "Well? Stop flounderrring about here and find those two idiots!"
  58: 0x151F [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x1520 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -1721,7 +1721,7 @@ SUBROUTINE_13A4:
 
 SUBROUTINE_158E:
  70: 0x158E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yre0" with entities [EventEntity, EventEntity], work=2965*
- 71: 0x159D [0x1D] PRINT_EVENT_MESSAGE(message_id=10342*)
+ 71: 0x159D [0x1D] PRINT_EVENT_MESSAGE(message_id=10343*)
     → "Why're you still standing around here like a dead trrree in Yorcia Weald!? Hurry up before they rrrack up more expenses, you lazy good-for-nothing!"
  72: 0x15A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x15A1 [0x1C] WAIT(30* ticks)
@@ -1814,7 +1814,7 @@ SUBROUTINE_1611:
   1: 0x1633 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1634 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1635 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x1644 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
+  4: 0x1644 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
     → "Haven't you done enough ogling for one day!? Get out there and make sure Tarutaru Sauce isn't wrrreaking havoc throughout the city!"
   5: 0x1647 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1648 [0x21] END_EVENT
@@ -1870,10 +1870,10 @@ SUBROUTINE_1611:
   1: 0x1656 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1657 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1658 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x1667 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
+  4: 0x1667 [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
     → "<Player>! Don't forrrget the most important task at hand--keep Tarutaru Sauce out of trouble, or your days as an apprentice manager are numbered!"
   5: 0x166A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x166B [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
+  6: 0x166B [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
     → "Owwwwww... Those fools made me thrrrow my back out!"
   7: 0x166E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x166F [0x21] END_EVENT
@@ -1932,13 +1932,13 @@ SUBROUTINE_1611:
   1: 0x1684 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1685 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1686 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x1695 [0x1D] PRINT_EVENT_MESSAGE(message_id=10714*)
+  4: 0x1695 [0x1D] PRINT_EVENT_MESSAGE(message_id=10715*)
     → "Looking for Tarutaru Sauce? Can't say I've seen those two crrretins around lately."
   5: 0x1698 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1699 [0x1D] PRINT_EVENT_MESSAGE(message_id=10715*)
+  6: 0x1699 [0x1D] PRINT_EVENT_MESSAGE(message_id=10716*)
     → "But isn't that your job? Hmmmmmmmmm?"
   7: 0x169C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x169D [0x1D] PRINT_EVENT_MESSAGE(message_id=10716*)
+  8: 0x169D [0x1D] PRINT_EVENT_MESSAGE(message_id=10717*)
     → "I suppose it'd be too much to ask for them to have boarrrded the last ship bound for Windurst."
   9: 0x16A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x16A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2082,14 +2082,14 @@ SUBROUTINE_16E0:
  10: 0x16F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x16F1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x1946
  12: 0x16F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 13: 0x1708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10717*)
+ 13: 0x1708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10718*)
     → "<Sigh> You're undoubtedly herrre for your Mummers' Coalition signet, so I'll give you a choice of four."
  14: 0x170B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x170C [0x03] Work_Zone[2] = 10000*
- 16: 0x1711 [0x1D] PRINT_EVENT_MESSAGE(message_id=10718*)
+ 16: 0x1711 [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
     → "Choose wisely, as if you want anotherrr one I'll charge you a handling fee of $0 bayld."
  17: 0x1714 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x1715 [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
+ 18: 0x1715 [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
     → "But such precious signets take a fair bit of time to fashion, so you may need to wait a tad in between trrransactions."
  19: 0x1718 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1719 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2119,7 +2119,7 @@ SUBROUTINE_17B2:
  40: 0x1803 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  41: 0x1806 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  42: 0x1807 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 43: 0x1816 [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
+ 43: 0x1816 [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
     → "Listen carefully. This is a prrrized artifact of the Order of Thurandaut. Losing it could be considered a grievous breach of contract."
  44: 0x1819 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x181A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2142,28 +2142,28 @@ SUBROUTINE_1943:
  56: 0x1946 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x1978
  57: 0x194E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
  58: 0x1953 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 59: 0x1962 [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
+ 59: 0x1962 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
     → "And what do you want? You've gotta wait a little while to exchange your signet.[/ And don't tell me you've lost the old one!]"
  60: 0x1965 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x1966 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  62: 0x1975 [0x01] GOTO 0x1A18
  63: 0x1978 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x19A5
  64: 0x1980 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 65: 0x198F [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
+ 65: 0x198F [0x1D] PRINT_EVENT_MESSAGE(message_id=10725*)
     → "Here for a new signet? Well...you'll need to trrrade the old one to me."
  66: 0x1992 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x1993 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  68: 0x19A2 [0x01] GOTO 0x1A18
  69: 0x19A5 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x19E5
  70: 0x19AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 71: 0x19BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10728*)
+ 71: 0x19BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10729*)
     → "Ugh! How could you go about losing your signet!? You're lucky I don't brrring Maester Flaviria out here to give you a tongue-lashing!"
  72: 0x19BF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x19C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10729*)
+ 73: 0x19C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10730*)
     → "Normally it would spell the end of your dead-on-the-vine careerrr... But I'll let it pass--this time."
  74: 0x19C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x19C4 [0x03] Work_Zone[2] = 50000*
- 76: 0x19C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10730*)
+ 76: 0x19C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
     → "Don't think I'll give it away for a song and a dance. I'll need a fee of $0 bayld."
  77: 0x19CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x19CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

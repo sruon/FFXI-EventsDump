@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B0D      |       11021 |
-|       1 | 0x2B83      |       11139 |
+|       0 | 0x2B0E      |       11022 |
+|       1 | 0x2B84      |       11140 |
 |       2 | 0x001D      |          29 |
-|       3 | 0x2B84      |       11140 |
+|       3 | 0x2B85      |       11141 |
 
 ## String References
 
-- **11021**: This is the main entrance to the Tavnazian Safehold.
-- **11139**: Sometimes at night, I still see visions of the battlefield I stood on twenty years ago. The cold eyes of the Kindred as they searched the landscape for their next victim...
-- **11140**: I remember hearing tales of how the Shadow Lord called up these bloodthirsty beasts from the depths of hell, where their dark leader awaited in slumber...
+- **11022**: This is the main entrance to the Tavnazian Safehold.
+- **11140**: Sometimes at night, I still see visions of the battlefield I stood on twenty years ago. The cold eyes of the Kindred as they searched the landscape for their next victim...
+- **11141**: I remember hearing tales of how the Shadow Lord called up these bloodthirsty beasts from the depths of hell, where their dark leader awaited in slumber...
 
 ## Events
 
@@ -76,7 +76,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11021*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11022*)
     → "This is the main entrance to the Tavnazian Safehold."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -105,11 +105,11 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=11139*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
     → "Sometimes at night, I still see visions of the battlefield I stood on twenty years ago. The cold eyes of the Kindred as they searched the landscape for their next victim..."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11140*)
+  4: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11141*)
     → "I remember hearing tales of how the Shadow Lord called up these bloodthirsty beasts from the depths of hell, where their dark leader awaited in slumber..."
   5: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0028 [0x21] END_EVENT

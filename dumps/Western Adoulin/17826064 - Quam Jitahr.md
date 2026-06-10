@@ -34,18 +34,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0035      |          53 |
-|       1 | 0x26B4      |        9908 |
-|       2 | 0x26B5      |        9909 |
-|       3 | 0x26B6      |        9910 |
+|       1 | 0x26B5      |        9909 |
+|       2 | 0x26B6      |        9910 |
+|       3 | 0x26B7      |        9911 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0026      |          38 |
 |       6 | 0x001D      |          29 |
 
 ## String References
 
-- **9908**: Welcome to the Mummers' Coalition, where the pleasure and prrrosperity of Adoulin's people is our number one goal.
-- **9909**: <Sniff>... Aha! I can smell the adventurer on you from a malm away. Then you should rrregister as a pioneer while you're here.
-- **9910**: Hightail it over to the Pioneers' Coalition just down the rrroad and speak with Brenton. He'll get you all grrroomed and ready to help colonize the continent!
+- **9909**: Welcome to the Mummers' Coalition, where the pleasure and prrrosperity of Adoulin's people is our number one goal.
+- **9910**: <Sniff>... Aha! I can smell the adventurer on you from a malm away. Then you should rrregister as a pioneer while you're here.
+- **9911**: Hightail it over to the Pioneers' Coalition just down the rrroad and speak with Brenton. He'll get you all grrroomed and ready to help colonize the continent!
 
 ## Events
 
@@ -97,13 +97,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Welcome to the Mummers' Coalition, where the pleasure and prrrosperity of Adoulin's people is our number one goal."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
     → "<Sniff>... Aha! I can smell the adventurer on you from a malm away. Then you should rrregister as a pioneer while you're here."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
     → "Hightail it over to the Pioneers' Coalition just down the rrroad and speak with Brenton. He'll get you all grrroomed and ready to help colonize the continent!"
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*
@@ -136,7 +136,7 @@
   1: 0x0039 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Welcome to the Mummers' Coalition, where the pleasure and prrrosperity of Adoulin's people is our number one goal."
   5: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*

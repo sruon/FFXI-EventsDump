@@ -25,51 +25,51 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EDD      |        7901 |
+|       0 | 0x1EDE      |        7902 |
 |       1 | 0x0037      |          55 |
-|       2 | 0x1EDE      |        7902 |
-|       3 | 0x1EDF      |        7903 |
-|       4 | 0x1EE0      |        7904 |
-|       5 | 0x1EE1      |        7905 |
-|       6 | 0x1EE2      |        7906 |
+|       2 | 0x1EDF      |        7903 |
+|       3 | 0x1EE0      |        7904 |
+|       4 | 0x1EE1      |        7905 |
+|       5 | 0x1EE2      |        7906 |
+|       6 | 0x1EE3      |        7907 |
 |       7 | 0x008A      |         138 |
 |       8 | 0x0285      |         645 |
-|       9 | 0x1F54      |        8020 |
-|      10 | 0x1F55      |        8021 |
-|      11 | 0x1F56      |        8022 |
-|      12 | 0x1F57      |        8023 |
+|       9 | 0x1F55      |        8021 |
+|      10 | 0x1F56      |        8022 |
+|      11 | 0x1F57      |        8023 |
+|      12 | 0x1F58      |        8024 |
 |      13 | 0x00C9      |         201 |
 |      14 | 0x0000      |           0 |
 |      15 | 0x00EB      |         235 |
-|      16 | 0x2179      |        8569 |
-|      17 | 0x217A      |        8570 |
-|      18 | 0x217B      |        8571 |
-|      19 | 0x217C      |        8572 |
-|      20 | 0x217D      |        8573 |
-|      21 | 0x217E      |        8574 |
-|      22 | 0x217F      |        8575 |
-|      23 | 0x2180      |        8576 |
+|      16 | 0x217A      |        8570 |
+|      17 | 0x217B      |        8571 |
+|      18 | 0x217C      |        8572 |
+|      19 | 0x217D      |        8573 |
+|      20 | 0x217E      |        8574 |
+|      21 | 0x217F      |        8575 |
+|      22 | 0x2180      |        8576 |
+|      23 | 0x2181      |        8577 |
 
 ## String References
 
-- **7901**: To be honest, it's not always easy working with Humes, but you get used to it. You have to.
-- **7902**: You've got to be flexible, you know? You gotta keep up with the times. Otherwise you'll end up in the mines with the rest of the old, hard-headed Galka.
-- **7903**: This is the Darksteel Forge. You must've heard of darksteel before.
-- **7904**: Darksteel is an alloy harder yet more flexible than regular steel. What's more, it neither stains nor rusts. The only drawback is that it's a little heavy.
-- **7905**: Its formula was a Galkan secret for a long time, but lately we've decided to teach Humes how to make it, too.
-- **7906**: Knowing Humes, though, they would've figured it out eventually, and come up with something better.
-- **8020**: You've become quite an experienced adventurer, I hear. I feel I can trust you.
-- **8021**: I need you to go on an errand for me. Our supply of $6 is running low. Bring us two of them.
-- **8022**: The Zeruhn Mines haven't been yielding much of it lately. You may have better luck in the Gusgen Mines.
-- **8023**: Thank you. Here is your payment. If you find any more, bring them here.
-- **8569**: What? You say Raibaht is searching for the book $3?
-- **8570**: I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program.
-- **8571**: Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction.
-- **8572**: The problem is, $3 was donated to a library somewhere before I was appointed to this position.
-- **8573**: And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets...
-- **8574**: ...and worth about the same, too.
-- **8575**: I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library.
-- **8576**: Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht.
+- **7902**: To be honest, it's not always easy working with Humes, but you get used to it. You have to.
+- **7903**: You've got to be flexible, you know? You gotta keep up with the times. Otherwise you'll end up in the mines with the rest of the old, hard-headed Galka.
+- **7904**: This is the Darksteel Forge. You must've heard of darksteel before.
+- **7905**: Darksteel is an alloy harder yet more flexible than regular steel. What's more, it neither stains nor rusts. The only drawback is that it's a little heavy.
+- **7906**: Its formula was a Galkan secret for a long time, but lately we've decided to teach Humes how to make it, too.
+- **7907**: Knowing Humes, though, they would've figured it out eventually, and come up with something better.
+- **8021**: You've become quite an experienced adventurer, I hear. I feel I can trust you.
+- **8022**: I need you to go on an errand for me. Our supply of $6 is running low. Bring us two of them.
+- **8023**: The Zeruhn Mines haven't been yielding much of it lately. You may have better luck in the Gusgen Mines.
+- **8024**: Thank you. Here is your payment. If you find any more, bring them here.
+- **8570**: What? You say Raibaht is searching for the book $3?
+- **8571**: I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program.
+- **8572**: Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction.
+- **8573**: The problem is, $3 was donated to a library somewhere before I was appointed to this position.
+- **8574**: And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets...
+- **8575**: ...and worth about the same, too.
+- **8576**: I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library.
+- **8577**: Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht.
 
 ## Events
 
@@ -116,11 +116,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "To be honest, it's not always easy working with Humes, but you get used to it. You have to."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
     → "You've got to be flexible, you know? You gotta keep up with the times. Otherwise you'll end up in the mines with the rest of the old, hard-headed Galka."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -150,18 +150,18 @@
 
 ```
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "This is the Darksteel Forge. You must've heard of darksteel before."
   2: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0028 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
+  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "Darksteel is an alloy harder yet more flexible than regular steel. What's more, it neither stains nor rusts. The only drawback is that it's a little heavy."
   5: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  6: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "Its formula was a Galkan secret for a long time, but lately we've decided to teach Humes how to make it, too."
   7: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x003F [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  9: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+  9: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Knowing Humes, though, they would've figured it out eventually, and come up with something better."
  10: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0048 [0x21] END_EVENT
@@ -193,14 +193,14 @@
   0: 0x004A [0x03] Work_Zone[9] = 138*
   1: 0x004F [0x03] Work_Zone[8] = 645*
   2: 0x0054 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+  3: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "You've become quite an experienced adventurer, I hear. I feel I can trust you."
   4: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  6: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+  6: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "I need you to go on an errand for me. Our supply of $6 is running low. Bring us two of them."
   7: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
+  8: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "The Zeruhn Mines haven't been yielding much of it lately. You may have better luck in the Gusgen Mines."
   9: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0074 [0x21] END_EVENT
@@ -234,7 +234,7 @@
   1: 0x0078 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x007E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
-  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
+  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
     → "Thank you. Here is your payment. If you find any more, bring them here."
   5: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0091 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -270,29 +270,29 @@
   0: 0x00B1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00B2 [0x03] Work_Zone[9] = 235*
   2: 0x00B7 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
+  3: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
     → "What? You say Raibaht is searching for the book $3?"
   4: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8570*)
+  6: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
     → "I see he's finally come to his senses. I've been trying to get him to ask Chief Cid to pour more money into the darksteel program."
   7: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8571*)
+  8: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
     → "Well, knowing Raibaht, he probably had to think and re-think it, but he still hasn't made up his mind. Hopefully, seeing $3 will help to push him in the right direction."
   9: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00D7 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 11: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
+ 11: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
     → "The problem is, $3 was donated to a library somewhere before I was appointed to this position."
  12: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tha1" with entities [EventEntity, EventEntity], work=55*
- 14: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
+ 14: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
     → "And on top of that, there's no record of the donation anywhere. I guess I can't complain. That was back in the day when mythril was the material of choice, cermet was getting all the funding, and darksteel...well, darksteel was about as popular as rusty buckets..."
  15: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
+ 16: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
     → "...and worth about the same, too."
  17: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00F7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tha2" with entities [EventEntity, EventEntity], work=55*
- 19: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
+ 19: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
     → "I will write a letter to the library holding the document. You will need to take this letter and show it to the proprietor of the library."
  20: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x010A [0x21] END_EVENT
@@ -321,7 +321,7 @@
 ```
   0: 0x010C [0x03] Work_Zone[9] = 235*
   1: 0x0111 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
+  2: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=8577*)
     → "Excellent! You've retrieved our copy of $3! Quickly, take it to Raibaht."
   3: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x011A [0x21] END_EVENT

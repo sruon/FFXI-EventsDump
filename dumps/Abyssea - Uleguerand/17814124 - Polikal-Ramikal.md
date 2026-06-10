@@ -21,15 +21,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1F9C      |        8092 |
-|       2 | 0x1F9D      |        8093 |
-|       3 | 0x1F9E      |        8094 |
+|       1 | 0x1F9D      |        8093 |
+|       2 | 0x1F9E      |        8094 |
+|       3 | 0x1F9F      |        8095 |
 
 ## String References
 
-- **8092**: Greetings, friend. Have you ever seen a spinning pile of stones as beauti-weautiful as this one? I'll bet you haven'taru.
-- **8093**: We call them veridical confluxes, you see, and what makes them even more beautiful is the power of teleportation they possess. I make it a point to activate each one I come across, and I would heartily-weartily suggest you do the same.
-- **8094**: To utilize their powers, you'll also need a supply of cruor. But that shouldn't presentaru a problem to one of your skills, now should it?
+- **8093**: Greetings, friend. Have you ever seen a spinning pile of stones as beauti-weautiful as this one? I'll bet you haven'taru.
+- **8094**: We call them veridical confluxes, you see, and what makes them even more beautiful is the power of teleportation they possess. I make it a point to activate each one I come across, and I would heartily-weartily suggest you do the same.
+- **8095**: To utilize their powers, you'll also need a supply of cruor. But that shouldn't presentaru a problem to one of your skills, now should it?
 
 ## Events
 
@@ -81,13 +81,13 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x6E] Polikal-Ramikal (ID: 17814124/0x010FD26C) uses emote 0*
   4: 0x000F [0x99] Wait for Polikal-Ramikal (ID: 17814124/0x010FD26C) animation to complete
-  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+  5: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "Greetings, friend. Have you ever seen a spinning pile of stones as beauti-weautiful as this one? I'll bet you haven'taru."
   6: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+  7: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "We call them veridical confluxes, you see, and what makes them even more beautiful is the power of teleportation they possess. I make it a point to activate each one I come across, and I would heartily-weartily suggest you do the same."
   8: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
+  9: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
     → "To utilize their powers, you'll also need a supply of cruor. But that shouldn't presentaru a problem to one of your skills, now should it?"
  10: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0020 [0x21] END_EVENT

@@ -23,7 +23,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E5A      |        7770 |
+|       0 | 0x1E5B      |        7771 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x004F      |          79 |
 |       3 | 0x0096      |         150 |
@@ -32,7 +32,7 @@
 
 ## String References
 
-- **7770**: Warp to Witchfire Glen? [Proceed./Not now.]
+- **7771**: Warp to Witchfire Glen? [Proceed./Not now.]
 
 ## Events
 
@@ -82,7 +82,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x06] Work_Zone[1] = 0
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7770*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7771*, default_option=0*, option_flags=0*)
     → "Warp to Witchfire Glen? [Proceed./Not now.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003A

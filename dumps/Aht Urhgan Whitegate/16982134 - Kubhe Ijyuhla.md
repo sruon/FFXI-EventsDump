@@ -46,9 +46,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0037      |          55 |
-|       2 | 0x18D5      |        6357 |
+|       2 | 0x18D6      |        6358 |
 |       3 | 0x0036      |          54 |
-|       4 | 0x18D6      |        6358 |
+|       4 | 0x18D7      |        6359 |
 |       5 | 0x4764      |       18276 |
 |       6 | 0x493E      |       18750 |
 |       7 | 0x0000      |           0 |
@@ -62,24 +62,24 @@
 |      15 | 0x45E6      |       17894 |
 |      16 | 0x0001      |           1 |
 |      17 | 0x0032      |          50 |
-|      18 | 0x1BE6      |        7142 |
-|      19 | 0x1BF6      |        7158 |
+|      18 | 0x1BE7      |        7143 |
+|      19 | 0x1BF7      |        7159 |
 |      20 | 0x0034      |          52 |
-|      21 | 0x1C0B      |        7179 |
-|      22 | 0x1C0C      |        7180 |
-|      23 | 0x1C5D      |        7261 |
+|      21 | 0x1C0C      |        7180 |
+|      22 | 0x1C0D      |        7181 |
+|      23 | 0x1C5E      |        7262 |
 |      24 | 0xFFF756B8  |  4294399672 |
 |      25 | 0x7F81      |       32641 |
 |      26 | 0x07CF      |        1999 |
 
 ## String References
 
-- **6357**: Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!
-- **6358**: I'm gonna quit! I'm rrreally gonna quit!
-- **7142**: Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you.
-- **7158**: I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there.
-- **7179**: Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious.
-- **7180**: Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody.
+- **6358**: Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!
+- **6359**: I'm gonna quit! I'm rrreally gonna quit!
+- **7143**: Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you.
+- **7159**: I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there.
+- **7180**: Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious.
+- **7181**: Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody.
 
 ## Events
 
@@ -131,13 +131,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6357*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6358*)
     → "Grrr, that girl really makes the furrr on my tail stand on end! I can't believe I came all this way to be a mercenary in her rrridiculous company!"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
   6: 0x002B [0x1C] WAIT(30* ticks)
   7: 0x002E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=54*
-  8: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=6358*)
+  8: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=6359*)
     → "I'm gonna quit! I'm rrreally gonna quit!"
   9: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0041 [0x1C] WAIT(30* ticks)
@@ -440,7 +440,7 @@
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x1C] WAIT(30* ticks)
   2: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7142*)
+  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7143*)
     → "Foudeel should be waiting rrright outside the secret passage to the Wajaom Woodlands. Do this for me and I promise I'll make it up to you."
   4: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E4 [0x21] END_EVENT
@@ -493,7 +493,7 @@
   0: 0x00E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00EC [0x1C] WAIT(30* ticks)
   2: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7158*)
+  3: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7159*)
     → "I'm positive that you'll find Foudeel wallowing away at the Shararat Teahouse. Ask arrround for him when you get there."
   4: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0102 [0x21] END_EVENT
@@ -525,11 +525,11 @@
   0: 0x0104 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0109 [0x1C] WAIT(30* ticks)
   2: 0x010C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
-  3: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7179*)
+  3: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
     → "Foudeel is still at the Shararat Teahouse? Wow... Whateverrr has him down must be really serious."
   4: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x011F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
-  6: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+  6: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7181*)
     → "Hm? Have I been over therrre to check up on him? Hah! I haven't moved a muscle since we last talked. Just ask anybody."
   7: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0130 [0x21] END_EVENT
@@ -582,7 +582,7 @@
   0: 0x0133 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0138 [0x1C] WAIT(30* ticks)
   2: 0x013B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kubhe Ijyuhla (ID: 16982134/0x01032076), Kubhe Ijyuhla (ID: 16982134/0x01032076)], work=50*
-  3: 0x014A [0x2B] Kubhe Ijyuhla (ID: 16982134/0x01032076) [7261*]:
+  3: 0x014A [0x2B] Kubhe Ijyuhla (ID: 16982134/0x01032076) [7262*]:
     → "Anyway, I'm sorry you had to get involved in all that."
   4: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0152 [0x21] END_EVENT

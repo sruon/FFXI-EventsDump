@@ -35,47 +35,47 @@
 |       5 | 0x0073      |         115 |
 |       6 | 0x0083      |         131 |
 |       7 | 0x0028      |          40 |
-|       8 | 0x2FC9      |       12233 |
+|       8 | 0x2FCA      |       12234 |
 |       9 | 0x001E      |          30 |
 |      10 | 0x00F0      |         240 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x005A      |          90 |
-|      13 | 0x2FCB      |       12235 |
+|      13 | 0x2FCC      |       12236 |
 |      14 | 0x000A      |          10 |
-|      15 | 0x2FCC      |       12236 |
+|      15 | 0x2FCD      |       12237 |
 |      16 | 0x0005      |           5 |
-|      17 | 0x2FCD      |       12237 |
+|      17 | 0x2FCE      |       12238 |
 |      18 | 0x003C      |          60 |
 |      19 | 0x000F      |          15 |
-|      20 | 0x2FCE      |       12238 |
-|      21 | 0x2FCF      |       12239 |
-|      22 | 0x2FD0      |       12240 |
-|      23 | 0x2FD1      |       12241 |
-|      24 | 0x2FD2      |       12242 |
-|      25 | 0x2FD3      |       12243 |
+|      20 | 0x2FCF      |       12239 |
+|      21 | 0x2FD0      |       12240 |
+|      22 | 0x2FD1      |       12241 |
+|      23 | 0x2FD2      |       12242 |
+|      24 | 0x2FD3      |       12243 |
+|      25 | 0x2FD4      |       12244 |
 |      26 | 0x0014      |          20 |
-|      27 | 0x2FD4      |       12244 |
-|      28 | 0x2FD5      |       12245 |
-|      29 | 0x2FD6      |       12246 |
-|      30 | 0x2FD7      |       12247 |
+|      27 | 0x2FD5      |       12245 |
+|      28 | 0x2FD6      |       12246 |
+|      29 | 0x2FD7      |       12247 |
+|      30 | 0x2FD8      |       12248 |
 |      31 | 0x0001      |           1 |
-|      32 | 0x2FD8      |       12248 |
+|      32 | 0x2FD9      |       12249 |
 |      33 | 0x0080      |         128 |
-|      34 | 0x2FD9      |       12249 |
-|      35 | 0x2FDA      |       12250 |
-|      36 | 0x2FDB      |       12251 |
-|      37 | 0x2FDC      |       12252 |
-|      38 | 0x2FDD      |       12253 |
-|      39 | 0x2FDE      |       12254 |
-|      40 | 0x2FDF      |       12255 |
-|      41 | 0x2FE0      |       12256 |
-|      42 | 0x2FE1      |       12257 |
-|      43 | 0x2FE2      |       12258 |
-|      44 | 0x2FE3      |       12259 |
-|      45 | 0x2FE4      |       12260 |
-|      46 | 0x2FE5      |       12261 |
+|      34 | 0x2FDA      |       12250 |
+|      35 | 0x2FDB      |       12251 |
+|      36 | 0x2FDC      |       12252 |
+|      37 | 0x2FDD      |       12253 |
+|      38 | 0x2FDE      |       12254 |
+|      39 | 0x2FDF      |       12255 |
+|      40 | 0x2FE0      |       12256 |
+|      41 | 0x2FE1      |       12257 |
+|      42 | 0x2FE2      |       12258 |
+|      43 | 0x2FE3      |       12259 |
+|      44 | 0x2FE4      |       12260 |
+|      45 | 0x2FE5      |       12261 |
+|      46 | 0x2FE6      |       12262 |
 |      47 | 0x00B4      |         180 |
-|      48 | 0x2FE6      |       12262 |
+|      48 | 0x2FE7      |       12263 |
 |      49 | 0x006B      |         107 |
 |      50 | 0x00C9      |         201 |
 
@@ -411,7 +411,7 @@
  43: 0x0155 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17723575/0x010E70B7)
  44: 0x015B [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17723576/0x010E70B8)
  45: 0x0161 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17723577/0x010E70B9)
- 46: 0x0167 [0x2B] Maurine (ID: 17723412/0x010E7014) [12233*]:
+ 46: 0x0167 [0x2B] Maurine (ID: 17723412/0x010E7014) [12234*]:
     → "A ghost of a red mage is in the church!"
  47: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x016F [0x4E] SET_ENTITY_HIDE_FLAG: Show Aurege (ID: 17723433/0x010E7029)
@@ -448,7 +448,7 @@
  79: 0x024B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Unnamed NPC (ID: 17723577/0x010E70B9))
  80: 0x0251 [0x1C] WAIT(90* ticks)
  81: 0x0254 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Curilla (ID: 17723569/0x010E70B1), tag_num=0x11)
- 82: 0x025B [0x2B] Curilla (ID: 17723569/0x010E70B1) [12235*]:
+ 82: 0x025B [0x2B] Curilla (ID: 17723569/0x010E70B1) [12236*]:
     → "Father!"
  83: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0263 [0x27] REQ_SET(priority=0x04, entity_id=Curilla (ID: 17723569/0x010E70B1), tag_num=0x12)
@@ -462,7 +462,7 @@
  92: 0x02AB [0x2A] GET_REQ_LEVEL(level=3, entity_id=Trion (ID: 17723394/0x010E7002))
  93: 0x02B1 [0x1C] WAIT(10* ticks)
  94: 0x02B4 [0x27] REQ_SET(priority=0x04, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x31)
- 95: 0x02BB [0x2B] Trion (ID: 17723394/0x010E7002) [12236*]:
+ 95: 0x02BB [0x2B] Trion (ID: 17723394/0x010E7002) [12237*]:
     → "Wait, Curilla! Be not deceived! That is no father of yours!"
  96: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x02C3 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Curilla (ID: 17723569/0x010E70B1))
@@ -489,7 +489,7 @@
 118: 0x0354 [0x1C] WAIT(5* ticks)
 119: 0x0357 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r006" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 120: 0x0368 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r006" with entities [LocalPlayer, LocalPlayer], work=131*
-121: 0x0377 [0x2B] Trion (ID: 17723394/0x010E7002) [12237*]:
+121: 0x0377 [0x2B] Trion (ID: 17723394/0x010E7002) [12238*]:
     → "Curilla!?"
 122: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x037F [0x1C] WAIT(90* ticks)
@@ -512,18 +512,18 @@
 140: 0x0406 [0x79] Unnamed NPC (ID: 17723577/0x010E70B9) looks at Curilla (ID: 17723569/0x010E70B1) (Basic look)
 141: 0x0410 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r019" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 142: 0x0421 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r019" with entities [LocalPlayer, LocalPlayer], work=131*
-143: 0x0430 [0x2B] Trion (ID: 17723394/0x010E7002) [12238*]:
+143: 0x0430 [0x2B] Trion (ID: 17723394/0x010E7002) [12239*]:
     → "Stop, Curilla!"
 144: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0438 [0x1C] WAIT(60* ticks)
 146: 0x043B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r022" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 147: 0x044C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r022" with entities [LocalPlayer, LocalPlayer], work=131*
 148: 0x045B [0x1C] WAIT(60* ticks)
-149: 0x045E [0x2B] Ferdechiond (ID: 17723572/0x010E70B4) [12239*]:
+149: 0x045E [0x2B] Ferdechiond (ID: 17723572/0x010E70B4) [12240*]:
     → "Prince Trion!"
 150: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0466 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x27)
-152: 0x046D [0x2B] Trion (ID: 17723394/0x010E7002) [12240*]:
+152: 0x046D [0x2B] Trion (ID: 17723394/0x010E7002) [12241*]:
     → "Knights, stand down!"
 153: 0x0474 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0475 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Trion (ID: 17723394/0x010E7002))
@@ -534,13 +534,13 @@
 159: 0x049B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r008" with entities [LocalPlayer, LocalPlayer], work=131*
 160: 0x04AA [0x1C] WAIT(30* ticks)
 161: 0x04AD [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x2D)
-162: 0x04B4 [0x2B] Trion (ID: 17723394/0x010E7002) [12241*]:
+162: 0x04B4 [0x2B] Trion (ID: 17723394/0x010E7002) [12242*]:
     → "Curilla, drop your sword."
 163: 0x04BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x04BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r009" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 165: 0x04CD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r009" with entities [LocalPlayer, LocalPlayer], work=131*
 166: 0x04DC [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x2E)
-167: 0x04E3 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12242*]:
+167: 0x04E3 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12243*]:
     → "I will not be defeated..."
 168: 0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x04EB [0x27] REQ_SET(priority=0x03, entity_id=Curilla (ID: 17723569/0x010E70B1), tag_num=0x16)
@@ -551,7 +551,7 @@
 174: 0x051B [0x1C] WAIT(60* ticks)
 175: 0x051E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r026" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 176: 0x052F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r026" with entities [LocalPlayer, LocalPlayer], work=131*
-177: 0x053E [0x2B] Trion (ID: 17723394/0x010E7002) [12243*]:
+177: 0x053E [0x2B] Trion (ID: 17723394/0x010E7002) [12244*]:
     → "Argh!"
 178: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0546 [0x27] REQ_SET(priority=0x03, entity_id=Curilla (ID: 17723569/0x010E70B1), tag_num=0x17)
@@ -563,11 +563,11 @@
 185: 0x0567 [0x1C] WAIT(20* ticks)
 186: 0x056A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r023" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 187: 0x057B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r023" with entities [LocalPlayer, LocalPlayer], work=131*
-188: 0x058A [0x2B] Trion (ID: 17723394/0x010E7002) [12244*]:
+188: 0x058A [0x2B] Trion (ID: 17723394/0x010E7002) [12245*]:
     → "Curilla!"
 189: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0592 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r024" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
-191: 0x05A3 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12245*]:
+191: 0x05A3 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12246*]:
     → "But I am not afraid of defeat."
 192: 0x05AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x05AB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r024" with entities [LocalPlayer, LocalPlayer], work=131*
@@ -583,7 +583,7 @@
 203: 0x0603 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r012" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 204: 0x0614 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r012" with entities [LocalPlayer, LocalPlayer], work=131*
 205: 0x0623 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x28)
-206: 0x062A [0x2B] Trion (ID: 17723394/0x010E7002) [12246*]:
+206: 0x062A [0x2B] Trion (ID: 17723394/0x010E7002) [12247*]:
     → "Look out!"
 207: 0x0631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0632 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r013" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
@@ -592,7 +592,7 @@
 211: 0x0658 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x08)
 212: 0x065F [0x27] REQ_SET(priority=0x04, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x09)
 213: 0x0666 [0x27] REQ_SET(priority=0x06, entity_id=Unnamed NPC (ID: 17723568/0x010E70B0), tag_num=0x05)
-214: 0x066D [0x2B] ??? (ID: 17723445/0x010E7035) [12247*]:
+214: 0x066D [0x2B] ??? (ID: 17723445/0x010E7035) [12248*]:
     → "Ulp!"
 215: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x0675 [0x79] Trion (ID: 17723394/0x010E7002) looks at Rainemard (ID: 17723567/0x010E70AF) (Basic look)
@@ -607,7 +607,7 @@
 225: 0x06C1 [0x79] Rainemard (ID: 17723567/0x010E70AF) looks at Curilla (ID: 17723569/0x010E70B1) (Basic look)
 226: 0x06CB [0x1C] WAIT(120* ticks)
 227: 0x06CE [0x27] REQ_SET(priority=0x03, entity_id=Unnamed NPC (ID: 17723568/0x010E70B0), tag_num=0x06)
-228: 0x06D5 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12248*]:
+228: 0x06D5 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12249*]:
     → "By a hair's breadth I made it in time. Curilla, forgive me for exposing you to this danger."
 229: 0x06DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x06DD [0x27] REQ_SET(priority=0x03, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x0A)
@@ -617,13 +617,13 @@
 234: 0x06F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r020" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 235: 0x070A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r020" with entities [LocalPlayer, LocalPlayer], work=131*
 236: 0x0719 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rainemard (ID: 17723567/0x010E70AF))
-237: 0x071F [0x2B] Curilla (ID: 17723569/0x010E70B1) [12249*]:
+237: 0x071F [0x2B] Curilla (ID: 17723569/0x010E70B1) [12250*]:
     → "Father..."
 238: 0x0726 [0x23] WAIT_FOR_DIALOG_INTERACTION
-239: 0x0727 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12250*]:
+239: 0x0727 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12251*]:
     → "A true warrior does not shrink from defeat. My only regret was not teaching that to you."
 240: 0x072E [0x23] WAIT_FOR_DIALOG_INTERACTION
-241: 0x072F [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12251*]:
+241: 0x072F [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12252*]:
     → "But it seems that you have already learned, Curilla. My, how you have grown!"
 242: 0x0736 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0737 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x47)
@@ -637,11 +637,11 @@
 251: 0x075D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r015" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 252: 0x076E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r015" with entities [LocalPlayer, LocalPlayer], work=131*
 253: 0x077D [0x1C] WAIT(60* ticks)
-254: 0x0780 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12252*]:
+254: 0x0780 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12253*]:
     → "Watch over her, Prince."
 255: 0x0787 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0788 [0x7C] Trion (ID: 17723394/0x010E7002)->Render.Flags2 |= 0x00
-257: 0x078E [0x2B] Trion (ID: 17723394/0x010E7002) [12253*]:
+257: 0x078E [0x2B] Trion (ID: 17723394/0x010E7002) [12254*]:
     → "You have my word."
 258: 0x0795 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0796 [0x7C] Trion (ID: 17723394/0x010E7002)->Render.Flags2 |= 0x01
@@ -649,14 +649,14 @@
 261: 0x07A2 [0x4A] Rainemard (ID: 17723567/0x010E70AF) looks at LocalPlayer
 262: 0x07AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 263: 0x07AC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rainemard (ID: 17723567/0x010E70AF) Render.Flags0 and Render.Flags3 conditions are met
-264: 0x07B1 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12254*]:
+264: 0x07B1 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12255*]:
     → "Long have I troubled you. When I appeared here, a minion of the dark followed me. For that I am sorry."
 265: 0x07B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-266: 0x07B9 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12255*]:
+266: 0x07B9 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12256*]:
     → "This will not fully expiate my sins, but perhaps you may find some use for it. Please accept it."
 267: 0x07C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x07C1 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x0B)
-269: 0x07C8 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12256*]:
+269: 0x07C8 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12257*]:
     → "And keep a watchful eye on this church. It is a pity I can say nothing more."
 270: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x07D0 [0x1C] WAIT(60* ticks)
@@ -668,19 +668,19 @@
 277: 0x07F6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r016" with entities [LocalPlayer, LocalPlayer], work=131*
 278: 0x0805 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 279: 0x0806 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rainemard (ID: 17723567/0x010E70AF) Render.Flags0 and Render.Flags3 conditions are met
-280: 0x080B [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12257*]:
+280: 0x080B [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12258*]:
     → "Curilla, I am relieved to see you standing tall. Though we shall never meet again, I want you to remember..."
 281: 0x0812 [0x23] WAIT_FOR_DIALOG_INTERACTION
-282: 0x0813 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12258*]:
+282: 0x0813 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12259*]:
     → "You will always be my daughter. And I will always watch over you."
 283: 0x081A [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x081B [0x27] REQ_SET(priority=0x03, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x0B)
-285: 0x0822 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12259*]:
+285: 0x0822 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12260*]:
     → "I should return this watch. Carry it in memory of me."
 286: 0x0829 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x082A [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rainemard (ID: 17723567/0x010E70AF))
 288: 0x0830 [0x1C] WAIT(30* ticks)
-289: 0x0833 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12260*]:
+289: 0x0833 [0x2B] Rainemard (ID: 17723567/0x010E70AF) [12261*]:
     → "Now, I must go... Farewell, my daughter!"
 290: 0x083A [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x083B [0x1C] WAIT(60* ticks)
@@ -693,7 +693,7 @@
 298: 0x086A [0x1C] WAIT(30* ticks)
 299: 0x086D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r017" with entities [LocalPlayer, LocalPlayer], work=[131*, 0*]
 300: 0x087E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r017" with entities [LocalPlayer, LocalPlayer], work=131*
-301: 0x088D [0x2B] Curilla (ID: 17723569/0x010E70B1) [12261*]:
+301: 0x088D [0x2B] Curilla (ID: 17723569/0x010E70B1) [12262*]:
     → "Father!"
 302: 0x0894 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x0895 [0x27] REQ_SET(priority=0x03, entity_id=Rainemard (ID: 17723567/0x010E70AF), tag_num=0x0F)
@@ -709,7 +709,7 @@
 313: 0x08F8 [0x1C] WAIT(120* ticks)
 314: 0x08FB [0x2F] Shamonde (ID: 17723408/0x010E7010)->Render.Flags0 &= ~0x80000 // Bit 19
 315: 0x0901 [0x4E] SET_ENTITY_HIDE_FLAG: Show Shamonde (ID: 17723408/0x010E7010)
-316: 0x0907 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12262*]:
+316: 0x0907 [0x2B] Curilla (ID: 17723569/0x010E70B1) [12263*]:
     → "I'll always be your daughter."
 317: 0x090E [0x23] WAIT_FOR_DIALOG_INTERACTION
 318: 0x090F [0x1C] WAIT(120* ticks)

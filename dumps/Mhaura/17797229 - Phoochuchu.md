@@ -23,16 +23,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D57      |        7511 |
-|       1 | 0x1D58      |        7512 |
+|       0 | 0x1D58      |        7512 |
+|       1 | 0x1D59      |        7513 |
 |       2 | 0x0031      |          49 |
-|       3 | 0x1D59      |        7513 |
-|       4 | 0x1D5A      |        7514 |
-|       5 | 0x1D5B      |        7515 |
-|       6 | 0x1D5E      |        7518 |
-|       7 | 0x1D5F      |        7519 |
-|       8 | 0x1D5C      |        7516 |
-|       9 | 0x1D5D      |        7517 |
+|       3 | 0x1D5A      |        7514 |
+|       4 | 0x1D5B      |        7515 |
+|       5 | 0x1D5C      |        7516 |
+|       6 | 0x1D5F      |        7519 |
+|       7 | 0x1D60      |        7520 |
+|       8 | 0x1D5D      |        7517 |
+|       9 | 0x1D5E      |        7518 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x000A      |          10 |
 |      12 | 0x0014      |          20 |
@@ -43,15 +43,15 @@
 
 ## String References
 
-- **7511**: I got no business with a flea like you. Get outta my face before I decide to messy-wess you up.
-- **7512**: You're <Player>, right? Ha ha ha! I knew it! Just like Gilgamesh described. Lemme tell you what I gotty-wot so far.
-- **7513**: The creepy-weep that stole our helmet isn't from any large syndicate. He isn't even very famous among other pirates. He's just a simple thiefy-weef trying to pull off a big job for a big profit.
-- **7514**: According to the owner of that inn, he traveled numerous timey-wimes between here and Selbina, and would sometimes talk about his plans after a few too many drinky-winks. But then one day, he just disappeared.
-- **7515**: After looking at Norg's nautical loggy-wogs, I learned that the time he disappeared matches the time he must have entered our headquarters. But where he went from therey-where, I don't know.
-- **7516**: Wa-wa-wait! There's something else.
-- **7517**: One of our men in Bastok is piecing together all the information we've gathered so far. He's hiding out in a run-down old housey-wouse in the Mines District (J-6). He should be able to give you something juicy-wuicy.
-- **7518**: I thought that this might have been the work of some large groupy-woop, but when I heard that it was just one guy...boy, was I surprisey-wised!
-- **7519**: I can understand wanting to makey-wake it big overnight, but he should have thought a little bitty-wit longer before deciding to take us on!
+- **7512**: I got no business with a flea like you. Get outta my face before I decide to messy-wess you up.
+- **7513**: You're <Player>, right? Ha ha ha! I knew it! Just like Gilgamesh described. Lemme tell you what I gotty-wot so far.
+- **7514**: The creepy-weep that stole our helmet isn't from any large syndicate. He isn't even very famous among other pirates. He's just a simple thiefy-weef trying to pull off a big job for a big profit.
+- **7515**: According to the owner of that inn, he traveled numerous timey-wimes between here and Selbina, and would sometimes talk about his plans after a few too many drinky-winks. But then one day, he just disappeared.
+- **7516**: After looking at Norg's nautical loggy-wogs, I learned that the time he disappeared matches the time he must have entered our headquarters. But where he went from therey-where, I don't know.
+- **7517**: Wa-wa-wait! There's something else.
+- **7518**: One of our men in Bastok is piecing together all the information we've gathered so far. He's hiding out in a run-down old housey-wouse in the Mines District (J-6). He should be able to give you something juicy-wuicy.
+- **7519**: I thought that this might have been the work of some large groupy-woop, but when I heard that it was just one guy...boy, was I surprisey-wised!
+- **7520**: I can understand wanting to makey-wake it big overnight, but he should have thought a little bitty-wit longer before deciding to take us on!
 
 ## Events
 
@@ -96,7 +96,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "I got no business with a flea like you. Get outta my face before I decide to messy-wess you up."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -131,20 +131,20 @@
 ```
   0: 0x0007 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0008 [0x1A] CALL_SUBROUTINE(address=0x00E4)
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
     → "You're <Player>, right? Ha ha ha! I knew it! Just like Gilgamesh described. Lemme tell you what I gotty-wot so far."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+  5: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "The creepy-weep that stole our helmet isn't from any large syndicate. He isn't even very famous among other pirates. He's just a simple thiefy-weef trying to pull off a big job for a big profit."
   6: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  7: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "According to the owner of that inn, he traveled numerous timey-wimes between here and Selbina, and would sometimes talk about his plans after a few too many drinky-winks. But then one day, he just disappeared."
   8: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0026 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
  10: 0x0035 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  11: 0x0042 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
- 12: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+ 12: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "After looking at Norg's nautical loggy-wogs, I learned that the time he disappeared matches the time he must have entered our headquarters. But where he went from therey-where, I don't know."
  13: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
@@ -177,12 +177,12 @@
 ```
   0: 0x0073 [0x1A] CALL_SUBROUTINE(address=0x00E4)
   1: 0x0076 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=49*
-  2: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  2: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "I thought that this might have been the work of some large groupy-woop, but when I heard that it was just one guy...boy, was I surprisey-wised!"
   3: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0089 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=49*
   5: 0x0098 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
-  6: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  6: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "I can understand wanting to makey-wake it big overnight, but he should have thought a little bitty-wit longer before deciding to take us on!"
   7: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A9 [0x21] END_EVENT
@@ -224,10 +224,10 @@
   0: 0x00AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00AC [0x1A] CALL_SUBROUTINE(address=0x00E4)
   2: 0x00AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  3: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "Wa-wa-wait! There's something else."
   4: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  5: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "One of our men in Bastok is piecing together all the information we've gathered so far. He's hiding out in a run-down old housey-wouse in the Mines District (J-6). He should be able to give you something juicy-wuicy."
   6: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

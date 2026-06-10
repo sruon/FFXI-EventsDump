@@ -45,14 +45,14 @@
 |       4 | 0x0010      |          16 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0011      |          17 |
-|       7 | 0x38EB      |       14571 |
+|       7 | 0x38EC      |       14572 |
 |       8 | 0x0012      |          18 |
 |       9 | 0x40000000  |  1073741824 |
 |      10 | 0xFFFFFFFF  |  4294967295 |
 |      11 | 0x001E      |          30 |
-|      12 | 0x38EC      |       14572 |
+|      12 | 0x38ED      |       14573 |
 |      13 | 0x0028      |          40 |
-|      14 | 0x38ED      |       14573 |
+|      14 | 0x38EE      |       14574 |
 |      15 | 0x0009      |           9 |
 |      16 | 0x0003      |           3 |
 |      17 | 0x0004      |           4 |
@@ -110,9 +110,9 @@
 
 ## String References
 
-- **14571**: Retrieve which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Return one page./Advance one page./Cancel.]
-- **14572**: You take the $31 in hand...
-- **14573**: Obtain $31? [Take it./Leave it.]
+- **14572**: Retrieve which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Return one page./Advance one page./Cancel.]
+- **14573**: You take the $31 in hand...
+- **14574**: Obtain $31? [Take it./Leave it.]
 
 ## Events
 
@@ -221,7 +221,7 @@
  11: 0x004F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=16*, condition_work_offset=1*)
  12: 0x0056 [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[8]) GOTO 0x0065
  13: 0x005E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=17*, condition_work_offset=1*)
- 14: 0x0065 [0x24] CREATE_DIALOG(message_id=14571*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
+ 14: 0x0065 [0x24] CREATE_DIALOG(message_id=14572*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[10])
     → "Retrieve which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Return one page./Advance one page./Cancel.]"
  15: 0x006C [0x25] WAIT_DIALOG_SELECT()
  16: 0x006D [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0088
@@ -255,14 +255,14 @@ SUBROUTINE_00F8:
  42: 0x00F8 [0x01] GOTO 0x015D
  43: 0x00FB [0x02] IF !(ExtData[1]->WorkLocal[3] == 30*) GOTO 0x0115
  44: 0x0103 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[23])
- 45: 0x0106 [0x48] [System] [14572*]:
+ 45: 0x0106 [0x48] [System] [14573*]:
     → "You take the $31 in hand..."
  46: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x010A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  48: 0x010D [0x03] ExtData[1]->WorkLocal[3] = 40*
  49: 0x0112 [0x01] GOTO 0x015D
  50: 0x0115 [0x02] IF !(ExtData[1]->WorkLocal[3] == 40*) GOTO 0x015D
- 51: 0x011D [0x24] CREATE_DIALOG(message_id=14573*, default_option=1*, option_flags=0*)
+ 51: 0x011D [0x24] CREATE_DIALOG(message_id=14574*, default_option=1*, option_flags=0*)
     → "Obtain $31? [Take it./Leave it.]"
  52: 0x0124 [0x25] WAIT_DIALOG_SELECT()
  53: 0x0125 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014A

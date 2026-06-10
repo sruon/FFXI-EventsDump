@@ -24,13 +24,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F0B      |        7947 |
-|       2 | 0x1F0C      |        7948 |
+|       1 | 0x1F0C      |        7948 |
+|       2 | 0x1F0D      |        7949 |
 
 ## String References
 
-- **7947**: On$26tHe oTheR$26siDe$26oF tHis$26ArcH-wAy$26iS PoRt WiNdurSt!
-- **7948**: NoTe! YoU$26nEeD$26a PaSs$26tO$26rIdE tHe$26AiR-ShIps!
+- **7948**: On$26tHe oTheR$26siDe$26oF tHis$26ArcH-wAy$26iS PoRt WiNdurSt!
+- **7949**: NoTe! YoU$26nEeD$26a PaSs$26tO$26rIdE tHe$26AiR-ShIps!
 
 ## Events
 
@@ -150,10 +150,10 @@
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "On$26tHe oTheR$26siDe$26oF tHis$26ArcH-wAy$26iS PoRt WiNdurSt!"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "NoTe! YoU$26nEeD$26a PaSs$26tO$26rIdE tHe$26AiR-ShIps!"
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2159      |        8537 |
-|       3 | 0x215A      |        8538 |
+|       2 | 0x215A      |        8538 |
+|       3 | 0x215B      |        8539 |
 
 ## String References
 
-- **8537**: The centrrral hub of Windurst is the Windurst Walls distrrrict, with Heavens Tower encompassed by that overgrrrown star tree. You'll get there if you head north strrraight along this path.
-- **8538**: But it's too quiet there, with too many brrridges for my liking. I don't find it the least bit interrresting.
+- **8538**: The centrrral hub of Windurst is the Windurst Walls distrrrict, with Heavens Tower encompassed by that overgrrrown star tree. You'll get there if you head north strrraight along this path.
+- **8539**: But it's too quiet there, with too many brrridges for my liking. I don't find it the least bit interrresting.
 
 ## Events
 
@@ -156,10 +156,10 @@
   2: 0x002E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dazi Nosuk (ID: 17764496/0x010F1090), tag_num=0x01)
-  5: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8537*)
+  5: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8538*)
     → "The centrrral hub of Windurst is the Windurst Walls distrrrict, with Heavens Tower encompassed by that overgrrrown star tree. You'll get there if you head north strrraight along this path."
   6: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8538*)
+  7: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8539*)
     → "But it's too quiet there, with too many brrridges for my liking. I don't find it the least bit interrresting."
   8: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dazi Nosuk (ID: 17764496/0x010F1090), tag_num=0x02)

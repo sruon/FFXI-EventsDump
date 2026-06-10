@@ -21,57 +21,57 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C04      |        7172 |
-|       1 | 0x1C05      |        7173 |
+|       0 | 0x1C05      |        7173 |
+|       1 | 0x1C06      |        7174 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C06      |        7174 |
-|       4 | 0x1C08      |        7176 |
+|       3 | 0x1C07      |        7175 |
+|       4 | 0x1C09      |        7177 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1C09      |        7177 |
-|       7 | 0x1C0A      |        7178 |
-|       8 | 0x1C0B      |        7179 |
+|       6 | 0x1C0A      |        7178 |
+|       7 | 0x1C0B      |        7179 |
+|       8 | 0x1C0C      |        7180 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x1C0C      |        7180 |
-|      11 | 0x1C0D      |        7181 |
+|      10 | 0x1C0D      |        7181 |
+|      11 | 0x1C0E      |        7182 |
 |      12 | 0x0003      |           3 |
-|      13 | 0x1C0E      |        7182 |
-|      14 | 0x1C0F      |        7183 |
+|      13 | 0x1C0F      |        7183 |
+|      14 | 0x1C10      |        7184 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x1C10      |        7184 |
-|      17 | 0x1C11      |        7185 |
+|      16 | 0x1C11      |        7185 |
+|      17 | 0x1C12      |        7186 |
 |      18 | 0x0005      |           5 |
-|      19 | 0x1C12      |        7186 |
+|      19 | 0x1C13      |        7187 |
 |      20 | 0x0006      |           6 |
-|      21 | 0x1C13      |        7187 |
-|      22 | 0x1C14      |        7188 |
-|      23 | 0x1C15      |        7189 |
-|      24 | 0x1C16      |        7190 |
+|      21 | 0x1C14      |        7188 |
+|      22 | 0x1C15      |        7189 |
+|      23 | 0x1C16      |        7190 |
+|      24 | 0x1C17      |        7191 |
 |      25 | 0x0007      |           7 |
-|      26 | 0x1C18      |        7192 |
-|      27 | 0x1C17      |        7191 |
+|      26 | 0x1C19      |        7193 |
+|      27 | 0x1C18      |        7192 |
 
 ## String References
 
-- **7172**: Welcome to the auction house. Do you have any questions about our establishment?
-- **7173**: What do you want to know? [What is the auction house?/How are auctions run?/Are there any fees?/Are there any limits?/How do you check up on merchandise?/How do you remove an item?/My "Sales Status" list is full!/Nothing right now.]
-- **7174**: Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.
-- **7176**: Adventurers may use any auction house regardless of nationality.
-- **7177**: The first adventurer to bid at or above the asking price will automatically purchase the product.
-- **7178**: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).
-- **7179**: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.
-- **7180**: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.
-- **7181**: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.
-- **7182**: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.
-- **7183**: However, the IAHC has recently removed the limit to how many items one may purchase.
-- **7184**: A small amount of time is required before new merchandise appears on our bid list.
-- **7185**: Once an item appears on your "Sales Status" list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.
-- **7186**: If you would like to withdraw an item from an auction, you must travel to the auction house, and select "Stop Sale" from the "Sales Status" menu.
-- **7187**: To remove an item from your "Sales Status" list, you must visit an auction counter to acknowledge the sale or return of your merchandise.
-- **7188**: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.
-- **7189**: At any auction counter, open the "Sales Status" menu and acknowledge the transaction to clear it from the list.
-- **7190**: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).
-- **7191**: Is there anything else you would like to know?
-- **7192**: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!
+- **7173**: Welcome to the auction house. Do you have any questions about our establishment?
+- **7174**: What do you want to know? [What is the auction house?/How are auctions run?/Are there any fees?/Are there any limits?/How do you check up on merchandise?/How do you remove an item?/My "Sales Status" list is full!/Nothing right now.]
+- **7175**: Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything.
+- **7177**: Adventurers may use any auction house regardless of nationality.
+- **7178**: The first adventurer to bid at or above the asking price will automatically purchase the product.
+- **7179**: Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time).
+- **7180**: If merchandise does not sell within this time limit, it will be returned to the seller's current residence.
+- **7181**: Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items.
+- **7182**: A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable.
+- **7183**: The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time.
+- **7184**: However, the IAHC has recently removed the limit to how many items one may purchase.
+- **7185**: A small amount of time is required before new merchandise appears on our bid list.
+- **7186**: Once an item appears on your "Sales Status" list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time.
+- **7187**: If you would like to withdraw an item from an auction, you must travel to the auction house, and select "Stop Sale" from the "Sales Status" menu.
+- **7188**: To remove an item from your "Sales Status" list, you must visit an auction counter to acknowledge the sale or return of your merchandise.
+- **7189**: Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise.
+- **7190**: At any auction counter, open the "Sales Status" menu and acknowledge the transaction to clear it from the list.
+- **7191**: Press the confirm button to remove any transaction colored yellow (sold) or red (returned).
+- **7192**: Is there anything else you would like to know?
+- **7193**: In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!
 
 ## Events
 
@@ -154,89 +154,89 @@
 ```
   0: 0x0002 [0x06] ExtData[1]->WorkLocal[0] = 0
   1: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7172*)
+  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7173*)
     → "Welcome to the auction house. Do you have any questions about our establishment?"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000E [0x24] CREATE_DIALOG(message_id=7173*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+  4: 0x000E [0x24] CREATE_DIALOG(message_id=7174*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What do you want to know? [What is the auction house?/How are auctions run?/Are there any fees?/Are there any limits?/How do you check up on merchandise?/How do you remove an item?/My "Sales Status" list is full!/Nothing right now.]"
   5: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0030
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7174*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7175*)
     → "Auction houses can be found in all of Vana'diel's major cities. Here adventurers gather to bid on battle spoils, unwanted items, old armor...almost anything."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7176*)
+  9: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7177*)
     → "Adventurers may use any auction house regardless of nationality."
  10: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0026 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
  12: 0x002D [0x01] GOTO 0x00E4
  13: 0x0030 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004E
- 14: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7177*)
+ 14: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
     → "The first adventurer to bid at or above the asking price will automatically purchase the product."
  15: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+ 16: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7179*)
     → "Once put up for auction, merchandise will remain there for a maximum of thirty weeks Vana'diel time (nine-and-a-half days Earth time)."
  17: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7179*)
+ 18: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
     → "If merchandise does not sell within this time limit, it will be returned to the seller's current residence."
  19: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0044 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
  21: 0x004B [0x01] GOTO 0x00E4
  22: 0x004E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0068
- 23: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+ 23: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7181*)
     → "Transaction fees are proportional to the amount for which an item is put up on auction. The method of calculating this fee is different for single items and stackable items."
  24: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7181*)
+ 25: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7182*)
     → "A transaction fee is collected when any merchandise is put up for auction. This fee is nonrefundable."
  26: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x005E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=2*, condition_work_offset=1*)
  28: 0x0065 [0x01] GOTO 0x00E4
  29: 0x0068 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0082
- 30: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7182*)
+ 30: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
     → "The International Auction House Committee, or IAHC, has declared that a maximum of seven items may be put up for auction at one time."
  31: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+ 32: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "However, the IAHC has recently removed the limit to how many items one may purchase."
  33: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0078 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=3*, condition_work_offset=1*)
  35: 0x007F [0x01] GOTO 0x00E4
  36: 0x0082 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x009C
- 37: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
+ 37: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
     → "A small amount of time is required before new merchandise appears on our bid list."
  38: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+ 39: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Once an item appears on your "Sales Status" list, it may not immediately appear on the bid list. If you do not see your item on the bid list, try looking again at a later time."
  40: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0092 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=4*, condition_work_offset=1*)
  42: 0x0099 [0x01] GOTO 0x00E4
  43: 0x009C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x00B2
- 44: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
+ 44: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7187*)
     → "If you would like to withdraw an item from an auction, you must travel to the auction house, and select "Stop Sale" from the "Sales Status" menu."
  45: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00A8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=5*, condition_work_offset=1*)
  47: 0x00AF [0x01] GOTO 0x00E4
  48: 0x00B2 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x00D4
- 49: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7187*)
+ 49: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7188*)
     → "To remove an item from your "Sales Status" list, you must visit an auction counter to acknowledge the sale or return of your merchandise."
  50: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7188*)
+ 51: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7189*)
     → "Otherwise, previously sold or returned items will fill up your list and prevent you from selling any more merchandise."
  52: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7189*)
+ 53: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7190*)
     → "At any auction counter, open the "Sales Status" menu and acknowledge the transaction to clear it from the list."
  54: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7190*)
+ 55: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7191*)
     → "Press the confirm button to remove any transaction colored yellow (sold) or red (returned)."
  56: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00CA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  58: 0x00D1 [0x01] GOTO 0x00E4
  59: 0x00D4 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x00E4
- 60: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7192*)
+ 60: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7193*)
     → "In the past, many have amassed great wealth through the auction house. I hope you find fortune, too!"
  61: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x00E0 [0x21] END_EVENT
 
 SUBROUTINE_00E4:
- 63: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7191*)
+ 63: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7192*)
     → "Is there anything else you would like to know?"
  64: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x00E8 [0x01] GOTO 0x000E

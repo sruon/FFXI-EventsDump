@@ -38,13 +38,13 @@
 |      12 | 0x000F      |          15 |
 |      13 | 0x00C8      |         200 |
 |      14 | 0x0D94      |        3476 |
-|      15 | 0x1CF4      |        7412 |
-|      16 | 0x1CF5      |        7413 |
+|      15 | 0x1CF5      |        7413 |
+|      16 | 0x1CF6      |        7414 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x1D7E      |        7550 |
-|      19 | 0x1D7F      |        7551 |
-|      20 | 0x1D80      |        7552 |
-|      21 | 0x1D81      |        7553 |
+|      18 | 0x1D7F      |        7551 |
+|      19 | 0x1D80      |        7552 |
+|      20 | 0x1D81      |        7553 |
+|      21 | 0x1D82      |        7554 |
 |      22 | 0x00C9      |         201 |
 |      23 | 0x002D      |          45 |
 |      24 | 0x0002      |           2 |
@@ -126,10 +126,10 @@
  17: 0x0072 [0x1C] WAIT(15* ticks)
  18: 0x0075 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0086 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Morimar (ID: 17928226/0x01119022), Morimar (ID: 17928226/0x01119022)], work=3476*
- 20: 0x0095 [0x2B] Morimar (ID: 17928226/0x01119022) [7412*]:
+ 20: 0x0095 [0x2B] Morimar (ID: 17928226/0x01119022) [7413*]:
     → "I know you're itchin' to get started, but we've got to wait for Darrcuiln to bring your princess."
  21: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x009D [0x2B] Morimar (ID: 17928226/0x01119022) [7413*]:
+ 22: 0x009D [0x2B] Morimar (ID: 17928226/0x01119022) [7414*]:
     → "How's 'bout takin' a look around while ya wait?"
  23: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00A5 [0x1A] CALL_SUBROUTINE(address=0x03BC)
@@ -197,7 +197,7 @@
  17: 0x014C [0x1C] WAIT(15* ticks)
  18: 0x014F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0160 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Morimar (ID: 17928226/0x01119022), Morimar (ID: 17928226/0x01119022)], work=3476*
- 20: 0x016F [0x2B] Morimar (ID: 17928226/0x01119022) [7550*]:
+ 20: 0x016F [0x2B] Morimar (ID: 17928226/0x01119022) [7551*]:
     → "I'll handle the cleanup. Ya gotta go back to Adoulin with Arciela."
  21: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0177 [0x1A] CALL_SUBROUTINE(address=0x03BC)
@@ -266,10 +266,10 @@
  17: 0x021E [0x1C] WAIT(15* ticks)
  18: 0x0221 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0232 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Morimar (ID: 17928226/0x01119022), Morimar (ID: 17928226/0x01119022)], work=3476*
- 20: 0x0241 [0x2B] Morimar (ID: 17928226/0x01119022) [7551*]:
+ 20: 0x0241 [0x2B] Morimar (ID: 17928226/0x01119022) [7552*]:
     → "What're ya doin' back here? I don't recall puttin' out a signal."
  21: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0249 [0x2B] Morimar (ID: 17928226/0x01119022) [7552*]:
+ 22: 0x0249 [0x2B] Morimar (ID: 17928226/0x01119022) [7553*]:
     → "Ya've already spread the news, right? Then it's only a matter of time before they find the body."
  23: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0251 [0x1A] CALL_SUBROUTINE(address=0x03BC)
@@ -378,7 +378,7 @@
  17: 0x02F8 [0x1C] WAIT(15* ticks)
  18: 0x02FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x030C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Morimar (ID: 17928226/0x01119022), Morimar (ID: 17928226/0x01119022)], work=3476*
- 20: 0x031B [0x2B] Morimar (ID: 17928226/0x01119022) [7553*]:
+ 20: 0x031B [0x2B] Morimar (ID: 17928226/0x01119022) [7554*]:
     → "The princess'll need yer help now more than ever. Make sure she stays on the right path--for Adoulin's sake."
  21: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0323 [0x1A] CALL_SUBROUTINE(address=0x03BC)

@@ -21,28 +21,28 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0029      |          41 |
-|       1 | 0x205C      |        8284 |
-|       2 | 0x205D      |        8285 |
-|       3 | 0x205E      |        8286 |
+|       1 | 0x205D      |        8285 |
+|       2 | 0x205E      |        8286 |
+|       3 | 0x205F      |        8287 |
 |       4 | 0x0031      |          49 |
-|       5 | 0x205F      |        8287 |
-|       6 | 0x2060      |        8288 |
-|       7 | 0x2061      |        8289 |
-|       8 | 0x2062      |        8290 |
-|       9 | 0x2063      |        8291 |
-|      10 | 0x2064      |        8292 |
+|       5 | 0x2060      |        8288 |
+|       6 | 0x2061      |        8289 |
+|       7 | 0x2062      |        8290 |
+|       8 | 0x2063      |        8291 |
+|       9 | 0x2064      |        8292 |
+|      10 | 0x2065      |        8293 |
 
 ## String References
 
-- **8284**: <Cough, hack>...
-- **8285**: Ah...<wheeze>...forgive me. I seem to have come down with a case of the sniffle-wiffles.
-- **8286**: Before I contracted this illness, I was quite the accomplished soldier myself. Let me share with you a bit of knowledge I acquired in my many battles againstaru the hordes.
-- **8287**: Those nasty critters are far more intelligent than they look. Make swift work of a few, and their friends won'taru hesitate to call for reinforcements.
-- **8288**: What's more, each one will prove more frightful-wightful than the last!
-- **8289**: Fortunately, as tough as these bug-wuggers are, they also have vulnerabilities that can be exploited by the astute battler.
-- **8290**: Strike them where it hurts, and they'll be left in a vastly weakened state. It would not be an understatementaru to call this the key to victory.
-- **8291**: Also, you'll observe that the light of your visitant will glow all manner of pretty-wetty colors upon defeating a foe.
-- **8292**: I've observed that the color depends on the...<cough>...killing-willing blow you...<cough>...strike... <Hack>...<wheeze>...This is my cue to shutaru up, it seems. Good luck in your...<hack>...battles!
+- **8285**: <Cough, hack>...
+- **8286**: Ah...<wheeze>...forgive me. I seem to have come down with a case of the sniffle-wiffles.
+- **8287**: Before I contracted this illness, I was quite the accomplished soldier myself. Let me share with you a bit of knowledge I acquired in my many battles againstaru the hordes.
+- **8288**: Those nasty critters are far more intelligent than they look. Make swift work of a few, and their friends won'taru hesitate to call for reinforcements.
+- **8289**: What's more, each one will prove more frightful-wightful than the last!
+- **8290**: Fortunately, as tough as these bug-wuggers are, they also have vulnerabilities that can be exploited by the astute battler.
+- **8291**: Strike them where it hurts, and they'll be left in a vastly weakened state. It would not be an understatementaru to call this the key to victory.
+- **8292**: Also, you'll observe that the light of your visitant will glow all manner of pretty-wetty colors upon defeating a foe.
+- **8293**: I've observed that the color depends on the...<cough>...killing-willing blow you...<cough>...strike... <Hack>...<wheeze>...This is my cue to shutaru up, it seems. Good luck in your...<hack>...battles!
 
 ## Events
 
@@ -97,34 +97,34 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ehn1" with entities [EventEntity, EventEntity], work=41*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8285*)
     → "<Cough, hack>..."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ehn1" with entities [EventEntity, EventEntity]
-  7: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8285*)
+  7: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8286*)
     → "Ah...<wheeze>...forgive me. I seem to have come down with a case of the sniffle-wiffles."
   8: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8286*)
+  9: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8287*)
     → "Before I contracted this illness, I was quite the accomplished soldier myself. Let me share with you a bit of knowledge I acquired in my many battles againstaru the hordes."
  10: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0030 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8287*)
+ 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
     → "Those nasty critters are far more intelligent than they look. Make swift work of a few, and their friends won'taru hesitate to call for reinforcements."
  13: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
+ 14: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
     → "What's more, each one will prove more frightful-wightful than the last!"
  15: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
+ 16: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
     → "Fortunately, as tough as these bug-wuggers are, they also have vulnerabilities that can be exploited by the astute battler."
  17: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
+ 18: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
     → "Strike them where it hurts, and they'll be left in a vastly weakened state. It would not be an understatementaru to call this the key to victory."
  19: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+ 20: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "Also, you'll observe that the light of your visitant will glow all manner of pretty-wetty colors upon defeating a foe."
  21: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 23: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+ 23: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "I've observed that the color depends on the...<cough>...killing-willing blow you...<cough>...strike... <Hack>...<wheeze>...This is my cue to shutaru up, it seems. Good luck in your...<hack>...battles!"
  24: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0066 [0x21] END_EVENT

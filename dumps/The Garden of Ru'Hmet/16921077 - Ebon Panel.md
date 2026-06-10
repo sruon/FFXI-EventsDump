@@ -37,8 +37,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x02C4      |         708 |
-|       1 | 0x1DE2      |        7650 |
-|       2 | 0x1DE4      |        7652 |
+|       1 | 0x1DE3      |        7651 |
+|       2 | 0x1DE5      |        7653 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -52,8 +52,8 @@
 
 ## String References
 
-- **7650**: The $3 is humming in response to the device...
-- **7652**: Hold up the $3? [Yes./No.]
+- **7651**: The $3 is humming in response to the device...
+- **7653**: Hold up the $3? [Yes./No.]
 
 ## Events
 
@@ -121,10 +121,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x03] Work_Zone[2] = 708*
-  2: 0x0008 [0x48] [System] [7650*]:
+  2: 0x0008 [0x48] [System] [7651*]:
     → "The $3 is humming in response to the device..."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7652*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7653*, default_option=1*, option_flags=0*)
     → "Hold up the $3? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0145

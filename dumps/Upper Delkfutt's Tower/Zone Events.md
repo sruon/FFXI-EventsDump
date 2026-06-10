@@ -87,14 +87,14 @@
 |      50 | 0x508B0     |      329904 |
 |      51 | 0x4E39      |       20025 |
 |      52 | 0x0064      |         100 |
-|      53 | 0x1CDB      |        7387 |
-|      54 | 0x1CD8      |        7384 |
+|      53 | 0x1CDC      |        7388 |
+|      54 | 0x1CD9      |        7385 |
 
 ## String References
 
 - **24**: Use the device? [Yes./No.]
-- **7384**: Touch the crystal? [Yes./No.]
-- **7387**: Touch the crystal? [Yes./No.]
+- **7385**: Touch the crystal? [Yes./No.]
+- **7388**: Touch the crystal? [Yes./No.]
 
 ## Events
 
@@ -605,7 +605,7 @@ SUBROUTINE_00A8:
   0: 0x027C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x027E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x027F [0x02] IF !(Work_Zone[2] == 100*) GOTO 0x02A7
-  3: 0x0287 [0x24] CREATE_DIALOG(message_id=7387*, default_option=1*, option_flags=0*)
+  3: 0x0287 [0x24] CREATE_DIALOG(message_id=7388*, default_option=1*, option_flags=0*)
     → "Touch the crystal? [Yes./No.]"
   4: 0x028E [0x25] WAIT_DIALOG_SELECT()
   5: 0x028F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029F
@@ -616,7 +616,7 @@ SUBROUTINE_00A8:
 SUBROUTINE_02A4:
   9: 0x02A4 [0x01] GOTO 0x02CF
  10: 0x02A7 [0x02] IF !(Work_Zone[2] == 200*) GOTO 0x02CF
- 11: 0x02AF [0x24] CREATE_DIALOG(message_id=7384*, default_option=1*, option_flags=0*)
+ 11: 0x02AF [0x24] CREATE_DIALOG(message_id=7385*, default_option=1*, option_flags=0*)
     → "Touch the crystal? [Yes./No.]"
  12: 0x02B6 [0x25] WAIT_DIALOG_SELECT()
  13: 0x02B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C7

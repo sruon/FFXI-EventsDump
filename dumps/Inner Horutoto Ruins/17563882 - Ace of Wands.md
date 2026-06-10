@@ -59,15 +59,15 @@
 |      10 | 0x490E      |       18702 |
 |      11 | 0xFFFFC6C8  |  4294952648 |
 |      12 | 0x4926      |       18726 |
-|      13 | 0x1C7F      |        7295 |
-|      14 | 0x1C84      |        7300 |
-|      15 | 0x1C8B      |        7307 |
+|      13 | 0x1C80      |        7296 |
+|      14 | 0x1C85      |        7301 |
+|      15 | 0x1C8C      |        7308 |
 
 ## String References
 
-- **7295**: The slumbering strength is our ruler!
-- **7300**: They were our lord's belongings! They were our ruler's possessions!
-- **7307**: ......
+- **7296**: The slumbering strength is our ruler!
+- **7301**: They were our lord's belongings! They were our ruler's possessions!
+- **7308**: ......
 
 ## Events
 
@@ -697,7 +697,7 @@
 #### Opcodes
 
 ```
-  0: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+  0: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "The slumbering strength is our ruler!"
   1: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0180 [0x00] END_REQSTACK()
@@ -724,7 +724,7 @@
 
 ```
   0: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17563882/0x010C00EA), tag_num=0x0D)
-  1: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+  1: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
     → "They were our lord's belongings! They were our ruler's possessions!"
   2: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x018C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17563882/0x010C00EA), tag_num=0x0E)
@@ -750,7 +750,7 @@
 #### Opcodes
 
 ```
-  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "......"
   1: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0198 [0x00] END_REQSTACK()

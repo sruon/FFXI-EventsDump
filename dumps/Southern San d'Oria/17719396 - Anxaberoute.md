@@ -37,9 +37,9 @@
 |       9 | 0xFFFEA987  |  4294879623 |
 |      10 | 0xFFFFCF03  |  4294954755 |
 |      11 | 0x0014      |          20 |
-|      12 | 0x205E      |        8286 |
-|      13 | 0x205F      |        8287 |
-|      14 | 0x2060      |        8288 |
+|      12 | 0x205F      |        8287 |
+|      13 | 0x2060      |        8288 |
+|      14 | 0x2061      |        8289 |
 
 ## Events
 
@@ -174,13 +174,13 @@
 ```
   0: 0x004B [0x4A] Anxaberoute (ID: 17719396/0x010E6064) looks at LocalPlayer
   1: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0063 [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8286*]:
+  2: 0x0063 [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8287*]:
     → "Nothing to report...as usual. Although I suppose having nothing to report is a good thing."
   3: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x006B [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8287*]:
+  4: 0x006B [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8288*]:
     → "It is quite a far cry from the days when our kingdom was under siege by the Orcish Bloodwing Horde led by the merciless Doggvdegg."
   5: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0073 [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8288*]:
+  6: 0x0073 [0x2B] Anxaberoute (ID: 17719396/0x010E6064) [8289*]:
     → "I still get weak in the knees when I recall the thunderous din raised by the footsteps of Doggvdegg's mighty bugard mount."
   7: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

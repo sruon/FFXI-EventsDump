@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CD0      |        7376 |
-|       1 | 0x1CD1      |        7377 |
-|       2 | 0x1CD2      |        7378 |
-|       3 | 0x1CD3      |        7379 |
-|       4 | 0x1CD4      |        7380 |
-|       5 | 0x1CD5      |        7381 |
+|       0 | 0x1CD1      |        7377 |
+|       1 | 0x1CD2      |        7378 |
+|       2 | 0x1CD3      |        7379 |
+|       3 | 0x1CD4      |        7380 |
+|       4 | 0x1CD5      |        7381 |
+|       5 | 0x1CD6      |        7382 |
 
 ## String References
 
-- **7376**: You see a message engraved on the stone:
-- **7377**: The view may be beautiful, but the broken grass at our feet is testimony to the inhospitality of this place. The shallows repel anchoring ships, with nothing for miles but sand. Indeed, these dunes are ill-fit for any purpose save sunbathing.
-- **7378**: One day I happened upon a young swimmer struggling for air. I swam out to save her, and as a gesture of thanks she led me to a fascinating place.
-- **7379**: To a small inlet she guided me, to show me dolphins, no doubt. None were there, but I noticed the bay was a natural harbor. I was a sailor in youth, so I knew this to be an important discovery!
-- **7380**: The harbor I named "Selbina." Upon seeing her own name inscribed on my map, the girl clapped her hands in joy.
-- **7381**: --Gwynham Ironheart, 762 Crystal Era.
+- **7377**: You see a message engraved on the stone:
+- **7378**: The view may be beautiful, but the broken grass at our feet is testimony to the inhospitality of this place. The shallows repel anchoring ships, with nothing for miles but sand. Indeed, these dunes are ill-fit for any purpose save sunbathing.
+- **7379**: One day I happened upon a young swimmer struggling for air. I swam out to save her, and as a gesture of thanks she led me to a fascinating place.
+- **7380**: To a small inlet she guided me, to show me dolphins, no doubt. None were there, but I noticed the bay was a natural harbor. I was a sailor in youth, so I knew this to be an important discovery!
+- **7381**: The harbor I named "Selbina." Upon seeing her own name inscribed on my map, the girl clapped her hands in joy.
+- **7382**: --Gwynham Ironheart, 762 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7376*]:
+  0: 0x0001 [0x48] [System] [7377*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7377*]:
+  2: 0x0005 [0x48] [System] [7378*]:
     → "The view may be beautiful, but the broken grass at our feet is testimony to the inhospitality of this place. The shallows repel anchoring ships, with nothing for miles but sand. Indeed, these dunes are ill-fit for any purpose save sunbathing."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7378*]:
+  4: 0x0009 [0x48] [System] [7379*]:
     → "One day I happened upon a young swimmer struggling for air. I swam out to save her, and as a gesture of thanks she led me to a fascinating place."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7379*]:
+  6: 0x000D [0x48] [System] [7380*]:
     → "To a small inlet she guided me, to show me dolphins, no doubt. None were there, but I noticed the bay was a natural harbor. I was a sailor in youth, so I knew this to be an important discovery!"
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7380*]:
+  8: 0x0011 [0x48] [System] [7381*]:
     → "The harbor I named "Selbina." Upon seeing her own name inscribed on my map, the girl clapped her hands in joy."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7381*]:
+ 10: 0x0015 [0x48] [System] [7382*]:
     → "--Gwynham Ironheart, 762 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

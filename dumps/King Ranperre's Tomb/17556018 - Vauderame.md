@@ -46,8 +46,8 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C9B      |        7323 |
-|       4 | 0x1C9C      |        7324 |
+|       3 | 0x1C9C      |        7324 |
+|       4 | 0x1C9D      |        7325 |
 |       5 | 0x000D      |          13 |
 |       6 | 0xFFFFF429  |  4294964265 |
 |       7 | 0xFFFE9411  |  4294874129 |
@@ -57,8 +57,8 @@
 
 ## String References
 
-- **7323**: Say not another word, Rochefogne!
-- **7324**: Adventurer, look no further than bats for your proof of tomb-robbing. Whoever came left much before departing.
+- **7324**: Say not another word, Rochefogne!
+- **7325**: Adventurer, look no further than bats for your proof of tomb-robbing. Whoever came left much before departing.
 
 ## Events
 
@@ -582,7 +582,7 @@
 #### Opcodes
 
 ```
-  0: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+  0: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "Say not another word, Rochefogne!"
   1: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0125 [0x00] END_REQSTACK()
@@ -607,7 +607,7 @@
 #### Opcodes
 
 ```
-  0: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+  0: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "Adventurer, look no further than bats for your proof of tomb-robbing. Whoever came left much before departing."
   1: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012A [0x00] END_REQSTACK()

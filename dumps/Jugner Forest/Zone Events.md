@@ -64,26 +64,26 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFF  |  4294967295 |
-|       1 | 0x1D1D      |        7453 |
+|       1 | 0x1D1E      |        7454 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D1B      |        7451 |
-|       4 | 0x1D49      |        7497 |
+|       3 | 0x1D1C      |        7452 |
+|       4 | 0x1D4A      |        7498 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x003F      |          63 |
 |       7 | 0x0020      |          32 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x1D46      |        7494 |
-|      10 | 0x1D47      |        7495 |
-|      11 | 0x1D48      |        7496 |
+|       9 | 0x1D47      |        7495 |
+|      10 | 0x1D48      |        7496 |
+|      11 | 0x1D49      |        7497 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x1072      |        4210 |
 |      14 | 0x1074      |        4212 |
 |      15 | 0x14B8      |        5304 |
 |      16 | 0x14B9      |        5305 |
-|      17 | 0x1D4B      |        7499 |
+|      17 | 0x1D4C      |        7500 |
 |      18 | 0x40000000  |  1073741824 |
 |      19 | 0x001F      |          31 |
-|      20 | 0x1D4C      |        7500 |
+|      20 | 0x1D4D      |        7501 |
 |      21 | 0x03E8      |        1000 |
 |      22 | 0x0004      |           4 |
 |      23 | 0x0005      |           5 |
@@ -239,33 +239,33 @@
 |     173 | 0xFFFFFF35  |  4294967093 |
 |     174 | 0x0295      |         661 |
 |     175 | 0x006E      |         110 |
-|     176 | 0x1F62      |        8034 |
+|     176 | 0x1F63      |        8035 |
 |     177 | 0x007B      |         123 |
-|     178 | 0x1F63      |        8035 |
-|     179 | 0x1F64      |        8036 |
-|     180 | 0x1F65      |        8037 |
-|     181 | 0x1F66      |        8038 |
-|     182 | 0x1F67      |        8039 |
-|     183 | 0x1F69      |        8041 |
-|     184 | 0x1F6A      |        8042 |
-|     185 | 0x1F6B      |        8043 |
-|     186 | 0x1F6C      |        8044 |
-|     187 | 0x1F6D      |        8045 |
-|     188 | 0x1F6E      |        8046 |
-|     189 | 0x1F6F      |        8047 |
-|     190 | 0x1F70      |        8048 |
-|     191 | 0x1F71      |        8049 |
-|     192 | 0x1F72      |        8050 |
-|     193 | 0x1F73      |        8051 |
-|     194 | 0x1F74      |        8052 |
-|     195 | 0x1F75      |        8053 |
-|     196 | 0x1F76      |        8054 |
-|     197 | 0x1F77      |        8055 |
-|     198 | 0x1F78      |        8056 |
-|     199 | 0x1F79      |        8057 |
-|     200 | 0x1F7A      |        8058 |
-|     201 | 0x1F7B      |        8059 |
-|     202 | 0x1F7C      |        8060 |
+|     178 | 0x1F64      |        8036 |
+|     179 | 0x1F65      |        8037 |
+|     180 | 0x1F66      |        8038 |
+|     181 | 0x1F67      |        8039 |
+|     182 | 0x1F69      |        8041 |
+|     183 | 0x1F6A      |        8042 |
+|     184 | 0x1F6B      |        8043 |
+|     185 | 0x1F6C      |        8044 |
+|     186 | 0x1F6D      |        8045 |
+|     187 | 0x1F6E      |        8046 |
+|     188 | 0x1F6F      |        8047 |
+|     189 | 0x1F70      |        8048 |
+|     190 | 0x1F71      |        8049 |
+|     191 | 0x1F72      |        8050 |
+|     192 | 0x1F73      |        8051 |
+|     193 | 0x1F74      |        8052 |
+|     194 | 0x1F75      |        8053 |
+|     195 | 0x1F76      |        8054 |
+|     196 | 0x1F77      |        8055 |
+|     197 | 0x1F78      |        8056 |
+|     198 | 0x1F79      |        8057 |
+|     199 | 0x1F7A      |        8058 |
+|     200 | 0x1F7B      |        8059 |
+|     201 | 0x1F7C      |        8060 |
+|     202 | 0x1F7D      |        8061 |
 |     203 | 0x00FA      |         250 |
 |     204 | 0x0046      |          70 |
 |     205 | 0x008C      |         140 |
@@ -275,162 +275,162 @@
 |     209 | 0x0209      |         521 |
 |     210 | 0x0109      |         265 |
 |     211 | 0x00B4      |         180 |
-|     212 | 0x2133      |        8499 |
-|     213 | 0x2134      |        8500 |
-|     214 | 0x2135      |        8501 |
-|     215 | 0x2136      |        8502 |
-|     216 | 0x2139      |        8505 |
-|     217 | 0x213A      |        8506 |
-|     218 | 0x213B      |        8507 |
-|     219 | 0x213C      |        8508 |
-|     220 | 0x213D      |        8509 |
-|     221 | 0x2137      |        8503 |
-|     222 | 0x2138      |        8504 |
-|     223 | 0x213E      |        8510 |
-|     224 | 0x213F      |        8511 |
-|     225 | 0x2140      |        8512 |
-|     226 | 0x2141      |        8513 |
-|     227 | 0x2142      |        8514 |
-|     228 | 0x2145      |        8517 |
-|     229 | 0x2146      |        8518 |
-|     230 | 0x2147      |        8519 |
-|     231 | 0x2148      |        8520 |
-|     232 | 0x2149      |        8521 |
-|     233 | 0x2143      |        8515 |
-|     234 | 0x2144      |        8516 |
-|     235 | 0x214A      |        8522 |
-|     236 | 0x214B      |        8523 |
-|     237 | 0x214C      |        8524 |
-|     238 | 0x214D      |        8525 |
+|     212 | 0x2134      |        8500 |
+|     213 | 0x2135      |        8501 |
+|     214 | 0x2136      |        8502 |
+|     215 | 0x2137      |        8503 |
+|     216 | 0x213A      |        8506 |
+|     217 | 0x213B      |        8507 |
+|     218 | 0x213C      |        8508 |
+|     219 | 0x213D      |        8509 |
+|     220 | 0x213E      |        8510 |
+|     221 | 0x2138      |        8504 |
+|     222 | 0x2139      |        8505 |
+|     223 | 0x213F      |        8511 |
+|     224 | 0x2140      |        8512 |
+|     225 | 0x2141      |        8513 |
+|     226 | 0x2142      |        8514 |
+|     227 | 0x2143      |        8515 |
+|     228 | 0x2146      |        8518 |
+|     229 | 0x2147      |        8519 |
+|     230 | 0x2148      |        8520 |
+|     231 | 0x2149      |        8521 |
+|     232 | 0x214A      |        8522 |
+|     233 | 0x2144      |        8516 |
+|     234 | 0x2145      |        8517 |
+|     235 | 0x214B      |        8523 |
+|     236 | 0x214C      |        8524 |
+|     237 | 0x214D      |        8525 |
+|     238 | 0x214E      |        8526 |
 |     239 | 0x0037      |          55 |
-|     240 | 0x214E      |        8526 |
-|     241 | 0x214F      |        8527 |
-|     242 | 0x2150      |        8528 |
-|     243 | 0x2151      |        8529 |
-|     244 | 0x2154      |        8532 |
-|     245 | 0x2155      |        8533 |
-|     246 | 0x2156      |        8534 |
-|     247 | 0x2157      |        8535 |
-|     248 | 0x2158      |        8536 |
-|     249 | 0x2152      |        8530 |
-|     250 | 0x2153      |        8531 |
-|     251 | 0x2159      |        8537 |
+|     240 | 0x214F      |        8527 |
+|     241 | 0x2150      |        8528 |
+|     242 | 0x2151      |        8529 |
+|     243 | 0x2152      |        8530 |
+|     244 | 0x2155      |        8533 |
+|     245 | 0x2156      |        8534 |
+|     246 | 0x2157      |        8535 |
+|     247 | 0x2158      |        8536 |
+|     248 | 0x2159      |        8537 |
+|     249 | 0x2153      |        8531 |
+|     250 | 0x2154      |        8532 |
+|     251 | 0x215A      |        8538 |
 |     252 | 0x02DC      |         732 |
-|     253 | 0x215A      |        8538 |
-|     254 | 0x215B      |        8539 |
-|     255 | 0x2168      |        8552 |
+|     253 | 0x215B      |        8539 |
+|     254 | 0x215C      |        8540 |
+|     255 | 0x2169      |        8553 |
 |     256 | 0x0050      |          80 |
-|     257 | 0x2169      |        8553 |
+|     257 | 0x216A      |        8554 |
 |     258 | 0x0030      |          48 |
-|     259 | 0x216A      |        8554 |
-|     260 | 0x216B      |        8555 |
-|     261 | 0x216C      |        8556 |
+|     259 | 0x216B      |        8555 |
+|     260 | 0x216C      |        8556 |
+|     261 | 0x216D      |        8557 |
 |     262 | 0x007F      |         127 |
-|     263 | 0x216D      |        8557 |
+|     263 | 0x216E      |        8558 |
 |     264 | 0x0101      |         257 |
 |     265 | 0x0052      |          82 |
-|     266 | 0x216E      |        8558 |
+|     266 | 0x216F      |        8559 |
 |     267 | 0x00FE      |         254 |
-|     268 | 0x216F      |        8559 |
+|     268 | 0x2170      |        8560 |
 |     269 | 0x0096      |         150 |
 |     270 | 0x00CC      |         204 |
-|     271 | 0x2170      |        8560 |
-|     272 | 0x2171      |        8561 |
+|     271 | 0x2171      |        8561 |
+|     272 | 0x2172      |        8562 |
 |     273 | 0x0038      |          56 |
-|     274 | 0x2172      |        8562 |
-|     275 | 0x2173      |        8563 |
-|     276 | 0x2174      |        8564 |
+|     274 | 0x2173      |        8563 |
+|     275 | 0x2174      |        8564 |
+|     276 | 0x2175      |        8565 |
 |     277 | 0x012C      |         300 |
-|     278 | 0x2175      |        8565 |
+|     278 | 0x2176      |        8566 |
 |     279 | 0x0108      |         264 |
-|     280 | 0x2176      |        8566 |
-|     281 | 0x2177      |        8567 |
-|     282 | 0x2178      |        8568 |
-|     283 | 0x2179      |        8569 |
-|     284 | 0x217C      |        8572 |
-|     285 | 0x217D      |        8573 |
-|     286 | 0x217E      |        8574 |
-|     287 | 0x217F      |        8575 |
-|     288 | 0x2180      |        8576 |
-|     289 | 0x217A      |        8570 |
-|     290 | 0x217B      |        8571 |
-|     291 | 0x2181      |        8577 |
-|     292 | 0x2182      |        8578 |
-|     293 | 0x2183      |        8579 |
-|     294 | 0x2184      |        8580 |
-|     295 | 0x2185      |        8581 |
-|     296 | 0x2188      |        8584 |
-|     297 | 0x2189      |        8585 |
-|     298 | 0x218A      |        8586 |
-|     299 | 0x218B      |        8587 |
-|     300 | 0x218C      |        8588 |
-|     301 | 0x2186      |        8582 |
-|     302 | 0x2187      |        8583 |
-|     303 | 0x218D      |        8589 |
-|     304 | 0x218E      |        8590 |
-|     305 | 0x218F      |        8591 |
-|     306 | 0x2190      |        8592 |
-|     307 | 0x2191      |        8593 |
-|     308 | 0x2192      |        8594 |
-|     309 | 0x2195      |        8597 |
-|     310 | 0x2196      |        8598 |
-|     311 | 0x2197      |        8599 |
-|     312 | 0x2198      |        8600 |
-|     313 | 0x2199      |        8601 |
-|     314 | 0x2193      |        8595 |
-|     315 | 0x2194      |        8596 |
-|     316 | 0x219A      |        8602 |
+|     280 | 0x2177      |        8567 |
+|     281 | 0x2178      |        8568 |
+|     282 | 0x2179      |        8569 |
+|     283 | 0x217A      |        8570 |
+|     284 | 0x217D      |        8573 |
+|     285 | 0x217E      |        8574 |
+|     286 | 0x217F      |        8575 |
+|     287 | 0x2180      |        8576 |
+|     288 | 0x2181      |        8577 |
+|     289 | 0x217B      |        8571 |
+|     290 | 0x217C      |        8572 |
+|     291 | 0x2182      |        8578 |
+|     292 | 0x2183      |        8579 |
+|     293 | 0x2184      |        8580 |
+|     294 | 0x2185      |        8581 |
+|     295 | 0x2186      |        8582 |
+|     296 | 0x2189      |        8585 |
+|     297 | 0x218A      |        8586 |
+|     298 | 0x218B      |        8587 |
+|     299 | 0x218C      |        8588 |
+|     300 | 0x218D      |        8589 |
+|     301 | 0x2187      |        8583 |
+|     302 | 0x2188      |        8584 |
+|     303 | 0x218E      |        8590 |
+|     304 | 0x218F      |        8591 |
+|     305 | 0x2190      |        8592 |
+|     306 | 0x2191      |        8593 |
+|     307 | 0x2192      |        8594 |
+|     308 | 0x2193      |        8595 |
+|     309 | 0x2196      |        8598 |
+|     310 | 0x2197      |        8599 |
+|     311 | 0x2198      |        8600 |
+|     312 | 0x2199      |        8601 |
+|     313 | 0x219A      |        8602 |
+|     314 | 0x2194      |        8596 |
+|     315 | 0x2195      |        8597 |
+|     316 | 0x219B      |        8603 |
 |     317 | 0x0044      |          68 |
-|     318 | 0x219B      |        8603 |
-|     319 | 0x219C      |        8604 |
-|     320 | 0x219D      |        8605 |
-|     321 | 0x219E      |        8606 |
-|     322 | 0x219F      |        8607 |
-|     323 | 0x21A0      |        8608 |
-|     324 | 0x21A1      |        8609 |
-|     325 | 0x21A4      |        8612 |
-|     326 | 0x21A5      |        8613 |
-|     327 | 0x21A6      |        8614 |
-|     328 | 0x21A7      |        8615 |
-|     329 | 0x21A8      |        8616 |
-|     330 | 0x21A2      |        8610 |
-|     331 | 0x21A3      |        8611 |
-|     332 | 0x21A9      |        8617 |
-|     333 | 0x21AA      |        8618 |
-|     334 | 0x21AB      |        8619 |
-|     335 | 0x21AC      |        8620 |
-|     336 | 0x21AD      |        8621 |
-|     337 | 0x21AE      |        8622 |
-|     338 | 0x21AF      |        8623 |
-|     339 | 0x21B0      |        8624 |
-|     340 | 0x21B1      |        8625 |
-|     341 | 0x21B2      |        8626 |
-|     342 | 0x21B3      |        8627 |
-|     343 | 0x21B4      |        8628 |
-|     344 | 0x21B5      |        8629 |
-|     345 | 0x21B6      |        8630 |
-|     346 | 0x21B7      |        8631 |
-|     347 | 0x21B8      |        8632 |
-|     348 | 0x21B9      |        8633 |
-|     349 | 0x21BA      |        8634 |
-|     350 | 0x21BB      |        8635 |
-|     351 | 0x21BC      |        8636 |
-|     352 | 0x21BD      |        8637 |
-|     353 | 0x21BE      |        8638 |
+|     318 | 0x219C      |        8604 |
+|     319 | 0x219D      |        8605 |
+|     320 | 0x219E      |        8606 |
+|     321 | 0x219F      |        8607 |
+|     322 | 0x21A0      |        8608 |
+|     323 | 0x21A1      |        8609 |
+|     324 | 0x21A2      |        8610 |
+|     325 | 0x21A5      |        8613 |
+|     326 | 0x21A6      |        8614 |
+|     327 | 0x21A7      |        8615 |
+|     328 | 0x21A8      |        8616 |
+|     329 | 0x21A9      |        8617 |
+|     330 | 0x21A3      |        8611 |
+|     331 | 0x21A4      |        8612 |
+|     332 | 0x21AA      |        8618 |
+|     333 | 0x21AB      |        8619 |
+|     334 | 0x21AC      |        8620 |
+|     335 | 0x21AD      |        8621 |
+|     336 | 0x21AE      |        8622 |
+|     337 | 0x21AF      |        8623 |
+|     338 | 0x21B0      |        8624 |
+|     339 | 0x21B1      |        8625 |
+|     340 | 0x21B2      |        8626 |
+|     341 | 0x21B3      |        8627 |
+|     342 | 0x21B4      |        8628 |
+|     343 | 0x21B5      |        8629 |
+|     344 | 0x21B6      |        8630 |
+|     345 | 0x21B7      |        8631 |
+|     346 | 0x21B8      |        8632 |
+|     347 | 0x21B9      |        8633 |
+|     348 | 0x21BA      |        8634 |
+|     349 | 0x21BB      |        8635 |
+|     350 | 0x21BC      |        8636 |
+|     351 | 0x21BD      |        8637 |
+|     352 | 0x21BE      |        8638 |
+|     353 | 0x21BF      |        8639 |
 |     354 | 0x00C9      |         201 |
-|     355 | 0x21BF      |        8639 |
-|     356 | 0x215C      |        8540 |
-|     357 | 0x215D      |        8541 |
-|     358 | 0x215E      |        8542 |
-|     359 | 0x215F      |        8543 |
-|     360 | 0x2162      |        8546 |
-|     361 | 0x2163      |        8547 |
-|     362 | 0x2164      |        8548 |
-|     363 | 0x2165      |        8549 |
-|     364 | 0x2166      |        8550 |
-|     365 | 0x2160      |        8544 |
-|     366 | 0x2161      |        8545 |
-|     367 | 0x2167      |        8551 |
+|     355 | 0x21C0      |        8640 |
+|     356 | 0x215D      |        8541 |
+|     357 | 0x215E      |        8542 |
+|     358 | 0x215F      |        8543 |
+|     359 | 0x2160      |        8544 |
+|     360 | 0x2163      |        8547 |
+|     361 | 0x2164      |        8548 |
+|     362 | 0x2165      |        8549 |
+|     363 | 0x2166      |        8550 |
+|     364 | 0x2167      |        8551 |
+|     365 | 0x2161      |        8545 |
+|     366 | 0x2162      |        8546 |
+|     367 | 0x2168      |        8552 |
 |     368 | 0x80812     |      526354 |
 |     369 | 0x88183     |      557443 |
 |     370 | 0x0074      |         116 |
@@ -642,26 +642,26 @@
 |     576 | 0x0193      |         403 |
 |     577 | 0x01C6      |         454 |
 |     578 | 0x01C7      |         455 |
-|     579 | 0x21C4      |        8644 |
+|     579 | 0x21C5      |        8645 |
 |     580 | 0x0090      |         144 |
-|     581 | 0x21D0      |        8656 |
+|     581 | 0x21D1      |        8657 |
 |     582 | 0x0063      |          99 |
-|     583 | 0x21D1      |        8657 |
+|     583 | 0x21D2      |        8658 |
 
 ## String References
 
-- **7451**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
-- **7453**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
-- **7494**: You find the temporary item: $0!
-- **7495**: You find $0, but you cannot carry any more temporary items.
-- **7496**: You find $0, but you cannot carry more than one of that temporary item.
-- **7497**: You find a Petra! [Keep it./Throw it away.]
-- **7499**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
-- **7500**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
-- **8639**: You feel the bonds between you and your adventuring fellow strengthen!
-- **8644**: There is treasure somewhere in the vicinity of this marker...
-- **8656**: Your chocobo seems especially sharp today!
-- **8657**: Your chocobo seems especially energetic today!
+- **7452**: Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!
+- **7454**: You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points]).
+- **7495**: You find the temporary item: $0!
+- **7496**: You find $0, but you cannot carry any more temporary items.
+- **7497**: You find $0, but you cannot carry more than one of that temporary item.
+- **7498**: You find a Petra! [Keep it./Throw it away.]
+- **7500**: What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]
+- **7501**: Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]
+- **8640**: You feel the bonds between you and your adventuring fellow strengthen!
+- **8645**: There is treasure somewhere in the vicinity of this marker...
+- **8657**: Your chocobo seems especially sharp today!
+- **8658**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -736,11 +736,11 @@
   3: 0x0006 [0x47] UPDATE_PLAYER_POS(Work_Zone[2], Work_Zone[3], Work_Zone[4], yaw=Work_Zone[5])
   4: 0x0010 [0x47] WAIT_PLAYER_POS_UPDATE
   5: 0x0012 [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x002A
-  6: 0x001A [0x48] [System] [7453*]:
+  6: 0x001A [0x48] [System] [7454*]:
     → "You scored $4 [Petra/Petras] ($5 [Ballista point/Ballista points])."
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001E [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x002A
-  9: 0x0026 [0x48] [System] [7451*]:
+  9: 0x0026 [0x48] [System] [7452*]:
     → "Contributing a total of $7 [Petra/Petras] to the [San d'Orian/Bastokan/Windurstian] forces, today's high scorer is %0!"
  10: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002A [0x21] END_EVENT
@@ -769,7 +769,7 @@
 
 ```
   0: 0x002C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x002E [0x24] CREATE_DIALOG(message_id=7497*, default_option=1*, option_flags=0*)
+  1: 0x002E [0x24] CREATE_DIALOG(message_id=7498*, default_option=1*, option_flags=0*)
     → "You find a Petra! [Keep it./Throw it away.]"
   2: 0x0035 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0036 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0047
@@ -1096,19 +1096,19 @@ SUBROUTINE_0091:
  18: 0x00A4 [0x06] ExtData[1]->WorkLocal[16] = 0
  19: 0x00A7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
  20: 0x00AC [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x00C0
- 21: 0x00B4 [0x48] [System] [7494*]:
+ 21: 0x00B4 [0x48] [System] [7495*]:
     → "You find the temporary item: $0!"
  22: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00B8 [0x03] ExtData[1]->WorkLocal[16] = 2*
  24: 0x00BD [0x01] GOTO 0x00E8
  25: 0x00C0 [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x00D4
- 26: 0x00C8 [0x48] [System] [7495*]:
+ 26: 0x00C8 [0x48] [System] [7496*]:
     → "You find $0, but you cannot carry any more temporary items."
  27: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00CC [0x03] ExtData[1]->WorkLocal[16] = 1*
  29: 0x00D1 [0x01] GOTO 0x00E8
  30: 0x00D4 [0x02] IF !(ExtData[1]->WorkLocal[17] == 2*) GOTO 0x00E8
- 31: 0x00DC [0x48] [System] [7496*]:
+ 31: 0x00DC [0x48] [System] [7497*]:
     → "You find $0, but you cannot carry more than one of that temporary item."
  32: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00E0 [0x03] ExtData[1]->WorkLocal[16] = 3*
@@ -1134,7 +1134,7 @@ SUBROUTINE_00E8:
 SUBROUTINE_0129:
  50: 0x0129 [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x0138
  51: 0x0131 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[16], bit_index_work_offset=2*, condition_work_offset=1*)
- 52: 0x0138 [0x24] CREATE_DIALOG(message_id=7499*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+ 52: 0x0138 [0x24] CREATE_DIALOG(message_id=7500*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "What do you do? [Keep the item./Exchange the item./Use the item./Throw the item away.]"
  53: 0x013F [0x25] WAIT_DIALOG_SELECT()
  54: 0x0140 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0150
@@ -1194,7 +1194,7 @@ SUBROUTINE_01CC:
 106: 0x01FD [0x01] GOTO 0x01CC
 107: 0x0200 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[18]
 108: 0x0205 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=31*, condition_work_offset=1*)
-109: 0x020C [0x24] CREATE_DIALOG(message_id=7500*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+109: 0x020C [0x24] CREATE_DIALOG(message_id=7501*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "Exchange with which item? [$0./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./$23./$24./$25./$26./$27./$28./$29./$30./Return.]"
 110: 0x0213 [0x25] WAIT_DIALOG_SELECT()
 111: 0x0214 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0222
@@ -2555,8 +2555,8 @@ SUBROUTINE_1122:
 1470: 01 B4 80 23 45 06 80 F0  FF FF 7F F0 FF FF 7F 7A  ...#E..........z
 1480: 30 30 35 02 80 55 06 80  F0 FF FF 7F F0 FF FF 7F  005..U..........
 1490: 7A 30 30 35 27 03 6F 82  06 01 0A 2B 6F 82 06 01  z005'.o....+o...
-14A0: B5 80 23 2B 6D 82 06 01  B6 80 23 27 04 6F 82 06  ..#+m.....#'.o..
-14B0: 01 0B 2B 6F 82 06 01 98  80 23 27 03 6D 82 06 01  ..+o.....#'.m...
+14A0: B5 80 23 2B 6D 82 06 01  98 80 23 27 04 6F 82 06  ..#+m.....#'.o..
+14B0: 01 0B 2B 6F 82 06 01 B6  80 23 27 03 6D 82 06 01  ..+o.....#'.m...
 14C0: 04 45 06 80 F0 FF FF 7F  F0 FF FF 7F 7A 30 30 61  .E..........z00a
 14D0: 02 80 1C 30 80 2B 6D 82  06 01 B7 80 23 27 04 6D  ...0.+m.....#'.m
 14E0: 82 06 01 05 55 06 80 F0  FF FF 7F F0 FF FF 7F 7A  ....U..........z
@@ -2663,7 +2663,7 @@ SUBROUTINE_1122:
  29: 0x1390 [0x4A] LocalPlayer looks at Roido (ID: 17203823/0x0106826F)
  30: 0x1399 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  31: 0x139A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
- 32: 0x139F [0x2B] Roido (ID: 17203823/0x0106826F) [8034*]:
+ 32: 0x139F [0x2B] Roido (ID: 17203823/0x0106826F) [8035*]:
     → "Did we make it in time...?"
  33: 0x13A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x13A7 [0x6E] EventEntity uses emote 6*
@@ -2676,7 +2676,7 @@ SUBROUTINE_1122:
  41: 0x13C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
  42: 0x13D8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=63*
  43: 0x13E7 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Millechairale (ID: 17203821/0x0106826D), tag_num=0x02)
- 44: 0x13EE [0x2B] Millechairale (ID: 17203821/0x0106826D) [8035*]:
+ 44: 0x13EE [0x2B] Millechairale (ID: 17203821/0x0106826D) [8036*]:
     → "Hey, what do you think you're doing!?"
  45: 0x13F5 [0x1C] WAIT(60* ticks)
  46: 0x13F8 [0x4A] Roido (ID: 17203823/0x0106826F) looks at Millechairale (ID: 17203821/0x0106826D)
@@ -2686,7 +2686,7 @@ SUBROUTINE_1122:
  50: 0x141E [0x1C] WAIT(15* ticks)
  51: 0x1421 [0x4A] LocalPlayer looks at Millechairale (ID: 17203821/0x0106826D)
  52: 0x142A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x142B [0x2B] Roido (ID: 17203823/0x0106826F) [8036*]:
+ 53: 0x142B [0x2B] Roido (ID: 17203823/0x0106826F) [8037*]:
     → "Millechairale! You're safe!"
  54: 0x1432 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=63*
  55: 0x1441 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x03)
@@ -2694,26 +2694,26 @@ SUBROUTINE_1122:
  57: 0x1449 [0x1C] WAIT(10* ticks)
  58: 0x144C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
  59: 0x145D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=63*
- 60: 0x146C [0x2B] Millechairale (ID: 17203821/0x0106826D) [8037*]:
+ 60: 0x146C [0x2B] Millechairale (ID: 17203821/0x0106826D) [8038*]:
     → "Roido!? Why did you come here...?"
  61: 0x1473 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1474 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
  63: 0x1485 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=63*
  64: 0x1494 [0x27] REQ_SET(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x0A)
- 65: 0x149B [0x2B] Roido (ID: 17203823/0x0106826F) [8038*]:
+ 65: 0x149B [0x2B] Roido (ID: 17203823/0x0106826F) [8039*]:
     → "Come, we must return the scepter. If we just leave it somewhere near the chateau, someone is bound to find it. There's no need for you to get in any more tr--"
  66: 0x14A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x14A3 [0x2B] Millechairale (ID: 17203821/0x0106826D) [8039*]:
+ 67: 0x14A3 [0x2B] Millechairale (ID: 17203821/0x0106826D) [8040*]:
     → "You know I cannot do that! I have made an oath that must be carried out!"
  68: 0x14AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x14AB [0x27] REQ_SET(priority=0x04, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x0B)
- 70: 0x14B2 [0x2B] Roido (ID: 17203823/0x0106826F) [8040*]:
+ 70: 0x14B2 [0x2B] Roido (ID: 17203823/0x0106826F) [8041*]:
     → "I know you have. But your sister is frantic that she will lose you before this is over."
  71: 0x14B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x14BA [0x27] REQ_SET(priority=0x03, entity_id=Millechairale (ID: 17203821/0x0106826D), tag_num=0x04)
  73: 0x14C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z00a" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
  74: 0x14D2 [0x1C] WAIT(30* ticks)
- 75: 0x14D5 [0x2B] Millechairale (ID: 17203821/0x0106826D) [8041*]:
+ 75: 0x14D5 [0x2B] Millechairale (ID: 17203821/0x0106826D) [8042*]:
     → "This has nothing to do with you! You have no idea of the responsibility the Caphieux name entails!"
  76: 0x14DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x14DD [0x27] REQ_SET(priority=0x04, entity_id=Millechairale (ID: 17203821/0x0106826D), tag_num=0x05)
@@ -2722,7 +2722,7 @@ SUBROUTINE_1122:
  80: 0x1504 [0x1C] WAIT(15* ticks)
  81: 0x1507 [0x7C] Roido (ID: 17203823/0x0106826F)->Render.Flags2 |= 0x00
  82: 0x150D [0x7B] Roido (ID: 17203823/0x0106826F) stops talking
- 83: 0x1512 [0x2B] Roido (ID: 17203823/0x0106826F) [8042*]:
+ 83: 0x1512 [0x2B] Roido (ID: 17203823/0x0106826F) [8043*]:
     → "!!!"
  84: 0x1519 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x151A [0x7C] Roido (ID: 17203823/0x0106826F)->Render.Flags2 |= 0x01
@@ -2732,7 +2732,7 @@ SUBROUTINE_1122:
  89: 0x153C [0x1C] WAIT(10* ticks)
  90: 0x153F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
  91: 0x1550 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=63*
- 92: 0x155F [0x2B] Millechairale (ID: 17203821/0x0106826D) [8043*]:
+ 92: 0x155F [0x2B] Millechairale (ID: 17203821/0x0106826D) [8044*]:
     → "You waste your time scratching in the dirt. I already have the Scepter Royaulais!"
  93: 0x1566 [0x1C] WAIT(60* ticks)
  94: 0x1569 [0x4A] LocalPlayer looks at Millechairale (ID: 17203821/0x0106826D)
@@ -2742,7 +2742,7 @@ SUBROUTINE_1122:
  98: 0x1581 [0x4A] Vijartal (ID: 17203822/0x0106826E) looks at Millechairale (ID: 17203821/0x0106826D)
  99: 0x158A [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x04)
 100: 0x1591 [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x1592 [0x2B] Roido (ID: 17203823/0x0106826F) [8044*]:
+101: 0x1592 [0x2B] Roido (ID: 17203823/0x0106826F) [8045*]:
     → "Millechairale! Wait!"
 102: 0x1599 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x159A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
@@ -2750,12 +2750,12 @@ SUBROUTINE_1122:
 105: 0x15BA [0x1C] WAIT(30* ticks)
 106: 0x15BD [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Vijartal (ID: 17203822/0x0106826E), tag_num=0x03)
 107: 0x15C4 [0x27] REQ_SET(priority=0x03, entity_id=Vijartal (ID: 17203822/0x0106826E), tag_num=0x06)
-108: 0x15CB [0x2B] Vijartal (ID: 17203822/0x0106826E) [8045*]:
+108: 0x15CB [0x2B] Vijartal (ID: 17203822/0x0106826E) [8046*]:
     → "What in the name of the Goddess is going on? This matter has become entirely too troublesome."
 109: 0x15D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x15D3 [0x4A] Roido (ID: 17203823/0x0106826F) looks at LocalPlayer
 111: 0x15DC [0x1C] WAIT(10* ticks)
-112: 0x15DF [0x2B] Roido (ID: 17203823/0x0106826F) [8046*]:
+112: 0x15DF [0x2B] Roido (ID: 17203823/0x0106826F) [8047*]:
     → "<Player>! Vijartal! Please return to my home for the moment. I have to chase down my brother-in-law!"
 113: 0x15E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 114: 0x15E7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Roido (ID: 17203823/0x0106826F) Render.Flags0 and Render.Flags3 conditions are met
@@ -2771,7 +2771,7 @@ SUBROUTINE_1122:
 124: 0x1623 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=63*
 125: 0x1632 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 126: 0x1633 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Vijartal (ID: 17203822/0x0106826E) Render.Flags0 and Render.Flags3 conditions are met
-127: 0x1638 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8047*]:
+127: 0x1638 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8048*]:
     → "Did I hear you correctly? Are you, a miserable Bastoker, presuming to give Vijartal Caphieux orders!?"
 128: 0x163F [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x1640 [0x27] REQ_SET(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x05)
@@ -2780,39 +2780,39 @@ SUBROUTINE_1122:
 132: 0x165B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Roido (ID: 17203823/0x0106826F))
 133: 0x1661 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=63*
 134: 0x1670 [0x1C] WAIT(30* ticks)
-135: 0x1673 [0x2B] Roido (ID: 17203823/0x0106826F) [8048*]:
+135: 0x1673 [0x2B] Roido (ID: 17203823/0x0106826F) [8049*]:
     → "Do you know what happened, Vijartal? Do you know of the hero that died in battle trying to save the future of San d'Oria and Bastok?"
 136: 0x167A [0x23] WAIT_FOR_DIALOG_INTERACTION
-137: 0x167B [0x2B] Vijartal (ID: 17203822/0x0106826E) [8049*]:
+137: 0x167B [0x2B] Vijartal (ID: 17203822/0x0106826E) [8050*]:
     → "What are you..."
 138: 0x1682 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x1683 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
 140: 0x1694 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=63*
 141: 0x16A3 [0x27] REQ_SET(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x08)
-142: 0x16AA [0x2B] Roido (ID: 17203823/0x0106826F) [8050*]:
+142: 0x16AA [0x2B] Roido (ID: 17203823/0x0106826F) [8051*]:
     → "That hero was Vijartal Caphieux! The man who gave his life to protect Prince Fellenant and his mission to forge a peace with Bastok!"
 143: 0x16B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x16B2 [0x2B] Roido (ID: 17203823/0x0106826F) [8051*]:
+144: 0x16B2 [0x2B] Roido (ID: 17203823/0x0106826F) [8052*]:
     → "I don't care if you hate Bastokers or choose to call yourself Vijartal! But I will not hear you sully the name of the great knight who died for the peace of our two nations!"
 145: 0x16B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x16BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
 147: 0x16CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=63*
 148: 0x16DA [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x09)
 149: 0x16E1 [0x7C] Vijartal (ID: 17203822/0x0106826E)->Render.Flags2 |= 0x00
-150: 0x16E7 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8052*]:
+150: 0x16E7 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8053*]:
     → "!!!"
 151: 0x16EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x16EF [0x7C] Vijartal (ID: 17203822/0x0106826E)->Render.Flags2 |= 0x01
 153: 0x16F5 [0x4A] Roido (ID: 17203823/0x0106826F) looks at LocalPlayer
 154: 0x16FE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 155: 0x16FF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Roido (ID: 17203823/0x0106826F) Render.Flags0 and Render.Flags3 conditions are met
-156: 0x1704 [0x2B] Roido (ID: 17203823/0x0106826F) [8053*]:
+156: 0x1704 [0x2B] Roido (ID: 17203823/0x0106826F) [8054*]:
     → "<Player>, we will meet again at my home."
 157: 0x170B [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x170C [0x27] REQ_SET(priority=0x03, entity_id=Roido (ID: 17203823/0x0106826F), tag_num=0x06)
 159: 0x1713 [0x1C] WAIT(10* ticks)
 160: 0x1716 [0x4A] Vijartal (ID: 17203822/0x0106826E) looks at Roido (ID: 17203823/0x0106826F)
-161: 0x171F [0x2B] Vijartal (ID: 17203822/0x0106826E) [8054*]:
+161: 0x171F [0x2B] Vijartal (ID: 17203822/0x0106826E) [8055*]:
     → "Dying in battle is a fate that no true knight fears. But what do you mean by "he died for peace"?"
 162: 0x1726 [0x1C] WAIT(30* ticks)
 163: 0x1729 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y003" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
@@ -2823,11 +2823,11 @@ SUBROUTINE_1122:
 168: 0x1755 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x1756 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y004" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
 170: 0x1767 [0x1C] WAIT(60* ticks)
-171: 0x176A [0x2B] Roido (ID: 17203823/0x0106826F) [8055*]:
+171: 0x176A [0x2B] Roido (ID: 17203823/0x0106826F) [8056*]:
     → "King Raigegue R D'Oraguille, unable to wrest control of the city from his younger brother, plotted his sibling's assassination."
 172: 0x1771 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x1772 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y004" with entities [LocalPlayer, LocalPlayer], work=63*
-174: 0x1781 [0x2B] Roido (ID: 17203823/0x0106826F) [8056*]:
+174: 0x1781 [0x2B] Roido (ID: 17203823/0x0106826F) [8057*]:
     → "The assassination was foiled by Vijartal, but in protecting the prince, he was mortally wounded..."
 175: 0x1788 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x1789 [0x4A] LocalPlayer looks at Vijartal (ID: 17203822/0x0106826E)
@@ -2835,25 +2835,25 @@ SUBROUTINE_1122:
 178: 0x1799 [0x1C] WAIT(90* ticks)
 179: 0x179C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y005" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
 180: 0x17AD [0x1C] WAIT(90* ticks)
-181: 0x17B0 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8057*]:
+181: 0x17B0 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8058*]:
     → "Did I hear his words correctly? Vijartal Caphieux protected the life of Prince Fellenant and wished for peace between our nations...?"
 182: 0x17B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x17B8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y005" with entities [LocalPlayer, LocalPlayer], work=63*
 184: 0x17C7 [0x4A] Vijartal (ID: 17203822/0x0106826E) looks at LocalPlayer
 185: 0x17D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 186: 0x17D1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Vijartal (ID: 17203822/0x0106826E) Render.Flags0 and Render.Flags3 conditions are met
-187: 0x17D6 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8058*]:
+187: 0x17D6 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8059*]:
     → "That is what he said, is it not? Is this some sort of joke? It cannot possibly be true..."
 188: 0x17DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x17DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y006" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
 190: 0x17EF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y006" with entities [LocalPlayer, LocalPlayer], work=63*
 191: 0x17FE [0x27] REQ_SET(priority=0x03, entity_id=Vijartal (ID: 17203822/0x0106826E), tag_num=0x08)
 192: 0x1805 [0x1C] WAIT(30* ticks)
-193: 0x1808 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8059*]:
+193: 0x1808 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8060*]:
     → "Vijartal Caphieux was headed to the capital to end the life of Fellenant!"
 194: 0x180F [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x1810 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y007" with entities [LocalPlayer, LocalPlayer], work=[63*, 0*]
-196: 0x1821 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8060*]:
+196: 0x1821 [0x2B] Vijartal (ID: 17203822/0x0106826E) [8061*]:
     → "If this is indeed the course of events, how could it have skewed so dramatically...? Impossible..."
 197: 0x1828 [0x1C] WAIT(250* ticks)
 198: 0x182B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -3626,62 +3626,62 @@ SUBROUTINE_1894:
  27: 0x19C0 [0x1C] WAIT(60* ticks)
  28: 0x19C3 [0x1A] CALL_SUBROUTINE(address=0x591D)
  29: 0x19C6 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x19D9
- 30: 0x19CE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8499*]:
+ 30: 0x19CE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8500*]:
     → "Lake Mechieume... This place looks like the source of the river..."
  31: 0x19D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x19D6 [0x01] GOTO 0x1AAA
  33: 0x19D9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x19EC
- 34: 0x19E1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8500*]:
+ 34: 0x19E1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8501*]:
     → "Lake Mechieume! This place looks like the source of the river..."
  35: 0x19E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x19E9 [0x01] GOTO 0x1AAA
  37: 0x19EC [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x19FF
- 38: 0x19F4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8501*]:
+ 38: 0x19F4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8502*]:
     → "Lake Mechieume... This place looks like the source of the river..."
  39: 0x19FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x19FC [0x01] GOTO 0x1AAA
  41: 0x19FF [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x1A12
- 42: 0x1A07 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8502*]:
+ 42: 0x1A07 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8503*]:
     → "Lake Mechieume... This place must qualify as the source of the river..."
  43: 0x1A0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x1A0F [0x01] GOTO 0x1AAA
  45: 0x1A12 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x1A25
- 46: 0x1A1A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8505*]:
+ 46: 0x1A1A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8506*]:
     → "Lake Mechieume... This place looks like the source of the river..."
  47: 0x1A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x1A22 [0x01] GOTO 0x1AAA
  49: 0x1A25 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x1A38
- 50: 0x1A2D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8506*]:
+ 50: 0x1A2D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8507*]:
     → "Lake Mechieume! This place looks like the source of the river..."
  51: 0x1A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1A35 [0x01] GOTO 0x1AAA
  53: 0x1A38 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x1A4B
- 54: 0x1A40 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8507*]:
+ 54: 0x1A40 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8508*]:
     → "Lake Mechieume... This place looks like the source of the river..."
  55: 0x1A47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x1A48 [0x01] GOTO 0x1AAA
  57: 0x1A4B [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x1A5E
- 58: 0x1A53 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8508*]:
+ 58: 0x1A53 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8509*]:
     → "Lake Mechieume... Would this place be the source of the river...?"
  59: 0x1A5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x1A5B [0x01] GOTO 0x1AAA
  61: 0x1A5E [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x1A71
- 62: 0x1A66 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8509*]:
+ 62: 0x1A66 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8510*]:
     → "Lake Mechieume... This place must qualify as the source of the river..."
  63: 0x1A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x1A6E [0x01] GOTO 0x1AAA
  65: 0x1A71 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x1A84
- 66: 0x1A79 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8503*]:
+ 66: 0x1A79 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8504*]:
     → "Lake Mechieume... This looks like the source of the river..."
  67: 0x1A80 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x1A81 [0x01] GOTO 0x1AAA
  69: 0x1A84 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x1A97
- 70: 0x1A8C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8504*]:
+ 70: 0x1A8C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8505*]:
     → "Lake Mechieume... I'm no expert, but this would be the river's source, right?"
  71: 0x1A93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x1A94 [0x01] GOTO 0x1AAA
  73: 0x1A97 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x1AAA
- 74: 0x1A9F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8510*]:
+ 74: 0x1A9F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8511*]:
     → "Lake Mechieume... This appears to be the source of the river."
  75: 0x1AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x1AA7 [0x01] GOTO 0x1AAA
@@ -3690,62 +3690,62 @@ SUBROUTINE_1AAA:
  77: 0x1AAA [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at LocalPlayer
  78: 0x1AB3 [0x1A] CALL_SUBROUTINE(address=0x591D)
  79: 0x1AB6 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x1AC9
- 80: 0x1ABE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8511*]:
+ 80: 0x1ABE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8512*]:
     → "Maybe we can fix the mirror here. What do you think, <Player>?"
  81: 0x1AC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x1AC6 [0x01] GOTO 0x1B9A
  83: 0x1AC9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x1ADC
- 84: 0x1AD1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8512*]:
+ 84: 0x1AD1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8513*]:
     → "Maybe we can fix the mirror here! What do you think, <Player>?"
  85: 0x1AD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x1AD9 [0x01] GOTO 0x1B9A
  87: 0x1ADC [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x1AEF
- 88: 0x1AE4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8513*]:
+ 88: 0x1AE4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8514*]:
     → "Maybe we can fix the mirror here. What do you think, <Player>?"
  89: 0x1AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x1AEC [0x01] GOTO 0x1B9A
  91: 0x1AEF [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x1B02
- 92: 0x1AF7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8514*]:
+ 92: 0x1AF7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8515*]:
     → "Perhaps it will be suitable for the repair of the mirror. What do you think, <Player>?"
  93: 0x1AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x1AFF [0x01] GOTO 0x1B9A
  95: 0x1B02 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x1B15
- 96: 0x1B0A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8517*]:
+ 96: 0x1B0A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8518*]:
     → "Maybe we can fix the mirror here. What do you think, <Player>?"
  97: 0x1B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x1B12 [0x01] GOTO 0x1B9A
  99: 0x1B15 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x1B28
-100: 0x1B1D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8518*]:
+100: 0x1B1D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8519*]:
     → "Maybe we can fix the mirror here! What do you think, <Player>?"
 101: 0x1B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x1B25 [0x01] GOTO 0x1B9A
 103: 0x1B28 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x1B3B
-104: 0x1B30 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8519*]:
+104: 0x1B30 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8520*]:
     → "Maybe we can fix the mirror here. What do you think, <Player>?"
 105: 0x1B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x1B38 [0x01] GOTO 0x1B9A
 107: 0x1B3B [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x1B4E
-108: 0x1B43 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8520*]:
+108: 0x1B43 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8521*]:
     → "Maybe we can fix the mirror here. What do you think, <Player>?"
 109: 0x1B4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x1B4B [0x01] GOTO 0x1B9A
 111: 0x1B4E [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x1B61
-112: 0x1B56 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8521*]:
+112: 0x1B56 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8522*]:
     → "Perhaps it will be suitable for the repair of the mirror. What do you think, <Player>?"
 113: 0x1B5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1B5E [0x01] GOTO 0x1B9A
 115: 0x1B61 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x1B74
-116: 0x1B69 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8515*]:
+116: 0x1B69 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8516*]:
     → "What do you think, <Player>? Maybe we can trying fixing the mirror here."
 117: 0x1B70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x1B71 [0x01] GOTO 0x1B9A
 119: 0x1B74 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x1B87
-120: 0x1B7C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8516*]:
+120: 0x1B7C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8517*]:
     → "It might be possible to repair the mirror here. What do you think, <Player>?"
 121: 0x1B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x1B84 [0x01] GOTO 0x1B9A
 123: 0x1B87 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x1B9A
-124: 0x1B8F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8522*]:
+124: 0x1B8F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8523*]:
     → "Perhaps the mirror can be repaired here. Any thoughts, <Player>?"
 125: 0x1B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x1B97 [0x01] GOTO 0x1B9A
@@ -3760,7 +3760,7 @@ SUBROUTINE_1B9A:
 133: 0x1BCC [0x1C] WAIT(90* ticks)
 134: 0x1BCF [0x27] REQ_SET(priority=0x0F, entity_id=Palometa (ID: 17203882/0x010682AA), tag_num=0x02)
 135: 0x1BD6 [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at Palometa (ID: 17203882/0x010682AA) (Basic look)
-136: 0x1BE0 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8523*]:
+136: 0x1BE0 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8524*]:
     → "Palometa? Do you sense anything, sweetie?"
 137: 0x1BE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x1BE8 [0x27] REQ_SET(priority=0x06, entity_id=Palometa (ID: 17203882/0x010682AA), tag_num=0x02)
@@ -3771,7 +3771,7 @@ SUBROUTINE_1B9A:
 143: 0x1C04 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 144: 0x1C05 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Palometa (ID: 17203882/0x010682AA) Render.Flags0 and Render.Flags3 conditions are met
 145: 0x1C0A [0x1C] WAIT(30* ticks)
-146: 0x1C0D [0x2B] Palometa (ID: 17203882/0x010682AA) [8524*]:
+146: 0x1C0D [0x2B] Palometa (ID: 17203882/0x010682AA) [8525*]:
     → "Um... I...I can't tell. I'm sorry..."
 147: 0x1C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x1C15 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=180*
@@ -3779,7 +3779,7 @@ SUBROUTINE_1B9A:
 150: 0x1C35 [0x1C] WAIT(30* ticks)
 151: 0x1C38 [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at Unnamed NPC (ID: 17203881/0x010682A9) (Basic look)
 152: 0x1C42 [0x1C] WAIT(60* ticks)
-153: 0x1C45 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8525*]:
+153: 0x1C45 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8526*]:
     → "Pity..."
 154: 0x1C4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x1C4D [0x1C] WAIT(55* ticks)
@@ -3793,62 +3793,62 @@ SUBROUTINE_1B9A:
 163: 0x1C8F [0x1C] WAIT(60* ticks)
 164: 0x1C92 [0x1A] CALL_SUBROUTINE(address=0x591D)
 165: 0x1C95 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x1CA8
-166: 0x1C9D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8526*]:
+166: 0x1C9D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8527*]:
     → "I think it's worth a try."
 167: 0x1CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x1CA5 [0x01] GOTO 0x1D79
 169: 0x1CA8 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x1CBB
-170: 0x1CB0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8527*]:
+170: 0x1CB0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8528*]:
     → "Worth a try, I'd say."
 171: 0x1CB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x1CB8 [0x01] GOTO 0x1D79
 173: 0x1CBB [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x1CCE
-174: 0x1CC3 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8528*]:
+174: 0x1CC3 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8529*]:
     → "I think it's worth a try."
 175: 0x1CCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x1CCB [0x01] GOTO 0x1D79
 177: 0x1CCE [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x1CE1
-178: 0x1CD6 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8529*]:
+178: 0x1CD6 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8530*]:
     → "I think it merits an attempt, at least."
 179: 0x1CDD [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x1CDE [0x01] GOTO 0x1D79
 181: 0x1CE1 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x1CF4
-182: 0x1CE9 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8532*]:
+182: 0x1CE9 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8533*]:
     → "I think it's worth a try."
 183: 0x1CF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x1CF1 [0x01] GOTO 0x1D79
 185: 0x1CF4 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x1D07
-186: 0x1CFC [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8533*]:
+186: 0x1CFC [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8534*]:
     → "Worth a try, at least!"
 187: 0x1D03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x1D04 [0x01] GOTO 0x1D79
 189: 0x1D07 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x1D1A
-190: 0x1D0F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8534*]:
+190: 0x1D0F [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8535*]:
     → "I think it's worth a try."
 191: 0x1D16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x1D17 [0x01] GOTO 0x1D79
 193: 0x1D1A [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x1D2D
-194: 0x1D22 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8535*]:
+194: 0x1D22 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8536*]:
     → "I think it's worth a try."
 195: 0x1D29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x1D2A [0x01] GOTO 0x1D79
 197: 0x1D2D [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x1D40
-198: 0x1D35 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8536*]:
+198: 0x1D35 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8537*]:
     → "I think it merits an attempt, at least."
 199: 0x1D3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x1D3D [0x01] GOTO 0x1D79
 201: 0x1D40 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x1D53
-202: 0x1D48 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8530*]:
+202: 0x1D48 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8531*]:
     → "I think we should try it."
 203: 0x1D4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x1D50 [0x01] GOTO 0x1D79
 205: 0x1D53 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x1D66
-206: 0x1D5B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8531*]:
+206: 0x1D5B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8532*]:
     → "Why don't we give it a try?"
 207: 0x1D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x1D63 [0x01] GOTO 0x1D79
 209: 0x1D66 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x1D79
-210: 0x1D6E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8537*]:
+210: 0x1D6E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8538*]:
     → "Since we are now here, we may as well try."
 211: 0x1D75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x1D76 [0x01] GOTO 0x1D79
@@ -3860,12 +3860,12 @@ SUBROUTINE_1D79:
 216: 0x1D9C [0x1C] WAIT(15* ticks)
 217: 0x1D9F [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at Unnamed NPC (ID: 17203885/0x010682AD) (Basic look)
 218: 0x1DA9 [0x03] Work_Zone[2] = 732*
-219: 0x1DAE [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8538*]:
+219: 0x1DAE [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8539*]:
     → "You're rrright. We have the mirror and the $3 rrready, after all."
 220: 0x1DB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x1DB6 [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at Unnamed NPC (ID: 17203881/0x010682A9) (Basic look)
 222: 0x1DC0 [0x1C] WAIT(30* ticks)
-223: 0x1DC3 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8539*]:
+223: 0x1DC3 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8540*]:
     → "Let's give it a shot."
 224: 0x1DCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x1DCB [0x1C] WAIT(30* ticks)
@@ -3899,7 +3899,7 @@ SUBROUTINE_1E77:
 251: 0x1E87 [0x1A] CALL_SUBROUTINE(address=0x4169)
 252: 0x1E8A [0x1C] WAIT(60* ticks)
 253: 0x1E8D [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-254: 0x1E96 [0x2B] Palometa (ID: 17203882/0x010682AA) [8552*]:
+254: 0x1E96 [0x2B] Palometa (ID: 17203882/0x010682AA) [8553*]:
     → "I'm fine. Don't worry about me!"
 255: 0x1E9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x1E9E [0x1C] WAIT(60* ticks)
@@ -3921,7 +3921,7 @@ SUBROUTINE_1F12:
 270: 0x1F23 [0x1C] WAIT(60* ticks)
 271: 0x1F26 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Palometa (ID: 17203882/0x010682AA), Palometa (ID: 17203882/0x010682AA)], work=80*
 272: 0x1F35 [0x1C] WAIT(90* ticks)
-273: 0x1F38 [0x2B] Palometa (ID: 17203882/0x010682AA) [8553*]:
+273: 0x1F38 [0x2B] Palometa (ID: 17203882/0x010682AA) [8554*]:
     → "I call upon thee, great divinity. He who creates time in the absence of light."
 274: 0x1F3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 275: 0x1F40 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s006" with entities [EventEntity, EventEntity], work=180*
@@ -3933,7 +3933,7 @@ SUBROUTINE_1F12:
 281: 0x1F88 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=180*
 282: 0x1F97 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[180*, 0*]
 283: 0x1FA8 [0x1C] WAIT(120* ticks)
-284: 0x1FAB [0x2B] Palometa (ID: 17203882/0x010682AA) [8554*]:
+284: 0x1FAB [0x2B] Palometa (ID: 17203882/0x010682AA) [8555*]:
     → "We wish for thy shadow to eclipse the sun... For the night to welcome the moon..."
 285: 0x1FB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x1FB3 [0x1C] WAIT(60* ticks)
@@ -3970,7 +3970,7 @@ SUBROUTINE_1F12:
 
 SUBROUTINE_20DC:
 317: 0x20DC [0x1C] WAIT(60* ticks)
-318: 0x20DF [0x2B] Palometa (ID: 17203882/0x010682AA) [8555*]:
+318: 0x20DF [0x2B] Palometa (ID: 17203882/0x010682AA) [8556*]:
     → "Banish the sliver of illumination, and make the darkness whole once more..."
 319: 0x20E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 320: 0x20E7 [0x1C] WAIT(90* ticks)
@@ -4017,7 +4017,7 @@ SUBROUTINE_21DD:
 359: 0x224D [0x1C] WAIT(180* ticks)
 360: 0x2250 [0x1A] CALL_SUBROUTINE(address=0x40BE)
 361: 0x2253 [0x1C] WAIT(120* ticks)
-362: 0x2256 [0x2B] Palometa (ID: 17203882/0x010682AA) [8556*]:
+362: 0x2256 [0x2B] Palometa (ID: 17203882/0x010682AA) [8557*]:
     → "Daddy's mirror..."
 363: 0x225D [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x225E [0x1C] WAIT(15* ticks)
@@ -4036,7 +4036,7 @@ SUBROUTINE_21DD:
 377: 0x22CB [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
 378: 0x22CF [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
 379: 0x22D3 [0x1C] WAIT(60* ticks)
-380: 0x22D6 [0x2B] ??? (ID: 17203884/0x010682AC) [8557*]:
+380: 0x22D6 [0x2B] ??? (ID: 17203884/0x010682AC) [8558*]:
     → "Well done, child."
 381: 0x22DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 382: 0x22DE [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Unnamed NPC (ID: 17203885/0x010682AD), tag_num=0x0B)
@@ -4082,7 +4082,7 @@ SUBROUTINE_2416:
 420: 0x2416 [0x6E] Unnamed NPC (ID: 17203881/0x010682A9) uses emote 21*
 421: 0x241D [0x99] Wait for Unnamed NPC (ID: 17203881/0x010682A9) animation to complete
 422: 0x2422 [0x1C] WAIT(30* ticks)
-423: 0x2425 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8558*]:
+423: 0x2425 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8559*]:
     → "Palometa...!"
 424: 0x242C [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x242D [0x27] REQ_SET(priority=0x0B, entity_id=Unnamed NPC (ID: 17203881/0x010682A9), tag_num=0x06)
@@ -4134,7 +4134,7 @@ SUBROUTINE_2525:
 469: 0x25A8 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Palometa (ID: 17203882/0x010682AA), Palometa (ID: 17203882/0x010682AA)], work=[48*, 0*]
 470: 0x25B9 [0x1C] WAIT(120* ticks)
 471: 0x25BC [0x1A] CALL_SUBROUTINE(address=0x406A)
-472: 0x25BF [0x2B] Palometa (ID: 17203882/0x010682AA) [8559*]:
+472: 0x25BF [0x2B] Palometa (ID: 17203882/0x010682AA) [8560*]:
     → "Aaah!"
 473: 0x25C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x25C7 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [EventEntity, EventEntity], work=180*
@@ -4150,7 +4150,7 @@ SUBROUTINE_2525:
 484: 0x2621 [0x99] Wait for ??? (ID: 17203884/0x010682AC) animation to complete
 485: 0x2626 [0x1C] WAIT(150* ticks)
 486: 0x2629 [0x73] ??? (ID: 17203884/0x010682AC) casts magic 204* on Unnamed NPC (ID: 17203885/0x010682AD)
-487: 0x2634 [0x2B] ??? (ID: 17203884/0x010682AC) [8560*]:
+487: 0x2634 [0x2B] ??? (ID: 17203884/0x010682AC) [8561*]:
     → "Hahahahaha! This is it...! What I have been searching for...! Wahahahahaha!"
 488: 0x263B [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x263C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4170,7 +4170,7 @@ SUBROUTINE_2525:
 503: 0x26D2 [0x6E] ??? (ID: 17203884/0x010682AC) uses emote 4*
 504: 0x26D9 [0x99] Wait for ??? (ID: 17203884/0x010682AC) animation to complete
 505: 0x26DE [0x1C] WAIT(60* ticks)
-506: 0x26E1 [0x2B] ??? (ID: 17203884/0x010682AC) [8561*]:
+506: 0x26E1 [0x2B] ??? (ID: 17203884/0x010682AC) [8562*]:
     → "The indescribable power...!"
 507: 0x26E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 508: 0x26E9 [0x6E] Unnamed NPC (ID: 17203881/0x010682A9) uses emote 25*
@@ -4201,14 +4201,14 @@ SUBROUTINE_2525:
 533: 0x27E7 [0x1C] WAIT(60* ticks)
 534: 0x27EA [0x1A] CALL_SUBROUTINE(address=0x40BE)
 535: 0x27ED [0x1C] WAIT(90* ticks)
-536: 0x27F0 [0x2B] ??? (ID: 17203884/0x010682AC) [8562*]:
+536: 0x27F0 [0x2B] ??? (ID: 17203884/0x010682AC) [8563*]:
     → "Bwahahahahaha!"
 537: 0x27F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 538: 0x27F8 [0x73] Unnamed NPC (ID: 17203885/0x010682AD) casts magic 21* on Unnamed NPC (ID: 17203881/0x010682A9)
 539: 0x2803 [0x1C] WAIT(30* ticks)
 540: 0x2806 [0x79] ??? (ID: 17203884/0x010682AC) looks at Unnamed NPC (ID: 17203881/0x010682A9) (Basic look)
 541: 0x2810 [0x1C] WAIT(60* ticks)
-542: 0x2813 [0x2B] ??? (ID: 17203884/0x010682AC) [8563*]:
+542: 0x2813 [0x2B] ??? (ID: 17203884/0x010682AC) [8564*]:
     → "...?"
 543: 0x281A [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x281B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4271,7 +4271,7 @@ SUBROUTINE_29B1:
 597: 0x29B4 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Unnamed NPC (ID: 17203885/0x010682AD), Unnamed NPC (ID: 17203885/0x010682AD)], work=[3*, 0*]
 598: 0x29C5 [0x1C] WAIT(15* ticks)
 599: 0x29C8 [0x4A] ??? (ID: 17203884/0x010682AC) looks at Unnamed NPC (ID: 17203881/0x010682A9)
-600: 0x29D1 [0x2B] ??? (ID: 17203884/0x010682AC) [8564*]:
+600: 0x29D1 [0x2B] ??? (ID: 17203884/0x010682AC) [8565*]:
     → "!!!"
 601: 0x29D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 602: 0x29D9 [0x1C] WAIT(90* ticks)
@@ -4476,7 +4476,7 @@ SUBROUTINE_2F78:
 787: 0x303C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[180*, 0*]
 788: 0x304D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sgm0" with entities [??? (ID: 17203884/0x010682AC), ??? (ID: 17203884/0x010682AC)], work=9*
 789: 0x305C [0x1C] WAIT(180* ticks)
-790: 0x305F [0x2B] ??? (ID: 17203884/0x010682AC) [8565*]:
+790: 0x305F [0x2B] ??? (ID: 17203884/0x010682AC) [8566*]:
     → "This can't be... That light...!"
 791: 0x3066 [0x23] WAIT_FOR_DIALOG_INTERACTION
 792: 0x3067 [0x1C] WAIT(60* ticks)
@@ -4595,62 +4595,62 @@ SUBROUTINE_33F5:
 899: 0x3402 [0x99] Wait for Unnamed NPC (ID: 17203881/0x010682A9) animation to complete
 900: 0x3407 [0x1A] CALL_SUBROUTINE(address=0x591D)
 901: 0x340A [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x341D
-902: 0x3412 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8566*]:
+902: 0x3412 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8567*]:
     → "What was that light...?"
 903: 0x3419 [0x23] WAIT_FOR_DIALOG_INTERACTION
 904: 0x341A [0x01] GOTO 0x34EE
 905: 0x341D [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x3430
-906: 0x3425 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8567*]:
+906: 0x3425 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8568*]:
     → "What was that light...?"
 907: 0x342C [0x23] WAIT_FOR_DIALOG_INTERACTION
 908: 0x342D [0x01] GOTO 0x34EE
 909: 0x3430 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x3443
-910: 0x3438 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8568*]:
+910: 0x3438 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8569*]:
     → "What was that light...?"
 911: 0x343F [0x23] WAIT_FOR_DIALOG_INTERACTION
 912: 0x3440 [0x01] GOTO 0x34EE
 913: 0x3443 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x3456
-914: 0x344B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8569*]:
+914: 0x344B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8570*]:
     → "What was that light...?"
 915: 0x3452 [0x23] WAIT_FOR_DIALOG_INTERACTION
 916: 0x3453 [0x01] GOTO 0x34EE
 917: 0x3456 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x3469
-918: 0x345E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8572*]:
+918: 0x345E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8573*]:
     → "What was that light...?"
 919: 0x3465 [0x23] WAIT_FOR_DIALOG_INTERACTION
 920: 0x3466 [0x01] GOTO 0x34EE
 921: 0x3469 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x347C
-922: 0x3471 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8573*]:
+922: 0x3471 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8574*]:
     → "What was that light...?"
 923: 0x3478 [0x23] WAIT_FOR_DIALOG_INTERACTION
 924: 0x3479 [0x01] GOTO 0x34EE
 925: 0x347C [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x348F
-926: 0x3484 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8574*]:
+926: 0x3484 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8575*]:
     → "What was that light...?"
 927: 0x348B [0x23] WAIT_FOR_DIALOG_INTERACTION
 928: 0x348C [0x01] GOTO 0x34EE
 929: 0x348F [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x34A2
-930: 0x3497 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8575*]:
+930: 0x3497 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8576*]:
     → "What was that light...?"
 931: 0x349E [0x23] WAIT_FOR_DIALOG_INTERACTION
 932: 0x349F [0x01] GOTO 0x34EE
 933: 0x34A2 [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x34B5
-934: 0x34AA [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8576*]:
+934: 0x34AA [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8577*]:
     → "What was that light...?"
 935: 0x34B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 936: 0x34B2 [0x01] GOTO 0x34EE
 937: 0x34B5 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x34C8
-938: 0x34BD [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8570*]:
+938: 0x34BD [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8571*]:
     → "What was that light...?"
 939: 0x34C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 940: 0x34C5 [0x01] GOTO 0x34EE
 941: 0x34C8 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x34DB
-942: 0x34D0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8571*]:
+942: 0x34D0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8572*]:
     → "What was that light...?"
 943: 0x34D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 944: 0x34D8 [0x01] GOTO 0x34EE
 945: 0x34DB [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x34EE
-946: 0x34E3 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8577*]:
+946: 0x34E3 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8578*]:
     → "That light... What was it?"
 947: 0x34EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 948: 0x34EB [0x01] GOTO 0x34EE
@@ -4740,62 +4740,62 @@ SUBROUTINE_3758:
 1026: 0x375E [0x79] Unnamed NPC (ID: 17203881/0x010682A9) looks at Luto Mewrilah (ID: 17203883/0x010682AB) (Basic look)
 1027: 0x3768 [0x1A] CALL_SUBROUTINE(address=0x591D)
 1028: 0x376B [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x377E
-1029: 0x3773 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8578*]:
+1029: 0x3773 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8579*]:
     → "Palometa! Is she okay!?"
 1030: 0x377A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1031: 0x377B [0x01] GOTO 0x384F
 1032: 0x377E [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x3791
-1033: 0x3786 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8579*]:
+1033: 0x3786 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8580*]:
     → "Palometa! She okay!?"
 1034: 0x378D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1035: 0x378E [0x01] GOTO 0x384F
 1036: 0x3791 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x37A4
-1037: 0x3799 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8580*]:
+1037: 0x3799 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8581*]:
     → "Palometa! Is she okay!?"
 1038: 0x37A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1039: 0x37A1 [0x01] GOTO 0x384F
 1040: 0x37A4 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x37B7
-1041: 0x37AC [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8581*]:
+1041: 0x37AC [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8582*]:
     → "Palometa! Is she alright!?"
 1042: 0x37B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1043: 0x37B4 [0x01] GOTO 0x384F
 1044: 0x37B7 [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x37CA
-1045: 0x37BF [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8584*]:
+1045: 0x37BF [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8585*]:
     → "Palometa! Is she okay!?"
 1046: 0x37C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1047: 0x37C7 [0x01] GOTO 0x384F
 1048: 0x37CA [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x37DD
-1049: 0x37D2 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8585*]:
+1049: 0x37D2 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8586*]:
     → "Palometa! She okay!?"
 1050: 0x37D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1051: 0x37DA [0x01] GOTO 0x384F
 1052: 0x37DD [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x37F0
-1053: 0x37E5 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8586*]:
+1053: 0x37E5 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8587*]:
     → "Palometa! Is she okay!?"
 1054: 0x37EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1055: 0x37ED [0x01] GOTO 0x384F
 1056: 0x37F0 [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x3803
-1057: 0x37F8 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8587*]:
+1057: 0x37F8 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8588*]:
     → "Palometa! Is she okay!?"
 1058: 0x37FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1059: 0x3800 [0x01] GOTO 0x384F
 1060: 0x3803 [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x3816
-1061: 0x380B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8588*]:
+1061: 0x380B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8589*]:
     → "Palometa! Is she alright!?"
 1062: 0x3812 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1063: 0x3813 [0x01] GOTO 0x384F
 1064: 0x3816 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x3829
-1065: 0x381E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8582*]:
+1065: 0x381E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8583*]:
     → "Palometa! Is she okay!?"
 1066: 0x3825 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1067: 0x3826 [0x01] GOTO 0x384F
 1068: 0x3829 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x383C
-1069: 0x3831 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8583*]:
+1069: 0x3831 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8584*]:
     → "Palometa! What happened to her?"
 1070: 0x3838 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1071: 0x3839 [0x01] GOTO 0x384F
 1072: 0x383C [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x384F
-1073: 0x3844 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8589*]:
+1073: 0x3844 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8590*]:
     → "Palometa! Is she harmed!?"
 1074: 0x384B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1075: 0x384C [0x01] GOTO 0x384F
@@ -4833,7 +4833,7 @@ SUBROUTINE_3936:
 1103: 0x3936 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[180*, 0*]
 1104: 0x3947 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=48*
 1105: 0x3956 [0x1C] WAIT(60* ticks)
-1106: 0x3959 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8590*]:
+1106: 0x3959 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8591*]:
     → "I'm not sure. She doesn't appear to be injured..."
 1107: 0x3960 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1108: 0x3961 [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at Unnamed NPC (ID: 17203881/0x010682A9) (Basic look)
@@ -4868,62 +4868,62 @@ SUBROUTINE_3936:
 SUBROUTINE_3A60:
 1136: 0x3A60 [0x1A] CALL_SUBROUTINE(address=0x591D)
 1137: 0x3A63 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x3A76
-1138: 0x3A6B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8591*]:
+1138: 0x3A6B [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8592*]:
     → "Well, that's something, at least. How could this have happened?"
 1139: 0x3A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1140: 0x3A73 [0x01] GOTO 0x3B47
 1141: 0x3A76 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x3A89
-1142: 0x3A7E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8592*]:
+1142: 0x3A7E [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8593*]:
     → "Well, that's something, at least. Who could've seen that coming...?"
 1143: 0x3A85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1144: 0x3A86 [0x01] GOTO 0x3B47
 1145: 0x3A89 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x3A9C
-1146: 0x3A91 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8593*]:
+1146: 0x3A91 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8594*]:
     → "Well, that's something, at least. How could this have happened?"
 1147: 0x3A98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1148: 0x3A99 [0x01] GOTO 0x3B47
 1149: 0x3A9C [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x3AAF
-1150: 0x3AA4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8594*]:
+1150: 0x3AA4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8595*]:
     → "Well, that's something, at least. How could this have happened?"
 1151: 0x3AAB [0x23] WAIT_FOR_DIALOG_INTERACTION
 1152: 0x3AAC [0x01] GOTO 0x3B47
 1153: 0x3AAF [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x3AC2
-1154: 0x3AB7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8597*]:
+1154: 0x3AB7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8598*]:
     → "Well, that's something, at least. How could this have happened?"
 1155: 0x3ABE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1156: 0x3ABF [0x01] GOTO 0x3B47
 1157: 0x3AC2 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x3AD5
-1158: 0x3ACA [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8598*]:
+1158: 0x3ACA [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8599*]:
     → "Well, that's something, at least. Who could've seen that coming...?"
 1159: 0x3AD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1160: 0x3AD2 [0x01] GOTO 0x3B47
 1161: 0x3AD5 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x3AE8
-1162: 0x3ADD [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8599*]:
+1162: 0x3ADD [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8600*]:
     → "Well, that's something, at least. How could this have happened?"
 1163: 0x3AE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1164: 0x3AE5 [0x01] GOTO 0x3B47
 1165: 0x3AE8 [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x3AFB
-1166: 0x3AF0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8600*]:
+1166: 0x3AF0 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8601*]:
     → "Well, that's something, at least. I can't believe what just happened..."
 1167: 0x3AF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1168: 0x3AF8 [0x01] GOTO 0x3B47
 1169: 0x3AFB [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x3B0E
-1170: 0x3B03 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8601*]:
+1170: 0x3B03 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8602*]:
     → "Well, that's something, at least. How could this have happened?"
 1171: 0x3B0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1172: 0x3B0B [0x01] GOTO 0x3B47
 1173: 0x3B0E [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x3B21
-1174: 0x3B16 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8595*]:
+1174: 0x3B16 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8596*]:
     → "Well, that's something, at least. But...how did this happen?"
 1175: 0x3B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1176: 0x3B1E [0x01] GOTO 0x3B47
 1177: 0x3B21 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x3B34
-1178: 0x3B29 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8596*]:
+1178: 0x3B29 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8597*]:
     → "Well, that's something, at least. I never imagined something like this would happen."
 1179: 0x3B30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1180: 0x3B31 [0x01] GOTO 0x3B47
 1181: 0x3B34 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x3B47
-1182: 0x3B3C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8602*]:
+1182: 0x3B3C [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8603*]:
     → "Well, that's something, at least. How could this have happened?"
 1183: 0x3B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1184: 0x3B44 [0x01] GOTO 0x3B47
@@ -4962,15 +4962,15 @@ SUBROUTINE_3C2E:
 1213: 0x3C3F [0x1C] WAIT(60* ticks)
 1214: 0x3C42 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=68*
 1215: 0x3C51 [0x1C] WAIT(60* ticks)
-1216: 0x3C54 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8603*]:
+1216: 0x3C54 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8604*]:
     → "It's like that man was waiting for us to rrrepair the mirror..."
 1217: 0x3C5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1218: 0x3C5C [0x1C] WAIT(60* ticks)
-1219: 0x3C5F [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8604*]:
+1219: 0x3C5F [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8605*]:
     → "And then to go ahead and attempt to unleash its power like that..."
 1220: 0x3C66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1221: 0x3C67 [0x1C] WAIT(60* ticks)
-1222: 0x3C6A [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8605*]:
+1222: 0x3C6A [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8606*]:
     → "For the moment, I'll get little Palometa to a doctor in Jeuno."
 1223: 0x3C71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1224: 0x3C72 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=68*
@@ -4978,62 +4978,62 @@ SUBROUTINE_3C2E:
 1226: 0x3C88 [0x99] Wait for Unnamed NPC (ID: 17203881/0x010682A9) animation to complete
 1227: 0x3C8D [0x1A] CALL_SUBROUTINE(address=0x591D)
 1228: 0x3C90 [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x3CA3
-1229: 0x3C98 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8606*]:
+1229: 0x3C98 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8607*]:
     → "Thanks, Luto."
 1230: 0x3C9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1231: 0x3CA0 [0x01] GOTO 0x3D74
 1232: 0x3CA3 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x3CB6
-1233: 0x3CAB [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8607*]:
+1233: 0x3CAB [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8608*]:
     → "Thanks, Luto."
 1234: 0x3CB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1235: 0x3CB3 [0x01] GOTO 0x3D74
 1236: 0x3CB6 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x3CC9
-1237: 0x3CBE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8608*]:
+1237: 0x3CBE [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8609*]:
     → "Thanks, Luto."
 1238: 0x3CC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1239: 0x3CC6 [0x01] GOTO 0x3D74
 1240: 0x3CC9 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x3CDC
-1241: 0x3CD1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8609*]:
+1241: 0x3CD1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8610*]:
     → "Thank you, Luto."
 1242: 0x3CD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1243: 0x3CD9 [0x01] GOTO 0x3D74
 1244: 0x3CDC [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x3CEF
-1245: 0x3CE4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8612*]:
+1245: 0x3CE4 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8613*]:
     → "Thanks, Luto."
 1246: 0x3CEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 1247: 0x3CEC [0x01] GOTO 0x3D74
 1248: 0x3CEF [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x3D02
-1249: 0x3CF7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8613*]:
+1249: 0x3CF7 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8614*]:
     → "Thanks, Luto."
 1250: 0x3CFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1251: 0x3CFF [0x01] GOTO 0x3D74
 1252: 0x3D02 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x3D15
-1253: 0x3D0A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8614*]:
+1253: 0x3D0A [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8615*]:
     → "Thanks, Luto."
 1254: 0x3D11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1255: 0x3D12 [0x01] GOTO 0x3D74
 1256: 0x3D15 [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x3D28
-1257: 0x3D1D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8615*]:
+1257: 0x3D1D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8616*]:
     → "Thanks, Luto."
 1258: 0x3D24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1259: 0x3D25 [0x01] GOTO 0x3D74
 1260: 0x3D28 [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x3D3B
-1261: 0x3D30 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8616*]:
+1261: 0x3D30 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8617*]:
     → "Thank you, Luto."
 1262: 0x3D37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1263: 0x3D38 [0x01] GOTO 0x3D74
 1264: 0x3D3B [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x3D4E
-1265: 0x3D43 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8610*]:
+1265: 0x3D43 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8611*]:
     → "Thanks, Luto."
 1266: 0x3D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1267: 0x3D4B [0x01] GOTO 0x3D74
 1268: 0x3D4E [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x3D61
-1269: 0x3D56 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8611*]:
+1269: 0x3D56 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8612*]:
     → "Thanks, Luto."
 1270: 0x3D5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1271: 0x3D5E [0x01] GOTO 0x3D74
 1272: 0x3D61 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x3D74
-1273: 0x3D69 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8617*]:
+1273: 0x3D69 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8618*]:
     → "We're counting on you."
 1274: 0x3D70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1275: 0x3D71 [0x01] GOTO 0x3D74
@@ -5055,42 +5055,42 @@ SUBROUTINE_3D74:
 1289: 0x3DC7 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Unnamed NPC (ID: 17203881/0x010682A9), tag_num=0x08)
 1290: 0x3DCE [0x1A] CALL_SUBROUTINE(address=0x583C)
 1291: 0x3DD1 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x3DE4
-1292: 0x3DD9 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8618*]:
+1292: 0x3DD9 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8619*]:
     → "<Player>. Did you see the power that [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] wielded?"
 1293: 0x3DE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1294: 0x3DE1 [0x01] GOTO 0x3E69
 1295: 0x3DE4 [0x02] IF !(ExtData[1]->WorkLocal[43] == 1*) GOTO 0x3DF7
-1296: 0x3DEC [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8619*]:
+1296: 0x3DEC [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8620*]:
     → "<Player>. Did you see the power that [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] wielded?"
 1297: 0x3DF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1298: 0x3DF4 [0x01] GOTO 0x3E69
 1299: 0x3DF7 [0x02] IF !(ExtData[1]->WorkLocal[43] == 2*) GOTO 0x3E0A
-1300: 0x3DFF [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8620*]:
+1300: 0x3DFF [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8621*]:
     → "<Player>. Did you see the power that [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] wielded?"
 1301: 0x3E06 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1302: 0x3E07 [0x01] GOTO 0x3E69
 1303: 0x3E0A [0x02] IF !(ExtData[1]->WorkLocal[43] == 3*) GOTO 0x3E1D
-1304: 0x3E12 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8621*]:
+1304: 0x3E12 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8622*]:
     → "<Player>. Did you see the power that [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] wielded?"
 1305: 0x3E19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1306: 0x3E1A [0x01] GOTO 0x3E69
 1307: 0x3E1D [0x02] IF !(ExtData[1]->WorkLocal[43] == 4*) GOTO 0x3E30
-1308: 0x3E25 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8622*]:
+1308: 0x3E25 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8623*]:
     → "<Player>. Did you see the power that [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] wielded?"
 1309: 0x3E2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1310: 0x3E2D [0x01] GOTO 0x3E69
 1311: 0x3E30 [0x02] IF !(ExtData[1]->WorkLocal[43] == 5*) GOTO 0x3E43
-1312: 0x3E38 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8623*]:
+1312: 0x3E38 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8624*]:
     → "<Player>. Did you see the power that [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] wielded?"
 1313: 0x3E3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1314: 0x3E40 [0x01] GOTO 0x3E69
 1315: 0x3E43 [0x02] IF !(ExtData[1]->WorkLocal[43] == 6*) GOTO 0x3E56
-1316: 0x3E4B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8624*]:
+1316: 0x3E4B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8625*]:
     → "<Player>. Did you see the power that [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] wielded?"
 1317: 0x3E52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1318: 0x3E53 [0x01] GOTO 0x3E69
 1319: 0x3E56 [0x02] IF !(ExtData[1]->WorkLocal[43] == 7*) GOTO 0x3E69
-1320: 0x3E5E [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8625*]:
+1320: 0x3E5E [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8626*]:
     → "<Player>. Did you see the power that [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] wielded?"
 1321: 0x3E65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1322: 0x3E66 [0x01] GOTO 0x3E69
@@ -5099,60 +5099,60 @@ SUBROUTINE_3E69:
 1323: 0x3E69 [0x2A] GET_REQ_LEVEL(level=20, entity_id=Luto Mewrilah (ID: 17203883/0x010682AB))
 1324: 0x3E6F [0x1C] WAIT(60* ticks)
 1325: 0x3E72 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=68*
-1326: 0x3E81 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8626*]:
+1326: 0x3E81 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8627*]:
     → "That was no ordinary light. Surely you felt it, too?"
 1327: 0x3E88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1328: 0x3E89 [0x79] Luto Mewrilah (ID: 17203883/0x010682AB) looks at LocalPlayer (Basic look)
-1329: 0x3E93 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8627*]:
+1329: 0x3E93 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8628*]:
     → "You can bet that guy'll be back for the Mirror of Blighted Gloom."
 1330: 0x3E9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1331: 0x3E9B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=68*
 1332: 0x3EAA [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Unnamed NPC (ID: 17203881/0x010682A9), tag_num=0x08)
 1333: 0x3EB1 [0x1A] CALL_SUBROUTINE(address=0x583C)
 1334: 0x3EB4 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x3EC7
-1335: 0x3EBC [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8628*]:
+1335: 0x3EBC [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8629*]:
     → "And when he does, you and [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] will be the only ones who can stand against him."
 1336: 0x3EC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1337: 0x3EC4 [0x01] GOTO 0x3F4C
 1338: 0x3EC7 [0x02] IF !(ExtData[1]->WorkLocal[43] == 1*) GOTO 0x3EDA
-1339: 0x3ECF [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8629*]:
+1339: 0x3ECF [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8630*]:
     → "And when he does, you and [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] will be the only ones who can stand against him."
 1340: 0x3ED6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1341: 0x3ED7 [0x01] GOTO 0x3F4C
 1342: 0x3EDA [0x02] IF !(ExtData[1]->WorkLocal[43] == 2*) GOTO 0x3EED
-1343: 0x3EE2 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8630*]:
+1343: 0x3EE2 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8631*]:
     → "And when he does, you and [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] will be the only ones who can stand against him."
 1344: 0x3EE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1345: 0x3EEA [0x01] GOTO 0x3F4C
 1346: 0x3EED [0x02] IF !(ExtData[1]->WorkLocal[43] == 3*) GOTO 0x3F00
-1347: 0x3EF5 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8631*]:
+1347: 0x3EF5 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8632*]:
     → "And when he does, you and [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] will be the only ones who can stand against him."
 1348: 0x3EFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1349: 0x3EFD [0x01] GOTO 0x3F4C
 1350: 0x3F00 [0x02] IF !(ExtData[1]->WorkLocal[43] == 4*) GOTO 0x3F13
-1351: 0x3F08 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8632*]:
+1351: 0x3F08 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8633*]:
     → "And when he does, you and [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] will be the only ones who can stand against him."
 1352: 0x3F0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1353: 0x3F10 [0x01] GOTO 0x3F4C
 1354: 0x3F13 [0x02] IF !(ExtData[1]->WorkLocal[43] == 5*) GOTO 0x3F26
-1355: 0x3F1B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8633*]:
+1355: 0x3F1B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8634*]:
     → "And when he does, you and [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] will be the only ones who can stand against him."
 1356: 0x3F22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1357: 0x3F23 [0x01] GOTO 0x3F4C
 1358: 0x3F26 [0x02] IF !(ExtData[1]->WorkLocal[43] == 6*) GOTO 0x3F39
-1359: 0x3F2E [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8634*]:
+1359: 0x3F2E [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8635*]:
     → "And when he does, you and [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka] will be the only ones who can stand against him."
 1360: 0x3F35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1361: 0x3F36 [0x01] GOTO 0x3F4C
 1362: 0x3F39 [0x02] IF !(ExtData[1]->WorkLocal[43] == 7*) GOTO 0x3F4C
-1363: 0x3F41 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8635*]:
+1363: 0x3F41 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8636*]:
     → "And when he does, you and [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] will be the only ones who can stand against him."
 1364: 0x3F48 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1365: 0x3F49 [0x01] GOTO 0x3F4C
 
 SUBROUTINE_3F4C:
 1366: 0x3F4C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=8*
-1367: 0x3F5B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8636*]:
+1367: 0x3F5B [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8637*]:
     → "Don't let us down."
 1368: 0x3F62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1369: 0x3F63 [0x1C] WAIT(60* ticks)
@@ -5167,12 +5167,12 @@ SUBROUTINE_3F4C:
 1378: 0x3F9E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Luto Mewrilah (ID: 17203883/0x010682AB))
 1379: 0x3FA4 [0x1C] WAIT(60* ticks)
 1380: 0x3FA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Luto Mewrilah (ID: 17203883/0x010682AB), Luto Mewrilah (ID: 17203883/0x010682AB)], work=50*
-1381: 0x3FB6 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8637*]:
+1381: 0x3FB6 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8638*]:
     → "Poor Palometa. How I wish you were simply sleeping..."
 1382: 0x3FBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1383: 0x3FBE [0x1C] WAIT(120* ticks)
 1384: 0x3FC1 [0x7C] Luto Mewrilah (ID: 17203883/0x010682AB)->Render.Flags2 |= 0x01
-1385: 0x3FC7 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8638*]:
+1385: 0x3FC7 [0x2B] Luto Mewrilah (ID: 17203883/0x010682AB) [8639*]:
     → "I have a feeling things are only going to get worrrse..."
 1386: 0x3FCE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1387: 0x3FCF [0x1C] WAIT(120* ticks)
@@ -5192,7 +5192,7 @@ SUBROUTINE_3F4C:
 1401: 0x403B [0x1C] WAIT(60* ticks)
 1402: 0x403E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
 1403: 0x404F [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x405A
-1404: 0x4057 [0x48] [System] [8639*]:
+1404: 0x4057 [0x48] [System] [8640*]:
     → "You feel the bonds between you and your adventuring fellow strengthen!"
 1405: 0x405A [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
 1406: 0x405E [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
@@ -5250,73 +5250,73 @@ SUBROUTINE_4169:
 1436: 0x4169 [0x1A] CALL_SUBROUTINE(address=0x591D)
 1437: 0x416C [0x02] IF !(ExtData[1]->WorkLocal[40] == 1*) GOTO 0x4188
 1438: 0x4174 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1439: 0x417D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8540*]:
+1439: 0x417D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8541*]:
     → "Are you okay to do this...?"
 1440: 0x4184 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1441: 0x4185 [0x01] GOTO 0x42BC
 1442: 0x4188 [0x02] IF !(ExtData[1]->WorkLocal[40] == 2*) GOTO 0x41A4
 1443: 0x4190 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1444: 0x4199 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8541*]:
+1444: 0x4199 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8542*]:
     → "You okay?"
 1445: 0x41A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1446: 0x41A1 [0x01] GOTO 0x42BC
 1447: 0x41A4 [0x02] IF !(ExtData[1]->WorkLocal[40] == 3*) GOTO 0x41C0
 1448: 0x41AC [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1449: 0x41B5 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8542*]:
+1449: 0x41B5 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8543*]:
     → "Are you okay to do this...?"
 1450: 0x41BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1451: 0x41BD [0x01] GOTO 0x42BC
 1452: 0x41C0 [0x02] IF !(ExtData[1]->WorkLocal[40] == 4*) GOTO 0x41DC
 1453: 0x41C8 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1454: 0x41D1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8543*]:
+1454: 0x41D1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8544*]:
     → "Are you alright to do this?"
 1455: 0x41D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1456: 0x41D9 [0x01] GOTO 0x42BC
 1457: 0x41DC [0x02] IF !(ExtData[1]->WorkLocal[40] == 5*) GOTO 0x41F8
 1458: 0x41E4 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1459: 0x41ED [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8546*]:
+1459: 0x41ED [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8547*]:
     → "Are you doing okay...?"
 1460: 0x41F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1461: 0x41F5 [0x01] GOTO 0x42BC
 1462: 0x41F8 [0x02] IF !(ExtData[1]->WorkLocal[40] == 6*) GOTO 0x4214
 1463: 0x4200 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1464: 0x4209 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8547*]:
+1464: 0x4209 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8548*]:
     → "You okay?"
 1465: 0x4210 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1466: 0x4211 [0x01] GOTO 0x42BC
 1467: 0x4214 [0x02] IF !(ExtData[1]->WorkLocal[40] == 7*) GOTO 0x4230
 1468: 0x421C [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1469: 0x4225 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8548*]:
+1469: 0x4225 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8549*]:
     → "Are you okay to do this?"
 1470: 0x422C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1471: 0x422D [0x01] GOTO 0x42BC
 1472: 0x4230 [0x02] IF !(ExtData[1]->WorkLocal[40] == 8*) GOTO 0x424C
 1473: 0x4238 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1474: 0x4241 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8549*]:
+1474: 0x4241 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8550*]:
     → "You doing okay, kid?"
 1475: 0x4248 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1476: 0x4249 [0x01] GOTO 0x42BC
 1477: 0x424C [0x02] IF !(ExtData[1]->WorkLocal[40] == 9*) GOTO 0x4268
 1478: 0x4254 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1479: 0x425D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8550*]:
+1479: 0x425D [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8551*]:
     → "Are you alright to do this?"
 1480: 0x4264 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1481: 0x4265 [0x01] GOTO 0x42BC
 1482: 0x4268 [0x02] IF !(ExtData[1]->WorkLocal[40] == 10*) GOTO 0x4284
 1483: 0x4270 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1484: 0x4279 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8544*]:
+1484: 0x4279 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8545*]:
     → "Are you okay?"
 1485: 0x4280 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1486: 0x4281 [0x01] GOTO 0x42BC
 1487: 0x4284 [0x02] IF !(ExtData[1]->WorkLocal[40] == 11*) GOTO 0x42A0
 1488: 0x428C [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1489: 0x4295 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8545*]:
+1489: 0x4295 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8546*]:
     → "Palometa, are you okay?"
 1490: 0x429C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1491: 0x429D [0x01] GOTO 0x42BC
 1492: 0x42A0 [0x02] IF !(ExtData[1]->WorkLocal[40] == 12*) GOTO 0x42BC
 1493: 0x42A8 [0x4A] Unnamed NPC (ID: 17203881/0x010682A9) looks at Palometa (ID: 17203882/0x010682AA)
-1494: 0x42B1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8551*]:
+1494: 0x42B1 [0x2B] Unnamed NPC (ID: 17203881/0x010682A9) [8552*]:
     → "Be careful."
 1495: 0x42B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1496: 0x42B9 [0x01] GOTO 0x42BC
@@ -10153,17 +10153,17 @@ SUBROUTINE_42BC:
      0x8CA3 [0x00] END_REQSTACK()
      0x8CA4 [0x00] END_REQSTACK()
      0x8CA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x8CB6 [0x48] [System] [8644*]:
+     0x8CB6 [0x48] [System] [8645*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x8CB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x8CBA [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x8CD7
      0x8CC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x8CD3 [0x48] [System] [8656*]:
+     0x8CD3 [0x48] [System] [8657*]:
     → "Your chocobo seems especially sharp today!"
      0x8CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x8CD7 [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x8CF4
      0x8CDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x8CF0 [0x48] [System] [8657*]:
+     0x8CF0 [0x48] [System] [8658*]:
     → "Your chocobo seems especially energetic today!"
      0x8CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x8CF4 [0x1C] WAIT(1* ticks)

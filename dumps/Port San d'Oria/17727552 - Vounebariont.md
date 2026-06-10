@@ -23,35 +23,35 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1DC1      |        7617 |
+|       1 | 0x1DC2      |        7618 |
 |       2 | 0x003C      |          60 |
-|       3 | 0x1DC2      |        7618 |
-|       4 | 0x1DC3      |        7619 |
-|       5 | 0x1DB6      |        7606 |
-|       6 | 0x1DB7      |        7607 |
-|       7 | 0x1DB8      |        7608 |
-|       8 | 0x1DB9      |        7609 |
+|       3 | 0x1DC3      |        7619 |
+|       4 | 0x1DC4      |        7620 |
+|       5 | 0x1DB7      |        7607 |
+|       6 | 0x1DB8      |        7608 |
+|       7 | 0x1DB9      |        7609 |
+|       8 | 0x1DBA      |        7610 |
 |       9 | 0x0379      |         889 |
-|      10 | 0x1DBA      |        7610 |
-|      11 | 0x1DBB      |        7611 |
-|      12 | 0x1DBC      |        7612 |
-|      13 | 0x1DBD      |        7613 |
+|      10 | 0x1DBB      |        7611 |
+|      11 | 0x1DBC      |        7612 |
+|      12 | 0x1DBD      |        7613 |
+|      13 | 0x1DBE      |        7614 |
 |      14 | 0x00C9      |         201 |
 |      15 | 0x0000      |           0 |
 
 ## String References
 
-- **7606**: Hmm... You don't look like the riffraff we get around here. No wet-behind-the-ears recruit, are you?
-- **7607**: I be Vounebariont, brewer of potions and medicines.
-- **7608**: I've been waiting here a good long time now for a shipment, ingredients for me potions, you see. But it's not arrived!
-- **7609**: I don't suppose you could be persuaded to fetch five beetle shells from Jugner Forest, now, could you?
-- **7610**: %, some call 'em "coleoptera shells." They're a rare but vital ingredient in potions.
-- **7611**: If you'd be so kind as to bring me five of those $0, I'd pay you handsomely, or my name's not Vounebariont!
-- **7612**: You're back, and with the shells as requested! Here's your payment then, like I promised you.
-- **7613**: Should the mood strike you, I'm willing to buy more $0. Bring five, and we'll do business.
-- **7617**: I dare say that our two princes bicker over which is to inherit the throne.
-- **7618**: The elder's a warrior, the younger a thinker, and neither bows to the other. The two knightly orders' loyalties are split between them...
-- **7619**: With such intrigue inside our walls, beastmen roam the countryside. And there's precious little we can do about it!
+- **7607**: Hmm... You don't look like the riffraff we get around here. No wet-behind-the-ears recruit, are you?
+- **7608**: I be Vounebariont, brewer of potions and medicines.
+- **7609**: I've been waiting here a good long time now for a shipment, ingredients for me potions, you see. But it's not arrived!
+- **7610**: I don't suppose you could be persuaded to fetch five beetle shells from Jugner Forest, now, could you?
+- **7611**: %, some call 'em "coleoptera shells." They're a rare but vital ingredient in potions.
+- **7612**: If you'd be so kind as to bring me five of those $0, I'd pay you handsomely, or my name's not Vounebariont!
+- **7613**: You're back, and with the shells as requested! Here's your payment then, like I promised you.
+- **7614**: Should the mood strike you, I'm willing to buy more $0. Bring five, and we'll do business.
+- **7618**: I dare say that our two princes bicker over which is to inherit the throne.
+- **7619**: The elder's a warrior, the younger a thinker, and neither bows to the other. The two knightly orders' loyalties are split between them...
+- **7620**: With such intrigue inside our walls, beastmen roam the countryside. And there's precious little we can do about it!
 
 ## Events
 
@@ -103,15 +103,15 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
     → "I dare say that our two princes bicker over which is to inherit the throne."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(60* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
     → "The elder's a warrior, the younger a thinker, and neither bows to the other. The two knightly orders' loyalties are split between them..."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x1C] WAIT(60* ticks)
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "With such intrigue inside our walls, beastmen roam the countryside. And there's precious little we can do about it!"
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -148,29 +148,29 @@
   1: 0x0038 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0039 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "Hmm... You don't look like the riffraff we get around here. No wet-behind-the-ears recruit, are you?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004D [0x1C] WAIT(60* ticks)
-  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  7: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "I be Vounebariont, brewer of potions and medicines."
   8: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0054 [0x1C] WAIT(60* ticks)
- 10: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+ 10: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "I've been waiting here a good long time now for a shipment, ingredients for me potions, you see. But it's not arrived!"
  11: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x005B [0x1C] WAIT(60* ticks)
- 13: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+ 13: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "I don't suppose you could be persuaded to fetch five beetle shells from Jugner Forest, now, could you?"
  14: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0062 [0x1C] WAIT(60* ticks)
  16: 0x0065 [0x03] Work_Zone[2] = 889*
- 17: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
+ 17: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "%, some call 'em "coleoptera shells." They're a rare but vital ingredient in potions."
  18: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x006E [0x1C] WAIT(60* ticks)
  20: 0x0071 [0x03] Work_Zone[2] = 889*
- 21: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+ 21: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
     → "If you'd be so kind as to bring me five of those $0, I'd pay you handsomely, or my name's not Vounebariont!"
  22: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x007A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -210,14 +210,14 @@
   3: 0x008C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x008D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x008E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
+  6: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "You're back, and with the shells as requested! Here's your payment then, like I promised you."
   7: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
   9: 0x00AE [0x1C] WAIT(60* ticks)
  10: 0x00B1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
  11: 0x00C0 [0x03] Work_Zone[2] = 889*
- 12: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 12: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
     → "Should the mood strike you, I'm willing to buy more $0. Bring five, and we'll do business."
  13: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00C9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

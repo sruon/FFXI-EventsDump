@@ -33,13 +33,13 @@
 |       6 | 0xFFFEFF64  |  4294901604 |
 |       7 | 0x1C3C6     |      115654 |
 |       8 | 0xFFFFD801  |  4294957057 |
-|       9 | 0x1EE6      |        7910 |
-|      10 | 0x1EE7      |        7911 |
+|       9 | 0x1EE7      |        7911 |
+|      10 | 0x1EE8      |        7912 |
 
 ## String References
 
-- **7910**: The Star Sibyl permitted the Yagudo beastmen to live in Sarutabaruta. Thataru's why there is a Yagudo nest called Giddeus out in West Sarutabaruta.
-- **7911**: But the Yagudo don'taru seem the least bit thankful. Annoying, isn'taru it?
+- **7911**: The Star Sibyl permitted the Yagudo beastmen to live in Sarutabaruta. Thataru's why there is a Yagudo nest called Giddeus out in West Sarutabaruta.
+- **7912**: But the Yagudo don'taru seem the least bit thankful. Annoying, isn'taru it?
 
 ## Events
 
@@ -189,10 +189,10 @@
   1: 0x003D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Horuni-Mawoni (ID: 17756247/0x010EF057), tag_num=0x01)
-  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "The Star Sibyl permitted the Yagudo beastmen to live in Sarutabaruta. Thataru's why there is a Yagudo nest called Giddeus out in West Sarutabaruta."
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  6: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "But the Yagudo don'taru seem the least bit thankful. Annoying, isn'taru it?"
   7: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x004E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Horuni-Mawoni (ID: 17756247/0x010EF057), tag_num=0x02)

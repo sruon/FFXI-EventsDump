@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x200C      |        8204 |
-|       3 | 0x200D      |        8205 |
+|       2 | 0x200D      |        8205 |
+|       3 | 0x200E      |        8206 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0018 [0x2B] EventEntity [8204*]:
+  3: 0x0018 [0x2B] EventEntity [8205*]:
     → "It is said that the leaders of the Yagudo Manifest select their "avatars" from only their most devout followers."
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8205*]:
+  5: 0x0020 [0x2B] EventEntity [8206*]:
     → "And it is from among those that the next Manifest is divined by oracle."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

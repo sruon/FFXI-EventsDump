@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BAB      |        7083 |
+|       0 | 0x1BAC      |        7084 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -44,32 +44,32 @@
 |      10 | 0x00B4      |         180 |
 |      11 | 0x003C      |          60 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x1BB2      |        7090 |
-|      14 | 0x1BAC      |        7084 |
-|      15 | 0x1BB3      |        7091 |
-|      16 | 0x1BAD      |        7085 |
-|      17 | 0x1BB4      |        7092 |
-|      18 | 0x1BAE      |        7086 |
+|      13 | 0x1BB3      |        7091 |
+|      14 | 0x1BAD      |        7085 |
+|      15 | 0x1BB4      |        7092 |
+|      16 | 0x1BAE      |        7086 |
+|      17 | 0x1BB5      |        7093 |
+|      18 | 0x1BAF      |        7087 |
 |      19 | 0x0003      |           3 |
-|      20 | 0x1BAF      |        7087 |
-|      21 | 0x1BB0      |        7088 |
-|      22 | 0x1BB1      |        7089 |
+|      20 | 0x1BB0      |        7088 |
+|      21 | 0x1BB1      |        7089 |
+|      22 | 0x1BB2      |        7090 |
 |      23 | 0x0004      |           4 |
-|      24 | 0x1BA5      |        7077 |
+|      24 | 0x1BA6      |        7078 |
 
 ## String References
 
-- **7077**: Proceed onward? [Yes./No.]
-- **7083**: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
-- **7084**: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
-- **7085**: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
-- **7086**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
-- **7087**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
-- **7088**: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
-- **7089**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
-- **7090**: Really warp to the Propagator? [Yes./No.]
-- **7091**: Really warp to the Solicitor? [Yes./No.]
-- **7092**: Really warp to the Ponderer? [Yes./No.]
+- **7078**: Proceed onward? [Yes./No.]
+- **7084**: Proceed onward? [Yes./Warp to the Propagator./Turn back.]
+- **7085**: Proceed onward? [Yes./Warp to the Solicitor./Turn back.]
+- **7086**: Proceed onward? [Yes./Warp to the Ponderer./Turn back.]
+- **7087**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]
+- **7088**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]
+- **7089**: Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+- **7090**: Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]
+- **7091**: Really warp to the Propagator? [Yes./No.]
+- **7092**: Really warp to the Solicitor? [Yes./No.]
+- **7093**: Really warp to the Ponderer? [Yes./No.]
 
 ## Events
 
@@ -216,7 +216,7 @@
 
 ```
   0: 0x0006 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7083*, default_option=2*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=7084*, default_option=2*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Propagator./Turn back.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FA
@@ -247,7 +247,7 @@
  28: 0x00F5 [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x00F7 [0x01] GOTO 0x0217
  30: 0x00FA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0207
- 31: 0x0102 [0x24] CREATE_DIALOG(message_id=7090*, default_option=1*, option_flags=0*)
+ 31: 0x0102 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
     → "Really warp to the Propagator? [Yes./No.]"
  32: 0x0109 [0x25] WAIT_DIALOG_SELECT()
  33: 0x010A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F4
@@ -346,7 +346,7 @@ SUBROUTINE_0217:
 
 ```
   0: 0x021B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x021D [0x24] CREATE_DIALOG(message_id=7084*, default_option=2*, option_flags=0*)
+  1: 0x021D [0x24] CREATE_DIALOG(message_id=7085*, default_option=2*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Solicitor./Turn back.]"
   2: 0x0224 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0225 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030F
@@ -377,7 +377,7 @@ SUBROUTINE_0217:
  28: 0x030A [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x030C [0x01] GOTO 0x042C
  30: 0x030F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x041C
- 31: 0x0317 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
+ 31: 0x0317 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
     → "Really warp to the Solicitor? [Yes./No.]"
  32: 0x031E [0x25] WAIT_DIALOG_SELECT()
  33: 0x031F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0409
@@ -476,7 +476,7 @@ SUBROUTINE_042C:
 
 ```
   0: 0x0430 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0432 [0x24] CREATE_DIALOG(message_id=7085*, default_option=2*, option_flags=0*)
+  1: 0x0432 [0x24] CREATE_DIALOG(message_id=7086*, default_option=2*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Ponderer./Turn back.]"
   2: 0x0439 [0x25] WAIT_DIALOG_SELECT()
   3: 0x043A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0524
@@ -507,7 +507,7 @@ SUBROUTINE_042C:
  28: 0x051F [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x0521 [0x01] GOTO 0x0641
  30: 0x0524 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0631
- 31: 0x052C [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
+ 31: 0x052C [0x24] CREATE_DIALOG(message_id=7093*, default_option=1*, option_flags=0*)
     → "Really warp to the Ponderer? [Yes./No.]"
  32: 0x0533 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0534 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x061E
@@ -623,7 +623,7 @@ SUBROUTINE_0641:
 
 ```
   0: 0x0645 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0647 [0x24] CREATE_DIALOG(message_id=7086*, default_option=3*, option_flags=0*)
+  1: 0x0647 [0x24] CREATE_DIALOG(message_id=7087*, default_option=3*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Turn back.]"
   2: 0x064E [0x25] WAIT_DIALOG_SELECT()
   3: 0x064F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0739
@@ -654,7 +654,7 @@ SUBROUTINE_0641:
  28: 0x0734 [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x0736 [0x01] GOTO 0x0963
  30: 0x0739 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0846
- 31: 0x0741 [0x24] CREATE_DIALOG(message_id=7090*, default_option=1*, option_flags=0*)
+ 31: 0x0741 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
     → "Really warp to the Propagator? [Yes./No.]"
  32: 0x0748 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0749 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0833
@@ -691,7 +691,7 @@ SUBROUTINE_0641:
 SUBROUTINE_0843:
  63: 0x0843 [0x01] GOTO 0x0963
  64: 0x0846 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0953
- 65: 0x084E [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
+ 65: 0x084E [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
     → "Really warp to the Solicitor? [Yes./No.]"
  66: 0x0855 [0x25] WAIT_DIALOG_SELECT()
  67: 0x0856 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0940
@@ -807,7 +807,7 @@ SUBROUTINE_0963:
 
 ```
   0: 0x0967 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0969 [0x24] CREATE_DIALOG(message_id=7087*, default_option=3*, option_flags=0*)
+  1: 0x0969 [0x24] CREATE_DIALOG(message_id=7088*, default_option=3*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Propagator./Warp to the Ponderer./Turn back.]"
   2: 0x0970 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0971 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A5B
@@ -838,7 +838,7 @@ SUBROUTINE_0963:
  28: 0x0A56 [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x0A58 [0x01] GOTO 0x0C85
  30: 0x0A5B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0B68
- 31: 0x0A63 [0x24] CREATE_DIALOG(message_id=7090*, default_option=1*, option_flags=0*)
+ 31: 0x0A63 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
     → "Really warp to the Propagator? [Yes./No.]"
  32: 0x0A6A [0x25] WAIT_DIALOG_SELECT()
  33: 0x0A6B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B55
@@ -875,7 +875,7 @@ SUBROUTINE_0963:
 SUBROUTINE_0B65:
  63: 0x0B65 [0x01] GOTO 0x0C85
  64: 0x0B68 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0C75
- 65: 0x0B70 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
+ 65: 0x0B70 [0x24] CREATE_DIALOG(message_id=7093*, default_option=1*, option_flags=0*)
     → "Really warp to the Ponderer? [Yes./No.]"
  66: 0x0B77 [0x25] WAIT_DIALOG_SELECT()
  67: 0x0B78 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C62
@@ -991,7 +991,7 @@ SUBROUTINE_0C85:
 
 ```
   0: 0x0C89 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0C8B [0x24] CREATE_DIALOG(message_id=7088*, default_option=3*, option_flags=0*)
+  1: 0x0C8B [0x24] CREATE_DIALOG(message_id=7089*, default_option=3*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Solicitor./Warp to the Ponderer./Turn back.]"
   2: 0x0C92 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0C93 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D7D
@@ -1022,7 +1022,7 @@ SUBROUTINE_0C85:
  28: 0x0D78 [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x0D7A [0x01] GOTO 0x0FA7
  30: 0x0D7D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0E8A
- 31: 0x0D85 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
+ 31: 0x0D85 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
     → "Really warp to the Solicitor? [Yes./No.]"
  32: 0x0D8C [0x25] WAIT_DIALOG_SELECT()
  33: 0x0D8D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E77
@@ -1059,7 +1059,7 @@ SUBROUTINE_0C85:
 SUBROUTINE_0E87:
  63: 0x0E87 [0x01] GOTO 0x0FA7
  64: 0x0E8A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0F97
- 65: 0x0E92 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
+ 65: 0x0E92 [0x24] CREATE_DIALOG(message_id=7093*, default_option=1*, option_flags=0*)
     → "Really warp to the Ponderer? [Yes./No.]"
  66: 0x0E99 [0x25] WAIT_DIALOG_SELECT()
  67: 0x0E9A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F84
@@ -1192,7 +1192,7 @@ SUBROUTINE_0FA7:
 
 ```
   0: 0x0FAB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0FAD [0x24] CREATE_DIALOG(message_id=7089*, default_option=4*, option_flags=0*)
+  1: 0x0FAD [0x24] CREATE_DIALOG(message_id=7090*, default_option=4*, option_flags=0*)
     → "Proceed onward? [Yes./Warp to the Propagator./Warp to the Solicitor./Warp to the Ponderer./Turn back.]"
   2: 0x0FB4 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0FB5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x109F
@@ -1223,7 +1223,7 @@ SUBROUTINE_0FA7:
  28: 0x109A [0x46] CAMERA_CONTROL: Restore default settings
  29: 0x109C [0x01] GOTO 0x13D6
  30: 0x109F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x11AC
- 31: 0x10A7 [0x24] CREATE_DIALOG(message_id=7090*, default_option=1*, option_flags=0*)
+ 31: 0x10A7 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
     → "Really warp to the Propagator? [Yes./No.]"
  32: 0x10AE [0x25] WAIT_DIALOG_SELECT()
  33: 0x10AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1199
@@ -1260,7 +1260,7 @@ SUBROUTINE_0FA7:
 SUBROUTINE_11A9:
  63: 0x11A9 [0x01] GOTO 0x13D6
  64: 0x11AC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x12B9
- 65: 0x11B4 [0x24] CREATE_DIALOG(message_id=7091*, default_option=1*, option_flags=0*)
+ 65: 0x11B4 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
     → "Really warp to the Solicitor? [Yes./No.]"
  66: 0x11BB [0x25] WAIT_DIALOG_SELECT()
  67: 0x11BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12A6
@@ -1297,7 +1297,7 @@ SUBROUTINE_11A9:
 SUBROUTINE_12B6:
  97: 0x12B6 [0x01] GOTO 0x13D6
  98: 0x12B9 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x13C6
- 99: 0x12C1 [0x24] CREATE_DIALOG(message_id=7092*, default_option=1*, option_flags=0*)
+ 99: 0x12C1 [0x24] CREATE_DIALOG(message_id=7093*, default_option=1*, option_flags=0*)
     → "Really warp to the Ponderer? [Yes./No.]"
 100: 0x12C8 [0x25] WAIT_DIALOG_SELECT()
 101: 0x12C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13B3
@@ -1380,7 +1380,7 @@ SUBROUTINE_13D6:
 
 ```
   0: 0x13DA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x13DC [0x24] CREATE_DIALOG(message_id=7077*, default_option=1*, option_flags=0*)
+  1: 0x13DC [0x24] CREATE_DIALOG(message_id=7078*, default_option=1*, option_flags=0*)
     → "Proceed onward? [Yes./No.]"
   2: 0x13E3 [0x25] WAIT_DIALOG_SELECT()
   3: 0x13E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14CE

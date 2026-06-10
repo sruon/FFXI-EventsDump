@@ -28,29 +28,29 @@
 |       4 | 0x0005      |           5 |
 |       5 | 0x0006      |           6 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x1D34      |        7476 |
+|       7 | 0x1D35      |        7477 |
 |       8 | 0x0028      |          40 |
 |       9 | 0x007F      |         127 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x1D35      |        7477 |
-|      12 | 0x1D36      |        7478 |
+|      11 | 0x1D36      |        7478 |
+|      12 | 0x1D37      |        7479 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x1D38      |        7480 |
-|      15 | 0x1D3A      |        7482 |
-|      16 | 0x1D3C      |        7484 |
-|      17 | 0x1D3E      |        7486 |
-|      18 | 0x1D40      |        7488 |
+|      14 | 0x1D39      |        7481 |
+|      15 | 0x1D3B      |        7483 |
+|      16 | 0x1D3D      |        7485 |
+|      17 | 0x1D3F      |        7487 |
+|      18 | 0x1D41      |        7489 |
 |      19 | 0x0064      |         100 |
 |      20 | 0x0400      |        1024 |
-|      21 | 0x1D42      |        7490 |
+|      21 | 0x1D43      |        7491 |
 |      22 | 0x012C      |         300 |
 |      23 | 0x0030      |          48 |
-|      24 | 0x1D32      |        7474 |
+|      24 | 0x1D33      |        7475 |
 
 ## String References
 
-- **7474**: You feel an overwhelming aura of foreboding from this tome. You can almost hear someone whispering for you to stay away...
-- **7480**: Did you find the ring? [Yes./No.]
+- **7475**: You feel an overwhelming aura of foreboding from this tome. You can almost hear someone whispering for you to stay away...
+- **7481**: Did you find the ring? [Yes./No.]
 
 ## Events
 
@@ -210,7 +210,7 @@
 
 SUBROUTINE_00EE:
  28: 0x00EE [0x79] LocalPlayer looks at Tome of Magic (ID: 17469833/0x010A9189) (Basic look)
- 29: 0x00F8 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7476*]:
+ 29: 0x00F8 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7477*]:
     → "That book is forbidden. As an experienced adventurer, you should be able to sense the danger. The ominous power that lurks within..."
  30: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0100 [0x79] LocalPlayer looks at Star Sibyl (ID: 17469797/0x010A9165) (Basic look)
@@ -240,14 +240,14 @@ SUBROUTINE_019B:
  53: 0x01A8 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x1B)
  54: 0x01AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[211*, 0*]
  55: 0x01C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 56: 0x01D1 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7477*]:
+ 56: 0x01D1 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7478*]:
     → "How did you come to be here? No one can enter this room except through my private chambers in Heavens Tower."
  57: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x01D9 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17469797/0x010A9165))
  59: 0x01DF [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=211*
  60: 0x01EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[211*, 0*]
  61: 0x01FF [0x79] Star Sibyl (ID: 17469797/0x010A9165) looks at Marble Door (ID: 17469799/0x010A9167) (Basic look)
- 62: 0x0209 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7478*]:
+ 62: 0x0209 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7479*]:
     → "You need a special key to open that other door... The $3..."
  63: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0211 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=211*
@@ -263,7 +263,7 @@ SUBROUTINE_0269:
  72: 0x0269 [0x4A] Star Sibyl (ID: 17469797/0x010A9165) looks at LocalPlayer
  73: 0x0272 [0x7B] Star Sibyl (ID: 17469797/0x010A9165) stops talking
  74: 0x0277 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x21)
- 75: 0x027E [0x24] CREATE_DIALOG(message_id=7480*, default_option=0*, option_flags=0*)
+ 75: 0x027E [0x24] CREATE_DIALOG(message_id=7481*, default_option=0*, option_flags=0*)
     → "Did you find the ring? [Yes./No.]"
  76: 0x0285 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0286 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02EC
@@ -290,7 +290,7 @@ SUBROUTINE_02D1:
 
 SUBROUTINE_0337:
  96: 0x0337 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[211*, 0*]
- 97: 0x0348 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7482*]:
+ 97: 0x0348 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7483*]:
     → "There is no need for you to lie to me. Let me explain about this place."
  98: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0350 [0x01] GOTO 0x0353
@@ -300,7 +300,7 @@ SUBROUTINE_0353:
 101: 0x035A [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=211*
 102: 0x0369 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 103: 0x037A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[211*, 0*]
-104: 0x038B [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7484*]:
+104: 0x038B [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7485*]:
     → "The one who conducted his research here said this to me thirty years ago: "The art of drawing magical power from the well of nature has been taken as far as it can go.""
 105: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0393 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x24)
@@ -308,7 +308,7 @@ SUBROUTINE_0353:
 108: 0x03A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 109: 0x03BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[211*, 0*]
 110: 0x03CB [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x1C)
-111: 0x03D2 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7486*]:
+111: 0x03D2 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7487*]:
     → "...This new magical theory had the potential to threaten the lives of living beings, and so there were voices of opposition from among the five existing ministries."
 112: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x03DA [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17469797/0x010A9165))
@@ -320,7 +320,7 @@ SUBROUTINE_0353:
 119: 0x041D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[211*, 0*]
 120: 0x042E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x0D)
 121: 0x0435 [0x27] REQ_SET(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x1D)
-122: 0x043C [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7488*]:
+122: 0x043C [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7489*]:
     → "Windurst was delivered from obliteration by that very power. But the price we paid for it... I'm sure you are aware of what we lost..."
 123: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x0444 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Star Sibyl (ID: 17469797/0x010A9165))
@@ -335,7 +335,7 @@ SUBROUTINE_0353:
 133: 0x049C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Star Sibyl (ID: 17469797/0x010A9165), tag_num=0x27)
 134: 0x04A3 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=211*
 135: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[211*, 0*]
-136: 0x04C3 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7490*]:
+136: 0x04C3 [0x2B] Star Sibyl (ID: 17469797/0x010A9165) [7491*]:
     → "However, citizens of Windurst are forbidden to proceed past the Sealed Portal of the central tower. If you continue past this point, I will reconsider the matter of punishment."
 137: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x04CB [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=211*
@@ -384,7 +384,7 @@ SUBROUTINE_0353:
   0: 0x0550 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0551 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Tome of Magic (ID: 17469833/0x010A9189), Tome of Magic (ID: 17469833/0x010A9189)], work=[48*, 0*]
   2: 0x0562 [0x1C] WAIT(100* ticks)
-  3: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+  3: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "You feel an overwhelming aura of foreboding from this tome. You can almost hear someone whispering for you to stay away..."
   4: 0x0568 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0569 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "send" with entities [Tome of Magic (ID: 17469833/0x010A9189), Tome of Magic (ID: 17469833/0x010A9189)], work=[48*, 0*]

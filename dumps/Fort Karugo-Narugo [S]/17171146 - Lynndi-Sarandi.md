@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x2008      |        8200 |
-|       3 | 0x2009      |        8201 |
+|       2 | 0x2009      |        8201 |
+|       3 | 0x200A      |        8202 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x2B] EventEntity [8200*]:
+  3: 0x0018 [0x2B] EventEntity [8201*]:
     → "Wandering around here suspiciously just might get you blasted by a War Warlock!"
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8201*]:
+  5: 0x0020 [0x2B] EventEntity [8202*]:
     → "Powerful as they may be, though, the lack of a sturdy-wurdy frontline division is our biggest concern right now. If it weren't for the Mithra Mercenaries, we wouldn't even be able to protectaru our beloved Windurst!"
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x1FDC      |        8156 |
-|       3 | 0x1FDD      |        8157 |
+|       2 | 0x1FDD      |        8157 |
+|       3 | 0x1FDE      |        8158 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0018 [0x2B] EventEntity [8156*]:
+  3: 0x0018 [0x2B] EventEntity [8157*]:
     → "Did you know that Tzee Xicu the Manifest of the Yagudo Theomilitary was raised by a Mithran beastmaster?"
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8157*]:
+  5: 0x0020 [0x2B] EventEntity [8158*]:
     → "What could have happened to cause him to declare war on a people of which he was once so accepting?"
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*

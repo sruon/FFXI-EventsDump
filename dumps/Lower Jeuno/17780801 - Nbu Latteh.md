@@ -52,11 +52,11 @@
 |       2 | 0x0034      |          52 |
 |       3 | 0x0035      |          53 |
 |       4 | 0x0008      |           8 |
-|       5 | 0x1F03      |        7939 |
+|       5 | 0x1F04      |        7940 |
 
 ## String References
 
-- **7939**: Also known as the Scarlet Thunder of La Theine, rrright?
+- **7940**: Also known as the Scarlet Thunder of La Theine, rrright?
 
 ## Events
 
@@ -731,7 +731,7 @@
 
 ```
   0: 0x0194 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nbu Latteh (ID: 17780801/0x010F5041), tag_num=0x05)
-  1: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+  1: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Also known as the Scarlet Thunder of La Theine, rrright?"
   2: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x019F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nbu Latteh (ID: 17780801/0x010F5041), tag_num=0x06)

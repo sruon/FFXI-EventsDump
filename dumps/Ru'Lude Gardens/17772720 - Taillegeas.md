@@ -59,19 +59,19 @@
 |       3 | 0xFEC2      |       65218 |
 |       4 | 0x07CB      |        1995 |
 |       5 | 0x00F7      |         247 |
-|       6 | 0x31D2      |       12754 |
+|       6 | 0x31D3      |       12755 |
 |       7 | 0x7918      |       31000 |
 |       8 | 0xE273      |       57971 |
 |       9 | 0x0C00      |        3072 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x31DC      |       12764 |
+|      11 | 0x31DD      |       12765 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x31DA      |       12762 |
-|      14 | 0x31DB      |       12763 |
-|      15 | 0x31DD      |       12765 |
-|      16 | 0x31DE      |       12766 |
-|      17 | 0x31DF      |       12767 |
-|      18 | 0x31E9      |       12777 |
+|      13 | 0x31DB      |       12763 |
+|      14 | 0x31DC      |       12764 |
+|      15 | 0x31DE      |       12766 |
+|      16 | 0x31DF      |       12767 |
+|      17 | 0x31E0      |       12768 |
+|      18 | 0x31EA      |       12778 |
 |      19 | 0x000D      |          13 |
 |      20 | 0x7929      |       31017 |
 |      21 | 0xEDB2      |       60850 |
@@ -90,14 +90,14 @@
 |      34 | 0x08F0      |        2288 |
 |      35 | 0x77B5      |       30645 |
 |      36 | 0xF0FA      |       61690 |
-|      37 | 0x3C19      |       15385 |
-|      38 | 0x3C1A      |       15386 |
-|      39 | 0x3C1B      |       15387 |
+|      37 | 0x3C1A      |       15386 |
+|      38 | 0x3C1B      |       15387 |
+|      39 | 0x3C1C      |       15388 |
 
 ## String References
 
-- **12754**: The palace is often the site for grand banquets that are attended by dignitaries from every nation. In times like these, we do our utmost to see that the needs of our important visitors are met.
-- **12777**: Your assistance is greatly appreciated. I am certain [Lord Nag'molada/Lady Esha'ntarl]'s guests will be most satisfied with your efforts.
+- **12755**: The palace is often the site for grand banquets that are attended by dignitaries from every nation. In times like these, we do our utmost to see that the needs of our important visitors are met.
+- **12778**: Your assistance is greatly appreciated. I am certain [Lord Nag'molada/Lady Esha'ntarl]'s guests will be most satisfied with your efforts.
 
 ## Events
 
@@ -640,7 +640,7 @@
   1: 0x017D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x017E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x017F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0E)
-  4: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=12754*)
+  4: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
     → "The palace is often the site for grand banquets that are attended by dignitaries from every nation. In times like these, we do our utmost to see that the needs of our important visitors are met."
   5: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x018A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0F)
@@ -724,34 +724,34 @@
   1: 0x01A5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A7 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x01BA
-  4: 0x01AF [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12764*]:
+  4: 0x01AF [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12765*]:
     → "The following items have been requested: $1, $2, $3, $4, and $5. My future employment rests in your hands."
   5: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01B7 [0x01] GOTO 0x01D5
   7: 0x01BA [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x01CD
-  8: 0x01C2 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12762*]:
+  8: 0x01C2 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12763*]:
     → "The following items have been requested: $1, $2, and $3. My future employment rests in your hands."
   9: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01CA [0x01] GOTO 0x01D5
- 11: 0x01CD [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12763*]:
+ 11: 0x01CD [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12764*]:
     → "The following items have been requested: $1, $2, $3, and $4. My future employment rests in your hands."
  12: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01D5:
  13: 0x01D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0A)
  14: 0x01DC [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x01EF
- 15: 0x01E4 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12765*]:
+ 15: 0x01E4 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12766*]:
     → "Lord Nag'molada often receives guests of all kinds, but I have never before been besieged with such bizarre requests."
  16: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01EC [0x01] GOTO 0x01F7
- 18: 0x01EF [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12766*]:
+ 18: 0x01EF [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12767*]:
     → "This is the first time Lady Esha'ntarl has ever made such a request of the palace staff. Furthermore, I do believe this is the first time she has personally received guests..."
  19: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01F7:
  20: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0B)
  21: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0C)
- 22: 0x0205 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12767*]:
+ 22: 0x0205 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [12768*]:
     → "While I am curious to know what kind of guests we are entertaining, a good servant does not intrude on the business of his employer."
  23: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x020D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0D)
@@ -807,7 +807,7 @@ SUBROUTINE_01F7:
   1: 0x021E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x021F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0220 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x02)
-  4: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
+  4: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
     → "Your assistance is greatly appreciated. I am certain [Lord Nag'molada/Lady Esha'ntarl]'s guests will be most satisfied with your efforts."
   5: 0x022A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x022B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x03)
@@ -1027,14 +1027,14 @@ SUBROUTINE_01F7:
   1: 0x02BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0A)
-  4: 0x02C5 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15385*]:
+  4: 0x02C5 [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15386*]:
     → "What manner of farce is this?"
   5: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02CD [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15386*]:
+  6: 0x02CD [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15387*]:
     → "An uncouth Tarutaru claiming to be an esteemed guest of Lady Esha'ntarl is running amok demanding the Trust initiative scroll."
   7: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0C)
-  9: 0x02DC [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15387*]:
+  9: 0x02DC [0x2B] Taillegeas (ID: 17772720/0x010F30B0) [15388*]:
     → "My stomach churns each time this ruffian brings up the lady's honorable name. Filth and lies!"
  10: 0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Taillegeas (ID: 17772720/0x010F30B0), tag_num=0x0D)

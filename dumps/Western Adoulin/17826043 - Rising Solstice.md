@@ -31,11 +31,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x2626      |        9766 |
-|       2 | 0x2627      |        9767 |
+|       1 | 0x2627      |        9767 |
+|       2 | 0x2628      |        9768 |
 |       3 | 0x0041      |          65 |
-|       4 | 0x2628      |        9768 |
-|       5 | 0x2629      |        9769 |
+|       4 | 0x2629      |        9769 |
+|       5 | 0x262A      |        9770 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x000A      |          10 |
 |       8 | 0x0156      |         342 |
@@ -43,42 +43,42 @@
 |      10 | 0x00EF      |         239 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x1F12      |        7954 |
-|      14 | 0x1F13      |        7955 |
-|      15 | 0x1F14      |        7956 |
-|      16 | 0x1F15      |        7957 |
-|      17 | 0x1F16      |        7958 |
-|      18 | 0x1F17      |        7959 |
-|      19 | 0x1F39      |        7993 |
-|      20 | 0x1F3A      |        7994 |
-|      21 | 0x1F3B      |        7995 |
-|      22 | 0x1F3C      |        7996 |
-|      23 | 0x1F3D      |        7997 |
+|      13 | 0x1F13      |        7955 |
+|      14 | 0x1F14      |        7956 |
+|      15 | 0x1F15      |        7957 |
+|      16 | 0x1F16      |        7958 |
+|      17 | 0x1F17      |        7959 |
+|      18 | 0x1F18      |        7960 |
+|      19 | 0x1F3A      |        7994 |
+|      20 | 0x1F3B      |        7995 |
+|      21 | 0x1F3C      |        7996 |
+|      22 | 0x1F3D      |        7997 |
+|      23 | 0x1F3E      |        7998 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x22F9      |        8953 |
-|      26 | 0x22FA      |        8954 |
-|      27 | 0x22FB      |        8955 |
+|      25 | 0x22FA      |        8954 |
+|      26 | 0x22FB      |        8955 |
+|      27 | 0x22FC      |        8956 |
 
 ## String References
 
-- **7954**: Whaddya want?
-- **7955**: I don't have time for louses like y...
-- **7956**: Wait a minute. You seem like you have time on your hands. Why don't I give you some wholesome work? None of this stirring-up-trouble-in-the-jungle stuff.
-- **7957**: The guard on duty today fell asleep before his patrol, that laggard. Take this paper with his route on it and fill in for him. You've got nothing better to do, right?
-- **7958**: Follow those instructions to the letter. They shouldn't be hard to figure out, even for an outsider like you.
-- **7959**: I thought I sent you out on patrol! Are you purposefully trying to scare our people? Now go!
-- **7993**: Finally finished, huh? ...No one was troubled by anything? Good.
-- **7994**: Speaking of trouble, everyone in the Peacekeepers' Coalition makes ridding our city of it their number one priority! There's no room for those who can't follow this mantra. That's why we'll be punishing the person you replaced today.
-- **7995**: Patrolling the streets is not our only tactic. We also look out upon Adoulin from guard towers and the city walls. If we see any fires of discontent, we snuff them out!
-- **7996**: Should monsters somehow breach Jorius Yett, we'll be there to stop them, too.
-- **7997**: See, we have enough problems without having to deal with pioneers. Watch your step around this town, or we might just have to deal with you.
-- **8953**: Have you heard? Some beasts from the jungles ran off with Arciela! The whole castle's as flustered as a flock of heartwings in heat.
-- **8954**: You...knew that already? And you want me to keep mum?
-- **8955**: Now that you mention it, I think I was told to keep my mouth shut by...oh great Goddess, my wagging tongue's done it again! My back can't tolerate any more lashes!
-- **9766**: Not another foreigner... Well, you're here, so I guess I have to "welcome" you to Adoulin.
-- **9767**: I'd prefer it if you got the hell out of my face and never came back. The coalition leaders, however, want you to become a pioneer. Better get on it and register then.
-- **9768**: Pioneers, adventurers, whatever you call yourselves...you're all Velkk scat to me.
-- **9769**: Just don't cause any trouble here in Western Adoulin and things won't get...messy.
+- **7955**: Whaddya want?
+- **7956**: I don't have time for louses like y...
+- **7957**: Wait a minute. You seem like you have time on your hands. Why don't I give you some wholesome work? None of this stirring-up-trouble-in-the-jungle stuff.
+- **7958**: The guard on duty today fell asleep before his patrol, that laggard. Take this paper with his route on it and fill in for him. You've got nothing better to do, right?
+- **7959**: Follow those instructions to the letter. They shouldn't be hard to figure out, even for an outsider like you.
+- **7960**: I thought I sent you out on patrol! Are you purposefully trying to scare our people? Now go!
+- **7994**: Finally finished, huh? ...No one was troubled by anything? Good.
+- **7995**: Speaking of trouble, everyone in the Peacekeepers' Coalition makes ridding our city of it their number one priority! There's no room for those who can't follow this mantra. That's why we'll be punishing the person you replaced today.
+- **7996**: Patrolling the streets is not our only tactic. We also look out upon Adoulin from guard towers and the city walls. If we see any fires of discontent, we snuff them out!
+- **7997**: Should monsters somehow breach Jorius Yett, we'll be there to stop them, too.
+- **7998**: See, we have enough problems without having to deal with pioneers. Watch your step around this town, or we might just have to deal with you.
+- **8954**: Have you heard? Some beasts from the jungles ran off with Arciela! The whole castle's as flustered as a flock of heartwings in heat.
+- **8955**: You...knew that already? And you want me to keep mum?
+- **8956**: Now that you mention it, I think I was told to keep my mouth shut by...oh great Goddess, my wagging tongue's done it again! My back can't tolerate any more lashes!
+- **9767**: Not another foreigner... Well, you're here, so I guess I have to "welcome" you to Adoulin.
+- **9768**: I'd prefer it if you got the hell out of my face and never came back. The coalition leaders, however, want you to become a pioneer. Better get on it and register then.
+- **9769**: Pioneers, adventurers, whatever you call yourselves...you're all Velkk scat to me.
+- **9770**: Just don't cause any trouble here in Western Adoulin and things won't get...messy.
 
 ## Events
 
@@ -129,10 +129,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9766*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9767*)
     → "Not another foreigner... Well, you're here, so I guess I have to "welcome" you to Adoulin."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9767*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9768*)
     → "I'd prefer it if you got the hell out of my face and never came back. The coalition leaders, however, want you to become a pioneer. Better get on it and register then."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -165,10 +165,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9768*)
+  4: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
     → "Pioneers, adventurers, whatever you call yourselves...you're all Velkk scat to me."
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
+  6: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9770*)
     → "Just don't cause any trouble here in Western Adoulin and things won't get...messy."
   7: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x004E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -251,19 +251,19 @@
   2: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0080 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  5: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  5: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "Whaddya want?"
   6: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  7: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "I don't have time for louses like y..."
   8: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+  9: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → "Wait a minute. You seem like you have time on your hands. Why don't I give you some wholesome work? None of this stirring-up-trouble-in-the-jungle stuff."
  10: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 11: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "The guard on duty today fell asleep before his patrol, that laggard. Take this paper with his route on it and fill in for him. You've got nothing better to do, right?"
  12: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+ 13: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "Follow those instructions to the letter. They shouldn't be hard to figure out, even for an outsider like you."
  14: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00A3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -297,7 +297,7 @@
   1: 0x00BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  4: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+  4: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "I thought I sent you out on patrol! Are you purposefully trying to scare our people? Now go!"
   5: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=65*
@@ -333,19 +333,19 @@
   2: 0x00E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=65*
-  5: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+  5: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "Finally finished, huh? ...No one was troubled by anything? Good."
   6: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+  7: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "Speaking of trouble, everyone in the Peacekeepers' Coalition makes ridding our city of it their number one priority! There's no room for those who can't follow this mantra. That's why we'll be punishing the person you replaced today."
   8: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
+  9: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
     → "Patrolling the streets is not our only tactic. We also look out upon Adoulin from guard towers and the city walls. If we see any fires of discontent, we snuff them out!"
  10: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+ 11: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "Should monsters somehow breach Jorius Yett, we'll be there to stop them, too."
  12: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+ 13: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "See, we have enough problems without having to deal with pioneers. Watch your step around this town, or we might just have to deal with you."
  14: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x010B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -382,15 +382,15 @@
   1: 0x0133 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0134 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0135 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
+  4: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=8954*)
     → "Have you heard? Some beasts from the jungles ran off with Arciela! The whole castle's as flustered as a flock of heartwings in heat."
   5: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0148 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8954*)
+  7: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8955*)
     → "You...knew that already? And you want me to keep mum?"
   8: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0151 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
- 10: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8955*)
+ 10: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=8956*)
     → "Now that you mention it, I think I was told to keep my mouth shut by...oh great Goddess, my wagging tongue's done it again! My back can't tolerate any more lashes!"
  11: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0164 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

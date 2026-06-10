@@ -28,48 +28,48 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D80      |        7552 |
+|       0 | 0x1D81      |        7553 |
 |       1 | 0x0032      |          50 |
-|       2 | 0x1D81      |        7553 |
+|       2 | 0x1D82      |        7554 |
 |       3 | 0x1000      |        4096 |
 |       4 | 0x348E      |       13454 |
-|       5 | 0x1DAF      |        7599 |
-|       6 | 0x1DB0      |        7600 |
-|       7 | 0x1DB1      |        7601 |
+|       5 | 0x1DB0      |        7600 |
+|       6 | 0x1DB1      |        7601 |
+|       7 | 0x1DB2      |        7602 |
 |       8 | 0x000A      |          10 |
-|       9 | 0x1DB2      |        7602 |
-|      10 | 0x1DB3      |        7603 |
+|       9 | 0x1DB3      |        7603 |
+|      10 | 0x1DB4      |        7604 |
 |      11 | 0x0034      |          52 |
-|      12 | 0x1DB4      |        7604 |
-|      13 | 0x1DB6      |        7606 |
-|      14 | 0x1DB7      |        7607 |
+|      12 | 0x1DB5      |        7605 |
+|      13 | 0x1DB7      |        7607 |
+|      14 | 0x1DB8      |        7608 |
 |      15 | 0x00C9      |         201 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x1DB8      |        7608 |
-|      18 | 0x1DB9      |        7609 |
-|      19 | 0x1DBA      |        7610 |
-|      20 | 0x1DBB      |        7611 |
-|      21 | 0x1DBC      |        7612 |
-|      22 | 0x1DBD      |        7613 |
+|      17 | 0x1DB9      |        7609 |
+|      18 | 0x1DBA      |        7610 |
+|      19 | 0x1DBB      |        7611 |
+|      20 | 0x1DBC      |        7612 |
+|      21 | 0x1DBD      |        7613 |
+|      22 | 0x1DBE      |        7614 |
 
 ## String References
 
-- **7552**: It's either poorly-guarded poor houses, or well-guarded well-to-do houses... How am I supposed to work under these conditions?
-- **7553**: What kind of work do I do? I could tell you, but then I'd have to kill you! Hah hah hah. Just kidding.
-- **7599**: Ah! An adventurrrer! Good, good! I need your help!
-- **7600**: I want to give $6 to my daughter as a present, but I could only get my paws on $7.
-- **7601**: Could you make it into $6 and give it to my daughter? Of course, I'm not asking you to do it for nothing. I have enough to pay you.
-- **7602**: I'd do it myself, if it weren't for that guard over there. I think she's got me marrrked. Anyway, here's the $7.
-- **7603**: Why is the guard watching me? Oh, it's nothing for you to worry about. By the way, my place is in the Mines District, in the lower level housing area. There aren't that many Mithra around, so it shouldn't be too harrrd to find.
-- **7604**: Damned guard! I've got to make a living, too! Come on, look the other way!
-- **7606**: So, did you do it? What's that? A letter from my daughter? Oh, how sweet!
-- **7607**: Be patient, my little kitten--Mom's gonna work hard for you! Oh, wait...I should give you this first. Thanks again!
-- **7608**: Wait... You've read this, haven't you? That's not very commendable, you know? Still, I should pay you for your work.
-- **7609**: Oh, hi! I've been looking for you! I need you to do something for me again. You're a good person and I trust you, so I'm going to tell you this...
-- **7610**: I recently got some information about a treasure! It's supposed to be buried under one of the signposts on the Konschtat Highlands.
-- **7611**: I'd go myself, but I got this other thing I have to take care of first...
-- **7612**: But I wouldn't want anyone else to take it before I do, so I thought of asking you, my trusty sidekick! If whatever's buried there is worth anything, I'll be happy to buy it off you.
-- **7613**: So, could you go get it and bring it to my house? Have a chat with my daughter and wait if I'm not there. I'll try to shake that guard off my tail before then.
+- **7553**: It's either poorly-guarded poor houses, or well-guarded well-to-do houses... How am I supposed to work under these conditions?
+- **7554**: What kind of work do I do? I could tell you, but then I'd have to kill you! Hah hah hah. Just kidding.
+- **7600**: Ah! An adventurrrer! Good, good! I need your help!
+- **7601**: I want to give $6 to my daughter as a present, but I could only get my paws on $7.
+- **7602**: Could you make it into $6 and give it to my daughter? Of course, I'm not asking you to do it for nothing. I have enough to pay you.
+- **7603**: I'd do it myself, if it weren't for that guard over there. I think she's got me marrrked. Anyway, here's the $7.
+- **7604**: Why is the guard watching me? Oh, it's nothing for you to worry about. By the way, my place is in the Mines District, in the lower level housing area. There aren't that many Mithra around, so it shouldn't be too harrrd to find.
+- **7605**: Damned guard! I've got to make a living, too! Come on, look the other way!
+- **7607**: So, did you do it? What's that? A letter from my daughter? Oh, how sweet!
+- **7608**: Be patient, my little kitten--Mom's gonna work hard for you! Oh, wait...I should give you this first. Thanks again!
+- **7609**: Wait... You've read this, haven't you? That's not very commendable, you know? Still, I should pay you for your work.
+- **7610**: Oh, hi! I've been looking for you! I need you to do something for me again. You're a good person and I trust you, so I'm going to tell you this...
+- **7611**: I recently got some information about a treasure! It's supposed to be buried under one of the signposts on the Konschtat Highlands.
+- **7612**: I'd go myself, but I got this other thing I have to take care of first...
+- **7613**: But I wouldn't want anyone else to take it before I do, so I thought of asking you, my trusty sidekick! If whatever's buried there is worth anything, I'll be happy to buy it off you.
+- **7614**: So, could you go get it and bring it to my house? Have a chat with my daughter and wait if I'm not there. I'll try to shake that guard off my tail before then.
 
 ## Events
 
@@ -116,11 +116,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "It's either poorly-guarded poor houses, or well-guarded well-to-do houses... How am I supposed to work under these conditions?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "What kind of work do I do? I could tell you, but then I'd have to kill you! Hah hah hah. Just kidding."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -155,23 +155,23 @@
   0: 0x001F [0x03] Work_Zone[9] = 4096*
   1: 0x0024 [0x03] Work_Zone[8] = 13454*
   2: 0x0029 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
+  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
     → "Ah! An adventurrrer! Good, good! I need your help!"
   4: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0032 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  6: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
+  6: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7601*)
     → "I want to give $6 to my daughter as a present, but I could only get my paws on $7."
   7: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7601*)
+  8: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7602*)
     → "Could you make it into $6 and give it to my daughter? Of course, I'm not asking you to do it for nothing. I have enough to pay you."
   9: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0049 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  11: 0x004E [0x1C] WAIT(10* ticks)
  12: 0x0051 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 13: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7602*)
+ 13: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
     → "I'd do it myself, if it weren't for that guard over there. I think she's got me marrrked. Anyway, here's the $7."
  14: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
+ 15: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "Why is the guard watching me? Oh, it's nothing for you to worry about. By the way, my place is in the Mines District, in the lower level housing area. There aren't that many Mithra around, so it shouldn't be too harrrd to find."
  16: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0068 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -200,7 +200,7 @@
 
 ```
   0: 0x0077 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=52*
-  1: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  1: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
     → "Damned guard! I've got to make a living, too! Come on, look the other way!"
   2: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x008A [0x21] END_EVENT
@@ -232,11 +232,11 @@
 ```
   0: 0x008C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x008D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+  2: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "So, did you do it? What's that? A letter from my daughter? Oh, how sweet!"
   3: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  5: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "Be patient, my little kitten--Mom's gonna work hard for you! Oh, wait...I should give you this first. Thanks again!"
   6: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00A9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -269,11 +269,11 @@
 
 ```
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "So, did you do it? What's that? A letter from my daughter? Oh, how sweet!"
   2: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+  4: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "Wait... You've read this, haven't you? That's not very commendable, you know? Still, I should pay you for your work."
   5: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -305,21 +305,21 @@
 
 ```
   0: 0x0105 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+  1: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "Oh, hi! I've been looking for you! I need you to do something for me again. You're a good person and I trust you, so I'm going to tell you this..."
   2: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x010E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
+  4: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "I recently got some information about a treasure! It's supposed to be buried under one of the signposts on the Konschtat Highlands."
   5: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+  6: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
     → "I'd go myself, but I got this other thing I have to take care of first..."
   7: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
+  8: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
     → "But I wouldn't want anyone else to take it before I do, so I thought of asking you, my trusty sidekick! If whatever's buried there is worth anything, I'll be happy to buy it off you."
   9: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0129 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 11: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7613*)
+ 11: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
     → "So, could you go get it and bring it to my house? Have a chat with my daughter and wait if I'm not there. I'll try to shake that guard off my tail before then."
  12: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0132 [0x21] END_EVENT

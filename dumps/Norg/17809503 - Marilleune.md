@@ -26,23 +26,23 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C9      |         201 |
 |       4 | 0x008A      |         138 |
-|       5 | 0x296F      |       10607 |
-|       6 | 0x297A      |       10618 |
-|       7 | 0x297B      |       10619 |
-|       8 | 0x2972      |       10610 |
+|       5 | 0x2970      |       10608 |
+|       6 | 0x297B      |       10619 |
+|       7 | 0x297C      |       10620 |
+|       8 | 0x2973      |       10611 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x2973      |       10611 |
+|      10 | 0x2974      |       10612 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x296E      |       10606 |
+|      12 | 0x296F      |       10607 |
 
 ## String References
 
-- **10606**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
-- **10607**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
-- **10610**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
-- **10611**: You don't have enough gil.
-- **10618**: Our chocobos do not like traveling in the Sea Serpent Grotto, so we have dug a special exit tunnel leading from here to the Yuhtunga Jungle.
-- **10619**: However, take care, as you will not be able to use this tunnel if you wish to return to Norg.
+- **10607**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
+- **10608**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
+- **10611**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
+- **10612**: You don't have enough gil.
+- **10619**: Our chocobos do not like traveling in the Sea Serpent Grotto, so we have dug a special exit tunnel leading from here to the Yuhtunga Jungle.
+- **10620**: However, take care, as you will not be able to use this tunnel if you wish to return to Norg.
 
 ## Events
 
@@ -106,16 +106,16 @@
   6: 0x0035 [0x00] END_REQSTACK()
   7: 0x0036 [0x03] Work_Zone[9] = 138*
   8: 0x003B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10607*)
+  9: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=10608*)
     → "You can rent a chocobo for $0 gil. I see you currently have $1 gil."
  10: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10618*)
+ 11: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=10619*)
     → "Our chocobos do not like traveling in the Sea Serpent Grotto, so we have dug a special exit tunnel leading from here to the Yuhtunga Jungle."
  12: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=10619*)
+ 13: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=10620*)
     → "However, take care, as you will not be able to use this tunnel if you wish to return to Norg."
  14: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x004C [0x24] CREATE_DIALOG(message_id=10610*, default_option=1*, option_flags=0*)
+ 15: 0x004C [0x24] CREATE_DIALOG(message_id=10611*, default_option=1*, option_flags=0*)
     → "Do you wish to rent a chocobo? [Yes, I do./No, thank you.]"
  16: 0x0053 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0054 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A0
@@ -125,7 +125,7 @@
  21: 0x0076 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x008F
  22: 0x007E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
  23: 0x008F [0x01] GOTO 0x009B
- 24: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=10611*)
+ 24: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=10612*)
     → "You don't have enough gil."
  25: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0096 [0x03] Work_Zone[1] = 1073741824*
@@ -168,7 +168,7 @@ SUBROUTINE_00A5:
 ```
   0: 0x00A7 [0x03] Work_Zone[9] = 138*
   1: 0x00AC [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10606*)
+  2: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10607*)
     → "If you wish to ride a chocobo, you must possess $6 and have a high enough job level."
   3: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00B5 [0x21] END_EVENT

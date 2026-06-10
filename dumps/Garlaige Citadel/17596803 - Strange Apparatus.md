@@ -22,74 +22,74 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C49      |        7241 |
+|       0 | 0x1C4A      |        7242 |
 |       1 | 0x00BF      |         191 |
-|       2 | 0x1C4A      |        7242 |
+|       2 | 0x1C4B      |        7243 |
 |       3 | 0x00C5      |         197 |
-|       4 | 0x1C4B      |        7243 |
+|       4 | 0x1C4C      |        7244 |
 |       5 | 0x00C4      |         196 |
-|       6 | 0x1C4C      |        7244 |
+|       6 | 0x1C4D      |        7245 |
 |       7 | 0x00C1      |         193 |
-|       8 | 0x1C4D      |        7245 |
+|       8 | 0x1C4E      |        7246 |
 |       9 | 0x00C3      |         195 |
-|      10 | 0x1C4E      |        7246 |
+|      10 | 0x1C4F      |        7247 |
 |      11 | 0x00C2      |         194 |
-|      12 | 0x1C4F      |        7247 |
+|      12 | 0x1C50      |        7248 |
 |      13 | 0x00C8      |         200 |
-|      14 | 0x1C50      |        7248 |
+|      14 | 0x1C51      |        7249 |
 |      15 | 0x00C6      |         198 |
-|      16 | 0x1C51      |        7249 |
-|      17 | 0x1C63      |        7267 |
-|      18 | 0x1C52      |        7250 |
+|      16 | 0x1C52      |        7250 |
+|      17 | 0x1C64      |        7268 |
+|      18 | 0x1C53      |        7251 |
 |      19 | 0x0000      |           0 |
-|      20 | 0x1C58      |        7256 |
-|      21 | 0x1C59      |        7257 |
-|      22 | 0x1C5A      |        7258 |
-|      23 | 0x1C5B      |        7259 |
-|      24 | 0x1C5D      |        7261 |
-|      25 | 0x1C5C      |        7260 |
-|      26 | 0x1C53      |        7251 |
-|      27 | 0x1C55      |        7253 |
-|      28 | 0x1C64      |        7268 |
-|      29 | 0x1C5F      |        7263 |
+|      20 | 0x1C59      |        7257 |
+|      21 | 0x1C5A      |        7258 |
+|      22 | 0x1C5B      |        7259 |
+|      23 | 0x1C5C      |        7260 |
+|      24 | 0x1C5E      |        7262 |
+|      25 | 0x1C5D      |        7261 |
+|      26 | 0x1C54      |        7252 |
+|      27 | 0x1C56      |        7254 |
+|      28 | 0x1C65      |        7269 |
+|      29 | 0x1C60      |        7264 |
 |      30 | 0x00B4      |         180 |
 |      31 | 0x1000      |        4096 |
 |      32 | 0x1007      |        4103 |
 |      33 | 0x00F0      |         240 |
 |      34 | 0x012C      |         300 |
 |      35 | 0x0001      |           1 |
-|      36 | 0x1C56      |        7254 |
-|      37 | 0x1C66      |        7270 |
-|      38 | 0x1C5E      |        7262 |
-|      39 | 0x1C54      |        7252 |
+|      36 | 0x1C57      |        7255 |
+|      37 | 0x1C67      |        7271 |
+|      38 | 0x1C5F      |        7263 |
+|      39 | 0x1C55      |        7253 |
 
 ## String References
 
-- **7241**: It is some sort of device.
-- **7242**: You can feel hot steam leaking from the cracks in the machine...
-- **7243**: It feels a little damp...
-- **7244**: It looks a little dusty...
-- **7245**: You can feel a little air leaking from the cracks in the machine...
-- **7246**: You can feel a stream of cold air leaking from the cracks in the machine...
-- **7247**: You can hear a small crackling sound from the inside...
-- **7248**: You start to feel a little lightheaded...
-- **7249**: You start to feel a little dark and gloomy...
-- **7250**: The voice of a young woman rings in your head.
-- **7251**: "...thorization...grant... ...lcome...octor <Player>..."
-- **7252**: "It is...will...Altan... ...heaven...lory...ve...mercy..."
-- **7253**: The voice in your head has gone silent.
-- **7254**: You obtain $0!
-- **7256**: "Wel...to the...morph Matter Emulato... Inser...$2 and...elementally c...patible chip to begi...item replicat...process..."
-- **7257**: "If you...a registe...doctor, emula...ettings will...djuste...accordin..."
-- **7258**: "...emulator...ill now conduc...user auth...zation. Please inp...your 8-digit passw..."
-- **7259**: "Registr...n complete. Your access...evel is doctor."
-- **7260**: "Passw...error... Reg...tration comple... Your access lev...is assistant."
-- **7261**: "Yo...dat...has be...recorde..."
-- **7262**: "Syste...shutting...own."
-- **7263**: "...commencin...rocess..."
-- **7267**: There is no response...
-- **7268**: "S-level warni... Shutti...own systems...prevent...stem overlo..."
-- **7270**: You obtain $1 $0 .
+- **7242**: It is some sort of device.
+- **7243**: You can feel hot steam leaking from the cracks in the machine...
+- **7244**: It feels a little damp...
+- **7245**: It looks a little dusty...
+- **7246**: You can feel a little air leaking from the cracks in the machine...
+- **7247**: You can feel a stream of cold air leaking from the cracks in the machine...
+- **7248**: You can hear a small crackling sound from the inside...
+- **7249**: You start to feel a little lightheaded...
+- **7250**: You start to feel a little dark and gloomy...
+- **7251**: The voice of a young woman rings in your head.
+- **7252**: "...thorization...grant... ...lcome...octor <Player>..."
+- **7253**: "It is...will...Altan... ...heaven...lory...ve...mercy..."
+- **7254**: The voice in your head has gone silent.
+- **7255**: You obtain $0!
+- **7257**: "Wel...to the...morph Matter Emulato... Inser...$2 and...elementally c...patible chip to begi...item replicat...process..."
+- **7258**: "If you...a registe...doctor, emula...ettings will...djuste...accordin..."
+- **7259**: "...emulator...ill now conduc...user auth...zation. Please inp...your 8-digit passw..."
+- **7260**: "Registr...n complete. Your access...evel is doctor."
+- **7261**: "Passw...error... Reg...tration comple... Your access lev...is assistant."
+- **7262**: "Yo...dat...has be...recorde..."
+- **7263**: "Syste...shutting...own."
+- **7264**: "...commencin...rocess..."
+- **7268**: There is no response...
+- **7269**: "S-level warni... Shutti...own systems...prevent...stem overlo..."
+- **7271**: You obtain $1 $0 .
 
 ## Events
 
@@ -146,98 +146,98 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7241*]:
+  0: 0x0001 [0x48] [System] [7242*]:
     → "It is some sort of device."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x02] IF !(Work_Zone[9] == 191*) GOTO 0x0014
-  3: 0x000D [0x48] [System] [7242*]:
+  3: 0x000D [0x48] [System] [7243*]:
     → "You can feel hot steam leaking from the cracks in the machine..."
   4: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0011 [0x01] GOTO 0x0083
   6: 0x0014 [0x02] IF !(Work_Zone[9] == 197*) GOTO 0x0023
-  7: 0x001C [0x48] [System] [7243*]:
+  7: 0x001C [0x48] [System] [7244*]:
     → "It feels a little damp..."
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0020 [0x01] GOTO 0x0083
  10: 0x0023 [0x02] IF !(Work_Zone[9] == 196*) GOTO 0x0032
- 11: 0x002B [0x48] [System] [7244*]:
+ 11: 0x002B [0x48] [System] [7245*]:
     → "It looks a little dusty..."
  12: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x002F [0x01] GOTO 0x0083
  14: 0x0032 [0x02] IF !(Work_Zone[9] == 193*) GOTO 0x0041
- 15: 0x003A [0x48] [System] [7245*]:
+ 15: 0x003A [0x48] [System] [7246*]:
     → "You can feel a little air leaking from the cracks in the machine..."
  16: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x003E [0x01] GOTO 0x0083
  18: 0x0041 [0x02] IF !(Work_Zone[9] == 195*) GOTO 0x0050
- 19: 0x0049 [0x48] [System] [7246*]:
+ 19: 0x0049 [0x48] [System] [7247*]:
     → "You can feel a stream of cold air leaking from the cracks in the machine..."
  20: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004D [0x01] GOTO 0x0083
  22: 0x0050 [0x02] IF !(Work_Zone[9] == 194*) GOTO 0x005F
- 23: 0x0058 [0x48] [System] [7247*]:
+ 23: 0x0058 [0x48] [System] [7248*]:
     → "You can hear a small crackling sound from the inside..."
  24: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x005C [0x01] GOTO 0x0083
  26: 0x005F [0x02] IF !(Work_Zone[9] == 200*) GOTO 0x006E
- 27: 0x0067 [0x48] [System] [7248*]:
+ 27: 0x0067 [0x48] [System] [7249*]:
     → "You start to feel a little lightheaded..."
  28: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x006B [0x01] GOTO 0x0083
  30: 0x006E [0x02] IF !(Work_Zone[9] == 198*) GOTO 0x007D
- 31: 0x0076 [0x48] [System] [7249*]:
+ 31: 0x0076 [0x48] [System] [7250*]:
     → "You start to feel a little dark and gloomy..."
  32: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x007A [0x01] GOTO 0x0083
- 34: 0x007D [0x48] [System] [7267*]:
+ 34: 0x007D [0x48] [System] [7268*]:
     → "There is no response..."
  35: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0081 [0x21] END_EVENT
  37: 0x0082 [0x00] END_REQSTACK()
 
 SUBROUTINE_0083:
- 38: 0x0083 [0x48] [System] [7250*]:
+ 38: 0x0083 [0x48] [System] [7251*]:
     → "The voice of a young woman rings in your head."
  39: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0087 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00BB
- 41: 0x008F [0x48] [System] [7256*]:
+ 41: 0x008F [0x48] [System] [7257*]:
     → ""Wel...to the...morph Matter Emulato... Inser...$2 and...elementally c...patible chip to begi...item replicat...process...""
  42: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0093 [0x48] [System] [7257*]:
+ 43: 0x0093 [0x48] [System] [7258*]:
     → ""If you...a registe...doctor, emula...ettings will...djuste...accordin...""
  44: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0097 [0x48] [System] [7258*]:
+ 45: 0x0097 [0x48] [System] [7259*]:
     → ""...emulator...ill now conduc...user auth...zation. Please inp...your 8-digit passw...""
  46: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x009B [0x71] USER_INPUT_HANDLER: Open password input dialog (sends packet 0x60)
  48: 0x009D [0x71] USER_INPUT_HANDLER: Check if player has input or exited
  49: 0x009F [0x71] USER_INPUT_HANDLER: Check if server responded
  50: 0x00A1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00B4
- 51: 0x00A9 [0x48] [System] [7259*]:
+ 51: 0x00A9 [0x48] [System] [7260*]:
     → ""Registr...n complete. Your access...evel is doctor.""
  52: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x00AD [0x48] [System] [7261*]:
+ 53: 0x00AD [0x48] [System] [7262*]:
     → ""Yo...dat...has be...recorde...""
  54: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00B1 [0x01] GOTO 0x00B8
- 56: 0x00B4 [0x48] [System] [7260*]:
+ 56: 0x00B4 [0x48] [System] [7261*]:
     → ""Passw...error... Reg...tration comple... Your access lev...is assistant.""
  57: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00B8:
  58: 0x00B8 [0x01] GOTO 0x00C7
- 59: 0x00BB [0x48] [System] [7251*]:
+ 59: 0x00BB [0x48] [System] [7252*]:
     → ""...thorization...grant... ...lcome...octor <Player>...""
  60: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x00BF [0x48] [System] [7256*]:
+ 61: 0x00BF [0x48] [System] [7257*]:
     → ""Wel...to the...morph Matter Emulato... Inser...$2 and...elementally c...patible chip to begi...item replicat...process...""
  62: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x00C3 [0x48] [System] [7257*]:
+ 63: 0x00C3 [0x48] [System] [7258*]:
     → ""If you...a registe...doctor, emula...ettings will...djuste...accordin...""
  64: 0x00C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00C7:
- 65: 0x00C7 [0x48] [System] [7253*]:
+ 65: 0x00C7 [0x48] [System] [7254*]:
     → "The voice in your head has gone silent."
  66: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x00CB [0x21] END_EVENT
@@ -279,14 +279,14 @@ SUBROUTINE_00C7:
   0: 0x00CD [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x00CF [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x00D0 [0x4A] LocalPlayer looks at EventEntity
-  3: 0x00D9 [0x48] [System] [7250*]:
+  3: 0x00D9 [0x48] [System] [7251*]:
     → "The voice of a young woman rings in your head."
   4: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00DD [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x00EF
-  6: 0x00E5 [0x48] [System] [7268*]:
+  6: 0x00E5 [0x48] [System] [7269*]:
     → ""S-level warni... Shutti...own systems...prevent...stem overlo...""
   7: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00E9 [0x48] [System] [7253*]:
+  8: 0x00E9 [0x48] [System] [7254*]:
     → "The voice in your head has gone silent."
   9: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00ED [0x21] END_EVENT
@@ -294,10 +294,10 @@ SUBROUTINE_00C7:
  12: 0x00EF [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "mntr" with entities [Strange Apparatus (ID: 17596803/0x010C8183), Strange Apparatus (ID: 17596803/0x010C8183)]
  13: 0x00FC [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "moji" with entities [Strange Apparatus (ID: 17596803/0x010C8183), Strange Apparatus (ID: 17596803/0x010C8183)]
  14: 0x0109 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0115
- 15: 0x0111 [0x48] [System] [7251*]:
+ 15: 0x0111 [0x48] [System] [7252*]:
     → ""...thorization...grant... ...lcome...octor <Player>...""
  16: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0115 [0x48] [System] [7263*]:
+ 17: 0x0115 [0x48] [System] [7264*]:
     → ""...commencin...rocess...""
  18: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0119 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "itin" with entities [Strange Apparatus (ID: 17596803/0x010C8183), Strange Apparatus (ID: 17596803/0x010C8183)]
@@ -312,23 +312,23 @@ SUBROUTINE_00C7:
  28: 0x0157 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "itot" with entities [Strange Apparatus (ID: 17596803/0x010C8183), Strange Apparatus (ID: 17596803/0x010C8183)]
  29: 0x0164 [0x1C] WAIT(300* ticks)
  30: 0x0167 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0176
- 31: 0x016F [0x48] [System] [7254*]:
+ 31: 0x016F [0x48] [System] [7255*]:
     → "You obtain $0!"
  32: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0173 [0x01] GOTO 0x017A
- 34: 0x0176 [0x48] [System] [7270*]:
+ 34: 0x0176 [0x48] [System] [7271*]:
     → "You obtain $1 $0 ."
  35: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_017A:
- 36: 0x017A [0x48] [System] [7262*]:
+ 36: 0x017A [0x48] [System] [7263*]:
     → ""Syste...shutting...own.""
  37: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x017E [0x48] [System] [7252*]:
+ 38: 0x017E [0x48] [System] [7253*]:
     → ""It is...will...Altan... ...heaven...lory...ve...mercy...""
  39: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0182 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kill" with entities [Strange Apparatus (ID: 17596803/0x010C8183), Strange Apparatus (ID: 17596803/0x010C8183)]
- 41: 0x018F [0x48] [System] [7253*]:
+ 41: 0x018F [0x48] [System] [7254*]:
     → "The voice in your head has gone silent."
  42: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0193 [0x21] END_EVENT

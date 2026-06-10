@@ -22,15 +22,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1D37      |        7479 |
-|       3 | 0x1D38      |        7480 |
-|       4 | 0x1D39      |        7481 |
+|       2 | 0x1D38      |        7480 |
+|       3 | 0x1D39      |        7481 |
+|       4 | 0x1D3A      |        7482 |
 
 ## String References
 
-- **7479**: weather_adj$0,weather_noun$0, Waiting for button press message 1: (ind us_item=128){$256}setlocal 1 (def us_item=128){$256}
-- **7480**: Waiting for button press message 2:
-- **7481**: Waiting for button press message 3: det_scitemwork=1(198:old boots){$6},det_scitemwork=2(197:old pocket watch){$6},det_scitemwork=3(193:bomb incense){$6},det_scitemwork=4(209:Yasin's sword){$6}, art_bitem=1{$1} status_noun=1{$1},status_adj=1{$1}
+- **7480**: weather_adj$0,weather_noun$0, Waiting for button press message 1: (ind us_item=128){$256}setlocal 1 (def us_item=128){$256}
+- **7481**: Waiting for button press message 2:
+- **7482**: Waiting for button press message 3: det_scitemwork=1(198:old boots){$6},det_scitemwork=2(197:old pocket watch){$6},det_scitemwork=3(193:bomb incense){$6},det_scitemwork=4(209:Yasin's sword){$6}, art_bitem=1{$1} status_noun=1{$1},status_adj=1{$1}
 
 ## Events
 
@@ -78,13 +78,13 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0xC3] COPY_STRING_TO_ARRAY(array_index=0x8000, string_value=0x00, additional_value=0x8001)
-  2: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+  2: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "weather_adj$0,weather_noun$0, Waiting for button press message 1: (ind us_item=128){$256}setlocal 1 (def us_item=128){$256}"
   3: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
+  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "Waiting for button press message 2:"
   5: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+  6: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "Waiting for button press message 3: det_scitemwork=1(198:old boots){$6},det_scitemwork=2(197:old pocket watch){$6},det_scitemwork=3(193:bomb incense){$6},det_scitemwork=4(209:Yasin's sword){$6}, art_bitem=1{$1} status_noun=1{$1},status_adj=1{$1}"
   7: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0019 [0x21] END_EVENT

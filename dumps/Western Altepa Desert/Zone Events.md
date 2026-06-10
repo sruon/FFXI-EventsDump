@@ -42,7 +42,7 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1D08      |        7432 |
+|       5 | 0x1D09      |        7433 |
 |       6 | 0x0027      |          39 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x007D      |         125 |
@@ -108,18 +108,18 @@
 |      68 | 0x0BF0      |        3056 |
 |      69 | 0x0001      |           1 |
 |      70 | 0x000F      |          15 |
-|      71 | 0x1DD1      |        7633 |
+|      71 | 0x1DD2      |        7634 |
 |      72 | 0x0090      |         144 |
-|      73 | 0x1DDD      |        7645 |
+|      73 | 0x1DDE      |        7646 |
 |      74 | 0x0063      |          99 |
-|      75 | 0x1DDE      |        7646 |
+|      75 | 0x1DDF      |        7647 |
 
 ## String References
 
-- **7432**: You dig up a strange wooden casket!
-- **7633**: There is treasure somewhere in the vicinity of this marker...
-- **7645**: Your chocobo seems especially sharp today!
-- **7646**: Your chocobo seems especially energetic today!
+- **7433**: You dig up a strange wooden casket!
+- **7634**: There is treasure somewhere in the vicinity of this marker...
+- **7646**: Your chocobo seems especially sharp today!
+- **7647**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -201,7 +201,7 @@
   6: 0x0025 [0x29] REQ_SET_WAIT(priority=0x01, entity_id=Casket (ID: 17289773/0x0107D22D), tag_num=0x02)
   7: 0x002C [0x1C] WAIT(30* ticks)
   8: 0x002F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  9: 0x0040 [0x48] [System] [7432*]:
+  9: 0x0040 [0x48] [System] [7433*]:
     → "You dig up a strange wooden casket!"
  10: 0x0043 [0x1C] WAIT(60* ticks)
  11: 0x0046 [0x6E] LocalPlayer uses emote 39*
@@ -620,17 +620,17 @@
      0x0132 [0x00] END_REQSTACK()
      0x0133 [0x00] END_REQSTACK()
      0x0134 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x0145 [0x48] [System] [7633*]:
+     0x0145 [0x48] [System] [7634*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0149 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0166
      0x0151 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x0162 [0x48] [System] [7645*]:
+     0x0162 [0x48] [System] [7646*]:
     → "Your chocobo seems especially sharp today!"
      0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0166 [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x0183
      0x016E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x017F [0x48] [System] [7646*]:
+     0x017F [0x48] [System] [7647*]:
     → "Your chocobo seems especially energetic today!"
      0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0183 [0x1C] WAIT(1* ticks)

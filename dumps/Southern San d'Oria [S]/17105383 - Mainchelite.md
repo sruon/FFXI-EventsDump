@@ -47,12 +47,12 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0080      |         128 |
 |       3 | 0x001D      |          29 |
-|       4 | 0x389D      |       14493 |
-|       5 | 0x389C      |       14492 |
-|       6 | 0x2B14      |       11028 |
-|       7 | 0x2B60      |       11104 |
-|       8 | 0x2B15      |       11029 |
-|       9 | 0x2B13      |       11027 |
+|       4 | 0x389E      |       14494 |
+|       5 | 0x389D      |       14493 |
+|       6 | 0x2B15      |       11029 |
+|       7 | 0x2B61      |       11105 |
+|       8 | 0x2B16      |       11030 |
+|       9 | 0x2B14      |       11028 |
 |      10 | 0x0013      |          19 |
 |      11 | 0xFFFFC3CC  |  4294951884 |
 |      12 | 0xFFFF9155  |  4294938965 |
@@ -70,40 +70,40 @@
 |      24 | 0x0BC6      |        3014 |
 |      25 | 0x0163      |         355 |
 |      26 | 0x00C8      |         200 |
-|      27 | 0x2B1B      |       11035 |
-|      28 | 0x2B1C      |       11036 |
-|      29 | 0x2B1D      |       11037 |
-|      30 | 0x2B1E      |       11038 |
-|      31 | 0x2B1F      |       11039 |
-|      32 | 0x2B20      |       11040 |
+|      27 | 0x2B1C      |       11036 |
+|      28 | 0x2B1D      |       11037 |
+|      29 | 0x2B1E      |       11038 |
+|      30 | 0x2B1F      |       11039 |
+|      31 | 0x2B20      |       11040 |
+|      32 | 0x2B21      |       11041 |
 |      33 | 0x0160      |         352 |
 |      34 | 0x0002      |           2 |
-|      35 | 0x2B21      |       11041 |
-|      36 | 0x2B22      |       11042 |
-|      37 | 0x2B23      |       11043 |
-|      38 | 0x2B24      |       11044 |
+|      35 | 0x2B22      |       11042 |
+|      36 | 0x2B23      |       11043 |
+|      37 | 0x2B24      |       11044 |
+|      38 | 0x2B25      |       11045 |
 |      39 | 0x0027      |          39 |
-|      40 | 0x2B25      |       11045 |
-|      41 | 0x2B26      |       11046 |
-|      42 | 0x2B27      |       11047 |
+|      40 | 0x2B26      |       11046 |
+|      41 | 0x2B27      |       11047 |
+|      42 | 0x2B28      |       11048 |
 |      43 | 0x001A      |          26 |
-|      44 | 0x2B28      |       11048 |
+|      44 | 0x2B29      |       11049 |
 |      45 | 0x0019      |          25 |
-|      46 | 0x2B29      |       11049 |
-|      47 | 0x2B2A      |       11050 |
-|      48 | 0x2B2B      |       11051 |
-|      49 | 0x2B2C      |       11052 |
-|      50 | 0x2B2D      |       11053 |
-|      51 | 0x2B2E      |       11054 |
-|      52 | 0x2B36      |       11062 |
-|      53 | 0x2B38      |       11064 |
-|      54 | 0x2B39      |       11065 |
-|      55 | 0x2B3A      |       11066 |
-|      56 | 0x2B3B      |       11067 |
-|      57 | 0x2B17      |       11031 |
-|      58 | 0x2B18      |       11032 |
-|      59 | 0x2B19      |       11033 |
-|      60 | 0x2B1A      |       11034 |
+|      46 | 0x2B2A      |       11050 |
+|      47 | 0x2B2B      |       11051 |
+|      48 | 0x2B2C      |       11052 |
+|      49 | 0x2B2D      |       11053 |
+|      50 | 0x2B2E      |       11054 |
+|      51 | 0x2B2F      |       11055 |
+|      52 | 0x2B37      |       11063 |
+|      53 | 0x2B39      |       11065 |
+|      54 | 0x2B3A      |       11066 |
+|      55 | 0x2B3B      |       11067 |
+|      56 | 0x2B3C      |       11068 |
+|      57 | 0x2B18      |       11032 |
+|      58 | 0x2B19      |       11033 |
+|      59 | 0x2B1A      |       11034 |
+|      60 | 0x2B1B      |       11035 |
 |      61 | 0xFFFFADE2  |  4294946274 |
 |      62 | 0xFFFF87BA  |  4294936506 |
 |      63 | 0x00C9      |         201 |
@@ -114,65 +114,65 @@
 |      68 | 0xFFFF8EFD  |  4294938365 |
 |      69 | 0x0576      |        1398 |
 |      70 | 0x07B2      |        1970 |
-|      71 | 0x2B3D      |       11069 |
+|      71 | 0x2B3E      |       11070 |
 |      72 | 0x003C      |          60 |
 |      73 | 0x03B6      |         950 |
-|      74 | 0x2B3E      |       11070 |
+|      74 | 0x2B3F      |       11071 |
 |      75 | 0x03B7      |         951 |
-|      76 | 0x2B3F      |       11071 |
+|      76 | 0x2B40      |       11072 |
 |      77 | 0x03B8      |         952 |
-|      78 | 0x2B40      |       11072 |
-|      79 | 0x2B41      |       11073 |
+|      78 | 0x2B41      |       11073 |
+|      79 | 0x2B42      |       11074 |
 |      80 | 0x0009      |           9 |
-|      81 | 0x2B42      |       11074 |
+|      81 | 0x2B43      |       11075 |
 |      82 | 0x07DD      |        2013 |
-|      83 | 0x2B43      |       11075 |
-|      84 | 0x2B44      |       11076 |
-|      85 | 0x2B45      |       11077 |
-|      86 | 0x2B46      |       11078 |
-|      87 | 0x2B47      |       11079 |
-|      88 | 0x2B48      |       11080 |
-|      89 | 0x2B49      |       11081 |
-|      90 | 0x2B4A      |       11082 |
-|      91 | 0x2B4B      |       11083 |
-|      92 | 0x2B4C      |       11084 |
-|      93 | 0x2B4D      |       11085 |
-|      94 | 0x2B4E      |       11086 |
-|      95 | 0x2B4F      |       11087 |
-|      96 | 0x2B50      |       11088 |
-|      97 | 0x2B51      |       11089 |
-|      98 | 0x2B52      |       11090 |
-|      99 | 0x2B53      |       11091 |
-|     100 | 0x2B54      |       11092 |
-|     101 | 0x2B55      |       11093 |
+|      83 | 0x2B44      |       11076 |
+|      84 | 0x2B45      |       11077 |
+|      85 | 0x2B46      |       11078 |
+|      86 | 0x2B47      |       11079 |
+|      87 | 0x2B48      |       11080 |
+|      88 | 0x2B49      |       11081 |
+|      89 | 0x2B4A      |       11082 |
+|      90 | 0x2B4B      |       11083 |
+|      91 | 0x2B4C      |       11084 |
+|      92 | 0x2B4D      |       11085 |
+|      93 | 0x2B4E      |       11086 |
+|      94 | 0x2B4F      |       11087 |
+|      95 | 0x2B50      |       11088 |
+|      96 | 0x2B51      |       11089 |
+|      97 | 0x2B52      |       11090 |
+|      98 | 0x2B53      |       11091 |
+|      99 | 0x2B54      |       11092 |
+|     100 | 0x2B55      |       11093 |
+|     101 | 0x2B56      |       11094 |
 |     102 | 0x00F0      |         240 |
-|     103 | 0x2B56      |       11094 |
-|     104 | 0x2B57      |       11095 |
-|     105 | 0x2B58      |       11096 |
-|     106 | 0x2B59      |       11097 |
-|     107 | 0x2B5A      |       11098 |
-|     108 | 0x2B5B      |       11099 |
-|     109 | 0x2B5C      |       11100 |
-|     110 | 0x2B5D      |       11101 |
+|     103 | 0x2B57      |       11095 |
+|     104 | 0x2B58      |       11096 |
+|     105 | 0x2B59      |       11097 |
+|     106 | 0x2B5A      |       11098 |
+|     107 | 0x2B5B      |       11099 |
+|     108 | 0x2B5C      |       11100 |
+|     109 | 0x2B5D      |       11101 |
+|     110 | 0x2B5E      |       11102 |
 |     111 | 0x039C      |         924 |
-|     112 | 0x2B5E      |       11102 |
+|     112 | 0x2B5F      |       11103 |
 |     113 | 0x0078      |         120 |
-|     114 | 0x2B2F      |       11055 |
-|     115 | 0x2B30      |       11056 |
-|     116 | 0x2B31      |       11057 |
-|     117 | 0x2B32      |       11058 |
-|     118 | 0x2B33      |       11059 |
-|     119 | 0x2B34      |       11060 |
-|     120 | 0x2B35      |       11061 |
+|     114 | 0x2B30      |       11056 |
+|     115 | 0x2B31      |       11057 |
+|     116 | 0x2B32      |       11058 |
+|     117 | 0x2B33      |       11059 |
+|     118 | 0x2B34      |       11060 |
+|     119 | 0x2B35      |       11061 |
+|     120 | 0x2B36      |       11062 |
 |     121 | 0x0399      |         921 |
-|     122 | 0x2B16      |       11030 |
+|     122 | 0x2B17      |       11031 |
 
 ## String References
 
-- **11039**: Pledge allegiance to San d'Oria? [Yes./No.]
-- **11057**: Give up? [No!/I have had enough...]
-- **11060**: It would be a pity to see you go. [Alright, I shall try once more./I am sorry. I cannot continue.]
-- **11090**: Mainchelite reluctantly hands Gerwulf the $3, the $3, and the $3.
+- **11040**: Pledge allegiance to San d'Oria? [Yes./No.]
+- **11058**: Give up? [No!/I have had enough...]
+- **11061**: It would be a pity to see you go. [Alright, I shall try once more./I am sorry. I cannot continue.]
+- **11091**: Mainchelite reluctantly hands Gerwulf the $3, the $3, and the $3.
 
 ## Events
 
@@ -435,10 +435,10 @@
   1: 0x004B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x005C [0x2B] EventEntity [14493*]:
+  4: 0x005C [0x2B] EventEntity [14494*]:
     → "I'm afraid the name Lilisette is not familiar to me."
   5: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0064 [0x2B] EventEntity [14492*]:
+  6: 0x0064 [0x2B] EventEntity [14493*]:
     → "I should think I'd remember had a child come calling, wishing to play at war."
   7: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -472,7 +472,7 @@
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x0093 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11028*]:
+  4: 0x0093 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11029*]:
     → "Greetings, <Player>. How fare thee amongst the ranks of the Rams?"
   5: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -506,7 +506,7 @@
   1: 0x00B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x00C2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11104*]:
+  4: 0x00C2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11105*]:
     → "You wish to rejoin the ranks of the Iron Rams? Splendid! Speak with Sir Houilloumie to begin your reinstatement."
   5: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -541,10 +541,10 @@
   1: 0x00E0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x00F1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11029*]:
+  4: 0x00F1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11030*]:
     → "Currently, we are recruiting squires to serve within the Royal Knights' Iron Ram regiment. Serve your king, defend your nation, and possibly earn a chance at nobility... What say you?"
   5: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00F9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11027*]:
+  6: 0x00F9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11028*]:
     → "You cannot pledge your allegiance to San d'Oria while undertaking the initiation ritual of another nation. Go sever your ties with that nation, then come speak with me once more."
   7: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0101 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -706,26 +706,26 @@
  45: 0x0231 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  46: 0x0242 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  47: 0x0253 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 48: 0x0262 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11035*]:
+ 48: 0x0262 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11036*]:
     → "So, you have come to join the Knights of the Iron Ram..."
  49: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x026A [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=355*
  51: 0x0279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 52: 0x028A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11036*]:
+ 52: 0x028A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11037*]:
     → "Let me see your letter of recommendation... Ah, yes, this will do."
  53: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0292 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=355*
  55: 0x02A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 56: 0x02B2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11037*]:
+ 56: 0x02B2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11038*]:
     → "I must inform you, once you begin the initiation, you will be bound to San d'Oria. Other nations will not accept you into their ranks while your bonds to the Kingdom remain intact. Forget this not."
  57: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x02BA [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11038*]:
+ 58: 0x02BA [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11039*]:
     → "And so now I must ask, do you pledge to serve the king and his people with your life and honor?"
  59: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x02C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
  61: 0x02D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=355*
  62: 0x02E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 63: 0x02F1 [0x24] CREATE_DIALOG(message_id=11039*, default_option=0*, option_flags=0*)
+ 63: 0x02F1 [0x24] CREATE_DIALOG(message_id=11040*, default_option=0*, option_flags=0*)
     → "Pledge allegiance to San d'Oria? [Yes./No.]"
  64: 0x02F8 [0x25] WAIT_DIALOG_SELECT()
  65: 0x02F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0309
@@ -734,7 +734,7 @@
  68: 0x0309 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0344
  69: 0x0311 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=355*
  70: 0x0320 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 71: 0x0331 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11040*]:
+ 71: 0x0331 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11041*]:
     → "Then I can assist you no longer. Begone."
  72: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0339 [0x03] Work_Zone[1] = 1*
@@ -762,42 +762,42 @@ SUBROUTINE_039D:
  89: 0x03BF [0x4E] SET_ENTITY_HIDE_FLAG: Show Hestrefalcat (ID: 17105472/0x01050240)
  90: 0x03C5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Minautte (ID: 17105473/0x01050241)
  91: 0x03CB [0x4E] SET_ENTITY_HIDE_FLAG: Show Rachelassiond (ID: 17105474/0x01050242)
- 92: 0x03D1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11041*]:
+ 92: 0x03D1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11042*]:
     → "You shall now be granted the opportunity to prove your worth. Only after you have done so will you be admitted to the ranks of the Rams."
  93: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x03D9 [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at Minautte (ID: 17105473/0x01050241)
  95: 0x03E2 [0x4A] LocalPlayer looks at Minautte (ID: 17105473/0x01050241)
  96: 0x03EB [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=355*
  97: 0x03FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 98: 0x040B [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11042*]:
+ 98: 0x040B [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11043*]:
     → "Now let us begi--"
  99: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0413 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=355*
 101: 0x0422 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[355*, 0*]
 102: 0x0433 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hestrefalcat (ID: 17105472/0x01050240), Hestrefalcat (ID: 17105472/0x01050240)], work=29*
-103: 0x0442 [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11043*]:
+103: 0x0442 [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11044*]:
     → "Did you not witness the conflagration that scorched the early-morning heavens?"
 104: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x044A [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11044*]:
+105: 0x044A [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11045*]:
     → "The Bastokan heretics have once again defied the laws of the benevolent Altana with their godless warmachines."
 106: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0452 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hestrefalcat (ID: 17105472/0x01050240), Hestrefalcat (ID: 17105472/0x01050240)], work=29*
 108: 0x0461 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=355*
 109: 0x0470 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[355*, 0*]
 110: 0x0481 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Minautte (ID: 17105473/0x01050241), Minautte (ID: 17105473/0x01050241)], work=39*
-111: 0x0490 [0x2B] Minautte (ID: 17105473/0x01050241) [11045*]:
+111: 0x0490 [0x2B] Minautte (ID: 17105473/0x01050241) [11046*]:
     → "Can you be so certain, Hestrefalcat? To me it closely resembled a great, fiery dragon, diving down to seize her prey."
 112: 0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0498 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=355*
 114: 0x04A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[355*, 0*]
-115: 0x04B8 [0x2B] Minautte (ID: 17105473/0x01050241) [11046*]:
+115: 0x04B8 [0x2B] Minautte (ID: 17105473/0x01050241) [11047*]:
     → "Mayhap it was a wicked omen, portending the advent of a great evil..."
 116: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x04C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Minautte (ID: 17105473/0x01050241), Minautte (ID: 17105473/0x01050241)], work=39*
 118: 0x04CF [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=355*
 119: 0x04DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[355*, 0*]
 120: 0x04EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Rachelassiond (ID: 17105474/0x01050242), Rachelassiond (ID: 17105474/0x01050242)], work=29*
-121: 0x04FE [0x2B] Rachelassiond (ID: 17105474/0x01050242) [11047*]:
+121: 0x04FE [0x2B] Rachelassiond (ID: 17105474/0x01050242) [11048*]:
     → "The eyes of the youth see only that which they wish. 'Twas not a mysterious weapon nor a portent of doom; 'twas the smouldering carcass of a flying wooden beast, I tell you!"
 122: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0506 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Rachelassiond (ID: 17105474/0x01050242), Rachelassiond (ID: 17105474/0x01050242)], work=29*
@@ -806,7 +806,7 @@ SUBROUTINE_039D:
 126: 0x0535 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Rachelassiond (ID: 17105474/0x01050242), Rachelassiond (ID: 17105474/0x01050242)]
 127: 0x0542 [0x6E] Hestrefalcat (ID: 17105472/0x01050240) uses emote 26*
 128: 0x0549 [0x99] Wait for Hestrefalcat (ID: 17105472/0x01050240) animation to complete
-129: 0x054E [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11048*]:
+129: 0x054E [0x2B] Hestrefalcat (ID: 17105472/0x01050240) [11049*]:
     → "Gods forfend! Sir Rachelassiond, are you to have us believe that trees can fly!?"
 130: 0x0555 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0556 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=355*
@@ -814,7 +814,7 @@ SUBROUTINE_039D:
 133: 0x056C [0x99] Wait for Rachelassiond (ID: 17105474/0x01050242) animation to complete
 134: 0x0571 [0x99] Wait for Rachelassiond (ID: 17105474/0x01050242) animation to complete
 135: 0x0576 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[355*, 0*]
-136: 0x0587 [0x2B] Rachelassiond (ID: 17105474/0x01050242) [11049*]:
+136: 0x0587 [0x2B] Rachelassiond (ID: 17105474/0x01050242) [11050*]:
     → "Wh-why, I...!"
 137: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x058F [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=355*
@@ -822,7 +822,7 @@ SUBROUTINE_039D:
 140: 0x05A5 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 141: 0x05AA [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 142: 0x05AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[355*, 0*]
-143: 0x05C0 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11050*]:
+143: 0x05C0 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11051*]:
     → "I apologize for the intrusion. Gossip runs rampant among our ranks, but there is little we can do to stop it. However, this time, there seems to be some truth behind the prattling of the knights, for our scouts also recorded countless sightings of this queer phenomenon."
 144: 0x05C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x05C8 [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at LocalPlayer
@@ -833,21 +833,21 @@ SUBROUTINE_039D:
 150: 0x05FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Mainchelite (ID: 17105383/0x010501E7) Render.Flags0 and Render.Flags3 conditions are met
 151: 0x0600 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 152: 0x0601 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-153: 0x0606 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11051*]:
+153: 0x0606 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11052*]:
     → "Unfortunately, the details contained in these reports were quite sketchy. Some claimed the flames to be a weapon of some sort, while others swore it was a hideous daemon, spawned from the loins of the Shadow Lord himself."
 154: 0x060D [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x060E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-156: 0x061D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11052*]:
+156: 0x061D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11053*]:
     → "Whatever the case, it is our duty to determine the truth behind this episode and quell the rumors surrounding it before unwanted panic spreads to the common folk."
 157: 0x0624 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x0625 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
 159: 0x0634 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=355*
 160: 0x0643 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [EventEntity, EventEntity], work=[355*, 0*]
-161: 0x0654 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11053*]:
+161: 0x0654 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11054*]:
     → "And that shall be your test. I wish you to travel into the nearby holt and search for clues."
 162: 0x065B [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x065C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)]
-164: 0x0669 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11054*]:
+164: 0x0669 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11055*]:
     → "Once you have found at least three leads, report back to me. I shall be waiting here."
 165: 0x0670 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0671 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [EventEntity, EventEntity], work=355*
@@ -974,13 +974,13 @@ SUBROUTINE_039D:
  46: 0x07A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  47: 0x07B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  48: 0x07C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 49: 0x07D6 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11062*]:
+ 49: 0x07D6 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11063*]:
     → "Welcome back, <Player>! Have you changed your mind regarding the Knights of the Iron Ram?"
  50: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x07DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
  52: 0x07ED [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=355*
  53: 0x07FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 54: 0x080D [0x24] CREATE_DIALOG(message_id=11039*, default_option=0*, option_flags=0*)
+ 54: 0x080D [0x24] CREATE_DIALOG(message_id=11040*, default_option=0*, option_flags=0*)
     → "Pledge allegiance to San d'Oria? [Yes./No.]"
  55: 0x0814 [0x25] WAIT_DIALOG_SELECT()
  56: 0x0815 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0825
@@ -989,7 +989,7 @@ SUBROUTINE_039D:
  59: 0x0825 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0860
  60: 0x082D [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=355*
  61: 0x083C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 62: 0x084D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11040*]:
+ 62: 0x084D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11041*]:
     → "Then I can assist you no longer. Begone."
  63: 0x0854 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0855 [0x03] Work_Zone[1] = 1*
@@ -999,20 +999,20 @@ SUBROUTINE_0860:
  66: 0x0860 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=355*
  67: 0x086F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[355*, 0*]
  68: 0x0880 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 69: 0x088F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11064*]:
+ 69: 0x088F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11065*]:
     → "Wonderful! Now let us begin your trial."
  70: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0897 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=355*
  72: 0x08A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 73: 0x08B7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11065*]:
+ 73: 0x08B7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11066*]:
     → "First, I regret to say that while we continued our search for clues surrounding the fiery object in your absence, we found nothing of import."
  74: 0x08BE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x08BF [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11066*]:
+ 75: 0x08BF [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11067*]:
     → "We would have you return to East Ronfaure and locate any object that may shed light on the mystery before us."
  76: 0x08C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x08C7 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [EventEntity, EventEntity], work=355*
  78: 0x08D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 79: 0x08E7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11067*]:
+ 79: 0x08E7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11068*]:
     → "Once you have found three, bring them back here for inspection."
  80: 0x08EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x08EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1062,10 +1062,10 @@ SUBROUTINE_08FE:
   1: 0x0959 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x095A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x095B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x096A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11029*]:
+  4: 0x096A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11030*]:
     → "Currently, we are recruiting squires to serve within the Royal Knights' Iron Ram regiment. Serve your king, defend your nation, and possibly earn a chance at nobility... What say you?"
   5: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0972 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11027*]:
+  6: 0x0972 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11028*]:
     → "You cannot pledge your allegiance to San d'Oria while undertaking the initiation ritual of another nation. Go sever your ties with that nation, then come speak with me once more."
   7: 0x0979 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x097A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1176,21 +1176,21 @@ SUBROUTINE_08FE:
  45: 0x0AAA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  46: 0x0ABB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  47: 0x0ACC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 48: 0x0ADB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11031*]:
+ 48: 0x0ADB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11032*]:
     → "Ah, I see that you currently proffer your services to another nation."
  49: 0x0AE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0AE3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11032*]:
+ 50: 0x0AE3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11033*]:
     → "If you wish to join our noble ranks, you must first sever all ties with that organization and pledge allegiance to the crimson lion."
  51: 0x0AEA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0AEB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11033*]:
+ 52: 0x0AEB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11034*]:
     → "Only then will you be allowed to walk the path of initiation."
  53: 0x0AF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0AF3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11034*]:
+ 54: 0x0AF3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11035*]:
     → "Is this what you wish?"
  55: 0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0AFB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
  57: 0x0B0A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 58: 0x0B1B [0x24] CREATE_DIALOG(message_id=11039*, default_option=0*, option_flags=0*)
+ 58: 0x0B1B [0x24] CREATE_DIALOG(message_id=11040*, default_option=0*, option_flags=0*)
     → "Pledge allegiance to San d'Oria? [Yes./No.]"
  59: 0x0B22 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0B23 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B33
@@ -1200,7 +1200,7 @@ SUBROUTINE_08FE:
  64: 0x0B3B [0x03] Work_Zone[1] = 1*
  65: 0x0B40 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=355*
  66: 0x0B4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 67: 0x0B60 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11040*]:
+ 67: 0x0B60 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11041*]:
     → "Then I can assist you no longer. Begone."
  68: 0x0B67 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0B68 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=355*
@@ -1312,24 +1312,24 @@ SUBROUTINE_0B8F:
  27: 0x0C62 [0x80] LOAD_WAIT(entity=Mainchelite (ID: 17105383/0x010501E7))
  28: 0x0C67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  29: 0x0C78 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 30: 0x0C89 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11029*]:
+ 30: 0x0C89 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11030*]:
     → "Currently, we are recruiting squires to serve within the Royal Knights' Iron Ram regiment. Serve your king, defend your nation, and possibly earn a chance at nobility... What say you?"
  31: 0x0C90 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0C91 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11031*]:
+ 32: 0x0C91 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11032*]:
     → "Ah, I see that you currently proffer your services to another nation."
  33: 0x0C98 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0C99 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11032*]:
+ 34: 0x0C99 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11033*]:
     → "If you wish to join our noble ranks, you must first sever all ties with that organization and pledge allegiance to the crimson lion."
  35: 0x0CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0CA1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11033*]:
+ 36: 0x0CA1 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11034*]:
     → "Only then will you be allowed to walk the path of initiation."
  37: 0x0CA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0CA9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11034*]:
+ 38: 0x0CA9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11035*]:
     → "Is this what you wish?"
  39: 0x0CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0CB1 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=355*
  41: 0x0CC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 42: 0x0CD1 [0x24] CREATE_DIALOG(message_id=11039*, default_option=0*, option_flags=0*)
+ 42: 0x0CD1 [0x24] CREATE_DIALOG(message_id=11040*, default_option=0*, option_flags=0*)
     → "Pledge allegiance to San d'Oria? [Yes./No.]"
  43: 0x0CD8 [0x25] WAIT_DIALOG_SELECT()
  44: 0x0CD9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CE9
@@ -1338,7 +1338,7 @@ SUBROUTINE_0B8F:
  47: 0x0CE9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D24
  48: 0x0CF1 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=355*
  49: 0x0D00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 50: 0x0D11 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11040*]:
+ 50: 0x0D11 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11041*]:
     → "Then I can assist you no longer. Begone."
  51: 0x0D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0D19 [0x03] Work_Zone[1] = 1*
@@ -1348,20 +1348,20 @@ SUBROUTINE_0D24:
  54: 0x0D24 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=355*
  55: 0x0D33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[355*, 0*]
  56: 0x0D44 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 57: 0x0D53 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11064*]:
+ 57: 0x0D53 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11065*]:
     → "Wonderful! Now let us begin your trial."
  58: 0x0D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0D5B [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=355*
  60: 0x0D6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 61: 0x0D7B [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11065*]:
+ 61: 0x0D7B [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11066*]:
     → "First, I regret to say that while we continued our search for clues surrounding the fiery object in your absence, we found nothing of import."
  62: 0x0D82 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x0D83 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11066*]:
+ 63: 0x0D83 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11067*]:
     → "We would have you return to East Ronfaure and locate any object that may shed light on the mystery before us."
  64: 0x0D8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0D8B [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [EventEntity, EventEntity], work=355*
  66: 0x0D9A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 67: 0x0DAB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11067*]:
+ 67: 0x0DAB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11068*]:
     → "Once you have found three, bring them back here for inspection."
  68: 0x0DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0DB3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1642,7 +1642,7 @@ SUBROUTINE_0DC2:
  49: 0x0F54 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  50: 0x0F65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  51: 0x0F76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 52: 0x0F85 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11069*]:
+ 52: 0x0F85 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11070*]:
     → "Welcome back, <Player>. Were you successful in your investigation?"
  53: 0x0F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0F8D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1651,7 +1651,7 @@ SUBROUTINE_0DC2:
  57: 0x0FBC [0x1C] WAIT(60* ticks)
  58: 0x0FBF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
  59: 0x0FCE [0x03] Work_Zone[2] = 950*
- 60: 0x0FD3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11070*]:
+ 60: 0x0FD3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11071*]:
     → "Why, this looks like the blade of a windmill... But the closest ones lie hundreds of malms away in the Konschtat Highlands..."
  61: 0x0FDA [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0FDB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s030" with entities [EventEntity, EventEntity], work=355*
@@ -1659,7 +1659,7 @@ SUBROUTINE_0DC2:
  64: 0x0FFB [0x4E] SET_ENTITY_HIDE_FLAG: Show Spencer (ID: 17105475/0x01050243)
  65: 0x1001 [0x4E] SET_ENTITY_HIDE_FLAG: Show Gerwulf (ID: 17105476/0x01050244)
  66: 0x1007 [0x03] Work_Zone[2] = 951*
- 67: 0x100C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11071*]:
+ 67: 0x100C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11072*]:
     → "And these crystals... The formations seem to have continued growing even after they pierced the wood..."
  68: 0x1013 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x1014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1667,12 +1667,12 @@ SUBROUTINE_0DC2:
  71: 0x1032 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[355*, 0*]
  72: 0x1043 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)]
  73: 0x1050 [0x03] Work_Zone[2] = 952*
- 74: 0x1055 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11072*]:
+ 74: 0x1055 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11073*]:
     → "Finally, this plate... I believe I can make out the letters E, O, and...S..."
  75: 0x105C [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x105D [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=355*
  77: 0x106C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 78: 0x107D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11073*]:
+ 78: 0x107D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11074*]:
     → "Eos? What on Vana'diel could it mean...?"
  79: 0x1084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1085 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s032" with entities [EventEntity, EventEntity], work=355*
@@ -1691,7 +1691,7 @@ SUBROUTINE_0DC2:
  93: 0x10F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  94: 0x10FA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  95: 0x10FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
- 96: 0x110E [0x2B] Spencer (ID: 17105475/0x01050243) [11074*]:
+ 96: 0x110E [0x2B] Spencer (ID: 17105475/0x01050243) [11075*]:
     → "I see one of your recruits has come across some items of ours. If you would be so kind as to hand them over immediately."
  97: 0x1115 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x1116 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -1701,20 +1701,20 @@ SUBROUTINE_0DC2:
 102: 0x1148 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[355*, 0*]
 103: 0x1159 [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 25*
 104: 0x1160 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-105: 0x1165 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11075*]:
+105: 0x1165 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11076*]:
     → "Stand down, knave! State your name and whence you came!"
 106: 0x116C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x116D [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [EventEntity, EventEntity], work=355*
 108: 0x117C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[355*, 0*]
 109: 0x118D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
-110: 0x119C [0x2B] Spencer (ID: 17105475/0x01050243) [11076*]:
+110: 0x119C [0x2B] Spencer (ID: 17105475/0x01050243) [11077*]:
     → "Ah, and this would be a portion of the right propeller. I clearly expressed my doubts about the pliability of elm..."
 111: 0x11A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x11A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
 113: 0x11B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=355*
 114: 0x11C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[355*, 0*]
 115: 0x11D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-116: 0x11E2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11077*]:
+116: 0x11E2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11078*]:
     → "Do not make me repeat myself!"
 117: 0x11E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x11EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1725,13 +1725,13 @@ SUBROUTINE_0DC2:
 123: 0x1223 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Spencer (ID: 17105475/0x01050243) Render.Flags0 and Render.Flags3 conditions are met
 124: 0x1228 [0x6E] Spencer (ID: 17105475/0x01050243) uses emote 25*
 125: 0x122F [0x99] Wait for Spencer (ID: 17105475/0x01050243) animation to complete
-126: 0x1234 [0x2B] Spencer (ID: 17105475/0x01050243) [11078*]:
+126: 0x1234 [0x2B] Spencer (ID: 17105475/0x01050243) [11079*]:
     → "Our fears as to the fate of the Eos are confir--"
 127: 0x123B [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x123C [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=355*
 129: 0x124B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[355*, 0*]
 130: 0x125C [0x4A] LocalPlayer looks at Gerwulf (ID: 17105476/0x01050244)
-131: 0x1265 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11079*]:
+131: 0x1265 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11080*]:
     → "Spencer!"
 132: 0x126C [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x126D [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=355*
@@ -1744,7 +1744,7 @@ SUBROUTINE_0DC2:
 140: 0x12B0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s040" with entities [EventEntity, EventEntity], work=355*
 141: 0x12BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[355*, 0*]
 142: 0x12D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gerwulf (ID: 17105476/0x01050244), Gerwulf (ID: 17105476/0x01050244)], work=9*
-143: 0x12DF [0x2B] Gerwulf (ID: 17105476/0x01050244) [11080*]:
+143: 0x12DF [0x2B] Gerwulf (ID: 17105476/0x01050244) [11081*]:
     → "I apologize for my colleague's lack of refinement. The items you have recovered are the lawful property of the archduke of Jeuno and must be transported back to the Duchy for further study."
 144: 0x12E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x12E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Gerwulf (ID: 17105476/0x01050244), Gerwulf (ID: 17105476/0x01050244)], work=9*
@@ -1758,7 +1758,7 @@ SUBROUTINE_0DC2:
 153: 0x1345 [0x7B] Mainchelite (ID: 17105383/0x010501E7) stops talking
 154: 0x134A [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 25*
 155: 0x1351 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-156: 0x1356 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11081*]:
+156: 0x1356 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11082*]:
     → "Absurd! Your laws have no authority here in San d'Oria!"
 157: 0x135D [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x135E [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=355*
@@ -1766,13 +1766,13 @@ SUBROUTINE_0DC2:
 160: 0x1374 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 161: 0x1379 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 162: 0x137E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[355*, 0*]
-163: 0x138F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11082*]:
+163: 0x138F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11083*]:
     → "Now begone at once before I am inclined to use force!"
 164: 0x1396 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1397 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=355*
 166: 0x13A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[355*, 0*]
 167: 0x13B7 [0x4E] SET_ENTITY_HIDE_FLAG: Show Rongelouts N Distaud (ID: 17105389/0x010501ED)
-168: 0x13BD [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11083*]:
+168: 0x13BD [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11084*]:
     → "Captain. You will abide by the wishes of our venerable guests from Jeuno."
 169: 0x13C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x13C5 [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at Rongelouts N Distaud (ID: 17105389/0x010501ED)
@@ -1788,30 +1788,30 @@ SUBROUTINE_0DC2:
 180: 0x1419 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 181: 0x141E [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 182: 0x1423 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[355*, 0*]
-183: 0x1434 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11084*]:
+183: 0x1434 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11085*]:
     → "Commander! But I--"
 184: 0x143B [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x143C [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=355*
 186: 0x144B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[355*, 0*]
-187: 0x145C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11085*]:
+187: 0x145C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11086*]:
     → "That is enough, Sir Mainchelite. What is your duty as Royal Knight captain?"
 188: 0x1463 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x1464 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=355*
 190: 0x1473 [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 2*
 191: 0x147A [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 192: 0x147F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[355*, 0*]
-193: 0x1490 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11086*]:
+193: 0x1490 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11087*]:
     → "Sir! To protect the king and enforce his will. But I do not see h--"
 194: 0x1497 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x1498 [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=355*
 196: 0x14A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[355*, 0*]
-197: 0x14B8 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11087*]:
+197: 0x14B8 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11088*]:
     → "His Majesty has granted the ducal ambassadors full authority regarding this investigation. Impertinence will not be tolerated."
 198: 0x14BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x14C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=355*
 200: 0x14CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[355*, 0*]
 201: 0x14E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-202: 0x14EF [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11088*]:
+202: 0x14EF [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11089*]:
     → "Hmph! An outrage! With what manner of sophistries have these fiends poisoned our king?"
 203: 0x14F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x14F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -1825,7 +1825,7 @@ SUBROUTINE_0DC2:
 212: 0x1548 [0x4A] LocalPlayer looks at Mainchelite (ID: 17105383/0x010501E7)
 213: 0x1551 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=355*
 214: 0x1560 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[355*, 0*]
-215: 0x1571 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11089*]:
+215: 0x1571 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11090*]:
     → "I will ignore that outburst, Sir Knight. Now, I believe you heard the commander. Hand over the items."
 216: 0x1578 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x1579 [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at Gerwulf (ID: 17105476/0x01050244)
@@ -1840,12 +1840,12 @@ SUBROUTINE_0DC2:
 226: 0x15BE [0x03] Work_Zone[2] = 950*
 227: 0x15C3 [0x03] Work_Zone[3] = 951*
 228: 0x15C8 [0x03] Work_Zone[4] = 952*
-229: 0x15CD [0x48] [System] [11090*]:
+229: 0x15CD [0x48] [System] [11091*]:
     → "Mainchelite reluctantly hands Gerwulf the $3, the $3, and the $3."
 230: 0x15D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x15D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s052" with entities [EventEntity, EventEntity], work=355*
 232: 0x15E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[355*, 0*]
-233: 0x15F1 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11091*]:
+233: 0x15F1 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11092*]:
     → "On behalf of the archduke, I thank the Royal Knights for their assistance in this matter. And as a precaution, we ask that you do not speak of your findings to anyone, understood?"
 234: 0x15F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x15F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -1853,13 +1853,13 @@ SUBROUTINE_0DC2:
 237: 0x160F [0x1C] WAIT(60* ticks)
 238: 0x1612 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [EventEntity, EventEntity], work=355*
 239: 0x1621 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[355*, 0*]
-240: 0x1632 [0x2B] Spencer (ID: 17105475/0x01050243) [11092*]:
+240: 0x1632 [0x2B] Spencer (ID: 17105475/0x01050243) [11093*]:
     → "...the incorporation of additional control flaps in conjunction with an upgrade from elm to mahoga--"
 241: 0x1639 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x163A [0x2A] GET_REQ_LEVEL(level=15, entity_id=Gerwulf (ID: 17105476/0x01050244))
 243: 0x1640 [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=355*
 244: 0x164F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[355*, 0*]
-245: 0x1660 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11093*]:
+245: 0x1660 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11094*]:
     → "Spencer! Let us be on our way."
 246: 0x1667 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x1668 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -1879,7 +1879,7 @@ SUBROUTINE_0DC2:
 261: 0x16DC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s056" with entities [EventEntity, EventEntity], work=355*
 262: 0x16EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[355*, 0*]
 263: 0x16FC [0x7B] Rongelouts N Distaud (ID: 17105389/0x010501ED) stops talking
-264: 0x1701 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11094*]:
+264: 0x1701 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11095*]:
     → "Hold, outsiders."
 265: 0x1708 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x1709 [0x7B] Spencer (ID: 17105475/0x01050243) stops talking
@@ -1892,19 +1892,19 @@ SUBROUTINE_0DC2:
 273: 0x1746 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Spencer (ID: 17105475/0x01050243) Render.Flags0 and Render.Flags3 conditions are met
 274: 0x174B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 275: 0x174C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Gerwulf (ID: 17105476/0x01050244) Render.Flags0 and Render.Flags3 conditions are met
-276: 0x1751 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11095*]:
+276: 0x1751 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11096*]:
     → "Might you be speaking to us, Commander?"
 277: 0x1758 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x1759 [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [EventEntity, EventEntity], work=355*
 279: 0x1768 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[355*, 0*]
 280: 0x1779 [0x6E] Rongelouts N Distaud (ID: 17105389/0x010501ED) uses emote 25*
 281: 0x1780 [0x99] Wait for Rongelouts N Distaud (ID: 17105389/0x010501ED) animation to complete
-282: 0x1785 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11096*]:
+282: 0x1785 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11097*]:
     → "You have worn dry your welcome, travelers. Do not expect a reprise of the king's generosity, should another misfortune befall your nation."
 283: 0x178C [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x178D [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=355*
 285: 0x179C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[355*, 0*]
-286: 0x17AD [0x2B] Gerwulf (ID: 17105476/0x01050244) [11097*]:
+286: 0x17AD [0x2B] Gerwulf (ID: 17105476/0x01050244) [11098*]:
     → "...... I shall relay that to the archduke, sir. Good day."
 287: 0x17B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x17B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [EventEntity, EventEntity], work=355*
@@ -1923,18 +1923,18 @@ SUBROUTINE_0DC2:
 301: 0x1830 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 302: 0x1831 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rongelouts N Distaud (ID: 17105389/0x010501ED) Render.Flags0 and Render.Flags3 conditions are met
 303: 0x1836 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
-304: 0x1845 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11098*]:
+304: 0x1845 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11099*]:
     → "Ah, a new recruit, perhaps?"
 305: 0x184C [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0x184D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
 307: 0x185C [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [EventEntity, EventEntity], work=355*
 308: 0x186B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[355*, 0*]
-309: 0x187C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11099*]:
+309: 0x187C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11100*]:
     → "I apologize for the display. However it may pain us, our first and foremost duty is to uphold the will of the king."
 310: 0x1883 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x1884 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=355*
 312: 0x1893 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[355*, 0*]
-313: 0x18A4 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11100*]:
+313: 0x18A4 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11101*]:
     → "Remember that. If there is anything else you require, speak with Lady Fiaudie yonder. She will brief you on your new responsibilities."
 314: 0x18AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x18AC [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=355*
@@ -1950,12 +1950,12 @@ SUBROUTINE_0DC2:
 325: 0x18F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 326: 0x1904 [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 2*
 327: 0x190B [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-328: 0x1910 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11101*]:
+328: 0x1910 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11102*]:
     → "I commend you on your performance, <Player>. You have displayed great courage and ingenuity, and proved your worth thricefold. You are hereby granted admission to the Knights of the Iron Ram. Congratulations."
 329: 0x1917 [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x1918 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
 331: 0x1927 [0x03] Work_Zone[2] = 924*
-332: 0x192C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11102*]:
+332: 0x192C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11103*]:
     → "Please accept this $3 to commend the beginning of your military career. Speak with Evaluation Official Fiaudie for a detailed briefing on the decoration."
 333: 0x1933 [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x1934 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
@@ -2230,7 +2230,7 @@ SUBROUTINE_0DC2:
  49: 0x1B0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[355*, 0*]
  50: 0x1B1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  51: 0x1B2D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 52: 0x1B3C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11069*]:
+ 52: 0x1B3C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11070*]:
     → "Welcome back, <Player>. Were you successful in your investigation?"
  53: 0x1B43 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1B44 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2239,7 +2239,7 @@ SUBROUTINE_0DC2:
  57: 0x1B73 [0x1C] WAIT(60* ticks)
  58: 0x1B76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
  59: 0x1B85 [0x03] Work_Zone[2] = 950*
- 60: 0x1B8A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11070*]:
+ 60: 0x1B8A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11071*]:
     → "Why, this looks like the blade of a windmill... But the closest ones lie hundreds of malms away in the Konschtat Highlands..."
  61: 0x1B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1B92 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s030" with entities [EventEntity, EventEntity], work=355*
@@ -2247,7 +2247,7 @@ SUBROUTINE_0DC2:
  64: 0x1BB2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Spencer (ID: 17105475/0x01050243)
  65: 0x1BB8 [0x4E] SET_ENTITY_HIDE_FLAG: Show Gerwulf (ID: 17105476/0x01050244)
  66: 0x1BBE [0x03] Work_Zone[2] = 951*
- 67: 0x1BC3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11071*]:
+ 67: 0x1BC3 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11072*]:
     → "And these crystals... The formations seem to have continued growing even after they pierced the wood..."
  68: 0x1BCA [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x1BCB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2255,12 +2255,12 @@ SUBROUTINE_0DC2:
  71: 0x1BE9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[355*, 0*]
  72: 0x1BFA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)]
  73: 0x1C07 [0x03] Work_Zone[2] = 952*
- 74: 0x1C0C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11072*]:
+ 74: 0x1C0C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11073*]:
     → "Finally, this plate... I believe I can make out the letters E, O, and...S..."
  75: 0x1C13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x1C14 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [EventEntity, EventEntity], work=355*
  77: 0x1C23 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [EventEntity, EventEntity], work=[355*, 0*]
- 78: 0x1C34 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11073*]:
+ 78: 0x1C34 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11074*]:
     → "Eos? What on Vana'diel could it mean...?"
  79: 0x1C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1C3C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s032" with entities [EventEntity, EventEntity], work=355*
@@ -2279,7 +2279,7 @@ SUBROUTINE_0DC2:
  93: 0x1CB0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  94: 0x1CB1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  95: 0x1CB6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
- 96: 0x1CC5 [0x2B] Spencer (ID: 17105475/0x01050243) [11074*]:
+ 96: 0x1CC5 [0x2B] Spencer (ID: 17105475/0x01050243) [11075*]:
     → "I see one of your recruits has come across some items of ours. If you would be so kind as to hand them over immediately."
  97: 0x1CCC [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x1CCD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -2289,20 +2289,20 @@ SUBROUTINE_0DC2:
 102: 0x1CFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[355*, 0*]
 103: 0x1D10 [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 25*
 104: 0x1D17 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-105: 0x1D1C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11075*]:
+105: 0x1D1C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11076*]:
     → "Stand down, knave! State your name and whence you came!"
 106: 0x1D23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x1D24 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [EventEntity, EventEntity], work=355*
 108: 0x1D33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[355*, 0*]
 109: 0x1D44 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
-110: 0x1D53 [0x2B] Spencer (ID: 17105475/0x01050243) [11076*]:
+110: 0x1D53 [0x2B] Spencer (ID: 17105475/0x01050243) [11077*]:
     → "Ah, and this would be a portion of the right propeller. I clearly expressed my doubts about the pliability of elm..."
 111: 0x1D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x1D5B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
 113: 0x1D6A [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [EventEntity, EventEntity], work=355*
 114: 0x1D79 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[355*, 0*]
 115: 0x1D8A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-116: 0x1D99 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11077*]:
+116: 0x1D99 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11078*]:
     → "Do not make me repeat myself!"
 117: 0x1DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x1DA1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2313,13 +2313,13 @@ SUBROUTINE_0DC2:
 123: 0x1DDA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Spencer (ID: 17105475/0x01050243) Render.Flags0 and Render.Flags3 conditions are met
 124: 0x1DDF [0x6E] Spencer (ID: 17105475/0x01050243) uses emote 25*
 125: 0x1DE6 [0x99] Wait for Spencer (ID: 17105475/0x01050243) animation to complete
-126: 0x1DEB [0x2B] Spencer (ID: 17105475/0x01050243) [11078*]:
+126: 0x1DEB [0x2B] Spencer (ID: 17105475/0x01050243) [11079*]:
     → "Our fears as to the fate of the Eos are confir--"
 127: 0x1DF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x1DF3 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=355*
 129: 0x1E02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[355*, 0*]
 130: 0x1E13 [0x4A] LocalPlayer looks at Gerwulf (ID: 17105476/0x01050244)
-131: 0x1E1C [0x2B] Gerwulf (ID: 17105476/0x01050244) [11079*]:
+131: 0x1E1C [0x2B] Gerwulf (ID: 17105476/0x01050244) [11080*]:
     → "Spencer!"
 132: 0x1E23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x1E24 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=355*
@@ -2332,7 +2332,7 @@ SUBROUTINE_0DC2:
 140: 0x1E67 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s040" with entities [EventEntity, EventEntity], work=355*
 141: 0x1E76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[355*, 0*]
 142: 0x1E87 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gerwulf (ID: 17105476/0x01050244), Gerwulf (ID: 17105476/0x01050244)], work=9*
-143: 0x1E96 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11080*]:
+143: 0x1E96 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11081*]:
     → "I apologize for my colleague's lack of refinement. The items you have recovered are the lawful property of the archduke of Jeuno and must be transported back to the Duchy for further study."
 144: 0x1E9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x1E9E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Gerwulf (ID: 17105476/0x01050244), Gerwulf (ID: 17105476/0x01050244)], work=9*
@@ -2346,7 +2346,7 @@ SUBROUTINE_0DC2:
 153: 0x1EFC [0x7B] Mainchelite (ID: 17105383/0x010501E7) stops talking
 154: 0x1F01 [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 25*
 155: 0x1F08 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-156: 0x1F0D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11081*]:
+156: 0x1F0D [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11082*]:
     → "Absurd! Your laws have no authority here in San d'Oria!"
 157: 0x1F14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x1F15 [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=355*
@@ -2354,13 +2354,13 @@ SUBROUTINE_0DC2:
 160: 0x1F2B [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 161: 0x1F30 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 162: 0x1F35 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [EventEntity, EventEntity], work=[355*, 0*]
-163: 0x1F46 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11082*]:
+163: 0x1F46 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11083*]:
     → "Now begone at once before I am inclined to use force!"
 164: 0x1F4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1F4E [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=355*
 166: 0x1F5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[355*, 0*]
 167: 0x1F6E [0x4E] SET_ENTITY_HIDE_FLAG: Show Rongelouts N Distaud (ID: 17105389/0x010501ED)
-168: 0x1F74 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11083*]:
+168: 0x1F74 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11084*]:
     → "Captain. You will abide by the wishes of our venerable guests from Jeuno."
 169: 0x1F7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x1F7C [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at Rongelouts N Distaud (ID: 17105389/0x010501ED)
@@ -2376,30 +2376,30 @@ SUBROUTINE_0DC2:
 180: 0x1FD0 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 181: 0x1FD5 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 182: 0x1FDA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[355*, 0*]
-183: 0x1FEB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11084*]:
+183: 0x1FEB [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11085*]:
     → "Commander! But I--"
 184: 0x1FF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x1FF3 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=355*
 186: 0x2002 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[355*, 0*]
-187: 0x2013 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11085*]:
+187: 0x2013 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11086*]:
     → "That is enough, Sir Mainchelite. What is your duty as Royal Knight captain?"
 188: 0x201A [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x201B [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=355*
 190: 0x202A [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 2*
 191: 0x2031 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
 192: 0x2036 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[355*, 0*]
-193: 0x2047 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11086*]:
+193: 0x2047 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11087*]:
     → "Sir! To protect the king and enforce his will. But I do not see h--"
 194: 0x204E [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x204F [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=355*
 196: 0x205E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[355*, 0*]
-197: 0x206F [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11087*]:
+197: 0x206F [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11088*]:
     → "His Majesty has granted the ducal ambassadors full authority regarding this investigation. Impertinence will not be tolerated."
 198: 0x2076 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x2077 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=355*
 200: 0x2086 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[355*, 0*]
 201: 0x2097 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-202: 0x20A6 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11088*]:
+202: 0x20A6 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11089*]:
     → "Hmph! An outrage! With what manner of sophistries have these fiends poisoned our king?"
 203: 0x20AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x20AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2413,7 +2413,7 @@ SUBROUTINE_0DC2:
 212: 0x20FF [0x4A] LocalPlayer looks at Mainchelite (ID: 17105383/0x010501E7)
 213: 0x2108 [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=355*
 214: 0x2117 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[355*, 0*]
-215: 0x2128 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11089*]:
+215: 0x2128 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11090*]:
     → "I will ignore that outburst, Sir Knight. Now, I believe you heard the commander. Hand over the items."
 216: 0x212F [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x2130 [0x4A] Mainchelite (ID: 17105383/0x010501E7) looks at Gerwulf (ID: 17105476/0x01050244)
@@ -2428,12 +2428,12 @@ SUBROUTINE_0DC2:
 226: 0x2175 [0x03] Work_Zone[2] = 950*
 227: 0x217A [0x03] Work_Zone[3] = 951*
 228: 0x217F [0x03] Work_Zone[4] = 952*
-229: 0x2184 [0x48] [System] [11090*]:
+229: 0x2184 [0x48] [System] [11091*]:
     → "Mainchelite reluctantly hands Gerwulf the $3, the $3, and the $3."
 230: 0x2187 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x2188 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s052" with entities [EventEntity, EventEntity], work=355*
 232: 0x2197 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[355*, 0*]
-233: 0x21A8 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11091*]:
+233: 0x21A8 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11092*]:
     → "On behalf of the archduke, I thank the Royal Knights for their assistance in this matter. And as a precaution, we ask that you do not speak of your findings to anyone, understood?"
 234: 0x21AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x21B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -2441,13 +2441,13 @@ SUBROUTINE_0DC2:
 237: 0x21C6 [0x1C] WAIT(60* ticks)
 238: 0x21C9 [0x52] END_LOAD_SCHEDULER: End scheduler "s053" with entities [EventEntity, EventEntity], work=355*
 239: 0x21D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[355*, 0*]
-240: 0x21E9 [0x2B] Spencer (ID: 17105475/0x01050243) [11092*]:
+240: 0x21E9 [0x2B] Spencer (ID: 17105475/0x01050243) [11093*]:
     → "...the incorporation of additional control flaps in conjunction with an upgrade from elm to mahoga--"
 241: 0x21F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x21F1 [0x2A] GET_REQ_LEVEL(level=15, entity_id=Gerwulf (ID: 17105476/0x01050244))
 243: 0x21F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=355*
 244: 0x2206 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[355*, 0*]
-245: 0x2217 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11093*]:
+245: 0x2217 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11094*]:
     → "Spencer! Let us be on our way."
 246: 0x221E [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x221F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Spencer (ID: 17105475/0x01050243), Spencer (ID: 17105475/0x01050243)], work=9*
@@ -2467,7 +2467,7 @@ SUBROUTINE_0DC2:
 261: 0x2293 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s056" with entities [EventEntity, EventEntity], work=355*
 262: 0x22A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[355*, 0*]
 263: 0x22B3 [0x7B] Rongelouts N Distaud (ID: 17105389/0x010501ED) stops talking
-264: 0x22B8 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11094*]:
+264: 0x22B8 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11095*]:
     → "Hold, outsiders."
 265: 0x22BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x22C0 [0x7B] Spencer (ID: 17105475/0x01050243) stops talking
@@ -2480,19 +2480,19 @@ SUBROUTINE_0DC2:
 273: 0x22FD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Spencer (ID: 17105475/0x01050243) Render.Flags0 and Render.Flags3 conditions are met
 274: 0x2302 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 275: 0x2303 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Gerwulf (ID: 17105476/0x01050244) Render.Flags0 and Render.Flags3 conditions are met
-276: 0x2308 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11095*]:
+276: 0x2308 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11096*]:
     → "Might you be speaking to us, Commander?"
 277: 0x230F [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x2310 [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [EventEntity, EventEntity], work=355*
 279: 0x231F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[355*, 0*]
 280: 0x2330 [0x6E] Rongelouts N Distaud (ID: 17105389/0x010501ED) uses emote 25*
 281: 0x2337 [0x99] Wait for Rongelouts N Distaud (ID: 17105389/0x010501ED) animation to complete
-282: 0x233C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11096*]:
+282: 0x233C [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11097*]:
     → "You have worn dry your welcome, travelers. Do not expect a reprise of the king's generosity, should another misfortune befall your nation."
 283: 0x2343 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x2344 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=355*
 285: 0x2353 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[355*, 0*]
-286: 0x2364 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11097*]:
+286: 0x2364 [0x2B] Gerwulf (ID: 17105476/0x01050244) [11098*]:
     → "...... I shall relay that to the archduke, sir. Good day."
 287: 0x236B [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x236C [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [EventEntity, EventEntity], work=355*
@@ -2511,18 +2511,18 @@ SUBROUTINE_0DC2:
 301: 0x23E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 302: 0x23E8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rongelouts N Distaud (ID: 17105389/0x010501ED) Render.Flags0 and Render.Flags3 conditions are met
 303: 0x23ED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
-304: 0x23FC [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11098*]:
+304: 0x23FC [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11099*]:
     → "Ah, a new recruit, perhaps?"
 305: 0x2403 [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0x2404 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Rongelouts N Distaud (ID: 17105389/0x010501ED), Rongelouts N Distaud (ID: 17105389/0x010501ED)], work=29*
 307: 0x2413 [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [EventEntity, EventEntity], work=355*
 308: 0x2422 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[355*, 0*]
-309: 0x2433 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11099*]:
+309: 0x2433 [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11100*]:
     → "I apologize for the display. However it may pain us, our first and foremost duty is to uphold the will of the king."
 310: 0x243A [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x243B [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=355*
 312: 0x244A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[355*, 0*]
-313: 0x245B [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11100*]:
+313: 0x245B [0x2B] Rongelouts N Distaud (ID: 17105389/0x010501ED) [11101*]:
     → "Remember that. If there is anything else you require, speak with Lady Fiaudie yonder. She will brief you on your new responsibilities."
 314: 0x2462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x2463 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=355*
@@ -2538,7 +2538,7 @@ SUBROUTINE_0DC2:
 325: 0x24AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 326: 0x24BB [0x6E] Mainchelite (ID: 17105383/0x010501E7) uses emote 2*
 327: 0x24C2 [0x99] Wait for Mainchelite (ID: 17105383/0x010501E7) animation to complete
-328: 0x24C7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11101*]:
+328: 0x24C7 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11102*]:
     → "I commend you on your performance, <Player>. You have displayed great courage and ingenuity, and proved your worth thricefold. You are hereby granted admission to the Knights of the Iron Ram. Congratulations."
 329: 0x24CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x24CF [0x6E] LocalPlayer uses emote 2*
@@ -2598,20 +2598,20 @@ SUBROUTINE_0DC2:
   1: 0x2551 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x2552 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2553 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x2562 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11055*]:
+  4: 0x2562 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11056*]:
     → "How fares the search, <Player>? I will listen to your report once you have found three pieces of conclusive evidence regarding the unidentified object."
   5: 0x2569 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x256A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11056*]:
+  6: 0x256A [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11057*]:
     → "Or perhaps you have found your trial too taxing?"
   7: 0x2571 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x2572 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  9: 0x2581 [0x24] CREATE_DIALOG(message_id=11057*, default_option=0*, option_flags=0*)
+  9: 0x2581 [0x24] CREATE_DIALOG(message_id=11058*, default_option=0*, option_flags=0*)
     → "Give up? [No!/I have had enough...]"
  10: 0x2588 [0x25] WAIT_DIALOG_SELECT()
  11: 0x2589 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x25C2
  12: 0x2591 [0x03] Work_Zone[1] = 0*
  13: 0x2596 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 14: 0x25A5 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11058*]:
+ 14: 0x25A5 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11059*]:
     → "Excellent. I look forward to your findings."
  15: 0x25AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x25AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2673,20 +2673,20 @@ SUBROUTINE_2667:
   1: 0x266E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x266F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x2670 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x267F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11055*]:
+  4: 0x267F [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11056*]:
     → "How fares the search, <Player>? I will listen to your report once you have found three pieces of conclusive evidence regarding the unidentified object."
   5: 0x2686 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x2687 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11056*]:
+  6: 0x2687 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11057*]:
     → "Or perhaps you have found your trial too taxing?"
   7: 0x268E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x268F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  9: 0x269E [0x24] CREATE_DIALOG(message_id=11057*, default_option=0*, option_flags=0*)
+  9: 0x269E [0x24] CREATE_DIALOG(message_id=11058*, default_option=0*, option_flags=0*)
     → "Give up? [No!/I have had enough...]"
  10: 0x26A5 [0x25] WAIT_DIALOG_SELECT()
  11: 0x26A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26DF
  12: 0x26AE [0x03] Work_Zone[1] = 0*
  13: 0x26B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
- 14: 0x26C2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11058*]:
+ 14: 0x26C2 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11059*]:
     → "Excellent. I look forward to your findings."
  15: 0x26C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x26CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
@@ -2738,11 +2738,11 @@ SUBROUTINE_2784:
   1: 0x278B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x278C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x278D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*
-  4: 0x279C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11029*]:
+  4: 0x279C [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11030*]:
     → "Currently, we are recruiting squires to serve within the Royal Knights' Iron Ram regiment. Serve your king, defend your nation, and possibly earn a chance at nobility... What say you?"
   5: 0x27A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x27A4 [0x03] Work_Zone[2] = 921*
-  7: 0x27A9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11030*]:
+  7: 0x27A9 [0x2B] Mainchelite (ID: 17105383/0x010501E7) [11031*]:
     → "If you seek admission, you will first require a $3."
   8: 0x27B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x27B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Mainchelite (ID: 17105383/0x010501E7), Mainchelite (ID: 17105383/0x010501E7)], work=29*

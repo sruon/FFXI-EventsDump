@@ -21,9 +21,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xE28E      |       57998 |
-|       1 | 0x1BB7      |        7095 |
-|       2 | 0x1BB8      |        7096 |
-|       3 | 0x1BB9      |        7097 |
+|       1 | 0x1BB8      |        7096 |
+|       2 | 0x1BB9      |        7097 |
+|       3 | 0x1BBA      |        7098 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0092      |         146 |
@@ -33,7 +33,7 @@
 
 ## String References
 
-- **7097**: Proceed to the air travel agency? [Yes./No.]
+- **7098**: Proceed to the air travel agency? [Yes./No.]
 
 ## Events
 
@@ -92,15 +92,15 @@
   1: 0x0004 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   2: 0x000F [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57998*) GOTO 0x002B
   3: 0x0017 [0x4A] Daju (ID: 17784876/0x010F602C) looks at LocalPlayer
-  4: 0x0020 [0x2B] Daju (ID: 17784876/0x010F602C) [7095*]:
+  4: 0x0020 [0x2B] Daju (ID: 17784876/0x010F602C) [7096*]:
     → "This is the arrivals exit. The entrance to departures is next door."
   5: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0028 [0x01] GOTO 0x00A1
   7: 0x002B [0x4A] Jhuo Halmanzoh (ID: 17784875/0x010F602B) looks at LocalPlayer
-  8: 0x0034 [0x2B] Jhuo Halmanzoh (ID: 17784875/0x010F602B) [7096*]:
+  8: 0x0034 [0x2B] Jhuo Halmanzoh (ID: 17784875/0x010F602B) [7097*]:
     → "Once you go through customs, you'll have to pay to come back on board. Is that all right?"
   9: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x003C [0x24] CREATE_DIALOG(message_id=7097*, default_option=1*, option_flags=0*)
+ 10: 0x003C [0x24] CREATE_DIALOG(message_id=7098*, default_option=1*, option_flags=0*)
     → "Proceed to the air travel agency? [Yes./No.]"
  11: 0x0043 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0044 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A1

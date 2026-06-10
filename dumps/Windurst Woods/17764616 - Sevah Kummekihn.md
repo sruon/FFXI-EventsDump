@@ -25,7 +25,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2629      |        9769 |
+|       0 | 0x262A      |        9770 |
 |       1 | 0x007E      |         126 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
@@ -34,44 +34,44 @@
 |       6 | 0x0004      |           4 |
 |       7 | 0x0005      |           5 |
 |       8 | 0x0006      |           6 |
-|       9 | 0x2628      |        9768 |
+|       9 | 0x2629      |        9769 |
 |      10 | 0x007C      |         124 |
 |      11 | 0x007A      |         122 |
 |      12 | 0x0076      |         118 |
 |      13 | 0x006E      |         110 |
 |      14 | 0x005E      |          94 |
 |      15 | 0x003E      |          62 |
-|      16 | 0x360A      |       13834 |
+|      16 | 0x360B      |       13835 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x360B      |       13835 |
+|      18 | 0x360C      |       13836 |
 |      19 | 0x40000000  |  1073741824 |
-|      20 | 0x360C      |       13836 |
+|      20 | 0x360D      |       13837 |
 |      21 | 0x0020      |          32 |
-|      22 | 0x360D      |       13837 |
+|      22 | 0x360E      |       13838 |
 |      23 | 0x0040      |          64 |
-|      24 | 0x360E      |       13838 |
+|      24 | 0x360F      |       13839 |
 |      25 | 0x0060      |          96 |
-|      26 | 0x360F      |       13839 |
+|      26 | 0x3610      |       13840 |
 |      27 | 0x0080      |         128 |
-|      28 | 0x3610      |       13840 |
+|      28 | 0x3611      |       13841 |
 |      29 | 0x00A0      |         160 |
-|      30 | 0x199D      |        6557 |
+|      30 | 0x199E      |        6558 |
 |      31 | 0x00C8      |         200 |
 |      32 | 0x003C      |          60 |
 |      33 | 0x0022      |          34 |
 
 ## String References
 
-- **6557**: You do not have enough gil.
-- **9768**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **9769**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **13834**: What memory will you have recalled? [None./Seekers of Adoulin.]
-- **13835**: What memory will you have recalled? [None./Rumors from the West.]
-- **13836**: What memory will you have recalled? [None.]
+- **6558**: You do not have enough gil.
+- **9769**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **9770**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **13835**: What memory will you have recalled? [None./Seekers of Adoulin.]
+- **13836**: What memory will you have recalled? [None./Rumors from the West.]
 - **13837**: What memory will you have recalled? [None.]
 - **13838**: What memory will you have recalled? [None.]
 - **13839**: What memory will you have recalled? [None.]
 - **13840**: What memory will you have recalled? [None.]
+- **13841**: What memory will you have recalled? [None.]
 
 ## Events
 
@@ -153,7 +153,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9770*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -172,12 +172,12 @@
  18: 0x0071 [0x02] IF !(Work_Zone[7] == 4294967294*) GOTO 0x0080
  19: 0x0079 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  20: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[0] == 126*) GOTO 0x008E
- 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
+ 21: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=9770*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  22: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x008C [0x21] END_EVENT
  24: 0x008D [0x00] END_REQSTACK()
- 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=9768*)
+ 25: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=9769*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  26: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 124*) GOTO 0x009D
@@ -192,13 +192,13 @@
  36: 0x00C6 [0x01] GOTO 0x01A0
  37: 0x00C9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 62*) GOTO 0x00D4
  38: 0x00D1 [0x01] GOTO 0x01CF
- 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=13834*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 39: 0x00D4 [0x24] CREATE_DIALOG(message_id=13835*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What memory will you have recalled? [None./Seekers of Adoulin.]"
  40: 0x00DB [0x25] WAIT_DIALOG_SELECT()
  41: 0x00DC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x010B
 
 SUBROUTINE_00E4:
- 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=13835*, default_option=0*, option_flags=Work_Zone[2])
+ 42: 0x00E4 [0x24] CREATE_DIALOG(message_id=13836*, default_option=0*, option_flags=Work_Zone[2])
     → "What memory will you have recalled? [None./Rumors from the West.]"
  43: 0x00EB [0x25] WAIT_DIALOG_SELECT()
  44: 0x00EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FE
@@ -211,7 +211,7 @@ SUBROUTINE_0108:
  49: 0x010B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x013A
 
 SUBROUTINE_0113:
- 50: 0x0113 [0x24] CREATE_DIALOG(message_id=13836*, default_option=0*, option_flags=Work_Zone[3])
+ 50: 0x0113 [0x24] CREATE_DIALOG(message_id=13837*, default_option=0*, option_flags=Work_Zone[3])
     → "What memory will you have recalled? [None.]"
  51: 0x011A [0x25] WAIT_DIALOG_SELECT()
  52: 0x011B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -224,7 +224,7 @@ SUBROUTINE_0137:
  57: 0x013A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0169
 
 SUBROUTINE_0142:
- 58: 0x0142 [0x24] CREATE_DIALOG(message_id=13837*, default_option=0*, option_flags=Work_Zone[4])
+ 58: 0x0142 [0x24] CREATE_DIALOG(message_id=13838*, default_option=0*, option_flags=Work_Zone[4])
     → "What memory will you have recalled? [None.]"
  59: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  60: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015C
@@ -237,7 +237,7 @@ SUBROUTINE_0166:
  65: 0x0169 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0198
 
 SUBROUTINE_0171:
- 66: 0x0171 [0x24] CREATE_DIALOG(message_id=13838*, default_option=0*, option_flags=Work_Zone[5])
+ 66: 0x0171 [0x24] CREATE_DIALOG(message_id=13839*, default_option=0*, option_flags=Work_Zone[5])
     → "What memory will you have recalled? [None.]"
  67: 0x0178 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0179 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018B
@@ -250,7 +250,7 @@ SUBROUTINE_0195:
  73: 0x0198 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01C7
 
 SUBROUTINE_01A0:
- 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=13839*, default_option=0*, option_flags=Work_Zone[6])
+ 74: 0x01A0 [0x24] CREATE_DIALOG(message_id=13840*, default_option=0*, option_flags=Work_Zone[6])
     → "What memory will you have recalled? [None.]"
  75: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
  76: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BA
@@ -263,7 +263,7 @@ SUBROUTINE_01C4:
  81: 0x01C7 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F6
 
 SUBROUTINE_01CF:
- 82: 0x01CF [0x24] CREATE_DIALOG(message_id=13840*, default_option=0*, option_flags=Work_Zone[7])
+ 82: 0x01CF [0x24] CREATE_DIALOG(message_id=13841*, default_option=0*, option_flags=Work_Zone[7])
     → "What memory will you have recalled? [None.]"
  83: 0x01D6 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9
@@ -282,7 +282,7 @@ SUBROUTINE_01FD:
  93: 0x01FE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  94: 0x0200 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  95: 0x0202 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0210
- 96: 0x020A [0x48] [System] [6557*]:
+ 96: 0x020A [0x48] [System] [6558*]:
     → "You do not have enough gil."
  97: 0x020D [0x01] GOTO 0x0225
  98: 0x0210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

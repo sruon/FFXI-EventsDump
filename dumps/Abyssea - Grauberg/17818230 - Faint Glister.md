@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F42      |        8002 |
+|       0 | 0x1F43      |        8003 |
 
 ## String References
 
-- **8002**: There appears to be something on the ground.
+- **8003**: There appears to be something on the ground.
 
 ## Events
 
@@ -71,7 +71,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [8002*]:
+  1: 0x0002 [0x48] [System] [8003*]:
     → "There appears to be something on the ground."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=LocalPlayer, tag_num=0x02)

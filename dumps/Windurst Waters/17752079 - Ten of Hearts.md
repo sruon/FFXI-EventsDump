@@ -50,131 +50,131 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D5C      |        7516 |
-|       1 | 0x1D5D      |        7517 |
-|       2 | 0x1D67      |        7527 |
-|       3 | 0x1D8B      |        7563 |
-|       4 | 0x1D8C      |        7564 |
-|       5 | 0x1D92      |        7570 |
-|       6 | 0x1D93      |        7571 |
-|       7 | 0x1DA1      |        7585 |
-|       8 | 0x1DA2      |        7586 |
-|       9 | 0x1DA3      |        7587 |
-|      10 | 0x1DB4      |        7604 |
-|      11 | 0x1DB5      |        7605 |
-|      12 | 0x1DE0      |        7648 |
-|      13 | 0x1DE1      |        7649 |
-|      14 | 0x1DEE      |        7662 |
-|      15 | 0x1DEF      |        7663 |
-|      16 | 0x1E31      |        7729 |
-|      17 | 0x1E32      |        7730 |
-|      18 | 0x1E33      |        7731 |
-|      19 | 0x1E7B      |        7803 |
-|      20 | 0x1E7C      |        7804 |
-|      21 | 0x1E88      |        7816 |
-|      22 | 0x1E89      |        7817 |
-|      23 | 0x1E96      |        7830 |
-|      24 | 0x1E97      |        7831 |
-|      25 | 0x1EA1      |        7841 |
-|      26 | 0x1EA2      |        7842 |
-|      27 | 0x1EA9      |        7849 |
-|      28 | 0x1EAA      |        7850 |
-|      29 | 0x1EB4      |        7860 |
-|      30 | 0x1EB5      |        7861 |
-|      31 | 0x1EBE      |        7870 |
-|      32 | 0x1EBF      |        7871 |
-|      33 | 0x1EC4      |        7876 |
-|      34 | 0x1EC5      |        7877 |
-|      35 | 0x2591      |        9617 |
-|      36 | 0x2592      |        9618 |
-|      37 | 0x259D      |        9629 |
-|      38 | 0x259E      |        9630 |
-|      39 | 0x259F      |        9631 |
-|      40 | 0x25AD      |        9645 |
-|      41 | 0x25AE      |        9646 |
-|      42 | 0x25B8      |        9656 |
-|      43 | 0x25B9      |        9657 |
-|      44 | 0x25F9      |        9721 |
-|      45 | 0x25FA      |        9722 |
-|      46 | 0x262B      |        9771 |
-|      47 | 0x262C      |        9772 |
-|      48 | 0x265C      |        9820 |
-|      49 | 0x274E      |       10062 |
-|      50 | 0x274F      |       10063 |
-|      51 | 0x2750      |       10064 |
-|      52 | 0x2756      |       10070 |
-|      53 | 0x2757      |       10071 |
-|      54 | 0x2763      |       10083 |
-|      55 | 0x2764      |       10084 |
-|      56 | 0x2765      |       10085 |
-|      57 | 0x276E      |       10094 |
-|      58 | 0x276F      |       10095 |
-|      59 | 0x2770      |       10096 |
-|      60 | 0x2771      |       10097 |
+|       0 | 0x1D5D      |        7517 |
+|       1 | 0x1D5E      |        7518 |
+|       2 | 0x1D68      |        7528 |
+|       3 | 0x1D8C      |        7564 |
+|       4 | 0x1D8D      |        7565 |
+|       5 | 0x1D93      |        7571 |
+|       6 | 0x1D94      |        7572 |
+|       7 | 0x1DA2      |        7586 |
+|       8 | 0x1DA3      |        7587 |
+|       9 | 0x1DA4      |        7588 |
+|      10 | 0x1DB5      |        7605 |
+|      11 | 0x1DB6      |        7606 |
+|      12 | 0x1DE1      |        7649 |
+|      13 | 0x1DE2      |        7650 |
+|      14 | 0x1DEF      |        7663 |
+|      15 | 0x1DF0      |        7664 |
+|      16 | 0x1E32      |        7730 |
+|      17 | 0x1E33      |        7731 |
+|      18 | 0x1E34      |        7732 |
+|      19 | 0x1E7C      |        7804 |
+|      20 | 0x1E7D      |        7805 |
+|      21 | 0x1E89      |        7817 |
+|      22 | 0x1E8A      |        7818 |
+|      23 | 0x1E97      |        7831 |
+|      24 | 0x1E98      |        7832 |
+|      25 | 0x1EA2      |        7842 |
+|      26 | 0x1EA3      |        7843 |
+|      27 | 0x1EAA      |        7850 |
+|      28 | 0x1EAB      |        7851 |
+|      29 | 0x1EB5      |        7861 |
+|      30 | 0x1EB6      |        7862 |
+|      31 | 0x1EBF      |        7871 |
+|      32 | 0x1EC0      |        7872 |
+|      33 | 0x1EC5      |        7877 |
+|      34 | 0x1EC6      |        7878 |
+|      35 | 0x2592      |        9618 |
+|      36 | 0x2593      |        9619 |
+|      37 | 0x259E      |        9630 |
+|      38 | 0x259F      |        9631 |
+|      39 | 0x25A0      |        9632 |
+|      40 | 0x25AE      |        9646 |
+|      41 | 0x25AF      |        9647 |
+|      42 | 0x25B9      |        9657 |
+|      43 | 0x25BA      |        9658 |
+|      44 | 0x25FA      |        9722 |
+|      45 | 0x25FB      |        9723 |
+|      46 | 0x262C      |        9772 |
+|      47 | 0x262D      |        9773 |
+|      48 | 0x265D      |        9821 |
+|      49 | 0x274F      |       10063 |
+|      50 | 0x2750      |       10064 |
+|      51 | 0x2751      |       10065 |
+|      52 | 0x2757      |       10071 |
+|      53 | 0x2758      |       10072 |
+|      54 | 0x2764      |       10084 |
+|      55 | 0x2765      |       10085 |
+|      56 | 0x2766      |       10086 |
+|      57 | 0x276F      |       10095 |
+|      58 | 0x2770      |       10096 |
+|      59 | 0x2771      |       10097 |
+|      60 | 0x2772      |       10098 |
 
 ## String References
 
-- **7516**: tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn IS$26a CArDiAN$26aSsiGNed tO$26tHe NOrTh$26WInDs gUaRds!
-- **7517**: yOu$26WaNt tO$26JoIn NOrTH$26WinD gUaRds$26TOo?$26tHeN sPeAk$26tO tHe$26LEaDer, MoKyoKyo!
-- **7527**: tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn AM$26a CArDiAN$26aSsiGNed tO tHe NOrTh WInDs$26gUaRds!
-- **7563**: hOrUtOtO RuInS... DaNgERoUs$26pLaCE!
-- **7564**: BAD cArDiaNs$26lUrK iN$26sOMe PaRTs! be$26CArE-ful nOt$26tO go$26TO WroNG$26plaCe!
-- **7570**: ThAnK yOu$26fOr yOuR$26patRIOTism! YoU cOmPleTEd$26yoUR miSsIoN$26wElL aNd$26hAvE rEcEIvEd$26rAnk pOINts!
-- **7571**: YoU$26cAn CoNfIrm YoUr PoiNTs$26bY cHeCKinG yOuR$26"PROFILE"$26In the$26"STATUS"$26oPtIoN on tHe$26"MAIN MENU!"
-- **7585**: mOrE$26iNtElLiGEnt CArdiAns$26bECoMe WInDUrsT's$26TOwn GUarDs!$26STroNger$26cARdiaNS PATrol$26oUtsIDe!
-- **7586**: wHaT$26HaP-pEnS tO$26sMArTEst aNd$26STroNgEst cARdIAns...?
-- **7587**: ...theY$26bEcOme tHe$26ACE CArDiaNs$26tHAt guArD$26HeAVeNs ToWeR!
-- **7604**: THis MIsSiOn$26iS VeRy$26iMpOrTaNt sO$26wHeN YoU$26fInIsh iT$26yOu cAn$26ExPecT a$26reWArd!
-- **7605**: BuT$26dOn'T oVeRdo$26IT! yoU ONly$26hAVe oNe$26LiFe! If$26yOu Go$26tOO fAr$26YoU mAy$26nEVeR rEtUrN!
-- **7648**: TeN sAiD$26yOu WOulD$26gEt a$26rEwARd...
-- **7649**: kEEp$26Up tHe$26GooD wORk$26tO MaKe$26tHe NeXt$26rANk!
-- **7662**: tHe$26RoLe oF$26BOOKs Is$26tO rEcORd$26tHe TRuTHs$26tHaT gEt$26lOsT iN$26TiMe, IS$26it nOt?
-- **7663**: BUt TeN$26hEaRD tHErE$26aRe soMe$26bOOks ThaT$26REcorD UN-TruthS!$26WhY$26wOuLd pEoPle$26do tHat?
-- **7729**: cHiLdrEn's$26BoDieS mAy$26Be ImMAtuRE$26bUt ThEiR$26hEaRtS ArE$26STroNg!
-- **7730**: AdUlTs'$26bOdIeS aRe$26STroNG but$26tHeIr hEaRTs$26ArE WEak!
-- **7731**: TEN's$26bOdY aNd$26HeArT are$26BOth weAK! IT$26is ShAmEfUl!
-- **7803**: ThE hEaD sEctIoNS$26of us$26cARdiAns aRe$26CuLtIvAtEd iN$26tHe BAseMEnT$26Of HEaVeNs tOwEr!
-- **7804**: SeE! lOOk$26CarEfuLLy aNd$26YoU wIll$26nOtE TEn'S$26HeAd is$26frUIt of$26tREe!$26a-MaZinG, hUh!?
-- **7816**: OnLy$26A pRiVilEgEd$26fEw ArE$26aLLowEd to$26Go uP$26TO tHe$26SeCoNd aNd$26tHiRd flOOrs$26oF HEaVeNs TOwEr...!
-- **7817**: ...lIkE tHe$26lAdIeS-In-wAiTIng aNd$26SiByL GuArDs$26wHo sErve$26tHe sTAr$26SiBYL!$26the$26ACE CArDiAns$26SHouLD aLso$26bE ThEre$26ToO!
-- **7830**: oNe NeEdS$26SPeCiaL quALItieS$26tO bEcOme$26A lAdY-In-WaITing!
-- **7831**: It$26iS tHe$26JoB Of$26ThE hEAd$26lAdy-In-wAiTiNg tO$26TeaCH tHe$26FEw choSen$26onES the$26WAyS of$26hEAveNs TOweR!
-- **7841**: ThE NOrTh$26gaTeHouSe wAs$26In A$26bIg fUsS$26wHEn a$26lEtter aRRiVed$26fRoM HEaVenS ToWer.
-- **7842**: NoW$26TeN sEEs$26tHe fUsS$26wAs ReAlLy$26oVeR yOu!
-- **7849**: we$26caNNot iSSue$26miSSionS fOr$26NoW!
-- **7850**: TEN wOnDers$26wHaT haPPeNed$26iN tHe$26horuToTo RUiNs$26tO cAuSe$26sUcH A$26cOmMoTiOn...!?
-- **7860**: We aRe$26NoW aBlE$26to hANd$26OuT MiSsIoNs$26aGaIn!
-- **7861**: BuT$26it sEEmS$26yOu aLrEAdy$26hAve BeeN$26AssIgnEd a$26vEry iMpoRTaNt$26mIssIOn of$26yOUr oWn!
-- **7870**: TEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon!
-- **7871**: ThErE iS$26An 80%$26ChAnCe tHAt$26WInDurSt wILl$26bE dRaWn$26IntO a$26WaR!$26dO$26yoU tHinK$26tEN's cAlCulAtiOns$26aRe coRRecT?
-- **7876**: tEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon...!
-- **7877**: ThErE iS$26A 60%$26ChAnCe tHAt$26WInDurSt wIlL$26rEGaIn tHe$26PeaCe!$26dO$26yoU tHinK$26TeN's cAlCulAtiOns$26aRe coRRecT?
-- **9617**: PeOPle$26aRe VeRY$26uNPrEdICt-aBLe. It$26iS hARd$26fOr TEn$26to GUeSs$26ThEIr NeXt$26MOve.
-- **9618**: EsPeC-iAlly$26PAnnA-DOnnA. EVEn$26whEN I$26sAy No$26mAgIC AlloWeD,$26hE uSEs$26sPElls iF$26hE ThINks$26hE WiLL$26LOse.
-- **9629**: AJiDO-MaRUjIdo..? TEn$26knOWs hIm$26WeLL.
-- **9630**: He$26iS MoTHer$26ApUrUrU's bRoTHer. WhiCH$26mAkES hIM$26tEn's uNCle...
-- **9631**: ...TeN$26reMeMbeRS bEInG$26hIt WiTh $26A wAnD$26WHen tEn$26SAiD ThAT.
-- **9645**: ThE$26SmaLL cHAmbErS$26uNdER tHe$26CenTraL tOwEr$26iN SaRuTaBaRuTa$26aLL hAve$26nAMes cOr-rEspONd-iNg$26tO oNe$26oF tHe$26eLeMeNtS.
-- **9646**: CouLD$26tHe chAmBeR$26oF dArKneSS$26bE tHe SAme$26pLaCE aS$26tHe DaRK DuNGeOn?
-- **9656**: TeN$26oFTeN sEEs$26MotHEr ApUrUrU$26ruNNiNg tO$26aNd fRO.
-- **9657**: SHe$26wAS leAViNg$26tHe OptISterY$26eARLieR. TeN$26wONdeRs wHaT$26iS hAp-pENiNg.
-- **9721**: WhY$26dOn't tHE$26RhiNoSTeRy Re-sEaRchERs$26tAKe CaRdiANs$26LiKE TeN$26wiTH tHEm$26oN tHEiR$26tRekS?
-- **9722**: TeN$26tHiNKs tHAt$26wE CaRdiANs$26wOuLd cOMe$26iN VeRy$26uSefUL...
-- **9771**: PeoPLe$26aRE frEE$26tO ChOOse$26wHEthER oR$26nOt tHEy$26aTTeNd tHE$26SchoOL oF MaGIc.
-- **9772**: HoWEveR,$26wHEthER eNteRInG$26tHE SchoOL oF MaGIc$26LeADs tO a$26 hIGh pOsItIoN$26iN sOCieTy$26dEpEnDS oN$26tHE TeACheRs'$26eVaLu-aTIonS.
-- **9820**: PLeaSE$26tAkE tHIs$26mISsiON fRoM$26tHE mANusTEry. MoThER$26ApUrUrU nEEds$26YouR hELp.
-- **10062**: MiNisTEr ApuRuRu's$26fATheR, ZonPa-ZipPA,$26wAs abDUcteD bY$26oUt-of-cOnTRoL$26cARdiAnS.
-- **10063**: It wAs$26pOSssibLe to pREdiCt$26wE NeW cARdiAnS$26woULd bEComE uN-coNtroLLabLe$26wHEn faCeD wITh$26dIs-aSSemBLagE.
-- **10064**: It wAs$26pOSsibLe to pREdiCt,$26buT iMpOSsibLe$26to aVoID. It$26wAs aN anOMaLy$26tHAt wAs deStiNEd$26to ocCUr.
-- **10070**: ThE RoGUe$26cARdiAnS aRe$26wOrKIng tOWaRdS a$26siNgLE pURpoSe.
-- **10071**: ThAt pURpoSe$26coULd onLy$26hAVe beEN gIVeN$26to tHe cARdiAnS$26by tHeIR$26cReAtoR.
-- **10083**: TheRe aRe$26mAnY siTuAtiOnS$26aNd PHeNo-meNoNs$26iN tHe WoRLd$26tHAt aRe$26iMpoSsiBLe to$26pRediCT.
-- **10084**: HoWeVeR,$26bY iNveSTigATiNg$26tHe eLemENt oF$26poSsiBLiTy, tHe$26acCurRAcY oF a$26pRediCTioN cAn$26bE iNCreASeD.
-- **10085**: To pUt iT$26aNoTHeR wAy,$26iN oRDeR to$26reALiZe a$26pRediCTioN,$26tHe cHaNCeS fOR$26iT to CoMe tRUe$26SHouLd bE$26iMProVeD aS$26mUCh aS$26poSsiBLe.
-- **10094**: We cARdiAnS$26rUn oN tHe$26PoWEr oF$26tHe sTArS.
-- **10095**: MaYBe tHAt$26ExPLaiNs iT.$26TeN hAs fELt$26sO WOndeRFuL$26waLKiNg uNdeRNeATh$26tHe niGHt sKy$26thEsE dAYs.
-- **10096**: ...If TeN$26wErE to PuT$26tHAt FeELiNg$26iNTo wORdS$26it woULd Be$26LiKe...
-- **10097**: A FuLL$26BeLLy. ..Hmm.$26MaYBe TeN$26nEEdS to hAVe$26sOmE MaiNTeNAnCe$26DoNe...
+- **7517**: tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn IS$26a CArDiAN$26aSsiGNed tO$26tHe NOrTh$26WInDs gUaRds!
+- **7518**: yOu$26WaNt tO$26JoIn NOrTH$26WinD gUaRds$26TOo?$26tHeN sPeAk$26tO tHe$26LEaDer, MoKyoKyo!
+- **7528**: tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn AM$26a CArDiAN$26aSsiGNed tO tHe NOrTh WInDs$26gUaRds!
+- **7564**: hOrUtOtO RuInS... DaNgERoUs$26pLaCE!
+- **7565**: BAD cArDiaNs$26lUrK iN$26sOMe PaRTs! be$26CArE-ful nOt$26tO go$26TO WroNG$26plaCe!
+- **7571**: ThAnK yOu$26fOr yOuR$26patRIOTism! YoU cOmPleTEd$26yoUR miSsIoN$26wElL aNd$26hAvE rEcEIvEd$26rAnk pOINts!
+- **7572**: YoU$26cAn CoNfIrm YoUr PoiNTs$26bY cHeCKinG yOuR$26"PROFILE"$26In the$26"STATUS"$26oPtIoN on tHe$26"MAIN MENU!"
+- **7586**: mOrE$26iNtElLiGEnt CArdiAns$26bECoMe WInDUrsT's$26TOwn GUarDs!$26STroNger$26cARdiaNS PATrol$26oUtsIDe!
+- **7587**: wHaT$26HaP-pEnS tO$26sMArTEst aNd$26STroNgEst cARdIAns...?
+- **7588**: ...theY$26bEcOme tHe$26ACE CArDiaNs$26tHAt guArD$26HeAVeNs ToWeR!
+- **7605**: THis MIsSiOn$26iS VeRy$26iMpOrTaNt sO$26wHeN YoU$26fInIsh iT$26yOu cAn$26ExPecT a$26reWArd!
+- **7606**: BuT$26dOn'T oVeRdo$26IT! yoU ONly$26hAVe oNe$26LiFe! If$26yOu Go$26tOO fAr$26YoU mAy$26nEVeR rEtUrN!
+- **7649**: TeN sAiD$26yOu WOulD$26gEt a$26rEwARd...
+- **7650**: kEEp$26Up tHe$26GooD wORk$26tO MaKe$26tHe NeXt$26rANk!
+- **7663**: tHe$26RoLe oF$26BOOKs Is$26tO rEcORd$26tHe TRuTHs$26tHaT gEt$26lOsT iN$26TiMe, IS$26it nOt?
+- **7664**: BUt TeN$26hEaRD tHErE$26aRe soMe$26bOOks ThaT$26REcorD UN-TruthS!$26WhY$26wOuLd pEoPle$26do tHat?
+- **7730**: cHiLdrEn's$26BoDieS mAy$26Be ImMAtuRE$26bUt ThEiR$26hEaRtS ArE$26STroNg!
+- **7731**: AdUlTs'$26bOdIeS aRe$26STroNG but$26tHeIr hEaRTs$26ArE WEak!
+- **7732**: TEN's$26bOdY aNd$26HeArT are$26BOth weAK! IT$26is ShAmEfUl!
+- **7804**: ThE hEaD sEctIoNS$26of us$26cARdiAns aRe$26CuLtIvAtEd iN$26tHe BAseMEnT$26Of HEaVeNs tOwEr!
+- **7805**: SeE! lOOk$26CarEfuLLy aNd$26YoU wIll$26nOtE TEn'S$26HeAd is$26frUIt of$26tREe!$26a-MaZinG, hUh!?
+- **7817**: OnLy$26A pRiVilEgEd$26fEw ArE$26aLLowEd to$26Go uP$26TO tHe$26SeCoNd aNd$26tHiRd flOOrs$26oF HEaVeNs TOwEr...!
+- **7818**: ...lIkE tHe$26lAdIeS-In-wAiTIng aNd$26SiByL GuArDs$26wHo sErve$26tHe sTAr$26SiBYL!$26the$26ACE CArDiAns$26SHouLD aLso$26bE ThEre$26ToO!
+- **7831**: oNe NeEdS$26SPeCiaL quALItieS$26tO bEcOme$26A lAdY-In-WaITing!
+- **7832**: It$26iS tHe$26JoB Of$26ThE hEAd$26lAdy-In-wAiTiNg tO$26TeaCH tHe$26FEw choSen$26onES the$26WAyS of$26hEAveNs TOweR!
+- **7842**: ThE NOrTh$26gaTeHouSe wAs$26In A$26bIg fUsS$26wHEn a$26lEtter aRRiVed$26fRoM HEaVenS ToWer.
+- **7843**: NoW$26TeN sEEs$26tHe fUsS$26wAs ReAlLy$26oVeR yOu!
+- **7850**: we$26caNNot iSSue$26miSSionS fOr$26NoW!
+- **7851**: TEN wOnDers$26wHaT haPPeNed$26iN tHe$26horuToTo RUiNs$26tO cAuSe$26sUcH A$26cOmMoTiOn...!?
+- **7861**: We aRe$26NoW aBlE$26to hANd$26OuT MiSsIoNs$26aGaIn!
+- **7862**: BuT$26it sEEmS$26yOu aLrEAdy$26hAve BeeN$26AssIgnEd a$26vEry iMpoRTaNt$26mIssIOn of$26yOUr oWn!
+- **7871**: TEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon!
+- **7872**: ThErE iS$26An 80%$26ChAnCe tHAt$26WInDurSt wILl$26bE dRaWn$26IntO a$26WaR!$26dO$26yoU tHinK$26tEN's cAlCulAtiOns$26aRe coRRecT?
+- **7877**: tEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon...!
+- **7878**: ThErE iS$26A 60%$26ChAnCe tHAt$26WInDurSt wIlL$26rEGaIn tHe$26PeaCe!$26dO$26yoU tHinK$26TeN's cAlCulAtiOns$26aRe coRRecT?
+- **9618**: PeOPle$26aRe VeRY$26uNPrEdICt-aBLe. It$26iS hARd$26fOr TEn$26to GUeSs$26ThEIr NeXt$26MOve.
+- **9619**: EsPeC-iAlly$26PAnnA-DOnnA. EVEn$26whEN I$26sAy No$26mAgIC AlloWeD,$26hE uSEs$26sPElls iF$26hE ThINks$26hE WiLL$26LOse.
+- **9630**: AJiDO-MaRUjIdo..? TEn$26knOWs hIm$26WeLL.
+- **9631**: He$26iS MoTHer$26ApUrUrU's bRoTHer. WhiCH$26mAkES hIM$26tEn's uNCle...
+- **9632**: ...TeN$26reMeMbeRS bEInG$26hIt WiTh $26A wAnD$26WHen tEn$26SAiD ThAT.
+- **9646**: ThE$26SmaLL cHAmbErS$26uNdER tHe$26CenTraL tOwEr$26iN SaRuTaBaRuTa$26aLL hAve$26nAMes cOr-rEspONd-iNg$26tO oNe$26oF tHe$26eLeMeNtS.
+- **9647**: CouLD$26tHe chAmBeR$26oF dArKneSS$26bE tHe SAme$26pLaCE aS$26tHe DaRK DuNGeOn?
+- **9657**: TeN$26oFTeN sEEs$26MotHEr ApUrUrU$26ruNNiNg tO$26aNd fRO.
+- **9658**: SHe$26wAS leAViNg$26tHe OptISterY$26eARLieR. TeN$26wONdeRs wHaT$26iS hAp-pENiNg.
+- **9722**: WhY$26dOn't tHE$26RhiNoSTeRy Re-sEaRchERs$26tAKe CaRdiANs$26LiKE TeN$26wiTH tHEm$26oN tHEiR$26tRekS?
+- **9723**: TeN$26tHiNKs tHAt$26wE CaRdiANs$26wOuLd cOMe$26iN VeRy$26uSefUL...
+- **9772**: PeoPLe$26aRE frEE$26tO ChOOse$26wHEthER oR$26nOt tHEy$26aTTeNd tHE$26SchoOL oF MaGIc.
+- **9773**: HoWEveR,$26wHEthER eNteRInG$26tHE SchoOL oF MaGIc$26LeADs tO a$26 hIGh pOsItIoN$26iN sOCieTy$26dEpEnDS oN$26tHE TeACheRs'$26eVaLu-aTIonS.
+- **9821**: PLeaSE$26tAkE tHIs$26mISsiON fRoM$26tHE mANusTEry. MoThER$26ApUrUrU nEEds$26YouR hELp.
+- **10063**: MiNisTEr ApuRuRu's$26fATheR, ZonPa-ZipPA,$26wAs abDUcteD bY$26oUt-of-cOnTRoL$26cARdiAnS.
+- **10064**: It wAs$26pOSssibLe to pREdiCt$26wE NeW cARdiAnS$26woULd bEComE uN-coNtroLLabLe$26wHEn faCeD wITh$26dIs-aSSemBLagE.
+- **10065**: It wAs$26pOSsibLe to pREdiCt,$26buT iMpOSsibLe$26to aVoID. It$26wAs aN anOMaLy$26tHAt wAs deStiNEd$26to ocCUr.
+- **10071**: ThE RoGUe$26cARdiAnS aRe$26wOrKIng tOWaRdS a$26siNgLE pURpoSe.
+- **10072**: ThAt pURpoSe$26coULd onLy$26hAVe beEN gIVeN$26to tHe cARdiAnS$26by tHeIR$26cReAtoR.
+- **10084**: TheRe aRe$26mAnY siTuAtiOnS$26aNd PHeNo-meNoNs$26iN tHe WoRLd$26tHAt aRe$26iMpoSsiBLe to$26pRediCT.
+- **10085**: HoWeVeR,$26bY iNveSTigATiNg$26tHe eLemENt oF$26poSsiBLiTy, tHe$26acCurRAcY oF a$26pRediCTioN cAn$26bE iNCreASeD.
+- **10086**: To pUt iT$26aNoTHeR wAy,$26iN oRDeR to$26reALiZe a$26pRediCTioN,$26tHe cHaNCeS fOR$26iT to CoMe tRUe$26SHouLd bE$26iMProVeD aS$26mUCh aS$26poSsiBLe.
+- **10095**: We cARdiAnS$26rUn oN tHe$26PoWEr oF$26tHe sTArS.
+- **10096**: MaYBe tHAt$26ExPLaiNs iT.$26TeN hAs fELt$26sO WOndeRFuL$26waLKiNg uNdeRNeATh$26tHe niGHt sKy$26thEsE dAYs.
+- **10097**: ...If TeN$26wErE to PuT$26tHAt FeELiNg$26iNTo wORdS$26it woULd Be$26LiKe...
+- **10098**: A FuLL$26BeLLy. ..Hmm.$26MaYBe TeN$26nEEdS to hAVe$26sOmE MaiNTeNAnCe$26DoNe...
 
 ## Events
 
@@ -223,10 +223,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn IS$26a CArDiAN$26aSsiGNed tO$26tHe NOrTh$26WInDs gUaRds!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "yOu$26WaNt tO$26JoIn NOrTH$26WinD gUaRds$26TOo?$26tHeN sPeAk$26tO tHe$26LEaDer, MoKyoKyo!"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -257,7 +257,7 @@
   0: 0x0014 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0019 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "tHIs$26iS tHe$26nOrTh gATeHOusE!$26tEn AM$26a CArDiAN$26aSsiGNed tO tHe NOrTh WInDs$26gUaRds!"
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -354,10 +354,10 @@
   0: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
+  3: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
     → "hOrUtOtO RuInS... DaNgERoUs$26pLaCE!"
   4: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+  5: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "BAD cArDiaNs$26lUrK iN$26sOMe PaRTs! be$26CArE-ful nOt$26tO go$26TO WroNG$26plaCe!"
   6: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0035 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -388,10 +388,10 @@
   0: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7570*)
+  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
     → "ThAnK yOu$26fOr yOuR$26patRIOTism! YoU cOmPleTEd$26yoUR miSsIoN$26wElL aNd$26hAvE rEcEIvEd$26rAnk pOINts!"
   4: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7571*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7572*)
     → "YoU$26cAn CoNfIrm YoUr PoiNTs$26bY cHeCKinG yOuR$26"PROFILE"$26In the$26"STATUS"$26oPtIoN on tHe$26"MAIN MENU!""
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0048 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -423,13 +423,13 @@
   0: 0x004C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0051 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0052 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
+  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
     → "mOrE$26iNtElLiGEnt CArdiAns$26bECoMe WInDUrsT's$26TOwn GUarDs!$26STroNger$26cARdiaNS PATrol$26oUtsIDe!"
   4: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7586*)
+  5: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
     → "wHaT$26HaP-pEnS tO$26sMArTEst aNd$26STroNgEst cARdIAns...?"
   6: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
+  7: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
     → "...theY$26bEcOme tHe$26ACE CArDiaNs$26tHAt guArD$26HeAVeNs ToWeR!"
   8: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -460,10 +460,10 @@
   0: 0x0063 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0068 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0069 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  3: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
     → "THis MIsSiOn$26iS VeRy$26iMpOrTaNt sO$26wHeN YoU$26fInIsh iT$26yOu cAn$26ExPecT a$26reWArd!"
   4: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+  5: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "BuT$26dOn'T oVeRdo$26IT! yoU ONly$26hAVe oNe$26LiFe! If$26yOu Go$26tOO fAr$26YoU mAy$26nEVeR rEtUrN!"
   6: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0072 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -494,10 +494,10 @@
   0: 0x0076 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x007B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
+  3: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
     → "TeN sAiD$26yOu WOulD$26gEt a$26rEwARd..."
   4: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
+  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7650*)
     → "kEEp$26Up tHe$26GooD wORk$26tO MaKe$26tHe NeXt$26rANk!"
   6: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0085 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -528,10 +528,10 @@
   0: 0x0089 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x008E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x008F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
+  3: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
     → "tHe$26RoLe oF$26BOOKs Is$26tO rEcORd$26tHe TRuTHs$26tHaT gEt$26lOsT iN$26TiMe, IS$26it nOt?"
   4: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+  5: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "BUt TeN$26hEaRD tHErE$26aRe soMe$26bOOks ThaT$26REcorD UN-TruthS!$26WhY$26wOuLd pEoPle$26do tHat?"
   6: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0098 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -563,13 +563,13 @@
   0: 0x009C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  3: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "cHiLdrEn's$26BoDieS mAy$26Be ImMAtuRE$26bUt ThEiR$26hEaRtS ArE$26STroNg!"
   4: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
+  5: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "AdUlTs'$26bOdIeS aRe$26STroNG but$26tHeIr hEaRTs$26ArE WEak!"
   6: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
+  7: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
     → "TEN's$26bOdY aNd$26HeArT are$26BOth weAK! IT$26is ShAmEfUl!"
   8: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AF [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -600,10 +600,10 @@
   0: 0x00B3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+  3: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "ThE hEaD sEctIoNS$26of us$26cARdiAns aRe$26CuLtIvAtEd iN$26tHe BAseMEnT$26Of HEaVeNs tOwEr!"
   4: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+  5: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "SeE! lOOk$26CarEfuLLy aNd$26YoU wIll$26nOtE TEn'S$26HeAd is$26frUIt of$26tREe!$26a-MaZinG, hUh!?"
   6: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C2 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -634,10 +634,10 @@
   0: 0x00C6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+  3: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
     → "OnLy$26A pRiVilEgEd$26fEw ArE$26aLLowEd to$26Go uP$26TO tHe$26SeCoNd aNd$26tHiRd flOOrs$26oF HEaVeNs TOwEr...!"
   4: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+  5: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "...lIkE tHe$26lAdIeS-In-wAiTIng aNd$26SiByL GuArDs$26wHo sErve$26tHe sTAr$26SiBYL!$26the$26ACE CArDiAns$26SHouLD aLso$26bE ThEre$26ToO!"
   6: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00D5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -668,10 +668,10 @@
   0: 0x00D9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00DE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "oNe NeEdS$26SPeCiaL quALItieS$26tO bEcOme$26A lAdY-In-WaITing!"
   4: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+  5: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "It$26iS tHe$26JoB Of$26ThE hEAd$26lAdy-In-wAiTiNg tO$26TeaCH tHe$26FEw choSen$26onES the$26WAyS of$26hEAveNs TOweR!"
   6: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E8 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -702,10 +702,10 @@
   0: 0x00EC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+  3: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "ThE NOrTh$26gaTeHouSe wAs$26In A$26bIg fUsS$26wHEn a$26lEtter aRRiVed$26fRoM HEaVenS ToWer."
   4: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+  5: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "NoW$26TeN sEEs$26tHe fUsS$26wAs ReAlLy$26oVeR yOu!"
   6: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00FB [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -737,10 +737,10 @@
   0: 0x00FF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0104 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0105 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+  3: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "we$26caNNot iSSue$26miSSionS fOr$26NoW!"
   4: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  5: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "TEN wOnDers$26wHaT haPPeNed$26iN tHe$26horuToTo RUiNs$26tO cAuSe$26sUcH A$26cOmMoTiOn...!?"
   6: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x010E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -771,10 +771,10 @@
   0: 0x0112 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0117 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0118 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+  3: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
     → "We aRe$26NoW aBlE$26to hANd$26OuT MiSsIoNs$26aGaIn!"
   4: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+  5: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "BuT$26it sEEmS$26yOu aLrEAdy$26hAve BeeN$26AssIgnEd a$26vEry iMpoRTaNt$26mIssIOn of$26yOUr oWn!"
   6: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0121 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -805,10 +805,10 @@
   0: 0x0125 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x012A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  3: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "TEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon!"
   4: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+  5: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "ThErE iS$26An 80%$26ChAnCe tHAt$26WInDurSt wILl$26bE dRaWn$26IntO a$26WaR!$26dO$26yoU tHinK$26tEN's cAlCulAtiOns$26aRe coRRecT?"
   6: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0134 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -839,10 +839,10 @@
   0: 0x0138 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x013D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x013E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
+  3: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
     → "tEN's$26brAIn TrIeD$26tO aNaLyZe$26tHe cURreNt$26sITuaTIon...!"
   4: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
+  5: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
     → "ThErE iS$26A 60%$26ChAnCe tHAt$26WInDurSt wIlL$26rEGaIn tHe$26PeaCe!$26dO$26yoU tHinK$26TeN's cAlCulAtiOns$26aRe coRRecT?"
   6: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0147 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -873,10 +873,10 @@
   0: 0x014B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0150 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0151 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=9617*)
+  3: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=9618*)
     → "PeOPle$26aRe VeRY$26uNPrEdICt-aBLe. It$26iS hARd$26fOr TEn$26to GUeSs$26ThEIr NeXt$26MOve."
   4: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=9618*)
+  5: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=9619*)
     → "EsPeC-iAlly$26PAnnA-DOnnA. EVEn$26whEN I$26sAy No$26mAgIC AlloWeD,$26hE uSEs$26sPElls iF$26hE ThINks$26hE WiLL$26LOse."
   6: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x015A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -908,13 +908,13 @@
   0: 0x015E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0163 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0164 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=9629*)
+  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=9630*)
     → "AJiDO-MaRUjIdo..? TEn$26knOWs hIm$26WeLL."
   4: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=9630*)
+  5: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=9631*)
     → "He$26iS MoTHer$26ApUrUrU's bRoTHer. WhiCH$26mAkES hIM$26tEn's uNCle..."
   6: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=9631*)
+  7: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=9632*)
     → "...TeN$26reMeMbeRS bEInG$26hIt WiTh $26A wAnD$26WHen tEn$26SAiD ThAT."
   8: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0171 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -945,10 +945,10 @@
   0: 0x0175 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x017A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x017B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=9645*)
+  3: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=9646*)
     → "ThE$26SmaLL cHAmbErS$26uNdER tHe$26CenTraL tOwEr$26iN SaRuTaBaRuTa$26aLL hAve$26nAMes cOr-rEspONd-iNg$26tO oNe$26oF tHe$26eLeMeNtS."
   4: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=9646*)
+  5: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=9647*)
     → "CouLD$26tHe chAmBeR$26oF dArKneSS$26bE tHe SAme$26pLaCE aS$26tHe DaRK DuNGeOn?"
   6: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0184 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -979,10 +979,10 @@
   0: 0x0188 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x018D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=9656*)
+  3: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
     → "TeN$26oFTeN sEEs$26MotHEr ApUrUrU$26ruNNiNg tO$26aNd fRO."
   4: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
+  5: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=9658*)
     → "SHe$26wAS leAViNg$26tHe OptISterY$26eARLieR. TeN$26wONdeRs wHaT$26iS hAp-pENiNg."
   6: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0197 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1013,10 +1013,10 @@
   0: 0x019B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9721*)
+  3: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9722*)
     → "WhY$26dOn't tHE$26RhiNoSTeRy Re-sEaRchERs$26tAKe CaRdiANs$26LiKE TeN$26wiTH tHEm$26oN tHEiR$26tRekS?"
   4: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9722*)
+  5: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9723*)
     → "TeN$26tHiNKs tHAt$26wE CaRdiANs$26wOuLd cOMe$26iN VeRy$26uSefUL..."
   6: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01AA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1048,10 +1048,10 @@
   0: 0x01AE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9771*)
+  3: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9772*)
     → "PeoPLe$26aRE frEE$26tO ChOOse$26wHEthER oR$26nOt tHEy$26aTTeNd tHE$26SchoOL oF MaGIc."
   4: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9772*)
+  5: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9773*)
     → "HoWEveR,$26wHEthER eNteRInG$26tHE SchoOL oF MaGIc$26LeADs tO a$26 hIGh pOsItIoN$26iN sOCieTy$26dEpEnDS oN$26tHE TeACheRs'$26eVaLu-aTIonS."
   6: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01BD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1081,7 +1081,7 @@
   0: 0x01C1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01C6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9820*)
+  3: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9821*)
     → "PLeaSE$26tAkE tHIs$26mISsiON fRoM$26tHE mANusTEry. MoThER$26ApUrUrU nEEds$26YouR hELp."
   4: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CC [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1112,13 +1112,13 @@
   0: 0x01D0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10062*)
+  3: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
     → "MiNisTEr ApuRuRu's$26fATheR, ZonPa-ZipPA,$26wAs abDUcteD bY$26oUt-of-cOnTRoL$26cARdiAnS."
   4: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
+  5: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
     → "It wAs$26pOSssibLe to pREdiCt$26wE NeW cARdiAnS$26woULd bEComE uN-coNtroLLabLe$26wHEn faCeD wITh$26dIs-aSSemBLagE."
   6: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
+  7: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10065*)
     → "It wAs$26pOSsibLe to pREdiCt,$26buT iMpOSsibLe$26to aVoID. It$26wAs aN anOMaLy$26tHAt wAs deStiNEd$26to ocCUr."
   8: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01E3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1149,10 +1149,10 @@
   0: 0x01E7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10070*)
+  3: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10071*)
     → "ThE RoGUe$26cARdiAnS aRe$26wOrKIng tOWaRdS a$26siNgLE pURpoSe."
   4: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10071*)
+  5: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10072*)
     → "ThAt pURpoSe$26coULd onLy$26hAVe beEN gIVeN$26to tHe cARdiAnS$26by tHeIR$26cReAtoR."
   6: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01F6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1184,13 +1184,13 @@
   0: 0x01FA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0200 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
+  3: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
     → "TheRe aRe$26mAnY siTuAtiOnS$26aNd PHeNo-meNoNs$26iN tHe WoRLd$26tHAt aRe$26iMpoSsiBLe to$26pRediCT."
   4: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
+  5: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
     → "HoWeVeR,$26bY iNveSTigATiNg$26tHe eLemENt oF$26poSsiBLiTy, tHe$26acCurRAcY oF a$26pRediCTioN cAn$26bE iNCreASeD."
   6: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
+  7: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10086*)
     → "To pUt iT$26aNoTHeR wAy,$26iN oRDeR to$26reALiZe a$26pRediCTioN,$26tHe cHaNCeS fOR$26iT to CoMe tRUe$26SHouLd bE$26iMProVeD aS$26mUCh aS$26poSsiBLe."
   8: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x020D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1221,16 +1221,16 @@
   0: 0x0211 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0216 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0217 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=10094*)
+  3: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=10095*)
     → "We cARdiAnS$26rUn oN tHe$26PoWEr oF$26tHe sTArS."
   4: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=10095*)
+  5: 0x021C [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
     → "MaYBe tHAt$26ExPLaiNs iT.$26TeN hAs fELt$26sO WOndeRFuL$26waLKiNg uNdeRNeATh$26tHe niGHt sKy$26thEsE dAYs."
   6: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
+  7: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
     → "...If TeN$26wErE to PuT$26tHAt FeELiNg$26iNTo wORdS$26it woULd Be$26LiKe..."
   8: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
+  9: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=10098*)
     → "A FuLL$26BeLLy. ..Hmm.$26MaYBe TeN$26nEEdS to hAVe$26sOmE MaiNTeNAnCe$26DoNe..."
  10: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0228 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

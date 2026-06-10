@@ -34,23 +34,23 @@
 |       2 | 0xFFFEC029  |  4294885417 |
 |       3 | 0x1E4A8     |      124072 |
 |       4 | 0xFFFFEA0E  |  4294961678 |
-|       5 | 0x1ED2      |        7890 |
-|       6 | 0x1ED3      |        7891 |
-|       7 | 0x1D81      |        7553 |
-|       8 | 0x1DA9      |        7593 |
-|       9 | 0x1DAA      |        7594 |
-|      10 | 0x1DCA      |        7626 |
-|      11 | 0x1DCB      |        7627 |
+|       5 | 0x1ED3      |        7891 |
+|       6 | 0x1ED4      |        7892 |
+|       7 | 0x1D82      |        7554 |
+|       8 | 0x1DAA      |        7594 |
+|       9 | 0x1DAB      |        7595 |
+|      10 | 0x1DCB      |        7627 |
+|      11 | 0x1DCC      |        7628 |
 
 ## String References
 
-- **7553**: <Sigh> When I sawy the falling stary the other day I made a wishy. I wishyed that Principal Koru-Moru would stoppy acting like a baby and get overy his stubbornness.
-- **7593**: A burnite shelly...? Where have I heardy that namey beforey...?
-- **7594**: Oh, I knowy! Doctor Yoran-Oran once mentionedy it, I thinky.
-- **7626**: Why don't you try asking the othery professors abouty this "alchemy"?
-- **7627**: One of them mighty be secretly researching it!
-- **7890**: According to Principal Koru-Moru, there was once a great beasty that occasionally appeared in Sarutabaruta and ate any Tarutaru who happenedy to wandery by.
-- **7891**: I'm sure gladdy I livey in an age when such beasties no longer existy!
+- **7554**: <Sigh> When I sawy the falling stary the other day I made a wishy. I wishyed that Principal Koru-Moru would stoppy acting like a baby and get overy his stubbornness.
+- **7594**: A burnite shelly...? Where have I heardy that namey beforey...?
+- **7595**: Oh, I knowy! Doctor Yoran-Oran once mentionedy it, I thinky.
+- **7627**: Why don't you try asking the othery professors abouty this "alchemy"?
+- **7628**: One of them mighty be secretly researching it!
+- **7891**: According to Principal Koru-Moru, there was once a great beasty that occasionally appeared in Sarutabaruta and ate any Tarutaru who happenedy to wandery by.
+- **7892**: I'm sure gladdy I livey in an age when such beasties no longer existy!
 
 ## Events
 
@@ -220,10 +220,10 @@
 
 ```
   0: 0x0045 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x01)
-  1: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+  1: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "According to Principal Koru-Moru, there was once a great beasty that occasionally appeared in Sarutabaruta and ate any Tarutaru who happenedy to wandery by."
   2: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+  3: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "I'm sure gladdy I livey in an age when such beasties no longer existy!"
   4: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0054 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x02)
@@ -278,7 +278,7 @@
   1: 0x0065 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0066 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0067 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x01)
-  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+  4: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "<Sigh> When I sawy the falling stary the other day I made a wishy. I wishyed that Principal Koru-Moru would stoppy acting like a baby and get overy his stubbornness."
   5: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0072 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x02)
@@ -312,10 +312,10 @@
   1: 0x0082 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0083 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0084 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x01)
-  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "A burnite shelly...? Where have I heardy that namey beforey...?"
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+  6: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "Oh, I knowy! Doctor Yoran-Oran once mentionedy it, I thinky."
   7: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0093 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x02)
@@ -349,10 +349,10 @@
   1: 0x00A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x01)
-  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
+  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
     → "Why don't you try asking the othery professors abouty this "alchemy"?"
   5: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
+  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
     → "One of them mighty be secretly researching it!"
   7: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Maan-Pokuun (ID: 17756195/0x010EF023), tag_num=0x02)

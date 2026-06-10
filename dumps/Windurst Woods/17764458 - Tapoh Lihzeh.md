@@ -43,59 +43,59 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x216E      |        8558 |
-|       3 | 0x216F      |        8559 |
-|       4 | 0x21EF      |        8687 |
-|       5 | 0x21F0      |        8688 |
-|       6 | 0x21F1      |        8689 |
-|       7 | 0x21F2      |        8690 |
+|       2 | 0x216F      |        8559 |
+|       3 | 0x2170      |        8560 |
+|       4 | 0x21F0      |        8688 |
+|       5 | 0x21F1      |        8689 |
+|       6 | 0x21F2      |        8690 |
+|       7 | 0x21F3      |        8691 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x21F3      |        8691 |
+|      10 | 0x21F4      |        8692 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x21F4      |        8692 |
-|      13 | 0x21F5      |        8693 |
-|      14 | 0x21F6      |        8694 |
-|      15 | 0x21F7      |        8695 |
-|      16 | 0x21F8      |        8696 |
+|      12 | 0x21F5      |        8693 |
+|      13 | 0x21F6      |        8694 |
+|      14 | 0x21F7      |        8695 |
+|      15 | 0x21F8      |        8696 |
+|      16 | 0x21F9      |        8697 |
 |      17 | 0x00C9      |         201 |
-|      18 | 0x21F9      |        8697 |
-|      19 | 0x1F16      |        7958 |
-|      20 | 0x1F17      |        7959 |
-|      21 | 0x1F18      |        7960 |
-|      22 | 0x1F19      |        7961 |
-|      23 | 0x1F1A      |        7962 |
-|      24 | 0x1F1B      |        7963 |
-|      25 | 0x1F1C      |        7964 |
-|      26 | 0x1F1D      |        7965 |
-|      27 | 0x1F1E      |        7966 |
-|      28 | 0x1F1F      |        7967 |
+|      18 | 0x21FA      |        8698 |
+|      19 | 0x1F17      |        7959 |
+|      20 | 0x1F18      |        7960 |
+|      21 | 0x1F19      |        7961 |
+|      22 | 0x1F1A      |        7962 |
+|      23 | 0x1F1B      |        7963 |
+|      24 | 0x1F1C      |        7964 |
+|      25 | 0x1F1D      |        7965 |
+|      26 | 0x1F1E      |        7966 |
+|      27 | 0x1F1F      |        7967 |
+|      28 | 0x1F20      |        7968 |
 
 ## String References
 
-- **7958**: You came from the Chocobo Stables, did you? So you're afterrr that secret cure-all of mine, then?
-- **7959**: The trrruth is, I lack a vital ingredient needed to make that medicament. It's called $1.
-- **7960**: Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta.
-- **7961**: So, if you come by any $1 somewhere, then please bring it to me!
-- **7962**: Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta. So, I can't make the medicament to help that poorrr chocobo.
-- **7963**: If you happen to come by any $1 somewhere, then please brrring it to me!
-- **7964**: You managed to get hold of $1? You did well to find such a rarrre plant!
-- **7965**: Now I can make my secret cure-all medicament. Thank you!
-- **7966**: Oh...and tell Kuoh Rhel back at the Chocobo Stables to hold on a little while longerrr.
-- **7967**: I'm starrrting to make the medicament now. So please tell Kuoh Rhel at the Chocobo Stables to hang in there forrr a little bit longer.
-- **8558**: I am Tapoh Lihzeh the apothecarrry. Is there something you want from me, or are you looking for my daughterrr?
-- **8559**: If you are after my daughterrr, then I suggest you head overrr to Windurst Waters. She's studying at the School of Magic there.
-- **8687**: Hmm... Our top seller is too popularrr for its own good. Even ourrr hidden stash has almost run out.
-- **8688**: I'll need to get my paws on some good $1 and $2 in orderrr to make some more.
-- **8689**: Oh! Hey...you're an adventurerrr, aren't you? I'm surrre you've seen either one of these at some time or another. Well, if you happen to come by any of them, would you be so good as to bring me some?
-- **8690**: Agree to help? [Yes./No.]
-- **8691**: I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Please sell me whateverrr you find.
-- **8692**: I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Bring me whateverrr you can find!
-- **8693**: Mmm... Thanks forrr bringing me such exceedingly good quality material. I'll be able to make some prrretty good lipstick out of this lot.
-- **8694**: Mmm... Thanks forrr bringing me such exceedingly good quality material. These will make perrrfect holders for my special lipstick.
-- **8695**: Traditionally Mithra never worrre lipstick, but lately it's all the rage among the young cubs.
-- **8696**: My lipstick is always selling out, so keep the supply of $1 and $2 coming! As you can see, I pay a good price, so please sell whatever you find directly to me.
-- **8697**: If you come across any more $1 or $2, then please sell whateverrr you find directly to me. I'll make surrre to give you the best price around.
+- **7959**: You came from the Chocobo Stables, did you? So you're afterrr that secret cure-all of mine, then?
+- **7960**: The trrruth is, I lack a vital ingredient needed to make that medicament. It's called $1.
+- **7961**: Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta.
+- **7962**: So, if you come by any $1 somewhere, then please bring it to me!
+- **7963**: Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta. So, I can't make the medicament to help that poorrr chocobo.
+- **7964**: If you happen to come by any $1 somewhere, then please brrring it to me!
+- **7965**: You managed to get hold of $1? You did well to find such a rarrre plant!
+- **7966**: Now I can make my secret cure-all medicament. Thank you!
+- **7967**: Oh...and tell Kuoh Rhel back at the Chocobo Stables to hold on a little while longerrr.
+- **7968**: I'm starrrting to make the medicament now. So please tell Kuoh Rhel at the Chocobo Stables to hang in there forrr a little bit longer.
+- **8559**: I am Tapoh Lihzeh the apothecarrry. Is there something you want from me, or are you looking for my daughterrr?
+- **8560**: If you are after my daughterrr, then I suggest you head overrr to Windurst Waters. She's studying at the School of Magic there.
+- **8688**: Hmm... Our top seller is too popularrr for its own good. Even ourrr hidden stash has almost run out.
+- **8689**: I'll need to get my paws on some good $1 and $2 in orderrr to make some more.
+- **8690**: Oh! Hey...you're an adventurerrr, aren't you? I'm surrre you've seen either one of these at some time or another. Well, if you happen to come by any of them, would you be so good as to bring me some?
+- **8691**: Agree to help? [Yes./No.]
+- **8692**: I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Please sell me whateverrr you find.
+- **8693**: I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Bring me whateverrr you can find!
+- **8694**: Mmm... Thanks forrr bringing me such exceedingly good quality material. I'll be able to make some prrretty good lipstick out of this lot.
+- **8695**: Mmm... Thanks forrr bringing me such exceedingly good quality material. These will make perrrfect holders for my special lipstick.
+- **8696**: Traditionally Mithra never worrre lipstick, but lately it's all the rage among the young cubs.
+- **8697**: My lipstick is always selling out, so keep the supply of $1 and $2 coming! As you can see, I pay a good price, so please sell whatever you find directly to me.
+- **8698**: If you come across any more $1 or $2, then please sell whateverrr you find directly to me. I'll make surrre to give you the best price around.
 
 ## Events
 
@@ -364,10 +364,10 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=8558*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
     → "I am Tapoh Lihzeh the apothecarrry. Is there something you want from me, or are you looking for my daughterrr?"
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
+  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
     → "If you are after my daughterrr, then I suggest you head overrr to Windurst Waters. She's studying at the School of Magic there."
   7: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)
@@ -402,22 +402,22 @@
   0: 0x00AB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8687*)
+  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8688*)
     → "Hmm... Our top seller is too popularrr for its own good. Even ourrr hidden stash has almost run out."
   4: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8688*)
+  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8689*)
     → "I'll need to get my paws on some good $1 and $2 in orderrr to make some more."
   6: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8689*)
+  7: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8690*)
     → "Oh! Hey...you're an adventurerrr, aren't you? I'm surrre you've seen either one of these at some time or another. Well, if you happen to come by any of them, would you be so good as to bring me some?"
   8: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00BE [0x24] CREATE_DIALOG(message_id=8690*, default_option=0*, option_flags=0*)
+  9: 0x00BE [0x24] CREATE_DIALOG(message_id=8691*, default_option=0*, option_flags=0*)
     → "Agree to help? [Yes./No.]"
  10: 0x00C5 [0x25] WAIT_DIALOG_SELECT()
  11: 0x00C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DB
  12: 0x00CE [0x42] SET_CLI_EVENT_CANCEL_DATA()
  13: 0x00CF [0x03] Work_Zone[1] = 1*
- 14: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8691*)
+ 14: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8692*)
     → "I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Please sell me whateverrr you find."
  15: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00D8 [0x01] GOTO 0x00EB
@@ -454,7 +454,7 @@ SUBROUTINE_00EB:
   0: 0x00EF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8692*)
+  3: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8693*)
     → "I'll give you $3 gil forrr three $1 and $4 gil forrr two $2. Bring me whateverrr you can find!"
   4: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00FA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -493,20 +493,20 @@ SUBROUTINE_00EB:
   4: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0108 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x011C
   6: 0x0110 [0x03] Work_Zone[1] = 0*
-  7: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8693*)
+  7: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8694*)
     → "Mmm... Thanks forrr bringing me such exceedingly good quality material. I'll be able to make some prrretty good lipstick out of this lot."
   8: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0119 [0x01] GOTO 0x0125
  10: 0x011C [0x03] Work_Zone[1] = 1*
- 11: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8694*)
+ 11: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8695*)
     → "Mmm... Thanks forrr bringing me such exceedingly good quality material. These will make perrrfect holders for my special lipstick."
  12: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0125:
- 13: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=8695*)
+ 13: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=8696*)
     → "Traditionally Mithra never worrre lipstick, but lately it's all the rage among the young cubs."
  14: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=8696*)
+ 15: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=8697*)
     → "My lipstick is always selling out, so keep the supply of $1 and $2 coming! As you can see, I pay a good price, so please sell whatever you find directly to me."
  16: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x012D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -538,7 +538,7 @@ SUBROUTINE_0125:
   0: 0x0142 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8697*)
+  3: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8698*)
     → "If you come across any more $1 or $2, then please sell whateverrr you find directly to me. I'll make surrre to give you the best price around."
   4: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x014D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -598,12 +598,12 @@ SUBROUTINE_0125:
 
 ```
   0: 0x016A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x03)
-  1: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+  1: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "You came from the Chocobo Stables, did you? So you're afterrr that secret cure-all of mine, then?"
   2: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0175 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x04)
   4: 0x017C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x05)
-  5: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
+  5: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
     → "The trrruth is, I lack a vital ingredient needed to make that medicament. It's called $1."
   6: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0187 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x06)
@@ -632,10 +632,10 @@ SUBROUTINE_0125:
 
 ```
   0: 0x018F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  1: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+  1: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta."
   2: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+  3: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "So, if you come by any $1 somewhere, then please bring it to me!"
   4: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x019E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)
@@ -667,10 +667,10 @@ SUBROUTINE_0125:
   1: 0x01AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01AC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  4: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+  4: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "Accorrrding to the staff of the dhalmel farm, there aren't any $1 left in Sarutabaruta. So, I can't make the medicament to help that poorrr chocobo."
   5: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
+  6: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
     → "If you happen to come by any $1 somewhere, then please brrring it to me!"
   7: 0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)
@@ -733,10 +733,10 @@ SUBROUTINE_0125:
 
 ```
   0: 0x01E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  1: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  1: 0x01EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "You managed to get hold of $1? You did well to find such a rarrre plant!"
   2: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  3: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Now I can make my secret cure-all medicament. Thank you!"
   4: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)
@@ -764,7 +764,7 @@ SUBROUTINE_0125:
 
 ```
   0: 0x01FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  1: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+  1: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "Oh...and tell Kuoh Rhel back at the Chocobo Stables to hold on a little while longerrr."
   2: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0205 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)
@@ -796,7 +796,7 @@ SUBROUTINE_0125:
   1: 0x0212 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0213 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0214 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x01)
-  4: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  4: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "I'm starrrting to make the medicament now. So please tell Kuoh Rhel at the Chocobo Stables to hang in there forrr a little bit longer."
   5: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x021F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tapoh Lihzeh (ID: 17764458/0x010F106A), tag_num=0x09)

@@ -30,11 +30,11 @@
 |       3 | 0x00C9      |         201 |
 |       4 | 0x008C      |         140 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DCB      |        7627 |
+|       6 | 0x1DCC      |        7628 |
 
 ## String References
 
-- **7627**: Abort mission? [Yes./No.]
+- **7628**: Abort mission? [Yes./No.]
 
 ## Events
 
@@ -192,7 +192,7 @@
 
 ```
   0: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0055 [0x24] CREATE_DIALOG(message_id=7627*, default_option=1*, option_flags=0*)
+  1: 0x0055 [0x24] CREATE_DIALOG(message_id=7628*, default_option=1*, option_flags=0*)
     → "Abort mission? [Yes./No.]"
   2: 0x005C [0x25] WAIT_DIALOG_SELECT()
   3: 0x005D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0072

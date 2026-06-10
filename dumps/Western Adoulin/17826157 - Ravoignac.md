@@ -22,9 +22,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0004      |           4 |
-|       1 | 0x2FED      |       12269 |
+|       1 | 0x2FEE      |       12270 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2FEE      |       12270 |
+|       3 | 0x2FEF      |       12271 |
 |       4 | 0x000F      |          15 |
 |       5 | 0x0010      |          16 |
 |       6 | 0x001F      |          31 |
@@ -34,10 +34,10 @@
 |      10 | 0x01F4      |         500 |
 |      11 | 0x0064      |         100 |
 |      12 | 0xFFFFFFFF  |  4294967295 |
-|      13 | 0x2FEF      |       12271 |
+|      13 | 0x2FF0      |       12272 |
 |      14 | 0x0014      |          20 |
-|      15 | 0x2FF1      |       12273 |
-|      16 | 0x2FF0      |       12272 |
+|      15 | 0x2FF2      |       12274 |
+|      16 | 0x2FF1      |       12273 |
 |      17 | 0x0007      |           7 |
 |      18 | 0x0028      |          40 |
 |      19 | 0x0105      |         261 |
@@ -50,8 +50,8 @@
 |      26 | 0x0003      |           3 |
 |      27 | 0x0005      |           5 |
 |      28 | 0x086D      |        2157 |
-|      29 | 0x304B      |       12363 |
-|      30 | 0x304C      |       12364 |
+|      29 | 0x304C      |       12364 |
+|      30 | 0x304D      |       12365 |
 |      31 | 0x0002      |           2 |
 |      32 | 0x0013      |          19 |
 |      33 | 0x001E      |          30 |
@@ -61,11 +61,11 @@
 
 ## String References
 
-- **12269**: Itching to know about either frontier bivouacs' construction status or durability? Then you have come to the right person, [sir/ma'am].
-- **12270**: View for which area? [None./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-- **12271**: Which bivouac? ($8) [None./F. Bivouac #1. ($9% constructed)/F. Bivouac #2. ($10% constructed)/F. Bivouac #3. ($11% constructed)/F. Bivouac #4. ($12% constructed)/F. Bivouac #5. ($13% constructed)]
-- **12272**: Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is currently at $2 percent durability. [It's in dire need of immediate frontline support!/I highly suggest providing frontline support to it in the near future./You might want to think about providing frontline support to it eventually./It seems relatively sturdy./It's still sturdy enough that you have nothing to worry about.]
-- **12273**: Construction on Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is $2 percent complete. In other words, [it hasn't even started/it's just begun/it's gathering steam/it's progressing splendidly/it's progressed to a great degree/it's come exceptionally far].
+- **12270**: Itching to know about either frontier bivouacs' construction status or durability? Then you have come to the right person, [sir/ma'am].
+- **12271**: View for which area? [None./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+- **12272**: Which bivouac? ($8) [None./F. Bivouac #1. ($9% constructed)/F. Bivouac #2. ($10% constructed)/F. Bivouac #3. ($11% constructed)/F. Bivouac #4. ($12% constructed)/F. Bivouac #5. ($13% constructed)]
+- **12273**: Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is currently at $2 percent durability. [It's in dire need of immediate frontline support!/I highly suggest providing frontline support to it in the near future./You might want to think about providing frontline support to it eventually./It seems relatively sturdy./It's still sturdy enough that you have nothing to worry about.]
+- **12274**: Construction on Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is $2 percent complete. In other words, [it hasn't even started/it's just begun/it's gathering steam/it's progressing splendidly/it's progressed to a great degree/it's come exceptionally far].
 
 ## Events
 
@@ -212,14 +212,14 @@
 
 ```
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12269*)
+  1: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12270*)
     → "Itching to know about either frontier bivouacs' construction status or durability? Then you have come to the right person, [sir/ma'am]."
   2: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0017 [0x06] ExtData[1]->WorkLocal[1] = 0
   4: 0x001A [0x06] ExtData[1]->WorkLocal[2] = 0
   5: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x01E9
   6: 0x0025 [0x1A] CALL_SUBROUTINE(address=0x01EB)
-  7: 0x0028 [0x24] CREATE_DIALOG(message_id=12270*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[0])
+  7: 0x0028 [0x24] CREATE_DIALOG(message_id=12271*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[0])
     → "View for which area? [None./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]"
   8: 0x002F [0x25] WAIT_DIALOG_SELECT()
   9: 0x0030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
@@ -284,7 +284,7 @@ SUBROUTINE_0118:
  58: 0x0139 [0x06] ExtData[1]->WorkLocal[3] = 0
  59: 0x013C [0x40] SET_BIT_WORK_RANGE(start_bit=ExtData[1]->WorkLocal[9], end_bit=31*, target=ExtData[1]->WorkLocal[3], source=4294967295*)
  60: 0x0145 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
- 61: 0x014A [0x24] CREATE_DIALOG(message_id=12271*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[3])
+ 61: 0x014A [0x24] CREATE_DIALOG(message_id=12272*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[3])
     → "Which bivouac? ($8) [None./F. Bivouac #1. ($9% constructed)/F. Bivouac #2. ($10% constructed)/F. Bivouac #3. ($11% constructed)/F. Bivouac #4. ($12% constructed)/F. Bivouac #5. ($13% constructed)]"
  62: 0x0151 [0x25] WAIT_DIALOG_SELECT()
  63: 0x0152 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0160
@@ -314,11 +314,11 @@ SUBROUTINE_01B9:
  83: 0x01C3 [0x02] IF !(Work_Zone[5] <= 4*) GOTO 0x01D0
  84: 0x01CB [0x03] Work_Zone[5] = 4*
  85: 0x01D0 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01DF
- 86: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12273*)
+ 86: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12274*)
     → "Construction on Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is $2 percent complete. In other words, [it hasn't even started/it's just begun/it's gathering steam/it's progressing splendidly/it's progressed to a great degree/it's come exceptionally far]."
  87: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x01DC [0x01] GOTO 0x01E3
- 89: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12272*)
+ 89: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=12273*)
     → "Frontier Bivouac[/ #1/ #2/ #3/ #4/ #5] is currently at $2 percent durability. [It's in dire need of immediate frontline support!/I highly suggest providing frontline support to it in the near future./You might want to think about providing frontline support to it eventually./It seems relatively sturdy./It's still sturdy enough that you have nothing to worry about.]"
  90: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

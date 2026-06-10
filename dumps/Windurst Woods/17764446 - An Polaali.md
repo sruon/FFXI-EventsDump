@@ -45,17 +45,17 @@
 |       1 | 0x0034      |          52 |
 |       2 | 0x0035      |          53 |
 |       3 | 0x001E      |          30 |
-|       4 | 0x1D8C      |        7564 |
-|       5 | 0x212C      |        8492 |
-|       6 | 0x2131      |        8497 |
-|       7 | 0x2132      |        8498 |
+|       4 | 0x1D8D      |        7565 |
+|       5 | 0x212D      |        8493 |
+|       6 | 0x2132      |        8498 |
+|       7 | 0x2133      |        8499 |
 
 ## String References
 
-- **7564**: My name is An Polaali. I've parrrtnered up here with An Shanaa 'cause we are the best.
-- **8492**: Woowee...! We overhearrrd you! Seems our boss has a darrring side to her after all!t
-- **8497**: So it was just anotherrr Mithra who has a similarrr name to our boss, Hae Jakkya, who borrowed the saucy romance novel... Well, that was a letdown!
-- **8498**: What a borrring outcome.
+- **7565**: My name is An Polaali. I've parrrtnered up here with An Shanaa 'cause we are the best.
+- **8493**: Woowee...! We overhearrrd you! Seems our boss has a darrring side to her after all!t
+- **8498**: So it was just anotherrr Mithra who has a similarrr name to our boss, Hae Jakkya, who borrowed the saucy romance novel... Well, that was a letdown!
+- **8499**: What a borrring outcome.
 
 ## Events
 
@@ -564,7 +564,7 @@
   1: 0x0129 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x0F)
-  4: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+  4: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "My name is An Polaali. I've parrrtnered up here with An Shanaa 'cause we are the best."
   5: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x11)
@@ -599,7 +599,7 @@
   1: 0x014D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x0F)
-  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
+  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8493*)
     → "Woowee...! We overhearrrd you! Seems our boss has a darrring side to her after all!t"
   5: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x015A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x11)
@@ -636,12 +636,12 @@
   1: 0x0171 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0172 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0173 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x09)
-  4: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
+  4: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
     → "So it was just anotherrr Mithra who has a similarrr name to our boss, Hae Jakkya, who borrowed the saucy romance novel... Well, that was a letdown!"
   5: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x017E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x0A)
   7: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x0B)
-  8: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
+  8: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
     → "What a borrring outcome."
   9: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0190 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=An Polaali (ID: 17764446/0x010F105E), tag_num=0x0D)

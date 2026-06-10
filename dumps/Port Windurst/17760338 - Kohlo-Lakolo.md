@@ -260,7 +260,7 @@
 |      24 | 0x0009      |           9 |
 |      25 | 0x103F      |        4159 |
 |      26 | 0x1040      |        4160 |
-|      27 | 0x312B      |       12587 |
+|      27 | 0x312C      |       12588 |
 |      28 | 0x000B      |          11 |
 |      29 | 0x0015      |          21 |
 |      30 | 0xFFFF8A73  |  4294937203 |
@@ -537,116 +537,116 @@
 |     301 | 0x0F8A      |        3978 |
 |     302 | 0x0F90      |        3984 |
 |     303 | 0x0F91      |        3985 |
-|     304 | 0x2E5D      |       11869 |
-|     305 | 0x2E5E      |       11870 |
-|     306 | 0x2E5F      |       11871 |
-|     307 | 0x2E60      |       11872 |
-|     308 | 0x2E61      |       11873 |
-|     309 | 0x2E62      |       11874 |
+|     304 | 0x2E5E      |       11870 |
+|     305 | 0x2E5F      |       11871 |
+|     306 | 0x2E60      |       11872 |
+|     307 | 0x2E61      |       11873 |
+|     308 | 0x2E62      |       11874 |
+|     309 | 0x2E63      |       11875 |
 |     310 | 0x1000      |        4096 |
 |     311 | 0x00F7      |         247 |
-|     312 | 0x3081      |       12417 |
-|     313 | 0x3082      |       12418 |
-|     314 | 0x3083      |       12419 |
-|     315 | 0x308B      |       12427 |
-|     316 | 0x308C      |       12428 |
-|     317 | 0x309B      |       12443 |
-|     318 | 0x309C      |       12444 |
-|     319 | 0x309D      |       12445 |
+|     312 | 0x3082      |       12418 |
+|     313 | 0x3083      |       12419 |
+|     314 | 0x3084      |       12420 |
+|     315 | 0x308C      |       12428 |
+|     316 | 0x308D      |       12429 |
+|     317 | 0x309C      |       12444 |
+|     318 | 0x309D      |       12445 |
+|     319 | 0x309E      |       12446 |
 |     320 | 0xFFFFA1A3  |  4294943139 |
 |     321 | 0x2EC97     |      191639 |
 |     322 | 0x0169      |         361 |
-|     323 | 0x309E      |       12446 |
-|     324 | 0x309F      |       12447 |
-|     325 | 0x30A5      |       12453 |
-|     326 | 0x30A7      |       12455 |
+|     323 | 0x309F      |       12447 |
+|     324 | 0x30A0      |       12448 |
+|     325 | 0x30A6      |       12454 |
+|     326 | 0x30A8      |       12456 |
 |     327 | 0x018E      |         398 |
-|     328 | 0x30A9      |       12457 |
-|     329 | 0x30AA      |       12458 |
-|     330 | 0x30AB      |       12459 |
-|     331 | 0x308D      |       12429 |
-|     332 | 0x308E      |       12430 |
-|     333 | 0x30AC      |       12460 |
-|     334 | 0x30AD      |       12461 |
-|     335 | 0x30AE      |       12462 |
-|     336 | 0x30BC      |       12476 |
-|     337 | 0x30BD      |       12477 |
-|     338 | 0x30BE      |       12478 |
-|     339 | 0x30BF      |       12479 |
-|     340 | 0x30C0      |       12480 |
-|     341 | 0x30C6      |       12486 |
-|     342 | 0x30CC      |       12492 |
-|     343 | 0x30CE      |       12494 |
-|     344 | 0x30D2      |       12498 |
-|     345 | 0x30D3      |       12499 |
-|     346 | 0x30D4      |       12500 |
-|     347 | 0x30D5      |       12501 |
-|     348 | 0x30E1      |       12513 |
+|     328 | 0x30AA      |       12458 |
+|     329 | 0x30AB      |       12459 |
+|     330 | 0x30AC      |       12460 |
+|     331 | 0x308E      |       12430 |
+|     332 | 0x308F      |       12431 |
+|     333 | 0x30AD      |       12461 |
+|     334 | 0x30AE      |       12462 |
+|     335 | 0x30AF      |       12463 |
+|     336 | 0x30BD      |       12477 |
+|     337 | 0x30BE      |       12478 |
+|     338 | 0x30BF      |       12479 |
+|     339 | 0x30C0      |       12480 |
+|     340 | 0x30C1      |       12481 |
+|     341 | 0x30C7      |       12487 |
+|     342 | 0x30CD      |       12493 |
+|     343 | 0x30CF      |       12495 |
+|     344 | 0x30D3      |       12499 |
+|     345 | 0x30D4      |       12500 |
+|     346 | 0x30D5      |       12501 |
+|     347 | 0x30D6      |       12502 |
+|     348 | 0x30E2      |       12514 |
 |     349 | 0x07E8      |        2024 |
-|     350 | 0x30E9      |       12521 |
-|     351 | 0x30EA      |       12522 |
-|     352 | 0x30EC      |       12524 |
-|     353 | 0x30EE      |       12526 |
-|     354 | 0x30EF      |       12527 |
+|     350 | 0x30EA      |       12522 |
+|     351 | 0x30EB      |       12523 |
+|     352 | 0x30ED      |       12525 |
+|     353 | 0x30EF      |       12527 |
+|     354 | 0x30F0      |       12528 |
 |     355 | 0x0050      |          80 |
-|     356 | 0x30F1      |       12529 |
-|     357 | 0x30F2      |       12530 |
-|     358 | 0x30F3      |       12531 |
-|     359 | 0x30F4      |       12532 |
-|     360 | 0x30F6      |       12534 |
-|     361 | 0x30F8      |       12536 |
-|     362 | 0x30F9      |       12537 |
-|     363 | 0x30FA      |       12538 |
-|     364 | 0x30FB      |       12539 |
-|     365 | 0x30FC      |       12540 |
-|     366 | 0x30FD      |       12541 |
-|     367 | 0x30FE      |       12542 |
-|     368 | 0x30E2      |       12514 |
-|     369 | 0x30E4      |       12516 |
-|     370 | 0x30E5      |       12517 |
-|     371 | 0x30FF      |       12543 |
-|     372 | 0x3100      |       12544 |
+|     356 | 0x30F2      |       12530 |
+|     357 | 0x30F3      |       12531 |
+|     358 | 0x30F4      |       12532 |
+|     359 | 0x30F5      |       12533 |
+|     360 | 0x30F7      |       12535 |
+|     361 | 0x30F9      |       12537 |
+|     362 | 0x30FA      |       12538 |
+|     363 | 0x30FB      |       12539 |
+|     364 | 0x30FC      |       12540 |
+|     365 | 0x30FD      |       12541 |
+|     366 | 0x30FE      |       12542 |
+|     367 | 0x30FF      |       12543 |
+|     368 | 0x30E3      |       12515 |
+|     369 | 0x30E5      |       12517 |
+|     370 | 0x30E6      |       12518 |
+|     371 | 0x3100      |       12544 |
+|     372 | 0x3101      |       12545 |
 |     373 | 0xFFFFAAFF  |  4294945535 |
 |     374 | 0x2E790     |      190352 |
 |     375 | 0xFFFFAD41  |  4294946113 |
 |     376 | 0xFFFFC03F  |  4294950975 |
-|     377 | 0x3118      |       12568 |
-|     378 | 0x3119      |       12569 |
-|     379 | 0x311A      |       12570 |
-|     380 | 0x311D      |       12573 |
-|     381 | 0x311E      |       12574 |
-|     382 | 0x311F      |       12575 |
-|     383 | 0x310F      |       12559 |
-|     384 | 0x3110      |       12560 |
-|     385 | 0x3126      |       12582 |
-|     386 | 0x3127      |       12583 |
+|     377 | 0x3119      |       12569 |
+|     378 | 0x311A      |       12570 |
+|     379 | 0x311B      |       12571 |
+|     380 | 0x311E      |       12574 |
+|     381 | 0x311F      |       12575 |
+|     382 | 0x3120      |       12576 |
+|     383 | 0x3110      |       12560 |
+|     384 | 0x3111      |       12561 |
+|     385 | 0x3127      |       12583 |
+|     386 | 0x3128      |       12584 |
 |     387 | 0x009F      |         159 |
-|     388 | 0x3190      |       12688 |
-|     389 | 0x3191      |       12689 |
-|     390 | 0x3192      |       12690 |
-|     391 | 0x3193      |       12691 |
-|     392 | 0x3194      |       12692 |
-|     393 | 0x3195      |       12693 |
-|     394 | 0x3196      |       12694 |
-|     395 | 0x3197      |       12695 |
-|     396 | 0x3198      |       12696 |
-|     397 | 0x3199      |       12697 |
-|     398 | 0x319A      |       12698 |
-|     399 | 0x319B      |       12699 |
-|     400 | 0x319C      |       12700 |
-|     401 | 0x319D      |       12701 |
+|     388 | 0x3191      |       12689 |
+|     389 | 0x3192      |       12690 |
+|     390 | 0x3193      |       12691 |
+|     391 | 0x3194      |       12692 |
+|     392 | 0x3195      |       12693 |
+|     393 | 0x3196      |       12694 |
+|     394 | 0x3197      |       12695 |
+|     395 | 0x3198      |       12696 |
+|     396 | 0x3199      |       12697 |
+|     397 | 0x319A      |       12698 |
+|     398 | 0x319B      |       12699 |
+|     399 | 0x319C      |       12700 |
+|     400 | 0x319D      |       12701 |
+|     401 | 0x319E      |       12702 |
 |     402 | 0x0099      |         153 |
 |     403 | 0x0031      |          49 |
 |     404 | 0x0258      |         600 |
-|     405 | 0x319E      |       12702 |
-|     406 | 0x319F      |       12703 |
-|     407 | 0x31A0      |       12704 |
-|     408 | 0x31A1      |       12705 |
-|     409 | 0x31A2      |       12706 |
-|     410 | 0x31A3      |       12707 |
-|     411 | 0x31A4      |       12708 |
-|     412 | 0x31A5      |       12709 |
-|     413 | 0x31A6      |       12710 |
+|     405 | 0x319F      |       12703 |
+|     406 | 0x31A0      |       12704 |
+|     407 | 0x31A1      |       12705 |
+|     408 | 0x31A2      |       12706 |
+|     409 | 0x31A3      |       12707 |
+|     410 | 0x31A4      |       12708 |
+|     411 | 0x31A5      |       12709 |
+|     412 | 0x31A6      |       12710 |
+|     413 | 0x31A7      |       12711 |
 |     414 | 0x0C86      |        3206 |
 |     415 | 0x0C5C      |        3164 |
 |     416 | 0x00A7      |         167 |
@@ -802,66 +802,66 @@
 - **4376**: Oh, and what we told you just now has to be kept a secret from the grown-ups, okay? tCross you heart and hope to die, stick Cactuar needles in your eye?t
 - **4387**: Pichichi brought Joker back here with her, so we made him a member of the Star Onion Brigade.
 - **4388**: But you better keep it a secret from the other grown-ups. Cardians are under the control of the Manustery. If they find out about him, they'll take him away from us!
-- **11869**: Oh good, it's you, newbie! We were just searching for you!
-- **11870**: Joker brought us a pile of weapons from somewhere...
-- **11871**: I know they're not stolen or anything, but how are we supposed to use such heavy weaponry as this?
-- **11872**: You're a grown-up. Why don't you try and use this one? Anyway, here, take it... That'll make Joker happy.
-- **11873**: Newbie! If you find something interesting going down, make sure you let us know first!
-- **11874**: Why...? 'Cause that's the new first rule of our Star Onion Brigade!
-- **12417**: What are we gonna do? My head is all jumble-wumbled up.
-- **12418**: Ah, you there! You must do something to help the Star Onion Brigade!
-- **12419**: The rich old geezer living in Windurst Waters told us to give back the Mana Orb we got from Nanaa Mihgo!
-- **12427**: So now we're really deep in dhalmel doo-doo. The Star Onion Brigade will go from being heroes to zeroes!
-- **12428**: You're a famous adventurer, aren't you? Can't you think of anything to help us?
-- **12429**: That rich old geezer living in Windurst Waters told us to give back his Mana Orb.
-- **12430**: What are we gonna do? My head is all jumble-wumbled up.
-- **12443**: What happened? You went to the old geezer's place?
-- **12444**: ...Hmmm. A complete waste of time, huh? All that guy can say is "Give it back! Give it back!"
-- **12445**: Rightaru, we need to come up with a plan! Time for an emergency strategy meeting!
-- **12446**: Um, order in the court!
-- **12447**: Let's think of what we can do about Honoi-Gomoi's Mana Orb! Does anybody have any ideas?
-- **12453**: A fake Mana Orb... But how would we make one?
-- **12455**: Pichichi!
-- **12457**: ......
-- **12458**: You're right! The Star Onion Brigade stands for justice!
-- **12459**: Let's go to Windurst Waters and tell Honoi-Gomoi the truth!
+- **11870**: Oh good, it's you, newbie! We were just searching for you!
+- **11871**: Joker brought us a pile of weapons from somewhere...
+- **11872**: I know they're not stolen or anything, but how are we supposed to use such heavy weaponry as this?
+- **11873**: You're a grown-up. Why don't you try and use this one? Anyway, here, take it... That'll make Joker happy.
+- **11874**: Newbie! If you find something interesting going down, make sure you let us know first!
+- **11875**: Why...? 'Cause that's the new first rule of our Star Onion Brigade!
+- **12418**: What are we gonna do? My head is all jumble-wumbled up.
+- **12419**: Ah, you there! You must do something to help the Star Onion Brigade!
+- **12420**: The rich old geezer living in Windurst Waters told us to give back the Mana Orb we got from Nanaa Mihgo!
+- **12428**: So now we're really deep in dhalmel doo-doo. The Star Onion Brigade will go from being heroes to zeroes!
+- **12429**: You're a famous adventurer, aren't you? Can't you think of anything to help us?
+- **12430**: That rich old geezer living in Windurst Waters told us to give back his Mana Orb.
+- **12431**: What are we gonna do? My head is all jumble-wumbled up.
+- **12444**: What happened? You went to the old geezer's place?
+- **12445**: ...Hmmm. A complete waste of time, huh? All that guy can say is "Give it back! Give it back!"
+- **12446**: Rightaru, we need to come up with a plan! Time for an emergency strategy meeting!
+- **12447**: Um, order in the court!
+- **12448**: Let's think of what we can do about Honoi-Gomoi's Mana Orb! Does anybody have any ideas?
+- **12454**: A fake Mana Orb... But how would we make one?
+- **12456**: Pichichi!
+- **12458**: ......
+- **12459**: You're right! The Star Onion Brigade stands for justice!
 - **12460**: Let's go to Windurst Waters and tell Honoi-Gomoi the truth!
-- **12461**: I can't diss-a-sem-bull Joker, I just can't!
-- **12462**: What am I going to do...? What should we do, <Player>?
-- **12476**: I can't diss-a-sem-bull Joker, I just can't!
-- **12477**: On your Star Onion Brigade honor, you can't tell anybody that Joker is hiding in the ghosty house!
-- **12478**: ...... Going to the ghosty house brings back a lot of memories about Joker.
-- **12479**: Joker...
-- **12480**: ...I just can't do it! There's just no way I can take Joker to pieces!
-- **12486**: Yeah! That's a great idea!
-- **12492**: Joker is one of the good Cardians, but the grown-ups won't understand even if we try to explain.
-- **12494**: ...? What are you talking about, Pichichi?
-- **12498**: Aha! It's your turn to shine again, adventurer! Go talk to Pichichi's mom and get all the materials she needs!
-- **12499**: You want to help Joker, right? We need that $3!
-- **12500**: Okay! Let's get Joker out of Windurst before anyone discovers his hiding spot!
-- **12501**: Pichichi's mom will make the gadget we need, so it's your job to make sure she has all the materials!
-- **12513**: So this is $6.
-- **12514**: Pichichi's mom has come through for us again.
-- **12516**: Okay, let's get this to Joker...
-- **12517**: ...Aah!
-- **12543**: Joker...
-- **12544**: Don't... Don't you break your promise...
-- **12559**: ...Ah! Something happened while you were gone...!
-- **12560**: ...Actually, forget about it. I don't wanna talk about it right now.
-- **12568**: ...Where have you been? While you were gone, all sorts of crazy stuff happened...
-- **12569**: If we'd had an adventurer with us, things might have gone differently... You let us down on this one.
-- **12570**: Before I tell you what happened, you have to help us make $6!
-- **12573**: Getting the materials to make this gadget is no easy feat. We need to find $2, a very val-u-a-bull item.
-- **12574**: If you get Pichichi's mom to make us $6, we'll tell you all the exciting stuff that happened while you were gone.
+- **12461**: Let's go to Windurst Waters and tell Honoi-Gomoi the truth!
+- **12462**: I can't diss-a-sem-bull Joker, I just can't!
+- **12463**: What am I going to do...? What should we do, <Player>?
+- **12477**: I can't diss-a-sem-bull Joker, I just can't!
+- **12478**: On your Star Onion Brigade honor, you can't tell anybody that Joker is hiding in the ghosty house!
+- **12479**: ...... Going to the ghosty house brings back a lot of memories about Joker.
+- **12480**: Joker...
+- **12481**: ...I just can't do it! There's just no way I can take Joker to pieces!
+- **12487**: Yeah! That's a great idea!
+- **12493**: Joker is one of the good Cardians, but the grown-ups won't understand even if we try to explain.
+- **12495**: ...? What are you talking about, Pichichi?
+- **12499**: Aha! It's your turn to shine again, adventurer! Go talk to Pichichi's mom and get all the materials she needs!
+- **12500**: You want to help Joker, right? We need that $3!
+- **12501**: Okay! Let's get Joker out of Windurst before anyone discovers his hiding spot!
+- **12502**: Pichichi's mom will make the gadget we need, so it's your job to make sure she has all the materials!
+- **12514**: So this is $6.
+- **12515**: Pichichi's mom has come through for us again.
+- **12517**: Okay, let's get this to Joker...
+- **12518**: ...Aah!
+- **12544**: Joker...
+- **12545**: Don't... Don't you break your promise...
+- **12560**: ...Ah! Something happened while you were gone...!
+- **12561**: ...Actually, forget about it. I don't wanna talk about it right now.
+- **12569**: ...Where have you been? While you were gone, all sorts of crazy stuff happened...
+- **12570**: If we'd had an adventurer with us, things might have gone differently... You let us down on this one.
+- **12571**: Before I tell you what happened, you have to help us make $6!
+- **12574**: Getting the materials to make this gadget is no easy feat. We need to find $2, a very val-u-a-bull item.
 - **12575**: If you get Pichichi's mom to make us $6, we'll tell you all the exciting stuff that happened while you were gone.
-- **12582**: ...Where have you been? While you were gone, all sorts of crazy stuff happened...
-- **12583**: If you can bring us $6, I'll tell you what's been going on...
-- **12587**: I'll never break a promise!
-- **12702**: Children... Your lives here, your town, everything...
-- **12703**: I'll be watching over you... I have returned to this land...
-- **12708**: Joker came back to us. He kept his promise!
-- **12709**: He's not a Cardian anymore, but we can still recognize him. The Star Onion Brigade is whole again!
-- **12710**: Truth, justice, and the onion way! Defenders of love and dreams! We are the Star Onion Brigade!
+- **12576**: If you get Pichichi's mom to make us $6, we'll tell you all the exciting stuff that happened while you were gone.
+- **12583**: ...Where have you been? While you were gone, all sorts of crazy stuff happened...
+- **12584**: If you can bring us $6, I'll tell you what's been going on...
+- **12588**: I'll never break a promise!
+- **12703**: Children... Your lives here, your town, everything...
+- **12704**: I'll be watching over you... I have returned to this land...
+- **12709**: Joker came back to us. He kept his promise!
+- **12710**: He's not a Cardian anymore, but we can still recognize him. The Star Onion Brigade is whole again!
+- **12711**: Truth, justice, and the onion way! Defenders of love and dreams! We are the Star Onion Brigade!
 
 ## Events
 
@@ -1950,7 +1950,7 @@ SUBROUTINE_039C:
   3: 0x03B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x13)
   4: 0x03B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
   5: 0x03C0 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x03CF
-  6: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12587*)
+  6: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12588*)
     → "I'll never break a promise!"
   7: 0x03CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03CC [0x01] GOTO 0x0474
@@ -9480,22 +9480,22 @@ SUBROUTINE_557E:
   3: 0x58B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x58B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x58B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x12)
-  6: 0x58BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11869*)
+  6: 0x58BF [0x1D] PRINT_EVENT_MESSAGE(message_id=11870*)
     → "Oh good, it's you, newbie! We were just searching for you!"
   7: 0x58C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x58C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x13)
   9: 0x58CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x03)
- 10: 0x58D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11870*)
+ 10: 0x58D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11871*)
     → "Joker brought us a pile of weapons from somewhere..."
  11: 0x58D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x58D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x04)
  13: 0x58DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x05)
- 14: 0x58E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11871*)
+ 14: 0x58E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11872*)
     → "I know they're not stolen or anything, but how are we supposed to use such heavy weaponry as this?"
  15: 0x58E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x58E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x06)
  17: 0x58EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x18)
- 18: 0x58F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11872*)
+ 18: 0x58F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11873*)
     → "You're a grown-up. Why don't you try and use this one? Anyway, here, take it... That'll make Joker happy."
  19: 0x58F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x58F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x19)
@@ -9530,12 +9530,12 @@ SUBROUTINE_557E:
   1: 0x5909 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x590A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x590B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x14)
-  4: 0x5912 [0x1D] PRINT_EVENT_MESSAGE(message_id=11873*)
+  4: 0x5912 [0x1D] PRINT_EVENT_MESSAGE(message_id=11874*)
     → "Newbie! If you find something interesting going down, make sure you let us know first!"
   5: 0x5915 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x5916 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x15)
   7: 0x591D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
-  8: 0x5924 [0x1D] PRINT_EVENT_MESSAGE(message_id=11874*)
+  8: 0x5924 [0x1D] PRINT_EVENT_MESSAGE(message_id=11875*)
     → "Why...? 'Cause that's the new first rule of our Star Onion Brigade!"
   9: 0x5927 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x5928 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x11)
@@ -9640,7 +9640,7 @@ SUBROUTINE_557E:
  24: 0x59CC [0x1C] WAIT(120* ticks)
  25: 0x59CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  26: 0x59E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 27: 0x59F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12417*)
+ 27: 0x59F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12418*)
     → "What are we gonna do? My head is all jumble-wumbled up."
  28: 0x59F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x59F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -9652,12 +9652,12 @@ SUBROUTINE_557E:
  35: 0x5A39 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x5A4A
  36: 0x5A41 [0x4A] Joker (ID: 17760347/0x010F005B) looks at LocalPlayer
  37: 0x5A4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x05)
- 38: 0x5A51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12418*)
+ 38: 0x5A51 [0x1D] PRINT_EVENT_MESSAGE(message_id=12419*)
     → "Ah, you there! You must do something to help the Star Onion Brigade!"
  39: 0x5A54 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x5A55 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x06)
  41: 0x5A5C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
- 42: 0x5A63 [0x1D] PRINT_EVENT_MESSAGE(message_id=12419*)
+ 42: 0x5A63 [0x1D] PRINT_EVENT_MESSAGE(message_id=12420*)
     → "The rich old geezer living in Windurst Waters told us to give back the Mana Orb we got from Nanaa Mihgo!"
  43: 0x5A66 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x5A67 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
@@ -9704,10 +9704,10 @@ SUBROUTINE_5B6C:
 SUBROUTINE_5BDD:
  82: 0x5BDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  83: 0x5BEE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x12)
- 84: 0x5BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12427*)
+ 84: 0x5BF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12428*)
     → "So now we're really deep in dhalmel doo-doo. The Star Onion Brigade will go from being heroes to zeroes!"
  85: 0x5BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x5BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12428*)
+ 86: 0x5BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12429*)
     → "You're a famous adventurer, aren't you? Can't you think of anything to help us?"
  87: 0x5BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x5BFD [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -9854,18 +9854,18 @@ SUBROUTINE_5BDD:
  20: 0x5CD2 [0x1C] WAIT(120* ticks)
  21: 0x5CD5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  22: 0x5CE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 23: 0x5CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12443*)
+ 23: 0x5CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12444*)
     → "What happened? You went to the old geezer's place?"
  24: 0x5CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x5CFB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x05)
- 26: 0x5D02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12444*)
+ 26: 0x5D02 [0x1D] PRINT_EVENT_MESSAGE(message_id=12445*)
     → "...Hmmm. A complete waste of time, huh? All that guy can say is "Give it back! Give it back!""
  27: 0x5D05 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x5D06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x06)
  29: 0x5D0D [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=247*
  30: 0x5D1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  31: 0x5D2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
- 32: 0x5D34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12445*)
+ 32: 0x5D34 [0x1D] PRINT_EVENT_MESSAGE(message_id=12446*)
     → "Rightaru, we need to come up with a plan! Time for an emergency strategy meeting!"
  33: 0x5D37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x5D38 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x11)
@@ -9899,12 +9899,12 @@ SUBROUTINE_5BDD:
  62: 0x5E1C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  63: 0x5E2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  64: 0x5E3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
- 65: 0x5E45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12446*)
+ 65: 0x5E45 [0x1D] PRINT_EVENT_MESSAGE(message_id=12447*)
     → "Um, order in the court!"
  66: 0x5E48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x5E49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
  68: 0x5E50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
- 69: 0x5E57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12447*)
+ 69: 0x5E57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12448*)
     → "Let's think of what we can do about Honoi-Gomoi's Mana Orb! Does anybody have any ideas?"
  70: 0x5E5A [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x5E5B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
@@ -9931,7 +9931,7 @@ SUBROUTINE_5BDD:
  92: 0x5F1F [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=247*
  93: 0x5F2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  94: 0x5F3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x03)
- 95: 0x5F46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12453*)
+ 95: 0x5F46 [0x1D] PRINT_EVENT_MESSAGE(message_id=12454*)
     → "A fake Mana Orb... But how would we make one?"
  96: 0x5F49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x5F4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x04)
@@ -9949,7 +9949,7 @@ SUBROUTINE_5BDD:
 109: 0x5FBA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pichichi (ID: 17760341/0x010F0055), tag_num=0x62)
 110: 0x5FC1 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=247*
 111: 0x5FD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-112: 0x5FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12455*)
+112: 0x5FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12456*)
     → "Pichichi!"
 113: 0x5FE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x5FE5 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -9961,7 +9961,7 @@ SUBROUTINE_5BDD:
 120: 0x6029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
 121: 0x603A [0x4B] UPDATE_ENTITY_YAW(entity=Kohlo-Lakolo (ID: 17760338/0x010F0052), yaw=2.2°*)
 122: 0x6041 [0x7B] Kohlo-Lakolo (ID: 17760338/0x010F0052) stops talking
-123: 0x6046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12457*)
+123: 0x6046 [0x1D] PRINT_EVENT_MESSAGE(message_id=12458*)
     → "......"
 124: 0x6049 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x604A [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -9969,7 +9969,7 @@ SUBROUTINE_5BDD:
 127: 0x606A [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
 128: 0x606E [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 120*
 129: 0x6072 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
-130: 0x6077 [0x1D] PRINT_EVENT_MESSAGE(message_id=12458*)
+130: 0x6077 [0x1D] PRINT_EVENT_MESSAGE(message_id=12459*)
     → "You're right! The Star Onion Brigade stands for justice!"
 131: 0x607A [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x607B [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -9981,7 +9981,7 @@ SUBROUTINE_5BDD:
 138: 0x60C7 [0x4A] Pyo Nzon (ID: 17760343/0x010F0057) looks at Kohlo-Lakolo (ID: 17760338/0x010F0052)
 139: 0x60D0 [0x4A] Gomada-Vulmada (ID: 17760340/0x010F0054) looks at Kohlo-Lakolo (ID: 17760338/0x010F0052)
 140: 0x60D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
-141: 0x60E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12459*)
+141: 0x60E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12460*)
     → "Let's go to Windurst Waters and tell Honoi-Gomoi the truth!"
 142: 0x60E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x60E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x11)
@@ -10049,11 +10049,11 @@ SUBROUTINE_5BDD:
   0: 0x61BA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x61BF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x61C0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x61C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12429*)
+  3: 0x61C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12430*)
     → "That rich old geezer living in Windurst Waters told us to give back his Mana Orb."
   4: 0x61C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x61C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x03)
-  6: 0x61CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12430*)
+  6: 0x61CC [0x1D] PRINT_EVENT_MESSAGE(message_id=12431*)
     → "What are we gonna do? My head is all jumble-wumbled up."
   7: 0x61CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x61D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x04)
@@ -10089,7 +10089,7 @@ SUBROUTINE_5BDD:
   1: 0x61EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x61EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x61F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
-  4: 0x61F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12460*)
+  4: 0x61F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12461*)
     → "Let's go to Windurst Waters and tell Honoi-Gomoi the truth!"
   5: 0x61FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x61FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x11)
@@ -10124,12 +10124,12 @@ SUBROUTINE_5BDD:
   1: 0x620B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x620C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x620D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x03)
-  4: 0x6214 [0x1D] PRINT_EVENT_MESSAGE(message_id=12461*)
+  4: 0x6214 [0x1D] PRINT_EVENT_MESSAGE(message_id=12462*)
     → "I can't diss-a-sem-bull Joker, I just can't!"
   5: 0x6217 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x6218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x04)
   7: 0x621F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x05)
-  8: 0x6226 [0x1D] PRINT_EVENT_MESSAGE(message_id=12462*)
+  8: 0x6226 [0x1D] PRINT_EVENT_MESSAGE(message_id=12463*)
     → "What am I going to do...? What should we do, <Player>?"
   9: 0x6229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x622A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x06)
@@ -10164,12 +10164,12 @@ SUBROUTINE_5BDD:
   1: 0x623A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x623B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x623C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x03)
-  4: 0x6243 [0x1D] PRINT_EVENT_MESSAGE(message_id=12476*)
+  4: 0x6243 [0x1D] PRINT_EVENT_MESSAGE(message_id=12477*)
     → "I can't diss-a-sem-bull Joker, I just can't!"
   5: 0x6246 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x6247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x04)
   7: 0x624E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x05)
-  8: 0x6255 [0x1D] PRINT_EVENT_MESSAGE(message_id=12477*)
+  8: 0x6255 [0x1D] PRINT_EVENT_MESSAGE(message_id=12478*)
     → "On your Star Onion Brigade honor, you can't tell anybody that Joker is hiding in the ghosty house!"
   9: 0x6258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x6259 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x06)
@@ -10203,11 +10203,11 @@ SUBROUTINE_5BDD:
   1: 0x6269 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x626A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x626B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
-  4: 0x6272 [0x1D] PRINT_EVENT_MESSAGE(message_id=12478*)
+  4: 0x6272 [0x1D] PRINT_EVENT_MESSAGE(message_id=12479*)
     → "...... Going to the ghosty house brings back a lot of memories about Joker."
   5: 0x6275 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x6276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
-  7: 0x627D [0x1D] PRINT_EVENT_MESSAGE(message_id=12479*)
+  7: 0x627D [0x1D] PRINT_EVENT_MESSAGE(message_id=12480*)
     → "Joker..."
   8: 0x6280 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x6281 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -10543,7 +10543,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12480*)
+  0: 0x68D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12481*)
     → "...I just can't do it! There's just no way I can take Joker to pieces!"
   1: 0x68DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68DD [0x00] END_REQSTACK()
@@ -10569,7 +10569,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12486*)
+  0: 0x68DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12487*)
     → "Yeah! That's a great idea!"
   1: 0x68E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68E2 [0x00] END_REQSTACK()
@@ -10594,7 +10594,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12492*)
+  0: 0x68E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12493*)
     → "Joker is one of the good Cardians, but the grown-ups won't understand even if we try to explain."
   1: 0x68E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68E7 [0x00] END_REQSTACK()
@@ -10619,7 +10619,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12494*)
+  0: 0x68E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12495*)
     → "...? What are you talking about, Pichichi?"
   1: 0x68EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68EC [0x00] END_REQSTACK()
@@ -10645,7 +10645,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68ED [0x1D] PRINT_EVENT_MESSAGE(message_id=12498*)
+  0: 0x68ED [0x1D] PRINT_EVENT_MESSAGE(message_id=12499*)
     → "Aha! It's your turn to shine again, adventurer! Go talk to Pichichi's mom and get all the materials she needs!"
   1: 0x68F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68F1 [0x00] END_REQSTACK()
@@ -10670,7 +10670,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x68F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12499*)
+  0: 0x68F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12500*)
     → "You want to help Joker, right? We need that $3!"
   1: 0x68F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x68F6 [0x00] END_REQSTACK()
@@ -10702,12 +10702,12 @@ SUBROUTINE_64C0:
   1: 0x68FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x68FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x68FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x10)
-  4: 0x6905 [0x1D] PRINT_EVENT_MESSAGE(message_id=12500*)
+  4: 0x6905 [0x1D] PRINT_EVENT_MESSAGE(message_id=12501*)
     → "Okay! Let's get Joker out of Windurst before anyone discovers his hiding spot!"
   5: 0x6908 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x6909 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x11)
   7: 0x6910 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x14)
-  8: 0x6917 [0x1D] PRINT_EVENT_MESSAGE(message_id=12501*)
+  8: 0x6917 [0x1D] PRINT_EVENT_MESSAGE(message_id=12502*)
     → "Pichichi's mom will make the gadget we need, so it's your job to make sure she has all the materials!"
   9: 0x691A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x691B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x15)
@@ -10907,7 +10907,7 @@ SUBROUTINE_64C0:
  32: 0x69EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
  33: 0x69FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  34: 0x6A0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
- 35: 0x6A15 [0x1D] PRINT_EVENT_MESSAGE(message_id=12513*)
+ 35: 0x6A15 [0x1D] PRINT_EVENT_MESSAGE(message_id=12514*)
     → "So this is $6."
  36: 0x6A18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x6A19 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
@@ -10988,11 +10988,11 @@ SUBROUTINE_64C0:
 112: 0x6C88 [0x4B] UPDATE_ENTITY_YAW(entity=Ace of Wands (ID: 17760433/0x010F00B1), yaw=11.1°*)
 113: 0x6C8F [0x27] REQ_SET(priority=0x0B, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0xBD)
 114: 0x6C96 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052))
-115: 0x6C9C [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12521*]:
+115: 0x6C9C [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12522*]:
     → "Dammitaru! Let her go!"
 116: 0x6CA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x6CA4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x12)
-118: 0x6CAB [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12522*]:
+118: 0x6CAB [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12523*]:
     → "I'm not afraid of you, you don't scare me at all!"
 119: 0x6CB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x6CB3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17760341/0x010F0055), tag_num=0x09)
@@ -11001,7 +11001,7 @@ SUBROUTINE_64C0:
 123: 0x6CC8 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=247*
 124: 0x6CD7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
 125: 0x6CE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x13)
-126: 0x6CEF [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12524*]:
+126: 0x6CEF [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12525*]:
     → "Fools... Why are people such fools..."
 127: 0x6CF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x6CF7 [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -11017,7 +11017,7 @@ SUBROUTINE_64C0:
 138: 0x6D62 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [LocalPlayer, LocalPlayer], work=247*
 139: 0x6D71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
 140: 0x6D82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-141: 0x6D93 [0x2B] Joker (ID: 17760347/0x010F005B) [12526*]:
+141: 0x6D93 [0x2B] Joker (ID: 17760347/0x010F005B) [12527*]:
     → "...Enough."
 142: 0x6D9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x6D9B [0x4A] Ace of Wands (ID: 17760433/0x010F00B1) looks at Joker (ID: 17760347/0x010F005B)
@@ -11026,7 +11026,7 @@ SUBROUTINE_64C0:
 146: 0x6DBC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 147: 0x6DCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s081" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
 148: 0x6DDE [0x1C] WAIT(30* ticks)
-149: 0x6DE1 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12527*]:
+149: 0x6DE1 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12528*]:
     → "Joker!!!"
 150: 0x6DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x6DE9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Cups (ID: 17760432/0x010F00B0), tag_num=0x07)
@@ -11053,23 +11053,23 @@ SUBROUTINE_64C0:
 172: 0x6EA8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 173: 0x6EA9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ace of Swords (ID: 17760434/0x010F00B2) Render.Flags0 and Render.Flags3 conditions are met
 174: 0x6EAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17760434/0x010F00B2), tag_num=0x0D)
-175: 0x6EB5 [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12529*]:
+175: 0x6EB5 [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12530*]:
     → "Your Majesty!"
 176: 0x6EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x6EBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Swords (ID: 17760434/0x010F00B2), tag_num=0x0E)
 178: 0x6EC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17760433/0x010F00B1), tag_num=0x0D)
-179: 0x6ECB [0x2B] Ace of Wands (ID: 17760433/0x010F00B1) [12530*]:
+179: 0x6ECB [0x2B] Ace of Wands (ID: 17760433/0x010F00B1) [12531*]:
     → "Your Majesty!"
 180: 0x6ED2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x6ED3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17760433/0x010F00B1), tag_num=0x0E)
 182: 0x6EDA [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [LocalPlayer, LocalPlayer], work=247*
 183: 0x6EE9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-184: 0x6EFA [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12531*]:
+184: 0x6EFA [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12532*]:
     → "We have long awaited the return of our king."
 185: 0x6F01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x6F02 [0x4A] Ace of Wands (ID: 17760433/0x010F00B1) looks at Joker (ID: 17760347/0x010F005B)
 187: 0x6F0B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Joker (ID: 17760347/0x010F005B), tag_num=0x21)
-188: 0x6F12 [0x2B] Joker (ID: 17760347/0x010F005B) [12532*]:
+188: 0x6F12 [0x2B] Joker (ID: 17760347/0x010F005B) [12533*]:
     → "Aces. I have returned. And there is a task that I must perform."
 189: 0x6F19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x6F1A [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -11081,7 +11081,7 @@ SUBROUTINE_64C0:
 196: 0x6F52 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ace of Wands (ID: 17760433/0x010F00B1), tag_num=0x1C)
 197: 0x6F59 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 198: 0x6F5A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ace of Swords (ID: 17760434/0x010F00B2) Render.Flags0 and Render.Flags3 conditions are met
-199: 0x6F5F [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12534*]:
+199: 0x6F5F [0x2B] Ace of Swords (ID: 17760434/0x010F00B2) [12535*]:
     → "We live but to serve you, your Majesty."
 200: 0x6F66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x6F67 [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [LocalPlayer, LocalPlayer], work=247*
@@ -11094,7 +11094,7 @@ SUBROUTINE_64C0:
 208: 0x6FAA [0x27] REQ_SET(priority=0x0D, entity_id=Ace of Swords (ID: 17760434/0x010F00B2), tag_num=0x14)
 209: 0x6FB1 [0x27] REQ_SET(priority=0x0D, entity_id=Ace of Cups (ID: 17760432/0x010F00B0), tag_num=0x08)
 210: 0x6FB8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-211: 0x6FC9 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12536*]:
+211: 0x6FC9 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12537*]:
     → "...Jo, Joker..."
 212: 0x6FD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x6FD1 [0x1C] WAIT(120* ticks)
@@ -11110,40 +11110,40 @@ SUBROUTINE_64C0:
 223: 0x7030 [0x52] END_LOAD_SCHEDULER: End scheduler "s085" with entities [LocalPlayer, LocalPlayer], work=247*
 224: 0x703F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 225: 0x7050 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-226: 0x7061 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12537*]:
+226: 0x7061 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12538*]:
     → "...Joker! You can't go! Those Cardians are evil!"
 227: 0x7068 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x7069 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Joker (ID: 17760347/0x010F005B))
 229: 0x706F [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [LocalPlayer, LocalPlayer], work=247*
 230: 0x707E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
 231: 0x708F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0A)
-232: 0x7096 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12538*]:
+232: 0x7096 [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12539*]:
     → "They're not your friends! We're your friends! You can't leave with them!"
 233: 0x709D [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x709E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0B)
 235: 0x70A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=247*
 236: 0x70B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 237: 0x70C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-238: 0x70D6 [0x2B] Joker (ID: 17760347/0x010F005B) [12539*]:
+238: 0x70D6 [0x2B] Joker (ID: 17760347/0x010F005B) [12540*]:
     → "Thank you, my friends. I will always be a member of the Star Onion Brigade. I promise that one day I will return to stand at your side."
 239: 0x70DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x70DE [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=247*
 241: 0x70ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 242: 0x70FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-243: 0x710F [0x2B] Joker (ID: 17760347/0x010F005B) [12540*]:
+243: 0x710F [0x2B] Joker (ID: 17760347/0x010F005B) [12541*]:
     → ""Never break a promise." Add this to the rules of the Star Onion Brigade."
 244: 0x7116 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x7117 [0x27] REQ_SET(priority=0x0B, entity_id=Joker (ID: 17760347/0x010F005B), tag_num=0x23)
 246: 0x711E [0x52] END_LOAD_SCHEDULER: End scheduler "s093" with entities [LocalPlayer, LocalPlayer], work=247*
 247: 0x712D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s094" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-248: 0x713E [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12541*]:
+248: 0x713E [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12542*]:
     → "It'll be added, all right, so don't even think of breaking it!"
 249: 0x7145 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x7146 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
 251: 0x714B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 252: 0x715C [0x1C] WAIT(200* ticks)
 253: 0x715F [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [LocalPlayer, LocalPlayer], work=247*
-254: 0x716E [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12542*]:
+254: 0x716E [0x2B] Kohlo-Lakolo (ID: 17760338/0x010F0052) [12543*]:
     → "Remember, you promised!"
 255: 0x7175 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x7176 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 151*
@@ -11179,7 +11179,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x71BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12514*)
+  0: 0x71BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12515*)
     → "Pichichi's mom has come through for us again."
   1: 0x71C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x71C1 [0x00] END_REQSTACK()
@@ -11204,7 +11204,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x71C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12516*)
+  0: 0x71C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12517*)
     → "Okay, let's get this to Joker..."
   1: 0x71C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x71C6 [0x00] END_REQSTACK()
@@ -11229,7 +11229,7 @@ SUBROUTINE_64C0:
 #### Opcodes
 
 ```
-  0: 0x71C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12517*)
+  0: 0x71C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12518*)
     → "...Aah!"
   1: 0x71CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x71CB [0x00] END_REQSTACK()
@@ -11259,11 +11259,11 @@ SUBROUTINE_64C0:
   0: 0x71CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x71D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x71D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x71D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12543*)
+  3: 0x71D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12544*)
     → "Joker..."
   4: 0x71D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x71D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x01)
-  6: 0x71DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12544*)
+  6: 0x71DE [0x1D] PRINT_EVENT_MESSAGE(message_id=12545*)
     → "Don't... Don't you break your promise..."
   7: 0x71E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x71E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x02)
@@ -11537,7 +11537,7 @@ SUBROUTINE_73C1:
 #### Opcodes
 
 ```
-  0: 0x753D [0x1D] PRINT_EVENT_MESSAGE(message_id=12568*)
+  0: 0x753D [0x1D] PRINT_EVENT_MESSAGE(message_id=12569*)
     → "...Where have you been? While you were gone, all sorts of crazy stuff happened..."
   1: 0x7540 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x7541 [0x00] END_REQSTACK()
@@ -11562,7 +11562,7 @@ SUBROUTINE_73C1:
 #### Opcodes
 
 ```
-  0: 0x7542 [0x1D] PRINT_EVENT_MESSAGE(message_id=12569*)
+  0: 0x7542 [0x1D] PRINT_EVENT_MESSAGE(message_id=12570*)
     → "If we'd had an adventurer with us, things might have gone differently... You let us down on this one."
   1: 0x7545 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x7546 [0x00] END_REQSTACK()
@@ -11587,7 +11587,7 @@ SUBROUTINE_73C1:
 #### Opcodes
 
 ```
-  0: 0x7547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12570*)
+  0: 0x7547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12571*)
     → "Before I tell you what happened, you have to help us make $6!"
   1: 0x754A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x754B [0x00] END_REQSTACK()
@@ -11613,7 +11613,7 @@ SUBROUTINE_73C1:
 #### Opcodes
 
 ```
-  0: 0x754C [0x1D] PRINT_EVENT_MESSAGE(message_id=12573*)
+  0: 0x754C [0x1D] PRINT_EVENT_MESSAGE(message_id=12574*)
     → "Getting the materials to make this gadget is no easy feat. We need to find $2, a very val-u-a-bull item."
   1: 0x754F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x7550 [0x00] END_REQSTACK()
@@ -11638,7 +11638,7 @@ SUBROUTINE_73C1:
 #### Opcodes
 
 ```
-  0: 0x7551 [0x1D] PRINT_EVENT_MESSAGE(message_id=12574*)
+  0: 0x7551 [0x1D] PRINT_EVENT_MESSAGE(message_id=12575*)
     → "If you get Pichichi's mom to make us $6, we'll tell you all the exciting stuff that happened while you were gone."
   1: 0x7554 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x7555 [0x00] END_REQSTACK()
@@ -11669,7 +11669,7 @@ SUBROUTINE_73C1:
   1: 0x755B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x755C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x755D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0A)
-  4: 0x7564 [0x1D] PRINT_EVENT_MESSAGE(message_id=12575*)
+  4: 0x7564 [0x1D] PRINT_EVENT_MESSAGE(message_id=12576*)
     → "If you get Pichichi's mom to make us $6, we'll tell you all the exciting stuff that happened while you were gone."
   5: 0x7567 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x7568 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0B)
@@ -11725,11 +11725,11 @@ SUBROUTINE_73C1:
   1: 0x7579 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x757A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x757B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x16)
-  4: 0x7582 [0x1D] PRINT_EVENT_MESSAGE(message_id=12559*)
+  4: 0x7582 [0x1D] PRINT_EVENT_MESSAGE(message_id=12560*)
     → "...Ah! Something happened while you were gone...!"
   5: 0x7585 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x7586 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x17)
-  7: 0x758D [0x1D] PRINT_EVENT_MESSAGE(message_id=12560*)
+  7: 0x758D [0x1D] PRINT_EVENT_MESSAGE(message_id=12561*)
     → "...Actually, forget about it. I don't wanna talk about it right now."
   8: 0x7590 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x7591 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -11762,10 +11762,10 @@ SUBROUTINE_73C1:
   1: 0x759A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x759B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x759C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0A)
-  4: 0x75A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12582*)
+  4: 0x75A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12583*)
     → "...Where have you been? While you were gone, all sorts of crazy stuff happened..."
   5: 0x75A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x75A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12583*)
+  6: 0x75A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12584*)
     → "If you can bring us $6, I'll tell you what's been going on..."
   7: 0x75AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x75AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x0B)
@@ -12028,7 +12028,7 @@ SUBROUTINE_73C1:
  25: 0x765F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x23)
  26: 0x7666 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  27: 0x7677 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 28: 0x7688 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12688*]:
+ 28: 0x7688 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12689*]:
     → "What's this supposed to be? $6...?"
  29: 0x768F [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x7690 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -12041,7 +12041,7 @@ SUBROUTINE_73C1:
  37: 0x76DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  38: 0x76ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  39: 0x76FE [0x27] REQ_SET(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x21)
- 40: 0x7705 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12689*]:
+ 40: 0x7705 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12690*]:
     → "Hey! This is Joker's Mana Orb! What have you done with our Joker!?"
  41: 0x770C [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x770D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D))
@@ -12049,7 +12049,7 @@ SUBROUTINE_73C1:
  44: 0x7722 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
  45: 0x7733 [0x79] LocalPlayer looks at Papo-Hopo (ID: 17760339/0x010F0053) (Basic look)
  46: 0x773D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Papo-Hopo (ID: 17760339/0x010F0053), tag_num=0x12)
- 47: 0x7744 [0x2B] Papo-Hopo (ID: 17760339/0x010F0053) [12690*]:
+ 47: 0x7744 [0x2B] Papo-Hopo (ID: 17760339/0x010F0053) [12691*]:
     → "But doesn'taru that mean..."
  48: 0x774B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x774C [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=21*
@@ -12064,7 +12064,7 @@ SUBROUTINE_73C1:
 SUBROUTINE_77A4:
  57: 0x77A4 [0x4A] LocalPlayer looks at Pyo Nzon (ID: 17760343/0x010F0057)
  58: 0x77AD [0x27] REQ_SET(priority=0x08, entity_id=Pyo Nzon (ID: 17760343/0x010F0057), tag_num=0x0C)
- 59: 0x77B4 [0x2B] Pyo Nzon (ID: 17760343/0x010F0057) [12691*]:
+ 59: 0x77B4 [0x2B] Pyo Nzon (ID: 17760343/0x010F0057) [12692*]:
     → "Noooo! Joker is dead!?"
  60: 0x77BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x77BC [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x77D6
@@ -12096,7 +12096,7 @@ SUBROUTINE_77FF:
 SUBROUTINE_789C:
  84: 0x789C [0x4A] LocalPlayer looks at Gomada-Vulmada (ID: 17760340/0x010F0054)
  85: 0x78A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gomada-Vulmada (ID: 17760340/0x010F0054), tag_num=0x09)
- 86: 0x78AC [0x2B] Gomada-Vulmada (ID: 17760340/0x010F0054) [12692*]:
+ 86: 0x78AC [0x2B] Gomada-Vulmada (ID: 17760340/0x010F0054) [12693*]:
     → "I can'taru believe it! Joker's been diss-a-sem-bulled!?"
  87: 0x78B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x78B4 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x78CE
@@ -12134,7 +12134,7 @@ SUBROUTINE_7945:
 SUBROUTINE_79C6:
 117: 0x79C6 [0x79] LocalPlayer looks at Yafa Yaa (ID: 17760342/0x010F0056) (Basic look)
 118: 0x79D0 [0x27] REQ_SET(priority=0x08, entity_id=Yafa Yaa (ID: 17760342/0x010F0056), tag_num=0x0B)
-119: 0x79D7 [0x2B] Yafa Yaa (ID: 17760342/0x010F0056) [12693*]:
+119: 0x79D7 [0x2B] Yafa Yaa (ID: 17760342/0x010F0056) [12694*]:
     → "Bring him back! Bring Joker back to life rrright now!"
 120: 0x79DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x79DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -12158,7 +12158,7 @@ SUBROUTINE_7A6A:
 137: 0x7A7B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 138: 0x7A8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x12)
 139: 0x7A93 [0x4A] LocalPlayer looks at Kohlo-Lakolo (ID: 17760349/0x010F005D)
-140: 0x7A9C [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12694*]:
+140: 0x7A9C [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12695*]:
     → "This is ridiculous! Calm down, everyone! Joker can't be dead!"
 141: 0x7AA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x7AA4 [0x4A] Yafa Yaa (ID: 17760342/0x010F0056) looks at Kohlo-Lakolo (ID: 17760349/0x010F005D)
@@ -12176,10 +12176,10 @@ SUBROUTINE_7A6A:
 154: 0x7AFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 155: 0x7B0F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x13)
 156: 0x7B16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x0A)
-157: 0x7B1D [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12695*]:
+157: 0x7B1D [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12696*]:
     → "Joker wouldn't go and die on us, rightaru?"
 158: 0x7B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-159: 0x7B25 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12696*]:
+159: 0x7B25 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12697*]:
     → "He promised that he would come back. He promised!"
 160: 0x7B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x7B2D [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=21*
@@ -12201,7 +12201,7 @@ SUBROUTINE_7A6A:
 177: 0x7BA5 [0x4A] Yafa Yaa (ID: 17760342/0x010F0056) looks at Pichichi (ID: 17760341/0x010F0055)
 178: 0x7BAE [0x4A] Pyo Nzon (ID: 17760343/0x010F0057) looks at Pichichi (ID: 17760341/0x010F0055)
 179: 0x7BB7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x0B)
-180: 0x7BBE [0x2B] Pichichi (ID: 17760341/0x010F0055) [12697*]:
+180: 0x7BBE [0x2B] Pichichi (ID: 17760341/0x010F0055) [12698*]:
     → "Doeth thith mean... Mithter Ghothtie ith back?"
 181: 0x7BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x7BC6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Pichichi (ID: 17760341/0x010F0055))
@@ -12209,7 +12209,7 @@ SUBROUTINE_7A6A:
 184: 0x7BDB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 185: 0x7BEC [0x4A] Pichichi (ID: 17760341/0x010F0055) looks at Kohlo-Lakolo (ID: 17760349/0x010F005D)
 186: 0x7BF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x01)
-187: 0x7BFC [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12698*]:
+187: 0x7BFC [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12699*]:
     → "Yeah, Pichichi. Joker said he would come back to us."
 188: 0x7C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x7C04 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=21*
@@ -12222,18 +12222,18 @@ SUBROUTINE_7A6A:
 196: 0x7C3D [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "won4" with entities [Kohlo-Lakolo (ID: 17760349/0x010F005D), Kohlo-Lakolo (ID: 17760349/0x010F005D)]
 197: 0x7C4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x22)
 198: 0x7C51 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17760341/0x010F0055), tag_num=0x0F)
-199: 0x7C58 [0x2B] Pichichi (ID: 17760341/0x010F0055) [12699*]:
+199: 0x7C58 [0x2B] Pichichi (ID: 17760341/0x010F0055) [12700*]:
     → "Oh! Mithter Ghothtie hath come back! And he'th come back really big thith time!"
 200: 0x7C5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x7C60 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pichichi (ID: 17760341/0x010F0055), tag_num=0x10)
 202: 0x7C67 [0x7B] Kohlo-Lakolo (ID: 17760349/0x010F005D) stops talking
-203: 0x7C6C [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12700*]:
+203: 0x7C6C [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12701*]:
     → "Huh?"
 204: 0x7C73 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x7C74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x23)
 206: 0x7C7B [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=21*
 207: 0x7C8A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[247*, 0*]
-208: 0x7C9B [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12701*]:
+208: 0x7C9B [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12702*]:
     → "Whoah...!?"
 209: 0x7CA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x7CA3 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Kohlo-Lakolo (ID: 17760349/0x010F005D), Kohlo-Lakolo (ID: 17760349/0x010F005D)], work=[13*, 0*]
@@ -12266,11 +12266,11 @@ SUBROUTINE_7A6A:
 237: 0x7DA1 [0x4B] UPDATE_ENTITY_YAW(entity=Pichichi (ID: 17760341/0x010F0055), yaw=0.0°*)
 238: 0x7DA8 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "main" with entities [PRODUCER (ID: 17760265/0x010F0009), PRODUCER (ID: 17760265/0x010F0009)], work=[49*, 0*]
 239: 0x7DB9 [0x1C] WAIT(600* ticks)
-240: 0x7DBC [0x48] [System] [12702*]:
+240: 0x7DBC [0x48] [System] [12703*]:
     → "Children... Your lives here, your town, everything..."
 241: 0x7DBF [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x7DC0 [0x1C] WAIT(120* ticks)
-243: 0x7DC3 [0x48] [System] [12703*]:
+243: 0x7DC3 [0x48] [System] [12704*]:
     → "I'll be watching over you... I have returned to this land..."
 244: 0x7DC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x7DC7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -12297,21 +12297,21 @@ SUBROUTINE_7A6A:
 266: 0x7E25 [0x1C] WAIT(10* ticks)
 267: 0x7E28 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 268: 0x7E39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
-269: 0x7E4A [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12704*]:
+269: 0x7E4A [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12705*]:
     → "Joker! Joker! Jo`ke`r!"
 270: 0x7E51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x7E52 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D))
 272: 0x7E58 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=21*
 273: 0x7E67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 274: 0x7E78 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x14)
-275: 0x7E7F [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12705*]:
+275: 0x7E7F [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12706*]:
     → "Can you hear me? You finally came back to us!"
 276: 0x7E86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x7E87 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x15)
 278: 0x7E8E [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=21*
 279: 0x7E9D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 280: 0x7EAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x01)
-281: 0x7EB5 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12706*]:
+281: 0x7EB5 [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12707*]:
     → "Listen, Joker! We'll be watching you as well! The sky, the town, the people... We'll be keeping an eye on things!"
 282: 0x7EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 283: 0x7EBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x02)
@@ -12319,7 +12319,7 @@ SUBROUTINE_7A6A:
 285: 0x7ED3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 286: 0x7EE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[21*, 0*]
 287: 0x7EF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x14)
-288: 0x7EFC [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12707*]:
+288: 0x7EFC [0x2B] Kohlo-Lakolo (ID: 17760349/0x010F005D) [12708*]:
     → "Don't ever forget us! Don't forget the friends of justice, the Star Onion Brigade!"
 289: 0x7F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x7F04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760349/0x010F005D), tag_num=0x15)
@@ -12381,15 +12381,15 @@ SUBROUTINE_7A6A:
   1: 0x7FD9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x7FDA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x7FDB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x12)
-  4: 0x7FE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12708*)
+  4: 0x7FE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12709*)
     → "Joker came back to us. He kept his promise!"
   5: 0x7FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x7FE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12709*)
+  6: 0x7FE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12710*)
     → "He's not a Cardian anymore, but we can still recognize him. The Star Onion Brigade is whole again!"
   7: 0x7FE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x7FEA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x13)
   9: 0x7FF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x14)
- 10: 0x7FF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12710*)
+ 10: 0x7FF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12711*)
     → "Truth, justice, and the onion way! Defenders of love and dreams! We are the Star Onion Brigade!"
  11: 0x7FFB [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x7FFC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17760338/0x010F0052), tag_num=0x15)

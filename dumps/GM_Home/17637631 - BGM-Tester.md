@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2416      |        9238 |
+|       2 | 0x2417      |        9239 |
 
 ## String References
 
-- **9238**: BGMF$0
+- **9239**: BGMF$0
 
 ## Events
 
@@ -81,7 +81,7 @@
   4: 0x0016 [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x002C
   5: 0x001E [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song Work_Zone[2]
   6: 0x0022 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song Work_Zone[2]
-  7: 0x0026 [0x48] [System] [9238*]:
+  7: 0x0026 [0x48] [System] [9239*]:
     → "BGMF$0"
   8: 0x0029 [0x01] GOTO 0x002F
   9: 0x002C [0x0C] ExtData[1]->WorkLocal[0]--

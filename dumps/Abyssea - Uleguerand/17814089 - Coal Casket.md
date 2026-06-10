@@ -23,13 +23,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x06B4      |        1716 |
-|       1 | 0x1EC6      |        7878 |
-|       2 | 0x1EC7      |        7879 |
+|       1 | 0x1EC7      |        7879 |
+|       2 | 0x1EC8      |        7880 |
 
 ## String References
 
-- **7878**: The casket contains an ample supply of $3.
-- **7879**: You cannot carry any more $3.
+- **7879**: The casket contains an ample supply of $3.
+- **7880**: You cannot carry any more $3.
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[2] = 1716*
-  1: 0x0006 [0x48] [System] [7878*]:
+  1: 0x0006 [0x48] [System] [7879*]:
     → "The casket contains an ample supply of $3."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -104,7 +104,7 @@
 ```
   0: 0x000C [0x03] Work_Zone[2] = 1716*
   1: 0x0011 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0012 [0x48] [System] [7878*]:
+  2: 0x0012 [0x48] [System] [7879*]:
     → "The casket contains an ample supply of $3."
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0016 [0x21] END_EVENT
@@ -132,10 +132,10 @@
 
 ```
   0: 0x0018 [0x03] Work_Zone[2] = 1716*
-  1: 0x001D [0x48] [System] [7878*]:
+  1: 0x001D [0x48] [System] [7879*]:
     → "The casket contains an ample supply of $3."
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0021 [0x48] [System] [7879*]:
+  3: 0x0021 [0x48] [System] [7880*]:
     → "You cannot carry any more $3."
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0025 [0x21] END_EVENT

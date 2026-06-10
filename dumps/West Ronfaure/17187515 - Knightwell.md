@@ -24,14 +24,14 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x003C      |          60 |
 |       3 | 0x048C      |        1164 |
-|       4 | 0x1F7C      |        8060 |
+|       4 | 0x1F7D      |        8061 |
 |       5 | 0x00B4      |         180 |
-|       6 | 0x1F7D      |        8061 |
+|       6 | 0x1F7E      |        8062 |
 
 ## String References
 
-- **8060**: <Player> dipped the $3 in the crisp, cool waters of the Knightwell...
-- **8061**: The $3 now shimmers a brilliant shade of red!
+- **8061**: <Player> dipped the $3 in the crisp, cool waters of the Knightwell...
+- **8062**: The $3 now shimmers a brilliant shade of red!
 
 ## Events
 
@@ -85,10 +85,10 @@
   2: 0x0004 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0015 [0x1C] WAIT(60* ticks)
   4: 0x0018 [0x03] Work_Zone[2] = 1164*
-  5: 0x001D [0x48] [System] [8060*]:
+  5: 0x001D [0x48] [System] [8061*]:
     → "<Player> dipped the $3 in the crisp, cool waters of the Knightwell..."
   6: 0x0020 [0x1C] WAIT(180* ticks)
-  7: 0x0023 [0x48] [System] [8061*]:
+  7: 0x0023 [0x48] [System] [8062*]:
     → "The $3 now shimmers a brilliant shade of red!"
   8: 0x0026 [0x1C] WAIT(60* ticks)
   9: 0x0029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

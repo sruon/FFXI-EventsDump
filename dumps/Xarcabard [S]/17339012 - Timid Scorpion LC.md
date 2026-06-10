@@ -24,20 +24,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BA4      |        7076 |
+|       0 | 0x1BA5      |        7077 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1FC7      |        8135 |
-|       4 | 0x1CB1      |        7345 |
+|       3 | 0x1FC8      |        8136 |
+|       4 | 0x1CB2      |        7346 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x1CB2      |        7346 |
+|       6 | 0x1CB3      |        7347 |
 |       7 | 0x0003      |           3 |
-|       8 | 0x1CB3      |        7347 |
-|       9 | 0x1FC8      |        8136 |
-|      10 | 0x1FDA      |        8154 |
-|      11 | 0x1FE0      |        8160 |
+|       8 | 0x1CB4      |        7348 |
+|       9 | 0x1FC9      |        8137 |
+|      10 | 0x1FDB      |        8155 |
+|      11 | 0x1FE1      |        8161 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x1FE1      |        8161 |
+|      13 | 0x1FE2      |        8162 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x00C8      |         200 |
 |      16 | 0x0013      |          19 |
@@ -231,57 +231,57 @@
 |     204 | 0xFFFE5B24  |  4294859556 |
 |     205 | 0x2BD87     |      179591 |
 |     206 | 0x005C      |          92 |
-|     207 | 0x1FE2      |        8162 |
-|     208 | 0x1FE3      |        8163 |
+|     207 | 0x1FE3      |        8163 |
+|     208 | 0x1FE4      |        8164 |
 |     209 | 0x000F      |          15 |
 |     210 | 0x0010      |          16 |
 |     211 | 0x001F      |          31 |
-|     212 | 0x1FF2      |        8178 |
+|     212 | 0x1FF3      |        8179 |
 |     213 | 0x0005      |           5 |
-|     214 | 0x1FF1      |        8177 |
-|     215 | 0x1FF0      |        8176 |
-|     216 | 0x1CB4      |        7348 |
-|     217 | 0x1CB5      |        7349 |
-|     218 | 0x1CB6      |        7350 |
-|     219 | 0x1FE4      |        8164 |
-|     220 | 0x1FE6      |        8166 |
-|     221 | 0x1FEA      |        8170 |
-|     222 | 0x1FE7      |        8167 |
+|     214 | 0x1FF2      |        8178 |
+|     215 | 0x1FF1      |        8177 |
+|     216 | 0x1CB5      |        7349 |
+|     217 | 0x1CB6      |        7350 |
+|     218 | 0x1CB7      |        7351 |
+|     219 | 0x1FE5      |        8165 |
+|     220 | 0x1FE7      |        8167 |
+|     221 | 0x1FEB      |        8171 |
+|     222 | 0x1FE8      |        8168 |
 |     223 | 0x0004      |           4 |
-|     224 | 0x1FE8      |        8168 |
-|     225 | 0x1FEB      |        8171 |
-|     226 | 0x1FE9      |        8169 |
+|     224 | 0x1FE9      |        8169 |
+|     225 | 0x1FEC      |        8172 |
+|     226 | 0x1FEA      |        8170 |
 |     227 | 0x0006      |           6 |
-|     228 | 0x1FED      |        8173 |
+|     228 | 0x1FEE      |        8174 |
 |     229 | 0x0007      |           7 |
 |     230 | 0x0008      |           8 |
 |     231 | 0x0009      |           9 |
-|     232 | 0x1FEE      |        8174 |
+|     232 | 0x1FEF      |        8175 |
 |     233 | 0x000B      |          11 |
 |     234 | 0x000C      |          12 |
 |     235 | 0x000D      |          13 |
-|     236 | 0x1FEC      |        8172 |
+|     236 | 0x1FED      |        8173 |
 |     237 | 0x0011      |          17 |
 |     238 | 0x0012      |          18 |
 |     239 | 0x000E      |          14 |
-|     240 | 0x1FEF      |        8175 |
+|     240 | 0x1FF0      |        8176 |
 |     241 | 0x0014      |          20 |
 |     242 | 0x0015      |          21 |
 |     243 | 0x0016      |          22 |
-|     244 | 0x1FE5      |        8165 |
-|     245 | 0x1BB1      |        7089 |
-|     246 | 0x1BB2      |        7090 |
-|     247 | 0x1BB3      |        7091 |
-|     248 | 0x1BB4      |        7092 |
+|     244 | 0x1FE6      |        8166 |
+|     245 | 0x1BB2      |        7090 |
+|     246 | 0x1BB3      |        7091 |
+|     247 | 0x1BB4      |        7092 |
+|     248 | 0x1BB5      |        7093 |
 |     249 | 0x7E9C3925  |  2124167461 |
 |     250 | 0x41808A    |     4292746 |
 |     251 | 0x1224650   |    19023440 |
-|     252 | 0x1BB5      |        7093 |
-|     253 | 0x1BBB      |        7099 |
-|     254 | 0x1BE3      |        7139 |
+|     252 | 0x1BB6      |        7094 |
+|     253 | 0x1BBC      |        7100 |
+|     254 | 0x1BE4      |        7140 |
 |     255 | 0x006F      |         111 |
-|     256 | 0x1BB8      |        7096 |
-|     257 | 0x1BBA      |        7098 |
+|     256 | 0x1BB9      |        7097 |
+|     257 | 0x1BBB      |        7099 |
 |     258 | 0x01E3      |         483 |
 |     259 | 0x0104      |         260 |
 |     260 | 0x0020      |          32 |
@@ -291,9 +291,9 @@
 |     264 | 0x001D      |          29 |
 |     265 | 0x001E      |          30 |
 |     266 | 0xFFFFFFFF  |  4294967295 |
-|     267 | 0x1BD8      |        7128 |
+|     267 | 0x1BD9      |        7129 |
 |     268 | 0x002D      |          45 |
-|     269 | 0x1BD9      |        7129 |
+|     269 | 0x1BDA      |        7130 |
 |     270 | 0x1017      |        4119 |
 |     271 | 0x1027      |        4135 |
 |     272 | 0x1056      |        4182 |
@@ -325,108 +325,108 @@
 |     298 | 0x1513      |        5395 |
 |     299 | 0x153B      |        5435 |
 |     300 | 0x153F      |        5439 |
-|     301 | 0x1BDA      |        7130 |
-|     302 | 0x1BDB      |        7131 |
-|     303 | 0x1BDC      |        7132 |
+|     301 | 0x1BDB      |        7131 |
+|     302 | 0x1BDC      |        7132 |
+|     303 | 0x1BDD      |        7133 |
 |     304 | 0x0017      |          23 |
 |     305 | 0x0018      |          24 |
-|     306 | 0x1BEA      |        7146 |
+|     306 | 0x1BEB      |        7147 |
 |     307 | 0x006D      |         109 |
-|     308 | 0x1D99      |        7577 |
-|     309 | 0x1D9A      |        7578 |
-|     310 | 0x1BEB      |        7147 |
+|     308 | 0x1D9A      |        7578 |
+|     309 | 0x1D9B      |        7579 |
+|     310 | 0x1BEC      |        7148 |
 |     311 | 0x006A      |         106 |
 |     312 | 0x0032      |          50 |
 |     313 | 0x111110    |     1118480 |
-|     314 | 0x1DA0      |        7584 |
-|     315 | 0x1D9C      |        7580 |
+|     314 | 0x1DA1      |        7585 |
+|     315 | 0x1D9D      |        7581 |
 |     316 | 0x0065      |         101 |
 |     317 | 0x0066      |         102 |
 |     318 | 0x0067      |         103 |
 |     319 | 0x0068      |         104 |
 |     320 | 0x0069      |         105 |
-|     321 | 0x1BCA      |        7114 |
-|     322 | 0x1BAC      |        7084 |
-|     323 | 0x1BCB      |        7115 |
-|     324 | 0x1BCC      |        7116 |
+|     321 | 0x1BCB      |        7115 |
+|     322 | 0x1BAD      |        7085 |
+|     323 | 0x1BCC      |        7116 |
+|     324 | 0x1BCD      |        7117 |
 |     325 | 0x010A      |         266 |
-|     326 | 0x1BB6      |        7094 |
-|     327 | 0x1BBC      |        7100 |
-|     328 | 0x1BBD      |        7101 |
-|     329 | 0x1BBE      |        7102 |
-|     330 | 0x1BBF      |        7103 |
-|     331 | 0x1BC0      |        7104 |
-|     332 | 0x1BC9      |        7113 |
-|     333 | 0x1BC1      |        7105 |
-|     334 | 0x1BC2      |        7106 |
-|     335 | 0x1BC3      |        7107 |
-|     336 | 0x1BC4      |        7108 |
-|     337 | 0x1BC5      |        7109 |
-|     338 | 0x1BC6      |        7110 |
-|     339 | 0x1BC7      |        7111 |
-|     340 | 0x1BE4      |        7140 |
-|     341 | 0x1BE5      |        7141 |
-|     342 | 0x1BE6      |        7142 |
-|     343 | 0x1BE7      |        7143 |
-|     344 | 0x1BE8      |        7144 |
+|     326 | 0x1BB7      |        7095 |
+|     327 | 0x1BBD      |        7101 |
+|     328 | 0x1BBE      |        7102 |
+|     329 | 0x1BBF      |        7103 |
+|     330 | 0x1BC0      |        7104 |
+|     331 | 0x1BC1      |        7105 |
+|     332 | 0x1BCA      |        7114 |
+|     333 | 0x1BC2      |        7106 |
+|     334 | 0x1BC3      |        7107 |
+|     335 | 0x1BC4      |        7108 |
+|     336 | 0x1BC5      |        7109 |
+|     337 | 0x1BC6      |        7110 |
+|     338 | 0x1BC7      |        7111 |
+|     339 | 0x1BC8      |        7112 |
+|     340 | 0x1BE5      |        7141 |
+|     341 | 0x1BE6      |        7142 |
+|     342 | 0x1BE7      |        7143 |
+|     343 | 0x1BE8      |        7144 |
+|     344 | 0x1BE9      |        7145 |
 
 ## String References
 
-- **7076**: What are you doing here? This is no place for civilians.
-- **7084**: I am sorry. You do not have enough Allied Notes.
-- **7089**: Greetings. I am % of the San d'Orian Provincial Knights.
-- **7090**: Greetings. I am % of the Bastokan Legion.
-- **7091**: Greetings. I am % of the Federation of Windurst.
-- **7092**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
-- **7093**: What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]
-- **7094**: What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]
-- **7096**: Understood. I shall now judge your performance and award the proper remuneration.
-- **7098**: Understood. I shall prepare a new set of tags for you now.
-- **7099**: You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins.
-- **7100**: Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance.
-- **7101**: Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing.
-- **7102**: However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day.
-- **7103**: Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you.
-- **7104**: When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment.
-- **7105**: Allied Tags are a special type of identification given to all participants of Allied Campaign battles.
-- **7106**: There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points.
-- **7107**: However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies.
-- **7108**: Temporary items can be purchased in exchange for Allied Notes.
-- **7109**: There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued.
-- **7110**: It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most.
-- **7111**: Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area.
-- **7113**: That is all.
-- **7114**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
-- **7115**: Complete transaction and return to capital? [Yes./No.]
-- **7116**: Understood. Good work today, <Player>.
-- **7128**: Let me show you the list of items currently available to you.
-- **7129**: Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]
-- **7130**: Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]
-- **7131**: You currently possess $' Allied Note[/s].
-- **7132**: Proceed with the transaction? [Yes./No.]
-- **7139**: I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.
-- **7140**: Oh ho! Keen to join a Union, are we? Very well. Listen up and I shall tell you all you need to know.
-- **7141**: In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called "Unions." With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags.
-- **7142**: In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war.
-- **7143**: Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat. Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own.
-- **7144**: Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder.
-- **7146**: Register for a union? [Yes./No.]
-- **7147**: [Transfer/Resign] from your current union? [Yes./No.]
-- **7345**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
-- **7346**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
-- **7347**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
-- **7348**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
-- **7349**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
-- **7350**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
-- **7577**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
-- **7578**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
-- **7580**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
-- **7584**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
-- **8135**: Good work, <Player>. You have done a great service for your nation.
-- **8136**: What is this!? These supplies are in terrible condition! I'll have to request headquarters for another shipment...
-- **8154**: Welcome, <Player>.
-- **8160**: What's this? Whatever power was in this is long gone. No, this won't do at all.
-- **8161**: Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?
+- **7077**: What are you doing here? This is no place for civilians.
+- **7085**: I am sorry. You do not have enough Allied Notes.
+- **7090**: Greetings. I am % of the San d'Orian Provincial Knights.
+- **7091**: Greetings. I am % of the Bastokan Legion.
+- **7092**: Greetings. I am % of the Federation of Windurst.
+- **7093**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
+- **7094**: What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]
+- **7095**: What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]
+- **7097**: Understood. I shall now judge your performance and award the proper remuneration.
+- **7099**: Understood. I shall prepare a new set of tags for you now.
+- **7100**: You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins.
+- **7101**: Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance.
+- **7102**: Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing.
+- **7103**: However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day.
+- **7104**: Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you.
+- **7105**: When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment.
+- **7106**: Allied Tags are a special type of identification given to all participants of Allied Campaign battles.
+- **7107**: There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points.
+- **7108**: However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies.
+- **7109**: Temporary items can be purchased in exchange for Allied Notes.
+- **7110**: There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued.
+- **7111**: It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most.
+- **7112**: Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area.
+- **7114**: That is all.
+- **7115**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
+- **7116**: Complete transaction and return to capital? [Yes./No.]
+- **7117**: Understood. Good work today, <Player>.
+- **7129**: Let me show you the list of items currently available to you.
+- **7130**: Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]
+- **7131**: Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]
+- **7132**: You currently possess $' Allied Note[/s].
+- **7133**: Proceed with the transaction? [Yes./No.]
+- **7140**: I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official.
+- **7141**: Oh ho! Keen to join a Union, are we? Very well. Listen up and I shall tell you all you need to know.
+- **7142**: In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called "Unions." With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags.
+- **7143**: In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war.
+- **7144**: Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat. Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own.
+- **7145**: Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder.
+- **7147**: Register for a union? [Yes./No.]
+- **7148**: [Transfer/Resign] from your current union? [Yes./No.]
+- **7346**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
+- **7347**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
+- **7348**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
+- **7349**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
+- **7350**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
+- **7351**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
+- **7578**: What will you do? [Nothing./Transfer to another union./Resign union membership.]
+- **7579**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
+- **7581**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
+- **7585**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
+- **8136**: Good work, <Player>. You have done a great service for your nation.
+- **8137**: What is this!? These supplies are in terrible condition! I'll have to request headquarters for another shipment...
+- **8155**: Welcome, <Player>.
+- **8161**: What's this? Whatever power was in this is long gone. No, this won't do at all.
+- **8162**: Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?
 
 ## Events
 
@@ -475,7 +475,7 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7076*)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7077*)
     → "What are you doing here? This is no place for civilians."
   5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000E [0x21] END_EVENT
@@ -549,21 +549,21 @@
   5: 0x0023 [0x03] Work_Zone[1] = 0*
   6: 0x0028 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0078
   7: 0x0030 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0071
-  8: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+  8: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Good work, <Player>. You have done a great service for your nation."
   9: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x003C [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x004B
- 11: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+ 11: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
  12: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0048 [0x01] GOTO 0x0069
  14: 0x004B [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x005A
- 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+ 15: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
  16: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0057 [0x01] GOTO 0x0069
  18: 0x005A [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0069
- 19: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 19: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
  20: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0066 [0x01] GOTO 0x0069
@@ -571,30 +571,30 @@
 SUBROUTINE_0069:
  22: 0x0069 [0x03] Work_Zone[1] = 1*
  23: 0x006E [0x01] GOTO 0x0075
- 24: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
+ 24: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "What is this!? These supplies are in terrible condition! I'll have to request headquarters for another shipment..."
  25: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0075:
  26: 0x0075 [0x01] GOTO 0x0116
  27: 0x0078 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x00C6
- 28: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8154*)
+ 28: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8155*)
     → "Welcome, <Player>."
  29: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0084 [0x03] Work_Zone[1] = 3*
  31: 0x0089 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x00C3
  32: 0x0091 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x00A0
- 33: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+ 33: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
  34: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x009D [0x01] GOTO 0x00BE
  36: 0x00A0 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x00AF
- 37: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+ 37: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
  38: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00AC [0x01] GOTO 0x00BE
  40: 0x00AF [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x00BE
- 41: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 41: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
  42: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00BB [0x01] GOTO 0x00BE
@@ -603,26 +603,26 @@ SUBROUTINE_00BE:
  44: 0x00BE [0x03] Work_Zone[1] = 2*
  45: 0x00C3 [0x01] GOTO 0x0116
  46: 0x00C6 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0116
- 47: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+ 47: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Good work, <Player>. You have done a great service for your nation."
  48: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00D2 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00E1
- 50: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
+ 50: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
     → "What's this? Whatever power was in this is long gone. No, this won't do at all."
  51: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x00DE [0x01] GOTO 0x010E
  53: 0x00E1 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x00F0
- 54: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+ 54: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
  55: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00ED [0x01] GOTO 0x010E
  57: 0x00F0 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x00FF
- 58: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+ 58: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
  59: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00FC [0x01] GOTO 0x010E
  61: 0x00FF [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x010E
- 62: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+ 62: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
  63: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x010B [0x01] GOTO 0x010E
@@ -806,7 +806,7 @@ SUBROUTINE_0116:
   7: 0x012E [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
   8: 0x0133 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[5]
   9: 0x0138 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[9]
- 10: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
+ 10: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
     → "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?"
  11: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0141 [0x1C] WAIT(60* ticks)
@@ -924,10 +924,10 @@ SUBROUTINE_056E:
 122: 0x05C0 [0x1E] EventEntity looks at Allied Commissary (ID: 17339171/0x01089323) and starts talking
 123: 0x05C5 [0x4A] LocalPlayer looks at Allied Commissary (ID: 17339171/0x01089323)
 124: 0x05CE [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Allied Commissary (ID: 17339171/0x01089323), tag_num=0x04)
-125: 0x05D5 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8162*]:
+125: 0x05D5 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8163*]:
     → "You are the tactician responsible for our latest operation? Then I shall report in on the status of our mission up until now."
 126: 0x05DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x05DD [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8163*]:
+127: 0x05DD [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8164*]:
     → "As per orders, the supply caravan completed preparation of our cargo last night, and set out on the designated route at daybreak."
 128: 0x05E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x05E5 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[3] (bits 0*-15*)
@@ -946,16 +946,16 @@ SUBROUTINE_056E:
 142: 0x0649 [0x1A] CALL_SUBROUTINE(address=0x0733)
 143: 0x064C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0682
 144: 0x0654 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 3*) GOTO 0x0667
-145: 0x065C [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8178*]:
+145: 0x065C [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8179*]:
     → "Our unit was able to reach this stronghold, though we did so bearing a great deal less than the intended cargo."
 146: 0x0663 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0664 [0x01] GOTO 0x0682
 148: 0x0667 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 5*) GOTO 0x067A
-149: 0x066F [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8177*]:
+149: 0x066F [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8178*]:
     → "Our unit was able to reach this stronghold safely with the cargo. Your planning may well have been the decisive factor in the success of our mission."
 150: 0x0676 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0677 [0x01] GOTO 0x0682
-152: 0x067A [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8176*]:
+152: 0x067A [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8177*]:
     → "I am pleased to report that our unit was able to reach this stronghold safely with all of the intended cargo. The success of our mission was due in no small part to your brilliant planning."
 153: 0x0681 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -965,17 +965,17 @@ SUBROUTINE_0682:
 156: 0x0688 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 157: 0x0689 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x06C1
 158: 0x0691 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06A0
-159: 0x0699 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+159: 0x0699 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you."
 160: 0x069C [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x069D [0x01] GOTO 0x06BE
 162: 0x06A0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x06AF
-163: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+163: 0x06A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier."
 164: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x06AC [0x01] GOTO 0x06BE
 166: 0x06AF [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x06BE
-167: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+167: 0x06B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first."
 168: 0x06BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x06BB [0x01] GOTO 0x06BE
@@ -983,17 +983,17 @@ SUBROUTINE_0682:
 SUBROUTINE_06BE:
 170: 0x06BE [0x01] GOTO 0x06EE
 171: 0x06C1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06D0
-172: 0x06C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+172: 0x06C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
 173: 0x06CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x06CD [0x01] GOTO 0x06EE
 175: 0x06D0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x06DF
-176: 0x06D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+176: 0x06D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
 177: 0x06DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x06DC [0x01] GOTO 0x06EE
 179: 0x06DF [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x06EE
-180: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+180: 0x06E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
 181: 0x06EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x06EB [0x01] GOTO 0x06EE
@@ -1012,192 +1012,192 @@ SUBROUTINE_06EE:
 
 SUBROUTINE_0733:
 193: 0x0733 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0746
-194: 0x073B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8164*]:
+194: 0x073B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8165*]:
     → "Unfortunately, we encountered an accident and lost a portion of our cargo."
 195: 0x0742 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0743 [0x01] GOTO 0x09D9
 197: 0x0746 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0766
 198: 0x074E [0x03] Work_Zone[2] = 0*
-199: 0x0753 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
+199: 0x0753 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 200: 0x075A [0x23] WAIT_FOR_DIALOG_INTERACTION
-201: 0x075B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
+201: 0x075B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8171*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 202: 0x0762 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x0763 [0x01] GOTO 0x09D9
 204: 0x0766 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0786
 205: 0x076E [0x03] Work_Zone[2] = 0*
-206: 0x0773 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
+206: 0x0773 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 207: 0x077A [0x23] WAIT_FOR_DIALOG_INTERACTION
-208: 0x077B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
+208: 0x077B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8171*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 209: 0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0783 [0x01] GOTO 0x09D9
 211: 0x0786 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x07A6
 212: 0x078E [0x03] Work_Zone[2] = 0*
-213: 0x0793 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
+213: 0x0793 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 214: 0x079A [0x23] WAIT_FOR_DIALOG_INTERACTION
-215: 0x079B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8171*]:
+215: 0x079B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8172*]:
     → "By the good graces of the Goddess, our convoy was able to obliterate the beastman supply contingent. In addition, we seized a significant portion of the enemy's supplies."
 216: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x07A3 [0x01] GOTO 0x09D9
 218: 0x07A6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x07C6
 219: 0x07AE [0x03] Work_Zone[2] = 0*
-220: 0x07B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
+220: 0x07B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 221: 0x07BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-222: 0x07BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
+222: 0x07BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8171*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 223: 0x07C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x07C3 [0x01] GOTO 0x09D9
 225: 0x07C6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 6*) GOTO 0x07E6
 226: 0x07CE [0x03] Work_Zone[2] = 1*
-227: 0x07D3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
+227: 0x07D3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 228: 0x07DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x07DB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
+229: 0x07DB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 230: 0x07E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x07E3 [0x01] GOTO 0x09D9
 232: 0x07E6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 7*) GOTO 0x0806
 233: 0x07EE [0x03] Work_Zone[2] = 1*
-234: 0x07F3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
+234: 0x07F3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 235: 0x07FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-236: 0x07FB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
+236: 0x07FB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 237: 0x0802 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0803 [0x01] GOTO 0x09D9
 239: 0x0806 [0x02] IF !(ExtData[1]->WorkLocal[1] == 8*) GOTO 0x0826
 240: 0x080E [0x03] Work_Zone[2] = 1*
-241: 0x0813 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
+241: 0x0813 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 242: 0x081A [0x23] WAIT_FOR_DIALOG_INTERACTION
-243: 0x081B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
+243: 0x081B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 244: 0x0822 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0823 [0x01] GOTO 0x09D9
 246: 0x0826 [0x02] IF !(ExtData[1]->WorkLocal[1] == 9*) GOTO 0x0846
 247: 0x082E [0x03] Work_Zone[2] = 1*
-248: 0x0833 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
+248: 0x0833 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 249: 0x083A [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x083B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
+250: 0x083B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 251: 0x0842 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0843 [0x01] GOTO 0x09D9
 253: 0x0846 [0x02] IF !(ExtData[1]->WorkLocal[1] == 10*) GOTO 0x0866
 254: 0x084E [0x03] Work_Zone[2] = 1*
-255: 0x0853 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
+255: 0x0853 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 256: 0x085A [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x085B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
+257: 0x085B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 258: 0x0862 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0863 [0x01] GOTO 0x09D9
 260: 0x0866 [0x02] IF !(ExtData[1]->WorkLocal[1] == 11*) GOTO 0x0886
 261: 0x086E [0x03] Work_Zone[2] = 1*
-262: 0x0873 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
+262: 0x0873 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 263: 0x087A [0x23] WAIT_FOR_DIALOG_INTERACTION
-264: 0x087B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
+264: 0x087B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 265: 0x0882 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x0883 [0x01] GOTO 0x09D9
 267: 0x0886 [0x02] IF !(ExtData[1]->WorkLocal[1] == 12*) GOTO 0x08A6
 268: 0x088E [0x03] Work_Zone[2] = 1*
-269: 0x0893 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
+269: 0x0893 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 270: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x089B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
+271: 0x089B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 272: 0x08A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x08A3 [0x01] GOTO 0x09D9
 274: 0x08A6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 13*) GOTO 0x08C6
 275: 0x08AE [0x03] Work_Zone[2] = 1*
-276: 0x08B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
+276: 0x08B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 277: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x08BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8174*]:
+278: 0x08BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 279: 0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x08C3 [0x01] GOTO 0x09D9
 281: 0x08C6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 16*) GOTO 0x08E6
 282: 0x08CE [0x03] Work_Zone[2] = 0*
-283: 0x08D3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
+283: 0x08D3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 284: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x08DB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8172*]:
+285: 0x08DB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 286: 0x08E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x08E3 [0x01] GOTO 0x09D9
 288: 0x08E6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 17*) GOTO 0x0906
 289: 0x08EE [0x03] Work_Zone[2] = 0*
-290: 0x08F3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
+290: 0x08F3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 291: 0x08FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-292: 0x08FB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8172*]:
+292: 0x08FB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 293: 0x0902 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x0903 [0x01] GOTO 0x09D9
 295: 0x0906 [0x02] IF !(ExtData[1]->WorkLocal[1] == 18*) GOTO 0x0926
 296: 0x090E [0x03] Work_Zone[2] = 0*
-297: 0x0913 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
+297: 0x0913 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 298: 0x091A [0x23] WAIT_FOR_DIALOG_INTERACTION
-299: 0x091B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8172*]:
+299: 0x091B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 300: 0x0922 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x0923 [0x01] GOTO 0x09D9
 302: 0x0926 [0x02] IF !(ExtData[1]->WorkLocal[1] == 14*) GOTO 0x0946
 303: 0x092E [0x03] Work_Zone[2] = 0*
-304: 0x0933 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
+304: 0x0933 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 305: 0x093A [0x23] WAIT_FOR_DIALOG_INTERACTION
-306: 0x093B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8172*]:
+306: 0x093B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8173*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 307: 0x0942 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0943 [0x01] GOTO 0x09D9
 309: 0x0946 [0x02] IF !(ExtData[1]->WorkLocal[1] == 19*) GOTO 0x0966
 310: 0x094E [0x03] Work_Zone[2] = 1*
-311: 0x0953 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
+311: 0x0953 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 312: 0x095A [0x23] WAIT_FOR_DIALOG_INTERACTION
-313: 0x095B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
+313: 0x095B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8176*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 314: 0x0962 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x0963 [0x01] GOTO 0x09D9
 316: 0x0966 [0x02] IF !(ExtData[1]->WorkLocal[1] == 20*) GOTO 0x0986
 317: 0x096E [0x03] Work_Zone[2] = 1*
-318: 0x0973 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8167*]:
+318: 0x0973 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 319: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
-320: 0x097B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
+320: 0x097B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8176*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 321: 0x0982 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0983 [0x01] GOTO 0x09D9
 323: 0x0986 [0x02] IF !(ExtData[1]->WorkLocal[1] == 21*) GOTO 0x09A6
 324: 0x098E [0x03] Work_Zone[2] = 1*
-325: 0x0993 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8168*]:
+325: 0x0993 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 326: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x099B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
+327: 0x099B [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8176*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 328: 0x09A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x09A3 [0x01] GOTO 0x09D9
 330: 0x09A6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 15*) GOTO 0x09C6
 331: 0x09AE [0x03] Work_Zone[2] = 1*
-332: 0x09B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8169*]:
+332: 0x09B3 [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8170*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 333: 0x09BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-334: 0x09BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8175*]:
+334: 0x09BB [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8176*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 335: 0x09C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x09C3 [0x01] GOTO 0x09D9
 337: 0x09C6 [0x02] IF !(ExtData[1]->WorkLocal[1] == 22*) GOTO 0x09D9
-338: 0x09CE [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8165*]:
+338: 0x09CE [0x2B] Allied Commissary (ID: 17339171/0x01089323) [8166*]:
     → "Most regrettably, we encountered an accident and lost out entire load of cargo."
 339: 0x09D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x09D6 [0x01] GOTO 0x09D9
@@ -1496,25 +1496,25 @@ SUBROUTINE_09D9:
      0x09E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x09E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x09E9 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x09FB
-     0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+     0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "Greetings. I am % of the San d'Orian Provincial Knights."
      0x09F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09F5 [0x01] GOTO 0x0A31
      0x09F8 [0x01] GOTO 0x0A31
      0x09FB [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0A0D
-     0x0A03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
+     0x0A03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
     → "Greetings. I am % of the Bastokan Legion."
      0x0A06 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A07 [0x01] GOTO 0x0A31
      0x0A0A [0x01] GOTO 0x0A31
      0x0A0D [0x02] IF !(ExtData[1]->WorkLocal[14] == 2*) GOTO 0x0A1F
-     0x0A15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
+     0x0A15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
     → "Greetings. I am % of the Federation of Windurst."
      0x0A18 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A19 [0x01] GOTO 0x0A31
      0x0A1C [0x01] GOTO 0x0A31
      0x0A1F [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x0A31
-     0x0A27 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
+     0x0A27 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
     → "Greetings. I am %, Campaign Arbiter for the Allied Forces."
      0x0A2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A2B [0x01] GOTO 0x0A31
@@ -1558,7 +1558,7 @@ SUBROUTINE_09D9:
      0x0B00 [0x02] IF !(Work_Zone[8] == ExtData[1]->WorkLocal[19]) GOTO 0x0B17
      0x0B08 [0x02] IF !(Work_Zone[9] == ExtData[1]->WorkLocal[20]) GOTO 0x0B17
      0x0B10 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=3*, condition_work_offset=1*)
-     0x0B17 [0x24] CREATE_DIALOG(message_id=7093*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+     0x0B17 [0x24] CREATE_DIALOG(message_id=7094*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "What can I help you with? [Nothing./Performance assessment./New Allied Tags./Temporary items./Union registration./Teleportation./Information on the Allied Campaign.]"
      0x0B1E [0x25] WAIT_DIALOG_SELECT()
      0x0B1F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B2A
@@ -1571,11 +1571,11 @@ SUBROUTINE_09D9:
      0x0B48 [0x02] IF !(ExtData[1]->WorkLocal[24] == 0*) GOTO 0x0B56
      0x0B50 [0x1A] CALL_SUBROUTINE(address=0x0BD2)
      0x0B53 [0x01] GOTO 0x0B5A
-     0x0B56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
+     0x0B56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
     → "You've already undergone an evaluation for this battle, or had you forgotten? As much as I'd like to, I'm forbidden from providing you with a new set of Allied Taegs until the next battle begins."
      0x0B59 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B5A [0x01] GOTO 0x0B61
-     0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+     0x0B5D [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
      0x0B60 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B61 [0x01] GOTO 0x0BC2
@@ -1583,7 +1583,7 @@ SUBROUTINE_09D9:
      0x0B6C [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x0B7A
      0x0B74 [0x1A] CALL_SUBROUTINE(address=0x0BEB)
      0x0B77 [0x01] GOTO 0x0B7E
-     0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+     0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "I am sorry, <Player>, but your campaign medal has expired. I cannot issue tags to anyone not authorized by the Allied Forces. Return to your nation's capital and speak with a Campaign Evaluation Official."
      0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B7E [0x01] GOTO 0x0BC2
@@ -1606,13 +1606,13 @@ SUBROUTINE_09D9:
      0x0BC5 [0x21] END_EVENT
      0x0BC6 [0x1B] RETURN
      0x0BC7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0BC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
+     0x0BC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
     → "Understood. I shall now judge your performance and award the proper remuneration."
      0x0BCB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BCC [0x03] Work_Zone[1] = 5*
      0x0BD1 [0x1B] RETURN
      0x0BD2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0BD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
+     0x0BD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
     → "Understood. I shall prepare a new set of tags for you now."
      0x0BD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BD7 [0x73] EventEntity casts magic 483* on LocalPlayer
@@ -1919,7 +1919,7 @@ SUBROUTINE_09D9:
      0x131E [0x0F] ExtData[1]->WorkLocal[28] ^= 4294967295*
      0x1323 [0x10] ExtData[1]->WorkLocal[28] <<= 1*
      0x1328 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[28], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x132F [0x1D] PRINT_EVENT_MESSAGE(message_id=7128*)
+     0x132F [0x1D] PRINT_EVENT_MESSAGE(message_id=7129*)
     → "Let me show you the list of items currently available to you."
      0x1332 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1333 [0x05] ExtData[1]->WorkLocal[30] = 1
@@ -1937,7 +1937,7 @@ SUBROUTINE_09D9:
      0x136D [0x03] Work_Zone[2] = 30*
      0x1372 [0x03] Work_Zone[3] = 45*
      0x1377 [0x03] Work_Zone[4] = 60*
-     0x137C [0x24] CREATE_DIALOG(message_id=7129*, default_option=0*, option_flags=ExtData[1]->WorkLocal[29])
+     0x137C [0x24] CREATE_DIALOG(message_id=7130*, default_option=0*, option_flags=ExtData[1]->WorkLocal[29])
     → "Select a category: [Quit./$0-Note Items./$1-Note Items./$2-Note Items.]"
      0x1383 [0x25] WAIT_DIALOG_SELECT()
      0x1384 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1392
@@ -2007,7 +2007,7 @@ SUBROUTINE_09D9:
      0x14C9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=ExtData[1]->WorkLocal[33], source=Work_Zone[0])
      0x14D2 [0x05] ExtData[1]->WorkLocal[31] = 1
      0x14D5 [0x02] IF !(ExtData[1]->WorkLocal[31] == 0*) GOTO 0x166B
-     0x14DD [0x24] CREATE_DIALOG(message_id=7130*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
+     0x14DD [0x24] CREATE_DIALOG(message_id=7131*, default_option=0*, option_flags=ExtData[1]->WorkLocal[25])
     → "Which item would you like to see? [Quit./$0/$1/$2/$3/$4/$5/$6/$7/$8/$9/$10/$11/$12/$13/$14/$15/$16]"
      0x14E4 [0x25] WAIT_DIALOG_SELECT()
      0x14E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14FC
@@ -2069,11 +2069,11 @@ SUBROUTINE_09D9:
      0x1614 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=ExtData[1]->WorkLocal[33], source=Work_Zone[0])
      0x161D [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[21])
      0x1620 [0x03] Work_Zone_1700[31] = ExtData[1]->WorkLocal[22]
-     0x1625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7131*)
+     0x1625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7132*)
     → "You currently possess $' Allied Note[/s]."
      0x1628 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1629 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x162C [0x24] CREATE_DIALOG(message_id=7132*, default_option=1*, option_flags=0*)
+     0x162C [0x24] CREATE_DIALOG(message_id=7133*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
      0x1633 [0x25] WAIT_DIALOG_SELECT()
      0x1634 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1654
@@ -2102,7 +2102,7 @@ SUBROUTINE_09D9:
      0x16C2 [0x1C] WAIT(60* ticks)
      0x16C5 [0x03] ExtData[1]->WorkLocal[48] = 0*
      0x16CA [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x16FD
-     0x16D2 [0x24] CREATE_DIALOG(message_id=7146*, default_option=1*, option_flags=0*)
+     0x16D2 [0x24] CREATE_DIALOG(message_id=7147*, default_option=1*, option_flags=0*)
     → "Register for a union? [Yes./No.]"
      0x16D9 [0x25] WAIT_DIALOG_SELECT()
      0x16DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16EA
@@ -2112,7 +2112,7 @@ SUBROUTINE_09D9:
      0x16F2 [0x03] Work_Zone[1] = 109*
      0x16F7 [0x01] GOTO 0x16FA
      0x16FA [0x01] GOTO 0x17A7
-     0x16FD [0x24] CREATE_DIALOG(message_id=7577*, default_option=0*, option_flags=0*)
+     0x16FD [0x24] CREATE_DIALOG(message_id=7578*, default_option=0*, option_flags=0*)
     → "What will you do? [Nothing./Transfer to another union./Resign union membership.]"
      0x1704 [0x25] WAIT_DIALOG_SELECT()
      0x1705 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1715
@@ -2121,11 +2121,11 @@ SUBROUTINE_09D9:
      0x1715 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x175E
      0x171D [0x02] IF !(ExtData[1]->WorkLocal[42] == 1*) GOTO 0x172E
      0x1725 [0x03] Work_Zone[2] = 0*
-     0x172A [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+     0x172A [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
      0x172D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x172E [0x03] Work_Zone[2] = 0*
-     0x1733 [0x24] CREATE_DIALOG(message_id=7147*, default_option=1*, option_flags=0*)
+     0x1733 [0x24] CREATE_DIALOG(message_id=7148*, default_option=1*, option_flags=0*)
     → "[Transfer/Resign] from your current union? [Yes./No.]"
      0x173A [0x25] WAIT_DIALOG_SELECT()
      0x173B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x174B
@@ -2138,11 +2138,11 @@ SUBROUTINE_09D9:
      0x175E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x17A7
      0x1766 [0x02] IF !(ExtData[1]->WorkLocal[42] == 1*) GOTO 0x1777
      0x176E [0x03] Work_Zone[2] = 1*
-     0x1773 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+     0x1773 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed."
      0x1776 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1777 [0x03] Work_Zone[2] = 1*
-     0x177C [0x24] CREATE_DIALOG(message_id=7147*, default_option=1*, option_flags=0*)
+     0x177C [0x24] CREATE_DIALOG(message_id=7148*, default_option=1*, option_flags=0*)
     → "[Transfer/Resign] from your current union? [Yes./No.]"
      0x1783 [0x25] WAIT_DIALOG_SELECT()
      0x1784 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1794
@@ -2170,12 +2170,12 @@ SUBROUTINE_09D9:
      0x1809 [0x02] IF !(ExtData[1]->WorkLocal[47] < 50*) GOTO 0x1818
      0x1811 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[49], bit_index_work_offset=5*, condition_work_offset=1*)
      0x1818 [0x02] IF !(ExtData[1]->WorkLocal[49] == 1118480*) GOTO 0x182C
-     0x1820 [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
+     0x1820 [0x1D] PRINT_EVENT_MESSAGE(message_id=7585*)
     → "I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war..."
      0x1823 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1824 [0x03] Work_Zone[1] = 109*
      0x1829 [0x01] GOTO 0x1894
-     0x182C [0x24] CREATE_DIALOG(message_id=7580*, default_option=0*, option_flags=ExtData[1]->WorkLocal[49])
+     0x182C [0x24] CREATE_DIALOG(message_id=7581*, default_option=0*, option_flags=ExtData[1]->WorkLocal[49])
     → "Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]"
      0x1833 [0x25] WAIT_DIALOG_SELECT()
      0x1834 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1844
@@ -2201,10 +2201,10 @@ SUBROUTINE_09D9:
      0x1896 [0x3E] IF !(Work_Zone[3] bit 0*) GOTO 0x18BE
      0x189D [0x02] IF !(Work_Zone[4] >= 10*) GOTO 0x18B6
      0x18A5 [0x03] Work_Zone[2] = 10*
-     0x18AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
+     0x18AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7115*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
      0x18AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x18AE [0x48] [System] [7084*]:
+     0x18AE [0x48] [System] [7085*]:
     → "I am sorry. You do not have enough Allied Notes."
      0x18B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18B2 [0x1B] RETURN
@@ -2214,10 +2214,10 @@ SUBROUTINE_09D9:
      0x18BE [0x02] IF !(ExtData[1]->WorkLocal[14] == 4*) GOTO 0x18E7
      0x18C6 [0x02] IF !(Work_Zone[4] >= 50*) GOTO 0x18DF
      0x18CE [0x03] Work_Zone[2] = 50*
-     0x18D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
+     0x18D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7115*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
      0x18D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x18D7 [0x48] [System] [7084*]:
+     0x18D7 [0x48] [System] [7085*]:
     → "I am sorry. You do not have enough Allied Notes."
      0x18DA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18DB [0x1B] RETURN
@@ -2226,26 +2226,26 @@ SUBROUTINE_09D9:
      0x18E4 [0x01] GOTO 0x1905
      0x18E7 [0x02] IF !(Work_Zone[4] >= 30*) GOTO 0x1900
      0x18EF [0x03] Work_Zone[2] = 30*
-     0x18F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
+     0x18F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7115*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
      0x18F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x18F8 [0x48] [System] [7084*]:
+     0x18F8 [0x48] [System] [7085*]:
     → "I am sorry. You do not have enough Allied Notes."
      0x18FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x18FC [0x1B] RETURN
      0x18FD [0x01] GOTO 0x1905
      0x1900 [0x03] Work_Zone[2] = 30*
-     0x1905 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
+     0x1905 [0x1D] PRINT_EVENT_MESSAGE(message_id=7115*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
      0x1908 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1909 [0x24] CREATE_DIALOG(message_id=7115*, default_option=1*, option_flags=0*)
+     0x1909 [0x24] CREATE_DIALOG(message_id=7116*, default_option=1*, option_flags=0*)
     → "Complete transaction and return to capital? [Yes./No.]"
      0x1910 [0x25] WAIT_DIALOG_SELECT()
      0x1911 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x194A
      0x1919 [0x03] Work_Zone[1] = 1*
      0x191E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x1920 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x1922 [0x1D] PRINT_EVENT_MESSAGE(message_id=7116*)
+     0x1922 [0x1D] PRINT_EVENT_MESSAGE(message_id=7117*)
     → "Understood. Good work today, <Player>."
      0x1925 [0x73] EventEntity casts magic 266* on LocalPlayer
      0x1930 [0x1C] WAIT(260* ticks)
@@ -2257,83 +2257,83 @@ SUBROUTINE_09D9:
      0x1955 [0x1B] RETURN
      0x1956 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x1957 [0x03] ExtData[1]->WorkLocal[15] = 0*
-     0x195C [0x24] CREATE_DIALOG(message_id=7094*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+     0x195C [0x24] CREATE_DIALOG(message_id=7095*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "What would you like to know? [Nothing. I'm sorry./About performance assessment./About Allied Tags./About temporary items./About Unions.]"
      0x1963 [0x25] WAIT_DIALOG_SELECT()
      0x1964 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1970
      0x196C [0x1B] RETURN
      0x196D [0x01] GOTO 0x19FC
      0x1970 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1996
-     0x1978 [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
+     0x1978 [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
     → "Anyone wearing Allied Tags while participating in a campaign battle will be judged on their overall performance."
      0x197B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x197C [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
+     0x197C [0x1D] PRINT_EVENT_MESSAGE(message_id=7102*)
     → "Soldiers will be evaluated not only on their fighting skills, but also on how much they contribute to the efforts of their allies through means such as healing and enhancing."
      0x197F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1980 [0x1D] PRINT_EVENT_MESSAGE(message_id=7102*)
+     0x1980 [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
     → "However, beware that if you leave the area before being assessed, you will be deemed a deserter and will forfeit all rewards earned that day."
      0x1983 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1984 [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
+     0x1984 [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
     → "Also, while there are no immediate penalties for being knocked out, falling in battle will significantly lower the score given to you."
      0x1987 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1988 [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
+     0x1988 [0x1D] PRINT_EVENT_MESSAGE(message_id=7105*)
     → "When you are ready to receive compensation for your work on the field, return to me and I shall assess your performance and provide you with your payment."
      0x198B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x198C [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
+     0x198C [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "That is all."
      0x198F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1990 [0x01] GOTO 0x1956
      0x1993 [0x01] GOTO 0x19FC
      0x1996 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x19B4
-     0x199E [0x1D] PRINT_EVENT_MESSAGE(message_id=7105*)
+     0x199E [0x1D] PRINT_EVENT_MESSAGE(message_id=7106*)
     → "Allied Tags are a special type of identification given to all participants of Allied Campaign battles."
      0x19A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7106*)
+     0x19A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7107*)
     → "There are benefits, as well as drawbacks, to wearing the tags. One of the benefits is that in the case you are knocked out on the battlefield, you will not lose any experience points."
      0x19A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7107*)
+     0x19A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7108*)
     → "However, some of the drawbacks include the inability to improve skills and earn experience points for individual kills, as well as the right to loot fallen enemies."
      0x19A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
+     0x19AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "That is all."
      0x19AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19AE [0x01] GOTO 0x1956
      0x19B1 [0x01] GOTO 0x19FC
      0x19B4 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x19D6
-     0x19BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7108*)
+     0x19BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7109*)
     → "Temporary items can be purchased in exchange for Allied Notes."
      0x19BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7109*)
+     0x19C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7110*)
     → "There are several different varieties of items, but they all have one thing in common--they can only be used on the battlefield they were issued."
      0x19C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7110*)
+     0x19C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7111*)
     → "It is highly recommended that you first survey a battle's conditions and then select the supplies that you believe will benefit you most."
      0x19C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7111*)
+     0x19C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7112*)
     → "Please remember that all temporary items you carry on your person will be confiscated in the event that you leave the area."
      0x19CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
+     0x19CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "That is all."
      0x19CF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19D0 [0x01] GOTO 0x1956
      0x19D3 [0x01] GOTO 0x19FC
      0x19D6 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x19FC
-     0x19DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
+     0x19DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7141*)
     → "Oh ho! Keen to join a Union, are we? Very well. Listen up and I shall tell you all you need to know."
      0x19E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7141*)
+     0x19E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7142*)
     → "In order to better coordinate Allied efforts against the beastman menace, we have instituted a system of ad hoc tactical regiments called "Unions." With five units to a battlefield, union registration is open to any proven soldier in possession of Allied Tags."
      0x19E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7142*)
+     0x19E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7143*)
     → "In return for their aid in advancing the war effort, union registrants will be eligible to earn a share of the spoils of war."
      0x19E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7143*)
+     0x19EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7144*)
     → "Needless to say, the choicest rewards will be reserved for those unions which make the greatest contributions in combat. Prove your mettle on the field of battle, and you will earn glory for your union, as well as a sizable bounty of your own."
      0x19ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7144*)
+     0x19EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7145*)
     → "Be forewarned that your commitment to your union comes first and foremost. In the aftermath of battle, you will not be permitted to reap rewards from your individual exploits until your union has distributed its plunder."
      0x19F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x19F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7113*)
+     0x19F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7114*)
     → "That is all."
      0x19F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19F6 [0x01] GOTO 0x1956

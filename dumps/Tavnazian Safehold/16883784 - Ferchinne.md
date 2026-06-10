@@ -25,46 +25,46 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2A37      |       10807 |
+|       0 | 0x2A38      |       10808 |
 |       1 | 0x0027      |          39 |
-|       2 | 0x2A38      |       10808 |
-|       3 | 0x2A39      |       10809 |
-|       4 | 0x2A3A      |       10810 |
-|       5 | 0x2A3B      |       10811 |
-|       6 | 0x2A3C      |       10812 |
-|       7 | 0x2A3D      |       10813 |
-|       8 | 0x2A3E      |       10814 |
-|       9 | 0x2A3F      |       10815 |
-|      10 | 0x2A40      |       10816 |
-|      11 | 0x2A41      |       10817 |
-|      12 | 0x2A42      |       10818 |
-|      13 | 0x2A43      |       10819 |
-|      14 | 0x2A44      |       10820 |
+|       2 | 0x2A39      |       10809 |
+|       3 | 0x2A3A      |       10810 |
+|       4 | 0x2A3B      |       10811 |
+|       5 | 0x2A3C      |       10812 |
+|       6 | 0x2A3D      |       10813 |
+|       7 | 0x2A3E      |       10814 |
+|       8 | 0x2A3F      |       10815 |
+|       9 | 0x2A40      |       10816 |
+|      10 | 0x2A41      |       10817 |
+|      11 | 0x2A42      |       10818 |
+|      12 | 0x2A43      |       10819 |
+|      13 | 0x2A44      |       10820 |
+|      14 | 0x2A45      |       10821 |
 |      15 | 0x00C9      |         201 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x2A45      |       10821 |
-|      18 | 0x2A46      |       10822 |
-|      19 | 0x2A47      |       10823 |
+|      17 | 0x2A46      |       10822 |
+|      18 | 0x2A47      |       10823 |
+|      19 | 0x2A48      |       10824 |
 
 ## String References
 
-- **10807**: It is not only the adults of the safehold who wish to improve our current situation--many of the younger men and women are also trying to make a difference.
-- **10808**: However, what they fail to realize is that cowering behind the walls of the city won't change anything...
-- **10809**: My name is Ferchinne. I was tired of seeing my people suffer, so I decided to journey forth from the confines of the safehold in order to earn the title of Dragon Slayer.
-- **10810**: I trained for many months, but I feel I still lack the skills needed to defeat a truly horrifying dragon. To be a true Dragon Slayer, one must be able to soar like a dragon, not only physically, but mentally.
-- **10811**: Perhaps I need wings of my own to catch the winds of the endless skies...
-- **10812**: The city elders told me that once, long ago, there were knights in the Kingdom of San d'Oria that could fly as high as the clouds.
-- **10813**: Brave adventurer, have you ever seen a noble bird that walks on four legs? A proud beast that has the wings of an eagle?
-- **10814**: If you come across one of these mythical creatures, I would greatly appreciate it if you removed its tailfeathers and brought them back here to me.
-- **10815**: It is said that while those feathers are unbelievably light, they are remarkably sturdy. If I were to bond them together with wax, I could make wings of my own!
-- **10816**: Bring back two and I will reward you with something special.
-- **10817**: The luster, the touch... Yes, these are the feathers that I have been searching for. Thank you so very much. Now, maybe I can fly as high as the dragons themselves!
-- **10818**: Here, take this as a token of my appreciation.
-- **10819**: I was given that stone by an old merchant while traveling through the Eastern empire. He told me that it had the power to dissolve the clouds and rob mighty dragons of their ability to fly.
-- **10820**: But even if it does not have that power, I'm sure you can find someone who will purchase it from you for a large sum of gil.
-- **10821**: <Sigh> Will I ever be able to fly... Perhaps I need more feathers...
-- **10822**: I am sorry to bother you again, but if you come across any more of the legendary tailfeathers, I beg of you to bring them to me.
-- **10823**: Thank you, kind [sir/adventurer].
+- **10808**: It is not only the adults of the safehold who wish to improve our current situation--many of the younger men and women are also trying to make a difference.
+- **10809**: However, what they fail to realize is that cowering behind the walls of the city won't change anything...
+- **10810**: My name is Ferchinne. I was tired of seeing my people suffer, so I decided to journey forth from the confines of the safehold in order to earn the title of Dragon Slayer.
+- **10811**: I trained for many months, but I feel I still lack the skills needed to defeat a truly horrifying dragon. To be a true Dragon Slayer, one must be able to soar like a dragon, not only physically, but mentally.
+- **10812**: Perhaps I need wings of my own to catch the winds of the endless skies...
+- **10813**: The city elders told me that once, long ago, there were knights in the Kingdom of San d'Oria that could fly as high as the clouds.
+- **10814**: Brave adventurer, have you ever seen a noble bird that walks on four legs? A proud beast that has the wings of an eagle?
+- **10815**: If you come across one of these mythical creatures, I would greatly appreciate it if you removed its tailfeathers and brought them back here to me.
+- **10816**: It is said that while those feathers are unbelievably light, they are remarkably sturdy. If I were to bond them together with wax, I could make wings of my own!
+- **10817**: Bring back two and I will reward you with something special.
+- **10818**: The luster, the touch... Yes, these are the feathers that I have been searching for. Thank you so very much. Now, maybe I can fly as high as the dragons themselves!
+- **10819**: Here, take this as a token of my appreciation.
+- **10820**: I was given that stone by an old merchant while traveling through the Eastern empire. He told me that it had the power to dissolve the clouds and rob mighty dragons of their ability to fly.
+- **10821**: But even if it does not have that power, I'm sure you can find someone who will purchase it from you for a large sum of gil.
+- **10822**: <Sigh> Will I ever be able to fly... Perhaps I need more feathers...
+- **10823**: I am sorry to bother you again, but if you come across any more of the legendary tailfeathers, I beg of you to bring them to me.
+- **10824**: Thank you, kind [sir/adventurer].
 
 ## Events
 
@@ -111,11 +111,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10807*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10808*)
     → "It is not only the adults of the safehold who wish to improve our current situation--many of the younger men and women are also trying to make a difference."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Epinolle (ID: 16883782/0x0101A046), Epinolle (ID: 16883782/0x0101A046)], work=39*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10808*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
     → "However, what they fail to realize is that cowering behind the walls of the city won't change anything..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT
@@ -149,32 +149,32 @@
 
 ```
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
+  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
     → "My name is Ferchinne. I was tired of seeing my people suffer, so I decided to journey forth from the confines of the safehold in order to earn the title of Dragon Slayer."
   2: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
-  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
+  4: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
     → "I trained for many months, but I feel I still lack the skills needed to defeat a truly horrifying dragon. To be a true Dragon Slayer, one must be able to soar like a dragon, not only physically, but mentally."
   5: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
+  6: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
     → "Perhaps I need wings of my own to catch the winds of the endless skies..."
   7: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
+  8: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
     → "The city elders told me that once, long ago, there were knights in the Kingdom of San d'Oria that could fly as high as the clouds."
   9: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0043 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
- 11: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
+ 11: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
     → "Brave adventurer, have you ever seen a noble bird that walks on four legs? A proud beast that has the wings of an eagle?"
  12: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0056 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
- 14: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
+ 14: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
     → "If you come across one of these mythical creatures, I would greatly appreciate it if you removed its tailfeathers and brought them back here to me."
  15: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
+ 16: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
     → "It is said that while those feathers are unbelievably light, they are remarkably sturdy. If I were to bond them together with wax, I could make wings of my own!"
  17: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
- 19: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
+ 19: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
     → "Bring back two and I will reward you with something special."
  20: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0080 [0x21] END_EVENT
@@ -204,18 +204,18 @@
 
 ```
   0: 0x0082 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
+  1: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
     → "Brave adventurer, have you ever seen a noble bird that walks on four legs? A proud beast that has the wings of an eagle?"
   2: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x008B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
-  4: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
+  4: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
     → "If you come across one of these mythical creatures, I would greatly appreciate it if you removed its tailfeathers and brought them back here to me."
   5: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
+  6: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
     → "It is said that while those feathers are unbelievably light, they are remarkably sturdy. If I were to bond them together with wax, I could make wings of my own!"
   7: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
-  9: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
+  9: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
     → "Bring back two and I will reward you with something special."
  10: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00B5 [0x21] END_EVENT
@@ -247,18 +247,18 @@
 ```
   0: 0x00B7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00B8 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
+  2: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
     → "The luster, the touch... Yes, these are the feathers that I have been searching for. Thank you so very much. Now, maybe I can fly as high as the dragons themselves!"
   3: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
-  5: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
+  5: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
     → "Here, take this as a token of my appreciation."
   6: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
+  7: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
     → "I was given that stone by an old merchant while traveling through the Eastern empire. He told me that it had the power to dissolve the clouds and rob mighty dragons of their ability to fly."
   8: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
- 10: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
+ 10: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
     → "But even if it does not have that power, I'm sure you can find someone who will purchase it from you for a large sum of gil."
  11: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -288,11 +288,11 @@
 
 ```
   0: 0x00FE [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
+  1: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
     → "<Sigh> Will I ever be able to fly... Perhaps I need more feathers..."
   2: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ferchinne (ID: 16883784/0x0101A048), Ferchinne (ID: 16883784/0x0101A048)], work=39*
-  4: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
+  4: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
     → "I am sorry to bother you again, but if you come across any more of the legendary tailfeathers, I beg of you to bring them to me."
   5: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x011A [0x21] END_EVENT
@@ -322,7 +322,7 @@
 ```
   0: 0x011C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x011D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
+  2: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
     → "Thank you, kind [sir/adventurer]."
   3: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0126 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [EventEntity, EventEntity], work=[201*, 0*]

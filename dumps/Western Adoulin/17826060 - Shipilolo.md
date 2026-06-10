@@ -29,76 +29,76 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x2692      |        9874 |
-|       2 | 0x2693      |        9875 |
-|       3 | 0x2694      |        9876 |
-|       4 | 0x1EFD      |        7933 |
-|       5 | 0x1EFE      |        7934 |
+|       1 | 0x2693      |        9875 |
+|       2 | 0x2694      |        9876 |
+|       3 | 0x2695      |        9877 |
+|       4 | 0x1EFE      |        7934 |
+|       5 | 0x1EFF      |        7935 |
 |       6 | 0x0890      |        2192 |
-|       7 | 0x1EFF      |        7935 |
-|       8 | 0x1F00      |        7936 |
-|       9 | 0x1F01      |        7937 |
-|      10 | 0x1F02      |        7938 |
-|      11 | 0x1F03      |        7939 |
+|       7 | 0x1F00      |        7936 |
+|       8 | 0x1F01      |        7937 |
+|       9 | 0x1F02      |        7938 |
+|      10 | 0x1F03      |        7939 |
+|      11 | 0x1F04      |        7940 |
 |      12 | 0x002E      |          46 |
-|      13 | 0x1F04      |        7940 |
-|      14 | 0x1F05      |        7941 |
-|      15 | 0x1F06      |        7942 |
-|      16 | 0x1F07      |        7943 |
-|      17 | 0x1F08      |        7944 |
-|      18 | 0x1F2B      |        7979 |
-|      19 | 0x1F2C      |        7980 |
-|      20 | 0x1F2D      |        7981 |
-|      21 | 0x1F2E      |        7982 |
-|      22 | 0x1F2F      |        7983 |
+|      13 | 0x1F05      |        7941 |
+|      14 | 0x1F06      |        7942 |
+|      15 | 0x1F07      |        7943 |
+|      16 | 0x1F08      |        7944 |
+|      17 | 0x1F09      |        7945 |
+|      18 | 0x1F2C      |        7980 |
+|      19 | 0x1F2D      |        7981 |
+|      20 | 0x1F2E      |        7982 |
+|      21 | 0x1F2F      |        7983 |
+|      22 | 0x1F30      |        7984 |
 |      23 | 0x08D7      |        2263 |
-|      24 | 0x1FA7      |        8103 |
-|      25 | 0x1FA8      |        8104 |
+|      24 | 0x1FA8      |        8104 |
+|      25 | 0x1FA9      |        8105 |
 |      26 | 0x0078      |         120 |
-|      27 | 0x1FA9      |        8105 |
-|      28 | 0x1FAA      |        8106 |
-|      29 | 0x1FAB      |        8107 |
-|      30 | 0x1FAC      |        8108 |
-|      31 | 0x1FAD      |        8109 |
+|      27 | 0x1FAA      |        8106 |
+|      28 | 0x1FAB      |        8107 |
+|      29 | 0x1FAC      |        8108 |
+|      30 | 0x1FAD      |        8109 |
+|      31 | 0x1FAE      |        8110 |
 |      32 | 0x0001      |           1 |
 |      33 | 0x08D8      |        2264 |
-|      34 | 0x1FBB      |        8123 |
-|      35 | 0x1FBC      |        8124 |
+|      34 | 0x1FBC      |        8124 |
+|      35 | 0x1FBD      |        8125 |
 |      36 | 0x094C      |        2380 |
-|      37 | 0x1FBD      |        8125 |
+|      37 | 0x1FBE      |        8126 |
 
 ## String References
 
-- **7933**: If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
-- **7934**: Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?
-- **7935**: What? You want us to fixy-wix $6 for some fisherman? Hmmm...
-- **7936**: No problem! Just because we're the greataruest coalition around doesn't mean we're above helping townsfolk.
-- **7937**: We get jobs like this all the time! I've spruced up tools and tinkered with utensils for citizen-witizens so often that I've lost countaru.
-- **7938**: Also, the more good deeds I do, the more popular-wopular I become! I'll have the whole city licking my bootarus soon enough.
-- **7939**: ...Oh, yes. The harpoon.
-- **7940**: First, bang on it with some heavy-weavy tools... Next, twistaru until just before the breaking point... ...And there we go. Drumroll please...
-- **7941**: Ta-da! Here you are, perfectly reconstructarued!
-- **7942**: Well, actually, it should be better than before. I enhanced its durability so it'll last multiple-wultiple times as long.
-- **7943**: Since I'm so generous-wenerous, I also took the liberty of adding a button that makes it expand and retract. I'm just that selfless.
-- **7944**: No need to thank me. Your love and adoration should prove more than sufficientaru.
-- **7979**: If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
-- **7980**: Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?
-- **7981**: On patrol, you say? Let me think. Do we have any tasky-wasks that require your assistance...?
-- **7982**: We're currently working on all the gadgetarus in need of repair, that fertilizer has been sent to the Civic Arboretum, and I believe our research into Mog Garden construction is progressing-wessing well.
-- **7983**: The only thing I can think of is how we sometimes run out of materials. We wouldn't have to worry if you'd take some assignmentarus from us, though. You know, the more jobs you undertake, the more you get to see wonderful little me.
-- **8103**: Why, hello there. Here to see the loveliest lady of the Inventors' Coalition?
-- **8104**: No? ...The Civic Arboretum sent you? Aha--you must be after some $5, then.
-- **8105**: I'm stuck at my post thanks to Amchuchu, so since you're here, mind delivering this for me? It's my own special creation.
-- **8106**: But will vegetables grown using $5 really be safe to use? I mean, aren't the ones grown by Mother Nature herself the tastiest of all?
-- **8107**: Oh, I'm not attacking the Civic Arboretum. Please don't take it that way.
-- **8108**: If it weren't for them, people in the slums might have to go hungry.
-- **8109**: I can vouch for the quality of these $5. I would never give them anything that didn't have my seal of approval.
-- **8123**: No? Sharuru? That hussy? Oh--she sent you here. I see. Then you must be interested in the $3.
-- **8124**: One moment. A little tweak here... A couple adjustments there... ...Yes. This will do nicely.
-- **8125**: There you go--$3. This should help you fix those waypoints right up!
-- **9874**: If you came here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
-- **9875**: If you happen to be intarusted in making your creations come to life, make sure to remember our name. You might want to make a note of mine, too, if you want to set up a meeting of the minds.
-- **9876**: Goodness gracious-wacious! You haven't registered as a pioneer yet? Then pay a visitaru to the Pioneers' Coalition along the main thoroughfare to the west.
+- **7934**: If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
+- **7935**: Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?
+- **7936**: What? You want us to fixy-wix $6 for some fisherman? Hmmm...
+- **7937**: No problem! Just because we're the greataruest coalition around doesn't mean we're above helping townsfolk.
+- **7938**: We get jobs like this all the time! I've spruced up tools and tinkered with utensils for citizen-witizens so often that I've lost countaru.
+- **7939**: Also, the more good deeds I do, the more popular-wopular I become! I'll have the whole city licking my bootarus soon enough.
+- **7940**: ...Oh, yes. The harpoon.
+- **7941**: First, bang on it with some heavy-weavy tools... Next, twistaru until just before the breaking point... ...And there we go. Drumroll please...
+- **7942**: Ta-da! Here you are, perfectly reconstructarued!
+- **7943**: Well, actually, it should be better than before. I enhanced its durability so it'll last multiple-wultiple times as long.
+- **7944**: Since I'm so generous-wenerous, I also took the liberty of adding a button that makes it expand and retract. I'm just that selfless.
+- **7945**: No need to thank me. Your love and adoration should prove more than sufficientaru.
+- **7980**: If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
+- **7981**: Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?
+- **7982**: On patrol, you say? Let me think. Do we have any tasky-wasks that require your assistance...?
+- **7983**: We're currently working on all the gadgetarus in need of repair, that fertilizer has been sent to the Civic Arboretum, and I believe our research into Mog Garden construction is progressing-wessing well.
+- **7984**: The only thing I can think of is how we sometimes run out of materials. We wouldn't have to worry if you'd take some assignmentarus from us, though. You know, the more jobs you undertake, the more you get to see wonderful little me.
+- **8104**: Why, hello there. Here to see the loveliest lady of the Inventors' Coalition?
+- **8105**: No? ...The Civic Arboretum sent you? Aha--you must be after some $5, then.
+- **8106**: I'm stuck at my post thanks to Amchuchu, so since you're here, mind delivering this for me? It's my own special creation.
+- **8107**: But will vegetables grown using $5 really be safe to use? I mean, aren't the ones grown by Mother Nature herself the tastiest of all?
+- **8108**: Oh, I'm not attacking the Civic Arboretum. Please don't take it that way.
+- **8109**: If it weren't for them, people in the slums might have to go hungry.
+- **8110**: I can vouch for the quality of these $5. I would never give them anything that didn't have my seal of approval.
+- **8124**: No? Sharuru? That hussy? Oh--she sent you here. I see. Then you must be interested in the $3.
+- **8125**: One moment. A little tweak here... A couple adjustments there... ...Yes. This will do nicely.
+- **8126**: There you go--$3. This should help you fix those waypoints right up!
+- **9875**: If you came here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition.
+- **9876**: If you happen to be intarusted in making your creations come to life, make sure to remember our name. You might want to make a note of mine, too, if you want to set up a meeting of the minds.
+- **9877**: Goodness gracious-wacious! You haven't registered as a pioneer yet? Then pay a visitaru to the Pioneers' Coalition along the main thoroughfare to the west.
 
 ## Events
 
@@ -150,13 +150,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
     → "If you came here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
     → "If you happen to be intarusted in making your creations come to life, make sure to remember our name. You might want to make a note of mine, too, if you want to set up a meeting of the minds."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9877*)
     → "Goodness gracious-wacious! You haven't registered as a pioneer yet? Then pay a visitaru to the Pioneers' Coalition along the main thoroughfare to the west."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -190,10 +190,10 @@
   1: 0x0039 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9874*)
+  4: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
     → "If you came here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition."
   5: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=9875*)
+  6: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=9876*)
     → "If you happen to be intarusted in making your creations come to life, make sure to remember our name. You might want to make a note of mine, too, if you want to set up a meeting of the minds."
   7: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0052 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -233,44 +233,44 @@
   2: 0x0069 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x006A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x006B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+  5: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition."
   6: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  7: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?"
   8: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0082 [0x03] Work_Zone[2] = 2192*
- 10: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+ 10: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "What? You want us to fixy-wix $6 for some fisherman? Hmmm..."
  11: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+ 12: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "No problem! Just because we're the greataruest coalition around doesn't mean we're above helping townsfolk."
  13: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+ 14: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "We get jobs like this all the time! I've spruced up tools and tinkered with utensils for citizen-witizens so often that I've lost countaru."
  15: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+ 16: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "Also, the more good deeds I do, the more popular-wopular I become! I'll have the whole city licking my bootarus soon enough."
  17: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+ 18: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "...Oh, yes. The harpoon."
  19: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x009B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "mdq0" with entities [EventEntity, EventEntity], work=46*
- 21: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+ 21: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "First, bang on it with some heavy-weavy tools... Next, twistaru until just before the breaking point... ...And there we go. Drumroll please..."
  22: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 24: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+ 24: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "Ta-da! Here you are, perfectly reconstructarued!"
  25: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 27: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+ 27: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "Well, actually, it should be better than before. I enhanced its durability so it'll last multiple-wultiple times as long."
  28: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+ 29: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "Since I'm so generous-wenerous, I also took the liberty of adding a button that makes it expand and retract. I'm just that selfless."
  30: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+ 31: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "No need to thank me. Your love and adoration should prove more than sufficientaru."
  32: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -306,19 +306,19 @@
   2: 0x00F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  5: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "If you're here seeking the brightaruest minds in all of Adoulin, then you're in luck! Welcome to the Inventors' Coalition."
   6: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+  7: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "Or maybe you've come to gaze longingly at me, the best coalition's postaru girl?"
   8: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+  9: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "On patrol, you say? Let me think. Do we have any tasky-wasks that require your assistance...?"
  10: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+ 11: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "We're currently working on all the gadgetarus in need of repair, that fertilizer has been sent to the Civic Arboretum, and I believe our research into Mog Garden construction is progressing-wessing well."
  12: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+ 13: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "The only thing I can think of is how we sometimes run out of materials. We wouldn't have to worry if you'd take some assignmentarus from us, though. You know, the more jobs you undertake, the more you get to see wonderful little me."
  14: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0118 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -358,28 +358,28 @@
   3: 0x0130 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   4: 0x0131 [0x03] Work_Zone[2] = 2263*
   5: 0x0136 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  6: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "Why, hello there. Here to see the loveliest lady of the Inventors' Coalition?"
   7: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  8: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "No? ...The Civic Arboretum sent you? Aha--you must be after some $5, then."
   9: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x014D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  11: 0x015C [0x1C] WAIT(120* ticks)
- 12: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+ 12: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "I'm stuck at my post thanks to Amchuchu, so since you're here, mind delivering this for me? It's my own special creation."
  13: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0163 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 15: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+ 15: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "But will vegetables grown using $5 really be safe to use? I mean, aren't the ones grown by Mother Nature herself the tastiest of all?"
  16: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
+ 17: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
     → "Oh, I'm not attacking the Civic Arboretum. Please don't take it that way."
  18: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
+ 19: 0x017A [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
     → "If it weren't for them, people in the slums might have to go hungry."
  20: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
+ 21: 0x017E [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
     → "I can vouch for the quality of these $5. I would never give them anything that didn't have my seal of approval."
  22: 0x0181 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0182 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -421,20 +421,20 @@
   3: 0x01A0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   4: 0x01A1 [0x03] Work_Zone[2] = 2264*
   5: 0x01A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  6: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "Why, hello there. Here to see the loveliest lady of the Inventors' Coalition?"
   7: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  8: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "No? Sharuru? That hussy? Oh--she sent you here. I see. Then you must be interested in the $3."
   9: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "mdq0" with entities [EventEntity, EventEntity], work=46*
- 11: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 11: 0x01CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "One moment. A little tweak here... A couple adjustments there... ...Yes. This will do nicely."
  12: 0x01CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  14: 0x01DF [0x1C] WAIT(120* ticks)
  15: 0x01E2 [0x03] Work_Zone[2] = 2380*
- 16: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 16: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "There you go--$3. This should help you fix those waypoints right up!"
  17: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

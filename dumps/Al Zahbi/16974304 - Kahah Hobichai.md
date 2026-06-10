@@ -21,12 +21,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1DD4      |        7636 |
+|       1 | 0x1DD5      |        7637 |
 |       2 | 0x0032      |          50 |
 
 ## String References
 
-- **7636**: You're the [man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!
+- **7637**: You're the [man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!
 
 ## Events
 
@@ -82,7 +82,7 @@
   5: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0012 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0013 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
     → "You're the [man/woman] who saved me! You rrreally got me out of a tight spot. Here, this is on the house!"
   9: 0x0017 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
  10: 0x0026 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

@@ -20,12 +20,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DBE      |        7614 |
+|       0 | 0x1DBF      |        7615 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1DBF      |        7615 |
+|       2 | 0x1DC0      |        7616 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1DC1      |        7617 |
+|       5 | 0x1DC2      |        7618 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x0015      |          21 |
 |       8 | 0x0003      |           3 |
@@ -46,7 +46,7 @@
 |      23 | 0x003C      |          60 |
 |      24 | 0x0046      |          70 |
 |      25 | 0x004B      |          75 |
-|      26 | 0x1DC3      |        7619 |
+|      26 | 0x1DC4      |        7620 |
 |      27 | 0x0017      |          23 |
 |      28 | 0x000A      |          10 |
 |      29 | 0x000B      |          11 |
@@ -56,21 +56,21 @@
 |      33 | 0x2C31      |       11313 |
 |      34 | 0x2C32      |       11314 |
 |      35 | 0x2C33      |       11315 |
-|      36 | 0x1DC4      |        7620 |
-|      37 | 0x1DC6      |        7622 |
-|      38 | 0x1DC5      |        7621 |
-|      39 | 0x1DC8      |        7624 |
+|      36 | 0x1DC5      |        7621 |
+|      37 | 0x1DC7      |        7623 |
+|      38 | 0x1DC6      |        7622 |
+|      39 | 0x1DC9      |        7625 |
 
 ## String References
 
-- **7614**: $0, $1, $2.
-- **7615**: Welcome to the Debug Menu!. [Run reward item test./Set key item./Remove key item.]
-- **7617**: Select a Key Item: [None./SCITM_5th_LV30 Reward Ticket/SCITM_5th_LV40 Reward Ticket/SCITM_5th_LV50 Reward Ticket/SCITM_5th_LV60 Reward Ticket/SCITM_5th_LV70 Reward Ticket/SCITM_5th_LV75 Reward Ticket/SCITM_5th_$3R$3$3v Reward Ticket]
-- **7619**: Use which key? [None./3 (Lv. $7-ish)/$3 (Lv. $8-ish)/$3 (Lv. $9-ish)/$3 (Lv. $10-ish)/$3 (Lv. $11-ish)/$3 (Lv. $12-ish)/$3 (Final Awesome)]
-- **7620**: Which will it be? [Nuttin'./#./$1./$2.]
-- **7621**: Is this what you really want? [Cough it up!/Nah.]
-- **7622**: One customized item comin' up!
-- **7624**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]
+- **7615**: $0, $1, $2.
+- **7616**: Welcome to the Debug Menu!. [Run reward item test./Set key item./Remove key item.]
+- **7618**: Select a Key Item: [None./SCITM_5th_LV30 Reward Ticket/SCITM_5th_LV40 Reward Ticket/SCITM_5th_LV50 Reward Ticket/SCITM_5th_LV60 Reward Ticket/SCITM_5th_LV70 Reward Ticket/SCITM_5th_LV75 Reward Ticket/SCITM_5th_$3R$3$3v Reward Ticket]
+- **7620**: Use which key? [None./3 (Lv. $7-ish)/$3 (Lv. $8-ish)/$3 (Lv. $9-ish)/$3 (Lv. $10-ish)/$3 (Lv. $11-ish)/$3 (Lv. $12-ish)/$3 (Final Awesome)]
+- **7621**: Which will it be? [Nuttin'./#./$1./$2.]
+- **7622**: Is this what you really want? [Cough it up!/Nah.]
+- **7623**: One customized item comin' up!
+- **7625**: [First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]
 
 ## Events
 
@@ -200,12 +200,12 @@
 ```
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[2]
   1: 0x0006 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "$0, $1, $2."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000F [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0059
   5: 0x0017 [0x06] ExtData[1]->WorkLocal[1] = 0
-  6: 0x001A [0x24] CREATE_DIALOG(message_id=7615*, default_option=0*, option_flags=0*)
+  6: 0x001A [0x24] CREATE_DIALOG(message_id=7616*, default_option=0*, option_flags=0*)
     → "Welcome to the Debug Menu!. [Run reward item test./Set key item./Remove key item.]"
   7: 0x0021 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0022 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0030
@@ -227,7 +227,7 @@ SUBROUTINE_0056:
  22: 0x005F [0x00] END_REQSTACK()
 
 SUBROUTINE_0060:
- 23: 0x0060 [0x24] CREATE_DIALOG(message_id=7617*, default_option=0*, option_flags=0*)
+ 23: 0x0060 [0x24] CREATE_DIALOG(message_id=7618*, default_option=0*, option_flags=0*)
     → "Select a Key Item: [None./SCITM_5th_LV30 Reward Ticket/SCITM_5th_LV40 Reward Ticket/SCITM_5th_LV50 Reward Ticket/SCITM_5th_LV60 Reward Ticket/SCITM_5th_LV70 Reward Ticket/SCITM_5th_LV75 Reward Ticket/SCITM_5th_$3R$3$3v Reward Ticket]"
  24: 0x0067 [0x25] WAIT_DIALOG_SELECT()
  25: 0x0068 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -265,7 +265,7 @@ SUBROUTINE_0130:
  55: 0x0130 [0x1B] RETURN
 
 SUBROUTINE_0131:
- 56: 0x0131 [0x24] CREATE_DIALOG(message_id=7617*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+ 56: 0x0131 [0x24] CREATE_DIALOG(message_id=7618*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Select a Key Item: [None./SCITM_5th_LV30 Reward Ticket/SCITM_5th_LV40 Reward Ticket/SCITM_5th_LV50 Reward Ticket/SCITM_5th_LV60 Reward Ticket/SCITM_5th_LV70 Reward Ticket/SCITM_5th_LV75 Reward Ticket/SCITM_5th_$3R$3$3v Reward Ticket]"
  57: 0x0138 [0x25] WAIT_DIALOG_SELECT()
  58: 0x0139 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0144
@@ -316,7 +316,7 @@ SUBROUTINE_0202:
  99: 0x0234 [0x03] Work_Zone_1700[2] = 60*
 100: 0x0239 [0x03] Work_Zone_1700[3] = 70*
 101: 0x023E [0x03] Work_Zone_1700[4] = 75*
-102: 0x0243 [0x24] CREATE_DIALOG(message_id=7619*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
+102: 0x0243 [0x24] CREATE_DIALOG(message_id=7620*, default_option=0*, option_flags=ExtData[1]->WorkLocal[12])
     → "Use which key? [None./3 (Lv. $7-ish)/$3 (Lv. $8-ish)/$3 (Lv. $9-ish)/$3 (Lv. $10-ish)/$3 (Lv. $11-ish)/$3 (Lv. $12-ish)/$3 (Final Awesome)]"
 103: 0x024A [0x25] WAIT_DIALOG_SELECT()
 104: 0x024B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0256
@@ -417,7 +417,7 @@ SUBROUTINE_03FF:
 181: 0x03FF [0x03] Work_Zone[2] = 11313*
 182: 0x0404 [0x03] Work_Zone[3] = 11314*
 183: 0x0409 [0x03] Work_Zone[4] = 11315*
-184: 0x040E [0x24] CREATE_DIALOG(message_id=7620*, default_option=0*, option_flags=0*)
+184: 0x040E [0x24] CREATE_DIALOG(message_id=7621*, default_option=0*, option_flags=0*)
     → "Which will it be? [Nuttin'./#./$1./$2.]"
 185: 0x0415 [0x25] WAIT_DIALOG_SELECT()
 186: 0x0416 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0421
@@ -446,10 +446,10 @@ SUBROUTINE_0469:
 
 SUBROUTINE_0479:
 207: 0x0479 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[7])
-208: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
+208: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
     → "One customized item comin' up!"
 209: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
-210: 0x0480 [0x24] CREATE_DIALOG(message_id=7621*, default_option=1*, option_flags=0*)
+210: 0x0480 [0x24] CREATE_DIALOG(message_id=7622*, default_option=1*, option_flags=0*)
     → "Is this what you really want? [Cough it up!/Nah.]"
 211: 0x0487 [0x25] WAIT_DIALOG_SELECT()
 212: 0x0488 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0498
@@ -470,10 +470,10 @@ SUBROUTINE_04A7:
 223: 0x04B5 [0x03] ExtData[1]->WorkLocal[15] = Work_Zone[3]
 224: 0x04BA [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[4]
 225: 0x04BF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[7], buffer1=ExtData[1]->WorkLocal[14], buffer2=ExtData[1]->WorkLocal[15], buffer3=ExtData[1]->WorkLocal[16])
-226: 0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7614*)
+226: 0x04C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
     → "$0, $1, $2."
 227: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-228: 0x04CD [0x24] CREATE_DIALOG(message_id=7621*, default_option=1*, option_flags=0*)
+228: 0x04CD [0x24] CREATE_DIALOG(message_id=7622*, default_option=1*, option_flags=0*)
     → "Is this what you really want? [Cough it up!/Nah.]"
 229: 0x04D4 [0x25] WAIT_DIALOG_SELECT()
 230: 0x04D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04EA
@@ -498,7 +498,7 @@ SUBROUTINE_04FE:
 243: 0x0511 [0x1B] RETURN
 
 SUBROUTINE_0512:
-244: 0x0512 [0x24] CREATE_DIALOG(message_id=7624*, default_option=0*, option_flags=0*)
+244: 0x0512 [0x24] CREATE_DIALOG(message_id=7625*, default_option=0*, option_flags=0*)
     → "[First/Second] bonus! Get yer freshly baked [first/second] bonus! [Don't do me no favors./Accuracy +10/Attack +10/Ranged Accuracy +10/Ranged Attack +10/Evasion +10/"Magic Accuracy Bonus"+4/"Magic Attack Bonus"+4/Double Attack rate +2%/Critical hit rate +3%/"Store TP"+4 "Subtle Blow"+4/Enmity+5/Enimity-5/Enhances "Fast Casting" effect (+5%)/"Call Beast" ability delay -15/"Snap Shot"+5%/Enhances "Dual Wield" effect (+3%)/"Blood Pact" ability delay -4/Avatar perpetuation cost -2/"Quick Draw" ability delay -5/Pet: Accuracy+15 Ranged Accuracy+15/Pet: Attack+15 Ranged Attack+15/Pet: Magic Accuracy+7 Magic Attack+7/Pet: "Double Attack"+2% Critical hit rate+2%]"
 245: 0x0519 [0x25] WAIT_DIALOG_SELECT()
 246: 0x051A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x052A

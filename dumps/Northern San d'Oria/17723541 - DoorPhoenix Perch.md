@@ -37,44 +37,44 @@
 |      11 | 0x0019      |          25 |
 |      12 | 0x0096      |         150 |
 |      13 | 0x00B4      |         180 |
-|      14 | 0x329C      |       12956 |
+|      14 | 0x329D      |       12957 |
 |      15 | 0x001E      |          30 |
-|      16 | 0x329D      |       12957 |
+|      16 | 0x329E      |       12958 |
 |      17 | 0x000E      |          14 |
-|      18 | 0x329E      |       12958 |
-|      19 | 0x329F      |       12959 |
-|      20 | 0x32A0      |       12960 |
-|      21 | 0x32A1      |       12961 |
+|      18 | 0x329F      |       12959 |
+|      19 | 0x32A0      |       12960 |
+|      20 | 0x32A1      |       12961 |
+|      21 | 0x32A2      |       12962 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x32A2      |       12962 |
+|      23 | 0x32A3      |       12963 |
 |      24 | 0x062F      |        1583 |
-|      25 | 0x32A4      |       12964 |
+|      25 | 0x32A5      |       12965 |
 |      26 | 0x00AA      |         170 |
-|      27 | 0x32A5      |       12965 |
-|      28 | 0x32A6      |       12966 |
+|      27 | 0x32A6      |       12966 |
+|      28 | 0x32A7      |       12967 |
 |      29 | 0x000F      |          15 |
-|      30 | 0x32A7      |       12967 |
-|      31 | 0x32A8      |       12968 |
-|      32 | 0x32A9      |       12969 |
-|      33 | 0x32AA      |       12970 |
-|      34 | 0x32AB      |       12971 |
-|      35 | 0x32AC      |       12972 |
+|      30 | 0x32A8      |       12968 |
+|      31 | 0x32A9      |       12969 |
+|      32 | 0x32AA      |       12970 |
+|      33 | 0x32AB      |       12971 |
+|      34 | 0x32AC      |       12972 |
+|      35 | 0x32AD      |       12973 |
 |      36 | 0x00F3      |         243 |
-|      37 | 0x32AD      |       12973 |
-|      38 | 0x32AE      |       12974 |
+|      37 | 0x32AE      |       12974 |
+|      38 | 0x32AF      |       12975 |
 |      39 | 0x007F      |         127 |
-|      40 | 0x32AF      |       12975 |
-|      41 | 0x32B0      |       12976 |
-|      42 | 0x32B2      |       12978 |
-|      43 | 0x32B3      |       12979 |
-|      44 | 0x32B4      |       12980 |
-|      45 | 0x32B5      |       12981 |
-|      46 | 0x32B6      |       12982 |
-|      47 | 0x32B7      |       12983 |
-|      48 | 0x32B8      |       12984 |
+|      40 | 0x32B0      |       12976 |
+|      41 | 0x32B1      |       12977 |
+|      42 | 0x32B3      |       12979 |
+|      43 | 0x32B4      |       12980 |
+|      44 | 0x32B5      |       12981 |
+|      45 | 0x32B6      |       12982 |
+|      46 | 0x32B7      |       12983 |
+|      47 | 0x32B8      |       12984 |
+|      48 | 0x32B9      |       12985 |
 |      49 | 0x0050      |          80 |
-|      50 | 0x32B9      |       12985 |
-|      51 | 0x32BA      |       12986 |
+|      50 | 0x32BA      |       12986 |
+|      51 | 0x32BB      |       12987 |
 |      52 | 0x0018      |          24 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x007D      |         125 |
@@ -82,27 +82,27 @@
 |      56 | 0x0032      |          50 |
 |      57 | 0x0028      |          40 |
 |      58 | 0x0080      |         128 |
-|      59 | 0x32BC      |       12988 |
-|      60 | 0x32BD      |       12989 |
-|      61 | 0x32BE      |       12990 |
+|      59 | 0x32BD      |       12989 |
+|      60 | 0x32BE      |       12990 |
+|      61 | 0x32BF      |       12991 |
 |      62 | 0x00A0      |         160 |
-|      63 | 0x32BF      |       12991 |
-|      64 | 0x32C0      |       12992 |
-|      65 | 0x32C1      |       12993 |
-|      66 | 0x32C2      |       12994 |
-|      67 | 0x32C3      |       12995 |
-|      68 | 0x32C4      |       12996 |
-|      69 | 0x32C5      |       12997 |
-|      70 | 0x32C6      |       12998 |
-|      71 | 0x32C7      |       12999 |
-|      72 | 0x32C8      |       13000 |
-|      73 | 0x32C9      |       13001 |
-|      74 | 0x32CA      |       13002 |
+|      63 | 0x32C0      |       12992 |
+|      64 | 0x32C1      |       12993 |
+|      65 | 0x32C2      |       12994 |
+|      66 | 0x32C3      |       12995 |
+|      67 | 0x32C4      |       12996 |
+|      68 | 0x32C5      |       12997 |
+|      69 | 0x32C6      |       12998 |
+|      70 | 0x32C7      |       12999 |
+|      71 | 0x32C8      |       13000 |
+|      72 | 0x32C9      |       13001 |
+|      73 | 0x32CA      |       13002 |
+|      74 | 0x32CB      |       13003 |
 |      75 | 0x0FCE      |        4046 |
-|      76 | 0x32CB      |       13003 |
-|      77 | 0x32CC      |       13004 |
-|      78 | 0x32CD      |       13005 |
-|      79 | 0x32CE      |       13006 |
+|      76 | 0x32CC      |       13004 |
+|      77 | 0x32CD      |       13005 |
+|      78 | 0x32CE      |       13006 |
+|      79 | 0x32CF      |       13007 |
 |      80 | 0x01C2      |         450 |
 |      81 | 0x006B      |         107 |
 
@@ -643,11 +643,11 @@
 138: 0x0421 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [Miageau (ID: 17723404/0x010E700C), Miageau (ID: 17723404/0x010E700C)]
 139: 0x042E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [Nouveil (ID: 17723405/0x010E700D), Nouveil (ID: 17723405/0x010E700D)]
 140: 0x043B [0x1C] WAIT(60* ticks)
-141: 0x043E [0x2B] Shamonde (ID: 17723408/0x010E7010) [12956*]:
+141: 0x043E [0x2B] Shamonde (ID: 17723408/0x010E7010) [12957*]:
     → "I hereby declare the commencement of the Rites of Succession. The terms of selection will coincide with those found engraved on the recently discovered stone tablet of the Dragon King, Ranperre."
 142: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0446 [0x1C] WAIT(30* ticks)
-144: 0x0449 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12957*]:
+144: 0x0449 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12958*]:
     → ""Light will befall the great Vana'diel only when the true heir of d'Oraguille raises Lightbringer to the heavens.""
 145: 0x0450 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 146: 0x0461 [0x1C] WAIT(30* ticks)
@@ -656,12 +656,12 @@
 149: 0x0474 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Destin (ID: 17723582/0x010E70BE), Destin (ID: 17723582/0x010E70BE)], work=[200*, 0*]
 150: 0x0485 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y003" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 151: 0x0496 [0x1C] WAIT(60* ticks)
-152: 0x0499 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12958*]:
+152: 0x0499 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12959*]:
     → "We shall now watch as the two princes attempt to draw forth the holy sword."
 153: 0x04A0 [0x1C] WAIT(30* ticks)
 154: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x04A4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y003" with entities [LocalPlayer, LocalPlayer], work=14*
-156: 0x04B3 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12959*]:
+156: 0x04B3 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12960*]:
     → "Only then will it be known which is worthy to become our next king."
 157: 0x04BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 158: 0x04CB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y000" with entities [LocalPlayer, LocalPlayer], work=14*
@@ -672,12 +672,12 @@
 163: 0x04E8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shamonde (ID: 17723408/0x010E7010) Render.Flags0 and Render.Flags3 conditions are met
 164: 0x04ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 165: 0x04FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y001" with entities [LocalPlayer, LocalPlayer], work=14*
-166: 0x050D [0x2B] Shamonde (ID: 17723408/0x010E7010) [12960*]:
+166: 0x050D [0x2B] Shamonde (ID: 17723408/0x010E7010) [12961*]:
     → "Your Highness, have you any objections?"
 167: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0515 [0x79] Destin (ID: 17723582/0x010E70BE) looks at Shamonde (ID: 17723408/0x010E7010) (Basic look)
 169: 0x051F [0x1C] WAIT(30* ticks)
-170: 0x0522 [0x2B] Destin (ID: 17723582/0x010E70BE) [12961*]:
+170: 0x0522 [0x2B] Destin (ID: 17723582/0x010E70BE) [12962*]:
     → "I have none. Continue with the ceremony."
 171: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x052A [0x4A] Shamonde (ID: 17723408/0x010E7010) looks at Trion (ID: 17723394/0x010E7002)
@@ -687,7 +687,7 @@
 176: 0x0556 [0x7B] Destin (ID: 17723582/0x010E70BE) stops talking
 177: 0x055B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 178: 0x055C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shamonde (ID: 17723408/0x010E7010) Render.Flags0 and Render.Flags3 conditions are met
-179: 0x0561 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12962*]:
+179: 0x0561 [0x2B] Shamonde (ID: 17723408/0x010E7010) [12963*]:
     → "Prince Trion, come forth..."
 180: 0x0568 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0569 [0x27] REQ_SET(priority=0x03, entity_id=Arnau (ID: 17723407/0x010E700F), tag_num=0x03)
@@ -737,7 +737,7 @@
 225: 0x0698 [0x27] REQ_SET(priority=0x03, entity_id=Arnau (ID: 17723407/0x010E700F), tag_num=0x05)
 226: 0x069F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x06)
 227: 0x06A6 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x07)
-228: 0x06AD [0x2B] Pieuje (ID: 17723395/0x010E7003) [12964*]:
+228: 0x06AD [0x2B] Pieuje (ID: 17723395/0x010E7003) [12965*]:
     → "Who goes there!? Are you oblivious to the events that are transpiring here today?"
 229: 0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x06B5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y007" with entities [LocalPlayer, LocalPlayer], work=14*
@@ -752,37 +752,37 @@
 239: 0x070A [0x4A] Shamonde (ID: 17723408/0x010E7010) looks at Rochefogne (ID: 17723599/0x010E70CF)
 240: 0x0713 [0x4A] Arnau (ID: 17723407/0x010E700F) looks at Rochefogne (ID: 17723599/0x010E70CF)
 241: 0x071C [0x1C] WAIT(120* ticks)
-242: 0x071F [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12965*]:
+242: 0x071F [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12966*]:
     → "I am completely aware! That is why I have come!"
 243: 0x0726 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x0727 [0x69] SET_SOUND_VOLUME: Unmute flags=5*
 245: 0x072B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y008" with entities [LocalPlayer, LocalPlayer], work=14*
 246: 0x073A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y009" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 247: 0x074B [0x1C] WAIT(60* ticks)
-248: 0x074E [0x2B] Pieuje (ID: 17723395/0x010E7003) [12966*]:
+248: 0x074E [0x2B] Pieuje (ID: 17723395/0x010E7003) [12967*]:
     → "Coteaulepoint? What has come over you?"
 249: 0x0755 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x0756 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y009" with entities [LocalPlayer, LocalPlayer], work=14*
 251: 0x0765 [0x1C] WAIT(15* ticks)
 252: 0x0768 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y00a" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 253: 0x0779 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y00a" with entities [LocalPlayer, LocalPlayer], work=14*
-254: 0x0788 [0x2B] Trion (ID: 17723394/0x010E7002) [12967*]:
+254: 0x0788 [0x2B] Trion (ID: 17723394/0x010E7002) [12968*]:
     → "No... That voice... You are none other than the rogue, Rochefogne!"
 255: 0x078F [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0790 [0x1C] WAIT(10* ticks)
 257: 0x0793 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y010" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 258: 0x07A4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y010" with entities [LocalPlayer, LocalPlayer], work=14*
-259: 0x07B3 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12968*]:
+259: 0x07B3 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12969*]:
     → "I could care less of this play you perform for your own amusement. I have come for one reason, and one reason only--to take Lightbringer."
 260: 0x07BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x07BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y011" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 262: 0x07CC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y011" with entities [LocalPlayer, LocalPlayer], work=14*
-263: 0x07DB [0x2B] Trion (ID: 17723394/0x010E7002) [12969*]:
+263: 0x07DB [0x2B] Trion (ID: 17723394/0x010E7002) [12970*]:
     → "You should be dead! What is the meaning of this!?"
 264: 0x07E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x07E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y012" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 266: 0x07F4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y012" with entities [LocalPlayer, LocalPlayer], work=14*
-267: 0x0803 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12970*]:
+267: 0x0803 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12971*]:
     → "Hah. If you refer to the assassins you sent to kill me, you may be able to find them...at the bottom of the Bastore Sea."
 268: 0x080A [0x1C] WAIT(60* ticks)
 269: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -790,12 +790,12 @@
 271: 0x0811 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y013" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 272: 0x0822 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y013" with entities [LocalPlayer, LocalPlayer], work=14*
 273: 0x0831 [0x1C] WAIT(30* ticks)
-274: 0x0834 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12971*]:
+274: 0x0834 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12972*]:
     → "Their hidden identities only assisted me in erasing them, unnoticed, from the face of Vana'diel. And that is how I was successful in crashing your little party."
 275: 0x083B [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x083C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y014" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 277: 0x084D [0x1C] WAIT(30* ticks)
-278: 0x0850 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12972*]:
+278: 0x0850 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12973*]:
     → "If you do not wish to see your lovely sister's head rolling on the floor, you had best hand over Lightbringer."
 279: 0x0857 [0x1C] WAIT(30* ticks)
 280: 0x085A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se01" with entities [Shamonde (ID: 17723408/0x010E7010), Shamonde (ID: 17723408/0x010E7010)], work=[243*, 0*]
@@ -804,7 +804,7 @@
 283: 0x087B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 284: 0x088C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=14*
 285: 0x089B [0x7C] Trion (ID: 17723394/0x010E7002)->Render.Flags2 |= 0x00
-286: 0x08A1 [0x2B] Trion (ID: 17723394/0x010E7002) [12973*]:
+286: 0x08A1 [0x2B] Trion (ID: 17723394/0x010E7002) [12974*]:
     → "Why, you..."
 287: 0x08A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 288: 0x08A9 [0x7C] Trion (ID: 17723394/0x010E7002)->Render.Flags2 |= 0x01
@@ -812,20 +812,20 @@
 290: 0x08B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 291: 0x08C3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=14*
 292: 0x08D2 [0x1C] WAIT(60* ticks)
-293: 0x08D5 [0x2B] Trion (ID: 17723394/0x010E7002) [12974*]:
+293: 0x08D5 [0x2B] Trion (ID: 17723394/0x010E7002) [12975*]:
     → "As you wish, Rochefogne. On the count of three, I will throw you the holy sword, and you shall let the princess go."
 294: 0x08DC [0x1C] WAIT(120* ticks)
 295: 0x08DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x08E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0xFEFEFE00 with entities [Claidie (ID: 17723396/0x010E7004), Claidie (ID: 17723396/0x010E7004)], work=127*
 297: 0x08EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 298: 0x0900 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=14*
-299: 0x090F [0x2B] Trion (ID: 17723394/0x010E7002) [12975*]:
+299: 0x090F [0x2B] Trion (ID: 17723394/0x010E7002) [12976*]:
     → "One..."
 300: 0x0916 [0x1C] WAIT(30* ticks)
 301: 0x0919 [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x091A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 303: 0x092B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=14*
-304: 0x093A [0x2B] Trion (ID: 17723394/0x010E7002) [12976*]:
+304: 0x093A [0x2B] Trion (ID: 17723394/0x010E7002) [12977*]:
     → "Two..."
 305: 0x0941 [0x1C] WAIT(30* ticks)
 306: 0x0944 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -851,7 +851,7 @@
 326: 0x0A18 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 327: 0x0A29 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=14*
 328: 0x0A38 [0x1C] WAIT(20* ticks)
-329: 0x0A3B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12978*]:
+329: 0x0A3B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12979*]:
     → "A wise decision, Trion."
 330: 0x0A42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x0A43 [0x27] REQ_SET(priority=0x03, entity_id=Rahal (ID: 17723421/0x010E701D), tag_num=0x04)
@@ -873,18 +873,18 @@
 347: 0x0ACF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 348: 0x0AE0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=14*
 349: 0x0AEF [0x1C] WAIT(30* ticks)
-350: 0x0AF2 [0x2B] Trion (ID: 17723394/0x010E7002) [12979*]:
+350: 0x0AF2 [0x2B] Trion (ID: 17723394/0x010E7002) [12980*]:
     → "I need not your praise. But perhaps you may enlighten us--how do you plan to escape whilst surrounded by our Royal Knights?"
 351: 0x0AF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x0AFA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x010" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 353: 0x0B0B [0x1C] WAIT(30* ticks)
-354: 0x0B0E [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12980*]:
+354: 0x0B0E [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12981*]:
     → "Compared to what I have gone through to get this sword, escaping from this place will be child's play."
 355: 0x0B15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x0B16 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x010" with entities [LocalPlayer, LocalPlayer], work=14*
 357: 0x0B25 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 358: 0x0B36 [0x1C] WAIT(30* ticks)
-359: 0x0B39 [0x2B] Trion (ID: 17723394/0x010E7002) [12981*]:
+359: 0x0B39 [0x2B] Trion (ID: 17723394/0x010E7002) [12982*]:
     → "And what if the sword you hold is not the true Lightbringer?"
 360: 0x0B40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x0B41 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=14*
@@ -892,14 +892,14 @@
 363: 0x0B53 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 364: 0x0B64 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x07)
 365: 0x0B6B [0x1C] WAIT(30* ticks)
-366: 0x0B6E [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12982*]:
+366: 0x0B6E [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12983*]:
     → "What? Why, you...!"
 367: 0x0B75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0B76 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=14*
 369: 0x0B85 [0x1C] WAIT(10* ticks)
 370: 0x0B88 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 371: 0x0B99 [0x1C] WAIT(120* ticks)
-372: 0x0B9C [0x2B] Trion (ID: 17723394/0x010E7002) [12983*]:
+372: 0x0B9C [0x2B] Trion (ID: 17723394/0x010E7002) [12984*]:
     → "We had been expecting you all along. When your body did not turn up, we assumed that you were still out there, planning your next move. However, we did not expect that you would be posing as one of our own men."
 373: 0x0BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0BA4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=14*
@@ -907,7 +907,7 @@
 376: 0x0BB6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 377: 0x0BC7 [0x27] REQ_SET(priority=0x03, entity_id=Trion (ID: 17723394/0x010E7002), tag_num=0x0A)
 378: 0x0BCE [0x1C] WAIT(60* ticks)
-379: 0x0BD1 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12984*]:
+379: 0x0BD1 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12985*]:
     → "Ugh..."
 380: 0x0BD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x0BD9 [0x27] REQ_SET(priority=0x03, entity_id=Rochefogne (ID: 17723599/0x010E70CF), tag_num=0x08)
@@ -915,14 +915,14 @@
 383: 0x0BE3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=14*
 384: 0x0BF2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 385: 0x0C03 [0x1C] WAIT(20* ticks)
-386: 0x0C06 [0x2B] Trion (ID: 17723394/0x010E7002) [12985*]:
+386: 0x0C06 [0x2B] Trion (ID: 17723394/0x010E7002) [12986*]:
     → "Now has come the time to end your life--and the darkness that lurks about it. Come forth, O Lightbringer!"
 387: 0x0C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 388: 0x0C0E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=14*
 389: 0x0C1D [0x4A] Claidie (ID: 17723396/0x010E7004) looks at Trion (ID: 17723394/0x010E7002)
 390: 0x0C26 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=[14*, 0*]
 391: 0x0C37 [0x1C] WAIT(20* ticks)
-392: 0x0C3A [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12986*]:
+392: 0x0C3A [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12987*]:
     → "Trion! No!"
 393: 0x0C41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x0C42 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=14*
@@ -1039,7 +1039,7 @@
 505: 0x1044 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x04, target_entity=Claidie (ID: 17723396/0x010E7004), tag_num=0x0A)
 506: 0x104B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 507: 0x105C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=243*
-508: 0x106B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12988*]:
+508: 0x106B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12989*]:
     → "We cannot let Lightbringer fall into the hands of those fiends!"
 509: 0x1072 [0x1C] WAIT(30* ticks)
 510: 0x1075 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1049,14 +1049,14 @@
 514: 0x1087 [0x27] REQ_SET(priority=0x03, entity_id=Aramaviont (ID: 17723581/0x010E70BD), tag_num=0x05)
 515: 0x108E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 516: 0x109F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Destin (ID: 17723582/0x010E70BE))
-517: 0x10A5 [0x2B] Destin (ID: 17723582/0x010E70BE) [12989*]:
+517: 0x10A5 [0x2B] Destin (ID: 17723582/0x010E70BE) [12990*]:
     → "What is going on here? Where is Lightbringer!?"
 518: 0x10AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x10AD [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=150*)
 520: 0x10B2 [0x27] REQ_SET(priority=0x03, entity_id=Shamonde (ID: 17723408/0x010E7010), tag_num=0x02)
 521: 0x10B9 [0x1C] WAIT(15* ticks)
 522: 0x10BC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=243*
-523: 0x10CB [0x2B] Shamonde (ID: 17723408/0x010E7010) [12990*]:
+523: 0x10CB [0x2B] Shamonde (ID: 17723408/0x010E7010) [12991*]:
     → "Why!? The sword was unsheathed, but the Gates of Paradise did not open!"
 524: 0x10D2 [0x1C] WAIT(60* ticks)
 525: 0x10D5 [0x4A] Destin (ID: 17723582/0x010E70BE) looks at Shamonde (ID: 17723408/0x010E7010)
@@ -1084,12 +1084,12 @@
 547: 0x1191 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v00b" with entities [LocalPlayer, LocalPlayer], work=243*
 548: 0x11A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 549: 0x11A1 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shamonde (ID: 17723408/0x010E7010))
-550: 0x11A7 [0x2B] Trion (ID: 17723394/0x010E7002) [12991*]:
+550: 0x11A7 [0x2B] Trion (ID: 17723394/0x010E7002) [12992*]:
     → "The Gates of Paradise...?"
 551: 0x11AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x11AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v007" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 553: 0x11C0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v007" with entities [LocalPlayer, LocalPlayer], work=243*
-554: 0x11CF [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12992*]:
+554: 0x11CF [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12993*]:
     → "Hah! You know nothing of what that sword can do."
 555: 0x11D6 [0x1C] WAIT(30* ticks)
 556: 0x11D9 [0x4A] Destin (ID: 17723582/0x010E70BE) looks at Rochefogne (ID: 17723599/0x010E70CF)
@@ -1100,51 +1100,51 @@
 561: 0x11FA [0x1C] WAIT(10* ticks)
 562: 0x11FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 563: 0x11FE [0x1C] WAIT(30* ticks)
-564: 0x1201 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12993*]:
+564: 0x1201 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12994*]:
     → "That sword is the evil weapon that destroyed my country..."
 565: 0x1208 [0x23] WAIT_FOR_DIALOG_INTERACTION
 566: 0x1209 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 567: 0x121A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=243*
-568: 0x1229 [0x2B] Pieuje (ID: 17723395/0x010E7003) [12994*]:
+568: 0x1229 [0x2B] Pieuje (ID: 17723395/0x010E7003) [12995*]:
     → "How do you know this?"
 569: 0x1230 [0x23] WAIT_FOR_DIALOG_INTERACTION
 570: 0x1231 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 571: 0x1242 [0x1C] WAIT(10* ticks)
-572: 0x1245 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12995*]:
+572: 0x1245 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12996*]:
     → "I know this only because it was I who drew Lightbringer and brought an end to my homeland."
 573: 0x124C [0x1C] WAIT(180* ticks)
 574: 0x124F [0x23] WAIT_FOR_DIALOG_INTERACTION
-575: 0x1250 [0x2B] Trion (ID: 17723394/0x010E7002) [12996*]:
+575: 0x1250 [0x2B] Trion (ID: 17723394/0x010E7002) [12997*]:
     → "It cannot be!"
 576: 0x1257 [0x23] WAIT_FOR_DIALOG_INTERACTION
 577: 0x1258 [0x52] END_LOAD_SCHEDULER: End scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=243*
 578: 0x1267 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v010" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 579: 0x1278 [0x1C] WAIT(10* ticks)
-580: 0x127B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12997*]:
+580: 0x127B [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12998*]:
     → "Now is not the time to explain. However, Trion, you now know why I must reseal the holy sword."
 581: 0x1282 [0x23] WAIT_FOR_DIALOG_INTERACTION
 582: 0x1283 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v010" with entities [LocalPlayer, LocalPlayer], work=243*
 583: 0x1292 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v011" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 584: 0x12A3 [0x1C] WAIT(60* ticks)
 585: 0x12A6 [0x4A] Pieuje (ID: 17723395/0x010E7003) looks at Shamonde (ID: 17723408/0x010E7010)
-586: 0x12AF [0x2B] Trion (ID: 17723394/0x010E7002) [12998*]:
+586: 0x12AF [0x2B] Trion (ID: 17723394/0x010E7002) [12999*]:
     → "When I removed Lightbringer from its sheathe, it felt as if I had all of Vana'diel in the palm of my hand...as if all other life on this planet was useless..."
 587: 0x12B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x12B7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v011" with entities [LocalPlayer, LocalPlayer], work=243*
 589: 0x12C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v012" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 590: 0x12D7 [0x1C] WAIT(10* ticks)
-591: 0x12DA [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [12999*]:
+591: 0x12DA [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [13000*]:
     → "Had your sister not thrown the dreamrose pollen at you, you would have most certainly been consumed by the power of the sword."
 592: 0x12E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x12E2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "v012" with entities [LocalPlayer, LocalPlayer], work=243*
-594: 0x12F1 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [13000*]:
+594: 0x12F1 [0x2B] Rochefogne (ID: 17723599/0x010E70CF) [13001*]:
     → "We must retrieve Lightbringer from the grasp of the Orcs, then return it to its proper resting place in King Ranperre's Tomb. If we do not, another country may vanish from the face of...Vana'diel..."
 595: 0x12F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x12F9 [0x27] REQ_SET(priority=0x03, entity_id=Rochefogne (ID: 17723599/0x010E70CF), tag_num=0x0C)
 597: 0x1300 [0x1C] WAIT(20* ticks)
 598: 0x1303 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v013" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 599: 0x1314 [0x1C] WAIT(30* ticks)
-600: 0x1317 [0x2B] Claidie (ID: 17723396/0x010E7004) [13001*]:
+600: 0x1317 [0x2B] Claidie (ID: 17723396/0x010E7004) [13002*]:
     → "Rochefogne!?"
 601: 0x131E [0x1C] WAIT(60* ticks)
 602: 0x1321 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x0D)
@@ -1154,7 +1154,7 @@
 606: 0x133E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Destin (ID: 17723582/0x010E70BE), Destin (ID: 17723582/0x010E70BE)], work=[200*, 0*]
 607: 0x134F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
 608: 0x1360 [0x1C] WAIT(60* ticks)
-609: 0x1363 [0x2B] Trion (ID: 17723394/0x010E7002) [13002*]:
+609: 0x1363 [0x2B] Trion (ID: 17723394/0x010E7002) [13003*]:
     → "Then Lightbringer is not a bringer of light, but a bringer of darkness...?"
 610: 0x136A [0x23] WAIT_FOR_DIALOG_INTERACTION
 611: 0x136B [0x86] Claidie (ID: 17723396/0x010E7004)->Render.Flags3 ^= 0x01
@@ -1164,11 +1164,11 @@
 615: 0x137E [0x7B] Claidie (ID: 17723396/0x010E7004) stops talking
 616: 0x1383 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=243*
 617: 0x1392 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=[243*, 0*]
-618: 0x13A3 [0x2B] Claidie (ID: 17723396/0x010E7004) [13003*]:
+618: 0x13A3 [0x2B] Claidie (ID: 17723396/0x010E7004) [13004*]:
     → "Trion! Trion! Did you not hear Rochefogne? We must send our knights immediately!"
 619: 0x13AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 620: 0x13AB [0x1C] WAIT(60* ticks)
-621: 0x13AE [0x2B] Trion (ID: 17723394/0x010E7002) [13004*]:
+621: 0x13AE [0x2B] Trion (ID: 17723394/0x010E7002) [13005*]:
     → "..."
 622: 0x13B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x13B6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=243*
@@ -1178,7 +1178,7 @@
 627: 0x13E2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t002" with entities [LocalPlayer, LocalPlayer], work=243*
 628: 0x13F1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 629: 0x13F2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Destin (ID: 17723582/0x010E70BE) Render.Flags0 and Render.Flags3 conditions are met
-630: 0x13F7 [0x2B] Destin (ID: 17723582/0x010E70BE) [13005*]:
+630: 0x13F7 [0x2B] Destin (ID: 17723582/0x010E70BE) [13006*]:
     → "Trion! Get a hold of yourself! Rahal! Ready the Royal Knights and track down those Orcs! Curilla! Double the patrols of the Temple Knights in the city! As for the rest of you--let us retreat to the castle so we can plan our next move. Dismissed!"
 631: 0x13FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 632: 0x13FF [0x4A] Trion (ID: 17723394/0x010E7002) looks at Destin (ID: 17723582/0x010E70BE)
@@ -1191,7 +1191,7 @@
 639: 0x142E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=243*
 640: 0x143D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 641: 0x143E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Destin (ID: 17723582/0x010E70BE) Render.Flags0 and Render.Flags3 conditions are met
-642: 0x1443 [0x2B] Destin (ID: 17723582/0x010E70BE) [13006*]:
+642: 0x1443 [0x2B] Destin (ID: 17723582/0x010E70BE) [13007*]:
     → "As for you, Shamonde... I have a few questions..."
 643: 0x144A [0x23] WAIT_FOR_DIALOG_INTERACTION
 644: 0x144B [0x1C] WAIT(60* ticks)

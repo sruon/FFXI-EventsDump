@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EED      |        7917 |
-|       1 | 0x1EEE      |        7918 |
+|       0 | 0x1EEE      |        7918 |
+|       1 | 0x1EEF      |        7919 |
 |       2 | 0x0078      |         120 |
-|       3 | 0x1EEF      |        7919 |
+|       3 | 0x1EF0      |        7920 |
 
 ## String References
 
-- **7917**: This would seem a suitable place to apply Piketo-Puketo's $3.
-- **7918**: <Player> injected the $3 into the %.
-- **7919**: You hear the thud of an object striking the ground beside you.
+- **7918**: This would seem a suitable place to apply Piketo-Puketo's $3.
+- **7919**: <Player> injected the $3 into the %.
+- **7920**: You hear the thud of an object striking the ground beside you.
 
 ## Events
 
@@ -79,13 +79,13 @@
   1: 0x0002 [0x4A] LocalPlayer looks at EventEntity
   2: 0x000B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000D [0x48] [System] [7917*]:
+  4: 0x000D [0x48] [System] [7918*]:
     → "This would seem a suitable place to apply Piketo-Puketo's $3."
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0011 [0x48] [System] [7918*]:
+  6: 0x0011 [0x48] [System] [7919*]:
     → "<Player> injected the $3 into the %."
   7: 0x0014 [0x1C] WAIT(120* ticks)
-  8: 0x0017 [0x48] [System] [7919*]:
+  8: 0x0017 [0x48] [System] [7920*]:
     → "You hear the thud of an object striking the ground beside you."
   9: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001B [0x21] END_EVENT

@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E0C      |        7692 |
+|       0 | 0x1E0D      |        7693 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x000D      |          13 |
 |       3 | 0x0003      |           3 |
@@ -53,7 +53,7 @@
 
 ## String References
 
-- **7692**: Have you seen any of the accursed "maws," as they are being called? The apparitions floating about with those gaping jowls. I heard that in Jeuno they are trying desperately to figure out exactly what they are.
+- **7693**: Have you seen any of the accursed "maws," as they are being called? The apparitions floating about with those gaping jowls. I heard that in Jeuno they are trying desperately to figure out exactly what they are.
 
 ## Events
 
@@ -102,7 +102,7 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
     → "Have you seen any of the accursed "maws," as they are being called? The apparitions floating about with those gaping jowls. I heard that in Jeuno they are trying desperately to figure out exactly what they are."
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x21] END_EVENT

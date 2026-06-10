@@ -22,20 +22,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0064      |         100 |
-|       1 | 0x1FCA      |        8138 |
-|       2 | 0x1FCB      |        8139 |
-|       3 | 0x1FCC      |        8140 |
-|       4 | 0x1FCD      |        8141 |
+|       1 | 0x1FCB      |        8139 |
+|       2 | 0x1FCC      |        8140 |
+|       3 | 0x1FCD      |        8141 |
+|       4 | 0x1FCE      |        8142 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1FCE      |        8142 |
-|       7 | 0x1FCF      |        8143 |
-|       8 | 0x1FD0      |        8144 |
-|       9 | 0x1FD1      |        8145 |
-|      10 | 0x1FD2      |        8146 |
-|      11 | 0x1FD3      |        8147 |
-|      12 | 0x1FD4      |        8148 |
-|      13 | 0x1FD5      |        8149 |
-|      14 | 0x1FD6      |        8150 |
+|       6 | 0x1FCF      |        8143 |
+|       7 | 0x1FD0      |        8144 |
+|       8 | 0x1FD1      |        8145 |
+|       9 | 0x1FD2      |        8146 |
+|      10 | 0x1FD3      |        8147 |
+|      11 | 0x1FD4      |        8148 |
+|      12 | 0x1FD5      |        8149 |
+|      13 | 0x1FD6      |        8150 |
+|      14 | 0x1FD7      |        8151 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x40000000  |  1073741824 |
 |      17 | 0xFFF00000  |  4293918720 |
@@ -44,34 +44,34 @@
 |      20 | 0x0015      |          21 |
 |      21 | 0x0013      |          19 |
 |      22 | 0x000D      |          13 |
-|      23 | 0x1FDD      |        8157 |
-|      24 | 0x1FDE      |        8158 |
+|      23 | 0x1FDE      |        8158 |
+|      24 | 0x1FDF      |        8159 |
 |      25 | 0x0077      |         119 |
 |      26 | 0x0063      |          99 |
-|      27 | 0x1FDF      |        8159 |
-|      28 | 0x1FD8      |        8152 |
-|      29 | 0x1FD9      |        8153 |
+|      27 | 0x1FE0      |        8160 |
+|      28 | 0x1FD9      |        8153 |
+|      29 | 0x1FDA      |        8154 |
 
 ## String References
 
-- **8138**: The WES (World Emigration Service) is currently taking applications for those who wish to immigrate to another World.
-- **8139**: When applying, please note the following:
-- **8140**: You can always cancel your emigration during the application period by talking to any of the WES agents located conveniently about Vana'diel. However, once the period is over, you will no longer be able to cancel.
-- **8141**: After immigrating to another World, you will not be allowed to return to your previous World. Also, emigration is only allowed during periods when the WES is accepting applications.
-- **8142**: You will be unable to choose the World to which you wish to emigrate. For more information on Worlds that we are accepting emigration applications for, please check the current PlayOnline news.
-- **8143**: If your character happens to have the same name as another player in the World to which you emigrate, you will have to change your name before entering that World.
-- **8144**: Emigration of characters is done one at a time.
-- **8145**: If you request emigration for any of your other characters, please conduct all applications separately.
-- **8146**: All items up for auction and in your Delivery Box will be lost when you emigrate. Please collect these items before moving.
-- **8147**: Any items in your Mog Safe will be transported with you to the new World.
-- **8148**: Any linkshells, linkpearls, and pearl sacks will be destroyed at the time of emigration. However, linkshell owners will be presented with a new, unopened linkshell.
-- **8149**: Finally, all markers placed on your maps will be erased.
-- **8150**: Do you wish to apply for emigration? [Yes./No.]
-- **8152**: You have already submitted an application for emigration.
-- **8153**: Do you wish to cancel your application? [Yes./No.]
-- **8157**: Which world will you emigrate to? [I've changed my mind./Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Next page.]
-- **8158**: Which world will you emigrate to? [I've changed my mind./Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades/Previous page.]
-- **8159**: You have already submitted an application for emigration to [Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades].
+- **8139**: The WES (World Emigration Service) is currently taking applications for those who wish to immigrate to another World.
+- **8140**: When applying, please note the following:
+- **8141**: You can always cancel your emigration during the application period by talking to any of the WES agents located conveniently about Vana'diel. However, once the period is over, you will no longer be able to cancel.
+- **8142**: After immigrating to another World, you will not be allowed to return to your previous World. Also, emigration is only allowed during periods when the WES is accepting applications.
+- **8143**: You will be unable to choose the World to which you wish to emigrate. For more information on Worlds that we are accepting emigration applications for, please check the current PlayOnline news.
+- **8144**: If your character happens to have the same name as another player in the World to which you emigrate, you will have to change your name before entering that World.
+- **8145**: Emigration of characters is done one at a time.
+- **8146**: If you request emigration for any of your other characters, please conduct all applications separately.
+- **8147**: All items up for auction and in your Delivery Box will be lost when you emigrate. Please collect these items before moving.
+- **8148**: Any items in your Mog Safe will be transported with you to the new World.
+- **8149**: Any linkshells, linkpearls, and pearl sacks will be destroyed at the time of emigration. However, linkshell owners will be presented with a new, unopened linkshell.
+- **8150**: Finally, all markers placed on your maps will be erased.
+- **8151**: Do you wish to apply for emigration? [Yes./No.]
+- **8153**: You have already submitted an application for emigration.
+- **8154**: Do you wish to cancel your application? [Yes./No.]
+- **8158**: Which world will you emigrate to? [I've changed my mind./Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Next page.]
+- **8159**: Which world will you emigrate to? [I've changed my mind./Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades/Previous page.]
+- **8160**: You have already submitted an application for emigration to [Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades].
 
 ## Events
 
@@ -136,44 +136,44 @@
 ```
   0: 0x0001 [0x08] Work_Zone[3] -= 100*
   1: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8138*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
     → "The WES (World Emigration Service) is currently taking applications for those who wish to immigrate to another World."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
+  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
     → "When applying, please note the following:"
   5: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
+  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
     → "You can always cancel your emigration during the application period by talking to any of the WES agents located conveniently about Vana'diel. However, once the period is over, you will no longer be able to cancel."
   7: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
+  8: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
     → "After immigrating to another World, you will not be allowed to return to your previous World. Also, emigration is only allowed during periods when the WES is accepting applications."
   9: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x001B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0027
- 11: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
+ 11: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8143*)
     → "You will be unable to choose the World to which you wish to emigrate. For more information on Worlds that we are accepting emigration applications for, please check the current PlayOnline news."
  12: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8143*)
+ 13: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8144*)
     → "If your character happens to have the same name as another player in the World to which you emigrate, you will have to change your name before entering that World."
  14: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8144*)
+ 15: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8145*)
     → "Emigration of characters is done one at a time."
  16: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8145*)
+ 17: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8146*)
     → "If you request emigration for any of your other characters, please conduct all applications separately."
  18: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8146*)
+ 19: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8147*)
     → "All items up for auction and in your Delivery Box will be lost when you emigrate. Please collect these items before moving."
  20: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8147*)
+ 21: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=8148*)
     → "Any items in your Mog Safe will be transported with you to the new World."
  22: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8148*)
+ 23: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
     → "Any linkshells, linkpearls, and pearl sacks will be destroyed at the time of emigration. However, linkshell owners will be presented with a new, unopened linkshell."
  24: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
+ 25: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
     → "Finally, all markers placed on your maps will be erased."
  26: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0043 [0x24] CREATE_DIALOG(message_id=8150*, default_option=1*, option_flags=0*)
+ 27: 0x0043 [0x24] CREATE_DIALOG(message_id=8151*, default_option=1*, option_flags=0*)
     → "Do you wish to apply for emigration? [Yes./No.]"
  28: 0x004A [0x25] WAIT_DIALOG_SELECT()
  29: 0x004B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x005D
@@ -203,7 +203,7 @@ SUBROUTINE_009D:
  49: 0x00B8 [0x01] GOTO 0x00E7
 
 SUBROUTINE_00C5:
- 50: 0x00C5 [0x24] CREATE_DIALOG(message_id=8157*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 50: 0x00C5 [0x24] CREATE_DIALOG(message_id=8158*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which world will you emigrate to? [I've changed my mind./Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Next page.]"
  51: 0x00CC [0x25] WAIT_DIALOG_SELECT()
  52: 0x00CD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DF
@@ -212,7 +212,7 @@ SUBROUTINE_00C5:
  55: 0x00DB [0x00] END_REQSTACK()
 
 SUBROUTINE_00E7:
- 56: 0x00E7 [0x24] CREATE_DIALOG(message_id=8158*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 56: 0x00E7 [0x24] CREATE_DIALOG(message_id=8159*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Which world will you emigrate to? [I've changed my mind./Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades/Previous page.]"
  57: 0x00EE [0x25] WAIT_DIALOG_SELECT()
  58: 0x00EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0101
@@ -275,16 +275,16 @@ SUBROUTINE_011E:
   0: 0x012A [0x08] Work_Zone[3] -= 100*
   1: 0x012F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0134 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0143
-  3: 0x013C [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
+  3: 0x013C [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
     → "You have already submitted an application for emigration to [Bahamut/Shiva/Titan/Ramuh/Phoenix/Carbuncle/Fenrir/Sylph/Valefor/Alexander/Leviathan/Odin/Ifrit/Diabolos/Caitsith/Quetzalcoatl/Siren/Unicorn/Gilgamesh/Ragnarok/Pandemonium/Garuda/Cerberus/Kujata/Bismarck/Seraph/Lakshmi/Asura/Midgardsormr/Fairy/Remora/Hades]."
   4: 0x013F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0140 [0x01] GOTO 0x0147
-  6: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8152*)
+  6: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8153*)
     → "You have already submitted an application for emigration."
   7: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0147:
-  8: 0x0147 [0x24] CREATE_DIALOG(message_id=8153*, default_option=1*, option_flags=0*)
+  8: 0x0147 [0x24] CREATE_DIALOG(message_id=8154*, default_option=1*, option_flags=0*)
     → "Do you wish to cancel your application? [Yes./No.]"
   9: 0x014E [0x25] WAIT_DIALOG_SELECT()
  10: 0x014F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x015F

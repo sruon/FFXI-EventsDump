@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F11      |        7953 |
+|       0 | 0x1F12      |        7954 |
 
 ## String References
 
-- **7953**: This appears to be a nesting ground for wivre.
+- **7954**: This appears to be a nesting ground for wivre.
 
 ## Events
 
@@ -71,7 +71,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [7953*]:
+  1: 0x0002 [0x48] [System] [7954*]:
     → "This appears to be a nesting ground for wivre."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=LocalPlayer, tag_num=0x02)

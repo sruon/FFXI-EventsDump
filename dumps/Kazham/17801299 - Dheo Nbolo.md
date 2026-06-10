@@ -33,10 +33,10 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2730      |       10032 |
-|       3 | 0x2731      |       10033 |
-|       4 | 0x2880      |       10368 |
-|       5 | 0x2881      |       10369 |
+|       2 | 0x2731      |       10033 |
+|       3 | 0x2732      |       10034 |
+|       4 | 0x2881      |       10369 |
+|       5 | 0x2882      |       10370 |
 |       6 | 0x0096      |         150 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0078      |         120 |
@@ -45,25 +45,25 @@
 |      11 | 0x0005      |           5 |
 |      12 | 0x0006      |           6 |
 |      13 | 0x0009      |           9 |
-|      14 | 0x28B6      |       10422 |
-|      15 | 0x28B8      |       10424 |
-|      16 | 0x28BC      |       10428 |
-|      17 | 0x28BD      |       10429 |
-|      18 | 0x28CC      |       10444 |
-|      19 | 0x28CD      |       10445 |
+|      14 | 0x28B7      |       10423 |
+|      15 | 0x28B9      |       10425 |
+|      16 | 0x28BD      |       10429 |
+|      17 | 0x28BE      |       10430 |
+|      18 | 0x28CD      |       10445 |
+|      19 | 0x28CE      |       10446 |
 
 ## String References
 
-- **10032**: Wow! You say you got here by airship? Prrretty good for an adventurer!
-- **10033**: Someday I'd like to trrravel around Vana'diel on one of those flying ships. Thanks to the chieftainness, it's easier to travel outside of Kazham these days.
-- **10368**: I'm only telling you this because I like you--you should rrreally get on the next airship and never show your face in this village again.
-- **10369**: I don't mean to be rude, but you smell worse than my Mithran Gaiterrrs.
-- **10422**: Hey! Vuih! Quit your gabbing and finish what you starrrted!
-- **10424**: Thanks, Vuih. There isn't a Mithra nicer than you...now, if we could just do something about that smell.
-- **10428**: That Vuih lives alone in the Yuhtunga Jungle. Well, not really alone. She's got hundrrreds of wild "friends."
-- **10429**: After that accident with the Rafflesia flower, she hasn't been able to rrremove that odor from her body. If you don't do something about that stench on you, you'll end up just like her!
-- **10444**: There are ten Opo-opos living in this village.
-- **10445**: Vuih Stecoppah brrrought all them to Kazham when they were still babies. That's why they are so friendly around people.
+- **10033**: Wow! You say you got here by airship? Prrretty good for an adventurer!
+- **10034**: Someday I'd like to trrravel around Vana'diel on one of those flying ships. Thanks to the chieftainness, it's easier to travel outside of Kazham these days.
+- **10369**: I'm only telling you this because I like you--you should rrreally get on the next airship and never show your face in this village again.
+- **10370**: I don't mean to be rude, but you smell worse than my Mithran Gaiterrrs.
+- **10423**: Hey! Vuih! Quit your gabbing and finish what you starrrted!
+- **10425**: Thanks, Vuih. There isn't a Mithra nicer than you...now, if we could just do something about that smell.
+- **10429**: That Vuih lives alone in the Yuhtunga Jungle. Well, not really alone. She's got hundrrreds of wild "friends."
+- **10430**: After that accident with the Rafflesia flower, she hasn't been able to rrremove that odor from her body. If you don't do something about that stench on you, you'll end up just like her!
+- **10445**: There are ten Opo-opos living in this village.
+- **10446**: Vuih Stecoppah brrrought all them to Kazham when they were still babies. That's why they are so friendly around people.
 
 ## Events
 
@@ -162,10 +162,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10032*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10033*)
     → "Wow! You say you got here by airship? Prrretty good for an adventurer!"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10033*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10034*)
     → "Someday I'd like to trrravel around Vana'diel on one of those flying ships. Thanks to the chieftainness, it's easier to travel outside of Kazham these days."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x02)
@@ -199,10 +199,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10368*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
     → "I'm only telling you this because I like you--you should rrreally get on the next airship and never show your face in this village again."
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
     → "I don't mean to be rude, but you smell worse than my Mithran Gaiterrrs."
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x02)
@@ -330,7 +330,7 @@ SUBROUTINE_0120:
 ```
   0: 0x0121 [0x6E] EventEntity uses emote 9*
   1: 0x0128 [0x99] Wait for EventEntity animation to complete
-  2: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=10422*)
+  2: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=10423*)
     → "Hey! Vuih! Quit your gabbing and finish what you starrrted!"
   3: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0131 [0x00] END_REQSTACK()
@@ -355,7 +355,7 @@ SUBROUTINE_0120:
 #### Opcodes
 
 ```
-  0: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10424*)
+  0: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
     → "Thanks, Vuih. There isn't a Mithra nicer than you...now, if we could just do something about that smell."
   1: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0136 [0x00] END_REQSTACK()
@@ -386,10 +386,10 @@ SUBROUTINE_0120:
   1: 0x013C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x013D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x013E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x01)
-  4: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
+  4: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
     → "That Vuih lives alone in the Yuhtunga Jungle. Well, not really alone. She's got hundrrreds of wild "friends.""
   5: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
+  6: 0x0149 [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
     → "After that accident with the Rafflesia flower, she hasn't been able to rrremove that odor from her body. If you don't do something about that stench on you, you'll end up just like her!"
   7: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x014D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x02)
@@ -423,10 +423,10 @@ SUBROUTINE_0120:
   1: 0x015D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x015E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x015F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x01)
-  4: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10444*)
+  4: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=10445*)
     → "There are ten Opo-opos living in this village."
   5: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=10445*)
+  6: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=10446*)
     → "Vuih Stecoppah brrrought all them to Kazham when they were still babies. That's why they are so friendly around people."
   7: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x016E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dheo Nbolo (ID: 17801299/0x010FA053), tag_num=0x02)

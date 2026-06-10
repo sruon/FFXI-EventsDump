@@ -128,8 +128,8 @@
 |      62 | 0x0258      |         600 |
 |      63 | 0x021C      |         540 |
 |      64 | 0x003C      |          60 |
-|      65 | 0x28FB      |       10491 |
-|      66 | 0x1964      |        6500 |
+|      65 | 0x28FC      |       10492 |
+|      66 | 0x1965      |        6501 |
 |      67 | 0x0001      |           1 |
 |      68 | 0x17FB2     |       98226 |
 |      69 | 0xFFFE8427  |  4294870055 |
@@ -194,8 +194,8 @@
 
 ## String References
 
-- **6500**: Set this as current home point? [Yes./No.]
-- **10491**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
+- **6501**: Set this as current home point? [Yes./No.]
+- **10492**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
 
 ## Events
 
@@ -905,10 +905,10 @@
 ```
   0: 0x014F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0150 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0152 [0x48] [System] [10491*]:
+  2: 0x0152 [0x48] [System] [10492*]:
     → "For your own safety, it is recommended that you set this location as your home point after changing jobs."
   3: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0156 [0x24] CREATE_DIALOG(message_id=6500*, default_option=1*, option_flags=0*)
+  4: 0x0156 [0x24] CREATE_DIALOG(message_id=6501*, default_option=1*, option_flags=0*)
     → "Set this as current home point? [Yes./No.]"
   5: 0x015D [0x25] WAIT_DIALOG_SELECT()
   6: 0x015E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016E

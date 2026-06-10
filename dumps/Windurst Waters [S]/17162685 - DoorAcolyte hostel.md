@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DD1      |        7633 |
-|       1 | 0x1DD2      |        7634 |
+|       0 | 0x1DD2      |        7634 |
+|       1 | 0x1DD3      |        7635 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0x003C      |          60 |
@@ -30,28 +30,28 @@
 |       7 | 0x3B4CE     |      242894 |
 |       8 | 0xFFFFE13D  |  4294959421 |
 |       9 | 0x07EC      |        2028 |
-|      10 | 0x1DD3      |        7635 |
+|      10 | 0x1DD4      |        7636 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x00C9      |         201 |
 |      13 | 0x0155      |         341 |
 |      14 | 0x00A3      |         163 |
-|      15 | 0x1DD4      |        7636 |
-|      16 | 0x1DD5      |        7637 |
+|      15 | 0x1DD5      |        7637 |
+|      16 | 0x1DD6      |        7638 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x1DD6      |        7638 |
-|      19 | 0x1DD7      |        7639 |
-|      20 | 0x1DD8      |        7640 |
+|      18 | 0x1DD7      |        7639 |
+|      19 | 0x1DD8      |        7640 |
+|      20 | 0x1DD9      |        7641 |
 |      21 | 0x24A38     |      150072 |
 |      22 | 0x3C602     |      247298 |
 |      23 | 0xFFFFE13E  |  4294959422 |
 |      24 | 0x03AA      |         938 |
-|      25 | 0x1DD9      |        7641 |
+|      25 | 0x1DDA      |        7642 |
 |      26 | 0x001E      |          30 |
 |      27 | 0x0007      |           7 |
 |      28 | 0x0028      |          40 |
-|      29 | 0x1DDA      |        7642 |
-|      30 | 0x1DDB      |        7643 |
-|      31 | 0x1DDC      |        7644 |
+|      29 | 0x1DDB      |        7643 |
+|      30 | 0x1DDC      |        7644 |
+|      31 | 0x1DDD      |        7645 |
 |      32 | 0x241ED     |      147949 |
 |      33 | 0x3B6F1     |      243441 |
 |      34 | 0x0FED      |        4077 |
@@ -67,42 +67,42 @@
 |      44 | 0x005A      |          90 |
 |      45 | 0x09B5      |        2485 |
 |      46 | 0x0055      |          85 |
-|      47 | 0x1DDD      |        7645 |
+|      47 | 0x1DDE      |        7646 |
 |      48 | 0x0051      |          81 |
-|      49 | 0x1DDE      |        7646 |
+|      49 | 0x1DDF      |        7647 |
 |      50 | 0x041C      |        1052 |
-|      51 | 0x1DDF      |        7647 |
+|      51 | 0x1DE0      |        7648 |
 |      52 | 0x0096      |         150 |
 |      53 | 0x0015      |          21 |
-|      54 | 0x1DE0      |        7648 |
-|      55 | 0x1DE1      |        7649 |
-|      56 | 0x1DE2      |        7650 |
-|      57 | 0x1DE3      |        7651 |
-|      58 | 0x1DE4      |        7652 |
-|      59 | 0x1DE5      |        7653 |
+|      54 | 0x1DE1      |        7649 |
+|      55 | 0x1DE2      |        7650 |
+|      56 | 0x1DE3      |        7651 |
+|      57 | 0x1DE4      |        7652 |
+|      58 | 0x1DE5      |        7653 |
+|      59 | 0x1DE6      |        7654 |
 |      60 | 0x0006      |           6 |
-|      61 | 0x1DE6      |        7654 |
-|      62 | 0x1DE7      |        7655 |
-|      63 | 0x1DE8      |        7656 |
-|      64 | 0x1DE9      |        7657 |
-|      65 | 0x1DEA      |        7658 |
-|      66 | 0x1DEB      |        7659 |
+|      61 | 0x1DE7      |        7655 |
+|      62 | 0x1DE8      |        7656 |
+|      63 | 0x1DE9      |        7657 |
+|      64 | 0x1DEA      |        7658 |
+|      65 | 0x1DEB      |        7659 |
+|      66 | 0x1DEC      |        7660 |
 |      67 | 0x084A      |        2122 |
 |      68 | 0x0031      |          49 |
-|      69 | 0x1DEC      |        7660 |
+|      69 | 0x1DED      |        7661 |
 |      70 | 0x00F0      |         240 |
-|      71 | 0x1DED      |        7661 |
+|      71 | 0x1DEE      |        7662 |
 |      72 | 0x0C26      |        3110 |
 |      73 | 0x00B6      |         182 |
 
 ## String References
 
-- **7633**: You feel somebody's presence behind the door...
-- **7634**: Knock on the door? [Yes./No.]
-- **7635**: <Player> raps on the door.
-- **7637**: Someone appears to be inside!
-- **7647**: 5 are strewn all about the children's feet...
-- **7660**: Hampu-Kampu picks up the $3 dejectedly.
+- **7634**: You feel somebody's presence behind the door...
+- **7635**: Knock on the door? [Yes./No.]
+- **7636**: <Player> raps on the door.
+- **7638**: Someone appears to be inside!
+- **7648**: 5 are strewn all about the children's feet...
+- **7661**: Hampu-Kampu picks up the $3 dejectedly.
 
 ## Events
 
@@ -295,10 +295,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x48] [System] [7633*]:
+  2: 0x0004 [0x48] [System] [7634*]:
     → "You feel somebody's presence behind the door..."
   3: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0008 [0x24] CREATE_DIALOG(message_id=7634*, default_option=0*, option_flags=0*)
+  4: 0x0008 [0x24] CREATE_DIALOG(message_id=7635*, default_option=0*, option_flags=0*)
     → "Knock on the door? [Yes./No.]"
   5: 0x000F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08FF
@@ -311,7 +311,7 @@
  13: 0x0033 [0x38] SET_CLIENT_EVENT_MODE(mode=19*)
  14: 0x0036 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=148.219*, pos_z=242.894*, pos_y=-7.875*, direction=178.2°*)
  15: 0x0043 [0x80] LOAD_WAIT(entity=LocalPlayer)
- 16: 0x0048 [0x48] [System] [7635*]:
+ 16: 0x0048 [0x48] [System] [7636*]:
     → "<Player> raps on the door."
  17: 0x004B [0x1C] WAIT(120* ticks)
  18: 0x004E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -322,44 +322,44 @@
  23: 0x0095 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 163*
  24: 0x0099 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 163*
  25: 0x009D [0x9A] WAIT_MUSIC_SERVER()
- 26: 0x009E [0x2B] ??? (ID: 17162753/0x0105E201) [7636*]:
+ 26: 0x009E [0x2B] ??? (ID: 17162753/0x0105E201) [7637*]:
     → "Go away!"
  27: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00A6 [0x48] [System] [7637*]:
+ 28: 0x00A6 [0x48] [System] [7638*]:
     → "Someone appears to be inside!"
  29: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00AA [0x52] END_LOAD_SCHEDULER: End scheduler "9404" with entities [LocalPlayer, LocalPlayer], work=341*
  31: 0x00B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  32: 0x00CA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9405" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  33: 0x00DB [0x03] Work_Zone[1] = 1*
- 34: 0x00E0 [0x24] CREATE_DIALOG(message_id=7634*, default_option=0*, option_flags=0*)
+ 34: 0x00E0 [0x24] CREATE_DIALOG(message_id=7635*, default_option=0*, option_flags=0*)
     → "Knock on the door? [Yes./No.]"
  35: 0x00E7 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08C5
- 37: 0x00F0 [0x48] [System] [7635*]:
+ 37: 0x00F0 [0x48] [System] [7636*]:
     → "<Player> raps on the door."
  38: 0x00F3 [0x1C] WAIT(120* ticks)
  39: 0x00F6 [0x52] END_LOAD_SCHEDULER: End scheduler "9405" with entities [LocalPlayer, LocalPlayer], work=341*
  40: 0x0105 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  41: 0x0116 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  42: 0x0127 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9404" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 43: 0x0138 [0x2B] ??? (ID: 17162753/0x0105E201) [7638*]:
+ 43: 0x0138 [0x2B] ??? (ID: 17162753/0x0105E201) [7639*]:
     → "Ain't nobody herrre, so go away!"
  44: 0x013F [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0140 [0x52] END_LOAD_SCHEDULER: End scheduler "9404" with entities [LocalPlayer, LocalPlayer], work=341*
  46: 0x014F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  47: 0x0160 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9406" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 48: 0x0171 [0x2B] ??? (ID: 17162753/0x0105E201) [7639*]:
+ 48: 0x0171 [0x2B] ??? (ID: 17162753/0x0105E201) [7640*]:
     → "(Shhh! Keep it down, Tek!)"
  49: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0179 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7640*]:
+ 50: 0x0179 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7641*]:
     → "Um, oops. Sorry, Kipopo..."
  51: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0181 [0x4E] SET_ENTITY_HIDE_FLAG: Show Hampu-Kampu (ID: 17162684/0x0105E1BC)
  53: 0x0187 [0xBA] SET_ENTITY_POSITION(entity_id=Hampu-Kampu (ID: 17162684/0x0105E1BC), pos_x=150.072*, pos_z=247.298*, pos_y=-7.874*, direction=82.4°*)
  54: 0x0194 [0x80] LOAD_WAIT(entity=Hampu-Kampu (ID: 17162684/0x0105E1BC))
  55: 0x0199 [0x92] Hampu-Kampu (ID: 17162684/0x0105E1BC)->Render.Flags3 ^= 0x01
- 56: 0x019F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7641*]:
+ 56: 0x019F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7642*]:
     → "Oh, you are--!"
  57: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x01A7 [0x52] END_LOAD_SCHEDULER: End scheduler "9406" with entities [LocalPlayer, LocalPlayer], work=341*
@@ -376,7 +376,7 @@
  69: 0x01FB [0x99] Wait for LocalPlayer animation to complete
  70: 0x0200 [0x1C] WAIT(60* ticks)
  71: 0x0203 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
- 72: 0x0212 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7642*]:
+ 72: 0x0212 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7643*]:
     → "...So this is where my daughtaru's been hiding."
  73: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
@@ -390,10 +390,10 @@
  82: 0x0264 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  83: 0x0265 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  84: 0x0266 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
- 85: 0x0275 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7643*]:
+ 85: 0x0275 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7644*]:
     → "Kipopo, I know you have Daddy's bag."
  86: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x027D [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7644*]:
+ 87: 0x027D [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7645*]:
     → "Daddy spent a lot of time making it for an importantaru person, so please be a good girl and give it back."
  88: 0x0284 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0285 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
@@ -431,7 +431,7 @@
 121: 0x03AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 122: 0x03AC [0x79] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Kipopo (ID: 17162686/0x0105E1BE) (Basic look)
 123: 0x03B6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-124: 0x03C5 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7645*]:
+124: 0x03C5 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7646*]:
     → "There's nothing to give back. Tek's ripped it to shreds."
 125: 0x03CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x03CD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
@@ -442,7 +442,7 @@
 131: 0x0402 [0x79] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Tek Lengyon (ID: 17162687/0x0105E1BF) (Basic look)
 132: 0x040C [0x4A] Tek Lengyon (ID: 17162687/0x0105E1BF) looks at Hampu-Kampu (ID: 17162684/0x0105E1BC)
 133: 0x0415 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
-134: 0x0424 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7646*]:
+134: 0x0424 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7647*]:
     → "Ding-dong! The bag is dead!t Which old bag? The new handbag!t"
 135: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x042C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)]
@@ -450,14 +450,14 @@
 138: 0x0448 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9404" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 139: 0x0459 [0x7B] Hampu-Kampu (ID: 17162684/0x0105E1BC) stops talking
 140: 0x045E [0x03] Work_Zone[2] = 1052*
-141: 0x0463 [0x48] [System] [7647*]:
+141: 0x0463 [0x48] [System] [7648*]:
     → "5 are strewn all about the children's feet..."
 142: 0x0466 [0x1C] WAIT(150* ticks)
 143: 0x0469 [0x27] REQ_SET(priority=0x0F, entity_id=??? (ID: 17162689/0x0105E1C1), tag_num=0x02)
 144: 0x0470 [0x1C] WAIT(60* ticks)
 145: 0x0473 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 21*
 146: 0x047A [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-147: 0x047F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7648*]:
+147: 0x047F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7649*]:
     → "Wh-wh-what!?"
 148: 0x0486 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0487 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
@@ -469,14 +469,14 @@
 155: 0x04C9 [0x79] Kipopo (ID: 17162686/0x0105E1BE) looks at Hampu-Kampu (ID: 17162684/0x0105E1BC) (Basic look)
 156: 0x04D3 [0x79] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Kipopo (ID: 17162686/0x0105E1BE) (Basic look)
 157: 0x04DD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-158: 0x04EC [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7649*]:
+158: 0x04EC [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7650*]:
     → "I thoughtaru you were making the bag for Kipopo!"
 159: 0x04F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x04F4 [0x79] LocalPlayer looks at Kipopo (ID: 17162686/0x0105E1BE) (Basic look)
 161: 0x04FE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
 162: 0x050D [0x1C] WAIT(30* ticks)
 163: 0x0510 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
-164: 0x051F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7650*]:
+164: 0x051F [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7651*]:
     → "I...I'm sorry..."
 165: 0x0526 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x0527 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
@@ -484,17 +484,17 @@
 168: 0x0545 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 169: 0x0556 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9410" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 170: 0x0567 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-171: 0x0576 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7651*]:
+171: 0x0576 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7652*]:
     → "Who's this importantaru person anyway?"
 172: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x057E [0x52] END_LOAD_SCHEDULER: End scheduler "9410" with entities [LocalPlayer, LocalPlayer], work=341*
 174: 0x058D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9411" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-175: 0x059E [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7652*]:
+175: 0x059E [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7653*]:
     → "Isn't Kipopo your importantaru person?"
 176: 0x05A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x05A6 [0x52] END_LOAD_SCHEDULER: End scheduler "9411" with entities [LocalPlayer, LocalPlayer], work=341*
 178: 0x05B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9412" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-179: 0x05C6 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7653*]:
+179: 0x05C6 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7654*]:
     → "Have you already forgotten about Mommy?"
 180: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x05CE [0x52] END_LOAD_SCHEDULER: End scheduler "9412" with entities [LocalPlayer, LocalPlayer], work=341*
@@ -502,7 +502,7 @@
 183: 0x05EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9409" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 184: 0x05FD [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 6*
 185: 0x0604 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-186: 0x0609 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7654*]:
+186: 0x0609 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7655*]:
     → "N-no, of course not... It's just that I thought it was high timey-wime you had a new--"
 187: 0x0610 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0611 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
@@ -516,13 +516,13 @@
 196: 0x067B [0x4A] Tek Lengyon (ID: 17162687/0x0105E1BF) looks at Kipopo (ID: 17162686/0x0105E1BE)
 197: 0x0684 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 198: 0x0685 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-199: 0x0686 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7655*]:
+199: 0x0686 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7656*]:
     → "I won't forgive you if you betray Mommy!"
 200: 0x068D [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x068E [0x52] END_LOAD_SCHEDULER: End scheduler "9418" with entities [LocalPlayer, LocalPlayer], work=341*
 202: 0x069D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9419" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 203: 0x06AE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
-204: 0x06BD [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7656*]:
+204: 0x06BD [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7657*]:
     → "Only Kipopo can be your importantaru person!"
 205: 0x06C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x06C5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bik0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)]
@@ -550,11 +550,11 @@
 228: 0x0777 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 229: 0x0778 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 230: 0x0779 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-231: 0x0788 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7657*]:
+231: 0x0788 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7658*]:
     → "I hate you, I hate you! Daddy can go and chokey-woke on a rabbit mantle!"
 232: 0x078F [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0790 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
-234: 0x079F [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7658*]:
+234: 0x079F [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7659*]:
     → "Nyahaha.t And that's all for today's episode of "Tek the Tannerrr"! Till next time, folks!"
 235: 0x07A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x07A7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)]
@@ -563,7 +563,7 @@
 239: 0x07BE [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Tek Lengyon (ID: 17162687/0x0105E1BF), tag_num=0x04)
 240: 0x07C5 [0x1C] WAIT(30* ticks)
 241: 0x07C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
-242: 0x07D7 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7659*]:
+242: 0x07D7 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7660*]:
     → "K-Kipopo..."
 243: 0x07DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x07DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=40*
@@ -576,12 +576,12 @@
 251: 0x081C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 252: 0x081D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=49*
 253: 0x082C [0x03] Work_Zone[2] = 1052*
-254: 0x0831 [0x48] [System] [7660*]:
+254: 0x0831 [0x48] [System] [7661*]:
     → "Hampu-Kampu picks up the $3 dejectedly."
 255: 0x0834 [0x1C] WAIT(240* ticks)
 256: 0x0837 [0x52] END_LOAD_SCHEDULER: End scheduler "9414" with entities [LocalPlayer, LocalPlayer], work=341*
 257: 0x0846 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9415" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-258: 0x0857 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7661*]:
+258: 0x0857 [0x2B] Hampu-Kampu (ID: 17162684/0x0105E1BC) [7662*]:
     → "The...the handbag that I so poured my heartaru into... There's nothing left of it but scraps..."
 259: 0x085E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Hampu-Kampu (ID: 17162684/0x0105E1BC), Hampu-Kampu (ID: 17162684/0x0105E1BC)], work=49*
 260: 0x086D [0x1C] WAIT(60* ticks)

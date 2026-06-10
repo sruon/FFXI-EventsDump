@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E8B      |        7819 |
-|       1 | 0x1E8C      |        7820 |
-|       2 | 0x1E8D      |        7821 |
-|       3 | 0x1E8E      |        7822 |
-|       4 | 0x1E8F      |        7823 |
-|       5 | 0x1E90      |        7824 |
+|       0 | 0x1E8C      |        7820 |
+|       1 | 0x1E8D      |        7821 |
+|       2 | 0x1E8E      |        7822 |
+|       3 | 0x1E8F      |        7823 |
+|       4 | 0x1E90      |        7824 |
+|       5 | 0x1E91      |        7825 |
 
 ## String References
 
-- **7819**: You see a message engraved on the stone:
-- **7820**: With an unfailingly cheerful Tarutaru friend as a guide, I came to tour Fort Karugo-Narugo, the centerpiece of Windurst's defenses.
-- **7821**: My invitation to the complex, indeed, the complete access I enjoyed as a San d'Orian, even considering the deep ties I had developed, had less to do with their trust in me, and more to do with their own confidence.
-- **7822**: "Fivespires," as the towers within the fortress were called, had been constructed and spaced in accordance with Minister Medada's precise arcane calculations. Such a configuration was said to withstand all manner of physical and magical assaults.
-- **7823**: When I broached the seemingly foolish matter of a perfect configuration being vulnerable to the slightest imperfection, I was greeted with gales of laughter. How could such a perfect construction ever be marred? I hope for their sake, they are right.
-- **7824**: @ --Enid Ironheart, 778 Crystal Era.
+- **7820**: You see a message engraved on the stone:
+- **7821**: With an unfailingly cheerful Tarutaru friend as a guide, I came to tour Fort Karugo-Narugo, the centerpiece of Windurst's defenses.
+- **7822**: My invitation to the complex, indeed, the complete access I enjoyed as a San d'Orian, even considering the deep ties I had developed, had less to do with their trust in me, and more to do with their own confidence.
+- **7823**: "Fivespires," as the towers within the fortress were called, had been constructed and spaced in accordance with Minister Medada's precise arcane calculations. Such a configuration was said to withstand all manner of physical and magical assaults.
+- **7824**: When I broached the seemingly foolish matter of a perfect configuration being vulnerable to the slightest imperfection, I was greeted with gales of laughter. How could such a perfect construction ever be marred? I hope for their sake, they are right.
+- **7825**: @ --Enid Ironheart, 778 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7819*]:
+  0: 0x0001 [0x48] [System] [7820*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7820*]:
+  2: 0x0005 [0x48] [System] [7821*]:
     → "With an unfailingly cheerful Tarutaru friend as a guide, I came to tour Fort Karugo-Narugo, the centerpiece of Windurst's defenses."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7821*]:
+  4: 0x0009 [0x48] [System] [7822*]:
     → "My invitation to the complex, indeed, the complete access I enjoyed as a San d'Orian, even considering the deep ties I had developed, had less to do with their trust in me, and more to do with their own confidence."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7822*]:
+  6: 0x000D [0x48] [System] [7823*]:
     → ""Fivespires," as the towers within the fortress were called, had been constructed and spaced in accordance with Minister Medada's precise arcane calculations. Such a configuration was said to withstand all manner of physical and magical assaults."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7823*]:
+  8: 0x0011 [0x48] [System] [7824*]:
     → "When I broached the seemingly foolish matter of a perfect configuration being vulnerable to the slightest imperfection, I was greeted with gales of laughter. How could such a perfect construction ever be marred? I hope for their sake, they are right."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7824*]:
+ 10: 0x0015 [0x48] [System] [7825*]:
     → "@ --Enid Ironheart, 778 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

@@ -39,7 +39,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2C05      |       11269 |
+|       1 | 0x2C06      |       11270 |
 
 ## Events
 
@@ -404,7 +404,7 @@
   2: 0x001D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x001E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Comitiolus (ID: 17809425/0x010FC011) Render.Flags0 and Render.Flags3 conditions are met
   4: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Comitiolus (ID: 17809425/0x010FC011), Comitiolus (ID: 17809425/0x010FC011)], work=0*
-  5: 0x0032 [0x2B] Comitiolus (ID: 17809425/0x010FC011) [11269*]:
+  5: 0x0032 [0x2B] Comitiolus (ID: 17809425/0x010FC011) [11270*]:
     → "Sorry, <Player>, the boss is a little busy right now. Ye'll have to make yer meetin' fer another day."
   6: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x003A [0x21] END_EVENT

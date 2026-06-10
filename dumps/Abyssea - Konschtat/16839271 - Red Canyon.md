@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F7C      |        8060 |
+|       0 | 0x1F7D      |        8061 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0078      |         120 |
 |       3 | 0x0300      |         768 |
@@ -28,7 +28,7 @@
 
 ## String References
 
-- **8060**: On our last field patrol, we came across a conflux to the southeast of here. You'd do well to go imprint with it if you haven't already.
+- **8061**: On our last field patrol, we came across a conflux to the southeast of here. You'd do well to go imprint with it if you haven't already.
 
 ## Events
 
@@ -79,7 +79,7 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1A] CALL_SUBROUTINE(address=0x0013)
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
     → "On our last field patrol, we came across a conflux to the southeast of here. You'd do well to go imprint with it if you haven't already."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x1A] CALL_SUBROUTINE(address=0x0023)

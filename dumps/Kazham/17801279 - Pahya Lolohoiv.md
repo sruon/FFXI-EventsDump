@@ -43,17 +43,17 @@
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0034      |          52 |
-|       3 | 0x273B      |       10043 |
-|       4 | 0x273C      |       10044 |
-|       5 | 0x2871      |       10353 |
-|       6 | 0x2872      |       10354 |
+|       3 | 0x273C      |       10044 |
+|       4 | 0x273D      |       10045 |
+|       5 | 0x2872      |       10354 |
+|       6 | 0x2873      |       10355 |
 
 ## String References
 
-- **10043**: Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong.
-- **10044**: To rrreturn these things to the place where they belong, we must often rrreceive help from the hand of nature. This is also true when currring disease and healing wounds.
-- **10353**: Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong.
-- **10354**: Even now, I can smell something on you that does not belong... Something very, verrry, evil...
+- **10044**: Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong.
+- **10045**: To rrreturn these things to the place where they belong, we must often rrreceive help from the hand of nature. This is also true when currring disease and healing wounds.
+- **10354**: Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong.
+- **10355**: Even now, I can smell something on you that does not belong... Something very, verrry, evil...
 
 ## Events
 
@@ -512,10 +512,10 @@
   1: 0x0106 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0108 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pahya Lolohoiv (ID: 17801279/0x010FA03F), tag_num=0x01)
-  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10043*)
+  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
     → "Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong."
   5: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
+  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
     → "To rrreturn these things to the place where they belong, we must often rrreceive help from the hand of nature. This is also true when currring disease and healing wounds."
   7: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0117 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pahya Lolohoiv (ID: 17801279/0x010FA03F), tag_num=0x02)
@@ -549,10 +549,10 @@
   1: 0x0127 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0128 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0129 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pahya Lolohoiv (ID: 17801279/0x010FA03F), tag_num=0x01)
-  4: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=10353*)
+  4: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=10354*)
     → "Nothing in this world is crrreated good or evil. However, evil can arrrise when something exists in a place where it did not originally belong."
   5: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=10354*)
+  6: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=10355*)
     → "Even now, I can smell something on you that does not belong... Something very, verrry, evil..."
   7: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0138 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pahya Lolohoiv (ID: 17801279/0x010FA03F), tag_num=0x02)

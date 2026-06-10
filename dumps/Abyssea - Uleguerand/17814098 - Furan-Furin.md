@@ -24,17 +24,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x1EEE      |        7918 |
+|       1 | 0x1EEF      |        7919 |
 |       2 | 0x0020      |          32 |
-|       3 | 0x1EEF      |        7919 |
+|       3 | 0x1EF0      |        7920 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1EF1      |        7921 |
+|       5 | 0x1EF2      |        7922 |
 
 ## String References
 
-- **7918**: Can't you see that I'm busy monitoring this area for signs of impending avalanchey-wanches? You can't? Well, I just told you! So keep quietaru, please.
-- **7919**: Ah, so you're the sucker--ah, the brave volunteer come to set up the bomb for us, are you? Take care not to overdo it with the firesand, will you? The lastaru guy nearly blasted-wasted me off the side of a cliff!
-- **7921**: You were a huge help. Really, truly! Couldn't have done it bettaru myself, and that's saying something!
+- **7919**: Can't you see that I'm busy monitoring this area for signs of impending avalanchey-wanches? You can't? Well, I just told you! So keep quietaru, please.
+- **7920**: Ah, so you're the sucker--ah, the brave volunteer come to set up the bomb for us, are you? Take care not to overdo it with the firesand, will you? The lastaru guy nearly blasted-wasted me off the side of a cliff!
+- **7922**: You were a huge help. Really, truly! Couldn't have done it bettaru myself, and that's saying something!
 
 ## Events
 
@@ -84,7 +84,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Furan-Furin (ID: 17814098/0x010FD252), Furan-Furin (ID: 17814098/0x010FD252)], work=49*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Can't you see that I'm busy monitoring this area for signs of impending avalanchey-wanches? You can't? Well, I just told you! So keep quietaru, please."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x21] END_EVENT
@@ -117,7 +117,7 @@
   2: 0x0023 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0024 [0x6E] Furan-Furin (ID: 17814098/0x010FD252) uses emote 32*
   4: 0x002B [0x99] Wait for Furan-Furin (ID: 17814098/0x010FD252) animation to complete
-  5: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+  5: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "Ah, so you're the sucker--ah, the brave volunteer come to set up the bomb for us, are you? Take care not to overdo it with the firesand, will you? The lastaru guy nearly blasted-wasted me off the side of a cliff!"
   6: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0034 [0x21] END_EVENT
@@ -149,7 +149,7 @@
   2: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x003D [0x6E] Furan-Furin (ID: 17814098/0x010FD252) uses emote 0*
   4: 0x0044 [0x99] Wait for Furan-Furin (ID: 17814098/0x010FD252) animation to complete
-  5: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+  5: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "You were a huge help. Really, truly! Couldn't have done it bettaru myself, and that's saying something!"
   6: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x004D [0x21] END_EVENT

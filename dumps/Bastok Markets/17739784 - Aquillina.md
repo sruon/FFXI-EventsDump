@@ -23,26 +23,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D67      |        7527 |
-|       1 | 0x1D68      |        7528 |
+|       0 | 0x1D68      |        7528 |
+|       1 | 0x1D69      |        7529 |
 |       2 | 0x0300      |         768 |
-|       3 | 0x1D69      |        7529 |
-|       4 | 0x1D6A      |        7530 |
-|       5 | 0x1D6C      |        7532 |
+|       3 | 0x1D6A      |        7530 |
+|       4 | 0x1D6B      |        7531 |
+|       5 | 0x1D6D      |        7533 |
 |       6 | 0x0005      |           5 |
 |       7 | 0x0046      |          70 |
-|       8 | 0x1D6B      |        7531 |
+|       8 | 0x1D6C      |        7532 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0000      |           0 |
 
 ## String References
 
-- **7527**: My husband's always off adventuring, my son is out playing all day, and my stepfather keeps rambling about the strangest things...
-- **7528**: Augh! I miss being single...
-- **7529**: Oh, no! We're out of $7 again. I wonder why...
-- **7530**: I can't cook without fire, but I don't have time to go shopping! Say, can you spare any $7? If you have four of them, I'll buy them off you.
-- **7531**: Great! Thank you! Here's your money. Now, stand back! It's cooking time!
-- **7532**: I'm sorry, I don't need any more $7 for now.
+- **7528**: My husband's always off adventuring, my son is out playing all day, and my stepfather keeps rambling about the strangest things...
+- **7529**: Augh! I miss being single...
+- **7530**: Oh, no! We're out of $7 again. I wonder why...
+- **7531**: I can't cook without fire, but I don't have time to go shopping! Say, can you spare any $7? If you have four of them, I'll buy them off you.
+- **7532**: Great! Thank you! Here's your money. Now, stand back! It's cooking time!
+- **7533**: I'm sorry, I don't need any more $7 for now.
 
 ## Events
 
@@ -88,10 +88,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "My husband's always off adventuring, my son is out playing all day, and my stepfather keeps rambling about the strangest things..."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
     → "Augh! I miss being single..."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -119,11 +119,11 @@
 
 ```
   0: 0x0010 [0x03] Work_Zone[9] = 768*
-  1: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7529*)
+  1: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
     → "Oh, no! We're out of $7 again. I wonder why..."
   2: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7530*)
+  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
     → "I can't cook without fire, but I don't have time to go shopping! Say, can you spare any $7? If you have four of them, I'll buy them off you."
   5: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0022 [0x21] END_EVENT
@@ -152,7 +152,7 @@
 ```
   0: 0x0024 [0x03] Work_Zone[9] = 768*
   1: 0x0029 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "I'm sorry, I don't need any more $7 for now."
   3: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0032 [0x21] END_EVENT
@@ -188,7 +188,7 @@
   3: 0x003C [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0041 [0x1C] WAIT(5* ticks)
   5: 0x0044 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=70*
-  6: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7531*)
+  6: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
     → "Great! Thank you! Here's your money. Now, stand back! It's cooking time!"
   7: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0057 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

@@ -44,7 +44,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CED      |        7405 |
+|       0 | 0x1CEE      |        7406 |
 |       1 | 0xD4BC      |       54460 |
 |       2 | 0x4C34      |       19508 |
 |       3 | 0xFFFFA232  |  4294943282 |
@@ -52,69 +52,69 @@
 |       5 | 0x0001      |           1 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x4199      |       16793 |
-|       8 | 0x1CE4      |        7396 |
-|       9 | 0x1CE5      |        7397 |
+|       8 | 0x1CE5      |        7397 |
+|       9 | 0x1CE6      |        7398 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x001D      |          29 |
-|      12 | 0x1CE6      |        7398 |
-|      13 | 0x1CE7      |        7399 |
-|      14 | 0x1CE8      |        7400 |
-|      15 | 0x1CE9      |        7401 |
-|      16 | 0x1CEB      |        7403 |
-|      17 | 0x1CEC      |        7404 |
-|      18 | 0x1CEA      |        7402 |
+|      12 | 0x1CE7      |        7399 |
+|      13 | 0x1CE8      |        7400 |
+|      14 | 0x1CE9      |        7401 |
+|      15 | 0x1CEA      |        7402 |
+|      16 | 0x1CEC      |        7404 |
+|      17 | 0x1CED      |        7405 |
+|      18 | 0x1CEB      |        7403 |
 |      19 | 0x0158      |         344 |
 |      20 | 0x0159      |         345 |
-|      21 | 0x1CF7      |        7415 |
+|      21 | 0x1CF8      |        7416 |
 |      22 | 0x000A      |          10 |
 |      23 | 0xCB60      |       52064 |
 |      24 | 0x4B8C      |       19340 |
 |      25 | 0xFFFFA28B  |  4294943371 |
 |      26 | 0x000F      |          15 |
-|      27 | 0x1CAC      |        7340 |
+|      27 | 0x1CAD      |        7341 |
 |      28 | 0x03A2      |         930 |
-|      29 | 0x1CB9      |        7353 |
-|      30 | 0x1CB6      |        7350 |
-|      31 | 0x1CBA      |        7354 |
-|      32 | 0x1CB3      |        7347 |
+|      29 | 0x1CBA      |        7354 |
+|      30 | 0x1CB7      |        7351 |
+|      31 | 0x1CBB      |        7355 |
+|      32 | 0x1CB4      |        7348 |
 |      33 | 0x0013      |          19 |
 |      34 | 0x0043      |          67 |
-|      35 | 0x1CB1      |        7345 |
-|      36 | 0x1CB2      |        7346 |
+|      35 | 0x1CB2      |        7346 |
+|      36 | 0x1CB3      |        7347 |
 |      37 | 0x0006      |           6 |
 |      38 | 0x003C      |          60 |
 |      39 | 0x0005      |           5 |
-|      40 | 0x1CB4      |        7348 |
-|      41 | 0x1CB5      |        7349 |
+|      40 | 0x1CB5      |        7349 |
+|      41 | 0x1CB6      |        7350 |
 |      42 | 0x0007      |           7 |
 |      43 | 0x002D      |          45 |
-|      44 | 0x1CB7      |        7351 |
-|      45 | 0x1CB8      |        7352 |
+|      44 | 0x1CB8      |        7352 |
+|      45 | 0x1CB9      |        7353 |
 |      46 | 0x00C8      |         200 |
-|      47 | 0x1CAF      |        7343 |
-|      48 | 0x1CBB      |        7355 |
-|      49 | 0x1CBC      |        7356 |
-|      50 | 0x1CBD      |        7357 |
-|      51 | 0x1CBE      |        7358 |
-|      52 | 0x1CBF      |        7359 |
-|      53 | 0x1CC0      |        7360 |
-|      54 | 0x1CC1      |        7361 |
-|      55 | 0x1CC2      |        7362 |
-|      56 | 0x1CC3      |        7363 |
-|      57 | 0x1CC4      |        7364 |
-|      58 | 0x1CC5      |        7365 |
+|      47 | 0x1CB0      |        7344 |
+|      48 | 0x1CBC      |        7356 |
+|      49 | 0x1CBD      |        7357 |
+|      50 | 0x1CBE      |        7358 |
+|      51 | 0x1CBF      |        7359 |
+|      52 | 0x1CC0      |        7360 |
+|      53 | 0x1CC1      |        7361 |
+|      54 | 0x1CC2      |        7362 |
+|      55 | 0x1CC3      |        7363 |
+|      56 | 0x1CC4      |        7364 |
+|      57 | 0x1CC5      |        7365 |
+|      58 | 0x1CC6      |        7366 |
 |      59 | 0x00C9      |         201 |
-|      60 | 0x1CC6      |        7366 |
-|      61 | 0x1CC7      |        7367 |
+|      60 | 0x1CC7      |        7367 |
+|      61 | 0x1CC8      |        7368 |
 |      62 | 0x03BF      |         959 |
-|      63 | 0x1CC8      |        7368 |
-|      64 | 0x1CC9      |        7369 |
-|      65 | 0x1CCA      |        7370 |
-|      66 | 0x1CCB      |        7371 |
-|      67 | 0x1CCC      |        7372 |
+|      63 | 0x1CC9      |        7369 |
+|      64 | 0x1CCA      |        7370 |
+|      65 | 0x1CCB      |        7371 |
+|      66 | 0x1CCC      |        7372 |
+|      67 | 0x1CCD      |        7373 |
 |      68 | 0x0014      |          20 |
-|      69 | 0x1CCD      |        7373 |
-|      70 | 0x1CD9      |        7385 |
+|      69 | 0x1CCE      |        7374 |
+|      70 | 0x1CDA      |        7386 |
 |      71 | 0x1286F     |       75887 |
 |      72 | 0x4D3A      |       19770 |
 |      73 | 0xFFFFA1F5  |  4294943221 |
@@ -122,21 +122,21 @@
 
 ## String References
 
-- **7340**: Those without business here should be on their way. That means you.
-- **7343**: So you will bring me $0? Please then, make haste.
-- **7346**: Listen to him? [Hear what he has to say./No way.]
-- **7350**: Accept Novalmauge's request? [Accept./Turn him down.]
-- **7357**: Do you believe the rumors? [Yes, I do./Never!]
-- **7368**: Eh? Someone threw poison in the water by the sluice gate? You want me to make a neutralizer, then?
-- **7369**: I prefer to avoid goings-on of this sort, but I cannot refuse a request from you after what you have done for me. All right, I will see what I can do!
-- **7370**: Bring me $7. We can use it to make a neutralizer that should put things to rights...I hope.
+- **7341**: Those without business here should be on their way. That means you.
+- **7344**: So you will bring me $0? Please then, make haste.
+- **7347**: Listen to him? [Hear what he has to say./No way.]
+- **7351**: Accept Novalmauge's request? [Accept./Turn him down.]
+- **7358**: Do you believe the rumors? [Yes, I do./Never!]
+- **7369**: Eh? Someone threw poison in the water by the sluice gate? You want me to make a neutralizer, then?
+- **7370**: I prefer to avoid goings-on of this sort, but I cannot refuse a request from you after what you have done for me. All right, I will see what I can do!
 - **7371**: Bring me $7. We can use it to make a neutralizer that should put things to rights...I hope.
-- **7372**: You've brought me $7? Excellent! Now, I need a little time.
-- **7373**: There! With this all will be well. Of course, it saddens me to hear this sort of thing still goes on up there. After all this time, they haven't changed.
-- **7385**: If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore.
-- **7397**: Was there something else? [I lost the $1.../This curse has bested me./No, sorry to disturb you.]
-- **7401**: What is your decision? [I can go no further./I will persevere.]
-- **7415**: Journey to the Den of Rancor with this $3 and obtain the $3. When you have bound the evil in the scythe, your exertions will be at an end.
+- **7372**: Bring me $7. We can use it to make a neutralizer that should put things to rights...I hope.
+- **7373**: You've brought me $7? Excellent! Now, I need a little time.
+- **7374**: There! With this all will be well. Of course, it saddens me to hear this sort of thing still goes on up there. After all this time, they haven't changed.
+- **7386**: If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore.
+- **7398**: Was there something else? [I lost the $1.../This curse has bested me./No, sorry to disturb you.]
+- **7402**: What is your decision? [I can go no further./I will persevere.]
+- **7416**: Journey to the Den of Rancor with this $3 and obtain the $3. When you have bound the evil in the scythe, your exertions will be at an end.
 
 ## Events
 
@@ -187,7 +187,7 @@
   2: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x000B [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7405*]:
+  5: 0x000B [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7406*]:
     → "You still need to cleanse the scythe in several more battles before the curse's influence is removed. Be sure the curse does not find a new home in you."
   6: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0013 [0x21] END_EVENT
@@ -284,43 +284,43 @@
   7: 0x003F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
   8: 0x0046 [0x06] Work_Zone[1] = 0
   9: 0x0049 [0x03] Work_Zone[3] = 16793*
- 10: 0x004E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7396*]:
+ 10: 0x004E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7397*]:
     → "How goes it? If you wish to know if the curse has been removed, then let me see the $1. Or perhaps there was something else you wished to discuss?"
  11: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0056 [0x24] CREATE_DIALOG(message_id=7397*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
+ 12: 0x0056 [0x24] CREATE_DIALOG(message_id=7398*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
     → "Was there something else? [I lost the $1.../This curse has bested me./No, sorry to disturb you.]"
  13: 0x005D [0x25] WAIT_DIALOG_SELECT()
  14: 0x005E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009C
  15: 0x0066 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 16: 0x0075 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7398*]:
+ 16: 0x0075 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7399*]:
     → "Strangely enough, I just came into possession of another such scythe. I would advise against handing these weapons around to your compatriots, though. They are not toys to be played with, my friend."
  17: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x007D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 19: 0x008C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7399*]:
+ 19: 0x008C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7400*]:
     → "Naturally, you must begin the process of removing the curse anew. A lack of focus can cost you dearly. Please do be careful this time."
  20: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0094 [0x03] Work_Zone[1] = 1*
  22: 0x0099 [0x01] GOTO 0x0108
  23: 0x009C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0108
  24: 0x00A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
- 25: 0x00B3 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7400*]:
+ 25: 0x00B3 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7401*]:
     → "I agree that this is a dangerous feat to attempt, but I believe that you have the strength of spirit to prevail. If you persevere until the end, your reward will be great. Do you still wish to give up?"
  26: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x00BB [0x24] CREATE_DIALOG(message_id=7401*, default_option=1*, option_flags=0*)
+ 27: 0x00BB [0x24] CREATE_DIALOG(message_id=7402*, default_option=1*, option_flags=0*)
     → "What is your decision? [I can go no further./I will persevere.]"
  28: 0x00C2 [0x25] WAIT_DIALOG_SELECT()
  29: 0x00C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
  30: 0x00D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F2
- 31: 0x00DA [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7403*]:
+ 31: 0x00DA [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7404*]:
     → "If you feel your resolve crumbling, then you are right to end your attempt here."
  32: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00E2 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7404*]:
+ 33: 0x00E2 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7405*]:
     → "I advise you to rest for a time to cleanse your spirit of evil influences. Dispose of the scythe and do not pass it on to anyone else."
  34: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00EA [0x03] Work_Zone[1] = 2*
  36: 0x00EF [0x01] GOTO 0x0105
  37: 0x00F2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0105
- 38: 0x00FA [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7402*]:
+ 38: 0x00FA [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7403*]:
     → "That is good. But do not let your focus waver, or the curse will gain hold of you. Take care, my friend."
  39: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0102 [0x01] GOTO 0x0105
@@ -382,7 +382,7 @@ SUBROUTINE_0108:
   3: 0x0113 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0114 [0x03] Work_Zone[3] = 344*
   5: 0x0119 [0x03] Work_Zone[4] = 345*
-  6: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+  6: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "Journey to the Den of Rancor with this $3 and obtain the $3. When you have bound the evil in the scythe, your exertions will be at an end."
   7: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0122 [0x21] END_EVENT
@@ -464,7 +464,7 @@ SUBROUTINE_0108:
   2: 0x013C [0x4A] LocalPlayer looks at Novalmauge (ID: 17461511/0x010A7107)
   3: 0x0145 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0146 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-  5: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+  5: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
     → "Those without business here should be on their way. That means you."
   6: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x014F [0x21] END_EVENT
@@ -529,20 +529,20 @@ SUBROUTINE_0108:
   4: 0x015F [0x1C] WAIT(15* ticks)
   5: 0x0162 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01AC
   6: 0x016A [0x03] Work_Zone[2] = 930*
-  7: 0x016F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7353*]:
+  7: 0x016F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7354*]:
     → "Eh? What? You'll take my request?"
   8: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0177 [0x24] CREATE_DIALOG(message_id=7350*, default_option=1*, option_flags=0*)
+  9: 0x0177 [0x24] CREATE_DIALOG(message_id=7351*, default_option=1*, option_flags=0*)
     → "Accept Novalmauge's request? [Accept./Turn him down.]"
  10: 0x017E [0x25] WAIT_DIALOG_SELECT()
  11: 0x017F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0197
  12: 0x0187 [0x03] Work_Zone[1] = 1*
- 13: 0x018C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7354*]:
+ 13: 0x018C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7355*]:
     → "That is good news, indeed. I want you to bring me $0, and as fast as you can."
  14: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0194 [0x01] GOTO 0x01AA
  16: 0x0197 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01AA
- 17: 0x019F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7347*]:
+ 17: 0x019F [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7348*]:
     → "Ah. I see. Don't mind me, then."
  18: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x01A7 [0x01] GOTO 0x01AA
@@ -566,11 +566,11 @@ SUBROUTINE_01AA:
  35: 0x020A [0x1A] CALL_SUBROUTINE(address=0x07E2)
  36: 0x020D [0x03] Work_Zone[2] = 930*
  37: 0x0212 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 38: 0x0221 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7345*]:
+ 38: 0x0221 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7346*]:
     → "If you have a moment, will you hear my request?"
  39: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0229 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 41: 0x0238 [0x24] CREATE_DIALOG(message_id=7346*, default_option=1*, option_flags=0*)
+ 41: 0x0238 [0x24] CREATE_DIALOG(message_id=7347*, default_option=1*, option_flags=0*)
     → "Listen to him? [Hear what he has to say./No way.]"
  42: 0x023F [0x25] WAIT_DIALOG_SELECT()
  43: 0x0240 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024B
@@ -582,7 +582,7 @@ SUBROUTINE_01AA:
  49: 0x0262 [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 6*
  50: 0x0269 [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  51: 0x026E [0x1C] WAIT(15* ticks)
- 52: 0x0271 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7347*]:
+ 52: 0x0271 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7348*]:
     → "Ah. I see. Don't mind me, then."
  53: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0279 [0x01] GOTO 0x033F
@@ -591,14 +591,14 @@ SUBROUTINE_027F:
  55: 0x027F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)]
  56: 0x028C [0x1C] WAIT(5* ticks)
  57: 0x028F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 58: 0x029E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7348*]:
+ 58: 0x029E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7349*]:
     → "I want you to bring me $0."
  59: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x02A6 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7349*]:
+ 60: 0x02A6 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7350*]:
     → "Just...don't ask me why. How about it? Will you do this for me?"
  61: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x02AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 63: 0x02BD [0x24] CREATE_DIALOG(message_id=7350*, default_option=1*, option_flags=0*)
+ 63: 0x02BD [0x24] CREATE_DIALOG(message_id=7351*, default_option=1*, option_flags=0*)
     → "Accept Novalmauge's request? [Accept./Turn him down.]"
  64: 0x02C4 [0x25] WAIT_DIALOG_SELECT()
  65: 0x02C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E4
@@ -614,7 +614,7 @@ SUBROUTINE_027F:
  75: 0x02FB [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 5*
  76: 0x0302 [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  77: 0x0307 [0x1C] WAIT(15* ticks)
- 78: 0x030A [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7351*]:
+ 78: 0x030A [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7352*]:
     → "Ah...ah-hah. That is to be expected, I guess. Sorry to ask such a ludicrous favor! Don't worry yourself about it."
  79: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0312 [0x01] GOTO 0x033F
@@ -625,7 +625,7 @@ SUBROUTINE_0318:
  83: 0x0328 [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 7*
  84: 0x032F [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  85: 0x0334 [0x1C] WAIT(15* ticks)
- 86: 0x0337 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7352*]:
+ 86: 0x0337 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7353*]:
     → "That is good news, indeed. Please hurry, I beg you."
  87: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -678,7 +678,7 @@ SUBROUTINE_033F:
   4: 0x036C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   5: 0x0371 [0x03] Work_Zone[2] = 930*
   6: 0x0376 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
-  7: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+  7: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "So you will bring me $0? Please then, make haste."
   8: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0389 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
@@ -755,15 +755,15 @@ SUBROUTINE_033F:
  18: 0x0416 [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 7*
  19: 0x041D [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  20: 0x0422 [0x1C] WAIT(15* ticks)
- 21: 0x0425 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7355*]:
+ 21: 0x0425 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7356*]:
     → "You do me a great service. It is hard to find such a helper. I thank you."
  22: 0x042C [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x042D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 24: 0x043C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7356*]:
+ 24: 0x043C [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7357*]:
     → "You've...heard about me? That I am some sort of blood-sucker...a freak of nature? And of course, you'd believe them...everyone does."
  25: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0444 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 27: 0x0453 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
+ 27: 0x0453 [0x24] CREATE_DIALOG(message_id=7358*, default_option=1*, option_flags=0*)
     → "Do you believe the rumors? [Yes, I do./Never!]"
  28: 0x045A [0x25] WAIT_DIALOG_SELECT()
  29: 0x045B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0475
@@ -783,27 +783,27 @@ SUBROUTINE_048F:
  41: 0x049F [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 6*
  42: 0x04A6 [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  43: 0x04AB [0x1C] WAIT(15* ticks)
- 44: 0x04AE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7358*]:
+ 44: 0x04AE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7359*]:
     → "Never mind... You seem to be a kind soul, so I will tell you. I have a disease."
  45: 0x04B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x04B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
- 47: 0x04C5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7359*]:
+ 47: 0x04C5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7360*]:
     → "Whenever the light of the sun touches my skin, it burns me in a horrible fashion."
  48: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x04CD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7360*]:
+ 49: 0x04CD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7361*]:
     → "I was poisoned, long ago... That is how I became this way. And I have been trying to find a cure, some kind of serum, ever since."
  50: 0x04D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x04D5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7361*]:
+ 51: 0x04D5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7362*]:
     → "After many experiments, I found that these $0 are the only things that ease my pain."
  52: 0x04DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x04DD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7362*]:
+ 53: 0x04DD [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7363*]:
     → "Yes, I've become quite knowledgeable in the ways of poisons. People still shun me, but I do not blame them."
  54: 0x04E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x04E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
- 56: 0x04F6 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7363*]:
+ 56: 0x04F6 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7364*]:
     → "The people of San d'Oria can see only with their own eyes, never another's. They think their own view superior to all."
  57: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x04FE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7364*]:
+ 58: 0x04FE [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7365*]:
     → "But you, my friend, are different. If there is anything I can do, you need but ask me."
  59: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0506 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
@@ -812,7 +812,7 @@ SUBROUTINE_048F:
  63: 0x0525 [0x6E] Novalmauge (ID: 17461511/0x010A7107) uses emote 0*
  64: 0x052C [0x99] Wait for Novalmauge (ID: 17461511/0x010A7107) animation to complete
  65: 0x0531 [0x1C] WAIT(15* ticks)
- 66: 0x0534 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7365*]:
+ 66: 0x0534 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7366*]:
     → "Here, take this. It is not much, but it is all I have. I give you my thanks."
  67: 0x053B [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x053C [0x1A] CALL_SUBROUTINE(address=0x07C1)
@@ -854,10 +854,10 @@ SUBROUTINE_048F:
   3: 0x0579 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x057A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   5: 0x057F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
-  6: 0x058E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7366*]:
+  6: 0x058E [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7367*]:
     → "This dungeon has a dark past, especially the deepest room. There are many strange tales about it, yes..."
   7: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0596 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7367*]:
+  8: 0x0596 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7368*]:
     → "I wouldn't be surprised if you were the one to uncover the truth."
   9: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x059E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Novalmauge (ID: 17461511/0x010A7107), Novalmauge (ID: 17461511/0x010A7107)], work=29*
@@ -894,14 +894,14 @@ SUBROUTINE_048F:
   2: 0x05C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
   4: 0x05D2 [0x03] Work_Zone[9] = 959*
-  5: 0x05D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7368*)
+  5: 0x05D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
     → "Eh? Someone threw poison in the water by the sluice gate? You want me to make a neutralizer, then?"
   6: 0x05DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7369*)
+  7: 0x05DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
     → "I prefer to avoid goings-on of this sort, but I cannot refuse a request from you after what you have done for me. All right, I will see what I can do!"
   8: 0x05DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x05DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
- 10: 0x05EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7370*)
+ 10: 0x05EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
     → "Bring me $7. We can use it to make a neutralizer that should put things to rights...I hope."
  11: 0x05F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x05F2 [0x21] END_EVENT
@@ -932,7 +932,7 @@ SUBROUTINE_048F:
   1: 0x05F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05FA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05FB [0x03] Work_Zone[9] = 959*
-  4: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+  4: 0x0600 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
     → "Bring me $7. We can use it to make a neutralizer that should put things to rights...I hope."
   5: 0x0603 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0604 [0x21] END_EVENT
@@ -993,7 +993,7 @@ SUBROUTINE_048F:
  15: 0x065C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg01" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
  16: 0x066D [0x1A] CALL_SUBROUTINE(address=0x07E2)
  17: 0x0670 [0x03] Work_Zone[9] = 959*
- 18: 0x0675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
+ 18: 0x0675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
     → "You've brought me $7? Excellent! Now, I need a little time."
  19: 0x0678 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0679 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1005,7 +1005,7 @@ SUBROUTINE_048F:
  26: 0x06CB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  27: 0x06D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
  28: 0x06E7 [0x03] Work_Zone[9] = 959*
- 29: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7373*)
+ 29: 0x06EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7374*)
     → "There! With this all will be well. Of course, it saddens me to hear this sort of thing still goes on up there. After all this time, they haven't changed."
  30: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x06F0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
@@ -1240,7 +1240,7 @@ SUBROUTINE_048F:
   0: 0x0825 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x082A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x082B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=7385*)
+  3: 0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
     → "If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore."
   4: 0x082F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0830 [0x21] END_EVENT

@@ -67,33 +67,33 @@
 |       6 | 0x0FCA      |        4042 |
 |       7 | 0x0092      |         146 |
 |       8 | 0x007A      |         122 |
-|       9 | 0x1CBA      |        7354 |
+|       9 | 0x1CBB      |        7355 |
 |      10 | 0x00F0      |         240 |
 |      11 | 0x001E      |          30 |
-|      12 | 0x1CBB      |        7355 |
-|      13 | 0x1CBC      |        7356 |
+|      12 | 0x1CBC      |        7356 |
+|      13 | 0x1CBD      |        7357 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x003C      |          60 |
-|      16 | 0x1CBD      |        7357 |
-|      17 | 0x1CBE      |        7358 |
-|      18 | 0x1CBF      |        7359 |
-|      19 | 0x1CC0      |        7360 |
+|      16 | 0x1CBE      |        7358 |
+|      17 | 0x1CBF      |        7359 |
+|      18 | 0x1CC0      |        7360 |
+|      19 | 0x1CC1      |        7361 |
 |      20 | 0x0A66      |        2662 |
-|      21 | 0x1CC1      |        7361 |
-|      22 | 0x1CC2      |        7362 |
-|      23 | 0x1CC3      |        7363 |
+|      21 | 0x1CC2      |        7362 |
+|      22 | 0x1CC3      |        7363 |
+|      23 | 0x1CC4      |        7364 |
 |      24 | 0x0F89      |        3977 |
-|      25 | 0x1CC4      |        7364 |
-|      26 | 0x1CC5      |        7365 |
+|      25 | 0x1CC5      |        7365 |
+|      26 | 0x1CC6      |        7366 |
 |      27 | 0x09B4      |        2484 |
-|      28 | 0x1CC6      |        7366 |
-|      29 | 0x1CC7      |        7367 |
-|      30 | 0x1CC8      |        7368 |
-|      31 | 0x1CC9      |        7369 |
-|      32 | 0x1CCA      |        7370 |
-|      33 | 0x1CCB      |        7371 |
-|      34 | 0x1CCC      |        7372 |
-|      35 | 0x1CCD      |        7373 |
+|      28 | 0x1CC7      |        7367 |
+|      29 | 0x1CC8      |        7368 |
+|      30 | 0x1CC9      |        7369 |
+|      31 | 0x1CCA      |        7370 |
+|      32 | 0x1CCB      |        7371 |
+|      33 | 0x1CCC      |        7372 |
+|      34 | 0x1CCD      |        7373 |
+|      35 | 0x1CCE      |        7374 |
 |      36 | 0x00C9      |         201 |
 |      37 | 0x0090      |         144 |
 |      38 | 0xFFF41775  |  4294186869 |
@@ -101,11 +101,11 @@
 |      40 | 0xFFFFE264  |  4294959716 |
 |      41 | 0x0AB3      |        2739 |
 |      42 | 0x0005      |           5 |
-|      43 | 0x1E88      |        7816 |
-|      44 | 0x1E89      |        7817 |
-|      45 | 0x1E8A      |        7818 |
-|      46 | 0x1E8E      |        7822 |
-|      47 | 0x1E8B      |        7819 |
+|      43 | 0x1E89      |        7817 |
+|      44 | 0x1E8A      |        7818 |
+|      45 | 0x1E8B      |        7819 |
+|      46 | 0x1E8F      |        7823 |
+|      47 | 0x1E8C      |        7820 |
 |      48 | 0x21D4A     |      138570 |
 |      49 | 0x1DC79     |      121977 |
 |      50 | 0xFFFFF830  |  4294965296 |
@@ -199,16 +199,16 @@
 |     138 | 0x0041      |          65 |
 |     139 | 0x0094      |         148 |
 |     140 | 0x000F      |          15 |
-|     141 | 0x1F8F      |        8079 |
-|     142 | 0x1F9B      |        8091 |
+|     141 | 0x1F90      |        8080 |
+|     142 | 0x1F9C      |        8092 |
 |     143 | 0x0063      |          99 |
-|     144 | 0x1F9C      |        8092 |
+|     144 | 0x1F9D      |        8093 |
 
 ## String References
 
-- **8079**: There is treasure somewhere in the vicinity of this marker...
-- **8091**: Your chocobo seems especially sharp today!
-- **8092**: Your chocobo seems especially energetic today!
+- **8080**: There is treasure somewhere in the vicinity of this marker...
+- **8092**: Your chocobo seems especially sharp today!
+- **8093**: Your chocobo seems especially energetic today!
 
 ## Events
 
@@ -393,7 +393,7 @@
  12: 0x006A [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 122*
  13: 0x006E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x007F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 15: 0x008E [0x2B] Mertaire (ID: 17199697/0x01067251) [7354*]:
+ 15: 0x008E [0x2B] Mertaire (ID: 17199697/0x01067251) [7355*]:
     → "So this is the other one!"
  16: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0096 [0x4A] LocalPlayer looks at Mertaire (ID: 17199697/0x01067251)
@@ -405,10 +405,10 @@
  23: 0x00BE [0x1C] WAIT(30* ticks)
  24: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x0D)
  25: 0x00C8 [0x4A] LocalPlayer looks at Mertaire (ID: 17199697/0x01067251)
- 26: 0x00D1 [0x2B] Mertaire (ID: 17199697/0x01067251) [7355*]:
+ 26: 0x00D1 [0x2B] Mertaire (ID: 17199697/0x01067251) [7356*]:
     → "I wanted to know more about the story I heard in the tavern, so I came out here searching. I have a feeling I know who he is."
  27: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00D9 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7356*]:
+ 28: 0x00D9 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7357*]:
     → "I was waiting, Mertaire, for you to find this place."
  29: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00E1 [0x4A] Mertaire (ID: 17199697/0x01067251) looks at Lewenhart (ID: 17199696/0x01067250)
@@ -431,7 +431,7 @@
  47: 0x015A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm21" with entities [EventEntity, EventEntity], work=146*
  48: 0x0169 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x03)
  49: 0x0170 [0x4A] Mertaire (ID: 17199697/0x01067251) looks at Lewenhart (ID: 17199696/0x01067250)
- 50: 0x0179 [0x2B] Mertaire (ID: 17199697/0x01067251) [7357*]:
+ 50: 0x0179 [0x2B] Mertaire (ID: 17199697/0x01067251) [7358*]:
     → "Why, hello! You're Master Lewenhart, aren't you. You're practically a legend among us bards!"
  51: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0181 [0x4A] Lewenhart (ID: 17199696/0x01067250) looks at Mertaire (ID: 17199697/0x01067251)
@@ -441,16 +441,16 @@
  56: 0x01A1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm2c" with entities [EventEntity, EventEntity], work=146*
  57: 0x01B0 [0x1C] WAIT(10* ticks)
  58: 0x01B3 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x09)
- 59: 0x01BA [0x2B] Lewenhart (ID: 17199696/0x01067250) [7358*]:
+ 59: 0x01BA [0x2B] Lewenhart (ID: 17199696/0x01067250) [7359*]:
     → "Now, now. Let's not get carried away. I am just another minstrel, like any other."
  60: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x01C2 [0x27] REQ_SET(priority=0x03, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x04)
- 62: 0x01C9 [0x2B] Mertaire (ID: 17199697/0x01067251) [7359*]:
+ 62: 0x01C9 [0x2B] Mertaire (ID: 17199697/0x01067251) [7360*]:
     → "Master Lewenhart, I first heard your music on the street when I was a lad mired in poverty. I hadn't dreamt that anything could move me so! That moment I vowed to become a bard."
  63: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01D1 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x05)
  65: 0x01D8 [0x27] REQ_SET(priority=0x03, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x0A)
- 66: 0x01DF [0x2B] Mertaire (ID: 17199697/0x01067251) [7360*]:
+ 66: 0x01DF [0x2B] Mertaire (ID: 17199697/0x01067251) [7361*]:
     → "But, alas! Look at me! My voice is shrill and my lyrics lack emotion. I am but a worm in your shadow!"
  67: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x01E7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Mertaire (ID: 17199697/0x01067251), tag_num=0x0B)
@@ -460,15 +460,15 @@
  72: 0x01FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lewenhart (ID: 17199696/0x01067250) Render.Flags0 and Render.Flags3 conditions are met
  73: 0x0200 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm2b" with entities [EventEntity, EventEntity], work=[146*, 0*]
  74: 0x0211 [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x05)
- 75: 0x0218 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7361*]:
+ 75: 0x0218 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7362*]:
     → "Hmph. You hold me in too high regard. I have such days, too."
  76: 0x021F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0220 [0x2B] Mertaire (ID: 17199697/0x01067251) [7362*]:
+ 77: 0x0220 [0x2B] Mertaire (ID: 17199697/0x01067251) [7363*]:
     → "Even you, Master Lewenhart?"
  78: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0228 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x06)
  80: 0x022F [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x07)
- 81: 0x0236 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7363*]:
+ 81: 0x0236 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7364*]:
     → "Of course, my friend. Often I ask the stars above for whom and for what purpose I sing. But ever they are silent."
  82: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x023E [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x08)
@@ -479,40 +479,40 @@
  88: 0x0255 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lewenhart (ID: 17199696/0x01067250) Render.Flags0 and Render.Flags3 conditions are met
  89: 0x025A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm22" with entities [EventEntity, EventEntity], work=[146*, 0*]
  90: 0x026B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm22" with entities [EventEntity, EventEntity], work=146*
- 91: 0x027A [0x2B] Lewenhart (ID: 17199696/0x01067250) [7364*]:
+ 91: 0x027A [0x2B] Lewenhart (ID: 17199696/0x01067250) [7365*]:
     → "But in such times I find myself standing before this stone. In my heart I try to sing of their feelings as they did."
  92: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0282 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7365*]:
+ 93: 0x0282 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7366*]:
     → "Then I remember how such is all that is needed from us bards."
  94: 0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x028A [0x4B] UPDATE_ENTITY_YAW(entity=Lewenhart (ID: 17199696/0x01067250), yaw=13.6°*)
  96: 0x0291 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  97: 0x0292 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lewenhart (ID: 17199696/0x01067250) Render.Flags0 and Render.Flags3 conditions are met
- 98: 0x0297 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7366*]:
+ 98: 0x0297 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7367*]:
     → "Both felt so dearly of the other that they tried to convey their love through the breeze and over the waves of the ocean."
  99: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x029F [0x4A] Lewenhart (ID: 17199696/0x01067250) looks at Mertaire (ID: 17199697/0x01067251)
 101: 0x02A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 102: 0x02A9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lewenhart (ID: 17199696/0x01067250) Render.Flags0 and Render.Flags3 conditions are met
 103: 0x02AE [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x03)
-104: 0x02B5 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7367*]:
+104: 0x02B5 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7368*]:
     → "Can you not feel the yearning in your heart? Before you can move the hearts of others, first you must believe in yourself."
 105: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x02BD [0x2B] Lewenhart (ID: 17199696/0x01067250) [7368*]:
+106: 0x02BD [0x2B] Lewenhart (ID: 17199696/0x01067250) [7369*]:
     → "Music comes from within. That truth we must never forget."
 107: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x02C5 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7369*]:
+108: 0x02C5 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7370*]:
     → "You must have endured a terrible ordeal, my friend. Know your feelings, and be honest with yourself about them. I believe that from such synergy beautiful music will flow."
 109: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x02CD [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x04)
-111: 0x02D4 [0x2B] Mertaire (ID: 17199697/0x01067251) [7370*]:
+111: 0x02D4 [0x2B] Mertaire (ID: 17199697/0x01067251) [7371*]:
     → "So I must be honest with myself?"
 112: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x02DC [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x05)
-114: 0x02E3 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7371*]:
+114: 0x02E3 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7372*]:
     → "That is right. I know we will meet again someday. When that time comes, will you play for me?"
 115: 0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x02EB [0x2B] Mertaire (ID: 17199697/0x01067251) [7372*]:
+116: 0x02EB [0x2B] Mertaire (ID: 17199697/0x01067251) [7373*]:
     → "Yes, of course!"
 117: 0x02F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02F3 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x06)
@@ -522,7 +522,7 @@
 122: 0x0307 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lewenhart (ID: 17199696/0x01067250) Render.Flags0 and Render.Flags3 conditions are met
 123: 0x030C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm2a" with entities [EventEntity, EventEntity], work=[146*, 0*]
 124: 0x031D [0x27] REQ_SET(priority=0x03, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x03)
-125: 0x0324 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7373*]:
+125: 0x0324 [0x2B] Lewenhart (ID: 17199696/0x01067250) [7374*]:
     → "Thanks for all you've done. Now you know upon what path a bard walks. You are always welcome to join us in harmony!"
 126: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x032C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Lewenhart (ID: 17199696/0x01067250), tag_num=0x04)
@@ -612,10 +612,10 @@
  16: 0x03F7 [0x4A] Kiteh Nanjyea (ID: 17199738/0x0106727A) looks at LocalPlayer
  17: 0x0400 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[5*, 0*]
  18: 0x0411 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x0422 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7816*]:
+ 19: 0x0422 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7817*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x0429 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x042A [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7817*]:
+ 21: 0x042A [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7818*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  22: 0x0431 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0432 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0475
@@ -626,11 +626,11 @@
  28: 0x044E [0x15] Work_Zone[6] /= 60*
  29: 0x0453 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  30: 0x045A [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x046D
- 31: 0x0462 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7818*]:
+ 31: 0x0462 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7819*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  32: 0x0469 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x046A [0x01] GOTO 0x0475
- 34: 0x046D [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7822*]:
+ 34: 0x046D [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7823*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  35: 0x0474 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -651,11 +651,11 @@ SUBROUTINE_0475:
 # Dead code (unreachable instructions):
      0x04CA [0x4A] Kiteh Nanjyea (ID: 17199738/0x0106727A) looks at LocalPlayer
      0x04D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-     0x04E4 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7816*]:
+     0x04E4 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7817*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
      0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Kiteh Nanjyea (ID: 17199738/0x0106727A), Kiteh Nanjyea (ID: 17199738/0x0106727A)], work=30*
-     0x04FB [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7817*]:
+     0x04FB [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7818*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0503 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0555
@@ -667,15 +667,15 @@ SUBROUTINE_0475:
      0x052E [0x15] Work_Zone[6] /= 60*
      0x0533 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
      0x053A [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x054D
-     0x0542 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7818*]:
+     0x0542 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7819*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
      0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x054A [0x01] GOTO 0x0555
-     0x054D [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7822*]:
+     0x054D [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7823*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
      0x0554 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0555 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Kiteh Nanjyea (ID: 17199738/0x0106727A), Kiteh Nanjyea (ID: 17199738/0x0106727A)], work=30*
-     0x0564 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7819*]:
+     0x0564 [0x2B] Kiteh Nanjyea (ID: 17199738/0x0106727A) [7820*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
      0x056B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x056C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1602,17 +1602,17 @@ SUBROUTINE_06F4:
      0x0888 [0x00] END_REQSTACK()
      0x0889 [0x00] END_REQSTACK()
      0x088A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x089B [0x48] [System] [8079*]:
+     0x089B [0x48] [System] [8080*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x089E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x089F [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x08BC
      0x08A7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x08B8 [0x48] [System] [8091*]:
+     0x08B8 [0x48] [System] [8092*]:
     → "Your chocobo seems especially sharp today!"
      0x08BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08BC [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x08D9
      0x08C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x08D5 [0x48] [System] [8092*]:
+     0x08D5 [0x48] [System] [8093*]:
     → "Your chocobo seems especially energetic today!"
      0x08D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08D9 [0x1C] WAIT(1* ticks)

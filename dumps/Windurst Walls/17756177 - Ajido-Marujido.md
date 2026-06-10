@@ -107,16 +107,16 @@
 |      15 | 0xFFFF9BBB  |  4294941627 |
 |      16 | 0x403DD     |      263133 |
 |      17 | 0xFFFFCD38  |  4294954296 |
-|      18 | 0x1F3D      |        7997 |
-|      19 | 0x1F3E      |        7998 |
-|      20 | 0x1F3F      |        7999 |
-|      21 | 0x1F40      |        8000 |
-|      22 | 0x1F41      |        8001 |
-|      23 | 0x1F43      |        8003 |
-|      24 | 0x1F44      |        8004 |
-|      25 | 0x1F45      |        8005 |
-|      26 | 0x1F46      |        8006 |
-|      27 | 0x1F47      |        8007 |
+|      18 | 0x1F3E      |        7998 |
+|      19 | 0x1F3F      |        7999 |
+|      20 | 0x1F40      |        8000 |
+|      21 | 0x1F41      |        8001 |
+|      22 | 0x1F42      |        8002 |
+|      23 | 0x1F44      |        8004 |
+|      24 | 0x1F45      |        8005 |
+|      25 | 0x1F46      |        8006 |
+|      26 | 0x1F47      |        8007 |
+|      27 | 0x1F48      |        8008 |
 |      28 | 0xFFFF8C8B  |  4294937739 |
 |      29 | 0x448F5     |      280821 |
 |      30 | 0x0297      |         663 |
@@ -128,20 +128,20 @@
 |      36 | 0x45011     |      282641 |
 |      37 | 0xFFFF9E58  |  4294942296 |
 |      38 | 0x43238     |      275000 |
-|      39 | 0x21F6      |        8694 |
-|      40 | 0x21F7      |        8695 |
-|      41 | 0x21F9      |        8697 |
-|      42 | 0x21FA      |        8698 |
-|      43 | 0x21FB      |        8699 |
-|      44 | 0x21FD      |        8701 |
-|      45 | 0x21FE      |        8702 |
-|      46 | 0x21FF      |        8703 |
-|      47 | 0x2200      |        8704 |
-|      48 | 0x2202      |        8706 |
-|      49 | 0x2203      |        8707 |
-|      50 | 0x2204      |        8708 |
-|      51 | 0x2205      |        8709 |
-|      52 | 0x2206      |        8710 |
+|      39 | 0x21F7      |        8695 |
+|      40 | 0x21F8      |        8696 |
+|      41 | 0x21FA      |        8698 |
+|      42 | 0x21FB      |        8699 |
+|      43 | 0x21FC      |        8700 |
+|      44 | 0x21FE      |        8702 |
+|      45 | 0x21FF      |        8703 |
+|      46 | 0x2200      |        8704 |
+|      47 | 0x2201      |        8705 |
+|      48 | 0x2203      |        8707 |
+|      49 | 0x2204      |        8708 |
+|      50 | 0x2205      |        8709 |
+|      51 | 0x2206      |        8710 |
+|      52 | 0x2207      |        8711 |
 |      53 | 0x2530D     |      152333 |
 |      54 | 0x52180     |      336256 |
 |      55 | 0xFFFF6351  |  4294927185 |
@@ -155,30 +155,30 @@
 
 ## String References
 
-- **7997**: This is it! Now I can finally make some progress with my plan!
-- **7998**: !!!
-- **7999**: Whoa! A curious one, you are. Whattaru? Did you follow me all the way here?
-- **8000**: You're on a mission from the Optistery? Oh, so you're the foolhardy adventurer who accepted that one.
-- **8001**: Do you really think that the Book of the Gods could actually fall into the hands of that petty thief, the Cat Burglar?
-- **8003**: Wait a minutaru... This mark...
-- **8004**: The pages...they're blank...!
-- **8005**: It can'taru be... The time for the Book of the Gods to lose its magic has come...
-- **8006**: You! You must hurry back to the Optistery!
-- **8007**: Tell Tosuka-Porika that the pages of the Book of the Gods have turned blank. Tell him the Book of the Gods is no more!
-- **8694**: ...!
-- **8695**: What? Notaru you again!
-- **8697**: Why do adventurers always have to go sticking their noses into places they don'taru belong?
-- **8698**: Can'taru you see I'm busy here? I don'taru have any time for idle chit-chat. So why don'taru you make like the wind and...
-- **8699**: Hm? What's that you've gotaru in your grubby little hands there?
-- **8701**: Oi! I can tell a fib-meister when I see one. Open up your hands, young [man/lady]!
-- **8702**: Oh, shutaru your trap and show me!
-- **8703**: $1, you say? Well, this thing sure talks a lot to be an ordinary gem...
-- **8704**: I'll let you in on a little secret. If you wantaru to know what it's saying, close your eyes and open your heart.
-- **8706**: So? What did the gem have to say?
-- **8707**: "Seek and gather the seven colors"? Well, at least it doesn't sound like a trap. And I'm not sensing a whole lot of energy from within this ruby, anyway.
-- **8708**: But I need to tell you this--when you let down your guard to hear the voices around you, you should probably have a strong black mage by your side...just to be safe.
-- **8709**: Those voices around you aren'taru always going to be weak ones like just now. You had better be careful. You won'taru always have me there to protect you!
-- **8710**: Did you get all that, [Mister/Miss] Adventurer?
+- **7998**: This is it! Now I can finally make some progress with my plan!
+- **7999**: !!!
+- **8000**: Whoa! A curious one, you are. Whattaru? Did you follow me all the way here?
+- **8001**: You're on a mission from the Optistery? Oh, so you're the foolhardy adventurer who accepted that one.
+- **8002**: Do you really think that the Book of the Gods could actually fall into the hands of that petty thief, the Cat Burglar?
+- **8004**: Wait a minutaru... This mark...
+- **8005**: The pages...they're blank...!
+- **8006**: It can'taru be... The time for the Book of the Gods to lose its magic has come...
+- **8007**: You! You must hurry back to the Optistery!
+- **8008**: Tell Tosuka-Porika that the pages of the Book of the Gods have turned blank. Tell him the Book of the Gods is no more!
+- **8695**: ...!
+- **8696**: What? Notaru you again!
+- **8698**: Why do adventurers always have to go sticking their noses into places they don'taru belong?
+- **8699**: Can'taru you see I'm busy here? I don'taru have any time for idle chit-chat. So why don'taru you make like the wind and...
+- **8700**: Hm? What's that you've gotaru in your grubby little hands there?
+- **8702**: Oi! I can tell a fib-meister when I see one. Open up your hands, young [man/lady]!
+- **8703**: Oh, shutaru your trap and show me!
+- **8704**: $1, you say? Well, this thing sure talks a lot to be an ordinary gem...
+- **8705**: I'll let you in on a little secret. If you wantaru to know what it's saying, close your eyes and open your heart.
+- **8707**: So? What did the gem have to say?
+- **8708**: "Seek and gather the seven colors"? Well, at least it doesn't sound like a trap. And I'm not sensing a whole lot of energy from within this ruby, anyway.
+- **8709**: But I need to tell you this--when you let down your guard to hear the voices around you, you should probably have a strong black mage by your side...just to be safe.
+- **8710**: Those voices around you aren'taru always going to be weak ones like just now. You had better be careful. You won'taru always have me there to protect you!
+- **8711**: Did you get all that, [Mister/Miss] Adventurer?
 
 ## Events
 
@@ -1128,7 +1128,7 @@
 #### Opcodes
 
 ```
-  0: 0x0245 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+  0: 0x0245 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "This is it! Now I can finally make some progress with my plan!"
   1: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0249 [0x00] END_REQSTACK()
@@ -1153,7 +1153,7 @@
 #### Opcodes
 
 ```
-  0: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
+  0: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "!!!"
   1: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x024E [0x00] END_REQSTACK()
@@ -1179,7 +1179,7 @@
 #### Opcodes
 
 ```
-  0: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+  0: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "Whoa! A curious one, you are. Whattaru? Did you follow me all the way here?"
   1: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0253 [0x00] END_REQSTACK()
@@ -1204,7 +1204,7 @@
 #### Opcodes
 
 ```
-  0: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
+  0: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "You're on a mission from the Optistery? Oh, so you're the foolhardy adventurer who accepted that one."
   1: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0258 [0x00] END_REQSTACK()
@@ -1229,7 +1229,7 @@
 #### Opcodes
 
 ```
-  0: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
+  0: 0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
     → "Do you really think that the Book of the Gods could actually fall into the hands of that petty thief, the Cat Burglar?"
   1: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x025D [0x00] END_REQSTACK()
@@ -1255,7 +1255,7 @@
 #### Opcodes
 
 ```
-  0: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
+  0: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
     → "Wait a minutaru... This mark..."
   1: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0262 [0x00] END_REQSTACK()
@@ -1280,7 +1280,7 @@
 #### Opcodes
 
 ```
-  0: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+  0: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "The pages...they're blank...!"
   1: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0267 [0x00] END_REQSTACK()
@@ -1305,7 +1305,7 @@
 #### Opcodes
 
 ```
-  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
+  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
     → "It can'taru be... The time for the Book of the Gods to lose its magic has come..."
   1: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x026C [0x00] END_REQSTACK()
@@ -1331,10 +1331,10 @@
 #### Opcodes
 
 ```
-  0: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+  0: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
     → "You! You must hurry back to the Optistery!"
   1: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+  2: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "Tell Tosuka-Porika that the pages of the Book of the Gods have turned blank. Tell him the Book of the Gods is no more!"
   3: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0275 [0x00] END_REQSTACK()
@@ -1505,7 +1505,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8694*)
+  0: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8695*)
     → "...!"
   1: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B9 [0x00] END_REQSTACK()
@@ -1530,7 +1530,7 @@
 #### Opcodes
 
 ```
-  0: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8695*)
+  0: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8696*)
     → "What? Notaru you again!"
   1: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02BE [0x00] END_REQSTACK()
@@ -1556,7 +1556,7 @@
 #### Opcodes
 
 ```
-  0: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8697*)
+  0: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8698*)
     → "Why do adventurers always have to go sticking their noses into places they don'taru belong?"
   1: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C3 [0x00] END_REQSTACK()
@@ -1581,7 +1581,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8698*)
+  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8699*)
     → "Can'taru you see I'm busy here? I don'taru have any time for idle chit-chat. So why don'taru you make like the wind and..."
   1: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C8 [0x00] END_REQSTACK()
@@ -1606,7 +1606,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8699*)
+  0: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8700*)
     → "Hm? What's that you've gotaru in your grubby little hands there?"
   1: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02CD [0x00] END_REQSTACK()
@@ -1632,7 +1632,7 @@
 #### Opcodes
 
 ```
-  0: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8701*)
+  0: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8702*)
     → "Oi! I can tell a fib-meister when I see one. Open up your hands, young [man/lady]!"
   1: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D2 [0x00] END_REQSTACK()
@@ -1657,7 +1657,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8702*)
+  0: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8703*)
     → "Oh, shutaru your trap and show me!"
   1: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D7 [0x00] END_REQSTACK()
@@ -1682,7 +1682,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8703*)
+  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8704*)
     → "$1, you say? Well, this thing sure talks a lot to be an ordinary gem..."
   1: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DC [0x00] END_REQSTACK()
@@ -1708,7 +1708,7 @@
 #### Opcodes
 
 ```
-  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8704*)
+  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8705*)
     → "I'll let you in on a little secret. If you wantaru to know what it's saying, close your eyes and open your heart."
   1: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E1 [0x00] END_REQSTACK()
@@ -1733,7 +1733,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8706*)
+  0: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8707*)
     → "So? What did the gem have to say?"
   1: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E6 [0x00] END_REQSTACK()
@@ -1758,7 +1758,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8707*)
+  0: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8708*)
     → ""Seek and gather the seven colors"? Well, at least it doesn't sound like a trap. And I'm not sensing a whole lot of energy from within this ruby, anyway."
   1: 0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02EB [0x00] END_REQSTACK()
@@ -1784,7 +1784,7 @@
 #### Opcodes
 
 ```
-  0: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8708*)
+  0: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8709*)
     → "But I need to tell you this--when you let down your guard to hear the voices around you, you should probably have a strong black mage by your side...just to be safe."
   1: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F0 [0x00] END_REQSTACK()
@@ -1809,7 +1809,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8709*)
+  0: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8710*)
     → "Those voices around you aren'taru always going to be weak ones like just now. You had better be careful. You won'taru always have me there to protect you!"
   1: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F5 [0x00] END_REQSTACK()
@@ -1834,7 +1834,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8710*)
+  0: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8711*)
     → "Did you get all that, [Mister/Miss] Adventurer?"
   1: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02FA [0x00] END_REQSTACK()

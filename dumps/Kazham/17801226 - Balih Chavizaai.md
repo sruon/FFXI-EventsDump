@@ -28,8 +28,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x26F2      |        9970 |
-|       3 | 0x285F      |       10335 |
+|       2 | 0x26F3      |        9971 |
+|       3 | 0x2860      |       10336 |
 |       4 | 0x15E8E     |       89742 |
 |       5 | 0xFFFE4A18  |  4294855192 |
 |       6 | 0xFFFFC75C  |  4294952796 |
@@ -37,8 +37,8 @@
 
 ## String References
 
-- **9970**: Scrrram if you don't want your eyes clawed out. This is no place for outsiderrrs.
-- **10335**: What is that smell... Oh it's you! Can't you tell?
+- **9971**: Scrrram if you don't want your eyes clawed out. This is no place for outsiderrrs.
+- **10336**: What is that smell... Oh it's you! Can't you tell?
 
 ## Events
 
@@ -135,7 +135,7 @@
   0: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=9970*)
+  3: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=9971*)
     → "Scrrram if you don't want your eyes clawed out. This is no place for outsiderrrs."
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0025 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -166,7 +166,7 @@
   0: 0x0029 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
+  3: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10336*)
     → "What is that smell... Oh it's you! Can't you tell?"
   4: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0034 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

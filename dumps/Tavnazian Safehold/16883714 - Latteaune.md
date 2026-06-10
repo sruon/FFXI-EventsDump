@@ -20,42 +20,42 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x266B      |        9835 |
+|       0 | 0x266C      |        9836 |
 |       1 | 0x001E      |          30 |
 |       2 | 0xFFFFFFFE  |  4294967294 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
 |       6 | 0x0004      |           4 |
-|       7 | 0x266A      |        9834 |
+|       7 | 0x266B      |        9835 |
 |       8 | 0x001C      |          28 |
 |       9 | 0x001A      |          26 |
 |      10 | 0x0016      |          22 |
 |      11 | 0x000E      |          14 |
-|      12 | 0x266D      |        9837 |
+|      12 | 0x266E      |        9838 |
 |      13 | 0x0000      |           0 |
-|      14 | 0x266E      |        9838 |
+|      14 | 0x266F      |        9839 |
 |      15 | 0x40000000  |  1073741824 |
-|      16 | 0x266F      |        9839 |
+|      16 | 0x2670      |        9840 |
 |      17 | 0x0020      |          32 |
-|      18 | 0x2670      |        9840 |
+|      18 | 0x2671      |        9841 |
 |      19 | 0x0040      |          64 |
-|      20 | 0x2671      |        9841 |
+|      20 | 0x2672      |        9842 |
 |      21 | 0x0060      |          96 |
-|      22 | 0x18FE      |        6398 |
+|      22 | 0x18FF      |        6399 |
 |      23 | 0x00C8      |         200 |
 |      24 | 0x003C      |          60 |
 
 ## String References
 
-- **6398**: You do not have enough gil.
-- **9834**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
-- **9835**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
-- **9837**: Which memory will you have recalled? [Nothing./Promathia Missions./Tavnazia Quests 1./Tavnazia Quests 2./Other Quests.]
-- **9838**: Which memory will you have recalled? [Nothing./An Invitation West./The Lost City(pt.1)./The Lost City(pt.2)./Distant Beliefs./An Eternal Melody(pt.1)./An Eternal Melody(pt.2)./Sheltering Doubt(pt.1)./Sheltering Doubt(pt.2)./Sheltering Doubt(pt.3)./The Savage./The Secrets of Worship./Slanderous Utterings(pt.1)./Slanderous Utterings(pt.2)./Southern Legend./Chains and Bonds(pt.1)./Chains and Bonds(pt.2)./Chains and Bonds(pt.3)./The Chains Fall Free.]
-- **9839**: Which memory will you have recalled? [Nothing./A Hard Day's Knight(pt.1)./A Hard Day's Knight(pt.2)./X Marks the Spot(pt.1)./X Marks the Spot(pt.2)./X Marks the Spot(pt.3)./X Marks the Spot(pt.4)./X Marks the Spot(pt.5)./A Bitter Past(pt.1)./A Bitter Past(pt.2)./A Bitter Past(pt.3)./A Bitter Past(pt.4)./A Bitter Past(pt.5)./Go! Go! Gobmuffin!/Unforgiven(pt.1)./Unforgiven(pt.2)./Unforgiven(pt.3)./Unforgiven(pt.4)./The Big One./The Call of the Sea(pt.1)./The Call of the Sea(pt.2)./The Call of the Sea(pt.3)./The Call of the Sea(pt.4)./The Call of the Sea(pt.5)./Secrets of Ovens Lost./Petals for Parelbriaux(pt.1)./Petals for Parelbriaux(pt.2)./Petals for Parelbriaux(pt.3)./Petals for Parelbriaux(pt.4)./Elderly Pursuits(pt.1)./Elderly Pursuits(pt.2).]
-- **9840**: Which memory will you have recalled? [Nothing./Behind the Smile(pt.1)./Behind the Smile(pt.2)./Forbidden Doors(pt.1)./Forbidden Doors(pt.2)./In Search of the Truth(pt.1)./In Search of the Truth(pt.2)./In Search of the Truth(pt.3)./In Search of the Truth(pt.4)./In Search of the Truth(pt.5)./In Search of the Truth(pt.6)./In Search of the Truth(pt.7)./In Search of the Truth(pt.8)./In Search of the Truth(pt.9)./In Search of the Truth(pt.10)./In Search of the Truth(pt.11)./In Search of the Truth(pt.12)./In Search of the Truth(pt.13)./Uninvited Guests./Tango with a Tracker.]
-- **9841**: Which memory will you have recalled? [Nothing./The Search for Goldmane./Dynamis - The Shrouded Land./Dynamis Interloper(pt.1)./Dynamis Interloper(pt.2)./Dynamis Interloper(pt.3)./Dynamis Interloper(pt.4)./VW Op. #026: Tavnazian Terrors(pt.1)./VW Op. #026: Tavnazian Terrors(pt.2)./VW Op. #026: Tavnazian Terrors(pt.3)./VW Op. #026: Tavnazian Terrors(pt.4)./VW Op. #026: Tavnazian Terrors(pt.5)./VW Op. #026: Tavnazian Terrors(pt.6)./VW Op. #026: Tavnazian Terrors(pt.7)./VW Op. #026: Tavnazian Terrors(pt.8)./Trust (Prishe).]
+- **6399**: You do not have enough gil.
+- **9835**: The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast.
+- **9836**: The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last.
+- **9838**: Which memory will you have recalled? [Nothing./Promathia Missions./Tavnazia Quests 1./Tavnazia Quests 2./Other Quests.]
+- **9839**: Which memory will you have recalled? [Nothing./An Invitation West./The Lost City(pt.1)./The Lost City(pt.2)./Distant Beliefs./An Eternal Melody(pt.1)./An Eternal Melody(pt.2)./Sheltering Doubt(pt.1)./Sheltering Doubt(pt.2)./Sheltering Doubt(pt.3)./The Savage./The Secrets of Worship./Slanderous Utterings(pt.1)./Slanderous Utterings(pt.2)./Southern Legend./Chains and Bonds(pt.1)./Chains and Bonds(pt.2)./Chains and Bonds(pt.3)./The Chains Fall Free.]
+- **9840**: Which memory will you have recalled? [Nothing./A Hard Day's Knight(pt.1)./A Hard Day's Knight(pt.2)./X Marks the Spot(pt.1)./X Marks the Spot(pt.2)./X Marks the Spot(pt.3)./X Marks the Spot(pt.4)./X Marks the Spot(pt.5)./A Bitter Past(pt.1)./A Bitter Past(pt.2)./A Bitter Past(pt.3)./A Bitter Past(pt.4)./A Bitter Past(pt.5)./Go! Go! Gobmuffin!/Unforgiven(pt.1)./Unforgiven(pt.2)./Unforgiven(pt.3)./Unforgiven(pt.4)./The Big One./The Call of the Sea(pt.1)./The Call of the Sea(pt.2)./The Call of the Sea(pt.3)./The Call of the Sea(pt.4)./The Call of the Sea(pt.5)./Secrets of Ovens Lost./Petals for Parelbriaux(pt.1)./Petals for Parelbriaux(pt.2)./Petals for Parelbriaux(pt.3)./Petals for Parelbriaux(pt.4)./Elderly Pursuits(pt.1)./Elderly Pursuits(pt.2).]
+- **9841**: Which memory will you have recalled? [Nothing./Behind the Smile(pt.1)./Behind the Smile(pt.2)./Forbidden Doors(pt.1)./Forbidden Doors(pt.2)./In Search of the Truth(pt.1)./In Search of the Truth(pt.2)./In Search of the Truth(pt.3)./In Search of the Truth(pt.4)./In Search of the Truth(pt.5)./In Search of the Truth(pt.6)./In Search of the Truth(pt.7)./In Search of the Truth(pt.8)./In Search of the Truth(pt.9)./In Search of the Truth(pt.10)./In Search of the Truth(pt.11)./In Search of the Truth(pt.12)./In Search of the Truth(pt.13)./Uninvited Guests./Tango with a Tracker.]
+- **9842**: Which memory will you have recalled? [Nothing./The Search for Goldmane./Dynamis - The Shrouded Land./Dynamis Interloper(pt.1)./Dynamis Interloper(pt.2)./Dynamis Interloper(pt.3)./Dynamis Interloper(pt.4)./VW Op. #026: Tavnazian Terrors(pt.1)./VW Op. #026: Tavnazian Terrors(pt.2)./VW Op. #026: Tavnazian Terrors(pt.3)./VW Op. #026: Tavnazian Terrors(pt.4)./VW Op. #026: Tavnazian Terrors(pt.5)./VW Op. #026: Tavnazian Terrors(pt.6)./VW Op. #026: Tavnazian Terrors(pt.7)./VW Op. #026: Tavnazian Terrors(pt.8)./Trust (Prishe).]
 
 ## Events
 
@@ -128,7 +128,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "eton" with entities [EventEntity, EventEntity]
   1: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0013 [0x02] IF !(Work_Zone[8] <= Work_Zone[9]) GOTO 0x0021
-  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
+  3: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
   4: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001F [0x21] END_EVENT
@@ -143,12 +143,12 @@
  14: 0x0053 [0x02] IF !(Work_Zone[5] == 4294967294*) GOTO 0x0062
  15: 0x005B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=4*, condition_work_offset=1*)
  16: 0x0062 [0x02] IF !(ExtData[1]->WorkLocal[0] == 30*) GOTO 0x0070
- 17: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
+ 17: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9836*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'd recall your past. But I find that you're lacking in cash or in fame, So until that time, my kind offer will last."
  18: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x006E [0x21] END_EVENT
  20: 0x006F [0x00] END_REQSTACK()
- 21: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9834*)
+ 21: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=9835*)
     → "The minstrel of melodies is my name, For a mere $6 gil I'll recall your past. Your stories of love, anger, triumph, and shame, The river of memories runs deep and vast."
  22: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0074 [0x02] IF !(ExtData[1]->WorkLocal[0] == 28*) GOTO 0x007F
@@ -159,13 +159,13 @@
  28: 0x0092 [0x01] GOTO 0x010E
  29: 0x0095 [0x02] IF !(ExtData[1]->WorkLocal[0] == 14*) GOTO 0x00A0
  30: 0x009D [0x01] GOTO 0x013D
- 31: 0x00A0 [0x24] CREATE_DIALOG(message_id=9837*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 31: 0x00A0 [0x24] CREATE_DIALOG(message_id=9838*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which memory will you have recalled? [Nothing./Promathia Missions./Tavnazia Quests 1./Tavnazia Quests 2./Other Quests.]"
  32: 0x00A7 [0x25] WAIT_DIALOG_SELECT()
  33: 0x00A8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D7
 
 SUBROUTINE_00B0:
- 34: 0x00B0 [0x24] CREATE_DIALOG(message_id=9838*, default_option=0*, option_flags=Work_Zone[2])
+ 34: 0x00B0 [0x24] CREATE_DIALOG(message_id=9839*, default_option=0*, option_flags=Work_Zone[2])
     → "Which memory will you have recalled? [Nothing./An Invitation West./The Lost City(pt.1)./The Lost City(pt.2)./Distant Beliefs./An Eternal Melody(pt.1)./An Eternal Melody(pt.2)./Sheltering Doubt(pt.1)./Sheltering Doubt(pt.2)./Sheltering Doubt(pt.3)./The Savage./The Secrets of Worship./Slanderous Utterings(pt.1)./Slanderous Utterings(pt.2)./Southern Legend./Chains and Bonds(pt.1)./Chains and Bonds(pt.2)./Chains and Bonds(pt.3)./The Chains Fall Free.]"
  35: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
  36: 0x00B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CA
@@ -178,7 +178,7 @@ SUBROUTINE_00D4:
  41: 0x00D7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0106
 
 SUBROUTINE_00DF:
- 42: 0x00DF [0x24] CREATE_DIALOG(message_id=9839*, default_option=0*, option_flags=Work_Zone[3])
+ 42: 0x00DF [0x24] CREATE_DIALOG(message_id=9840*, default_option=0*, option_flags=Work_Zone[3])
     → "Which memory will you have recalled? [Nothing./A Hard Day's Knight(pt.1)./A Hard Day's Knight(pt.2)./X Marks the Spot(pt.1)./X Marks the Spot(pt.2)./X Marks the Spot(pt.3)./X Marks the Spot(pt.4)./X Marks the Spot(pt.5)./A Bitter Past(pt.1)./A Bitter Past(pt.2)./A Bitter Past(pt.3)./A Bitter Past(pt.4)./A Bitter Past(pt.5)./Go! Go! Gobmuffin!/Unforgiven(pt.1)./Unforgiven(pt.2)./Unforgiven(pt.3)./Unforgiven(pt.4)./The Big One./The Call of the Sea(pt.1)./The Call of the Sea(pt.2)./The Call of the Sea(pt.3)./The Call of the Sea(pt.4)./The Call of the Sea(pt.5)./Secrets of Ovens Lost./Petals for Parelbriaux(pt.1)./Petals for Parelbriaux(pt.2)./Petals for Parelbriaux(pt.3)./Petals for Parelbriaux(pt.4)./Elderly Pursuits(pt.1)./Elderly Pursuits(pt.2).]"
  43: 0x00E6 [0x25] WAIT_DIALOG_SELECT()
  44: 0x00E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F9
@@ -191,7 +191,7 @@ SUBROUTINE_0103:
  49: 0x0106 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0135
 
 SUBROUTINE_010E:
- 50: 0x010E [0x24] CREATE_DIALOG(message_id=9840*, default_option=0*, option_flags=Work_Zone[4])
+ 50: 0x010E [0x24] CREATE_DIALOG(message_id=9841*, default_option=0*, option_flags=Work_Zone[4])
     → "Which memory will you have recalled? [Nothing./Behind the Smile(pt.1)./Behind the Smile(pt.2)./Forbidden Doors(pt.1)./Forbidden Doors(pt.2)./In Search of the Truth(pt.1)./In Search of the Truth(pt.2)./In Search of the Truth(pt.3)./In Search of the Truth(pt.4)./In Search of the Truth(pt.5)./In Search of the Truth(pt.6)./In Search of the Truth(pt.7)./In Search of the Truth(pt.8)./In Search of the Truth(pt.9)./In Search of the Truth(pt.10)./In Search of the Truth(pt.11)./In Search of the Truth(pt.12)./In Search of the Truth(pt.13)./Uninvited Guests./Tango with a Tracker.]"
  51: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0128
@@ -204,7 +204,7 @@ SUBROUTINE_0132:
  57: 0x0135 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0164
 
 SUBROUTINE_013D:
- 58: 0x013D [0x24] CREATE_DIALOG(message_id=9841*, default_option=0*, option_flags=Work_Zone[5])
+ 58: 0x013D [0x24] CREATE_DIALOG(message_id=9842*, default_option=0*, option_flags=Work_Zone[5])
     → "Which memory will you have recalled? [Nothing./The Search for Goldmane./Dynamis - The Shrouded Land./Dynamis Interloper(pt.1)./Dynamis Interloper(pt.2)./Dynamis Interloper(pt.3)./Dynamis Interloper(pt.4)./VW Op. #026: Tavnazian Terrors(pt.1)./VW Op. #026: Tavnazian Terrors(pt.2)./VW Op. #026: Tavnazian Terrors(pt.3)./VW Op. #026: Tavnazian Terrors(pt.4)./VW Op. #026: Tavnazian Terrors(pt.5)./VW Op. #026: Tavnazian Terrors(pt.6)./VW Op. #026: Tavnazian Terrors(pt.7)./VW Op. #026: Tavnazian Terrors(pt.8)./Trust (Prishe).]"
  59: 0x0144 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0145 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0157
@@ -223,7 +223,7 @@ SUBROUTINE_016B:
  69: 0x016C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  70: 0x016E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  71: 0x0170 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x017E
- 72: 0x0178 [0x48] [System] [6398*]:
+ 72: 0x0178 [0x48] [System] [6399*]:
     → "You do not have enough gil."
  73: 0x017B [0x01] GOTO 0x0193
  74: 0x017E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

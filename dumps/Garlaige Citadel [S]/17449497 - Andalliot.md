@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E07      |        7687 |
+|       0 | 0x1E08      |        7688 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x000D      |          13 |
 |       3 | 0x0003      |           3 |
@@ -53,7 +53,7 @@
 
 ## String References
 
-- **7687**: Hey, hey, hey! You can't be here! How did you get past the guards?
+- **7688**: Hey, hey, hey! You can't be here! How did you get past the guards?
 
 ## Events
 
@@ -102,7 +102,7 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+  3: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "Hey, hey, hey! You can't be here! How did you get past the guards?"
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0014 [0x21] END_EVENT

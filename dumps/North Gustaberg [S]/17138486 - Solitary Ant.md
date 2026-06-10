@@ -35,19 +35,19 @@
 |       5 | 0x5C38A     |      377738 |
 |       6 | 0x259B5     |      154037 |
 |       7 | 0x058F      |        1423 |
-|       8 | 0x1F08      |        7944 |
-|       9 | 0x1F20      |        7968 |
+|       8 | 0x1F09      |        7945 |
+|       9 | 0x1F21      |        7969 |
 |      10 | 0x0045      |          69 |
 |      11 | 0x03DC      |         988 |
-|      12 | 0x1F47      |        8007 |
-|      13 | 0x1F46      |        8006 |
+|      12 | 0x1F48      |        8008 |
+|      13 | 0x1F47      |        8007 |
 
 ## String References
 
-- **7944**: That wound was deep and recent. The turtlebacks have grown bold to attack a soldier so close to the city...!
-- **7968**: The Bastok Markets lie on the other side of this gate.
-- **8006**: Huh? Lost your $3, you say? We're in the middle of a crisis, so get your act together, soldier! Take this spare here, and be on your way!
-- **8007**: You have $6, I see. The others are waiting for you at the Ruhotz Silvermines here in North Gustaberg. Don't make them wait.
+- **7945**: That wound was deep and recent. The turtlebacks have grown bold to attack a soldier so close to the city...!
+- **7969**: The Bastok Markets lie on the other side of this gate.
+- **8007**: Huh? Lost your $3, you say? We're in the middle of a crisis, so get your act together, soldier! Take this spare here, and be on your way!
+- **8008**: You have $6, I see. The others are waiting for you at the Ruhotz Silvermines here in North Gustaberg. Don't make them wait.
 
 ## Events
 
@@ -171,7 +171,7 @@
 ```
   0: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002B [0x1C] WAIT(30* ticks)
-  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "That wound was deep and recent. The turtlebacks have grown bold to attack a soldier so close to the city...!"
   3: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0032 [0x21] END_EVENT
@@ -200,7 +200,7 @@
 ```
   0: 0x0034 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0039 [0x1C] WAIT(30* ticks)
-  2: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  2: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "The Bastok Markets lie on the other side of this gate."
   3: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0040 [0x21] END_EVENT
@@ -232,7 +232,7 @@
   1: 0x0047 [0x1C] WAIT(30* ticks)
   2: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   3: 0x0059 [0x03] Work_Zone[2] = 988*
-  4: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
+  4: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
     → "You have $6, I see. The others are waiting for you at the Ruhotz Silvermines here in North Gustaberg. Don't make them wait."
   5: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0062 [0x21] END_EVENT
@@ -265,7 +265,7 @@
   2: 0x006A [0x1C] WAIT(30* ticks)
   3: 0x006D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   4: 0x007C [0x03] Work_Zone[2] = 988*
-  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8006*)
+  5: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8007*)
     → "Huh? Lost your $3, you say? We're in the middle of a crisis, so get your act together, soldier! Take this spare here, and be on your way!"
   6: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0085 [0x21] END_EVENT

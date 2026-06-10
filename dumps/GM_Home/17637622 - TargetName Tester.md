@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0002      |           2 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x23BB      |        9147 |
+|       2 | 0x23BC      |        9148 |
 
 ## String References
 
-- **9147**: %0
+- **9148**: %0
 
 ## Events
 
@@ -76,7 +76,7 @@
   1: 0x0005 [0x71] USER_INPUT_HANDLER: Menu operation B (param=0x0000)
   2: 0x0009 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
   3: 0x000B [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[0], work_offset2=0*)
-  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=9147*)
+  4: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=9148*)
     → "%0"
   5: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0015 [0x21] END_EVENT

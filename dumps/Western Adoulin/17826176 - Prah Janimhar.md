@@ -26,63 +26,63 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x31BE      |       12734 |
+|       1 | 0x31BF      |       12735 |
 |       2 | 0x003B      |          59 |
-|       3 | 0x31BF      |       12735 |
+|       3 | 0x31C0      |       12736 |
 |       4 | 0x0005      |           5 |
-|       5 | 0x31C0      |       12736 |
-|       6 | 0x31C1      |       12737 |
-|       7 | 0x31C2      |       12738 |
-|       8 | 0x31C3      |       12739 |
-|       9 | 0x31C4      |       12740 |
-|      10 | 0x31C5      |       12741 |
+|       5 | 0x31C1      |       12737 |
+|       6 | 0x31C2      |       12738 |
+|       7 | 0x31C3      |       12739 |
+|       8 | 0x31C4      |       12740 |
+|       9 | 0x31C5      |       12741 |
+|      10 | 0x31C6      |       12742 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x31D4      |       12756 |
+|      12 | 0x31D5      |       12757 |
 |      13 | 0x0000      |           0 |
-|      14 | 0x31C6      |       12742 |
-|      15 | 0x31D6      |       12758 |
-|      16 | 0x31C7      |       12743 |
-|      17 | 0x31C8      |       12744 |
-|      18 | 0x31C9      |       12745 |
+|      14 | 0x31C7      |       12743 |
+|      15 | 0x31D7      |       12759 |
+|      16 | 0x31C8      |       12744 |
+|      17 | 0x31C9      |       12745 |
+|      18 | 0x31CA      |       12746 |
 |      19 | 0x09B2      |        2482 |
-|      20 | 0x31D8      |       12760 |
+|      20 | 0x31D9      |       12761 |
 |      21 | 0x09B3      |        2483 |
-|      22 | 0x31D9      |       12761 |
+|      22 | 0x31DA      |       12762 |
 |      23 | 0x09B4      |        2484 |
-|      24 | 0x31DA      |       12762 |
+|      24 | 0x31DB      |       12763 |
 |      25 | 0x09B5      |        2485 |
-|      26 | 0x31DB      |       12763 |
+|      26 | 0x31DC      |       12764 |
 |      27 | 0x09B6      |        2486 |
-|      28 | 0x31DC      |       12764 |
+|      28 | 0x31DD      |       12765 |
 |      29 | 0x09B7      |        2487 |
-|      30 | 0x31DD      |       12765 |
-|      31 | 0x31DE      |       12766 |
-|      32 | 0x31DF      |       12767 |
-|      33 | 0x31E0      |       12768 |
-|      34 | 0x31E1      |       12769 |
-|      35 | 0x31E2      |       12770 |
-|      36 | 0x31E3      |       12771 |
-|      37 | 0x31CA      |       12746 |
-|      38 | 0x31CB      |       12747 |
-|      39 | 0x31CC      |       12748 |
-|      40 | 0x31CD      |       12749 |
+|      30 | 0x31DE      |       12766 |
+|      31 | 0x31DF      |       12767 |
+|      32 | 0x31E0      |       12768 |
+|      33 | 0x31E1      |       12769 |
+|      34 | 0x31E2      |       12770 |
+|      35 | 0x31E3      |       12771 |
+|      36 | 0x31E4      |       12772 |
+|      37 | 0x31CB      |       12747 |
+|      38 | 0x31CC      |       12748 |
+|      39 | 0x31CD      |       12749 |
+|      40 | 0x31CE      |       12750 |
 |      41 | 0x0002      |           2 |
 |      42 | 0x0004      |           4 |
 |      43 | 0x0006      |           6 |
-|      44 | 0x31CE      |       12750 |
-|      45 | 0x31CF      |       12751 |
-|      46 | 0x31D1      |       12753 |
-|      47 | 0x31D2      |       12754 |
-|      48 | 0x31D3      |       12755 |
-|      49 | 0x31D5      |       12757 |
-|      50 | 0x31D7      |       12759 |
+|      44 | 0x31CF      |       12751 |
+|      45 | 0x31D0      |       12752 |
+|      46 | 0x31D2      |       12754 |
+|      47 | 0x31D3      |       12755 |
+|      48 | 0x31D4      |       12756 |
+|      49 | 0x31D6      |       12758 |
+|      50 | 0x31D8      |       12760 |
 |      51 | 0x0007      |           7 |
-|      52 | 0x31D0      |       12752 |
+|      52 | 0x31D1      |       12753 |
 |      53 | 0x0034      |          52 |
-|      54 | 0x31E4      |       12772 |
-|      55 | 0x31E5      |       12773 |
-|      56 | 0x31E6      |       12774 |
-|      57 | 0x31E7      |       12775 |
+|      54 | 0x31E5      |       12773 |
+|      55 | 0x31E6      |       12774 |
+|      56 | 0x31E7      |       12775 |
+|      57 | 0x31E8      |       12776 |
 |      58 | 0xE817      |       59415 |
 |      59 | 0xE823      |       59427 |
 |      60 | 0x4390      |       17296 |
@@ -91,11 +91,11 @@
 |      63 | 0x000B      |          11 |
 |      64 | 0x208E      |        8334 |
 |      65 | 0x701B      |       28699 |
-|      66 | 0x31E8      |       12776 |
-|      67 | 0x31E9      |       12777 |
+|      66 | 0x31E9      |       12777 |
+|      67 | 0x31EA      |       12778 |
 |      68 | 0x0036      |          54 |
-|      69 | 0x31EA      |       12778 |
-|      70 | 0x31EB      |       12779 |
+|      69 | 0x31EB      |       12779 |
+|      70 | 0x31EC      |       12780 |
 |      71 | 0x7025      |       28709 |
 |      72 | 0x7023      |       28707 |
 |      73 | 0xE809      |       59401 |
@@ -138,52 +138,52 @@
 
 ## String References
 
-- **12734**: Do I look like I've got time to barrrter with neophytes? Off with you!
-- **12735**: So much to do, so little time... Wait. How did you get your grrrubby hands on that $3?
-- **12736**: Amazing--to think I'd actually see a paragon up close! It shines even more brightly than I'd been told!
-- **12737**: <Cough> Allow me to prrroffer an explanation.
-- **12738**: Paragons are trrreasures gleaned from vanquishing Naakuals, and the secrets harbored within can be used to inscribe certain curios with arcane glyptics.
-- **12739**: The energies therein are so delicate and purrre that every arcanist in the city is itching to get their hands on them. Imagine the look on Divainy-Gamainy's face when I tell him that I...<cough>
-- **12740**: I've gotten sidetrrracked. The only thing an adventurer needs to know is that one paragon will provide two different arcane glyptics.
-- **12741**: For example, with weapons, I can inscrrribe...
-- **12742**: And for arrrmor...
-- **12743**: That's all there is to it!
-- **12744**: Ah, but I said that each paragon could provide two glyptics. The second rrrests on the identity of the paragon you bring me.
-- **12745**: With your $3, I can inscrrribe weapons with...
-- **12746**: Worrrking with the paragons is a simple affair, but given the intensity of their auras, I can only inscribe them on very specific equipment.
-- **12747**: They must be able to withstand the infusing process. We artisans refer to these types of equipment as "rrresonant."
-- **12748**: But since you have a paragon on hand, then surrrely you have a piece of resonant equipment already.
-- **12749**: Don't worry about losing equipment unsuited for this endeavor. A veteran of my caliberrr can hold a piece in my paw and know instantly whether or not it would survive the process.
-- **12750**: Any questions, or should we get to worrrk?
-- **12751**: What will you ask? [To see the list of arcane glyptics./Nothing.]
-- **12752**: Leaving so soon? Come back if you need me to lend a paw!
-- **12753**: Which parrragon are you interested in?
-- **12754**: View which paragon? [Shared arcane glyptics./3./$3./$3./$3./$3./$3./Back.]
-- **12755**: I can inscrrribe the following on [weapons/ranged weapons/armor].
-- **12756**: Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]
-- **12757**: Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]
-- **12758**: Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]
-- **12759**: I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor].
-- **12760**: 3: [Evasion+15./"Store TP"+5./Ranged Accuracy+15./Back.]
-- **12761**: 3: [Magic Evasion+15./Magic Accuracy+15./MP+30./Back.]
-- **12762**: 3: [Attack+20./Ranged Attack+20./Weapon skill damage +2%./Back.]
-- **12763**: 3: [Damage taken -2%./"Regen"+3./"Cure" potency received +5%./Back.]
-- **12764**: 3: [Accuracy+15./Critical hit rate +4%./Critical hit damage +2%./Back.]
-- **12765**: 3: ["Magic Atk. Bonus"+10./Magic Damage+15./Enmity-10./Back.]
-- **12766**: 3: [Evasion+10./AGI+8./"Fast Cast"+3./Back.]
-- **12767**: 3: ["Magic Def. Bonus"+2./MND+8./Magic Evasion+10./Back.]
-- **12768**: 3: [Attack+10./STR+8./Ranged Attack+10./Back.]
-- **12769**: 3: [Physical damage taken -2%./VIT+8./HP+30./Back.]
-- **12770**: 3: ["Counter"+2./DEX+8./Skillchain damage +2./Back.]
-- **12771**: 3: [Magic Damage+4./INT+8./MP+30./Back.]
-- **12772**: Yes, a purrrfect specimen. Can you sense the slight tingling as it resonates with your paragon?
-- **12773**: Select a paragon. [3./$3./$3./$3./$3./$3./Never mind.]
-- **12774**: That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started.
-- **12775**: Select the [first/second] arcane glyptic.
-- **12776**: Your weapon'll come out looking something like this.
-- **12777**: Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]
-- **12778**: I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!
-- **12779**: Change your mind? Well, a paragon is your trrreasure to use as you see fit. Come back again if you decide you're interested.
+- **12735**: Do I look like I've got time to barrrter with neophytes? Off with you!
+- **12736**: So much to do, so little time... Wait. How did you get your grrrubby hands on that $3?
+- **12737**: Amazing--to think I'd actually see a paragon up close! It shines even more brightly than I'd been told!
+- **12738**: <Cough> Allow me to prrroffer an explanation.
+- **12739**: Paragons are trrreasures gleaned from vanquishing Naakuals, and the secrets harbored within can be used to inscribe certain curios with arcane glyptics.
+- **12740**: The energies therein are so delicate and purrre that every arcanist in the city is itching to get their hands on them. Imagine the look on Divainy-Gamainy's face when I tell him that I...<cough>
+- **12741**: I've gotten sidetrrracked. The only thing an adventurer needs to know is that one paragon will provide two different arcane glyptics.
+- **12742**: For example, with weapons, I can inscrrribe...
+- **12743**: And for arrrmor...
+- **12744**: That's all there is to it!
+- **12745**: Ah, but I said that each paragon could provide two glyptics. The second rrrests on the identity of the paragon you bring me.
+- **12746**: With your $3, I can inscrrribe weapons with...
+- **12747**: Worrrking with the paragons is a simple affair, but given the intensity of their auras, I can only inscribe them on very specific equipment.
+- **12748**: They must be able to withstand the infusing process. We artisans refer to these types of equipment as "rrresonant."
+- **12749**: But since you have a paragon on hand, then surrrely you have a piece of resonant equipment already.
+- **12750**: Don't worry about losing equipment unsuited for this endeavor. A veteran of my caliberrr can hold a piece in my paw and know instantly whether or not it would survive the process.
+- **12751**: Any questions, or should we get to worrrk?
+- **12752**: What will you ask? [To see the list of arcane glyptics./Nothing.]
+- **12753**: Leaving so soon? Come back if you need me to lend a paw!
+- **12754**: Which parrragon are you interested in?
+- **12755**: View which paragon? [Shared arcane glyptics./3./$3./$3./$3./$3./$3./Back.]
+- **12756**: I can inscrrribe the following on [weapons/ranged weapons/armor].
+- **12757**: Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]
+- **12758**: Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]
+- **12759**: Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]
+- **12760**: I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor].
+- **12761**: 3: [Evasion+15./"Store TP"+5./Ranged Accuracy+15./Back.]
+- **12762**: 3: [Magic Evasion+15./Magic Accuracy+15./MP+30./Back.]
+- **12763**: 3: [Attack+20./Ranged Attack+20./Weapon skill damage +2%./Back.]
+- **12764**: 3: [Damage taken -2%./"Regen"+3./"Cure" potency received +5%./Back.]
+- **12765**: 3: [Accuracy+15./Critical hit rate +4%./Critical hit damage +2%./Back.]
+- **12766**: 3: ["Magic Atk. Bonus"+10./Magic Damage+15./Enmity-10./Back.]
+- **12767**: 3: [Evasion+10./AGI+8./"Fast Cast"+3./Back.]
+- **12768**: 3: ["Magic Def. Bonus"+2./MND+8./Magic Evasion+10./Back.]
+- **12769**: 3: [Attack+10./STR+8./Ranged Attack+10./Back.]
+- **12770**: 3: [Physical damage taken -2%./VIT+8./HP+30./Back.]
+- **12771**: 3: ["Counter"+2./DEX+8./Skillchain damage +2./Back.]
+- **12772**: 3: [Magic Damage+4./INT+8./MP+30./Back.]
+- **12773**: Yes, a purrrfect specimen. Can you sense the slight tingling as it resonates with your paragon?
+- **12774**: Select a paragon. [3./$3./$3./$3./$3./$3./Never mind.]
+- **12775**: That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started.
+- **12776**: Select the [first/second] arcane glyptic.
+- **12777**: Your weapon'll come out looking something like this.
+- **12778**: Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]
+- **12779**: I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!
+- **12780**: Change your mind? Well, a paragon is your trrreasure to use as you see fit. Come back again if you decide you're interested.
 
 ## Events
 
@@ -230,7 +230,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12734*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=12735*)
     → "Do I look like I've got time to barrrter with neophytes? Off with you!"
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -304,35 +304,35 @@
   1: 0x0014 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0019 [0x1C] WAIT(1* ticks)
   3: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12735*)
+  4: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12736*)
     → "So much to do, so little time... Wait. How did you get your grrrubby hands on that $3?"
   5: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002F [0x1C] WAIT(5* ticks)
   7: 0x0032 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
   8: 0x0041 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=59*
-  9: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12736*)
+  9: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12737*)
     → "Amazing--to think I'd actually see a paragon up close! It shines even more brightly than I'd been told!"
  10: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0054 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=59*
  12: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 13: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12737*)
+ 13: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12738*)
     → "<Cough> Allow me to prrroffer an explanation."
  14: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12738*)
+ 15: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12739*)
     → "Paragons are trrreasures gleaned from vanquishing Naakuals, and the secrets harbored within can be used to inscribe certain curios with arcane glyptics."
  16: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=12739*)
+ 17: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=12740*)
     → "The energies therein are so delicate and purrre that every arcanist in the city is itching to get their hands on them. Imagine the look on Divainy-Gamainy's face when I tell him that I...<cough>"
  18: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=12740*)
+ 19: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=12741*)
     → "I've gotten sidetrrracked. The only thing an adventurer needs to know is that one paragon will provide two different arcane glyptics."
  20: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=12741*)
+ 21: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=12742*)
     → "For example, with weapons, I can inscrrribe..."
  22: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0086 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  24: 0x0095 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=3*, condition_work_offset=1*)
- 25: 0x009C [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 25: 0x009C [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
  26: 0x00A3 [0x25] WAIT_DIALOG_SELECT()
  27: 0x00A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AF
@@ -340,11 +340,11 @@
 
 SUBROUTINE_00AF:
  29: 0x00AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 30: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12742*)
+ 30: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12743*)
     → "And for arrrmor..."
  31: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 33: 0x00D1 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 33: 0x00D1 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
  34: 0x00D8 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E4
@@ -352,19 +352,19 @@ SUBROUTINE_00AF:
 
 SUBROUTINE_00E4:
  37: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 38: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12743*)
+ 38: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12744*)
     → "That's all there is to it!"
  39: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12744*)
+ 40: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12745*)
     → "Ah, but I said that each paragon could provide two glyptics. The second rrrests on the identity of the paragon you bring me."
  41: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00FB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 43: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=12745*)
+ 43: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=12746*)
     → "With your $3, I can inscrrribe weapons with..."
  44: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0104 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  46: 0x0113 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2482*) GOTO 0x0131
- 47: 0x011B [0x24] CREATE_DIALOG(message_id=12760*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 47: 0x011B [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Evasion+15./"Store TP"+5./Ranged Accuracy+15./Back.]"
  48: 0x0122 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0123 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012E
@@ -373,7 +373,7 @@ SUBROUTINE_00E4:
 SUBROUTINE_012E:
  51: 0x012E [0x01] GOTO 0x01C7
  52: 0x0131 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2483*) GOTO 0x014F
- 53: 0x0139 [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 53: 0x0139 [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Magic Evasion+15./Magic Accuracy+15./MP+30./Back.]"
  54: 0x0140 [0x25] WAIT_DIALOG_SELECT()
  55: 0x0141 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014C
@@ -382,7 +382,7 @@ SUBROUTINE_012E:
 SUBROUTINE_014C:
  57: 0x014C [0x01] GOTO 0x01C7
  58: 0x014F [0x02] IF !(ExtData[1]->WorkLocal[2] == 2484*) GOTO 0x016D
- 59: 0x0157 [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 59: 0x0157 [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Attack+20./Ranged Attack+20./Weapon skill damage +2%./Back.]"
  60: 0x015E [0x25] WAIT_DIALOG_SELECT()
  61: 0x015F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016A
@@ -391,7 +391,7 @@ SUBROUTINE_014C:
 SUBROUTINE_016A:
  63: 0x016A [0x01] GOTO 0x01C7
  64: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[2] == 2485*) GOTO 0x018B
- 65: 0x0175 [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 65: 0x0175 [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Damage taken -2%./"Regen"+3./"Cure" potency received +5%./Back.]"
  66: 0x017C [0x25] WAIT_DIALOG_SELECT()
  67: 0x017D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0188
@@ -400,7 +400,7 @@ SUBROUTINE_016A:
 SUBROUTINE_0188:
  69: 0x0188 [0x01] GOTO 0x01C7
  70: 0x018B [0x02] IF !(ExtData[1]->WorkLocal[2] == 2486*) GOTO 0x01A9
- 71: 0x0193 [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 71: 0x0193 [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Accuracy+15./Critical hit rate +4%./Critical hit damage +2%./Back.]"
  72: 0x019A [0x25] WAIT_DIALOG_SELECT()
  73: 0x019B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A6
@@ -409,7 +409,7 @@ SUBROUTINE_0188:
 SUBROUTINE_01A6:
  75: 0x01A6 [0x01] GOTO 0x01C7
  76: 0x01A9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2487*) GOTO 0x01C7
- 77: 0x01B1 [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 77: 0x01B1 [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: ["Magic Atk. Bonus"+10./Magic Damage+15./Enmity-10./Back.]"
  78: 0x01B8 [0x25] WAIT_DIALOG_SELECT()
  79: 0x01B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C4
@@ -420,12 +420,12 @@ SUBROUTINE_01C4:
 
 SUBROUTINE_01C7:
  82: 0x01C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 83: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12742*)
+ 83: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12743*)
     → "And for arrrmor..."
  84: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x01DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  86: 0x01E9 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2482*) GOTO 0x0207
- 87: 0x01F1 [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 87: 0x01F1 [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Evasion+10./AGI+8./"Fast Cast"+3./Back.]"
  88: 0x01F8 [0x25] WAIT_DIALOG_SELECT()
  89: 0x01F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0204
@@ -434,7 +434,7 @@ SUBROUTINE_01C7:
 SUBROUTINE_0204:
  91: 0x0204 [0x01] GOTO 0x029D
  92: 0x0207 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2483*) GOTO 0x0225
- 93: 0x020F [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 93: 0x020F [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: ["Magic Def. Bonus"+2./MND+8./Magic Evasion+10./Back.]"
  94: 0x0216 [0x25] WAIT_DIALOG_SELECT()
  95: 0x0217 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0222
@@ -443,7 +443,7 @@ SUBROUTINE_0204:
 SUBROUTINE_0222:
  97: 0x0222 [0x01] GOTO 0x029D
  98: 0x0225 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2484*) GOTO 0x0243
- 99: 0x022D [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 99: 0x022D [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Attack+10./STR+8./Ranged Attack+10./Back.]"
 100: 0x0234 [0x25] WAIT_DIALOG_SELECT()
 101: 0x0235 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0240
@@ -452,7 +452,7 @@ SUBROUTINE_0222:
 SUBROUTINE_0240:
 103: 0x0240 [0x01] GOTO 0x029D
 104: 0x0243 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2485*) GOTO 0x0261
-105: 0x024B [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+105: 0x024B [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Physical damage taken -2%./VIT+8./HP+30./Back.]"
 106: 0x0252 [0x25] WAIT_DIALOG_SELECT()
 107: 0x0253 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025E
@@ -461,7 +461,7 @@ SUBROUTINE_0240:
 SUBROUTINE_025E:
 109: 0x025E [0x01] GOTO 0x029D
 110: 0x0261 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2486*) GOTO 0x027F
-111: 0x0269 [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+111: 0x0269 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: ["Counter"+2./DEX+8./Skillchain damage +2./Back.]"
 112: 0x0270 [0x25] WAIT_DIALOG_SELECT()
 113: 0x0271 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027C
@@ -470,7 +470,7 @@ SUBROUTINE_025E:
 SUBROUTINE_027C:
 115: 0x027C [0x01] GOTO 0x029D
 116: 0x027F [0x02] IF !(ExtData[1]->WorkLocal[2] == 2487*) GOTO 0x029D
-117: 0x0287 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+117: 0x0287 [0x24] CREATE_DIALOG(message_id=12772*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "3: [Magic Damage+4./INT+8./MP+30./Back.]"
 118: 0x028E [0x25] WAIT_DIALOG_SELECT()
 119: 0x028F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029A
@@ -481,16 +481,16 @@ SUBROUTINE_029A:
 
 SUBROUTINE_029D:
 122: 0x029D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-123: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12746*)
+123: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12747*)
     → "Worrrking with the paragons is a simple affair, but given the intensity of their auras, I can only inscribe them on very specific equipment."
 124: 0x02AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x02B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12747*)
+125: 0x02B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
     → "They must be able to withstand the infusing process. We artisans refer to these types of equipment as "rrresonant.""
 126: 0x02B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
+127: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12749*)
     → "But since you have a paragon on hand, then surrrely you have a piece of resonant equipment already."
 128: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12749*)
+129: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12750*)
     → "Don't worry about losing equipment unsuited for this endeavor. A veteran of my caliberrr can hold a piece in my paw and know instantly whether or not it would survive the process."
 130: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x02BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -651,16 +651,16 @@ SUBROUTINE_0362:
  25: 0x0362 [0x1E] EventEntity looks at LocalPlayer and starts talking
  26: 0x0367 [0x1C] WAIT(1* ticks)
  27: 0x036A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 28: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=12750*)
+ 28: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=12751*)
     → "Any questions, or should we get to worrrk?"
  29: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x037D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 31: 0x038C [0x24] CREATE_DIALOG(message_id=12751*, default_option=0*, option_flags=0*)
+ 31: 0x038C [0x24] CREATE_DIALOG(message_id=12752*, default_option=0*, option_flags=0*)
     → "What will you ask? [To see the list of arcane glyptics./Nothing.]"
  32: 0x0393 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0394 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0886
  34: 0x039C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 35: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12753*)
+ 35: 0x03AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12754*)
     → "Which parrragon are you interested in?"
  36: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x03AF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -674,19 +674,19 @@ SUBROUTINE_03C8:
  43: 0x03D7 [0x03] Work_Zone[5] = 2485*
  44: 0x03DC [0x03] Work_Zone[6] = 2486*
  45: 0x03E1 [0x03] Work_Zone[7] = 2487*
- 46: 0x03E6 [0x24] CREATE_DIALOG(message_id=12754*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[0])
+ 46: 0x03E6 [0x24] CREATE_DIALOG(message_id=12755*, default_option=ExtData[1]->WorkLocal[3], option_flags=ExtData[1]->WorkLocal[0])
     → "View which paragon? [Shared arcane glyptics./3./$3./$3./$3./$3./$3./Back.]"
  47: 0x03ED [0x25] WAIT_DIALOG_SELECT()
  48: 0x03EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C4
  49: 0x03F6 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[0]
  50: 0x03FB [0x03] Work_Zone[2] = 0*
  51: 0x0400 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 52: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+ 52: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
     → "I can inscrrribe the following on [weapons/ranged weapons/armor]."
  53: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0413 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  55: 0x0422 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 56: 0x0429 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 56: 0x0429 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
  57: 0x0430 [0x25] WAIT_DIALOG_SELECT()
  58: 0x0431 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x043C
@@ -695,12 +695,12 @@ SUBROUTINE_03C8:
 SUBROUTINE_043C:
  60: 0x043C [0x03] Work_Zone[2] = 1*
  61: 0x0441 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 62: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+ 62: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
     → "I can inscrrribe the following on [weapons/ranged weapons/armor]."
  63: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0454 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  65: 0x0463 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 66: 0x046A [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 66: 0x046A [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
  67: 0x0471 [0x25] WAIT_DIALOG_SELECT()
  68: 0x0472 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x047D
@@ -709,12 +709,12 @@ SUBROUTINE_043C:
 SUBROUTINE_047D:
  70: 0x047D [0x03] Work_Zone[2] = 2*
  71: 0x0482 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 72: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=12755*)
+ 72: 0x0491 [0x1D] PRINT_EVENT_MESSAGE(message_id=12756*)
     → "I can inscrrribe the following on [weapons/ranged weapons/armor]."
  73: 0x0494 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0495 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  75: 0x04A4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 76: 0x04AB [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 76: 0x04AB [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
  77: 0x04B2 [0x25] WAIT_DIALOG_SELECT()
  78: 0x04B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04BE
@@ -727,12 +727,12 @@ SUBROUTINE_0517:
  81: 0x0517 [0x03] Work_Zone[2] = 2482*
  82: 0x051C [0x03] Work_Zone[3] = 1*
  83: 0x0521 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 84: 0x0530 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+ 84: 0x0530 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
  85: 0x0533 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0534 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  87: 0x0543 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 88: 0x054A [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 88: 0x054A [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: [Evasion+10./AGI+8./"Fast Cast"+3./Back.]"
  89: 0x0551 [0x25] WAIT_DIALOG_SELECT()
  90: 0x0552 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055D
@@ -744,12 +744,12 @@ SUBROUTINE_055D:
 SUBROUTINE_05B6:
  93: 0x05B6 [0x03] Work_Zone[3] = 1*
  94: 0x05BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 95: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+ 95: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
  96: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x05CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  98: 0x05DD [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 99: 0x05E4 [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 99: 0x05E4 [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: ["Magic Def. Bonus"+2./MND+8./Magic Evasion+10./Back.]"
 100: 0x05EB [0x25] WAIT_DIALOG_SELECT()
 101: 0x05EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05F7
@@ -761,12 +761,12 @@ SUBROUTINE_05F7:
 SUBROUTINE_0650:
 104: 0x0650 [0x03] Work_Zone[3] = 1*
 105: 0x0655 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-106: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+106: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
 107: 0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0668 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 109: 0x0677 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
-110: 0x067E [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+110: 0x067E [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: [Attack+10./STR+8./Ranged Attack+10./Back.]"
 111: 0x0685 [0x25] WAIT_DIALOG_SELECT()
 112: 0x0686 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0691
@@ -778,12 +778,12 @@ SUBROUTINE_0691:
 SUBROUTINE_06EA:
 115: 0x06EA [0x03] Work_Zone[3] = 1*
 116: 0x06EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-117: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+117: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
 118: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0702 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 120: 0x0711 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
-121: 0x0718 [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+121: 0x0718 [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: [Physical damage taken -2%./VIT+8./HP+30./Back.]"
 122: 0x071F [0x25] WAIT_DIALOG_SELECT()
 123: 0x0720 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x072B
@@ -795,12 +795,12 @@ SUBROUTINE_072B:
 SUBROUTINE_0784:
 126: 0x0784 [0x03] Work_Zone[3] = 1*
 127: 0x0789 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-128: 0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+128: 0x0798 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
 129: 0x079B [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x079C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 131: 0x07AB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
-132: 0x07B2 [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+132: 0x07B2 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: ["Counter"+2./DEX+8./Skillchain damage +2./Back.]"
 133: 0x07B9 [0x25] WAIT_DIALOG_SELECT()
 134: 0x07BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C5
@@ -812,12 +812,12 @@ SUBROUTINE_07C5:
 SUBROUTINE_081E:
 137: 0x081E [0x03] Work_Zone[3] = 1*
 138: 0x0823 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-139: 0x0832 [0x1D] PRINT_EVENT_MESSAGE(message_id=12759*)
+139: 0x0832 [0x1D] PRINT_EVENT_MESSAGE(message_id=12760*)
     → "I can inscrrribe the following arcane glyptics unique to $6 on [weapons/armor]."
 140: 0x0835 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0836 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 142: 0x0845 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
-143: 0x084C [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+143: 0x084C [0x24] CREATE_DIALOG(message_id=12772*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "3: [Magic Damage+4./INT+8./MP+30./Back.]"
 144: 0x0853 [0x25] WAIT_DIALOG_SELECT()
 145: 0x0854 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x085F
@@ -830,7 +830,7 @@ SUBROUTINE_0883:
 148: 0x0883 [0x01] GOTO 0x08A4
 149: 0x0886 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08A4
 150: 0x088E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wav0" with entities [EventEntity, EventEntity], work=52*
-151: 0x089D [0x1D] PRINT_EVENT_MESSAGE(message_id=12752*)
+151: 0x089D [0x1D] PRINT_EVENT_MESSAGE(message_id=12753*)
     → "Leaving so soon? Come back if you need me to lend a paw!"
 152: 0x08A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x08A1 [0x01] GOTO 0x08A4
@@ -1109,7 +1109,7 @@ SUBROUTINE_093C:
  30: 0x0950 [0x99] Wait for EventEntity animation to complete
  31: 0x0955 [0x99] Wait for EventEntity animation to complete
  32: 0x095A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 33: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+ 33: 0x0969 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
     → "Yes, a purrrfect specimen. Can you sense the slight tingling as it resonates with your paragon?"
  34: 0x096C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x096D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1125,23 +1125,23 @@ SUBROUTINE_0981:
  43: 0x099F [0x03] Work_Zone[7] = 2487*
  44: 0x09A4 [0x03] ExtData[1]->WorkLocal[5] = 0*
  45: 0x09A9 [0x03] ExtData[1]->WorkLocal[6] = 0*
- 46: 0x09AE [0x24] CREATE_DIALOG(message_id=12773*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
+ 46: 0x09AE [0x24] CREATE_DIALOG(message_id=12774*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
     → "Select a paragon. [3./$3./$3./$3./$3./$3./Never mind.]"
  47: 0x09B5 [0x25] WAIT_DIALOG_SELECT()
  48: 0x09B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B6E
  49: 0x09BE [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
  50: 0x09C3 [0x03] Work_Zone[2] = 2482*
  51: 0x09C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 52: 0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+ 52: 0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
  53: 0x09DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x09DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  55: 0x09EA [0x03] Work_Zone[2] = 0*
- 56: 0x09EF [0x48] [System] [12775*]:
+ 56: 0x09EF [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  57: 0x09F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x09F3 [0x03] Work_Zone[2] = 2482*
- 59: 0x09F8 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+ 59: 0x09F8 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
  60: 0x09FF [0x25] WAIT_DIALOG_SELECT()
  61: 0x0A00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A19
@@ -1161,11 +1161,11 @@ SUBROUTINE_0981:
 
 SUBROUTINE_0A59:
  75: 0x0A59 [0x03] Work_Zone[2] = 1*
- 76: 0x0A5E [0x48] [System] [12775*]:
+ 76: 0x0A5E [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  77: 0x0A61 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0A62 [0x03] Work_Zone[2] = 2482*
- 79: 0x0A67 [0x24] CREATE_DIALOG(message_id=12760*, default_option=0*, option_flags=0*)
+ 79: 0x0A67 [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=0*)
     → "3: [Evasion+15./"Store TP"+5./Ranged Accuracy+15./Back.]"
  80: 0x0A6E [0x25] WAIT_DIALOG_SELECT()
  81: 0x0A6F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A88
@@ -1187,17 +1187,17 @@ SUBROUTINE_0AC8:
  95: 0x0AC8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  96: 0x0ACD [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
  97: 0x0AD7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 98: 0x0AE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+ 98: 0x0AE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
  99: 0x0AE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0AEA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 101: 0x0AF9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-102: 0x0AFC [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+102: 0x0AFC [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 103: 0x0B03 [0x25] WAIT_DIALOG_SELECT()
 104: 0x0B04 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B2B
 105: 0x0B0C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-106: 0x0B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+106: 0x0B1B [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 107: 0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0B1F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
@@ -1211,16 +1211,16 @@ SUBROUTINE_0B6B:
 114: 0x0B76 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 115: 0x0B7B [0x03] Work_Zone[2] = 2483*
 116: 0x0B80 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-117: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+117: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 118: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0B93 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 120: 0x0BA2 [0x03] Work_Zone[2] = 0*
-121: 0x0BA7 [0x48] [System] [12775*]:
+121: 0x0BA7 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 122: 0x0BAA [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0BAB [0x03] Work_Zone[2] = 2483*
-124: 0x0BB0 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+124: 0x0BB0 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 125: 0x0BB7 [0x25] WAIT_DIALOG_SELECT()
 126: 0x0BB8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BD1
@@ -1240,11 +1240,11 @@ SUBROUTINE_0B6B:
 
 SUBROUTINE_0C11:
 140: 0x0C11 [0x03] Work_Zone[2] = 1*
-141: 0x0C16 [0x48] [System] [12775*]:
+141: 0x0C16 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 142: 0x0C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0C1A [0x03] Work_Zone[2] = 2483*
-144: 0x0C1F [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=0*)
+144: 0x0C1F [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=0*)
     → "3: [Magic Evasion+15./Magic Accuracy+15./MP+30./Back.]"
 145: 0x0C26 [0x25] WAIT_DIALOG_SELECT()
 146: 0x0C27 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C40
@@ -1266,17 +1266,17 @@ SUBROUTINE_0C80:
 160: 0x0C80 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 161: 0x0C85 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 162: 0x0C8F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-163: 0x0C9E [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+163: 0x0C9E [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 164: 0x0CA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x0CA2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 166: 0x0CB1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-167: 0x0CB4 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+167: 0x0CB4 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 168: 0x0CBB [0x25] WAIT_DIALOG_SELECT()
 169: 0x0CBC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CE3
 170: 0x0CC4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-171: 0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+171: 0x0CD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 172: 0x0CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x0CD7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
@@ -1290,16 +1290,16 @@ SUBROUTINE_0D23:
 179: 0x0D2E [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 180: 0x0D33 [0x03] Work_Zone[2] = 2484*
 181: 0x0D38 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-182: 0x0D47 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+182: 0x0D47 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 183: 0x0D4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x0D4B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 185: 0x0D5A [0x03] Work_Zone[2] = 0*
-186: 0x0D5F [0x48] [System] [12775*]:
+186: 0x0D5F [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 187: 0x0D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0D63 [0x03] Work_Zone[2] = 2484*
-189: 0x0D68 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+189: 0x0D68 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 190: 0x0D6F [0x25] WAIT_DIALOG_SELECT()
 191: 0x0D70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D89
@@ -1319,11 +1319,11 @@ SUBROUTINE_0D23:
 
 SUBROUTINE_0DC9:
 205: 0x0DC9 [0x03] Work_Zone[2] = 1*
-206: 0x0DCE [0x48] [System] [12775*]:
+206: 0x0DCE [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 207: 0x0DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0DD2 [0x03] Work_Zone[2] = 2484*
-209: 0x0DD7 [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=0*)
+209: 0x0DD7 [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=0*)
     → "3: [Attack+20./Ranged Attack+20./Weapon skill damage +2%./Back.]"
 210: 0x0DDE [0x25] WAIT_DIALOG_SELECT()
 211: 0x0DDF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DF8
@@ -1345,17 +1345,17 @@ SUBROUTINE_0E38:
 225: 0x0E38 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 226: 0x0E3D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 227: 0x0E47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-228: 0x0E56 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+228: 0x0E56 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 229: 0x0E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x0E5A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 231: 0x0E69 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-232: 0x0E6C [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+232: 0x0E6C [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 233: 0x0E73 [0x25] WAIT_DIALOG_SELECT()
 234: 0x0E74 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E9B
 235: 0x0E7C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-236: 0x0E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+236: 0x0E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 237: 0x0E8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0E8F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
@@ -1369,16 +1369,16 @@ SUBROUTINE_0EDB:
 244: 0x0EE6 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 245: 0x0EEB [0x03] Work_Zone[2] = 2485*
 246: 0x0EF0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-247: 0x0EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+247: 0x0EFF [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 248: 0x0F02 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x0F03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 250: 0x0F12 [0x03] Work_Zone[2] = 0*
-251: 0x0F17 [0x48] [System] [12775*]:
+251: 0x0F17 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 252: 0x0F1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x0F1B [0x03] Work_Zone[2] = 2485*
-254: 0x0F20 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+254: 0x0F20 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 255: 0x0F27 [0x25] WAIT_DIALOG_SELECT()
 256: 0x0F28 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F41
@@ -1398,11 +1398,11 @@ SUBROUTINE_0EDB:
 
 SUBROUTINE_0F81:
 270: 0x0F81 [0x03] Work_Zone[2] = 1*
-271: 0x0F86 [0x48] [System] [12775*]:
+271: 0x0F86 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 272: 0x0F89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x0F8A [0x03] Work_Zone[2] = 2485*
-274: 0x0F8F [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=0*)
+274: 0x0F8F [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=0*)
     → "3: [Damage taken -2%./"Regen"+3./"Cure" potency received +5%./Back.]"
 275: 0x0F96 [0x25] WAIT_DIALOG_SELECT()
 276: 0x0F97 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FBD
@@ -1425,17 +1425,17 @@ SUBROUTINE_0FFD:
 291: 0x0FFD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 292: 0x1002 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 293: 0x100C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-294: 0x101B [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+294: 0x101B [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 295: 0x101E [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x101F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 297: 0x102E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-298: 0x1031 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+298: 0x1031 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 299: 0x1038 [0x25] WAIT_DIALOG_SELECT()
 300: 0x1039 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1060
 301: 0x1041 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-302: 0x1050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+302: 0x1050 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 303: 0x1053 [0x23] WAIT_FOR_DIALOG_INTERACTION
 304: 0x1054 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
@@ -1449,16 +1449,16 @@ SUBROUTINE_10A0:
 310: 0x10AB [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 311: 0x10B0 [0x03] Work_Zone[2] = 2486*
 312: 0x10B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-313: 0x10C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+313: 0x10C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 314: 0x10C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x10C8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 316: 0x10D7 [0x03] Work_Zone[2] = 0*
-317: 0x10DC [0x48] [System] [12775*]:
+317: 0x10DC [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 318: 0x10DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x10E0 [0x03] Work_Zone[2] = 2486*
-320: 0x10E5 [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+320: 0x10E5 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 321: 0x10EC [0x25] WAIT_DIALOG_SELECT()
 322: 0x10ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1106
@@ -1478,11 +1478,11 @@ SUBROUTINE_10A0:
 
 SUBROUTINE_1146:
 336: 0x1146 [0x03] Work_Zone[2] = 1*
-337: 0x114B [0x48] [System] [12775*]:
+337: 0x114B [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 338: 0x114E [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x114F [0x03] Work_Zone[2] = 2486*
-340: 0x1154 [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=0*)
+340: 0x1154 [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=0*)
     → "3: [Accuracy+15./Critical hit rate +4%./Critical hit damage +2%./Back.]"
 341: 0x115B [0x25] WAIT_DIALOG_SELECT()
 342: 0x115C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1175
@@ -1504,17 +1504,17 @@ SUBROUTINE_11B5:
 356: 0x11B5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 357: 0x11BA [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 358: 0x11C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-359: 0x11D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+359: 0x11D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 360: 0x11D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x11D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 362: 0x11E6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-363: 0x11E9 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+363: 0x11E9 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 364: 0x11F0 [0x25] WAIT_DIALOG_SELECT()
 365: 0x11F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1218
 366: 0x11F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-367: 0x1208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+367: 0x1208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 368: 0x120B [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x120C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
@@ -1528,16 +1528,16 @@ SUBROUTINE_1258:
 375: 0x1263 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 376: 0x1268 [0x03] Work_Zone[2] = 2487*
 377: 0x126D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-378: 0x127C [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+378: 0x127C [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 379: 0x127F [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x1280 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 381: 0x128F [0x03] Work_Zone[2] = 0*
-382: 0x1294 [0x48] [System] [12775*]:
+382: 0x1294 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 383: 0x1297 [0x23] WAIT_FOR_DIALOG_INTERACTION
 384: 0x1298 [0x03] Work_Zone[2] = 2487*
-385: 0x129D [0x24] CREATE_DIALOG(message_id=12756*, default_option=0*, option_flags=0*)
+385: 0x129D [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 386: 0x12A4 [0x25] WAIT_DIALOG_SELECT()
 387: 0x12A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12BE
@@ -1557,11 +1557,11 @@ SUBROUTINE_1258:
 
 SUBROUTINE_12FE:
 401: 0x12FE [0x03] Work_Zone[2] = 1*
-402: 0x1303 [0x48] [System] [12775*]:
+402: 0x1303 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 403: 0x1306 [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x1307 [0x03] Work_Zone[2] = 2487*
-405: 0x130C [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=0*)
+405: 0x130C [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=0*)
     → "3: ["Magic Atk. Bonus"+10./Magic Damage+15./Enmity-10./Back.]"
 406: 0x1313 [0x25] WAIT_DIALOG_SELECT()
 407: 0x1314 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x132D
@@ -1583,17 +1583,17 @@ SUBROUTINE_136D:
 421: 0x136D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 422: 0x1372 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 423: 0x137C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-424: 0x138B [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+424: 0x138B [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 425: 0x138E [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x138F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 427: 0x139E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-428: 0x13A1 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+428: 0x13A1 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 429: 0x13A8 [0x25] WAIT_DIALOG_SELECT()
 430: 0x13A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13D0
 431: 0x13B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-432: 0x13C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+432: 0x13C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 433: 0x13C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x13C4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=6*)
@@ -1605,7 +1605,7 @@ SUBROUTINE_1410:
 438: 0x1410 [0x01] GOTO 0x1445
 439: 0x1413 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1445
 440: 0x141B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-441: 0x142A [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
+441: 0x142A [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
     → "Change your mind? Well, a paragon is your trrreasure to use as you see fit. Come back again if you decide you're interested."
 442: 0x142D [0x23] WAIT_FOR_DIALOG_INTERACTION
 443: 0x142E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1907,7 +1907,7 @@ SUBROUTINE_14DE:
  30: 0x14F2 [0x99] Wait for EventEntity animation to complete
  31: 0x14F7 [0x99] Wait for EventEntity animation to complete
  32: 0x14FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 33: 0x150B [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+ 33: 0x150B [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
     → "Yes, a purrrfect specimen. Can you sense the slight tingling as it resonates with your paragon?"
  34: 0x150E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x150F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -1923,23 +1923,23 @@ SUBROUTINE_1523:
  43: 0x1541 [0x03] Work_Zone[7] = 2487*
  44: 0x1546 [0x03] ExtData[1]->WorkLocal[5] = 0*
  45: 0x154B [0x03] ExtData[1]->WorkLocal[6] = 0*
- 46: 0x1550 [0x24] CREATE_DIALOG(message_id=12773*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
+ 46: 0x1550 [0x24] CREATE_DIALOG(message_id=12774*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
     → "Select a paragon. [3./$3./$3./$3./$3./$3./Never mind.]"
  47: 0x1557 [0x25] WAIT_DIALOG_SELECT()
  48: 0x1558 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16F2
  49: 0x1560 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
  50: 0x1565 [0x03] Work_Zone[2] = 2482*
  51: 0x156A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 52: 0x1579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+ 52: 0x1579 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
  53: 0x157C [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x157D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  55: 0x158C [0x03] Work_Zone[2] = 0*
- 56: 0x1591 [0x48] [System] [12775*]:
+ 56: 0x1591 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  57: 0x1594 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1595 [0x03] Work_Zone[2] = 2482*
- 59: 0x159A [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+ 59: 0x159A [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
  60: 0x15A1 [0x25] WAIT_DIALOG_SELECT()
  61: 0x15A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15BB
@@ -1959,11 +1959,11 @@ SUBROUTINE_1523:
 
 SUBROUTINE_15FB:
  75: 0x15FB [0x03] Work_Zone[2] = 1*
- 76: 0x1600 [0x48] [System] [12775*]:
+ 76: 0x1600 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  77: 0x1603 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x1604 [0x03] Work_Zone[2] = 2482*
- 79: 0x1609 [0x24] CREATE_DIALOG(message_id=12760*, default_option=0*, option_flags=0*)
+ 79: 0x1609 [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=0*)
     → "3: [Evasion+15./"Store TP"+5./Ranged Accuracy+15./Back.]"
  80: 0x1610 [0x25] WAIT_DIALOG_SELECT()
  81: 0x1611 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x162A
@@ -1985,17 +1985,17 @@ SUBROUTINE_166A:
  95: 0x166A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  96: 0x166F [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
  97: 0x1679 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 98: 0x1688 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+ 98: 0x1688 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
  99: 0x168B [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x168C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 101: 0x169B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-102: 0x169E [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+102: 0x169E [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 103: 0x16A5 [0x25] WAIT_DIALOG_SELECT()
 104: 0x16A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16CD
 105: 0x16AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-106: 0x16BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+106: 0x16BD [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 107: 0x16C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x16C1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
@@ -2009,16 +2009,16 @@ SUBROUTINE_16EF:
 114: 0x16FA [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 115: 0x16FF [0x03] Work_Zone[2] = 2483*
 116: 0x1704 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-117: 0x1713 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+117: 0x1713 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 118: 0x1716 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x1717 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 120: 0x1726 [0x03] Work_Zone[2] = 0*
-121: 0x172B [0x48] [System] [12775*]:
+121: 0x172B [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 122: 0x172E [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x172F [0x03] Work_Zone[2] = 2483*
-124: 0x1734 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+124: 0x1734 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 125: 0x173B [0x25] WAIT_DIALOG_SELECT()
 126: 0x173C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1755
@@ -2038,11 +2038,11 @@ SUBROUTINE_16EF:
 
 SUBROUTINE_1795:
 140: 0x1795 [0x03] Work_Zone[2] = 1*
-141: 0x179A [0x48] [System] [12775*]:
+141: 0x179A [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 142: 0x179D [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x179E [0x03] Work_Zone[2] = 2483*
-144: 0x17A3 [0x24] CREATE_DIALOG(message_id=12761*, default_option=0*, option_flags=0*)
+144: 0x17A3 [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=0*)
     → "3: [Magic Evasion+15./Magic Accuracy+15./MP+30./Back.]"
 145: 0x17AA [0x25] WAIT_DIALOG_SELECT()
 146: 0x17AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x17C4
@@ -2064,17 +2064,17 @@ SUBROUTINE_1804:
 160: 0x1804 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 161: 0x1809 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 162: 0x1813 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-163: 0x1822 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+163: 0x1822 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 164: 0x1825 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x1826 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 166: 0x1835 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-167: 0x1838 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+167: 0x1838 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 168: 0x183F [0x25] WAIT_DIALOG_SELECT()
 169: 0x1840 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1867
 170: 0x1848 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-171: 0x1857 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+171: 0x1857 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 172: 0x185A [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x185B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
@@ -2088,16 +2088,16 @@ SUBROUTINE_18A7:
 179: 0x18B2 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 180: 0x18B7 [0x03] Work_Zone[2] = 2484*
 181: 0x18BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-182: 0x18CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+182: 0x18CB [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 183: 0x18CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x18CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 185: 0x18DE [0x03] Work_Zone[2] = 0*
-186: 0x18E3 [0x48] [System] [12775*]:
+186: 0x18E3 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 187: 0x18E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x18E7 [0x03] Work_Zone[2] = 2484*
-189: 0x18EC [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+189: 0x18EC [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 190: 0x18F3 [0x25] WAIT_DIALOG_SELECT()
 191: 0x18F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x190D
@@ -2117,11 +2117,11 @@ SUBROUTINE_18A7:
 
 SUBROUTINE_194D:
 205: 0x194D [0x03] Work_Zone[2] = 1*
-206: 0x1952 [0x48] [System] [12775*]:
+206: 0x1952 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 207: 0x1955 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x1956 [0x03] Work_Zone[2] = 2484*
-209: 0x195B [0x24] CREATE_DIALOG(message_id=12762*, default_option=0*, option_flags=0*)
+209: 0x195B [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=0*)
     → "3: [Attack+20./Ranged Attack+20./Weapon skill damage +2%./Back.]"
 210: 0x1962 [0x25] WAIT_DIALOG_SELECT()
 211: 0x1963 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x197C
@@ -2143,17 +2143,17 @@ SUBROUTINE_19BC:
 225: 0x19BC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 226: 0x19C1 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 227: 0x19CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-228: 0x19DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+228: 0x19DA [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 229: 0x19DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x19DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 231: 0x19ED [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-232: 0x19F0 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+232: 0x19F0 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 233: 0x19F7 [0x25] WAIT_DIALOG_SELECT()
 234: 0x19F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A1F
 235: 0x1A00 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-236: 0x1A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+236: 0x1A0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 237: 0x1A12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x1A13 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
@@ -2167,16 +2167,16 @@ SUBROUTINE_1A5F:
 244: 0x1A6A [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 245: 0x1A6F [0x03] Work_Zone[2] = 2485*
 246: 0x1A74 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-247: 0x1A83 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+247: 0x1A83 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 248: 0x1A86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x1A87 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 250: 0x1A96 [0x03] Work_Zone[2] = 0*
-251: 0x1A9B [0x48] [System] [12775*]:
+251: 0x1A9B [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 252: 0x1A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x1A9F [0x03] Work_Zone[2] = 2485*
-254: 0x1AA4 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+254: 0x1AA4 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 255: 0x1AAB [0x25] WAIT_DIALOG_SELECT()
 256: 0x1AAC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AC5
@@ -2196,11 +2196,11 @@ SUBROUTINE_1A5F:
 
 SUBROUTINE_1B05:
 270: 0x1B05 [0x03] Work_Zone[2] = 1*
-271: 0x1B0A [0x48] [System] [12775*]:
+271: 0x1B0A [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 272: 0x1B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x1B0E [0x03] Work_Zone[2] = 2485*
-274: 0x1B13 [0x24] CREATE_DIALOG(message_id=12763*, default_option=0*, option_flags=0*)
+274: 0x1B13 [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=0*)
     → "3: [Damage taken -2%./"Regen"+3./"Cure" potency received +5%./Back.]"
 275: 0x1B1A [0x25] WAIT_DIALOG_SELECT()
 276: 0x1B1B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B41
@@ -2223,17 +2223,17 @@ SUBROUTINE_1B81:
 291: 0x1B81 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 292: 0x1B86 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 293: 0x1B90 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-294: 0x1B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+294: 0x1B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 295: 0x1BA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x1BA3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 297: 0x1BB2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-298: 0x1BB5 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+298: 0x1BB5 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 299: 0x1BBC [0x25] WAIT_DIALOG_SELECT()
 300: 0x1BBD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BE4
 301: 0x1BC5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-302: 0x1BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+302: 0x1BD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 303: 0x1BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 304: 0x1BD8 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
@@ -2247,16 +2247,16 @@ SUBROUTINE_1C24:
 310: 0x1C2F [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 311: 0x1C34 [0x03] Work_Zone[2] = 2486*
 312: 0x1C39 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-313: 0x1C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+313: 0x1C48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 314: 0x1C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x1C4C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 316: 0x1C5B [0x03] Work_Zone[2] = 0*
-317: 0x1C60 [0x48] [System] [12775*]:
+317: 0x1C60 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 318: 0x1C63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 319: 0x1C64 [0x03] Work_Zone[2] = 2486*
-320: 0x1C69 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+320: 0x1C69 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 321: 0x1C70 [0x25] WAIT_DIALOG_SELECT()
 322: 0x1C71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C8A
@@ -2276,11 +2276,11 @@ SUBROUTINE_1C24:
 
 SUBROUTINE_1CCA:
 336: 0x1CCA [0x03] Work_Zone[2] = 1*
-337: 0x1CCF [0x48] [System] [12775*]:
+337: 0x1CCF [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 338: 0x1CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 339: 0x1CD3 [0x03] Work_Zone[2] = 2486*
-340: 0x1CD8 [0x24] CREATE_DIALOG(message_id=12764*, default_option=0*, option_flags=0*)
+340: 0x1CD8 [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=0*)
     → "3: [Accuracy+15./Critical hit rate +4%./Critical hit damage +2%./Back.]"
 341: 0x1CDF [0x25] WAIT_DIALOG_SELECT()
 342: 0x1CE0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1CF9
@@ -2302,17 +2302,17 @@ SUBROUTINE_1D39:
 356: 0x1D39 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 357: 0x1D3E [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 358: 0x1D48 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-359: 0x1D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+359: 0x1D57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 360: 0x1D5A [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x1D5B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 362: 0x1D6A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-363: 0x1D6D [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+363: 0x1D6D [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 364: 0x1D74 [0x25] WAIT_DIALOG_SELECT()
 365: 0x1D75 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D9C
 366: 0x1D7D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-367: 0x1D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+367: 0x1D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 368: 0x1D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x1D90 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
@@ -2326,16 +2326,16 @@ SUBROUTINE_1DDC:
 375: 0x1DE7 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 376: 0x1DEC [0x03] Work_Zone[2] = 2487*
 377: 0x1DF1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-378: 0x1E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+378: 0x1E00 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 379: 0x1E03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x1E04 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 381: 0x1E13 [0x03] Work_Zone[2] = 0*
-382: 0x1E18 [0x48] [System] [12775*]:
+382: 0x1E18 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 383: 0x1E1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 384: 0x1E1C [0x03] Work_Zone[2] = 2487*
-385: 0x1E21 [0x24] CREATE_DIALOG(message_id=12757*, default_option=0*, option_flags=0*)
+385: 0x1E21 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [Ranged Accuracy+30./Magic Accuracy+30./Occasionally attacks twice./Back.]"
 386: 0x1E28 [0x25] WAIT_DIALOG_SELECT()
 387: 0x1E29 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E42
@@ -2355,11 +2355,11 @@ SUBROUTINE_1DDC:
 
 SUBROUTINE_1E82:
 401: 0x1E82 [0x03] Work_Zone[2] = 1*
-402: 0x1E87 [0x48] [System] [12775*]:
+402: 0x1E87 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 403: 0x1E8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x1E8B [0x03] Work_Zone[2] = 2487*
-405: 0x1E90 [0x24] CREATE_DIALOG(message_id=12765*, default_option=0*, option_flags=0*)
+405: 0x1E90 [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=0*)
     → "3: ["Magic Atk. Bonus"+10./Magic Damage+15./Enmity-10./Back.]"
 406: 0x1E97 [0x25] WAIT_DIALOG_SELECT()
 407: 0x1E98 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EB1
@@ -2381,17 +2381,17 @@ SUBROUTINE_1EF1:
 421: 0x1EF1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 422: 0x1EF6 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 423: 0x1F00 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-424: 0x1F0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+424: 0x1F0F [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 425: 0x1F12 [0x23] WAIT_FOR_DIALOG_INTERACTION
 426: 0x1F13 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 427: 0x1F22 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-428: 0x1F25 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+428: 0x1F25 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 429: 0x1F2C [0x25] WAIT_DIALOG_SELECT()
 430: 0x1F2D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F54
 431: 0x1F35 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-432: 0x1F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+432: 0x1F44 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 433: 0x1F47 [0x23] WAIT_FOR_DIALOG_INTERACTION
 434: 0x1F48 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=6*)
@@ -2403,7 +2403,7 @@ SUBROUTINE_1F94:
 438: 0x1F94 [0x01] GOTO 0x1FC9
 439: 0x1F97 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1FC9
 440: 0x1F9F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-441: 0x1FAE [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
+441: 0x1FAE [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
     → "Change your mind? Well, a paragon is your trrreasure to use as you see fit. Come back again if you decide you're interested."
 442: 0x1FB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 443: 0x1FB2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2724,7 +2724,7 @@ SUBROUTINE_206A:
  32: 0x207E [0x99] Wait for EventEntity animation to complete
  33: 0x2083 [0x99] Wait for EventEntity animation to complete
  34: 0x2088 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 35: 0x2097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12772*)
+ 35: 0x2097 [0x1D] PRINT_EVENT_MESSAGE(message_id=12773*)
     → "Yes, a purrrfect specimen. Can you sense the slight tingling as it resonates with your paragon?"
  36: 0x209A [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x209B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -2740,23 +2740,23 @@ SUBROUTINE_20AF:
  45: 0x20CD [0x03] Work_Zone[7] = 2487*
  46: 0x20D2 [0x03] ExtData[1]->WorkLocal[5] = 0*
  47: 0x20D7 [0x03] ExtData[1]->WorkLocal[6] = 0*
- 48: 0x20DC [0x24] CREATE_DIALOG(message_id=12773*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
+ 48: 0x20DC [0x24] CREATE_DIALOG(message_id=12774*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[0])
     → "Select a paragon. [3./$3./$3./$3./$3./$3./Never mind.]"
  49: 0x20E3 [0x25] WAIT_DIALOG_SELECT()
  50: 0x20E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22C3
  51: 0x20EC [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
  52: 0x20F1 [0x03] Work_Zone[2] = 2482*
  53: 0x20F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 54: 0x2105 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+ 54: 0x2105 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
  55: 0x2108 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2109 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  57: 0x2118 [0x03] Work_Zone[2] = 0*
- 58: 0x211D [0x48] [System] [12775*]:
+ 58: 0x211D [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  59: 0x2120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x2121 [0x03] Work_Zone[2] = 2482*
- 61: 0x2126 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+ 61: 0x2126 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
  62: 0x212D [0x25] WAIT_DIALOG_SELECT()
  63: 0x212E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2154
@@ -2779,11 +2779,11 @@ SUBROUTINE_20AF:
 
 SUBROUTINE_21AE:
  80: 0x21AE [0x03] Work_Zone[2] = 1*
- 81: 0x21B3 [0x48] [System] [12775*]:
+ 81: 0x21B3 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
  82: 0x21B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x21B7 [0x03] Work_Zone[2] = 2482*
- 84: 0x21BC [0x24] CREATE_DIALOG(message_id=12766*, default_option=0*, option_flags=0*)
+ 84: 0x21BC [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=0*)
     → "3: [Evasion+10./AGI+8./"Fast Cast"+3./Back.]"
  85: 0x21C3 [0x25] WAIT_DIALOG_SELECT()
  86: 0x21C4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21DD
@@ -2805,17 +2805,17 @@ SUBROUTINE_221D:
 100: 0x221D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 101: 0x2222 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 102: 0x222C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-103: 0x223B [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+103: 0x223B [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 104: 0x223E [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x223F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 106: 0x224E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-107: 0x2251 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+107: 0x2251 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 108: 0x2258 [0x25] WAIT_DIALOG_SELECT()
 109: 0x2259 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2280
 110: 0x2261 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-111: 0x2270 [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+111: 0x2270 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 112: 0x2273 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x2274 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
@@ -2829,16 +2829,16 @@ SUBROUTINE_22C0:
 119: 0x22CB [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 120: 0x22D0 [0x03] Work_Zone[2] = 2483*
 121: 0x22D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-122: 0x22E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+122: 0x22E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 123: 0x22E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x22E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 125: 0x22F7 [0x03] Work_Zone[2] = 0*
-126: 0x22FC [0x48] [System] [12775*]:
+126: 0x22FC [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 127: 0x22FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x2300 [0x03] Work_Zone[2] = 2483*
-129: 0x2305 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+129: 0x2305 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
 130: 0x230C [0x25] WAIT_DIALOG_SELECT()
 131: 0x230D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2333
@@ -2861,11 +2861,11 @@ SUBROUTINE_22C0:
 
 SUBROUTINE_238D:
 148: 0x238D [0x03] Work_Zone[2] = 1*
-149: 0x2392 [0x48] [System] [12775*]:
+149: 0x2392 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 150: 0x2395 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x2396 [0x03] Work_Zone[2] = 2483*
-152: 0x239B [0x24] CREATE_DIALOG(message_id=12767*, default_option=0*, option_flags=0*)
+152: 0x239B [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=0*)
     → "3: ["Magic Def. Bonus"+2./MND+8./Magic Evasion+10./Back.]"
 153: 0x23A2 [0x25] WAIT_DIALOG_SELECT()
 154: 0x23A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23BC
@@ -2887,17 +2887,17 @@ SUBROUTINE_23FC:
 168: 0x23FC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 169: 0x2401 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 170: 0x240B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-171: 0x241A [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+171: 0x241A [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 172: 0x241D [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x241E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 174: 0x242D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-175: 0x2430 [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+175: 0x2430 [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 176: 0x2437 [0x25] WAIT_DIALOG_SELECT()
 177: 0x2438 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x245F
 178: 0x2440 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-179: 0x244F [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+179: 0x244F [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 180: 0x2452 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x2453 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)
@@ -2911,16 +2911,16 @@ SUBROUTINE_249F:
 187: 0x24AA [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 188: 0x24AF [0x03] Work_Zone[2] = 2484*
 189: 0x24B4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-190: 0x24C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+190: 0x24C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 191: 0x24C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x24C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 193: 0x24D6 [0x03] Work_Zone[2] = 0*
-194: 0x24DB [0x48] [System] [12775*]:
+194: 0x24DB [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 195: 0x24DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x24DF [0x03] Work_Zone[2] = 2484*
-197: 0x24E4 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+197: 0x24E4 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
 198: 0x24EB [0x25] WAIT_DIALOG_SELECT()
 199: 0x24EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2512
@@ -2943,11 +2943,11 @@ SUBROUTINE_249F:
 
 SUBROUTINE_256C:
 216: 0x256C [0x03] Work_Zone[2] = 1*
-217: 0x2571 [0x48] [System] [12775*]:
+217: 0x2571 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 218: 0x2574 [0x23] WAIT_FOR_DIALOG_INTERACTION
 219: 0x2575 [0x03] Work_Zone[2] = 2484*
-220: 0x257A [0x24] CREATE_DIALOG(message_id=12768*, default_option=0*, option_flags=0*)
+220: 0x257A [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=0*)
     → "3: [Attack+10./STR+8./Ranged Attack+10./Back.]"
 221: 0x2581 [0x25] WAIT_DIALOG_SELECT()
 222: 0x2582 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x259B
@@ -2969,17 +2969,17 @@ SUBROUTINE_25DB:
 236: 0x25DB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 237: 0x25E0 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 238: 0x25EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-239: 0x25F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+239: 0x25F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 240: 0x25FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x25FD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 242: 0x260C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-243: 0x260F [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+243: 0x260F [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 244: 0x2616 [0x25] WAIT_DIALOG_SELECT()
 245: 0x2617 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x263E
 246: 0x261F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-247: 0x262E [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+247: 0x262E [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 248: 0x2631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x2632 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
@@ -2993,16 +2993,16 @@ SUBROUTINE_267E:
 255: 0x2689 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 256: 0x268E [0x03] Work_Zone[2] = 2485*
 257: 0x2693 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-258: 0x26A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+258: 0x26A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 259: 0x26A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x26A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 261: 0x26B5 [0x03] Work_Zone[2] = 0*
-262: 0x26BA [0x48] [System] [12775*]:
+262: 0x26BA [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 263: 0x26BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x26BE [0x03] Work_Zone[2] = 2485*
-265: 0x26C3 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+265: 0x26C3 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
 266: 0x26CA [0x25] WAIT_DIALOG_SELECT()
 267: 0x26CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26F1
@@ -3025,11 +3025,11 @@ SUBROUTINE_267E:
 
 SUBROUTINE_274B:
 284: 0x274B [0x03] Work_Zone[2] = 1*
-285: 0x2750 [0x48] [System] [12775*]:
+285: 0x2750 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 286: 0x2753 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x2754 [0x03] Work_Zone[2] = 2485*
-288: 0x2759 [0x24] CREATE_DIALOG(message_id=12769*, default_option=0*, option_flags=0*)
+288: 0x2759 [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=0*)
     → "3: [Physical damage taken -2%./VIT+8./HP+30./Back.]"
 289: 0x2760 [0x25] WAIT_DIALOG_SELECT()
 290: 0x2761 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x277A
@@ -3051,17 +3051,17 @@ SUBROUTINE_27BA:
 304: 0x27BA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 305: 0x27BF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 306: 0x27C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-307: 0x27D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+307: 0x27D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 308: 0x27DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x27DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 310: 0x27EB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-311: 0x27EE [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+311: 0x27EE [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 312: 0x27F5 [0x25] WAIT_DIALOG_SELECT()
 313: 0x27F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x281D
 314: 0x27FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-315: 0x280D [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+315: 0x280D [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 316: 0x2810 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x2811 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=4*)
@@ -3075,16 +3075,16 @@ SUBROUTINE_285D:
 323: 0x2868 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 324: 0x286D [0x03] Work_Zone[2] = 2486*
 325: 0x2872 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-326: 0x2881 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+326: 0x2881 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 327: 0x2884 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x2885 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 329: 0x2894 [0x03] Work_Zone[2] = 0*
-330: 0x2899 [0x48] [System] [12775*]:
+330: 0x2899 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 331: 0x289C [0x23] WAIT_FOR_DIALOG_INTERACTION
 332: 0x289D [0x03] Work_Zone[2] = 2486*
-333: 0x28A2 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+333: 0x28A2 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
 334: 0x28A9 [0x25] WAIT_DIALOG_SELECT()
 335: 0x28AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x28D0
@@ -3107,11 +3107,11 @@ SUBROUTINE_285D:
 
 SUBROUTINE_292A:
 352: 0x292A [0x03] Work_Zone[2] = 1*
-353: 0x292F [0x48] [System] [12775*]:
+353: 0x292F [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 354: 0x2932 [0x23] WAIT_FOR_DIALOG_INTERACTION
 355: 0x2933 [0x03] Work_Zone[2] = 2486*
-356: 0x2938 [0x24] CREATE_DIALOG(message_id=12770*, default_option=0*, option_flags=0*)
+356: 0x2938 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=0*)
     → "3: ["Counter"+2./DEX+8./Skillchain damage +2./Back.]"
 357: 0x293F [0x25] WAIT_DIALOG_SELECT()
 358: 0x2940 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2959
@@ -3133,17 +3133,17 @@ SUBROUTINE_2999:
 372: 0x2999 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 373: 0x299E [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 374: 0x29A8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-375: 0x29B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+375: 0x29B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 376: 0x29BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x29BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 378: 0x29CA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-379: 0x29CD [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+379: 0x29CD [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 380: 0x29D4 [0x25] WAIT_DIALOG_SELECT()
 381: 0x29D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x29FC
 382: 0x29DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-383: 0x29EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+383: 0x29EC [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 384: 0x29EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x29F0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=5*)
@@ -3157,16 +3157,16 @@ SUBROUTINE_2A3C:
 391: 0x2A47 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[0]
 392: 0x2A4C [0x03] Work_Zone[2] = 2487*
 393: 0x2A51 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-394: 0x2A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=12774*)
+394: 0x2A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=12775*)
     → "That $3 would make a wonderrrful addition. Just tell me which type of glyptic you are interested in, and I'll get started."
 395: 0x2A63 [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x2A64 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 397: 0x2A73 [0x03] Work_Zone[2] = 0*
-398: 0x2A78 [0x48] [System] [12775*]:
+398: 0x2A78 [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 399: 0x2A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x2A7C [0x03] Work_Zone[2] = 2487*
-401: 0x2A81 [0x24] CREATE_DIALOG(message_id=12758*, default_option=0*, option_flags=0*)
+401: 0x2A81 [0x24] CREATE_DIALOG(message_id=12759*, default_option=0*, option_flags=0*)
     → "Shared arcane glyptics: [HP+30 MP+30./Physical/Magic damage taken -2%./Haste+2% "Snapshot"+2./Back.]"
 402: 0x2A88 [0x25] WAIT_DIALOG_SELECT()
 403: 0x2A89 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2AAF
@@ -3189,11 +3189,11 @@ SUBROUTINE_2A3C:
 
 SUBROUTINE_2B09:
 420: 0x2B09 [0x03] Work_Zone[2] = 1*
-421: 0x2B0E [0x48] [System] [12775*]:
+421: 0x2B0E [0x48] [System] [12776*]:
     → "Select the [first/second] arcane glyptic."
 422: 0x2B11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 423: 0x2B12 [0x03] Work_Zone[2] = 2487*
-424: 0x2B17 [0x24] CREATE_DIALOG(message_id=12771*, default_option=0*, option_flags=0*)
+424: 0x2B17 [0x24] CREATE_DIALOG(message_id=12772*, default_option=0*, option_flags=0*)
     → "3: [Magic Damage+4./INT+8./MP+30./Back.]"
 425: 0x2B1E [0x25] WAIT_DIALOG_SELECT()
 426: 0x2B1F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2B38
@@ -3215,17 +3215,17 @@ SUBROUTINE_2B78:
 440: 0x2B78 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 441: 0x2B7D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=ExtData[1]->WorkLocal[5], buffer3=ExtData[1]->WorkLocal[6])
 442: 0x2B87 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-443: 0x2B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12776*)
+443: 0x2B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=12777*)
     → "Your weapon'll come out looking something like this."
 444: 0x2B99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 445: 0x2B9A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
 446: 0x2BA9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-447: 0x2BAC [0x24] CREATE_DIALOG(message_id=12777*, default_option=1*, option_flags=0*)
+447: 0x2BAC [0x24] CREATE_DIALOG(message_id=12778*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Positively peachy./Back to the beginning./Agonizingly atrocious.]"
 448: 0x2BB3 [0x25] WAIT_DIALOG_SELECT()
 449: 0x2BB4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2BDB
 450: 0x2BBC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
-451: 0x2BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=12778*)
+451: 0x2BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
     → "I'd call this a success! Can you not sense the aura emanating from the surrrface? That's the paragon's power in action!"
 452: 0x2BCE [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x2BCF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=6*)
@@ -3237,7 +3237,7 @@ SUBROUTINE_2C1B:
 457: 0x2C1B [0x01] GOTO 0x2C50
 458: 0x2C1E [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x2C50
 459: 0x2C26 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-460: 0x2C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12779*)
+460: 0x2C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12780*)
     → "Change your mind? Well, a paragon is your trrreasure to use as you see fit. Come back again if you decide you're interested."
 461: 0x2C38 [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x2C39 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

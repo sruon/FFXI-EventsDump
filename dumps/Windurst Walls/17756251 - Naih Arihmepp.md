@@ -26,19 +26,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F0E      |        7950 |
-|       3 | 0x1F0F      |        7951 |
-|       4 | 0x258C      |        9612 |
-|       5 | 0x2598      |        9624 |
-|       6 | 0x2599      |        9625 |
+|       2 | 0x1F0F      |        7951 |
+|       3 | 0x1F10      |        7952 |
+|       4 | 0x258D      |        9613 |
+|       5 | 0x2599      |        9625 |
+|       6 | 0x259A      |        9626 |
 
 ## String References
 
-- **7950**: I'm sure you've seen the automaton guards positioned all around Windurrrst. You had better take carrre when dealing with those Cardians.
-- **7951**: This is just between you and me, but those machines go crrrazy sometimes. I've even heard that there have been Tarutaru kidnapped by the malfunctioning Carrrdians!
-- **9612**: <Player>'s badge flashes brightly.
-- **9624**: You had better take carrre when dealing with the Cardians. This is just between you and me, but those machines go crrrazy sometimes.
-- **9625**: I've heard that there are similar creations in the Near East. I wonder if they have the same prrroblems...
+- **7951**: I'm sure you've seen the automaton guards positioned all around Windurrrst. You had better take carrre when dealing with those Cardians.
+- **7952**: This is just between you and me, but those machines go crrrazy sometimes. I've even heard that there have been Tarutaru kidnapped by the malfunctioning Carrrdians!
+- **9613**: <Player>'s badge flashes brightly.
+- **9625**: You had better take carrre when dealing with the Cardians. This is just between you and me, but those machines go crrrazy sometimes.
+- **9626**: I've heard that there are similar creations in the Near East. I wonder if they have the same prrroblems...
 
 ## Events
 
@@ -162,10 +162,10 @@
   2: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x002E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naih Arihmepp (ID: 17756251/0x010EF05B), tag_num=0x01)
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "I'm sure you've seen the automaton guards positioned all around Windurrrst. You had better take carrre when dealing with those Cardians."
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
     → "This is just between you and me, but those machines go crrrazy sometimes. I've even heard that there have been Tarutaru kidnapped by the malfunctioning Carrrdians!"
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naih Arihmepp (ID: 17756251/0x010EF05B), tag_num=0x02)
@@ -197,17 +197,17 @@
 
 ```
   0: 0x0048 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0049 [0x48] [System] [9612*]:
+  1: 0x0049 [0x48] [System] [9613*]:
     → "<Player>'s badge flashes brightly."
   2: 0x004C [0x86] EventEntity->Render.Flags3 = Flags3  // No change (flag=0)
   3: 0x0052 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0057 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0058 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0059 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naih Arihmepp (ID: 17756251/0x010EF05B), tag_num=0x01)
-  7: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9624*)
+  7: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=9625*)
     → "You had better take carrre when dealing with the Cardians. This is just between you and me, but those machines go crrrazy sometimes."
   8: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9625*)
+  9: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=9626*)
     → "I've heard that there are similar creations in the Near East. I wonder if they have the same prrroblems..."
  10: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0068 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naih Arihmepp (ID: 17756251/0x010EF05B), tag_num=0x02)

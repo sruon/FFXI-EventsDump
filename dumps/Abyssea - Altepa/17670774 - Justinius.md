@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2069      |        8297 |
+|       1 | 0x206A      |        8298 |
 
 ## String References
 
-- **8297**: I swore a vow. I will fight on until the last. For myself, and those I have lost...
+- **8298**: I swore a vow. I will fight on until the last. For myself, and those I have lost...
 
 ## Events
 
@@ -72,7 +72,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "I swore a vow. I will fight on until the last. For myself, and those I have lost..."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT

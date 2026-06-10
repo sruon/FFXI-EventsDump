@@ -31,33 +31,33 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x22B4      |        8884 |
-|       3 | 0x22B5      |        8885 |
-|       4 | 0x22B6      |        8886 |
-|       5 | 0x22B7      |        8887 |
-|       6 | 0x22B8      |        8888 |
-|       7 | 0x22B9      |        8889 |
-|       8 | 0x22BA      |        8890 |
-|       9 | 0x22BB      |        8891 |
-|      10 | 0x22DE      |        8926 |
-|      11 | 0x22DF      |        8927 |
-|      12 | 0x22F8      |        8952 |
-|      13 | 0x22F9      |        8953 |
+|       2 | 0x22B5      |        8885 |
+|       3 | 0x22B6      |        8886 |
+|       4 | 0x22B7      |        8887 |
+|       5 | 0x22B8      |        8888 |
+|       6 | 0x22B9      |        8889 |
+|       7 | 0x22BA      |        8890 |
+|       8 | 0x22BB      |        8891 |
+|       9 | 0x22BC      |        8892 |
+|      10 | 0x22DF      |        8927 |
+|      11 | 0x22E0      |        8928 |
+|      12 | 0x22F9      |        8953 |
+|      13 | 0x22FA      |        8954 |
 
 ## String References
 
-- **8884**: Welcome to the "Evensong" Restaurant...the jolliest way to end the day...
-- **8885**: Take your time and enjoy some of our many delicious dishes.
-- **8886**: Welcome to the "Morning Star" Restaurant...the perfect place to start your day.
-- **8887**: Take a moment to relax and savor the quietude.
-- **8888**: Welcome to the "Bridge of Dreams" Restaurant...the place where your culinary desires are fulfilled.
-- **8889**: We have many healthy dishes for you to try.
-- **8890**: Welcome to the "Cerulean Stairs" Restaurant...the cheapest and tastiest place in all Windurst.
-- **8891**: Today we have fresh seafood by the boatload. Why not try our fish for lunch or dinner?
-- **8926**: Naturally, I also am most worried about Jatan-Paratan.
-- **8927**: That bard who came from Jeuno the other day appears to be an old traveling companion of his. So I assume that when they got caught up on each other's tales, he suddenly got the urge to start wandering again...?
-- **8952**: Each and every one of us have their own problems. But such is the spice of life...
-- **8953**: Welcome to the restaurant that resounds with its own sound! Welcome to the Timbre Timbers Tavern!
+- **8885**: Welcome to the "Evensong" Restaurant...the jolliest way to end the day...
+- **8886**: Take your time and enjoy some of our many delicious dishes.
+- **8887**: Welcome to the "Morning Star" Restaurant...the perfect place to start your day.
+- **8888**: Take a moment to relax and savor the quietude.
+- **8889**: Welcome to the "Bridge of Dreams" Restaurant...the place where your culinary desires are fulfilled.
+- **8890**: We have many healthy dishes for you to try.
+- **8891**: Welcome to the "Cerulean Stairs" Restaurant...the cheapest and tastiest place in all Windurst.
+- **8892**: Today we have fresh seafood by the boatload. Why not try our fish for lunch or dinner?
+- **8927**: Naturally, I also am most worried about Jatan-Paratan.
+- **8928**: That bard who came from Jeuno the other day appears to be an old traveling companion of his. So I assume that when they got caught up on each other's tales, he suddenly got the urge to start wandering again...?
+- **8953**: Each and every one of us have their own problems. But such is the spice of life...
+- **8954**: Welcome to the restaurant that resounds with its own sound! Welcome to the Timbre Timbers Tavern!
 
 ## Events
 
@@ -182,10 +182,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8884*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
     → "Welcome to the "Evensong" Restaurant...the jolliest way to end the day..."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
     → "Take your time and enjoy some of our many delicious dishes."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)
@@ -219,10 +219,10 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8887*)
     → "Welcome to the "Morning Star" Restaurant...the perfect place to start your day."
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8887*)
+  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8888*)
     → "Take a moment to relax and savor the quietude."
   7: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0067 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)
@@ -256,10 +256,10 @@
   1: 0x0077 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0078 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0079 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8888*)
+  4: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=8889*)
     → "Welcome to the "Bridge of Dreams" Restaurant...the place where your culinary desires are fulfilled."
   5: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8889*)
+  6: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8890*)
     → "We have many healthy dishes for you to try."
   7: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0088 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)
@@ -293,10 +293,10 @@
   1: 0x0098 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0099 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8890*)
+  4: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8891*)
     → "Welcome to the "Cerulean Stairs" Restaurant...the cheapest and tastiest place in all Windurst."
   5: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8891*)
+  6: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8892*)
     → "Today we have fresh seafood by the boatload. Why not try our fish for lunch or dinner?"
   7: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)
@@ -330,10 +330,10 @@
   1: 0x00B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8926*)
+  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
     → "Naturally, I also am most worried about Jatan-Paratan."
   5: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8927*)
+  6: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8928*)
     → "That bard who came from Jeuno the other day appears to be an old traveling companion of his. So I assume that when they got caught up on each other's tales, he suddenly got the urge to start wandering again...?"
   7: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)
@@ -367,10 +367,10 @@
   1: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x01)
-  4: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
+  4: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
     → "Each and every one of us have their own problems. But such is the spice of life..."
   5: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
+  6: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8954*)
     → "Welcome to the restaurant that resounds with its own sound! Welcome to the Timbre Timbers Tavern!"
   7: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Aramu-Paramu (ID: 17752142/0x010EE04E), tag_num=0x02)

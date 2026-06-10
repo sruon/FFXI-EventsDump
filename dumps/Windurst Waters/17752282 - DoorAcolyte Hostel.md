@@ -20,51 +20,51 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272D      |       10029 |
+|       0 | 0x272E      |       10030 |
 |       1 | 0x0008      |           8 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x2707      |        9991 |
-|       6 | 0x2708      |        9992 |
-|       7 | 0x2709      |        9993 |
+|       5 | 0x2708      |        9992 |
+|       6 | 0x2709      |        9993 |
+|       7 | 0x270A      |        9994 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x270A      |        9994 |
+|       9 | 0x270B      |        9995 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x270B      |        9995 |
+|      11 | 0x270C      |        9996 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x270C      |        9996 |
+|      13 | 0x270D      |        9997 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x270D      |        9997 |
+|      15 | 0x270E      |        9998 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x270E      |        9998 |
-|      18 | 0x270F      |        9999 |
+|      17 | 0x270F      |        9999 |
+|      18 | 0x2710      |       10000 |
 |      19 | 0x0009      |           9 |
-|      20 | 0x272F      |       10031 |
+|      20 | 0x2730      |       10032 |
 |      21 | 0x00C8      |         200 |
 |      22 | 0x003C      |          60 |
 |      23 | 0x00D3      |         211 |
-|      24 | 0x2730      |       10032 |
+|      24 | 0x2731      |       10033 |
 |      25 | 0x0096      |         150 |
-|      26 | 0x2731      |       10033 |
-|      27 | 0x2732      |       10034 |
+|      26 | 0x2732      |       10034 |
+|      27 | 0x2733      |       10035 |
 |      28 | 0x0064      |         100 |
-|      29 | 0x272E      |       10030 |
+|      29 | 0x272F      |       10031 |
 
 ## String References
 
-- **9991**: The Mithra Chieftainness is... [Perih Vashai./Rakoh Buuma./Nanaa Mihgo.]
-- **9992**: Karaha-Baruha was the Minister of... [the Optistery./the Orastery./the Aurastery.]
-- **9993**: The ex-Minister of the Manustery is... [Zonba-Zibba./Zonba-Zippa./Zonpa-Zippa.]
-- **9994**: The Windurstian weapon shop's greeting is... [Hohbiba-Mubama!/Hohbiba-Mubiba!/Hohbiba-Mubima!]
-- **9995**: The Windurstian flag has... [five stars./six stars./seven stars.]
-- **9996**: The principal of the Aurastery is... [Koru-Moru./Pechiru-Mashiru./Moreno-Toeno.]
-- **9997**: Cardians in Windurst Waters are... [diamonds./spades./hearts.]
-- **9998**: Rhinostery minister Rukususu likes... [ghosts./onions./peanuts.]
-- **9999**: All kids in Windurst love the... [Agatha Crystalie mystery series./Agatha Crystalie murder series./Agatha Crystalie magical series.]
-- **10029**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10030**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10031**: YOU ARE RIGHT!
+- **9992**: The Mithra Chieftainness is... [Perih Vashai./Rakoh Buuma./Nanaa Mihgo.]
+- **9993**: Karaha-Baruha was the Minister of... [the Optistery./the Orastery./the Aurastery.]
+- **9994**: The ex-Minister of the Manustery is... [Zonba-Zibba./Zonba-Zippa./Zonpa-Zippa.]
+- **9995**: The Windurstian weapon shop's greeting is... [Hohbiba-Mubama!/Hohbiba-Mubiba!/Hohbiba-Mubima!]
+- **9996**: The Windurstian flag has... [five stars./six stars./seven stars.]
+- **9997**: The principal of the Aurastery is... [Koru-Moru./Pechiru-Mashiru./Moreno-Toeno.]
+- **9998**: Cardians in Windurst Waters are... [diamonds./spades./hearts.]
+- **9999**: Rhinostery minister Rukususu likes... [ghosts./onions./peanuts.]
+- **10000**: All kids in Windurst love the... [Agatha Crystalie mystery series./Agatha Crystalie murder series./Agatha Crystalie magical series.]
+- **10030**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10031**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10032**: YOU ARE RIGHT!
 
 ## Events
 
@@ -199,7 +199,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10029*]:
+  1: 0x0002 [0x48] [System] [10030*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 8*
@@ -207,7 +207,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 0*
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 1*
   7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 2*
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=9991*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=9992*, default_option=0*, option_flags=0*)
     → "The Mithra Chieftainness is... [Perih Vashai./Rakoh Buuma./Nanaa Mihgo.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -241,7 +241,7 @@ SUBROUTINE_007E:
  30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 0*
  31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 1*
  32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 33: 0x0098 [0x24] CREATE_DIALOG(message_id=9992*, default_option=0*, option_flags=0*)
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=9993*, default_option=0*, option_flags=0*)
     → "Karaha-Baruha was the Minister of... [the Optistery./the Orastery./the Aurastery.]"
  34: 0x009F [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
@@ -275,7 +275,7 @@ SUBROUTINE_00F4:
  55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 2*
  56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 0*
  57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 1*
- 58: 0x010E [0x24] CREATE_DIALOG(message_id=9993*, default_option=0*, option_flags=0*)
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=9994*, default_option=0*, option_flags=0*)
     → "The ex-Minister of the Manustery is... [Zonba-Zibba./Zonba-Zippa./Zonpa-Zippa.]"
  59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -309,7 +309,7 @@ SUBROUTINE_016A:
  80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 1*
  81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 0*
  82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
- 83: 0x0184 [0x24] CREATE_DIALOG(message_id=9994*, default_option=0*, option_flags=0*)
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=9995*, default_option=0*, option_flags=0*)
     → "The Windurstian weapon shop's greeting is... [Hohbiba-Mubama!/Hohbiba-Mubiba!/Hohbiba-Mubima!]"
  84: 0x018B [0x25] WAIT_DIALOG_SELECT()
  85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
@@ -343,7 +343,7 @@ SUBROUTINE_01E0:
 105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 0*
 106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 1*
 107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 2*
-108: 0x01FA [0x24] CREATE_DIALOG(message_id=9995*, default_option=0*, option_flags=0*)
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=9996*, default_option=0*, option_flags=0*)
     → "The Windurstian flag has... [five stars./six stars./seven stars.]"
 109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
@@ -377,7 +377,7 @@ SUBROUTINE_0256:
 130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 0*
 131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 1*
 132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 2*
-133: 0x0270 [0x24] CREATE_DIALOG(message_id=9996*, default_option=0*, option_flags=0*)
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=9997*, default_option=0*, option_flags=0*)
     → "The principal of the Aurastery is... [Koru-Moru./Pechiru-Mashiru./Moreno-Toeno.]"
 134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
 135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
@@ -411,7 +411,7 @@ SUBROUTINE_02CC:
 155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 2*
 156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 0*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 1*
-158: 0x02E6 [0x24] CREATE_DIALOG(message_id=9997*, default_option=0*, option_flags=0*)
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=9998*, default_option=0*, option_flags=0*)
     → "Cardians in Windurst Waters are... [diamonds./spades./hearts.]"
 159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
 160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
@@ -445,7 +445,7 @@ SUBROUTINE_0342:
 180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 2*
 181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 0*
 182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 1*
-183: 0x035C [0x24] CREATE_DIALOG(message_id=9998*, default_option=0*, option_flags=0*)
+183: 0x035C [0x24] CREATE_DIALOG(message_id=9999*, default_option=0*, option_flags=0*)
     → "Rhinostery minister Rukususu likes... [ghosts./onions./peanuts.]"
 184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
@@ -479,7 +479,7 @@ SUBROUTINE_03B8:
 205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 0*
 206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 1*
 207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 2*
-208: 0x03D2 [0x24] CREATE_DIALOG(message_id=9999*, default_option=0*, option_flags=0*)
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10000*, default_option=0*, option_flags=0*)
     → "All kids in Windurst love the... [Agatha Crystalie mystery series./Agatha Crystalie murder series./Agatha Crystalie magical series.]"
 209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -513,7 +513,7 @@ SUBROUTINE_042E:
 230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 2*
 231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 0*
 232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 1*
-233: 0x0448 [0x24] CREATE_DIALOG(message_id=9991*, default_option=0*, option_flags=0*)
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=9992*, default_option=0*, option_flags=0*)
     → "The Mithra Chieftainness is... [Perih Vashai./Rakoh Buuma./Nanaa Mihgo.]"
 234: 0x044F [0x25] WAIT_DIALOG_SELECT()
 235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
@@ -552,7 +552,7 @@ SUBROUTINE_04A7:
 SUBROUTINE_04AB:
 257: 0x04AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
 258: 0x04AC [0x46] CAMERA_CONTROL: Disable user control
-259: 0x04AE [0x48] [System] [10031*]:
+259: 0x04AE [0x48] [System] [10032*]:
     → "YOU ARE RIGHT!"
 260: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -566,19 +566,19 @@ SUBROUTINE_04AB:
 269: 0x04E5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 270: 0x04EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s094" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 271: 0x04FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10032*]:
+272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
 273: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 275: 0x0525 [0x1C] WAIT(150* ticks)
-276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
+276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
 277: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0530 [0x1C] WAIT(150* ticks)
 279: 0x0533 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
 280: 0x0542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 281: 0x0553 [0x1C] WAIT(60* ticks)
-282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
+282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
 283: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -590,7 +590,7 @@ SUBROUTINE_04AB:
 
 SUBROUTINE_058B:
 290: 0x058B [0x03] Work_Zone[1] = 0*
-291: 0x0590 [0x48] [System] [10030*]:
+291: 0x0590 [0x48] [System] [10031*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
 292: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0594 [0x1B] RETURN

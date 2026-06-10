@@ -38,28 +38,28 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0034      |          52 |
 |       3 | 0x0008      |           8 |
-|       4 | 0x2736      |       10038 |
-|       5 | 0x2737      |       10039 |
-|       6 | 0x2852      |       10322 |
-|       7 | 0x2853      |       10323 |
-|       8 | 0x285A      |       10330 |
-|       9 | 0x285B      |       10331 |
+|       4 | 0x2737      |       10039 |
+|       5 | 0x2738      |       10040 |
+|       6 | 0x2853      |       10323 |
+|       7 | 0x2854      |       10324 |
+|       8 | 0x285B      |       10331 |
+|       9 | 0x285C      |       10332 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x285C      |       10332 |
-|      12 | 0x285D      |       10333 |
-|      13 | 0x285E      |       10334 |
+|      11 | 0x285D      |       10333 |
+|      12 | 0x285E      |       10334 |
+|      13 | 0x285F      |       10335 |
 
 ## String References
 
-- **10038**: Hey, you're an adventurer, arrren't you? I wouldn't want you to get lost. Let me give you a little help.
-- **10039**: The jungle rrright outside the village gates is the Yuhtunga Jungle. To the south of the Yuhtunga Jungle is the Yhoator Jungle. Did you get all that?
-- **10322**: Hey, did you find a piece of paper lying around anywherrre?
-- **10323**: I put up a warning posterrr for adventurerrrs, but I think it's fallen off...
-- **10330**: That piece of paperrr you're holding. I've seen that beforrre.
-- **10331**: I wrote that to warn adventurerrrs to stay away from Rafflesia flowerrrs that are full of pollen.
-- **10332**: If you get enough of that foul-smelling stuff on you, you'll have a whole lot less friends. Trust me.
-- **10333**: I'd stay away from Rafflesia flowerrrs if I were you. If you get enough of that foul-smelling pollen on you, you'll have a whole lot less friends. Trust me.
-- **10334**: I'm thinking about writing a warning to tell adventurers that they should stay away from Rafflesia flowerrrs that are full of pollen.
+- **10039**: Hey, you're an adventurer, arrren't you? I wouldn't want you to get lost. Let me give you a little help.
+- **10040**: The jungle rrright outside the village gates is the Yuhtunga Jungle. To the south of the Yuhtunga Jungle is the Yhoator Jungle. Did you get all that?
+- **10323**: Hey, did you find a piece of paper lying around anywherrre?
+- **10324**: I put up a warning posterrr for adventurerrrs, but I think it's fallen off...
+- **10331**: That piece of paperrr you're holding. I've seen that beforrre.
+- **10332**: I wrote that to warn adventurerrrs to stay away from Rafflesia flowerrrs that are full of pollen.
+- **10333**: If you get enough of that foul-smelling stuff on you, you'll have a whole lot less friends. Trust me.
+- **10334**: I'd stay away from Rafflesia flowerrrs if I were you. If you get enough of that foul-smelling pollen on you, you'll have a whole lot less friends. Trust me.
+- **10335**: I'm thinking about writing a warning to tell adventurers that they should stay away from Rafflesia flowerrrs that are full of pollen.
 
 ## Events
 
@@ -380,12 +380,12 @@
   1: 0x00B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x05)
-  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10038*)
+  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
     → "Hey, you're an adventurer, arrren't you? I wouldn't want you to get lost. Let me give you a little help."
   5: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x06)
   7: 0x00CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x07)
-  8: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10039*)
+  8: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10040*)
     → "The jungle rrright outside the village gates is the Yuhtunga Jungle. To the south of the Yuhtunga Jungle is the Yhoator Jungle. Did you get all that?"
   9: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x08)
@@ -420,12 +420,12 @@
   1: 0x00E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x05)
-  4: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
+  4: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
     → "Hey, did you find a piece of paper lying around anywherrre?"
   5: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x06)
   7: 0x00FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x07)
-  8: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
+  8: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
     → "I put up a warning posterrr for adventurerrrs, but I think it's fallen off..."
   9: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0107 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x08)
@@ -462,22 +462,22 @@
   1: 0x0117 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0118 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0119 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x05)
-  4: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10330*)
+  4: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
     → "That piece of paperrr you're holding. I've seen that beforrre."
   5: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x06)
   7: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x07)
-  8: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10331*)
+  8: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
     → "I wrote that to warn adventurerrrs to stay away from Rafflesia flowerrrs that are full of pollen."
   9: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0136 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x08)
  11: 0x013D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x01)
  12: 0x0144 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0153
- 13: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
+ 13: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
     → "If you get enough of that foul-smelling stuff on you, you'll have a whole lot less friends. Trust me."
  14: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0150 [0x01] GOTO 0x0157
- 16: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
+ 16: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=10334*)
     → "I'd stay away from Rafflesia flowerrrs if I were you. If you get enough of that foul-smelling pollen on you, you'll have a whole lot less friends. Trust me."
  17: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -514,17 +514,17 @@ SUBROUTINE_0157:
   1: 0x0167 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0168 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0169 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x05)
-  4: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=10334*)
+  4: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=10335*)
     → "I'm thinking about writing a warning to tell adventurers that they should stay away from Rafflesia flowerrrs that are full of pollen."
   5: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0174 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x06)
   7: 0x017B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Coyah Neblahe (ID: 17801233/0x010FA011), tag_num=0x07)
   8: 0x0182 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0191
-  9: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=10332*)
+  9: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
     → "If you get enough of that foul-smelling stuff on you, you'll have a whole lot less friends. Trust me."
  10: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x018E [0x01] GOTO 0x0195
- 12: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=10333*)
+ 12: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=10334*)
     → "I'd stay away from Rafflesia flowerrrs if I were you. If you get enough of that foul-smelling pollen on you, you'll have a whole lot less friends. Trust me."
  13: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

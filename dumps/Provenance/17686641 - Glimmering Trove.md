@@ -24,15 +24,15 @@
 |       1 | 0x000F      |          15 |
 |       2 | 0x0010      |          16 |
 |       3 | 0x001F      |          31 |
-|       4 | 0x1CB7      |        7351 |
+|       4 | 0x1CB8      |        7352 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x000A      |          10 |
-|       7 | 0x1CB8      |        7352 |
-|       8 | 0x1CB9      |        7353 |
+|       7 | 0x1CB9      |        7353 |
+|       8 | 0x1CBA      |        7354 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x000B      |          11 |
-|      11 | 0x1D33      |        7475 |
-|      12 | 0x1D34      |        7476 |
+|      11 | 0x1D34      |        7476 |
+|      12 | 0x1D35      |        7477 |
 |      13 | 0x000C      |          12 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x0004      |           4 |
@@ -45,11 +45,11 @@
 
 ## String References
 
-- **7351**: Which item will you obtain? [None of them./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Relinquish all./Obtain all.]
-- **7352**: Obtain this item?
-- **7353**: Obtain the $0? [Yes./No.]
-- **7475**: Relinquish all reward items? [Yes, relinquish./On second thought...]
-- **7476**: All reward items have been relinquished.
+- **7352**: Which item will you obtain? [None of them./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Relinquish all./Obtain all.]
+- **7353**: Obtain this item?
+- **7354**: Obtain the $0? [Yes./No.]
+- **7476**: Relinquish all reward items? [Yes, relinquish./On second thought...]
+- **7477**: All reward items have been relinquished.
 
 ## Events
 
@@ -164,7 +164,7 @@
  24: 0x009C [0x03] Work_Zone_1700[0] = ExtData[1]->WorkLocal[7]
  25: 0x00A1 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[8]
  26: 0x00A6 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[9]
- 27: 0x00AB [0x24] CREATE_DIALOG(message_id=7351*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
+ 27: 0x00AB [0x24] CREATE_DIALOG(message_id=7352*, default_option=0*, option_flags=ExtData[1]->WorkLocal[11])
     → "Which item will you obtain? [None of them./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Relinquish all./Obtain all.]"
  28: 0x00B2 [0x25] WAIT_DIALOG_SELECT()
  29: 0x00B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
@@ -178,12 +178,12 @@ SUBROUTINE_00CB:
  35: 0x00D3 [0x02] IF !(ExtData[1]->WorkLocal[12] > 10*) GOTO 0x0147
  36: 0x00DB [0x9D] ExtData[1]->WorkLocal[13] = 0x0297[ExtData[1]->WorkLocal[12]] // Read WORD
  37: 0x00E3 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[13])
- 38: 0x00E6 [0x48] [System] [7352*]:
+ 38: 0x00E6 [0x48] [System] [7353*]:
     → "Obtain this item?"
  39: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00EA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  41: 0x00ED [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
- 42: 0x00F2 [0x24] CREATE_DIALOG(message_id=7353*, default_option=1*, option_flags=0*)
+ 42: 0x00F2 [0x24] CREATE_DIALOG(message_id=7354*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
  43: 0x00F9 [0x25] WAIT_DIALOG_SELECT()
  44: 0x00FA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0144
@@ -208,7 +208,7 @@ SUBROUTINE_0141:
 SUBROUTINE_0144:
  60: 0x0144 [0x01] GOTO 0x01BC
  61: 0x0147 [0x02] IF !(ExtData[1]->WorkLocal[12] == 11*) GOTO 0x018D
- 62: 0x014F [0x24] CREATE_DIALOG(message_id=7475*, default_option=1*, option_flags=0*)
+ 62: 0x014F [0x24] CREATE_DIALOG(message_id=7476*, default_option=1*, option_flags=0*)
     → "Relinquish all reward items? [Yes, relinquish./On second thought...]"
  63: 0x0156 [0x25] WAIT_DIALOG_SELECT()
  64: 0x0157 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017F
@@ -216,7 +216,7 @@ SUBROUTINE_0144:
  66: 0x0164 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  67: 0x0166 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  68: 0x0168 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x017C
- 69: 0x0170 [0x48] [System] [7476*]:
+ 69: 0x0170 [0x48] [System] [7477*]:
     → "All reward items have been relinquished."
  70: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0174 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[12]

@@ -23,34 +23,34 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1AC3      |        6851 |
-|       2 | 0x1AC4      |        6852 |
+|       1 | 0x1AC4      |        6852 |
+|       2 | 0x1AC5      |        6853 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1AC5      |        6853 |
+|       4 | 0x1AC6      |        6854 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0095      |         149 |
 |       7 | 0x05C5      |        1477 |
 |       8 | 0x0034      |          52 |
-|       9 | 0x1AC6      |        6854 |
+|       9 | 0x1AC7      |        6855 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0033      |          51 |
-|      13 | 0x1AC7      |        6855 |
+|      13 | 0x1AC8      |        6856 |
 |      14 | 0x003C      |          60 |
-|      15 | 0x1AC8      |        6856 |
-|      16 | 0x1BCE      |        7118 |
-|      17 | 0x1BCF      |        7119 |
+|      15 | 0x1AC9      |        6857 |
+|      16 | 0x1BCF      |        7119 |
+|      17 | 0x1BD0      |        7120 |
 
 ## String References
 
-- **6851**: Hello. I haven't seen you around here beforrre. Are you new in town?
-- **6852**: Are you new to Mhaura? [Yes, it's my first time here./No, I've come here plenty of times.]
-- **6853**: Ah, I thought so. Welcome to Mhaura. You should go to the governor's house. They'll tell you all you need to know about our little town.
-- **6854**: First, climb the stairs there, and walk along the ledge to another set of stairs. Go up, and you're therrre.
-- **6855**: You're not pulling my tail, are you? Hmm...I guess I must've just missed you. Still, you look lost.
-- **6856**: Have you been to the governor's house yet? If not, you should. They'll tell you all you need to know about our little town.
-- **7118**: I can't let you through this door. This is the guards' barrrracks. No unauthorized people allowed.
-- **7119**: You can't tell if you're in the town, but I hearrr the beastmen are up to something out there. How are things where you come from?
+- **6852**: Hello. I haven't seen you around here beforrre. Are you new in town?
+- **6853**: Are you new to Mhaura? [Yes, it's my first time here./No, I've come here plenty of times.]
+- **6854**: Ah, I thought so. Welcome to Mhaura. You should go to the governor's house. They'll tell you all you need to know about our little town.
+- **6855**: First, climb the stairs there, and walk along the ledge to another set of stairs. Go up, and you're therrre.
+- **6856**: You're not pulling my tail, are you? Hmm...I guess I must've just missed you. Still, you look lost.
+- **6857**: Have you been to the governor's house yet? If not, you should. They'll tell you all you need to know about our little town.
+- **7119**: I can't let you through this door. This is the guards' barrrracks. No unauthorized people allowed.
+- **7120**: You can't tell if you're in the town, but I hearrr the beastmen are up to something out there. How are things where you come from?
 
 ## Events
 
@@ -122,17 +122,17 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6851*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=6852*)
     → "Hello. I haven't seen you around here beforrre. Are you new in town?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0020 [0x24] CREATE_DIALOG(message_id=6852*, default_option=0*, option_flags=0*)
+  7: 0x0020 [0x24] CREATE_DIALOG(message_id=6853*, default_option=0*, option_flags=0*)
     → "Are you new to Mhaura? [Yes, it's my first time here./No, I've come here plenty of times.]"
   8: 0x0027 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0136
  10: 0x0030 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x0031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6853*)
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6854*)
     → "Ah, I thought so. Welcome to Mhaura. You should go to the governor's house. They'll tell you all you need to know about our little town."
  13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0044 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -146,7 +146,7 @@
  22: 0x009F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  23: 0x00A0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  24: 0x00A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=52*
- 25: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6854*)
+ 25: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6855*)
     → "First, climb the stairs there, and walk along the ledge to another set of stairs. Go up, and you're therrre."
  26: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00B4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "se06" with entities [LocalPlayer, LocalPlayer], work=149*
@@ -162,13 +162,13 @@
  37: 0x0133 [0x01] GOTO 0x017C
  38: 0x0136 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017C
  39: 0x013E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
- 40: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=6855*)
+ 40: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=6856*)
     → "You're not pulling my tail, are you? Hmm...I guess I must've just missed you. Still, you look lost."
  41: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0151 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  43: 0x015E [0x1C] WAIT(60* ticks)
  44: 0x0161 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 45: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=6856*)
+ 45: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=6857*)
     → "Have you been to the governor's house yet? If not, you should. They'll tell you all you need to know about our little town."
  46: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0174 [0x03] Work_Zone[1] = 2*
@@ -204,7 +204,7 @@ SUBROUTINE_017C:
   1: 0x0183 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0184 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0185 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7118*)
+  4: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
     → "I can't let you through this door. This is the guards' barrrracks. No unauthorized people allowed."
   5: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0198 [0x21] END_EVENT
@@ -236,7 +236,7 @@ SUBROUTINE_017C:
   1: 0x019F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01A0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
+  4: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
     → "You can't tell if you're in the town, but I hearrr the beastmen are up to something out there. How are things where you come from?"
   5: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01B4 [0x21] END_EVENT

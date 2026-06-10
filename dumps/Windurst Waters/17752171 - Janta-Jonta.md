@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0057      |          87 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2270      |        8816 |
-|       3 | 0x2271      |        8817 |
+|       2 | 0x2271      |        8817 |
+|       3 | 0x2272      |        8818 |
 
 ## String References
 
-- **8816**: That's the Culi...Culin...Culnira...Cooks' Guild! We's all likes Ranpi-Monpi who works there. He lets us taste all sortsa great stuff!
-- **8817**: He sez I've an iron-clad tummy-wummy, so I comes in mighty useful!
+- **8817**: That's the Culi...Culin...Culnira...Cooks' Guild! We's all likes Ranpi-Monpi who works there. He lets us taste all sortsa great stuff!
+- **8818**: He sez I've an iron-clad tummy-wummy, so I comes in mighty useful!
 
 ## Events
 
@@ -157,10 +157,10 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janta-Jonta (ID: 17752171/0x010EE06B), tag_num=0x01)
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8816*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8817*)
     → "That's the Culi...Culin...Culnira...Cooks' Guild! We's all likes Ranpi-Monpi who works there. He lets us taste all sortsa great stuff!"
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8817*)
+  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8818*)
     → "He sez I've an iron-clad tummy-wummy, so I comes in mighty useful!"
   8: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Janta-Jonta (ID: 17752171/0x010EE06B), tag_num=0x02)

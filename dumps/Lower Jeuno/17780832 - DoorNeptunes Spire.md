@@ -46,19 +46,19 @@
 |      11 | 0x027C      |         636 |
 |      12 | 0x003C      |          60 |
 |      13 | 0x00B4      |         180 |
-|      14 | 0x28BC      |       10428 |
-|      15 | 0x28BD      |       10429 |
+|      14 | 0x28BD      |       10429 |
+|      15 | 0x28BE      |       10430 |
 |      16 | 0x0095      |         149 |
 |      17 | 0x000F      |          15 |
-|      18 | 0x28BE      |       10430 |
-|      19 | 0x28BF      |       10431 |
-|      20 | 0x28C0      |       10432 |
-|      21 | 0x28C1      |       10433 |
+|      18 | 0x28BF      |       10431 |
+|      19 | 0x28C0      |       10432 |
+|      20 | 0x28C1      |       10433 |
+|      21 | 0x28C2      |       10434 |
 |      22 | 0x00F0      |         240 |
 |      23 | 0x005A      |          90 |
 |      24 | 0x0014      |          20 |
-|      25 | 0x28C2      |       10434 |
-|      26 | 0x28C3      |       10435 |
+|      25 | 0x28C3      |       10435 |
+|      26 | 0x28C4      |       10436 |
 |      27 | 0x01C8      |         456 |
 |      28 | 0x94D2      |       38098 |
 |      29 | 0xFFFF1B8C  |  4294908812 |
@@ -78,38 +78,38 @@
 |      43 | 0x819D      |       33181 |
 |      44 | 0xFFFF69AA  |  4294928810 |
 |      45 | 0x0078      |         120 |
-|      46 | 0x28C4      |       10436 |
-|      47 | 0x28C5      |       10437 |
+|      46 | 0x28C5      |       10437 |
+|      47 | 0x28C6      |       10438 |
 |      48 | 0x0005      |           5 |
 |      49 | 0x0006      |           6 |
-|      50 | 0x28C6      |       10438 |
-|      51 | 0x28C7      |       10439 |
-|      52 | 0x28C8      |       10440 |
+|      50 | 0x28C7      |       10439 |
+|      51 | 0x28C8      |       10440 |
+|      52 | 0x28C9      |       10441 |
 |      53 | 0x0096      |         150 |
 |      54 | 0x0948      |        2376 |
 |      55 | 0x0949      |        2377 |
-|      56 | 0x28C9      |       10441 |
-|      57 | 0x28CA      |       10442 |
-|      58 | 0x28CB      |       10443 |
-|      59 | 0x28CC      |       10444 |
-|      60 | 0x28CD      |       10445 |
-|      61 | 0x28CE      |       10446 |
-|      62 | 0x28CF      |       10447 |
-|      63 | 0x28D0      |       10448 |
-|      64 | 0x28D1      |       10449 |
-|      65 | 0x28D2      |       10450 |
+|      56 | 0x28CA      |       10442 |
+|      57 | 0x28CB      |       10443 |
+|      58 | 0x28CC      |       10444 |
+|      59 | 0x28CD      |       10445 |
+|      60 | 0x28CE      |       10446 |
+|      61 | 0x28CF      |       10447 |
+|      62 | 0x28D0      |       10448 |
+|      63 | 0x28D1      |       10449 |
+|      64 | 0x28D2      |       10450 |
+|      65 | 0x28D3      |       10451 |
 |      66 | 0x000A      |          10 |
-|      67 | 0x28D3      |       10451 |
-|      68 | 0x28D4      |       10452 |
-|      69 | 0x28D5      |       10453 |
-|      70 | 0x28D6      |       10454 |
-|      71 | 0x28D7      |       10455 |
-|      72 | 0x28D8      |       10456 |
-|      73 | 0x28D9      |       10457 |
+|      67 | 0x28D4      |       10452 |
+|      68 | 0x28D5      |       10453 |
+|      69 | 0x28D6      |       10454 |
+|      70 | 0x28D7      |       10455 |
+|      71 | 0x28D8      |       10456 |
+|      72 | 0x28D9      |       10457 |
+|      73 | 0x28DA      |       10458 |
 
 ## String References
 
-- **10441**: You hand over $6 and $6.
+- **10442**: You hand over $6 and $6.
 
 ## Events
 
@@ -635,7 +635,7 @@
  33: 0x0103 [0x1C] WAIT(30* ticks)
  34: 0x0106 [0x03] Work_Zone_1700[0] = 60*
  35: 0x010B [0x27] REQ_SET(priority=0x10, entity_id=Harnek (ID: 17780749/0x010F500D), tag_num=0x0E)
- 36: 0x0112 [0x2B] Harnek (ID: 17780749/0x010F500D) [10428*]:
+ 36: 0x0112 [0x2B] Harnek (ID: 17780749/0x010F500D) [10429*]:
     → "Welcome to the one and only Tenshodo. If you're looking to purchase something, the counter is right over--"
  37: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x011A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Harnek (ID: 17780749/0x010F500D))
@@ -649,7 +649,7 @@
  46: 0x0163 [0x1C] WAIT(30* ticks)
  47: 0x0166 [0x03] Work_Zone_1700[0] = 60*
  48: 0x016B [0x27] REQ_SET(priority=0x10, entity_id=Talib (ID: 17780962/0x010F50E2), tag_num=0x04)
- 49: 0x0172 [0x2B] Talib (ID: 17780962/0x010F50E2) [10429*]:
+ 49: 0x0172 [0x2B] Talib (ID: 17780962/0x010F50E2) [10430*]:
     → "Hey there. Is it ready?"
  50: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x017A [0x2A] GET_REQ_LEVEL(level=16, entity_id=Talib (ID: 17780962/0x010F50E2))
@@ -662,10 +662,10 @@
  58: 0x01B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s283" with entities [EventEntity, EventEntity], work=[636*, 0*]
  59: 0x01C7 [0x03] Work_Zone_1700[0] = 60*
  60: 0x01CC [0x27] REQ_SET(priority=0x10, entity_id=Harnek (ID: 17780749/0x010F500D), tag_num=0x0E)
- 61: 0x01D3 [0x2B] Harnek (ID: 17780749/0x010F500D) [10430*]:
+ 61: 0x01D3 [0x2B] Harnek (ID: 17780749/0x010F500D) [10431*]:
     → "It's in the drawer, as always. Go back there and have them bring it out."
  62: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x01DB [0x2B] Harnek (ID: 17780749/0x010F500D) [10431*]:
+ 63: 0x01DB [0x2B] Harnek (ID: 17780749/0x010F500D) [10432*]:
     → "So? How've you been?"
  64: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x01E3 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Harnek (ID: 17780749/0x010F500D))
@@ -675,10 +675,10 @@
  69: 0x0218 [0x1C] WAIT(30* ticks)
  70: 0x021B [0x03] Work_Zone_1700[0] = 180*
  71: 0x0220 [0x27] REQ_SET(priority=0x10, entity_id=Talib (ID: 17780962/0x010F50E2), tag_num=0x06)
- 72: 0x0227 [0x2B] Talib (ID: 17780962/0x010F50E2) [10432*]:
+ 72: 0x0227 [0x2B] Talib (ID: 17780962/0x010F50E2) [10433*]:
     → "You know how it is. Always in search of something juicy that'll make some quick gil."
  73: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x022F [0x2B] Talib (ID: 17780962/0x010F50E2) [10433*]:
+ 74: 0x022F [0x2B] Talib (ID: 17780962/0x010F50E2) [10434*]:
     → "Hah, you and I both know that things are never that easy."
  75: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0237 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Talib (ID: 17780962/0x010F50E2))
@@ -704,10 +704,10 @@
  96: 0x02D0 [0x1C] WAIT(20* ticks)
  97: 0x02D3 [0x03] Work_Zone_1700[0] = 90*
  98: 0x02D8 [0x27] REQ_SET(priority=0x10, entity_id=Harnek (ID: 17780749/0x010F500D), tag_num=0x0E)
- 99: 0x02DF [0x2B] Harnek (ID: 17780749/0x010F500D) [10434*]:
+ 99: 0x02DF [0x2B] Harnek (ID: 17780749/0x010F500D) [10435*]:
     → "You're not here to see some of our wares?"
 100: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x02E7 [0x2B] Harnek (ID: 17780749/0x010F500D) [10435*]:
+101: 0x02E7 [0x2B] Harnek (ID: 17780749/0x010F500D) [10436*]:
     → "Mid? He sent you to see the boss? I see. Well, don't just stand there--follow me."
 102: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x02EF [0x2A] GET_REQ_LEVEL(level=16, entity_id=Harnek (ID: 17780749/0x010F500D))
@@ -795,7 +795,7 @@
 185: 0x0550 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x60)
 186: 0x0557 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Aldo (ID: 17780743/0x010F5007))
 187: 0x055D [0x4A] Aldo (ID: 17780743/0x010F5007) looks at LocalPlayer
-188: 0x0566 [0x2B] Aldo (ID: 17780743/0x010F5007) [10436*]:
+188: 0x0566 [0x2B] Aldo (ID: 17780743/0x010F5007) [10437*]:
     → "A guest? Oh hey, it's <Player>!"
 189: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x056E [0x4A] LocalPlayer looks at Aldo (ID: 17780743/0x010F5007)
@@ -805,7 +805,7 @@
 194: 0x05A0 [0x4A] Aldo (ID: 17780743/0x010F5007) looks at Harnek (ID: 17780749/0x010F500D)
 195: 0x05A9 [0x03] Work_Zone_1700[0] = 60*
 196: 0x05AE [0x27] REQ_SET(priority=0x10, entity_id=Harnek (ID: 17780749/0x010F500D), tag_num=0x0E)
-197: 0x05B5 [0x2B] Harnek (ID: 17780749/0x010F500D) [10437*]:
+197: 0x05B5 [0x2B] Harnek (ID: 17780749/0x010F500D) [10438*]:
     → "[He/She] says [he's/she's] here on an errand from Mid. Got somethin' to give you."
 198: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x05BD [0x2A] GET_REQ_LEVEL(level=16, entity_id=Harnek (ID: 17780749/0x010F500D))
@@ -823,10 +823,10 @@
 
 SUBROUTINE_063A:
 211: 0x063A [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x2F)
-212: 0x0641 [0x2B] Aldo (ID: 17780743/0x010F5007) [10438*]:
+212: 0x0641 [0x2B] Aldo (ID: 17780743/0x010F5007) [10439*]:
     → "From Mid... So you've come all the way from Adoulin, then?"
 213: 0x0648 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x0649 [0x2B] Aldo (ID: 17780743/0x010F5007) [10439*]:
+214: 0x0649 [0x2B] Aldo (ID: 17780743/0x010F5007) [10440*]:
     → "Aha--you applied for that pioneer nonsense, did you?"
 215: 0x0650 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x0651 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x30)
@@ -845,7 +845,7 @@ SUBROUTINE_063A:
 SUBROUTINE_06B3:
 228: 0x06B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s293" with entities [EventEntity, EventEntity], work=[636*, 0*]
 229: 0x06C4 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x2F)
-230: 0x06CB [0x2B] Aldo (ID: 17780743/0x010F5007) [10440*]:
+230: 0x06CB [0x2B] Aldo (ID: 17780743/0x010F5007) [10441*]:
     → "Well, what you do is your business. Let me see what Mid had you bring."
 231: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x06D3 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x30)
@@ -853,7 +853,7 @@ SUBROUTINE_06B3:
 234: 0x06E1 [0x1C] WAIT(150* ticks)
 235: 0x06E4 [0x03] Work_Zone[2] = 2376*
 236: 0x06E9 [0x03] Work_Zone[3] = 2377*
-237: 0x06EE [0x48] [System] [10441*]:
+237: 0x06EE [0x48] [System] [10442*]:
     → "You hand over $6 and $6."
 238: 0x06F1 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Aldo (ID: 17780743/0x010F5007))
 239: 0x06F7 [0x1C] WAIT(120* ticks)
@@ -861,26 +861,26 @@ SUBROUTINE_06B3:
 241: 0x06FF [0x52] END_LOAD_SCHEDULER: End scheduler "s293" with entities [EventEntity, EventEntity], work=636*
 242: 0x070E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s294" with entities [EventEntity, EventEntity], work=[636*, 0*]
 243: 0x071F [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x33)
-244: 0x0726 [0x2B] Aldo (ID: 17780743/0x010F5007) [10442*]:
+244: 0x0726 [0x2B] Aldo (ID: 17780743/0x010F5007) [10443*]:
     → "Oh ho, he made a new kind of explosive, did he?"
 245: 0x072D [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x072E [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x35)
-247: 0x0735 [0x2B] Aldo (ID: 17780743/0x010F5007) [10443*]:
+247: 0x0735 [0x2B] Aldo (ID: 17780743/0x010F5007) [10444*]:
     → "Using a chemical reaction to set things in motion... Sounds exactly like something he would do."
 248: 0x073C [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x073D [0x52] END_LOAD_SCHEDULER: End scheduler "s294" with entities [EventEntity, EventEntity], work=636*
 250: 0x074C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s295" with entities [EventEntity, EventEntity], work=[636*, 0*]
 251: 0x075D [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Aldo (ID: 17780743/0x010F5007))
-252: 0x0763 [0x2B] Aldo (ID: 17780743/0x010F5007) [10444*]:
+252: 0x0763 [0x2B] Aldo (ID: 17780743/0x010F5007) [10445*]:
     → "Oh? There's more...?"
 253: 0x076A [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x076B [0x52] END_LOAD_SCHEDULER: End scheduler "s295" with entities [EventEntity, EventEntity], work=636*
 255: 0x077A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s296" with entities [EventEntity, EventEntity], work=[636*, 0*]
 256: 0x078B [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Aldo (ID: 17780743/0x010F5007))
-257: 0x0791 [0x2B] Aldo (ID: 17780743/0x010F5007) [10445*]:
+257: 0x0791 [0x2B] Aldo (ID: 17780743/0x010F5007) [10446*]:
     → "What's this now--some kind of report detailing information on Adoulin's technology and organizational structure?"
 258: 0x0798 [0x23] WAIT_FOR_DIALOG_INTERACTION
-259: 0x0799 [0x2B] Aldo (ID: 17780743/0x010F5007) [10446*]:
+259: 0x0799 [0x2B] Aldo (ID: 17780743/0x010F5007) [10447*]:
     → "Somehow I don't think he meant for us to have this. What could he possibly be on about?"
 260: 0x07A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x07A1 [0x52] END_LOAD_SCHEDULER: End scheduler "s296" with entities [EventEntity, EventEntity], work=636*
@@ -888,7 +888,7 @@ SUBROUTINE_06B3:
 263: 0x07C1 [0x1C] WAIT(30* ticks)
 264: 0x07C4 [0x03] Work_Zone_1700[0] = 60*
 265: 0x07C9 [0x27] REQ_SET(priority=0x10, entity_id=Harnek (ID: 17780749/0x010F500D), tag_num=0x0E)
-266: 0x07D0 [0x2B] Harnek (ID: 17780749/0x010F500D) [10447*]:
+266: 0x07D0 [0x2B] Harnek (ID: 17780749/0x010F500D) [10448*]:
     → "Boss, if Cid were to find out about this..."
 267: 0x07D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x07D8 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Harnek (ID: 17780749/0x010F500D))
@@ -901,10 +901,10 @@ SUBROUTINE_06B3:
 275: 0x0823 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 276: 0x0824 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Aldo (ID: 17780743/0x010F5007) Render.Flags0 and Render.Flags3 conditions are met
 277: 0x0829 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x31)
-278: 0x0830 [0x2B] Aldo (ID: 17780743/0x010F5007) [10448*]:
+278: 0x0830 [0x2B] Aldo (ID: 17780743/0x010F5007) [10449*]:
     → "Oh, I know all too well. His rage would be the least of our worries. Mid might even get himself expelled from Adoulin entirely."
 279: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
-280: 0x0838 [0x2B] Aldo (ID: 17780743/0x010F5007) [10449*]:
+280: 0x0838 [0x2B] Aldo (ID: 17780743/0x010F5007) [10450*]:
     → "But we shouldn't stick our noses where they don't belong."
 281: 0x083F [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x0840 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Aldo (ID: 17780743/0x010F5007))
@@ -913,7 +913,7 @@ SUBROUTINE_06B3:
 285: 0x0866 [0x1C] WAIT(60* ticks)
 286: 0x0869 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x61)
 287: 0x0870 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x33)
-288: 0x0877 [0x2B] Aldo (ID: 17780743/0x010F5007) [10450*]:
+288: 0x0877 [0x2B] Aldo (ID: 17780743/0x010F5007) [10451*]:
     → "This whole affair must never leave these walls. Consider that to be a direct order."
 289: 0x087E [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x087F [0x2A] GET_REQ_LEVEL(level=16, entity_id=Aldo (ID: 17780743/0x010F5007))
@@ -949,10 +949,10 @@ SUBROUTINE_094B:
 318: 0x095B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Aldo (ID: 17780743/0x010F5007) Render.Flags0 and Render.Flags3 conditions are met
 319: 0x0960 [0x1C] WAIT(30* ticks)
 320: 0x0963 [0x27] REQ_SET(priority=0x10, entity_id=Aldo (ID: 17780743/0x010F5007), tag_num=0x31)
-321: 0x096A [0x2B] Aldo (ID: 17780743/0x010F5007) [10451*]:
+321: 0x096A [0x2B] Aldo (ID: 17780743/0x010F5007) [10452*]:
     → "That goes for you too, <Player>. Pretend this whole thing didn't happen."
 322: 0x0971 [0x23] WAIT_FOR_DIALOG_INTERACTION
-323: 0x0972 [0x2B] Aldo (ID: 17780743/0x010F5007) [10452*]:
+323: 0x0972 [0x2B] Aldo (ID: 17780743/0x010F5007) [10453*]:
     → "I'll hold on to this. Nothing good could come of giving it back to Mid."
 324: 0x0979 [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x097A [0x7B] Aldo (ID: 17780743/0x010F5007) stops talking
@@ -968,7 +968,7 @@ SUBROUTINE_09C2:
 333: 0x09C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s272" with entities [EventEntity, EventEntity], work=[636*, 0*]
 334: 0x09D3 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Aldo (ID: 17780743/0x010F5007))
 335: 0x09D9 [0x1C] WAIT(30* ticks)
-336: 0x09DC [0x2B] Aldo (ID: 17780743/0x010F5007) [10453*]:
+336: 0x09DC [0x2B] Aldo (ID: 17780743/0x010F5007) [10454*]:
     → "Now, about those explosives--we'll have to do some research on our own before we give a definitive answer. That's our official response."
 337: 0x09E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x09E4 [0x1C] WAIT(30* ticks)
@@ -977,7 +977,7 @@ SUBROUTINE_09C2:
 341: 0x09F7 [0x52] END_LOAD_SCHEDULER: End scheduler "s272" with entities [EventEntity, EventEntity], work=636*
 342: 0x0A06 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s278" with entities [EventEntity, EventEntity], work=[636*, 0*]
 343: 0x0A17 [0x1C] WAIT(60* ticks)
-344: 0x0A1A [0x2B] Aldo (ID: 17780743/0x010F5007) [10454*]:
+344: 0x0A1A [0x2B] Aldo (ID: 17780743/0x010F5007) [10455*]:
     → "So head back to Adoulin and let Midras know...only what he needs to know. And don't get in over your head, hear?"
 345: 0x0A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
 346: 0x0A22 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Aldo (ID: 17780743/0x010F5007))
@@ -992,13 +992,13 @@ SUBROUTINE_09C2:
 355: 0x0A65 [0x27] REQ_SET(priority=0x10, entity_id=Talib (ID: 17780962/0x010F50E2), tag_num=0x05)
 356: 0x0A6C [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Talib (ID: 17780962/0x010F50E2))
 357: 0x0A72 [0x7C] Talib (ID: 17780962/0x010F50E2)->Render.Flags2 |= 0x00
-358: 0x0A78 [0x2B] Talib (ID: 17780962/0x010F50E2) [10455*]:
+358: 0x0A78 [0x2B] Talib (ID: 17780962/0x010F50E2) [10456*]:
     → "(Well, well...this is something else!)"
 359: 0x0A7F [0x23] WAIT_FOR_DIALOG_INTERACTION
-360: 0x0A80 [0x2B] Talib (ID: 17780962/0x010F50E2) [10456*]:
+360: 0x0A80 [0x2B] Talib (ID: 17780962/0x010F50E2) [10457*]:
     → "(Why would I keep this information secret when I could sell it to Cid for untold amounts of gil?)"
 361: 0x0A87 [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x0A88 [0x2B] Talib (ID: 17780962/0x010F50E2) [10457*]:
+362: 0x0A88 [0x2B] Talib (ID: 17780962/0x010F50E2) [10458*]:
     → "(Who'd've thought such a juicy proposition would just land in my lap?)"
 363: 0x0A8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0A90 [0x1C] WAIT(60* ticks)

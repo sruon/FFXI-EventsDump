@@ -44,18 +44,18 @@
 |       9 | 0xFFFFB301  |  4294947585 |
 |      10 | 0x1C20      |        7200 |
 |      11 | 0x08B7      |        2231 |
-|      12 | 0x2A9E      |       10910 |
-|      13 | 0x2A9F      |       10911 |
-|      14 | 0x2B5F      |       11103 |
+|      12 | 0x2A9F      |       10911 |
+|      13 | 0x2AA0      |       10912 |
+|      14 | 0x2B60      |       11104 |
 |      15 | 0x0014      |          20 |
-|      16 | 0x2B60      |       11104 |
+|      16 | 0x2B61      |       11105 |
 
 ## String References
 
-- **10910**: All clear... Day in and day out, it is always "all clear"... However, I guess I cannot complain...
-- **10911**: Lately there has been an increase in the number of outsiders utilizing our safehold's facilities. More ruffians means more crime...and that is what I am here to prevent.
-- **11103**: The other day, those three Tarutaru presented me with the charred remains of some awful beast and told me to try it because it was "mighty tasty."
-- **11104**: Since they were children, I had always told the Chebukki brothers to never shun from a challenge, but to think I would be tested by my own words...
+- **10911**: All clear... Day in and day out, it is always "all clear"... However, I guess I cannot complain...
+- **10912**: Lately there has been an increase in the number of outsiders utilizing our safehold's facilities. More ruffians means more crime...and that is what I am here to prevent.
+- **11104**: The other day, those three Tarutaru presented me with the charred remains of some awful beast and told me to try it because it was "mighty tasty."
+- **11105**: Since they were children, I had always told the Chebukki brothers to never shun from a challenge, but to think I would be tested by my own words...
 
 ## Events
 
@@ -315,7 +315,7 @@
 
 ```
   0: 0x0050 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10910*)
+  1: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10911*)
     → "All clear... Day in and day out, it is always "all clear"... However, I guess I cannot complain..."
   2: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0059 [0x21] END_EVENT
@@ -343,7 +343,7 @@
 
 ```
   0: 0x005B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=10911*)
+  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=10912*)
     → "Lately there has been an increase in the number of outsiders utilizing our safehold's facilities. More ruffians means more crime...and that is what I am here to prevent."
   2: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0064 [0x21] END_EVENT
@@ -372,11 +372,11 @@
 
 ```
   0: 0x0066 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=11103*)
+  1: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=11104*)
     → "The other day, those three Tarutaru presented me with the charred remains of some awful beast and told me to try it because it was "mighty tasty.""
   2: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x006F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Pradiulot (ID: 16883778/0x0101A042), Pradiulot (ID: 16883778/0x0101A042)], work=20*
-  4: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11104*)
+  4: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=11105*)
     → "Since they were children, I had always told the Chebukki brothers to never shun from a challenge, but to think I would be tested by my own words..."
   5: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0082 [0x21] END_EVENT

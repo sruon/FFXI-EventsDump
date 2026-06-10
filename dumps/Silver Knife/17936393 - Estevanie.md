@@ -35,13 +35,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0023      |          35 |
-|       1 | 0x1C4A      |        7242 |
-|       2 | 0x1C4B      |        7243 |
+|       1 | 0x1C4B      |        7243 |
+|       2 | 0x1C4C      |        7244 |
 
 ## String References
 
-- **7242**: I never would have expected a simple pioneer to be permitted entry within these halls.
-- **7243**: Do you truly have a discerning eye like the rest of us?
+- **7243**: I never would have expected a simple pioneer to be permitted entry within these halls.
+- **7244**: Do you truly have a discerning eye like the rest of us?
 
 ## Events
 
@@ -329,10 +329,10 @@
   0: 0x0097 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x009C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+  3: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "I never would have expected a simple pioneer to be permitted entry within these halls."
   4: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+  5: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Do you truly have a discerning eye like the rest of us?"
   6: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00A6 [0x21] END_EVENT

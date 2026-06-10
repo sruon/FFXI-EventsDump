@@ -26,47 +26,47 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x03C9      |         969 |
-|       1 | 0x1D68      |        7528 |
+|       1 | 0x1D69      |        7529 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x3B9ACA00  |  1000000000 |
-|       4 | 0x1D6A      |        7530 |
+|       4 | 0x1D6B      |        7531 |
 |       5 | 0x001F      |          31 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x1D69      |        7529 |
+|       8 | 0x1D6A      |        7530 |
 |       9 | 0x989680    |    10000000 |
 |      10 | 0x03C0      |         960 |
-|      11 | 0x1900      |        6400 |
-|      12 | 0x1D60      |        7520 |
-|      13 | 0x1D61      |        7521 |
-|      14 | 0x1D62      |        7522 |
-|      15 | 0x1D63      |        7523 |
-|      16 | 0x1D64      |        7524 |
-|      17 | 0x1D67      |        7527 |
+|      11 | 0x1901      |        6401 |
+|      12 | 0x1D61      |        7521 |
+|      13 | 0x1D62      |        7522 |
+|      14 | 0x1D63      |        7523 |
+|      15 | 0x1D64      |        7524 |
+|      16 | 0x1D65      |        7525 |
+|      17 | 0x1D68      |        7528 |
 |      18 | 0x0009      |           9 |
 |      19 | 0x0002      |           2 |
-|      20 | 0x1D6C      |        7532 |
-|      21 | 0x1D6D      |        7533 |
-|      22 | 0x1D6B      |        7531 |
-|      23 | 0x1D6E      |        7534 |
+|      20 | 0x1D6D      |        7533 |
+|      21 | 0x1D6E      |        7534 |
+|      22 | 0x1D6C      |        7532 |
+|      23 | 0x1D6F      |        7535 |
 |      24 | 0x0003      |           3 |
 
 ## String References
 
-- **6400**: You do not have enough gil.
-- **7520**: A repository rests before you, likely containing $0 gil.
-- **7521**: What shall you do? [Check its contents./Deposit gil./Withdraw gil./Nothing.]
-- **7522**: You peer through the opening to see how high your treasures are piled.
-- **7523**: It turns out that you have $0 gil stored safely inside.
-- **7524**: You can deposit $1 more gil until the repository can hold no more.
-- **7527**: How much gil will you deposit?
-- **7528**: Truly deposit $2 gil? [Yes./No.]
-- **7529**: The satisfying clink of money finding a snug nook within its safehouse soothes your soul.
-- **7530**: You cannot add any more gil!
-- **7531**: You cannot hold any more gil!
-- **7532**: How much gil will you withdraw?
-- **7533**: Truly withdraw $2 gil? [Yes./No.]
-- **7534**: Not a single gil rests inside the repository anymore.
+- **6401**: You do not have enough gil.
+- **7521**: A repository rests before you, likely containing $0 gil.
+- **7522**: What shall you do? [Check its contents./Deposit gil./Withdraw gil./Nothing.]
+- **7523**: You peer through the opening to see how high your treasures are piled.
+- **7524**: It turns out that you have $0 gil stored safely inside.
+- **7525**: You can deposit $1 more gil until the repository can hold no more.
+- **7528**: How much gil will you deposit?
+- **7529**: Truly deposit $2 gil? [Yes./No.]
+- **7530**: The satisfying clink of money finding a snug nook within its safehouse soothes your soul.
+- **7531**: You cannot add any more gil!
+- **7532**: You cannot hold any more gil!
+- **7533**: How much gil will you withdraw?
+- **7534**: Truly withdraw $2 gil? [Yes./No.]
+- **7535**: Not a single gil rests inside the repository anymore.
 
 ## Events
 
@@ -213,7 +213,7 @@
 ```
   0: 0x000D [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   1: 0x0012 [0x03] Work_Zone[4] = Work_Zone[2]
-  2: 0x0017 [0x24] CREATE_DIALOG(message_id=7528*, default_option=0*, option_flags=0*)
+  2: 0x0017 [0x24] CREATE_DIALOG(message_id=7529*, default_option=0*, option_flags=0*)
     → "Truly deposit $2 gil? [Yes./No.]"
   3: 0x001E [0x25] WAIT_DIALOG_SELECT()
   4: 0x001F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0088
@@ -221,7 +221,7 @@
   6: 0x0028 [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[1]
   7: 0x002D [0x07] ExtData[1]->WorkLocal[3] += Work_Zone[4]
   8: 0x0032 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 1000000000*) GOTO 0x0041
-  9: 0x003A [0x48] [System] [7530*]:
+  9: 0x003A [0x48] [System] [7531*]:
     → "You cannot add any more gil!"
  10: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x003E [0x01] GOTO 0x0085
@@ -231,7 +231,7 @@
  15: 0x0056 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  16: 0x0058 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  17: 0x005A [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0079
- 18: 0x0062 [0x48] [System] [7529*]:
+ 18: 0x0062 [0x48] [System] [7530*]:
     → "The satisfying clink of money finding a snug nook within its safehouse soothes your soul."
  19: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0066 [0x02] IF !(ExtData[1]->WorkLocal[3] < 10000000*) GOTO 0x0075
@@ -241,7 +241,7 @@
 
 SUBROUTINE_0079:
  24: 0x0079 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0085
- 25: 0x0081 [0x48] [System] [6400*]:
+ 25: 0x0081 [0x48] [System] [6401*]:
     → "You do not have enough gil."
  26: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -303,37 +303,37 @@ SUBROUTINE_0093:
 
 ```
   0: 0x0095 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
-  1: 0x009A [0x48] [System] [7520*]:
+  1: 0x009A [0x48] [System] [7521*]:
     → "A repository rests before you, likely containing $0 gil."
   2: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x009E [0x03] ExtData[1]->WorkLocal[0] = 1*
   4: 0x00A3 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x0251
-  5: 0x00AB [0x24] CREATE_DIALOG(message_id=7521*, default_option=0*, option_flags=0*)
+  5: 0x00AB [0x24] CREATE_DIALOG(message_id=7522*, default_option=0*, option_flags=0*)
     → "What shall you do? [Check its contents./Deposit gil./Withdraw gil./Nothing.]"
   6: 0x00B2 [0x25] WAIT_DIALOG_SELECT()
   7: 0x00B3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D9
   8: 0x00BB [0x03] ExtData[1]->WorkLocal[2] = 1000000000*
-  9: 0x00C0 [0x48] [System] [7522*]:
+  9: 0x00C0 [0x48] [System] [7523*]:
     → "You peer through the opening to see how high your treasures are piled."
  10: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x00C4 [0x48] [System] [7523*]:
+ 11: 0x00C4 [0x48] [System] [7524*]:
     → "It turns out that you have $0 gil stored safely inside."
  12: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00C8 [0x08] ExtData[1]->WorkLocal[2] -= ExtData[1]->WorkLocal[1]
  14: 0x00CD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
- 15: 0x00D2 [0x48] [System] [7524*]:
+ 15: 0x00D2 [0x48] [System] [7525*]:
     → "You can deposit $1 more gil until the repository can hold no more."
  16: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00D6 [0x01] GOTO 0x024E
  18: 0x00D9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017E
- 19: 0x00E1 [0x48] [System] [7527*]:
+ 19: 0x00E1 [0x48] [System] [7528*]:
     → "How much gil will you deposit?"
  20: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00E5 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 9*])
  22: 0x00EB [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[4])
  23: 0x00EF [0x02] IF !(Work_Zone[4] > 0*) GOTO 0x00FA
  24: 0x00F7 [0x01] GOTO 0x0170
- 25: 0x00FA [0x24] CREATE_DIALOG(message_id=7528*, default_option=0*, option_flags=0*)
+ 25: 0x00FA [0x24] CREATE_DIALOG(message_id=7529*, default_option=0*, option_flags=0*)
     → "Truly deposit $2 gil? [Yes./No.]"
  26: 0x0101 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0102 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017B
@@ -341,7 +341,7 @@ SUBROUTINE_0093:
  29: 0x010B [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[1]
  30: 0x0110 [0x07] ExtData[1]->WorkLocal[3] += Work_Zone[4]
  31: 0x0115 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 1000000000*) GOTO 0x0124
- 32: 0x011D [0x48] [System] [7530*]:
+ 32: 0x011D [0x48] [System] [7531*]:
     → "You cannot add any more gil!"
  33: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0121 [0x01] GOTO 0x016D
@@ -351,7 +351,7 @@ SUBROUTINE_0093:
  38: 0x0139 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  39: 0x013B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  40: 0x013D [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x015C
- 41: 0x0145 [0x48] [System] [7529*]:
+ 41: 0x0145 [0x48] [System] [7530*]:
     → "The satisfying clink of money finding a snug nook within its safehouse soothes your soul."
  42: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0149 [0x02] IF !(ExtData[1]->WorkLocal[3] < 10000000*) GOTO 0x0158
@@ -361,7 +361,7 @@ SUBROUTINE_0093:
 
 SUBROUTINE_015C:
  47: 0x015C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0168
- 48: 0x0164 [0x48] [System] [6400*]:
+ 48: 0x0164 [0x48] [System] [6401*]:
     → "You do not have enough gil."
  49: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0168 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -376,14 +376,14 @@ SUBROUTINE_0170:
 SUBROUTINE_017B:
  54: 0x017B [0x01] GOTO 0x024E
  55: 0x017E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x023E
- 56: 0x0186 [0x48] [System] [7532*]:
+ 56: 0x0186 [0x48] [System] [7533*]:
     → "How much gil will you withdraw?"
  57: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x018A [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 9*])
  59: 0x0190 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[4])
  60: 0x0194 [0x02] IF !(Work_Zone[4] > 0*) GOTO 0x019F
  61: 0x019C [0x01] GOTO 0x0230
- 62: 0x019F [0x24] CREATE_DIALOG(message_id=7533*, default_option=0*, option_flags=0*)
+ 62: 0x019F [0x24] CREATE_DIALOG(message_id=7534*, default_option=0*, option_flags=0*)
     → "Truly withdraw $2 gil? [Yes./No.]"
  63: 0x01A6 [0x25] WAIT_DIALOG_SELECT()
  64: 0x01A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023B
@@ -391,7 +391,7 @@ SUBROUTINE_017B:
  66: 0x01B0 [0x03] ExtData[1]->WorkLocal[3] = ExtData[1]->WorkLocal[1]
  67: 0x01B5 [0x08] ExtData[1]->WorkLocal[3] -= Work_Zone[4]
  68: 0x01BA [0x02] IF !(ExtData[1]->WorkLocal[3] >= 0*) GOTO 0x01C9
- 69: 0x01C2 [0x48] [System] [6400*]:
+ 69: 0x01C2 [0x48] [System] [6401*]:
     → "You do not have enough gil."
  70: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01C6 [0x01] GOTO 0x022D
@@ -401,7 +401,7 @@ SUBROUTINE_017B:
  75: 0x01DE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  76: 0x01E0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  77: 0x01E2 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x01EE
- 78: 0x01EA [0x48] [System] [7531*]:
+ 78: 0x01EA [0x48] [System] [7532*]:
     → "You cannot hold any more gil!"
  79: 0x01ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01EE [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0209
@@ -412,7 +412,7 @@ SUBROUTINE_017B:
 
 SUBROUTINE_0209:
  85: 0x0209 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0228
- 86: 0x0211 [0x48] [System] [7534*]:
+ 86: 0x0211 [0x48] [System] [7535*]:
     → "Not a single gil rests inside the repository anymore."
  87: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0215 [0x02] IF !(ExtData[1]->WorkLocal[3] < 10000000*) GOTO 0x0224

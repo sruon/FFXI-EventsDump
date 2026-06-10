@@ -22,21 +22,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E4C      |        7756 |
-|       1 | 0x1E4D      |        7757 |
-|       2 | 0x1E4E      |        7758 |
-|       3 | 0x1E4F      |        7759 |
-|       4 | 0x1E50      |        7760 |
-|       5 | 0x1E51      |        7761 |
+|       0 | 0x1E4D      |        7757 |
+|       1 | 0x1E4E      |        7758 |
+|       2 | 0x1E4F      |        7759 |
+|       3 | 0x1E50      |        7760 |
+|       4 | 0x1E51      |        7761 |
+|       5 | 0x1E52      |        7762 |
 
 ## String References
 
-- **7756**: The path through the Meriphataud Mountains is a treacherous one, with Yagudo zealots hiding behind every rock. Stay alert, or you may find yourself impaled on the end of one of their blades.
-- **7757**: Stand down, civilian! You're not really thinking of journeying through the mountains, are you? You would be crazy to continue, and I would be even more so to allow you the opportunity.
-- **7758**: Though, if you are eager to put your Goddess-granted life at risk, I can offer you a bit of advice.
-- **7759**: The Kingdom of San d'Oria has begun fortifying a citadel located due northwest from this garrison. There are guards there who may be able to assist you on your travels.
-- **7760**: There also may be someone with information on recruitment, if you are interested in lending your services to the allied forces.
-- **7761**: Who knows... The next time we meet, I might have to call you "sir."
+- **7757**: The path through the Meriphataud Mountains is a treacherous one, with Yagudo zealots hiding behind every rock. Stay alert, or you may find yourself impaled on the end of one of their blades.
+- **7758**: Stand down, civilian! You're not really thinking of journeying through the mountains, are you? You would be crazy to continue, and I would be even more so to allow you the opportunity.
+- **7759**: Though, if you are eager to put your Goddess-granted life at risk, I can offer you a bit of advice.
+- **7760**: The Kingdom of San d'Oria has begun fortifying a citadel located due northwest from this garrison. There are guards there who may be able to assist you on your travels.
+- **7761**: There also may be someone with information on recruitment, if you are interested in lending your services to the allied forces.
+- **7762**: Who knows... The next time we meet, I might have to call you "sir."
 
 ## Events
 
@@ -82,7 +82,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7757*)
     → "The path through the Meriphataud Mountains is a treacherous one, with Yagudo zealots hiding behind every rock. Stay alert, or you may find yourself impaled on the end of one of their blades."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -112,19 +112,19 @@
 ```
   0: 0x000C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7757*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
     → "Stand down, civilian! You're not really thinking of journeying through the mountains, are you? You would be crazy to continue, and I would be even more so to allow you the opportunity."
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
     → "Though, if you are eager to put your Goddess-granted life at risk, I can offer you a bit of advice."
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
+  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
     → "The Kingdom of San d'Oria has begun fortifying a citadel located due northwest from this garrison. There are guards there who may be able to assist you on your travels."
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
+  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
     → "There also may be someone with information on recruitment, if you are interested in lending your services to the allied forces."
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+ 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "Who knows... The next time we meet, I might have to call you "sir.""
  11: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0026 [0x21] END_EVENT

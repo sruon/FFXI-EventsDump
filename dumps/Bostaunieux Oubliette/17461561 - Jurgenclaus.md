@@ -31,38 +31,38 @@
 |       6 | 0xFFFFA253  |  4294943315 |
 |       7 | 0x0BB8      |        3000 |
 |       8 | 0x0043      |          67 |
-|       9 | 0x1CCE      |        7374 |
-|      10 | 0x1CCF      |        7375 |
-|      11 | 0x1CD0      |        7376 |
+|       9 | 0x1CCF      |        7375 |
+|      10 | 0x1CD0      |        7376 |
+|      11 | 0x1CD1      |        7377 |
 |      12 | 0x0028      |          40 |
 |      13 | 0x000D      |          13 |
 |      14 | 0x11846     |       71750 |
 |      15 | 0x3980      |       14720 |
 |      16 | 0xFFFFA240  |  4294943296 |
-|      17 | 0x1CD1      |        7377 |
-|      18 | 0x1CD2      |        7378 |
+|      17 | 0x1CD2      |        7378 |
+|      18 | 0x1CD3      |        7379 |
 |      19 | 0x000A      |          10 |
-|      20 | 0x1CD3      |        7379 |
-|      21 | 0x1CD4      |        7380 |
-|      22 | 0x1CD5      |        7381 |
-|      23 | 0x1CD6      |        7382 |
+|      20 | 0x1CD4      |        7380 |
+|      21 | 0x1CD5      |        7381 |
+|      22 | 0x1CD6      |        7382 |
+|      23 | 0x1CD7      |        7383 |
 |      24 | 0x005A      |          90 |
 |      25 | 0x11A25     |       72229 |
 |      26 | 0x1AFF      |        6911 |
 |      27 | 0xFFFFA252  |  4294943314 |
 |      28 | 0x00B4      |         180 |
-|      29 | 0x1CD8      |        7384 |
+|      29 | 0x1CD9      |        7385 |
 |      30 | 0x003C      |          60 |
-|      31 | 0x1CD9      |        7385 |
-|      32 | 0x1CDA      |        7386 |
-|      33 | 0x1CDB      |        7387 |
-|      34 | 0x1CDC      |        7388 |
+|      31 | 0x1CDA      |        7386 |
+|      32 | 0x1CDB      |        7387 |
+|      33 | 0x1CDC      |        7388 |
+|      34 | 0x1CDD      |        7389 |
 
 ## String References
 
-- **7386**: What do ya think you're lookin' at? You don't know nothing about what's really going on under this hellhole do ya? Compared to the sewers, my cell is a palace!
-- **7387**: Oh yeah, I think I heard about some scientists who ran off into the sewers during the war. They say only one got out, but that he was messed up in the head for the rest of his life.
-- **7388**: Rumor has it that there's a way out of there. Maybe the old guy got lucky.
+- **7387**: What do ya think you're lookin' at? You don't know nothing about what's really going on under this hellhole do ya? Compared to the sewers, my cell is a palace!
+- **7388**: Oh yeah, I think I heard about some scientists who ran off into the sewers during the war. They say only one got out, but that he was messed up in the head for the rest of his life.
+- **7389**: Rumor has it that there's a way out of there. Maybe the old guy got lucky.
 
 ## Events
 
@@ -171,7 +171,7 @@
  19: 0x0098 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  20: 0x00A7 [0x27] REQ_SET(priority=0x03, entity_id=Chumia (ID: 17461512/0x010A7108), tag_num=0x03)
  21: 0x00AE [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x11)
- 22: 0x00B5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7374*]:
+ 22: 0x00B5 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7375*]:
     → "Cyranuce? No, you'll not find him here. He is dead. His cellmate was a beastmaster, who somehow called forth a terrible creature and fled."
  23: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00BD [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
@@ -179,12 +179,12 @@
  26: 0x00CA [0x2A] GET_REQ_LEVEL(level=3, entity_id=Chumia (ID: 17461512/0x010A7108))
  27: 0x00D0 [0x4A] LocalPlayer looks at Chumia (ID: 17461512/0x010A7108)
  28: 0x00D9 [0x27] REQ_SET(priority=0x03, entity_id=Chumia (ID: 17461512/0x010A7108), tag_num=0x06)
- 29: 0x00E0 [0x2B] Chumia (ID: 17461512/0x010A7108) [7375*]:
+ 29: 0x00E0 [0x2B] Chumia (ID: 17461512/0x010A7108) [7376*]:
     → "His beast knocked a gaping hole in the wall, so he was home free. But Cyranuce's body was found underneath the creature. It's too bad... We could've saved him if we got here sooner!"
  30: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00E8 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Chumia (ID: 17461512/0x010A7108))
  32: 0x00EE [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Chumia (ID: 17461512/0x010A7108), tag_num=0x07)
- 33: 0x00F5 [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7376*]:
+ 33: 0x00F5 [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7377*]:
     → "Yeah, I know."
  34: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00FD [0x4A] Chumia (ID: 17461512/0x010A7108) looks at Jurgenclaus (ID: 17461561/0x010A7139)
@@ -196,11 +196,11 @@
  41: 0x0134 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  42: 0x0136 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  43: 0x0137 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
- 44: 0x0148 [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7377*]:
+ 44: 0x0148 [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7378*]:
     → "Rahal was jealous of his friend Cyranuce for becoming a dragoon. He set a trap for him, and saw him thrown into this very dungeon."
  45: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0150 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=67*
- 47: 0x015F [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7378*]:
+ 47: 0x015F [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7379*]:
     → "That is how Rahal, the dragonslayer tainted with drakes' blood, seized the office of general. You knights were left in the dark."
  48: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0167 [0x27] REQ_SET(priority=0x03, entity_id=Chumia (ID: 17461512/0x010A7108), tag_num=0x04)
@@ -208,20 +208,20 @@
  51: 0x0171 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
  52: 0x0182 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=67*
  53: 0x0191 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Chumia (ID: 17461512/0x010A7108))
- 54: 0x0197 [0x2B] Chumia (ID: 17461512/0x010A7108) [7379*]:
+ 54: 0x0197 [0x2B] Chumia (ID: 17461512/0x010A7108) [7380*]:
     → "What!? Lies, all of it!"
  55: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x019F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
  57: 0x01B0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=67*
- 58: 0x01BF [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7380*]:
+ 58: 0x01BF [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7381*]:
     → "Lies? Well then, why was Rahal always coming to check on him? He was waiting for Cyranuce to kick the bucket, wasn't he?"
  59: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x01C7 [0x2B] Chumia (ID: 17461512/0x010A7108) [7381*]:
+ 60: 0x01C7 [0x2B] Chumia (ID: 17461512/0x010A7108) [7382*]:
     → "No, it can't be!"
  61: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r005" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
  63: 0x01E0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r005" with entities [LocalPlayer, LocalPlayer], work=67*
- 64: 0x01EF [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7382*]:
+ 64: 0x01EF [0x2B] Jurgenclaus (ID: 17461561/0x010A7139) [7383*]:
     → "Hmph. The only people who can become dragonslayers are those who truly hate them. They're not after treasure or jewels; they just want to exterminate them!"
  65: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01F7 [0x27] REQ_SET(priority=0x03, entity_id=Chumia (ID: 17461512/0x010A7108), tag_num=0x05)
@@ -229,7 +229,7 @@
  68: 0x0201 [0x31] UPDATE_ENTITY_POSITION: Set EventEntity goal position to X=72.229*, Z=6.911*, Y=-23.982*, Time=180*
  69: 0x020B [0x31] UPDATE_ENTITY_POSITION: Move EventEntity towards goal position
  70: 0x020D [0x2A] GET_REQ_LEVEL(level=3, entity_id=Chumia (ID: 17461512/0x010A7108))
- 71: 0x0213 [0x2B] Chumia (ID: 17461512/0x010A7108) [7384*]:
+ 71: 0x0213 [0x2B] Chumia (ID: 17461512/0x010A7108) [7385*]:
     → "Why, you--!"
  72: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x021B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r006" with entities [LocalPlayer, LocalPlayer], work=[67*, 0*]
@@ -239,7 +239,7 @@
  77: 0x0245 [0x1C] WAIT(180* ticks)
  78: 0x0248 [0x4A] LocalPlayer looks at Novalmauge (ID: 17461511/0x010A7107)
  79: 0x0251 [0x27] REQ_SET(priority=0x03, entity_id=Novalmauge (ID: 17461511/0x010A7107), tag_num=0x13)
- 80: 0x0258 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7385*]:
+ 80: 0x0258 [0x2B] Novalmauge (ID: 17461511/0x010A7107) [7386*]:
     → "If you wish to learn of dragons, ask the archeologist, Oiheaurese, in the cathedral. He should know well their lore."
  81: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0260 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Novalmauge (ID: 17461511/0x010A7107))
@@ -278,7 +278,7 @@
 
 ```
   0: 0x02AA [0x1A] CALL_SUBROUTINE(address=0x0340)
-  1: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+  1: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "What do ya think you're lookin' at? You don't know nothing about what's really going on under this hellhole do ya? Compared to the sewers, my cell is a palace!"
   2: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -320,14 +320,14 @@
 ```
   0: 0x02E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   1: 0x02F7 [0x1A] CALL_SUBROUTINE(address=0x0340)
-  2: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7386*)
+  2: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
     → "What do ya think you're lookin' at? You don't know nothing about what's really going on under this hellhole do ya? Compared to the sewers, my cell is a palace!"
   3: 0x02FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02FE [0x5E] EventEntity goes idle (kills current action) (animation: "id10")
-  5: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7387*)
+  5: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
     → "Oh yeah, I think I heard about some scientists who ran off into the sewers during the war. They say only one got out, but that he was messed up in the head for the rest of his life."
   6: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  7: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "Rumor has it that there's a way out of there. Maybe the old guy got lucky."
   8: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x030B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

@@ -27,51 +27,51 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x37F4      |       14324 |
+|       3 | 0x37F5      |       14325 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x37FD      |       14333 |
+|       5 | 0x37FE      |       14334 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x37FE      |       14334 |
+|       7 | 0x37FF      |       14335 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x37FF      |       14335 |
-|      10 | 0x37F5      |       14325 |
-|      11 | 0x3800      |       14336 |
+|       9 | 0x3800      |       14336 |
+|      10 | 0x37F6      |       14326 |
+|      11 | 0x3801      |       14337 |
 |      12 | 0x0889      |        2185 |
-|      13 | 0x37F6      |       14326 |
-|      14 | 0x3801      |       14337 |
-|      15 | 0x37F7      |       14327 |
-|      16 | 0x37F8      |       14328 |
-|      17 | 0x37F9      |       14329 |
+|      13 | 0x37F7      |       14327 |
+|      14 | 0x3802      |       14338 |
+|      15 | 0x37F8      |       14328 |
+|      16 | 0x37F9      |       14329 |
+|      17 | 0x37FA      |       14330 |
 |      18 | 0x010A      |         266 |
 |      19 | 0x012C      |         300 |
 |      20 | 0x00C8      |         200 |
 |      21 | 0x003C      |          60 |
-|      22 | 0x37FA      |       14330 |
-|      23 | 0x37FB      |       14331 |
-|      24 | 0x37FC      |       14332 |
-|      25 | 0x3802      |       14338 |
-|      26 | 0x3803      |       14339 |
-|      27 | 0x3804      |       14340 |
+|      22 | 0x37FB      |       14331 |
+|      23 | 0x37FC      |       14332 |
+|      24 | 0x37FD      |       14333 |
+|      25 | 0x3803      |       14339 |
+|      26 | 0x3804      |       14340 |
+|      27 | 0x3805      |       14341 |
 
 ## String References
 
-- **14324**: Greetings... I see you have been drawn in by the spectacle of my massive magical aura... Do not be embarrassed. You are not the first.
-- **14325**: Perhaps I shall bless you with a demonstration? I can snatch you up in an eldritch embrace and transport you to a far-off land. How does Jeuno sound?
-- **14326**: But I must have a tribute to match my brilliance... Ah yes, $0 would be perfect!
-- **14327**: There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself whisked to the center of Jeuno in a twinkling...
-- **14328**: I see you have brought me my $0. Your tribute has bought you a first-class ticket to the Duchy of Jeuno!
-- **14329**: Prepare yourself for the height of teleportation excellence!
-- **14330**: That smell... You reek of amateur sorcery.
-- **14331**: It seems my superior services have been spurned for back-alley parlor tricks.
-- **14332**: I'll thank you to take that offensive stink elsewhere.
-- **14333**: I see you have developed a fondness for my mystical magnificence.
-- **14334**: Again, you come to me. You can never forget the enchanted exhiliration that accompanies a top-class teleportation...
-- **14335**: You are a slave to my superlative spellcraft.
-- **14336**: And since you find me in high spirits this day, I will even consent to transport you to the nation of your allegiance.
-- **14337**: There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself instantly whisked to the center of your destination...
-- **14338**: Have you decided the destination for this intoxicating transit?
-- **14339**: Your destination? [The Duchy of Jeuno./Nation of allegiance.]
-- **14340**: I see you have brought me my $0. Your tribute has bought you a first-class ticket to [the Kingdom of San d'Oria/the Republic of Bastok/the Federation of Windurst]!
+- **14325**: Greetings... I see you have been drawn in by the spectacle of my massive magical aura... Do not be embarrassed. You are not the first.
+- **14326**: Perhaps I shall bless you with a demonstration? I can snatch you up in an eldritch embrace and transport you to a far-off land. How does Jeuno sound?
+- **14327**: But I must have a tribute to match my brilliance... Ah yes, $0 would be perfect!
+- **14328**: There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself whisked to the center of Jeuno in a twinkling...
+- **14329**: I see you have brought me my $0. Your tribute has bought you a first-class ticket to the Duchy of Jeuno!
+- **14330**: Prepare yourself for the height of teleportation excellence!
+- **14331**: That smell... You reek of amateur sorcery.
+- **14332**: It seems my superior services have been spurned for back-alley parlor tricks.
+- **14333**: I'll thank you to take that offensive stink elsewhere.
+- **14334**: I see you have developed a fondness for my mystical magnificence.
+- **14335**: Again, you come to me. You can never forget the enchanted exhiliration that accompanies a top-class teleportation...
+- **14336**: You are a slave to my superlative spellcraft.
+- **14337**: And since you find me in high spirits this day, I will even consent to transport you to the nation of your allegiance.
+- **14338**: There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself instantly whisked to the center of your destination...
+- **14339**: Have you decided the destination for this intoxicating transit?
+- **14340**: Your destination? [The Duchy of Jeuno./Nation of allegiance.]
+- **14341**: I see you have brought me my $0. Your tribute has bought you a first-class ticket to [the Kingdom of San d'Oria/the Republic of Bastok/the Federation of Windurst]!
 
 ## Events
 
@@ -134,47 +134,47 @@
   3: 0x0013 [0x1C] WAIT(30* ticks)
   4: 0x0016 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
   5: 0x0025 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0034
-  6: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=14324*)
+  6: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=14325*)
     → "Greetings... I see you have been drawn in by the spectacle of my massive magical aura... Do not be embarrassed. You are not the first."
   7: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0031 [0x01] GOTO 0x0061
   9: 0x0034 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0043
- 10: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=14333*)
+ 10: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=14334*)
     → "I see you have developed a fondness for my mystical magnificence."
  11: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0040 [0x01] GOTO 0x0061
  13: 0x0043 [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0052
- 14: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=14334*)
+ 14: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=14335*)
     → "Again, you come to me. You can never forget the enchanted exhiliration that accompanies a top-class teleportation..."
  15: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x004F [0x01] GOTO 0x0061
  17: 0x0052 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0061
- 18: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=14335*)
+ 18: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=14336*)
     → "You are a slave to my superlative spellcraft."
  19: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x005E [0x01] GOTO 0x0061
 
 SUBROUTINE_0061:
- 21: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=14325*)
+ 21: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=14326*)
     → "Perhaps I shall bless you with a demonstration? I can snatch you up in an eldritch embrace and transport you to a far-off land. How does Jeuno sound?"
  22: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0065 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x0071
- 24: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=14336*)
+ 24: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=14337*)
     → "And since you find me in high spirits this day, I will even consent to transport you to the nation of your allegiance."
  25: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0071 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=40*
  27: 0x0080 [0x03] Work_Zone[2] = 2185*
- 28: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=14326*)
+ 28: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=14327*)
     → "But I must have a tribute to match my brilliance... Ah yes, $0 would be perfect!"
  29: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0089 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
  31: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
  32: 0x00A5 [0x02] IF !(Work_Zone[4] == 3*) GOTO 0x00B4
- 33: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=14337*)
+ 33: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=14338*)
     → "There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself instantly whisked to the center of your destination..."
  34: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00B1 [0x01] GOTO 0x00B8
- 36: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14327*)
+ 36: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
     → "There is no hurry--the stream of time shall wait for one such as I. When you are prepared, trade me the treasure I ask for and you will find yourself whisked to the center of Jeuno in a twinkling..."
  37: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -217,11 +217,11 @@ SUBROUTINE_00B8:
   4: 0x00D2 [0x79] EventEntity looks at LocalPlayer (Basic look)
   5: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
   6: 0x00EB [0x03] Work_Zone[2] = 2185*
-  7: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
+  7: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
     → "I see you have brought me my $0. Your tribute has bought you a first-class ticket to the Duchy of Jeuno!"
   8: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00F4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
- 10: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
+ 10: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
     → "Prepare yourself for the height of teleportation excellence!"
  11: 0x0104 [0x03] Work_Zone[1] = 1*
  12: 0x0109 [0x73] Kaduru-Haiduru (ID: 16982118/0x01032066) casts magic 266* on LocalPlayer
@@ -266,16 +266,16 @@ SUBROUTINE_00B8:
   4: 0x013C [0x79] EventEntity looks at LocalPlayer (Basic look)
   5: 0x0146 [0x1C] WAIT(30* ticks)
   6: 0x0149 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
+  7: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
     → "That smell... You reek of amateur sorcery."
   8: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x015C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=40*
- 10: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
+ 10: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
     → "It seems my superior services have been spurned for back-alley parlor tricks."
  11: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x016F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
  13: 0x017C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
- 14: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
+ 14: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=14333*)
     → "I'll thank you to take that offensive stink elsewhere."
  15: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x018F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
@@ -321,20 +321,20 @@ SUBROUTINE_00B8:
   2: 0x01A1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01A6 [0x1C] WAIT(30* ticks)
   4: 0x01A9 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  5: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14338*)
+  5: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14339*)
     → "Have you decided the destination for this intoxicating transit?"
   6: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01B7 [0x24] CREATE_DIALOG(message_id=14339*, default_option=0*, option_flags=0*)
+  7: 0x01B7 [0x24] CREATE_DIALOG(message_id=14340*, default_option=0*, option_flags=0*)
     → "Your destination? [The Duchy of Jeuno./Nation of allegiance.]"
   8: 0x01BE [0x25] WAIT_DIALOG_SELECT()
   9: 0x01BF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021B
  10: 0x01C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
  11: 0x01D6 [0x03] Work_Zone[2] = 2185*
- 12: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
+ 12: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
     → "I see you have brought me my $0. Your tribute has bought you a first-class ticket to the Duchy of Jeuno!"
  13: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01DF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
- 15: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
+ 15: 0x01EC [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
     → "Prepare yourself for the height of teleportation excellence!"
  16: 0x01EF [0x03] Work_Zone[1] = 1*
  17: 0x01F4 [0x73] Kaduru-Haiduru (ID: 16982118/0x01032066) casts magic 266* on LocalPlayer
@@ -346,11 +346,11 @@ SUBROUTINE_00B8:
  23: 0x021B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0277
  24: 0x0223 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
  25: 0x0232 [0x03] Work_Zone[2] = 2185*
- 26: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=14340*)
+ 26: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=14341*)
     → "I see you have brought me my $0. Your tribute has bought you a first-class ticket to [the Kingdom of San d'Oria/the Republic of Bastok/the Federation of Windurst]!"
  27: 0x023A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x023B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
- 29: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
+ 29: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
     → "Prepare yourself for the height of teleportation excellence!"
  30: 0x024B [0x03] Work_Zone[1] = 2*
  31: 0x0250 [0x73] Kaduru-Haiduru (ID: 16982118/0x01032066) casts magic 266* on LocalPlayer
@@ -398,12 +398,12 @@ SUBROUTINE_0277:
   4: 0x0286 [0x79] EventEntity looks at LocalPlayer (Basic look)
   5: 0x0290 [0x1C] WAIT(30* ticks)
   6: 0x0293 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=40*
-  7: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14331*)
+  7: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
     → "It seems my superior services have been spurned for back-alley parlor tricks."
   8: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02A6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]
  10: 0x02B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14332*)
+ 11: 0x02C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14333*)
     → "I'll thank you to take that offensive stink elsewhere."
  12: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x02C6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]

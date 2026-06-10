@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D01      |        7425 |
-|       1 | 0x1D02      |        7426 |
-|       2 | 0x1D03      |        7427 |
-|       3 | 0x1D04      |        7428 |
-|       4 | 0x1D05      |        7429 |
-|       5 | 0x1D06      |        7430 |
+|       0 | 0x1D02      |        7426 |
+|       1 | 0x1D03      |        7427 |
+|       2 | 0x1D04      |        7428 |
+|       3 | 0x1D05      |        7429 |
+|       4 | 0x1D06      |        7430 |
+|       5 | 0x1D07      |        7431 |
 
 ## String References
 
-- **7425**: You see a message engraved on the stone:
-- **7426**: Here where the warm Garuda winds blow, rolanberries are cultivated in great orchards.
-- **7427**: These berries are famous for their sharp, tingling tartness. And it's not just the Galka who appreciate a rolanberry pie to cleanse the palate after a meal.
-- **7428**: These humble berries also warm the hearts of carnivorous beastmen, and guards have been posted against Goblin thieves and Yagudo raiders.
-- **7429**: The most valuable berries are stockpiled by insects, who use a special secretion to store them. This results in an exceptionally tart preserve, popular with connoisseurs.
-- **7430**: The village of Jeuno has benefited greatly from the harvests here, and the bounty of the sea. They seem well on their way to statehood. --Gwynham Ironheart, 757 Crystal Era.
+- **7426**: You see a message engraved on the stone:
+- **7427**: Here where the warm Garuda winds blow, rolanberries are cultivated in great orchards.
+- **7428**: These berries are famous for their sharp, tingling tartness. And it's not just the Galka who appreciate a rolanberry pie to cleanse the palate after a meal.
+- **7429**: These humble berries also warm the hearts of carnivorous beastmen, and guards have been posted against Goblin thieves and Yagudo raiders.
+- **7430**: The most valuable berries are stockpiled by insects, who use a special secretion to store them. This results in an exceptionally tart preserve, popular with connoisseurs.
+- **7431**: The village of Jeuno has benefited greatly from the harvests here, and the bounty of the sea. They seem well on their way to statehood. --Gwynham Ironheart, 757 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7425*]:
+  0: 0x0001 [0x48] [System] [7426*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7426*]:
+  2: 0x0005 [0x48] [System] [7427*]:
     → "Here where the warm Garuda winds blow, rolanberries are cultivated in great orchards."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7427*]:
+  4: 0x0009 [0x48] [System] [7428*]:
     → "These berries are famous for their sharp, tingling tartness. And it's not just the Galka who appreciate a rolanberry pie to cleanse the palate after a meal."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7428*]:
+  6: 0x000D [0x48] [System] [7429*]:
     → "These humble berries also warm the hearts of carnivorous beastmen, and guards have been posted against Goblin thieves and Yagudo raiders."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7429*]:
+  8: 0x0011 [0x48] [System] [7430*]:
     → "The most valuable berries are stockpiled by insects, who use a special secretion to store them. This results in an exceptionally tart preserve, popular with connoisseurs."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7430*]:
+ 10: 0x0015 [0x48] [System] [7431*]:
     → "The village of Jeuno has benefited greatly from the harvests here, and the bounty of the sea. They seem well on their way to statehood. --Gwynham Ironheart, 757 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

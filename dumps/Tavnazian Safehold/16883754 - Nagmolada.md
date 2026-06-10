@@ -32,7 +32,7 @@
 |       5 | 0x09AD      |        2477 |
 |       6 | 0xFFFF9139  |  4294938937 |
 |       7 | 0x06CE      |        1742 |
-|       8 | 0x26C6      |        9926 |
+|       8 | 0x26C7      |        9927 |
 |       9 | 0xFFFFFE0C  |  4294966796 |
 |      10 | 0xFFFFFC98  |  4294966424 |
 |      11 | 0xFFFFAA92  |  4294945426 |
@@ -156,7 +156,7 @@
 #### Opcodes
 
 ```
-  0: 0x0022 [0x2B] Justinius (ID: 16883755/0x0101A02B) [9926*]:
+  0: 0x0022 [0x2B] Justinius (ID: 16883755/0x0101A02B) [9927*]:
     → "Ah, your timing is excellent. Our leader has returned."
   1: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002A [0x00] END_REQSTACK()

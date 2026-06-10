@@ -22,10 +22,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DE0      |        7648 |
+|       0 | 0x1DE1      |        7649 |
 |       1 | 0x02C4      |         708 |
-|       2 | 0x1DE2      |        7650 |
-|       3 | 0x1DDF      |        7647 |
+|       2 | 0x1DE3      |        7651 |
+|       3 | 0x1DE0      |        7648 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x00C9      |         201 |
@@ -35,16 +35,16 @@
 |      10 | 0x0078      |         120 |
 |      11 | 0x005A      |          90 |
 |      12 | 0x00C8      |         200 |
-|      13 | 0x1DE1      |        7649 |
-|      14 | 0x1DDB      |        7643 |
+|      13 | 0x1DE2      |        7650 |
+|      14 | 0x1DDC      |        7644 |
 
 ## String References
 
-- **7643**: Investigate the portal? [Yes./No.]
-- **7647**: Hold up the $3? [Yes./No.]
-- **7648**: This portal only allows passage in one direction.
-- **7649**: This portal has been badly damaged...
-- **7650**: The $3 is humming in response to the device...
+- **7644**: Investigate the portal? [Yes./No.]
+- **7648**: Hold up the $3? [Yes./No.]
+- **7649**: This portal only allows passage in one direction.
+- **7650**: This portal has been badly damaged...
+- **7651**: The $3 is humming in response to the device...
 
 ## Events
 
@@ -103,14 +103,14 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7648*]:
+  1: 0x0003 [0x48] [System] [7649*]:
     → "This portal only allows passage in one direction."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 708*
-  4: 0x000C [0x48] [System] [7650*]:
+  4: 0x000C [0x48] [System] [7651*]:
     → "The $3 is humming in response to the device..."
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0010 [0x24] CREATE_DIALOG(message_id=7647*, default_option=1*, option_flags=0*)
+  6: 0x0010 [0x24] CREATE_DIALOG(message_id=7648*, default_option=1*, option_flags=0*)
     → "Hold up the $3? [Yes./No.]"
   7: 0x0017 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0018 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BE
@@ -180,10 +180,10 @@ SUBROUTINE_00CE:
 
 ```
   0: 0x00D2 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00D4 [0x48] [System] [7649*]:
+  1: 0x00D4 [0x48] [System] [7650*]:
     → "This portal has been badly damaged..."
   2: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00D8 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
+  3: 0x00D8 [0x24] CREATE_DIALOG(message_id=7644*, default_option=1*, option_flags=0*)
     → "Investigate the portal? [Yes./No.]"
   4: 0x00DF [0x25] WAIT_DIALOG_SELECT()
   5: 0x00E0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0186
@@ -254,10 +254,10 @@ SUBROUTINE_0196:
 
 ```
   0: 0x019A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x019C [0x48] [System] [7649*]:
+  1: 0x019C [0x48] [System] [7650*]:
     → "This portal has been badly damaged..."
   2: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01A0 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
+  3: 0x01A0 [0x24] CREATE_DIALOG(message_id=7644*, default_option=1*, option_flags=0*)
     → "Investigate the portal? [Yes./No.]"
   4: 0x01A7 [0x25] WAIT_DIALOG_SELECT()
   5: 0x01A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024E

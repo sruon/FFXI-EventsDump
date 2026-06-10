@@ -22,61 +22,61 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F54      |        8020 |
+|       0 | 0x1F55      |        8021 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x1F55      |        8021 |
-|       3 | 0x1F56      |        8022 |
-|       4 | 0x1F57      |        8023 |
-|       5 | 0x1F58      |        8024 |
-|       6 | 0x1F59      |        8025 |
-|       7 | 0x1F5A      |        8026 |
-|       8 | 0x1F5B      |        8027 |
+|       2 | 0x1F56      |        8022 |
+|       3 | 0x1F57      |        8023 |
+|       4 | 0x1F58      |        8024 |
+|       5 | 0x1F59      |        8025 |
+|       6 | 0x1F5A      |        8026 |
+|       7 | 0x1F5B      |        8027 |
+|       8 | 0x1F5C      |        8028 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1F5C      |        8028 |
+|      10 | 0x1F5D      |        8029 |
 |      11 | 0x0000      |           0 |
-|      12 | 0x1F5D      |        8029 |
-|      13 | 0x1F5E      |        8030 |
-|      14 | 0x1F5F      |        8031 |
-|      15 | 0x1F60      |        8032 |
-|      16 | 0x1F61      |        8033 |
-|      17 | 0x1F63      |        8035 |
-|      18 | 0x1F64      |        8036 |
-|      19 | 0x1F65      |        8037 |
-|      20 | 0x1F66      |        8038 |
-|      21 | 0x1F67      |        8039 |
-|      22 | 0x1F68      |        8040 |
-|      23 | 0x1F69      |        8041 |
+|      12 | 0x1F5E      |        8030 |
+|      13 | 0x1F5F      |        8031 |
+|      14 | 0x1F60      |        8032 |
+|      15 | 0x1F61      |        8033 |
+|      16 | 0x1F62      |        8034 |
+|      17 | 0x1F64      |        8036 |
+|      18 | 0x1F65      |        8037 |
+|      19 | 0x1F66      |        8038 |
+|      20 | 0x1F67      |        8039 |
+|      21 | 0x1F68      |        8040 |
+|      22 | 0x1F69      |        8041 |
+|      23 | 0x1F6A      |        8042 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x1F62      |        8034 |
-|      26 | 0x1F74      |        8052 |
-|      27 | 0x1F75      |        8053 |
+|      25 | 0x1F63      |        8035 |
+|      26 | 0x1F75      |        8053 |
+|      27 | 0x1F76      |        8054 |
 
 ## String References
 
-- **8020**: You there! I've not seen your face before. Are you another surrrvivor from the airship?
-- **8021**: What airship!? Hoo boy, you must have hit your head hard in that crash. Why, nearly all of us in the chasm are survivors from the airship wrrreck.
-- **8022**: We lifted off from Jeuno just as the hordes were breaching the city walls. Thought we were home frrree, we did, until we came under attack by a veritable storm of ghastly flying fiends.
-- **8023**: We quickly lost prrropulsion and plummeted to the bottom of the chasm. It was only by a stroke of fortune that the majority of us survived.
-- **8024**: A few members of the Ducal Guard who were on board with us sprrrung into action and led us up here. I'm grrrateful, of course, even if our situation is little better than it was.
-- **8025**: ...But of course, none of this is ringing a bell for you, because you weren't on that ship, were you? Look, I don't know how you've managed to survive out there on your own, but it's clear you're tough as hell and we could really use the help of someone like you.
-- **8026**: There's another camp here in the chasm, where our most able-bodied survivors are locked in a strrruggle to keep the hordes at bay.
-- **8027**: We've only just met, but I think you'd be a great asset to their cause. What do you say?
-- **8028**: Join the resistance effort? [Resistance effort?/Count me in!/Thanks, but no thanks.]
-- **8029**: I suppose I should explain. Attohwa has been overrun by an army of truly fearsome creations, you see. Made of metal, they show almost no signs of sentience, yet they attack us with a vengeance.
-- **8030**: What's more, there's something coldly calculating about their attack patterns. Why, it's as if they've even grrrasped the importance of the pulse martello!
-- **8031**: ...But I digress. Surely, you can see our plight? The fight for survival requires every able man and woman to take up arms...
-- **8032**: Most vital of all is the defense of the pulse martello and the clone wards. Why, if they were to fall, it'd be currrtains for all of us...!
-- **8033**: ...Sorry, I've gotten ahead of myself again. If you're willing to join our cause, make your way to the outpost and speak to the prefect there. You'll get a far more detailed briefing on the situation than I could hope to give you.
-- **8034**: Forgive me. I should not have presumed upon a strrranger to take an interest in our plight...
-- **8035**: Thank you everrr so much! With you on our side, we might just stand a chance against those diabolical things!
-- **8036**: ...Ah! I don't mean to impose, but if you're heading for the outpost anyway, perhaps you could help us out with another small task.
-- **8037**: To make a long story short, a rrregiment charged with delivering a shipment of essential supplies to the outpost was ambushed not far from here.
-- **8038**: Our comrades lost their lives and the supplies were scattered across the chasm. It'd be a great help if you could rrrecover and deliver them to their intended destination.
-- **8039**: Oh, grrracious no. You don't need to track down all of them. Let's see... Yes, I believe $0 or so would be sufficient to keep the outpost rrrunning for the time being.
-- **8040**: You can deliver them to Morlepiche, a former Ducal Guardsman now serving as an officer in the Resistance. He will be most grrrateful for your help, I'm sure.
-- **8041**: I feel I've forgotten something important...oh yes! To reach the outpost, you'll want to travel northwest from here, past the searing ward. The path is winding and trrreacherous, with fiends lurking around every bend. Take care, you hear?
-- **8052**: Nearly everyone you'll encounter in the chasm--civilian and soldier alike--is a surrrvivor from the fallen airship.
-- **8053**: ...Though come to think of it, you're neitherrr. Wherever did you...? Ah, it matters not. What matters is that you're on our side now!
+- **8021**: You there! I've not seen your face before. Are you another surrrvivor from the airship?
+- **8022**: What airship!? Hoo boy, you must have hit your head hard in that crash. Why, nearly all of us in the chasm are survivors from the airship wrrreck.
+- **8023**: We lifted off from Jeuno just as the hordes were breaching the city walls. Thought we were home frrree, we did, until we came under attack by a veritable storm of ghastly flying fiends.
+- **8024**: We quickly lost prrropulsion and plummeted to the bottom of the chasm. It was only by a stroke of fortune that the majority of us survived.
+- **8025**: A few members of the Ducal Guard who were on board with us sprrrung into action and led us up here. I'm grrrateful, of course, even if our situation is little better than it was.
+- **8026**: ...But of course, none of this is ringing a bell for you, because you weren't on that ship, were you? Look, I don't know how you've managed to survive out there on your own, but it's clear you're tough as hell and we could really use the help of someone like you.
+- **8027**: There's another camp here in the chasm, where our most able-bodied survivors are locked in a strrruggle to keep the hordes at bay.
+- **8028**: We've only just met, but I think you'd be a great asset to their cause. What do you say?
+- **8029**: Join the resistance effort? [Resistance effort?/Count me in!/Thanks, but no thanks.]
+- **8030**: I suppose I should explain. Attohwa has been overrun by an army of truly fearsome creations, you see. Made of metal, they show almost no signs of sentience, yet they attack us with a vengeance.
+- **8031**: What's more, there's something coldly calculating about their attack patterns. Why, it's as if they've even grrrasped the importance of the pulse martello!
+- **8032**: ...But I digress. Surely, you can see our plight? The fight for survival requires every able man and woman to take up arms...
+- **8033**: Most vital of all is the defense of the pulse martello and the clone wards. Why, if they were to fall, it'd be currrtains for all of us...!
+- **8034**: ...Sorry, I've gotten ahead of myself again. If you're willing to join our cause, make your way to the outpost and speak to the prefect there. You'll get a far more detailed briefing on the situation than I could hope to give you.
+- **8035**: Forgive me. I should not have presumed upon a strrranger to take an interest in our plight...
+- **8036**: Thank you everrr so much! With you on our side, we might just stand a chance against those diabolical things!
+- **8037**: ...Ah! I don't mean to impose, but if you're heading for the outpost anyway, perhaps you could help us out with another small task.
+- **8038**: To make a long story short, a rrregiment charged with delivering a shipment of essential supplies to the outpost was ambushed not far from here.
+- **8039**: Our comrades lost their lives and the supplies were scattered across the chasm. It'd be a great help if you could rrrecover and deliver them to their intended destination.
+- **8040**: Oh, grrracious no. You don't need to track down all of them. Let's see... Yes, I believe $0 or so would be sufficient to keep the outpost rrrunning for the time being.
+- **8041**: You can deliver them to Morlepiche, a former Ducal Guardsman now serving as an officer in the Resistance. He will be most grrrateful for your help, I'm sure.
+- **8042**: I feel I've forgotten something important...oh yes! To reach the outpost, you'll want to travel northwest from here, past the searing ward. The path is winding and trrreacherous, with fiends lurking around every bend. Take care, you hear?
+- **8053**: Nearly everyone you'll encounter in the chasm--civilian and soldier alike--is a surrrvivor from the fallen airship.
+- **8054**: ...Though come to think of it, you're neitherrr. Wherever did you...? Ah, it matters not. What matters is that you're on our side now!
 
 ## Events
 
@@ -144,54 +144,54 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "You there! I've not seen your face before. Are you another surrrvivor from the airship?"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "What airship!? Hoo boy, you must have hit your head hard in that crash. Why, nearly all of us in the chasm are survivors from the airship wrrreck."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
     → "We lifted off from Jeuno just as the hordes were breaching the city walls. Thought we were home frrree, we did, until we came under attack by a veritable storm of ghastly flying fiends."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8023*)
+ 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
     → "We quickly lost prrropulsion and plummeted to the bottom of the chasm. It was only by a stroke of fortune that the majority of us survived."
  11: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0027 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 13: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
+ 13: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
     → "A few members of the Ducal Guard who were on board with us sprrrung into action and led us up here. I'm grrrateful, of course, even if our situation is little better than it was."
  14: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 16: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
+ 16: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
     → "...But of course, none of this is ringing a bell for you, because you weren't on that ship, were you? Look, I don't know how you've managed to survive out there on your own, but it's clear you're tough as hell and we could really use the help of someone like you."
  17: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+ 18: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
     → "There's another camp here in the chasm, where our most able-bodied survivors are locked in a strrruggle to keep the hordes at bay."
  19: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
+ 20: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "We've only just met, but I think you'd be a great asset to their cause. What do you say?"
  21: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
  23: 0x0064 [0x05] ExtData[1]->WorkLocal[0] = 1
  24: 0x0067 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0133
- 25: 0x006F [0x24] CREATE_DIALOG(message_id=8028*, default_option=0*, option_flags=0*)
+ 25: 0x006F [0x24] CREATE_DIALOG(message_id=8029*, default_option=0*, option_flags=0*)
     → "Join the resistance effort? [Resistance effort?/Count me in!/Thanks, but no thanks.]"
  26: 0x0076 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0077 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
  28: 0x007F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 29: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
+ 29: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
     → "I suppose I should explain. Attohwa has been overrun by an army of truly fearsome creations, you see. Made of metal, they show almost no signs of sentience, yet they attack us with a vengeance."
  30: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=8030*)
+ 31: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
     → "What's more, there's something coldly calculating about their attack patterns. Why, it's as if they've even grrrasped the importance of the pulse martello!"
  32: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8031*)
+ 33: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
     → "...But I digress. Surely, you can see our plight? The fight for survival requires every able man and woman to take up arms..."
  34: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
+ 35: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "Most vital of all is the defense of the pulse martello and the clone wards. Why, if they were to fall, it'd be currrtains for all of us...!"
  36: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
+ 37: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=8034*)
     → "...Sorry, I've gotten ahead of myself again. If you're willing to join our cause, make your way to the outpost and speak to the prefect there. You'll get a far more detailed briefing on the situation than I could hope to give you."
  38: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -201,34 +201,34 @@
  43: 0x00BC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0119
  44: 0x00C4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  45: 0x00C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 46: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
+ 46: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
     → "Thank you everrr so much! With you on our side, we might just stand a chance against those diabolical things!"
  47: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
- 49: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+ 49: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "...Ah! I don't mean to impose, but if you're heading for the outpost anyway, perhaps you could help us out with another small task."
  50: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
- 52: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+ 52: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "To make a long story short, a rrregiment charged with delivering a shipment of essential supplies to the outpost was ambushed not far from here."
  53: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+ 54: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "Our comrades lost their lives and the supplies were scattered across the chasm. It'd be a great help if you could rrrecover and deliver them to their intended destination."
  55: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+ 56: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "Oh, grrracious no. You don't need to track down all of them. Let's see... Yes, I believe $0 or so would be sufficient to keep the outpost rrrunning for the time being."
  57: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+ 58: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "You can deliver them to Morlepiche, a former Ducal Guardsman now serving as an officer in the Resistance. He will be most grrrateful for your help, I'm sure."
  59: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
+ 60: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
     → "I feel I've forgotten something important...oh yes! To reach the outpost, you'll want to travel northwest from here, past the searing ward. The path is winding and trrreacherous, with fiends lurking around every bend. Take care, you hear?"
  61: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x010E [0x06] ExtData[1]->WorkLocal[0] = 0
  63: 0x0111 [0x03] Work_Zone[1] = 1*
  64: 0x0116 [0x01] GOTO 0x0130
  65: 0x0119 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0130
- 66: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8034*)
+ 66: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
     → "Forgive me. I should not have presumed upon a strrranger to take an interest in our plight..."
  67: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0125 [0x06] ExtData[1]->WorkLocal[0] = 0
@@ -268,19 +268,19 @@ SUBROUTINE_0130:
   1: 0x0149 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
+  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
     → "To make a long story short, a rrregiment charged with delivering a shipment of essential supplies to the outpost was ambushed not far from here."
   5: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8038*)
+  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
     → "Our comrades lost their lives and the supplies were scattered across the chasm. It'd be a great help if you could rrrecover and deliver them to their intended destination."
   7: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8039*)
+  8: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
     → "Oh, grrracious no. You don't need to track down all of them. Let's see... Yes, I believe $0 or so would be sufficient to keep the outpost rrrunning for the time being."
   9: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+ 10: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "You can deliver them to Morlepiche, a former Ducal Guardsman now serving as an officer in the Resistance. He will be most grrrateful for your help, I'm sure."
  11: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
+ 12: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
     → "I feel I've forgotten something important...oh yes! To reach the outpost, you'll want to travel northwest from here, past the searing ward. The path is winding and trrreacherous, with fiends lurking around every bend. Take care, you hear?"
  13: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x016E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -309,10 +309,10 @@ SUBROUTINE_0130:
 
 ```
   0: 0x017F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
+  1: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "Nearly everyone you'll encounter in the chasm--civilian and soldier alike--is a surrrvivor from the fallen airship."
   2: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
+  3: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=8054*)
     → "...Though come to think of it, you're neitherrr. Wherever did you...? Ah, it matters not. What matters is that you're on our side now!"
   4: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x018C [0x21] END_EVENT

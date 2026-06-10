@@ -22,27 +22,27 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x3582      |       13698 |
-|       3 | 0x3583      |       13699 |
+|       2 | 0x3583      |       13699 |
+|       3 | 0x3584      |       13700 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x3584      |       13700 |
-|       7 | 0x3585      |       13701 |
-|       8 | 0x3586      |       13702 |
-|       9 | 0x3587      |       13703 |
-|      10 | 0x3588      |       13704 |
+|       6 | 0x3585      |       13701 |
+|       7 | 0x3586      |       13702 |
+|       8 | 0x3587      |       13703 |
+|       9 | 0x3588      |       13704 |
+|      10 | 0x3589      |       13705 |
 |      11 | 0x0019      |          25 |
 |      12 | 0x0F2F      |        3887 |
 |      13 | 0x61A8      |       25000 |
-|      14 | 0x358C      |       13708 |
-|      15 | 0x358D      |       13709 |
+|      14 | 0x358D      |       13709 |
+|      15 | 0x358E      |       13710 |
 |      16 | 0x0014      |          20 |
 |      17 | 0x0018      |          24 |
 |      18 | 0x0007      |           7 |
 |      19 | 0x000A      |          10 |
-|      20 | 0x3589      |       13705 |
-|      21 | 0x358A      |       13706 |
-|      22 | 0x358B      |       13707 |
+|      20 | 0x358A      |       13706 |
+|      21 | 0x358B      |       13707 |
+|      22 | 0x358C      |       13708 |
 |      23 | 0x00C8      |         200 |
 |      24 | 0x001B      |          27 |
 |      25 | 0x000C      |          12 |
@@ -59,12 +59,12 @@
 |      36 | 0x0066      |         102 |
 |      37 | 0x001E      |          30 |
 |      38 | 0x0081      |         129 |
-|      39 | 0x358E      |       13710 |
+|      39 | 0x358F      |       13711 |
 |      40 | 0x003E      |          62 |
 |      41 | 0x0004      |           4 |
 |      42 | 0x001F      |          31 |
 |      43 | 0x0013      |          19 |
-|      44 | 0x3594      |       13716 |
+|      44 | 0x3595      |       13717 |
 |      45 | 0x000B      |          11 |
 |      46 | 0x000F      |          15 |
 |      47 | 0x0010      |          16 |
@@ -72,50 +72,50 @@
 |      49 | 0x0017      |          23 |
 |      50 | 0x0006      |           6 |
 |      51 | 0x0009      |           9 |
-|      52 | 0x3593      |       13715 |
-|      53 | 0x358F      |       13711 |
+|      52 | 0x3594      |       13716 |
+|      53 | 0x3590      |       13712 |
 |      54 | 0x0097      |         151 |
-|      55 | 0x359D      |       13725 |
+|      55 | 0x359E      |       13726 |
 |      56 | 0x0600      |        1536 |
 |      57 | 0x07C0      |        1984 |
-|      58 | 0x3592      |       13714 |
-|      59 | 0x3595      |       13717 |
+|      58 | 0x3593      |       13715 |
+|      59 | 0x3596      |       13718 |
 |      60 | 0x00F0      |         240 |
-|      61 | 0x3598      |       13720 |
-|      62 | 0x359A      |       13722 |
+|      61 | 0x3599      |       13721 |
+|      62 | 0x359B      |       13723 |
 |      63 | 0x01AA      |         426 |
-|      64 | 0x3599      |       13721 |
-|      65 | 0x359B      |       13723 |
-|      66 | 0x3597      |       13719 |
-|      67 | 0x359C      |       13724 |
+|      64 | 0x359A      |       13722 |
+|      65 | 0x359C      |       13724 |
+|      66 | 0x3598      |       13720 |
+|      67 | 0x359D      |       13725 |
 
 ## String References
 
-- **13698**: Merry Starlight, and welcome to the job guessing-wessing booth!
-- **13699**: Look at those mighty warm mittens! How'd you like to try something super-duper difficult?
-- **13700**: What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my synthesis materials./Not interested in playing, thank you.]
-- **13701**: Your task, if you choose to acceptaru it, is to guess what the jobs of a group of Tarutaru are.
-- **13702**: There will be more jobs to guess in the advanced version. Can't have things being too easy-weasy!
-- **13703**: If you guess correctaru, you'll score a critical-witical hit (CH). If you're wrong, but there's another Tarutaru with that job, you'll score a hitaru. Each time I'll tell you the total number.
-- **13704**: If you correctly guess all five jobs, you win! If you can't completaru the game within ten tries, you lose!
-- **13705**: All the thrilly-wills you can comprehend for the small fee of $1 gil per play! What do you say?
-- **13706**: Test your skills? (You currently have $1 gil.) [You bet!/I'm not so sure...]
-- **13707**: Greataru choice!
-- **13708**: Well...all right. But just because I likey-wike your face. I'll part with this $0 for $1 gil.
-- **13709**: Would you like to purchase this material? [Yes./No.]
-- **13710**: Select which Tarutaru's job? (attempt #$1) [Tarutaru 1: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 2: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 3: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 4: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 5: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./See if this one is correct!/View previous guesses./Give up.]
-- **13711**: Completely give up? [Yes./No.]
-- **13714**: Which job would you like to set? (Tarutaru $1) [WAR./MNK./WHM./BLM./RDM./THF./PLD./DRK./BST./BRD./RNG./Back.]
-- **13715**: -------------------------------
-- **13716**: Try No. $2: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG] - CHF$3 / HF$4
-- **13717**: Correct answers: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG].
-- **13719**: What an eagle-weagle eye you've got there! As they say, to the victaru go the spoils!
-- **13720**: Way to fightaru through adversity and come out on top! In honor of your momentous accomplishment, here's a spectacular-wacular prize!
-- **13721**: I mustaru warn you, though, that alone won't amount to much. You'll need to combiney-wine it with the prizes from the other nations if you want to reap all the benefitarus it has to offer.
-- **13722**: Oho, wait a second-wecond--your collection is completaru?! Now it's time to reapy-weap what you've sown and synthesize them!
-- **13723**: Lucky for you I'm feeling generous today. If you like music, you'll simply-wimply love this. After you synthesize your prizey-wise, sit back in your Mog House and get ready to lose yourself in the soothing notarus of reverie.
-- **13724**: Tough luck! You've exceeded the ten try limitaru. Consider-wider giving it another go!
-- **13725**: I suppose this jobby-wob was too tough for you, but don't hesitate to try again!
+- **13699**: Merry Starlight, and welcome to the job guessing-wessing booth!
+- **13700**: Look at those mighty warm mittens! How'd you like to try something super-duper difficult?
+- **13701**: What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my synthesis materials./Not interested in playing, thank you.]
+- **13702**: Your task, if you choose to acceptaru it, is to guess what the jobs of a group of Tarutaru are.
+- **13703**: There will be more jobs to guess in the advanced version. Can't have things being too easy-weasy!
+- **13704**: If you guess correctaru, you'll score a critical-witical hit (CH). If you're wrong, but there's another Tarutaru with that job, you'll score a hitaru. Each time I'll tell you the total number.
+- **13705**: If you correctly guess all five jobs, you win! If you can't completaru the game within ten tries, you lose!
+- **13706**: All the thrilly-wills you can comprehend for the small fee of $1 gil per play! What do you say?
+- **13707**: Test your skills? (You currently have $1 gil.) [You bet!/I'm not so sure...]
+- **13708**: Greataru choice!
+- **13709**: Well...all right. But just because I likey-wike your face. I'll part with this $0 for $1 gil.
+- **13710**: Would you like to purchase this material? [Yes./No.]
+- **13711**: Select which Tarutaru's job? (attempt #$1) [Tarutaru 1: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 2: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 3: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 4: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 5: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./See if this one is correct!/View previous guesses./Give up.]
+- **13712**: Completely give up? [Yes./No.]
+- **13715**: Which job would you like to set? (Tarutaru $1) [WAR./MNK./WHM./BLM./RDM./THF./PLD./DRK./BST./BRD./RNG./Back.]
+- **13716**: -------------------------------
+- **13717**: Try No. $2: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG] - CHF$3 / HF$4
+- **13718**: Correct answers: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG].
+- **13720**: What an eagle-weagle eye you've got there! As they say, to the victaru go the spoils!
+- **13721**: Way to fightaru through adversity and come out on top! In honor of your momentous accomplishment, here's a spectacular-wacular prize!
+- **13722**: I mustaru warn you, though, that alone won't amount to much. You'll need to combiney-wine it with the prizes from the other nations if you want to reap all the benefitarus it has to offer.
+- **13723**: Oho, wait a second-wecond--your collection is completaru?! Now it's time to reapy-weap what you've sown and synthesize them!
+- **13724**: Lucky for you I'm feeling generous today. If you like music, you'll simply-wimply love this. After you synthesize your prizey-wise, sit back in your Mog House and get ready to lose yourself in the soothing notarus of reverie.
+- **13725**: Tough luck! You've exceeded the ten try limitaru. Consider-wider giving it another go!
+- **13726**: I suppose this jobby-wob was too tough for you, but don't hesitate to try again!
 
 ## Events
 
@@ -380,12 +380,12 @@ SUBROUTINE_0020:
 
 SUBROUTINE_0030:
  13: 0x0030 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=13698*)
+ 14: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=13699*)
     → "Merry Starlight, and welcome to the job guessing-wessing booth!"
  15: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0039 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x004A
  17: 0x0041 [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 18: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=13699*)
+ 18: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=13700*)
     → "Look at those mighty warm mittens! How'd you like to try something super-duper difficult?"
  19: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -404,21 +404,21 @@ SUBROUTINE_0069:
  29: 0x007B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=3*, condition_work_offset=1*)
 
 SUBROUTINE_0082:
- 30: 0x0082 [0x24] CREATE_DIALOG(message_id=13700*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+ 30: 0x0082 [0x24] CREATE_DIALOG(message_id=13701*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "What's your pleasure? [Hear an explanation of the game./[Play/Play the simple version]./[/Play the advanced version.]/I lost my synthesis materials./Not interested in playing, thank you.]"
  31: 0x0089 [0x25] WAIT_DIALOG_SELECT()
  32: 0x008A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B0
- 33: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=13701*)
+ 33: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=13702*)
     → "Your task, if you choose to acceptaru it, is to guess what the jobs of a group of Tarutaru are."
  34: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0096 [0x02] IF !(ExtData[1]->WorkLocal[18] == 1*) GOTO 0x00A2
- 36: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=13702*)
+ 36: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=13703*)
     → "There will be more jobs to guess in the advanced version. Can't have things being too easy-weasy!"
  37: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13703*)
+ 38: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13704*)
     → "If you guess correctaru, you'll score a critical-witical hit (CH). If you're wrong, but there's another Tarutaru with that job, you'll score a hitaru. Each time I'll tell you the total number."
  39: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13704*)
+ 40: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13705*)
     → "If you correctly guess all five jobs, you win! If you can't completaru the game within ten tries, you lose!"
  41: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00AA [0x01] GOTO 0x004A
@@ -432,13 +432,13 @@ SUBROUTINE_0121:
 
 SUBROUTINE_0123:
  46: 0x0123 [0x03] Work_Zone[3] = 10*
- 47: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=13705*)
+ 47: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=13706*)
     → "All the thrilly-wills you can comprehend for the small fee of $1 gil per play! What do you say?"
  48: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x012C [0x40] SET_BIT_WORK_RANGE(start_bit=20*, end_bit=24*, target=Work_Zone[1], source=1*)
  50: 0x0135 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  51: 0x0137 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 52: 0x0139 [0x24] CREATE_DIALOG(message_id=13706*, default_option=1*, option_flags=0*)
+ 52: 0x0139 [0x24] CREATE_DIALOG(message_id=13707*, default_option=1*, option_flags=0*)
     → "Test your skills? (You currently have $1 gil.) [You bet!/I'm not so sure...]"
  53: 0x0140 [0x25] WAIT_DIALOG_SELECT()
  54: 0x0141 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015A
@@ -455,7 +455,7 @@ SUBROUTINE_0168:
  63: 0x0170 [0x40] SET_BIT_WORK_RANGE(start_bit=20*, end_bit=24*, target=Work_Zone[1], source=3*)
  64: 0x0179 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  65: 0x017B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 66: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=13707*)
+ 66: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=13708*)
     → "Greataru choice!"
  67: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0181 [0x1A] CALL_SUBROUTINE(address=0x0185)
@@ -551,7 +551,7 @@ SUBROUTINE_03D9:
 152: 0x03D9 [0x03] Work_Zone[3] = Work_Zone[4]
 153: 0x03DE [0x0B] Work_Zone[3]++
 154: 0x03E1 [0x1A] CALL_SUBROUTINE(address=0x0A28)
-155: 0x03E4 [0x24] CREATE_DIALOG(message_id=13710*, default_option=ExtData[1]->WorkLocal[6], option_flags=0*)
+155: 0x03E4 [0x24] CREATE_DIALOG(message_id=13711*, default_option=ExtData[1]->WorkLocal[6], option_flags=0*)
     → "Select which Tarutaru's job? (attempt #$1) [Tarutaru 1: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 2: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 3: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 4: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./Tarutaru 5: [Not set/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]./See if this one is correct!/View previous guesses./Give up.]"
 156: 0x03EB [0x25] WAIT_DIALOG_SELECT()
 157: 0x03EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0452
@@ -649,7 +649,7 @@ SUBROUTINE_05E5:
 239: 0x0635 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 240: 0x0637 [0x03] Work_Zone_1700[3] = Work_Zone[8]
 241: 0x063C [0x1A] CALL_SUBROUTINE(address=0x0A28)
-242: 0x063F [0x48] [System] [13716*]:
+242: 0x063F [0x48] [System] [13717*]:
     → "Try No. $2: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG] - CHF$3 / HF$4"
 243: 0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x0643 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=ExtData[1]->WorkLocal[0], source=Work_Zone[8])
@@ -701,7 +701,7 @@ SUBROUTINE_0715:
 286: 0x073A [0x01] GOTO 0x0835
 287: 0x073D [0x03] ExtData[1]->WorkLocal[4] = 1*
 288: 0x0742 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[4]
-289: 0x0747 [0x48] [System] [13715*]:
+289: 0x0747 [0x48] [System] [13716*]:
     → "-------------------------------"
 290: 0x074A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -744,19 +744,19 @@ SUBROUTINE_07E3:
 324: 0x0810 [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[1] (bits 20*-22*)
 325: 0x0819 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[1] (bits 23*-25*)
 326: 0x0822 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
-327: 0x0827 [0x48] [System] [13716*]:
+327: 0x0827 [0x48] [System] [13717*]:
     → "Try No. $2: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG] - CHF$3 / HF$4"
 328: 0x082A [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x082B [0x0B] ExtData[1]->WorkLocal[4]++
 330: 0x082E [0x01] GOTO 0x074B
-331: 0x0831 [0x48] [System] [13715*]:
+331: 0x0831 [0x48] [System] [13716*]:
     → "-------------------------------"
 332: 0x0834 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0835:
 333: 0x0835 [0x01] GOTO 0x08DD
 334: 0x0838 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x08DD
-335: 0x0840 [0x24] CREATE_DIALOG(message_id=13711*, default_option=1*, option_flags=0*)
+335: 0x0840 [0x24] CREATE_DIALOG(message_id=13712*, default_option=1*, option_flags=0*)
     → "Completely give up? [Yes./No.]"
 336: 0x0847 [0x25] WAIT_DIALOG_SELECT()
 337: 0x0848 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08C7
@@ -775,7 +775,7 @@ SUBROUTINE_0835:
 350: 0x08B2 [0x1C] WAIT(60* ticks)
 351: 0x08B5 [0x1E] EventEntity looks at LocalPlayer and starts talking
 352: 0x08BA [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
-353: 0x08BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13725*)
+353: 0x08BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13726*)
     → "I suppose this jobby-wob was too tough for you, but don't hesitate to try again!"
 354: 0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 355: 0x08C3 [0x21] END_EVENT
@@ -796,7 +796,7 @@ SUBROUTINE_08E1:
 
 SUBROUTINE_08FD:
 364: 0x08FD [0x0C] ExtData[1]->WorkLocal[7]--
-365: 0x0900 [0x24] CREATE_DIALOG(message_id=13714*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[5])
+365: 0x0900 [0x24] CREATE_DIALOG(message_id=13715*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[5])
     → "Which job would you like to set? (Tarutaru $1) [WAR./MNK./WHM./BLM./RDM./THF./PLD./DRK./BST./BRD./RNG./Back.]"
 366: 0x0907 [0x25] WAIT_DIALOG_SELECT()
 367: 0x0908 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091B
@@ -879,13 +879,13 @@ SUBROUTINE_0A56:
 436: 0x0A70 [0x41] Work_Zone_1700[0] = Work_Zone_1700[3] (bits 8*-11*)
 437: 0x0A79 [0x41] Work_Zone_1700[1] = Work_Zone_1700[3] (bits 12*-15*)
 438: 0x0A82 [0x41] Work_Zone_1700[2] = Work_Zone_1700[3] (bits 16*-19*)
-439: 0x0A8B [0x48] [System] [13715*]:
+439: 0x0A8B [0x48] [System] [13716*]:
     → "-------------------------------"
 440: 0x0A8E [0x23] WAIT_FOR_DIALOG_INTERACTION
-441: 0x0A8F [0x48] [System] [13717*]:
+441: 0x0A8F [0x48] [System] [13718*]:
     → "Correct answers: [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG], [/WAR/MNK/WHM/BLM/RDM/THF/PLD/DRK/BST/BRD/RNG]."
 442: 0x0A92 [0x23] WAIT_FOR_DIALOG_INTERACTION
-443: 0x0A93 [0x48] [System] [13715*]:
+443: 0x0A93 [0x48] [System] [13716*]:
     → "-------------------------------"
 444: 0x0A96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 445: 0x0A97 [0x27] REQ_SET(priority=0x80, entity_id=Unnamed NPC (ID: 17764769/0x010F11A1), tag_num=0x02)
@@ -922,31 +922,31 @@ SUBROUTINE_0A56:
 476: 0x0B7E [0x1E] EventEntity looks at LocalPlayer and starts talking
 477: 0x0B83 [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x0BCA
 478: 0x0B8A [0x03] Work_Zone[3] = (LocalPlayer->Render.Flags01 >> 25) & 1
-479: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=13720*)
+479: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=13721*)
     → "Way to fightaru through adversity and come out on top! In honor of your momentous accomplishment, here's a spectacular-wacular prize!"
 480: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x0B93 [0x3E] IF !(Work_Zone[7] bit 3*) GOTO 0x0B9D
 482: 0x0B9A [0x01] GOTO 0x0BC7
 483: 0x0B9D [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[7] (bits 1*-3*)
 484: 0x0BA6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0BB5
-485: 0x0BAE [0x1D] PRINT_EVENT_MESSAGE(message_id=13722*)
+485: 0x0BAE [0x1D] PRINT_EVENT_MESSAGE(message_id=13723*)
     → "Oho, wait a second-wecond--your collection is completaru?! Now it's time to reapy-weap what you've sown and synthesize them!"
 486: 0x0BB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 487: 0x0BB2 [0x01] GOTO 0x0BBE
 488: 0x0BB5 [0x03] Work_Zone[3] = 426*
-489: 0x0BBA [0x1D] PRINT_EVENT_MESSAGE(message_id=13721*)
+489: 0x0BBA [0x1D] PRINT_EVENT_MESSAGE(message_id=13722*)
     → "I mustaru warn you, though, that alone won't amount to much. You'll need to combiney-wine it with the prizes from the other nations if you want to reap all the benefitarus it has to offer."
 490: 0x0BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BBE:
 491: 0x0BBE [0x03] Work_Zone[3] = 426*
-492: 0x0BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13723*)
+492: 0x0BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13724*)
     → "Lucky for you I'm feeling generous today. If you like music, you'll simply-wimply love this. After you synthesize your prizey-wise, sit back in your Mog House and get ready to lose yourself in the soothing notarus of reverie."
 493: 0x0BC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BC7:
 494: 0x0BC7 [0x01] GOTO 0x0BCE
-495: 0x0BCA [0x1D] PRINT_EVENT_MESSAGE(message_id=13719*)
+495: 0x0BCA [0x1D] PRINT_EVENT_MESSAGE(message_id=13720*)
     → "What an eagle-weagle eye you've got there! As they say, to the victaru go the spoils!"
 496: 0x0BCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 

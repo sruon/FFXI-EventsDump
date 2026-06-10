@@ -21,12 +21,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E0F      |        7695 |
+|       1 | 0x1E10      |        7696 |
 |       2 | 0x0001      |           1 |
 
 ## String References
 
-- **7695**: Occupy the hollow? [Yep./Nope.]
+- **7696**: Occupy the hollow? [Yep./Nope.]
 
 ## Events
 
@@ -74,7 +74,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 0*
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7695*, default_option=1*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7696*, default_option=1*, option_flags=0*)
     → "Occupy the hollow? [Yep./Nope.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001F

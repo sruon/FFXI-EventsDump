@@ -81,56 +81,56 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x002A      |          42 |
-|       3 | 0x1EC6      |        7878 |
-|       4 | 0x1EC7      |        7879 |
-|       5 | 0x1EC8      |        7880 |
-|       6 | 0x1EC9      |        7881 |
-|       7 | 0x1ED5      |        7893 |
-|       8 | 0x1ED6      |        7894 |
-|       9 | 0x1EE2      |        7906 |
+|       3 | 0x1EC7      |        7879 |
+|       4 | 0x1EC8      |        7880 |
+|       5 | 0x1EC9      |        7881 |
+|       6 | 0x1ECA      |        7882 |
+|       7 | 0x1ED6      |        7894 |
+|       8 | 0x1ED7      |        7895 |
+|       9 | 0x1EE3      |        7907 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1ED9      |        7897 |
-|      14 | 0x1EDA      |        7898 |
-|      15 | 0x1EE3      |        7907 |
-|      16 | 0x1EE5      |        7909 |
-|      17 | 0x1EE6      |        7910 |
-|      18 | 0x1EE7      |        7911 |
-|      19 | 0x1EE8      |        7912 |
-|      20 | 0x1EE9      |        7913 |
-|      21 | 0x1EEA      |        7914 |
-|      22 | 0x1EEB      |        7915 |
-|      23 | 0x1EEC      |        7916 |
-|      24 | 0x1EED      |        7917 |
-|      25 | 0x1EE4      |        7908 |
-|      26 | 0x1EDB      |        7899 |
-|      27 | 0x1EDC      |        7900 |
-|      28 | 0x1EDD      |        7901 |
-|      29 | 0x1EDE      |        7902 |
-|      30 | 0x1EE0      |        7904 |
-|      31 | 0x1EE1      |        7905 |
-|      32 | 0x1EEE      |        7918 |
-|      33 | 0x1EEF      |        7919 |
-|      34 | 0x1EF9      |        7929 |
-|      35 | 0x1EFA      |        7930 |
+|      13 | 0x1EDA      |        7898 |
+|      14 | 0x1EDB      |        7899 |
+|      15 | 0x1EE4      |        7908 |
+|      16 | 0x1EE6      |        7910 |
+|      17 | 0x1EE7      |        7911 |
+|      18 | 0x1EE8      |        7912 |
+|      19 | 0x1EE9      |        7913 |
+|      20 | 0x1EEA      |        7914 |
+|      21 | 0x1EEB      |        7915 |
+|      22 | 0x1EEC      |        7916 |
+|      23 | 0x1EED      |        7917 |
+|      24 | 0x1EEE      |        7918 |
+|      25 | 0x1EE5      |        7909 |
+|      26 | 0x1EDC      |        7900 |
+|      27 | 0x1EDD      |        7901 |
+|      28 | 0x1EDE      |        7902 |
+|      29 | 0x1EDF      |        7903 |
+|      30 | 0x1EE1      |        7905 |
+|      31 | 0x1EE2      |        7906 |
+|      32 | 0x1EEF      |        7919 |
+|      33 | 0x1EF0      |        7920 |
+|      34 | 0x1EFA      |        7930 |
+|      35 | 0x1EFB      |        7931 |
 |      36 | 0x00C9      |         201 |
-|      37 | 0x1EFB      |        7931 |
-|      38 | 0x1EFC      |        7932 |
-|      39 | 0x2251      |        8785 |
-|      40 | 0x2252      |        8786 |
-|      41 | 0x2253      |        8787 |
-|      42 | 0x2254      |        8788 |
-|      43 | 0x2255      |        8789 |
-|      44 | 0x2256      |        8790 |
-|      45 | 0x2257      |        8791 |
-|      46 | 0x2258      |        8792 |
-|      47 | 0x2259      |        8793 |
-|      48 | 0x225A      |        8794 |
-|      49 | 0x225B      |        8795 |
-|      50 | 0x225C      |        8796 |
-|      51 | 0x225D      |        8797 |
-|      52 | 0x225E      |        8798 |
+|      37 | 0x1EFC      |        7932 |
+|      38 | 0x1EFD      |        7933 |
+|      39 | 0x2252      |        8786 |
+|      40 | 0x2253      |        8787 |
+|      41 | 0x2254      |        8788 |
+|      42 | 0x2255      |        8789 |
+|      43 | 0x2256      |        8790 |
+|      44 | 0x2257      |        8791 |
+|      45 | 0x2258      |        8792 |
+|      46 | 0x2259      |        8793 |
+|      47 | 0x225A      |        8794 |
+|      48 | 0x225B      |        8795 |
+|      49 | 0x225C      |        8796 |
+|      50 | 0x225D      |        8797 |
+|      51 | 0x225E      |        8798 |
+|      52 | 0x225F      |        8799 |
 |      53 | 0x00C8      |         200 |
 |      54 | 0x0013      |          19 |
 |      55 | 0x017C      |         380 |
@@ -144,95 +144,95 @@
 |      63 | 0x161D      |        5661 |
 |      64 | 0x161E      |        5662 |
 |      65 | 0x161C      |        5660 |
-|      66 | 0x3059      |       12377 |
-|      67 | 0x305A      |       12378 |
-|      68 | 0x305B      |       12379 |
-|      69 | 0x305C      |       12380 |
-|      70 | 0x305D      |       12381 |
-|      71 | 0x305E      |       12382 |
-|      72 | 0x3060      |       12384 |
-|      73 | 0x3061      |       12385 |
+|      66 | 0x305A      |       12378 |
+|      67 | 0x305B      |       12379 |
+|      68 | 0x305C      |       12380 |
+|      69 | 0x305D      |       12381 |
+|      70 | 0x305E      |       12382 |
+|      71 | 0x305F      |       12383 |
+|      72 | 0x3061      |       12385 |
+|      73 | 0x3062      |       12386 |
 |      74 | 0x03BA      |         954 |
-|      75 | 0x3063      |       12387 |
-|      76 | 0x3064      |       12388 |
-|      77 | 0x3065      |       12389 |
+|      75 | 0x3064      |       12388 |
+|      76 | 0x3065      |       12389 |
+|      77 | 0x3066      |       12390 |
 |      78 | 0x001D      |          29 |
-|      79 | 0x3066      |       12390 |
-|      80 | 0x3067      |       12391 |
-|      81 | 0x3068      |       12392 |
-|      82 | 0x3069      |       12393 |
-|      83 | 0x306A      |       12394 |
-|      84 | 0x306B      |       12395 |
-|      85 | 0x306C      |       12396 |
-|      86 | 0x306D      |       12397 |
-|      87 | 0x305F      |       12383 |
-|      88 | 0x3062      |       12386 |
-|      89 | 0x3071      |       12401 |
-|      90 | 0x3072      |       12402 |
-|      91 | 0x3073      |       12403 |
+|      79 | 0x3067      |       12391 |
+|      80 | 0x3068      |       12392 |
+|      81 | 0x3069      |       12393 |
+|      82 | 0x306A      |       12394 |
+|      83 | 0x306B      |       12395 |
+|      84 | 0x306C      |       12396 |
+|      85 | 0x306D      |       12397 |
+|      86 | 0x306E      |       12398 |
+|      87 | 0x3060      |       12384 |
+|      88 | 0x3063      |       12387 |
+|      89 | 0x3072      |       12402 |
+|      90 | 0x3073      |       12403 |
+|      91 | 0x3074      |       12404 |
 |      92 | 0x0007      |           7 |
-|      93 | 0x3074      |       12404 |
-|      94 | 0x3075      |       12405 |
-|      95 | 0x3076      |       12406 |
+|      93 | 0x3075      |       12405 |
+|      94 | 0x3076      |       12406 |
+|      95 | 0x3077      |       12407 |
 |      96 | 0x0078      |         120 |
-|      97 | 0x3077      |       12407 |
+|      97 | 0x3078      |       12408 |
 
 ## String References
 
-- **7878**: La piece de resistance\`t Mes secrets ingr<Player>idients\`t
-- **7879**: Nutmegs, beans and jalape<Player>qos too\`t Zat's how we make Martha Stew\`t
-- **7880**: Did vous know, no? If you repeat zis song five times, zee water weel boil to just the right temperature.
-- **7881**: Hu-hmm\`t See... Try a little taste. C'est parfait, n'est-ce pas?
-- **7893**: If you want to taste our cooking, go try zee restaurant across zee way.
-- **7894**: Zee food we make 'ere ees served at zee restaurant zere.
-- **7897**: Sacrebleu! What should I do?
-- **7898**: Hey, you zere! Can you keep a secret?
-- **7899**: Sacrebleu! Not again!?
-- **7900**: Oh, you're back...and just in time! Au secour! Pleeze save Windurst one more time!
-- **7901**: I went and made zee same mistake as I deed last time!
-- **7902**: Az I explained before, non? Windurst eez trying to maintain its hard-earned peace with zose Yagudo beastmen.
-- **7904**: But I went and mixed $1 into zee food offering by mistake.
-- **7905**: If you race over to Giddeus, you should make it in time. Pleeze! You've got to help before one of zee Yagudo tastes my disaster and gets insulted by it!
-- **7906**: Are you tight-lipped? [Yes. Mum's the word!/No, I can't keep my mouth shut.]
-- **7907**: Oh, then forget what I just said. You didn't hear anything!
-- **7908**: Don't laugh or tease me, but, well...
-- **7909**: Zee truth eez, I've made a terrible, terrible mistake!
-- **7910**: You see, Windurst eez trying to improve its relations with zee Yagudo beastmen.
-- **7911**: One of our peace efforts is a promise to provide zee Yagudo with food offerings, prepared and sent by zee Rhinostery and zis Culinarians' Guild.
-- **7912**: But I think I went and mixed a horrible $1 into zee food offering by mistake.
-- **7913**: Au secours! You've got to help me! Pleeze race to Giddeus as fast as you can and retrieve zee food bags with $1 mixed een zem.
-- **7914**: Listen to his request? [Oui./Non.]
-- **7915**: Ooh... Merci-werci!
-- **7916**: Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse.
-- **7917**: But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!
-- **7918**: Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse.
-- **7919**: But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!
-- **7929**: O\`h thank you so\` very much! You saved my life!
-- **7930**: At zee moment, zis eez all I have to give you... Apart from my sincere gratitude, of course!
-- **7931**: Merci! Thank you very much. We're all so obliged.
-- **7932**: Zee peace of Windurst has been saved, thanks to you!
-- **8785**: A while ago, I borrowed a chocobo so I could go on a fishing trip. But zee silly chocobo went and caught a cold.
-- **8786**: To make up for eet, I took some of my special stew to zee stables so zee chocobo could drink eet... Oh, so you want moi to make some of zat stew for you?
-- **8787**: I think it eez possible, but zee special stew I made that time had $1 in eet. You'll have to bring moi three of zose little champignons...
-- **8788**: Without zose special mushrooms, eet will just be a plain old stew.
-- **8789**: Zee $1 can be found in Jugner Forest, I believe.
-- **8790**: Zey grow on zee bodies of zee toadstool monsters that lurk zere. Zey look grotesque and smell awful, but zee taste ees just exquisite!
-- **8791**: I need about three $1 in order to make zat special stew for you.
-- **8792**: In order to get zose mushrooms, I recommend you try Jugner Forest. You should be able to collect zem by defeating zose toadstool monsters zat lurk zere.
-- **8793**: Zat's it! Once you've tried a dish with zese in zem, you'll keep coming back for more.
-- **8794**: One moment pleeze. I'll add a leettle of zis and a leettle of zis and...
-- **8795**: Voil<Player>\`! Zis should get zat chocobo back on his feet again!
-- **8796**: Make sure you bring eet to heem while eet's still warm.
-- **8797**: Zat should get our chocobo friend back on his feet again!
-- **8798**: Make sure you serve it to heem while eet's still warm.
-- **12389**: The dish's presentation is difficult to put into words...
-- **12401**: Ze what? You are looking to buy a new stewpot, you zay?
-- **12402**: Mon dieu! Zat ees one hole tres gigantique!
-- **12403**: But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!
-- **12404**: Zat will zave you beaucoup gil, certainmentaru! Hohoho!
-- **12405**: Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?
-- **12406**: Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!
-- **12407**: Voila! Ees she not ze toute beaute? Treat her well, and au revoir!
+- **7879**: La piece de resistance\`t Mes secrets ingr<Player>idients\`t
+- **7880**: Nutmegs, beans and jalape<Player>qos too\`t Zat's how we make Martha Stew\`t
+- **7881**: Did vous know, no? If you repeat zis song five times, zee water weel boil to just the right temperature.
+- **7882**: Hu-hmm\`t See... Try a little taste. C'est parfait, n'est-ce pas?
+- **7894**: If you want to taste our cooking, go try zee restaurant across zee way.
+- **7895**: Zee food we make 'ere ees served at zee restaurant zere.
+- **7898**: Sacrebleu! What should I do?
+- **7899**: Hey, you zere! Can you keep a secret?
+- **7900**: Sacrebleu! Not again!?
+- **7901**: Oh, you're back...and just in time! Au secour! Pleeze save Windurst one more time!
+- **7902**: I went and made zee same mistake as I deed last time!
+- **7903**: Az I explained before, non? Windurst eez trying to maintain its hard-earned peace with zose Yagudo beastmen.
+- **7905**: But I went and mixed $1 into zee food offering by mistake.
+- **7906**: If you race over to Giddeus, you should make it in time. Pleeze! You've got to help before one of zee Yagudo tastes my disaster and gets insulted by it!
+- **7907**: Are you tight-lipped? [Yes. Mum's the word!/No, I can't keep my mouth shut.]
+- **7908**: Oh, then forget what I just said. You didn't hear anything!
+- **7909**: Don't laugh or tease me, but, well...
+- **7910**: Zee truth eez, I've made a terrible, terrible mistake!
+- **7911**: You see, Windurst eez trying to improve its relations with zee Yagudo beastmen.
+- **7912**: One of our peace efforts is a promise to provide zee Yagudo with food offerings, prepared and sent by zee Rhinostery and zis Culinarians' Guild.
+- **7913**: But I think I went and mixed a horrible $1 into zee food offering by mistake.
+- **7914**: Au secours! You've got to help me! Pleeze race to Giddeus as fast as you can and retrieve zee food bags with $1 mixed een zem.
+- **7915**: Listen to his request? [Oui./Non.]
+- **7916**: Ooh... Merci-werci!
+- **7917**: Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse.
+- **7918**: But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!
+- **7919**: Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse.
+- **7920**: But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!
+- **7930**: O\`h thank you so\` very much! You saved my life!
+- **7931**: At zee moment, zis eez all I have to give you... Apart from my sincere gratitude, of course!
+- **7932**: Merci! Thank you very much. We're all so obliged.
+- **7933**: Zee peace of Windurst has been saved, thanks to you!
+- **8786**: A while ago, I borrowed a chocobo so I could go on a fishing trip. But zee silly chocobo went and caught a cold.
+- **8787**: To make up for eet, I took some of my special stew to zee stables so zee chocobo could drink eet... Oh, so you want moi to make some of zat stew for you?
+- **8788**: I think it eez possible, but zee special stew I made that time had $1 in eet. You'll have to bring moi three of zose little champignons...
+- **8789**: Without zose special mushrooms, eet will just be a plain old stew.
+- **8790**: Zee $1 can be found in Jugner Forest, I believe.
+- **8791**: Zey grow on zee bodies of zee toadstool monsters that lurk zere. Zey look grotesque and smell awful, but zee taste ees just exquisite!
+- **8792**: I need about three $1 in order to make zat special stew for you.
+- **8793**: In order to get zose mushrooms, I recommend you try Jugner Forest. You should be able to collect zem by defeating zose toadstool monsters zat lurk zere.
+- **8794**: Zat's it! Once you've tried a dish with zese in zem, you'll keep coming back for more.
+- **8795**: One moment pleeze. I'll add a leettle of zis and a leettle of zis and...
+- **8796**: Voil<Player>\`! Zis should get zat chocobo back on his feet again!
+- **8797**: Make sure you bring eet to heem while eet's still warm.
+- **8798**: Zat should get our chocobo friend back on his feet again!
+- **8799**: Make sure you serve it to heem while eet's still warm.
+- **12390**: The dish's presentation is difficult to put into words...
+- **12402**: Ze what? You are looking to buy a new stewpot, you zay?
+- **12403**: Mon dieu! Zat ees one hole tres gigantique!
+- **12404**: But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!
+- **12405**: Zat will zave you beaucoup gil, certainmentaru! Hohoho!
+- **12406**: Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?
+- **12407**: Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!
+- **12408**: Voila! Ees she not ze toute beaute? Treat her well, and au revoir!
 
 ## Events
 
@@ -841,12 +841,12 @@
 
 ```
   0: 0x0174 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x15)
-  1: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+  1: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "La piece de resistance`t Mes secrets ingr<Player>idients`t"
   2: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x017F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x16)
   4: 0x0186 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+  5: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "Nutmegs, beans and jalape<Player>qos too`t Zat's how we make Martha Stew`t"
   6: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0191 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -880,12 +880,12 @@
 
 ```
   0: 0x019C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x15)
-  1: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+  1: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "La piece de resistance`t Mes secrets ingr<Player>idients`t"
   2: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x16)
   4: 0x01AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+  5: 0x01B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "Nutmegs, beans and jalape<Player>qos too`t Zat's how we make Martha Stew`t"
   6: 0x01B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -893,10 +893,10 @@
   9: 0x01C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x01C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x01C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
- 12: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+ 12: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "Did vous know, no? If you repeat zis song five times, zee water weel boil to just the right temperature."
  13: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+ 14: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "Hu-hmm`t See... Try a little taste. C'est parfait, n'est-ce pas?"
  15: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x01D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
@@ -930,10 +930,10 @@
   1: 0x01E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  4: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+  4: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "If you want to taste our cooking, go try zee restaurant across zee way."
   5: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
+  6: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "Zee food we make 'ere ees served at zee restaurant zere."
   7: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
@@ -970,7 +970,7 @@
   1: 0x0207 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0208 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0209 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x1C)
-  4: 0x0210 [0x24] CREATE_DIALOG(message_id=7906*, default_option=0*, option_flags=0*)
+  4: 0x0210 [0x24] CREATE_DIALOG(message_id=7907*, default_option=0*, option_flags=0*)
     → "Are you tight-lipped? [Yes. Mum's the word!/No, I can't keep my mouth shut.]"
   5: 0x0217 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0218 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0236
@@ -1011,12 +1011,12 @@ SUBROUTINE_024D:
 
 ```
   0: 0x0251 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0F)
-  1: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+  1: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "Sacrebleu! What should I do?"
   2: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x025C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x10)
   4: 0x0263 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
+  5: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
     → "Hey, you zere! Can you keep a secret?"
   6: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -1044,7 +1044,7 @@ SUBROUTINE_024D:
 
 ```
   0: 0x0276 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x11)
-  1: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  1: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "Oh, then forget what I just said. You didn't hear anything!"
   2: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0281 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x12)
@@ -1074,18 +1074,18 @@ SUBROUTINE_024D:
 
 ```
   0: 0x0289 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0D)
-  1: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+  1: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "Zee truth eez, I've made a terrible, terrible mistake!"
   2: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0294 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0E)
   4: 0x029B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  5: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "You see, Windurst eez trying to improve its relations with zee Yagudo beastmen."
   6: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  7: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "One of our peace efforts is a promise to provide zee Yagudo with food offerings, prepared and sent by zee Rhinostery and zis Culinarians' Guild."
   8: 0x02A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+  9: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "But I think I went and mixed a horrible $1 into zee food offering by mistake."
  10: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -1122,26 +1122,26 @@ SUBROUTINE_024D:
   1: 0x02BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0D)
-  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Au secours! You've got to help me! Pleeze race to Giddeus as fast as you can and retrieve zee food bags with $1 mixed een zem."
   5: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0E)
-  7: 0x02CF [0x24] CREATE_DIALOG(message_id=7914*, default_option=0*, option_flags=0*)
+  7: 0x02CF [0x24] CREATE_DIALOG(message_id=7915*, default_option=0*, option_flags=0*)
     → "Listen to his request? [Oui./Non.]"
   8: 0x02D6 [0x25] WAIT_DIALOG_SELECT()
   9: 0x02D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0310
  10: 0x02DF [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x02E0 [0x03] Work_Zone[1] = 1*
  12: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
- 13: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 13: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "Ooh... Merci-werci!"
  14: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+ 15: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse."
  16: 0x02F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x02F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
  18: 0x02FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0D)
- 19: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+ 19: 0x0302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!"
  20: 0x0305 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0E)
@@ -1178,7 +1178,7 @@ SUBROUTINE_0327:
 
 ```
   0: 0x032B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x11)
-  1: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+  1: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Don't laugh or tease me, but, well..."
   2: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0336 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x12)
@@ -1213,7 +1213,7 @@ SUBROUTINE_0327:
   1: 0x0343 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0344 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0345 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x22)
-  4: 0x034C [0x24] CREATE_DIALOG(message_id=7914*, default_option=0*, option_flags=0*)
+  4: 0x034C [0x24] CREATE_DIALOG(message_id=7915*, default_option=0*, option_flags=0*)
     → "Listen to his request? [Oui./Non.]"
   5: 0x0353 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0354 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0373
@@ -1256,12 +1256,12 @@ SUBROUTINE_038A:
 
 ```
   0: 0x038E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0F)
-  1: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+  1: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "Sacrebleu! Not again!?"
   2: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x10)
   4: 0x03A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+  5: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "Oh, you're back...and just in time! Au secour! Pleeze save Windurst one more time!"
   6: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -1290,15 +1290,15 @@ SUBROUTINE_038A:
 
 ```
   0: 0x03B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0D)
-  1: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+  1: 0x03BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "I went and made zee same mistake as I deed last time!"
   2: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0E)
   4: 0x03C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  5: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+  5: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
     → "Az I explained before, non? Windurst eez trying to maintain its hard-earned peace with zose Yagudo beastmen."
   6: 0x03CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
+  7: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "But I went and mixed $1 into zee food offering by mistake."
   8: 0x03D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x02)
@@ -1326,7 +1326,7 @@ SUBROUTINE_038A:
 
 ```
   0: 0x03DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0B)
-  1: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  1: 0x03E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "If you race over to Giddeus, you should make it in time. Pleeze! You've got to help before one of zee Yagudo tastes my disaster and gets insulted by it!"
   2: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0C)
@@ -1359,12 +1359,12 @@ SUBROUTINE_038A:
   1: 0x03F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  4: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+  4: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Zee food bags with $1 mixed in zem were probably delivered by zee adventurers who received zee mission from zee gatehouse."
   5: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
   7: 0x0408 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0D)
-  8: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+  8: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "But if you race on over to Giddeus right away, you should make it in time. Pleeze, you've got to get zere before zee Yagudo try zem!"
   9: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0413 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x0E)
@@ -1402,10 +1402,10 @@ SUBROUTINE_038A:
   3: 0x0426 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0427 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0428 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  6: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
+  6: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
     → "O`h thank you so` very much! You saved my life!"
   7: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0433 [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
+  8: 0x0433 [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
     → "At zee moment, zis eez all I have to give you... Apart from my sincere gratitude, of course!"
   9: 0x0436 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0437 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
@@ -1440,10 +1440,10 @@ SUBROUTINE_038A:
   1: 0x0458 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0459 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x045A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x01)
-  4: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
+  4: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
     → "Merci! Thank you very much. We're all so obliged."
   5: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0465 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+  6: 0x0465 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Zee peace of Windurst has been saved, thanks to you!"
   7: 0x0468 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0469 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ranpi-Monpi (ID: 17752138/0x010EE04A), tag_num=0x17)
@@ -1505,10 +1505,10 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=8785*)
+  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=8786*)
     → "A while ago, I borrowed a chocobo so I could go on a fishing trip. But zee silly chocobo went and caught a cold."
   1: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8786*)
+  2: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8787*)
     → "To make up for eet, I took some of my special stew to zee stables so zee chocobo could drink eet... Oh, so you want moi to make some of zat stew for you?"
   3: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04A3 [0x00] END_REQSTACK()
@@ -1533,7 +1533,7 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8787*)
+  0: 0x04A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8788*)
     → "I think it eez possible, but zee special stew I made that time had $1 in eet. You'll have to bring moi three of zose little champignons..."
   1: 0x04A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04A8 [0x00] END_REQSTACK()
@@ -1558,7 +1558,7 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8788*)
+  0: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8789*)
     → "Without zose special mushrooms, eet will just be a plain old stew."
   1: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04AD [0x00] END_REQSTACK()
@@ -1584,10 +1584,10 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8789*)
+  0: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8790*)
     → "Zee $1 can be found in Jugner Forest, I believe."
   1: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x04B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8790*)
+  2: 0x04B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8791*)
     → "Zey grow on zee bodies of zee toadstool monsters that lurk zere. Zey look grotesque and smell awful, but zee taste ees just exquisite!"
   3: 0x04B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04B6 [0x00] END_REQSTACK()
@@ -1616,10 +1616,10 @@ SUBROUTINE_038A:
   0: 0x04B7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x04BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8791*)
+  3: 0x04BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8792*)
     → "I need about three $1 in order to make zat special stew for you."
   4: 0x04C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x04C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8792*)
+  5: 0x04C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8793*)
     → "In order to get zose mushrooms, I recommend you try Jugner Forest. You should be able to collect zem by defeating zose toadstool monsters zat lurk zere."
   6: 0x04C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x04C6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1681,7 +1681,7 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8793*)
+  0: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8794*)
     → "Zat's it! Once you've tried a dish with zese in zem, you'll keep coming back for more."
   1: 0x04F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04F1 [0x00] END_REQSTACK()
@@ -1706,7 +1706,7 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8794*)
+  0: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8795*)
     → "One moment pleeze. I'll add a leettle of zis and a leettle of zis and..."
   1: 0x04F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04F6 [0x00] END_REQSTACK()
@@ -1731,10 +1731,10 @@ SUBROUTINE_038A:
 #### Opcodes
 
 ```
-  0: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8795*)
+  0: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8796*)
     → "Voil<Player>`! Zis should get zat chocobo back on his feet again!"
   1: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8796*)
+  2: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8797*)
     → "Make sure you bring eet to heem while eet's still warm."
   3: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x04FF [0x00] END_REQSTACK()
@@ -1763,10 +1763,10 @@ SUBROUTINE_038A:
   0: 0x0500 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0505 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0506 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8797*)
+  3: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=8798*)
     → "Zat should get our chocobo friend back on his feet again!"
   4: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=8798*)
+  5: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=8799*)
     → "Make sure you serve it to heem while eet's still warm."
   6: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x050F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1838,29 +1838,29 @@ SUBROUTINE_038A:
  18: 0x0595 [0x03] Work_Zone[4] = 5662*
  19: 0x059A [0x03] Work_Zone[5] = 5660*
  20: 0x059F [0x1E] EventEntity looks at LocalPlayer and starts talking
- 21: 0x05A4 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12377*]:
+ 21: 0x05A4 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12378*]:
     → "Ooo, come een, come een. Vous have come to cook, non?"
  22: 0x05AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x05AC [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  24: 0x05BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  25: 0x05CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 26: 0x05DB [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12378*]:
+ 26: 0x05DB [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12379*]:
     → "What's zat? Do I know of any unique and extraordinarily new delectable foods?"
  27: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x05E3 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12379*]:
+ 28: 0x05E3 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12380*]:
     → "Vous know, I may be zee only chef in Vana'diel with zee verve and zee vision to make such an innovative and unorzodox deesh."
  29: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x05EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
- 31: 0x05FA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12380*]:
+ 31: 0x05FA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12381*]:
     → "And I will prepare such a deesh, just pour vous. But, eet will require some rare ingredients zat vous must bring moi. C'est bien, non?"
  32: 0x0601 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0602 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=368*
  34: 0x0611 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  35: 0x0622 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 36: 0x0631 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12381*]:
+ 36: 0x0631 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12382*]:
     → "Hmmm, I shall need $0 and $1... Ah yes, and also $2 and $3."
  37: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0639 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12382*]:
+ 38: 0x0639 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12383*]:
     → "Bring zese ingredients to moi once vous have zem all, and voila! I shall turn zem into an absolute culinary masterpiece."
  39: 0x0640 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0641 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1926,10 +1926,10 @@ SUBROUTINE_038A:
  15: 0x070C [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x0711 [0x1C] WAIT(60* ticks)
  17: 0x0714 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 18: 0x0723 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12384*]:
+ 18: 0x0723 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12385*]:
     → "Hm? Vous have brought all of zee ingredients? Magnifique!"
  19: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x072B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12385*]:
+ 20: 0x072B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12386*]:
     → "I will begin preparing zee deesh right away! Give me just a little bit of time, pleeze. Vous cannot rush art, mon ami."
  21: 0x0732 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0733 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2000,21 +2000,21 @@ SUBROUTINE_038A:
  16: 0x0803 [0x1C] WAIT(60* ticks)
  17: 0x0806 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
  18: 0x0815 [0x03] Work_Zone[2] = 954*
- 19: 0x081A [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12387*]:
+ 19: 0x081A [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12388*]:
     → "Ooo, zere vous are! I have been waiting pour vous. Zis is zee special deesh which you requested, $6! Bon appetit!"
  20: 0x0821 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0822 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12388*]:
+ 21: 0x0822 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12389*]:
     → "Zis is a classic recipe I have not used in years. I may have forgotten some of zee finer points, but zee taste alone I still remember."
  22: 0x0829 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x082A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  24: 0x0839 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=368*
  25: 0x0848 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 26: 0x0859 [0x48] [System] [12389*]:
+ 26: 0x0859 [0x48] [System] [12390*]:
     → "The dish's presentation is difficult to put into words..."
  27: 0x085C [0x1C] WAIT(60* ticks)
  28: 0x085F [0x6E] EventEntity uses emote 29*
  29: 0x0866 [0x99] Wait for EventEntity animation to complete
- 30: 0x086B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12390*]:
+ 30: 0x086B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12391*]:
     → "Eet may not be zee most beautiful deesh, but zat eez no matter! I gladly stake my reputation on eets taste!"
  31: 0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0873 [0x1C] WAIT(60* ticks)
@@ -2097,25 +2097,25 @@ SUBROUTINE_038A:
  15: 0x092F [0x1E] EventEntity looks at LocalPlayer and starts talking
  16: 0x0934 [0x1C] WAIT(60* ticks)
  17: 0x0937 [0x03] Work_Zone[2] = 954*
- 18: 0x093C [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12391*]:
+ 18: 0x093C [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12392*]:
     → "Bonjour! And how was zee $3 I made pour vous? Delicious, non?"
  19: 0x0943 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0944 [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  21: 0x0953 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  22: 0x0964 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
- 23: 0x0973 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12392*]:
+ 23: 0x0973 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12393*]:
     → "Eez zat a knife vous have zere? Ooo, zat takes moi back. I use to have a a piece of cutlery just like zat a long time ago."
  24: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x097B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12393*]:
+ 25: 0x097B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12394*]:
     → "Back zen I never would have imagined zat zings would turn out like zey have. C'est la vie, non?"
  26: 0x0982 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0983 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
  28: 0x0992 [0x52] END_LOAD_SCHEDULER: End scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=368*
  29: 0x09A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 30: 0x09B2 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12394*]:
+ 30: 0x09B2 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12395*]:
     → "But zat knife has no edge. Such a dull blade eez unfit for use! Who has been using zis knife and neglecting eet so?"
  31: 0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x09BA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12395*]:
+ 32: 0x09BA [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12396*]:
     → "Wait zere just a moment. I will sharpen eet just pour vous!"
  33: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x09C2 [0x1C] WAIT(60* ticks)
@@ -2127,13 +2127,13 @@ SUBROUTINE_038A:
  40: 0x0A08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  41: 0x0A19 [0x1C] WAIT(30* ticks)
  42: 0x0A1C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 43: 0x0A2B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12396*]:
+ 43: 0x0A2B [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12397*]:
     → "Vous see? Good as new, non?"
  44: 0x0A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0A33 [0x52] END_LOAD_SCHEDULER: End scheduler "zzzz" with entities [LocalPlayer, LocalPlayer], work=368*
  46: 0x0A42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  47: 0x0A53 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 48: 0x0A62 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12397*]:
+ 48: 0x0A62 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12398*]:
     → "Cooking eez a form of love. Vous must want to bring happiness to people through zee food. And eet eez important to love zee tools zat vous use. Take good care of zat knife from now on."
  49: 0x0A69 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0A6A [0x1C] WAIT(60* ticks)
@@ -2174,7 +2174,7 @@ SUBROUTINE_038A:
   3: 0x0ACF [0x03] Work_Zone[3] = 5661*
   4: 0x0AD4 [0x03] Work_Zone[4] = 5662*
   5: 0x0AD9 [0x03] Work_Zone[5] = 5660*
-  6: 0x0ADE [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12383*]:
+  6: 0x0ADE [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12384*]:
     → "Do not forget zee ingredients! I require $0, $1, $2, and $3."
   7: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0AE6 [0x21] END_EVENT
@@ -2203,7 +2203,7 @@ SUBROUTINE_038A:
 ```
   0: 0x0AE8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0AED [0x1C] WAIT(30* ticks)
-  2: 0x0AF0 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12386*]:
+  2: 0x0AF0 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12387*]:
     → "Non non, vous have returned much too soon. Zese zings take time. Patience eez a virtue!"
   3: 0x0AF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0AF8 [0x21] END_EVENT
@@ -2232,7 +2232,7 @@ SUBROUTINE_038A:
 ```
   0: 0x0AFA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0AFF [0x1C] WAIT(30* ticks)
-  2: 0x0B02 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12390*]:
+  2: 0x0B02 [0x2B] Ranpi-Monpi (ID: 17752138/0x010EE04A) [12391*]:
     → "Eet may not be zee most beautiful deesh, but zat eez no matter! I gladly stake my reputation on eets taste!"
   3: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0B0A [0x21] END_EVENT
@@ -2265,21 +2265,21 @@ SUBROUTINE_038A:
   1: 0x0B0D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0B12 [0x1C] WAIT(30* ticks)
   3: 0x0B15 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0B39
-  4: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12401*)
+  4: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12402*)
     → "Ze what? You are looking to buy a new stewpot, you zay?"
   5: 0x0B20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=12402*)
+  6: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=12403*)
     → "Mon dieu! Zat ees one hole tres gigantique!"
   7: 0x0B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0B25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12403*)
+  8: 0x0B25 [0x1D] PRINT_EVENT_MESSAGE(message_id=12404*)
     → "But zere ees no need for panique! Mais non! Ze ezteemed Ranpi-Monpi will feex it up for you, good as nouveau!"
   9: 0x0B28 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B29 [0x6E] EventEntity uses emote 7*
  11: 0x0B30 [0x99] Wait for EventEntity animation to complete
- 12: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12404*)
+ 12: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=12405*)
     → "Zat will zave you beaucoup gil, certainmentaru! Hohoho!"
  13: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12405*)
+ 14: 0x0B39 [0x1D] PRINT_EVENT_MESSAGE(message_id=12406*)
     → "Ze only thing I weel be needing ees une bouteille de pate Sieglinde. Oui, $0, I said. Ees your oreilles ze stuffed with ze popotoes!?"
  15: 0x0B3C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0B3D [0x21] END_EVENT
@@ -2314,7 +2314,7 @@ SUBROUTINE_038A:
   0: 0x0B3F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0B40 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0B45 [0x1C] WAIT(30* ticks)
-  3: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12406*)
+  3: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=12407*)
     → "Splendide! Magnifique! Now, eef you just attendez un momentaru, I shall feex eet up for you, good as nouveau!"
   4: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B4C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2322,7 +2322,7 @@ SUBROUTINE_038A:
   7: 0x0B6C [0x1C] WAIT(120* ticks)
   8: 0x0B6F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x0B80 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
- 10: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12407*)
+ 10: 0x0B8F [0x1D] PRINT_EVENT_MESSAGE(message_id=12408*)
     → "Voila! Ees she not ze toute beaute? Treat her well, and au revoir!"
  11: 0x0B92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0B93 [0x21] END_EVENT

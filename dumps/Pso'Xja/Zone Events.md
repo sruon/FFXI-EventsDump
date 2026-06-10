@@ -174,10 +174,10 @@
 |      89 | 0xFFFF15A2  |  4294907298 |
 |      90 | 0x7127      |       28967 |
 |      91 | 0x0C00      |        3072 |
-|      92 | 0x1C69      |        7273 |
+|      92 | 0x1C6A      |        7274 |
 |      93 | 0x0000      |           0 |
-|      94 | 0x1C62      |        7266 |
-|      95 | 0x1C6D      |        7277 |
+|      94 | 0x1C63      |        7267 |
+|      95 | 0x1C6E      |        7278 |
 |      96 | 0x008C      |         140 |
 |      97 | 0x00C8      |         200 |
 |      98 | 0x003C      |          60 |
@@ -237,9 +237,9 @@
 
 ## String References
 
-- **7266**: A potent field of magic exists beyond the door. You sense that simply touching the door will transport you elsewhere.
-- **7273**: Use the device? [Yes./No.]
-- **7277**: Touch the door? [Yes./No.]
+- **7267**: A potent field of magic exists beyond the door. You sense that simply touching the door will transport you elsewhere.
+- **7274**: Use the device? [Yes./No.]
+- **7278**: Touch the door? [Yes./No.]
 
 ## Events
 
@@ -1065,7 +1065,7 @@
 
 ```
   0: 0x0196 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0198 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x0198 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x019F [0x25] WAIT_DIALOG_SELECT()
   3: 0x01A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BC
@@ -1107,7 +1107,7 @@ SUBROUTINE_01C7:
 
 ```
   0: 0x01CB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01CD [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x01CD [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x01D4 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01D5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F1
@@ -1149,7 +1149,7 @@ SUBROUTINE_01FC:
 
 ```
   0: 0x0200 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0202 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x0202 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0209 [0x25] WAIT_DIALOG_SELECT()
   3: 0x020A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0226
@@ -1191,7 +1191,7 @@ SUBROUTINE_0231:
 
 ```
   0: 0x0235 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0237 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x0237 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x023E [0x25] WAIT_DIALOG_SELECT()
   3: 0x023F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025B
@@ -1233,7 +1233,7 @@ SUBROUTINE_0266:
 
 ```
   0: 0x026A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x026C [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x026C [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0273 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0274 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0290
@@ -1276,7 +1276,7 @@ SUBROUTINE_029B:
 
 ```
   0: 0x029F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02A1 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
+  1: 0x02A1 [0x24] CREATE_DIALOG(message_id=7274*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x02A8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x02A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C5
@@ -1318,10 +1318,10 @@ SUBROUTINE_02D0:
 
 ```
   0: 0x02D4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02D6 [0x48] [System] [7266*]:
+  1: 0x02D6 [0x48] [System] [7267*]:
     → "A potent field of magic exists beyond the door. You sense that simply touching the door will transport you elsewhere."
   2: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02DA [0x24] CREATE_DIALOG(message_id=7277*, default_option=1*, option_flags=0*)
+  3: 0x02DA [0x24] CREATE_DIALOG(message_id=7278*, default_option=1*, option_flags=0*)
     → "Touch the door? [Yes./No.]"
   4: 0x02E1 [0x25] WAIT_DIALOG_SELECT()
   5: 0x02E2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FE

@@ -21,28 +21,28 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x405A      |       16474 |
+|       0 | 0x405B      |       16475 |
 |       1 | 0x40000000  |  1073741824 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x405B      |       16475 |
-|       4 | 0x405C      |       16476 |
-|       5 | 0x405D      |       16477 |
-|       6 | 0x405F      |       16479 |
-|       7 | 0x405E      |       16478 |
-|       8 | 0x4060      |       16480 |
+|       3 | 0x405C      |       16476 |
+|       4 | 0x405D      |       16477 |
+|       5 | 0x405E      |       16478 |
+|       6 | 0x4060      |       16480 |
+|       7 | 0x405F      |       16479 |
+|       8 | 0x4061      |       16481 |
 |       9 | 0x0008      |           8 |
 |      10 | 0x000F      |          15 |
 |      11 | 0x0010      |          16 |
 |      12 | 0x001F      |          31 |
-|      13 | 0x4061      |       16481 |
+|      13 | 0x4062      |       16482 |
 |      14 | 0x0011      |          17 |
 |      15 | 0x0012      |          18 |
 |      16 | 0x000A      |          10 |
-|      17 | 0x4062      |       16482 |
-|      18 | 0x4063      |       16483 |
+|      17 | 0x4063      |       16483 |
+|      18 | 0x4064      |       16484 |
 |      19 | 0x0001      |           1 |
-|      20 | 0x2AE5      |       10981 |
-|      21 | 0x4064      |       16484 |
+|      20 | 0x2AE6      |       10982 |
+|      21 | 0x4065      |       16485 |
 |      22 | 0xFFFFFFFF  |  4294967295 |
 |      23 | 0x0020      |          32 |
 |      24 | 0x030F      |         783 |
@@ -60,18 +60,18 @@
 
 ## String References
 
-- **10981**: You do not have enough gil.
-- **16474**: I've set up shop at this site in search of souls to sell sundries to, kupo! Come back later for some glorious goodies!
-- **16475**: Come hither, able adventurer! From precipitously perilous peaks to completely creepy caves, I've gathered glorious goodies to sell to one such as yourself!
-- **16476**: Y-you don't seriously suspect I stole this sumptuous stash through some surreptitious scheme!? I assure you I acquired them on the up-and-up!
-- **16477**: You won't find frivolous frauds here, only absolutely authentic articles, kupo!
-- **16478**: Back to buy, kupo?
-- **16479**: Tremendous timing! I've imported an incredible inventory of immaculate items!
-- **16480**: What would you like? [Nothing for now./Medicine./Ammunition./Ninjutsu tools./Foodstuffs./Scrolls/materials./Keys./Equipment./Various key items.]
-- **16481**: Get your hands on what? [None of these./$3: $17 gil./$3: $18 gil./$3: $19 gil./$3: $20 gil./$3: $21 gil./$3: $22 gil./$3: $23 gil./$3: $24 gil./$3: $25 gil./$3: $26 gil./$3: $27 gil./$3: $28 gil./$3: $29 gil./$3: $30 gil./$3: $31 gil./$3: $ gil./Previous page./Next page.]
-- **16482**: $6 will run you $2 gil, kupo.
-- **16483**: Purchase that item? ($0 gil) [Yes, please./No, thank you.]
-- **16484**: Always a pleasure!
+- **10982**: You do not have enough gil.
+- **16475**: I've set up shop at this site in search of souls to sell sundries to, kupo! Come back later for some glorious goodies!
+- **16476**: Come hither, able adventurer! From precipitously perilous peaks to completely creepy caves, I've gathered glorious goodies to sell to one such as yourself!
+- **16477**: Y-you don't seriously suspect I stole this sumptuous stash through some surreptitious scheme!? I assure you I acquired them on the up-and-up!
+- **16478**: You won't find frivolous frauds here, only absolutely authentic articles, kupo!
+- **16479**: Back to buy, kupo?
+- **16480**: Tremendous timing! I've imported an incredible inventory of immaculate items!
+- **16481**: What would you like? [Nothing for now./Medicine./Ammunition./Ninjutsu tools./Foodstuffs./Scrolls/materials./Keys./Equipment./Various key items.]
+- **16482**: Get your hands on what? [None of these./$3: $17 gil./$3: $18 gil./$3: $19 gil./$3: $20 gil./$3: $21 gil./$3: $22 gil./$3: $23 gil./$3: $24 gil./$3: $25 gil./$3: $26 gil./$3: $27 gil./$3: $28 gil./$3: $29 gil./$3: $30 gil./$3: $31 gil./$3: $ gil./Previous page./Next page.]
+- **16483**: $6 will run you $2 gil, kupo.
+- **16484**: Purchase that item? ($0 gil) [Yes, please./No, thank you.]
+- **16485**: Always a pleasure!
 
 ## Events
 
@@ -211,23 +211,23 @@ SUBROUTINE_001C:
  11: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 0*) GOTO 0x0066
  13: 0x0048 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x005F
- 14: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=16475*)
+ 14: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=16476*)
     → "Come hither, able adventurer! From precipitously perilous peaks to completely creepy caves, I've gathered glorious goodies to sell to one such as yourself!"
  15: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=16476*)
+ 16: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=16477*)
     → "Y-you don't seriously suspect I stole this sumptuous stash through some surreptitious scheme!? I assure you I acquired them on the up-and-up!"
  17: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=16477*)
+ 18: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=16478*)
     → "You won't find frivolous frauds here, only absolutely authentic articles, kupo!"
  19: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x005C [0x01] GOTO 0x0063
- 21: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=16479*)
+ 21: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=16480*)
     → "Tremendous timing! I've imported an incredible inventory of immaculate items!"
  22: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0063:
  23: 0x0063 [0x01] GOTO 0x006A
- 24: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=16478*)
+ 24: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=16479*)
     → "Back to buy, kupo?"
  25: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -235,7 +235,7 @@ SUBROUTINE_006A:
  26: 0x006A [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  27: 0x006B [0x06] ExtData[1]->WorkLocal[5] = 0
  28: 0x006E [0x06] ExtData[1]->WorkLocal[4] = 0
- 29: 0x0071 [0x24] CREATE_DIALOG(message_id=16480*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[4])
+ 29: 0x0071 [0x24] CREATE_DIALOG(message_id=16481*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[4])
     → "What would you like? [Nothing for now./Medicine./Ammunition./Ninjutsu tools./Foodstuffs./Scrolls/materials./Keys./Equipment./Various key items.]"
  30: 0x0078 [0x25] WAIT_DIALOG_SELECT()
  31: 0x0079 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0089
@@ -262,7 +262,7 @@ SUBROUTINE_00B7:
 SUBROUTINE_00C0:
  45: 0x00C0 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x01BC
  46: 0x00C8 [0x1A] CALL_SUBROUTINE(address=0x01BD)
- 47: 0x00CB [0x24] CREATE_DIALOG(message_id=16481*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[6])
+ 47: 0x00CB [0x24] CREATE_DIALOG(message_id=16482*, default_option=ExtData[1]->WorkLocal[7], option_flags=ExtData[1]->WorkLocal[6])
     → "Get your hands on what? [None of these./$3: $17 gil./$3: $18 gil./$3: $19 gil./$3: $20 gil./$3: $21 gil./$3: $22 gil./$3: $23 gil./$3: $24 gil./$3: $25 gil./$3: $26 gil./$3: $27 gil./$3: $28 gil./$3: $29 gil./$3: $30 gil./$3: $31 gil./$3: $ gil./Previous page./Next page.]"
  48: 0x00D2 [0x25] WAIT_DIALOG_SELECT()
  49: 0x00D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E6
@@ -293,15 +293,15 @@ SUBROUTINE_0125:
  72: 0x0144 [0x9D] Work_Zone[3] = 0x031A[ExtData[1]->WorkLocal[16]] // Read WORD
  73: 0x014C [0x9D] Work_Zone[4] = 0x033A[ExtData[1]->WorkLocal[16]] // Read WORD
  74: 0x0154 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 75: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=16482*)
+ 75: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=16483*)
     → "$6 will run you $2 gil, kupo."
  76: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x015D [0x24] CREATE_DIALOG(message_id=16483*, default_option=1*, option_flags=0*)
+ 77: 0x015D [0x24] CREATE_DIALOG(message_id=16484*, default_option=1*, option_flags=0*)
     → "Purchase that item? ($0 gil) [Yes, please./No, thank you.]"
  78: 0x0164 [0x25] WAIT_DIALOG_SELECT()
  79: 0x0165 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01AE
  80: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[3] >= Work_Zone[4]) GOTO 0x017C
- 81: 0x0175 [0x48] [System] [10981*]:
+ 81: 0x0175 [0x48] [System] [10982*]:
     → "You do not have enough gil."
  82: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0179 [0x01] GOTO 0x01AB
@@ -311,7 +311,7 @@ SUBROUTINE_0125:
  87: 0x0190 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  88: 0x0192 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x019D
  89: 0x019A [0x01] GOTO 0x01A1
- 90: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=16484*)
+ 90: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=16485*)
     → "Always a pleasure!"
  91: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -416,7 +416,7 @@ SUBROUTINE_02C3:
      0x000B [0x1E] EventEntity looks at LocalPlayer and starts talking
      0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-     0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=16474*)
+     0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=16475*)
     → "I've set up shop at this site in search of souls to sell sundries to, kupo! Come back later for some glorious goodies!"
      0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0016 [0x03] Work_Zone[1] = 1073741824*

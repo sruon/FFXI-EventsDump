@@ -21,20 +21,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1EC6      |        7878 |
+|       1 | 0x1EC7      |        7879 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1EC7      |        7879 |
-|       4 | 0x1EC8      |        7880 |
-|       5 | 0x1EC9      |        7881 |
-|       6 | 0x1ECA      |        7882 |
+|       3 | 0x1EC8      |        7880 |
+|       4 | 0x1EC9      |        7881 |
+|       5 | 0x1ECA      |        7882 |
+|       6 | 0x1ECB      |        7883 |
 
 ## String References
 
-- **7878**: The Goddess of the Dawn spoke: "He who fails to question his faith is blind. A believer without doubt will turn gold to lead."
-- **7879**: "I can only light thy candle; thou must carry thy own."
-- **7880**: "I cannot lead thee, for thy path is thine alone. Let the light of thy candle guide thee."
-- **7881**: "He who finds me at the journey's end..." That is all. No one knows what follows.
-- **7882**: But the day will come when all is revealed.
+- **7879**: The Goddess of the Dawn spoke: "He who fails to question his faith is blind. A believer without doubt will turn gold to lead."
+- **7880**: "I can only light thy candle; thou must carry thy own."
+- **7881**: "I cannot lead thee, for thy path is thine alone. Let the light of thy candle guide thee."
+- **7882**: "He who finds me at the journey's end..." That is all. No one knows what follows.
+- **7883**: But the day will come when all is revealed.
 
 ## Events
 
@@ -87,23 +87,23 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "The Goddess of the Dawn spoke: "He who fails to question his faith is blind. A believer without doubt will turn gold to lead.""
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → ""I can only light thy candle; thou must carry thy own.""
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x1C] WAIT(30* ticks)
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → ""I cannot lead thee, for thy path is thine alone. Let the light of thy candle guide thee.""
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0029 [0x1C] WAIT(30* ticks)
- 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+ 13: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → ""He who finds me at the journey's end..." That is all. No one knows what follows."
  14: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0030 [0x1C] WAIT(30* ticks)
- 16: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+ 16: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "But the day will come when all is revealed."
  17: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0037 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

@@ -34,19 +34,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0166      |         358 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1D5D      |        7517 |
-|       3 | 0x1D5E      |        7518 |
-|       4 | 0x1D5F      |        7519 |
-|       5 | 0x1D60      |        7520 |
-|       6 | 0x1D61      |        7521 |
+|       2 | 0x1D5E      |        7518 |
+|       3 | 0x1D5F      |        7519 |
+|       4 | 0x1D60      |        7520 |
+|       5 | 0x1D61      |        7521 |
+|       6 | 0x1D62      |        7522 |
 
 ## String References
 
-- **7517**: Earn a fortune working on a lazy trrropical island.t
-- **7518**: ...Or at least that's what the brrrochure said.
-- **7519**: All I do is lug heavy boxes around all day, and get ignored by tourrrists.
-- **7520**: Goldmane? I've never heard that name, but there's a blonde Elvaan who's always hanging arrround the boat on the west side of the island.
-- **7521**: You know, a Hume girl and her moogle friend just asked me the same question. Must be some new tourrrist attrrraction...
+- **7518**: Earn a fortune working on a lazy trrropical island.t
+- **7519**: ...Or at least that's what the brrrochure said.
+- **7520**: All I do is lug heavy boxes around all day, and get ignored by tourrrists.
+- **7521**: Goldmane? I've never heard that name, but there's a blonde Elvaan who's always hanging arrround the boat on the west side of the island.
+- **7522**: You know, a Hume girl and her moogle friend just asked me the same question. Must be some new tourrrist attrrraction...
 
 ## Events
 
@@ -371,15 +371,15 @@
   1: 0x00C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x01)
-  4: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  4: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "Earn a fortune working on a lazy trrropical island.t"
   5: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  6: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "...Or at least that's what the brrrochure said."
   7: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x02)
   9: 0x00DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x08)
- 10: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+ 10: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "All I do is lug heavy boxes around all day, and get ignored by tourrrists."
  11: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x09)
@@ -414,10 +414,10 @@
   1: 0x00F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x03)
-  4: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
+  4: 0x0100 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
     → "Goldmane? I've never heard that name, but there's a blonde Elvaan who's always hanging arrround the boat on the west side of the island."
   5: 0x0103 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7521*)
+  6: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
     → "You know, a Hume girl and her moogle friend just asked me the same question. Must be some new tourrrist attrrraction..."
   7: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0108 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rhalo Davigoh (ID: 16794013/0x0100419D), tag_num=0x04)

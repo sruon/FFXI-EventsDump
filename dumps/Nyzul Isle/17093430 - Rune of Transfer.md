@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D38      |        7480 |
-|       1 | 0x1D44      |        7492 |
+|       0 | 0x1D39      |        7481 |
+|       1 | 0x1D45      |        7493 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
@@ -63,26 +63,26 @@
 |      39 | 0x0708      |        1800 |
 |      40 | 0x0014      |          20 |
 |      41 | 0x076C      |        1900 |
-|      42 | 0x1D47      |        7495 |
-|      43 | 0x1D48      |        7496 |
-|      44 | 0x1D45      |        7493 |
-|      45 | 0x1D46      |        7494 |
-|      46 | 0x1D39      |        7481 |
-|      47 | 0x1D43      |        7491 |
+|      42 | 0x1D48      |        7496 |
+|      43 | 0x1D49      |        7497 |
+|      44 | 0x1D46      |        7494 |
+|      45 | 0x1D47      |        7495 |
+|      46 | 0x1D3A      |        7482 |
+|      47 | 0x1D44      |        7492 |
 |      48 | 0x001F      |          31 |
-|      49 | 0x1D3A      |        7482 |
+|      49 | 0x1D3B      |        7483 |
 
 ## String References
 
-- **7480**: 3 confirmed. Please select a floor number.
-- **7481**: 3 confirmed. Please select your destination floor.
-- **7482**: Final destination set to Floor $0. Travel to Floor 1?
-- **7491**: Select a floor. [None."0./40./60./80./100.]
-- **7492**: Select a floor. [None./1./6./11./16."1."6."1."6./41./46./51./56./61./66./71./76./81./86./91./96.]
-- **7493**: Transfer to Floor $0 requires $1 [token/tokens].
-- **7494**: Use $1 [token/tokens] to travel to Floor $0? [Yes./No.]
-- **7495**: Commencing transfer to Floor 1.
-- **7496**: Travel to Floor 1? [Yes./No.]
+- **7481**: 3 confirmed. Please select a floor number.
+- **7482**: 3 confirmed. Please select your destination floor.
+- **7483**: Final destination set to Floor $0. Travel to Floor 1?
+- **7492**: Select a floor. [None."0./40./60./80./100.]
+- **7493**: Select a floor. [None./1./6./11./16."1."6."1."6./41./46./51./56./61./66./71./76./81./86./91./96.]
+- **7494**: Transfer to Floor $0 requires $1 [token/tokens].
+- **7495**: Use $1 [token/tokens] to travel to Floor $0? [Yes./No.]
+- **7496**: Commencing transfer to Floor 1.
+- **7497**: Travel to Floor 1? [Yes./No.]
 
 ## Events
 
@@ -153,10 +153,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7480*]:
+  0: 0x0001 [0x48] [System] [7481*]:
     → "3 confirmed. Please select a floor number."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7492*, default_option=0*, option_flags=Work_Zone[9])
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7493*, default_option=0*, option_flags=Work_Zone[9])
     → "Select a floor. [None./1./6./11./16."1."6."1."6./41./46./51./56./61./66./71./76./81./86./91./96.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0018
@@ -226,10 +226,10 @@ SUBROUTINE_0148:
  66: 0x0157 [0x08] Work_Zone[2] -= 4*
  67: 0x015C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A7
  68: 0x0164 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018B
- 69: 0x016C [0x48] [System] [7495*]:
+ 69: 0x016C [0x48] [System] [7496*]:
     → "Commencing transfer to Floor 1."
  70: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0170 [0x24] CREATE_DIALOG(message_id=7496*, default_option=1*, option_flags=0*)
+ 71: 0x0170 [0x24] CREATE_DIALOG(message_id=7497*, default_option=1*, option_flags=0*)
     → "Travel to Floor 1? [Yes./No.]"
  72: 0x0177 [0x25] WAIT_DIALOG_SELECT()
  73: 0x0178 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0188
@@ -238,10 +238,10 @@ SUBROUTINE_0148:
 
 SUBROUTINE_0188:
  76: 0x0188 [0x01] GOTO 0x01A7
- 77: 0x018B [0x48] [System] [7493*]:
+ 77: 0x018B [0x48] [System] [7494*]:
     → "Transfer to Floor $0 requires $1 [token/tokens]."
  78: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x018F [0x24] CREATE_DIALOG(message_id=7494*, default_option=1*, option_flags=0*)
+ 79: 0x018F [0x24] CREATE_DIALOG(message_id=7495*, default_option=1*, option_flags=0*)
     → "Use $1 [token/tokens] to travel to Floor $0? [Yes./No.]"
  80: 0x0196 [0x25] WAIT_DIALOG_SELECT()
  81: 0x0197 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01A7
@@ -278,10 +278,10 @@ SUBROUTINE_01A7:
 #### Opcodes
 
 ```
-  0: 0x01A9 [0x48] [System] [7481*]:
+  0: 0x01A9 [0x48] [System] [7482*]:
     → "3 confirmed. Please select your destination floor."
   1: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x01AD [0x24] CREATE_DIALOG(message_id=7491*, default_option=0*, option_flags=0*)
+  2: 0x01AD [0x24] CREATE_DIALOG(message_id=7492*, default_option=0*, option_flags=0*)
     → "Select a floor. [None."0./40./60./80./100.]"
   3: 0x01B4 [0x25] WAIT_DIALOG_SELECT()
   4: 0x01B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C0
@@ -293,10 +293,10 @@ SUBROUTINE_01C0:
   8: 0x01CE [0x14] Work_Zone[2] *= 20*
   9: 0x01D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0200
  10: 0x01DB [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=1*)
- 11: 0x01E4 [0x48] [System] [7482*]:
+ 11: 0x01E4 [0x48] [System] [7483*]:
     → "Final destination set to Floor $0. Travel to Floor 1?"
  12: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x01E8 [0x24] CREATE_DIALOG(message_id=7496*, default_option=1*, option_flags=0*)
+ 13: 0x01E8 [0x24] CREATE_DIALOG(message_id=7497*, default_option=1*, option_flags=0*)
     → "Travel to Floor 1? [Yes./No.]"
  14: 0x01EF [0x25] WAIT_DIALOG_SELECT()
  15: 0x01F0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0200

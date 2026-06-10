@@ -58,44 +58,44 @@
 |      10 | 0xFFFFF2E1  |  4294963937 |
 |      11 | 0x49EDD     |      302813 |
 |      12 | 0x035A      |         858 |
-|      13 | 0x1F21      |        7969 |
-|      14 | 0x1F23      |        7971 |
-|      15 | 0x1F25      |        7973 |
-|      16 | 0x1F26      |        7974 |
-|      17 | 0x1F28      |        7976 |
-|      18 | 0x1F29      |        7977 |
-|      19 | 0x1F2A      |        7978 |
-|      20 | 0x1F2B      |        7979 |
-|      21 | 0x1F2C      |        7980 |
-|      22 | 0x1F2F      |        7983 |
-|      23 | 0x1F30      |        7984 |
-|      24 | 0x1F31      |        7985 |
+|      13 | 0x1F22      |        7970 |
+|      14 | 0x1F24      |        7972 |
+|      15 | 0x1F26      |        7974 |
+|      16 | 0x1F27      |        7975 |
+|      17 | 0x1F29      |        7977 |
+|      18 | 0x1F2A      |        7978 |
+|      19 | 0x1F2B      |        7979 |
+|      20 | 0x1F2C      |        7980 |
+|      21 | 0x1F2D      |        7981 |
+|      22 | 0x1F30      |        7984 |
+|      23 | 0x1F31      |        7985 |
+|      24 | 0x1F32      |        7986 |
 |      25 | 0x0006      |           6 |
-|      26 | 0x1F32      |        7986 |
-|      27 | 0x1F33      |        7987 |
-|      28 | 0x1F35      |        7989 |
-|      29 | 0x1F36      |        7990 |
-|      30 | 0x1F38      |        7992 |
+|      26 | 0x1F33      |        7987 |
+|      27 | 0x1F34      |        7988 |
+|      28 | 0x1F36      |        7990 |
+|      29 | 0x1F37      |        7991 |
+|      30 | 0x1F39      |        7993 |
 
 ## String References
 
-- **7969**: Perhaps it means she wishes to exchange your earring for herrrs?
-- **7971**: Semih Lafihna, Sibyl Guard of Heavens Tower in Windurst. That is your title, correct?
-- **7973**: I am a Mithran Tracker. Have you not heard of us? I have trrraveled from the Mithran homeland that lies across the seas.
-- **7974**: I learned that a sinner was taking rrrefuge with a tribe that lived in Windurst.
-- **7976**: Twenty years ago, in the time of the Great War, the tribal chieftainness of a certain region perpetrated a grrrave offense.
-- **7977**: That chieftainness escaped to this land, but was hunted down by Perih Vashai.
-- **7978**: We received word that the daughter of the chieftainness perrrished along with her mother. The Mithran Tracker who traveled here twenty years ago confirmed the report.
-- **7979**: However, before the light of life left her, she confessed to her own sin: "The daughter still lives."
-- **7980**: And so I have come. I will seek out the daughter of the chieftainness and make her atone for the sins of her mother.
-- **7983**: Although all the other orphans of the war were sent to their rrrespective homelands, only you few were taken in by a different people. Was this done to evade the Mithran Trackers, perrrhaps?
-- **7984**: And out of those orphans who went to live in Heavens Tower, you were the only one to have no rrrecord of her parents...
-- **7985**: A sin is a sin, even if you have no memory of the fact. The child must pay for the sins of the mother when the mother can no longer make amends.
-- **7986**: Trying to switch the earring will do you no good. That is not how I will know you as the child of the sinner.
-- **7987**: Let me tell you a secret. A sinner carries the scent of sin. It is a scent that only these king's tear moths can detect. A scent that will not fade and that you cannot escape. A scent that will stay with you forrrever.
-- **7989**: ...!? You don't carry the scent...?
-- **7990**: ...... I must apologize. I seem to have been mistaken.
-- **7992**: That is no longer my concern. Farewell, Semih Lafihna.
+- **7970**: Perhaps it means she wishes to exchange your earring for herrrs?
+- **7972**: Semih Lafihna, Sibyl Guard of Heavens Tower in Windurst. That is your title, correct?
+- **7974**: I am a Mithran Tracker. Have you not heard of us? I have trrraveled from the Mithran homeland that lies across the seas.
+- **7975**: I learned that a sinner was taking rrrefuge with a tribe that lived in Windurst.
+- **7977**: Twenty years ago, in the time of the Great War, the tribal chieftainness of a certain region perpetrated a grrrave offense.
+- **7978**: That chieftainness escaped to this land, but was hunted down by Perih Vashai.
+- **7979**: We received word that the daughter of the chieftainness perrrished along with her mother. The Mithran Tracker who traveled here twenty years ago confirmed the report.
+- **7980**: However, before the light of life left her, she confessed to her own sin: "The daughter still lives."
+- **7981**: And so I have come. I will seek out the daughter of the chieftainness and make her atone for the sins of her mother.
+- **7984**: Although all the other orphans of the war were sent to their rrrespective homelands, only you few were taken in by a different people. Was this done to evade the Mithran Trackers, perrrhaps?
+- **7985**: And out of those orphans who went to live in Heavens Tower, you were the only one to have no rrrecord of her parents...
+- **7986**: A sin is a sin, even if you have no memory of the fact. The child must pay for the sins of the mother when the mother can no longer make amends.
+- **7987**: Trying to switch the earring will do you no good. That is not how I will know you as the child of the sinner.
+- **7988**: Let me tell you a secret. A sinner carries the scent of sin. It is a scent that only these king's tear moths can detect. A scent that will not fade and that you cannot escape. A scent that will stay with you forrrever.
+- **7990**: ...!? You don't carry the scent...?
+- **7991**: ...... I must apologize. I seem to have been mistaken.
+- **7993**: That is no longer my concern. Farewell, Semih Lafihna.
 
 ## Events
 
@@ -388,7 +388,7 @@
 #### Opcodes
 
 ```
-  0: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+  0: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "Perhaps it means she wishes to exchange your earring for herrrs?"
   1: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x008B [0x00] END_REQSTACK()
@@ -414,7 +414,7 @@
 #### Opcodes
 
 ```
-  0: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+  0: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "Semih Lafihna, Sibyl Guard of Heavens Tower in Windurst. That is your title, correct?"
   1: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0090 [0x00] END_REQSTACK()
@@ -439,7 +439,7 @@
 #### Opcodes
 
 ```
-  0: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  0: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "I am a Mithran Tracker. Have you not heard of us? I have trrraveled from the Mithran homeland that lies across the seas."
   1: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0095 [0x00] END_REQSTACK()
@@ -464,7 +464,7 @@
 #### Opcodes
 
 ```
-  0: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+  0: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "I learned that a sinner was taking rrrefuge with a tribe that lived in Windurst."
   1: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x009A [0x00] END_REQSTACK()
@@ -491,7 +491,7 @@
 
 ```
   0: 0x009B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree M (ID: 17203871/0x0106829F), tag_num=0x01)
-  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+  1: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "Twenty years ago, in the time of the Great War, the tribal chieftainness of a certain region perpetrated a grrrave offense."
   2: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00A6 [0x00] END_REQSTACK()
@@ -516,7 +516,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+  0: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "That chieftainness escaped to this land, but was hunted down by Perih Vashai."
   1: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AB [0x00] END_REQSTACK()
@@ -542,7 +542,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
+  0: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
     → "We received word that the daughter of the chieftainness perrrished along with her mother. The Mithran Tracker who traveled here twenty years ago confirmed the report."
   1: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B0 [0x00] END_REQSTACK()
@@ -567,7 +567,7 @@
 #### Opcodes
 
 ```
-  0: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  0: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "However, before the light of life left her, she confessed to her own sin: "The daughter still lives.""
   1: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree M (ID: 17203871/0x0106829F), tag_num=0x02)
@@ -594,7 +594,7 @@
 #### Opcodes
 
 ```
-  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+  0: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "And so I have come. I will seek out the daughter of the chieftainness and make her atone for the sins of her mother."
   1: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C1 [0x00] END_REQSTACK()
@@ -619,7 +619,7 @@
 #### Opcodes
 
 ```
-  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+  0: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "Although all the other orphans of the war were sent to their rrrespective homelands, only you few were taken in by a different people. Was this done to evade the Mithran Trackers, perrrhaps?"
   1: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C6 [0x00] END_REQSTACK()
@@ -646,7 +646,7 @@
 
 ```
   0: 0x00C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree M (ID: 17203871/0x0106829F), tag_num=0x01)
-  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
+  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
     → "And out of those orphans who went to live in Heavens Tower, you were the only one to have no rrrecord of her parents..."
   2: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shikaree M (ID: 17203871/0x0106829F), tag_num=0x02)
@@ -673,12 +673,12 @@
 #### Opcodes
 
 ```
-  0: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+  0: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "A sin is a sin, even if you have no memory of the fact. The child must pay for the sins of the mother when the mother can no longer make amends."
   1: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DE [0x6E] EventEntity uses emote 6*
   3: 0x00E5 [0x99] Wait for EventEntity animation to complete
-  4: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+  4: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "Trying to switch the earring will do you no good. That is not how I will know you as the child of the sinner."
   5: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00EE [0x00] END_REQSTACK()
@@ -704,7 +704,7 @@
 #### Opcodes
 
 ```
-  0: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+  0: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "Let me tell you a secret. A sinner carries the scent of sin. It is a scent that only these king's tear moths can detect. A scent that will not fade and that you cannot escape. A scent that will stay with you forrrever."
   1: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F3 [0x00] END_REQSTACK()
@@ -729,7 +729,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  0: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "...!? You don't carry the scent...?"
   1: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00F8 [0x00] END_REQSTACK()
@@ -754,7 +754,7 @@
 #### Opcodes
 
 ```
-  0: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  0: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "...... I must apologize. I seem to have been mistaken."
   1: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00FD [0x00] END_REQSTACK()
@@ -780,7 +780,7 @@
 #### Opcodes
 
 ```
-  0: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  0: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "That is no longer my concern. Farewell, Semih Lafihna."
   1: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0102 [0x00] END_REQSTACK()

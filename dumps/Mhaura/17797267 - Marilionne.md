@@ -34,34 +34,34 @@
 |       9 | 0x0006      |           6 |
 |      10 | 0x000B      |          11 |
 |      11 | 0x0011      |          17 |
-|      12 | 0x1F18      |        7960 |
-|      13 | 0x1F1B      |        7963 |
-|      14 | 0x1F23      |        7971 |
+|      12 | 0x1F19      |        7961 |
+|      13 | 0x1F1C      |        7964 |
+|      14 | 0x1F24      |        7972 |
 |      15 | 0xFFFFFFFF  |  4294967295 |
 |      16 | 0x0002      |           2 |
 |      17 | 0x0003      |           3 |
-|      18 | 0x1F25      |        7973 |
-|      19 | 0x1F3C      |        7996 |
+|      18 | 0x1F26      |        7974 |
+|      19 | 0x1F3D      |        7997 |
 |      20 | 0x000A      |          10 |
-|      21 | 0x1F40      |        8000 |
-|      22 | 0x1F44      |        8004 |
-|      23 | 0x1F48      |        8008 |
-|      24 | 0x1F4C      |        8012 |
-|      25 | 0x1F50      |        8016 |
-|      26 | 0x1F54      |        8020 |
-|      27 | 0x1F58      |        8024 |
+|      21 | 0x1F41      |        8001 |
+|      22 | 0x1F45      |        8005 |
+|      23 | 0x1F49      |        8009 |
+|      24 | 0x1F4D      |        8013 |
+|      25 | 0x1F51      |        8017 |
+|      26 | 0x1F55      |        8021 |
+|      27 | 0x1F59      |        8025 |
 |      28 | 0x0007      |           7 |
-|      29 | 0x1F5C      |        8028 |
-|      30 | 0x1F60      |        8032 |
-|      31 | 0x1F64      |        8036 |
-|      32 | 0x1F68      |        8040 |
-|      33 | 0x1F28      |        7976 |
-|      34 | 0x1F2E      |        7982 |
-|      35 | 0x1F29      |        7977 |
+|      29 | 0x1F5D      |        8029 |
+|      30 | 0x1F61      |        8033 |
+|      31 | 0x1F65      |        8037 |
+|      32 | 0x1F69      |        8041 |
+|      33 | 0x1F29      |        7977 |
+|      34 | 0x1F2F      |        7983 |
+|      35 | 0x1F2A      |        7978 |
 |      36 | 0x006D      |         109 |
 |      37 | 0xFFF87ED7  |  4294475479 |
 |      38 | 0xFFF68FC8  |  4294348744 |
-|      39 | 0x1F36      |        7990 |
+|      39 | 0x1F37      |        7991 |
 |      40 | 0x34690     |      214672 |
 |      41 | 0xFFF7F337  |  4294439735 |
 |      42 | 0xFFFA32F5  |  4294587125 |
@@ -71,7 +71,7 @@
 |      46 | 0x0066      |         102 |
 |      47 | 0xFFFD4213  |  4294787603 |
 |      48 | 0x3E177     |      254327 |
-|      49 | 0x1F37      |        7991 |
+|      49 | 0x1F38      |        7992 |
 |      50 | 0x0096      |         150 |
 |      51 | 0xFFFF4198  |  4294918552 |
 |      52 | 0xFFFE6606  |  4294862342 |
@@ -92,21 +92,21 @@
 |      67 | 0x00F9      |         249 |
 |      68 | 0xFFFFE7B4  |  4294961076 |
 |      69 | 0x18CD6     |      101590 |
-|      70 | 0x1F38      |        7992 |
+|      70 | 0x1F39      |        7993 |
 |      71 | 0x005A      |          90 |
 |      72 | 0x003C      |          60 |
 |      73 | 0x15DF      |        5599 |
 |      74 | 0x19650     |      104016 |
-|      75 | 0x1F31      |        7985 |
+|      75 | 0x1F32      |        7986 |
 |      76 | 0x0050      |          80 |
-|      77 | 0x1F33      |        7987 |
-|      78 | 0x1F34      |        7988 |
-|      79 | 0x1F35      |        7989 |
+|      77 | 0x1F34      |        7988 |
+|      78 | 0x1F35      |        7989 |
+|      79 | 0x1F36      |        7990 |
 |      80 | 0x0027      |          39 |
-|      81 | 0x1F1D      |        7965 |
-|      82 | 0x1F1E      |        7966 |
-|      83 | 0x1F26      |        7974 |
-|      84 | 0x1F2C      |        7980 |
+|      81 | 0x1F1E      |        7966 |
+|      82 | 0x1F1F      |        7967 |
+|      83 | 0x1F27      |        7975 |
+|      84 | 0x1F2D      |        7981 |
 |      85 | 0xFFFF6697  |  4294928023 |
 |      86 | 0x111EE     |       70126 |
 |      87 | 0x442B      |       17451 |
@@ -132,9 +132,9 @@
 |     107 | 0x0010      |          16 |
 |     108 | 0xFFFF7C84  |  4294933636 |
 |     109 | 0x3B1A      |       15130 |
-|     110 | 0x1F27      |        7975 |
+|     110 | 0x1F28      |        7976 |
 |     111 | 0x0014      |          20 |
-|     112 | 0x1F2D      |        7981 |
+|     112 | 0x1F2E      |        7982 |
 |     113 | 0x00F8      |         248 |
 |     114 | 0xFFFFD919  |  4294957337 |
 |     115 | 0xFFFFE7C0  |  4294961088 |
@@ -159,38 +159,38 @@
 
 ## String References
 
-- **7960**: Good day to you, and welcome to Mhaura. My name is Marilionne, and I'd be happy to offer you any guidance you may need.
-- **7963**: Inquire about what? [I want to find some quests!/I want a map of [Mhaura/Selbina]!/I have other questions./Nothing for now.]
-- **7965**: If you bring me a map of the [Windurst/San d'Oria] area, I can place a couple markers on it for you. Surely that's better than flittering around aimlessly, no?
-- **7966**: Ludwig should be able to sell you one. He's south along the coast, and you'll find him on the left side of the grand plaza.
-- **7971**: There're many people both inside and outside of [Mhaura/Selbina] who need an adventurer's help with some problem or other. In fact, I've got a handy list of such individuals. Want me to help you find someone?
-- **7973**: Inquire about which locale? [None./[Mhaura/Selbina]: $1 individual[/s]./[Selbina/Mhaura]: $2 individual[/s]./Other: $3 individual[/s].]
-- **7974**: [In Mhaura/In Selbina], you might be able to get work from one of the people I'm about to list for you.
-- **7975**: There's a boat that runs from here to [Selbina/Mhaura]. Should you head there, you might be able to get work from one of the people I'm about to list for you.
-- **7976**: Outside of town, you might be able to get work from one of the people I'm about to list for you.
-- **7977**: You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands].
-- **7980**: Who will you go see in Mhaura? [No one./Fyi Chalmwoh./Rycharde./Rycharde./Lacia./Vera./Orlando./Rycharde./Rycharde./Take./Rycharde./Rycharde./Celestina./Nereus./Ripapa./Keshab-Menjab./Katsunaga.]
-- **7981**: Who will you go see in Selbina? [No one./Romeo./Melyon./Jimaida./Abelard./Devean./Isacio./Thunder Hawk./Oswald./Oswald./Vuntar./Zaldon.]
-- **7982**: Who will you go see? [No one./The suspicious Hume./Anguenet./Buffalostalker Dodzbraz./Koblakiq./Koblakiq./Koblakiq./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Schultz./Someone someplace special.]
-- **7985**: Somo Aatsula right in front of me can provide you with more information.
-- **7987**: If you open the main menu and press the right arrow key, you'll come across an entry called "Help Desk."
-- **7988**: Selecting that option and then clicking "Help Desk" again brings up a small list, of which one entry reads "I need help with the game controls."
-- **7989**: There's a lot of specific examples that might help you out, so give it a look if you're unclear on something.
-- **7990**: I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!
-- **7991**: Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map.
-- **7992**: Be sure to take a good look!
-- **7996**: There's still one other thing remaining to share with you.
-- **8000**: There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.
-- **8004**: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!
-- **8008**: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.
-- **8012**: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.
-- **8016**: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.
-- **8020**: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.
-- **8024**: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.
-- **8028**: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.
-- **8032**: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.
-- **8036**: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.
-- **8040**: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs.
+- **7961**: Good day to you, and welcome to Mhaura. My name is Marilionne, and I'd be happy to offer you any guidance you may need.
+- **7964**: Inquire about what? [I want to find some quests!/I want a map of [Mhaura/Selbina]!/I have other questions./Nothing for now.]
+- **7966**: If you bring me a map of the [Windurst/San d'Oria] area, I can place a couple markers on it for you. Surely that's better than flittering around aimlessly, no?
+- **7967**: Ludwig should be able to sell you one. He's south along the coast, and you'll find him on the left side of the grand plaza.
+- **7972**: There're many people both inside and outside of [Mhaura/Selbina] who need an adventurer's help with some problem or other. In fact, I've got a handy list of such individuals. Want me to help you find someone?
+- **7974**: Inquire about which locale? [None./[Mhaura/Selbina]: $1 individual[/s]./[Selbina/Mhaura]: $2 individual[/s]./Other: $3 individual[/s].]
+- **7975**: [In Mhaura/In Selbina], you might be able to get work from one of the people I'm about to list for you.
+- **7976**: There's a boat that runs from here to [Selbina/Mhaura]. Should you head there, you might be able to get work from one of the people I'm about to list for you.
+- **7977**: Outside of town, you might be able to get work from one of the people I'm about to list for you.
+- **7978**: You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands].
+- **7981**: Who will you go see in Mhaura? [No one./Fyi Chalmwoh./Rycharde./Rycharde./Lacia./Vera./Orlando./Rycharde./Rycharde./Take./Rycharde./Rycharde./Celestina./Nereus./Ripapa./Keshab-Menjab./Katsunaga.]
+- **7982**: Who will you go see in Selbina? [No one./Romeo./Melyon./Jimaida./Abelard./Devean./Isacio./Thunder Hawk./Oswald./Oswald./Vuntar./Zaldon.]
+- **7983**: Who will you go see? [No one./The suspicious Hume./Anguenet./Buffalostalker Dodzbraz./Koblakiq./Koblakiq./Koblakiq./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Schultz./Someone someplace special.]
+- **7986**: Somo Aatsula right in front of me can provide you with more information.
+- **7988**: If you open the main menu and press the right arrow key, you'll come across an entry called "Help Desk."
+- **7989**: Selecting that option and then clicking "Help Desk" again brings up a small list, of which one entry reads "I need help with the game controls."
+- **7990**: There's a lot of specific examples that might help you out, so give it a look if you're unclear on something.
+- **7991**: I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!
+- **7992**: Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map.
+- **7993**: Be sure to take a good look!
+- **7997**: There's still one other thing remaining to share with you.
+- **8001**: There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.
+- **8005**: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!
+- **8009**: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.
+- **8013**: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.
+- **8017**: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.
+- **8021**: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.
+- **8025**: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.
+- **8029**: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.
+- **8033**: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.
+- **8037**: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.
+- **8041**: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs.
 
 ## Events
 
@@ -462,12 +462,12 @@
 0E60: 75 6E 64 65 72 5F 48 61  77 6B 00 00 00 00 02 0A  under_Hawk......
 0E70: 00 07 80 03 7B 0E 07 0A  00 01 80 1C 03 80 1D 27  ....{..........'
 0E80: 80 23 8A 1C 03 80 01 95  0F 02 00 10 06 80 00 CC  .#..............
-0E90: 0E 42 89 71 80 1C 03 80  8B 71 80 0A 00 80 80 4F  .B.q.....q.....O
+0E90: 0E 42 89 71 80 1C 03 80  8B 71 80 0A 00 80 80 4E  .B.q.....q.....N
 0EA0: 80 4F 73 77 61 6C 64 00  00 00 00 00 00 00 00 00  .Oswald.........
 0EB0: 00 02 0A 00 07 80 03 BE  0E 07 0A 00 01 80 1C 03  ................
 0EC0: 80 1D 27 80 23 8A 1C 03  80 01 95 0F 02 00 10 07  ..'.#...........
 0ED0: 80 00 0F 0F 42 89 71 80  1C 03 80 8B 71 80 0A 00  ....B.q.....q...
-0EE0: 80 80 4F 80 4F 73 77 61  6C 64 00 00 00 00 00 00  ..O.Oswald......
+0EE0: 80 80 4E 80 4F 73 77 61  6C 64 00 00 00 00 00 00  ..N.Oswald......
 0EF0: 00 00 00 00 02 0A 00 07  80 03 01 0F 07 0A 00 01  ................
 0F00: 80 1C 03 80 1D 27 80 23  8A 1C 03 80 01 95 0F 02  .....'.#........
 0F10: 00 10 14 80 00 52 0F 42  89 71 80 1C 03 80 8B 71  .....R.B.q.....q
@@ -522,7 +522,7 @@ SUBROUTINE_005B:
  29: 0x00AF [0x41] Work_Zone[5] = ExtData[1]->WorkLocal[5] (bits 12*-17*)
  30: 0x00B8 [0x03] ExtData[1]->WorkLocal[17] = 0*
  31: 0x00BD [0x1E] EventEntity looks at LocalPlayer and starts talking
- 32: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+ 32: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "Good day to you, and welcome to Mhaura. My name is Marilionne, and I'd be happy to offer you any guidance you may need."
  33: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00C6 [0x03] Work_Zone[9] = 0*
@@ -531,7 +531,7 @@ SUBROUTINE_005B:
 SUBROUTINE_00D0:
  36: 0x00D0 [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x0797
  37: 0x00D8 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 38: 0x00D9 [0x24] CREATE_DIALOG(message_id=7963*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
+ 38: 0x00D9 [0x24] CREATE_DIALOG(message_id=7964*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
     → "Inquire about what? [I want to find some quests!/I want a map of [Mhaura/Selbina]!/I have other questions./Nothing for now.]"
  39: 0x00E0 [0x25] WAIT_DIALOG_SELECT()
  40: 0x00E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06D4
@@ -539,7 +539,7 @@ SUBROUTINE_00D0:
  42: 0x00F1 [0x1A] CALL_SUBROUTINE(address=0x07A0)
  43: 0x00F4 [0x01] GOTO 0x06CD
  44: 0x00F7 [0x03] Work_Zone[9] = 0*
- 45: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+ 45: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "There're many people both inside and outside of [Mhaura/Selbina] who need an adventurer's help with some problem or other. In fact, I've got a handy list of such individuals. Want me to help you find someone?"
  46: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0100 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4294967295*) GOTO 0x0114
@@ -567,68 +567,68 @@ SUBROUTINE_0141:
  67: 0x0186 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=2*, condition_work_offset=1*)
  68: 0x018D [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x019C
  69: 0x0195 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=3*, condition_work_offset=1*)
- 70: 0x019C [0x24] CREATE_DIALOG(message_id=7973*, default_option=0*, option_flags=Work_Zone[2])
+ 70: 0x019C [0x24] CREATE_DIALOG(message_id=7974*, default_option=0*, option_flags=Work_Zone[2])
     → "Inquire about which locale? [None./[Mhaura/Selbina]: $1 individual[/s]./[Selbina/Mhaura]: $2 individual[/s]./Other: $3 individual[/s].]"
  71: 0x01A3 [0x25] WAIT_DIALOG_SELECT()
  72: 0x01A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0262
  73: 0x01AC [0x06] ExtData[1]->WorkLocal[14] = 0
  74: 0x01AF [0x03] Work_Zone[9] = 0*
- 75: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+ 75: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "There's still one other thing remaining to share with you."
  76: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x01B8 [0x13] ExtData[1]->WorkLocal[15] = rand() % 10*
  78: 0x01BD [0x02] IF !(ExtData[1]->WorkLocal[15] == 0*) GOTO 0x01CC
- 79: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
+ 79: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
     → "There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places."
  80: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x01C9 [0x01] GOTO 0x025F
  82: 0x01CC [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x01DB
- 83: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8004*)
+ 83: 0x01D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8005*)
     → "Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!"
  84: 0x01D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x01D8 [0x01] GOTO 0x025F
  86: 0x01DB [0x02] IF !(ExtData[1]->WorkLocal[15] == 2*) GOTO 0x01EA
- 87: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8008*)
+ 87: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8009*)
     → "If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor."
  88: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x01E7 [0x01] GOTO 0x025F
  90: 0x01EA [0x02] IF !(ExtData[1]->WorkLocal[15] == 3*) GOTO 0x01F9
- 91: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
+ 91: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
     → "Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you."
  92: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01F6 [0x01] GOTO 0x025F
  94: 0x01F9 [0x02] IF !(ExtData[1]->WorkLocal[15] == 4*) GOTO 0x0208
- 95: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+ 95: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic."
  96: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0205 [0x01] GOTO 0x025F
  98: 0x0208 [0x02] IF !(ExtData[1]->WorkLocal[15] == 5*) GOTO 0x0217
- 99: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+ 99: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate."
 100: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0214 [0x01] GOTO 0x025F
 102: 0x0217 [0x02] IF !(ExtData[1]->WorkLocal[15] == 6*) GOTO 0x0226
-103: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8024*)
+103: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
     → "Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure."
 104: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0223 [0x01] GOTO 0x025F
 106: 0x0226 [0x02] IF !(ExtData[1]->WorkLocal[15] == 7*) GOTO 0x0235
-107: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+107: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
     → "Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion."
 108: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0232 [0x01] GOTO 0x025F
 110: 0x0235 [0x02] IF !(ExtData[1]->WorkLocal[15] == 8*) GOTO 0x0244
-111: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8032*)
+111: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8033*)
     → "Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells."
 112: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0241 [0x01] GOTO 0x025F
 114: 0x0244 [0x02] IF !(ExtData[1]->WorkLocal[15] == 9*) GOTO 0x0253
-115: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+115: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells."
 116: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0250 [0x01] GOTO 0x025F
 118: 0x0253 [0x02] IF !(ExtData[1]->WorkLocal[15] == 10*) GOTO 0x025F
-119: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8040*)
+119: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8041*)
     → "Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs."
 120: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -648,7 +648,7 @@ SUBROUTINE_0289:
 131: 0x028C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06C5
 132: 0x0294 [0x03] Work_Zone[2] = 2*
 133: 0x0299 [0x03] Work_Zone[9] = 0*
-134: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+134: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "Outside of town, you might be able to get work from one of the people I'm about to list for you."
 135: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x02A2 [0x03] ExtData[1]->WorkLocal[13] = 1*
@@ -662,7 +662,7 @@ SUBROUTINE_02A7:
 142: 0x02C3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 143: 0x02C5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 144: 0x02C7 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-145: 0x02C8 [0x24] CREATE_DIALOG(message_id=7982*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+145: 0x02C8 [0x24] CREATE_DIALOG(message_id=7983*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Who will you go see? [No one./The suspicious Hume./Anguenet./Buffalostalker Dodzbraz./Koblakiq./Koblakiq./Koblakiq./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Someone someplace special./Schultz./Someone someplace special.]"
 146: 0x02CF [0x25] WAIT_DIALOG_SELECT()
 147: 0x02D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DF
@@ -672,7 +672,7 @@ SUBROUTINE_02A7:
 151: 0x02DF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x032B
 152: 0x02E7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 153: 0x02E8 [0x03] Work_Zone[7] = 0*
-154: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+154: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands]."
 155: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x02F1 [0x89] OPEN_MAP(map_id=0x00008024)
@@ -688,7 +688,7 @@ SUBROUTINE_02A7:
 166: 0x032B [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x037B
 167: 0x0333 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 168: 0x0334 [0x03] Work_Zone[7] = 1*
-169: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+169: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands]."
 170: 0x033C [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x033D [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=2*, properties=1*)
@@ -697,7 +697,7 @@ SUBROUTINE_02A7:
 174: 0x0360 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x036D
 175: 0x0368 [0x07] ExtData[1]->WorkLocal[11] += 1*
 176: 0x036D [0x1C] WAIT(30* ticks)
-177: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+177: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 178: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
 179: 0x0374 [0x8A] CLOSE_MAP()
@@ -706,7 +706,7 @@ SUBROUTINE_02A7:
 182: 0x037B [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x03C7
 183: 0x0383 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 184: 0x0384 [0x03] Work_Zone[7] = 3*
-185: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+185: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands]."
 186: 0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x038D [0x89] OPEN_MAP(map_id=0x00008005)
@@ -719,7 +719,7 @@ SUBROUTINE_02A7:
 194: 0x03AC [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x03B9
 195: 0x03B4 [0x07] ExtData[1]->WorkLocal[11] += 1*
 196: 0x03B9 [0x1C] WAIT(30* ticks)
-197: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+197: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 198: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x03C0 [0x8A] CLOSE_MAP()
@@ -728,7 +728,7 @@ SUBROUTINE_02A7:
 202: 0x03C7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0413
 203: 0x03CF [0x42] SET_CLI_EVENT_CANCEL_DATA()
 204: 0x03D0 [0x03] Work_Zone[7] = 4*
-205: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
+205: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7978*)
     → "You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands]."
 206: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x03D9 [0x89] OPEN_MAP(map_id=0x0000800A)
@@ -761,10 +761,10 @@ SUBROUTINE_0794:
 SUBROUTINE_07A0:
 225: 0x07A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
 226: 0x07AF [0x03] Work_Zone[9] = 0*
-227: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+227: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "If you bring me a map of the [Windurst/San d'Oria] area, I can place a couple markers on it for you. Surely that's better than flittering around aimlessly, no?"
 228: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+229: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "Ludwig should be able to sell you one. He's south along the coast, and you'll find him on the left side of the grand plaza."
 230: 0x07BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x07BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=39*
@@ -773,7 +773,7 @@ SUBROUTINE_07A0:
 SUBROUTINE_07CC:
 233: 0x07CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=39*
 234: 0x07DB [0x03] Work_Zone[9] = 1*
-235: 0x07E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+235: 0x07E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "If you bring me a map of the [Windurst/San d'Oria] area, I can place a couple markers on it for you. Surely that's better than flittering around aimlessly, no?"
 236: 0x07E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x07E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=39*
@@ -782,7 +782,7 @@ SUBROUTINE_07CC:
 SUBROUTINE_07F4:
 239: 0x07F4 [0x03] Work_Zone[2] = 0*
 240: 0x07F9 [0x03] Work_Zone[9] = 0*
-241: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+241: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "[In Mhaura/In Selbina], you might be able to get work from one of the people I'm about to list for you."
 242: 0x0801 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0802 [0x03] ExtData[1]->WorkLocal[13] = 1*
@@ -795,7 +795,7 @@ SUBROUTINE_0807:
 248: 0x081E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 249: 0x0820 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 250: 0x0822 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-251: 0x0823 [0x24] CREATE_DIALOG(message_id=7980*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+251: 0x0823 [0x24] CREATE_DIALOG(message_id=7981*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Who will you go see in Mhaura? [No one./Fyi Chalmwoh./Rycharde./Rycharde./Lacia./Vera./Orlando./Rycharde./Rycharde./Take./Rycharde./Rycharde./Celestina./Nereus./Ripapa./Keshab-Menjab./Katsunaga.]"
 252: 0x082A [0x25] WAIT_DIALOG_SELECT()
 253: 0x082B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083A
@@ -820,7 +820,7 @@ SUBROUTINE_0C6A:
 SUBROUTINE_0C6E:
 269: 0x0C6E [0x03] Work_Zone[2] = 1*
 270: 0x0C73 [0x03] Work_Zone[9] = 0*
-271: 0x0C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+271: 0x0C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "There's a boat that runs from here to [Selbina/Mhaura]. Should you head there, you might be able to get work from one of the people I'm about to list for you."
 272: 0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x0C7C [0x03] ExtData[1]->WorkLocal[13] = 1*
@@ -833,7 +833,7 @@ SUBROUTINE_0C81:
 278: 0x0C98 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 279: 0x0C9A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 280: 0x0C9C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-281: 0x0C9D [0x24] CREATE_DIALOG(message_id=7981*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+281: 0x0C9D [0x24] CREATE_DIALOG(message_id=7982*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Who will you go see in Selbina? [No one./Romeo./Melyon./Jimaida./Abelard./Devean./Isacio./Thunder Hawk./Oswald./Oswald./Vuntar./Zaldon.]"
 282: 0x0CA4 [0x25] WAIT_DIALOG_SELECT()
 283: 0x0CA5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CB4
@@ -867,7 +867,7 @@ SUBROUTINE_0F95:
      0x03F8 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0405
      0x0400 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0405 [0x1C] WAIT(30* ticks)
-     0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x040C [0x8A] CLOSE_MAP()
@@ -882,7 +882,7 @@ SUBROUTINE_0F95:
      0x0444 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0451
      0x044C [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0451 [0x1C] WAIT(30* ticks)
-     0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0458 [0x8A] CLOSE_MAP()
@@ -897,7 +897,7 @@ SUBROUTINE_0F95:
      0x0490 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x049D
      0x0498 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x049D [0x1C] WAIT(30* ticks)
-     0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04A4 [0x8A] CLOSE_MAP()
@@ -914,7 +914,7 @@ SUBROUTINE_0F95:
      0x04DC [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x04E9
      0x04E4 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x04E9 [0x1C] WAIT(30* ticks)
-     0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04F0 [0x8A] CLOSE_MAP()
@@ -931,7 +931,7 @@ SUBROUTINE_0F95:
      0x0528 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0535
      0x0530 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0535 [0x1C] WAIT(30* ticks)
-     0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x053B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x053C [0x8A] CLOSE_MAP()
@@ -948,7 +948,7 @@ SUBROUTINE_0F95:
      0x0574 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0581
      0x057C [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0581 [0x1C] WAIT(30* ticks)
-     0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x0584 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x0587 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0588 [0x8A] CLOSE_MAP()
@@ -965,7 +965,7 @@ SUBROUTINE_0F95:
      0x05C0 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x05CD
      0x05C8 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x05CD [0x1C] WAIT(30* ticks)
-     0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05D4 [0x8A] CLOSE_MAP()
@@ -982,7 +982,7 @@ SUBROUTINE_0F95:
      0x060C [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0619
      0x0614 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0619 [0x1C] WAIT(30* ticks)
-     0x061C [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x061C [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x061F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0620 [0x8A] CLOSE_MAP()
@@ -999,7 +999,7 @@ SUBROUTINE_0F95:
      0x0658 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x0665
      0x0660 [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x0665 [0x1C] WAIT(30* ticks)
-     0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x0668 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x066B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x066C [0x8A] CLOSE_MAP()
@@ -1016,7 +1016,7 @@ SUBROUTINE_0F95:
      0x06A4 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x06B1
      0x06AC [0x07] ExtData[1]->WorkLocal[11] += 1*
      0x06B1 [0x1C] WAIT(30* ticks)
-     0x06B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+     0x06B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
      0x06B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06B8 [0x8A] CLOSE_MAP()
@@ -1025,7 +1025,7 @@ SUBROUTINE_0F95:
 # Dead code (unreachable instructions):
      0x06D1 [0x01] GOTO 0x0794
      0x0701 [0x00] END_REQSTACK()
-     0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+     0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Be sure to take a good look!"
      0x0705 [0x1C] WAIT(90* ticks)
      0x0708 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1040,7 +1040,7 @@ SUBROUTINE_0F95:
      0x073D [0x00] END_REQSTACK()
      0x073E [0x00] END_REQSTACK()
      0x073F [0x00] END_REQSTACK()
-     0x0740 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+     0x0740 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "Somo Aatsula right in front of me can provide you with more information."
      0x0743 [0x1C] WAIT(90* ticks)
      0x0746 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -1052,7 +1052,7 @@ SUBROUTINE_0F95:
      0x0862 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x086F
      0x086A [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x086F [0x1C] WAIT(30* ticks)
-     0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0872 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0875 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0876 [0x8A] CLOSE_MAP()
@@ -1061,7 +1061,7 @@ SUBROUTINE_0F95:
      0x08A5 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x08B2
      0x08AD [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x08B2 [0x1C] WAIT(30* ticks)
-     0x08B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x08B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x08B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08B9 [0x8A] CLOSE_MAP()
@@ -1070,7 +1070,7 @@ SUBROUTINE_0F95:
      0x08E8 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x08F5
      0x08F0 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x08F5 [0x1C] WAIT(30* ticks)
-     0x08F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x08F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x08FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08FC [0x8A] CLOSE_MAP()
@@ -1087,7 +1087,7 @@ SUBROUTINE_0F95:
      0x092B [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0938
      0x0933 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0938 [0x1C] WAIT(30* ticks)
-     0x093B [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x093B [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x093E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x093F [0x8A] CLOSE_MAP()
@@ -1106,7 +1106,7 @@ SUBROUTINE_0F95:
      0x096E [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x097B
      0x0976 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x097B [0x1C] WAIT(30* ticks)
-     0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0981 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0982 [0x8A] CLOSE_MAP()
@@ -1115,7 +1115,7 @@ SUBROUTINE_0F95:
      0x09F4 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0A01
      0x09FC [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0A01 [0x1C] WAIT(30* ticks)
-     0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0A04 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0A07 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A08 [0x8A] CLOSE_MAP()
@@ -1124,7 +1124,7 @@ SUBROUTINE_0F95:
      0x0A37 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0A44
      0x0A3F [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0A44 [0x1C] WAIT(30* ticks)
-     0x0A47 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0A47 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0A4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A4B [0x8A] CLOSE_MAP()
@@ -1135,7 +1135,7 @@ SUBROUTINE_0F95:
      0x0A7A [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0A87
      0x0A82 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0A87 [0x1C] WAIT(30* ticks)
-     0x0A8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0A8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A8E [0x8A] CLOSE_MAP()
@@ -1144,7 +1144,7 @@ SUBROUTINE_0F95:
      0x0ABD [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0ACA
      0x0AC5 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0ACA [0x1C] WAIT(30* ticks)
-     0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0ACD [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0AD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AD1 [0x8A] CLOSE_MAP()
@@ -1153,7 +1153,7 @@ SUBROUTINE_0F95:
      0x0B00 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0B0D
      0x0B08 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0B0D [0x1C] WAIT(30* ticks)
-     0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B14 [0x8A] CLOSE_MAP()
@@ -1166,7 +1166,7 @@ SUBROUTINE_0F95:
      0x0B43 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0B50
      0x0B4B [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0B50 [0x1C] WAIT(30* ticks)
-     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0B53 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0B56 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B57 [0x8A] CLOSE_MAP()
@@ -1184,7 +1184,7 @@ SUBROUTINE_0F95:
      0x0B86 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0B93
      0x0B8E [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0B93 [0x1C] WAIT(30* ticks)
-     0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0B96 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0B99 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B9A [0x8A] CLOSE_MAP()
@@ -1193,7 +1193,7 @@ SUBROUTINE_0F95:
      0x0BC9 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0BD6
      0x0BD1 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0BD6 [0x1C] WAIT(30* ticks)
-     0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0BD9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0BDC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BDD [0x8A] CLOSE_MAP()
@@ -1205,7 +1205,7 @@ SUBROUTINE_0F95:
      0x0C4F [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0C5C
      0x0C57 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x0C5C [0x1C] WAIT(30* ticks)
-     0x0C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0C5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0C62 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C63 [0x8A] CLOSE_MAP()
@@ -1215,7 +1215,7 @@ SUBROUTINE_0F95:
      0x0CDC [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0CE9
      0x0CE4 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0CE9 [0x1C] WAIT(30* ticks)
-     0x0CEC [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0CEC [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0CEF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0CF0 [0x8A] CLOSE_MAP()
@@ -1227,7 +1227,7 @@ SUBROUTINE_0F95:
      0x0D1F [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0D2C
      0x0D27 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0D2C [0x1C] WAIT(30* ticks)
-     0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D33 [0x8A] CLOSE_MAP()
@@ -1242,7 +1242,7 @@ SUBROUTINE_0F95:
      0x0D62 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0D6F
      0x0D6A [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0D6F [0x1C] WAIT(30* ticks)
-     0x0D72 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0D72 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0D75 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D76 [0x8A] CLOSE_MAP()
@@ -1257,7 +1257,7 @@ SUBROUTINE_0F95:
      0x0DA5 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0DB2
      0x0DAD [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0DB2 [0x1C] WAIT(30* ticks)
-     0x0DB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0DB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0DB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DB9 [0x8A] CLOSE_MAP()
@@ -1269,7 +1269,7 @@ SUBROUTINE_0F95:
      0x0DE8 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0DF5
      0x0DF0 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0DF5 [0x1C] WAIT(30* ticks)
-     0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0DF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DFC [0x8A] CLOSE_MAP()
@@ -1286,7 +1286,7 @@ SUBROUTINE_0F95:
      0x0E2B [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0E38
      0x0E33 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0E38 [0x1C] WAIT(30* ticks)
-     0x0E3B [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0E3B [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0E3E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E3F [0x8A] CLOSE_MAP()
@@ -1297,7 +1297,7 @@ SUBROUTINE_0F95:
      0x0E6E [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0E7B
      0x0E76 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0E7B [0x1C] WAIT(30* ticks)
-     0x0E7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0E7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0E81 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E82 [0x8A] CLOSE_MAP()
@@ -1306,7 +1306,7 @@ SUBROUTINE_0F95:
      0x0F37 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0F44
      0x0F3F [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0F44 [0x1C] WAIT(30* ticks)
-     0x0F47 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0F47 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0F4A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F4B [0x8A] CLOSE_MAP()
@@ -1319,7 +1319,7 @@ SUBROUTINE_0F95:
      0x0F7A [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x0F87
      0x0F82 [0x07] ExtData[1]->WorkLocal[10] += 1*
      0x0F87 [0x1C] WAIT(30* ticks)
-     0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+     0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
      0x0F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F8E [0x8A] CLOSE_MAP()

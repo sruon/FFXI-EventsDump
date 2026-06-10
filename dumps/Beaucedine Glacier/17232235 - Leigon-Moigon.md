@@ -110,41 +110,41 @@
 |      10 | 0x01AE      |         430 |
 |      11 | 0x01AF      |         431 |
 |      12 | 0x002E      |          46 |
-|      13 | 0x1D20      |        7456 |
-|      14 | 0x1D31      |        7473 |
-|      15 | 0x1D32      |        7474 |
-|      16 | 0x1D3B      |        7483 |
-|      17 | 0x1D3C      |        7484 |
-|      18 | 0x1D3D      |        7485 |
-|      19 | 0x2088      |        8328 |
-|      20 | 0x2089      |        8329 |
-|      21 | 0x2090      |        8336 |
-|      22 | 0x2091      |        8337 |
-|      23 | 0x2092      |        8338 |
-|      24 | 0x2093      |        8339 |
+|      13 | 0x1D21      |        7457 |
+|      14 | 0x1D32      |        7474 |
+|      15 | 0x1D33      |        7475 |
+|      16 | 0x1D3C      |        7484 |
+|      17 | 0x1D3D      |        7485 |
+|      18 | 0x1D3E      |        7486 |
+|      19 | 0x2089      |        8329 |
+|      20 | 0x208A      |        8330 |
+|      21 | 0x2091      |        8337 |
+|      22 | 0x2092      |        8338 |
+|      23 | 0x2093      |        8339 |
+|      24 | 0x2094      |        8340 |
 |      25 | 0x1A047     |      106567 |
 |      26 | 0x225E2     |      140770 |
 |      27 | 0xFFFFB0E7  |  4294947047 |
 |      28 | 0x0B26      |        2854 |
-|      29 | 0x20CC      |        8396 |
-|      30 | 0x20CD      |        8397 |
+|      29 | 0x20CD      |        8397 |
+|      30 | 0x20CE      |        8398 |
 
 ## String References
 
-- **7456**: We are researchers f-f-from the Rhinostery in Windurst, assisting M-m-minister Rukususu with unraveling the m-m-mystery that surrounds this p-p-place. Our p-p-progress has b-b-been somewhat f-f-frozen, though...
-- **7473**: The minister is not in any danger. If anything happened, she could just whisk herself back to town with her magic. Things often get a little hairy-wairy for me, though, since I can't do that warpy thingy...
-- **7474**: I wish Doctor Shantotto's new magic would hurry up and work...
-- **7483**: Apparently, Mr. Iru-Kuiru had been researching Tarutaru origins around here.
-- **7484**: You've heard the legend, rightaru? "In days of old, wanderers suffering from cold and starvation were led to this place by a shining star..."
-- **7485**: But fanciful-wanciful research like that is not taken very seriously, is it? As a result, Mr. Iru-Kuiru was expelled from the Rhinostery.
-- **8328**: That Louverance fellow. This wasn't the first time we'd seen him. He's been around here before, pokey-woking his needly nose into our busy-bodied business.
-- **8329**: I think Potete has the hots for him, but that's probably just because she's looking for something to keep her warm up here in the freezing-wheezing cold.
-- **8336**: Hm? Why don'taru we investigate the ruins of Pso'Xja?
-- **8337**: The Tenshodo had this place locked up tightaru for decades. There're probably oodles and oodles of oddities for us to research down there.
-- **8338**: But our history books tell us that we shouldn'taru go near the...well, the same thing that's in the Horutoto Ruins.
-- **8339**: Anyway, that's what our ancestors wrote. And if you can't trustaru your ancestors, who can you trustaru?
-- **8396**: I've been wearing this helmet for so long, I've forgotten what my real face looks like.
-- **8397**: I think the cold up here has frozie-wozen the hinges shut...
+- **7457**: We are researchers f-f-from the Rhinostery in Windurst, assisting M-m-minister Rukususu with unraveling the m-m-mystery that surrounds this p-p-place. Our p-p-progress has b-b-been somewhat f-f-frozen, though...
+- **7474**: The minister is not in any danger. If anything happened, she could just whisk herself back to town with her magic. Things often get a little hairy-wairy for me, though, since I can't do that warpy thingy...
+- **7475**: I wish Doctor Shantotto's new magic would hurry up and work...
+- **7484**: Apparently, Mr. Iru-Kuiru had been researching Tarutaru origins around here.
+- **7485**: You've heard the legend, rightaru? "In days of old, wanderers suffering from cold and starvation were led to this place by a shining star..."
+- **7486**: But fanciful-wanciful research like that is not taken very seriously, is it? As a result, Mr. Iru-Kuiru was expelled from the Rhinostery.
+- **8329**: That Louverance fellow. This wasn't the first time we'd seen him. He's been around here before, pokey-woking his needly nose into our busy-bodied business.
+- **8330**: I think Potete has the hots for him, but that's probably just because she's looking for something to keep her warm up here in the freezing-wheezing cold.
+- **8337**: Hm? Why don'taru we investigate the ruins of Pso'Xja?
+- **8338**: The Tenshodo had this place locked up tightaru for decades. There're probably oodles and oodles of oddities for us to research down there.
+- **8339**: But our history books tell us that we shouldn'taru go near the...well, the same thing that's in the Horutoto Ruins.
+- **8340**: Anyway, that's what our ancestors wrote. And if you can't trustaru your ancestors, who can you trustaru?
+- **8397**: I've been wearing this helmet for so long, I've forgotten what my real face looks like.
+- **8398**: I think the cold up here has frozie-wozen the hinges shut...
 
 ## Events
 
@@ -1898,7 +1898,7 @@
   1: 0x0486 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0487 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0488 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
+  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
     → "We are researchers f-f-from the Rhinostery in Windurst, assisting M-m-minister Rukususu with unraveling the m-m-mystery that surrounds this p-p-place. Our p-p-progress has b-b-been somewhat f-f-frozen, though..."
   5: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0493 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)
@@ -1932,10 +1932,10 @@
   1: 0x04A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
+  4: 0x04AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
     → "The minister is not in any danger. If anything happened, she could just whisk herself back to town with her magic. Things often get a little hairy-wairy for me, though, since I can't do that warpy thingy..."
   5: 0x04AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+  6: 0x04B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "I wish Doctor Shantotto's new magic would hurry up and work..."
   7: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)
@@ -1970,13 +1970,13 @@
   1: 0x04C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+  4: 0x04CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
     → "Apparently, Mr. Iru-Kuiru had been researching Tarutaru origins around here."
   5: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+  6: 0x04D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "You've heard the legend, rightaru? "In days of old, wanderers suffering from cold and starvation were led to this place by a shining star...""
   7: 0x04D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+  8: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "But fanciful-wanciful research like that is not taken very seriously, is it? As a result, Mr. Iru-Kuiru was expelled from the Rhinostery."
   9: 0x04D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)
@@ -2010,10 +2010,10 @@
   1: 0x04E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  4: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "That Louverance fellow. This wasn't the first time we'd seen him. He's been around here before, pokey-woking his needly nose into our busy-bodied business."
   5: 0x04F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
+  6: 0x04F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
     → "I think Potete has the hots for him, but that's probably just because she's looking for something to keep her warm up here in the freezing-wheezing cold."
   7: 0x04F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)
@@ -2050,25 +2050,25 @@
   1: 0x050A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x050B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x050C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
+  4: 0x0513 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
     → "We are researchers f-f-from the Rhinostery in Windurst, assisting M-m-minister Rukususu with unraveling the m-m-mystery that surrounds this p-p-place. Our p-p-progress has b-b-been somewhat f-f-frozen, though..."
   5: 0x0516 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0517 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)
-  7: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=8336*)
+  7: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
     → "Hm? Why don'taru we investigate the ruins of Pso'Xja?"
   8: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0522 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x09)
- 10: 0x0529 [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
+ 10: 0x0529 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
     → "The Tenshodo had this place locked up tightaru for decades. There're probably oodles and oodles of oddities for us to research down there."
  11: 0x052C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x052D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x0A)
  13: 0x0534 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x03)
- 14: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
+ 14: 0x053B [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
     → "But our history books tell us that we shouldn'taru go near the...well, the same thing that's in the Horutoto Ruins."
  15: 0x053E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x053F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x04)
  17: 0x0546 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x05)
- 18: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
+ 18: 0x054D [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
     → "Anyway, that's what our ancestors wrote. And if you can't trustaru your ancestors, who can you trustaru?"
  19: 0x0550 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0551 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x06)
@@ -2150,10 +2150,10 @@
   1: 0x0574 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0575 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0576 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x01)
-  4: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=8396*)
+  4: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=8397*)
     → "I've been wearing this helmet for so long, I've forgotten what my real face looks like."
   5: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=8397*)
+  6: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=8398*)
     → "I think the cold up here has frozie-wozen the hinges shut..."
   7: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0585 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Leigon-Moigon (ID: 17232235/0x0106F16B), tag_num=0x02)

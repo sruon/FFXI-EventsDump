@@ -20,9 +20,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2DB2      |       11698 |
+|       0 | 0x2DB3      |       11699 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2DB4      |       11700 |
+|       2 | 0x2DB5      |       11701 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0019      |          25 |
 |       5 | 0x00C8      |         200 |
@@ -30,13 +30,13 @@
 |       7 | 0x906D      |       36973 |
 |       8 | 0xFFFFF1F0  |  4294963696 |
 |       9 | 0x0007      |           7 |
-|      10 | 0x2DB3      |       11699 |
+|      10 | 0x2DB4      |       11700 |
 
 ## String References
 
-- **11698**: While monster owners such as yourself are not allowed direct entry into the battle cages, you may view your match or give orders from a special platform located conveniently behind each enclosure.
-- **11699**: However, this area is off-limits to everyone but those registered for the next match, so you will have to ask your acquaintances to watch from the viewing area here.
-- **11700**: Move to the platform? [Yes./No.]
+- **11699**: While monster owners such as yourself are not allowed direct entry into the battle cages, you may view your match or give orders from a special platform located conveniently behind each enclosure.
+- **11700**: However, this area is off-limits to everyone but those registered for the next match, so you will have to ask your acquaintances to watch from the viewing area here.
+- **11701**: Move to the platform? [Yes./No.]
 
 ## Events
 
@@ -89,11 +89,11 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11698*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11699*)
     → "While monster owners such as yourself are not allowed direct entry into the battle cages, you may view your match or give orders from a special platform located conveniently behind each enclosure."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0071
-  4: 0x0012 [0x24] CREATE_DIALOG(message_id=11700*, default_option=1*, option_flags=0*)
+  4: 0x0012 [0x24] CREATE_DIALOG(message_id=11701*, default_option=1*, option_flags=0*)
     → "Move to the platform? [Yes./No.]"
   5: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   6: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0063
@@ -110,7 +110,7 @@
 
 SUBROUTINE_006E:
  17: 0x006E [0x01] GOTO 0x0075
- 18: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=11699*)
+ 18: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=11700*)
     → "However, this area is off-limits to everyone but those registered for the next match, so you will have to ask your acquaintances to watch from the viewing area here."
  19: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

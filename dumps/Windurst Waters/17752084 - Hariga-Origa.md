@@ -61,129 +61,129 @@
 |       0 | 0x0151      |         337 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0153      |         339 |
-|       3 | 0x1FF0      |        8176 |
-|       4 | 0x1FF1      |        8177 |
-|       5 | 0x1FF2      |        8178 |
-|       6 | 0x1E05      |        7685 |
-|       7 | 0x1E06      |        7686 |
-|       8 | 0x1E1A      |        7706 |
-|       9 | 0x1E1B      |        7707 |
-|      10 | 0x2005      |        8197 |
+|       3 | 0x1FF1      |        8177 |
+|       4 | 0x1FF2      |        8178 |
+|       5 | 0x1FF3      |        8179 |
+|       6 | 0x1E06      |        7686 |
+|       7 | 0x1E07      |        7687 |
+|       8 | 0x1E1B      |        7707 |
+|       9 | 0x1E1C      |        7708 |
+|      10 | 0x2006      |        8198 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x1FFF      |        8191 |
-|      14 | 0x2000      |        8192 |
-|      15 | 0x2001      |        8193 |
-|      16 | 0x2002      |        8194 |
-|      17 | 0x2003      |        8195 |
-|      18 | 0x2004      |        8196 |
-|      19 | 0x2006      |        8198 |
-|      20 | 0x2007      |        8199 |
-|      21 | 0x2008      |        8200 |
-|      22 | 0x2009      |        8201 |
-|      23 | 0x200A      |        8202 |
-|      24 | 0x200B      |        8203 |
+|      13 | 0x2000      |        8192 |
+|      14 | 0x2001      |        8193 |
+|      15 | 0x2002      |        8194 |
+|      16 | 0x2003      |        8195 |
+|      17 | 0x2004      |        8196 |
+|      18 | 0x2005      |        8197 |
+|      19 | 0x2007      |        8199 |
+|      20 | 0x2008      |        8200 |
+|      21 | 0x2009      |        8201 |
+|      22 | 0x200A      |        8202 |
+|      23 | 0x200B      |        8203 |
+|      24 | 0x200C      |        8204 |
 |      25 | 0x0BCD      |        3021 |
-|      26 | 0x2016      |        8214 |
+|      26 | 0x2017      |        8215 |
 |      27 | 0x00C9      |         201 |
-|      28 | 0x2010      |        8208 |
-|      29 | 0x2011      |        8209 |
-|      30 | 0x2012      |        8210 |
-|      31 | 0x2013      |        8211 |
-|      32 | 0x2014      |        8212 |
-|      33 | 0x2015      |        8213 |
-|      34 | 0x2017      |        8215 |
-|      35 | 0x2018      |        8216 |
-|      36 | 0x2066      |        8294 |
-|      37 | 0x205F      |        8287 |
-|      38 | 0x2060      |        8288 |
-|      39 | 0x2061      |        8289 |
-|      40 | 0x2062      |        8290 |
-|      41 | 0x2063      |        8291 |
-|      42 | 0x2064      |        8292 |
-|      43 | 0x2065      |        8293 |
-|      44 | 0x2067      |        8295 |
-|      45 | 0x2068      |        8296 |
-|      46 | 0x2069      |        8297 |
-|      47 | 0x206A      |        8298 |
-|      48 | 0x2070      |        8304 |
+|      28 | 0x2011      |        8209 |
+|      29 | 0x2012      |        8210 |
+|      30 | 0x2013      |        8211 |
+|      31 | 0x2014      |        8212 |
+|      32 | 0x2015      |        8213 |
+|      33 | 0x2016      |        8214 |
+|      34 | 0x2018      |        8216 |
+|      35 | 0x2019      |        8217 |
+|      36 | 0x2067      |        8295 |
+|      37 | 0x2060      |        8288 |
+|      38 | 0x2061      |        8289 |
+|      39 | 0x2062      |        8290 |
+|      40 | 0x2063      |        8291 |
+|      41 | 0x2064      |        8292 |
+|      42 | 0x2065      |        8293 |
+|      43 | 0x2066      |        8294 |
+|      44 | 0x2068      |        8296 |
+|      45 | 0x2069      |        8297 |
+|      46 | 0x206A      |        8298 |
+|      47 | 0x206B      |        8299 |
+|      48 | 0x2071      |        8305 |
 |      49 | 0x00C8      |         200 |
 |      50 | 0x0064      |         100 |
 |      51 | 0x003C      |          60 |
-|      52 | 0x206F      |        8303 |
-|      53 | 0x2071      |        8305 |
-|      54 | 0x2072      |        8306 |
-|      55 | 0x2073      |        8307 |
-|      56 | 0x2074      |        8308 |
-|      57 | 0x2075      |        8309 |
-|      58 | 0x2076      |        8310 |
-|      59 | 0x2077      |        8311 |
-|      60 | 0x2078      |        8312 |
-|      61 | 0x2079      |        8313 |
-|      62 | 0x207A      |        8314 |
-|      63 | 0x25D5      |        9685 |
-|      64 | 0x25D6      |        9686 |
-|      65 | 0x25EB      |        9707 |
-|      66 | 0x25EC      |        9708 |
+|      52 | 0x2070      |        8304 |
+|      53 | 0x2072      |        8306 |
+|      54 | 0x2073      |        8307 |
+|      55 | 0x2074      |        8308 |
+|      56 | 0x2075      |        8309 |
+|      57 | 0x2076      |        8310 |
+|      58 | 0x2077      |        8311 |
+|      59 | 0x2078      |        8312 |
+|      60 | 0x2079      |        8313 |
+|      61 | 0x207A      |        8314 |
+|      62 | 0x207B      |        8315 |
+|      63 | 0x25D6      |        9686 |
+|      64 | 0x25D7      |        9687 |
+|      65 | 0x25EC      |        9708 |
+|      66 | 0x25ED      |        9709 |
 
 ## String References
 
-- **7685**: One of the restricted books lost during the war has come to light?
-- **7686**: Tosuka-Porika has been searching so hard for those lost restricted books ever since he became minister.
-- **7706**: There are many restricted books, but the Book of the Gods is in a class of its own.
-- **7707**: It's called a history book, but it doesn't just contain history. Sorry. It's not my specialty, so I don't know the details.
-- **8176**: Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!
-- **8177**: This is the manuscript room. This is where we carry out the transcription of the library's older books into new books.
-- **8178**: This copying of manuscripts has been repeated for hundreds of years. It is a work that never finishes.
-- **8191**: Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!
-- **8192**: "Heretofore, source of magick...primarily extrinsic energies...fill terra and caelum."
-- **8193**: "Tarutaru...analyzed...extrinsic energy...classifying into eight...elements. These...give birth magick...resides in soul...woven into spells...both...er, both..."
-- **8194**: ...What's this?
-- **8195**: I don't know how to read this glyph. That's the trouble with ancient writings; the letters and characters are too hard to read...
-- **8196**: Hey, you there! You wouldn't happen to be passing through West Sarutabaruta anytime soon, would you? If so, I have a little favor to ask...
-- **8197**: Listen to Hariga-Origa's request? [Listen./Don't listen.]
-- **8198**: Well, I guess it can't be helped then... I'll just have to give up until someone can go there for me.
-- **8199**: One of our researchers just headed off to the Horutoto Ruins in West Sarutabaruta.
-- **8200**: She specializes in paleography, so she should be able to read these glyphs with no trouble at all.
-- **8201**: Could you do me a favor and pass her this memo? Her name is Ipupu.
-- **8202**: Hurry up and pass that memo to Ipupu. She's in West Sarutabaruta, probably in one of the magic towers of the Horutoto Ruins.
-- **8203**: Until I can read the glyph I wrote in that memo, I have to give up... But I can't rest now, as I have so many other books to do. Guess I'll just have to get on with them in the meantime.
-- **8208**: Oh, welcome back. Were you able to get any feedback from Ipupu?
-- **8209**: Hu-hum... So, this glyph just has the meaning of "sanative"? Why didn't they just write "healing," for crying out loud? Anyway, so where was I...
-- **8210**: "Heretofore, the source of magick was primarily the extrinsic energies that fill terra and caelum."
-- **8211**: "The Tarutaru had analyzed that extrinsic energy, classifying it into eight elements. These elements give birth to magick that resides in the soul to be woven into spells both sanative and hostile."
-- **8212**: "However, after many long years of study, the existence of a converse of extrinsic energy, intrinsic energy from the soul itself, was discovered."
-- **8213**: Phew! This book is way too complicated. I think I'll leave it here for today...
-- **8215**: Let me see... What was that book about? Something to do with extrinsic energy and the soul's own intrinsic energy...?
-- **8216**: That reminds me of something I heard in one of my lessons at the School of Magic... Magic from the heart that uses the soul's energy is what gave birth to magic dolls and automaton guards.
-- **8287**: Shh...! Can't you see I'm in the middle of transcribing this book? Please keep your voice down!
-- **8288**: There are many books and scrolls preserved in Windurst, but the most important one, with the highest historical value, is the "Book of the Gods."
-- **8289**: The "Book of the Gods" is tightly guarded in innermost chambers of the Optistery. We don't know for sure what is contained in it or who wrote it.
-- **8290**: As for this book, in the past it had been handed to the Yagudo by some wicked person. The scholar who retrieved the book back was able to reveal one of its secrets to us.
-- **8291**: Just a second...?
-- **8292**: My word! What are these brown smudges here? Thanks to these, I can't read the essential first page!
-- **8293**: Hey, you again! You wouldn't be able to fetch me $1 and $2, would you? If I have both of them, I'll be able to clean away these smudges, leaving these pages as good as new!
-- **8294**: Accept request for help? [Listen further./Decline.]
-- **8295**: Well, I guess it can't be helped, then... I'll just have to give up until someone can get some for me.
-- **8296**: I've heard that $1 can be obtained from the monsters in Ordelle's Caves. It's pretty far, but hey, you're an adventurer, aren't you?
-- **8297**: I've heard that $1 can be obtained from the monsters in Ordelle's Caves.
-- **8298**: If we can get $2 too, then we'll be able to wipe away those smudges in a jiffy. Good luck in finding them.
-- **8303**: Oh, welcome back. Great. Now that I have these, we're set!
-- **8304**: Here we go... Squeak, squeak, squeak... Swish, swish, swish!t
-- **8305**: Look! See how clean it is! Huh? What the...? Oh, my word!
-- **8306**: The "Book of the Gods" is tightly guarded in the innermost parts of the Optistery. We do not know for sure what is contained in it, nor who wrote it.
-- **8307**: As for this book... In the past, some wicked person had handed it to the Yagudo. The scholar who retrieved the book was able to reveal one of its secrets to us.
-- **8308**: Wondering why the writing in the "Book of the Gods" doesn't need transcribing? It's because the writing is penned with water from the Full Moon Fountain!
-- **8309**: Only the Star Sibyl can enter the Full Moon Fountain... Oh...does that mean the author is actually...???
-- **8310**: Yikes...! Oh, my word! Oh my word! I just realized...this is a restricted book! It's forbidden to move it, let alone transcribe it!!!
-- **8311**: What in heaven's name is a restricted book doing here!? As soon as I start reading its contents aloud, I'm going to be caught for sure!
-- **8312**: Hey, you... Here, I'll give you this, so keep this whole incident quiet! Promise not to tell anyone, okay?
-- **8313**: Eww... What if those smudges I removed from the book were bloodstains...?
-- **8314**: Ooo-ah! Perhaps that was the famed blood-sucking book of yore!? Shivers! Thank goodness it wasn't hungry, otherwise it could have attacked me!
-- **9685**: How's the mission going? You know, the cleaning of the book vault?
-- **9686**: Up until now, we've been giving up our holidays to keep things clean and tidy around here. But it looks like Minister Tosuka-Porika has finally agreed to get an adventurer to help us.
-- **9707**: For some reason, the words "Book vault cleaning" have been written in hugey-wuge letters on our schedule board.
-- **9708**: There must be some mistake. You've already cleaned out our book vault, rightaru?
+- **7686**: One of the restricted books lost during the war has come to light?
+- **7687**: Tosuka-Porika has been searching so hard for those lost restricted books ever since he became minister.
+- **7707**: There are many restricted books, but the Book of the Gods is in a class of its own.
+- **7708**: It's called a history book, but it doesn't just contain history. Sorry. It's not my specialty, so I don't know the details.
+- **8177**: Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!
+- **8178**: This is the manuscript room. This is where we carry out the transcription of the library's older books into new books.
+- **8179**: This copying of manuscripts has been repeated for hundreds of years. It is a work that never finishes.
+- **8192**: Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!
+- **8193**: "Heretofore, source of magick...primarily extrinsic energies...fill terra and caelum."
+- **8194**: "Tarutaru...analyzed...extrinsic energy...classifying into eight...elements. These...give birth magick...resides in soul...woven into spells...both...er, both..."
+- **8195**: ...What's this?
+- **8196**: I don't know how to read this glyph. That's the trouble with ancient writings; the letters and characters are too hard to read...
+- **8197**: Hey, you there! You wouldn't happen to be passing through West Sarutabaruta anytime soon, would you? If so, I have a little favor to ask...
+- **8198**: Listen to Hariga-Origa's request? [Listen./Don't listen.]
+- **8199**: Well, I guess it can't be helped then... I'll just have to give up until someone can go there for me.
+- **8200**: One of our researchers just headed off to the Horutoto Ruins in West Sarutabaruta.
+- **8201**: She specializes in paleography, so she should be able to read these glyphs with no trouble at all.
+- **8202**: Could you do me a favor and pass her this memo? Her name is Ipupu.
+- **8203**: Hurry up and pass that memo to Ipupu. She's in West Sarutabaruta, probably in one of the magic towers of the Horutoto Ruins.
+- **8204**: Until I can read the glyph I wrote in that memo, I have to give up... But I can't rest now, as I have so many other books to do. Guess I'll just have to get on with them in the meantime.
+- **8209**: Oh, welcome back. Were you able to get any feedback from Ipupu?
+- **8210**: Hu-hum... So, this glyph just has the meaning of "sanative"? Why didn't they just write "healing," for crying out loud? Anyway, so where was I...
+- **8211**: "Heretofore, the source of magick was primarily the extrinsic energies that fill terra and caelum."
+- **8212**: "The Tarutaru had analyzed that extrinsic energy, classifying it into eight elements. These elements give birth to magick that resides in the soul to be woven into spells both sanative and hostile."
+- **8213**: "However, after many long years of study, the existence of a converse of extrinsic energy, intrinsic energy from the soul itself, was discovered."
+- **8214**: Phew! This book is way too complicated. I think I'll leave it here for today...
+- **8216**: Let me see... What was that book about? Something to do with extrinsic energy and the soul's own intrinsic energy...?
+- **8217**: That reminds me of something I heard in one of my lessons at the School of Magic... Magic from the heart that uses the soul's energy is what gave birth to magic dolls and automaton guards.
+- **8288**: Shh...! Can't you see I'm in the middle of transcribing this book? Please keep your voice down!
+- **8289**: There are many books and scrolls preserved in Windurst, but the most important one, with the highest historical value, is the "Book of the Gods."
+- **8290**: The "Book of the Gods" is tightly guarded in innermost chambers of the Optistery. We don't know for sure what is contained in it or who wrote it.
+- **8291**: As for this book, in the past it had been handed to the Yagudo by some wicked person. The scholar who retrieved the book back was able to reveal one of its secrets to us.
+- **8292**: Just a second...?
+- **8293**: My word! What are these brown smudges here? Thanks to these, I can't read the essential first page!
+- **8294**: Hey, you again! You wouldn't be able to fetch me $1 and $2, would you? If I have both of them, I'll be able to clean away these smudges, leaving these pages as good as new!
+- **8295**: Accept request for help? [Listen further./Decline.]
+- **8296**: Well, I guess it can't be helped, then... I'll just have to give up until someone can get some for me.
+- **8297**: I've heard that $1 can be obtained from the monsters in Ordelle's Caves. It's pretty far, but hey, you're an adventurer, aren't you?
+- **8298**: I've heard that $1 can be obtained from the monsters in Ordelle's Caves.
+- **8299**: If we can get $2 too, then we'll be able to wipe away those smudges in a jiffy. Good luck in finding them.
+- **8304**: Oh, welcome back. Great. Now that I have these, we're set!
+- **8305**: Here we go... Squeak, squeak, squeak... Swish, swish, swish!t
+- **8306**: Look! See how clean it is! Huh? What the...? Oh, my word!
+- **8307**: The "Book of the Gods" is tightly guarded in the innermost parts of the Optistery. We do not know for sure what is contained in it, nor who wrote it.
+- **8308**: As for this book... In the past, some wicked person had handed it to the Yagudo. The scholar who retrieved the book was able to reveal one of its secrets to us.
+- **8309**: Wondering why the writing in the "Book of the Gods" doesn't need transcribing? It's because the writing is penned with water from the Full Moon Fountain!
+- **8310**: Only the Star Sibyl can enter the Full Moon Fountain... Oh...does that mean the author is actually...???
+- **8311**: Yikes...! Oh, my word! Oh my word! I just realized...this is a restricted book! It's forbidden to move it, let alone transcribe it!!!
+- **8312**: What in heaven's name is a restricted book doing here!? As soon as I start reading its contents aloud, I'm going to be caught for sure!
+- **8313**: Hey, you... Here, I'll give you this, so keep this whole incident quiet! Promise not to tell anyone, okay?
+- **8314**: Eww... What if those smudges I removed from the book were bloodstains...?
+- **8315**: Ooo-ah! Perhaps that was the famed blood-sucking book of yore!? Shivers! Thank goodness it wasn't hungry, otherwise it could have attacked me!
+- **9686**: How's the mission going? You know, the cleaning of the book vault?
+- **9687**: Up until now, we've been giving up our holidays to keep things clean and tidy around here. But it looks like Minister Tosuka-Porika has finally agreed to get an adventurer to help us.
+- **9708**: For some reason, the words "Book vault cleaning" have been written in hugey-wuge letters on our schedule board.
+- **9709**: There must be some mistake. You've already cleaned out our book vault, rightaru?
 
 ## Events
 
@@ -353,13 +353,13 @@
 
 ```
   0: 0x004E [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+  1: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!"
   2: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+  3: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "This is the manuscript room. This is where we carry out the transcription of the library's older books into new books."
   4: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
+  5: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
     → "This copying of manuscripts has been repeated for hundreds of years. It is a work that never finishes."
   6: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0064 [0x7B] EventEntity stops talking
@@ -390,10 +390,10 @@
 
 ```
   0: 0x006D [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
+  1: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
     → "One of the restricted books lost during the war has come to light?"
   2: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
+  3: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
     → "Tosuka-Porika has been searching so hard for those lost restricted books ever since he became minister."
   4: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x007F [0x7B] EventEntity stops talking
@@ -424,10 +424,10 @@
 
 ```
   0: 0x0088 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+  1: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "There are many restricted books, but the Book of the Gods is in a class of its own."
   2: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "It's called a history book, but it doesn't just contain history. Sorry. It's not my specialty, so I don't know the details."
   4: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009A [0x7B] EventEntity stops talking
@@ -475,7 +475,7 @@
   9: 0x00E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x00E5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x00E6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x0D)
- 12: 0x00ED [0x24] CREATE_DIALOG(message_id=8197*, default_option=0*, option_flags=0*)
+ 12: 0x00ED [0x24] CREATE_DIALOG(message_id=8198*, default_option=0*, option_flags=0*)
     → "Listen to Hariga-Origa's request? [Listen./Don't listen.]"
  13: 0x00F4 [0x25] WAIT_DIALOG_SELECT()
  14: 0x00F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010C
@@ -513,7 +513,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
+  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
     → "Shh...! Can't you see I'm in the middle of transcribing this book here? Please keep your voice down!"
   1: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012D [0x00] END_REQSTACK()
@@ -539,10 +539,10 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
+  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
     → ""Heretofore, source of magick...primarily extrinsic energies...fill terra and caelum.""
   1: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
+  2: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
     → ""Tarutaru...analyzed...extrinsic energy...classifying into eight...elements. These...give birth magick...resides in soul...woven into spells...both...er, both...""
   3: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0136 [0x00] END_REQSTACK()
@@ -567,10 +567,10 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8194*)
+  0: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
     → "...What's this?"
   1: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8195*)
+  2: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
     → "I don't know how to read this glyph. That's the trouble with ancient writings; the letters and characters are too hard to read..."
   3: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x013F [0x00] END_REQSTACK()
@@ -595,7 +595,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=8196*)
+  0: 0x0140 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
     → "Hey, you there! You wouldn't happen to be passing through West Sarutabaruta anytime soon, would you? If so, I have a little favor to ask..."
   1: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0144 [0x00] END_REQSTACK()
@@ -620,7 +620,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
+  0: 0x0145 [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
     → "Well, I guess it can't be helped then... I'll just have to give up until someone can go there for me."
   1: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0149 [0x00] END_REQSTACK()
@@ -646,13 +646,13 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8199*)
+  0: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
     → "One of our researchers just headed off to the Horutoto Ruins in West Sarutabaruta."
   1: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
+  2: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
     → "She specializes in paleography, so she should be able to read these glyphs with no trouble at all."
   3: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+  4: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Could you do me a favor and pass her this memo? Her name is Ipupu."
   5: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0156 [0x00] END_REQSTACK()
@@ -680,10 +680,10 @@ SUBROUTINE_0123:
 
 ```
   0: 0x0157 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
+  1: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
     → "Hurry up and pass that memo to Ipupu. She's in West Sarutabaruta, probably in one of the magic towers of the Horutoto Ruins."
   2: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "Until I can read the glyph I wrote in that memo, I have to give up... But I can't rest now, as I have so many other books to do. Guess I'll just have to get on with them in the meantime."
   4: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0169 [0x7B] EventEntity stops talking
@@ -741,7 +741,7 @@ SUBROUTINE_0123:
  18: 0x01DC [0x1E] EventEntity looks at LocalPlayer and starts talking
  19: 0x01E1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  20: 0x01E2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 21: 0x01E3 [0x2B] Hariga-Origa (ID: 17752084/0x010EE014) [8214*]:
+ 21: 0x01E3 [0x2B] Hariga-Origa (ID: 17752084/0x010EE014) [8215*]:
     → "Oh, that's right, I had better reward you with something for helping me out there. Let me see... How about this map I have here? I'm sure you'll find this useful in your adventures!"
  22: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x01EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -770,7 +770,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+  0: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "Oh, welcome back. Were you able to get any feedback from Ipupu?"
   1: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0206 [0x00] END_REQSTACK()
@@ -795,7 +795,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+  0: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "Hu-hum... So, this glyph just has the meaning of "sanative"? Why didn't they just write "healing," for crying out loud? Anyway, so where was I..."
   1: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x020B [0x00] END_REQSTACK()
@@ -821,13 +821,13 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
+  0: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
     → ""Heretofore, the source of magick was primarily the extrinsic energies that fill terra and caelum.""
   1: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
+  2: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
     → ""The Tarutaru had analyzed that extrinsic energy, classifying it into eight elements. These elements give birth to magick that resides in the soul to be woven into spells both sanative and hostile.""
   3: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
+  4: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
     → ""However, after many long years of study, the existence of a converse of extrinsic energy, intrinsic energy from the soul itself, was discovered.""
   5: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0218 [0x00] END_REQSTACK()
@@ -852,7 +852,7 @@ SUBROUTINE_0123:
 #### Opcodes
 
 ```
-  0: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8213*)
+  0: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8214*)
     → "Phew! This book is way too complicated. I think I'll leave it here for today..."
   1: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x021D [0x00] END_REQSTACK()
@@ -880,10 +880,10 @@ SUBROUTINE_0123:
 
 ```
   0: 0x021E [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8215*)
+  1: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8216*)
     → "Let me see... What was that book about? Something to do with extrinsic energy and the soul's own intrinsic energy...?"
   2: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8216*)
+  3: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8217*)
     → "That reminds me of something I heard in one of my lessons at the School of Magic... Magic from the heart that uses the soul's energy is what gave birth to magic dolls and automaton guards."
   4: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0230 [0x7B] EventEntity stops talking
@@ -931,7 +931,7 @@ SUBROUTINE_0123:
   9: 0x027A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x027B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x027C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x1B)
- 12: 0x0283 [0x24] CREATE_DIALOG(message_id=8294*, default_option=0*, option_flags=0*)
+ 12: 0x0283 [0x24] CREATE_DIALOG(message_id=8295*, default_option=0*, option_flags=0*)
     → "Accept request for help? [Listen further./Decline.]"
  13: 0x028A [0x25] WAIT_DIALOG_SELECT()
  14: 0x028B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A2
@@ -970,7 +970,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8287*)
+  0: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
     → "Shh...! Can't you see I'm in the middle of transcribing this book? Please keep your voice down!"
   1: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C3 [0x00] END_REQSTACK()
@@ -996,13 +996,13 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8288*)
+  0: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
     → "There are many books and scrolls preserved in Windurst, but the most important one, with the highest historical value, is the "Book of the Gods.""
   1: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8289*)
+  2: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
     → "The "Book of the Gods" is tightly guarded in innermost chambers of the Optistery. We don't know for sure what is contained in it or who wrote it."
   3: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
+  4: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
     → "As for this book, in the past it had been handed to the Yagudo by some wicked person. The scholar who retrieved the book back was able to reveal one of its secrets to us."
   5: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D0 [0x00] END_REQSTACK()
@@ -1027,10 +1027,10 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+  0: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "Just a second...?"
   1: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+  2: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "My word! What are these brown smudges here? Thanks to these, I can't read the essential first page!"
   3: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02D9 [0x00] END_REQSTACK()
@@ -1055,7 +1055,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
+  0: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "Hey, you again! You wouldn't be able to fetch me $1 and $2, would you? If I have both of them, I'll be able to clean away these smudges, leaving these pages as good as new!"
   1: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DE [0x00] END_REQSTACK()
@@ -1081,7 +1081,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
+  0: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
     → "Well, I guess it can't be helped, then... I'll just have to give up until someone can get some for me."
   1: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E3 [0x00] END_REQSTACK()
@@ -1106,7 +1106,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  0: 0x02E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "I've heard that $1 can be obtained from the monsters in Ordelle's Caves. It's pretty far, but hey, you're an adventurer, aren't you?"
   1: 0x02E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E8 [0x00] END_REQSTACK()
@@ -1134,10 +1134,10 @@ SUBROUTINE_02B9:
 
 ```
   0: 0x02E9 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  1: 0x02F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "I've heard that $1 can be obtained from the monsters in Ordelle's Caves."
   2: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
+  3: 0x02F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8299*)
     → "If we can get $2 too, then we'll be able to wipe away those smudges in a jiffy. Good luck in finding them."
   4: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02FB [0x7B] EventEntity stops talking
@@ -1188,7 +1188,7 @@ SUBROUTINE_02B9:
   7: 0x0323 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0324 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x20)
   9: 0x032B [0x4B] UPDATE_ENTITY_YAW(entity=Hariga-Origa (ID: 17752084/0x010EE014), yaw=16.6°*)
- 10: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+ 10: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "Here we go... Squeak, squeak, squeak... Swish, swish, swish!t"
  11: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0336 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1233,7 +1233,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
+  0: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "Oh, welcome back. Great. Now that I have these, we're set!"
   1: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03DF [0x00] END_REQSTACK()
@@ -1258,7 +1258,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  0: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "Look! See how clean it is! Huh? What the...? Oh, my word!"
   1: 0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E4 [0x00] END_REQSTACK()
@@ -1284,16 +1284,16 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
+  0: 0x03E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
     → "The "Book of the Gods" is tightly guarded in the innermost parts of the Optistery. We do not know for sure what is contained in it, nor who wrote it."
   1: 0x03E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
+  2: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
     → "As for this book... In the past, some wicked person had handed it to the Yagudo. The scholar who retrieved the book was able to reveal one of its secrets to us."
   3: 0x03EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
+  4: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
     → "Wondering why the writing in the "Book of the Gods" doesn't need transcribing? It's because the writing is penned with water from the Full Moon Fountain!"
   5: 0x03F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
+  6: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
     → "Only the Star Sibyl can enter the Full Moon Fountain... Oh...does that mean the author is actually...???"
   7: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03F5 [0x00] END_REQSTACK()
@@ -1320,11 +1320,11 @@ SUBROUTINE_02B9:
 
 ```
   0: 0x03F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x03)
-  1: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
+  1: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
     → "Yikes...! Oh, my word! Oh my word! I just realized...this is a restricted book! It's forbidden to move it, let alone transcribe it!!!"
   2: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x04)
-  4: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
+  4: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
     → "What in heaven's name is a restricted book doing here!? As soon as I start reading its contents aloud, I'm going to be caught for sure!"
   5: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x040C [0x00] END_REQSTACK()
@@ -1350,7 +1350,7 @@ SUBROUTINE_02B9:
 #### Opcodes
 
 ```
-  0: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
+  0: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
     → "Hey, you... Here, I'll give you this, so keep this whole incident quiet! Promise not to tell anyone, okay?"
   1: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0411 [0x00] END_REQSTACK()
@@ -1385,11 +1385,11 @@ SUBROUTINE_02B9:
   3: 0x0428 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x042D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x042E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  6: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "Eww... What if those smudges I removed from the book were bloodstains...?"
   7: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0433 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x03)
-  9: 0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+  9: 0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "Ooo-ah! Perhaps that was the famed blood-sucking book of yore!? Shivers! Thank goodness it wasn't hungry, otherwise it could have attacked me!"
  10: 0x043D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x043E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hariga-Origa (ID: 17752084/0x010EE014), tag_num=0x04)
@@ -1421,10 +1421,10 @@ SUBROUTINE_02B9:
 
 ```
   0: 0x0452 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9685*)
+  1: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=9686*)
     → "How's the mission going? You know, the cleaning of the book vault?"
   2: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9686*)
+  3: 0x0460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9687*)
     → "Up until now, we've been giving up our holidays to keep things clean and tidy around here. But it looks like Minister Tosuka-Porika has finally agreed to get an adventurer to help us."
   4: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0464 [0x7B] EventEntity stops talking
@@ -1455,10 +1455,10 @@ SUBROUTINE_02B9:
 
 ```
   0: 0x046D [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0477 [0x1D] PRINT_EVENT_MESSAGE(message_id=9707*)
+  1: 0x0477 [0x1D] PRINT_EVENT_MESSAGE(message_id=9708*)
     → "For some reason, the words "Book vault cleaning" have been written in hugey-wuge letters on our schedule board."
   2: 0x047A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=9708*)
+  3: 0x047B [0x1D] PRINT_EVENT_MESSAGE(message_id=9709*)
     → "There must be some mistake. You've already cleaned out our book vault, rightaru?"
   4: 0x047E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x047F [0x7B] EventEntity stops talking

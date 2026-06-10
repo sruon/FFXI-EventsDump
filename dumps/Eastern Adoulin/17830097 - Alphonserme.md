@@ -38,20 +38,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x28DC      |       10460 |
-|       2 | 0x28DD      |       10461 |
-|       3 | 0x28DE      |       10462 |
-|       4 | 0x28B9      |       10425 |
-|       5 | 0x28BA      |       10426 |
+|       1 | 0x28DD      |       10461 |
+|       2 | 0x28DE      |       10462 |
+|       3 | 0x28DF      |       10463 |
+|       4 | 0x28BA      |       10426 |
+|       5 | 0x28BB      |       10427 |
 |       6 | 0x0000      |           0 |
 
 ## String References
 
-- **10425**: The seas have been quite rough as of late. I cannot imagine anyone making their way to the Yahse Hunting Grounds via ship without the help of a map to delineate the currents.
-- **10426**: Of course, our white cap-hardened captain is more knowledgeable about these waters than everyone on the continent. Do not forget to thank him for his lifesaving expertise should you seek passage on his vessel.
-- **10460**: Stroll northwards and you shall meet with a wharf that docks ferries bound for the Yahse Hunting Grounds.
-- **10461**: Hahaha, your concern about sea monsters wreaking havoc on Adoulin is certainly a logical one to have. I myself consider the Peacekeepers no more than jesters dressed in steel rather than motley.
-- **10462**: Yet, praise be to Altana, such a dreadful event has yet to occur.
+- **10426**: The seas have been quite rough as of late. I cannot imagine anyone making their way to the Yahse Hunting Grounds via ship without the help of a map to delineate the currents.
+- **10427**: Of course, our white cap-hardened captain is more knowledgeable about these waters than everyone on the continent. Do not forget to thank him for his lifesaving expertise should you seek passage on his vessel.
+- **10461**: Stroll northwards and you shall meet with a wharf that docks ferries bound for the Yahse Hunting Grounds.
+- **10462**: Hahaha, your concern about sea monsters wreaking havoc on Adoulin is certainly a logical one to have. I myself consider the Peacekeepers no more than jesters dressed in steel rather than motley.
+- **10463**: Yet, praise be to Altana, such a dreadful event has yet to occur.
 
 ## Events
 
@@ -103,13 +103,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
     → "Stroll northwards and you shall meet with a wharf that docks ferries bound for the Yahse Hunting Grounds."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
     → "Hahaha, your concern about sea monsters wreaking havoc on Adoulin is certainly a logical one to have. I myself consider the Peacekeepers no more than jesters dressed in steel rather than motley."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
     → "Yet, praise be to Altana, such a dreadful event has yet to occur."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -144,10 +144,10 @@
   2: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0043 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0044 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=10425*)
+  5: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
     → "The seas have been quite rough as of late. I cannot imagine anyone making their way to the Yahse Hunting Grounds via ship without the help of a map to delineate the currents."
   6: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=10426*)
+  7: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=10427*)
     → "Of course, our white cap-hardened captain is more knowledgeable about these waters than everyone on the continent. Do not forget to thank him for his lifesaving expertise should you seek passage on his vessel."
   8: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

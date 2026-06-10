@@ -23,39 +23,39 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1D2B      |        7467 |
+|       2 | 0x1D2C      |        7468 |
 |       3 | 0x0ADF      |        2783 |
-|       4 | 0x1D2C      |        7468 |
-|       5 | 0x1D29      |        7465 |
+|       4 | 0x1D2D      |        7469 |
+|       5 | 0x1D2A      |        7466 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x1D2D      |        7469 |
-|       8 | 0x1D2E      |        7470 |
-|       9 | 0x1D2F      |        7471 |
-|      10 | 0x1D2A      |        7466 |
+|       7 | 0x1D2E      |        7470 |
+|       8 | 0x1D2F      |        7471 |
+|       9 | 0x1D30      |        7472 |
+|      10 | 0x1D2B      |        7467 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x1D34      |        7476 |
+|      12 | 0x1D35      |        7477 |
 |      13 | 0x007A      |         122 |
 |      14 | 0x0104      |         260 |
-|      15 | 0x1D31      |        7473 |
-|      16 | 0x1D32      |        7474 |
-|      17 | 0x1D33      |        7475 |
-|      18 | 0x1D30      |        7472 |
+|      15 | 0x1D32      |        7474 |
+|      16 | 0x1D33      |        7475 |
+|      17 | 0x1D34      |        7476 |
+|      18 | 0x1D31      |        7473 |
 |      19 | 0x0006      |           6 |
 
 ## String References
 
-- **7465**: Which service do you request? [Buy/Sell items./Teleportation./Nothing.]
-- **7466**: Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]
-- **7467**: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!
-- **7468**: It should please you to know that I now also deal in $0. Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!
-- **7469**: I see that your home country has control of this region. Feel free to browse through my wares.
-- **7470**: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.
-- **7471**: I can teleport you to your home country for $1 gil or $3 conquest [point/points].
-- **7472**: Word has it that the entire set of mog tablets has been recovered. Oh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.
-- **7473**: I am terribly sorry, but it seems as if you do not have enough gil.
-- **7474**: I am terribly sorry, but it seems as if you do not have enough conquest points.
-- **7475**: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.
-- **7476**: I am looking forward to doing business with you again in the future!
+- **7466**: Which service do you request? [Buy/Sell items./Teleportation./Nothing.]
+- **7467**: Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]
+- **7468**: Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!
+- **7469**: It should please you to know that I now also deal in $0. Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!
+- **7470**: I see that your home country has control of this region. Feel free to browse through my wares.
+- **7471**: I see that your home country is allies with the country in control of this region. Feel free to browse through my wares.
+- **7472**: I can teleport you to your home country for $1 gil or $3 conquest [point/points].
+- **7473**: Word has it that the entire set of mog tablets has been recovered. Oh, happy day! In honor of the occasion, I can teleport you to your home country free of charge.
+- **7474**: I am terribly sorry, but it seems as if you do not have enough gil.
+- **7475**: I am terribly sorry, but it seems as if you do not have enough conquest points.
+- **7476**: However, due to your home country's lack of influence in the region, this is the only transaction I am authorized to perform with you at the moment.
+- **7477**: I am looking forward to doing business with you again in the future!
 
 ## Events
 
@@ -132,26 +132,26 @@
   7: 0x001D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
   8: 0x0024 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0033
   9: 0x002C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
- 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+ 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!"
  11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0037 [0x03] Work_Zone[2] = 2783*
- 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+ 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "It should please you to know that I now also deal in $0. Bigger pieces will earn you more points for your nation, and I'll even toss some gil into the equation!"
  14: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0040 [0x06] Work_Zone[1] = 0
  16: 0x0043 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x013E
- 17: 0x004B [0x24] CREATE_DIALOG(message_id=7465*, default_option=2*, option_flags=0*)
+ 17: 0x004B [0x24] CREATE_DIALOG(message_id=7466*, default_option=2*, option_flags=0*)
     → "Which service do you request? [Buy/Sell items./Teleportation./Nothing.]"
  18: 0x0052 [0x25] WAIT_DIALOG_SELECT()
  19: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
  20: 0x005B [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x006A
- 21: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+ 21: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → "I see that your home country has control of this region. Feel free to browse through my wares."
  22: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0067 [0x01] GOTO 0x0079
  24: 0x006A [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0079
- 25: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+ 25: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "I see that your home country is allies with the country in control of this region. Feel free to browse through my wares."
  26: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0076 [0x01] GOTO 0x0079
@@ -169,10 +169,10 @@ SUBROUTINE_0089:
  35: 0x0095 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
  36: 0x009A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
  37: 0x009F [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[6]
- 38: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
+ 38: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
     → "I can teleport you to your home country for $1 gil or $3 conquest [point/points]."
  39: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00A8 [0x24] CREATE_DIALOG(message_id=7466*, default_option=3*, option_flags=1*)
+ 40: 0x00A8 [0x24] CREATE_DIALOG(message_id=7467*, default_option=3*, option_flags=1*)
     → "Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]"
  41: 0x00AF [0x25] WAIT_DIALOG_SELECT()
  42: 0x00B0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F4
@@ -181,7 +181,7 @@ SUBROUTINE_0089:
  45: 0x00C1 [0x05] Work_Zone[1] = 1
  46: 0x00C4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  47: 0x00C6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 48: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+ 48: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "I am looking forward to doing business with you again in the future!"
  49: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00CC [0x73] EventEntity casts magic 122* on LocalPlayer
@@ -189,7 +189,7 @@ SUBROUTINE_0089:
  52: 0x00DA [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=2*)
  53: 0x00E3 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=2*, condition_work_offset=1*)
  54: 0x00EA [0x01] GOTO 0x00F1
- 55: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
+ 55: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
     → "I am terribly sorry, but it seems as if you do not have enough gil."
  56: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -201,7 +201,7 @@ SUBROUTINE_00F1:
  61: 0x0105 [0x05] Work_Zone[1] = 1
  62: 0x0108 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  63: 0x010A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 64: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+ 64: 0x010C [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "I am looking forward to doing business with you again in the future!"
  65: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0110 [0x73] EventEntity casts magic 122* on LocalPlayer
@@ -209,7 +209,7 @@ SUBROUTINE_00F1:
  68: 0x011E [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=1*, target=Work_Zone[1], source=2*)
  69: 0x0127 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=2*, condition_work_offset=1*)
  70: 0x012E [0x01] GOTO 0x0135
- 71: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+ 71: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "I am terribly sorry, but it seems as if you do not have enough conquest points."
  72: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -282,22 +282,22 @@ SUBROUTINE_0169:
   7: 0x0187 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=0*, condition_work_offset=1*)
   8: 0x018E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x019D
   9: 0x0196 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=1*, condition_work_offset=1*)
- 10: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
+ 10: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
     → "Welcome to the border shop! If you trade me unused equipment, I'll add their value to your country's region points!"
  11: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01A1 [0x06] Work_Zone[1] = 0
  13: 0x01A4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0241
- 14: 0x01AC [0x24] CREATE_DIALOG(message_id=7465*, default_option=2*, option_flags=0*)
+ 14: 0x01AC [0x24] CREATE_DIALOG(message_id=7466*, default_option=2*, option_flags=0*)
     → "Which service do you request? [Buy/Sell items./Teleportation./Nothing.]"
  15: 0x01B3 [0x25] WAIT_DIALOG_SELECT()
  16: 0x01B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E2
  17: 0x01BC [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x01CB
- 18: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+ 18: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → "I see that your home country has control of this region. Feel free to browse through my wares."
  19: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01C8 [0x01] GOTO 0x01DA
  21: 0x01CB [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x01DA
- 22: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+ 22: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "I see that your home country is allies with the country in control of this region. Feel free to browse through my wares."
  23: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x01D7 [0x01] GOTO 0x01DA
@@ -315,10 +315,10 @@ SUBROUTINE_01EA:
  32: 0x01F6 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[3]
  33: 0x01FB [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[5]
  34: 0x0200 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[6]
- 35: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
+ 35: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
     → "Word has it that the entire set of mog tablets has been recovered. Oh, happy day! In honor of the occasion, I can teleport you to your home country free of charge."
  36: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0209 [0x24] CREATE_DIALOG(message_id=7466*, default_option=3*, option_flags=6*)
+ 37: 0x0209 [0x24] CREATE_DIALOG(message_id=7467*, default_option=3*, option_flags=6*)
     → "Do you really wish to be teleported? [Yes./Teleport with gil./Teleport with conquest points./No.]"
  38: 0x0210 [0x25] WAIT_DIALOG_SELECT()
  39: 0x0211 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023B
@@ -326,7 +326,7 @@ SUBROUTINE_01EA:
  41: 0x021A [0x05] Work_Zone[1] = 1
  42: 0x021D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  43: 0x021F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 44: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+ 44: 0x0221 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "I am looking forward to doing business with you again in the future!"
  45: 0x0224 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0225 [0x73] EventEntity casts magic 122* on LocalPlayer

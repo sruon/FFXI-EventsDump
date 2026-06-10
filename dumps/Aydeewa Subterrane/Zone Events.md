@@ -148,51 +148,51 @@
 |      79 | 0x53A73     |      342643 |
 |      80 | 0x5A7AC     |      370604 |
 |      81 | 0x06C3      |        1731 |
-|      82 | 0x1C9F      |        7327 |
+|      82 | 0x1CA0      |        7328 |
 |      83 | 0x00C8      |         200 |
 |      84 | 0x001B      |          27 |
 |      85 | 0x00FD      |         253 |
-|      86 | 0x1CA0      |        7328 |
-|      87 | 0x1CA1      |        7329 |
-|      88 | 0x1CA2      |        7330 |
-|      89 | 0x1CA3      |        7331 |
+|      86 | 0x1CA1      |        7329 |
+|      87 | 0x1CA2      |        7330 |
+|      88 | 0x1CA3      |        7331 |
+|      89 | 0x1CA4      |        7332 |
 |      90 | 0x0078      |         120 |
 |      91 | 0x00FE      |         254 |
-|      92 | 0x1CA4      |        7332 |
-|      93 | 0x1CA5      |        7333 |
+|      92 | 0x1CA5      |        7333 |
+|      93 | 0x1CA6      |        7334 |
 |      94 | 0x0003      |           3 |
-|      95 | 0x1CA6      |        7334 |
-|      96 | 0x1CA7      |        7335 |
-|      97 | 0x1CA8      |        7336 |
+|      95 | 0x1CA7      |        7335 |
+|      96 | 0x1CA8      |        7336 |
+|      97 | 0x1CA9      |        7337 |
 |      98 | 0x0029      |          41 |
 |      99 | 0x025D      |         605 |
-|     100 | 0x1CAF      |        7343 |
-|     101 | 0x1CAD      |        7341 |
-|     102 | 0x1CAC      |        7340 |
-|     103 | 0x1CAE      |        7342 |
-|     104 | 0x1CB0      |        7344 |
+|     100 | 0x1CB0      |        7344 |
+|     101 | 0x1CAE      |        7342 |
+|     102 | 0x1CAD      |        7341 |
+|     103 | 0x1CAF      |        7343 |
+|     104 | 0x1CB1      |        7345 |
 |     105 | 0x036C      |         876 |
-|     106 | 0x1E1A      |        7706 |
-|     107 | 0x1E1B      |        7707 |
-|     108 | 0x1E1C      |        7708 |
-|     109 | 0x1E1D      |        7709 |
-|     110 | 0x1E1E      |        7710 |
-|     111 | 0x1E1F      |        7711 |
-|     112 | 0x1E20      |        7712 |
-|     113 | 0x1E21      |        7713 |
-|     114 | 0x1E23      |        7715 |
-|     115 | 0x1E24      |        7716 |
-|     116 | 0x1E25      |        7717 |
-|     117 | 0x1E26      |        7718 |
-|     118 | 0x1E27      |        7719 |
-|     119 | 0x1E28      |        7720 |
-|     120 | 0x1E29      |        7721 |
+|     106 | 0x1E1B      |        7707 |
+|     107 | 0x1E1C      |        7708 |
+|     108 | 0x1E1D      |        7709 |
+|     109 | 0x1E1E      |        7710 |
+|     110 | 0x1E1F      |        7711 |
+|     111 | 0x1E20      |        7712 |
+|     112 | 0x1E21      |        7713 |
+|     113 | 0x1E22      |        7714 |
+|     114 | 0x1E24      |        7716 |
+|     115 | 0x1E25      |        7717 |
+|     116 | 0x1E26      |        7718 |
+|     117 | 0x1E27      |        7719 |
+|     118 | 0x1E28      |        7720 |
+|     119 | 0x1E29      |        7721 |
+|     120 | 0x1E2A      |        7722 |
 |     121 | 0x0004      |           4 |
-|     122 | 0x1E2B      |        7723 |
-|     123 | 0x1E2D      |        7725 |
-|     124 | 0x1E2E      |        7726 |
+|     122 | 0x1E2C      |        7724 |
+|     123 | 0x1E2E      |        7726 |
+|     124 | 0x1E2F      |        7727 |
 |     125 | 0x0064      |         100 |
-|     126 | 0x1E2A      |        7722 |
+|     126 | 0x1E2B      |        7723 |
 |     127 | 0xFAAC      |       64172 |
 |     128 | 0x1ACE1     |      109793 |
 |     129 | 0x99CB      |       39371 |
@@ -216,40 +216,40 @@
 
 ## String References
 
-- **7327**: Choose a picture to take.
-- **7328**: First scene.
-- **7329**: Second scene.
-- **7330**: Third scene.
-- **7331**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
-- **7332**: <Player> records the first scene.
-- **7333**: <Player> records the second scene.
-- **7334**: <Player> records the third scene.
-- **7335**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
-- **7336**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
-- **7340**: Your $7 breaks!
-- **7341**: Obtained key item: 3!
-- **7342**: You dig up $0, but your $7 breaks in the process.
-- **7343**: You are unable to mine anything.
-- **7344**: You cannot carry any more items. Your inventory is full.
-- **7706**: There are mushrooms growing here.
-- **7707**: You find a $3!
-- **7708**: You pick a mature $3.
-- **7709**: There is nothing left here to pick.
-- **7710**: You no longer need a $3.
-- **7711**: There is a sparse patch of mushrooms growing here.
-- **7712**: There is a dense patch of mushrooms growing here.
-- **7713**: However, you were unable to find a $3.
-- **7715**: Plant the mushroom here? [Yes, here./No, not here.]
-- **7716**: You gently plant the $3 in the soil.
-- **7717**: You don't see any new sprouts yet.
-- **7718**: You see a newly sprouted $3!
-- **7719**: Harvest the sprouts?
-- **7720**: Harvest the sprouts? [Harvest away./Not yet.]
-- **7721**: You harvest 1 sprout!
-- **7722**: You harvest 2 sprouts!
-- **7723**: You find an extra hidden sprout!
-- **7725**: However, you cannot carry any more sprouts.
-- **7726**: You pick a total of $1 [sprout/sprouts]!
+- **7328**: Choose a picture to take.
+- **7329**: First scene.
+- **7330**: Second scene.
+- **7331**: Third scene.
+- **7332**: Which picture will you take? [Show me again./First scene./Second scene./Third scene.]
+- **7333**: <Player> records the first scene.
+- **7334**: <Player> records the second scene.
+- **7335**: <Player> records the third scene.
+- **7336**: <Player> takes in the surrounding scenery. ...The view is breathtaking.
+- **7337**: <Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture.
+- **7341**: Your $7 breaks!
+- **7342**: Obtained key item: 3!
+- **7343**: You dig up $0, but your $7 breaks in the process.
+- **7344**: You are unable to mine anything.
+- **7345**: You cannot carry any more items. Your inventory is full.
+- **7707**: There are mushrooms growing here.
+- **7708**: You find a $3!
+- **7709**: You pick a mature $3.
+- **7710**: There is nothing left here to pick.
+- **7711**: You no longer need a $3.
+- **7712**: There is a sparse patch of mushrooms growing here.
+- **7713**: There is a dense patch of mushrooms growing here.
+- **7714**: However, you were unable to find a $3.
+- **7716**: Plant the mushroom here? [Yes, here./No, not here.]
+- **7717**: You gently plant the $3 in the soil.
+- **7718**: You don't see any new sprouts yet.
+- **7719**: You see a newly sprouted $3!
+- **7720**: Harvest the sprouts?
+- **7721**: Harvest the sprouts? [Harvest away./Not yet.]
+- **7722**: You harvest 1 sprout!
+- **7723**: You harvest 2 sprouts!
+- **7724**: You find an extra hidden sprout!
+- **7726**: However, you cannot carry any more sprouts.
+- **7727**: You pick a total of $1 [sprout/sprouts]!
 
 ## Events
 
@@ -991,7 +991,7 @@ SUBROUTINE_0147:
 
 ```
   0: 0x01EA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x01EB [0x48] [System] [7327*]:
+  1: 0x01EB [0x48] [System] [7328*]:
     → "Choose a picture to take."
   2: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1005,7 +1005,7 @@ SUBROUTINE_0147:
  11: 0x0238 [0x1C] WAIT(60* ticks)
  12: 0x023B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x024C [0x1C] WAIT(60* ticks)
- 14: 0x024F [0x48] [System] [7328*]:
+ 14: 0x024F [0x48] [System] [7329*]:
     → "First scene."
  15: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0253 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1015,7 +1015,7 @@ SUBROUTINE_0147:
  20: 0x0293 [0x1C] WAIT(60* ticks)
  21: 0x0296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  22: 0x02A7 [0x1C] WAIT(60* ticks)
- 23: 0x02AA [0x48] [System] [7329*]:
+ 23: 0x02AA [0x48] [System] [7330*]:
     → "Second scene."
  24: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x02AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1025,10 +1025,10 @@ SUBROUTINE_0147:
  29: 0x02EE [0x1C] WAIT(60* ticks)
  30: 0x02F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  31: 0x0302 [0x1C] WAIT(60* ticks)
- 32: 0x0305 [0x48] [System] [7330*]:
+ 32: 0x0305 [0x48] [System] [7331*]:
     → "Third scene."
  33: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0309 [0x24] CREATE_DIALOG(message_id=7331*, default_option=0*, option_flags=0*)
+ 34: 0x0309 [0x24] CREATE_DIALOG(message_id=7332*, default_option=0*, option_flags=0*)
     → "Which picture will you take? [Show me again./First scene./Second scene./Third scene.]"
  35: 0x0310 [0x25] WAIT_DIALOG_SELECT()
  36: 0x0311 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x031C
@@ -1043,7 +1043,7 @@ SUBROUTINE_0147:
  45: 0x0378 [0x1C] WAIT(120* ticks)
  46: 0x037B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  47: 0x038C [0x1C] WAIT(120* ticks)
- 48: 0x038F [0x48] [System] [7332*]:
+ 48: 0x038F [0x48] [System] [7333*]:
     → "<Player> records the first scene."
  49: 0x0392 [0x03] ExtData[1]->WorkLocal[2] = 1*
  50: 0x0397 [0x03] Work_Zone[1] = 1*
@@ -1058,7 +1058,7 @@ SUBROUTINE_0147:
  59: 0x03FB [0x1C] WAIT(120* ticks)
  60: 0x03FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  61: 0x040F [0x1C] WAIT(120* ticks)
- 62: 0x0412 [0x48] [System] [7333*]:
+ 62: 0x0412 [0x48] [System] [7334*]:
     → "<Player> records the second scene."
  63: 0x0415 [0x03] ExtData[1]->WorkLocal[2] = 1*
  64: 0x041A [0x03] Work_Zone[1] = 2*
@@ -1067,7 +1067,7 @@ SUBROUTINE_0147:
  67: 0x042A [0x1C] WAIT(120* ticks)
  68: 0x042D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[254*, 0*]
  69: 0x043E [0x1C] WAIT(120* ticks)
- 70: 0x0441 [0x48] [System] [7334*]:
+ 70: 0x0441 [0x48] [System] [7335*]:
     → "<Player> records the third scene."
  71: 0x0444 [0x03] ExtData[1]->WorkLocal[2] = 1*
  72: 0x0449 [0x03] Work_Zone[1] = 3*
@@ -1106,7 +1106,7 @@ SUBROUTINE_0451:
 #### Opcodes
 
 ```
-  0: 0x04B9 [0x48] [System] [7335*]:
+  0: 0x04B9 [0x48] [System] [7336*]:
     → "<Player> takes in the surrounding scenery. ...The view is breathtaking."
   1: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04BD [0x21] END_EVENT
@@ -1133,7 +1133,7 @@ SUBROUTINE_0451:
 #### Opcodes
 
 ```
-  0: 0x04BF [0x48] [System] [7336*]:
+  0: 0x04BF [0x48] [System] [7337*]:
     → "<Player> thinks back on Balakaf's words. ...Perhaps this is not the best time to record a picture."
   1: 0x04C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04C3 [0x21] END_EVENT
@@ -1172,24 +1172,24 @@ SUBROUTINE_0451:
   5: 0x04DC [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0514
   6: 0x04E4 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0500
   7: 0x04EC [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x04FA
-  8: 0x04F4 [0x48] [System] [7343*]:
+  8: 0x04F4 [0x48] [System] [7344*]:
     → "You are unable to mine anything."
   9: 0x04F7 [0x01] GOTO 0x04FD
- 10: 0x04FA [0x48] [System] [7341*]:
+ 10: 0x04FA [0x48] [System] [7342*]:
     → "Obtained key item: 3!"
 
 SUBROUTINE_04FD:
  11: 0x04FD [0x01] GOTO 0x0511
  12: 0x0500 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x050E
- 13: 0x0508 [0x48] [System] [7340*]:
+ 13: 0x0508 [0x48] [System] [7341*]:
     → "Your $7 breaks!"
  14: 0x050B [0x01] GOTO 0x0511
- 15: 0x050E [0x48] [System] [7342*]:
+ 15: 0x050E [0x48] [System] [7343*]:
     → "You dig up $0, but your $7 breaks in the process."
 
 SUBROUTINE_0511:
  16: 0x0511 [0x01] GOTO 0x0517
- 17: 0x0514 [0x48] [System] [7344*]:
+ 17: 0x0514 [0x48] [System] [7345*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0517:
@@ -1219,7 +1219,7 @@ SUBROUTINE_0517:
 ```
   0: 0x0519 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x051A [0x03] Work_Zone[9] = 876*
-  2: 0x051F [0x48] [System] [7706*]:
+  2: 0x051F [0x48] [System] [7707*]:
     → "There are mushrooms growing here."
   3: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0523 [0x21] END_EVENT
@@ -1248,13 +1248,13 @@ SUBROUTINE_0517:
 ```
   0: 0x0525 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0526 [0x03] Work_Zone[9] = 876*
-  2: 0x052B [0x48] [System] [7706*]:
+  2: 0x052B [0x48] [System] [7707*]:
     → "There are mushrooms growing here."
   3: 0x052E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x052F [0x48] [System] [7707*]:
+  4: 0x052F [0x48] [System] [7708*]:
     → "You find a $3!"
   5: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0533 [0x48] [System] [7708*]:
+  6: 0x0533 [0x48] [System] [7709*]:
     → "You pick a mature $3."
   7: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0537 [0x21] END_EVENT
@@ -1283,7 +1283,7 @@ SUBROUTINE_0517:
 ```
   0: 0x0539 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x053A [0x03] Work_Zone[9] = 876*
-  2: 0x053F [0x48] [System] [7709*]:
+  2: 0x053F [0x48] [System] [7710*]:
     → "There is nothing left here to pick."
   3: 0x0542 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0543 [0x21] END_EVENT
@@ -1312,13 +1312,13 @@ SUBROUTINE_0517:
 ```
   0: 0x0545 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0546 [0x03] Work_Zone[9] = 876*
-  2: 0x054B [0x48] [System] [7706*]:
+  2: 0x054B [0x48] [System] [7707*]:
     → "There are mushrooms growing here."
   3: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x054F [0x48] [System] [7707*]:
+  4: 0x054F [0x48] [System] [7708*]:
     → "You find a $3!"
   5: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0553 [0x48] [System] [7710*]:
+  6: 0x0553 [0x48] [System] [7711*]:
     → "You no longer need a $3."
   7: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0557 [0x21] END_EVENT
@@ -1350,17 +1350,17 @@ SUBROUTINE_0517:
   0: 0x0559 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x055A [0x03] Work_Zone[9] = 876*
   2: 0x055F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x056E
-  3: 0x0567 [0x48] [System] [7711*]:
+  3: 0x0567 [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   4: 0x056A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x056B [0x01] GOTO 0x058C
   6: 0x056E [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x057D
-  7: 0x0576 [0x48] [System] [7711*]:
+  7: 0x0576 [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   8: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x057A [0x01] GOTO 0x058C
  10: 0x057D [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x058C
- 11: 0x0585 [0x48] [System] [7712*]:
+ 11: 0x0585 [0x48] [System] [7713*]:
     → "There is a dense patch of mushrooms growing here."
  12: 0x0588 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0589 [0x01] GOTO 0x058C
@@ -1396,26 +1396,26 @@ SUBROUTINE_058C:
   0: 0x058E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x058F [0x03] Work_Zone[9] = 876*
   2: 0x0594 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05A7
-  3: 0x059C [0x48] [System] [7711*]:
+  3: 0x059C [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   4: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x05A0 [0x48] [System] [7713*]:
+  5: 0x05A0 [0x48] [System] [7714*]:
     → "However, you were unable to find a $3."
   6: 0x05A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x05A4 [0x01] GOTO 0x05CD
   8: 0x05A7 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x05BA
-  9: 0x05AF [0x48] [System] [7711*]:
+  9: 0x05AF [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
  10: 0x05B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x05B3 [0x48] [System] [7713*]:
+ 11: 0x05B3 [0x48] [System] [7714*]:
     → "However, you were unable to find a $3."
  12: 0x05B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x05B7 [0x01] GOTO 0x05CD
  14: 0x05BA [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x05CD
- 15: 0x05C2 [0x48] [System] [7712*]:
+ 15: 0x05C2 [0x48] [System] [7713*]:
     → "There is a dense patch of mushrooms growing here."
  16: 0x05C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x05C6 [0x48] [System] [7713*]:
+ 17: 0x05C6 [0x48] [System] [7714*]:
     → "However, you were unable to find a $3."
  18: 0x05C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x05CA [0x01] GOTO 0x05CD
@@ -1453,27 +1453,27 @@ SUBROUTINE_05CD:
   0: 0x05CF [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x05D0 [0x03] Work_Zone[9] = 876*
   2: 0x05D5 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x05E4
-  3: 0x05DD [0x48] [System] [7711*]:
+  3: 0x05DD [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   4: 0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05E1 [0x01] GOTO 0x0602
   6: 0x05E4 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x05F3
-  7: 0x05EC [0x48] [System] [7711*]:
+  7: 0x05EC [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   8: 0x05EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x05F0 [0x01] GOTO 0x0602
  10: 0x05F3 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0602
- 11: 0x05FB [0x48] [System] [7712*]:
+ 11: 0x05FB [0x48] [System] [7713*]:
     → "There is a dense patch of mushrooms growing here."
  12: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x05FF [0x01] GOTO 0x0602
 
 SUBROUTINE_0602:
- 14: 0x0602 [0x24] CREATE_DIALOG(message_id=7715*, default_option=0*, option_flags=0*)
+ 14: 0x0602 [0x24] CREATE_DIALOG(message_id=7716*, default_option=0*, option_flags=0*)
     → "Plant the mushroom here? [Yes, here./No, not here.]"
  15: 0x0609 [0x25] WAIT_DIALOG_SELECT()
  16: 0x060A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x061E
- 17: 0x0612 [0x48] [System] [7716*]:
+ 17: 0x0612 [0x48] [System] [7717*]:
     → "You gently plant the $3 in the soil."
  18: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0616 [0x03] Work_Zone[1] = 0*
@@ -1507,7 +1507,7 @@ SUBROUTINE_062E:
 
 ```
   0: 0x0630 [0x03] Work_Zone[9] = 876*
-  1: 0x0635 [0x48] [System] [7717*]:
+  1: 0x0635 [0x48] [System] [7718*]:
     → "You don't see any new sprouts yet."
   2: 0x0638 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0639 [0x21] END_EVENT
@@ -1569,26 +1569,26 @@ SUBROUTINE_062E:
   2: 0x0641 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   3: 0x0646 [0x03] Work_Zone[9] = 876*
   4: 0x064B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x06C7
-  5: 0x0653 [0x48] [System] [7711*]:
+  5: 0x0653 [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
   6: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0657 [0x48] [System] [7718*]:
+  7: 0x0657 [0x48] [System] [7719*]:
     → "You see a newly sprouted $3!"
   8: 0x065A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x065B [0x48] [System] [7719*]:
+  9: 0x065B [0x48] [System] [7720*]:
     → "Harvest the sprouts?"
  10: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x065F [0x24] CREATE_DIALOG(message_id=7720*, default_option=0*, option_flags=0*)
+ 11: 0x065F [0x24] CREATE_DIALOG(message_id=7721*, default_option=0*, option_flags=0*)
     → "Harvest the sprouts? [Harvest away./Not yet.]"
  12: 0x0666 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0667 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06B4
- 14: 0x066F [0x48] [System] [7721*]:
+ 14: 0x066F [0x48] [System] [7722*]:
     → "You harvest 1 sprout!"
  15: 0x0672 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0673 [0x0B] ExtData[1]->WorkLocal[4]++
  17: 0x0676 [0x02] IF !(ExtData[1]->WorkLocal[3] < 4*) GOTO 0x0692
  18: 0x067E [0x02] IF !(ExtData[1]->WorkLocal[3] > 5*) GOTO 0x0692
- 19: 0x0686 [0x48] [System] [7723*]:
+ 19: 0x0686 [0x48] [System] [7724*]:
     → "You find an extra hidden sprout!"
  20: 0x0689 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x068A [0x0B] ExtData[1]->WorkLocal[4]++
@@ -1597,10 +1597,10 @@ SUBROUTINE_062E:
  24: 0x0697 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 5*) GOTO 0x06B1
  25: 0x069F [0x03] ExtData[1]->WorkLocal[4] = 5*
  26: 0x06A4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 27: 0x06A9 [0x48] [System] [7725*]:
+ 27: 0x06A9 [0x48] [System] [7726*]:
     → "However, you cannot carry any more sprouts."
  28: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x06AD [0x48] [System] [7726*]:
+ 29: 0x06AD [0x48] [System] [7727*]:
     → "You pick a total of $1 [sprout/sprouts]!"
  30: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x06B1 [0x01] GOTO 0x06C4
@@ -1611,26 +1611,26 @@ SUBROUTINE_062E:
 SUBROUTINE_06C4:
  35: 0x06C4 [0x01] GOTO 0x07BD
  36: 0x06C7 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x073E
- 37: 0x06CF [0x48] [System] [7711*]:
+ 37: 0x06CF [0x48] [System] [7712*]:
     → "There is a sparse patch of mushrooms growing here."
  38: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x06D3 [0x48] [System] [7718*]:
+ 39: 0x06D3 [0x48] [System] [7719*]:
     → "You see a newly sprouted $3!"
  40: 0x06D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x06D7 [0x48] [System] [7719*]:
+ 41: 0x06D7 [0x48] [System] [7720*]:
     → "Harvest the sprouts?"
  42: 0x06DA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x06DB [0x24] CREATE_DIALOG(message_id=7720*, default_option=0*, option_flags=0*)
+ 43: 0x06DB [0x24] CREATE_DIALOG(message_id=7721*, default_option=0*, option_flags=0*)
     → "Harvest the sprouts? [Harvest away./Not yet.]"
  44: 0x06E2 [0x25] WAIT_DIALOG_SELECT()
  45: 0x06E3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x072B
- 46: 0x06EB [0x48] [System] [7721*]:
+ 46: 0x06EB [0x48] [System] [7722*]:
     → "You harvest 1 sprout!"
  47: 0x06EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x06EF [0x0B] ExtData[1]->WorkLocal[4]++
  49: 0x06F2 [0x02] IF !(ExtData[1]->WorkLocal[3] < 4*) GOTO 0x070E
  50: 0x06FA [0x02] IF !(ExtData[1]->WorkLocal[3] > 5*) GOTO 0x070E
- 51: 0x0702 [0x48] [System] [7723*]:
+ 51: 0x0702 [0x48] [System] [7724*]:
     → "You find an extra hidden sprout!"
  52: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0706 [0x0B] ExtData[1]->WorkLocal[4]++
@@ -1638,10 +1638,10 @@ SUBROUTINE_06C4:
  55: 0x070E [0x02] IF !(ExtData[1]->WorkLocal[4] <= 5*) GOTO 0x0728
  56: 0x0716 [0x03] ExtData[1]->WorkLocal[4] = 5*
  57: 0x071B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 58: 0x0720 [0x48] [System] [7725*]:
+ 58: 0x0720 [0x48] [System] [7726*]:
     → "However, you cannot carry any more sprouts."
  59: 0x0723 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0724 [0x48] [System] [7726*]:
+ 60: 0x0724 [0x48] [System] [7727*]:
     → "You pick a total of $1 [sprout/sprouts]!"
  61: 0x0727 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0728 [0x01] GOTO 0x073B
@@ -1652,27 +1652,27 @@ SUBROUTINE_06C4:
 SUBROUTINE_073B:
  66: 0x073B [0x01] GOTO 0x07BD
  67: 0x073E [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x07BD
- 68: 0x0746 [0x48] [System] [7712*]:
+ 68: 0x0746 [0x48] [System] [7713*]:
     → "There is a dense patch of mushrooms growing here."
  69: 0x0749 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x074A [0x48] [System] [7718*]:
+ 70: 0x074A [0x48] [System] [7719*]:
     → "You see a newly sprouted $3!"
  71: 0x074D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x074E [0x48] [System] [7719*]:
+ 72: 0x074E [0x48] [System] [7720*]:
     → "Harvest the sprouts?"
  73: 0x0751 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0752 [0x24] CREATE_DIALOG(message_id=7720*, default_option=0*, option_flags=0*)
+ 74: 0x0752 [0x24] CREATE_DIALOG(message_id=7721*, default_option=0*, option_flags=0*)
     → "Harvest the sprouts? [Harvest away./Not yet.]"
  75: 0x0759 [0x25] WAIT_DIALOG_SELECT()
  76: 0x075A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07AA
- 77: 0x0762 [0x48] [System] [7722*]:
+ 77: 0x0762 [0x48] [System] [7723*]:
     → "You harvest 2 sprouts!"
  78: 0x0765 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0766 [0x0B] ExtData[1]->WorkLocal[4]++
  80: 0x0769 [0x0B] ExtData[1]->WorkLocal[4]++
  81: 0x076C [0x02] IF !(ExtData[1]->WorkLocal[3] < 4*) GOTO 0x0783
  82: 0x0774 [0x02] IF !(ExtData[1]->WorkLocal[3] > 5*) GOTO 0x0783
- 83: 0x077C [0x48] [System] [7723*]:
+ 83: 0x077C [0x48] [System] [7724*]:
     → "You find an extra hidden sprout!"
  84: 0x077F [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0780 [0x0B] ExtData[1]->WorkLocal[4]++
@@ -1680,10 +1680,10 @@ SUBROUTINE_073B:
  87: 0x0788 [0x02] IF !(ExtData[1]->WorkLocal[4] <= 5*) GOTO 0x07A7
  88: 0x0790 [0x03] ExtData[1]->WorkLocal[4] = 5*
  89: 0x0795 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 90: 0x079A [0x48] [System] [7725*]:
+ 90: 0x079A [0x48] [System] [7726*]:
     → "However, you cannot carry any more sprouts."
  91: 0x079D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x079E [0x48] [System] [7726*]:
+ 92: 0x079E [0x48] [System] [7727*]:
     → "You pick a total of $1 [sprout/sprouts]!"
  93: 0x07A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x07A2 [0x03] ExtData[1]->WorkLocal[4] = 5*

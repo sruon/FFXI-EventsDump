@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EF0      |        7920 |
+|       0 | 0x1EF1      |        7921 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x9C3CF     |      639951 |
@@ -36,7 +36,7 @@
 
 ## String References
 
-- **7920**: What to do... [Move to the[ armada/ next] warship./Return to Tavnazia./Nothing.]
+- **7921**: What to do... [Move to the[ armada/ next] warship./Return to Tavnazia./Nothing.]
 
 ## Events
 
@@ -113,7 +113,7 @@
 ```
   0: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0004 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7920*, default_option=2*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7921*, default_option=2*, option_flags=0*)
     → "What to do... [Move to the[ armada/ next] warship./Return to Tavnazia./Nothing.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004B

@@ -30,7 +30,7 @@
 |       3 | 0x0001      |           1 |
 |       4 | 0x001F      |          31 |
 |       5 | 0xFFFFFFFF  |  4294967295 |
-|       6 | 0x1F95      |        8085 |
+|       6 | 0x1F96      |        8086 |
 |       7 | 0x40000000  |  1073741824 |
 |       8 | 0x0010      |          16 |
 |       9 | 0x0012      |          18 |
@@ -39,28 +39,28 @@
 |      12 | 0x0004      |           4 |
 |      13 | 0x000B      |          11 |
 |      14 | 0x001D      |          29 |
-|      15 | 0x1F81      |        8065 |
-|      16 | 0x1F82      |        8066 |
-|      17 | 0x1F89      |        8073 |
-|      18 | 0x1F84      |        8068 |
+|      15 | 0x1F82      |        8066 |
+|      16 | 0x1F83      |        8067 |
+|      17 | 0x1F8A      |        8074 |
+|      18 | 0x1F85      |        8069 |
 |      19 | 0x0002      |           2 |
-|      20 | 0x1F86      |        8070 |
+|      20 | 0x1F87      |        8071 |
 |      21 | 0x003C      |          60 |
 |      22 | 0x0078      |         120 |
 |      23 | 0x0006      |           6 |
 |      24 | 0x0007      |           7 |
 |      25 | 0x0008      |           8 |
-|      26 | 0x1F83      |        8067 |
+|      26 | 0x1F84      |        8068 |
 |      27 | 0x005A      |          90 |
 |      28 | 0x00C9      |         201 |
 |      29 | 0x002D      |          45 |
 |      30 | 0x00C8      |         200 |
 |      31 | 0x0009      |           9 |
 |      32 | 0x000A      |          10 |
-|      33 | 0x1F8F      |        8079 |
-|      34 | 0x1F8E      |        8078 |
-|      35 | 0x1F90      |        8080 |
-|      36 | 0x1F91      |        8081 |
+|      33 | 0x1F90      |        8080 |
+|      34 | 0x1F8F      |        8079 |
+|      35 | 0x1F91      |        8081 |
+|      36 | 0x1F92      |        8082 |
 |      37 | 0x0325      |         805 |
 |      38 | 0x0327      |         807 |
 |      39 | 0x0326      |         806 |
@@ -100,17 +100,17 @@
 
 ## String References
 
-- **8065**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
-- **8066**: Proceed? [Yes./No.]
-- **8067**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
-- **8068**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
-- **8070**: You cannot enter at this time. Please wait a moment and try again.
-- **8073**: Your request for entry is being considered...
-- **8078**: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
-- **8079**: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
-- **8080**: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
-- **8081**: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
-- **8085**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
+- **8066**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
+- **8067**: Proceed? [Yes./No.]
+- **8068**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+- **8069**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+- **8071**: You cannot enter at this time. Please wait a moment and try again.
+- **8074**: Your request for entry is being considered...
+- **8079**: What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+- **8080**: What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+- **8081**: What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]
+- **8082**: Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]
+- **8086**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
 
 ## Events
 
@@ -332,7 +332,7 @@ SUBROUTINE_0062:
  24: 0x0068 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=31*, target=ExtData[1]->WorkLocal[16], source=4294967295*)
  25: 0x0071 [0x0F] ExtData[1]->WorkLocal[16] ^= ExtData[1]->WorkLocal[18]
  26: 0x0076 [0x10] ExtData[1]->WorkLocal[16] <<= 1*
- 27: 0x007B [0x24] CREATE_DIALOG(message_id=8085*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
+ 27: 0x007B [0x24] CREATE_DIALOG(message_id=8086*, default_option=0*, option_flags=ExtData[1]->WorkLocal[16])
     → "Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]"
  28: 0x0082 [0x25] WAIT_DIALOG_SELECT()
  29: 0x0083 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0095
@@ -419,15 +419,15 @@ SUBROUTINE_01F8:
  98: 0x01F8 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0249
  99: 0x0200 [0x1A] CALL_SUBROUTINE(address=0x024B)
 100: 0x0203 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-101: 0x0208 [0x48] [System] [8065*]:
+101: 0x0208 [0x48] [System] [8066*]:
     → "Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8."
 102: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x020C [0x24] CREATE_DIALOG(message_id=8066*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+103: 0x020C [0x24] CREATE_DIALOG(message_id=8067*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "Proceed? [Yes./No.]"
 104: 0x0213 [0x25] WAIT_DIALOG_SELECT()
 105: 0x0214 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0228
 106: 0x021C [0x06] ExtData[1]->WorkLocal[8] = 0
-107: 0x021F [0x48] [System] [8073*]:
+107: 0x021F [0x48] [System] [8074*]:
     → "Your request for entry is being considered..."
 108: 0x0222 [0x1A] CALL_SUBROUTINE(address=0x027B)
 109: 0x0225 [0x01] GOTO 0x0246
@@ -435,7 +435,7 @@ SUBROUTINE_01F8:
 111: 0x0230 [0x03] Work_Zone[1] = 1073741824*
 112: 0x0235 [0x1A] CALL_SUBROUTINE(address=0x024B)
 113: 0x0238 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-114: 0x023D [0x48] [System] [8068*]:
+114: 0x023D [0x48] [System] [8069*]:
     → "You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8."
 115: 0x0240 [0x05] ExtData[1]->WorkLocal[4] = 1
 116: 0x0243 [0x01] GOTO 0x0246
@@ -491,7 +491,7 @@ SUBROUTINE_02AC:
 152: 0x02E0 [0x0B] ExtData[1]->WorkLocal[10]++
 153: 0x02E3 [0x02] IF !(ExtData[1]->WorkLocal[10] <= 5*) GOTO 0x02F8
 154: 0x02EB [0x05] ExtData[1]->WorkLocal[9] = 1
-155: 0x02EE [0x48] [System] [8070*]:
+155: 0x02EE [0x48] [System] [8071*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 156: 0x02F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x02F2 [0x1C] WAIT(60* ticks)
@@ -564,21 +564,21 @@ SUBROUTINE_036D:
 218: 0x03FC [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x0413
 219: 0x0404 [0x1A] CALL_SUBROUTINE(address=0x024B)
 220: 0x0407 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-221: 0x040C [0x48] [System] [8067*]:
+221: 0x040C [0x48] [System] [8068*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 222: 0x040F [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x0410 [0x01] GOTO 0x0446
 224: 0x0413 [0x02] IF !(ExtData[1]->WorkLocal[15] == 5*) GOTO 0x042A
 225: 0x041B [0x1A] CALL_SUBROUTINE(address=0x024B)
 226: 0x041E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-227: 0x0423 [0x48] [System] [8067*]:
+227: 0x0423 [0x48] [System] [8068*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 228: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x0427 [0x01] GOTO 0x0446
 230: 0x042A [0x02] IF !(ExtData[1]->WorkLocal[15] == 3*) GOTO 0x0446
 231: 0x0432 [0x9D] Work_Zone[2] = 0x07A1[ExtData[1]->WorkLocal[17]] // Read WORD
 232: 0x043A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
-233: 0x043F [0x48] [System] [8067*]:
+233: 0x043F [0x48] [System] [8068*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 234: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x0443 [0x01] GOTO 0x0446
@@ -615,7 +615,7 @@ SUBROUTINE_0446:
 264: 0x050E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 265: 0x0510 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 266: 0x0512 [0x05] ExtData[1]->WorkLocal[9] = 1
-267: 0x0515 [0x48] [System] [8070*]:
+267: 0x0515 [0x48] [System] [8071*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 268: 0x0518 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0519 [0x1C] WAIT(60* ticks)
@@ -706,7 +706,7 @@ SUBROUTINE_0525:
   3: 0x052F [0x06] ExtData[1]->WorkLocal[1] = 0
   4: 0x0532 [0x06] ExtData[1]->WorkLocal[2] = 0
   5: 0x0535 [0x06] ExtData[1]->WorkLocal[3] = 0
-  6: 0x0538 [0x24] CREATE_DIALOG(message_id=8079*, default_option=0*, option_flags=0*)
+  6: 0x0538 [0x24] CREATE_DIALOG(message_id=8080*, default_option=0*, option_flags=0*)
     → "What's the visage's obtainment rate? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]"
   7: 0x053F [0x25] WAIT_DIALOG_SELECT()
   8: 0x0540 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0552
@@ -716,7 +716,7 @@ SUBROUTINE_0525:
 
 SUBROUTINE_0552:
  12: 0x0552 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
- 13: 0x0557 [0x24] CREATE_DIALOG(message_id=8078*, default_option=0*, option_flags=0*)
+ 13: 0x0557 [0x24] CREATE_DIALOG(message_id=8079*, default_option=0*, option_flags=0*)
     → "What's the torso's size? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]"
  14: 0x055E [0x25] WAIT_DIALOG_SELECT()
  15: 0x055F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0571
@@ -732,7 +732,7 @@ SUBROUTINE_0571:
  23: 0x0583 [0x03] Work_Zone[5] = 4*
  24: 0x0588 [0x03] Work_Zone[6] = 5*
  25: 0x058D [0x03] Work_Zone[7] = 6*
- 26: 0x0592 [0x24] CREATE_DIALOG(message_id=8080*, default_option=0*, option_flags=0*)
+ 26: 0x0592 [0x24] CREATE_DIALOG(message_id=8081*, default_option=0*, option_flags=0*)
     → "What rank are the legs' benefits? [Never mind./Rank I./Rank II./Rank III./Rank IV./Rank V.]"
  27: 0x0599 [0x25] WAIT_DIALOG_SELECT()
  28: 0x059A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AC
@@ -743,7 +743,7 @@ SUBROUTINE_0571:
 SUBROUTINE_05AC:
  32: 0x05AC [0x06] Work_Zone[1] = 0
  33: 0x05AF [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[0]
- 34: 0x05B4 [0x24] CREATE_DIALOG(message_id=8081*, default_option=0*, option_flags=0*)
+ 34: 0x05B4 [0x24] CREATE_DIALOG(message_id=8082*, default_option=0*, option_flags=0*)
     → "Ready for an alluvion skirmish? [No./Alluvion A./Alluvion B./Alluvion C./Alluvion D./Alluvion E./Just a regular skirmish, please.]"
  35: 0x05BB [0x25] WAIT_DIALOG_SELECT()
  36: 0x05BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05CE
@@ -773,15 +773,15 @@ SUBROUTINE_0618:
  54: 0x0618 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0669
  55: 0x0620 [0x1A] CALL_SUBROUTINE(address=0x06F0)
  56: 0x0623 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
- 57: 0x0628 [0x48] [System] [8065*]:
+ 57: 0x0628 [0x48] [System] [8066*]:
     → "Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8."
  58: 0x062B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x062C [0x24] CREATE_DIALOG(message_id=8066*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
+ 59: 0x062C [0x24] CREATE_DIALOG(message_id=8067*, default_option=ExtData[1]->WorkLocal[8], option_flags=0*)
     → "Proceed? [Yes./No.]"
  60: 0x0633 [0x25] WAIT_DIALOG_SELECT()
  61: 0x0634 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0648
  62: 0x063C [0x06] ExtData[1]->WorkLocal[8] = 0
- 63: 0x063F [0x48] [System] [8073*]:
+ 63: 0x063F [0x48] [System] [8074*]:
     → "Your request for entry is being considered..."
  64: 0x0642 [0x1A] CALL_SUBROUTINE(address=0x027B)
  65: 0x0645 [0x01] GOTO 0x0666
@@ -789,7 +789,7 @@ SUBROUTINE_0618:
  67: 0x0650 [0x03] Work_Zone[1] = 1073741824*
  68: 0x0655 [0x1A] CALL_SUBROUTINE(address=0x06F0)
  69: 0x0658 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[15]
- 70: 0x065D [0x48] [System] [8068*]:
+ 70: 0x065D [0x48] [System] [8069*]:
     → "You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8."
  71: 0x0660 [0x05] ExtData[1]->WorkLocal[4] = 1
  72: 0x0663 [0x01] GOTO 0x0666

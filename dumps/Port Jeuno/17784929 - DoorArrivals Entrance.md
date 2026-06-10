@@ -21,9 +21,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFF1E2B  |  4294909483 |
-|       1 | 0x1BB7      |        7095 |
-|       2 | 0x1BB8      |        7096 |
-|       3 | 0x1BB9      |        7097 |
+|       1 | 0x1BB8      |        7096 |
+|       2 | 0x1BB9      |        7097 |
+|       3 | 0x1BBA      |        7098 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0092      |         146 |
@@ -32,7 +32,7 @@
 
 ## String References
 
-- **7097**: Proceed to the air travel agency? [Yes./No.]
+- **7098**: Proceed to the air travel agency? [Yes./No.]
 
 ## Events
 
@@ -89,15 +89,15 @@
   0: 0x0001 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   1: 0x000C [0x02] IF !(ExtData[1]->WorkLocal[2] <= 4294909483*) GOTO 0x0028
   2: 0x0014 [0x4A] Kuya-Moya (ID: 17784865/0x010F6021) looks at LocalPlayer
-  3: 0x001D [0x2B] Kuya-Moya (ID: 17784865/0x010F6021) [7095*]:
+  3: 0x001D [0x2B] Kuya-Moya (ID: 17784865/0x010F6021) [7096*]:
     → "This is the arrivals exit. The entrance to departures is next door."
   4: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0025 [0x01] GOTO 0x0096
   6: 0x0028 [0x4A] Funono (ID: 17784864/0x010F6020) looks at LocalPlayer
-  7: 0x0031 [0x2B] Funono (ID: 17784864/0x010F6020) [7096*]:
+  7: 0x0031 [0x2B] Funono (ID: 17784864/0x010F6020) [7097*]:
     → "Once you go through customs, you'll have to pay to come back on board. Is that all right?"
   8: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0039 [0x24] CREATE_DIALOG(message_id=7097*, default_option=1*, option_flags=0*)
+  9: 0x0039 [0x24] CREATE_DIALOG(message_id=7098*, default_option=1*, option_flags=0*)
     → "Proceed to the air travel agency? [Yes./No.]"
  10: 0x0040 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0041 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0096

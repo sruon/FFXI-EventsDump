@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F79      |        8057 |
-|       1 | 0x1EE8      |        7912 |
+|       0 | 0x1F7A      |        8058 |
+|       1 | 0x1EE9      |        7913 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x000F      |          15 |
@@ -29,8 +29,8 @@
 
 ## String References
 
-- **7912**: Proceed? [Yes./No.]
-- **8057**: This path seems to lead toward the summit of Mount Kamihr.
+- **7913**: Proceed? [Yes./No.]
+- **8058**: This path seems to lead toward the summit of Mount Kamihr.
 
 ## Events
 
@@ -80,10 +80,10 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [8057*]:
+  1: 0x0003 [0x48] [System] [8058*]:
     → "This path seems to lead toward the summit of Mount Kamihr."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7912*, default_option=0*, option_flags=0*)
+  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7913*, default_option=0*, option_flags=0*)
     → "Proceed? [Yes./No.]"
   4: 0x000E [0x25] WAIT_DIALOG_SELECT()
   5: 0x000F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0030

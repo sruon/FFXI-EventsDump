@@ -29,29 +29,29 @@
 |---------|-------------|-------------|
 |       0 | 0x00B5      |         181 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1B4A      |        6986 |
+|       2 | 0x1B4B      |        6987 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1B4B      |        6987 |
+|       4 | 0x1B4C      |        6988 |
 |       5 | 0x0001      |           1 |
 |       6 | 0xFFFFFFFE  |  4294967294 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0004      |           4 |
-|      10 | 0x1B4C      |        6988 |
-|      11 | 0x1B4D      |        6989 |
-|      12 | 0x1B4E      |        6990 |
-|      13 | 0x1B4F      |        6991 |
-|      14 | 0x1B50      |        6992 |
-|      15 | 0x1B51      |        6993 |
-|      16 | 0x1B52      |        6994 |
-|      17 | 0x1B53      |        6995 |
-|      18 | 0x1B54      |        6996 |
-|      19 | 0x1B55      |        6997 |
-|      20 | 0x1B56      |        6998 |
-|      21 | 0x1B57      |        6999 |
-|      22 | 0x1B58      |        7000 |
-|      23 | 0x1B5B      |        7003 |
-|      24 | 0x199A      |        6554 |
+|      10 | 0x1B4D      |        6989 |
+|      11 | 0x1B4E      |        6990 |
+|      12 | 0x1B4F      |        6991 |
+|      13 | 0x1B50      |        6992 |
+|      14 | 0x1B51      |        6993 |
+|      15 | 0x1B52      |        6994 |
+|      16 | 0x1B53      |        6995 |
+|      17 | 0x1B54      |        6996 |
+|      18 | 0x1B55      |        6997 |
+|      19 | 0x1B56      |        6998 |
+|      20 | 0x1B57      |        6999 |
+|      21 | 0x1B58      |        7000 |
+|      22 | 0x1B59      |        7001 |
+|      23 | 0x1B5C      |        7004 |
+|      24 | 0x199B      |        6555 |
 |      25 | 0x0019      |          25 |
 |      26 | 0x001A      |          26 |
 |      27 | 0x0005      |           5 |
@@ -69,31 +69,31 @@
 |      39 | 0x0012      |          18 |
 |      40 | 0x0017      |          23 |
 |      41 | 0x001D      |          29 |
-|      42 | 0x1B5C      |        7004 |
-|      43 | 0x1B77      |        7031 |
+|      42 | 0x1B5D      |        7005 |
+|      43 | 0x1B78      |        7032 |
 |      44 | 0xFFFFFFFF  |  4294967295 |
-|      45 | 0x1B78      |        7032 |
-|      46 | 0x1B82      |        7042 |
+|      45 | 0x1B79      |        7033 |
+|      46 | 0x1B83      |        7043 |
 |      47 | 0x000A      |          10 |
-|      48 | 0x1B86      |        7046 |
-|      49 | 0x1B8A      |        7050 |
-|      50 | 0x1B8E      |        7054 |
-|      51 | 0x1B92      |        7058 |
-|      52 | 0x1B96      |        7062 |
-|      53 | 0x1B9A      |        7066 |
-|      54 | 0x1B9E      |        7070 |
+|      48 | 0x1B87      |        7047 |
+|      49 | 0x1B8B      |        7051 |
+|      50 | 0x1B8F      |        7055 |
+|      51 | 0x1B93      |        7059 |
+|      52 | 0x1B97      |        7063 |
+|      53 | 0x1B9B      |        7067 |
+|      54 | 0x1B9F      |        7071 |
 |      55 | 0x0007      |           7 |
-|      56 | 0x1BA2      |        7074 |
-|      57 | 0x1BA6      |        7078 |
-|      58 | 0x1BAA      |        7082 |
-|      59 | 0x1BAE      |        7086 |
-|      60 | 0x1B79      |        7033 |
+|      56 | 0x1BA3      |        7075 |
+|      57 | 0x1BA7      |        7079 |
+|      58 | 0x1BAB      |        7083 |
+|      59 | 0x1BAF      |        7087 |
+|      60 | 0x1B7A      |        7034 |
 |      61 | 0x0078      |         120 |
-|      62 | 0x1B7A      |        7034 |
+|      62 | 0x1B7B      |        7035 |
 |      63 | 0x00EE      |         238 |
 |      64 | 0x20047     |      131143 |
 |      65 | 0x28E7A     |      167546 |
-|      66 | 0x1B7F      |        7039 |
+|      66 | 0x1B80      |        7040 |
 |      67 | 0x29211     |      168465 |
 |      68 | 0x264D8     |      156888 |
 |      69 | 0x32F8      |       13048 |
@@ -142,7 +142,7 @@
 |     112 | 0x001C      |          28 |
 |     113 | 0xFFFF3658  |  4294915672 |
 |     114 | 0x1CAE4     |      117476 |
-|     115 | 0x1B7B      |        7035 |
+|     115 | 0x1B7C      |        7036 |
 |     116 | 0x00EF      |         239 |
 |     117 | 0xFE97      |       65175 |
 |     118 | 0xFFFF0901  |  4294904065 |
@@ -158,8 +158,8 @@
 |     128 | 0x1BBC6     |      113606 |
 |     129 | 0xFFFF9A70  |  4294941296 |
 |     130 | 0x40352     |      262994 |
-|     131 | 0x1B80      |        7040 |
-|     132 | 0x1B7C      |        7036 |
+|     131 | 0x1B81      |        7041 |
+|     132 | 0x1B7D      |        7037 |
 |     133 | 0x00F0      |         240 |
 |     134 | 0xFFFD1B12  |  4294777618 |
 |     135 | 0x1031F     |       66335 |
@@ -181,7 +181,7 @@
 |     151 | 0x37D66     |      228710 |
 |     152 | 0x16C82     |       93314 |
 |     153 | 0x0028      |          40 |
-|     154 | 0x1B7D      |        7037 |
+|     154 | 0x1B7E      |        7038 |
 |     155 | 0x00F1      |         241 |
 |     156 | 0xFFFFFFDB  |  4294967259 |
 |     157 | 0xFFFFA7C3  |  4294944707 |
@@ -207,109 +207,109 @@
 |     177 | 0x16155     |       90453 |
 |     178 | 0xFFFFD0C3  |  4294955203 |
 |     179 | 0x3E3F      |       15935 |
-|     180 | 0x1B7E      |        7038 |
+|     180 | 0x1B7F      |        7039 |
 |     181 | 0x1FF54     |      130900 |
-|     182 | 0x1B81      |        7041 |
-|     183 | 0x1B61      |        7009 |
-|     184 | 0x1B62      |        7010 |
+|     182 | 0x1B82      |        7042 |
+|     183 | 0x1B62      |        7010 |
+|     184 | 0x1B63      |        7011 |
 |     185 | 0x14723     |       83747 |
 |     186 | 0xFFFE0648  |  4294837832 |
-|     187 | 0x1B64      |        7012 |
+|     187 | 0x1B65      |        7013 |
 |     188 | 0x005A      |          90 |
 |     189 | 0x0050      |          80 |
 |     190 | 0x1A14E     |      106830 |
 |     191 | 0xFFFF84D9  |  4294935769 |
-|     192 | 0x1B66      |        7014 |
-|     193 | 0x1B67      |        7015 |
-|     194 | 0x1B68      |        7016 |
-|     195 | 0x1B69      |        7017 |
-|     196 | 0x1B6A      |        7018 |
-|     197 | 0x1B6B      |        7019 |
-|     198 | 0x1B6C      |        7020 |
+|     192 | 0x1B67      |        7015 |
+|     193 | 0x1B68      |        7016 |
+|     194 | 0x1B69      |        7017 |
+|     195 | 0x1B6A      |        7018 |
+|     196 | 0x1B6B      |        7019 |
+|     197 | 0x1B6C      |        7020 |
+|     198 | 0x1B6D      |        7021 |
 |     199 | 0x15BD9     |       89049 |
 |     200 | 0xFFFF4B8D  |  4294921101 |
-|     201 | 0x1B6D      |        7021 |
-|     202 | 0x1B6E      |        7022 |
-|     203 | 0x1B6F      |        7023 |
-|     204 | 0x1B70      |        7024 |
-|     205 | 0x1B5D      |        7005 |
-|     206 | 0x1B72      |        7026 |
-|     207 | 0x1B71      |        7025 |
+|     201 | 0x1B6E      |        7022 |
+|     202 | 0x1B6F      |        7023 |
+|     203 | 0x1B70      |        7024 |
+|     204 | 0x1B71      |        7025 |
+|     205 | 0x1B5E      |        7006 |
+|     206 | 0x1B73      |        7027 |
+|     207 | 0x1B72      |        7026 |
 |     208 | 0xFFFCEB0B  |  4294765323 |
 |     209 | 0xFFFE068B  |  4294837899 |
 |     210 | 0x2977F     |      169855 |
 |     211 | 0xFFFFF35A  |  4294964058 |
-|     212 | 0x1B73      |        7027 |
-|     213 | 0x1B74      |        7028 |
-|     214 | 0x1B75      |        7029 |
-|     215 | 0x1B76      |        7030 |
-|     216 | 0x1B5E      |        7006 |
+|     212 | 0x1B74      |        7028 |
+|     213 | 0x1B75      |        7029 |
+|     214 | 0x1B76      |        7030 |
+|     215 | 0x1B77      |        7031 |
+|     216 | 0x1B5F      |        7007 |
 
 ## String References
 
-- **6554**: Obtained $0 gil.
-- **6986**: AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?
-- **6987**: Ask Jack... [To show you a map of Windurst./How to give items to townsfolk./How to go outside and battle./About quests and missions./Nothing in particular.]
-- **6988**: JaCk nOw ShoWIng mAP.
-- **6989**: InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg."
-- **6990**: FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd.
-- **6991**: OpEn MaIn MenU. PrESs "TRADE" bUtTon.
-- **6992**: NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs.
-- **6993**: BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!
-- **6994**: BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!
-- **6995**: AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!
-- **6996**: QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd.
-- **6997**: MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes.
-- **6998**: yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe.
-- **6999**: FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!
-- **7000**: ThAnK YoU KiNdLY! PLEaSe TaKe thIs In rETuRn. JaCk hAS No nEEd fOr THis.
-- **7003**: JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA.
-- **7004**: Inquire about what? [I want to find some quests!/I want to try the tutorial!/Teach me about Records of Eminence!/Teach me about the Trust initiative!/I want a map of the area I'm in!/I want maps of the whole city!/How do I give items to people?/How do I fight outside town?/What are quests and missions?/I have other questions./Nothing for now.]
-- **7005**: If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU.
-- **7006**: YoU cAn puCHasE maPs in WinDUrst WoOds or WIndurSt WaTerS, but WinDursT WOodS iS CloSEr.
-- **7009**: tHe tuToRIal EveNt iS perFeCT fOr beGiNNerS! YoU CaN lEaRN aBouT aDveNTurInG iN tHe LanD of VAnA'dIel!
-- **7010**: taLk tO SeLelE at thE GatE coNNecTinG wINdurST WooDs To EaSt SAruTabAruTA.
-- **7012**: hEaD tO WiNDurSt WooDs bY wAlkINg to tHe gaTe SOutH oF hEre LeaDIng EaSt.
-- **7014**: KeEp GoinG, and fiNd SeLEle. JacK'lL mArk heR LocATioN oN yoUr MaP.
-- **7015**: YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT.
-- **7016**: SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE.
-- **7017**: REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!
-- **7018**: OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd.
-- **7019**: FrOM ThERe, sElecT "TUtorIaL," tHEn "BaSicS" anD "FiRsT StEP fOrwArd." SeT ThaT OBjeCTivE tO gEt STarTeD.
-- **7020**: I'lL gIvE yOU a HinT fOR ComPleTinG "FirSt SteP FoRWarD."
-- **7021**: PrOceeD AHeAd In WIndUrsT WooDS aNd FinD tHe DEsiGnaTEd pErSoN. I'lL pLacE a MaRKeR oN yOur MAp.
-- **7022**: THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE.
-- **7023**: THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO.
-- **7024**: YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte.
-- **7025**: I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE.
-- **7026**: WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp.
-- **7027**: OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS.
-- **7028**: oPeNInG tHe MaiN mENu and CliCKinG tO thE rIghT giVes yoU An opTIoN to oPeN tHe "HeLP dEsK."
-- **7029**: prEssIng thE "HelP DesK" buTToN aNd sEleCTiNg thE "HeLp dESk" CaTegOrY WiLL BRiNg uP a SelECtIoN tITleD "I NeED hElP wITh tHe GaME cOntRolS."
-- **7030**: REadInG tHe inFOrmAtiOn tHerE MaY reSoLve YOur iSSue.
-- **7031**: tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?
-- **7032**: Inquire about which locale? [None./Windurst Waters: $1 individual[/s]./Windurst Walls: $2 individual[/s]/Port Windurst: $3 individual[/s]/Windurst Woods: $4 individual[/s]/Heavens Tower: $5 individual[/s]]
-- **7033**: tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP.
-- **7034**: Who will you go see in Windurst Waters? [No one./Mashuu-Ajuu./Moreno-Toeno./Kerutoto./Hariga-Origa./Angelica./Baren-Moren./Chamama./Ranpi-Monpi./Naiko-Paneiko./Moari-Kaaori./Khoto Rokkorah./Naiko-Paneiko./Tosuka-Porika./Kenapa-Keppa./Lumomo./Ohbiru-Dohbiru./Paku-Nakku./Hariga-Origa/Fuepepe./Tosuka-Porika./Baren-Moren./Jatan-Paratan./Kerutoto./Leepe-Hoppe./Kerutoto./Gantineux./Honoi-Gomoi./Ohbiru-Dohbiru./Leepe-Hoppe./Ropunono.]
-- **7035**: Who will you go see in Windurst Walls? [No one./Ambrosius./Raamimi./Yoran-Oran./Koru-Moru./Ojha Rhawash./Shantotto./Shantotto./Someone in the House of the Hero./Shantotto./Koru-Moru./Someone in the House of the Hero./Someone in the House of the Hero./Someone in the House of the Hero./Koru-Moru./Shantotto.]
-- **7036**: Who will you go see in Port Windurst? [No one./Tokaka./Sigismund./Kohlo-Lakolo./Kohlo-Lakolo./Kohlo-Lakolo./Hakkuru-Rinkuru./Paytah./Kohlo-Lakolo./Hakkuru-Rinkuru./Chipmy-Popmy./Kuroido-Moido./Ohruru./Dehn Harzhapan./Kohlo-Lakolo./Kohlo-Lakolo./Kuroido-Moido./Pygmalion.]
-- **7037**: Who will you go see in Windurst Woods? [No one./Kopuro-Popuro./Ibwam./Illu Bohjaa./Tapoh Lihzeh./Nanaa Mihgo./Wetata./Kuoh Rhel./Kuoh Rhel./Kororo./Nanaa Mihgo./Kopuro-Popuro./Kopuro-Popuro./Gioh Ajihri./Soni-Muni./Perih Vashai./Nanaa Mihgo./Nanaa Mihgo./Nanaa Mihgo./Perih Vashai./Perih Vashai./Perih Vashai./Apururu./Perih Vashai.]
-- **7038**: Who will you go see in Heavens Tower? [No one./Chumimi./Chumimi./Chumimi.]
-- **7039**: I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
-- **7040**: SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
-- **7041**: ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is.
-- **7042**: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.
-- **7046**: YoU CAn wArP BetWEen PlACes KnOwn aS "HoME pOinTs." TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.
-- **7050**: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!
-- **7054**: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!
-- **7058**: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!
-- **7062**: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.
-- **7066**: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.
-- **7070**: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.
-- **7074**: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.
-- **7078**: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.
-- **7082**: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.
-- **7086**: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's "cHaRm" aNd thE AccURaCy Of A BarD's sONgs.
+- **6555**: Obtained $0 gil.
+- **6987**: AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?
+- **6988**: Ask Jack... [To show you a map of Windurst./How to give items to townsfolk./How to go outside and battle./About quests and missions./Nothing in particular.]
+- **6989**: JaCk nOw ShoWIng mAP.
+- **6990**: InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg."
+- **6991**: FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd.
+- **6992**: OpEn MaIn MenU. PrESs "TRADE" bUtTon.
+- **6993**: NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs.
+- **6994**: BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!
+- **6995**: BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!
+- **6996**: AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!
+- **6997**: QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd.
+- **6998**: MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes.
+- **6999**: yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe.
+- **7000**: FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!
+- **7001**: ThAnK YoU KiNdLY! PLEaSe TaKe thIs In rETuRn. JaCk hAS No nEEd fOr THis.
+- **7004**: JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA.
+- **7005**: Inquire about what? [I want to find some quests!/I want to try the tutorial!/Teach me about Records of Eminence!/Teach me about the Trust initiative!/I want a map of the area I'm in!/I want maps of the whole city!/How do I give items to people?/How do I fight outside town?/What are quests and missions?/I have other questions./Nothing for now.]
+- **7006**: If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU.
+- **7007**: YoU cAn puCHasE maPs in WinDUrst WoOds or WIndurSt WaTerS, but WinDursT WOodS iS CloSEr.
+- **7010**: tHe tuToRIal EveNt iS perFeCT fOr beGiNNerS! YoU CaN lEaRN aBouT aDveNTurInG iN tHe LanD of VAnA'dIel!
+- **7011**: taLk tO SeLelE at thE GatE coNNecTinG wINdurST WooDs To EaSt SAruTabAruTA.
+- **7013**: hEaD tO WiNDurSt WooDs bY wAlkINg to tHe gaTe SOutH oF hEre LeaDIng EaSt.
+- **7015**: KeEp GoinG, and fiNd SeLEle. JacK'lL mArk heR LocATioN oN yoUr MaP.
+- **7016**: YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT.
+- **7017**: SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE.
+- **7018**: REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!
+- **7019**: OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd.
+- **7020**: FrOM ThERe, sElecT "TUtorIaL," tHEn "BaSicS" anD "FiRsT StEP fOrwArd." SeT ThaT OBjeCTivE tO gEt STarTeD.
+- **7021**: I'lL gIvE yOU a HinT fOR ComPleTinG "FirSt SteP FoRWarD."
+- **7022**: PrOceeD AHeAd In WIndUrsT WooDS aNd FinD tHe DEsiGnaTEd pErSoN. I'lL pLacE a MaRKeR oN yOur MAp.
+- **7023**: THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE.
+- **7024**: THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO.
+- **7025**: YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte.
+- **7026**: I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE.
+- **7027**: WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp.
+- **7028**: OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS.
+- **7029**: oPeNInG tHe MaiN mENu and CliCKinG tO thE rIghT giVes yoU An opTIoN to oPeN tHe "HeLP dEsK."
+- **7030**: prEssIng thE "HelP DesK" buTToN aNd sEleCTiNg thE "HeLp dESk" CaTegOrY WiLL BRiNg uP a SelECtIoN tITleD "I NeED hElP wITh tHe GaME cOntRolS."
+- **7031**: REadInG tHe inFOrmAtiOn tHerE MaY reSoLve YOur iSSue.
+- **7032**: tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?
+- **7033**: Inquire about which locale? [None./Windurst Waters: $1 individual[/s]./Windurst Walls: $2 individual[/s]/Port Windurst: $3 individual[/s]/Windurst Woods: $4 individual[/s]/Heavens Tower: $5 individual[/s]]
+- **7034**: tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP.
+- **7035**: Who will you go see in Windurst Waters? [No one./Mashuu-Ajuu./Moreno-Toeno./Kerutoto./Hariga-Origa./Angelica./Baren-Moren./Chamama./Ranpi-Monpi./Naiko-Paneiko./Moari-Kaaori./Khoto Rokkorah./Naiko-Paneiko./Tosuka-Porika./Kenapa-Keppa./Lumomo./Ohbiru-Dohbiru./Paku-Nakku./Hariga-Origa/Fuepepe./Tosuka-Porika./Baren-Moren./Jatan-Paratan./Kerutoto./Leepe-Hoppe./Kerutoto./Gantineux./Honoi-Gomoi./Ohbiru-Dohbiru./Leepe-Hoppe./Ropunono.]
+- **7036**: Who will you go see in Windurst Walls? [No one./Ambrosius./Raamimi./Yoran-Oran./Koru-Moru./Ojha Rhawash./Shantotto./Shantotto./Someone in the House of the Hero./Shantotto./Koru-Moru./Someone in the House of the Hero./Someone in the House of the Hero./Someone in the House of the Hero./Koru-Moru./Shantotto.]
+- **7037**: Who will you go see in Port Windurst? [No one./Tokaka./Sigismund./Kohlo-Lakolo./Kohlo-Lakolo./Kohlo-Lakolo./Hakkuru-Rinkuru./Paytah./Kohlo-Lakolo./Hakkuru-Rinkuru./Chipmy-Popmy./Kuroido-Moido./Ohruru./Dehn Harzhapan./Kohlo-Lakolo./Kohlo-Lakolo./Kuroido-Moido./Pygmalion.]
+- **7038**: Who will you go see in Windurst Woods? [No one./Kopuro-Popuro./Ibwam./Illu Bohjaa./Tapoh Lihzeh./Nanaa Mihgo./Wetata./Kuoh Rhel./Kuoh Rhel./Kororo./Nanaa Mihgo./Kopuro-Popuro./Kopuro-Popuro./Gioh Ajihri./Soni-Muni./Perih Vashai./Nanaa Mihgo./Nanaa Mihgo./Nanaa Mihgo./Perih Vashai./Perih Vashai./Perih Vashai./Apururu./Perih Vashai.]
+- **7039**: Who will you go see in Heavens Tower? [No one./Chumimi./Chumimi./Chumimi.]
+- **7040**: I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
+- **7041**: SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp.
+- **7042**: ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is.
+- **7043**: FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS.
+- **7047**: YoU CAn wArP BetWEen PlACes KnOwn aS "HoME pOinTs." TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE.
+- **7051**: If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!
+- **7055**: DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!
+- **7059**: MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!
+- **7063**: LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk.
+- **7067**: LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE.
+- **7071**: LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS.
+- **7075**: LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN.
+- **7079**: LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs.
+- **7083**: LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls.
+- **7087**: LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's "cHaRm" aNd thE AccURaCy Of A BarD's sONgs.
 
 ## Events
 
@@ -488,12 +488,12 @@
 
 ```
   0: 0x0046 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
+  1: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
     → "AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?"
   2: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x004F [0x03] ExtData[1]->WorkLocal[0] = 0*
   4: 0x0054 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010D
-  5: 0x005C [0x24] CREATE_DIALOG(message_id=6987*, default_option=0*, option_flags=0*)
+  5: 0x005C [0x24] CREATE_DIALOG(message_id=6988*, default_option=0*, option_flags=0*)
     → "Ask Jack... [To show you a map of Windurst./How to give items to townsfolk./How to go outside and battle./About quests and missions./Nothing in particular.]"
   6: 0x0063 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0064 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B1
@@ -510,44 +510,44 @@
  18: 0x00A4 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967294*, properties=3*)
 
 SUBROUTINE_00A9:
- 19: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6988*)
+ 19: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6989*)
     → "JaCk nOw ShoWIng mAP."
  20: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00AD [0x8A] CLOSE_MAP()
  22: 0x00AE [0x01] GOTO 0x010A
  23: 0x00B1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00CC
- 24: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6989*)
+ 24: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6990*)
     → "InTerchAnge oF iTeMs aNd mOnEy beTwEeN PeoPle AnD tHiNgs iS calLeD "TRaDiNg.""
  25: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=6990*)
+ 26: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=6991*)
     → "FIrSt tarGet EnTiTy tO IntErAcT wITh. NoThIng hApPeNs uNlESs reCeIver iS pRoperLy TaRgeTEd."
  27: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6991*)
+ 28: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6992*)
     → "OpEn MaIn MenU. PrESs "TRADE" bUtTon."
  29: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6992*)
+ 30: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6993*)
     → "NeXt cHoOsE ItEms tO HanD oVEr! PreSs "CONFIRM" bUttOn! TaRgeTed eNtIty sHouLd rEcEiVe IteMs."
  31: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00C9 [0x01] GOTO 0x010A
  33: 0x00CC [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00E3
- 34: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6993*)
+ 34: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6994*)
     → "BeFoRe sETtinG oUt tO BaTtLe: ConFiRm EqUiPmEnt iS pRopeRLy EQUIPped! MaGiC-UsErS "USE" SpeLl ScRolLs oN tHeMsElvEs TO lEaRn mAgIc!"
  35: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6994*)
+ 36: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6995*)
     → "BeForE cOmMeNcInG BatTlE wITh MoNSter: "CHECK" MOnstER tO COnFIrm Its StrEngTh!"
  37: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6995*)
+ 38: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6996*)
     → "AfTer BAttLE iS WoN: LooK fOr "SPOILS" dRoPpEd bY MonSters. iF In PaRtY, "CAST LOTS" fOr SPOILS!"
  39: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00E0 [0x01] GOTO 0x010A
  41: 0x00E3 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00FA
- 42: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6996*)
+ 42: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=6997*)
     → "QUESTS aRe ReQueSts FoR HelP fRoM oRdiNaRy ToWnsFoLk. iT pAyS To hELp pEOplE iN NeEd."
  43: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=6997*)
+ 44: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=6998*)
     → "MISSIONS aRe OfFIcIaL rEqUesTs fOr aSSiStanCe mAdE bY tHe WInDuRStiAN AuThoRiTIes."
  45: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6998*)
+ 46: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
     → "yoU CaN ReCeIvE MISSIONS frOm ThE gUarDs aT tHe ToWn'S GATeHOuSe."
  47: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00F7 [0x01] GOTO 0x010A
@@ -557,7 +557,7 @@ SUBROUTINE_00A9:
 
 SUBROUTINE_010A:
  52: 0x010A [0x01] GOTO 0x0054
- 53: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
+ 53: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
     → "FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!"
  54: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0111 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -594,16 +594,16 @@ SUBROUTINE_010A:
   2: 0x011B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x011C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x011D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=181*
-  5: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
+  5: 0x012C [0x1D] PRINT_EVENT_MESSAGE(message_id=7001*)
     → "ThAnK YoU KiNdLY! PLEaSe TaKe thIs In rETuRn. JaCk hAS No nEEd fOr THis."
   6: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0130 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla0" with entities [EventEntity, EventEntity]
   8: 0x013D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=181*
-  9: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7003*)
+  9: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7004*)
     → "JaCk ReCOmMEnDs yOu TaLk wiTH a gUaRd NAmeD SeLeLE. SHE iS nEar tHE GaTe In WinDURst wOOds wHiCh eXiTs inTo eaST SAruTAbArUtA."
  10: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0150 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tla1" with entities [EventEntity, EventEntity]
- 12: 0x015D [0x48] [System] [6554*]:
+ 12: 0x015D [0x48] [System] [6555*]:
     → "Obtained $0 gil."
  13: 0x0160 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  14: 0x0162 [0x21] END_EVENT
@@ -1181,7 +1181,7 @@ SUBROUTINE_01B9:
  38: 0x0258 [0x41] Work_Zone[6] = ExtData[1]->WorkLocal[6] (bits 18*-23*)
  39: 0x0261 [0x41] Work_Zone[7] = ExtData[1]->WorkLocal[6] (bits 24*-29*)
  40: 0x026A [0x1E] EventEntity looks at LocalPlayer and starts talking
- 41: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=6986*)
+ 41: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=6987*)
     → "AlLow mE tO aSsisT You iF yOu arE loSt. What CaN jAck dO For yOu?"
  42: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0273 [0x03] ExtData[1]->WorkLocal[0] = 0*
@@ -1189,14 +1189,14 @@ SUBROUTINE_01B9:
 SUBROUTINE_0278:
  44: 0x0278 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x2100
  45: 0x0280 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 46: 0x0281 [0x24] CREATE_DIALOG(message_id=7004*, default_option=0*, option_flags=0*)
+ 46: 0x0281 [0x24] CREATE_DIALOG(message_id=7005*, default_option=0*, option_flags=0*)
     → "Inquire about what? [I want to find some quests!/I want to try the tutorial!/Teach me about Records of Eminence!/Teach me about the Trust initiative!/I want a map of the area I'm in!/I want maps of the whole city!/How do I give items to people?/How do I fight outside town?/What are quests and missions?/I have other questions./Nothing for now.]"
  47: 0x0288 [0x25] WAIT_DIALOG_SELECT()
  48: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E59
  49: 0x0291 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x029F
  50: 0x0299 [0x1A] CALL_SUBROUTINE(address=0x2108)
  51: 0x029C [0x01] GOTO 0x1E52
- 52: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7031*)
+ 52: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7032*)
     → "tHe CiTIzEns oF WiNDurSt cRy oUT FoR yOUr Aid. ShALl I fInD peOplE WhO NeeD HElp?"
  53: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x02A3 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4294967295*) GOTO 0x02B7
@@ -1235,68 +1235,68 @@ SUBROUTINE_030C:
  85: 0x0382 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0391
  86: 0x038A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=5*, condition_work_offset=1*)
  87: 0x0391 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 88: 0x0392 [0x24] CREATE_DIALOG(message_id=7032*, default_option=0*, option_flags=Work_Zone[2])
+ 88: 0x0392 [0x24] CREATE_DIALOG(message_id=7033*, default_option=0*, option_flags=Work_Zone[2])
     → "Inquire about which locale? [None./Windurst Waters: $1 individual[/s]./Windurst Walls: $2 individual[/s]/Port Windurst: $3 individual[/s]/Windurst Woods: $4 individual[/s]/Heavens Tower: $5 individual[/s]]"
  89: 0x0399 [0x25] WAIT_DIALOG_SELECT()
  90: 0x039A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0454
  91: 0x03A2 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  92: 0x03A3 [0x06] ExtData[1]->WorkLocal[15] = 0
- 93: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7042*)
+ 93: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7043*)
     → "FiNAllY, sOmE InFOrmAtiOn tO hELp yOu In yoUr TrAVelS."
  94: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x03AA [0x13] ExtData[1]->WorkLocal[16] = rand() % 10*
  96: 0x03AF [0x02] IF !(ExtData[1]->WorkLocal[16] == 0*) GOTO 0x03BE
- 97: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7046*)
+ 97: 0x03B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7047*)
     → "YoU CAn wArP BetWEen PlACes KnOwn aS "HoME pOinTs." TheY ARe moST CoNveNieNT, sO maKe SuRE to ReGIsTer ThEM bY TouCHing ThE SurFaCE."
  98: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x03BB [0x01] GOTO 0x0451
 100: 0x03BE [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x03CD
-101: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7050*)
+101: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7051*)
     → "If yOU fINd yOurSeLF iN A fARaWay pLaCe, maKe sURe tO FinD a StoRE to BuY a Map fROm! wIth a MaP, yoU CaN ChEck WheRe yOu ArE!"
 102: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x03CA [0x01] GOTO 0x0451
 104: 0x03CD [0x02] IF !(ExtData[1]->WorkLocal[16] == 2*) GOTO 0x03DC
-105: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7054*)
+105: 0x03D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7055*)
     → "DoN'T WaSTe pRecIOus iTemS By sEllINg tHeM tO a StoRe. MaKE eVen MoRe MonEy By PuTTing tHeM uP At tHe AucTIon HouSe!"
 106: 0x03D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x03D9 [0x01] GOTO 0x0451
 108: 0x03DC [0x02] IF !(ExtData[1]->WorkLocal[16] == 3*) GOTO 0x03EB
-109: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7058*)
+109: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7059*)
     → "MaNY uNdEaD MOnsTeRS cAn SenSe WhEn yOU Are LoW oN HP, aNd wIll TAke tHaT opPOrtUnItY tO ComE AfTEr yOu!"
 110: 0x03E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x03E8 [0x01] GOTO 0x0451
 112: 0x03EB [0x02] IF !(ExtData[1]->WorkLocal[16] == 4*) GOTO 0x03FA
-113: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7062*)
+113: 0x03F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7063*)
     → "LeT'S tALk aBouT AttRIButeS. InCReaSing yoUr StrenGTh (STR) wiLL iNcrEase YouR pHYsiCal, bUt NOt MaGiCal, AttACk."
 114: 0x03F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x03F7 [0x01] GOTO 0x0451
 116: 0x03FA [0x02] IF !(ExtData[1]->WorkLocal[16] == 5*) GOTO 0x0409
-117: 0x0402 [0x1D] PRINT_EVENT_MESSAGE(message_id=7066*)
+117: 0x0402 [0x1D] PRINT_EVENT_MESSAGE(message_id=7067*)
     → "LeT'S tALk aBouT AttRIButeS. InCReaSinG yoUr DeXteRIty (DEX) wiLl IncReaSe yOuR AccURacY aNd cRiTIcaL HIt rAtE."
 118: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0406 [0x01] GOTO 0x0451
 120: 0x0409 [0x02] IF !(ExtData[1]->WorkLocal[16] == 6*) GOTO 0x0418
-121: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=7070*)
+121: 0x0411 [0x1D] PRINT_EVENT_MESSAGE(message_id=7071*)
     → "LeT'S tALk aBouT AttRIButeS. InCreAsinG YoUR VitALiTy (VIT) WiLL iNcReaSE yOuR PhYsiCAl DefENsE anD HP reStoREd bY CuRe aNd oTheR HP-HeaLInG aBilItieS."
 122: 0x0414 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0415 [0x01] GOTO 0x0451
 124: 0x0418 [0x02] IF !(ExtData[1]->WorkLocal[16] == 7*) GOTO 0x0427
-125: 0x0420 [0x1D] PRINT_EVENT_MESSAGE(message_id=7074*)
+125: 0x0420 [0x1D] PRINT_EVENT_MESSAGE(message_id=7075*)
     → "LeT'S tALk aBouT AttRIButeS. AgIlITy (AGI) hAs a VarIetY Of EffECtS, sUch aS IncReaSing pHYsIcaL EvaSioN And aCCurAcy oF RangEd aTTacKs, as WelL aS DecReasINg eNEmiES' CRitIcAL HiT EvaSioN."
 126: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0424 [0x01] GOTO 0x0451
 128: 0x0427 [0x02] IF !(ExtData[1]->WorkLocal[16] == 8*) GOTO 0x0436
-129: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=7078*)
+129: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=7079*)
     → "LeT'S tALk aBouT AttRIButeS. InTElLiGEncE (INT) iNcReaSEs tHe MagIC aCCuraCy and DaMAge Of ElEmenTAL MaGiC sPeLLs."
 130: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0433 [0x01] GOTO 0x0451
 132: 0x0436 [0x02] IF !(ExtData[1]->WorkLocal[16] == 9*) GOTO 0x0445
-133: 0x043E [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+133: 0x043E [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "LeT'S tALk aBouT AttRIButeS. MiND (MND) iNCreAsEs thE aMouNT oF HP ReStoREd bY HeaLinG MaGiC and tHE ACcuraCy oF WhItE MAgiC SpELls."
 134: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0442 [0x01] GOTO 0x0451
 136: 0x0445 [0x02] IF !(ExtData[1]->WorkLocal[16] == 10*) GOTO 0x0451
-137: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
+137: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
     → "LeT'S tALk aBouT AttRIButeS. cHaRIsmA (CHR) inCreASes tHe eFFecTivENesS oF a bEaSTmaSTeR's "cHaRm" aNd thE AccURaCy Of A BarD's sONgs."
 138: 0x0450 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1304,7 +1304,7 @@ SUBROUTINE_0451:
 139: 0x0451 [0x01] GOTO 0x1E4E
 140: 0x0454 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D08
 141: 0x045C [0x03] Work_Zone[2] = 0*
-142: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+142: 0x0461 [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
 143: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0465 [0x03] ExtData[1]->WorkLocal[14] = 1*
@@ -1322,7 +1322,7 @@ SUBROUTINE_046A:
 154: 0x0494 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 155: 0x0496 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 156: 0x0498 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-157: 0x0499 [0x24] CREATE_DIALOG(message_id=7034*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+157: 0x0499 [0x24] CREATE_DIALOG(message_id=7035*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Who will you go see in Windurst Waters? [No one./Mashuu-Ajuu./Moreno-Toeno./Kerutoto./Hariga-Origa./Angelica./Baren-Moren./Chamama./Ranpi-Monpi./Naiko-Paneiko./Moari-Kaaori./Khoto Rokkorah./Naiko-Paneiko./Tosuka-Porika./Kenapa-Keppa./Lumomo./Ohbiru-Dohbiru./Paku-Nakku./Hariga-Origa/Fuepepe./Tosuka-Porika./Baren-Moren./Jatan-Paratan./Kerutoto./Leepe-Hoppe./Kerutoto./Gantineux./Honoi-Gomoi./Ohbiru-Dohbiru./Leepe-Hoppe./Ropunono.]"
 158: 0x04A0 [0x25] WAIT_DIALOG_SELECT()
 159: 0x04A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B0
@@ -1337,7 +1337,7 @@ SUBROUTINE_046A:
 168: 0x04DC [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x04E9
 169: 0x04E4 [0x07] ExtData[1]->WorkLocal[8] += 1*
 170: 0x04E9 [0x1C] WAIT(30* ticks)
-171: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+171: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 172: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x04F0 [0x8A] CLOSE_MAP()
@@ -1351,7 +1351,7 @@ SUBROUTINE_046A:
 181: 0x0523 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0530
 182: 0x052B [0x07] ExtData[1]->WorkLocal[8] += 1*
 183: 0x0530 [0x1C] WAIT(30* ticks)
-184: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+184: 0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 185: 0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x0537 [0x8A] CLOSE_MAP()
@@ -1365,7 +1365,7 @@ SUBROUTINE_046A:
 194: 0x056A [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0577
 195: 0x0572 [0x07] ExtData[1]->WorkLocal[13] += 1*
 196: 0x0577 [0x1C] WAIT(30* ticks)
-197: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+197: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 198: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x057E [0x8A] CLOSE_MAP()
@@ -1379,7 +1379,7 @@ SUBROUTINE_046A:
 207: 0x05B1 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x05BE
 208: 0x05B9 [0x07] ExtData[1]->WorkLocal[8] += 1*
 209: 0x05BE [0x1C] WAIT(30* ticks)
-210: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+210: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 211: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x05C5 [0x8A] CLOSE_MAP()
@@ -1393,7 +1393,7 @@ SUBROUTINE_046A:
 220: 0x05F8 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0605
 221: 0x0600 [0x07] ExtData[1]->WorkLocal[8] += 1*
 222: 0x0605 [0x1C] WAIT(30* ticks)
-223: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+223: 0x0608 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 224: 0x060B [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x060C [0x8A] CLOSE_MAP()
@@ -1407,7 +1407,7 @@ SUBROUTINE_046A:
 233: 0x063F [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x064C
 234: 0x0647 [0x07] ExtData[1]->WorkLocal[13] += 1*
 235: 0x064C [0x1C] WAIT(30* ticks)
-236: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+236: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 237: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0653 [0x8A] CLOSE_MAP()
@@ -1421,7 +1421,7 @@ SUBROUTINE_046A:
 246: 0x0686 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0693
 247: 0x068E [0x07] ExtData[1]->WorkLocal[8] += 1*
 248: 0x0693 [0x1C] WAIT(30* ticks)
-249: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+249: 0x0696 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 250: 0x0699 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x069A [0x8A] CLOSE_MAP()
@@ -1435,7 +1435,7 @@ SUBROUTINE_046A:
 259: 0x06CD [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x06DA
 260: 0x06D5 [0x07] ExtData[1]->WorkLocal[8] += 1*
 261: 0x06DA [0x1C] WAIT(30* ticks)
-262: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+262: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 263: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x06E1 [0x8A] CLOSE_MAP()
@@ -1449,7 +1449,7 @@ SUBROUTINE_046A:
 272: 0x0714 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0721
 273: 0x071C [0x07] ExtData[1]->WorkLocal[13] += 1*
 274: 0x0721 [0x1C] WAIT(30* ticks)
-275: 0x0724 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+275: 0x0724 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 276: 0x0727 [0x23] WAIT_FOR_DIALOG_INTERACTION
 277: 0x0728 [0x8A] CLOSE_MAP()
@@ -1463,7 +1463,7 @@ SUBROUTINE_046A:
 285: 0x075B [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0768
 286: 0x0763 [0x07] ExtData[1]->WorkLocal[13] += 1*
 287: 0x0768 [0x1C] WAIT(30* ticks)
-288: 0x076B [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+288: 0x076B [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 289: 0x076E [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x076F [0x8A] CLOSE_MAP()
@@ -1477,7 +1477,7 @@ SUBROUTINE_046A:
 298: 0x07A2 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x07AF
 299: 0x07AA [0x07] ExtData[1]->WorkLocal[8] += 1*
 300: 0x07AF [0x1C] WAIT(30* ticks)
-301: 0x07B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+301: 0x07B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 302: 0x07B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 303: 0x07B6 [0x8A] CLOSE_MAP()
@@ -1491,7 +1491,7 @@ SUBROUTINE_046A:
 311: 0x07E9 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x07F6
 312: 0x07F1 [0x07] ExtData[1]->WorkLocal[13] += 1*
 313: 0x07F6 [0x1C] WAIT(30* ticks)
-314: 0x07F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+314: 0x07F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 315: 0x07FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x07FD [0x8A] CLOSE_MAP()
@@ -1505,7 +1505,7 @@ SUBROUTINE_046A:
 324: 0x0830 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x083D
 325: 0x0838 [0x07] ExtData[1]->WorkLocal[8] += 1*
 326: 0x083D [0x1C] WAIT(30* ticks)
-327: 0x0840 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+327: 0x0840 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 328: 0x0843 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x0844 [0x8A] CLOSE_MAP()
@@ -1519,7 +1519,7 @@ SUBROUTINE_046A:
 337: 0x0877 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0884
 338: 0x087F [0x07] ExtData[1]->WorkLocal[8] += 1*
 339: 0x0884 [0x1C] WAIT(30* ticks)
-340: 0x0887 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+340: 0x0887 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 341: 0x088A [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x088B [0x8A] CLOSE_MAP()
@@ -1533,7 +1533,7 @@ SUBROUTINE_046A:
 350: 0x08BE [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x08CB
 351: 0x08C6 [0x07] ExtData[1]->WorkLocal[8] += 1*
 352: 0x08CB [0x1C] WAIT(30* ticks)
-353: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+353: 0x08CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 354: 0x08D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 355: 0x08D2 [0x8A] CLOSE_MAP()
@@ -1547,7 +1547,7 @@ SUBROUTINE_046A:
 363: 0x0905 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0912
 364: 0x090D [0x07] ExtData[1]->WorkLocal[13] += 1*
 365: 0x0912 [0x1C] WAIT(30* ticks)
-366: 0x0915 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+366: 0x0915 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 367: 0x0918 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0919 [0x8A] CLOSE_MAP()
@@ -1561,7 +1561,7 @@ SUBROUTINE_046A:
 376: 0x094C [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0959
 377: 0x0954 [0x07] ExtData[1]->WorkLocal[8] += 1*
 378: 0x0959 [0x1C] WAIT(30* ticks)
-379: 0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+379: 0x095C [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 380: 0x095F [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x0960 [0x8A] CLOSE_MAP()
@@ -1575,7 +1575,7 @@ SUBROUTINE_046A:
 389: 0x0993 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x09A0
 390: 0x099B [0x07] ExtData[1]->WorkLocal[8] += 1*
 391: 0x09A0 [0x1C] WAIT(30* ticks)
-392: 0x09A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+392: 0x09A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 393: 0x09A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x09A7 [0x8A] CLOSE_MAP()
@@ -1589,7 +1589,7 @@ SUBROUTINE_046A:
 402: 0x09DA [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x09E7
 403: 0x09E2 [0x07] ExtData[1]->WorkLocal[8] += 1*
 404: 0x09E7 [0x1C] WAIT(30* ticks)
-405: 0x09EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+405: 0x09EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 406: 0x09ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x09EE [0x8A] CLOSE_MAP()
@@ -1603,7 +1603,7 @@ SUBROUTINE_046A:
 415: 0x0A21 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0A2E
 416: 0x0A29 [0x07] ExtData[1]->WorkLocal[8] += 1*
 417: 0x0A2E [0x1C] WAIT(30* ticks)
-418: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+418: 0x0A31 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 419: 0x0A34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 420: 0x0A35 [0x8A] CLOSE_MAP()
@@ -1617,7 +1617,7 @@ SUBROUTINE_046A:
 428: 0x0A68 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0A75
 429: 0x0A70 [0x07] ExtData[1]->WorkLocal[13] += 1*
 430: 0x0A75 [0x1C] WAIT(30* ticks)
-431: 0x0A78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+431: 0x0A78 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 432: 0x0A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 433: 0x0A7C [0x8A] CLOSE_MAP()
@@ -1631,7 +1631,7 @@ SUBROUTINE_046A:
 441: 0x0AAF [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0ABC
 442: 0x0AB7 [0x07] ExtData[1]->WorkLocal[8] += 1*
 443: 0x0ABC [0x1C] WAIT(30* ticks)
-444: 0x0ABF [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+444: 0x0ABF [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 445: 0x0AC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 446: 0x0AC3 [0x8A] CLOSE_MAP()
@@ -1645,7 +1645,7 @@ SUBROUTINE_046A:
 454: 0x0AF6 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B03
 455: 0x0AFE [0x07] ExtData[1]->WorkLocal[13] += 1*
 456: 0x0B03 [0x1C] WAIT(30* ticks)
-457: 0x0B06 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+457: 0x0B06 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 458: 0x0B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 459: 0x0B0A [0x8A] CLOSE_MAP()
@@ -1659,7 +1659,7 @@ SUBROUTINE_046A:
 467: 0x0B3D [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B4A
 468: 0x0B45 [0x07] ExtData[1]->WorkLocal[13] += 1*
 469: 0x0B4A [0x1C] WAIT(30* ticks)
-470: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+470: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 471: 0x0B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 472: 0x0B51 [0x8A] CLOSE_MAP()
@@ -1673,7 +1673,7 @@ SUBROUTINE_046A:
 480: 0x0B84 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0B91
 481: 0x0B8C [0x07] ExtData[1]->WorkLocal[13] += 1*
 482: 0x0B91 [0x1C] WAIT(30* ticks)
-483: 0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+483: 0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 484: 0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 485: 0x0B98 [0x8A] CLOSE_MAP()
@@ -1687,7 +1687,7 @@ SUBROUTINE_046A:
 493: 0x0BCB [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0BD8
 494: 0x0BD3 [0x07] ExtData[1]->WorkLocal[8] += 1*
 495: 0x0BD8 [0x1C] WAIT(30* ticks)
-496: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+496: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 497: 0x0BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 498: 0x0BDF [0x8A] CLOSE_MAP()
@@ -1701,7 +1701,7 @@ SUBROUTINE_046A:
 506: 0x0C12 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0C1F
 507: 0x0C1A [0x07] ExtData[1]->WorkLocal[13] += 1*
 508: 0x0C1F [0x1C] WAIT(30* ticks)
-509: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+509: 0x0C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 510: 0x0C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
 511: 0x0C26 [0x8A] CLOSE_MAP()
@@ -1715,7 +1715,7 @@ SUBROUTINE_046A:
 519: 0x0C59 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0C66
 520: 0x0C61 [0x07] ExtData[1]->WorkLocal[13] += 1*
 521: 0x0C66 [0x1C] WAIT(30* ticks)
-522: 0x0C69 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+522: 0x0C69 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 523: 0x0C6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x0C6D [0x8A] CLOSE_MAP()
@@ -1729,7 +1729,7 @@ SUBROUTINE_046A:
 532: 0x0CA0 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 9*) GOTO 0x0CAD
 533: 0x0CA8 [0x07] ExtData[1]->WorkLocal[13] += 1*
 534: 0x0CAD [0x1C] WAIT(30* ticks)
-535: 0x0CB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+535: 0x0CB0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 536: 0x0CB3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 537: 0x0CB4 [0x8A] CLOSE_MAP()
@@ -1743,7 +1743,7 @@ SUBROUTINE_046A:
 545: 0x0CE7 [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0CF4
 546: 0x0CEF [0x07] ExtData[1]->WorkLocal[8] += 1*
 547: 0x0CF4 [0x1C] WAIT(30* ticks)
-548: 0x0CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+548: 0x0CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 549: 0x0CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 550: 0x0CFB [0x8A] CLOSE_MAP()
@@ -1755,7 +1755,7 @@ SUBROUTINE_0D02:
 554: 0x0D05 [0x01] GOTO 0x1E4E
 555: 0x0D08 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1180
 556: 0x0D10 [0x03] Work_Zone[2] = 1*
-557: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+557: 0x0D15 [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
 558: 0x0D18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 559: 0x0D19 [0x03] ExtData[1]->WorkLocal[14] = 1*
@@ -1768,7 +1768,7 @@ SUBROUTINE_0D1E:
 564: 0x0D35 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 565: 0x0D37 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 566: 0x0D39 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-567: 0x0D3A [0x24] CREATE_DIALOG(message_id=7035*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+567: 0x0D3A [0x24] CREATE_DIALOG(message_id=7036*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Who will you go see in Windurst Walls? [No one./Ambrosius./Raamimi./Yoran-Oran./Koru-Moru./Ojha Rhawash./Shantotto./Shantotto./Someone in the House of the Hero./Shantotto./Koru-Moru./Someone in the House of the Hero./Someone in the House of the Hero./Someone in the House of the Hero./Koru-Moru./Shantotto.]"
 568: 0x0D41 [0x25] WAIT_DIALOG_SELECT()
 569: 0x0D42 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D51
@@ -1783,7 +1783,7 @@ SUBROUTINE_0D1E:
 578: 0x0D7D [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0D8A
 579: 0x0D85 [0x07] ExtData[1]->WorkLocal[9] += 1*
 580: 0x0D8A [0x1C] WAIT(30* ticks)
-581: 0x0D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+581: 0x0D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 582: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x0D91 [0x8A] CLOSE_MAP()
@@ -1797,7 +1797,7 @@ SUBROUTINE_0D1E:
 591: 0x0DC4 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0DD1
 592: 0x0DCC [0x07] ExtData[1]->WorkLocal[9] += 1*
 593: 0x0DD1 [0x1C] WAIT(30* ticks)
-594: 0x0DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+594: 0x0DD4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 595: 0x0DD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x0DD8 [0x8A] CLOSE_MAP()
@@ -1811,7 +1811,7 @@ SUBROUTINE_0D1E:
 604: 0x0E0B [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0E18
 605: 0x0E13 [0x07] ExtData[1]->WorkLocal[9] += 1*
 606: 0x0E18 [0x1C] WAIT(30* ticks)
-607: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+607: 0x0E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 608: 0x0E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 609: 0x0E1F [0x8A] CLOSE_MAP()
@@ -1825,7 +1825,7 @@ SUBROUTINE_0D1E:
 617: 0x0E52 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0E5F
 618: 0x0E5A [0x07] ExtData[1]->WorkLocal[9] += 1*
 619: 0x0E5F [0x1C] WAIT(30* ticks)
-620: 0x0E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+620: 0x0E62 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 621: 0x0E65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 622: 0x0E66 [0x8A] CLOSE_MAP()
@@ -1839,7 +1839,7 @@ SUBROUTINE_0D1E:
 630: 0x0E99 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0EA6
 631: 0x0EA1 [0x07] ExtData[1]->WorkLocal[9] += 1*
 632: 0x0EA6 [0x1C] WAIT(30* ticks)
-633: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+633: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 634: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 635: 0x0EAD [0x8A] CLOSE_MAP()
@@ -1853,7 +1853,7 @@ SUBROUTINE_0D1E:
 643: 0x0EE0 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0EED
 644: 0x0EE8 [0x07] ExtData[1]->WorkLocal[9] += 1*
 645: 0x0EED [0x1C] WAIT(30* ticks)
-646: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+646: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 647: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 648: 0x0EF4 [0x8A] CLOSE_MAP()
@@ -1867,7 +1867,7 @@ SUBROUTINE_0D1E:
 656: 0x0F27 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0F34
 657: 0x0F2F [0x07] ExtData[1]->WorkLocal[9] += 1*
 658: 0x0F34 [0x1C] WAIT(30* ticks)
-659: 0x0F37 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+659: 0x0F37 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 660: 0x0F3A [0x23] WAIT_FOR_DIALOG_INTERACTION
 661: 0x0F3B [0x8A] CLOSE_MAP()
@@ -1881,7 +1881,7 @@ SUBROUTINE_0D1E:
 669: 0x0F6E [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0F7B
 670: 0x0F76 [0x07] ExtData[1]->WorkLocal[9] += 1*
 671: 0x0F7B [0x1C] WAIT(30* ticks)
-672: 0x0F7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
+672: 0x0F7E [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
     → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 673: 0x0F81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 674: 0x0F82 [0x8A] CLOSE_MAP()
@@ -1895,7 +1895,7 @@ SUBROUTINE_0D1E:
 682: 0x0FB5 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x0FC2
 683: 0x0FBD [0x07] ExtData[1]->WorkLocal[9] += 1*
 684: 0x0FC2 [0x1C] WAIT(30* ticks)
-685: 0x0FC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+685: 0x0FC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 686: 0x0FC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 687: 0x0FC9 [0x8A] CLOSE_MAP()
@@ -1909,7 +1909,7 @@ SUBROUTINE_0D1E:
 695: 0x0FFC [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1009
 696: 0x1004 [0x07] ExtData[1]->WorkLocal[9] += 1*
 697: 0x1009 [0x1C] WAIT(30* ticks)
-698: 0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+698: 0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 699: 0x100F [0x23] WAIT_FOR_DIALOG_INTERACTION
 700: 0x1010 [0x8A] CLOSE_MAP()
@@ -1923,7 +1923,7 @@ SUBROUTINE_0D1E:
 708: 0x1043 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1050
 709: 0x104B [0x07] ExtData[1]->WorkLocal[9] += 1*
 710: 0x1050 [0x1C] WAIT(30* ticks)
-711: 0x1053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
+711: 0x1053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
     → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 712: 0x1056 [0x23] WAIT_FOR_DIALOG_INTERACTION
 713: 0x1057 [0x8A] CLOSE_MAP()
@@ -1937,7 +1937,7 @@ SUBROUTINE_0D1E:
 721: 0x108A [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1097
 722: 0x1092 [0x07] ExtData[1]->WorkLocal[9] += 1*
 723: 0x1097 [0x1C] WAIT(30* ticks)
-724: 0x109A [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
+724: 0x109A [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
     → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 725: 0x109D [0x23] WAIT_FOR_DIALOG_INTERACTION
 726: 0x109E [0x8A] CLOSE_MAP()
@@ -1951,7 +1951,7 @@ SUBROUTINE_0D1E:
 734: 0x10D1 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x10DE
 735: 0x10D9 [0x07] ExtData[1]->WorkLocal[9] += 1*
 736: 0x10DE [0x1C] WAIT(30* ticks)
-737: 0x10E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
+737: 0x10E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
     → "SoMEonE ThEre wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 738: 0x10E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 739: 0x10E5 [0x8A] CLOSE_MAP()
@@ -1965,7 +1965,7 @@ SUBROUTINE_0D1E:
 747: 0x1118 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1125
 748: 0x1120 [0x07] ExtData[1]->WorkLocal[9] += 1*
 749: 0x1125 [0x1C] WAIT(30* ticks)
-750: 0x1128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+750: 0x1128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 751: 0x112B [0x23] WAIT_FOR_DIALOG_INTERACTION
 752: 0x112C [0x8A] CLOSE_MAP()
@@ -1979,7 +1979,7 @@ SUBROUTINE_0D1E:
 760: 0x115F [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x116C
 761: 0x1167 [0x07] ExtData[1]->WorkLocal[9] += 1*
 762: 0x116C [0x1C] WAIT(30* ticks)
-763: 0x116F [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+763: 0x116F [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 764: 0x1172 [0x23] WAIT_FOR_DIALOG_INTERACTION
 765: 0x1173 [0x8A] CLOSE_MAP()
@@ -1991,7 +1991,7 @@ SUBROUTINE_117A:
 769: 0x117D [0x01] GOTO 0x1E4E
 770: 0x1180 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1686
 771: 0x1188 [0x03] Work_Zone[2] = 2*
-772: 0x118D [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+772: 0x118D [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
 773: 0x1190 [0x23] WAIT_FOR_DIALOG_INTERACTION
 774: 0x1191 [0x03] ExtData[1]->WorkLocal[14] = 1*
@@ -2004,7 +2004,7 @@ SUBROUTINE_1196:
 779: 0x11AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 780: 0x11AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 781: 0x11B1 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-782: 0x11B2 [0x24] CREATE_DIALOG(message_id=7036*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+782: 0x11B2 [0x24] CREATE_DIALOG(message_id=7037*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Who will you go see in Port Windurst? [No one./Tokaka./Sigismund./Kohlo-Lakolo./Kohlo-Lakolo./Kohlo-Lakolo./Hakkuru-Rinkuru./Paytah./Kohlo-Lakolo./Hakkuru-Rinkuru./Chipmy-Popmy./Kuroido-Moido./Ohruru./Dehn Harzhapan./Kohlo-Lakolo./Kohlo-Lakolo./Kuroido-Moido./Pygmalion.]"
 783: 0x11B9 [0x25] WAIT_DIALOG_SELECT()
 784: 0x11BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11C9
@@ -2019,7 +2019,7 @@ SUBROUTINE_1196:
 793: 0x11F5 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1202
 794: 0x11FD [0x07] ExtData[1]->WorkLocal[10] += 1*
 795: 0x1202 [0x1C] WAIT(30* ticks)
-796: 0x1205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+796: 0x1205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 797: 0x1208 [0x23] WAIT_FOR_DIALOG_INTERACTION
 798: 0x1209 [0x8A] CLOSE_MAP()
@@ -2033,7 +2033,7 @@ SUBROUTINE_1196:
 806: 0x123C [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1249
 807: 0x1244 [0x07] ExtData[1]->WorkLocal[10] += 1*
 808: 0x1249 [0x1C] WAIT(30* ticks)
-809: 0x124C [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+809: 0x124C [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 810: 0x124F [0x23] WAIT_FOR_DIALOG_INTERACTION
 811: 0x1250 [0x8A] CLOSE_MAP()
@@ -2047,7 +2047,7 @@ SUBROUTINE_1196:
 819: 0x1283 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1290
 820: 0x128B [0x07] ExtData[1]->WorkLocal[10] += 1*
 821: 0x1290 [0x1C] WAIT(30* ticks)
-822: 0x1293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+822: 0x1293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 823: 0x1296 [0x23] WAIT_FOR_DIALOG_INTERACTION
 824: 0x1297 [0x8A] CLOSE_MAP()
@@ -2061,7 +2061,7 @@ SUBROUTINE_1196:
 832: 0x12CA [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x12D7
 833: 0x12D2 [0x07] ExtData[1]->WorkLocal[10] += 1*
 834: 0x12D7 [0x1C] WAIT(30* ticks)
-835: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+835: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 836: 0x12DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 837: 0x12DE [0x8A] CLOSE_MAP()
@@ -2075,7 +2075,7 @@ SUBROUTINE_1196:
 845: 0x1311 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x131E
 846: 0x1319 [0x07] ExtData[1]->WorkLocal[10] += 1*
 847: 0x131E [0x1C] WAIT(30* ticks)
-848: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+848: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 849: 0x1324 [0x23] WAIT_FOR_DIALOG_INTERACTION
 850: 0x1325 [0x8A] CLOSE_MAP()
@@ -2089,7 +2089,7 @@ SUBROUTINE_1196:
 858: 0x1358 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1365
 859: 0x1360 [0x07] ExtData[1]->WorkLocal[10] += 1*
 860: 0x1365 [0x1C] WAIT(30* ticks)
-861: 0x1368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+861: 0x1368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 862: 0x136B [0x23] WAIT_FOR_DIALOG_INTERACTION
 863: 0x136C [0x8A] CLOSE_MAP()
@@ -2103,7 +2103,7 @@ SUBROUTINE_1196:
 871: 0x139F [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x13AC
 872: 0x13A7 [0x07] ExtData[1]->WorkLocal[10] += 1*
 873: 0x13AC [0x1C] WAIT(30* ticks)
-874: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+874: 0x13AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 875: 0x13B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 876: 0x13B3 [0x8A] CLOSE_MAP()
@@ -2117,7 +2117,7 @@ SUBROUTINE_1196:
 884: 0x13E6 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x13F3
 885: 0x13EE [0x07] ExtData[1]->WorkLocal[10] += 1*
 886: 0x13F3 [0x1C] WAIT(30* ticks)
-887: 0x13F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+887: 0x13F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 888: 0x13F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 889: 0x13FA [0x8A] CLOSE_MAP()
@@ -2131,7 +2131,7 @@ SUBROUTINE_1196:
 897: 0x142D [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x143A
 898: 0x1435 [0x07] ExtData[1]->WorkLocal[10] += 1*
 899: 0x143A [0x1C] WAIT(30* ticks)
-900: 0x143D [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+900: 0x143D [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 901: 0x1440 [0x23] WAIT_FOR_DIALOG_INTERACTION
 902: 0x1441 [0x8A] CLOSE_MAP()
@@ -2145,7 +2145,7 @@ SUBROUTINE_1196:
 910: 0x1474 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1481
 911: 0x147C [0x07] ExtData[1]->WorkLocal[10] += 1*
 912: 0x1481 [0x1C] WAIT(30* ticks)
-913: 0x1484 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+913: 0x1484 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 914: 0x1487 [0x23] WAIT_FOR_DIALOG_INTERACTION
 915: 0x1488 [0x8A] CLOSE_MAP()
@@ -2159,7 +2159,7 @@ SUBROUTINE_1196:
 923: 0x14BB [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x14C8
 924: 0x14C3 [0x07] ExtData[1]->WorkLocal[10] += 1*
 925: 0x14C8 [0x1C] WAIT(30* ticks)
-926: 0x14CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+926: 0x14CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 927: 0x14CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 928: 0x14CF [0x8A] CLOSE_MAP()
@@ -2173,7 +2173,7 @@ SUBROUTINE_1196:
 936: 0x1502 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x150F
 937: 0x150A [0x07] ExtData[1]->WorkLocal[10] += 1*
 938: 0x150F [0x1C] WAIT(30* ticks)
-939: 0x1512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+939: 0x1512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 940: 0x1515 [0x23] WAIT_FOR_DIALOG_INTERACTION
 941: 0x1516 [0x8A] CLOSE_MAP()
@@ -2187,7 +2187,7 @@ SUBROUTINE_1196:
 949: 0x1549 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1556
 950: 0x1551 [0x07] ExtData[1]->WorkLocal[10] += 1*
 951: 0x1556 [0x1C] WAIT(30* ticks)
-952: 0x1559 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+952: 0x1559 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 953: 0x155C [0x23] WAIT_FOR_DIALOG_INTERACTION
 954: 0x155D [0x8A] CLOSE_MAP()
@@ -2201,7 +2201,7 @@ SUBROUTINE_1196:
 962: 0x1590 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x159D
 963: 0x1598 [0x07] ExtData[1]->WorkLocal[10] += 1*
 964: 0x159D [0x1C] WAIT(30* ticks)
-965: 0x15A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+965: 0x15A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 966: 0x15A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 967: 0x15A4 [0x8A] CLOSE_MAP()
@@ -2215,7 +2215,7 @@ SUBROUTINE_1196:
 975: 0x15D7 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x15E4
 976: 0x15DF [0x07] ExtData[1]->WorkLocal[10] += 1*
 977: 0x15E4 [0x1C] WAIT(30* ticks)
-978: 0x15E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+978: 0x15E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 979: 0x15EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 980: 0x15EB [0x8A] CLOSE_MAP()
@@ -2229,7 +2229,7 @@ SUBROUTINE_1196:
 988: 0x161E [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x162B
 989: 0x1626 [0x07] ExtData[1]->WorkLocal[10] += 1*
 990: 0x162B [0x1C] WAIT(30* ticks)
-991: 0x162E [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+991: 0x162E [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 992: 0x1631 [0x23] WAIT_FOR_DIALOG_INTERACTION
 993: 0x1632 [0x8A] CLOSE_MAP()
@@ -2243,7 +2243,7 @@ SUBROUTINE_1196:
 1001: 0x1665 [0x02] IF !(ExtData[1]->WorkLocal[10] >= 9*) GOTO 0x1672
 1002: 0x166D [0x07] ExtData[1]->WorkLocal[10] += 1*
 1003: 0x1672 [0x1C] WAIT(30* ticks)
-1004: 0x1675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1004: 0x1675 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1005: 0x1678 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1006: 0x1679 [0x8A] CLOSE_MAP()
@@ -2255,7 +2255,7 @@ SUBROUTINE_1680:
 1010: 0x1683 [0x01] GOTO 0x1E4E
 1011: 0x1686 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1D36
 1012: 0x168E [0x03] Work_Zone[2] = 3*
-1013: 0x1693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+1013: 0x1693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
 1014: 0x1696 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1015: 0x1697 [0x03] ExtData[1]->WorkLocal[14] = 1*
@@ -2268,7 +2268,7 @@ SUBROUTINE_169C:
 1020: 0x16B3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 1021: 0x16B5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 1022: 0x16B7 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-1023: 0x16B8 [0x24] CREATE_DIALOG(message_id=7037*, default_option=0*, option_flags=ExtData[1]->WorkLocal[4])
+1023: 0x16B8 [0x24] CREATE_DIALOG(message_id=7038*, default_option=0*, option_flags=ExtData[1]->WorkLocal[4])
     → "Who will you go see in Windurst Woods? [No one./Kopuro-Popuro./Ibwam./Illu Bohjaa./Tapoh Lihzeh./Nanaa Mihgo./Wetata./Kuoh Rhel./Kuoh Rhel./Kororo./Nanaa Mihgo./Kopuro-Popuro./Kopuro-Popuro./Gioh Ajihri./Soni-Muni./Perih Vashai./Nanaa Mihgo./Nanaa Mihgo./Nanaa Mihgo./Perih Vashai./Perih Vashai./Perih Vashai./Apururu./Perih Vashai.]"
 1024: 0x16BF [0x25] WAIT_DIALOG_SELECT()
 1025: 0x16C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x16CF
@@ -2283,7 +2283,7 @@ SUBROUTINE_169C:
 1034: 0x16FB [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1708
 1035: 0x1703 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1036: 0x1708 [0x1C] WAIT(30* ticks)
-1037: 0x170B [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1037: 0x170B [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1038: 0x170E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1039: 0x170F [0x8A] CLOSE_MAP()
@@ -2297,7 +2297,7 @@ SUBROUTINE_169C:
 1047: 0x1742 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x174F
 1048: 0x174A [0x07] ExtData[1]->WorkLocal[11] += 1*
 1049: 0x174F [0x1C] WAIT(30* ticks)
-1050: 0x1752 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1050: 0x1752 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1051: 0x1755 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1052: 0x1756 [0x8A] CLOSE_MAP()
@@ -2311,7 +2311,7 @@ SUBROUTINE_169C:
 1060: 0x1789 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1796
 1061: 0x1791 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1062: 0x1796 [0x1C] WAIT(30* ticks)
-1063: 0x1799 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1063: 0x1799 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1064: 0x179C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1065: 0x179D [0x8A] CLOSE_MAP()
@@ -2325,7 +2325,7 @@ SUBROUTINE_169C:
 1073: 0x17D0 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x17DD
 1074: 0x17D8 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1075: 0x17DD [0x1C] WAIT(30* ticks)
-1076: 0x17E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1076: 0x17E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1077: 0x17E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1078: 0x17E4 [0x8A] CLOSE_MAP()
@@ -2339,7 +2339,7 @@ SUBROUTINE_169C:
 1086: 0x1817 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1824
 1087: 0x181F [0x07] ExtData[1]->WorkLocal[11] += 1*
 1088: 0x1824 [0x1C] WAIT(30* ticks)
-1089: 0x1827 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1089: 0x1827 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1090: 0x182A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1091: 0x182B [0x8A] CLOSE_MAP()
@@ -2353,7 +2353,7 @@ SUBROUTINE_169C:
 1099: 0x185E [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x186B
 1100: 0x1866 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1101: 0x186B [0x1C] WAIT(30* ticks)
-1102: 0x186E [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1102: 0x186E [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1103: 0x1871 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1104: 0x1872 [0x8A] CLOSE_MAP()
@@ -2367,7 +2367,7 @@ SUBROUTINE_169C:
 1112: 0x18A5 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x18B2
 1113: 0x18AD [0x07] ExtData[1]->WorkLocal[11] += 1*
 1114: 0x18B2 [0x1C] WAIT(30* ticks)
-1115: 0x18B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1115: 0x18B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1116: 0x18B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1117: 0x18B9 [0x8A] CLOSE_MAP()
@@ -2381,7 +2381,7 @@ SUBROUTINE_169C:
 1125: 0x18EC [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x18F9
 1126: 0x18F4 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1127: 0x18F9 [0x1C] WAIT(30* ticks)
-1128: 0x18FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1128: 0x18FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1129: 0x18FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1130: 0x1900 [0x8A] CLOSE_MAP()
@@ -2395,7 +2395,7 @@ SUBROUTINE_169C:
 1138: 0x1933 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1940
 1139: 0x193B [0x07] ExtData[1]->WorkLocal[11] += 1*
 1140: 0x1940 [0x1C] WAIT(30* ticks)
-1141: 0x1943 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1141: 0x1943 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1142: 0x1946 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1143: 0x1947 [0x8A] CLOSE_MAP()
@@ -2409,7 +2409,7 @@ SUBROUTINE_169C:
 1151: 0x197A [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1987
 1152: 0x1982 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1153: 0x1987 [0x1C] WAIT(30* ticks)
-1154: 0x198A [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1154: 0x198A [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1155: 0x198D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1156: 0x198E [0x8A] CLOSE_MAP()
@@ -2423,7 +2423,7 @@ SUBROUTINE_169C:
 1164: 0x19C1 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x19CE
 1165: 0x19C9 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1166: 0x19CE [0x1C] WAIT(30* ticks)
-1167: 0x19D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1167: 0x19D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1168: 0x19D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1169: 0x19D5 [0x8A] CLOSE_MAP()
@@ -2437,7 +2437,7 @@ SUBROUTINE_169C:
 1177: 0x1A08 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1A15
 1178: 0x1A10 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1179: 0x1A15 [0x1C] WAIT(30* ticks)
-1180: 0x1A18 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1180: 0x1A18 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1181: 0x1A1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 1182: 0x1A1C [0x8A] CLOSE_MAP()
@@ -2451,7 +2451,7 @@ SUBROUTINE_169C:
 1190: 0x1A4F [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1A5C
 1191: 0x1A57 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1192: 0x1A5C [0x1C] WAIT(30* ticks)
-1193: 0x1A5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1193: 0x1A5F [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1194: 0x1A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1195: 0x1A63 [0x8A] CLOSE_MAP()
@@ -2465,7 +2465,7 @@ SUBROUTINE_169C:
 1203: 0x1A96 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1AA3
 1204: 0x1A9E [0x07] ExtData[1]->WorkLocal[11] += 1*
 1205: 0x1AA3 [0x1C] WAIT(30* ticks)
-1206: 0x1AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1206: 0x1AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1207: 0x1AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1208: 0x1AAA [0x8A] CLOSE_MAP()
@@ -2479,7 +2479,7 @@ SUBROUTINE_169C:
 1216: 0x1ADD [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1AEA
 1217: 0x1AE5 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1218: 0x1AEA [0x1C] WAIT(30* ticks)
-1219: 0x1AED [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1219: 0x1AED [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1220: 0x1AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1221: 0x1AF1 [0x8A] CLOSE_MAP()
@@ -2493,7 +2493,7 @@ SUBROUTINE_169C:
 1229: 0x1B24 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1B31
 1230: 0x1B2C [0x07] ExtData[1]->WorkLocal[11] += 1*
 1231: 0x1B31 [0x1C] WAIT(30* ticks)
-1232: 0x1B34 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1232: 0x1B34 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1233: 0x1B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1234: 0x1B38 [0x8A] CLOSE_MAP()
@@ -2507,7 +2507,7 @@ SUBROUTINE_169C:
 1242: 0x1B6B [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1B78
 1243: 0x1B73 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1244: 0x1B78 [0x1C] WAIT(30* ticks)
-1245: 0x1B7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1245: 0x1B7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1246: 0x1B7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1247: 0x1B7F [0x8A] CLOSE_MAP()
@@ -2521,7 +2521,7 @@ SUBROUTINE_169C:
 1255: 0x1BB2 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1BBF
 1256: 0x1BBA [0x07] ExtData[1]->WorkLocal[11] += 1*
 1257: 0x1BBF [0x1C] WAIT(30* ticks)
-1258: 0x1BC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1258: 0x1BC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1259: 0x1BC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1260: 0x1BC6 [0x8A] CLOSE_MAP()
@@ -2535,7 +2535,7 @@ SUBROUTINE_169C:
 1268: 0x1BF9 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C06
 1269: 0x1C01 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1270: 0x1C06 [0x1C] WAIT(30* ticks)
-1271: 0x1C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1271: 0x1C09 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1272: 0x1C0C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1273: 0x1C0D [0x8A] CLOSE_MAP()
@@ -2549,7 +2549,7 @@ SUBROUTINE_169C:
 1281: 0x1C40 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C4D
 1282: 0x1C48 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1283: 0x1C4D [0x1C] WAIT(30* ticks)
-1284: 0x1C50 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1284: 0x1C50 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1285: 0x1C53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1286: 0x1C54 [0x8A] CLOSE_MAP()
@@ -2563,7 +2563,7 @@ SUBROUTINE_169C:
 1294: 0x1C87 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1C94
 1295: 0x1C8F [0x07] ExtData[1]->WorkLocal[11] += 1*
 1296: 0x1C94 [0x1C] WAIT(30* ticks)
-1297: 0x1C97 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1297: 0x1C97 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1298: 0x1C9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1299: 0x1C9B [0x8A] CLOSE_MAP()
@@ -2577,7 +2577,7 @@ SUBROUTINE_169C:
 1307: 0x1CCE [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1CDB
 1308: 0x1CD6 [0x07] ExtData[1]->WorkLocal[11] += 1*
 1309: 0x1CDB [0x1C] WAIT(30* ticks)
-1310: 0x1CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1310: 0x1CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1311: 0x1CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1312: 0x1CE2 [0x8A] CLOSE_MAP()
@@ -2591,7 +2591,7 @@ SUBROUTINE_169C:
 1320: 0x1D15 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 9*) GOTO 0x1D22
 1321: 0x1D1D [0x07] ExtData[1]->WorkLocal[11] += 1*
 1322: 0x1D22 [0x1C] WAIT(30* ticks)
-1323: 0x1D25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7039*)
+1323: 0x1D25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7040*)
     → "I'M sUrE ThAT pErsOn wIlL APpreCiaTE YouR Aid. LeT ME maRk tHeiR loCaTiON oN YouR mAp."
 1324: 0x1D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1325: 0x1D29 [0x8A] CLOSE_MAP()
@@ -2603,7 +2603,7 @@ SUBROUTINE_1D30:
 1329: 0x1D33 [0x01] GOTO 0x1E4E
 1330: 0x1D36 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1E4E
 1331: 0x1D3E [0x03] Work_Zone[2] = 4*
-1332: 0x1D43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7033*)
+1332: 0x1D43 [0x1D] PRINT_EVENT_MESSAGE(message_id=7034*)
     → "tHe FoLLowIng PeoPLe in [WIndUrsT WaTErS/WiNduRsT WaLLs/POrT WiNdUrSt/WinDUrsT WooDS/HeAVeNs TowEr] mIGht NeeD yOuR HeLP."
 1333: 0x1D46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1334: 0x1D47 [0x03] ExtData[1]->WorkLocal[14] = 1*
@@ -2616,7 +2616,7 @@ SUBROUTINE_1D4C:
 1339: 0x1D63 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 1340: 0x1D65 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 1341: 0x1D67 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-1342: 0x1D68 [0x24] CREATE_DIALOG(message_id=7038*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+1342: 0x1D68 [0x24] CREATE_DIALOG(message_id=7039*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Who will you go see in Heavens Tower? [No one./Chumimi./Chumimi./Chumimi.]"
 1343: 0x1D6F [0x25] WAIT_DIALOG_SELECT()
 1344: 0x1D70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D7F
@@ -2648,13 +2648,13 @@ SUBROUTINE_1EE1:
 1362: 0x1EE1 [0x01] GOTO 0x20FD
 1363: 0x1EE4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1F95
 1364: 0x1EEC [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x1F03
-1365: 0x1EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7017*)
+1365: 0x1EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7018*)
     → "REcoRdS oF EminENcE CaN bE ENjoYeD BY anYonE At ANytiMe. YoU EvEN Get rEwaRDs fOr pArtiCIPaTinG!"
 1366: 0x1EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1367: 0x1EF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7018*)
+1367: 0x1EF8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7019*)
     → "OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd."
 1368: 0x1EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
-1369: 0x1EFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7019*)
+1369: 0x1EFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7020*)
     → "FrOM ThERe, sElecT "TUtorIaL," tHEn "BaSicS" anD "FiRsT StEP fOrwArd." SeT ThaT OBjeCTivE tO gEt STarTeD."
 1370: 0x1EFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1371: 0x1F00 [0x01] GOTO 0x1F92
@@ -2667,25 +2667,25 @@ SUBROUTINE_1EE1:
 
 SUBROUTINE_1F87:
 1378: 0x1F87 [0x01] GOTO 0x1F92
-1379: 0x1F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7018*)
+1379: 0x1F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7019*)
     → "OPeN tHe MAiN meNu aNd pREss tO tHe RigHT. SeLecT "QueSTs" and tHen "ObJEcTiVE LiSt" tO Get sTarTEd."
 1380: 0x1F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1381: 0x1F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=7022*)
+1381: 0x1F8E [0x1D] PRINT_EVENT_MESSAGE(message_id=7023*)
     → "THeRe aRe MaNY ObjEcTiveS tO CHooSE FrOm, sO pIck oNEs thAt MatCh yOUr StylE."
 1382: 0x1F91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_1F92:
 1383: 0x1F92 [0x01] GOTO 0x20FD
 1384: 0x1F95 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1FF7
-1385: 0x1F9D [0x1D] PRINT_EVENT_MESSAGE(message_id=7023*)
+1385: 0x1F9D [0x1D] PRINT_EVENT_MESSAGE(message_id=7024*)
     → "THe TruST iNitIAtivE is A New tYpe OF MaGIc DevElOpED bY aN inStiTUtE in jEUnO."
 1386: 0x1FA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1387: 0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7024*)
+1387: 0x1FA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
     → "YoU CAn fINd ComPanIOns tO jOiN yOu iN BattLe IF yOu pArTIciPAte."
 1388: 0x1FA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1389: 0x1FA5 [0x02] IF !(LocalPlayer->JobLevel < 5*) GOTO 0x1FF0
 1390: 0x1FAD [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x1FBC
-1391: 0x1FB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7005*)
+1391: 0x1FB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7006*)
     → "If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU."
 1392: 0x1FB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1393: 0x1FB9 [0x01] GOTO 0x1FED
@@ -2700,7 +2700,7 @@ SUBROUTINE_1F92:
 
 SUBROUTINE_1FED:
 1402: 0x1FED [0x01] GOTO 0x1FF4
-1403: 0x1FF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
+1403: 0x1FF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7026*)
     → "I'lL PrOVidE yOu wITh MoRe InFOrmaTIoN wHEn YoU ReAcH LEvEl FIvE."
 1404: 0x1FF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2723,7 +2723,7 @@ SUBROUTINE_1FF4:
 
 SUBROUTINE_20FD:
 1420: 0x20FD [0x01] GOTO 0x0278
-1421: 0x2100 [0x1D] PRINT_EVENT_MESSAGE(message_id=6999*)
+1421: 0x2100 [0x1D] PRINT_EVENT_MESSAGE(message_id=7000*)
     → "FeEl frEe tO AsK nEXt tIme yOu NeEd JaCk's heLp. OvEr AnD oUt!"
 1422: 0x2103 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1423: 0x2104 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2731,13 +2731,13 @@ SUBROUTINE_20FD:
 1425: 0x2107 [0x00] END_REQSTACK()
 
 SUBROUTINE_2108:
-1426: 0x2108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7005*)
+1426: 0x2108 [0x1D] PRINT_EVENT_MESSAGE(message_id=7006*)
     → "If yOu bRIng mE a Map of tHE WinDursT ARea, I wiLl PLacE MarKerS oN TheM fOr YoU."
 1427: 0x210B [0x23] WAIT_FOR_DIALOG_INTERACTION
-1428: 0x210C [0x1D] PRINT_EVENT_MESSAGE(message_id=7006*)
+1428: 0x210C [0x1D] PRINT_EVENT_MESSAGE(message_id=7007*)
     → "YoU cAn puCHasE maPs in WinDUrst WoOds or WIndurSt WaTerS, but WinDursT WOodS iS CloSEr."
 1429: 0x210F [0x23] WAIT_FOR_DIALOG_INTERACTION
-1430: 0x2110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7012*)
+1430: 0x2110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7013*)
     → "hEaD tO WiNDurSt WooDs bY wAlkINg to tHe gaTe SOutH oF hEre LeaDIng EaSt."
 1431: 0x2113 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1432: 0x2114 [0x1B] RETURN
@@ -2758,7 +2758,7 @@ SUBROUTINE_2108:
      0x1DA7 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1DB4
      0x1DAF [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x1DB4 [0x1C] WAIT(30* ticks)
-     0x1DB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
+     0x1DB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7042*)
     → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
      0x1DBA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DBB [0x8A] CLOSE_MAP()
@@ -2775,7 +2775,7 @@ SUBROUTINE_2108:
      0x1DEA [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1DF7
      0x1DF2 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x1DF7 [0x1C] WAIT(30* ticks)
-     0x1DFA [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
+     0x1DFA [0x1D] PRINT_EVENT_MESSAGE(message_id=7042*)
     → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
      0x1DFD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DFE [0x8A] CLOSE_MAP()
@@ -2792,7 +2792,7 @@ SUBROUTINE_2108:
      0x1E2D [0x02] IF !(ExtData[1]->WorkLocal[9] >= 9*) GOTO 0x1E3A
      0x1E35 [0x07] ExtData[1]->WorkLocal[9] += 1*
      0x1E3A [0x1C] WAIT(30* ticks)
-     0x1E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7041*)
+     0x1E3D [0x1D] PRINT_EVENT_MESSAGE(message_id=7042*)
     → "ThaT PerSOn iS LocATeD iN thE BaSEmenT oF HeAVeNs ToWeR. LeT mE MarK oN yoUR Map WheRE tHe eNtRAncE Is."
      0x1E40 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E41 [0x8A] CLOSE_MAP()
@@ -2812,22 +2812,22 @@ SUBROUTINE_2108:
      0x1FD9 [0x00] END_REQSTACK()
      0x1FDA [0x00] END_REQSTACK()
      0x1FDB [0x00] END_REQSTACK()
-     0x1FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=7026*)
+     0x1FDC [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
     → "WEtAtA In WInduRsT WOOds CaN TeLL yOU MorE. LeT Me MArK hER LoCAtIOn On yOur MAp."
      0x1FDF [0x1C] WAIT(90* ticks)
      0x1FE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FE3 [0x8A] CLOSE_MAP()
-     0x1FE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7015*)
+     0x1FE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7016*)
     → "YoU CaN fInd tHE MarK bY pREssIng tHe "MaP" buTTon, seLecTiNG "mARkErs," and lOOkinG tO tHe RigHT."
      0x1FE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1FE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7016*)
+     0x1FE8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7017*)
     → "SeLEctInG "WiDE sCaN" wiLL aLso SHow yOu thE LoCAtiOns oF vAriOuS pEopLE."
      0x1FEB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1FEC [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
 # Dead code (unreachable instructions):
      0x205F [0x00] END_REQSTACK()
      0x2060 [0x00] END_REQSTACK()
-     0x2061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
+     0x2061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
     → "OtHEr pEoPlE aLSo KnoW a LoT aBouT MaPs, LiKE ZeLaLA in WindUrsT WaTErs. LeT JacK ShOw WHerE sHe iS."
      0x2064 [0x1C] WAIT(90* ticks)
      0x2067 [0x23] WAIT_FOR_DIALOG_INTERACTION

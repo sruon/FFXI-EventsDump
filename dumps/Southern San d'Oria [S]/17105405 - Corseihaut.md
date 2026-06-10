@@ -22,13 +22,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x2F50      |       12112 |
-|       2 | 0x2F51      |       12113 |
+|       1 | 0x2F51      |       12113 |
+|       2 | 0x2F52      |       12114 |
 
 ## String References
 
-- **12112**: My word, those forsaken Royal Knights... It was bad enough when I heard they were scavenging the broken weapons of the Orcs, but now they are leaving them strewn about the city!
-- **12113**: I don't know if they intend to study them or use them as toys for our children! All I do know is that we Temple Knights will have to clean up their mess, as always!
+- **12113**: My word, those forsaken Royal Knights... It was bad enough when I heard they were scavenging the broken weapons of the Orcs, but now they are leaving them strewn about the city!
+- **12114**: I don't know if they intend to study them or use them as toys for our children! All I do know is that we Temple Knights will have to clean up their mess, as always!
 
 ## Events
 
@@ -77,10 +77,10 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Corseihaut (ID: 17105405/0x010501FD), Corseihaut (ID: 17105405/0x010501FD)], work=29*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12112*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
     → "My word, those forsaken Royal Knights... It was bad enough when I heard they were scavenging the broken weapons of the Orcs, but now they are leaving them strewn about the city!"
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
     → "I don't know if they intend to study them or use them as toys for our children! All I do know is that we Temple Knights will have to clean up their mess, as always!"
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Corseihaut (ID: 17105405/0x010501FD), Corseihaut (ID: 17105405/0x010501FD)], work=29*

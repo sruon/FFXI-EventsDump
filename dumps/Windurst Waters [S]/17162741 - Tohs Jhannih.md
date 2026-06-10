@@ -24,13 +24,13 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0020      |          32 |
-|       2 | 0x2AB0      |       10928 |
-|       3 | 0x2AB1      |       10929 |
+|       2 | 0x2AB1      |       10929 |
+|       3 | 0x2AB2      |       10930 |
 |       4 | 0x003B      |          59 |
-|       5 | 0x2B55      |       11093 |
+|       5 | 0x2B56      |       11094 |
 |       6 | 0x1194      |        4500 |
-|       7 | 0x2B56      |       11094 |
-|       8 | 0x2B57      |       11095 |
+|       7 | 0x2B57      |       11095 |
+|       8 | 0x2B58      |       11096 |
 
 ## Events
 
@@ -81,10 +81,10 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 32*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [10928*]:
+  4: 0x0019 [0x2B] EventEntity [10929*]:
     → "One...two...three.. Hm? Wait a minute, something's not rrright..."
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [10929*]:
+  6: 0x0021 [0x2B] EventEntity [10930*]:
     → "Alright, I'm gonna count over. Gimme a minute here..."
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT
@@ -118,14 +118,14 @@
   0: 0x002B [0x4A] EventEntity looks at LocalPlayer
   1: 0x0034 [0x1C] WAIT(30* ticks)
   2: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0046 [0x2B] EventEntity [11093*]:
+  3: 0x0046 [0x2B] EventEntity [11094*]:
     → "What? Food that our Gha Nabohan prrrince will enjoy?"
   4: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x004E [0x03] Work_Zone[2] = 4500*
-  6: 0x0053 [0x2B] EventEntity [11094*]:
+  6: 0x0053 [0x2B] EventEntity [11095*]:
     → "Why, that would be $0, naturrrally!"
   7: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x005B [0x2B] EventEntity [11095*]:
+  8: 0x005B [0x2B] EventEntity [11096*]:
     → "The irresistible, pungent aroma that permeates when you grrrill them makes my nostrils flare and-- <Slurp>...my mouth water!"
   9: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0063 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

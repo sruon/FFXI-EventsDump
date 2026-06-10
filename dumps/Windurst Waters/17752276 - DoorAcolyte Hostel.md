@@ -20,51 +20,51 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272D      |       10029 |
+|       0 | 0x272E      |       10030 |
 |       1 | 0x0008      |           8 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x26F3      |        9971 |
-|       6 | 0x26F4      |        9972 |
-|       7 | 0x26F5      |        9973 |
+|       5 | 0x26F4      |        9972 |
+|       6 | 0x26F5      |        9973 |
+|       7 | 0x26F6      |        9974 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x26F6      |        9974 |
+|       9 | 0x26F7      |        9975 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x26F7      |        9975 |
+|      11 | 0x26F8      |        9976 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x26F8      |        9976 |
+|      13 | 0x26F9      |        9977 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x26F9      |        9977 |
+|      15 | 0x26FA      |        9978 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x26FA      |        9978 |
-|      18 | 0x26FB      |        9979 |
+|      17 | 0x26FB      |        9979 |
+|      18 | 0x26FC      |        9980 |
 |      19 | 0x0009      |           9 |
-|      20 | 0x272F      |       10031 |
+|      20 | 0x2730      |       10032 |
 |      21 | 0x00C8      |         200 |
 |      22 | 0x003C      |          60 |
 |      23 | 0x00D3      |         211 |
-|      24 | 0x2730      |       10032 |
+|      24 | 0x2731      |       10033 |
 |      25 | 0x0096      |         150 |
-|      26 | 0x2731      |       10033 |
-|      27 | 0x2732      |       10034 |
+|      26 | 0x2732      |       10034 |
+|      27 | 0x2733      |       10035 |
 |      28 | 0x0064      |         100 |
-|      29 | 0x272E      |       10030 |
+|      29 | 0x272F      |       10031 |
 
 ## String References
 
-- **9971**: The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]
-- **9972**: The kid in N. San d'Oria is looking for... [Quemaricond./Exoroche./Ruillont.]
-- **9973**: The San d'Orian papsque is... [Shamonde D Grauche./Shamonde I Grauche./Shamonde P Grauche.]
-- **9974**: San d'Oria's younger prince is... [Pieuje./Peijue./Pueije.]
-- **9975**: Curilla's hair is covering... [her right eye./her left eye./both of her eyes.]
-- **9976**: The quarry of the great autumn hunt was... [a giant sheep./a giant boar./a giant chocobo.]
-- **9977**: The lost kid in San d'Oria wants... [$2./$3./$4.]
-- **9978**: The San d'Orian delivery boy's mom has... [Ghelsba-fever./Davoi-fever./Ronfaure-fever.]
-- **9979**: Prince Trion lost... [an entire army./an entire company./a San d'Orian ring.]
-- **10029**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10030**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10031**: YOU ARE RIGHT!
+- **9972**: The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]
+- **9973**: The kid in N. San d'Oria is looking for... [Quemaricond./Exoroche./Ruillont.]
+- **9974**: The San d'Orian papsque is... [Shamonde D Grauche./Shamonde I Grauche./Shamonde P Grauche.]
+- **9975**: San d'Oria's younger prince is... [Pieuje./Peijue./Pueije.]
+- **9976**: Curilla's hair is covering... [her right eye./her left eye./both of her eyes.]
+- **9977**: The quarry of the great autumn hunt was... [a giant sheep./a giant boar./a giant chocobo.]
+- **9978**: The lost kid in San d'Oria wants... [$2./$3./$4.]
+- **9979**: The San d'Orian delivery boy's mom has... [Ghelsba-fever./Davoi-fever./Ronfaure-fever.]
+- **9980**: Prince Trion lost... [an entire army./an entire company./a San d'Orian ring.]
+- **10030**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10031**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10032**: YOU ARE RIGHT!
 
 ## Events
 
@@ -199,7 +199,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10029*]:
+  1: 0x0002 [0x48] [System] [10030*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 8*
@@ -207,7 +207,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 2*
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 0*
   7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 1*
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=9971*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=9972*, default_option=0*, option_flags=0*)
     → "The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -241,7 +241,7 @@ SUBROUTINE_007E:
  30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 1*
  31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 0*
  32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 33: 0x0098 [0x24] CREATE_DIALOG(message_id=9972*, default_option=0*, option_flags=0*)
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=9973*, default_option=0*, option_flags=0*)
     → "The kid in N. San d'Oria is looking for... [Quemaricond./Exoroche./Ruillont.]"
  34: 0x009F [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
@@ -275,7 +275,7 @@ SUBROUTINE_00F4:
  55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 2*
  56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 0*
  57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 1*
- 58: 0x010E [0x24] CREATE_DIALOG(message_id=9973*, default_option=0*, option_flags=0*)
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=9974*, default_option=0*, option_flags=0*)
     → "The San d'Orian papsque is... [Shamonde D Grauche./Shamonde I Grauche./Shamonde P Grauche.]"
  59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -309,7 +309,7 @@ SUBROUTINE_016A:
  80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 0*
  81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 1*
  82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
- 83: 0x0184 [0x24] CREATE_DIALOG(message_id=9974*, default_option=0*, option_flags=0*)
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=9975*, default_option=0*, option_flags=0*)
     → "San d'Oria's younger prince is... [Pieuje./Peijue./Pueije.]"
  84: 0x018B [0x25] WAIT_DIALOG_SELECT()
  85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
@@ -343,7 +343,7 @@ SUBROUTINE_01E0:
 105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 1*
 106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 0*
 107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 2*
-108: 0x01FA [0x24] CREATE_DIALOG(message_id=9975*, default_option=0*, option_flags=0*)
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=9976*, default_option=0*, option_flags=0*)
     → "Curilla's hair is covering... [her right eye./her left eye./both of her eyes.]"
 109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
@@ -377,7 +377,7 @@ SUBROUTINE_0256:
 130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 0*
 131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 1*
 132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 2*
-133: 0x0270 [0x24] CREATE_DIALOG(message_id=9976*, default_option=0*, option_flags=0*)
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=9977*, default_option=0*, option_flags=0*)
     → "The quarry of the great autumn hunt was... [a giant sheep./a giant boar./a giant chocobo.]"
 134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
 135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
@@ -411,7 +411,7 @@ SUBROUTINE_02CC:
 155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 1*
 156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 0*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 2*
-158: 0x02E6 [0x24] CREATE_DIALOG(message_id=9977*, default_option=0*, option_flags=0*)
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=9978*, default_option=0*, option_flags=0*)
     → "The lost kid in San d'Oria wants... [$2./$3./$4.]"
 159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
 160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
@@ -445,7 +445,7 @@ SUBROUTINE_0342:
 180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 1*
 181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 0*
 182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 2*
-183: 0x035C [0x24] CREATE_DIALOG(message_id=9978*, default_option=0*, option_flags=0*)
+183: 0x035C [0x24] CREATE_DIALOG(message_id=9979*, default_option=0*, option_flags=0*)
     → "The San d'Orian delivery boy's mom has... [Ghelsba-fever./Davoi-fever./Ronfaure-fever.]"
 184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
@@ -479,7 +479,7 @@ SUBROUTINE_03B8:
 205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 1*
 206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 0*
 207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 2*
-208: 0x03D2 [0x24] CREATE_DIALOG(message_id=9979*, default_option=0*, option_flags=0*)
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=9980*, default_option=0*, option_flags=0*)
     → "Prince Trion lost... [an entire army./an entire company./a San d'Orian ring.]"
 209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -513,7 +513,7 @@ SUBROUTINE_042E:
 230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 2*
 231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 0*
 232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 1*
-233: 0x0448 [0x24] CREATE_DIALOG(message_id=9971*, default_option=0*, option_flags=0*)
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=9972*, default_option=0*, option_flags=0*)
     → "The San d'Orian Royal Knight general is... [Louverance./Curilla./Rahal.]"
 234: 0x044F [0x25] WAIT_DIALOG_SELECT()
 235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
@@ -552,7 +552,7 @@ SUBROUTINE_04A7:
 SUBROUTINE_04AB:
 257: 0x04AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
 258: 0x04AC [0x46] CAMERA_CONTROL: Disable user control
-259: 0x04AE [0x48] [System] [10031*]:
+259: 0x04AE [0x48] [System] [10032*]:
     → "YOU ARE RIGHT!"
 260: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -566,19 +566,19 @@ SUBROUTINE_04AB:
 269: 0x04E5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 270: 0x04EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 271: 0x04FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10032*]:
+272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
 273: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 275: 0x0525 [0x1C] WAIT(150* ticks)
-276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
+276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
 277: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0530 [0x1C] WAIT(150* ticks)
 279: 0x0533 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
 280: 0x0542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 281: 0x0553 [0x1C] WAIT(60* ticks)
-282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
+282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
 283: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -590,7 +590,7 @@ SUBROUTINE_04AB:
 
 SUBROUTINE_058B:
 290: 0x058B [0x03] Work_Zone[1] = 0*
-291: 0x0590 [0x48] [System] [10030*]:
+291: 0x0590 [0x48] [System] [10031*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
 292: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0594 [0x1B] RETURN

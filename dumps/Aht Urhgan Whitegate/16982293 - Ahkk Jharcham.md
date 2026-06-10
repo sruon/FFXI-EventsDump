@@ -27,11 +27,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0054      |          84 |
-|       1 | 0x15BC      |        5564 |
+|       1 | 0x15BD      |        5565 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x15B5      |        5557 |
-|       4 | 0x15CB      |        5579 |
-|       5 | 0x15CA      |        5578 |
+|       3 | 0x15B6      |        5558 |
+|       4 | 0x15CC      |        5580 |
+|       5 | 0x15CB      |        5579 |
 
 ## Events
 
@@ -104,7 +104,7 @@
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0003 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Ahkk Jharcham (ID: 16982293/0x01032115))
   2: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kisi" with entities [Ahkk Jharcham (ID: 16982293/0x01032115), Ahkk Jharcham (ID: 16982293/0x01032115)], work=84*
-  3: 0x0018 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5564*]:
+  3: 0x0018 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5565*]:
     → "Myehehe..."
   4: 0x001F [0x1C] WAIT(30* ticks)
   5: 0x0022 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "kisi" with entities [Ahkk Jharcham (ID: 16982293/0x01032115), Ahkk Jharcham (ID: 16982293/0x01032115)]
@@ -155,7 +155,7 @@
 #### Opcodes
 
 ```
-  0: 0x0038 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5557*]:
+  0: 0x0038 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5558*]:
     → "Mew mew mew mew mew meooowt Tulutululu`t Meow!"
   1: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0040 [0x21] END_EVENT
@@ -186,7 +186,7 @@
   1: 0x0047 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0048 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0049 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x1D)
-  4: 0x0050 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5579*]:
+  4: 0x0050 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5580*]:
     → "Thanks, but I don't need any morrre parchment. Oh well, it's the thought that counts! (At least, that's what Mom always says...)"
   5: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0058 [0x21] END_EVENT
@@ -216,7 +216,7 @@
   0: 0x005A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0060 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0061 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5578*]:
+  3: 0x0061 [0x2B] Ahkk Jharcham (ID: 16982293/0x01032115) [5579*]:
     → "Meow? You want to give me something? Unforrrtunately, I'm not cheap! (At least, that's what Mom always says...)"
   4: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0069 [0x21] END_EVENT

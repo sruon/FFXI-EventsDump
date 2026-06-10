@@ -26,16 +26,16 @@
 |       4 | 0x007F      |         127 |
 |       5 | 0x012C      |         300 |
 |       6 | 0x005C      |          92 |
-|       7 | 0x1C5E      |        7262 |
-|       8 | 0x1C60      |        7264 |
-|       9 | 0x1C61      |        7265 |
-|      10 | 0x1C62      |        7266 |
-|      11 | 0x1C63      |        7267 |
+|       7 | 0x1C5F      |        7263 |
+|       8 | 0x1C61      |        7265 |
+|       9 | 0x1C62      |        7266 |
+|      10 | 0x1C63      |        7267 |
+|      11 | 0x1C64      |        7268 |
 |      12 | 0x0032      |          50 |
 |      13 | 0x0008      |           8 |
 |      14 | 0x03E8      |        1000 |
 |      15 | 0x05CC      |        1484 |
-|      16 | 0x1C73      |        7283 |
+|      16 | 0x1C74      |        7284 |
 |      17 | 0x0867      |        2151 |
 |      18 | 0x0064      |         100 |
 |      19 | 0x0078      |         120 |
@@ -161,7 +161,7 @@
  25: 0x009F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Apururu (ID: 17563875/0x010C00E3), tag_num=0x2A)
  26: 0x00A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
  27: 0x00B7 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x33)
- 28: 0x00BE [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7262*]:
+ 28: 0x00BE [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7263*]:
     → "Whataru do they know!?"
  29: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00C6 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))
@@ -171,18 +171,18 @@
  34: 0x00D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=92*
  35: 0x00E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
  36: 0x00F9 [0x27] REQ_SET(priority=0x0A, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x34)
- 37: 0x0100 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7264*]:
+ 37: 0x0100 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7265*]:
     → "Why do you think they all fear war, but won't lift a finger-winger to do anything about it?"
  38: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0108 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7265*]:
+ 39: 0x0108 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7266*]:
     → "They all say that Windurst has "peace and security, peace and security," but do you really-weally think our country has peace?"
  40: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0110 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=92*
  42: 0x011F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
- 43: 0x0130 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7266*]:
+ 43: 0x0130 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7267*]:
     → "The wounds the Orastery received from the war haven't healed, even after twenty-odd years. The best of the War Warlock mages are dying off, unable to train new, younger replacementarus."
  44: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0138 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7267*]:
+ 45: 0x0138 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7268*]:
     → "Just imagine what would happen if war broke out again. Windurst would be obliterated in an instantaru. That's why...that's why we need some grand new magic..."
  46: 0x013F [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0140 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Apururu (ID: 17563875/0x010C00E3), tag_num=0x2B)
@@ -271,7 +271,7 @@ SUBROUTINE_036F:
 122: 0x040E [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x31)
 123: 0x0415 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=8.2°*)
 124: 0x041C [0x1C] WAIT(50* ticks)
-125: 0x041F [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7283*]:
+125: 0x041F [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7284*]:
     → "Oh, and one more thing... Don't go blabbing about what you just heard here, all rightaru?"
 126: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0427 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=11.8°*)

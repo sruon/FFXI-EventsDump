@@ -24,39 +24,39 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1E98      |        7832 |
-|       2 | 0x1E99      |        7833 |
-|       3 | 0x1E9A      |        7834 |
+|       1 | 0x1E99      |        7833 |
+|       2 | 0x1E9A      |        7834 |
+|       3 | 0x1E9B      |        7835 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1E9C      |        7836 |
-|       7 | 0x1E9D      |        7837 |
+|       6 | 0x1E9D      |        7837 |
+|       7 | 0x1E9E      |        7838 |
 |       8 | 0x094E      |        2382 |
-|       9 | 0x1E9E      |        7838 |
-|      10 | 0x1E9F      |        7839 |
-|      11 | 0x1EA0      |        7840 |
-|      12 | 0x1E9B      |        7835 |
-|      13 | 0x1EA1      |        7841 |
-|      14 | 0x1EA2      |        7842 |
-|      15 | 0x1EA3      |        7843 |
-|      16 | 0x1EA4      |        7844 |
+|       9 | 0x1E9F      |        7839 |
+|      10 | 0x1EA0      |        7840 |
+|      11 | 0x1EA1      |        7841 |
+|      12 | 0x1E9C      |        7836 |
+|      13 | 0x1EA2      |        7842 |
+|      14 | 0x1EA3      |        7843 |
+|      15 | 0x1EA4      |        7844 |
+|      16 | 0x1EA5      |        7845 |
 |      17 | 0x00C9      |         201 |
 
 ## String References
 
-- **7832**: Numerous Velkk clans rrreside in this area. I don't care how battleworn you are--don't let your guard down. That's when they strike.
-- **7833**: Purrrsonally, I'd love to sink my claws into those Velkk around here and make a nice handbag, but I need a bit of help. You in?
-- **7834**: Up for some Velkk skinning? [Bloody pulp, here I come!/Violence is never the answer.]
-- **7835**: Oh, come on. You must have seen whole rrrivers of blood in your time. What's one more trickle? If you ever need your thirrrst satiated, I'll be right here.
-- **7836**: Rrright! Let's get down to business. I'm Jhen Durheka, in charge of surveying water quality here.
-- **7837**: Despite my grrruff demeanor, I'm more of a thinker than a fighter. Even my reflexes aren't enough to blitz past those Velkk in the way.
-- **7838**: That's where you come in--assuming you can mangle anything that gets in your way. Take this $3 and procure samples at both the source and the mouth of the river, as well as at the Dho Gates.
-- **7839**: The water, you see, flows down from the ravine here into the gates.
-- **7840**: The Velkk aren't the only thing to look out for. The cliffs are steep, and the last thing I want is some pioneer bloodying up the grrround below. Now, off with you!
-- **7841**: You got gunk in your ears? I need you to take samples upstream, downstream, and at the Dho Gates. Have at it before those Velkk decide to multiply!
-- **7842**: Wow, you actually--I mean, I didn't expect that you-- Well, either way, you made it back in one piece! Now about that surrrveying...
-- **7843**: Hmm...this is quite intrrriguing. Unlike Yorcia and Hennetiel, the water here is pure. The pollution in those areas must be coming from Cirdas Caverns.
-- **7844**: You've been a biggerrr help than I thought--and you gave the Velkk a bit of a scare too! Here's a little something for your trouble.
+- **7833**: Numerous Velkk clans rrreside in this area. I don't care how battleworn you are--don't let your guard down. That's when they strike.
+- **7834**: Purrrsonally, I'd love to sink my claws into those Velkk around here and make a nice handbag, but I need a bit of help. You in?
+- **7835**: Up for some Velkk skinning? [Bloody pulp, here I come!/Violence is never the answer.]
+- **7836**: Oh, come on. You must have seen whole rrrivers of blood in your time. What's one more trickle? If you ever need your thirrrst satiated, I'll be right here.
+- **7837**: Rrright! Let's get down to business. I'm Jhen Durheka, in charge of surveying water quality here.
+- **7838**: Despite my grrruff demeanor, I'm more of a thinker than a fighter. Even my reflexes aren't enough to blitz past those Velkk in the way.
+- **7839**: That's where you come in--assuming you can mangle anything that gets in your way. Take this $3 and procure samples at both the source and the mouth of the river, as well as at the Dho Gates.
+- **7840**: The water, you see, flows down from the ravine here into the gates.
+- **7841**: The Velkk aren't the only thing to look out for. The cliffs are steep, and the last thing I want is some pioneer bloodying up the grrround below. Now, off with you!
+- **7842**: You got gunk in your ears? I need you to take samples upstream, downstream, and at the Dho Gates. Have at it before those Velkk decide to multiply!
+- **7843**: Wow, you actually--I mean, I didn't expect that you-- Well, either way, you made it back in one piece! Now about that surrrveying...
+- **7844**: Hmm...this is quite intrrriguing. Unlike Yorcia and Hennetiel, the water here is pure. The pollution in those areas must be coming from Cirdas Caverns.
+- **7845**: You've been a biggerrr help than I thought--and you gave the Velkk a bit of a scare too! Here's a little something for your trouble.
 
 ## Events
 
@@ -107,7 +107,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "Numerous Velkk clans rrreside in this area. I don't care how battleworn you are--don't let your guard down. That's when they strike."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -146,34 +146,34 @@
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
+  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
     → "Purrrsonally, I'd love to sink my claws into those Velkk around here and make a nice handbag, but I need a bit of help. You in?"
   6: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0047 [0x24] CREATE_DIALOG(message_id=7834*, default_option=1*, option_flags=0*)
+  7: 0x0047 [0x24] CREATE_DIALOG(message_id=7835*, default_option=1*, option_flags=0*)
     → "Up for some Velkk skinning? [Bloody pulp, here I come!/Violence is never the answer.]"
   8: 0x004E [0x25] WAIT_DIALOG_SELECT()
   9: 0x004F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0079
  10: 0x0057 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 11: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+ 11: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "Rrright! Let's get down to business. I'm Jhen Durheka, in charge of surveying water quality here."
  12: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+ 13: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "Despite my grrruff demeanor, I'm more of a thinker than a fighter. Even my reflexes aren't enough to blitz past those Velkk in the way."
  14: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0060 [0x03] Work_Zone[2] = 2382*
- 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+ 16: 0x0065 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "That's where you come in--assuming you can mangle anything that gets in your way. Take this $3 and procure samples at both the source and the mouth of the river, as well as at the Dho Gates."
  17: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
+ 18: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
     → "The water, you see, flows down from the ravine here into the gates."
  19: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7840*)
+ 20: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
     → "The Velkk aren't the only thing to look out for. The cliffs are steep, and the last thing I want is some pioneer bloodying up the grrround below. Now, off with you!"
  21: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0071 [0x03] Work_Zone[1] = 1*
  23: 0x0076 [0x01] GOTO 0x0088
  24: 0x0079 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0088
- 25: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+ 25: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "Oh, come on. You must have seen whole rrrivers of blood in your time. What's one more trickle? If you ever need your thirrrst satiated, I'll be right here."
  26: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0085 [0x01] GOTO 0x0088
@@ -210,7 +210,7 @@ SUBROUTINE_0088:
   1: 0x009E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7841*)
+  4: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
     → "You got gunk in your ears? I need you to take samples upstream, downstream, and at the Dho Gates. Have at it before those Velkk decide to multiply!"
   5: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00B3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -246,13 +246,13 @@ SUBROUTINE_0088:
   2: 0x00CA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  5: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7842*)
+  5: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
     → "Wow, you actually--I mean, I didn't expect that you-- Well, either way, you made it back in one piece! Now about that surrrveying..."
   6: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7843*)
+  7: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
     → "Hmm...this is quite intrrriguing. Unlike Yorcia and Hennetiel, the water here is pure. The pollution in those areas must be coming from Cirdas Caverns."
   8: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+  9: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "You've been a biggerrr help than I thought--and you gave the Velkk a bit of a scare too! Here's a little something for your trouble."
  10: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

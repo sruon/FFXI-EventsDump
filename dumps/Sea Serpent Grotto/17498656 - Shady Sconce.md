@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DAD      |        7597 |
+|       0 | 0x1DAE      |        7598 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00EA      |         234 |
@@ -36,13 +36,13 @@
 |      12 | 0x000F      |          15 |
 |      13 | 0x001E      |          30 |
 |      14 | 0x01D2      |         466 |
-|      15 | 0x1DAF      |        7599 |
-|      16 | 0x1DB1      |        7601 |
+|      15 | 0x1DB0      |        7600 |
+|      16 | 0x1DB2      |        7602 |
 |      17 | 0x00C8      |         200 |
 
 ## String References
 
-- **7597**: Hold out your hand? [Yes./No.]
+- **7598**: Hold out your hand? [Yes./No.]
 
 ## Events
 
@@ -90,7 +90,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x24] CREATE_DIALOG(message_id=7597*, default_option=1*, option_flags=0*)
+  1: 0x0002 [0x24] CREATE_DIALOG(message_id=7598*, default_option=1*, option_flags=0*)
     → "Hold out your hand? [Yes./No.]"
   2: 0x0009 [0x25] WAIT_DIALOG_SELECT()
   3: 0x000A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026
@@ -142,7 +142,7 @@ SUBROUTINE_0026:
 
 ```
   0: 0x0028 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0029 [0x24] CREATE_DIALOG(message_id=7597*, default_option=1*, option_flags=0*)
+  1: 0x0029 [0x24] CREATE_DIALOG(message_id=7598*, default_option=1*, option_flags=0*)
     → "Hold out your hand? [Yes./No.]"
   2: 0x0030 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0031 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0054
@@ -173,10 +173,10 @@ SUBROUTINE_0061:
  26: 0x00CE [0x1C] WAIT(30* ticks)
  27: 0x00D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "g002" with entities [LocalPlayer, LocalPlayer], work=[466*, 0*]
  28: 0x00E2 [0x1A] CALL_SUBROUTINE(address=0x0126)
- 29: 0x00E5 [0x2B] Henchman Moogle (ID: 17498662/0x010B0226) [7599*]:
+ 29: 0x00E5 [0x2B] Henchman Moogle (ID: 17498662/0x010B0226) [7600*]:
     → "Yer lookin' for the boss, y'say? Looks like it ain't your lucky day. He just left."
  30: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00ED [0x2B] Henchman Moogle (ID: 17498662/0x010B0226) [7601*]:
+ 31: 0x00ED [0x2B] Henchman Moogle (ID: 17498662/0x010B0226) [7602*]:
     → "I mean, if the boss caught me blabbin' to everyone 'n their uncle about his favorite huntin' spot past the Sahagins' ornamented door, I'd be cruisin' for a serious bruisin'. So scram!"
  32: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00F5 [0x27] REQ_SET(priority=0x10, entity_id=Henchman Moogle (ID: 17498662/0x010B0226), tag_num=0x05)

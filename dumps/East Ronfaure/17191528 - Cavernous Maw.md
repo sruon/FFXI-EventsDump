@@ -21,9 +21,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBB      |        7355 |
+|       0 | 0x1CBC      |        7356 |
 |       1 | 0x038E      |         910 |
-|       2 | 0x1CBD      |        7357 |
+|       2 | 0x1CBE      |        7358 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -32,14 +32,14 @@
 |       8 | 0x0155      |         341 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0B1B      |        2843 |
-|      11 | 0x1CCC      |        7372 |
+|      11 | 0x1CCD      |        7373 |
 |      12 | 0x0002      |           2 |
 
 ## String References
 
-- **7355**: An unseen force is drawing you towards the maw.
-- **7357**: Raise your $3? [Yes./No.]
-- **7372**: To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]
+- **7356**: An unseen force is drawing you towards the maw.
+- **7358**: Raise your $3? [Yes./No.]
+- **7373**: To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]
 
 ## Events
 
@@ -98,11 +98,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7355*]:
+  1: 0x0003 [0x48] [System] [7356*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 910*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7358*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CC
@@ -182,16 +182,16 @@ SUBROUTINE_00D7:
 
 ```
   0: 0x00DB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00DD [0x48] [System] [7355*]:
+  1: 0x00DD [0x48] [System] [7356*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E1 [0x03] Work_Zone[2] = 2843*
-  4: 0x00E6 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
+  4: 0x00E6 [0x24] CREATE_DIALOG(message_id=7358*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x00ED [0x25] WAIT_DIALOG_SELECT()
   6: 0x00EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0281
   7: 0x00F6 [0x03] Work_Zone[2] = 0*
-  8: 0x00FB [0x24] CREATE_DIALOG(message_id=7372*, default_option=2*, option_flags=0*)
+  8: 0x00FB [0x24] CREATE_DIALOG(message_id=7373*, default_option=2*, option_flags=0*)
     → "To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]"
   9: 0x0102 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0103 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BB

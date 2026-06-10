@@ -26,17 +26,17 @@
 |---------|-------------|-------------|
 |       0 | 0x000A      |          10 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1E20      |        7712 |
-|       3 | 0x1E21      |        7713 |
-|       4 | 0x1E22      |        7714 |
-|       5 | 0x1E23      |        7715 |
+|       2 | 0x1E21      |        7713 |
+|       3 | 0x1E22      |        7714 |
+|       4 | 0x1E23      |        7715 |
+|       5 | 0x1E24      |        7716 |
 
 ## String References
 
-- **7712**: Hello. I am Esmeralda. I am the consul of the Consulate of Jeuno in Windurst.
-- **7713**: Windurst and Jeuno formed an amicable alliance twenty years ago at the end of the Great War. It is for and on behalf of this alliance that we have consulates and embassies in each other's countries.
-- **7714**: Our main function is to render assistance to citizens of Jeuno who encounter trouble in foreign lands. So, most of the people who visit here are from Jeuno.
-- **7715**: As you are not a citizen of Jeuno, I assume this facility is of no immediate consequence to you.
+- **7713**: Hello. I am Esmeralda. I am the consul of the Consulate of Jeuno in Windurst.
+- **7714**: Windurst and Jeuno formed an amicable alliance twenty years ago at the end of the Great War. It is for and on behalf of this alliance that we have consulates and embassies in each other's countries.
+- **7715**: Our main function is to render assistance to citizens of Jeuno who encounter trouble in foreign lands. So, most of the people who visit here are from Jeuno.
+- **7716**: As you are not a citizen of Jeuno, I assume this facility is of no immediate consequence to you.
 
 ## Events
 
@@ -161,10 +161,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Esmeralda (ID: 17756206/0x010EF02E), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7712*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
     → "Hello. I am Esmeralda. I am the consul of the Consulate of Jeuno in Windurst."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7713*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
     → "Windurst and Jeuno formed an amicable alliance twenty years ago at the end of the Great War. It is for and on behalf of this alliance that we have consulates and embassies in each other's countries."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Esmeralda (ID: 17756206/0x010EF02E), tag_num=0x03)
@@ -198,10 +198,10 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Esmeralda (ID: 17756206/0x010EF02E), tag_num=0x01)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7714*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
     → "Our main function is to render assistance to citizens of Jeuno who encounter trouble in foreign lands. So, most of the people who visit here are from Jeuno."
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
+  6: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
     → "As you are not a citizen of Jeuno, I assume this facility is of no immediate consequence to you."
   7: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0067 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Esmeralda (ID: 17756206/0x010EF02E), tag_num=0x03)

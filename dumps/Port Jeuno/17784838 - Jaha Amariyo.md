@@ -71,7 +71,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
-|       1 | 0x1B8D      |        7053 |
+|       1 | 0x1B8E      |        7054 |
 |       2 | 0x003C      |          60 |
 |       3 | 0x001E      |          30 |
 |       4 | 0x0015      |          21 |
@@ -159,7 +159,7 @@
 
 ## String References
 
-- **7053**: Wow! Jeuno's a nice town, just like the postcards! I wanna live here when I grow up.
+- **7054**: Wow! Jeuno's a nice town, just like the postcards! I wanna live here when I grow up.
 
 ## Events
 
@@ -206,7 +206,7 @@
 
 ```
   0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=80*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7053*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7054*)
     → "Wow! Jeuno's a nice town, just like the postcards! I wanna live here when I grow up."
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

@@ -23,13 +23,13 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003C      |          60 |
-|       2 | 0x301F      |       12319 |
-|       3 | 0x3020      |       12320 |
+|       2 | 0x3020      |       12320 |
+|       3 | 0x3021      |       12321 |
 
 ## String References
 
-- **12319**: Before the onset of war, President Prien rallied the strong support of the Galkan citizenry. That was the key to his winning the election.
-- **12320**: But it seems his campaign promises of improving living standards have been complicated by the outbreak of hostilities.
+- **12320**: Before the onset of war, President Prien rallied the strong support of the Galkan citizenry. That was the key to his winning the election.
+- **12321**: But it seems his campaign promises of improving living standards have been complicated by the outbreak of hostilities.
 
 ## Events
 
@@ -79,10 +79,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=60*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12319*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12320*)
     → "Before the onset of war, President Prien rallied the strong support of the Galkan citizenry. That was the key to his winning the election."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12320*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12321*)
     → "But it seems his campaign promises of improving living standards have been complicated by the outbreak of hostilities."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT

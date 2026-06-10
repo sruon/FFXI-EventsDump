@@ -21,13 +21,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF5      |        7413 |
-|       1 | 0x1CF6      |        7414 |
+|       0 | 0x1CF6      |        7414 |
+|       1 | 0x1CF7      |        7415 |
 
 ## String References
 
-- **7413**: This is the east magic towerrr. Beneath here lies the Horutoto Ruins that have existed here in Sarutabaruta long beforrre Windurst even came into existence.
-- **7414**: The ministerrr of the Orastery is in the laborrratory beneath here. To get there, you should check the walls verrry carrrefully.
+- **7414**: This is the east magic towerrr. Beneath here lies the Horutoto Ruins that have existed here in Sarutabaruta long beforrre Windurst even came into existence.
+- **7415**: The ministerrr of the Orastery is in the laborrratory beneath here. To get there, you should check the walls verrry carrrefully.
 
 ## Events
 
@@ -75,7 +75,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "This is the east magic towerrr. Beneath here lies the Horutoto Ruins that have existed here in Sarutabaruta long beforrre Windurst even came into existence."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -105,7 +105,7 @@
   0: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0015 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0016 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+  3: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "The ministerrr of the Orastery is in the laborrratory beneath here. To get there, you should check the walls verrry carrrefully."
   4: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -61,8 +61,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1BBC      |        7100 |
-|       2 | 0x1BBD      |        7101 |
+|       1 | 0x1BBD      |        7101 |
+|       2 | 0x1BBE      |        7102 |
 |       3 | 0x0015      |          21 |
 |       4 | 0x005A      |          90 |
 |       5 | 0x000D      |          13 |
@@ -145,8 +145,8 @@
 
 ## String References
 
-- **7100**: I can't believe those boats without wings can fly. I'll never ride on such a thing, so I walk everywhere.
-- **7101**: I'm sure they're a fine way to get around, but the whole concept seems fake to me.
+- **7101**: I can't believe those boats without wings can fly. I'll never ride on such a thing, so I walk everywhere.
+- **7102**: I'm sure they're a fine way to get around, but the whole concept seems fake to me.
 
 ## Events
 
@@ -199,10 +199,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
     → "I can't believe those boats without wings can fly. I'll never ride on such a thing, so I walk everywhere."
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
+  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7102*)
     → "I'm sure they're a fine way to get around, but the whole concept seems fake to me."
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*

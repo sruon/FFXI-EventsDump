@@ -94,237 +94,237 @@
 |       2 | 0x002A      |          42 |
 |       3 | 0x0029      |          41 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2586      |        9606 |
-|       6 | 0x2587      |        9607 |
-|       7 | 0x2093      |        8339 |
-|       8 | 0x2094      |        8340 |
-|       9 | 0x2095      |        8341 |
+|       5 | 0x2587      |        9607 |
+|       6 | 0x2588      |        9608 |
+|       7 | 0x2094      |        8340 |
+|       8 | 0x2095      |        8341 |
+|       9 | 0x2096      |        8342 |
 |      10 | 0x00C8      |         200 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x003C      |          60 |
 |      13 | 0x018F      |         399 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x008A      |         138 |
-|      16 | 0x1E3F      |        7743 |
+|      16 | 0x1E40      |        7744 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x1E40      |        7744 |
-|      19 | 0x1E41      |        7745 |
+|      18 | 0x1E41      |        7745 |
+|      19 | 0x1E42      |        7746 |
 |      20 | 0x0050      |          80 |
 |      21 | 0x012C      |         300 |
-|      22 | 0x1E37      |        7735 |
-|      23 | 0x1E38      |        7736 |
-|      24 | 0x1E39      |        7737 |
-|      25 | 0x1E3A      |        7738 |
-|      26 | 0x1E3B      |        7739 |
-|      27 | 0x1E3C      |        7740 |
-|      28 | 0x1E3D      |        7741 |
-|      29 | 0x1E3E      |        7742 |
-|      30 | 0x1E34      |        7732 |
-|      31 | 0x1E35      |        7733 |
-|      32 | 0x1E36      |        7734 |
-|      33 | 0x1E69      |        7785 |
-|      34 | 0x1E6A      |        7786 |
+|      22 | 0x1E38      |        7736 |
+|      23 | 0x1E39      |        7737 |
+|      24 | 0x1E3A      |        7738 |
+|      25 | 0x1E3B      |        7739 |
+|      26 | 0x1E3C      |        7740 |
+|      27 | 0x1E3D      |        7741 |
+|      28 | 0x1E3E      |        7742 |
+|      29 | 0x1E3F      |        7743 |
+|      30 | 0x1E35      |        7733 |
+|      31 | 0x1E36      |        7734 |
+|      32 | 0x1E37      |        7735 |
+|      33 | 0x1E6A      |        7786 |
+|      34 | 0x1E6B      |        7787 |
 |      35 | 0x000C      |          12 |
-|      36 | 0x1E42      |        7746 |
-|      37 | 0x1E43      |        7747 |
-|      38 | 0x1E45      |        7749 |
-|      39 | 0x1E44      |        7748 |
-|      40 | 0x1E66      |        7782 |
-|      41 | 0x1E67      |        7783 |
-|      42 | 0x1E68      |        7784 |
-|      43 | 0x1E46      |        7750 |
+|      36 | 0x1E43      |        7747 |
+|      37 | 0x1E44      |        7748 |
+|      38 | 0x1E46      |        7750 |
+|      39 | 0x1E45      |        7749 |
+|      40 | 0x1E67      |        7783 |
+|      41 | 0x1E68      |        7784 |
+|      42 | 0x1E69      |        7785 |
+|      43 | 0x1E47      |        7751 |
 |      44 | 0x0078      |         120 |
-|      45 | 0x1E5A      |        7770 |
-|      46 | 0x1E5B      |        7771 |
-|      47 | 0x1E5D      |        7773 |
-|      48 | 0x1E5E      |        7774 |
-|      49 | 0x1E60      |        7776 |
-|      50 | 0x1E61      |        7777 |
-|      51 | 0x1E62      |        7778 |
+|      45 | 0x1E5B      |        7771 |
+|      46 | 0x1E5C      |        7772 |
+|      47 | 0x1E5E      |        7774 |
+|      48 | 0x1E5F      |        7775 |
+|      49 | 0x1E61      |        7777 |
+|      50 | 0x1E62      |        7778 |
+|      51 | 0x1E63      |        7779 |
 |      52 | 0x00C9      |         201 |
-|      53 | 0x1E63      |        7779 |
-|      54 | 0x1E64      |        7780 |
-|      55 | 0x1E65      |        7781 |
-|      56 | 0x1E6C      |        7788 |
-|      57 | 0x1E6B      |        7787 |
-|      58 | 0x23C0      |        9152 |
+|      53 | 0x1E64      |        7780 |
+|      54 | 0x1E65      |        7781 |
+|      55 | 0x1E66      |        7782 |
+|      56 | 0x1E6D      |        7789 |
+|      57 | 0x1E6C      |        7788 |
+|      58 | 0x23C1      |        9153 |
 |      59 | 0x0013      |          19 |
 |      60 | 0x0007      |           7 |
 |      61 | 0x0031      |          49 |
 |      62 | 0x0008      |           8 |
 |      63 | 0x0009      |           9 |
-|      64 | 0x1E6E      |        7790 |
-|      65 | 0x1E6F      |        7791 |
-|      66 | 0x1E70      |        7792 |
-|      67 | 0x1E71      |        7793 |
-|      68 | 0x1E72      |        7794 |
-|      69 | 0x1E73      |        7795 |
-|      70 | 0x1E74      |        7796 |
-|      71 | 0x20B0      |        8368 |
-|      72 | 0x20B1      |        8369 |
-|      73 | 0x20B3      |        8371 |
-|      74 | 0x20B2      |        8370 |
-|      75 | 0x20B4      |        8372 |
-|      76 | 0x20B5      |        8373 |
-|      77 | 0x20B6      |        8374 |
-|      78 | 0x20B7      |        8375 |
-|      79 | 0x20B8      |        8376 |
-|      80 | 0x20B9      |        8377 |
-|      81 | 0x20BA      |        8378 |
-|      82 | 0x20BB      |        8379 |
-|      83 | 0x2584      |        9604 |
-|      84 | 0x2585      |        9605 |
-|      85 | 0x199A      |        6554 |
-|      86 | 0x20BC      |        8380 |
-|      87 | 0x20BD      |        8381 |
-|      88 | 0x20BE      |        8382 |
-|      89 | 0x2101      |        8449 |
-|      90 | 0x2112      |        8466 |
-|      91 | 0x2113      |        8467 |
-|      92 | 0x2114      |        8468 |
-|      93 | 0x2128      |        8488 |
-|      94 | 0x2129      |        8489 |
-|      95 | 0x20C8      |        8392 |
-|      96 | 0x20C9      |        8393 |
+|      64 | 0x1E6F      |        7791 |
+|      65 | 0x1E70      |        7792 |
+|      66 | 0x1E71      |        7793 |
+|      67 | 0x1E72      |        7794 |
+|      68 | 0x1E73      |        7795 |
+|      69 | 0x1E74      |        7796 |
+|      70 | 0x1E75      |        7797 |
+|      71 | 0x20B1      |        8369 |
+|      72 | 0x20B2      |        8370 |
+|      73 | 0x20B4      |        8372 |
+|      74 | 0x20B3      |        8371 |
+|      75 | 0x20B5      |        8373 |
+|      76 | 0x20B6      |        8374 |
+|      77 | 0x20B7      |        8375 |
+|      78 | 0x20B8      |        8376 |
+|      79 | 0x20B9      |        8377 |
+|      80 | 0x20BA      |        8378 |
+|      81 | 0x20BB      |        8379 |
+|      82 | 0x20BC      |        8380 |
+|      83 | 0x2585      |        9605 |
+|      84 | 0x2586      |        9606 |
+|      85 | 0x199B      |        6555 |
+|      86 | 0x20BD      |        8381 |
+|      87 | 0x20BE      |        8382 |
+|      88 | 0x20BF      |        8383 |
+|      89 | 0x2102      |        8450 |
+|      90 | 0x2113      |        8467 |
+|      91 | 0x2114      |        8468 |
+|      92 | 0x2115      |        8469 |
+|      93 | 0x2129      |        8489 |
+|      94 | 0x212A      |        8490 |
+|      95 | 0x20C9      |        8393 |
+|      96 | 0x20CA      |        8394 |
 |      97 | 0x00A3      |         163 |
 |      98 | 0x007F      |         127 |
 |      99 | 0x0064      |         100 |
-|     100 | 0x262D      |        9773 |
-|     101 | 0x262E      |        9774 |
-|     102 | 0x262F      |        9775 |
+|     100 | 0x262E      |        9774 |
+|     101 | 0x262F      |        9775 |
+|     102 | 0x2630      |        9776 |
 |     103 | 0x00D3      |         211 |
 |     104 | 0x09E5      |        2533 |
-|     105 | 0x2630      |        9776 |
+|     105 | 0x2631      |        9777 |
 |     106 | 0x0004      |           4 |
-|     107 | 0x2631      |        9777 |
-|     108 | 0x2632      |        9778 |
-|     109 | 0x2633      |        9779 |
-|     110 | 0x2634      |        9780 |
-|     111 | 0x2635      |        9781 |
-|     112 | 0x2636      |        9782 |
-|     113 | 0x2637      |        9783 |
-|     114 | 0x2638      |        9784 |
-|     115 | 0x2639      |        9785 |
-|     116 | 0x263A      |        9786 |
-|     117 | 0x263B      |        9787 |
+|     107 | 0x2632      |        9778 |
+|     108 | 0x2633      |        9779 |
+|     109 | 0x2634      |        9780 |
+|     110 | 0x2635      |        9781 |
+|     111 | 0x2636      |        9782 |
+|     112 | 0x2637      |        9783 |
+|     113 | 0x2638      |        9784 |
+|     114 | 0x2639      |        9785 |
+|     115 | 0x263A      |        9786 |
+|     116 | 0x263B      |        9787 |
+|     117 | 0x263C      |        9788 |
 |     118 | 0x0097      |         151 |
 |     119 | 0x00A0      |         160 |
-|     120 | 0x263C      |        9788 |
-|     121 | 0x263D      |        9789 |
-|     122 | 0x264A      |        9802 |
-|     123 | 0x2646      |        9798 |
-|     124 | 0x2647      |        9799 |
-|     125 | 0x2648      |        9800 |
-|     126 | 0x2649      |        9801 |
-|     127 | 0x264B      |        9803 |
-|     128 | 0x264C      |        9804 |
-|     129 | 0x264D      |        9805 |
-|     130 | 0x2235      |        8757 |
-|     131 | 0x2236      |        8758 |
+|     120 | 0x263D      |        9789 |
+|     121 | 0x263E      |        9790 |
+|     122 | 0x264B      |        9803 |
+|     123 | 0x2647      |        9799 |
+|     124 | 0x2648      |        9800 |
+|     125 | 0x2649      |        9801 |
+|     126 | 0x264A      |        9802 |
+|     127 | 0x264C      |        9804 |
+|     128 | 0x264D      |        9805 |
+|     129 | 0x264E      |        9806 |
+|     130 | 0x2236      |        8758 |
+|     131 | 0x2237      |        8759 |
 
 ## String References
 
-- **6554**: Obtained $0 gil.
-- **7732**: You actually accepted the Aurastery's skills exam assignment again? The best of luck this time too, then.
-- **7733**: You remember the errand, I recall, but let me rapidly reiterate to be real sure...
-- **7734**: We're setting up a skills test for our school's students to see how many monsters they can slay.
-- **7735**: Are you the adventurer who accepted the Aurastery's ardent assignment? Excellent! We were excitedly expecting you.
-- **7736**: The School of Magic is setting up a skills test to see how many monsters the students of the advanced class can slay.
-- **7737**: We applied for an able adventurer to assist us in arranging our skills exam, all right?
-- **7738**: You're expecting an elementary exam, except at the School of Magic it is an enormous event that affects the educatees' enlightened existence and so we extoll excruciating exactness.
-- **7739**: First, fine friend, find out how ferociously fierce the foes are in the field where the skills test is being formulated.
-- **7740**: Carry this charmed doll to Tahrongi Canyon, can you? My magic mannequin will memorize how many monsters you maim there.
-- **7741**: The doll's enchantment expires at the end of one day. Once the wizardly works wear off it's worthless... So kindly come back quick.
-- **7742**: I'll immediately magick my miniature marionette. I presume you are punctually prepared?
-- **7743**: Ready already? [Roger, Roger!/Naysay, nay!]
-- **7744**: Incantation incorporated. Godspeed and Goddess bless!
-- **7745**: ...Return when you're arranged, not deranged.
-- **7746**: See how many monsters you may maim in Tahrongi Canyon, can you? The counting charm cast on the magic doll disappears in a day. Better be back by then!
-- **7747**: The skills test will be performed in threes, pertaining it's particularly preferable to appropriate a party with experienced explorers.
-- **7748**: Wow...I avow it's now $1! So, lo, $2 [hour/hours] to go. Sublime! You've plenty of time till the chime.
-- **7749**: Gee, I see it after $1 be. Fussed! There's just $2 [hour/hours] to bust. Get along there! Not much longer to the gong, hear?
-- **7750**: Blast... It's at last past $1. I'm bereft there's only $2 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me.
-- **7770**: Reckoning your recorded results...
-- **7771**: Mysterious! My magic doll must be mucking up...? Current calculations confirm you only defeated $3 monsters in the duration of a day.
-- **7773**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
-- **7774**: Oh so so-so! <Sigh>...Why, if you were my spry student, you'd only obtain the order of 55 points, pushing it to pass!
-- **7776**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
-- **7777**: That implies a passing grade of precisely 85 points, I presume.
-- **7778**: Well then, the next treacherous terrain to try will be the Buburimu Peninsula, I bet. But still, that will have to wait till we've time to kill. Then that's all, thanks.
-- **7779**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
-- **7780**: That's high higher than I had hoped. Well, it wasn't worth worrying with the talk that the monsters have grown potently more powerful lately.
-- **7781**: The next treacherous terrain to try will be the Buburimu Peninsula, I proceed to presume. But still, that will wait till we've time to kill. Then that's all forthwith, thank thee.
-- **7782**: Oh, you overtly overdid it, I say! The wizardly works have wasted away on our magic doll today.
-- **7783**: So sad, but too bad... S'pose you'll simply have to start over from scratch...
-- **7784**: Attempt it again after you've, say, significantly strengthened your skills some, eh? Sorry, but against all ambition, I'm failing you on my magician's mission.
-- **7785**: This time, try to maim as many monsters as you may in the insular Buburimu Peninsula today.
-- **7786**: The charming charm cast on the magic doll disappears in two days. So come back quick before the wizardly works wear off once more.
-- **7787**: Wow...I avow it's now $5! So, lo, $6 [hour/hours] to go. Sublime! You've plenty of time till the chime.
-- **7788**: Gee, I see it after $5 be. Fussed! There's just $6 [hour/hours] to bust. Get along there! Not much longer till the gong, hear?
-- **7790**: Merci... But, hmm, my, how mighty mysterious!? My magic doll must've gone amuck...?
-- **7791**: My meticulous math maintains you maimed a mere $3 monsters in two miserable days. Ah, how abominably atrocious!
-- **7792**: Attempt it again after you've, say, strengthened your skills some, okay? Sorry, but against all ambition, I'm failing you on the commissioned mission...
-- **7793**: My diligent determinations declare you defeated $3 despicable deed-doers during the duration of dual days!
-- **7794**: Rah-rah! Rather well run there! We'll refer to your results record, sure I am, when we replan our next skills exam!
-- **7795**: We'll give you word when we hold the test, which you're always welcome to watch!
-- **7796**: My meticulous math maintains you massacred $3 monsters in a matter of days. Ah, you actually are an amazingly able adventurer!
-- **8339**: This semester's students, you see, differ tremendously in ability. It's a pretty perplexing problem!
-- **8340**: Aim at the able adolescent, and the late-learners are left lagging.
-- **8341**: Lower the level and lo...the superiority and selectness of the students this school sends out suffer. How my haggard head hurts!
-- **8368**: Hey, how dare you there! You mustn't touch my teaching materials!
-- **8369**: Huff! I don't have enough stuff as it is. Fumble-mumble-grumble...
-- **8370**: Hey, you'll do! Can I ask you to do a tiny task, too?
-- **8371**: Hear his humble mumble? [Listlessly listen./Downright decline.]
-- **8372**: Please part promptly. Dumbly dawdling there is damned distracting!
-- **8373**: I lack the indispensable items essential for my important lesson!
-- **8374**: Seems the sum of students is the same, but the number of them making mistakes has multiplied. The level of the little learners lowers every year lately...
-- **8375**: Anyway, attempt to acquire $1 and $2.
-- **8376**: Actually, acquiring $2 is amazingly arduous. But I best beg and beseech you, then bid you bye-bye!
-- **8377**: Obtain one $1 and one $2 or I'll obstinately run out of replacements.
-- **8378**: At last I can conduct a comely class!
-- **8379**: Right...regarding your reward... Sorry it's not so stately a sum, but some is better than none...
-- **8380**: This semester's students, you will see, differ tremendously in capability. It's a pretty perplexing problem!
-- **8381**: Aim at the able adolescent and the late-learners are left lagging.
-- **8382**: Lower the level and lo...the superiority and selectness of the students this school sends out suffers. How my haggard head hurts!
-- **8392**: What kind of person would pilfer Ms. Fuepepe's papers?
-- **8393**: What would anyone want with them?
-- **8449**: Our horticultural homework is required for the runts to realize the Rhinostery's remarkable role. Plus, it helps us pick which pupils have a particular talent in that area for recommendation to the Rhinostery.
-- **8466**: I assume it's not appropriate to articulate this at an adventurer such as yourself, but...
-- **8467**: Lately there's a lamentable lad who asks adventurers to arrange his homework for him. He worries me greatly!
-- **8468**: If one overly relies on others, then when there isn't anyone around to assist you, you run aground! One needs to stand on one's own two feet.
-- **8488**: An accident occurring during a precarious practical at the Orastery's Mage Academy? This is true? Tsk, that's terrible! For one of our students to be so capriciously careless...
-- **8489**: A teacher must take trouble to be true to their task. Sounds like some seriously slack supervision! That's through and through, one of Mr. Pechiru-Mashiru's lessons for you...
-- **8757**: Principal Koru-Moru is searching for a scholar knowledgeable in the art of Alchemy, eh? Still the dilly-dallier, I see...
-- **8758**: I wonder if he's seriously considering studying something so sinister as Alchemy? If so, he's not setting a good example for his students, is he, eh?
-- **9152**: Blast... It's past $5 at last. I'm bereft there's less than $6 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me.
-- **9604**: If you pursue the procurement of additional $1 and $2, please proceed here posthaste!
-- **9605**: Our prompt payment will be a pleasant perk!
-- **9606**: Perchance, if you pursue the procurement of additional $1 and $2, please proceed here posthaste!
-- **9607**: Our prompt payment will be a pleasant perk!
-- **9773**: Sorry to keep you waiting. I guess you must be the gallant who got our mission at the gatehouse.
-- **9774**: Are you acquainted with the amazing academic who administers our School of Magic?
-- **9775**: Acquainted with the amazing academic? [Absolutely!/Actually, no.]
-- **9776**: [Ah, so you've met/I'm sure you've met] Professor Koru-Moru. As you are assuredly aware, Professor Koru-Moru rarely roams from his residence in Windurst Walls... He barely bothers with the barest bones of his principal business...
-- **9777**: Four years ago, he took a rest from his responsible role. During that time, the person who took his tenure had the title of Sedal-Godjal.
-- **9778**: With his dynamic endurance and diligent deductions, Sedal-Godjal was a marvelous nominee for Minister of the Aurastery.
-- **9779**: However, for some reason, he eloped and left us in the lurch. We put Professor Koru-Moru back in the position of principal, and now you perceive our present predicament.
-- **9780**: For three long years our lecturers have lived with the lack of a leader and luckily allayed any alarming eventualities. But if we continue to conduct our school on this course, I am concerned it will conflict with the cultivation of our students.
-- **9781**: This is where you come in. I supplicate you to search the span of Vana'diel, and bring back Sedal-Godjal.
-- **9782**: Our elusive educator was equipped with $6. This "Star Seeker" should come in handy.
-- **9783**: Professor Koru-Moru called for the construction of this Star Seeker in case the location of the principal's ring became obfuscated. It can sniff out the power of the stars and the moon infused in the ring.
-- **9784**: When the professor was young and careless, he used it to search for the ring whenever he misplaced it.
-- **9785**: The Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you.
-- **9786**: Stand by. Power on!
-- **9788**: Use the magic doll you have been given to follow the magical emanations of the principal's ring and track down our wayward Mr. Sedal-Godjal.
-- **9789**: Don't forget the Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you.
-- **9798**: Ah! Have you sniffed out the slippery Sedal-Godjal?
-- **9799**: ...I see. So that's why he gave up the principal position at the Aurastery and parted for parts unknown.
-- **9800**: Of course, it's still unforgivable! However, since he seems to be regretting his actions and can't actually move from where he is, I guess we have to leave it at that.
-- **9801**: Now, please return the magic doll.
-- **9802**: ...Excuse me? You declare that the doll once gave you deceitful directions?
-- **9803**: That's strange. It was thoroughly tested before I entrusted it to you. The easiest explanation is that the doll sensed an emanation of energy exceeding that of the ring.
-- **9804**: In closing, there is the case of Mojiji... With the sudden cessation of Mojiji's correspondence, Professor Koru-Moru slid into an unsettling slump.
-- **9805**: Let me just say that some of us struck on the same solution as sly old Sedal-Godjal...
+- **6555**: Obtained $0 gil.
+- **7733**: You actually accepted the Aurastery's skills exam assignment again? The best of luck this time too, then.
+- **7734**: You remember the errand, I recall, but let me rapidly reiterate to be real sure...
+- **7735**: We're setting up a skills test for our school's students to see how many monsters they can slay.
+- **7736**: Are you the adventurer who accepted the Aurastery's ardent assignment? Excellent! We were excitedly expecting you.
+- **7737**: The School of Magic is setting up a skills test to see how many monsters the students of the advanced class can slay.
+- **7738**: We applied for an able adventurer to assist us in arranging our skills exam, all right?
+- **7739**: You're expecting an elementary exam, except at the School of Magic it is an enormous event that affects the educatees' enlightened existence and so we extoll excruciating exactness.
+- **7740**: First, fine friend, find out how ferociously fierce the foes are in the field where the skills test is being formulated.
+- **7741**: Carry this charmed doll to Tahrongi Canyon, can you? My magic mannequin will memorize how many monsters you maim there.
+- **7742**: The doll's enchantment expires at the end of one day. Once the wizardly works wear off it's worthless... So kindly come back quick.
+- **7743**: I'll immediately magick my miniature marionette. I presume you are punctually prepared?
+- **7744**: Ready already? [Roger, Roger!/Naysay, nay!]
+- **7745**: Incantation incorporated. Godspeed and Goddess bless!
+- **7746**: ...Return when you're arranged, not deranged.
+- **7747**: See how many monsters you may maim in Tahrongi Canyon, can you? The counting charm cast on the magic doll disappears in a day. Better be back by then!
+- **7748**: The skills test will be performed in threes, pertaining it's particularly preferable to appropriate a party with experienced explorers.
+- **7749**: Wow...I avow it's now $1! So, lo, $2 [hour/hours] to go. Sublime! You've plenty of time till the chime.
+- **7750**: Gee, I see it after $1 be. Fussed! There's just $2 [hour/hours] to bust. Get along there! Not much longer to the gong, hear?
+- **7751**: Blast... It's at last past $1. I'm bereft there's only $2 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me.
+- **7771**: Reckoning your recorded results...
+- **7772**: Mysterious! My magic doll must be mucking up...? Current calculations confirm you only defeated $3 monsters in the duration of a day.
+- **7774**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
+- **7775**: Oh so so-so! <Sigh>...Why, if you were my spry student, you'd only obtain the order of 55 points, pushing it to pass!
+- **7777**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
+- **7778**: That implies a passing grade of precisely 85 points, I presume.
+- **7779**: Well then, the next treacherous terrain to try will be the Buburimu Peninsula, I bet. But still, that will have to wait till we've time to kill. Then that's all, thanks.
+- **7780**: Current calculations conclude you conquered $3 creatures in the continuance of a day.
+- **7781**: That's high higher than I had hoped. Well, it wasn't worth worrying with the talk that the monsters have grown potently more powerful lately.
+- **7782**: The next treacherous terrain to try will be the Buburimu Peninsula, I proceed to presume. But still, that will wait till we've time to kill. Then that's all forthwith, thank thee.
+- **7783**: Oh, you overtly overdid it, I say! The wizardly works have wasted away on our magic doll today.
+- **7784**: So sad, but too bad... S'pose you'll simply have to start over from scratch...
+- **7785**: Attempt it again after you've, say, significantly strengthened your skills some, eh? Sorry, but against all ambition, I'm failing you on my magician's mission.
+- **7786**: This time, try to maim as many monsters as you may in the insular Buburimu Peninsula today.
+- **7787**: The charming charm cast on the magic doll disappears in two days. So come back quick before the wizardly works wear off once more.
+- **7788**: Wow...I avow it's now $5! So, lo, $6 [hour/hours] to go. Sublime! You've plenty of time till the chime.
+- **7789**: Gee, I see it after $5 be. Fussed! There's just $6 [hour/hours] to bust. Get along there! Not much longer till the gong, hear?
+- **7791**: Merci... But, hmm, my, how mighty mysterious!? My magic doll must've gone amuck...?
+- **7792**: My meticulous math maintains you maimed a mere $3 monsters in two miserable days. Ah, how abominably atrocious!
+- **7793**: Attempt it again after you've, say, strengthened your skills some, okay? Sorry, but against all ambition, I'm failing you on the commissioned mission...
+- **7794**: My diligent determinations declare you defeated $3 despicable deed-doers during the duration of dual days!
+- **7795**: Rah-rah! Rather well run there! We'll refer to your results record, sure I am, when we replan our next skills exam!
+- **7796**: We'll give you word when we hold the test, which you're always welcome to watch!
+- **7797**: My meticulous math maintains you massacred $3 monsters in a matter of days. Ah, you actually are an amazingly able adventurer!
+- **8340**: This semester's students, you see, differ tremendously in ability. It's a pretty perplexing problem!
+- **8341**: Aim at the able adolescent, and the late-learners are left lagging.
+- **8342**: Lower the level and lo...the superiority and selectness of the students this school sends out suffer. How my haggard head hurts!
+- **8369**: Hey, how dare you there! You mustn't touch my teaching materials!
+- **8370**: Huff! I don't have enough stuff as it is. Fumble-mumble-grumble...
+- **8371**: Hey, you'll do! Can I ask you to do a tiny task, too?
+- **8372**: Hear his humble mumble? [Listlessly listen./Downright decline.]
+- **8373**: Please part promptly. Dumbly dawdling there is damned distracting!
+- **8374**: I lack the indispensable items essential for my important lesson!
+- **8375**: Seems the sum of students is the same, but the number of them making mistakes has multiplied. The level of the little learners lowers every year lately...
+- **8376**: Anyway, attempt to acquire $1 and $2.
+- **8377**: Actually, acquiring $2 is amazingly arduous. But I best beg and beseech you, then bid you bye-bye!
+- **8378**: Obtain one $1 and one $2 or I'll obstinately run out of replacements.
+- **8379**: At last I can conduct a comely class!
+- **8380**: Right...regarding your reward... Sorry it's not so stately a sum, but some is better than none...
+- **8381**: This semester's students, you will see, differ tremendously in capability. It's a pretty perplexing problem!
+- **8382**: Aim at the able adolescent and the late-learners are left lagging.
+- **8383**: Lower the level and lo...the superiority and selectness of the students this school sends out suffers. How my haggard head hurts!
+- **8393**: What kind of person would pilfer Ms. Fuepepe's papers?
+- **8394**: What would anyone want with them?
+- **8450**: Our horticultural homework is required for the runts to realize the Rhinostery's remarkable role. Plus, it helps us pick which pupils have a particular talent in that area for recommendation to the Rhinostery.
+- **8467**: I assume it's not appropriate to articulate this at an adventurer such as yourself, but...
+- **8468**: Lately there's a lamentable lad who asks adventurers to arrange his homework for him. He worries me greatly!
+- **8469**: If one overly relies on others, then when there isn't anyone around to assist you, you run aground! One needs to stand on one's own two feet.
+- **8489**: An accident occurring during a precarious practical at the Orastery's Mage Academy? This is true? Tsk, that's terrible! For one of our students to be so capriciously careless...
+- **8490**: A teacher must take trouble to be true to their task. Sounds like some seriously slack supervision! That's through and through, one of Mr. Pechiru-Mashiru's lessons for you...
+- **8758**: Principal Koru-Moru is searching for a scholar knowledgeable in the art of Alchemy, eh? Still the dilly-dallier, I see...
+- **8759**: I wonder if he's seriously considering studying something so sinister as Alchemy? If so, he's not setting a good example for his students, is he, eh?
+- **9153**: Blast... It's past $5 at last. I'm bereft there's less than $6 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me.
+- **9605**: If you pursue the procurement of additional $1 and $2, please proceed here posthaste!
+- **9606**: Our prompt payment will be a pleasant perk!
+- **9607**: Perchance, if you pursue the procurement of additional $1 and $2, please proceed here posthaste!
+- **9608**: Our prompt payment will be a pleasant perk!
+- **9774**: Sorry to keep you waiting. I guess you must be the gallant who got our mission at the gatehouse.
+- **9775**: Are you acquainted with the amazing academic who administers our School of Magic?
+- **9776**: Acquainted with the amazing academic? [Absolutely!/Actually, no.]
+- **9777**: [Ah, so you've met/I'm sure you've met] Professor Koru-Moru. As you are assuredly aware, Professor Koru-Moru rarely roams from his residence in Windurst Walls... He barely bothers with the barest bones of his principal business...
+- **9778**: Four years ago, he took a rest from his responsible role. During that time, the person who took his tenure had the title of Sedal-Godjal.
+- **9779**: With his dynamic endurance and diligent deductions, Sedal-Godjal was a marvelous nominee for Minister of the Aurastery.
+- **9780**: However, for some reason, he eloped and left us in the lurch. We put Professor Koru-Moru back in the position of principal, and now you perceive our present predicament.
+- **9781**: For three long years our lecturers have lived with the lack of a leader and luckily allayed any alarming eventualities. But if we continue to conduct our school on this course, I am concerned it will conflict with the cultivation of our students.
+- **9782**: This is where you come in. I supplicate you to search the span of Vana'diel, and bring back Sedal-Godjal.
+- **9783**: Our elusive educator was equipped with $6. This "Star Seeker" should come in handy.
+- **9784**: Professor Koru-Moru called for the construction of this Star Seeker in case the location of the principal's ring became obfuscated. It can sniff out the power of the stars and the moon infused in the ring.
+- **9785**: When the professor was young and careless, he used it to search for the ring whenever he misplaced it.
+- **9786**: The Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you.
+- **9787**: Stand by. Power on!
+- **9789**: Use the magic doll you have been given to follow the magical emanations of the principal's ring and track down our wayward Mr. Sedal-Godjal.
+- **9790**: Don't forget the Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you.
+- **9799**: Ah! Have you sniffed out the slippery Sedal-Godjal?
+- **9800**: ...I see. So that's why he gave up the principal position at the Aurastery and parted for parts unknown.
+- **9801**: Of course, it's still unforgivable! However, since he seems to be regretting his actions and can't actually move from where he is, I guess we have to leave it at that.
+- **9802**: Now, please return the magic doll.
+- **9803**: ...Excuse me? You declare that the doll once gave you deceitful directions?
+- **9804**: That's strange. It was thoroughly tested before I entrusted it to you. The easiest explanation is that the doll sensed an emanation of energy exceeding that of the ring.
+- **9805**: In closing, there is the case of Mojiji... With the sudden cessation of Mojiji's correspondence, Professor Koru-Moru slid into an unsettling slump.
+- **9806**: Let me just say that some of us struck on the same solution as sly old Sedal-Godjal...
 
 ## Events
 
@@ -885,20 +885,20 @@
   2: 0x014C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
   4: 0x0154 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0167
-  5: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=9606*)
+  5: 0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=9607*)
     → "Perchance, if you pursue the procurement of additional $1 and $2, please proceed here posthaste!"
   6: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=9607*)
+  7: 0x0160 [0x1D] PRINT_EVENT_MESSAGE(message_id=9608*)
     → "Our prompt payment will be a pleasant perk!"
   8: 0x0163 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0164 [0x01] GOTO 0x0173
- 10: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
+ 10: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
     → "This semester's students, you see, differ tremendously in ability. It's a pretty perplexing problem!"
  11: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
+ 12: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
     → "Aim at the able adolescent, and the late-learners are left lagging."
  13: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
+ 14: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
     → "Lower the level and lo...the superiority and selectness of the students this school sends out suffer. How my haggard head hurts!"
  15: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -984,18 +984,18 @@ SUBROUTINE_0173:
  28: 0x026D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x1A)
  29: 0x0274 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  30: 0x0285 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x1B)
- 31: 0x028C [0x24] CREATE_DIALOG(message_id=7743*, default_option=1*, option_flags=0*)
+ 31: 0x028C [0x24] CREATE_DIALOG(message_id=7744*, default_option=1*, option_flags=0*)
     → "Ready already? [Roger, Roger!/Naysay, nay!]"
  32: 0x0293 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0294 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A8
  34: 0x029C [0x03] Work_Zone[1] = 2*
- 35: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
+ 35: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
     → "Incantation incorporated. Godspeed and Goddess bless!"
  36: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x02A5 [0x01] GOTO 0x02BC
  38: 0x02A8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02BC
  39: 0x02B0 [0x03] Work_Zone[1] = 1*
- 40: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+ 40: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "...Return when you're arranged, not deranged."
  41: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x02B9 [0x01] GOTO 0x02BC
@@ -1037,15 +1037,15 @@ SUBROUTINE_02BC:
 
 ```
   0: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=7735*)
+  1: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
     → "Are you the adventurer who accepted the Aurastery's ardent assignment? Excellent! We were excitedly expecting you."
   2: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0317 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   4: 0x031E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
+  5: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
     → "The School of Magic is setting up a skills test to see how many monsters the students of the advanced class can slay."
   6: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
+  7: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
     → "We applied for an able adventurer to assist us in arranging our skills exam, all right?"
   8: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x032D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1074,12 +1074,12 @@ SUBROUTINE_02BC:
 
 ```
   0: 0x0335 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x07)
-  1: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
+  1: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
     → "You're expecting an elementary exam, except at the School of Magic it is an enormous event that affects the educatees' enlightened existence and so we extoll excruciating exactness."
   2: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0340 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x08)
   4: 0x0347 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
+  5: 0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
     → "First, fine friend, find out how ferociously fierce the foes are in the field where the skills test is being formulated."
   6: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0352 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1107,10 +1107,10 @@ SUBROUTINE_02BC:
 
 ```
   0: 0x035A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x09)
-  1: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=7740*)
+  1: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
     → "Carry this charmed doll to Tahrongi Canyon, can you? My magic mannequin will memorize how many monsters you maim there."
   2: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=7741*)
+  3: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
     → "The doll's enchantment expires at the end of one day. Once the wizardly works wear off it's worthless... So kindly come back quick."
   4: 0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0369 [0x00] END_REQSTACK()
@@ -1135,7 +1135,7 @@ SUBROUTINE_02BC:
 #### Opcodes
 
 ```
-  0: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
+  0: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
     → "I'll immediately magick my miniature marionette. I presume you are punctually prepared?"
   1: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x036E [0x00] END_REQSTACK()
@@ -1216,18 +1216,18 @@ SUBROUTINE_02BC:
  28: 0x0461 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x1A)
  29: 0x0468 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  30: 0x0479 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x1B)
- 31: 0x0480 [0x24] CREATE_DIALOG(message_id=7743*, default_option=1*, option_flags=0*)
+ 31: 0x0480 [0x24] CREATE_DIALOG(message_id=7744*, default_option=1*, option_flags=0*)
     → "Ready already? [Roger, Roger!/Naysay, nay!]"
  32: 0x0487 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0488 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x049C
  34: 0x0490 [0x03] Work_Zone[1] = 2*
- 35: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
+ 35: 0x0495 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
     → "Incantation incorporated. Godspeed and Goddess bless!"
  36: 0x0498 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0499 [0x01] GOTO 0x04B0
  38: 0x049C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04B0
  39: 0x04A4 [0x03] Work_Zone[1] = 1*
- 40: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+ 40: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "...Return when you're arranged, not deranged."
  41: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x04AD [0x01] GOTO 0x04B0
@@ -1267,10 +1267,10 @@ SUBROUTINE_04B0:
 
 ```
   0: 0x0500 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
+  1: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
     → "You actually accepted the Aurastery's skills exam assignment again? The best of luck this time too, then."
   2: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
+  3: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
     → "You remember the errand, I recall, but let me rapidly reiterate to be real sure..."
   4: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x050F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1298,7 +1298,7 @@ SUBROUTINE_04B0:
 
 ```
   0: 0x0517 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=7734*)
+  1: 0x051E [0x1D] PRINT_EVENT_MESSAGE(message_id=7735*)
     → "We're setting up a skills test for our school's students to see how many monsters they can slay."
   2: 0x0521 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0522 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1379,26 +1379,26 @@ SUBROUTINE_04B0:
  26: 0x0604 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0A)
  27: 0x060B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  28: 0x061C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x09)
- 29: 0x0623 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+ 29: 0x0623 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "This time, try to maim as many monsters as you may in the insular Buburimu Peninsula today."
  30: 0x0626 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+ 31: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "The charming charm cast on the magic doll disappears in two days. So come back quick before the wizardly works wear off once more."
  32: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x062B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  34: 0x063C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x1B)
- 35: 0x0643 [0x24] CREATE_DIALOG(message_id=7743*, default_option=1*, option_flags=0*)
+ 35: 0x0643 [0x24] CREATE_DIALOG(message_id=7744*, default_option=1*, option_flags=0*)
     → "Ready already? [Roger, Roger!/Naysay, nay!]"
  36: 0x064A [0x25] WAIT_DIALOG_SELECT()
  37: 0x064B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x065F
  38: 0x0653 [0x03] Work_Zone[1] = 2*
- 39: 0x0658 [0x1D] PRINT_EVENT_MESSAGE(message_id=7744*)
+ 39: 0x0658 [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
     → "Incantation incorporated. Godspeed and Goddess bless!"
  40: 0x065B [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x065C [0x01] GOTO 0x0673
  42: 0x065F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0673
  43: 0x0667 [0x03] Work_Zone[1] = 1*
- 44: 0x066C [0x1D] PRINT_EVENT_MESSAGE(message_id=7745*)
+ 44: 0x066C [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
     → "...Return when you're arranged, not deranged."
  45: 0x066F [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0670 [0x01] GOTO 0x0673
@@ -1446,20 +1446,20 @@ SUBROUTINE_0673:
   2: 0x06C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06CA [0x02] IF !(Work_Zone[4] <= 12*) GOTO 0x06E8
   4: 0x06D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7746*)
+  5: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
     → "See how many monsters you may maim in Tahrongi Canyon, can you? The counting charm cast on the magic doll disappears in a day. Better be back by then!"
   6: 0x06DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
+  7: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
     → "The skills test will be performed in threes, pertaining it's particularly preferable to appropriate a party with experienced explorers."
   8: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x06E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
  10: 0x06E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x03)
  11: 0x06EF [0x02] IF !(Work_Zone[4] > 3*) GOTO 0x06FE
- 12: 0x06F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+ 12: 0x06F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "Gee, I see it after $1 be. Fussed! There's just $2 [hour/hours] to bust. Get along there! Not much longer to the gong, hear?"
  13: 0x06FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x06FB [0x01] GOTO 0x0702
- 15: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+ 15: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → "Wow...I avow it's now $1! So, lo, $2 [hour/hours] to go. Sublime! You've plenty of time till the chime."
  16: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1498,10 +1498,10 @@ SUBROUTINE_0702:
   2: 0x0721 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0722 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0723 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x072A [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+  5: 0x072A [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "Oh, you overtly overdid it, I say! The wizardly works have wasted away on our magic doll today."
   6: 0x072D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x072E [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
+  7: 0x072E [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
     → "So sad, but too bad... S'pose you'll simply have to start over from scratch..."
   8: 0x0731 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0732 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1535,7 +1535,7 @@ SUBROUTINE_0702:
   1: 0x0742 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0743 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0744 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  4: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "Attempt it again after you've, say, significantly strengthened your skills some, eh? Sorry, but against all ambition, I'm failing you on my magician's mission."
   5: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x074F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1568,13 +1568,13 @@ SUBROUTINE_0702:
 
 ```
   0: 0x075A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
+  1: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
     → "Blast... It's at last past $1. I'm bereft there's only $2 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me."
   2: 0x0764 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0765 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   4: 0x076C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   5: 0x077D [0x1C] WAIT(120* ticks)
-  6: 0x0780 [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+  6: 0x0780 [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "Reckoning your recorded results..."
   7: 0x0783 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0784 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1608,10 +1608,10 @@ SUBROUTINE_0702:
   3: 0x079D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x079E [0x29] REQ_SET_WAIT(priority=0x0D, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x23)
   5: 0x07A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x07AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
+  6: 0x07AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
     → "Mysterious! My magic doll must be mucking up...? Current calculations confirm you only defeated $3 monsters in the duration of a day."
   7: 0x07AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x07B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  8: 0x07B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "Attempt it again after you've, say, significantly strengthened your skills some, eh? Sorry, but against all ambition, I'm failing you on my magician's mission."
   9: 0x07B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x07B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1648,13 +1648,13 @@ SUBROUTINE_0702:
   3: 0x07C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x07C7 [0x29] REQ_SET_WAIT(priority=0x0D, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x23)
   5: 0x07CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x07D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+  6: 0x07D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
     → "Current calculations conclude you conquered $3 creatures in the continuance of a day."
   7: 0x07D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x07D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
+  8: 0x07D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7775*)
     → "Oh so so-so! <Sigh>...Why, if you were my spry student, you'd only obtain the order of 55 points, pushing it to pass!"
   9: 0x07DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x07DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+ 10: 0x07DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "Attempt it again after you've, say, significantly strengthened your skills some, eh? Sorry, but against all ambition, I'm failing you on my magician's mission."
  11: 0x07E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x07E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1692,13 +1692,13 @@ SUBROUTINE_0702:
   3: 0x07F3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x07F4 [0x29] REQ_SET_WAIT(priority=0x0D, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x23)
   5: 0x07FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=7776*)
+  6: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
     → "Current calculations conclude you conquered $3 creatures in the continuance of a day."
   7: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7777*)
+  8: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
     → "That implies a passing grade of precisely 85 points, I presume."
   9: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x080A [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+ 10: 0x080A [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "Well then, the next treacherous terrain to try will be the Buburimu Peninsula, I bet. But still, that will have to wait till we've time to kill. Then that's all, thanks."
  11: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x080E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1737,13 +1737,13 @@ SUBROUTINE_0702:
   3: 0x0831 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0832 [0x29] REQ_SET_WAIT(priority=0x0D, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x23)
   5: 0x0839 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x0840 [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
+  6: 0x0840 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
     → "Current calculations conclude you conquered $3 creatures in the continuance of a day."
   7: 0x0843 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
+  8: 0x0844 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
     → "That's high higher than I had hoped. Well, it wasn't worth worrying with the talk that the monsters have grown potently more powerful lately."
   9: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+ 10: 0x0848 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "The next treacherous terrain to try will be the Buburimu Peninsula, I proceed to presume. But still, that will wait till we've time to kill. Then that's all forthwith, thank thee."
  11: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x084C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1782,20 +1782,20 @@ SUBROUTINE_0702:
   2: 0x086E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x086F [0x02] IF !(Work_Zone[8] <= 12*) GOTO 0x088D
   4: 0x0877 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
+  5: 0x087E [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
     → "This time, try to maim as many monsters as you may in the insular Buburimu Peninsula today."
   6: 0x0881 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+  7: 0x0882 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "The charming charm cast on the magic doll disappears in two days. So come back quick before the wizardly works wear off once more."
   8: 0x0885 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0886 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
  10: 0x088D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x03)
  11: 0x0894 [0x02] IF !(Work_Zone[8] > 3*) GOTO 0x08A3
- 12: 0x089C [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+ 12: 0x089C [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "Gee, I see it after $5 be. Fussed! There's just $6 [hour/hours] to bust. Get along there! Not much longer till the gong, hear?"
  13: 0x089F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x08A0 [0x01] GOTO 0x08A7
- 15: 0x08A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+ 15: 0x08A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "Wow...I avow it's now $5! So, lo, $6 [hour/hours] to go. Sublime! You've plenty of time till the chime."
  16: 0x08A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1840,13 +1840,13 @@ SUBROUTINE_08A7:
   2: 0x08C6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x08C7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x08C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  5: 0x08CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9152*)
+  5: 0x08CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9153*)
     → "Blast... It's past $5 at last. I'm bereft there's less than $6 [hour/hours] left. Your time's as good as up I see, so return the magic doll to me."
   6: 0x08D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x08D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   8: 0x08DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
   9: 0x08EB [0x1C] WAIT(60* ticks)
- 10: 0x08EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7770*)
+ 10: 0x08EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7771*)
     → "Reckoning your recorded results..."
  11: 0x08F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x08F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1892,13 +1892,13 @@ SUBROUTINE_093D:
   1: 0x0946 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0947 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0948 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+  4: 0x094F [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "Merci... But, hmm, my, how mighty mysterious!? My magic doll must've gone amuck...?"
   5: 0x0952 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+  6: 0x0953 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "My meticulous math maintains you maimed a mere $3 monsters in two miserable days. Ah, how abominably atrocious!"
   7: 0x0956 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0957 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+  8: 0x0957 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "Attempt it again after you've, say, strengthened your skills some, okay? Sorry, but against all ambition, I'm failing you on the commissioned mission..."
   9: 0x095A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x095B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1936,15 +1936,15 @@ SUBROUTINE_093D:
   3: 0x096E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x096F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0970 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  6: 0x0977 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "My diligent determinations declare you defeated $3 despicable deed-doers during the duration of dual days!"
   7: 0x097A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x097B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   9: 0x0982 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
- 10: 0x0989 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+ 10: 0x0989 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Rah-rah! Rather well run there! We'll refer to your results record, sure I am, when we replan our next skills exam!"
  11: 0x098C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+ 12: 0x098D [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "We'll give you word when we hold the test, which you're always welcome to watch!"
  13: 0x0990 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0991 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -1984,15 +1984,15 @@ SUBROUTINE_093D:
   3: 0x09B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x09B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x09B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+  6: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "My meticulous math maintains you massacred $3 monsters in a matter of days. Ah, you actually are an amazingly able adventurer!"
   7: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   9: 0x09C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
- 10: 0x09D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+ 10: 0x09D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Rah-rah! Rather well run there! We'll refer to your results record, sure I am, when we replan our next skills exam!"
  11: 0x09D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x09D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+ 12: 0x09D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "We'll give you word when we hold the test, which you're always welcome to watch!"
  13: 0x09D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x09D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2027,10 +2027,10 @@ SUBROUTINE_093D:
   1: 0x09F9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09FA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+  4: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Rah-rah! Rather well run there! We'll refer to your results record, sure I am, when we replan our next skills exam!"
   5: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+  6: 0x0A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "We'll give you word when we hold the test, which you're always welcome to watch!"
   7: 0x0A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A0A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2064,10 +2064,10 @@ SUBROUTINE_093D:
   1: 0x0A1A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A1B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A1C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0A23 [0x1D] PRINT_EVENT_MESSAGE(message_id=8368*)
+  4: 0x0A23 [0x1D] PRINT_EVENT_MESSAGE(message_id=8369*)
     → "Hey, how dare you there! You mustn't touch my teaching materials!"
   5: 0x0A26 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8369*)
+  6: 0x0A27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8370*)
     → "Huff! I don't have enough stuff as it is. Fumble-mumble-grumble..."
   7: 0x0A2A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2104,7 +2104,7 @@ SUBROUTINE_093D:
   1: 0x0A3B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A3C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A3D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x30)
-  4: 0x0A44 [0x24] CREATE_DIALOG(message_id=8371*, default_option=0*, option_flags=0*)
+  4: 0x0A44 [0x24] CREATE_DIALOG(message_id=8372*, default_option=0*, option_flags=0*)
     → "Hear his humble mumble? [Listlessly listen./Downright decline.]"
   5: 0x0A4B [0x25] WAIT_DIALOG_SELECT()
   6: 0x0A4C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A6A
@@ -2144,7 +2144,7 @@ SUBROUTINE_0A81:
 
 ```
   0: 0x0A85 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0A8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8370*)
+  1: 0x0A8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8371*)
     → "Hey, you'll do! Can I ask you to do a tiny task, too?"
   2: 0x0A8F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A90 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2170,7 +2170,7 @@ SUBROUTINE_0A81:
 #### Opcodes
 
 ```
-  0: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=8372*)
+  0: 0x0A98 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
     → "Please part promptly. Dumbly dawdling there is damned distracting!"
   1: 0x0A9B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A9C [0x00] END_REQSTACK()
@@ -2198,10 +2198,10 @@ SUBROUTINE_0A81:
 
 ```
   0: 0x0A9D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
+  1: 0x0AA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
     → "I lack the indispensable items essential for my important lesson!"
   2: 0x0AA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
+  3: 0x0AA8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
     → "Seems the sum of students is the same, but the number of them making mistakes has multiplied. The level of the little learners lowers every year lately..."
   4: 0x0AAB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0AAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2227,10 +2227,10 @@ SUBROUTINE_0A81:
 #### Opcodes
 
 ```
-  0: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
+  0: 0x0AB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
     → "Anyway, attempt to acquire $1 and $2."
   1: 0x0AB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
+  2: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8377*)
     → "Actually, acquiring $2 is amazingly arduous. But I best beg and beseech you, then bid you bye-bye!"
   3: 0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0ABC [0x00] END_REQSTACK()
@@ -2261,7 +2261,7 @@ SUBROUTINE_0A81:
   1: 0x0AC2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0AC3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0AC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=8377*)
+  4: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=8378*)
     → "Obtain one $1 and one $2 or I'll obstinately run out of replacements."
   5: 0x0ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0ACF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2299,21 +2299,21 @@ SUBROUTINE_0A81:
   3: 0x0AE2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0AE3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0AE4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  6: 0x0AEB [0x1D] PRINT_EVENT_MESSAGE(message_id=8378*)
+  6: 0x0AEB [0x1D] PRINT_EVENT_MESSAGE(message_id=8379*)
     → "At last I can conduct a comely class!"
   7: 0x0AEE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0AEF [0x1D] PRINT_EVENT_MESSAGE(message_id=8379*)
+  8: 0x0AEF [0x1D] PRINT_EVENT_MESSAGE(message_id=8380*)
     → "Right...regarding your reward... Sorry it's not so stately a sum, but some is better than none..."
   9: 0x0AF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0AF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9604*)
+ 10: 0x0AF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9605*)
     → "If you pursue the procurement of additional $1 and $2, please proceed here posthaste!"
  11: 0x0AF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9605*)
+ 12: 0x0AF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9606*)
     → "Our prompt payment will be a pleasant perk!"
  13: 0x0AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0AFB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
  15: 0x0B02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 16: 0x0B13 [0x48] [System] [6554*]:
+ 16: 0x0B13 [0x48] [System] [6555*]:
     → "Obtained $0 gil."
  17: 0x0B16 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  18: 0x0B18 [0x21] END_EVENT
@@ -2345,13 +2345,13 @@ SUBROUTINE_0A81:
   1: 0x0B1F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B20 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B21 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=8380*)
+  4: 0x0B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=8381*)
     → "This semester's students, you will see, differ tremendously in capability. It's a pretty perplexing problem!"
   5: 0x0B2B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=8381*)
+  6: 0x0B2C [0x1D] PRINT_EVENT_MESSAGE(message_id=8382*)
     → "Aim at the able adolescent and the late-learners are left lagging."
   7: 0x0B2F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0B30 [0x1D] PRINT_EVENT_MESSAGE(message_id=8382*)
+  8: 0x0B30 [0x1D] PRINT_EVENT_MESSAGE(message_id=8383*)
     → "Lower the level and lo...the superiority and selectness of the students this school sends out suffers. How my haggard head hurts!"
   9: 0x0B33 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B34 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2385,7 +2385,7 @@ SUBROUTINE_0A81:
   1: 0x0B44 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B45 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B46 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=8449*)
+  4: 0x0B4D [0x1D] PRINT_EVENT_MESSAGE(message_id=8450*)
     → "Our horticultural homework is required for the runts to realize the Rhinostery's remarkable role. Plus, it helps us pick which pupils have a particular talent in that area for recommendation to the Rhinostery."
   5: 0x0B50 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B51 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2446,7 +2446,7 @@ SUBROUTINE_0A81:
 #### Opcodes
 
 ```
-  0: 0x0B78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
+  0: 0x0B78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
     → "I assume it's not appropriate to articulate this at an adventurer such as yourself, but..."
   1: 0x0B7B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0B7C [0x00] END_REQSTACK()
@@ -2474,10 +2474,10 @@ SUBROUTINE_0A81:
 
 ```
   0: 0x0B7D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  1: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
+  1: 0x0B84 [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
     → "Lately there's a lamentable lad who asks adventurers to arrange his homework for him. He worries me greatly!"
   2: 0x0B87 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B88 [0x1D] PRINT_EVENT_MESSAGE(message_id=8468*)
+  3: 0x0B88 [0x1D] PRINT_EVENT_MESSAGE(message_id=8469*)
     → "If one overly relies on others, then when there isn't anyone around to assist you, you run aground! One needs to stand on one's own two feet."
   4: 0x0B8B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B8C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2509,10 +2509,10 @@ SUBROUTINE_0A81:
   1: 0x0B99 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B9A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B9B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0BA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
+  4: 0x0BA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
     → "An accident occurring during a precarious practical at the Orastery's Mage Academy? This is true? Tsk, that's terrible! For one of our students to be so capriciously careless..."
   5: 0x0BA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0BA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
+  6: 0x0BA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8490*)
     → "A teacher must take trouble to be true to their task. Sounds like some seriously slack supervision! That's through and through, one of Mr. Pechiru-Mashiru's lessons for you..."
   7: 0x0BA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0BAA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2546,10 +2546,10 @@ SUBROUTINE_0A81:
   1: 0x0BBA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0BBB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BBC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x0BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8392*)
+  4: 0x0BC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8393*)
     → "What kind of person would pilfer Ms. Fuepepe's papers?"
   5: 0x0BC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8393*)
+  6: 0x0BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8394*)
     → "What would anyone want with them?"
   7: 0x0BCA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0BCB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2673,16 +2673,16 @@ SUBROUTINE_0A81:
  21: 0x0C3E [0x79] LocalPlayer looks at Moreno-Toeno (ID: 17752117/0x010EE035) (Basic look)
  22: 0x0C48 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  23: 0x0C59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 24: 0x0C6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9773*)
+ 24: 0x0C6A [0x1D] PRINT_EVENT_MESSAGE(message_id=9774*)
     → "Sorry to keep you waiting. I guess you must be the gallant who got our mission at the gatehouse."
  25: 0x0C6D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0C6E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  27: 0x0C7F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
- 28: 0x0C86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9774*)
+ 28: 0x0C86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9775*)
     → "Are you acquainted with the amazing academic who administers our School of Magic?"
  29: 0x0C89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0C8A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
- 31: 0x0C91 [0x24] CREATE_DIALOG(message_id=9775*, default_option=0*, option_flags=0*)
+ 31: 0x0C91 [0x24] CREATE_DIALOG(message_id=9776*, default_option=0*, option_flags=0*)
     → "Acquainted with the amazing academic? [Absolutely!/Actually, no.]"
  32: 0x0C98 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0C99 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CB5
@@ -2700,7 +2700,7 @@ SUBROUTINE_0CCC:
  43: 0x0CDD [0x4B] UPDATE_ENTITY_YAW(entity=Moreno-Toeno (ID: 17752117/0x010EE035), yaw=13.9°*)
  44: 0x0CE4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  45: 0x0CE5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Moreno-Toeno (ID: 17752117/0x010EE035) Render.Flags0 and Render.Flags3 conditions are met
- 46: 0x0CEA [0x1D] PRINT_EVENT_MESSAGE(message_id=9776*)
+ 46: 0x0CEA [0x1D] PRINT_EVENT_MESSAGE(message_id=9777*)
     → "[Ah, so you've met/I'm sure you've met] Professor Koru-Moru. As you are assuredly aware, Professor Koru-Moru rarely roams from his residence in Windurst Walls... He barely bothers with the barest bones of his principal business..."
  47: 0x0CED [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0CEE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0E)
@@ -2721,7 +2721,7 @@ SUBROUTINE_0D69:
  61: 0x0D72 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  62: 0x0D73 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Moreno-Toeno (ID: 17752117/0x010EE035) Render.Flags0 and Render.Flags3 conditions are met
  63: 0x0D78 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
- 64: 0x0D7F [0x1D] PRINT_EVENT_MESSAGE(message_id=9777*)
+ 64: 0x0D7F [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
     → "Four years ago, he took a rest from his responsible role. During that time, the person who took his tenure had the title of Sedal-Godjal."
  65: 0x0D82 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0D83 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0D9D
@@ -2739,24 +2739,24 @@ SUBROUTINE_0DE0:
  76: 0x0DE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  77: 0x0DF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  78: 0x0E02 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
- 79: 0x0E09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
+ 79: 0x0E09 [0x1D] PRINT_EVENT_MESSAGE(message_id=9779*)
     → "With his dynamic endurance and diligent deductions, Sedal-Godjal was a marvelous nominee for Minister of the Aurastery."
  80: 0x0E0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0E0D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x13)
- 82: 0x0E14 [0x1D] PRINT_EVENT_MESSAGE(message_id=9779*)
+ 82: 0x0E14 [0x1D] PRINT_EVENT_MESSAGE(message_id=9780*)
     → "However, for some reason, he eloped and left us in the lurch. We put Professor Koru-Moru back in the position of principal, and now you perceive our present predicament."
  83: 0x0E17 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0E18 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
  85: 0x0E29 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x14)
  86: 0x0E30 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x03)
- 87: 0x0E37 [0x1D] PRINT_EVENT_MESSAGE(message_id=9780*)
+ 87: 0x0E37 [0x1D] PRINT_EVENT_MESSAGE(message_id=9781*)
     → "For three long years our lecturers have lived with the lack of a leader and luckily allayed any alarming eventualities. But if we continue to conduct our school on this course, I am concerned it will conflict with the cultivation of our students."
  88: 0x0E3A [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0E3B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x04)
  90: 0x0E42 [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [LocalPlayer, LocalPlayer], work=211*
  91: 0x0E51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  92: 0x0E62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x05)
- 93: 0x0E69 [0x1D] PRINT_EVENT_MESSAGE(message_id=9781*)
+ 93: 0x0E69 [0x1D] PRINT_EVENT_MESSAGE(message_id=9782*)
     → "This is where you come in. I supplicate you to search the span of Vana'diel, and bring back Sedal-Godjal."
  94: 0x0E6C [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0E6D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x06)
@@ -2768,7 +2768,7 @@ SUBROUTINE_0DE0:
 101: 0x0EB7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x09)
 102: 0x0EBE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0A)
 103: 0x0EC5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-104: 0x0ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9782*)
+104: 0x0ED6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9783*)
     → "Our elusive educator was equipped with $6. This "Star Seeker" should come in handy."
 105: 0x0ED9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0EDA [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0EF6
@@ -2783,10 +2783,10 @@ SUBROUTINE_0DE0:
 115: 0x0F2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
 
 SUBROUTINE_0F3F:
-116: 0x0F3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9783*)
+116: 0x0F3F [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
     → "Professor Koru-Moru called for the construction of this Star Seeker in case the location of the principal's ring became obfuscated. It can sniff out the power of the stars and the moon infused in the ring."
 117: 0x0F42 [0x23] WAIT_FOR_DIALOG_INTERACTION
-118: 0x0F43 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+118: 0x0F43 [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
     → "When the professor was young and careless, he used it to search for the ring whenever he misplaced it."
 119: 0x0F46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0F47 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x0F61
@@ -2803,16 +2803,16 @@ SUBROUTINE_0F3F:
 SUBROUTINE_0FA4:
 130: 0x0FA4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 131: 0x0FB5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
-132: 0x0FC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
+132: 0x0FC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
     → "The Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you."
 133: 0x0FC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x0FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
+134: 0x0FCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9787*)
     → "Stand by. Power on!"
 135: 0x0FCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x0FCE [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
 137: 0x0FD4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 138: 0x0FE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0B)
-139: 0x0FEC [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9787*]:
+139: 0x0FEC [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9788*]:
     → "Ahahahahaha! Let's go, slacker! Start heading north!"
 140: 0x0FF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x0FF4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0C)
@@ -2858,10 +2858,10 @@ SUBROUTINE_0FA4:
   1: 0x1064 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1065 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1066 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x106D [0x1D] PRINT_EVENT_MESSAGE(message_id=9788*)
+  4: 0x106D [0x1D] PRINT_EVENT_MESSAGE(message_id=9789*)
     → "Use the magic doll you have been given to follow the magical emanations of the principal's ring and track down our wayward Mr. Sedal-Godjal."
   5: 0x1070 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1071 [0x1D] PRINT_EVENT_MESSAGE(message_id=9789*)
+  6: 0x1071 [0x1D] PRINT_EVENT_MESSAGE(message_id=9790*)
     → "Don't forget the Star Seeker will suddenly start speaking, so be sure not to let its spiel slip by you."
   7: 0x1074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1075 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
@@ -2987,7 +2987,7 @@ SUBROUTINE_11DE:
  55: 0x1234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x12)
  56: 0x123B [0x1C] WAIT(80* ticks)
  57: 0x123E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 58: 0x124F [0x1D] PRINT_EVENT_MESSAGE(message_id=9802*)
+ 58: 0x124F [0x1D] PRINT_EVENT_MESSAGE(message_id=9803*)
     → "...Excuse me? You declare that the doll once gave you deceitful directions?"
  59: 0x1252 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x1253 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x03)
@@ -3031,7 +3031,7 @@ SUBROUTINE_11DE:
 #### Opcodes
 
 ```
-  0: 0x12CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9798*)
+  0: 0x12CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9799*)
     → "Ah! Have you sniffed out the slippery Sedal-Godjal?"
   1: 0x12D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12D1 [0x00] END_REQSTACK()
@@ -3056,7 +3056,7 @@ SUBROUTINE_11DE:
 #### Opcodes
 
 ```
-  0: 0x12D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9799*)
+  0: 0x12D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9800*)
     → "...I see. So that's why he gave up the principal position at the Aurastery and parted for parts unknown."
   1: 0x12D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12D6 [0x00] END_REQSTACK()
@@ -3081,7 +3081,7 @@ SUBROUTINE_11DE:
 #### Opcodes
 
 ```
-  0: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9800*)
+  0: 0x12D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9801*)
     → "Of course, it's still unforgivable! However, since he seems to be regretting his actions and can't actually move from where he is, I guess we have to leave it at that."
   1: 0x12DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12DB [0x00] END_REQSTACK()
@@ -3107,7 +3107,7 @@ SUBROUTINE_11DE:
 #### Opcodes
 
 ```
-  0: 0x12DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9801*)
+  0: 0x12DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9802*)
     → "Now, please return the magic doll."
   1: 0x12DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12E0 [0x00] END_REQSTACK()
@@ -3132,7 +3132,7 @@ SUBROUTINE_11DE:
 #### Opcodes
 
 ```
-  0: 0x12E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9803*)
+  0: 0x12E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
     → "That's strange. It was thoroughly tested before I entrusted it to you. The easiest explanation is that the doll sensed an emanation of energy exceeding that of the ring."
   1: 0x12E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12E5 [0x00] END_REQSTACK()
@@ -3164,12 +3164,12 @@ SUBROUTINE_11DE:
   1: 0x12EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x12EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x12ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x12F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9804*)
+  4: 0x12F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9805*)
     → "In closing, there is the case of Mojiji... With the sudden cessation of Mojiji's correspondence, Professor Koru-Moru slid into an unsettling slump."
   5: 0x12F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x12F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   7: 0x12FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0D)
-  8: 0x1306 [0x1D] PRINT_EVENT_MESSAGE(message_id=9805*)
+  8: 0x1306 [0x1D] PRINT_EVENT_MESSAGE(message_id=9806*)
     → "Let me just say that some of us struck on the same solution as sly old Sedal-Godjal..."
   9: 0x1309 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x130A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0E)
@@ -3204,12 +3204,12 @@ SUBROUTINE_11DE:
   1: 0x131A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x131B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x131C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x01)
-  4: 0x1323 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
+  4: 0x1323 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
     → "Principal Koru-Moru is searching for a scholar knowledgeable in the art of Alchemy, eh? Still the dilly-dallier, I see..."
   5: 0x1326 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1327 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x02)
   7: 0x132E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0D)
-  8: 0x1335 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
+  8: 0x1335 [0x1D] PRINT_EVENT_MESSAGE(message_id=8759*)
     → "I wonder if he's seriously considering studying something so sinister as Alchemy? If so, he's not setting a good example for his students, is he, eh?"
   9: 0x1338 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1339 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moreno-Toeno (ID: 17752117/0x010EE035), tag_num=0x0E)

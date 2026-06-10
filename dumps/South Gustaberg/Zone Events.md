@@ -47,12 +47,12 @@
 |      11 | 0x0564      |        1380 |
 |      12 | 0x0BAA      |        2986 |
 |      13 | 0x0005      |           5 |
-|      14 | 0x1E12      |        7698 |
+|      14 | 0x1E13      |        7699 |
 |      15 | 0x001E      |          30 |
-|      16 | 0x1E13      |        7699 |
-|      17 | 0x1E14      |        7700 |
-|      18 | 0x1E18      |        7704 |
-|      19 | 0x1E15      |        7701 |
+|      16 | 0x1E14      |        7700 |
+|      17 | 0x1E15      |        7701 |
+|      18 | 0x1E19      |        7705 |
+|      19 | 0x1E16      |        7702 |
 |      20 | 0x00C9      |         201 |
 |      21 | 0x5307C     |      340092 |
 |      22 | 0xFFF5B7DF  |  4294293471 |
@@ -198,11 +198,11 @@
  16: 0x0076 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x0087 [0x4A] Azette (ID: 17216184/0x0106B2B8) looks at LocalPlayer
  18: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x00A1 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7698*]:
+ 19: 0x00A1 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7699*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Azette (ID: 17216184/0x0106B2B8), Azette (ID: 17216184/0x0106B2B8)], work=30*
- 22: 0x00B8 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7699*]:
+ 22: 0x00B8 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7700*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00C0 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0112
@@ -214,17 +214,17 @@
  30: 0x00EB [0x15] Work_Zone[6] /= 60*
  31: 0x00F0 [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x00F7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x010A
- 33: 0x00FF [0x2B] Azette (ID: 17216184/0x0106B2B8) [7700*]:
+ 33: 0x00FF [0x2B] Azette (ID: 17216184/0x0106B2B8) [7701*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0107 [0x01] GOTO 0x0112
- 36: 0x010A [0x2B] Azette (ID: 17216184/0x0106B2B8) [7704*]:
+ 36: 0x010A [0x2B] Azette (ID: 17216184/0x0106B2B8) [7705*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0112:
  38: 0x0112 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Azette (ID: 17216184/0x0106B2B8), Azette (ID: 17216184/0x0106B2B8)], work=30*
- 39: 0x0121 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7701*]:
+ 39: 0x0121 [0x2B] Azette (ID: 17216184/0x0106B2B8) [7702*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0129 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=5*

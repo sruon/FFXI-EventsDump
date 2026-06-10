@@ -349,13 +349,13 @@
 |     247 | 0x28534     |      165172 |
 |     248 | 0xFFFFC059  |  4294951001 |
 |     249 | 0xFFFFBEFF  |  4294950655 |
-|     250 | 0x2037      |        8247 |
+|     250 | 0x2038      |        8248 |
 |     251 | 0x00C8      |         200 |
 |     252 | 0x005A      |          90 |
 
 ## String References
 
-- **8247**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **8248**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
 
 ## Events
 
@@ -2686,7 +2686,7 @@ SUBROUTINE_00EA:
 
 ```
   0: 0x089F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x08A0 [0x48] [System] [8247*]:
+  1: 0x08A0 [0x48] [System] [8248*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x08A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x08B4 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x08D0

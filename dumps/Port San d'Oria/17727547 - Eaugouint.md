@@ -27,12 +27,12 @@
 |       2 | 0xFFFFF061  |  4294963297 |
 |       3 | 0x0E5D      |        3677 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x1DF2      |        7666 |
+|       5 | 0x1DF3      |        7667 |
 |       6 | 0x001E      |          30 |
 
 ## String References
 
-- **7666**: Take a left to find the magic shop. Keep going straight for the residential area. Oh, and take care not to upset Regine; she's scary when she's mad!
+- **7667**: Take a left to find the magic shop. Keep going straight for the residential area. Oh, and take care not to upset Regine; she's scary when she's mad!
 
 ## Events
 
@@ -133,7 +133,7 @@
   1: 0x0027 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0028 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0029 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+  4: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "Take a left to find the magic shop. Keep going straight for the residential area. Oh, and take care not to upset Regine; she's scary when she's mad!"
   5: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

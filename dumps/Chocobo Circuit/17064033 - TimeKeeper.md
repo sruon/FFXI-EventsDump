@@ -23,10 +23,10 @@
 |       0 | 0xFFFFFFFF  |  4294967295 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x239B      |        9115 |
+|       3 | 0x239C      |        9116 |
 |       4 | 0x0112      |         274 |
-|       5 | 0x239E      |        9118 |
-|       6 | 0x239D      |        9117 |
+|       5 | 0x239F      |        9119 |
+|       6 | 0x239E      |        9118 |
 |       7 | 0x0212      |         530 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0412      |        1042 |
@@ -38,7 +38,7 @@
 |      15 | 0x0014      |          20 |
 |      16 | 0x0006      |           6 |
 |      17 | 0x0010      |          16 |
-|      18 | 0x2482      |        9346 |
+|      18 | 0x2483      |        9347 |
 |      19 | 0x0111      |         273 |
 |      20 | 0x001F      |          31 |
 |      21 | 0x0411      |        1041 |
@@ -54,24 +54,24 @@
 |      31 | 0x0017      |          23 |
 |      32 | 0x0008      |           8 |
 |      33 | 0x0018      |          24 |
-|      34 | 0x246D      |        9325 |
-|      35 | 0x246E      |        9326 |
-|      36 | 0x23A7      |        9127 |
-|      37 | 0x23A8      |        9128 |
-|      38 | 0x23A9      |        9129 |
-|      39 | 0x23AA      |        9130 |
-|      40 | 0x23C9      |        9161 |
-|      41 | 0x246F      |        9327 |
-|      42 | 0x236C      |        9068 |
+|      34 | 0x246E      |        9326 |
+|      35 | 0x246F      |        9327 |
+|      36 | 0x23A8      |        9128 |
+|      37 | 0x23A9      |        9129 |
+|      38 | 0x23AA      |        9130 |
+|      39 | 0x23AB      |        9131 |
+|      40 | 0x23CA      |        9162 |
+|      41 | 0x2470      |        9328 |
+|      42 | 0x236D      |        9069 |
 |      43 | 0x0009      |           9 |
 |      44 | 0x000A      |          10 |
 
 ## String References
 
-- **9115**: Reception Increments: $6 sec. [[Stop/Go]FChannel P/[Stop/Go]FChannel Q/[Stop/Go]FChannel R/[Stop/Go]FChannel S/Stop all channels./Start all channels./Check World File./R Check $4./[On/Off]FEvent Switch/Quit.]
-- **9117**: Started Race Cycle.
-- **9118**: Stopped new race cycle.
-- **9346**: Team Value Adjustments [San Victory Pts: $0/ Place: $3/Bas Victory Pts: $1/ Place: $4/Win Victory Pts: $2/ Place: $5/Give me standings report now!/Calculate now!/Quit.]
+- **9116**: Reception Increments: $6 sec. [[Stop/Go]FChannel P/[Stop/Go]FChannel Q/[Stop/Go]FChannel R/[Stop/Go]FChannel S/Stop all channels./Start all channels./Check World File./R Check $4./[On/Off]FEvent Switch/Quit.]
+- **9118**: Started Race Cycle.
+- **9119**: Stopped new race cycle.
+- **9347**: Team Value Adjustments [San Victory Pts: $0/ Place: $3/Bas Victory Pts: $1/ Place: $4/Win Victory Pts: $2/ Place: $5/Give me standings report now!/Calculate now!/Quit.]
 
 ## Events
 
@@ -181,19 +181,19 @@
  11: 0x0035 [0x03] Work_Zone_1700[0] = 0*
 
 SUBROUTINE_003A:
- 12: 0x003A [0x24] CREATE_DIALOG(message_id=9115*, default_option=0*, option_flags=0*)
+ 12: 0x003A [0x24] CREATE_DIALOG(message_id=9116*, default_option=0*, option_flags=0*)
     → "Reception Increments: $6 sec. [[Stop/Go]FChannel P/[Stop/Go]FChannel Q/[Stop/Go]FChannel R/[Stop/Go]FChannel S/Stop all channels./Start all channels./Check World File./R Check $4./[On/Off]FEvent Switch/Quit.]"
  13: 0x0041 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0042 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006F
  15: 0x004A [0x3E] IF !(Work_Zone[2] bit 0*) GOTO 0x005F
  16: 0x0051 [0x03] ExtData[1]->WorkLocal[1] = 274*
  17: 0x0056 [0x06] Work_Zone[2] = 0
- 18: 0x0059 [0x48] [System] [9118*]:
+ 18: 0x0059 [0x48] [System] [9119*]:
     → "Stopped new race cycle."
  19: 0x005C [0x01] GOTO 0x006C
  20: 0x005F [0x03] ExtData[1]->WorkLocal[1] = 274*
  21: 0x0064 [0x03] Work_Zone[2] = 1*
- 22: 0x0069 [0x48] [System] [9117*]:
+ 22: 0x0069 [0x48] [System] [9118*]:
     → "Started Race Cycle."
 
 SUBROUTINE_006C:
@@ -202,12 +202,12 @@ SUBROUTINE_006C:
  25: 0x0077 [0x3E] IF !(Work_Zone[3] bit 0*) GOTO 0x008C
  26: 0x007E [0x03] ExtData[1]->WorkLocal[1] = 530*
  27: 0x0083 [0x06] Work_Zone[3] = 0
- 28: 0x0086 [0x48] [System] [9118*]:
+ 28: 0x0086 [0x48] [System] [9119*]:
     → "Stopped new race cycle."
  29: 0x0089 [0x01] GOTO 0x0099
  30: 0x008C [0x03] ExtData[1]->WorkLocal[1] = 530*
  31: 0x0091 [0x03] Work_Zone[3] = 1*
- 32: 0x0096 [0x48] [System] [9117*]:
+ 32: 0x0096 [0x48] [System] [9118*]:
     → "Started Race Cycle."
 
 SUBROUTINE_0099:
@@ -216,12 +216,12 @@ SUBROUTINE_0099:
  35: 0x00A4 [0x3E] IF !(Work_Zone[4] bit 0*) GOTO 0x00B9
  36: 0x00AB [0x03] ExtData[1]->WorkLocal[1] = 1042*
  37: 0x00B0 [0x06] Work_Zone[4] = 0
- 38: 0x00B3 [0x48] [System] [9118*]:
+ 38: 0x00B3 [0x48] [System] [9119*]:
     → "Stopped new race cycle."
  39: 0x00B6 [0x01] GOTO 0x00C6
  40: 0x00B9 [0x03] ExtData[1]->WorkLocal[1] = 1042*
  41: 0x00BE [0x03] Work_Zone[4] = 1*
- 42: 0x00C3 [0x48] [System] [9117*]:
+ 42: 0x00C3 [0x48] [System] [9118*]:
     → "Started Race Cycle."
 
 SUBROUTINE_00C6:
@@ -230,12 +230,12 @@ SUBROUTINE_00C6:
  45: 0x00D1 [0x3E] IF !(Work_Zone[5] bit 0*) GOTO 0x00E6
  46: 0x00D8 [0x03] ExtData[1]->WorkLocal[1] = 2066*
  47: 0x00DD [0x06] Work_Zone[5] = 0
- 48: 0x00E0 [0x48] [System] [9118*]:
+ 48: 0x00E0 [0x48] [System] [9119*]:
     → "Stopped new race cycle."
  49: 0x00E3 [0x01] GOTO 0x00F3
  50: 0x00E6 [0x03] ExtData[1]->WorkLocal[1] = 2066*
  51: 0x00EB [0x03] Work_Zone[5] = 1*
- 52: 0x00F0 [0x48] [System] [9117*]:
+ 52: 0x00F0 [0x48] [System] [9118*]:
     → "Started Race Cycle."
 
 SUBROUTINE_00F3:
@@ -246,7 +246,7 @@ SUBROUTINE_00F3:
  57: 0x0106 [0x06] Work_Zone[3] = 0
  58: 0x0109 [0x06] Work_Zone[4] = 0
  59: 0x010C [0x06] Work_Zone[5] = 0
- 60: 0x010F [0x48] [System] [9118*]:
+ 60: 0x010F [0x48] [System] [9119*]:
     → "Stopped new race cycle."
  61: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0113 [0x01] GOTO 0x02D8
@@ -256,7 +256,7 @@ SUBROUTINE_00F3:
  66: 0x0128 [0x03] Work_Zone[3] = 1*
  67: 0x012D [0x03] Work_Zone[4] = 1*
  68: 0x0132 [0x03] Work_Zone[5] = 1*
- 69: 0x0137 [0x48] [System] [9117*]:
+ 69: 0x0137 [0x48] [System] [9118*]:
     → "Started Race Cycle."
  70: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x013B [0x01] GOTO 0x02D8
@@ -267,7 +267,7 @@ SUBROUTINE_0146:
  74: 0x014E [0x03] Work_Zone[1] = 16*
  75: 0x0153 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  76: 0x0155 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 77: 0x0157 [0x24] CREATE_DIALOG(message_id=9346*, default_option=0*, option_flags=0*)
+ 77: 0x0157 [0x24] CREATE_DIALOG(message_id=9347*, default_option=0*, option_flags=0*)
     → "Team Value Adjustments [San Victory Pts: $0/ Place: $3/Bas Victory Pts: $1/ Place: $4/Win Victory Pts: $2/ Place: $5/Give me standings report now!/Calculate now!/Quit.]"
  78: 0x015E [0x25] WAIT_DIALOG_SELECT()
  79: 0x015F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018C

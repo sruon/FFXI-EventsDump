@@ -30,27 +30,27 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D9E      |        7582 |
-|       1 | 0x1D9F      |        7583 |
+|       0 | 0x1D9F      |        7583 |
+|       1 | 0x1DA0      |        7584 |
 |       2 | 0xFFFFF6C8  |  4294964936 |
 |       3 | 0xAF49      |       44873 |
 |       4 | 0x0513      |        1299 |
 |       5 | 0x0A4C      |        2636 |
 |       6 | 0x000D      |          13 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x1E16      |        7702 |
-|       9 | 0x1E19      |        7705 |
-|      10 | 0x1E1A      |        7706 |
-|      11 | 0x1E1B      |        7707 |
+|       8 | 0x1E17      |        7703 |
+|       9 | 0x1E1A      |        7706 |
+|      10 | 0x1E1B      |        7707 |
+|      11 | 0x1E1C      |        7708 |
 |      12 | 0xFFFFF1A4  |  4294963620 |
 |      13 | 0xBAD4      |       47828 |
 |      14 | 0x001E      |          30 |
 
 ## String References
 
-- **7582**: Greetings! We deal in all sorts of armor. They say the best defense is a good offense, but it never hurts to play it safe.
-- **7583**: I know it sounds obvious, but a good suit of armor can save your life.
-- **7702**: Much is told of Borghertz, but it's all just a legend. Don't let greed cloud your judgment.
+- **7583**: Greetings! We deal in all sorts of armor. They say the best defense is a good offense, but it never hurts to play it safe.
+- **7584**: I know it sounds obvious, but a good suit of armor can save your life.
+- **7703**: Much is told of Borghertz, but it's all just a legend. Don't let greed cloud your judgment.
 
 ## Events
 
@@ -96,10 +96,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7582*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
     → "Greetings! We deal in all sorts of armor. They say the best defense is a good offense, but it never hurts to play it safe."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7583*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7584*)
     → "I know it sounds obvious, but a good suit of armor can save your life."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -177,7 +177,7 @@
   1: 0x0025 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0026 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0027 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  4: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "Much is told of Borghertz, but it's all just a legend. Don't let greed cloud your judgment."
   5: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x003A [0x21] END_EVENT
@@ -211,14 +211,14 @@
   1: 0x0041 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0042 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0043 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0052 [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7705*]:
+  4: 0x0052 [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7706*]:
     → "Wait. I heard that a Mithra working for the Tenshodo acquired a strange toolbox long ago."
   5: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x005A [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7706*]:
+  6: 0x005A [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7707*]:
     → "Some mysterious device held it shut; nobody could open it!"
   7: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0062 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
-  9: 0x0071 [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7707*]:
+  9: 0x0071 [0x2B] Deadly Minnow (ID: 17776696/0x010F4038) [7708*]:
     → "Even if it held some magical tool, I doubt anybody has the skill to repair these gauntlets."
  10: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0079 [0x21] END_EVENT

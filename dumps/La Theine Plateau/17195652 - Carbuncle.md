@@ -81,14 +81,14 @@
 |      32 | 0x000E      |          14 |
 |      33 | 0x0027      |          39 |
 |      34 | 0x000F      |          15 |
-|      35 | 0x1D9B      |        7579 |
+|      35 | 0x1D9C      |        7580 |
 |      36 | 0x00C9      |         201 |
 |      37 | 0x002A      |          42 |
 |      38 | 0x003C      |          60 |
 |      39 | 0x0048      |          72 |
 |      40 | 0x0032      |          50 |
-|      41 | 0x1D9C      |        7580 |
-|      42 | 0x1D9E      |        7582 |
+|      41 | 0x1D9D      |        7581 |
+|      42 | 0x1D9F      |        7583 |
 |      43 | 0xFFFF1AE1  |  4294908641 |
 |      44 | 0xFFFD6066  |  4294795366 |
 |      45 | 0x3BA25     |      244261 |
@@ -132,26 +132,26 @@
 |      83 | 0x0F1C      |        3868 |
 |      84 | 0x64A65     |      412261 |
 |      85 | 0x16CFA     |       93434 |
-|      86 | 0x1DA9      |        7593 |
-|      87 | 0x1DAA      |        7594 |
-|      88 | 0x1DAB      |        7595 |
-|      89 | 0x1DAC      |        7596 |
-|      90 | 0x1DAD      |        7597 |
-|      91 | 0x1DAE      |        7598 |
-|      92 | 0x1DAF      |        7599 |
+|      86 | 0x1DAA      |        7594 |
+|      87 | 0x1DAB      |        7595 |
+|      88 | 0x1DAC      |        7596 |
+|      89 | 0x1DAD      |        7597 |
+|      90 | 0x1DAE      |        7598 |
+|      91 | 0x1DAF      |        7599 |
+|      92 | 0x1DB0      |        7600 |
 
 ## String References
 
-- **7579**: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
-- **7580**: Come, <Player>. Follow me...
-- **7582**: Carbuncle vanished off to another area in the La Theine Plateau.
-- **7593**: Thank you, <Player>. My name is Carbuncle. I am one of several new forces here in Vana'diel.
-- **7594**: I became a crystal, was divided into shards, and fell into the hands of beasts and people alike...as the world changed around me.
-- **7595**: And then, I knew. I knew that you needed me.
-- **7596**: That's why I'll lend you a little of my power. I'll fight by your side, and watch over you always.
-- **7597**: I demand you perform a labor: visit the ancient beings that sleep in faraway lands and places of legend.
-- **7598**: Vana'diel is the world in which you live. You should see the true Vana'diel with your own eyes.
-- **7599**: I will extend a bridge. A bridge between the people of the present, and beings of ages past.
+- **7580**: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
+- **7581**: Come, <Player>. Follow me...
+- **7583**: Carbuncle vanished off to another area in the La Theine Plateau.
+- **7594**: Thank you, <Player>. My name is Carbuncle. I am one of several new forces here in Vana'diel.
+- **7595**: I became a crystal, was divided into shards, and fell into the hands of beasts and people alike...as the world changed around me.
+- **7596**: And then, I knew. I knew that you needed me.
+- **7597**: That's why I'll lend you a little of my power. I'll fight by your side, and watch over you always.
+- **7598**: I demand you perform a labor: visit the ancient beings that sleep in faraway lands and places of legend.
+- **7599**: Vana'diel is the world in which you live. You should see the true Vana'diel with your own eyes.
+- **7600**: I will extend a bridge. A bridge between the people of the present, and beings of ages past.
 
 ## Events
 
@@ -424,7 +424,7 @@
  10: 0x008B [0x00] END_REQSTACK()
 
 SUBROUTINE_025A:
- 11: 0x025A [0x48] [System] [7579*]:
+ 11: 0x025A [0x48] [System] [7580*]:
     → "The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me."
  12: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x025E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -439,13 +439,13 @@ SUBROUTINE_025A:
  22: 0x02BF [0x1C] WAIT(60* ticks)
  23: 0x02C2 [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17195652/0x01066284), end_alpha=100*, fade_time=72*)
  24: 0x02CB [0x1C] WAIT(50* ticks)
- 25: 0x02CE [0x48] [System] [7580*]:
+ 25: 0x02CE [0x48] [System] [7581*]:
     → "Come, <Player>. Follow me..."
  26: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x02D2 [0x1C] WAIT(50* ticks)
  28: 0x02D5 [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17195652/0x01066284), end_alpha=0*, fade_time=100*)
  29: 0x02DE [0x1C] WAIT(100* ticks)
- 30: 0x02E1 [0x48] [System] [7582*]:
+ 30: 0x02E1 [0x48] [System] [7583*]:
     → "Carbuncle vanished off to another area in the La Theine Plateau."
  31: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x02E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -816,7 +816,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=7593*)
+  0: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
     → "Thank you, <Player>. My name is Carbuncle. I am one of several new forces here in Vana'diel."
   1: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x043C [0x00] END_REQSTACK()
@@ -842,7 +842,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7594*)
+  0: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
     → "I became a crystal, was divided into shards, and fell into the hands of beasts and people alike...as the world changed around me."
   1: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0441 [0x00] END_REQSTACK()
@@ -867,7 +867,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7595*)
+  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
     → "And then, I knew. I knew that you needed me."
   1: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0446 [0x00] END_REQSTACK()
@@ -892,7 +892,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x0447 [0x1D] PRINT_EVENT_MESSAGE(message_id=7596*)
+  0: 0x0447 [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
     → "That's why I'll lend you a little of my power. I'll fight by your side, and watch over you always."
   1: 0x044A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x044B [0x00] END_REQSTACK()
@@ -918,7 +918,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=7597*)
+  0: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
     → "I demand you perform a labor: visit the ancient beings that sleep in faraway lands and places of legend."
   1: 0x044F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0450 [0x00] END_REQSTACK()
@@ -943,7 +943,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x0451 [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  0: 0x0451 [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "Vana'diel is the world in which you live. You should see the true Vana'diel with your own eyes."
   1: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0455 [0x00] END_REQSTACK()
@@ -968,7 +968,7 @@ SUBROUTINE_0324:
 #### Opcodes
 
 ```
-  0: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
+  0: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=7600*)
     → "I will extend a bridge. A bridge between the people of the present, and beings of ages past."
   1: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x045A [0x00] END_REQSTACK()

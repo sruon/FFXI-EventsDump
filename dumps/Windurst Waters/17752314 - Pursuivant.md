@@ -33,24 +33,24 @@
 |      10 | 0x000C      |          12 |
 |      11 | 0x000D      |          13 |
 |      12 | 0x000E      |          14 |
-|      13 | 0x2824      |       10276 |
+|      13 | 0x2825      |       10277 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x2826      |       10278 |
+|      15 | 0x2827      |       10279 |
 |      16 | 0x0240      |         576 |
-|      17 | 0x2825      |       10277 |
-|      18 | 0x2827      |       10279 |
+|      17 | 0x2826      |       10278 |
+|      18 | 0x2828      |       10280 |
 |      19 | 0x1C20      |        7200 |
 |      20 | 0x01F4      |         500 |
 |      21 | 0x02CA      |         714 |
 |      22 | 0x02CD      |         717 |
 |      23 | 0x02F6      |         758 |
 |      24 | 0x02F7      |         759 |
-|      25 | 0x2829      |       10281 |
+|      25 | 0x282A      |       10282 |
 |      26 | 0x000F      |          15 |
 |      27 | 0x0242      |         578 |
 |      28 | 0x0064      |         100 |
-|      29 | 0x282A      |       10282 |
-|      30 | 0x282B      |       10283 |
+|      29 | 0x282B      |       10283 |
+|      30 | 0x282C      |       10284 |
 |      31 | 0x001E      |          30 |
 |      32 | 0x0028      |          40 |
 |      33 | 0x001F      |          31 |
@@ -59,86 +59,86 @@
 |      36 | 0x003C      |          60 |
 |      37 | 0x0033      |          51 |
 |      38 | 0x003D      |          61 |
-|      39 | 0x282D      |       10285 |
-|      40 | 0x282E      |       10286 |
+|      39 | 0x282E      |       10286 |
+|      40 | 0x282F      |       10287 |
 |      41 | 0x0010      |          16 |
 |      42 | 0x007A      |         122 |
 |      43 | 0x0104      |         260 |
 |      44 | 0x0080      |         128 |
-|      45 | 0x282F      |       10287 |
+|      45 | 0x2830      |       10288 |
 |      46 | 0x40000000  |  1073741824 |
-|      47 | 0x2830      |       10288 |
-|      48 | 0x282C      |       10284 |
+|      47 | 0x2831      |       10289 |
+|      48 | 0x282D      |       10285 |
 |      49 | 0x0004      |           4 |
-|      50 | 0x2837      |       10295 |
-|      51 | 0x2838      |       10296 |
-|      52 | 0x2839      |       10297 |
-|      53 | 0x283A      |       10298 |
-|      54 | 0x283C      |       10300 |
-|      55 | 0x283D      |       10301 |
-|      56 | 0x283E      |       10302 |
-|      57 | 0x2840      |       10304 |
-|      58 | 0x2842      |       10306 |
-|      59 | 0x2843      |       10307 |
-|      60 | 0x2844      |       10308 |
-|      61 | 0x2845      |       10309 |
+|      50 | 0x2838      |       10296 |
+|      51 | 0x2839      |       10297 |
+|      52 | 0x283A      |       10298 |
+|      53 | 0x283B      |       10299 |
+|      54 | 0x283D      |       10301 |
+|      55 | 0x283E      |       10302 |
+|      56 | 0x283F      |       10303 |
+|      57 | 0x2841      |       10305 |
+|      58 | 0x2843      |       10307 |
+|      59 | 0x2844      |       10308 |
+|      60 | 0x2845      |       10309 |
+|      61 | 0x2846      |       10310 |
 |      62 | 0x02EE      |         750 |
 |      63 | 0x0258      |         600 |
 |      64 | 0x0190      |         400 |
 |      65 | 0x012C      |         300 |
-|      66 | 0x284C      |       10316 |
+|      66 | 0x284D      |       10317 |
 |      67 | 0xFFFFFFFF  |  4294967295 |
 |      68 | 0x004B      |          75 |
 |      69 | 0x0054      |          84 |
 |      70 | 0x93A80     |      604800 |
 |      71 | 0x07FF      |        2047 |
-|      72 | 0x284D      |       10317 |
+|      72 | 0x284E      |       10318 |
 |      73 | 0x021C      |         540 |
 |      74 | 0x0834      |        2100 |
 |      75 | 0x0924      |        2340 |
 |      76 | 0x1194      |        4500 |
 |      77 | 0x1284      |        4740 |
-|      78 | 0x284E      |       10318 |
-|      79 | 0x2850      |       10320 |
-|      80 | 0x2851      |       10321 |
-|      81 | 0x2852      |       10322 |
+|      78 | 0x284F      |       10319 |
+|      79 | 0x2851      |       10321 |
+|      80 | 0x2852      |       10322 |
+|      81 | 0x2853      |       10323 |
 |      82 | 0x007F      |         127 |
-|      83 | 0x286F      |       10351 |
-|      84 | 0x284F      |       10319 |
-|      85 | 0x2853      |       10323 |
-|      86 | 0x2854      |       10324 |
-|      87 | 0x2855      |       10325 |
-|      88 | 0x2856      |       10326 |
-|      89 | 0x2857      |       10327 |
-|      90 | 0x2858      |       10328 |
-|      91 | 0x2859      |       10329 |
-|      92 | 0x285A      |       10330 |
-|      93 | 0x285B      |       10331 |
-|      94 | 0x285C      |       10332 |
-|      95 | 0x285D      |       10333 |
-|      96 | 0x285E      |       10334 |
-|      97 | 0x285F      |       10335 |
-|      98 | 0x2860      |       10336 |
-|      99 | 0x2861      |       10337 |
-|     100 | 0x2862      |       10338 |
-|     101 | 0x2863      |       10339 |
-|     102 | 0x2864      |       10340 |
-|     103 | 0x2865      |       10341 |
-|     104 | 0x2866      |       10342 |
-|     105 | 0x2867      |       10343 |
-|     106 | 0x2868      |       10344 |
-|     107 | 0x2869      |       10345 |
-|     108 | 0x286A      |       10346 |
-|     109 | 0x286B      |       10347 |
-|     110 | 0x286C      |       10348 |
-|     111 | 0x286D      |       10349 |
-|     112 | 0x286E      |       10350 |
-|     113 | 0x2846      |       10310 |
-|     114 | 0x2847      |       10311 |
-|     115 | 0x2848      |       10312 |
-|     116 | 0x2849      |       10313 |
-|     117 | 0x284A      |       10314 |
-|     118 | 0x284B      |       10315 |
+|      83 | 0x2870      |       10352 |
+|      84 | 0x2850      |       10320 |
+|      85 | 0x2854      |       10324 |
+|      86 | 0x2855      |       10325 |
+|      87 | 0x2856      |       10326 |
+|      88 | 0x2857      |       10327 |
+|      89 | 0x2858      |       10328 |
+|      90 | 0x2859      |       10329 |
+|      91 | 0x285A      |       10330 |
+|      92 | 0x285B      |       10331 |
+|      93 | 0x285C      |       10332 |
+|      94 | 0x285D      |       10333 |
+|      95 | 0x285E      |       10334 |
+|      96 | 0x285F      |       10335 |
+|      97 | 0x2860      |       10336 |
+|      98 | 0x2861      |       10337 |
+|      99 | 0x2862      |       10338 |
+|     100 | 0x2863      |       10339 |
+|     101 | 0x2864      |       10340 |
+|     102 | 0x2865      |       10341 |
+|     103 | 0x2866      |       10342 |
+|     104 | 0x2867      |       10343 |
+|     105 | 0x2868      |       10344 |
+|     106 | 0x2869      |       10345 |
+|     107 | 0x286A      |       10346 |
+|     108 | 0x286B      |       10347 |
+|     109 | 0x286C      |       10348 |
+|     110 | 0x286D      |       10349 |
+|     111 | 0x286E      |       10350 |
+|     112 | 0x286F      |       10351 |
+|     113 | 0x2847      |       10311 |
+|     114 | 0x2848      |       10312 |
+|     115 | 0x2849      |       10313 |
+|     116 | 0x284A      |       10314 |
+|     117 | 0x284B      |       10315 |
+|     118 | 0x284C      |       10316 |
 |     119 | 0x004E      |          78 |
 |     120 | 0x0012      |          18 |
 |     121 | 0x002A      |          42 |
@@ -156,128 +156,128 @@
 |     133 | 0x003A      |          58 |
 |     134 | 0x0044      |          68 |
 |     135 | 0x0045      |          69 |
-|     136 | 0x2870      |       10352 |
-|     137 | 0x2871      |       10353 |
-|     138 | 0x2872      |       10354 |
-|     139 | 0x2873      |       10355 |
-|     140 | 0x2874      |       10356 |
-|     141 | 0x2875      |       10357 |
-|     142 | 0x2876      |       10358 |
-|     143 | 0x2877      |       10359 |
-|     144 | 0x2878      |       10360 |
-|     145 | 0x2879      |       10361 |
-|     146 | 0x287A      |       10362 |
-|     147 | 0x287B      |       10363 |
-|     148 | 0x287C      |       10364 |
-|     149 | 0x287D      |       10365 |
-|     150 | 0x287E      |       10366 |
-|     151 | 0x287F      |       10367 |
-|     152 | 0x2880      |       10368 |
-|     153 | 0x2881      |       10369 |
-|     154 | 0x2882      |       10370 |
-|     155 | 0x2883      |       10371 |
-|     156 | 0x2884      |       10372 |
-|     157 | 0x2885      |       10373 |
-|     158 | 0x2886      |       10374 |
-|     159 | 0x2887      |       10375 |
-|     160 | 0x2888      |       10376 |
-|     161 | 0x2889      |       10377 |
-|     162 | 0x288A      |       10378 |
-|     163 | 0x288B      |       10379 |
-|     164 | 0x288C      |       10380 |
-|     165 | 0x288D      |       10381 |
-|     166 | 0x288E      |       10382 |
-|     167 | 0x288F      |       10383 |
-|     168 | 0x2890      |       10384 |
-|     169 | 0x2891      |       10385 |
-|     170 | 0x2892      |       10386 |
-|     171 | 0x2893      |       10387 |
-|     172 | 0x2894      |       10388 |
-|     173 | 0x2899      |       10393 |
-|     174 | 0x289A      |       10394 |
-|     175 | 0x289B      |       10395 |
+|     136 | 0x2871      |       10353 |
+|     137 | 0x2872      |       10354 |
+|     138 | 0x2873      |       10355 |
+|     139 | 0x2874      |       10356 |
+|     140 | 0x2875      |       10357 |
+|     141 | 0x2876      |       10358 |
+|     142 | 0x2877      |       10359 |
+|     143 | 0x2878      |       10360 |
+|     144 | 0x2879      |       10361 |
+|     145 | 0x287A      |       10362 |
+|     146 | 0x287B      |       10363 |
+|     147 | 0x287C      |       10364 |
+|     148 | 0x287D      |       10365 |
+|     149 | 0x287E      |       10366 |
+|     150 | 0x287F      |       10367 |
+|     151 | 0x2880      |       10368 |
+|     152 | 0x2881      |       10369 |
+|     153 | 0x2882      |       10370 |
+|     154 | 0x2883      |       10371 |
+|     155 | 0x2884      |       10372 |
+|     156 | 0x2885      |       10373 |
+|     157 | 0x2886      |       10374 |
+|     158 | 0x2887      |       10375 |
+|     159 | 0x2888      |       10376 |
+|     160 | 0x2889      |       10377 |
+|     161 | 0x288A      |       10378 |
+|     162 | 0x288B      |       10379 |
+|     163 | 0x288C      |       10380 |
+|     164 | 0x288D      |       10381 |
+|     165 | 0x288E      |       10382 |
+|     166 | 0x288F      |       10383 |
+|     167 | 0x2890      |       10384 |
+|     168 | 0x2891      |       10385 |
+|     169 | 0x2892      |       10386 |
+|     170 | 0x2893      |       10387 |
+|     171 | 0x2894      |       10388 |
+|     172 | 0x2895      |       10389 |
+|     173 | 0x289A      |       10394 |
+|     174 | 0x289B      |       10395 |
+|     175 | 0x289C      |       10396 |
 |     176 | 0x0A20      |        2592 |
-|     177 | 0x289C      |       10396 |
-|     178 | 0x289D      |       10397 |
-|     179 | 0x289E      |       10398 |
-|     180 | 0x289F      |       10399 |
-|     181 | 0x28A0      |       10400 |
-|     182 | 0x28A1      |       10401 |
+|     177 | 0x289D      |       10397 |
+|     178 | 0x289E      |       10398 |
+|     179 | 0x289F      |       10399 |
+|     180 | 0x28A0      |       10400 |
+|     181 | 0x28A1      |       10401 |
+|     182 | 0x28A2      |       10402 |
 |     183 | 0x07D0      |        2000 |
-|     184 | 0x2895      |       10389 |
-|     185 | 0x2896      |       10390 |
-|     186 | 0x2897      |       10391 |
-|     187 | 0x2898      |       10392 |
-|     188 | 0x28A2      |       10402 |
-|     189 | 0x28A3      |       10403 |
-|     190 | 0x28A4      |       10404 |
-|     191 | 0x28A5      |       10405 |
-|     192 | 0x28A6      |       10406 |
-|     193 | 0x28A7      |       10407 |
-|     194 | 0x28A8      |       10408 |
-|     195 | 0x28A9      |       10409 |
-|     196 | 0x28AA      |       10410 |
-|     197 | 0x28AB      |       10411 |
-|     198 | 0x28AC      |       10412 |
+|     184 | 0x2896      |       10390 |
+|     185 | 0x2897      |       10391 |
+|     186 | 0x2898      |       10392 |
+|     187 | 0x2899      |       10393 |
+|     188 | 0x28A3      |       10403 |
+|     189 | 0x28A4      |       10404 |
+|     190 | 0x28A5      |       10405 |
+|     191 | 0x28A6      |       10406 |
+|     192 | 0x28A7      |       10407 |
+|     193 | 0x28A8      |       10408 |
+|     194 | 0x28A9      |       10409 |
+|     195 | 0x28AA      |       10410 |
+|     196 | 0x28AB      |       10411 |
+|     197 | 0x28AC      |       10412 |
+|     198 | 0x28AD      |       10413 |
 |     199 | 0x02AA      |         682 |
-|     200 | 0x28AD      |       10413 |
+|     200 | 0x28AE      |       10414 |
 |     201 | 0x02AB      |         683 |
-|     202 | 0x28AE      |       10414 |
+|     202 | 0x28AF      |       10415 |
 |     203 | 0x02AC      |         684 |
-|     204 | 0x28AF      |       10415 |
+|     204 | 0x28B0      |       10416 |
 |     205 | 0x02AD      |         685 |
-|     206 | 0x28B0      |       10416 |
+|     206 | 0x28B1      |       10417 |
 |     207 | 0x02AE      |         686 |
-|     208 | 0x28B1      |       10417 |
+|     208 | 0x28B2      |       10418 |
 |     209 | 0x02AF      |         687 |
-|     210 | 0x28B2      |       10418 |
+|     210 | 0x28B3      |       10419 |
 |     211 | 0x02B0      |         688 |
-|     212 | 0x28B3      |       10419 |
+|     212 | 0x28B4      |       10420 |
 |     213 | 0x02B1      |         689 |
-|     214 | 0x28B4      |       10420 |
+|     214 | 0x28B5      |       10421 |
 |     215 | 0x02B2      |         690 |
-|     216 | 0x28B5      |       10421 |
+|     216 | 0x28B6      |       10422 |
 |     217 | 0x02B3      |         691 |
-|     218 | 0x28B6      |       10422 |
+|     218 | 0x28B7      |       10423 |
 |     219 | 0x02B4      |         692 |
-|     220 | 0x28B7      |       10423 |
+|     220 | 0x28B8      |       10424 |
 |     221 | 0x02B5      |         693 |
-|     222 | 0x28B8      |       10424 |
+|     222 | 0x28B9      |       10425 |
 |     223 | 0x02B6      |         694 |
-|     224 | 0x28B9      |       10425 |
+|     224 | 0x28BA      |       10426 |
 |     225 | 0x02B7      |         695 |
-|     226 | 0x28BA      |       10426 |
+|     226 | 0x28BB      |       10427 |
 |     227 | 0x02B8      |         696 |
-|     228 | 0x28BB      |       10427 |
+|     228 | 0x28BC      |       10428 |
 |     229 | 0x02B9      |         697 |
-|     230 | 0x28BC      |       10428 |
+|     230 | 0x28BD      |       10429 |
 |     231 | 0x02BA      |         698 |
-|     232 | 0x28BD      |       10429 |
+|     232 | 0x28BE      |       10430 |
 |     233 | 0x0011      |          17 |
 |     234 | 0x02BB      |         699 |
-|     235 | 0x28BE      |       10430 |
+|     235 | 0x28BF      |       10431 |
 |     236 | 0x02BC      |         700 |
-|     237 | 0x28BF      |       10431 |
+|     237 | 0x28C0      |       10432 |
 |     238 | 0x0013      |          19 |
 |     239 | 0x0309      |         777 |
-|     240 | 0x28C0      |       10432 |
+|     240 | 0x28C1      |       10433 |
 |     241 | 0x0014      |          20 |
 |     242 | 0x030A      |         778 |
-|     243 | 0x28C1      |       10433 |
+|     243 | 0x28C2      |       10434 |
 |     244 | 0x0015      |          21 |
 |     245 | 0x030B      |         779 |
-|     246 | 0x28C2      |       10434 |
+|     246 | 0x28C3      |       10435 |
 |     247 | 0x0016      |          22 |
 |     248 | 0x0393      |         915 |
-|     249 | 0x28C3      |       10435 |
+|     249 | 0x28C4      |       10436 |
 |     250 | 0x0394      |         916 |
-|     251 | 0x28C4      |       10436 |
+|     251 | 0x28C5      |       10437 |
 |     252 | 0x0018      |          24 |
 |     253 | 0x0737      |        1847 |
-|     254 | 0x28C5      |       10437 |
+|     254 | 0x28C6      |       10438 |
 |     255 | 0x0019      |          25 |
 |     256 | 0x0738      |        1848 |
-|     257 | 0x28C6      |       10438 |
+|     257 | 0x28C7      |       10439 |
 |     258 | 0x1B00      |        6912 |
 |     259 | 0x3600      |       13824 |
 |     260 | 0x5100      |       20736 |
@@ -291,190 +291,190 @@
 |     268 | 0x19500     |      103680 |
 |     269 | 0x7FFF      |       32767 |
 |     270 | 0x116700    |     1140480 |
-|     271 | 0x28D0      |       10448 |
-|     272 | 0x28CF      |       10447 |
-|     273 | 0x28CE      |       10446 |
-|     274 | 0x28D1      |       10449 |
-|     275 | 0x28D2      |       10450 |
-|     276 | 0x28D3      |       10451 |
-|     277 | 0x28D4      |       10452 |
-|     278 | 0x28D5      |       10453 |
-|     279 | 0x28D6      |       10454 |
-|     280 | 0x28C9      |       10441 |
-|     281 | 0x28CA      |       10442 |
-|     282 | 0x28CB      |       10443 |
-|     283 | 0x28CC      |       10444 |
-|     284 | 0x28CD      |       10445 |
+|     271 | 0x28D1      |       10449 |
+|     272 | 0x28D0      |       10448 |
+|     273 | 0x28CF      |       10447 |
+|     274 | 0x28D2      |       10450 |
+|     275 | 0x28D3      |       10451 |
+|     276 | 0x28D4      |       10452 |
+|     277 | 0x28D5      |       10453 |
+|     278 | 0x28D6      |       10454 |
+|     279 | 0x28D7      |       10455 |
+|     280 | 0x28CA      |       10442 |
+|     281 | 0x28CB      |       10443 |
+|     282 | 0x28CC      |       10444 |
+|     283 | 0x28CD      |       10445 |
+|     284 | 0x28CE      |       10446 |
 
 ## String References
 
-- **10276**: The IRNC has dispatched me to help support all those who wish to participate in Conflict.
-- **10277**: Before you can take part in this Conflict event, you must first possess $6. You can obtain one from your nation's Conflict Commander, [Excenmille, stationed in Northern San d'Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]
-- **10278**: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.
-- **10279**: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.
-- **10281**: What can I help you with? [Nothing./The upcoming Ballista matches./The Ballista schedule./A teleport to the Ballista match./The rules of Ballista./Borrow/Return $6./Borrow/Return $6./Borrow/Return $6./The upcoming Brenner matches./A teleport to the Brenner match (Lv $7)./The rules of Brenner./Borrow/Return $6./Borrow/Return $6.]
-- **10282**: I am allowed to teleport Ballista participants to the site of the next match in exchange for $6 or $1 Ballista [Point/Points]. This service is available from twenty-four hours before the start of the match, up until the end of the match.
-- **10283**: 6 can be received after participating in Ballista, or in the event one is not able to participate due to an influx (or lack) of entries.
-- **10284**: I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match.
-- **10285**: The following information regards the match I am currently authorized to teleport you to...
-- **10286**: Teleport? [Right away./Not yet.]
-- **10287**: I am sorry, but I cannot teleport you at this time.
-- **10288**: I am sorry, but I cannot teleport you at this time. Please return when there are less than twenty-four hours remaining until the next match.
-- **10295**: While wearing $6 during a match, you will be able to hear the orders of your nation's Pursuivant. His advice will aid you in battle.
-- **10296**: Also, you will be informed of all the latest match information when entering select cities.
-- **10297**: Would you like $6? [Yes./No.]
-- **10298**: Return your $3? [Yes./No.]
-- **10300**: By carrying $6 with you during a Ballista match, any temporary item you quarry will be automatically placed in your bag without you having to select whether you wish to keep it, use it, or throw it away.
-- **10301**: When your inventory is full, or you cannot carry any more of a certain item, the newly quarried item will be automatically discarded. If you wish, I can lend you one of these shovels, free of charge.
-- **10302**: Borrow $6? [Yes./No.]
-- **10304**: Return the $3? [Yes./No.]
-- **10306**: When carrying $6 with you while participating in a Ballista match, you will have the option to keep or throw away the first Petra you find. This is useful when you want to continue /sprinting.
-- **10307**: If you wish, I can loan you one, free of charge.
-- **10308**: Borrow $6? [Yes./No.]
-- **10309**: Return the $3? [Yes./No.]
-- **10310**: When in possession of the key item $3, temporary items will be automatically added to the player's inventory when quarried.
-- **10311**: When a player's inventory exceeds the maximum capacity, any temporary item found will simply be discarded. You can speak to me to borrow or return the shovel at any time.
-- **10312**: Borrow the $3? [Yes./No.]
-- **10313**: Return the $3? [Yes./No.]
-- **10314**: When in possession of the key item $3, you will have the choice of keeping or throwing away the first Petra you quarry. You will also retain the ability to sprint.
-- **10315**: You can speak to me to borrow or return the band at any time.
-- **10316**: Select a match level... [View all levels./No restriction ($0 gil per match)./Level 60 ($1 gil per match)./Level 50 ($2 gil per match)./Level 40 ($3 gil per match)./Level 30 ($4 gil per match)./Return.]
-- **10317**: Select for more information... [, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $794668[ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/Next./Return.]
-- **10318**: <Match $0> Entry period begins: Briefing begins:
-- **10319**: I apologize, but your level is too low to participate in an official Brenner match.
-- **10320**: Official matches are scheduled to begin at the following times: Match 1: Match 2: Match 3:
-- **10321**: Teleportation to the Isle is free of charge, but a participation fee of $0 gil is required before each match.
-- **10322**: Travel to the Isle? [Yes./Not yet.]
-- **10323**: What would you like to know about? [Basic rules./Official/private matches./Flammen-Brenner./Flamme./Match score./Petras and quarrying./Sprint./KO./Return.]
-- **10324**: The basic rules of Brenner are as follows:
-- **10325**: First, the participants divide into two teams. Each side's camp contains the same number of "Flammen-Brenner."
-- **10326**: At the beginning of the match, half of each side's Flammen-Brenner will be ablaze with "Flamme," or flame, while the other half will remain unlit.
-- **10327**: Participants can seize a Flamme from the opposing side's Flammen-Brenner and carry it around the Isle.
-- **10328**: The goal is to steal your opponent's Flamme and use them to light your side's Flammen-Brenner.
-- **10329**: The side that succeeds in lighting all of its Flammen-Brenner will be declared the winner after a specified amount of time.
-- **10330**: If neither side is victorious before the match ends, the outcome will be judged based on the score. The "match score" section of the rulebook contains more information on this subject.
-- **10331**: Brenner is significantly divided into public and private matches. Official matches are held periodically according to level and feature general participation.
-- **10332**: You cannot reserve the Isle when an official match is being held.
-- **10333**: No items are necessary for participation, but a minor fee will be collected. You will be unable to participate if your level is too low.
-- **10334**: The match outcome will be recorded unless the number of participants fails to exceed $0 members, or if there are fewer than $1 members in a match where the two sides' numbers differ. In such cases, the game will be considered a training match and will not be recorded.
-- **10335**: Private matches require a reservation, and participation may be limited. The Master of Ceremonies (MC) can freely adjust the rules and control match proceedings.
-- **10336**: "LS Liga" is a form of private match. You can learn more about LS Liga by speaking to a Marshal.
-- **10337**: A Flammen-Brenner is a device that contains a Flamme (flame). The Flammen-Brenner is covered by a grate that will open after taking a set amount of damage, exposing the Flamme.
-- **10338**: The participants must utilize this chance to seize the Flamme before the grate recloses. Once the grate is closed, the Flammen-Brenner will begin recovering from the damage it has been dealt.
-- **10339**: If you manage to open the opposing team's Flammen-Brenner and capture their Flamme, you should make haste to light one of the Flammen-Brenner on your side.
-- **10340**: After a certain amount of time, the Flamme will burn out and the opposing team's Flammen-Brenner will be relit.
-- **10341**: Also, please note that you cannot quicken your pace using any special abilities while you are in possession of a Flamme.
-- **10342**: In the event that neither side fulfills the conditions for victory, the outcome of the match will be evaluated based on score.
-- **10343**: Ten points are awarded to each side for every lit Flammen-Brenner, while one point is awarded whenever a Flamme is captured, used to light a Flammen-Brenner, or recaptured from an opponent. One point is also awarded for protecting the Flammen-Brenner for a certain period of time.
-- **10344**: Like Ballista, quarry (/quarry) can be used while playing Brenner. Participants may use this ability to dig up Petras and temporary items.
-- **10345**: However, unlike Ballista Petras, Brenner Petras have no effect on the match score. You can trade a Petra to a Pursuivant to recover your HP and MP at no expense to TP.
-- **10346**: Sprint cannot be used while carrying a Petra. Also, please note that the scout ability cannot be used in Brenner.
-- **10347**: Petras will be lost in the event of a KO, but can be carried over from one match to another.
-- **10348**: The sprint (/sprint) ability can be used to increase the player's speed when not in possession of a Flamme or Petras.
-- **10349**: In the event of a KO, you will be returned to your team's camp. However, recovery will take longer the more often you fall in battle.
-- **10350**: In other words, you will receive a penalty if you fall immediately after recovering from KO. In addition, your TP will be reduced to zero and you will lose any Petras in your possession.
-- **10351**: I'm sorry. I wasn't listening. Could you start over from the beginning?
-- **10352**: What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]
-- **10353**: Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries.
-- **10354**: The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
-- **10355**: Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
-- **10356**: These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
-- **10357**: Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
-- **10358**: Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
-- **10359**: Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
-- **10360**: Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
-- **10361**: But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
-- **10362**: As one can see, careful planning and impeccable timing are the keys to victory.
-- **10363**: All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
-- **10364**: However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
-- **10365**: The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
-- **10366**: Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
-- **10367**: Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
-- **10368**: So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
-- **10369**: There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
-- **10370**: To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
-- **10371**: But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
-- **10372**: This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
-- **10373**: Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
-- **10374**: The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
-- **10375**: Best of Three series rules are as follows: Winning a match will earn a nation one "match point." The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for "come-from-behind" victories.
-- **10376**: Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
-- **10377**: Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
-- **10378**: When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
-- **10379**: For more information on temporary items, refer to the "special rules."
-- **10380**: After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
-- **10381**: If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
-- **10382**: Please note that many of the rules previously considered "special" have been fully implemented. Also, several new special rules have been added.
-- **10383**: Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]
-- **10384**: Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
-- **10385**: Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
-- **10386**: If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
-- **10387**: Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
-- **10388**: Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
-- **10389**: Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0.
-- **10390**: While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
-- **10391**: Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches.
-- **10392**: However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
-- **10393**: Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
-- **10394**: All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
-- **10395**: Players' resistance to sleep will be increased.
-- **10396**: During the entry period, from $0:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
-- **10397**: In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 1\`30
-- **10398**: Level 40 matches: 31\`40 Level 50 matches: 41\`50 Level 60 matches: 51\`60 Unrestricted matches: 61\`
-- **10399**: Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
-- **10400**: When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
-- **10401**: Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
-- **10402**: Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]
-- **10403**: Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
-- **10404**: Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
-- **10405**: After the registration period ends, players can compare their record with those of the previous nine matches.
-- **10406**: If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
-- **10407**: There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs.
-- **10408**: Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
-- **10409**: Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
-- **10410**: However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
-- **10411**: Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
-- **10412**: View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]
-- **10413**: Key Item: $3 Title: Gold Balli$25$25$25$25star
-- **10414**: Key Item: $3 Title: Mythril Balli$25$25$25star
-- **10415**: Key Item: $3 Title: Silver Balli$25$25star
-- **10416**: Key Item: $3 Title: Bronze Balli$25star
-- **10417**: Key Item: $3 Title: Searing$26Star
-- **10418**: Key Item: $3 Title: Striking$26Star
-- **10419**: Key Item: $3 Title: Soothing$26Star
-- **10420**: Key Item: $3 Title: Sable$26Star
-- **10421**: Key Item: $3 Title: Scarlet$26Star
-- **10422**: Key Item: $3 Title: Sonic$26Star
-- **10423**: Key Item: $3 Title: Saintly$26Star
-- **10424**: Key Item: $3 Title: Shadowy$26Star
-- **10425**: Key Item: $3 Title: Savage$26Star
-- **10426**: Key Item: $3 Title: Singing$26Star
-- **10427**: Key Item: $3 Title: Sniping$26Star
-- **10428**: Key Item: $3 Title: Slicing$26Star
-- **10429**: Key Item: $3 Title: Sneaking$26Star
-- **10430**: Key Item: $3 Title: Spearing$26Star
-- **10431**: Key Item: $3 Title: Summoning$26Star
-- **10432**: Key Item: $3 Title: Sapphire$26Star
-- **10433**: Key Item: $3 Title: Surging$26Star
-- **10434**: Key Item: $3 Title: Swaying$26Star
-- **10435**: Key Item: $3 Title: Sprightly$26Star
-- **10436**: Key Item: $3 Title: Sagacious$26Star
-- **10437**: Key Item: $3 Title: Spiritual$26Star
-- **10438**: Key Item: $3 Title: Stippling$26Star
-- **10441**: Matches are only played on even days (Vana'diel time).
-- **10442**: Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
-- **10443**: Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None
-- **10444**: And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil
-- **10445**: Participating nations are selected in the following manner...
-- **10446**: Matches for the 1st\`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
-- **10447**: Matches for the 5th\`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
-- **10448**: Matches for the 9th\`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
-- **10449**: Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]
-- **10450**: Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]
-- **10451**: Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]
-- **10452**: Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
-- **10453**: Entry period begins: Vana'diel: Earth:
-- **10454**: Match begins: Vana'diel: Earth:
+- **10277**: The IRNC has dispatched me to help support all those who wish to participate in Conflict.
+- **10278**: Before you can take part in this Conflict event, you must first possess $6. You can obtain one from your nation's Conflict Commander, [Excenmille, stationed in Northern San d'Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]
+- **10279**: Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation.
+- **10280**: However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel.
+- **10282**: What can I help you with? [Nothing./The upcoming Ballista matches./The Ballista schedule./A teleport to the Ballista match./The rules of Ballista./Borrow/Return $6./Borrow/Return $6./Borrow/Return $6./The upcoming Brenner matches./A teleport to the Brenner match (Lv $7)./The rules of Brenner./Borrow/Return $6./Borrow/Return $6.]
+- **10283**: I am allowed to teleport Ballista participants to the site of the next match in exchange for $6 or $1 Ballista [Point/Points]. This service is available from twenty-four hours before the start of the match, up until the end of the match.
+- **10284**: 6 can be received after participating in Ballista, or in the event one is not able to participate due to an influx (or lack) of entries.
+- **10285**: I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match.
+- **10286**: The following information regards the match I am currently authorized to teleport you to...
+- **10287**: Teleport? [Right away./Not yet.]
+- **10288**: I am sorry, but I cannot teleport you at this time.
+- **10289**: I am sorry, but I cannot teleport you at this time. Please return when there are less than twenty-four hours remaining until the next match.
+- **10296**: While wearing $6 during a match, you will be able to hear the orders of your nation's Pursuivant. His advice will aid you in battle.
+- **10297**: Also, you will be informed of all the latest match information when entering select cities.
+- **10298**: Would you like $6? [Yes./No.]
+- **10299**: Return your $3? [Yes./No.]
+- **10301**: By carrying $6 with you during a Ballista match, any temporary item you quarry will be automatically placed in your bag without you having to select whether you wish to keep it, use it, or throw it away.
+- **10302**: When your inventory is full, or you cannot carry any more of a certain item, the newly quarried item will be automatically discarded. If you wish, I can lend you one of these shovels, free of charge.
+- **10303**: Borrow $6? [Yes./No.]
+- **10305**: Return the $3? [Yes./No.]
+- **10307**: When carrying $6 with you while participating in a Ballista match, you will have the option to keep or throw away the first Petra you find. This is useful when you want to continue /sprinting.
+- **10308**: If you wish, I can loan you one, free of charge.
+- **10309**: Borrow $6? [Yes./No.]
+- **10310**: Return the $3? [Yes./No.]
+- **10311**: When in possession of the key item $3, temporary items will be automatically added to the player's inventory when quarried.
+- **10312**: When a player's inventory exceeds the maximum capacity, any temporary item found will simply be discarded. You can speak to me to borrow or return the shovel at any time.
+- **10313**: Borrow the $3? [Yes./No.]
+- **10314**: Return the $3? [Yes./No.]
+- **10315**: When in possession of the key item $3, you will have the choice of keeping or throwing away the first Petra you quarry. You will also retain the ability to sprint.
+- **10316**: You can speak to me to borrow or return the band at any time.
+- **10317**: Select a match level... [View all levels./No restriction ($0 gil per match)./Level 60 ($1 gil per match)./Level 50 ($2 gil per match)./Level 40 ($3 gil per match)./Level 30 ($4 gil per match)./Return.]
+- **10318**: Select for more information... [, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $794668[ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/Next./Return.]
+- **10319**: <Match $0> Entry period begins: Briefing begins:
+- **10320**: I apologize, but your level is too low to participate in an official Brenner match.
+- **10321**: Official matches are scheduled to begin at the following times: Match 1: Match 2: Match 3:
+- **10322**: Teleportation to the Isle is free of charge, but a participation fee of $0 gil is required before each match.
+- **10323**: Travel to the Isle? [Yes./Not yet.]
+- **10324**: What would you like to know about? [Basic rules./Official/private matches./Flammen-Brenner./Flamme./Match score./Petras and quarrying./Sprint./KO./Return.]
+- **10325**: The basic rules of Brenner are as follows:
+- **10326**: First, the participants divide into two teams. Each side's camp contains the same number of "Flammen-Brenner."
+- **10327**: At the beginning of the match, half of each side's Flammen-Brenner will be ablaze with "Flamme," or flame, while the other half will remain unlit.
+- **10328**: Participants can seize a Flamme from the opposing side's Flammen-Brenner and carry it around the Isle.
+- **10329**: The goal is to steal your opponent's Flamme and use them to light your side's Flammen-Brenner.
+- **10330**: The side that succeeds in lighting all of its Flammen-Brenner will be declared the winner after a specified amount of time.
+- **10331**: If neither side is victorious before the match ends, the outcome will be judged based on the score. The "match score" section of the rulebook contains more information on this subject.
+- **10332**: Brenner is significantly divided into public and private matches. Official matches are held periodically according to level and feature general participation.
+- **10333**: You cannot reserve the Isle when an official match is being held.
+- **10334**: No items are necessary for participation, but a minor fee will be collected. You will be unable to participate if your level is too low.
+- **10335**: The match outcome will be recorded unless the number of participants fails to exceed $0 members, or if there are fewer than $1 members in a match where the two sides' numbers differ. In such cases, the game will be considered a training match and will not be recorded.
+- **10336**: Private matches require a reservation, and participation may be limited. The Master of Ceremonies (MC) can freely adjust the rules and control match proceedings.
+- **10337**: "LS Liga" is a form of private match. You can learn more about LS Liga by speaking to a Marshal.
+- **10338**: A Flammen-Brenner is a device that contains a Flamme (flame). The Flammen-Brenner is covered by a grate that will open after taking a set amount of damage, exposing the Flamme.
+- **10339**: The participants must utilize this chance to seize the Flamme before the grate recloses. Once the grate is closed, the Flammen-Brenner will begin recovering from the damage it has been dealt.
+- **10340**: If you manage to open the opposing team's Flammen-Brenner and capture their Flamme, you should make haste to light one of the Flammen-Brenner on your side.
+- **10341**: After a certain amount of time, the Flamme will burn out and the opposing team's Flammen-Brenner will be relit.
+- **10342**: Also, please note that you cannot quicken your pace using any special abilities while you are in possession of a Flamme.
+- **10343**: In the event that neither side fulfills the conditions for victory, the outcome of the match will be evaluated based on score.
+- **10344**: Ten points are awarded to each side for every lit Flammen-Brenner, while one point is awarded whenever a Flamme is captured, used to light a Flammen-Brenner, or recaptured from an opponent. One point is also awarded for protecting the Flammen-Brenner for a certain period of time.
+- **10345**: Like Ballista, quarry (/quarry) can be used while playing Brenner. Participants may use this ability to dig up Petras and temporary items.
+- **10346**: However, unlike Ballista Petras, Brenner Petras have no effect on the match score. You can trade a Petra to a Pursuivant to recover your HP and MP at no expense to TP.
+- **10347**: Sprint cannot be used while carrying a Petra. Also, please note that the scout ability cannot be used in Brenner.
+- **10348**: Petras will be lost in the event of a KO, but can be carried over from one match to another.
+- **10349**: The sprint (/sprint) ability can be used to increase the player's speed when not in possession of a Flamme or Petras.
+- **10350**: In the event of a KO, you will be returned to your team's camp. However, recovery will take longer the more often you fall in battle.
+- **10351**: In other words, you will receive a penalty if you fall immediately after recovering from KO. In addition, your TP will be reduced to zero and you will lose any Petras in your possession.
+- **10352**: I'm sorry. I wasn't listening. Could you start over from the beginning?
+- **10353**: What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]
+- **10354**: Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries.
+- **10355**: The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor.
+- **10356**: Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks.
+- **10357**: These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them.
+- **10358**: Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle.
+- **10359**: Petras can be buried anywhere. Once a player believes he or she has found one, the Quarry (/quarry) command should be used to dig up the area at his or her feet.
+- **10360**: Sometimes a player may find items other than Petras, such as potions. These temporary items can only be used during the current match (or Best of Three series).
+- **10361**: Players can carry more than one Petra, but they cannot throw the stones away once they have obtained them. However, players will lose their Petras if they: (1) Successfully throw them into a rook. (2) Leave the area. (3) Are knocked out.
+- **10362**: But don't forget, a player will be unable to use the Sprint command while in possession of a Petra. And, players can only use the Scout command if they carry one of the stones.
+- **10363**: As one can see, careful planning and impeccable timing are the keys to victory.
+- **10364**: All participants of Ballista will have the ability to use the Sprint command. This will temporarily increase one's movement speed, creating a better chance to find and obtain Petras.
+- **10365**: However, remember that once a player has obtained a Petra, he or she will be unable to use the Sprint command. In its place, though, one may use the Scout command.
+- **10366**: The locations of the Rooks are constantly changing. This makes it quite difficult to find the targets by just randomly walking about the area.
+- **10367**: Communication with one's team members is, of course, one way to locate Rooks. However, another way is by using the Scout command. This will inform a player of the approximate location of the nearest Rook.
+- **10368**: Finally, Scout can only be used when a player is carrying a Petra. Because Sprint cannot be used at this time, players must be weary of approaching enemies.
+- **10369**: So, a Petra has been obtained and a Rook located. Now all that's left is tossing the stone in, right? Wrong.
+- **10370**: There is one aspect of Ballista that has yet to be mentioned...and this is where the real battle begins.
+- **10371**: To throw a Petra into a Rook, a player must first wait until the Rook's gate is open. This takes impeccable timing, as the gate is only open for a short while.
+- **10372**: But not just anyone can score points this way. A player must first take down a member of the opposing team and achieve Gate Breach status. Only then will his or her shots count.
+- **10373**: This extreme method of combat is what made the ancient game of Ballista famous, and transformed its participants into heroes.
+- **10374**: Running about looking for stones is no different from a child's game of hide-and-seek. Knowing when to strike is what separates the men from the boys.
+- **10375**: The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains
+- **10376**: Best of Three series rules are as follows: Winning a match will earn a nation one "match point." The nation with the most match points at the end of the series will be declared the victor. Winning the third and final match and producing the high scorer will result in two match points awarded. This allows both sides the chance for "come-from-behind" victories.
+- **10377**: Between each of the matches, a short interval will be implemented. During this interval, Invisible and Sneak will be cast on all participants. We suggest this time be used to discuss strategies with the other members of your nation's forces.
+- **10378**: Players will be forbidden from using any items they bring to the battlefield. Only temporary items that are quarried may be used. A total of fifteen temporary items (though only one of each type) can be carried.
+- **10379**: When this rule is in effect, all players will be presented with five complimentary temporary items at the beginning of the match.
+- **10380**: For more information on temporary items, refer to the "special rules."
+- **10381**: After being KO'd, if a player chooses to be revived at the spot he was defeated, 100% of all HP and 50% of all MP will be restored. In addition, the player will maintain 50% of the TP he had earned.
+- **10382**: If a player chooses to return to their force's camp, HP and MP will be fully restored, but all TP will be lost.
+- **10383**: Please note that many of the rules previously considered "special" have been fully implemented. Also, several new special rules have been added.
+- **10384**: Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]
+- **10385**: Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match.
+- **10386**: Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away.
+- **10387**: If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items.
+- **10388**: Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried.
+- **10389**: Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded.
+- **10390**: Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0.
+- **10391**: While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score.
+- **10392**: Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches.
+- **10393**: However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points.
+- **10394**: Players will only be allowed to score up to five Petras at a time. Also, a player's Gate Breach status will be automatically disengaged if a Petra is not scored within a certain amount of time. The amount of time is increased for those members of the team currently behind in points.
+- **10395**: All allies within a certain radius will achieve Gate Breach status when a member of the enemy forces is defeated.
+- **10396**: Players' resistance to sleep will be increased.
+- **10397**: During the entry period, from $0:, all adventurers will be allowed to join the forces with the smallest number of participants, regardless of allegiance. Open entries will be accepted until both sides have reached maximum capacity.
+- **10398**: In order to ensure balanced matches, the following level limits are enforced: Level 30 matches: 1\`30
+- **10399**: Level 40 matches: 31\`40 Level 50 matches: 41\`50 Level 60 matches: 51\`60 Unrestricted matches: 61\`
+- **10400**: Please note that any participant who cancels his or her registration will not be allowed to re-apply for the same match.
+- **10401**: When the total number of participants in a match is less than 40, the location of the two camps will be adjusted. Also in this case, the number of Rooks will be reduced to two.
+- **10402**: Any adventurer whose main level is over 30 will receive EXP for participating in a Ballista match. However, no EXP will be rewarded if the adventurer fails to actively take part in the match.
+- **10403**: Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]
+- **10404**: Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas.
+- **10405**: Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match.
+- **10406**: After the registration period ends, players can compare their record with those of the previous nine matches.
+- **10407**: If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title.
+- **10408**: There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs.
+- **10409**: Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria.
+- **10410**: Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players.
+- **10411**: However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches.
+- **10412**: Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date.
+- **10413**: View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]
+- **10414**: Key Item: $3 Title: Gold Balli$25$25$25$25star
+- **10415**: Key Item: $3 Title: Mythril Balli$25$25$25star
+- **10416**: Key Item: $3 Title: Silver Balli$25$25star
+- **10417**: Key Item: $3 Title: Bronze Balli$25star
+- **10418**: Key Item: $3 Title: Searing$26Star
+- **10419**: Key Item: $3 Title: Striking$26Star
+- **10420**: Key Item: $3 Title: Soothing$26Star
+- **10421**: Key Item: $3 Title: Sable$26Star
+- **10422**: Key Item: $3 Title: Scarlet$26Star
+- **10423**: Key Item: $3 Title: Sonic$26Star
+- **10424**: Key Item: $3 Title: Saintly$26Star
+- **10425**: Key Item: $3 Title: Shadowy$26Star
+- **10426**: Key Item: $3 Title: Savage$26Star
+- **10427**: Key Item: $3 Title: Singing$26Star
+- **10428**: Key Item: $3 Title: Sniping$26Star
+- **10429**: Key Item: $3 Title: Slicing$26Star
+- **10430**: Key Item: $3 Title: Sneaking$26Star
+- **10431**: Key Item: $3 Title: Spearing$26Star
+- **10432**: Key Item: $3 Title: Summoning$26Star
+- **10433**: Key Item: $3 Title: Sapphire$26Star
+- **10434**: Key Item: $3 Title: Surging$26Star
+- **10435**: Key Item: $3 Title: Swaying$26Star
+- **10436**: Key Item: $3 Title: Sprightly$26Star
+- **10437**: Key Item: $3 Title: Sagacious$26Star
+- **10438**: Key Item: $3 Title: Spiritual$26Star
+- **10439**: Key Item: $3 Title: Stippling$26Star
+- **10442**: Matches are only played on even days (Vana'diel time).
+- **10443**: Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud
+- **10444**: Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None
+- **10445**: And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil
+- **10446**: Participating nations are selected in the following manner...
+- **10447**: Matches for the 1st\`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst
+- **10448**: Matches for the 5th\`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria
+- **10449**: Matches for the 9th\`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst
+- **10450**: Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]
+- **10451**: Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]
+- **10452**: Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]
+- **10453**: Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]
+- **10454**: Entry period begins: Vana'diel: Earth:
+- **10455**: Match begins: Vana'diel: Earth:
 
 ## Events
 
@@ -772,7 +772,7 @@
 1000: 20 00 05 81 03 21 00 1F  00 07 21 00 06 81 03 22   ....!....!...."
 1010: 00 1F 00 07 22 00 07 81  03 23 00 07 81 03 24 00  ...."....#....$.
 1020: 1F 00 07 24 00 02 81 03  25 00 1F 00 07 25 00 02  ...$....%....%..
-1030: 81 03 26 00 1F 00 07 26  00 98 80 03 2A 00 1F 00  ..&....&....*...
+1030: 81 03 26 00 1F 00 07 26  00 97 80 03 2A 00 1F 00  ..&....&....*...
 1040: 15 2A 00 08 81 3F 1C 00  2A 00 0E 80 02 27 00 00  .*...?..*....'..
 1050: 80 80 57 10 01 77 10 02  27 00 01 80 80 67 10 07  ..W..w..'....g..
 1060: 1C 00 01 80 01 77 10 02  27 00 02 80 80 77 10 07  .....w..'....w..
@@ -858,25 +858,25 @@
  14: 0x0064 [0x41] ExtData[1]->WorkLocal[21] = Work_Zone[2] (bits 14*-14*)
  15: 0x006D [0x03] ExtData[1]->WorkLocal[30] = Work_Zone[3]
  16: 0x0072 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[4]
- 17: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=10276*)
+ 17: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
     → "The IRNC has dispatched me to help support all those who wish to participate in Conflict."
  18: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x007B [0x06] ExtData[1]->WorkLocal[20] = 0
  20: 0x007E [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x00AA
  21: 0x0086 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 3*) GOTO 0x0095
- 22: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
+ 22: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
     → "Only adventurers who have achieved rank 3 or higher may take part in official Ballista matches. Please return when you have proven your loyalty to your home nation."
  23: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0092 [0x01] GOTO 0x00A3
  25: 0x0095 [0x03] Work_Zone[2] = 576*
  26: 0x009A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 27: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
+ 27: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
     → "Before you can take part in this Conflict event, you must first possess $6. You can obtain one from your nation's Conflict Commander, [Excenmille, stationed in Northern San d'Oria./Invincible Shield, stationed in the Metalworks in Bastok./Mhabi Molkot, stationed in Heavens Tower in Windurst.]"
  28: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00A3:
  29: 0x00A3 [0x05] ExtData[1]->WorkLocal[20] = 1
- 30: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
+ 30: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
     → "However, if you still wish to take part in Ballista, participation in matches held within Diorama Abdhaljs-Ghelsba is open to all citizens of Vana'diel."
  31: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -914,7 +914,7 @@ SUBROUTINE_012B:
  60: 0x0143 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=12*, condition_work_offset=1*)
 
 SUBROUTINE_014A:
- 61: 0x014A [0x24] CREATE_DIALOG(message_id=10281*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[17])
+ 61: 0x014A [0x24] CREATE_DIALOG(message_id=10282*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[17])
     → "What can I help you with? [Nothing./The upcoming Ballista matches./The Ballista schedule./A teleport to the Ballista match./The rules of Ballista./Borrow/Return $6./Borrow/Return $6./Borrow/Return $6./The upcoming Brenner matches./A teleport to the Brenner match (Lv $7)./The rules of Brenner./Borrow/Return $6./Borrow/Return $6.]"
  62: 0x0151 [0x25] WAIT_DIALOG_SELECT()
  63: 0x0152 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=Work_Zone[0])
@@ -957,11 +957,11 @@ SUBROUTINE_0233:
  94: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[36] < ExtData[1]->WorkLocal[44]) GOTO 0x02BC
  95: 0x0243 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02B5
  96: 0x024B [0x02] IF !(ExtData[1]->WorkLocal[39] > 2*) GOTO 0x02AE
- 97: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
+ 97: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=10286*)
     → "The following information regards the match I am currently authorized to teleport you to..."
  98: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0257 [0x1A] CALL_SUBROUTINE(address=0x1324)
-100: 0x025A [0x24] CREATE_DIALOG(message_id=10286*, default_option=1*, option_flags=0*)
+100: 0x025A [0x24] CREATE_DIALOG(message_id=10287*, default_option=1*, option_flags=0*)
     → "Teleport? [Right away./Not yet.]"
 101: 0x0261 [0x25] WAIT_DIALOG_SELECT()
 102: 0x0262 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AB
@@ -974,7 +974,7 @@ SUBROUTINE_0233:
 109: 0x0285 [0x1C] WAIT(260* ticks)
 110: 0x0288 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x02A0
 111: 0x0290 [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=128*, fade_time=0*)
-112: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=10287*)
+112: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=10288*)
     → "I am sorry, but I cannot teleport you at this time."
 113: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x029D [0x01] GOTO 0x02A1
@@ -987,13 +987,13 @@ SUBROUTINE_02A1:
 
 SUBROUTINE_02AB:
 119: 0x02AB [0x01] GOTO 0x02B2
-120: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10288*)
+120: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10289*)
     → "I am sorry, but I cannot teleport you at this time. Please return when there are less than twenty-four hours remaining until the next match."
 121: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02B2:
 122: 0x02B2 [0x01] GOTO 0x02BC
-123: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10284*)
+123: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
     → "I'm sorry, but I am not authorized to teleport persons who do not meet the level requirement for the match."
 124: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x02B9 [0x01] GOTO 0x02C2
@@ -1007,7 +1007,7 @@ SUBROUTINE_02C2:
 
 SUBROUTINE_0310:
 129: 0x0310 [0x01] GOTO 0x032A
-130: 0x0313 [0x24] CREATE_DIALOG(message_id=10298*, default_option=1*, option_flags=0*)
+130: 0x0313 [0x24] CREATE_DIALOG(message_id=10299*, default_option=1*, option_flags=0*)
     → "Return your $3? [Yes./No.]"
 131: 0x031A [0x25] WAIT_DIALOG_SELECT()
 132: 0x031B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0327
@@ -1019,14 +1019,14 @@ SUBROUTINE_032A:
 136: 0x032A [0x01] GOTO 0x09C2
 137: 0x032D [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x037E
 138: 0x0335 [0x03] Work_Zone[2] = 714*
-139: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=10300*)
+139: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
     → "By carrying $6 with you during a Ballista match, any temporary item you quarry will be automatically placed in your bag without you having to select whether you wish to keep it, use it, or throw it away."
 140: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=10301*)
+141: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=10302*)
     → "When your inventory is full, or you cannot carry any more of a certain item, the newly quarried item will be automatically discarded. If you wish, I can lend you one of these shovels, free of charge."
 142: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0342 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0364
-144: 0x034A [0x24] CREATE_DIALOG(message_id=10302*, default_option=1*, option_flags=0*)
+144: 0x034A [0x24] CREATE_DIALOG(message_id=10303*, default_option=1*, option_flags=0*)
     → "Borrow $6? [Yes./No.]"
 145: 0x0351 [0x25] WAIT_DIALOG_SELECT()
 146: 0x0352 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035E
@@ -1036,7 +1036,7 @@ SUBROUTINE_032A:
 
 SUBROUTINE_0361:
 150: 0x0361 [0x01] GOTO 0x037B
-151: 0x0364 [0x24] CREATE_DIALOG(message_id=10304*, default_option=1*, option_flags=0*)
+151: 0x0364 [0x24] CREATE_DIALOG(message_id=10305*, default_option=1*, option_flags=0*)
     → "Return the $3? [Yes./No.]"
 152: 0x036B [0x25] WAIT_DIALOG_SELECT()
 153: 0x036C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0378
@@ -1048,14 +1048,14 @@ SUBROUTINE_037B:
 157: 0x037B [0x01] GOTO 0x09C2
 158: 0x037E [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x03CF
 159: 0x0386 [0x03] Work_Zone[2] = 717*
-160: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10306*)
+160: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
     → "When carrying $6 with you while participating in a Ballista match, you will have the option to keep or throw away the first Petra you find. This is useful when you want to continue /sprinting."
 161: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
-162: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
+162: 0x038F [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
     → "If you wish, I can loan you one, free of charge."
 163: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0393 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x03B5
-165: 0x039B [0x24] CREATE_DIALOG(message_id=10308*, default_option=1*, option_flags=0*)
+165: 0x039B [0x24] CREATE_DIALOG(message_id=10309*, default_option=1*, option_flags=0*)
     → "Borrow $6? [Yes./No.]"
 166: 0x03A2 [0x25] WAIT_DIALOG_SELECT()
 167: 0x03A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AF
@@ -1065,7 +1065,7 @@ SUBROUTINE_037B:
 
 SUBROUTINE_03B2:
 171: 0x03B2 [0x01] GOTO 0x03CC
-172: 0x03B5 [0x24] CREATE_DIALOG(message_id=10309*, default_option=1*, option_flags=0*)
+172: 0x03B5 [0x24] CREATE_DIALOG(message_id=10310*, default_option=1*, option_flags=0*)
     → "Return the $3? [Yes./No.]"
 173: 0x03BC [0x25] WAIT_DIALOG_SELECT()
 174: 0x03BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03C9
@@ -1083,7 +1083,7 @@ SUBROUTINE_03CC:
 184: 0x03E7 [0x03] Work_Zone[4] = 500*
 185: 0x03EC [0x03] Work_Zone[5] = 400*
 186: 0x03F1 [0x03] Work_Zone[6] = 300*
-187: 0x03F6 [0x24] CREATE_DIALOG(message_id=10316*, default_option=0*, option_flags=0*)
+187: 0x03F6 [0x24] CREATE_DIALOG(message_id=10317*, default_option=0*, option_flags=0*)
     → "Select a match level... [View all levels./No restriction ($0 gil per match)./Level 60 ($1 gil per match)./Level 50 ($2 gil per match)./Level 40 ($3 gil per match)./Level 30 ($4 gil per match)./Return.]"
 188: 0x03FD [0x25] WAIT_DIALOG_SELECT()
 189: 0x03FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x040E
@@ -1199,7 +1199,7 @@ SUBROUTINE_05F9:
 287: 0x0601 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[17], bit_index_work_offset=ExtData[1]->WorkLocal[13], condition_work_offset=1*)
 288: 0x0608 [0x0C] ExtData[1]->WorkLocal[13]--
 289: 0x060B [0x01] GOTO 0x05F9
-290: 0x060E [0x24] CREATE_DIALOG(message_id=10317*, default_option=ExtData[1]->WorkLocal[16], option_flags=ExtData[1]->WorkLocal[17])
+290: 0x060E [0x24] CREATE_DIALOG(message_id=10318*, default_option=ExtData[1]->WorkLocal[16], option_flags=ExtData[1]->WorkLocal[17])
     → "Select for more information... [, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $794668[ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/, [ / / /Lv. 30/Lv. 40/Lv. 50/Lv. 60/Lv. $7]/Next./Return.]"
 291: 0x0615 [0x25] WAIT_DIALOG_SELECT()
 292: 0x0616 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[0]
@@ -1229,7 +1229,7 @@ SUBROUTINE_06E3:
 312: 0x0731 [0x01] GOTO 0x0734
 
 SUBROUTINE_0734:
-313: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=10318*)
+313: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=10319*)
     → "<Match $0> Entry period begins: Briefing begins:"
 314: 0x0737 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x0738 [0x0B] Work_Zone[2]++
@@ -1240,10 +1240,10 @@ SUBROUTINE_0741:
 318: 0x0741 [0x01] GOTO 0x00AA
 
 SUBROUTINE_07CC:
-319: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10321*)
+319: 0x07CC [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
     → "Teleportation to the Isle is free of charge, but a participation fee of $0 gil is required before each match."
 320: 0x07CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x07D0 [0x24] CREATE_DIALOG(message_id=10322*, default_option=1*, option_flags=0*)
+321: 0x07D0 [0x24] CREATE_DIALOG(message_id=10323*, default_option=1*, option_flags=0*)
     → "Travel to the Isle? [Yes./Not yet.]"
 322: 0x07D7 [0x25] WAIT_DIALOG_SELECT()
 323: 0x07D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x080F
@@ -1254,7 +1254,7 @@ SUBROUTINE_07CC:
 328: 0x07F1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 329: 0x07F3 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x080B
 330: 0x07FB [0x6C] FADE_ENTITY_COLOR(entity_id=LocalPlayer, end_alpha=127*, fade_time=1*)
-331: 0x0804 [0x48] [System] [10351*]:
+331: 0x0804 [0x48] [System] [10352*]:
     → "I'm sorry. I wasn't listening. Could you start over from the beginning?"
 332: 0x0807 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x0808 [0x01] GOTO 0x080C
@@ -1265,7 +1265,7 @@ SUBROUTINE_080C:
 
 SUBROUTINE_080F:
 336: 0x080F [0x01] GOTO 0x0816
-337: 0x0812 [0x1D] PRINT_EVENT_MESSAGE(message_id=10319*)
+337: 0x0812 [0x1D] PRINT_EVENT_MESSAGE(message_id=10320*)
     → "I apologize, but your level is too low to participate in an official Brenner match."
 338: 0x0815 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1273,30 +1273,30 @@ SUBROUTINE_0816:
 339: 0x0816 [0x01] GOTO 0x00AA
 
 SUBROUTINE_0827:
-340: 0x0827 [0x24] CREATE_DIALOG(message_id=10323*, default_option=ExtData[1]->WorkLocal[0], option_flags=0*)
+340: 0x0827 [0x24] CREATE_DIALOG(message_id=10324*, default_option=ExtData[1]->WorkLocal[0], option_flags=0*)
     → "What would you like to know about? [Basic rules./Official/private matches./Flammen-Brenner./Flamme./Match score./Petras and quarrying./Sprint./KO./Return.]"
 341: 0x082E [0x25] WAIT_DIALOG_SELECT()
 342: 0x082F [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[0]
 343: 0x0834 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x085E
-344: 0x083C [0x48] [System] [10324*]:
+344: 0x083C [0x48] [System] [10325*]:
     → "The basic rules of Brenner are as follows:"
 345: 0x083F [0x23] WAIT_FOR_DIALOG_INTERACTION
-346: 0x0840 [0x48] [System] [10325*]:
+346: 0x0840 [0x48] [System] [10326*]:
     → "First, the participants divide into two teams. Each side's camp contains the same number of "Flammen-Brenner.""
 347: 0x0843 [0x23] WAIT_FOR_DIALOG_INTERACTION
-348: 0x0844 [0x48] [System] [10326*]:
+348: 0x0844 [0x48] [System] [10327*]:
     → "At the beginning of the match, half of each side's Flammen-Brenner will be ablaze with "Flamme," or flame, while the other half will remain unlit."
 349: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
-350: 0x0848 [0x48] [System] [10327*]:
+350: 0x0848 [0x48] [System] [10328*]:
     → "Participants can seize a Flamme from the opposing side's Flammen-Brenner and carry it around the Isle."
 351: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
-352: 0x084C [0x48] [System] [10328*]:
+352: 0x084C [0x48] [System] [10329*]:
     → "The goal is to steal your opponent's Flamme and use them to light your side's Flammen-Brenner."
 353: 0x084F [0x23] WAIT_FOR_DIALOG_INTERACTION
-354: 0x0850 [0x48] [System] [10329*]:
+354: 0x0850 [0x48] [System] [10330*]:
     → "The side that succeeds in lighting all of its Flammen-Brenner will be declared the winner after a specified amount of time."
 355: 0x0853 [0x23] WAIT_FOR_DIALOG_INTERACTION
-356: 0x0854 [0x48] [System] [10330*]:
+356: 0x0854 [0x48] [System] [10331*]:
     → "If neither side is victorious before the match ends, the outcome will be judged based on the score. The "match score" section of the rulebook contains more information on this subject."
 357: 0x0857 [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x0858 [0x01] GOTO 0x0827
@@ -1306,7 +1306,7 @@ SUBROUTINE_091A:
 
 SUBROUTINE_0954:
 360: 0x0954 [0x01] GOTO 0x096E
-361: 0x0957 [0x24] CREATE_DIALOG(message_id=10313*, default_option=1*, option_flags=0*)
+361: 0x0957 [0x24] CREATE_DIALOG(message_id=10314*, default_option=1*, option_flags=0*)
     → "Return the $3? [Yes./No.]"
 362: 0x095E [0x25] WAIT_DIALOG_SELECT()
 363: 0x095F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x096B
@@ -1318,14 +1318,14 @@ SUBROUTINE_096E:
 367: 0x096E [0x01] GOTO 0x09C2
 368: 0x0971 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x09C2
 369: 0x0979 [0x03] Work_Zone[2] = 759*
-370: 0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=10314*)
+370: 0x097E [0x1D] PRINT_EVENT_MESSAGE(message_id=10315*)
     → "When in possession of the key item $3, you will have the choice of keeping or throwing away the first Petra you quarry. You will also retain the ability to sprint."
 371: 0x0981 [0x23] WAIT_FOR_DIALOG_INTERACTION
-372: 0x0982 [0x1D] PRINT_EVENT_MESSAGE(message_id=10315*)
+372: 0x0982 [0x1D] PRINT_EVENT_MESSAGE(message_id=10316*)
     → "You can speak to me to borrow or return the band at any time."
 373: 0x0985 [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0986 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x09A8
-375: 0x098E [0x24] CREATE_DIALOG(message_id=10312*, default_option=1*, option_flags=0*)
+375: 0x098E [0x24] CREATE_DIALOG(message_id=10313*, default_option=1*, option_flags=0*)
     → "Borrow the $3? [Yes./No.]"
 376: 0x0995 [0x25] WAIT_DIALOG_SELECT()
 377: 0x0996 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09A2
@@ -1335,7 +1335,7 @@ SUBROUTINE_096E:
 
 SUBROUTINE_09A5:
 381: 0x09A5 [0x01] GOTO 0x09BF
-382: 0x09A8 [0x24] CREATE_DIALOG(message_id=10313*, default_option=1*, option_flags=0*)
+382: 0x09A8 [0x24] CREATE_DIALOG(message_id=10314*, default_option=1*, option_flags=0*)
     → "Return the $3? [Yes./No.]"
 383: 0x09AF [0x25] WAIT_DIALOG_SELECT()
 384: 0x09B0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09BC
@@ -1419,45 +1419,45 @@ SUBROUTINE_0B15:
 454: 0x0B15 [0x1B] RETURN
 
 SUBROUTINE_0B16:
-455: 0x0B16 [0x24] CREATE_DIALOG(message_id=10352*, default_option=Work_Zone[0], option_flags=0*)
+455: 0x0B16 [0x24] CREATE_DIALOG(message_id=10353*, default_option=Work_Zone[0], option_flags=0*)
     → "What do you wish to know about? [Basic rules./About the Petra./About Sprint./About Scout./About Gate Breach./About area-specific rules./About returning to battle./About special rules./Nothing at the moment.]"
 456: 0x0B1D [0x25] WAIT_DIALOG_SELECT()
 457: 0x0B1E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B40
-458: 0x0B26 [0x48] [System] [10353*]:
+458: 0x0B26 [0x48] [System] [10354*]:
     → "Ballista is an exercise once used by the San d'Orian armies to train the Royal Knights in the art of the siege. The word "ballista" means "to throw a stone," and the game has been a part of Vana'dielian military history for centuries."
 459: 0x0B29 [0x23] WAIT_FOR_DIALOG_INTERACTION
-460: 0x0B2A [0x48] [System] [10354*]:
+460: 0x0B2A [0x48] [System] [10355*]:
     → "The rules are simple. Ballista is played by two teams over a number of hours (Vana'diel time). The team with the most points at the end of the match is the victor."
 461: 0x0B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
-462: 0x0B2E [0x48] [System] [10355*]:
+462: 0x0B2E [0x48] [System] [10356*]:
     → "Players from both teams must search for Petras that a Herald has buried in various locations across the battlefield. The players must then take these stones and throw them into targets known as Rooks."
 463: 0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
-464: 0x0B32 [0x48] [System] [10356*]:
+464: 0x0B32 [0x48] [System] [10357*]:
     → "These Rooks can appear in various locations around the battlefield, and both teams are allowed to throw their Petras into them."
 465: 0x0B35 [0x23] WAIT_FOR_DIALOG_INTERACTION
-466: 0x0B36 [0x48] [System] [10357*]:
+466: 0x0B36 [0x48] [System] [10358*]:
     → "Finally, a player's strength is adjusted depending on his or her level. It is felt that this ultimately allows for a more balanced battle."
 467: 0x0B39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 468: 0x0B3A [0x01] GOTO 0x0B16
 
 SUBROUTINE_0C03:
-469: 0x0C03 [0x24] CREATE_DIALOG(message_id=10383*, default_option=Work_Zone[0], option_flags=0*)
+469: 0x0C03 [0x24] CREATE_DIALOG(message_id=10384*, default_option=Work_Zone[0], option_flags=0*)
     → "Learn about which special rules? [Temporary items./Ballista Points./Scoring restrictions./Gate Breach radius expansion./Resistance to Sleep./Open entries./Minimum level restrictions./Re-entry restrictions./Participant & Rook numbers./Experience Points./Return.]"
 470: 0x0C0A [0x25] WAIT_DIALOG_SELECT()
 471: 0x0C0B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C2D
-472: 0x0C13 [0x48] [System] [10384*]:
+472: 0x0C13 [0x48] [System] [10385*]:
     → "Previously, participants in Ballista were required to use an item the moment they dug it up using the /quarry command. However, players can now stock these items as temporary items for use at any time during the match."
 473: 0x0C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
-474: 0x0C17 [0x48] [System] [10385*]:
+474: 0x0C17 [0x48] [System] [10386*]:
     → "Players can hold up to ten temporary items, but only one of each type. If a player finds an item that they already possess, they must use it immediately or throw it away."
 475: 0x0C1A [0x23] WAIT_FOR_DIALOG_INTERACTION
-476: 0x0C1B [0x48] [System] [10386*]:
+476: 0x0C1B [0x48] [System] [10387*]:
     → "If players who possess ten temporary items find an item that they have not already obtained, they will also have the option to exchange it with one of their current items."
 477: 0x0C1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-478: 0x0C1F [0x48] [System] [10387*]:
+478: 0x0C1F [0x48] [System] [10388*]:
     → "Also, players will not, at any time, be allowed to trade temporary items. However, there are items that can be used on other Ballista participants. Please note that players may not be able to use these special items as soon as they are quarried."
 479: 0x0C22 [0x23] WAIT_FOR_DIALOG_INTERACTION
-480: 0x0C23 [0x48] [System] [10388*]:
+480: 0x0C23 [0x48] [System] [10389*]:
     → "Finally, the Heralds will collect temporary items when the match (the third in a Best of Three series) has concluded."
 481: 0x0C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 482: 0x0C27 [0x01] GOTO 0x0C03
@@ -1470,16 +1470,16 @@ SUBROUTINE_0CF9:
 
 SUBROUTINE_0CFA:
 485: 0x0CFA [0x03] Work_Zone[2] = 2000*
-486: 0x0CFF [0x48] [System] [10389*]:
+486: 0x0CFF [0x48] [System] [10390*]:
     → "Ballista Points are rewarded to each competitor based on his or her performance in a single Ballista match. The maximum number of points that can be accumulated per match is $0."
 487: 0x0D02 [0x23] WAIT_FOR_DIALOG_INTERACTION
-488: 0x0D03 [0x48] [System] [10390*]:
+488: 0x0D03 [0x48] [System] [10391*]:
     → "While it is taken into consideration, scoring Petras is not the only way to earn Ballista Points. Assisting allies and defeating members of the enemy forces can also earn a high score."
 489: 0x0D06 [0x23] WAIT_FOR_DIALOG_INTERACTION
-490: 0x0D07 [0x48] [System] [10391*]:
+490: 0x0D07 [0x48] [System] [10392*]:
     → "Ballista Points can be traded for special "vouchers," which may be exchanged for free temporary items at the start of new matches."
 491: 0x0D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-492: 0x0D0B [0x48] [System] [10392*]:
+492: 0x0D0B [0x48] [System] [10393*]:
     → "However, remember that depending on the level restriction of the match, certain vouchers will not be redeemed at the beginning of a match. Speak with a Marshal directly after a match to register your points."
 493: 0x0D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
 494: 0x0D0F [0x1B] RETURN
@@ -1631,16 +1631,16 @@ SUBROUTINE_1188:
 618: 0x1214 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[48], year=Work_Zone[5], month=Work_Zone[6], day=ExtData[1]->WorkLocal[0], weekday=ExtData[1]->WorkLocal[0], hour=ExtData[1]->WorkLocal[0], minute=ExtData[1]->WorkLocal[0], moon=ExtData[1]->WorkLocal[0])
 619: 0x1225 [0x02] IF !(ExtData[1]->WorkLocal[49] == 0*) GOTO 0x1252
 620: 0x122D [0x02] IF !(Work_Zone[6] < 9*) GOTO 0x123C
-621: 0x1235 [0x48] [System] [10448*]:
+621: 0x1235 [0x48] [System] [10449*]:
     → "Matches for the 9th`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst"
 622: 0x1238 [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x1239 [0x01] GOTO 0x124F
 624: 0x123C [0x02] IF !(Work_Zone[6] < 5*) GOTO 0x124B
-625: 0x1244 [0x48] [System] [10447*]:
+625: 0x1244 [0x48] [System] [10448*]:
     → "Matches for the 5th`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria"
 626: 0x1247 [0x23] WAIT_FOR_DIALOG_INTERACTION
 627: 0x1248 [0x01] GOTO 0x124F
-628: 0x124B [0x48] [System] [10446*]:
+628: 0x124B [0x48] [System] [10447*]:
     → "Matches for the 1st`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst"
 629: 0x124E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1648,7 +1648,7 @@ SUBROUTINE_124F:
 630: 0x124F [0x05] ExtData[1]->WorkLocal[49] = 1
 631: 0x1252 [0xB1] GET_APP_FLAG(flag_type=0x00, dest_offset=0x32)
 632: 0x1256 [0x02] IF !(ExtData[1]->WorkLocal[50] == 0*) GOTO 0x1274
-633: 0x125E [0x24] CREATE_DIALOG(message_id=10449*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
+633: 0x125E [0x24] CREATE_DIALOG(message_id=10450*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
     → "Learn about which match: [View previous month./$3/$4/2 Lv.30 Jugner/$3/$4/4 Lv.30 Pashhow/$3/$4/6 Lv.30 Meriphataud/$3/$4/8 Lv.40 Jugner/$3/$4/10 Lv.40 Pashhow/$3/$4/12 Lv.40 Meriphataud/$3/$4/14 Lv.50 Jugner/$3/$4/16 Lv.50 Pashhow/$3/$4/18 Lv.50 Meriphataud/$3/$4/20 Lv.60 Jugner/$3/$4/22 Lv.60 Pashhow/$3/$4/24 Lv.60 Meriphataud/$3/$4/26 Lv.$7 Jugner/$3/$4/28 Lv.$7 Pashhow/$3/$4/30 Lv.$7 Meriphataud/View next month./Quit.]"
 634: 0x1265 [0x25] WAIT_DIALOG_SELECT()
 635: 0x1266 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1271
@@ -1657,7 +1657,7 @@ SUBROUTINE_124F:
 SUBROUTINE_1271:
 637: 0x1271 [0x01] GOTO 0x12B0
 638: 0x1274 [0x02] IF !(ExtData[1]->WorkLocal[50] == 1*) GOTO 0x1292
-639: 0x127C [0x24] CREATE_DIALOG(message_id=10450*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
+639: 0x127C [0x24] CREATE_DIALOG(message_id=10451*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
     → "Learn about which match: [View previous month./$4/2/$3 Lv.30 Jugner/$4/4/$3 Lv.30 Pashhow/$4/6/$3 Lv.30 Meriphataud/$4/8/$3 Lv.40 Jugner/$4/10/$3 Lv.40 Pashhow/$4/12/$3 Lv.40 Meriphataud/$4/14/$3 Lv.50 Jugner/$4/16/$3 Lv.50 Pashhow/$4/18/$3 Lv.50 Meriphataud/$4/20/$3 Lv.60 Jugner/$4/22/$3 Lv.60 Pashhow/$4/24/$3 Lv.60 Meriphataud/$4/26/$3 Lv.$7 Jugner/$4/28/$3 Lv.$7 Pashhow/$4/30/$3 Lv.$7 Meriphataud/View next month./Quit.]"
 640: 0x1283 [0x25] WAIT_DIALOG_SELECT()
 641: 0x1284 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x128F
@@ -1666,7 +1666,7 @@ SUBROUTINE_1271:
 SUBROUTINE_128F:
 643: 0x128F [0x01] GOTO 0x12B0
 644: 0x1292 [0x02] IF !(ExtData[1]->WorkLocal[50] == 2*) GOTO 0x12B0
-645: 0x129A [0x24] CREATE_DIALOG(message_id=10451*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
+645: 0x129A [0x24] CREATE_DIALOG(message_id=10452*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[45])
     → "Learn about which match: [View previous month."/$4/$3 Lv.30 Jugner/4/$4/$3 Lv.30 Pashhow/6/$4/$3 Lv.30 Meriphataud/8/$4/$3 Lv.40 Jugner/10/$4/$3 Lv.40 Pashhow/12/$4/$3 Lv.40 Meriphataud/14/$4/$3 Lv.50 Jugner/16/$4/$3 Lv.50 Pashhow/18/$4/$3 Lv.50 Meriphataud"0/$4/$3 Lv.60 Jugner"2/$4/$3 Lv.60 Pashhow"4/$4/$3 Lv.60 Meriphataud"6/$4/$3 Lv.$7 Jugner"8/$4/$3 Lv.$7 Pashhow"0/$4/$3 Lv.$7 Meriphataud/View next month./Quit.]"
 646: 0x12A1 [0x25] WAIT_DIALOG_SELECT()
 647: 0x12A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12AD
@@ -1707,32 +1707,32 @@ SUBROUTINE_1324:
 674: 0x1381 [0x01] GOTO 0x1384
 
 SUBROUTINE_1384:
-675: 0x1384 [0x48] [System] [10452*]:
+675: 0x1384 [0x48] [System] [10453*]:
     → "Place: [Jugner Forest/Pashhow Marshlands/Meriphataud Mountains] Nations: [San d'Oria/Bastok/Windurst] vs [San d'Oria/Bastok/Windurst] Level Restriction: [None/ / /30/40/50/60/] Participation Fee: $4 gil Match Format: [All or Nothing/Best of Three] * [Normal Items Restricted/Normal Items Allowed]"
 676: 0x1387 [0x23] WAIT_FOR_DIALOG_INTERACTION
 677: 0x1388 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[32]
 678: 0x138D [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[32], year=Work_Zone[5], month=Work_Zone[6], day=Work_Zone[7], weekday=ExtData[1]->WorkLocal[0], hour=Work_Zone[8], minute=Work_Zone[9], moon=ExtData[1]->WorkLocal[0])
-679: 0x139E [0x48] [System] [10453*]:
+679: 0x139E [0x48] [System] [10454*]:
     → "Entry period begins: Vana'diel: Earth:"
 680: 0x13A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 681: 0x13A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[34]
 682: 0x13A7 [0xAA] VANA_DIEL_TIMESTAMP_CONVERTER(timestamp=ExtData[1]->WorkLocal[34], year=Work_Zone[5], month=Work_Zone[6], day=Work_Zone[7], weekday=ExtData[1]->WorkLocal[0], hour=Work_Zone[8], minute=Work_Zone[9], moon=ExtData[1]->WorkLocal[0])
-683: 0x13B8 [0x48] [System] [10454*]:
+683: 0x13B8 [0x48] [System] [10455*]:
     → "Match begins: Vana'diel: Earth:"
 684: 0x13BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 685: 0x13BC [0x1B] RETURN
 
 SUBROUTINE_13BD:
-686: 0x13BD [0x48] [System] [10441*]:
+686: 0x13BD [0x48] [System] [10442*]:
     → "Matches are only played on even days (Vana'diel time)."
 687: 0x13C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-688: 0x13C1 [0x48] [System] [10442*]:
+688: 0x13C1 [0x48] [System] [10443*]:
     → "Areas where Ballista matches will be held are:", 8, 14, 20, 26 -> Jugner 4, 10, 16, 22, 28 -> Pashhow 6, 12, 18, 24, 30 -> Meriphataud"
 689: 0x13C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-690: 0x13C5 [0x48] [System] [10374*]:
+690: 0x13C5 [0x48] [System] [10375*]:
     → "The following match types are area-specific: All or Nothing (one match) * Normal Items Allowed: Jugner Forest All or Nothing (one match) * Normal Items Restricted: Pashhow Marshlands Best of Three (three matches) * Normal Items Allowed: Meriphataud Mountains"
 691: 0x13C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-692: 0x13C9 [0x48] [System] [10443*]:
+692: 0x13C9 [0x48] [System] [10444*]:
     → "Level restrictions are:", 4, 6 -> Lv. 30 8, 10, 12 -> Lv. 40 14, 16, 18 -> Lv. 50"0, 22, 24 -> Lv. 60"6, 28, 30 -> None"
 693: 0x13CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 694: 0x13CD [0x03] ExtData[1]->WorkLocal[29] = 30*
@@ -1750,19 +1750,19 @@ SUBROUTINE_13BD:
 706: 0x1401 [0x03] ExtData[1]->WorkLocal[29] = 0*
 707: 0x1406 [0x1A] CALL_SUBROUTINE(address=0x1124)
 708: 0x1409 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[43]
-709: 0x140E [0x48] [System] [10444*]:
+709: 0x140E [0x48] [System] [10445*]:
     → "And finally, participation fees are: Lv. 30 matches: $0 gil Lv. 40 matches: $1 gil Lv. 50 matches: $2 gil Lv. 60 matches: $3 gil Unrestricted matches: $4 gil"
 710: 0x1411 [0x23] WAIT_FOR_DIALOG_INTERACTION
-711: 0x1412 [0x48] [System] [10445*]:
+711: 0x1412 [0x48] [System] [10446*]:
     → "Participating nations are selected in the following manner..."
 712: 0x1415 [0x23] WAIT_FOR_DIALOG_INTERACTION
-713: 0x1416 [0x48] [System] [10446*]:
+713: 0x1416 [0x48] [System] [10447*]:
     → "Matches for the 1st`4th month are: Jugner: Bastok vs San d'Oria Pashhow: Bastok vs Windurst Meriphataud: San d'Oria vs Windurst"
 714: 0x1419 [0x23] WAIT_FOR_DIALOG_INTERACTION
-715: 0x141A [0x48] [System] [10447*]:
+715: 0x141A [0x48] [System] [10448*]:
     → "Matches for the 5th`8th month are: Jugner: Bastok vs Windurst Pashhow: San d'Oria vs Windurst Meriphataud: Bastok vs San d'Oria"
 716: 0x141D [0x23] WAIT_FOR_DIALOG_INTERACTION
-717: 0x141E [0x48] [System] [10448*]:
+717: 0x141E [0x48] [System] [10449*]:
     → "Matches for the 9th`12th month are: Jugner: San d'Oria vs Windurst Pashhow: San d'Oria vs Bastok Meriphataud: Bastok vs Windurst"
 718: 0x1421 [0x23] WAIT_FOR_DIALOG_INTERACTION
 719: 0x1422 [0x1B] RETURN
@@ -1817,205 +1817,205 @@ SUBROUTINE_13BD:
      0x0CE0 [0x01] GOTO 0x0CF6
      0x0CF3 [0x01] GOTO 0x0CF6
 # Dead code (unreachable instructions):
-     0x0D10 [0x24] CREATE_DIALOG(message_id=10402*, default_option=ExtData[1]->WorkLocal[25], option_flags=0*)
+     0x0D10 [0x24] CREATE_DIALOG(message_id=10403*, default_option=ExtData[1]->WorkLocal[25], option_flags=0*)
     → "Read which chapter on B.P. Ranking? [Basic Information./Registering Points./Rewards./Chevron & Title List./None.]"
      0x0D17 [0x25] WAIT_DIALOG_SELECT()
      0x0D18 [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[0]
      0x0D1D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D2F
-     0x0D25 [0x48] [System] [10403*]:
+     0x0D25 [0x48] [System] [10404*]:
     → "Ballista Point Ranking is based upon all Ballista Points registered from the past ten matches in each of the three participating battle areas."
      0x0D28 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D29 [0x01] GOTO 0x0D10
      0x0D2C [0x01] GOTO 0x0F94
      0x0D2F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D45
-     0x0D37 [0x48] [System] [10404*]:
+     0x0D37 [0x48] [System] [10405*]:
     → "Anyone who wishes to take part in the ranking needs to register [his/her] points within four hours (Vana'diel time) from the end of the previous match."
      0x0D3A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D3B [0x48] [System] [10405*]:
+     0x0D3B [0x48] [System] [10406*]:
     → "After the registration period ends, players can compare their record with those of the previous nine matches."
      0x0D3E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D3F [0x01] GOTO 0x0D10
      0x0D42 [0x01] GOTO 0x0F94
      0x0D45 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0D6B
-     0x0D4D [0x48] [System] [10406*]:
+     0x0D4D [0x48] [System] [10407*]:
     → "If, at any time, a player ranks in the top ten (overall) or first for a specific job, [he/she] will have the opportunity to receive a special chevron as well as a new title."
      0x0D50 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D51 [0x48] [System] [10407*]:
+     0x0D51 [0x48] [System] [10408*]:
     → "There are four types of chevrons and titles awarded to top-ten players (gold/mythril/silver/bronze), as well as twenty-two different types awarded for outstanding performances by players of each of the twenty-two jobs."
      0x0D54 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D55 [0x48] [System] [10408*]:
+     0x0D55 [0x48] [System] [10409*]:
     → "Wearing a chevron during a Ballista match will automatically change a player's current title. If a player wishes to possess this title after a match as well, [he/she] must contact a certain bard in San d'Oria."
      0x0D58 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D59 [0x48] [System] [10409*]:
+     0x0D59 [0x48] [System] [10410*]:
     → "Also, while wearing a chevron, players will be able to trade Ballista Points for temporary items not available to all players."
      0x0D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D5D [0x48] [System] [10410*]:
+     0x0D5D [0x48] [System] [10411*]:
     → "However, the rules of Ballista state that players may only possess a certain chevron for no longer than one half Vana'diel year. When that time comes, they are required to return the chevron before being allowed to participate in any further matches."
      0x0D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0D61 [0x48] [System] [10411*]:
+     0x0D61 [0x48] [System] [10412*]:
     → "Finally, checking someone during a Ballista match will display the total number of chevrons that person has accumulated to date."
      0x0D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D65 [0x01] GOTO 0x0D10
      0x0D68 [0x01] GOTO 0x0F94
      0x0D6B [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0F94
      0x0D73 [0x06] ExtData[1]->WorkLocal[26] = 0
-     0x0D76 [0x24] CREATE_DIALOG(message_id=10412*, default_option=ExtData[1]->WorkLocal[26], option_flags=0*)
+     0x0D76 [0x24] CREATE_DIALOG(message_id=10413*, default_option=ExtData[1]->WorkLocal[26], option_flags=0*)
     → "View which chevron/title? [1st (overall)./2nd (overall)./3rd (overall)./4th-10th (overall)./1st (warrior)./1st (monk)./1st (white mage)./1st (black mage)./1st (red mage)./1st (thief)./1st (paladin)./1st (dark knight)./1st (beastmaster)./1st (bard)./1st (ranger)./1st (samurai)./1st (ninja)./1st (dragoon)./1st (summoner)./1st (blue mage)./1st (corsair)./1st (puppetmaster)./1st (dancer)./1st (scholar)./1st (geomancer)./1st (rune fencer)./Return.]"
      0x0D7D [0x25] WAIT_DIALOG_SELECT()
      0x0D7E [0x03] ExtData[1]->WorkLocal[26] = Work_Zone[0]
      0x0D83 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D97
      0x0D8B [0x03] Work_Zone[2] = 682*
-     0x0D90 [0x48] [System] [10413*]:
+     0x0D90 [0x48] [System] [10414*]:
     → "Key Item: $3 Title: Gold Balli$25$25$25$25star"
      0x0D93 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D94 [0x01] GOTO 0x0F8E
      0x0D97 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0DAB
      0x0D9F [0x03] Work_Zone[2] = 683*
-     0x0DA4 [0x48] [System] [10414*]:
+     0x0DA4 [0x48] [System] [10415*]:
     → "Key Item: $3 Title: Mythril Balli$25$25$25star"
      0x0DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DA8 [0x01] GOTO 0x0F8E
      0x0DAB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0DBF
      0x0DB3 [0x03] Work_Zone[2] = 684*
-     0x0DB8 [0x48] [System] [10415*]:
+     0x0DB8 [0x48] [System] [10416*]:
     → "Key Item: $3 Title: Silver Balli$25$25star"
      0x0DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DBC [0x01] GOTO 0x0F8E
      0x0DBF [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0DD3
      0x0DC7 [0x03] Work_Zone[2] = 685*
-     0x0DCC [0x48] [System] [10416*]:
+     0x0DCC [0x48] [System] [10417*]:
     → "Key Item: $3 Title: Bronze Balli$25star"
      0x0DCF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DD0 [0x01] GOTO 0x0F8E
      0x0DD3 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0DE7
      0x0DDB [0x03] Work_Zone[2] = 686*
-     0x0DE0 [0x48] [System] [10417*]:
+     0x0DE0 [0x48] [System] [10418*]:
     → "Key Item: $3 Title: Searing$26Star"
      0x0DE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DE4 [0x01] GOTO 0x0F8E
      0x0DE7 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0DFB
      0x0DEF [0x03] Work_Zone[2] = 687*
-     0x0DF4 [0x48] [System] [10418*]:
+     0x0DF4 [0x48] [System] [10419*]:
     → "Key Item: $3 Title: Striking$26Star"
      0x0DF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DF8 [0x01] GOTO 0x0F8E
      0x0DFB [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0E0F
      0x0E03 [0x03] Work_Zone[2] = 688*
-     0x0E08 [0x48] [System] [10419*]:
+     0x0E08 [0x48] [System] [10420*]:
     → "Key Item: $3 Title: Soothing$26Star"
      0x0E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E0C [0x01] GOTO 0x0F8E
      0x0E0F [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0E23
      0x0E17 [0x03] Work_Zone[2] = 689*
-     0x0E1C [0x48] [System] [10420*]:
+     0x0E1C [0x48] [System] [10421*]:
     → "Key Item: $3 Title: Sable$26Star"
      0x0E1F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E20 [0x01] GOTO 0x0F8E
      0x0E23 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x0E37
      0x0E2B [0x03] Work_Zone[2] = 690*
-     0x0E30 [0x48] [System] [10421*]:
+     0x0E30 [0x48] [System] [10422*]:
     → "Key Item: $3 Title: Scarlet$26Star"
      0x0E33 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E34 [0x01] GOTO 0x0F8E
      0x0E37 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x0E4B
      0x0E3F [0x03] Work_Zone[2] = 691*
-     0x0E44 [0x48] [System] [10422*]:
+     0x0E44 [0x48] [System] [10423*]:
     → "Key Item: $3 Title: Sonic$26Star"
      0x0E47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E48 [0x01] GOTO 0x0F8E
      0x0E4B [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0E5F
      0x0E53 [0x03] Work_Zone[2] = 692*
-     0x0E58 [0x48] [System] [10423*]:
+     0x0E58 [0x48] [System] [10424*]:
     → "Key Item: $3 Title: Saintly$26Star"
      0x0E5B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E5C [0x01] GOTO 0x0F8E
      0x0E5F [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0E73
      0x0E67 [0x03] Work_Zone[2] = 693*
-     0x0E6C [0x48] [System] [10424*]:
+     0x0E6C [0x48] [System] [10425*]:
     → "Key Item: $3 Title: Shadowy$26Star"
      0x0E6F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E70 [0x01] GOTO 0x0F8E
      0x0E73 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0E87
      0x0E7B [0x03] Work_Zone[2] = 694*
-     0x0E80 [0x48] [System] [10425*]:
+     0x0E80 [0x48] [System] [10426*]:
     → "Key Item: $3 Title: Savage$26Star"
      0x0E83 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E84 [0x01] GOTO 0x0F8E
      0x0E87 [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0E9B
      0x0E8F [0x03] Work_Zone[2] = 695*
-     0x0E94 [0x48] [System] [10426*]:
+     0x0E94 [0x48] [System] [10427*]:
     → "Key Item: $3 Title: Singing$26Star"
      0x0E97 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E98 [0x01] GOTO 0x0F8E
      0x0E9B [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0EAF
      0x0EA3 [0x03] Work_Zone[2] = 696*
-     0x0EA8 [0x48] [System] [10427*]:
+     0x0EA8 [0x48] [System] [10428*]:
     → "Key Item: $3 Title: Sniping$26Star"
      0x0EAB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EAC [0x01] GOTO 0x0F8E
      0x0EAF [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0EC3
      0x0EB7 [0x03] Work_Zone[2] = 697*
-     0x0EBC [0x48] [System] [10428*]:
+     0x0EBC [0x48] [System] [10429*]:
     → "Key Item: $3 Title: Slicing$26Star"
      0x0EBF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EC0 [0x01] GOTO 0x0F8E
      0x0EC3 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0ED7
      0x0ECB [0x03] Work_Zone[2] = 698*
-     0x0ED0 [0x48] [System] [10429*]:
+     0x0ED0 [0x48] [System] [10430*]:
     → "Key Item: $3 Title: Sneaking$26Star"
      0x0ED3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ED4 [0x01] GOTO 0x0F8E
      0x0ED7 [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0EEB
      0x0EDF [0x03] Work_Zone[2] = 699*
-     0x0EE4 [0x48] [System] [10430*]:
+     0x0EE4 [0x48] [System] [10431*]:
     → "Key Item: $3 Title: Spearing$26Star"
      0x0EE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EE8 [0x01] GOTO 0x0F8E
      0x0EEB [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0EFF
      0x0EF3 [0x03] Work_Zone[2] = 700*
-     0x0EF8 [0x48] [System] [10431*]:
+     0x0EF8 [0x48] [System] [10432*]:
     → "Key Item: $3 Title: Summoning$26Star"
      0x0EFB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0EFC [0x01] GOTO 0x0F8E
      0x0EFF [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x0F13
      0x0F07 [0x03] Work_Zone[2] = 777*
-     0x0F0C [0x48] [System] [10432*]:
+     0x0F0C [0x48] [System] [10433*]:
     → "Key Item: $3 Title: Sapphire$26Star"
      0x0F0F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F10 [0x01] GOTO 0x0F8E
      0x0F13 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0F27
      0x0F1B [0x03] Work_Zone[2] = 778*
-     0x0F20 [0x48] [System] [10433*]:
+     0x0F20 [0x48] [System] [10434*]:
     → "Key Item: $3 Title: Surging$26Star"
      0x0F23 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F24 [0x01] GOTO 0x0F8E
      0x0F27 [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x0F3B
      0x0F2F [0x03] Work_Zone[2] = 779*
-     0x0F34 [0x48] [System] [10434*]:
+     0x0F34 [0x48] [System] [10435*]:
     → "Key Item: $3 Title: Swaying$26Star"
      0x0F37 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F38 [0x01] GOTO 0x0F8E
      0x0F3B [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x0F4F
      0x0F43 [0x03] Work_Zone[2] = 915*
-     0x0F48 [0x48] [System] [10435*]:
+     0x0F48 [0x48] [System] [10436*]:
     → "Key Item: $3 Title: Sprightly$26Star"
      0x0F4B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F4C [0x01] GOTO 0x0F8E
      0x0F4F [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x0F63
      0x0F57 [0x03] Work_Zone[2] = 916*
-     0x0F5C [0x48] [System] [10436*]:
+     0x0F5C [0x48] [System] [10437*]:
     → "Key Item: $3 Title: Sagacious$26Star"
      0x0F5F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F60 [0x01] GOTO 0x0F8E
      0x0F63 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x0F77
      0x0F6B [0x03] Work_Zone[2] = 1847*
-     0x0F70 [0x48] [System] [10437*]:
+     0x0F70 [0x48] [System] [10438*]:
     → "Key Item: $3 Title: Spiritual$26Star"
      0x0F73 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F74 [0x01] GOTO 0x0F8E
      0x0F77 [0x02] IF !(Work_Zone[0] == 25*) GOTO 0x0F8B
      0x0F7F [0x03] Work_Zone[2] = 1848*
-     0x0F84 [0x48] [System] [10438*]:
+     0x0F84 [0x48] [System] [10439*]:
     → "Key Item: $3 Title: Stippling$26Star"
      0x0F87 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F88 [0x01] GOTO 0x0F8E

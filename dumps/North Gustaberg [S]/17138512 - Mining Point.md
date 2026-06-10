@@ -23,21 +23,21 @@
 |       0 | 0x0029      |          41 |
 |       1 | 0x025D      |         605 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D94      |        7572 |
+|       3 | 0x1D95      |        7573 |
 |       4 | 0xFFFFFBCA  |  4294966218 |
 |       5 | 0xFFFFFBC9  |  4294966217 |
-|       6 | 0x1D92      |        7570 |
-|       7 | 0x1D91      |        7569 |
-|       8 | 0x1D93      |        7571 |
-|       9 | 0x1D95      |        7573 |
+|       6 | 0x1D93      |        7571 |
+|       7 | 0x1D92      |        7570 |
+|       8 | 0x1D94      |        7572 |
+|       9 | 0x1D96      |        7574 |
 
 ## String References
 
-- **7569**: Your $7 breaks!
-- **7570**: You successfully dig up $0!
-- **7571**: You dig up $0, but your $7 breaks in the process.
-- **7572**: You are unable to mine anything.
-- **7573**: You cannot carry any more items. Your inventory is full.
+- **7570**: Your $7 breaks!
+- **7571**: You successfully dig up $0!
+- **7572**: You dig up $0, but your $7 breaks in the process.
+- **7573**: You are unable to mine anything.
+- **7574**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -96,7 +96,7 @@
   4: 0x0013 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0073
   5: 0x001B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x004B
   6: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0031
-  7: 0x002B [0x48] [System] [7572*]:
+  7: 0x002B [0x48] [System] [7573*]:
     → "You are unable to mine anything."
   8: 0x002E [0x01] GOTO 0x0048
   9: 0x0031 [0x02] IF !(Work_Zone[2] == 4294966218*) GOTO 0x003B
@@ -105,13 +105,13 @@
  12: 0x003B [0x02] IF !(Work_Zone[2] == 4294966217*) GOTO 0x0045
  13: 0x0043 [0x21] END_EVENT
  14: 0x0044 [0x00] END_REQSTACK()
- 15: 0x0045 [0x48] [System] [7570*]:
+ 15: 0x0045 [0x48] [System] [7571*]:
     → "You successfully dig up $0!"
 
 SUBROUTINE_0048:
  16: 0x0048 [0x01] GOTO 0x0070
  17: 0x004B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0059
- 18: 0x0053 [0x48] [System] [7569*]:
+ 18: 0x0053 [0x48] [System] [7570*]:
     → "Your $7 breaks!"
  19: 0x0056 [0x01] GOTO 0x0070
  20: 0x0059 [0x02] IF !(Work_Zone[2] == 4294966218*) GOTO 0x0063
@@ -120,12 +120,12 @@ SUBROUTINE_0048:
  23: 0x0063 [0x02] IF !(Work_Zone[2] == 4294966217*) GOTO 0x006D
  24: 0x006B [0x21] END_EVENT
  25: 0x006C [0x00] END_REQSTACK()
- 26: 0x006D [0x48] [System] [7571*]:
+ 26: 0x006D [0x48] [System] [7572*]:
     → "You dig up $0, but your $7 breaks in the process."
 
 SUBROUTINE_0070:
  27: 0x0070 [0x01] GOTO 0x0076
- 28: 0x0073 [0x48] [System] [7573*]:
+ 28: 0x0073 [0x48] [System] [7574*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0076:

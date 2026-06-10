@@ -22,24 +22,24 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x1F90      |        8080 |
-|       3 | 0x1F91      |        8081 |
-|       4 | 0x1F92      |        8082 |
-|       5 | 0x1F93      |        8083 |
+|       2 | 0x1F91      |        8081 |
+|       3 | 0x1F92      |        8082 |
+|       4 | 0x1F93      |        8083 |
+|       5 | 0x1F94      |        8084 |
 |       6 | 0x0006      |           6 |
-|       7 | 0x1F94      |        8084 |
-|       8 | 0x1F95      |        8085 |
-|       9 | 0x1F96      |        8086 |
+|       7 | 0x1F95      |        8085 |
+|       8 | 0x1F96      |        8086 |
+|       9 | 0x1F97      |        8087 |
 
 ## String References
 
-- **8080**: I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef...
-- **8081**: And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering...
-- **8082**: But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae...
-- **8083**: Isn't that frighty-wightening? Every last one went crazy for the Lamiae!
-- **8084**: I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!
-- **8085**: So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!
-- **8086**: You better look out too, okay? It's a danger-wangerous world we live in.
+- **8081**: I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef...
+- **8082**: And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering...
+- **8083**: But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae...
+- **8084**: Isn't that frighty-wightening? Every last one went crazy for the Lamiae!
+- **8085**: I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!
+- **8086**: So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!
+- **8087**: You better look out too, okay? It's a danger-wangerous world we live in.
 
 ## Events
 
@@ -93,32 +93,32 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "I heard a scary-wary story-wory the other day! You see, a long time ago, the Imperial Army went to fight against the Lamiae on Arrapago Reef..."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "And they brought a whole bunchy-wunch of automatons to help them fight... I'm still shiver-wivering..."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "But then comes the reeeally scary part. The battle automatons were charmed by the Lamiae..."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+ 10: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "Isn't that frighty-wightening? Every last one went crazy for the Lamiae!"
  11: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0037 [0x1E] EventEntity looks at Truffle (ID: 16974392/0x01030238) and starts talking
  13: 0x003C [0x1C] WAIT(30* ticks)
  14: 0x003F [0x6E] Eumoa-Tajimoa (ID: 16974391/0x01030237) uses emote 6*
  15: 0x0046 [0x99] Wait for Eumoa-Tajimoa (ID: 16974391/0x01030237) animation to complete
- 16: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+ 16: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "I don't want to imagine my Truffle being crazy about anyone but me... I think my hearty-weart would just bursty-wurst!"
  17: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x004F [0x1E] EventEntity looks at LocalPlayer and starts talking
- 19: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+ 19: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "So I've decided to never, ever go near Arrapago Reef. Anyway, I heard Lamiae can charm Tarutaru, too!"
  20: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0058 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
- 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
+ 22: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
     → "You better look out too, okay? It's a danger-wangerous world we live in."
  23: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x006B [0x21] END_EVENT

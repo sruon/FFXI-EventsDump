@@ -26,19 +26,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x227D      |        8829 |
-|       3 | 0x227E      |        8830 |
-|       4 | 0x3002      |       12290 |
-|       5 | 0x3009      |       12297 |
-|       6 | 0x300A      |       12298 |
+|       2 | 0x227E      |        8830 |
+|       3 | 0x227F      |        8831 |
+|       4 | 0x3003      |       12291 |
+|       5 | 0x300A      |       12298 |
+|       6 | 0x300B      |       12299 |
 
 ## String References
 
-- **8829**: Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars.
-- **8830**: They are the Cardians, magical puppet-like dolly-wollys that are made at the Manustery.
-- **12290**: <Player>'s badge flashes brightly.
-- **12297**: Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars.
-- **12298**: I heardy-weardy that there are automatons in Aht Urhgan too, but they can't do what ours can! Talk about boring-woring!
+- **8830**: Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars.
+- **8831**: They are the Cardians, magical puppet-like dolly-wollys that are made at the Manustery.
+- **12291**: <Player>'s badge flashes brightly.
+- **12298**: Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars.
+- **12299**: I heardy-weardy that there are automatons in Aht Urhgan too, but they can't do what ours can! Talk about boring-woring!
 
 ## Events
 
@@ -164,10 +164,10 @@
   2: 0x003B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Funpo-Shipo (ID: 17752179/0x010EE073), tag_num=0x01)
-  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8829*)
+  5: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8830*)
     → "Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars."
   6: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8830*)
+  7: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8831*)
     → "They are the Cardians, magical puppet-like dolly-wollys that are made at the Manustery."
   8: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Funpo-Shipo (ID: 17752179/0x010EE073), tag_num=0x02)
@@ -199,17 +199,17 @@
 
 ```
   0: 0x0057 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0058 [0x48] [System] [12290*]:
+  1: 0x0058 [0x48] [System] [12291*]:
     → "<Player>'s badge flashes brightly."
   2: 0x005B [0x86] EventEntity->Render.Flags3 = Flags3  // No change (flag=0)
   3: 0x0061 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x0066 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0067 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0068 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Funpo-Shipo (ID: 17752179/0x010EE073), tag_num=0x01)
-  7: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
+  7: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "Among the guards of Windurst are the automatons who speaky-weaky in the words of the stars."
   8: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+  9: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "I heardy-weardy that there are automatons in Aht Urhgan too, but they can't do what ours can! Talk about boring-woring!"
  10: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0077 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Funpo-Shipo (ID: 17752179/0x010EE073), tag_num=0x02)

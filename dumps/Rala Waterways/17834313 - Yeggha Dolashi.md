@@ -27,58 +27,58 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1F79      |        8057 |
-|       2 | 0x1F7A      |        8058 |
+|       1 | 0x1F7A      |        8058 |
+|       2 | 0x1F7B      |        8059 |
 |       3 | 0x001E      |          30 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1D4A      |        7498 |
-|       6 | 0x1D4B      |        7499 |
-|       7 | 0x1D4C      |        7500 |
-|       8 | 0x1D4D      |        7501 |
-|       9 | 0x1D4E      |        7502 |
-|      10 | 0x1D4F      |        7503 |
-|      11 | 0x1D50      |        7504 |
-|      12 | 0x1D51      |        7505 |
-|      13 | 0x1D54      |        7508 |
-|      14 | 0x1D55      |        7509 |
-|      15 | 0x1D56      |        7510 |
-|      16 | 0x1D57      |        7511 |
-|      17 | 0x1F7B      |        8059 |
-|      18 | 0x1F7C      |        8060 |
+|       5 | 0x1D4B      |        7499 |
+|       6 | 0x1D4C      |        7500 |
+|       7 | 0x1D4D      |        7501 |
+|       8 | 0x1D4E      |        7502 |
+|       9 | 0x1D4F      |        7503 |
+|      10 | 0x1D50      |        7504 |
+|      11 | 0x1D51      |        7505 |
+|      12 | 0x1D52      |        7506 |
+|      13 | 0x1D55      |        7509 |
+|      14 | 0x1D56      |        7510 |
+|      15 | 0x1D57      |        7511 |
+|      16 | 0x1D58      |        7512 |
+|      17 | 0x1F7C      |        8060 |
+|      18 | 0x1F7D      |        8061 |
 |      19 | 0x0001      |           1 |
-|      20 | 0x2057      |        8279 |
-|      21 | 0x2058      |        8280 |
+|      20 | 0x2058      |        8280 |
+|      21 | 0x2059      |        8281 |
 |      22 | 0x0002      |           2 |
-|      23 | 0x205B      |        8283 |
-|      24 | 0x205C      |        8284 |
+|      23 | 0x205C      |        8284 |
+|      24 | 0x205D      |        8285 |
 |      25 | 0x0003      |           3 |
-|      26 | 0x2059      |        8281 |
-|      27 | 0x205A      |        8282 |
+|      26 | 0x205A      |        8282 |
+|      27 | 0x205B      |        8283 |
 
 ## String References
 
-- **7498**: This place is one where only a select few may engage in sacrrred battles.
-- **7499**: Oh, you're here on behalf of the Peacekeeperrrs' Coalition?
-- **7500**: That must have been quite the crrrawl.
-- **7501**: As you experienced for yourself, the labyrrrinthine corridors are quite confounding, and have stymied many before you.
-- **7502**: But making the jourrrney once makes subsequent visits all the easier, wouldn't you agree?
-- **7503**: Along the way you must have come acrrross another gate with a symbol etched in stone.
-- **7504**: Predictably, this gate is not like the otherrrs.
-- **7505**: Passage is grrranted to specific individuals, and no one else.
-- **7508**: These stories are best left for another time. I'm sure those who ordered you to confirrrm the status of the gates are waiting for word.
-- **7509**: Me? There is no need for self-intrrroductions, as you've certainly heard my name before.
-- **7510**: While you're at it, the Peacekeepers will be grrrateful for any assistance you can provide in keeping the road back safe for travel.
-- **7511**: They must be waiting for you in the city prrroper. Hurry now.
-- **8057**: This is the Watergarden Coliseum, where the Mummers' Coalition holds periodic rrraptor fights.
-- **8058**: No raptor fights are currrently scheduled. You'll have to come back at a later date to satisfy your bloodlust.
-- **8059**: What awe-inspiring rrrunic energy... Where have you been all this time!? We've been eagerrrly awaiting your arrival.
-- **8060**: Prrreparations for the event are complete. When you're ready, just claw your way to the door at your rrrear.
-- **8279**: You're after the Dashing Drrreamers?
-- **8280**: Funny, that. They waltzed into the coliseum clutching a couple of barrrels from the warehouse nearby.
-- **8281**: What on Vana'diel is going on in there? Firrrst Adoulin's famous duo sneaks in through the back, and now a Tarutaru hauls tail out of here drrragging another by his coattails?
-- **8282**: He flailed about like a madman, screeching something about Svenja and the Orrrder of Janniston.
-- **8283**: The Dashing Dreamers? Funny about that. The duo hauled a pairrr of squeaking barrels out the front door not two minutes ago.
-- **8284**: Something about a carrrgo vessel and just desserts... I don't get paid enough to pay much attention.
+- **7499**: This place is one where only a select few may engage in sacrrred battles.
+- **7500**: Oh, you're here on behalf of the Peacekeeperrrs' Coalition?
+- **7501**: That must have been quite the crrrawl.
+- **7502**: As you experienced for yourself, the labyrrrinthine corridors are quite confounding, and have stymied many before you.
+- **7503**: But making the jourrrney once makes subsequent visits all the easier, wouldn't you agree?
+- **7504**: Along the way you must have come acrrross another gate with a symbol etched in stone.
+- **7505**: Predictably, this gate is not like the otherrrs.
+- **7506**: Passage is grrranted to specific individuals, and no one else.
+- **7509**: These stories are best left for another time. I'm sure those who ordered you to confirrrm the status of the gates are waiting for word.
+- **7510**: Me? There is no need for self-intrrroductions, as you've certainly heard my name before.
+- **7511**: While you're at it, the Peacekeepers will be grrrateful for any assistance you can provide in keeping the road back safe for travel.
+- **7512**: They must be waiting for you in the city prrroper. Hurry now.
+- **8058**: This is the Watergarden Coliseum, where the Mummers' Coalition holds periodic rrraptor fights.
+- **8059**: No raptor fights are currrently scheduled. You'll have to come back at a later date to satisfy your bloodlust.
+- **8060**: What awe-inspiring rrrunic energy... Where have you been all this time!? We've been eagerrrly awaiting your arrival.
+- **8061**: Prrreparations for the event are complete. When you're ready, just claw your way to the door at your rrrear.
+- **8280**: You're after the Dashing Drrreamers?
+- **8281**: Funny, that. They waltzed into the coliseum clutching a couple of barrrels from the warehouse nearby.
+- **8282**: What on Vana'diel is going on in there? Firrrst Adoulin's famous duo sneaks in through the back, and now a Tarutaru hauls tail out of here drrragging another by his coattails?
+- **8283**: He flailed about like a madman, screeching something about Svenja and the Orrrder of Janniston.
+- **8284**: The Dashing Dreamers? Funny about that. The duo hauled a pairrr of squeaking barrels out the front door not two minutes ago.
+- **8285**: Something about a carrrgo vessel and just desserts... I don't get paid enough to pay much attention.
 
 ## Events
 
@@ -129,10 +129,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
     → "This is the Watergarden Coliseum, where the Mummers' Coalition holds periodic rrraptor fights."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "No raptor fights are currrently scheduled. You'll have to come back at a later date to satisfy your bloodlust."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -187,10 +187,10 @@
   0: 0x0037 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003C [0x1C] WAIT(30* ticks)
   2: 0x003F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
+  3: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
     → "This is the Watergarden Coliseum, where the Mummers' Coalition holds periodic rrraptor fights."
   4: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  5: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "No raptor fights are currrently scheduled. You'll have to come back at a later date to satisfy your bloodlust."
   6: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0056 [0x21] END_EVENT
@@ -228,41 +228,41 @@
   3: 0x005F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0060 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   5: 0x006F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00A6
-  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
     → "This place is one where only a select few may engage in sacrrred battles."
   7: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
+  8: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
     → "Oh, you're here on behalf of the Peacekeeperrrs' Coalition?"
   9: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
+ 10: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
     → "That must have been quite the crrrawl."
  11: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
+ 12: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
     → "As you experienced for yourself, the labyrrrinthine corridors are quite confounding, and have stymied many before you."
  13: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+ 14: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
     → "But making the jourrrney once makes subsequent visits all the easier, wouldn't you agree?"
  15: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+ 16: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "Along the way you must have come acrrross another gate with a symbol etched in stone."
  17: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+ 18: 0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "Predictably, this gate is not like the otherrrs."
  19: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+ 20: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "Passage is grrranted to specific individuals, and no one else."
  21: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+ 22: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "These stories are best left for another time. I'm sure those who ordered you to confirrrm the status of the gates are waiting for word."
  23: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+ 24: 0x009B [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "Me? There is no need for self-intrrroductions, as you've certainly heard my name before."
  25: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
+ 26: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
     → "While you're at it, the Peacekeepers will be grrrateful for any assistance you can provide in keeping the road back safe for travel."
  27: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00A3 [0x01] GOTO 0x00AA
- 29: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7511*)
+ 29: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7512*)
     → "They must be waiting for you in the city prrroper. Hurry now."
  30: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -297,10 +297,10 @@ SUBROUTINE_00AA:
   0: 0x00BB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C0 [0x1C] WAIT(30* ticks)
   2: 0x00C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
+  3: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
     → "What awe-inspiring rrrunic energy... Where have you been all this time!? We've been eagerrrly awaiting your arrival."
   4: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8060*)
+  5: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8061*)
     → "Prrreparations for the event are complete. When you're ready, just claw your way to the door at your rrrear."
   6: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -360,26 +360,26 @@ SUBROUTINE_00AA:
   2: 0x00F2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   4: 0x0102 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0115
-  5: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
+  5: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
     → "You're after the Dashing Drrreamers?"
   6: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+  7: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "Funny, that. They waltzed into the coliseum clutching a couple of barrrels from the warehouse nearby."
   8: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0112 [0x01] GOTO 0x013B
  10: 0x0115 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0128
- 11: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
+ 11: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
     → "The Dashing Dreamers? Funny about that. The duo hauled a pairrr of squeaking barrels out the front door not two minutes ago."
  12: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
+ 13: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=8285*)
     → "Something about a carrrgo vessel and just desserts... I don't get paid enough to pay much attention."
  14: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0125 [0x01] GOTO 0x013B
  16: 0x0128 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x013B
- 17: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
+ 17: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
     → "What on Vana'diel is going on in there? Firrrst Adoulin's famous duo sneaks in through the back, and now a Tarutaru hauls tail out of here drrragging another by his coattails?"
  18: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+ 19: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "He flailed about like a madman, screeching something about Svenja and the Orrrder of Janniston."
  20: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0138 [0x01] GOTO 0x013B

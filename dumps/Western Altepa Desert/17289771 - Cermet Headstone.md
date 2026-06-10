@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC6      |        7366 |
-|       1 | 0x1CC7      |        7367 |
+|       0 | 0x1CC7      |        7367 |
+|       1 | 0x1CC8      |        7368 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 
 ## String References
 
-- **7366**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
-- **7367**: Do you remove the $3? [Yes./No.]
+- **7367**: 6... A single fragment of light. The way in which it shines suggests that it is resonating with something...
+- **7368**: Do you remove the $3? [Yes./No.]
 
 ## Events
 
@@ -76,10 +76,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at EventEntity
-  1: 0x000A [0x48] [System] [7366*]:
+  1: 0x000A [0x48] [System] [7367*]:
     → "6... A single fragment of light. The way in which it shines suggests that it is resonating with something..."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7367*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7368*, default_option=0*, option_flags=0*)
     → "Do you remove the $3? [Yes./No.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0026

@@ -21,21 +21,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1C61      |        7265 |
+|       1 | 0x1C62      |        7266 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x1C62      |        7266 |
+|       3 | 0x1C63      |        7267 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x1C63      |        7267 |
-|       6 | 0x1C64      |        7268 |
-|       7 | 0x1C65      |        7269 |
+|       5 | 0x1C64      |        7268 |
+|       6 | 0x1C65      |        7269 |
+|       7 | 0x1C66      |        7270 |
 
 ## String References
 
-- **7265**: GiMme$26fIvE! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
-- **7266**: HAnG$26tEn, dOOd! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
-- **7267**: WASSuuuuuuP!? FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
-- **7268**: ...? aRE yOu$26TeLLiNg fiVe$26hiS GrEEtiNg$26is iNcoRreCt?
-- **7269**: ThIS$26cAnNOt bE$26tRuE! THis$26iS$26tHe fIRst$26GrEEtiNg$26tHaT$26fiVe LEaRNed...
+- **7266**: GiMme$26fIvE! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
+- **7267**: HAnG$26tEn, dOOd! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
+- **7268**: WASSuuuuuuP!? FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!
+- **7269**: ...? aRE yOu$26TeLLiNg fiVe$26hiS GrEEtiNg$26is iNcoRreCt?
+- **7270**: ThIS$26cAnNOt bE$26tRuE! THis$26iS$26tHe fIRst$26GrEEtiNg$26tHaT$26fiVe LEaRNed...
 
 ## Events
 
@@ -87,29 +87,29 @@
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0004 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0013
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "GiMme$26fIvE! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!"
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x01] GOTO 0x0035
   6: 0x0013 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x0022
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
     → "HAnG$26tEn, dOOd! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!"
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001F [0x01] GOTO 0x0035
  10: 0x0022 [0x02] IF !(Work_Zone[3] == 3*) GOTO 0x0031
- 11: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7267*)
+ 11: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
     → "WASSuuuuuuP!? FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!"
  12: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x002E [0x01] GOTO 0x0035
- 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7265*)
+ 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7266*)
     → "GiMme$26fIvE! FiVe is$26A cArdIan$26OF WiN-DuRst! FIvE$26iS On$26pA-tRol!"
  15: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0035:
- 16: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7268*)
+ 16: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
     → "...? aRE yOu$26TeLLiNg fiVe$26hiS GrEEtiNg$26is iNcoRreCt?"
  17: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7269*)
+ 18: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7270*)
     → "ThIS$26cAnNOt bE$26tRuE! THis$26iS$26tHe fIRst$26GrEEtiNg$26tHaT$26fiVe LEaRNed..."
  19: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x003D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

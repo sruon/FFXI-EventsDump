@@ -145,40 +145,40 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x2151      |        8529 |
+|       1 | 0x2152      |        8530 |
 |       2 | 0x0028      |          40 |
 |       3 | 0x01DC      |         476 |
-|       4 | 0x2152      |        8530 |
-|       5 | 0x2153      |        8531 |
-|       6 | 0x216F      |        8559 |
-|       7 | 0x2170      |        8560 |
+|       4 | 0x2153      |        8531 |
+|       5 | 0x2154      |        8532 |
+|       6 | 0x2170      |        8560 |
+|       7 | 0x2171      |        8561 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x2171      |        8561 |
+|       9 | 0x2172      |        8562 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x2172      |        8562 |
-|      12 | 0x2173      |        8563 |
-|      13 | 0x2174      |        8564 |
+|      11 | 0x2173      |        8563 |
+|      12 | 0x2174      |        8564 |
+|      13 | 0x2175      |        8565 |
 |      14 | 0xFFFFC21F  |  4294951455 |
 |      15 | 0xFFFF7BCC  |  4294933452 |
 |      16 | 0xFFFFE891  |  4294961297 |
 |      17 | 0x058B      |        1419 |
-|      18 | 0x1D4A      |        7498 |
+|      18 | 0x1D4B      |        7499 |
 |      19 | 0x022D      |         557 |
 |      20 | 0x022C      |         556 |
-|      21 | 0x1D50      |        7504 |
-|      22 | 0x1D51      |        7505 |
-|      23 | 0x1D52      |        7506 |
-|      24 | 0x1D53      |        7507 |
-|      25 | 0x1D54      |        7508 |
+|      21 | 0x1D51      |        7505 |
+|      22 | 0x1D52      |        7506 |
+|      23 | 0x1D53      |        7507 |
+|      24 | 0x1D54      |        7508 |
+|      25 | 0x1D55      |        7509 |
 |      26 | 0x30DB      |       12507 |
-|      27 | 0x1D7E      |        7550 |
-|      28 | 0x1D7F      |        7551 |
-|      29 | 0x1D80      |        7552 |
-|      30 | 0x1D81      |        7553 |
-|      31 | 0x1D82      |        7554 |
-|      32 | 0x1D83      |        7555 |
-|      33 | 0x1D84      |        7556 |
-|      34 | 0x1D85      |        7557 |
+|      27 | 0x1D7F      |        7551 |
+|      28 | 0x1D80      |        7552 |
+|      29 | 0x1D81      |        7553 |
+|      30 | 0x1D82      |        7554 |
+|      31 | 0x1D83      |        7555 |
+|      32 | 0x1D84      |        7556 |
+|      33 | 0x1D85      |        7557 |
+|      34 | 0x1D86      |        7558 |
 |      35 | 0x00C9      |         201 |
 |      36 | 0xFFFFD86D  |  4294957165 |
 |      37 | 0xFFFF6EFB  |  4294930171 |
@@ -188,47 +188,47 @@
 |      41 | 0xFFFFD98B  |  4294957451 |
 |      42 | 0xFFFF69B1  |  4294928817 |
 |      43 | 0xFFFFE890  |  4294961296 |
-|      44 | 0x1D63      |        7523 |
-|      45 | 0x1D64      |        7524 |
-|      46 | 0x1D65      |        7525 |
+|      44 | 0x1D64      |        7524 |
+|      45 | 0x1D65      |        7525 |
+|      46 | 0x1D66      |        7526 |
 |      47 | 0x0992      |        2450 |
 |      48 | 0x002A      |          42 |
 |      49 | 0x003C      |          60 |
 |      50 | 0x0091      |         145 |
-|      51 | 0x1D66      |        7526 |
+|      51 | 0x1D67      |        7527 |
 |      52 | 0x40000000  |  1073741824 |
 |      53 | 0x000A      |          10 |
 |      54 | 0x0002      |           2 |
-|      55 | 0x1D67      |        7527 |
-|      56 | 0x1D6B      |        7531 |
-|      57 | 0x1D6F      |        7535 |
-|      58 | 0x1D68      |        7528 |
-|      59 | 0x1D6C      |        7532 |
-|      60 | 0x1D70      |        7536 |
-|      61 | 0x1D69      |        7529 |
-|      62 | 0x1D6D      |        7533 |
-|      63 | 0x1D71      |        7537 |
+|      55 | 0x1D68      |        7528 |
+|      56 | 0x1D6C      |        7532 |
+|      57 | 0x1D70      |        7536 |
+|      58 | 0x1D69      |        7529 |
+|      59 | 0x1D6D      |        7533 |
+|      60 | 0x1D71      |        7537 |
+|      61 | 0x1D6A      |        7530 |
+|      62 | 0x1D6E      |        7534 |
+|      63 | 0x1D72      |        7538 |
 |      64 | 0x0003      |           3 |
-|      65 | 0x1D6A      |        7530 |
-|      66 | 0x1D6E      |        7534 |
-|      67 | 0x1D72      |        7538 |
+|      65 | 0x1D6B      |        7531 |
+|      66 | 0x1D6F      |        7535 |
+|      67 | 0x1D73      |        7539 |
 |      68 | 0x0004      |           4 |
 |      69 | 0x0005      |           5 |
 |      70 | 0x0006      |           6 |
 |      71 | 0x0007      |           7 |
 |      72 | 0x0008      |           8 |
 |      73 | 0x0009      |           9 |
-|      74 | 0x1D74      |        7540 |
-|      75 | 0x1D75      |        7541 |
-|      76 | 0x1D76      |        7542 |
-|      77 | 0x1D77      |        7543 |
-|      78 | 0x1D78      |        7544 |
-|      79 | 0x1D79      |        7545 |
-|      80 | 0x1D7A      |        7546 |
-|      81 | 0x1D7B      |        7547 |
-|      82 | 0x1D7C      |        7548 |
-|      83 | 0x1D7D      |        7549 |
-|      84 | 0x1D73      |        7539 |
+|      74 | 0x1D75      |        7541 |
+|      75 | 0x1D76      |        7542 |
+|      76 | 0x1D77      |        7543 |
+|      77 | 0x1D78      |        7544 |
+|      78 | 0x1D79      |        7545 |
+|      79 | 0x1D7A      |        7546 |
+|      80 | 0x1D7B      |        7547 |
+|      81 | 0x1D7C      |        7548 |
+|      82 | 0x1D7D      |        7549 |
+|      83 | 0x1D7E      |        7550 |
+|      84 | 0x1D74      |        7540 |
 |      85 | 0x001E      |          30 |
 |      86 | 0x000C      |          12 |
 |      87 | 0xFFFED6C4  |  4294891204 |
@@ -324,56 +324,56 @@
 
 ## String References
 
-- **7498**: Welcome! You stand before Kurou-Morou the Magnificentaru! Speak to me, and all will be revealed.
-- **7504**: I require $6 in order to constructaru your $7.
-- **7505**: Immerse the $6 in the pool of holy water inside the Maze of Shakhrami. After a time, it will become a $7.
-- **7506**: I will keep your $7 safe here in my abode, ready for divining your future at any time. Farewell, and may fortune smile upon you!
-- **7507**: Why, this is $6 of high quality! Take this and immerse it in the pool of holy water inside the Maze of Shakhrami.
-- **7508**: Only then will it be purged of impurities, and become a $7. Good luck!
-- **7523**: Shall I read your fortune?
-- **7524**: Hear your fortune? [Sure./Not now.]
-- **7525**: Ahem. Very well...
-- **7526**: Please come again.
-- **7527**: General Signs: Poor.
-- **7528**: General Signs: Fair.
-- **7529**: General Signs: Favorable.
-- **7530**: General Signs: Excellent.
-- **7531**: Financial Signs: Poor.
-- **7532**: Financial Signs: Fair.
-- **7533**: Financial Signs: Favorable.
-- **7534**: Financial Signs: Excellent.
-- **7535**: Romance Signs: Poor.
-- **7536**: Romance Signs: Fair.
-- **7537**: Romance Signs: Favorable.
-- **7538**: Romance Signs: Excellent.
-- **7539**: Fortune Error.
-- **7540**: Today's fortune: Take special care when throwing things away, lest you toss out a key item.
-- **7541**: Today's Fortune: Take special care when shopping, lest you purchase something you cannot use.
-- **7542**: Today's Fortune: Take special care when shopping, lest you accidentally sell an important item.
-- **7543**: Today's Fortune: Moving to a new place can bring good fortune.
-- **7544**: Today's Fortune: You just might run into an old friend.
-- **7545**: Today's Fortune: Beware of chasing prey too far. It could be your undoing.
-- **7546**: Today's Fortune: Teaming up with your countrymen might bring good fortune.
-- **7547**: Today's Fortune: You will do your best in the rain.
-- **7548**: Today's Fortune: Beware of overburdening yourself. You could lose out on a very good trade.
-- **7549**: Today's Fortune: Sometimes, returning to your roots can bring luck.
-- **7550**: I'm so happy you came. You see, I've got a favor I only ask of my best clients.
-- **7551**: Last magic rubbish day, I accidentally threw out my $7. Oh, if that imposter-woster Chululu found out, it'd be the end of me!
-- **7552**: That's where you come intaru! I need you to procure another one just like it. And of course, I'll reward you handsomely. Well? What do you say?
-- **7553**: Do you accept? [With pleasure./Sorry, I'm busy.]
-- **7554**: A thousand thanks, my dear clientaru! I wish you the best in this endeavor-wevor! Oh, and don't say a word to Chululu, I beg you!
-- **7555**: Too busy, eh? Pity. Now what am I to do...?
-- **7556**: I knew I could count on you. I can't sleep without my $7!
-- **7557**: Why, thank you so much! You have my dearest gratitude. Please, accept this with my thanks.
-- **8529**: Oh, what should I do!? I don't want to regretaru not telling her, but what if she laughed at me? I could never-ever face her again!
-- **8530**: Please, <Player>! You've got to go to the Boyahda Tree and get that $3! A miracle is my only hope!
-- **8531**: There is a place deepy-creepy in the Boyahda Tree where the moonlight shines down through the leaves. Legend says that if in that moonlight you offer a prayer to the gods, they will grant you with a single $3.
-- **8559**: Hmmm... So, do you think she understood how I feel?
-- **8560**: How did he do? [Great!/Terrible!]
-- **8561**: Really-willy? Yeah, I'm what they call a "smooth operator."
-- **8562**: Terrible, huh? But I don't think I could pull off something like that again. Just the thought of it turns my face all reddy-weddy with embarrassment!
-- **8563**: However, as long as Chululu is working here beside me, I'm as happy as a happy Taru can be!
-- **8564**: Now, don'taru you go telling Chululu I said that!
+- **7499**: Welcome! You stand before Kurou-Morou the Magnificentaru! Speak to me, and all will be revealed.
+- **7505**: I require $6 in order to constructaru your $7.
+- **7506**: Immerse the $6 in the pool of holy water inside the Maze of Shakhrami. After a time, it will become a $7.
+- **7507**: I will keep your $7 safe here in my abode, ready for divining your future at any time. Farewell, and may fortune smile upon you!
+- **7508**: Why, this is $6 of high quality! Take this and immerse it in the pool of holy water inside the Maze of Shakhrami.
+- **7509**: Only then will it be purged of impurities, and become a $7. Good luck!
+- **7524**: Shall I read your fortune?
+- **7525**: Hear your fortune? [Sure./Not now.]
+- **7526**: Ahem. Very well...
+- **7527**: Please come again.
+- **7528**: General Signs: Poor.
+- **7529**: General Signs: Fair.
+- **7530**: General Signs: Favorable.
+- **7531**: General Signs: Excellent.
+- **7532**: Financial Signs: Poor.
+- **7533**: Financial Signs: Fair.
+- **7534**: Financial Signs: Favorable.
+- **7535**: Financial Signs: Excellent.
+- **7536**: Romance Signs: Poor.
+- **7537**: Romance Signs: Fair.
+- **7538**: Romance Signs: Favorable.
+- **7539**: Romance Signs: Excellent.
+- **7540**: Fortune Error.
+- **7541**: Today's fortune: Take special care when throwing things away, lest you toss out a key item.
+- **7542**: Today's Fortune: Take special care when shopping, lest you purchase something you cannot use.
+- **7543**: Today's Fortune: Take special care when shopping, lest you accidentally sell an important item.
+- **7544**: Today's Fortune: Moving to a new place can bring good fortune.
+- **7545**: Today's Fortune: You just might run into an old friend.
+- **7546**: Today's Fortune: Beware of chasing prey too far. It could be your undoing.
+- **7547**: Today's Fortune: Teaming up with your countrymen might bring good fortune.
+- **7548**: Today's Fortune: You will do your best in the rain.
+- **7549**: Today's Fortune: Beware of overburdening yourself. You could lose out on a very good trade.
+- **7550**: Today's Fortune: Sometimes, returning to your roots can bring luck.
+- **7551**: I'm so happy you came. You see, I've got a favor I only ask of my best clients.
+- **7552**: Last magic rubbish day, I accidentally threw out my $7. Oh, if that imposter-woster Chululu found out, it'd be the end of me!
+- **7553**: That's where you come intaru! I need you to procure another one just like it. And of course, I'll reward you handsomely. Well? What do you say?
+- **7554**: Do you accept? [With pleasure./Sorry, I'm busy.]
+- **7555**: A thousand thanks, my dear clientaru! I wish you the best in this endeavor-wevor! Oh, and don't say a word to Chululu, I beg you!
+- **7556**: Too busy, eh? Pity. Now what am I to do...?
+- **7557**: I knew I could count on you. I can't sleep without my $7!
+- **7558**: Why, thank you so much! You have my dearest gratitude. Please, accept this with my thanks.
+- **8530**: Oh, what should I do!? I don't want to regretaru not telling her, but what if she laughed at me? I could never-ever face her again!
+- **8531**: Please, <Player>! You've got to go to the Boyahda Tree and get that $3! A miracle is my only hope!
+- **8532**: There is a place deepy-creepy in the Boyahda Tree where the moonlight shines down through the leaves. Legend says that if in that moonlight you offer a prayer to the gods, they will grant you with a single $3.
+- **8560**: Hmmm... So, do you think she understood how I feel?
+- **8561**: How did he do? [Great!/Terrible!]
+- **8562**: Really-willy? Yeah, I'm what they call a "smooth operator."
+- **8563**: Terrible, huh? But I don't think I could pull off something like that again. Just the thought of it turns my face all reddy-weddy with embarrassment!
+- **8564**: However, as long as Chululu is working here beside me, I'm as happy as a happy Taru can be!
+- **8565**: Now, don'taru you go telling Chululu I said that!
 
 ## Events
 
@@ -463,7 +463,7 @@
 #### Opcodes
 
 ```
-  0: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8529*)
+  0: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8530*)
     → "Oh, what should I do!? I don't want to regretaru not telling her, but what if she laughed at me? I could never-ever face her again!"
   1: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000A [0x21] END_EVENT
@@ -496,7 +496,7 @@
   2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0013 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   4: 0x0022 [0x03] Work_Zone[2] = 476*
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8530*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
     → "Please, <Player>! You've got to go to the Boyahda Tree and get that $3! A miracle is my only hope!"
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x21] END_EVENT
@@ -529,7 +529,7 @@
   2: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   4: 0x0043 [0x03] Work_Zone[2] = 476*
-  5: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
+  5: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8532*)
     → "There is a place deepy-creepy in the Boyahda Tree where the moonlight shines down through the leaves. Legend says that if in that moonlight you offer a prayer to the gods, they will grant you with a single $3."
   6: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x004C [0x21] END_EVENT
@@ -569,31 +569,31 @@
   1: 0x0053 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0054 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8559*)
+  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8560*)
     → "Hmmm... So, do you think she understood how I feel?"
   5: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0068 [0x24] CREATE_DIALOG(message_id=8560*, default_option=0*, option_flags=0*)
+  6: 0x0068 [0x24] CREATE_DIALOG(message_id=8561*, default_option=0*, option_flags=0*)
     → "How did he do? [Great!/Terrible!]"
   7: 0x006F [0x25] WAIT_DIALOG_SELECT()
   8: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=40*
   9: 0x007F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008E
- 10: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8561*)
+ 10: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
     → "Really-willy? Yeah, I'm what they call a "smooth operator.""
  11: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x008B [0x01] GOTO 0x009D
  13: 0x008E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x009D
- 14: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8562*)
+ 14: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
     → "Terrible, huh? But I don't think I could pull off something like that again. Just the thought of it turns my face all reddy-weddy with embarrassment!"
  15: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x009A [0x01] GOTO 0x009D
 
 SUBROUTINE_009D:
  17: 0x009D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "iro0" with entities [EventEntity, EventEntity], work=40*
- 18: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8563*)
+ 18: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
     → "However, as long as Chululu is working here beside me, I'm as happy as a happy Taru can be!"
  19: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00B0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "iro0" with entities [EventEntity, EventEntity]
- 21: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8564*)
+ 21: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8565*)
     → "Now, don'taru you go telling Chululu I said that!"
  22: 0x00C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
  23: 0x00CF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
@@ -651,7 +651,7 @@ SUBROUTINE_009D:
   1: 0x00F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+  4: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
     → "Welcome! You stand before Kurou-Morou the Magnificentaru! Speak to me, and all will be revealed."
   5: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0108 [0x21] END_EVENT
@@ -708,13 +708,13 @@ SUBROUTINE_009D:
   3: 0x0112 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   4: 0x0121 [0x03] Work_Zone[8] = 557*
   5: 0x0126 [0x03] Work_Zone[9] = 556*
-  6: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+  6: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "I require $6 in order to constructaru your $7."
   7: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+  8: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "Immerse the $6 in the pool of holy water inside the Maze of Shakhrami. After a time, it will become a $7."
   9: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+ 10: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "I will keep your $7 safe here in my abode, ready for divining your future at any time. Farewell, and may fortune smile upon you!"
  11: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0137 [0x21] END_EVENT
@@ -748,10 +748,10 @@ SUBROUTINE_009D:
   3: 0x0141 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0142 [0x03] Work_Zone[8] = 557*
   5: 0x0147 [0x03] Work_Zone[9] = 556*
-  6: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+  6: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "Why, this is $6 of high quality! Take this and immerse it in the pool of holy water inside the Maze of Shakhrami."
   7: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
+  8: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
     → "Only then will it be purged of impurities, and become a $7. Good luck!"
   9: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0154 [0x21] END_EVENT
@@ -788,27 +788,27 @@ SUBROUTINE_009D:
   3: 0x015E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x015F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0160 [0x03] Work_Zone[9] = 12507*
-  6: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
+  6: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
     → "I'm so happy you came. You see, I've got a favor I only ask of my best clients."
   7: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+  8: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "Last magic rubbish day, I accidentally threw out my $7. Oh, if that imposter-woster Chululu found out, it'd be the end of me!"
   9: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+ 10: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "That's where you come intaru! I need you to procure another one just like it. And of course, I'll reward you handsomely. Well? What do you say?"
  11: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0171 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 13: 0x0172 [0x24] CREATE_DIALOG(message_id=7553*, default_option=0*, option_flags=0*)
+ 13: 0x0172 [0x24] CREATE_DIALOG(message_id=7554*, default_option=0*, option_flags=0*)
     → "Do you accept? [With pleasure./Sorry, I'm busy.]"
  14: 0x0179 [0x25] WAIT_DIALOG_SELECT()
  15: 0x017A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x018E
- 16: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+ 16: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
     → "A thousand thanks, my dear clientaru! I wish you the best in this endeavor-wevor! Oh, and don't say a word to Chululu, I beg you!"
  17: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0186 [0x03] Work_Zone[1] = 0*
  19: 0x018B [0x01] GOTO 0x01A2
  20: 0x018E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01A2
- 21: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+ 21: 0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "Too busy, eh? Pity. Now what am I to do...?"
  22: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x019A [0x03] Work_Zone[1] = 1*
@@ -845,7 +845,7 @@ SUBROUTINE_01A2:
   3: 0x01AC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x01AD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01AE [0x03] Work_Zone[9] = 12507*
-  6: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+  6: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "I knew I could count on you. I can't sleep without my $7!"
   7: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01B7 [0x21] END_EVENT
@@ -878,7 +878,7 @@ SUBROUTINE_01A2:
   2: 0x01BC [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x01C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  5: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "Why, thank you so much! You have my dearest gratitude. Please, accept this with my thanks."
   6: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01C7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1095,15 +1095,15 @@ SUBROUTINE_01A2:
   0: 0x0218 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x021D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x021E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
+  3: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=7524*)
     → "Shall I read your fortune?"
   4: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0223 [0x24] CREATE_DIALOG(message_id=7524*, default_option=1*, option_flags=0*)
+  5: 0x0223 [0x24] CREATE_DIALOG(message_id=7525*, default_option=1*, option_flags=0*)
     → "Hear your fortune? [Sure./Not now.]"
   6: 0x022A [0x25] WAIT_DIALOG_SELECT()
   7: 0x022B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0290
   8: 0x0233 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  9: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7525*)
+  9: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
     → "Ahem. Very well..."
  10: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0238 [0x7B] EventEntity stops talking
@@ -1121,7 +1121,7 @@ SUBROUTINE_01A2:
  23: 0x0288 [0x03] Work_Zone[1] = 0*
  24: 0x028D [0x01] GOTO 0x02A4
  25: 0x0290 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02A4
- 26: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 26: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "Please come again."
  27: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x029C [0x03] Work_Zone[1] = 1073741824*
@@ -1163,17 +1163,17 @@ SUBROUTINE_0311:
 SUBROUTINE_031A:
  57: 0x031A [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x0352
  58: 0x0322 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0331
- 59: 0x032A [0x48] [System] [7527*]:
+ 59: 0x032A [0x48] [System] [7528*]:
     → "General Signs: Poor."
  60: 0x032D [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x032E [0x01] GOTO 0x034F
  62: 0x0331 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0340
- 63: 0x0339 [0x48] [System] [7531*]:
+ 63: 0x0339 [0x48] [System] [7532*]:
     → "Financial Signs: Poor."
  64: 0x033C [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x033D [0x01] GOTO 0x034F
  66: 0x0340 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x034F
- 67: 0x0348 [0x48] [System] [7535*]:
+ 67: 0x0348 [0x48] [System] [7536*]:
     → "Romance Signs: Poor."
  68: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x034C [0x01] GOTO 0x034F
@@ -1182,17 +1182,17 @@ SUBROUTINE_034F:
  70: 0x034F [0x01] GOTO 0x054A
  71: 0x0352 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x038A
  72: 0x035A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0369
- 73: 0x0362 [0x48] [System] [7528*]:
+ 73: 0x0362 [0x48] [System] [7529*]:
     → "General Signs: Fair."
  74: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0366 [0x01] GOTO 0x0387
  76: 0x0369 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0378
- 77: 0x0371 [0x48] [System] [7532*]:
+ 77: 0x0371 [0x48] [System] [7533*]:
     → "Financial Signs: Fair."
  78: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0375 [0x01] GOTO 0x0387
  80: 0x0378 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0387
- 81: 0x0380 [0x48] [System] [7536*]:
+ 81: 0x0380 [0x48] [System] [7537*]:
     → "Romance Signs: Fair."
  82: 0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0384 [0x01] GOTO 0x0387
@@ -1201,17 +1201,17 @@ SUBROUTINE_0387:
  84: 0x0387 [0x01] GOTO 0x054A
  85: 0x038A [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x03C2
  86: 0x0392 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x03A1
- 87: 0x039A [0x48] [System] [7529*]:
+ 87: 0x039A [0x48] [System] [7530*]:
     → "General Signs: Favorable."
  88: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x039E [0x01] GOTO 0x03BF
  90: 0x03A1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x03B0
- 91: 0x03A9 [0x48] [System] [7533*]:
+ 91: 0x03A9 [0x48] [System] [7534*]:
     → "Financial Signs: Favorable."
  92: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x03AD [0x01] GOTO 0x03BF
  94: 0x03B0 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x03BF
- 95: 0x03B8 [0x48] [System] [7537*]:
+ 95: 0x03B8 [0x48] [System] [7538*]:
     → "Romance Signs: Favorable."
  96: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x03BC [0x01] GOTO 0x03BF
@@ -1220,17 +1220,17 @@ SUBROUTINE_03BF:
  98: 0x03BF [0x01] GOTO 0x054A
  99: 0x03C2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x03FA
 100: 0x03CA [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x03D9
-101: 0x03D2 [0x48] [System] [7530*]:
+101: 0x03D2 [0x48] [System] [7531*]:
     → "General Signs: Excellent."
 102: 0x03D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x03D6 [0x01] GOTO 0x03F7
 104: 0x03D9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x03E8
-105: 0x03E1 [0x48] [System] [7534*]:
+105: 0x03E1 [0x48] [System] [7535*]:
     → "Financial Signs: Excellent."
 106: 0x03E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x03E5 [0x01] GOTO 0x03F7
 108: 0x03E8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x03F7
-109: 0x03F0 [0x48] [System] [7538*]:
+109: 0x03F0 [0x48] [System] [7539*]:
     → "Romance Signs: Excellent."
 110: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x03F4 [0x01] GOTO 0x03F7
@@ -1239,17 +1239,17 @@ SUBROUTINE_03F7:
 112: 0x03F7 [0x01] GOTO 0x054A
 113: 0x03FA [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0432
 114: 0x0402 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0411
-115: 0x040A [0x48] [System] [7527*]:
+115: 0x040A [0x48] [System] [7528*]:
     → "General Signs: Poor."
 116: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x040E [0x01] GOTO 0x042F
 118: 0x0411 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0420
-119: 0x0419 [0x48] [System] [7531*]:
+119: 0x0419 [0x48] [System] [7532*]:
     → "Financial Signs: Poor."
 120: 0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x041D [0x01] GOTO 0x042F
 122: 0x0420 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x042F
-123: 0x0428 [0x48] [System] [7535*]:
+123: 0x0428 [0x48] [System] [7536*]:
     → "Romance Signs: Poor."
 124: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x042C [0x01] GOTO 0x042F
@@ -1258,17 +1258,17 @@ SUBROUTINE_042F:
 126: 0x042F [0x01] GOTO 0x054A
 127: 0x0432 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x046A
 128: 0x043A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0449
-129: 0x0442 [0x48] [System] [7528*]:
+129: 0x0442 [0x48] [System] [7529*]:
     → "General Signs: Fair."
 130: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0446 [0x01] GOTO 0x0467
 132: 0x0449 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0458
-133: 0x0451 [0x48] [System] [7532*]:
+133: 0x0451 [0x48] [System] [7533*]:
     → "Financial Signs: Fair."
 134: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x0455 [0x01] GOTO 0x0467
 136: 0x0458 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0467
-137: 0x0460 [0x48] [System] [7536*]:
+137: 0x0460 [0x48] [System] [7537*]:
     → "Romance Signs: Fair."
 138: 0x0463 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0464 [0x01] GOTO 0x0467
@@ -1277,17 +1277,17 @@ SUBROUTINE_0467:
 140: 0x0467 [0x01] GOTO 0x054A
 141: 0x046A [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x04A2
 142: 0x0472 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0481
-143: 0x047A [0x48] [System] [7529*]:
+143: 0x047A [0x48] [System] [7530*]:
     → "General Signs: Favorable."
 144: 0x047D [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x047E [0x01] GOTO 0x049F
 146: 0x0481 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0490
-147: 0x0489 [0x48] [System] [7533*]:
+147: 0x0489 [0x48] [System] [7534*]:
     → "Financial Signs: Favorable."
 148: 0x048C [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x048D [0x01] GOTO 0x049F
 150: 0x0490 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x049F
-151: 0x0498 [0x48] [System] [7537*]:
+151: 0x0498 [0x48] [System] [7538*]:
     → "Romance Signs: Favorable."
 152: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x049C [0x01] GOTO 0x049F
@@ -1296,17 +1296,17 @@ SUBROUTINE_049F:
 154: 0x049F [0x01] GOTO 0x054A
 155: 0x04A2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x04DA
 156: 0x04AA [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x04B9
-157: 0x04B2 [0x48] [System] [7530*]:
+157: 0x04B2 [0x48] [System] [7531*]:
     → "General Signs: Excellent."
 158: 0x04B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x04B6 [0x01] GOTO 0x04D7
 160: 0x04B9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x04C8
-161: 0x04C1 [0x48] [System] [7534*]:
+161: 0x04C1 [0x48] [System] [7535*]:
     → "Financial Signs: Excellent."
 162: 0x04C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x04C5 [0x01] GOTO 0x04D7
 164: 0x04C8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x04D7
-165: 0x04D0 [0x48] [System] [7538*]:
+165: 0x04D0 [0x48] [System] [7539*]:
     → "Romance Signs: Excellent."
 166: 0x04D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x04D4 [0x01] GOTO 0x04D7
@@ -1315,17 +1315,17 @@ SUBROUTINE_04D7:
 168: 0x04D7 [0x01] GOTO 0x054A
 169: 0x04DA [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x0512
 170: 0x04E2 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x04F1
-171: 0x04EA [0x48] [System] [7527*]:
+171: 0x04EA [0x48] [System] [7528*]:
     → "General Signs: Poor."
 172: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x04EE [0x01] GOTO 0x050F
 174: 0x04F1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0500
-175: 0x04F9 [0x48] [System] [7531*]:
+175: 0x04F9 [0x48] [System] [7532*]:
     → "Financial Signs: Poor."
 176: 0x04FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x04FD [0x01] GOTO 0x050F
 178: 0x0500 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x050F
-179: 0x0508 [0x48] [System] [7535*]:
+179: 0x0508 [0x48] [System] [7536*]:
     → "Romance Signs: Poor."
 180: 0x050B [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x050C [0x01] GOTO 0x050F
@@ -1334,17 +1334,17 @@ SUBROUTINE_050F:
 182: 0x050F [0x01] GOTO 0x054A
 183: 0x0512 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x054A
 184: 0x051A [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0529
-185: 0x0522 [0x48] [System] [7528*]:
+185: 0x0522 [0x48] [System] [7529*]:
     → "General Signs: Fair."
 186: 0x0525 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0526 [0x01] GOTO 0x0547
 188: 0x0529 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0538
-189: 0x0531 [0x48] [System] [7532*]:
+189: 0x0531 [0x48] [System] [7533*]:
     → "Financial Signs: Fair."
 190: 0x0534 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x0535 [0x01] GOTO 0x0547
 192: 0x0538 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0547
-193: 0x0540 [0x48] [System] [7536*]:
+193: 0x0540 [0x48] [System] [7537*]:
     → "Romance Signs: Fair."
 194: 0x0543 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x0544 [0x01] GOTO 0x0547
@@ -1357,56 +1357,56 @@ SUBROUTINE_054A:
 
 SUBROUTINE_054B:
 198: 0x054B [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x055A
-199: 0x0553 [0x48] [System] [7540*]:
+199: 0x0553 [0x48] [System] [7541*]:
     → "Today's fortune: Take special care when throwing things away, lest you toss out a key item."
 200: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
 201: 0x0557 [0x01] GOTO 0x05E5
 202: 0x055A [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0569
-203: 0x0562 [0x48] [System] [7541*]:
+203: 0x0562 [0x48] [System] [7542*]:
     → "Today's Fortune: Take special care when shopping, lest you purchase something you cannot use."
 204: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x0566 [0x01] GOTO 0x05E5
 206: 0x0569 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0578
-207: 0x0571 [0x48] [System] [7542*]:
+207: 0x0571 [0x48] [System] [7543*]:
     → "Today's Fortune: Take special care when shopping, lest you accidentally sell an important item."
 208: 0x0574 [0x23] WAIT_FOR_DIALOG_INTERACTION
 209: 0x0575 [0x01] GOTO 0x05E5
 210: 0x0578 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0587
-211: 0x0580 [0x48] [System] [7543*]:
+211: 0x0580 [0x48] [System] [7544*]:
     → "Today's Fortune: Moving to a new place can bring good fortune."
 212: 0x0583 [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x0584 [0x01] GOTO 0x05E5
 214: 0x0587 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x0596
-215: 0x058F [0x48] [System] [7544*]:
+215: 0x058F [0x48] [System] [7545*]:
     → "Today's Fortune: You just might run into an old friend."
 216: 0x0592 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x0593 [0x01] GOTO 0x05E5
 218: 0x0596 [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x05A5
-219: 0x059E [0x48] [System] [7545*]:
+219: 0x059E [0x48] [System] [7546*]:
     → "Today's Fortune: Beware of chasing prey too far. It could be your undoing."
 220: 0x05A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x05A2 [0x01] GOTO 0x05E5
 222: 0x05A5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x05B4
-223: 0x05AD [0x48] [System] [7546*]:
+223: 0x05AD [0x48] [System] [7547*]:
     → "Today's Fortune: Teaming up with your countrymen might bring good fortune."
 224: 0x05B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 225: 0x05B1 [0x01] GOTO 0x05E5
 226: 0x05B4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x05C3
-227: 0x05BC [0x48] [System] [7547*]:
+227: 0x05BC [0x48] [System] [7548*]:
     → "Today's Fortune: You will do your best in the rain."
 228: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x05C0 [0x01] GOTO 0x05E5
 230: 0x05C3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x05D2
-231: 0x05CB [0x48] [System] [7548*]:
+231: 0x05CB [0x48] [System] [7549*]:
     → "Today's Fortune: Beware of overburdening yourself. You could lose out on a very good trade."
 232: 0x05CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x05CF [0x01] GOTO 0x05E5
 234: 0x05D2 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x05E1
-235: 0x05DA [0x48] [System] [7549*]:
+235: 0x05DA [0x48] [System] [7550*]:
     → "Today's Fortune: Sometimes, returning to your roots can bring luck."
 236: 0x05DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x05DE [0x01] GOTO 0x05E5
-238: 0x05E1 [0x48] [System] [7539*]:
+238: 0x05E1 [0x48] [System] [7540*]:
     → "Fortune Error."
 239: 0x05E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

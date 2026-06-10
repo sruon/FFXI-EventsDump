@@ -76,24 +76,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB8      |        7608 |
-|       7 | 0x1DAB      |        7595 |
+|       6 | 0x1DB9      |        7609 |
+|       7 | 0x1DAC      |        7596 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1C3E      |        7230 |
+|      12 | 0x1C3F      |        7231 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1C49      |        7241 |
-|      20 | 0x1C4A      |        7242 |
-|      21 | 0x1C4B      |        7243 |
-|      22 | 0x1C4C      |        7244 |
-|      23 | 0x1C70      |        7280 |
+|      19 | 0x1C4A      |        7242 |
+|      20 | 0x1C4B      |        7243 |
+|      21 | 0x1C4C      |        7244 |
+|      22 | 0x1C4D      |        7245 |
+|      23 | 0x1C71      |        7281 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0012      |          18 |
 |      26 | 0x0007      |           7 |
@@ -113,16 +113,16 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1DA5      |        7589 |
-|      44 | 0x1DAA      |        7594 |
-|      45 | 0x1DA9      |        7593 |
+|      43 | 0x1DA6      |        7590 |
+|      44 | 0x1DAB      |        7595 |
+|      45 | 0x1DAA      |        7594 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB6      |        7606 |
-|      48 | 0x1DB5      |        7605 |
+|      47 | 0x1DB7      |        7607 |
+|      48 | 0x1DB6      |        7606 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1D91      |        7569 |
+|      50 | 0x1D92      |        7570 |
 |      51 | 0x00E8      |         232 |
-|      52 | 0x1C41      |        7233 |
+|      52 | 0x1C42      |        7234 |
 |      53 | 0x00C9      |         201 |
 |      54 | 0x0073      |         115 |
 |      55 | 0x00DA      |         218 |
@@ -210,11 +210,11 @@
 |     137 | 0x8FE5      |       36837 |
 |     138 | 0x02A1      |         673 |
 |     139 | 0x0024      |          36 |
-|     140 | 0x1D93      |        7571 |
-|     141 | 0x1D92      |        7570 |
-|     142 | 0x1DB4      |        7604 |
-|     143 | 0x1D95      |        7573 |
-|     144 | 0x1D94      |        7572 |
+|     140 | 0x1D94      |        7572 |
+|     141 | 0x1D93      |        7571 |
+|     142 | 0x1DB5      |        7605 |
+|     143 | 0x1D96      |        7574 |
+|     144 | 0x1D95      |        7573 |
 |     145 | 0xFFF6B02E  |  4294357038 |
 |     146 | 0xA8EB3     |      691891 |
 |     147 | 0x10EF      |        4335 |
@@ -230,37 +230,37 @@
 |     157 | 0x031C      |         796 |
 |     158 | 0x027D      |         637 |
 |     159 | 0x009D      |         157 |
-|     160 | 0x1DF1      |        7665 |
-|     161 | 0x1DF2      |        7666 |
-|     162 | 0x1DF3      |        7667 |
+|     160 | 0x1DF2      |        7666 |
+|     161 | 0x1DF3      |        7667 |
+|     162 | 0x1DF4      |        7668 |
 |     163 | 0x007F      |         127 |
 |     164 | 0x01F5      |         501 |
-|     165 | 0x1DF4      |        7668 |
+|     165 | 0x1DF5      |        7669 |
 |     166 | 0x00B0      |         176 |
 |     167 | 0x01F7      |         503 |
 |     168 | 0x0096      |         150 |
 |     169 | 0x002D      |          45 |
 |     170 | 0x0069      |         105 |
-|     171 | 0x1DF5      |        7669 |
-|     172 | 0x1DF6      |        7670 |
+|     171 | 0x1DF6      |        7670 |
+|     172 | 0x1DF7      |        7671 |
 |     173 | 0x02A4      |         676 |
 |     174 | 0x0050      |          80 |
 |     175 | 0x00A0      |         160 |
-|     176 | 0x1DF7      |        7671 |
+|     176 | 0x1DF8      |        7672 |
 |     177 | 0x010E      |         270 |
 |     178 | 0x0186      |         390 |
 |     179 | 0x005A      |          90 |
-|     180 | 0x1DF8      |        7672 |
-|     181 | 0x1E06      |        7686 |
-|     182 | 0x1DF9      |        7673 |
-|     183 | 0x1DFA      |        7674 |
-|     184 | 0x1C3F      |        7231 |
+|     180 | 0x1DF9      |        7673 |
+|     181 | 0x1E07      |        7687 |
+|     182 | 0x1DFA      |        7674 |
+|     183 | 0x1DFB      |        7675 |
+|     184 | 0x1C40      |        7232 |
 |     185 | 0xFFF5C574  |  4294296948 |
 |     186 | 0xC0AA5     |      789157 |
 |     187 | 0x1053      |        4179 |
 |     188 | 0x017C      |         380 |
 |     189 | 0x00D7      |         215 |
-|     190 | 0x1DBD      |        7613 |
+|     190 | 0x1DBE      |        7614 |
 |     191 | 0xA29BD     |      666045 |
 |     192 | 0x54587     |      345479 |
 |     193 | 0xFFFFA04C  |  4294942796 |
@@ -293,7 +293,7 @@
 |     220 | 0xFFF5322D  |  4294259245 |
 |     221 | 0xFFFFFECF  |  4294966991 |
 |     222 | 0x0591      |        1425 |
-|     223 | 0x1DBF      |        7615 |
+|     223 | 0x1DC0      |        7616 |
 |     224 | 0x008C      |         140 |
 |     225 | 0xA95F6     |      693750 |
 |     226 | 0xFFF845FE  |  4294460926 |
@@ -371,7 +371,7 @@
 |     298 | 0xFFF849F7  |  4294461943 |
 |     299 | 0xA2C0C     |      666636 |
 |     300 | 0x097C      |        2428 |
-|     301 | 0x1DC0      |        7616 |
+|     301 | 0x1DC1      |        7617 |
 |     302 | 0xFFF5BC58  |  4294294616 |
 |     303 | 0xC0E1A     |      790042 |
 |     304 | 0x08FA      |        2298 |
@@ -420,31 +420,31 @@
 
 ## String References
 
-- **7230**: Enter the battlefield? [Enter./Decline.]
-- **7231**: Leave the battlefield? [Run away./Stay.]
-- **7233**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7241**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7231**: Enter the battlefield? [Enter./Decline.]
+- **7232**: Leave the battlefield? [Run away./Stay.]
+- **7234**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7243**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7244**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7280**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7569**: Skip the event? [Yes./No.]
-- **7570**: Battlefield clear time: $3 second[/s]!
-- **7571**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7572**: The current battlefield clear time record is $3 second[/s].
-- **7573**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7589**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7593**: That record is held by $5 adventurers, including %0!
-- **7594**: That record is held by %0!
-- **7595**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7604**: You have broken the clear time record for "[Storms of Fate/The Wyrmking Descends]"!
-- **7605**: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 second[/s].
-- **7606**: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 minute[/s] $2 second[/s].
-- **7608**: Which battlefield will you enter? [None./Storms of Fate./The Wyrmking Descends./././././././././././././././././././././././././././././]
-- **7613**: Enter the displacement? [Yes./No.]
-- **7615**: You can see the Misareaux Coast on the other side of the spatial displacement...
-- **7616**: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
-- **7667**: Defy fate and fight? [Fight and live!/Fate is inevitable.]
+- **7245**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7281**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7570**: Skip the event? [Yes./No.]
+- **7571**: Battlefield clear time: $3 second[/s]!
+- **7572**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7573**: The current battlefield clear time record is $3 second[/s].
+- **7574**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7590**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7594**: That record is held by $5 adventurers, including %0!
+- **7595**: That record is held by %0!
+- **7596**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7605**: You have broken the clear time record for "[Storms of Fate/The Wyrmking Descends]"!
+- **7606**: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 second[/s].
+- **7607**: The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 minute[/s] $2 second[/s].
+- **7609**: Which battlefield will you enter? [None./Storms of Fate./The Wyrmking Descends./././././././././././././././././././././././././././././]
+- **7614**: Enter the displacement? [Yes./No.]
+- **7616**: You can see the Misareaux Coast on the other side of the spatial displacement...
+- **7617**: You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement...
+- **7668**: Defy fate and fight? [Fight and live!/Fate is inevitable.]
 
 ## Events
 
@@ -659,7 +659,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7608*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Storms of Fate./The Wyrmking Descends./././././././././././././././././././././././././././././]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -672,7 +672,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1843)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7595*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7596*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -698,7 +698,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x0845)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -747,22 +747,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x07E1
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7241*]:
+ 89: 0x0225 [0x48] [System] [7242*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7242*]:
+ 93: 0x0234 [0x48] [System] [7243*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7243*]:
+ 97: 0x0243 [0x48] [System] [7244*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7244*]:
+101: 0x0252 [0x48] [System] [7245*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -771,7 +771,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x07F8
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7589*]:
+105: 0x0469 [0x48] [System] [7590*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x07F8
@@ -783,24 +783,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7606*]:
+114: 0x04EA [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7605*]:
+117: 0x04F1 [0x48] [System] [7606*]:
     → "The current battlefield clear time record for "[Storms of Fate/The Wyrmking Descends]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7594*]:
+120: 0x04FD [0x48] [System] [7595*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7593*]:
+126: 0x0511 [0x48] [System] [7594*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -816,7 +816,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -956,7 +956,7 @@ SUBROUTINE_07E1:
 263: 0x07E4 [0x02] IF !(0* == 1*) GOTO 0x07F1
 264: 0x07EC [0x03] ExtData[1]->WorkLocal[0] = 2*
 265: 0x07F1 [0x01] GOTO 0x01A4
-266: 0x07F4 [0x48] [System] [7233*]:
+266: 0x07F4 [0x48] [System] [7234*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x07F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1322,7 +1322,7 @@ SUBROUTINE_0C35:
  84: 0x0C40 [0x01] GOTO 0x0C5E
  85: 0x0C43 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D0E
  86: 0x0C4B [0x1C] WAIT(15* ticks)
- 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7569*, default_option=1*, option_flags=0*)
+ 87: 0x0C4E [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C55 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D0E
@@ -1389,18 +1389,18 @@ SUBROUTINE_0D40:
 138: 0x0D79 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0D94
 139: 0x0D81 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0D88 [0x15] Work_Zone[5] /= 60*
-141: 0x0D8D [0x48] [System] [7571*]:
+141: 0x0D8D [0x48] [System] [7572*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0D91 [0x01] GOTO 0x0D98
-144: 0x0D94 [0x48] [System] [7570*]:
+144: 0x0D94 [0x48] [System] [7571*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0D97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D98:
 146: 0x0D98 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DAC
 147: 0x0DA0 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DA5 [0x48] [System] [7604*]:
+148: 0x0DA5 [0x48] [System] [7605*]:
     → "You have broken the clear time record for "[Storms of Fate/The Wyrmking Descends]"!"
 149: 0x0DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DA9 [0x01] GOTO 0x0DD5
@@ -1408,12 +1408,12 @@ SUBROUTINE_0D98:
 152: 0x0DB4 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0DB9 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0DC0 [0x15] Work_Zone[5] /= 60*
-155: 0x0DC5 [0x48] [System] [7573*]:
+155: 0x0DC5 [0x48] [System] [7574*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0DC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0DC9 [0x01] GOTO 0x0DD5
 158: 0x0DCC [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0DD1 [0x48] [System] [7572*]:
+159: 0x0DD1 [0x48] [System] [7573*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1784,7 +1784,7 @@ SUBROUTINE_0FAC:
 
 ```
 # Dead code (unreachable instructions):
-     0x0FF2 [0x24] CREATE_DIALOG(message_id=7230*, default_option=1*, option_flags=0*)
+     0x0FF2 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0FF9 [0x25] WAIT_DIALOG_SELECT()
      0x0FFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1008
@@ -1858,14 +1858,14 @@ SUBROUTINE_0FAC:
      0x11E7 [0x7B] Ulmia (ID: 16896240/0x0101D0F0) stops talking
      0x11EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq20" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x11FD [0x1A] CALL_SUBROUTINE(address=0x1891)
-     0x1200 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7665*]:
+     0x1200 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7666*]:
     → "Mankind will be annihilated. You have simply delayed the process."
      0x1207 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1208 [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 16896242/0x0101D0F2), tag_num=0x02)
-     0x120F [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7666*]:
+     0x120F [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7667*]:
     → "Do you dare to defy fate once again and fight to preserve your lives?"
      0x1216 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1217 [0x24] CREATE_DIALOG(message_id=7667*, default_option=0*, option_flags=0*)
+     0x1217 [0x24] CREATE_DIALOG(message_id=7668*, default_option=0*, option_flags=0*)
     → "Defy fate and fight? [Fight and live!/Fate is inevitable.]"
      0x121E [0x25] WAIT_DIALOG_SELECT()
      0x121F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x122F
@@ -1878,7 +1878,7 @@ SUBROUTINE_0FAC:
      0x124E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq23" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x125F [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [EventEntity, EventEntity], work=[127*, 0*]
      0x1270 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hou1" with entities [Bahamut (ID: 16896241/0x0101D0F1), Bahamut (ID: 16896241/0x0101D0F1)], work=501*
-     0x127F [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7668*]:
+     0x127F [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7669*]:
     → "Children of Vana'diel! [Stand in defiance/Accept your fate] and perish! Redeem the world as a part of the mothercrystals!"
      0x1286 [0x1C] WAIT(120* ticks)
      0x1289 [0x1A] CALL_SUBROUTINE(address=0x18B2)
@@ -1950,12 +1950,12 @@ SUBROUTINE_0FAC:
      0x14C6 [0x52] END_LOAD_SCHEDULER: End scheduler "bq33" with entities [LocalPlayer, LocalPlayer], work=157*
      0x14D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq34" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x14E6 [0x1C] WAIT(120* ticks)
-     0x14E9 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7669*]:
+     0x14E9 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7670*]:
     → "You have delayed mankind's extinction yet again..."
      0x14F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14F1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "bq34" with entities [LocalPlayer, LocalPlayer], work=157*
      0x1500 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq35" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
-     0x1511 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7670*]:
+     0x1511 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7671*]:
     → "An age is a mere flicker to a wyrm. However, enough flickers united form a star."
      0x1518 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1519 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "bq35" with entities [LocalPlayer, LocalPlayer], work=157*
@@ -1970,7 +1970,7 @@ SUBROUTINE_0FAC:
      0x1582 [0x52] END_LOAD_SCHEDULER: End scheduler "bq38" with entities [LocalPlayer, LocalPlayer], work=157*
      0x1591 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq39" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x15A2 [0x1C] WAIT(60* ticks)
-     0x15A5 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7671*]:
+     0x15A5 [0x2B] Bahamut (ID: 16896241/0x0101D0F1) [7672*]:
     → "Children of Vana'diel. Unite and form a future in which mankind can survive."
      0x15AC [0x1C] WAIT(270* ticks)
      0x15AF [0x52] END_LOAD_SCHEDULER: End scheduler "bq39" with entities [LocalPlayer, LocalPlayer], work=157*
@@ -1988,11 +1988,11 @@ SUBROUTINE_0FAC:
      0x161D [0x79] Ulmia (ID: 16896240/0x0101D0F0) looks at Prishe (ID: 16896239/0x0101D0EF) (Basic look)
      0x1627 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bq04" with entities [Ulmia (ID: 16896240/0x0101D0F0), Ulmia (ID: 16896240/0x0101D0F0)], work=637*
      0x1636 [0x1C] WAIT(90* ticks)
-     0x1639 [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7672*]:
+     0x1639 [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7673*]:
     → "Let's go home for now, Prishe."
      0x1640 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1641 [0x4A] LocalPlayer looks at Prishe (ID: 16896239/0x0101D0EF)
-     0x164A [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7686*]:
+     0x164A [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7687*]:
     → "We must make preparations and consult with Cardinal Mildaurion."
      0x1651 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1652 [0x52] END_LOAD_SCHEDULER: End scheduler "bq50" with entities [LocalPlayer, LocalPlayer], work=157*
@@ -2001,13 +2001,13 @@ SUBROUTINE_0FAC:
      0x1675 [0x79] Ulmia (ID: 16896240/0x0101D0F0) looks at LocalPlayer (Basic look)
      0x167F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bq03" with entities [Ulmia (ID: 16896240/0x0101D0F0), Ulmia (ID: 16896240/0x0101D0F0)], work=637*
      0x168E [0x27] REQ_SET(priority=0x10, entity_id=Prishe (ID: 16896239/0x0101D0EF), tag_num=0x0F)
-     0x1695 [0x2B] Prishe (ID: 16896239/0x0101D0EF) [7673*]:
+     0x1695 [0x2B] Prishe (ID: 16896239/0x0101D0EF) [7674*]:
     → "Okay..."
      0x169C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x169D [0x52] END_LOAD_SCHEDULER: End scheduler "bq52" with entities [LocalPlayer, LocalPlayer], work=157*
      0x16AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "bq51" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x16BD [0x79] LocalPlayer looks at Ulmia (ID: 16896240/0x0101D0F0) (Basic look)
-     0x16C7 [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7674*]:
+     0x16C7 [0x2B] Ulmia (ID: 16896240/0x0101D0F0) [7675*]:
     → "<Player>, please tell Cardinal Mildaurion about this the next time you are in Jeuno."
      0x16CE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16CF [0x1A] CALL_SUBROUTINE(address=0x18B2)
@@ -2016,7 +2016,7 @@ SUBROUTINE_0FAC:
      0x16DB [0x52] END_LOAD_SCHEDULER: End scheduler "bq51" with entities [LocalPlayer, LocalPlayer], work=157*
      0x16EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "0blf" with entities [LocalPlayer, LocalPlayer], work=[157*, 0*]
      0x16FB [0x1B] RETURN
-     0x16FC [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+     0x16FC [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x1703 [0x25] WAIT_DIALOG_SELECT()
      0x1704 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1712
@@ -2175,7 +2175,7 @@ SUBROUTINE_0FAC:
 #### Opcodes
 
 ```
-  0: 0x1B5D [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1B5D [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1B64 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1B65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BDE
@@ -2235,7 +2235,7 @@ SUBROUTINE_1BEE:
 #### Opcodes
 
 ```
-  0: 0x1BF2 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1BF2 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1BF9 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1BFA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C73
@@ -2295,7 +2295,7 @@ SUBROUTINE_1C83:
 #### Opcodes
 
 ```
-  0: 0x1C87 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1C87 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1C8E [0x25] WAIT_DIALOG_SELECT()
   2: 0x1C8F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D08
@@ -2356,7 +2356,7 @@ SUBROUTINE_1D18:
 #### Opcodes
 
 ```
-  0: 0x1D1C [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1D1C [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1D23 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1D24 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D9D
@@ -2416,7 +2416,7 @@ SUBROUTINE_1DAD:
 #### Opcodes
 
 ```
-  0: 0x1DB1 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1DB1 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1DB8 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1DB9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E32
@@ -2476,7 +2476,7 @@ SUBROUTINE_1E42:
 #### Opcodes
 
 ```
-  0: 0x1E46 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1E46 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1E4D [0x25] WAIT_DIALOG_SELECT()
   2: 0x1E4E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EC7
@@ -2536,7 +2536,7 @@ SUBROUTINE_1ED7:
 #### Opcodes
 
 ```
-  0: 0x1EDB [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1EDB [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1EE2 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1EE3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F5C
@@ -2596,7 +2596,7 @@ SUBROUTINE_1F6C:
 #### Opcodes
 
 ```
-  0: 0x1F70 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x1F70 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x1F77 [0x25] WAIT_DIALOG_SELECT()
   2: 0x1F78 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1FF1
@@ -2653,10 +2653,10 @@ SUBROUTINE_2001:
 
 ```
   0: 0x2005 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2007 [0x48] [System] [7615*]:
+  1: 0x2007 [0x48] [System] [7616*]:
     → "You can see the Misareaux Coast on the other side of the spatial displacement..."
   2: 0x200A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x200B [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  3: 0x200B [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   4: 0x2012 [0x25] WAIT_DIALOG_SELECT()
   5: 0x2013 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2050
@@ -2707,7 +2707,7 @@ SUBROUTINE_205B:
 #### Opcodes
 
 ```
-  0: 0x205F [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x205F [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2066 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2067 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20E0
@@ -2767,7 +2767,7 @@ SUBROUTINE_20F0:
 #### Opcodes
 
 ```
-  0: 0x20F4 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x20F4 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x20FB [0x25] WAIT_DIALOG_SELECT()
   2: 0x20FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2175
@@ -2827,7 +2827,7 @@ SUBROUTINE_2185:
 #### Opcodes
 
 ```
-  0: 0x2189 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2189 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2190 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2191 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x220A
@@ -2888,7 +2888,7 @@ SUBROUTINE_221A:
 #### Opcodes
 
 ```
-  0: 0x221E [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x221E [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2225 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2226 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x229F
@@ -2948,7 +2948,7 @@ SUBROUTINE_22AF:
 #### Opcodes
 
 ```
-  0: 0x22B3 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x22B3 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x22BA [0x25] WAIT_DIALOG_SELECT()
   2: 0x22BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2334
@@ -3008,7 +3008,7 @@ SUBROUTINE_2344:
 #### Opcodes
 
 ```
-  0: 0x2348 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2348 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x234F [0x25] WAIT_DIALOG_SELECT()
   2: 0x2350 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23C9
@@ -3069,7 +3069,7 @@ SUBROUTINE_23D9:
 #### Opcodes
 
 ```
-  0: 0x23DD [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x23DD [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x23E4 [0x25] WAIT_DIALOG_SELECT()
   2: 0x23E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x245E
@@ -3129,7 +3129,7 @@ SUBROUTINE_246E:
 #### Opcodes
 
 ```
-  0: 0x2472 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2472 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2479 [0x25] WAIT_DIALOG_SELECT()
   2: 0x247A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24F3
@@ -3189,7 +3189,7 @@ SUBROUTINE_2503:
 #### Opcodes
 
 ```
-  0: 0x2507 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2507 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x250E [0x25] WAIT_DIALOG_SELECT()
   2: 0x250F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2588
@@ -3250,7 +3250,7 @@ SUBROUTINE_2598:
 #### Opcodes
 
 ```
-  0: 0x259C [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x259C [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x25A3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x25A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x261D
@@ -3310,7 +3310,7 @@ SUBROUTINE_262D:
 #### Opcodes
 
 ```
-  0: 0x2631 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2631 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2638 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2639 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26B2
@@ -3370,7 +3370,7 @@ SUBROUTINE_26C2:
 #### Opcodes
 
 ```
-  0: 0x26C6 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x26C6 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x26CD [0x25] WAIT_DIALOG_SELECT()
   2: 0x26CE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2747
@@ -3430,7 +3430,7 @@ SUBROUTINE_2757:
 #### Opcodes
 
 ```
-  0: 0x275B [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x275B [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2762 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2763 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x27DC
@@ -3490,7 +3490,7 @@ SUBROUTINE_27EC:
 #### Opcodes
 
 ```
-  0: 0x27F0 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x27F0 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x27F7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x27F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2871
@@ -3550,7 +3550,7 @@ SUBROUTINE_2881:
 #### Opcodes
 
 ```
-  0: 0x2885 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2885 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x288C [0x25] WAIT_DIALOG_SELECT()
   2: 0x288D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2906
@@ -3610,7 +3610,7 @@ SUBROUTINE_2916:
 #### Opcodes
 
 ```
-  0: 0x291A [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x291A [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2921 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2922 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x299B
@@ -3671,7 +3671,7 @@ SUBROUTINE_29AB:
 #### Opcodes
 
 ```
-  0: 0x29AF [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x29AF [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x29B6 [0x25] WAIT_DIALOG_SELECT()
   2: 0x29B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2A30
@@ -3731,7 +3731,7 @@ SUBROUTINE_2A40:
 #### Opcodes
 
 ```
-  0: 0x2A44 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2A44 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2A4B [0x25] WAIT_DIALOG_SELECT()
   2: 0x2A4C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2AC5
@@ -3791,7 +3791,7 @@ SUBROUTINE_2AD5:
 #### Opcodes
 
 ```
-  0: 0x2AD9 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2AD9 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2AE0 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2AE1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2B5A
@@ -3852,7 +3852,7 @@ SUBROUTINE_2B6A:
 #### Opcodes
 
 ```
-  0: 0x2B6E [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2B6E [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2B75 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2B76 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2BEF
@@ -3912,7 +3912,7 @@ SUBROUTINE_2BFF:
 #### Opcodes
 
 ```
-  0: 0x2C03 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2C03 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2C0A [0x25] WAIT_DIALOG_SELECT()
   2: 0x2C0B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2C84
@@ -3972,7 +3972,7 @@ SUBROUTINE_2C94:
 #### Opcodes
 
 ```
-  0: 0x2C98 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2C98 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2C9F [0x25] WAIT_DIALOG_SELECT()
   2: 0x2CA0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2D19
@@ -4030,10 +4030,10 @@ SUBROUTINE_2D29:
 
 ```
   0: 0x2D2D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x2D2F [0x48] [System] [7616*]:
+  1: 0x2D2F [0x48] [System] [7617*]:
     → "You can sense the majestic presence of a terrestrial avatar on the other side of the spatial displacement..."
   2: 0x2D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x2D33 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  3: 0x2D33 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   4: 0x2D3A [0x25] WAIT_DIALOG_SELECT()
   5: 0x2D3B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2D78
@@ -4131,7 +4131,7 @@ SUBROUTINE_2D83:
 #### Opcodes
 
 ```
-  0: 0x2DF9 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2DF9 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2E00 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2E01 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2E7A
@@ -4192,7 +4192,7 @@ SUBROUTINE_2E8A:
 #### Opcodes
 
 ```
-  0: 0x2E8E [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2E8E [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2E95 [0x25] WAIT_DIALOG_SELECT()
   2: 0x2E96 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2F0F
@@ -4252,7 +4252,7 @@ SUBROUTINE_2F1F:
 #### Opcodes
 
 ```
-  0: 0x2F23 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2F23 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2F2A [0x25] WAIT_DIALOG_SELECT()
   2: 0x2F2B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2FA4
@@ -4312,7 +4312,7 @@ SUBROUTINE_2FB4:
 #### Opcodes
 
 ```
-  0: 0x2FB8 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x2FB8 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x2FBF [0x25] WAIT_DIALOG_SELECT()
   2: 0x2FC0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3039
@@ -4373,7 +4373,7 @@ SUBROUTINE_3049:
 #### Opcodes
 
 ```
-  0: 0x304D [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x304D [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x3054 [0x25] WAIT_DIALOG_SELECT()
   2: 0x3055 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x30CE
@@ -4433,7 +4433,7 @@ SUBROUTINE_30DE:
 #### Opcodes
 
 ```
-  0: 0x30E2 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x30E2 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x30E9 [0x25] WAIT_DIALOG_SELECT()
   2: 0x30EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3163
@@ -4493,7 +4493,7 @@ SUBROUTINE_3173:
 #### Opcodes
 
 ```
-  0: 0x3177 [0x24] CREATE_DIALOG(message_id=7613*, default_option=1*, option_flags=0*)
+  0: 0x3177 [0x24] CREATE_DIALOG(message_id=7614*, default_option=1*, option_flags=0*)
     → "Enter the displacement? [Yes./No.]"
   1: 0x317E [0x25] WAIT_DIALOG_SELECT()
   2: 0x317F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x31F8

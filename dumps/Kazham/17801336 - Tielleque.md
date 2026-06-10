@@ -24,17 +24,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFC  |  4294967292 |
-|       1 | 0x2989      |       10633 |
+|       1 | 0x298A      |       10634 |
 |       2 | 0xFFFFFFFD  |  4294967293 |
 |       3 | 0x0003      |           3 |
 |       4 | 0x0006      |           6 |
-|       5 | 0x2984      |       10628 |
-|       6 | 0x2985      |       10629 |
-|       7 | 0x2986      |       10630 |
+|       5 | 0x2985      |       10629 |
+|       6 | 0x2986      |       10630 |
+|       7 | 0x2987      |       10631 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x40000000  |  1073741824 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x2987      |       10631 |
+|      11 | 0x2988      |       10632 |
 |      12 | 0xFFFFFFFF  |  4294967295 |
 |      13 | 0x00C8      |         200 |
 |      14 | 0x0020      |          32 |
@@ -42,22 +42,22 @@
 |      16 | 0x003C      |          60 |
 |      17 | 0x00C9      |         201 |
 |      18 | 0x008A      |         138 |
-|      19 | 0x297F      |       10623 |
-|      20 | 0x2982      |       10626 |
-|      21 | 0x2983      |       10627 |
-|      22 | 0x297E      |       10622 |
+|      19 | 0x2980      |       10624 |
+|      20 | 0x2983      |       10627 |
+|      21 | 0x2984      |       10628 |
+|      22 | 0x297F      |       10623 |
 
 ## String References
 
-- **10622**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
-- **10623**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
-- **10626**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
-- **10627**: You don't have enough gil.
-- **10628**: I realize that you are in a hurry, [sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.
-- **10629**: Would you be so kind as to deliver her to [the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in [Southern San d'Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]?
-- **10630**: Lend a helping hand? [I have better things to do./Of course!]
-- **10631**: Oh, thank you so very much! You shall be rewarded by our associates upon delivery of the chocobo.
-- **10633**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
+- **10623**: If you wish to ride a chocobo, you must possess $6 and have a high enough job level.
+- **10624**: You can rent a chocobo for $0 gil. I see you currently have $1 gil.
+- **10627**: Do you wish to rent a chocobo? [Yes, I do./No, thank you.]
+- **10628**: You don't have enough gil.
+- **10629**: I realize that you are in a hurry, [sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home.
+- **10630**: Would you be so kind as to deliver her to [the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in [Southern San d'Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]?
+- **10631**: Lend a helping hand? [I have better things to do./Of course!]
+- **10632**: Oh, thank you so very much! You shall be rewarded by our associates upon delivery of the chocobo.
+- **10634**: Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?
 
 ## Events
 
@@ -120,7 +120,7 @@
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[2] == 4294967292*) GOTO 0x0010
   1: 0x0009 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10633*)
+  2: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10634*)
     → "Would you be so kind as to deliver her to [the entrance to the Gustav Tunnel (B-8)/Bibiki Bay (G-10)/the entrance of Uggalepih Temple (J-11)]?"
   3: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000E [0x21] END_EVENT
@@ -129,13 +129,13 @@
   7: 0x0018 [0x1E] EventEntity looks at LocalPlayer and starts talking
   8: 0x001D [0x02] IF !(Work_Zone[5] == 3*) GOTO 0x002A
   9: 0x0025 [0x03] Work_Zone[5] = 6*
- 10: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10628*)
+ 10: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10629*)
     → "I realize that you are in a hurry, [sir/ma'am]. However, might I make a simple request? One of our associate's chocobos has lost her way and cannot return home."
  11: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=10629*)
+ 12: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=10630*)
     → "Would you be so kind as to deliver her to [the Kingdom/the Republic/the Federation/the Duchy/the Duchy/the Duchy/the hidden] stables in [Southern San d'Oria/the Bastok Mines/Windurst Woods/Upper Jeuno/Lower Jeuno/Port Jeuno/Norg]?"
  13: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0032 [0x24] CREATE_DIALOG(message_id=10630*, default_option=0*, option_flags=0*)
+ 14: 0x0032 [0x24] CREATE_DIALOG(message_id=10631*, default_option=0*, option_flags=0*)
     → "Lend a helping hand? [I have better things to do./Of course!]"
  15: 0x0039 [0x25] WAIT_DIALOG_SELECT()
  16: 0x003A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004C
@@ -157,10 +157,10 @@ SUBROUTINE_0066:
  28: 0x009A [0x00] END_REQSTACK()
  29: 0x009B [0x03] Work_Zone[9] = 138*
  30: 0x00A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 31: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10623*)
+ 31: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10624*)
     → "You can rent a chocobo for $0 gil. I see you currently have $1 gil."
  32: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00A9 [0x24] CREATE_DIALOG(message_id=10626*, default_option=1*, option_flags=0*)
+ 33: 0x00A9 [0x24] CREATE_DIALOG(message_id=10627*, default_option=1*, option_flags=0*)
     → "Do you wish to rent a chocobo? [Yes, I do./No, thank you.]"
  34: 0x00B0 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD
@@ -170,7 +170,7 @@ SUBROUTINE_0066:
  39: 0x00D3 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x00EC
  40: 0x00DB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
  41: 0x00EC [0x01] GOTO 0x00F8
- 42: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10627*)
+ 42: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10628*)
     → "You don't have enough gil."
  43: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00F3 [0x03] Work_Zone[1] = 1073741824*
@@ -216,7 +216,7 @@ SUBROUTINE_0102:
 ```
   0: 0x0104 [0x03] Work_Zone[9] = 138*
   1: 0x0109 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=10622*)
+  2: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=10623*)
     → "If you wish to ride a chocobo, you must possess $6 and have a high enough job level."
   3: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0112 [0x21] END_EVENT

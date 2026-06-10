@@ -25,16 +25,16 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x000F      |          15 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x2FC7      |       12231 |
-|       5 | 0x2FB0      |       12208 |
+|       4 | 0x2FC8      |       12232 |
+|       5 | 0x2FB1      |       12209 |
 |       6 | 0x40000000  |  1073741824 |
-|       7 | 0x2FB6      |       12214 |
-|       8 | 0x2FB7      |       12215 |
+|       7 | 0x2FB7      |       12215 |
+|       8 | 0x2FB8      |       12216 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0017      |          23 |
-|      12 | 0x2FB4      |       12212 |
-|      13 | 0x2FB5      |       12213 |
+|      12 | 0x2FB5      |       12213 |
+|      13 | 0x2FB6      |       12214 |
 |      14 | 0x0010      |          16 |
 |      15 | 0x0002      |           2 |
 |      16 | 0x001F      |          31 |
@@ -47,12 +47,12 @@
 |      23 | 0x000D      |          13 |
 |      24 | 0xFFFFFFFF  |  4294967295 |
 |      25 | 0x0018      |          24 |
-|      26 | 0x2FC8      |       12232 |
-|      27 | 0x2FF3      |       12275 |
+|      26 | 0x2FC9      |       12233 |
+|      27 | 0x2FF4      |       12276 |
 |      28 | 0x0009      |           9 |
-|      29 | 0x3078      |       12408 |
+|      29 | 0x3079      |       12409 |
 |      30 | 0x000A      |          10 |
-|      31 | 0x3077      |       12407 |
+|      31 | 0x3078      |       12408 |
 |      32 | 0x0101      |         257 |
 |      33 | 0x0100      |         256 |
 |      34 | 0x0105      |         261 |
@@ -69,15 +69,15 @@
 |      45 | 0x0111      |         273 |
 |      46 | 0x0112      |         274 |
 |      47 | 0x0116      |         278 |
-|      48 | 0x2FC9      |       12233 |
+|      48 | 0x2FCA      |       12234 |
 |      49 | 0xFFFFFF00  |  4294967040 |
-|      50 | 0x3008      |       12296 |
-|      51 | 0x300B      |       12299 |
-|      52 | 0x300C      |       12300 |
-|      53 | 0x300D      |       12301 |
-|      54 | 0x300E      |       12302 |
-|      55 | 0x300F      |       12303 |
-|      56 | 0x3010      |       12304 |
+|      50 | 0x3009      |       12297 |
+|      51 | 0x300C      |       12300 |
+|      52 | 0x300D      |       12301 |
+|      53 | 0x300E      |       12302 |
+|      54 | 0x300F      |       12303 |
+|      55 | 0x3010      |       12304 |
+|      56 | 0x3011      |       12305 |
 |      57 | 0x0013      |          19 |
 |      58 | 0x0014      |          20 |
 |      59 | 0x0015      |          21 |
@@ -85,28 +85,28 @@
 |      61 | 0x0019      |          25 |
 |      62 | 0x001A      |          26 |
 |      63 | 0x001B      |          27 |
-|      64 | 0x2FCA      |       12234 |
-|      65 | 0x2FFB      |       12283 |
-|      66 | 0x2FFE      |       12286 |
-|      67 | 0x2FFC      |       12284 |
-|      68 | 0x2FFD      |       12285 |
+|      64 | 0x2FCB      |       12235 |
+|      65 | 0x2FFC      |       12284 |
+|      66 | 0x2FFF      |       12287 |
+|      67 | 0x2FFD      |       12285 |
+|      68 | 0x2FFE      |       12286 |
 |      69 | 0x001E      |          30 |
-|      70 | 0x2FCB      |       12235 |
-|      71 | 0x3011      |       12305 |
-|      72 | 0x3017      |       12311 |
-|      73 | 0x3018      |       12312 |
-|      74 | 0x3019      |       12313 |
-|      75 | 0x3012      |       12306 |
-|      76 | 0x3013      |       12307 |
-|      77 | 0x3014      |       12308 |
-|      78 | 0x3015      |       12309 |
-|      79 | 0x3016      |       12310 |
-|      80 | 0x301A      |       12314 |
+|      70 | 0x2FCC      |       12236 |
+|      71 | 0x3012      |       12306 |
+|      72 | 0x3018      |       12312 |
+|      73 | 0x3019      |       12313 |
+|      74 | 0x301A      |       12314 |
+|      75 | 0x3013      |       12307 |
+|      76 | 0x3014      |       12308 |
+|      77 | 0x3015      |       12309 |
+|      78 | 0x3016      |       12310 |
+|      79 | 0x3017      |       12311 |
+|      80 | 0x301B      |       12315 |
 |      81 | 0x0011      |          17 |
-|      82 | 0x301C      |       12316 |
-|      83 | 0x301D      |       12317 |
-|      84 | 0x301B      |       12315 |
-|      85 | 0x2FCC      |       12236 |
+|      82 | 0x301D      |       12317 |
+|      83 | 0x301E      |       12318 |
+|      84 | 0x301C      |       12316 |
+|      85 | 0x2FCD      |       12237 |
 |      86 | 0x0020      |          32 |
 |      87 | 0x0770      |        1904 |
 |      88 | 0x0771      |        1905 |
@@ -222,54 +222,54 @@
 |     198 | 0x27100     |      160000 |
 |     199 | 0xFFFC7D90  |  4294737296 |
 |     200 | 0x086D      |        2157 |
-|     201 | 0x30FC      |       12540 |
-|     202 | 0x30FD      |       12541 |
+|     201 | 0x30FD      |       12541 |
+|     202 | 0x30FE      |       12542 |
 |     203 | 0x0028      |          40 |
 |     204 | 0x0044      |          68 |
 |     205 | 0x0041      |          65 |
 
 ## String References
 
-- **12208**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
-- **12212**: That $3 can be purchased for $2 bayld.
-- **12213**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
-- **12214**: You needn't exchange anything for this $3. Enjoy.
-- **12215**: Accept the provision? [Yes./No.]
-- **12231**: What would we be if we couldn't prrrovide accurate maps? Dead, that's what!
-- **12232**: Want to use the Scouts' Coalition's marking serrrvice?
-- **12233**: Extra, extra, read all about it! The latest-watest Scouts' Coalition intelligence reports are in!
-- **12234**: Do you wish to know how the ergon locus surveys throughoutaru Eastern Ulbuka are progressing?
-- **12235**: Always be prepared. That's one of the Scouts' Coalition's many mottos, especially when it comes to spoils! I can tell you exactly how sweet victory will taste!
-- **12236**: Care to peek through some of the Celennia Memorial Library's tomes? It always pays to be well-informed.
-- **12275**: Where would you like to hear about? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
-- **12283**: View the progress of which survey? [Nowhere./Ceizak Battlegrounds./Yahse Hunting Grounds./Foret de Hennetiel./Morimar Basalt Fields./Sih Gates./Moh Gates./Cirdas Caverns./Yorcia Weald./Marjami Ravine./Dho Gates./Kamihr Drifts./Woh Gates./ ]
-- **12284**: Surveys of the "[Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far].
-- **12285**: Surveys of the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far].
-- **12286**: Which locus? ([Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Sih Gates/Moh Gates/Cirdas Caverns/Yorcia Weald/Marjami Ravine/Dho Gates/Kamihr Drifts/Woh Gates/ / ]) [None./Flourishing Island./Bud of the Swarm./Luminous Isle./Immutable Boulder./Immaculate Sands./Fruit of Fecundity./Dragon Driftwood./Torchbloom./Spring of Prosperity./Snowdrift Arbor./Frostbloom./Prominence of the Gales./Lake of Light./Sweltering Spring./Prominence of the Flame./Sanctum of Life./Prominence of the Soil./Pool of Clarity./Bryophitic Boulder./Overgrown Grove./Whitewater Arbor./Bud of the Fragrant Breeze./Crag of the Triumvirate./Prominence of the Ripple./Saliferous Spring./Loch of Flux./Lambent Pillar./Crystalline Claw./Prominence of the Rime./Halcyon Icefall.]
-- **12296**: Hear intelligence from which locale? [None./Yahse Hunting Grounds./Ceizak Battlegrounds./Foret de Hennetiel./Yorcia Weald./Morimar Basalt Fields./Marjami Ravine./Kamihr Drifts./ ]
-- **12299**: What about [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ]? [None./Fearsome fiend activity. (Lv. $1)/Enemy numbers. (Lv. $2)/Natural Hindrances. (Lv. $3)/Gathering. (Lv. $4)/Spoils. (Lv. $5)]
-- **12300**: The Naakual protecting [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [is extremely active./is quite active./is starting to tire./looks tired!/is very tired!/is extremely tired!]
-- **12301**: The enemy population of [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drift/ ] [has not undergone any drastic changes./is increasing steadily./is increasing at a staggering rate!/has absolutely exploded!]
-- **12302**: The number of natural hindrances in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remains stable/is slowly increasing/is growing relatively quickly/is increasing at a blistering pace].
-- **12303**: The various gathering locations in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remain completely uncovered./are slowly being cultivated./are being cultivated quickly./are being cultivated at an astounding rate!]
-- **12304**: The amount of spoils obtained in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [hasn't changed in the least./is on the rise./is increasing drastically!/is positively booming!]
-- **12305**: What is it you need to know? [Nothing, for I know all./The latest spoils intelligence./What exactly is this service?]
-- **12306**: We conduct censuses from time to time on what spoils Adoulin's pioneers have procured from their victories, and then make that information public via lottery.
-- **12307**: Now, when I talk about spoils, I mean strictly ones obtained in battle. Not goods that you can't show off to your loved ones back home.
-- **12308**: I'd also like to clarify that what individuals receive and what gets split amongst party members are all presented in the same report. Sorry for the inconvenience, but it is what it is.
-- **12309**: For the sake of coalition members' sanity, we recount what spoils have been attained after every $0 battle[/s], but do not report the numbers of specific treasures.
-- **12310**: Now it's time to talk compensation. We can't run about at the beck and call of all you pioneers losing our marbles for free, you know. All we ask for in return is a small token of appreciation...in the form of $1 bayld.
-- **12311**: Inquire about what? (Bayld: $0) [Nothing./Skirmishes./Delve.]
-- **12312**: Which "[/Skirmish/Delve] area? (Bayld: $0) [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8.]
-- **12313**: Which "[/Skirmish/Delve] rank? (Bayld: $0) [None./$8$[/ I/ I/ I]./$8$[/ II/ II/ II]./$8$[/ III/ III/ III]./$8$[/ IV/ IV/ IV]./$8$[/ V/ V/ V]./$8$[// Fracture/ Sealed Domain].]
-- **12314**: View which? ("[/S./D.]: $8$[ I/ II/ III/ IV/ V/ Fracture/ S. Domain]j [I'd rather try my luck at the raffle./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./This isn't relevant to my interests.]
-- **12315**: Reward: $0.
-- **12316**: Try your chances again for $! bayld?
-- **12317**: Try your chances again? (Bayld: $0) [You bet!/It's too risky for my tastes.]
-- **12407**: I've grrraciously marked your $3.
-- **12408**: There's nothing to marrrk on this map.
-- **12540**: Excuse me, but I do not believe you have $6, do you?
-- **12541**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **12209**: Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]
+- **12213**: That $3 can be purchased for $2 bayld.
+- **12214**: Proceed with the exchange? (Bayld: $0) [Yes./No.]
+- **12215**: You needn't exchange anything for this $3. Enjoy.
+- **12216**: Accept the provision? [Yes./No.]
+- **12232**: What would we be if we couldn't prrrovide accurate maps? Dead, that's what!
+- **12233**: Want to use the Scouts' Coalition's marking serrrvice?
+- **12234**: Extra, extra, read all about it! The latest-watest Scouts' Coalition intelligence reports are in!
+- **12235**: Do you wish to know how the ergon locus surveys throughoutaru Eastern Ulbuka are progressing?
+- **12236**: Always be prepared. That's one of the Scouts' Coalition's many mottos, especially when it comes to spoils! I can tell you exactly how sweet victory will taste!
+- **12237**: Care to peek through some of the Celennia Memorial Library's tomes? It always pays to be well-informed.
+- **12276**: Where would you like to hear about? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]
+- **12284**: View the progress of which survey? [Nowhere./Ceizak Battlegrounds./Yahse Hunting Grounds./Foret de Hennetiel./Morimar Basalt Fields./Sih Gates./Moh Gates./Cirdas Caverns./Yorcia Weald./Marjami Ravine./Dho Gates./Kamihr Drifts./Woh Gates./ ]
+- **12285**: Surveys of the "[Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far].
+- **12286**: Surveys of the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far].
+- **12287**: Which locus? ([Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Sih Gates/Moh Gates/Cirdas Caverns/Yorcia Weald/Marjami Ravine/Dho Gates/Kamihr Drifts/Woh Gates/ / ]) [None./Flourishing Island./Bud of the Swarm./Luminous Isle./Immutable Boulder./Immaculate Sands./Fruit of Fecundity./Dragon Driftwood./Torchbloom./Spring of Prosperity./Snowdrift Arbor./Frostbloom./Prominence of the Gales./Lake of Light./Sweltering Spring./Prominence of the Flame./Sanctum of Life./Prominence of the Soil./Pool of Clarity./Bryophitic Boulder./Overgrown Grove./Whitewater Arbor./Bud of the Fragrant Breeze./Crag of the Triumvirate./Prominence of the Ripple./Saliferous Spring./Loch of Flux./Lambent Pillar./Crystalline Claw./Prominence of the Rime./Halcyon Icefall.]
+- **12297**: Hear intelligence from which locale? [None./Yahse Hunting Grounds./Ceizak Battlegrounds./Foret de Hennetiel./Yorcia Weald./Morimar Basalt Fields./Marjami Ravine./Kamihr Drifts./ ]
+- **12300**: What about [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ]? [None./Fearsome fiend activity. (Lv. $1)/Enemy numbers. (Lv. $2)/Natural Hindrances. (Lv. $3)/Gathering. (Lv. $4)/Spoils. (Lv. $5)]
+- **12301**: The Naakual protecting [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [is extremely active./is quite active./is starting to tire./looks tired!/is very tired!/is extremely tired!]
+- **12302**: The enemy population of [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drift/ ] [has not undergone any drastic changes./is increasing steadily./is increasing at a staggering rate!/has absolutely exploded!]
+- **12303**: The number of natural hindrances in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remains stable/is slowly increasing/is growing relatively quickly/is increasing at a blistering pace].
+- **12304**: The various gathering locations in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remain completely uncovered./are slowly being cultivated./are being cultivated quickly./are being cultivated at an astounding rate!]
+- **12305**: The amount of spoils obtained in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [hasn't changed in the least./is on the rise./is increasing drastically!/is positively booming!]
+- **12306**: What is it you need to know? [Nothing, for I know all./The latest spoils intelligence./What exactly is this service?]
+- **12307**: We conduct censuses from time to time on what spoils Adoulin's pioneers have procured from their victories, and then make that information public via lottery.
+- **12308**: Now, when I talk about spoils, I mean strictly ones obtained in battle. Not goods that you can't show off to your loved ones back home.
+- **12309**: I'd also like to clarify that what individuals receive and what gets split amongst party members are all presented in the same report. Sorry for the inconvenience, but it is what it is.
+- **12310**: For the sake of coalition members' sanity, we recount what spoils have been attained after every $0 battle[/s], but do not report the numbers of specific treasures.
+- **12311**: Now it's time to talk compensation. We can't run about at the beck and call of all you pioneers losing our marbles for free, you know. All we ask for in return is a small token of appreciation...in the form of $1 bayld.
+- **12312**: Inquire about what? (Bayld: $0) [Nothing./Skirmishes./Delve.]
+- **12313**: Which "[/Skirmish/Delve] area? (Bayld: $0) [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8.]
+- **12314**: Which "[/Skirmish/Delve] rank? (Bayld: $0) [None./$8$[/ I/ I/ I]./$8$[/ II/ II/ II]./$8$[/ III/ III/ III]./$8$[/ IV/ IV/ IV]./$8$[/ V/ V/ V]./$8$[// Fracture/ Sealed Domain].]
+- **12315**: View which? ("[/S./D.]: $8$[ I/ II/ III/ IV/ V/ Fracture/ S. Domain]j [I'd rather try my luck at the raffle./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./This isn't relevant to my interests.]
+- **12316**: Reward: $0.
+- **12317**: Try your chances again for $! bayld?
+- **12318**: Try your chances again? (Bayld: $0) [You bet!/It's too risky for my tastes.]
+- **12408**: I've grrraciously marked your $3.
+- **12409**: There's nothing to marrrk on this map.
+- **12541**: Excuse me, but I do not believe you have $6, do you?
+- **12542**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
 
 ## Events
 
@@ -974,7 +974,7 @@ SUBROUTINE_1481:
  12: 0x14A2 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[5]
  13: 0x14A7 [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
  14: 0x14B0 [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
- 15: 0x14B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
+ 15: 0x14B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12237*)
     → "Care to peek through some of the Celennia Memorial Library's tomes? It always pays to be well-informed."
  16: 0x14BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x14BD [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -984,7 +984,7 @@ SUBROUTINE_14C0:
  19: 0x14C8 [0x1A] CALL_SUBROUTINE(address=0x1581)
  20: 0x14CB [0x1A] CALL_SUBROUTINE(address=0x166E)
  21: 0x14CE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
- 22: 0x14D3 [0x24] CREATE_DIALOG(message_id=12208*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
+ 22: 0x14D3 [0x24] CREATE_DIALOG(message_id=12209*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
  23: 0x14DA [0x25] WAIT_DIALOG_SELECT()
  24: 0x14DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14EE
@@ -1011,11 +1011,11 @@ SUBROUTINE_14EE:
  43: 0x153C [0x14] Work_Zone[4] *= 3*
 
 SUBROUTINE_1541:
- 44: 0x1541 [0x1D] PRINT_EVENT_MESSAGE(message_id=12212*)
+ 44: 0x1541 [0x1D] PRINT_EVENT_MESSAGE(message_id=12213*)
     → "That $3 can be purchased for $2 bayld."
  45: 0x1544 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x1545 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
- 47: 0x154A [0x24] CREATE_DIALOG(message_id=12213*, default_option=1*, option_flags=0*)
+ 47: 0x154A [0x24] CREATE_DIALOG(message_id=12214*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
  48: 0x1551 [0x25] WAIT_DIALOG_SELECT()
  49: 0x1552 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1572
@@ -1156,7 +1156,7 @@ SUBROUTINE_16B7:
      0x0034 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[5]
      0x0039 [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
      0x0042 [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
-     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12231*)
+     0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
     → "What would we be if we couldn't prrrovide accurate maps? Dead, that's what!"
      0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x004F [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -1164,7 +1164,7 @@ SUBROUTINE_16B7:
      0x005A [0x1A] CALL_SUBROUTINE(address=0x0130)
      0x005D [0x1A] CALL_SUBROUTINE(address=0x021D)
      0x0060 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-     0x0065 [0x24] CREATE_DIALOG(message_id=12208*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
+     0x0065 [0x24] CREATE_DIALOG(message_id=12209*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? (Bayld: $0) [None./$3. ($17)/$3. ($18)/$3. ($19)/$3. ($20)/$3. ($21)/$3. ($22)/$3. ($23)/$3. ($24)/$3. ($25)/$3. ($26)/$3. ($27)/$3. ($28)/$3. ($29)/$3. ($30)/$3. ($31)/$3. ($ )/Previous page./Next page.]"
      0x006C [0x25] WAIT_DIALOG_SELECT()
      0x006D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0080
@@ -1179,10 +1179,10 @@ SUBROUTINE_16B7:
      0x0098 [0x9D] Work_Zone[3] = 0x170E[ExtData[1]->WorkLocal[12]] // Read WORD
      0x00A0 [0x9D] Work_Zone[4] = 0x176E[ExtData[1]->WorkLocal[12]] // Read WORD
      0x00A8 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x00ED
-     0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12214*)
+     0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12215*)
     → "You needn't exchange anything for this $3. Enjoy."
      0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00B4 [0x24] CREATE_DIALOG(message_id=12215*, default_option=1*, option_flags=0*)
+     0x00B4 [0x24] CREATE_DIALOG(message_id=12216*, default_option=1*, option_flags=0*)
     → "Accept the provision? [Yes./No.]"
      0x00BB [0x25] WAIT_DIALOG_SELECT()
      0x00BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DF
@@ -1194,11 +1194,11 @@ SUBROUTINE_16B7:
      0x00DF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EA
      0x00E7 [0x01] GOTO 0x00EA
      0x00EA [0x01] GOTO 0x012C
-     0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=12212*)
+     0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=12213*)
     → "That $3 can be purchased for $2 bayld."
      0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00F1 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-     0x00F6 [0x24] CREATE_DIALOG(message_id=12213*, default_option=1*, option_flags=0*)
+     0x00F6 [0x24] CREATE_DIALOG(message_id=12214*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? (Bayld: $0) [Yes./No.]"
      0x00FD [0x25] WAIT_DIALOG_SELECT()
      0x00FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0121
@@ -1358,7 +1358,7 @@ SUBROUTINE_16B7:
      0x0444 [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
      0x044D [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
      0x0456 [0x41] ExtData[1]->WorkLocal[24] = ExtData[1]->WorkLocal[7] (bits 16*-31*)
-     0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=12232*)
+     0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
     → "Want to use the Scouts' Coalition's marking serrrvice?"
      0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0463 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -1366,7 +1366,7 @@ SUBROUTINE_16B7:
      0x046E [0x1A] CALL_SUBROUTINE(address=0x06B4)
      0x0471 [0x1A] CALL_SUBROUTINE(address=0x0705)
      0x0474 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-     0x0479 [0x24] CREATE_DIALOG(message_id=12275*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
+     0x0479 [0x24] CREATE_DIALOG(message_id=12276*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
     → "Where would you like to hear about? [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8./$8.]"
      0x0480 [0x25] WAIT_DIALOG_SELECT()
      0x0481 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0494
@@ -1407,7 +1407,7 @@ SUBROUTINE_16B7:
      0x0540 [0x06] ExtData[1]->WorkLocal[17] = 0
      0x0543 [0x01] GOTO 0x0546
      0x0546 [0x02] IF !(ExtData[1]->WorkLocal[17] == 0*) GOTO 0x0555
-     0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=12408*)
+     0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=12409*)
     → "There's nothing to marrrk on this map."
      0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0552 [0x01] GOTO 0x06B0
@@ -1479,7 +1479,7 @@ SUBROUTINE_16B7:
      0x069B [0x03] ExtData[1]->WorkLocal[17] = ExtData[1]->WorkLocal[5]
      0x06A0 [0x0C] ExtData[1]->WorkLocal[17]--
      0x06A3 [0x9D] Work_Zone[4] = 0x186E[ExtData[1]->WorkLocal[17]] // Read WORD
-     0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12407*)
+     0x06AB [0x1D] PRINT_EVENT_MESSAGE(message_id=12408*)
     → "I've grrraciously marked your $3."
      0x06AE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06AF [0x8A] CLOSE_MAP()
@@ -1616,7 +1616,7 @@ SUBROUTINE_16B7:
      0x095D [0x03] ExtData[1]->WorkLocal[45] = Work_Zone[9]
      0x0962 [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
      0x096B [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
-     0x0974 [0x1D] PRINT_EVENT_MESSAGE(message_id=12233*)
+     0x0974 [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
     → "Extra, extra, read all about it! The latest-watest Scouts' Coalition intelligence reports are in!"
      0x0977 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0978 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -1624,7 +1624,7 @@ SUBROUTINE_16B7:
      0x097E [0x06] ExtData[1]->WorkLocal[0] = 0
      0x0981 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0A66
      0x0989 [0x03] ExtData[1]->WorkLocal[0] = 4294967040*
-     0x098E [0x24] CREATE_DIALOG(message_id=12296*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
+     0x098E [0x24] CREATE_DIALOG(message_id=12297*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
     → "Hear intelligence from which locale? [None./Yahse Hunting Grounds./Ceizak Battlegrounds./Foret de Hennetiel./Yorcia Weald./Morimar Basalt Fields./Marjami Ravine./Kamihr Drifts./ ]"
      0x0995 [0x25] WAIT_DIALOG_SELECT()
      0x0996 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09A9
@@ -1641,7 +1641,7 @@ SUBROUTINE_16B7:
      0x09CA [0x1A] CALL_SUBROUTINE(address=0x0C2B)
      0x09CD [0x03] Work_Zone_1700[13] = ExtData[1]->WorkLocal[5]
      0x09D2 [0x0C] Work_Zone_1700[13]--
-     0x09D5 [0x24] CREATE_DIALOG(message_id=12299*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
+     0x09D5 [0x24] CREATE_DIALOG(message_id=12300*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
     → "What about [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ]? [None./Fearsome fiend activity. (Lv. $1)/Enemy numbers. (Lv. $2)/Natural Hindrances. (Lv. $3)/Gathering. (Lv. $4)/Spoils. (Lv. $5)]"
      0x09DC [0x25] WAIT_DIALOG_SELECT()
      0x09DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09EB
@@ -1656,27 +1656,27 @@ SUBROUTINE_16B7:
      0x0A0D [0x0C] Work_Zone_1700[13]--
      0x0A10 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
      0x0A15 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x0A24
-     0x0A1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12300*)
+     0x0A1D [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
     → "The Naakual protecting [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [is extremely active./is quite active./is starting to tire./looks tired!/is very tired!/is extremely tired!]"
      0x0A20 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A21 [0x01] GOTO 0x0A60
      0x0A24 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x0A33
-     0x0A2C [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
+     0x0A2C [0x1D] PRINT_EVENT_MESSAGE(message_id=12302*)
     → "The enemy population of [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drift/ ] [has not undergone any drastic changes./is increasing steadily./is increasing at a staggering rate!/has absolutely exploded!]"
      0x0A2F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A30 [0x01] GOTO 0x0A60
      0x0A33 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x0A42
-     0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=12302*)
+     0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=12303*)
     → "The number of natural hindrances in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remains stable/is slowly increasing/is growing relatively quickly/is increasing at a blistering pace]."
      0x0A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A3F [0x01] GOTO 0x0A60
      0x0A42 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x0A51
-     0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=12303*)
+     0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=12304*)
     → "The various gathering locations in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [remain completely uncovered./are slowly being cultivated./are being cultivated quickly./are being cultivated at an astounding rate!]"
      0x0A4D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A4E [0x01] GOTO 0x0A60
      0x0A51 [0x02] IF !(ExtData[1]->WorkLocal[6] == 5*) GOTO 0x0A60
-     0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=12304*)
+     0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=12305*)
     → "The amount of spoils obtained in [Yahse Hunting Grounds/Ceizak Battlegrounds/Foret de Hennetiel/Yorcia Weald/Morimar Basalt Fields/Marjami Ravine/Kamihr Drifts/ ] [hasn't changed in the least./is on the rise./is increasing drastically!/is positively booming!]"
      0x0A5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A5D [0x01] GOTO 0x0A60
@@ -1785,7 +1785,7 @@ SUBROUTINE_16B7:
      0x0CE7 [0x03] ExtData[1]->WorkLocal[49] = Work_Zone[9]
      0x0CEC [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
      0x0CF5 [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
-     0x0CFE [0x1D] PRINT_EVENT_MESSAGE(message_id=12234*)
+     0x0CFE [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
     → "Do you wish to know how the ergon locus surveys throughoutaru Eastern Ulbuka are progressing?"
      0x0D01 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0D02 [0x06] ExtData[1]->WorkLocal[1] = 0
@@ -1798,7 +1798,7 @@ SUBROUTINE_16B7:
      0x0D2A [0x40] SET_BIT_WORK_RANGE(start_bit=13*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
      0x0D33 [0x01] GOTO 0x0D3F
      0x0D36 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=31*, target=ExtData[1]->WorkLocal[0], source=4294967295*)
-     0x0D3F [0x24] CREATE_DIALOG(message_id=12283*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
+     0x0D3F [0x24] CREATE_DIALOG(message_id=12284*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[0])
     → "View the progress of which survey? [Nowhere./Ceizak Battlegrounds./Yahse Hunting Grounds./Foret de Hennetiel./Morimar Basalt Fields./Sih Gates./Moh Gates./Cirdas Caverns./Yorcia Weald./Marjami Ravine./Dho Gates./Kamihr Drifts./Woh Gates./ ]"
      0x0D46 [0x25] WAIT_DIALOG_SELECT()
      0x0D47 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D5A
@@ -1814,7 +1814,7 @@ SUBROUTINE_16B7:
      0x0D78 [0x1A] CALL_SUBROUTINE(address=0x0DE5)
      0x0D7B [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[5]
      0x0D80 [0x0C] Work_Zone_1700[25]--
-     0x0D83 [0x24] CREATE_DIALOG(message_id=12286*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
+     0x0D83 [0x24] CREATE_DIALOG(message_id=12287*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[2])
     → "Which locus? ([Ceizak Battlegrounds/Yahse Hunting Grounds/Foret de Hennetiel/Morimar Basalt Fields/Sih Gates/Moh Gates/Cirdas Caverns/Yorcia Weald/Marjami Ravine/Dho Gates/Kamihr Drifts/Woh Gates/ / ]) [None./Flourishing Island./Bud of the Swarm./Luminous Isle./Immutable Boulder./Immaculate Sands./Fruit of Fecundity./Dragon Driftwood./Torchbloom./Spring of Prosperity./Snowdrift Arbor./Frostbloom./Prominence of the Gales./Lake of Light./Sweltering Spring./Prominence of the Flame./Sanctum of Life./Prominence of the Soil./Pool of Clarity./Bryophitic Boulder./Overgrown Grove./Whitewater Arbor./Bud of the Fragrant Breeze./Crag of the Triumvirate./Prominence of the Ripple./Saliferous Spring./Loch of Flux./Lambent Pillar./Crystalline Claw./Prominence of the Rime./Halcyon Icefall.]"
      0x0D8A [0x25] WAIT_DIALOG_SELECT()
      0x0D8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D9C
@@ -1830,12 +1830,12 @@ SUBROUTINE_16B7:
      0x0DBC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[12]
      0x0DC1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
      0x0DC6 [0x02] IF !(Work_Zone[3] >= 15*) GOTO 0x0DD5
-     0x0DCE [0x1D] PRINT_EVENT_MESSAGE(message_id=12284*)
+     0x0DCE [0x1D] PRINT_EVENT_MESSAGE(message_id=12285*)
     → "Surveys of the "[Flourishing Island/Bud of the Swarm/Luminous Isle/Immutable Boulder/Immaculate Sands/Fruit of Fecundity/Dragon Driftwood/Torchbloom/Spring of Prosperity/Snowdrift Arbor/Frostbloom/Prominence of the Gales/Lake of Light/Sweltering Spring/Prominence of the Flame]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far]."
      0x0DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DD2 [0x01] GOTO 0x0DDE
      0x0DD5 [0x08] Work_Zone[3] -= 15*
-     0x0DDA [0x1D] PRINT_EVENT_MESSAGE(message_id=12285*)
+     0x0DDA [0x1D] PRINT_EVENT_MESSAGE(message_id=12286*)
     → "Surveys of the "[Sanctum of Life/Prominence of the Soil/Pool of Clarity/Bryophitic Boulder/Overgrown Grove/Whitewater Arbor/Bud of the Fragrant Breeze/Crag of the Triumvirate/Prominence of the Ripple/Saliferous Spring/Loch of Flux/Lambent Pillar/Crystalline Claw/Prominence of the Rime/Halcyon Icefall]" [have yet to be conducted/have just begun/have started gathering steam/are progressing splendidly/have progressed to a great degree/have come exceptionally far]."
      0x0DDD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0DDE [0x01] GOTO 0x0D70
@@ -1914,13 +1914,13 @@ SUBROUTINE_16B7:
      0x0F40 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[5]
      0x0F45 [0x41] ExtData[1]->WorkLocal[10] = ExtData[1]->WorkLocal[8] (bits 0*-15*)
      0x0F4E [0x41] ExtData[1]->WorkLocal[11] = ExtData[1]->WorkLocal[7] (bits 0*-3*)
-     0x0F57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12235*)
+     0x0F57 [0x1D] PRINT_EVENT_MESSAGE(message_id=12236*)
     → "Always be prepared. That's one of the Scouts' Coalition's many mottos, especially when it comes to spoils! I can tell you exactly how sweet victory will taste!"
      0x0F5A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F5B [0x1A] CALL_SUBROUTINE(address=0x16B4)
      0x0F5E [0x06] ExtData[1]->WorkLocal[1] = 0
      0x0F61 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x113D
-     0x0F69 [0x24] CREATE_DIALOG(message_id=12305*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
+     0x0F69 [0x24] CREATE_DIALOG(message_id=12306*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
     → "What is it you need to know? [Nothing, for I know all./The latest spoils intelligence./What exactly is this service?]"
      0x0F70 [0x25] WAIT_DIALOG_SELECT()
      0x0F71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F84
@@ -1931,7 +1931,7 @@ SUBROUTINE_16B7:
      0x0F89 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x113A
      0x0F91 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x1111
      0x0F99 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
-     0x0F9E [0x24] CREATE_DIALOG(message_id=12311*, default_option=ExtData[1]->WorkLocal[50], option_flags=0*)
+     0x0F9E [0x24] CREATE_DIALOG(message_id=12312*, default_option=ExtData[1]->WorkLocal[50], option_flags=0*)
     → "Inquire about what? (Bayld: $0) [Nothing./Skirmishes./Delve.]"
      0x0FA5 [0x25] WAIT_DIALOG_SELECT()
      0x0FA6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FB1
@@ -1947,7 +1947,7 @@ SUBROUTINE_16B7:
      0x0FD7 [0x1A] CALL_SUBROUTINE(address=0x113E)
      0x0FDA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
      0x0FDF [0x03] Work_Zone_1700[26] = ExtData[1]->WorkLocal[53]
-     0x0FE4 [0x24] CREATE_DIALOG(message_id=12312*, default_option=ExtData[1]->WorkLocal[51], option_flags=ExtData[1]->WorkLocal[20])
+     0x0FE4 [0x24] CREATE_DIALOG(message_id=12313*, default_option=ExtData[1]->WorkLocal[51], option_flags=ExtData[1]->WorkLocal[20])
     → "Which "[/Skirmish/Delve] area? (Bayld: $0) [Nowhere./$8./$8./$8./$8./$8./$8./$8./$8.]"
      0x0FEB [0x25] WAIT_DIALOG_SELECT()
      0x0FEC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FF7
@@ -1995,7 +1995,7 @@ SUBROUTINE_16B7:
      0x10D6 [0x01] GOTO 0x10D9
      0x10D9 [0x01] GOTO 0x10DC
      0x10DC [0x10] ExtData[1]->WorkLocal[20] <<= 1*
-     0x10E1 [0x24] CREATE_DIALOG(message_id=12313*, default_option=ExtData[1]->WorkLocal[52], option_flags=ExtData[1]->WorkLocal[20])
+     0x10E1 [0x24] CREATE_DIALOG(message_id=12314*, default_option=ExtData[1]->WorkLocal[52], option_flags=ExtData[1]->WorkLocal[20])
     → "Which "[/Skirmish/Delve] rank? (Bayld: $0) [None./$8$[/ I/ I/ I]./$8$[/ II/ II/ II]./$8$[/ III/ III/ III]./$8$[/ IV/ IV/ IV]./$8$[/ V/ V/ V]./$8$[// Fracture/ Sealed Domain].]"
      0x10E8 [0x25] WAIT_DIALOG_SELECT()
      0x10E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10F4
@@ -2011,19 +2011,19 @@ SUBROUTINE_16B7:
      0x1111 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x113A
      0x1119 [0x03] Work_Zone[2] = 1*
      0x111E [0x03] Work_Zone[3] = 10*
-     0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=12306*)
+     0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=12307*)
     → "We conduct censuses from time to time on what spoils Adoulin's pioneers have procured from their victories, and then make that information public via lottery."
      0x1126 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1127 [0x1D] PRINT_EVENT_MESSAGE(message_id=12307*)
+     0x1127 [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
     → "Now, when I talk about spoils, I mean strictly ones obtained in battle. Not goods that you can't show off to your loved ones back home."
      0x112A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x112B [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
+     0x112B [0x1D] PRINT_EVENT_MESSAGE(message_id=12309*)
     → "I'd also like to clarify that what individuals receive and what gets split amongst party members are all presented in the same report. Sorry for the inconvenience, but it is what it is."
      0x112E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x112F [0x1D] PRINT_EVENT_MESSAGE(message_id=12309*)
+     0x112F [0x1D] PRINT_EVENT_MESSAGE(message_id=12310*)
     → "For the sake of coalition members' sanity, we recount what spoils have been attained after every $0 battle[/s], but do not report the numbers of specific treasures."
      0x1132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12310*)
+     0x1133 [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
     → "Now it's time to talk compensation. We can't run about at the beck and call of all you pioneers losing our marbles for free, you know. All we ask for in return is a small token of appreciation...in the form of $1 bayld."
      0x1136 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1137 [0x01] GOTO 0x113A
@@ -2151,7 +2151,7 @@ SUBROUTINE_16B7:
      0x13DC [0x02] IF !(ExtData[1]->WorkLocal[51] == 6*) GOTO 0x13EA
      0x13E4 [0x0B] Work_Zone_1700[28]++
      0x13E7 [0x01] GOTO 0x13EA
-     0x13EA [0x24] CREATE_DIALOG(message_id=12314*, default_option=ExtData[1]->WorkLocal[57], option_flags=ExtData[1]->WorkLocal[20])
+     0x13EA [0x24] CREATE_DIALOG(message_id=12315*, default_option=ExtData[1]->WorkLocal[57], option_flags=ExtData[1]->WorkLocal[20])
     → "View which? ("[/S./D.]: $8$[ I/ II/ III/ IV/ V/ Fracture/ S. Domain]j [I'd rather try my luck at the raffle./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./This isn't relevant to my interests.]"
      0x13F1 [0x25] WAIT_DIALOG_SELECT()
      0x13F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13FD
@@ -2165,10 +2165,10 @@ SUBROUTINE_16B7:
      0x141B [0x02] IF !(ExtData[1]->WorkLocal[57] == 0*) GOTO 0x145B
      0x1423 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
      0x1428 [0x03] Work_Zone_1700[25] = 10*
-     0x142D [0x1D] PRINT_EVENT_MESSAGE(message_id=12316*)
+     0x142D [0x1D] PRINT_EVENT_MESSAGE(message_id=12317*)
     → "Try your chances again for $! bayld?"
      0x1430 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1431 [0x24] CREATE_DIALOG(message_id=12317*, default_option=ExtData[1]->WorkLocal[58], option_flags=0*)
+     0x1431 [0x24] CREATE_DIALOG(message_id=12318*, default_option=ExtData[1]->WorkLocal[58], option_flags=0*)
     → "Try your chances again? (Bayld: $0) [You bet!/It's too risky for my tastes.]"
      0x1438 [0x25] WAIT_DIALOG_SELECT()
      0x1439 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x144A
@@ -2184,7 +2184,7 @@ SUBROUTINE_16B7:
      0x1463 [0x9D] ExtData[1]->WorkLocal[18] = 0x16CE[ExtData[1]->WorkLocal[17]] // Read WORD
      0x146B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[18]
      0x1470 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x1473 [0x48] [System] [12315*]:
+     0x1473 [0x48] [System] [12316*]:
     → "Reward: $0."
      0x1476 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1477 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2929,11 +2929,11 @@ SUBROUTINE_16B7:
      0x24E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x24E2 [0x1A] CALL_SUBROUTINE(address=0x24FB)
      0x24E5 [0x03] Work_Zone[2] = 2157*
-     0x24EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12540*)
+     0x24EA [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
     → "Excuse me, but I do not believe you have $6, do you?"
      0x24ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24EE [0x03] Work_Zone[2] = 2157*
-     0x24F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
+     0x24F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12542*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
      0x24F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x24F7 [0x1A] CALL_SUBROUTINE(address=0x25CC)

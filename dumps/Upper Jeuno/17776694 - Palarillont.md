@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1DD7      |        7639 |
-|       2 | 0x1DD8      |        7640 |
+|       1 | 0x1DD8      |        7640 |
+|       2 | 0x1DD9      |        7641 |
 
 ## String References
 
-- **7639**: Long have I hoarded my gil, and the time for purchase is at hand! But shall I buy weaponry or armor?
-- **7640**: In offense the best defense may lie, but quickly is the unarmored knight struck down. Hmm... Which to choose...
+- **7640**: Long have I hoarded my gil, and the time for purchase is at hand! But shall I buy weaponry or armor?
+- **7641**: In offense the best defense may lie, but quickly is the unarmored knight struck down. Hmm... Which to choose...
 
 ## Events
 
@@ -79,10 +79,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7640*)
     → "Long have I hoarded my gil, and the time for purchase is at hand! But shall I buy weaponry or armor?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7640*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
     → "In offense the best defense may lie, but quickly is the unarmored knight struck down. Hmm... Which to choose..."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*

@@ -28,8 +28,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0035      |          53 |
-|       1 | 0x2681      |        9857 |
-|       2 | 0x2682      |        9858 |
+|       1 | 0x2682      |        9858 |
+|       2 | 0x2683      |        9859 |
 |       3 | 0x0007      |           7 |
 |       4 | 0x000D      |          13 |
 |       5 | 0x0000      |           0 |
@@ -57,8 +57,8 @@
 
 ## String References
 
-- **9857**: You ever hear about rrrune fencers?
-- **9858**: They're accomplished sworrrdsmen who make use of runes to snuff out their enemies and empower their friends. Their techniques may have been passed down through the Order of Orvail for generrrations, but even I could use them if I stopped catting around for once.
+- **9858**: You ever hear about rrrune fencers?
+- **9859**: They're accomplished sworrrdsmen who make use of runes to snuff out their enemies and empower their friends. Their techniques may have been passed down through the Order of Orvail for generrrations, but even I could use them if I stopped catting around for once.
 
 ## Events
 
@@ -109,10 +109,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9857*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
     → "You ever hear about rrrune fencers?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9858*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9859*)
     → "They're accomplished sworrrdsmen who make use of runes to snuff out their enemies and empower their friends. Their techniques may have been passed down through the Order of Orvail for generrrations, but even I could use them if I stopped catting around for once."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*

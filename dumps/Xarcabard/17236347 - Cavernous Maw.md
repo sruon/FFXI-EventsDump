@@ -22,9 +22,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C5F      |        7263 |
+|       0 | 0x1C60      |        7264 |
 |       1 | 0x0009      |           9 |
-|       2 | 0x1C60      |        7264 |
+|       2 | 0x1C61      |        7265 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **7263**: An unseen force is drawing you towards the maw.
-- **7264**: Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? [Proceed./Not yet.]
+- **7264**: An unseen force is drawing you towards the maw.
+- **7265**: Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? [Proceed./Not yet.]
 
 ## Events
 
@@ -97,11 +97,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7263*]:
+  1: 0x0003 [0x48] [System] [7264*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 9*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7264*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7265*, default_option=1*, option_flags=0*)
     → "Warp to Abyssea - [Dummy/La Theine/Konschtat/Tahrongi/Attohwa/Misareaux/Vunkerl/Altepa/Grauberg/Uleguerand]? [Proceed./Not yet.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DF

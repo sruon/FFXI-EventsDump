@@ -20,19 +20,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C1A      |        7194 |
+|       0 | 0x1C1B      |        7195 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1C1B      |        7195 |
+|       3 | 0x1C1C      |        7196 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1C1C      |        7196 |
+|       5 | 0x1C1D      |        7197 |
 |       6 | 0x0064      |         100 |
 
 ## String References
 
-- **7194**: Do what? [Nothing./Set BF flag./Cancel 5 day wait period.]
-- **7195**: [Quit./Holla ENM flag./Dem ENM flag./Mea ENM flag./Vahzl ENM flag./Monarch Linn ENM flag./Shrouded Maw ENM flag./Mine 2716 ENM flag./Bearclaw ENM flag./Boneyard ENM flag./Mine 2716 Mannequin ENM flag.]
-- **7196**: [Quit./BF wait all off./Holla BF wait off./Dem BF wait off./Mea BF wait off./Vahzl BF wait off./Monarch Linn BF wait off./Shrouded Maw BF wait off./Mine 2716 BF wait off./Bearclaw BF wait off./Boneyard BF wait off./Mine 2716 Mannequin BF wait off.]
+- **7195**: Do what? [Nothing./Set BF flag./Cancel 5 day wait period.]
+- **7196**: [Quit./Holla ENM flag./Dem ENM flag./Mea ENM flag./Vahzl ENM flag./Monarch Linn ENM flag./Shrouded Maw ENM flag./Mine 2716 ENM flag./Bearclaw ENM flag./Boneyard ENM flag./Mine 2716 Mannequin ENM flag.]
+- **7197**: [Quit./BF wait all off./Holla BF wait off./Dem BF wait off./Mea BF wait off./Vahzl BF wait off./Monarch Linn BF wait off./Shrouded Maw BF wait off./Mine 2716 BF wait off./Bearclaw BF wait off./Boneyard BF wait off./Mine 2716 Mannequin BF wait off.]
 
 ## Events
 
@@ -82,11 +82,11 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7194*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7195*, default_option=0*, option_flags=0*)
     → "Do what? [Nothing./Set BF flag./Cancel 5 day wait period.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0031
-  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7195*, default_option=0*, option_flags=0*)
+  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7196*, default_option=0*, option_flags=0*)
     → "[Quit./Holla ENM flag./Dem ENM flag./Mea ENM flag./Vahzl ENM flag./Monarch Linn ENM flag./Shrouded Maw ENM flag./Mine 2716 ENM flag./Bearclaw ENM flag./Boneyard ENM flag./Mine 2716 Mannequin ENM flag.]"
   4: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
@@ -97,7 +97,7 @@
 SUBROUTINE_002E:
   9: 0x002E [0x01] GOTO 0x005E
  10: 0x0031 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x005E
- 11: 0x0039 [0x24] CREATE_DIALOG(message_id=7196*, default_option=0*, option_flags=0*)
+ 11: 0x0039 [0x24] CREATE_DIALOG(message_id=7197*, default_option=0*, option_flags=0*)
     → "[Quit./BF wait all off./Holla BF wait off./Dem BF wait off./Mea BF wait off./Vahzl BF wait off./Monarch Linn BF wait off./Shrouded Maw BF wait off./Mine 2716 BF wait off./Bearclaw BF wait off./Boneyard BF wait off./Mine 2716 Mannequin BF wait off.]"
  12: 0x0040 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0041 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0051

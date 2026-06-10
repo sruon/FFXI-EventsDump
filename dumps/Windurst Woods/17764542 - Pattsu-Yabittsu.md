@@ -25,8 +25,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2167      |        8551 |
-|       3 | 0x2168      |        8552 |
+|       2 | 0x2168      |        8552 |
+|       3 | 0x2169      |        8553 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0105      |         261 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **8551**: Wee... We're now waltzing in Windurst Woods. Whoa! Want to whirl over to Windurst Waters? Then let me move you in a moment with my mighty magic, maybe?
-- **8552**: Warp to Windurst Waters? [Yes./No.]
+- **8552**: Wee... We're now waltzing in Windurst Woods. Whoa! Want to whirl over to Windurst Waters? Then let me move you in a moment with my mighty magic, maybe?
+- **8553**: Warp to Windurst Waters? [Yes./No.]
 
 ## Events
 
@@ -167,11 +167,11 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pattsu-Yabittsu (ID: 17764542/0x010F10BE), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8551*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8552*)
     → "Wee... We're now waltzing in Windurst Woods. Whoa! Want to whirl over to Windurst Waters? Then let me move you in a moment with my mighty magic, maybe?"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0042 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-  7: 0x0051 [0x24] CREATE_DIALOG(message_id=8552*, default_option=1*, option_flags=0*)
+  7: 0x0051 [0x24] CREATE_DIALOG(message_id=8553*, default_option=1*, option_flags=0*)
     → "Warp to Windurst Waters? [Yes./No.]"
   8: 0x0058 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0098

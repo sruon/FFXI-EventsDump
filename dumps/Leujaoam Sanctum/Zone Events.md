@@ -30,42 +30,42 @@
 |       3 | 0x00C9      |         201 |
 |       4 | 0x008C      |         140 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DBA      |        7610 |
-|       7 | 0x1DBB      |        7611 |
+|       6 | 0x1DBB      |        7611 |
+|       7 | 0x1DBC      |        7612 |
 |       8 | 0x03E7      |         999 |
-|       9 | 0x1DC1      |        7617 |
+|       9 | 0x1DC2      |        7618 |
 |      10 | 0x03E6      |         998 |
-|      11 | 0x1DBE      |        7614 |
-|      12 | 0x1DC5      |        7621 |
-|      13 | 0x1DC2      |        7618 |
-|      14 | 0x1DC3      |        7619 |
+|      11 | 0x1DBF      |        7615 |
+|      12 | 0x1DC6      |        7622 |
+|      13 | 0x1DC3      |        7619 |
+|      14 | 0x1DC4      |        7620 |
 |      15 | 0x03E8      |        1000 |
-|      16 | 0x1DC4      |        7620 |
+|      16 | 0x1DC5      |        7621 |
 |      17 | 0x01F3      |         499 |
-|      18 | 0x1DBF      |        7615 |
-|      19 | 0x1DC0      |        7616 |
-|      20 | 0x1DC6      |        7622 |
-|      21 | 0x1DC9      |        7625 |
+|      18 | 0x1DC0      |        7616 |
+|      19 | 0x1DC1      |        7617 |
+|      20 | 0x1DC7      |        7623 |
+|      21 | 0x1DCA      |        7626 |
 |      22 | 0x0003      |           3 |
-|      23 | 0x1DC8      |        7624 |
+|      23 | 0x1DC9      |        7625 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x1DC7      |        7623 |
-|      26 | 0x1DBC      |        7612 |
+|      25 | 0x1DC8      |        7624 |
+|      26 | 0x1DBD      |        7613 |
 |      27 | 0x088B      |        2187 |
-|      28 | 0x1DBD      |        7613 |
+|      28 | 0x1DBE      |        7614 |
 
 ## String References
 
-- **7611**: Throwing dice around? [Yes, let's gooo!/What yooo mean?]
-- **7616**: The Qiqirn Dealer's total has exceeded 1,000!
-- **7617**: You roll the dice... The result is $0.
-- **7618**: Roll the dice again? [Yes, please./I'll stop here!]
-- **7619**: You roll the dice again... The result is $0. Your total is now $1.
-- **7620**: <Player>'s total has exceeded 1,000!
-- **7621**: Current totals: You: $0 Qiqirn Dealer: $1
-- **7622**: Final results: You: $0 Qiqirn Dealer: $1
-- **7623**: <Player> wins!
-- **7624**: <Player> loses!
+- **7612**: Throwing dice around? [Yes, let's gooo!/What yooo mean?]
+- **7617**: The Qiqirn Dealer's total has exceeded 1,000!
+- **7618**: You roll the dice... The result is $0.
+- **7619**: Roll the dice again? [Yes, please./I'll stop here!]
+- **7620**: You roll the dice again... The result is $0. Your total is now $1.
+- **7621**: <Player>'s total has exceeded 1,000!
+- **7622**: Current totals: You: $0 Qiqirn Dealer: $1
+- **7623**: Final results: You: $0 Qiqirn Dealer: $1
+- **7624**: <Player> wins!
+- **7625**: <Player> loses!
 
 ## Events
 
@@ -252,10 +252,10 @@
 ```
   0: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0055 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0056 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7610*]:
+  2: 0x0056 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7611*]:
     → "Clink clink! Clink clink! Make heart pound! Okay, okay! It game, then! Can play now, yes?"
   3: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x005E [0x24] CREATE_DIALOG(message_id=7611*, default_option=1*, option_flags=0*)
+  4: 0x005E [0x24] CREATE_DIALOG(message_id=7612*, default_option=1*, option_flags=0*)
     → "Throwing dice around? [Yes, let's gooo!/What yooo mean?]"
   5: 0x0065 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0066 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x020E
@@ -265,21 +265,21 @@
  10: 0x0077 [0x0B] ExtData[1]->WorkLocal[0]++
  11: 0x007A [0x03] ExtData[1]->WorkLocal[2] = ExtData[1]->WorkLocal[0]
  12: 0x007F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 13: 0x0084 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7617*]:
+ 13: 0x0084 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7618*]:
  14: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x008C [0x13] ExtData[1]->WorkLocal[0] = rand() % 998*
  16: 0x0091 [0x0B] ExtData[1]->WorkLocal[0]++
  17: 0x0094 [0x03] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[0]
  18: 0x0099 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 19: 0x009E [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7614*]:
+ 19: 0x009E [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7615*]:
     → "Throwing dice around and round now.t Here go for Titiroon turn... It a $0!"
  20: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00A6 [0x03] ExtData[1]->WorkLocal[3] = 0*
  22: 0x00AB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  23: 0x00B0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 24: 0x00B5 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7621*]:
+ 24: 0x00B5 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7622*]:
  25: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x00BD [0x24] CREATE_DIALOG(message_id=7618*, default_option=1*, option_flags=0*)
+ 26: 0x00BD [0x24] CREATE_DIALOG(message_id=7619*, default_option=1*, option_flags=0*)
     → "Roll the dice again? [Yes, please./I'll stop here!]"
  27: 0x00C4 [0x25] WAIT_DIALOG_SELECT()
  28: 0x00C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EF
@@ -288,7 +288,7 @@
  31: 0x00D5 [0x07] ExtData[1]->WorkLocal[2] += ExtData[1]->WorkLocal[0]
  32: 0x00DA [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
  33: 0x00DF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
- 34: 0x00E4 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7619*]:
+ 34: 0x00E4 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7620*]:
  35: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00EC [0x01] GOTO 0x00FF
  37: 0x00EF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00FF
@@ -297,7 +297,7 @@
 
 SUBROUTINE_00FF:
  40: 0x00FF [0x02] IF !(1000* >= ExtData[1]->WorkLocal[2]) GOTO 0x0112
- 41: 0x0107 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7620*]:
+ 41: 0x0107 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7621*]:
  42: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x010F [0x01] GOTO 0x018C
 
@@ -314,11 +314,11 @@ SUBROUTINE_0112:
  53: 0x0144 [0x07] ExtData[1]->WorkLocal[1] += ExtData[1]->WorkLocal[0]
  54: 0x0149 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
  55: 0x014E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 56: 0x0153 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7615*]:
+ 56: 0x0153 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7616*]:
     → "Okay, one more time! ...$0! Ohhh, that make $1, yes?"
  57: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x015B [0x02] IF !(1000* >= ExtData[1]->WorkLocal[1]) GOTO 0x016E
- 59: 0x0163 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7616*]:
+ 59: 0x0163 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7617*]:
  60: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x016B [0x01] GOTO 0x0179
  62: 0x016E [0x02] IF !(1* == ExtData[1]->WorkLocal[3]) GOTO 0x0179
@@ -332,30 +332,30 @@ SUBROUTINE_0179:
 SUBROUTINE_018C:
  67: 0x018C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
  68: 0x0191 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 69: 0x0196 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7622*]:
+ 69: 0x0196 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7623*]:
  70: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x019E [0x02] IF !(ExtData[1]->WorkLocal[1] == ExtData[1]->WorkLocal[2]) GOTO 0x01B6
- 72: 0x01A6 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7625*]:
+ 72: 0x01A6 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7626*]:
     → "Ohhh, have same luck! It tie! Will retooorn clink clink back to yooo."
  73: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01AE [0x03] Work_Zone[1] = 3*
  75: 0x01B3 [0x01] GOTO 0x020B
  76: 0x01B6 [0x02] IF !(1000* >= ExtData[1]->WorkLocal[2]) GOTO 0x01CE
- 77: 0x01BE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7624*]:
+ 77: 0x01BE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7625*]:
  78: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x01C6 [0x03] Work_Zone[1] = 2*
  80: 0x01CB [0x01] GOTO 0x020B
  81: 0x01CE [0x02] IF !(1000* >= ExtData[1]->WorkLocal[1]) GOTO 0x01E6
- 82: 0x01D6 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7623*]:
+ 82: 0x01D6 [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7624*]:
  83: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x01DE [0x03] Work_Zone[1] = 1*
  85: 0x01E3 [0x01] GOTO 0x020B
  86: 0x01E6 [0x02] IF !(ExtData[1]->WorkLocal[1] >= ExtData[1]->WorkLocal[2]) GOTO 0x01FE
- 87: 0x01EE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7623*]:
+ 87: 0x01EE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7624*]:
  88: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x01F6 [0x03] Work_Zone[1] = 1*
  90: 0x01FB [0x01] GOTO 0x020B
- 91: 0x01FE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7624*]:
+ 91: 0x01FE [0x49] Qiqirn Dealer (ID: 17059930/0x0104505A) (No speaker name) [7625*]:
  92: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0206 [0x03] Work_Zone[1] = 2*
 
@@ -364,11 +364,11 @@ SUBROUTINE_020B:
  95: 0x020E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0235
  96: 0x0216 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  97: 0x0218 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 98: 0x021A [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7612*]:
+ 98: 0x021A [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7613*]:
     → "Throwing dice around! Yooo throw dice around all yooo want! Want get close to 1,000, okay? But if go over 1,000, then lose and so sad!"
  99: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0222 [0x03] Work_Zone[2] = 2187*
-101: 0x0227 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7613*]:
+101: 0x0227 [0x2B] Qiqirn Dealer (ID: 17059930/0x0104505A) [7614*]:
     → "If yooo win, get $0. If lose, clink clink gone! Happy, but kind of sad for yooo?"
 102: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x022F [0x01] GOTO 0x005E

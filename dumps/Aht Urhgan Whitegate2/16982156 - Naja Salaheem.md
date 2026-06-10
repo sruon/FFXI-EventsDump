@@ -231,45 +231,45 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1BBA      |        7098 |
-|       2 | 0x1BBB      |        7099 |
+|       1 | 0x1BBB      |        7099 |
+|       2 | 0x1BBC      |        7100 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1BBC      |        7100 |
-|       5 | 0x1BE0      |        7136 |
-|       6 | 0x1BE1      |        7137 |
-|       7 | 0x1BE2      |        7138 |
-|       8 | 0x1BE3      |        7139 |
-|       9 | 0x1C3F      |        7231 |
-|      10 | 0x1C41      |        7233 |
+|       4 | 0x1BBD      |        7101 |
+|       5 | 0x1BE1      |        7137 |
+|       6 | 0x1BE2      |        7138 |
+|       7 | 0x1BE3      |        7139 |
+|       8 | 0x1BE4      |        7140 |
+|       9 | 0x1C40      |        7232 |
+|      10 | 0x1C42      |        7234 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1D95      |        7573 |
-|      13 | 0x1D96      |        7574 |
+|      12 | 0x1D96      |        7574 |
+|      13 | 0x1D97      |        7575 |
 |      14 | 0x0873      |        2163 |
-|      15 | 0x292D      |       10541 |
-|      16 | 0x292E      |       10542 |
-|      17 | 0x1DD9      |        7641 |
-|      18 | 0x1DDA      |        7642 |
-|      19 | 0x1DDB      |        7643 |
-|      20 | 0x1DDC      |        7644 |
-|      21 | 0x1DDD      |        7645 |
-|      22 | 0x1E50      |        7760 |
-|      23 | 0x1E51      |        7761 |
-|      24 | 0x1EBC      |        7868 |
-|      25 | 0x1EBD      |        7869 |
-|      26 | 0x1EBE      |        7870 |
-|      27 | 0x1EF8      |        7928 |
-|      28 | 0x1EF6      |        7926 |
-|      29 | 0x1EF9      |        7929 |
-|      30 | 0x1F41      |        8001 |
-|      31 | 0x1F4D      |        8013 |
-|      32 | 0x1F4A      |        8010 |
-|      33 | 0x1F4E      |        8014 |
-|      34 | 0x1F4F      |        8015 |
-|      35 | 0x1F51      |        8017 |
-|      36 | 0x1F52      |        8018 |
+|      15 | 0x292E      |       10542 |
+|      16 | 0x292F      |       10543 |
+|      17 | 0x1DDA      |        7642 |
+|      18 | 0x1DDB      |        7643 |
+|      19 | 0x1DDC      |        7644 |
+|      20 | 0x1DDD      |        7645 |
+|      21 | 0x1DDE      |        7646 |
+|      22 | 0x1E51      |        7761 |
+|      23 | 0x1E52      |        7762 |
+|      24 | 0x1EBD      |        7869 |
+|      25 | 0x1EBE      |        7870 |
+|      26 | 0x1EBF      |        7871 |
+|      27 | 0x1EF9      |        7929 |
+|      28 | 0x1EF7      |        7927 |
+|      29 | 0x1EFA      |        7930 |
+|      30 | 0x1F42      |        8002 |
+|      31 | 0x1F4E      |        8014 |
+|      32 | 0x1F4B      |        8011 |
+|      33 | 0x1F4F      |        8015 |
+|      34 | 0x1F50      |        8016 |
+|      35 | 0x1F52      |        8018 |
+|      36 | 0x1F53      |        8019 |
 |      37 | 0x3EC6      |       16070 |
-|      38 | 0x1FEF      |        8175 |
-|      39 | 0x1FF1      |        8177 |
+|      38 | 0x1FF0      |        8176 |
+|      39 | 0x1FF2      |        8178 |
 |      40 | 0x0341      |         833 |
 |      41 | 0x0342      |         834 |
 |      42 | 0x0343      |         835 |
@@ -292,23 +292,23 @@
 |      59 | 0xFFFF5430  |  4294923312 |
 |      60 | 0x0C10      |        3088 |
 |      61 | 0x0096      |         150 |
-|      62 | 0x2426      |        9254 |
-|      63 | 0x2427      |        9255 |
-|      64 | 0x2428      |        9256 |
-|      65 | 0x2429      |        9257 |
-|      66 | 0x242A      |        9258 |
-|      67 | 0x242B      |        9259 |
-|      68 | 0x242C      |        9260 |
-|      69 | 0x242D      |        9261 |
-|      70 | 0x242E      |        9262 |
-|      71 | 0x242F      |        9263 |
-|      72 | 0x2430      |        9264 |
-|      73 | 0x2431      |        9265 |
-|      74 | 0x2432      |        9266 |
-|      75 | 0x2433      |        9267 |
-|      76 | 0x2434      |        9268 |
-|      77 | 0x2435      |        9269 |
-|      78 | 0x2436      |        9270 |
+|      62 | 0x2427      |        9255 |
+|      63 | 0x2428      |        9256 |
+|      64 | 0x2429      |        9257 |
+|      65 | 0x242A      |        9258 |
+|      66 | 0x242B      |        9259 |
+|      67 | 0x242C      |        9260 |
+|      68 | 0x242D      |        9261 |
+|      69 | 0x242E      |        9262 |
+|      70 | 0x242F      |        9263 |
+|      71 | 0x2430      |        9264 |
+|      72 | 0x2431      |        9265 |
+|      73 | 0x2432      |        9266 |
+|      74 | 0x2433      |        9267 |
+|      75 | 0x2434      |        9268 |
+|      76 | 0x2435      |        9269 |
+|      77 | 0x2436      |        9270 |
+|      78 | 0x2437      |        9271 |
 |      79 | 0x000A      |          10 |
 |      80 | 0x58A0      |       22688 |
 |      81 | 0xFFFF5C32  |  4294925362 |
@@ -320,10 +320,10 @@
 |      87 | 0x585A      |       22618 |
 |      88 | 0xFFFF5525  |  4294923557 |
 |      89 | 0x0102      |         258 |
-|      90 | 0x2B0D      |       11021 |
-|      91 | 0x2B0E      |       11022 |
+|      90 | 0x2B0E      |       11022 |
+|      91 | 0x2B0F      |       11023 |
 |      92 | 0x0338      |         824 |
-|      93 | 0x2B0F      |       11023 |
+|      93 | 0x2B10      |       11024 |
 |      94 | 0x6F79      |       28537 |
 |      95 | 0xFFFF497E  |  4294920574 |
 |      96 | 0x08D2      |        2258 |
@@ -363,29 +363,29 @@
 |     130 | 0xFFFF45FE  |  4294919678 |
 |     131 | 0x60B2      |       24754 |
 |     132 | 0xFFFF466A  |  4294919786 |
-|     133 | 0x20AF      |        8367 |
-|     134 | 0x232E      |        9006 |
-|     135 | 0x2337      |        9015 |
-|     136 | 0x2338      |        9016 |
-|     137 | 0x2341      |        9025 |
-|     138 | 0x2342      |        9026 |
-|     139 | 0x2347      |        9031 |
-|     140 | 0x2348      |        9032 |
-|     141 | 0x2349      |        9033 |
-|     142 | 0x234A      |        9034 |
+|     133 | 0x20B0      |        8368 |
+|     134 | 0x232F      |        9007 |
+|     135 | 0x2338      |        9016 |
+|     136 | 0x2339      |        9017 |
+|     137 | 0x2342      |        9026 |
+|     138 | 0x2343      |        9027 |
+|     139 | 0x2348      |        9032 |
+|     140 | 0x2349      |        9033 |
+|     141 | 0x234A      |        9034 |
+|     142 | 0x234B      |        9035 |
 |     143 | 0x15C5      |        5573 |
-|     144 | 0x25BE      |        9662 |
+|     144 | 0x25BF      |        9663 |
 |     145 | 0x15CA      |        5578 |
-|     146 | 0x25BF      |        9663 |
-|     147 | 0x25C0      |        9664 |
-|     148 | 0x25C1      |        9665 |
-|     149 | 0x25C2      |        9666 |
-|     150 | 0x25C3      |        9667 |
-|     151 | 0x25C4      |        9668 |
+|     146 | 0x25C0      |        9664 |
+|     147 | 0x25C1      |        9665 |
+|     148 | 0x25C2      |        9666 |
+|     149 | 0x25C3      |        9667 |
+|     150 | 0x25C4      |        9668 |
+|     151 | 0x25C5      |        9669 |
 |     152 | 0x1056      |        4182 |
-|     153 | 0x25C5      |        9669 |
+|     153 | 0x25C6      |        9670 |
 |     154 | 0x003C      |          60 |
-|     155 | 0x25C6      |        9670 |
+|     155 | 0x25C7      |        9671 |
 |     156 | 0x8D3A      |       36154 |
 |     157 | 0xFFFF2603  |  4294911491 |
 |     158 | 0xFFFFE633  |  4294960691 |
@@ -399,46 +399,46 @@
 |     166 | 0x4F22      |       20258 |
 |     167 | 0xFFFF073E  |  4294903614 |
 |     168 | 0xFFFFE891  |  4294961297 |
-|     169 | 0x2478      |        9336 |
-|     170 | 0x2479      |        9337 |
-|     171 | 0x247A      |        9338 |
-|     172 | 0x247B      |        9339 |
-|     173 | 0x247C      |        9340 |
-|     174 | 0x247D      |        9341 |
-|     175 | 0x247E      |        9342 |
-|     176 | 0x2519      |        9497 |
+|     169 | 0x2479      |        9337 |
+|     170 | 0x247A      |        9338 |
+|     171 | 0x247B      |        9339 |
+|     172 | 0x247C      |        9340 |
+|     173 | 0x247D      |        9341 |
+|     174 | 0x247E      |        9342 |
+|     175 | 0x247F      |        9343 |
+|     176 | 0x251A      |        9498 |
 |     177 | 0x088B      |        2187 |
 |     178 | 0x07D0      |        2000 |
-|     179 | 0x251A      |        9498 |
-|     180 | 0x251B      |        9499 |
-|     181 | 0x251C      |        9500 |
-|     182 | 0x251D      |        9501 |
-|     183 | 0x251E      |        9502 |
+|     179 | 0x251B      |        9499 |
+|     180 | 0x251C      |        9500 |
+|     181 | 0x251D      |        9501 |
+|     182 | 0x251E      |        9502 |
+|     183 | 0x251F      |        9503 |
 |     184 | 0x037D      |         893 |
-|     185 | 0x251F      |        9503 |
-|     186 | 0x2520      |        9504 |
-|     187 | 0x2521      |        9505 |
-|     188 | 0x2522      |        9506 |
-|     189 | 0x2523      |        9507 |
+|     185 | 0x2520      |        9504 |
+|     186 | 0x2521      |        9505 |
+|     187 | 0x2522      |        9506 |
+|     188 | 0x2523      |        9507 |
+|     189 | 0x2524      |        9508 |
 |     190 | 0x031E      |         798 |
 |     191 | 0xFFFFF40D  |  4294964237 |
 |     192 | 0x03C3      |         963 |
 |     193 | 0x15F4      |        5620 |
 |     194 | 0x026C      |         620 |
 |     195 | 0xB724      |       46884 |
-|     196 | 0x254A      |        9546 |
-|     197 | 0x254B      |        9547 |
-|     198 | 0x254F      |        9551 |
-|     199 | 0x254C      |        9548 |
-|     200 | 0x254D      |        9549 |
-|     201 | 0x254E      |        9550 |
-|     202 | 0x26B0      |        9904 |
-|     203 | 0x26B1      |        9905 |
-|     204 | 0x26D7      |        9943 |
-|     205 | 0x27DC      |       10204 |
-|     206 | 0x27DD      |       10205 |
-|     207 | 0x27DE      |       10206 |
-|     208 | 0x27DF      |       10207 |
+|     196 | 0x254B      |        9547 |
+|     197 | 0x254C      |        9548 |
+|     198 | 0x2550      |        9552 |
+|     199 | 0x254D      |        9549 |
+|     200 | 0x254E      |        9550 |
+|     201 | 0x254F      |        9551 |
+|     202 | 0x26B1      |        9905 |
+|     203 | 0x26B2      |        9906 |
+|     204 | 0x26D8      |        9944 |
+|     205 | 0x27DD      |       10205 |
+|     206 | 0x27DE      |       10206 |
+|     207 | 0x27DF      |       10207 |
+|     208 | 0x27E0      |       10208 |
 |     209 | 0x69E5      |       27109 |
 |     210 | 0xFFFF4D89  |  4294921609 |
 |     211 | 0x6248      |       25160 |
@@ -448,16 +448,16 @@
 |     215 | 0xFFFF486E  |  4294920302 |
 |     216 | 0x09B8      |        2488 |
 |     217 | 0x0383      |         899 |
-|     218 | 0x26B4      |        9908 |
-|     219 | 0x26B5      |        9909 |
-|     220 | 0x26B6      |        9910 |
-|     221 | 0x26B7      |        9911 |
+|     218 | 0x26B5      |        9909 |
+|     219 | 0x26B6      |        9910 |
+|     220 | 0x26B7      |        9911 |
+|     221 | 0x26B8      |        9912 |
 |     222 | 0x6808      |       26632 |
 |     223 | 0xFFFF4756  |  4294920022 |
 |     224 | 0x7ACF      |       31439 |
 |     225 | 0xFFFF46CF  |  4294919887 |
-|     226 | 0x38CB      |       14539 |
-|     227 | 0x38CC      |       14540 |
+|     226 | 0x38CC      |       14540 |
+|     227 | 0x38CD      |       14541 |
 |     228 | 0x5887      |       22663 |
 |     229 | 0xFFFF4432  |  4294919218 |
 |     230 | 0x60B7      |       24759 |
@@ -465,57 +465,57 @@
 
 ## String References
 
-- **7098**: Remember, take it to the Ilrusi Atoll, Dvucca Isle, Halvung, the domain of the Mamool Ja, or Azouph Isle. I don't give a damn who you decide on, as long as it's a member of the Immortals.
-- **7099**: Get out there now and show me what ya can do!
-- **7100**: Ya think you can be a good mercenary if ya can't even rrrun a simple errand? Get outta here!
-- **7136**: Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?
-- **7137**: We've got no place for sluggards here. Get your head outta the clouds and get to work!
-- **7138**: Good [boy/girl]. Keep gettin' those jobs done.
-- **7139**: Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!
-- **7231**: <Player>, if I were you, I'd curse the luck that brought you here!
-- **7233**: Go, and don't let that clot out of your sight!
-- **7573**: I'm glad ya decided to walk in my door. It's okay, you can tear up a little.
-- **7574**: Take that feelin' and burn it deep into your heart.
-- **7760**: I don't like bein' manipulated, even if it is by the Empress herself.
-- **7761**: Time to remind the Empire that the wildcat has claws...
-- **7868**: A lot of people have been seein' that ship in the waters around the Arrapago Islands. Ya might wanna try interrogatin' the Nashmau locals first and see what ya can find out.
-- **7869**: Go after that ghost ship and don't come back till ya learn somethin' useful!
-- **7870**: With the rrreward I'm expectin' from the Empress, this company'll be rollin' in cash for the next ten years.
-- **7926**: Why don't ya go check out Dvucca Isle yourself, and take that coin with you.
-- **7928**: And if ya come back with any more half-baked ghost stories, I'll take this morningstar and show you just how "affectionate" I can be!
-- **7929**: He said somethin' about feelin' an "ominous presence" to the west of Dvucca Isle...
-- **8001**: When you're rrready to go to the palace, come and show me your wardrobe. I'll see if ya pass muster.
-- **8010**: Oh, and rrremember that weapons are forbidden within the palace grounds.
-- **8013**: Choose your words carefully when you're speakin' with the Empress.
-- **8014**: At least ya know how to drrress. Ya shouldn't have a prrroblem in that department.
-- **8015**: Okay, then. I'll meet ya by the Imperial Whitegate.
-- **8017**: What happened to the outfit you were wearing before!?
-- **8018**: We can't have ya turnin' up to the palace in that...
-- **8175**: When you've managed to become the best mercenary ya can be, I'll be rrready to hand over the $0 to ya.
-- **8177**: Of course, if ya start slackin' off, I might change my mind and just sell it at the auction house.
-- **9268**: I hope you're keepin' an eye out, <Player>.
-- **9269**: The pride of Salaheem's Sentinels depends on us claimin' the bounty on Duzaf the Blackbelly.
-- **9270**: This is one of those once-in-a-lifetime, make-or-brrreak opportunities!
-- **9337**: Somethin' ya wanted to ask about? [The cutter./The fare.]
-- **9505**: Naja Salaheem stares piercingly at <Player>...
-- **9546**: Ah, just the mercenary I wanted to see. Tell me, have ya been to Nyzul Isle at all?
-- **9547**: Been to Nyzul Isle? [I just got back from there!/Not recently, no.]
-- **9548**: Is that rrright!? I should've expected nothing less from ya, [entry-level employee/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. So, what's it like in there?
-- **9549**: What's it like? [Full of nasty monsters./Not as tough as you'd think.]
-- **9550**: Hmmm... Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all.
-- **9551**: No? Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all. Carry on, soldier.
-- **9669**: Naja Salaheem hands you $0!
-- **9904**: Ya leave that luscious Luzaf to me! Ya just concentrrrate on protectin' the Empress.
-- **9905**: Don't go losin' your mercenary mettle!
-- **9908**: Ya did what!? Ya lost the $3 entrrrusted to ya by Her Magnificence!
-- **9909**: I've got no time to lecture ya rrright now...
-- **9910**: Naja Salaheem hands you another $3!
-- **9911**: Just be sure ya take better care of Empress Nashmeira!
-- **9943**: You better get prrreparin' for your visit to the palace! If ya show up late to the ceremony, I'll have your hide for a thrrrow rug!
-- **10204**: [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. Ya look surprrrisingly free of worries, considerin'...
-- **10205**: ...the immense debt you owe to Salaheem's Sentinels! Why aren't ya out there makin' fistfuls of money!?
-- **10206**: Quality. Precision. Speed. That's our motto.
-- **10207**: Keep ya nose to the grrrindstone, <Player>! You've still got a hell of a large debt to pay off!
+- **7099**: Remember, take it to the Ilrusi Atoll, Dvucca Isle, Halvung, the domain of the Mamool Ja, or Azouph Isle. I don't give a damn who you decide on, as long as it's a member of the Immortals.
+- **7100**: Get out there now and show me what ya can do!
+- **7101**: Ya think you can be a good mercenary if ya can't even rrrun a simple errand? Get outta here!
+- **7137**: Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?
+- **7138**: We've got no place for sluggards here. Get your head outta the clouds and get to work!
+- **7139**: Good [boy/girl]. Keep gettin' those jobs done.
+- **7140**: Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!
+- **7232**: <Player>, if I were you, I'd curse the luck that brought you here!
+- **7234**: Go, and don't let that clot out of your sight!
+- **7574**: I'm glad ya decided to walk in my door. It's okay, you can tear up a little.
+- **7575**: Take that feelin' and burn it deep into your heart.
+- **7761**: I don't like bein' manipulated, even if it is by the Empress herself.
+- **7762**: Time to remind the Empire that the wildcat has claws...
+- **7869**: A lot of people have been seein' that ship in the waters around the Arrapago Islands. Ya might wanna try interrogatin' the Nashmau locals first and see what ya can find out.
+- **7870**: Go after that ghost ship and don't come back till ya learn somethin' useful!
+- **7871**: With the rrreward I'm expectin' from the Empress, this company'll be rollin' in cash for the next ten years.
+- **7927**: Why don't ya go check out Dvucca Isle yourself, and take that coin with you.
+- **7929**: And if ya come back with any more half-baked ghost stories, I'll take this morningstar and show you just how "affectionate" I can be!
+- **7930**: He said somethin' about feelin' an "ominous presence" to the west of Dvucca Isle...
+- **8002**: When you're rrready to go to the palace, come and show me your wardrobe. I'll see if ya pass muster.
+- **8011**: Oh, and rrremember that weapons are forbidden within the palace grounds.
+- **8014**: Choose your words carefully when you're speakin' with the Empress.
+- **8015**: At least ya know how to drrress. Ya shouldn't have a prrroblem in that department.
+- **8016**: Okay, then. I'll meet ya by the Imperial Whitegate.
+- **8018**: What happened to the outfit you were wearing before!?
+- **8019**: We can't have ya turnin' up to the palace in that...
+- **8176**: When you've managed to become the best mercenary ya can be, I'll be rrready to hand over the $0 to ya.
+- **8178**: Of course, if ya start slackin' off, I might change my mind and just sell it at the auction house.
+- **9269**: I hope you're keepin' an eye out, <Player>.
+- **9270**: The pride of Salaheem's Sentinels depends on us claimin' the bounty on Duzaf the Blackbelly.
+- **9271**: This is one of those once-in-a-lifetime, make-or-brrreak opportunities!
+- **9338**: Somethin' ya wanted to ask about? [The cutter./The fare.]
+- **9506**: Naja Salaheem stares piercingly at <Player>...
+- **9547**: Ah, just the mercenary I wanted to see. Tell me, have ya been to Nyzul Isle at all?
+- **9548**: Been to Nyzul Isle? [I just got back from there!/Not recently, no.]
+- **9549**: Is that rrright!? I should've expected nothing less from ya, [entry-level employee/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. So, what's it like in there?
+- **9550**: What's it like? [Full of nasty monsters./Not as tough as you'd think.]
+- **9551**: Hmmm... Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all.
+- **9552**: No? Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all. Carry on, soldier.
+- **9670**: Naja Salaheem hands you $0!
+- **9905**: Ya leave that luscious Luzaf to me! Ya just concentrrrate on protectin' the Empress.
+- **9906**: Don't go losin' your mercenary mettle!
+- **9909**: Ya did what!? Ya lost the $3 entrrrusted to ya by Her Magnificence!
+- **9910**: I've got no time to lecture ya rrright now...
+- **9911**: Naja Salaheem hands you another $3!
+- **9912**: Just be sure ya take better care of Empress Nashmeira!
+- **9944**: You better get prrreparin' for your visit to the palace! If ya show up late to the ceremony, I'll have your hide for a thrrrow rug!
+- **10205**: [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. Ya look surprrrisingly free of worries, considerin'...
+- **10206**: ...the immense debt you owe to Salaheem's Sentinels! Why aren't ya out there makin' fistfuls of money!?
+- **10207**: Quality. Precision. Speed. That's our motto.
+- **10208**: Keep ya nose to the grrrindstone, <Player>! You've still got a hell of a large debt to pay off!
 
 ## Events
 
@@ -612,15 +612,15 @@
   2: 0x000D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0022
-  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
+  5: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
     → "Remember, take it to the Ilrusi Atoll, Dvucca Isle, Halvung, the domain of the Mamool Ja, or Azouph Isle. I don't give a damn who you decide on, as long as it's a member of the Immortals."
   6: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
+  7: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
     → "Get out there now and show me what ya can do!"
   8: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001F [0x01] GOTO 0x0031
  10: 0x0022 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0031
- 11: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7100*)
+ 11: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7101*)
     → "Ya think you can be a good mercenary if ya can't even rrrun a simple errand? Get outta here!"
  12: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x002E [0x01] GOTO 0x0031
@@ -679,18 +679,18 @@ SUBROUTINE_0031:
   2: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0053
-  5: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  5: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   6: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  7: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   8: 0x004F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0050 [0x01] GOTO 0x0066
  10: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0066
- 11: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 11: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  12: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 13: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  14: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0063 [0x01] GOTO 0x0066
@@ -789,10 +789,10 @@ SUBROUTINE_0066:
   0: 0x006B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0070 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0071 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
+  3: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "<Player>, if I were you, I'd curse the luck that brought you here!"
   4: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
+  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
     → "Go, and don't let that clot out of your sight!"
   6: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007A [0x21] END_EVENT
@@ -850,26 +850,26 @@ SUBROUTINE_0066:
   2: 0x0087 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0088 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0089 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x009C
-  5: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  5: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   6: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  7: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   8: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0099 [0x01] GOTO 0x00C2
  10: 0x009C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00AF
- 11: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 11: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  12: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 13: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  14: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00AC [0x01] GOTO 0x00C2
  16: 0x00AF [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00C2
- 17: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7573*)
+ 17: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
     → "I'm glad ya decided to walk in my door. It's okay, you can tear up a little."
  18: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7574*)
+ 19: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7575*)
     → "Take that feelin' and burn it deep into your heart."
  20: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00BF [0x01] GOTO 0x00C2
@@ -927,11 +927,11 @@ SUBROUTINE_00C2:
   2: 0x00CB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00CC [0x03] Work_Zone[2] = 2163*
   4: 0x00D1 [0x03] Work_Zone[3] = 2*
-  5: 0x00D6 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [10541*]:
+  5: 0x00D6 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [10542*]:
     → "I need to have $1 $0 to make my charm against the darkness."
   6: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00DE [0x03] Work_Zone[3] = 1*
-  8: 0x00E3 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [10542*]:
+  8: 0x00E3 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [10543*]:
     → "I only need $1 more! Get on it, <Player>!"
   9: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00EB [0x21] END_EVENT
@@ -1120,20 +1120,20 @@ SUBROUTINE_00C2:
   2: 0x00FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00FB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00FC [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0117
-  5: 0x0104 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7641*]:
+  5: 0x0104 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7642*]:
     → "You still here? Head to the Alzadaal Undersea Ruins and scout the area."
   6: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x010C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7642*]:
+  7: 0x010C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7643*]:
     → "This is a direct rrrequest from the Empress. If you mess this up, someone's head is gonna rrroll!"
   8: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0114 [0x01] GOTO 0x012F
- 10: 0x0117 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7643*]:
+ 10: 0x0117 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7644*]:
     → "How do ya get to the ruins? Are ya ears filled with cotton?"
  11: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x011F [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7644*]:
+ 12: 0x011F [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7645*]:
     → "If ya can't learn to listen the first time, you'll just have to ask one of the Imperial soldiers."
  13: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0127 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7645*]:
+ 14: 0x0127 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [7646*]:
     → "I'm sure they'll be happy to point ya in the rrright direction."
  15: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1192,26 +1192,26 @@ SUBROUTINE_012F:
   2: 0x013C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x013D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x013E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0151
-  5: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  5: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   6: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  7: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   8: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x014E [0x01] GOTO 0x0177
  10: 0x0151 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0164
- 11: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 11: 0x0159 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  12: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 13: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  14: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0161 [0x01] GOTO 0x0177
  16: 0x0164 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0177
- 17: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
+ 17: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
     → "I don't like bein' manipulated, even if it is by the Empress herself."
  18: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+ 19: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "Time to remind the Empire that the wildcat has claws..."
  20: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0174 [0x01] GOTO 0x0177
@@ -1266,13 +1266,13 @@ SUBROUTINE_0177:
   0: 0x017A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x017F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0180 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+  3: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "A lot of people have been seein' that ship in the waters around the Arrapago Islands. Ya might wanna try interrogatin' the Nashmau locals first and see what ya can find out."
   4: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+  5: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
     → "Go after that ghost ship and don't come back till ya learn somethin' useful!"
   6: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+  7: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "With the rrreward I'm expectin' from the Empress, this company'll be rollin' in cash for the next ten years."
   8: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x018D [0x21] END_EVENT
@@ -1324,13 +1324,13 @@ SUBROUTINE_0177:
   0: 0x0190 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0195 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0196 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
+  3: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
     → "And if ya come back with any more half-baked ghost stories, I'll take this morningstar and show you just how "affectionate" I can be!"
   4: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
+  5: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
     → "Why don't ya go check out Dvucca Isle yourself, and take that coin with you."
   6: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
+  7: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
     → "He said somethin' about feelin' an "ominous presence" to the west of Dvucca Isle..."
   8: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01A3 [0x21] END_EVENT
@@ -1404,7 +1404,7 @@ SUBROUTINE_0177:
   0: 0x01A7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01AC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01AD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
+  3: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
     → "When you're rrready to go to the palace, come and show me your wardrobe. I'll see if ya pass muster."
   4: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B2 [0x21] END_EVENT
@@ -1437,29 +1437,29 @@ SUBROUTINE_0177:
   1: 0x01B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01BB [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x01D6
-  4: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
+  4: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
     → "Choose your words carefully when you're speakin' with the Empress."
   5: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+  6: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "Oh, and rrremember that weapons are forbidden within the palace grounds."
   7: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+  8: 0x01CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "At least ya know how to drrress. Ya shouldn't have a prrroblem in that department."
   9: 0x01CE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+ 10: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "Okay, then. I'll meet ya by the Imperial Whitegate."
  11: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01D3 [0x01] GOTO 0x01E6
- 13: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8013*)
+ 13: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
     → "Choose your words carefully when you're speakin' with the Empress."
  14: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+ 15: 0x01DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "Oh, and rrremember that weapons are forbidden within the palace grounds."
  16: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
+ 17: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
     → "What happened to the outfit you were wearing before!?"
  18: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+ 19: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "We can't have ya turnin' up to the palace in that..."
  20: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1519,27 +1519,27 @@ SUBROUTINE_01E6:
   2: 0x01F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x01F5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0208
-  5: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  5: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   6: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  7: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   8: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0205 [0x01] GOTO 0x0233
  10: 0x0208 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x021B
- 11: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 11: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  12: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 13: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  14: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0218 [0x01] GOTO 0x0233
  16: 0x021B [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0233
  17: 0x0223 [0x03] Work_Zone[2] = 16070*
- 18: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+ 18: 0x0228 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "When you've managed to become the best mercenary ya can be, I'll be rrready to hand over the $0 to ya."
  19: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+ 20: 0x022C [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "Of course, if ya start slackin' off, I might change my mind and just sell it at the auction house."
  21: 0x022F [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0230 [0x01] GOTO 0x0233
@@ -3294,10 +3294,10 @@ SUBROUTINE_0233:
   0: 0x06D2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x06D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x06D9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9254*]:
+  3: 0x06D9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9255*]:
     → "What are ya doin' hangin' around here? Are ya trrryin' to stain my company's good name by keepin' the Grrrand Vizier waitin'?"
   4: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x06E1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9255*]:
+  5: 0x06E1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9256*]:
     → "Go on! Get that mercenary backside over to the palace!"
   6: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x06E9 [0x21] END_EVENT
@@ -3328,13 +3328,13 @@ SUBROUTINE_0233:
   0: 0x06EB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x06F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x06F2 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9256*]:
+  3: 0x06F2 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9257*]:
     → "Well, well. If it isn't [Lord/Lady] <Player> back from the palace. Might this humble servant of the Empire inquire as to the objective of your mission?"
   4: 0x06F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x06FA [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9257*]:
+  5: 0x06FA [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9258*]:
     → "Is that rrright? Top secret, you say? Not for my common ears to hear, is it?"
   6: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0702 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9258*]:
+  7: 0x0702 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9259*]:
     → "Well, that's all fine and good. If it boosts my prrrofit margin, I can live with a little secrecy. Don't mess it up!"
   8: 0x0709 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x070A [0x21] END_EVENT
@@ -3365,13 +3365,13 @@ SUBROUTINE_0233:
   0: 0x070C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0711 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0712 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0713 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9259*]:
+  3: 0x0713 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9260*]:
     → "Hm? How's Gessho been doin'?"
   4: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x071B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9260*]:
+  5: 0x071B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9261*]:
     → "Hmph. To be blunt, his attendance rrrecord is fast brrringin' the chopper down on his feathered neck."
   6: 0x0722 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0723 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9261*]:
+  7: 0x0723 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9262*]:
     → "Don't you be learnin' any bad habits, or you'll be joinin' him on the block!"
   8: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x072B [0x21] END_EVENT
@@ -3402,13 +3402,13 @@ SUBROUTINE_0233:
   0: 0x072D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0732 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0733 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0734 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9262*]:
+  3: 0x0734 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9263*]:
     → "Have I heard anythin' about the ghost ship!?"
   4: 0x073B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x073C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9263*]:
+  5: 0x073C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9264*]:
     → "<Shiver>... Don't ask me questions concernin' "otherworldly" subjects!"
   6: 0x0743 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0744 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9264*]:
+  7: 0x0744 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9265*]:
     → "Besides, weren't ya the one who was blatherin' about boardin' that crrrime against nature somewhere off the coast of Dvucca Isle?"
   8: 0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x074C [0x21] END_EVENT
@@ -3439,13 +3439,13 @@ SUBROUTINE_0233:
   0: 0x074E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0753 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0754 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0755 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9265*]:
+  3: 0x0755 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9266*]:
     → "Hm? Ya can get to the Dvucca Isle stagin' point in a hop, skip, and a jump from the Chamber of Passage."
   4: 0x075C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x075D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9266*]:
+  5: 0x075D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9267*]:
     → "Didn't I tell ya to ask at the Commissions Agency for that kinda basic information?"
   6: 0x0764 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0765 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9267*]:
+  7: 0x0765 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9268*]:
     → "Don't ya ever come askin' me about standard procedure again, ya hear?"
   8: 0x076C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x076D [0x21] END_EVENT
@@ -3481,29 +3481,29 @@ SUBROUTINE_0233:
   2: 0x0779 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x077A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x077B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x078E
-  5: 0x0783 [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  5: 0x0783 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   6: 0x0786 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0787 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  7: 0x0787 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   8: 0x078A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x078B [0x01] GOTO 0x07B8
  10: 0x078E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x07A1
- 11: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 11: 0x0796 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  12: 0x0799 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x079A [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 13: 0x079A [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  14: 0x079D [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x079E [0x01] GOTO 0x07B8
  16: 0x07A1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x07B8
- 17: 0x07A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9268*)
+ 17: 0x07A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9269*)
     → "I hope you're keepin' an eye out, <Player>."
  18: 0x07AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x07AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9269*)
+ 19: 0x07AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9270*)
     → "The pride of Salaheem's Sentinels depends on us claimin' the bounty on Duzaf the Blackbelly."
  20: 0x07B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9270*)
+ 21: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9271*)
     → "This is one of those once-in-a-lifetime, make-or-brrreak opportunities!"
  22: 0x07B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x07B5 [0x01] GOTO 0x07B8
@@ -3853,14 +3853,14 @@ SUBROUTINE_07B8:
   0: 0x08EA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x08EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x08F1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11021*]:
+  3: 0x08F1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11022*]:
     → "The Dark Rider has been most frequently sighted in the Wajaom Woodlands, the Bhaflau Thickets, Mount Zhayolm, and Caedarva Mire."
   4: 0x08F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x08F9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11022*]:
+  5: 0x08F9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11023*]:
     → "You should be able to find a hoofprint in one of those areas."
   6: 0x0900 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0901 [0x03] Work_Zone[2] = 824*
-  8: 0x0906 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11023*]:
+  8: 0x0906 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [11024*]:
     → "Now go put that $3 wherever you find a Dark Rider hoofprint!"
   9: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x090E [0x21] END_EVENT
@@ -4481,10 +4481,10 @@ SUBROUTINE_07B8:
   1: 0x0A0D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0A12 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0A13 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0A14 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [8367*]:
+  4: 0x0A14 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [8368*]:
     → "Stop foolin' arrround and get back to work!"
   5: 0x0A1B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A1C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9006*]:
+  6: 0x0A1C [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9007*]:
     → "I don't have time for layabout, good-for-nothin' louts just lookin' to entertain themselves!"
   7: 0x0A23 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A24 [0x21] END_EVENT
@@ -4515,10 +4515,10 @@ SUBROUTINE_07B8:
   1: 0x0A27 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0A2C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0A2D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0A2E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9015*]:
+  4: 0x0A2E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9016*]:
     → "Don't ya be tellin' me you're too afrrraid to do as the ambassador asks!"
   5: 0x0A35 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A36 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9016*]:
+  6: 0x0A36 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9017*]:
     → "Get your gear together and prrresent yourself at the Navukgo Execution Chamber!"
   7: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A3E [0x21] END_EVENT
@@ -4549,10 +4549,10 @@ SUBROUTINE_07B8:
   1: 0x0A41 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0A46 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0A47 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0A48 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9025*]:
+  4: 0x0A48 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9026*]:
     → "I can't even stand to look at your smug face rrright now!!!"
   5: 0x0A4F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A50 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9026*]:
+  6: 0x0A50 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9027*]:
     → "Get outta my office and outta my sight before I tenderrrize your hide and have mercenary steaks for dinner!"
   7: 0x0A57 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A58 [0x21] END_EVENT
@@ -4590,32 +4590,32 @@ SUBROUTINE_07B8:
   3: 0x0A65 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0A66 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0A67 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0A7A
-  6: 0x0A6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7136*)
+  6: 0x0A6F [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
     → "Hoho, the [/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] is back. Just who d'ya think you are, waitin' around for the world to come to you?"
   7: 0x0A72 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0A73 [0x1D] PRINT_EVENT_MESSAGE(message_id=7137*)
+  8: 0x0A73 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
     → "We've got no place for sluggards here. Get your head outta the clouds and get to work!"
   9: 0x0A76 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0A77 [0x01] GOTO 0x0AB8
  11: 0x0A7A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0A8D
- 12: 0x0A82 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 12: 0x0A82 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  13: 0x0A85 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0A86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+ 14: 0x0A86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "Salaheem's Sentinels are known for quality, precision, and speed. So get out there and prrrove your worth!"
  15: 0x0A89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0A8A [0x01] GOTO 0x0AB8
  17: 0x0A8D [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0AB8
- 18: 0x0A95 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9031*]:
+ 18: 0x0A95 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9032*]:
     → "Did ya manage to "apprrropriate" the money yet...?"
  19: 0x0A9C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0A9D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9032*]:
+ 20: 0x0A9D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9033*]:
     → "I told ya, the rrreward is all yours. Ya don't need to make a formal rrreport..."
  21: 0x0AA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0AA5 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9033*]:
+ 22: 0x0AA5 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9034*]:
     → "Surely..."
  23: 0x0AAC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0AAD [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9034*]:
+ 24: 0x0AAD [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9035*]:
     → "Ya wouldn't be keeping quiet 'cos ya think I'll "apprrropriate" the money from ya, now would ya?"
  25: 0x0AB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0AB5 [0x01] GOTO 0x0AB8
@@ -4663,45 +4663,45 @@ SUBROUTINE_0AB8:
   5: 0x0ACB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0ACC [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0AE1
   7: 0x0AD4 [0x03] Work_Zone[2] = 5573*
-  8: 0x0AD9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9662*]:
+  8: 0x0AD9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9663*]:
     → "Well, if it isn't $0!"
   9: 0x0AE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0AE1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0AF6
  11: 0x0AE9 [0x03] Work_Zone[2] = 5578*
- 12: 0x0AEE [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9662*]:
+ 12: 0x0AEE [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9663*]:
     → "Well, if it isn't $0!"
  13: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0AF6 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9663*]:
+ 14: 0x0AF6 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9664*]:
     → "Somethin' on your mind, <Player>?"
  15: 0x0AFD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0AFE [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9664*]:
+ 16: 0x0AFE [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9665*]:
     → "Ya say ya wanna show how much ya apprrreciate each and every day you work here? Have ya been talkin' to Abquhbah again?"
  17: 0x0B05 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0B06 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9665*]:
+ 18: 0x0B06 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9666*]:
     → "Ya know, I've always prrreferred a perspirin' mercenary to a perceptive mercenary..."
  19: 0x0B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0B0E [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0B23
  21: 0x0B16 [0x03] Work_Zone[2] = 5573*
- 22: 0x0B1B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9666*]:
+ 22: 0x0B1B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9667*]:
     → "But I can't fault ya choice in desserts."
  23: 0x0B22 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0B23 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0B38
  25: 0x0B2B [0x03] Work_Zone[2] = 5578*
- 26: 0x0B30 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9666*]:
+ 26: 0x0B30 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9667*]:
     → "But I can't fault ya choice in desserts."
  27: 0x0B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0B38 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 29: 0x0B3D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9667*]:
+ 29: 0x0B3D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9668*]:
     → "Good work[./, Private Second Class./, Private First Class./, Superior Private./, Lance Corporal./, Corporal./, Sergeant./, Sergeant Major./, Chief Sergeant./, Second Lieutenant./, First Lieutenant./, Captain.]"
  30: 0x0B44 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0B45 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9668*]:
+ 31: 0x0B45 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9669*]:
     → "Now here's a little somethin' from me."
  32: 0x0B4C [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0B4D [0x03] Work_Zone[2] = 4182*
- 34: 0x0B52 [0x48] [System] [9669*]:
+ 34: 0x0B52 [0x48] [System] [9670*]:
     → "Naja Salaheem hands you $0!"
  35: 0x0B55 [0x1C] WAIT(60* ticks)
- 36: 0x0B58 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9670*]:
+ 36: 0x0B58 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9671*]:
     → "Makes your eyes well up with tears of joy, don't it?"
  37: 0x0B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0B60 [0x21] END_EVENT
@@ -5023,28 +5023,28 @@ SUBROUTINE_0AB8:
   1: 0x0BBA [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0BBF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0BC0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0BC1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9336*]:
+  4: 0x0BC1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9337*]:
     → "Was there somethin' ya wanted to ask about the Black Coffin?"
   5: 0x0BC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0BC9 [0x24] CREATE_DIALOG(message_id=9337*, default_option=0*, option_flags=0*)
+  6: 0x0BC9 [0x24] CREATE_DIALOG(message_id=9338*, default_option=0*, option_flags=0*)
     → "Somethin' ya wanted to ask about? [The cutter./The fare.]"
   7: 0x0BD0 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0BD1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BF4
-  9: 0x0BD9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9338*]:
+  9: 0x0BD9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9339*]:
     → "The cutter...? Now where was that little boat?"
  10: 0x0BE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0BE1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9339*]:
+ 11: 0x0BE1 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9340*]:
     → "Ah, that's rrright. Ya gotta head to the edge of Dvucca Isle, and find that ancient corsair's pier."
  12: 0x0BE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0BE9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9340*]:
+ 13: 0x0BE9 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9341*]:
     → "Ya should be able to take the cutter from there to the Black Coffin. Wait...weren't ya the one who told me that in the first place?"
  14: 0x0BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0BF1 [0x01] GOTO 0x0C0F
  16: 0x0BF4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C0F
- 17: 0x0BFC [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9341*]:
+ 17: 0x0BFC [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9342*]:
     → "Didn't ya tell me the cutter was rrrun by a corsair spirit?"
  18: 0x0C03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x0C04 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9342*]:
+ 19: 0x0C04 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9343*]:
     → "I wonder if a specter like that would be willin' to accept Imperial currency..."
  20: 0x0C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0C0C [0x01] GOTO 0x0C0F
@@ -5323,24 +5323,24 @@ SUBROUTINE_0C0F:
   1: 0x0C1D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0C22 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0C23 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0C24 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9497*]:
+  4: 0x0C24 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9498*]:
     → "Doo da doo da doo$6zaf will be minet."
   5: 0x0C2B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0C2C [0x03] Work_Zone[2] = 2187*
   7: 0x0C31 [0x03] Work_Zone[3] = 2000*
-  8: 0x0C36 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9498*]:
+  8: 0x0C36 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9499*]:
     → "Can ya imagine it, <Player>? $1$0..."
   9: 0x0C3D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0C3E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9499*]:
+ 10: 0x0C3E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9500*]:
     → "With that kind of capital, I'll be able to build a string of offices in the Middle Lands."
  11: 0x0C45 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0C46 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9500*]:
+ 12: 0x0C46 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9501*]:
     → "San d'Oria, Bastok...hell, even Olzhirya, way to the south..."
  13: 0x0C4D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0C4E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9501*]:
+ 14: 0x0C4E [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9502*]:
     → "I'm gonna have to pass on Windurst, though."
  15: 0x0C55 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0C56 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9502*]:
+ 16: 0x0C56 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9503*]:
     → "So... I don't wanna see any slackin' in your efforts to uncover Duzaf's trrrue, accurate, one-hundred-percent-certain identity!"
  17: 0x0C5D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0C5E [0x21] END_EVENT
@@ -5374,19 +5374,19 @@ SUBROUTINE_0C0F:
   2: 0x0C66 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0C67 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0C68 [0x03] Work_Zone[2] = 893*
-  5: 0x0C6D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9503*]:
+  5: 0x0C6D [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9504*]:
     → "Hm? The $3? No idea what you're talkin' about."
   6: 0x0C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0C75 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9504*]:
+  7: 0x0C75 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9505*]:
     → "(Wait...she did choose <Player> as a messenger. Maybe...)"
   8: 0x0C7C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0C7D [0x48] [System] [9505*]:
+  9: 0x0C7D [0x48] [System] [9506*]:
     → "Naja Salaheem stares piercingly at <Player>..."
  10: 0x0C80 [0x1C] WAIT(60* ticks)
- 11: 0x0C83 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9506*]:
+ 11: 0x0C83 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9507*]:
     → "Nah..."
  12: 0x0C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0C8B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9507*]:
+ 13: 0x0C8B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [9508*]:
     → "No idea, I told ya! Out with ya! Out!"
  14: 0x0C92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0C93 [0x21] END_EVENT
@@ -5591,32 +5591,32 @@ SUBROUTINE_0C0F:
   0: 0x0CD7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0CDC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0CDD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=9546*)
+  3: 0x0CDE [0x1D] PRINT_EVENT_MESSAGE(message_id=9547*)
     → "Ah, just the mercenary I wanted to see. Tell me, have ya been to Nyzul Isle at all?"
   4: 0x0CE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0CE2 [0x24] CREATE_DIALOG(message_id=9547*, default_option=0*, option_flags=0*)
+  5: 0x0CE2 [0x24] CREATE_DIALOG(message_id=9548*, default_option=0*, option_flags=0*)
     → "Been to Nyzul Isle? [I just got back from there!/Not recently, no.]"
   6: 0x0CE9 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0CEA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0CFC
-  8: 0x0CF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9551*)
+  8: 0x0CF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9552*)
     → "No? Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all. Carry on, soldier."
   9: 0x0CF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0CF6 [0x01] GOTO 0x0D26
 
 SUBROUTINE_0CFC:
- 11: 0x0CFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9548*)
+ 11: 0x0CFC [0x1D] PRINT_EVENT_MESSAGE(message_id=9549*)
     → "Is that rrright!? I should've expected nothing less from ya, [entry-level employee/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. So, what's it like in there?"
  12: 0x0CFF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0D00 [0x24] CREATE_DIALOG(message_id=9549*, default_option=0*, option_flags=0*)
+ 13: 0x0D00 [0x24] CREATE_DIALOG(message_id=9550*, default_option=0*, option_flags=0*)
     → "What's it like? [Full of nasty monsters./Not as tough as you'd think.]"
  14: 0x0D07 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0D08 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D17
- 16: 0x0D10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9550*)
+ 16: 0x0D10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9551*)
     → "Hmmm... Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all."
  17: 0x0D13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0D14 [0x01] GOTO 0x0D26
  19: 0x0D17 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0D26
- 20: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9550*)
+ 20: 0x0D1F [0x1D] PRINT_EVENT_MESSAGE(message_id=9551*)
     → "Hmmm... Well...I heard that there was a lot of trrreasure to be found. Got my whiskers to twitchin', is all."
  21: 0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0D23 [0x01] GOTO 0x0D26
@@ -5656,10 +5656,10 @@ SUBROUTINE_0D26:
   0: 0x0D28 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0D2D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D2E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9904*)
+  3: 0x0D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
     → "Ya leave that luscious Luzaf to me! Ya just concentrrrate on protectin' the Empress."
   4: 0x0D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9905*)
+  5: 0x0D33 [0x1D] PRINT_EVENT_MESSAGE(message_id=9906*)
     → "Don't go losin' your mercenary mettle!"
   6: 0x0D36 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0D37 [0x21] END_EVENT
@@ -5689,7 +5689,7 @@ SUBROUTINE_0D26:
   0: 0x0D39 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0D3E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D3F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0D40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9943*)
+  3: 0x0D40 [0x1D] PRINT_EVENT_MESSAGE(message_id=9944*)
     → "You better get prrreparin' for your visit to the palace! If ya show up late to the ceremony, I'll have your hide for a thrrrow rug!"
   4: 0x0D43 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0D44 [0x21] END_EVENT
@@ -5724,21 +5724,21 @@ SUBROUTINE_0D26:
   3: 0x0D51 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0D52 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0D53 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0D66
-  6: 0x0D5B [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
+  6: 0x0D5B [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
     → "[/Private Second Class/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain] <Player>. Ya look surprrrisingly free of worries, considerin'..."
   7: 0x0D5E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
+  8: 0x0D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
     → "...the immense debt you owe to Salaheem's Sentinels! Why aren't ya out there makin' fistfuls of money!?"
   9: 0x0D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0D63 [0x01] GOTO 0x0D7D
  11: 0x0D66 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0D7D
- 12: 0x0D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 12: 0x0D6E [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Good [boy/girl]. Keep gettin' those jobs done."
  13: 0x0D71 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0D72 [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
+ 14: 0x0D72 [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
     → "Quality. Precision. Speed. That's our motto."
  15: 0x0D75 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0D76 [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
+ 16: 0x0D76 [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
     → "Keep ya nose to the grrrindstone, <Player>! You've still got a hell of a large debt to pay off!"
  17: 0x0D79 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0D7A [0x01] GOTO 0x0D7D
@@ -5861,17 +5861,17 @@ SUBROUTINE_0D7D:
   2: 0x0DCA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0DCB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0DCC [0x03] Work_Zone[2] = 899*
-  5: 0x0DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+  5: 0x0DD1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Ya did what!? Ya lost the $3 entrrrusted to ya by Her Magnificence!"
   6: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0DD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
+  7: 0x0DD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
     → "I've got no time to lecture ya rrright now..."
   8: 0x0DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0DD9 [0x03] Work_Zone[2] = 899*
- 10: 0x0DDE [0x48] [System] [9910*]:
+ 10: 0x0DDE [0x48] [System] [9911*]:
     → "Naja Salaheem hands you another $3!"
  11: 0x0DE1 [0x1C] WAIT(60* ticks)
- 12: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
+ 12: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9912*)
     → "Just be sure ya take better care of Empress Nashmeira!"
  13: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0DE8 [0x21] END_EVENT
@@ -6047,10 +6047,10 @@ SUBROUTINE_0D7D:
   1: 0x0E1C [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0E21 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0E22 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0E23 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [14539*]:
+  4: 0x0E23 [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [14540*]:
     → "Well that about wraps this up. Captain <Player>! A sincere congratulations on your most recent glories."
   5: 0x0E2A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0E2B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [14540*]:
+  6: 0x0E2B [0x2B] Naja Salaheem (ID: 16982156/0x0103208C) [14541*]:
     → "All this excitement has left me a tad drained. I think I'll go ahead and take that extended break I've been meaning to get around to. Hey, I know! In the meantime, you could go and visit your Qiqirn friend in Nashmau! Hahaha! Oh, that's rrrich."
   7: 0x0E32 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0E33 [0x21] END_EVENT

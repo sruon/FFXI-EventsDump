@@ -31,57 +31,57 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00D7      |         215 |
-|       1 | 0x1CF0      |        7408 |
-|       2 | 0x1CF2      |        7410 |
-|       3 | 0x1CF3      |        7411 |
-|       4 | 0x1CF4      |        7412 |
-|       5 | 0x1CF5      |        7413 |
-|       6 | 0x1CF6      |        7414 |
-|       7 | 0x1CF7      |        7415 |
-|       8 | 0x1CF8      |        7416 |
-|       9 | 0x1CFA      |        7418 |
-|      10 | 0x1CFB      |        7419 |
-|      11 | 0x1CFC      |        7420 |
-|      12 | 0x1CFD      |        7421 |
-|      13 | 0x1D09      |        7433 |
-|      14 | 0x1D0A      |        7434 |
-|      15 | 0x1D0B      |        7435 |
+|       1 | 0x1CF1      |        7409 |
+|       2 | 0x1CF3      |        7411 |
+|       3 | 0x1CF4      |        7412 |
+|       4 | 0x1CF5      |        7413 |
+|       5 | 0x1CF6      |        7414 |
+|       6 | 0x1CF7      |        7415 |
+|       7 | 0x1CF8      |        7416 |
+|       8 | 0x1CF9      |        7417 |
+|       9 | 0x1CFB      |        7419 |
+|      10 | 0x1CFC      |        7420 |
+|      11 | 0x1CFD      |        7421 |
+|      12 | 0x1CFE      |        7422 |
+|      13 | 0x1D0A      |        7434 |
+|      14 | 0x1D0B      |        7435 |
+|      15 | 0x1D0C      |        7436 |
 |      16 | 0x0000      |           0 |
 |      17 | 0x060E      |        1550 |
-|      18 | 0x1D0C      |        7436 |
-|      19 | 0x1D0D      |        7437 |
-|      20 | 0x1D0E      |        7438 |
-|      21 | 0x1D0F      |        7439 |
+|      18 | 0x1D0D      |        7437 |
+|      19 | 0x1D0E      |        7438 |
+|      20 | 0x1D0F      |        7439 |
+|      21 | 0x1D10      |        7440 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x1D8A      |        7562 |
-|      24 | 0x1D19      |        7449 |
+|      23 | 0x1D8B      |        7563 |
+|      24 | 0x1D1A      |        7450 |
 |      25 | 0x000B      |          11 |
 |      26 | 0x07FE      |        2046 |
 |      27 | 0x0004      |           4 |
-|      28 | 0x1D1B      |        7451 |
+|      28 | 0x1D1C      |        7452 |
 |      29 | 0x0001      |           1 |
 |      30 | 0x0002      |           2 |
 |      31 | 0x0003      |           3 |
-|      32 | 0x1D1C      |        7452 |
-|      33 | 0x1D1E      |        7454 |
-|      34 | 0x1D22      |        7458 |
+|      32 | 0x1D1D      |        7453 |
+|      33 | 0x1D1F      |        7455 |
+|      34 | 0x1D23      |        7459 |
 |      35 | 0x05AF      |        1455 |
 |      36 | 0x05B0      |        1456 |
-|      37 | 0x1CEA      |        7402 |
+|      37 | 0x1CEB      |        7403 |
 |      38 | 0x05B1      |        1457 |
-|      39 | 0x1CEC      |        7404 |
-|      40 | 0x1CEE      |        7406 |
-|      41 | 0x1D24      |        7460 |
-|      42 | 0x1D2F      |        7471 |
+|      39 | 0x1CED      |        7405 |
+|      40 | 0x1CEF      |        7407 |
+|      41 | 0x1D25      |        7461 |
+|      42 | 0x1D30      |        7472 |
 |      43 | 0x0005      |           5 |
-|      44 | 0x1D30      |        7472 |
-|      45 | 0x1D26      |        7462 |
-|      46 | 0x1D28      |        7464 |
-|      47 | 0x1E24      |        7716 |
+|      44 | 0x1D31      |        7473 |
+|      45 | 0x1D27      |        7463 |
+|      46 | 0x1D29      |        7465 |
+|      47 | 0x1E25      |        7717 |
 |      48 | 0x2710      |       10000 |
 |      49 | 0x3A98      |       15000 |
 |      50 | 0x4E20      |       20000 |
-|      51 | 0x1E26      |        7718 |
+|      51 | 0x1E27      |        7719 |
 |      52 | 0x0766      |        1894 |
 |      53 | 0x0767      |        1895 |
 |      54 | 0x0768      |        1896 |
@@ -96,48 +96,48 @@
 |      63 | 0x0009      |           9 |
 |      64 | 0x076E      |        1902 |
 |      65 | 0x076F      |        1903 |
-|      66 | 0x1E27      |        7719 |
-|      67 | 0x1D8C      |        7564 |
+|      66 | 0x1E28      |        7720 |
+|      67 | 0x1D8D      |        7565 |
 
 ## String References
 
-- **7402**: Lemme see here. Looks like you've brought me $1 $0 . A deal's a deal, so here's the $2.
-- **7404**: Whatcha got there? Looks like $1 $0 . Guess that means I gotta give you this $2.
-- **7406**: Well, you make an old Gob smile, you do. Not many people hand over $1 $0 . Take this $2 and get outta here.
-- **7408**: Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
-- **7410**: $3? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
-- **7411**: There's a story that says some things have their own soul.
-- **7412**: The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
-- **7413**: They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
-- **7414**: Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
-- **7415**: You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
-- **7416**: They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil.
-- **7418**: You want one, you hand me over the money. Like, with a quickness. So how's about it?
-- **7419**: What's that you got there? $0? You're quite the collector for one o' your kind.
-- **7420**: It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1.
-- **7421**: I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?
-- **7433**: I got a proposition for you. Before the Great War, a different currency was used in each of the three nations.
-- **7434**: But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me.
-- **7435**: You've never seen them before? Here, take a look at this.
-- **7436**: This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these.
-- **7437**: The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
-- **7438**: One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started.
-- **7439**: If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
-- **7449**: Hmm? Was there something you wanted to ask me?
-- **7451**: What do you want to ask about? [Nothing./Hourglasses./Maps./Old currencies./Trading $1.]
-- **7452**: Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
-- **7454**: I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime.
-- **7458**: Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
-- **7460**: Here's the list of stuff you can trade your $0 for.
-- **7462**: This is $0. You want one, you're gonna have to bring me $2 $0$0 .
-- **7464**: What do you want to ask about? [Nothing./Hourglasses.]
-- **7471**: Which item will you look at? [View next page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./$7: $6 [bill/bills]./Nothing.]
-- **7472**: Which item will you look at? [View previous page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./Nothing.]
-- **7562**: I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away.
-- **7564**: Alrighty, $2 $0$0 in exchange for your $0.
-- **7716**: Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
-- **7718**: Buy a map? (Current gil: $11). [Not now./Dynamis - San d'Oria ($1)./Dynamis - Bastok ($2)./Dynamis - Windurst ($3)./Dynamis - Jeuno ($4)./Dynamis - Beaucedine ($5)./Dynamis - Xarcabard ($6)./Dynamis - Valkurm ($7)./Dynamis - Buburimu ($8)./Dynamis - Qufim ($9)./Dynamis - Tavnazia ($10).]
-- **7719**: Buy $6? [Deal!/No deal.]
+- **7403**: Lemme see here. Looks like you've brought me $1 $0 . A deal's a deal, so here's the $2.
+- **7405**: Whatcha got there? Looks like $1 $0 . Guess that means I gotta give you this $2.
+- **7407**: Well, you make an old Gob smile, you do. Not many people hand over $1 $0 . Take this $2 and get outta here.
+- **7409**: Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy.
+- **7411**: $3? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person.
+- **7412**: There's a story that says some things have their own soul.
+- **7413**: The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings.
+- **7414**: They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing.
+- **7415**: Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul.
+- **7416**: You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk.
+- **7417**: They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil.
+- **7419**: You want one, you hand me over the money. Like, with a quickness. So how's about it?
+- **7420**: What's that you got there? $0? You're quite the collector for one o' your kind.
+- **7421**: It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1.
+- **7422**: I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?
+- **7434**: I got a proposition for you. Before the Great War, a different currency was used in each of the three nations.
+- **7435**: But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me.
+- **7436**: You've never seen them before? Here, take a look at this.
+- **7437**: This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these.
+- **7438**: The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got.
+- **7439**: One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started.
+- **7440**: If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however.
+- **7450**: Hmm? Was there something you wanted to ask me?
+- **7452**: What do you want to ask about? [Nothing./Hourglasses./Maps./Old currencies./Trading $1.]
+- **7453**: Old currencies? I was telling you about how the three nations all used to have different types of money. You remember, right?
+- **7455**: I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime.
+- **7459**: Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person.
+- **7461**: Here's the list of stuff you can trade your $0 for.
+- **7463**: This is $0. You want one, you're gonna have to bring me $2 $0$0 .
+- **7465**: What do you want to ask about? [Nothing./Hourglasses.]
+- **7472**: Which item will you look at? [View next page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./$7: $6 [bill/bills]./Nothing.]
+- **7473**: Which item will you look at? [View previous page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./Nothing.]
+- **7563**: I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away.
+- **7565**: Alrighty, $2 $0$0 in exchange for your $0.
+- **7717**: Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment.
+- **7719**: Buy a map? (Current gil: $11). [Not now./Dynamis - San d'Oria ($1)./Dynamis - Bastok ($2)./Dynamis - Windurst ($3)./Dynamis - Jeuno ($4)./Dynamis - Beaucedine ($5)./Dynamis - Xarcabard ($6)./Dynamis - Valkurm ($7)./Dynamis - Buburimu ($8)./Dynamis - Qufim ($9)./Dynamis - Tavnazia ($10).]
+- **7720**: Buy $6? [Deal!/No deal.]
 
 ## Events
 
@@ -185,7 +185,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "Whaddaya want? You wanna talk to me? Well, I don't wanna talk to you until you got something I wanna hear. Take a hike, buddy."
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x21] END_EVENT
@@ -220,39 +220,39 @@
   0: 0x001B [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0021 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  3: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
+  3: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
     → "$3? Didn't think I'd ever hear those words from someone who wasn't a Gob. You know some weird stuff, for a person."
   4: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0034 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  6: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
+  6: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
     → "There's a story that says some things have their own soul."
   7: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  8: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
   9: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+ 10: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
  11: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x004F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
- 13: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+ 13: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
  14: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+ 15: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
  16: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+ 17: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil."
  18: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+ 19: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "You want one, you hand me over the money. Like, with a quickness. So how's about it?"
  20: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+ 21: 0x006E [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "What's that you got there? $0? You're quite the collector for one o' your kind."
  22: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+ 23: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1."
  24: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+ 25: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?"
  26: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x007A [0x21] END_EVENT
@@ -302,46 +302,46 @@
   7: 0x009B [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[6]
   8: 0x00A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   9: 0x00A5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
- 10: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+ 10: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "I got a proposition for you. Before the Great War, a different currency was used in each of the three nations."
  11: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+ 12: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me."
  13: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+ 14: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "You've never seen them before? Here, take a look at this."
  15: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
  17: 0x00CF [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[9])
  18: 0x00D2 [0x03] Work_Zone[9] = 0*
  19: 0x00D7 [0x03] Work_Zone[2] = 1550*
- 20: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+ 20: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these."
  21: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00E0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)]
  23: 0x00ED [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  24: 0x00F0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
- 25: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+ 25: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got."
  26: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0103 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
  28: 0x0108 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
  29: 0x010D [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
  30: 0x0112 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
- 31: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+ 31: 0x0121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started."
  32: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0125 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
  34: 0x012A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
  35: 0x012F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[8]
- 36: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+ 36: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
  37: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0138 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
  39: 0x0147 [0x03] Work_Zone[1] = 10*
  40: 0x014C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  41: 0x014E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 42: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+ 42: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
     → "I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away."
  43: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0154 [0x21] END_EVENT
@@ -390,7 +390,7 @@
   7: 0x0179 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[9]
   8: 0x017E [0x03] ExtData[1]->WorkLocal[9] = ExtData[1]->WorkLocal[6]
   9: 0x0183 [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[7]
- 10: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+ 10: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "Hmm? Was there something you wanted to ask me?"
  11: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x018C [0x03] Work_Zone[1] = 11*
@@ -406,7 +406,7 @@ SUBROUTINE_01AA:
  20: 0x01AF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
  21: 0x01B4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[8]
  22: 0x01B9 [0x03] Work_Zone[5] = 1550*
- 23: 0x01BE [0x24] CREATE_DIALOG(message_id=7451*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+ 23: 0x01BE [0x24] CREATE_DIALOG(message_id=7452*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "What do you want to ask about? [Nothing./Hourglasses./Maps./Old currencies./Trading $1.]"
  24: 0x01C5 [0x25] WAIT_DIALOG_SELECT()
  25: 0x01C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D4
@@ -454,7 +454,7 @@ SUBROUTINE_0227:
   0: 0x0229 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x022A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x022F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  3: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  3: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime."
   4: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0242 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -488,7 +488,7 @@ SUBROUTINE_0227:
   0: 0x0260 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0261 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0266 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  3: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  3: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "I didn't think there were people who loved this sorta stuff as much as I do. You really understand what things are worth. I don't give discounts, but you're welcome back anytime."
   4: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0279 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -522,7 +522,7 @@ SUBROUTINE_0227:
   0: 0x0297 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0298 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x029D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-  3: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+  3: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "Yeah, this is the real thing all right. You got some okay junk-collectin' skills for a person."
   4: 0x02AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02B0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -563,7 +563,7 @@ SUBROUTINE_0227:
   5: 0x02E3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
   6: 0x02E8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
   7: 0x02ED [0x1E] EventEntity looks at LocalPlayer and starts talking
-  8: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  8: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → "Lemme see here. Looks like you've brought me $1 $0 . A deal's a deal, so here's the $2."
   9: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02F6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -603,7 +603,7 @@ SUBROUTINE_0227:
   5: 0x0329 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
   6: 0x032E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
   7: 0x0333 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  8: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7404*)
+  8: 0x0338 [0x1D] PRINT_EVENT_MESSAGE(message_id=7405*)
     → "Whatcha got there? Looks like $1 $0 . Guess that means I gotta give you this $2."
   9: 0x033B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x033C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -696,7 +696,7 @@ SUBROUTINE_0227:
 ```
   0: 0x035A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x035B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0360 [0x1D] PRINT_EVENT_MESSAGE(message_id=7406*)
+  2: 0x0360 [0x1D] PRINT_EVENT_MESSAGE(message_id=7407*)
     → "Well, you make an old Gob smile, you do. Not many people hand over $1 $0 . Take this $2 and get outta here."
   3: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0364 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
@@ -710,14 +710,14 @@ SUBROUTINE_0227:
 ```
 # Dead code (unreachable instructions):
      0x0382 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+     0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Here's the list of stuff you can trade your $0 for."
      0x0394 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0395 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x039A [0x03] Work_Zone[1] = 2*
      0x039F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x03A1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x03A3 [0x24] CREATE_DIALOG(message_id=7471*, default_option=0*, option_flags=0*)
+     0x03A3 [0x24] CREATE_DIALOG(message_id=7472*, default_option=0*, option_flags=0*)
     → "Which item will you look at? [View next page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./$7: $6 [bill/bills]./Nothing.]"
      0x03AA [0x25] WAIT_DIALOG_SELECT()
      0x03AB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B9
@@ -747,7 +747,7 @@ SUBROUTINE_0227:
      0x0423 [0x03] Work_Zone[1] = 3*
      0x0428 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x042A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x042C [0x24] CREATE_DIALOG(message_id=7472*, default_option=0*, option_flags=0*)
+     0x042C [0x24] CREATE_DIALOG(message_id=7473*, default_option=0*, option_flags=0*)
     → "Which item will you look at? [View previous page./$1: $0 [bill/bills]./$3: $2 [bill/bills]./$5: $4 [bill/bills]./Nothing.]"
      0x0433 [0x25] WAIT_DIALOG_SELECT()
      0x0434 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0442
@@ -774,7 +774,7 @@ SUBROUTINE_0227:
      0x049C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
      0x04A1 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
      0x04A6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+     0x04B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "This is $0. You want one, you're gonna have to bring me $2 $0$0 ."
      0x04B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04B9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -789,7 +789,7 @@ SUBROUTINE_0227:
      0x04DE [0x03] Work_Zone[1] = 1*
      0x04E3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x04E5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x04E7 [0x24] CREATE_DIALOG(message_id=7464*, default_option=0*, option_flags=0*)
+     0x04E7 [0x24] CREATE_DIALOG(message_id=7465*, default_option=0*, option_flags=0*)
     → "What do you want to ask about? [Nothing./Hourglasses.]"
      0x04EE [0x25] WAIT_DIALOG_SELECT()
      0x04EF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0514
@@ -805,7 +805,7 @@ SUBROUTINE_0227:
      0x0518 [0x03] Work_Zone[1] = 11*
      0x051D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x051F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x0521 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
+     0x0521 [0x1D] PRINT_EVENT_MESSAGE(message_id=7717*)
     → "Maps, ya say? Hah! Just like one o' your kind to need those dingy scraps o' parchment."
      0x0524 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0525 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[3]
@@ -820,7 +820,7 @@ SUBROUTINE_0227:
      0x0552 [0x03] Work_Zone_1700[1] = 10000*
      0x0557 [0x03] Work_Zone_1700[2] = 20000*
      0x055C [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[16]
-     0x0561 [0x24] CREATE_DIALOG(message_id=7718*, default_option=0*, option_flags=Work_Zone[2])
+     0x0561 [0x24] CREATE_DIALOG(message_id=7719*, default_option=0*, option_flags=Work_Zone[2])
     → "Buy a map? (Current gil: $11). [Not now./Dynamis - San d'Oria ($1)./Dynamis - Bastok ($2)./Dynamis - Windurst ($3)./Dynamis - Jeuno ($4)./Dynamis - Beaucedine ($5)./Dynamis - Xarcabard ($6)./Dynamis - Valkurm ($7)./Dynamis - Buburimu ($8)./Dynamis - Qufim ($9)./Dynamis - Tavnazia ($10).]"
      0x0568 [0x25] WAIT_DIALOG_SELECT()
      0x0569 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0577
@@ -856,7 +856,7 @@ SUBROUTINE_0227:
      0x0607 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0617
      0x060F [0x03] Work_Zone[2] = 1903*
      0x0614 [0x01] GOTO 0x0617
-     0x0617 [0x24] CREATE_DIALOG(message_id=7719*, default_option=0*, option_flags=0*)
+     0x0617 [0x24] CREATE_DIALOG(message_id=7720*, default_option=0*, option_flags=0*)
     → "Buy $6? [Deal!/No deal.]"
      0x061E [0x25] WAIT_DIALOG_SELECT()
      0x061F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x063E
@@ -876,76 +876,76 @@ SUBROUTINE_0227:
      0x065D [0x01] GOTO 0x018C
      0x0660 [0x00] END_REQSTACK()
      0x0661 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7411*)
+     0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
     → "There's a story that says some things have their own soul."
      0x0673 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+     0x0674 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "The $5 used to be just simple hourglasses. But as they passed through the hands of dozens of people, and even a few beastmen as well, the hourglasses were transformed by all their thoughts and feelings."
      0x0677 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0678 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+     0x0678 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "They have the ability to focus mysterious powers. In our travels through all the lands of this world, us Goblins often come across this sorta thing."
      0x067B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x067C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x068B [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+     0x068B [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "Now we come to the fun part. If you want a $3, I'd be willing to sell one to you. And you should know that only us Gobs can tell if an item has its own soul."
      0x068E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
+     0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
     → "You people--heck, even other beastmen--have no idea. I've seen you guys throw away these items like they were junk."
      0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7416*)
+     0x0693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7417*)
     → "They may look like garbage, but souled items are rare and valuable. You still want an hourglass, you gotta cough up $3 gil."
      0x0696 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=7418*)
+     0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
     → "You want one, you hand me over the money. Like, with a quickness. So how's about it?"
      0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+     0x069B [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "What's that you got there? $0? You're quite the collector for one o' your kind."
      0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+     0x069F [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "It might just be a worthless piece o' junk for you, but it's priceless to us Gobs. If you want, I can take it off your hands for $1."
      0x06A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
+     0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7422*)
     → "I add to my collection, you get some pocket change. A win-win situation, right? So just trade that $0 on over, why don't ya?"
      0x06A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06A7 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
      0x06AC [0x1B] RETURN
-     0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+     0x06AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "But when gil became the coin of choice, all the other types of money were done away with. Now the old forms of currency are worthless to anyone besides a collector like me."
      0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x06B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+     0x06B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "You've never seen them before? Here, take a look at this."
      0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
      0x06C4 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[9])
      0x06C7 [0x03] Work_Zone[9] = 0*
      0x06CC [0x03] Work_Zone[2] = 1550*
-     0x06D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+     0x06D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "This is the least valuable type. It was part of the currency of [Bastok/Windurst]. Since you were able to find out about the $0, I'm guessing you'll be able to get your hands on a few of these."
      0x06D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06D5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)]
      0x06E2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x06E5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x06F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+     0x06F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "The three nations all had their different types of money, but I'm only interested in the old currency of [Bastok/Windurst]. Collect enough of them and I'll trade you some other stuff I've got."
      0x06F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x06F8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
      0x06FD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
      0x0702 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[7]
      0x0707 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
-     0x0716 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+     0x0716 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "One's not gonna be enough, though. You bring me $1 $0 and I'll trade you a single $2. You don't look real interested, but hold up. I'm just getting started."
      0x0719 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x071A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
      0x071F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
      0x0724 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[8]
-     0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+     0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "If you've got $1 $0 , I'll give you a $2. Either that or I'll trade you for one of the goodies in my treasure hoard. They all go for a different price, however."
      0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x072D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*
      0x073C [0x03] Work_Zone[1] = 10*
      0x0741 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0743 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x0745 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+     0x0745 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
     → "I'll exchange you $2 $0$0 for a $0. They're worth a bunch, so don't go giving 'em away."
      0x0748 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0749 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -979,7 +979,7 @@ SUBROUTINE_0227:
   2: 0x0755 [0x03] Work_Zone[1] = 10*
   3: 0x075A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   4: 0x075C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-  5: 0x075E [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+  5: 0x075E [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "Alrighty, $2 $0$0 in exchange for your $0."
   6: 0x0761 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0762 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Haggleblix (ID: 17379846/0x01093206), Haggleblix (ID: 17379846/0x01093206)], work=215*

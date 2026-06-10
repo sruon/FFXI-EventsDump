@@ -28,7 +28,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0005      |           5 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1E23      |        7715 |
+|       2 | 0x1E24      |        7716 |
 |       3 | 0x003C      |          60 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0013      |          19 |
@@ -223,15 +223,15 @@
 |     194 | 0x2BD87     |      179591 |
 |     195 | 0x005C      |          92 |
 |     196 | 0x0001      |           1 |
-|     197 | 0x1E24      |        7716 |
-|     198 | 0x1E25      |        7717 |
+|     197 | 0x1E25      |        7717 |
+|     198 | 0x1E26      |        7718 |
 |     199 | 0x000F      |          15 |
 |     200 | 0x0010      |          16 |
 |     201 | 0x001F      |          31 |
 |     202 | 0x0003      |           3 |
-|     203 | 0x1E34      |        7732 |
-|     204 | 0x1E33      |        7731 |
-|     205 | 0x1E32      |        7730 |
+|     203 | 0x1E35      |        7733 |
+|     204 | 0x1E34      |        7732 |
+|     205 | 0x1E33      |        7731 |
 |     206 | 0x0115      |         277 |
 |     207 | 0x0116      |         278 |
 |     208 | 0x0002      |           2 |
@@ -239,33 +239,33 @@
 |     210 | 0x0112      |         274 |
 |     211 | 0x0113      |         275 |
 |     212 | 0x0114      |         276 |
-|     213 | 0x1E26      |        7718 |
-|     214 | 0x1E28      |        7720 |
-|     215 | 0x1E2C      |        7724 |
-|     216 | 0x1E29      |        7721 |
+|     213 | 0x1E27      |        7719 |
+|     214 | 0x1E29      |        7721 |
+|     215 | 0x1E2D      |        7725 |
+|     216 | 0x1E2A      |        7722 |
 |     217 | 0x0004      |           4 |
-|     218 | 0x1E2A      |        7722 |
-|     219 | 0x1E2D      |        7725 |
-|     220 | 0x1E2B      |        7723 |
+|     218 | 0x1E2B      |        7723 |
+|     219 | 0x1E2E      |        7726 |
+|     220 | 0x1E2C      |        7724 |
 |     221 | 0x0006      |           6 |
-|     222 | 0x1E2F      |        7727 |
+|     222 | 0x1E30      |        7728 |
 |     223 | 0x0007      |           7 |
 |     224 | 0x0008      |           8 |
 |     225 | 0x0009      |           9 |
 |     226 | 0x000A      |          10 |
-|     227 | 0x1E30      |        7728 |
+|     227 | 0x1E31      |        7729 |
 |     228 | 0x000B      |          11 |
 |     229 | 0x000C      |          12 |
 |     230 | 0x000D      |          13 |
-|     231 | 0x1E2E      |        7726 |
+|     231 | 0x1E2F      |        7727 |
 |     232 | 0x0011      |          17 |
 |     233 | 0x0012      |          18 |
 |     234 | 0x000E      |          14 |
-|     235 | 0x1E31      |        7729 |
+|     235 | 0x1E32      |        7730 |
 |     236 | 0x0014      |          20 |
 |     237 | 0x0015      |          21 |
 |     238 | 0x0016      |          22 |
-|     239 | 0x1E27      |        7719 |
+|     239 | 0x1E28      |        7720 |
 |     240 | 0x7E9C3925  |  2124167461 |
 |     241 | 0x41808A    |     4292746 |
 |     242 | 0x1224650   |    19023440 |
@@ -403,7 +403,7 @@
 - **507**: Your steadfast efforts have earned you a claim to share in your union's spoils of war. By [transferring to another union/resigning from your union], you will relinquish this right. It is not my place to question your decision, but I suggest you pay the matter due heed.
 - **509**: Register for which union? [None./Adder Union ($0 [member/members])./Bison Union ($1 [member/members])./Coyote Union ($2 [member/members])./Dhole Union ($3 [member/members])./Eland Union ($4 [member/members]).]
 - **513**: I am afraid that all unions are currently at their maximum enrollment, and unable to accept new recruits. For better or for worse, though, I suspect it shall not be long before we are in need of some new blood. Such is the nature of war...
-- **7715**: Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?
+- **7716**: Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?
 
 ## Events
 
@@ -999,7 +999,7 @@
   7: 0x0031 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[4]
   8: 0x0036 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[5]
   9: 0x003B [0x03] ExtData[1]->WorkLocal[12] = Work_Zone[9]
- 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7715*)
+ 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7716*)
     → "Ahhh, so you're military tactician who who drew up the plans for this latest supply mission. Why don't we ask one of the men how its going, shall we?"
  11: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0044 [0x1C] WAIT(60* ticks)
@@ -1117,10 +1117,10 @@ SUBROUTINE_0471:
 122: 0x04C3 [0x1E] EventEntity looks at Allied Commissary (ID: 17478359/0x010AB2D7) and starts talking
 123: 0x04C8 [0x4A] LocalPlayer looks at Allied Commissary (ID: 17478359/0x010AB2D7)
 124: 0x04D1 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Allied Commissary (ID: 17478359/0x010AB2D7), tag_num=0x04)
-125: 0x04D8 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7716*]:
+125: 0x04D8 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7717*]:
     → "You are the tactician responsible for our latest operation? Then I shall report in on the status of our mission up until now."
 126: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x04E0 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7717*]:
+127: 0x04E0 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7718*]:
     → "As per orders, the supply caravan completed preparation of our cargo last night, and set out on the designated route at daybreak."
 128: 0x04E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x04E8 [0x41] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[3] (bits 0*-15*)
@@ -1139,16 +1139,16 @@ SUBROUTINE_0471:
 142: 0x054C [0x1A] CALL_SUBROUTINE(address=0x0636)
 143: 0x054F [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0585
 144: 0x0557 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 3*) GOTO 0x056A
-145: 0x055F [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7732*]:
+145: 0x055F [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7733*]:
     → "Our unit was able to reach this stronghold, though we did so bearing a great deal less than the intended cargo."
 146: 0x0566 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x0567 [0x01] GOTO 0x0585
 148: 0x056A [0x02] IF !(ExtData[1]->WorkLocal[2] >= 5*) GOTO 0x057D
-149: 0x0572 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7731*]:
+149: 0x0572 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7732*]:
     → "Our unit was able to reach this stronghold safely with the cargo. Your planning may well have been the decisive factor in the success of our mission."
 150: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x057A [0x01] GOTO 0x0585
-152: 0x057D [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7730*]:
+152: 0x057D [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7731*]:
     → "I am pleased to report that our unit was able to reach this stronghold safely with all of the intended cargo. The success of our mission was due in no small part to your brilliant planning."
 153: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1205,192 +1205,192 @@ SUBROUTINE_05F1:
 
 SUBROUTINE_0636:
 193: 0x0636 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0649
-194: 0x063E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7718*]:
+194: 0x063E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7719*]:
     → "Unfortunately, we encountered an accident and lost a portion of our cargo."
 195: 0x0645 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0646 [0x01] GOTO 0x08DC
 197: 0x0649 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0669
 198: 0x0651 [0x03] Work_Zone[2] = 0*
-199: 0x0656 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
+199: 0x0656 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 200: 0x065D [0x23] WAIT_FOR_DIALOG_INTERACTION
-201: 0x065E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
+201: 0x065E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7725*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 202: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x0666 [0x01] GOTO 0x08DC
 204: 0x0669 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0689
 205: 0x0671 [0x03] Work_Zone[2] = 0*
-206: 0x0676 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
+206: 0x0676 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 207: 0x067D [0x23] WAIT_FOR_DIALOG_INTERACTION
-208: 0x067E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
+208: 0x067E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7725*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 209: 0x0685 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0686 [0x01] GOTO 0x08DC
 211: 0x0689 [0x02] IF !(ExtData[1]->WorkLocal[1] == 4*) GOTO 0x06A9
 212: 0x0691 [0x03] Work_Zone[2] = 0*
-213: 0x0696 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
+213: 0x0696 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 214: 0x069D [0x23] WAIT_FOR_DIALOG_INTERACTION
-215: 0x069E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7725*]:
+215: 0x069E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7726*]:
     → "By the good graces of the Goddess, our convoy was able to obliterate the beastman supply contingent. In addition, we seized a significant portion of the enemy's supplies."
 216: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x06A6 [0x01] GOTO 0x08DC
 218: 0x06A9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 5*) GOTO 0x06C9
 219: 0x06B1 [0x03] Work_Zone[2] = 0*
-220: 0x06B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
+220: 0x06B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 221: 0x06BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-222: 0x06BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
+222: 0x06BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7725*]:
     → "By the good graces of the Goddess, our convoy was able to emerge victorious over our adversaries."
 223: 0x06C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x06C6 [0x01] GOTO 0x08DC
 225: 0x06C9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 6*) GOTO 0x06E9
 226: 0x06D1 [0x03] Work_Zone[2] = 1*
-227: 0x06D6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
+227: 0x06D6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 228: 0x06DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x06DE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
+229: 0x06DE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 230: 0x06E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x06E6 [0x01] GOTO 0x08DC
 232: 0x06E9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 7*) GOTO 0x0709
 233: 0x06F1 [0x03] Work_Zone[2] = 1*
-234: 0x06F6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
+234: 0x06F6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 235: 0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-236: 0x06FE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
+236: 0x06FE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 237: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0706 [0x01] GOTO 0x08DC
 239: 0x0709 [0x02] IF !(ExtData[1]->WorkLocal[1] == 8*) GOTO 0x0729
 240: 0x0711 [0x03] Work_Zone[2] = 1*
-241: 0x0716 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
+241: 0x0716 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 242: 0x071D [0x23] WAIT_FOR_DIALOG_INTERACTION
-243: 0x071E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
+243: 0x071E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 244: 0x0725 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0726 [0x01] GOTO 0x08DC
 246: 0x0729 [0x02] IF !(ExtData[1]->WorkLocal[1] == 9*) GOTO 0x0749
 247: 0x0731 [0x03] Work_Zone[2] = 1*
-248: 0x0736 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
+248: 0x0736 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 249: 0x073D [0x23] WAIT_FOR_DIALOG_INTERACTION
-250: 0x073E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
+250: 0x073E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
     → "By the good graces of the Goddess, we narrowly succeeded in throwing the beastmen ranks into chaos and disarray."
 251: 0x0745 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x0746 [0x01] GOTO 0x08DC
 253: 0x0749 [0x02] IF !(ExtData[1]->WorkLocal[1] == 10*) GOTO 0x0769
 254: 0x0751 [0x03] Work_Zone[2] = 1*
-255: 0x0756 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
+255: 0x0756 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 256: 0x075D [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x075E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
+257: 0x075E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 258: 0x0765 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x0766 [0x01] GOTO 0x08DC
 260: 0x0769 [0x02] IF !(ExtData[1]->WorkLocal[1] == 11*) GOTO 0x0789
 261: 0x0771 [0x03] Work_Zone[2] = 1*
-262: 0x0776 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
+262: 0x0776 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 263: 0x077D [0x23] WAIT_FOR_DIALOG_INTERACTION
-264: 0x077E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
+264: 0x077E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 265: 0x0785 [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x0786 [0x01] GOTO 0x08DC
 267: 0x0789 [0x02] IF !(ExtData[1]->WorkLocal[1] == 12*) GOTO 0x07A9
 268: 0x0791 [0x03] Work_Zone[2] = 1*
-269: 0x0796 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
+269: 0x0796 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 270: 0x079D [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x079E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
+271: 0x079E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 272: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x07A6 [0x01] GOTO 0x08DC
 274: 0x07A9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 13*) GOTO 0x07C9
 275: 0x07B1 [0x03] Work_Zone[2] = 1*
-276: 0x07B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
+276: 0x07B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 277: 0x07BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x07BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7728*]:
+278: 0x07BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
     → "By the good graces of the Goddess, we somehow staved off the beastman attack and shook free. However, we were forced to abandon a portion of our cargo in the process."
 279: 0x07C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x07C6 [0x01] GOTO 0x08DC
 281: 0x07C9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 16*) GOTO 0x07E9
 282: 0x07D1 [0x03] Work_Zone[2] = 0*
-283: 0x07D6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
+283: 0x07D6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 284: 0x07DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x07DE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7726*]:
+285: 0x07DE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 286: 0x07E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x07E6 [0x01] GOTO 0x08DC
 288: 0x07E9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 17*) GOTO 0x0809
 289: 0x07F1 [0x03] Work_Zone[2] = 0*
-290: 0x07F6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
+290: 0x07F6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 291: 0x07FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-292: 0x07FE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7726*]:
+292: 0x07FE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 293: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x0806 [0x01] GOTO 0x08DC
 295: 0x0809 [0x02] IF !(ExtData[1]->WorkLocal[1] == 18*) GOTO 0x0829
 296: 0x0811 [0x03] Work_Zone[2] = 0*
-297: 0x0816 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
+297: 0x0816 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 298: 0x081D [0x23] WAIT_FOR_DIALOG_INTERACTION
-299: 0x081E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7726*]:
+299: 0x081E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 300: 0x0825 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x0826 [0x01] GOTO 0x08DC
 302: 0x0829 [0x02] IF !(ExtData[1]->WorkLocal[1] == 14*) GOTO 0x0849
 303: 0x0831 [0x03] Work_Zone[2] = 0*
-304: 0x0836 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
+304: 0x0836 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 305: 0x083D [0x23] WAIT_FOR_DIALOG_INTERACTION
-306: 0x083E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7726*]:
+306: 0x083E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7727*]:
     → "However, despite our best efforts, our convoy was utterly defeated. All of our cargo was lost to the enemy horde."
 307: 0x0845 [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0846 [0x01] GOTO 0x08DC
 309: 0x0849 [0x02] IF !(ExtData[1]->WorkLocal[1] == 19*) GOTO 0x0869
 310: 0x0851 [0x03] Work_Zone[2] = 1*
-311: 0x0856 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
+311: 0x0856 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
     → "We encountered considerable beastman opposition. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 312: 0x085D [0x23] WAIT_FOR_DIALOG_INTERACTION
-313: 0x085E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
+313: 0x085E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7730*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 314: 0x0865 [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x0866 [0x01] GOTO 0x08DC
 316: 0x0869 [0x02] IF !(ExtData[1]->WorkLocal[1] == 20*) GOTO 0x0889
 317: 0x0871 [0x03] Work_Zone[2] = 1*
-318: 0x0876 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7721*]:
+318: 0x0876 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
     → "We encountered a superior beastman assault force. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 319: 0x087D [0x23] WAIT_FOR_DIALOG_INTERACTION
-320: 0x087E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
+320: 0x087E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7730*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 321: 0x0885 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0886 [0x01] GOTO 0x08DC
 323: 0x0889 [0x02] IF !(ExtData[1]->WorkLocal[1] == 21*) GOTO 0x08A9
 324: 0x0891 [0x03] Work_Zone[2] = 1*
-325: 0x0896 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7722*]:
+325: 0x0896 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
     → "We encountered a beastman supply convoy, who was also made immediately aware of our presence. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 326: 0x089D [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x089E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
+327: 0x089E [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7730*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 328: 0x08A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x08A6 [0x01] GOTO 0x08DC
 330: 0x08A9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 15*) GOTO 0x08C9
 331: 0x08B1 [0x03] Work_Zone[2] = 1*
-332: 0x08B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7723*]:
+332: 0x08B6 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7724*]:
     → "We encountered a substantial force under the direct command of a beastman general. In accordance with mission operatives, we [engaged the enemy in open battle/attempted to evade the enemy at all cost]."
 333: 0x08BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-334: 0x08BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7729*]:
+334: 0x08BE [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7730*]:
     → "However, we were unable to repel the beastman's relentless pursuit, and in the end our convoy was scattered. All of our cargo was lost to the enemy horde."
 335: 0x08C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x08C6 [0x01] GOTO 0x08DC
 337: 0x08C9 [0x02] IF !(ExtData[1]->WorkLocal[1] == 22*) GOTO 0x08DC
-338: 0x08D1 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7719*]:
+338: 0x08D1 [0x2B] Allied Commissary (ID: 17478359/0x010AB2D7) [7720*]:
     → "Most regrettably, we encountered an accident and lost out entire load of cargo."
 339: 0x08D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x08D9 [0x01] GOTO 0x08DC

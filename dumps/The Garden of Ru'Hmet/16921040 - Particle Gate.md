@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DD8      |        7640 |
-|       1 | 0x1DDB      |        7643 |
+|       0 | 0x1DD9      |        7641 |
+|       1 | 0x1DDC      |        7644 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x00C8      |         200 |
@@ -37,8 +37,8 @@
 
 ## String References
 
-- **7640**: You see faint evidence of someone's effort to batter down the portal...
-- **7643**: Investigate the portal? [Yes./No.]
+- **7641**: You see faint evidence of someone's effort to batter down the portal...
+- **7644**: Investigate the portal? [Yes./No.]
 
 ## Events
 
@@ -111,10 +111,10 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7640*]:
+  1: 0x0003 [0x48] [System] [7641*]:
     → "You see faint evidence of someone's effort to batter down the portal..."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7643*, default_option=1*, option_flags=0*)
+  3: 0x0007 [0x24] CREATE_DIALOG(message_id=7644*, default_option=1*, option_flags=0*)
     → "Investigate the portal? [Yes./No.]"
   4: 0x000E [0x25] WAIT_DIALOG_SELECT()
   5: 0x000F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A4

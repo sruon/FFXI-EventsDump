@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C65      |        7269 |
-|       1 | 0x1C66      |        7270 |
+|       0 | 0x1C66      |        7270 |
+|       1 | 0x1C67      |        7271 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0027      |          39 |
 |       4 | 0x0001      |           1 |
 
 ## String References
 
-- **7269**: The area is littered with pieces of broken seashells.
-- **7270**: Dig here? [Yep./Nope.]
+- **7270**: The area is littered with pieces of broken seashells.
+- **7271**: Dig here? [Yep./Nope.]
 
 ## Events
 
@@ -79,10 +79,10 @@
 
 ```
   0: 0x0001 [0x4A] LocalPlayer looks at Clamming Point (ID: 16793998/0x0100418E)
-  1: 0x000A [0x48] [System] [7269*]:
+  1: 0x000A [0x48] [System] [7270*]:
     → "The area is littered with pieces of broken seashells."
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x24] CREATE_DIALOG(message_id=7270*, default_option=0*, option_flags=0*)
+  3: 0x000E [0x24] CREATE_DIALOG(message_id=7271*, default_option=0*, option_flags=0*)
     → "Dig here? [Yep./Nope.]"
   4: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0049

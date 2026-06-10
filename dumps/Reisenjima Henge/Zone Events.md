@@ -74,12 +74,12 @@
 |      47 | 0x0011      |          17 |
 |      48 | 0x003C      |          60 |
 |      49 | 0x00A9      |         169 |
-|      50 | 0x1CA7      |        7335 |
+|      50 | 0x1CA8      |        7336 |
 |      51 | 0x00C9      |         201 |
 
 ## String References
 
-- **7335**: The light contains...something other than peace and serenity!
+- **7336**: The light contains...something other than peace and serenity!
 
 ## Events
 
@@ -395,7 +395,7 @@ SUBROUTINE_0327:
 SUBROUTINE_035C:
 115: 0x035C [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[168*, 0*]
 116: 0x036D [0x1C] WAIT(160* ticks)
-117: 0x0370 [0x48] [System] [7335*]:
+117: 0x0370 [0x48] [System] [7336*]:
     → "The light contains...something other than peace and serenity!"
 118: 0x0373 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 119: 0x0384 [0x1C] WAIT(60* ticks)

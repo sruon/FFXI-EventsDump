@@ -65,11 +65,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x292C      |       10540 |
-|       2 | 0x292D      |       10541 |
-|       3 | 0x292E      |       10542 |
-|       4 | 0x1FBD      |        8125 |
-|       5 | 0x1FBE      |        8126 |
+|       1 | 0x292D      |       10541 |
+|       2 | 0x292E      |       10542 |
+|       3 | 0x292F      |       10543 |
+|       4 | 0x1FBE      |        8126 |
+|       5 | 0x1FBF      |        8127 |
 |       6 | 0x000D      |          13 |
 |       7 | 0x1096E     |       67950 |
 |       8 | 0x246E      |        9326 |
@@ -77,8 +77,8 @@
 |      10 | 0x109B6     |       68022 |
 |      11 | 0x29CF      |       10703 |
 |      12 | 0xFFFF632A  |  4294927146 |
-|      13 | 0x21B4      |        8628 |
-|      14 | 0x21B1      |        8625 |
+|      13 | 0x21B5      |        8629 |
+|      14 | 0x21B2      |        8626 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0000      |           0 |
 |      17 | 0x0190      |         400 |
@@ -99,33 +99,33 @@
 |      32 | 0x0021      |          33 |
 |      33 | 0x0023      |          35 |
 |      34 | 0x005A      |          90 |
-|      35 | 0x34DE      |       13534 |
-|      36 | 0x34DF      |       13535 |
+|      35 | 0x34DF      |       13535 |
+|      36 | 0x34E0      |       13536 |
 |      37 | 0x0014      |          20 |
 |      38 | 0x0CDB      |        3291 |
-|      39 | 0x34E0      |       13536 |
-|      40 | 0x34E1      |       13537 |
-|      41 | 0x34E2      |       13538 |
-|      42 | 0x34E3      |       13539 |
-|      43 | 0x34E4      |       13540 |
+|      39 | 0x34E1      |       13537 |
+|      40 | 0x34E2      |       13538 |
+|      41 | 0x34E3      |       13539 |
+|      42 | 0x34E4      |       13540 |
+|      43 | 0x34E5      |       13541 |
 |      44 | 0x0003      |           3 |
 |      45 | 0x0004      |           4 |
 |      46 | 0x0008      |           8 |
-|      47 | 0x34E5      |       13541 |
-|      48 | 0x34E6      |       13542 |
-|      49 | 0x34E7      |       13543 |
-|      50 | 0x34E8      |       13544 |
-|      51 | 0x34E9      |       13545 |
-|      52 | 0x34EA      |       13546 |
-|      53 | 0x34EB      |       13547 |
-|      54 | 0x34EE      |       13550 |
-|      55 | 0x34EF      |       13551 |
-|      56 | 0x34F0      |       13552 |
-|      57 | 0x34F1      |       13553 |
-|      58 | 0x34F2      |       13554 |
-|      59 | 0x34F3      |       13555 |
+|      47 | 0x34E6      |       13542 |
+|      48 | 0x34E7      |       13543 |
+|      49 | 0x34E8      |       13544 |
+|      50 | 0x34E9      |       13545 |
+|      51 | 0x34EA      |       13546 |
+|      52 | 0x34EB      |       13547 |
+|      53 | 0x34EC      |       13548 |
+|      54 | 0x34EF      |       13551 |
+|      55 | 0x34F0      |       13552 |
+|      56 | 0x34F1      |       13553 |
+|      57 | 0x34F2      |       13554 |
+|      58 | 0x34F3      |       13555 |
+|      59 | 0x34F4      |       13556 |
 |      60 | 0x000F      |          15 |
-|      61 | 0x34F4      |       13556 |
+|      61 | 0x34F5      |       13557 |
 |      62 | 0x00AE      |         174 |
 |      63 | 0x0078      |         120 |
 |      64 | 0x0064      |         100 |
@@ -137,33 +137,33 @@
 |      70 | 0x00B1      |         177 |
 |      71 | 0x0015      |          21 |
 |      72 | 0x0096      |         150 |
-|      73 | 0x34F6      |       13558 |
-|      74 | 0x34F7      |       13559 |
+|      73 | 0x34F7      |       13559 |
+|      74 | 0x34F8      |       13560 |
 |      75 | 0x0CDC      |        3292 |
-|      76 | 0x34F8      |       13560 |
-|      77 | 0x34F9      |       13561 |
-|      78 | 0x34FA      |       13562 |
+|      76 | 0x34F9      |       13561 |
+|      77 | 0x34FA      |       13562 |
+|      78 | 0x34FB      |       13563 |
 |      79 | 0x0CDD      |        3293 |
-|      80 | 0x34FB      |       13563 |
+|      80 | 0x34FC      |       13564 |
 |      81 | 0x0046      |          70 |
 |      82 | 0x00B2      |         178 |
-|      83 | 0x34FC      |       13564 |
-|      84 | 0x34F5      |       13557 |
-|      85 | 0x34FD      |       13565 |
-|      86 | 0x34FE      |       13566 |
+|      83 | 0x34FD      |       13565 |
+|      84 | 0x34F6      |       13558 |
+|      85 | 0x34FE      |       13566 |
+|      86 | 0x34FF      |       13567 |
 |      87 | 0x0007      |           7 |
 |      88 | 0x0438      |        1080 |
-|      89 | 0x34FF      |       13567 |
-|      90 | 0x3500      |       13568 |
-|      91 | 0x3501      |       13569 |
+|      89 | 0x3500      |       13568 |
+|      90 | 0x3501      |       13569 |
+|      91 | 0x3502      |       13570 |
 |      92 | 0x0002      |           2 |
-|      93 | 0x34EC      |       13548 |
-|      94 | 0x34ED      |       13549 |
+|      93 | 0x34ED      |       13549 |
+|      94 | 0x34EE      |       13550 |
 |      95 | 0x10A12     |       68114 |
 |      96 | 0x1D43      |        7491 |
 |      97 | 0x0C0E      |        3086 |
 |      98 | 0x02ED      |         749 |
-|      99 | 0x3502      |       13570 |
+|      99 | 0x3503      |       13571 |
 |     100 | 0xFFFFF8F8  |  4294965496 |
 |     101 | 0x11102     |       69890 |
 |     102 | 0x2670      |        9840 |
@@ -176,61 +176,61 @@
 |     109 | 0x11F3      |        4595 |
 |     110 | 0x0BE5      |        3045 |
 |     111 | 0x009F      |         159 |
-|     112 | 0x3503      |       13571 |
-|     113 | 0x3504      |       13572 |
-|     114 | 0x3505      |       13573 |
-|     115 | 0x3506      |       13574 |
-|     116 | 0x3507      |       13575 |
-|     117 | 0x3508      |       13576 |
-|     118 | 0x3509      |       13577 |
-|     119 | 0x350A      |       13578 |
-|     120 | 0x350B      |       13579 |
-|     121 | 0x350C      |       13580 |
-|     122 | 0x350D      |       13581 |
-|     123 | 0x350E      |       13582 |
-|     124 | 0x350F      |       13583 |
-|     125 | 0x3510      |       13584 |
-|     126 | 0x2065      |        8293 |
+|     112 | 0x3504      |       13572 |
+|     113 | 0x3505      |       13573 |
+|     114 | 0x3506      |       13574 |
+|     115 | 0x3507      |       13575 |
+|     116 | 0x3508      |       13576 |
+|     117 | 0x3509      |       13577 |
+|     118 | 0x350A      |       13578 |
+|     119 | 0x350B      |       13579 |
+|     120 | 0x350C      |       13580 |
+|     121 | 0x350D      |       13581 |
+|     122 | 0x350E      |       13582 |
+|     123 | 0x350F      |       13583 |
+|     124 | 0x3510      |       13584 |
+|     125 | 0x3511      |       13585 |
+|     126 | 0x2066      |        8294 |
 |     127 | 0x102F5     |       66293 |
 |     128 | 0x1702      |        5890 |
 |     129 | 0x0E32      |        3634 |
 |     130 | 0x1095B     |       67931 |
 |     131 | 0x1CA2      |        7330 |
-|     132 | 0x3511      |       13585 |
-|     133 | 0x3512      |       13586 |
-|     134 | 0x3513      |       13587 |
-|     135 | 0x3514      |       13588 |
-|     136 | 0x3515      |       13589 |
-|     137 | 0x3516      |       13590 |
-|     138 | 0x3517      |       13591 |
-|     139 | 0x3518      |       13592 |
-|     140 | 0x3519      |       13593 |
-|     141 | 0x351A      |       13594 |
-|     142 | 0x351B      |       13595 |
-|     143 | 0x351C      |       13596 |
+|     132 | 0x3512      |       13586 |
+|     133 | 0x3513      |       13587 |
+|     134 | 0x3514      |       13588 |
+|     135 | 0x3515      |       13589 |
+|     136 | 0x3516      |       13590 |
+|     137 | 0x3517      |       13591 |
+|     138 | 0x3518      |       13592 |
+|     139 | 0x3519      |       13593 |
+|     140 | 0x351A      |       13594 |
+|     141 | 0x351B      |       13595 |
+|     142 | 0x351C      |       13596 |
+|     143 | 0x351D      |       13597 |
 |     144 | 0x0028      |          40 |
-|     145 | 0x351D      |       13597 |
+|     145 | 0x351E      |       13598 |
 |     146 | 0x10A3A     |       68154 |
 |     147 | 0x1AF9      |        6905 |
 |     148 | 0x03DE      |         990 |
-|     149 | 0x351E      |       13598 |
-|     150 | 0x351F      |       13599 |
-|     151 | 0x3520      |       13600 |
-|     152 | 0x3521      |       13601 |
-|     153 | 0x3522      |       13602 |
-|     154 | 0x3523      |       13603 |
-|     155 | 0x3524      |       13604 |
-|     156 | 0x3525      |       13605 |
-|     157 | 0x3526      |       13606 |
-|     158 | 0x3527      |       13607 |
-|     159 | 0x3528      |       13608 |
-|     160 | 0x3529      |       13609 |
-|     161 | 0x352A      |       13610 |
-|     162 | 0x352B      |       13611 |
-|     163 | 0x352C      |       13612 |
-|     164 | 0x352D      |       13613 |
-|     165 | 0x352E      |       13614 |
-|     166 | 0x352F      |       13615 |
+|     149 | 0x351F      |       13599 |
+|     150 | 0x3520      |       13600 |
+|     151 | 0x3521      |       13601 |
+|     152 | 0x3522      |       13602 |
+|     153 | 0x3523      |       13603 |
+|     154 | 0x3524      |       13604 |
+|     155 | 0x3525      |       13605 |
+|     156 | 0x3526      |       13606 |
+|     157 | 0x3527      |       13607 |
+|     158 | 0x3528      |       13608 |
+|     159 | 0x3529      |       13609 |
+|     160 | 0x352A      |       13610 |
+|     161 | 0x352B      |       13611 |
+|     162 | 0x352C      |       13612 |
+|     163 | 0x352D      |       13613 |
+|     164 | 0x352E      |       13614 |
+|     165 | 0x352F      |       13615 |
+|     166 | 0x3530      |       13616 |
 |     167 | 0xFFFEC67D  |  4294887037 |
 |     168 | 0x7078      |       28792 |
 |     169 | 0xFFFE7FE0  |  4294868960 |
@@ -256,32 +256,32 @@
 |     189 | 0x28CF      |       10447 |
 |     190 | 0x06A4      |        1700 |
 |     191 | 0x02EF      |         751 |
-|     192 | 0x3531      |       13617 |
-|     193 | 0x3532      |       13618 |
+|     192 | 0x3532      |       13618 |
+|     193 | 0x3533      |       13619 |
 |     194 | 0xFFFE99DF  |  4294875615 |
 |     195 | 0x2D74      |       11636 |
 |     196 | 0x0040      |          64 |
 |     197 | 0x0032      |          50 |
-|     198 | 0x3533      |       13619 |
+|     198 | 0x3534      |       13620 |
 |     199 | 0x000A      |          10 |
-|     200 | 0x3534      |       13620 |
-|     201 | 0x3535      |       13621 |
+|     200 | 0x3535      |       13621 |
+|     201 | 0x3536      |       13622 |
 |     202 | 0x04B0      |        1200 |
-|     203 | 0x3536      |       13622 |
-|     204 | 0x3537      |       13623 |
+|     203 | 0x3537      |       13623 |
+|     204 | 0x3538      |       13624 |
 |     205 | 0x0FE3      |        4067 |
-|     206 | 0x3538      |       13624 |
+|     206 | 0x3539      |       13625 |
 |     207 | 0x043E      |        1086 |
-|     208 | 0x3539      |       13625 |
+|     208 | 0x353A      |       13626 |
 |     209 | 0x0024      |          36 |
-|     210 | 0x353A      |       13626 |
-|     211 | 0x353B      |       13627 |
-|     212 | 0x353C      |       13628 |
-|     213 | 0x353D      |       13629 |
-|     214 | 0x353E      |       13630 |
-|     215 | 0x353F      |       13631 |
-|     216 | 0x3540      |       13632 |
-|     217 | 0x3541      |       13633 |
+|     210 | 0x353B      |       13627 |
+|     211 | 0x353C      |       13628 |
+|     212 | 0x353D      |       13629 |
+|     213 | 0x353E      |       13630 |
+|     214 | 0x353F      |       13631 |
+|     215 | 0x3540      |       13632 |
+|     216 | 0x3541      |       13633 |
+|     217 | 0x3542      |       13634 |
 |     218 | 0xFFFEF6A4  |  4294899364 |
 |     219 | 0xFFFFE268  |  4294959720 |
 |     220 | 0xFFFFFF6C  |  4294967148 |
@@ -297,56 +297,56 @@
 |     230 | 0xFFFFF42F  |  4294964271 |
 |     231 | 0x0359      |         857 |
 |     232 | 0x00B4      |         180 |
-|     233 | 0x3542      |       13634 |
-|     234 | 0x3543      |       13635 |
-|     235 | 0x3544      |       13636 |
-|     236 | 0x3545      |       13637 |
-|     237 | 0x3546      |       13638 |
-|     238 | 0x3547      |       13639 |
-|     239 | 0x3548      |       13640 |
-|     240 | 0x3549      |       13641 |
-|     241 | 0x354A      |       13642 |
-|     242 | 0x354B      |       13643 |
+|     233 | 0x3543      |       13635 |
+|     234 | 0x3544      |       13636 |
+|     235 | 0x3545      |       13637 |
+|     236 | 0x3546      |       13638 |
+|     237 | 0x3547      |       13639 |
+|     238 | 0x3548      |       13640 |
+|     239 | 0x3549      |       13641 |
+|     240 | 0x354A      |       13642 |
+|     241 | 0x354B      |       13643 |
+|     242 | 0x354C      |       13644 |
 |     243 | 0xFFFE7F55  |  4294868821 |
 |     244 | 0x4D78      |       19832 |
 |     245 | 0x03F6      |        1014 |
 |     246 | 0xFFFE7E05  |  4294868485 |
 |     247 | 0x46D2      |       18130 |
 |     248 | 0x0C5F      |        3167 |
-|     249 | 0x354E      |       13646 |
+|     249 | 0x354F      |       13647 |
 |     250 | 0x0044      |          68 |
 |     251 | 0x024D      |         589 |
 |     252 | 0xFFFE4AEE  |  4294855406 |
 |     253 | 0x2DE6      |       11750 |
 |     254 | 0x0BE7      |        3047 |
-|     255 | 0x354F      |       13647 |
-|     256 | 0x3550      |       13648 |
-|     257 | 0x3551      |       13649 |
-|     258 | 0x3552      |       13650 |
-|     259 | 0x3553      |       13651 |
-|     260 | 0x3554      |       13652 |
-|     261 | 0x3555      |       13653 |
-|     262 | 0x3556      |       13654 |
-|     263 | 0x3557      |       13655 |
-|     264 | 0x3558      |       13656 |
-|     265 | 0x3559      |       13657 |
-|     266 | 0x355A      |       13658 |
-|     267 | 0x355B      |       13659 |
-|     268 | 0x355C      |       13660 |
-|     269 | 0x355D      |       13661 |
-|     270 | 0x355E      |       13662 |
-|     271 | 0x355F      |       13663 |
-|     272 | 0x3560      |       13664 |
+|     255 | 0x3550      |       13648 |
+|     256 | 0x3551      |       13649 |
+|     257 | 0x3552      |       13650 |
+|     258 | 0x3553      |       13651 |
+|     259 | 0x3554      |       13652 |
+|     260 | 0x3555      |       13653 |
+|     261 | 0x3556      |       13654 |
+|     262 | 0x3557      |       13655 |
+|     263 | 0x3558      |       13656 |
+|     264 | 0x3559      |       13657 |
+|     265 | 0x355A      |       13658 |
+|     266 | 0x355B      |       13659 |
+|     267 | 0x355C      |       13660 |
+|     268 | 0x355D      |       13661 |
+|     269 | 0x355E      |       13662 |
+|     270 | 0x355F      |       13663 |
+|     271 | 0x3560      |       13664 |
+|     272 | 0x3561      |       13665 |
 |     273 | 0xFFFE96F2  |  4294874866 |
 |     274 | 0x2B46      |       11078 |
 |     275 | 0x0016      |          22 |
 |     276 | 0xFFFEA214  |  4294877716 |
 |     277 | 0x29D5      |       10709 |
 |     278 | 0x0FD8      |        4056 |
-|     279 | 0x3561      |       13665 |
-|     280 | 0x3562      |       13666 |
-|     281 | 0x3563      |       13667 |
-|     282 | 0x3564      |       13668 |
+|     279 | 0x3562      |       13666 |
+|     280 | 0x3563      |       13667 |
+|     281 | 0x3564      |       13668 |
+|     282 | 0x3565      |       13669 |
 |     283 | 0x10905     |       67845 |
 |     284 | 0x1FDB      |        8155 |
 |     285 | 0x0BE2      |        3042 |
@@ -372,24 +372,24 @@
 |     305 | 0x00A3      |         163 |
 |     306 | 0x02F1      |         753 |
 |     307 | 0x0050      |          80 |
-|     308 | 0x3565      |       13669 |
-|     309 | 0x3566      |       13670 |
-|     310 | 0x3567      |       13671 |
-|     311 | 0x3568      |       13672 |
+|     308 | 0x3566      |       13670 |
+|     309 | 0x3567      |       13671 |
+|     310 | 0x3568      |       13672 |
+|     311 | 0x3569      |       13673 |
 |     312 | 0x0ECC      |        3788 |
-|     313 | 0x3569      |       13673 |
-|     314 | 0x356A      |       13674 |
-|     315 | 0x356B      |       13675 |
-|     316 | 0x356C      |       13676 |
+|     313 | 0x356A      |       13674 |
+|     314 | 0x356B      |       13675 |
+|     315 | 0x356C      |       13676 |
+|     316 | 0x356D      |       13677 |
 |     317 | 0x10CAC     |       68780 |
 |     318 | 0x0874      |        2164 |
-|     319 | 0x356D      |       13677 |
-|     320 | 0x356E      |       13678 |
-|     321 | 0x356F      |       13679 |
-|     322 | 0x3570      |       13680 |
-|     323 | 0x3571      |       13681 |
-|     324 | 0x3572      |       13682 |
-|     325 | 0x3573      |       13683 |
+|     319 | 0x356E      |       13678 |
+|     320 | 0x356F      |       13679 |
+|     321 | 0x3570      |       13680 |
+|     322 | 0x3571      |       13681 |
+|     323 | 0x3572      |       13682 |
+|     324 | 0x3573      |       13683 |
+|     325 | 0x3574      |       13684 |
 |     326 | 0x10514     |       66836 |
 |     327 | 0x2861      |       10337 |
 |     328 | 0x0423      |        1059 |
@@ -398,64 +398,64 @@
 |     331 | 0x106D5     |       67285 |
 |     332 | 0x155A      |        5466 |
 |     333 | 0x03E8      |        1000 |
-|     334 | 0x3574      |       13684 |
-|     335 | 0x3575      |       13685 |
-|     336 | 0x3576      |       13686 |
+|     334 | 0x3575      |       13685 |
+|     335 | 0x3576      |       13686 |
+|     336 | 0x3577      |       13687 |
 |     337 | 0x07F4      |        2036 |
-|     338 | 0x3577      |       13687 |
-|     339 | 0x3578      |       13688 |
-|     340 | 0x3579      |       13689 |
-|     341 | 0x357A      |       13690 |
-|     342 | 0x357B      |       13691 |
-|     343 | 0x357C      |       13692 |
-|     344 | 0x357D      |       13693 |
-|     345 | 0x357E      |       13694 |
-|     346 | 0x357F      |       13695 |
-|     347 | 0x3580      |       13696 |
-|     348 | 0x3581      |       13697 |
-|     349 | 0x3582      |       13698 |
-|     350 | 0x3583      |       13699 |
+|     338 | 0x3578      |       13688 |
+|     339 | 0x3579      |       13689 |
+|     340 | 0x357A      |       13690 |
+|     341 | 0x357B      |       13691 |
+|     342 | 0x357C      |       13692 |
+|     343 | 0x357D      |       13693 |
+|     344 | 0x357E      |       13694 |
+|     345 | 0x357F      |       13695 |
+|     346 | 0x3580      |       13696 |
+|     347 | 0x3581      |       13697 |
+|     348 | 0x3582      |       13698 |
+|     349 | 0x3583      |       13699 |
+|     350 | 0x3584      |       13700 |
 |     351 | 0x04AB      |        1195 |
-|     352 | 0x3584      |       13700 |
-|     353 | 0x3585      |       13701 |
-|     354 | 0x3586      |       13702 |
-|     355 | 0x3587      |       13703 |
+|     352 | 0x3585      |       13701 |
+|     353 | 0x3586      |       13702 |
+|     354 | 0x3587      |       13703 |
+|     355 | 0x3588      |       13704 |
 |     356 | 0x0020      |          32 |
-|     357 | 0x3588      |       13704 |
+|     357 | 0x3589      |       13705 |
 |     358 | 0x00D7      |         215 |
-|     359 | 0x3530      |       13616 |
+|     359 | 0x3531      |       13617 |
 |     360 | 0x10D6C     |       68972 |
 |     361 | 0x2ECF      |       11983 |
 |     362 | 0x102B1     |       66225 |
 |     363 | 0x27A0      |       10144 |
-|     364 | 0x3589      |       13705 |
-|     365 | 0x358A      |       13706 |
-|     366 | 0x358B      |       13707 |
+|     364 | 0x358A      |       13706 |
+|     365 | 0x358B      |       13707 |
+|     366 | 0x358C      |       13708 |
 |     367 | 0x0AFA      |        2810 |
-|     368 | 0x358C      |       13708 |
-|     369 | 0x358D      |       13709 |
+|     368 | 0x358D      |       13709 |
+|     369 | 0x358E      |       13710 |
 
 ## String References
 
-- **8125**: The library now has pioneers doing its work for them? How unbecoming. Let me take a look at your documents.
-- **8126**: Yes, this is Hildebert's manor, but Vortimere is the one currently residing here. Let me add this to your materials.
-- **8293**: @@
-- **8625**: The fountain's water is taken directly from the Rala Waterways underneath Adoulin proper, so it is both pure and clean.
-- **8628**: The "holy water untainted by impurity" unquestionably refers to the water of Western Adoulin's fountain.
-- **10540**: This extravagant edifice is one of the many assets held by our current minister of judication, Hildebert.
-- **10541**: However, Hildebert is an assiduous individual whose services are constantly in demand by the general public. As he rarely has the opportunity to return to his abode, he graciously allows Vortimere to occupy it.
-- **10542**: Should you ever need the counsel of either of these esteemed statesmen, this would be the place at which to seek it.
-- **13537**: Can you use Trust magic? [Sure can./Uh...no?]
-- **13547**: Journey with Ingrid? [How could I not?/Why on earth would I?]
-- **13573**: Do you remember Hildebert? [Hildewho?/Oh, yeah, the old guy./Say nothing.]
-- **13578**: Were you aware of this fact? [O-of course!/Nope.]
-- **13607**: Choose your response carefully. [...I suppose not./...Oh, I wouldn't say that...]
-- **13616**: Ingrid has stepped out for a brief meeting with Gratzigg at his manse. Perhaps it would behoove you to seek the two of them.
-- **13705**: Though we were initially relieved that Madam Faustoise awoke, I hesitate to say that she has made a true recovery.
-- **13706**: Marcellurin indicated that he would head to a large tree in the northwestern section of Yorcia Weald.
-- **13707**: My heart skips a beat to imagine that... Perhaps I am overthinking the danger. But please--hurry.
-- **13708**: Marcellurin mentioned that you may have need of $6.
-- **13709**: They are quite valuable, but I know you will put this one to good use.
+- **8126**: The library now has pioneers doing its work for them? How unbecoming. Let me take a look at your documents.
+- **8127**: Yes, this is Hildebert's manor, but Vortimere is the one currently residing here. Let me add this to your materials.
+- **8294**: @@
+- **8626**: The fountain's water is taken directly from the Rala Waterways underneath Adoulin proper, so it is both pure and clean.
+- **8629**: The "holy water untainted by impurity" unquestionably refers to the water of Western Adoulin's fountain.
+- **10541**: This extravagant edifice is one of the many assets held by our current minister of judication, Hildebert.
+- **10542**: However, Hildebert is an assiduous individual whose services are constantly in demand by the general public. As he rarely has the opportunity to return to his abode, he graciously allows Vortimere to occupy it.
+- **10543**: Should you ever need the counsel of either of these esteemed statesmen, this would be the place at which to seek it.
+- **13538**: Can you use Trust magic? [Sure can./Uh...no?]
+- **13548**: Journey with Ingrid? [How could I not?/Why on earth would I?]
+- **13574**: Do you remember Hildebert? [Hildewho?/Oh, yeah, the old guy./Say nothing.]
+- **13579**: Were you aware of this fact? [O-of course!/Nope.]
+- **13608**: Choose your response carefully. [...I suppose not./...Oh, I wouldn't say that...]
+- **13617**: Ingrid has stepped out for a brief meeting with Gratzigg at his manse. Perhaps it would behoove you to seek the two of them.
+- **13706**: Though we were initially relieved that Madam Faustoise awoke, I hesitate to say that she has made a true recovery.
+- **13707**: Marcellurin indicated that he would head to a large tree in the northwestern section of Yorcia Weald.
+- **13708**: My heart skips a beat to imagine that... Perhaps I am overthinking the danger. But please--hurry.
+- **13709**: Marcellurin mentioned that you may have need of $6.
+- **13710**: They are quite valuable, but I know you will put this one to good use.
 
 ## Events
 
@@ -914,13 +914,13 @@
   1: 0x00FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0100 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0101 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=10540*)
+  4: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
     → "This extravagant edifice is one of the many assets held by our current minister of judication, Hildebert."
   5: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=10541*)
+  6: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
     → "However, Hildebert is an assiduous individual whose services are constantly in demand by the general public. As he rarely has the opportunity to return to his abode, he graciously allows Vortimere to occupy it."
   7: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10542*)
+  8: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=10543*)
     → "Should you ever need the counsel of either of these esteemed statesmen, this would be the place at which to seek it."
   9: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x011C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -1115,10 +1115,10 @@
   2: 0x0152 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0153 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0154 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  5: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+  5: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "The library now has pioneers doing its work for them? How unbecoming. Let me take a look at your documents."
   6: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
+  7: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8127*)
     → "Yes, this is Hildebert's manor, but Vortimere is the one currently residing here. Let me add this to your materials."
   8: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x016B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -1226,10 +1226,10 @@
   1: 0x019E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8628*)
+  4: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8629*)
     → "The "holy water untainted by impurity" unquestionably refers to the water of Western Adoulin's fountain."
   5: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8625*)
+  6: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8626*)
     → "The fountain's water is taken directly from the Rala Waterways underneath Adoulin proper, so it is both pure and clean."
   7: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -1665,7 +1665,7 @@
 SUBROUTINE_02D7:
  41: 0x02D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  42: 0x02E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Rigobertine (ID: 17830130/0x011010F2), Rigobertine (ID: 17830130/0x011010F2)], work=33*
- 43: 0x02F7 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10540*]:
+ 43: 0x02F7 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10541*]:
     → "This extravagant edifice is one of the many assets held by our current minister of judication, Hildebert."
  44: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x02FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Rigobertine (ID: 17830130/0x011010F2), Rigobertine (ID: 17830130/0x011010F2)], work=33*
@@ -1691,7 +1691,7 @@ SUBROUTINE_0368:
  63: 0x03AE [0x1C] WAIT(30* ticks)
  64: 0x03B1 [0x4A] Behsa Alehgo (ID: 17830132/0x011010F4) looks at Ingrid (ID: 17830046/0x0110109E)
  65: 0x03BA [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
- 66: 0x03C3 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [13534*]:
+ 66: 0x03C3 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [13535*]:
     → "Welcome home, Lady Ingrid."
  67: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x03CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1702,7 +1702,7 @@ SUBROUTINE_0368:
  73: 0x03F7 [0x1C] WAIT(30* ticks)
  74: 0x03FA [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
  75: 0x0404 [0x1C] WAIT(90* ticks)
- 76: 0x0407 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13535*]:
+ 76: 0x0407 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13536*]:
     → "[Adventurer,/You there,] a moment, fool."
  77: 0x040E [0x1C] WAIT(20* ticks)
  78: 0x0411 [0x79] Rigobertine (ID: 17830130/0x011010F2) looks at LocalPlayer (Basic look)
@@ -1713,7 +1713,7 @@ SUBROUTINE_0368:
  83: 0x0445 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  84: 0x0446 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
  85: 0x044B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
- 86: 0x045A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13536*]:
+ 86: 0x045A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13537*]:
     → "I have been apprised of the Jeuno Institute of Magical Studies' new Trust initiative. You are enrolled in this abomination too, as I understand it."
  87: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0462 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
@@ -1728,7 +1728,7 @@ SUBROUTINE_0368:
  97: 0x04BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[669*, 0*]
 
 SUBROUTINE_04CE:
- 98: 0x04CE [0x24] CREATE_DIALOG(message_id=13537*, default_option=0*, option_flags=0*)
+ 98: 0x04CE [0x24] CREATE_DIALOG(message_id=13538*, default_option=0*, option_flags=0*)
     → "Can you use Trust magic? [Sure can./Uh...no?]"
  99: 0x04D5 [0x25] WAIT_DIALOG_SELECT()
 100: 0x04D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055B
@@ -1744,7 +1744,7 @@ SUBROUTINE_0521:
 108: 0x0521 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[669*, 0*]
 109: 0x0532 [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
 110: 0x053B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-111: 0x054A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13538*]:
+111: 0x054A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13539*]:
     → "My instincts are never wrong. It's a blessing from Altana herself."
 112: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0552 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1763,7 +1763,7 @@ SUBROUTINE_05A6:
 124: 0x05A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[669*, 0*]
 125: 0x05B7 [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
 126: 0x05C0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "non0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-127: 0x05CF [0x2B] Ingrid (ID: 17830046/0x0110109E) [13539*]:
+127: 0x05CF [0x2B] Ingrid (ID: 17830046/0x0110109E) [13540*]:
     → "Your tongue is as black as the umbrils that blight this land."
 128: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x05D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1771,7 +1771,7 @@ SUBROUTINE_05A6:
 131: 0x05DD [0x01] GOTO 0x05E0
 
 SUBROUTINE_05E0:
-132: 0x05E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13540*]:
+132: 0x05E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13541*]:
     → "As an exorcist of the highest caliber, recognizing those whose talents may be of use comes as second nature."
 133: 0x05E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x05E8 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [EventEntity, EventEntity], work=669*
@@ -1796,13 +1796,13 @@ SUBROUTINE_05E0:
 SUBROUTINE_0699:
 152: 0x0699 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
 153: 0x06A3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-154: 0x06B2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13541*]:
+154: 0x06B2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13542*]:
     → "You are certainly aware of how I visited the Middle Lands for a time. Even the most reclusive shut-in knows that."
 155: 0x06B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x06BA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13542*]:
+156: 0x06BA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13543*]:
     → "My travels took me to the institute, where they correctly asked me to be a participant in the initiative."
 157: 0x06C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x06C2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13543*]:
+158: 0x06C2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13544*]:
     → "All Adoulin expects me to serve as their face in a foreign land. It would be uncouth of me to refuse such an opportunity."
 159: 0x06C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x06CA [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x06E4
@@ -1832,11 +1832,11 @@ SUBROUTINE_075B:
 182: 0x0793 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s093" with entities [EventEntity, EventEntity], work=[669*, 0*]
 
 SUBROUTINE_07A4:
-183: 0x07A4 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13544*]:
+183: 0x07A4 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13545*]:
     → "Further, imagine how well it would reflect on Vortimere if we were to discover how..."
 184: 0x07AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x07AC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-186: 0x07BB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13545*]:
+186: 0x07BB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13546*]:
     → "But laying that aside for now..."
 187: 0x07C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x07C3 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Ingrid (ID: 17830046/0x0110109E))
@@ -1851,7 +1851,7 @@ SUBROUTINE_07A4:
 
 SUBROUTINE_081B:
 197: 0x081B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s094" with entities [EventEntity, EventEntity], work=[669*, 0*]
-198: 0x082C [0x2B] Ingrid (ID: 17830046/0x0110109E) [13546*]:
+198: 0x082C [0x2B] Ingrid (ID: 17830046/0x0110109E) [13547*]:
     → "[My excellence is beyond parallel in this land, Middle Lander./You have witnessed firsthand the unsurpassed power that I wield.] Consider yourself touched by fate that I deign to participate in the ritual with you."
 199: 0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0834 [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [EventEntity, EventEntity], work=669*
@@ -1873,7 +1873,7 @@ SUBROUTINE_081B:
 216: 0x08CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s124" with entities [EventEntity, EventEntity], work=[669*, 0*]
 
 SUBROUTINE_08E0:
-217: 0x08E0 [0x24] CREATE_DIALOG(message_id=13547*, default_option=0*, option_flags=0*)
+217: 0x08E0 [0x24] CREATE_DIALOG(message_id=13548*, default_option=0*, option_flags=0*)
     → "Journey with Ingrid? [How could I not?/Why on earth would I?]"
 218: 0x08E7 [0x25] WAIT_DIALOG_SELECT()
 219: 0x08E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1225
@@ -1883,11 +1883,11 @@ SUBROUTINE_08E0:
 223: 0x091D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s098" with entities [EventEntity, EventEntity], work=[669*, 0*]
 224: 0x092E [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Ingrid (ID: 17830046/0x0110109E))
 225: 0x0934 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-226: 0x0943 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13550*]:
+226: 0x0943 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13551*]:
     → "Perfect! Let the Merciless One guide you!"
 227: 0x094A [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x094B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-229: 0x095A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13551*]:
+229: 0x095A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13552*]:
     → "True to its name, the ritual requires trust between two individuals. Let us reflect..."
 230: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x0962 [0x52] END_LOAD_SCHEDULER: End scheduler "s098" with entities [EventEntity, EventEntity], work=669*
@@ -1897,23 +1897,23 @@ SUBROUTINE_08E0:
 235: 0x0997 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[669*, 0*]
 236: 0x09A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
 237: 0x09B7 [0x1C] WAIT(90* ticks)
-238: 0x09BA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13552*]:
+238: 0x09BA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13553*]:
     → "Your brash insolence was evident from the first time you opened your mouth."
 239: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x09C2 [0x79] Rigobertine (ID: 17830130/0x011010F2) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 241: 0x09CC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-242: 0x09DB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13553*]:
+242: 0x09DB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13554*]:
     → "But my strength of spirit shall see us through, nonetheless."
 243: 0x09E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x09E3 [0x52] END_LOAD_SCHEDULER: End scheduler "s099" with entities [EventEntity, EventEntity], work=669*
 245: 0x09F2 [0x01] GOTO 0x0A3C
 246: 0x09F5 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0A3C
 247: 0x09FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[669*, 0*]
-248: 0x0A0E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13554*]:
+248: 0x0A0E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13555*]:
     → "Yes, I suppose I do trust you. Despite everything, you came to me during my time of need."
 249: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 250: 0x0A16 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-251: 0x0A25 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13555*]:
+251: 0x0A25 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13556*]:
     → "Your strong will shall surely see us through."
 252: 0x0A2C [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x0A2D [0x52] END_LOAD_SCHEDULER: End scheduler "s099" with entities [EventEntity, EventEntity], work=669*
@@ -1924,7 +1924,7 @@ SUBROUTINE_0A3C:
 256: 0x0A4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [EventEntity, EventEntity], work=[669*, 0*]
 257: 0x0A5F [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
 258: 0x0A69 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
-259: 0x0A6E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13556*]:
+259: 0x0A6E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13557*]:
     → "Let us proceed."
 260: 0x0A75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x0A76 [0x79] Rigobertine (ID: 17830130/0x011010F2) looks at LocalPlayer (Basic look)
@@ -1983,34 +1983,34 @@ SUBROUTINE_0BAF:
 308: 0x0C17 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[669*, 0*]
 309: 0x0C28 [0x4A] Unnamed NPC (ID: 17830047/0x0110109F) looks at Ingrid (ID: 17830046/0x0110109E)
 310: 0x0C31 [0x1C] WAIT(30* ticks)
-311: 0x0C34 [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13558*]:
+311: 0x0C34 [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13559*]:
     → "Why can you not say what you feel?"
 312: 0x0C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x0C3C [0x4A] Ingrid (ID: 17830046/0x0110109E) looks at Unnamed NPC (ID: 17830047/0x0110109F)
-314: 0x0C45 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13559*]:
+314: 0x0C45 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13560*]:
     → "What I...feel?"
 315: 0x0C4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x0C4D [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [EventEntity, EventEntity], work=669*
 317: 0x0C5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [EventEntity, EventEntity], work=[669*, 0*]
 318: 0x0C6D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yrb0" with entities [Unnamed NPC (ID: 17830047/0x0110109F), Unnamed NPC (ID: 17830047/0x0110109F)], work=3292*
-319: 0x0C7C [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13560*]:
+319: 0x0C7C [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13561*]:
     → "You wish to thank <Player> for all [he/she] has done for you. Why must you hold back?"
 320: 0x0C83 [0x1C] WAIT(90* ticks)
 321: 0x0C86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 322: 0x0C87 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "non0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-323: 0x0C96 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13561*]:
+323: 0x0C96 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13562*]:
     → "Dare you forget which one of us is the mistress?! I--"
 324: 0x0C9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x0C9E [0x52] END_LOAD_SCHEDULER: End scheduler "s104" with entities [EventEntity, EventEntity], work=669*
 326: 0x0CAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [EventEntity, EventEntity], work=[669*, 0*]
 327: 0x0CBE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yrb1" with entities [Unnamed NPC (ID: 17830047/0x0110109F), Unnamed NPC (ID: 17830047/0x0110109F)], work=3292*
-328: 0x0CCD [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13562*]:
+328: 0x0CCD [0x2B] Unnamed NPC (ID: 17830047/0x0110109F) [13563*]:
     → "You hide behind a prickly mask, but we both know your inner voice speaks of [him/her] as softly as freshly washed velvet."
 329: 0x0CD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x0CD5 [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [EventEntity, EventEntity], work=669*
 331: 0x0CE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s117" with entities [EventEntity, EventEntity], work=[669*, 0*]
 332: 0x0CF5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "poi0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3293*
-333: 0x0D04 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13563*]:
+333: 0x0D04 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13564*]:
     → "S-silence! We've finished the ritual, so I hereby banish you to the aether!"
 334: 0x0D0B [0x1C] WAIT(120* ticks)
 335: 0x0D0E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "poi1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3293*
@@ -2045,7 +2045,7 @@ SUBROUTINE_0D79:
 SUBROUTINE_0DFE:
 361: 0x0DFE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s107" with entities [EventEntity, EventEntity], work=[669*, 0*]
 362: 0x0E0F [0x1C] WAIT(30* ticks)
-363: 0x0E12 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13564*]:
+363: 0x0E12 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13565*]:
     → "Hmph."
 364: 0x0E19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x0E1A [0x52] END_LOAD_SCHEDULER: End scheduler "s107" with entities [EventEntity, EventEntity], work=669*
@@ -2057,7 +2057,7 @@ SUBROUTINE_0DFE:
 371: 0x0E56 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Ingrid (ID: 17830046/0x0110109E))
 372: 0x0E5C [0x1C] WAIT(100* ticks)
 373: 0x0E5F [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
-374: 0x0E69 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13557*]:
+374: 0x0E69 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13558*]:
     → ""Merciless," indeed! The rest I leave up to you."
 375: 0x0E70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 376: 0x0E71 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at Unnamed NPC (ID: 17830047/0x0110109F) (Basic look)
@@ -2110,10 +2110,10 @@ SUBROUTINE_0FF3:
 417: 0x0FFC [0x1C] WAIT(30* ticks)
 418: 0x0FFF [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
 419: 0x1008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
-420: 0x1017 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13565*]:
+420: 0x1017 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13566*]:
     → "Despite your greatest efforts to derail this ritual, it appears to have been a success. My alter ego shall surely be of great use to you."
 421: 0x101E [0x23] WAIT_FOR_DIALOG_INTERACTION
-422: 0x101F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13566*]:
+422: 0x101F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13567*]:
     → "With Adoulin's most prominent exorcist at your side, your foes will tremble and flee!"
 423: 0x1026 [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x1027 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
@@ -2150,17 +2150,17 @@ SUBROUTINE_10C7:
 453: 0x113B [0x4B] UPDATE_ENTITY_YAW(entity=Ingrid (ID: 17830046/0x0110109E), yaw=5.9°*)
 454: 0x1142 [0x1C] WAIT(30* ticks)
 455: 0x1145 [0x79] Rigobertine (ID: 17830130/0x011010F2) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
-456: 0x114F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13567*]:
+456: 0x114F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13568*]:
     → "Yes... This incantation only strengthens my ability to purge the world of its ills. Let it take wing and guide you..."
 457: 0x1156 [0x23] WAIT_FOR_DIALOG_INTERACTION
-458: 0x1157 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13568*]:
+458: 0x1157 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13569*]:
     → "Only once the world is clean will I finally be free of this pain."
 459: 0x115E [0x23] WAIT_FOR_DIALOG_INTERACTION
 460: 0x115F [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [EventEntity, EventEntity], work=669*
 461: 0x116E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [EventEntity, EventEntity], work=[669*, 0*]
 462: 0x117F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kam0" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
 463: 0x118E [0x1C] WAIT(30* ticks)
-464: 0x1191 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13569*]:
+464: 0x1191 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13570*]:
     → "Mommy, I..."
 465: 0x1198 [0x1C] WAIT(60* ticks)
 466: 0x119B [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -2187,11 +2187,11 @@ SUBROUTINE_10C7:
 487: 0x126B [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Ingrid (ID: 17830046/0x0110109E))
 488: 0x1271 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Ingrid (ID: 17830046/0x0110109E), Ingrid (ID: 17830046/0x0110109E)], work=3291*
 489: 0x1280 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x1293
-490: 0x1288 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13548*]:
+490: 0x1288 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13549*]:
     → "How could you deny me, after everything you have seen!?"
 491: 0x128F [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x1290 [0x01] GOTO 0x129B
-493: 0x1293 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13549*]:
+493: 0x1293 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13550*]:
     → "A grave mistake, and one that could only be made by someone unfamiliar with my true power."
 494: 0x129A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2609,12 +2609,12 @@ SUBROUTINE_1305:
  32: 0x13C6 [0x03] Work_Zone[9] = LocalPlayer->Race
  33: 0x13CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
  34: 0x13DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 35: 0x13ED [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10540*]:
+ 35: 0x13ED [0x2B] Rigobertine (ID: 17830130/0x011010F2) [10541*]:
     → "This extravagant edifice is one of the many assets held by our current minister of judication, Hildebert."
  36: 0x13F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x13F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rigobertine (ID: 17830130/0x011010F2), tag_num=0x02)
  38: 0x13FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rigobertine (ID: 17830130/0x011010F2), tag_num=0x03)
- 39: 0x1403 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [13570*]:
+ 39: 0x1403 [0x2B] Rigobertine (ID: 17830130/0x011010F2) [13571*]:
     → "I must request that you inquire another time, as the order is inundated with various issues these past few moons."
  40: 0x140A [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x140B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
@@ -2661,7 +2661,7 @@ SUBROUTINE_1305:
  82: 0x1562 [0x1C] WAIT(20* ticks)
  83: 0x1565 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
  84: 0x156A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1D)
- 85: 0x1571 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13571*]:
+ 85: 0x1571 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13572*]:
     → "Things keep turning from bad to worse."
  86: 0x1578 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x1579 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=749*
@@ -2676,11 +2676,11 @@ SUBROUTINE_1305:
 
 SUBROUTINE_15D6:
  96: 0x15D6 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
- 97: 0x15E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13572*]:
+ 97: 0x15E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13573*]:
     → "And look who's come to sprinkle rock salt in my wounds. <Sigh> As long as you insist on bringing thunderclouds into my life, I might as well ask--you're familiar with Hildebert, yes?"
  98: 0x15E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x15E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1E)
-100: 0x15EF [0x24] CREATE_DIALOG(message_id=13573*, default_option=0*, option_flags=0*)
+100: 0x15EF [0x24] CREATE_DIALOG(message_id=13574*, default_option=0*, option_flags=0*)
     → "Do you remember Hildebert? [Hildewho?/Oh, yeah, the old guy./Say nothing.]"
 101: 0x15F6 [0x25] WAIT_DIALOG_SELECT()
 102: 0x15F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x179F
@@ -2716,7 +2716,7 @@ SUBROUTINE_1661:
 130: 0x16ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 
 SUBROUTINE_16FE:
-131: 0x16FE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13574*]:
+131: 0x16FE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13575*]:
     → "The head of the Order of Weatherspoon, always wearing those same tired white vestments."
 132: 0x1705 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x1706 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x1720
@@ -2781,12 +2781,12 @@ SUBROUTINE_1809:
 
 SUBROUTINE_18D9:
 188: 0x18D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x29)
-189: 0x18E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13575*]:
+189: 0x18E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13576*]:
     → "Ugh. I'm eminently aware that not all of us have a way with names, but if you're going to barge into the castle and stick your fingers in everyone's pies, you should at least have the decency to answer a simple question!"
 190: 0x18E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x18E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2A)
 192: 0x18EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
-193: 0x18F6 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13576*]:
+193: 0x18F6 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13577*]:
     → "Well, now you've discovered a character flaw to work on. One of many, I presume."
 194: 0x18FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x18FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2C)
@@ -2821,10 +2821,10 @@ SUBROUTINE_199E:
 220: 0x19D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 
 SUBROUTINE_19E7:
-221: 0x19E7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13577*]:
+221: 0x19E7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13578*]:
     → "[Then perhaps/I would perhaps be wrong to presume that] you are aware that his wife fell ill due to some strange demon called Balamor's machinations?"
 222: 0x19EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-223: 0x19EF [0x24] CREATE_DIALOG(message_id=13578*, default_option=0*, option_flags=0*)
+223: 0x19EF [0x24] CREATE_DIALOG(message_id=13579*, default_option=0*, option_flags=0*)
     → "Were you aware of this fact? [O-of course!/Nope.]"
 224: 0x19F6 [0x25] WAIT_DIALOG_SELECT()
 225: 0x19F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BC7
@@ -2842,7 +2842,7 @@ SUBROUTINE_19E7:
 SUBROUTINE_1A51:
 236: 0x1A51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 237: 0x1A62 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x23)
-238: 0x1A69 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13579*]:
+238: 0x1A69 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13580*]:
     → "Oho. Then I'm sure you can also tell me what her name is."
 239: 0x1A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x1A71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x24)
@@ -2902,7 +2902,7 @@ SUBROUTINE_1BC4:
 SUBROUTINE_1C21:
 289: 0x1C21 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 290: 0x1C32 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x21)
-291: 0x1C39 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13580*]:
+291: 0x1C39 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13581*]:
     → "Naturally. Even the most loose-lipped among our order knows better than to start spreading that around."
 292: 0x1C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x1C41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x22)
@@ -2921,16 +2921,16 @@ SUBROUTINE_1C5A:
 SUBROUTINE_1CA3:
 303: 0x1CA3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x1CC4
 304: 0x1CAB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x29)
-305: 0x1CB2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13581*]:
+305: 0x1CB2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13582*]:
     → "Far be it from me to sympathize with Hildebert--or anyone, really--when he's fighting with our beloved "princess," but even I must confess to harboring a bit of pity for his son, Marcellurin."
 306: 0x1CB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x1CBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2A)
 308: 0x1CC1 [0x01] GOTO 0x1D5B
 309: 0x1CC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x19)
-310: 0x1CCB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13582*]:
+310: 0x1CCB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13583*]:
     → "The blood of generations of exorcists courses through her veins, and she is more susceptible than most to the whims and whimsies of spirits."
 311: 0x1CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-312: 0x1CD3 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13583*]:
+312: 0x1CD3 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13584*]:
     → "She did return to us for a brief while when you purged Hades from the land..."
 313: 0x1CDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x1CDB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1A)
@@ -2945,7 +2945,7 @@ SUBROUTINE_1CA3:
 SUBROUTINE_1D25:
 322: 0x1D25 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 323: 0x1D36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1B)
-324: 0x1D3D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13584*]:
+324: 0x1D3D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13585*]:
     → "...But the slumber has taken hold of her once more. The sun has thrice risen since her eyes opened last. Even I must confess concern, not only for her, but for her son, Marcellurin."
 325: 0x1D44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x1D45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1C)
@@ -2966,7 +2966,7 @@ SUBROUTINE_1D5B:
 339: 0x1DB9 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=749*
 
 SUBROUTINE_1DC8:
-340: 0x1DC8 [0x48] [System] [8293*]:
+340: 0x1DC8 [0x48] [System] [8294*]:
     → "@@"
 341: 0x1DCB [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x1DCC [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17830055/0x011010A7)
@@ -2989,25 +2989,25 @@ SUBROUTINE_1DC8:
 359: 0x1E3F [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=749*
 360: 0x1E4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 361: 0x1E5F [0x1C] WAIT(30* ticks)
-362: 0x1E62 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13585*]:
+362: 0x1E62 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13586*]:
     → "Ingrid, you need not miss any sleep over my mental state."
 363: 0x1E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x1E6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0C)
 365: 0x1E71 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=749*
 366: 0x1E80 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 367: 0x1E91 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0D)
-368: 0x1E98 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13586*]:
+368: 0x1E98 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13587*]:
     → "My duty is to support both my father and the Order of Weatherspoon during times of crisis."
 369: 0x1E9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 370: 0x1EA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0E)
 371: 0x1EA7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x1F8F
 372: 0x1EAF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x15)
-373: 0x1EB6 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13587*]:
+373: 0x1EB6 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13588*]:
     → "Altana knows that no love has been lost between you and my father over these past few months."
 374: 0x1EBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 375: 0x1EBE [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=749*
 376: 0x1ECD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
-377: 0x1EDE [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13588*]:
+377: 0x1EDE [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13589*]:
     → "And despite the past, you have spent countless nights working with Arciela for the betterment of us all."
 378: 0x1EE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x1EE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x16)
@@ -3015,19 +3015,19 @@ SUBROUTINE_1DC8:
 381: 0x1EF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=749*
 382: 0x1F03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 383: 0x1F14 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1D)
-384: 0x1F1B [0x2B] Ingrid (ID: 17830046/0x0110109E) [13589*]:
+384: 0x1F1B [0x2B] Ingrid (ID: 17830046/0x0110109E) [13590*]:
     → "Ah, the ramblings of a madman never cease, do they?"
 385: 0x1F22 [0x23] WAIT_FOR_DIALOG_INTERACTION
 386: 0x1F23 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1E)
 387: 0x1F2A [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=749*
 388: 0x1F39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 389: 0x1F4A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1F)
-390: 0x1F51 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13590*]:
+390: 0x1F51 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13591*]:
     → "Yet do not think me wholly without heart. I take full responsibility for the chaos within the order."
 391: 0x1F58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 392: 0x1F59 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x20)
 393: 0x1F60 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x23)
-394: 0x1F67 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13591*]:
+394: 0x1F67 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13592*]:
     → "I had hoped to seek his counsel...but my tongue always gets the better of me."
 395: 0x1F6E [0x23] WAIT_FOR_DIALOG_INTERACTION
 396: 0x1F6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x24)
@@ -3036,7 +3036,7 @@ SUBROUTINE_1DC8:
 399: 0x1F8C [0x01] GOTO 0x1FCD
 400: 0x1F8F [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=749*
 401: 0x1F9E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
-402: 0x1FAF [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13592*]:
+402: 0x1FAF [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13593*]:
     → "The curse has taken its toll on many, but my mother has been hit particularly hard. I fear her spirit and body have suffered in equal measure."
 403: 0x1FB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 404: 0x1FB7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0E)
@@ -3044,7 +3044,7 @@ SUBROUTINE_1DC8:
 
 SUBROUTINE_1FCD:
 406: 0x1FCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
-407: 0x1FDE [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13593*]:
+407: 0x1FDE [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13594*]:
     → ""We did exactly as Arciela wanted, and look where that has gotten us.""
 408: 0x1FE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x1FE6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x1FF6
@@ -3053,7 +3053,7 @@ SUBROUTINE_1FCD:
 412: 0x1FF6 [0x03] Work_Zone[4] = 1*
 
 SUBROUTINE_1FFB:
-413: 0x1FFB [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13594*]:
+413: 0x1FFB [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13595*]:
     → "My father [continues to make/had previously made] that assertion, so any struggle of words between you was inevitable."
 414: 0x2002 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x1B)
 415: 0x2009 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -3061,13 +3061,13 @@ SUBROUTINE_1FFB:
 417: 0x2019 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 418: 0x202A [0x7B] Unnamed NPC (ID: 17830055/0x011010A7) stops talking
 419: 0x202F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x07)
-420: 0x2036 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13595*]:
+420: 0x2036 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13596*]:
     → "His stubbornness is beyond parallel, especially when presented with evidence to the contrary."
 421: 0x203D [0x23] WAIT_FOR_DIALOG_INTERACTION
 422: 0x203E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x08)
 423: 0x2045 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x09)
 424: 0x204C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x29)
-425: 0x2053 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13596*]:
+425: 0x2053 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13597*]:
     → "And you? Your blithe naivete is rather incomparable as well."
 426: 0x205A [0x1C] WAIT(40* ticks)
 427: 0x205D [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x22)
@@ -3078,7 +3078,7 @@ SUBROUTINE_1FFB:
 432: 0x2082 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 433: 0x2093 [0x79] Unnamed NPC (ID: 17830055/0x011010A7) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 434: 0x209D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
-435: 0x20A4 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13597*]:
+435: 0x20A4 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13598*]:
     → "And you, your invective language."
 436: 0x20AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 437: 0x20AC [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17830055/0x011010A7))
@@ -3094,7 +3094,7 @@ SUBROUTINE_1FFB:
 447: 0x2102 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
 448: 0x2107 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 449: 0x2108 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-450: 0x210D [0x48] [System] [8293*]:
+450: 0x210D [0x48] [System] [8294*]:
     → "@@"
 451: 0x2110 [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x2111 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
@@ -3107,7 +3107,7 @@ SUBROUTINE_1FFB:
 459: 0x2143 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 460: 0x2154 [0x1C] WAIT(90* ticks)
 461: 0x2157 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x19)
-462: 0x215E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13598*]:
+462: 0x215E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13599*]:
     → "Marcellurin and I grew up together."
 463: 0x2165 [0x23] WAIT_FOR_DIALOG_INTERACTION
 464: 0x2166 [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=749*
@@ -3120,7 +3120,7 @@ SUBROUTINE_1FFB:
 471: 0x21AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 
 SUBROUTINE_21BE:
-472: 0x21BE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13599*]:
+472: 0x21BE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13600*]:
     → "Nothing in life is ever easy--least of all our relationship. My mother failed a purgation ritual, losing all that she held dear...and thus Hildebert took me in."
 473: 0x21C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 474: 0x21C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1A)
@@ -3135,12 +3135,12 @@ SUBROUTINE_21BE:
 SUBROUTINE_2210:
 482: 0x2210 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 483: 0x2221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1B)
-484: 0x2228 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13600*]:
+484: 0x2228 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13601*]:
     → "But the distance between us has always been great. Only Marcellurin treated me as true family."
 485: 0x222F [0x23] WAIT_FOR_DIALOG_INTERACTION
 486: 0x2230 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1C)
 487: 0x2237 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x35)
-488: 0x223E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13601*]:
+488: 0x223E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13602*]:
     → "He remained by my side through thick and thin, especially when the tragedy of my mother's passing grew too much to bear."
 489: 0x2245 [0x23] WAIT_FOR_DIALOG_INTERACTION
 490: 0x2246 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x36)
@@ -3155,7 +3155,7 @@ SUBROUTINE_2210:
 
 SUBROUTINE_22A5:
 499: 0x22A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x37)
-500: 0x22AC [0x2B] Ingrid (ID: 17830046/0x0110109E) [13602*]:
+500: 0x22AC [0x2B] Ingrid (ID: 17830046/0x0110109E) [13603*]:
     → "What would that say about me were I to stand idle while a similar fate threatens to ravage him?"
 501: 0x22B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 502: 0x22B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x38)
@@ -3180,14 +3180,14 @@ SUBROUTINE_230D:
 519: 0x2345 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 
 SUBROUTINE_2356:
-520: 0x2356 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13603*]:
+520: 0x2356 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13604*]:
     → "But the blind fool fails to recognize that the possibility is staring him down."
 521: 0x235D [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
 522: 0x2366 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 523: 0x2367 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 524: 0x236C [0x23] WAIT_FOR_DIALOG_INTERACTION
 525: 0x236D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Ingrid (ID: 17830046/0x0110109E))
-526: 0x2373 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13604*]:
+526: 0x2373 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13605*]:
     → "Should the worst strike him unawares, I fear it would crush him beyond repair."
 527: 0x237A [0x23] WAIT_FOR_DIALOG_INTERACTION
 528: 0x237B [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x2395
@@ -3201,7 +3201,7 @@ SUBROUTINE_2356:
 SUBROUTINE_23BE:
 535: 0x23BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 536: 0x23CF [0x4A] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E)
-537: 0x23D8 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13605*]:
+537: 0x23D8 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13606*]:
     → "If anyone can predict his reaction, it is me. The boy is blissfully half-witted."
 538: 0x23DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 539: 0x23E0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3219,10 +3219,10 @@ SUBROUTINE_243E:
 549: 0x243E [0x4A] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer
 550: 0x2447 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 551: 0x2448 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
-552: 0x244D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13606*]:
+552: 0x244D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13607*]:
     → "Come, now. Would someone sensitive be able to withstand my acid tongue for this many years?"
 553: 0x2454 [0x23] WAIT_FOR_DIALOG_INTERACTION
-554: 0x2455 [0x24] CREATE_DIALOG(message_id=13607*, default_option=0*, option_flags=0*)
+554: 0x2455 [0x24] CREATE_DIALOG(message_id=13608*, default_option=0*, option_flags=0*)
     → "Choose your response carefully. [...I suppose not./...Oh, I wouldn't say that...]"
 555: 0x245C [0x25] WAIT_DIALOG_SELECT()
 556: 0x245D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2509
@@ -3242,13 +3242,13 @@ SUBROUTINE_243E:
 
 SUBROUTINE_24C6:
 570: 0x24C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
-571: 0x24D7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13608*]:
+571: 0x24D7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13609*]:
     → "Bah!"
 572: 0x24DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x32)
 573: 0x24E5 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
 574: 0x24EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x33)
 575: 0x24F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-576: 0x24F7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13609*]:
+576: 0x24F7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13610*]:
     → "What am I thinking, gushing with emotion to the likes of you?"
 577: 0x24FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x24FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x34)
@@ -3269,12 +3269,12 @@ SUBROUTINE_24C6:
 
 SUBROUTINE_256D:
 593: 0x256D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
-594: 0x257E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13608*]:
+594: 0x257E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13609*]:
     → "Bah!"
 595: 0x2585 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x2586 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x26)
 597: 0x258D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x27)
-598: 0x2594 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13609*]:
+598: 0x2594 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13610*]:
     → "What am I thinking, gushing with emotion to the likes of you?"
 599: 0x259B [0x23] WAIT_FOR_DIALOG_INTERACTION
 600: 0x259C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x28)
@@ -3284,13 +3284,13 @@ SUBROUTINE_25A6:
 602: 0x25A6 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=749*
 603: 0x25B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[749*, 0*]
 604: 0x25C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2D)
-605: 0x25CD [0x2B] Ingrid (ID: 17830046/0x0110109E) [13610*]:
+605: 0x25CD [0x2B] Ingrid (ID: 17830046/0x0110109E) [13611*]:
     → "The only one in this city who pays you a lick of attention is Arciela."
 606: 0x25D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x25D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2E)
 608: 0x25DC [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x266B
 609: 0x25E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2F)
-610: 0x25EB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13611*]:
+610: 0x25EB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13612*]:
     → "But you are not the only one who supports her. I, too, must do my part to unite the city under her banner."
 611: 0x25F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 612: 0x25F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x30)
@@ -3305,13 +3305,13 @@ SUBROUTINE_25A6:
 
 SUBROUTINE_2652:
 621: 0x2652 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3B)
-622: 0x2659 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13612*]:
+622: 0x2659 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13613*]:
     → "I am due for a meeting with Gratzigg at the Peacekeepers' Coalition before sundown."
 623: 0x2660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 624: 0x2661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3C)
 625: 0x2668 [0x01] GOTO 0x26EF
 626: 0x266B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2F)
-627: 0x2672 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13613*]:
+627: 0x2672 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13614*]:
     → "Though the rift between Arciela and the orders has been mended, I must advise those who doubted her in the best way to comport themselves going forward."
 628: 0x2679 [0x23] WAIT_FOR_DIALOG_INTERACTION
 629: 0x267A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x30)
@@ -3326,7 +3326,7 @@ SUBROUTINE_2652:
 
 SUBROUTINE_26D9:
 638: 0x26D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3B)
-639: 0x26E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13614*]:
+639: 0x26E0 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13615*]:
     → "Gratzigg is but the first of many, and he has bid me visit his manse."
 640: 0x26E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 641: 0x26E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3C)
@@ -3334,7 +3334,7 @@ SUBROUTINE_26D9:
 SUBROUTINE_26EF:
 642: 0x26EF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
 643: 0x26F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3D)
-644: 0x26FB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13615*]:
+644: 0x26FB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13616*]:
     → "I would be surprisingly unopposed to you joining me there, should you feel it would serve the princess's best interest."
 645: 0x2702 [0x23] WAIT_FOR_DIALOG_INTERACTION
 646: 0x2703 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3E)
@@ -3736,10 +3736,10 @@ SUBROUTINE_2A65:
  82: 0x2A76 [0x1C] WAIT(120* ticks)
  83: 0x2A79 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x11)
  84: 0x2A80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Oscairn (ID: 17830103/0x011010D7), tag_num=0x04)
- 85: 0x2A87 [0x2B] Oscairn (ID: 17830103/0x011010D7) [13617*]:
+ 85: 0x2A87 [0x2B] Oscairn (ID: 17830103/0x011010D7) [13618*]:
     → "Lookin' for Ingrid?"
  86: 0x2A8E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x2A8F [0x2B] Oscairn (ID: 17830103/0x011010D7) [13618*]:
+ 87: 0x2A8F [0x2B] Oscairn (ID: 17830103/0x011010D7) [13619*]:
     → "She passed by here, sure, but the maester's busy and shooed her away. 'Fraid he'd do the same to you."
  88: 0x2A96 [0x1C] WAIT(60* ticks)
  89: 0x2A99 [0x6E] LocalPlayer uses emote 7*
@@ -3791,7 +3791,7 @@ SUBROUTINE_2B99:
 
 SUBROUTINE_2C01:
 131: 0x2C01 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
-132: 0x2C07 [0x48] [System] [8293*]:
+132: 0x2C07 [0x48] [System] [8294*]:
     → "@@"
 133: 0x2C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x2C0B [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-91.681*, pos_z=11.636*, pos_y=-0.649*, direction=177.3°*)
@@ -3805,7 +3805,7 @@ SUBROUTINE_2C01:
 142: 0x2C39 [0x1C] WAIT(50* ticks)
 143: 0x2C3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
 144: 0x2C4D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-145: 0x2C5E [0x2B] Gratzigg (ID: 17830041/0x01101099) [13619*]:
+145: 0x2C5E [0x2B] Gratzigg (ID: 17830041/0x01101099) [13620*]:
     → "Round up everyone you can! I don't care if they're on leave--we need every hand we can get to root out that jungle menace!"
 146: 0x2C65 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x38)
 147: 0x2C6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x39)
@@ -3871,12 +3871,12 @@ SUBROUTINE_2E09:
 205: 0x2E17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x20)
 206: 0x2E1E [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
 207: 0x2E24 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
-208: 0x2E2E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13620*]:
+208: 0x2E2E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13621*]:
     → "I see you've chosen to tag along."
 209: 0x2E35 [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x2E36 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 211: 0x2E3B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x29)
-212: 0x2E42 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13621*]:
+212: 0x2E42 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13622*]:
     → "I had hoped to have a fruitful discussion with our "esteemed" friend, but with the way he's ranting and raving I would have better luck playing catch-the-heartwing blindfolded."
 213: 0x2E49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2A)
 214: 0x2E50 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
@@ -3919,7 +3919,7 @@ SUBROUTINE_2F31:
 249: 0x2F62 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 250: 0x2F63 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
 251: 0x2F68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
-252: 0x2F6F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13622*]:
+252: 0x2F6F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13623*]:
     → "<Sigh> I should have expected no less. The disturbances in the jungle keep going from bad to worse, and even I can't bring myself to call down Altana's wrath upon him."
 253: 0x2F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x2F77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2C)
@@ -3928,7 +3928,7 @@ SUBROUTINE_2F31:
 257: 0x2F9E [0x79] Ingrid (ID: 17830046/0x0110109E) looks at Gratzigg (ID: 17830041/0x01101099) (Basic look)
 258: 0x2FA8 [0x79] LocalPlayer looks at Gratzigg (ID: 17830041/0x01101099) (Basic look)
 259: 0x2FB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x22)
-260: 0x2FB9 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13623*]:
+260: 0x2FB9 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13624*]:
     → "I demand everyone double down on their patrols--and if I see even one crack in Jorius Yett, it'll be your hides!"
 261: 0x2FC0 [0x6E] Unnamed NPC (ID: 17830055/0x011010A7) uses emote 7*
 262: 0x2FC7 [0x99] Wait for Unnamed NPC (ID: 17830055/0x011010A7) animation to complete
@@ -3947,7 +3947,7 @@ SUBROUTINE_2F31:
 275: 0x3028 [0x7B] Gratzigg (ID: 17830041/0x01101099) stops talking
 276: 0x302D [0x4B] UPDATE_ENTITY_YAW(entity=Gratzigg (ID: 17830041/0x01101099), yaw=22.3°*)
 277: 0x3034 [0x79] Unnamed NPC (ID: 17830055/0x011010A7) looks at Unnamed NPC (ID: 17830056/0x011010A8) (Basic look)
-278: 0x303E [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13624*]:
+278: 0x303E [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13625*]:
     → "The maester is even more relentless than usual these days..."
 279: 0x3045 [0x1C] WAIT(100* ticks)
 280: 0x3048 [0x4B] UPDATE_ENTITY_YAW(entity=LocalPlayer, yaw=6.0°*)
@@ -3955,7 +3955,7 @@ SUBROUTINE_2F31:
 282: 0x3050 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 283: 0x3055 [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x3056 [0x79] Unnamed NPC (ID: 17830056/0x011010A8) looks at Unnamed NPC (ID: 17830055/0x011010A7) (Basic look)
-285: 0x3060 [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13625*]:
+285: 0x3060 [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13626*]:
     → "I'll say."
 286: 0x3067 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x3068 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -3971,7 +3971,7 @@ SUBROUTINE_2F31:
 297: 0x30C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x35)
 298: 0x30CE [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17830055/0x011010A7))
 299: 0x30D4 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17830056/0x011010A8))
-300: 0x30DA [0x2B] Gratzigg (ID: 17830041/0x01101099) [13626*]:
+300: 0x30DA [0x2B] Gratzigg (ID: 17830041/0x01101099) [13627*]:
     → "You there! Get out there before I strip you of your uniforms and make you run stark naked across Big Bridge!"
 301: 0x30E1 [0x1C] WAIT(20* ticks)
 302: 0x30E4 [0x4A] Unnamed NPC (ID: 17830055/0x011010A7) looks at Gratzigg (ID: 17830041/0x01101099)
@@ -3994,7 +3994,7 @@ SUBROUTINE_2F31:
 319: 0x3152 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
 320: 0x3157 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 321: 0x315C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2D)
-322: 0x3163 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13627*]:
+322: 0x3163 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13628*]:
     → "At least the pig isn't running around blaming Arciela for all this."
 323: 0x316A [0x1C] WAIT(20* ticks)
 324: 0x316D [0x79] Gratzigg (ID: 17830041/0x01101099) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
@@ -4011,7 +4011,7 @@ SUBROUTINE_2F31:
 335: 0x31C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 336: 0x31C8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
 337: 0x31CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x22)
-338: 0x31D4 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13628*]:
+338: 0x31D4 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13629*]:
     → "Brush up those uniforms, men!"
 339: 0x31DB [0x6E] Unnamed NPC (ID: 17830055/0x011010A7) uses emote 7*
 340: 0x31E2 [0x99] Wait for Unnamed NPC (ID: 17830055/0x011010A7) animation to complete
@@ -4019,7 +4019,7 @@ SUBROUTINE_2F31:
 342: 0x31EE [0x99] Wait for Unnamed NPC (ID: 17830056/0x011010A8) animation to complete
 343: 0x31F3 [0x1C] WAIT(120* ticks)
 344: 0x31F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x31F7 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13629*]:
+345: 0x31F7 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13630*]:
     → "None of what befell the city would've happened if the Peackeepers hadn't failed to uphold our charge!"
 346: 0x31FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x31FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x23)
@@ -4035,7 +4035,7 @@ SUBROUTINE_2F31:
 357: 0x324E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ingrid (ID: 17830046/0x0110109E) Render.Flags0 and Render.Flags3 conditions are met
 358: 0x3253 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 359: 0x3258 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2D)
-360: 0x325F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13630*]:
+360: 0x325F [0x2B] Ingrid (ID: 17830046/0x0110109E) [13631*]:
     → "At least the pig can issue calls to action."
 361: 0x3266 [0x1C] WAIT(20* ticks)
 362: 0x3269 [0x79] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
@@ -4052,7 +4052,7 @@ SUBROUTINE_2F31:
 SUBROUTINE_32AC:
 372: 0x32AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
 373: 0x32BD [0x79] LocalPlayer looks at Gratzigg (ID: 17830041/0x01101099) (Basic look)
-374: 0x32C7 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13631*]:
+374: 0x32C7 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13632*]:
     → "Ingrid, you insufferable-- I told you that I don't have time for any of your nonsense until I get things cleared up around here!"
 375: 0x32CE [0x4A] LocalPlayer looks at Gratzigg (ID: 17830041/0x01101099)
 376: 0x32D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2F)
@@ -4065,7 +4065,7 @@ SUBROUTINE_32AC:
 383: 0x32FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 384: 0x32FB [0x2A] GET_REQ_LEVEL(level=8, entity_id=Gratzigg (ID: 17830041/0x01101099))
 385: 0x3301 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x20)
-386: 0x3308 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13632*]:
+386: 0x3308 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13633*]:
     → "Get your keister outta here before I kick it to the streets myself!"
 387: 0x330F [0x23] WAIT_FOR_DIALOG_INTERACTION
 388: 0x3310 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x21)
@@ -4078,7 +4078,7 @@ SUBROUTINE_32AC:
 395: 0x3351 [0x1C] WAIT(60* ticks)
 396: 0x3354 [0x79] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 397: 0x335E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x25)
-398: 0x3365 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13633*]:
+398: 0x3365 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13634*]:
     → "...But some things never change."
 399: 0x336C [0x23] WAIT_FOR_DIALOG_INTERACTION
 400: 0x336D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x26)
@@ -4104,7 +4104,7 @@ SUBROUTINE_32AC:
 420: 0x3400 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17830056/0x011010A8)
 421: 0x3406 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17830055/0x011010A7))
 422: 0x340B [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17830056/0x011010A8))
-423: 0x3410 [0x48] [System] [8293*]:
+423: 0x3410 [0x48] [System] [8294*]:
     → "@@"
 424: 0x3413 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x3414 [0xBA] SET_ENTITY_POSITION(entity_id=Ingrid (ID: 17830046/0x0110109E), pos_x=-76.004*, pos_z=-5.555*, pos_y=-0.148*, direction=188.1°*)
@@ -4133,12 +4133,12 @@ SUBROUTINE_32AC:
 448: 0x34AB [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=751*
 449: 0x34BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
 450: 0x34CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x35)
-451: 0x34D2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13634*]:
+451: 0x34D2 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13635*]:
     → "What a worthless mongrel. How can he keep the peace if he cannot even keep his own troops in order?"
 452: 0x34D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x34DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x36)
 454: 0x34E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x39)
-455: 0x34E8 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13635*]:
+455: 0x34E8 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13636*]:
     → "<Sigh> This "incident" Gratizgg spoke of...I have no choice but to clean it up in his stead."
 456: 0x34EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x34F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3A)
@@ -4153,12 +4153,12 @@ SUBROUTINE_32AC:
 
 SUBROUTINE_354F:
 466: 0x354F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x37)
-467: 0x3556 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13636*]:
+467: 0x3556 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13637*]:
     → "Someone suspicious traipsing about Yorcia Weald, southwest of the frontier station? Could you picture anything more laughably absurd?"
 468: 0x355D [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x355E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x38)
 470: 0x3565 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x23)
-471: 0x356C [0x2B] Ingrid (ID: 17830046/0x0110109E) [13637*]:
+471: 0x356C [0x2B] Ingrid (ID: 17830046/0x0110109E) [13638*]:
     → "If the perpetrator is not a pioneer, then it stands to reason..."
 472: 0x3573 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x3574 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x24)
@@ -4175,10 +4175,10 @@ SUBROUTINE_35BE:
 482: 0x35C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
 483: 0x35D7 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 484: 0x35DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1D)
-485: 0x35E3 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13638*]:
+485: 0x35E3 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13639*]:
     → "...that it could be the dread fiend Balamor. Presuming he has not decided to possess Fremilla again."
 486: 0x35EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-487: 0x35EB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13639*]:
+487: 0x35EB [0x2B] Ingrid (ID: 17830046/0x0110109E) [13640*]:
     → "Those two-bit goons Gratzigg decided to dress up in armor would stand no chance against one of that caliber. Once again, it falls to me to clean up others' messes."
 488: 0x35F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x35F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1E)
@@ -4187,15 +4187,15 @@ SUBROUTINE_35BE:
 492: 0x360C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
 493: 0x361D [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 494: 0x3622 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1D)
-495: 0x3629 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13640*]:
+495: 0x3629 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13641*]:
     → "...that it could be the dread fiend Balamor. Presuming he has not decided to possess Fremilla again."
 496: 0x3630 [0x23] WAIT_FOR_DIALOG_INTERACTION
-497: 0x3631 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13641*]:
+497: 0x3631 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13642*]:
     → "But with Hades gone, what purpose would masquerading around in human form serve?"
 498: 0x3638 [0x23] WAIT_FOR_DIALOG_INTERACTION
 499: 0x3639 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=751*
 500: 0x3648 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[751*, 0*]
-501: 0x3659 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13642*]:
+501: 0x3659 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13643*]:
     → "Hmph. I shall make him spit it out when I grab him."
 502: 0x3660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 503: 0x3661 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1E)
@@ -4212,7 +4212,7 @@ SUBROUTINE_3677:
 
 SUBROUTINE_36C0:
 512: 0x36C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1F)
-513: 0x36C7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13643*]:
+513: 0x36C7 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13644*]:
     → "Perhaps you would like to see this all play out, given your previous run-ins with him. But no, more likely than not you have your hands full bleeding the city's bayld coffers dry. Forget I said anything."
 514: 0x36CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x36CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x20)
@@ -4502,7 +4502,7 @@ SUBROUTINE_3737:
 SUBROUTINE_3943:
  58: 0x3943 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  59: 0x3954 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Oscairn (ID: 17830103/0x011010D7), tag_num=0x04)
- 60: 0x395B [0x2B] Oscairn (ID: 17830103/0x011010D7) [13646*]:
+ 60: 0x395B [0x2B] Oscairn (ID: 17830103/0x011010D7) [13647*]:
     → "Gratzigg and Ingrid are likely mincing words at the Peacekeepers' Coalition--and the high exorcist is likely in one of her moods."
  61: 0x3962 [0x1C] WAIT(60* ticks)
  62: 0x3965 [0x6E] LocalPlayer uses emote 7*
@@ -4581,12 +4581,12 @@ SUBROUTINE_3B6A:
 127: 0x3B6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 128: 0x3B7B [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x3B95
 129: 0x3B83 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x25)
-130: 0x3B8A [0x2B] Gratzigg (ID: 17830041/0x01101099) [13647*]:
+130: 0x3B8A [0x2B] Gratzigg (ID: 17830041/0x01101099) [13648*]:
     → "Ingrid! Did you parley with the enemy to get this...thing!?"
 131: 0x3B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x3B92 [0x01] GOTO 0x3BAB
 133: 0x3B95 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x25)
-134: 0x3B9C [0x2B] Gratzigg (ID: 17830041/0x01101099) [13648*]:
+134: 0x3B9C [0x2B] Gratzigg (ID: 17830041/0x01101099) [13649*]:
     → "That Morimar guy who came to the castle gave this to you? What use could any of us have for a sullied piece of cloth?"
 135: 0x3BA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x25)
 136: 0x3BAA [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -4603,7 +4603,7 @@ SUBROUTINE_3BAB:
 SUBROUTINE_3BEE:
 144: 0x3BEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[751*, 0*]
 145: 0x3BFF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x41)
-146: 0x3C06 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13649*]:
+146: 0x3C06 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13650*]:
     → "Open your eyes, fool. Even you can understand what this means."
 147: 0x3C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x3C0E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x42)
@@ -4611,13 +4611,13 @@ SUBROUTINE_3BEE:
 150: 0x3C24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[751*, 0*]
 151: 0x3C35 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x43)
 152: 0x3C3C [0x27] REQ_SET(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x2A)
-153: 0x3C43 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13650*]:
+153: 0x3C43 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13651*]:
     → "...Impossible!"
 154: 0x3C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x3C4B [0x2A] GET_REQ_LEVEL(level=8, entity_id=Gratzigg (ID: 17830041/0x01101099))
 156: 0x3C51 [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
 157: 0x3C57 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x20)
-158: 0x3C5E [0x2B] Gratzigg (ID: 17830041/0x01101099) [13651*]:
+158: 0x3C5E [0x2B] Gratzigg (ID: 17830041/0x01101099) [13652*]:
     → "By all that is holy, this seal--it's Jorius's!"
 159: 0x3C65 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x3C66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x21)
@@ -4627,12 +4627,12 @@ SUBROUTINE_3BEE:
 164: 0x3C94 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x88)
 165: 0x3C9B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x22)
 166: 0x3CA2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x21)
-167: 0x3CA9 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13652*]:
+167: 0x3CA9 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13653*]:
     → "Maybe there is some semblance of a brain inside that rock head of yours. Jorius gave these marks to August's soldiers during the founder king's initial foray into the hinterlands."
 168: 0x3CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x3CB1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x22)
 170: 0x3CB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x29)
-171: 0x3CBF [0x2B] Ingrid (ID: 17830046/0x0110109E) [13653*]:
+171: 0x3CBF [0x2B] Ingrid (ID: 17830046/0x0110109E) [13654*]:
     → "Lest you think I play you for a fool yet again, take a close look at the handiwork. Such methods have been lost to the annals of time."
 172: 0x3CC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x3CC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2A)
@@ -4643,7 +4643,7 @@ SUBROUTINE_3BEE:
 178: 0x3CFC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
 179: 0x3D03 [0x7B] Gratzigg (ID: 17830041/0x01101099) stops talking
 180: 0x3D08 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x26)
-181: 0x3D0F [0x2B] Gratzigg (ID: 17830041/0x01101099) [13654*]:
+181: 0x3D0F [0x2B] Gratzigg (ID: 17830041/0x01101099) [13655*]:
     → "How would common trash get a hold of something like this?"
 182: 0x3D16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x3D17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x27)
@@ -4652,7 +4652,7 @@ SUBROUTINE_3BEE:
 186: 0x3D3E [0x79] Gratzigg (ID: 17830041/0x01101099) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 187: 0x3D48 [0x79] LocalPlayer looks at Gratzigg (ID: 17830041/0x01101099) (Basic look)
 188: 0x3D52 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x28)
-189: 0x3D59 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13655*]:
+189: 0x3D59 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13656*]:
     → "...I believe you, Ingrid. If anyone'd know the details of such wards, it'd be you."
 190: 0x3D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x3D61 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x29)
@@ -4663,14 +4663,14 @@ SUBROUTINE_3BEE:
 196: 0x3D99 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x21)
 197: 0x3DA0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x22)
 198: 0x3DA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3B)
-199: 0x3DAE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13656*]:
+199: 0x3DAE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13657*]:
     → "Although I am quite certain of its authenticity, Hildebert will want to have a look himself."
 200: 0x3DB5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3C)
 201: 0x3DBC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3D)
 202: 0x3DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x3DC4 [0x79] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 204: 0x3DCE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x24)
-205: 0x3DD5 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13657*]:
+205: 0x3DD5 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13658*]:
     → "Of course. But I'd be careful with that prickly bugger--once he's made up his mind, there's no convincing him otherwise."
 206: 0x3DDC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3E)
 207: 0x3DE3 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
@@ -4682,7 +4682,7 @@ SUBROUTINE_3BEE:
 213: 0x3E0D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[751*, 0*]
 214: 0x3E1E [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 215: 0x3E23 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x49)
-216: 0x3E2A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13658*]:
+216: 0x3E2A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13659*]:
     → "Hmph. Leave him to me. If I can't make him see that this is for the good of the city, no one can."
 217: 0x3E31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x3E32 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x4A)
@@ -4692,7 +4692,7 @@ SUBROUTINE_3BEE:
 222: 0x3E5C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x2B)
 223: 0x3E63 [0x7B] Gratzigg (ID: 17830041/0x01101099) stops talking
 224: 0x3E68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x26)
-225: 0x3E6F [0x2B] Gratzigg (ID: 17830041/0x01101099) [13659*]:
+225: 0x3E6F [0x2B] Gratzigg (ID: 17830041/0x01101099) [13660*]:
     → "Well, well..."
 226: 0x3E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x3E77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x27)
@@ -4701,7 +4701,7 @@ SUBROUTINE_3BEE:
 230: 0x3E9E [0x79] Gratzigg (ID: 17830041/0x01101099) looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 231: 0x3EA8 [0x79] LocalPlayer looks at Gratzigg (ID: 17830041/0x01101099) (Basic look)
 232: 0x3EB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x28)
-233: 0x3EB9 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13660*]:
+233: 0x3EB9 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13661*]:
     → "It pains me to admit my gratitude, but...thank you. Jorius's relics'll usher in peace to those who have lost their way."
 234: 0x3EC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x3EC1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x29)
@@ -4709,17 +4709,17 @@ SUBROUTINE_3BEE:
 237: 0x3ECF [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=751*
 238: 0x3EDE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [EventEntity, EventEntity], work=[751*, 0*]
 239: 0x3EEF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3B)
-240: 0x3EF6 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13661*]:
+240: 0x3EF6 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13662*]:
     → "There is something mystical about this mark...something that goes beyond the mere divine."
 241: 0x3EFD [0x23] WAIT_FOR_DIALOG_INTERACTION
-242: 0x3EFE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13662*]:
+242: 0x3EFE [0x2B] Ingrid (ID: 17830046/0x0110109E) [13663*]:
     → "Although I am quite certain of its authenticity, Hildebert will want to have a look himself."
 243: 0x3F05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3C)
 244: 0x3F0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3D)
 245: 0x3F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x3F14 [0x79] LocalPlayer looks at Ingrid (ID: 17830046/0x0110109E) (Basic look)
 247: 0x3F1E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gratzigg (ID: 17830041/0x01101099), tag_num=0x24)
-248: 0x3F25 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13663*]:
+248: 0x3F25 [0x2B] Gratzigg (ID: 17830041/0x01101099) [13664*]:
     → "Ah, yes. Perhaps it'll help bring Hildebert's wife back from her illness."
 249: 0x3F2C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3E)
 250: 0x3F33 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
@@ -4731,7 +4731,7 @@ SUBROUTINE_3BEE:
 256: 0x3F5D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[751*, 0*]
 257: 0x3F6E [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
 258: 0x3F73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x21)
-259: 0x3F7A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13664*]:
+259: 0x3F7A [0x2B] Ingrid (ID: 17830046/0x0110109E) [13665*]:
     → "We can only hope. Though we have won a major victory, peace has not fully returned to our city."
 260: 0x3F81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x3F82 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x22)
@@ -4768,7 +4768,7 @@ SUBROUTINE_407C:
 288: 0x407C [0x2A] GET_REQ_LEVEL(level=8, entity_id=Ingrid (ID: 17830046/0x0110109E))
 289: 0x4082 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
 290: 0x408C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x35)
-291: 0x4093 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13665*]:
+291: 0x4093 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13666*]:
     → "<Player>, you may not have expected me to say this, but...thank you."
 292: 0x409A [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x409B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x36)
@@ -4785,11 +4785,11 @@ SUBROUTINE_407C:
 SUBROUTINE_40ED:
 303: 0x40ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[751*, 0*]
 304: 0x40FE [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
-305: 0x4104 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13666*]:
+305: 0x4104 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13667*]:
     → "Arciela would surely like to be apprised of what has transpired."
 306: 0x410B [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x410C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x39)
-308: 0x4113 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13667*]:
+308: 0x4113 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13668*]:
     → "Morimar's answers only brought on more questions...and Hildebert's wife has yet to make a recovery."
 309: 0x411A [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x411B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x3A)
@@ -4805,7 +4805,7 @@ SUBROUTINE_40ED:
 SUBROUTINE_417A:
 319: 0x417A [0x79] Ingrid (ID: 17830046/0x0110109E) looks at LocalPlayer (Basic look)
 320: 0x4184 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x37)
-321: 0x418B [0x2B] Ingrid (ID: 17830046/0x0110109E) [13668*]:
+321: 0x418B [0x2B] Ingrid (ID: 17830046/0x0110109E) [13669*]:
     → "I can sense the day of our next meeting is close."
 322: 0x4192 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x4193 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x38)
@@ -5321,7 +5321,7 @@ SUBROUTINE_43E2:
  62: 0x4414 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Amchuchu (ID: 17830044/0x0110109C) Render.Flags0 and Render.Flags3 conditions are met
  63: 0x4419 [0x1C] WAIT(80* ticks)
  64: 0x441C [0x79] Amchuchu (ID: 17830044/0x0110109C) looks at LocalPlayer (Basic look)
- 65: 0x4426 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13669*]:
+ 65: 0x4426 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13670*]:
     → "Why, would you look--it's <Player>!"
  66: 0x442D [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x442E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Amchuchu (ID: 17830044/0x0110109C))
@@ -5339,7 +5339,7 @@ SUBROUTINE_4483:
  77: 0x4483 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[753*, 0*]
  78: 0x4494 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Amchuchu (ID: 17830044/0x0110109C), tag_num=0x1A)
  79: 0x449B [0x1C] WAIT(20* ticks)
- 80: 0x449E [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13670*]:
+ 80: 0x449E [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13671*]:
     → "Have you heard the wonderful news-wews? Faustoise has finally come to!"
  81: 0x44A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x44A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Amchuchu (ID: 17830044/0x0110109C), tag_num=0x1B)
@@ -5357,11 +5357,11 @@ SUBROUTINE_4483:
 SUBROUTINE_450B:
  93: 0x450B [0x4E] SET_ENTITY_HIDE_FLAG: Show Ingrid (ID: 17830046/0x0110109E)
  94: 0x4511 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Amchuchu (ID: 17830044/0x0110109C), tag_num=0x26)
- 95: 0x4518 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13671*]:
+ 95: 0x4518 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13672*]:
     → "I've got to give Hildebert some creditaru--he's good for more than just airing his grievances."
  96: 0x451F [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x4520 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Amchuchu (ID: 17830044/0x0110109C), tag_num=0x28)
- 98: 0x4527 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13672*]:
+ 98: 0x4527 [0x2B] Amchuchu (ID: 17830044/0x0110109C) [13673*]:
     → "O-oops! I think my inner-winner monologue just slipped out. Ta-ta for now!"
  99: 0x452E [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x452F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Amchuchu (ID: 17830044/0x0110109C), tag_num=0x29)
@@ -5406,7 +5406,7 @@ SUBROUTINE_4585:
 137: 0x4673 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[753*, 0*]
 
 SUBROUTINE_4684:
-138: 0x4684 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13673*]:
+138: 0x4684 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13674*]:
     → "<Player>, did you have something to do with Faustoise's miraculous recovery?"
 139: 0x468B [0x1C] WAIT(30* ticks)
 140: 0x468E [0x2A] GET_REQ_LEVEL(level=8, entity_id=Rigobertine (ID: 17830130/0x011010F2))
@@ -5461,7 +5461,7 @@ SUBROUTINE_476E:
 
 SUBROUTINE_480B:
 187: 0x480B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x19)
-188: 0x4812 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13674*]:
+188: 0x4812 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13675*]:
     → "Then perhaps it really was that old curmudgeon after all."
 189: 0x4819 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x481A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1A)
@@ -5493,7 +5493,7 @@ SUBROUTINE_48B2:
 
 SUBROUTINE_48FB:
 214: 0x48FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1B)
-215: 0x4902 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13675*]:
+215: 0x4902 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13676*]:
     → "I came to see if that mark of Jorius that the old relic Morimar gave us could be of any use, but evidently I am not needed here."
 216: 0x4909 [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x490A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x1C)
@@ -5515,7 +5515,7 @@ SUBROUTINE_4960:
 231: 0x497A [0x4A] Behsa Alehgo (ID: 17830132/0x011010F4) looks at Unnamed NPC (ID: 17830056/0x011010A8)
 232: 0x4983 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 233: 0x4988 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17830056/0x011010A8)
-234: 0x498E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13676*]:
+234: 0x498E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13677*]:
     → "Truth be told, I am quite relieved...for Marcellurin's sake."
 235: 0x4995 [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x4996 [0x80] LOAD_WAIT(entity=Unnamed NPC (ID: 17830056/0x011010A8))
@@ -5571,7 +5571,7 @@ SUBROUTINE_4AD3:
 282: 0x4B05 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[753*, 0*]
 283: 0x4B16 [0xBA] SET_ENTITY_POSITION(entity_id=Ingrid (ID: 17830046/0x0110109E), pos_x=68.780*, pos_z=2.164*, pos_y=-40.000*, direction=271.2°*)
 284: 0x4B23 [0x1C] WAIT(40* ticks)
-285: 0x4B26 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13677*]:
+285: 0x4B26 [0x2B] Ingrid (ID: 17830046/0x0110109E) [13678*]:
     → "Madam Faustoise?"
 286: 0x4B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x4B2E [0x1C] WAIT(80* ticks)
@@ -5584,7 +5584,7 @@ SUBROUTINE_4AD3:
 294: 0x4B67 [0x52] END_LOAD_SCHEDULER: End scheduler "s058" with entities [EventEntity, EventEntity], work=753*
 295: 0x4B76 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[753*, 0*]
 296: 0x4B87 [0x27] REQ_SET(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x68)
-297: 0x4B8E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13678*]:
+297: 0x4B8E [0x2B] Ingrid (ID: 17830046/0x0110109E) [13679*]:
     → "Are you sure you feel well enough to take to the streets alone?"
 298: 0x4B95 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
 299: 0x4B99 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
@@ -5596,7 +5596,7 @@ SUBROUTINE_4AD3:
 305: 0x4BB1 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=753*
 306: 0x4BC0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[753*, 0*]
 307: 0x4BD1 [0x79] Ingrid (ID: 17830046/0x0110109E) looks at Unnamed NPC (ID: 17830056/0x011010A8) (Basic look)
-308: 0x4BDB [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13679*]:
+308: 0x4BDB [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13680*]:
     → "Oh, Ingrid!"
 309: 0x4BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x4BE3 [0x1C] WAIT(20* ticks)
@@ -5609,7 +5609,7 @@ SUBROUTINE_4AD3:
 317: 0x4C1B [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17830056/0x011010A8)
 318: 0x4C24 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 319: 0x4C25 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
-320: 0x4C2A [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13680*]:
+320: 0x4C2A [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13681*]:
     → "My beloved Ingrid...how long has it been? You've gotten so tall...since I last laid these weary eyes on your sparkling blonde hair..."
 321: 0x4C31 [0x6E] Unnamed NPC (ID: 17830056/0x011010A8) uses emote 5*
 322: 0x4C38 [0x99] Wait for Unnamed NPC (ID: 17830056/0x011010A8) animation to complete
@@ -5619,20 +5619,20 @@ SUBROUTINE_4AD3:
 326: 0x4C50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[753*, 0*]
 327: 0x4C61 [0x7B] Ingrid (ID: 17830046/0x0110109E) stops talking
 328: 0x4C66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x4B)
-329: 0x4C6D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13681*]:
+329: 0x4C6D [0x2B] Ingrid (ID: 17830046/0x0110109E) [13682*]:
     → "Wh-what!?"
 330: 0x4C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x4C75 [0x1C] WAIT(90* ticks)
 332: 0x4C78 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=753*
 333: 0x4C87 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[753*, 0*]
-334: 0x4C98 [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13682*]:
+334: 0x4C98 [0x2B] Unnamed NPC (ID: 17830056/0x011010A8) [13683*]:
     → "Come! We must return to the depths of Yorcia Weald...where the threads of fate intertwined."
 335: 0x4C9F [0x1C] WAIT(90* ticks)
 336: 0x4CA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x4CA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ingrid (ID: 17830046/0x0110109E), tag_num=0x4C)
 338: 0x4CAA [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=753*
 339: 0x4CB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [EventEntity, EventEntity], work=[753*, 0*]
-340: 0x4CCA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13683*]:
+340: 0x4CCA [0x2B] Ingrid (ID: 17830046/0x0110109E) [13684*]:
     → "No...it can't be..."
 341: 0x4CD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 342: 0x4CD2 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [EventEntity, EventEntity], work=753*
@@ -5670,7 +5670,7 @@ SUBROUTINE_4AD3:
 374: 0x4DBF [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ingrid (ID: 17830046/0x0110109E)
 375: 0x4DC5 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17830056/0x011010A8)
 376: 0x4DCB [0x1C] WAIT(60* ticks)
-377: 0x4DCE [0x48] [System] [8293*]:
+377: 0x4DCE [0x48] [System] [8294*]:
     → "@@"
 378: 0x4DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 379: 0x4DD2 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=67.285*, pos_z=5.466*, pos_y=-40.148*, direction=87.9°*)
@@ -5679,7 +5679,7 @@ SUBROUTINE_4AD3:
 382: 0x4E01 [0x1C] WAIT(100* ticks)
 383: 0x4E04 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se01" with entities [LocalPlayer, LocalPlayer], work=[753*, 0*]
 384: 0x4E15 [0x1C] WAIT(100* ticks)
-385: 0x4E18 [0x2B] Hildebert (ID: 17830035/0x01101093) [13684*]:
+385: 0x4E18 [0x2B] Hildebert (ID: 17830035/0x01101093) [13685*]:
     → "<Player>!"
 386: 0x4E1F [0x1C] WAIT(30* ticks)
 387: 0x4E22 [0x1C] WAIT(10* ticks)
@@ -5745,7 +5745,7 @@ SUBROUTINE_4FE2:
 443: 0x4FF3 [0x79] Unnamed NPC (ID: 17830055/0x011010A7) looks at Hildebert (ID: 17830035/0x01101093) (Basic look)
 444: 0x4FFD [0x4A] Behsa Alehgo (ID: 17830132/0x011010F4) looks at Hildebert (ID: 17830035/0x01101093)
 445: 0x5006 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x2F)
-446: 0x500D [0x2B] Hildebert (ID: 17830035/0x01101093) [13685*]:
+446: 0x500D [0x2B] Hildebert (ID: 17830035/0x01101093) [13686*]:
     → "Where is my wife? No...where's Faustoise!?"
 447: 0x5014 [0x23] WAIT_FOR_DIALOG_INTERACTION
 448: 0x5015 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x30)
@@ -5758,7 +5758,7 @@ SUBROUTINE_4FE2:
 455: 0x504E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x31)
 456: 0x5055 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17830055/0x011010A7) (Basic look)
 457: 0x505F [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x1B)
-458: 0x5066 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13686*]:
+458: 0x5066 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13687*]:
     → "Father, your anxiety is misplaced! Mother is surely in no condition to have gone far."
 459: 0x506D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x32)
 460: 0x5074 [0x79] Hildebert (ID: 17830035/0x01101093) looks at Unnamed NPC (ID: 17830055/0x011010A7) (Basic look)
@@ -5770,17 +5770,17 @@ SUBROUTINE_4FE2:
 466: 0x5092 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=753*
 467: 0x50A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[753*, 0*]
 468: 0x50B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x25)
-469: 0x50B9 [0x2B] Hildebert (ID: 17830035/0x01101093) [13687*]:
+469: 0x50B9 [0x2B] Hildebert (ID: 17830035/0x01101093) [13688*]:
     → "She is not your mother, nor my wife!"
 470: 0x50C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-471: 0x50C1 [0x2B] Hildebert (ID: 17830035/0x01101093) [13688*]:
+471: 0x50C1 [0x2B] Hildebert (ID: 17830035/0x01101093) [13689*]:
     → "Some vile spirit...some thing...has taken over her body!"
 472: 0x50C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 473: 0x50C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x26)
 474: 0x50D0 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=753*
 475: 0x50DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[753*, 0*]
 476: 0x50F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x27)
-477: 0x50F7 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13689*]:
+477: 0x50F7 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13690*]:
     → "A vile spirit? But how...?"
 478: 0x50FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 479: 0x50FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x28)
@@ -5799,7 +5799,7 @@ SUBROUTINE_4FE2:
 SUBROUTINE_517A:
 491: 0x517A [0x79] LocalPlayer looks at Hildebert (ID: 17830035/0x01101093) (Basic look)
 492: 0x5184 [0x7B] Hildebert (ID: 17830035/0x01101093) stops talking
-493: 0x5189 [0x2B] Hildebert (ID: 17830035/0x01101093) [13690*]:
+493: 0x5189 [0x2B] Hildebert (ID: 17830035/0x01101093) [13691*]:
     → "There is no time for your waffling! We must enlist the aid of the Peacekeepers forthwith!"
 494: 0x5190 [0x23] WAIT_FOR_DIALOG_INTERACTION
 495: 0x5191 [0x27] REQ_SET(priority=0x08, entity_id=Hildebert (ID: 17830035/0x01101093), tag_num=0x40)
@@ -5847,7 +5847,7 @@ SUBROUTINE_5292:
 533: 0x52C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x11)
 534: 0x52CC [0x2A] GET_REQ_LEVEL(level=8, entity_id=Hildebert (ID: 17830035/0x01101093))
 535: 0x52D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x15)
-536: 0x52D9 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13691*]:
+536: 0x52D9 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13692*]:
     → "I...do not understand. Mother headed for Yorcia Weald...and took Ingrid with her?"
 537: 0x52E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 538: 0x52E1 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x52FB
@@ -5861,7 +5861,7 @@ SUBROUTINE_5292:
 SUBROUTINE_5324:
 545: 0x5324 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[753*, 0*]
 546: 0x5335 [0x7B] Unnamed NPC (ID: 17830055/0x011010A7) stops talking
-547: 0x533A [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13692*]:
+547: 0x533A [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13693*]:
     → "Why Ingrid?"
 548: 0x5341 [0x23] WAIT_FOR_DIALOG_INTERACTION
 549: 0x5342 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x16)
@@ -5871,7 +5871,7 @@ SUBROUTINE_5324:
 553: 0x536C [0x7B] Unnamed NPC (ID: 17830055/0x011010A7) stops talking
 554: 0x5371 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x07)
 555: 0x5378 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x08)
-556: 0x537F [0x48] [System] [8293*]:
+556: 0x537F [0x48] [System] [8294*]:
     → "@@"
 557: 0x5382 [0x23] WAIT_FOR_DIALOG_INTERACTION
 558: 0x5383 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x10)
@@ -5882,7 +5882,7 @@ SUBROUTINE_5324:
 563: 0x53B6 [0x1C] WAIT(200* ticks)
 564: 0x53B9 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=753*
 565: 0x53C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[753*, 0*]
-566: 0x53D9 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13693*]:
+566: 0x53D9 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13694*]:
     → ""Where the threads of fate intertwined." What would that have to do with Yorcia Weald?"
 567: 0x53E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 568: 0x53E1 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Hildebert (ID: 17830035/0x01101093))
@@ -5906,7 +5906,7 @@ SUBROUTINE_5324:
 
 SUBROUTINE_5493:
 586: 0x5493 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x09)
-587: 0x549A [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13694*]:
+587: 0x549A [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13695*]:
     → "Perhaps...perhaps the spirit taking over my mother is not malicious, but rather the spirit of Ingrid's mother herself."
 588: 0x54A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 589: 0x54A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0A)
@@ -5929,7 +5929,7 @@ SUBROUTINE_5493:
 
 SUBROUTINE_553A:
 606: 0x553A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[753*, 0*]
-607: 0x554B [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13695*]:
+607: 0x554B [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13696*]:
     → "Alucia's talents as an exorcist were beyond compare, and she had the heart and beauty to match."
 608: 0x5552 [0x23] WAIT_FOR_DIALOG_INTERACTION
 609: 0x5553 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=753*
@@ -5945,12 +5945,12 @@ SUBROUTINE_55AB:
 617: 0x55AB [0x79] LocalPlayer looks at Unnamed NPC (ID: 17830055/0x011010A7) (Basic look)
 618: 0x55B5 [0x79] Unnamed NPC (ID: 17830055/0x011010A7) looks at LocalPlayer (Basic look)
 619: 0x55BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0B)
-620: 0x55C6 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13696*]:
+620: 0x55C6 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13697*]:
     → "A demonic presence residing in a small oak music box used her purity of spirit against her, leading to one of the most tragic tales of modern times."
 621: 0x55CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 622: 0x55CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0C)
 623: 0x55D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0D)
-624: 0x55DC [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13697*]:
+624: 0x55DC [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13698*]:
     → "The force lashed out, draining her of all her affinity for purgation."
 625: 0x55E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 626: 0x55E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x0E)
@@ -5983,11 +5983,11 @@ SUBROUTINE_562E:
 SUBROUTINE_56CB:
 650: 0x56CB [0x7B] Unnamed NPC (ID: 17830055/0x011010A7) stops talking
 651: 0x56D0 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x32)
-652: 0x56D7 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13698*]:
+652: 0x56D7 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13699*]:
     → "It was not some months later that she left her daughter Ingrid behind and wandered out into the forest alone."
 653: 0x56DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 654: 0x56DF [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17830055/0x011010A7))
-655: 0x56E5 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13699*]:
+655: 0x56E5 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13700*]:
     → "Her body was discovered a fortnight later, near a giant tree growing in the northwest of Yorcia Weald."
 656: 0x56EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 657: 0x56ED [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x5707
@@ -6033,11 +6033,11 @@ SUBROUTINE_581B:
 693: 0x5831 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 694: 0x5832 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 695: 0x5837 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x19)
-696: 0x583E [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13700*]:
+696: 0x583E [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13701*]:
     → "She could now be trying to guide Ingrid to that very spot."
 697: 0x5845 [0x23] WAIT_FOR_DIALOG_INTERACTION
 698: 0x5846 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Unnamed NPC (ID: 17830055/0x011010A7))
-699: 0x584C [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13701*]:
+699: 0x584C [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13702*]:
     → "We must stop her before the calamity is repeated."
 700: 0x5853 [0x23] WAIT_FOR_DIALOG_INTERACTION
 701: 0x5854 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x586E
@@ -6064,11 +6064,11 @@ SUBROUTINE_58E5:
 720: 0x5900 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17830055/0x011010A7) Render.Flags0 and Render.Flags3 conditions are met
 721: 0x5905 [0x7B] Unnamed NPC (ID: 17830055/0x011010A7) stops talking
 722: 0x590A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x13)
-723: 0x5911 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13702*]:
+723: 0x5911 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13703*]:
     → "Here. This will protect you."
 724: 0x5918 [0x23] WAIT_FOR_DIALOG_INTERACTION
 725: 0x5919 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x14)
-726: 0x5920 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13703*]:
+726: 0x5920 [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13704*]:
     → "Should you misplace it or otherwise have it wrested from your control, Rigobertine at the manse's entrance will provide you with another."
 727: 0x5927 [0x1C] WAIT(20* ticks)
 728: 0x592A [0x1C] WAIT(30* ticks)
@@ -6091,7 +6091,7 @@ SUBROUTINE_59CC:
 743: 0x59CC [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=400*)
 744: 0x59D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [Rigobertine (ID: 17830130/0x011010F2), Rigobertine (ID: 17830130/0x011010F2)], work=32*
 745: 0x59E0 [0x79] LocalPlayer looks at Unnamed NPC (ID: 17830055/0x011010A7) (Basic look)
-746: 0x59EA [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13704*]:
+746: 0x59EA [0x2B] Unnamed NPC (ID: 17830055/0x011010A7) [13705*]:
     → "I shall meet up with you there."
 747: 0x59F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 748: 0x59F2 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17830055/0x011010A7), tag_num=0x33)
@@ -6174,7 +6174,7 @@ SUBROUTINE_5A3F:
   1: 0x5B34 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x5B35 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x5B36 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x5B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=13616*)
+  4: 0x5B45 [0x1D] PRINT_EVENT_MESSAGE(message_id=13617*)
     → "Ingrid has stepped out for a brief meeting with Gratzigg at his manse. Perhaps it would behoove you to seek the two of them."
   5: 0x5B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x5B49 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -6262,14 +6262,14 @@ SUBROUTINE_5A3F:
   2: 0x5B7E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x5B7F [0x7B] EventEntity stops talking
   4: 0x5B84 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=30*
-  5: 0x5B93 [0x1D] PRINT_EVENT_MESSAGE(message_id=13705*)
+  5: 0x5B93 [0x1D] PRINT_EVENT_MESSAGE(message_id=13706*)
     → "Though we were initially relieved that Madam Faustoise awoke, I hesitate to say that she has made a true recovery."
   6: 0x5B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x5B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=13706*)
+  7: 0x5B97 [0x1D] PRINT_EVENT_MESSAGE(message_id=13707*)
     → "Marcellurin indicated that he would head to a large tree in the northwestern section of Yorcia Weald."
   8: 0x5B9A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x5B9B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=30*
- 10: 0x5BAA [0x1D] PRINT_EVENT_MESSAGE(message_id=13707*)
+ 10: 0x5BAA [0x1D] PRINT_EVENT_MESSAGE(message_id=13708*)
     → "My heart skips a beat to imagine that... Perhaps I am overthinking the danger. But please--hurry."
  11: 0x5BAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x5BAE [0x21] END_EVENT
@@ -6305,12 +6305,12 @@ SUBROUTINE_5A3F:
   3: 0x5BB7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x5BB8 [0x03] Work_Zone[3] = 2810*
   5: 0x5BBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x5BCC [0x1D] PRINT_EVENT_MESSAGE(message_id=13708*)
+  6: 0x5BCC [0x1D] PRINT_EVENT_MESSAGE(message_id=13709*)
     → "Marcellurin mentioned that you may have need of $6."
   7: 0x5BCF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x5BD0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=30*
   9: 0x5BDF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=30*
- 10: 0x5BEE [0x1D] PRINT_EVENT_MESSAGE(message_id=13709*)
+ 10: 0x5BEE [0x1D] PRINT_EVENT_MESSAGE(message_id=13710*)
     → "They are quite valuable, but I know you will put this one to good use."
  11: 0x5BF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x5BF2 [0x21] END_EVENT

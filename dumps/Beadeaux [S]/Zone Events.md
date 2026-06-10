@@ -40,13 +40,13 @@
 |       8 | 0x0010      |          16 |
 |       9 | 0x001F      |          31 |
 |      10 | 0xFFFFFFFF  |  4294967295 |
-|      11 | 0x1F25      |        7973 |
-|      12 | 0x1F18      |        7960 |
+|      11 | 0x1F26      |        7974 |
+|      12 | 0x1F19      |        7961 |
 |      13 | 0x0005      |           5 |
 |      14 | 0x0002      |           2 |
 |      15 | 0x0003      |           3 |
 |      16 | 0x0004      |           4 |
-|      17 | 0x1DA9      |        7593 |
+|      17 | 0x1DAA      |        7594 |
 |      18 | 0x00FF      |         255 |
 |      19 | 0x00C8      |         200 |
 |      20 | 0x0013      |          19 |
@@ -62,11 +62,11 @@
 |      30 | 0xFFFE2B32  |  4294847282 |
 |      31 | 0xFFFB3FBE  |  4294655934 |
 |      32 | 0xFFFCF2AE  |  4294767278 |
-|      33 | 0x1DB4      |        7604 |
-|      34 | 0x1DB5      |        7605 |
-|      35 | 0x1DB6      |        7606 |
-|      36 | 0x1DB7      |        7607 |
-|      37 | 0x1DDB      |        7643 |
+|      33 | 0x1DB5      |        7605 |
+|      34 | 0x1DB6      |        7606 |
+|      35 | 0x1DB7      |        7607 |
+|      36 | 0x1DB8      |        7608 |
+|      37 | 0x1DDC      |        7644 |
 |      38 | 0x0006      |           6 |
 |      39 | 0x0012      |          18 |
 |      40 | 0x0007      |           7 |
@@ -86,12 +86,12 @@
 |      54 | 0x001C      |          28 |
 |      55 | 0x001D      |          29 |
 |      56 | 0x001E      |          30 |
-|      57 | 0x1F10      |        7952 |
+|      57 | 0x1F11      |        7953 |
 |      58 | 0x003C      |          60 |
 |      59 | 0x0064      |         100 |
-|      60 | 0x1EFC      |        7932 |
+|      60 | 0x1EFD      |        7933 |
 |      61 | 0x00D9      |         217 |
-|      62 | 0x1DAC      |        7596 |
+|      62 | 0x1DAD      |        7597 |
 |      63 | 0x00C9      |         201 |
 |      64 | 0x00B4      |         180 |
 |      65 | 0xFFF6C42B  |  4294362155 |
@@ -164,9 +164,9 @@
 |     132 | 0xFFFFAA3A  |  4294945338 |
 |     133 | 0xFFFFFF06  |  4294967046 |
 |     134 | 0x0411      |        1041 |
-|     135 | 0x1EFE      |        7934 |
-|     136 | 0x1EFD      |        7933 |
-|     137 | 0x1F21      |        7969 |
+|     135 | 0x1EFF      |        7935 |
+|     136 | 0x1EFE      |        7934 |
+|     137 | 0x1F22      |        7970 |
 |     138 | 0x49265     |      299621 |
 |     139 | 0x96F5      |       38645 |
 |     140 | 0x9B45      |       39749 |
@@ -175,7 +175,7 @@
 |     143 | 0xA4EE      |       42222 |
 |     144 | 0x9C00      |       39936 |
 |     145 | 0x0078      |         120 |
-|     146 | 0x1DAA      |        7594 |
+|     146 | 0x1DAB      |        7595 |
 |     147 | 0x83C00     |      539648 |
 |     148 | 0x4E960     |      321888 |
 |     149 | 0xFFFF6315  |  4294927125 |
@@ -189,21 +189,21 @@
 
 ## String References
 
-- **7593**: Enter the battlefield? [Enter./Decline.]
-- **7594**: Leave the battlefield? [Run away./Stay.]
-- **7596**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7604**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7594**: Enter the battlefield? [Enter./Decline.]
+- **7595**: Leave the battlefield? [Run away./Stay.]
+- **7597**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7605**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7606**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7607**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7643**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7932**: Skip the event? [Yes./No.]
-- **7933**: Battlefield clear time: $3 second[/s]!
-- **7934**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7952**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7960**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7969**: You have broken the clear time record for "[Cracking Shells (B)/The Buried God]"!
-- **7973**: Which battlefield will you enter? [None./Cracking Shells (B)./The Buried God./././././././././././././././././././././././././././././]
+- **7608**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7644**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7933**: Skip the event? [Yes./No.]
+- **7934**: Battlefield clear time: $3 second[/s]!
+- **7935**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7953**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7961**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7970**: You have broken the clear time record for "[Cracking Shells (B)/The Buried God]"!
+- **7974**: Which battlefield will you enter? [None./Cracking Shells (B)./The Buried God./././././././././././././././././././././././././././././]
 
 ## Events
 
@@ -521,7 +521,7 @@
  13: 0x0087 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x008C [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0091 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x0096 [0x24] CREATE_DIALOG(message_id=7973*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x0096 [0x24] CREATE_DIALOG(message_id=7974*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Cracking Shells (B)./The Buried God./././././././././././././././././././././././././././././]"
  17: 0x009D [0x25] WAIT_DIALOG_SELECT()
  18: 0x009E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AC
@@ -534,7 +534,7 @@ SUBROUTINE_00D5:
 
 SUBROUTINE_00E6:
  23: 0x00E6 [0x1A] CALL_SUBROUTINE(address=0x117F)
- 24: 0x00E9 [0x24] CREATE_DIALOG(message_id=7960*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00E9 [0x24] CREATE_DIALOG(message_id=7961*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00F0 [0x25] WAIT_DIALOG_SELECT()
  26: 0x00F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0101
@@ -560,7 +560,7 @@ SUBROUTINE_0154:
  44: 0x0157 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x015A [0x1A] CALL_SUBROUTINE(address=0x08AC)
  46: 0x015D [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x017B
- 47: 0x0165 [0x24] CREATE_DIALOG(message_id=7593*, default_option=1*, option_flags=0*)
+ 47: 0x0165 [0x24] CREATE_DIALOG(message_id=7594*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x016C [0x25] WAIT_DIALOG_SELECT()
  49: 0x016D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x017B
@@ -634,22 +634,22 @@ SUBROUTINE_028F:
 109: 0x02C1 [0x01] GOTO 0x0848
 110: 0x02C4 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x030E
 111: 0x02CC [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02DB
-112: 0x02D4 [0x48] [System] [7604*]:
+112: 0x02D4 [0x48] [System] [7605*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 113: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x02D8 [0x01] GOTO 0x0308
 115: 0x02DB [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02EA
-116: 0x02E3 [0x48] [System] [7605*]:
+116: 0x02E3 [0x48] [System] [7606*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 117: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x02E7 [0x01] GOTO 0x0308
 119: 0x02EA [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02F9
-120: 0x02F2 [0x48] [System] [7606*]:
+120: 0x02F2 [0x48] [System] [7607*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 121: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x02F6 [0x01] GOTO 0x0308
 123: 0x02F9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0308
-124: 0x0301 [0x48] [System] [7607*]:
+124: 0x0301 [0x48] [System] [7608*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 125: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0305 [0x01] GOTO 0x0308
@@ -658,7 +658,7 @@ SUBROUTINE_0308:
 127: 0x0308 [0x01] GOTO 0x085F
 
 SUBROUTINE_0518:
-128: 0x0518 [0x48] [System] [7952*]:
+128: 0x0518 [0x48] [System] [7953*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 129: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x051C [0x01] GOTO 0x085F
@@ -682,7 +682,7 @@ SUBROUTINE_057C:
 SUBROUTINE_05A0:
 143: 0x05A0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x05C6
 144: 0x05A8 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x05C6
-145: 0x05B0 [0x24] CREATE_DIALOG(message_id=7932*, default_option=1*, option_flags=0*)
+145: 0x05B0 [0x24] CREATE_DIALOG(message_id=7933*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 146: 0x05B7 [0x25] WAIT_DIALOG_SELECT()
 147: 0x05B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C6
@@ -822,7 +822,7 @@ SUBROUTINE_0848:
 271: 0x084B [0x02] IF !(0* == 1*) GOTO 0x0858
 272: 0x0853 [0x03] ExtData[1]->WorkLocal[0] = 4*
 273: 0x0858 [0x01] GOTO 0x01DA
-274: 0x085B [0x48] [System] [7596*]:
+274: 0x085B [0x48] [System] [7597*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 275: 0x085E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1143,7 +1143,7 @@ SUBROUTINE_0C05:
  58: 0x0C10 [0x01] GOTO 0x0C2E
  59: 0x0C13 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0CDE
  60: 0x0C1B [0x1C] WAIT(15* ticks)
- 61: 0x0C1E [0x24] CREATE_DIALOG(message_id=7932*, default_option=1*, option_flags=0*)
+ 61: 0x0C1E [0x24] CREATE_DIALOG(message_id=7933*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  62: 0x0C25 [0x25] WAIT_DIALOG_SELECT()
  63: 0x0C26 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CDE
@@ -1198,18 +1198,18 @@ SUBROUTINE_0D05:
 102: 0x0D12 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0D2D
 103: 0x0D1A [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 104: 0x0D21 [0x15] Work_Zone[5] /= 60*
-105: 0x0D26 [0x48] [System] [7934*]:
+105: 0x0D26 [0x48] [System] [7935*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 106: 0x0D29 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0D2A [0x01] GOTO 0x0D31
-108: 0x0D2D [0x48] [System] [7933*]:
+108: 0x0D2D [0x48] [System] [7934*]:
     → "Battlefield clear time: $3 second[/s]!"
 109: 0x0D30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0D31:
 110: 0x0D31 [0x02] IF !(ExtData[1]->WorkLocal[26] > ExtData[1]->WorkLocal[25]) GOTO 0x0D45
 111: 0x0D39 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[24]
-112: 0x0D3E [0x48] [System] [7969*]:
+112: 0x0D3E [0x48] [System] [7970*]:
     → "You have broken the clear time record for "[Cracking Shells (B)/The Buried God]"!"
 113: 0x0D41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0D42 [0x01] GOTO 0x0D66
@@ -1488,7 +1488,7 @@ SUBROUTINE_0F3D:
 
 ```
 # Dead code (unreachable instructions):
-     0x0F83 [0x24] CREATE_DIALOG(message_id=7593*, default_option=1*, option_flags=0*)
+     0x0F83 [0x24] CREATE_DIALOG(message_id=7594*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0F8A [0x25] WAIT_DIALOG_SELECT()
      0x0F8B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F99
@@ -1532,7 +1532,7 @@ SUBROUTINE_0F3D:
      0x1097 [0x1C] WAIT(120* ticks)
      0x109A [0x46] CAMERA_CONTROL: Restore default settings
      0x109C [0x1B] RETURN
-     0x109D [0x24] CREATE_DIALOG(message_id=7594*, default_option=1*, option_flags=0*)
+     0x109D [0x24] CREATE_DIALOG(message_id=7595*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x10A4 [0x25] WAIT_DIALOG_SELECT()
      0x10A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10B3

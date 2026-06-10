@@ -26,11 +26,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x039B      |         923 |
-|       1 | 0x1DEB      |        7659 |
-|       2 | 0x1DEC      |        7660 |
-|       3 | 0x1DED      |        7661 |
-|       4 | 0x1DEE      |        7662 |
-|       5 | 0x1DEA      |        7658 |
+|       1 | 0x1DEC      |        7660 |
+|       2 | 0x1DED      |        7661 |
+|       3 | 0x1DEE      |        7662 |
+|       4 | 0x1DEF      |        7663 |
+|       5 | 0x1DEB      |        7659 |
 |       6 | 0x000B      |          11 |
 |       7 | 0x4A094     |      303252 |
 |       8 | 0xFFFFC0E6  |  4294951142 |
@@ -108,10 +108,10 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x03] Work_Zone[2] = 923*
-  2: 0x000C [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7659*]:
+  2: 0x000C [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7660*]:
     → "Don't forget to show that $3 to Cobra Lieutenant Miah Riyuh in Windurst."
   3: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0014 [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7660*]:
+  4: 0x0014 [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7661*]:
     → "A seasoned adventurer like yourself should have no problem passing the initiation!"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x21] END_EVENT
@@ -140,10 +140,10 @@
 
 ```
   0: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0023 [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7661*]:
+  1: 0x0023 [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7662*]:
     → "So, you're one of us now! Ah, victory is nigh! The Shadow Lord trembles on his throne as we speak!"
   2: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x002B [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7662*]:
+  3: 0x002B [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7663*]:
     → "And if I keep telling myself that, someday it will come true, no?"
   4: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0033 [0x21] END_EVENT
@@ -171,7 +171,7 @@
 
 ```
   0: 0x0035 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x003A [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7658*]:
+  1: 0x003A [0x2B] Kalsu-Kalasu (ID: 17478339/0x010AB2C3) [7659*]:
     → "Good luck, and may the wisdom of the stars light your path!"
   2: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0042 [0x21] END_EVENT

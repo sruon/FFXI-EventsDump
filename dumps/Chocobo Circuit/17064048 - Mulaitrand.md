@@ -21,18 +21,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x23F3      |        9203 |
+|       1 | 0x23F4      |        9204 |
 |       2 | 0x0032      |          50 |
 |       3 | 0x038C      |         908 |
-|       4 | 0x23F4      |        9204 |
+|       4 | 0x23F5      |        9205 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x23F6      |        9206 |
+|       6 | 0x23F7      |        9207 |
 |       7 | 0x0010      |          16 |
-|       8 | 0x23F7      |        9207 |
-|       9 | 0x23F5      |        9205 |
+|       8 | 0x23F8      |        9208 |
+|       9 | 0x23F6      |        9206 |
 |      10 | 0x0011      |          17 |
-|      11 | 0x18FE      |        6398 |
-|      12 | 0x23FA      |        9210 |
+|      11 | 0x18FF      |        6399 |
+|      12 | 0x23FB      |        9211 |
 |      13 | 0x00C8      |         200 |
 |      14 | 0x0012      |          18 |
 |      15 | 0xFFFF1331  |  4294906673 |
@@ -48,19 +48,19 @@
 |      25 | 0x0005      |           5 |
 |      26 | 0xFFFE5A55  |  4294859349 |
 |      27 | 0x003C      |          60 |
-|      28 | 0x23F8      |        9208 |
+|      28 | 0x23F9      |        9209 |
 |      29 | 0x005A      |          90 |
 
 ## String References
 
-- **6398**: You do not have enough gil.
-- **9203**: This is the entrance to the grandstand. You'll be able to take in every sight and spectacle of the race from here!
-- **9204**: To enter, please either show your $3 or pay an admission fee of $0 gil.
-- **9205**: Pay the admission fee? [Yes./No.]
-- **9206**: Enter the grounds? [Sure./Not right now.]
-- **9207**: You hand the $3 to %.
-- **9208**: Go right ahead, [sir/ma'am]. Enjoy the races!
-- **9210**: Please note that once you exit, you will be required to pay an additional admission fee to reenter.
+- **6399**: You do not have enough gil.
+- **9204**: This is the entrance to the grandstand. You'll be able to take in every sight and spectacle of the race from here!
+- **9205**: To enter, please either show your $3 or pay an admission fee of $0 gil.
+- **9206**: Pay the admission fee? [Yes./No.]
+- **9207**: Enter the grounds? [Sure./Not right now.]
+- **9208**: You hand the $3 to %.
+- **9209**: Go right ahead, [sir/ma'am]. Enjoy the races!
+- **9211**: Please note that once you exit, you will be required to pay an additional admission fee to reenter.
 
 ## Events
 
@@ -134,16 +134,16 @@
   4: 0x001C [0x1A] CALL_SUBROUTINE(address=0x00A0)
   5: 0x001F [0x01] GOTO 0x009E
   6: 0x0022 [0x4A] EventEntity looks at LocalPlayer
-  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "This is the entrance to the grandstand. You'll be able to take in every sight and spectacle of the race from here!"
   8: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002F [0x03] Work_Zone[2] = 50*
  10: 0x0034 [0x03] Work_Zone[3] = 908*
- 11: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
+ 11: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9205*)
     → "To enter, please either show your $3 or pay an admission fee of $0 gil."
  12: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0070
- 14: 0x0045 [0x24] CREATE_DIALOG(message_id=9206*, default_option=1*, option_flags=0*)
+ 14: 0x0045 [0x24] CREATE_DIALOG(message_id=9207*, default_option=1*, option_flags=0*)
     → "Enter the grounds? [Sure./Not right now.]"
  15: 0x004C [0x25] WAIT_DIALOG_SELECT()
  16: 0x004D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006D
@@ -151,7 +151,7 @@
  18: 0x005A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  19: 0x005C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  20: 0x005E [0x03] Work_Zone[3] = 908*
- 21: 0x0063 [0x48] [System] [9207*]:
+ 21: 0x0063 [0x48] [System] [9208*]:
     → "You hand the $3 to %."
  22: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0067 [0x1A] CALL_SUBROUTINE(address=0x00A0)
@@ -159,7 +159,7 @@
 
 SUBROUTINE_006D:
  25: 0x006D [0x01] GOTO 0x009E
- 26: 0x0070 [0x24] CREATE_DIALOG(message_id=9205*, default_option=1*, option_flags=0*)
+ 26: 0x0070 [0x24] CREATE_DIALOG(message_id=9206*, default_option=1*, option_flags=0*)
     → "Pay the admission fee? [Yes./No.]"
  27: 0x0077 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0078 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009E
@@ -169,7 +169,7 @@ SUBROUTINE_006D:
  32: 0x0089 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0097
  33: 0x0091 [0x1A] CALL_SUBROUTINE(address=0x00A0)
  34: 0x0094 [0x01] GOTO 0x009B
- 35: 0x0097 [0x48] [System] [6398*]:
+ 35: 0x0097 [0x48] [System] [6399*]:
     → "You do not have enough gil."
  36: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -182,7 +182,7 @@ SUBROUTINE_009E:
 
 SUBROUTINE_00A0:
  40: 0x00A0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 41: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9210*)
+ 41: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
     → "Please note that once you exit, you will be required to pay an additional admission fee to reenter."
  42: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -213,7 +213,7 @@ SUBROUTINE_00A0:
 
 SUBROUTINE_0149:
  68: 0x0149 [0x1C] WAIT(60* ticks)
- 69: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
+ 69: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
     → "Go right ahead, [sir/ma'am]. Enjoy the races!"
  70: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0150 [0x1C] WAIT(60* ticks)

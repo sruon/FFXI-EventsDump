@@ -31,7 +31,7 @@
 |       6 | 0x0013      |          19 |
 |       7 | 0x0019      |          25 |
 |       8 | 0x000F      |          15 |
-|       9 | 0x1D1D      |        7453 |
+|       9 | 0x1D1E      |        7454 |
 |      10 | 0x005A      |          90 |
 |      11 | 0x012C      |         300 |
 |      12 | 0x001E      |          30 |
@@ -42,7 +42,7 @@
 |      17 | 0x0002      |           2 |
 |      18 | 0x0001      |           1 |
 |      19 | 0x0078      |         120 |
-|      20 | 0x1D1F      |        7455 |
+|      20 | 0x1D20      |        7456 |
 |      21 | 0x0208      |         520 |
 |      22 | 0x00C9      |         201 |
 |      23 | 0x002D      |          45 |
@@ -50,8 +50,8 @@
 
 ## String References
 
-- **7453**: The $3 flashes with blinding light!
-- **7455**: ...But the door remains closed. You have no choice but to return to Jeuno.
+- **7454**: The $3 flashes with blinding light!
+- **7456**: ...But the door remains closed. You have no choice but to return to Jeuno.
 
 ## Events
 
@@ -171,7 +171,7 @@
   9: 0x008A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[25*, 0*]
  10: 0x009B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x00AC [0x1C] WAIT(15* ticks)
- 12: 0x00AF [0x48] [System] [7453*]:
+ 12: 0x00AF [0x48] [System] [7454*]:
     → "The $3 flashes with blinding light!"
  13: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00B3 [0x1C] WAIT(60* ticks)
@@ -306,7 +306,7 @@ SUBROUTINE_01B7:
  12: 0x01DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s089" with entities [EventEntity, EventEntity], work=[25*, 0*]
  13: 0x01ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  14: 0x01FE [0x1C] WAIT(15* ticks)
- 15: 0x0201 [0x48] [System] [7453*]:
+ 15: 0x0201 [0x48] [System] [7454*]:
     → "The $3 flashes with blinding light!"
  16: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0205 [0x1C] WAIT(60* ticks)
@@ -316,7 +316,7 @@ SUBROUTINE_01B7:
  21: 0x0225 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  22: 0x0236 [0x1C] WAIT(120* ticks)
  23: 0x0239 [0x02] IF !(Work_Zone[7] == 2*) GOTO 0x0245
- 24: 0x0241 [0x48] [System] [7455*]:
+ 24: 0x0241 [0x48] [System] [7456*]:
     → "...But the door remains closed. You have no choice but to return to Jeuno."
  25: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0245 [0x1C] WAIT(520* ticks)

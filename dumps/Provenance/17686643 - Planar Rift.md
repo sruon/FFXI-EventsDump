@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E08      |        7688 |
-|       1 | 0x1E09      |        7689 |
+|       0 | 0x1E09      |        7689 |
+|       1 | 0x1E0A      |        7690 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00FF      |         255 |
 |       4 | 0x004F      |          79 |
@@ -31,9 +31,9 @@
 |       7 | 0x001E      |          30 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x40000000  |  1073741824 |
-|      10 | 0x1E0A      |        7690 |
-|      11 | 0x1CBA      |        7354 |
-|      12 | 0x1CBB      |        7355 |
+|      10 | 0x1E0B      |        7691 |
+|      11 | 0x1CBB      |        7355 |
+|      12 | 0x1CBC      |        7356 |
 |      13 | 0x000A      |          10 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x00C9      |         201 |
@@ -43,11 +43,11 @@
 
 ## String References
 
-- **7354**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
-- **7355**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
-- **7688**: The threads of space and time warp and bend before your eyes...
-- **7689**: Travel to the Walk of Echoes? [Yes, venture forth./No, remain behind.]
-- **7690**: You have not claimed all of your battle rewards.
+- **7355**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
+- **7356**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
+- **7689**: The threads of space and time warp and bend before your eyes...
+- **7690**: Travel to the Walk of Echoes? [Yes, venture forth./No, remain behind.]
+- **7691**: You have not claimed all of your battle rewards.
 
 ## Events
 
@@ -98,10 +98,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7688*]:
+  0: 0x0001 [0x48] [System] [7689*]:
     → "The threads of space and time warp and bend before your eyes..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7689*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7690*, default_option=0*, option_flags=0*)
     → "Travel to the Walk of Echoes? [Yes, venture forth./No, remain behind.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004E
@@ -194,14 +194,14 @@ SUBROUTINE_005E:
 #### Opcodes
 
 ```
-  0: 0x0062 [0x48] [System] [7690*]:
+  0: 0x0062 [0x48] [System] [7691*]:
     → "You have not claimed all of your battle rewards."
   1: 0x0065 [0x1C] WAIT(40* ticks)
-  2: 0x0068 [0x24] CREATE_DIALOG(message_id=7354*, default_option=1*, option_flags=0*)
+  2: 0x0068 [0x24] CREATE_DIALOG(message_id=7355*, default_option=1*, option_flags=0*)
     → "Relinquish your claim to the battle spoils? [Yes./On second thought...]"
   3: 0x006F [0x25] WAIT_DIALOG_SELECT()
   4: 0x0070 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A3
-  5: 0x0078 [0x24] CREATE_DIALOG(message_id=7355*, default_option=1*, option_flags=0*)
+  5: 0x0078 [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
     → "Items will be lost. Are you certain? [Yes, relinquish./No, retain.]"
   6: 0x007F [0x25] WAIT_DIALOG_SELECT()
   7: 0x0080 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090

@@ -73,7 +73,7 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x0837      |        2103 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1C28      |        7208 |
+|       5 | 0x1C29      |        7209 |
 |       6 | 0xFFFEA06C  |  4294877292 |
 |       7 | 0x12DCA     |       77258 |
 |       8 | 0x018E      |         398 |
@@ -84,66 +84,66 @@
 |      13 | 0x000D      |          13 |
 |      14 | 0xFFFE8E7B  |  4294872699 |
 |      15 | 0x129D2     |       76242 |
-|      16 | 0x1DB7      |        7607 |
-|      17 | 0x1C1B      |        7195 |
+|      16 | 0x1DB8      |        7608 |
+|      17 | 0x1C1C      |        7196 |
 |      18 | 0x003C      |          60 |
-|      19 | 0x1C29      |        7209 |
-|      20 | 0x1C2A      |        7210 |
-|      21 | 0x1C2B      |        7211 |
+|      19 | 0x1C2A      |        7210 |
+|      20 | 0x1C2B      |        7211 |
+|      21 | 0x1C2C      |        7212 |
 |      22 | 0x0175      |         373 |
 |      23 | 0x0085      |         133 |
 |      24 | 0x0003      |           3 |
 |      25 | 0x00C8      |         200 |
-|      26 | 0x1C1C      |        7196 |
-|      27 | 0x1C1E      |        7198 |
-|      28 | 0x1C1F      |        7199 |
+|      26 | 0x1C1D      |        7197 |
+|      27 | 0x1C1F      |        7199 |
+|      28 | 0x1C20      |        7200 |
 |      29 | 0x007D      |         125 |
-|      30 | 0x1C20      |        7200 |
-|      31 | 0x1C21      |        7201 |
-|      32 | 0x1C22      |        7202 |
-|      33 | 0x1C23      |        7203 |
-|      34 | 0x1C24      |        7204 |
-|      35 | 0x1C25      |        7205 |
-|      36 | 0x1C26      |        7206 |
+|      30 | 0x1C21      |        7201 |
+|      31 | 0x1C22      |        7202 |
+|      32 | 0x1C23      |        7203 |
+|      33 | 0x1C24      |        7204 |
+|      34 | 0x1C25      |        7205 |
+|      35 | 0x1C26      |        7206 |
+|      36 | 0x1C27      |        7207 |
 |      37 | 0x002D      |          45 |
 |      38 | 0x00B4      |         180 |
-|      39 | 0x1C27      |        7207 |
+|      39 | 0x1C28      |        7208 |
 |      40 | 0x005A      |          90 |
 |      41 | 0x0708      |        1800 |
 |      42 | 0x0001      |           1 |
-|      43 | 0x1CF8      |        7416 |
-|      44 | 0x1CF5      |        7413 |
-|      45 | 0x1CF7      |        7415 |
-|      46 | 0x1CF6      |        7414 |
+|      43 | 0x1CF9      |        7417 |
+|      44 | 0x1CF6      |        7414 |
+|      45 | 0x1CF8      |        7416 |
+|      46 | 0x1CF7      |        7415 |
 |      47 | 0x000F      |          15 |
 |      48 | 0x0215      |         533 |
-|      49 | 0x1CED      |        7405 |
-|      50 | 0x1CEE      |        7406 |
-|      51 | 0x1CEF      |        7407 |
-|      52 | 0x1CF0      |        7408 |
-|      53 | 0x1CF1      |        7409 |
-|      54 | 0x1CF2      |        7410 |
-|      55 | 0x1CF3      |        7411 |
-|      56 | 0x1CF4      |        7412 |
+|      49 | 0x1CEE      |        7406 |
+|      50 | 0x1CEF      |        7407 |
+|      51 | 0x1CF0      |        7408 |
+|      52 | 0x1CF1      |        7409 |
+|      53 | 0x1CF2      |        7410 |
+|      54 | 0x1CF3      |        7411 |
+|      55 | 0x1CF4      |        7412 |
+|      56 | 0x1CF5      |        7413 |
 |      57 | 0x0007      |           7 |
 |      58 | 0x0006      |           6 |
-|      59 | 0x1CDC      |        7388 |
+|      59 | 0x1CDD      |        7389 |
 |      60 | 0x0087      |         135 |
 |      61 | 0x0078      |         120 |
 |      62 | 0x0079      |         121 |
-|      63 | 0x1CF9      |        7417 |
-|      64 | 0x1CFA      |        7418 |
-|      65 | 0x1CFB      |        7419 |
-|      66 | 0x1CFC      |        7420 |
-|      67 | 0x1CFD      |        7421 |
-|      68 | 0x1CFE      |        7422 |
-|      69 | 0x1CFF      |        7423 |
-|      70 | 0x1D00      |        7424 |
-|      71 | 0x1D01      |        7425 |
-|      72 | 0x1D02      |        7426 |
-|      73 | 0x1D03      |        7427 |
-|      74 | 0x1D04      |        7428 |
-|      75 | 0x1D05      |        7429 |
+|      63 | 0x1CFA      |        7418 |
+|      64 | 0x1CFB      |        7419 |
+|      65 | 0x1CFC      |        7420 |
+|      66 | 0x1CFD      |        7421 |
+|      67 | 0x1CFE      |        7422 |
+|      68 | 0x1CFF      |        7423 |
+|      69 | 0x1D00      |        7424 |
+|      70 | 0x1D01      |        7425 |
+|      71 | 0x1D02      |        7426 |
+|      72 | 0x1D03      |        7427 |
+|      73 | 0x1D04      |        7428 |
+|      74 | 0x1D05      |        7429 |
+|      75 | 0x1D06      |        7430 |
 |      76 | 0x00C9      |         201 |
 |      77 | 0xFFFF6ED6  |  4294930134 |
 |      78 | 0xA0EF      |       41199 |
@@ -152,57 +152,57 @@
 |      81 | 0xFFFF6F40  |  4294930240 |
 |      82 | 0xB872      |       47218 |
 |      83 | 0xFFFFFA8A  |  4294965898 |
-|      84 | 0x1D4E      |        7502 |
+|      84 | 0x1D4F      |        7503 |
 |      85 | 0xFFFE6D6E  |  4294864238 |
 |      86 | 0x118B1     |       71857 |
 |      87 | 0x0064      |         100 |
 |      88 | 0x0013      |          19 |
 |      89 | 0x007F      |         127 |
 |      90 | 0x0031      |          49 |
-|      91 | 0x1DE2      |        7650 |
-|      92 | 0x1DE3      |        7651 |
-|      93 | 0x1DE4      |        7652 |
+|      91 | 0x1DE3      |        7651 |
+|      92 | 0x1DE4      |        7652 |
+|      93 | 0x1DE5      |        7653 |
 |      94 | 0x02DB      |         731 |
 |      95 | 0x0050      |          80 |
 |      96 | 0x009C      |         156 |
 |      97 | 0xFFFE6CC6  |  4294864070 |
 |      98 | 0x11D4D     |       73037 |
-|      99 | 0x1DDF      |        7647 |
-|     100 | 0x1DE0      |        7648 |
-|     101 | 0x1DE1      |        7649 |
-|     102 | 0x1DE5      |        7653 |
-|     103 | 0x1DE8      |        7656 |
-|     104 | 0x2064      |        8292 |
-|     105 | 0x206E      |        8302 |
-|     106 | 0x206F      |        8303 |
-|     107 | 0x2070      |        8304 |
+|      99 | 0x1DE0      |        7648 |
+|     100 | 0x1DE1      |        7649 |
+|     101 | 0x1DE2      |        7650 |
+|     102 | 0x1DE6      |        7654 |
+|     103 | 0x1DE9      |        7657 |
+|     104 | 0x2065      |        8293 |
+|     105 | 0x206F      |        8303 |
+|     106 | 0x2070      |        8304 |
+|     107 | 0x2071      |        8305 |
 |     108 | 0xFFFE7C60  |  4294868064 |
 |     109 | 0xF6CC      |       63180 |
 
 ## String References
 
-- **7195**: Me name's Chalvatot. I be the gardener here, you see.
-- **7196**: Don't reckon I've seen you before. A new recruit, are you?
-- **7199**: Ah, Your Highness! This stranger just came bargin' in here, so I was about to tell--
-- **7203**: Why, [he/she]'s but a vagrant! There's no need for Your Highness to address [him/her] so!
-- **7207**: Hmph. Don't you get uppity, just because the princess saw fit to favor you with a few words. It don't mean a thing!
-- **7208**: I'm busy. If you don't mind, I'd appreciate a little peace and quiet!
-- **7209**: This garden be the memorial garden for our late Queen Leaute. She always loved flowers, and so she wanted to be buried here, you see.
-- **7210**: You be an adventurer from abroad, no? If you've got a mission from the monarlais, you'd best be on it, quick.
-- **7211**: That monarlais don't like dealing with you foreigners much. Come to think of it, neither do I!
-- **7388**: Ah, almost forgot. You can find $0 in Derfland. If you are successful, I am sure Queen Leaute would be grateful.
-- **7413**: Accept Chalvatot's request? [Accept./Decline.]
-- **7607**: This place is not open to commoners, but since you're here, have a look. Queen Leaute would be pleased.
-- **7647**: Ah, I know you. You're that adventurer <Player>. You want to know about the thieves that broke into the queen's chambers?
-- **7648**: Well, I didn't see anything special. All I saw was two suspicious lookin' Elvaan. When I yelled at 'em, they ran off. That be all.
-- **7649**: But I swear I seen me one before... The one with blue armor...
-- **7652**: I am so sorry, Your Highness! Last night, some thieves broke into the late queen's chambers!
-- **7653**: And to make matters worse, the scoundrels are still on the loose! Oh, what has become of the once mighty Chateau d'Oraguille?
-- **7656**: Your Highness? You say you saw something out of the ordinary?
-- **8292**: <Player>'s badge flashes brightly.
-- **8302**: You wear a badge of the land of Aht Urhgan.
-- **8303**: Queen Leaute brought many plants from her homeland of Tavnazia to fill this garden, including a few that originated in the Near East.
-- **8304**: That one there with the large flowers is such a specimen. I hear they enhance the blooms with alchemical processes.
+- **7196**: Me name's Chalvatot. I be the gardener here, you see.
+- **7197**: Don't reckon I've seen you before. A new recruit, are you?
+- **7200**: Ah, Your Highness! This stranger just came bargin' in here, so I was about to tell--
+- **7204**: Why, [he/she]'s but a vagrant! There's no need for Your Highness to address [him/her] so!
+- **7208**: Hmph. Don't you get uppity, just because the princess saw fit to favor you with a few words. It don't mean a thing!
+- **7209**: I'm busy. If you don't mind, I'd appreciate a little peace and quiet!
+- **7210**: This garden be the memorial garden for our late Queen Leaute. She always loved flowers, and so she wanted to be buried here, you see.
+- **7211**: You be an adventurer from abroad, no? If you've got a mission from the monarlais, you'd best be on it, quick.
+- **7212**: That monarlais don't like dealing with you foreigners much. Come to think of it, neither do I!
+- **7389**: Ah, almost forgot. You can find $0 in Derfland. If you are successful, I am sure Queen Leaute would be grateful.
+- **7414**: Accept Chalvatot's request? [Accept./Decline.]
+- **7608**: This place is not open to commoners, but since you're here, have a look. Queen Leaute would be pleased.
+- **7648**: Ah, I know you. You're that adventurer <Player>. You want to know about the thieves that broke into the queen's chambers?
+- **7649**: Well, I didn't see anything special. All I saw was two suspicious lookin' Elvaan. When I yelled at 'em, they ran off. That be all.
+- **7650**: But I swear I seen me one before... The one with blue armor...
+- **7653**: I am so sorry, Your Highness! Last night, some thieves broke into the late queen's chambers!
+- **7654**: And to make matters worse, the scoundrels are still on the loose! Oh, what has become of the once mighty Chateau d'Oraguille?
+- **7657**: Your Highness? You say you saw something out of the ordinary?
+- **8293**: <Player>'s badge flashes brightly.
+- **8303**: You wear a badge of the land of Aht Urhgan.
+- **8304**: Queen Leaute brought many plants from her homeland of Tavnazia to fill this garden, including a few that originated in the Near East.
+- **8305**: That one there with the large flowers is such a specimen. I hear they enhance the blooms with alchemical processes.
 
 ## Events
 
@@ -318,7 +318,7 @@
 
 ```
   0: 0x000F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7208*)
+  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7209*)
     → "I'm busy. If you don't mind, I'd appreciate a little peace and quiet!"
   2: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0022 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -425,7 +425,7 @@
   0: 0x0051 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  3: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "This place is not open to commoners, but since you're here, have a look. Queen Leaute would be pleased."
   4: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005C [0x21] END_EVENT
@@ -459,23 +459,23 @@
   1: 0x0063 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0064 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0065 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7195*)
+  4: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7196*)
     → "Me name's Chalvatot. I be the gardener here, you see."
   5: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0078 [0x1C] WAIT(60* ticks)
-  7: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7209*)
+  7: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7210*)
     → "This garden be the memorial garden for our late Queen Leaute. She always loved flowers, and so she wanted to be buried here, you see."
   8: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x007F [0x1C] WAIT(60* ticks)
- 10: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7210*)
+ 10: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7211*)
     → "You be an adventurer from abroad, no? If you've got a mission from the monarlais, you'd best be on it, quick."
  11: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0086 [0x1C] WAIT(60* ticks)
- 13: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7211*)
+ 13: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7212*)
     → "That monarlais don't like dealing with you foreigners much. Come to think of it, neither do I!"
  14: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x008D [0x1C] WAIT(60* ticks)
- 16: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7208*)
+ 16: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7209*)
     → "I'm busy. If you don't mind, I'd appreciate a little peace and quiet!"
  17: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0094 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -566,13 +566,13 @@
  12: 0x00F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x00F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x00F2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 15: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7195*)
+ 15: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=7196*)
     → "Me name's Chalvatot. I be the gardener here, you see."
  16: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0105 [0x1C] WAIT(60* ticks)
  18: 0x0108 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  19: 0x0119 [0x1C] WAIT(30* ticks)
- 20: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7196*)
+ 20: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7197*)
     → "Don't reckon I've seen you before. A new recruit, are you?"
  21: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0120 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -582,7 +582,7 @@
  26: 0x0135 [0x27] REQ_SET(priority=0x64, entity_id=Claidie (ID: 17731590/0x010E9006), tag_num=0x14)
  27: 0x013C [0x2A] GET_REQ_LEVEL(level=100, entity_id=Claidie (ID: 17731590/0x010E9006))
  28: 0x0142 [0x79] Chalvatot (ID: 17731598/0x010E900E) looks at Claidie (ID: 17731590/0x010E9006) (Basic look)
- 29: 0x014C [0x2B] Claidie (ID: 17731590/0x010E9006) [7198*]:
+ 29: 0x014C [0x2B] Claidie (ID: 17731590/0x010E9006) [7199*]:
     → "What is the matter, Chalvatot?"
  30: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0154 [0x1C] WAIT(60* ticks)
@@ -593,7 +593,7 @@
  36: 0x0167 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  37: 0x0168 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  38: 0x0179 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 39: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7199*)
+ 39: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7200*)
     → "Ah, Your Highness! This stranger just came bargin' in here, so I was about to tell--"
  40: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x018C [0x27] REQ_SET(priority=0x65, entity_id=LocalPlayer, tag_num=0x46)
@@ -605,7 +605,7 @@
  47: 0x01BA [0x1C] WAIT(30* ticks)
  48: 0x01BD [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Claidie (ID: 17731590/0x010E9006))
  49: 0x01C3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
- 50: 0x01D2 [0x2B] Claidie (ID: 17731590/0x010E9006) [7200*]:
+ 50: 0x01D2 [0x2B] Claidie (ID: 17731590/0x010E9006) [7201*]:
     → "Wait... I've heard of someone like you."
  51: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01DA [0x1C] WAIT(60* ticks)
@@ -613,20 +613,20 @@
  54: 0x01E3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
  55: 0x01F2 [0x1C] WAIT(30* ticks)
  56: 0x01F5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oga0" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
- 57: 0x0204 [0x2B] Claidie (ID: 17731590/0x010E9006) [7201*]:
+ 57: 0x0204 [0x2B] Claidie (ID: 17731590/0x010E9006) [7202*]:
     → "Why, you're a new adventurer, are you not?"
  58: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x020C [0x1C] WAIT(60* ticks)
  60: 0x020F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oga1" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
  61: 0x021E [0x1C] WAIT(30* ticks)
  62: 0x0221 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
- 63: 0x0230 [0x2B] Claidie (ID: 17731590/0x010E9006) [7202*]:
+ 63: 0x0230 [0x2B] Claidie (ID: 17731590/0x010E9006) [7203*]:
     → "My name is Claidie I d'Oraguille."
  64: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0238 [0x1C] WAIT(30* ticks)
  66: 0x023B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  67: 0x024C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 68: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7203*)
+ 68: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7204*)
     → "Why, [he/she]'s but a vagrant! There's no need for Your Highness to address [him/her] so!"
  69: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x025F [0x1C] WAIT(30* ticks)
@@ -635,7 +635,7 @@
  73: 0x0274 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  74: 0x0275 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Claidie (ID: 17731590/0x010E9006) Render.Flags0 and Render.Flags3 conditions are met
  75: 0x027A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
- 76: 0x028B [0x2B] Claidie (ID: 17731590/0x010E9006) [7204*]:
+ 76: 0x028B [0x2B] Claidie (ID: 17731590/0x010E9006) [7205*]:
     → "Now, now, Chalvatot. [He/She] has come to bolster the strength of our kingdom. Adventurers deserve our gratitude!"
  77: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0293 [0x1C] WAIT(30* ticks)
@@ -644,14 +644,14 @@
  81: 0x02AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  82: 0x02AF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Claidie (ID: 17731590/0x010E9006) Render.Flags0 and Render.Flags3 conditions are met
  83: 0x02B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oga0" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
- 84: 0x02C3 [0x2B] Claidie (ID: 17731590/0x010E9006) [7205*]:
+ 84: 0x02C3 [0x2B] Claidie (ID: 17731590/0x010E9006) [7206*]:
     → "You are <Player>, are you not? Forgive this rude reception."
  85: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x02CB [0x1C] WAIT(30* ticks)
  87: 0x02CE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "oga1" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
  88: 0x02DD [0x1C] WAIT(60* ticks)
  89: 0x02E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Claidie (ID: 17731590/0x010E9006), Claidie (ID: 17731590/0x010E9006)], work=125*
- 90: 0x02EF [0x2B] Claidie (ID: 17731590/0x010E9006) [7206*]:
+ 90: 0x02EF [0x2B] Claidie (ID: 17731590/0x010E9006) [7207*]:
     → "Strive always for the glory of our kingdom! May we meet again, <Player>."
  91: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x02F7 [0x1C] WAIT(60* ticks)
@@ -669,13 +669,13 @@
 104: 0x035B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 105: 0x035C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 106: 0x035D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-107: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=7207*)
+107: 0x036C [0x1D] PRINT_EVENT_MESSAGE(message_id=7208*)
     → "Hmph. Don't you get uppity, just because the princess saw fit to favor you with a few words. It don't mean a thing!"
 108: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0370 [0x1C] WAIT(90* ticks)
 110: 0x0373 [0x39] SET_ENTITY_DIRECTION(direction=9.9°*)
 111: 0x0376 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-112: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=7208*)
+112: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=7209*)
     → "I'm busy. If you don't mind, I'd appreciate a little peace and quiet!"
 113: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0389 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -750,20 +750,20 @@
   6: 0x03AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x03AE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chalvatot (ID: 17731598/0x010E900E) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x03B3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x03F8
-  9: 0x03BB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7416*]:
+  9: 0x03BB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7417*]:
     → "Eh? What's that? Changed your mind? It be for Queen Leaute, you know!"
  10: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x03C3 [0x24] CREATE_DIALOG(message_id=7413*, default_option=1*, option_flags=0*)
+ 11: 0x03C3 [0x24] CREATE_DIALOG(message_id=7414*, default_option=1*, option_flags=0*)
     → "Accept Chalvatot's request? [Accept./Decline.]"
  12: 0x03CA [0x25] WAIT_DIALOG_SELECT()
  13: 0x03CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03E3
  14: 0x03D3 [0x03] Work_Zone[1] = 1*
- 15: 0x03D8 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7415*]:
+ 15: 0x03D8 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7416*]:
     → "Ah, now that's the answer I was expectin'. Queen Leaute'd be pleased, she would. You get going, then."
  16: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x03E0 [0x01] GOTO 0x03F6
  18: 0x03E3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03F6
- 19: 0x03EB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7414*]:
+ 19: 0x03EB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7415*]:
     → "Hrm...that's a shame, that is. Guess I'll talk to those knights again."
  20: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x03F3 [0x01] GOTO 0x03F6
@@ -784,10 +784,10 @@ SUBROUTINE_03F6:
  34: 0x0437 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  35: 0x0448 [0x1A] CALL_SUBROUTINE(address=0x0A85)
  36: 0x044B [0x03] Work_Zone[2] = 533*
- 37: 0x0450 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7405*]:
+ 37: 0x0450 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7406*]:
     → "So, you like me garden, eh? Understandably! 'Tis filled with the kindness of Queen Leaute, this place is."
  38: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0458 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7406*]:
+ 39: 0x0458 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7407*]:
     → "Working here, it's like I can feel the warm, merciful smile o' the queen shining down on me."
  40: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0460 [0x4A] Chalvatot (ID: 17731598/0x010E900E) looks at Tombstone (ID: 17731599/0x010E900F)
@@ -796,7 +796,7 @@ SUBROUTINE_03F6:
  44: 0x046F [0x79] LocalPlayer looks at Tombstone (ID: 17731599/0x010E900F) (Basic look)
  45: 0x0479 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
  46: 0x0488 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x51)
- 47: 0x048F [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7407*]:
+ 47: 0x048F [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7408*]:
     → "Were Queen Leaute still alive, those two would never be fighting like they do now. Guess it's fate."
  48: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0497 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
@@ -809,29 +809,29 @@ SUBROUTINE_03F6:
  56: 0x04D5 [0x4A] Chalvatot (ID: 17731598/0x010E900E) looks at LocalPlayer
  57: 0x04DE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  58: 0x04DF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chalvatot (ID: 17731598/0x010E900E) Render.Flags0 and Render.Flags3 conditions are met
- 59: 0x04E4 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7408*]:
+ 59: 0x04E4 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7409*]:
     → "Hmph. Why am I blabbering about this to the likes of you, eh?"
  60: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x04EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 62: 0x04FB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7409*]:
+ 62: 0x04FB [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7410*]:
     → "Since you seem to have taken a fancy to the garden, here, how's about lending me a hand?"
  63: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0503 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
- 65: 0x0514 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7410*]:
+ 65: 0x0514 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7411*]:
     → "I got me a problem, see. No regular compost is good enough to make these flowers bloom the way they do."
  66: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x051C [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7411*]:
+ 67: 0x051C [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7412*]:
     → "So I've been using $0 as a special fertilizer, I have."
  68: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0524 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=133*
  70: 0x0533 [0x1A] CALL_SUBROUTINE(address=0x0A64)
  71: 0x0536 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg07" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  72: 0x0547 [0x1A] CALL_SUBROUTINE(address=0x0A43)
- 73: 0x054A [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7412*]:
+ 73: 0x054A [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7413*]:
     → "Only, it be harder than skinning a wild sheep to get those knights off their shiny rumps to help, and now I'm running out."
  74: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0552 [0x6B] STOP_AND_IDLE: Chalvatot (ID: 17731598/0x010E900E) stops current action and resets to idle (animation="idl0")
- 76: 0x055B [0x24] CREATE_DIALOG(message_id=7413*, default_option=1*, option_flags=0*)
+ 76: 0x055B [0x24] CREATE_DIALOG(message_id=7414*, default_option=1*, option_flags=0*)
     → "Accept Chalvatot's request? [Accept./Decline.]"
  77: 0x0562 [0x25] WAIT_DIALOG_SELECT()
  78: 0x0563 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0582
@@ -845,14 +845,14 @@ SUBROUTINE_03F6:
  86: 0x0591 [0x99] Wait for LocalPlayer animation to complete
  87: 0x0596 [0x1C] WAIT(60* ticks)
  88: 0x0599 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 89: 0x05A8 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7414*]:
+ 89: 0x05A8 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7415*]:
     → "Hrm...that's a shame, that is. Guess I'll talk to those knights again."
  90: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x05B0 [0x01] GOTO 0x05CD
 
 SUBROUTINE_05B6:
  92: 0x05B6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 93: 0x05C5 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7415*]:
+ 93: 0x05C5 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7416*]:
     → "Ah, now that's the answer I was expectin'. Queen Leaute'd be pleased, she would. You get going, then."
  94: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -896,7 +896,7 @@ SUBROUTINE_05CD:
   1: 0x05ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05EF [0x03] Work_Zone[2] = 533*
-  4: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7388*)
+  4: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
     → "Ah, almost forgot. You can find $0 in Derfland. If you are successful, I am sure Queen Leaute would be grateful."
   5: 0x05F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05F8 [0x21] END_EVENT
@@ -1003,11 +1003,11 @@ SUBROUTINE_05CD:
  19: 0x0672 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
  20: 0x0681 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  21: 0x0692 [0x1A] CALL_SUBROUTINE(address=0x0A85)
- 22: 0x0695 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7417*]:
+ 22: 0x0695 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7418*]:
     → "Ah, thanks be to you. This will keep me flowers perky for weeks, it will."
  23: 0x069C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x069D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 25: 0x06AC [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7418*]:
+ 25: 0x06AC [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7419*]:
     → "Here, it's no' much, but this is all I can spare. Take it, then."
  26: 0x06B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x06B4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)]
@@ -1019,10 +1019,10 @@ SUBROUTINE_05CD:
  33: 0x06DD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=133*
  34: 0x06EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg09" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
  35: 0x06FD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 36: 0x070C [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7419*]:
+ 36: 0x070C [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7420*]:
     → "'Tis hard for me to accept that the fair Queen Leaute's no longer in the world... Now there was a bonny flower, I tell you! The prettiest of them all!"
  37: 0x0713 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0714 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7420*]:
+ 38: 0x0714 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7421*]:
     → "She always had a kind word, even for a lowly gardener such as meself. If Queen Leaute were around, things would be different in this kingdom. Things'd be right, they would!"
  39: 0x071B [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x071C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
@@ -1031,7 +1031,7 @@ SUBROUTINE_05CD:
  43: 0x073B [0x7B] LocalPlayer stops talking
  44: 0x0740 [0x1C] WAIT(15* ticks)
  45: 0x0743 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg09" with entities [LocalPlayer, LocalPlayer], work=133*
- 46: 0x0752 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7421*]:
+ 46: 0x0752 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7422*]:
     → "And...don't tell no one I telt you, but there's some mystery about the queen's death! They say..."
  47: 0x0759 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x075A [0x1E] EventEntity looks at Pieuje (ID: 17731589/0x010E9005) and starts talking
@@ -1039,11 +1039,11 @@ SUBROUTINE_05CD:
  50: 0x0766 [0x27] REQ_SET(priority=0x10, entity_id=Pieuje (ID: 17731589/0x010E9005), tag_num=0x22)
  51: 0x076D [0x27] REQ_SET(priority=0x10, entity_id=Shamonde (ID: 17731630/0x010E902E), tag_num=0x07)
  52: 0x0774 [0x27] REQ_SET(priority=0x10, entity_id=Tombstone (ID: 17731599/0x010E900F), tag_num=0x02)
- 53: 0x077B [0x2B] Pieuje (ID: 17731589/0x010E9005) [7422*]:
+ 53: 0x077B [0x2B] Pieuje (ID: 17731589/0x010E9005) [7423*]:
     → "Chalvatot, it won't do to speak of rumors, now."
  54: 0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0783 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
- 56: 0x0789 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7423*]:
+ 56: 0x0789 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7424*]:
     → "Ah! P-Prince Pieuje! A-and Your Holiness!"
  57: 0x0790 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0791 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Pieuje (ID: 17731589/0x010E9005))
@@ -1058,27 +1058,27 @@ SUBROUTINE_05CD:
  67: 0x07DB [0x1C] WAIT(15* ticks)
  68: 0x07DE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg11" with entities [LocalPlayer, LocalPlayer], work=133*
  69: 0x07ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg12" with entities [LocalPlayer, LocalPlayer], work=[133*, 0*]
- 70: 0x07FE [0x2B] Pieuje (ID: 17731589/0x010E9005) [7424*]:
+ 70: 0x07FE [0x2B] Pieuje (ID: 17731589/0x010E9005) [7425*]:
     → "You've given your best effort so that this garden may prosper, I hear. We owe you our gratitude."
  71: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x0806 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7425*]:
+ 72: 0x0806 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7426*]:
     → "Yet...do not pry into the affairs of the royal house so. Necks that are stuck where they do not belong have a tendency to...fall off, shall we say."
  73: 0x080D [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x080E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pui0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)]
  75: 0x081B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pui1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=121*
  76: 0x082A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pui1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)]
  77: 0x0837 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
- 78: 0x0846 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7426*]:
+ 78: 0x0846 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7427*]:
     → "Chalvatot, I expect you will be vigilant in keeping outsiders where they belong: outside."
  79: 0x084D [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x084E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
  81: 0x085D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)]
  82: 0x086A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Chalvatot (ID: 17731598/0x010E900E), Chalvatot (ID: 17731598/0x010E900E)], work=30*
- 83: 0x0879 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7427*]:
+ 83: 0x0879 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7428*]:
     → "Y-yes, Milord. Never again. I'll no' let it happen again!"
  84: 0x0880 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0881 [0x6B] STOP_AND_IDLE: Chalvatot (ID: 17731598/0x010E900E) stops current action and resets to idle (animation="idl0")
- 86: 0x088A [0x2B] Pieuje (ID: 17731589/0x010E9005) [7428*]:
+ 86: 0x088A [0x2B] Pieuje (ID: 17731589/0x010E9005) [7429*]:
     → "Very well. I've no intention of speaking harshly before my late mother."
  87: 0x0891 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0892 [0x1C] WAIT(15* ticks)
@@ -1086,7 +1086,7 @@ SUBROUTINE_05CD:
  90: 0x089E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  91: 0x089F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Pieuje (ID: 17731589/0x010E9005) Render.Flags0 and Render.Flags3 conditions are met
  92: 0x08A4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
- 93: 0x08B3 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7429*]:
+ 93: 0x08B3 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7430*]:
     → "Now, Your Holiness, pray for my mother's peaceful rest."
  94: 0x08BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x08BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
@@ -1260,7 +1260,7 @@ SUBROUTINE_05CD:
   0: 0x09D1 [0x4A] Chalvatot (ID: 17731598/0x010E900E) looks at LocalPlayer
   1: 0x09DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09DB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Chalvatot (ID: 17731598/0x010E900E) Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x09E0 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7502*]:
+  3: 0x09E0 [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7503*]:
     → "Take the two rings and place them upon the altar in the Monastic Cavern--the ruins of Her Majesty's convent. Then her wish will at last come true."
   4: 0x09E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x09E8 [0x21] END_EVENT
@@ -1824,19 +1824,19 @@ SUBROUTINE_05CD:
  37: 0x0C82 [0x79] Chalvatot (ID: 17731598/0x010E900E) looks at Claidie (ID: 17731590/0x010E9006) (Basic look)
  38: 0x0C8C [0x79] LocalPlayer looks at Claidie (ID: 17731590/0x010E9006) (Basic look)
  39: 0x0C96 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chalvatot (ID: 17731598/0x010E900E), tag_num=0x1E)
- 40: 0x0C9D [0x2B] Claidie (ID: 17731590/0x010E9006) [7650*]:
+ 40: 0x0C9D [0x2B] Claidie (ID: 17731590/0x010E9006) [7651*]:
     → "Chalvatot, what has happened in my mother's chambers?"
  41: 0x0CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0CA5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=LocalPlayer, tag_num=0x7E)
  43: 0x0CAC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Chalvatot (ID: 17731598/0x010E900E), tag_num=0x1F)
- 44: 0x0CB3 [0x2B] Claidie (ID: 17731590/0x010E9006) [7651*]:
+ 44: 0x0CB3 [0x2B] Claidie (ID: 17731590/0x010E9006) [7652*]:
     → "When I went to give some water to the flowers, I passed by some Temple Guards."
  45: 0x0CBA [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0CBB [0x2A] GET_REQ_LEVEL(level=11, entity_id=Claidie (ID: 17731590/0x010E9006))
  47: 0x0CC1 [0x2A] GET_REQ_LEVEL(level=11, entity_id=EVENTER (ID: 17731667/0x010E9053))
  48: 0x0CC7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[49*, 0*]
  49: 0x0CD8 [0x27] REQ_SET(priority=0x0B, entity_id=Chalvatot (ID: 17731598/0x010E900E), tag_num=0x26)
- 50: 0x0CDF [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7652*]:
+ 50: 0x0CDF [0x2B] Chalvatot (ID: 17731598/0x010E900E) [7653*]:
     → "I am so sorry, Your Highness! Last night, some thieves broke into the late queen's chambers!"
  51: 0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0CE7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Chalvatot (ID: 17731598/0x010E900E))
@@ -1947,7 +1947,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F05 [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
+  0: 0x0F05 [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
     → "Ah, I know you. You're that adventurer <Player>. You want to know about the thieves that broke into the queen's chambers?"
   1: 0x0F08 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F09 [0x00] END_REQSTACK()
@@ -1972,7 +1972,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7648*)
+  0: 0x0F0A [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
     → "Well, I didn't see anything special. All I saw was two suspicious lookin' Elvaan. When I yelled at 'em, they ran off. That be all."
   1: 0x0F0D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F0E [0x00] END_REQSTACK()
@@ -1998,7 +1998,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7649*)
+  0: 0x0F0F [0x1D] PRINT_EVENT_MESSAGE(message_id=7650*)
     → "But I swear I seen me one before... The one with blue armor..."
   1: 0x0F12 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F13 [0x00] END_REQSTACK()
@@ -2023,7 +2023,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7652*)
+  0: 0x0F14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7653*)
     → "I am so sorry, Your Highness! Last night, some thieves broke into the late queen's chambers!"
   1: 0x0F17 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F18 [0x00] END_REQSTACK()
@@ -2048,7 +2048,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7653*)
+  0: 0x0F19 [0x1D] PRINT_EVENT_MESSAGE(message_id=7654*)
     → "And to make matters worse, the scoundrels are still on the loose! Oh, what has become of the once mighty Chateau d'Oraguille?"
   1: 0x0F1C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F1D [0x00] END_REQSTACK()
@@ -2074,7 +2074,7 @@ SUBROUTINE_05CD:
 #### Opcodes
 
 ```
-  0: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7656*)
+  0: 0x0F1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7657*)
     → "Your Highness? You say you saw something out of the ordinary?"
   1: 0x0F21 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F22 [0x00] END_REQSTACK()
@@ -2103,19 +2103,19 @@ SUBROUTINE_05CD:
 
 ```
   0: 0x0F23 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0F24 [0x48] [System] [8292*]:
+  1: 0x0F24 [0x48] [System] [8293*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0F27 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0F2C [0x1C] WAIT(30* ticks)
-  4: 0x0F2F [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+  4: 0x0F2F [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "You wear a badge of the land of Aht Urhgan."
   5: 0x0F32 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0F33 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  7: 0x0F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
+  7: 0x0F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "Queen Leaute brought many plants from her homeland of Tavnazia to fill this garden, including a few that originated in the Near East."
   8: 0x0F45 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0F46 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
- 10: 0x0F55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+ 10: 0x0F55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "That one there with the large flowers is such a specimen. I hear they enhance the blooms with alchemical processes."
  11: 0x0F58 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0F59 [0x21] END_EVENT

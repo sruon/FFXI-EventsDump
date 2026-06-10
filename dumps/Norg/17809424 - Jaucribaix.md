@@ -57,185 +57,185 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x27CE      |       10190 |
+|       0 | 0x27CF      |       10191 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x27D4      |       10196 |
+|       2 | 0x27D5      |       10197 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x27CF      |       10191 |
-|       5 | 0x27D0      |       10192 |
-|       6 | 0x27D1      |       10193 |
-|       7 | 0x27D2      |       10194 |
+|       4 | 0x27D0      |       10192 |
+|       5 | 0x27D1      |       10193 |
+|       6 | 0x27D2      |       10194 |
+|       7 | 0x27D3      |       10195 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x27D3      |       10195 |
-|      10 | 0x27D5      |       10197 |
-|      11 | 0x27D6      |       10198 |
-|      12 | 0x27D7      |       10199 |
-|      13 | 0x27D8      |       10200 |
-|      14 | 0x27D9      |       10201 |
-|      15 | 0x27DA      |       10202 |
-|      16 | 0x27DB      |       10203 |
-|      17 | 0x27DC      |       10204 |
-|      18 | 0x27DD      |       10205 |
-|      19 | 0x27DE      |       10206 |
+|       9 | 0x27D4      |       10196 |
+|      10 | 0x27D6      |       10198 |
+|      11 | 0x27D7      |       10199 |
+|      12 | 0x27D8      |       10200 |
+|      13 | 0x27D9      |       10201 |
+|      14 | 0x27DA      |       10202 |
+|      15 | 0x27DB      |       10203 |
+|      16 | 0x27DC      |       10204 |
+|      17 | 0x27DD      |       10205 |
+|      18 | 0x27DE      |       10206 |
+|      19 | 0x27DF      |       10207 |
 |      20 | 0x002D      |          45 |
-|      21 | 0x27DF      |       10207 |
-|      22 | 0x27E0      |       10208 |
+|      21 | 0x27E0      |       10208 |
+|      22 | 0x27E1      |       10209 |
 |      23 | 0x0013      |          19 |
 |      24 | 0x00E9      |         233 |
 |      25 | 0x00C8      |         200 |
-|      26 | 0x27E1      |       10209 |
-|      27 | 0x27E2      |       10210 |
-|      28 | 0x27E3      |       10211 |
+|      26 | 0x27E2      |       10210 |
+|      27 | 0x27E3      |       10211 |
+|      28 | 0x27E4      |       10212 |
 |      29 | 0x0080      |         128 |
 |      30 | 0x001E      |          30 |
-|      31 | 0x27E4      |       10212 |
-|      32 | 0x27E5      |       10213 |
-|      33 | 0x27E6      |       10214 |
+|      31 | 0x27E5      |       10213 |
+|      32 | 0x27E6      |       10214 |
+|      33 | 0x27E7      |       10215 |
 |      34 | 0x0236      |         566 |
-|      35 | 0x27E7      |       10215 |
-|      36 | 0x27E8      |       10216 |
+|      35 | 0x27E8      |       10216 |
+|      36 | 0x27E9      |       10217 |
 |      37 | 0x0237      |         567 |
-|      38 | 0x27E9      |       10217 |
-|      39 | 0x27EA      |       10218 |
-|      40 | 0x27EB      |       10219 |
-|      41 | 0x27EC      |       10220 |
+|      38 | 0x27EA      |       10218 |
+|      39 | 0x27EB      |       10219 |
+|      40 | 0x27EC      |       10220 |
+|      41 | 0x27ED      |       10221 |
 |      42 | 0x00C9      |         201 |
-|      43 | 0x27EF      |       10223 |
-|      44 | 0x27F0      |       10224 |
+|      43 | 0x27F0      |       10224 |
+|      44 | 0x27F1      |       10225 |
 |      45 | 0x4591      |       17809 |
 |      46 | 0x01C5      |         453 |
 |      47 | 0x0490      |        1168 |
-|      48 | 0x29F2      |       10738 |
-|      49 | 0x2990      |       10640 |
-|      50 | 0x2991      |       10641 |
-|      51 | 0x2992      |       10642 |
-|      52 | 0x2993      |       10643 |
-|      53 | 0x2994      |       10644 |
-|      54 | 0x2995      |       10645 |
-|      55 | 0x2996      |       10646 |
-|      56 | 0x2997      |       10647 |
-|      57 | 0x2998      |       10648 |
-|      58 | 0x2999      |       10649 |
+|      48 | 0x29F3      |       10739 |
+|      49 | 0x2991      |       10641 |
+|      50 | 0x2992      |       10642 |
+|      51 | 0x2993      |       10643 |
+|      52 | 0x2994      |       10644 |
+|      53 | 0x2995      |       10645 |
+|      54 | 0x2996      |       10646 |
+|      55 | 0x2997      |       10647 |
+|      56 | 0x2998      |       10648 |
+|      57 | 0x2999      |       10649 |
+|      58 | 0x299A      |       10650 |
 |      59 | 0x4594      |       17812 |
-|      60 | 0x299A      |       10650 |
-|      61 | 0x299B      |       10651 |
-|      62 | 0x299C      |       10652 |
-|      63 | 0x299D      |       10653 |
-|      64 | 0x299E      |       10654 |
-|      65 | 0x299F      |       10655 |
-|      66 | 0x29A0      |       10656 |
+|      60 | 0x299B      |       10651 |
+|      61 | 0x299C      |       10652 |
+|      62 | 0x299D      |       10653 |
+|      63 | 0x299E      |       10654 |
+|      64 | 0x299F      |       10655 |
+|      65 | 0x29A0      |       10656 |
+|      66 | 0x29A1      |       10657 |
 |      67 | 0x01CE      |         462 |
-|      68 | 0x29A9      |       10665 |
-|      69 | 0x29AA      |       10666 |
-|      70 | 0x29AB      |       10667 |
-|      71 | 0x29AC      |       10668 |
+|      68 | 0x29AA      |       10666 |
+|      69 | 0x29AB      |       10667 |
+|      70 | 0x29AC      |       10668 |
+|      71 | 0x29AD      |       10669 |
 |      72 | 0x00D8      |         216 |
-|      73 | 0x29AD      |       10669 |
-|      74 | 0x29AE      |       10670 |
-|      75 | 0x29AF      |       10671 |
+|      73 | 0x29AE      |       10670 |
+|      74 | 0x29AF      |       10671 |
+|      75 | 0x29B0      |       10672 |
 |      76 | 0x007A      |         122 |
 |      77 | 0x0060      |          96 |
 |      78 | 0x0078      |         120 |
-|      79 | 0x29B0      |       10672 |
-|      80 | 0x29B1      |       10673 |
-|      81 | 0x29B2      |       10674 |
-|      82 | 0x29B3      |       10675 |
-|      83 | 0x29B4      |       10676 |
-|      84 | 0x29B5      |       10677 |
-|      85 | 0x29B6      |       10678 |
-|      86 | 0x29B7      |       10679 |
+|      79 | 0x29B1      |       10673 |
+|      80 | 0x29B2      |       10674 |
+|      81 | 0x29B3      |       10675 |
+|      82 | 0x29B4      |       10676 |
+|      83 | 0x29B5      |       10677 |
+|      84 | 0x29B6      |       10678 |
+|      85 | 0x29B7      |       10679 |
+|      86 | 0x29B8      |       10680 |
 |      87 | 0x000F      |          15 |
-|      88 | 0x29B8      |       10680 |
-|      89 | 0x29B9      |       10681 |
-|      90 | 0x29BA      |       10682 |
-|      91 | 0x29BB      |       10683 |
-|      92 | 0x29BC      |       10684 |
-|      93 | 0x29BD      |       10685 |
-|      94 | 0x29BE      |       10686 |
+|      88 | 0x29B9      |       10681 |
+|      89 | 0x29BA      |       10682 |
+|      90 | 0x29BB      |       10683 |
+|      91 | 0x29BC      |       10684 |
+|      92 | 0x29BD      |       10685 |
+|      93 | 0x29BE      |       10686 |
+|      94 | 0x29BF      |       10687 |
 |      95 | 0x003C      |          60 |
 |      96 | 0x00D1      |         209 |
 |      97 | 0x007F      |         127 |
-|      98 | 0x29BF      |       10687 |
-|      99 | 0x29C0      |       10688 |
-|     100 | 0x29C1      |       10689 |
+|      98 | 0x29C0      |       10688 |
+|      99 | 0x29C1      |       10689 |
+|     100 | 0x29C2      |       10690 |
 |     101 | 0x01CF      |         463 |
-|     102 | 0x29C2      |       10690 |
-|     103 | 0x29C3      |       10691 |
-|     104 | 0x29C4      |       10692 |
-|     105 | 0x29C5      |       10693 |
-|     106 | 0x29C6      |       10694 |
-|     107 | 0x29C7      |       10695 |
-|     108 | 0x29C8      |       10696 |
+|     102 | 0x29C3      |       10691 |
+|     103 | 0x29C4      |       10692 |
+|     104 | 0x29C5      |       10693 |
+|     105 | 0x29C6      |       10694 |
+|     106 | 0x29C7      |       10695 |
+|     107 | 0x29C8      |       10696 |
+|     108 | 0x29C9      |       10697 |
 |     109 | 0x362C      |       13868 |
-|     110 | 0x29F3      |       10739 |
-|     111 | 0x29D2      |       10706 |
-|     112 | 0x29D3      |       10707 |
-|     113 | 0x29D4      |       10708 |
-|     114 | 0x29D5      |       10709 |
-|     115 | 0x29D6      |       10710 |
-|     116 | 0x29D7      |       10711 |
-|     117 | 0x29D8      |       10712 |
-|     118 | 0x29D9      |       10713 |
-|     119 | 0x29DA      |       10714 |
-|     120 | 0x29DB      |       10715 |
-|     121 | 0x29DC      |       10716 |
-|     122 | 0x29DD      |       10717 |
-|     123 | 0x29DE      |       10718 |
+|     110 | 0x29F4      |       10740 |
+|     111 | 0x29D3      |       10707 |
+|     112 | 0x29D4      |       10708 |
+|     113 | 0x29D5      |       10709 |
+|     114 | 0x29D6      |       10710 |
+|     115 | 0x29D7      |       10711 |
+|     116 | 0x29D8      |       10712 |
+|     117 | 0x29D9      |       10713 |
+|     118 | 0x29DA      |       10714 |
+|     119 | 0x29DB      |       10715 |
+|     120 | 0x29DC      |       10716 |
+|     121 | 0x29DD      |       10717 |
+|     122 | 0x29DE      |       10718 |
+|     123 | 0x29DF      |       10719 |
 |     124 | 0x00A1      |         161 |
 |     125 | 0x0048      |          72 |
-|     126 | 0x29DF      |       10719 |
-|     127 | 0x29E0      |       10720 |
+|     126 | 0x29E0      |       10720 |
+|     127 | 0x29E1      |       10721 |
 |     128 | 0x048E      |        1166 |
-|     129 | 0x29E1      |       10721 |
-|     130 | 0x29E2      |       10722 |
+|     129 | 0x29E2      |       10722 |
+|     130 | 0x29E3      |       10723 |
 |     131 | 0x009F      |         159 |
 |     132 | 0x0050      |          80 |
 |     133 | 0x01C6      |         454 |
 |     134 | 0x0337      |         823 |
-|     135 | 0x29E3      |       10723 |
-|     136 | 0x29E4      |       10724 |
-|     137 | 0x29E5      |       10725 |
-|     138 | 0x29E6      |       10726 |
-|     139 | 0x29E7      |       10727 |
-|     140 | 0x29E8      |       10728 |
-|     141 | 0x29E9      |       10729 |
-|     142 | 0x29EA      |       10730 |
-|     143 | 0x29EB      |       10731 |
-|     144 | 0x29EC      |       10732 |
-|     145 | 0x29ED      |       10733 |
-|     146 | 0x29EE      |       10734 |
-|     147 | 0x29EF      |       10735 |
-|     148 | 0x29F0      |       10736 |
-|     149 | 0x29F1      |       10737 |
-|     150 | 0x2A38      |       10808 |
-|     151 | 0x2A66      |       10854 |
-|     152 | 0x2A39      |       10809 |
+|     135 | 0x29E4      |       10724 |
+|     136 | 0x29E5      |       10725 |
+|     137 | 0x29E6      |       10726 |
+|     138 | 0x29E7      |       10727 |
+|     139 | 0x29E8      |       10728 |
+|     140 | 0x29E9      |       10729 |
+|     141 | 0x29EA      |       10730 |
+|     142 | 0x29EB      |       10731 |
+|     143 | 0x29EC      |       10732 |
+|     144 | 0x29ED      |       10733 |
+|     145 | 0x29EE      |       10734 |
+|     146 | 0x29EF      |       10735 |
+|     147 | 0x29F0      |       10736 |
+|     148 | 0x29F1      |       10737 |
+|     149 | 0x29F2      |       10738 |
+|     150 | 0x2A39      |       10809 |
+|     151 | 0x2A67      |       10855 |
+|     152 | 0x2A3A      |       10810 |
 |     153 | 0x4597      |       17815 |
-|     154 | 0x2A3A      |       10810 |
+|     154 | 0x2A3B      |       10811 |
 |     155 | 0x00D7      |         215 |
-|     156 | 0x2A3B      |       10811 |
-|     157 | 0x2A3C      |       10812 |
-|     158 | 0x2A3D      |       10813 |
+|     156 | 0x2A3C      |       10812 |
+|     157 | 0x2A3D      |       10813 |
+|     158 | 0x2A3E      |       10814 |
 |     159 | 0x0157      |         343 |
-|     160 | 0x2A3E      |       10814 |
-|     161 | 0x2A3F      |       10815 |
-|     162 | 0x2A67      |       10855 |
-|     163 | 0x2A40      |       10816 |
-|     164 | 0x2A41      |       10817 |
-|     165 | 0x2A42      |       10818 |
+|     160 | 0x2A3F      |       10815 |
+|     161 | 0x2A40      |       10816 |
+|     162 | 0x2A68      |       10856 |
+|     163 | 0x2A41      |       10817 |
+|     164 | 0x2A42      |       10818 |
+|     165 | 0x2A43      |       10819 |
 |     166 | 0x0002      |           2 |
-|     167 | 0x2A43      |       10819 |
-|     168 | 0x2A68      |       10856 |
-|     169 | 0x2A47      |       10823 |
-|     170 | 0x2A44      |       10820 |
-|     171 | 0x2A45      |       10821 |
-|     172 | 0x2A46      |       10822 |
-|     173 | 0x2A48      |       10824 |
+|     167 | 0x2A44      |       10820 |
+|     168 | 0x2A69      |       10857 |
+|     169 | 0x2A48      |       10824 |
+|     170 | 0x2A45      |       10821 |
+|     171 | 0x2A46      |       10822 |
+|     172 | 0x2A47      |       10823 |
+|     173 | 0x2A49      |       10825 |
 |     174 | 0x0158      |         344 |
-|     175 | 0x2A49      |       10825 |
-|     176 | 0x2A4A      |       10826 |
+|     175 | 0x2A4A      |       10826 |
+|     176 | 0x2A4B      |       10827 |
 |     177 | 0x0159      |         345 |
-|     178 | 0x2A4B      |       10827 |
+|     178 | 0x2A4C      |       10828 |
 |     179 | 0x187D5     |      100309 |
 |     180 | 0xFFFFD10E  |  4294955278 |
 |     181 | 0xFFFFE452  |  4294960210 |
@@ -250,10 +250,10 @@
 |     190 | 0x004B      |          75 |
 |     191 | 0x01CD      |         461 |
 |     192 | 0x01D0      |         464 |
-|     193 | 0x29F5      |       10741 |
-|     194 | 0x29F6      |       10742 |
-|     195 | 0x29F7      |       10743 |
-|     196 | 0x29F8      |       10744 |
+|     193 | 0x29F6      |       10742 |
+|     194 | 0x29F7      |       10743 |
+|     195 | 0x29F8      |       10744 |
+|     196 | 0x29F9      |       10745 |
 |     197 | 0x000A      |          10 |
 |     198 | 0x0028      |          40 |
 |     199 | 0x0032      |          50 |
@@ -262,110 +262,110 @@
 
 ## String References
 
-- **10190**: My name is Jaucribaix, and I am the blacksmith here in Norg. I don't waste my time with that crystal synthesis rubbish. I forge all my katana in the traditional manner.
-- **10191**: Our leader, Gilgamesh, has asked me to forge him a katana, but I am in somewhat of a bind.
-- **10192**: A katana is a work of art. I refuse to replace the traditional methods of smithing with modern synthesis. However, my supply of materials is currently running low.
-- **10193**: If these items were easy to come by, I would go myself. Unfortunately, this is not the case, and I require your assistance.
-- **10194**: Listen to Jaucribaix's request? [Yes./No.]
-- **10195**: I see. I apologize for taking up your valuable time.
-- **10196**: Ah, have you reconsidered my offer?
-- **10197**: I am grateful for your assistance. Would you be so kind as to fetch me $0 and $1?
-- **10198**: The $0 is for the flame that fuels my furnace, and the $1 is the perfect material for melting the iron. Both are needed to forge a true katana blade.
-- **10199**: To learn of where you may come across these items, ask my pupils.
-- **10200**: Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it.
-- **10201**: To learn of where you may come across the items I wish you to bring me, ask my pupils.
-- **10202**: Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it.
-- **10203**: When you have gathered the two items, bring them directly to me and I will begin my work.
-- **10204**: Wonderful. These are the materials that I require. I apologize, but I must hurry or Gilgamesh will have my head. I will reward you for your services when I have finished the katana.
-- **10205**: How long will it take, you ask? A good blade takes at least three full days to complete. Come to me then. You need not worry. I will be right here.
-- **10206**: Again, I apologize for not being able to give you your reward sooner.
-- **10207**: My work is not yet complete. I still require $0 [more hour/more hours]. It is not wise to waste your time trying to outrun the clock in this game we call life.
-- **10208**: Time is like a flowing river--it cannot be sped up or slowed down. We must float along at the pace it has chosen.
-- **10223**: Crystal technology has helped Vana'diel prosper, but at the cost of traditional methods, now lost forever.
-- **10224**: Just as the old is replaced by the new, the world is constantly changing. One day, one may no longer be able to live by a single blade alone.
-- **10640**: Ah, <Player>. Many moons have passed since I made you your first katana. I can see you have grown much in that time.
-- **10641**: This may seem sudden, but I wish to ask of your assistance.
-- **10642**: Spoken like a true samurai. Now let me fill you in on the details. In the coming weeks, an extremely important ritual will be held. To complete this ritual, a "sacred katana" is needed. I require your assistance in gathering the materials to forge this new blade.
-- **10643**: The first is $0. This is to become the base of the sacred katana. I assume the $0 you used in your training still rests somewhere in your Mog Safe.
-- **10644**: The second item I require is $6. You can only find these scales on the beast that lives deep within a crystal pond in the Sanctuary of Zi'Tah.
-- **10645**: However, this fish cannot be caught using traditional methods. You must lure it out of hiding using $2, made by the Goblins of that forest.
-- **10646**: Take care when battling this violent beast, as it is no ordinary fish. After you defeat it, recover $6 and bring them back to me.
-- **10647**: A long journey awaits you. I pray for your safe return.
-- **10648**: Listen carefully. To forge a new sacred katana, I require two items, the first being the $0 you used in your training.
-- **10649**: Return here when you have obtained the materials.
-- **10650**: I see you have successfully obtained the materials necessary for the forging of the sacred katana. Thanks to your hard work, the blade should be finished by the start of the ritual.
-- **10651**: Ah yes, your reward. Let me give you this $2 in exchange for your $0. It is one of my finest works. May it guide you on your journey.
-- **10652**: As I told you before, the materials you brought me will be used to forge a sacred katana to be used in an important ritual being held in a matter of days.
-- **10653**: However, there is still much preparation to be done. Your assistance may be required again.
-- **10654**: What is wrong? You do not look too well...
-- **10655**: I think I know what may be troubling you. You remember my pupil Ranemaud, do you not? Talk with him, and he may be able to help you with your predicament.
-- **10656**: This is all I will tell you. After you have obtained $6, bring them and your $0 to me. I will be waiting.
-- **10665**: Ah, you're back! And just in time, I might say. The date of the ritual is approaching fast.
-- **10666**: For this next assignment, Gilgamesh specifically requested the assistance of the previous owner of the $0.
-- **10667**: That is unfortunate, but there still is time. Please reconsider your decision.
-- **10668**: Excellent. Now let me show you into Gilgamesh's quarters.
-- **10681**: Yes, sir.
-- **10682**: For the Yomi Okuri to be properly carried out, a sacred katana must be made. Your $0 has already been used to forge the blade of the katana. However, we are still one step away from completion.
-- **10683**: Somewhere on the mainlands is a place called the Labyrinth of Onzozo. In those caves lurks a mammoth bird. To complete the sacred katana, I require $6 from that beast.
-- **10684**: However, this bird rarely ever sets forth from its nest. It must be lured out with a special kind of bait.
-- **10687**: Do not forget to obtain some of Washu's tasty wurst before you set off for the Labyrinth of Onzozo. You will need it to lure the giant bird out of its lair.
-- **10688**: Yes, this $3 is exactly what I need to complete the sacred katana. Now all I require is time...
-- **10689**: Do not rush me! This job requires extreme concentration. Think of the consequences if I were to hurry through my work!
-- **10690**: 3... That is the name I bestow upon this sacred katana. Now, all that remains is for you to take the blade to Valkurm and complete the ritual.
-- **10691**: It is during this time beyond dusk that you must thrust $3 into the secluded beach that lies on the other side of the far western caves in the Valkurm Dunes. Only then will the spirits be set free.
-- **10692**: From the hour in which the sands are ruled by darkness until they once again are graced by light...
-- **10693**: Welcome back, <Player>. The new form that blade has taken is the proof that you were successful in your mission. I applaud you on your bravery.
-- **10694**: Gilgamesh has asked me to present you with this as a token of our appreciation. Wear it with pride and let it guide you on your path in life.
-- **10695**: Norg has many ties with the lost nation of Tavnazia, and many people here still think of it as their homeland. The battle fought twenty years ago took the lives of many of our brothers, but the sacrifices that they made have not been in vain.
-- **10696**: That day, something in Gilgamesh changed. He transformed from a simple soldier to a great leader who would bring us together and create the Norg of today.
-- **10706**: <Player>! Once again, trouble is brewing in Norg, and we require your services.
-- **10707**: I see. So you are busy... However, there is still time. I pray that you will return to us quickly.
-- **10708**: Your gratitude is appreciated by all of us here in Norg. Now let us proceed to Gilgamesh's chambers.
-- **10718**: Currently, Gilgamesh has men combing Vana'diel for clues on the whereabouts of the thieves. Search them out and learn what new information they have gathered.
-- **10719**: The situation has grown graver than I had imagined. It is only a matter of time before the seal on the helmet breaks, if it has not already.
-- **10720**: Take this. It can be used to extinguish the evil spirit's power for a short period of time.
-- **10721**: Throw that $0 into the magic portal. After that, you should then be able to enter. But beware of what lurks on the other side!
-- **10722**: You fool! How could you just dispose of such an important item? Without it, how are you supposed to break the cursed seal on the portal!?
-- **10723**: By the looks of this $3, I can guess that seal was already broken when you arrived at the shrine. It is amazing that the seal held for so many decades.
-- **10724**: You have done well, <Player>. Without your strength and perseverance, we would not have been able to silence that evil spirit. We are all in your debt.
-- **10725**: However, before I give you your reward, there is one more small task that I wish of you. It would be an abomination to leave the helmet in this damaged state. We must do something to repair it.
-- **10726**: Hmmm... We have most of the material required to repair it here in Norg, but I fear we may not have enough $1.
-- **10727**: Bring me one $1. I am sure you know of a craftsman who can provide you with this material. I will proceed in repairing the helmet when you have brought it to me.
-- **10728**: The helmet is in terrible condition. However, I think that with $1, I may be able to repair it.
-- **10729**: Yes, this is what I require to repair the damaged helmet. I will get to work immediately. However, this may take a great deal of time. Its condition is far worse than I had imagined.
-- **10730**: Why must you rush me in my work!? As I told you, the helmet was in terrible condition when you brought it to me. My work must be precise if I am to return it to its former glory!
-- **10731**: Ah, <Player>. I have just finished the repairs to the $0. I had to replace a large part of the helmet, but I feel I have helped it retain its former luster.
-- **10732**: Yes, your reward. I have not forgotten. Let us discuss these matters in Gilgamesh's quarters.
-- **10737**: I am still taken back by how much you've matured much since I forged your $0 many moons ago. I can only imagine what great things lie before such a skilled warrior.
-- **10738**: So, you've decided to help!
-- **10739**: So, you've finally decided to help.
-- **10741**: Samurai Artifact 1 flowchart 1: Get $6 from Washu.": Get $6 from Onzozo.
-- **10742**: 3: Give those two things to Jaucribaix. 4: Do some "Sending" in the dunes (z103). 5: Bring back $6 and you're done!
-- **10743**: Samurai Artifact 2 flowchart 1: Get $0.": Fight the boss in zone 144 and get $6.
-- **10744**: 3: Get $2 to repair the $3. 4: Hand over $2, wait one day (Earth time) and you're done!
-- **10808**: <Player>, I can sense your skills have improved much since you first wielded the mumeito I forged for you many moons ago. However, you still have many malms to travel on the road to mastery of the great katana. Do you feel you have what it takes to complete your journey?
-- **10809**: I understand your reluctance. One need not be hasty in such important decisions. I know that you will return here when you sense that you are ready.
-- **10810**: I detect no hesitation in your mind and spirit. That is good.
-- **10811**: Here, take this $0 and wield it as if it were part of your own body. When you have proven your strength and ability, the blade will lose its power. Then you will know that it has accepted you.
-- **10812**: When you feel that this time has come, return here with the katana.
-- **10813**: This test will try you in many ways, physically and mentally. However, I am certain that you will be able to clear the mountain that looms before you.
-- **10814**: When you have proven your strength and ability, the $0 will lose its power. Then you will know that it has accepted you.
-- **10815**: What brings you here today?
-- **10816**: I still sense much potential inside you. This trial is designed to bring forth that potential so you may further refine it and utilize it to its fullest.
-- **10817**: Wait. You need say no more. I realize that I failed to emphasize the rarity of that blade, but I did not imagine that you would lose such an important item.
-- **10818**: However, there is no need to fear. I have another $0 that I can lend you, though you must start the trial once again from the beginning. And this time, be more careful. I will not tolerate any more mistakes.
-- **10819**: What is this I hear? You are not truly thinking of abandoning your journey, are you?
-- **10820**: I see that you have made up your mind... I was certain that you had the potential to face the hardships I presented you, but I guess even an experienced eye such as my own can sometimes be clouded.
-- **10821**: I am sure that you have your reasons for this decision and I will not stop you from what you have decided in your heart. You may now return the $3 that I entrusted to you.
-- **10822**: I will leave you with the disposal of the $0. It has already lost its power and is no longer of any use to me.
-- **10823**: You accepted this quest with the intention of completing it, did you not? If you have the time to be playing tricks on a feeble, old man, you should be out on the battlefield improving your techniques!
-- **10824**: I can still feel energy running through this blade. This can only mean one thing--it still has not accepted your ability. The road to mastery is long. One cannot expect to reach one's goal in such a short period of time.
-- **10825**: Wonderful! You are now ready for the final portion of your journey. Travel to the place inscribed upon this $3--the Kuftal Tunnel. There you will meet your final test.
-- **10826**: Travel to the Kuftal Tunnel, as is instructed upon the $3 I gave you. There you will realize what you are to do.
-- **10827**: The $3! So, you have finally completed this leg of your journey... You are now ready to begin anew with your new techniques.
-- **10854**: Accept the challenge? [Of course!/Not just yet.]
-- **10855**: Why are you here? [No particular reason./I've lost the $0./I want to quit this quest.]
-- **10856**: Do you really want to quit? [Yes./No.]
+- **10191**: My name is Jaucribaix, and I am the blacksmith here in Norg. I don't waste my time with that crystal synthesis rubbish. I forge all my katana in the traditional manner.
+- **10192**: Our leader, Gilgamesh, has asked me to forge him a katana, but I am in somewhat of a bind.
+- **10193**: A katana is a work of art. I refuse to replace the traditional methods of smithing with modern synthesis. However, my supply of materials is currently running low.
+- **10194**: If these items were easy to come by, I would go myself. Unfortunately, this is not the case, and I require your assistance.
+- **10195**: Listen to Jaucribaix's request? [Yes./No.]
+- **10196**: I see. I apologize for taking up your valuable time.
+- **10197**: Ah, have you reconsidered my offer?
+- **10198**: I am grateful for your assistance. Would you be so kind as to fetch me $0 and $1?
+- **10199**: The $0 is for the flame that fuels my furnace, and the $1 is the perfect material for melting the iron. Both are needed to forge a true katana blade.
+- **10200**: To learn of where you may come across these items, ask my pupils.
+- **10201**: Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it.
+- **10202**: To learn of where you may come across the items I wish you to bring me, ask my pupils.
+- **10203**: Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it.
+- **10204**: When you have gathered the two items, bring them directly to me and I will begin my work.
+- **10205**: Wonderful. These are the materials that I require. I apologize, but I must hurry or Gilgamesh will have my head. I will reward you for your services when I have finished the katana.
+- **10206**: How long will it take, you ask? A good blade takes at least three full days to complete. Come to me then. You need not worry. I will be right here.
+- **10207**: Again, I apologize for not being able to give you your reward sooner.
+- **10208**: My work is not yet complete. I still require $0 [more hour/more hours]. It is not wise to waste your time trying to outrun the clock in this game we call life.
+- **10209**: Time is like a flowing river--it cannot be sped up or slowed down. We must float along at the pace it has chosen.
+- **10224**: Crystal technology has helped Vana'diel prosper, but at the cost of traditional methods, now lost forever.
+- **10225**: Just as the old is replaced by the new, the world is constantly changing. One day, one may no longer be able to live by a single blade alone.
+- **10641**: Ah, <Player>. Many moons have passed since I made you your first katana. I can see you have grown much in that time.
+- **10642**: This may seem sudden, but I wish to ask of your assistance.
+- **10643**: Spoken like a true samurai. Now let me fill you in on the details. In the coming weeks, an extremely important ritual will be held. To complete this ritual, a "sacred katana" is needed. I require your assistance in gathering the materials to forge this new blade.
+- **10644**: The first is $0. This is to become the base of the sacred katana. I assume the $0 you used in your training still rests somewhere in your Mog Safe.
+- **10645**: The second item I require is $6. You can only find these scales on the beast that lives deep within a crystal pond in the Sanctuary of Zi'Tah.
+- **10646**: However, this fish cannot be caught using traditional methods. You must lure it out of hiding using $2, made by the Goblins of that forest.
+- **10647**: Take care when battling this violent beast, as it is no ordinary fish. After you defeat it, recover $6 and bring them back to me.
+- **10648**: A long journey awaits you. I pray for your safe return.
+- **10649**: Listen carefully. To forge a new sacred katana, I require two items, the first being the $0 you used in your training.
+- **10650**: Return here when you have obtained the materials.
+- **10651**: I see you have successfully obtained the materials necessary for the forging of the sacred katana. Thanks to your hard work, the blade should be finished by the start of the ritual.
+- **10652**: Ah yes, your reward. Let me give you this $2 in exchange for your $0. It is one of my finest works. May it guide you on your journey.
+- **10653**: As I told you before, the materials you brought me will be used to forge a sacred katana to be used in an important ritual being held in a matter of days.
+- **10654**: However, there is still much preparation to be done. Your assistance may be required again.
+- **10655**: What is wrong? You do not look too well...
+- **10656**: I think I know what may be troubling you. You remember my pupil Ranemaud, do you not? Talk with him, and he may be able to help you with your predicament.
+- **10657**: This is all I will tell you. After you have obtained $6, bring them and your $0 to me. I will be waiting.
+- **10666**: Ah, you're back! And just in time, I might say. The date of the ritual is approaching fast.
+- **10667**: For this next assignment, Gilgamesh specifically requested the assistance of the previous owner of the $0.
+- **10668**: That is unfortunate, but there still is time. Please reconsider your decision.
+- **10669**: Excellent. Now let me show you into Gilgamesh's quarters.
+- **10682**: Yes, sir.
+- **10683**: For the Yomi Okuri to be properly carried out, a sacred katana must be made. Your $0 has already been used to forge the blade of the katana. However, we are still one step away from completion.
+- **10684**: Somewhere on the mainlands is a place called the Labyrinth of Onzozo. In those caves lurks a mammoth bird. To complete the sacred katana, I require $6 from that beast.
+- **10685**: However, this bird rarely ever sets forth from its nest. It must be lured out with a special kind of bait.
+- **10688**: Do not forget to obtain some of Washu's tasty wurst before you set off for the Labyrinth of Onzozo. You will need it to lure the giant bird out of its lair.
+- **10689**: Yes, this $3 is exactly what I need to complete the sacred katana. Now all I require is time...
+- **10690**: Do not rush me! This job requires extreme concentration. Think of the consequences if I were to hurry through my work!
+- **10691**: 3... That is the name I bestow upon this sacred katana. Now, all that remains is for you to take the blade to Valkurm and complete the ritual.
+- **10692**: It is during this time beyond dusk that you must thrust $3 into the secluded beach that lies on the other side of the far western caves in the Valkurm Dunes. Only then will the spirits be set free.
+- **10693**: From the hour in which the sands are ruled by darkness until they once again are graced by light...
+- **10694**: Welcome back, <Player>. The new form that blade has taken is the proof that you were successful in your mission. I applaud you on your bravery.
+- **10695**: Gilgamesh has asked me to present you with this as a token of our appreciation. Wear it with pride and let it guide you on your path in life.
+- **10696**: Norg has many ties with the lost nation of Tavnazia, and many people here still think of it as their homeland. The battle fought twenty years ago took the lives of many of our brothers, but the sacrifices that they made have not been in vain.
+- **10697**: That day, something in Gilgamesh changed. He transformed from a simple soldier to a great leader who would bring us together and create the Norg of today.
+- **10707**: <Player>! Once again, trouble is brewing in Norg, and we require your services.
+- **10708**: I see. So you are busy... However, there is still time. I pray that you will return to us quickly.
+- **10709**: Your gratitude is appreciated by all of us here in Norg. Now let us proceed to Gilgamesh's chambers.
+- **10719**: Currently, Gilgamesh has men combing Vana'diel for clues on the whereabouts of the thieves. Search them out and learn what new information they have gathered.
+- **10720**: The situation has grown graver than I had imagined. It is only a matter of time before the seal on the helmet breaks, if it has not already.
+- **10721**: Take this. It can be used to extinguish the evil spirit's power for a short period of time.
+- **10722**: Throw that $0 into the magic portal. After that, you should then be able to enter. But beware of what lurks on the other side!
+- **10723**: You fool! How could you just dispose of such an important item? Without it, how are you supposed to break the cursed seal on the portal!?
+- **10724**: By the looks of this $3, I can guess that seal was already broken when you arrived at the shrine. It is amazing that the seal held for so many decades.
+- **10725**: You have done well, <Player>. Without your strength and perseverance, we would not have been able to silence that evil spirit. We are all in your debt.
+- **10726**: However, before I give you your reward, there is one more small task that I wish of you. It would be an abomination to leave the helmet in this damaged state. We must do something to repair it.
+- **10727**: Hmmm... We have most of the material required to repair it here in Norg, but I fear we may not have enough $1.
+- **10728**: Bring me one $1. I am sure you know of a craftsman who can provide you with this material. I will proceed in repairing the helmet when you have brought it to me.
+- **10729**: The helmet is in terrible condition. However, I think that with $1, I may be able to repair it.
+- **10730**: Yes, this is what I require to repair the damaged helmet. I will get to work immediately. However, this may take a great deal of time. Its condition is far worse than I had imagined.
+- **10731**: Why must you rush me in my work!? As I told you, the helmet was in terrible condition when you brought it to me. My work must be precise if I am to return it to its former glory!
+- **10732**: Ah, <Player>. I have just finished the repairs to the $0. I had to replace a large part of the helmet, but I feel I have helped it retain its former luster.
+- **10733**: Yes, your reward. I have not forgotten. Let us discuss these matters in Gilgamesh's quarters.
+- **10738**: I am still taken back by how much you've matured much since I forged your $0 many moons ago. I can only imagine what great things lie before such a skilled warrior.
+- **10739**: So, you've decided to help!
+- **10740**: So, you've finally decided to help.
+- **10742**: Samurai Artifact 1 flowchart 1: Get $6 from Washu.": Get $6 from Onzozo.
+- **10743**: 3: Give those two things to Jaucribaix. 4: Do some "Sending" in the dunes (z103). 5: Bring back $6 and you're done!
+- **10744**: Samurai Artifact 2 flowchart 1: Get $0.": Fight the boss in zone 144 and get $6.
+- **10745**: 3: Get $2 to repair the $3. 4: Hand over $2, wait one day (Earth time) and you're done!
+- **10809**: <Player>, I can sense your skills have improved much since you first wielded the mumeito I forged for you many moons ago. However, you still have many malms to travel on the road to mastery of the great katana. Do you feel you have what it takes to complete your journey?
+- **10810**: I understand your reluctance. One need not be hasty in such important decisions. I know that you will return here when you sense that you are ready.
+- **10811**: I detect no hesitation in your mind and spirit. That is good.
+- **10812**: Here, take this $0 and wield it as if it were part of your own body. When you have proven your strength and ability, the blade will lose its power. Then you will know that it has accepted you.
+- **10813**: When you feel that this time has come, return here with the katana.
+- **10814**: This test will try you in many ways, physically and mentally. However, I am certain that you will be able to clear the mountain that looms before you.
+- **10815**: When you have proven your strength and ability, the $0 will lose its power. Then you will know that it has accepted you.
+- **10816**: What brings you here today?
+- **10817**: I still sense much potential inside you. This trial is designed to bring forth that potential so you may further refine it and utilize it to its fullest.
+- **10818**: Wait. You need say no more. I realize that I failed to emphasize the rarity of that blade, but I did not imagine that you would lose such an important item.
+- **10819**: However, there is no need to fear. I have another $0 that I can lend you, though you must start the trial once again from the beginning. And this time, be more careful. I will not tolerate any more mistakes.
+- **10820**: What is this I hear? You are not truly thinking of abandoning your journey, are you?
+- **10821**: I see that you have made up your mind... I was certain that you had the potential to face the hardships I presented you, but I guess even an experienced eye such as my own can sometimes be clouded.
+- **10822**: I am sure that you have your reasons for this decision and I will not stop you from what you have decided in your heart. You may now return the $3 that I entrusted to you.
+- **10823**: I will leave you with the disposal of the $0. It has already lost its power and is no longer of any use to me.
+- **10824**: You accepted this quest with the intention of completing it, did you not? If you have the time to be playing tricks on a feeble, old man, you should be out on the battlefield improving your techniques!
+- **10825**: I can still feel energy running through this blade. This can only mean one thing--it still has not accepted your ability. The road to mastery is long. One cannot expect to reach one's goal in such a short period of time.
+- **10826**: Wonderful! You are now ready for the final portion of your journey. Travel to the place inscribed upon this $3--the Kuftal Tunnel. There you will meet your final test.
+- **10827**: Travel to the Kuftal Tunnel, as is instructed upon the $3 I gave you. There you will realize what you are to do.
+- **10828**: The $3! So, you have finally completed this leg of your journey... You are now ready to begin anew with your new techniques.
+- **10855**: Accept the challenge? [Of course!/Not just yet.]
+- **10856**: Why are you here? [No particular reason./I've lost the $0./I want to quit this quest.]
+- **10857**: Do you really want to quit? [Yes./No.]
 
 ## Events
 
@@ -433,7 +433,7 @@
 
 ```
   0: 0x0002 [0x1A] CALL_SUBROUTINE(address=0x18BD)
-  1: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10190*)
+  1: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10191*)
     → "My name is Jaucribaix, and I am the blacksmith here in Norg. I don't waste my time with that crystal synthesis rubbish. I forge all my katana in the traditional manner."
   2: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0009 [0x21] END_EVENT
@@ -472,29 +472,29 @@
 ```
   0: 0x000B [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x000E [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x001D
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10196*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=10197*)
     → "Ah, have you reconsidered my offer?"
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x01] GOTO 0x0054
   5: 0x001D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10191*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10192*)
     → "Our leader, Gilgamesh, has asked me to forge him a katana, but I am in somewhat of a bind."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10192*)
+  8: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10193*)
     → "A katana is a work of art. I refuse to replace the traditional methods of smithing with modern synthesis. However, my supply of materials is currently running low."
   9: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 11: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=10193*)
+ 11: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=10194*)
     → "If these items were easy to come by, I would go myself. Unfortunately, this is not the case, and I require your assistance."
  12: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0047 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
 
 SUBROUTINE_0054:
- 14: 0x0054 [0x24] CREATE_DIALOG(message_id=10194*, default_option=0*, option_flags=0*)
+ 14: 0x0054 [0x24] CREATE_DIALOG(message_id=10195*, default_option=0*, option_flags=0*)
     → "Listen to Jaucribaix's request? [Yes./No.]"
  15: 0x005B [0x25] WAIT_DIALOG_SELECT()
  16: 0x005C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x006E
- 17: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10195*)
+ 17: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=10196*)
     → "I see. I apologize for taking up your valuable time."
  18: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0068 [0x01] GOTO 0x00BE
@@ -502,20 +502,20 @@ SUBROUTINE_0054:
 SUBROUTINE_006E:
  20: 0x006E [0x42] SET_CLI_EVENT_CANCEL_DATA()
  21: 0x006F [0x03] Work_Zone[1] = 1*
- 22: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10197*)
+ 22: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=10198*)
     → "I am grateful for your assistance. Would you be so kind as to fetch me $0 and $1?"
  23: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0078 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 25: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10198*)
+ 25: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10199*)
     → "The $0 is for the flame that fuels my furnace, and the $1 is the perfect material for melting the iron. Both are needed to forge a true katana blade."
  26: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x008B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  28: 0x009A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  29: 0x00A7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 30: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10199*)
+ 30: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10200*)
     → "To learn of where you may come across these items, ask my pupils."
  31: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10200*)
+ 32: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10201*)
     → "Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it."
  33: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -553,13 +553,13 @@ SUBROUTINE_00BE:
 ```
   0: 0x00C0 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x00C3 [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  2: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10201*)
+  2: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10202*)
     → "To learn of where you may come across the items I wish you to bring me, ask my pupils."
   3: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10202*)
+  4: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
     → "Tell them I sent you, and they will assist you with your preparations for the journey. Also, if you come across any trouble, you may ask them for further aid. However, I doubt you will require it."
   5: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10203*)
+  6: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
     → "When you have gathered the two items, bring them directly to me and I will begin my work."
   7: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00D2 [0x21] END_EVENT
@@ -591,15 +591,15 @@ SUBROUTINE_00BE:
 ```
   0: 0x00D4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00D5 [0x1A] CALL_SUBROUTINE(address=0x18BD)
-  2: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10204*)
+  2: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
     → "Wonderful. These are the materials that I require. I apologize, but I must hurry or Gilgamesh will have my head. I will reward you for your services when I have finished the katana."
   3: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
   5: 0x00EB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
-  6: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10205*)
+  6: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
     → "How long will it take, you ask? A good blade takes at least three full days to complete. Come to me then. You need not worry. I will be right here."
   7: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10206*)
+  8: 0x00FC [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
     → "Again, I apologize for not being able to give you your reward sooner."
   9: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0100 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -632,10 +632,10 @@ SUBROUTINE_00BE:
 ```
   0: 0x0114 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0117 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=10207*)
+  2: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
     → "My work is not yet complete. I still require $0 [more hour/more hours]. It is not wise to waste your time trying to outrun the clock in this game we call life."
   3: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=10208*)
+  4: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=10209*)
     → "Time is like a flowing river--it cannot be sped up or slowed down. We must float along at the pace it has chosen."
   5: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x012E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -708,13 +708,13 @@ SUBROUTINE_00BE:
   8: 0x016B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x017C [0x1A] CALL_SUBROUTINE(address=0x18BD)
  10: 0x017F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x018E [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10209*]:
+ 11: 0x018E [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10210*]:
     → "Ah, <Player>, you have finally returned. I was beginning to worry that you had forgotten about your reward."
  12: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0196 [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10210*]:
+ 13: 0x0196 [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10211*]:
     → "Now where did I put that..."
  14: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x019E [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10211*]:
+ 15: 0x019E [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10212*]:
     → "Arrrg, if it isn't our little helper [boy/girl]!"
  16: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x01A6 [0x6C] FADE_ENTITY_COLOR(entity_id=Gilgamesh (ID: 17809411/0x010FC003), end_alpha=128*, fade_time=1*)
@@ -724,12 +724,12 @@ SUBROUTINE_00BE:
  21: 0x01C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sm02" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  22: 0x01D9 [0x1C] WAIT(30* ticks)
  23: 0x01DC [0x4A] LocalPlayer looks at Gilgamesh (ID: 17809411/0x010FC003)
- 24: 0x01E5 [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10212*]:
+ 24: 0x01E5 [0x2B] Jaucribaix (ID: 17809424/0x010FC010) [10213*]:
     → "Gilgamesh."
  25: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x01ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sm03" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  27: 0x01FE [0x27] REQ_SET(priority=0x10, entity_id=Gilgamesh (ID: 17809411/0x010FC003), tag_num=0x1A)
- 28: 0x0205 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10213*]:
+ 28: 0x0205 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10214*]:
     → "Ya did some mighty fine work in gettin' me matey, Jauc, his materials. Thanks t'you, I got meself a fine new blade."
  29: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x020D [0x52] END_LOAD_SCHEDULER: End scheduler "sm03" with entities [LocalPlayer, LocalPlayer], work=233*
@@ -741,15 +741,15 @@ SUBROUTINE_00BE:
  36: 0x024E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Gilgamesh (ID: 17809411/0x010FC003) Render.Flags0 and Render.Flags3 conditions are met
  37: 0x0253 [0x79] Gilgamesh (ID: 17809411/0x010FC003) looks at Gilgamesh (ID: 17809411/0x010FC003) (Basic look)
  38: 0x025D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 39: 0x026C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10214*]:
+ 39: 0x026C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10215*]:
     → "Listen carefully, <Player>. Within a katana, the soul of its maker and the soul of its wielder are intertwined."
  40: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0274 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Gilgamesh (ID: 17809411/0x010FC003))
  42: 0x027A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 43: 0x0289 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10215*]:
+ 43: 0x0289 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10216*]:
     → "That newfangled crystal synthesis you adventurers be usin' is all fine fer mantles and arrows, but it can't copy the traditional methods. One must know the essentials behind a blade if they ever want t'master it."
  44: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0291 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10216*]:
+ 45: 0x0291 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10217*]:
     → "That's why we make adventurers like you go on quests like that last one. We want you t'know the true meanin' of wieldin' a blade like this."
  46: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0299 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Gilgamesh (ID: 17809411/0x010FC003))
@@ -757,20 +757,20 @@ SUBROUTINE_00BE:
  49: 0x02AE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
  50: 0x02BB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ktn0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=567*
  51: 0x02CA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "won4" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
- 52: 0x02D7 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10217*]:
+ 52: 0x02D7 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10218*]:
     → "Know the meaning of the power you hold, and only then will you find the true power within. That be "bushido," the way of the samurai."
  53: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x02DF [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10218*]:
+ 54: 0x02DF [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10219*]:
     → "Yer adventures have already trained you t'become a samurai. Now all that's left is for ya t'pledge your faith t'this blade. Yer power within will do the rest."
  55: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x02E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sm06" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
- 57: 0x02F8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10219*]:
+ 57: 0x02F8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10220*]:
     → "Rid yerself of all unnecessary thoughts and feel the world around ya. Make yer soul an unclouded mirror...a motionless pond. Project yerself into yer blade. This be the legendary skill used by the samurai--"Meikyo Shisui.""
  58: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0300 [0x52] END_LOAD_SCHEDULER: End scheduler "sm06" with entities [LocalPlayer, LocalPlayer], work=233*
  60: 0x030F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sm05" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  61: 0x0320 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ktn1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=567*
- 62: 0x032F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10220*]:
+ 62: 0x032F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10221*]:
     → "Take this $0, <Player>. This blade was forged fer ya. Pledge your life t'her an' she won't let ya down."
  63: 0x0336 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0337 [0x1A] CALL_SUBROUTINE(address=0x168F)
@@ -806,10 +806,10 @@ SUBROUTINE_00BE:
 ```
   0: 0x0370 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0373 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=10223*)
+  2: 0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=10224*)
     → "Crystal technology has helped Vana'diel prosper, but at the cost of traditional methods, now lost forever."
   3: 0x0385 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=10224*)
+  4: 0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
     → "Just as the old is replaced by the new, the world is constantly changing. One day, one may no longer be able to live by a single blade alone."
   5: 0x0389 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x038A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -852,25 +852,25 @@ SUBROUTINE_00BE:
   2: 0x03A6 [0x03] Work_Zone[3] = 453*
   3: 0x03AB [0x03] Work_Zone[4] = 1168*
   4: 0x03B0 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x03BF
-  5: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+  5: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "So, you've decided to help!"
   6: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03BC [0x01] GOTO 0x03CF
   8: 0x03BF [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  9: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10640*)
+  9: 0x03C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10641*)
     → "Ah, <Player>. Many moons have passed since I made you your first katana. I can see you have grown much in that time."
  10: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10641*)
+ 11: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10642*)
     → "This may seem sudden, but I wish to ask of your assistance."
  12: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x03CA [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
 
 SUBROUTINE_03CF:
- 14: 0x03CF [0x24] CREATE_DIALOG(message_id=10194*, default_option=1*, option_flags=0*)
+ 14: 0x03CF [0x24] CREATE_DIALOG(message_id=10195*, default_option=1*, option_flags=0*)
     → "Listen to Jaucribaix's request? [Yes./No.]"
  15: 0x03D6 [0x25] WAIT_DIALOG_SELECT()
  16: 0x03D7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03E9
- 17: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10195*)
+ 17: 0x03DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10196*)
     → "I see. I apologize for taking up your valuable time."
  18: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x03E3 [0x01] GOTO 0x0438
@@ -879,26 +879,26 @@ SUBROUTINE_03E9:
  20: 0x03E9 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  21: 0x03EA [0x03] Work_Zone[1] = 1*
  22: 0x03EF [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 23: 0x03F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10642*)
+ 23: 0x03F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10643*)
     → "Spoken like a true samurai. Now let me fill you in on the details. In the coming weeks, an extremely important ritual will be held. To complete this ritual, a "sacred katana" is needed. I require your assistance in gathering the materials to forge this new blade."
  24: 0x03F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10643*)
+ 25: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10644*)
     → "The first is $0. This is to become the base of the sacred katana. I assume the $0 you used in your training still rests somewhere in your Mog Safe."
  26: 0x03F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x03FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 28: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=10644*)
+ 28: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
     → "The second item I require is $6. You can only find these scales on the beast that lives deep within a crystal pond in the Sanctuary of Zi'Tah."
  29: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
+ 30: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
     → "However, this fish cannot be caught using traditional methods. You must lure it out of hiding using $2, made by the Goblins of that forest."
  31: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0411 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  33: 0x0420 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  34: 0x042D [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 35: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
+ 35: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=10647*)
     → "Take care when battling this violent beast, as it is no ordinary fish. After you defeat it, recover $6 and bring them back to me."
  36: 0x0433 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=10647*)
+ 37: 0x0434 [0x1D] PRINT_EVENT_MESSAGE(message_id=10648*)
     → "A long journey awaits you. I pray for your safe return."
  38: 0x0437 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -942,23 +942,23 @@ SUBROUTINE_0438:
   1: 0x043D [0x03] Work_Zone[2] = 17809*
   2: 0x0442 [0x03] Work_Zone[3] = 453*
   3: 0x0447 [0x03] Work_Zone[4] = 1168*
-  4: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=10648*)
+  4: 0x044C [0x1D] PRINT_EVENT_MESSAGE(message_id=10649*)
     → "Listen carefully. To forge a new sacred katana, I require two items, the first being the $0 you used in your training."
   5: 0x044F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0450 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=10644*)
+  7: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
     → "The second item I require is $6. You can only find these scales on the beast that lives deep within a crystal pond in the Sanctuary of Zi'Tah."
   8: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=10645*)
+  9: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
     → "However, this fish cannot be caught using traditional methods. You must lure it out of hiding using $2, made by the Goblins of that forest."
  10: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0467 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  12: 0x0476 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  13: 0x0483 [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 14: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=10646*)
+ 14: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=10647*)
     → "Take care when battling this violent beast, as it is no ordinary fish. After you defeat it, recover $6 and bring them back to me."
  15: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=10649*)
+ 16: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=10650*)
     → "Return here when you have obtained the materials."
  17: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x048E [0x21] END_EVENT
@@ -1009,11 +1009,11 @@ SUBROUTINE_0438:
  11: 0x04DC [0x03] Work_Zone[2] = 17809*
  12: 0x04E1 [0x03] Work_Zone[3] = 453*
  13: 0x04E6 [0x03] Work_Zone[4] = 17812*
- 14: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10650*)
+ 14: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10651*)
     → "I see you have successfully obtained the materials necessary for the forging of the sacred katana. Thanks to your hard work, the blade should be finished by the start of the ritual."
  15: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x04EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 17: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10651*)
+ 17: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10652*)
     → "Ah yes, your reward. Let me give you this $2 in exchange for your $0. It is one of my finest works. May it guide you on your journey."
  18: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0502 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -1052,11 +1052,11 @@ SUBROUTINE_0438:
 ```
   0: 0x054A [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x054D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=10652*)
+  2: 0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=10653*)
     → "As I told you before, the materials you brought me will be used to forge a sacred katana to be used in an important ritual being held in a matter of days."
   3: 0x055F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0560 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
-  5: 0x056F [0x1D] PRINT_EVENT_MESSAGE(message_id=10653*)
+  5: 0x056F [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
     → "However, there is still much preparation to be done. Your assistance may be required again."
   6: 0x0572 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0573 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
@@ -1091,16 +1091,16 @@ SUBROUTINE_0438:
   1: 0x0585 [0x03] Work_Zone[2] = 17809*
   2: 0x058A [0x03] Work_Zone[3] = 453*
   3: 0x058F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  4: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=10654*)
+  4: 0x059E [0x1D] PRINT_EVENT_MESSAGE(message_id=10655*)
     → "What is wrong? You do not look too well..."
   5: 0x05A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05A2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
   7: 0x05B1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
   8: 0x05BE [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  9: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10655*)
+  9: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
     → "I think I know what may be troubling you. You remember my pupil Ranemaud, do you not? Talk with him, and he may be able to help you with your predicament."
  10: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10656*)
+ 11: 0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10657*)
     → "This is all I will tell you. After you have obtained $6, bring them and your $0 to me. I will be waiting."
  12: 0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x05C9 [0x21] END_EVENT
@@ -1183,26 +1183,26 @@ SUBROUTINE_0438:
   3: 0x05D7 [0x03] Work_Zone[2] = 17809*
   4: 0x05DC [0x03] Work_Zone[3] = 462*
   5: 0x05E1 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x05F0
-  6: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+  6: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "So, you've decided to help!"
   7: 0x05EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05ED [0x01] GOTO 0x0600
   9: 0x05F0 [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 10: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10665*)
+ 10: 0x05F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
     → "Ah, you're back! And just in time, I might say. The date of the ritual is approaching fast."
  11: 0x05F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10666*)
+ 12: 0x05F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
     → "For this next assignment, Gilgamesh specifically requested the assistance of the previous owner of the $0."
  13: 0x05FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x05FB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
 
 SUBROUTINE_0600:
- 15: 0x0600 [0x24] CREATE_DIALOG(message_id=10194*, default_option=1*, option_flags=0*)
+ 15: 0x0600 [0x24] CREATE_DIALOG(message_id=10195*, default_option=1*, option_flags=0*)
     → "Listen to Jaucribaix's request? [Yes./No.]"
  16: 0x0607 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0608 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x065E
  18: 0x0610 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 19: 0x061F [0x1D] PRINT_EVENT_MESSAGE(message_id=10667*)
+ 19: 0x061F [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
     → "That is unfortunate, but there still is time. Please reconsider your decision."
  20: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0623 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -1214,21 +1214,21 @@ SUBROUTINE_0600:
 SUBROUTINE_065E:
  26: 0x065E [0x42] SET_CLI_EVENT_CANCEL_DATA()
  27: 0x065F [0x03] Work_Zone[1] = 1*
- 28: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=10668*)
+ 28: 0x0664 [0x1D] PRINT_EVENT_MESSAGE(message_id=10669*)
     → "Excellent. Now let me show you into Gilgamesh's quarters."
  29: 0x0667 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0668 [0x1A] CALL_SUBROUTINE(address=0x140E)
  31: 0x066B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an03" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
  32: 0x067C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 33: 0x068B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10669*]:
+ 33: 0x068B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10670*]:
     → "Arrrg, if it isn't me matey, <Player>. We be mighty grateful fer yer help 'n this one."
  34: 0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0693 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10670*]:
+ 35: 0x0693 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10671*]:
     → "I'm sure Jauc's already told ya 'bout the upcomin' ritual we be holdin'. We call it "Yomi Okuri." In Far Eastern legend, Yomi is the name of the place where the spirits of the dead roam."
  36: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x069B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  38: 0x06AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an04" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 39: 0x06BB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10671*]:
+ 39: 0x06BB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10672*]:
     → "Let me explain..."
  40: 0x06C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x06C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
@@ -1240,15 +1240,15 @@ SUBROUTINE_065E:
  47: 0x06E1 [0x5D] SET_MUSIC_VOLUME(volume=96*, fade_time=120*)
  48: 0x06E6 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Gilgamesh (ID: 17809411/0x010FC003))
  49: 0x06EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 50: 0x06FB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10672*]:
+ 50: 0x06FB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10673*]:
     → "Twenty years ago, before the fall of Castle Zvahl and the Shadow Lord, a small country was wiped off the face of Vana'diel by those bloodthirsty beastmen."
  51: 0x0702 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0703 [0x52] END_LOAD_SCHEDULER: End scheduler "an04" with entities [LocalPlayer, LocalPlayer], work=216*
  53: 0x0712 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an05" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 54: 0x0723 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10673*]:
+ 54: 0x0723 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10674*]:
     → "That country was known as the Marquisate of Tavnazia. The flag we raise here in Norg be the flag of that lost nation."
  55: 0x072A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x072B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10674*]:
+ 56: 0x072B [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10675*]:
     → "It was a gruesome battle. Citizens of Tavnazia, soldiers from the three nations... Nearly all were slaughtered in a matter of hours."
  57: 0x0732 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0733 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Gilgamesh (ID: 17809411/0x010FC003))
@@ -1256,20 +1256,20 @@ SUBROUTINE_065E:
  60: 0x0748 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
  61: 0x0755 [0x52] END_LOAD_SCHEDULER: End scheduler "an05" with entities [LocalPlayer, LocalPlayer], work=216*
  62: 0x0764 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an06" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 63: 0x0775 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10675*]:
+ 63: 0x0775 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10676*]:
     → "I, too, saw the apocalypse that happened the day Tavnazia fell. When 'twas all over, the handful of us that remained escaped on a tiny ship."
  64: 0x077C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x077D [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10676*]:
+ 65: 0x077D [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10677*]:
     → "But most of me mateys were already in bad shape and didn't survive the long journey home. Only a few of us made it back to Valkurm alive."
  66: 0x0784 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0785 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10677*]:
+ 67: 0x0785 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10678*]:
     → "When we arrived at the dunes, we found that there were others that had tried escapin', but failed...the wreckage of their ships scattered 'bout the beaches."
  68: 0x078C [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x078D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 70: 0x079C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10678*]:
+ 70: 0x079C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10679*]:
     → "Those who could still move used what remained of their energy to dig simple graves for those that had passed. But this would not be enough to appease the troubled souls that lingered in those sands."
  71: 0x07A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x07A4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10679*]:
+ 72: 0x07A4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10680*]:
     → "Without a guidin' hand, the souls remain in this world, gettin' angrier an' angrier. The Yomi Okuri ritual is held to show these lost spirits the way t'their proper place of restin'."
  73: 0x07AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x07AC [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1280,10 +1280,10 @@ SUBROUTINE_065E:
  79: 0x07E1 [0x79] Gilgamesh (ID: 17809411/0x010FC003) looks at Jaucribaix (ID: 17809424/0x010FC010) (Basic look)
  80: 0x07EB [0x1C] WAIT(45* ticks)
  81: 0x07EE [0x79] Jaucribaix (ID: 17809424/0x010FC010) looks at Gilgamesh (ID: 17809411/0x010FC003) (Basic look)
- 82: 0x07F8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10680*]:
+ 82: 0x07F8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10681*]:
     → "Jauc, you take it from here."
  83: 0x07FF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=10681*)
+ 84: 0x0800 [0x1D] PRINT_EVENT_MESSAGE(message_id=10682*)
     → "Yes, sir."
  85: 0x0803 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0804 [0x79] Gilgamesh (ID: 17809411/0x010FC003) looks at LocalPlayer (Basic look)
@@ -1292,13 +1292,13 @@ SUBROUTINE_065E:
  89: 0x081B [0x52] END_LOAD_SCHEDULER: End scheduler "an07" with entities [LocalPlayer, LocalPlayer], work=216*
  90: 0x082A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an08" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
  91: 0x083B [0x79] LocalPlayer looks at Jaucribaix (ID: 17809424/0x010FC010) (Basic look)
- 92: 0x0845 [0x1D] PRINT_EVENT_MESSAGE(message_id=10682*)
+ 92: 0x0845 [0x1D] PRINT_EVENT_MESSAGE(message_id=10683*)
     → "For the Yomi Okuri to be properly carried out, a sacred katana must be made. Your $0 has already been used to forge the blade of the katana. However, we are still one step away from completion."
  93: 0x0848 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=10683*)
+ 94: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=10684*)
     → "Somewhere on the mainlands is a place called the Labyrinth of Onzozo. In those caves lurks a mammoth bird. To complete the sacred katana, I require $6 from that beast."
  95: 0x084C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x084D [0x1D] PRINT_EVENT_MESSAGE(message_id=10684*)
+ 96: 0x084D [0x1D] PRINT_EVENT_MESSAGE(message_id=10685*)
     → "However, this bird rarely ever sets forth from its nest. It must be lured out with a special kind of bait."
  97: 0x0850 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0851 [0x52] END_LOAD_SCHEDULER: End scheduler "an08" with entities [LocalPlayer, LocalPlayer], work=216*
@@ -1306,10 +1306,10 @@ SUBROUTINE_065E:
 100: 0x0871 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
 101: 0x0876 [0x79] LocalPlayer looks at Gilgamesh (ID: 17809411/0x010FC003) (Basic look)
 102: 0x0880 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
-103: 0x088F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10685*]:
+103: 0x088F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10686*]:
     → "An' the only one of me mates that can brew a bait fine enough to make that pecker show its beak would be our head cook, Washu. Get some from her before ya leave."
 104: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x0897 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10686*]:
+105: 0x0897 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10687*]:
     → "Oh, an' watch yer back in those caves. They be crawlin' with all sorts of terrible beasts. Get it, grab the $3, and be outta there quick, if ya know what's good fer ya."
 106: 0x089E [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x089F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
@@ -1362,7 +1362,7 @@ SUBROUTINE_08F2:
   0: 0x08F4 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x08F7 [0x1A] CALL_SUBROUTINE(address=0x18FB)
   2: 0x08FA [0x03] Work_Zone[2] = 462*
-  3: 0x08FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10687*)
+  3: 0x08FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
     → "Do not forget to obtain some of Washu's tasty wurst before you set off for the Labyrinth of Onzozo. You will need it to lure the giant bird out of its lair."
   4: 0x0902 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0903 [0x21] END_EVENT
@@ -1392,7 +1392,7 @@ SUBROUTINE_08F2:
   0: 0x0905 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0906 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   2: 0x0909 [0x03] Work_Zone[2] = 462*
-  3: 0x090E [0x1D] PRINT_EVENT_MESSAGE(message_id=10688*)
+  3: 0x090E [0x1D] PRINT_EVENT_MESSAGE(message_id=10689*)
     → "Yes, this $3 is exactly what I need to complete the sacred katana. Now all I require is time..."
   4: 0x0911 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0912 [0x21] END_EVENT
@@ -1419,7 +1419,7 @@ SUBROUTINE_08F2:
 
 ```
   0: 0x0914 [0x1A] CALL_SUBROUTINE(address=0x18BD)
-  1: 0x0917 [0x1D] PRINT_EVENT_MESSAGE(message_id=10689*)
+  1: 0x0917 [0x1D] PRINT_EVENT_MESSAGE(message_id=10690*)
     → "Do not rush me! This job requires extreme concentration. Think of the consequences if I were to hurry through my work!"
   2: 0x091A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x091B [0x21] END_EVENT
@@ -1452,11 +1452,11 @@ SUBROUTINE_08F2:
   1: 0x091E [0x1A] CALL_SUBROUTINE(address=0x18BD)
   2: 0x0921 [0x1A] CALL_SUBROUTINE(address=0x18FB)
   3: 0x0924 [0x03] Work_Zone[2] = 463*
-  4: 0x0929 [0x1D] PRINT_EVENT_MESSAGE(message_id=10690*)
+  4: 0x0929 [0x1D] PRINT_EVENT_MESSAGE(message_id=10691*)
     → "3... That is the name I bestow upon this sacred katana. Now, all that remains is for you to take the blade to Valkurm and complete the ritual."
   5: 0x092C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x092D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x093C [0x1D] PRINT_EVENT_MESSAGE(message_id=10691*)
+  7: 0x093C [0x1D] PRINT_EVENT_MESSAGE(message_id=10692*)
     → "It is during this time beyond dusk that you must thrust $3 into the secluded beach that lies on the other side of the far western caves in the Valkurm Dunes. Only then will the spirits be set free."
   8: 0x093F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0940 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -1488,10 +1488,10 @@ SUBROUTINE_08F2:
   0: 0x094F [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0952 [0x1A] CALL_SUBROUTINE(address=0x18FB)
   2: 0x0955 [0x03] Work_Zone[2] = 463*
-  3: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=10692*)
+  3: 0x095A [0x1D] PRINT_EVENT_MESSAGE(message_id=10693*)
     → "From the hour in which the sands are ruled by darkness until they once again are graced by light..."
   4: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=10691*)
+  5: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=10692*)
     → "It is during this time beyond dusk that you must thrust $3 into the secluded beach that lies on the other side of the far western caves in the Valkurm Dunes. Only then will the spirits be set free."
   6: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0962 [0x21] END_EVENT
@@ -1536,11 +1536,11 @@ SUBROUTINE_08F2:
   7: 0x097C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sm01" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
   8: 0x098D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x099E [0x1A] CALL_SUBROUTINE(address=0x18BD)
- 10: 0x09A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10693*)
+ 10: 0x09A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10694*)
     → "Welcome back, <Player>. The new form that blade has taken is the proof that you were successful in your mission. I applaud you on your bravery."
  11: 0x09A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x09A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x09B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10694*)
+ 13: 0x09B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10695*)
     → "Gilgamesh has asked me to present you with this as a token of our appreciation. Wear it with pride and let it guide you on your path in life."
  14: 0x09B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x09B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -1578,11 +1578,11 @@ SUBROUTINE_08F2:
 ```
   0: 0x0A00 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0A03 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  2: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10695*)
+  2: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
     → "Norg has many ties with the lost nation of Tavnazia, and many people here still think of it as their homeland. The battle fought twenty years ago took the lives of many of our brothers, but the sacrifices that they made have not been in vain."
   3: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0A16 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=10696*)
+  5: 0x0A25 [0x1D] PRINT_EVENT_MESSAGE(message_id=10697*)
     → "That day, something in Gilgamesh changed. He transformed from a simple soldier to a great leader who would bring us together and create the Norg of today."
   6: 0x0A28 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0A29 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
@@ -1653,20 +1653,20 @@ SUBROUTINE_08F2:
   3: 0x0A44 [0x03] Work_Zone[2] = 13868*
   4: 0x0A49 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
   5: 0x0A58 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0A67
-  6: 0x0A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
+  6: 0x0A60 [0x1D] PRINT_EVENT_MESSAGE(message_id=10740*)
     → "So, you've finally decided to help."
   7: 0x0A63 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A64 [0x01] GOTO 0x0A6B
-  9: 0x0A67 [0x1D] PRINT_EVENT_MESSAGE(message_id=10706*)
+  9: 0x0A67 [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
     → "<Player>! Once again, trouble is brewing in Norg, and we require your services."
  10: 0x0A6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0A6B:
- 11: 0x0A6B [0x24] CREATE_DIALOG(message_id=10194*, default_option=1*, option_flags=0*)
+ 11: 0x0A6B [0x24] CREATE_DIALOG(message_id=10195*, default_option=1*, option_flags=0*)
     → "Listen to Jaucribaix's request? [Yes./No.]"
  12: 0x0A72 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0A73 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0ABA
- 14: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
+ 14: 0x0A7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
     → "I see. So you are busy... However, there is still time. I pray that you will return to us quickly."
  15: 0x0A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0A7F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -1681,7 +1681,7 @@ SUBROUTINE_0ABA:
  23: 0x0AC0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  24: 0x0ACF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  25: 0x0ADC [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 26: 0x0ADF [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
+ 26: 0x0ADF [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
     → "Your gratitude is appreciated by all of us here in Norg. Now let us proceed to Gilgamesh's chambers."
  27: 0x0AE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0AE3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1692,47 +1692,47 @@ SUBROUTINE_0ABA:
  33: 0x0AF8 [0x5D] SET_MUSIC_VOLUME(volume=96*, fade_time=120*)
  34: 0x0AFD [0x1A] CALL_SUBROUTINE(address=0x140E)
  35: 0x0B00 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an03" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 36: 0x0B11 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10709*]:
+ 36: 0x0B11 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10710*]:
     → "Arrrg, welcome back, <Player>. Let me fill ya in on the predicament we've got ourselves into."
  37: 0x0B18 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0B19 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an09" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
  39: 0x0B2A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 40: 0x0B39 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10710*]:
+ 40: 0x0B39 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10711*]:
     → "A thief's robbed us of one of our treasures. Me thinks it be another band o'pirates. I've got me men out on the trail of 'em now."
  41: 0x0B40 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0B41 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10711*]:
+ 42: 0x0B41 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10712*]:
     → "Ya may think that problems between pirates should be solved by pirates--and yer right. But this time, the situation's a wee bit more complicated."
  43: 0x0B48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0B49 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  45: 0x0B58 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ftk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
- 46: 0x0B65 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10712*]:
+ 46: 0x0B65 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10713*]:
     → "The item the thief stole was an ancient helmet left by me ancestors called $0. But this ain't no ordinary helmet."
  47: 0x0B6C [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0B6D [0x52] END_LOAD_SCHEDULER: End scheduler "an09" with entities [LocalPlayer, LocalPlayer], work=216*
  49: 0x0B7C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  50: 0x0B8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an10" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 51: 0x0B9C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10713*]:
+ 51: 0x0B9C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10714*]:
     → "It's said that me father trapped the spirit of an evil demon in that helmet after a grueling battle in the Northlands. He put numerous magical seals on it t'keep the beast at bay."
  52: 0x0BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x0BA4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10714*]:
+ 53: 0x0BA4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10715*]:
     → "This probably be the reason that our rival pirates decided t'lay their grimy hands on it."
  54: 0x0BAB [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0BAC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  56: 0x0BBB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
  57: 0x0BC8 [0x52] END_LOAD_SCHEDULER: End scheduler "an10" with entities [LocalPlayer, LocalPlayer], work=216*
  58: 0x0BD7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an11" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 59: 0x0BE8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10715*]:
+ 59: 0x0BE8 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10716*]:
     → "T'make a long story short, I need ya t'find the man that had the nerve t'rob me, and get that helmet back. Not too difficult fer an adventurer like you, eh?"
  60: 0x0BEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0BF0 [0x52] END_LOAD_SCHEDULER: End scheduler "an11" with entities [LocalPlayer, LocalPlayer], work=216*
  62: 0x0BFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an12" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
  63: 0x0C10 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ybt0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 64: 0x0C1F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10716*]:
+ 64: 0x0C1F [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10717*]:
     → "And if fer some reason, the magic seal on the helmet were to be broken, we'll need ya t'...well, ya know what we'll need ya t'do then."
  65: 0x0C26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0C27 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ybt0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
  67: 0x0C34 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 68: 0x0C43 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10717*]:
+ 68: 0x0C43 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10718*]:
     → "Because of the sensitive nature of this problem, not many here in Norg have been informed of what has happened. However, the men I have sent to track down the thieves should have some good information fer ya, but first ya have t'search them out."
  69: 0x0C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0C4B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
@@ -1783,7 +1783,7 @@ SUBROUTINE_0C9E:
 ```
   0: 0x0CA0 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0CA3 [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  2: 0x0CA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10718*)
+  2: 0x0CA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
     → "Currently, Gilgamesh has men combing Vana'diel for clues on the whereabouts of the thieves. Search them out and learn what new information they have gathered."
   3: 0x0CA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0CAA [0x21] END_EVENT
@@ -1843,11 +1843,11 @@ SUBROUTINE_0C9E:
  14: 0x0CEB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x0CFC [0x1A] CALL_SUBROUTINE(address=0x18BD)
  16: 0x0CFF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 17: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=10719*)
+ 17: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
     → "The situation has grown graver than I had imagined. It is only a matter of time before the seal on the helmet breaks, if it has not already."
  18: 0x0D11 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0D12 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 20: 0x0D21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10720*)
+ 20: 0x0D21 [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
     → "Take this. It can be used to extinguish the evil spirit's power for a short period of time."
  21: 0x0D24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0D25 [0x52] END_LOAD_SCHEDULER: End scheduler "an13" with entities [LocalPlayer, LocalPlayer], work=216*
@@ -1896,7 +1896,7 @@ SUBROUTINE_0C9E:
   0: 0x0DB3 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0DB6 [0x03] Work_Zone[2] = 1166*
   2: 0x0DBB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  3: 0x0DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=10721*)
+  3: 0x0DCA [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
     → "Throw that $0 into the magic portal. After that, you should then be able to enter. But beware of what lurks on the other side!"
   4: 0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0DCE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
@@ -1930,7 +1930,7 @@ SUBROUTINE_0C9E:
   0: 0x0DEC [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0DED [0x1A] CALL_SUBROUTINE(address=0x18BD)
   2: 0x0DF0 [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  3: 0x0DF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10722*)
+  3: 0x0DF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
     → "You fool! How could you just dispose of such an important item? Without it, how are you supposed to break the cursed seal on the portal!?"
   4: 0x0DF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0DF7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -1997,7 +1997,7 @@ SUBROUTINE_0C9E:
  16: 0x0E5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0E6F [0x1A] CALL_SUBROUTINE(address=0x18BD)
  18: 0x0E72 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 19: 0x0E81 [0x1D] PRINT_EVENT_MESSAGE(message_id=10723*)
+ 19: 0x0E81 [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
     → "By the looks of this $3, I can guess that seal was already broken when you arrived at the shrine. It is amazing that the seal held for so many decades."
  20: 0x0E84 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0E85 [0x52] END_LOAD_SCHEDULER: End scheduler "an15" with entities [LocalPlayer, LocalPlayer], work=216*
@@ -2005,22 +2005,22 @@ SUBROUTINE_0C9E:
  23: 0x0EA5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  24: 0x0EB4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  25: 0x0EC1 [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 26: 0x0EC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10724*)
+ 26: 0x0EC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10725*)
     → "You have done well, <Player>. Without your strength and perseverance, we would not have been able to silence that evil spirit. We are all in your debt."
  27: 0x0EC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0EC8 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 29: 0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=10725*)
+ 29: 0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=10726*)
     → "However, before I give you your reward, there is one more small task that I wish of you. It would be an abomination to leave the helmet in this damaged state. We must do something to repair it."
  30: 0x0ED0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0ED1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
  32: 0x0EE0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
- 33: 0x0EED [0x1D] PRINT_EVENT_MESSAGE(message_id=10726*)
+ 33: 0x0EED [0x1D] PRINT_EVENT_MESSAGE(message_id=10727*)
     → "Hmmm... We have most of the material required to repair it here in Norg, but I fear we may not have enough $1."
  34: 0x0EF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0EF1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  36: 0x0F00 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  37: 0x0F0D [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 38: 0x0F10 [0x1D] PRINT_EVENT_MESSAGE(message_id=10727*)
+ 38: 0x0F10 [0x1D] PRINT_EVENT_MESSAGE(message_id=10728*)
     → "Bring me one $1. I am sure you know of a craftsman who can provide you with this material. I will proceed in repairing the helmet when you have brought it to me."
  39: 0x0F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0F14 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -2064,10 +2064,10 @@ SUBROUTINE_0C9E:
   0: 0x0F5E [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0F61 [0x1A] CALL_SUBROUTINE(address=0x18FB)
   2: 0x0F64 [0x03] Work_Zone[3] = 823*
-  3: 0x0F69 [0x1D] PRINT_EVENT_MESSAGE(message_id=10728*)
+  3: 0x0F69 [0x1D] PRINT_EVENT_MESSAGE(message_id=10729*)
     → "The helmet is in terrible condition. However, I think that with $1, I may be able to repair it."
   4: 0x0F6C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0F6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10727*)
+  5: 0x0F6D [0x1D] PRINT_EVENT_MESSAGE(message_id=10728*)
     → "Bring me one $1. I am sure you know of a craftsman who can provide you with this material. I will proceed in repairing the helmet when you have brought it to me."
   6: 0x0F70 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0F71 [0x21] END_EVENT
@@ -2098,7 +2098,7 @@ SUBROUTINE_0C9E:
   1: 0x0F74 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   2: 0x0F77 [0x1A] CALL_SUBROUTINE(address=0x18FB)
   3: 0x0F7A [0x03] Work_Zone[2] = 823*
-  4: 0x0F7F [0x1D] PRINT_EVENT_MESSAGE(message_id=10729*)
+  4: 0x0F7F [0x1D] PRINT_EVENT_MESSAGE(message_id=10730*)
     → "Yes, this is what I require to repair the damaged helmet. I will get to work immediately. However, this may take a great deal of time. Its condition is far worse than I had imagined."
   5: 0x0F82 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0F83 [0x21] END_EVENT
@@ -2127,7 +2127,7 @@ SUBROUTINE_0C9E:
 ```
   0: 0x0F85 [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x0F88 [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  2: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=10730*)
+  2: 0x0F8B [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
     → "Why must you rush me in my work!? As I told you, the helmet was in terrible condition when you brought it to me. My work must be precise if I am to return it to its former glory!"
   3: 0x0F8E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0F8F [0x21] END_EVENT
@@ -2181,28 +2181,28 @@ SUBROUTINE_0C9E:
   9: 0x0FBF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x0FD0 [0x1A] CALL_SUBROUTINE(address=0x18BD)
  11: 0x0FD3 [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 12: 0x0FD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10731*)
+ 12: 0x0FD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
     → "Ah, <Player>. I have just finished the repairs to the $0. I had to replace a large part of the helmet, but I feel I have helped it retain its former luster."
  13: 0x0FD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=10732*)
+ 14: 0x0FDA [0x1D] PRINT_EVENT_MESSAGE(message_id=10733*)
     → "Yes, your reward. I have not forgotten. Let us discuss these matters in Gilgamesh's quarters."
  15: 0x0FDD [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0FDE [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  17: 0x0FE3 [0x1A] CALL_SUBROUTINE(address=0x14D0)
  18: 0x0FE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an03" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 19: 0x0FF7 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10733*]:
+ 19: 0x0FF7 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10734*]:
     → "Arrrg, I'm sorry fer gettin' ya caught up in our pirate affairs, but I be mighty glad t'see ya back here safe in Norrrg."
  20: 0x0FFE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0FFF [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10734*]:
+ 21: 0x0FFF [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10735*]:
     → "You have me thanks fer all ya done for us."
  22: 0x1006 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x1007 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "stk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 24: 0x1016 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10735*]:
+ 24: 0x1016 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10736*]:
     → "If it weren't fer ya, we'd still be fearin' the day that demon would rear its ugly head 'n eat us all. But now that the demon's gone, that just leaves a pretty helmet t'sit on me wall."
  25: 0x101D [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x101E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "stk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)]
  27: 0x102B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "an17" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
- 28: 0x103C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10736*]:
+ 28: 0x103C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10737*]:
     → "But what good is a helmet without a head t'wear it!? This $0 would do you more good than it would collectin' dust in me chambers. Take it! You've earned it!"
  29: 0x1043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1044 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=567*
@@ -2240,7 +2240,7 @@ SUBROUTINE_0C9E:
   0: 0x109B [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x109E [0x1A] CALL_SUBROUTINE(address=0x18FB)
   2: 0x10A1 [0x03] Work_Zone[2] = 17809*
-  3: 0x10A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
+  3: 0x10A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
     → "I am still taken back by how much you've matured much since I forged your $0 many moons ago. I can only imagine what great things lie before such a skilled warrior."
   4: 0x10A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x10AA [0x21] END_EVENT
@@ -2282,15 +2282,15 @@ SUBROUTINE_0C9E:
   0: 0x10AC [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x10B5
   1: 0x10B4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x10B5 [0x1A] CALL_SUBROUTINE(address=0x18BD)
-  3: 0x10B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10808*)
+  3: 0x10B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
     → "<Player>, I can sense your skills have improved much since you first wielded the mumeito I forged for you many moons ago. However, you still have many malms to travel on the road to mastery of the great katana. Do you feel you have what it takes to complete your journey?"
   4: 0x10BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x10BC [0x24] CREATE_DIALOG(message_id=10854*, default_option=1*, option_flags=0*)
+  5: 0x10BC [0x24] CREATE_DIALOG(message_id=10855*, default_option=1*, option_flags=0*)
     → "Accept the challenge? [Of course!/Not just yet.]"
   6: 0x10C3 [0x25] WAIT_DIALOG_SELECT()
   7: 0x10C4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1101
   8: 0x10CC [0x1A] CALL_SUBROUTINE(address=0x18FB)
-  9: 0x10CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10809*)
+  9: 0x10CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
     → "I understand your reluctance. One need not be hasty in such important decisions. I know that you will return here when you sense that you are ready."
  10: 0x10D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x10D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2302,7 +2302,7 @@ SUBROUTINE_1101:
  15: 0x1101 [0x1A] CALL_SUBROUTINE(address=0x159F)
  16: 0x1104 [0x03] Work_Zone[1] = 1*
  17: 0x1109 [0x03] Work_Zone[2] = 17815*
- 18: 0x110E [0x1D] PRINT_EVENT_MESSAGE(message_id=10810*)
+ 18: 0x110E [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
     → "I detect no hesitation in your mind and spirit. That is good."
  19: 0x1111 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1112 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -2310,14 +2310,14 @@ SUBROUTINE_1101:
  22: 0x112E [0x52] END_LOAD_SCHEDULER: End scheduler "ws01" with entities [LocalPlayer, LocalPlayer], work=215*
  23: 0x113D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ws02" with entities [LocalPlayer, LocalPlayer], work=[215*, 0*]
  24: 0x114E [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 25: 0x1151 [0x1D] PRINT_EVENT_MESSAGE(message_id=10811*)
+ 25: 0x1151 [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
     → "Here, take this $0 and wield it as if it were part of your own body. When you have proven your strength and ability, the blade will lose its power. Then you will know that it has accepted you."
  26: 0x1154 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x1155 [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
+ 27: 0x1155 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
     → "When you feel that this time has come, return here with the katana."
  28: 0x1158 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x1159 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 30: 0x1168 [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
+ 30: 0x1168 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
     → "This test will try you in many ways, physically and mentally. However, I am certain that you will be able to clear the mountain that looms before you."
  31: 0x116B [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x116C [0x1A] CALL_SUBROUTINE(address=0x15DD)
@@ -2391,29 +2391,29 @@ SUBROUTINE_117E:
   5: 0x119B [0x1A] CALL_SUBROUTINE(address=0x18FB)
   6: 0x119E [0x03] Work_Zone[2] = 17815*
   7: 0x11A3 [0x03] Work_Zone[3] = 343*
-  8: 0x11A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
+  8: 0x11A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
     → "When you have proven your strength and ability, the $0 will lose its power. Then you will know that it has accepted you."
   9: 0x11AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x11AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10812*)
+ 10: 0x11AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
     → "When you feel that this time has come, return here with the katana."
  11: 0x11AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x11B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 13: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10813*)
+ 13: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10814*)
     → "This test will try you in many ways, physically and mentally. However, I am certain that you will be able to clear the mountain that looms before you."
  14: 0x11C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x11C3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  16: 0x11D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 17: 0x11DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10815*)
+ 17: 0x11DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
     → "What brings you here today?"
  18: 0x11E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x11E3 [0x24] CREATE_DIALOG(message_id=10855*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 19: 0x11E3 [0x24] CREATE_DIALOG(message_id=10856*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Why are you here? [No particular reason./I've lost the $0./I want to quit this quest.]"
  20: 0x11EA [0x25] WAIT_DIALOG_SELECT()
  21: 0x11EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1241
  22: 0x11F3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  23: 0x1202 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  24: 0x120F [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 25: 0x1212 [0x1D] PRINT_EVENT_MESSAGE(message_id=10816*)
+ 25: 0x1212 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
     → "I still sense much potential inside you. This trial is designed to bring forth that potential so you may further refine it and utilize it to its fullest."
  26: 0x1215 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1216 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2424,10 +2424,10 @@ SUBROUTINE_117E:
  32: 0x1249 [0x1A] CALL_SUBROUTINE(address=0x159F)
  33: 0x124C [0x03] Work_Zone[1] = 1*
  34: 0x1251 [0x1A] CALL_SUBROUTINE(address=0x18FB)
- 35: 0x1254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10817*)
+ 35: 0x1254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
     → "Wait. You need say no more. I realize that I failed to emphasize the rarity of that blade, but I did not imagine that you would lose such an important item."
  36: 0x1257 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x1258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10818*)
+ 37: 0x1258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
     → "However, there is no need to fear. I have another $0 that I can lend you, though you must start the trial once again from the beginning. And this time, be more careful. I will not tolerate any more mistakes."
  38: 0x125B [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x125C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -2438,15 +2438,15 @@ SUBROUTINE_117E:
  44: 0x128D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x135A
  45: 0x1295 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  46: 0x12A4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 47: 0x12B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10819*)
+ 47: 0x12B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
     → "What is this I hear? You are not truly thinking of abandoning your journey, are you?"
  48: 0x12B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x12B5 [0x24] CREATE_DIALOG(message_id=10856*, default_option=1*, option_flags=0*)
+ 49: 0x12B5 [0x24] CREATE_DIALOG(message_id=10857*, default_option=1*, option_flags=0*)
     → "Do you really want to quit? [Yes./No.]"
  50: 0x12BC [0x25] WAIT_DIALOG_SELECT()
  51: 0x12BD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1306
  52: 0x12C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
- 53: 0x12D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
+ 53: 0x12D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
     → "You accepted this quest with the intention of completing it, did you not? If you have the time to be playing tricks on a feeble, old man, you should be out on the battlefield improving your techniques!"
  54: 0x12D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x12D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi2" with entities [EventEntity, EventEntity], work=20*
@@ -2458,15 +2458,15 @@ SUBROUTINE_1306:
  59: 0x1306 [0x1A] CALL_SUBROUTINE(address=0x159F)
  60: 0x1309 [0x03] Work_Zone[1] = 2*
  61: 0x130E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 62: 0x131D [0x1D] PRINT_EVENT_MESSAGE(message_id=10820*)
+ 62: 0x131D [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
     → "I see that you have made up your mind... I was certain that you had the potential to face the hardships I presented you, but I guess even an experienced eye such as my own can sometimes be clouded."
  63: 0x1320 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=10821*)
+ 64: 0x1321 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
     → "I am sure that you have your reasons for this decision and I will not stop you from what you have decided in your heart. You may now return the $3 that I entrusted to you."
  65: 0x1324 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x1325 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  67: 0x1334 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
- 68: 0x1341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10822*)
+ 68: 0x1341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10823*)
     → "I will leave you with the disposal of the $0. It has already lost its power and is no longer of any use to me."
  69: 0x1344 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x1345 [0x1A] CALL_SUBROUTINE(address=0x15DD)
@@ -2508,7 +2508,7 @@ SUBROUTINE_135A:
 
 ```
   0: 0x135C [0x1A] CALL_SUBROUTINE(address=0x18BD)
-  1: 0x135F [0x1D] PRINT_EVENT_MESSAGE(message_id=10824*)
+  1: 0x135F [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
     → "I can still feel energy running through this blade. This can only mean one thing--it still has not accepted your ability. The road to mastery is long. One cannot expect to reach one's goal in such a short period of time."
   2: 0x1362 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1363 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -2541,7 +2541,7 @@ SUBROUTINE_135A:
 ```
   0: 0x1381 [0x1A] CALL_SUBROUTINE(address=0x159F)
   1: 0x1384 [0x03] Work_Zone[2] = 344*
-  2: 0x1389 [0x1D] PRINT_EVENT_MESSAGE(message_id=10825*)
+  2: 0x1389 [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
     → "Wonderful! You are now ready for the final portion of your journey. Travel to the place inscribed upon this $3--the Kuftal Tunnel. There you will meet your final test."
   3: 0x138C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x138D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
@@ -2574,7 +2574,7 @@ SUBROUTINE_135A:
 ```
   0: 0x13BD [0x1A] CALL_SUBROUTINE(address=0x18BD)
   1: 0x13C0 [0x03] Work_Zone[2] = 344*
-  2: 0x13C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10826*)
+  2: 0x13C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
     → "Travel to the Kuftal Tunnel, as is instructed upon the $3 I gave you. There you will realize what you are to do."
   3: 0x13C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x13C9 [0x21] END_EVENT
@@ -2696,7 +2696,7 @@ SUBROUTINE_135A:
   0: 0x13CB [0x1A] CALL_SUBROUTINE(address=0x159F)
   1: 0x13CE [0x1A] CALL_SUBROUTINE(address=0x18FB)
   2: 0x13D1 [0x03] Work_Zone[2] = 345*
-  3: 0x13D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10827*)
+  3: 0x13D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10828*)
     → "The $3! So, you have finally completed this leg of your journey... You are now ready to begin anew with your new techniques."
   4: 0x13D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x13DA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -2808,20 +2808,20 @@ SUBROUTINE_18FB:
      0x15FC [0x03] Work_Zone[3] = 462*
      0x1601 [0x03] Work_Zone[4] = 463*
      0x1606 [0x03] Work_Zone[5] = 464*
-     0x160B [0x48] [System] [10741*]:
+     0x160B [0x48] [System] [10742*]:
     → "Samurai Artifact 1 flowchart 1: Get $6 from Washu.": Get $6 from Onzozo."
      0x160E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x160F [0x48] [System] [10742*]:
+     0x160F [0x48] [System] [10743*]:
     → "3: Give those two things to Jaucribaix. 4: Do some "Sending" in the dunes (z103). 5: Bring back $6 and you're done!"
      0x1612 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1613 [0x1B] RETURN
      0x1614 [0x03] Work_Zone[2] = 1166*
      0x1619 [0x03] Work_Zone[3] = 454*
      0x161E [0x03] Work_Zone[4] = 823*
-     0x1623 [0x48] [System] [10743*]:
+     0x1623 [0x48] [System] [10744*]:
     → "Samurai Artifact 2 flowchart 1: Get $0.": Fight the boss in zone 144 and get $6."
      0x1626 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1627 [0x48] [System] [10744*]:
+     0x1627 [0x48] [System] [10745*]:
     → "3: Get $2 to repair the $3. 4: Hand over $2, wait one day (Earth time) and you're done!"
      0x162A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x162B [0x1B] RETURN

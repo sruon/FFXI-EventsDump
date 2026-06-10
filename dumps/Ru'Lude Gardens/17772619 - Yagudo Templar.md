@@ -24,7 +24,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B06      |       11014 |
+|       0 | 0x2B07      |       11015 |
 |       1 | 0x000D      |          13 |
 |       2 | 0xFFFE7500  |  4294866176 |
 |       3 | 0x17CDE     |       97502 |
@@ -32,7 +32,7 @@
 
 ## String References
 
-- **11014**: Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
+- **11015**: Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!
 
 ## Events
 
@@ -143,7 +143,7 @@
 #### Opcodes
 
 ```
-  0: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=11014*)
+  0: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=11015*)
     → "Gawk! Orastery minister? And I am Aviatory minister! How do we know what you speak is not lies? Gawk!"
   1: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0008 [0x00] END_REQSTACK()

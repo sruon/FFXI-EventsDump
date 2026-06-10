@@ -73,68 +73,68 @@
 |      25 | 0x0028      |          40 |
 |      26 | 0x38F5      |       14581 |
 |      27 | 0x283D      |       10301 |
-|      28 | 0x2DDA      |       11738 |
+|      28 | 0x2DDB      |       11739 |
 |      29 | 0x001D      |          29 |
 |      30 | 0x001E      |          30 |
-|      31 | 0x2DDB      |       11739 |
+|      31 | 0x2DDC      |       11740 |
 |      32 | 0x005A      |          90 |
-|      33 | 0x2DDC      |       11740 |
+|      33 | 0x2DDD      |       11741 |
 |      34 | 0x0020      |          32 |
-|      35 | 0x2DDD      |       11741 |
-|      36 | 0x2DDE      |       11742 |
+|      35 | 0x2DDE      |       11742 |
+|      36 | 0x2DDF      |       11743 |
 |      37 | 0x0A36      |        2614 |
-|      38 | 0x2DD8      |       11736 |
-|      39 | 0x2DD9      |       11737 |
-|      40 | 0x2D78      |       11640 |
-|      41 | 0x2D79      |       11641 |
-|      42 | 0x2D7A      |       11642 |
-|      43 | 0x2D7B      |       11643 |
+|      38 | 0x2DD9      |       11737 |
+|      39 | 0x2DDA      |       11738 |
+|      40 | 0x2D79      |       11641 |
+|      41 | 0x2D7A      |       11642 |
+|      42 | 0x2D7B      |       11643 |
+|      43 | 0x2D7C      |       11644 |
 |      44 | 0x003B      |          59 |
 |      45 | 0x0876      |        2166 |
-|      46 | 0x2D7C      |       11644 |
-|      47 | 0x2D7D      |       11645 |
-|      48 | 0x2D7E      |       11646 |
-|      49 | 0x2DB7      |       11703 |
-|      50 | 0x2D80      |       11648 |
+|      46 | 0x2D7D      |       11645 |
+|      47 | 0x2D7E      |       11646 |
+|      48 | 0x2D7F      |       11647 |
+|      49 | 0x2DB8      |       11704 |
+|      50 | 0x2D81      |       11649 |
 |      51 | 0x0003      |           3 |
 |      52 | 0x0078      |         120 |
-|      53 | 0x2DBC      |       11708 |
-|      54 | 0x2D81      |       11649 |
-|      55 | 0x2D82      |       11650 |
-|      56 | 0x2D83      |       11651 |
-|      57 | 0x2D84      |       11652 |
-|      58 | 0x2D85      |       11653 |
+|      53 | 0x2DBD      |       11709 |
+|      54 | 0x2D82      |       11650 |
+|      55 | 0x2D83      |       11651 |
+|      56 | 0x2D84      |       11652 |
+|      57 | 0x2D85      |       11653 |
+|      58 | 0x2D86      |       11654 |
 |      59 | 0x0022      |          34 |
-|      60 | 0x2D86      |       11654 |
-|      61 | 0x2D87      |       11655 |
-|      62 | 0x2D88      |       11656 |
-|      63 | 0x2D89      |       11657 |
-|      64 | 0x2D7F      |       11647 |
-|      65 | 0x2D8A      |       11658 |
-|      66 | 0x2D8B      |       11659 |
+|      60 | 0x2D87      |       11655 |
+|      61 | 0x2D88      |       11656 |
+|      62 | 0x2D89      |       11657 |
+|      63 | 0x2D8A      |       11658 |
+|      64 | 0x2D80      |       11648 |
+|      65 | 0x2D8B      |       11659 |
+|      66 | 0x2D8C      |       11660 |
 |      67 | 0x1734      |        5940 |
-|      68 | 0x2D8C      |       11660 |
-|      69 | 0x2D8D      |       11661 |
-|      70 | 0x2D8E      |       11662 |
-|      71 | 0x2D8F      |       11663 |
-|      72 | 0x2D90      |       11664 |
-|      73 | 0x2D91      |       11665 |
+|      68 | 0x2D8D      |       11661 |
+|      69 | 0x2D8E      |       11662 |
+|      70 | 0x2D8F      |       11663 |
+|      71 | 0x2D90      |       11664 |
+|      72 | 0x2D91      |       11665 |
+|      73 | 0x2D92      |       11666 |
 
 ## String References
 
-- **11662**: Yes...everything is as forrreseen. Your arrival here was no accident.
-- **11663**: And I know what you are going to tell me--Anastase wants a rrreport. Tell him that I will contact him once I have better results.
-- **11664**: You brought some Adoulin cuisine for me? This was certainly unexpec--I mean, well within the rrrealm of the predictable.
-- **11665**: My whiskerrrs are just quivering with anticipation! Thank you very much!
-- **11703**: Record this fount? [Yes./No.]
-- **11708**: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
-- **11736**: Should you stumble across a location pertinent to your search, gently press the box against your forehead.
-- **11737**: With luck, you should find what you're looking for.
-- **11738**: Aha! You have come back to me...as expected, of courrrse! Please, share what you have learned.
-- **11739**: Wh-what? You saw something that took place centurrries ago?
-- **11740**: Such a feat is geomantically impossible!
-- **11741**: The farrrthest back I got was fifteen years ago...a vision of my mother relaxing on one of the archipelago's outlying islands.
-- **11742**: That alone knocked my socks off, but what you describe is a legendary experience beyond comparrre! Are you just pulling my tail?
+- **11663**: Yes...everything is as forrreseen. Your arrival here was no accident.
+- **11664**: And I know what you are going to tell me--Anastase wants a rrreport. Tell him that I will contact him once I have better results.
+- **11665**: You brought some Adoulin cuisine for me? This was certainly unexpec--I mean, well within the rrrealm of the predictable.
+- **11666**: My whiskerrrs are just quivering with anticipation! Thank you very much!
+- **11704**: Record this fount? [Yes./No.]
+- **11709**: Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!
+- **11737**: Should you stumble across a location pertinent to your search, gently press the box against your forehead.
+- **11738**: With luck, you should find what you're looking for.
+- **11739**: Aha! You have come back to me...as expected, of courrrse! Please, share what you have learned.
+- **11740**: Wh-what? You saw something that took place centurrries ago?
+- **11741**: Such a feat is geomantically impossible!
+- **11742**: The farrrthest back I got was fifteen years ago...a vision of my mother relaxing on one of the archipelago's outlying islands.
+- **11743**: That alone knocked my socks off, but what you describe is a legendary experience beyond comparrre! Are you just pulling my tail?
 
 ## Events
 
@@ -427,7 +427,7 @@
   0: 0x015F [0x4A] LocalPlayer looks at Quwi Orihbhe (ID: 17789017/0x010F7059)
   1: 0x0168 [0x1C] WAIT(20* ticks)
   2: 0x016B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11738*)
+  3: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11739*)
     → "Aha! You have come back to me...as expected, of courrrse! Please, share what you have learned."
   4: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0174 [0x1C] WAIT(20* ticks)
@@ -437,20 +437,20 @@
   9: 0x0188 [0x99] Wait for EventEntity animation to complete
  10: 0x018D [0x1C] WAIT(30* ticks)
  11: 0x0190 [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x21)
- 12: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11739*)
+ 12: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=11740*)
     → "Wh-what? You saw something that took place centurrries ago?"
  13: 0x019A [0x1C] WAIT(90* ticks)
  14: 0x019D [0x2A] GET_REQ_LEVEL(level=8, entity_id=LocalPlayer)
  15: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11740*)
+ 16: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11741*)
     → "Such a feat is geomantically impossible!"
  17: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01A8 [0x6E] EventEntity uses emote 32*
  19: 0x01AF [0x99] Wait for EventEntity animation to complete
- 20: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11741*)
+ 20: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11742*)
     → "The farrrthest back I got was fifteen years ago...a vision of my mother relaxing on one of the archipelago's outlying islands."
  21: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11742*)
+ 22: 0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11743*)
     → "That alone knocked my socks off, but what you describe is a legendary experience beyond comparrre! Are you just pulling my tail?"
  23: 0x01BB [0x1C] WAIT(80* ticks)
  24: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -483,10 +483,10 @@
   1: 0x01CA [0x1C] WAIT(20* ticks)
   2: 0x01CD [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x01D2 [0x03] Work_Zone[2] = 2614*
-  4: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11736*)
+  4: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11737*)
     → "Should you stumble across a location pertinent to your search, gently press the box against your forehead."
   5: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11737*)
+  6: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11738*)
     → "With luck, you should find what you're looking for."
   7: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01DF [0x21] END_EVENT
@@ -518,16 +518,16 @@
   0: 0x01E1 [0x4A] LocalPlayer looks at Quwi Orihbhe (ID: 17789017/0x010F7059)
   1: 0x01EA [0x1C] WAIT(20* ticks)
   2: 0x01ED [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x01F2 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11640*]:
+  3: 0x01F2 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11641*]:
     → "We've just met, and parrrdon my audacity, but can I maybe call you <Player>?"
   4: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01FA [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11641*]:
+  5: 0x01FA [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11642*]:
     → "I don't know how I know, either! I'm burrrdened with this uncanny ability to sense everything about a person!"
   6: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0202 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11642*]:
+  7: 0x0202 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11643*]:
     → "How rrrude of me! I haven't even told you my name yet and I'm acting like I already know you! I'm Quwi Orihbhe, and I have trrraveled here from Adoulin."
   8: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x020A [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11643*]:
+  9: 0x020A [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11644*]:
     → "Don't look at me like that! I'm not a suspicious person! Well, I may seem suspicious, but I'm a rrregular Mithra! I'm so sorry! Ugh, why must I be cursed with prrrecognition!?"
  10: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0212 [0x21] END_EVENT
@@ -575,29 +575,29 @@
   0: 0x0214 [0x4A] LocalPlayer looks at Quwi Orihbhe (ID: 17789017/0x010F7059)
   1: 0x021D [0x1C] WAIT(20* ticks)
   2: 0x0220 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0225 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11642*]:
+  3: 0x0225 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11643*]:
     → "How rrrude of me! I haven't even told you my name yet and I'm acting like I already know you! I'm Quwi Orihbhe, and I have trrraveled here from Adoulin."
   4: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x022D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Quwi Orihbhe (ID: 17789017/0x010F7059), Quwi Orihbhe (ID: 17789017/0x010F7059)], work=59*
   6: 0x023C [0x03] Work_Zone[2] = 2166*
-  7: 0x0241 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11644*]:
+  7: 0x0241 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11645*]:
     → "I don't mean to be brrrash, but is that $6 you're carrying?"
   8: 0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0249 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11645*]:
+  9: 0x0249 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11646*]:
     → "Please don't think I'm trying to steal your thunder, but I've already sealed the geomagnetic forces of this rrregion into a single location! I'm so sorry!"
  10: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0251 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Quwi Orihbhe (ID: 17789017/0x010F7059), Quwi Orihbhe (ID: 17789017/0x010F7059)], work=59*
- 12: 0x0260 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11646*]:
+ 12: 0x0260 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11647*]:
     → "Do you want to...rrrecord this place for future use?"
  13: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0268 [0x03] Work_Zone[1] = 0*
- 15: 0x026D [0x24] CREATE_DIALOG(message_id=11703*, default_option=0*, option_flags=0*)
+ 15: 0x026D [0x24] CREATE_DIALOG(message_id=11704*, default_option=0*, option_flags=0*)
     → "Record this fount? [Yes./No.]"
  16: 0x0274 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0275 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x032B
  18: 0x027D [0x42] SET_CLI_EVENT_CANCEL_DATA()
  19: 0x027E [0x03] Work_Zone[2] = 2166*
- 20: 0x0283 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11648*]:
+ 20: 0x0283 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11649*]:
     → "I knew you'd say yes! I just knew it! Wait...I remember this part! Next you're going to position your $3 over the grrround here."
  21: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x028B [0x6E] LocalPlayer uses emote 3*
@@ -606,46 +606,46 @@
  25: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x029B [0x03] Work_Zone[3] = 2166*
  27: 0x02A0 [0x03] Work_Zone[2] = 2*
- 28: 0x02A5 [0x48] [System] [11708*]:
+ 28: 0x02A5 [0x48] [System] [11709*]:
     → "Your $3 has been attuned to a geomagnetic fount[ in Selbina/ in Mhaura/ in Rabao/ in Norg]!"
  29: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x02A9 [0x03] Work_Zone[1] = 1*
  31: 0x02AE [0x03] Work_Zone[2] = 2166*
- 32: 0x02B3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11649*]:
+ 32: 0x02B3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11650*]:
     → "The prrrophecy has been fulfilled! I saw <Player> complete this procedure with my mind's eye not moments ago, and now it comes true before my verrry eyes!"
  33: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x02BB [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11650*]:
+ 34: 0x02BB [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11651*]:
     → "I oversee this waypoint, so come by any time! If only it didn't have to be me! You deserrrve better, <Player>!"
  35: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x02C3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11651*]:
+ 36: 0x02C3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11652*]:
     → "To tell the truth...I've been dispatched to this continent to investigate these concentrrrations of geomagnetic force."
  37: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x02CB [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11652*]:
+ 38: 0x02CB [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11653*]:
     → "It's all just too much for a poor tyrrro like me! I can't take it anymore! I'm sorry!"
  39: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x02D3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11653*]:
+ 40: 0x02D3 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11654*]:
     → "I was told to report to Master Anastase when I forrresee one of those points, but I forget the prrrotocol! I wasn't paying attention during our brrriefing!"
  41: 0x02DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x02DB [0x6E] LocalPlayer uses emote 34*
  43: 0x02E2 [0x99] Wait for LocalPlayer animation to complete
  44: 0x02E7 [0x1C] WAIT(120* ticks)
- 45: 0x02EA [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11654*]:
+ 45: 0x02EA [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11655*]:
     → "...No! You can't be serious! Anastase wants me to rrreport in rrright away!?"
  46: 0x02F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x02F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Quwi Orihbhe (ID: 17789017/0x010F7059), Quwi Orihbhe (ID: 17789017/0x010F7059)], work=59*
- 48: 0x0301 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11655*]:
+ 48: 0x0301 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11656*]:
     → "Woe is me..."
  49: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x0309 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11656*]:
+ 50: 0x0309 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11657*]:
     → "Aha, I can see it! A vision is coming to me! My stomach shall begin to rrrumble in mere moments."
  51: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0311 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Quwi Orihbhe (ID: 17789017/0x010F7059), Quwi Orihbhe (ID: 17789017/0x010F7059)], work=59*
- 53: 0x0320 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11657*]:
+ 53: 0x0320 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11658*]:
     → "Therefore, how about you rrreport to Anastase in my stead? I have seen with my mind's eye that you're the rrreliable type."
  54: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0328 [0x01] GOTO 0x0340
  56: 0x032B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0340
- 57: 0x0333 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11647*]:
+ 57: 0x0333 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11648*]:
     → "Whaaat!? "No"!? But you will eventually! I've seen it in my drrreams!"
  58: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x033B [0x21] END_EVENT
@@ -686,7 +686,7 @@ SUBROUTINE_0340:
   0: 0x0342 [0x4A] LocalPlayer looks at Quwi Orihbhe (ID: 17789017/0x010F7059)
   1: 0x034B [0x1C] WAIT(20* ticks)
   2: 0x034E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0353 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11658*]:
+  3: 0x0353 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11659*]:
     → "You have my eterrrnal gratitude. I will say with ninety perrrcent certainty that you'll embark upon a long and arrrduous journey. Just remember that sometimes it's nice to stop and smell the oasis."
   4: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x035B [0x21] END_EVENT
@@ -717,7 +717,7 @@ SUBROUTINE_0340:
   0: 0x035D [0x4A] LocalPlayer looks at Quwi Orihbhe (ID: 17789017/0x010F7059)
   1: 0x0366 [0x1C] WAIT(20* ticks)
   2: 0x0369 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x036E [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11659*]:
+  3: 0x036E [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11660*]:
     → "My mind's eye had shown me thirty seconds prrrior to your arrival that you would appear."
   4: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0376 [0x21] END_EVENT
@@ -750,7 +750,7 @@ SUBROUTINE_0340:
   2: 0x0382 [0x1C] WAIT(20* ticks)
   3: 0x0385 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x038A [0x03] Work_Zone[2] = 5940*
-  5: 0x038F [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11660*]:
+  5: 0x038F [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11661*]:
     → "Yay! How did you know I love $0? Can you rrread minds, too?"
   6: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0397 [0x21] END_EVENT
@@ -784,10 +784,10 @@ SUBROUTINE_0340:
   2: 0x03A3 [0x1C] WAIT(20* ticks)
   3: 0x03A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x03AB [0x03] Work_Zone[2] = 5940*
-  5: 0x03B0 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11660*]:
+  5: 0x03B0 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11661*]:
     → "Yay! How did you know I love $0? Can you rrread minds, too?"
   6: 0x03B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x03B8 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11661*]:
+  7: 0x03B8 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11662*]:
     → "My sincerrrest apologies, <Player>! I prrredict you're getting hungry watching me eat. Here, have this."
   8: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03C0 [0x21] END_EVENT
@@ -820,7 +820,7 @@ SUBROUTINE_0340:
   2: 0x03CC [0x1C] WAIT(20* ticks)
   3: 0x03CF [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x03D4 [0x03] Work_Zone[2] = 5940*
-  5: 0x03D9 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11661*]:
+  5: 0x03D9 [0x2B] Quwi Orihbhe (ID: 17789017/0x010F7059) [11662*]:
     → "My sincerrrest apologies, <Player>! I prrredict you're getting hungry watching me eat. Here, have this."
   6: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03E1 [0x21] END_EVENT
@@ -849,16 +849,16 @@ SUBROUTINE_0340:
 ```
   0: 0x03E3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x03E4 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11662*)
+  2: 0x03E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11663*)
     → "Yes...everything is as forrreseen. Your arrival here was no accident."
   3: 0x03EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11663*)
+  4: 0x03ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11664*)
     → "And I know what you are going to tell me--Anastase wants a rrreport. Tell him that I will contact him once I have better results."
   5: 0x03F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11664*)
+  6: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11665*)
     → "You brought some Adoulin cuisine for me? This was certainly unexpec--I mean, well within the rrrealm of the predictable."
   7: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11665*)
+  8: 0x03F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11666*)
     → "My whiskerrrs are just quivering with anticipation! Thank you very much!"
   9: 0x03F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x03F9 [0x03] Work_Zone[1] = 1*

@@ -46,20 +46,20 @@
 |      22 | 0x000E      |          14 |
 |      23 | 0x0027      |          39 |
 |      24 | 0x000F      |          15 |
-|      25 | 0x1E30      |        7728 |
+|      25 | 0x1E31      |        7729 |
 |      26 | 0x00C9      |         201 |
 |      27 | 0x002A      |          42 |
 |      28 | 0x003C      |          60 |
 |      29 | 0x0048      |          72 |
 |      30 | 0x0032      |          50 |
-|      31 | 0x1E31      |        7729 |
-|      32 | 0x1E32      |        7730 |
+|      31 | 0x1E32      |        7730 |
+|      32 | 0x1E33      |        7731 |
 
 ## String References
 
-- **7728**: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
-- **7729**: Come, <Player>. Follow me...
-- **7730**: Carbuncle vanished off in the direction of the La Theine Plateau.
+- **7729**: The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me.
+- **7730**: Come, <Player>. Follow me...
+- **7731**: Carbuncle vanished off in the direction of the La Theine Plateau.
 
 ## Events
 
@@ -161,7 +161,7 @@
  10: 0x002C [0x00] END_REQSTACK()
 
 SUBROUTINE_01F5:
- 11: 0x01F5 [0x48] [System] [7728*]:
+ 11: 0x01F5 [0x48] [System] [7729*]:
     → "The [orange/1/2/3/red/red/blue/blue/yellow/yellow/green/green/indigo/indigo/violet/violet] light... I can feel its power run through me."
  12: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]
@@ -176,13 +176,13 @@ SUBROUTINE_01F5:
  22: 0x025A [0x1C] WAIT(60* ticks)
  23: 0x025D [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17199729/0x01067271), end_alpha=100*, fade_time=72*)
  24: 0x0266 [0x1C] WAIT(50* ticks)
- 25: 0x0269 [0x48] [System] [7729*]:
+ 25: 0x0269 [0x48] [System] [7730*]:
     → "Come, <Player>. Follow me..."
  26: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x026D [0x1C] WAIT(50* ticks)
  28: 0x0270 [0x6C] FADE_ENTITY_COLOR(entity_id=Carbuncle (ID: 17199729/0x01067271), end_alpha=0*, fade_time=100*)
  29: 0x0279 [0x1C] WAIT(100* ticks)
- 30: 0x027C [0x48] [System] [7730*]:
+ 30: 0x027C [0x48] [System] [7731*]:
     → "Carbuncle vanished off in the direction of the La Theine Plateau."
  31: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0280 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [EventEntity, EventEntity], work=[201*, 0*]

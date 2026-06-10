@@ -21,13 +21,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C6A      |        7274 |
-|       1 | 0x1C6C      |        7276 |
+|       0 | 0x1C6B      |        7275 |
+|       1 | 0x1C6D      |        7277 |
 
 ## String References
 
-- **7274**: A waterskin is lying here.
-- **7276**: The lost waterskin is back where you first found it...
+- **7275**: A waterskin is lying here.
+- **7277**: The lost waterskin is back where you first found it...
 
 ## Events
 
@@ -72,7 +72,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7274*]:
+  0: 0x0001 [0x48] [System] [7275*]:
     → "A waterskin is lying here."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -98,7 +98,7 @@
 #### Opcodes
 
 ```
-  0: 0x0007 [0x48] [System] [7276*]:
+  0: 0x0007 [0x48] [System] [7277*]:
     → "The lost waterskin is back where you first found it..."
   1: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000B [0x21] END_EVENT

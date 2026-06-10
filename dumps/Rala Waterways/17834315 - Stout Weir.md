@@ -22,17 +22,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x220B      |        8715 |
-|       2 | 0x2208      |        8712 |
-|       3 | 0x2209      |        8713 |
-|       4 | 0x220A      |        8714 |
+|       1 | 0x220C      |        8716 |
+|       2 | 0x2209      |        8713 |
+|       3 | 0x220A      |        8714 |
+|       4 | 0x220B      |        8715 |
 
 ## String References
 
-- **8712**: So I was just here, mindin' my own business, see? Then all of a sudden, a huge flash of light, and boom! I darn near soiled m'self!
-- **8713**: Th' area's gone a bit foul, and I'm 'fraid it'll take a while 'fore things're back to normal.
-- **8714**: But boy, take a gander at this! It's part of a wooden fuse, wouldn't ya say? How crazy would ya hafta be to try to blow up the waterways!?
-- **8715**: The waterways're vital to all who live in Adoulin, so don't be thinkin' 'bout causin' no trouble!
+- **8713**: So I was just here, mindin' my own business, see? Then all of a sudden, a huge flash of light, and boom! I darn near soiled m'self!
+- **8714**: Th' area's gone a bit foul, and I'm 'fraid it'll take a while 'fore things're back to normal.
+- **8715**: But boy, take a gander at this! It's part of a wooden fuse, wouldn't ya say? How crazy would ya hafta be to try to blow up the waterways!?
+- **8716**: The waterways're vital to all who live in Adoulin, so don't be thinkin' 'bout causin' no trouble!
 
 ## Events
 
@@ -83,7 +83,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8715*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8716*)
     → "The waterways're vital to all who live in Adoulin, so don't be thinkin' 'bout causin' no trouble!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
@@ -118,13 +118,13 @@
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8712*)
+  5: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8713*)
     → "So I was just here, mindin' my own business, see? Then all of a sudden, a huge flash of light, and boom! I darn near soiled m'self!"
   6: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8713*)
+  7: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8714*)
     → "Th' area's gone a bit foul, and I'm 'fraid it'll take a while 'fore things're back to normal."
   8: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8714*)
+  9: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8715*)
     → "But boy, take a gander at this! It's part of a wooden fuse, wouldn't ya say? How crazy would ya hafta be to try to blow up the waterways!?"
  10: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x004F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*

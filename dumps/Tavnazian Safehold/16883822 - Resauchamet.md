@@ -21,32 +21,32 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x01F1      |         497 |
-|       1 | 0x2B4B      |       11083 |
-|       2 | 0x2B4C      |       11084 |
-|       3 | 0x2B4D      |       11085 |
+|       1 | 0x2B4C      |       11084 |
+|       2 | 0x2B4D      |       11085 |
+|       3 | 0x2B4E      |       11086 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x2B4E      |       11086 |
+|       6 | 0x2B4F      |       11087 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x01F0      |         496 |
-|       9 | 0x2B4F      |       11087 |
+|       9 | 0x2B50      |       11088 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x2B50      |       11088 |
+|      11 | 0x2B51      |       11089 |
 |      12 | 0x0003      |           3 |
-|      13 | 0x2B51      |       11089 |
+|      13 | 0x2B52      |       11090 |
 |      14 | 0x003C      |          60 |
-|      15 | 0x2B52      |       11090 |
+|      15 | 0x2B53      |       11091 |
 
 ## String References
 
-- **11083**: You are an adventurer... I can smell the dark blood of the undead as it drips slowly from your soiled garments.
-- **11084**: Beware, my friend, for you are not alone in your journey. Lost spirits lurk in the shadows behind you, waiting for their chance to rob you of your soul.
-- **11085**: Hmmm...
-- **11086**: You still have a fairly good head start, but they will not let up until they have found you and filled your heart with poison and pain.
-- **11087**: They are close... It is only a matter of time before you have fallen within their reach.
-- **11088**: Can you not feel the hands that reach up from the bottomless depths of hell? Can you not feel the gaze of a thousand eyes, glowing red with anger and hate?
-- **11089**: The grip of evil is tightening on the very essence of what makes you who you are. Be forewarned, as it will not be long before you are confronted with a battle for more than just your life.
-- **11090**: Oh, poor child! May the light of the Dawn Goddess lead you from the pitch-black depths of darkness!
+- **11084**: You are an adventurer... I can smell the dark blood of the undead as it drips slowly from your soiled garments.
+- **11085**: Beware, my friend, for you are not alone in your journey. Lost spirits lurk in the shadows behind you, waiting for their chance to rob you of your soul.
+- **11086**: Hmmm...
+- **11087**: You still have a fairly good head start, but they will not let up until they have found you and filled your heart with poison and pain.
+- **11088**: They are close... It is only a matter of time before you have fallen within their reach.
+- **11089**: Can you not feel the hands that reach up from the bottomless depths of hell? Can you not feel the gaze of a thousand eyes, glowing red with anger and hate?
+- **11090**: The grip of evil is tightening on the very essence of what makes you who you are. Be forewarned, as it will not be long before you are confronted with a battle for more than just your life.
+- **11091**: Oh, poor child! May the light of the Dawn Goddess lead you from the pitch-black depths of darkness!
 
 ## Events
 
@@ -111,40 +111,40 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=497*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11083*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11084*)
     → "You are an adventurer... I can smell the dark blood of the undead as it drips slowly from your soiled garments."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11084*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=11085*)
     → "Beware, my friend, for you are not alone in your journey. Lost spirits lurk in the shadows behind you, waiting for their chance to rob you of your soul."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=497*
-  9: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11085*)
+  9: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11086*)
     → "Hmmm..."
  10: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0032 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x005F
  12: 0x003A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 13: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=11086*)
+ 13: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=11087*)
     → "You still have a fairly good head start, but they will not let up until they have found you and filled your heart with poison and pain."
  14: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x004D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
  16: 0x005C [0x01] GOTO 0x00E6
  17: 0x005F [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x008C
  18: 0x0067 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=496*
- 19: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11087*)
+ 19: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=11088*)
     → "They are close... It is only a matter of time before you have fallen within their reach."
  20: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x007A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=496*
  22: 0x0089 [0x01] GOTO 0x00E6
  23: 0x008C [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x00B9
  24: 0x0094 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=496*
- 25: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11088*)
+ 25: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11089*)
     → "Can you not feel the hands that reach up from the bottomless depths of hell? Can you not feel the gaze of a thousand eyes, glowing red with anger and hate?"
  26: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=496*
  28: 0x00B6 [0x01] GOTO 0x00E6
  29: 0x00B9 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00E6
  30: 0x00C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [EventEntity, EventEntity], work=496*
- 31: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11089*)
+ 31: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11090*)
     → "The grip of evil is tightening on the very essence of what makes you who you are. Be forewarned, as it will not be long before you are confronted with a battle for more than just your life."
  32: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00D4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [EventEntity, EventEntity], work=496*
@@ -153,7 +153,7 @@
 SUBROUTINE_00E6:
  35: 0x00E6 [0x1C] WAIT(60* ticks)
  36: 0x00E9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "rei0" with entities [EventEntity, EventEntity], work=497*
- 37: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11090*)
+ 37: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11091*)
     → "Oh, poor child! May the light of the Dawn Goddess lead you from the pitch-black depths of darkness!"
  38: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00FC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "rei0" with entities [EventEntity, EventEntity]

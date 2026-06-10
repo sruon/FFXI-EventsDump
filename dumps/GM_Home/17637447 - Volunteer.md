@@ -22,16 +22,16 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2337      |        9015 |
+|       2 | 0x2338      |        9016 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x2338      |        9016 |
-|       5 | 0x2339      |        9017 |
+|       4 | 0x2339      |        9017 |
+|       5 | 0x233A      |        9018 |
 
 ## String References
 
-- **9015**: Make a donation? [Yes./No.]
-- **9016**: Thank you! All proceeds will benefit the Orphaned Goobbues of Vana'diel.
-- **9017**: That's a shame.
+- **9016**: Make a donation? [Yes./No.]
+- **9017**: Thank you! All proceeds will benefit the Orphaned Goobbues of Vana'diel.
+- **9018**: That's a shame.
 
 ## Events
 
@@ -83,17 +83,17 @@
   1: 0x0002 [0x03] Work_Zone[1] = 0*
   2: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000C [0x1C] WAIT(30* ticks)
-  4: 0x000F [0x24] CREATE_DIALOG(message_id=9015*, default_option=1*, option_flags=0*)
+  4: 0x000F [0x24] CREATE_DIALOG(message_id=9016*, default_option=1*, option_flags=0*)
     → "Make a donation? [Yes./No.]"
   5: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002B
-  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9016*)
+  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
     → "Thank you! All proceeds will benefit the Orphaned Goobbues of Vana'diel."
   8: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0023 [0x03] Work_Zone[1] = 1*
  10: 0x0028 [0x01] GOTO 0x003A
  11: 0x002B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x003A
- 12: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
+ 12: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
     → "That's a shame."
  13: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0037 [0x01] GOTO 0x003A

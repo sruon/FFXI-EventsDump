@@ -22,10 +22,10 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x270F      |        9999 |
-|       2 | 0x2039      |        8249 |
+|       2 | 0x203A      |        8250 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x40000000  |  1073741824 |
-|       5 | 0x2037      |        8247 |
+|       5 | 0x2038      |        8248 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0007      |           7 |
 |       8 | 0x0008      |           8 |
@@ -35,7 +35,7 @@
 |      12 | 0x000A      |          10 |
 |      13 | 0x002C      |          44 |
 |      14 | 0x0009      |           9 |
-|      15 | 0x203A      |        8250 |
+|      15 | 0x203B      |        8251 |
 |      16 | 0x0003      |           3 |
 |      17 | 0x0004      |           4 |
 |      18 | 0x0005      |           5 |
@@ -44,9 +44,9 @@
 
 ## String References
 
-- **8247**: Fame value for this area: $0 Input a value from 0 - 63. (Cancel: 0)
-- **8249**: What will you do? [Nothing./Set fame./Quest 01 (Fame: $0)/Quest 02 (Fame: $1)/Quest 03 (Fame: $2)/Quest 04 (Fame: $3)/Quest 05 (Fame: $4)/Quest 06 (Fame: $5)/Quest 07 (Fame: $6)/Quest 08 (Fame: $7)/Quest 09 (Fame: $8)/Quest 10 (Fame: $9)/AP (elapsed time) check (Currently: [Seeing/Not seeing])]
-- **8250**: What will yo do? (Quest ) [Nothing./Set quest eligibility./Quest progress./Obtain key item./Complete quest./Set times completed.]
+- **8248**: Fame value for this area: $0 Input a value from 0 - 63. (Cancel: 0)
+- **8250**: What will you do? [Nothing./Set fame./Quest 01 (Fame: $0)/Quest 02 (Fame: $1)/Quest 03 (Fame: $2)/Quest 04 (Fame: $3)/Quest 05 (Fame: $4)/Quest 06 (Fame: $5)/Quest 07 (Fame: $6)/Quest 08 (Fame: $7)/Quest 09 (Fame: $8)/Quest 10 (Fame: $9)/AP (elapsed time) check (Currently: [Seeing/Not seeing])]
+- **8251**: What will yo do? (Quest ) [Nothing./Set quest eligibility./Quest progress./Obtain key item./Complete quest./Set times completed.]
 
 ## Events
 
@@ -128,7 +128,7 @@
   4: 0x0013 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00D0
   5: 0x001B [0x1A] CALL_SUBROUTINE(address=0x019F)
   6: 0x001E [0x03] ExtData[1]->WorkLocal[2] = 9999*
-  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8249*, default_option=0*, option_flags=0*)
+  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8250*, default_option=0*, option_flags=0*)
     → "What will you do? [Nothing./Set fame./Quest 01 (Fame: $0)/Quest 02 (Fame: $1)/Quest 03 (Fame: $2)/Quest 04 (Fame: $3)/Quest 05 (Fame: $4)/Quest 06 (Fame: $5)/Quest 07 (Fame: $6)/Quest 08 (Fame: $7)/Quest 09 (Fame: $8)/Quest 10 (Fame: $9)/AP (elapsed time) check (Currently: [Seeing/Not seeing])]"
   8: 0x002A [0x25] WAIT_DIALOG_SELECT()
   9: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
@@ -138,7 +138,7 @@
  13: 0x003E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
  14: 0x0046 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  15: 0x004B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
- 16: 0x0050 [0x48] [System] [8247*]:
+ 16: 0x0050 [0x48] [System] [8248*]:
     → "Fame value for this area: $0 Input a value from 0 - 63. (Cancel: 0)"
  17: 0x0053 [0x03] Work_Zone[1] = 0*
  18: 0x0058 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -173,7 +173,7 @@ SUBROUTINE_00BF:
  43: 0x00D1 [0x00] END_REQSTACK()
 
 SUBROUTINE_00D2:
- 44: 0x00D2 [0x24] CREATE_DIALOG(message_id=8250*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 44: 0x00D2 [0x24] CREATE_DIALOG(message_id=8251*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "What will yo do? (Quest ) [Nothing./Set quest eligibility./Quest progress./Obtain key item./Complete quest./Set times completed.]"
  45: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
  46: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EA

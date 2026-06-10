@@ -35,53 +35,53 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x22C5      |        8901 |
-|       3 | 0x22C6      |        8902 |
-|       4 | 0x22C7      |        8903 |
-|       5 | 0x23FD      |        9213 |
-|       6 | 0x23FE      |        9214 |
-|       7 | 0x23FF      |        9215 |
-|       8 | 0x2400      |        9216 |
-|       9 | 0x2401      |        9217 |
-|      10 | 0x2402      |        9218 |
-|      11 | 0x2403      |        9219 |
-|      12 | 0x2404      |        9220 |
-|      13 | 0x2405      |        9221 |
-|      14 | 0x2406      |        9222 |
-|      15 | 0x2407      |        9223 |
-|      16 | 0x2408      |        9224 |
-|      17 | 0x2409      |        9225 |
-|      18 | 0x240A      |        9226 |
-|      19 | 0x240B      |        9227 |
-|      20 | 0x258A      |        9610 |
-|      21 | 0x258B      |        9611 |
-|      22 | 0x240C      |        9228 |
-|      23 | 0x240D      |        9229 |
+|       2 | 0x22C6      |        8902 |
+|       3 | 0x22C7      |        8903 |
+|       4 | 0x22C8      |        8904 |
+|       5 | 0x23FE      |        9214 |
+|       6 | 0x23FF      |        9215 |
+|       7 | 0x2400      |        9216 |
+|       8 | 0x2401      |        9217 |
+|       9 | 0x2402      |        9218 |
+|      10 | 0x2403      |        9219 |
+|      11 | 0x2404      |        9220 |
+|      12 | 0x2405      |        9221 |
+|      13 | 0x2406      |        9222 |
+|      14 | 0x2407      |        9223 |
+|      15 | 0x2408      |        9224 |
+|      16 | 0x2409      |        9225 |
+|      17 | 0x240A      |        9226 |
+|      18 | 0x240B      |        9227 |
+|      19 | 0x240C      |        9228 |
+|      20 | 0x258B      |        9611 |
+|      21 | 0x258C      |        9612 |
+|      22 | 0x240D      |        9229 |
+|      23 | 0x240E      |        9230 |
 
 ## String References
 
-- **8901**: It took us twenty long years to restore our town, and just when we think we have it good, along come the rumors of war again...
-- **8902**: Don't tell me we need to sacrifice the lives of so many mages...not to mention the innocent lives of our wee children...?
-- **8903**: If it takes some tribute offerings to the Yagudo to avoid a full-blown war, then I'm happy to offer it to them.
-- **9213**: <Player>? Hmm... Sorry, but I never heard that name before.
-- **9214**: Try doing some missions for Windurst. Bust you britches, and everybody'll know who you are.
-- **9215**: That's when the real work starts rolling in. People won't trust you unless you give them something to trust.
-- **9216**: <Player>? Hmm... Now, was that the name of the...? No, that was some other [guy/lady].
-- **9217**: Either way, you're still not making much of a name of yourself here yet. Hard work and perseverence--that's what's going to put you on the map.
-- **9218**: Oh, you're the <Player> that people are starting to talk about. I've heard pretty good things about you.
-- **9219**: Hard work and perseverence--those are the only things that'll put you on the map.
-- **9220**: Why, if it isn't <Player>! I heard some guys talking about you over their dinners at the eatery last night.
-- **9221**: They had nothing but good things to say about you. Keep up the good work!
-- **9222**: Hello there, <Player>! There aren't many Windurstians who don't know that name.
-- **9223**: We're all proud to have you on our side! Keep up the great work!
-- **9224**: [Mister/Miss] <Player>! You'd have to be living in a hole somewhere not to have heard that name.
-- **9225**: All the bards in the land are singing songs of your outstanding deeds. Keep up the extraordinary work!
-- **9226**: [Mister/Miss] <Player>! There isn't a soul in all of Windurst that has yet to hear the tales of your feats.
-- **9227**: Why, I remember when you were just a fledgling adventurer. It seems like just yesterday...
-- **9228**: [Lord/Lady] <Player>! I am honored to have the hero of Windurst in my presence.
-- **9229**: Every man and woman in the country knows by heart the tales of your courage. May the Goddess shine her light of grace upon you.
-- **9610**: A day doesn't go by when I fail to hear a tale of your deeds.
-- **9611**: I am proud to be a citizen of the same great country as [Sir/Lady] <Player>. Keep up the marvelous work!
+- **8902**: It took us twenty long years to restore our town, and just when we think we have it good, along come the rumors of war again...
+- **8903**: Don't tell me we need to sacrifice the lives of so many mages...not to mention the innocent lives of our wee children...?
+- **8904**: If it takes some tribute offerings to the Yagudo to avoid a full-blown war, then I'm happy to offer it to them.
+- **9214**: <Player>? Hmm... Sorry, but I never heard that name before.
+- **9215**: Try doing some missions for Windurst. Bust you britches, and everybody'll know who you are.
+- **9216**: That's when the real work starts rolling in. People won't trust you unless you give them something to trust.
+- **9217**: <Player>? Hmm... Now, was that the name of the...? No, that was some other [guy/lady].
+- **9218**: Either way, you're still not making much of a name of yourself here yet. Hard work and perseverence--that's what's going to put you on the map.
+- **9219**: Oh, you're the <Player> that people are starting to talk about. I've heard pretty good things about you.
+- **9220**: Hard work and perseverence--those are the only things that'll put you on the map.
+- **9221**: Why, if it isn't <Player>! I heard some guys talking about you over their dinners at the eatery last night.
+- **9222**: They had nothing but good things to say about you. Keep up the good work!
+- **9223**: Hello there, <Player>! There aren't many Windurstians who don't know that name.
+- **9224**: We're all proud to have you on our side! Keep up the great work!
+- **9225**: [Mister/Miss] <Player>! You'd have to be living in a hole somewhere not to have heard that name.
+- **9226**: All the bards in the land are singing songs of your outstanding deeds. Keep up the extraordinary work!
+- **9227**: [Mister/Miss] <Player>! There isn't a soul in all of Windurst that has yet to hear the tales of your feats.
+- **9228**: Why, I remember when you were just a fledgling adventurer. It seems like just yesterday...
+- **9229**: [Lord/Lady] <Player>! I am honored to have the hero of Windurst in my presence.
+- **9230**: Every man and woman in the country knows by heart the tales of your courage. May the Goddess shine her light of grace upon you.
+- **9611**: A day doesn't go by when I fail to hear a tale of your deeds.
+- **9612**: I am proud to be a citizen of the same great country as [Sir/Lady] <Player>. Keep up the marvelous work!
 
 ## Events
 
@@ -202,13 +202,13 @@
 
 ```
   0: 0x0030 [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8901*)
+  1: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=8902*)
     → "It took us twenty long years to restore our town, and just when we think we have it good, along come the rumors of war again..."
   2: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8902*)
+  3: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
     → "Don't tell me we need to sacrifice the lives of so many mages...not to mention the innocent lives of our wee children...?"
   4: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
+  5: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
     → "If it takes some tribute offerings to the Yagudo to avoid a full-blown war, then I'm happy to offer it to them."
   6: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0046 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -239,13 +239,13 @@
 
 ```
   0: 0x004F [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=9213*)
+  1: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
     → "<Player>? Hmm... Sorry, but I never heard that name before."
   2: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=9214*)
+  3: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
     → "Try doing some missions for Windurst. Bust you britches, and everybody'll know who you are."
   4: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=9215*)
+  5: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
     → "That's when the real work starts rolling in. People won't trust you unless you give them something to trust."
   6: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0065 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -276,10 +276,10 @@
 
 ```
   0: 0x006E [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9216*)
+  1: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
     → "<Player>? Hmm... Now, was that the name of the...? No, that was some other [guy/lady]."
   2: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
+  3: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
     → "Either way, you're still not making much of a name of yourself here yet. Hard work and perseverence--that's what's going to put you on the map."
   4: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0080 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -310,10 +310,10 @@
 
 ```
   0: 0x0089 [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
+  1: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
     → "Oh, you're the <Player> that people are starting to talk about. I've heard pretty good things about you."
   2: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
+  3: 0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
     → "Hard work and perseverence--those are the only things that'll put you on the map."
   4: 0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009B [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -343,10 +343,10 @@
 
 ```
   0: 0x00A4 [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9220*)
+  1: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
     → "Why, if it isn't <Player>! I heard some guys talking about you over their dinners at the eatery last night."
   2: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9221*)
+  3: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
     → "They had nothing but good things to say about you. Keep up the good work!"
   4: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B6 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -377,10 +377,10 @@
 
 ```
   0: 0x00BF [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9222*)
+  1: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
     → "Hello there, <Player>! There aren't many Windurstians who don't know that name."
   2: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9223*)
+  3: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
     → "We're all proud to have you on our side! Keep up the great work!"
   4: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D1 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -411,10 +411,10 @@
 
 ```
   0: 0x00DA [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9224*)
+  1: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
     → "[Mister/Miss] <Player>! You'd have to be living in a hole somewhere not to have heard that name."
   2: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9225*)
+  3: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
     → "All the bards in the land are singing songs of your outstanding deeds. Keep up the extraordinary work!"
   4: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00EC [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -444,10 +444,10 @@
 
 ```
   0: 0x00F5 [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9226*)
+  1: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
     → "[Mister/Miss] <Player>! There isn't a soul in all of Windurst that has yet to hear the tales of your feats."
   2: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9227*)
+  3: 0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
     → "Why, I remember when you were just a fledgling adventurer. It seems like just yesterday..."
   4: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0107 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -477,10 +477,10 @@
 
 ```
   0: 0x0110 [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9610*)
+  1: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=9611*)
     → "A day doesn't go by when I fail to hear a tale of your deeds."
   2: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=9611*)
+  3: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=9612*)
     → "I am proud to be a citizen of the same great country as [Sir/Lady] <Player>. Keep up the marvelous work!"
   4: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0122 [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking
@@ -511,10 +511,10 @@
 
 ```
   0: 0x012B [0x79] Zabirego-Hajigo (ID: 17752146/0x010EE052) looks at LocalPlayer (Basic look)
-  1: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=9228*)
+  1: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
     → "[Lord/Lady] <Player>! I am honored to have the hero of Windurst in my presence."
   2: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=9229*)
+  3: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=9230*)
     → "Every man and woman in the country knows by heart the tales of your courage. May the Goddess shine her light of grace upon you."
   4: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x013D [0x7B] Zabirego-Hajigo (ID: 17752146/0x010EE052) stops talking

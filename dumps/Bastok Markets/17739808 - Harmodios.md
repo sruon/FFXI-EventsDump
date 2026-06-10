@@ -21,19 +21,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x23FA      |        9210 |
+|       0 | 0x23FB      |        9211 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2401      |        9217 |
+|       2 | 0x2402      |        9218 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x2402      |        9218 |
-|       5 | 0x3098      |       12440 |
+|       4 | 0x2403      |        9219 |
+|       5 | 0x3099      |       12441 |
 
 ## String References
 
-- **9210**: <Player>'s badge flashes brightly.
-- **9217**: What's this? Is that a Salaheem's Sentinel badge from Aht Urhgan you've got there?
-- **9218**: This is quite an exquisite piece of craftsmanship. I have heard that Aht Urhgan is as technologically advanced as Bastok--a very curious place, indeed.
-- **12440**: A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire...
+- **9211**: <Player>'s badge flashes brightly.
+- **9218**: What's this? Is that a Salaheem's Sentinel badge from Aht Urhgan you've got there?
+- **9219**: This is quite an exquisite piece of craftsmanship. I have heard that Aht Urhgan is as technologically advanced as Bastok--a very curious place, indeed.
+- **12441**: A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire...
 
 ## Events
 
@@ -82,15 +82,15 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [9210*]:
+  1: 0x0002 [0x48] [System] [9211*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000A [0x1C] WAIT(30* ticks)
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=9217*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
     → "What's this? Is that a Salaheem's Sentinel badge from Aht Urhgan you've got there?"
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0011 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=9218*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=9219*)
     → "This is quite an exquisite piece of craftsmanship. I have heard that Aht Urhgan is as technologically advanced as Bastok--a very curious place, indeed."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=0*
@@ -120,7 +120,7 @@
 ```
   0: 0x0035 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x003A [0x1C] WAIT(30* ticks)
-  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12440*)
+  2: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12441*)
     → "A collaboration of circus and dance, huh? Now that's something I haven't seen since my childhood, before Troupe Valeriano disbanded after that unfortunate fire..."
   3: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0041 [0x21] END_EVENT

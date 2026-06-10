@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x3033      |       12339 |
+|       2 | 0x3034      |       12340 |
 
 ## String References
 
-- **12339**: The Galkan Bridge is currently closed to prevent infiltration by beastman spies.
+- **12340**: The Galkan Bridge is currently closed to prevent infiltration by beastman spies.
 
 ## Events
 
@@ -75,7 +75,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12340*)
     → "The Galkan Bridge is currently closed to prevent infiltration by beastman spies."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT

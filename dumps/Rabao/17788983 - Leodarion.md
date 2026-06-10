@@ -31,128 +31,128 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2819      |       10265 |
-|       1 | 0x282B      |       10283 |
+|       0 | 0x281A      |       10266 |
+|       1 | 0x282C      |       10284 |
 |       2 | 0x01CC      |         460 |
 |       3 | 0x42CA      |       17098 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x00DB      |         219 |
-|       8 | 0x281A      |       10266 |
+|       8 | 0x281B      |       10267 |
 |       9 | 0x0014      |          20 |
-|      10 | 0x281B      |       10267 |
-|      11 | 0x281C      |       10268 |
-|      12 | 0x281D      |       10269 |
-|      13 | 0x281E      |       10270 |
-|      14 | 0x281F      |       10271 |
-|      15 | 0x2820      |       10272 |
-|      16 | 0x2821      |       10273 |
-|      17 | 0x2822      |       10274 |
-|      18 | 0x2823      |       10275 |
-|      19 | 0x2824      |       10276 |
-|      20 | 0x2825      |       10277 |
-|      21 | 0x2826      |       10278 |
+|      10 | 0x281C      |       10268 |
+|      11 | 0x281D      |       10269 |
+|      12 | 0x281E      |       10270 |
+|      13 | 0x281F      |       10271 |
+|      14 | 0x2820      |       10272 |
+|      15 | 0x2821      |       10273 |
+|      16 | 0x2822      |       10274 |
+|      17 | 0x2823      |       10275 |
+|      18 | 0x2824      |       10276 |
+|      19 | 0x2825      |       10277 |
+|      20 | 0x2826      |       10278 |
+|      21 | 0x2827      |       10279 |
 |      22 | 0x01D1      |         465 |
-|      23 | 0x2827      |       10279 |
-|      24 | 0x2828      |       10280 |
-|      25 | 0x2829      |       10281 |
-|      26 | 0x282A      |       10282 |
+|      23 | 0x2828      |       10280 |
+|      24 | 0x2829      |       10281 |
+|      25 | 0x282A      |       10282 |
+|      26 | 0x282B      |       10283 |
 |      27 | 0x01D6      |         470 |
 |      28 | 0x01D7      |         471 |
-|      29 | 0x282C      |       10284 |
-|      30 | 0x282D      |       10285 |
+|      29 | 0x282D      |       10285 |
+|      30 | 0x282E      |       10286 |
 |      31 | 0x001E      |          30 |
-|      32 | 0x282E      |       10286 |
+|      32 | 0x282F      |       10287 |
 |      33 | 0x00B4      |         180 |
-|      34 | 0x282F      |       10287 |
-|      35 | 0x2830      |       10288 |
-|      36 | 0x2831      |       10289 |
-|      37 | 0x2832      |       10290 |
-|      38 | 0x2833      |       10291 |
-|      39 | 0x2834      |       10292 |
-|      40 | 0x2835      |       10293 |
-|      41 | 0x2836      |       10294 |
-|      42 | 0x2837      |       10295 |
-|      43 | 0x2838      |       10296 |
-|      44 | 0x2839      |       10297 |
+|      34 | 0x2830      |       10288 |
+|      35 | 0x2831      |       10289 |
+|      36 | 0x2832      |       10290 |
+|      37 | 0x2833      |       10291 |
+|      38 | 0x2834      |       10292 |
+|      39 | 0x2835      |       10293 |
+|      40 | 0x2836      |       10294 |
+|      41 | 0x2837      |       10295 |
+|      42 | 0x2838      |       10296 |
+|      43 | 0x2839      |       10297 |
+|      44 | 0x283A      |       10298 |
 |      45 | 0x0002      |           2 |
-|      46 | 0x283A      |       10298 |
+|      46 | 0x283B      |       10299 |
 |      47 | 0x009A      |         154 |
-|      48 | 0x283B      |       10299 |
-|      49 | 0x283C      |       10300 |
+|      48 | 0x283C      |       10300 |
+|      49 | 0x283D      |       10301 |
 |      50 | 0x000B      |          11 |
-|      51 | 0x283D      |       10301 |
-|      52 | 0x283E      |       10302 |
-|      53 | 0x283F      |       10303 |
-|      54 | 0x2840      |       10304 |
-|      55 | 0x2841      |       10305 |
-|      56 | 0x2842      |       10306 |
-|      57 | 0x2843      |       10307 |
+|      51 | 0x283E      |       10302 |
+|      52 | 0x283F      |       10303 |
+|      53 | 0x2840      |       10304 |
+|      54 | 0x2841      |       10305 |
+|      55 | 0x2842      |       10306 |
+|      56 | 0x2843      |       10307 |
+|      57 | 0x2844      |       10308 |
 |      58 | 0x000A      |          10 |
-|      59 | 0x2844      |       10308 |
-|      60 | 0x2845      |       10309 |
-|      61 | 0x2846      |       10310 |
-|      62 | 0x2847      |       10311 |
-|      63 | 0x2848      |       10312 |
-|      64 | 0x2849      |       10313 |
+|      59 | 0x2845      |       10309 |
+|      60 | 0x2846      |       10310 |
+|      61 | 0x2847      |       10311 |
+|      62 | 0x2848      |       10312 |
+|      63 | 0x2849      |       10313 |
+|      64 | 0x284A      |       10314 |
 |      65 | 0x04CA      |        1226 |
-|      66 | 0x284A      |       10314 |
-|      67 | 0x284B      |       10315 |
-|      68 | 0x284C      |       10316 |
-|      69 | 0x284D      |       10317 |
-|      70 | 0x284E      |       10318 |
-|      71 | 0x284F      |       10319 |
+|      66 | 0x284B      |       10315 |
+|      67 | 0x284C      |       10316 |
+|      68 | 0x284D      |       10317 |
+|      69 | 0x284E      |       10318 |
+|      70 | 0x284F      |       10319 |
+|      71 | 0x2850      |       10320 |
 |      72 | 0x0078      |         120 |
 |      73 | 0x003C      |          60 |
-|      74 | 0x2850      |       10320 |
+|      74 | 0x2851      |       10321 |
 |      75 | 0x00D0      |         208 |
-|      76 | 0x2851      |       10321 |
-|      77 | 0x2852      |       10322 |
-|      78 | 0x2853      |       10323 |
-|      79 | 0x2854      |       10324 |
-|      80 | 0x2855      |       10325 |
+|      76 | 0x2852      |       10322 |
+|      77 | 0x2853      |       10323 |
+|      78 | 0x2854      |       10324 |
+|      79 | 0x2855      |       10325 |
+|      80 | 0x2856      |       10326 |
 |      81 | 0x00C9      |         201 |
 
 ## String References
 
-- **10265**: A wonderful place, this Rabao. Away from the bustle of the modern world, one can sit back and relax. Now this is true freedom.
-- **10266**: You are the ninja that found the $3, am I right? So, your journey has finally brought you here...
-- **10267**: My name is Leodarion, grandson of Mitsunari the Poisonclaw. Oh, he was not my real grandfather. He found me lying beneath a cactus when I was still a baby, and took me in.
-- **10268**: I see that you were able to get by my little spider trap...
-- **10269**: Hey, don't go getting all upset, now. You're still alive, aren't you? If it was one of my grandfather's, though, you would've ended up like that Yomi.
-- **10270**: That trap was what he left to the world before he passed away. That trap and his treasure...
-- **10271**: What a way to go out! Now I'm studying his journal, trying to become as skilled as he was.
-- **10272**: The other day, while looking through that journal, I found an even greater trap. A trap that calls forth the spirit of the dead.
-- **10273**: I think that my grandfather left me these clues to try to tell me something, but I'm not sure that I can do this by myself.
-- **10274**: You're working for Norg, right? Why don't you lend me a hand? Don't worry. I'll pay you nicely.
-- **10275**: To call forth the spirit in my grandfather's trap, the diary says I need $6. If you're interested in my offer, I'll be waiting here for you.
+- **10266**: A wonderful place, this Rabao. Away from the bustle of the modern world, one can sit back and relax. Now this is true freedom.
+- **10267**: You are the ninja that found the $3, am I right? So, your journey has finally brought you here...
+- **10268**: My name is Leodarion, grandson of Mitsunari the Poisonclaw. Oh, he was not my real grandfather. He found me lying beneath a cactus when I was still a baby, and took me in.
+- **10269**: I see that you were able to get by my little spider trap...
+- **10270**: Hey, don't go getting all upset, now. You're still alive, aren't you? If it was one of my grandfather's, though, you would've ended up like that Yomi.
+- **10271**: That trap was what he left to the world before he passed away. That trap and his treasure...
+- **10272**: What a way to go out! Now I'm studying his journal, trying to become as skilled as he was.
+- **10273**: The other day, while looking through that journal, I found an even greater trap. A trap that calls forth the spirit of the dead.
+- **10274**: I think that my grandfather left me these clues to try to tell me something, but I'm not sure that I can do this by myself.
+- **10275**: You're working for Norg, right? Why don't you lend me a hand? Don't worry. I'll pay you nicely.
 - **10276**: To call forth the spirit in my grandfather's trap, the diary says I need $6. If you're interested in my offer, I'll be waiting here for you.
-- **10277**: Oh, this is the $6 that my grandfather talked about in his journal. Now I can complete the trap! Come back tomorrow, and I'll show you the result.
-- **10278**: Now I can complete my grandfather's trap! Come back tomorrow, and I'll show you the result.
-- **10279**: Here it is, $6. With this, I can finally call forth the spirit and complete my grandfather's work.
-- **10280**: According to my grandfather's journal, if you "carry the seance staff with you while traveling at night from east to west over the Bastore Sea, you will most certainly face your greatest fears..."
-- **10281**: Here, you take this and see if it works. What? Do you think a guy like me could handle any evil spirits?
-- **10282**: I bet that the spirit is carrying some great treasure that my grandfather left behind...
-- **10283**: I just don't understand... What did my grandfather mean by "leaving me his memories"?
-- **10284**: What? You've found $6 of my grandfather's?
-- **10285**: Really? May I see it!?
-- **10286**: Putting this here like this... And fastening this like this... I would have never thought...
-- **10288**: Who are you?
-- **10292**: There. It's open.
-- **10294**: It's empty... There is nothing inside.
-- **10296**: Look for yourself. You won't find any treasure inside, because the box itself is the real treasure. Only a true master could craft such a fine work of art...
-- **10297**: Yes, it might have been easy to open, but I do not know if I will ever be able to copy what my grandfather has done.
-- **10307**: Wait... You're Yomi's daughter, aren't you? Yes, I finally think I know what my grandfather was trying to say in his will...
-- **10311**: I see. As much as we try to follow in someone's footsteps, there are places that we will never reach. That is why we must concentrate on finding our own paths.
-- **10317**: Wait! I think this box may hold a hint into opening my grandfather's $3. I used to try when I was a child, but I never could.
-- **10318**: Maybe there is a treasure in there...
-- **10320**: Wow...
-- **10321**: Anyway. I'm grateful for all you've done for me. That's why I'm going to let you in on my secret.
-- **10322**: Long ago, my grandfather hid his $3 inside a treasure chest deep within the Kuftal Tunnel. After looking at this $3, I think I can open it now.
-- **10323**: If you bring it to me, I'll give you whatever's inside. What do you say?
-- **10324**: You've brought back the $3! Here, let me see if I can open it.
-- **10325**: Yes. I knew I could do it! Here, take what was inside. My grandfather would have wanted you to have it.
+- **10277**: To call forth the spirit in my grandfather's trap, the diary says I need $6. If you're interested in my offer, I'll be waiting here for you.
+- **10278**: Oh, this is the $6 that my grandfather talked about in his journal. Now I can complete the trap! Come back tomorrow, and I'll show you the result.
+- **10279**: Now I can complete my grandfather's trap! Come back tomorrow, and I'll show you the result.
+- **10280**: Here it is, $6. With this, I can finally call forth the spirit and complete my grandfather's work.
+- **10281**: According to my grandfather's journal, if you "carry the seance staff with you while traveling at night from east to west over the Bastore Sea, you will most certainly face your greatest fears..."
+- **10282**: Here, you take this and see if it works. What? Do you think a guy like me could handle any evil spirits?
+- **10283**: I bet that the spirit is carrying some great treasure that my grandfather left behind...
+- **10284**: I just don't understand... What did my grandfather mean by "leaving me his memories"?
+- **10285**: What? You've found $6 of my grandfather's?
+- **10286**: Really? May I see it!?
+- **10287**: Putting this here like this... And fastening this like this... I would have never thought...
+- **10289**: Who are you?
+- **10293**: There. It's open.
+- **10295**: It's empty... There is nothing inside.
+- **10297**: Look for yourself. You won't find any treasure inside, because the box itself is the real treasure. Only a true master could craft such a fine work of art...
+- **10298**: Yes, it might have been easy to open, but I do not know if I will ever be able to copy what my grandfather has done.
+- **10308**: Wait... You're Yomi's daughter, aren't you? Yes, I finally think I know what my grandfather was trying to say in his will...
+- **10312**: I see. As much as we try to follow in someone's footsteps, there are places that we will never reach. That is why we must concentrate on finding our own paths.
+- **10318**: Wait! I think this box may hold a hint into opening my grandfather's $3. I used to try when I was a child, but I never could.
+- **10319**: Maybe there is a treasure in there...
+- **10321**: Wow...
+- **10322**: Anyway. I'm grateful for all you've done for me. That's why I'm going to let you in on my secret.
+- **10323**: Long ago, my grandfather hid his $3 inside a treasure chest deep within the Kuftal Tunnel. After looking at this $3, I think I can open it now.
+- **10324**: If you bring it to me, I'll give you whatever's inside. What do you say?
+- **10325**: You've brought back the $3! Here, let me see if I can open it.
+- **10326**: Yes. I knew I could do it! Here, take what was inside. My grandfather would have wanted you to have it.
 
 ## Events
 
@@ -220,7 +220,7 @@
 
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
+  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10266*)
     → "A wonderful place, this Rabao. Away from the bustle of the modern world, one can sit back and relax. Now this is true freedom."
   2: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000B [0x21] END_EVENT
@@ -248,7 +248,7 @@
 
 ```
   0: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10283*)
+  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10284*)
     → "I just don't understand... What did my grandfather mean by "leaving me his memories"?"
   2: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0016 [0x21] END_EVENT
@@ -306,43 +306,43 @@
   8: 0x004F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
   9: 0x0060 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x0071 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 11: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=10266*)
+ 11: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=10267*)
     → "You are the ninja that found the $3, am I right? So, your journey has finally brought you here..."
  12: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x007A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10267*)
+ 14: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10268*)
     → "My name is Leodarion, grandson of Mitsunari the Poisonclaw. Oh, he was not my real grandfather. He found me lying beneath a cactus when I was still a baby, and took me in."
  15: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=10268*)
+ 16: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=10269*)
     → "I see that you were able to get by my little spider trap..."
  17: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0091 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 19: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10269*)
+ 19: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10270*)
     → "Hey, don't go getting all upset, now. You're still alive, aren't you? If it was one of my grandfather's, though, you would've ended up like that Yomi."
  20: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x009A [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=219*
  22: 0x00A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
- 23: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10270*)
+ 23: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10271*)
     → "That trap was what he left to the world before he passed away. That trap and his treasure..."
  24: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 26: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10271*)
+ 26: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10272*)
     → "What a way to go out! Now I'm studying his journal, trying to become as skilled as he was."
  27: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10272*)
+ 28: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10273*)
     → "The other day, while looking through that journal, I found an even greater trap. A trap that calls forth the spirit of the dead."
  29: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 31: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10273*)
+ 31: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10274*)
     → "I think that my grandfather left me these clues to try to tell me something, but I'm not sure that I can do this by myself."
  32: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00E8 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=219*
  34: 0x00F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  35: 0x0108 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 36: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=10274*)
+ 36: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=10275*)
     → "You're working for Norg, right? Why don't you lend me a hand? Don't worry. I'll pay you nicely."
  37: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=10275*)
+ 38: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=10276*)
     → "To call forth the spirit in my grandfather's trap, the diary says I need $6. If you're interested in my offer, I'll be waiting here for you."
  39: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x011F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -374,7 +374,7 @@
 
 ```
   0: 0x0163 [0x03] Work_Zone[8] = 17098*
-  1: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=10276*)
+  1: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
     → "To call forth the spirit in my grandfather's trap, the diary says I need $6. If you're interested in my offer, I'll be waiting here for you."
   2: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x016C [0x21] END_EVENT
@@ -404,7 +404,7 @@
   0: 0x016E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x016F [0x03] Work_Zone[8] = 17098*
   2: 0x0174 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=10277*)
+  3: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
     → "Oh, this is the $6 that my grandfather talked about in his journal. Now I can complete the trap! Come back tomorrow, and I'll show you the result."
   4: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x017D [0x21] END_EVENT
@@ -432,7 +432,7 @@
 
 ```
   0: 0x017F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=10278*)
+  1: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
     → "Now I can complete my grandfather's trap! Come back tomorrow, and I'll show you the result."
   2: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0188 [0x21] END_EVENT
@@ -479,17 +479,17 @@
   7: 0x01C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   8: 0x01D9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   9: 0x01DE [0x03] Work_Zone[9] = 465*
- 10: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10279*)
+ 10: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
     → "Here it is, $6. With this, I can finally call forth the spirit and complete my grandfather's work."
  11: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
+ 12: 0x01E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10281*)
     → "According to my grandfather's journal, if you "carry the seance staff with you while traveling at night from east to west over the Bastore Sea, you will most certainly face your greatest fears...""
  13: 0x01EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 15: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10281*)
+ 15: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10282*)
     → "Here, you take this and see if it works. What? Do you think a guy like me could handle any evil spirits?"
  16: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10282*)
+ 17: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10283*)
     → "I bet that the spirit is carrying some great treasure that my grandfather left behind..."
  18: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0202 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -521,7 +521,7 @@
 
 ```
   0: 0x0237 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10280*)
+  1: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=10281*)
     → "According to my grandfather's journal, if you "carry the seance staff with you while traveling at night from east to west over the Bastore Sea, you will most certainly face your greatest fears...""
   2: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0240 [0x21] END_EVENT
@@ -643,11 +643,11 @@
   8: 0x0279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
   9: 0x028A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x029B [0x1E] EventEntity looks at LocalPlayer and starts talking
- 11: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10284*)
+ 11: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
     → "What? You've found $6 of my grandfather's?"
  12: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x02A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 14: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10285*)
+ 14: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10286*)
     → "Really? May I see it!?"
  15: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x02B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -656,77 +656,77 @@
  19: 0x02E6 [0x1C] WAIT(30* ticks)
  20: 0x02E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  21: 0x02FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 22: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=10286*)
+ 22: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=10287*)
     → "Putting this here like this... And fastening this like this... I would have never thought..."
  23: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x030F [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
  25: 0x0314 [0x27] REQ_SET(priority=0x0A, entity_id=Ryoma (ID: 17788986/0x010F703A), tag_num=0x03)
- 26: 0x031B [0x2B] Ryoma (ID: 17788986/0x010F703A) [10287*]:
+ 26: 0x031B [0x2B] Ryoma (ID: 17788986/0x010F703A) [10288*]:
     → "Yeah, yeah. Enough of the small talk. Are you going to open it, or what?"
  27: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0323 [0x79] Leodarion (ID: 17788983/0x010F7037) looks at Ryoma (ID: 17788986/0x010F703A) (Basic look)
  29: 0x032D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 30: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=10288*)
+ 30: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=10289*)
     → "Who are you?"
  31: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0340 [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=219*
  33: 0x034F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  34: 0x0360 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ryoma (ID: 17788986/0x010F703A))
  35: 0x0366 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
- 36: 0x0375 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10289*]:
+ 36: 0x0375 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10290*]:
     → "Name's Ryoma. I hired <Player> to open this box for me, but when it comes to treasure, I don't take any chances. I tagged along...just in case."
  37: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x037D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
- 39: 0x038C [0x2B] Ryoma (ID: 17788986/0x010F703A) [10290*]:
+ 39: 0x038C [0x2B] Ryoma (ID: 17788986/0x010F703A) [10291*]:
     → "No offense there, <Player>. Now, let's see what's inside. I've been waiting a long time for this day."
  40: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0394 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
- 42: 0x03A3 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10291*]:
+ 42: 0x03A3 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10292*]:
     → "Be careful, there..."
  43: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x03AB [0x4A] Leodarion (ID: 17788983/0x010F7037) looks at Ryoma (ID: 17788986/0x010F703A)
- 45: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10292*)
+ 45: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10293*)
     → "There. It's open."
  46: 0x03B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x03B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
- 48: 0x03C7 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10293*]:
+ 48: 0x03C7 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10294*]:
     → "That was easy... Well, what do we have?"
  49: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x03CF [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=219*
  51: 0x03DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  52: 0x03EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 53: 0x03FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10294*)
+ 53: 0x03FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10295*)
     → "It's empty... There is nothing inside."
  54: 0x0401 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0402 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
- 56: 0x0411 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10295*]:
+ 56: 0x0411 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10296*]:
     → "It can't be! Where's the treasure!?"
  57: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0419 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
  59: 0x0428 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  60: 0x0435 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 61: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=10296*)
+ 61: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=10297*)
     → "Look for yourself. You won't find any treasure inside, because the box itself is the real treasure. Only a true master could craft such a fine work of art..."
  62: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0448 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 64: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=10297*)
+ 64: 0x044D [0x1D] PRINT_EVENT_MESSAGE(message_id=10298*)
     → "Yes, it might have been easy to open, but I do not know if I will ever be able to copy what my grandfather has done."
  65: 0x0450 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0451 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=219*
  67: 0x0460 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  68: 0x0471 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=2*
- 69: 0x0480 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10298*]:
+ 69: 0x0480 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10299*]:
     → "You'd better not be trying to pull a fast one, Leodarion. If I find out you're hiding any treasure from me..."
  70: 0x0487 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0488 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tld1" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=2*
  72: 0x0497 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 154*
  73: 0x049B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 154*
  74: 0x049F [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17788985/0x010F7039), tag_num=0x03)
- 75: 0x04A6 [0x2B] Ayame (ID: 17788985/0x010F7039) [10299*]:
+ 75: 0x04A6 [0x2B] Ayame (ID: 17788985/0x010F7039) [10300*]:
     → "Unless you cannot see the box in front of you, Uncle Ryoma, the only treasure is there in Leodarion's hands."
  76: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x04AE [0x79] Ryoma (ID: 17788986/0x010F703A) looks at Ayame (ID: 17788985/0x010F7039) (Basic look)
- 78: 0x04B8 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10300*]:
+ 78: 0x04B8 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10301*]:
     → "Ayaya...? Ayaya! What are you doing here?"
  79: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x04C0 [0x4A] Ayame (ID: 17788985/0x010F7039) looks at Ryoma (ID: 17788986/0x010F703A)
@@ -737,24 +737,24 @@
  85: 0x04E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  86: 0x04F9 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17788985/0x010F7039))
  87: 0x04FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bke0" with entities [Ayame (ID: 17788985/0x010F7039), Ayame (ID: 17788985/0x010F7039)], work=11*
- 88: 0x050E [0x2B] Ayame (ID: 17788985/0x010F7039) [10301*]:
+ 88: 0x050E [0x2B] Ayame (ID: 17788985/0x010F7039) [10302*]:
     → "It is unfortunate that we must meet again under these circumstances, Uncle."
  89: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0516 [0x2B] Ayame (ID: 17788985/0x010F7039) [10302*]:
+ 90: 0x0516 [0x2B] Ayame (ID: 17788985/0x010F7039) [10303*]:
     → "I have been assigned by the Bastok government as the head of foreign policy relating to Norg. This includes observation of its members' actions..."
  91: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x051E [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=219*
  93: 0x052D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  94: 0x053E [0x4A] Ryoma (ID: 17788986/0x010F703A) looks at Ayame (ID: 17788985/0x010F7039)
- 95: 0x0547 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10303*]:
+ 95: 0x0547 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10304*]:
     → "You mean...you've been watching me this whole time?"
  96: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x054F [0x6B] STOP_AND_IDLE: Ayame (ID: 17788985/0x010F7039) stops current action and resets to idle (animation="id10")
- 98: 0x0558 [0x2B] Ayame (ID: 17788985/0x010F7039) [10304*]:
+ 98: 0x0558 [0x2B] Ayame (ID: 17788985/0x010F7039) [10305*]:
     → "I was just following my orders. When we learned that the members of Norg were once again searching for a lost treasure, I had no choice but to follow you here to gather information."
  99: 0x055F [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0560 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Ryoma (ID: 17788986/0x010F703A), Ryoma (ID: 17788986/0x010F703A)], work=0*
-101: 0x056F [0x2B] Ryoma (ID: 17788986/0x010F703A) [10305*]:
+101: 0x056F [0x2B] Ryoma (ID: 17788986/0x010F703A) [10306*]:
     → "So, you really are a Musketeer..."
 102: 0x0576 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0577 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=219*
@@ -762,52 +762,52 @@
 105: 0x0597 [0x6B] STOP_AND_IDLE: Ayame (ID: 17788985/0x010F7039) stops current action and resets to idle (animation="idl0")
 106: 0x05A0 [0x79] Ayame (ID: 17788985/0x010F7039) looks at Leodarion (ID: 17788983/0x010F7037) (Basic look)
 107: 0x05AA [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17788985/0x010F7039), tag_num=0x04)
-108: 0x05B1 [0x2B] Ayame (ID: 17788985/0x010F7039) [10306*]:
+108: 0x05B1 [0x2B] Ayame (ID: 17788985/0x010F7039) [10307*]:
     → "Mister...Leodarion. I have heard your story from my father. I feel that I, too, know the true value of that treasure you hold."
 109: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x05B9 [0x4A] Leodarion (ID: 17788983/0x010F7037) looks at Ayame (ID: 17788985/0x010F7039)
-111: 0x05C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
+111: 0x05C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
     → "Wait... You're Yomi's daughter, aren't you? Yes, I finally think I know what my grandfather was trying to say in his will..."
 112: 0x05C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x05C6 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17788985/0x010F7039))
 114: 0x05CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17788985/0x010F7039), Ayame (ID: 17788985/0x010F7039)], work=10*
-115: 0x05DB [0x2B] Ayame (ID: 17788985/0x010F7039) [10308*]:
+115: 0x05DB [0x2B] Ayame (ID: 17788985/0x010F7039) [10309*]:
     → "A piece of that person lives on in everything a true master leaves behind. I can feel it whenever I see my mother's blade, just as you can with that box."
 116: 0x05E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x05E3 [0x7B] Ayame (ID: 17788985/0x010F7039) stops talking
-118: 0x05E8 [0x2B] Ayame (ID: 17788985/0x010F7039) [10309*]:
+118: 0x05E8 [0x2B] Ayame (ID: 17788985/0x010F7039) [10310*]:
     → "I feel it even more when I see how that blade affects the lives of the people around it."
 119: 0x05EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x05F0 [0x6B] STOP_AND_IDLE: Ayame (ID: 17788985/0x010F7039) stops current action and resets to idle (animation="idl0")
-121: 0x05F9 [0x2B] Ayame (ID: 17788985/0x010F7039) [10310*]:
+121: 0x05F9 [0x2B] Ayame (ID: 17788985/0x010F7039) [10311*]:
     → "Because of the message that my mother left for me within that blade, I was able to find my own path in life. That path led me to Norg."
 122: 0x0600 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0601 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-124: 0x0610 [0x1D] PRINT_EVENT_MESSAGE(message_id=10311*)
+124: 0x0610 [0x1D] PRINT_EVENT_MESSAGE(message_id=10312*)
     → "I see. As much as we try to follow in someone's footsteps, there are places that we will never reach. That is why we must concentrate on finding our own paths."
 125: 0x0613 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0614 [0x52] END_LOAD_SCHEDULER: End scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=219*
 127: 0x0623 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
 128: 0x0634 [0x4A] Ayame (ID: 17788985/0x010F7039) looks at Ryoma (ID: 17788986/0x010F703A)
-129: 0x063D [0x2B] Ayame (ID: 17788985/0x010F7039) [10312*]:
+129: 0x063D [0x2B] Ayame (ID: 17788985/0x010F7039) [10313*]:
     → "Exactly. Uncle, would it be too much to ask to let Mister Leodarion keep his grandfather's box?"
 130: 0x0644 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0645 [0x7B] Ryoma (ID: 17788986/0x010F703A) stops talking
-132: 0x064A [0x2B] Ryoma (ID: 17788986/0x010F703A) [10313*]:
+132: 0x064A [0x2B] Ryoma (ID: 17788986/0x010F703A) [10314*]:
     → "Too much to ask? Who needs a dirty old empty box, anyway!? What a waste of time!"
 133: 0x0651 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0652 [0x4B] UPDATE_ENTITY_YAW(entity=Ryoma (ID: 17788986/0x010F703A), yaw=6.7°*)
-135: 0x0659 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10314*]:
+135: 0x0659 [0x2B] Ryoma (ID: 17788986/0x010F703A) [10315*]:
     → "Oh, and tell your good-for-nothing father to make sure that Kaede comes out to be a little more "understanding" than her sister!"
 136: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0661 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=219*
 138: 0x0670 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
 139: 0x0681 [0x27] REQ_SET(priority=0x0A, entity_id=Ryoma (ID: 17788986/0x010F703A), tag_num=0x04)
-140: 0x0688 [0x2B] Ayame (ID: 17788985/0x010F7039) [10315*]:
+140: 0x0688 [0x2B] Ayame (ID: 17788985/0x010F7039) [10316*]:
     → "I will be sure to tell him, though I cannot guarantee that Kaede will grow up to be like my mother."
 141: 0x068F [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0690 [0x4A] Ayame (ID: 17788985/0x010F7039) looks at Leodarion (ID: 17788983/0x010F7037)
-143: 0x0699 [0x2B] Ayame (ID: 17788985/0x010F7039) [10316*]:
+143: 0x0699 [0x2B] Ayame (ID: 17788985/0x010F7039) [10317*]:
     → "Farewell."
 144: 0x06A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x06A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -817,13 +817,13 @@
 149: 0x06B1 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=219*
 150: 0x06C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
 151: 0x06D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
-152: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10317*)
+152: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10318*)
     → "Wait! I think this box may hold a hint into opening my grandfather's $3. I used to try when I was a child, but I never could."
 153: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x06E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10318*)
+154: 0x06E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10319*)
     → "Maybe there is a treasure in there..."
 155: 0x06E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x06E8 [0x2B] Ayame (ID: 17788985/0x010F7039) [10319*]:
+156: 0x06E8 [0x2B] Ayame (ID: 17788985/0x010F7039) [10320*]:
     → "I am going to forget what you just told me. I am not a pirate nor a treasure hunter. I have no interest in what lies in that $3. If you need assistance, try asking this adventurer."
 157: 0x06EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x06F0 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -831,21 +831,21 @@
 160: 0x06FC [0x1C] WAIT(60* ticks)
 161: 0x06FF [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=219*
 162: 0x070E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
-163: 0x071F [0x1D] PRINT_EVENT_MESSAGE(message_id=10320*)
+163: 0x071F [0x1D] PRINT_EVENT_MESSAGE(message_id=10321*)
     → "Wow..."
 164: 0x0722 [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x0723 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 208*
 166: 0x0727 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 208*
 167: 0x072B [0x4A] Leodarion (ID: 17788983/0x010F7037) looks at LocalPlayer
-168: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=10321*)
+168: 0x0734 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
     → "Anyway. I'm grateful for all you've done for me. That's why I'm going to let you in on my secret."
 169: 0x0737 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0738 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-171: 0x0747 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
+171: 0x0747 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
     → "Long ago, my grandfather hid his $3 inside a treasure chest deep within the Kuftal Tunnel. After looking at this $3, I think I can open it now."
 172: 0x074A [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x074B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-174: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
+174: 0x0750 [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
     → "If you bring it to me, I'll give you whatever's inside. What do you say?"
 175: 0x0753 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0754 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -881,11 +881,11 @@
   0: 0x0798 [0x03] Work_Zone[9] = 470*
   1: 0x079D [0x03] Work_Zone[8] = 471*
   2: 0x07A2 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x07A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10322*)
+  3: 0x07A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
     → "Long ago, my grandfather hid his $3 inside a treasure chest deep within the Kuftal Tunnel. After looking at this $3, I think I can open it now."
   4: 0x07AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x07BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10323*)
+  6: 0x07BA [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
     → "If you bring it to me, I'll give you whatever's inside. What do you say?"
   7: 0x07BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x07BE [0x21] END_EVENT
@@ -940,7 +940,7 @@
   8: 0x07F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
   9: 0x0808 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  10: 0x0819 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 11: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=10324*)
+ 11: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=10325*)
     → "You've brought back the $3! Here, let me see if I can open it."
  12: 0x0821 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0822 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -951,7 +951,7 @@
  18: 0x0865 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x0876 [0x1C] WAIT(30* ticks)
  20: 0x0879 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 21: 0x0888 [0x1D] PRINT_EVENT_MESSAGE(message_id=10325*)
+ 21: 0x0888 [0x1D] PRINT_EVENT_MESSAGE(message_id=10326*)
     → "Yes. I knew I could do it! Here, take what was inside. My grandfather would have wanted you to have it."
  22: 0x088B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x088C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

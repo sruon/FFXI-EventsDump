@@ -26,251 +26,251 @@
 |---------|-------------|-------------|
 |       0 | 0x00D7      |         215 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1EA9      |        7849 |
-|       3 | 0x1EAA      |        7850 |
+|       2 | 0x1EAA      |        7850 |
+|       3 | 0x1EAB      |        7851 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x0004      |           4 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x065B      |        1627 |
-|      10 | 0x1EAB      |        7851 |
-|      11 | 0x1EAC      |        7852 |
-|      12 | 0x1EAD      |        7853 |
-|      13 | 0x1EAE      |        7854 |
-|      14 | 0x1EA3      |        7843 |
-|      15 | 0x1EAF      |        7855 |
+|      10 | 0x1EAC      |        7852 |
+|      11 | 0x1EAD      |        7853 |
+|      12 | 0x1EAE      |        7854 |
+|      13 | 0x1EAF      |        7855 |
+|      14 | 0x1EA4      |        7844 |
+|      15 | 0x1EB0      |        7856 |
 |      16 | 0xFFFC932F  |  4294742831 |
 |      17 | 0x4F23B     |      324155 |
-|      18 | 0x1EB0      |        7856 |
-|      19 | 0x1EB1      |        7857 |
-|      20 | 0x1EBD      |        7869 |
-|      21 | 0x1EBE      |        7870 |
-|      22 | 0x1EBF      |        7871 |
-|      23 | 0x1EC0      |        7872 |
-|      24 | 0x1EC1      |        7873 |
-|      25 | 0x1EC2      |        7874 |
-|      26 | 0x1EC3      |        7875 |
+|      18 | 0x1EB1      |        7857 |
+|      19 | 0x1EB2      |        7858 |
+|      20 | 0x1EBE      |        7870 |
+|      21 | 0x1EBF      |        7871 |
+|      22 | 0x1EC0      |        7872 |
+|      23 | 0x1EC1      |        7873 |
+|      24 | 0x1EC2      |        7874 |
+|      25 | 0x1EC3      |        7875 |
+|      26 | 0x1EC4      |        7876 |
 |      27 | 0x065C      |        1628 |
-|      28 | 0x1ECE      |        7886 |
-|      29 | 0x1ECF      |        7887 |
-|      30 | 0x1ED0      |        7888 |
-|      31 | 0x1ED1      |        7889 |
+|      28 | 0x1ECF      |        7887 |
+|      29 | 0x1ED0      |        7888 |
+|      30 | 0x1ED1      |        7889 |
+|      31 | 0x1ED2      |        7890 |
 |      32 | 0xFFFBF6E7  |  4294702823 |
 |      33 | 0x40C9C     |      265372 |
-|      34 | 0x1ED2      |        7890 |
-|      35 | 0x1ED3      |        7891 |
-|      36 | 0x1EDE      |        7902 |
-|      37 | 0x1EDF      |        7903 |
-|      38 | 0x1EE0      |        7904 |
-|      39 | 0x1EE1      |        7905 |
-|      40 | 0x1EE2      |        7906 |
-|      41 | 0x1EE3      |        7907 |
-|      42 | 0x1EE4      |        7908 |
+|      34 | 0x1ED3      |        7891 |
+|      35 | 0x1ED4      |        7892 |
+|      36 | 0x1EDF      |        7903 |
+|      37 | 0x1EE0      |        7904 |
+|      38 | 0x1EE1      |        7905 |
+|      39 | 0x1EE2      |        7906 |
+|      40 | 0x1EE3      |        7907 |
+|      41 | 0x1EE4      |        7908 |
+|      42 | 0x1EE5      |        7909 |
 |      43 | 0x00D9      |         217 |
 |      44 | 0x065D      |        1629 |
-|      45 | 0x1EEF      |        7919 |
-|      46 | 0x1EF0      |        7920 |
-|      47 | 0x1EF1      |        7921 |
-|      48 | 0x1EF2      |        7922 |
+|      45 | 0x1EF0      |        7920 |
+|      46 | 0x1EF1      |        7921 |
+|      47 | 0x1EF2      |        7922 |
+|      48 | 0x1EF3      |        7923 |
 |      49 | 0x065F      |        1631 |
-|      50 | 0x1EFD      |        7933 |
-|      51 | 0x1EFE      |        7934 |
-|      52 | 0x1EFF      |        7935 |
-|      53 | 0x1F00      |        7936 |
+|      50 | 0x1EFE      |        7934 |
+|      51 | 0x1EFF      |        7935 |
+|      52 | 0x1F00      |        7936 |
+|      53 | 0x1F01      |        7937 |
 |      54 | 0x0006      |           6 |
 |      55 | 0x007C      |         124 |
-|      56 | 0x1EB2      |        7858 |
-|      57 | 0x1EB3      |        7859 |
-|      58 | 0x1EB4      |        7860 |
+|      56 | 0x1EB3      |        7859 |
+|      57 | 0x1EB4      |        7860 |
+|      58 | 0x1EB5      |        7861 |
 |      59 | 0x0007      |           7 |
-|      60 | 0x1EB5      |        7861 |
+|      60 | 0x1EB6      |        7862 |
 |      61 | 0x007F      |         127 |
-|      62 | 0x1EC4      |        7876 |
-|      63 | 0x1EC5      |        7877 |
+|      62 | 0x1EC5      |        7877 |
+|      63 | 0x1EC6      |        7878 |
 |      64 | 0x0008      |           8 |
-|      65 | 0x1EC6      |        7878 |
+|      65 | 0x1EC7      |        7879 |
 |      66 | 0x0082      |         130 |
-|      67 | 0x1ED4      |        7892 |
-|      68 | 0x1ED5      |        7893 |
+|      67 | 0x1ED5      |        7893 |
+|      68 | 0x1ED6      |        7894 |
 |      69 | 0x0009      |           9 |
-|      70 | 0x1ED6      |        7894 |
+|      70 | 0x1ED7      |        7895 |
 |      71 | 0x0085      |         133 |
-|      72 | 0x1EE5      |        7909 |
-|      73 | 0x1EE6      |        7910 |
+|      72 | 0x1EE6      |        7910 |
+|      73 | 0x1EE7      |        7911 |
 |      74 | 0x000A      |          10 |
 |      75 | 0x0088      |         136 |
-|      76 | 0x1EF3      |        7923 |
-|      77 | 0x1EF4      |        7924 |
+|      76 | 0x1EF4      |        7924 |
+|      77 | 0x1EF5      |        7925 |
 |      78 | 0x000B      |          11 |
-|      79 | 0x1EF5      |        7925 |
+|      79 | 0x1EF6      |        7926 |
 |      80 | 0x008B      |         139 |
-|      81 | 0x1F01      |        7937 |
-|      82 | 0x1F02      |        7938 |
+|      81 | 0x1F02      |        7938 |
+|      82 | 0x1F03      |        7939 |
 |      83 | 0x000C      |          12 |
-|      84 | 0x1F03      |        7939 |
-|      85 | 0x1EB7      |        7863 |
-|      86 | 0x1EB8      |        7864 |
-|      87 | 0x1EBC      |        7868 |
-|      88 | 0x1EB9      |        7865 |
-|      89 | 0x1EBA      |        7866 |
-|      90 | 0x1EBB      |        7867 |
+|      84 | 0x1F04      |        7940 |
+|      85 | 0x1EB8      |        7864 |
+|      86 | 0x1EB9      |        7865 |
+|      87 | 0x1EBD      |        7869 |
+|      88 | 0x1EBA      |        7866 |
+|      89 | 0x1EBB      |        7867 |
+|      90 | 0x1EBC      |        7868 |
 |      91 | 0x000D      |          13 |
-|      92 | 0x1EC8      |        7880 |
-|      93 | 0x1EC9      |        7881 |
-|      94 | 0x1ECD      |        7885 |
-|      95 | 0x1ECA      |        7882 |
-|      96 | 0x1ECB      |        7883 |
-|      97 | 0x1ECC      |        7884 |
+|      92 | 0x1EC9      |        7881 |
+|      93 | 0x1ECA      |        7882 |
+|      94 | 0x1ECE      |        7886 |
+|      95 | 0x1ECB      |        7883 |
+|      96 | 0x1ECC      |        7884 |
+|      97 | 0x1ECD      |        7885 |
 |      98 | 0x000E      |          14 |
-|      99 | 0x1ED8      |        7896 |
-|     100 | 0x1ED9      |        7897 |
-|     101 | 0x1EDD      |        7901 |
-|     102 | 0x1EDA      |        7898 |
-|     103 | 0x1EDB      |        7899 |
-|     104 | 0x1EDC      |        7900 |
+|      99 | 0x1ED9      |        7897 |
+|     100 | 0x1EDA      |        7898 |
+|     101 | 0x1EDE      |        7902 |
+|     102 | 0x1EDB      |        7899 |
+|     103 | 0x1EDC      |        7900 |
+|     104 | 0x1EDD      |        7901 |
 |     105 | 0x000F      |          15 |
-|     106 | 0x1EE9      |        7913 |
-|     107 | 0x1EEA      |        7914 |
-|     108 | 0x1EEE      |        7918 |
-|     109 | 0x1EEB      |        7915 |
-|     110 | 0x1EEC      |        7916 |
-|     111 | 0x1EED      |        7917 |
+|     106 | 0x1EEA      |        7914 |
+|     107 | 0x1EEB      |        7915 |
+|     108 | 0x1EEF      |        7919 |
+|     109 | 0x1EEC      |        7916 |
+|     110 | 0x1EED      |        7917 |
+|     111 | 0x1EEE      |        7918 |
 |     112 | 0x0010      |          16 |
-|     113 | 0x1EF7      |        7927 |
-|     114 | 0x1EF8      |        7928 |
-|     115 | 0x1EFC      |        7932 |
-|     116 | 0x1EF9      |        7929 |
-|     117 | 0x1EFA      |        7930 |
-|     118 | 0x1EFB      |        7931 |
+|     113 | 0x1EF8      |        7928 |
+|     114 | 0x1EF9      |        7929 |
+|     115 | 0x1EFD      |        7933 |
+|     116 | 0x1EFA      |        7930 |
+|     117 | 0x1EFB      |        7931 |
+|     118 | 0x1EFC      |        7932 |
 |     119 | 0x0011      |          17 |
-|     120 | 0x1F05      |        7941 |
-|     121 | 0x1F06      |        7942 |
-|     122 | 0x1F0A      |        7946 |
-|     123 | 0x1F07      |        7943 |
-|     124 | 0x1F08      |        7944 |
-|     125 | 0x1F09      |        7945 |
+|     120 | 0x1F06      |        7942 |
+|     121 | 0x1F07      |        7943 |
+|     122 | 0x1F0B      |        7947 |
+|     123 | 0x1F08      |        7944 |
+|     124 | 0x1F09      |        7945 |
+|     125 | 0x1F0A      |        7946 |
 |     126 | 0x0012      |          18 |
-|     127 | 0x1EB6      |        7862 |
+|     127 | 0x1EB7      |        7863 |
 |     128 | 0x0013      |          19 |
-|     129 | 0x1EC7      |        7879 |
+|     129 | 0x1EC8      |        7880 |
 |     130 | 0x0014      |          20 |
-|     131 | 0x1ED7      |        7895 |
+|     131 | 0x1ED8      |        7896 |
 |     132 | 0x0015      |          21 |
-|     133 | 0x1EE8      |        7912 |
+|     133 | 0x1EE9      |        7913 |
 |     134 | 0x0016      |          22 |
-|     135 | 0x1EF6      |        7926 |
+|     135 | 0x1EF7      |        7927 |
 |     136 | 0x0017      |          23 |
-|     137 | 0x1F04      |        7940 |
+|     137 | 0x1F05      |        7941 |
 |     138 | 0x0018      |          24 |
-|     139 | 0x1F2A      |        7978 |
+|     139 | 0x1F2B      |        7979 |
 |     140 | 0x001F      |          31 |
 |     141 | 0x065E      |        1630 |
 |     142 | 0x0660      |        1632 |
-|     143 | 0x1F2B      |        7979 |
+|     143 | 0x1F2C      |        7980 |
 
 ## String References
 
-- **7843**: Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
-- **7849**: Greetings. I am charged with enlisting volunteers for resistance operations. Do you have a mind to do your part for mankind's struggle for survival?
-- **7850**: Undertake which operation? [Ward Warden I./Ward Warden II./Desert Rain I./Desert Rain II./Crimson Carpet I./Crimson Carpet II./Nothing for now.]
-- **7851**: The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location.
-- **7852**: Being highly fragile, these materials must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled.
-- **7853**: Should it rupture and spill its contents to the ground, the materials will no longer be fit for use. In which case, you will be required to start over from the beginning.
-- **7854**: The more materials you can transport safely, the more highly you will be evaluated and rewarded.
-- **7855**: Undertake this operation? [Yes./No.]
-- **7856**: Very well. I shall issue you with this $3.
-- **7857**: Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally.
-- **7858**: What is it? Don't tell me you mean to abandon your mission.
-- **7859**: Call it quits? [Yes./No.]
-- **7860**: You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste.
-- **7861**: Still determined to complete your task? Well then, carry on, soldier!
-- **7862**: Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack.
-- **7863**: Ah, you've returned. Without any ado, I will take the $3 off your hands.
-- **7864**: Why, it's literally bursting with repair materials! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5.
-- **7865**: I see you've managed to cram in a goodly amount of repair materials. Well done.
-- **7866**: Hmm... Not a bad effort, but my eyes tell me there's room still to fit more repair materials.
-- **7867**: Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory."
-- **7868**: Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it.
-- **7869**: The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location.
-- **7870**: As we require a sizeable shipment of materials to be delivered, you will need to employ a pack chocobo.
-- **7871**: There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation.
-- **7872**: Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case.
-- **7873**: Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task.
-- **7874**: Very well. I will send word to the chocobo tamer to have a bird readied.
-- **7875**: Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally.
-- **7876**: What is it? Don't tell me you mean to abandon your mission.
-- **7877**: You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds.
-- **7878**: Still determined to complete your task? Well then, carry on, soldier!
-- **7879**: Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not...
-- **7880**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
-- **7881**: Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier.
-- **7882**: So the chocobo survived the rigors of the mission in sound shape. Well done.
-- **7883**: Hmm... In no worse shape than the birds that usually come back to us, I suppose.
-- **7884**: Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future.
-- **7885**: Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it.
-- **7886**: The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location.
-- **7887**: Being highly volatile, these provisions must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled.
-- **7888**: Should it rupture and spill its contents to the ground, the provisions will no longer be fit for use. In which case, you will be required to start over from the beginning.
-- **7889**: The more provisions you can transport safely, the more highly you will be evaluated and rewarded.
-- **7890**: Very well. I shall issue you with this $3.
-- **7891**: Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally.
-- **7892**: What is it? Don't tell me you mean to abandon your mission.
-- **7893**: You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste.
-- **7894**: Still determined to complete your task? Well then, carry on, soldier!
-- **7895**: Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack.
-- **7896**: Ah, you've returned. Without any ado, I will take the $3 off your hands.
-- **7897**: Why, it's literally bursting with provisions! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5.
-- **7898**: I see you've managed to cram in a goodly amount of provisions. Well done.
-- **7899**: Hmm... Not a bad effort, but my eyes tell me there's room still to fit more provisions.
-- **7900**: Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory."
-- **7901**: Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it.
-- **7902**: The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location.
-- **7903**: As we require a sizeable shipment of provisions to be delivered, you will need to employ a pack chocobo.
-- **7904**: There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation.
-- **7905**: Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case.
-- **7906**: Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task.
-- **7907**: Very well. I will send word to the chocobo tamer to have a bird readied.
-- **7908**: Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally.
-- **7909**: What is it? Don't tell me you mean to abandon your mission.
-- **7910**: You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds.
-- **7912**: Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not...
-- **7913**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
-- **7914**: Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier.
-- **7915**: So the chocobo survived the rigors of the mission in sound shape. Well done.
-- **7916**: Hmm... In no worse shape than the birds that usually come back to us, I suppose.
-- **7917**: Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future.
-- **7918**: Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it.
-- **7919**: Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a rear trap with $3, its energy source.
-- **7920**: Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion.
-- **7921**: The rear trap is designed to afflict hapless enemies with paralysis. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency.
-- **7922**: Very well. I shall issue you with $3.
-- **7923**: What is it? Don't tell me you mean to abandon your mission.
-- **7924**: You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste.
-- **7925**: Still determined to complete your task? Well then, carry on, soldier!
-- **7926**: Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not...
-- **7927**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
-- **7928**: You were able to infuse the rear trap to the last drop? Amazing! You are to be thoroughly commended, soldier.
-- **7929**: So you managed to infuse the rear trap with hardly any spillage. Well done.
-- **7930**: Hmm... So you managed to infuse the rear trap without excess spillage. Though there's still room for improvement, to be sure.
-- **7931**: Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success.
-- **7932**: Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it.
-- **7933**: Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a fore trap with $3, its energy source.
-- **7934**: Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion.
-- **7935**: The fore trap is designed to afflict hapless enemies with weakened attack. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency.
-- **7936**: Very well. I shall issue you with $3.
-- **7937**: What is it? Don't tell me you mean to abandon your mission.
-- **7938**: You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste.
-- **7939**: Still determined to complete your task? Well then, carry on, soldier!
-- **7940**: Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not...
-- **7941**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
-- **7942**: You were able to infuse the fore trap to the last drop? Amazing! You are to be thoroughly commended, soldier.
-- **7943**: So you managed to infuse the fore trap with hardly any spillage. Well done.
-- **7944**: Hmm... So you managed to infuse the fore trap without excess spillage. Though there's still room for improvement, to be sure.
-- **7945**: Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success.
-- **7946**: Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it.
-- **7978**: Take yer pick, scrag. [Type: $0/Clear flag: [off/on]/Evaluation value: $2/Other: $3/Clearance flag: [on/off]/Key items./Nothing.]
-- **7979**: Take yer pick, scrag. [$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/Nothing.]
+- **7844**: Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset.
+- **7850**: Greetings. I am charged with enlisting volunteers for resistance operations. Do you have a mind to do your part for mankind's struggle for survival?
+- **7851**: Undertake which operation? [Ward Warden I./Ward Warden II./Desert Rain I./Desert Rain II./Crimson Carpet I./Crimson Carpet II./Nothing for now.]
+- **7852**: The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location.
+- **7853**: Being highly fragile, these materials must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled.
+- **7854**: Should it rupture and spill its contents to the ground, the materials will no longer be fit for use. In which case, you will be required to start over from the beginning.
+- **7855**: The more materials you can transport safely, the more highly you will be evaluated and rewarded.
+- **7856**: Undertake this operation? [Yes./No.]
+- **7857**: Very well. I shall issue you with this $3.
+- **7858**: Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally.
+- **7859**: What is it? Don't tell me you mean to abandon your mission.
+- **7860**: Call it quits? [Yes./No.]
+- **7861**: You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste.
+- **7862**: Still determined to complete your task? Well then, carry on, soldier!
+- **7863**: Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack.
+- **7864**: Ah, you've returned. Without any ado, I will take the $3 off your hands.
+- **7865**: Why, it's literally bursting with repair materials! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5.
+- **7866**: I see you've managed to cram in a goodly amount of repair materials. Well done.
+- **7867**: Hmm... Not a bad effort, but my eyes tell me there's room still to fit more repair materials.
+- **7868**: Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory."
+- **7869**: Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it.
+- **7870**: The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location.
+- **7871**: As we require a sizeable shipment of materials to be delivered, you will need to employ a pack chocobo.
+- **7872**: There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation.
+- **7873**: Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case.
+- **7874**: Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task.
+- **7875**: Very well. I will send word to the chocobo tamer to have a bird readied.
+- **7876**: Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally.
+- **7877**: What is it? Don't tell me you mean to abandon your mission.
+- **7878**: You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds.
+- **7879**: Still determined to complete your task? Well then, carry on, soldier!
+- **7880**: Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not...
+- **7881**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
+- **7882**: Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier.
+- **7883**: So the chocobo survived the rigors of the mission in sound shape. Well done.
+- **7884**: Hmm... In no worse shape than the birds that usually come back to us, I suppose.
+- **7885**: Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future.
+- **7886**: Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it.
+- **7887**: The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location.
+- **7888**: Being highly volatile, these provisions must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled.
+- **7889**: Should it rupture and spill its contents to the ground, the provisions will no longer be fit for use. In which case, you will be required to start over from the beginning.
+- **7890**: The more provisions you can transport safely, the more highly you will be evaluated and rewarded.
+- **7891**: Very well. I shall issue you with this $3.
+- **7892**: Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally.
+- **7893**: What is it? Don't tell me you mean to abandon your mission.
+- **7894**: You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste.
+- **7895**: Still determined to complete your task? Well then, carry on, soldier!
+- **7896**: Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack.
+- **7897**: Ah, you've returned. Without any ado, I will take the $3 off your hands.
+- **7898**: Why, it's literally bursting with provisions! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5.
+- **7899**: I see you've managed to cram in a goodly amount of provisions. Well done.
+- **7900**: Hmm... Not a bad effort, but my eyes tell me there's room still to fit more provisions.
+- **7901**: Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory."
+- **7902**: Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it.
+- **7903**: The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location.
+- **7904**: As we require a sizeable shipment of provisions to be delivered, you will need to employ a pack chocobo.
+- **7905**: There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation.
+- **7906**: Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case.
+- **7907**: Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task.
+- **7908**: Very well. I will send word to the chocobo tamer to have a bird readied.
+- **7909**: Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally.
+- **7910**: What is it? Don't tell me you mean to abandon your mission.
+- **7911**: You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds.
+- **7913**: Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not...
+- **7914**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
+- **7915**: Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier.
+- **7916**: So the chocobo survived the rigors of the mission in sound shape. Well done.
+- **7917**: Hmm... In no worse shape than the birds that usually come back to us, I suppose.
+- **7918**: Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future.
+- **7919**: Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it.
+- **7920**: Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a rear trap with $3, its energy source.
+- **7921**: Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion.
+- **7922**: The rear trap is designed to afflict hapless enemies with paralysis. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency.
+- **7923**: Very well. I shall issue you with $3.
+- **7924**: What is it? Don't tell me you mean to abandon your mission.
+- **7925**: You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste.
+- **7926**: Still determined to complete your task? Well then, carry on, soldier!
+- **7927**: Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not...
+- **7928**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
+- **7929**: You were able to infuse the rear trap to the last drop? Amazing! You are to be thoroughly commended, soldier.
+- **7930**: So you managed to infuse the rear trap with hardly any spillage. Well done.
+- **7931**: Hmm... So you managed to infuse the rear trap without excess spillage. Though there's still room for improvement, to be sure.
+- **7932**: Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success.
+- **7933**: Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it.
+- **7934**: Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a fore trap with $3, its energy source.
+- **7935**: Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion.
+- **7936**: The fore trap is designed to afflict hapless enemies with weakened attack. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency.
+- **7937**: Very well. I shall issue you with $3.
+- **7938**: What is it? Don't tell me you mean to abandon your mission.
+- **7939**: You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste.
+- **7940**: Still determined to complete your task? Well then, carry on, soldier!
+- **7941**: Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not...
+- **7942**: Ah, you've returned. Without any ado, brief me on the outcome of your mission.
+- **7943**: You were able to infuse the fore trap to the last drop? Amazing! You are to be thoroughly commended, soldier.
+- **7944**: So you managed to infuse the fore trap with hardly any spillage. Well done.
+- **7945**: Hmm... So you managed to infuse the fore trap without excess spillage. Though there's still room for improvement, to be sure.
+- **7946**: Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success.
+- **7947**: Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it.
+- **7979**: Take yer pick, scrag. [Type: $0/Clear flag: [off/on]/Evaluation value: $2/Other: $3/Clearance flag: [on/off]/Key items./Nothing.]
+- **7980**: Take yer pick, scrag. [$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/Nothing.]
 
 ## Events
 
@@ -376,12 +376,12 @@
   0: 0x0002 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
   1: 0x0007 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
   2: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+  3: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "Greetings. I am charged with enlisting volunteers for resistance operations. Do you have a mind to do your part for mankind's struggle for survival?"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0016 [0x06] ExtData[1]->WorkLocal[0] = 0
   6: 0x0019 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0085
-  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7850*, default_option=0*, option_flags=0*)
+  7: 0x0021 [0x24] CREATE_DIALOG(message_id=7851*, default_option=0*, option_flags=0*)
     → "Undertake which operation? [Ward Warden I./Ward Warden II./Desert Rain I./Desert Rain II./Crimson Carpet I./Crimson Carpet II./Nothing for now.]"
   8: 0x0028 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037
@@ -411,21 +411,21 @@ SUBROUTINE_0082:
 
 SUBROUTINE_0087:
  31: 0x0087 [0x03] Work_Zone[2] = 1627*
- 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
+ 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
     → "The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location."
  33: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+ 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Being highly fragile, these materials must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled."
  35: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+ 36: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "Should it rupture and spill its contents to the ground, the materials will no longer be fit for use. In which case, you will be required to start over from the beginning."
  37: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+ 38: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "The more materials you can transport safely, the more highly you will be evaluated and rewarded."
  39: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x009C [0x48] [System] [7843*]:
+ 40: 0x009C [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
- 41: 0x009F [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+ 41: 0x009F [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
  42: 0x00A6 [0x25] WAIT_DIALOG_SELECT()
  43: 0x00A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0114
@@ -439,24 +439,24 @@ SUBROUTINE_0117:
  49: 0x0117 [0x1B] RETURN
 
 SUBROUTINE_0118:
- 50: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
+ 50: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
     → "The pulse martello and the clone wards are critical to the resistance effort, and must always be kept in prime condition. Your task involves transporting the materials necessary for their repair and maintenance from the stockpile to this location."
  51: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7870*)
+ 52: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
     → "As we require a sizeable shipment of materials to be delivered, you will need to employ a pack chocobo."
  53: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7871*)
+ 54: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
     → "There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation."
  55: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7872*)
+ 56: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
     → "Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case."
  57: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7873*)
+ 58: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
     → "Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task."
  59: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x012C [0x48] [System] [7843*]:
+ 60: 0x012C [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
- 61: 0x012F [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+ 61: 0x012F [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
  62: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  63: 0x0137 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019F
@@ -471,21 +471,21 @@ SUBROUTINE_01A2:
 
 SUBROUTINE_01A3:
  70: 0x01A3 [0x03] Work_Zone[2] = 1628*
- 71: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
+ 71: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
     → "The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location."
  72: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
+ 73: 0x01AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
     → "Being highly volatile, these provisions must be conveyed within $6. This enchanted sack keeps its contents in pristine condition, but will inevitably tear if overfilled."
  74: 0x01AF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
+ 75: 0x01B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
     → "Should it rupture and spill its contents to the ground, the provisions will no longer be fit for use. In which case, you will be required to start over from the beginning."
  76: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
+ 77: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
     → "The more provisions you can transport safely, the more highly you will be evaluated and rewarded."
  78: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x01B8 [0x48] [System] [7843*]:
+ 79: 0x01B8 [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
- 80: 0x01BB [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+ 80: 0x01BB [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
  81: 0x01C2 [0x25] WAIT_DIALOG_SELECT()
  82: 0x01C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -499,24 +499,24 @@ SUBROUTINE_0233:
  88: 0x0233 [0x1B] RETURN
 
 SUBROUTINE_0234:
- 89: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
+ 89: 0x0234 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
     → "The continual defense of the pulse martello pushes our soldiers to the edge of exhaustion. Your task involves transporting the ensorceled provisions necessary for keeping them in fighting trim from the stockpile to this location."
  90: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+ 91: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "As we require a sizeable shipment of provisions to be delivered, you will need to employ a pack chocobo."
  92: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
+ 93: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
     → "There is one detail to keep in mind. Ever since the Abyssean hordes came to dominate the regional fauna, the birds have grown skittish and will bolt at the slightest provocation."
  94: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+ 95: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "Should the pack chocobo become frightened and flee, the mission will be judged a failure. Needless to say, remuneration will not be awarded in this case."
  96: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+ 97: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Given the difficulties involved, you might wish to consider seeking the cooperation of others for this task."
  98: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x0248 [0x48] [System] [7843*]:
+ 99: 0x0248 [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
-100: 0x024B [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+100: 0x024B [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
 101: 0x0252 [0x25] WAIT_DIALOG_SELECT()
 102: 0x0253 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BB
@@ -531,24 +531,24 @@ SUBROUTINE_02BE:
 
 SUBROUTINE_02BF:
 109: 0x02BF [0x03] Work_Zone[2] = 1629*
-110: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
+110: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
     → "Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a rear trap with $3, its energy source."
 111: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7920*)
+112: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
     → "Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion."
 113: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+114: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "The rear trap is designed to afflict hapless enemies with paralysis. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency."
 115: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x02D0 [0x48] [System] [7843*]:
+116: 0x02D0 [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
-117: 0x02D3 [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+117: 0x02D3 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
 118: 0x02DA [0x25] WAIT_DIALOG_SELECT()
 119: 0x02DB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FA
 120: 0x02E3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 121: 0x02E4 [0x03] Work_Zone[2] = 1629*
-122: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
+122: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
     → "Very well. I shall issue you with $3."
 123: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x02ED [0x03] Work_Zone[1] = 5*
@@ -561,24 +561,24 @@ SUBROUTINE_02FD:
 
 SUBROUTINE_02FE:
 129: 0x02FE [0x03] Work_Zone[2] = 1631*
-130: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+130: 0x0303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "Enfeeblement traps have been laid within the perimeter in order to weaken would-be besiegers. This operation requires you to infuse a fore trap with $3, its energy source."
 131: 0x0306 [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+132: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "Due to the properties of the trap, you are required to be a certain distance away from it when performing the infusion."
 133: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+134: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "The fore trap is designed to afflict hapless enemies with weakened attack. As the potency of this effect is determined by the trap's energy store, it is imperative that the infusion is carried out with the utmost efficiency."
 135: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x030F [0x48] [System] [7843*]:
+136: 0x030F [0x48] [System] [7844*]:
     → "Warning: Changing areas, logging out, or becoming disconnected will cause all data pertinent to this quest to be reset."
-137: 0x0312 [0x24] CREATE_DIALOG(message_id=7855*, default_option=0*, option_flags=0*)
+137: 0x0312 [0x24] CREATE_DIALOG(message_id=7856*, default_option=0*, option_flags=0*)
     → "Undertake this operation? [Yes./No.]"
 138: 0x0319 [0x25] WAIT_DIALOG_SELECT()
 139: 0x031A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0339
 140: 0x0322 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 141: 0x0323 [0x03] Work_Zone[2] = 1631*
-142: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+142: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "Very well. I shall issue you with $3."
 143: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x032C [0x03] Work_Zone[1] = 6*
@@ -597,11 +597,11 @@ SUBROUTINE_033C:
      0x00CA [0x00] END_REQSTACK()
      0x00CB [0x00] END_REQSTACK()
      0x00CC [0x03] Work_Zone[2] = 1627*
-     0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
+     0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
     → "Very well. I shall issue you with this $3."
      0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00D5 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x00FD
-     0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+     0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally."
      0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00E1 [0x8B] SET_EVENT_MARK: Add/update map marker on map 215* at (-224.465*, 324.155*), index=0*, name=(no name)
@@ -619,11 +619,11 @@ SUBROUTINE_033C:
 # Dead code (unreachable instructions):
      0x015A [0x00] END_REQSTACK()
      0x015B [0x00] END_REQSTACK()
-     0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
+     0x015C [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
     → "Very well. I will send word to the chocobo tamer to have a bird readied."
      0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0160 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0188
-     0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
+     0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
     → "Hand me your map. I will mark the stockpile's location upon it. The integrity of our defense is reliant upon the repair materials. See that you do not dally."
      0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x016C [0x8B] SET_EVENT_MARK: Add/update map marker on map 215* at (-224.465*, 324.155*), index=0*, name=(no name)
@@ -642,7 +642,7 @@ SUBROUTINE_033C:
      0x01E6 [0x00] END_REQSTACK()
      0x01E7 [0x00] END_REQSTACK()
      0x01E8 [0x03] Work_Zone[2] = 1628*
-     0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+     0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "Very well. I shall issue you with this $3."
      0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01F1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0219
@@ -651,7 +651,7 @@ SUBROUTINE_033C:
      0x020F [0x00] END_REQSTACK()
      0x0210 [0x00] END_REQSTACK()
      0x0211 [0x00] END_REQSTACK()
-     0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+     0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally."
      0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0216 [0x01] GOTO 0x021F
@@ -664,11 +664,11 @@ SUBROUTINE_033C:
 # Dead code (unreachable instructions):
      0x0276 [0x00] END_REQSTACK()
      0x0277 [0x00] END_REQSTACK()
-     0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+     0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "Very well. I will send word to the chocobo tamer to have a bird readied."
      0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x027C [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x02A4
-     0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+     0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Hand me your map. I will mark the stockpile's location upon it. Our soldiers are counting on the provisions. See that you do not dally."
      0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0288 [0x8B] SET_EVENT_MARK: Add/update map marker on map 217* at (-264.473*, 265.372*), index=0*, name=(no name)
@@ -730,22 +730,22 @@ SUBROUTINE_033C:
   0: 0x033D [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
   1: 0x0342 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0347 [0x02] IF !(ExtData[1]->WorkLocal[1] == 124*) GOTO 0x0385
-  3: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
+  3: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
     → "What is it? Don't tell me you mean to abandon your mission."
   4: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0353 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+  5: 0x0353 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
   6: 0x035A [0x25] WAIT_DIALOG_SELECT()
   7: 0x035B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x037B
   8: 0x0363 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   9: 0x0364 [0x03] Work_Zone[2] = 1627*
- 10: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+ 10: 0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste."
  11: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x036D [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  13: 0x0373 [0x03] Work_Zone[1] = 7*
  14: 0x0378 [0x01] GOTO 0x0382
- 15: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+ 15: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  16: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x037F [0x06] Work_Zone[1] = 0
@@ -753,21 +753,21 @@ SUBROUTINE_033C:
 SUBROUTINE_0382:
  18: 0x0382 [0x01] GOTO 0x04A5
  19: 0x0385 [0x02] IF !(ExtData[1]->WorkLocal[1] == 127*) GOTO 0x03BE
- 20: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
+ 20: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
     → "What is it? Don't tell me you mean to abandon your mission."
  21: 0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0391 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+ 22: 0x0391 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
  23: 0x0398 [0x25] WAIT_DIALOG_SELECT()
  24: 0x0399 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B4
  25: 0x03A1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 26: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
+ 26: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds."
  27: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x03A6 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  29: 0x03AC [0x03] Work_Zone[1] = 8*
  30: 0x03B1 [0x01] GOTO 0x03BB
- 31: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+ 31: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  32: 0x03B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x03B8 [0x06] Work_Zone[1] = 0
@@ -775,22 +775,22 @@ SUBROUTINE_0382:
 SUBROUTINE_03BB:
  34: 0x03BB [0x01] GOTO 0x04A5
  35: 0x03BE [0x02] IF !(ExtData[1]->WorkLocal[1] == 130*) GOTO 0x03FC
- 36: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+ 36: 0x03C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "What is it? Don't tell me you mean to abandon your mission."
  37: 0x03C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x03CA [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+ 38: 0x03CA [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
  39: 0x03D1 [0x25] WAIT_DIALOG_SELECT()
  40: 0x03D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F2
  41: 0x03DA [0x42] SET_CLI_EVENT_CANCEL_DATA()
  42: 0x03DB [0x03] Work_Zone[2] = 1628*
- 43: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
+ 43: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that $6 wasn't put to waste."
  44: 0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x03E4 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  46: 0x03EA [0x03] Work_Zone[1] = 9*
  47: 0x03EF [0x01] GOTO 0x03F9
- 48: 0x03F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7894*)
+ 48: 0x03F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  49: 0x03F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x03F6 [0x06] Work_Zone[1] = 0
@@ -798,21 +798,21 @@ SUBROUTINE_03BB:
 SUBROUTINE_03F9:
  51: 0x03F9 [0x01] GOTO 0x04A5
  52: 0x03FC [0x02] IF !(ExtData[1]->WorkLocal[1] == 133*) GOTO 0x0435
- 53: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+ 53: 0x0404 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "What is it? Don't tell me you mean to abandon your mission."
  54: 0x0407 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0408 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+ 55: 0x0408 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
  56: 0x040F [0x25] WAIT_DIALOG_SELECT()
  57: 0x0410 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x042B
  58: 0x0418 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 59: 0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+ 59: 0x0419 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that a chocobo wasn't lost to the wilds."
  60: 0x041C [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x041D [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  62: 0x0423 [0x03] Work_Zone[1] = 10*
  63: 0x0428 [0x01] GOTO 0x0432
- 64: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+ 64: 0x042B [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  65: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x042F [0x06] Work_Zone[1] = 0
@@ -820,21 +820,21 @@ SUBROUTINE_03F9:
 SUBROUTINE_0432:
  67: 0x0432 [0x01] GOTO 0x04A5
  68: 0x0435 [0x02] IF !(ExtData[1]->WorkLocal[1] == 136*) GOTO 0x046D
- 69: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+ 69: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "What is it? Don't tell me you mean to abandon your mission."
  70: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0441 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+ 71: 0x0441 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
  72: 0x0448 [0x25] WAIT_DIALOG_SELECT()
  73: 0x0449 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0463
  74: 0x0451 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  75: 0x0452 [0x03] Work_Zone[2] = 1629*
- 76: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
+ 76: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste."
  77: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x045B [0x03] Work_Zone[1] = 11*
  79: 0x0460 [0x01] GOTO 0x046A
- 80: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
+ 80: 0x0463 [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  81: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0467 [0x06] Work_Zone[1] = 0
@@ -842,21 +842,21 @@ SUBROUTINE_0432:
 SUBROUTINE_046A:
  83: 0x046A [0x01] GOTO 0x04A5
  84: 0x046D [0x02] IF !(ExtData[1]->WorkLocal[1] == 139*) GOTO 0x04A5
- 85: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+ 85: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "What is it? Don't tell me you mean to abandon your mission."
  86: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x0479 [0x24] CREATE_DIALOG(message_id=7859*, default_option=1*, option_flags=0*)
+ 87: 0x0479 [0x24] CREATE_DIALOG(message_id=7860*, default_option=1*, option_flags=0*)
     → "Call it quits? [Yes./No.]"
  88: 0x0480 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0481 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x049B
  90: 0x0489 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  91: 0x048A [0x03] Work_Zone[2] = 1631*
- 92: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+ 92: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "You do the Resistance a great disservice. I will just have to consider it fortunate that valuable trap fluid wasn't put to waste."
  93: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0493 [0x03] Work_Zone[1] = 12*
  95: 0x0498 [0x01] GOTO 0x04A2
- 96: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+ 96: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Still determined to complete your task? Well then, carry on, soldier!"
  97: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x049F [0x06] Work_Zone[1] = 0
@@ -934,39 +934,39 @@ SUBROUTINE_04A5:
   3: 0x04B2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x04B7 [0x02] IF !(ExtData[1]->WorkLocal[1] == 124*) GOTO 0x0527
   5: 0x04BF [0x03] Work_Zone[2] = 1627*
-  6: 0x04C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+  6: 0x04C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "Ah, you've returned. Without any ado, I will take the $3 off your hands."
   7: 0x04C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04C8 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x04E0
   9: 0x04D0 [0x03] Work_Zone[2] = 1627*
- 10: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+ 10: 0x04D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "Why, it's literally bursting with repair materials! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5."
  11: 0x04D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x04D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+ 12: 0x04D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  13: 0x04DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x04DD [0x01] GOTO 0x0519
  15: 0x04E0 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x04F3
- 16: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+ 16: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "I see you've managed to cram in a goodly amount of repair materials. Well done."
  17: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+ 18: 0x04EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  19: 0x04EF [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x04F0 [0x01] GOTO 0x0519
  21: 0x04F3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0506
- 22: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+ 22: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Hmm... Not a bad effort, but my eyes tell me there's room still to fit more repair materials."
  23: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x04FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+ 24: 0x04FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  25: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0503 [0x01] GOTO 0x0519
  27: 0x0506 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0519
- 28: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
+ 28: 0x050E [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
     → "Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory.""
  29: 0x0511 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
+ 30: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=7869*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  31: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0516 [0x01] GOTO 0x0519
@@ -976,39 +976,39 @@ SUBROUTINE_0519:
  34: 0x051F [0x03] Work_Zone[1] = 13*
  35: 0x0524 [0x01] GOTO 0x0728
  36: 0x0527 [0x02] IF !(ExtData[1]->WorkLocal[1] == 127*) GOTO 0x0592
- 37: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+ 37: 0x052F [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "Ah, you've returned. Without any ado, brief me on the outcome of your mission."
  38: 0x0532 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0533 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x054B
  40: 0x053B [0x03] Work_Zone[2] = 1627*
- 41: 0x0540 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
+ 41: 0x0540 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
     → "Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier."
  42: 0x0543 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0544 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+ 43: 0x0544 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  44: 0x0547 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0548 [0x01] GOTO 0x0584
  46: 0x054B [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x055E
- 47: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=7882*)
+ 47: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
     → "So the chocobo survived the rigors of the mission in sound shape. Well done."
  48: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+ 49: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  50: 0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x055B [0x01] GOTO 0x0584
  52: 0x055E [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0571
- 53: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=7883*)
+ 53: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
     → "Hmm... In no worse shape than the birds that usually come back to us, I suppose."
  54: 0x0569 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+ 55: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  56: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x056E [0x01] GOTO 0x0584
  58: 0x0571 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0584
- 59: 0x0579 [0x1D] PRINT_EVENT_MESSAGE(message_id=7884*)
+ 59: 0x0579 [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
     → "Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future."
  60: 0x057C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7885*)
+ 61: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7886*)
     → "Here is your reward, pro rata with your performance. The need for repair materials is never-ending. We would appreciate your assistance as often as you can afford it."
  62: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0581 [0x01] GOTO 0x0584
@@ -1019,39 +1019,39 @@ SUBROUTINE_0584:
  66: 0x058F [0x01] GOTO 0x0728
  67: 0x0592 [0x02] IF !(ExtData[1]->WorkLocal[1] == 130*) GOTO 0x0602
  68: 0x059A [0x03] Work_Zone[2] = 1628*
- 69: 0x059F [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
+ 69: 0x059F [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
     → "Ah, you've returned. Without any ado, I will take the $3 off your hands."
  70: 0x05A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x05A3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x05BB
  72: 0x05AB [0x03] Work_Zone[2] = 1628*
- 73: 0x05B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+ 73: 0x05B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "Why, it's literally bursting with provisions! Marvelous! You ought to be thoroughly commended, soldier. It appears you've made an art form out of transporting with $5."
  74: 0x05B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 75: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
  76: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x05B8 [0x01] GOTO 0x05F4
  78: 0x05BB [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x05CE
- 79: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
+ 79: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
     → "I see you've managed to cram in a goodly amount of provisions. Well done."
  80: 0x05C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x05C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 81: 0x05C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
  82: 0x05CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x05CB [0x01] GOTO 0x05F4
  84: 0x05CE [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x05E1
- 85: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+ 85: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "Hmm... Not a bad effort, but my eyes tell me there's room still to fit more provisions."
  86: 0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x05DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 87: 0x05DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
  88: 0x05DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x05DE [0x01] GOTO 0x05F4
  90: 0x05E1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x05F4
- 91: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+ 91: 0x05E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "Hmm... You've obviously erred on the side of caution, but the $3 can endure more punishment than this. As the saying goes, "No guts, no glory.""
  92: 0x05EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 93: 0x05ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
  94: 0x05F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x05F1 [0x01] GOTO 0x05F4
@@ -1061,38 +1061,38 @@ SUBROUTINE_05F4:
  97: 0x05FA [0x03] Work_Zone[1] = 15*
  98: 0x05FF [0x01] GOTO 0x0728
  99: 0x0602 [0x02] IF !(ExtData[1]->WorkLocal[1] == 133*) GOTO 0x0668
-100: 0x060A [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+100: 0x060A [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Ah, you've returned. Without any ado, brief me on the outcome of your mission."
 101: 0x060D [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x060E [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0621
-103: 0x0616 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+103: 0x0616 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Amazing! That the chocobo came through it all virtually stress-free! You ought to be thoroughly commended, soldier."
 104: 0x0619 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x061A [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+105: 0x061A [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
 106: 0x061D [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x061E [0x01] GOTO 0x065A
 108: 0x0621 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x0634
-109: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+109: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "So the chocobo survived the rigors of the mission in sound shape. Well done."
 110: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x062D [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+111: 0x062D [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
 112: 0x0630 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0631 [0x01] GOTO 0x065A
 114: 0x0634 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x0647
-115: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
+115: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
     → "Hmm... In no worse shape than the birds that usually come back to us, I suppose."
 116: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+117: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
 118: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0644 [0x01] GOTO 0x065A
 120: 0x0647 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x065A
-121: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=7917*)
+121: 0x064F [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
     → "Hmm... The poor bird was subjected to considerable stress under your care. I would thank you to be more cautious in the future."
 122: 0x0652 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=7918*)
+123: 0x0653 [0x1D] PRINT_EVENT_MESSAGE(message_id=7919*)
     → "Here is your reward, pro rata with your performance. Our soldiers go through the ensorceled provisions as if there's no tomorrow...and that might just prove to be true. We would appreciate your assistance as often as you can afford it."
 124: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0657 [0x01] GOTO 0x065A
@@ -1102,38 +1102,38 @@ SUBROUTINE_065A:
 127: 0x0660 [0x03] Work_Zone[1] = 16*
 128: 0x0665 [0x01] GOTO 0x0728
 129: 0x0668 [0x02] IF !(ExtData[1]->WorkLocal[1] == 136*) GOTO 0x06C8
-130: 0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
+130: 0x0670 [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
     → "Ah, you've returned. Without any ado, brief me on the outcome of your mission."
 131: 0x0673 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x0674 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0687
-133: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=7928*)
+133: 0x067C [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
     → "You were able to infuse the rear trap to the last drop? Amazing! You are to be thoroughly commended, soldier."
 134: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+135: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 136: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0684 [0x01] GOTO 0x06C0
 138: 0x0687 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x069A
-139: 0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=7929*)
+139: 0x068F [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
     → "So you managed to infuse the rear trap with hardly any spillage. Well done."
 140: 0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x0693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+141: 0x0693 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 142: 0x0696 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0697 [0x01] GOTO 0x06C0
 144: 0x069A [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x06AD
-145: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7930*)
+145: 0x06A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
     → "Hmm... So you managed to infuse the rear trap without excess spillage. Though there's still room for improvement, to be sure."
 146: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x06A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+147: 0x06A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 148: 0x06A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x06AA [0x01] GOTO 0x06C0
 150: 0x06AD [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x06C0
-151: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7931*)
+151: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
     → "Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success."
 152: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7932*)
+153: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 154: 0x06BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x06BD [0x01] GOTO 0x06C0
@@ -1142,38 +1142,38 @@ SUBROUTINE_06C0:
 156: 0x06C0 [0x03] Work_Zone[1] = 17*
 157: 0x06C5 [0x01] GOTO 0x0728
 158: 0x06C8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 139*) GOTO 0x0728
-159: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+159: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "Ah, you've returned. Without any ado, brief me on the outcome of your mission."
 160: 0x06D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x06D4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x06E7
-162: 0x06DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+162: 0x06DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "You were able to infuse the fore trap to the last drop? Amazing! You are to be thoroughly commended, soldier."
 163: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+164: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 165: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x06E4 [0x01] GOTO 0x0720
 167: 0x06E7 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x06FA
-168: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+168: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "So you managed to infuse the fore trap with hardly any spillage. Well done."
 169: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x06F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+170: 0x06F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 171: 0x06F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x06F7 [0x01] GOTO 0x0720
 173: 0x06FA [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x070D
-174: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+174: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "Hmm... So you managed to infuse the fore trap without excess spillage. Though there's still room for improvement, to be sure."
 175: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x0706 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+176: 0x0706 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 177: 0x0709 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x070A [0x01] GOTO 0x0720
 179: 0x070D [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0720
-180: 0x0715 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+180: 0x0715 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "Egads! Were your eyes even open during the process? Considering the amount of spillage, it's a wonder the infusion was even a success."
 181: 0x0718 [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+182: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "Here is your reward, pro rata with your performance. The traps play an essential role in our defenses. We would appreciate your assistance as often as you can afford it."
 183: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
 184: 0x071D [0x01] GOTO 0x0720
@@ -1220,41 +1220,41 @@ SUBROUTINE_0728:
   1: 0x072B [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
   2: 0x0730 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0735 [0x02] IF !(ExtData[1]->WorkLocal[1] == 124*) GOTO 0x074F
-  4: 0x073D [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
+  4: 0x073D [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
     → "Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack."
   5: 0x0740 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0741 [0x03] Work_Zone[1] = 19*
   7: 0x0746 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
   8: 0x074C [0x01] GOTO 0x07C5
   9: 0x074F [0x02] IF !(ExtData[1]->WorkLocal[1] == 127*) GOTO 0x0763
- 10: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+ 10: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not..."
  11: 0x075A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x075B [0x03] Work_Zone[1] = 20*
  13: 0x0760 [0x01] GOTO 0x07C5
  14: 0x0763 [0x02] IF !(ExtData[1]->WorkLocal[1] == 130*) GOTO 0x077D
- 15: 0x076B [0x1D] PRINT_EVENT_MESSAGE(message_id=7895*)
+ 15: 0x076B [0x1D] PRINT_EVENT_MESSAGE(message_id=7896*)
     → "Hmph. Somehow I had foreseen this outcome. Your overzealousness has cost us a perfectly good sack."
  16: 0x076E [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x076F [0x03] Work_Zone[1] = 21*
  18: 0x0774 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  19: 0x077A [0x01] GOTO 0x07C5
  20: 0x077D [0x02] IF !(ExtData[1]->WorkLocal[1] == 133*) GOTO 0x0797
- 21: 0x0785 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 21: 0x0785 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "Hmph. Your failure has cost us a perfectly good pack chocobo. Do you have any idea how important the birds are to our cause? Plainly not..."
  22: 0x0788 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0789 [0x03] Work_Zone[1] = 22*
  24: 0x078E [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  25: 0x0794 [0x01] GOTO 0x07C5
  26: 0x0797 [0x02] IF !(ExtData[1]->WorkLocal[1] == 136*) GOTO 0x07B1
- 27: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7926*)
+ 27: 0x079F [0x1D] PRINT_EVENT_MESSAGE(message_id=7927*)
     → "Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not..."
  28: 0x07A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x07A3 [0x03] Work_Zone[1] = 23*
  30: 0x07A8 [0xA8] MAP_MARKER_CONTROL: Reset/unlock markers (no map display), zone=215*, marker=0*
  31: 0x07AE [0x01] GOTO 0x07C5
  32: 0x07B1 [0x02] IF !(ExtData[1]->WorkLocal[1] == 139*) GOTO 0x07C5
- 33: 0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+ 33: 0x07B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "Hmph. Somehow I had foreseen this outcome. Do you have any idea how much of my sweat and tears go into producing a single dose of trap fluid? Plainly not..."
  34: 0x07BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x07BD [0x03] Work_Zone[1] = 24*
@@ -1319,7 +1319,7 @@ SUBROUTINE_07C5:
 ```
   0: 0x07C7 [0x06] ExtData[1]->WorkLocal[0] = 0
   1: 0x07CA [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x08BB
-  2: 0x07D2 [0x24] CREATE_DIALOG(message_id=7978*, default_option=0*, option_flags=0*)
+  2: 0x07D2 [0x24] CREATE_DIALOG(message_id=7979*, default_option=0*, option_flags=0*)
     → "Take yer pick, scrag. [Type: $0/Clear flag: [off/on]/Evaluation value: $2/Other: $3/Clearance flag: [on/off]/Key items./Nothing.]"
   3: 0x07D9 [0x25] WAIT_DIALOG_SELECT()
   4: 0x07DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0813
@@ -1384,7 +1384,7 @@ SUBROUTINE_08BD:
 
 SUBROUTINE_08F1:
  59: 0x08F1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x09CF
- 60: 0x08F9 [0x24] CREATE_DIALOG(message_id=7979*, default_option=0*, option_flags=0*)
+ 60: 0x08F9 [0x24] CREATE_DIALOG(message_id=7980*, default_option=0*, option_flags=0*)
     → "Take yer pick, scrag. [$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/$3([don't got/got])/Nothing.]"
  61: 0x0900 [0x25] WAIT_DIALOG_SELECT()
  62: 0x0901 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0922

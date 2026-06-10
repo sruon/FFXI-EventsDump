@@ -28,77 +28,77 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2A00      |       10752 |
-|       1 | 0x2A01      |       10753 |
-|       2 | 0x2A02      |       10754 |
+|       0 | 0x2A01      |       10753 |
+|       1 | 0x2A02      |       10754 |
+|       2 | 0x2A03      |       10755 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x2A03      |       10755 |
-|       5 | 0x2A04      |       10756 |
+|       4 | 0x2A04      |       10756 |
+|       5 | 0x2A05      |       10757 |
 |       6 | 0x001B      |          27 |
-|       7 | 0x2A05      |       10757 |
-|       8 | 0x2A06      |       10758 |
+|       7 | 0x2A06      |       10758 |
+|       8 | 0x2A07      |       10759 |
 |       9 | 0x025D      |         605 |
-|      10 | 0x2A07      |       10759 |
-|      11 | 0x2A08      |       10760 |
-|      12 | 0x2A09      |       10761 |
-|      13 | 0x2A0A      |       10762 |
+|      10 | 0x2A08      |       10760 |
+|      11 | 0x2A09      |       10761 |
+|      12 | 0x2A0A      |       10762 |
+|      13 | 0x2A0B      |       10763 |
 |      14 | 0x001C      |          28 |
 |      15 | 0x0002      |           2 |
-|      16 | 0x2A0B      |       10763 |
+|      16 | 0x2A0C      |       10764 |
 |      17 | 0x0000      |           0 |
-|      18 | 0x2A0C      |       10764 |
+|      18 | 0x2A0D      |       10765 |
 |      19 | 0x0001      |           1 |
 |      20 | 0x0003      |           3 |
-|      21 | 0x2A0D      |       10765 |
+|      21 | 0x2A0E      |       10766 |
 |      22 | 0x0006      |           6 |
-|      23 | 0x2A0E      |       10766 |
+|      23 | 0x2A0F      |       10767 |
 |      24 | 0x0004      |           4 |
 |      25 | 0x0005      |           5 |
-|      26 | 0x2A0F      |       10767 |
+|      26 | 0x2A10      |       10768 |
 |      27 | 0x0007      |           7 |
-|      28 | 0x2A10      |       10768 |
-|      29 | 0x2A11      |       10769 |
+|      28 | 0x2A11      |       10769 |
+|      29 | 0x2A12      |       10770 |
 |      30 | 0x01BA      |         442 |
-|      31 | 0x2A14      |       10772 |
-|      32 | 0x2A15      |       10773 |
-|      33 | 0x2A16      |       10774 |
-|      34 | 0x2A17      |       10775 |
-|      35 | 0x2A18      |       10776 |
+|      31 | 0x2A15      |       10773 |
+|      32 | 0x2A16      |       10774 |
+|      33 | 0x2A17      |       10775 |
+|      34 | 0x2A18      |       10776 |
+|      35 | 0x2A19      |       10777 |
 |      36 | 0x00C9      |         201 |
-|      37 | 0x2A12      |       10770 |
-|      38 | 0x2A13      |       10771 |
-|      39 | 0x2B6F      |       11119 |
-|      40 | 0x2B70      |       11120 |
+|      37 | 0x2A13      |       10771 |
+|      38 | 0x2A14      |       10772 |
+|      39 | 0x2B70      |       11120 |
+|      40 | 0x2B71      |       11121 |
 
 ## String References
 
-- **10752**: This safehold we all live in now was once part of the Tavnazian Cathedral, as were the Sealion's Den and the Sacrarium.
-- **10753**: Aid from Jeuno has begun arriving in our city. While these items may improve our ways of life at the moment, many of us still worry about the future of the safehold.
-- **10754**: Have you ever journeyed to the Sacrarium?
-- **10755**: Since I was a child, it has been my dream to become an architect. I often walk alone to the Sacrarium's libraries to study the books on ancient architecture.
-- **10756**: One day, while reading a volume on Tavnazian masonry, I discovered a tattered old set of floorplans.
-- **10757**: However, due to its condition, there were many sections of it that were difficult to make out. If we could find another copy, I might be able to construct a new map of the Sacrarium based on the combined sets of plans.
-- **10758**: If you happen to come across even a fragment of a document that may be of use, bring it back to me and I will do my best to piece together the puzzle.
-- **10759**: $6!
-- **10760**: Yes, this looks similar to the set of plans I found before... But it, too, is damaged terribly. I cannot tell exactly which part of the Sacrarium it describes.
-- **10761**: Hm? You say you found this document in a treasure chest?
-- **10762**: Do you happen to remember in what area of the Sacrarium the chest was located?
-- **10763**: There is a good chance that the plans describe the same area.
-- **10764**: Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]
-- **10765**: Where did you find the chest? [Think a little longer./Around <F-7>./Around <G-7>./Around <H-7>./Around <F-9>./Around <G-9>./Around <H-9>.]
-- **10766**: Where did you find the chest? [Think a little longer./Around <I-6>./Around <J-6>./Around <K-7>./Around <K-9>./Around <I-10>./Around <J-10>.]
-- **10767**: Where did you find the chest? [Think a little longer./Around <J-7>./Around <K-7>./Around <I-8>./Around <L-8>./Around <J-9>./Around <K-9>.]
-- **10768**: I see... I will use that information to attempt to reconstruct a precise map of the area. It will take me about a day to complete my work. Please come back tomorrow.
-- **10769**: It will take me about a day to complete my work on the map of the Sacrarium. Please come back tomorrow.
-- **10770**: I apologize. The information you provided was not precise enough for me to finish the map.
-- **10771**: If you happen to come across any more pieces of the Sacrarium floorplans, please bring them to me. I will not give up until I've created a perfect map!
-- **10772**: <Player>! I succeeded in completing the $3!
-- **10773**: I never imagined that the area could be so simple, yet complicated...
-- **10774**: This has been a wonderful experience for me. I have learned so much about the architecture of the cathedral.
-- **10775**: Feel free to take the map with you. I have already made myself a copy. It is the least I can do.
-- **10776**: I shall make sure to preserve it with the care due the most precious of research materials.
-- **11119**: My late brother was once a member of the Tavnazian choir. I remember him once telling me that there existed a lost hymn that not a single member of the Tavnazian Cathedral was able to sing.
-- **11120**: He said it was the words from that hymn that would save the children of Altana from their lives of suffering.
+- **10753**: This safehold we all live in now was once part of the Tavnazian Cathedral, as were the Sealion's Den and the Sacrarium.
+- **10754**: Aid from Jeuno has begun arriving in our city. While these items may improve our ways of life at the moment, many of us still worry about the future of the safehold.
+- **10755**: Have you ever journeyed to the Sacrarium?
+- **10756**: Since I was a child, it has been my dream to become an architect. I often walk alone to the Sacrarium's libraries to study the books on ancient architecture.
+- **10757**: One day, while reading a volume on Tavnazian masonry, I discovered a tattered old set of floorplans.
+- **10758**: However, due to its condition, there were many sections of it that were difficult to make out. If we could find another copy, I might be able to construct a new map of the Sacrarium based on the combined sets of plans.
+- **10759**: If you happen to come across even a fragment of a document that may be of use, bring it back to me and I will do my best to piece together the puzzle.
+- **10760**: $6!
+- **10761**: Yes, this looks similar to the set of plans I found before... But it, too, is damaged terribly. I cannot tell exactly which part of the Sacrarium it describes.
+- **10762**: Hm? You say you found this document in a treasure chest?
+- **10763**: Do you happen to remember in what area of the Sacrarium the chest was located?
+- **10764**: There is a good chance that the plans describe the same area.
+- **10765**: Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]
+- **10766**: Where did you find the chest? [Think a little longer./Around <F-7>./Around <G-7>./Around <H-7>./Around <F-9>./Around <G-9>./Around <H-9>.]
+- **10767**: Where did you find the chest? [Think a little longer./Around <I-6>./Around <J-6>./Around <K-7>./Around <K-9>./Around <I-10>./Around <J-10>.]
+- **10768**: Where did you find the chest? [Think a little longer./Around <J-7>./Around <K-7>./Around <I-8>./Around <L-8>./Around <J-9>./Around <K-9>.]
+- **10769**: I see... I will use that information to attempt to reconstruct a precise map of the area. It will take me about a day to complete my work. Please come back tomorrow.
+- **10770**: It will take me about a day to complete my work on the map of the Sacrarium. Please come back tomorrow.
+- **10771**: I apologize. The information you provided was not precise enough for me to finish the map.
+- **10772**: If you happen to come across any more pieces of the Sacrarium floorplans, please bring them to me. I will not give up until I've created a perfect map!
+- **10773**: <Player>! I succeeded in completing the $3!
+- **10774**: I never imagined that the area could be so simple, yet complicated...
+- **10775**: This has been a wonderful experience for me. I have learned so much about the architecture of the cathedral.
+- **10776**: Feel free to take the map with you. I have already made myself a copy. It is the least I can do.
+- **10777**: I shall make sure to preserve it with the care due the most precious of research materials.
+- **11120**: My late brother was once a member of the Tavnazian choir. I remember him once telling me that there existed a lost hymn that not a single member of the Tavnazian Cathedral was able to sing.
+- **11121**: He said it was the words from that hymn that would save the children of Altana from their lives of suffering.
 
 ## Events
 
@@ -144,7 +144,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10752*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10753*)
     → "This safehold we all live in now was once part of the Tavnazian Cathedral, as were the Sealion's Den and the Sacrarium."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -172,7 +172,7 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=10753*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
     → "Aid from Jeuno has begun arriving in our city. While these items may improve our ways of life at the moment, many of us still worry about the future of the safehold."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x21] END_EVENT
@@ -204,23 +204,23 @@
 
 ```
   0: 0x0017 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10754*)
+  1: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
     → "Have you ever journeyed to the Sacrarium?"
   2: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10755*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
     → "Since I was a child, it has been my dream to become an architect. I often walk alone to the Sacrarium's libraries to study the books on ancient architecture."
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0033 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  7: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10756*)
+  7: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
     → "One day, while reading a volume on Tavnazian masonry, I discovered a tattered old set of floorplans."
   8: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
- 10: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
+ 10: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
     → "However, due to its condition, there were many sections of it that were difficult to make out. If we could find another copy, I might be able to construct a new map of the Sacrarium based on the combined sets of plans."
  11: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0059 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*
- 13: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
+ 13: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
     → "If you happen to come across even a fragment of a document that may be of use, bring it back to me and I will do my best to piece together the puzzle."
  14: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x006C [0x21] END_EVENT
@@ -249,11 +249,11 @@
 
 ```
   0: 0x006E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10757*)
+  1: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
     → "However, due to its condition, there were many sections of it that were difficult to make out. If we could find another copy, I might be able to construct a new map of the Sacrarium based on the combined sets of plans."
   2: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0077 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10758*)
+  4: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
     → "If you happen to come across even a fragment of a document that may be of use, bring it back to me and I will do my best to piece together the puzzle."
   5: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008A [0x21] END_EVENT
@@ -312,31 +312,31 @@
 ```
   0: 0x008C [0x03] Work_Zone[9] = 605*
   1: 0x0091 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10759*)
+  2: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
     → "$6!"
   3: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x009A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10760*)
+  5: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
     → "Yes, this looks similar to the set of plans I found before... But it, too, is damaged terribly. I cannot tell exactly which part of the Sacrarium it describes."
   6: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
-  8: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10761*)
+  8: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
     → "Hm? You say you found this document in a treasure chest?"
   9: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10762*)
+ 11: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=10763*)
     → "Do you happen to remember in what area of the Sacrarium the chest was located?"
  12: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  14: 0x00E2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  15: 0x00E3 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=28*, properties=2*)
- 16: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10763*)
+ 16: 0x00E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10764*)
     → "There is a good chance that the plans describe the same area."
  17: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x00EC [0x8A] CLOSE_MAP()
  19: 0x00ED [0x05] Work_Zone[1] = 1
  20: 0x00F0 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x011F
- 21: 0x00F8 [0x24] CREATE_DIALOG(message_id=10764*, default_option=0*, option_flags=0*)
+ 21: 0x00F8 [0x24] CREATE_DIALOG(message_id=10765*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]"
  22: 0x00FF [0x25] WAIT_DIALOG_SELECT()
  23: 0x0100 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010E
@@ -345,7 +345,7 @@
 SUBROUTINE_011C:
  25: 0x011C [0x01] GOTO 0x0268
  26: 0x011F [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x014E
- 27: 0x0127 [0x24] CREATE_DIALOG(message_id=10764*, default_option=0*, option_flags=0*)
+ 27: 0x0127 [0x24] CREATE_DIALOG(message_id=10765*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]"
  28: 0x012E [0x25] WAIT_DIALOG_SELECT()
  29: 0x012F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x013D
@@ -354,7 +354,7 @@ SUBROUTINE_011C:
 SUBROUTINE_014B:
  31: 0x014B [0x01] GOTO 0x0268
  32: 0x014E [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x017D
- 33: 0x0156 [0x24] CREATE_DIALOG(message_id=10765*, default_option=0*, option_flags=0*)
+ 33: 0x0156 [0x24] CREATE_DIALOG(message_id=10766*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <F-7>./Around <G-7>./Around <H-7>./Around <F-9>./Around <G-9>./Around <H-9>.]"
  34: 0x015D [0x25] WAIT_DIALOG_SELECT()
  35: 0x015E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016C
@@ -363,7 +363,7 @@ SUBROUTINE_014B:
 SUBROUTINE_017A:
  37: 0x017A [0x01] GOTO 0x0268
  38: 0x017D [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x01AC
- 39: 0x0185 [0x24] CREATE_DIALOG(message_id=10766*, default_option=0*, option_flags=0*)
+ 39: 0x0185 [0x24] CREATE_DIALOG(message_id=10767*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <I-6>./Around <J-6>./Around <K-7>./Around <K-9>./Around <I-10>./Around <J-10>.]"
  40: 0x018C [0x25] WAIT_DIALOG_SELECT()
  41: 0x018D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019B
@@ -372,7 +372,7 @@ SUBROUTINE_017A:
 SUBROUTINE_01A9:
  43: 0x01A9 [0x01] GOTO 0x0268
  44: 0x01AC [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x01DB
- 45: 0x01B4 [0x24] CREATE_DIALOG(message_id=10766*, default_option=0*, option_flags=0*)
+ 45: 0x01B4 [0x24] CREATE_DIALOG(message_id=10767*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <I-6>./Around <J-6>./Around <K-7>./Around <K-9>./Around <I-10>./Around <J-10>.]"
  46: 0x01BB [0x25] WAIT_DIALOG_SELECT()
  47: 0x01BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CA
@@ -381,7 +381,7 @@ SUBROUTINE_01A9:
 SUBROUTINE_01D8:
  49: 0x01D8 [0x01] GOTO 0x0268
  50: 0x01DB [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x020A
- 51: 0x01E3 [0x24] CREATE_DIALOG(message_id=10767*, default_option=0*, option_flags=0*)
+ 51: 0x01E3 [0x24] CREATE_DIALOG(message_id=10768*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <J-7>./Around <K-7>./Around <I-8>./Around <L-8>./Around <J-9>./Around <K-9>.]"
  52: 0x01EA [0x25] WAIT_DIALOG_SELECT()
  53: 0x01EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F9
@@ -390,7 +390,7 @@ SUBROUTINE_01D8:
 SUBROUTINE_0207:
  55: 0x0207 [0x01] GOTO 0x0268
  56: 0x020A [0x02] IF !(Work_Zone[2] == 6*) GOTO 0x0239
- 57: 0x0212 [0x24] CREATE_DIALOG(message_id=10764*, default_option=0*, option_flags=0*)
+ 57: 0x0212 [0x24] CREATE_DIALOG(message_id=10765*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]"
  58: 0x0219 [0x25] WAIT_DIALOG_SELECT()
  59: 0x021A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0228
@@ -399,7 +399,7 @@ SUBROUTINE_0207:
 SUBROUTINE_0236:
  61: 0x0236 [0x01] GOTO 0x0268
  62: 0x0239 [0x02] IF !(Work_Zone[2] == 7*) GOTO 0x0268
- 63: 0x0241 [0x24] CREATE_DIALOG(message_id=10764*, default_option=0*, option_flags=0*)
+ 63: 0x0241 [0x24] CREATE_DIALOG(message_id=10765*, default_option=0*, option_flags=0*)
     → "Where did you find the chest? [Think a little longer./Around <F-5>./Around <G-5>./Around <H-5>./Around <F-11>./Around <G-11>./Around <H-11>.]"
  64: 0x0248 [0x25] WAIT_DIALOG_SELECT()
  65: 0x0249 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0257
@@ -410,7 +410,7 @@ SUBROUTINE_0265:
 
 SUBROUTINE_0268:
  68: 0x0268 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 69: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=10768*)
+ 69: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
     → "I see... I will use that information to attempt to reconstruct a precise map of the area. It will take me about a day to complete my work. Please come back tomorrow."
  70: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x027B [0x21] END_EVENT
@@ -459,7 +459,7 @@ SUBROUTINE_0268:
 
 ```
   0: 0x027D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=10769*)
+  1: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
     → "It will take me about a day to complete my work on the map of the Sacrarium. Please come back tomorrow."
   2: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0286 [0x21] END_EVENT
@@ -495,24 +495,24 @@ SUBROUTINE_0268:
   0: 0x0288 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0289 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x028E [0x03] Work_Zone[9] = 442*
-  3: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
+  3: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
     → "<Player>! I succeeded in completing the $3!"
   4: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0297 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10773*)
+  6: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
     → "I never imagined that the area could be so simple, yet complicated..."
   7: 0x02A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  9: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10774*)
+  9: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
     → "This has been a wonderful experience for me. I have learned so much about the architecture of the cathedral."
  10: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
  12: 0x02CC [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x02DB
- 13: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10775*)
+ 13: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
     → "Feel free to take the map with you. I have already made myself a copy. It is the least I can do."
  14: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x02D8 [0x01] GOTO 0x02DF
- 16: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10776*)
+ 16: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10777*)
     → "I shall make sure to preserve it with the care due the most precious of research materials."
  17: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -546,11 +546,11 @@ SUBROUTINE_02DF:
 ```
   0: 0x02FF [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0300 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10770*)
+  2: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
     → "I apologize. The information you provided was not precise enough for me to finish the map."
   3: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0309 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=10771*)
+  5: 0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=10772*)
     → "If you happen to come across any more pieces of the Sacrarium floorplans, please bring them to me. I will not give up until I've created a perfect map!"
   6: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x031C [0x21] END_EVENT
@@ -579,11 +579,11 @@ SUBROUTINE_02DF:
 
 ```
   0: 0x031E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=11119*)
+  1: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=11120*)
     → "My late brother was once a member of the Tavnazian choir. I remember him once telling me that there existed a lost hymn that not a single member of the Tavnazian Cathedral was able to sing."
   2: 0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0327 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=11120*)
+  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=11121*)
     → "He said it was the words from that hymn that would save the children of Altana from their lives of suffering."
   5: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x033A [0x21] END_EVENT

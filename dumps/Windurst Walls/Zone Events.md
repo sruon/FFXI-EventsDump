@@ -209,7 +209,7 @@
 |      56 | 0x1B363     |      111459 |
 |      57 | 0xFFFFF448  |  4294964296 |
 |      58 | 0x0B9D      |        2973 |
-|      59 | 0x1FC1      |        8129 |
+|      59 | 0x1FC2      |        8130 |
 |      60 | 0xFFFF9B25  |  4294941477 |
 |      61 | 0x40881     |      264321 |
 |      62 | 0xFFFFCD38  |  4294954296 |
@@ -476,12 +476,12 @@
 |     323 | 0xFFFFD8F0  |  4294957296 |
 |     324 | 0x0828      |        2088 |
 |     325 | 0x00C7      |         199 |
-|     326 | 0x258C      |        9612 |
+|     326 | 0x258D      |        9613 |
 |     327 | 0x002D      |          45 |
-|     328 | 0x2594      |        9620 |
-|     329 | 0x2595      |        9621 |
-|     330 | 0x2596      |        9622 |
-|     331 | 0x2597      |        9623 |
+|     328 | 0x2595      |        9621 |
+|     329 | 0x2596      |        9622 |
+|     330 | 0x2597      |        9623 |
+|     331 | 0x2598      |        9624 |
 |     332 | 0x0078      |         120 |
 |     333 | 0x1DE8E     |      122510 |
 |     334 | 0x1A8F4     |      108788 |
@@ -512,17 +512,17 @@
 |     359 | 0x00EF      |         239 |
 |     360 | 0x00F3      |         243 |
 |     361 | 0x0003      |           3 |
-|     362 | 0x2A83      |       10883 |
-|     363 | 0x2AA9      |       10921 |
+|     362 | 0x2A84      |       10884 |
+|     363 | 0x2AAA      |       10922 |
 |     364 | 0x005A      |          90 |
 
 ## String References
 
-- **9612**: <Player>'s badge flashes brightly.
-- **9621**: Chomomo's badge flashes brightly.
-- **9623**: Juna Moshal's badge flashes brightly.
-- **10883**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **10921**: Your $3 fills with sand.
+- **9613**: <Player>'s badge flashes brightly.
+- **9622**: Chomomo's badge flashes brightly.
+- **9624**: Juna Moshal's badge flashes brightly.
+- **10884**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **10922**: Your $3 fills with sand.
 
 ## Events
 
@@ -1314,7 +1314,7 @@
 #### Opcodes
 
 ```
-  0: 0x00E0 [0x2B] Shantotto (ID: 17756186/0x010EF01A) [8129*]:
+  0: 0x00E0 [0x2B] Shantotto (ID: 17756186/0x010EF01A) [8130*]:
     → "By the way, I hate to admit it, er... But, you did fairly well...for a total loser."
   1: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E8 [0x00] END_REQSTACK()
@@ -3417,16 +3417,16 @@
   8: 0x054F [0x1C] WAIT(60* ticks)
   9: 0x0552 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  10: 0x0563 [0x1C] WAIT(60* ticks)
- 11: 0x0566 [0x48] [System] [9612*]:
+ 11: 0x0566 [0x48] [System] [9613*]:
     → "<Player>'s badge flashes brightly."
  12: 0x0569 [0x1C] WAIT(60* ticks)
  13: 0x056C [0x4A] Chomomo (ID: 17756233/0x010EF049) looks at LocalPlayer
  14: 0x0575 [0x1C] WAIT(45* ticks)
  15: 0x0578 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Chomomo (ID: 17756233/0x010EF049), Chomomo (ID: 17756233/0x010EF049)], work=40*
- 16: 0x0587 [0x2B] Chomomo (ID: 17756233/0x010EF049) [9620*]:
+ 16: 0x0587 [0x2B] Chomomo (ID: 17756233/0x010EF049) [9621*]:
     → "I'm looking for baddie-waddies. This shiny-winy badge proves that you're a good guy, though. I want lots and lots of them!"
  17: 0x058E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x058F [0x48] [System] [9621*]:
+ 18: 0x058F [0x48] [System] [9622*]:
     → "Chomomo's badge flashes brightly."
  19: 0x0592 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Chomomo (ID: 17756233/0x010EF049), Chomomo (ID: 17756233/0x010EF049)], work=40*
  20: 0x05A1 [0x1C] WAIT(60* ticks)
@@ -3436,11 +3436,11 @@
  24: 0x05CD [0x4A] Juna Moshal (ID: 17756250/0x010EF05A) looks at Chomomo (ID: 17756233/0x010EF049)
  25: 0x05D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  26: 0x05D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 27: 0x05D8 [0x2B] Juna Moshal (ID: 17756250/0x010EF05A) [9622*]:
+ 27: 0x05D8 [0x2B] Juna Moshal (ID: 17756250/0x010EF05A) [9623*]:
     → "Stay on your guard! Don't get caught up in adults' sneaky trrricks."
  28: 0x05DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x05E0 [0x1C] WAIT(45* ticks)
- 30: 0x05E3 [0x48] [System] [9623*]:
+ 30: 0x05E3 [0x48] [System] [9624*]:
     → "Juna Moshal's badge flashes brightly."
  31: 0x05E6 [0x1E] EventEntity looks at Juna Moshal (ID: 17756250/0x010EF05A) and starts talking
  32: 0x05EB [0x1C] WAIT(120* ticks)
@@ -3921,9 +3921,9 @@ SUBROUTINE_0752:
  13: 0x086D [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0872:
- 14: 0x0872 [0x48] [System] [10883*]:
+ 14: 0x0872 [0x48] [System] [10884*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
- 15: 0x0875 [0x48] [System] [10921*]:
+ 15: 0x0875 [0x48] [System] [10922*]:
     → "Your $3 fills with sand."
  16: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0889 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

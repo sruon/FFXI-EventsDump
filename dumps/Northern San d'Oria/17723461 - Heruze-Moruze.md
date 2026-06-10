@@ -30,42 +30,42 @@
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x0028      |          40 |
-|       7 | 0x2CC9      |       11465 |
+|       7 | 0x2CCA      |       11466 |
 |       8 | 0x001E      |          30 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0010      |          16 |
 |      11 | 0x005A      |          90 |
 |      12 | 0x02FA      |         762 |
-|      13 | 0x4935      |       18741 |
+|      13 | 0x4936      |       18742 |
 |      14 | 0x8F1E      |       36638 |
 |      15 | 0xFFFFF731  |  4294965041 |
 |      16 | 0xFFFFF830  |  4294965296 |
 |      17 | 0x0BE9      |        3049 |
-|      18 | 0x4943      |       18755 |
+|      18 | 0x4944      |       18756 |
 |      19 | 0x0078      |         120 |
 |      20 | 0x000F      |          15 |
 |      21 | 0x0063      |          99 |
-|      22 | 0x4936      |       18742 |
+|      22 | 0x4937      |       18743 |
 |      23 | 0x021A      |         538 |
-|      24 | 0x4937      |       18743 |
-|      25 | 0x4938      |       18744 |
-|      26 | 0x4939      |       18745 |
-|      27 | 0x493A      |       18746 |
+|      24 | 0x4938      |       18744 |
+|      25 | 0x4939      |       18745 |
+|      26 | 0x493A      |       18746 |
+|      27 | 0x493B      |       18747 |
 |      28 | 0x0007      |           7 |
 |      29 | 0xFFFF36CB  |  4294915787 |
 |      30 | 0x8CEB      |       36075 |
 |      31 | 0x0163      |         355 |
-|      32 | 0x2CC5      |       11461 |
-|      33 | 0x2CC6      |       11462 |
-|      34 | 0x2CC7      |       11463 |
+|      32 | 0x2CC6      |       11462 |
+|      33 | 0x2CC7      |       11463 |
+|      34 | 0x2CC8      |       11464 |
 
 ## String References
 
-- **11461**: If it's the consul you're a-seeking, she's inside!
-- **11462**: A San d'Orian, are you? This is the Consulate of Windurst. We provide all sorts of aid to our countrymen here.
-- **11463**: A Bastoker, are you? This is the Consulate of Windurst. If you're looking for your consulate, it's out the door and across the way.
-- **11465**: You've come on orders from the homeland, have you? You should speak with Consul Kasaroro.
-- **18755**: @@
+- **11462**: If it's the consul you're a-seeking, she's inside!
+- **11463**: A San d'Orian, are you? This is the Consulate of Windurst. We provide all sorts of aid to our countrymen here.
+- **11464**: A Bastoker, are you? This is the Consulate of Windurst. If you're looking for your consulate, it's out the door and across the way.
+- **11466**: You've come on orders from the homeland, have you? You should speak with Consul Kasaroro.
+- **18756**: @@
 
 ## Events
 
@@ -210,7 +210,7 @@
  11: 0x0043 [0x27] REQ_SET(priority=0x65, entity_id=Lion (ID: 17723463/0x010E7047), tag_num=0x02)
  12: 0x004A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 14: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11465*)
+ 14: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=11466*)
     → "You've come on orders from the homeland, have you? You should speak with Consul Kasaroro."
  15: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x006E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -290,7 +290,7 @@ SUBROUTINE_03CC:
  88: 0x03F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [EventEntity, EventEntity], work=[762*, 0*]
  89: 0x0408 [0x4A] Lion (ID: 17723463/0x010E7047) looks at LocalPlayer
  90: 0x0411 [0x1C] WAIT(30* ticks)
- 91: 0x0414 [0x2B] Lion (ID: 17723463/0x010E7047) [18741*]:
+ 91: 0x0414 [0x2B] Lion (ID: 17723463/0x010E7047) [18742*]:
     → "There's something else?"
  92: 0x041B [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x041C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -301,32 +301,32 @@ SUBROUTINE_03CC:
  98: 0x045D [0x4A] LocalPlayer looks at Lion (ID: 17723463/0x010E7047)
  99: 0x0466 [0x4A] Lion (ID: 17723463/0x010E7047) looks at LocalPlayer
 100: 0x046F [0x1C] WAIT(60* ticks)
-101: 0x0472 [0x48] [System] [18755*]:
+101: 0x0472 [0x48] [System] [18756*]:
     → "@@"
 102: 0x0475 [0x1C] WAIT(120* ticks)
 103: 0x0478 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[762*, 0*]
 104: 0x0489 [0x1C] WAIT(15* ticks)
 105: 0x048C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 106: 0x049D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=99*
-107: 0x04AC [0x2B] Lion (ID: 17723463/0x010E7047) [18742*]:
+107: 0x04AC [0x2B] Lion (ID: 17723463/0x010E7047) [18743*]:
     → "You say my father told you to seek me out?"
 108: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x04B4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl40" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=538*
-110: 0x04C3 [0x2B] Lion (ID: 17723463/0x010E7047) [18743*]:
+110: 0x04C3 [0x2B] Lion (ID: 17723463/0x010E7047) [18744*]:
     → "I've been trying to figure out as much as I can about the strange portals that link our Vana'diel to another dimension."
 111: 0x04CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x04CB [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [EventEntity, EventEntity], work=762*
 113: 0x04DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[762*, 0*]
-114: 0x04EB [0x2B] Lion (ID: 17723463/0x010E7047) [18744*]:
+114: 0x04EB [0x2B] Lion (ID: 17723463/0x010E7047) [18745*]:
     → "But we've got other problems to deal with first. Let's worry about it once we've finished our current mission."
 115: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x04F3 [0x2B] Lion (ID: 17723463/0x010E7047) [18745*]:
+116: 0x04F3 [0x2B] Lion (ID: 17723463/0x010E7047) [18746*]:
     → "I'll meet you at the Crag of Holla in La Theine Plateau once we've got that burden off our shoulders. Or we could catch up at Dem or Mea, if that's preferable to you."
 117: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x04FB [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=762*
 119: 0x050A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[762*, 0*]
 120: 0x051B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl41" with entities [Lion (ID: 17723463/0x010E7047), Lion (ID: 17723463/0x010E7047)], work=538*
-121: 0x052A [0x2B] Lion (ID: 17723463/0x010E7047) [18746*]:
+121: 0x052A [0x2B] Lion (ID: 17723463/0x010E7047) [18747*]:
     → "Remember to see the missions posed to you by your home nation to completion first, though."
 122: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0532 [0x6E] LocalPlayer uses emote 7*
@@ -350,7 +350,7 @@ SUBROUTINE_03CC:
      0x0261 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x0272 [0x4A] Lion (ID: 17723456/0x010E7040) looks at LocalPlayer
      0x027B [0x1C] WAIT(30* ticks)
-     0x027E [0x2B] Lion (ID: 17723456/0x010E7040) [18741*]:
+     0x027E [0x2B] Lion (ID: 17723456/0x010E7040) [18742*]:
     → "There's something else?"
      0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0286 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -361,32 +361,32 @@ SUBROUTINE_03CC:
      0x02C7 [0x4A] LocalPlayer looks at Lion (ID: 17723456/0x010E7040)
      0x02D0 [0x4A] Lion (ID: 17723456/0x010E7040) looks at LocalPlayer
      0x02D9 [0x1C] WAIT(60* ticks)
-     0x02DC [0x48] [System] [18755*]:
+     0x02DC [0x48] [System] [18756*]:
     → "@@"
      0x02DF [0x1C] WAIT(120* ticks)
      0x02E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x02F3 [0x1C] WAIT(15* ticks)
      0x02F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x0307 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "yes0" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=99*
-     0x0316 [0x2B] Lion (ID: 17723456/0x010E7040) [18742*]:
+     0x0316 [0x2B] Lion (ID: 17723456/0x010E7040) [18743*]:
     → "You say my father told you to seek me out?"
      0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x031E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl40" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=538*
-     0x032D [0x2B] Lion (ID: 17723456/0x010E7040) [18743*]:
+     0x032D [0x2B] Lion (ID: 17723456/0x010E7040) [18744*]:
     → "I've been trying to figure out as much as I can about the strange portals that link our Vana'diel to another dimension."
      0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0335 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=762*
      0x0344 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[762*, 0*]
-     0x0355 [0x2B] Lion (ID: 17723456/0x010E7040) [18744*]:
+     0x0355 [0x2B] Lion (ID: 17723456/0x010E7040) [18745*]:
     → "But we've got other problems to deal with first. Let's worry about it once we've finished our current mission."
      0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x035D [0x2B] Lion (ID: 17723456/0x010E7040) [18745*]:
+     0x035D [0x2B] Lion (ID: 17723456/0x010E7040) [18746*]:
     → "I'll meet you at the Crag of Holla in La Theine Plateau once we've got that burden off our shoulders. Or we could catch up at Dem or Mea, if that's preferable to you."
      0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0365 [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [EventEntity, EventEntity], work=762*
      0x0374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[762*, 0*]
      0x0385 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tl41" with entities [Lion (ID: 17723456/0x010E7040), Lion (ID: 17723456/0x010E7040)], work=538*
-     0x0394 [0x2B] Lion (ID: 17723456/0x010E7040) [18746*]:
+     0x0394 [0x2B] Lion (ID: 17723456/0x010E7040) [18747*]:
     → "Remember to see the missions posed to you by your home nation to completion first, though."
      0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039C [0x6E] LocalPlayer uses emote 7*
@@ -422,7 +422,7 @@ SUBROUTINE_03CC:
   1: 0x0567 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0568 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0569 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0578 [0x1D] PRINT_EVENT_MESSAGE(message_id=11461*)
+  4: 0x0578 [0x1D] PRINT_EVENT_MESSAGE(message_id=11462*)
     → "If it's the consul you're a-seeking, she's inside!"
   5: 0x057B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x057C [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -456,7 +456,7 @@ SUBROUTINE_03CC:
   1: 0x058B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x058C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x058D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=11462*)
+  4: 0x059C [0x1D] PRINT_EVENT_MESSAGE(message_id=11463*)
     → "A San d'Orian, are you? This is the Consulate of Windurst. We provide all sorts of aid to our countrymen here."
   5: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05A0 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -490,7 +490,7 @@ SUBROUTINE_03CC:
   1: 0x05AF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05B0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x05C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11463*)
+  4: 0x05C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11464*)
     → "A Bastoker, are you? This is the Consulate of Windurst. If you're looking for your consulate, it's out the door and across the way."
   5: 0x05C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05C4 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

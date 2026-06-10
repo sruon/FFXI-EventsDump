@@ -23,8 +23,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x2ACE      |       10958 |
-|       3 | 0x2ACF      |       10959 |
+|       2 | 0x2ACF      |       10959 |
+|       3 | 0x2AD0      |       10960 |
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x001C [0x2B] EventEntity [10958*]:
+  3: 0x001C [0x2B] EventEntity [10959*]:
     → "The development of various forms of magic has been well underway since the onset of hostilities."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10959*]:
+  5: 0x0024 [0x2B] EventEntity [10960*]:
     → "Some are even beginning to dabble again in arts condemned as taboo in former days. Well, that's all just hearsay..."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

@@ -23,9 +23,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2A9F      |       10911 |
-|       3 | 0x2AA0      |       10912 |
-|       4 | 0x2B00      |       11008 |
+|       2 | 0x2AA0      |       10912 |
+|       3 | 0x2AA1      |       10913 |
+|       4 | 0x2B01      |       11009 |
 
 ## Events
 
@@ -76,10 +76,10 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x001C [0x2B] EventEntity [10911*]:
+  3: 0x001C [0x2B] EventEntity [10912*]:
     → "Welcome to the Optistery. We are one of the world's largest repositories of knowledge and wisdom, housing an unmatched collection of tomes, scrolls, scriptures, chronicles, records, atlases, and just about any other type of printed material you could think of! But..."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10912*]:
+  5: 0x0024 [0x2B] EventEntity [10913*]:
     → "We are temporarily closed due to Minister Karaha-Baruha's absence. Our deepest apologies for any inconvenience."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -113,10 +113,10 @@
   0: 0x003D [0x4A] EventEntity looks at LocalPlayer
   1: 0x0046 [0x1C] WAIT(30* ticks)
   2: 0x0049 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x0058 [0x2B] EventEntity [10911*]:
+  3: 0x0058 [0x2B] EventEntity [10912*]:
     → "Welcome to the Optistery. We are one of the world's largest repositories of knowledge and wisdom, housing an unmatched collection of tomes, scrolls, scriptures, chronicles, records, atlases, and just about any other type of printed material you could think of! But..."
   4: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0060 [0x2B] EventEntity [11008*]:
+  5: 0x0060 [0x2B] EventEntity [11009*]:
     → "We are closed to the public in mourning of our late Minister Karaha-Baruha. Even during his long absence, the thought of his return was enough to motivate us to take the utmost pride in our duties tending the archives. Whatever will become of us now?"
   6: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0068 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

@@ -38,48 +38,48 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0008      |           8 |
-|       1 | 0x2364      |        9060 |
-|       2 | 0x23A7      |        9127 |
-|       3 | 0x23A8      |        9128 |
+|       1 | 0x2365      |        9061 |
+|       2 | 0x23A8      |        9128 |
+|       3 | 0x23A9      |        9129 |
 |       4 | 0x0445      |        1093 |
-|       5 | 0x23A9      |        9129 |
-|       6 | 0x23AA      |        9130 |
+|       5 | 0x23AA      |        9130 |
+|       6 | 0x23AB      |        9131 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x23AB      |        9131 |
-|       9 | 0x23AC      |        9132 |
-|      10 | 0x23AD      |        9133 |
+|       8 | 0x23AC      |        9132 |
+|       9 | 0x23AD      |        9133 |
+|      10 | 0x23AE      |        9134 |
 |      11 | 0x0078      |         120 |
 |      12 | 0x00C8      |         200 |
 |      13 | 0x0000      |           0 |
 |      14 | 0x0082      |         130 |
 |      15 | 0x00C9      |         201 |
-|      16 | 0x3496      |       13462 |
+|      16 | 0x3497      |       13463 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x2ED9      |       11993 |
+|      18 | 0x2EDA      |       11994 |
 |      19 | 0x0002      |           2 |
-|      20 | 0x2F01      |       12033 |
-|      21 | 0x2F02      |       12034 |
-|      22 | 0x2F03      |       12035 |
-|      23 | 0x2F10      |       12048 |
-|      24 | 0x2F11      |       12049 |
+|      20 | 0x2F02      |       12034 |
+|      21 | 0x2F03      |       12035 |
+|      22 | 0x2F04      |       12036 |
+|      23 | 0x2F11      |       12049 |
+|      24 | 0x2F12      |       12050 |
 
 ## String References
 
-- **9060**: Welcome to the Lion Springs! Enjoy our selection of fine food and beverages.
-- **9127**: Adventurers must know when opportunity knocks! Though there is a fine line between bravery and foolishness!
-- **9128**: I love a good ghost story. The best part about running a tavern is listening to all the tales that adventurers bring from afar.
-- **9129**: In Fei'Yin there is an old fountain run dry. They say that you can call a spirit of the dead by simply casting $0 into it. At any rate, that place is a decrepit ruin, so there's no end to the hogwash rumors.
-- **9130**: So, the rumor was true? Huzzah! No, I need no thanks. I am happy to just hear your tale.
-- **9131**: But what could he mean by a "small dark tight place"? You'd best ask the other patrons or members of your own party for their insight.
-- **9132**: Yes, perhaps his corpse was interred in the Garlaige Citadel. What a cruel thing to do!
-- **9133**: All's well that ends well, as they say. I've had a ball hearing all about it! Please, stop by if you're ever in the neighborhood.
-- **11993**: Ask if this person is the chick's owner? [Yes./No.]
-- **12033**: Eh? You have my chocobo, do you?
-- **12034**: Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking.
-- **12035**: You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo...
-- **12048**: Eh? You say you have my chocobo?
-- **12049**: That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken.
-- **13462**: Your dancing style was...quite unique...
+- **9061**: Welcome to the Lion Springs! Enjoy our selection of fine food and beverages.
+- **9128**: Adventurers must know when opportunity knocks! Though there is a fine line between bravery and foolishness!
+- **9129**: I love a good ghost story. The best part about running a tavern is listening to all the tales that adventurers bring from afar.
+- **9130**: In Fei'Yin there is an old fountain run dry. They say that you can call a spirit of the dead by simply casting $0 into it. At any rate, that place is a decrepit ruin, so there's no end to the hogwash rumors.
+- **9131**: So, the rumor was true? Huzzah! No, I need no thanks. I am happy to just hear your tale.
+- **9132**: But what could he mean by a "small dark tight place"? You'd best ask the other patrons or members of your own party for their insight.
+- **9133**: Yes, perhaps his corpse was interred in the Garlaige Citadel. What a cruel thing to do!
+- **9134**: All's well that ends well, as they say. I've had a ball hearing all about it! Please, stop by if you're ever in the neighborhood.
+- **11994**: Ask if this person is the chick's owner? [Yes./No.]
+- **12034**: Eh? You have my chocobo, do you?
+- **12035**: Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking.
+- **12036**: You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo...
+- **12049**: Eh? You say you have my chocobo?
+- **12050**: That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken.
+- **13463**: Your dancing style was...quite unique...
 
 ## Events
 
@@ -127,7 +127,7 @@
 ```
   0: 0x0001 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x0004 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9060*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9061*)
     → "Welcome to the Lion Springs! Enjoy our selection of fine food and beverages."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -223,7 +223,7 @@
 ```
   0: 0x0015 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x0018 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9127*)
+  2: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9128*)
     → "Adventurers must know when opportunity knocks! Though there is a fine line between bravery and foolishness!"
   3: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0021 [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -253,7 +253,7 @@
 ```
   0: 0x0026 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x0029 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=9128*)
+  2: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=9129*)
     → "I love a good ghost story. The best part about running a tavern is listening to all the tales that adventurers bring from afar."
   3: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0032 [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -284,7 +284,7 @@
   0: 0x0037 [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x003A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x003F [0x03] Work_Zone[2] = 1093*
-  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9129*)
+  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=9130*)
     → "In Fei'Yin there is an old fountain run dry. They say that you can call a spirit of the dead by simply casting $0 into it. At any rate, that place is a decrepit ruin, so there's no end to the hogwash rumors."
   4: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0048 [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -317,11 +317,11 @@
 ```
   0: 0x004D [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x0050 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=9130*)
+  2: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=9131*)
     → "So, the rumor was true? Huzzah! No, I need no thanks. I am happy to just hear your tale."
   3: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0059 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=30*
-  5: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9131*)
+  5: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=9132*)
     → "But what could he mean by a "small dark tight place"? You'd best ask the other patrons or members of your own party for their insight."
   6: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x006C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=30*
@@ -353,7 +353,7 @@
 ```
   0: 0x008D [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x0090 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=9132*)
+  2: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=9133*)
     → "Yes, perhaps his corpse was interred in the Garlaige Citadel. What a cruel thing to do!"
   3: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0099 [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -383,7 +383,7 @@
 ```
   0: 0x009E [0x38] SET_CLIENT_EVENT_MODE(mode=8*)
   1: 0x00A1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9133*)
+  2: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9134*)
     → "All's well that ends well, as they say. I've had a ball hearing all about it! Please, stop by if you're ever in the neighborhood."
   3: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00AA [0x1A] CALL_SUBROUTINE(address=0x0158)
@@ -600,7 +600,7 @@
 ```
   0: 0x014A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014F [0x1C] WAIT(30* ticks)
-  2: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13462*)
+  2: 0x0152 [0x1D] PRINT_EVENT_MESSAGE(message_id=13463*)
     → "Your dancing style was...quite unique..."
   3: 0x0155 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0156 [0x21] END_EVENT
@@ -618,7 +618,7 @@
      0x0169 [0x03] Work_Zone[1] = 0*
      0x016E [0x01] GOTO 0x01EA
      0x0171 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0172 [0x24] CREATE_DIALOG(message_id=11993*, default_option=1*, option_flags=0*)
+     0x0172 [0x24] CREATE_DIALOG(message_id=11994*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0179 [0x25] WAIT_DIALOG_SELECT()
      0x017A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01DA
@@ -626,23 +626,23 @@
      0x0187 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x0189 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x018B [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x01C0
-     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=12033*)
+     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
     → "Eh? You have my chocobo, do you?"
      0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0197 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-     0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12034*)
+     0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
     → "Well done! He must have been difficult to please when it comes to feeding. Sorry about that. That little bird just loves Lion Springs' cooking."
      0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01AA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
-     0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12035*)
+     0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12036*)
     → "You are raising a chocobo too, am I correct? Let me teach you a story I often tell my chocobo..."
      0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BD [0x01] GOTO 0x01D7
-     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12048*)
+     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12049*)
     → "Eh? You say you have my chocobo?"
      0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01C4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12049*)
+     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12050*)
     → "That little bird loves the cooking here. He would never leave this place, not for anything. You must be mistaken."
      0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01D7 [0x01] GOTO 0x01EA

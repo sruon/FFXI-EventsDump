@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F0A      |        7946 |
-|       3 | 0x1F0B      |        7947 |
+|       2 | 0x1F0B      |        7947 |
+|       3 | 0x1F0C      |        7948 |
 
 ## String References
 
-- **7946**: When I was just a kitten, the Star Sibyl came out and gave a speech to everrrybody.
-- **7947**: She said two things: that we should all play nice with the beastmen, and that nobody could use summonimoning magic anymorrre. What's summonimoning magic?
+- **7947**: When I was just a kitten, the Star Sibyl came out and gave a speech to everrrybody.
+- **7948**: She said two things: that we should all play nice with the beastmen, and that nobody could use summonimoning magic anymorrre. What's summonimoning magic?
 
 ## Events
 
@@ -155,10 +155,10 @@
   2: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x002E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Migi Centa (ID: 17756249/0x010EF059), tag_num=0x01)
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "When I was just a kitten, the Star Sibyl came out and gave a speech to everrrybody."
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "She said two things: that we should all play nice with the beastmen, and that nobody could use summonimoning magic anymorrre. What's summonimoning magic?"
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Migi Centa (ID: 17756249/0x010EF059), tag_num=0x02)

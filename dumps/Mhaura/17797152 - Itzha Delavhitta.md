@@ -22,11 +22,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
-|       1 | 0x1C03      |        7171 |
+|       1 | 0x1C04      |        7172 |
 
 ## String References
 
-- **7171**: When I grrrow up, I want to be a bride, and wear the most beautiful wedding dress everrr! But I'm not marrying anyone who wants to become a "beesmaster"!
+- **7172**: When I grrrow up, I want to be a bride, and wear the most beautiful wedding dress everrr! But I'm not marrying anyone who wants to become a "beesmaster"!
 
 ## Events
 
@@ -98,7 +98,7 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=80*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7171*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7172*)
     → "When I grrrow up, I want to be a bride, and wear the most beautiful wedding dress everrr! But I'm not marrying anyone who wants to become a "beesmaster"!"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x21] END_EVENT

@@ -45,13 +45,13 @@
 |       5 | 0x0E6A      |        3690 |
 |       6 | 0x0EA3      |        3747 |
 |       7 | 0x0EA4      |        3748 |
-|       8 | 0x3017      |       12311 |
-|       9 | 0x3018      |       12312 |
-|      10 | 0x314E      |       12622 |
-|      11 | 0x314F      |       12623 |
-|      12 | 0x3325      |       13093 |
-|      13 | 0x332F      |       13103 |
-|      14 | 0x3330      |       13104 |
+|       8 | 0x3018      |       12312 |
+|       9 | 0x3019      |       12313 |
+|      10 | 0x314F      |       12623 |
+|      11 | 0x3150      |       12624 |
+|      12 | 0x3326      |       13094 |
+|      13 | 0x3330      |       13104 |
+|      14 | 0x3331      |       13105 |
 
 ## String References
 
@@ -61,13 +61,13 @@
 - **3690**: Yet how'z they to win the battle unless they invest in their wands? The black mages in our War Warlocks need $3.
 - **3747**: If that's the minister's policy, there ain't much we can do, is there?
 - **3748**: Let 'im flower the Operations Division with resources this time. In large-scale warfare, a superior strategy can turn the status of the battle around one-eighty degrees.
-- **12311**: There ain't enuff War Warlocks for us to fight a war right now. Afta' all, it's only been twenty-odd years since the last one...
-- **12312**: Even with all this goin' on, they're thinking of throwing every one of us, even the minister, into the Dark Dungeon! If a war does start, what will 'appen, the Goddess only knows...
-- **12622**: The research of the great Karaha-Baruha ultimately led to 'is death.
-- **12623**: Does that mean the Star Sibyl means to just stand around while Minister Ajido-Marujido offs 'imself?
-- **13093**: <Player>'s badge flashes brightly.
-- **13103**: Twenty years 'ave passed since the last war, but I wonder if something is stirring elsewhere...
-- **13104**: The current generation knows nothing of war, though. Battles in faraway lands may be a mere fantasy to you...
+- **12312**: There ain't enuff War Warlocks for us to fight a war right now. Afta' all, it's only been twenty-odd years since the last one...
+- **12313**: Even with all this goin' on, they're thinking of throwing every one of us, even the minister, into the Dark Dungeon! If a war does start, what will 'appen, the Goddess only knows...
+- **12623**: The research of the great Karaha-Baruha ultimately led to 'is death.
+- **12624**: Does that mean the Star Sibyl means to just stand around while Minister Ajido-Marujido offs 'imself?
+- **13094**: <Player>'s badge flashes brightly.
+- **13104**: Twenty years 'ave passed since the last war, but I wonder if something is stirring elsewhere...
+- **13105**: The current generation knows nothing of war, though. Battles in faraway lands may be a mere fantasy to you...
 
 ## Events
 
@@ -354,10 +354,10 @@
   0: 0x0057 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
+  3: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
     → "There ain't enuff War Warlocks for us to fight a war right now. Afta' all, it's only been twenty-odd years since the last one..."
   4: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
+  5: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=12313*)
     → "Even with all this goin' on, they're thinking of throwing every one of us, even the minister, into the Dark Dungeon! If a war does start, what will 'appen, the Goddess only knows..."
   6: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0066 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -410,10 +410,10 @@
   0: 0x006B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0070 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0071 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12622*)
+  3: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=12623*)
     → "The research of the great Karaha-Baruha ultimately led to 'is death."
   4: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12623*)
+  5: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=12624*)
     → "Does that mean the Star Sibyl means to just stand around while Minister Ajido-Marujido offs 'imself?"
   6: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -508,14 +508,14 @@
 
 ```
   0: 0x0081 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0082 [0x48] [System] [13093*]:
+  1: 0x0082 [0x48] [System] [13094*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0085 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x008A [0x1C] WAIT(30* ticks)
-  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=13103*)
+  4: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=13104*)
     → "Twenty years 'ave passed since the last war, but I wonder if something is stirring elsewhere..."
   5: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=13104*)
+  6: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=13105*)
     → "The current generation knows nothing of war, though. Battles in faraway lands may be a mere fantasy to you..."
   7: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0095 [0x21] END_EVENT

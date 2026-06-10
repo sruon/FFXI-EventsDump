@@ -26,15 +26,15 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x0E36      |        3638 |
 |       2 | 0x0E37      |        3639 |
-|       3 | 0x2E59      |       11865 |
-|       4 | 0x2E5A      |       11866 |
+|       3 | 0x2E5A      |       11866 |
+|       4 | 0x2E5B      |       11867 |
 
 ## String References
 
 - **3638**: HeRe$26IN$26pOrT$26WiNdUrSt$26Is tHE$26MaGe$26AcA-dEmY$26rUn By$26tHe$26ORa-STeRy!
 - **3639**: tO$26Go$26tO tHe$26oRaStErY's$26MaGe$26AcA-dEmY hEAd$26WesT!$26It$26IS$26oPPo-SiTe$26tHe CoN-sUlAtE$26oF$26bAsToK!
-- **11865**: WhAt$26iS$26FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"hEl-lO!"
-- **11866**: SeEmS$26tHAt$26FIVE$26OF$26SPADES$26hAs$26lEaRnEd$26tHe$26WrOnG$26gREe-tINg!
+- **11866**: WhAt$26iS$26FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"hEl-lO!"
+- **11867**: SeEmS$26tHAt$26FIVE$26OF$26SPADES$26hAs$26lEaRnEd$26tHe$26WrOnG$26gREe-tINg!
 
 ## Events
 
@@ -162,10 +162,10 @@
   0: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x001E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=11865*)
+  3: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=11866*)
     → "WhAt$26iS$26FiVE's$26GRe-EtinG? OF COu-RSe$26iT$26Is$26"hEl-lO!""
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11866*)
+  5: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=11867*)
     → "SeEmS$26tHAt$26FIVE$26OF$26SPADES$26hAs$26lEaRnEd$26tHe$26WrOnG$26gREe-tINg!"
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

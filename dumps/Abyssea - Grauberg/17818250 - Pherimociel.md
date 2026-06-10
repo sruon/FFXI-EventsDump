@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x001D      |          29 |
-|       2 | 0x2037      |        8247 |
+|       2 | 0x2038      |        8248 |
 
 ## String References
 
-- **8247**: On my honor as a Ducal Guard, I will make those vile fiends rue the day they crawled out from the bowels of Abyssea!
+- **8248**: On my honor as a Ducal Guard, I will make those vile fiends rue the day they crawled out from the bowels of Abyssea!
 
 ## Events
 
@@ -75,7 +75,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8247*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8248*)
     → "On my honor as a Ducal Guard, I will make those vile fiends rue the day they crawled out from the bowels of Abyssea!"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT

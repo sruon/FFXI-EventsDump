@@ -26,23 +26,23 @@
 |       0 | 0x0090      |         144 |
 |       1 | 0x003C      |          60 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C68      |        7272 |
-|       4 | 0x1C67      |        7271 |
-|       5 | 0x1C6A      |        7274 |
-|       6 | 0x1C69      |        7273 |
-|       7 | 0x1BEF      |        7151 |
-|       8 | 0x1BF4      |        7156 |
-|       9 | 0x1BF1      |        7153 |
+|       3 | 0x1C69      |        7273 |
+|       4 | 0x1C68      |        7272 |
+|       5 | 0x1C6B      |        7275 |
+|       6 | 0x1C6A      |        7274 |
+|       7 | 0x1BF0      |        7152 |
+|       8 | 0x1BF5      |        7157 |
+|       9 | 0x1BF2      |        7154 |
 
 ## String References
 
-- **7151**: The ship bound for Selbina will arrrrive shortly.
-- **7153**: The Selbina ferry will deparrrt soon! Passengers are to board the ship immediately!
-- **7156**: This ship is headed for Selbina.
-- **7271**: The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7272**: The ship bound for Selbina is now [arriving/departing].
-- **7273**: The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
-- **7274**: The ship bound for Al Zahbi is now [arriving/departing].
+- **7152**: The ship bound for Selbina will arrrrive shortly.
+- **7154**: The Selbina ferry will deparrrt soon! Passengers are to board the ship immediately!
+- **7157**: This ship is headed for Selbina.
+- **7272**: The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7273**: The ship bound for Selbina is now [arriving/departing].
+- **7274**: The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time).
+- **7275**: The ship bound for Al Zahbi is now [arriving/departing].
 
 ## Events
 
@@ -97,22 +97,22 @@
   3: 0x0010 [0x15] Work_Zone[2] /= 60*
   4: 0x0015 [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x0033
   5: 0x001D [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x002C
-  6: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
+  6: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
     → "The ship bound for Selbina is now [arriving/departing]."
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x01] GOTO 0x0030
-  9: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7271*)
+  9: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=7272*)
     → "The ship bound for Selbina will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
  10: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0030:
  11: 0x0030 [0x01] GOTO 0x0046
  12: 0x0033 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0042
- 13: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+ 13: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "The ship bound for Al Zahbi is now [arriving/departing]."
  14: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003F [0x01] GOTO 0x0046
- 16: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
+ 16: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
     → "The ship bound for Al Zahbi will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($0 [minute/minutes] in Earth time)."
  17: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -144,7 +144,7 @@ SUBROUTINE_0046:
   0: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7151*)
+  3: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7152*)
     → "The ship bound for Selbina will arrrrive shortly."
   4: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0053 [0x21] END_EVENT
@@ -174,7 +174,7 @@ SUBROUTINE_0046:
   0: 0x0055 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7156*)
+  3: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7157*)
     → "This ship is headed for Selbina."
   4: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0060 [0x21] END_EVENT
@@ -203,7 +203,7 @@ SUBROUTINE_0046:
   0: 0x0062 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0067 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0068 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7153*)
+  3: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7154*)
     → "The Selbina ferry will deparrrt soon! Passengers are to board the ship immediately!"
   4: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x006D [0x21] END_EVENT

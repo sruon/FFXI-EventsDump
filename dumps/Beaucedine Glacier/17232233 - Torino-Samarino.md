@@ -122,69 +122,69 @@
 |      10 | 0x01AE      |         430 |
 |      11 | 0x01AF      |         431 |
 |      12 | 0x002E      |          46 |
-|      13 | 0x1D1E      |        7454 |
+|      13 | 0x1D1F      |        7455 |
 |      14 | 0x0000      |           0 |
-|      15 | 0x1D22      |        7458 |
+|      15 | 0x1D23      |        7459 |
 |      16 | 0x0002      |           2 |
-|      17 | 0x1D2B      |        7467 |
-|      18 | 0x1D21      |        7457 |
-|      19 | 0x1D23      |        7459 |
-|      20 | 0x1D24      |        7460 |
-|      21 | 0x1D25      |        7461 |
-|      22 | 0x1D26      |        7462 |
-|      23 | 0x1D27      |        7463 |
-|      24 | 0x1D28      |        7464 |
-|      25 | 0x1D29      |        7465 |
-|      26 | 0x1D2A      |        7466 |
-|      27 | 0x1D2C      |        7468 |
-|      28 | 0x1D2D      |        7469 |
-|      29 | 0x1D2E      |        7470 |
-|      30 | 0x1D34      |        7476 |
-|      31 | 0x1D33      |        7475 |
-|      32 | 0x1D35      |        7477 |
-|      33 | 0x1D36      |        7478 |
-|      34 | 0x1D37      |        7479 |
-|      35 | 0x2081      |        8321 |
-|      36 | 0x2082      |        8322 |
-|      37 | 0x2083      |        8323 |
-|      38 | 0x208A      |        8330 |
-|      39 | 0x208B      |        8331 |
-|      40 | 0x208C      |        8332 |
+|      17 | 0x1D2C      |        7468 |
+|      18 | 0x1D22      |        7458 |
+|      19 | 0x1D24      |        7460 |
+|      20 | 0x1D25      |        7461 |
+|      21 | 0x1D26      |        7462 |
+|      22 | 0x1D27      |        7463 |
+|      23 | 0x1D28      |        7464 |
+|      24 | 0x1D29      |        7465 |
+|      25 | 0x1D2A      |        7466 |
+|      26 | 0x1D2B      |        7467 |
+|      27 | 0x1D2D      |        7469 |
+|      28 | 0x1D2E      |        7470 |
+|      29 | 0x1D2F      |        7471 |
+|      30 | 0x1D35      |        7477 |
+|      31 | 0x1D34      |        7476 |
+|      32 | 0x1D36      |        7478 |
+|      33 | 0x1D37      |        7479 |
+|      34 | 0x1D38      |        7480 |
+|      35 | 0x2082      |        8322 |
+|      36 | 0x2083      |        8323 |
+|      37 | 0x2084      |        8324 |
+|      38 | 0x208B      |        8331 |
+|      39 | 0x208C      |        8332 |
+|      40 | 0x208D      |        8333 |
 |      41 | 0x19E6A     |      106090 |
 |      42 | 0x22B72     |      142194 |
 |      43 | 0xFFFFB0E7  |  4294947047 |
 |      44 | 0x0554      |        1364 |
-|      45 | 0x20C9      |        8393 |
+|      45 | 0x20CA      |        8394 |
 
 ## String References
 
-- **7454**: B-b-brrrrrr... It's f-f-freezing...It's f-f-freezy-weezing...
-- **7457**: What do you want? Really-weally? You came from Windurst? Yes, we're researchers from the Rhinostery...
-- **7458**: Doctor Shantotto's message is... [How is the new magic working?/Reply immediately or be cursed!/You total loser!]
-- **7459**: Wh-wh-what! How dare you call me a loser-woser!
-- **7460**: Goddess! That's the message from Doctor Shantotto!? We're doomed!
-- **7461**: Wh-wh-what! If Doctor Shantotto asked that, she must be furious!
-- **7462**: W-w-well, we did receive the new magic from Doctor Shantotto...
-- **7463**: But when we tried to take it to Minister Rukususu, the writing disappeared, leaving it completely unusable.
-- **7464**: After bringing the new magic back here, we managed to get the writing to appear again, but the same thing happens every time we try to take it to the minister.
-- **7465**: It must be some evil-wevil influence of the Fei'Yin ruins, although I can't pinpointaru it exactly.
-- **7466**: Maybe it has something to do with our connection to the Rhinostery. Hey, you can take this to Minister Rukususu in our place!
-- **7467**: Accept his request? [Alrightaru./Sorry, not today.]
-- **7468**: Oh, so you don'taru mind being cursed by Doctor Shantotto, then? If you give up and go home, she'll turn your bones into jelly-welly!
-- **7469**: Minister Rukususu is in a small chamber on Fei'Yin's lower level. Come straight back here if the writing disappears before you reach her.
+- **7455**: B-b-brrrrrr... It's f-f-freezing...It's f-f-freezy-weezing...
+- **7458**: What do you want? Really-weally? You came from Windurst? Yes, we're researchers from the Rhinostery...
+- **7459**: Doctor Shantotto's message is... [How is the new magic working?/Reply immediately or be cursed!/You total loser!]
+- **7460**: Wh-wh-what! How dare you call me a loser-woser!
+- **7461**: Goddess! That's the message from Doctor Shantotto!? We're doomed!
+- **7462**: Wh-wh-what! If Doctor Shantotto asked that, she must be furious!
+- **7463**: W-w-well, we did receive the new magic from Doctor Shantotto...
+- **7464**: But when we tried to take it to Minister Rukususu, the writing disappeared, leaving it completely unusable.
+- **7465**: After bringing the new magic back here, we managed to get the writing to appear again, but the same thing happens every time we try to take it to the minister.
+- **7466**: It must be some evil-wevil influence of the Fei'Yin ruins, although I can't pinpointaru it exactly.
+- **7467**: Maybe it has something to do with our connection to the Rhinostery. Hey, you can take this to Minister Rukususu in our place!
+- **7468**: Accept his request? [Alrightaru./Sorry, not today.]
+- **7469**: Oh, so you don'taru mind being cursed by Doctor Shantotto, then? If you give up and go home, she'll turn your bones into jelly-welly!
 - **7470**: Minister Rukususu is in a small chamber on Fei'Yin's lower level. Come straight back here if the writing disappears before you reach her.
-- **7475**: So, it didn't work, huh?
-- **7476**: I'll work on restoring the writing so you can try again tomorrow.
-- **7477**: The writing has reappeared. Go give it another shot!
-- **7478**: Hey! You did it! We're saved!
-- **7479**: Now all you have to do is tell Doctor Shantotto. Don'taru dawdle-wawdle on the way back, or it'll be your neck on the line!
-- **8321**: Huh? A girl? Some Elvaan guy brought a dead-looking girl to us. Is that the one?
-- **8322**: Well, she was frozie-wozen to the bone, so we helped her out!
-- **8323**: The Elvaan was in too much of a hurry to wait for us to revive the girl, and headed off to the north by himself. Not very considerate, if you ask me!
-- **8330**: Huh? You wantaru know more about this tower?
-- **8331**: This place is called the ruins of Pso'Xja. They're the mirror-wirror image of the Horutoto Ruins in Sarutabaruta.
-- **8332**: But with all the tricksy traps inside, I'd prefer to stay out here in the freezy-wheezing cold.
-- **8393**: Ildy-Goldy is really passionataru about his work. Especially when it comes to Minister Rukususu!
+- **7471**: Minister Rukususu is in a small chamber on Fei'Yin's lower level. Come straight back here if the writing disappears before you reach her.
+- **7476**: So, it didn't work, huh?
+- **7477**: I'll work on restoring the writing so you can try again tomorrow.
+- **7478**: The writing has reappeared. Go give it another shot!
+- **7479**: Hey! You did it! We're saved!
+- **7480**: Now all you have to do is tell Doctor Shantotto. Don'taru dawdle-wawdle on the way back, or it'll be your neck on the line!
+- **8322**: Huh? A girl? Some Elvaan guy brought a dead-looking girl to us. Is that the one?
+- **8323**: Well, she was frozie-wozen to the bone, so we helped her out!
+- **8324**: The Elvaan was in too much of a hurry to wait for us to revive the girl, and headed off to the north by himself. Not very considerate, if you ask me!
+- **8331**: Huh? You wantaru know more about this tower?
+- **8332**: This place is called the ruins of Pso'Xja. They're the mirror-wirror image of the Horutoto Ruins in Sarutabaruta.
+- **8333**: But with all the tricksy traps inside, I'd prefer to stay out here in the freezy-wheezing cold.
+- **8394**: Ildy-Goldy is really passionataru about his work. Especially when it comes to Minister Rukususu!
 
 ## Events
 
@@ -1938,7 +1938,7 @@
   1: 0x0486 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0487 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0488 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  4: 0x048F [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "B-b-brrrrrr... It's f-f-freezing...It's f-f-freezy-weezing..."
   5: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0493 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
@@ -1984,7 +1984,7 @@
   3: 0x04A5 [0x03] Work_Zone[1] = 0*
   4: 0x04AA [0x03] ExtData[1]->WorkLocal[0] = 0*
   5: 0x04AF [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x49)
-  6: 0x04B6 [0x24] CREATE_DIALOG(message_id=7458*, default_option=0*, option_flags=0*)
+  6: 0x04B6 [0x24] CREATE_DIALOG(message_id=7459*, default_option=0*, option_flags=0*)
     → "Doctor Shantotto's message is... [How is the new magic working?/Reply immediately or be cursed!/You total loser!]"
   7: 0x04BD [0x25] WAIT_DIALOG_SELECT()
   8: 0x04BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04DA
@@ -2006,7 +2006,7 @@ SUBROUTINE_050D:
  22: 0x050D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x055A
  23: 0x0515 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x4D)
  24: 0x051C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x4E)
- 25: 0x0523 [0x24] CREATE_DIALOG(message_id=7467*, default_option=0*, option_flags=0*)
+ 25: 0x0523 [0x24] CREATE_DIALOG(message_id=7468*, default_option=0*, option_flags=0*)
     → "Accept his request? [Alrightaru./Sorry, not today.]"
  26: 0x052A [0x25] WAIT_DIALOG_SELECT()
  27: 0x052B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0543
@@ -2045,7 +2045,7 @@ SUBROUTINE_055A:
 #### Opcodes
 
 ```
-  0: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+  0: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "What do you want? Really-weally? You came from Windurst? Yes, we're researchers from the Rhinostery..."
   1: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0562 [0x00] END_REQSTACK()
@@ -2072,7 +2072,7 @@ SUBROUTINE_055A:
 
 ```
   0: 0x0563 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x07)
-  1: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+  1: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Wh-wh-what! How dare you call me a loser-woser!"
   2: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x056E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x08)
@@ -2100,7 +2100,7 @@ SUBROUTINE_055A:
 
 ```
   0: 0x0576 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x07)
-  1: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+  1: 0x057D [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Goddess! That's the message from Doctor Shantotto!? We're doomed!"
   2: 0x0580 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0581 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x08)
@@ -2128,7 +2128,7 @@ SUBROUTINE_055A:
 
 ```
   0: 0x0589 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x07)
-  1: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  1: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "Wh-wh-what! If Doctor Shantotto asked that, she must be furious!"
   2: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0594 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x08)
@@ -2158,17 +2158,17 @@ SUBROUTINE_055A:
 
 ```
   0: 0x059C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  1: 0x05A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  1: 0x05A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "W-w-well, we did receive the new magic from Doctor Shantotto..."
   2: 0x05A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
   4: 0x05AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x03)
-  5: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+  5: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "But when we tried to take it to Minister Rukususu, the writing disappeared, leaving it completely unusable."
   6: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x05B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x04)
   8: 0x05C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x05)
-  9: 0x05C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
+  9: 0x05C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
     → "After bringing the new magic back here, we managed to get the writing to appear again, but the same thing happens every time we try to take it to the minister."
  10: 0x05CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x05CB [0x00] END_REQSTACK()
@@ -2197,12 +2197,12 @@ SUBROUTINE_055A:
 
 ```
   0: 0x05CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  1: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+  1: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
     → "It must be some evil-wevil influence of the Fei'Yin ruins, although I can't pinpointaru it exactly."
   2: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
   4: 0x05DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x03)
-  5: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+  5: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "Maybe it has something to do with our connection to the Rhinostery. Hey, you can take this to Minister Rukususu in our place!"
   6: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x05E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x04)
@@ -2233,7 +2233,7 @@ SUBROUTINE_055A:
 
 ```
   0: 0x05FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x21)
-  1: 0x0606 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+  1: 0x0606 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "Oh, so you don'taru mind being cursed by Doctor Shantotto, then? If you give up and go home, she'll turn your bones into jelly-welly!"
   2: 0x0609 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x060A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x22)
@@ -2259,7 +2259,7 @@ SUBROUTINE_055A:
 #### Opcodes
 
 ```
-  0: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+  0: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → "Minister Rukususu is in a small chamber on Fei'Yin's lower level. Come straight back here if the writing disappears before you reach her."
   1: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0616 [0x00] END_REQSTACK()
@@ -2290,7 +2290,7 @@ SUBROUTINE_055A:
   1: 0x061C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x061D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x061E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  4: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+  4: 0x0625 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "Minister Rukususu is in a small chamber on Fei'Yin's lower level. Come straight back here if the writing disappears before you reach her."
   5: 0x0628 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0629 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
@@ -2324,7 +2324,7 @@ SUBROUTINE_055A:
   1: 0x0639 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x063A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x063B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  4: 0x0642 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+  4: 0x0642 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "I'll work on restoring the writing so you can try again tomorrow."
   5: 0x0645 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0646 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
@@ -2358,11 +2358,11 @@ SUBROUTINE_055A:
   1: 0x0656 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0657 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0658 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x07)
-  4: 0x065F [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+  4: 0x065F [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "So, it didn't work, huh?"
   5: 0x0662 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0663 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x08)
-  7: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+  7: 0x066A [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "I'll work on restoring the writing so you can try again tomorrow."
   8: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x066E [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2394,7 +2394,7 @@ SUBROUTINE_055A:
   1: 0x0677 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0678 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0679 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x0D)
-  4: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+  4: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
     → "The writing has reappeared. Go give it another shot!"
   5: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0684 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x0E)
@@ -2429,12 +2429,12 @@ SUBROUTINE_055A:
   1: 0x0694 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0695 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0696 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x07)
-  4: 0x069D [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+  4: 0x069D [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "Hey! You did it! We're saved!"
   5: 0x06A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x06A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x08)
   7: 0x06A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x01)
-  8: 0x06AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+  8: 0x06AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "Now all you have to do is tell Doctor Shantotto. Don'taru dawdle-wawdle on the way back, or it'll be your neck on the line!"
   9: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x02)
@@ -2469,13 +2469,13 @@ SUBROUTINE_055A:
   1: 0x06C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Potete (ID: 17232234/0x0106F16A), tag_num=0x01)
-  4: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8321*)
+  4: 0x06CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
     → "Huh? A girl? Some Elvaan guy brought a dead-looking girl to us. Is that the one?"
   5: 0x06CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8322*)
+  6: 0x06D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
     → "Well, she was frozie-wozen to the bone, so we helped her out!"
   7: 0x06D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8323*)
+  8: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8324*)
     → "The Elvaan was in too much of a hurry to wait for us to revive the girl, and headed off to the north by himself. Not very considerate, if you ask me!"
   9: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Potete (ID: 17232234/0x0106F16A), tag_num=0x02)
@@ -2509,13 +2509,13 @@ SUBROUTINE_055A:
   1: 0x06E8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06E9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Potete (ID: 17232234/0x0106F16A), tag_num=0x01)
-  4: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8330*)
+  4: 0x06F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
     → "Huh? You wantaru know more about this tower?"
   5: 0x06F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8331*)
+  6: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8332*)
     → "This place is called the ruins of Pso'Xja. They're the mirror-wirror image of the Horutoto Ruins in Sarutabaruta."
   7: 0x06F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8332*)
+  8: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8333*)
     → "But with all the tricksy traps inside, I'd prefer to stay out here in the freezy-wheezing cold."
   9: 0x06FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x06FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Potete (ID: 17232234/0x0106F16A), tag_num=0x02)
@@ -2597,7 +2597,7 @@ SUBROUTINE_055A:
   1: 0x0720 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0721 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0722 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x09)
-  4: 0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=8393*)
+  4: 0x0729 [0x1D] PRINT_EVENT_MESSAGE(message_id=8394*)
     → "Ildy-Goldy is really passionataru about his work. Especially when it comes to Minister Rukususu!"
   5: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x072D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Torino-Samarino (ID: 17232233/0x0106F169), tag_num=0x0A)

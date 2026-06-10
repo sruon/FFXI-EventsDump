@@ -21,20 +21,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DF9      |        7673 |
-|       1 | 0x1DFA      |        7674 |
+|       0 | 0x1DFA      |        7674 |
+|       1 | 0x1DFB      |        7675 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x1DFD      |        7677 |
-|       6 | 0x1DFE      |        7678 |
+|       5 | 0x1DFE      |        7678 |
+|       6 | 0x1DFF      |        7679 |
 
 ## String References
 
-- **7673**: This is the Firebloom Tree.
-- **7674**: Cut off a vine? [Yes./No.]
-- **7677**: This is the most blessed spot on the tree.
-- **7678**: Cut off a piece of wood? [Yes./No.]
+- **7674**: This is the Firebloom Tree.
+- **7675**: Cut off a vine? [Yes./No.]
+- **7678**: This is the most blessed spot on the tree.
+- **7679**: Cut off a piece of wood? [Yes./No.]
 
 ## Events
 
@@ -82,10 +82,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7673*]:
+  0: 0x0001 [0x48] [System] [7674*]:
     → "This is the Firebloom Tree."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7674*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7675*, default_option=0*, option_flags=0*)
     → "Cut off a vine? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001E
@@ -124,10 +124,10 @@ SUBROUTINE_002E:
 #### Opcodes
 
 ```
-  0: 0x0032 [0x48] [System] [7677*]:
+  0: 0x0032 [0x48] [System] [7678*]:
     → "This is the most blessed spot on the tree."
   1: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0036 [0x24] CREATE_DIALOG(message_id=7678*, default_option=0*, option_flags=0*)
+  2: 0x0036 [0x24] CREATE_DIALOG(message_id=7679*, default_option=0*, option_flags=0*)
     → "Cut off a piece of wood? [Yes./No.]"
   3: 0x003D [0x25] WAIT_DIALOG_SELECT()
   4: 0x003E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F

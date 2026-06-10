@@ -43,21 +43,21 @@
 |      20 | 0x001B      |          27 |
 |      21 | 0x001D      |          29 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x2137      |        8503 |
-|      24 | 0x2138      |        8504 |
+|      23 | 0x2138      |        8504 |
+|      24 | 0x2139      |        8505 |
 |      25 | 0x03E7      |         999 |
 |      26 | 0x00C9      |         201 |
-|      27 | 0x2139      |        8505 |
+|      27 | 0x213A      |        8506 |
 |      28 | 0x0065      |         101 |
 |      29 | 0x00CA      |         202 |
 |      30 | 0x0004      |           4 |
 |      31 | 0x000D      |          13 |
-|      32 | 0x213A      |        8506 |
-|      33 | 0x213B      |        8507 |
-|      34 | 0x213C      |        8508 |
-|      35 | 0x213D      |        8509 |
-|      36 | 0x213E      |        8510 |
-|      37 | 0x213F      |        8511 |
+|      32 | 0x213B      |        8507 |
+|      33 | 0x213C      |        8508 |
+|      34 | 0x213D      |        8509 |
+|      35 | 0x213E      |        8510 |
+|      36 | 0x213F      |        8511 |
+|      37 | 0x2140      |        8512 |
 |      38 | 0x00CB      |         203 |
 |      39 | 0x4849      |       18505 |
 |      40 | 0x494C      |       18764 |
@@ -81,20 +81,20 @@
 |      58 | 0x0013      |          19 |
 |      59 | 0x4AAD      |       19117 |
 |      60 | 0x48AA      |       18602 |
-|      61 | 0x2140      |        8512 |
+|      61 | 0x2141      |        8513 |
 
 ## String References
 
-- **8503**: Hark! Our foe lurks thither. How wouldst thou proceed?
-- **8504**: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
-- **8505**: Our foe advances...may thine aim be true!
-- **8506**: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
-- **8507**: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
-- **8508**: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **8509**: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **8510**: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **8511**: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
-- **8512**: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
+- **8504**: Hark! Our foe lurks thither. How wouldst thou proceed?
+- **8505**: How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]
+- **8506**: Our foe advances...may thine aim be true!
+- **8507**: I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]
+- **8508**: My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings.
+- **8509**: East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8510**: North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8511**: West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8512**: Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]
+- **8513**: The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!
 
 ## Events
 
@@ -233,10 +233,10 @@
  26: 0x00DA [0x1E] EventEntity looks at LocalPlayer and starts talking
  27: 0x00DF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  28: 0x00E0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 29: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8503*)
+ 29: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8504*)
     → "Hark! Our foe lurks thither. How wouldst thou proceed?"
  30: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00E5 [0x24] CREATE_DIALOG(message_id=8504*, default_option=0*, option_flags=0*)
+ 31: 0x00E5 [0x24] CREATE_DIALOG(message_id=8505*, default_option=0*, option_flags=0*)
     → "How will you proceed? [Withdraw./Charge in./Scout the enemy./Check weapon.]"
  32: 0x00EC [0x25] WAIT_DIALOG_SELECT()
  33: 0x00ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD
@@ -248,7 +248,7 @@
  39: 0x010C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  40: 0x010E [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[2]
  41: 0x0113 [0x02] IF !(ExtData[1]->WorkLocal[25] == 0*) GOTO 0x0127
- 42: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=8505*)
+ 42: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
     → "Our foe advances...may thine aim be true!"
  43: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x011F [0x03] Work_Zone[1] = 101*
@@ -307,36 +307,36 @@ SUBROUTINE_012C:
  95: 0x022A [0x01] GOTO 0x022D
 
 SUBROUTINE_022D:
- 96: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
+ 96: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
     → "I have been observing our foe closely from my post. It appears that [it remains but a fledgling./its strength is on the wane./it has only begun to realize its true strength./its strength is burgeoning by the day./it has reached the pinnacle of its power.]"
  97: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
+ 98: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
     → "My sisters are monitoring the strength of our enemies throughout the realm. By your leave, I shall share with thee their findings."
  99: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0235 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
 101: 0x023A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
 102: 0x023F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[6]
 103: 0x0244 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[7]
-104: 0x0249 [0x48] [System] [8508*]:
+104: 0x0249 [0x48] [System] [8509*]:
     → "East Ronfaure: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Jugner Forest: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Vunkerl Inlet: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Batallia Downs: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 105: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x024D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[8]
 107: 0x0252 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 108: 0x0257 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
 109: 0x025C [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[11]
-110: 0x0261 [0x48] [System] [8509*]:
+110: 0x0261 [0x48] [System] [8510*]:
     → "North GustabergF[$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Grauberg: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Pashhow Marshlands: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Rolanberry Fields: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 111: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0265 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 113: 0x026A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[13]
 114: 0x026F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[14]
 115: 0x0274 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[15]
-116: 0x0279 [0x48] [System] [8510*]:
+116: 0x0279 [0x48] [System] [8511*]:
     → "West Sarutabaruta: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Fort Karugo-Narugo: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Meriphataud Mountains: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Sauromugue Champaign: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 117: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x027D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 119: 0x0282 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
-120: 0x0287 [0x48] [System] [8511*]:
+120: 0x0287 [0x48] [System] [8512*]:
     → "Beaucedine Glacier: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26] Xarcabard: [$26/$26$26/$26$26$26/$26$26$26$26/$26$26$26$26$26]"
 121: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x028B [0x01] GOTO 0x00E5
@@ -413,7 +413,7 @@ SUBROUTINE_0296:
 SUBROUTINE_03F7:
 190: 0x03F7 [0x03] Work_Zone[2] = 5*
 191: 0x03FC [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[3]
-192: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
+192: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
     → "The $1 thou hast entrusted to our keeping can endure only $0 more enchantments. Thenceforth, it shall be rendered useless. Pray be wary!"
 193: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0405 [0x01] GOTO 0x00E5

@@ -72,47 +72,47 @@
 |      49 | 0x0F5D      |        3933 |
 |      50 | 0x026B      |         619 |
 |      51 | 0x000F      |          15 |
-|      52 | 0x1FE9      |        8169 |
+|      52 | 0x1FEA      |        8170 |
 |      53 | 0x0013      |          19 |
-|      54 | 0x1FEA      |        8170 |
-|      55 | 0x1FEB      |        8171 |
-|      56 | 0x1FEC      |        8172 |
+|      54 | 0x1FEB      |        8171 |
+|      55 | 0x1FEC      |        8172 |
+|      56 | 0x1FED      |        8173 |
 |      57 | 0x003C      |          60 |
 |      58 | 0x0012      |          18 |
 |      59 | 0x00E9      |         233 |
 |      60 | 0x0044      |          68 |
 |      61 | 0x0078      |         120 |
-|      62 | 0x1FED      |        8173 |
-|      63 | 0x1FEE      |        8174 |
+|      62 | 0x1FEE      |        8174 |
+|      63 | 0x1FEF      |        8175 |
 |      64 | 0x0050      |          80 |
-|      65 | 0x1FEF      |        8175 |
-|      66 | 0x1FF0      |        8176 |
+|      65 | 0x1FF0      |        8176 |
+|      66 | 0x1FF1      |        8177 |
 |      67 | 0x005A      |          90 |
-|      68 | 0x1FF1      |        8177 |
-|      69 | 0x1FF2      |        8178 |
+|      68 | 0x1FF2      |        8178 |
+|      69 | 0x1FF3      |        8179 |
 |      70 | 0x0096      |         150 |
-|      71 | 0x1FF3      |        8179 |
-|      72 | 0x1FF4      |        8180 |
-|      73 | 0x1FF5      |        8181 |
+|      71 | 0x1FF4      |        8180 |
+|      72 | 0x1FF5      |        8181 |
+|      73 | 0x1FF6      |        8182 |
 |      74 | 0x0025      |          37 |
 |      75 | 0x0032      |          50 |
 |      76 | 0x0028      |          40 |
-|      77 | 0x1FF6      |        8182 |
-|      78 | 0x1FF7      |        8183 |
+|      77 | 0x1FF7      |        8183 |
+|      78 | 0x1FF8      |        8184 |
 |      79 | 0x0262      |         610 |
 |      80 | 0x0064      |         100 |
 |      81 | 0x0080      |         128 |
 |      82 | 0x000A      |          10 |
 |      83 | 0x0046      |          70 |
 |      84 | 0x008C      |         140 |
-|      85 | 0x1FF8      |        8184 |
-|      86 | 0x1FF9      |        8185 |
-|      87 | 0x1FFA      |        8186 |
-|      88 | 0x1FFB      |        8187 |
-|      89 | 0x1FFC      |        8188 |
-|      90 | 0x1FFD      |        8189 |
-|      91 | 0x1FFE      |        8190 |
-|      92 | 0x1FFF      |        8191 |
+|      85 | 0x1FF9      |        8185 |
+|      86 | 0x1FFA      |        8186 |
+|      87 | 0x1FFB      |        8187 |
+|      88 | 0x1FFC      |        8188 |
+|      89 | 0x1FFD      |        8189 |
+|      90 | 0x1FFE      |        8190 |
+|      91 | 0x1FFF      |        8191 |
+|      92 | 0x2000      |        8192 |
 
 ## Events
 
@@ -464,7 +464,7 @@
  64: 0x0477 [0x27] REQ_SET(priority=0x08, entity_id=Braga (ID: 17867218/0x0110A1D2), tag_num=0x09)
  65: 0x047E [0x1C] WAIT(15* ticks)
  66: 0x0481 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 67: 0x0492 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8169*]:
+ 67: 0x0492 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8170*]:
     → "I figured you'd find your way here."
  68: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x049A [0x4A] LocalPlayer looks at Braga (ID: 17867218/0x0110A1D2)
@@ -478,7 +478,7 @@
  77: 0x04E0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  78: 0x04E5 [0x2A] GET_REQ_LEVEL(level=8, entity_id=Braga (ID: 17867218/0x0110A1D2))
  79: 0x04EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Braga (ID: 17867218/0x0110A1D2), Braga (ID: 17867218/0x0110A1D2)], work=19*
- 80: 0x04FA [0x2B] Braga (ID: 17867218/0x0110A1D2) [8170*]:
+ 80: 0x04FA [0x2B] Braga (ID: 17867218/0x0110A1D2) [8171*]:
     → "This lush crevasse is full of winding corridors. It makes me think of the many paths down which Marjami had to tread before developing her school of swordsmanship."
  81: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0502 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Braga (ID: 17867218/0x0110A1D2), Braga (ID: 17867218/0x0110A1D2)]
@@ -491,10 +491,10 @@
  89: 0x0541 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17867223/0x0110A1D7), tag_num=0x02)
  90: 0x0548 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17867224/0x0110A1D8), tag_num=0x02)
  91: 0x054F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[619*, 0*]
- 92: 0x0560 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8171*]:
+ 92: 0x0560 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8172*]:
     → "Yet the prevailing theory on how this ravine came to be named after Marjami is a bit more dramatic. People say that she infused a blade with myriad elemental powers and unleashed them in one fell stroke upon the ground, shearing rifts throughout the land."
  93: 0x0567 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0568 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8172*]:
+ 94: 0x0568 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8173*]:
     → ""Why," you ask? Because of the battle that unfurled between them and a being of unrivaled might."
  95: 0x056F [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0570 [0x1C] WAIT(60* ticks)
@@ -530,43 +530,43 @@ SUBROUTINE_05AC:
 124: 0x0611 [0x1C] WAIT(15* ticks)
 125: 0x0614 [0x1A] CALL_SUBROUTINE(address=0x0085)
 126: 0x0617 [0x1C] WAIT(120* ticks)
-127: 0x061A [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8173*]:
+127: 0x061A [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8174*]:
     → "<Haaah>... <Haaah>... I...don't think...I can go on."
 128: 0x0621 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0622 [0x52] END_LOAD_SCHEDULER: End scheduler "s045" with entities [EventEntity, EventEntity], work=619*
 130: 0x0631 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s049" with entities [EventEntity, EventEntity], work=[619*, 0*]
 131: 0x0642 [0x1C] WAIT(60* ticks)
-132: 0x0645 [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8174*]:
+132: 0x0645 [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8175*]:
     → "But the fight has just begun! We can't lie down and die so easily!"
 133: 0x064C [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x064D [0x1C] WAIT(30* ticks)
 135: 0x0650 [0x52] END_LOAD_SCHEDULER: End scheduler "s049" with entities [EventEntity, EventEntity], work=619*
 136: 0x065F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s050" with entities [EventEntity, EventEntity], work=[619*, 0*]
 137: 0x0670 [0x1C] WAIT(80* ticks)
-138: 0x0673 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8175*]:
+138: 0x0673 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8176*]:
     → "Should we cede this ravine, our forces on the coast will be utterly annihilated."
 139: 0x067A [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x067B [0x1C] WAIT(30* ticks)
 141: 0x067E [0x52] END_LOAD_SCHEDULER: End scheduler "s050" with entities [EventEntity, EventEntity], work=619*
 142: 0x068D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s051" with entities [EventEntity, EventEntity], work=[619*, 0*]
 143: 0x069E [0x1C] WAIT(120* ticks)
-144: 0x06A1 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8176*]:
+144: 0x06A1 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8177*]:
     → "Cirdas... Do you think it's possible for you to fight without the benediction I cast?"
 145: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x06A9 [0x1C] WAIT(60* ticks)
 147: 0x06AC [0x52] END_LOAD_SCHEDULER: End scheduler "s051" with entities [EventEntity, EventEntity], work=619*
 148: 0x06BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s052" with entities [EventEntity, EventEntity], work=[619*, 0*]
 149: 0x06CC [0x1C] WAIT(90* ticks)
-150: 0x06CF [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8177*]:
+150: 0x06CF [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8178*]:
     → "What're you saying!? Revoking your favor would be absolutely ridiculous!"
 151: 0x06D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x06D7 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8178*]:
+152: 0x06D7 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8179*]:
     → "Please...just for a little bit."
 153: 0x06DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x06DF [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [EventEntity, EventEntity], work=619*
 155: 0x06EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [EventEntity, EventEntity], work=[619*, 0*]
 156: 0x06FF [0x1C] WAIT(150* ticks)
-157: 0x0702 [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8179*]:
+157: 0x0702 [0x2B] Unnamed NPC (ID: 17867216/0x0110A1D0) [8180*]:
     → "...Alright. I'll do what I can."
 158: 0x0709 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x070A [0x4A] Unnamed NPC (ID: 17867215/0x0110A1CF) looks at Unnamed NPC (ID: 17867219/0x0110A1D3)
@@ -574,10 +574,10 @@ SUBROUTINE_05AC:
 161: 0x0722 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[619*, 0*]
 162: 0x0733 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 163: 0x0734 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Unnamed NPC (ID: 17867215/0x0110A1CF) Render.Flags0 and Render.Flags3 conditions are met
-164: 0x0739 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8180*]:
+164: 0x0739 [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8181*]:
     → "Hennetiel, I know you're pretty terrible at most things, but you've figured out which end of a polearm is the pointy one, right?"
 165: 0x0740 [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x0741 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8181*]:
+166: 0x0741 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8182*]:
     → "Hmph. What sort of trick do you think you have up your sleeve?"
 167: 0x0748 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x0749 [0x27] REQ_SET(priority=0x08, entity_id=Unnamed NPC (ID: 17867215/0x0110A1CF), tag_num=0x0F)
@@ -601,7 +601,7 @@ SUBROUTINE_05AC:
 186: 0x07BC [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [EventEntity, EventEntity], work=619*
 187: 0x07CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [EventEntity, EventEntity], work=[619*, 0*]
 188: 0x07DC [0x1C] WAIT(60* ticks)
-189: 0x07DF [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8182*]:
+189: 0x07DF [0x2B] Unnamed NPC (ID: 17867215/0x0110A1CF) [8183*]:
     → "I'm going to coat your lance with the remainder of my powers. Even you should know how to take it from there."
 190: 0x07E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x07E7 [0x1C] WAIT(60* ticks)
@@ -611,7 +611,7 @@ SUBROUTINE_05AC:
 195: 0x0800 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [EventEntity, EventEntity], work=619*
 196: 0x080F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [EventEntity, EventEntity], work=[619*, 0*]
 197: 0x0820 [0x1C] WAIT(30* ticks)
-198: 0x0823 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8183*]:
+198: 0x0823 [0x2B] Unnamed NPC (ID: 17867219/0x0110A1D3) [8184*]:
     → "What absurdity! If you do that, you shall... Marjami, no! Please, I beg of you...!"
 199: 0x082A [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x082B [0x1C] WAIT(60* ticks)
@@ -653,28 +653,28 @@ SUBROUTINE_090B:
 234: 0x0943 [0x1C] WAIT(15* ticks)
 235: 0x0946 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s059" with entities [EventEntity, EventEntity], work=[619*, 0*]
 236: 0x0957 [0x1A] CALL_SUBROUTINE(address=0x0085)
-237: 0x095A [0x2B] Braga (ID: 17867218/0x0110A1D2) [8184*]:
+237: 0x095A [0x2B] Braga (ID: 17867218/0x0110A1D2) [8185*]:
     → "Rune fencers are one with their sword, but must augment their arsenal with magical properties to enhance themselves, thus becoming true forces to be reckoned with."
 238: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
-239: 0x0962 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8185*]:
+239: 0x0962 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8186*]:
     → "Many thought it easier to employ such tactics with sturdier blades rather than brittle epees and rapiers, so they switched their martial allegiance to those weapons."
 240: 0x0969 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x096A [0x52] END_LOAD_SCHEDULER: End scheduler "s059" with entities [EventEntity, EventEntity], work=619*
 242: 0x0979 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[619*, 0*]
-243: 0x098A [0x2B] Braga (ID: 17867218/0x0110A1D2) [8186*]:
+243: 0x098A [0x2B] Braga (ID: 17867218/0x0110A1D2) [8187*]:
     → "With this change in weaponry came an increasing need for strength."
 244: 0x0991 [0x23] WAIT_FOR_DIALOG_INTERACTION
-245: 0x0992 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8187*]:
+245: 0x0992 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8188*]:
     → "The emphasis shifted from parrying enemy attacks to striking out at opponents."
 246: 0x0999 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x099A [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [EventEntity, EventEntity], work=619*
 248: 0x09A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[619*, 0*]
-249: 0x09BA [0x2B] Braga (ID: 17867218/0x0110A1D2) [8188*]:
+249: 0x09BA [0x2B] Braga (ID: 17867218/0x0110A1D2) [8189*]:
     → "The transition likely ended in the blink of an eye. It couldn't take long to see that greatswords' reach and weight would be prized attributes within this new philosophy."
 250: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x09C2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s061" with entities [EventEntity, EventEntity], work=619*
 252: 0x09D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s062" with entities [EventEntity, EventEntity], work=[619*, 0*]
-253: 0x09E2 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8189*]:
+253: 0x09E2 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8190*]:
     → "...I suppose that is as good an example of progress as you'll find in any school primer."
 254: 0x09E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x09EA [0x1C] WAIT(60* ticks)
@@ -685,11 +685,11 @@ SUBROUTINE_090B:
 260: 0x0A13 [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [EventEntity, EventEntity], work=619*
 261: 0x0A22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [EventEntity, EventEntity], work=[619*, 0*]
 262: 0x0A33 [0x1C] WAIT(120* ticks)
-263: 0x0A36 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8190*]:
+263: 0x0A36 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8191*]:
     → "Well, that sword of yours looks like it's overflowing with runic energy. I guess that's all for now."
 264: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0A3E [0x27] REQ_SET(priority=0x08, entity_id=LocalPlayer, tag_num=0x07)
-266: 0x0A45 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8191*]:
+266: 0x0A45 [0x2B] Braga (ID: 17867218/0x0110A1D2) [8192*]:
     → "Until we meet again, <Player>."
 267: 0x0A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 268: 0x0A4D [0x1C] WAIT(40* ticks)

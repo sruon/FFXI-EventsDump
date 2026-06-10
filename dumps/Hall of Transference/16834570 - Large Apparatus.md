@@ -26,7 +26,7 @@
 |       2 | 0x003C      |          60 |
 |       3 | 0x0013      |          19 |
 |       4 | 0x005E      |          94 |
-|       5 | 0x1C65      |        7269 |
+|       5 | 0x1C66      |        7270 |
 |       6 | 0x005A      |          90 |
 |       7 | 0x00F0      |         240 |
 |       8 | 0x00C9      |         201 |
@@ -35,7 +35,7 @@
 
 ## String References
 
-- **7269**: You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing...
+- **7270**: You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing...
 
 ## Events
 
@@ -101,7 +101,7 @@
   9: 0x0027 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z14f" with entities [EventEntity, EventEntity], work=[94*, 0*]
  10: 0x0038 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  11: 0x0049 [0x1C] WAIT(60* ticks)
- 12: 0x004C [0x48] [System] [7269*]:
+ 12: 0x004C [0x48] [System] [7270*]:
     → "You see a honeycomb-like sheet made up of tiny clear hexagonal chips arranged here. One appears to be missing..."
  13: 0x004F [0x1C] WAIT(90* ticks)
  14: 0x0052 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

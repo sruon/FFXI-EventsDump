@@ -86,20 +86,20 @@
 |      22 | 0x01BB      |         443 |
 |      23 | 0x01ED      |         493 |
 |      24 | 0x01EE      |         494 |
-|      25 | 0x1FC4      |        8132 |
-|      26 | 0x1FC5      |        8133 |
-|      27 | 0x1FDD      |        8157 |
-|      28 | 0x1FDE      |        8158 |
-|      29 | 0x2079      |        8313 |
-|      30 | 0x207A      |        8314 |
-|      31 | 0x2086      |        8326 |
-|      32 | 0x2087      |        8327 |
-|      33 | 0x2088      |        8328 |
-|      34 | 0x2105      |        8453 |
-|      35 | 0x2106      |        8454 |
-|      36 | 0x210D      |        8461 |
-|      37 | 0x2161      |        8545 |
-|      38 | 0x2162      |        8546 |
+|      25 | 0x1FC5      |        8133 |
+|      26 | 0x1FC6      |        8134 |
+|      27 | 0x1FDE      |        8158 |
+|      28 | 0x1FDF      |        8159 |
+|      29 | 0x207A      |        8314 |
+|      30 | 0x207B      |        8315 |
+|      31 | 0x2087      |        8327 |
+|      32 | 0x2088      |        8328 |
+|      33 | 0x2089      |        8329 |
+|      34 | 0x2106      |        8454 |
+|      35 | 0x2107      |        8455 |
+|      36 | 0x210E      |        8462 |
+|      37 | 0x2162      |        8546 |
+|      38 | 0x2163      |        8547 |
 
 ## String References
 
@@ -115,20 +115,20 @@
 - **443**: The Shadow Lord's rrreturn is near, and they are having conferrrences... Unbelievable!
 - **493**: I heard the news! Who would have thought that a simple adventurerrr could foil the plans of the beastmen?
 - **494**: I am honored to live and work in the same great countrrry as you, [Sir/Lady] <Player>!
-- **8132**: The objectives of the missions given out at gatehouses are not prrroperly scrutinized. It seems the ministers are having adventurers participate in all sorts of harebrrrained schemes.
-- **8133**: Brrringing the ministers back into line will be the first step in changing Windurst for the better.
-- **8157**: Opening the Darrrk Dungeon requires a "Charm of Darkness." However, only the Star Sibyl is capable of making them.
-- **8158**: This spells the end for the Orastery ministerrr... It's such a shame...
-- **8313**: We were faced with such incredible powerrr... Even we Sibyl Guards were frozen to the spot by the terrrror that creature inspired.
-- **8314**: In coming to Heavens Tower, was its goal to seek out the Star Sibyl?
-- **8326**: We Sibyl Guards were formed to protect the perrrson of the Star Sibyl.
-- **8327**: But if we can't perform our duties as bodyguards, our prrresence here outside the Vestal Chamber becomes no more than a charrrade.
-- **8328**: ...This must be something like the frustrrration the Star Sibyl felt when performing those meaningless ceremonies at the magic-drained Star Spring.
-- **8453**: At times like this, the Star Sibyl's stamina and spirrrit are being put to the test.
-- **8454**: We must rescue her from those puppets as soon as possible, but Semih Lafihna has yet to give the orrrder. I suppose just rushing in might make things worrrse...
-- **8461**: Semih Lafihna has given her orrrders. The time has come for the Sibyl Guards to unsheathe our claws and fight with all our strrrength...
-- **8545**: The ceremony performed by the Star Sibyl at the Full Moon Fountain is known as the Moon Reading.
-- **8546**: The Moon Reading uses the powerrr of the Stars and the Moon to grant one tremendous wish. It is this power that has allowed the cheerful Tarutaru to exist in this land for as long as they have.
+- **8133**: The objectives of the missions given out at gatehouses are not prrroperly scrutinized. It seems the ministers are having adventurers participate in all sorts of harebrrrained schemes.
+- **8134**: Brrringing the ministers back into line will be the first step in changing Windurst for the better.
+- **8158**: Opening the Darrrk Dungeon requires a "Charm of Darkness." However, only the Star Sibyl is capable of making them.
+- **8159**: This spells the end for the Orastery ministerrr... It's such a shame...
+- **8314**: We were faced with such incredible powerrr... Even we Sibyl Guards were frozen to the spot by the terrrror that creature inspired.
+- **8315**: In coming to Heavens Tower, was its goal to seek out the Star Sibyl?
+- **8327**: We Sibyl Guards were formed to protect the perrrson of the Star Sibyl.
+- **8328**: But if we can't perform our duties as bodyguards, our prrresence here outside the Vestal Chamber becomes no more than a charrrade.
+- **8329**: ...This must be something like the frustrrration the Star Sibyl felt when performing those meaningless ceremonies at the magic-drained Star Spring.
+- **8454**: At times like this, the Star Sibyl's stamina and spirrrit are being put to the test.
+- **8455**: We must rescue her from those puppets as soon as possible, but Semih Lafihna has yet to give the orrrder. I suppose just rushing in might make things worrrse...
+- **8462**: Semih Lafihna has given her orrrders. The time has come for the Sibyl Guards to unsheathe our claws and fight with all our strrrength...
+- **8546**: The ceremony performed by the Star Sibyl at the Full Moon Fountain is known as the Moon Reading.
+- **8547**: The Moon Reading uses the powerrr of the Stars and the Moon to grant one tremendous wish. It is this power that has allowed the cheerful Tarutaru to exist in this land for as long as they have.
 
 ## Events
 
@@ -1099,10 +1099,10 @@
   1: 0x0275 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0276 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0277 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  4: 0x027E [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "The objectives of the missions given out at gatehouses are not prrroperly scrutinized. It seems the ministers are having adventurers participate in all sorts of harebrrrained schemes."
   5: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  6: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "Brrringing the ministers back into line will be the first step in changing Windurst for the better."
   7: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0286 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1137,10 +1137,10 @@
   1: 0x029D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x029E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x029F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
+  4: 0x02A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
     → "Opening the Darrrk Dungeon requires a "Charm of Darkness." However, only the Star Sibyl is capable of making them."
   5: 0x02A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  6: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "This spells the end for the Orastery ministerrr... It's such a shame..."
   7: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1175,10 +1175,10 @@
   1: 0x02C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  4: 0x02CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "We were faced with such incredible powerrr... Even we Sibyl Guards were frozen to the spot by the terrrror that creature inspired."
   5: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+  6: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "In coming to Heavens Tower, was its goal to seek out the Star Sibyl?"
   7: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1214,13 +1214,13 @@
   1: 0x02ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8326*)
+  4: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
     → "We Sibyl Guards were formed to protect the perrrson of the Star Sibyl."
   5: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8327*)
+  6: 0x02FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
     → "But if we can't perform our duties as bodyguards, our prrresence here outside the Vestal Chamber becomes no more than a charrrade."
   7: 0x02FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8328*)
+  8: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8329*)
     → "...This must be something like the frustrrration the Star Sibyl felt when performing those meaningless ceremonies at the magic-drained Star Spring."
   9: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0302 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1255,10 +1255,10 @@
   1: 0x0319 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x031A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x031B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=8453*)
+  4: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=8454*)
     → "At times like this, the Star Sibyl's stamina and spirrrit are being put to the test."
   5: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=8454*)
+  6: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=8455*)
     → "We must rescue her from those puppets as soon as possible, but Semih Lafihna has yet to give the orrrder. I suppose just rushing in might make things worrrse..."
   7: 0x0329 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x032A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1293,7 +1293,7 @@
   1: 0x0341 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0342 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0343 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x034A [0x1D] PRINT_EVENT_MESSAGE(message_id=8461*)
+  4: 0x034A [0x1D] PRINT_EVENT_MESSAGE(message_id=8462*)
     → "Semih Lafihna has given her orrrders. The time has come for the Sibyl Guards to unsheathe our claws and fight with all our strrrength..."
   5: 0x034D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x034E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)
@@ -1328,10 +1328,10 @@
   1: 0x0365 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0366 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0367 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x01)
-  4: 0x036E [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
+  4: 0x036E [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
     → "The ceremony performed by the Star Sibyl at the Full Moon Fountain is known as the Moon Reading."
   5: 0x0371 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
+  6: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=8547*)
     → "The Moon Reading uses the powerrr of the Stars and the Moon to grant one tremendous wish. It is this power that has allowed the cheerful Tarutaru to exist in this land for as long as they have."
   7: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0376 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Vahn Paineesha (ID: 17768481/0x010F2021), tag_num=0x03)

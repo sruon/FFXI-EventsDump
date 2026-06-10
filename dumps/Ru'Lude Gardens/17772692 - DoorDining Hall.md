@@ -31,181 +31,181 @@
 |       4 | 0x01B7      |         439 |
 |       5 | 0x007F      |         127 |
 |       6 | 0x0058      |          88 |
-|       7 | 0x361E      |       13854 |
-|       8 | 0x361F      |       13855 |
-|       9 | 0x3620      |       13856 |
+|       7 | 0x361F      |       13855 |
+|       8 | 0x3620      |       13856 |
+|       9 | 0x3621      |       13857 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x0014      |          20 |
-|      12 | 0x3621      |       13857 |
+|      12 | 0x3622      |       13858 |
 |      13 | 0x0FFD      |        4093 |
-|      14 | 0x3622      |       13858 |
-|      15 | 0x3623      |       13859 |
-|      16 | 0x3624      |       13860 |
-|      17 | 0x3625      |       13861 |
-|      18 | 0x3628      |       13864 |
-|      19 | 0x3626      |       13862 |
+|      14 | 0x3623      |       13859 |
+|      15 | 0x3624      |       13860 |
+|      16 | 0x3625      |       13861 |
+|      17 | 0x3626      |       13862 |
+|      18 | 0x3629      |       13865 |
+|      19 | 0x3627      |       13863 |
 |      20 | 0x001E      |          30 |
-|      21 | 0x3627      |       13863 |
-|      22 | 0x3629      |       13865 |
-|      23 | 0x362A      |       13866 |
-|      24 | 0x362B      |       13867 |
-|      25 | 0x362C      |       13868 |
-|      26 | 0x362D      |       13869 |
-|      27 | 0x362E      |       13870 |
-|      28 | 0x362F      |       13871 |
-|      29 | 0x3630      |       13872 |
-|      30 | 0x3631      |       13873 |
-|      31 | 0x3632      |       13874 |
-|      32 | 0x3633      |       13875 |
-|      33 | 0x3634      |       13876 |
-|      34 | 0x3635      |       13877 |
-|      35 | 0x3636      |       13878 |
-|      36 | 0x3637      |       13879 |
-|      37 | 0x3638      |       13880 |
-|      38 | 0x3639      |       13881 |
-|      39 | 0x363A      |       13882 |
-|      40 | 0x363B      |       13883 |
-|      41 | 0x363C      |       13884 |
+|      21 | 0x3628      |       13864 |
+|      22 | 0x362A      |       13866 |
+|      23 | 0x362B      |       13867 |
+|      24 | 0x362C      |       13868 |
+|      25 | 0x362D      |       13869 |
+|      26 | 0x362E      |       13870 |
+|      27 | 0x362F      |       13871 |
+|      28 | 0x3630      |       13872 |
+|      29 | 0x3631      |       13873 |
+|      30 | 0x3632      |       13874 |
+|      31 | 0x3633      |       13875 |
+|      32 | 0x3634      |       13876 |
+|      33 | 0x3635      |       13877 |
+|      34 | 0x3636      |       13878 |
+|      35 | 0x3637      |       13879 |
+|      36 | 0x3638      |       13880 |
+|      37 | 0x3639      |       13881 |
+|      38 | 0x363A      |       13882 |
+|      39 | 0x363B      |       13883 |
+|      40 | 0x363C      |       13884 |
+|      41 | 0x363D      |       13885 |
 |      42 | 0x000F      |          15 |
-|      43 | 0x363D      |       13885 |
-|      44 | 0x363E      |       13886 |
-|      45 | 0x363F      |       13887 |
-|      46 | 0x3640      |       13888 |
-|      47 | 0x3641      |       13889 |
-|      48 | 0x3642      |       13890 |
+|      43 | 0x363E      |       13886 |
+|      44 | 0x363F      |       13887 |
+|      45 | 0x3640      |       13888 |
+|      46 | 0x3641      |       13889 |
+|      47 | 0x3642      |       13890 |
+|      48 | 0x3643      |       13891 |
 |      49 | 0x0032      |          50 |
 |      50 | 0x0168      |         360 |
-|      51 | 0x3643      |       13891 |
-|      52 | 0x3644      |       13892 |
-|      53 | 0x3645      |       13893 |
+|      51 | 0x3644      |       13892 |
+|      52 | 0x3645      |       13893 |
+|      53 | 0x3646      |       13894 |
 |      54 | 0x00B9      |         185 |
-|      55 | 0x3646      |       13894 |
-|      56 | 0x3647      |       13895 |
-|      57 | 0x3648      |       13896 |
-|      58 | 0x3649      |       13897 |
-|      59 | 0x364A      |       13898 |
-|      60 | 0x364B      |       13899 |
-|      61 | 0x364C      |       13900 |
-|      62 | 0x364D      |       13901 |
-|      63 | 0x364E      |       13902 |
-|      64 | 0x364F      |       13903 |
-|      65 | 0x3650      |       13904 |
-|      66 | 0x3651      |       13905 |
-|      67 | 0x3652      |       13906 |
-|      68 | 0x3653      |       13907 |
-|      69 | 0x3654      |       13908 |
-|      70 | 0x3655      |       13909 |
-|      71 | 0x3656      |       13910 |
-|      72 | 0x3657      |       13911 |
-|      73 | 0x3658      |       13912 |
-|      74 | 0x3659      |       13913 |
-|      75 | 0x365A      |       13914 |
-|      76 | 0x365B      |       13915 |
-|      77 | 0x365C      |       13916 |
-|      78 | 0x365D      |       13917 |
-|      79 | 0x365E      |       13918 |
-|      80 | 0x365F      |       13919 |
-|      81 | 0x3660      |       13920 |
-|      82 | 0x3661      |       13921 |
-|      83 | 0x3662      |       13922 |
-|      84 | 0x3663      |       13923 |
-|      85 | 0x3664      |       13924 |
-|      86 | 0x3665      |       13925 |
-|      87 | 0x3666      |       13926 |
-|      88 | 0x3667      |       13927 |
-|      89 | 0x3668      |       13928 |
-|      90 | 0x3669      |       13929 |
-|      91 | 0x366A      |       13930 |
-|      92 | 0x366B      |       13931 |
-|      93 | 0x366C      |       13932 |
-|      94 | 0x366D      |       13933 |
-|      95 | 0x366E      |       13934 |
+|      55 | 0x3647      |       13895 |
+|      56 | 0x3648      |       13896 |
+|      57 | 0x3649      |       13897 |
+|      58 | 0x364A      |       13898 |
+|      59 | 0x364B      |       13899 |
+|      60 | 0x364C      |       13900 |
+|      61 | 0x364D      |       13901 |
+|      62 | 0x364E      |       13902 |
+|      63 | 0x364F      |       13903 |
+|      64 | 0x3650      |       13904 |
+|      65 | 0x3651      |       13905 |
+|      66 | 0x3652      |       13906 |
+|      67 | 0x3653      |       13907 |
+|      68 | 0x3654      |       13908 |
+|      69 | 0x3655      |       13909 |
+|      70 | 0x3656      |       13910 |
+|      71 | 0x3657      |       13911 |
+|      72 | 0x3658      |       13912 |
+|      73 | 0x3659      |       13913 |
+|      74 | 0x365A      |       13914 |
+|      75 | 0x365B      |       13915 |
+|      76 | 0x365C      |       13916 |
+|      77 | 0x365D      |       13917 |
+|      78 | 0x365E      |       13918 |
+|      79 | 0x365F      |       13919 |
+|      80 | 0x3660      |       13920 |
+|      81 | 0x3661      |       13921 |
+|      82 | 0x3662      |       13922 |
+|      83 | 0x3663      |       13923 |
+|      84 | 0x3664      |       13924 |
+|      85 | 0x3665      |       13925 |
+|      86 | 0x3666      |       13926 |
+|      87 | 0x3667      |       13927 |
+|      88 | 0x3668      |       13928 |
+|      89 | 0x3669      |       13929 |
+|      90 | 0x366A      |       13930 |
+|      91 | 0x366B      |       13931 |
+|      92 | 0x366C      |       13932 |
+|      93 | 0x366D      |       13933 |
+|      94 | 0x366E      |       13934 |
+|      95 | 0x366F      |       13935 |
 |      96 | 0x0007      |           7 |
 |      97 | 0x005A      |          90 |
-|      98 | 0x366F      |       13935 |
+|      98 | 0x3670      |       13936 |
 |      99 | 0x0006      |           6 |
-|     100 | 0x3670      |       13936 |
-|     101 | 0x3671      |       13937 |
-|     102 | 0x3672      |       13938 |
-|     103 | 0x3673      |       13939 |
-|     104 | 0x3674      |       13940 |
-|     105 | 0x3675      |       13941 |
-|     106 | 0x3677      |       13943 |
+|     100 | 0x3671      |       13937 |
+|     101 | 0x3672      |       13938 |
+|     102 | 0x3673      |       13939 |
+|     103 | 0x3674      |       13940 |
+|     104 | 0x3675      |       13941 |
+|     105 | 0x3676      |       13942 |
+|     106 | 0x3678      |       13944 |
 |     107 | 0x003C      |          60 |
-|     108 | 0x3678      |       13944 |
-|     109 | 0x3679      |       13945 |
-|     110 | 0x367A      |       13946 |
-|     111 | 0x367B      |       13947 |
-|     112 | 0x367C      |       13948 |
-|     113 | 0x367D      |       13949 |
-|     114 | 0x367E      |       13950 |
-|     115 | 0x367F      |       13951 |
-|     116 | 0x3680      |       13952 |
-|     117 | 0x3681      |       13953 |
-|     118 | 0x3682      |       13954 |
-|     119 | 0x3683      |       13955 |
-|     120 | 0x3684      |       13956 |
+|     108 | 0x3679      |       13945 |
+|     109 | 0x367A      |       13946 |
+|     110 | 0x367B      |       13947 |
+|     111 | 0x367C      |       13948 |
+|     112 | 0x367D      |       13949 |
+|     113 | 0x367E      |       13950 |
+|     114 | 0x367F      |       13951 |
+|     115 | 0x3680      |       13952 |
+|     116 | 0x3681      |       13953 |
+|     117 | 0x3682      |       13954 |
+|     118 | 0x3683      |       13955 |
+|     119 | 0x3684      |       13956 |
+|     120 | 0x3685      |       13957 |
 |     121 | 0x0002      |           2 |
-|     122 | 0x3685      |       13957 |
-|     123 | 0x3686      |       13958 |
-|     124 | 0x3687      |       13959 |
-|     125 | 0x3688      |       13960 |
-|     126 | 0x3689      |       13961 |
-|     127 | 0x3676      |       13942 |
-|     128 | 0x368A      |       13962 |
-|     129 | 0x368B      |       13963 |
-|     130 | 0x368C      |       13964 |
-|     131 | 0x368D      |       13965 |
-|     132 | 0x368E      |       13966 |
-|     133 | 0x368F      |       13967 |
-|     134 | 0x3690      |       13968 |
-|     135 | 0x3691      |       13969 |
-|     136 | 0x3692      |       13970 |
-|     137 | 0x3693      |       13971 |
-|     138 | 0x3694      |       13972 |
-|     139 | 0x3695      |       13973 |
-|     140 | 0x3696      |       13974 |
+|     122 | 0x3686      |       13958 |
+|     123 | 0x3687      |       13959 |
+|     124 | 0x3688      |       13960 |
+|     125 | 0x3689      |       13961 |
+|     126 | 0x368A      |       13962 |
+|     127 | 0x3677      |       13943 |
+|     128 | 0x368B      |       13963 |
+|     129 | 0x368C      |       13964 |
+|     130 | 0x368D      |       13965 |
+|     131 | 0x368E      |       13966 |
+|     132 | 0x368F      |       13967 |
+|     133 | 0x3690      |       13968 |
+|     134 | 0x3691      |       13969 |
+|     135 | 0x3692      |       13970 |
+|     136 | 0x3693      |       13971 |
+|     137 | 0x3694      |       13972 |
+|     138 | 0x3695      |       13973 |
+|     139 | 0x3696      |       13974 |
+|     140 | 0x3697      |       13975 |
 |     141 | 0x009D      |         157 |
-|     142 | 0x3697      |       13975 |
-|     143 | 0x3698      |       13976 |
-|     144 | 0x3699      |       13977 |
-|     145 | 0x369A      |       13978 |
-|     146 | 0x369B      |       13979 |
-|     147 | 0x369C      |       13980 |
-|     148 | 0x369D      |       13981 |
-|     149 | 0x369E      |       13982 |
-|     150 | 0x369F      |       13983 |
-|     151 | 0x36A0      |       13984 |
-|     152 | 0x36A1      |       13985 |
-|     153 | 0x36A2      |       13986 |
-|     154 | 0x36A3      |       13987 |
-|     155 | 0x36A4      |       13988 |
-|     156 | 0x36A5      |       13989 |
-|     157 | 0x36A6      |       13990 |
-|     158 | 0x36A7      |       13991 |
-|     159 | 0x36A8      |       13992 |
-|     160 | 0x36A9      |       13993 |
-|     161 | 0x36AA      |       13994 |
-|     162 | 0x36AB      |       13995 |
-|     163 | 0x36AC      |       13996 |
-|     164 | 0x36AD      |       13997 |
-|     165 | 0x36AE      |       13998 |
-|     166 | 0x36AF      |       13999 |
-|     167 | 0x36B0      |       14000 |
-|     168 | 0x36B1      |       14001 |
-|     169 | 0x36B2      |       14002 |
-|     170 | 0x36B3      |       14003 |
-|     171 | 0x36B4      |       14004 |
-|     172 | 0x36B5      |       14005 |
-|     173 | 0x36B6      |       14006 |
-|     174 | 0x36B7      |       14007 |
-|     175 | 0x36B8      |       14008 |
-|     176 | 0x36B9      |       14009 |
-|     177 | 0x36BA      |       14010 |
+|     142 | 0x3698      |       13976 |
+|     143 | 0x3699      |       13977 |
+|     144 | 0x369A      |       13978 |
+|     145 | 0x369B      |       13979 |
+|     146 | 0x369C      |       13980 |
+|     147 | 0x369D      |       13981 |
+|     148 | 0x369E      |       13982 |
+|     149 | 0x369F      |       13983 |
+|     150 | 0x36A0      |       13984 |
+|     151 | 0x36A1      |       13985 |
+|     152 | 0x36A2      |       13986 |
+|     153 | 0x36A3      |       13987 |
+|     154 | 0x36A4      |       13988 |
+|     155 | 0x36A5      |       13989 |
+|     156 | 0x36A6      |       13990 |
+|     157 | 0x36A7      |       13991 |
+|     158 | 0x36A8      |       13992 |
+|     159 | 0x36A9      |       13993 |
+|     160 | 0x36AA      |       13994 |
+|     161 | 0x36AB      |       13995 |
+|     162 | 0x36AC      |       13996 |
+|     163 | 0x36AD      |       13997 |
+|     164 | 0x36AE      |       13998 |
+|     165 | 0x36AF      |       13999 |
+|     166 | 0x36B0      |       14000 |
+|     167 | 0x36B1      |       14001 |
+|     168 | 0x36B2      |       14002 |
+|     169 | 0x36B3      |       14003 |
+|     170 | 0x36B4      |       14004 |
+|     171 | 0x36B5      |       14005 |
+|     172 | 0x36B6      |       14006 |
+|     173 | 0x36B7      |       14007 |
+|     174 | 0x36B8      |       14008 |
+|     175 | 0x36B9      |       14009 |
+|     176 | 0x36BA      |       14010 |
+|     177 | 0x36BB      |       14011 |
 |     178 | 0x012C      |         300 |
-|     179 | 0x36BB      |       14011 |
-|     180 | 0x36BC      |       14012 |
-|     181 | 0x36BD      |       14013 |
+|     179 | 0x36BC      |       14012 |
+|     180 | 0x36BD      |       14013 |
+|     181 | 0x36BE      |       14014 |
 |     182 | 0x0075      |         117 |
 |     183 | 0x0013      |          19 |
 |     184 | 0x0109      |         265 |
@@ -217,15 +217,15 @@
 |     190 | 0x0BB7      |        2999 |
 |     191 | 0x04B9      |        1209 |
 |     192 | 0x0121      |         289 |
-|     193 | 0x36E4      |       14052 |
+|     193 | 0x36E5      |       14053 |
 |     194 | 0xFFFFFFC5  |  4294967237 |
 |     195 | 0x80BB      |       32955 |
 |     196 | 0x035B      |         859 |
-|     197 | 0x36E5      |       14053 |
-|     198 | 0x36E6      |       14054 |
-|     199 | 0x36E7      |       14055 |
+|     197 | 0x36E6      |       14054 |
+|     198 | 0x36E7      |       14055 |
+|     199 | 0x36E8      |       14056 |
 |     200 | 0x0016      |          22 |
-|     201 | 0x36E8      |       14056 |
+|     201 | 0x36E9      |       14057 |
 |     202 | 0x0078      |         120 |
 |     203 | 0x7A1A      |       31258 |
 |     204 | 0x116CB     |       71371 |
@@ -256,64 +256,64 @@
 |     229 | 0xEAB3      |       60083 |
 |     230 | 0x0C30      |        3120 |
 |     231 | 0x0074      |         116 |
-|     232 | 0x36E9      |       14057 |
+|     232 | 0x36EA      |       14058 |
 |     233 | 0x00B4      |         180 |
-|     234 | 0x36EA      |       14058 |
-|     235 | 0x36EB      |       14059 |
+|     234 | 0x36EB      |       14059 |
+|     235 | 0x36EC      |       14060 |
 |     236 | 0x0028      |          40 |
-|     237 | 0x36EC      |       14060 |
+|     237 | 0x36ED      |       14061 |
 |     238 | 0x0073      |         115 |
-|     239 | 0x36ED      |       14061 |
-|     240 | 0x36EE      |       14062 |
-|     241 | 0x36EF      |       14063 |
-|     242 | 0x36F0      |       14064 |
-|     243 | 0x36F1      |       14065 |
-|     244 | 0x36F2      |       14066 |
-|     245 | 0x36F3      |       14067 |
-|     246 | 0x36F4      |       14068 |
-|     247 | 0x36F5      |       14069 |
-|     248 | 0x36F6      |       14070 |
-|     249 | 0x36F7      |       14071 |
-|     250 | 0x36F8      |       14072 |
-|     251 | 0x36F9      |       14073 |
-|     252 | 0x36FA      |       14074 |
-|     253 | 0x36FB      |       14075 |
+|     239 | 0x36EE      |       14062 |
+|     240 | 0x36EF      |       14063 |
+|     241 | 0x36F0      |       14064 |
+|     242 | 0x36F1      |       14065 |
+|     243 | 0x36F2      |       14066 |
+|     244 | 0x36F3      |       14067 |
+|     245 | 0x36F4      |       14068 |
+|     246 | 0x36F5      |       14069 |
+|     247 | 0x36F6      |       14070 |
+|     248 | 0x36F7      |       14071 |
+|     249 | 0x36F8      |       14072 |
+|     250 | 0x36F9      |       14073 |
+|     251 | 0x36FA      |       14074 |
+|     252 | 0x36FB      |       14075 |
+|     253 | 0x36FC      |       14076 |
 |     254 | 0xFFFFFFFC  |  4294967292 |
-|     255 | 0x36FC      |       14076 |
-|     256 | 0x36FD      |       14077 |
-|     257 | 0x36FE      |       14078 |
-|     258 | 0x36FF      |       14079 |
-|     259 | 0x3700      |       14080 |
-|     260 | 0x3701      |       14081 |
-|     261 | 0x3702      |       14082 |
-|     262 | 0x3703      |       14083 |
-|     263 | 0x3704      |       14084 |
-|     264 | 0x3705      |       14085 |
-|     265 | 0x3706      |       14086 |
-|     266 | 0x3707      |       14087 |
-|     267 | 0x3708      |       14088 |
-|     268 | 0x3709      |       14089 |
-|     269 | 0x370A      |       14090 |
-|     270 | 0x370B      |       14091 |
-|     271 | 0x370C      |       14092 |
-|     272 | 0x370D      |       14093 |
-|     273 | 0x370E      |       14094 |
-|     274 | 0x370F      |       14095 |
-|     275 | 0x3710      |       14096 |
-|     276 | 0x3711      |       14097 |
-|     277 | 0x3712      |       14098 |
+|     255 | 0x36FD      |       14077 |
+|     256 | 0x36FE      |       14078 |
+|     257 | 0x36FF      |       14079 |
+|     258 | 0x3700      |       14080 |
+|     259 | 0x3701      |       14081 |
+|     260 | 0x3702      |       14082 |
+|     261 | 0x3703      |       14083 |
+|     262 | 0x3704      |       14084 |
+|     263 | 0x3705      |       14085 |
+|     264 | 0x3706      |       14086 |
+|     265 | 0x3707      |       14087 |
+|     266 | 0x3708      |       14088 |
+|     267 | 0x3709      |       14089 |
+|     268 | 0x370A      |       14090 |
+|     269 | 0x370B      |       14091 |
+|     270 | 0x370C      |       14092 |
+|     271 | 0x370D      |       14093 |
+|     272 | 0x370E      |       14094 |
+|     273 | 0x370F      |       14095 |
+|     274 | 0x3710      |       14096 |
+|     275 | 0x3711      |       14097 |
+|     276 | 0x3712      |       14098 |
+|     277 | 0x3713      |       14099 |
 |     278 | 0x55F0      |       22000 |
 |     279 | 0xFA00      |       64000 |
-|     280 | 0x3713      |       14099 |
-|     281 | 0x3714      |       14100 |
-|     282 | 0x3715      |       14101 |
+|     280 | 0x3714      |       14100 |
+|     281 | 0x3715      |       14101 |
+|     282 | 0x3716      |       14102 |
 |     283 | 0x0015      |          21 |
-|     284 | 0x3716      |       14102 |
+|     284 | 0x3717      |       14103 |
 |     285 | 0x73B1      |       29617 |
 |     286 | 0x104C8     |       66760 |
 |     287 | 0x0E8C      |        3724 |
-|     288 | 0x3717      |       14103 |
-|     289 | 0x3718      |       14104 |
+|     288 | 0x3718      |       14104 |
+|     289 | 0x3719      |       14105 |
 |     290 | 0x022F      |         559 |
 |     291 | 0xA37F      |       41855 |
 |     292 | 0x0C00      |        3072 |
@@ -339,117 +339,117 @@
 |     312 | 0x0454      |        1108 |
 |     313 | 0x0494      |        1172 |
 |     314 | 0x00E9      |         233 |
-|     315 | 0x3719      |       14105 |
-|     316 | 0x371A      |       14106 |
-|     317 | 0x371B      |       14107 |
-|     318 | 0x371C      |       14108 |
+|     315 | 0x371A      |       14106 |
+|     316 | 0x371B      |       14107 |
+|     317 | 0x371C      |       14108 |
+|     318 | 0x371D      |       14109 |
 |     319 | 0x0096      |         150 |
 |     320 | 0x042B      |        1067 |
 |     321 | 0xFFFFF1D1  |  4294963665 |
 |     322 | 0xAF40      |       44864 |
 |     323 | 0x00B6      |         182 |
-|     324 | 0x371D      |       14109 |
+|     324 | 0x371E      |       14110 |
 |     325 | 0x042A      |        1066 |
 |     326 | 0x0063      |          99 |
 |     327 | 0x0062      |          98 |
 |     328 | 0x004B      |          75 |
-|     329 | 0x371E      |       14110 |
-|     330 | 0x371F      |       14111 |
+|     329 | 0x371F      |       14111 |
+|     330 | 0x3720      |       14112 |
 |     331 | 0x042E      |        1070 |
-|     332 | 0x3720      |       14112 |
-|     333 | 0x3721      |       14113 |
-|     334 | 0x3722      |       14114 |
-|     335 | 0x3723      |       14115 |
-|     336 | 0x3724      |       14116 |
-|     337 | 0x3725      |       14117 |
-|     338 | 0x3726      |       14118 |
-|     339 | 0x3727      |       14119 |
-|     340 | 0x3728      |       14120 |
-|     341 | 0x3729      |       14121 |
+|     332 | 0x3721      |       14113 |
+|     333 | 0x3722      |       14114 |
+|     334 | 0x3723      |       14115 |
+|     335 | 0x3724      |       14116 |
+|     336 | 0x3725      |       14117 |
+|     337 | 0x3726      |       14118 |
+|     338 | 0x3727      |       14119 |
+|     339 | 0x3728      |       14120 |
+|     340 | 0x3729      |       14121 |
+|     341 | 0x372A      |       14122 |
 |     342 | 0x0064      |         100 |
 |     343 | 0x00F0      |         240 |
 |     344 | 0x042F      |        1071 |
-|     345 | 0x372A      |       14122 |
+|     345 | 0x372B      |       14123 |
 |     346 | 0x00C9      |         201 |
 |     347 | 0x0068      |         104 |
 |     348 | 0x006A      |         106 |
 |     349 | 0x005C      |          92 |
-|     350 | 0x372B      |       14123 |
-|     351 | 0x372C      |       14124 |
+|     350 | 0x372C      |       14124 |
+|     351 | 0x372D      |       14125 |
 |     352 | 0x008C      |         140 |
-|     353 | 0x372D      |       14125 |
-|     354 | 0x372E      |       14126 |
-|     355 | 0x372F      |       14127 |
+|     353 | 0x372E      |       14126 |
+|     354 | 0x372F      |       14127 |
+|     355 | 0x3730      |       14128 |
 |     356 | 0x046C      |        1132 |
-|     357 | 0x3730      |       14128 |
-|     358 | 0x3731      |       14129 |
+|     357 | 0x3731      |       14129 |
+|     358 | 0x3732      |       14130 |
 |     359 | 0x00F3      |         243 |
 |     360 | 0x8EBC      |       36540 |
 |     361 | 0xF957      |       63831 |
 |     362 | 0x0C1B      |        3099 |
-|     363 | 0x3732      |       14130 |
-|     364 | 0x3733      |       14131 |
-|     365 | 0x3734      |       14132 |
-|     366 | 0x3735      |       14133 |
-|     367 | 0x3736      |       14134 |
-|     368 | 0x3737      |       14135 |
-|     369 | 0x3738      |       14136 |
+|     363 | 0x3733      |       14131 |
+|     364 | 0x3734      |       14132 |
+|     365 | 0x3735      |       14133 |
+|     366 | 0x3736      |       14134 |
+|     367 | 0x3737      |       14135 |
+|     368 | 0x3738      |       14136 |
+|     369 | 0x3739      |       14137 |
 |     370 | 0x001D      |          29 |
 |     371 | 0x0029      |          41 |
-|     372 | 0x3739      |       14137 |
-|     373 | 0x373A      |       14138 |
-|     374 | 0x373B      |       14139 |
-|     375 | 0x373C      |       14140 |
-|     376 | 0x373D      |       14141 |
+|     372 | 0x373A      |       14138 |
+|     373 | 0x373B      |       14139 |
+|     374 | 0x373C      |       14140 |
+|     375 | 0x373D      |       14141 |
+|     376 | 0x373E      |       14142 |
 |     377 | 0x007A      |         122 |
 |     378 | 0x0009      |           9 |
-|     379 | 0x373E      |       14142 |
-|     380 | 0x373F      |       14143 |
-|     381 | 0x3740      |       14144 |
-|     382 | 0x3741      |       14145 |
-|     383 | 0x3742      |       14146 |
-|     384 | 0x3743      |       14147 |
-|     385 | 0x3744      |       14148 |
-|     386 | 0x3745      |       14149 |
-|     387 | 0x3746      |       14150 |
-|     388 | 0x3747      |       14151 |
-|     389 | 0x3748      |       14152 |
-|     390 | 0x3749      |       14153 |
-|     391 | 0x374A      |       14154 |
-|     392 | 0x374B      |       14155 |
-|     393 | 0x374C      |       14156 |
-|     394 | 0x374D      |       14157 |
-|     395 | 0x374E      |       14158 |
-|     396 | 0x374F      |       14159 |
-|     397 | 0x3750      |       14160 |
-|     398 | 0x3751      |       14161 |
-|     399 | 0x3752      |       14162 |
-|     400 | 0x3753      |       14163 |
+|     379 | 0x373F      |       14143 |
+|     380 | 0x3740      |       14144 |
+|     381 | 0x3741      |       14145 |
+|     382 | 0x3742      |       14146 |
+|     383 | 0x3743      |       14147 |
+|     384 | 0x3744      |       14148 |
+|     385 | 0x3745      |       14149 |
+|     386 | 0x3746      |       14150 |
+|     387 | 0x3747      |       14151 |
+|     388 | 0x3748      |       14152 |
+|     389 | 0x3749      |       14153 |
+|     390 | 0x374A      |       14154 |
+|     391 | 0x374B      |       14155 |
+|     392 | 0x374C      |       14156 |
+|     393 | 0x374D      |       14157 |
+|     394 | 0x374E      |       14158 |
+|     395 | 0x374F      |       14159 |
+|     396 | 0x3750      |       14160 |
+|     397 | 0x3751      |       14161 |
+|     398 | 0x3752      |       14162 |
+|     399 | 0x3753      |       14163 |
+|     400 | 0x3754      |       14164 |
 |     401 | 0x0004      |           4 |
 |     402 | 0x0005      |           5 |
 |     403 | 0x0008      |           8 |
-|     404 | 0x3754      |       14164 |
-|     405 | 0x3756      |       14166 |
-|     406 | 0x3755      |       14165 |
-|     407 | 0x3757      |       14167 |
-|     408 | 0x3758      |       14168 |
-|     409 | 0x375A      |       14170 |
-|     410 | 0x3759      |       14169 |
-|     411 | 0x375B      |       14171 |
-|     412 | 0x375C      |       14172 |
-|     413 | 0x375D      |       14173 |
-|     414 | 0x375E      |       14174 |
-|     415 | 0x375F      |       14175 |
-|     416 | 0x3760      |       14176 |
+|     404 | 0x3755      |       14165 |
+|     405 | 0x3757      |       14167 |
+|     406 | 0x3756      |       14166 |
+|     407 | 0x3758      |       14168 |
+|     408 | 0x3759      |       14169 |
+|     409 | 0x375B      |       14171 |
+|     410 | 0x375A      |       14170 |
+|     411 | 0x375C      |       14172 |
+|     412 | 0x375D      |       14173 |
+|     413 | 0x375E      |       14174 |
+|     414 | 0x375F      |       14175 |
+|     415 | 0x3760      |       14176 |
+|     416 | 0x3761      |       14177 |
 |     417 | 0x0346      |         838 |
 
 ## String References
 
-- **13934**: Give Pieuje your honest opinion? [Yes./No.]
-- **13941**: Any thoughts? [Sage Walahra.../The Gordeus.../The Walahra Philosophy.../Not really...]
-- **14005**: Take up the burden? [That's what I'm here for!/What am I, a donkey?]
-- **14057**: @@
-- **14164**: Join the mission to rescue Luzaf? [Count me in!/I just left the Empire...]
+- **13935**: Give Pieuje your honest opinion? [Yes./No.]
+- **13942**: Any thoughts? [Sage Walahra.../The Gordeus.../The Walahra Philosophy.../Not really...]
+- **14006**: Take up the burden? [That's what I'm here for!/What am I, a donkey?]
+- **14058**: @@
+- **14165**: Join the mission to rescue Luzaf? [Count me in!/I just left the Empire...]
 
 ## Events
 
@@ -939,16 +939,16 @@
  43: 0x0120 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Pieuje (ID: 17772735/0x010F30BF))
  44: 0x0126 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x000" with entities [LocalPlayer, LocalPlayer], work=88*
  45: 0x0135 [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at Pieuje (ID: 17772735/0x010F30BF) (Basic look)
- 46: 0x013F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13854*]:
+ 46: 0x013F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13855*]:
     → "You have gathered here today at the request of the Kingdom of San d'Oria. I thank you on behalf of the king."
  47: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0147 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
- 49: 0x0158 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13855*]:
+ 49: 0x0158 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13856*]:
     → "This is the first time in history that an emergency summit of this nature has taken place. The issue I lay before you is beyond the scope of a single nation..."
  50: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0160 [0x4A] Wolfgang (ID: 17772551/0x010F3007) looks at LocalPlayer
  52: 0x0169 [0x4C] EventEntity->StatusEvent = 8 // Open door
- 53: 0x016A [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13856*]:
+ 53: 0x016A [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13857*]:
     → "Prince Pieuje! The adventurer you have permitted to attend the summit has arrived."
  54: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0172 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
@@ -961,7 +961,7 @@
  62: 0x01AF [0x4A] Pieuje (ID: 17772735/0x010F30BF) looks at LocalPlayer
  63: 0x01B8 [0x2A] GET_REQ_LEVEL(level=3, entity_id=LocalPlayer)
  64: 0x01BE [0x4D] EventEntity->StatusEvent = 9 // Close door
- 65: 0x01BF [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13857*]:
+ 65: 0x01BF [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13858*]:
     → "Thank you for coming, <Player>."
  66: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01C7 [0x52] END_LOAD_SCHEDULER: End scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=88*
@@ -970,145 +970,145 @@
  70: 0x01E2 [0x1C] WAIT(10* ticks)
  71: 0x01E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
  72: 0x01F6 [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at Pieuje (ID: 17772735/0x010F30BF) (Basic look)
- 73: 0x0200 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13858*]:
+ 73: 0x0200 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13859*]:
     → "Allow me to begin by explaining the events that have led to today's meeting."
  74: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0208 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13859*]:
+ 75: 0x0208 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13860*]:
     → "It began when <Player>, mercenary and adventurer, arrived at the gate of the Chateau d'Oraguille bearing a letter of extreme importance."
  76: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0210 [0x52] END_LOAD_SCHEDULER: End scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=88*
  78: 0x021F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
- 79: 0x0230 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13860*]:
+ 79: 0x0230 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13861*]:
     → "The contents of that letter prompted me to call the nations together..."
  80: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0238 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13861*]:
+ 81: 0x0238 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13862*]:
     → "It was penned by a sage known as Raillefal, and described in painstaking detail the current state of Aht Urhgan."
  82: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0240 [0x52] END_LOAD_SCHEDULER: End scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=88*
  84: 0x024F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
- 85: 0x0260 [0x2B] Volker (ID: 17772737/0x010F30C1) [13864*]:
+ 85: 0x0260 [0x2B] Volker (ID: 17772737/0x010F30C1) [13865*]:
     → "The Empire!?"
  86: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0268 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=88*
  88: 0x0277 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
- 89: 0x0288 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13862*]:
+ 89: 0x0288 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13863*]:
     → "This is the same nation that has the port in a frenzy over mercenary recruitment...?"
  90: 0x028F [0x1C] WAIT(30* ticks)
  91: 0x0292 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
  92: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x029D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13863*]:
+ 93: 0x029D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13864*]:
     → "The very same. I speak of the Near Eastern nation, the Empire of Aht Urhgan."
  94: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x02A5 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13865*]:
+ 95: 0x02A5 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13866*]:
     → "Aht Urhgan is now under pressure from three separate beastman armies, and Al Zahbi, the mighty capital itself, is in danger of falling."
  96: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x02AD [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13866*]:
+ 97: 0x02AD [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13867*]:
     → "Great Altana..."
  98: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x02B5 [0x52] END_LOAD_SCHEDULER: End scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=88*
 100: 0x02C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-101: 0x02D5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13867*]:
+101: 0x02D5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13868*]:
     → "The Silent Empire..."
 102: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x02DD [0x2B] Volker (ID: 17772737/0x010F30C1) [13868*]:
+103: 0x02DD [0x2B] Volker (ID: 17772737/0x010F30C1) [13869*]:
     → "It was once called that."
 104: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x02E5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13869*]:
+105: 0x02E5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13870*]:
     → "You may have been too young to know this, Your Highness, but the rest of us should remember."
 106: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x02ED [0x52] END_LOAD_SCHEDULER: End scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=88*
 108: 0x02FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=[200*, 0*]
 109: 0x030D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 110: 0x031E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=88*
-111: 0x032D [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13870*]:
+111: 0x032D [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13871*]:
     → "..."
 112: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0335 [0x4A] Pieuje (ID: 17772735/0x010F30BF) looks at Volker (ID: 17772737/0x010F30C1)
 114: 0x033E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-115: 0x034F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13871*]:
+115: 0x034F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13872*]:
     → "I am aware of the term."
 116: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
-117: 0x0357 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13872*]:
+117: 0x0357 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13873*]:
     → "In the time of the Great War, the Empire possessed an army greater than the combined forces of the allied nations."
 118: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x035F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13873*]:
+119: 0x035F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13874*]:
     → "Yet not a single soldier was sent in response to calls for aid..."
 120: 0x0366 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0367 [0x52] END_LOAD_SCHEDULER: End scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=88*
 122: 0x0376 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-123: 0x0387 [0x2B] Volker (ID: 17772737/0x010F30C1) [13874*]:
+123: 0x0387 [0x2B] Volker (ID: 17772737/0x010F30C1) [13875*]:
     → "My apologies. You are well versed in history."
 124: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x038F [0x2B] Volker (ID: 17772737/0x010F30C1) [13875*]:
+125: 0x038F [0x2B] Volker (ID: 17772737/0x010F30C1) [13876*]:
     → "But knowing this, you should also know that we have no obligation to lift even a finger for Aht Urhgan, no matter how serious her predicament."
 126: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0397 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1)
 128: 0x03A0 [0x52] END_LOAD_SCHEDULER: End scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=88*
 129: 0x03AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-130: 0x03C0 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13876*]:
+130: 0x03C0 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13877*]:
     → "Why, Volker, always so calm and cool. You've grown hot and bothered, and your speech is most cruel."
 131: 0x03C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03C8 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Shantotto (ID: 17772736/0x010F30C0)
 133: 0x03D1 [0x1C] WAIT(10* ticks)
 134: 0x03D4 [0x52] END_LOAD_SCHEDULER: End scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=88*
 135: 0x03E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-136: 0x03F4 [0x2B] Volker (ID: 17772737/0x010F30C1) [13877*]:
+136: 0x03F4 [0x2B] Volker (ID: 17772737/0x010F30C1) [13878*]:
     → "You should understand, Doctor Shantotto."
 137: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x03FC [0x2B] Volker (ID: 17772737/0x010F30C1) [13878*]:
+138: 0x03FC [0x2B] Volker (ID: 17772737/0x010F30C1) [13879*]:
     → "You were there on that battlefield. Who knows how much suffering could've been avoided if we'd had the help of the Empire..."
 139: 0x0403 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0404 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0B)
-141: 0x040B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13879*]:
+141: 0x040B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13880*]:
     → "On the contrary, my dear musketeer. We owe them more than you can imagine, I fear."
 142: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0413 [0x52] END_LOAD_SCHEDULER: End scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=88*
 144: 0x0422 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-145: 0x0433 [0x2B] Volker (ID: 17772737/0x010F30C1) [13880*]:
+145: 0x0433 [0x2B] Volker (ID: 17772737/0x010F30C1) [13881*]:
     → "What do you mean!?"
 146: 0x043A [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x043B [0x52] END_LOAD_SCHEDULER: End scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=88*
 148: 0x044A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-149: 0x045B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13881*]:
+149: 0x045B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13882*]:
     → "Aht Urhgan has taken many countries under her yoke..."
 150: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
-151: 0x0463 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13882*]:
+151: 0x0463 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13883*]:
     → "A ferocious nation that has even bared fangs at the Far Eastern folk."
 152: 0x046A [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x046B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13883*]:
+153: 0x046B [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13884*]:
     → "Calling the Empire to help in our cause, would be like freeing us from demons in return for dragon jaws."
 154: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0473 [0x52] END_LOAD_SCHEDULER: End scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=88*
 156: 0x0482 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-157: 0x0493 [0x2B] Volker (ID: 17772737/0x010F30C1) [13884*]:
+157: 0x0493 [0x2B] Volker (ID: 17772737/0x010F30C1) [13885*]:
     → "That may be true, but even the close relationship Aht Urhgan had with Tavnazia..."
 158: 0x049A [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x049B [0x1C] WAIT(15* ticks)
-160: 0x049E [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13885*]:
+160: 0x049E [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13886*]:
     → "That subject is not--"
 161: 0x04A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x04A6 [0x52] END_LOAD_SCHEDULER: End scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=88*
 163: 0x04B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-164: 0x04C6 [0x2B] Volker (ID: 17772737/0x010F30C1) [13886*]:
+164: 0x04C6 [0x2B] Volker (ID: 17772737/0x010F30C1) [13887*]:
     → "...the issue here, I know. Doctor Shantotto, why did Windurst open Mhaura's port to the Empire?"
 165: 0x04CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x04CE [0x7B] Shantotto (ID: 17772736/0x010F30C0) stops talking
 167: 0x04D3 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x09)
-168: 0x04DA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13887*]:
+168: 0x04DA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13888*]:
     → "My nation's actions are none of your concern."
 169: 0x04E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x04E2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13888*]:
+170: 0x04E2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13889*]:
     → "At least we have a backbone--when will Bastok learn...?"
 171: 0x04E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x04EA [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 173: 0x04F3 [0x52] END_LOAD_SCHEDULER: End scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=88*
 174: 0x0502 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-175: 0x0513 [0x2B] Volker (ID: 17772737/0x010F30C1) [13889*]:
+175: 0x0513 [0x2B] Volker (ID: 17772737/0x010F30C1) [13890*]:
     → "You go too far, Doctor Shantotto..."
 176: 0x051A [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x051B [0x52] END_LOAD_SCHEDULER: End scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=88*
 178: 0x052A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-179: 0x053B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13890*]:
+179: 0x053B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13891*]:
     → "Enough! I did not call you here to speak of possible troop contributions."
 180: 0x0542 [0x1C] WAIT(50* ticks)
 181: 0x0545 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Pieuje (ID: 17772735/0x010F30BF)
@@ -1117,173 +1117,173 @@
 184: 0x0558 [0x52] END_LOAD_SCHEDULER: End scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=88*
 185: 0x0567 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=360*)
 186: 0x056C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w007" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-187: 0x057D [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13891*]:
+187: 0x057D [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13892*]:
     → "Then why are we here, Your Highness?"
 188: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
-189: 0x0585 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13892*]:
+189: 0x0585 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13893*]:
     → "Our main concern is the treasure thought to be at the center of this conflict--the Astral Candescence."
 190: 0x058C [0x23] WAIT_FOR_DIALOG_INTERACTION
-191: 0x058D [0x2B] Volker (ID: 17772737/0x010F30C1) [13893*]:
+191: 0x058D [0x2B] Volker (ID: 17772737/0x010F30C1) [13894*]:
     → ""Astral Candescence"?"
 192: 0x0594 [0x23] WAIT_FOR_DIALOG_INTERACTION
 193: 0x0595 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 185*
 194: 0x0599 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 185*
-195: 0x059D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13894*]:
+195: 0x059D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13895*]:
     → "It is described as some manner of musical instrument, but apparently is much more than that."
 196: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x05A5 [0x9A] WAIT_MUSIC_SERVER()
 198: 0x05A6 [0x52] END_LOAD_SCHEDULER: End scheduler "w007" with entities [LocalPlayer, LocalPlayer], work=88*
 199: 0x05B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-200: 0x05C6 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13895*]:
+200: 0x05C6 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13896*]:
     → "This instrument is said to produce a phenomenon known as the "Astral Wind," a breeze that blows from an unidentifiable source."
 201: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-202: 0x05CE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13896*]:
+202: 0x05CE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13897*]:
     → "It creates a melody in a timbre unheard by mortal ears..."
 203: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x05D6 [0x52] END_LOAD_SCHEDULER: End scheduler "w008" with entities [LocalPlayer, LocalPlayer], work=88*
 205: 0x05E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-206: 0x05F6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13897*]:
+206: 0x05F6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13898*]:
     → "I'm confused. How can there be a melody if nothing can be heard...?"
 207: 0x05FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x05FE [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x06)
-209: 0x0605 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13898*]:
+209: 0x0605 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13899*]:
     → "Astral Wind..."
 210: 0x060C [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x060D [0x52] END_LOAD_SCHEDULER: End scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=88*
 212: 0x061C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-213: 0x062D [0x2B] Volker (ID: 17772737/0x010F30C1) [13899*]:
+213: 0x062D [0x2B] Volker (ID: 17772737/0x010F30C1) [13900*]:
     → "Hmph. This is all very unusual, but I'm sure we've all seen stranger things before."
 214: 0x0634 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x0635 [0x52] END_LOAD_SCHEDULER: End scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=88*
 216: 0x0644 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 217: 0x0655 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-218: 0x0666 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13900*]:
+218: 0x0666 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13901*]:
     → "An unidentifiable source..."
 219: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x066E [0x52] END_LOAD_SCHEDULER: End scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=88*
 221: 0x067D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-222: 0x068E [0x2B] Volker (ID: 17772737/0x010F30C1) [13901*]:
+222: 0x068E [0x2B] Volker (ID: 17772737/0x010F30C1) [13902*]:
     → "In Windurst there is no shortage of magical gadgets. Pens that write by themselves. Brooms that sweep on command..."
 223: 0x0695 [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0696 [0x52] END_LOAD_SCHEDULER: End scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=88*
 225: 0x06A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 226: 0x06B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-227: 0x06C7 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13902*]:
+227: 0x06C7 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13903*]:
     → "A breeze..."
 228: 0x06CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x06CF [0x52] END_LOAD_SCHEDULER: End scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=88*
 230: 0x06DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 231: 0x06EF [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Shantotto (ID: 17772736/0x010F30C0)
-232: 0x06F8 [0x2B] Volker (ID: 17772737/0x010F30C1) [13903*]:
+232: 0x06F8 [0x2B] Volker (ID: 17772737/0x010F30C1) [13904*]:
     → "I mean, they even have that Cardian band. That's similar, don't you think, Doctor Shantotto?"
 233: 0x06FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x0700 [0x52] END_LOAD_SCHEDULER: End scheduler "v001" with entities [LocalPlayer, LocalPlayer], work=88*
 235: 0x070F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-236: 0x0720 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13904*]:
+236: 0x0720 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13905*]:
     → "Astral..."
 237: 0x0727 [0x23] WAIT_FOR_DIALOG_INTERACTION
-238: 0x0728 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13905*]:
+238: 0x0728 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13906*]:
     → "Wind..."
 239: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x0730 [0x52] END_LOAD_SCHEDULER: End scheduler "v000" with entities [LocalPlayer, LocalPlayer], work=88*
 241: 0x073F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 242: 0x0750 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 243: 0x0761 [0x1C] WAIT(30* ticks)
-244: 0x0764 [0x2B] Volker (ID: 17772737/0x010F30C1) [13906*]:
+244: 0x0764 [0x2B] Volker (ID: 17772737/0x010F30C1) [13907*]:
     → "Doctor Shantotto? Is everything alright?"
 245: 0x076B [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x076C [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x07)
 247: 0x0773 [0x7C] Shantotto (ID: 17772736/0x010F30C0)->Render.Flags2 |= 0x00
 248: 0x0779 [0x52] END_LOAD_SCHEDULER: End scheduler "v002" with entities [LocalPlayer, LocalPlayer], work=88*
 249: 0x0788 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v00a" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-250: 0x0799 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13907*]:
+250: 0x0799 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13908*]:
     → "!!!"
 251: 0x07A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x07A1 [0x7C] Shantotto (ID: 17772736/0x010F30C0)->Render.Flags2 |= 0x01
 253: 0x07A7 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Shantotto (ID: 17772736/0x010F30C0))
 254: 0x07AD [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x09)
-255: 0x07B4 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13908*]:
+255: 0x07B4 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13909*]:
     → "Ohohohoho!"
 256: 0x07BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-257: 0x07BC [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13909*]:
+257: 0x07BC [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13910*]:
     → "If it's automatic instruments you need, our children make such things before they learn how to read!"
 258: 0x07C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 259: 0x07C4 [0x52] END_LOAD_SCHEDULER: End scheduler "v00a" with entities [LocalPlayer, LocalPlayer], work=88*
 260: 0x07D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-261: 0x07E4 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13910*]:
+261: 0x07E4 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13911*]:
     → "The problem lies in the power of the wind."
 262: 0x07EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 263: 0x07EC [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Pieuje (ID: 17772735/0x010F30BF)
-264: 0x07F5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13911*]:
+264: 0x07F5 [0x2B] Volker (ID: 17772737/0x010F30C1) [13912*]:
     → "The wind?"
 265: 0x07FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-266: 0x07FD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13912*]:
+266: 0x07FD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13913*]:
     → "It envelops those close by, and fills them with a mysterious strength. There are few who can resist the lure of this energy."
 267: 0x0804 [0x23] WAIT_FOR_DIALOG_INTERACTION
-268: 0x0805 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13913*]:
+268: 0x0805 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13914*]:
     → "Even among the beastmen..."
 269: 0x080C [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x080D [0x52] END_LOAD_SCHEDULER: End scheduler "v003" with entities [LocalPlayer, LocalPlayer], work=88*
 271: 0x081C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 272: 0x082D [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 273: 0x0836 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17772737/0x010F30C1), tag_num=0x03)
-274: 0x083D [0x2B] Volker (ID: 17772737/0x010F30C1) [13914*]:
+274: 0x083D [0x2B] Volker (ID: 17772737/0x010F30C1) [13915*]:
     → "If the instrument is that dangerous, why not just give it to the beastmen, or smash it out of hand?"
 275: 0x0844 [0x23] WAIT_FOR_DIALOG_INTERACTION
 276: 0x0845 [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17772737/0x010F30C1), tag_num=0x04)
-277: 0x084C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13915*]:
+277: 0x084C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13916*]:
     → "That is what common sense would tell us. If it were up to an individual, or even an entire town..."
 278: 0x0853 [0x23] WAIT_FOR_DIALOG_INTERACTION
-279: 0x0854 [0x2B] Volker (ID: 17772737/0x010F30C1) [13916*]:
+279: 0x0854 [0x2B] Volker (ID: 17772737/0x010F30C1) [13917*]:
     → "What are you trying to say?"
 280: 0x085B [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x085C [0x52] END_LOAD_SCHEDULER: End scheduler "v004" with entities [LocalPlayer, LocalPlayer], work=88*
 282: 0x086B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-283: 0x087C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13917*]:
+283: 0x087C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13918*]:
     → "What if that decision lay in the hands of a nation?"
 284: 0x0883 [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x0884 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13918*]:
+285: 0x0884 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13919*]:
     → "Even if it posed a threat to your own citizens, if that treasure could one day be your salvation, would you not choose to protect it?"
 286: 0x088B [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x088C [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x2A)
-288: 0x0893 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13919*]:
+288: 0x0893 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13920*]:
     → "How could a mere instrument hold that kind of power...?"
 289: 0x089A [0x23] WAIT_FOR_DIALOG_INTERACTION
 290: 0x089B [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x2B)
 291: 0x08A2 [0x52] END_LOAD_SCHEDULER: End scheduler "v005" with entities [LocalPlayer, LocalPlayer], work=88*
 292: 0x08B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 293: 0x08C2 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
-294: 0x08CC [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13920*]:
+294: 0x08CC [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13921*]:
     → "The sage who composed this letter is afraid..."
 295: 0x08D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-296: 0x08D4 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13921*]:
+296: 0x08D4 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13922*]:
     → "Afraid that this Astral Candescence will one day be the catalyst for a conflict to rival the Crystal War."
 297: 0x08DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x08DC [0x52] END_LOAD_SCHEDULER: End scheduler "v006" with entities [LocalPlayer, LocalPlayer], work=88*
 299: 0x08EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v00b" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-300: 0x08FC [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13922*]:
+300: 0x08FC [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13923*]:
     → "No!"
 301: 0x0903 [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x0904 [0x52] END_LOAD_SCHEDULER: End scheduler "v00b" with entities [LocalPlayer, LocalPlayer], work=88*
 303: 0x0913 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v00c" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-304: 0x0924 [0x2B] Volker (ID: 17772737/0x010F30C1) [13923*]:
+304: 0x0924 [0x2B] Volker (ID: 17772737/0x010F30C1) [13924*]:
     → "Prince Pieuje... As a representative for an entire nation, you would do well not to throw those words around so lightly!"
 305: 0x092B [0x23] WAIT_FOR_DIALOG_INTERACTION
 306: 0x092C [0x52] END_LOAD_SCHEDULER: End scheduler "v00c" with entities [LocalPlayer, LocalPlayer], work=88*
 307: 0x093B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v007" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 308: 0x094C [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Volker (ID: 17772737/0x010F30C1) (Basic look)
-309: 0x0956 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13924*]:
+309: 0x0956 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13925*]:
     → "My apologies. This is merely based on the conjecture of a sage."
 310: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
-311: 0x095E [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13925*]:
+311: 0x095E [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13926*]:
     → "Why don't we have <Player>, who has seen and heard these things in person, give us [his/her] account?"
 312: 0x0965 [0x23] WAIT_FOR_DIALOG_INTERACTION
-313: 0x0966 [0x2B] Volker (ID: 17772737/0x010F30C1) [13926*]:
+313: 0x0966 [0x2B] Volker (ID: 17772737/0x010F30C1) [13927*]:
     → "..."
 314: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
 315: 0x096E [0x52] END_LOAD_SCHEDULER: End scheduler "v007" with entities [LocalPlayer, LocalPlayer], work=88*
 316: 0x097D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-317: 0x098E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13927*]:
+317: 0x098E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13928*]:
     → "We cannot make a decision based on this tale alone."
 318: 0x0995 [0x1C] WAIT(10* ticks)
 319: 0x0998 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
@@ -1291,40 +1291,40 @@
 321: 0x09AC [0x79] Shantotto (ID: 17772736/0x010F30C0) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
 322: 0x09B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x09B7 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x28)
-324: 0x09BE [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13928*]:
+324: 0x09BE [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13929*]:
     → "A nation has a responsibility to maintain soldiers and weaponry for the defense of its people."
 325: 0x09C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-326: 0x09C6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13929*]:
+326: 0x09C6 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13930*]:
     → "And for a city in this situation, I would go so far as to say that some sort of secret weapon is almost a necessity."
 327: 0x09CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x09CE [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x29)
-329: 0x09D5 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13930*]:
+329: 0x09D5 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13931*]:
     → "In any case, it doesn't seem that this Astral Candescence presents any immediate danger to the people of Al Zahbi."
 330: 0x09DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x09DD [0x52] END_LOAD_SCHEDULER: End scheduler "v008" with entities [LocalPlayer, LocalPlayer], work=88*
 332: 0x09EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 333: 0x09FD [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0B)
-334: 0x0A04 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13931*]:
+334: 0x0A04 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13932*]:
     → "I wouldn't say that was entirely true, if you were me, and I were you."
 335: 0x0A0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x0A0C [0x52] END_LOAD_SCHEDULER: End scheduler "v009" with entities [LocalPlayer, LocalPlayer], work=88*
 337: 0x0A1B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 338: 0x0A2C [0x4A] Pieuje (ID: 17772735/0x010F30BF) looks at LocalPlayer
-339: 0x0A35 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13932*]:
+339: 0x0A35 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13933*]:
     → "<Player>. I came to a conclusion after you left the chateau."
 340: 0x0A3C [0x23] WAIT_FOR_DIALOG_INTERACTION
-341: 0x0A3D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13933*]:
+341: 0x0A3D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13934*]:
     → "I wish to hear your honest opinion."
 342: 0x0A44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 343: 0x0A45 [0x52] END_LOAD_SCHEDULER: End scheduler "t000" with entities [LocalPlayer, LocalPlayer], work=88*
-344: 0x0A54 [0x24] CREATE_DIALOG(message_id=13934*, default_option=0*, option_flags=0*)
+344: 0x0A54 [0x24] CREATE_DIALOG(message_id=13935*, default_option=0*, option_flags=0*)
     → "Give Pieuje your honest opinion? [Yes./No.]"
 345: 0x0A5B [0x25] WAIT_DIALOG_SELECT()
 346: 0x0A5C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A7E
 347: 0x0A64 [0x6E] LocalPlayer uses emote 7*
 348: 0x0A6B [0x99] Wait for LocalPlayer animation to complete
 349: 0x0A70 [0x1C] WAIT(90* ticks)
-350: 0x0A73 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13935*]:
+350: 0x0A73 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13936*]:
     → "Excellent. I knew asking you here was the right decision. I rely upon your vast experience as an adventurer."
 351: 0x0A7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x0A7B [0x01] GOTO 0x0AA0
@@ -1332,7 +1332,7 @@
 354: 0x0A86 [0x6E] LocalPlayer uses emote 6*
 355: 0x0A8D [0x99] Wait for LocalPlayer animation to complete
 356: 0x0A92 [0x1C] WAIT(90* ticks)
-357: 0x0A95 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13936*]:
+357: 0x0A95 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13937*]:
     → "Ahaha. Only an adventurer would choose to jest in such company as this."
 358: 0x0A9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x0A9D [0x01] GOTO 0x0AA0
@@ -1341,20 +1341,20 @@ SUBROUTINE_0AA0:
 360: 0x0AA0 [0x4B] UPDATE_ENTITY_YAW(entity=Pieuje (ID: 17772735/0x010F30BF), yaw=22.5°*)
 361: 0x0AA7 [0x7B] Pieuje (ID: 17772735/0x010F30BF) stops talking
 362: 0x0AAC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-363: 0x0ABD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13937*]:
+363: 0x0ABD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13938*]:
     → "What is the Astral Candescence?"
 364: 0x0AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-365: 0x0AC5 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13938*]:
+365: 0x0AC5 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13939*]:
     → "If it is such an important treasure, then why not secret it away inside the palace instead of placing it in the area most vulnerable to beastman attacks?"
 366: 0x0ACC [0x23] WAIT_FOR_DIALOG_INTERACTION
-367: 0x0ACD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13939*]:
+367: 0x0ACD [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13940*]:
     → "I sense some hidden purpose for this dangerous object..."
 368: 0x0AD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x0AD5 [0x4A] Pieuje (ID: 17772735/0x010F30BF) looks at LocalPlayer
 370: 0x0ADE [0x1C] WAIT(10* ticks)
 371: 0x0AE1 [0x52] END_LOAD_SCHEDULER: End scheduler "t001" with entities [LocalPlayer, LocalPlayer], work=88*
 372: 0x0AF0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-373: 0x0B01 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13940*]:
+373: 0x0B01 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13941*]:
     → "Do you have any thoughts on the matter, <Player>?"
 374: 0x0B08 [0x1C] WAIT(30* ticks)
 375: 0x0B0B [0x4A] LocalPlayer looks at Pieuje (ID: 17772735/0x010F30BF)
@@ -1362,45 +1362,45 @@ SUBROUTINE_0AA0:
 377: 0x0B15 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t002" with entities [LocalPlayer, LocalPlayer], work=88*
 
 SUBROUTINE_0B24:
-378: 0x0B24 [0x24] CREATE_DIALOG(message_id=13941*, default_option=0*, option_flags=0*)
+378: 0x0B24 [0x24] CREATE_DIALOG(message_id=13942*, default_option=0*, option_flags=0*)
     → "Any thoughts? [Sage Walahra.../The Gordeus.../The Walahra Philosophy.../Not really...]"
 379: 0x0B2B [0x25] WAIT_DIALOG_SELECT()
 380: 0x0B2C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C1C
 381: 0x0B34 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 382: 0x0B45 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=88*
-383: 0x0B54 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13943*]:
+383: 0x0B54 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13944*]:
     → "Sage Walahra? What manner of person is this?"
 384: 0x0B5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x0B5C [0x1C] WAIT(60* ticks)
 386: 0x0B5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-387: 0x0B70 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13944*]:
+387: 0x0B70 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13945*]:
     → "...I see."
 388: 0x0B77 [0x23] WAIT_FOR_DIALOG_INTERACTION
-389: 0x0B78 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13945*]:
+389: 0x0B78 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13946*]:
     → "The father of the Walahra Philosophy and an alchemist of great renown..."
 390: 0x0B7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0B80 [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x08)
 392: 0x0B87 [0x1C] WAIT(15* ticks)
 393: 0x0B8A [0x52] END_LOAD_SCHEDULER: End scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=88*
 394: 0x0B99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-395: 0x0BAA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13946*]:
+395: 0x0BAA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13947*]:
     → ""I, alone, do not possess all the answers. Let us ponder the mysteries of the universe together.""
 396: 0x0BB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-397: 0x0BB2 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13947*]:
+397: 0x0BB2 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13948*]:
     → ""Shared knowledge is the shortest path to enlightenment...""
 398: 0x0BB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 399: 0x0BBA [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x09)
-400: 0x0BC1 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13948*]:
+400: 0x0BC1 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13949*]:
     → "Hmm. Not a philosophy that would appeal to my brother..."
 401: 0x0BC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 402: 0x0BC9 [0x52] END_LOAD_SCHEDULER: End scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=88*
 403: 0x0BD8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-404: 0x0BE9 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13949*]:
+404: 0x0BE9 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13950*]:
     → "Is Prince Trion somehow involved...?"
 405: 0x0BF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 406: 0x0BF1 [0x4B] UPDATE_ENTITY_YAW(entity=Pieuje (ID: 17772735/0x010F30BF), yaw=22.5°*)
 407: 0x0BF8 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
-408: 0x0C02 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13950*]:
+408: 0x0C02 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13951*]:
     → "Ah, forgive me. I was merely thinking aloud..."
 409: 0x0C09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 410: 0x0C0A [0x52] END_LOAD_SCHEDULER: End scheduler "t004" with entities [LocalPlayer, LocalPlayer], work=88*
@@ -1408,28 +1408,28 @@ SUBROUTINE_0B24:
 412: 0x0C1C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0CC8
 413: 0x0C24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 414: 0x0C35 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=88*
-415: 0x0C44 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13951*]:
+415: 0x0C44 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13952*]:
     → "The "Gordeus." I have heard this name somewhere before..."
 416: 0x0C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x0C4C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13952*]:
+417: 0x0C4C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13953*]:
     → "What manner of person is this?"
 418: 0x0C53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x0C54 [0x1C] WAIT(60* ticks)
 420: 0x0C57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-421: 0x0C68 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13953*]:
+421: 0x0C68 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13954*]:
     → "Not a person? So, it is a holy relic enshrined in Walahra Temple..."
 422: 0x0C6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 423: 0x0C70 [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x08)
 424: 0x0C77 [0x52] END_LOAD_SCHEDULER: End scheduler "t003" with entities [LocalPlayer, LocalPlayer], work=88*
 425: 0x0C86 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-426: 0x0C97 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13954*]:
+426: 0x0C97 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13955*]:
     → "In the distant past, Sage Walahra once unraveled the Gordeus and grasped the fundamental principle of existence..."
 427: 0x0C9E [0x23] WAIT_FOR_DIALOG_INTERACTION
-428: 0x0C9F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13955*]:
+428: 0x0C9F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13956*]:
     → "And now a host of like-minded scholars toil day and night to discover the same loose thread to unravel the Gordeus for themselves."
 429: 0x0CA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 430: 0x0CA7 [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x09)
-431: 0x0CAE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13956*]:
+431: 0x0CAE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13957*]:
     → "It appears the people of the Empire search for quite different truths than the ones we seek..."
 432: 0x0CB5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 433: 0x0CB6 [0x52] END_LOAD_SCHEDULER: End scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=88*
@@ -1437,29 +1437,29 @@ SUBROUTINE_0B24:
 435: 0x0CC8 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0D4C
 436: 0x0CD0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 437: 0x0CE1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t006" with entities [LocalPlayer, LocalPlayer], work=88*
-438: 0x0CF0 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13957*]:
+438: 0x0CF0 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13958*]:
     → "The Walahra Philosophy? What manner of learning is this?"
 439: 0x0CF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-440: 0x0CF8 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13958*]:
+440: 0x0CF8 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13959*]:
     → "What connection does this philosophy have to the Astral Candescence?"
 441: 0x0CFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 442: 0x0D00 [0x1C] WAIT(60* ticks)
 443: 0x0D03 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 444: 0x0D14 [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x08)
-445: 0x0D1B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13959*]:
+445: 0x0D1B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13960*]:
     → ""From the void all things are born. To the void all things return.""
 446: 0x0D22 [0x23] WAIT_FOR_DIALOG_INTERACTION
-447: 0x0D23 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13960*]:
+447: 0x0D23 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13961*]:
     → "I do not understand what this "void" they speak of refers to."
 448: 0x0D2A [0x23] WAIT_FOR_DIALOG_INTERACTION
 449: 0x0D2B [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x09)
-450: 0x0D32 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13961*]:
+450: 0x0D32 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13962*]:
     → "Though this philosophy is not so far from our own belief that all life begins and ends with Great Altana and the mothercrystals..."
 451: 0x0D39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x0D3A [0x52] END_LOAD_SCHEDULER: End scheduler "t005" with entities [LocalPlayer, LocalPlayer], work=88*
 453: 0x0D49 [0x01] GOTO 0x0D62
 454: 0x0D4C [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0D62
-455: 0x0D54 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13942*]:
+455: 0x0D54 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13943*]:
     → "<Player>. If you have nothing to contribute, then there is little point in you being here..."
 456: 0x0D5B [0x23] WAIT_FOR_DIALOG_INTERACTION
 457: 0x0D5C [0x01] GOTO 0x0B24
@@ -1471,25 +1471,25 @@ SUBROUTINE_0D62:
 461: 0x0D83 [0x4A] LocalPlayer looks at Shantotto (ID: 17772736/0x010F30C0)
 462: 0x0D8C [0x4A] Wolfgang (ID: 17772551/0x010F3007) looks at Shantotto (ID: 17772736/0x010F30C0)
 463: 0x0D95 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Shantotto (ID: 17772736/0x010F30C0)
-464: 0x0D9E [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13962*]:
+464: 0x0D9E [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13963*]:
     → "Ohohoho! Too much time in the cathedral for Destin's little boy! The mind is a tool you must sharpen, not a child's toy!"
 465: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 466: 0x0DA6 [0x52] END_LOAD_SCHEDULER: End scheduler "t007" with entities [LocalPlayer, LocalPlayer], work=88*
 467: 0x0DB5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-468: 0x0DC6 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13963*]:
+468: 0x0DC6 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13964*]:
     → "Do you mock me, Doctor Shantotto!?"
 469: 0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x0DCE [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 471: 0x0DD7 [0x1C] WAIT(15* ticks)
 472: 0x0DDA [0x52] END_LOAD_SCHEDULER: End scheduler "t008" with entities [LocalPlayer, LocalPlayer], work=88*
 473: 0x0DE9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "t009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-474: 0x0DFA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13964*]:
+474: 0x0DFA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13965*]:
     → "You look for your answers in all the wrong places. Shall I bring a little hope to your long, dreary faces?"
 475: 0x0E01 [0x1C] WAIT(30* ticks)
 476: 0x0E04 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0D)
 477: 0x0E0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 478: 0x0E0C [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17772737/0x010F30C1), tag_num=0x03)
-479: 0x0E13 [0x2B] Volker (ID: 17772737/0x010F30C1) [13965*]:
+479: 0x0E13 [0x2B] Volker (ID: 17772737/0x010F30C1) [13966*]:
     → "What are you hiding, Shantotto?"
 480: 0x0E1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x0E1B [0x27] REQ_SET(priority=0x03, entity_id=Volker (ID: 17772737/0x010F30C1), tag_num=0x04)
@@ -1497,44 +1497,44 @@ SUBROUTINE_0D62:
 483: 0x0E31 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 484: 0x0E42 [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 485: 0x0E4B [0x79] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1) (Basic look)
-486: 0x0E55 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13966*]:
+486: 0x0E55 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13967*]:
     → "The servants of Walahra control the Hall of Binding--the treasure's little nest."
 487: 0x0E5C [0x23] WAIT_FOR_DIALOG_INTERACTION
-488: 0x0E5D [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13967*]:
+488: 0x0E5D [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13968*]:
     → "The Hall of Binding is defended by the Serpent Generals--the best of the best!"
 489: 0x0E64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-490: 0x0E65 [0x2B] Volker (ID: 17772737/0x010F30C1) [13968*]:
+490: 0x0E65 [0x2B] Volker (ID: 17772737/0x010F30C1) [13969*]:
     → "The Serpent Generals? A name I have heard. Each one is said to be worth a thousand soldiers."
 491: 0x0E6C [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x0E6D [0x52] END_LOAD_SCHEDULER: End scheduler "r000" with entities [LocalPlayer, LocalPlayer], work=88*
 493: 0x0E7C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 494: 0x0E8D [0x7B] Shantotto (ID: 17772736/0x010F30C0) stops talking
-495: 0x0E92 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13969*]:
+495: 0x0E92 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13970*]:
     → "The Astral Candescence is strictly monitored by the Walahra Temple, according to the adventurer's speech..."
 496: 0x0E99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 497: 0x0E9A [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x06)
-498: 0x0EA1 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13970*]:
+498: 0x0EA1 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13971*]:
     → "But the treasure is kept in an area that the beastmen can easily reach."
 499: 0x0EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 500: 0x0EA9 [0x52] END_LOAD_SCHEDULER: End scheduler "r001" with entities [LocalPlayer, LocalPlayer], work=88*
 501: 0x0EB8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 502: 0x0EC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-503: 0x0EDA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13971*]:
+503: 0x0EDA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13972*]:
     → "And there we find the Serpent Generals, the strongest of the strong..."
 504: 0x0EE1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-505: 0x0EE2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13972*]:
+505: 0x0EE2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13973*]:
     → "Plus mercenaries like <Player> to help them, if I'm not wrong?"
 506: 0x0EE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x0EEA [0x52] END_LOAD_SCHEDULER: End scheduler "r002" with entities [LocalPlayer, LocalPlayer], work=88*
 508: 0x0EF9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 509: 0x0F0A [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=360*)
 510: 0x0F0F [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x08)
-511: 0x0F16 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13973*]:
+511: 0x0F16 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13974*]:
     → "Yes, there does seem to be some contradiction to be found here."
 512: 0x0F1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 513: 0x0F1E [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x07)
 514: 0x0F25 [0x1C] WAIT(30* ticks)
-515: 0x0F28 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13974*]:
+515: 0x0F28 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13975*]:
     → "You see..."
 516: 0x0F2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 517: 0x0F30 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 157*
@@ -1545,7 +1545,7 @@ SUBROUTINE_0D62:
 522: 0x0F59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 523: 0x0F6A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r004" with entities [LocalPlayer, LocalPlayer], work=88*
 524: 0x0F79 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-525: 0x0F8A [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13975*]:
+525: 0x0F8A [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13976*]:
     → "This is a huge game of "set the trap and wait." And the Astral Candescence is the very tasty bait!"
 526: 0x0F91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 527: 0x0F92 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
@@ -1553,12 +1553,12 @@ SUBROUTINE_0D62:
 529: 0x0FB4 [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x09)
 530: 0x0FBB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r005" with entities [LocalPlayer, LocalPlayer], work=88*
 531: 0x0FCA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-532: 0x0FDB [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13976*]:
+532: 0x0FDB [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13977*]:
     → "...!"
 533: 0x0FE2 [0x1C] WAIT(30* ticks)
 534: 0x0FE5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 535: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-536: 0x0FF7 [0x2B] Volker (ID: 17772737/0x010F30C1) [13977*]:
+536: 0x0FF7 [0x2B] Volker (ID: 17772737/0x010F30C1) [13978*]:
     → "Of course! Why didn't I see it?"
 537: 0x0FFE [0x1C] WAIT(10* ticks)
 538: 0x1001 [0x79] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1) (Basic look)
@@ -1566,25 +1566,25 @@ SUBROUTINE_0D62:
 540: 0x100C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r006" with entities [LocalPlayer, LocalPlayer], work=88*
 541: 0x101B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r007" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 542: 0x102C [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x28)
-543: 0x1033 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13978*]:
+543: 0x1033 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13979*]:
     → "But wait. This creates a whole new set of questions. Why would they want the beastmen in the city?"
 544: 0x103A [0x1C] WAIT(10* ticks)
 545: 0x103D [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Wolfgang (ID: 17772551/0x010F3007)
 546: 0x1046 [0x23] WAIT_FOR_DIALOG_INTERACTION
 547: 0x1047 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 17772551/0x010F3007), tag_num=0x29)
 548: 0x104E [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0B)
-549: 0x1055 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13979*]:
+549: 0x1055 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13980*]:
     → "There are some things that even I cannot divine. It's time to sit back and wait for a sign."
 550: 0x105C [0x23] WAIT_FOR_DIALOG_INTERACTION
 551: 0x105D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "r007" with entities [LocalPlayer, LocalPlayer], work=88*
 552: 0x106C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 553: 0x107D [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x06)
-554: 0x1084 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13980*]:
+554: 0x1084 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13981*]:
     → "But it does seem that this problem lies at the center of some grand plan."
 555: 0x108B [0x23] WAIT_FOR_DIALOG_INTERACTION
 556: 0x108C [0x27] REQ_SET(priority=0x03, entity_id=Pieuje (ID: 17772735/0x010F30BF), tag_num=0x07)
 557: 0x1093 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Pieuje (ID: 17772735/0x010F30BF)
-558: 0x109C [0x2B] Volker (ID: 17772737/0x010F30C1) [13981*]:
+558: 0x109C [0x2B] Volker (ID: 17772737/0x010F30C1) [13982*]:
     → "Without concern for the people of Al Zahbi..."
 559: 0x10A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 560: 0x10A4 [0x4A] Wolfgang (ID: 17772551/0x010F3007) looks at Pieuje (ID: 17772735/0x010F30BF)
@@ -1592,12 +1592,12 @@ SUBROUTINE_0D62:
 562: 0x10B0 [0x52] END_LOAD_SCHEDULER: End scheduler "r008" with entities [LocalPlayer, LocalPlayer], work=88*
 563: 0x10BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "r009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 564: 0x10D0 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Pieuje (ID: 17772735/0x010F30BF)
-565: 0x10D9 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13982*]:
+565: 0x10D9 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13983*]:
     → "We need more information."
 566: 0x10E0 [0x1C] WAIT(10* ticks)
 567: 0x10E3 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
 568: 0x10ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-569: 0x10EE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13983*]:
+569: 0x10EE [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13984*]:
     → "Yes. An individual of keen wits and sharp senses..."
 570: 0x10F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 571: 0x10F6 [0x7B] Pieuje (ID: 17772735/0x010F30BF) stops talking
@@ -1605,105 +1605,105 @@ SUBROUTINE_0D62:
 573: 0x10FE [0x52] END_LOAD_SCHEDULER: End scheduler "r009" with entities [LocalPlayer, LocalPlayer], work=88*
 574: 0x110D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 575: 0x111E [0x1C] WAIT(20* ticks)
-576: 0x1121 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13984*]:
+576: 0x1121 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13985*]:
     → "My lords, I have a suggestion."
 577: 0x1128 [0x23] WAIT_FOR_DIALOG_INTERACTION
-578: 0x1129 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13985*]:
+578: 0x1129 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13986*]:
     → "<Player> is employed as a mercenary in the Empire."
 579: 0x1130 [0x23] WAIT_FOR_DIALOG_INTERACTION
 580: 0x1131 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=LocalPlayer, tag_num=0x97)
-581: 0x1138 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13986*]:
+581: 0x1138 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13987*]:
     → "However, [she/he] is a distinguished adventurer, who will not sell [his/her] principles for a bag of gil."
 582: 0x113F [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x1140 [0x52] END_LOAD_SCHEDULER: End scheduler "q000" with entities [LocalPlayer, LocalPlayer], work=88*
 584: 0x114F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 585: 0x1160 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-586: 0x1171 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13987*]:
+586: 0x1171 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13988*]:
     → "I point to the safe delivery of the sage's letter as proof of [his/her] dedication."
 587: 0x1178 [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x1179 [0x52] END_LOAD_SCHEDULER: End scheduler "q001" with entities [LocalPlayer, LocalPlayer], work=88*
 589: 0x1188 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 590: 0x1199 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-591: 0x11AA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13988*]:
+591: 0x11AA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13989*]:
     → "A long journey without promise of reward."
 592: 0x11B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x11B2 [0x52] END_LOAD_SCHEDULER: End scheduler "q002" with entities [LocalPlayer, LocalPlayer], work=88*
 594: 0x11C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 595: 0x11D2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-596: 0x11E3 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13989*]:
+596: 0x11E3 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13990*]:
     → "And I am sure that all of you present have had numerous beneficial dealings with adventurers."
 597: 0x11EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 598: 0x11EB [0x52] END_LOAD_SCHEDULER: End scheduler "q003" with entities [LocalPlayer, LocalPlayer], work=88*
 599: 0x11FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 600: 0x120B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-601: 0x121C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13990*]:
+601: 0x121C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13991*]:
     → "They have earned our trust and respect!"
 602: 0x1223 [0x23] WAIT_FOR_DIALOG_INTERACTION
-603: 0x1224 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13991*]:
+603: 0x1224 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13992*]:
     → "That is why I put forth the motion that we have <Player> return to the Empire and fight as a mercenary."
 604: 0x122B [0x23] WAIT_FOR_DIALOG_INTERACTION
-605: 0x122C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13992*]:
+605: 0x122C [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13993*]:
     → "We cannot allow any more blood to be spilled by beastmen, even should that blood belong to another nation's people."
 606: 0x1233 [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x1234 [0x52] END_LOAD_SCHEDULER: End scheduler "q004" with entities [LocalPlayer, LocalPlayer], work=88*
 608: 0x1243 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [Rahal (ID: 17772739/0x010F30C3), Rahal (ID: 17772739/0x010F30C3)], work=[200*, 0*]
 609: 0x1254 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q005" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-610: 0x1265 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13993*]:
+610: 0x1265 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13994*]:
     → "And if <Player> can improve [his/her] standing enough to bring [him/her] closer to the Imperial palace..."
 611: 0x126C [0x23] WAIT_FOR_DIALOG_INTERACTION
-612: 0x126D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13994*]:
+612: 0x126D [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13995*]:
     → "We may learn the ultimate goal of the Empire."
 613: 0x1274 [0x23] WAIT_FOR_DIALOG_INTERACTION
 614: 0x1275 [0x52] END_LOAD_SCHEDULER: End scheduler "q005" with entities [LocalPlayer, LocalPlayer], work=88*
 615: 0x1284 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-616: 0x1295 [0x2B] Volker (ID: 17772737/0x010F30C1) [13995*]:
+616: 0x1295 [0x2B] Volker (ID: 17772737/0x010F30C1) [13996*]:
     → "You'll find no argument here. Adventurers have been the quiet heroes in many of Bastok's darker moments."
 617: 0x129C [0x23] WAIT_FOR_DIALOG_INTERACTION
 618: 0x129D [0x52] END_LOAD_SCHEDULER: End scheduler "q006" with entities [LocalPlayer, LocalPlayer], work=88*
 619: 0x12AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-620: 0x12BD [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13996*]:
+620: 0x12BD [0x2B] Shantotto (ID: 17772736/0x010F30C0) [13997*]:
     → "An idea that creates less work for us, will not find me making a needless fuss!"
 621: 0x12C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 622: 0x12C5 [0x52] END_LOAD_SCHEDULER: End scheduler "q007" with entities [LocalPlayer, LocalPlayer], work=88*
 623: 0x12D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q008" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 624: 0x12E5 [0x79] Pieuje (ID: 17772735/0x010F30BF) looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
-625: 0x12EF [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13997*]:
+625: 0x12EF [0x2B] Pieuje (ID: 17772735/0x010F30BF) [13998*]:
     → "How does the Duchy of Jeuno stand on this?"
 626: 0x12F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-627: 0x12F7 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13998*]:
+627: 0x12F7 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13999*]:
     → "In agreement."
 628: 0x12FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-629: 0x12FF [0x2B] Wolfgang (ID: 17772551/0x010F3007) [13999*]:
+629: 0x12FF [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14000*]:
     → "The linking of our auction house services has strengthened the ties between Jeuno and the Empire, but economical matters are superseded by politics..."
 630: 0x1306 [0x23] WAIT_FOR_DIALOG_INTERACTION
 631: 0x1307 [0x52] END_LOAD_SCHEDULER: End scheduler "q008" with entities [LocalPlayer, LocalPlayer], work=88*
 632: 0x1316 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "q009" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
 633: 0x1327 [0x27] REQ_SET(priority=0x03, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0B)
-634: 0x132E [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14000*]:
+634: 0x132E [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14001*]:
     → "All in favor...?"
 635: 0x1335 [0x23] WAIT_FOR_DIALOG_INTERACTION
 636: 0x1336 [0x7B] Pieuje (ID: 17772735/0x010F30BF) stops talking
-637: 0x133B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14001*]:
+637: 0x133B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14002*]:
     → "One moment. As Raillefal warned, this problem is not likely to remain constrained within the borders of the Near East."
 638: 0x1342 [0x23] WAIT_FOR_DIALOG_INTERACTION
 639: 0x1343 [0x52] END_LOAD_SCHEDULER: End scheduler "q009" with entities [LocalPlayer, LocalPlayer], work=88*
 640: 0x1352 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p000" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-641: 0x1363 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14002*]:
+641: 0x1363 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14003*]:
     → "All the lands of Vana'diel, including our four nations..."
 642: 0x136A [0x23] WAIT_FOR_DIALOG_INTERACTION
-643: 0x136B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14003*]:
+643: 0x136B [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14004*]:
     → ""Urhguum" is the word for "world" in the language of Aht Urhgan, and this lurking threat could plunge it entirely into chaos."
 644: 0x1372 [0x23] WAIT_FOR_DIALOG_INTERACTION
 645: 0x1373 [0x4A] Pieuje (ID: 17772735/0x010F30BF) looks at LocalPlayer
 646: 0x137C [0x1C] WAIT(10* ticks)
 647: 0x137F [0x52] END_LOAD_SCHEDULER: End scheduler "p000" with entities [LocalPlayer, LocalPlayer], work=88*
 648: 0x138E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-649: 0x139F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14004*]:
+649: 0x139F [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14005*]:
     → "We lay this mission before you, <Player>. Will you consent to take up this burden?"
 650: 0x13A6 [0x1C] WAIT(20* ticks)
 651: 0x13A9 [0x4A] LocalPlayer looks at Pieuje (ID: 17772735/0x010F30BF)
 652: 0x13B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-653: 0x13B3 [0x24] CREATE_DIALOG(message_id=14005*, default_option=0*, option_flags=0*)
+653: 0x13B3 [0x24] CREATE_DIALOG(message_id=14006*, default_option=0*, option_flags=0*)
     → "Take up the burden? [That's what I'm here for!/What am I, a donkey?]"
 654: 0x13BA [0x25] WAIT_DIALOG_SELECT()
 655: 0x13BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1412
@@ -1712,13 +1712,13 @@ SUBROUTINE_0D62:
 658: 0x13CF [0x1C] WAIT(90* ticks)
 659: 0x13D2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=88*
 660: 0x13E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-661: 0x13F2 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14006*]:
+661: 0x13F2 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14007*]:
     → "You have our thanks, <Player>."
 662: 0x13F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-663: 0x13FA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14007*]:
+663: 0x13FA [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14008*]:
     → "Naturally, we will do all in our power to aid you in this task."
 664: 0x1401 [0x23] WAIT_FOR_DIALOG_INTERACTION
-665: 0x1402 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14008*]:
+665: 0x1402 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14009*]:
     → "It is a trifling amount, but perhaps you might use this Aht Urhgan coin on your travels."
 666: 0x1409 [0x23] WAIT_FOR_DIALOG_INTERACTION
 667: 0x140A [0x03] Work_Zone[1] = 1*
@@ -1729,10 +1729,10 @@ SUBROUTINE_0D62:
 672: 0x1426 [0x1C] WAIT(90* ticks)
 673: 0x1429 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=88*
 674: 0x1438 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p002" with entities [LocalPlayer, LocalPlayer], work=[88*, 0*]
-675: 0x1449 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14009*]:
+675: 0x1449 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14010*]:
     → "An adventurer is free to choose [his/her] own path..."
 676: 0x1450 [0x23] WAIT_FOR_DIALOG_INTERACTION
-677: 0x1451 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14010*]:
+677: 0x1451 [0x2B] Pieuje (ID: 17772735/0x010F30BF) [14011*]:
     → "However, what I ask of you is for the sake of all Vana'diel. I am sure that when the time comes, I can rely on you to perform your duty."
 678: 0x1458 [0x23] WAIT_FOR_DIALOG_INTERACTION
 679: 0x1459 [0x01] GOTO 0x145C
@@ -1741,13 +1741,13 @@ SUBROUTINE_145C:
 680: 0x145C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 681: 0x146D [0x1C] WAIT(300* ticks)
 682: 0x1470 [0x52] END_LOAD_SCHEDULER: End scheduler "p002" with entities [LocalPlayer, LocalPlayer], work=88*
-683: 0x147F [0x2B] ??? (ID: 17772587/0x010F302B) [14011*]:
+683: 0x147F [0x2B] ??? (ID: 17772587/0x010F302B) [14012*]:
     → "That treasure is more than simple bait..."
 684: 0x1486 [0x23] WAIT_FOR_DIALOG_INTERACTION
-685: 0x1487 [0x2B] ??? (ID: 17772587/0x010F302B) [14012*]:
+685: 0x1487 [0x2B] ??? (ID: 17772587/0x010F302B) [14013*]:
     → "An astral relic can and will seal your fate."
 686: 0x148E [0x23] WAIT_FOR_DIALOG_INTERACTION
-687: 0x148F [0x2B] ??? (ID: 17772587/0x010F302B) [14013*]:
+687: 0x148F [0x2B] ??? (ID: 17772587/0x010F302B) [14014*]:
     → "The Empress goes too far in her game. I'm curious to see how it turns out, all the same..."
 688: 0x1496 [0x23] WAIT_FOR_DIALOG_INTERACTION
 689: 0x1497 [0x1C] WAIT(30* ticks)
@@ -2466,7 +2466,7 @@ SUBROUTINE_145C:
  22: 0x1564 [0x52] END_LOAD_SCHEDULER: End scheduler "s000" with entities [EventEntity, EventEntity], work=289*
  23: 0x1573 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[289*, 0*]
  24: 0x1584 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x99)
- 25: 0x158B [0x2B] Naji (ID: 17772742/0x010F30C6) [14052*]:
+ 25: 0x158B [0x2B] Naji (ID: 17772742/0x010F30C6) [14053*]:
     → "<Player>!"
  26: 0x1592 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1593 [0x2A] GET_REQ_LEVEL(level=5, entity_id=LocalPlayer)
@@ -2476,13 +2476,13 @@ SUBROUTINE_145C:
  31: 0x15C6 [0x80] LOAD_WAIT(entity=Naji (ID: 17772742/0x010F30C6))
  32: 0x15CB [0x27] REQ_SET(priority=0x05, entity_id=Naji (ID: 17772742/0x010F30C6), tag_num=0x03)
  33: 0x15D2 [0x1C] WAIT(60* ticks)
- 34: 0x15D5 [0x2B] Naji (ID: 17772742/0x010F30C6) [14053*]:
+ 34: 0x15D5 [0x2B] Naji (ID: 17772742/0x010F30C6) [14054*]:
     → "<Huff>...You're about to enter the council? Glad to see you made it in time."
  35: 0x15DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x15DD [0x2A] GET_REQ_LEVEL(level=5, entity_id=Naji (ID: 17772742/0x010F30C6))
  37: 0x15E3 [0x27] REQ_SET(priority=0x05, entity_id=Naji (ID: 17772742/0x010F30C6), tag_num=0x04)
  38: 0x15EA [0x1C] WAIT(60* ticks)
- 39: 0x15ED [0x2B] Naji (ID: 17772742/0x010F30C6) [14054*]:
+ 39: 0x15ED [0x2B] Naji (ID: 17772742/0x010F30C6) [14055*]:
     → "Right, then! This way to the meeting room!"
  40: 0x15F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x15F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=289*
@@ -2491,14 +2491,14 @@ SUBROUTINE_145C:
  44: 0x161B [0x4A] LocalPlayer looks at Naji (ID: 17772742/0x010F30C6)
  45: 0x1624 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at LocalPlayer
  46: 0x162D [0x1C] WAIT(30* ticks)
- 47: 0x1630 [0x2B] Naji (ID: 17772742/0x010F30C6) [14055*]:
+ 47: 0x1630 [0x2B] Naji (ID: 17772742/0x010F30C6) [14056*]:
     → "But before you go in, why don't you take a few moments to gather your thoughts?"
  48: 0x1637 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x1638 [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=289*
  50: 0x1647 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[289*, 0*]
  51: 0x1658 [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 22*
  52: 0x165F [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
- 53: 0x1664 [0x2B] Naji (ID: 17772742/0x010F30C6) [14056*]:
+ 53: 0x1664 [0x2B] Naji (ID: 17772742/0x010F30C6) [14057*]:
     → "I mean, they've been going at this for hours--I doubt they'll miss you a couple minutes more."
  54: 0x166B [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x166C [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -2551,7 +2551,7 @@ SUBROUTINE_145C:
 102: 0x17E1 [0x1C] WAIT(30* ticks)
 103: 0x17E4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=116*
 104: 0x17F3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-105: 0x1802 [0x48] [System] [14057*]:
+105: 0x1802 [0x48] [System] [14058*]:
     → "@@"
 106: 0x1805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x1806 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
@@ -2565,102 +2565,102 @@ SUBROUTINE_145C:
 115: 0x1846 [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [EventEntity, EventEntity], work=289*
 116: 0x1855 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[289*, 0*]
 117: 0x1866 [0x6B] STOP_AND_IDLE: Trion (ID: 17772741/0x010F30C5) stops current action and resets to idle (animation="idl0")
-118: 0x186F [0x2B] Volker (ID: 17772737/0x010F30C1) [14058*]:
+118: 0x186F [0x2B] Volker (ID: 17772737/0x010F30C1) [14059*]:
     → "As I've already stated numerous times, it is in our best interests to prevent the completion of the Empire's secret weapon, this "iron colossus" of theirs."
 119: 0x1876 [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x1877 [0x2B] Volker (ID: 17772737/0x010F30C1) [14059*]:
+120: 0x1877 [0x2B] Volker (ID: 17772737/0x010F30C1) [14060*]:
     → "Bastok is prepared to employ military action to accomplish this goal--without your support, if necessary."
 121: 0x187E [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x187F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 123: 0x188E [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=289*
 124: 0x189D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[289*, 0*]
 125: 0x18AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-126: 0x18BD [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14060*]:
+126: 0x18BD [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14061*]:
     → "I am in full agreement with the captain in this case. The Empire's intentions are clear--we must not lose this race."
 127: 0x18C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x18C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
 129: 0x18D4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
-130: 0x18E3 [0x2B] Trion (ID: 17772741/0x010F30C5) [14061*]:
+130: 0x18E3 [0x2B] Trion (ID: 17772741/0x010F30C5) [14062*]:
     → "But if we mobilize our forces, we will be giving the Grand Vizier and his supporters just the ammunition they need to fuel a full-scale war."
 131: 0x18EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x18EB [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [EventEntity, EventEntity], work=289*
 133: 0x18FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[289*, 0*]
-134: 0x190B [0x2B] Trion (ID: 17772741/0x010F30C5) [14062*]:
+134: 0x190B [0x2B] Trion (ID: 17772741/0x010F30C5) [14063*]:
     → "The Empress yet retains loyal subjects within Her realm. I believe we can still avoid open confrontation."
 135: 0x1912 [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x1913 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
 137: 0x1922 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=289*
 138: 0x1931 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[289*, 0*]
 139: 0x1942 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-140: 0x1951 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14063*]:
+140: 0x1951 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14064*]:
     → "Ohohoho...so unlike you, my dear prince. Your sentimental view of the situation is making me wince."
 141: 0x1958 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x1959 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
 143: 0x1968 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-144: 0x1977 [0x2B] Volker (ID: 17772737/0x010F30C1) [14064*]:
+144: 0x1977 [0x2B] Volker (ID: 17772737/0x010F30C1) [14065*]:
     → "If I'm not mistaken, Your Highness, wasn't it one of your agents that described the Empress's position as little more than a puppet on the throne?"
 145: 0x197E [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x197F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 147: 0x198E [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=289*
 148: 0x199D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s102" with entities [EventEntity, EventEntity], work=[289*, 0*]
 149: 0x19AE [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Wolfgang (ID: 17772551/0x010F3007)
-150: 0x19B7 [0x2B] Trion (ID: 17772741/0x010F30C5) [14065*]:
+150: 0x19B7 [0x2B] Trion (ID: 17772741/0x010F30C5) [14066*]:
     → "I..."
 151: 0x19BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x19BF [0x1C] WAIT(30* ticks)
 153: 0x19C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s102" with entities [EventEntity, EventEntity], work=289*
 154: 0x19D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[289*, 0*]
 155: 0x19E2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
-156: 0x19F1 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14066*]:
+156: 0x19F1 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14067*]:
     → "This will be a conflict of epic proportions. Perhaps we should strive harder for a diplomatic solution..."
 157: 0x19F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x19F9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
 159: 0x1A08 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [EventEntity, EventEntity], work=289*
 160: 0x1A17 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[289*, 0*]
 161: 0x1A28 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-162: 0x1A37 [0x2B] Volker (ID: 17772737/0x010F30C1) [14067*]:
+162: 0x1A37 [0x2B] Volker (ID: 17772737/0x010F30C1) [14068*]:
     → "While I agree with you in theory, we walk a dangerous line."
 163: 0x1A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x1A3F [0x2B] Volker (ID: 17772737/0x010F30C1) [14068*]:
+164: 0x1A3F [0x2B] Volker (ID: 17772737/0x010F30C1) [14069*]:
     → "Despite its state of constant warfare, the sprawling Empire commands staggering resources. If we fail to make the first move, we could face casualties on the scale of the Great War."
 165: 0x1A46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x1A47 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 167: 0x1A56 [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [EventEntity, EventEntity], work=289*
 168: 0x1A65 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[289*, 0*]
 169: 0x1A76 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-170: 0x1A85 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14069*]:
+170: 0x1A85 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14070*]:
     → "The Great War? Surely you jest? The carnage from this apocalypse will be far greater than all the rest."
 171: 0x1A8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x1A8D [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=289*
 173: 0x1A9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[289*, 0*]
 174: 0x1AAD [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at Shantotto (ID: 17772736/0x010F30C0) (Basic look)
-175: 0x1AB7 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14070*]:
+175: 0x1AB7 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14071*]:
     → "Worse than the Great War?"
 176: 0x1ABE [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x1ABF [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=289*
 178: 0x1ACE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[289*, 0*]
 179: 0x1ADF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-180: 0x1AEE [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14071*]:
+180: 0x1AEE [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14072*]:
     → "You all know of the Gordeus, I presume? It is best we're all aware of this potential source of doom."
 181: 0x1AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x1AF6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-183: 0x1B05 [0x2B] Trion (ID: 17772741/0x010F30C5) [14072*]:
+183: 0x1B05 [0x2B] Trion (ID: 17772741/0x010F30C5) [14073*]:
     → "One does not lightly forget such an object..."
 184: 0x1B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x1B0D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
-186: 0x1B1C [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14073*]:
+186: 0x1B1C [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14074*]:
     → "You speak of the sacred artifact kept within the Walahra Temple?"
 187: 0x1B23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x1B24 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
 189: 0x1B33 [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=289*
 190: 0x1B42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[289*, 0*]
 191: 0x1B53 [0x27] REQ_SET(priority=0x05, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x0F)
-192: 0x1B5A [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14074*]:
+192: 0x1B5A [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14075*]:
     → "An amazing creation worthy of mention."
 193: 0x1B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x1B62 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Shantotto (ID: 17772736/0x010F30C0))
 195: 0x1B68 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-196: 0x1B77 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14075*]:
+196: 0x1B77 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14076*]:
     → "But that is not the phenomenon to which I wish to draw your attention."
 197: 0x1B7E [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x1B7F [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [EventEntity, EventEntity], work=289*
@@ -2669,16 +2669,16 @@ SUBROUTINE_145C:
 201: 0x1BA4 [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 202: 0x1BAD [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Shantotto (ID: 17772736/0x010F30C0)
 203: 0x1BB6 [0x79] Ayame (ID: 17772738/0x010F30C2) looks at Shantotto (ID: 17772736/0x010F30C0) (Basic look)
-204: 0x1BC0 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14076*]:
+204: 0x1BC0 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14077*]:
     → "I refer to an event from nine hundred years before..."
 205: 0x1BC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-206: 0x1BC8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14077*]:
+206: 0x1BC8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14078*]:
     → "The supernova that was born from the earth and stole the night sky for an entire year, as was passed down in lore."
 207: 0x1BCF [0x23] WAIT_FOR_DIALOG_INTERACTION
-208: 0x1BD0 [0x2B] Trion (ID: 17772741/0x010F30C5) [14078*]:
+208: 0x1BD0 [0x2B] Trion (ID: 17772741/0x010F30C5) [14079*]:
     → "Ah, now this I recall from my lessons! This was the miracle bestowed by the Goddess that marked the beginning of the Crystal Era."
 209: 0x1BD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-210: 0x1BD8 [0x2B] Volker (ID: 17772737/0x010F30C1) [14079*]:
+210: 0x1BD8 [0x2B] Volker (ID: 17772737/0x010F30C1) [14080*]:
     → "After the glare finally faded, this star of the first magnitude became part of the Alexander constellation, correct?"
 211: 0x1BDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x1BE0 [0x8A] CLOSE_MAP()
@@ -2687,12 +2687,12 @@ SUBROUTINE_145C:
 215: 0x1C01 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1)
 216: 0x1C0A [0x1C] WAIT(30* ticks)
 217: 0x1C0D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-218: 0x1C1C [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14080*]:
+218: 0x1C1C [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14081*]:
     → "It was merely a coincidence that the supernova's trajectory passed in front of that star. The truth of the matter is more fascinating by far."
 219: 0x1C23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x1C24 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=289*
 221: 0x1C33 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s119" with entities [EventEntity, EventEntity], work=[289*, 0*]
-222: 0x1C44 [0x2B] Volker (ID: 17772737/0x010F30C1) [14081*]:
+222: 0x1C44 [0x2B] Volker (ID: 17772737/0x010F30C1) [14082*]:
     → "The trajectory? I don't understand."
 223: 0x1C4B [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x1C4C [0x52] END_LOAD_SCHEDULER: End scheduler "s119" with entities [EventEntity, EventEntity], work=289*
@@ -2700,77 +2700,77 @@ SUBROUTINE_145C:
 226: 0x1C6C [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Trion (ID: 17772741/0x010F30C5)
 227: 0x1C75 [0x1C] WAIT(30* ticks)
 228: 0x1C78 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-229: 0x1C87 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14082*]:
+229: 0x1C87 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14083*]:
     → "I discovered an ancient papyrus in the extensive vaults of the Optistery."
 230: 0x1C8E [0x23] WAIT_FOR_DIALOG_INTERACTION
-231: 0x1C8F [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14083*]:
+231: 0x1C8F [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14084*]:
     → "The following was written in a script bold and flowery:"
 232: 0x1C96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x1C97 [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [EventEntity, EventEntity], work=289*
 234: 0x1CA6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [EventEntity, EventEntity], work=[289*, 0*]
-235: 0x1CB7 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14084*]:
+235: 0x1CB7 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14085*]:
     → ""When the light deity clashed with the dark, rent in twain were the heavens, and devastated was the earth by a storm beyond comprehension.""
 236: 0x1CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
-237: 0x1CBF [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14085*]:
+237: 0x1CBF [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14086*]:
     → "I must admit to feeling a degree of shock, for this simple passage described the arrival of Ragnarok..."
 238: 0x1CC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x1CC7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
 240: 0x1CD6 [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [EventEntity, EventEntity], work=289*
 241: 0x1CE5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [EventEntity, EventEntity], work=[289*, 0*]
 242: 0x1CF6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-243: 0x1D05 [0x2B] Volker (ID: 17772737/0x010F30C1) [14086*]:
+243: 0x1D05 [0x2B] Volker (ID: 17772737/0x010F30C1) [14087*]:
     → "Ragnarok... The northern legend that tells of the twilight of the gods? You mean to tell us that this supernova was in fact the aftermath of a battle between divinities?"
 244: 0x1D0C [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x1D0D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 246: 0x1D1C [0x79] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1) (Basic look)
-247: 0x1D26 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14087*]:
+247: 0x1D26 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14088*]:
     → "Oh, so close to the mark. Shall I endeavor to bring you out of the dark?"
 248: 0x1D2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x1D2E [0x52] END_LOAD_SCHEDULER: End scheduler "s019" with entities [EventEntity, EventEntity], work=289*
 250: 0x1D3D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s020" with entities [EventEntity, EventEntity], work=[289*, 0*]
 251: 0x1D4E [0x27] REQ_SET(priority=0x05, entity_id=Shantotto (ID: 17772736/0x010F30C0), tag_num=0x10)
-252: 0x1D55 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14088*]:
+252: 0x1D55 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14089*]:
     → "This is my hypothesis based on the facts at hand..."
 253: 0x1D5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x1D5D [0x2A] GET_REQ_LEVEL(level=5, entity_id=Shantotto (ID: 17772736/0x010F30C0))
 255: 0x1D63 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [EventEntity, EventEntity], work=289*
 256: 0x1D72 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [EventEntity, EventEntity], work=[289*, 0*]
 257: 0x1D83 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-258: 0x1D92 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14089*]:
+258: 0x1D92 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14090*]:
     → "The old Empire of Aht Urhgan launched their iron colossus, imbued with the spirit of the light deity, high into the air, and attempted to dominate the entire land."
 259: 0x1D99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x1D9A [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [EventEntity, EventEntity], work=289*
 261: 0x1DA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [EventEntity, EventEntity], work=[289*, 0*]
-262: 0x1DBA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14090*]:
+262: 0x1DBA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14091*]:
     → "The nation that revered a rival deity was unsurprisingly not amused. They sent up their Dark Rider born from sacrifice and with utter darkness infused."
 263: 0x1DC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x1DC2 [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [EventEntity, EventEntity], work=289*
 265: 0x1DD1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [EventEntity, EventEntity], work=[289*, 0*]
-266: 0x1DE2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14091*]:
+266: 0x1DE2 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14092*]:
     → "A fierce battle raged in the skies, and eventually both combatants fell to earth--the giant in pieces, and the rider with grave wounds to his material form."
 267: 0x1DE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-268: 0x1DEA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14092*]:
+268: 0x1DEA [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14093*]:
     → "But this titanic struggle had blasted the land into ruin, and left a void in the heavens that spawned a cataclysmic storm..."
 269: 0x1DF1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x1DF2 [0x52] END_LOAD_SCHEDULER: End scheduler "s022" with entities [EventEntity, EventEntity], work=289*
 271: 0x1E01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [EventEntity, EventEntity], work=[289*, 0*]
-272: 0x1E12 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14093*]:
+272: 0x1E12 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14094*]:
     → "An apocalypse..."
 273: 0x1E19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x1E1A [0x52] END_LOAD_SCHEDULER: End scheduler "s023" with entities [EventEntity, EventEntity], work=289*
 275: 0x1E29 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [EventEntity, EventEntity], work=[289*, 0*]
 276: 0x1E3A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-277: 0x1E49 [0x2B] Volker (ID: 17772737/0x010F30C1) [14094*]:
+277: 0x1E49 [0x2B] Volker (ID: 17772737/0x010F30C1) [14095*]:
     → "What a ridiculous story. How could an iron colossus be made to fly?"
 278: 0x1E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
-279: 0x1E51 [0x2B] Volker (ID: 17772737/0x010F30C1) [14095*]:
+279: 0x1E51 [0x2B] Volker (ID: 17772737/0x010F30C1) [14096*]:
     → "And what does this have to do with the name of the Gordeus?"
 280: 0x1E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 281: 0x1E59 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 282: 0x1E68 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [EventEntity, EventEntity], work=289*
 283: 0x1E77 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s120" with entities [EventEntity, EventEntity], work=[289*, 0*]
 284: 0x1E88 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-285: 0x1E97 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14096*]:
+285: 0x1E97 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14097*]:
     → "We Tarutaru have always been notoriously fussy about our cuisine. The name was probably heard from a trader in foreign goods, is what I mean."
 286: 0x1E9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x1E9F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)]
@@ -2778,7 +2778,7 @@ SUBROUTINE_145C:
 289: 0x1EBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [EventEntity, EventEntity], work=[289*, 0*]
 290: 0x1ECC [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1)
 291: 0x1ED5 [0x1C] WAIT(30* ticks)
-292: 0x1ED8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14097*]:
+292: 0x1ED8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14098*]:
     → "The name of the colossus's heart, given to a star..."
 293: 0x1EDF [0x23] WAIT_FOR_DIALOG_INTERACTION
 294: 0x1EE0 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [EventEntity, EventEntity], work=289*
@@ -2787,7 +2787,7 @@ SUBROUTINE_145C:
 297: 0x1F09 [0x4A] Ayame (ID: 17772738/0x010F30C2) looks at Trion (ID: 17772741/0x010F30C5)
 298: 0x1F12 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Trion (ID: 17772741/0x010F30C5)
 299: 0x1F1B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ara0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
-300: 0x1F2A [0x2B] Trion (ID: 17772741/0x010F30C5) [14098*]:
+300: 0x1F2A [0x2B] Trion (ID: 17772741/0x010F30C5) [14099*]:
     → "We have let ourselves be distracted by the candescences. The Gordeus should have been our true concern."
 301: 0x1F31 [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x1F32 [0x1C] WAIT(30* ticks)
@@ -2796,14 +2796,14 @@ SUBROUTINE_145C:
 305: 0x1F53 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [EventEntity, EventEntity], work=[289*, 0*]
 306: 0x1F64 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
 307: 0x1F73 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=22.000*, pos_z=64.000*, pos_y=1.999*, direction=0.2°*)
-308: 0x1F80 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14099*]:
+308: 0x1F80 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14100*]:
     → "We can only hope that the Grand Vizier has failed to notice the true value of the treasure under his nose. We must hurry to bring this matter to a close."
 309: 0x1F87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x1F88 [0x80] LOAD_WAIT(entity=LocalPlayer)
 311: 0x1F8D [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [EventEntity, EventEntity], work=289*
 312: 0x1F9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s121" with entities [EventEntity, EventEntity], work=[289*, 0*]
 313: 0x1FAD [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x00
-314: 0x1FB3 [0x2B] Volker (ID: 17772737/0x010F30C1) [13926*]:
+314: 0x1FB3 [0x2B] Volker (ID: 17772737/0x010F30C1) [13927*]:
     → "..."
 315: 0x1FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
 316: 0x1FBB [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x01
@@ -2824,7 +2824,7 @@ SUBROUTINE_145C:
 331: 0x204C [0x27] REQ_SET(priority=0x03, entity_id=Naji (ID: 17772742/0x010F30C6), tag_num=0x05)
 332: 0x2053 [0x1C] WAIT(60* ticks)
 333: 0x2056 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x9A)
-334: 0x205D [0x2B] Naji (ID: 17772742/0x010F30C6) [14100*]:
+334: 0x205D [0x2B] Naji (ID: 17772742/0x010F30C6) [14101*]:
     → "Naji reporting in! I've brought <Player> back with me!"
 335: 0x2064 [0x23] WAIT_FOR_DIALOG_INTERACTION
 336: 0x2065 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s104" with entities [EventEntity, EventEntity], work=289*
@@ -2836,7 +2836,7 @@ SUBROUTINE_145C:
 342: 0x2095 [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 343: 0x209E [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Ayame (ID: 17772738/0x010F30C2)
 344: 0x20A7 [0x4A] Trion (ID: 17772741/0x010F30C5) looks at Ayame (ID: 17772738/0x010F30C2)
-345: 0x20B0 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14101*]:
+345: 0x20B0 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14102*]:
     → "You're late. Where in Altana's name have you been!?"
 346: 0x20B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x20B8 [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 21*
@@ -2846,7 +2846,7 @@ SUBROUTINE_145C:
 351: 0x20E4 [0x1C] WAIT(90* ticks)
 352: 0x20E7 [0x52] END_LOAD_SCHEDULER: End scheduler "s127" with entities [EventEntity, EventEntity], work=289*
 353: 0x20F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [EventEntity, EventEntity], work=[289*, 0*]
-354: 0x2107 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14102*]:
+354: 0x2107 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14103*]:
     → "Take it easy, Ayame."
 355: 0x210E [0x23] WAIT_FOR_DIALOG_INTERACTION
 356: 0x210F [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [EventEntity, EventEntity], work=289*
@@ -2857,13 +2857,13 @@ SUBROUTINE_145C:
 361: 0x214A [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at LocalPlayer (Basic look)
 362: 0x2154 [0x4A] Trion (ID: 17772741/0x010F30C5) looks at LocalPlayer
 363: 0x215D [0x1C] WAIT(30* ticks)
-364: 0x2160 [0x2B] Trion (ID: 17772741/0x010F30C5) [14103*]:
+364: 0x2160 [0x2B] Trion (ID: 17772741/0x010F30C5) [14104*]:
     → "<Player>, we are grateful you could come. Your insight will be invaluable."
 365: 0x2167 [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x2168 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [EventEntity, EventEntity], work=289*
 367: 0x2177 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [EventEntity, EventEntity], work=[289*, 0*]
 368: 0x2188 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
-369: 0x2197 [0x2B] Trion (ID: 17772741/0x010F30C5) [14104*]:
+369: 0x2197 [0x2B] Trion (ID: 17772741/0x010F30C5) [14105*]:
     → "Please, describe to us your impressions of the events unfolding in the Empire..."
 370: 0x219E [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x219F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2934,22 +2934,22 @@ SUBROUTINE_145C:
 436: 0x239A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "men0" with entities [Ghatsad (ID: 17772744/0x010F30C8), Ghatsad (ID: 17772744/0x010F30C8)], work=1172*
 437: 0x23A9 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Nashmeira (ID: 17772747/0x010F30CB))
 438: 0x23AF [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler "str0" with entities [??? (ID: 17772750/0x010F30CE), ??? (ID: 17772750/0x010F30CE)], work=[233*, 0*]
-439: 0x23C0 [0x48] [System] [14057*]:
+439: 0x23C0 [0x48] [System] [14058*]:
     → "@@"
 440: 0x23C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 441: 0x23C4 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 185*
 442: 0x23C8 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 185*
 443: 0x23CC [0x9A] WAIT_MUSIC_SERVER()
-444: 0x23CD [0x2B] ??? (ID: 17772750/0x010F30CE) [14105*]:
+444: 0x23CD [0x2B] ??? (ID: 17772750/0x010F30CE) [14106*]:
     → "Thanks to your talents, gaining the program data we needed was far less complicated than expected."
 445: 0x23D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-446: 0x23D5 [0x2B] ??? (ID: 17772750/0x010F30CE) [14106*]:
+446: 0x23D5 [0x2B] ??? (ID: 17772750/0x010F30CE) [14107*]:
     → "But the Empress appears to have only a tentative hold on consciousness..."
 447: 0x23DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x23DD [0x2B] ??? (ID: 17772750/0x010F30CE) [14107*]:
+448: 0x23DD [0x2B] ??? (ID: 17772750/0x010F30CE) [14108*]:
     → "It is nothing to be concerned about. When reading someone's memories with my altered...perspective...it occasionally releases images and thoughts sealed deep within the mind."
 449: 0x23E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-450: 0x23E5 [0x2B] ??? (ID: 17772750/0x010F30CE) [14108*]:
+450: 0x23E5 [0x2B] ??? (ID: 17772750/0x010F30CE) [14109*]:
     → "This state of regression is only temporary. She will recover in time..."
 451: 0x23EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 452: 0x23ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gold" with entities [??? (ID: 17772750/0x010F30CE), ??? (ID: 17772750/0x010F30CE)], work=[289*, 0*]
@@ -2986,7 +2986,7 @@ SUBROUTINE_145C:
 483: 0x2582 [0x6B] STOP_AND_IDLE: Ghatsad (ID: 17772744/0x010F30C8) stops current action and resets to idle (animation="idl0")
 484: 0x258B [0xBA] SET_ENTITY_POSITION(entity_id=Ghatsad (ID: 17772744/0x010F30C8), pos_x=-3.631*, pos_z=44.864*, pos_y=0.000*, direction=16.0°*)
 485: 0x2598 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "stb1" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)], work=837*
-486: 0x25A7 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14109*]:
+486: 0x25A7 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14110*]:
     → "Let us begin."
 487: 0x25AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 488: 0x25AF [0x80] LOAD_WAIT(entity=Ghatsad (ID: 17772744/0x010F30C8))
@@ -3032,12 +3032,12 @@ SUBROUTINE_145C:
 528: 0x2794 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=289*
 529: 0x27A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [EventEntity, EventEntity], work=[289*, 0*]
 530: 0x27B4 [0x1C] WAIT(60* ticks)
-531: 0x27B7 [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14110*]:
+531: 0x27B7 [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14111*]:
     → "So...this day has finally come."
 532: 0x27BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 533: 0x27BF [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [EventEntity, EventEntity], work=289*
 534: 0x27CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s132" with entities [EventEntity, EventEntity], work=[289*, 0*]
-535: 0x27DF [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14111*]:
+535: 0x27DF [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14112*]:
     → "That voice!"
 536: 0x27E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 537: 0x27E7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s132" with entities [EventEntity, EventEntity], work=289*
@@ -3047,16 +3047,16 @@ SUBROUTINE_145C:
 541: 0x2819 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "lkr0" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)]
 542: 0x2826 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=289*
 543: 0x2835 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [EventEntity, EventEntity], work=[289*, 0*]
-544: 0x2846 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14112*]:
+544: 0x2846 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14113*]:
     → "If it isn't Nashmeira, then who...?"
 545: 0x284D [0x23] WAIT_FOR_DIALOG_INTERACTION
 546: 0x284E [0x52] END_LOAD_SCHEDULER: End scheduler "s105" with entities [EventEntity, EventEntity], work=289*
 547: 0x285D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [EventEntity, EventEntity], work=[289*, 0*]
 548: 0x286E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "lkr1" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)], work=1070*
-549: 0x287D [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14113*]:
+549: 0x287D [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14114*]:
     → "I know not who you are, but it appears you have completed construction of Alzadaal and unraveled the Gordeus."
 550: 0x2884 [0x23] WAIT_FOR_DIALOG_INTERACTION
-551: 0x2885 [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14114*]:
+551: 0x2885 [0x2B] Mnejing (ID: 17772748/0x010F30CC) [14115*]:
     → "Congratulations are in order! You will soon hold the most awe-inspiring weapon in Urhguum in the palm of your hand--the power of light."
 552: 0x288C [0x23] WAIT_FOR_DIALOG_INTERACTION
 553: 0x288D [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [EventEntity, EventEntity], work=289*
@@ -3064,27 +3064,27 @@ SUBROUTINE_145C:
 555: 0x28AD [0x4A] Razfahd (ID: 17772743/0x010F30C7) looks at Mnejing (ID: 17772748/0x010F30CC)
 556: 0x28B6 [0x7B] Razfahd (ID: 17772743/0x010F30C7) stops talking
 557: 0x28BB [0x1C] WAIT(30* ticks)
-558: 0x28BE [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14115*]:
+558: 0x28BE [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14116*]:
     → "Father...!?"
 559: 0x28C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 560: 0x28C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [EventEntity, EventEntity], work=289*
 561: 0x28D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [EventEntity, EventEntity], work=[289*, 0*]
-562: 0x28E6 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14116*]:
+562: 0x28E6 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14117*]:
     → "But the power of Alexander is a double-edged sword."
 563: 0x28ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x28EE [0x4A] Razfahd (ID: 17772743/0x010F30C7) looks at Ovjang (ID: 17772749/0x010F30CD)
 565: 0x28F7 [0x7B] Razfahd (ID: 17772743/0x010F30C7) stops talking
 566: 0x28FC [0x1C] WAIT(30* ticks)
-567: 0x28FF [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14117*]:
+567: 0x28FF [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14118*]:
     → "Mother!"
 568: 0x2906 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x2907 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [EventEntity, EventEntity], work=289*
 570: 0x2916 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[289*, 0*]
-571: 0x2927 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14118*]:
+571: 0x2927 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14119*]:
     → "The infinite energy of a star... The legends--not to mention the ruins--speak eloquently of the destruction that will befall should you make a single misstep."
 572: 0x292E [0x23] WAIT_FOR_DIALOG_INTERACTION
 573: 0x292F [0x4B] UPDATE_ENTITY_YAW(entity=Razfahd (ID: 17772743/0x010F30C7), yaw=16.9°*)
-574: 0x2936 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14119*]:
+574: 0x2936 [0x2B] Ovjang (ID: 17772749/0x010F30CD) [14120*]:
     → "It is not too late. If you possess a shred of compassion, you will halt the program immediately. We hope you choose the wiser course..."
 575: 0x293D [0x23] WAIT_FOR_DIALOG_INTERACTION
 576: 0x293E [0x1C] WAIT(30* ticks)
@@ -3092,13 +3092,13 @@ SUBROUTINE_145C:
 578: 0x2950 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [EventEntity, EventEntity], work=[289*, 0*]
 579: 0x2961 [0x4A] Ghatsad (ID: 17772744/0x010F30C8) looks at ??? (ID: 17772750/0x010F30CE)
 580: 0x296A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "stb0" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)], work=837*
-581: 0x2979 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14120*]:
+581: 0x2979 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14121*]:
     → "Hmph...a cunning trick, Nashmeira. Defiant until the last."
 582: 0x2980 [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x2981 [0x52] END_LOAD_SCHEDULER: End scheduler "s046" with entities [EventEntity, EventEntity], work=289*
 584: 0x2990 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s047" with entities [EventEntity, EventEntity], work=[289*, 0*]
 585: 0x29A1 [0x7C] Nashmeira (ID: 17772747/0x010F30CB)->Render.Flags2 |= 0x00
-586: 0x29A7 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14121*]:
+586: 0x29A7 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14122*]:
     → "..."
 587: 0x29AE [0x23] WAIT_FOR_DIALOG_INTERACTION
 588: 0x29AF [0x52] END_LOAD_SCHEDULER: End scheduler "s047" with entities [EventEntity, EventEntity], work=289*
@@ -3146,7 +3146,7 @@ SUBROUTINE_145C:
 630: 0x2BDB [0x1C] WAIT(30* ticks)
 631: 0x2BDE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wow0" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)], work=1071*
 632: 0x2BED [0x7C] Razfahd (ID: 17772743/0x010F30C7)->Render.Flags2 |= 0x00
-633: 0x2BF3 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14122*]:
+633: 0x2BF3 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14123*]:
     → "!!!"
 634: 0x2BFA [0x1C] WAIT(30* ticks)
 635: 0x2BFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -3183,12 +3183,12 @@ SUBROUTINE_145C:
 666: 0x2D5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s054" with entities [EventEntity, EventEntity], work=[289*, 0*]
 667: 0x2D70 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wow1" with entities [Razfahd (ID: 17772743/0x010F30C7), Razfahd (ID: 17772743/0x010F30C7)], work=1071*
 668: 0x2D7F [0x1C] WAIT(60* ticks)
-669: 0x2D82 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14123*]:
+669: 0x2D82 [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14124*]:
     → "Behold! This is the will of Alexander!"
 670: 0x2D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 671: 0x2D8A [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [EventEntity, EventEntity], work=289*
 672: 0x2D99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [EventEntity, EventEntity], work=[289*, 0*]
-673: 0x2DAA [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14124*]:
+673: 0x2DAA [0x2B] Razfahd (ID: 17772743/0x010F30C7) [14125*]:
     → "I fear no legend or signs of past failures. I will carve out my own destiny."
 674: 0x2DB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 675: 0x2DB2 [0x52] END_LOAD_SCHEDULER: End scheduler "s055" with entities [EventEntity, EventEntity], work=289*
@@ -3237,7 +3237,7 @@ SUBROUTINE_145C:
 718: 0x2FCF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[289*, 0*]
 719: 0x2FE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "gron" with entities [Ovjang (ID: 17772749/0x010F30CD), Ovjang (ID: 17772749/0x010F30CD)], work=[289*, 0*]
 720: 0x2FF1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shk1" with entities [Nashmeira (ID: 17772747/0x010F30CB), Nashmeira (ID: 17772747/0x010F30CB)], work=[289*, 0*]
-721: 0x3002 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14125*]:
+721: 0x3002 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14126*]:
     → "...?"
 722: 0x3009 [0x23] WAIT_FOR_DIALOG_INTERACTION
 723: 0x300A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "shk1" with entities [Nashmeira (ID: 17772747/0x010F30CB), Nashmeira (ID: 17772747/0x010F30CB)]
@@ -3246,13 +3246,13 @@ SUBROUTINE_145C:
 726: 0x3037 [0x1C] WAIT(150* ticks)
 727: 0x303A [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [EventEntity, EventEntity], work=289*
 728: 0x3049 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s109" with entities [EventEntity, EventEntity], work=[289*, 0*]
-729: 0x305A [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14126*]:
+729: 0x305A [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14127*]:
     → "O-Ovjang...?"
 730: 0x3061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 731: 0x3062 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s109" with entities [EventEntity, EventEntity], work=289*
 732: 0x3071 [0x1C] WAIT(30* ticks)
 733: 0x3074 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [EventEntity, EventEntity], work=[289*, 0*]
-734: 0x3085 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14127*]:
+734: 0x3085 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14128*]:
     → "Mnejing!?"
 735: 0x308C [0x23] WAIT_FOR_DIALOG_INTERACTION
 736: 0x308D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s061" with entities [EventEntity, EventEntity], work=289*
@@ -3262,14 +3262,14 @@ SUBROUTINE_145C:
 740: 0x30BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "shk2" with entities [Ovjang (ID: 17772749/0x010F30CD), Ovjang (ID: 17772749/0x010F30CD)], work=1066*
 741: 0x30CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "shk2" with entities [Nashmeira (ID: 17772747/0x010F30CB), Nashmeira (ID: 17772747/0x010F30CB)], work=[289*, 0*]
 742: 0x30DF [0x1C] WAIT(120* ticks)
-743: 0x30E2 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14128*]:
+743: 0x30E2 [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14129*]:
     → "No..."
 744: 0x30E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 745: 0x30EA [0x1C] WAIT(150* ticks)
 746: 0x30ED [0x52] END_LOAD_SCHEDULER: End scheduler "s062" with entities [EventEntity, EventEntity], work=289*
 747: 0x30FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [EventEntity, EventEntity], work=[289*, 0*]
 748: 0x310D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "iyaa" with entities [Nashmeira (ID: 17772747/0x010F30CB), Nashmeira (ID: 17772747/0x010F30CB)], work=[289*, 0*]
-749: 0x311E [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14129*]:
+749: 0x311E [0x2B] Nashmeira (ID: 17772747/0x010F30CB) [14130*]:
     → "Noooooo...!!!"
 750: 0x3125 [0x23] WAIT_FOR_DIALOG_INTERACTION
 751: 0x3126 [0x1C] WAIT(30* ticks)
@@ -3307,7 +3307,7 @@ SUBROUTINE_145C:
 783: 0x31F9 [0x4A] Ayame (ID: 17772738/0x010F30C2) looks at LocalPlayer
 784: 0x3202 [0x1C] WAIT(30* ticks)
 785: 0x3205 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=116*
-786: 0x3214 [0x48] [System] [14057*]:
+786: 0x3214 [0x48] [System] [14058*]:
     → "@@"
 787: 0x3217 [0x23] WAIT_FOR_DIALOG_INTERACTION
 788: 0x3218 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
@@ -3318,41 +3318,41 @@ SUBROUTINE_145C:
 793: 0x3235 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 794: 0x3246 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
 795: 0x3255 [0x7C] Trion (ID: 17772741/0x010F30C5)->Render.Flags2 |= 0x00
-796: 0x325B [0x2B] Trion (ID: 17772741/0x010F30C5) [14130*]:
+796: 0x325B [0x2B] Trion (ID: 17772741/0x010F30C5) [14131*]:
     → "..."
 797: 0x3262 [0x23] WAIT_FOR_DIALOG_INTERACTION
 798: 0x3263 [0x7C] Trion (ID: 17772741/0x010F30C5)->Render.Flags2 |= 0x01
 799: 0x3269 [0x52] END_LOAD_SCHEDULER: End scheduler "s108" with entities [EventEntity, EventEntity], work=289*
 800: 0x3278 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[289*, 0*]
 801: 0x3289 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=116*
-802: 0x3298 [0x2B] Trion (ID: 17772741/0x010F30C5) [14131*]:
+802: 0x3298 [0x2B] Trion (ID: 17772741/0x010F30C5) [14132*]:
     → "Thank you, <Player>. I am sure we all felt the immediacy of your experiences."
 803: 0x329F [0x23] WAIT_FOR_DIALOG_INTERACTION
 804: 0x32A0 [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=289*
 805: 0x32AF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[289*, 0*]
 806: 0x32C0 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Volker (ID: 17772737/0x010F30C1)
 807: 0x32C9 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Trion (ID: 17772741/0x010F30C5)
-808: 0x32D2 [0x2B] Trion (ID: 17772741/0x010F30C5) [14132*]:
+808: 0x32D2 [0x2B] Trion (ID: 17772741/0x010F30C5) [14133*]:
     → "And if we can believe the words of the Grand Vizier, a war with the Empire seems inevitable."
 809: 0x32D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-810: 0x32DA [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14133*]:
+810: 0x32DA [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14134*]:
     → "I'm afraid I have to agree with you..."
 811: 0x32E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 812: 0x32E2 [0x1C] WAIT(30* ticks)
 813: 0x32E5 [0x52] END_LOAD_SCHEDULER: End scheduler "s071" with entities [EventEntity, EventEntity], work=289*
 814: 0x32F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s072" with entities [EventEntity, EventEntity], work=[289*, 0*]
 815: 0x3305 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-816: 0x3314 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14134*]:
+816: 0x3314 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14135*]:
     → "Then, a war it shall be. Preparations must be made with all urgency."
 817: 0x331B [0x23] WAIT_FOR_DIALOG_INTERACTION
 818: 0x331C [0x52] END_LOAD_SCHEDULER: End scheduler "s072" with entities [EventEntity, EventEntity], work=289*
 819: 0x332B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[289*, 0*]
 820: 0x333C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-821: 0x334B [0x2B] Volker (ID: 17772737/0x010F30C1) [14135*]:
+821: 0x334B [0x2B] Volker (ID: 17772737/0x010F30C1) [14136*]:
     → "Bastok's armada is ready to sail. Once I give the order, the seas will be ours."
 822: 0x3352 [0x23] WAIT_FOR_DIALOG_INTERACTION
 823: 0x3353 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-824: 0x3362 [0x2B] Volker (ID: 17772737/0x010F30C1) [14136*]:
+824: 0x3362 [0x2B] Volker (ID: 17772737/0x010F30C1) [14137*]:
     → "Are we committed?"
 825: 0x3369 [0x23] WAIT_FOR_DIALOG_INTERACTION
 826: 0x336A [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 29*
@@ -3361,19 +3361,19 @@ SUBROUTINE_145C:
 829: 0x3379 [0x52] END_LOAD_SCHEDULER: End scheduler "s073" with entities [EventEntity, EventEntity], work=289*
 830: 0x3388 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[289*, 0*]
 831: 0x3399 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=41*
-832: 0x33A8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14137*]:
+832: 0x33A8 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14138*]:
     → "Ohohoho. Our amphibious cardian advance units were already given the order to deploy. They lay hidden in the Wajaom Woodlands, primed and waiting to destroy."
 833: 0x33AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 834: 0x33B0 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Shantotto (ID: 17772736/0x010F30C0)
 835: 0x33B9 [0x1C] WAIT(30* ticks)
-836: 0x33BC [0x2B] Volker (ID: 17772737/0x010F30C1) [14138*]:
+836: 0x33BC [0x2B] Volker (ID: 17772737/0x010F30C1) [14139*]:
     → "Already deployed...? Was the decision of this council a forgone conclusion?"
 837: 0x33C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 838: 0x33C4 [0x52] END_LOAD_SCHEDULER: End scheduler "s074" with entities [EventEntity, EventEntity], work=289*
 839: 0x33D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [EventEntity, EventEntity], work=[289*, 0*]
 840: 0x33E4 [0x1C] WAIT(60* ticks)
 841: 0x33E7 [0x7C] Ayame (ID: 17772738/0x010F30C2)->Render.Flags2 |= 0x00
-842: 0x33ED [0x2B] Ayame (ID: 17772738/0x010F30C2) [14139*]:
+842: 0x33ED [0x2B] Ayame (ID: 17772738/0x010F30C2) [14140*]:
     → "..."
 843: 0x33F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 844: 0x33F5 [0x7C] Ayame (ID: 17772738/0x010F30C2)->Render.Flags2 |= 0x01
@@ -3381,7 +3381,7 @@ SUBROUTINE_145C:
 846: 0x3400 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [EventEntity, EventEntity], work=289*
 847: 0x340F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[289*, 0*]
 848: 0x3420 [0x27] REQ_SET(priority=0x05, entity_id=Naji (ID: 17772742/0x010F30C6), tag_num=0x07)
-849: 0x3427 [0x2B] Naji (ID: 17772742/0x010F30C6) [14140*]:
+849: 0x3427 [0x2B] Naji (ID: 17772742/0x010F30C6) [14141*]:
     → "N-now hold on a minute!"
 850: 0x342E [0x23] WAIT_FOR_DIALOG_INTERACTION
 851: 0x342F [0x2A] GET_REQ_LEVEL(level=5, entity_id=Naji (ID: 17772742/0x010F30C6))
@@ -3392,7 +3392,7 @@ SUBROUTINE_145C:
 856: 0x3468 [0x6B] STOP_AND_IDLE: Shantotto (ID: 17772736/0x010F30C0) stops current action and resets to idle (animation="idl0")
 857: 0x3471 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Naji (ID: 17772742/0x010F30C6)
 858: 0x347A [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x00
-859: 0x3480 [0x2B] Volker (ID: 17772737/0x010F30C1) [14141*]:
+859: 0x3480 [0x2B] Volker (ID: 17772737/0x010F30C1) [14142*]:
     → "!!!"
 860: 0x3487 [0x23] WAIT_FOR_DIALOG_INTERACTION
 861: 0x3488 [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x01
@@ -3402,14 +3402,14 @@ SUBROUTINE_145C:
 865: 0x3497 [0x52] END_LOAD_SCHEDULER: End scheduler "s076" with entities [EventEntity, EventEntity], work=289*
 866: 0x34A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [EventEntity, EventEntity], work=[289*, 0*]
 867: 0x34B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-868: 0x34C6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14142*]:
+868: 0x34C6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14143*]:
     → "From what I could gather from <Player>'s explanation, this Luzaf character wants to prevent Ragnarok as much as we do."
 869: 0x34CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 870: 0x34CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
 871: 0x34DD [0x52] END_LOAD_SCHEDULER: End scheduler "s077" with entities [EventEntity, EventEntity], work=289*
 872: 0x34EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s078" with entities [EventEntity, EventEntity], work=[289*, 0*]
 873: 0x34FD [0x4A] Volker (ID: 17772737/0x010F30C1) looks at LocalPlayer
-874: 0x3506 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14143*]:
+874: 0x3506 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14144*]:
     → "Naji! Remember your station!"
 875: 0x350D [0x23] WAIT_FOR_DIALOG_INTERACTION
 876: 0x350E [0x52] END_LOAD_SCHEDULER: End scheduler "s078" with entities [EventEntity, EventEntity], work=289*
@@ -3417,23 +3417,23 @@ SUBROUTINE_145C:
 878: 0x352E [0x4A] Naji (ID: 17772742/0x010F30C6) looks at LocalPlayer
 879: 0x3537 [0x1C] WAIT(30* ticks)
 880: 0x353A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-881: 0x3549 [0x2B] Naji (ID: 17772742/0x010F30C6) [14144*]:
+881: 0x3549 [0x2B] Naji (ID: 17772742/0x010F30C6) [14145*]:
     → "And the Empress is of the same mind...isn't that right, <Player>?"
 882: 0x3550 [0x23] WAIT_FOR_DIALOG_INTERACTION
 883: 0x3551 [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=289*
 884: 0x3560 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [EventEntity, EventEntity], work=[289*, 0*]
 885: 0x3571 [0x6B] STOP_AND_IDLE: Naji (ID: 17772742/0x010F30C6) stops current action and resets to idle (animation="idl0")
-886: 0x357A [0x2B] Naji (ID: 17772742/0x010F30C6) [14145*]:
+886: 0x357A [0x2B] Naji (ID: 17772742/0x010F30C6) [14146*]:
     → "The way I see it, there's no need to go head-to-head with the Empire's forces."
 887: 0x3581 [0x23] WAIT_FOR_DIALOG_INTERACTION
 888: 0x3582 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [EventEntity, EventEntity], work=289*
 889: 0x3591 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s080" with entities [EventEntity, EventEntity], work=[289*, 0*]
-890: 0x35A2 [0x2B] Naji (ID: 17772742/0x010F30C6) [14146*]:
+890: 0x35A2 [0x2B] Naji (ID: 17772742/0x010F30C6) [14147*]:
     → "If we can spirit Luzaf out of their clutches, then we can at least put a stop to this Ragnarok business."
 891: 0x35A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 892: 0x35AA [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 7*
 893: 0x35B1 [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
-894: 0x35B6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14147*]:
+894: 0x35B6 [0x2B] Naji (ID: 17772742/0x010F30C6) [14148*]:
     → "We might even get a chance to restore authority to the Empress while we're at it."
 895: 0x35BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 896: 0x35BE [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=289*
@@ -3441,45 +3441,45 @@ SUBROUTINE_145C:
 898: 0x35DE [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Trion (ID: 17772741/0x010F30C5)
 899: 0x35E7 [0x1C] WAIT(30* ticks)
 900: 0x35EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-901: 0x35F9 [0x2B] Naji (ID: 17772742/0x010F30C6) [14148*]:
+901: 0x35F9 [0x2B] Naji (ID: 17772742/0x010F30C6) [14149*]:
     → "Ayame, <Player>...we've all been to Aht Urhgan."
 902: 0x3600 [0x23] WAIT_FOR_DIALOG_INTERACTION
-903: 0x3601 [0x2B] Naji (ID: 17772742/0x010F30C6) [14149*]:
+903: 0x3601 [0x2B] Naji (ID: 17772742/0x010F30C6) [14150*]:
     → "We've seen the lives, the smiles, the tears of her people..."
 904: 0x3608 [0x23] WAIT_FOR_DIALOG_INTERACTION
 905: 0x3609 [0x52] END_LOAD_SCHEDULER: End scheduler "s081" with entities [EventEntity, EventEntity], work=289*
 906: 0x3618 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s110" with entities [EventEntity, EventEntity], work=[289*, 0*]
-907: 0x3629 [0x2B] Naji (ID: 17772742/0x010F30C6) [14150*]:
+907: 0x3629 [0x2B] Naji (ID: 17772742/0x010F30C6) [14151*]:
     → "The citizens of the Empire are as much the children of Altana as we are. War should be considered only after every other avenue has been exhausted."
 908: 0x3630 [0x23] WAIT_FOR_DIALOG_INTERACTION
 909: 0x3631 [0x52] END_LOAD_SCHEDULER: End scheduler "s110" with entities [EventEntity, EventEntity], work=289*
 910: 0x3640 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s082" with entities [EventEntity, EventEntity], work=[289*, 0*]
 911: 0x3651 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-912: 0x3660 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14151*]:
+912: 0x3660 [0x2B] Ayame (ID: 17772738/0x010F30C2) [14152*]:
     → "Naji..."
 913: 0x3667 [0x23] WAIT_FOR_DIALOG_INTERACTION
 914: 0x3668 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=41*
 915: 0x3677 [0x52] END_LOAD_SCHEDULER: End scheduler "s082" with entities [EventEntity, EventEntity], work=289*
 916: 0x3686 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s083" with entities [EventEntity, EventEntity], work=[289*, 0*]
-917: 0x3697 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14152*]:
+917: 0x3697 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14153*]:
     → "Ohohohohoho. A voice of reason from Bastok, the nation of mines and gloom?"
 918: 0x369E [0x23] WAIT_FOR_DIALOG_INTERACTION
 919: 0x369F [0x52] END_LOAD_SCHEDULER: End scheduler "s083" with entities [EventEntity, EventEntity], work=289*
 920: 0x36AE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[289*, 0*]
 921: 0x36BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ohh1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=41*
-922: 0x36CE [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14153*]:
+922: 0x36CE [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14154*]:
     → "And you would plan this strategy yourself, I assume?"
 923: 0x36D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 924: 0x36D6 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Shantotto (ID: 17772736/0x010F30C0)
 925: 0x36DF [0x1C] WAIT(30* ticks)
-926: 0x36E2 [0x2B] Naji (ID: 17772742/0x010F30C6) [14154*]:
+926: 0x36E2 [0x2B] Naji (ID: 17772742/0x010F30C6) [14155*]:
     → "What? Um, y-yes! Of course!"
 927: 0x36E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 928: 0x36EA [0x52] END_LOAD_SCHEDULER: End scheduler "s084" with entities [EventEntity, EventEntity], work=289*
 929: 0x36F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s085" with entities [EventEntity, EventEntity], work=[289*, 0*]
 930: 0x370A [0x79] Ayame (ID: 17772738/0x010F30C2) looks at Naji (ID: 17772742/0x010F30C6) (Basic look)
 931: 0x3714 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
-932: 0x3723 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14155*]:
+932: 0x3723 [0x2B] Shantotto (ID: 17772736/0x010F30C0) [14156*]:
     → "Wonderful. I admire your ambition. I shall offer the latest model of cardian to escort you on this mission."
 933: 0x372A [0x23] WAIT_FOR_DIALOG_INTERACTION
 934: 0x372B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Shantotto (ID: 17772736/0x010F30C0), Shantotto (ID: 17772736/0x010F30C0)], work=40*
@@ -3487,25 +3487,25 @@ SUBROUTINE_145C:
 936: 0x3749 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s086" with entities [EventEntity, EventEntity], work=[289*, 0*]
 937: 0x375A [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at Volker (ID: 17772737/0x010F30C1)
 938: 0x3763 [0x79] Shantotto (ID: 17772736/0x010F30C0) looks at Naji (ID: 17772742/0x010F30C6) (Basic look)
-939: 0x376D [0x2B] Naji (ID: 17772742/0x010F30C6) [14156*]:
+939: 0x376D [0x2B] Naji (ID: 17772742/0x010F30C6) [14157*]:
     → "Thank you, Doctor Shantotto!"
 940: 0x3774 [0x23] WAIT_FOR_DIALOG_INTERACTION
 941: 0x3775 [0x52] END_LOAD_SCHEDULER: End scheduler "s086" with entities [EventEntity, EventEntity], work=289*
 942: 0x3784 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s087" with entities [EventEntity, EventEntity], work=[289*, 0*]
 943: 0x3795 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Trion (ID: 17772741/0x010F30C5)
 944: 0x379E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
-945: 0x37AD [0x2B] Trion (ID: 17772741/0x010F30C5) [14157*]:
+945: 0x37AD [0x2B] Trion (ID: 17772741/0x010F30C5) [14158*]:
     → "Very well. Then you shall have two veteran knights to accompany you as well."
 946: 0x37B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 947: 0x37B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Trion (ID: 17772741/0x010F30C5), Trion (ID: 17772741/0x010F30C5)], work=115*
 948: 0x37C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
-949: 0x37D3 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14158*]:
+949: 0x37D3 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14159*]:
     → "And from Jeuno, you will have the use of our fastest airship, with an ace pilot at the wheel."
 950: 0x37DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 951: 0x37DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=0*
 952: 0x37EA [0x52] END_LOAD_SCHEDULER: End scheduler "s087" with entities [EventEntity, EventEntity], work=289*
 953: 0x37F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s088" with entities [EventEntity, EventEntity], work=[289*, 0*]
-954: 0x380A [0x2B] Naji (ID: 17772742/0x010F30C6) [14159*]:
+954: 0x380A [0x2B] Naji (ID: 17772742/0x010F30C6) [14160*]:
     → "Prince Trion, Sir Wolfgang..."
 955: 0x3811 [0x23] WAIT_FOR_DIALOG_INTERACTION
 956: 0x3812 [0x52] END_LOAD_SCHEDULER: End scheduler "s088" with entities [EventEntity, EventEntity], work=289*
@@ -3513,28 +3513,28 @@ SUBROUTINE_145C:
 958: 0x3832 [0x4A] Naji (ID: 17772742/0x010F30C6) looks at Volker (ID: 17772737/0x010F30C1)
 959: 0x383B [0x1C] WAIT(60* ticks)
 960: 0x383E [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x00
-961: 0x3844 [0x2B] Volker (ID: 17772737/0x010F30C1) [13926*]:
+961: 0x3844 [0x2B] Volker (ID: 17772737/0x010F30C1) [13927*]:
     → "..."
 962: 0x384B [0x23] WAIT_FOR_DIALOG_INTERACTION
 963: 0x384C [0x7C] Volker (ID: 17772737/0x010F30C1)->Render.Flags2 |= 0x01
 964: 0x3852 [0x52] END_LOAD_SCHEDULER: End scheduler "s089" with entities [EventEntity, EventEntity], work=289*
 965: 0x3861 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s090" with entities [EventEntity, EventEntity], work=[289*, 0*]
 966: 0x3872 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb2" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
-967: 0x3881 [0x2B] Volker (ID: 17772737/0x010F30C1) [14160*]:
+967: 0x3881 [0x2B] Volker (ID: 17772737/0x010F30C1) [14161*]:
     → "It appears I have no choice. I will inform the president of this operation myself."
 968: 0x3888 [0x23] WAIT_FOR_DIALOG_INTERACTION
 969: 0x3889 [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [EventEntity, EventEntity], work=289*
 970: 0x3898 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [EventEntity, EventEntity], work=[289*, 0*]
 971: 0x38A9 [0x4A] Shantotto (ID: 17772736/0x010F30C0) looks at LocalPlayer
 972: 0x38B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-973: 0x38C1 [0x2B] Naji (ID: 17772742/0x010F30C6) [14161*]:
+973: 0x38C1 [0x2B] Naji (ID: 17772742/0x010F30C6) [14162*]:
     → "Captain Volker! Then I should--"
 974: 0x38C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 975: 0x38C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
 976: 0x38D8 [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Naji (ID: 17772742/0x010F30C6)
 977: 0x38E1 [0x4A] LocalPlayer looks at Volker (ID: 17772737/0x010F30C1)
 978: 0x38EA [0x1C] WAIT(30* ticks)
-979: 0x38ED [0x2B] Volker (ID: 17772737/0x010F30C1) [14162*]:
+979: 0x38ED [0x2B] Volker (ID: 17772737/0x010F30C1) [14163*]:
     → "On one condition!"
 980: 0x38F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 981: 0x38F5 [0x52] END_LOAD_SCHEDULER: End scheduler "s091" with entities [EventEntity, EventEntity], work=289*
@@ -3543,7 +3543,7 @@ SUBROUTINE_145C:
 984: 0x391E [0x1C] WAIT(30* ticks)
 985: 0x3921 [0x79] Ayame (ID: 17772738/0x010F30C2) looks at LocalPlayer (Basic look)
 986: 0x392B [0x4A] Naji (ID: 17772742/0x010F30C6) looks at LocalPlayer
-987: 0x3934 [0x2B] Volker (ID: 17772737/0x010F30C1) [14163*]:
+987: 0x3934 [0x2B] Volker (ID: 17772737/0x010F30C1) [14164*]:
     → "<Player> is to go with you. Will you accompany Naji?"
 988: 0x393B [0x23] WAIT_FOR_DIALOG_INTERACTION
 989: 0x393C [0x52] END_LOAD_SCHEDULER: End scheduler "s092" with entities [EventEntity, EventEntity], work=289*
@@ -3565,7 +3565,7 @@ SUBROUTINE_145C:
 1005: 0x39D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [EventEntity, EventEntity], work=[289*, 0*]
 
 SUBROUTINE_39E8:
-1006: 0x39E8 [0x24] CREATE_DIALOG(message_id=14164*, default_option=0*, option_flags=0*)
+1006: 0x39E8 [0x24] CREATE_DIALOG(message_id=14165*, default_option=0*, option_flags=0*)
     → "Join the mission to rescue Luzaf? [Count me in!/I just left the Empire...]"
 1007: 0x39EF [0x25] WAIT_DIALOG_SELECT()
 1008: 0x39F0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3AF2
@@ -3579,25 +3579,25 @@ SUBROUTINE_39E8:
 1016: 0x3A45 [0x79] LocalPlayer looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
 1017: 0x3A4F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 1018: 0x3A5E [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x3A71
-1019: 0x3A66 [0x2B] Volker (ID: 17772737/0x010F30C1) [14166*]:
+1019: 0x3A66 [0x2B] Volker (ID: 17772737/0x010F30C1) [14167*]:
     → "It will be dangerous, but I will feel better knowing Naji is accompanied by someone I know I can trust."
 1020: 0x3A6D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1021: 0x3A6E [0x01] GOTO 0x3A79
-1022: 0x3A71 [0x2B] Volker (ID: 17772737/0x010F30C1) [14165*]:
+1022: 0x3A71 [0x2B] Volker (ID: 17772737/0x010F30C1) [14166*]:
     → "It will be dangerous, but please lend Naji your experience and expertise."
 1023: 0x3A78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_3A79:
 1024: 0x3A79 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 1025: 0x3A88 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
-1026: 0x3A97 [0x2B] Naji (ID: 17772742/0x010F30C6) [14167*]:
+1026: 0x3A97 [0x2B] Naji (ID: 17772742/0x010F30C6) [14168*]:
     → "Looking forward to working with you, <Player>!"
 1027: 0x3A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1028: 0x3A9F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naji (ID: 17772742/0x010F30C6), Naji (ID: 17772742/0x010F30C6)], work=9*
 1029: 0x3AAE [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=289*
 1030: 0x3ABD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[289*, 0*]
 1031: 0x3ACE [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at LocalPlayer (Basic look)
-1032: 0x3AD8 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14168*]:
+1032: 0x3AD8 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14169*]:
     → "Excellent. I will have Pherimociel prepare your transportation at once."
 1033: 0x3ADF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1034: 0x3AE0 [0x52] END_LOAD_SCHEDULER: End scheduler "s096" with entities [EventEntity, EventEntity], work=289*
@@ -3613,11 +3613,11 @@ SUBROUTINE_3A79:
 1044: 0x3B47 [0x79] LocalPlayer looks at Wolfgang (ID: 17772551/0x010F3007) (Basic look)
 1045: 0x3B51 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 1046: 0x3B60 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x3B73
-1047: 0x3B68 [0x2B] Volker (ID: 17772737/0x010F30C1) [14170*]:
+1047: 0x3B68 [0x2B] Volker (ID: 17772737/0x010F30C1) [14171*]:
     → "I see... I understand it will be dangerous, but I believe you would be up to the task, <Player>."
 1048: 0x3B6F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1049: 0x3B70 [0x01] GOTO 0x3B7B
-1050: 0x3B73 [0x2B] Volker (ID: 17772737/0x010F30C1) [14169*]:
+1050: 0x3B73 [0x2B] Volker (ID: 17772737/0x010F30C1) [14170*]:
     → "I understand. Not many would be willing to throw themselves back into the dragon's lair so soon after escaping it."
 1051: 0x3B7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3625,24 +3625,24 @@ SUBROUTINE_3B7B:
 1052: 0x3B7B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Volker (ID: 17772737/0x010F30C1), Volker (ID: 17772737/0x010F30C1)], work=200*
 1053: 0x3B8A [0x6E] Naji (ID: 17772742/0x010F30C6) uses emote 7*
 1054: 0x3B91 [0x99] Wait for Naji (ID: 17772742/0x010F30C6) animation to complete
-1055: 0x3B96 [0x2B] Naji (ID: 17772742/0x010F30C6) [14171*]:
+1055: 0x3B96 [0x2B] Naji (ID: 17772742/0x010F30C6) [14172*]:
     → "Well, then, I guess I'll have to make do without [him/her]..."
 1056: 0x3B9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1057: 0x3B9E [0x52] END_LOAD_SCHEDULER: End scheduler "s097" with entities [EventEntity, EventEntity], work=289*
 1058: 0x3BAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s098" with entities [EventEntity, EventEntity], work=[289*, 0*]
 1059: 0x3BBE [0x4A] Volker (ID: 17772737/0x010F30C1) looks at Naji (ID: 17772742/0x010F30C6)
 1060: 0x3BC7 [0x1C] WAIT(30* ticks)
-1061: 0x3BCA [0x2B] Volker (ID: 17772737/0x010F30C1) [14172*]:
+1061: 0x3BCA [0x2B] Volker (ID: 17772737/0x010F30C1) [14173*]:
     → "No, Naji. Without <Player>, I will not allow this reckless plan to go ahead."
 1062: 0x3BD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1063: 0x3BD2 [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at Volker (ID: 17772737/0x010F30C1) (Basic look)
-1064: 0x3BDC [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14173*]:
+1064: 0x3BDC [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14174*]:
     → "In any case, Captain Volker, I will have Pherimociel prepare an airship for departure."
 1065: 0x3BE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1066: 0x3BE4 [0x52] END_LOAD_SCHEDULER: End scheduler "s098" with entities [EventEntity, EventEntity], work=289*
 1067: 0x3BF3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s096" with entities [EventEntity, EventEntity], work=[289*, 0*]
 1068: 0x3C04 [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at LocalPlayer (Basic look)
-1069: 0x3C0E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14174*]:
+1069: 0x3C0E [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14175*]:
     → "<Player>. Speak to Pherimociel should you change your mind. You can find him in the Ducal Guard Post."
 1070: 0x3C15 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1071: 0x3C16 [0x52] END_LOAD_SCHEDULER: End scheduler "s096" with entities [EventEntity, EventEntity], work=289*
@@ -3658,7 +3658,7 @@ SUBROUTINE_3C28:
 1079: 0x3C5E [0x4A] Rahal (ID: 17772739/0x010F30C3) looks at Wolfgang (ID: 17772551/0x010F3007)
 1080: 0x3C67 [0x79] Wolfgang (ID: 17772551/0x010F3007) looks at Naji (ID: 17772742/0x010F30C6) (Basic look)
 1081: 0x3C71 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s094" with entities [EventEntity, EventEntity], work=[289*, 0*]
-1082: 0x3C82 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14175*]:
+1082: 0x3C82 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14176*]:
     → "I'm sure we all have urgent tasks to attend to. I declare this session of the council at an end."
 1083: 0x3C89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1084: 0x3C8A [0x52] END_LOAD_SCHEDULER: End scheduler "s094" with entities [EventEntity, EventEntity], work=289*
@@ -3672,7 +3672,7 @@ SUBROUTINE_3C28:
 1092: 0x3CF0 [0x1C] WAIT(120* ticks)
 1093: 0x3CF3 [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=289*
 1094: 0x3D02 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s099" with entities [EventEntity, EventEntity], work=[289*, 0*]
-1095: 0x3D13 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14176*]:
+1095: 0x3D13 [0x2B] Wolfgang (ID: 17772551/0x010F3007) [14177*]:
     → "May our actions find Altana's fortune!"
 1096: 0x3D1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1097: 0x3D1B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "har0" with entities [Wolfgang (ID: 17772551/0x010F3007), Wolfgang (ID: 17772551/0x010F3007)], work=838*

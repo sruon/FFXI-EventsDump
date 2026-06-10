@@ -23,15 +23,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBB      |        7355 |
-|       1 | 0x1CBD      |        7357 |
+|       0 | 0x1CBC      |        7356 |
+|       1 | 0x1CBE      |        7358 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **7355**: We are now docking in Selbina.
-- **7357**: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
+- **7356**: We are now docking in Selbina.
+- **7358**: You have entered the ship route by unauthorized means. Zoning you to Mhaura.
 
 ## Events
 
@@ -98,7 +98,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x48] [System] [7355*]:
+  0: 0x0002 [0x48] [System] [7356*]:
     → "We are now docking in Selbina."
   1: 0x0005 [0x1A] CALL_SUBROUTINE(address=0x0055)
   2: 0x0008 [0x21] END_EVENT
@@ -129,7 +129,7 @@
 ```
   0: 0x000A [0x30] SET_UCOFF_CONTINUE_ZERO()
   1: 0x000B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x000C [0x48] [System] [7357*]:
+  2: 0x000C [0x48] [System] [7358*]:
     → "You have entered the ship route by unauthorized means. Zoning you to Mhaura."
   3: 0x000F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   4: 0x0020 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=200*

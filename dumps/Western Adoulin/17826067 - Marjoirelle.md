@@ -57,11 +57,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x268C      |        9868 |
-|       2 | 0x268D      |        9869 |
-|       3 | 0x268E      |        9870 |
-|       4 | 0x1FCD      |        8141 |
-|       5 | 0x1FCE      |        8142 |
+|       1 | 0x268D      |        9869 |
+|       2 | 0x268E      |        9870 |
+|       3 | 0x268F      |        9871 |
+|       4 | 0x1FCE      |        8142 |
+|       5 | 0x1FCF      |        8143 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x0021      |          33 |
 |       8 | 0x001F      |          31 |
@@ -69,11 +69,11 @@
 
 ## String References
 
-- **8141**: How is the Mummers' Coalition treating you? What? You are here on behalf of the library?
-- **8142**: Let me see...no, I do not see anything wrong here. Let them know everything is accurate and up-to-date.
-- **9868**: We shan't be able to colonize Ulbuka if pioneers are overly tired, no?
-- **9869**: We at the Mummers' Coalition work as hard as possible to ensure those providing a brighter future for the continent never lose their ambition. We endeavor to keep morale high by providing festive functions and other joyous events year-round.
-- **9870**: Speaking of our fine institution, this regal estate belongs to Flaviria, the esteemed leader of our coalition. Without her, living in this city would be a much less pleasurable experience.
+- **8142**: How is the Mummers' Coalition treating you? What? You are here on behalf of the library?
+- **8143**: Let me see...no, I do not see anything wrong here. Let them know everything is accurate and up-to-date.
+- **9869**: We shan't be able to colonize Ulbuka if pioneers are overly tired, no?
+- **9870**: We at the Mummers' Coalition work as hard as possible to ensure those providing a brighter future for the continent never lose their ambition. We endeavor to keep morale high by providing festive functions and other joyous events year-round.
+- **9871**: Speaking of our fine institution, this regal estate belongs to Flaviria, the esteemed leader of our coalition. Without her, living in this city would be a much less pleasurable experience.
 
 ## Events
 
@@ -125,13 +125,13 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9868*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
     → "We shan't be able to colonize Ulbuka if pioneers are overly tired, no?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9869*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
     → "We at the Mummers' Coalition work as hard as possible to ensure those providing a brighter future for the continent never lose their ambition. We endeavor to keep morale high by providing festive functions and other joyous events year-round."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9870*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=9871*)
     → "Speaking of our fine institution, this regal estate belongs to Flaviria, the esteemed leader of our coalition. Without her, living in this city would be a much less pleasurable experience."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*
@@ -166,10 +166,10 @@
   2: 0x003A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  5: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
+  5: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
     → "How is the Mummers' Coalition treating you? What? You are here on behalf of the library?"
   6: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
+  7: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=8143*)
     → "Let me see...no, I do not see anything wrong here. Let them know everything is accurate and up-to-date."
   8: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=30*

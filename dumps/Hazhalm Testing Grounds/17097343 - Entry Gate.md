@@ -24,58 +24,58 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x40000000  |  1073741824 |
-|       1 | 0x1F74      |        8052 |
+|       1 | 0x1F75      |        8053 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1F75      |        8053 |
+|       3 | 0x1F76      |        8054 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x1F76      |        8054 |
-|       6 | 0x1F7E      |        8062 |
+|       5 | 0x1F77      |        8055 |
+|       6 | 0x1F7F      |        8063 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x0004      |           4 |
 |      11 | 0x0007      |           7 |
-|      12 | 0x1F94      |        8084 |
-|      13 | 0x1F95      |        8085 |
-|      14 | 0x1F96      |        8086 |
-|      15 | 0x1F97      |        8087 |
-|      16 | 0x1F98      |        8088 |
-|      17 | 0x1F99      |        8089 |
-|      18 | 0x1F9A      |        8090 |
-|      19 | 0x1F9B      |        8091 |
-|      20 | 0x1F9C      |        8092 |
-|      21 | 0x1F9D      |        8093 |
-|      22 | 0x1FAB      |        8107 |
-|      23 | 0x1FAC      |        8108 |
-|      24 | 0x1FAD      |        8109 |
-|      25 | 0x1FAE      |        8110 |
-|      26 | 0x1FAF      |        8111 |
-|      27 | 0x1FB0      |        8112 |
-|      28 | 0x1FB2      |        8114 |
+|      12 | 0x1F95      |        8085 |
+|      13 | 0x1F96      |        8086 |
+|      14 | 0x1F97      |        8087 |
+|      15 | 0x1F98      |        8088 |
+|      16 | 0x1F99      |        8089 |
+|      17 | 0x1F9A      |        8090 |
+|      18 | 0x1F9B      |        8091 |
+|      19 | 0x1F9C      |        8092 |
+|      20 | 0x1F9D      |        8093 |
+|      21 | 0x1F9E      |        8094 |
+|      22 | 0x1FAC      |        8108 |
+|      23 | 0x1FAD      |        8109 |
+|      24 | 0x1FAE      |        8110 |
+|      25 | 0x1FAF      |        8111 |
+|      26 | 0x1FB0      |        8112 |
+|      27 | 0x1FB1      |        8113 |
+|      28 | 0x1FB3      |        8115 |
 
 ## String References
 
-- **8052**: Record time and destination on the $6?
-- **8053**: Select option: [Confirm destination./Cancel recording./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
-- **8054**: Select [Quit./Rossweisse's Chamber./Grimgerde's Chamber./Siegrune's Chamber./Helmwige's Chamber./Schwertleite's Chamber./Waltraute's Chamber./Ortlinde's Chamber./Gerhilde's Chamber./Brunhilde's Chamber./Odin's Chamber./Odin's Chamber II.]
-- **8062**: Gathering data...
-- **8084**: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
-- **8085**: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
-- **8086**: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
-- **8087**: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
-- **8088**: Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function.
-- **8089**: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
-- **8090**: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
-- **8091**: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
-- **8092**: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
-- **8093**: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
-- **8107**: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
-- **8108**: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
-- **8109**: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
-- **8110**: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
-- **8111**: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
-- **8112**: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
-- **8114**: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
+- **8053**: Record time and destination on the $6?
+- **8054**: Select option: [Confirm destination./Cancel recording./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]
+- **8055**: Select [Quit./Rossweisse's Chamber./Grimgerde's Chamber./Siegrune's Chamber./Helmwige's Chamber./Schwertleite's Chamber./Waltraute's Chamber./Ortlinde's Chamber./Gerhilde's Chamber./Brunhilde's Chamber./Odin's Chamber./Odin's Chamber II.]
+- **8063**: Gathering data...
+- **8085**: When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7.
+- **8086**: From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers.
+- **8087**: By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber.
+- **8088**: Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber.
+- **8089**: Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function.
+- **8090**: These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates.
+- **8091**: To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate.
+- **8092**: However, please note that not everyone in possession of a lamp will be allowed into Hazhalm.
+- **8093**: As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity.
+- **8094**: Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry.
+- **8108**: After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again.
+- **8109**: This not only pertains to the chamber previously visited, but all areas within the testing grounds.
+- **8110**: The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate.
+- **8111**: All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance.
+- **8112**: In addition, any items dropped by a foe can be lotted on by anyone in the chamber.
+- **8113**: However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random.
+- **8115**: Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds.
 
 ## Events
 
@@ -137,16 +137,16 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 1073741824*
-  1: 0x0006 [0x48] [System] [8052*]:
+  1: 0x0006 [0x48] [System] [8053*]:
     → "Record time and destination on the $6?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x03] ExtData[1]->WorkLocal[1] = 0*
   4: 0x000F [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0102
-  5: 0x0017 [0x24] CREATE_DIALOG(message_id=8053*, default_option=1*, option_flags=0*)
+  5: 0x0017 [0x24] CREATE_DIALOG(message_id=8054*, default_option=1*, option_flags=0*)
     → "Select option: [Confirm destination./Cancel recording./Confirm entry conditions./Confirm re-entry conditions./Confirm battle conditions.]"
   6: 0x001E [0x25] WAIT_DIALOG_SELECT()
   7: 0x001F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008A
-  8: 0x0027 [0x24] CREATE_DIALOG(message_id=8054*, default_option=0*, option_flags=Work_Zone[7])
+  8: 0x0027 [0x24] CREATE_DIALOG(message_id=8055*, default_option=0*, option_flags=Work_Zone[7])
     → "Select [Quit./Rossweisse's Chamber./Grimgerde's Chamber./Siegrune's Chamber./Helmwige's Chamber./Schwertleite's Chamber./Waltraute's Chamber./Ortlinde's Chamber./Gerhilde's Chamber./Brunhilde's Chamber./Odin's Chamber./Odin's Chamber II.]"
   9: 0x002E [0x25] WAIT_DIALOG_SELECT()
  10: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003A
@@ -154,7 +154,7 @@
 
 SUBROUTINE_003A:
  12: 0x003A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0087
- 13: 0x0042 [0x48] [System] [8062*]:
+ 13: 0x0042 [0x48] [System] [8063*]:
     → "Gathering data..."
  14: 0x0045 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  15: 0x0046 [0x03] Work_Zone[1] = Work_Zone[0]
@@ -176,59 +176,59 @@ SUBROUTINE_0071:
  29: 0x0092 [0x03] ExtData[1]->WorkLocal[1] = 1*
  30: 0x0097 [0x01] GOTO 0x00FF
  31: 0x009A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00CD
- 32: 0x00A2 [0x48] [System] [8084*]:
+ 32: 0x00A2 [0x48] [System] [8085*]:
     → "When traded to the Hazhalm Testing Grounds' Entry Gate, $6 will light and become $7."
  33: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00A6 [0x48] [System] [8085*]:
+ 34: 0x00A6 [0x48] [System] [8086*]:
     → "From that moment, the owner of the $7 will reserve and gain access to one of the facility's many chambers."
  35: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00AA [0x48] [System] [8086*]:
+ 36: 0x00AA [0x48] [System] [8087*]:
     → "By using the $7 it will produce a replica of itself which can be given to another, granting him or her access to the same chamber."
  37: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00AE [0x48] [System] [8087*]:
+ 38: 0x00AE [0x48] [System] [8088*]:
     → "Though an infinite number of lamps can be produced using this method, only a maximum of thirty-six people can venture into the same chamber."
  39: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 40: 0x00B2 [0x48] [System] [8088*]:
+ 40: 0x00B2 [0x48] [System] [8089*]:
     → "Once thirty-six souls have crossed the seal, all lamps outside the grounds will cease to function."
  41: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x00B6 [0x48] [System] [8089*]:
+ 42: 0x00B6 [0x48] [System] [8090*]:
     → "These lamps will also cease to function the instant any adventurer within the chamber engages in battle, regardless of how many people have already passed through the gates."
  43: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x00BA [0x48] [System] [8090*]:
+ 44: 0x00BA [0x48] [System] [8091*]:
     → "To teleport to the reserved chamber, one must simply trade their $7 to the Entry Gate."
  45: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00BE [0x48] [System] [8091*]:
+ 46: 0x00BE [0x48] [System] [8092*]:
     → "However, please note that not everyone in possession of a lamp will be allowed into Hazhalm."
  47: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x00C2 [0x48] [System] [8092*]:
+ 48: 0x00C2 [0x48] [System] [8093*]:
     → "As mentioned before, only up to thirty-six people may enter a chamber. Even those with a valid $7 will not be allowed entry if the chamber has reached its maximum capacity."
  49: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00C6 [0x48] [System] [8093*]:
+ 50: 0x00C6 [0x48] [System] [8094*]:
     → "Also, as a safety precaution, players below level sixty and those with the Battlefield status in effect will be denied entry."
  51: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x00CA [0x01] GOTO 0x00FF
  53: 0x00CD [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x00E4
- 54: 0x00D5 [0x48] [System] [8107*]:
+ 54: 0x00D5 [0x48] [System] [8108*]:
     → "After visiting the testing grounds, one must wait $3 [hour/hours] (Earth time) before he is granted access again."
  55: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00D9 [0x48] [System] [8108*]:
+ 56: 0x00D9 [0x48] [System] [8109*]:
     → "This not only pertains to the chamber previously visited, but all areas within the testing grounds."
  57: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x00DD [0x48] [System] [8109*]:
+ 58: 0x00DD [0x48] [System] [8110*]:
     → "The amount of waiting time remaining before re-entry is permitted can be viewed by checking Hazhalm's Entry Gate."
  59: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00E1 [0x01] GOTO 0x00FF
  61: 0x00E4 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x00FF
- 62: 0x00EC [0x48] [System] [8110*]:
+ 62: 0x00EC [0x48] [System] [8111*]:
     → "All monsters dwelling in the testing grounds can be attacked by anyone, regardless of party or alliance."
  63: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x00F0 [0x48] [System] [8111*]:
+ 64: 0x00F0 [0x48] [System] [8112*]:
     → "In addition, any items dropped by a foe can be lotted on by anyone in the chamber."
  65: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00F4 [0x48] [System] [8112*]:
+ 66: 0x00F4 [0x48] [System] [8113*]:
     → "However, please be aware that any items that have not been lotted on when a chamber's reservation is up will be distributed at random."
  67: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x00F8 [0x48] [System] [8114*]:
+ 68: 0x00F8 [0x48] [System] [8115*]:
     → "Also, if everyone in a chamber remains KO'd for longer than $2 [minute/minutes], they will all be automatically teleported from the grounds."
  69: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x00FC [0x01] GOTO 0x00FF

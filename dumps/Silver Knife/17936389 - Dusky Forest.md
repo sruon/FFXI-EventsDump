@@ -60,8 +60,8 @@
 |       2 | 0x0041      |          65 |
 |       3 | 0x0045      |          69 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1C4C      |        7244 |
-|       6 | 0x1C4D      |        7245 |
+|       5 | 0x1C4D      |        7245 |
+|       6 | 0x1C4E      |        7246 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0028      |          40 |
@@ -79,8 +79,8 @@
 
 ## String References
 
-- **7244**: Are you finished with your business?
-- **7245**: Leave? [Yes./No.]
+- **7245**: Are you finished with your business?
+- **7246**: Leave? [Yes./No.]
 
 ## Events
 
@@ -831,10 +831,10 @@
   1: 0x01C3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x01C8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x01C9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+  4: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
     → "Are you finished with your business?"
   5: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01CE [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
+  6: 0x01CE [0x24] CREATE_DIALOG(message_id=7246*, default_option=0*, option_flags=0*)
     → "Leave? [Yes./No.]"
   7: 0x01D5 [0x25] WAIT_DIALOG_SELECT()
   8: 0x01D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0208

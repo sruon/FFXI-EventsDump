@@ -30,78 +30,78 @@
 |       4 | 0x0010      |          16 |
 |       5 | 0x001F      |          31 |
 |       6 | 0x000A      |          10 |
-|       7 | 0x3302      |       13058 |
+|       7 | 0x3303      |       13059 |
 |       8 | 0x40000000  |  1073741824 |
 |       9 | 0x3FFFFFFF  |  1073741823 |
-|      10 | 0x3301      |       13057 |
-|      11 | 0x32F7      |       13047 |
-|      12 | 0x32F1      |       13041 |
+|      10 | 0x3302      |       13058 |
+|      11 | 0x32F8      |       13048 |
+|      12 | 0x32F2      |       13042 |
 |      13 | 0x0005      |           5 |
 |      14 | 0x001E      |          30 |
 |      15 | 0x0009      |           9 |
 |      16 | 0x0001      |           1 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x32FD      |       13053 |
-|      19 | 0x32FF      |       13055 |
+|      18 | 0x32FE      |       13054 |
+|      19 | 0x3300      |       13056 |
 |      20 | 0x0003      |           3 |
-|      21 | 0x3300      |       13056 |
+|      21 | 0x3301      |       13057 |
 |      22 | 0x007A      |         122 |
 |      23 | 0x0104      |         260 |
-|      24 | 0x3303      |       13059 |
-|      25 | 0x3305      |       13061 |
-|      26 | 0x3307      |       13063 |
-|      27 | 0x3308      |       13064 |
-|      28 | 0x32FE      |       13054 |
+|      24 | 0x3304      |       13060 |
+|      25 | 0x3306      |       13062 |
+|      26 | 0x3308      |       13064 |
+|      27 | 0x3309      |       13065 |
+|      28 | 0x32FF      |       13055 |
 |      29 | 0x0006      |           6 |
-|      30 | 0x32F8      |       13048 |
-|      31 | 0x32F9      |       13049 |
-|      32 | 0x32FA      |       13050 |
-|      33 | 0x32FB      |       13051 |
-|      34 | 0x32FC      |       13052 |
+|      30 | 0x32F9      |       13049 |
+|      31 | 0x32FA      |       13050 |
+|      32 | 0x32FB      |       13051 |
+|      33 | 0x32FC      |       13052 |
+|      34 | 0x32FD      |       13053 |
 |      35 | 0x1079      |        4217 |
 |      36 | 0x1078      |        4216 |
 |      37 | 0x1077      |        4215 |
-|      38 | 0x330A      |       13066 |
-|      39 | 0x330B      |       13067 |
-|      40 | 0x330C      |       13068 |
+|      38 | 0x330B      |       13067 |
+|      39 | 0x330C      |       13068 |
+|      40 | 0x330D      |       13069 |
 |      41 | 0x0014      |          20 |
 |      42 | 0x7FFFFFFF  |  2147483647 |
-|      43 | 0x330D      |       13069 |
-|      44 | 0x330E      |       13070 |
-|      45 | 0x330F      |       13071 |
-|      46 | 0x3310      |       13072 |
-|      47 | 0x3311      |       13073 |
+|      43 | 0x330E      |       13070 |
+|      44 | 0x330F      |       13071 |
+|      45 | 0x3310      |       13072 |
+|      46 | 0x3311      |       13073 |
+|      47 | 0x3312      |       13074 |
 |      48 | 0xFFFFFFFF  |  4294967295 |
-|      49 | 0x3314      |       13076 |
+|      49 | 0x3315      |       13077 |
 
 ## String References
 
-- **13041**: Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]
-- **13047**: Welcome to the Regional Teleportation Service!
-- **13048**: Greetings, adventurer. My name is %. I have been sent by the Specialty Goods Trade Union.
-- **13049**: At the previous Conference of Nations, it was decided that the restriction on "regional teleporting" would be lifted, and that cities could now offer teleportation services to various outposts.
-- **13050**: We are now authorized to teleport you to any outpost you have previously visited on a supplies quest.
-- **13051**: The nominal fee we require varies with the current control of the region.
-- **13052**: Also, depending on your level, there may be some areas I am not authorized to teleport you to.
-- **13053**: That region is [no longer under your home country's control./currently under your home country's control.] You will require $1 gil or $3 conquest [point/points] to teleport.
-- **13054**: As a special, limited-time service to commemorate the recovery of the full mog tablet set, I can teleport you to your destination absolutely free of charge!
-- **13055**: Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]
-- **13056**: Have a wonderful journey!
-- **13057**: Unfortunately, at this time there is nowhere I can teleport you. Please come again.
-- **13058**: You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap.
-- **13059**: You do not have enough gil. Please come back again.
-- **13061**: You do not have enough conquest points. Please come back again.
-- **13063**: We look forward to seeing you again!
-- **13064**: However, at this time I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst].
-- **13066**: For a limited time during the Starlight Celebration, the Specialty Goods Trade Union is offering all registered adventurers a deal you could not possibly think of passing up.
-- **13067**: Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.
-- **13068**: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.
-- **13069**: Normally, I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst], but for a limited time only, my services are open to all registered adventurers.
-- **13070**: Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.
-- **13071**: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.
-- **13072**: This service will last for the duration of the Starlight Celebration.
-- **13073**: Thank you very much for taking part in our holiday special!
-- **13076**: The recommended level for the requested area is $0. Are you sure you would like to teleport there?
+- **13042**: Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]
+- **13048**: Welcome to the Regional Teleportation Service!
+- **13049**: Greetings, adventurer. My name is %. I have been sent by the Specialty Goods Trade Union.
+- **13050**: At the previous Conference of Nations, it was decided that the restriction on "regional teleporting" would be lifted, and that cities could now offer teleportation services to various outposts.
+- **13051**: We are now authorized to teleport you to any outpost you have previously visited on a supplies quest.
+- **13052**: The nominal fee we require varies with the current control of the region.
+- **13053**: Also, depending on your level, there may be some areas I am not authorized to teleport you to.
+- **13054**: That region is [no longer under your home country's control./currently under your home country's control.] You will require $1 gil or $3 conquest [point/points] to teleport.
+- **13055**: As a special, limited-time service to commemorate the recovery of the full mog tablet set, I can teleport you to your destination absolutely free of charge!
+- **13056**: Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]
+- **13057**: Have a wonderful journey!
+- **13058**: Unfortunately, at this time there is nowhere I can teleport you. Please come again.
+- **13059**: You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap.
+- **13060**: You do not have enough gil. Please come back again.
+- **13062**: You do not have enough conquest points. Please come back again.
+- **13064**: We look forward to seeing you again!
+- **13065**: However, at this time I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst].
+- **13067**: For a limited time during the Starlight Celebration, the Specialty Goods Trade Union is offering all registered adventurers a deal you could not possibly think of passing up.
+- **13068**: Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.
+- **13069**: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.
+- **13070**: Normally, I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst], but for a limited time only, my services are open to all registered adventurers.
+- **13071**: Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area.
+- **13072**: However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level.
+- **13073**: This service will last for the duration of the Starlight Celebration.
+- **13074**: Thank you very much for taking part in our holiday special!
+- **13077**: The recommended level for the requested area is $0. Are you sure you would like to teleport there?
 
 ## Events
 
@@ -192,23 +192,23 @@
  12: 0x0046 [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[6]) GOTO 0x01E5
  13: 0x004E [0x02] IF !(ExtData[1]->WorkLocal[11] >= 10*) GOTO 0x0065
  14: 0x0056 [0x1A] CALL_SUBROUTINE(address=0x035A)
- 15: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
+ 15: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
     → "You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap."
  16: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x005D [0x03] Work_Zone[1] = 1073741824*
  18: 0x0062 [0x01] GOTO 0x01E2
  19: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1073741823*) GOTO 0x007C
  20: 0x006D [0x1A] CALL_SUBROUTINE(address=0x035A)
- 21: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
+ 21: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
     → "Unfortunately, at this time there is nowhere I can teleport you. Please come again."
  22: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0074 [0x03] Work_Zone[1] = 1073741824*
  24: 0x0079 [0x01] GOTO 0x01E2
- 25: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=13047*)
+ 25: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
     → "Welcome to the Regional Teleportation Service!"
  26: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0080 [0x03] Work_Zone[1] = 1073741824*
- 28: 0x0085 [0x24] CREATE_DIALOG(message_id=13041*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
+ 28: 0x0085 [0x24] CREATE_DIALOG(message_id=13042*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
     → "Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]"
  29: 0x008C [0x25] WAIT_DIALOG_SELECT()
  30: 0x008D [0x02] IF !(Work_Zone[0] == 30*) GOTO 0x009B
@@ -253,23 +253,23 @@ SUBROUTINE_0135:
  63: 0x0135 [0x06] Work_Zone[4] = 0
  64: 0x0138 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[8]) GOTO 0x0142
  65: 0x013F [0x05] Work_Zone[4] = 1
- 66: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=13053*)
+ 66: 0x0142 [0x1D] PRINT_EVENT_MESSAGE(message_id=13054*)
     → "That region is [no longer under your home country's control./currently under your home country's control.] You will require $1 gil or $3 conquest [point/points] to teleport."
  67: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0146 [0x24] CREATE_DIALOG(message_id=13055*, default_option=3*, option_flags=1*)
+ 68: 0x0146 [0x24] CREATE_DIALOG(message_id=13056*, default_option=3*, option_flags=1*)
     → "Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]"
  69: 0x014D [0x25] WAIT_DIALOG_SELECT()
  70: 0x014E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018E
  71: 0x0156 [0x3E] IF !(ExtData[1]->WorkLocal[17] bit 0*) GOTO 0x0182
  72: 0x015D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[8])
  73: 0x0166 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=10*, condition_work_offset=1*)
- 74: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+ 74: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
  75: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0171 [0x73] EventEntity casts magic 122* on LocalPlayer
  77: 0x017C [0x1C] WAIT(260* ticks)
  78: 0x017F [0x01] GOTO 0x018B
- 79: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
+ 79: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=13060*)
     → "You do not have enough gil. Please come back again."
  80: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0186 [0x03] Work_Zone[1] = 1073741824*
@@ -280,13 +280,13 @@ SUBROUTINE_018B:
  84: 0x0196 [0x3E] IF !(ExtData[1]->WorkLocal[17] bit 1*) GOTO 0x01C2
  85: 0x019D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[8])
  86: 0x01A6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=10*, condition_work_offset=1*)
- 87: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+ 87: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
  88: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x01B1 [0x73] EventEntity casts magic 122* on LocalPlayer
  90: 0x01BC [0x1C] WAIT(260* ticks)
  91: 0x01BF [0x01] GOTO 0x01CB
- 92: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13061*)
+ 92: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13062*)
     → "You do not have enough conquest points. Please come back again."
  93: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x01C6 [0x03] Work_Zone[1] = 1073741824*
@@ -294,7 +294,7 @@ SUBROUTINE_018B:
 SUBROUTINE_01CB:
  95: 0x01CB [0x01] GOTO 0x01E2
  96: 0x01CE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x01E2
- 97: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13063*)
+ 97: 0x01D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
     → "We look forward to seeing you again!"
  98: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x01DA [0x03] Work_Zone[1] = 1073741824*
@@ -302,11 +302,11 @@ SUBROUTINE_01CB:
 
 SUBROUTINE_01E2:
 101: 0x01E2 [0x01] GOTO 0x01F7
-102: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13047*)
+102: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
     → "Welcome to the Regional Teleportation Service!"
 103: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x01E9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-105: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
+105: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13065*)
     → "However, at this time I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst]."
 106: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x01F2 [0x03] Work_Zone[1] = 1073741824*
@@ -373,23 +373,23 @@ SUBROUTINE_01F7:
  12: 0x023E [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[6]) GOTO 0x0346
  13: 0x0246 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 10*) GOTO 0x025D
  14: 0x024E [0x1A] CALL_SUBROUTINE(address=0x035A)
- 15: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
+ 15: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
     → "You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap."
  16: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0255 [0x03] Work_Zone[1] = 1073741824*
  18: 0x025A [0x01] GOTO 0x0343
  19: 0x025D [0x02] IF !(ExtData[1]->WorkLocal[10] == 1073741823*) GOTO 0x0274
  20: 0x0265 [0x1A] CALL_SUBROUTINE(address=0x035A)
- 21: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
+ 21: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
     → "Unfortunately, at this time there is nowhere I can teleport you. Please come again."
  22: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x026C [0x03] Work_Zone[1] = 1073741824*
  24: 0x0271 [0x01] GOTO 0x0343
- 25: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=13047*)
+ 25: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
     → "Welcome to the Regional Teleportation Service!"
  26: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0278 [0x03] Work_Zone[1] = 1073741824*
- 28: 0x027D [0x24] CREATE_DIALOG(message_id=13041*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
+ 28: 0x027D [0x24] CREATE_DIALOG(message_id=13042*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
     → "Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]"
  29: 0x0284 [0x25] WAIT_DIALOG_SELECT()
  30: 0x0285 [0x02] IF !(Work_Zone[0] == 30*) GOTO 0x0293
@@ -421,22 +421,22 @@ SUBROUTINE_02F4:
  54: 0x02F4 [0x06] Work_Zone[4] = 0
  55: 0x02F7 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[8]) GOTO 0x0301
  56: 0x02FE [0x05] Work_Zone[4] = 1
- 57: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=13054*)
+ 57: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=13055*)
     → "As a special, limited-time service to commemorate the recovery of the full mog tablet set, I can teleport you to your destination absolutely free of charge!"
  58: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x0305 [0x24] CREATE_DIALOG(message_id=13055*, default_option=3*, option_flags=6*)
+ 59: 0x0305 [0x24] CREATE_DIALOG(message_id=13056*, default_option=3*, option_flags=6*)
     → "Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]"
  60: 0x030C [0x25] WAIT_DIALOG_SELECT()
  61: 0x030D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x032F
  62: 0x0315 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[8]
- 63: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+ 63: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
  64: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x031E [0x73] EventEntity casts magic 122* on LocalPlayer
  66: 0x0329 [0x1C] WAIT(260* ticks)
  67: 0x032C [0x01] GOTO 0x0343
  68: 0x032F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0343
- 69: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=13063*)
+ 69: 0x0337 [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
     → "We look forward to seeing you again!"
  70: 0x033A [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x033B [0x03] Work_Zone[1] = 1073741824*
@@ -444,11 +444,11 @@ SUBROUTINE_02F4:
 
 SUBROUTINE_0343:
  73: 0x0343 [0x01] GOTO 0x0358
- 74: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=13047*)
+ 74: 0x0346 [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
     → "Welcome to the Regional Teleportation Service!"
  75: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x034A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
- 77: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
+ 77: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=13065*)
     → "However, at this time I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst]."
  78: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0353 [0x03] Work_Zone[1] = 1073741824*
@@ -458,19 +458,19 @@ SUBROUTINE_0358:
  81: 0x0359 [0x00] END_REQSTACK()
 
 SUBROUTINE_035A:
- 82: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
+ 82: 0x035A [0x1D] PRINT_EVENT_MESSAGE(message_id=13049*)
     → "Greetings, adventurer. My name is %. I have been sent by the Specialty Goods Trade Union."
  83: 0x035D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=13049*)
+ 84: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=13050*)
     → "At the previous Conference of Nations, it was decided that the restriction on "regional teleporting" would be lifted, and that cities could now offer teleportation services to various outposts."
  85: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=13050*)
+ 86: 0x0362 [0x1D] PRINT_EVENT_MESSAGE(message_id=13051*)
     → "We are now authorized to teleport you to any outpost you have previously visited on a supplies quest."
  87: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=13051*)
+ 88: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=13052*)
     → "The nominal fee we require varies with the current control of the region."
  89: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=13052*)
+ 90: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=13053*)
     → "Also, depending on your level, there may be some areas I am not authorized to teleport you to."
  91: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x036E [0x1B] RETURN
@@ -547,20 +547,20 @@ SUBROUTINE_035A:
   9: 0x03A8 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[9]
  10: 0x03AD [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
  11: 0x03AF [0x1E] EventEntity looks at LocalPlayer and starts talking
- 12: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13048*)
+ 12: 0x03B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13049*)
     → "Greetings, adventurer. My name is %. I have been sent by the Specialty Goods Trade Union."
  13: 0x03B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13049*)
+ 14: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13050*)
     → "At the previous Conference of Nations, it was decided that the restriction on "regional teleporting" would be lifted, and that cities could now offer teleportation services to various outposts."
  15: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x03BC [0x02] IF !(ExtData[1]->WorkLocal[5] == ExtData[1]->WorkLocal[6]) GOTO 0x0595
- 17: 0x03C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13050*)
+ 17: 0x03C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13051*)
     → "We are now authorized to teleport you to any outpost you have previously visited on a supplies quest."
  18: 0x03C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13051*)
+ 19: 0x03C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13052*)
     → "The nominal fee we require varies with the current control of the region."
  20: 0x03CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13052*)
+ 21: 0x03CC [0x1D] PRINT_EVENT_MESSAGE(message_id=13053*)
     → "Also, depending on your level, there may be some areas I am not authorized to teleport you to."
  22: 0x03CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03D0 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[3]
@@ -575,29 +575,29 @@ SUBROUTINE_035A:
  32: 0x0402 [0x01] GOTO 0x0405
 
 SUBROUTINE_0405:
- 33: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=13066*)
+ 33: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=13067*)
     → "For a limited time during the Starlight Celebration, the Specialty Goods Trade Union is offering all registered adventurers a deal you could not possibly think of passing up."
  34: 0x0408 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=13067*)
+ 35: 0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=13068*)
     → "Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area."
  36: 0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=13068*)
+ 37: 0x040D [0x1D] PRINT_EVENT_MESSAGE(message_id=13069*)
     → "However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level."
  38: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0411 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[18]
  40: 0x0416 [0x02] IF !(ExtData[1]->WorkLocal[11] >= 20*) GOTO 0x042A
- 41: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
+ 41: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
     → "You have not yet reached level 10. I am sorry, but for safety reasons, I am not authorized to teleport anyone under the current level cap."
  42: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0422 [0x03] Work_Zone[1] = 1073741824*
  44: 0x0427 [0x01] GOTO 0x0592
  45: 0x042A [0x02] IF !(ExtData[1]->WorkLocal[10] == 2147483647*) GOTO 0x043E
- 46: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
+ 46: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
     → "Unfortunately, at this time there is nowhere I can teleport you. Please come again."
  47: 0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0436 [0x03] Work_Zone[1] = 1073741824*
  49: 0x043B [0x01] GOTO 0x0592
- 50: 0x043E [0x24] CREATE_DIALOG(message_id=13041*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
+ 50: 0x043E [0x24] CREATE_DIALOG(message_id=13042*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
     → "Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]"
  51: 0x0445 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0446 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0456
@@ -640,23 +640,23 @@ SUBROUTINE_04E5:
  83: 0x04E5 [0x06] Work_Zone[4] = 0
  84: 0x04E8 [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[8]) GOTO 0x04F2
  85: 0x04EF [0x05] Work_Zone[4] = 1
- 86: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13053*)
+ 86: 0x04F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13054*)
     → "That region is [no longer under your home country's control./currently under your home country's control.] You will require $1 gil or $3 conquest [point/points] to teleport."
  87: 0x04F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x04F6 [0x24] CREATE_DIALOG(message_id=13055*, default_option=3*, option_flags=1*)
+ 88: 0x04F6 [0x24] CREATE_DIALOG(message_id=13056*, default_option=3*, option_flags=1*)
     → "Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]"
  89: 0x04FD [0x25] WAIT_DIALOG_SELECT()
  90: 0x04FE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x053E
  91: 0x0506 [0x3E] IF !(ExtData[1]->WorkLocal[17] bit 0*) GOTO 0x0532
  92: 0x050D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[8])
  93: 0x0516 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=10*, condition_work_offset=1*)
- 94: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+ 94: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
  95: 0x0520 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0521 [0x73] EventEntity casts magic 122* on LocalPlayer
  97: 0x052C [0x1C] WAIT(260* ticks)
  98: 0x052F [0x01] GOTO 0x053B
- 99: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
+ 99: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=13060*)
     → "You do not have enough gil. Please come back again."
 100: 0x0535 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0536 [0x03] Work_Zone[1] = 1073741824*
@@ -667,13 +667,13 @@ SUBROUTINE_053B:
 104: 0x0546 [0x3E] IF !(ExtData[1]->WorkLocal[17] bit 1*) GOTO 0x0572
 105: 0x054D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=9*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[8])
 106: 0x0556 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[1], bit_index_work_offset=10*, condition_work_offset=1*)
-107: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+107: 0x055D [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
 108: 0x0560 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0561 [0x73] EventEntity casts magic 122* on LocalPlayer
 110: 0x056C [0x1C] WAIT(260* ticks)
 111: 0x056F [0x01] GOTO 0x057B
-112: 0x0572 [0x1D] PRINT_EVENT_MESSAGE(message_id=13061*)
+112: 0x0572 [0x1D] PRINT_EVENT_MESSAGE(message_id=13062*)
     → "You do not have enough conquest points. Please come back again."
 113: 0x0575 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0576 [0x03] Work_Zone[1] = 1073741824*
@@ -681,7 +681,7 @@ SUBROUTINE_053B:
 SUBROUTINE_057B:
 115: 0x057B [0x01] GOTO 0x0592
 116: 0x057E [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0592
-117: 0x0586 [0x1D] PRINT_EVENT_MESSAGE(message_id=13063*)
+117: 0x0586 [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
     → "We look forward to seeing you again!"
 118: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x058A [0x03] Work_Zone[1] = 1073741824*
@@ -701,16 +701,16 @@ SUBROUTINE_0592:
 131: 0x05C7 [0x01] GOTO 0x05CA
 
 SUBROUTINE_05CA:
-132: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13069*)
+132: 0x05CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13070*)
     → "Normally, I am only authorized to teleport citizens of [San d'Oria/Bastok/Windurst], but for a limited time only, my services are open to all registered adventurers."
 133: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13070*)
+134: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13071*)
     → "Trade me a mere ten $1 and I will teleport you to the outpost of any region of your choice, regardless of your current level or which nation has control of the area."
 135: 0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x05D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13071*)
+136: 0x05D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13072*)
     → "However, remember that the S.G.T.U will take no responsibility for any...unexpected circumstances that may occur as a result of teleporting to an area with enemies beyond the range of your main job's level."
 137: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13072*)
+138: 0x05D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13073*)
     → "This service will last for the duration of the Starlight Celebration."
 139: 0x05D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x05DA [0x03] Work_Zone[1] = 1073741824*
@@ -769,16 +769,16 @@ SUBROUTINE_05DF:
  10: 0x061F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
  11: 0x0621 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x0622 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 13: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=13073*)
+ 13: 0x0627 [0x1D] PRINT_EVENT_MESSAGE(message_id=13074*)
     → "Thank you very much for taking part in our holiday special!"
  14: 0x062A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x062B [0x02] IF !(ExtData[1]->WorkLocal[10] == 2147483647*) GOTO 0x063F
- 16: 0x0633 [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
+ 16: 0x0633 [0x1D] PRINT_EVENT_MESSAGE(message_id=13058*)
     → "Unfortunately, at this time there is nowhere I can teleport you. Please come again."
  17: 0x0636 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0637 [0x03] Work_Zone[1] = 1073741824*
  19: 0x063C [0x01] GOTO 0x06FB
- 20: 0x063F [0x24] CREATE_DIALOG(message_id=13041*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
+ 20: 0x063F [0x24] CREATE_DIALOG(message_id=13042*, default_option=5*, option_flags=ExtData[1]->WorkLocal[10])
     → "Where would you like to teleport to? [./././././The Ronfaure Region./The Zulkheim Region./The Norvallen Region./The Gustaberg Region./The Derfland Region./The Sarutabaruta Region./The Kolshushu Region./The Aragoneu Region./The Fauregandi Region./The Valdeaunia Region./Qufim Island./The Li'Telor Region./The Kuzotz Region./The Vollbow Region./The Elshimo Lowlands Region./The Elshimo Uplands Region./Tu'Lia././The Tavnazian Archipelago./././././././Teleport?/Nowhere at the moment.]"
  21: 0x0646 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0647 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x0657
@@ -807,22 +807,22 @@ SUBROUTINE_06AC:
  43: 0x06AC [0x06] Work_Zone[4] = 0
  44: 0x06AF [0x3E] IF !(ExtData[1]->WorkLocal[12] bit ExtData[1]->WorkLocal[8]) GOTO 0x06B9
  45: 0x06B6 [0x05] Work_Zone[4] = 1
- 46: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13076*)
+ 46: 0x06B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13077*)
     → "The recommended level for the requested area is $0. Are you sure you would like to teleport there?"
  47: 0x06BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x06BD [0x24] CREATE_DIALOG(message_id=13055*, default_option=3*, option_flags=6*)
+ 48: 0x06BD [0x24] CREATE_DIALOG(message_id=13056*, default_option=3*, option_flags=6*)
     → "Teleport? [Yes./Teleport with gil./Teleport with conquest points./Later.]"
  49: 0x06C4 [0x25] WAIT_DIALOG_SELECT()
  50: 0x06C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06E7
  51: 0x06CD [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[8]
- 52: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13056*)
+ 52: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13057*)
     → "Have a wonderful journey!"
  53: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x06D6 [0x73] EventEntity casts magic 122* on LocalPlayer
  55: 0x06E1 [0x1C] WAIT(260* ticks)
  56: 0x06E4 [0x01] GOTO 0x06FB
  57: 0x06E7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x06FB
- 58: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=13063*)
+ 58: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=13064*)
     → "We look forward to seeing you again!"
  59: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x06F3 [0x03] Work_Zone[1] = 4294967295*

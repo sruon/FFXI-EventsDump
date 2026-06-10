@@ -22,24 +22,24 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F90      |        8080 |
-|       1 | 0x1F91      |        8081 |
-|       2 | 0x1F92      |        8082 |
-|       3 | 0x1FA0      |        8096 |
+|       0 | 0x1F91      |        8081 |
+|       1 | 0x1F92      |        8082 |
+|       2 | 0x1F93      |        8083 |
+|       3 | 0x1FA1      |        8097 |
 |       4 | 0x0031      |          49 |
-|       5 | 0x1FA1      |        8097 |
-|       6 | 0x1FA2      |        8098 |
-|       7 | 0x1FA3      |        8099 |
+|       5 | 0x1FA2      |        8098 |
+|       6 | 0x1FA3      |        8099 |
+|       7 | 0x1FA4      |        8100 |
 
 ## String References
 
-- **8080**: Ah, pardon me, [mister/missus]. Would you happen-wappen to know where we are?
-- **8081**: I say, there are so many crags and crevices in this chasm that you can't tell one from the nextaru!
-- **8082**: Are you heading-weading to the top, perhaps? Why, I think I might just do the same!
-- **8096**: Rations! Just when my tummy was starting to rumble-wumble. Remarkable timing, I must declare!
-- **8097**: You wouldn't happen to have a sip of drink as well? A cup of Windurstian tea, perhaps? 'Cause I'm positively dying of thirstaru!
-- **8098**: A new linkpearl? Come to think of it, it's been a while since I heard anything from this one.
-- **8099**: At any rate, thanks to you, I'm good to go. Now, last one to the summit is a rotten chocobo egg! Ta-taru!
+- **8081**: Ah, pardon me, [mister/missus]. Would you happen-wappen to know where we are?
+- **8082**: I say, there are so many crags and crevices in this chasm that you can't tell one from the nextaru!
+- **8083**: Are you heading-weading to the top, perhaps? Why, I think I might just do the same!
+- **8097**: Rations! Just when my tummy was starting to rumble-wumble. Remarkable timing, I must declare!
+- **8098**: You wouldn't happen to have a sip of drink as well? A cup of Windurstian tea, perhaps? 'Cause I'm positively dying of thirstaru!
+- **8099**: A new linkpearl? Come to think of it, it's been a while since I heard anything from this one.
+- **8100**: At any rate, thanks to you, I'm good to go. Now, last one to the summit is a rotten chocobo egg! Ta-taru!
 
 ## Events
 
@@ -86,13 +86,13 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "Ah, pardon me, [mister/missus]. Would you happen-wappen to know where we are?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "I say, there are so many crags and crevices in this chasm that you can't tell one from the nextaru!"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "Are you heading-weading to the top, perhaps? Why, I think I might just do the same!"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x21] END_EVENT
@@ -125,18 +125,18 @@
   1: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x001A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x001B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
+  4: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
     → "Rations! Just when my tummy was starting to rumble-wumble. Remarkable timing, I must declare!"
   5: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  7: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
+  7: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
     → "You wouldn't happen to have a sip of drink as well? A cup of Windurstian tea, perhaps? 'Cause I'm positively dying of thirstaru!"
   8: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+  9: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
     → "A new linkpearl? Come to think of it, it's been a while since I heard anything from this one."
  10: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*
- 12: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
+ 12: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
     → "At any rate, thanks to you, I'm good to go. Now, last one to the summit is a rotten chocobo egg! Ta-taru!"
  13: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x004A [0x21] END_EVENT
@@ -164,7 +164,7 @@
 
 ```
   0: 0x004C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
+  1: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
     → "At any rate, thanks to you, I'm good to go. Now, last one to the summit is a rotten chocobo egg! Ta-taru!"
   2: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0055 [0x21] END_EVENT

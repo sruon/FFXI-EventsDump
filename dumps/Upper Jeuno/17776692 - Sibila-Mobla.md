@@ -29,11 +29,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DD9      |        7641 |
-|       1 | 0x2B73      |       11123 |
+|       0 | 0x1DDA      |        7642 |
+|       1 | 0x2B74      |       11124 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x2B74      |       11124 |
-|       4 | 0x2B75      |       11125 |
+|       3 | 0x2B75      |       11125 |
+|       4 | 0x2B76      |       11126 |
 |       5 | 0x0384      |         900 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0028      |          40 |
@@ -46,10 +46,10 @@
 
 ## String References
 
-- **7641**: Move itaru! I want to join the Ducal Guards! Must...march...more...
-- **11123**: <Player>'s badge flashes brightly.
-- **11124**: Huff...puff... I'm trying to buildy-wuild some muscle so I can join the Ducal Guards, but whew! This is a lotta work!
-- **11125**: Puff...huff... Mercenaries fight on the very fwont lines, so I bet they hafta be weaaally tough! Their twaining must be even worse!
+- **7642**: Move itaru! I want to join the Ducal Guards! Must...march...more...
+- **11124**: <Player>'s badge flashes brightly.
+- **11125**: Huff...puff... I'm trying to buildy-wuild some muscle so I can join the Ducal Guards, but whew! This is a lotta work!
+- **11126**: Puff...huff... Mercenaries fight on the very fwont lines, so I bet they hafta be weaaally tough! Their twaining must be even worse!
 
 ## Events
 
@@ -97,7 +97,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7642*)
     → "Move itaru! I want to join the Ducal Guards! Must...march...more..."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -149,14 +149,14 @@
 
 ```
   0: 0x0011 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0012 [0x48] [System] [11123*]:
+  1: 0x0012 [0x48] [System] [11124*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x001A [0x1C] WAIT(30* ticks)
-  4: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11124*)
+  4: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11125*)
     → "Huff...puff... I'm trying to buildy-wuild some muscle so I can join the Ducal Guards, but whew! This is a lotta work!"
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=11125*)
+  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=11126*)
     → "Puff...huff... Mercenaries fight on the very fwont lines, so I bet they hafta be weaaally tough! Their twaining must be even worse!"
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0025 [0x21] END_EVENT

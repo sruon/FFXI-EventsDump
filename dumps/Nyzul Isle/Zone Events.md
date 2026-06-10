@@ -55,13 +55,13 @@
 |      20 | 0x0006      |           6 |
 |      21 | 0x0007      |           7 |
 |      22 | 0xFFFFFFFF  |  4294967295 |
-|      23 | 0x1CC1      |        7361 |
-|      24 | 0x1CC7      |        7367 |
+|      23 | 0x1CC2      |        7362 |
+|      24 | 0x1CC8      |        7368 |
 
 ## String References
 
-- **7361**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
-- **7367**: Activate the lamp? [Yes./Yes./No.]
+- **7362**: What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]
+- **7368**: Activate the lamp? [Yes./Yes./No.]
 
 ## Events
 
@@ -554,7 +554,7 @@ SUBROUTINE_01F3:
  51: 0x0388 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=8*, condition_work_offset=1*)
  52: 0x038F [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
  53: 0x0394 [0x0F] ExtData[1]->WorkLocal[1] ^= ExtData[1]->WorkLocal[0]
- 54: 0x0399 [0x24] CREATE_DIALOG(message_id=7361*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 54: 0x0399 [0x24] CREATE_DIALOG(message_id=7362*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What do you take? [Nothing./$1 ($2 remaining)/$3 ($4 remaining)/$5 ($6 remaining)/$7 ($8 remaining)/$9 ($10 remaining)/$11 ($12 remaining)/$13 ($14 remaining)/$15 ($16 remaining)]"
  55: 0x03A0 [0x25] WAIT_DIALOG_SELECT()
  56: 0x03A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B1
@@ -619,7 +619,7 @@ SUBROUTINE_0431:
   1: 0x0436 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[2]
   2: 0x043B [0x03] ExtData[1]->WorkLocal[19] = 4294967295*
   3: 0x0440 [0x0F] ExtData[1]->WorkLocal[19] ^= ExtData[1]->WorkLocal[18]
-  4: 0x0445 [0x24] CREATE_DIALOG(message_id=7367*, default_option=2*, option_flags=ExtData[1]->WorkLocal[19])
+  4: 0x0445 [0x24] CREATE_DIALOG(message_id=7368*, default_option=2*, option_flags=ExtData[1]->WorkLocal[19])
     → "Activate the lamp? [Yes./Yes./No.]"
   5: 0x044C [0x25] WAIT_DIALOG_SELECT()
   6: 0x044D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0462

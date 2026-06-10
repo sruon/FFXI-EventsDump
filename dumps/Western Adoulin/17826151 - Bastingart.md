@@ -38,9 +38,9 @@
 |       0 | 0x0003      |           3 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x000F      |          15 |
-|       3 | 0x2F3B      |       12091 |
+|       3 | 0x2F3C      |       12092 |
 |       4 | 0x0002      |           2 |
-|       5 | 0x2F01      |       12033 |
+|       5 | 0x2F02      |       12034 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x0011      |          17 |
 |       8 | 0x0012      |          18 |
@@ -55,34 +55,34 @@
 |      17 | 0x0009      |           9 |
 |      18 | 0x000A      |          10 |
 |      19 | 0x000B      |          11 |
-|      20 | 0x2FEB      |       12267 |
+|      20 | 0x2FEC      |       12268 |
 |      21 | 0x0063      |          99 |
 |      22 | 0x0021      |          33 |
 |      23 | 0x0042      |          66 |
 |      24 | 0x001F      |          31 |
 |      25 | 0xFFFFFFFF  |  4294967295 |
-|      26 | 0x2F07      |       12039 |
-|      27 | 0x2FEC      |       12268 |
-|      28 | 0x2F08      |       12040 |
+|      26 | 0x2F08      |       12040 |
+|      27 | 0x2FED      |       12269 |
+|      28 | 0x2F09      |       12041 |
 |      29 | 0x0020      |          32 |
 |      30 | 0x0017      |          23 |
 |      31 | 0x0018      |          24 |
-|      32 | 0x2F3C      |       12092 |
-|      33 | 0x2F3D      |       12093 |
-|      34 | 0x2F3E      |       12094 |
-|      35 | 0x2F3F      |       12095 |
-|      36 | 0x3006      |       12294 |
-|      37 | 0x3010      |       12304 |
-|      38 | 0x2F70      |       12144 |
-|      39 | 0x2F72      |       12146 |
-|      40 | 0x2F6D      |       12141 |
-|      41 | 0x2F73      |       12147 |
-|      42 | 0x2F74      |       12148 |
-|      43 | 0x2F99      |       12185 |
-|      44 | 0x2F9A      |       12186 |
+|      32 | 0x2F3D      |       12093 |
+|      33 | 0x2F3E      |       12094 |
+|      34 | 0x2F3F      |       12095 |
+|      35 | 0x2F40      |       12096 |
+|      36 | 0x3007      |       12295 |
+|      37 | 0x3011      |       12305 |
+|      38 | 0x2F71      |       12145 |
+|      39 | 0x2F73      |       12147 |
+|      40 | 0x2F6E      |       12142 |
+|      41 | 0x2F74      |       12148 |
+|      42 | 0x2F75      |       12149 |
+|      43 | 0x2F9A      |       12186 |
+|      44 | 0x2F9B      |       12187 |
 |      45 | 0x270F      |        9999 |
 |      46 | 0x00C8      |         200 |
-|      47 | 0x2F71      |       12145 |
+|      47 | 0x2F72      |       12146 |
 |      48 | 0x026D      |         621 |
 |      49 | 0x003C      |          60 |
 |      50 | 0x0013      |          19 |
@@ -94,54 +94,54 @@
 |      56 | 0xFFFE7975  |  4294867317 |
 |      57 | 0xFFFFFD76  |  4294966646 |
 |      58 | 0x005A      |          90 |
-|      59 | 0x2F9B      |       12187 |
-|      60 | 0x2F9C      |       12188 |
-|      61 | 0x2F9D      |       12189 |
-|      62 | 0x2F9E      |       12190 |
-|      63 | 0x2F9F      |       12191 |
-|      64 | 0x2FA2      |       12194 |
-|      65 | 0x2FA3      |       12195 |
-|      66 | 0x2FAB      |       12203 |
-|      67 | 0x2FA0      |       12192 |
-|      68 | 0x2FA4      |       12196 |
-|      69 | 0x2FA5      |       12197 |
-|      70 | 0x2FAA      |       12202 |
-|      71 | 0x2FA6      |       12198 |
-|      72 | 0x2FA7      |       12199 |
-|      73 | 0x2FA8      |       12200 |
-|      74 | 0x18FA      |        6394 |
-|      75 | 0x2FA9      |       12201 |
+|      59 | 0x2F9C      |       12188 |
+|      60 | 0x2F9D      |       12189 |
+|      61 | 0x2F9E      |       12190 |
+|      62 | 0x2F9F      |       12191 |
+|      63 | 0x2FA0      |       12192 |
+|      64 | 0x2FA3      |       12195 |
+|      65 | 0x2FA4      |       12196 |
+|      66 | 0x2FAC      |       12204 |
+|      67 | 0x2FA1      |       12193 |
+|      68 | 0x2FA5      |       12197 |
+|      69 | 0x2FA6      |       12198 |
+|      70 | 0x2FAB      |       12203 |
+|      71 | 0x2FA7      |       12199 |
+|      72 | 0x2FA8      |       12200 |
+|      73 | 0x2FA9      |       12201 |
+|      74 | 0x18FB      |        6395 |
+|      75 | 0x2FAA      |       12202 |
 |      76 | 0xFFFF72B2  |  4294931122 |
 |      77 | 0xFFFE6CD3  |  4294864083 |
 |      78 | 0x0232      |         562 |
-|      79 | 0x2FAC      |       12204 |
-|      80 | 0x2FAD      |       12205 |
-|      81 | 0x2FAE      |       12206 |
-|      82 | 0x2FAF      |       12207 |
-|      83 | 0x2FC4      |       12228 |
-|      84 | 0x2FB3      |       12211 |
-|      85 | 0x2FB0      |       12208 |
-|      86 | 0x2FB4      |       12212 |
-|      87 | 0x2FB5      |       12213 |
-|      88 | 0x2FB6      |       12214 |
-|      89 | 0x2FB7      |       12215 |
-|      90 | 0x2FB8      |       12216 |
-|      91 | 0x2FB9      |       12217 |
-|      92 | 0x2FBA      |       12218 |
+|      79 | 0x2FAD      |       12205 |
+|      80 | 0x2FAE      |       12206 |
+|      81 | 0x2FAF      |       12207 |
+|      82 | 0x2FB0      |       12208 |
+|      83 | 0x2FC5      |       12229 |
+|      84 | 0x2FB4      |       12212 |
+|      85 | 0x2FB1      |       12209 |
+|      86 | 0x2FB5      |       12213 |
+|      87 | 0x2FB6      |       12214 |
+|      88 | 0x2FB7      |       12215 |
+|      89 | 0x2FB8      |       12216 |
+|      90 | 0x2FB9      |       12217 |
+|      91 | 0x2FBA      |       12218 |
+|      92 | 0x2FBB      |       12219 |
 |      93 | 0xFFFFFFF6  |  4294967286 |
-|      94 | 0x2FBB      |       12219 |
+|      94 | 0x2FBC      |       12220 |
 |      95 | 0xFFFFFFE0  |  4294967264 |
 |      96 | 0xFFFFFFF0  |  4294967280 |
 |      97 | 0xFFFFFFF8  |  4294967288 |
 |      98 | 0xFFFFFFC2  |  4294967234 |
 |      99 | 0xFFFFFFC6  |  4294967238 |
 |     100 | 0xFFFFFFCE  |  4294967246 |
-|     101 | 0x2FBE      |       12222 |
-|     102 | 0x2FC1      |       12225 |
-|     103 | 0x2FC0      |       12224 |
-|     104 | 0x2FBC      |       12220 |
-|     105 | 0x2FBF      |       12223 |
-|     106 | 0x2FBD      |       12221 |
+|     101 | 0x2FBF      |       12223 |
+|     102 | 0x2FC2      |       12226 |
+|     103 | 0x2FC1      |       12225 |
+|     104 | 0x2FBD      |       12221 |
+|     105 | 0x2FC0      |       12224 |
+|     106 | 0x2FBE      |       12222 |
 |     107 | 0x001E      |          30 |
 |     108 | 0xFFFF78C2  |  4294932674 |
 |     109 | 0xFFFE869C  |  4294870684 |
@@ -150,15 +150,15 @@
 |     112 | 0x1000      |        4096 |
 |     113 | 0x1008      |        4104 |
 |     114 | 0x0312      |         786 |
-|     115 | 0x3007      |       12295 |
-|     116 | 0x3008      |       12296 |
-|     117 | 0x3009      |       12297 |
-|     118 | 0x300A      |       12298 |
-|     119 | 0x300B      |       12299 |
-|     120 | 0x300C      |       12300 |
-|     121 | 0x300D      |       12301 |
-|     122 | 0x300E      |       12302 |
-|     123 | 0x300F      |       12303 |
+|     115 | 0x3008      |       12296 |
+|     116 | 0x3009      |       12297 |
+|     117 | 0x300A      |       12298 |
+|     118 | 0x300B      |       12299 |
+|     119 | 0x300C      |       12300 |
+|     120 | 0x300D      |       12301 |
+|     121 | 0x300E      |       12302 |
+|     122 | 0x300F      |       12303 |
+|     123 | 0x3010      |       12304 |
 |     124 | 0x05F5      |        1525 |
 |     125 | 0x0298      |         664 |
 |     126 | 0xFFFF955C  |  4294939996 |
@@ -197,24 +197,24 @@
 |     159 | 0x0324      |         804 |
 |     160 | 0x032D      |         813 |
 |     161 | 0x032C      |         812 |
-|     162 | 0x3011      |       12305 |
-|     163 | 0x3012      |       12306 |
-|     164 | 0x3013      |       12307 |
-|     165 | 0x3014      |       12308 |
-|     166 | 0x3015      |       12309 |
-|     167 | 0x3016      |       12310 |
-|     168 | 0x3017      |       12311 |
-|     169 | 0x3018      |       12312 |
-|     170 | 0x3021      |       12321 |
-|     171 | 0x3022      |       12322 |
-|     172 | 0x3019      |       12313 |
-|     173 | 0x301C      |       12316 |
-|     174 | 0x301E      |       12318 |
-|     175 | 0x301F      |       12319 |
-|     176 | 0x3020      |       12320 |
-|     177 | 0x301A      |       12314 |
-|     178 | 0x301B      |       12315 |
-|     179 | 0x301D      |       12317 |
+|     162 | 0x3012      |       12306 |
+|     163 | 0x3013      |       12307 |
+|     164 | 0x3014      |       12308 |
+|     165 | 0x3015      |       12309 |
+|     166 | 0x3016      |       12310 |
+|     167 | 0x3017      |       12311 |
+|     168 | 0x3018      |       12312 |
+|     169 | 0x3019      |       12313 |
+|     170 | 0x3022      |       12322 |
+|     171 | 0x3023      |       12323 |
+|     172 | 0x301A      |       12314 |
+|     173 | 0x301D      |       12317 |
+|     174 | 0x301F      |       12319 |
+|     175 | 0x3020      |       12320 |
+|     176 | 0x3021      |       12321 |
+|     177 | 0x301B      |       12315 |
+|     178 | 0x301C      |       12316 |
+|     179 | 0x301E      |       12318 |
 |     180 | 0x0032      |          50 |
 |     181 | 0x05EE      |        1518 |
 |     182 | 0x02AC      |         684 |
@@ -274,8 +274,8 @@
 |     236 | 0x0055      |          85 |
 |     237 | 0x005F      |          95 |
 |     238 | 0x086D      |        2157 |
-|     239 | 0x304B      |       12363 |
-|     240 | 0x304C      |       12364 |
+|     239 | 0x304C      |       12364 |
+|     240 | 0x304D      |       12365 |
 |     241 | 0x0044      |          68 |
 |     242 | 0x0041      |          65 |
 |     243 | 0x0026      |          38 |
@@ -283,93 +283,93 @@
 
 ## String References
 
-- **6394**: Obtained $0 gil.
-- **12033**: Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]
-- **12039**: $1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s].
-- **12040**: Proceed with the exchange? [Yes./No.]
-- **12091**: What will you do, oh valued customer? Dare I suggest trading your medals for prizes?
-- **12092**: Sometimes you need to just stop and smell the sweet aroma of entertainment. How about engaging in a rousing game of "Guess That Number"?
-- **12093**: I urge you to indulge in as many of Adoulin's pastimes as possible. While I may perhaps be taking it out of context, I do believe there is an adage that states "the more the merrier"--especially when it comes to "Boom or Bust".
-- **12094**: I know what you're thinking. "I need this dame to better understand the flow of time." Well then, let me be your partner in a round of "On The Dot"?
-- **12095**: If you seek a true test of your abilities, I would be more than happy to give my all against you in "Cascade."
-- **12141**: How experienced are you? ($[Bayld/Gil]: $0) [Not enough to play./A pigeon. ($1 $[Bayld/Gil])/A honeymooner. ($2 $[Bayld/Gil])/A shill. ($3 $[Bayld/Gil])/A premium player. ($4 $[Bayld/Gil])/A shark. ($5 $[Bayld/Gil])]
-- **12144**: Try again? [ /(You're on a hot streak!)] [Nope./Yes, with $3 bayld. (Bayld: $0)/Yes, with $4 gil. (Gil: $1)]
-- **12145**: End the amusement? [No, I can't quit now!/Yes, I've had enough.]
-- **12146**: What will you do? [Abstain from playing./Play using bayld. (Bayld: $0)/Play using gil. (Gil: $1)/Nothing until I hear an explanation!]
-- **12147**: Fancy yourself an accomplished lockpicker? Then test your skills by deciphering combinations within the set amount of tries and make all the [ladies/gents] swoon!
-- **12148**: All locks have two digits, which you'll have to deduce by remembering the numbers you've guessed. A little intuition gained from examining them never hurt, either.
-- **12185**: What will you do? ($0 chance[/s] remaining.) [Enter a combination./Examine the lock./Give up.]
-- **12186**: It appears that you can enter a two-digit combination between $1 and $2.
-- **12187**: If you enjoy tossing dice every so often, this may just be the challenge you have been searching for. Who shall reach 11 with a few flicks of the wrist first--you or me?
-- **12188**: Either you or I may choose to "shoot" and roll the dice, "stay" and do nothing, or pick from three tricks up your sleeve.
-- **12189**: The three tricks in your arsenal of deception include "Sneak Peek," which allows you to see your opponent's shots, using the old "Switcheroo" and trading shots with your opponent, or forcing your opponent to reroll a shot of his choice with "Crooked Die."
-- **12190**: These three tricks will spin the wheel of fortune in your favor, but it is precisely because of their immense powers that we must limit their use to once per game.
-- **12191**: Make sure you attempt to turn the tables at the right time, or Lady Luck will be the one cleaning house.
-- **12192**: You shot a $2, for a total of $3 on turn number $1.
-- **12194**: It is now turn number $1 for [you/your opponent].
-- **12195**: [You/Your opponent] [shot/stayed].
-- **12196**: What will you do? [Shoot./Stay./Use a trick up my sleeve./Fold.]
-- **12197**: Which trick will you use? [None, I've changed my mind./Sneak Peek./Switcheroo./Crooked Die.]
-- **12198**: Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]
-- **12199**: You snuck a peek at one of your opponent's dice! Shot number $1 was a $2 for him.
-- **12200**: You used the old switcheroo! Your $1 has been exchanged with your opponent's $2, and your total is now $3.
-- **12201**: You forced your opponent to shoot again! His shot for turn number $1 is now $2.
-- **12202**: Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again].
-- **12203**: Your opponent's total: $1[/ (Bust!)] Your total: $2[/ (Bust!)] [You win, and thus have the right to gloat all you want until your rematch./Don't go throwing your dice just because you lost, all right?/You are equally matched, and have drawn.]
-- **12204**: Clear your mind and ready your chronological senses, for this amusement pits you against time's dilatory creep. The objective here's to speak to me a certain amount of times at the intervals I tell you.
-- **12205**: Just so you know, I'll only give you the length of time to wait and how far off you were from the specified interval when spoken to. Furthermore, the difference between your guess and the answer is cumulative.
-- **12206**: If you're too slow one round, you can make up time by being a little fast the next.
-- **12207**: Finally, you claim victory by staying within a certain number of seconds by the end of the final round. I hope this cleared things up, and enjoy honing your mastery over Father Time.
-- **12208**: I take it that means you're in the correct state of mind to challenge the forces of time. Let's do this!
-- **12211**: It's judgment time! You were [a total of /a total of /]$1 second[/s] [early./late./off. In other words, perfectly on-target!] [It seems that the concept of time eludes you./Congratulations, you've temporarily mastered the forces of time!]
-- **12212**: A wet and wild adventure, this. You and I take turns filling a goblet with water until the cup runneth over, with the offending competitor sent to drown in shame.
-- **12213**: The rub is that it looks as if there is more water in the goblet than actually exists. Thus you will need to exercise the entirety of your patience and perspicacity to wrench victory from my clutches.
-- **12214**: As if that were not enough, I have added an extra layer of frustration by granting us competitors certain abilities dubbed "afflictions" and "remedies."
-- **12215**: On the one hand, afflictions allow you to do such things as change the amount of water I see.
-- **12216**: You can also use them to negate the effects of my remedies or limit the amount of water I can pour.
-- **12217**: On the other hand, remedies help increase or decrease either the amount of the water you can pour or the amount of water in the goblet. As a final twist, they can also negate the effects of afflictions.
-- **12218**: Afflictions and remedies cause the tides of competition to surge and swell to an extreme degree, so we restrict their use to once per game. Be prudent with which you use and when.
-- **12219**: What will you do? [Pour away!/Use an affliction./Use a remedy./Throw in the towel.]
-- **12220**: How will you afflict your opponent? [I won't, that's how./Increase amount poured./Decrease amount poured./Fabricate water level./Remove a remedy./Restrict to greater pouring options./Restrict to lesser pouring options.]
-- **12221**: What remedy will you use? [None, that's what!/Increase amount poured./Decrease amount poured./Cure an affliction./Increase maximum water level./Decrease maximum water level.]
-- **12222**: Pour how much? (Currently $1 onz[/es].) [One onz./Two onzes./Three onzes./Four onzes./Five onzes.]
-- **12223**: [You used an affliction on Etienne./You used a remedy on yourself./You cured an affliction.]
-- **12224**: [You/Etienne] poured water into the goblet. There [is/are] currently $1 onz[/es] of water in it.
-- **12225**: [You/Etienne] poured water into the goblet, causing it to overflow. [You have bested your challenger. Claim what is yours by lapping the tears of defeat from his face and tasting the glorious sorrow contained within./How does complete and utter defeat feel? Will you even be able to sleep once night falls?]
-- **12228**: Even pioneers like you seeking refuge in amusements can't escape the time's inevitable ticking. The last time you played this game, you were disqualified for exceeding the time limit.
-- **12267**: How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]
-- **12268**: You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s].
-- **12294**: I know your type. You're one of those pioneer-wioneers who likes to try [his/her] luck. Well, then, there is no more appropriataru game for you in all of Adoulin than the oft-lauded Box...of...Fortune!
-- **12295**: What makes this game so greataru is that it requires not a lick of skill whatsoever.
-- **12296**: An egalitarian-warian roll of the dice determines which of the $1 treasure chests you'll open. Depending on the trove inside, you'll get somewhere between a handful and a mountain of mummers' medals.
-- **12297**: The three types of ticketarus to wealth that dwell inside chests are: crystals such as $2, spirits like $3, and jewels the likes of $4.
-- **12298**: Crystals are the condensed-wensed form of $5 medal[/s], spirits scare $6 medal[/s] into your clutches, and jewels glintaru with the power of $7 medal[/s].
-- **12299**: What's more, unboxing a jewel immediataruly puts you on a hot streak more scorching-worching than the fires of Moh Gates.
-- **12300**: Once you're on a hot streak, you have a high chance of revealing more jewels, but all good things must come to an end. Should either a crystal or spirit pop out from a chestaru, your flames get doused.
-- **12301**: Now, you're free to stop playing anytime you wish, but I wouldn't recommend doing it while you're on a hot streak. It would mean snuffing-wuffing out your streak faster than a chapuli's horn can slice through your legs.
-- **12302**: No funny stuff here, just a plain-wain roll of the dice.
-- **12303**: The chest opens to reveal $1! You win $2 mummers' medal[/s]!
-- **12304**: Welcome to the wonderful arena that is "Three-Card Circus." I, Olivaine, will be your ringmistress.
-- **12305**: To win this greatest amusement on Vana'diel, you must collect suit and number combinations of the three cards you are dealt. Each card will be imprinted with one of four suits and six numbers.
-- **12306**: It is possible to trade in a maximum of three times, and the amount of cards you draw is equal to the number you discard. Of course, it is acceptable to step down from exchanging should you feel you are walking on a tightrope.
-- **12307**: As for the combinations, each one is worth a different number of points. In the event that all three of your cards display different numbers, only the largest one shall count toward your point total.
-- **12308**: If you possess a pair, you gain a number of points equal to twice the number of your remaining card.
-- **12309**: Furthermore, should you have three of a kind, you will receive fifty points regardless of the cards' number.
-- **12310**: Additionally, having cards of all the same suit gives you points equal to twice the total of the numbers on the cards in your hand.
-- **12311**: Lastly, should the numbers on your cards total eleven, you will receive three times the amount of points.
-- **12312**: %[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11.
-- **12313**: What will you do? [View your hand./Trade in./View discard pile./Listen to an explanation./Stop trading.]
-- **12314**: The following cards have been discarded. [Go back./[oo!/o"/o$]$19./[oo!/o"/o$]$20./[oo!/o"/o$]$21./[oo!/o"/o$]$22./[oo!/o"/o$]$23./[oo!/o"/o$]$24./[oo!/o"/o$]$25./[oo!/o"/o$]$26./[oo!/o"/o$]$27./[oo!/o"/o$]$28./[oo!/o"/o$]$29./[oo!/o"/o$]$30./[oo!/o"/o$]$31./[oo!/o"/o$]$ ./[oo!/o"/o$]$!./[oo!/o"/o$]$"./[oo!/o"/o$]$#./[oo!/o"/o$]$$.]
-- **12315**: This card has already been dealt.
-- **12316**: Trade in which one? [None./[oo!/o"/o$]$9. ([Hold/Trade])/[oo!/o"/o$]$10. ([Hold/Trade])/[oo!/o"/o$]$11. ([Hold/Trade])/Confirm trade.]
-- **12317**: %[You have/Olivaine has] chosen not to trade in.
-- **12318**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and draw%[/s] $& card[/s]!
-- **12319**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and a [oo!/o"/o$]$10, then draw%[/s] $& card[/s]!
-- **12320**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11, then draw%[/s] $& card[/s]!
-- **12321**: It is time for us to reveal our hands. <Drum Roll>
-- **12322**: You have $1 point[/s], while Olivaine has $2 point[/s]. [You win, making you the leading act!/Olivaine has thoroughly tamed you with her victory./It's a tie! Time to jump through another ring of fire.]
-- **12363**: Excuse me, but I do not believe you have $6, do you?
-- **12364**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
+- **6395**: Obtained $0 gil.
+- **12034**: Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]
+- **12040**: $1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s].
+- **12041**: Proceed with the exchange? [Yes./No.]
+- **12092**: What will you do, oh valued customer? Dare I suggest trading your medals for prizes?
+- **12093**: Sometimes you need to just stop and smell the sweet aroma of entertainment. How about engaging in a rousing game of "Guess That Number"?
+- **12094**: I urge you to indulge in as many of Adoulin's pastimes as possible. While I may perhaps be taking it out of context, I do believe there is an adage that states "the more the merrier"--especially when it comes to "Boom or Bust".
+- **12095**: I know what you're thinking. "I need this dame to better understand the flow of time." Well then, let me be your partner in a round of "On The Dot"?
+- **12096**: If you seek a true test of your abilities, I would be more than happy to give my all against you in "Cascade."
+- **12142**: How experienced are you? ($[Bayld/Gil]: $0) [Not enough to play./A pigeon. ($1 $[Bayld/Gil])/A honeymooner. ($2 $[Bayld/Gil])/A shill. ($3 $[Bayld/Gil])/A premium player. ($4 $[Bayld/Gil])/A shark. ($5 $[Bayld/Gil])]
+- **12145**: Try again? [ /(You're on a hot streak!)] [Nope./Yes, with $3 bayld. (Bayld: $0)/Yes, with $4 gil. (Gil: $1)]
+- **12146**: End the amusement? [No, I can't quit now!/Yes, I've had enough.]
+- **12147**: What will you do? [Abstain from playing./Play using bayld. (Bayld: $0)/Play using gil. (Gil: $1)/Nothing until I hear an explanation!]
+- **12148**: Fancy yourself an accomplished lockpicker? Then test your skills by deciphering combinations within the set amount of tries and make all the [ladies/gents] swoon!
+- **12149**: All locks have two digits, which you'll have to deduce by remembering the numbers you've guessed. A little intuition gained from examining them never hurt, either.
+- **12186**: What will you do? ($0 chance[/s] remaining.) [Enter a combination./Examine the lock./Give up.]
+- **12187**: It appears that you can enter a two-digit combination between $1 and $2.
+- **12188**: If you enjoy tossing dice every so often, this may just be the challenge you have been searching for. Who shall reach 11 with a few flicks of the wrist first--you or me?
+- **12189**: Either you or I may choose to "shoot" and roll the dice, "stay" and do nothing, or pick from three tricks up your sleeve.
+- **12190**: The three tricks in your arsenal of deception include "Sneak Peek," which allows you to see your opponent's shots, using the old "Switcheroo" and trading shots with your opponent, or forcing your opponent to reroll a shot of his choice with "Crooked Die."
+- **12191**: These three tricks will spin the wheel of fortune in your favor, but it is precisely because of their immense powers that we must limit their use to once per game.
+- **12192**: Make sure you attempt to turn the tables at the right time, or Lady Luck will be the one cleaning house.
+- **12193**: You shot a $2, for a total of $3 on turn number $1.
+- **12195**: It is now turn number $1 for [you/your opponent].
+- **12196**: [You/Your opponent] [shot/stayed].
+- **12197**: What will you do? [Shoot./Stay./Use a trick up my sleeve./Fold.]
+- **12198**: Which trick will you use? [None, I've changed my mind./Sneak Peek./Switcheroo./Crooked Die.]
+- **12199**: Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]
+- **12200**: You snuck a peek at one of your opponent's dice! Shot number $1 was a $2 for him.
+- **12201**: You used the old switcheroo! Your $1 has been exchanged with your opponent's $2, and your total is now $3.
+- **12202**: You forced your opponent to shoot again! His shot for turn number $1 is now $2.
+- **12203**: Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again].
+- **12204**: Your opponent's total: $1[/ (Bust!)] Your total: $2[/ (Bust!)] [You win, and thus have the right to gloat all you want until your rematch./Don't go throwing your dice just because you lost, all right?/You are equally matched, and have drawn.]
+- **12205**: Clear your mind and ready your chronological senses, for this amusement pits you against time's dilatory creep. The objective here's to speak to me a certain amount of times at the intervals I tell you.
+- **12206**: Just so you know, I'll only give you the length of time to wait and how far off you were from the specified interval when spoken to. Furthermore, the difference between your guess and the answer is cumulative.
+- **12207**: If you're too slow one round, you can make up time by being a little fast the next.
+- **12208**: Finally, you claim victory by staying within a certain number of seconds by the end of the final round. I hope this cleared things up, and enjoy honing your mastery over Father Time.
+- **12209**: I take it that means you're in the correct state of mind to challenge the forces of time. Let's do this!
+- **12212**: It's judgment time! You were [a total of /a total of /]$1 second[/s] [early./late./off. In other words, perfectly on-target!] [It seems that the concept of time eludes you./Congratulations, you've temporarily mastered the forces of time!]
+- **12213**: A wet and wild adventure, this. You and I take turns filling a goblet with water until the cup runneth over, with the offending competitor sent to drown in shame.
+- **12214**: The rub is that it looks as if there is more water in the goblet than actually exists. Thus you will need to exercise the entirety of your patience and perspicacity to wrench victory from my clutches.
+- **12215**: As if that were not enough, I have added an extra layer of frustration by granting us competitors certain abilities dubbed "afflictions" and "remedies."
+- **12216**: On the one hand, afflictions allow you to do such things as change the amount of water I see.
+- **12217**: You can also use them to negate the effects of my remedies or limit the amount of water I can pour.
+- **12218**: On the other hand, remedies help increase or decrease either the amount of the water you can pour or the amount of water in the goblet. As a final twist, they can also negate the effects of afflictions.
+- **12219**: Afflictions and remedies cause the tides of competition to surge and swell to an extreme degree, so we restrict their use to once per game. Be prudent with which you use and when.
+- **12220**: What will you do? [Pour away!/Use an affliction./Use a remedy./Throw in the towel.]
+- **12221**: How will you afflict your opponent? [I won't, that's how./Increase amount poured./Decrease amount poured./Fabricate water level./Remove a remedy./Restrict to greater pouring options./Restrict to lesser pouring options.]
+- **12222**: What remedy will you use? [None, that's what!/Increase amount poured./Decrease amount poured./Cure an affliction./Increase maximum water level./Decrease maximum water level.]
+- **12223**: Pour how much? (Currently $1 onz[/es].) [One onz./Two onzes./Three onzes./Four onzes./Five onzes.]
+- **12224**: [You used an affliction on Etienne./You used a remedy on yourself./You cured an affliction.]
+- **12225**: [You/Etienne] poured water into the goblet. There [is/are] currently $1 onz[/es] of water in it.
+- **12226**: [You/Etienne] poured water into the goblet, causing it to overflow. [You have bested your challenger. Claim what is yours by lapping the tears of defeat from his face and tasting the glorious sorrow contained within./How does complete and utter defeat feel? Will you even be able to sleep once night falls?]
+- **12229**: Even pioneers like you seeking refuge in amusements can't escape the time's inevitable ticking. The last time you played this game, you were disqualified for exceeding the time limit.
+- **12268**: How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]
+- **12269**: You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s].
+- **12295**: I know your type. You're one of those pioneer-wioneers who likes to try [his/her] luck. Well, then, there is no more appropriataru game for you in all of Adoulin than the oft-lauded Box...of...Fortune!
+- **12296**: What makes this game so greataru is that it requires not a lick of skill whatsoever.
+- **12297**: An egalitarian-warian roll of the dice determines which of the $1 treasure chests you'll open. Depending on the trove inside, you'll get somewhere between a handful and a mountain of mummers' medals.
+- **12298**: The three types of ticketarus to wealth that dwell inside chests are: crystals such as $2, spirits like $3, and jewels the likes of $4.
+- **12299**: Crystals are the condensed-wensed form of $5 medal[/s], spirits scare $6 medal[/s] into your clutches, and jewels glintaru with the power of $7 medal[/s].
+- **12300**: What's more, unboxing a jewel immediataruly puts you on a hot streak more scorching-worching than the fires of Moh Gates.
+- **12301**: Once you're on a hot streak, you have a high chance of revealing more jewels, but all good things must come to an end. Should either a crystal or spirit pop out from a chestaru, your flames get doused.
+- **12302**: Now, you're free to stop playing anytime you wish, but I wouldn't recommend doing it while you're on a hot streak. It would mean snuffing-wuffing out your streak faster than a chapuli's horn can slice through your legs.
+- **12303**: No funny stuff here, just a plain-wain roll of the dice.
+- **12304**: The chest opens to reveal $1! You win $2 mummers' medal[/s]!
+- **12305**: Welcome to the wonderful arena that is "Three-Card Circus." I, Olivaine, will be your ringmistress.
+- **12306**: To win this greatest amusement on Vana'diel, you must collect suit and number combinations of the three cards you are dealt. Each card will be imprinted with one of four suits and six numbers.
+- **12307**: It is possible to trade in a maximum of three times, and the amount of cards you draw is equal to the number you discard. Of course, it is acceptable to step down from exchanging should you feel you are walking on a tightrope.
+- **12308**: As for the combinations, each one is worth a different number of points. In the event that all three of your cards display different numbers, only the largest one shall count toward your point total.
+- **12309**: If you possess a pair, you gain a number of points equal to twice the number of your remaining card.
+- **12310**: Furthermore, should you have three of a kind, you will receive fifty points regardless of the cards' number.
+- **12311**: Additionally, having cards of all the same suit gives you points equal to twice the total of the numbers on the cards in your hand.
+- **12312**: Lastly, should the numbers on your cards total eleven, you will receive three times the amount of points.
+- **12313**: %[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11.
+- **12314**: What will you do? [View your hand./Trade in./View discard pile./Listen to an explanation./Stop trading.]
+- **12315**: The following cards have been discarded. [Go back./[oo!/o"/o$]$19./[oo!/o"/o$]$20./[oo!/o"/o$]$21./[oo!/o"/o$]$22./[oo!/o"/o$]$23./[oo!/o"/o$]$24./[oo!/o"/o$]$25./[oo!/o"/o$]$26./[oo!/o"/o$]$27./[oo!/o"/o$]$28./[oo!/o"/o$]$29./[oo!/o"/o$]$30./[oo!/o"/o$]$31./[oo!/o"/o$]$ ./[oo!/o"/o$]$!./[oo!/o"/o$]$"./[oo!/o"/o$]$#./[oo!/o"/o$]$$.]
+- **12316**: This card has already been dealt.
+- **12317**: Trade in which one? [None./[oo!/o"/o$]$9. ([Hold/Trade])/[oo!/o"/o$]$10. ([Hold/Trade])/[oo!/o"/o$]$11. ([Hold/Trade])/Confirm trade.]
+- **12318**: %[You have/Olivaine has] chosen not to trade in.
+- **12319**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and draw%[/s] $& card[/s]!
+- **12320**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and a [oo!/o"/o$]$10, then draw%[/s] $& card[/s]!
+- **12321**: %[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11, then draw%[/s] $& card[/s]!
+- **12322**: It is time for us to reveal our hands. <Drum Roll>
+- **12323**: You have $1 point[/s], while Olivaine has $2 point[/s]. [You win, making you the leading act!/Olivaine has thoroughly tamed you with her victory./It's a tie! Time to jump through another ring of fire.]
+- **12364**: Excuse me, but I do not believe you have $6, do you?
+- **12365**: Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one.
 
 ## Events
 
@@ -1687,32 +1687,32 @@ SUBROUTINE_050C:
  10: 0x052D [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[15] (bits 0*-15*)
  11: 0x0536 [0x41] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[14] (bits 0*-3*)
  12: 0x053F [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x054E
- 13: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
+ 13: 0x0547 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
     → "Sometimes you need to just stop and smell the sweet aroma of entertainment. How about engaging in a rousing game of "Guess That Number"?"
  14: 0x054A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x054B [0x01] GOTO 0x05A4
  16: 0x054E [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x055D
- 17: 0x0556 [0x1D] PRINT_EVENT_MESSAGE(message_id=12093*)
+ 17: 0x0556 [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
     → "I urge you to indulge in as many of Adoulin's pastimes as possible. While I may perhaps be taking it out of context, I do believe there is an adage that states "the more the merrier"--especially when it comes to "Boom or Bust"."
  18: 0x0559 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x055A [0x01] GOTO 0x05A4
  20: 0x055D [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x056C
- 21: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=12094*)
+ 21: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
     → "I know what you're thinking. "I need this dame to better understand the flow of time." Well then, let me be your partner in a round of "On The Dot"?"
  22: 0x0568 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0569 [0x01] GOTO 0x05A4
  24: 0x056C [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x057B
- 25: 0x0574 [0x1D] PRINT_EVENT_MESSAGE(message_id=12095*)
+ 25: 0x0574 [0x1D] PRINT_EVENT_MESSAGE(message_id=12096*)
     → "If you seek a true test of your abilities, I would be more than happy to give my all against you in "Cascade.""
  26: 0x0577 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0578 [0x01] GOTO 0x05A4
  28: 0x057B [0x02] IF !(ExtData[1]->WorkLocal[12] == 4*) GOTO 0x058A
- 29: 0x0583 [0x1D] PRINT_EVENT_MESSAGE(message_id=12294*)
+ 29: 0x0583 [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
     → "I know your type. You're one of those pioneer-wioneers who likes to try [his/her] luck. Well, then, there is no more appropriataru game for you in all of Adoulin than the oft-lauded Box...of...Fortune!"
  30: 0x0586 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0587 [0x01] GOTO 0x05A4
  32: 0x058A [0x02] IF !(ExtData[1]->WorkLocal[12] == 5*) GOTO 0x0599
- 33: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=12304*)
+ 33: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=12305*)
     → "Welcome to the wonderful arena that is "Three-Card Circus." I, Olivaine, will be your ringmistress."
  34: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0596 [0x01] GOTO 0x05A4
@@ -1785,7 +1785,7 @@ SUBROUTINE_0674:
  90: 0x068D [0x07] ExtData[1]->WorkLocal[25] += ExtData[1]->WorkLocal[21]
  91: 0x0692 [0x9D] Work_Zone[5] = 0x485E[ExtData[1]->WorkLocal[25]] // Read WORD
  92: 0x069A [0x9D] Work_Zone[6] = 0x480E[ExtData[1]->WorkLocal[25]] // Read WORD
- 93: 0x06A2 [0x24] CREATE_DIALOG(message_id=12144*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+ 93: 0x06A2 [0x24] CREATE_DIALOG(message_id=12145*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "Try again? [ /(You're on a hot streak!)] [Nope./Yes, with $3 bayld. (Bayld: $0)/Yes, with $4 gil. (Gil: $1)]"
  94: 0x06A9 [0x25] WAIT_DIALOG_SELECT()
  95: 0x06AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06BD
@@ -1810,7 +1810,7 @@ SUBROUTINE_06CD:
 110: 0x06F9 [0x07] ExtData[1]->WorkLocal[25] += ExtData[1]->WorkLocal[21]
 111: 0x06FE [0x9D] Work_Zone[5] = 0x485E[ExtData[1]->WorkLocal[25]] // Read WORD
 112: 0x0706 [0x9D] Work_Zone[6] = 0x480E[ExtData[1]->WorkLocal[25]] // Read WORD
-113: 0x070E [0x24] CREATE_DIALOG(message_id=12144*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+113: 0x070E [0x24] CREATE_DIALOG(message_id=12145*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "Try again? [ /(You're on a hot streak!)] [Nope./Yes, with $3 bayld. (Bayld: $0)/Yes, with $4 gil. (Gil: $1)]"
 114: 0x0715 [0x25] WAIT_DIALOG_SELECT()
 115: 0x0716 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x072C
@@ -1885,7 +1885,7 @@ SUBROUTINE_080F:
 170: 0x0817 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
 171: 0x081C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[17]
 172: 0x0821 [0x06] ExtData[1]->WorkLocal[10] = 0
-173: 0x0824 [0x24] CREATE_DIALOG(message_id=12146*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+173: 0x0824 [0x24] CREATE_DIALOG(message_id=12147*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "What will you do? [Abstain from playing./Play using bayld. (Bayld: $0)/Play using gil. (Gil: $1)/Nothing until I hear an explanation!]"
 174: 0x082B [0x25] WAIT_DIALOG_SELECT()
 175: 0x082C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083F
@@ -1958,7 +1958,7 @@ SUBROUTINE_0927:
 234: 0x0959 [0x01] GOTO 0x095C
 
 SUBROUTINE_095C:
-235: 0x095C [0x24] CREATE_DIALOG(message_id=12141*, default_option=0*, option_flags=0*)
+235: 0x095C [0x24] CREATE_DIALOG(message_id=12142*, default_option=0*, option_flags=0*)
     → "How experienced are you? ($[Bayld/Gil]: $0) [Not enough to play./A pigeon. ($1 $[Bayld/Gil])/A honeymooner. ($2 $[Bayld/Gil])/A shill. ($3 $[Bayld/Gil])/A premium player. ($4 $[Bayld/Gil])/A shark. ($5 $[Bayld/Gil])]"
 236: 0x0963 [0x25] WAIT_DIALOG_SELECT()
 237: 0x0964 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0972
@@ -1973,10 +1973,10 @@ SUBROUTINE_0972:
 244: 0x0985 [0x1B] RETURN
 
 SUBROUTINE_098F:
-245: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
+245: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
     → "Fancy yourself an accomplished lockpicker? Then test your skills by deciphering combinations within the set amount of tries and make all the [ladies/gents] swoon!"
 246: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
-247: 0x0993 [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
+247: 0x0993 [0x1D] PRINT_EVENT_MESSAGE(message_id=12149*)
     → "All locks have two digits, which you'll have to deduce by remembering the numbers you've guessed. A little intuition gained from examining them never hurt, either."
 248: 0x0996 [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x0997 [0x1B] RETURN
@@ -1991,13 +1991,13 @@ SUBROUTINE_099E:
 254: 0x09A9 [0x06] ExtData[1]->WorkLocal[30] = 0
 255: 0x09AC [0x06] ExtData[1]->WorkLocal[22] = 0
 256: 0x09AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
-257: 0x09B4 [0x24] CREATE_DIALOG(message_id=12185*, default_option=0*, option_flags=0*)
+257: 0x09B4 [0x24] CREATE_DIALOG(message_id=12186*, default_option=0*, option_flags=0*)
     → "What will you do? ($0 chance[/s] remaining.) [Enter a combination./Examine the lock./Give up.]"
 258: 0x09BB [0x25] WAIT_DIALOG_SELECT()
 259: 0x09BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A98
 260: 0x09C4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 261: 0x09C9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[27]
-262: 0x09CE [0x48] [System] [12186*]:
+262: 0x09CE [0x48] [System] [12187*]:
     → "It appears that you can enter a two-digit combination between $1 and $2."
 263: 0x09D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x09D2 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -2054,7 +2054,7 @@ SUBROUTINE_0A95:
 SUBROUTINE_0AEC:
 310: 0x0AEC [0x01] GOTO 0x0B2E
 311: 0x0AEF [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0B2E
-312: 0x0AF7 [0x24] CREATE_DIALOG(message_id=12145*, default_option=0*, option_flags=0*)
+312: 0x0AF7 [0x24] CREATE_DIALOG(message_id=12146*, default_option=0*, option_flags=0*)
     → "End the amusement? [No, I can't quit now!/Yes, I've had enough.]"
 313: 0x0AFE [0x25] WAIT_DIALOG_SELECT()
 314: 0x0AFF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B0F
@@ -2130,19 +2130,19 @@ SUBROUTINE_0C7F:
 374: 0x0C87 [0x1B] RETURN
 
 SUBROUTINE_0C88:
-375: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12187*)
+375: 0x0C88 [0x1D] PRINT_EVENT_MESSAGE(message_id=12188*)
     → "If you enjoy tossing dice every so often, this may just be the challenge you have been searching for. Who shall reach 11 with a few flicks of the wrist first--you or me?"
 376: 0x0C8B [0x23] WAIT_FOR_DIALOG_INTERACTION
-377: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12188*)
+377: 0x0C8C [0x1D] PRINT_EVENT_MESSAGE(message_id=12189*)
     → "Either you or I may choose to "shoot" and roll the dice, "stay" and do nothing, or pick from three tricks up your sleeve."
 378: 0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
-379: 0x0C90 [0x1D] PRINT_EVENT_MESSAGE(message_id=12189*)
+379: 0x0C90 [0x1D] PRINT_EVENT_MESSAGE(message_id=12190*)
     → "The three tricks in your arsenal of deception include "Sneak Peek," which allows you to see your opponent's shots, using the old "Switcheroo" and trading shots with your opponent, or forcing your opponent to reroll a shot of his choice with "Crooked Die.""
 380: 0x0C93 [0x23] WAIT_FOR_DIALOG_INTERACTION
-381: 0x0C94 [0x1D] PRINT_EVENT_MESSAGE(message_id=12190*)
+381: 0x0C94 [0x1D] PRINT_EVENT_MESSAGE(message_id=12191*)
     → "These three tricks will spin the wheel of fortune in your favor, but it is precisely because of their immense powers that we must limit their use to once per game."
 382: 0x0C97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-383: 0x0C98 [0x1D] PRINT_EVENT_MESSAGE(message_id=12191*)
+383: 0x0C98 [0x1D] PRINT_EVENT_MESSAGE(message_id=12192*)
     → "Make sure you attempt to turn the tables at the right time, or Lady Luck will be the one cleaning house."
 384: 0x0C9B [0x23] WAIT_FOR_DIALOG_INTERACTION
 385: 0x0C9C [0x1B] RETURN
@@ -2165,10 +2165,10 @@ SUBROUTINE_0CAF:
 398: 0x0CD0 [0x03] Work_Zone[2] = 0*
 399: 0x0CD5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[45]
 400: 0x0CDA [0x03] Work_Zone[4] = 1*
-401: 0x0CDF [0x48] [System] [12194*]:
+401: 0x0CDF [0x48] [System] [12195*]:
     → "It is now turn number $1 for [you/your opponent]."
 402: 0x0CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-403: 0x0CE3 [0x48] [System] [12195*]:
+403: 0x0CE3 [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 404: 0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 405: 0x0CE7 [0x01] GOTO 0x0D03
@@ -2255,7 +2255,7 @@ SUBROUTINE_0E47:
 472: 0x0E4C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[41]
 473: 0x0E51 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[27]
 474: 0x0E56 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[26]
-475: 0x0E5B [0x48] [System] [12203*]:
+475: 0x0E5B [0x48] [System] [12204*]:
     → "Your opponent's total: $1[/ (Bust!)] Your total: $2[/ (Bust!)] [You win, and thus have the right to gloat all you want until your rematch./Don't go throwing your dice just because you lost, all right?/You are equally matched, and have drawn.]"
 476: 0x0E5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x0E5F [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0E7D
@@ -2588,7 +2588,7 @@ SUBROUTINE_1A74:
 784: 0x1A74 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[45]
 785: 0x1A79 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[30]
 786: 0x1A7E [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[41]
-787: 0x1A83 [0x48] [System] [12192*]:
+787: 0x1A83 [0x48] [System] [12193*]:
     → "You shot a $2, for a total of $3 on turn number $1."
 788: 0x1A86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 789: 0x1A87 [0x06] ExtData[1]->WorkLocal[29] = 0
@@ -2605,13 +2605,13 @@ SUBROUTINE_1AA2:
 798: 0x1AB5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[36], bit_index_work_offset=2*, condition_work_offset=1*)
 799: 0x1ABC [0x02] IF !(ExtData[1]->WorkLocal[45] < 11*) GOTO 0x1ACB
 800: 0x1AC4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[36], bit_index_work_offset=0*, condition_work_offset=1*)
-801: 0x1ACB [0x24] CREATE_DIALOG(message_id=12196*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+801: 0x1ACB [0x24] CREATE_DIALOG(message_id=12197*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "What will you do? [Shoot./Stay./Use a trick up my sleeve./Fold.]"
 802: 0x1AD2 [0x25] WAIT_DIALOG_SELECT()
 803: 0x1AD3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1AF4
 804: 0x1ADB [0x03] Work_Zone[2] = 0*
 805: 0x1AE0 [0x03] Work_Zone[4] = 0*
-806: 0x1AE5 [0x48] [System] [12195*]:
+806: 0x1AE5 [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 807: 0x1AE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 808: 0x1AE9 [0x03] ExtData[1]->WorkLocal[43] = 0*
@@ -2620,7 +2620,7 @@ SUBROUTINE_1AA2:
 811: 0x1AF4 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1B15
 812: 0x1AFC [0x03] Work_Zone[2] = 0*
 813: 0x1B01 [0x03] Work_Zone[4] = 1*
-814: 0x1B06 [0x48] [System] [12195*]:
+814: 0x1B06 [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 815: 0x1B09 [0x23] WAIT_FOR_DIALOG_INTERACTION
 816: 0x1B0A [0x03] ExtData[1]->WorkLocal[43] = 1*
@@ -2631,7 +2631,7 @@ SUBROUTINE_1AA2:
 
 SUBROUTINE_1B20:
 821: 0x1B20 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x1F25
-822: 0x1B28 [0x24] CREATE_DIALOG(message_id=12197*, default_option=0*, option_flags=0*)
+822: 0x1B28 [0x24] CREATE_DIALOG(message_id=12198*, default_option=0*, option_flags=0*)
     → "Which trick will you use? [None, I've changed my mind./Sneak Peek./Switcheroo./Crooked Die.]"
 823: 0x1B2F [0x25] WAIT_DIALOG_SELECT()
 824: 0x1B30 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1B3E
@@ -2640,7 +2640,7 @@ SUBROUTINE_1B20:
 827: 0x1B3E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1C06
 828: 0x1B46 [0x03] Work_Zone[2] = 0*
 829: 0x1B4B [0x03] Work_Zone[3] = 0*
-830: 0x1B50 [0x48] [System] [12202*]:
+830: 0x1B50 [0x48] [System] [12203*]:
     → "Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again]."
 831: 0x1B53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 832: 0x1B54 [0x06] ExtData[1]->WorkLocal[29] = 0
@@ -2663,7 +2663,7 @@ SUBROUTINE_1B5D:
 847: 0x1BA8 [0x10] ExtData[1]->WorkLocal[36] <<= 1*
 848: 0x1BAD [0x06] ExtData[1]->WorkLocal[25] = 0
 849: 0x1BB0 [0x03] Work_Zone[2] = 0*
-850: 0x1BB5 [0x24] CREATE_DIALOG(message_id=12198*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+850: 0x1BB5 [0x24] CREATE_DIALOG(message_id=12199*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]"
 851: 0x1BBC [0x25] WAIT_DIALOG_SELECT()
 852: 0x1BBD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1BC8
@@ -2679,7 +2679,7 @@ SUBROUTINE_1BC8:
 860: 0x1BE7 [0x9D] ExtData[1]->WorkLocal[33] = 0x47BE[ExtData[1]->WorkLocal[30]] // Read WORD
 861: 0x1BEF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
 862: 0x1BF4 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[33]
-863: 0x1BF9 [0x48] [System] [12199*]:
+863: 0x1BF9 [0x48] [System] [12200*]:
     → "You snuck a peek at one of your opponent's dice! Shot number $1 was a $2 for him."
 864: 0x1BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 865: 0x1BFD [0x05] ExtData[1]->WorkLocal[37] = 1
@@ -2688,7 +2688,7 @@ SUBROUTINE_1BC8:
 868: 0x1C06 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1DC5
 869: 0x1C0E [0x03] Work_Zone[2] = 1*
 870: 0x1C13 [0x03] Work_Zone[3] = 1*
-871: 0x1C18 [0x48] [System] [12202*]:
+871: 0x1C18 [0x48] [System] [12203*]:
     → "Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again]."
 872: 0x1C1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 873: 0x1C1C [0x06] ExtData[1]->WorkLocal[29] = 0
@@ -2708,7 +2708,7 @@ SUBROUTINE_1C28:
 885: 0x1C5C [0x01] GOTO 0x1C28
 886: 0x1C5F [0x10] ExtData[1]->WorkLocal[36] <<= 1*
 887: 0x1C64 [0x03] Work_Zone[2] = 1*
-888: 0x1C69 [0x24] CREATE_DIALOG(message_id=12198*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+888: 0x1C69 [0x24] CREATE_DIALOG(message_id=12199*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]"
 889: 0x1C70 [0x25] WAIT_DIALOG_SELECT()
 890: 0x1C71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C7C
@@ -2720,7 +2720,7 @@ SUBROUTINE_1C7C:
 894: 0x1C89 [0x0C] ExtData[1]->WorkLocal[34]--
 895: 0x1C8C [0x03] Work_Zone[2] = 1*
 896: 0x1C91 [0x03] Work_Zone[3] = 0*
-897: 0x1C96 [0x48] [System] [12202*]:
+897: 0x1C96 [0x48] [System] [12203*]:
     → "Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again]."
 898: 0x1C99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 899: 0x1C9A [0x06] ExtData[1]->WorkLocal[29] = 0
@@ -2742,7 +2742,7 @@ SUBROUTINE_1CA3:
 913: 0x1CEB [0x01] GOTO 0x1CA3
 914: 0x1CEE [0x10] ExtData[1]->WorkLocal[36] <<= 1*
 915: 0x1CF3 [0x03] Work_Zone[2] = 1*
-916: 0x1CF8 [0x24] CREATE_DIALOG(message_id=12198*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+916: 0x1CF8 [0x24] CREATE_DIALOG(message_id=12199*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]"
 917: 0x1CFF [0x25] WAIT_DIALOG_SELECT()
 918: 0x1D00 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D0B
@@ -2784,7 +2784,7 @@ SUBROUTINE_1D72:
 950: 0x1DA9 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 951: 0x1DAE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[27]
 952: 0x1DB3 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[41]
-953: 0x1DB8 [0x48] [System] [12200*]:
+953: 0x1DB8 [0x48] [System] [12201*]:
     → "You used the old switcheroo! Your $1 has been exchanged with your opponent's $2, and your total is now $3."
 954: 0x1DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
 955: 0x1DBC [0x05] ExtData[1]->WorkLocal[37] = 1
@@ -2793,7 +2793,7 @@ SUBROUTINE_1D72:
 958: 0x1DC5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1F22
 959: 0x1DCD [0x03] Work_Zone[2] = 2*
 960: 0x1DD2 [0x03] Work_Zone[3] = 0*
-961: 0x1DD7 [0x48] [System] [12202*]:
+961: 0x1DD7 [0x48] [System] [12203*]:
     → "Choose [your opponent's/your] die and [peek at it/exchange it/make him shoot again]."
 962: 0x1DDA [0x23] WAIT_FOR_DIALOG_INTERACTION
 963: 0x1DDB [0x06] ExtData[1]->WorkLocal[29] = 0
@@ -2824,7 +2824,7 @@ SUBROUTINE_1E1E:
 984: 0x1E56 [0x01] GOTO 0x1DE4
 985: 0x1E59 [0x10] ExtData[1]->WorkLocal[36] <<= 1*
 986: 0x1E5E [0x03] Work_Zone[2] = 2*
-987: 0x1E63 [0x24] CREATE_DIALOG(message_id=12198*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+987: 0x1E63 [0x24] CREATE_DIALOG(message_id=12199*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Look at which shot? ([Sneak Peek/Switcheroo/Reroll]) [None, I've changed my mind./Shot one. [???/1/2/3/4/5/6]/Shot two. [???/1/2/3/4/5/6]/Shot three. [???/1/2/3/4/5/6]/Shot four. [???/1/2/3/4/5/6]/Shot five. [???/1/2/3/4/5/6]/Shot six. [???/1/2/3/4/5/6]/Shot seven. [???/1/2/3/4/5/6]/Shot eight. [???/1/2/3/4/5/6]/Shot nine. [???/1/2/3/4/5/6]/Shot ten. [???/1/2/3/4/5/6]/Shot eleven. [???/1/2/3/4/5/6]]"
 988: 0x1E6A [0x25] WAIT_DIALOG_SELECT()
 989: 0x1E6B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E76
@@ -2840,11 +2840,11 @@ SUBROUTINE_1E76:
 997: 0x1E95 [0x9D] ExtData[1]->WorkLocal[33] = 0x47BE[ExtData[1]->WorkLocal[29]] // Read WORD
 998: 0x1E9D [0x02] IF !(ExtData[1]->WorkLocal[71] <= 0*) GOTO 0x1EB7
 999: 0x1EA5 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[40]
-1000: 0x1EAA [0x48] [System] [6394*]:
+1000: 0x1EAA [0x48] [System] [6395*]:
     → "Obtained $0 gil."
 1001: 0x1EAD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1002: 0x1EAE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[33]
-1003: 0x1EB3 [0x48] [System] [6394*]:
+1003: 0x1EB3 [0x48] [System] [6395*]:
     → "Obtained $0 gil."
 1004: 0x1EB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1005: 0x1EB7 [0x13] ExtData[1]->WorkLocal[30] = rand() % 5*
@@ -2865,14 +2865,14 @@ SUBROUTINE_1ED0:
 1018: 0x1EF7 [0x01] GOTO 0x1ED0
 1019: 0x1EFA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
 1020: 0x1EFF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[30]
-1021: 0x1F04 [0x48] [System] [12201*]:
+1021: 0x1F04 [0x48] [System] [12202*]:
     → "You forced your opponent to shoot again! His shot for turn number $1 is now $2."
 1022: 0x1F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1023: 0x1F08 [0x05] ExtData[1]->WorkLocal[37] = 1
 1024: 0x1F0B [0x05] ExtData[1]->WorkLocal[7] = 1
 1025: 0x1F0E [0x02] IF !(ExtData[1]->WorkLocal[71] <= 0*) GOTO 0x1F1F
 1026: 0x1F16 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[40]
-1027: 0x1F1B [0x48] [System] [6394*]:
+1027: 0x1F1B [0x48] [System] [6395*]:
     → "Obtained $0 gil."
 1028: 0x1F1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1029: 0x1F1F [0x01] GOTO 0x1F22
@@ -2881,7 +2881,7 @@ SUBROUTINE_1F22:
 1030: 0x1F22 [0x01] GOTO 0x1B20
 1031: 0x1F25 [0x01] GOTO 0x1F5C
 1032: 0x1F28 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1F5C
-1033: 0x1F30 [0x24] CREATE_DIALOG(message_id=12145*, default_option=0*, option_flags=0*)
+1033: 0x1F30 [0x24] CREATE_DIALOG(message_id=12146*, default_option=0*, option_flags=0*)
     → "End the amusement? [No, I can't quit now!/Yes, I've had enough.]"
 1034: 0x1F37 [0x25] WAIT_DIALOG_SELECT()
 1035: 0x1F38 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F43
@@ -2905,10 +2905,10 @@ SUBROUTINE_1F60:
 1047: 0x1F6B [0x03] Work_Zone[2] = 1*
 1048: 0x1F70 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[44]
 1049: 0x1F75 [0x03] Work_Zone[4] = 1*
-1050: 0x1F7A [0x48] [System] [12194*]:
+1050: 0x1F7A [0x48] [System] [12195*]:
     → "It is now turn number $1 for [you/your opponent]."
 1051: 0x1F7D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1052: 0x1F7E [0x48] [System] [12195*]:
+1052: 0x1F7E [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 1053: 0x1F81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1054: 0x1F82 [0x03] ExtData[1]->WorkLocal[42] = 1*
@@ -2953,21 +2953,21 @@ SUBROUTINE_2001:
 1089: 0x201E [0x9D] ExtData[1]->WorkLocal[31] = 0x496E[ExtData[1]->WorkLocal[21]] // Read WORD
 1090: 0x2026 [0x02] IF !(ExtData[1]->WorkLocal[71] <= 0*) GOTO 0x2040
 1091: 0x202E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[40]
-1092: 0x2033 [0x48] [System] [6394*]:
+1092: 0x2033 [0x48] [System] [6395*]:
     → "Obtained $0 gil."
 1093: 0x2036 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1094: 0x2037 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[31]
-1095: 0x203C [0x48] [System] [6394*]:
+1095: 0x203C [0x48] [System] [6395*]:
     → "Obtained $0 gil."
 1096: 0x203F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1097: 0x2040 [0x02] IF !(ExtData[1]->WorkLocal[40] <= ExtData[1]->WorkLocal[31]) GOTO 0x2067
 1098: 0x2048 [0x03] Work_Zone[2] = 1*
 1099: 0x204D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[44]
 1100: 0x2052 [0x03] Work_Zone[4] = 1*
-1101: 0x2057 [0x48] [System] [12194*]:
+1101: 0x2057 [0x48] [System] [12195*]:
     → "It is now turn number $1 for [you/your opponent]."
 1102: 0x205A [0x23] WAIT_FOR_DIALOG_INTERACTION
-1103: 0x205B [0x48] [System] [12195*]:
+1103: 0x205B [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 1104: 0x205E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1105: 0x205F [0x03] ExtData[1]->WorkLocal[42] = 1*
@@ -2975,10 +2975,10 @@ SUBROUTINE_2001:
 1107: 0x2067 [0x03] Work_Zone[2] = 1*
 1108: 0x206C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[44]
 1109: 0x2071 [0x03] Work_Zone[4] = 0*
-1110: 0x2076 [0x48] [System] [12194*]:
+1110: 0x2076 [0x48] [System] [12195*]:
     → "It is now turn number $1 for [you/your opponent]."
 1111: 0x2079 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1112: 0x207A [0x48] [System] [12195*]:
+1112: 0x207A [0x48] [System] [12196*]:
     → "[You/Your opponent] [shot/stayed]."
 1113: 0x207D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1114: 0x207E [0x03] ExtData[1]->WorkLocal[42] = 0*
@@ -3009,22 +3009,22 @@ SUBROUTINE_2084:
 1135: 0x2103 [0x1B] RETURN
 
 SUBROUTINE_210D:
-1136: 0x210D [0x1D] PRINT_EVENT_MESSAGE(message_id=12204*)
+1136: 0x210D [0x1D] PRINT_EVENT_MESSAGE(message_id=12205*)
     → "Clear your mind and ready your chronological senses, for this amusement pits you against time's dilatory creep. The objective here's to speak to me a certain amount of times at the intervals I tell you."
 1137: 0x2110 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1138: 0x2111 [0x1D] PRINT_EVENT_MESSAGE(message_id=12205*)
+1138: 0x2111 [0x1D] PRINT_EVENT_MESSAGE(message_id=12206*)
     → "Just so you know, I'll only give you the length of time to wait and how far off you were from the specified interval when spoken to. Furthermore, the difference between your guess and the answer is cumulative."
 1139: 0x2114 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1140: 0x2115 [0x1D] PRINT_EVENT_MESSAGE(message_id=12206*)
+1140: 0x2115 [0x1D] PRINT_EVENT_MESSAGE(message_id=12207*)
     → "If you're too slow one round, you can make up time by being a little fast the next."
 1141: 0x2118 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1142: 0x2119 [0x1D] PRINT_EVENT_MESSAGE(message_id=12207*)
+1142: 0x2119 [0x1D] PRINT_EVENT_MESSAGE(message_id=12208*)
     → "Finally, you claim victory by staying within a certain number of seconds by the end of the final round. I hope this cleared things up, and enjoy honing your mastery over Father Time."
 1143: 0x211C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1144: 0x211D [0x1B] RETURN
 
 SUBROUTINE_21FA:
-1145: 0x21FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12208*)
+1145: 0x21FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12209*)
     → "I take it that means you're in the correct state of mind to challenge the forces of time. Let's do this!"
 1146: 0x21FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1147: 0x21FE [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=8*)
@@ -3036,25 +3036,25 @@ SUBROUTINE_2211:
 1151: 0x2214 [0x1B] RETURN
 
 SUBROUTINE_221E:
-1152: 0x221E [0x1D] PRINT_EVENT_MESSAGE(message_id=12212*)
+1152: 0x221E [0x1D] PRINT_EVENT_MESSAGE(message_id=12213*)
     → "A wet and wild adventure, this. You and I take turns filling a goblet with water until the cup runneth over, with the offending competitor sent to drown in shame."
 1153: 0x2221 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1154: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=12213*)
+1154: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=12214*)
     → "The rub is that it looks as if there is more water in the goblet than actually exists. Thus you will need to exercise the entirety of your patience and perspicacity to wrench victory from my clutches."
 1155: 0x2225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1156: 0x2226 [0x1D] PRINT_EVENT_MESSAGE(message_id=12214*)
+1156: 0x2226 [0x1D] PRINT_EVENT_MESSAGE(message_id=12215*)
     → "As if that were not enough, I have added an extra layer of frustration by granting us competitors certain abilities dubbed "afflictions" and "remedies.""
 1157: 0x2229 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1158: 0x222A [0x1D] PRINT_EVENT_MESSAGE(message_id=12215*)
+1158: 0x222A [0x1D] PRINT_EVENT_MESSAGE(message_id=12216*)
     → "On the one hand, afflictions allow you to do such things as change the amount of water I see."
 1159: 0x222D [0x23] WAIT_FOR_DIALOG_INTERACTION
-1160: 0x222E [0x1D] PRINT_EVENT_MESSAGE(message_id=12216*)
+1160: 0x222E [0x1D] PRINT_EVENT_MESSAGE(message_id=12217*)
     → "You can also use them to negate the effects of my remedies or limit the amount of water I can pour."
 1161: 0x2231 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1162: 0x2232 [0x1D] PRINT_EVENT_MESSAGE(message_id=12217*)
+1162: 0x2232 [0x1D] PRINT_EVENT_MESSAGE(message_id=12218*)
     → "On the other hand, remedies help increase or decrease either the amount of the water you can pour or the amount of water in the goblet. As a final twist, they can also negate the effects of afflictions."
 1163: 0x2235 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1164: 0x2236 [0x1D] PRINT_EVENT_MESSAGE(message_id=12218*)
+1164: 0x2236 [0x1D] PRINT_EVENT_MESSAGE(message_id=12219*)
     → "Afflictions and remedies cause the tides of competition to surge and swell to an extreme degree, so we restrict their use to once per game. Be prudent with which you use and when."
 1165: 0x2239 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1166: 0x223A [0x1B] RETURN
@@ -3124,7 +3124,7 @@ SUBROUTINE_2362:
 1216: 0x236A [0x06] ExtData[1]->WorkLocal[1] = 0
 1217: 0x236D [0x02] IF !(ExtData[1]->WorkLocal[43] <= 0*) GOTO 0x237A
 1218: 0x2375 [0x03] ExtData[1]->WorkLocal[1] = 4294967286*
-1219: 0x237A [0x24] CREATE_DIALOG(message_id=12219*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+1219: 0x237A [0x24] CREATE_DIALOG(message_id=12220*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [Pour away!/Use an affliction./Use a remedy./Throw in the towel.]"
 1220: 0x2381 [0x25] WAIT_DIALOG_SELECT()
 1221: 0x2382 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x259C
@@ -3193,7 +3193,7 @@ SUBROUTINE_2473:
 1274: 0x24A3 [0x01] GOTO 0x24A6
 
 SUBROUTINE_24A6:
-1275: 0x24A6 [0x24] CREATE_DIALOG(message_id=12222*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
+1275: 0x24A6 [0x24] CREATE_DIALOG(message_id=12223*, default_option=0*, option_flags=ExtData[1]->WorkLocal[36])
     → "Pour how much? (Currently $1 onz[/es].) [One onz./Two onzes./Three onzes./Four onzes./Five onzes.]"
 1276: 0x24AD [0x25] WAIT_DIALOG_SELECT()
 1277: 0x24AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24B9
@@ -3237,7 +3237,7 @@ SUBROUTINE_2545:
 1309: 0x2552 [0x03] ExtData[1]->WorkLocal[70] = 1*
 1310: 0x2557 [0x03] Work_Zone[2] = 0*
 1311: 0x255C [0x03] Work_Zone[3] = 1*
-1312: 0x2561 [0x48] [System] [12225*]:
+1312: 0x2561 [0x48] [System] [12226*]:
     → "[You/Etienne] poured water into the goblet, causing it to overflow. [You have bested your challenger. Claim what is yours by lapping the tears of defeat from his face and tasting the glorious sorrow contained within./How does complete and utter defeat feel? Will you even be able to sleep once night falls?]"
 1313: 0x2564 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1314: 0x2565 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=7*)
@@ -3249,7 +3249,7 @@ SUBROUTINE_2545:
 1320: 0x2583 [0x03] ExtData[1]->WorkLocal[70] = 0*
 1321: 0x2588 [0x03] Work_Zone[2] = 0*
 1322: 0x258D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[56]
-1323: 0x2592 [0x48] [System] [12224*]:
+1323: 0x2592 [0x48] [System] [12225*]:
     → "[You/Etienne] poured water into the goblet. There [is/are] currently $1 onz[/es] of water in it."
 1324: 0x2595 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3257,7 +3257,7 @@ SUBROUTINE_2596:
 1325: 0x2596 [0x05] ExtData[1]->WorkLocal[4] = 1
 1326: 0x2599 [0x01] GOTO 0x279A
 1327: 0x259C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x265D
-1328: 0x25A4 [0x24] CREATE_DIALOG(message_id=12220*, default_option=0*, option_flags=0*)
+1328: 0x25A4 [0x24] CREATE_DIALOG(message_id=12221*, default_option=0*, option_flags=0*)
     → "How will you afflict your opponent? [I won't, that's how./Increase amount poured./Decrease amount poured./Fabricate water level./Remove a remedy./Restrict to greater pouring options./Restrict to lesser pouring options.]"
 1329: 0x25AB [0x25] WAIT_DIALOG_SELECT()
 1330: 0x25AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x25B7
@@ -3293,12 +3293,12 @@ SUBROUTINE_25B7:
 
 SUBROUTINE_2651:
 1358: 0x2651 [0x03] Work_Zone[2] = 0*
-1359: 0x2656 [0x48] [System] [12223*]:
+1359: 0x2656 [0x48] [System] [12224*]:
     → "[You used an affliction on Etienne./You used a remedy on yourself./You cured an affliction.]"
 1360: 0x2659 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1361: 0x265A [0x01] GOTO 0x279A
 1362: 0x265D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2750
-1363: 0x2665 [0x24] CREATE_DIALOG(message_id=12221*, default_option=0*, option_flags=0*)
+1363: 0x2665 [0x24] CREATE_DIALOG(message_id=12222*, default_option=0*, option_flags=0*)
     → "What remedy will you use? [None, that's what!/Increase amount poured./Decrease amount poured./Cure an affliction./Increase maximum water level./Decrease maximum water level.]"
 1364: 0x266C [0x25] WAIT_DIALOG_SELECT()
 1365: 0x266D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2678
@@ -3346,12 +3346,12 @@ SUBROUTINE_2678:
 1405: 0x2746 [0x01] GOTO 0x2749
 
 SUBROUTINE_2749:
-1406: 0x2749 [0x48] [System] [12223*]:
+1406: 0x2749 [0x48] [System] [12224*]:
     → "[You used an affliction on Etienne./You used a remedy on yourself./You cured an affliction.]"
 1407: 0x274C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1408: 0x274D [0x01] GOTO 0x279A
 1409: 0x2750 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x279A
-1410: 0x2758 [0x24] CREATE_DIALOG(message_id=12145*, default_option=0*, option_flags=0*)
+1410: 0x2758 [0x24] CREATE_DIALOG(message_id=12146*, default_option=0*, option_flags=0*)
     → "End the amusement? [No, I can't quit now!/Yes, I've had enough.]"
 1411: 0x275F [0x25] WAIT_DIALOG_SELECT()
 1412: 0x2760 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x276B
@@ -3537,7 +3537,7 @@ SUBROUTINE_2A8F:
 1576: 0x2AC4 [0x03] ExtData[1]->WorkLocal[70] = 2*
 1577: 0x2AC9 [0x03] Work_Zone[2] = 1*
 1578: 0x2ACE [0x03] Work_Zone[3] = 0*
-1579: 0x2AD3 [0x48] [System] [12225*]:
+1579: 0x2AD3 [0x48] [System] [12226*]:
     → "[You/Etienne] poured water into the goblet, causing it to overflow. [You have bested your challenger. Claim what is yours by lapping the tears of defeat from his face and tasting the glorious sorrow contained within./How does complete and utter defeat feel? Will you even be able to sleep once night falls?]"
 1580: 0x2AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1581: 0x2AD7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
@@ -3586,7 +3586,7 @@ SUBROUTINE_2B6D:
 1618: 0x2B9D [0x01] GOTO 0x2BA0
 
 SUBROUTINE_2BA0:
-1619: 0x2BA0 [0x48] [System] [12224*]:
+1619: 0x2BA0 [0x48] [System] [12225*]:
     → "[You/Etienne] poured water into the goblet. There [is/are] currently $1 onz[/es] of water in it."
 1620: 0x2BA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3633,25 +3633,25 @@ SUBROUTINE_2C7A:
 1656: 0x2C8E [0x03] Work_Zone[7] = 1*
 1657: 0x2C93 [0x03] Work_Zone[8] = 4*
 1658: 0x2C98 [0x03] Work_Zone[9] = 15*
-1659: 0x2C9D [0x1D] PRINT_EVENT_MESSAGE(message_id=12295*)
+1659: 0x2C9D [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
     → "What makes this game so greataru is that it requires not a lick of skill whatsoever."
 1660: 0x2CA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1661: 0x2CA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12296*)
+1661: 0x2CA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
     → "An egalitarian-warian roll of the dice determines which of the $1 treasure chests you'll open. Depending on the trove inside, you'll get somewhere between a handful and a mountain of mummers' medals."
 1662: 0x2CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1663: 0x2CA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12297*)
+1663: 0x2CA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
     → "The three types of ticketarus to wealth that dwell inside chests are: crystals such as $2, spirits like $3, and jewels the likes of $4."
 1664: 0x2CA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1665: 0x2CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12298*)
+1665: 0x2CA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
     → "Crystals are the condensed-wensed form of $5 medal[/s], spirits scare $6 medal[/s] into your clutches, and jewels glintaru with the power of $7 medal[/s]."
 1666: 0x2CAC [0x23] WAIT_FOR_DIALOG_INTERACTION
-1667: 0x2CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=12299*)
+1667: 0x2CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=12300*)
     → "What's more, unboxing a jewel immediataruly puts you on a hot streak more scorching-worching than the fires of Moh Gates."
 1668: 0x2CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1669: 0x2CB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12300*)
+1669: 0x2CB1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
     → "Once you're on a hot streak, you have a high chance of revealing more jewels, but all good things must come to an end. Should either a crystal or spirit pop out from a chestaru, your flames get doused."
 1670: 0x2CB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1671: 0x2CB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12301*)
+1671: 0x2CB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12302*)
     → "Now, you're free to stop playing anytime you wish, but I wouldn't recommend doing it while you're on a hot streak. It would mean snuffing-wuffing out your streak faster than a chapuli's horn can slice through your legs."
 1672: 0x2CB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1673: 0x2CB9 [0x1B] RETURN
@@ -3661,7 +3661,7 @@ SUBROUTINE_2CBA:
 
 SUBROUTINE_2CBD:
 1675: 0x2CBD [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x2F94
-1676: 0x2CC5 [0x48] [System] [12302*]:
+1676: 0x2CC5 [0x48] [System] [12303*]:
     → "No funny stuff here, just a plain-wain roll of the dice."
 1677: 0x2CC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1678: 0x2CC9 [0x0B] ExtData[1]->WorkLocal[25]++
@@ -3758,7 +3758,7 @@ SUBROUTINE_2EEE:
 1761: 0x2F3B [0x01] GOTO 0x2F3E
 
 SUBROUTINE_2F3E:
-1762: 0x2F3E [0x48] [System] [12303*]:
+1762: 0x2F3E [0x48] [System] [12304*]:
     → "The chest opens to reveal $1! You win $2 mummers' medal[/s]!"
 1763: 0x2F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1764: 0x2F42 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -4109,25 +4109,25 @@ SUBROUTINE_3615:
 2055: 0x3615 [0x1B] RETURN
 
 SUBROUTINE_3702:
-2056: 0x3702 [0x1D] PRINT_EVENT_MESSAGE(message_id=12305*)
+2056: 0x3702 [0x1D] PRINT_EVENT_MESSAGE(message_id=12306*)
     → "To win this greatest amusement on Vana'diel, you must collect suit and number combinations of the three cards you are dealt. Each card will be imprinted with one of four suits and six numbers."
 2057: 0x3705 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2058: 0x3706 [0x1D] PRINT_EVENT_MESSAGE(message_id=12306*)
+2058: 0x3706 [0x1D] PRINT_EVENT_MESSAGE(message_id=12307*)
     → "It is possible to trade in a maximum of three times, and the amount of cards you draw is equal to the number you discard. Of course, it is acceptable to step down from exchanging should you feel you are walking on a tightrope."
 2059: 0x3709 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2060: 0x370A [0x1D] PRINT_EVENT_MESSAGE(message_id=12307*)
+2060: 0x370A [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
     → "As for the combinations, each one is worth a different number of points. In the event that all three of your cards display different numbers, only the largest one shall count toward your point total."
 2061: 0x370D [0x23] WAIT_FOR_DIALOG_INTERACTION
-2062: 0x370E [0x1D] PRINT_EVENT_MESSAGE(message_id=12308*)
+2062: 0x370E [0x1D] PRINT_EVENT_MESSAGE(message_id=12309*)
     → "If you possess a pair, you gain a number of points equal to twice the number of your remaining card."
 2063: 0x3711 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2064: 0x3712 [0x1D] PRINT_EVENT_MESSAGE(message_id=12309*)
+2064: 0x3712 [0x1D] PRINT_EVENT_MESSAGE(message_id=12310*)
     → "Furthermore, should you have three of a kind, you will receive fifty points regardless of the cards' number."
 2065: 0x3715 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2066: 0x3716 [0x1D] PRINT_EVENT_MESSAGE(message_id=12310*)
+2066: 0x3716 [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
     → "Additionally, having cards of all the same suit gives you points equal to twice the total of the numbers on the cards in your hand."
 2067: 0x3719 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2068: 0x371A [0x1D] PRINT_EVENT_MESSAGE(message_id=12311*)
+2068: 0x371A [0x1D] PRINT_EVENT_MESSAGE(message_id=12312*)
     → "Lastly, should the numbers on your cards total eleven, you will receive three times the amount of points."
 2069: 0x371D [0x23] WAIT_FOR_DIALOG_INTERACTION
 2070: 0x371E [0x1B] RETURN
@@ -4139,7 +4139,7 @@ SUBROUTINE_3722:
 2072: 0x3722 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x37C6
 2073: 0x372A [0x06] ExtData[1]->WorkLocal[24] = 0
 2074: 0x372D [0x1A] CALL_SUBROUTINE(address=0x4391)
-2075: 0x3730 [0x48] [System] [12312*]:
+2075: 0x3730 [0x48] [System] [12313*]:
     → "%[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11."
 2076: 0x3733 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2077: 0x3734 [0x1A] CALL_SUBROUTINE(address=0x3854)
@@ -4153,7 +4153,7 @@ SUBROUTINE_3752:
 2083: 0x3752 [0x02] IF !(ExtData[1]->WorkLocal[62] > 3*) GOTO 0x37BD
 2084: 0x375A [0x1A] CALL_SUBROUTINE(address=0x3CE1)
 2085: 0x375D [0x02] IF !(ExtData[1]->WorkLocal[24] == 2*) GOTO 0x37AC
-2086: 0x3765 [0x1D] PRINT_EVENT_MESSAGE(message_id=12321*)
+2086: 0x3765 [0x1D] PRINT_EVENT_MESSAGE(message_id=12322*)
     → "It is time for us to reveal our hands. <Drum Roll>"
 2087: 0x3768 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2088: 0x3769 [0x1A] CALL_SUBROUTINE(address=0x37CA)
@@ -4189,11 +4189,11 @@ SUBROUTINE_37C3:
 SUBROUTINE_37CA:
 2111: 0x37CA [0x06] ExtData[1]->WorkLocal[70] = 0
 2112: 0x37CD [0x1A] CALL_SUBROUTINE(address=0x4391)
-2113: 0x37D0 [0x48] [System] [12312*]:
+2113: 0x37D0 [0x48] [System] [12313*]:
     → "%[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11."
 2114: 0x37D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2115: 0x37D4 [0x1A] CALL_SUBROUTINE(address=0x43CD)
-2116: 0x37D7 [0x48] [System] [12312*]:
+2116: 0x37D7 [0x48] [System] [12313*]:
     → "%[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11."
 2117: 0x37DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 2118: 0x37DB [0x1A] CALL_SUBROUTINE(address=0x413E)
@@ -4204,7 +4204,7 @@ SUBROUTINE_37CA:
 2123: 0x37F3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[60]
 2124: 0x37F8 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[61]
 2125: 0x37FD [0x03] Work_Zone[5] = 0*
-2126: 0x3802 [0x48] [System] [12322*]:
+2126: 0x3802 [0x48] [System] [12323*]:
     → "You have $1 point[/s], while Olivaine has $2 point[/s]. [You win, making you the leading act!/Olivaine has thoroughly tamed you with her victory./It's a tie! Time to jump through another ring of fire.]"
 2127: 0x3805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2128: 0x3806 [0x03] ExtData[1]->WorkLocal[70] = 5*
@@ -4213,7 +4213,7 @@ SUBROUTINE_37CA:
 2131: 0x3814 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[60]
 2132: 0x3819 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[61]
 2133: 0x381E [0x03] Work_Zone[5] = 1*
-2134: 0x3823 [0x48] [System] [12322*]:
+2134: 0x3823 [0x48] [System] [12323*]:
     → "You have $1 point[/s], while Olivaine has $2 point[/s]. [You win, making you the leading act!/Olivaine has thoroughly tamed you with her victory./It's a tie! Time to jump through another ring of fire.]"
 2135: 0x3826 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2136: 0x3827 [0x03] ExtData[1]->WorkLocal[70] = 7*
@@ -4222,7 +4222,7 @@ SUBROUTINE_37CA:
 2139: 0x3835 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[60]
 2140: 0x383A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[61]
 2141: 0x383F [0x03] Work_Zone[5] = 2*
-2142: 0x3844 [0x48] [System] [12322*]:
+2142: 0x3844 [0x48] [System] [12323*]:
     → "You have $1 point[/s], while Olivaine has $2 point[/s]. [You win, making you the leading act!/Olivaine has thoroughly tamed you with her victory./It's a tie! Time to jump through another ring of fire.]"
 2143: 0x3847 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2144: 0x3848 [0x03] ExtData[1]->WorkLocal[70] = 6*
@@ -4239,7 +4239,7 @@ SUBROUTINE_3854:
 SUBROUTINE_3860:
 2152: 0x3860 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x39A9
 2153: 0x3868 [0x03] ExtData[1]->WorkLocal[1] = 1*
-2154: 0x386D [0x24] CREATE_DIALOG(message_id=12313*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
+2154: 0x386D [0x24] CREATE_DIALOG(message_id=12314*, default_option=ExtData[1]->WorkLocal[9], option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [View your hand./Trade in./View discard pile./Listen to an explanation./Stop trading.]"
 2155: 0x3874 [0x25] WAIT_DIALOG_SELECT()
 2156: 0x3875 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3880
@@ -4249,7 +4249,7 @@ SUBROUTINE_3880:
 2158: 0x3880 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[0]
 2159: 0x3885 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x389C
 2160: 0x388D [0x1A] CALL_SUBROUTINE(address=0x4391)
-2161: 0x3890 [0x48] [System] [12312*]:
+2161: 0x3890 [0x48] [System] [12313*]:
     → "%[Your/Olivaine's] hand consists of: A [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11."
 2162: 0x3893 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2163: 0x3894 [0x03] ExtData[1]->WorkLocal[24] = 0*
@@ -4268,7 +4268,7 @@ SUBROUTINE_38AD:
 2174: 0x38D3 [0x06] ExtData[1]->WorkLocal[36] = 0
 2175: 0x38D6 [0x02] IF !(ExtData[1]->WorkLocal[60] == 0*) GOTO 0x38E5
 2176: 0x38DE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[36], bit_index_work_offset=4*, condition_work_offset=1*)
-2177: 0x38E5 [0x24] CREATE_DIALOG(message_id=12316*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[36])
+2177: 0x38E5 [0x24] CREATE_DIALOG(message_id=12317*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[36])
     → "Trade in which one? [None./[oo!/o"/o$]$9. ([Hold/Trade])/[oo!/o"/o$]$10. ([Hold/Trade])/[oo!/o"/o$]$11. ([Hold/Trade])/Confirm trade.]"
 2178: 0x38EC [0x25] WAIT_DIALOG_SELECT()
 2179: 0x38ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3900
@@ -4303,25 +4303,25 @@ SUBROUTINE_394E:
 2202: 0x395F [0x03] ExtData[1]->WorkLocal[24] = 0*
 2203: 0x3964 [0x01] GOTO 0x39A6
 2204: 0x3967 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x3993
-2205: 0x396F [0x48] [System] [12305*]:
+2205: 0x396F [0x48] [System] [12306*]:
     → "To win this greatest amusement on Vana'diel, you must collect suit and number combinations of the three cards you are dealt. Each card will be imprinted with one of four suits and six numbers."
 2206: 0x3972 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2207: 0x3973 [0x48] [System] [12306*]:
+2207: 0x3973 [0x48] [System] [12307*]:
     → "It is possible to trade in a maximum of three times, and the amount of cards you draw is equal to the number you discard. Of course, it is acceptable to step down from exchanging should you feel you are walking on a tightrope."
 2208: 0x3976 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2209: 0x3977 [0x48] [System] [12307*]:
+2209: 0x3977 [0x48] [System] [12308*]:
     → "As for the combinations, each one is worth a different number of points. In the event that all three of your cards display different numbers, only the largest one shall count toward your point total."
 2210: 0x397A [0x23] WAIT_FOR_DIALOG_INTERACTION
-2211: 0x397B [0x48] [System] [12308*]:
+2211: 0x397B [0x48] [System] [12309*]:
     → "If you possess a pair, you gain a number of points equal to twice the number of your remaining card."
 2212: 0x397E [0x23] WAIT_FOR_DIALOG_INTERACTION
-2213: 0x397F [0x48] [System] [12309*]:
+2213: 0x397F [0x48] [System] [12310*]:
     → "Furthermore, should you have three of a kind, you will receive fifty points regardless of the cards' number."
 2214: 0x3982 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2215: 0x3983 [0x48] [System] [12310*]:
+2215: 0x3983 [0x48] [System] [12311*]:
     → "Additionally, having cards of all the same suit gives you points equal to twice the total of the numbers on the cards in your hand."
 2216: 0x3986 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2217: 0x3987 [0x48] [System] [12311*]:
+2217: 0x3987 [0x48] [System] [12312*]:
     → "Lastly, should the numbers on your cards total eleven, you will receive three times the amount of points."
 2218: 0x398A [0x23] WAIT_FOR_DIALOG_INTERACTION
 2219: 0x398B [0x03] ExtData[1]->WorkLocal[24] = 0*
@@ -4373,17 +4373,17 @@ SUBROUTINE_39AA:
 2261: 0x3A52 [0x03] Work_Zone_1700[29] = 0*
 2262: 0x3A57 [0x03] Work_Zone_1700[30] = ExtData[1]->WorkLocal[29]
 2263: 0x3A5C [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x3A6B
-2264: 0x3A64 [0x48] [System] [12318*]:
+2264: 0x3A64 [0x48] [System] [12319*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and draw%[/s] $& card[/s]!"
 2265: 0x3A67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2266: 0x3A68 [0x01] GOTO 0x3A89
 2267: 0x3A6B [0x02] IF !(ExtData[1]->WorkLocal[29] == 2*) GOTO 0x3A7A
-2268: 0x3A73 [0x48] [System] [12319*]:
+2268: 0x3A73 [0x48] [System] [12320*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and a [oo!/o"/o$]$10, then draw%[/s] $& card[/s]!"
 2269: 0x3A76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2270: 0x3A77 [0x01] GOTO 0x3A89
 2271: 0x3A7A [0x02] IF !(ExtData[1]->WorkLocal[29] == 3*) GOTO 0x3A89
-2272: 0x3A82 [0x48] [System] [12320*]:
+2272: 0x3A82 [0x48] [System] [12321*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11, then draw%[/s] $& card[/s]!"
 2273: 0x3A85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2274: 0x3A86 [0x01] GOTO 0x3A89
@@ -4431,17 +4431,17 @@ SUBROUTINE_3A8A:
 2312: 0x3B3E [0x03] Work_Zone_1700[29] = 1*
 2313: 0x3B43 [0x03] Work_Zone_1700[30] = ExtData[1]->WorkLocal[29]
 2314: 0x3B48 [0x02] IF !(ExtData[1]->WorkLocal[29] == 1*) GOTO 0x3B57
-2315: 0x3B50 [0x48] [System] [12318*]:
+2315: 0x3B50 [0x48] [System] [12319*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and draw%[/s] $& card[/s]!"
 2316: 0x3B53 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2317: 0x3B54 [0x01] GOTO 0x3B75
 2318: 0x3B57 [0x02] IF !(ExtData[1]->WorkLocal[29] == 2*) GOTO 0x3B66
-2319: 0x3B5F [0x48] [System] [12319*]:
+2319: 0x3B5F [0x48] [System] [12320*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9 and a [oo!/o"/o$]$10, then draw%[/s] $& card[/s]!"
 2320: 0x3B62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2321: 0x3B63 [0x01] GOTO 0x3B75
 2322: 0x3B66 [0x02] IF !(ExtData[1]->WorkLocal[29] == 3*) GOTO 0x3B75
-2323: 0x3B6E [0x48] [System] [12320*]:
+2323: 0x3B6E [0x48] [System] [12321*]:
     → "%[You/Olivaine] discard%[/s] a [oo!/o"/o$]$9, a [oo!/o"/o$]$10, and a [oo!/o"/o$]$11, then draw%[/s] $& card[/s]!"
 2324: 0x3B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2325: 0x3B72 [0x01] GOTO 0x3B75
@@ -4457,7 +4457,7 @@ SUBROUTINE_3B7B:
 SUBROUTINE_3B81:
 2330: 0x3B81 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x3BDD
 2331: 0x3B89 [0x1A] CALL_SUBROUTINE(address=0x3BDE)
-2332: 0x3B8C [0x24] CREATE_DIALOG(message_id=12314*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[36])
+2332: 0x3B8C [0x24] CREATE_DIALOG(message_id=12315*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[36])
     → "The following cards have been discarded. [Go back./[oo!/o"/o$]$19./[oo!/o"/o$]$20./[oo!/o"/o$]$21./[oo!/o"/o$]$22./[oo!/o"/o$]$23./[oo!/o"/o$]$24./[oo!/o"/o$]$25./[oo!/o"/o$]$26./[oo!/o"/o$]$27./[oo!/o"/o$]$28./[oo!/o"/o$]$29./[oo!/o"/o$]$30./[oo!/o"/o$]$31./[oo!/o"/o$]$ ./[oo!/o"/o$]$!./[oo!/o"/o$]$"./[oo!/o"/o$]$#./[oo!/o"/o$]$$.]"
 2333: 0x3B93 [0x25] WAIT_DIALOG_SELECT()
 2334: 0x3B94 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3BA2
@@ -4474,7 +4474,7 @@ SUBROUTINE_3BA2:
 2343: 0x3BC4 [0x9D] ExtData[1]->WorkLocal[56] = 0x47BE[ExtData[1]->WorkLocal[30]] // Read WORD
 2344: 0x3BCC [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[57]
 2345: 0x3BD1 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[56]
-2346: 0x3BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12315*)
+2346: 0x3BD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12316*)
     → "This card has already been dealt."
 2347: 0x3BD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2348: 0x3BDA [0x01] GOTO 0x3B81
@@ -4551,7 +4551,7 @@ SUBROUTINE_3CE1:
 2407: 0x3CEF [0x6E] Olivaine (ID: 17826156/0x0110016C) uses emote 6*
 2408: 0x3CF6 [0x99] Wait for Olivaine (ID: 17826156/0x0110016C) animation to complete
 2409: 0x3CFB [0x03] Work_Zone_1700[29] = 1*
-2410: 0x3D00 [0x48] [System] [12317*]:
+2410: 0x3D00 [0x48] [System] [12318*]:
     → "%[You have/Olivaine has] chosen not to trade in."
 2411: 0x3D03 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2412: 0x3D04 [0x99] Wait for Olivaine (ID: 17826156/0x0110016C) animation to complete
@@ -4587,7 +4587,7 @@ SUBROUTINE_3D56:
 2438: 0x3D82 [0x6E] Olivaine (ID: 17826156/0x0110016C) uses emote 6*
 2439: 0x3D89 [0x99] Wait for Olivaine (ID: 17826156/0x0110016C) animation to complete
 2440: 0x3D8E [0x03] Work_Zone_1700[29] = 1*
-2441: 0x3D93 [0x48] [System] [12317*]:
+2441: 0x3D93 [0x48] [System] [12318*]:
     → "%[You have/Olivaine has] chosen not to trade in."
 2442: 0x3D96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2443: 0x3D97 [0x99] Wait for Olivaine (ID: 17826156/0x0110016C) animation to complete
@@ -5164,7 +5164,7 @@ SUBROUTINE_47A7:
      0x0025 [0x03] ExtData[1]->WorkLocal[16] = Work_Zone[5]
      0x002A [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[15] (bits 0*-15*)
      0x0033 [0x41] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[14] (bits 0*-3*)
-     0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=12091*)
+     0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=12092*)
     → "What will you do, oh valued customer? Dare I suggest trading your medals for prizes?"
      0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0040 [0x05] ExtData[1]->WorkLocal[9] = 1
@@ -5176,7 +5176,7 @@ SUBROUTINE_47A7:
      0x0057 [0x1A] CALL_SUBROUTINE(address=0x0424)
      0x005A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
      0x005F [0x03] Work_Zone_1700[25] = 2*
-     0x0064 [0x24] CREATE_DIALOG(message_id=12033*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
+     0x0064 [0x24] CREATE_DIALOG(message_id=12034*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[0])
     → "Which do you desire? ([Obs. Frag./Corpuscles/MUM Medals]: $0) [None./$1. ($17 [fragments/cor./medals])/$2. ($18 [fragments/cor./medals])/$3. ($19 [fragments/cor./medals])/$4. ($20 [fragments/cor./medals])/$5. ($21 [fragments/cor./medals])/$6. ($22 [fragments/cor./medals])/$7. ($23 [fragments/cor./medals])/$8. ($24 [fragments/cor./medals])/$9. ($25 [fragments/cor./medals])/$10. ($26 [fragments/cor./medals])/$11. ($27 [fragments/cor./medals])/$12. ($28 [fragments/cor./medals])/$13. ($29 [fragments/cor./medals])/$14. ($30 [fragments/cor./medals])/$15. ($31 [fragments/cor./medals])/$16. ($ [fragments/cor./medals])/Previous page./Next page.]"
      0x006B [0x25] WAIT_DIALOG_SELECT()
      0x006C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007F
@@ -5227,7 +5227,7 @@ SUBROUTINE_47A7:
      0x0151 [0x03] Work_Zone_1700[3] = 11*
      0x0156 [0x03] Work_Zone_1700[4] = 12*
      0x015B [0x03] ExtData[1]->WorkLocal[1] = 1*
-     0x0160 [0x24] CREATE_DIALOG(message_id=12267*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+     0x0160 [0x24] CREATE_DIALOG(message_id=12268*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]"
      0x0167 [0x25] WAIT_DIALOG_SELECT()
      0x0168 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0173
@@ -5241,7 +5241,7 @@ SUBROUTINE_47A7:
      0x0192 [0x03] Work_Zone[6] = 99*
      0x0197 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=31*, target=ExtData[1]->WorkLocal[1], source=4294967295*)
      0x01A0 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
-     0x01A7 [0x24] CREATE_DIALOG(message_id=12267*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
+     0x01A7 [0x24] CREATE_DIALOG(message_id=12268*, default_option=1*, option_flags=ExtData[1]->WorkLocal[1])
     → "How many do you wish to receive? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12.]"
      0x01AE [0x25] WAIT_DIALOG_SELECT()
      0x01AF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BF
@@ -5276,20 +5276,20 @@ SUBROUTINE_47A7:
      0x0249 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
      0x024C [0x02] IF !(ExtData[1]->WorkLocal[31] == 1*) GOTO 0x0260
      0x0254 [0x03] Work_Zone_1700[25] = 2*
-     0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=12039*)
+     0x0259 [0x1D] PRINT_EVENT_MESSAGE(message_id=12040*)
     → "$1 can be redeemed for $2 [fragment/mweya plasm corpuscle/medal][/s]."
      0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x025D [0x01] GOTO 0x0273
      0x0260 [0x03] Work_Zone_1700[25] = 2*
      0x0265 [0x14] Work_Zone[4] *= ExtData[1]->WorkLocal[13]
      0x026A [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[13]
-     0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=12268*)
+     0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=12269*)
     → "You wish to purchase $3 $0$0 ? Then I shall require $2 [fragment/mweya plasm corpuscle/medal/bayld clump][/s]."
      0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0273 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
      0x0276 [0x03] Work_Zone_1700[25] = 2*
      0x027B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-     0x0280 [0x24] CREATE_DIALOG(message_id=12040*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
+     0x0280 [0x24] CREATE_DIALOG(message_id=12041*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
      0x0287 [0x25] WAIT_DIALOG_SELECT()
      0x0288 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CE
@@ -5443,14 +5443,14 @@ SUBROUTINE_47A7:
      0x214F [0x41] ExtData[1]->WorkLocal[19] = ExtData[1]->WorkLocal[15] (bits 0*-15*)
      0x2158 [0x41] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[14] (bits 0*-3*)
      0x2161 [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x2170
-     0x2169 [0x48] [System] [12228*]:
+     0x2169 [0x48] [System] [12229*]:
     → "Even pioneers like you seeking refuge in amusements can't escape the time's inevitable ticking. The last time you played this game, you were disqualified for exceeding the time limit."
      0x216C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x216D [0x01] GOTO 0x2183
      0x2170 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[30]
      0x2175 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[29]
      0x217A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
-     0x217F [0x48] [System] [12211*]:
+     0x217F [0x48] [System] [12212*]:
     → "It's judgment time! You were [a total of /a total of /]$1 second[/s] [early./late./off. In other words, perfectly on-target!] [It seems that the concept of time eludes you./Congratulations, you've temporarily mastered the forces of time!]"
      0x2182 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2183 [0x02] IF !(ExtData[1]->WorkLocal[24] == 0*) GOTO 0x21B5
@@ -5598,11 +5598,11 @@ SUBROUTINE_47A7:
      0x4B4C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x4B4D [0x1A] CALL_SUBROUTINE(address=0x4B66)
      0x4B50 [0x03] Work_Zone[2] = 2157*
-     0x4B55 [0x1D] PRINT_EVENT_MESSAGE(message_id=12363*)
+     0x4B55 [0x1D] PRINT_EVENT_MESSAGE(message_id=12364*)
     → "Excuse me, but I do not believe you have $6, do you?"
      0x4B58 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4B59 [0x03] Work_Zone[2] = 2157*
-     0x4B5E [0x1D] PRINT_EVENT_MESSAGE(message_id=12364*)
+     0x4B5E [0x1D] PRINT_EVENT_MESSAGE(message_id=12365*)
     → "Oh, that's too bad, because we would love for you to help us with the colonization effort. If you are willing, then by all means, speak with Brenton so he can outfit you with one."
      0x4B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4B62 [0x1A] CALL_SUBROUTINE(address=0x4C37)

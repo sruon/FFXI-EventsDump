@@ -25,21 +25,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D8F      |        7567 |
-|       1 | 0x1D90      |        7568 |
-|       2 | 0x1D99      |        7577 |
-|       3 | 0x1D9A      |        7578 |
-|       4 | 0x1DA3      |        7587 |
-|       5 | 0x1DA4      |        7588 |
+|       0 | 0x1D90      |        7568 |
+|       1 | 0x1D91      |        7569 |
+|       2 | 0x1D9A      |        7578 |
+|       3 | 0x1D9B      |        7579 |
+|       4 | 0x1DA4      |        7588 |
+|       5 | 0x1DA5      |        7589 |
 
 ## String References
 
-- **7567**: Ladies and gentlepeople, horrible and honorable! The Troupe Valeriano is proud to perform in a place as powerful and pleasantly peopled as this!
-- **7568**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
-- **7577**: Ladies and gentlefolk, welcome to the Troupe Valeriano show! We are enthused to be able to perform in a city of such wealth and fame as Bastok!
-- **7578**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
-- **7587**: Halfling philosophers and heroine beauties, welcome to the Troupe Valeriano show! And how gorgeous and green this fair town is!
-- **7588**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
+- **7568**: Ladies and gentlepeople, horrible and honorable! The Troupe Valeriano is proud to perform in a place as powerful and pleasantly peopled as this!
+- **7569**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
+- **7578**: Ladies and gentlefolk, welcome to the Troupe Valeriano show! We are enthused to be able to perform in a city of such wealth and fame as Bastok!
+- **7579**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
+- **7588**: Halfling philosophers and heroine beauties, welcome to the Troupe Valeriano show! And how gorgeous and green this fair town is!
+- **7589**: Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!
 
 ## Events
 
@@ -84,7 +84,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "Ladies and gentlepeople, horrible and honorable! The Troupe Valeriano is proud to perform in a place as powerful and pleasantly peopled as this!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -112,7 +112,7 @@
 #### Opcodes
 
 ```
-  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
+  0: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7569*)
     → "Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!"
   1: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -139,7 +139,7 @@
 #### Opcodes
 
 ```
-  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7577*)
+  0: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
     → "Ladies and gentlefolk, welcome to the Troupe Valeriano show! We are enthused to be able to perform in a city of such wealth and fame as Bastok!"
   1: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0015 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -167,7 +167,7 @@
 #### Opcodes
 
 ```
-  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7578*)
+  0: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7579*)
     → "Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!"
   1: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x001D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -194,7 +194,7 @@
 #### Opcodes
 
 ```
-  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7587*)
+  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
     → "Halfling philosophers and heroine beauties, welcome to the Troupe Valeriano show! And how gorgeous and green this fair town is!"
   1: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0025 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -222,7 +222,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7588*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=7589*)
     → "Welcome to the Troupe Valeriano. Valeriano, at your service! Have a laugh, then spend some cash! Treats and sweets from exotic lands!"
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

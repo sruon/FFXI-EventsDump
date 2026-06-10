@@ -93,12 +93,12 @@
 |      50 | 0xFFFEF70B  |  4294899467 |
 |      51 | 0x0599      |        1433 |
 |      52 | 0x0B8F      |        2959 |
-|      53 | 0x1D2D      |        7469 |
+|      53 | 0x1D2E      |        7470 |
 |      54 | 0x0001      |           1 |
 |      55 | 0x0000      |           0 |
 |      56 | 0x00C8      |         200 |
 |      57 | 0x003C      |          60 |
-|      58 | 0x1D2E      |        7470 |
+|      58 | 0x1D2F      |        7471 |
 |      59 | 0x40000000  |  1073741824 |
 |      60 | 0x0005      |           5 |
 |      61 | 0x0002      |           2 |
@@ -117,8 +117,8 @@
 
 ## String References
 
-- **7469**: Enter the tent? [Yes./No.]
-- **7470**: You search the tent.
+- **7470**: Enter the tent? [Yes./No.]
+- **7471**: You search the tent.
 
 ## Events
 
@@ -512,7 +512,7 @@
   3: 0x01C7 [0x00] END_REQSTACK()
 
 SUBROUTINE_01C8:
-  4: 0x01C8 [0x24] CREATE_DIALOG(message_id=7469*, default_option=1*, option_flags=0*)
+  4: 0x01C8 [0x24] CREATE_DIALOG(message_id=7470*, default_option=1*, option_flags=0*)
     → "Enter the tent? [Yes./No.]"
   5: 0x01CF [0x25] WAIT_DIALOG_SELECT()
   6: 0x01D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0209
@@ -521,7 +521,7 @@ SUBROUTINE_01C8:
   9: 0x01DB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  10: 0x01DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x01EE [0x1C] WAIT(60* ticks)
- 12: 0x01F1 [0x48] [System] [7470*]:
+ 12: 0x01F1 [0x48] [System] [7471*]:
     → "You search the tent."
  13: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]

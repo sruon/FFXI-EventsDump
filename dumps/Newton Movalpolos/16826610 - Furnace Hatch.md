@@ -22,8 +22,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x03B3      |         947 |
-|       1 | 0x1C55      |        7253 |
-|       2 | 0x1C56      |        7254 |
+|       1 | 0x1C56      |        7254 |
+|       2 | 0x1C57      |        7255 |
 |       3 | 0x001F      |          31 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00A0      |         160 |
@@ -31,8 +31,8 @@
 
 ## String References
 
-- **7253**: +++Zstay@back!++ ++++Zdanger!++++ +++Zvery@danger!+++ +Zno #!+
-- **7254**: Whatever that's supposed to mean...
+- **7254**: +++Zstay@back!++ ++++Zdanger!++++ +++Zvery@danger!+++ +Zno #!+
+- **7255**: Whatever that's supposed to mean...
 
 ## Events
 
@@ -80,10 +80,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x03] Work_Zone[2] = 947*
-  2: 0x0008 [0x48] [System] [7253*]:
+  2: 0x0008 [0x48] [System] [7254*]:
     → "+++Zstay@back!++ ++++Zdanger!++++ +++Zvery@danger!+++ +Zno #!+"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x48] [System] [7254*]:
+  4: 0x000C [0x48] [System] [7255*]:
     → "Whatever that's supposed to mean..."
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

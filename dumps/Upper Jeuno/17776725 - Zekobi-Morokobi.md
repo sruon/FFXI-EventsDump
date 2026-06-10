@@ -21,22 +21,22 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0003      |           3 |
-|       1 | 0x1A4A      |        6730 |
-|       2 | 0x1A4B      |        6731 |
-|       3 | 0x1A4C      |        6732 |
+|       1 | 0x1A4B      |        6731 |
+|       2 | 0x1A4C      |        6732 |
+|       3 | 0x1A4D      |        6733 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1A4D      |        6733 |
+|       5 | 0x1A4E      |        6734 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1A4E      |        6734 |
+|       7 | 0x1A4F      |        6735 |
 |       8 | 0x40000000  |  1073741824 |
 
 ## String References
 
-- **6730**: Step right this way to entaru your Rent-a-Roomie!
-- **6731**: Say, I can reserve a Rent-a-Roomie for you. All your stuff will be taken from your Moggie-Woggie House and brought here!
-- **6732**: Do you want to move to Jeuno? [Right away./Not now, thanks.]
-- **6733**: Very well. I've completed the necessary procedure-wedures! Make yourself at home in your home away from home! Hehehe!
-- **6734**: Oh, okay. Fine! Be that way!
+- **6731**: Step right this way to entaru your Rent-a-Roomie!
+- **6732**: Say, I can reserve a Rent-a-Roomie for you. All your stuff will be taken from your Moggie-Woggie House and brought here!
+- **6733**: Do you want to move to Jeuno? [Right away./Not now, thanks.]
+- **6734**: Very well. I've completed the necessary procedure-wedures! Make yourself at home in your home away from home! Hehehe!
+- **6735**: Oh, okay. Fine! Be that way!
 
 ## Events
 
@@ -91,25 +91,25 @@
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
   4: 0x000D [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x001C
-  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6730*)
+  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6731*)
     → "Step right this way to entaru your Rent-a-Roomie!"
   6: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0019 [0x01] GOTO 0x0051
-  8: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=6731*)
+  8: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=6732*)
     → "Say, I can reserve a Rent-a-Roomie for you. All your stuff will be taken from your Moggie-Woggie House and brought here!"
   9: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0020 [0x24] CREATE_DIALOG(message_id=6732*, default_option=0*, option_flags=0*)
+ 10: 0x0020 [0x24] CREATE_DIALOG(message_id=6733*, default_option=0*, option_flags=0*)
     → "Do you want to move to Jeuno? [Right away./Not now, thanks.]"
  11: 0x0027 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003D
  13: 0x0030 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=6733*)
+ 14: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=6734*)
     → "Very well. I've completed the necessary procedure-wedures! Make yourself at home in your home away from home! Hehehe!"
  15: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0035 [0x03] Work_Zone[1] = 0*
  17: 0x003A [0x01] GOTO 0x0051
  18: 0x003D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0051
- 19: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=6734*)
+ 19: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=6735*)
     → "Oh, okay. Fine! Be that way!"
  20: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0049 [0x03] Work_Zone[1] = 1073741824*

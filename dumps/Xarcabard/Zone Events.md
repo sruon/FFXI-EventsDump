@@ -115,9 +115,9 @@
 |      19 | 0x009D      |         157 |
 |      20 | 0x003C      |          60 |
 |      21 | 0x00E1      |         225 |
-|      22 | 0x1E3F      |        7743 |
+|      22 | 0x1E40      |        7744 |
 |      23 | 0x000A      |          10 |
-|      24 | 0x1E41      |        7745 |
+|      24 | 0x1E42      |        7746 |
 |      25 | 0x911ED     |      594413 |
 |      26 | 0xFFFC09BD  |  4294707645 |
 |      27 | 0x0110      |         272 |
@@ -288,8 +288,8 @@
 
 ## String References
 
-- **7743**: You bury the $3 in the snow. It will take some time for it to become purified.
-- **7745**: The $3 you buried has become purified! Something is engraved on the ring, but you cannot read it.
+- **7744**: You bury the $3 in the snow. It will take some time for it to become purified.
+- **7746**: The $3 you buried has become purified! Something is engraved on the ring, but you cannot read it.
 
 ## Events
 
@@ -482,7 +482,7 @@
  30: 0x0250 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [LocalPlayer, LocalPlayer]
  31: 0x025D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "t013" with entities [LocalPlayer, LocalPlayer], work=208*
  32: 0x026C [0x03] Work_Zone[2] = 225*
- 33: 0x0271 [0x48] [System] [7743*]:
+ 33: 0x0271 [0x48] [System] [7744*]:
     → "You bury the $3 in the snow. It will take some time for it to become purified."
  34: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0275 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -568,7 +568,7 @@
  29: 0x03CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
  30: 0x03DD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [LocalPlayer, LocalPlayer]
  31: 0x03EA [0x03] Work_Zone[2] = 225*
- 32: 0x03EF [0x48] [System] [7745*]:
+ 32: 0x03EF [0x48] [System] [7746*]:
     → "The $3 you buried has become purified! Something is engraved on the ring, but you cannot read it."
  33: 0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x03F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

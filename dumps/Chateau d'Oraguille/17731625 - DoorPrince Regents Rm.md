@@ -35,9 +35,9 @@
 |       1 | 0x00F2      |         242 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x001F      |          31 |
-|       4 | 0x1E81      |        7809 |
+|       4 | 0x1E82      |        7810 |
 |       5 | 0x00C8      |         200 |
-|       6 | 0x1E83      |        7811 |
+|       6 | 0x1E84      |        7812 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x07FF      |        2047 |
 |       9 | 0x0085      |         133 |
@@ -58,77 +58,77 @@
 |      24 | 0x001E      |          30 |
 |      25 | 0x007B      |         123 |
 |      26 | 0x00CE      |         206 |
-|      27 | 0x1D79      |        7545 |
-|      28 | 0x1D7A      |        7546 |
+|      27 | 0x1D7A      |        7546 |
+|      28 | 0x1D7B      |        7547 |
 |      29 | 0x0014      |          20 |
-|      30 | 0x1D7B      |        7547 |
-|      31 | 0x1D7C      |        7548 |
+|      30 | 0x1D7C      |        7548 |
+|      31 | 0x1D7D      |        7549 |
 |      32 | 0x01E0      |         480 |
-|      33 | 0x1D7D      |        7549 |
-|      34 | 0x1D7E      |        7550 |
-|      35 | 0x1D7F      |        7551 |
-|      36 | 0x1D80      |        7552 |
+|      33 | 0x1D7E      |        7550 |
+|      34 | 0x1D7F      |        7551 |
+|      35 | 0x1D80      |        7552 |
+|      36 | 0x1D81      |        7553 |
 |      37 | 0x0078      |         120 |
-|      38 | 0x1D81      |        7553 |
-|      39 | 0x1D82      |        7554 |
-|      40 | 0x1D83      |        7555 |
-|      41 | 0x1D84      |        7556 |
-|      42 | 0x1D85      |        7557 |
-|      43 | 0x1D86      |        7558 |
-|      44 | 0x1D87      |        7559 |
-|      45 | 0x1D88      |        7560 |
-|      46 | 0x1D89      |        7561 |
+|      38 | 0x1D82      |        7554 |
+|      39 | 0x1D83      |        7555 |
+|      40 | 0x1D84      |        7556 |
+|      41 | 0x1D85      |        7557 |
+|      42 | 0x1D86      |        7558 |
+|      43 | 0x1D87      |        7559 |
+|      44 | 0x1D88      |        7560 |
+|      45 | 0x1D89      |        7561 |
+|      46 | 0x1D8A      |        7562 |
 |      47 | 0x0079      |         121 |
-|      48 | 0x1D8A      |        7562 |
-|      49 | 0x1D8B      |        7563 |
-|      50 | 0x1D8C      |        7564 |
-|      51 | 0x1D8D      |        7565 |
-|      52 | 0x1D8E      |        7566 |
-|      53 | 0x1D8F      |        7567 |
-|      54 | 0x1D90      |        7568 |
-|      55 | 0x1D91      |        7569 |
-|      56 | 0x1D92      |        7570 |
-|      57 | 0x1D93      |        7571 |
-|      58 | 0x1D94      |        7572 |
-|      59 | 0x1D95      |        7573 |
+|      48 | 0x1D8B      |        7563 |
+|      49 | 0x1D8C      |        7564 |
+|      50 | 0x1D8D      |        7565 |
+|      51 | 0x1D8E      |        7566 |
+|      52 | 0x1D8F      |        7567 |
+|      53 | 0x1D90      |        7568 |
+|      54 | 0x1D91      |        7569 |
+|      55 | 0x1D92      |        7570 |
+|      56 | 0x1D93      |        7571 |
+|      57 | 0x1D94      |        7572 |
+|      58 | 0x1D95      |        7573 |
+|      59 | 0x1D96      |        7574 |
 |      60 | 0x009C      |         156 |
 |      61 | 0x044A      |        1098 |
 |      62 | 0x007F      |         127 |
-|      63 | 0x1D96      |        7574 |
+|      63 | 0x1D97      |        7575 |
 |      64 | 0x0064      |         100 |
-|      65 | 0x1D97      |        7575 |
-|      66 | 0x1D98      |        7576 |
-|      67 | 0x1D99      |        7577 |
+|      65 | 0x1D98      |        7576 |
+|      66 | 0x1D99      |        7577 |
+|      67 | 0x1D9A      |        7578 |
 |      68 | 0x00F0      |         240 |
-|      69 | 0x1D9A      |        7578 |
-|      70 | 0x1D9B      |        7579 |
-|      71 | 0x1D9C      |        7580 |
-|      72 | 0x1D9D      |        7581 |
-|      73 | 0x1D9E      |        7582 |
-|      74 | 0x1D9F      |        7583 |
-|      75 | 0x1DA0      |        7584 |
-|      76 | 0x1DA1      |        7585 |
-|      77 | 0x1DA2      |        7586 |
-|      78 | 0x1DA3      |        7587 |
-|      79 | 0x1DA4      |        7588 |
-|      80 | 0x1DA5      |        7589 |
-|      81 | 0x1DA6      |        7590 |
-|      82 | 0x1DA7      |        7591 |
-|      83 | 0x1DA8      |        7592 |
-|      84 | 0x1DA9      |        7593 |
-|      85 | 0x1DAA      |        7594 |
-|      86 | 0x1DAB      |        7595 |
-|      87 | 0x1DAC      |        7596 |
-|      88 | 0x1DAD      |        7597 |
-|      89 | 0x1DAE      |        7598 |
-|      90 | 0x1DAF      |        7599 |
-|      91 | 0x1DB0      |        7600 |
-|      92 | 0x1DB1      |        7601 |
-|      93 | 0x1DB2      |        7602 |
-|      94 | 0x1DB3      |        7603 |
-|      95 | 0x1DB4      |        7604 |
-|      96 | 0x1DB5      |        7605 |
-|      97 | 0x1DB6      |        7606 |
+|      69 | 0x1D9B      |        7579 |
+|      70 | 0x1D9C      |        7580 |
+|      71 | 0x1D9D      |        7581 |
+|      72 | 0x1D9E      |        7582 |
+|      73 | 0x1D9F      |        7583 |
+|      74 | 0x1DA0      |        7584 |
+|      75 | 0x1DA1      |        7585 |
+|      76 | 0x1DA2      |        7586 |
+|      77 | 0x1DA3      |        7587 |
+|      78 | 0x1DA4      |        7588 |
+|      79 | 0x1DA5      |        7589 |
+|      80 | 0x1DA6      |        7590 |
+|      81 | 0x1DA7      |        7591 |
+|      82 | 0x1DA8      |        7592 |
+|      83 | 0x1DA9      |        7593 |
+|      84 | 0x1DAA      |        7594 |
+|      85 | 0x1DAB      |        7595 |
+|      86 | 0x1DAC      |        7596 |
+|      87 | 0x1DAD      |        7597 |
+|      88 | 0x1DAE      |        7598 |
+|      89 | 0x1DAF      |        7599 |
+|      90 | 0x1DB0      |        7600 |
+|      91 | 0x1DB1      |        7601 |
+|      92 | 0x1DB2      |        7602 |
+|      93 | 0x1DB3      |        7603 |
+|      94 | 0x1DB4      |        7604 |
+|      95 | 0x1DB5      |        7605 |
+|      96 | 0x1DB6      |        7606 |
+|      97 | 0x1DB7      |        7607 |
 
 ## Events
 
@@ -215,7 +215,7 @@
   7: 0x0038 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nachou (ID: 17731612/0x010E901C) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x003D [0x4A] LocalPlayer looks at Nachou (ID: 17731612/0x010E901C)
   9: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sal2" with entities [Nachou (ID: 17731612/0x010E901C), Nachou (ID: 17731612/0x010E901C)], work=31*
- 10: 0x0055 [0x2B] Nachou (ID: 17731612/0x010E901C) [7809*]:
+ 10: 0x0055 [0x2B] Nachou (ID: 17731612/0x010E901C) [7810*]:
     → "Prince Pieuje has left with the expedition to Fei'Yin. I can only pray for his safety."
  11: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x005D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sal2" with entities [Nachou (ID: 17731612/0x010E901C), Nachou (ID: 17731612/0x010E901C)]
@@ -266,7 +266,7 @@
   7: 0x00CF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nachou (ID: 17731612/0x010E901C) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x00D4 [0x4A] LocalPlayer looks at Nachou (ID: 17731612/0x010E901C)
   9: 0x00DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sal2" with entities [Nachou (ID: 17731612/0x010E901C), Nachou (ID: 17731612/0x010E901C)], work=31*
- 10: 0x00EC [0x2B] Nachou (ID: 17731612/0x010E901C) [7811*]:
+ 10: 0x00EC [0x2B] Nachou (ID: 17731612/0x010E901C) [7812*]:
     → "Prince Pieuje has returned without injury and is awaiting your arrival in the Audience Chamber."
  11: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00F4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sal2" with entities [Nachou (ID: 17731612/0x010E901C), Nachou (ID: 17731612/0x010E901C)]
@@ -561,10 +561,10 @@
  18: 0x025A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x026B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  20: 0x027C [0x1C] WAIT(30* ticks)
- 21: 0x027F [0x2B] Pieuje (ID: 17731589/0x010E9005) [7545*]:
+ 21: 0x027F [0x2B] Pieuje (ID: 17731589/0x010E9005) [7546*]:
     → "What? My brother's wounds grow worse?"
  22: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0287 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7546*]:
+ 23: 0x0287 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7547*]:
     → "He lets no one see them, my lord, but there is no doubt. This is our chance!"
  24: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x028F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -573,13 +573,13 @@
  28: 0x02BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s025" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  29: 0x02CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  30: 0x02E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
- 31: 0x02EF [0x2B] Narcheral (ID: 17731646/0x010E903E) [7547*]:
+ 31: 0x02EF [0x2B] Narcheral (ID: 17731646/0x010E903E) [7548*]:
     → "Now that Prince Trion's wounds hinder him, you are free to achieve some great exploit, endearing yourself further to... Hmm?"
  32: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x02F7 [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
  34: 0x0300 [0x4A] Narcheral (ID: 17731646/0x010E903E) looks at LocalPlayer
  35: 0x0309 [0x79] Pieuje (ID: 17731589/0x010E9005) looks at LocalPlayer (Basic look)
- 36: 0x0313 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7548*]:
+ 36: 0x0313 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7549*]:
     → "Who's there!?"
  37: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x031B [0x4C] EventEntity->StatusEvent = 8 // Open door
@@ -591,26 +591,26 @@
  44: 0x0363 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  45: 0x0374 [0x79] LocalPlayer looks at Narcheral (ID: 17731646/0x010E903E) (Basic look)
  46: 0x037E [0x1C] WAIT(480* ticks)
- 47: 0x0381 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7549*]:
+ 47: 0x0381 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7550*]:
     → "Oh, it's our ally, the adventurer. Perfect timing, I must say."
  48: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0389 [0x4A] Narcheral (ID: 17731646/0x010E903E) looks at Pieuje (ID: 17731589/0x010E9005)
- 50: 0x0392 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7550*]:
+ 50: 0x0392 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7551*]:
     → "Prince Pieuje, <Player> ambushed the dark stalker on the west fringes of the Valkurm Dunes, and brought $7 to us."
  51: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x039A [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=206*
  53: 0x03A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  54: 0x03BA [0x79] Pieuje (ID: 17731589/0x010E9005) looks at Narcheral (ID: 17731646/0x010E903E) (Basic look)
- 55: 0x03C4 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7551*]:
+ 55: 0x03C4 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7552*]:
     → "$7? From the dark stalker? So, the legend is true!"
  56: 0x03CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x03CC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
- 58: 0x03DB [0x2B] Narcheral (ID: 17731646/0x010E903E) [7552*]:
+ 58: 0x03DB [0x2B] Narcheral (ID: 17731646/0x010E903E) [7553*]:
     → "Your knowledge is great, indeed, Prince Pieuje."
  59: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x03E3 [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
  61: 0x03EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
- 62: 0x03FB [0x2B] Pieuje (ID: 17731589/0x010E9005) [7553*]:
+ 62: 0x03FB [0x2B] Pieuje (ID: 17731589/0x010E9005) [7554*]:
     → "What plots are you spinning, Narcheral?"
  63: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0403 [0x50] END_SCHEDULER_TASK: End scheduler "tl" with entities [0x9005, 0x9005], work=[270, 270]
@@ -618,15 +618,15 @@
  66: 0x041F [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=206*
  67: 0x042E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  68: 0x043F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
- 69: 0x044E [0x2B] Narcheral (ID: 17731646/0x010E903E) [7554*]:
+ 69: 0x044E [0x2B] Narcheral (ID: 17731646/0x010E903E) [7555*]:
     → "It seems that the dark stalker spotted in Valkurm was a messenger in life."
  70: 0x0455 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0456 [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
- 72: 0x045F [0x2B] Narcheral (ID: 17731646/0x010E903E) [7555*]:
+ 72: 0x045F [0x2B] Narcheral (ID: 17731646/0x010E903E) [7556*]:
     → "The message it carried speaks of Tavnazians slain twenty years ago. They would rise from the grave to restore the Marquisate!"
  73: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0467 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ara0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
- 75: 0x0476 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7556*]:
+ 75: 0x0476 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7557*]:
     → "Impossible! How could the dead rally together?"
  76: 0x047D [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x047E [0x50] END_SCHEDULER_TASK: End scheduler "ar" with entities [0x9005, 0x9005], work=[270, 270]
@@ -638,45 +638,45 @@
  83: 0x04B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=206*
  84: 0x04C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  85: 0x04D3 [0x4A] LocalPlayer looks at Jeronne (ID: 17731647/0x010E903F)
- 86: 0x04DC [0x2B] Jeronne (ID: 17731647/0x010E903F) [7557*]:
+ 86: 0x04DC [0x2B] Jeronne (ID: 17731647/0x010E903F) [7558*]:
     → "It is true, Prince Pieuje."
  87: 0x04E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x04E4 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7558*]:
+ 88: 0x04E4 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7559*]:
     → "Who are you!?"
  89: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x04EC [0x2A] GET_REQ_LEVEL(level=10, entity_id=Jeronne (ID: 17731647/0x010E903F))
  91: 0x04F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Jeronne (ID: 17731647/0x010E903F), Jeronne (ID: 17731647/0x010E903F)], work=30*
- 92: 0x0501 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7559*]:
+ 92: 0x0501 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7560*]:
     → "Narcheral sent me on a search through Eldieme. I discovered that the dark stalkers were rallying."
  93: 0x0508 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0509 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7560*]:
+ 94: 0x0509 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7561*]:
     → "And I heard word that a great black shadow had crept beyond Ranguemont."
  95: 0x0510 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0511 [0x50] END_SCHEDULER_TASK: End scheduler "tl" with entities [0x903F, 0x903F], work=[270, 270]
  97: 0x051E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Jeronne (ID: 17731647/0x010E903F), Jeronne (ID: 17731647/0x010E903F)], work=30*
- 98: 0x052D [0x2B] Jeronne (ID: 17731647/0x010E903F) [7561*]:
+ 98: 0x052D [0x2B] Jeronne (ID: 17731647/0x010E903F) [7562*]:
     → "The messenger who witnessed it swore it was the lord of Tavnazia, Marquis Altedour."
  99: 0x0534 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0535 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=206*
 101: 0x0544 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
 102: 0x0555 [0x7B] Pieuje (ID: 17731589/0x010E9005) stops talking
 103: 0x055A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=121*
-104: 0x0569 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7562*]:
+104: 0x0569 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7563*]:
     → "No! Not Lord Altedour!"
 105: 0x0570 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0571 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-107: 0x0580 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7563*]:
+107: 0x0580 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7564*]:
     → "It was the Marquis, and at the same time, it was not! It was a presence that deceives the heart and brings fear upon our holy kingdom."
 108: 0x0587 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0588 [0x50] END_SCHEDULER_TASK: End scheduler "th" with entities [0x9005, 0x9005], work=[270, 270]
 110: 0x0595 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=121*
 111: 0x05A4 [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
 112: 0x05AD [0x79] Pieuje (ID: 17731589/0x010E9005) looks at Narcheral (ID: 17731646/0x010E903E) (Basic look)
-113: 0x05B7 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7564*]:
+113: 0x05B7 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7565*]:
     → "Silence, Narcheral! You dishonor the marquis!"
 114: 0x05BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x05BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-116: 0x05CE [0x2B] Narcheral (ID: 17731646/0x010E903E) [7565*]:
+116: 0x05CE [0x2B] Narcheral (ID: 17731646/0x010E903E) [7566*]:
     → "Forgive me, my lord. But, I fear we can avoid the threat no longer. I beg you gather troops!"
 117: 0x05D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x05D6 [0x50] END_SCHEDULER_TASK: End scheduler "th" with entities [0x903E, 0x903E], work=[270, 270]
@@ -696,35 +696,35 @@
 132: 0x0660 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
 133: 0x0671 [0x1C] WAIT(60* ticks)
 134: 0x0674 [0x79] LocalPlayer looks at Narcheral (ID: 17731646/0x010E903E) (Basic look)
-135: 0x067E [0x2B] Narcheral (ID: 17731646/0x010E903E) [7566*]:
+135: 0x067E [0x2B] Narcheral (ID: 17731646/0x010E903E) [7567*]:
     → "Jeronne, continue with the investigation. If news comes out of the Northlands, Prince Trion will surely hear."
 136: 0x0685 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0686 [0x6E] Jeronne (ID: 17731647/0x010E903F) uses emote 1*
 138: 0x068D [0x99] Wait for Jeronne (ID: 17731647/0x010E903F) animation to complete
-139: 0x0692 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7567*]:
+139: 0x0692 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7568*]:
     → "I understand."
 140: 0x0699 [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x069A [0x4A] Narcheral (ID: 17731646/0x010E903E) looks at LocalPlayer
-142: 0x06A3 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7568*]:
+142: 0x06A3 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7569*]:
     → "And I have something I wish to discuss with you. Soon we will need the services of an experienced white mage. Seek out a candidate."
 143: 0x06AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x06AB [0x2B] Narcheral (ID: 17731646/0x010E903E) [7569*]:
+144: 0x06AB [0x2B] Narcheral (ID: 17731646/0x010E903E) [7570*]:
     → "So that [he/she] may fight against the impure, we will accredit the wielder of holy powers by giving [him/her] an item blessed by Altana."
 145: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x06B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=206*
 147: 0x06C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
-148: 0x06D3 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7570*]:
+148: 0x06D3 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7571*]:
     → "[He/She] will have much to gain. Something unattainable elsewhere..."
 149: 0x06DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x06DB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-151: 0x06EA [0x2B] Narcheral (ID: 17731646/0x010E903E) [7571*]:
+151: 0x06EA [0x2B] Narcheral (ID: 17731646/0x010E903E) [7572*]:
     → "Find $6. It is said that the Yagudo of Zvahl and Oztroja use it to banish the fallen."
 152: 0x06F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x06F2 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7572*]:
+153: 0x06F2 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7573*]:
     → "I also require $5, so that I may make again what I plan on giving you."
 154: 0x06F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x06FA [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
-156: 0x0703 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7573*]:
+156: 0x0703 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7574*]:
     → "I shall give you the blessed item once you bring those two articles."
 157: 0x070A [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x070B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=60*)
@@ -857,20 +857,20 @@
  14: 0x07B0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x07C1 [0x38] SET_CLIENT_EVENT_MODE(mode=3*)
  16: 0x07C4 [0x1C] WAIT(30* ticks)
- 17: 0x07C7 [0x2B] Trion (ID: 17731587/0x010E9003) [7574*]:
+ 17: 0x07C7 [0x2B] Trion (ID: 17731587/0x010E9003) [7575*]:
     → "What foolishness is this? I have done nothing wrong!"
  18: 0x07CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x07CF [0x4C] EventEntity->StatusEvent = 8 // Open door
  20: 0x07D0 [0x79] LocalPlayer looks at Trion (ID: 17731587/0x010E9003) (Basic look)
  21: 0x07DA [0x27] REQ_SET(priority=0x0A, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x36)
  22: 0x07E1 [0x1C] WAIT(100* ticks)
- 23: 0x07E4 [0x2B] Trion (ID: 17731587/0x010E9003) [7575*]:
+ 23: 0x07E4 [0x2B] Trion (ID: 17731587/0x010E9003) [7576*]:
     → "Think of some way to defeat the beastmen, if you've time to worry over me!"
  24: 0x07EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x07EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ara0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
  26: 0x07FB [0x2A] GET_REQ_LEVEL(level=10, entity_id=Trion (ID: 17731587/0x010E9003))
  27: 0x0801 [0x27] REQ_SET(priority=0x0A, entity_id=Trion (ID: 17731587/0x010E9003), tag_num=0x37)
- 28: 0x0808 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7576*]:
+ 28: 0x0808 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7577*]:
     → "Brother!"
  29: 0x080F [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0810 [0x79] LocalPlayer looks at Pieuje (ID: 17731589/0x010E9005) (Basic look)
@@ -878,7 +878,7 @@
  32: 0x0827 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ara1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
  33: 0x0836 [0x1C] WAIT(90* ticks)
  34: 0x0839 [0x4A] Pieuje (ID: 17731589/0x010E9005) looks at LocalPlayer
- 35: 0x0842 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7577*]:
+ 35: 0x0842 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7578*]:
     → "Let me guess. Narcheral sent you to convince me, no?"
  36: 0x0849 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x084A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -888,10 +888,10 @@
  41: 0x0878 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  42: 0x0889 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  43: 0x089A [0x1C] WAIT(240* ticks)
- 44: 0x089D [0x2B] Pieuje (ID: 17731589/0x010E9005) [7578*]:
+ 44: 0x089D [0x2B] Pieuje (ID: 17731589/0x010E9005) [7579*]:
     → "Know you why Narcheral frets so?"
  45: 0x08A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x08A5 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7579*]:
+ 46: 0x08A5 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7580*]:
     → "It was twenty years ago that armies of the alliance offered the Marquisate of Tavnazia as bait. The enemy was given false word on where the leaders of Tavnazia would gather."
  47: 0x08AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x08AD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -899,13 +899,13 @@
  50: 0x08CD [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=206*
  51: 0x08DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  52: 0x08ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 53: 0x08FE [0x2B] Pieuje (ID: 17731589/0x010E9005) [7580*]:
+ 53: 0x08FE [0x2B] Pieuje (ID: 17731589/0x010E9005) [7581*]:
     → "As hordes of beastmen launched their assault, a daring company of volunteers struck the unguarded gates of the enemy."
  54: 0x0905 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0906 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7581*]:
+ 55: 0x0906 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7582*]:
     → "There they found and slew the Shadow Lord. But his horde reduced Tavnazia to ash and smoke."
  56: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x090E [0x2B] Pieuje (ID: 17731589/0x010E9005) [7582*]:
+ 57: 0x090E [0x2B] Pieuje (ID: 17731589/0x010E9005) [7583*]:
     → "In all likelihood, their lord, Marquis Altedour, never suspected betrayal from his stalwart allies."
  58: 0x0915 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0916 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -913,25 +913,25 @@
  61: 0x0936 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=206*
  62: 0x0945 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  63: 0x0956 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 64: 0x0967 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7583*]:
+ 64: 0x0967 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7584*]:
     → "The horde had come upon them at night. Valiantly he fought to defend his keep. In the end it fell, and he fled the city. Near the necropolis, though, they caught him!"
  65: 0x096E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x096F [0x2B] Pieuje (ID: 17731589/0x010E9005) [7584*]:
+ 66: 0x096F [0x2B] Pieuje (ID: 17731589/0x010E9005) [7585*]:
     → "Though he felled seven hundred of the enemy, there he met his end."
  67: 0x0976 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0977 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7585*]:
+ 68: 0x0977 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7586*]:
     → "The alliance sent troops to aid in the defense of Tavnazia, but none can deny that it brought ruin upon her."
  69: 0x097E [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x097F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=120*
- 71: 0x098E [0x2B] Pieuje (ID: 17731589/0x010E9005) [7586*]:
+ 71: 0x098E [0x2B] Pieuje (ID: 17731589/0x010E9005) [7587*]:
     → "Marquis Altedour is my... I... What am I to do?"
  72: 0x0995 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0996 [0x6B] STOP_AND_IDLE: Pieuje (ID: 17731589/0x010E9005) stops current action and resets to idle (animation="idl0")
- 74: 0x099F [0x2B] Narcheral (ID: 17731646/0x010E903E) [7587*]:
+ 74: 0x099F [0x2B] Narcheral (ID: 17731646/0x010E903E) [7588*]:
     → "Prince Pieuje, are you there?"
  75: 0x09A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x09A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=121*
- 77: 0x09B6 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7588*]:
+ 77: 0x09B6 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7589*]:
     → "Oh, Narcheral... Come in!"
  78: 0x09BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x09BE [0x4C] EventEntity->StatusEvent = 8 // Open door
@@ -943,28 +943,28 @@
  85: 0x09FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  86: 0x0A0C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  87: 0x0A1D [0x1C] WAIT(30* ticks)
- 88: 0x0A20 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7589*]:
+ 88: 0x0A20 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7590*]:
     → "Prince Pieuje! I just saw Prince Trion, and he seemed well!"
  89: 0x0A27 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0A28 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7590*]:
+ 90: 0x0A28 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7591*]:
     → "Yes... I'm sure he seems well to your eyes."
  91: 0x0A2F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x0A30 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7591*]:
+ 92: 0x0A30 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7592*]:
     → "Surely Prince Trion will learn of all this, my lord! We will lose this chance to strengthen the influence of our faith!"
  93: 0x0A37 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0A38 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7592*]:
+ 94: 0x0A38 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7593*]:
     → "You mean the cleansing of the damned, and offer them atonement by my hand?"
  95: 0x0A3F [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0A40 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=206*
  97: 0x0A4F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
  98: 0x0A60 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Narcheral (ID: 17731646/0x010E903E))
  99: 0x0A66 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-100: 0x0A75 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7593*]:
+100: 0x0A75 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7594*]:
     → "No, my lord! To rid ourselves of the threat of the dead! My lord, the heir to the throne of San d'Oria must not jest of atonement!"
 101: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0A7D [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")
 103: 0x0A86 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Pieuje (ID: 17731589/0x010E9005), Pieuje (ID: 17731589/0x010E9005)], work=121*
-104: 0x0A95 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7594*]:
+104: 0x0A95 [0x2B] Pieuje (ID: 17731589/0x010E9005) [7595*]:
     → "I am sorry. I have a plan. I will not allow my brother to deploy troops."
 105: 0x0A9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0A9D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -979,54 +979,54 @@
 115: 0x0B00 [0x4E] SET_ENTITY_HIDE_FLAG: Show Jeronne (ID: 17731647/0x010E903F)
 116: 0x0B06 [0x27] REQ_SET(priority=0x0A, entity_id=Jeronne (ID: 17731647/0x010E903F), tag_num=0x05)
 117: 0x0B0D [0x79] Jeronne (ID: 17731647/0x010E903F) looks at Narcheral (ID: 17731646/0x010E903E) (Basic look)
-118: 0x0B17 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7595*]:
+118: 0x0B17 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7596*]:
     → "Argh! If this goes on, all will be discovered! Chaos will consume San d'Oria--no, all of Vana'diel!"
 119: 0x0B1E [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x0B1F [0x2B] Jeronne (ID: 17731647/0x010E903F) [7596*]:
+120: 0x0B1F [0x2B] Jeronne (ID: 17731647/0x010E903F) [7597*]:
     → "Narcheral, I have news."
 121: 0x0B26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0B27 [0x4A] Narcheral (ID: 17731646/0x010E903E) looks at Jeronne (ID: 17731647/0x010E903F)
 123: 0x0B30 [0x79] LocalPlayer looks at Jeronne (ID: 17731647/0x010E903F) (Basic look)
 124: 0x0B3A [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=206*
 125: 0x0B49 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
-126: 0x0B5A [0x2B] Jeronne (ID: 17731647/0x010E903F) [7597*]:
+126: 0x0B5A [0x2B] Jeronne (ID: 17731647/0x010E903F) [7598*]:
     → "We received word that a dark stalker walks in the guise of Marquis Altedour towards Fei'Yin."
 127: 0x0B61 [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x0B62 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7598*]:
+128: 0x0B62 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7599*]:
     → "In that place festers also souls of nations beyond Tavnazia. Perhaps there he seeks an army..."
 129: 0x0B69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0B6A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-131: 0x0B79 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7599*]:
+131: 0x0B79 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7600*]:
     → "An army of the dead!? It is hard to believe, but we'd be fools not to."
 132: 0x0B80 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0B81 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Jeronne (ID: 17731647/0x010E903F), Jeronne (ID: 17731647/0x010E903F)], work=30*
-134: 0x0B90 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7600*]:
+134: 0x0B90 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7601*]:
     → "Great forces of the dead still rest in Eldieme. We have also discovered an item they all carry when they appear."
 135: 0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x0B98 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7601*]:
+136: 0x0B98 [0x2B] Jeronne (ID: 17731647/0x010E903F) [7602*]:
     → "We failed to obtain one, but they say it is called a $7."
 137: 0x0B9F [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0BA0 [0x6B] STOP_AND_IDLE: Jeronne (ID: 17731647/0x010E903F) stops current action and resets to idle (animation="idl0")
 139: 0x0BA9 [0x50] END_SCHEDULER_TASK: End scheduler "th" with entities [0x903E, 0x903E], work=[270, 270]
-140: 0x0BB6 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7602*]:
+140: 0x0BB6 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7603*]:
     → "Hmm... Perhaps it is a signal of some sort. Let us make use of it in our strategy once we have it."
 141: 0x0BBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0BBE [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=206*
 143: 0x0BCD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[206*, 0*]
-144: 0x0BDE [0x2B] Jeronne (ID: 17731647/0x010E903F) [7603*]:
+144: 0x0BDE [0x2B] Jeronne (ID: 17731647/0x010E903F) [7604*]:
     → "Well, then..."
 145: 0x0BE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0BE6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-147: 0x0BF5 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7604*]:
+147: 0x0BF5 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7605*]:
     → "Yes, we cannot wait for orders from the expeditionary forces. We shall send a cadre of worthy adventurers."
 148: 0x0BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0BFD [0x4A] Narcheral (ID: 17731646/0x010E903E) looks at LocalPlayer
-150: 0x0C06 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7605*]:
+150: 0x0C06 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7606*]:
     → "Make for Fei'Yin upon acquiring the $7 in Eldieme."
 151: 0x0C0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0C0E [0x4A] LocalPlayer looks at Narcheral (ID: 17731646/0x010E903E)
 153: 0x0C17 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Narcheral (ID: 17731646/0x010E903E), Narcheral (ID: 17731646/0x010E903E)], work=20*
-154: 0x0C26 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7606*]:
+154: 0x0C26 [0x2B] Narcheral (ID: 17731646/0x010E903E) [7607*]:
     → "Greater rewards await those who serve with distinction. May fortune favor you!"
 155: 0x0C2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0C2E [0x6B] STOP_AND_IDLE: Narcheral (ID: 17731646/0x010E903E) stops current action and resets to idle (animation="idl0")

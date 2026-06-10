@@ -23,20 +23,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1BCE      |        7118 |
-|       2 | 0x1BCF      |        7119 |
-|       3 | 0x1BD0      |        7120 |
+|       1 | 0x1BCF      |        7119 |
+|       2 | 0x1BD0      |        7120 |
+|       3 | 0x1BD1      |        7121 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1BD2      |        7122 |
-|       6 | 0x1BD3      |        7123 |
+|       5 | 0x1BD3      |        7123 |
+|       6 | 0x1BD4      |        7124 |
 
 ## String References
 
-- **7118**: Somebody just tried to smuggle in some contraband. You should watch out for scum like that.
-- **7119**: What could those smugglers be thinking? I know the penalties are light, but it's such a careless thing to do.
-- **7120**: If someone's in need, I'll gladly sign.
-- **7122**: The petition is complete.
-- **7123**: You have $0 more [signature/signatures] to go.
+- **7119**: Somebody just tried to smuggle in some contraband. You should watch out for scum like that.
+- **7120**: What could those smugglers be thinking? I know the penalties are light, but it's such a careless thing to do.
+- **7121**: If someone's in need, I'll gladly sign.
+- **7123**: The petition is complete.
+- **7124**: You have $0 more [signature/signatures] to go.
 
 ## Events
 
@@ -88,7 +88,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7118*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
     → "Somebody just tried to smuggle in some contraband. You should watch out for scum like that."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -124,7 +124,7 @@
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0040 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
+  4: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
     → "What could those smugglers be thinking? I know the penalties are light, but it's such a careless thing to do."
   5: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -161,16 +161,16 @@
   3: 0x0079 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x007A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x007B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
+  6: 0x008A [0x1D] PRINT_EVENT_MESSAGE(message_id=7121*)
     → "If someone's in need, I'll gladly sign."
   7: 0x008D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x008E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
   9: 0x0093 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00A2
- 10: 0x009B [0x48] [System] [7122*]:
+ 10: 0x009B [0x48] [System] [7123*]:
     → "The petition is complete."
  11: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x009F [0x01] GOTO 0x00A6
- 13: 0x00A2 [0x48] [System] [7123*]:
+ 13: 0x00A2 [0x48] [System] [7124*]:
     → "You have $0 more [signature/signatures] to go."
  14: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
