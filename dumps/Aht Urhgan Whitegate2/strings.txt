@@ -8572,7 +8572,7 @@
  8568: (We can go? What did you find out?)
  8569: (It looks like the ambassador and <Player> are going to travel to the ruins...)
  8570: (I wonder which part...?)
- 8571: (I-Im going to...!)
+ 8571: (I-I'm going to...!)
  8572: Did you understand my explanation? Because now Aydeewa Subterrane is our next destination.
  8573: Of course, there is no such option as "no." Gather your things and be ready to go.
  8574: (Maybe I'll follow them to the ruins...)

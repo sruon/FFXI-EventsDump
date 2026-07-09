@@ -8480,7 +8480,7 @@
  8476: How can you spend so much time in Adoulin and be completely oblivious to the famed Watergarden Coliseum in Rala Waterways? It's a place where pride is won and lost.
  8477: Since anyone can remember, the place has been used to settle disputes and feuds...sometimes even at the cost of precious lives.
  8478: But it isn't a place for barbarism. Strict rules have been put in place to keep all fights fair.
- 8479: That has kept the deaths to the minimum--but that doesn't mean some poeple don't come out with their tails between their legs.
+ 8479: That has kept the deaths to the minimum--but that doesn't mean some people don't come out with their tails between their legs.
  8480: But there's no point in heading down there. They don't just let any riffraff in to watch the fights.
  8481: The Peacekeepers' Coalition has better things to do than keep an eye on any fool who wants to watch blood be shed.
  8482: So don't think for one second that the guards will let you pass its gates.

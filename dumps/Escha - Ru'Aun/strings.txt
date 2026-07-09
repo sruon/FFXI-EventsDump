@@ -7804,7 +7804,7 @@
  7800: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
  7801: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
  7802: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
- 7803: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
+ 7803: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
  7804: The level of difficulty for this content is unknown.
  7805: Proffer which item? [None of these./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Previous page./Next page.]
  7806: Commence battle? [Yes./No.]

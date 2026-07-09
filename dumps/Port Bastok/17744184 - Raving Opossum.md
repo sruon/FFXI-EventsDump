@@ -5,9 +5,9 @@
 | Field            | Value                 |
 |------------------|-----------------------|
 | Zone             | Port Bastok (ID: 236) |
-| Block Size       | 1492 bytes            |
+| Block Size       | 1500 bytes            |
 | Total Events     | 2                     |
-| References Count | 60                    |
+| References Count | 62                    |
 
 ## List of Events
 
@@ -41,7 +41,7 @@
 |      18 | 0x342B      |       13355 |
 |      19 | 0x342A      |       13354 |
 |      20 | 0x0018      |          24 |
-|      21 | 0x001F      |          31 |
+|      21 | 0x0020      |          32 |
 |      22 | 0x3420      |       13344 |
 |      23 | 0x0011      |          17 |
 |      24 | 0x0012      |          18 |
@@ -49,37 +49,39 @@
 |      26 | 0x3421      |       13345 |
 |      27 | 0x3423      |       13347 |
 |      28 | 0x0028      |          40 |
-|      29 | 0x001A      |          26 |
-|      30 | 0xFFFFFFFF  |  4294967295 |
-|      31 | 0x09A4      |        2468 |
-|      32 | 0x09A6      |        2470 |
-|      33 | 0x09A5      |        2469 |
-|      34 | 0x09A7      |        2471 |
-|      35 | 0x09A8      |        2472 |
-|      36 | 0x09A9      |        2473 |
-|      37 | 0x09AA      |        2474 |
-|      38 | 0x09AB      |        2475 |
-|      39 | 0x09AC      |        2476 |
-|      40 | 0x09F1      |        2545 |
-|      41 | 0x09F2      |        2546 |
-|      42 | 0x09FC      |        2556 |
-|      43 | 0x09FD      |        2557 |
-|      44 | 0x0A23      |        2595 |
-|      45 | 0x0A3B      |        2619 |
-|      46 | 0x0B6B      |        2923 |
-|      47 | 0x0B6C      |        2924 |
-|      48 | 0x0B6D      |        2925 |
-|      49 | 0x0BAB      |        2987 |
-|      50 | 0x0BAC      |        2988 |
-|      51 | 0x0C71      |        3185 |
-|      52 | 0x0C72      |        3186 |
-|      53 | 0x0C73      |        3187 |
-|      54 | 0x0C74      |        3188 |
-|      55 | 0x0CBD      |        3261 |
-|      56 | 0x0D1C      |        3356 |
-|      57 | 0x000A      |          10 |
-|      58 | 0x0014      |          20 |
-|      59 | 0x001E      |          30 |
+|      29 | 0x001B      |          27 |
+|      30 | 0x001F      |          31 |
+|      31 | 0xFFFFFFFF  |  4294967295 |
+|      32 | 0x09A4      |        2468 |
+|      33 | 0x09A6      |        2470 |
+|      34 | 0x09A5      |        2469 |
+|      35 | 0x09A7      |        2471 |
+|      36 | 0x09A8      |        2472 |
+|      37 | 0x09A9      |        2473 |
+|      38 | 0x09AA      |        2474 |
+|      39 | 0x09AB      |        2475 |
+|      40 | 0x09AC      |        2476 |
+|      41 | 0x09F1      |        2545 |
+|      42 | 0x09F2      |        2546 |
+|      43 | 0x09FC      |        2556 |
+|      44 | 0x09FD      |        2557 |
+|      45 | 0x0A23      |        2595 |
+|      46 | 0x0A3B      |        2619 |
+|      47 | 0x0B6B      |        2923 |
+|      48 | 0x0B6C      |        2924 |
+|      49 | 0x0B6D      |        2925 |
+|      50 | 0x0BAB      |        2987 |
+|      51 | 0x0BAC      |        2988 |
+|      52 | 0x0C71      |        3185 |
+|      53 | 0x0C72      |        3186 |
+|      54 | 0x0C73      |        3187 |
+|      55 | 0x0C74      |        3188 |
+|      56 | 0x0CBD      |        3261 |
+|      57 | 0x0D1C      |        3356 |
+|      58 | 0x0D35      |        3381 |
+|      59 | 0x000A      |          10 |
+|      60 | 0x0014      |          20 |
+|      61 | 0x001E      |          30 |
 
 ## String References
 
@@ -96,7 +98,7 @@
 - **13351**: Be not so cavalier to think that your success is assured, however. Those with no heart show no mercy. Challenge them without just resolve, and your bout will surely end in failure.
 - **13352**: Contained within are the annals of your encounters with the world's most vicious foes.
 - **13353**: Current accomplishments: [My business here is finished./$26Ark Angel 1. ([Unfinished/Conquered/Honors])/$26Ark Angel 2. ([Unfinished/Conquered/Honors])/$26Ark Angel 3. ([Unfinished/Conquered/Honors])/$26Ark Angel 4. ([Unfinished/Conquered/Honors])/$26Ark Angel 5. ([Unfinished/Conquered/Honors])/$26Divine Might. ([Unfinished/Conquered/Honors])/$26R. to Delkfutt's Tower. ([Unfinished/Conquered/Honors])/$26Celestial Nexus. ([Unfinished/Conquered/Honors])/$26The Savage. ([Unfinished/Conquered/Honors])/$26The Warrior's Path. ([Unfinished/Conquered/Honors])/$26Puppet in Peril. ([Unfinished/Conquered/Honors])/$26Legacy of the Lost. ([Unfinished/Conquered/Honors])/$26The Shadow Lord Battle. ([Unfinished/Conquered/Honors])/$26Head Wind. ([Unfinished/Conquered/Honors])/$26Trial by Fire. ([Unfinished/Conquered/Honors])/$26Trial by Ice. ([Unfinished/Conquered/Honors])/$26Trial by Wind. ([Unfinished/Conquered/Honors])/$26Trial by Earth. ([Unfinished/Conquered/Honors])/$26Trial by Lightning. ([Unfinished/Conquered/Honors])/$26Trial by Water. ([Unfinished/Conquered/Honors])/$26The Moonlit Path. ([Unfinished/Conquered/Honors])/$26Waking the Beast. ([Unfinished/Conquered/Honors])/$26Waking Dreams. ([Unfinished/Conquered/Honors])/$26One to Be Feared. ([Unfinished/Conquered/Honors])/$26Dawn. ([Unfinished/Conquered/Honors])]
-- **13354**: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]
+- **13354**: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])/$26Ode of Life Bestowing. ( [Unfinished/Conquered/Honors])]
 - **13355**: Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist].
 
 ## Events
@@ -195,8 +197,8 @@
 0380: 13 00 19 80 3E 07 00 11  00 9B 03 9D 00 8A 04 12  ....>...........
 0390: 00 11 00 9D 05 FA 03 12  00 13 00 0B 0E 00 01 68  ...............h
 03A0: 03 1B 03 03 00 07 00 02  0C 00 00 80 00 B4 03 11  ................
-03B0: 03 00 19 80 40 19 80 15  80 03 00 09 80 0F 03 00  ....@...........
-03C0: 1E 80 10 03 00 00 80 02  0C 00 09 80 80 E0 03 3C  ...............<
+03B0: 03 00 19 80 40 19 80 1E  80 03 00 09 80 0F 03 00  ....@...........
+03C0: 1F 80 10 03 00 00 80 02  0C 00 09 80 80 E0 03 3C  ...............<
 03D0: 03 00 17 80 00 80 3D 03  00 18 80 00 80 01 F9 03  ......=.........
 03E0: 02 0C 00 00 80 80 F9 03  3D 03 00 17 80 00 80 3C  ........=......<
 03F0: 03 00 18 80 00 80 01 F9  03 1B 03 10 04 10 05 10  ................
@@ -204,14 +206,14 @@
 0410: 04 17 05 17 06 17 07 17  08 17 09 17 0A 17 0B 17  ................
 0420: 0C 17 0D 17 0E 17 0F 17  10 17 11 17 12 17 13 17  ................
 0430: 14 17 15 17 16 17 17 17  18 17 19 17 1A 17 1B 17  ................
-0440: 1C 17 1D 17 1E 17 1F 17  02 10 1F 80 20 80 21 80  ............ .!.
-0450: 22 80 23 80 24 80 25 80  26 80 27 80 28 80 29 80  ".#.$.%.&.'.(.).
-0460: 2A 80 2B 80 2C 80 2D 80  2E 80 2F 80 30 80 31 80  *.+.,.-.../.0.1.
-0470: 32 80 33 80 34 80 35 80  36 80 37 80 38 80 09 80  2.3.4.5.6.7.8...
-0480: 09 80 09 80 09 80 09 80  09 80 39 80 39 80 39 80  ..........9.9.9.
-0490: 0C 80 0C 80 0C 80 0C 80  0C 80 3A 80 39 80 39 80  ..........:.9.9.
-04A0: 39 80 39 80 39 80 39 80  39 80 39 80 39 80 39 80  9.9.9.9.9.9.9.9.
-04B0: 39 80 39 80 39 80 39 80  39 80 3B 80 3B 80 09 80  9.9.9.9.9.;.;...
+0440: 1C 17 1D 17 1E 17 1F 17  02 10 20 80 21 80 22 80  .......... .!.".
+0450: 23 80 24 80 25 80 26 80  27 80 28 80 29 80 2A 80  #.$.%.&.'.(.).*.
+0460: 2B 80 2C 80 2D 80 2E 80  2F 80 30 80 31 80 32 80  +.,.-.../.0.1.2.
+0470: 33 80 34 80 35 80 36 80  37 80 38 80 39 80 3A 80  3.4.5.6.7.8.9.:.
+0480: 09 80 09 80 09 80 09 80  09 80 3B 80 3B 80 3B 80  ..........;.;.;.
+0490: 0C 80 0C 80 0C 80 0C 80  0C 80 3C 80 3B 80 3B 80  ..........<.;.;.
+04A0: 3B 80 3B 80 3B 80 3B 80  3B 80 3B 80 3B 80 3B 80  ;.;.;.;.;.;.;.;.
+04B0: 3B 80 3B 80 3B 80 3B 80  3B 80 3B 80 3B 80 3D 80  ;.;.;.;.;.;.;.=.
 04C0: 09 80 09 80 09 80 09 80  09 80                    ..........      
 ```
 
@@ -332,7 +334,7 @@ SUBROUTINE_0142:
  83: 0x014C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0195
  84: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0196)
  85: 0x0157 [0x24] CREATE_DIALOG(message_id=13354*, default_option=ExtData[1]->WorkLocal[5], option_flags=0*)
-    → "Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]"
+    → "Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])/$26Ode of Life Bestowing. ( [Unfinished/Conquered/Honors])]"
  86: 0x015E [0x25] WAIT_DIALOG_SELECT()
  87: 0x015F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x016D
  88: 0x0167 [0x05] ExtData[1]->WorkLocal[2] = 1
@@ -355,7 +357,7 @@ SUBROUTINE_0196:
 100: 0x0199 [0x06] ExtData[1]->WorkLocal[14] = 0
 
 SUBROUTINE_019C:
-101: 0x019C [0x02] IF !(ExtData[1]->WorkLocal[14] >= 31*) GOTO 0x01D6
+101: 0x019C [0x02] IF !(ExtData[1]->WorkLocal[14] >= 32*) GOTO 0x01D6
 102: 0x01A4 [0x3E] IF !(ExtData[1]->WorkLocal[9] bit ExtData[1]->WorkLocal[14]) GOTO 0x01C8
 103: 0x01AB [0x3E] IF !(ExtData[1]->WorkLocal[10] bit ExtData[1]->WorkLocal[14]) GOTO 0x01BD
 104: 0x01B2 [0x9D] 0x03FA[ExtData[1]->WorkLocal[14] * 2] = 2* // Write WORD
@@ -463,7 +465,7 @@ SUBROUTINE_0301:
 179: 0x0311 [0x03] ExtData[1]->WorkLocal[16] = 0*
 180: 0x0316 [0x01] GOTO 0x0333
 181: 0x0319 [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x0333
-182: 0x0321 [0x03] ExtData[1]->WorkLocal[15] = 26*
+182: 0x0321 [0x03] ExtData[1]->WorkLocal[15] = 27*
 183: 0x0326 [0x08] ExtData[1]->WorkLocal[15] -= 16*
 184: 0x032B [0x03] ExtData[1]->WorkLocal[16] = 16*
 185: 0x0330 [0x01] GOTO 0x0333
@@ -524,12 +526,12 @@ SUBROUTINE_03F9:
      0x041A: 09 17 0A 17 0B 17 0C 17 0D 17 0E 17 0F 17 10 17
      0x042A: 11 17 12 17 13 17 14 17 15 17 16 17 17 17 18 17
      0x043A: 19 17 1A 17 1B 17 1C 17 1D 17 1E 17 1F 17 02 10
-     0x044A: 1F 80 20 80 21 80 22 80 23 80 24 80 25 80 26 80
-     0x045A: 27 80 28 80 29 80 2A 80 2B 80 2C 80 2D 80 2E 80
-     0x046A: 2F 80 30 80 31 80 32 80 33 80 34 80 35 80 36 80
-     0x047A: 37 80 38 80 09 80 09 80 09 80 09 80 09 80 09 80
-     0x048A: 39 80 39 80 39 80 0C 80 0C 80 0C 80 0C 80 0C 80
-     0x049A: 3A 80 39 80 39 80 39 80 39 80 39 80 39 80 39 80
-     0x04AA: 39 80 39 80 39 80 39 80 39 80 39 80 39 80 39 80
-     0x04BA: 3B 80 3B 80 09 80 09 80 09 80 09 80 09 80 09 80
+     0x044A: 20 80 21 80 22 80 23 80 24 80 25 80 26 80 27 80
+     0x045A: 28 80 29 80 2A 80 2B 80 2C 80 2D 80 2E 80 2F 80
+     0x046A: 30 80 31 80 32 80 33 80 34 80 35 80 36 80 37 80
+     0x047A: 38 80 39 80 3A 80 09 80 09 80 09 80 09 80 09 80
+     0x048A: 3B 80 3B 80 3B 80 0C 80 0C 80 0C 80 0C 80 0C 80
+     0x049A: 3C 80 3B 80 3B 80 3B 80 3B 80 3B 80 3B 80 3B 80
+     0x04AA: 3B 80 3B 80 3B 80 3B 80 3B 80 3B 80 3B 80 3B 80
+     0x04BA: 3B 80 3B 80 3D 80 09 80 09 80 09 80 09 80 09 80
 ```

@@ -147,8 +147,8 @@
 - **7564**: % throws a cute smile in your direction.
 - **7568**: And $0 point[/s]'ll get ya...well, I can't give ya any details on that prize either. And I definitely can't tell ya what you might get with $1 point[/s]. I've gotta keep things interesting, ya know?
 - **7570**: What's more, this year $0 point[/s]'ll earn ya a stellar surprise! That's all I can tell ya, but ya have my guarantee that it'll bring rip-roarin' good times to any lucky [feller/lady] who wins it!
-- **7571**: And what is this!? For $0 you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-- **7572**: 3gI1jb$6423146A=g$4457013H\`B
+- **7571**: And what is this!? For $0 points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+- **7572**: And then there's this. $1 for $0 points. If they're out of stock, come back tomorrow.
 
 ## Events
 

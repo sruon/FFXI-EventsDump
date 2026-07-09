@@ -275,7 +275,7 @@
 - **7800**: What will you verify? [Nothing for now./Notorious monsters defeated./Victory tallies.]
 - **7801**: Monsters Defeated in Escha - Ru'Aun. [Go back./Bia. [/y$26z]/Ruea. [/y$26$77659y$26z]/Khon. [/y$26z]/Met. [/y$26z]/Khun. [/y$26z]/Wasserspeier. [/y$26z]/Emputa. [/y$26z]/Peirithoos. [/y$26z]/Asida. [/y$26z]/Tenodera. [/y$26z]/Sava Savanovic. [/y$26z]/Palila. [/y$26z]/Hanbi. [/y$26z]/Yilan. [/y$26z]/Amymone. [/y$26z]/Naphula. [/y$26z]/Kammavaca. [/y$26z]/Pakecet. [/y$26z]/Duke Vepar. [/y$26z]/Vir'ava. [/y$26z]/Next page.]
 - **7802**: Monsters Defeated in Escha - Ru'Aun. [Go back./Byakko. [/y$26z]/Genbu. [/y$26z]/Seiryu. [/y$26z]/Suzaku. [/y$26z]/Kirin. [/y$26z]/Ark Angel HM. [/y$26z]/Ark Angel TT. [/y$26z]/Ark Angel MR. [/y$26z]/Ark Angel EV. [/y$26z]/Ark Angel GK. [/y$26z]/Warder of Courage. [/y$26z]/Previous page.]
-- **7803**: Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
+- **7803**: Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]
 
 ## Events
 
@@ -641,7 +641,7 @@ SUBROUTINE_014C:
  73: 0x0154 [0x1A] CALL_SUBROUTINE(address=0x0344)
  74: 0x0157 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
  75: 0x015C [0x24] CREATE_DIALOG(message_id=7803*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[11])
-    → "Escha and Reiseinjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]"
+    → "Escha and Reisenjima Victory Tallies: [Go back./Monsters defeated: $1./Notorious monsters defeated: $2./Defeated Naga Raja $3 time[/s]./Defeated Mireu $5 time[/s].]"
  76: 0x0163 [0x25] WAIT_DIALOG_SELECT()
  77: 0x0164 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0172
  78: 0x016C [0x05] ExtData[1]->WorkLocal[9] = 1

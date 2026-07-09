@@ -1,5 +1,5 @@
 # Strings for Port Bastok
-# Total: 14215 strings
+# Total: 14218 strings
 
     0: A mog tablet has been discovered in [West Ronfaure/East Ronfaure/the La Theine Plateau/the Valkurm Dunes/Jugner Forest/the Batallia Downs/North Gustaberg/South Gustaberg/the Konschtat Highlands/the Pashhow Marshlands/the Rolanberry Fields/Beaucedine Glacier/Xarcabard/West Sarutabaruta/East Sarutabaruta/the Tahrongi Canyon/the Buburimu Peninsula/the Meriphataud Mountains/the Sauromugue Champaign/Qufim Island/Behemoth's Dominion/Cape Teriggan/the Eastern Altepa Desert/the Sanctuary of Zi'Tah/Ro'Maeve/the Yuhtunga Jungle/the Yhoator Jungle/the Western Altepa Desert/the Valley of Sorrows]!
     1: The complete set of mog tablets has been restored to Ru'Lude Gardens! The ancient magic of King Kupofried permeates the air to instill adventurers in this area with its Super Kupowers!
@@ -13355,864 +13355,867 @@
 13351: Be not so cavalier to think that your success is assured, however. Those with no heart show no mercy. Challenge them without just resolve, and your bout will surely end in failure.
 13352: Contained within are the annals of your encounters with the world's most vicious foes.
 13353: Current accomplishments: [My business here is finished./$26Ark Angel 1. ([Unfinished/Conquered/Honors])/$26Ark Angel 2. ([Unfinished/Conquered/Honors])/$26Ark Angel 3. ([Unfinished/Conquered/Honors])/$26Ark Angel 4. ([Unfinished/Conquered/Honors])/$26Ark Angel 5. ([Unfinished/Conquered/Honors])/$26Divine Might. ([Unfinished/Conquered/Honors])/$26R. to Delkfutt's Tower. ([Unfinished/Conquered/Honors])/$26Celestial Nexus. ([Unfinished/Conquered/Honors])/$26The Savage. ([Unfinished/Conquered/Honors])/$26The Warrior's Path. ([Unfinished/Conquered/Honors])/$26Puppet in Peril. ([Unfinished/Conquered/Honors])/$26Legacy of the Lost. ([Unfinished/Conquered/Honors])/$26The Shadow Lord Battle. ([Unfinished/Conquered/Honors])/$26Head Wind. ([Unfinished/Conquered/Honors])/$26Trial by Fire. ([Unfinished/Conquered/Honors])/$26Trial by Ice. ([Unfinished/Conquered/Honors])/$26Trial by Wind. ([Unfinished/Conquered/Honors])/$26Trial by Earth. ([Unfinished/Conquered/Honors])/$26Trial by Lightning. ([Unfinished/Conquered/Honors])/$26Trial by Water. ([Unfinished/Conquered/Honors])/$26The Moonlit Path. ([Unfinished/Conquered/Honors])/$26Waking the Beast. ([Unfinished/Conquered/Honors])/$26Waking Dreams. ([Unfinished/Conquered/Honors])/$26One to Be Feared. ([Unfinished/Conquered/Honors])/$26Dawn. ([Unfinished/Conquered/Honors])]
-13354: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])]
+13354: Current accomplishments: [My business here is finished./$26A Stygian Pact. ([Unfinished/Conquered/Honors])/$26Champion of the Dawn. ([Unfinished/Conquered/Honors])/$26Divine Interference. ([Unfinished/Conquered/Honors])/$26Maiden of the Dusk. ([Unfinished/Conquered/Honors])/$26The Wyrm God. ([Unfinished/Conquered/Honors])/$26The Orb's Radiance. ([Unfinished/Conquered/Honors])/$26Ode of Life Bestowing. ( [Unfinished/Conquered/Honors])]
 13355: Hmph. It seems you [are hardly fit to be disemboweled by these fiends, so superior are they to you/can hold your own against these colossi of combat/have transcended even these ferocities and reign over all with an iron fist].
 13356: $'
-13357: Why, hello there! My tremendous task is to tabulate your precious points for the login campaign and exchange them for pleasing prizes, kupo!
-13358: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
-13359: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
-13360: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
-13361: You can trade them for incredible items to assist you with your adventures!
-13362: You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!
-13363: You can trade in these tokens for our gratuitous gifts any time during this campaign!
-13364: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
-13365: Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!
-13366: Any additional points will be summarily seized, kupo!
-13367: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
-13368: $22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]
-13369: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
-13370: How many would you like, kupo?
-13371: Altana above! You do not possess the prerequisite number of points!
-13372: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
-13373: Wait one short second while I get your goods!
-13374: Something went wrong, kupo! Try again later.
-13375: Hey, you--able adventurer! Cast your gaze on the countenance of this misbegotten mutant.
-13376: Glance at the good-natured glimmer in his eyes!
-13377: Take in his tiny teeth scintillating in the sunlight, kupo!
-13378: You mean...you're familiar with its furry form?
-13379: Oh hush, hustler. Listen to the lowdown before you loosen your lips.
-13380: Remember the gristly green gobs who came before? Now its mauve and maroon mates have come to wreak wrongdoings upon our realm!
-13381: At least, I suppose so. They haven't lifted a limb of late, so maybe there should be nothing nagging at my noggin after all...
-13382: Let me tell you a troubled tale. Not long ago, some grisly green gobs came to Vana'diel, and we amassed a fabulous fortune crafting countless curios in their likeness.
-13383: But there was an--inconsequential?--issue with them consuming crystals like crunchy candies.
-13384: Thanks to hardy heroes and moogle magic, we turned them into cerulean stone shards and sent them scurrying home, kupo.
-13385: But we gave the victors great gifts resembling those rowdy ruffians, so our profits plummeted and we had to cancel our tropical travel plans...
-13386: But the past is in the past. We must make the most of the moment!
-13387: And so! With the multicolored monsters now manifesting themselves, we found our next best chance!
-13388: They haven't lifted a limb of late, so maybe there's nothing to knock my noggin over...
-13389: Thus, we have an ostensibly outstanding opportunity to manufacture new knickknacks, kupo!
-13390: Part of the proceeds will be diverted to do up dilapidated Mog Houses, with the rest funding our jovial jaunts!
-13391: Kupopopo! How magnificently marvelous!
-13392: You can't discern the difference between the dimensional delegates?
-13393: Give them a good glance!
-13394: I guess their terrible teeth and enchanting eyes do look alike...
-13395: But the metal in their mitts and trinkets on their waists! Those are different, kupo!
-13396: Wonderful! We can cut down on costs and rake in the revenue! Vivacious vacations for all!
-13397: A-ah! Forget my frivolous fettering.
-13398: But if we captured the cerulean creatures before, then how did they surreptitiously scuttle back?
-13399: Undeniably unimportant. What matters most is the moment!
-13400: Oh ho? A covert communique from my cohort in charge of the stone shard storage.
-13401: Yes? Mm hmm... Mm hmm...
-13402: Altana kupo it all!
-13403: The ones we previously petrified have escaped, and they're traipsing outside town!
-13404: Then again, the clock was ticking on the enchantment expiring.
-13405: ...And now a nuanced notification from outside town? Oh, dear.
-13406: Th-then it's true, kupo!
-13407: Great gasping Goblins! Those furry freaks are capturing crystals again!
-13408: And their bespeckled brethren are helping, kupo!
-13409: If they succeed in pilfering our precious prizes, Vana'diel will descend into a desolate decay!
-13410: And worse, snafu will surely stain the M.H.M.U.'s resplendent reputation!
-13411: Most excellent explorer, please travel outside town and round up these recidivist reprobates!
-13412: A mixture of moogle magic will enable you to ensconce the evildoers by subjugating them into stone shards.
-13413: Of course, I'll reward your righteousness with the requisite remuneration, kupo.
-13414: But since we have such a short supply of stuff, I have to let Lady Luck look upon you with...a lottery!
-13415: The most prestigious prizes are awarded in the order of mauve, vermilion, and chartruese stone shards.
-13416: The goods we've gathered can be chosen from a long list that lengthens depending on your success.
-13417: Simply stated, if you procure first prize, you can select spoils from lower levels should you deign to do so. And so on.
-13418: This is a dire dilemma, so I shall send you off to the outskirts immediately. Are you ready, kupo?
-13419: Be teleported outside of town? [You bet!/I don't think so.]
-13420: Ready and raring to go! The M.H.M.U.--and all Vana'diel--appreciates your assistance!
-13421: O-oh dear, kupo... But we really require reinforcements! Please reconsider, kupo!
-13422: You have phenomenally procured a prodigious amount of $0 chartruese stone shard[/s], $1 vermilion stone shard[/s], and $2 mauve stone shard[/s]. What would you like, kupo?
-13423: What will you do? [Spin the wheel! ($0 chartruese shard[/s])/Spin the wheel! ($1 vermilion shard[/s])/Spin the wheel! ($2 mauve shard[/s])/Check the item list./Warp outside town./Nothing.]
-13424: You have not harvested a sufficient supply of [mauve stone shards/vermilion stone shards/chartruese stone shards], kupo! Clobber more critters and come back later!
-13425: Altana above, kupo!
-13426: Congratulations!
-13427: You're more likely to get on a hot streak thanks to the intricacies of that item!
-13428: You are on a hot streak!
-13429: Your hot streak has burned out.
-13430: Roll them bones, kupo!
-13431: And the outstanding outcome is...
-13432: [.../First prize! Absolutely amazing!/Second prize! Emphatically excellent!/Third prize! Positively peachy!]
-13433: ...the booby prize, kupo...
-13434: Select your prize from the long list I'm about to lay upon you, kupo!
-13435: [What would you like/View which item]? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./[I'll decide later/I'm done].]
-13436: Would you like this item, kupo?
-13437: Really select that item? [Undoubtedly./Let me think on it.]
-13438: Come back and call upon me when you determine which doodad you desire!
-13439: View which category? [First prize./Second prize./Third prize./Booby prize./None for now.]
-13440: It goes something like this, kupo.
-13441: That little black bugger has been staring into your soul for some time now, kupo.
-13442: Don't be charmed by its conniving countenance! It'll con a crystal from you!
-13443: Here where?
-13444: Give shiny rock! Shiiiny. Shiiiiiiny!
-13445: You give [hot/dirty/wet/sparkly/cold/windy/bright/dark/many/big] stone! Love you! Looove! Loooooove!
-13446: Happy! Much happy! For you! Yooou!
-13447: I have! Still have! No need more!
-13448: Hey! You there! I've got a proposition of sorts for [a fresh-faced/an able-bodied/a world-class] adventurer such as yourself!
-13449: You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents.
-13450: Specifically, I'm a representative of sorts from the Jeuno Institute of Magical Studies. You could call me a headhunter!
-13451: Bwahaha! And the heads I am hunting today are those of bright-eyed explorers like yourself!
-13452: So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic.
-13453: We made it available for everyone to utilize, and so we are trying it out here in Bastok and other places throughout Vana'diel.
-13454: We've chosen to call the new magic "Trust," and as an official delegate of the institute, I want adventurers of your caliber to be the lucky first participants.
-13455: So? What about it? Want to try it out?
-13456: Try out the new magic? [What have I got to lose?/Magic scares me.]
-13457: An adventurer of sorts scared of magic? Pffft. Your loss, bud.
-13458: That's the kind of spunk I like!
-13459: You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic.
-13460: You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say.
-13461: However! Not just anyone can use Trust.
-13462: As you can imagine, the institute is thus collecting data of sorts in San d'Oria and Windurst, too, trying to get as many people as possible to participate.
-13463: It should come as no surprise, then, that we have other representatives in those two nations. If you'd rather head over there, then we've got nothing more to discuss...
-13464: But I'm sure the Mythril Musketeers here would appreciate any help you could give 'em.
-13465: Let's cut to the quick. Helping them earns you the aid of a powerful warrior of sorts, which can only help you in your travels.
-13466: Assist in Trust endeavors in Bastok? [Of course./No, thank you.]
-13467: If you're dead set on going elsewhere, I can't stop you...but I'm right here, and surely you'd rather not take a long journey.
-13468: Bwahaha! Perfect response!
-13469: [If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this.
-13470: Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further.
-13471: Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further.
-13472: Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he.
-13473: How are you finding those alter egos? Need an explanation of sorts as to how they work?
-13474: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
-13475: Trust is a new category of magic developed and announced by the Jeuno Institute for Magical Studies.
-13476: Though it is a magic of sorts, unlike ordinary spells it does not require mana. Instead, it draws on the power of trust, friendship, and [brotherly/sisterly] love.
-13477: Friendship, of course, crosses all boundaries, so Trust magic can be used regardless of your job.
-13478: But for the love of all that is holy, don't go around bonding with alter egos in cities. It'll confuse everyone.
-13479: Using Trust magic calls forth an alter ego of someone you have formed a strong personal bond with.
-13480: They say friendships work best as a relationship between equals. Thus, the alter ego is only as strong as the person who willed it into existence.
-13481: The alter ego will gladly fight by your side, but you will be unable to issue it direct orders.
-13482: Research of sorts is ongoing, but it might take a while for any concrete progress to be made.
-13483: When you wish to release an alter ego from service, you only need speak to it.
-13484: It goes without saying that if an alter ego falls in battle, it will vanish into thin air. But don't fret--you can summon it again once a certain period of time has passed.
-13485: Trust magic is quite aptly named. It calls forth an alter ego of sorts using the power of trust, friendship, and [brotherly/sisterly] love.
-13486: To employ its powers, you must first find and befriend one who is allowed to harness them.
-13487: If they do not listen to your request, then perhaps they don't think highly enough of you. Get the town talking about your deeds and I'm sure they'll give you another chance. If they still won't listen--well, you just come back to me.
-13488: Of course, they still might not want to be friends. Maybe you're like me and doomed to be forever alone! Bwahaha! <Sob>
-13489: Oh ho[/, I almost forgot]! There is another way to utilize this magic. There are ongoing investigations of sorts into how to call forth an alter ego without directly meeting the person.
-13490: It takes a little something special, but if you find a scroll with this exceptional ability, all you need do is give it to me.
-13491: Hang on just a tick. Let's take a look...
-13492: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mog Gardens].
-13493: Wish I had new information of sorts to share with you, but I don't!
-13494: I can't believe that you got your hands on $3! Amazing!
-13495: I can't believe such a celebrity would want to participate!
-13496: This is all thanks to people like you who have succeeded in calling forth alter egos.
-13497: Just let me analyze this data for a...what do you mean, "hurry up"?
-13498: The Trust initiative has seen some outstanding breakthroughs in recent days thanks to the tireless dedication of those like yourself.
-13499: Your bonds with that person far exceed anything we have ever seen!
-13500: I could espouse for hours about how lucky...what do you mean, "hurry up"?
-13501: Who on Vana'diel is this person? I've never heard of... Ugh. And to think I call myself a fine representative of the institute.
-13502: Hmmmmmm? Okay, okay, I'll make it snappy!
-13503: A curious case, this one...
-13504: Some ethereal force is preventing the cipher from displaying its true potential.
-13505: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
-13506: This cipher appears to be the real deal, but damned if I know who it'll actually call forth. Let's give it a try!
-13507: ...An apparition, you say?
-13508: Ah, the fresh face of youth as they acquire a new alter ego. Never shall I tire of it.
-13509: I'll let you in on something--the Trust initiative is being spread beyond the five races...with some very interesting results.
-13510: Close your eyes and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
-13511: What an amazing success of sorts!
-13512: So many of our trials ended in failure. I kept hoping it might work...but this--this is beyond my wildest dreams!
-13513: H-how did you know that it's called "Trust"!? Were you at the symposium?
-13514: Ohhh, I see. You got a lesson of sorts in one of the other nations. This makes it simple. How's about undertaking Trust experiments here in Bastok?
-13515: Impressive! It's no small feat to acquire $3!
-13516: Doctor Monberaux is a powerful person of sorts in Jeuno. Having an alter ego of him will make your journey that much easier.
-13517: The good doctor was a bit surprised to be paid a visit by the Jeuno Institute of Magical Studies. I think he expected a high-ranking friend of his to be chosen first.
-13518: You see, his friend Wolf... No, I don't suppose it's our place to talk about that.
-13519: Close your eyes while picturing Doctor Monberaux and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
-13520: It's a smashing success!
-13521: Just as the Institute of Magical Studies suspected, Doctor Monberaux is an excellent candidate of sorts for using Trust magic. This is excellent news!
-13522: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
-13523: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
-13524: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
-13525: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
-13526: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
-13527: Invisible eyes upon you cause the hairs on the back of your neck to rise.
-13528: The $3 nods in agreement.
-13529: A new Records of Eminence objective is now available!
-13530: A new Records of Eminence objective, "$0," is now available!
-13531: You wish to exchange your sparks?
-13532: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
-13533: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
-13534: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
-13535: Thanks to your donation, I now have $1 $0 in safekeeping.
-13536: Ohohoho... Turning in sparks, I see.
-13537: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
-13538: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
-13539: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
-13540: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
-13541: You want to trrrade in sparks, do you?
-13542: Let me wake up from my catnap first... Alright, now rrread this.
-13543: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
-13544: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
-13545: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
-13546: Grrreat! Now I have $1 $0 from you. Thanks!
-13547: Hm? Oh, spark exchange... Of course.
-13548: I'm not completely sure, but this might help set some things straight...I guess.
-13549: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
-13550: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
-13551: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
-13552: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
-13553: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
-13554: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
-13555: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
-13556: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
-13557: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
-13558: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
-13559: The maximum number of $0 that may be stored is $1.
-13560: You do not possess enough $0 to complete the transaction.
-13561: You do not possess enough sparks of eminence to complete the transaction.
-13562: You have reached the maximum number of sparks that you can exchange this week ($0). Your ability to purchase skill books and equipment will be restricted until next week.
-13563: You may use up to $0 more sparks of eminence to purchase items.
-13564: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
-13565: Exchange up to $" Spa. (Sparks: $0) [$1. ($16)/$2. ($17)/$3. ($18)/$4. ($19)/$5. ($20)/$6. ($21)/$7. ($22)/$8. ($23)/$9. ($24)/$10. ($25)/$11. ($26)/$12. ($27)/$13. ($28)/$14. ($29)/$15. ($30)/Previous page./Next page./None.]
-13566: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
-13567: Are you sure you want to expend $0 spark[/s] of eminence on this?
-13568: Make the exchange? [Yes./No.]
-13569: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
-13570: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
-13571: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
-13572: You now have $1 [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
-13573: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
-13574: Exchange for what? (On hand: $0) [$1./$2./$3./Nothing for the nonce.]
-13575: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
-13576: Truly exchange $0 ($2)?
-13577: Are you quite satisfied with your selection?
-13578: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
-13579: Exchange for what? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Previous page./Next page./Nothing for the nonce.]
-13580: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
-13581: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
-13582: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
-13583: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
-13584: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
-13585: Proceed with the exchange? [Yes./No.]
-13586: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
-13587: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
-13588: You are unable to trade that item at present.
-13589: You are unable to trade that item because you cannot store any more $1.
-13590: Only those participating in Records of Eminence may trade in items.
-13591: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
-13592: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
-13593: Welcome to the Deeds of Heroism rewards exchange service!
-13594: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
-13595: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
-13596: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
-13597: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
-13598: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
-13599: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
-13600: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
-13601: Do you want the $37?
-13602: Do you want $& $0% ?
-13603: Do you want the $3?
-13604: Are you sure you want to proceed? [Yes./No.]
-13605: You do not possess enough Deeds of Heroism to receive this item.
-13606: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
-13607: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
-13608: $36.
-13609: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
-13610: Exchange for what? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Go back./Leave.]
-13611: Are you sure you want the $37? [Yes./No.]
-13612: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
-13613: You have already exchanged for this item.
-13614: Which item? (Deeds: $$) [([|/$26]) $17415 x7: 10./([|/$26]) $71214: 20./([|/$26]) $89653: 30./([|/$26]) $3089: 40./([|/$26]) $17415 x14: 50./([|/$26]) $71021: 60./([|/$26]) $0: 70./([|/$26]) $6679: 80./([|/$26]) $72256: 90./([|/$26]) $17933 x5: 100./([|/$26]) $0: 110./([|/$26]) $6680: 120./([|/$26]) $69669: 130./([|/$26]) $17933 x5: 140./([|/$26]) $0: 150./([|/$26]) $6782: 160./([|/$26]) $18177: 170./([|/$26]) $17933 x5: 180./([|/$26]) $0: 190./([|/$26]) $6783: 200./([|/$26]) $75385: 210./([|/$26]) $17933 x5: 220./([|/$26]) $0: 230./([|/$26]) $8030: 240./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-13615: Which item? (Deeds: $$) [([|/$26]) $75386: 250./([|/$26]) $18490 x5: 260./([|/$26]) $0: 270./([|/$26]) $8031: 280./([|/$26]) $19508: 290./([|/$26]) $18490 x5: 300./([|/$26]) $0: 310./([|/$26]) $18491: 320./([|/$26]) $84025: 330./([|/$26]) $18490 x5: 340./([|/$26]) $0: 350./([|/$26]) $18491: 360./([|/$26]) $84252: 370./([|/$26]) $18490 x5: 380./([|/$26]) $0: 390./([|/$26]) $18491: 400./([|/$26]) $85784: 410./([|/$26]) $18490 x5: 420./([|/$26]) $0: 430./([|/$26]) $18492: 440./([|/$26]) $84251: 450./([|/$26]) $18490 x5: 460./([|/$26]) $0: 470./([|/$26]) $20305 480./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-13616: Which item? (Deeds: $$) [([|/$26]) $17415 x10: 490/([|/$26]) $13125: 500./([|/$26]) $18434 x5: 510./([|/$26]) $3089: 520./([|/$26]) $12900 x5: 530./([|/$26]) $17933 x5: 540./([|/$26]) $0: 550./([|/$26]) $6679: 560./([|/$26]) $12921 ~3F 570./([|/$26]) $17933 ~5F 580./([|/$26]) $0F 590./([|/$26]) $6680F 600./([|/$26]) $12922 ~3F 610./([|/$26]) $17933 ~5F 620./([|/$26]) $0F 630./([|/$26]) $6782F 640./([|/$26]) $12923 ~3F 650./([|/$26]) $17933 ~5 F660./([|/$26]) $0F 670./([|/$26]) $6783 F680./([|/$26]) $18433 ~5F 690./([|/$26]) $8030F 700./([|/$26]) $0F 710./([|/$26]) $0F 720./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-13617: Which item? (Deeds: $$) [([|/$26]) $12924 x3F 730./([|/$26]) $18490 ~5F 740./([|/$26]) $0F 750./([|/$26]) $8031F 760./([|/$26]) $12925 ~3F 770./([|/$26]) $18490 ~5F 780./([|/$26]) $0F 790./([|/$26]) $18491F 800./([|/$26]) $12926 ~3F 810./([|/$26]) $18490 ~5F 820./([|/$26]) $0F 830./([|/$26]) $18491F 840./([|/$26]) $13056 ~3F 850./([|/$26]) $18490 ~5F 860./([|/$26]) $0F 870./([|/$26]) $18491F 880./([|/$26]) $13057 ~3F 890./([|/$26]) $18490 ~5F 900./([|/$26]) $0F 910./([|/$26]) $18492F 920./([|/$26]) $12927 ~3F 930./([|/$26]) $18490 ~5F 940./([|/$26]) $0F 950./([|/$26]) $0F 960./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
-13618: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
-13619: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
-13620: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
-13621: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $85280: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $13126: $22./([-/$26]) $18491: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18491: $27./([-/$26]) $17415~3: $28./([-/$26]) $18434~5: $29./([-/$26]) $13126: $30./([-/$26]) $18492: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-13622: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $7012: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $17419: $22./([-/$26]) $13125: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18177: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $13126: $30./([-/$26]) $18491: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-13623: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $18491: $19./([-/$26]) $17415~3: $20./([-/$26]) $18434~5: $21./([-/$26]) $13126: $22./([-/$26]) $18492: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $5132: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $17419: $30./([-/$26]) $13125: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
-13624: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
-13625: You are able to reset your rewards for $0 deed[/s].
-13626: Reset rewards? [Yes. (Reset #$0)/No.]
-13627: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
-13628: Really reset rewards? [Yes. (Reset #$0)/No.]
-13629: Rewards have been reset.
-13630: Move to a Mog Garden? [Most definitely!/Maybe not.]
-13631: Your rank must be three or higher or you must possess $6 to enter a Mog Garden.
-13632: Heigh-ho, kupo! I'm the boatswain for this darned-good dinghy, and it's my duty to divulge all the discursive details about Mog Gardens. So, what kind of cognition are you craving?
-13633: What do you want to know? [Nothing./What Mog Gardens are./How to get to one./What Mog Garden books are available.]
-13634: We've got staggering stores of the following scholarly scripts and tantalizing tomes, kupo!
-13635: Which book will you buy? [None./3./$3./$3./$3./$3./$3.]
-13636: $3, is it, kupo? Interestingly enough, that one is reported to raise the rank of your [furrows/arboreal grove/mineral vein/pond dredger/coastal fishing net/monster rearing skills] to ridiculous reaches...for the small sum of $7 gil.
-13637: Buy the book? [Yes./No.]
-13638: Trading tender for treasures...isn't shopping sublime, kupo?
-13639: Disappointingly, I doubt you've the discernment to descry the details of these documents. Exit then, and expand the extent of your experience.
-13640: Sorry, but our stocks of such sundries are so scarce we can't sell them.
-13641: Mog Gardens are lovely locales that lie latent in the west, on the Adoulin Islands. They're true treasure troves of taintless resources, frothing with fish, bursting with birds, and filled with forests, kupo!
-13642: Think of it as your Mog House away from home! Just like that fantastic facility, there's a wealth of wonders just waiting to well up for your disposal.
-13643: Spread your wings as wide as you wish without worrying about the consequences, kupo. The Green Thumb Moogle will handle the husbandry of this homestead while you're out hacking at hordes of hellions and cavorting across continents.
-13644: If you're shivering to shove off, then shuffle aboard the Mog Dinghy over there! It may seem small and slightly slipshod, but the mysterious moogle magic we manifest upon it is magnificent enough to move you malms and malms in mere minutes.
-13645: Once you adjust to your Adoulinian asylum, I'll even proffer printed publications that will make your Mog Garden more majestic. Grab your gil and get ready, kupo!
-13646: While it'd be wickedly wonderful to whisk away everyone to Mog Gardens, only "Certified Adventurers" and "pioneers" are allowed entry to these excellent expanses of escape, kupo.
-13647: "Certified Adventurers" are those who have applied themselves assiduously, attaining the third mission rank in any nation.
-13648: It doesn't have to be here as long as you were once appropriately accredited in times antecedent.
-13649: If Adoulin's body politic has properly permitted you to perform pioneering duties, however, your so-called "rank" can be lower than a leech's legs and you'll still be let in, kupo.
-13650: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
-13651: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
-13652: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
-13653: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
-13654: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
-13655: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
-13656: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
-13657: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
-13658: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
-13659: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
-13660: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
-13661: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
-13662: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
-13663: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
-13664: Select an item category. [Return to previous selection./@/@/@/@]
-13665: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
-13666: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13667: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13668: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
-13669: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
-13670: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
-13671: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
-13672: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
-13673: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
-13674: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
-13675: "Unity" is a catchall term that refers to the group that participants belong to.
-13676: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
-13677: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
-13678: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
-13679: You may not always be able to join the chat if too many players are participating at once.
-13680: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
-13681: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
-13682: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
-13683: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
-13684: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
-13685: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
-13686: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
-13687: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
-13688: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
-13689: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
-13690: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
-13691: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
-13692: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
-13693: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
-13694: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
-13695: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
-13696: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
-13697: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
-13698: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
-13699: You can use specified materials to add new attributes to equipment that has been upgraded.
-13700: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
-13701: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
-13702: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
-13703: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
-13704: It also requires that you first complete a specific Records of Eminence objective.
-13705: The work you request will be carried out on-site by a specially trained Unity guide.
-13706: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
-13707: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
-13708: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
-13709: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
-13710: You may switch Unities once during the Unity ranking tabulation period.
-13711: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
-13712: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
-13713: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
-13714: Rankings are decided through the combined efforts of each of the Unity's members.
-13715: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
-13716: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
-13717: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
-13718: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
-13719: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
-13720: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
-13721: Unity leaders may also join you as alter egos for a limited period of time.
-13722: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
-13723: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
-13724: A leader's alter ego grows in power the higher their Unity is ranked.
-13725: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
-13726: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
-13727: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
-13728: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
-13729: You are currently under Unity restriction. Please try again during the next tabulation period.
-13730: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
-13731: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
-13732: You have already changed Unities. Please wait until the next tabulation period.
-13733: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
-13734: Teleport anyway? [Yes, please./No, thank you.]
-13735: The mandragora surreptitiously hands you something.
-13736: The crystal resonates deep within your soul!
-13737: Vana'diel...in the year 898?
-13738: I must make haste for Reisenjima and find the master before...
-13739: Master, look at the orb.
-13740: You have set us on the proper course and passed through the first of many gates to come.
-13741: This precious jewel is one of Reisenjima Sanctorium's most mystical treasures.
-13742: Our legends state that it was formed from the energies of a thousand different lives.
-13743: Though it had originally been regarded as but a minor artifact, in the future you and my father had drawn forth its true power.
-13744: In reality, it is a piece of the mothercrystal.
-13745: Please, Master. You may have taken the first steps, but I urge you to continue pressing on.
-13746: Gilgamesh awaits word in Norg.
-13747: I've set up shop at this site in search of souls to sell sundries to, kupo! Come back later for some glorious goodies!
-13748: Come hither, able adventurer! From precipitously perilous peaks to completely creepy caves, I've gathered glorious goodies to sell to one such as yourself!
-13749: Y-you don't seriously suspect I stole this sumptuous stash through some surreptitious scheme!? I assure you I acquired them on the up-and-up!
-13750: You won't find frivolous frauds here, only absolutely authentic articles, kupo!
-13751: Back to buy, kupo?
-13752: Tremendous timing! I've imported an incredible inventory of immaculate items!
-13753: What would you like? [Nothing for now./Medicine./Ammunition./Ninjutsu tools./Foodstuffs./Scrolls/materials./Keys./Equipment./Various key items.]
-13754: Get your hands on what? [None of these./$3: $17 gil./$3: $18 gil./$3: $19 gil./$3: $20 gil./$3: $21 gil./$3: $22 gil./$3: $23 gil./$3: $24 gil./$3: $25 gil./$3: $26 gil./$3: $27 gil./$3: $28 gil./$3: $29 gil./$3: $30 gil./$3: $31 gil./$3: $ gil./Previous page./Next page.]
-13755: $6 will run you $2 gil, kupo.
-13756: Purchase that item? ($0 gil) [Yes, please./No, thank you.]
-13757: Always a pleasure!
-13758: Master, behold your orb.
-13759: Your path remains steadfast, and you have successfully reached the third gate.
-13760: But the spirits which protect Reisenjima Sanctorium have gone silent...
-13761: And I am unable to remain here in 884.
-13762: My abject failure to guide you in your hour of need is a shame that I shall not overcome.
-13763: Had I been able to better serve you, then maybe...
-13764: But I can safely place my trust in you. You have come this far, and the orb grows stronger with each passing day. You will be ready when the world has reached the fulcrum.
-13765: May your steps remain swift and true.
-13766: Head for...the palace...
-13767: Master, behold your orb.
-13768: Your path remains steadfast, and you have successfully surpassed the third gate.
-13769: But there remains one whom you have yet to meet. A young woman who plays a vital role in your story.
-13770: I am afraid that you will not be able to see her in the world's current state.
-13771: If only I could return to 884 and walk by your side once more!
-13772: Yet my mind and body are crippled, and I can scarce muster this small advice--!
-13773: Master...forgive me.
-13774: Lead Aht Urhgan out of the darkness and forge the bonds you were destined to.
-13775: I'm so hungry...
-13776: Ovjang...Ovjang, where are you?
-13777: I'm here...[in Aydeewa Subterrane/on a pirate ship]...
-13778: Luzaf...I wish you were here...
-13779: Please...help me...
-13780: Razfahd must be stopped...
-13781: Despite betrayal by those I once called my own...
-13782: I refuse to yield until humanity's blight is purged from this land.
-13783: I now serve to bring darkness unending, an umbral shroud choking the life from Vana'diel.
-13784: Simply opening the Gate of the Gods would bring the Zilart what they have been denied for over ten thousand years.
-13785: The endless nightmare would be endless no longer.
-13786: Have you ever paused to consider exactly whose nightmare it is?
-13787: Those who have ceased to be? Those who walk Vana'diel as she stands today?
-13788: Old gods? New?
-13789: No. It is a nightmare of the crystals themselves.
-13790: We were born in Vana'diel and exist only due to her endless bounty.
-13791: And yet our very presence here is an affront to her. We are the source of her nightmare.
-13792: There is one secret to humanity's success: ambition. Imagining a better future, it strives ever onward in search of it.
-13793: Having seen the promised land, it rages and struggles each day to become more than it was meant to be.
-13794: And it continues to claw its way forward, even if what it aspires to be does not truly exist.
-13795: Its insatiable avarice defines it more than even it can possibly realize.
-13796: But I am not a "human" such as you. I will be--I must be--an existence far beyond the most grandiose thought of such petty, grasping beings.
-13797: For that is what life is. And those who cannot reach that pinnacle are fated to perish.
-13798: Time is a cruel beast whose savageness cannot be sated.
-13799: Every man, woman, and child feels its claws sinking into their backs, the talons digging ever deeper with each passing day.
-13800: It marches on, unstoppable, immaterial, and unforgiving, and all any of us can do is watch it pass.
-13801: I claimed ever greater power in pursuit of my goals until my time, too, ran out.
-13802: All I wanted to do was protect my countrymen...my homeland...
-13803: An alternate world, with alternate fates and alternate existences.
-13804: I gambled my own life away to protect the world I called home.
-13805: Can you truly say that you [did/would have done] any different?
-13806: I channeled my love for my homeland into power.
-13807: When I fell before you...
-13808: ...did it mean everything was for naught?
-13809: I, and I alone, have seen the true nature of things in this world.
-13810: And thus, I have learned why all beings that rise must fall.
-13811: This is a burden which I must bear and prevent from happening ever again.
-13812: Should you not understand why my goal is pure and just, then you are unworthy of being called human.
-13813: Open your eyes and witness the truth!
-13814: Don't let ignorance cloud your judgment!
-13815: <Player>...
-13816: What you see before you--is it a dream, or something else?
-13817: Is this a dream? [What else could it be?/No. It's something more...]
-13818: Come. Surely your vision cannot be that clouded.
-13819: A keen eye, as always.
-13820: The minds of all who have existed--and all who will exist--are as one.
-13821: As, too, are the light and darkness inherent in the mothercrystals.
-13822: I need not point out that the apparitions appearing before you are those whose schemes you have foiled.
-13823: And those...
-13824: ...Who you are destined to stop.
-13825: I have sought them out of my own volition, hoping to manipulate their essences for my own ends.
-13826: Dark, infernal forces, serving as a counterbalance to the light you hope to make manifest.
-13827: And now is the time for me to fill you with that energy. Come.
-13828: You don't really expect to save the world, do you?
-13829: At best you might buy it a few more phases of the moon.
-13830: Even should I fall, there is a grand legion aching to take my place.
-13831: So in the end, all my journeys have been utterly without meaning.
-13832: One by one, those I have trusted have fallen. None are left to prop me up when I begin to falter.
-13833: Hahaha...none know who I rrreally am.
-13834: False prophets. False worlds. False adventurers... The truth is the pain I feel inside.
-13835: Each combat has prepared me for the next...but in the end, it's all worthless. A new age is descending, and it threatens to leave me behind.
-13836: Pandora's box-wox has been opened, overturned, and shaken until nothing remains inside.
-13837: Perhaps not even your precious-wecious "hope."
-13838: Some claim that hope is what keeps humanity sane in these trying times...yet in reality it is a prison that shuts away the real world.
-13839: No matter how deeply darkness has penetrated your soul...
-13840: ...no matter how much you want to give up...
-13841: You must not. You cannot.
-13842: Hope is something seized, not given.
-13843: Whether surrounded by friends or walking a hard road alone...
-13844: There is unshaking value in seeing your path to its conclusion.
-13845: You are the culmination of all your experiences.
-13846: Even those who are gone still depend on you.
-13847: <Player>, this rhapsody is yours to sing.
-13848: @@
-13849: $3{$3^$3$97F$31V$P10i]\7
-13850: G1)g$3539533_)g $P163L$g$R=? $3G$3X$3P[$3v gR$P10r$7
-13851: Master--the orb.
-13852: You have set history on its proper course yet again, having passed through the fourth gate that stood before you.
-13853: Yet Selh'teus's words ring true--the darkness slumbering within you is great.
-13854: He claims that not even the crystal is enough to illuminate it.
-13855: I must confess my trepidation at the current state of affairs. What if the darkness overcomes you not in the future, but even earlier than I had anticipated?
-13856: What a morbid state of affairs we find ourselves in.
-13857: We must take solace in the hope that the orb will guide you to safety, so that you will be prepared for the Reckoning.
-13858: Until that time, your footsteps must remain unerring.
-13859: And so fate guides you to Ceizak Battlegrounds...
-13860: The future should have changed...
-13861: ...And I should have been dissolved into nothingness.
-13862: Yet the crystal's clarion song has ceased.
-13863: And the Cloud of Darkness threatens the world once more.
-13864: You have entered the crafting target area.
-13865: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
-13866: You have left the crafting target area.
-13867: $1 $0 remaining.
-13868: I am in need of some $0. Can you get $1 more for me?
-13869: Yes, this is the $0 I am looking for. Please bring me $1 more.
-13870: Yes, these are the $0 I am looking for. Please bring me $1 more.
-13871: This is the last of them. They look so delicious, I think I might want to order some for myself!
-13872: I'm looking for $0 and require $1 more.
-13873: With this delivery of $0, I need $1 more to fulfill the order.
-13874: With this delivery of $0, I need $1 more to fulfill the order.
-13875: That should do it! I have all the $0 I require. You can consider the order fulfilled.
-13876: Welcome to the Steaming Sheep, home of the finest cuisine Bastok has to offer.
-13877: Today we're pleased to be hosting the 1st Annual Brygid Cosplay Fiesta!
-13878: Enter the Steaming Sheep? [Ready to go!/I need more time.]
-13879: Wow! What a performance!
-13880: Yes, words absolutely fail me at how your outfit accentuates your, um...curves? Well, a job well done, even though I would normally hope for something a little more family friendly.
-13881: Ladies and gentlemen, things are really starting to heat up in today's event, with people coming from far and wide to show all Bastok that they've got what it takes to become our champion.
-13882: Who'll be next to take the stage and wow us with their devastatingly accurate and altogether embarrassing representation of famous Bastokers?
-13883: Hey, I don't think "embarrassing" is the best word to use here...
-13884: Our next three contestants are ready to take the stage! Here they come, so give them a big round of applause!
-13885: Yes, feast your eyes on these wonderful reimaginings of real-life stars! Ogle them from head to toe and take in every last nook and cranny of their delectable forms!
-13886: O-ogle? Delectable!?
-13887: You all did such fantastic jobs! I would have mistaken you for the real thing!
-13888: Let's cut now to the judges and see what their frank assessments are. Judges, take it away!
-13889: I gotta say, it took a lot of guts for you to choose Ayame, but that's one heck of a show you've put on!
-13890: Ayame, fourth member of the Mythril Musketeers, is known for her grace in attitude and attire, as well as her skill on the field of battle.
-13891: I would have expected many more people to choose to dress up as her, but it looks like you blew the competition away before they could even come out!
-13892: No one wanted to choose me...
-13893: Huh!?
-13894: And if it isn't the woman, the myth, the legend herself! Ayame, would you give us your impression of the contestant's best attempt at reproducing your loveliness?
-13895: Uh... Well, yes, it certainly is quite the sight.
-13896: I might not be the, uh, most popular choice, but I'm touched that someone chose me as their inspiration.
-13897: Oh, no, Ayame, it has nothing to do with popularity! People are just so blinded by your brilliance that no one felt they could even hold a candle to you. Isn't that right?
-13898: Oh, yes! Of course! I'm, um, sorry that I couldn't hold a candle...
-13899: And that's a big fat no from me! It seems our participant finally realized that they can't cut the mustard!
-13900: Thanks...I guess?
-13901: That's right, Ayame is just completely untouchable!
-13902: Let's move on to our next contestant, shall we?
-13903: Wow, I can't believe that someone would actually choose Azima, perhaps the stuffiest woman in all of Bastok!
-13904: When I see your stunning profile, as wrinkled and gnarled as the old oak tree mere moments before it is felled by the lumberjack...
-13905: I think back on my own mother, may she rest in peace...
-13906: What ya blabbering on about, talking about me like I'm some old hag!?
-13907: Urk--!
-13908: Why, if it isn't the esteemed Azima herself, here to give us her frank assessment of our challenger!
-13909: Oh no, you don't escape that easily, young lady. I heard every word you said!
-13910: N-n-no! Don't hurt me! I was just providing some color commentary!
-13911: Hmmm. I suppose I could give ya an honest opinion.
-13912: Try learning some respect for your elders!
-13913: Look at the fire in her eyes--obviously a reflection of the pile of hot garbage she sees before her!
-13914: H-hey! I did my best...
-13915: And yet another catastrophic failure abandons the stage! Azima's biting tongue remains too much to bear!
-13916: I can't believe youngsters these days...
-13917: Don't let this put a damper on your spirits, folks, for the show must go on!
-13918: Would you take a look at this--a recreation of the magnificent Iron Eater, whose steely gaze can silence even the loudest of crying babies!
-13919: True to his name, he can devour even the toughest of metals!
-13920: I really don't think that he--
-13921: For this contestant, let's hear from one of our female judges!
-13922: I-Iron Eater?
-13923: Amazing! Even Hilda is fooled by the costume's incredibly high degree of accuracy!
-13924: Hey, Ken, you're finally starting to sound like a real emcee!
-13925: Well, given how much you've talked over me across the years--
-13926: But no, our contestant is not, in fact, the real thing!
-13927: Wh-what the--!?
-13928: So, Hilda, what do you say!?
-13929: Our challenger looks like Iron Eater, but the mannerisms are missing a little...je ne sais quoi.
-13930: Je-ne-sais-what now?
-13931: Ahhh, I think I get it. No matter how accurate you can recreate the outfit, it is all for naught unless you can properly mimic the original's quirks! Yes, another person for our ever-growing trash heap!
-13932: Marin...I think you're being a bit too harsh on everyone.
-13933: So crawl back under the rock you call home and show not your face again!
-13934: Feast your eyes on our next model--a true sight to behold!
-13935: Why, look at the aura of loserness emanating from him! Absolutely true to the original!
-13936: Can't you be a little more positive!?
-13937: Let's hear from one of our female judges. Hilda?
-13938: I-is that Naji!?
-13939: Wow! If she really thinks that's Naji, the costume must be perfect!
-13940: Hey, Ken, you're finally starting to sound like a real emcee!
-13941: Well, given how much you've talked over me across the years--
-13942: I've, uh, got some unfortunate news. Naji was scheduled to give a few words, but I'm afraid he can't be here today.
-13943: Oh no! What a terrible turn of events!
-13944: But, uh, our audience remains unfazed by this unexpected twist!
-13945: Yet someone just like him is right up there on the stage.
-13946: Ah, and you mean to say that our contestant is close enough to the real Naji.
-13947: Or, to put it another way, everything would have turned out the same with or without Naji here!
-13948: I don't think you should be putting words in her mouth...
-13949: Anyway, thank you, Naji! I'm sure your efforts will be reflected in your final score!
-13950: And next, we've got-- Ack!
-13951: Zeid...
-13952: Ha ha ha!
-13953: Amazing costume! This is clearly the pinnacle of mankind's achievement!
-13954: You don't know how difficult it was to get ahold of all this rare equipment!
-13955: All that mythril set me back an arm and a leg.
-13956: Mythril...?
-13957: You do cut an impressive pose, to be sure, but there's something about you that isn't quite Zeid-like...
-13958: Ah, yes! Now that's more like the Zeid I know.
-13959: This costume is absolutely perfect! You should follow this young man's lead and make your Zeid outfit more like his!
-13960: You there! I'm enlisting you into our little show. Come up onto the stage!
-13961: Yes, you! Come on, being asked to participate in such a wonderful show is quite the honor! Get your rear in gear!
-13962: I, uh, just came here to talk to Oggbi...
-13963: Of course, of course! What Oggbi thinks of your outfit is quite important indeed! So take the stage and hear just what he thinks of your getup!
-13964: Oggbi, I'd really prefer to talk someplace quieter...
-13965: So, judges, what do you have to say about this magnificent Zeid costume?
-13966: I don't think I've ever seen a more impressive Zeid! Everything is just as it should be--the way you walk, the way you talk...it's uncannily close to the real thing!
-13967: Wherever did you get such wonderful equipment? It's absolutely marvelous!
-13968: I don't think the real Zeid is supposed to be in Bastok right now...
-13969: Why, even Oggbi is fooled by the realism that our newest contestant exudes! Spectacular!
-13970: Why, Zeid-alike, I think our judges are beyond impressed by the extent of your efforts!
-13971: What the heck is going on?
-13972: It's like you're actually him...!
-13973: <Sigh>...
-13974: While I'd love to be able to chitchat with you more, Zeid-alike, we've got some more contestants to get through!
-13975: And without further ado, here's our next challenger...
-13976: [Azima/Naji/Black Mud/Michea/Nbu Latteh]!
-13977: Why, this is the costume to end all costumes! Look at how [he/she] positively gleams with radiance!
-13978: I bet our maven of fashion, Brygid, is brimming with pride at how you've really helped bring the show together!
-13979: I'm impressed by the accuracy of your attempt. But my opinions don't matter as much as the judges'!
-13980: Surely the audience also appreciates all the effort you put into your appearance!
-13981: Well, you certainly do have an...interesting take, to be sure! Words fail me.
-13982: So, uh, Ken! Take it away!
-13983: I...well...yes, words fail me, too.
-13984: ...
-13985: Yes, yes, this is exceptional. The time and effort you must have put into this is astounding.
-13986: I absolutely love it. I'd love to have you wait on me hand and foot...or is that asking a bit too much?
-13987: Something is a little off...but then again, Naji himself is usually a little off, too.
-13988: You're right, Cid. Naji always did have a couple screws loose.
-13989: Hahaha!
-13990: You put nearly no thought and effort into this, did you? Yet that in and of itself is rather Naji-esque.
-13991: Speaking of Naji, it's about time for him to pay his tab...
-13992: We were scheduled to hear a few words from Naji himself, but unfortunately he can't be with us today.
-13993: So instead, Ken will give us the final word!
-13994: M-me!? Well...thanks for coming!
-13995: And there we have it, folks! A big round of applause for our Naji lookalike!
-13996: Hang on...[he/she] looks nothing like Azima.
-13997: O-oh no. I can feel all the war memories come flooding back...
-13998: I may have only caught a glimpse of her once, but that matronly figure cannot be denied.
-13999: Perfect. Absolutely perfect. I remember once having thought that she was the wickedest of witches.
-14000: War memories? What the--
-14001: My goodness, you certainly have Azima down to a T. I can feel her gaze of self-superiority bearing down on me even now.
-14002: Yes, you certainly do have the same air of competence about you.
-14003: Azima and I have a long history. Why, it was she who introduced me to my now-husband.
-14004: Really? She did that!?
-14005: Wait, this is supposed to be an Azima outfit? Hmm...
-14006: Haha! For a moment, I thought I misheard, too!
-14007: And now we'll hear from Azima herself!
-14008: "The Hermitess of the Highlands"...
-14009: The what!?
-14010: Yes, that is what they used to call me! And you, young one, can certainly make something from nothing.
-14011: I have no idea what you're on about, Azima, but thanks for your insight! A big round of applause!
-14012: Outstanding work, adventurer! You took someone who doesn't really stand out from the crowd and brought them to life!
-14013: Workers of all stripes really deserve more recognition for their efforts. Why, even my apron was made by a skilled laborer such as him.
-14014: And let's all be thankful that no one but you wears something like that.
-14015: Black Mud and I share a long history of camaraderie. I was prepared to give you zero points if you didn't do him justice...but you have.
-14016: I just wish he was a little better at reading maps.
-14017: Cid, can you help jog my memory? I can't properly recall how Black Mud dresses.
-14018: Hahaha, me neither! In fact, who is Black Mud, anyway?
-14019: And now for a few words from Black Mud himself!
-14020: If you're ever on the lookout for rare materials from Tavnazia, Adoulin, and places beyond, be sure to visit me, and I'll place them on order for you. Black Mud, here for all your everyday needs!
-14021: Um, you're not here for the free advertising. We're all waiting for your comments on [his/her] outfit.
-14022: I don't know what this is all about, but if you're using my likeness, you need to pay the proper compensation--
-14023: Yes, yes, thank you, Black Mud! Now go back to where you came from, to the rousing applause of our audience!
-14024: Why, I didn't think it was possible for someone to recreate Michea so faithfully!
-14025: Her wares have always impressed me with an inner warmth that can only come from someone who truly loves their craft, and you have brought that same warmth to your costume.
-14026: As warm as your wonderful meals, Hilda.
-14027: Oh, Oggbi, you're making me blush! Maybe I'll have to make you a little extra next time you stop by.
-14028: I think you did a good job of emulating Michea. What do you think, Cid?
-14029: Hmmm... A goldsmith, huh? I think maybe I should order my special someone a new ring...
-14030: Dalzakk, if only you were here to see this... But I guess [he/she]'s just a contestant, not the real thing.
-14031: Michea currently works as a goldsmith here in Bastok, but she originally hails from San d'Oria.
-14032: Oh, maybe that's why I can't quite place the outfit.
-14033: No, I think it's because the entire getup is all wrong.
-14034: And finally, a few words from Michea herself!
-14035: Of all the people you could have chosen, I'm humbled and honored that you chose me.
-14036: This entire event has been such a joy, and it helped me to reaffirm that fashion is an important part of everyone's lives.
-14037: But there is one thing that I don't understand.
-14038: Why aren't you giving out points for accessories!? I'm a goldsmith, and I can say with confidence that accessories are the glue that holds an outfit together!
-14039: The next time you hold this event, be sure to give them their proper due! I'll be happy to lend my expertise to the panel.
-14040: Thank you, Michea, for that absolutely riveting--if rather out of place--tirade! We would expect nothing less from a Bastokan merchant!
-14041: A big round of applause for Michea and our competitor!
-14042: I'm quite impressed at how you've made Nbu Latteh really come to life!
-14043: Yes, it's astounding. Perhaps it's because you share a bond as adventurers?
-14044: Nbu Latteh is an adventurer? Really?
-14045: In the flesh. She's as fast as a famished chocobo and never lets prey elude her.
-14046: That's odd. I heard stories from the guards that...you know what? Forget I said anything.
-14047: Hmmm. I certainly have seen worse...but I've also seen better.
-14048: Yes, although we do appreciate the efforts you've put into replicating her one-of-a-kind charms.
-14049: I'm not sure "charms" are what's lacking here...
-14050: I'll tell you what's lacking--ale! I need more ale!
-14051: Nbu Latteh is an adventurer who is often spotted in Bastok Mines. Ah, yes, doesn't she have a lovely daughter...?
-14052: Not that we see her too much these days. I wonder what she's up to.
-14053: Well, she is an adventurer. But I don't recall ever seeing her dressed in...that.
-14054: Thank you for your assessment, judges. Normally we'd ask Nbu Latteh to come say a few words herself, but she's a bit tied up at the moment.
-14055: So instead, we've got her fan club here to comment on her behalf!
-14056: Ah, hello! I'm Roh Latteh, here on behalf of my mother.
-14057: Oh, aren't you just the cutest thing! I could gobble you right up! Maybe I should trade my brother for you.
-14058: ...That wouldn't be so bad.
-14059: If I do a really good job, she said she'll give me some candy, so...I'll try my hardest!
-14060: Oh, how precious and well-behaved you are! We might just have some cookies for you too!
-14061: Baked fresh by Hilda herself! Why, I would even give my brother for one of those chewy delights!
-14062: ...Again, that doesn't sound half bad.
-14063: [Mr./Ms.] Adventurer...
-14064: Thanks for doing so well!
-14065: That's all!
-14066: That's right, everyone, looks like our cute little friend is done for now! A big round of applause!
-14067: I was watching the whole time, <Player>!
-14068: It must have been tough coming up with your outfit, but I think you did a great job.
-14069: Brygid was pleased, too, so she's sure to help us get a really great disguise for Raebrimm.
-14070: Thanks for participating today!
-14071: We're still tallying up the judges' score, so hang on just a little while longer.
-14072: Even those who didn't place highly will receive a token reward from Brygid herself, so be sure to connect with her soon.
-14073: Take care!
-14074: I've got to head out myself. See you shortly!
-14075: Please disable your lockstyle settings and try again.
-14076: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
-14077: You must take on the "$0" Records of Eminence objective before receiving the explanation.
-14078: You must complete "$1" before taking on the "$0" Records of Eminence objective.
-14079: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
-14080: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
-14081: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
-14082: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
-14083: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
-14084: You can change the CTRL+Q shortcut command...
-14085: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
-14086: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
-14087: You must meet one of the following conditions in order to post to the Assist Channel.
-14088: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
-14089: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
-14090: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-14091: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
-14092: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
-14093: The Assist Channel can only be used in the following areas.
-14094: Available areas: $7, $7, $7, $7, $7, $7...
-14095: ...$7, $7, $7, $7, $7, $7, $7, $7...
-14096: ...$7, $7, $7, $7, $7, $7, $7, $7...
-14097: ...$7, $7, $7, and your Mog House (Rent-a-Room).
-14098: You cannot post or read messages outside of the areas listed above.
-14099: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
-14100: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
-14101: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
-14102: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
-14103: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
-14104: The higher the number, the more experienced the mentor is.
-14105: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
-14106: You can check your Mastery Rank by going to Main Menu > Status > Profile.
-14107: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
-14108: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
-14109: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
-14110: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
-14111: A "Warning" is a feature that can only be used by mentors.
-14112: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
-14113: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
-14114: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
-14115: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
-14116: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
-14117: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
-14118: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
-14119: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
-14120: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
-14121: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
-14122: You are about to lose the ability to post messages to the Assist Channel.
-14123: You are unable to post messages to the Assist Channel.
-14124: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
-14125: Whenever you're lost, there's nothing like a good drink to help you find your path. Try and get some rest.
-14126: I'm finally able to settle down with a nice drink, but it just doesn't taste as good as it usually does...
-14127: Of course, I know it's because I'm worried about so many different things right now. <Sigh> I wonder what's going to happen...
-14128: Oh! How have you been!?
-14129: Have you seen Gumbah and Raebrimm yet?
-14130: Have you seen them? [Yes, I have./No, not yet.]
-14131: In that case, you may have heard that Raebrimm hasn't been feeling well lately.
-14132: In that case, you might not have heard this yet, but Raebrimm hasn't been feeling well lately.
-14133: According to him, he says that the "spirits are summoning him"...
-14134: Does that sound familiar to you? It's what that demon said when it appeared at the gates of the underworld.
-14135: One day, the god Odin may summon the soul of the Talekeeper.
-14136: Hmm... I wonder how the battle fares in Valhalla. Do you know anything?
-14137: You don't say! I had no idea that was the state of things!
-14138: It may take some time for a drunkard like me to comprehend the situation fully, but you need to hurry.
-14139: At any rate, you should take the $3 that I picked up.
-14140: This orb contains what Uran-Mafran referred to as the "power contained within life itself as well as the crystals."
-14141: It's said that it is the power taken from all of the monsters the "World Eater Egg" has devoured.
-14142: I only hope it is suitable for crafting this "Prime Weapon" that you refer to.
+13357: Select a phantom gem to receive.
+13358: Which would you like? ($31 left) [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Never mind.]
+13359: Receive the $3? [Yes./No.]
+13360: Why, hello there! My tremendous task is to tabulate your precious points for the login campaign and exchange them for pleasing prizes, kupo!
+13361: Why, hello there! My tremendous task is to tabulate your precious points for the [/January/February/March/April/May/June/July/August/September/October/November/December] $0 login campaign and exchange them for pleasing prizes, kupo!
+13362: What can I assist you with? ($1 pt[/s].) [Check/Exchange points./Learn about the campaign./Nothing.]
+13363: In this login campaign, we provide you with points just for logging in once each day (Earth time), kupo!
+13364: You can trade them for incredible items to assist you with your adventures!
+13365: You can even procure more points by logging in routinely, which we all want, since Vana'diel always anxiously awaits your appearance!
+13366: You can trade in these tokens for our gratuitous gifts any time during this campaign!
+13367: Even when the point-proffering period has passed, you can still acquire these amazing items for a limited time, so don't forget about me, kupo!
+13368: Up to 700 points from the current campaign can be carried over to the next one starting with the October 2025 login campaign!
+13369: Any additional points will be summarily seized, kupo!
+13370: View which item? ($1 pts.) [$2-point items./$3-pt. items./$4-pt. items./$5-pt. items./$6-pt. items./$7-pt. items./$8-pt. items./$9-pt. items./Back.]
+13371: $22-pt. items ($1 pts.): [$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./Back.]
+13372: $23 costs $22 point[/s]. [You don't have enough points, kupo./Purchase this prize, kupo?/]
+13373: How many would you like, kupo?
+13374: Altana above! You do not possess the prerequisite number of points!
+13375: Proceed with exchange? ($1 pt[/s].) [Yes./No.]
+13376: Wait one short second while I get your goods!
+13377: Something went wrong, kupo! Try again later.
+13378: Hey, you--able adventurer! Cast your gaze on the countenance of this misbegotten mutant.
+13379: Glance at the good-natured glimmer in his eyes!
+13380: Take in his tiny teeth scintillating in the sunlight, kupo!
+13381: You mean...you're familiar with its furry form?
+13382: Oh hush, hustler. Listen to the lowdown before you loosen your lips.
+13383: Remember the gristly green gobs who came before? Now its mauve and maroon mates have come to wreak wrongdoings upon our realm!
+13384: At least, I suppose so. They haven't lifted a limb of late, so maybe there should be nothing nagging at my noggin after all...
+13385: Let me tell you a troubled tale. Not long ago, some grisly green gobs came to Vana'diel, and we amassed a fabulous fortune crafting countless curios in their likeness.
+13386: But there was an--inconsequential?--issue with them consuming crystals like crunchy candies.
+13387: Thanks to hardy heroes and moogle magic, we turned them into cerulean stone shards and sent them scurrying home, kupo.
+13388: But we gave the victors great gifts resembling those rowdy ruffians, so our profits plummeted and we had to cancel our tropical travel plans...
+13389: But the past is in the past. We must make the most of the moment!
+13390: And so! With the multicolored monsters now manifesting themselves, we found our next best chance!
+13391: They haven't lifted a limb of late, so maybe there's nothing to knock my noggin over...
+13392: Thus, we have an ostensibly outstanding opportunity to manufacture new knickknacks, kupo!
+13393: Part of the proceeds will be diverted to do up dilapidated Mog Houses, with the rest funding our jovial jaunts!
+13394: Kupopopo! How magnificently marvelous!
+13395: You can't discern the difference between the dimensional delegates?
+13396: Give them a good glance!
+13397: I guess their terrible teeth and enchanting eyes do look alike...
+13398: But the metal in their mitts and trinkets on their waists! Those are different, kupo!
+13399: Wonderful! We can cut down on costs and rake in the revenue! Vivacious vacations for all!
+13400: A-ah! Forget my frivolous fettering.
+13401: But if we captured the cerulean creatures before, then how did they surreptitiously scuttle back?
+13402: Undeniably unimportant. What matters most is the moment!
+13403: Oh ho? A covert communique from my cohort in charge of the stone shard storage.
+13404: Yes? Mm hmm... Mm hmm...
+13405: Altana kupo it all!
+13406: The ones we previously petrified have escaped, and they're traipsing outside town!
+13407: Then again, the clock was ticking on the enchantment expiring.
+13408: ...And now a nuanced notification from outside town? Oh, dear.
+13409: Th-then it's true, kupo!
+13410: Great gasping Goblins! Those furry freaks are capturing crystals again!
+13411: And their bespeckled brethren are helping, kupo!
+13412: If they succeed in pilfering our precious prizes, Vana'diel will descend into a desolate decay!
+13413: And worse, snafu will surely stain the M.H.M.U.'s resplendent reputation!
+13414: Most excellent explorer, please travel outside town and round up these recidivist reprobates!
+13415: A mixture of moogle magic will enable you to ensconce the evildoers by subjugating them into stone shards.
+13416: Of course, I'll reward your righteousness with the requisite remuneration, kupo.
+13417: But since we have such a short supply of stuff, I have to let Lady Luck look upon you with...a lottery!
+13418: The most prestigious prizes are awarded in the order of mauve, vermilion, and chartruese stone shards.
+13419: The goods we've gathered can be chosen from a long list that lengthens depending on your success.
+13420: Simply stated, if you procure first prize, you can select spoils from lower levels should you deign to do so. And so on.
+13421: This is a dire dilemma, so I shall send you off to the outskirts immediately. Are you ready, kupo?
+13422: Be teleported outside of town? [You bet!/I don't think so.]
+13423: Ready and raring to go! The M.H.M.U.--and all Vana'diel--appreciates your assistance!
+13424: O-oh dear, kupo... But we really require reinforcements! Please reconsider, kupo!
+13425: You have phenomenally procured a prodigious amount of $0 chartruese stone shard[/s], $1 vermilion stone shard[/s], and $2 mauve stone shard[/s]. What would you like, kupo?
+13426: What will you do? [Spin the wheel! ($0 chartruese shard[/s])/Spin the wheel! ($1 vermilion shard[/s])/Spin the wheel! ($2 mauve shard[/s])/Check the item list./Warp outside town./Nothing.]
+13427: You have not harvested a sufficient supply of [mauve stone shards/vermilion stone shards/chartruese stone shards], kupo! Clobber more critters and come back later!
+13428: Altana above, kupo!
+13429: Congratulations!
+13430: You're more likely to get on a hot streak thanks to the intricacies of that item!
+13431: You are on a hot streak!
+13432: Your hot streak has burned out.
+13433: Roll them bones, kupo!
+13434: And the outstanding outcome is...
+13435: [.../First prize! Absolutely amazing!/Second prize! Emphatically excellent!/Third prize! Positively peachy!]
+13436: ...the booby prize, kupo...
+13437: Select your prize from the long list I'm about to lay upon you, kupo!
+13438: [What would you like/View which item]? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./[I'll decide later/I'm done].]
+13439: Would you like this item, kupo?
+13440: Really select that item? [Undoubtedly./Let me think on it.]
+13441: Come back and call upon me when you determine which doodad you desire!
+13442: View which category? [First prize./Second prize./Third prize./Booby prize./None for now.]
+13443: It goes something like this, kupo.
+13444: That little black bugger has been staring into your soul for some time now, kupo.
+13445: Don't be charmed by its conniving countenance! It'll con a crystal from you!
+13446: Here where?
+13447: Give shiny rock! Shiiiny. Shiiiiiiny!
+13448: You give [hot/dirty/wet/sparkly/cold/windy/bright/dark/many/big] stone! Love you! Looove! Loooooove!
+13449: Happy! Much happy! For you! Yooou!
+13450: I have! Still have! No need more!
+13451: Hey! You there! I've got a proposition of sorts for [a fresh-faced/an able-bodied/a world-class] adventurer such as yourself!
+13452: You can call me Clarion Star. I've come from Jeuno, the lovely city in the northeast that connects the Quon and Mindartia continents.
+13453: Specifically, I'm a representative of sorts from the Jeuno Institute of Magical Studies. You could call me a headhunter!
+13454: Bwahaha! And the heads I am hunting today are those of bright-eyed explorers like yourself!
+13455: So here's the deal. Not too long ago, the institute held an international symposium of sorts, at which we announced the development of a fascinatingly useful new type of magic.
+13456: We made it available for everyone to utilize, and so we are trying it out here in Bastok and other places throughout Vana'diel.
+13457: We've chosen to call the new magic "Trust," and as an official delegate of the institute, I want adventurers of your caliber to be the lucky first participants.
+13458: So? What about it? Want to try it out?
+13459: Try out the new magic? [What have I got to lose?/Magic scares me.]
+13460: An adventurer of sorts scared of magic? Pffft. Your loss, bud.
+13461: That's the kind of spunk I like!
+13462: You're surely aware that Bastok is no stranger to developing new technologies, and as such Cid and the Mythril Musketeers are conducting research of sorts into the application of this new magic.
+13463: You know how they are--always at odds with the Beastman Confederate. They think that Trust might be able to help "bolster their forces," they say.
+13464: However! Not just anyone can use Trust.
+13465: As you can imagine, the institute is thus collecting data of sorts in San d'Oria and Windurst, too, trying to get as many people as possible to participate.
+13466: It should come as no surprise, then, that we have other representatives in those two nations. If you'd rather head over there, then we've got nothing more to discuss...
+13467: But I'm sure the Mythril Musketeers here would appreciate any help you could give 'em.
+13468: Let's cut to the quick. Helping them earns you the aid of a powerful warrior of sorts, which can only help you in your travels.
+13469: Assist in Trust endeavors in Bastok? [Of course./No, thank you.]
+13470: If you're dead set on going elsewhere, I can't stop you...but I'm right here, and surely you'd rather not take a long journey.
+13471: Bwahaha! Perfect response!
+13472: [If that's the case,/Okay! So] let's get right to it. Before we go any further, let me give you this.
+13473: Your first task of sorts is to speak with Naji of the Mythril Musketeers, in the Metalworks. He can guide you further.
+13474: Do you know where it is? Just head up the staircase behind me and cross the bridge to the west. Someone in the markets just past there can guide you further.
+13475: Take the lift up to the second floor, where you'll find him waiting by the staircase that leads to the president's office. No one across the land is as faithful or skilled a guard as he.
+13476: How are you finding those alter egos? Need an explanation of sorts as to how they work?
+13477: Inquire about what? [What Trust is./What happens when one uses Trust./How to learn new Trust spells./Whereabouts of Trust participants./Nothing at the moment.]
+13478: Trust is a new category of magic developed and announced by the Jeuno Institute for Magical Studies.
+13479: Though it is a magic of sorts, unlike ordinary spells it does not require mana. Instead, it draws on the power of trust, friendship, and [brotherly/sisterly] love.
+13480: Friendship, of course, crosses all boundaries, so Trust magic can be used regardless of your job.
+13481: But for the love of all that is holy, don't go around bonding with alter egos in cities. It'll confuse everyone.
+13482: Using Trust magic calls forth an alter ego of someone you have formed a strong personal bond with.
+13483: They say friendships work best as a relationship between equals. Thus, the alter ego is only as strong as the person who willed it into existence.
+13484: The alter ego will gladly fight by your side, but you will be unable to issue it direct orders.
+13485: Research of sorts is ongoing, but it might take a while for any concrete progress to be made.
+13486: When you wish to release an alter ego from service, you only need speak to it.
+13487: It goes without saying that if an alter ego falls in battle, it will vanish into thin air. But don't fret--you can summon it again once a certain period of time has passed.
+13488: Trust magic is quite aptly named. It calls forth an alter ego of sorts using the power of trust, friendship, and [brotherly/sisterly] love.
+13489: To employ its powers, you must first find and befriend one who is allowed to harness them.
+13490: If they do not listen to your request, then perhaps they don't think highly enough of you. Get the town talking about your deeds and I'm sure they'll give you another chance. If they still won't listen--well, you just come back to me.
+13491: Of course, they still might not want to be friends. Maybe you're like me and doomed to be forever alone! Bwahaha! <Sob>
+13492: Oh ho[/, I almost forgot]! There is another way to utilize this magic. There are ongoing investigations of sorts into how to call forth an alter ego without directly meeting the person.
+13493: It takes a little something special, but if you find a scroll with this exceptional ability, all you need do is give it to me.
+13494: Hang on just a tick. Let's take a look...
+13495: [Excenmille/Naji/Kupipi/Curilla/Ayame/Nanaa Mihgo/Trion/Volker/Ajido-Marujido/Iron Eater/Prishe/Ulmia/Shikaree Z/Cherukiki/Gadalar/Zazarg/Nashmeira/Gessho/Ingrid/Maat/Arciela/Chacharoon] can be found in [San d'Oria/Bastok/Windurst/Jeuno/Tavnazia/Aht Urhgan/Adoulin/the Mog Gardens].
+13496: Wish I had new information of sorts to share with you, but I don't!
+13497: I can't believe that you got your hands on $3! Amazing!
+13498: I can't believe such a celebrity would want to participate!
+13499: This is all thanks to people like you who have succeeded in calling forth alter egos.
+13500: Just let me analyze this data for a...what do you mean, "hurry up"?
+13501: The Trust initiative has seen some outstanding breakthroughs in recent days thanks to the tireless dedication of those like yourself.
+13502: Your bonds with that person far exceed anything we have ever seen!
+13503: I could espouse for hours about how lucky...what do you mean, "hurry up"?
+13504: Who on Vana'diel is this person? I've never heard of... Ugh. And to think I call myself a fine representative of the institute.
+13505: Hmmmmmm? Okay, okay, I'll make it snappy!
+13506: A curious case, this one...
+13507: Some ethereal force is preventing the cipher from displaying its true potential.
+13508: You cannot read this cipher due to an event occurring in Rhapsodies of Vana'diel.
+13509: This cipher appears to be the real deal, but damned if I know who it'll actually call forth. Let's give it a try!
+13510: ...An apparition, you say?
+13511: Ah, the fresh face of youth as they acquire a new alter ego. Never shall I tire of it.
+13512: I'll let you in on something--the Trust initiative is being spread beyond the five races...with some very interesting results.
+13513: Close your eyes and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
+13514: What an amazing success of sorts!
+13515: So many of our trials ended in failure. I kept hoping it might work...but this--this is beyond my wildest dreams!
+13516: H-how did you know that it's called "Trust"!? Were you at the symposium?
+13517: Ohhh, I see. You got a lesson of sorts in one of the other nations. This makes it simple. How's about undertaking Trust experiments here in Bastok?
+13518: Impressive! It's no small feat to acquire $3!
+13519: Doctor Monberaux is a powerful person of sorts in Jeuno. Having an alter ego of him will make your journey that much easier.
+13520: The good doctor was a bit surprised to be paid a visit by the Jeuno Institute of Magical Studies. I think he expected a high-ranking friend of his to be chosen first.
+13521: You see, his friend Wolf... No, I don't suppose it's our place to talk about that.
+13522: Close your eyes while picturing Doctor Monberaux and go to your happy place, where trust and friendship and [brotherly/sisterly] love blossom like flax flowers in a meadow.
+13523: It's a smashing success!
+13524: Just as the Institute of Magical Studies suspected, Doctor Monberaux is an excellent candidate of sorts for using Trust magic. This is excellent news!
+13525: Perhaps it would behoove you to speak with Rolandienne in Southern San d'Oria (G-10).
+13526: Perhaps it would behoove you to speak with Isakoth in Bastok Markets (E-11).
+13527: Perhaps it would behoove you to speak with Fhelm Jobeizat in Windurst Woods (J-10).
+13528: Perhaps it would behoove you to speak with Eternal Flame in Western Adoulin (H-11).
+13529: Perhaps it would behoove you to speak with Nantoto in Lower Jeuno (H-8).
+13530: Invisible eyes upon you cause the hairs on the back of your neck to rise.
+13531: The $3 nods in agreement.
+13532: A new Records of Eminence objective is now available!
+13533: A new Records of Eminence objective, "$0," is now available!
+13534: You wish to exchange your sparks?
+13535: Wait but a moment. Here, follow this command--er, compendium to the letter and you should be able to learn a thing or two.
+13536: Ah, this almost slipped my mind. Should you receive any distinct sorts of artifacts for completing an objective, I will be happy to take them off your hands.
+13537: Worry not, for I am not out to rob you of your glory. Quite the opposite, in fact. I will provide you with a worthwhile reward for collecting them.
+13538: Thanks to your donation, I now have $1 $0 in safekeeping.
+13539: Ohohoho... Turning in sparks, I see.
+13540: Hold your hoarder hares, [hero/heroine]. I love your enthusiasm, but you're not going to learn a thing without a primer. Ahhh, here it is. Have a look-see.
+13541: Oh, crud, that's right. You should trade me any special artifacts you get from completing objectives.
+13542: "Why?" What a good question! Because I'll give you a nifty-difty reward at some point, that's why.
+13543: Thanks for doing what I asked. Now I have a total of $1 $0 from you.
+13544: You want to trrrade in sparks, do you?
+13545: Let me wake up from my catnap first... Alright, now rrread this.
+13546: Wait, wait, wait! If you happen to get any purrrticularly interesting items from completing objectives, send them my way.
+13547: Don't worry, I'm as honest as a cat when the meat's out of reach. I thought of taking them all for myself...
+13548: ...but I don't want to make fur fly with the Adventurers' Mutual Aid Network, so I'll do my job like a good little kitty.
+13549: Grrreat! Now I have $1 $0 from you. Thanks!
+13550: Hm? Oh, spark exchange... Of course.
+13551: I'm not completely sure, but this might help set some things straight...I guess.
+13552: Let me add one thing. Please find it within your heart of hearts to give me anything of particular interest you get from completing objectives.
+13553: I'll make it worth your while...I swear! Just keep at it and I'll be sure to surprise you with a hot, steaming helping of gratitude one day.
+13554: Thanks for doing your part in the battle for love and peace! With this latest addition, I'm now keeping track of $1 $0 for you.
+13555: "Records of Eminence is a system brought to you by the caring folks at the Adventurers' Mutual Aid Network. Set your own objectives whenever you desire, and fulfill them to receive compensation.
+13556: "To set these tasks, select 'Objective List' from the Quests menu, then choose ones that suit your fancy.
+13557: "You will be rewarded with gil and sparks of eminence, which serve the same function as points, notes, credits, and other such methods of quantifying one's greatness. As an extra incentive, adventurers will earn three times the amount of sparks for completing an objective the first time.
+13558: "Completed objectives will vanish from your quest list unless they are repeatable. In the event that you wish to make room for different objectives, you will need to remove them manually.
+13559: "As a corollary regarding rewards, you'll be blessed with special remuneration once you complete several objectives. Bask in the joy of these pleasant surprises when you can.
+13560: "Lastly, any and all acts of vandalism directed against your $3 are strictly prohibited.
+13561: "Should you be found in violation of this dictum, the heavens will part and wrath incarnate will descend to mete out justice upon you."
+13562: The maximum number of $0 that may be stored is $1.
+13563: You do not possess enough $0 to complete the transaction.
+13564: You do not possess enough sparks of eminence to complete the transaction.
+13565: You have reached the maximum number of sparks that you can exchange this week ($0). Your ability to purchase skill books and equipment will be restricted until next week.
+13566: You may use up to $0 more sparks of eminence to purchase items.
+13567: Exchange for what? (Sparks: $0) [Items./Skill-increasing tomes./Equ. Lv.1 - 9. (Up to $")/Equ. Lv.10 - 19. (Up to $")/Equ. Lv.20 - 29. (Up to $")/Equ. Lv.30 - 39. (Up to $")/Equ. Lv.40 - 50. (Up to $")/Equ. Lv.51 - 70. (Up to $")/Equ. Lv.71 - 98. (Up to $")/Equ. Lv.99. (Up to $")/10./Trust./Exchange A.M.A.N. currencies./Exchange Seven Treasures./Wise words on Records of Eminence./Nothing.]
+13568: Exchange up to $" Spa. (Sparks: $0) [$1. ($16)/$2. ($17)/$3. ($18)/$4. ($19)/$5. ($20)/$6. ($21)/$7. ($22)/$8. ($23)/$9. ($24)/$10. ($25)/$11. ($26)/$12. ($27)/$13. ($28)/$14. ($29)/$15. ($30)/Previous page./Next page./None.]
+13569: Receive how many? ($6 spark[/s]) [One. ($1 spark[/s])/Three. ($2 spark[/s])/Twelve. ($3 spark[/s])/Thirty-six. ($4 spark[/s])/None.]
+13570: Are you sure you want to expend $0 spark[/s] of eminence on this?
+13571: Make the exchange? [Yes./No.]
+13572: Exchange for what? (On hand: $0) [Currencies./Provisions./None for the nonce.]
+13573: Exchange for what? (On hand: $0) [Sparks of Eminence: $1./Conquest Points: $2./Imperial Standing: $3./Allied Notes: $4./Bayld: $5./Valor Pts.: $6./Aslt. Pts. (Leujaoam): $7./Aslt. Pts. (T. Grounds): $8./Aslt. Pts. (Lebros): $9./Aslt. Pts. (Periqia): $10./Aslt. Pts. (Ilrusi): $11./Cruor: $12./Kinetic Units: $13./Obs. Fragments: $14./M. Plasm Corpuscles: $15./Ballista Points: $16. (2000 max)/Unity Accolades: $17./Escha Silt: $18./Resistance Credits: $19./Nothing for the nonce.]
+13574: Exchange how many points? (On hand: $0) [$1 (One)./$2 (Three)./$3 (Ten)./$4 (Thirty)./None.]
+13575: You now have $1 [sparks of eminence/conquest points/points of imperial standing/Allied Notes/bayld/Fields of Valor points/assault points (Leujaoam)/assault points (Mamool Ja Training Grounds)/assault points (Lebros Cavern)/assault points (Periqia)/assault points (Ilrusi Atoll)/cruor/kinetic units/obsidian fragments/mweya plasm corpuscles/ballista points/Unity accolades/pinches of Escha silt/resistance credits].
+13576: Beware that any amount that exceeds the maximum storage limit will unceremoniously vanish into the aether.
+13577: Exchange for what? (On hand: $0) [$1./$2./$3./Nothing for the nonce.]
+13578: Exchange how many? (On hand: $0) [One ($1)./Three ($2)./Ten ($3)./Thirty ($4)./None.]
+13579: Truly exchange $0 ($2)?
+13580: Are you quite satisfied with your selection?
+13581: You wish to exchange $6, $6, $6, $6, $6, and $6 for equipment?
+13582: Exchange for what? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./Previous page./Next page./Nothing for the nonce.]
+13583: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
+13584: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
+13585: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
+13586: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
+13587: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
+13588: Proceed with the exchange? [Yes./No.]
+13589: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
+13590: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
+13591: You are unable to trade that item at present.
+13592: You are unable to trade that item because you cannot store any more $1.
+13593: Only those participating in Records of Eminence may trade in items.
+13594: You can't shake the feeling that you may be able to learn about Ygnas's whereabouts somewhere in this area.
+13595: Speak with Ploh Trishbahk at Castle Adoulin's front gates (K-9) and report what you have learned about Ygnas.
+13596: Welcome to the Deeds of Heroism rewards exchange service!
+13597: What would you like to do? [Claim a reward (~960 deeds)./Claim a reward (970+ deeds)./Use an A.M.A.N. voucher./Receive a $20305./What are Deeds of Heroism?/Leave.]
+13598: Deeds of Heroism are special points you can earn by completing the Monthly Challenges available under the "Other" menu within the Records of Eminence.
+13599: Once you have accumulated a certain number of Deeds, you can exchange them for various items.
+13600: Rewards that require 970 deeds or more can be reset by collecting a certain amount of deeds.
+13601: There are many fabulous items to be had, including some that will help you on your adventures, so try to earn as many Deeds as possible!
+13602: Do you want to use an A.M.A.N. voucher? [$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./$0./What are A.M.A.N. vouchers?/Go back./Leave.]
+13603: If you have an A.M.A.N. voucher for an item such as a $0, you can use it to choose from a list of corresponding items.
+13604: Do you want the $37?
+13605: Do you want $& $0% ?
+13606: Do you want the $3?
+13607: Are you sure you want to proceed? [Yes./No.]
+13608: You do not possess enough Deeds of Heroism to receive this item.
+13609: Exchange for what? [Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire./Go back./Leave.]
+13610: You will receive the following items in the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] set.
+13611: $36.
+13612: Is the '[/Pummeler's Armor/Anchorite's Attire/Theophany Attire/Spaekona's Attire/Atrophy Armor/Pillager's Attire/Reverence Armor/Ignominy Armor/Totemic Armor/Brioso Attire/Orion Attire/Wakido Armor/Hachiya Garb/Vishap Armor/Convoker's Attire/Assimilator's Attire/Laksamana's Attire/Foire Attire/Maxixi Attire/Maxixi Attire/Academic's Attire/Geomancy Attire/Runeist Attire] okay? [Yes./No.]
+13613: Exchange for what? [#./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./$21./$22./Go back./Leave.]
+13614: Are you sure you want the $37? [Yes./No.]
+13615: Once the exchange is made, you cannot take it back. Are you absolutely sure you want to proceed?
+13616: You have already exchanged for this item.
+13617: Which item? (Deeds: $$) [([|/$26]) $17415 x7: 10./([|/$26]) $71214: 20./([|/$26]) $89653: 30./([|/$26]) $3089: 40./([|/$26]) $17415 x14: 50./([|/$26]) $71021: 60./([|/$26]) $0: 70./([|/$26]) $6679: 80./([|/$26]) $72256: 90./([|/$26]) $17933 x5: 100./([|/$26]) $0: 110./([|/$26]) $6680: 120./([|/$26]) $69669: 130./([|/$26]) $17933 x5: 140./([|/$26]) $0: 150./([|/$26]) $6782: 160./([|/$26]) $18177: 170./([|/$26]) $17933 x5: 180./([|/$26]) $0: 190./([|/$26]) $6783: 200./([|/$26]) $75385: 210./([|/$26]) $17933 x5: 220./([|/$26]) $0: 230./([|/$26]) $8030: 240./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+13618: Which item? (Deeds: $$) [([|/$26]) $75386: 250./([|/$26]) $18490 x5: 260./([|/$26]) $0: 270./([|/$26]) $8031: 280./([|/$26]) $19508: 290./([|/$26]) $18490 x5: 300./([|/$26]) $0: 310./([|/$26]) $18491: 320./([|/$26]) $84025: 330./([|/$26]) $18490 x5: 340./([|/$26]) $0: 350./([|/$26]) $18491: 360./([|/$26]) $84252: 370./([|/$26]) $18490 x5: 380./([|/$26]) $0: 390./([|/$26]) $18491: 400./([|/$26]) $85784: 410./([|/$26]) $18490 x5: 420./([|/$26]) $0: 430./([|/$26]) $18492: 440./([|/$26]) $84251: 450./([|/$26]) $18490 x5: 460./([|/$26]) $0: 470./([|/$26]) $20305 480./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+13619: Which item? (Deeds: $$) [([|/$26]) $17415 x10: 490/([|/$26]) $13125: 500./([|/$26]) $18434 x5: 510./([|/$26]) $3089: 520./([|/$26]) $12900 x5: 530./([|/$26]) $17933 x5: 540./([|/$26]) $0: 550./([|/$26]) $6679: 560./([|/$26]) $12921 ~3F 570./([|/$26]) $17933 ~5F 580./([|/$26]) $0F 590./([|/$26]) $6680F 600./([|/$26]) $12922 ~3F 610./([|/$26]) $17933 ~5F 620./([|/$26]) $0F 630./([|/$26]) $6782F 640./([|/$26]) $12923 ~3F 650./([|/$26]) $17933 ~5 F660./([|/$26]) $0F 670./([|/$26]) $6783 F680./([|/$26]) $18433 ~5F 690./([|/$26]) $8030F 700./([|/$26]) $0F 710./([|/$26]) $0F 720./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+13620: Which item? (Deeds: $$) [([|/$26]) $12924 x3F 730./([|/$26]) $18490 ~5F 740./([|/$26]) $0F 750./([|/$26]) $8031F 760./([|/$26]) $12925 ~3F 770./([|/$26]) $18490 ~5F 780./([|/$26]) $0F 790./([|/$26]) $18491F 800./([|/$26]) $12926 ~3F 810./([|/$26]) $18490 ~5F 820./([|/$26]) $0F 830./([|/$26]) $18491F 840./([|/$26]) $13056 ~3F 850./([|/$26]) $18490 ~5F 860./([|/$26]) $0F 870./([|/$26]) $18491F 880./([|/$26]) $13057 ~3F 890./([|/$26]) $18490 ~5F 900./([|/$26]) $0F 910./([|/$26]) $18492F 920./([|/$26]) $12927 ~3F 930./([|/$26]) $18490 ~5F 940./([|/$26]) $0F 950./([|/$26]) $0F 960./#[Hide/Show] obtained rewards./10 to 240 Deed rewards."50 to 480 Deed rewards./490 to 720 Deed rewards./730 to 960 Deed rewards./Go back./Leave.]
+13621: Exchange for what? [Argosy Armor./Hesychast's Attire/Piety Attire./Archmage's Attire/Vitiation Attire./Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Armor./Futhark Attire./Go back./Leave.]
+13622: You will receive the following items in the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] set.
+13623: Is the '[/Argosy Armor/Hesychast's Attire/Piety Attire/Archmage's Attire/Vitiation Attire/Plunderer's Attire/Caballarius Armor/Fallen's Armor/Ankusa Armor/Bihu Attire/Arcadian Attire/Sakonji Armor/Mochizuki Garb/Pteroslaver Armor/Glyphic Attire/Luhlaza Attire/Lanun Attire/Pitre Attire/Horos Attire/Pedagogy Attire/Bagua Attire/Futhrak Attire] okay? [Yes./No.]
+13624: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $85280: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $13126: $22./([-/$26]) $18491: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18491: $27./([-/$26]) $17415~3: $28./([-/$26]) $18434~5: $29./([-/$26]) $13126: $30./([-/$26]) $18492: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+13625: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $7012: $19./([-/$26]) $17415~3: $20./([-/$26]) $17933~5: $21./([-/$26]) $17419: $22./([-/$26]) $13125: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $18177: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $13126: $30./([-/$26]) $18491: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+13626: Which item? (Deeds: $$) [([-/$26]) $17415~3: $16./([-/$26]) $12900~3: $17./([-/$26]) $13126: $18./([-/$26]) $18491: $19./([-/$26]) $17415~3: $20./([-/$26]) $18434~5: $21./([-/$26]) $13126: $22./([-/$26]) $18492: $23./([-/$26]) $17415~3: $24./([-/$26]) $12900~3: $25./([-/$26]) $13126: $26./([-/$26]) $5132: $27./([-/$26]) $17415~3: $28./([-/$26]) $18490~5: $29./([-/$26]) $17419: $30./([-/$26]) $13125: $31./#[Hide/Show] obtained rewards./$ to $! Deed rewards./$" to $% Deed rewards./$& to $' Deed rewards./Reset rewards./Go back./Leave.]
+13627: Resetting rewards will increase the number of deeds required but will let you reobtain items you have previously received.
+13628: You are able to reset your rewards for $0 deed[/s].
+13629: Reset rewards? [Yes. (Reset #$0)/No.]
+13630: You have not yet received some rewards. Resetting means that you will be unable to obtain them. Are you sure?
+13631: Really reset rewards? [Yes. (Reset #$0)/No.]
+13632: Rewards have been reset.
+13633: Move to a Mog Garden? [Most definitely!/Maybe not.]
+13634: Your rank must be three or higher or you must possess $6 to enter a Mog Garden.
+13635: Heigh-ho, kupo! I'm the boatswain for this darned-good dinghy, and it's my duty to divulge all the discursive details about Mog Gardens. So, what kind of cognition are you craving?
+13636: What do you want to know? [Nothing./What Mog Gardens are./How to get to one./What Mog Garden books are available.]
+13637: We've got staggering stores of the following scholarly scripts and tantalizing tomes, kupo!
+13638: Which book will you buy? [None./3./$3./$3./$3./$3./$3.]
+13639: $3, is it, kupo? Interestingly enough, that one is reported to raise the rank of your [furrows/arboreal grove/mineral vein/pond dredger/coastal fishing net/monster rearing skills] to ridiculous reaches...for the small sum of $7 gil.
+13640: Buy the book? [Yes./No.]
+13641: Trading tender for treasures...isn't shopping sublime, kupo?
+13642: Disappointingly, I doubt you've the discernment to descry the details of these documents. Exit then, and expand the extent of your experience.
+13643: Sorry, but our stocks of such sundries are so scarce we can't sell them.
+13644: Mog Gardens are lovely locales that lie latent in the west, on the Adoulin Islands. They're true treasure troves of taintless resources, frothing with fish, bursting with birds, and filled with forests, kupo!
+13645: Think of it as your Mog House away from home! Just like that fantastic facility, there's a wealth of wonders just waiting to well up for your disposal.
+13646: Spread your wings as wide as you wish without worrying about the consequences, kupo. The Green Thumb Moogle will handle the husbandry of this homestead while you're out hacking at hordes of hellions and cavorting across continents.
+13647: If you're shivering to shove off, then shuffle aboard the Mog Dinghy over there! It may seem small and slightly slipshod, but the mysterious moogle magic we manifest upon it is magnificent enough to move you malms and malms in mere minutes.
+13648: Once you adjust to your Adoulinian asylum, I'll even proffer printed publications that will make your Mog Garden more majestic. Grab your gil and get ready, kupo!
+13649: While it'd be wickedly wonderful to whisk away everyone to Mog Gardens, only "Certified Adventurers" and "pioneers" are allowed entry to these excellent expanses of escape, kupo.
+13650: "Certified Adventurers" are those who have applied themselves assiduously, attaining the third mission rank in any nation.
+13651: It doesn't have to be here as long as you were once appropriately accredited in times antecedent.
+13652: If Adoulin's body politic has properly permitted you to perform pioneering duties, however, your so-called "rank" can be lower than a leech's legs and you'll still be let in, kupo.
+13653: It might be in your best interests to speak to [Urbiolaine/Igsli/Teldro-Kesdrodo/Nunaarl Bthtrogg] in $8 [(G-10)/(E-11)/(J-10)/(H-11)].
+13654: Join which Unity? [I need time to consider./Pieuje./Ayame./Invincible Shield./Apururu./Maat./Aldo./Jakoh Wahcondalo./Naja Salaheem./Flaviria./Yoran-Oran./Sylvie.]
+13655: Should you join one Unity, you will not be able to switch to another one until the rankings are tallied. Proceed anyway?
+13656: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? [Yes./No.]
+13657: Switching Unities will cost a total of $1 Unity accolade[/s], and you will be unable to switch until the rankings are tabulated. Are you sure you wish to switch Unities?
+13658: Join [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/No.]
+13659: You have joined [Pieuje's/Ayame's/Invincible Shield's/Apururu's/Maat's/Aldo's/Jakoh Wahcondalo's/Naja Salaheem's/Flaviria's/Yoran-Oran's/Sylvie's] Unity!
+13660: Any actions to take? [None at the moment./Bring me to a Wanted encounter area./Enhance my equipment.[/ (In progress)]/Add an attribute to enhanced equipment./Items, please. (Up to $17 acc.)/Special mats! (Up to $17 acc.)/I want to change Unities./Tell me more about all this.]
+13661: Which area? [Return to previous selection./Currently accepted area./Content level 99 and below./Content level 119./Content level 122./Content level 125./Content level 128./Content level 135./Content level 145./Content level 137.]
+13662: Go to which area? [Return to previous selection./$8./$8./$8./$8./$8./$8./$8./$8./Next page.]
+13663: Go to $8? ($2 acc.) [Yes. (Cost: $1 accolade[/s])/Not now.]
+13664: Hear an explanation on which topic? [Return to previous selection./Give me a quick outline./Unity Concord./Unities./Unity chat./Connection with Records of Eminence./Wanted battles./Enhancing equipment./Adding attributes to enhanced equipment./Rewards and accolades./Changing Unities./Unity rankings./Unity leader alter egos.]
+13665: Select a type of equipment. [Return to previous selection./Item level 119 weapons/shields./Item level 119 headgear./Item level 119 chestgear./Item level 119 handgear./Item level 119 leggear./Item level 119 footgear./Level 99 equipment./Level 98 and lower equipment./Accessories.]
+13666: Which piece of equipment? [Return to previous selection./#./$1./$2./$3./$4./$5./$6./$7./Next page.]
+13667: Select an item category. [Return to previous selection./@/@/@/@]
+13668: Which? (Up to $17) ($0 acc.) [Return to previous selection./$1: $2 acc./$3: $4 acc./$5: $6 acc./$7: $8 acc./$9: $10 acc./$11: $12 acc./$13: $14 acc./$15: $16 acc./Next page.]
+13669: Buy $1? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13670: $3 $0$0 ? [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13671: You have reached the weekly exchange limit of $0 accolades. Your ability to purchase items and special materials will be restricted until next week (Earth time).
+13672: You are Unable to switch unities at this time. The ranking tabulation period is in progress.
+13673: Enhance the $1? ($2 acc.) [Yes, please. (Cost: $0 accolade[/s])/No, thank you.]
+13674: Add attribute to equipment? ($2 acc.) [Yes. (Cost: $0 accolade[/s])/No.]
+13675: Store Reinforcement Points for equipment? [Yes. (Cost: $6 $0$5 )/No.]
+13676: Unity Concord is a system promulgated and managed by the Adventurers' Mutual Aid Network.
+13677: Participating adventurers are able to receive a variety of benefits and rewards just by engaging in their everyday activities.
+13678: "Unity" is a catchall term that refers to the group that participants belong to.
+13679: Unity leaders are individuals who have strong ties to adventurers' activities and are sterling representatives of their home nations.
+13680: Members of the same Unity can converse with each other over great distances through the use of specialized figurines known as "$5."
+13681: Chat settings may be changed by selecting "Status" from the main menu, and choosing "Unity Info" under the "Unity" submenu.
+13682: You may not always be able to join the chat if too many players are participating at once.
+13683: Those belonging to a Unity are able to undertake special Records of Eminence objectives related to Unity Concord activities.
+13684: The three pertinent categories include shared objectives, Unity leader-specific objectives, and Wanted battle objectives.
+13685: Shared objectives may be taken regardless of which Unity you have joined. These tasks can be undertaken at any time, and change every day at midnight (JST).
+13686: Unity leader-specific objectives are tied to the Unity's eponymous leader and change each week.
+13687: "Wanted" objectives center around vanquishing particularly heinous foes that terrorize Vana'diel.
+13688: These objectives are of a higher caliber, and thus require currency known as "Unity accolades" to undertake.
+13689: Shared and leader-specific objectives provide more accolades than run-of-the-mill objectives.
+13690: Vana'diel has always been plagued by nefarious foes pillaging the landscape, but relatives of some of the more heinous ones have been spotted lately.
+13691: The A.M.A.N. has deemed it necessary to eliminate these Wanted targets, and has notified Unity members that they are of the utmost priority.
+13692: A list of these foes can be viewed at any time by selecting the appropriate subcategory under the objectives list.
+13693: Unity Concord representatives are able to provide participants with transportation to the areas where these threats can be found.
+13694: Though tackling the profane will likely require participation of your allies, the objective can be undertaken so long as at least one person has set the appropriate objective.
+13695: When you set the objective and commence the battle, the requisite number of Unity accolades will be deducted from your total.
+13696: Successful challengers will be rewarded with special rewards in addition to the normal sparks of eminence.
+13697: No Unity accolades will be charged should you commence the battle without having the appropriate objective set, but the rewards you can reap from your efforts will be limited.
+13698: You can snatch unparalleled equipment and materials from the slain corpses of Wanted targets.
+13699: An A.M.A.N. specialist versed in arcane harmonization has kindly offered to use these materials to bring out the latent potential in such pieces.
+13700: One of the Unity guides will be pleased to accept certain combinations of equipment and materials to begin the process for you.
+13701: A number of accolades is required for this service, but the precision and accuracy of her methods are without equal, and there is no worry of your equipment being destroyed.
+13702: You can use specified materials to add new attributes to equipment that has been upgraded.
+13703: Utilizing additional materials after adding an attribute can accumulate Reinforcement Points for the equipment and increase its rank.
+13704: Increasing your equipment's rank can boost its attributes, while some equipment can also have additional attributes added later.
+13705: Speak to the Unity guides after gathering the necessary materials for your equipment in order to add attributes to it or increase its rank.
+13706: The first time you add an attribute to a piece of equipment will require the use of Unity accolades.
+13707: It also requires that you first complete a specific Records of Eminence objective.
+13708: The work you request will be carried out on-site by a specially trained Unity guide.
+13709: Completing Records of Eminence objectives as part of a Unity will reward you with Unity accolades in addition to sparks of eminence.
+13710: These accolades not only serve as a symbol of prestige, but can also be exchanged for a variety of services.
+13711: Some of these services include purchasing items, securing battle zones for hunting Wanted targets, fees for strengthening equipment, and more.
+13712: Please note that you may only exchange a maximum of $0 accolades per week (Earth time).
+13713: You may switch Unities once during the Unity ranking tabulation period.
+13714: This is not a decision to be taken lightly, for switching Unities will cause you to forfeit any benefits you were receiving from your previous one.
+13715: This process requires a fair deal of paperwork, and the A.M.A.N. will charge you an accolade fee based on your rank.
+13716: However, your valorous deeds remain wherever you choose to go, and you will not lose any other accolades.
+13717: Rankings are decided through the combined efforts of each of the Unity's members.
+13718: The A.M.A.N. tabulates all the good deeds done during a period of time and confers benefits on a Unity for the following ranking period.
+13719: Some of these benefits include changes to Unity accolades gained and the effects of equipment earned from Wanted battles.
+13720: Yes, you read that correctly--the attributes of certain equipment will increase in line with your Unity's ranking.
+13721: On the other hand, members of a Unity that finds itself on the lower rungs will enjoy an increase in accolades and capacity points earned to help bring them up to par.
+13722: Additionally, an individual's evaluation is the sum of the accolades they have earned divided by $0. A Unity's ranking is the average of all eligible members' individual evaluations.
+13723: The A.M.A.N. does not look kindly on those who only seek to siphon rewards from others' hard work, and thus only confers these boons on those who have collected at least a certain number of accolades.
+13724: Unity leaders may also join you as alter egos for a limited period of time.
+13725: Those with evaluations of $0 or greater will be able to call forth an alter ego of their leader to assist them in battle.
+13726: Those eligible will be able to use the alter ego from the moment they acquire the appropriate ranking level until the tabulation after the next.
+13727: A leader's alter ego grows in power the higher their Unity is ranked.
+13728: Changing Unities will remove the player's ability to call forth their leader's alter ego at the moment they leave their current Unity, regardless of personal evaluation or remaining time.
+13729: A player will have to work hard in their new Unity and acquire a sufficient evaluation to regain the ability to call forth their new Unity's leader.
+13730: It goes without saying that players must first have acquired a Trust permit in order to avail themselves of this opportunity.
+13731: Those desiring to participate should seek out one of the initiative's representatives, dressed in green, in one of the three nations.
+13732: You are currently under Unity restriction. Please try again during the next tabulation period.
+13733: The A.M.A.N. has removed the Unity restrictions placed on you. Please choose your Unity.
+13734: You call out for aid from the Unity leaders, but none have heeded your call. Please try again.
+13735: You have already changed Unities. Please wait until the next tabulation period.
+13736: Should you choose to be teleported to this area, you will not have enough accolades to participate in the Wanted battle. Teleport anyway?
+13737: Teleport anyway? [Yes, please./No, thank you.]
+13738: The mandragora surreptitiously hands you something.
+13739: The crystal resonates deep within your soul!
+13740: Vana'diel...in the year 898?
+13741: I must make haste for Reisenjima and find the master before...
+13742: Master, look at the orb.
+13743: You have set us on the proper course and passed through the first of many gates to come.
+13744: This precious jewel is one of Reisenjima Sanctorium's most mystical treasures.
+13745: Our legends state that it was formed from the energies of a thousand different lives.
+13746: Though it had originally been regarded as but a minor artifact, in the future you and my father had drawn forth its true power.
+13747: In reality, it is a piece of the mothercrystal.
+13748: Please, Master. You may have taken the first steps, but I urge you to continue pressing on.
+13749: Gilgamesh awaits word in Norg.
+13750: I've set up shop at this site in search of souls to sell sundries to, kupo! Come back later for some glorious goodies!
+13751: Come hither, able adventurer! From precipitously perilous peaks to completely creepy caves, I've gathered glorious goodies to sell to one such as yourself!
+13752: Y-you don't seriously suspect I stole this sumptuous stash through some surreptitious scheme!? I assure you I acquired them on the up-and-up!
+13753: You won't find frivolous frauds here, only absolutely authentic articles, kupo!
+13754: Back to buy, kupo?
+13755: Tremendous timing! I've imported an incredible inventory of immaculate items!
+13756: What would you like? [Nothing for now./Medicine./Ammunition./Ninjutsu tools./Foodstuffs./Scrolls/materials./Keys./Equipment./Various key items.]
+13757: Get your hands on what? [None of these./$3: $17 gil./$3: $18 gil./$3: $19 gil./$3: $20 gil./$3: $21 gil./$3: $22 gil./$3: $23 gil./$3: $24 gil./$3: $25 gil./$3: $26 gil./$3: $27 gil./$3: $28 gil./$3: $29 gil./$3: $30 gil./$3: $31 gil./$3: $ gil./Previous page./Next page.]
+13758: $6 will run you $2 gil, kupo.
+13759: Purchase that item? ($0 gil) [Yes, please./No, thank you.]
+13760: Always a pleasure!
+13761: Master, behold your orb.
+13762: Your path remains steadfast, and you have successfully reached the third gate.
+13763: But the spirits which protect Reisenjima Sanctorium have gone silent...
+13764: And I am unable to remain here in 884.
+13765: My abject failure to guide you in your hour of need is a shame that I shall not overcome.
+13766: Had I been able to better serve you, then maybe...
+13767: But I can safely place my trust in you. You have come this far, and the orb grows stronger with each passing day. You will be ready when the world has reached the fulcrum.
+13768: May your steps remain swift and true.
+13769: Head for...the palace...
+13770: Master, behold your orb.
+13771: Your path remains steadfast, and you have successfully surpassed the third gate.
+13772: But there remains one whom you have yet to meet. A young woman who plays a vital role in your story.
+13773: I am afraid that you will not be able to see her in the world's current state.
+13774: If only I could return to 884 and walk by your side once more!
+13775: Yet my mind and body are crippled, and I can scarce muster this small advice--!
+13776: Master...forgive me.
+13777: Lead Aht Urhgan out of the darkness and forge the bonds you were destined to.
+13778: I'm so hungry...
+13779: Ovjang...Ovjang, where are you?
+13780: I'm here...[in Aydeewa Subterrane/on a pirate ship]...
+13781: Luzaf...I wish you were here...
+13782: Please...help me...
+13783: Razfahd must be stopped...
+13784: Despite betrayal by those I once called my own...
+13785: I refuse to yield until humanity's blight is purged from this land.
+13786: I now serve to bring darkness unending, an umbral shroud choking the life from Vana'diel.
+13787: Simply opening the Gate of the Gods would bring the Zilart what they have been denied for over ten thousand years.
+13788: The endless nightmare would be endless no longer.
+13789: Have you ever paused to consider exactly whose nightmare it is?
+13790: Those who have ceased to be? Those who walk Vana'diel as she stands today?
+13791: Old gods? New?
+13792: No. It is a nightmare of the crystals themselves.
+13793: We were born in Vana'diel and exist only due to her endless bounty.
+13794: And yet our very presence here is an affront to her. We are the source of her nightmare.
+13795: There is one secret to humanity's success: ambition. Imagining a better future, it strives ever onward in search of it.
+13796: Having seen the promised land, it rages and struggles each day to become more than it was meant to be.
+13797: And it continues to claw its way forward, even if what it aspires to be does not truly exist.
+13798: Its insatiable avarice defines it more than even it can possibly realize.
+13799: But I am not a "human" such as you. I will be--I must be--an existence far beyond the most grandiose thought of such petty, grasping beings.
+13800: For that is what life is. And those who cannot reach that pinnacle are fated to perish.
+13801: Time is a cruel beast whose savageness cannot be sated.
+13802: Every man, woman, and child feels its claws sinking into their backs, the talons digging ever deeper with each passing day.
+13803: It marches on, unstoppable, immaterial, and unforgiving, and all any of us can do is watch it pass.
+13804: I claimed ever greater power in pursuit of my goals until my time, too, ran out.
+13805: All I wanted to do was protect my countrymen...my homeland...
+13806: An alternate world, with alternate fates and alternate existences.
+13807: I gambled my own life away to protect the world I called home.
+13808: Can you truly say that you [did/would have done] any different?
+13809: I channeled my love for my homeland into power.
+13810: When I fell before you...
+13811: ...did it mean everything was for naught?
+13812: I, and I alone, have seen the true nature of things in this world.
+13813: And thus, I have learned why all beings that rise must fall.
+13814: This is a burden which I must bear and prevent from happening ever again.
+13815: Should you not understand why my goal is pure and just, then you are unworthy of being called human.
+13816: Open your eyes and witness the truth!
+13817: Don't let ignorance cloud your judgment!
+13818: <Player>...
+13819: What you see before you--is it a dream, or something else?
+13820: Is this a dream? [What else could it be?/No. It's something more...]
+13821: Come. Surely your vision cannot be that clouded.
+13822: A keen eye, as always.
+13823: The minds of all who have existed--and all who will exist--are as one.
+13824: As, too, are the light and darkness inherent in the mothercrystals.
+13825: I need not point out that the apparitions appearing before you are those whose schemes you have foiled.
+13826: And those...
+13827: ...Who you are destined to stop.
+13828: I have sought them out of my own volition, hoping to manipulate their essences for my own ends.
+13829: Dark, infernal forces, serving as a counterbalance to the light you hope to make manifest.
+13830: And now is the time for me to fill you with that energy. Come.
+13831: You don't really expect to save the world, do you?
+13832: At best you might buy it a few more phases of the moon.
+13833: Even should I fall, there is a grand legion aching to take my place.
+13834: So in the end, all my journeys have been utterly without meaning.
+13835: One by one, those I have trusted have fallen. None are left to prop me up when I begin to falter.
+13836: Hahaha...none know who I rrreally am.
+13837: False prophets. False worlds. False adventurers... The truth is the pain I feel inside.
+13838: Each combat has prepared me for the next...but in the end, it's all worthless. A new age is descending, and it threatens to leave me behind.
+13839: Pandora's box-wox has been opened, overturned, and shaken until nothing remains inside.
+13840: Perhaps not even your precious-wecious "hope."
+13841: Some claim that hope is what keeps humanity sane in these trying times...yet in reality it is a prison that shuts away the real world.
+13842: No matter how deeply darkness has penetrated your soul...
+13843: ...no matter how much you want to give up...
+13844: You must not. You cannot.
+13845: Hope is something seized, not given.
+13846: Whether surrounded by friends or walking a hard road alone...
+13847: There is unshaking value in seeing your path to its conclusion.
+13848: You are the culmination of all your experiences.
+13849: Even those who are gone still depend on you.
+13850: <Player>, this rhapsody is yours to sing.
+13851: @@
+13852: $3{$3^$3$97F$31V$P10i]\7
+13853: G1)g$3539533_)g $P163L$g$R=? $3G$3X$3P[$3v gR$P10r$7
+13854: Master--the orb.
+13855: You have set history on its proper course yet again, having passed through the fourth gate that stood before you.
+13856: Yet Selh'teus's words ring true--the darkness slumbering within you is great.
+13857: He claims that not even the crystal is enough to illuminate it.
+13858: I must confess my trepidation at the current state of affairs. What if the darkness overcomes you not in the future, but even earlier than I had anticipated?
+13859: What a morbid state of affairs we find ourselves in.
+13860: We must take solace in the hope that the orb will guide you to safety, so that you will be prepared for the Reckoning.
+13861: Until that time, your footsteps must remain unerring.
+13862: And so fate guides you to Ceizak Battlegrounds...
+13863: The future should have changed...
+13864: ...And I should have been dissolved into nothingness.
+13865: Yet the crystal's clarion song has ceased.
+13866: And the Cloud of Darkness threatens the world once more.
+13867: You have entered the crafting target area.
+13868: Crafting the requested items in the current target area will count towards the number of items you are required to deliver them.
+13869: You have left the crafting target area.
+13870: $1 $0 remaining.
+13871: I am in need of some $0. Can you get $1 more for me?
+13872: Yes, this is the $0 I am looking for. Please bring me $1 more.
+13873: Yes, these are the $0 I am looking for. Please bring me $1 more.
+13874: This is the last of them. They look so delicious, I think I might want to order some for myself!
+13875: I'm looking for $0 and require $1 more.
+13876: With this delivery of $0, I need $1 more to fulfill the order.
+13877: With this delivery of $0, I need $1 more to fulfill the order.
+13878: That should do it! I have all the $0 I require. You can consider the order fulfilled.
+13879: Welcome to the Steaming Sheep, home of the finest cuisine Bastok has to offer.
+13880: Today we're pleased to be hosting the 1st Annual Brygid Cosplay Fiesta!
+13881: Enter the Steaming Sheep? [Ready to go!/I need more time.]
+13882: Wow! What a performance!
+13883: Yes, words absolutely fail me at how your outfit accentuates your, um...curves? Well, a job well done, even though I would normally hope for something a little more family friendly.
+13884: Ladies and gentlemen, things are really starting to heat up in today's event, with people coming from far and wide to show all Bastok that they've got what it takes to become our champion.
+13885: Who'll be next to take the stage and wow us with their devastatingly accurate and altogether embarrassing representation of famous Bastokers?
+13886: Hey, I don't think "embarrassing" is the best word to use here...
+13887: Our next three contestants are ready to take the stage! Here they come, so give them a big round of applause!
+13888: Yes, feast your eyes on these wonderful reimaginings of real-life stars! Ogle them from head to toe and take in every last nook and cranny of their delectable forms!
+13889: O-ogle? Delectable!?
+13890: You all did such fantastic jobs! I would have mistaken you for the real thing!
+13891: Let's cut now to the judges and see what their frank assessments are. Judges, take it away!
+13892: I gotta say, it took a lot of guts for you to choose Ayame, but that's one heck of a show you've put on!
+13893: Ayame, fourth member of the Mythril Musketeers, is known for her grace in attitude and attire, as well as her skill on the field of battle.
+13894: I would have expected many more people to choose to dress up as her, but it looks like you blew the competition away before they could even come out!
+13895: No one wanted to choose me...
+13896: Huh!?
+13897: And if it isn't the woman, the myth, the legend herself! Ayame, would you give us your impression of the contestant's best attempt at reproducing your loveliness?
+13898: Uh... Well, yes, it certainly is quite the sight.
+13899: I might not be the, uh, most popular choice, but I'm touched that someone chose me as their inspiration.
+13900: Oh, no, Ayame, it has nothing to do with popularity! People are just so blinded by your brilliance that no one felt they could even hold a candle to you. Isn't that right?
+13901: Oh, yes! Of course! I'm, um, sorry that I couldn't hold a candle...
+13902: And that's a big fat no from me! It seems our participant finally realized that they can't cut the mustard!
+13903: Thanks...I guess?
+13904: That's right, Ayame is just completely untouchable!
+13905: Let's move on to our next contestant, shall we?
+13906: Wow, I can't believe that someone would actually choose Azima, perhaps the stuffiest woman in all of Bastok!
+13907: When I see your stunning profile, as wrinkled and gnarled as the old oak tree mere moments before it is felled by the lumberjack...
+13908: I think back on my own mother, may she rest in peace...
+13909: What ya blabbering on about, talking about me like I'm some old hag!?
+13910: Urk--!
+13911: Why, if it isn't the esteemed Azima herself, here to give us her frank assessment of our challenger!
+13912: Oh no, you don't escape that easily, young lady. I heard every word you said!
+13913: N-n-no! Don't hurt me! I was just providing some color commentary!
+13914: Hmmm. I suppose I could give ya an honest opinion.
+13915: Try learning some respect for your elders!
+13916: Look at the fire in her eyes--obviously a reflection of the pile of hot garbage she sees before her!
+13917: H-hey! I did my best...
+13918: And yet another catastrophic failure abandons the stage! Azima's biting tongue remains too much to bear!
+13919: I can't believe youngsters these days...
+13920: Don't let this put a damper on your spirits, folks, for the show must go on!
+13921: Would you take a look at this--a recreation of the magnificent Iron Eater, whose steely gaze can silence even the loudest of crying babies!
+13922: True to his name, he can devour even the toughest of metals!
+13923: I really don't think that he--
+13924: For this contestant, let's hear from one of our female judges!
+13925: I-Iron Eater?
+13926: Amazing! Even Hilda is fooled by the costume's incredibly high degree of accuracy!
+13927: Hey, Ken, you're finally starting to sound like a real emcee!
+13928: Well, given how much you've talked over me across the years--
+13929: But no, our contestant is not, in fact, the real thing!
+13930: Wh-what the--!?
+13931: So, Hilda, what do you say!?
+13932: Our challenger looks like Iron Eater, but the mannerisms are missing a little...je ne sais quoi.
+13933: Je-ne-sais-what now?
+13934: Ahhh, I think I get it. No matter how accurate you can recreate the outfit, it is all for naught unless you can properly mimic the original's quirks! Yes, another person for our ever-growing trash heap!
+13935: Marin...I think you're being a bit too harsh on everyone.
+13936: So crawl back under the rock you call home and show not your face again!
+13937: Feast your eyes on our next model--a true sight to behold!
+13938: Why, look at the aura of loserness emanating from him! Absolutely true to the original!
+13939: Can't you be a little more positive!?
+13940: Let's hear from one of our female judges. Hilda?
+13941: I-is that Naji!?
+13942: Wow! If she really thinks that's Naji, the costume must be perfect!
+13943: Hey, Ken, you're finally starting to sound like a real emcee!
+13944: Well, given how much you've talked over me across the years--
+13945: I've, uh, got some unfortunate news. Naji was scheduled to give a few words, but I'm afraid he can't be here today.
+13946: Oh no! What a terrible turn of events!
+13947: But, uh, our audience remains unfazed by this unexpected twist!
+13948: Yet someone just like him is right up there on the stage.
+13949: Ah, and you mean to say that our contestant is close enough to the real Naji.
+13950: Or, to put it another way, everything would have turned out the same with or without Naji here!
+13951: I don't think you should be putting words in her mouth...
+13952: Anyway, thank you, Naji! I'm sure your efforts will be reflected in your final score!
+13953: And next, we've got-- Ack!
+13954: Zeid...
+13955: Ha ha ha!
+13956: Amazing costume! This is clearly the pinnacle of mankind's achievement!
+13957: You don't know how difficult it was to get ahold of all this rare equipment!
+13958: All that mythril set me back an arm and a leg.
+13959: Mythril...?
+13960: You do cut an impressive pose, to be sure, but there's something about you that isn't quite Zeid-like...
+13961: Ah, yes! Now that's more like the Zeid I know.
+13962: This costume is absolutely perfect! You should follow this young man's lead and make your Zeid outfit more like his!
+13963: You there! I'm enlisting you into our little show. Come up onto the stage!
+13964: Yes, you! Come on, being asked to participate in such a wonderful show is quite the honor! Get your rear in gear!
+13965: I, uh, just came here to talk to Oggbi...
+13966: Of course, of course! What Oggbi thinks of your outfit is quite important indeed! So take the stage and hear just what he thinks of your getup!
+13967: Oggbi, I'd really prefer to talk someplace quieter...
+13968: So, judges, what do you have to say about this magnificent Zeid costume?
+13969: I don't think I've ever seen a more impressive Zeid! Everything is just as it should be--the way you walk, the way you talk...it's uncannily close to the real thing!
+13970: Wherever did you get such wonderful equipment? It's absolutely marvelous!
+13971: I don't think the real Zeid is supposed to be in Bastok right now...
+13972: Why, even Oggbi is fooled by the realism that our newest contestant exudes! Spectacular!
+13973: Why, Zeid-alike, I think our judges are beyond impressed by the extent of your efforts!
+13974: What the heck is going on?
+13975: It's like you're actually him...!
+13976: <Sigh>...
+13977: While I'd love to be able to chitchat with you more, Zeid-alike, we've got some more contestants to get through!
+13978: And without further ado, here's our next challenger...
+13979: [Azima/Naji/Black Mud/Michea/Nbu Latteh]!
+13980: Why, this is the costume to end all costumes! Look at how [he/she] positively gleams with radiance!
+13981: I bet our maven of fashion, Brygid, is brimming with pride at how you've really helped bring the show together!
+13982: I'm impressed by the accuracy of your attempt. But my opinions don't matter as much as the judges'!
+13983: Surely the audience also appreciates all the effort you put into your appearance!
+13984: Well, you certainly do have an...interesting take, to be sure! Words fail me.
+13985: So, uh, Ken! Take it away!
+13986: I...well...yes, words fail me, too.
+13987: ...
+13988: Yes, yes, this is exceptional. The time and effort you must have put into this is astounding.
+13989: I absolutely love it. I'd love to have you wait on me hand and foot...or is that asking a bit too much?
+13990: Something is a little off...but then again, Naji himself is usually a little off, too.
+13991: You're right, Cid. Naji always did have a couple screws loose.
+13992: Hahaha!
+13993: You put nearly no thought and effort into this, did you? Yet that in and of itself is rather Naji-esque.
+13994: Speaking of Naji, it's about time for him to pay his tab...
+13995: We were scheduled to hear a few words from Naji himself, but unfortunately he can't be with us today.
+13996: So instead, Ken will give us the final word!
+13997: M-me!? Well...thanks for coming!
+13998: And there we have it, folks! A big round of applause for our Naji lookalike!
+13999: Hang on...[he/she] looks nothing like Azima.
+14000: O-oh no. I can feel all the war memories come flooding back...
+14001: I may have only caught a glimpse of her once, but that matronly figure cannot be denied.
+14002: Perfect. Absolutely perfect. I remember once having thought that she was the wickedest of witches.
+14003: War memories? What the--
+14004: My goodness, you certainly have Azima down to a T. I can feel her gaze of self-superiority bearing down on me even now.
+14005: Yes, you certainly do have the same air of competence about you.
+14006: Azima and I have a long history. Why, it was she who introduced me to my now-husband.
+14007: Really? She did that!?
+14008: Wait, this is supposed to be an Azima outfit? Hmm...
+14009: Haha! For a moment, I thought I misheard, too!
+14010: And now we'll hear from Azima herself!
+14011: "The Hermitess of the Highlands"...
+14012: The what!?
+14013: Yes, that is what they used to call me! And you, young one, can certainly make something from nothing.
+14014: I have no idea what you're on about, Azima, but thanks for your insight! A big round of applause!
+14015: Outstanding work, adventurer! You took someone who doesn't really stand out from the crowd and brought them to life!
+14016: Workers of all stripes really deserve more recognition for their efforts. Why, even my apron was made by a skilled laborer such as him.
+14017: And let's all be thankful that no one but you wears something like that.
+14018: Black Mud and I share a long history of camaraderie. I was prepared to give you zero points if you didn't do him justice...but you have.
+14019: I just wish he was a little better at reading maps.
+14020: Cid, can you help jog my memory? I can't properly recall how Black Mud dresses.
+14021: Hahaha, me neither! In fact, who is Black Mud, anyway?
+14022: And now for a few words from Black Mud himself!
+14023: If you're ever on the lookout for rare materials from Tavnazia, Adoulin, and places beyond, be sure to visit me, and I'll place them on order for you. Black Mud, here for all your everyday needs!
+14024: Um, you're not here for the free advertising. We're all waiting for your comments on [his/her] outfit.
+14025: I don't know what this is all about, but if you're using my likeness, you need to pay the proper compensation--
+14026: Yes, yes, thank you, Black Mud! Now go back to where you came from, to the rousing applause of our audience!
+14027: Why, I didn't think it was possible for someone to recreate Michea so faithfully!
+14028: Her wares have always impressed me with an inner warmth that can only come from someone who truly loves their craft, and you have brought that same warmth to your costume.
+14029: As warm as your wonderful meals, Hilda.
+14030: Oh, Oggbi, you're making me blush! Maybe I'll have to make you a little extra next time you stop by.
+14031: I think you did a good job of emulating Michea. What do you think, Cid?
+14032: Hmmm... A goldsmith, huh? I think maybe I should order my special someone a new ring...
+14033: Dalzakk, if only you were here to see this... But I guess [he/she]'s just a contestant, not the real thing.
+14034: Michea currently works as a goldsmith here in Bastok, but she originally hails from San d'Oria.
+14035: Oh, maybe that's why I can't quite place the outfit.
+14036: No, I think it's because the entire getup is all wrong.
+14037: And finally, a few words from Michea herself!
+14038: Of all the people you could have chosen, I'm humbled and honored that you chose me.
+14039: This entire event has been such a joy, and it helped me to reaffirm that fashion is an important part of everyone's lives.
+14040: But there is one thing that I don't understand.
+14041: Why aren't you giving out points for accessories!? I'm a goldsmith, and I can say with confidence that accessories are the glue that holds an outfit together!
+14042: The next time you hold this event, be sure to give them their proper due! I'll be happy to lend my expertise to the panel.
+14043: Thank you, Michea, for that absolutely riveting--if rather out of place--tirade! We would expect nothing less from a Bastokan merchant!
+14044: A big round of applause for Michea and our competitor!
+14045: I'm quite impressed at how you've made Nbu Latteh really come to life!
+14046: Yes, it's astounding. Perhaps it's because you share a bond as adventurers?
+14047: Nbu Latteh is an adventurer? Really?
+14048: In the flesh. She's as fast as a famished chocobo and never lets prey elude her.
+14049: That's odd. I heard stories from the guards that...you know what? Forget I said anything.
+14050: Hmmm. I certainly have seen worse...but I've also seen better.
+14051: Yes, although we do appreciate the efforts you've put into replicating her one-of-a-kind charms.
+14052: I'm not sure "charms" are what's lacking here...
+14053: I'll tell you what's lacking--ale! I need more ale!
+14054: Nbu Latteh is an adventurer who is often spotted in Bastok Mines. Ah, yes, doesn't she have a lovely daughter...?
+14055: Not that we see her too much these days. I wonder what she's up to.
+14056: Well, she is an adventurer. But I don't recall ever seeing her dressed in...that.
+14057: Thank you for your assessment, judges. Normally we'd ask Nbu Latteh to come say a few words herself, but she's a bit tied up at the moment.
+14058: So instead, we've got her fan club here to comment on her behalf!
+14059: Ah, hello! I'm Roh Latteh, here on behalf of my mother.
+14060: Oh, aren't you just the cutest thing! I could gobble you right up! Maybe I should trade my brother for you.
+14061: ...That wouldn't be so bad.
+14062: If I do a really good job, she said she'll give me some candy, so...I'll try my hardest!
+14063: Oh, how precious and well-behaved you are! We might just have some cookies for you too!
+14064: Baked fresh by Hilda herself! Why, I would even give my brother for one of those chewy delights!
+14065: ...Again, that doesn't sound half bad.
+14066: [Mr./Ms.] Adventurer...
+14067: Thanks for doing so well!
+14068: That's all!
+14069: That's right, everyone, looks like our cute little friend is done for now! A big round of applause!
+14070: I was watching the whole time, <Player>!
+14071: It must have been tough coming up with your outfit, but I think you did a great job.
+14072: Brygid was pleased, too, so she's sure to help us get a really great disguise for Raebrimm.
+14073: Thanks for participating today!
+14074: We're still tallying up the judges' score, so hang on just a little while longer.
+14075: Even those who didn't place highly will receive a token reward from Brygid herself, so be sure to connect with her soon.
+14076: Take care!
+14077: I've got to head out myself. See you shortly!
+14078: Please disable your lockstyle settings and try again.
+14079: This is an explanation of the Assist Channel feature, which allows new and returning players to seek help from veteran adventurers.
+14080: You must take on the "$0" Records of Eminence objective before receiving the explanation.
+14081: You must complete "$1" before taking on the "$0" Records of Eminence objective.
+14082: What do you want to learn about? [What is the Assist Channel?/How can I post a message?/What are the requirements?/Where can I access it?/Tell me about mentor messages./Where can I find mentors?/What are Thumbs Up and Warnings?/What happens if I am muted?/When do my posting rights expire?/Nothing for now.]
+14083: The Assist Channel is a special chat channel that allows adventurers to ask questions and receive advice from veteran players known as mentors.
+14084: Press the space bar to bring up the text window at the bottom of the screen and type "/assistj (your message)" or "/assiste (your message)" to post your message.
+14085: You can also use "/aj" for "/assistj", and "/ae" for "/assiste".
+14086: Additionally, pressing CTRL+Q will display "/assistj" or "/assiste" in the text window for you.
+14087: You can change the CTRL+Q shortcut command...
+14088: ...by going to Main Menu > Config > Misc. 2 > Key Assignment > Commands > Chat: /AssistE or /AssistJ.
+14089: It is recommended that you use "/assistj (/aj)" when posting in Japanese, and "/assiste (/ae)" when posting in English.
+14090: You must meet one of the following conditions in order to post to the Assist Channel.
+14091: 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
+14092: 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
+14093: 3. You are a mentor You may post messages as long as you remain a mentor to other players.
+14094: New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+14095: If you wish to check how long you can continue to post for, speak to an % and choose "When do my posting rights expire?" to see how much time you have left.
+14096: The Assist Channel can only be used in the following areas.
+14097: Available areas: $7, $7, $7, $7, $7, $7...
+14098: ...$7, $7, $7, $7, $7, $7, $7, $7...
+14099: ...$7, $7, $7, $7, $7, $7, $7, $7...
+14100: ...$7, $7, $7, and your Mog House (Rent-a-Room).
+14101: You cannot post or read messages outside of the areas listed above.
+14102: Even in areas where messages are allowed, you cannot post consecutive messages. Please wait a while after posting a message.
+14103: Mentor messages are accompanied by a flag (o/) marker. This marker indicates the mentor's reliability (Mentor Class) and experience as an adventurer (Mastery Rank).
+14104: As a mentor's Mentor Class increases, the color and shape of the marker will change: o/ > o9 > oC
+14105: A oC marker is a sign that the mentor has earned the highest levels of trust from other adventurers.
+14106: The number affixed to the marker is the mentor's Mastery Rank, and indicates how experienced the mentor is as an adventurer.
+14107: The higher the number, the more experienced the mentor is.
+14108: You can check your own Mastery Rank even if you do not serve as a mentor, so feel free to take a look every now and then if you are curious.
+14109: You can check your Mastery Rank by going to Main Menu > Status > Profile.
+14110: If you wish to speak directly to a mentor, you can search for mentors by going to Main Menu > Help Desk > Mentor Search.
+14111: The "Thumbs Up" feature enables you to let mentors know when their comments proved to be especially helpful.
+14112: Mentors who earn lots of "Thumbs Up" replies from other adventurers will see their Mentor Class increase.
+14113: Remember to give a "Thumbs Up" to any mentor you feel helped you out or taught you something useful.
+14114: A "Warning" is a feature that can only be used by mentors.
+14115: Please use this feature when a post's contents are insufficient or otherwise may be construed as harassment.
+14116: To send a "Thumbs Up" or "Warning" to another player, open the Chat Log Window and move the cursor over the relevant message and press the confirm button (Enter key) to bring up the evaluation menu.
+14117: Evaluations can be made for 10 minutes following the designated player's latest post to the Assist Channel.
+14118: You may send up to one "Thumbs Up" and one "Warning" per day (Earth time).
+14119: The "Mute" feature places restrictions on your ability to post, meaning that other players will be unable to see the messages you post to the Assist Channel.
+14120: Please refrain from posting unsuitable content so that the veteran adventurers are not forced to mute you.
+14121: Mute status can be removed by players that have the necessary Mute List access rights, or it will be removed automatically 24 hours (Earth time) after the mute status was enabled.
+14122: You are free to post messages to the Assist Channel until you decide to stop serving as a mentor.
+14123: You may post messages to the Assist Channel until : on //. (Time remaining: Approx. $1 [sec./min./hr.])
+14124: If you log out while you still have time available, your remaining time will be carried over to the next time you log in.
+14125: You are about to lose the ability to post messages to the Assist Channel.
+14126: You are unable to post messages to the Assist Channel.
+14127: Take on the "$0" Records of Eminence objective from the Tutorial section of the Records of Eminence Menu and speak to the A.M.A.N. liaison.
+14128: Whenever you're lost, there's nothing like a good drink to help you find your path. Try and get some rest.
+14129: I'm finally able to settle down with a nice drink, but it just doesn't taste as good as it usually does...
+14130: Of course, I know it's because I'm worried about so many different things right now. <Sigh> I wonder what's going to happen...
+14131: Oh! How have you been!?
+14132: Have you seen Gumbah and Raebrimm yet?
+14133: Have you seen them? [Yes, I have./No, not yet.]
+14134: In that case, you may have heard that Raebrimm hasn't been feeling well lately.
+14135: In that case, you might not have heard this yet, but Raebrimm hasn't been feeling well lately.
+14136: According to him, he says that the "spirits are summoning him"...
+14137: Does that sound familiar to you? It's what that demon said when it appeared at the gates of the underworld.
+14138: One day, the god Odin may summon the soul of the Talekeeper.
+14139: Hmm... I wonder how the battle fares in Valhalla. Do you know anything?
+14140: You don't say! I had no idea that was the state of things!
+14141: It may take some time for a drunkard like me to comprehend the situation fully, but you need to hurry.
+14142: At any rate, you should take the $3 that I picked up.
 14143: This orb contains what Uran-Mafran referred to as the "power contained within life itself as well as the crystals."
-14144: When Uran-Mafran regained the memories that had been erased by Duke Alloces, he held onto this orb, figuring it might prove useful someday.
+14144: It's said that it is the power taken from all of the monsters the "World Eater Egg" has devoured.
 14145: I only hope it is suitable for crafting this "Prime Weapon" that you refer to.
-14146: @@
-14147: You are now able to enjoy a new storyline, A Crystalline Prophecy.
-14148: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
-14149: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
-14150: You are now able to enjoy a new storyline, A Shantotto Ascension.
-14151: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
-14152: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
-14153: You are now able to enjoy a new storyline, Abyssea.
-14154: Start Abyssea? [Yes (View cutscene)./Maybe later.]
-14155: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
-14156: You are now able to enjoy a new storyline, Chains of Promathia.
-14157: Start Chains of Promathia? [Yes (View cutscene)./Maybe later.]
-14158: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
-14159: You are now able to enjoy a new storyline, Seekers of Adoulin.
-14160: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
-14161: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
-14162: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
-14163: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
-14164: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
-14165: You are now able to enjoy a new storyline, Rise of the Zilart.
-14166: Start Rise of the Zilart? [Yes (View cutscene)./Maybe later.]
-14167: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
-14168: Would you like to start a new storyline that you previously postponed?
-14169: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
-14170: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
-14171: Start the storyline? [Yes, please./No, thank you.]
-14172: Welcome to the Race Change service, kupo!
-14173: Please check the official website for more details regarding our service.
-14174: Thank you for using the Race Change service, adventurer!
-14175: If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!
-14176: You have $0 more day[/s] to use this service, kupo.
-14177: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-14178: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-14179: You have $2 second[/s] remaining to use this service, kupo.
-14180: Please make sure to exchange your $3 while it is still valid, kupo.
-14181: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
-14182: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
-14183: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
-14184: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
-14185: You will lose your character's current appearance. Are you sure you want to exit the process?
-14186: Are you finished making changes? [Yes./No.]
-14187: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
-14188: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
-14189: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
-14190: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
-14191: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
-14192: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
-14193: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
-14194: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
-14195: Certain items can be exchanged for equippable ones by speaking with %.
-14196: Applicable items can be checked with % after changing races.
-14197: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
-14198: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
-14199: This will change your character's appearance. Are you sure?
-14200: Change your character to this appearance? [Yes./No.]
-14201: Are you absolutely sure? [Yes./No.]
-14202: May Altana bless you as you begin your new life, kupo!
-14203: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
-14204: Let me see if you have any.
-14205: Items held by NPCs or stored with storage slips are ineligible.
-14206: Have the moogle check? [Yes, please./No, thank you.]
-14207: Let's get down to business, kupo.
-14208: I can take the following:
-14209: Your $0.
-14210: That should cover it!
-14211: Wait...I can't take anything you have.
-14212: You were unable to use the specified appearance for your character.
-14213: eye X=$0 Y=$1 Z=$2
-14214: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)
+14146: This orb contains what Uran-Mafran referred to as the "power contained within life itself as well as the crystals."
+14147: When Uran-Mafran regained the memories that had been erased by Duke Alloces, he held onto this orb, figuring it might prove useful someday.
+14148: I only hope it is suitable for crafting this "Prime Weapon" that you refer to.
+14149: @@
+14150: You are now able to enjoy a new storyline, A Crystalline Prophecy.
+14151: Start A Crystalline Prophecy? [Yes (View cutscene)./Maybe later.]
+14152: Examine the Tales' Beginning in Lower Jeuno (G-9) when you wish to start A Crystalline Prophecy.
+14153: You are now able to enjoy a new storyline, A Shantotto Ascension.
+14154: Start A Shantotto Ascension? [Yes (View cutscene)./Maybe later.]
+14155: Examine the Tales' Beginning in Windurst Walls (C-6) when you wish to start A Shantotto Ascension.
+14156: You are now able to enjoy a new storyline, Abyssea.
+14157: Start Abyssea? [Yes (View cutscene)./Maybe later.]
+14158: Examine the Tales' Beginning in Port Jeuno (F-8) when you wish to start Abyssea.
+14159: You are now able to enjoy a new storyline, Chains of Promathia.
+14160: Start Chains of Promathia? [Yes (View cutscene)./Maybe later.]
+14161: Examine the Tales' Beginning in Lower Delkfutt's Tower (H-10) when you wish to start Chains of Promathia.
+14162: You are now able to enjoy a new storyline, Seekers of Adoulin.
+14163: Start Seekers of Adoulin? [Yes (View cutscene)./Maybe later.]
+14164: Examine the Tales' Beginning in Northern San d'Oria, Bastok Markets, or Windurst Woods when you wish to start Seekers of Adoulin.
+14165: You are now able to enjoy a new storyline, Rhapsodies of Vana'diel.
+14166: Start Rhapsodies of Vana'diel? [Yes (View cutscene)./Maybe later.]
+14167: Examine the Tales' Beginning in the three nations when you wish to start Rhapsodies of Vana'diel.
+14168: You are now able to enjoy a new storyline, Rise of the Zilart.
+14169: Start Rise of the Zilart? [Yes (View cutscene)./Maybe later.]
+14170: Examine the Tales' Beginning in Norg (H-9) when you wish to start Rise of the Zilart.
+14171: Would you like to start a new storyline that you previously postponed?
+14172: Start which? [None for now./Rise of the Zilart./A Crystallinbe Prophecy./A Shantotto Ascension./Chains of Promathia./Abyssea./Seekers of Adoulin./Rhapsodies of Vana'diel.]
+14173: Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
+14174: Start the storyline? [Yes, please./No, thank you.]
+14175: Welcome to the Race Change service, kupo!
+14176: Please check the official website for more details regarding our service.
+14177: Thank you for using the Race Change service, adventurer!
+14178: If you have any dancer gender-specific armor, I can exchange them for ones that better suit your new form, kupo!
+14179: You have $0 more day[/s] to use this service, kupo.
+14180: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+14181: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+14182: You have $2 second[/s] remaining to use this service, kupo.
+14183: Please make sure to exchange your $3 while it is still valid, kupo.
+14184: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
+14185: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
+14186: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
+14187: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
+14188: You will lose your character's current appearance. Are you sure you want to exit the process?
+14189: Are you finished making changes? [Yes./No.]
+14190: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
+14191: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
+14192: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
+14193: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
+14194: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
+14195: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
+14196: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
+14197: You can trade any gender-specific dancer armor to the % to receive a version that better suits your new form.
+14198: Certain items can be exchanged for equippable ones by speaking with %.
+14199: Applicable items can be checked with % after changing races.
+14200: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+14201: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+14202: This will change your character's appearance. Are you sure?
+14203: Change your character to this appearance? [Yes./No.]
+14204: Are you absolutely sure? [Yes./No.]
+14205: May Altana bless you as you begin your new life, kupo!
+14206: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
+14207: Let me see if you have any.
+14208: Items held by NPCs or stored with storage slips are ineligible.
+14209: Have the moogle check? [Yes, please./No, thank you.]
+14210: Let's get down to business, kupo.
+14211: I can take the following:
+14212: Your $0.
+14213: That should cover it!
+14214: Wait...I can't take anything you have.
+14215: You were unable to use the specified appearance for your character.
+14216: eye X=$0 Y=$1 Z=$2
+14217: [Current Time/Time Purchased/Validity Period/Time Previously Changed] // :: ($0)

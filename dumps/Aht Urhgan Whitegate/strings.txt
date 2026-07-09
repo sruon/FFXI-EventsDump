@@ -10605,7 +10605,7 @@
 10601: (We can go? What did you find out?)
 10602: (It looks like the ambassador and <Player> are going to travel to the ruins...)
 10603: (I wonder which part...?)
-10604: (I-Im going to...!)
+10604: (I-I'm going to...!)
 10605: Did you understand my explanation? Because now Aydeewa Subterrane is our next destination.
 10606: Of course, there is no such option as "no." Gather your things and be ready to go.
 10607: (Maybe I'll follow them to the ruins...)

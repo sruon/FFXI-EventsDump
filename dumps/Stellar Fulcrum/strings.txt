@@ -7607,11 +7607,11 @@
  7603: The oath has been fulfilled owing to the power of your $3.
  7604: Step into the circle? [Yes./No.]
  7605: There is no response. You cannot escape!
- 7606: You have broken the clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]"!
- 7607: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 second[/s].
- 7608: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]" is $3 minute[/s] $2 second[/s].
- 7609: Entering the battlefield for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell]"!
- 7610: Which battlefield will you enter? [None./Return to Delkfutt's Tower./The Indomitable Triumvirate (vs. 3!)/The Dauntless Duo (vs. 2!)/The Solitary Demolisher (vs. 1!)/Heroine's Combat./Mercenary Camp./Ode of Life Bestowing./$26Return to Delkfutt's Tower./True Love./A Fond Farewell./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
+ 7606: You have broken the clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell/$26Ode of Life Bestowing]"!
+ 7607: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell/$26Ode of Life Bestowing]" is $3 second[/s].
+ 7608: The current battlefield clear time record for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell/$26Ode of Life Bestowing]" is $3 minute[/s] $2 second[/s].
+ 7609: Entering the battlefield for "[Return to Delkfutt's Tower/The Indomitable Triumvirate/The Dauntless Duo/The Solitary Demolisher/Heroine's Combat/Mercenary Camp/Ode of Life Bestowing/$26Return to Delkfutt's Tower/True Love/A Fond Farewell/$26Ode of Life Bestowing]"!
+ 7610: Which battlefield will you enter? [None./Return to Delkfutt's Tower./The Indomitable Triumvirate (vs. 3!)/The Dauntless Duo (vs. 2!)/The Solitary Demolisher (vs. 1!)/Heroine's Combat./Mercenary Camp./Ode of Life Bestowing./$26Return to Delkfutt's Tower./True Love./A Fond Farewell./$26Ode of Life Bestowing.@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@]
  7611: The door will not budge.
  7612: You can no longer use the $3.
  7613: Ha, were you three still alive? Now you can watch as life is breathed into the Chrysalis Core once again!

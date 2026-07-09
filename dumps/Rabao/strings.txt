@@ -10449,7 +10449,7 @@
 10445: It's your life... Here's your new $0...
 10446: Can't give you another...bowl thing...unless you want your points reset to zero...
 10447: Zero points it is...
-10448: You have $0 or so point[/s]... [$1: $2./A bag of fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $1./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
+10448: You have $0 or so point[/s]... [$1: $2./A bag of fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
 10449: Ummm... Need more points...or something...
 10450: Are you sure...and everything...?
 10451: And everything? [Just...forget it.../Get me my stuff...or whatever...]
@@ -10470,8 +10470,8 @@
 10466: Wait... Two more...boxes... Don't know what's in them...don't care, either... One for $0 stupid point[/s]...the other for $1...or whatever...
 10467: Oh...look. For $0 point thing[/s] you can get something new called...the Summer Splash... Wow... Doesn't that sound so terribly...<yawn>...exciting?
 10468: Oh...and this year, $0 of those point-whatevers will get you...a stellar surprise or something... I don't know why we bother with surprises... It's just going to be a...<yawn>...disappointment in the end, I'm sure... <Sigh>...
-10469: And what is this!? For $0 you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-10470: ;j)g$30p$295D1jE7$4981320E$4719146"F+` h\7I
+10469: And what is this!? For $0 points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+10470: And then there's this! $1 for $0 points. If they're out of stock, come back tomorrow.
 10471: This box needs to go in with that San d'Orian shipment. And this one... Dammit, where's my list?
 10472: Oh, and a fine day to you, adventurer. Rudolfo of the Rabao "If it don't get there overnight, wait" Freight Company, at your service.
 10473: Sanctia! Sanctia`!

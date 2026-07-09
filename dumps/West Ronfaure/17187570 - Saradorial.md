@@ -147,8 +147,8 @@
 - **8025**: %'s soul begins to merge with the universe...
 - **8029**: Those that have accumulated $0 years of fortune will become one with the flow of time and meld with nature and all its creatures. $1 years, you say? Why, such an enlightened being would find [himself/herself] able to unravel the most arcane mysteries of the universe with the ease with which lesser mortals draw breath...
 - **8031**: Or do you seek to bid farewell to this earthly demesne and send your soul soaring amongst the myriad shimmering stars in the heavens above? You need only accumulate $0 years of fortune, and eternal celestial bliss will be yours!
-- **8032**: And what is this!? For $0 you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-- **8033**: ;j)g1j>H$397930>A=g$8128880_iq6aB
+- **8032**: And what is this!? For $0 points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+- **8033**: And then there's this. You can get $1 for $0 points. If they're out of stock, come back tomorrow.
 
 ## Events
 
