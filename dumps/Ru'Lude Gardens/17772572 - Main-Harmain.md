@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0031      |          49 |
-|       1 | 0x27F3      |       10227 |
-|       2 | 0x27F4      |       10228 |
+|       1 | 0x27F4      |       10228 |
+|       2 | 0x27F5      |       10229 |
 
 ## String References
 
-- **10227**: Sir Wolfgang's father was a famous soldier, too. He commanded Jeuno's forces in the Crystal War, and his exploits are legendary.
-- **10228**: After the war, he looked after the families of his fallen comrades. What a great man... There's more to being a soldier than just brute strength!
+- **10228**: Sir Wolfgang's father was a famous soldier, too. He commanded Jeuno's forces in the Crystal War, and his exploits are legendary.
+- **10229**: After the war, he looked after the families of his fallen comrades. What a great man... There's more to being a soldier than just brute strength!
 
 ## Events
 
@@ -80,10 +80,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
     → "Sir Wolfgang's father was a famous soldier, too. He commanded Jeuno's forces in the Crystal War, and his exploits are legendary."
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10228*)
+  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10229*)
     → "After the war, he looked after the families of his fallen comrades. What a great man... There's more to being a soldier than just brute strength!"
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

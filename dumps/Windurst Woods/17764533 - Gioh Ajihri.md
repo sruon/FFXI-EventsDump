@@ -43,89 +43,89 @@
 |---------|-------------|-------------|
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2152      |        8530 |
-|       3 | 0x2153      |        8531 |
-|       4 | 0x1DC1      |        7617 |
-|       5 | 0x1DC2      |        7618 |
-|       6 | 0x2214      |        8724 |
-|       7 | 0x2216      |        8726 |
-|       8 | 0x2217      |        8727 |
-|       9 | 0x2219      |        8729 |
-|      10 | 0x221A      |        8730 |
-|      11 | 0x221B      |        8731 |
-|      12 | 0x221C      |        8732 |
-|      13 | 0x221E      |        8734 |
-|      14 | 0x221F      |        8735 |
+|       2 | 0x2153      |        8531 |
+|       3 | 0x2154      |        8532 |
+|       4 | 0x1DC2      |        7618 |
+|       5 | 0x1DC3      |        7619 |
+|       6 | 0x2215      |        8725 |
+|       7 | 0x2217      |        8727 |
+|       8 | 0x2218      |        8728 |
+|       9 | 0x221A      |        8730 |
+|      10 | 0x221B      |        8731 |
+|      11 | 0x221C      |        8732 |
+|      12 | 0x221D      |        8733 |
+|      13 | 0x221F      |        8735 |
+|      14 | 0x2220      |        8736 |
 |      15 | 0x00C9      |         201 |
 |      16 | 0x0000      |           0 |
-|      17 | 0x2220      |        8736 |
-|      18 | 0x2221      |        8737 |
-|      19 | 0x2225      |        8741 |
-|      20 | 0x2226      |        8742 |
-|      21 | 0x24B7      |        9399 |
-|      22 | 0x24B8      |        9400 |
-|      23 | 0x24B9      |        9401 |
-|      24 | 0x24BA      |        9402 |
-|      25 | 0x24BB      |        9403 |
-|      26 | 0x24BC      |        9404 |
-|      27 | 0x24BD      |        9405 |
-|      28 | 0x24BE      |        9406 |
-|      29 | 0x24BF      |        9407 |
-|      30 | 0x24C0      |        9408 |
-|      31 | 0x24C1      |        9409 |
-|      32 | 0x24C2      |        9410 |
-|      33 | 0x24C5      |        9413 |
-|      34 | 0x24C6      |        9414 |
-|      35 | 0x24C7      |        9415 |
+|      17 | 0x2221      |        8737 |
+|      18 | 0x2222      |        8738 |
+|      19 | 0x2226      |        8742 |
+|      20 | 0x2227      |        8743 |
+|      21 | 0x24B8      |        9400 |
+|      22 | 0x24B9      |        9401 |
+|      23 | 0x24BA      |        9402 |
+|      24 | 0x24BB      |        9403 |
+|      25 | 0x24BC      |        9404 |
+|      26 | 0x24BD      |        9405 |
+|      27 | 0x24BE      |        9406 |
+|      28 | 0x24BF      |        9407 |
+|      29 | 0x24C0      |        9408 |
+|      30 | 0x24C1      |        9409 |
+|      31 | 0x24C2      |        9410 |
+|      32 | 0x24C3      |        9411 |
+|      33 | 0x24C6      |        9414 |
+|      34 | 0x24C7      |        9415 |
+|      35 | 0x24C8      |        9416 |
 |      36 | 0x0001      |           1 |
-|      37 | 0x2E71      |       11889 |
+|      37 | 0x2E72      |       11890 |
 |      38 | 0x0002      |           2 |
-|      39 | 0x2E90      |       11920 |
-|      40 | 0x2E91      |       11921 |
-|      41 | 0x2E92      |       11922 |
-|      42 | 0x2EA4      |       11940 |
-|      43 | 0x2EA5      |       11941 |
+|      39 | 0x2E91      |       11921 |
+|      40 | 0x2E92      |       11922 |
+|      41 | 0x2E93      |       11923 |
+|      42 | 0x2EA5      |       11941 |
+|      43 | 0x2EA6      |       11942 |
 
 ## String References
 
-- **7617**: Trying to win Nanaa Mihgo over is a waste of time! The most she will do is rrreturn your kindness with hostility.
-- **7618**: Looking at her, I rrrealize it's not a person's birth, but their upbringing, that determines who they become.
-- **8530**: Perih Vashai is a Mithran heroine who rrrendered great service during the war twenty years ago.
-- **8531**: She lost a great many things back then, but never did she lose her pride or break her pledge. It just goes to show that physical strength is not the sole rrrequisite to be a hero.
-- **8724**: That's no rrreal surprise. As far as Semih Lafihna is concerned, her Mithran heritage is of no consequence in her position in Tarutaru society. Why, she may as well have been born a Tarutaru.
-- **8726**: Nothing rrreally would change... But that is a matter which is out of our paws...
-- **8727**: Out of honor for our old chieftainness, we must help in the preparations to crown Semih Lafihna as the new chieftainness.
-- **8729**: Yes, let's... Excuse me, [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?
-- **8730**: If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!
-- **8731**: Excuse me [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?
-- **8732**: If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!
-- **8734**: Oh good, you found one. Here, I'll give you this as a sign of our appreciation...
-- **8735**: (I just hope it can fit that other gem properly...)
-- **8736**: Deep in the Meriphataud Mountains, there is a bastion of the Yagudo called Castle Oztroja. It is a place where terrific wars were fought.
-- **8737**: Innumerable Mithran fighters were felled there. This $1 belonged to one of those fallen warriors.
-- **8741**: Hello again, adventurer. May I again make the same rrrequest as I did before.? I'd like you to search for $1 in the Meriphataud Mountains.
-- **8742**: I'll pay a good price for any that you find. Once you find one, please bring it back to me as promptly as you can.
-- **9399**: Ho there, adventurer. Have you come to take on the search for the $1?
-- **9400**: There's actually no longer a need for it... But we should honor the brave warriors who brought about this time of peace.
-- **9401**: Well, if you find any, bring them here the same as usual.
-- **9402**: Ah, you've arrived. With your help, Semih Lafihna has become a little more rrreceptive to the words of the chieftainness.
-- **9403**: Now we have some peace around here. Especially since the Mithran Tracker has returned home convinced of the fate of the sinner's daughter.
-- **9404**: Hmmm? You also went to Eldieme Necropolis to confirm her death?
-- **9405**: Heh-heh-heh. That wasn't the rrremains of the daughter. It was the final rrresting place of her mother, Nhev Befrathi.
-- **9406**: We had another adventurer like you find a set of ownerless-earrings. We placed them in the necropolis long before you got there.
-- **9407**: Chieftainness Perih Vashai had predicted that another Mithran Tracker would show up eventually.
-- **9408**: But if you do happen to find any $1 in the Meriphataud Mountains, bring them here. I'll buy them from you.
-- **9409**: They belonged to the Mithran warriors responsible for bringing about this time of peace. They should be properly honored.
-- **9410**: If you ever find any $1 in the Meriphataud Mountains, bring them back here. I will buy them from you to honor the fallen.
-- **9413**: You found some? Here, take this with my thanks.
-- **9414**: Hello, adventurer. If you find any $1, bring them here to me.
-- **9415**: Let us honor the Mithran warriors who fell in the Meriphataud Mountains.
-- **11889**: Ask if this person is the chick's owner? [Yes./No.]
-- **11920**: You've got my chocobo!?
-- **11921**: I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!
-- **11922**: Thank you! You're rrraising a chocobo too, right? I know a good story you can use...
-- **11940**: You say you've got my chocobo?
-- **11941**: I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person.
+- **7618**: Trying to win Nanaa Mihgo over is a waste of time! The most she will do is rrreturn your kindness with hostility.
+- **7619**: Looking at her, I rrrealize it's not a person's birth, but their upbringing, that determines who they become.
+- **8531**: Perih Vashai is a Mithran heroine who rrrendered great service during the war twenty years ago.
+- **8532**: She lost a great many things back then, but never did she lose her pride or break her pledge. It just goes to show that physical strength is not the sole rrrequisite to be a hero.
+- **8725**: That's no rrreal surprise. As far as Semih Lafihna is concerned, her Mithran heritage is of no consequence in her position in Tarutaru society. Why, she may as well have been born a Tarutaru.
+- **8727**: Nothing rrreally would change... But that is a matter which is out of our paws...
+- **8728**: Out of honor for our old chieftainness, we must help in the preparations to crown Semih Lafihna as the new chieftainness.
+- **8730**: Yes, let's... Excuse me, [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?
+- **8731**: If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!
+- **8732**: Excuse me [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?
+- **8733**: If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!
+- **8735**: Oh good, you found one. Here, I'll give you this as a sign of our appreciation...
+- **8736**: (I just hope it can fit that other gem properly...)
+- **8737**: Deep in the Meriphataud Mountains, there is a bastion of the Yagudo called Castle Oztroja. It is a place where terrific wars were fought.
+- **8738**: Innumerable Mithran fighters were felled there. This $1 belonged to one of those fallen warriors.
+- **8742**: Hello again, adventurer. May I again make the same rrrequest as I did before.? I'd like you to search for $1 in the Meriphataud Mountains.
+- **8743**: I'll pay a good price for any that you find. Once you find one, please bring it back to me as promptly as you can.
+- **9400**: Ho there, adventurer. Have you come to take on the search for the $1?
+- **9401**: There's actually no longer a need for it... But we should honor the brave warriors who brought about this time of peace.
+- **9402**: Well, if you find any, bring them here the same as usual.
+- **9403**: Ah, you've arrived. With your help, Semih Lafihna has become a little more rrreceptive to the words of the chieftainness.
+- **9404**: Now we have some peace around here. Especially since the Mithran Tracker has returned home convinced of the fate of the sinner's daughter.
+- **9405**: Hmmm? You also went to Eldieme Necropolis to confirm her death?
+- **9406**: Heh-heh-heh. That wasn't the rrremains of the daughter. It was the final rrresting place of her mother, Nhev Befrathi.
+- **9407**: We had another adventurer like you find a set of ownerless-earrings. We placed them in the necropolis long before you got there.
+- **9408**: Chieftainness Perih Vashai had predicted that another Mithran Tracker would show up eventually.
+- **9409**: But if you do happen to find any $1 in the Meriphataud Mountains, bring them here. I'll buy them from you.
+- **9410**: They belonged to the Mithran warriors responsible for bringing about this time of peace. They should be properly honored.
+- **9411**: If you ever find any $1 in the Meriphataud Mountains, bring them back here. I will buy them from you to honor the fallen.
+- **9414**: You found some? Here, take this with my thanks.
+- **9415**: Hello, adventurer. If you find any $1, bring them here to me.
+- **9416**: Let us honor the Mithran warriors who fell in the Meriphataud Mountains.
+- **11890**: Ask if this person is the chick's owner? [Yes./No.]
+- **11921**: You've got my chocobo!?
+- **11922**: I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!
+- **11923**: Thank you! You're rrraising a chocobo too, right? I know a good story you can use...
+- **11941**: You say you've got my chocobo?
+- **11942**: I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person.
 
 ## Events
 
@@ -345,10 +345,10 @@
   1: 0x0064 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0065 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0066 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8530*)
+  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
     → "Perih Vashai is a Mithran heroine who rrrendered great service during the war twenty years ago."
   5: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8531*)
+  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8532*)
     → "She lost a great many things back then, but never did she lose her pride or break her pledge. It just goes to show that physical strength is not the sole rrrequisite to be a hero."
   7: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0075 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -383,10 +383,10 @@
   1: 0x0088 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0089 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x008A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
+  4: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
     → "Trying to win Nanaa Mihgo over is a waste of time! The most she will do is rrreturn your kindness with hostility."
   5: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7618*)
+  6: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
     → "Looking at her, I rrrealize it's not a person's birth, but their upbringing, that determines who they become."
   7: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0099 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -480,7 +480,7 @@
 #### Opcodes
 
 ```
-  0: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8724*)
+  0: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8725*)
     → "That's no rrreal surprise. As far as Semih Lafihna is concerned, her Mithran heritage is of no consequence in her position in Tarutaru society. Why, she may as well have been born a Tarutaru."
   1: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0161 [0x00] END_REQSTACK()
@@ -505,10 +505,10 @@
 #### Opcodes
 
 ```
-  0: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8726*)
+  0: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=8727*)
     → "Nothing rrreally would change... But that is a matter which is out of our paws..."
   1: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8727*)
+  2: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8728*)
     → "Out of honor for our old chieftainness, we must help in the preparations to crown Semih Lafihna as the new chieftainness."
   3: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x016A [0x00] END_REQSTACK()
@@ -534,10 +534,10 @@
 #### Opcodes
 
 ```
-  0: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8729*)
+  0: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
     → "Yes, let's... Excuse me, [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?"
   1: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
+  2: 0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=8731*)
     → "If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!"
   3: 0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0173 [0x00] END_REQSTACK()
@@ -568,10 +568,10 @@
   1: 0x0179 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x017A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x017B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8731*)
+  4: 0x0182 [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
     → "Excuse me [sir/miss]... You wouldn't be intending to hunt monsters in the Meriphataud Mountains any time soon, would you?"
   5: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
+  6: 0x0186 [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
     → "If you happen to come upon $1, could you please hand it over to us? Oh, and please don't ask why, just do it as a favor for us. Thank you!"
   7: 0x0189 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x018A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -611,12 +611,12 @@
   3: 0x01A0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x01A1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  6: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8734*)
+  6: 0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
     → "Oh good, you found one. Here, I'll give you this as a sign of our appreciation..."
   7: 0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
   9: 0x01B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x03)
- 10: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8735*)
+ 10: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8736*)
     → "(I just hope it can fit that other gem properly...)"
  11: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x04)
@@ -653,10 +653,10 @@
   1: 0x01EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8736*)
+  4: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8737*)
     → "Deep in the Meriphataud Mountains, there is a bastion of the Yagudo called Castle Oztroja. It is a place where terrific wars were fought."
   5: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8737*)
+  6: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8738*)
     → "Innumerable Mithran fighters were felled there. This $1 belonged to one of those fallen warriors."
   7: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -691,10 +691,10 @@
   1: 0x0212 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0213 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0214 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=8741*)
+  4: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
     → "Hello again, adventurer. May I again make the same rrrequest as I did before.? I'd like you to search for $1 in the Meriphataud Mountains."
   5: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8742*)
+  6: 0x021F [0x1D] PRINT_EVENT_MESSAGE(message_id=8743*)
     → "I'll pay a good price for any that you find. Once you find one, please bring it back to me as promptly as you can."
   7: 0x0222 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0223 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -729,13 +729,13 @@
   1: 0x0233 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0234 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0235 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=9399*)
+  4: 0x023C [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
     → "Ho there, adventurer. Have you come to take on the search for the $1?"
   5: 0x023F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
+  6: 0x0240 [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
     → "There's actually no longer a need for it... But we should honor the brave warriors who brought about this time of peace."
   7: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
+  8: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=9402*)
     → "Well, if you find any, bring them here the same as usual."
   9: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0248 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -773,34 +773,34 @@
   1: 0x0258 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0259 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x025A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9402*)
+  4: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=9403*)
     → "Ah, you've arrived. With your help, Semih Lafihna has become a little more rrreceptive to the words of the chieftainness."
   5: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9403*)
+  6: 0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=9404*)
     → "Now we have some peace around here. Especially since the Mithran Tracker has returned home convinced of the fate of the sinner's daughter."
   7: 0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0269 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
-  9: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=9404*)
+  9: 0x0270 [0x1D] PRINT_EVENT_MESSAGE(message_id=9405*)
     → "Hmmm? You also went to Eldieme Necropolis to confirm her death?"
  10: 0x0273 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=9405*)
+ 11: 0x0274 [0x1D] PRINT_EVENT_MESSAGE(message_id=9406*)
     → "Heh-heh-heh. That wasn't the rrremains of the daughter. It was the final rrresting place of her mother, Nhev Befrathi."
  12: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
- 14: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=9406*)
+ 14: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=9407*)
     → "We had another adventurer like you find a set of ownerless-earrings. We placed them in the necropolis long before you got there."
  15: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=9407*)
+ 16: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=9408*)
     → "Chieftainness Perih Vashai had predicted that another Mithran Tracker would show up eventually."
  17: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0287 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
  19: 0x028E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x03)
- 20: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9408*)
+ 20: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9409*)
     → "But if you do happen to find any $1 in the Meriphataud Mountains, bring them here. I'll buy them from you."
  21: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x04)
  23: 0x02A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x05)
- 24: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9409*)
+ 24: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9410*)
     → "They belonged to the Mithran warriors responsible for bringing about this time of peace. They should be properly honored."
  25: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x02AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x06)
@@ -834,7 +834,7 @@
   1: 0x02BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9410*)
+  4: 0x02C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9411*)
     → "If you ever find any $1 in the Meriphataud Mountains, bring them back here. I will buy them from you to honor the fallen."
   5: 0x02C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -871,7 +871,7 @@
   2: 0x02DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x02DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x02DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  5: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9413*)
+  5: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9414*)
     → "You found some? Here, take this with my thanks."
   6: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -915,10 +915,10 @@
   1: 0x030A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x030B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x01)
-  4: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=9414*)
+  4: 0x0313 [0x1D] PRINT_EVENT_MESSAGE(message_id=9415*)
     → "Hello, adventurer. If you find any $1, bring them here to me."
   5: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=9415*)
+  6: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=9416*)
     → "Let us honor the Mithran warriors who fell in the Meriphataud Mountains."
   7: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x031B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gioh Ajihri (ID: 17764533/0x010F10B5), tag_num=0x02)
@@ -938,7 +938,7 @@
      0x0337 [0x03] Work_Zone[1] = 0*
      0x033C [0x01] GOTO 0x03B1
      0x033F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-     0x0340 [0x24] CREATE_DIALOG(message_id=11889*, default_option=1*, option_flags=0*)
+     0x0340 [0x24] CREATE_DIALOG(message_id=11890*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
      0x0347 [0x25] WAIT_DIALOG_SELECT()
      0x0348 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A1
@@ -948,22 +948,22 @@
      0x035D [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x035F [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x0361 [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0387
-     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=11920*)
+     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
     → "You've got my chocobo!?"
      0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x036D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=359*
-     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11921*)
+     0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=11922*)
     → "I couldn't find the little puffball no matter how harrrd I looked for him. I was sure he was filling the belly of some black-hearted monster about now!"
      0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=11922*)
+     0x0380 [0x1D] PRINT_EVENT_MESSAGE(message_id=11923*)
     → "Thank you! You're rrraising a chocobo too, right? I know a good story you can use..."
      0x0383 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0384 [0x01] GOTO 0x039E
-     0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11940*)
+     0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=11941*)
     → "You say you've got my chocobo?"
      0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x038B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=359*
-     0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11941*)
+     0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11942*)
     → "I'm a rrranger, so I know how terrifying monsters can be. I would never take my eyes off a poor defenseless chocobo while we're on a walk! You must have the wrrrong person."
      0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039E [0x01] GOTO 0x03B1

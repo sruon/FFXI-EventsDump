@@ -47,38 +47,38 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2E35      |       11829 |
+|       0 | 0x2E36      |       11830 |
 |       1 | 0x038F      |         911 |
-|       2 | 0x2E3B      |       11835 |
-|       3 | 0x2E42      |       11842 |
-|       4 | 0x2E3F      |       11839 |
-|       5 | 0x2E40      |       11840 |
-|       6 | 0x2E59      |       11865 |
-|       7 | 0x2E72      |       11890 |
-|       8 | 0x2E6F      |       11887 |
-|       9 | 0x2E86      |       11910 |
-|      10 | 0x2E95      |       11925 |
-|      11 | 0x2ED2      |       11986 |
-|      12 | 0x2EE4      |       12004 |
-|      13 | 0x2F51      |       12113 |
-|      14 | 0x2F6A      |       12138 |
+|       2 | 0x2E3C      |       11836 |
+|       3 | 0x2E43      |       11843 |
+|       4 | 0x2E40      |       11840 |
+|       5 | 0x2E41      |       11841 |
+|       6 | 0x2E5A      |       11866 |
+|       7 | 0x2E73      |       11891 |
+|       8 | 0x2E70      |       11888 |
+|       9 | 0x2E87      |       11911 |
+|      10 | 0x2E96      |       11926 |
+|      11 | 0x2ED3      |       11987 |
+|      12 | 0x2EE5      |       12005 |
+|      13 | 0x2F52      |       12114 |
+|      14 | 0x2F6B      |       12139 |
 
 ## String References
 
-- **11829**: I began studying here after one of Laila's performances moved me to tears. Such grrrace...such talent...
-- **11835**: If you have the courrrage to dance on the stage in the Lion Springs Tavern, I'll ask Laila about that $3.
-- **11839**: Twenty years ago, $5 could be found lying at the bottom of Lake Mechieume in Jugner Forest.
-- **11840**: But their dazzling glow made them such a collector's item that not a single one remains there today.
-- **11842**: It's a shame. While you still lack the skill, you certainly have the spirit of a dancer...
-- **11865**: I'm glad you've joined our little grrroup, but be warned: the hard work has only just begun!
-- **11887**: During the Great War, Witchfire Glen was rumored to be a mystical place, where pixies could be seen frolicking.
-- **11890**: Laila's mother selected only the most talented dancers, and trrrained them at Witchfire Glen, in Grauberg.
-- **11910**: I wonder why she's gotten cranky all of a sudden...
-- **11925**: I wish I could meet a splendid musician who could strrrum on my heartstrings.
-- **11986**: I never knew Laila had crossed paths with Troupe Valeriano in the past...
-- **12004**: Why did Laila agrrree to a collaboration? I thought she didn't like Troupe Valeriano...
-- **12113**: I will strrrive to become a great dancer like Laila.
-- **12138**: Prrromise me you'll come back to dance with us again, <Player>.
+- **11830**: I began studying here after one of Laila's performances moved me to tears. Such grrrace...such talent...
+- **11836**: If you have the courrrage to dance on the stage in the Lion Springs Tavern, I'll ask Laila about that $3.
+- **11840**: Twenty years ago, $5 could be found lying at the bottom of Lake Mechieume in Jugner Forest.
+- **11841**: But their dazzling glow made them such a collector's item that not a single one remains there today.
+- **11843**: It's a shame. While you still lack the skill, you certainly have the spirit of a dancer...
+- **11866**: I'm glad you've joined our little grrroup, but be warned: the hard work has only just begun!
+- **11888**: During the Great War, Witchfire Glen was rumored to be a mystical place, where pixies could be seen frolicking.
+- **11891**: Laila's mother selected only the most talented dancers, and trrrained them at Witchfire Glen, in Grauberg.
+- **11911**: I wonder why she's gotten cranky all of a sudden...
+- **11926**: I wish I could meet a splendid musician who could strrrum on my heartstrings.
+- **11987**: I never knew Laila had crossed paths with Troupe Valeriano in the past...
+- **12005**: Why did Laila agrrree to a collaboration? I thought she didn't like Troupe Valeriano...
+- **12114**: I will strrrive to become a great dancer like Laila.
+- **12139**: Prrromise me you'll come back to dance with us again, <Player>.
 
 ## Events
 
@@ -123,7 +123,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=11829*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=11830*)
     → "I began studying here after one of Laila's performances moved me to tears. Such grrrace...such talent..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -173,7 +173,7 @@
 
 ```
   0: 0x0008 [0x03] Work_Zone[2] = 911*
-  1: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=11835*)
+  1: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=11836*)
     → "If you have the courrrage to dance on the stage in the Lion Springs Tavern, I'll ask Laila about that $3."
   2: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0011 [0x21] END_EVENT
@@ -199,7 +199,7 @@
 #### Opcodes
 
 ```
-  0: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=11842*)
+  0: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=11843*)
     → "It's a shame. While you still lack the skill, you certainly have the spirit of a dancer..."
   1: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0017 [0x21] END_EVENT
@@ -227,10 +227,10 @@
 
 ```
   0: 0x0019 [0x03] Work_Zone[2] = 911*
-  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11839*)
+  1: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11840*)
     → "Twenty years ago, $5 could be found lying at the bottom of Lake Mechieume in Jugner Forest."
   2: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11840*)
+  3: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11841*)
     → "But their dazzling glow made them such a collector's item that not a single one remains there today."
   4: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0026 [0x21] END_EVENT
@@ -278,7 +278,7 @@
 #### Opcodes
 
 ```
-  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=11865*)
+  0: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=11866*)
     → "I'm glad you've joined our little grrroup, but be warned: the hard work has only just begun!"
   1: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002D [0x21] END_EVENT
@@ -396,10 +396,10 @@
 #### Opcodes
 
 ```
-  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11890*)
+  0: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11891*)
     → "Laila's mother selected only the most talented dancers, and trrrained them at Witchfire Glen, in Grauberg."
   1: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=11887*)
+  2: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=11888*)
     → "During the Great War, Witchfire Glen was rumored to be a mystical place, where pixies could be seen frolicking."
   3: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x003F [0x21] END_EVENT
@@ -425,7 +425,7 @@
 #### Opcodes
 
 ```
-  0: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=11910*)
+  0: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=11911*)
     → "I wonder why she's gotten cranky all of a sudden..."
   1: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0045 [0x21] END_EVENT
@@ -473,7 +473,7 @@
 #### Opcodes
 
 ```
-  0: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11925*)
+  0: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11926*)
     → "I wish I could meet a splendid musician who could strrrum on my heartstrings."
   1: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x004C [0x21] END_EVENT
@@ -522,7 +522,7 @@
 #### Opcodes
 
 ```
-  0: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11986*)
+  0: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11987*)
     → "I never knew Laila had crossed paths with Troupe Valeriano in the past..."
   1: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0053 [0x21] END_EVENT
@@ -548,7 +548,7 @@
 #### Opcodes
 
 ```
-  0: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=12004*)
+  0: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=12005*)
     → "Why did Laila agrrree to a collaboration? I thought she didn't like Troupe Valeriano..."
   1: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0059 [0x21] END_EVENT
@@ -684,7 +684,7 @@
 #### Opcodes
 
 ```
-  0: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=12113*)
+  0: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=12114*)
     → "I will strrrive to become a great dancer like Laila."
   1: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0064 [0x21] END_EVENT
@@ -732,7 +732,7 @@
 #### Opcodes
 
 ```
-  0: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=12138*)
+  0: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=12139*)
     → "Prrromise me you'll come back to dance with us again, <Player>."
   1: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x006B [0x21] END_EVENT

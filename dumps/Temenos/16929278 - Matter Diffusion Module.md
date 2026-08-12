@@ -25,11 +25,11 @@
 |       2 | 0x0001      |           1 |
 |       3 | 0x0005      |           5 |
 |       4 | 0x0006      |           6 |
-|       5 | 0x1C43      |        7235 |
+|       5 | 0x1C44      |        7236 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0033      |          51 |
-|       9 | 0x1C44      |        7236 |
+|       9 | 0x1C45      |        7237 |
 |      10 | 0x000A      |          10 |
 |      11 | 0x0007      |           7 |
 |      12 | 0x0008      |           8 |
@@ -79,8 +79,8 @@
 
 ## String References
 
-- **7235**: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower B1./Never mind.]
-- **7236**: Select a destination. [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
+- **7236**: Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower B1./Never mind.]
+- **7237**: Select a destination. [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]
 
 ## Events
 
@@ -183,7 +183,7 @@
   4: 0x0012 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
   5: 0x0019 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=5*, condition_work_offset=1*)
   6: 0x0020 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=6*, condition_work_offset=1*)
-  7: 0x0027 [0x24] CREATE_DIALOG(message_id=7235*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+  7: 0x0027 [0x24] CREATE_DIALOG(message_id=7236*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Enter which tower? [Northern Tower./Western Tower./Eastern Tower./Central Tower./Central Tower B1./Never mind.]"
   8: 0x002E [0x25] WAIT_DIALOG_SELECT()
   9: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003F
@@ -213,7 +213,7 @@ SUBROUTINE_0096:
  31: 0x00A9 [0x01] GOTO 0x012E
  32: 0x00AC [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
  33: 0x00B1 [0x0C] ExtData[1]->WorkLocal[2]--
- 34: 0x00B4 [0x24] CREATE_DIALOG(message_id=7236*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 34: 0x00B4 [0x24] CREATE_DIALOG(message_id=7237*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Select a destination. [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Back./Never mind.]"
  35: 0x00BB [0x25] WAIT_DIALOG_SELECT()
  36: 0x00BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D1

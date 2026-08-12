@@ -46,23 +46,23 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00B5      |         181 |
-|       1 | 0x1C93      |        7315 |
-|       2 | 0x1C97      |        7319 |
-|       3 | 0x1C99      |        7321 |
-|       4 | 0x1C9D      |        7325 |
-|       5 | 0x1CA0      |        7328 |
-|       6 | 0x1CA3      |        7331 |
-|       7 | 0x1CA8      |        7336 |
+|       1 | 0x1C94      |        7316 |
+|       2 | 0x1C98      |        7320 |
+|       3 | 0x1C9A      |        7322 |
+|       4 | 0x1C9E      |        7326 |
+|       5 | 0x1CA1      |        7329 |
+|       6 | 0x1CA4      |        7332 |
+|       7 | 0x1CA9      |        7337 |
 
 ## String References
 
-- **7315**: All intruders will be sent to oblivion!
-- **7319**: Our king has arisen and we rally to his standard. We join with our king to build our future!
-- **7321**: Zonpa-Zippa! He is no king. He is nothing more than a foolish jester, tainted with the guilt of his crimes.
-- **7325**: Now we have two intruders to punish. Let us deal with these interlopers before others arrive to complicate things.
-- **7328**: Your Majesty!
-- **7331**: They are intruders who have trespassed in the royal chambers. They will be punished.
-- **7336**: Your Majesty, if this person is to be spared, what is to become of the Mithra?
+- **7316**: All intruders will be sent to oblivion!
+- **7320**: Our king has arisen and we rally to his standard. We join with our king to build our future!
+- **7322**: Zonpa-Zippa! He is no king. He is nothing more than a foolish jester, tainted with the guilt of his crimes.
+- **7326**: Now we have two intruders to punish. Let us deal with these interlopers before others arrive to complicate things.
+- **7329**: Your Majesty!
+- **7332**: They are intruders who have trespassed in the royal chambers. They will be punished.
+- **7337**: Your Majesty, if this person is to be spared, what is to become of the Mithra?
 
 ## Events
 
@@ -559,7 +559,7 @@
 #### Opcodes
 
 ```
-  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
     → "All intruders will be sent to oblivion!"
   1: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0114 [0x00] END_REQSTACK()
@@ -584,7 +584,7 @@
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "Our king has arisen and we rally to his standard. We join with our king to build our future!"
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()
@@ -609,7 +609,7 @@
 #### Opcodes
 
 ```
-  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
+  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
     → "Zonpa-Zippa! He is no king. He is nothing more than a foolish jester, tainted with the guilt of his crimes."
   1: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011E [0x00] END_REQSTACK()
@@ -635,7 +635,7 @@
 #### Opcodes
 
 ```
-  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
+  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
     → "Now we have two intruders to punish. Let us deal with these interlopers before others arrive to complicate things."
   1: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0123 [0x00] END_REQSTACK()
@@ -660,7 +660,7 @@
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
     → "Your Majesty!"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()
@@ -685,7 +685,7 @@
 #### Opcodes
 
 ```
-  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
+  0: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "They are intruders who have trespassed in the royal chambers. They will be punished."
   1: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012D [0x00] END_REQSTACK()
@@ -711,7 +711,7 @@
 #### Opcodes
 
 ```
-  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
+  0: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
     → "Your Majesty, if this person is to be spared, what is to become of the Mithra?"
   1: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0132 [0x00] END_REQSTACK()

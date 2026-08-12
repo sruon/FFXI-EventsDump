@@ -87,19 +87,19 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CBD      |        7357 |
+|       0 | 0x1CBE      |        7358 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0078      |         120 |
 |       4 | 0x0070      |         112 |
 |       5 | 0x0071      |         113 |
-|       6 | 0x1CA9      |        7337 |
+|       6 | 0x1CAA      |        7338 |
 |       7 | 0x22549     |      140617 |
 |       8 | 0x392E      |       14638 |
 |       9 | 0xFFFF88DD  |  4294936797 |
 |      10 | 0x0821      |        2081 |
 |      11 | 0x0001      |           1 |
-|      12 | 0x1CC1      |        7361 |
+|      12 | 0x1CC2      |        7362 |
 |      13 | 0x001E      |          30 |
 |      14 | 0x4407      |       17415 |
 |      15 | 0x6B54      |       27476 |
@@ -191,9 +191,9 @@
 
 ## String References
 
-- **7337**: Nothing happens... Too many people on board?
-- **7357**: Debug event start
-- **7361**: Zone change failed. Zoning you to correct coordinates.
+- **7338**: Nothing happens... Too many people on board?
+- **7358**: Debug event start
+- **7362**: Zone change failed. Zoning you to correct coordinates.
 
 ## Events
 
@@ -944,7 +944,7 @@
 #### Opcodes
 
 ```
-  0: 0x0021 [0x48] [System] [7357*]:
+  0: 0x0021 [0x48] [System] [7358*]:
     → "Debug event start"
   1: 0x0024 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   2: 0x0035 [0x1C] WAIT(120* ticks)
@@ -1041,7 +1041,7 @@ SUBROUTINE_00C3:
 #### Opcodes
 
 ```
-  0: 0x00C5 [0x48] [System] [7337*]:
+  0: 0x00C5 [0x48] [System] [7338*]:
     → "Nothing happens... Too many people on board?"
   1: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C9 [0x21] END_EVENT
@@ -1121,7 +1121,7 @@ SUBROUTINE_00C3:
   1: 0x00D2 [0x47] UPDATE_PLAYER_POS(140.617*, 14.638*, -30.499*, yaw=182.9°*)
   2: 0x00DC [0x47] WAIT_PLAYER_POS_UPDATE
   3: 0x00DE [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00E9
-  4: 0x00E6 [0x48] [System] [7361*]:
+  4: 0x00E6 [0x48] [System] [7362*]:
     → "Zone change failed. Zoning you to correct coordinates."
   5: 0x00E9 [0x33] EventEntity->Render.Flags0 &= ~ 0x200000 // Bit 21 (flag=0x00)
   6: 0x00EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

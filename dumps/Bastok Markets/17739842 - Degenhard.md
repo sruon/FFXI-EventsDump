@@ -26,34 +26,34 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DF5      |        7669 |
-|       1 | 0x1DEF      |        7663 |
-|       2 | 0x1DF3      |        7667 |
-|       3 | 0x1DF4      |        7668 |
+|       0 | 0x1DF6      |        7670 |
+|       1 | 0x1DF0      |        7664 |
+|       2 | 0x1DF4      |        7668 |
+|       3 | 0x1DF5      |        7669 |
 |       4 | 0x00C9      |         201 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x3754      |       14164 |
-|       7 | 0x3755      |       14165 |
+|       6 | 0x3755      |       14165 |
+|       7 | 0x3756      |       14166 |
 |       8 | 0x0DD5      |        3541 |
 |       9 | 0x0DD6      |        3542 |
 |      10 | 0x0DD7      |        3543 |
-|      11 | 0x3756      |       14166 |
-|      12 | 0x3757      |       14167 |
-|      13 | 0x3758      |       14168 |
-|      14 | 0x3759      |       14169 |
+|      11 | 0x3757      |       14167 |
+|      12 | 0x3758      |       14168 |
+|      13 | 0x3759      |       14169 |
+|      14 | 0x375A      |       14170 |
 
 ## String References
 
-- **7663**: Hah! Yah! I'm still alive and kickin'! Do you want to know how I can be so energetic at my age? I'll tell you if you bring me the secret ingredient of my formula!
-- **7667**: Yes, that is the secret ingredient! Ah, but it's not what you think--I don't eat this, as some seem to think.
-- **7668**: I keep it in a pocket close to my heart to remind myself of my own mortality. That is my secret. Hmm... Maybe you're still a little too young to understand.
-- **7669**: Hah! Yah! I'm still alive and kickin'!
-- **14164**: Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye...
-- **14165**: Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?
-- **14166**: But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick.
-- **14167**: Don't ye give me that face. It's trainin'--it ain't supposed to be easy!
-- **14168**: Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well.
-- **14169**: Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya.
+- **7664**: Hah! Yah! I'm still alive and kickin'! Do you want to know how I can be so energetic at my age? I'll tell you if you bring me the secret ingredient of my formula!
+- **7668**: Yes, that is the secret ingredient! Ah, but it's not what you think--I don't eat this, as some seem to think.
+- **7669**: I keep it in a pocket close to my heart to remind myself of my own mortality. That is my secret. Hmm... Maybe you're still a little too young to understand.
+- **7670**: Hah! Yah! I'm still alive and kickin'!
+- **14165**: Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye...
+- **14166**: Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?
+- **14167**: But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick.
+- **14168**: Don't ye give me that face. It's trainin'--it ain't supposed to be easy!
+- **14169**: Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well.
+- **14170**: Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya.
 
 ## Events
 
@@ -99,7 +99,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
     → "Hah! Yah! I'm still alive and kickin'!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -127,7 +127,7 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "Hah! Yah! I'm still alive and kickin'! Do you want to know how I can be so energetic at my age? I'll tell you if you bring me the secret ingredient of my formula!"
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x21] END_EVENT
@@ -158,10 +158,10 @@
   0: 0x0017 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0018 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+  3: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "Yes, that is the secret ingredient! Ah, but it's not what you think--I don't eat this, as some seem to think."
   4: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
+  5: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
     → "I keep it in a pocket close to my heart to remind myself of my own mortality. That is my secret. Hmm... Maybe you're still a little too young to understand."
   6: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0027 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -215,19 +215,19 @@
 ```
   0: 0x003B [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x003C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=14164*)
+  2: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=14165*)
     → "Hah! Yah! Can't ye see I'm... Wait a minute. I almost didn't recognize ye..."
   3: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=14165*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=14166*)
     → "Looks like someone's come a long way since our last meetin'. Why don't I give ye somethin' that might help in yer training?"
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0049 [0x03] Work_Zone[2] = 3541*
   7: 0x004E [0x03] Work_Zone[3] = 3542*
   8: 0x0053 [0x03] Work_Zone[4] = 3543*
-  9: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14166*)
+  9: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14167*)
     → "But first, I'm gonna need proof that ye're ready. $0, $1, and $2 should do the trick."
  10: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=14167*)
+ 11: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=14168*)
     → "Don't ye give me that face. It's trainin'--it ain't supposed to be easy!"
  12: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0060 [0x21] END_EVENT
@@ -258,10 +258,10 @@
   1: 0x0067 [0x03] Work_Zone[2] = 3541*
   2: 0x006C [0x03] Work_Zone[3] = 3542*
   3: 0x0071 [0x03] Work_Zone[4] = 3543*
-  4: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14168*)
+  4: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14169*)
     → "Bring me $0, $1, and $2 and I'll give ye somethin' that should serve ye well."
   5: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=14167*)
+  6: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=14168*)
     → "Don't ye give me that face. It's trainin'--it ain't supposed to be easy!"
   7: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007E [0x21] END_EVENT
@@ -289,7 +289,7 @@
 ```
   0: 0x0080 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0081 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=14169*)
+  2: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=14170*)
     → "Well, looks like someone's ready for [his/her] next challenge. As promised, here's somethin' for ya."
   3: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x008A [0x21] END_EVENT

@@ -27,21 +27,21 @@
 |       4 | 0x001F      |          31 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x063F      |        1599 |
-|       7 | 0x1C7E      |        7294 |
-|       8 | 0x1C8C      |        7308 |
+|       7 | 0x1C7F      |        7295 |
+|       8 | 0x1C8D      |        7309 |
 |       9 | 0x03E8      |        1000 |
-|      10 | 0x1F53      |        8019 |
-|      11 | 0x1F52      |        8018 |
+|      10 | 0x1F54      |        8020 |
+|      11 | 0x1F53      |        8019 |
 |      12 | 0x0008      |           8 |
-|      13 | 0x1B5C      |        7004 |
-|      14 | 0x1C80      |        7296 |
-|      15 | 0x1C81      |        7297 |
+|      13 | 0x1B5D      |        7005 |
+|      14 | 0x1C81      |        7297 |
+|      15 | 0x1C82      |        7298 |
 |      16 | 0x0011      |          17 |
 |      17 | 0x0012      |          18 |
 |      18 | 0x0013      |          19 |
-|      19 | 0x1C82      |        7298 |
-|      20 | 0x1C83      |        7299 |
-|      21 | 0x1C7F      |        7295 |
+|      19 | 0x1C83      |        7299 |
+|      20 | 0x1C84      |        7300 |
+|      21 | 0x1C80      |        7296 |
 |      22 | 0x0003      |           3 |
 |      23 | 0x0007      |           7 |
 |      24 | 0x0006      |           6 |
@@ -101,16 +101,16 @@
 
 ## String References
 
-- **7004**: You cannot carry any more $5.
-- **7294**: This echo disseminator provides information about nearby battlefields and allows visitors to obtain $5.
-- **7295**: Teleport? [Yes, please./No, thank you.]
-- **7296**: View which? (Surge / Endowed) [None of the above./No. [1/8]: [$25/$26/$25/$26] $9% / [$25/$25/$26/$26] $17%./@/No. [2/9]: [$25/$26/$25/$26] $10% / [$25/$25/$26/$26] $18%./@/No. [3/10]: [$25/$26/$25/$26] $11% / [$25/$25/$26/$26] $19%./@/No. [4/11]: [$25/$26/$25/$26] $12% / [$25/$25/$26/$26] $20%./@/No. [5/12]: [$25/$26/$25/$26] $13% / [$25/$25/$26/$26] $21%./@/No. [6/13]: [$25/$26/$25/$26] $14% / [$25/$25/$26/$26] $22%./@/No. [7/14]: [$25/$26/$25/$26] $15% / [$25/$25/$26/$26] $23%./@/No. [8/15]: [$25/$26/$25/$26] $16% / [$25/$25/$26/$26] $24%./@/Switch to combat view./Previous page./Next page.]
-- **7297**: View which? [None of the above./No. [1/8]: In combat: $9% $17 participants./No. [1/8]: [Inactive/Active]./No. [2/9]: In combat: $10% $18 participants./No. [2/9]: [Inactive/Active]./No. [3/10]: In combat: $11% $19 participants./No. [3/10]: [Inactive/Active]./No. [4/11]: In combat: $12% $20 participants./No. [4/11]: [Inactive/Active]./No. [5/12]: In combat: $13% $21 participants./No. [5/12]: [Inactive/Active]./No. [6/13]: In combat: $14% $22 participants./No. [6/13]: [Inactive/Active]./No. [7/14]: In combat: $15% $23 participants./No. [7/14]: [Inactive/Active]./No. [8/15]: In combat: $16% $24 participants./No. [8/15]: [Inactive/Active]./Switch to battlefield view./Previous page./Next page.]
-- **7298**: Walk No. $0 [contains no foes/contains foes/contains other players fighting foes/has recently been attempted, and hence contains no foes]. [The next battle will be/The current battle is/The current battle is/The next battle will be] [a normal walk/a surge walk/an endowed walk/an endowed surge walk]. The chance of a surge walk is $3% and that of an endowed walk is $4%.
-- **7299**: $5 minutes have passed since combat has commenced, and the battle is $6% complete. $7 adventurer[ is/s are] participating.
-- **7308**: Perform which action? [View battlefield information./Acquire $5./None of the above.]
-- **8018**: Hand over $0 gil? [Gladly!/On second thought...]
-- **8019**: I can provide you with $6...for a fee of $0 gil.
+- **7005**: You cannot carry any more $5.
+- **7295**: This echo disseminator provides information about nearby battlefields and allows visitors to obtain $5.
+- **7296**: Teleport? [Yes, please./No, thank you.]
+- **7297**: View which? (Surge / Endowed) [None of the above./No. [1/8]: [$25/$26/$25/$26] $9% / [$25/$25/$26/$26] $17%./@/No. [2/9]: [$25/$26/$25/$26] $10% / [$25/$25/$26/$26] $18%./@/No. [3/10]: [$25/$26/$25/$26] $11% / [$25/$25/$26/$26] $19%./@/No. [4/11]: [$25/$26/$25/$26] $12% / [$25/$25/$26/$26] $20%./@/No. [5/12]: [$25/$26/$25/$26] $13% / [$25/$25/$26/$26] $21%./@/No. [6/13]: [$25/$26/$25/$26] $14% / [$25/$25/$26/$26] $22%./@/No. [7/14]: [$25/$26/$25/$26] $15% / [$25/$25/$26/$26] $23%./@/No. [8/15]: [$25/$26/$25/$26] $16% / [$25/$25/$26/$26] $24%./@/Switch to combat view./Previous page./Next page.]
+- **7298**: View which? [None of the above./No. [1/8]: In combat: $9% $17 participants./No. [1/8]: [Inactive/Active]./No. [2/9]: In combat: $10% $18 participants./No. [2/9]: [Inactive/Active]./No. [3/10]: In combat: $11% $19 participants./No. [3/10]: [Inactive/Active]./No. [4/11]: In combat: $12% $20 participants./No. [4/11]: [Inactive/Active]./No. [5/12]: In combat: $13% $21 participants./No. [5/12]: [Inactive/Active]./No. [6/13]: In combat: $14% $22 participants./No. [6/13]: [Inactive/Active]./No. [7/14]: In combat: $15% $23 participants./No. [7/14]: [Inactive/Active]./No. [8/15]: In combat: $16% $24 participants./No. [8/15]: [Inactive/Active]./Switch to battlefield view./Previous page./Next page.]
+- **7299**: Walk No. $0 [contains no foes/contains foes/contains other players fighting foes/has recently been attempted, and hence contains no foes]. [The next battle will be/The current battle is/The current battle is/The next battle will be] [a normal walk/a surge walk/an endowed walk/an endowed surge walk]. The chance of a surge walk is $3% and that of an endowed walk is $4%.
+- **7300**: $5 minutes have passed since combat has commenced, and the battle is $6% complete. $7 adventurer[ is/s are] participating.
+- **7309**: Perform which action? [View battlefield information./Acquire $5./None of the above.]
+- **8019**: Hand over $0 gil? [Gladly!/On second thought...]
+- **8020**: I can provide you with $6...for a fee of $0 gil.
 
 ## Events
 
@@ -308,7 +308,7 @@
  23: 0x0078 [0x03] ExtData[1]->WorkLocal[32] = Work_Zone[9]
  24: 0x007D [0x06] ExtData[1]->WorkLocal[33] = 0
  25: 0x0080 [0x03] Work_Zone[3] = 1599*
- 26: 0x0085 [0x48] [System] [7294*]:
+ 26: 0x0085 [0x48] [System] [7295*]:
     → "This echo disseminator provides information about nearby battlefields and allows visitors to obtain $5."
  27: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0089 [0x06] ExtData[1]->WorkLocal[2] = 0
@@ -316,7 +316,7 @@
  30: 0x008F [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00E1
  31: 0x0097 [0x03] Work_Zone[3] = 1599*
  32: 0x009C [0x06] ExtData[1]->WorkLocal[0] = 0
- 33: 0x009F [0x24] CREATE_DIALOG(message_id=7308*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
+ 33: 0x009F [0x24] CREATE_DIALOG(message_id=7309*, default_option=ExtData[1]->WorkLocal[2], option_flags=ExtData[1]->WorkLocal[0])
     → "Perform which action? [View battlefield information./Acquire $5./None of the above.]"
  34: 0x00A6 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A7 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B5
@@ -342,10 +342,10 @@ SUBROUTINE_00E3:
  49: 0x00E3 [0x02] IF !(ExtData[1]->WorkLocal[49] == 0*) GOTO 0x013B
  50: 0x00EB [0x03] Work_Zone[2] = 1000*
  51: 0x00F0 [0x03] Work_Zone[3] = 1599*
- 52: 0x00F5 [0x48] [System] [8019*]:
+ 52: 0x00F5 [0x48] [System] [8020*]:
     → "I can provide you with $6...for a fee of $0 gil."
  53: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00F9 [0x24] CREATE_DIALOG(message_id=8018*, default_option=0*, option_flags=0*)
+ 54: 0x00F9 [0x24] CREATE_DIALOG(message_id=8019*, default_option=0*, option_flags=0*)
     → "Hand over $0 gil? [Gladly!/On second thought...]"
  55: 0x0100 [0x25] WAIT_DIALOG_SELECT()
  56: 0x0101 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x012D
@@ -362,7 +362,7 @@ SUBROUTINE_00E3:
 SUBROUTINE_0138:
  66: 0x0138 [0x01] GOTO 0x0144
  67: 0x013B [0x03] Work_Zone[2] = 1599*
- 68: 0x0140 [0x48] [System] [7004*]:
+ 68: 0x0140 [0x48] [System] [7005*]:
     → "You cannot carry any more $5."
  69: 0x0143 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -379,7 +379,7 @@ SUBROUTINE_0151:
  75: 0x0151 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x02AA
  76: 0x0159 [0x1A] CALL_SUBROUTINE(address=0x0301)
  77: 0x015C [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x0182
- 78: 0x0164 [0x24] CREATE_DIALOG(message_id=7296*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[4])
+ 78: 0x0164 [0x24] CREATE_DIALOG(message_id=7297*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[4])
     → "View which? (Surge / Endowed) [None of the above./No. [1/8]: [$25/$26/$25/$26] $9% / [$25/$25/$26/$26] $17%./@/No. [2/9]: [$25/$26/$25/$26] $10% / [$25/$25/$26/$26] $18%./@/No. [3/10]: [$25/$26/$25/$26] $11% / [$25/$25/$26/$26] $19%./@/No. [4/11]: [$25/$26/$25/$26] $12% / [$25/$25/$26/$26] $20%./@/No. [5/12]: [$25/$26/$25/$26] $13% / [$25/$25/$26/$26] $21%./@/No. [6/13]: [$25/$26/$25/$26] $14% / [$25/$25/$26/$26] $22%./@/No. [7/14]: [$25/$26/$25/$26] $15% / [$25/$25/$26/$26] $23%./@/No. [8/15]: [$25/$26/$25/$26] $16% / [$25/$25/$26/$26] $24%./@/Switch to combat view./Previous page./Next page.]"
  79: 0x016B [0x25] WAIT_DIALOG_SELECT()
  80: 0x016C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x017A
@@ -390,7 +390,7 @@ SUBROUTINE_017A:
  83: 0x017A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[0]
  84: 0x017F [0x01] GOTO 0x01A8
  85: 0x0182 [0x02] IF !(ExtData[1]->WorkLocal[44] == 1*) GOTO 0x01A8
- 86: 0x018A [0x24] CREATE_DIALOG(message_id=7297*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[4])
+ 86: 0x018A [0x24] CREATE_DIALOG(message_id=7298*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[4])
     → "View which? [None of the above./No. [1/8]: In combat: $9% $17 participants./No. [1/8]: [Inactive/Active]./No. [2/9]: In combat: $10% $18 participants./No. [2/9]: [Inactive/Active]./No. [3/10]: In combat: $11% $19 participants./No. [3/10]: [Inactive/Active]./No. [4/11]: In combat: $12% $20 participants./No. [4/11]: [Inactive/Active]./No. [5/12]: In combat: $13% $21 participants./No. [5/12]: [Inactive/Active]./No. [6/13]: In combat: $14% $22 participants./No. [6/13]: [Inactive/Active]./No. [7/14]: In combat: $15% $23 participants./No. [7/14]: [Inactive/Active]./No. [8/15]: In combat: $16% $24 participants./No. [8/15]: [Inactive/Active]./Switch to battlefield view./Previous page./Next page.]"
  87: 0x0191 [0x25] WAIT_DIALOG_SELECT()
  88: 0x0192 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A0
@@ -423,17 +423,17 @@ SUBROUTINE_01C5:
 SUBROUTINE_01F7:
 108: 0x01F7 [0x02] IF !(ExtData[1]->WorkLocal[6] <= 0*) GOTO 0x02A7
 109: 0x01FF [0x1A] CALL_SUBROUTINE(address=0x02AB)
-110: 0x0202 [0x48] [System] [7298*]:
+110: 0x0202 [0x48] [System] [7299*]:
     → "Walk No. $0 [contains no foes/contains foes/contains other players fighting foes/has recently been attempted, and hence contains no foes]. [The next battle will be/The current battle is/The current battle is/The next battle will be] [a normal walk/a surge walk/an endowed walk/an endowed surge walk]. The chance of a surge walk is $3% and that of an endowed walk is $4%."
 111: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0206 [0x02] IF !(ExtData[1]->WorkLocal[39] == 2*) GOTO 0x0215
-113: 0x020E [0x48] [System] [7299*]:
+113: 0x020E [0x48] [System] [7300*]:
     → "$5 minutes have passed since combat has commenced, and the battle is $6% complete. $7 adventurer[ is/s are] participating."
 114: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0212 [0x01] GOTO 0x0215
 
 SUBROUTINE_0215:
-116: 0x0215 [0x24] CREATE_DIALOG(message_id=7295*, default_option=1*, option_flags=0*)
+116: 0x0215 [0x24] CREATE_DIALOG(message_id=7296*, default_option=1*, option_flags=0*)
     → "Teleport? [Yes, please./No, thank you.]"
 117: 0x021C [0x25] WAIT_DIALOG_SELECT()
 118: 0x021D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029C

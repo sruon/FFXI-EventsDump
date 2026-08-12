@@ -32,8 +32,8 @@
 |       8 | 0xFFFEC46D  |  4294886509 |
 |       9 | 0xFFFFEC5F  |  4294962271 |
 |      10 | 0x000A      |          10 |
-|      11 | 0x2040      |        8256 |
-|      12 | 0x2041      |        8257 |
+|      11 | 0x2041      |        8257 |
+|      12 | 0x2042      |        8258 |
 
 ## Events
 
@@ -113,10 +113,10 @@
 ```
   0: 0x0022 [0x4A] Katharina (ID: 17719320/0x010E6018) looks at LocalPlayer
   1: 0x002B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  2: 0x003A [0x2B] Katharina (ID: 17719320/0x010E6018) [8256*]:
+  2: 0x003A [0x2B] Katharina (ID: 17719320/0x010E6018) [8257*]:
     → "Come in! Come in! And welcome to the Lion Springs Tavern! Run by none other than the great hero of the Norvallen Resistance, Valderotaux himself."
   3: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0042 [0x2B] Katharina (ID: 17719320/0x010E6018) [8257*]:
+  4: 0x0042 [0x2B] Katharina (ID: 17719320/0x010E6018) [8258*]:
     → "Make yourself at home! Can I interest you in some of our famous mulsum?"
   5: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=10*

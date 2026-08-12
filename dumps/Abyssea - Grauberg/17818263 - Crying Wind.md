@@ -22,15 +22,15 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x2067      |        8295 |
-|       3 | 0x2068      |        8296 |
-|       4 | 0x2069      |        8297 |
+|       2 | 0x2068      |        8296 |
+|       3 | 0x2069      |        8297 |
+|       4 | 0x206A      |        8298 |
 
 ## String References
 
-- **8295**: Do you know what cruor is, friend? It's a shiny red granule found as mineral deposits upon the body of Abyssean fiends.
-- **8296**: Being a potent energy source needed to power veridical confluxes and a host of other things, cruor quickly became adopted as a currency of sorts post-cataclysm.
-- **8297**: If you come into any cruor, you'll want to seek out the cruor prospector. He offers a variety of helpful items and services in exchange for the mineral.
+- **8296**: Do you know what cruor is, friend? It's a shiny red granule found as mineral deposits upon the body of Abyssean fiends.
+- **8297**: Being a potent energy source needed to power veridical confluxes and a host of other things, cruor quickly became adopted as a currency of sorts post-cataclysm.
+- **8298**: If you come into any cruor, you'll want to seek out the cruor prospector. He offers a variety of helpful items and services in exchange for the mineral.
 
 ## Events
 
@@ -80,13 +80,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
     → "Do you know what cruor is, friend? It's a shiny red granule found as mineral deposits upon the body of Abyssean fiends."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "Being a potent energy source needed to power veridical confluxes and a host of other things, cruor quickly became adopted as a currency of sorts post-cataclysm."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "If you come into any cruor, you'll want to seek out the cruor prospector. He offers a variety of helpful items and services in exchange for the mineral."
   8: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0024 [0x21] END_EVENT

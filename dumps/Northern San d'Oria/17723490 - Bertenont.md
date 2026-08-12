@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x37F4      |       14324 |
+|       0 | 0x37F5      |       14325 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x3803      |       14339 |
-|       4 | 0x3804      |       14340 |
+|       3 | 0x3804      |       14340 |
+|       4 | 0x3805      |       14341 |
 
 ## String References
 
-- **14324**: <Player>'s badge flashes brightly.
-- **14339**: Oh my, I thought a shooting star had crossed my vision for a moment there. I believe I just made a wish on your badge, [good sir/madame].
-- **14340**: It comes from the Near East, you say? Such a captivating shine it has. I wonder if the stars in that nation burn as brightly as they do here? Perhaps I shall go and see for myself...
+- **14325**: <Player>'s badge flashes brightly.
+- **14340**: Oh my, I thought a shooting star had crossed my vision for a moment there. I believe I just made a wish on your badge, [good sir/madame].
+- **14341**: It comes from the Near East, you say? Such a captivating shine it has. I wonder if the stars in that nation burn as brightly as they do here? Perhaps I shall go and see for myself...
 
 ## Events
 
@@ -79,16 +79,16 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [14324*]:
+  1: 0x0002 [0x48] [System] [14325*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x000A [0x1C] WAIT(30* ticks)
   4: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=14339*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=14340*)
     → "Oh my, I thought a shooting star had crossed my vision for a moment there. I believe I just made a wish on your badge, [good sir/madame]."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  8: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=14340*)
+  8: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=14341*)
     → "It comes from the Near East, you say? Such a captivating shine it has. I wonder if the stars in that nation burn as brightly as they do here? Perhaps I shall go and see for myself..."
   9: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0033 [0x21] END_EVENT

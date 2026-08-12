@@ -21,9 +21,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x09FF      |        2559 |
-|       1 | 0x1D9D      |        7581 |
+|       1 | 0x1D9E      |        7582 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D6D      |        7533 |
+|       3 | 0x1D6E      |        7534 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0005      |           5 |
 |       6 | 0x1869F     |       99999 |
@@ -34,8 +34,8 @@
 
 ## String References
 
-- **7533**: What number would you like?
-- **7581**: What will you have issued? [#./Quit.]
+- **7534**: What number would you like?
+- **7582**: What will you have issued? [#./Quit.]
 
 ## Events
 
@@ -93,7 +93,7 @@
 
 ```
   0: 0x0002 [0x03] Work_Zone[2] = 2559*
-  1: 0x0007 [0x24] CREATE_DIALOG(message_id=7581*, default_option=0*, option_flags=0*)
+  1: 0x0007 [0x24] CREATE_DIALOG(message_id=7582*, default_option=0*, option_flags=0*)
     → "What will you have issued? [#./Quit.]"
   2: 0x000E [0x25] WAIT_DIALOG_SELECT()
   3: 0x000F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D
@@ -106,7 +106,7 @@ SUBROUTINE_0020:
   8: 0x0021 [0x00] END_REQSTACK()
 
 SUBROUTINE_0022:
-  9: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
+  9: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7534*)
     → "What number would you like?"
  10: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0026 [0x06] Work_Zone[1] = 0

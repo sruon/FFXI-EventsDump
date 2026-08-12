@@ -24,19 +24,19 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFEEEFB  |  4294897403 |
-|       1 | 0x1CCB      |        7371 |
+|       1 | 0x1CCC      |        7372 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1CCC      |        7372 |
-|       4 | 0x1CC8      |        7368 |
+|       3 | 0x1CCD      |        7373 |
+|       4 | 0x1CC9      |        7369 |
 |       5 | 0x0004      |           4 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x003C      |          60 |
 
 ## String References
 
-- **7368**: The Orc barrier seals it shut.
-- **7371**: Enter the cave? [Yes./No.]
-- **7372**: Leave the cave? [Yes./No.]
+- **7369**: The Orc barrier seals it shut.
+- **7372**: Enter the cave? [Yes./No.]
+- **7373**: Leave the cave? [Yes./No.]
 
 ## Events
 
@@ -87,7 +87,7 @@
 ```
   0: 0x0001 [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[0], y_destination=ExtData[1]->WorkLocal[1], z_destination=ExtData[1]->WorkLocal[2])
   1: 0x000C [0x02] IF !(ExtData[1]->WorkLocal[1] <= 4294897403*) GOTO 0x0031
-  2: 0x0014 [0x24] CREATE_DIALOG(message_id=7371*, default_option=0*, option_flags=0*)
+  2: 0x0014 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
     → "Enter the cave? [Yes./No.]"
   3: 0x001B [0x25] WAIT_DIALOG_SELECT()
   4: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002E
@@ -96,7 +96,7 @@
 
 SUBROUTINE_002E:
   7: 0x002E [0x01] GOTO 0x004B
-  8: 0x0031 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
+  8: 0x0031 [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=0*)
     → "Leave the cave? [Yes./No.]"
   9: 0x0038 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0039 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004B
@@ -133,11 +133,11 @@ SUBROUTINE_004B:
 ```
   0: 0x004D [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[0], y_destination=ExtData[1]->WorkLocal[1], z_destination=ExtData[1]->WorkLocal[2])
   1: 0x0058 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 4294897403*) GOTO 0x0067
-  2: 0x0060 [0x48] [System] [7368*]:
+  2: 0x0060 [0x48] [System] [7369*]:
     → "The Orc barrier seals it shut."
   3: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0064 [0x01] GOTO 0x0081
-  5: 0x0067 [0x24] CREATE_DIALOG(message_id=7372*, default_option=0*, option_flags=0*)
+  5: 0x0067 [0x24] CREATE_DIALOG(message_id=7373*, default_option=0*, option_flags=0*)
     → "Leave the cave? [Yes./No.]"
   6: 0x006E [0x25] WAIT_DIALOG_SELECT()
   7: 0x006F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081

@@ -26,9 +26,9 @@
 |       1 | 0xFFFC3180  |  4294717824 |
 |       2 | 0xFFFF3D6C  |  4294917484 |
 |       3 | 0xFFFFD121  |  4294955297 |
-|       4 | 0x2A57      |       10839 |
-|       5 | 0x2A58      |       10840 |
-|       6 | 0x2A59      |       10841 |
+|       4 | 0x2A58      |       10840 |
+|       5 | 0x2A59      |       10841 |
+|       6 | 0x2A5A      |       10842 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x00C8      |         200 |
@@ -41,9 +41,9 @@
 
 ## String References
 
-- **10839**: Port Bastok is strictly off-limits to all but authorized personnel.
-- **10840**: However, if you wish to travel to North Gustaberg, you may use the Republic's supply causeway.
-- **10841**: Cross the bridge? [Yes./No.]
+- **10840**: Port Bastok is strictly off-limits to all but authorized personnel.
+- **10841**: However, if you wish to travel to North Gustaberg, you may use the Republic's supply causeway.
+- **10842**: Cross the bridge? [Yes./No.]
 
 ## Events
 
@@ -150,13 +150,13 @@
   1: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0018 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10839*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
     → "Port Bastok is strictly off-limits to all but authorized personnel."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10840*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=10841*)
     → "However, if you wish to travel to North Gustaberg, you may use the Republic's supply causeway."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0021 [0x24] CREATE_DIALOG(message_id=10841*, default_option=1*, option_flags=0*)
+  8: 0x0021 [0x24] CREATE_DIALOG(message_id=10842*, default_option=1*, option_flags=0*)
     → "Cross the bridge? [Yes./No.]"
   9: 0x0028 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0029 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B4

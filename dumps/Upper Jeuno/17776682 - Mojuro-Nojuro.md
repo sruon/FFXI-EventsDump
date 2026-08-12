@@ -23,24 +23,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1DB7      |        7607 |
-|       2 | 0x1DB8      |        7608 |
+|       1 | 0x1DB8      |        7608 |
+|       2 | 0x1DB9      |        7609 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x210C      |        8460 |
-|       5 | 0x210D      |        8461 |
-|       6 | 0x213E      |        8510 |
-|       7 | 0x213F      |        8511 |
-|       8 | 0x2140      |        8512 |
+|       4 | 0x210D      |        8461 |
+|       5 | 0x210E      |        8462 |
+|       6 | 0x213F      |        8511 |
+|       7 | 0x2140      |        8512 |
+|       8 | 0x2141      |        8513 |
 
 ## String References
 
-- **7607**: You know, this pub's got different requirements to get in every day. Like on Tarutaru Day, only Tarutaru can get intaru!
-- **7608**: So whenever you're there, you can talk with your peers... You know? I always have a blast, so try it outaru!
-- **8460**: A beautiful lady justaru ran that way, tears streaming down her face. I've never seen anything like it.
-- **8461**: Today is Tarutaru day at the pub, and she was an Elvaan. I can understand how that'd make you want to cry.
-- **8510**: I hear this pub is sometimes reserved by the head of the Tenshodo.
-- **8511**: Not a momentaru ago, there were Mithra and Galka and all sorts filing out the door. They were saying something about going to Movalpolos.
-- **8512**: Are they thinking of bringing their beastmen buddies back here? Next thing you know, they'll be having "Goblin's Day."
+- **7608**: You know, this pub's got different requirements to get in every day. Like on Tarutaru Day, only Tarutaru can get intaru!
+- **7609**: So whenever you're there, you can talk with your peers... You know? I always have a blast, so try it outaru!
+- **8461**: A beautiful lady justaru ran that way, tears streaming down her face. I've never seen anything like it.
+- **8462**: Today is Tarutaru day at the pub, and she was an Elvaan. I can understand how that'd make you want to cry.
+- **8511**: I hear this pub is sometimes reserved by the head of the Tenshodo.
+- **8512**: Not a momentaru ago, there were Mithra and Galka and all sorts filing out the door. They were saying something about going to Movalpolos.
+- **8513**: Are they thinking of bringing their beastmen buddies back here? Next thing you know, they'll be having "Goblin's Day."
 
 ## Events
 
@@ -91,10 +91,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "You know, this pub's got different requirements to get in every day. Like on Tarutaru Day, only Tarutaru can get intaru!"
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+  6: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "So whenever you're there, you can talk with your peers... You know? I always have a blast, so try it outaru!"
   7: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0023 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -129,10 +129,10 @@
   1: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8460*)
+  4: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=8461*)
     → "A beautiful lady justaru ran that way, tears streaming down her face. I've never seen anything like it."
   5: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8461*)
+  6: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8462*)
     → "Today is Tarutaru day at the pub, and she was an Elvaan. I can understand how that'd make you want to cry."
   7: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x004B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -168,13 +168,13 @@
   1: 0x005C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
+  4: 0x006D [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
     → "I hear this pub is sometimes reserved by the head of the Tenshodo."
   5: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8511*)
+  6: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
     → "Not a momentaru ago, there were Mithra and Galka and all sorts filing out the door. They were saying something about going to Movalpolos."
   7: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8512*)
+  8: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8513*)
     → "Are they thinking of bringing their beastmen buddies back here? Next thing you know, they'll be having "Goblin's Day.""
   9: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0079 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

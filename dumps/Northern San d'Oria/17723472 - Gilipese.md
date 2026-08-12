@@ -25,143 +25,143 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x4527      |       17703 |
-|       2 | 0x4528      |       17704 |
-|       3 | 0x4529      |       17705 |
-|       4 | 0x452A      |       17706 |
+|       1 | 0x4528      |       17704 |
+|       2 | 0x4529      |       17705 |
+|       3 | 0x452A      |       17706 |
+|       4 | 0x452B      |       17707 |
 |       5 | 0x0002      |           2 |
-|       6 | 0x452C      |       17708 |
-|       7 | 0x452D      |       17709 |
-|       8 | 0x452E      |       17710 |
-|       9 | 0x452F      |       17711 |
+|       6 | 0x452D      |       17709 |
+|       7 | 0x452E      |       17710 |
+|       8 | 0x452F      |       17711 |
+|       9 | 0x4530      |       17712 |
 |      10 | 0x0003      |           3 |
-|      11 | 0x4531      |       17713 |
-|      12 | 0x4532      |       17714 |
-|      13 | 0x4533      |       17715 |
-|      14 | 0x4534      |       17716 |
+|      11 | 0x4532      |       17714 |
+|      12 | 0x4533      |       17715 |
+|      13 | 0x4534      |       17716 |
+|      14 | 0x4535      |       17717 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x4536      |       17718 |
-|      17 | 0x4537      |       17719 |
-|      18 | 0x4538      |       17720 |
-|      19 | 0x4539      |       17721 |
+|      16 | 0x4537      |       17719 |
+|      17 | 0x4538      |       17720 |
+|      18 | 0x4539      |       17721 |
+|      19 | 0x453A      |       17722 |
 |      20 | 0x0005      |           5 |
-|      21 | 0x453B      |       17723 |
-|      22 | 0x453C      |       17724 |
-|      23 | 0x453D      |       17725 |
-|      24 | 0x453E      |       17726 |
+|      21 | 0x453C      |       17724 |
+|      22 | 0x453D      |       17725 |
+|      23 | 0x453E      |       17726 |
+|      24 | 0x453F      |       17727 |
 |      25 | 0x0006      |           6 |
-|      26 | 0x4540      |       17728 |
-|      27 | 0x4541      |       17729 |
-|      28 | 0x4542      |       17730 |
-|      29 | 0x4543      |       17731 |
+|      26 | 0x4541      |       17729 |
+|      27 | 0x4542      |       17730 |
+|      28 | 0x4543      |       17731 |
+|      29 | 0x4544      |       17732 |
 |      30 | 0x0007      |           7 |
-|      31 | 0x454A      |       17738 |
-|      32 | 0x454B      |       17739 |
-|      33 | 0x454C      |       17740 |
-|      34 | 0x454D      |       17741 |
-|      35 | 0x4545      |       17733 |
-|      36 | 0x4546      |       17734 |
-|      37 | 0x4547      |       17735 |
-|      38 | 0x4548      |       17736 |
-|      39 | 0x452B      |       17707 |
-|      40 | 0x4530      |       17712 |
-|      41 | 0x4535      |       17717 |
-|      42 | 0x453A      |       17722 |
-|      43 | 0x453F      |       17727 |
-|      44 | 0x4544      |       17732 |
-|      45 | 0x454E      |       17742 |
-|      46 | 0x4549      |       17737 |
-|      47 | 0x454F      |       17743 |
-|      48 | 0x4550      |       17744 |
-|      49 | 0x4551      |       17745 |
-|      50 | 0x4552      |       17746 |
-|      51 | 0x4553      |       17747 |
-|      52 | 0x4554      |       17748 |
-|      53 | 0x4555      |       17749 |
-|      54 | 0x4556      |       17750 |
-|      55 | 0x4557      |       17751 |
-|      56 | 0x4558      |       17752 |
-|      57 | 0x4559      |       17753 |
-|      58 | 0x455A      |       17754 |
-|      59 | 0x455B      |       17755 |
-|      60 | 0x455C      |       17756 |
-|      61 | 0x455D      |       17757 |
-|      62 | 0x455E      |       17758 |
-|      63 | 0x455F      |       17759 |
-|      64 | 0x4560      |       17760 |
-|      65 | 0x4564      |       17764 |
-|      66 | 0x4565      |       17765 |
-|      67 | 0x4566      |       17766 |
-|      68 | 0x4561      |       17761 |
-|      69 | 0x4562      |       17762 |
-|      70 | 0x4563      |       17763 |
+|      31 | 0x454B      |       17739 |
+|      32 | 0x454C      |       17740 |
+|      33 | 0x454D      |       17741 |
+|      34 | 0x454E      |       17742 |
+|      35 | 0x4546      |       17734 |
+|      36 | 0x4547      |       17735 |
+|      37 | 0x4548      |       17736 |
+|      38 | 0x4549      |       17737 |
+|      39 | 0x452C      |       17708 |
+|      40 | 0x4531      |       17713 |
+|      41 | 0x4536      |       17718 |
+|      42 | 0x453B      |       17723 |
+|      43 | 0x4540      |       17728 |
+|      44 | 0x4545      |       17733 |
+|      45 | 0x454F      |       17743 |
+|      46 | 0x454A      |       17738 |
+|      47 | 0x4550      |       17744 |
+|      48 | 0x4551      |       17745 |
+|      49 | 0x4552      |       17746 |
+|      50 | 0x4553      |       17747 |
+|      51 | 0x4554      |       17748 |
+|      52 | 0x4555      |       17749 |
+|      53 | 0x4556      |       17750 |
+|      54 | 0x4557      |       17751 |
+|      55 | 0x4558      |       17752 |
+|      56 | 0x4559      |       17753 |
+|      57 | 0x455A      |       17754 |
+|      58 | 0x455B      |       17755 |
+|      59 | 0x455C      |       17756 |
+|      60 | 0x455D      |       17757 |
+|      61 | 0x455E      |       17758 |
+|      62 | 0x455F      |       17759 |
+|      63 | 0x4560      |       17760 |
+|      64 | 0x4561      |       17761 |
+|      65 | 0x4565      |       17765 |
+|      66 | 0x4566      |       17766 |
+|      67 | 0x4567      |       17767 |
+|      68 | 0x4562      |       17762 |
+|      69 | 0x4563      |       17763 |
+|      70 | 0x4564      |       17764 |
 
 ## String References
 
-- **17703**: What? But how...? If that's truly from %0, that must mean...you stole it and you're ransoming it back to me! If you think for one moment that I'd pay scum like you, you'd best think twice!
-- **17704**: Oh, I see. My apologies. How silly of me. Everyone knows how mischievous Goblins get during the Starlight Celebration season. I read somewhere that it's got something to do with the moon and the tides or whatnot.
-- **17705**: Anyway, sorry to trouble you, but could you deliver this in my stead? I may look like a strapping young lad, but I have this illness that prevents me from doing the same task twice in one day. Quite troublesome, really.
-- **17706**: Also, could you do me a favor and report back to me after you're done? I didn't want to spend the extra gil for delivery confirmation with times as tough as they are, you know?
-- **17707**: I take it you delivered my present safe and sound? Oh, and it was well received, too? Ha, you didn't need to tell me that, for my gifts are always a hit. I guess I should thank you though, seeing as how you played a tiny part in my Starlight Celebration success.
-- **17708**: Waaah, a cutthroat! Take anything you want, just not my lucky chocobo hose, please! I... Wait, isn't that the gift I sent %0? You didn't steal that too, did you!?
-- **17709**: What!? You...valiantly wrested it from the clutches of a greedy Goblin so you could return it to me? I just knew my [handsome champion/fair handmaiden] in resplendent regalia would come some day!
-- **17710**: I'm sure you've been through quite a few trials and tribulations just getting this back to me, your fair lady. However, my hands are tied at the moment and I can't take this present to %0. Therefore, I command you, my loyal follower, to act as my liaison and deliver it unscathed. I have no doubt that you'll succeed, since a [knight/handmaiden] will do anything to serve and protect [his/her] mistress.
-- **17711**: And please don't forget to check in with me after the delivery is made. Every [champion/handmaiden] knows that's the [chivalrous/proper] thing to do.
-- **17712**: How fared your journey, my [courageous champion/humble handmaiden]? Oh, I simply knew I could place my complete trust in you! You've not only made your fair lady quite proud, but saved the Starlight Celebration from those covetous beastmen! Oh, joyous day!
-- **17713**: I beg your pardon, but I cannot help but notice that this is the parcel I sent to %0. How might you have come by it?
-- **17714**: Ah, I see. Those Goblin rapscallions still show a complete and utter disregard for social graces, would you not agree? At any rate, you seem to possess a rather strong sense of justice, and for that I am most grateful.
-- **17715**: Could you also find it within your heart to see that this package reaches %0 safely? I may be a man of humble means, but you will certainly have my eternal gratitude and undying admiration.
-- **17716**: Oh my. This utterly slipped my addled mind. I am truly sorry, but I fear I must heap one more request upon your already burdened back. Could you please report back to me after you've made the delivery? It would undoubtedly lessen the anxiety weighing down my fragile heart.
-- **17717**: Goddess be good, you have returned! And with favorable tidings, no? Splendid. Absolutely splendid. Thanks to you, I feel as if I could burst into a Starlight carol at any moment. Fa-la-la-la\`t.
-- **17718**: What doth bring thee 'fore these rheumy eyes, orbs that pierce the soul and a stranger's guise? Harken, thou hast %0's present, from whom hast thou received such consent?
-- **17719**: 'Tis an entertaining tale with which thy jowls doth flail, A tale of Goblins run amok, and wretched me bereft of luck. Still, thanks are in store for completing this chore with a dearth of gore.
-- **17720**: While these next words may conjure a storm, I cannot assist thee in any form. Thus, I entreat thee to heed the call...deliver this gift to %0 once and for all!
-- **17721**: 'Fore I finish this lengthy tirade, one last request must be made. Once the gift hath changed hands, return at once for further plans.
-- **17722**: Thou hast safely returned from thy trial? Upon us both doth Altana smile! To thee, the savior of the Starlight Celebration, I do give heartfelt acclamations!
-- **17723**: Wh-wh-what have you got there? It looks awfully-wafully like the gift I gave to %0. Did something happen? P-p-please don't tell me that %0 passy-wassed away!
-- **17724**: ...It was just a G-g-goblin prank? Sorry to overreactaru. I had a t-t-traumatic experience last Starlight Devastation--er, Celebration! So now I always feary-wear the worst. By the way, th-th-thank you for getting my gift back.
-- **17725**: As you can guess, m-m-my comfort zone is rather itty-bitty. I know you must be expired--tired! But can you please helpy-welp me and deliver my present to %0?
-- **17726**: After you pass on--the gift! Pass the gift on! Then c-c-could you report back to me? I truly-wuly want to know how %0 reacts.
-- **17727**: Ah, you're back! It's %0's most perished, er, cherished possession, you say? Wh-wh-what lofty-wofty praise! I can't thank you enough for your c-c-contributions, adventurer.
-- **17728**: So many nasty-wasty things happened to me today, I'm just too moody-woody to listen to your blather! Begone before I--wait, isn't that my present to %0?
-- **17729**: Ugh, quit barking like a bog dog, [brother-wother/sister-wister]! I don't give a ham and cheese about giddy Goblins or lazy moogles.
-- **17730**: You think you're so great because you saved my present from some baddie-waddies? Bah humbug-wumbug! If you're gonna stick your nosey-wose in others' business, then you bettaru finish what you started! You'll be taking that gift on over to %0, I tell you what!
-- **17731**: And don't think for a minute-winute that I'm going to let you get away with ruining my day! Report back here for a tongue-lashing when you're done! Now get going before I gutaru you right here and now!
-- **17732**: Hmph, so you're stupid as well as rude? Are you so subservient that you'd actually come backy-wack for a beating? Get out of my face! You disgustaru me. Oh, and Merry Starlight!
-- **17733**: Hey, I sent that to %0. Why do you have it?
-- **17734**: Hmmm. Stolen by Gobbies, huh? Thanks for getting it back.
-- **17735**: Sorry to burden you, but could you bring it to %0 again for me?
-- **17736**: Also, I'd like it if you could please fill me in when you're done.
-- **17737**: I see you've returned. Mmm...that's good news indeed. Thank you for the kindness you've shown me and my friend.
-- **17738**: What have we here? A cat burrrglar? How dare you despoil the innocent people of our fair nation!
-- **17739**: What am I talking about? That's the prrresent I sent %0! How could you have it if you didn't steal it!?
-- **17740**: Oh, I see. You're a defender of justice too. Good job negotiating with those Goblin scum. I just hope that rrrepeating that story to everyone you've saved hasn't got you hacking up hairballs.
-- **17741**: But enough tail wagging. I have some prey I need to take care of, so could you rrredeliver that gift to %0 and report back to me when you're done?
-- **17742**: What timing! I've just rrreturned from my own mission. Whew, good thing %0 liked it! That little trinket was as high priced as the hair on a cat's back! Anyway, thanks for your help. If your fur ever gets rubbed the wrong way, give me a sign and I'll come rrroaring to the rescue!
-- **17743**: A present...from %0? Oh, glorious day! This is for all those times I never got a present and kept telling myself next year will be the one.
-- **17744**: I'm at a loss for what to say! I'm just overwhelmed with a waterfall of emotion! Thank you so much!
-- **17745**: And please thank %0 the next time you see that good samaritan. The person who said, "'Tis better to give than receive" probably never had a gift drought as long as mine. I feel fantastic!
-- **17746**: Oh, is that...a present? From %0, you say?
-- **17747**: Ugh, it figures. Did it come with a card that says something pathetic like "I've died a thousand deaths drowning in the depths of your eyes"? That scoundrel has been stalking me ever since we happened to meet one day on a boat to Buburimu Peninsula.
-- **17748**: I'm actually quite fed up with these ridiculous baubles, but I'm not one for losing face. If you should see %0 again, please give my regards and say I found the gift rather...quaint.
-- **17749**: What's this? A present addressed to me from %0?
-- **17750**: How unexpectedly charming and thoughtful. This has certainly brightened what was about to be a gloomy Starlight Celebration.
-- **17751**: Would you be so kind as to tell %0 that I truly appreciate the gift? I am also thoroughly impressed with your selfless nature, adventurer.
-- **17752**: Could it be...? Indeed, it is benevolence manifest, emanating from the humble home of one %0?
-- **17753**: What a decidedly pleasant surprise. I am simply beside myself with an unbridled, childish glee that has not washed over me in ever so long. I swear that I am on the brink of giggling like I used to when I was still knee-high to a Taru.
-- **17754**: The finite words of us mere mortals may not be sufficient to convey the depths of my gratitude, but I earnestly hope %0 would appreciate a succinct "Thank you."
-- **17755**: A present from...%0? This isn't one of those tricky-wicky flimflams, is it?
-- **17756**: Of course I'll take it! I'm not one to look a gift horse in the mouth, even if it's from my mortaru enemy! Maybe %0 has turned over a new leaf since we last met...
-- **17757**: Well then, I suppose some thanks are in order. But if I find out that this was just some elaborataru scheme to make me lower my guard, I'm going to boppy-wop you both in the noggin!
-- **17758**: Oooh, a gift from %0? What jolly-wolly tidings you've brought, adventurer.
-- **17759**: I wonder what's inside... Could it be a scrum-diddly-umptious cake? But I've already gotten so roly-poly during the holiday season! Maybe I should just send it back!
-- **17760**: No, thataru wouldn't be right. Besides, it might not be edible. Anyway, please be sure to thank %0 for pudding the icing on such a delectable Starcake Chocolation. Ugh, I'm just terrible!
-- **17761**: Why would %0 be sending me a gift? It's not like there's anything special going on.
-- **17762**: The Starlight Celebration, you say? So that explains the light shows and festive atmosphere around here lately. My head just hasn't been the same since I fell off that chocobo last month.
-- **17763**: I best start looking for something to give in return. In the meantime, please tell %0 how happy I am to have received this. And maybe next year I'll remember before it's too late. <Sigh>...One can only hope.
-- **17764**: A present for me? I'm a lone lioness, and I don't need to share my kills with anyone!
-- **17765**: What? %0 wanted me to have this? Well, I guess I could take it...
-- **17766**: Don't get the wrrrong idea! It's not like I enjoy the gift or anything! Just run back to %0 and drop dead! This conversation never happened!
+- **17704**: What? But how...? If that's truly from %0, that must mean...you stole it and you're ransoming it back to me! If you think for one moment that I'd pay scum like you, you'd best think twice!
+- **17705**: Oh, I see. My apologies. How silly of me. Everyone knows how mischievous Goblins get during the Starlight Celebration season. I read somewhere that it's got something to do with the moon and the tides or whatnot.
+- **17706**: Anyway, sorry to trouble you, but could you deliver this in my stead? I may look like a strapping young lad, but I have this illness that prevents me from doing the same task twice in one day. Quite troublesome, really.
+- **17707**: Also, could you do me a favor and report back to me after you're done? I didn't want to spend the extra gil for delivery confirmation with times as tough as they are, you know?
+- **17708**: I take it you delivered my present safe and sound? Oh, and it was well received, too? Ha, you didn't need to tell me that, for my gifts are always a hit. I guess I should thank you though, seeing as how you played a tiny part in my Starlight Celebration success.
+- **17709**: Waaah, a cutthroat! Take anything you want, just not my lucky chocobo hose, please! I... Wait, isn't that the gift I sent %0? You didn't steal that too, did you!?
+- **17710**: What!? You...valiantly wrested it from the clutches of a greedy Goblin so you could return it to me? I just knew my [handsome champion/fair handmaiden] in resplendent regalia would come some day!
+- **17711**: I'm sure you've been through quite a few trials and tribulations just getting this back to me, your fair lady. However, my hands are tied at the moment and I can't take this present to %0. Therefore, I command you, my loyal follower, to act as my liaison and deliver it unscathed. I have no doubt that you'll succeed, since a [knight/handmaiden] will do anything to serve and protect [his/her] mistress.
+- **17712**: And please don't forget to check in with me after the delivery is made. Every [champion/handmaiden] knows that's the [chivalrous/proper] thing to do.
+- **17713**: How fared your journey, my [courageous champion/humble handmaiden]? Oh, I simply knew I could place my complete trust in you! You've not only made your fair lady quite proud, but saved the Starlight Celebration from those covetous beastmen! Oh, joyous day!
+- **17714**: I beg your pardon, but I cannot help but notice that this is the parcel I sent to %0. How might you have come by it?
+- **17715**: Ah, I see. Those Goblin rapscallions still show a complete and utter disregard for social graces, would you not agree? At any rate, you seem to possess a rather strong sense of justice, and for that I am most grateful.
+- **17716**: Could you also find it within your heart to see that this package reaches %0 safely? I may be a man of humble means, but you will certainly have my eternal gratitude and undying admiration.
+- **17717**: Oh my. This utterly slipped my addled mind. I am truly sorry, but I fear I must heap one more request upon your already burdened back. Could you please report back to me after you've made the delivery? It would undoubtedly lessen the anxiety weighing down my fragile heart.
+- **17718**: Goddess be good, you have returned! And with favorable tidings, no? Splendid. Absolutely splendid. Thanks to you, I feel as if I could burst into a Starlight carol at any moment. Fa-la-la-la\`t.
+- **17719**: What doth bring thee 'fore these rheumy eyes, orbs that pierce the soul and a stranger's guise? Harken, thou hast %0's present, from whom hast thou received such consent?
+- **17720**: 'Tis an entertaining tale with which thy jowls doth flail, A tale of Goblins run amok, and wretched me bereft of luck. Still, thanks are in store for completing this chore with a dearth of gore.
+- **17721**: While these next words may conjure a storm, I cannot assist thee in any form. Thus, I entreat thee to heed the call...deliver this gift to %0 once and for all!
+- **17722**: 'Fore I finish this lengthy tirade, one last request must be made. Once the gift hath changed hands, return at once for further plans.
+- **17723**: Thou hast safely returned from thy trial? Upon us both doth Altana smile! To thee, the savior of the Starlight Celebration, I do give heartfelt acclamations!
+- **17724**: Wh-wh-what have you got there? It looks awfully-wafully like the gift I gave to %0. Did something happen? P-p-please don't tell me that %0 passy-wassed away!
+- **17725**: ...It was just a G-g-goblin prank? Sorry to overreactaru. I had a t-t-traumatic experience last Starlight Devastation--er, Celebration! So now I always feary-wear the worst. By the way, th-th-thank you for getting my gift back.
+- **17726**: As you can guess, m-m-my comfort zone is rather itty-bitty. I know you must be expired--tired! But can you please helpy-welp me and deliver my present to %0?
+- **17727**: After you pass on--the gift! Pass the gift on! Then c-c-could you report back to me? I truly-wuly want to know how %0 reacts.
+- **17728**: Ah, you're back! It's %0's most perished, er, cherished possession, you say? Wh-wh-what lofty-wofty praise! I can't thank you enough for your c-c-contributions, adventurer.
+- **17729**: So many nasty-wasty things happened to me today, I'm just too moody-woody to listen to your blather! Begone before I--wait, isn't that my present to %0?
+- **17730**: Ugh, quit barking like a bog dog, [brother-wother/sister-wister]! I don't give a ham and cheese about giddy Goblins or lazy moogles.
+- **17731**: You think you're so great because you saved my present from some baddie-waddies? Bah humbug-wumbug! If you're gonna stick your nosey-wose in others' business, then you bettaru finish what you started! You'll be taking that gift on over to %0, I tell you what!
+- **17732**: And don't think for a minute-winute that I'm going to let you get away with ruining my day! Report back here for a tongue-lashing when you're done! Now get going before I gutaru you right here and now!
+- **17733**: Hmph, so you're stupid as well as rude? Are you so subservient that you'd actually come backy-wack for a beating? Get out of my face! You disgustaru me. Oh, and Merry Starlight!
+- **17734**: Hey, I sent that to %0. Why do you have it?
+- **17735**: Hmmm. Stolen by Gobbies, huh? Thanks for getting it back.
+- **17736**: Sorry to burden you, but could you bring it to %0 again for me?
+- **17737**: Also, I'd like it if you could please fill me in when you're done.
+- **17738**: I see you've returned. Mmm...that's good news indeed. Thank you for the kindness you've shown me and my friend.
+- **17739**: What have we here? A cat burrrglar? How dare you despoil the innocent people of our fair nation!
+- **17740**: What am I talking about? That's the prrresent I sent %0! How could you have it if you didn't steal it!?
+- **17741**: Oh, I see. You're a defender of justice too. Good job negotiating with those Goblin scum. I just hope that rrrepeating that story to everyone you've saved hasn't got you hacking up hairballs.
+- **17742**: But enough tail wagging. I have some prey I need to take care of, so could you rrredeliver that gift to %0 and report back to me when you're done?
+- **17743**: What timing! I've just rrreturned from my own mission. Whew, good thing %0 liked it! That little trinket was as high priced as the hair on a cat's back! Anyway, thanks for your help. If your fur ever gets rubbed the wrong way, give me a sign and I'll come rrroaring to the rescue!
+- **17744**: A present...from %0? Oh, glorious day! This is for all those times I never got a present and kept telling myself next year will be the one.
+- **17745**: I'm at a loss for what to say! I'm just overwhelmed with a waterfall of emotion! Thank you so much!
+- **17746**: And please thank %0 the next time you see that good samaritan. The person who said, "'Tis better to give than receive" probably never had a gift drought as long as mine. I feel fantastic!
+- **17747**: Oh, is that...a present? From %0, you say?
+- **17748**: Ugh, it figures. Did it come with a card that says something pathetic like "I've died a thousand deaths drowning in the depths of your eyes"? That scoundrel has been stalking me ever since we happened to meet one day on a boat to Buburimu Peninsula.
+- **17749**: I'm actually quite fed up with these ridiculous baubles, but I'm not one for losing face. If you should see %0 again, please give my regards and say I found the gift rather...quaint.
+- **17750**: What's this? A present addressed to me from %0?
+- **17751**: How unexpectedly charming and thoughtful. This has certainly brightened what was about to be a gloomy Starlight Celebration.
+- **17752**: Would you be so kind as to tell %0 that I truly appreciate the gift? I am also thoroughly impressed with your selfless nature, adventurer.
+- **17753**: Could it be...? Indeed, it is benevolence manifest, emanating from the humble home of one %0?
+- **17754**: What a decidedly pleasant surprise. I am simply beside myself with an unbridled, childish glee that has not washed over me in ever so long. I swear that I am on the brink of giggling like I used to when I was still knee-high to a Taru.
+- **17755**: The finite words of us mere mortals may not be sufficient to convey the depths of my gratitude, but I earnestly hope %0 would appreciate a succinct "Thank you."
+- **17756**: A present from...%0? This isn't one of those tricky-wicky flimflams, is it?
+- **17757**: Of course I'll take it! I'm not one to look a gift horse in the mouth, even if it's from my mortaru enemy! Maybe %0 has turned over a new leaf since we last met...
+- **17758**: Well then, I suppose some thanks are in order. But if I find out that this was just some elaborataru scheme to make me lower my guard, I'm going to boppy-wop you both in the noggin!
+- **17759**: Oooh, a gift from %0? What jolly-wolly tidings you've brought, adventurer.
+- **17760**: I wonder what's inside... Could it be a scrum-diddly-umptious cake? But I've already gotten so roly-poly during the holiday season! Maybe I should just send it back!
+- **17761**: No, thataru wouldn't be right. Besides, it might not be edible. Anyway, please be sure to thank %0 for pudding the icing on such a delectable Starcake Chocolation. Ugh, I'm just terrible!
+- **17762**: Why would %0 be sending me a gift? It's not like there's anything special going on.
+- **17763**: The Starlight Celebration, you say? So that explains the light shows and festive atmosphere around here lately. My head just hasn't been the same since I fell off that chocobo last month.
+- **17764**: I best start looking for something to give in return. In the meantime, please tell %0 how happy I am to have received this. And maybe next year I'll remember before it's too late. <Sigh>...One can only hope.
+- **17765**: A present for me? I'm a lone lioness, and I don't need to share my kills with anyone!
+- **17766**: What? %0 wanted me to have this? Well, I guess I could take it...
+- **17767**: Don't get the wrrrong idea! It's not like I enjoy the gift or anything! Just run back to %0 and drop dead! This conversation never happened!
 
 ## Events
 
@@ -369,41 +369,41 @@ SUBROUTINE_032C:
   5: 0x0336 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0337 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0338 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0347
-  8: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=17745*)
+  8: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=17746*)
     → "And please thank %0 the next time you see that good samaritan. The person who said, "'Tis better to give than receive" probably never had a gift drought as long as mine. I feel fantastic!"
   9: 0x0343 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0344 [0x01] GOTO 0x03A5
  11: 0x0347 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0356
- 12: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=17748*)
+ 12: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=17749*)
     → "I'm actually quite fed up with these ridiculous baubles, but I'm not one for losing face. If you should see %0 again, please give my regards and say I found the gift rather...quaint."
  13: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0353 [0x01] GOTO 0x03A5
  15: 0x0356 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0365
- 16: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=17751*)
+ 16: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=17752*)
     → "Would you be so kind as to tell %0 that I truly appreciate the gift? I am also thoroughly impressed with your selfless nature, adventurer."
  17: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0362 [0x01] GOTO 0x03A5
  19: 0x0365 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0374
- 20: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=17754*)
+ 20: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=17755*)
     → "The finite words of us mere mortals may not be sufficient to convey the depths of my gratitude, but I earnestly hope %0 would appreciate a succinct "Thank you.""
  21: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0371 [0x01] GOTO 0x03A5
  23: 0x0374 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0383
- 24: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=17757*)
+ 24: 0x037C [0x1D] PRINT_EVENT_MESSAGE(message_id=17758*)
     → "Well then, I suppose some thanks are in order. But if I find out that this was just some elaborataru scheme to make me lower my guard, I'm going to boppy-wop you both in the noggin!"
  25: 0x037F [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0380 [0x01] GOTO 0x03A5
  27: 0x0383 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0392
- 28: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=17760*)
+ 28: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=17761*)
     → "No, thataru wouldn't be right. Besides, it might not be edible. Anyway, please be sure to thank %0 for pudding the icing on such a delectable Starcake Chocolation. Ugh, I'm just terrible!"
  29: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x038F [0x01] GOTO 0x03A5
  31: 0x0392 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x03A1
- 32: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=17766*)
+ 32: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=17767*)
     → "Don't get the wrrrong idea! It's not like I enjoy the gift or anything! Just run back to %0 and drop dead! This conversation never happened!"
  33: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x039E [0x01] GOTO 0x03A5
- 35: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17763*)
+ 35: 0x03A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17764*)
     → "I best start looking for something to give in return. In the meantime, please tell %0 how happy I am to have received this. And maybe next year I'll remember before it's too late. <Sigh>...One can only hope."
  36: 0x03A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -421,120 +421,120 @@ SUBROUTINE_03A5:
      0x0025 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0026 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x004E
      0x002E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=17703*)
+     0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=17704*)
     → "What? But how...? If that's truly from %0, that must mean...you stole it and you're ransoming it back to me! If you think for one moment that I'd pay scum like you, you'd best think twice!"
      0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=17704*)
+     0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=17705*)
     → "Oh, I see. My apologies. How silly of me. Everyone knows how mischievous Goblins get during the Starlight Celebration season. I read somewhere that it's got something to do with the moon and the tides or whatnot."
      0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=17705*)
+     0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=17706*)
     → "Anyway, sorry to trouble you, but could you deliver this in my stead? I may look like a strapping young lad, but I have this illness that prevents me from doing the same task twice in one day. Quite troublesome, really."
      0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=17706*)
+     0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=17707*)
     → "Also, could you do me a favor and report back to me after you're done? I didn't want to spend the extra gil for delivery confirmation with times as tough as they are, you know?"
      0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x004B [0x01] GOTO 0x015B
      0x004E [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0076
      0x0056 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=17708*)
+     0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=17709*)
     → "Waaah, a cutthroat! Take anything you want, just not my lucky chocobo hose, please! I... Wait, isn't that the gift I sent %0? You didn't steal that too, did you!?"
      0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=17709*)
+     0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=17710*)
     → "What!? You...valiantly wrested it from the clutches of a greedy Goblin so you could return it to me? I just knew my [handsome champion/fair handmaiden] in resplendent regalia would come some day!"
      0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=17710*)
+     0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=17711*)
     → "I'm sure you've been through quite a few trials and tribulations just getting this back to me, your fair lady. However, my hands are tied at the moment and I can't take this present to %0. Therefore, I command you, my loyal follower, to act as my liaison and deliver it unscathed. I have no doubt that you'll succeed, since a [knight/handmaiden] will do anything to serve and protect [his/her] mistress."
      0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=17711*)
+     0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=17712*)
     → "And please don't forget to check in with me after the delivery is made. Every [champion/handmaiden] knows that's the [chivalrous/proper] thing to do."
      0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0073 [0x01] GOTO 0x015B
      0x0076 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x009E
      0x007E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=17713*)
+     0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=17714*)
     → "I beg your pardon, but I cannot help but notice that this is the parcel I sent to %0. How might you have come by it?"
      0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=17714*)
+     0x008F [0x1D] PRINT_EVENT_MESSAGE(message_id=17715*)
     → "Ah, I see. Those Goblin rapscallions still show a complete and utter disregard for social graces, would you not agree? At any rate, you seem to possess a rather strong sense of justice, and for that I am most grateful."
      0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=17715*)
+     0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=17716*)
     → "Could you also find it within your heart to see that this package reaches %0 safely? I may be a man of humble means, but you will certainly have my eternal gratitude and undying admiration."
      0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=17716*)
+     0x0097 [0x1D] PRINT_EVENT_MESSAGE(message_id=17717*)
     → "Oh my. This utterly slipped my addled mind. I am truly sorry, but I fear I must heap one more request upon your already burdened back. Could you please report back to me after you've made the delivery? It would undoubtedly lessen the anxiety weighing down my fragile heart."
      0x009A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x009B [0x01] GOTO 0x015B
      0x009E [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x00C6
      0x00A6 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17718*)
+     0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17719*)
     → "What doth bring thee 'fore these rheumy eyes, orbs that pierce the soul and a stranger's guise? Harken, thou hast %0's present, from whom hast thou received such consent?"
      0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17719*)
+     0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17720*)
     → "'Tis an entertaining tale with which thy jowls doth flail, A tale of Goblins run amok, and wretched me bereft of luck. Still, thanks are in store for completing this chore with a dearth of gore."
      0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=17720*)
+     0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=17721*)
     → "While these next words may conjure a storm, I cannot assist thee in any form. Thus, I entreat thee to heed the call...deliver this gift to %0 once and for all!"
      0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=17721*)
+     0x00BF [0x1D] PRINT_EVENT_MESSAGE(message_id=17722*)
     → "'Fore I finish this lengthy tirade, one last request must be made. Once the gift hath changed hands, return at once for further plans."
      0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00C3 [0x01] GOTO 0x015B
      0x00C6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x00EE
      0x00CE [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=17723*)
+     0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=17724*)
     → "Wh-wh-what have you got there? It looks awfully-wafully like the gift I gave to %0. Did something happen? P-p-please don't tell me that %0 passy-wassed away!"
      0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=17724*)
+     0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=17725*)
     → "...It was just a G-g-goblin prank? Sorry to overreactaru. I had a t-t-traumatic experience last Starlight Devastation--er, Celebration! So now I always feary-wear the worst. By the way, th-th-thank you for getting my gift back."
      0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17725*)
+     0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17726*)
     → "As you can guess, m-m-my comfort zone is rather itty-bitty. I know you must be expired--tired! But can you please helpy-welp me and deliver my present to %0?"
      0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17726*)
+     0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=17727*)
     → "After you pass on--the gift! Pass the gift on! Then c-c-could you report back to me? I truly-wuly want to know how %0 reacts."
      0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00EB [0x01] GOTO 0x015B
      0x00EE [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0116
      0x00F6 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=17728*)
+     0x0103 [0x1D] PRINT_EVENT_MESSAGE(message_id=17729*)
     → "So many nasty-wasty things happened to me today, I'm just too moody-woody to listen to your blather! Begone before I--wait, isn't that my present to %0?"
      0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=17729*)
+     0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=17730*)
     → "Ugh, quit barking like a bog dog, [brother-wother/sister-wister]! I don't give a ham and cheese about giddy Goblins or lazy moogles."
      0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=17730*)
+     0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=17731*)
     → "You think you're so great because you saved my present from some baddie-waddies? Bah humbug-wumbug! If you're gonna stick your nosey-wose in others' business, then you bettaru finish what you started! You'll be taking that gift on over to %0, I tell you what!"
      0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=17731*)
+     0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=17732*)
     → "And don't think for a minute-winute that I'm going to let you get away with ruining my day! Report back here for a tongue-lashing when you're done! Now get going before I gutaru you right here and now!"
      0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0113 [0x01] GOTO 0x015B
      0x0116 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x013E
      0x011E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=17738*)
+     0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=17739*)
     → "What have we here? A cat burrrglar? How dare you despoil the innocent people of our fair nation!"
      0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=17739*)
+     0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=17740*)
     → "What am I talking about? That's the prrresent I sent %0! How could you have it if you didn't steal it!?"
      0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=17740*)
+     0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=17741*)
     → "Oh, I see. You're a defender of justice too. Good job negotiating with those Goblin scum. I just hope that rrrepeating that story to everyone you've saved hasn't got you hacking up hairballs."
      0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=17741*)
+     0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=17742*)
     → "But enough tail wagging. I have some prey I need to take care of, so could you rrredeliver that gift to %0 and report back to me when you're done?"
      0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x013B [0x01] GOTO 0x015B
      0x013E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-     0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=17733*)
+     0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=17734*)
     → "Hey, I sent that to %0. Why do you have it?"
      0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=17734*)
+     0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=17735*)
     → "Hmmm. Stolen by Gobbies, huh? Thanks for getting it back."
      0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=17735*)
+     0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=17736*)
     → "Sorry to burden you, but could you bring it to %0 again for me?"
      0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=17736*)
+     0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=17737*)
     → "Also, I'd like it if you could please fill me in when you're done."
      0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x015B [0x1B] RETURN
@@ -543,65 +543,65 @@ SUBROUTINE_03A5:
      0x0166 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0167 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0168 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x017B
-     0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=17705*)
+     0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=17706*)
     → "Anyway, sorry to trouble you, but could you deliver this in my stead? I may look like a strapping young lad, but I have this illness that prevents me from doing the same task twice in one day. Quite troublesome, really."
      0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=17706*)
+     0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=17707*)
     → "Also, could you do me a favor and report back to me after you're done? I didn't want to spend the extra gil for delivery confirmation with times as tough as they are, you know?"
      0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0178 [0x01] GOTO 0x01F5
      0x017B [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x018E
-     0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=17710*)
+     0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=17711*)
     → "I'm sure you've been through quite a few trials and tribulations just getting this back to me, your fair lady. However, my hands are tied at the moment and I can't take this present to %0. Therefore, I command you, my loyal follower, to act as my liaison and deliver it unscathed. I have no doubt that you'll succeed, since a [knight/handmaiden] will do anything to serve and protect [his/her] mistress."
      0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=17711*)
+     0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=17712*)
     → "And please don't forget to check in with me after the delivery is made. Every [champion/handmaiden] knows that's the [chivalrous/proper] thing to do."
      0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x018B [0x01] GOTO 0x01F5
      0x018E [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x01A1
-     0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=17715*)
+     0x0196 [0x1D] PRINT_EVENT_MESSAGE(message_id=17716*)
     → "Could you also find it within your heart to see that this package reaches %0 safely? I may be a man of humble means, but you will certainly have my eternal gratitude and undying admiration."
      0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=17716*)
+     0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=17717*)
     → "Oh my. This utterly slipped my addled mind. I am truly sorry, but I fear I must heap one more request upon your already burdened back. Could you please report back to me after you've made the delivery? It would undoubtedly lessen the anxiety weighing down my fragile heart."
      0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x019E [0x01] GOTO 0x01F5
      0x01A1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x01B4
-     0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17720*)
+     0x01A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17721*)
     → "While these next words may conjure a storm, I cannot assist thee in any form. Thus, I entreat thee to heed the call...deliver this gift to %0 once and for all!"
      0x01AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=17721*)
+     0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=17722*)
     → "'Fore I finish this lengthy tirade, one last request must be made. Once the gift hath changed hands, return at once for further plans."
      0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01B1 [0x01] GOTO 0x01F5
      0x01B4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x01C7
-     0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17725*)
+     0x01BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17726*)
     → "As you can guess, m-m-my comfort zone is rather itty-bitty. I know you must be expired--tired! But can you please helpy-welp me and deliver my present to %0?"
      0x01BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=17726*)
+     0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=17727*)
     → "After you pass on--the gift! Pass the gift on! Then c-c-could you report back to me? I truly-wuly want to know how %0 reacts."
      0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01C4 [0x01] GOTO 0x01F5
      0x01C7 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x01DA
-     0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17730*)
+     0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17731*)
     → "You think you're so great because you saved my present from some baddie-waddies? Bah humbug-wumbug! If you're gonna stick your nosey-wose in others' business, then you bettaru finish what you started! You'll be taking that gift on over to %0, I tell you what!"
      0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17731*)
+     0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17732*)
     → "And don't think for a minute-winute that I'm going to let you get away with ruining my day! Report back here for a tongue-lashing when you're done! Now get going before I gutaru you right here and now!"
      0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01D7 [0x01] GOTO 0x01F5
      0x01DA [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x01ED
-     0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17740*)
+     0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17741*)
     → "Oh, I see. You're a defender of justice too. Good job negotiating with those Goblin scum. I just hope that rrrepeating that story to everyone you've saved hasn't got you hacking up hairballs."
      0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17741*)
+     0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17742*)
     → "But enough tail wagging. I have some prey I need to take care of, so could you rrredeliver that gift to %0 and report back to me when you're done?"
      0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01EA [0x01] GOTO 0x01F5
-     0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=17735*)
+     0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=17736*)
     → "Sorry to burden you, but could you bring it to %0 again for me?"
      0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17736*)
+     0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17737*)
     → "Also, I'd like it if you could please fill me in when you're done."
      0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01F5 [0x1B] RETURN
@@ -611,41 +611,41 @@ SUBROUTINE_03A5:
      0x0201 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x0202 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x0203 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0212
-     0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=17707*)
+     0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=17708*)
     → "I take it you delivered my present safe and sound? Oh, and it was well received, too? Ha, you didn't need to tell me that, for my gifts are always a hit. I guess I should thank you though, seeing as how you played a tiny part in my Starlight Celebration success."
      0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x020F [0x01] GOTO 0x0270
      0x0212 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0221
-     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=17712*)
+     0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=17713*)
     → "How fared your journey, my [courageous champion/humble handmaiden]? Oh, I simply knew I could place my complete trust in you! You've not only made your fair lady quite proud, but saved the Starlight Celebration from those covetous beastmen! Oh, joyous day!"
      0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x021E [0x01] GOTO 0x0270
      0x0221 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0230
-     0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=17717*)
+     0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=17718*)
     → "Goddess be good, you have returned! And with favorable tidings, no? Splendid. Absolutely splendid. Thanks to you, I feel as if I could burst into a Starlight carol at any moment. Fa-la-la-la`t."
      0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x022D [0x01] GOTO 0x0270
      0x0230 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x023F
-     0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=17722*)
+     0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=17723*)
     → "Thou hast safely returned from thy trial? Upon us both doth Altana smile! To thee, the savior of the Starlight Celebration, I do give heartfelt acclamations!"
      0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x023C [0x01] GOTO 0x0270
      0x023F [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x024E
-     0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=17727*)
+     0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=17728*)
     → "Ah, you're back! It's %0's most perished, er, cherished possession, you say? Wh-wh-what lofty-wofty praise! I can't thank you enough for your c-c-contributions, adventurer."
      0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x024B [0x01] GOTO 0x0270
      0x024E [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x025D
-     0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=17732*)
+     0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=17733*)
     → "Hmph, so you're stupid as well as rude? Are you so subservient that you'd actually come backy-wack for a beating? Get out of my face! You disgustaru me. Oh, and Merry Starlight!"
      0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x025A [0x01] GOTO 0x0270
      0x025D [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x026C
-     0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=17742*)
+     0x0265 [0x1D] PRINT_EVENT_MESSAGE(message_id=17743*)
     → "What timing! I've just rrreturned from my own mission. Whew, good thing %0 liked it! That little trinket was as high priced as the hair on a cat's back! Anyway, thanks for your help. If your fur ever gets rubbed the wrong way, give me a sign and I'll come rrroaring to the rescue!"
      0x0268 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0269 [0x01] GOTO 0x0270
-     0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=17737*)
+     0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=17738*)
     → "I see you've returned. Mmm...that's good news indeed. Thank you for the kindness you've shown me and my friend."
      0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0270 [0x1B] RETURN
@@ -655,89 +655,89 @@ SUBROUTINE_03A5:
      0x027C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x027D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
      0x027E [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0295
-     0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=17743*)
+     0x0286 [0x1D] PRINT_EVENT_MESSAGE(message_id=17744*)
     → "A present...from %0? Oh, glorious day! This is for all those times I never got a present and kept telling myself next year will be the one."
      0x0289 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=17744*)
+     0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=17745*)
     → "I'm at a loss for what to say! I'm just overwhelmed with a waterfall of emotion! Thank you so much!"
      0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=17745*)
+     0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=17746*)
     → "And please thank %0 the next time you see that good samaritan. The person who said, "'Tis better to give than receive" probably never had a gift drought as long as mine. I feel fantastic!"
      0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0292 [0x01] GOTO 0x032B
      0x0295 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02AC
-     0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=17746*)
+     0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=17747*)
     → "Oh, is that...a present? From %0, you say?"
      0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17747*)
+     0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=17748*)
     → "Ugh, it figures. Did it come with a card that says something pathetic like "I've died a thousand deaths drowning in the depths of your eyes"? That scoundrel has been stalking me ever since we happened to meet one day on a boat to Buburimu Peninsula."
      0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17748*)
+     0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=17749*)
     → "I'm actually quite fed up with these ridiculous baubles, but I'm not one for losing face. If you should see %0 again, please give my regards and say I found the gift rather...quaint."
      0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02A9 [0x01] GOTO 0x032B
      0x02AC [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02C3
-     0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17749*)
+     0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=17750*)
     → "What's this? A present addressed to me from %0?"
      0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17750*)
+     0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=17751*)
     → "How unexpectedly charming and thoughtful. This has certainly brightened what was about to be a gloomy Starlight Celebration."
      0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17751*)
+     0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=17752*)
     → "Would you be so kind as to tell %0 that I truly appreciate the gift? I am also thoroughly impressed with your selfless nature, adventurer."
      0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02C0 [0x01] GOTO 0x032B
      0x02C3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02DA
-     0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=17752*)
+     0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=17753*)
     → "Could it be...? Indeed, it is benevolence manifest, emanating from the humble home of one %0?"
      0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17753*)
+     0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=17754*)
     → "What a decidedly pleasant surprise. I am simply beside myself with an unbridled, childish glee that has not washed over me in ever so long. I swear that I am on the brink of giggling like I used to when I was still knee-high to a Taru."
      0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17754*)
+     0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=17755*)
     → "The finite words of us mere mortals may not be sufficient to convey the depths of my gratitude, but I earnestly hope %0 would appreciate a succinct "Thank you.""
      0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02D7 [0x01] GOTO 0x032B
      0x02DA [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x02F1
-     0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17755*)
+     0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=17756*)
     → "A present from...%0? This isn't one of those tricky-wicky flimflams, is it?"
      0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17756*)
+     0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=17757*)
     → "Of course I'll take it! I'm not one to look a gift horse in the mouth, even if it's from my mortaru enemy! Maybe %0 has turned over a new leaf since we last met..."
      0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=17757*)
+     0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=17758*)
     → "Well then, I suppose some thanks are in order. But if I find out that this was just some elaborataru scheme to make me lower my guard, I'm going to boppy-wop you both in the noggin!"
      0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02EE [0x01] GOTO 0x032B
      0x02F1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 6*) GOTO 0x0308
-     0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17758*)
+     0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=17759*)
     → "Oooh, a gift from %0? What jolly-wolly tidings you've brought, adventurer."
      0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=17759*)
+     0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=17760*)
     → "I wonder what's inside... Could it be a scrum-diddly-umptious cake? But I've already gotten so roly-poly during the holiday season! Maybe I should just send it back!"
      0x0300 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=17760*)
+     0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=17761*)
     → "No, thataru wouldn't be right. Besides, it might not be edible. Anyway, please be sure to thank %0 for pudding the icing on such a delectable Starcake Chocolation. Ugh, I'm just terrible!"
      0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0305 [0x01] GOTO 0x032B
      0x0308 [0x02] IF !(ExtData[1]->WorkLocal[0] == 7*) GOTO 0x031F
-     0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=17764*)
+     0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=17765*)
     → "A present for me? I'm a lone lioness, and I don't need to share my kills with anyone!"
      0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=17765*)
+     0x0314 [0x1D] PRINT_EVENT_MESSAGE(message_id=17766*)
     → "What? %0 wanted me to have this? Well, I guess I could take it..."
      0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=17766*)
+     0x0318 [0x1D] PRINT_EVENT_MESSAGE(message_id=17767*)
     → "Don't get the wrrrong idea! It's not like I enjoy the gift or anything! Just run back to %0 and drop dead! This conversation never happened!"
      0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x031C [0x01] GOTO 0x032B
-     0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=17761*)
+     0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=17762*)
     → "Why would %0 be sending me a gift? It's not like there's anything special going on."
      0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=17762*)
+     0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=17763*)
     → "The Starlight Celebration, you say? So that explains the light shows and festive atmosphere around here lately. My head just hasn't been the same since I fell off that chocobo last month."
      0x0326 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=17763*)
+     0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=17764*)
     → "I best start looking for something to give in return. In the meantime, please tell %0 how happy I am to have received this. And maybe next year I'll remember before it's too late. <Sigh>...One can only hope."
      0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x032B [0x1B] RETURN

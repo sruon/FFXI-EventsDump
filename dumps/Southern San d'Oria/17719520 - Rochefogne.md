@@ -100,19 +100,19 @@
 |      39 | 0xFFFF2E94  |  4294913684 |
 |      40 | 0x17EF0     |       98032 |
 |      41 | 0xFFFF41E6  |  4294918630 |
-|      42 | 0x23F0      |        9200 |
-|      43 | 0x23F1      |        9201 |
-|      44 | 0x23F3      |        9203 |
-|      45 | 0x23F8      |        9208 |
-|      46 | 0x23FB      |        9211 |
+|      42 | 0x23F1      |        9201 |
+|      43 | 0x23F2      |        9202 |
+|      44 | 0x23F4      |        9204 |
+|      45 | 0x23F9      |        9209 |
+|      46 | 0x23FC      |        9212 |
 
 ## String References
 
-- **9200**: Lord knight, forgive this interruption, but there is something I must ask of you.
-- **9201**: I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?
-- **9203**: Please, I have traveled from afar to see Her Highness!
-- **9208**: Er...
-- **9211**: Is that so? Well, I thank you for your kindness, proud knight of San d'Oria.
+- **9201**: Lord knight, forgive this interruption, but there is something I must ask of you.
+- **9202**: I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?
+- **9204**: Please, I have traveled from afar to see Her Highness!
+- **9209**: Er...
+- **9212**: Is that so? Well, I thank you for your kindness, proud knight of San d'Oria.
 
 ## Events
 
@@ -998,7 +998,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9200*)
+  0: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
     → "Lord knight, forgive this interruption, but there is something I must ask of you."
   1: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01FB [0x00] END_REQSTACK()
@@ -1025,7 +1025,7 @@
 
 ```
   0: 0x01FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rochefogne (ID: 17719520/0x010E60E0), tag_num=0x16)
-  1: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=9201*)
+  1: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=9202*)
     → "I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?"
   2: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0207 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rochefogne (ID: 17719520/0x010E60E0), tag_num=0x17)
@@ -1052,7 +1052,7 @@
 #### Opcodes
 
 ```
-  0: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=9203*)
+  0: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=9204*)
     → "Please, I have traveled from afar to see Her Highness!"
   1: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0213 [0x00] END_REQSTACK()
@@ -1079,7 +1079,7 @@
 
 ```
   0: 0x0214 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=9208*)
+  1: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=9209*)
     → "Er..."
   2: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021E [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1105,7 +1105,7 @@
 #### Opcodes
 
 ```
-  0: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=9211*)
+  0: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=9212*)
     → "Is that so? Well, I thank you for your kindness, proud knight of San d'Oria."
   1: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0229 [0x00] END_REQSTACK()

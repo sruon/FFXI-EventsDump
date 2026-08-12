@@ -945,7 +945,7 @@ SUBROUTINE_008D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0310:             32 0E 80 1F  00 15 80 16 80 17 80 1F      2...........
-0320: 01 1E F9 51 10 01 1C 12  80 00                    ...Q......      
+0320: 01 1E FB 51 10 01 1C 12  80 00                    ...Q......      
 ```
 
 #### Opcodes
@@ -954,7 +954,7 @@ SUBROUTINE_008D:
   0: 0x0314 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0317 [0x1F] MOVE_ENTITY: EventEntity moves to X=320.904*, Z=-265.335*, Y=4.000*
   2: 0x031F [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0321 [0x1E] EventEntity looks at Arciela (ID: 17846777/0x011051F9) and starts talking
+  3: 0x0321 [0x1E] EventEntity looks at Arciela (ID: 17846779/0x011051FB) and starts talking
   4: 0x0326 [0x1C] WAIT(30* ticks)
   5: 0x0329 [0x00] END_REQSTACK()
 ```
@@ -1406,14 +1406,14 @@ SUBROUTINE_008D:
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-04D0:    29 03 F0 FF FF 7F 06  1E 02 52 10 01 00         )........R...  
+04D0:    29 03 F0 FF FF 7F 06  1E 04 52 10 01 00         )........R...  
 ```
 
 #### Opcodes
 
 ```
   0: 0x04D1 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=LocalPlayer, tag_num=0x06)
-  1: 0x04D8 [0x1E] EventEntity looks at Lhe Lhangavo (ID: 17846786/0x01105202) and starts talking
+  1: 0x04D8 [0x1E] EventEntity looks at Lhe Lhangavo (ID: 17846788/0x01105204) and starts talking
   2: 0x04DD [0x00] END_REQSTACK()
 ```
 
@@ -1431,7 +1431,7 @@ SUBROUTINE_008D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04D0:                                            32 0E                2.
-04E0: 80 1F 00 31 80 32 80 08  80 1F 01 1E 02 52 10 01  ...1.2.......R..
+04E0: 80 1F 00 31 80 32 80 08  80 1F 01 1E 04 52 10 01  ...1.2.......R..
 04F0: 1C 12 80 00                                       ....            
 ```
 
@@ -1441,7 +1441,7 @@ SUBROUTINE_008D:
   0: 0x04DE [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x04E1 [0x1F] MOVE_ENTITY: EventEntity moves to X=-167.759*, Z=-39.186*, Y=0.000*
   2: 0x04E9 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x04EB [0x1E] EventEntity looks at Lhe Lhangavo (ID: 17846786/0x01105202) and starts talking
+  3: 0x04EB [0x1E] EventEntity looks at Lhe Lhangavo (ID: 17846788/0x01105204) and starts talking
   4: 0x04F0 [0x1C] WAIT(30* ticks)
   5: 0x04F3 [0x00] END_REQSTACK()
 ```
@@ -1625,7 +1625,7 @@ SUBROUTINE_008D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0520:                                32 0E 80 1F 00 3A            2....:
-0530: 80 3B 80 39 80 1F 01 1C  00 80 4A F0 FF FF 7F 03  .;.9......J.....
+0530: 80 3B 80 39 80 1F 01 1C  00 80 4A F0 FF FF 7F 05  .;.9......J.....
 0540: 52 10 01 6F 76 F0 FF FF  7F 00                    R..ov.....      
 ```
 
@@ -1636,7 +1636,7 @@ SUBROUTINE_008D:
   1: 0x052D [0x1F] MOVE_ENTITY: EventEntity moves to X=382.919*, Z=168.915*, Y=0.601*
   2: 0x0535 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0537 [0x1C] WAIT(5* ticks)
-  4: 0x053A [0x4A] LocalPlayer looks at Teodor (ID: 17846787/0x01105203)
+  4: 0x053A [0x4A] LocalPlayer looks at Teodor (ID: 17846789/0x01105205)
   5: 0x0543 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0544 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   7: 0x0549 [0x00] END_REQSTACK()
@@ -1738,7 +1738,7 @@ SUBROUTINE_008D:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 05A0:                32 27 80  1F 00 40 80 41 80 08 80       2'...@.A...
-05B0: 1F 01 1E 05 52 10 01 6F  70 00                    ....R..op.      
+05B0: 1F 01 1E 07 52 10 01 6F  70 00                    ....R..op.      
 ```
 
 #### Opcodes
@@ -1747,7 +1747,7 @@ SUBROUTINE_008D:
   0: 0x05A5 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x05A8 [0x1F] MOVE_ENTITY: EventEntity moves to X=201.935*, Z=79.901*, Y=0.000*
   2: 0x05B0 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x05B2 [0x1E] EventEntity looks at Ingrid (ID: 17846789/0x01105205) and starts talking
+  3: 0x05B2 [0x1E] EventEntity looks at Ingrid (ID: 17846791/0x01105207) and starts talking
   4: 0x05B7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x05B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x05B9 [0x00] END_REQSTACK()
@@ -2206,7 +2206,7 @@ SUBROUTINE_077F:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0800:       32 27 80 1F 00 6E  80 6F 80 70 80 1F 01 1E    2'...n.o.p....
-0810: FA 51 10 01 1C 12 80 29  03 F0 FF FF 7F 05 00     .Q.....)....... 
+0810: FC 51 10 01 1C 12 80 29  03 F0 FF FF 7F 05 00     .Q.....)....... 
 ```
 
 #### Opcodes
@@ -2215,7 +2215,7 @@ SUBROUTINE_077F:
   0: 0x0802 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0805 [0x1F] MOVE_ENTITY: EventEntity moves to X=154.556*, Z=-54.488*, Y=0.599*
   2: 0x080D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x080F [0x1E] EventEntity looks at Unnamed NPC (ID: 17846778/0x011051FA) and starts talking
+  3: 0x080F [0x1E] EventEntity looks at Unnamed NPC (ID: 17846780/0x011051FC) and starts talking
   4: 0x0814 [0x1C] WAIT(30* ticks)
   5: 0x0817 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=LocalPlayer, tag_num=0x05)
   6: 0x081E [0x00] END_REQSTACK()
@@ -2237,7 +2237,7 @@ SUBROUTINE_077F:
 0810:                                               03                 .
 0820: 00 00 07 7F 1A 73 00 66  01 00 F8 FF FF 7F F8 FF  .....s.f........
 0830: FF 7F 73 68 61 31 53 F8  FF FF 7F F8 FF FF 7F 73  ..sha1S........s
-0840: 68 61 31 1E FB 51 10 01  1C 12 80 00              ha1..Q......    
+0840: 68 61 31 1E FD 51 10 01  1C 12 80 00              ha1..Q......    
 ```
 
 #### Opcodes
@@ -2247,7 +2247,7 @@ SUBROUTINE_077F:
   1: 0x0824 [0x1A] CALL_SUBROUTINE(address=0x0073)
   2: 0x0827 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[1]
   3: 0x0836 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [EventEntity, EventEntity]
-  4: 0x0843 [0x1E] EventEntity looks at Unnamed NPC (ID: 17846779/0x011051FB) and starts talking
+  4: 0x0843 [0x1E] EventEntity looks at Unnamed NPC (ID: 17846781/0x011051FD) and starts talking
   5: 0x0848 [0x1C] WAIT(30* ticks)
   6: 0x084B [0x00] END_REQSTACK()
 ```

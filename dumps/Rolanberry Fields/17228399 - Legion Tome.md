@@ -23,7 +23,7 @@
 |       0 | 0x02EF      |         751 |
 |       1 | 0x0002      |           2 |
 |       2 | 0x0DC8      |        3528 |
-|       3 | 0x2FE0      |       12256 |
+|       3 | 0x2FE1      |       12257 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x000F      |          15 |
 |       6 | 0x07D1      |        2001 |
@@ -97,7 +97,7 @@
   5: 0x0016 [0x15] ExtData[1]->WorkLocal[2] /= 2*
   6: 0x001B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
   7: 0x0020 [0x03] Work_Zone[3] = 3528*
-  8: 0x0025 [0x2B] Mayuyu (ID: 17228400/0x0106E270) [12256*]:
+  8: 0x0025 [0x2B] Mayuyu (ID: 17228400/0x0106E270) [12257*]:
     → "Yes, this $1 looks to be in order. Next stop, the Hall of [An/Ki/Im/Muru/Mul]!"
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002D [0x1A] CALL_SUBROUTINE(address=0x0044)

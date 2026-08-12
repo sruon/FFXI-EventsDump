@@ -21,13 +21,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E17      |        7703 |
-|       1 | 0x1E18      |        7704 |
+|       0 | 0x1E18      |        7704 |
+|       1 | 0x1E19      |        7705 |
 
 ## String References
 
-- **7703**: ThIs is$26GrEaT StAR TrEe!$26It$26tReE oF gOds wHo$26pRoTEct WInDurSt$26fRoM aNcIeNt tImE!
-- **7704**: We CaRdIaN GuArDs aRe$26ChilDrEn of$26GreaT StAR TrEe!
+- **7704**: ThIs is$26GrEaT StAR TrEe!$26It$26tReE oF gOds wHo$26pRoTEct WInDurSt$26fRoM aNcIeNt tImE!
+- **7705**: We CaRdIaN GuArDs aRe$26ChilDrEn of$26GreaT StAR TrEe!
 
 ## Events
 
@@ -76,10 +76,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
     → "ThIs is$26GrEaT StAR TrEe!$26It$26tReE oF gOds wHo$26pRoTEct WInDurSt$26fRoM aNcIeNt tImE!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "We CaRdIaN GuArDs aRe$26ChilDrEn of$26GreaT StAR TrEe!"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

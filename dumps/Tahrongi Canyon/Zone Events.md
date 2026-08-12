@@ -80,8 +80,8 @@
 |      15 | 0x22C2      |        8898 |
 |      16 | 0x0E5F      |        3679 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x1D6A      |        7530 |
-|      19 | 0x1D6B      |        7531 |
+|      18 | 0x1D6B      |        7531 |
+|      19 | 0x1D6C      |        7532 |
 |      20 | 0x40000000  |  1073741824 |
 |      21 | 0x0013      |          19 |
 |      22 | 0x2BEFE     |      179966 |
@@ -96,44 +96,44 @@
 |      31 | 0x0027      |          39 |
 |      32 | 0x001E      |          30 |
 |      33 | 0x002D      |          45 |
-|      34 | 0x1D6E      |        7534 |
+|      34 | 0x1D6F      |        7535 |
 |      35 | 0x0002      |           2 |
-|      36 | 0x1D6F      |        7535 |
-|      37 | 0x1D70      |        7536 |
-|      38 | 0x1D71      |        7537 |
+|      36 | 0x1D70      |        7536 |
+|      37 | 0x1D71      |        7537 |
+|      38 | 0x1D72      |        7538 |
 |      39 | 0x006E      |         110 |
-|      40 | 0x1D72      |        7538 |
+|      40 | 0x1D73      |        7539 |
 |      41 | 0x005A      |          90 |
 |      42 | 0x0078      |         120 |
-|      43 | 0x1D73      |        7539 |
-|      44 | 0x1D74      |        7540 |
-|      45 | 0x1D75      |        7541 |
-|      46 | 0x1D76      |        7542 |
-|      47 | 0x1D77      |        7543 |
-|      48 | 0x1D78      |        7544 |
-|      49 | 0x1D79      |        7545 |
-|      50 | 0x1D7A      |        7546 |
-|      51 | 0x1D7B      |        7547 |
-|      52 | 0x1D7C      |        7548 |
-|      53 | 0x1D7D      |        7549 |
-|      54 | 0x1D7E      |        7550 |
-|      55 | 0x1D7F      |        7551 |
-|      56 | 0x1D80      |        7552 |
+|      43 | 0x1D74      |        7540 |
+|      44 | 0x1D75      |        7541 |
+|      45 | 0x1D76      |        7542 |
+|      46 | 0x1D77      |        7543 |
+|      47 | 0x1D78      |        7544 |
+|      48 | 0x1D79      |        7545 |
+|      49 | 0x1D7A      |        7546 |
+|      50 | 0x1D7B      |        7547 |
+|      51 | 0x1D7C      |        7548 |
+|      52 | 0x1D7D      |        7549 |
+|      53 | 0x1D7E      |        7550 |
+|      54 | 0x1D7F      |        7551 |
+|      55 | 0x1D80      |        7552 |
+|      56 | 0x1D81      |        7553 |
 |      57 | 0xFFFFFC00  |  4294966272 |
 |      58 | 0x00C9      |         201 |
-|      59 | 0x1D6C      |        7532 |
-|      60 | 0x1D6D      |        7533 |
+|      59 | 0x1D6D      |        7533 |
+|      60 | 0x1D6E      |        7534 |
 |      61 | 0x00B4      |         180 |
-|      62 | 0x1CBB      |        7355 |
-|      63 | 0x1CBC      |        7356 |
+|      62 | 0x1CBC      |        7356 |
+|      63 | 0x1CBD      |        7357 |
 |      64 | 0x004B      |          75 |
-|      65 | 0x2F6A      |       12138 |
-|      66 | 0x2F6B      |       12139 |
-|      67 | 0x1E66      |        7782 |
-|      68 | 0x1E67      |        7783 |
-|      69 | 0x1E68      |        7784 |
-|      70 | 0x1E69      |        7785 |
-|      71 | 0x1E6A      |        7786 |
+|      65 | 0x2F6B      |       12139 |
+|      66 | 0x2F6C      |       12140 |
+|      67 | 0x1E67      |        7783 |
+|      68 | 0x1E68      |        7784 |
+|      69 | 0x1E69      |        7785 |
+|      70 | 0x1E6A      |        7786 |
+|      71 | 0x1E6B      |        7787 |
 |      72 | 0x0005      |           5 |
 |      73 | 0x000A      |          10 |
 |      74 | 0x0009      |           9 |
@@ -175,30 +175,30 @@
 |     110 | 0x504D8     |      328920 |
 |     111 | 0x9C86      |       40070 |
 |     112 | 0x000F      |          15 |
-|     113 | 0x1E3D      |        7741 |
+|     113 | 0x1E3E      |        7742 |
 |     114 | 0x0090      |         144 |
-|     115 | 0x1E49      |        7753 |
+|     115 | 0x1E4A      |        7754 |
 |     116 | 0x0063      |          99 |
-|     117 | 0x1E4A      |        7754 |
+|     117 | 0x1E4B      |        7755 |
 
 ## String References
 
-- **7355**: The telepoint has disappeared...
-- **7356**: Investigate the missing telepoint? [Let's see here.../Not right now.]
-- **7530**: The telepoint has been shattered into a thousand pieces...
-- **7531**: Investigate further? [Yes./No.]
-- **7532**: Have you made your preparations?
-- **7533**: Preparations complete? [Yes./Not yet.]
-- **7741**: There is treasure somewhere in the vicinity of this marker...
-- **7753**: Your chocobo seems especially sharp today!
-- **7754**: Your chocobo seems especially energetic today!
-- **7782**: Your fate is currently entwined in the swirling mists of [Promyvion - Holla/Promyvion - Dem/Promyvion - Mea].
-- **7783**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
-- **7784**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
-- **7785**: Seal off your memories? [Yes./No.]
-- **7786**: Are you sure? [Absolutely./No.]
-- **12138**: Teleport to where? [Al'Taieu./The Empyreal Paradox./Nowhere.]
-- **12139**: Teleport to where? [Al'Taieu./Reisenjima./Nowhere.]
+- **7356**: The telepoint has disappeared...
+- **7357**: Investigate the missing telepoint? [Let's see here.../Not right now.]
+- **7531**: The telepoint has been shattered into a thousand pieces...
+- **7532**: Investigate further? [Yes./No.]
+- **7533**: Have you made your preparations?
+- **7534**: Preparations complete? [Yes./Not yet.]
+- **7742**: There is treasure somewhere in the vicinity of this marker...
+- **7754**: Your chocobo seems especially sharp today!
+- **7755**: Your chocobo seems especially energetic today!
+- **7783**: Your fate is currently entwined in the swirling mists of [Promyvion - Holla/Promyvion - Dem/Promyvion - Mea].
+- **7784**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
+- **7785**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
+- **7786**: Seal off your memories? [Yes./No.]
+- **7787**: Are you sure? [Absolutely./No.]
+- **12139**: Teleport to where? [Al'Taieu./The Empyreal Paradox./Nowhere.]
+- **12140**: Teleport to where? [Al'Taieu./Reisenjima./Nowhere.]
 
 ## Events
 
@@ -464,10 +464,10 @@
 
 ```
   0: 0x0055 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0080
-  1: 0x005D [0x48] [System] [7530*]:
+  1: 0x005D [0x48] [System] [7531*]:
     → "The telepoint has been shattered into a thousand pieces..."
   2: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0061 [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
+  3: 0x0061 [0x24] CREATE_DIALOG(message_id=7532*, default_option=1*, option_flags=0*)
     → "Investigate further? [Yes./No.]"
   4: 0x0068 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0069 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007B
@@ -519,7 +519,7 @@ SUBROUTINE_007B:
  49: 0x018F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17257073/0x01075271)
  50: 0x0195 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [EventEntity, EventEntity], work=[3*, 0*]
  51: 0x01A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 52: 0x01B7 [0x2B] Ayame (ID: 17257068/0x0107526C) [7534*]:
+ 52: 0x01B7 [0x2B] Ayame (ID: 17257068/0x0107526C) [7535*]:
     → "Hm...? Someone seems to have arrived here before us."
  53: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x01BF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s031" with entities [EventEntity, EventEntity], work=3*
@@ -531,11 +531,11 @@ SUBROUTINE_007B:
  60: 0x0209 [0x4A] LocalPlayer looks at Ayame (ID: 17257068/0x0107526C)
  61: 0x0212 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  62: 0x0223 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0236
- 63: 0x022B [0x2B] Ayame (ID: 17257068/0x0107526C) [7535*]:
+ 63: 0x022B [0x2B] Ayame (ID: 17257068/0x0107526C) [7536*]:
     → "<Player>, state your reason for coming here."
  64: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0233 [0x01] GOTO 0x023E
- 66: 0x0236 [0x2B] Ayame (ID: 17257068/0x0107526C) [7536*]:
+ 66: 0x0236 [0x2B] Ayame (ID: 17257068/0x0107526C) [7537*]:
     → "You! What are you doing here?"
  67: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -544,12 +544,12 @@ SUBROUTINE_023E:
  69: 0x024F [0x79] Cid (ID: 17257066/0x0107526A) looks at LocalPlayer (Basic look)
  70: 0x0259 [0x27] REQ_SET(priority=0x0A, entity_id=Cid (ID: 17257066/0x0107526A), tag_num=0x03)
  71: 0x0260 [0x1C] WAIT(60* ticks)
- 72: 0x0263 [0x2B] Cid (ID: 17257066/0x0107526A) [7537*]:
+ 72: 0x0263 [0x2B] Cid (ID: 17257066/0x0107526A) [7538*]:
     → "Calm down, Ayame. [He's/She's] an adventurer. It's [his/her] job to go adventuring."
  73: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x026B [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cid (ID: 17257066/0x0107526A))
  75: 0x0271 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
- 76: 0x0280 [0x2B] Cid (ID: 17257066/0x0107526A) [7538*]:
+ 76: 0x0280 [0x2B] Cid (ID: 17257066/0x0107526A) [7539*]:
     → "We're here to investigate something. It could get pretty dangerous, so I suggest taking a few steps back if you know what's good for you."
  77: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0288 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
@@ -584,63 +584,63 @@ SUBROUTINE_023E:
 107: 0x03B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [EventEntity, EventEntity], work=[3*, 0*]
 108: 0x03C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 109: 0x03D4 [0x1C] WAIT(120* ticks)
-110: 0x03D7 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7539*]:
+110: 0x03D7 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7540*]:
     → "Why, Cid. What business do you have here today?"
 111: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x03DF [0x2A] GET_REQ_LEVEL(level=10, entity_id=Wolfgang (ID: 17257069/0x0107526D))
 113: 0x03E5 [0x27] REQ_SET(priority=0x0A, entity_id=Cid (ID: 17257066/0x0107526A), tag_num=0x04)
-114: 0x03EC [0x2B] Cid (ID: 17257066/0x0107526A) [7540*]:
+114: 0x03EC [0x2B] Cid (ID: 17257066/0x0107526A) [7541*]:
     → "Well, if it isn't little Wolfgang. How have you been?"
 115: 0x03F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x03F4 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Cid (ID: 17257066/0x0107526A))
 117: 0x03FA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kng0" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-118: 0x0409 [0x2B] Cid (ID: 17257066/0x0107526A) [7541*]:
+118: 0x0409 [0x2B] Cid (ID: 17257066/0x0107526A) [7542*]:
     → "We're here to check out the Crystal Line. Recently I've been receiving some very strange readings from this area."
 119: 0x0410 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0411 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kng1" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
 121: 0x0420 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s035" with entities [EventEntity, EventEntity], work=3*
 122: 0x042F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[3*, 0*]
-123: 0x0440 [0x2B] Cid (ID: 17257066/0x0107526A) [7542*]:
+123: 0x0440 [0x2B] Cid (ID: 17257066/0x0107526A) [7543*]:
     → "According to the data retrieved by a Republican party that visited here last month, the once stable energy flow has begun to fluctuate."
 124: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0448 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-126: 0x0457 [0x2B] Cid (ID: 17257066/0x0107526A) [7543*]:
+126: 0x0457 [0x2B] Cid (ID: 17257066/0x0107526A) [7544*]:
     → "I've never seen such high readings..."
 127: 0x045E [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x045F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-129: 0x046E [0x2B] Cid (ID: 17257066/0x0107526A) [7544*]:
+129: 0x046E [0x2B] Cid (ID: 17257066/0x0107526A) [7545*]:
     → "The flow of energy is so overwhelming that the Telepoint you see over there was shattered to pieces! And now there are reports that a giant beast appeared over the sea, just to the north of Delkfutt's Tower."
 130: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0476 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kak0" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-132: 0x0485 [0x2B] Cid (ID: 17257066/0x0107526A) [7545*]:
+132: 0x0485 [0x2B] Cid (ID: 17257066/0x0107526A) [7546*]:
     → "I have a bad feeling that these two events are connected, and that they're warning us of something worse to come."
 133: 0x048C [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x048D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s036" with entities [EventEntity, EventEntity], work=3*
 135: 0x049C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [EventEntity, EventEntity], work=[3*, 0*]
 136: 0x04AD [0x7B] Wolfgang (ID: 17257069/0x0107526D) stops talking
-137: 0x04B2 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7546*]:
+137: 0x04B2 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7547*]:
     → "... I understand that research inclines you to pursue these matters. However, I ask that you leave the investigation to the Duchy."
 138: 0x04B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x04BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kak1" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-140: 0x04C9 [0x2B] Cid (ID: 17257066/0x0107526A) [7547*]:
+140: 0x04C9 [0x2B] Cid (ID: 17257066/0x0107526A) [7548*]:
     → "Eh? So the Duchy knows the cause of all these strange phenomena?"
 141: 0x04D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x04D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s037" with entities [EventEntity, EventEntity], work=3*
 143: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s048" with entities [EventEntity, EventEntity], work=[3*, 0*]
-144: 0x04F1 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7548*]:
+144: 0x04F1 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7549*]:
     → "Not exactly. We have numerous parties investigating the situation. However, many of those sent into the field have...vanished."
 145: 0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x04F9 [0x79] Wolfgang (ID: 17257069/0x0107526D) looks at Cid (ID: 17257066/0x0107526A) (Basic look)
-147: 0x0503 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7549*]:
+147: 0x0503 [0x2B] Wolfgang (ID: 17257069/0x0107526D) [7550*]:
     → "We cannot allow any more accidents. The damage to Vana'diel would be great if we were to lose such an important engineer as you, Cid."
 148: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x050B [0x52] END_LOAD_SCHEDULER: End scheduler "s048" with entities [EventEntity, EventEntity], work=3*
 150: 0x051A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [EventEntity, EventEntity], work=[3*, 0*]
 151: 0x052B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tef0" with entities [Cid (ID: 17257066/0x0107526A), Cid (ID: 17257066/0x0107526A)], work=110*
-152: 0x053A [0x2B] Cid (ID: 17257066/0x0107526A) [7550*]:
+152: 0x053A [0x2B] Cid (ID: 17257066/0x0107526A) [7551*]:
     → "Hah! Let me guess... The scientists back in Jeuno told you to get rid of all those who got in their way."
 153: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x0542 [0x2B] Cid (ID: 17257066/0x0107526A) [7551*]:
+154: 0x0542 [0x2B] Cid (ID: 17257066/0x0107526A) [7552*]:
     → "Who do they think they are!? Come to think of it, I have good reason to believe that it's those lunatics that are causing all this trouble!"
 155: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x054A [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "pk00" with entities [Shattered Telepoint (ID: 17257043/0x01075253), EventEntity]
@@ -651,7 +651,7 @@ SUBROUTINE_023E:
 161: 0x0581 [0x4A] Cid (ID: 17257066/0x0107526A) looks at LocalPlayer
 162: 0x058A [0x4A] Wolfgang (ID: 17257069/0x0107526D) looks at LocalPlayer
 163: 0x0593 [0x79] Ayame (ID: 17257068/0x0107526C) looks at LocalPlayer (Basic look)
-164: 0x059D [0x2B] Ayame (ID: 17257068/0x0107526C) [7552*]:
+164: 0x059D [0x2B] Ayame (ID: 17257068/0x0107526C) [7553*]:
     → "Wh-what is going on!?"
 165: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x05A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s038" with entities [EventEntity, EventEntity], work=3*
@@ -715,10 +715,10 @@ SUBROUTINE_0626:
 #### Opcodes
 
 ```
-  0: 0x0641 [0x48] [System] [7530*]:
+  0: 0x0641 [0x48] [System] [7531*]:
     → "The telepoint has been shattered into a thousand pieces..."
   1: 0x0644 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0645 [0x24] CREATE_DIALOG(message_id=7531*, default_option=1*, option_flags=0*)
+  2: 0x0645 [0x24] CREATE_DIALOG(message_id=7532*, default_option=1*, option_flags=0*)
     → "Investigate further? [Yes./No.]"
   3: 0x064C [0x25] WAIT_DIALOG_SELECT()
   4: 0x064D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x065F
@@ -729,10 +729,10 @@ SUBROUTINE_0626:
 SUBROUTINE_065F:
   8: 0x065F [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x066A
   9: 0x0667 [0x01] GOTO 0x0688
- 10: 0x066A [0x48] [System] [7532*]:
+ 10: 0x066A [0x48] [System] [7533*]:
     → "Have you made your preparations?"
  11: 0x066D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x066E [0x24] CREATE_DIALOG(message_id=7533*, default_option=1*, option_flags=0*)
+ 12: 0x066E [0x24] CREATE_DIALOG(message_id=7534*, default_option=1*, option_flags=0*)
     → "Preparations complete? [Yes./Not yet.]"
  13: 0x0675 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0676 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0688
@@ -793,10 +793,10 @@ SUBROUTINE_0688:
 #### Opcodes
 
 ```
-  0: 0x06F2 [0x48] [System] [7355*]:
+  0: 0x06F2 [0x48] [System] [7356*]:
     → "The telepoint has disappeared..."
   1: 0x06F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x06F6 [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
+  2: 0x06F6 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
     → "Investigate the missing telepoint? [Let's see here.../Not right now.]"
   3: 0x06FD [0x25] WAIT_DIALOG_SELECT()
   4: 0x06FE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0710
@@ -861,10 +861,10 @@ SUBROUTINE_0710:
   0: 0x0776 [0x03] ExtData[1]->WorkLocal[0] = 0*
   1: 0x077B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0788
   2: 0x0783 [0x03] ExtData[1]->WorkLocal[0] = 1*
-  3: 0x0788 [0x48] [System] [7355*]:
+  3: 0x0788 [0x48] [System] [7356*]:
     → "The telepoint has disappeared..."
   4: 0x078B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x078C [0x24] CREATE_DIALOG(message_id=12138*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
+  5: 0x078C [0x24] CREATE_DIALOG(message_id=12139*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
     → "Teleport to where? [Al'Taieu./The Empyreal Paradox./Nowhere.]"
   6: 0x0793 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0794 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A9
@@ -938,10 +938,10 @@ SUBROUTINE_07D0:
   0: 0x082C [0x03] ExtData[1]->WorkLocal[0] = 0*
   1: 0x0831 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x083E
   2: 0x0839 [0x03] ExtData[1]->WorkLocal[0] = 1*
-  3: 0x083E [0x48] [System] [7355*]:
+  3: 0x083E [0x48] [System] [7356*]:
     → "The telepoint has disappeared..."
   4: 0x0841 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0842 [0x24] CREATE_DIALOG(message_id=12139*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
+  5: 0x0842 [0x24] CREATE_DIALOG(message_id=12140*, default_option=2*, option_flags=ExtData[1]->WorkLocal[0])
     → "Teleport to where? [Al'Taieu./Reisenjima./Nowhere.]"
   6: 0x0849 [0x25] WAIT_DIALOG_SELECT()
   7: 0x084A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x085F
@@ -1007,16 +1007,16 @@ SUBROUTINE_0886:
 #### Opcodes
 
 ```
-  0: 0x08E2 [0x48] [System] [7782*]:
+  0: 0x08E2 [0x48] [System] [7783*]:
     → "Your fate is currently entwined in the swirling mists of [Promyvion - Holla/Promyvion - Dem/Promyvion - Mea]."
   1: 0x08E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x08E6 [0x48] [System] [7783*]:
+  2: 0x08E6 [0x48] [System] [7784*]:
     → "By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
   3: 0x08E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x08EA [0x48] [System] [7784*]:
+  4: 0x08EA [0x48] [System] [7785*]:
     → "This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
   5: 0x08ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08EE [0x24] CREATE_DIALOG(message_id=7785*, default_option=1*, option_flags=0*)
+  6: 0x08EE [0x24] CREATE_DIALOG(message_id=7786*, default_option=1*, option_flags=0*)
     → "Seal off your memories? [Yes./No.]"
   7: 0x08F5 [0x25] WAIT_DIALOG_SELECT()
   8: 0x08F6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0908
@@ -1025,7 +1025,7 @@ SUBROUTINE_0886:
  11: 0x0904 [0x00] END_REQSTACK()
 
 SUBROUTINE_0908:
- 12: 0x0908 [0x24] CREATE_DIALOG(message_id=7786*, default_option=1*, option_flags=0*)
+ 12: 0x0908 [0x24] CREATE_DIALOG(message_id=7787*, default_option=1*, option_flags=0*)
     → "Are you sure? [Absolutely./No.]"
  13: 0x090F [0x25] WAIT_DIALOG_SELECT()
  14: 0x0910 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0922
@@ -2122,17 +2122,17 @@ SUBROUTINE_0F7D:
      0x102B [0x00] END_REQSTACK()
      0x102C [0x00] END_REQSTACK()
      0x102D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "chco" with entities [EventEntity, EventEntity], work=[201*, 0*]
-     0x103E [0x48] [System] [7741*]:
+     0x103E [0x48] [System] [7742*]:
     → "There is treasure somewhere in the vicinity of this marker..."
      0x1041 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1042 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x105F
      0x104A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak1" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x105B [0x48] [System] [7753*]:
+     0x105B [0x48] [System] [7754*]:
     → "Your chocobo seems especially sharp today!"
      0x105E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x105F [0x02] IF !(Work_Zone[7] == 99*) GOTO 0x107C
      0x1067 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nak2" with entities [EventEntity, EventEntity], work=[144*, 0*]
-     0x1078 [0x48] [System] [7754*]:
+     0x1078 [0x48] [System] [7755*]:
     → "Your chocobo seems especially energetic today!"
      0x107B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x107C [0x1C] WAIT(1* ticks)

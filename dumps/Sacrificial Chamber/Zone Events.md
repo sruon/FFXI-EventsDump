@@ -83,23 +83,23 @@
 |      39 | 0x0010      |          16 |
 |      40 | 0x001F      |          31 |
 |      41 | 0x0001      |           1 |
-|      42 | 0x1E00      |        7680 |
-|      43 | 0x1DAC      |        7596 |
+|      42 | 0x1E01      |        7681 |
+|      43 | 0x1DAD      |        7597 |
 |      44 | 0x0005      |           5 |
 |      45 | 0x0002      |           2 |
 |      46 | 0x0003      |           3 |
 |      47 | 0x0004      |           4 |
-|      48 | 0x1C3F      |        7231 |
+|      48 | 0x1C40      |        7232 |
 |      49 | 0x00FF      |         255 |
 |      50 | 0x00C8      |         200 |
 |      51 | 0x0013      |          19 |
 |      52 | 0x0008      |           8 |
 |      53 | 0x0009      |           9 |
-|      54 | 0x1C4A      |        7242 |
-|      55 | 0x1C4B      |        7243 |
-|      56 | 0x1C4C      |        7244 |
-|      57 | 0x1C4D      |        7245 |
-|      58 | 0x1C71      |        7281 |
+|      54 | 0x1C4B      |        7243 |
+|      55 | 0x1C4C      |        7244 |
+|      56 | 0x1C4D      |        7245 |
+|      57 | 0x1C4E      |        7246 |
+|      58 | 0x1C72      |        7282 |
 |      59 | 0x0006      |           6 |
 |      60 | 0x000A      |          10 |
 |      61 | 0x000C      |          12 |
@@ -117,17 +117,17 @@
 |      73 | 0x001C      |          28 |
 |      74 | 0x001D      |          29 |
 |      75 | 0x001E      |          30 |
-|      76 | 0x1DA6      |        7590 |
-|      77 | 0x1DAB      |        7595 |
-|      78 | 0x1DAA      |        7594 |
+|      76 | 0x1DA7      |        7591 |
+|      77 | 0x1DAC      |        7596 |
+|      78 | 0x1DAB      |        7595 |
 |      79 | 0x003C      |          60 |
-|      80 | 0x1DFE      |        7678 |
-|      81 | 0x1DFD      |        7677 |
+|      80 | 0x1DFF      |        7679 |
+|      81 | 0x1DFE      |        7678 |
 |      82 | 0x0064      |         100 |
-|      83 | 0x1D92      |        7570 |
+|      83 | 0x1D93      |        7571 |
 |      84 | 0x00C1      |         193 |
 |      85 | 0x0032      |          50 |
-|      86 | 0x1C42      |        7234 |
+|      86 | 0x1C43      |        7235 |
 |      87 | 0x00C9      |         201 |
 |      88 | 0xFFFAEFFC  |  4294635516 |
 |      89 | 0xFFFB712C  |  4294668588 |
@@ -220,11 +220,11 @@
 |     176 | 0x8FE5      |       36837 |
 |     177 | 0x02A1      |         673 |
 |     178 | 0x0024      |          36 |
-|     179 | 0x1D94      |        7572 |
-|     180 | 0x1D93      |        7571 |
-|     181 | 0x1DFC      |        7676 |
-|     182 | 0x1D96      |        7574 |
-|     183 | 0x1D95      |        7573 |
+|     179 | 0x1D95      |        7573 |
+|     180 | 0x1D94      |        7572 |
+|     181 | 0x1DFD      |        7677 |
+|     182 | 0x1D97      |        7575 |
+|     183 | 0x1D96      |        7574 |
 |     184 | 0x00E6      |         230 |
 |     185 | 0x002D      |          45 |
 |     186 | 0xFFFC0835  |  4294707253 |
@@ -233,16 +233,16 @@
 |     189 | 0x0BFD      |        3069 |
 |     190 | 0x0240      |         576 |
 |     191 | 0x0060      |          96 |
-|     192 | 0x1E01      |        7681 |
-|     193 | 0x1E02      |        7682 |
-|     194 | 0x1E03      |        7683 |
-|     195 | 0x1E04      |        7684 |
-|     196 | 0x1E05      |        7685 |
-|     197 | 0x1E06      |        7686 |
-|     198 | 0x1E07      |        7687 |
-|     199 | 0x1E08      |        7688 |
+|     192 | 0x1E02      |        7682 |
+|     193 | 0x1E03      |        7683 |
+|     194 | 0x1E04      |        7684 |
+|     195 | 0x1E05      |        7685 |
+|     196 | 0x1E06      |        7686 |
+|     197 | 0x1E07      |        7687 |
+|     198 | 0x1E08      |        7688 |
+|     199 | 0x1E09      |        7689 |
 |     200 | 0x0041      |          65 |
-|     201 | 0x1C40      |        7232 |
+|     201 | 0x1C41      |        7233 |
 |     202 | 0x0067      |         103 |
 |     203 | 0x006A      |         106 |
 |     204 | 0x006D      |         109 |
@@ -261,28 +261,28 @@
 
 ## String References
 
-- **7231**: Enter the battlefield? [Enter./Decline.]
-- **7232**: Leave the battlefield? [Run away./Stay.]
-- **7234**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7232**: Enter the battlefield? [Enter./Decline.]
+- **7233**: Leave the battlefield? [Run away./Stay.]
+- **7235**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7243**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7244**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7245**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7281**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7570**: Skip the event? [Yes./No.]
-- **7571**: Battlefield clear time: $3 second[/s]!
-- **7572**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7573**: The current battlefield clear time record is $3 second[/s].
-- **7574**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7590**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7594**: That record is held by $5 adventurers, including %0!
-- **7595**: That record is held by %0!
-- **7596**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7676**: You have broken the clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]"!
-- **7677**: The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 second[/s].
-- **7678**: The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 minute[/s] $2 second[/s].
-- **7680**: Which battlefield will you enter? [None./The Temple of Uggalepih./Jungle Boogymen./Amphibian Assault./Project: Shantottofication./Whom Wilt Thou Call./$26Jungle Boogymen./$26Amphibian Assault././././././././././././././././././././././././././]
-- **7681**: Wait. Lay down thy blades.
+- **7246**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7282**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7571**: Skip the event? [Yes./No.]
+- **7572**: Battlefield clear time: $3 second[/s]!
+- **7573**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7574**: The current battlefield clear time record is $3 second[/s].
+- **7575**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7591**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7595**: That record is held by $5 adventurers, including %0!
+- **7596**: That record is held by %0!
+- **7597**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7677**: You have broken the clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]"!
+- **7678**: The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 second[/s].
+- **7679**: The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 minute[/s] $2 second[/s].
+- **7681**: Which battlefield will you enter? [None./The Temple of Uggalepih./Jungle Boogymen./Amphibian Assault./Project: Shantottofication./Whom Wilt Thou Call./$26Jungle Boogymen./$26Amphibian Assault././././././././././././././././././././././././././]
+- **7682**: Wait. Lay down thy blades.
 
 ## Events
 
@@ -736,7 +736,7 @@
  13: 0x00F4 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x00F9 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x00FE [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x0103 [0x24] CREATE_DIALOG(message_id=7680*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x0103 [0x24] CREATE_DIALOG(message_id=7681*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./The Temple of Uggalepih./Jungle Boogymen./Amphibian Assault./Project: Shantottofication./Whom Wilt Thou Call./$26Jungle Boogymen./$26Amphibian Assault././././././././././././././././././././././././././]"
  17: 0x010A [0x25] WAIT_DIALOG_SELECT()
  18: 0x010B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0119
@@ -749,7 +749,7 @@ SUBROUTINE_0145:
 
 SUBROUTINE_0156:
  23: 0x0156 [0x1A] CALL_SUBROUTINE(address=0x14A3)
- 24: 0x0159 [0x24] CREATE_DIALOG(message_id=7596*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x0159 [0x24] CREATE_DIALOG(message_id=7597*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x0160 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0161 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0171
@@ -775,7 +775,7 @@ SUBROUTINE_01C4:
  44: 0x01C7 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x01CA [0x1A] CALL_SUBROUTINE(address=0x0906)
  46: 0x01CD [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x01EB
- 47: 0x01D5 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+ 47: 0x01D5 [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x01DC [0x25] WAIT_DIALOG_SELECT()
  49: 0x01DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01EB
@@ -824,22 +824,22 @@ SUBROUTINE_024A:
  86: 0x02B8 [0x01] GOTO 0x08A2
  87: 0x02BB [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0305
  88: 0x02C3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x02D2
- 89: 0x02CB [0x48] [System] [7242*]:
+ 89: 0x02CB [0x48] [System] [7243*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02CF [0x01] GOTO 0x02FF
  92: 0x02D2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x02E1
- 93: 0x02DA [0x48] [System] [7243*]:
+ 93: 0x02DA [0x48] [System] [7244*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x02DE [0x01] GOTO 0x02FF
  96: 0x02E1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x02F0
- 97: 0x02E9 [0x48] [System] [7244*]:
+ 97: 0x02E9 [0x48] [System] [7245*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x02ED [0x01] GOTO 0x02FF
 100: 0x02F0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x02FF
-101: 0x02F8 [0x48] [System] [7245*]:
+101: 0x02F8 [0x48] [System] [7246*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x02FC [0x01] GOTO 0x02FF
@@ -848,7 +848,7 @@ SUBROUTINE_02FF:
 104: 0x02FF [0x01] GOTO 0x08B9
 
 SUBROUTINE_050F:
-105: 0x050F [0x48] [System] [7590*]:
+105: 0x050F [0x48] [System] [7591*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x0512 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0513 [0x01] GOTO 0x08B9
@@ -860,24 +860,24 @@ SUBROUTINE_056C:
 111: 0x057C [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x0597
 112: 0x0584 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x058B [0x15] Work_Zone[5] /= 60*
-114: 0x0590 [0x48] [System] [7678*]:
+114: 0x0590 [0x48] [System] [7679*]:
     → "The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 minute[/s] $2 second[/s]."
 115: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0594 [0x01] GOTO 0x059B
-117: 0x0597 [0x48] [System] [7677*]:
+117: 0x0597 [0x48] [System] [7678*]:
     → "The current battlefield clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]" is $3 second[/s]."
 118: 0x059A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_059B:
 119: 0x059B [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x05AA
-120: 0x05A3 [0x48] [System] [7595*]:
+120: 0x05A3 [0x48] [System] [7596*]:
     → "That record is held by %0!"
 121: 0x05A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x05A7 [0x01] GOTO 0x05BB
 123: 0x05AA [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x05AF [0x0C] Work_Zone[6]--
 125: 0x05B2 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x05B7 [0x48] [System] [7594*]:
+126: 0x05B7 [0x48] [System] [7595*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x05BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -893,7 +893,7 @@ SUBROUTINE_05BB:
 SUBROUTINE_05DF:
 135: 0x05DF [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0605
 136: 0x05E7 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0605
-137: 0x05EF [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
+137: 0x05EF [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x05F6 [0x25] WAIT_DIALOG_SELECT()
 139: 0x05F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0605
@@ -1041,7 +1041,7 @@ SUBROUTINE_08A2:
 269: 0x08A5 [0x02] IF !(0* == 1*) GOTO 0x08B2
 270: 0x08AD [0x03] ExtData[1]->WorkLocal[0] = 4*
 271: 0x08B2 [0x01] GOTO 0x024A
-272: 0x08B5 [0x48] [System] [7234*]:
+272: 0x08B5 [0x48] [System] [7235*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 273: 0x08B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1407,7 +1407,7 @@ SUBROUTINE_0CF6:
  84: 0x0D01 [0x01] GOTO 0x0D1F
  85: 0x0D04 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0DCF
  86: 0x0D0C [0x1C] WAIT(15* ticks)
- 87: 0x0D0F [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
+ 87: 0x0D0F [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0D16 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0D17 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DCF
@@ -1474,18 +1474,18 @@ SUBROUTINE_0E01:
 138: 0x0E3A [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0E55
 139: 0x0E42 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0E49 [0x15] Work_Zone[5] /= 60*
-141: 0x0E4E [0x48] [System] [7572*]:
+141: 0x0E4E [0x48] [System] [7573*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0E51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0E52 [0x01] GOTO 0x0E59
-144: 0x0E55 [0x48] [System] [7571*]:
+144: 0x0E55 [0x48] [System] [7572*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0E58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0E59:
 146: 0x0E59 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E6D
 147: 0x0E61 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0E66 [0x48] [System] [7676*]:
+148: 0x0E66 [0x48] [System] [7677*]:
     → "You have broken the clear time record for "[The Temple of Uggalepih/Jungle Boogymen/Amphibian Assault/Project: Shantottofication/Whom Wilt Thou Call/$26Jungle Boogymen/$26Amphibian Assault]"!"
 149: 0x0E69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0E6A [0x01] GOTO 0x0E96
@@ -1493,12 +1493,12 @@ SUBROUTINE_0E59:
 152: 0x0E75 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0E7A [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0E81 [0x15] Work_Zone[5] /= 60*
-155: 0x0E86 [0x48] [System] [7574*]:
+155: 0x0E86 [0x48] [System] [7575*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0E89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0E8A [0x01] GOTO 0x0E96
 158: 0x0E8D [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0E92 [0x48] [System] [7573*]:
+159: 0x0E92 [0x48] [System] [7574*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1777,7 +1777,7 @@ SUBROUTINE_106D:
  76: 0x10B0 [0x00] END_REQSTACK()
 
 SUBROUTINE_13C8:
- 77: 0x13C8 [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
+ 77: 0x13C8 [0x24] CREATE_DIALOG(message_id=7233*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
  78: 0x13CF [0x25] WAIT_DIALOG_SELECT()
  79: 0x13D0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13DE
@@ -1837,7 +1837,7 @@ SUBROUTINE_1629:
 
 ```
 # Dead code (unreachable instructions):
-     0x10B1 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+     0x10B1 [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x10B8 [0x25] WAIT_DIALOG_SELECT()
      0x10B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10C7
@@ -1933,39 +1933,39 @@ SUBROUTINE_1629:
      0x12BB [0x1C] WAIT(30* ticks)
      0x12BE [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Tonberi02 (ID: 17445155/0x010A3123), tag_num=0x09)
      0x12C5 [0x1C] WAIT(45* ticks)
-     0x12C8 [0x48] [System] [7681*]:
+     0x12C8 [0x48] [System] [7682*]:
     → "Wait. Lay down thy blades."
      0x12CB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12CC [0x27] REQ_SET(priority=0x10, entity_id=Unnamed NPC (ID: 17445143/0x010A3117), tag_num=0x03)
      0x12D3 [0x52] END_LOAD_SCHEDULER: End scheduler "se01" with entities [LocalPlayer, LocalPlayer], work=230*
      0x12E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se02" with entities [LocalPlayer, LocalPlayer], work=[230*, 0*]
      0x12F3 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Grav'iton (ID: 17445153/0x010A3121), tag_num=0x09)
-     0x12FA [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7682*]:
+     0x12FA [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7683*]:
     → "Welcome, brave adventurer. Thine arrival can only mean one thing. "They" have once again begun their rise."
      0x1301 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1302 [0x52] END_LOAD_SCHEDULER: End scheduler "se02" with entities [LocalPlayer, LocalPlayer], work=230*
      0x1311 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se03" with entities [LocalPlayer, LocalPlayer], work=[230*, 0*]
-     0x1322 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7683*]:
+     0x1322 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7684*]:
     → "Thou must forgive my companions. They remain bound to this place by the spirits of the past."
      0x1329 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x132A [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7684*]:
+     0x132A [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7685*]:
     → "Though they do not yet realize it..."
      0x1331 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1332 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se04" with entities [LocalPlayer, LocalPlayer], work=[230*, 0*]
      0x1343 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Grav'iton (ID: 17445153/0x010A3121), Grav'iton (ID: 17445153/0x010A3121)], work=576*
-     0x1352 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7685*]:
+     0x1352 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7686*]:
     → "Ah, I have yet to introduce myself. My name is Grav'iton Berisacci, a scholar from the lost civilization of Kuluu. However, my colleagues often referred to me by the sobriquet, Tonberry."
      0x1359 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x135A [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7686*]:
+     0x135A [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7687*]:
     → "I represent the collective consciousness of the remains of what was once a great race of people."
      0x1361 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1362 [0x52] END_LOAD_SCHEDULER: End scheduler "se04" with entities [LocalPlayer, LocalPlayer], work=230*
      0x1371 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "se05" with entities [LocalPlayer, LocalPlayer], work=[230*, 0*]
-     0x1382 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7687*]:
+     0x1382 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7688*]:
     → "Listen carefully, for the tale I am about to tell thee reaches far across the plains of time--back ten thousand years."
      0x1389 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x138A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Grav'iton (ID: 17445153/0x010A3121), Grav'iton (ID: 17445153/0x010A3121)], work=576*
-     0x1399 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7688*]:
+     0x1399 [0x2B] Grav'iton (ID: 17445153/0x010A3121) [7689*]:
     → "It all started with a mere crystal and the mysterious power it held..."
      0x13A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13A1 [0x1A] CALL_SUBROUTINE(address=0x154F)

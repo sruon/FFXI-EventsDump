@@ -21,16 +21,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C0A      |        7178 |
+|       0 | 0x1C0B      |        7179 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1C0B      |        7179 |
-|       3 | 0x1C0C      |        7180 |
-|       4 | 0x1C0D      |        7181 |
+|       2 | 0x1C0C      |        7180 |
+|       3 | 0x1C0D      |        7181 |
+|       4 | 0x1C0E      |        7182 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1C0F      |        7183 |
-|       7 | 0x1C12      |        7186 |
-|       8 | 0x1C10      |        7184 |
-|       9 | 0x1C11      |        7185 |
+|       6 | 0x1C10      |        7184 |
+|       7 | 0x1C13      |        7187 |
+|       8 | 0x1C11      |        7185 |
+|       9 | 0x1C12      |        7186 |
 |      10 | 0x007A      |         122 |
 |      11 | 0x0104      |         260 |
 |      12 | 0x00C8      |         200 |
@@ -62,14 +62,14 @@
 
 ## String References
 
-- **7178**: What are you doing here? This is no place for civilians.
-- **7179**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
-- **7180**: To ensure prompt transportation to the frontlines, I have been given clearance to teleport troops to locations on the Quon and Mindartia theaters.
-- **7181**: Please select a destination: [I do not require your services./Xarcabard [y|z/ySanz/yBasz/yWinz/yBstz]/Beaucedine Glacier[y|z/ySanz/yBasz/yWinz/yBstz]/Batallia Downs [y|z/ySanz/yBasz/yWinz/yBstz]/Rolanberry Fields [y|z/ySanz/yBasz/yWinz/yBstz]/Sauromugue Champaign [y|z/ySanz/yBasz/yWinz/yBstz]/Jugner Forest [y|z/ySanz/yBasz/yWinz/yBstz]/Pashhow Marshlands [y|z/ySanz/yBasz/yWinz/yBstz]/Meriphataud Mountains [y|z/ySanz/yBasz/yWinz/yBstz]/Vunkerl Inlet [y|z/ySanz/yBasz/yWinz/yBstz]/Grauberg [y|z/ySanz/yBasz/yWinz/yBstz]/Fort Karugo-Narugo [y|z/ySanz/yBasz/yWinz/yBstz]/East Ronfaure [y|z/ySanz/yBasz/yWinz/yBstz]/North Gustaberg [y|z/ySanz/yBasz/yWinz/yBstz]/West Sarutabaruta [y|z/ySanz/yBasz/yWinz/yBstz]/Southern San d'Oria [y|z/ySanz/yBasz/yWinz/yBstz]/Bastok Markets [y|z/ySanz/yBasz/yWinz/yBstz]/Windurst Waters [y|z/ySanz/yBasz/yWinz/yBstz]/Garlaige Citadel [y|z/ySanz/yBasz/yWinz/yBstz]/Crawlers' Nest [y|z/ySanz/yBasz/yWinz/yBstz]/Eldieme Necropolis [y|z/ySanz/yBasz/yWinz/yBstz]]
-- **7183**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
-- **7184**: Complete the transaction? [Yes./Not at this time.]
-- **7185**: Understood.
-- **7186**: I am sorry. You do not have enough Allied Notes.
+- **7179**: What are you doing here? This is no place for civilians.
+- **7180**: Greetings. I am %, Campaign Arbiter for the Allied Forces.
+- **7181**: To ensure prompt transportation to the frontlines, I have been given clearance to teleport troops to locations on the Quon and Mindartia theaters.
+- **7182**: Please select a destination: [I do not require your services./Xarcabard [y|z/ySanz/yBasz/yWinz/yBstz]/Beaucedine Glacier[y|z/ySanz/yBasz/yWinz/yBstz]/Batallia Downs [y|z/ySanz/yBasz/yWinz/yBstz]/Rolanberry Fields [y|z/ySanz/yBasz/yWinz/yBstz]/Sauromugue Champaign [y|z/ySanz/yBasz/yWinz/yBstz]/Jugner Forest [y|z/ySanz/yBasz/yWinz/yBstz]/Pashhow Marshlands [y|z/ySanz/yBasz/yWinz/yBstz]/Meriphataud Mountains [y|z/ySanz/yBasz/yWinz/yBstz]/Vunkerl Inlet [y|z/ySanz/yBasz/yWinz/yBstz]/Grauberg [y|z/ySanz/yBasz/yWinz/yBstz]/Fort Karugo-Narugo [y|z/ySanz/yBasz/yWinz/yBstz]/East Ronfaure [y|z/ySanz/yBasz/yWinz/yBstz]/North Gustaberg [y|z/ySanz/yBasz/yWinz/yBstz]/West Sarutabaruta [y|z/ySanz/yBasz/yWinz/yBstz]/Southern San d'Oria [y|z/ySanz/yBasz/yWinz/yBstz]/Bastok Markets [y|z/ySanz/yBasz/yWinz/yBstz]/Windurst Waters [y|z/ySanz/yBasz/yWinz/yBstz]/Garlaige Citadel [y|z/ySanz/yBasz/yWinz/yBstz]/Crawlers' Nest [y|z/ySanz/yBasz/yWinz/yBstz]/Eldieme Necropolis [y|z/ySanz/yBasz/yWinz/yBstz]]
+- **7184**: I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2.
+- **7185**: Complete the transaction? [Yes./Not at this time.]
+- **7186**: Understood.
+- **7187**: I am sorry. You do not have enough Allied Notes.
 
 ## Events
 
@@ -118,7 +118,7 @@
   1: 0x0003 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0008 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7178*)
+  4: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7179*)
     → "What are you doing here? This is no place for civilians."
   5: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000E [0x21] END_EVENT
@@ -399,13 +399,13 @@
   6: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x0028 [0x03] ExtData[1]->WorkLocal[0] = 0*
   8: 0x002D [0x1A] CALL_SUBROUTINE(address=0x0932)
-  9: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7179*)
+  9: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
     → "Greetings. I am %, Campaign Arbiter for the Allied Forces."
  10: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7180*)
+ 11: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7181*)
     → "To ensure prompt transportation to the frontlines, I have been given clearance to teleport troops to locations on the Quon and Mindartia theaters."
  12: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0038 [0x24] CREATE_DIALOG(message_id=7181*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 13: 0x0038 [0x24] CREATE_DIALOG(message_id=7182*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Please select a destination: [I do not require your services./Xarcabard [y|z/ySanz/yBasz/yWinz/yBstz]/Beaucedine Glacier[y|z/ySanz/yBasz/yWinz/yBstz]/Batallia Downs [y|z/ySanz/yBasz/yWinz/yBstz]/Rolanberry Fields [y|z/ySanz/yBasz/yWinz/yBstz]/Sauromugue Champaign [y|z/ySanz/yBasz/yWinz/yBstz]/Jugner Forest [y|z/ySanz/yBasz/yWinz/yBstz]/Pashhow Marshlands [y|z/ySanz/yBasz/yWinz/yBstz]/Meriphataud Mountains [y|z/ySanz/yBasz/yWinz/yBstz]/Vunkerl Inlet [y|z/ySanz/yBasz/yWinz/yBstz]/Grauberg [y|z/ySanz/yBasz/yWinz/yBstz]/Fort Karugo-Narugo [y|z/ySanz/yBasz/yWinz/yBstz]/East Ronfaure [y|z/ySanz/yBasz/yWinz/yBstz]/North Gustaberg [y|z/ySanz/yBasz/yWinz/yBstz]/West Sarutabaruta [y|z/ySanz/yBasz/yWinz/yBstz]/Southern San d'Oria [y|z/ySanz/yBasz/yWinz/yBstz]/Bastok Markets [y|z/ySanz/yBasz/yWinz/yBstz]/Windurst Waters [y|z/ySanz/yBasz/yWinz/yBstz]/Garlaige Citadel [y|z/ySanz/yBasz/yWinz/yBstz]/Crawlers' Nest [y|z/ySanz/yBasz/yWinz/yBstz]/Eldieme Necropolis [y|z/ySanz/yBasz/yWinz/yBstz]]"
  14: 0x003F [0x25] WAIT_DIALOG_SELECT()
  15: 0x0040 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004B
@@ -418,20 +418,20 @@
  22: 0x005D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
  23: 0x0062 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
  24: 0x0067 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
- 25: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+ 25: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
  26: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0070 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0084
- 28: 0x0078 [0x48] [System] [7186*]:
+ 28: 0x0078 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
  29: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x007C [0x03] Work_Zone[1] = 0*
  31: 0x0081 [0x01] GOTO 0x00CC
- 32: 0x0084 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+ 32: 0x0084 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
  33: 0x008B [0x25] WAIT_DIALOG_SELECT()
  34: 0x008C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
- 35: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+ 35: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
  36: 0x0097 [0x73] EventEntity casts magic 122* on LocalPlayer
  37: 0x00A2 [0x1C] WAIT(260* ticks)
@@ -452,20 +452,20 @@ SUBROUTINE_00CC:
  50: 0x00E1 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
  51: 0x00E6 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
  52: 0x00EB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
- 53: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+ 53: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
  54: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00F4 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0108
- 56: 0x00FC [0x48] [System] [7186*]:
+ 56: 0x00FC [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
  57: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0100 [0x03] Work_Zone[1] = 0*
  59: 0x0105 [0x01] GOTO 0x0150
- 60: 0x0108 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+ 60: 0x0108 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
  61: 0x010F [0x25] WAIT_DIALOG_SELECT()
  62: 0x0110 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0140
- 63: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+ 63: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
  64: 0x011B [0x73] EventEntity casts magic 122* on LocalPlayer
  65: 0x0126 [0x1C] WAIT(260* ticks)
@@ -486,20 +486,20 @@ SUBROUTINE_0150:
  78: 0x0165 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
  79: 0x016A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
  80: 0x016F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
- 81: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+ 81: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
  82: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0178 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x018C
- 84: 0x0180 [0x48] [System] [7186*]:
+ 84: 0x0180 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
  85: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0184 [0x03] Work_Zone[1] = 0*
  87: 0x0189 [0x01] GOTO 0x01D4
- 88: 0x018C [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+ 88: 0x018C [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
  89: 0x0193 [0x25] WAIT_DIALOG_SELECT()
  90: 0x0194 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C4
- 91: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+ 91: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
  92: 0x019F [0x73] EventEntity casts magic 122* on LocalPlayer
  93: 0x01AA [0x1C] WAIT(260* ticks)
@@ -520,20 +520,20 @@ SUBROUTINE_01D4:
 106: 0x01E9 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 107: 0x01EE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 108: 0x01F3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-109: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+109: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 110: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x01FC [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0210
-112: 0x0204 [0x48] [System] [7186*]:
+112: 0x0204 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 113: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0208 [0x03] Work_Zone[1] = 0*
 115: 0x020D [0x01] GOTO 0x0258
-116: 0x0210 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+116: 0x0210 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 117: 0x0217 [0x25] WAIT_DIALOG_SELECT()
 118: 0x0218 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0248
-119: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+119: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 120: 0x0223 [0x73] EventEntity casts magic 122* on LocalPlayer
 121: 0x022E [0x1C] WAIT(260* ticks)
@@ -554,20 +554,20 @@ SUBROUTINE_0258:
 134: 0x026D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 135: 0x0272 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 136: 0x0277 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-137: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+137: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 138: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0280 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0294
-140: 0x0288 [0x48] [System] [7186*]:
+140: 0x0288 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 141: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x028C [0x03] Work_Zone[1] = 0*
 143: 0x0291 [0x01] GOTO 0x02DC
-144: 0x0294 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+144: 0x0294 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 145: 0x029B [0x25] WAIT_DIALOG_SELECT()
 146: 0x029C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CC
-147: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+147: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 148: 0x02A7 [0x73] EventEntity casts magic 122* on LocalPlayer
 149: 0x02B2 [0x1C] WAIT(260* ticks)
@@ -588,20 +588,20 @@ SUBROUTINE_02DC:
 162: 0x02F1 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 163: 0x02F6 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 164: 0x02FB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-165: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+165: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 166: 0x0303 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0304 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0318
-168: 0x030C [0x48] [System] [7186*]:
+168: 0x030C [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 169: 0x030F [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0310 [0x03] Work_Zone[1] = 0*
 171: 0x0315 [0x01] GOTO 0x0360
-172: 0x0318 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+172: 0x0318 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 173: 0x031F [0x25] WAIT_DIALOG_SELECT()
 174: 0x0320 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0350
-175: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+175: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 176: 0x032B [0x73] EventEntity casts magic 122* on LocalPlayer
 177: 0x0336 [0x1C] WAIT(260* ticks)
@@ -622,20 +622,20 @@ SUBROUTINE_0360:
 190: 0x0375 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 191: 0x037A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 192: 0x037F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-193: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+193: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 194: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x0388 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x039C
-196: 0x0390 [0x48] [System] [7186*]:
+196: 0x0390 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 197: 0x0393 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0394 [0x03] Work_Zone[1] = 0*
 199: 0x0399 [0x01] GOTO 0x03E4
-200: 0x039C [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+200: 0x039C [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 201: 0x03A3 [0x25] WAIT_DIALOG_SELECT()
 202: 0x03A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D4
-203: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+203: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 204: 0x03AF [0x73] EventEntity casts magic 122* on LocalPlayer
 205: 0x03BA [0x1C] WAIT(260* ticks)
@@ -656,20 +656,20 @@ SUBROUTINE_03E4:
 218: 0x03F9 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 219: 0x03FE [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 220: 0x0403 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-221: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+221: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 222: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x040C [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0420
-224: 0x0414 [0x48] [System] [7186*]:
+224: 0x0414 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 225: 0x0417 [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x0418 [0x03] Work_Zone[1] = 0*
 227: 0x041D [0x01] GOTO 0x0468
-228: 0x0420 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+228: 0x0420 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 229: 0x0427 [0x25] WAIT_DIALOG_SELECT()
 230: 0x0428 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0458
-231: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+231: 0x0430 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 232: 0x0433 [0x73] EventEntity casts magic 122* on LocalPlayer
 233: 0x043E [0x1C] WAIT(260* ticks)
@@ -690,20 +690,20 @@ SUBROUTINE_0468:
 246: 0x047D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 247: 0x0482 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 248: 0x0487 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-249: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+249: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 250: 0x048F [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x0490 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x04A4
-252: 0x0498 [0x48] [System] [7186*]:
+252: 0x0498 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 253: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x049C [0x03] Work_Zone[1] = 0*
 255: 0x04A1 [0x01] GOTO 0x04EC
-256: 0x04A4 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+256: 0x04A4 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 257: 0x04AB [0x25] WAIT_DIALOG_SELECT()
 258: 0x04AC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04DC
-259: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+259: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 260: 0x04B7 [0x73] EventEntity casts magic 122* on LocalPlayer
 261: 0x04C2 [0x1C] WAIT(260* ticks)
@@ -724,20 +724,20 @@ SUBROUTINE_04EC:
 274: 0x0501 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 275: 0x0506 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 276: 0x050B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-277: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+277: 0x0510 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 278: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x0514 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0528
-280: 0x051C [0x48] [System] [7186*]:
+280: 0x051C [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 281: 0x051F [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x0520 [0x03] Work_Zone[1] = 0*
 283: 0x0525 [0x01] GOTO 0x0570
-284: 0x0528 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+284: 0x0528 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 285: 0x052F [0x25] WAIT_DIALOG_SELECT()
 286: 0x0530 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0560
-287: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+287: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 288: 0x053B [0x73] EventEntity casts magic 122* on LocalPlayer
 289: 0x0546 [0x1C] WAIT(260* ticks)
@@ -758,20 +758,20 @@ SUBROUTINE_0570:
 302: 0x0585 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 303: 0x058A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 304: 0x058F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-305: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+305: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 306: 0x0597 [0x23] WAIT_FOR_DIALOG_INTERACTION
 307: 0x0598 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x05AC
-308: 0x05A0 [0x48] [System] [7186*]:
+308: 0x05A0 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 309: 0x05A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 310: 0x05A4 [0x03] Work_Zone[1] = 0*
 311: 0x05A9 [0x01] GOTO 0x05F4
-312: 0x05AC [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+312: 0x05AC [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 313: 0x05B3 [0x25] WAIT_DIALOG_SELECT()
 314: 0x05B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05E4
-315: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+315: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 316: 0x05BF [0x73] EventEntity casts magic 122* on LocalPlayer
 317: 0x05CA [0x1C] WAIT(260* ticks)
@@ -792,20 +792,20 @@ SUBROUTINE_05F4:
 330: 0x0609 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 331: 0x060E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 332: 0x0613 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-333: 0x0618 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+333: 0x0618 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 334: 0x061B [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x061C [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0630
-336: 0x0624 [0x48] [System] [7186*]:
+336: 0x0624 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 337: 0x0627 [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x0628 [0x03] Work_Zone[1] = 0*
 339: 0x062D [0x01] GOTO 0x0678
-340: 0x0630 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+340: 0x0630 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 341: 0x0637 [0x25] WAIT_DIALOG_SELECT()
 342: 0x0638 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0668
-343: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+343: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 344: 0x0643 [0x73] EventEntity casts magic 122* on LocalPlayer
 345: 0x064E [0x1C] WAIT(260* ticks)
@@ -826,20 +826,20 @@ SUBROUTINE_0678:
 358: 0x068D [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 359: 0x0692 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 360: 0x0697 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-361: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+361: 0x069C [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 362: 0x069F [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x06A0 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x06B4
-364: 0x06A8 [0x48] [System] [7186*]:
+364: 0x06A8 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 365: 0x06AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x06AC [0x03] Work_Zone[1] = 0*
 367: 0x06B1 [0x01] GOTO 0x06FC
-368: 0x06B4 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+368: 0x06B4 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 369: 0x06BB [0x25] WAIT_DIALOG_SELECT()
 370: 0x06BC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06EC
-371: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+371: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 372: 0x06C7 [0x73] EventEntity casts magic 122* on LocalPlayer
 373: 0x06D2 [0x1C] WAIT(260* ticks)
@@ -860,20 +860,20 @@ SUBROUTINE_06FC:
 386: 0x0711 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 387: 0x0716 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 388: 0x071B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-389: 0x0720 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+389: 0x0720 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 390: 0x0723 [0x23] WAIT_FOR_DIALOG_INTERACTION
 391: 0x0724 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0738
-392: 0x072C [0x48] [System] [7186*]:
+392: 0x072C [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 393: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
 394: 0x0730 [0x03] Work_Zone[1] = 0*
 395: 0x0735 [0x01] GOTO 0x0780
-396: 0x0738 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+396: 0x0738 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 397: 0x073F [0x25] WAIT_DIALOG_SELECT()
 398: 0x0740 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0770
-399: 0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+399: 0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 400: 0x074B [0x73] EventEntity casts magic 122* on LocalPlayer
 401: 0x0756 [0x1C] WAIT(260* ticks)
@@ -900,20 +900,20 @@ SUBROUTINE_0780:
 420: 0x07B6 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 421: 0x07BB [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 422: 0x07C0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-423: 0x07C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+423: 0x07C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 424: 0x07C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x07C9 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x07DD
-426: 0x07D1 [0x48] [System] [7186*]:
+426: 0x07D1 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 427: 0x07D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 428: 0x07D5 [0x03] Work_Zone[1] = 0*
 429: 0x07DA [0x01] GOTO 0x0825
-430: 0x07DD [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+430: 0x07DD [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 431: 0x07E4 [0x25] WAIT_DIALOG_SELECT()
 432: 0x07E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0815
-433: 0x07ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+433: 0x07ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 434: 0x07F0 [0x73] EventEntity casts magic 122* on LocalPlayer
 435: 0x07FB [0x1C] WAIT(260* ticks)
@@ -934,20 +934,20 @@ SUBROUTINE_0825:
 448: 0x083A [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 449: 0x083F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 450: 0x0844 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-451: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+451: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 452: 0x084C [0x23] WAIT_FOR_DIALOG_INTERACTION
 453: 0x084D [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x0861
-454: 0x0855 [0x48] [System] [7186*]:
+454: 0x0855 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 455: 0x0858 [0x23] WAIT_FOR_DIALOG_INTERACTION
 456: 0x0859 [0x03] Work_Zone[1] = 0*
 457: 0x085E [0x01] GOTO 0x08A9
-458: 0x0861 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+458: 0x0861 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 459: 0x0868 [0x25] WAIT_DIALOG_SELECT()
 460: 0x0869 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0899
-461: 0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+461: 0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 462: 0x0874 [0x73] EventEntity casts magic 122* on LocalPlayer
 463: 0x087F [0x1C] WAIT(260* ticks)
@@ -968,20 +968,20 @@ SUBROUTINE_08A9:
 476: 0x08BE [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[3]
 477: 0x08C3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
 478: 0x08C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[6]
-479: 0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7183*)
+479: 0x08CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7184*)
     → "I will require a teleportation fee of $0 Allied Note[/s]. I see you currently possess $2."
 480: 0x08D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x08D1 [0x02] IF !(ExtData[1]->WorkLocal[5] >= ExtData[1]->WorkLocal[6]) GOTO 0x08E5
-482: 0x08D9 [0x48] [System] [7186*]:
+482: 0x08D9 [0x48] [System] [7187*]:
     → "I am sorry. You do not have enough Allied Notes."
 483: 0x08DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 484: 0x08DD [0x03] Work_Zone[1] = 0*
 485: 0x08E2 [0x01] GOTO 0x092D
-486: 0x08E5 [0x24] CREATE_DIALOG(message_id=7184*, default_option=1*, option_flags=0*)
+486: 0x08E5 [0x24] CREATE_DIALOG(message_id=7185*, default_option=1*, option_flags=0*)
     → "Complete the transaction? [Yes./Not at this time.]"
 487: 0x08EC [0x25] WAIT_DIALOG_SELECT()
 488: 0x08ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x091D
-489: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7185*)
+489: 0x08F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7186*)
     → "Understood."
 490: 0x08F8 [0x73] EventEntity casts magic 122* on LocalPlayer
 491: 0x0903 [0x1C] WAIT(260* ticks)

@@ -44,68 +44,68 @@
 |       8 | 0x0155      |         341 |
 |       9 | 0x0078      |         120 |
 |      10 | 0x001D      |          29 |
-|      11 | 0x1DCC      |        7628 |
+|      11 | 0x1DCD      |        7629 |
 |      12 | 0x0028      |          40 |
-|      13 | 0x1DCD      |        7629 |
-|      14 | 0x1DCE      |        7630 |
+|      13 | 0x1DCE      |        7630 |
+|      14 | 0x1DCF      |        7631 |
 |      15 | 0x0020      |          32 |
-|      16 | 0x1DCF      |        7631 |
-|      17 | 0x1DD0      |        7632 |
-|      18 | 0x1DD1      |        7633 |
-|      19 | 0x1DEF      |        7663 |
+|      16 | 0x1DD0      |        7632 |
+|      17 | 0x1DD1      |        7633 |
+|      18 | 0x1DD2      |        7634 |
+|      19 | 0x1DF0      |        7664 |
 |      20 | 0x009F      |         159 |
-|      21 | 0x1DF0      |        7664 |
-|      22 | 0x1DF1      |        7665 |
-|      23 | 0x1DF2      |        7666 |
-|      24 | 0x1DF3      |        7667 |
-|      25 | 0x1DF4      |        7668 |
-|      26 | 0x1DF5      |        7669 |
-|      27 | 0x1DF6      |        7670 |
+|      21 | 0x1DF1      |        7665 |
+|      22 | 0x1DF2      |        7666 |
+|      23 | 0x1DF3      |        7667 |
+|      24 | 0x1DF4      |        7668 |
+|      25 | 0x1DF5      |        7669 |
+|      26 | 0x1DF6      |        7670 |
+|      27 | 0x1DF7      |        7671 |
 |      28 | 0x00F0      |         240 |
-|      29 | 0x1DF7      |        7671 |
-|      30 | 0x1DF8      |        7672 |
-|      31 | 0x1DF9      |        7673 |
+|      29 | 0x1DF8      |        7672 |
+|      30 | 0x1DF9      |        7673 |
+|      31 | 0x1DFA      |        7674 |
 |      32 | 0x0006      |           6 |
 |      33 | 0x0024      |          36 |
 |      34 | 0x0015      |          21 |
 |      35 | 0x041C      |        1052 |
-|      36 | 0x1DFA      |        7674 |
+|      36 | 0x1DFB      |        7675 |
 |      37 | 0x001E      |          30 |
-|      38 | 0x1DFB      |        7675 |
-|      39 | 0x1DFC      |        7676 |
+|      38 | 0x1DFC      |        7676 |
+|      39 | 0x1DFD      |        7677 |
 |      40 | 0x07B6      |        1974 |
-|      41 | 0x1DFD      |        7677 |
-|      42 | 0x1DFE      |        7678 |
+|      41 | 0x1DFE      |        7678 |
+|      42 | 0x1DFF      |        7679 |
 |      43 | 0x00B6      |         182 |
 |      44 | 0xFFFE33B2  |  4294849458 |
 |      45 | 0xFFFD7D7E  |  4294802814 |
 |      46 | 0x0E9D      |        3741 |
-|      47 | 0x1DFF      |        7679 |
+|      47 | 0x1E00      |        7680 |
 |      48 | 0x000A      |          10 |
-|      49 | 0x1E00      |        7680 |
+|      49 | 0x1E01      |        7681 |
 |      50 | 0x005A      |          90 |
 |      51 | 0x0051      |          81 |
-|      52 | 0x1E01      |        7681 |
+|      52 | 0x1E02      |        7682 |
 |      53 | 0x0055      |          85 |
-|      54 | 0x1E02      |        7682 |
-|      55 | 0x1E03      |        7683 |
+|      54 | 0x1E03      |        7683 |
+|      55 | 0x1E04      |        7684 |
 |      56 | 0x0096      |         150 |
-|      57 | 0x1E04      |        7684 |
+|      57 | 0x1E05      |        7685 |
 |      58 | 0x041D      |        1053 |
-|      59 | 0x1E05      |        7685 |
+|      59 | 0x1E06      |        7686 |
 |      60 | 0x0007      |           7 |
 |      61 | 0x0001      |           1 |
-|      62 | 0x1E06      |        7686 |
+|      62 | 0x1E07      |        7687 |
 |      63 | 0x0091      |         145 |
 |      64 | 0xFFFE2F38  |  4294848312 |
 |      65 | 0xFFFD8016  |  4294803478 |
 |      66 | 0xFFFFFC19  |  4294966297 |
 |      67 | 0x0DE1      |        3553 |
-|      68 | 0x1E07      |        7687 |
+|      68 | 0x1E08      |        7688 |
 |      69 | 0x010E      |         270 |
-|      70 | 0x1E08      |        7688 |
-|      71 | 0x1E09      |        7689 |
-|      72 | 0x1E0A      |        7690 |
+|      70 | 0x1E09      |        7689 |
+|      71 | 0x1E0A      |        7690 |
+|      72 | 0x1E0B      |        7691 |
 |      73 | 0x00C9      |         201 |
 |      74 | 0x0005      |           5 |
 |      75 | 0x0B90      |        2960 |
@@ -114,28 +114,28 @@
 |      78 | 0x0008      |           8 |
 |      79 | 0x0064      |         100 |
 |      80 | 0x0018      |          24 |
-|      81 | 0x1E0B      |        7691 |
+|      81 | 0x1E0C      |        7692 |
 |      82 | 0x0054      |          84 |
-|      83 | 0x1E0C      |        7692 |
-|      84 | 0x1E0D      |        7693 |
-|      85 | 0x1E0E      |        7694 |
-|      86 | 0x1E0F      |        7695 |
-|      87 | 0x1E10      |        7696 |
-|      88 | 0x1E11      |        7697 |
-|      89 | 0x1E12      |        7698 |
+|      83 | 0x1E0D      |        7693 |
+|      84 | 0x1E0E      |        7694 |
+|      85 | 0x1E0F      |        7695 |
+|      86 | 0x1E10      |        7696 |
+|      87 | 0x1E11      |        7697 |
+|      88 | 0x1E12      |        7698 |
+|      89 | 0x1E13      |        7699 |
 |      90 | 0x0004      |           4 |
-|      91 | 0x1E13      |        7699 |
-|      92 | 0x1E14      |        7700 |
-|      93 | 0x1E15      |        7701 |
-|      94 | 0x1E16      |        7702 |
-|      95 | 0x1E17      |        7703 |
+|      91 | 0x1E14      |        7700 |
+|      92 | 0x1E15      |        7701 |
+|      93 | 0x1E16      |        7702 |
+|      94 | 0x1E17      |        7703 |
+|      95 | 0x1E18      |        7704 |
 |      96 | 0x008C      |         140 |
-|      97 | 0x1E18      |        7704 |
-|      98 | 0x1E19      |        7705 |
-|      99 | 0x1E1A      |        7706 |
+|      97 | 0x1E19      |        7705 |
+|      98 | 0x1E1A      |        7706 |
+|      99 | 0x1E1B      |        7707 |
 |     100 | 0x000E      |          14 |
-|     101 | 0x1E1B      |        7707 |
-|     102 | 0x1E1C      |        7708 |
+|     101 | 0x1E1C      |        7708 |
+|     102 | 0x1E1D      |        7709 |
 |     103 | 0x000D      |          13 |
 |     104 | 0x245C8     |      148936 |
 |     105 | 0x3B9E4     |      244196 |
@@ -157,46 +157,46 @@
 
 ## String References
 
-- **7628**: (Oh darn, what'll I do, what'll I do...)
-- **7629**: Huh? How did you know something's bothering me? Do you have...psychic powers? Oh, it was justaru my fidgeting that gave me away...
-- **7630**: You see, I madey-wade a handbag with the intentaru of giving it to a certain special someone.
-- **7631**: Driven by the thoughtaru of her beautiful smile, I labored long hours handcrafting it, forgoing many nights of sleep... Only to findy-wind that my little girl, Kipopo, has run off with the newly finished handbag.
-- **7632**: If you see my daughtaru, could you tell her to return it to me?
-- **7633**: If you see my daughtaru, Kipopo, could you tell her to return the handbag to me? I wonder where she could have disappeared to...
-- **7663**: Oh, it's you again... I'm sorry you had to witness that row between father and daughtaru.
-- **7664**: You see, that girl's mother--my wife--passed away when Kipopo was but a wee babe.
-- **7665**: Ever since, I've broughtaru her up with my own hand--a man's coarse and callused hand.
-- **7666**: I've never forgotten, and never will forgetaru, my beloved wife who brought that bundle of joy, Kipopo, into the world. But, a child needs a mother...
-- **7667**: Some time ago I met someone special...someone with whom I'd like to sharey-ware my life through thick and thin.
-- **7668**: I had hoped to finally propose to her and made the handbag as an engagement presentaru...
-- **7669**: So much for that plan, eh?
-- **7670**: The Tanners' Guild where I work was severely damaged in the latest attacky-wack by the beastmen...
-- **7671**: I had made the handbag with whatever leftover scraps of material I could gather, using whatever tools were on handy-wand.
-- **7672**: But, now there's nothing leftaru. No tools...and not even a single shred of scrap leather.
-- **7673**: There's nothing I can do...
-- **7674**: What? You want me to give you the $3?
-- **7675**: A rather unusual requestaru... But, you've gone out of your way and beeny-ween so kind to me. It's all yours.
-- **7676**: Hampu-Kampu gives the $3 to <Player>.
-- **7677**: San d'Oria also is home to a Tanners' Guild. But during wartime, no craftsman would be willing to carry outaru burdensome repairs for frivolous items like handbags.
-- **7678**: Especially not at a pricey-wice I can afford...
-- **7679**: Oh, hello. Is there something I can do for you?
-- **7680**: ...!
-- **7683**: Did you really-weally repair it for me?
-- **7684**: Please, letaru me see it!
-- **7685**: Show the $3 to Hampu-Kampu? [Yes./No.]
-- **7686**: What? You...want me to have it back?
-- **7687**: Hmm, the repairs are of the highest quality. Which craftsman did you employ to do the worky-work?
-- **7688**: My, my...!
-- **7689**: The elegantly subtle curves...and the deeply set carvings... Why, all my design quirks have been faithfully recreated!
-- **7694**: We've been keeping it quiet, but yes, it's as the two of you suggestaru. Tek's mother and I have been seeing each other for some time now.
-- **7695**: Kipopo stares inquisitively at Hampu-Kampu.
-- **7696**: A-ahem! Don't get any crazy-wazy ideas, now! I guarantee that our relationship is perfectly wholesome in nature!
-- **7700**: Kipopo, are you really sure it's okay if Daddy...?
-- **7704**: I owe you so much.
-- **7705**: Not only for repairing the handbag, but also for mending the rifty-wift between my daughtaru and myself.
-- **7706**: Please take this. It's something from the days when I took my firstaru few steps into the world of leathercrafting. No one else deserves it more than you.
-- **7707**: And do sendy-wend my regards to the craftsman who did such a stellar job on my handbag.
-- **7708**: I owe it all to you for healing the rifty-wift that had threatened to tear my daughtaru and I apart. I'm going to makey-wake it my mission to restore Windurst's Tanners' Guild to its former state.
+- **7629**: (Oh darn, what'll I do, what'll I do...)
+- **7630**: Huh? How did you know something's bothering me? Do you have...psychic powers? Oh, it was justaru my fidgeting that gave me away...
+- **7631**: You see, I madey-wade a handbag with the intentaru of giving it to a certain special someone.
+- **7632**: Driven by the thoughtaru of her beautiful smile, I labored long hours handcrafting it, forgoing many nights of sleep... Only to findy-wind that my little girl, Kipopo, has run off with the newly finished handbag.
+- **7633**: If you see my daughtaru, could you tell her to return it to me?
+- **7634**: If you see my daughtaru, Kipopo, could you tell her to return the handbag to me? I wonder where she could have disappeared to...
+- **7664**: Oh, it's you again... I'm sorry you had to witness that row between father and daughtaru.
+- **7665**: You see, that girl's mother--my wife--passed away when Kipopo was but a wee babe.
+- **7666**: Ever since, I've broughtaru her up with my own hand--a man's coarse and callused hand.
+- **7667**: I've never forgotten, and never will forgetaru, my beloved wife who brought that bundle of joy, Kipopo, into the world. But, a child needs a mother...
+- **7668**: Some time ago I met someone special...someone with whom I'd like to sharey-ware my life through thick and thin.
+- **7669**: I had hoped to finally propose to her and made the handbag as an engagement presentaru...
+- **7670**: So much for that plan, eh?
+- **7671**: The Tanners' Guild where I work was severely damaged in the latest attacky-wack by the beastmen...
+- **7672**: I had made the handbag with whatever leftover scraps of material I could gather, using whatever tools were on handy-wand.
+- **7673**: But, now there's nothing leftaru. No tools...and not even a single shred of scrap leather.
+- **7674**: There's nothing I can do...
+- **7675**: What? You want me to give you the $3?
+- **7676**: A rather unusual requestaru... But, you've gone out of your way and beeny-ween so kind to me. It's all yours.
+- **7677**: Hampu-Kampu gives the $3 to <Player>.
+- **7678**: San d'Oria also is home to a Tanners' Guild. But during wartime, no craftsman would be willing to carry outaru burdensome repairs for frivolous items like handbags.
+- **7679**: Especially not at a pricey-wice I can afford...
+- **7680**: Oh, hello. Is there something I can do for you?
+- **7681**: ...!
+- **7684**: Did you really-weally repair it for me?
+- **7685**: Please, letaru me see it!
+- **7686**: Show the $3 to Hampu-Kampu? [Yes./No.]
+- **7687**: What? You...want me to have it back?
+- **7688**: Hmm, the repairs are of the highest quality. Which craftsman did you employ to do the worky-work?
+- **7689**: My, my...!
+- **7690**: The elegantly subtle curves...and the deeply set carvings... Why, all my design quirks have been faithfully recreated!
+- **7695**: We've been keeping it quiet, but yes, it's as the two of you suggestaru. Tek's mother and I have been seeing each other for some time now.
+- **7696**: Kipopo stares inquisitively at Hampu-Kampu.
+- **7697**: A-ahem! Don't get any crazy-wazy ideas, now! I guarantee that our relationship is perfectly wholesome in nature!
+- **7701**: Kipopo, are you really sure it's okay if Daddy...?
+- **7705**: I owe you so much.
+- **7706**: Not only for repairing the handbag, but also for mending the rifty-wift between my daughtaru and myself.
+- **7707**: Please take this. It's something from the days when I took my firstaru few steps into the world of leathercrafting. No one else deserves it more than you.
+- **7708**: And do sendy-wend my regards to the craftsman who did such a stellar job on my handbag.
+- **7709**: I owe it all to you for healing the rifty-wift that had threatened to tear my daughtaru and I apart. I'm going to makey-wake it my mission to restore Windurst's Tanners' Guild to its former state.
 
 ## Events
 
@@ -282,31 +282,31 @@
  17: 0x006C [0x1C] WAIT(120* ticks)
  18: 0x006F [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 29*
  19: 0x0076 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
- 20: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
+ 20: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
     → "(Oh darn, what'll I do, what'll I do...)"
  21: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x007F [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
  23: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 24: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
+ 24: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
     → "Huh? How did you know something's bothering me? Do you have...psychic powers? Oh, it was justaru my fidgeting that gave me away..."
  25: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0097 [0x52] END_LOAD_SCHEDULER: End scheduler "9401" with entities [LocalPlayer, LocalPlayer], work=341*
  27: 0x00A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9402" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 28: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+ 28: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → "You see, I madey-wade a handbag with the intentaru of giving it to a certain special someone."
  29: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  31: 0x00CA [0x1C] WAIT(120* ticks)
  32: 0x00CD [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 32*
  33: 0x00D4 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
- 34: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+ 34: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "Driven by the thoughtaru of her beautiful smile, I labored long hours handcrafting it, forgoing many nights of sleep... Only to findy-wind that my little girl, Kipopo, has run off with the newly finished handbag."
  35: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x00DD [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
  37: 0x00E2 [0x52] END_LOAD_SCHEDULER: End scheduler "9402" with entities [LocalPlayer, LocalPlayer], work=341*
  38: 0x00F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9403" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  39: 0x0102 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 40: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
+ 40: 0x0111 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
     → "If you see my daughtaru, could you tell her to return it to me?"
  41: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0115 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -347,7 +347,7 @@
   2: 0x0165 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0166 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0167 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
+  5: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
     → "If you see my daughtaru, Kipopo, could you tell her to return the handbag to me? I wonder where she could have disappeared to..."
   6: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x017A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -445,7 +445,7 @@
  16: 0x01F5 [0x1C] WAIT(60* ticks)
  17: 0x01F8 [0x1C] WAIT(120* ticks)
  18: 0x01FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 19: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+ 19: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "Oh, it's you again... I'm sorry you had to witness that row between father and daughtaru."
  20: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x020E [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 159*
@@ -453,15 +453,15 @@
  23: 0x0216 [0x9A] WAIT_MUSIC_SERVER()
  24: 0x0217 [0x52] END_LOAD_SCHEDULER: End scheduler "9401" with entities [LocalPlayer, LocalPlayer], work=341*
  25: 0x0226 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9402" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 26: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
+ 26: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
     → "You see, that girl's mother--my wife--passed away when Kipopo was but a wee babe."
  27: 0x023A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x023B [0x52] END_LOAD_SCHEDULER: End scheduler "9402" with entities [LocalPlayer, LocalPlayer], work=341*
  29: 0x024A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9403" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 30: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
+ 30: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
     → "Ever since, I've broughtaru her up with my own hand--a man's coarse and callused hand."
  31: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+ 32: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "I've never forgotten, and never will forgetaru, my beloved wife who brought that bundle of joy, Kipopo, into the world. But, a child needs a mother..."
  33: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0263 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -471,10 +471,10 @@
  38: 0x0295 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Hampu-Kampu (ID: 17162684/0x0105E1BC), tag_num=0x0B)
  39: 0x029C [0x4A] LocalPlayer looks at Hampu-Kampu (ID: 17162684/0x0105E1BC)
  40: 0x02A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 41: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+ 41: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "Some time ago I met someone special...someone with whom I'd like to sharey-ware my life through thick and thin."
  42: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
+ 43: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
     → "I had hoped to finally propose to her and made the handbag as an engagement presentaru..."
  44: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x02BC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -483,16 +483,16 @@
  48: 0x02D7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  49: 0x02D8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  50: 0x02D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 51: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
+ 51: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
     → "So much for that plan, eh?"
  52: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x02EC [0x52] END_LOAD_SCHEDULER: End scheduler "9420" with entities [LocalPlayer, LocalPlayer], work=341*
  54: 0x02FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  55: 0x030C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9421" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 56: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
+ 56: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
     → "The Tanners' Guild where I work was severely damaged in the latest attacky-wack by the beastmen..."
  57: 0x0320 [0x1C] WAIT(240* ticks)
- 58: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
+ 58: 0x0323 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
     → "I had made the handbag with whatever leftover scraps of material I could gather, using whatever tools were on handy-wand."
  59: 0x0326 [0x1C] WAIT(240* ticks)
  60: 0x0329 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -501,10 +501,10 @@
  63: 0x0358 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9422" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  64: 0x0369 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 19*
  65: 0x0370 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
- 66: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+ 66: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "But, now there's nothing leftaru. No tools...and not even a single shred of scrap leather."
  67: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+ 68: 0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "There's nothing I can do..."
  69: 0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x037D [0x6E] LocalPlayer uses emote 6*
@@ -520,17 +520,17 @@
  80: 0x03B1 [0x52] END_LOAD_SCHEDULER: End scheduler "9422" with entities [LocalPlayer, LocalPlayer], work=341*
  81: 0x03C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9423" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  82: 0x03D1 [0x03] Work_Zone[2] = 1052*
- 83: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+ 83: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "What? You want me to give you the $3?"
  84: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x03DA [0x1C] WAIT(30* ticks)
- 86: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+ 86: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "A rather unusual requestaru... But, you've gone out of your way and beeny-ween so kind to me. It's all yours."
  87: 0x03E0 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Hampu-Kampu (ID: 17162684/0x0105E1BC), tag_num=0x0C)
  88: 0x03E7 [0x1C] WAIT(60* ticks)
  89: 0x03EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  90: 0x03F9 [0x03] Work_Zone[2] = 1052*
- 91: 0x03FE [0x48] [System] [7676*]:
+ 91: 0x03FE [0x48] [System] [7677*]:
     → "Hampu-Kampu gives the $3 to <Player>."
  92: 0x0401 [0x1C] WAIT(240* ticks)
  93: 0x0404 [0x4B] UPDATE_ENTITY_YAW(entity=Hampu-Kampu (ID: 17162684/0x0105E1BC), yaw=10.8°*)
@@ -539,7 +539,7 @@
  96: 0x040D [0x1C] WAIT(30* ticks)
  97: 0x0410 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 32*
  98: 0x0417 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
- 99: 0x041C [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
+ 99: 0x041C [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
     → "San d'Oria also is home to a Tanners' Guild. But during wartime, no craftsman would be willing to carry outaru burdensome repairs for frivolous items like handbags."
 100: 0x041F [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0420 [0x99] Wait for LocalPlayer animation to complete
@@ -551,7 +551,7 @@
 107: 0x0452 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9424" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 108: 0x0463 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 6*
 109: 0x046A [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-110: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+110: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Especially not at a pricey-wice I can afford..."
 111: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0473 [0x99] Wait for LocalPlayer animation to complete
@@ -597,10 +597,10 @@
   2: 0x04C5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x04C6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x04C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x04D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7677*)
+  5: 0x04D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
     → "San d'Oria also is home to a Tanners' Guild. But during wartime, no craftsman would be willing to carry outaru burdensome repairs for frivolous items like handbags."
   6: 0x04D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x04DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+  7: 0x04DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Especially not at a pricey-wice I can afford..."
   8: 0x04DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -829,7 +829,7 @@
  27: 0x05A7 [0x1C] WAIT(60* ticks)
  28: 0x05AA [0x1C] WAIT(120* ticks)
  29: 0x05AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 30: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
+ 30: 0x05BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
     → "Oh, hello. Is there something I can do for you?"
  31: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x05C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -842,7 +842,7 @@
  39: 0x05F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9403" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  40: 0x0606 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 21*
  41: 0x060D [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
- 42: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+ 42: 0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "...!"
  43: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0616 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
@@ -856,13 +856,13 @@
  52: 0x0660 [0x79] Tek Lengyon (ID: 17162687/0x0105E1BF) looks at LocalPlayer (Basic look)
  53: 0x066A [0x79] Kipopo (ID: 17162686/0x0105E1BE) looks at LocalPlayer (Basic look)
  54: 0x0674 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
- 55: 0x0683 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7681*]:
+ 55: 0x0683 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7682*]:
     → "Th-that bag!"
  56: 0x068A [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x068B [0x79] LocalPlayer looks at Tek Lengyon (ID: 17162687/0x0105E1BF) (Basic look)
  58: 0x0695 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bik0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)]
  59: 0x06A2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sur0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
- 60: 0x06B1 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7682*]:
+ 60: 0x06B1 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7683*]:
     → "B-but, I thought Tek had torny-worn it to shreds!"
  61: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x06B9 [0x79] LocalPlayer looks at Kipopo (ID: 17162686/0x0105E1BE) (Basic look)
@@ -871,7 +871,7 @@
  65: 0x06DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9402" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  66: 0x06F0 [0x79] LocalPlayer looks at Hampu-Kampu (ID: 17162684/0x0105E1BC) (Basic look)
  67: 0x06FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 68: 0x0709 [0x1D] PRINT_EVENT_MESSAGE(message_id=7683*)
+ 68: 0x0709 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
     → "Did you really-weally repair it for me?"
  69: 0x070C [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x070D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -889,13 +889,13 @@
  82: 0x0767 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  83: 0x0768 [0x79] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at LocalPlayer (Basic look)
  84: 0x0772 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 85: 0x0781 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
+ 85: 0x0781 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
     → "Please, letaru me see it!"
  86: 0x0784 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0785 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  88: 0x0794 [0x1C] WAIT(60* ticks)
  89: 0x0797 [0x03] Work_Zone[2] = 1053*
- 90: 0x079C [0x24] CREATE_DIALOG(message_id=7685*, default_option=0*, option_flags=0*)
+ 90: 0x079C [0x24] CREATE_DIALOG(message_id=7686*, default_option=0*, option_flags=0*)
     → "Show the $3 to Hampu-Kampu? [Yes./No.]"
  91: 0x07A3 [0x25] WAIT_DIALOG_SELECT()
  92: 0x07A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07C6
@@ -907,7 +907,7 @@
 
 SUBROUTINE_07E8:
  98: 0x07E8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 99: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
+ 99: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
     → "What? You...want me to have it back?"
 100: 0x07FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x07FB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -932,13 +932,13 @@ SUBROUTINE_07E8:
 120: 0x0899 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 121: 0x08AA [0x1C] WAIT(90* ticks)
 122: 0x08AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-123: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+123: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "Hmm, the repairs are of the highest quality. Which craftsman did you employ to do the worky-work?"
 124: 0x08BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
 125: 0x08CE [0x1C] WAIT(270* ticks)
 126: 0x08D1 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 21*
 127: 0x08D8 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-128: 0x08DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
+128: 0x08DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
     → "My, my...!"
 129: 0x08E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x08E1 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
@@ -951,12 +951,12 @@ SUBROUTINE_07E8:
 137: 0x0914 [0x1C] WAIT(30* ticks)
 138: 0x0917 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 32*
 139: 0x091E [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-140: 0x0923 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+140: 0x0923 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "The elegantly subtle curves...and the deeply set carvings... Why, all my design quirks have been faithfully recreated!"
 141: 0x0926 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0927 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
 143: 0x092C [0x1C] WAIT(60* ticks)
-144: 0x092F [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7690*]:
+144: 0x092F [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7691*]:
     → "A trrruly magnificent masterpiece. But, nothing to rival you, my darrrling."
 145: 0x0936 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0937 [0x4A] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Ehm Lengyon (ID: 17162688/0x0105E1C0)
@@ -1007,7 +1007,7 @@ SUBROUTINE_07E8:
 191: 0x0AA1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 192: 0x0AA2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 193: 0x0AA3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-194: 0x0AB2 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7691*]:
+194: 0x0AB2 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7692*]:
     → "Daddy? The importantaru person you wanted to give the handbag to...is it Tek's mommy?"
 195: 0x0AB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0ABA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
@@ -1018,7 +1018,7 @@ SUBROUTINE_07E8:
 201: 0x0AD7 [0x4A] Kipopo (ID: 17162686/0x0105E1BE) looks at Ehm Lengyon (ID: 17162688/0x0105E1C0)
 202: 0x0AE0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Tek Lengyon (ID: 17162687/0x0105E1BF))
 203: 0x0AE6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kisi" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=84*
-204: 0x0AF5 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7692*]:
+204: 0x0AF5 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7693*]:
     → "Huh? So Mommy and Kipopo's daddy have been going...errr, study?"
 205: 0x0AFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x0AFD [0x1C] WAIT(60* ticks)
@@ -1034,7 +1034,7 @@ SUBROUTINE_07E8:
 216: 0x0B2E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9434" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 217: 0x0B3F [0x6E] Ehm Lengyon (ID: 17162688/0x0105E1C0) uses emote 24*
 218: 0x0B46 [0x99] Wait for Ehm Lengyon (ID: 17162688/0x0105E1C0) animation to complete
-219: 0x0B4B [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7693*]:
+219: 0x0B4B [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7694*]:
     → "Heehee! These children are sooo adorrrable, they'll be the end of us.t"
 220: 0x0B52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0B53 [0x99] Wait for Ehm Lengyon (ID: 17162688/0x0105E1C0) animation to complete
@@ -1050,25 +1050,25 @@ SUBROUTINE_07E8:
 231: 0x0B99 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 232: 0x0B9A [0x1C] WAIT(30* ticks)
 233: 0x0B9D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-234: 0x0BAC [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+234: 0x0BAC [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "We've been keeping it quiet, but yes, it's as the two of you suggestaru. Tek's mother and I have been seeing each other for some time now."
 235: 0x0BAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 236: 0x0BB0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
 237: 0x0BBF [0x1C] WAIT(90* ticks)
 238: 0x0BC2 [0x52] END_LOAD_SCHEDULER: End scheduler "9435" with entities [LocalPlayer, LocalPlayer], work=341*
 239: 0x0BD1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9433" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-240: 0x0BE2 [0x48] [System] [7695*]:
+240: 0x0BE2 [0x48] [System] [7696*]:
     → "Kipopo stares inquisitively at Hampu-Kampu."
 241: 0x0BE5 [0x1C] WAIT(120* ticks)
 242: 0x0BE8 [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 29*
 243: 0x0BEF [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-244: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
+244: 0x0BF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
     → "A-ahem! Don't get any crazy-wazy ideas, now! I guarantee that our relationship is perfectly wholesome in nature!"
 245: 0x0BF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x0BF8 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
 247: 0x0BFD [0x1C] WAIT(90* ticks)
 248: 0x0C00 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-249: 0x0C0F [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7697*]:
+249: 0x0C0F [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7698*]:
     → "You should have told me earlier."
 250: 0x0C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x0C17 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
@@ -1088,7 +1088,7 @@ SUBROUTINE_07E8:
 265: 0x0C83 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 266: 0x0C84 [0x79] Tek Lengyon (ID: 17162687/0x0105E1BF) looks at Ehm Lengyon (ID: 17162688/0x0105E1C0) (Basic look)
 267: 0x0C8E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-268: 0x0C9D [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7698*]:
+268: 0x0C9D [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7699*]:
     → "Then I would've given Tek's mommy not only the handbag, but Daddy, too!"
 269: 0x0CA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x0CA5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "bik0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
@@ -1098,7 +1098,7 @@ SUBROUTINE_07E8:
 274: 0x0CCE [0x4A] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Ehm Lengyon (ID: 17162688/0x0105E1C0)
 275: 0x0CD7 [0x6E] Ehm Lengyon (ID: 17162688/0x0105E1C0) uses emote 4*
 276: 0x0CDE [0x99] Wait for Ehm Lengyon (ID: 17162688/0x0105E1C0) animation to complete
-277: 0x0CE3 [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7699*]:
+277: 0x0CE3 [0x2B] Ehm Lengyon (ID: 17162688/0x0105E1C0) [7700*]:
     → "My, how happy I would be with two such lovely prrresents.t"
 278: 0x0CEA [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x0CEB [0x99] Wait for Ehm Lengyon (ID: 17162688/0x0105E1C0) animation to complete
@@ -1117,13 +1117,13 @@ SUBROUTINE_07E8:
 292: 0x0D41 [0x4A] LocalPlayer looks at Hampu-Kampu (ID: 17162684/0x0105E1BC)
 293: 0x0D4A [0x6E] Hampu-Kampu (ID: 17162684/0x0105E1BC) uses emote 5*
 294: 0x0D51 [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
-295: 0x0D56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
+295: 0x0D56 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "Kipopo, are you really sure it's okay if Daddy...?"
 296: 0x0D59 [0x23] WAIT_FOR_DIALOG_INTERACTION
 297: 0x0D5A [0x99] Wait for Hampu-Kampu (ID: 17162684/0x0105E1BC) animation to complete
 298: 0x0D5F [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Kipopo (ID: 17162686/0x0105E1BE), tag_num=0x06)
 299: 0x0D66 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
-300: 0x0D75 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7701*]:
+300: 0x0D75 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7702*]:
     → "Why are you crying like a baby? It'd be so cool if me and Tek could live together!"
 301: 0x0D7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 302: 0x0D7D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
@@ -1133,14 +1133,14 @@ SUBROUTINE_07E8:
 306: 0x0D99 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
 307: 0x0D9A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk2" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
 308: 0x0DA9 [0x4A] Tek Lengyon (ID: 17162687/0x0105E1BF) looks at Kipopo (ID: 17162686/0x0105E1BE)
-309: 0x0DB2 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7702*]:
+309: 0x0DB2 [0x2B] Kipopo (ID: 17162686/0x0105E1BE) [7703*]:
     → "Isn't that right, Tek?"
 310: 0x0DB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x0DBA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlke" with entities [Kipopo (ID: 17162686/0x0105E1BE), Kipopo (ID: 17162686/0x0105E1BE)], work=85*
 312: 0x0DC9 [0x1C] WAIT(60* ticks)
 313: 0x0DCC [0x79] Hampu-Kampu (ID: 17162684/0x0105E1BC) looks at Tek Lengyon (ID: 17162687/0x0105E1BF) (Basic look)
 314: 0x0DD6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
-315: 0x0DE5 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7703*]:
+315: 0x0DE5 [0x2B] Tek Lengyon (ID: 17162687/0x0105E1BF) [7704*]:
     → "Rrright!"
 316: 0x0DEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0DED [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)]
@@ -1172,10 +1172,10 @@ SUBROUTINE_07E8:
 343: 0x0E7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 344: 0x0E90 [0x1C] WAIT(60* ticks)
 345: 0x0E93 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-346: 0x0EA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+346: 0x0EA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "I owe you so much."
 347: 0x0EA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-348: 0x0EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+348: 0x0EA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "Not only for repairing the handbag, but also for mending the rifty-wift between my daughtaru and myself."
 349: 0x0EA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 350: 0x0EAA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1184,7 +1184,7 @@ SUBROUTINE_07E8:
 353: 0x0ECB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 354: 0x0EDC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "9438" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 355: 0x0EED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-356: 0x0EFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+356: 0x0EFC [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "Please take this. It's something from the days when I took my firstaru few steps into the world of leathercrafting. No one else deserves it more than you."
 357: 0x0EFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x0F00 [0x6E] Ehm Lengyon (ID: 17162688/0x0105E1C0) uses emote 14*
@@ -1195,7 +1195,7 @@ SUBROUTINE_07E8:
 363: 0x0F21 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Tek Lengyon (ID: 17162687/0x0105E1BF), Tek Lengyon (ID: 17162687/0x0105E1BF)], work=81*
 364: 0x0F30 [0x1C] WAIT(30* ticks)
 365: 0x0F33 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-366: 0x0F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+366: 0x0F42 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "And do sendy-wend my regards to the craftsman who did such a stellar job on my handbag."
 367: 0x0F45 [0x23] WAIT_FOR_DIALOG_INTERACTION
 368: 0x0F46 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1249,7 +1249,7 @@ SUBROUTINE_07E8:
   2: 0x0FB3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0FB4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0FB5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0FC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
+  5: 0x0FC4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
     → "I owe it all to you for healing the rifty-wift that had threatened to tear my daughtaru and I apart. I'm going to makey-wake it my mission to restore Windurst's Tanners' Guild to its former state."
   6: 0x0FC7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0FC8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

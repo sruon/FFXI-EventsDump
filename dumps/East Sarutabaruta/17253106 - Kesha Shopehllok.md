@@ -23,58 +23,58 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0010      |          16 |
-|       2 | 0x1D61      |        7521 |
-|       3 | 0x1D62      |        7522 |
+|       2 | 0x1D62      |        7522 |
+|       3 | 0x1D63      |        7523 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0002      |           2 |
 |       6 | 0x0003      |           3 |
 |       7 | 0x4275      |       17013 |
-|       8 | 0x1D76      |        7542 |
+|       8 | 0x1D77      |        7543 |
 |       9 | 0x0004      |           4 |
-|      10 | 0x1D77      |        7543 |
-|      11 | 0x1D78      |        7544 |
-|      12 | 0x1D79      |        7545 |
-|      13 | 0x1D7A      |        7546 |
-|      14 | 0x1D7B      |        7547 |
-|      15 | 0x1D7C      |        7548 |
-|      16 | 0x1D7D      |        7549 |
-|      17 | 0x1D65      |        7525 |
+|      10 | 0x1D78      |        7544 |
+|      11 | 0x1D79      |        7545 |
+|      12 | 0x1D7A      |        7546 |
+|      13 | 0x1D7B      |        7547 |
+|      14 | 0x1D7C      |        7548 |
+|      15 | 0x1D7D      |        7549 |
+|      16 | 0x1D7E      |        7550 |
+|      17 | 0x1D66      |        7526 |
 |      18 | 0x426B      |       17003 |
-|      19 | 0x1D66      |        7526 |
-|      20 | 0x1D67      |        7527 |
+|      19 | 0x1D67      |        7527 |
+|      20 | 0x1D68      |        7528 |
 |      21 | 0x10D6      |        4310 |
 |      22 | 0x10D7      |        4311 |
 |      23 | 0x10D8      |        4312 |
-|      24 | 0x1D68      |        7528 |
-|      25 | 0x1D69      |        7529 |
-|      26 | 0x1D6A      |        7530 |
-|      27 | 0x1D6B      |        7531 |
-|      28 | 0x1D6D      |        7533 |
-|      29 | 0x1D6C      |        7532 |
-|      30 | 0x1D6E      |        7534 |
+|      24 | 0x1D69      |        7529 |
+|      25 | 0x1D6A      |        7530 |
+|      26 | 0x1D6B      |        7531 |
+|      27 | 0x1D6C      |        7532 |
+|      28 | 0x1D6E      |        7534 |
+|      29 | 0x1D6D      |        7533 |
+|      30 | 0x1D6F      |        7535 |
 |      31 | 0x0005      |           5 |
-|      32 | 0x1D6F      |        7535 |
+|      32 | 0x1D70      |        7536 |
 |      33 | 0x000F      |          15 |
-|      34 | 0x1D70      |        7536 |
+|      34 | 0x1D71      |        7537 |
 |      35 | 0x0019      |          25 |
-|      36 | 0x1D71      |        7537 |
+|      36 | 0x1D72      |        7538 |
 |      37 | 0x001E      |          30 |
-|      38 | 0x1D72      |        7538 |
+|      38 | 0x1D73      |        7539 |
 |      39 | 0x0032      |          50 |
-|      40 | 0x1D73      |        7539 |
+|      40 | 0x1D74      |        7540 |
 |      41 | 0x0041      |          65 |
 |      42 | 0x0046      |          70 |
-|      43 | 0x1D90      |        7568 |
+|      43 | 0x1D91      |        7569 |
 |      44 | 0x003C      |          60 |
-|      45 | 0x1D92      |        7570 |
+|      45 | 0x1D93      |        7571 |
 |      46 | 0x0050      |          80 |
-|      47 | 0x1D93      |        7571 |
+|      47 | 0x1D94      |        7572 |
 |      48 | 0x0028      |          40 |
 |      49 | 0x09D5      |        2517 |
-|      50 | 0x1D94      |        7572 |
-|      51 | 0x1D74      |        7540 |
-|      52 | 0x1D8C      |        7564 |
-|      53 | 0x1D7E      |        7550 |
+|      50 | 0x1D95      |        7573 |
+|      51 | 0x1D75      |        7541 |
+|      52 | 0x1D8D      |        7565 |
+|      53 | 0x1D7F      |        7551 |
 |      54 | 0x000A      |          10 |
 |      55 | 0x000B      |          11 |
 |      56 | 0x000E      |          14 |
@@ -88,67 +88,67 @@
 |      64 | 0x0009      |           9 |
 |      65 | 0x0012      |          18 |
 |      66 | 0xFFFFFFFF  |  4294967295 |
-|      67 | 0x1D83      |        7555 |
+|      67 | 0x1D84      |        7556 |
 |      68 | 0x0064      |         100 |
-|      69 | 0x1D80      |        7552 |
-|      70 | 0x1D81      |        7553 |
-|      71 | 0x1D82      |        7554 |
-|      72 | 0x1D7F      |        7551 |
-|      73 | 0x1D84      |        7556 |
-|      74 | 0x1D85      |        7557 |
-|      75 | 0x1D88      |        7560 |
+|      69 | 0x1D81      |        7553 |
+|      70 | 0x1D82      |        7554 |
+|      71 | 0x1D83      |        7555 |
+|      72 | 0x1D80      |        7552 |
+|      73 | 0x1D85      |        7557 |
+|      74 | 0x1D86      |        7558 |
+|      75 | 0x1D89      |        7561 |
 |      76 | 0x0018      |          24 |
-|      77 | 0x1D86      |        7558 |
-|      78 | 0x1D89      |        7561 |
-|      79 | 0x1D87      |        7559 |
-|      80 | 0x1D8A      |        7562 |
+|      77 | 0x1D87      |        7559 |
+|      78 | 0x1D8A      |        7562 |
+|      79 | 0x1D88      |        7560 |
+|      80 | 0x1D8B      |        7563 |
 
 ## String References
 
-- **7521**: What can I do ya for? [Get me a scoop./How does this game work?/Fork over my prize./I need a bowl.]
-- **7522**: That's the spirit! Ya can't do any grabbin' without a scoop!
-- **7525**: Tell me... [How to grab goldfish./About the types of goldfish./About the prizes./Your linkshell number.]
-- **7526**: [Mister/Lady], Grabbin' Goldfish is as easy as it sounds. Just equip $0 to your Range slot, $1 to your Ammo slot, and get fishin'!
-- **7527**: Oh yeah, and one last thing--ya can't grab goldfish just anywhere. Look for the fireworks. When you've grabbed a bundle, bring the fishies back to me and I'll give ya points which you can exchange for prizes!
-- **7528**: There are three types of goldfish: %, $1, and $2.
-- **7529**: % are probably the easiest to grab. There are tons of 'em swimmin' around out there. I'll give you one point for each one ya bring me.
-- **7530**: $1 are a li'l bit bigger and a li'l bit slimier than your normal goldfish, which makes 'em a li'l bit tougher to grab. So, I'll be a sport and give ya two points for each one ya bring back.
-- **7531**: And $2? There's no way you're gonna be able to grab one of those. They're the fattest, slimiest, most despicable goldfish of 'em all. If you do manage to bring one back, I'll give ya a whoppin' ten points!
-- **7532**: But wait, there's more! I haven't actually seen any of 'em for myself, but they're supposed to be hard to find and even harder to catch. Catch 'em, though, and I'll make sure it was worth your while!
-- **7533**: Remember, the more points ya got, the better prizes you'll get!
-- **7534**: Ya bring me goldfish, I'll give ya points. Ya trade me points, I'll give ya prizes. Simple, huh?
-- **7535**: $0 point[/s]'ll get ya a new $1.
-- **7536**: $0 point[/s]'ll get ya a bag o' fireworks. There are different kinds and different amounts in each bag.
-- **7537**: $0 point[/s]'ll get ya some fan-dangled fans. There are two types, "festive" and "summer."
-- **7538**: $0 point[/s]'ll get ya a delicious drop. I'm not gonna tell ya what flavor ya get, though!
-- **7539**: $0 point[/s]'ll get ya...well, I can't give ya any details on that prize. You'll just hafta keep talkin' to me!
-- **7540**: And that's the lowdown on our prizes.
-- **7542**: Alright! Here's $0 to put your goldfish in. Don't forget to equip it, an' be careful not to lose it. When it's gone, your points are gone.
-- **7543**: Ya lost your $0!?
-- **7544**: Well, I have no problem with lendin' ya another one, but remember, ya lose all the points you've got up till now!
-- **7545**: Start over from the top? [No way!/You bet!]
-- **7546**: Oh well. If ya change your mind, ya know where I'll be!
-- **7547**: Well, okay! Take this new $0 and fill it up with goldfish. Remember, your points are reset to zero.
-- **7548**: Wait a minute... You already have $0. Gettin' a new one would mean resetting your points to zero. Is that what you want?
-- **7549**: Whatever. Ya know, if I only had more customers like you, I could finally buy myself that summer home in Kazham...
-- **7550**: You have $0 point[/s]. [$1: $2./A bag o' fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
-- **7551**: Hey, you're gonna need to do some more grabbin' if ya want that.
-- **7552**: Are ya sure that's what ya want?
-- **7553**: Well, are ya? [Hold on./You bet.]
-- **7554**: Then here ya go!
-- **7555**: Oh. Well, come back when you've made up your mind.
-- **7556**: <Sniff> <Sniff> Is that goldfish I smell?
-- **7557**: Let's see... I'll give ya $0 point[/s] for this haul.
-- **7558**: Wow... I'll give ya $0 point[/s] for all of these.
-- **7559**: With all these fish, you could open your own pet shop! I think I owe you $0 point[/s].
-- **7560**: You're doing pretty good for an adventurer. Come on back when you've grabbed some more.
-- **7561**: I must say, I'm pretty impressed. You've got this game down. Come on back when you've grabbed some more.
-- **7562**: You are one heck of a goldfish grabber. I'll be eatin' good tonight... Ahem! Um, anyway... Come on back when you've grabbed some more.
-- **7564**: % throws a cute smile in your direction.
-- **7568**: And $0 point[/s]'ll get ya...well, I can't give ya any details on that prize either. And I definitely can't tell ya what you might get with $1 point[/s]. I've gotta keep things interesting, ya know?
-- **7570**: What's more, this year $0 point[/s]'ll earn ya a stellar surprise! That's all I can tell ya, but ya have my guarantee that it'll bring rip-roarin' good times to any lucky [feller/lady] who wins it!
-- **7571**: And what is this!? For $0 points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
-- **7572**: And then there's this. $1 for $0 points. If they're out of stock, come back tomorrow.
+- **7522**: What can I do ya for? [Get me a scoop./How does this game work?/Fork over my prize./I need a bowl.]
+- **7523**: That's the spirit! Ya can't do any grabbin' without a scoop!
+- **7526**: Tell me... [How to grab goldfish./About the types of goldfish./About the prizes./Your linkshell number.]
+- **7527**: [Mister/Lady], Grabbin' Goldfish is as easy as it sounds. Just equip $0 to your Range slot, $1 to your Ammo slot, and get fishin'!
+- **7528**: Oh yeah, and one last thing--ya can't grab goldfish just anywhere. Look for the fireworks. When you've grabbed a bundle, bring the fishies back to me and I'll give ya points which you can exchange for prizes!
+- **7529**: There are three types of goldfish: %, $1, and $2.
+- **7530**: % are probably the easiest to grab. There are tons of 'em swimmin' around out there. I'll give you one point for each one ya bring me.
+- **7531**: $1 are a li'l bit bigger and a li'l bit slimier than your normal goldfish, which makes 'em a li'l bit tougher to grab. So, I'll be a sport and give ya two points for each one ya bring back.
+- **7532**: And $2? There's no way you're gonna be able to grab one of those. They're the fattest, slimiest, most despicable goldfish of 'em all. If you do manage to bring one back, I'll give ya a whoppin' ten points!
+- **7533**: But wait, there's more! I haven't actually seen any of 'em for myself, but they're supposed to be hard to find and even harder to catch. Catch 'em, though, and I'll make sure it was worth your while!
+- **7534**: Remember, the more points ya got, the better prizes you'll get!
+- **7535**: Ya bring me goldfish, I'll give ya points. Ya trade me points, I'll give ya prizes. Simple, huh?
+- **7536**: $0 point[/s]'ll get ya a new $1.
+- **7537**: $0 point[/s]'ll get ya a bag o' fireworks. There are different kinds and different amounts in each bag.
+- **7538**: $0 point[/s]'ll get ya some fan-dangled fans. There are two types, "festive" and "summer."
+- **7539**: $0 point[/s]'ll get ya a delicious drop. I'm not gonna tell ya what flavor ya get, though!
+- **7540**: $0 point[/s]'ll get ya...well, I can't give ya any details on that prize. You'll just hafta keep talkin' to me!
+- **7541**: And that's the lowdown on our prizes.
+- **7543**: Alright! Here's $0 to put your goldfish in. Don't forget to equip it, an' be careful not to lose it. When it's gone, your points are gone.
+- **7544**: Ya lost your $0!?
+- **7545**: Well, I have no problem with lendin' ya another one, but remember, ya lose all the points you've got up till now!
+- **7546**: Start over from the top? [No way!/You bet!]
+- **7547**: Oh well. If ya change your mind, ya know where I'll be!
+- **7548**: Well, okay! Take this new $0 and fill it up with goldfish. Remember, your points are reset to zero.
+- **7549**: Wait a minute... You already have $0. Gettin' a new one would mean resetting your points to zero. Is that what you want?
+- **7550**: Whatever. Ya know, if I only had more customers like you, I could finally buy myself that summer home in Kazham...
+- **7551**: You have $0 point[/s]. [$1: $2./A bag o' fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]
+- **7552**: Hey, you're gonna need to do some more grabbin' if ya want that.
+- **7553**: Are ya sure that's what ya want?
+- **7554**: Well, are ya? [Hold on./You bet.]
+- **7555**: Then here ya go!
+- **7556**: Oh. Well, come back when you've made up your mind.
+- **7557**: <Sniff> <Sniff> Is that goldfish I smell?
+- **7558**: Let's see... I'll give ya $0 point[/s] for this haul.
+- **7559**: Wow... I'll give ya $0 point[/s] for all of these.
+- **7560**: With all these fish, you could open your own pet shop! I think I owe you $0 point[/s].
+- **7561**: You're doing pretty good for an adventurer. Come on back when you've grabbed some more.
+- **7562**: I must say, I'm pretty impressed. You've got this game down. Come on back when you've grabbed some more.
+- **7563**: You are one heck of a goldfish grabber. I'll be eatin' good tonight... Ahem! Um, anyway... Come on back when you've grabbed some more.
+- **7565**: % throws a cute smile in your direction.
+- **7569**: And $0 point[/s]'ll get ya...well, I can't give ya any details on that prize either. And I definitely can't tell ya what you might get with $1 point[/s]. I've gotta keep things interesting, ya know?
+- **7571**: What's more, this year $0 point[/s]'ll earn ya a stellar surprise! That's all I can tell ya, but ya have my guarantee that it'll bring rip-roarin' good times to any lucky [feller/lady] who wins it!
+- **7572**: And what is this!? For $0 points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+- **7573**: And then there's this. $1 for $0 points. If they're out of stock, come back tomorrow.
 
 ## Events
 
@@ -248,11 +248,11 @@
   2: 0x000B [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0018
   3: 0x0013 [0x03] ExtData[1]->WorkLocal[1] = 16*
   4: 0x0018 [0x06] Work_Zone[1] = 0
-  5: 0x001B [0x24] CREATE_DIALOG(message_id=7521*, default_option=0*, option_flags=0*)
+  5: 0x001B [0x24] CREATE_DIALOG(message_id=7522*, default_option=0*, option_flags=0*)
     → "What can I do ya for? [Get me a scoop./How does this game work?/Fork over my prize./I need a bowl.]"
   6: 0x0022 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0023 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037
-  8: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7522*)
+  8: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7523*)
     → "That's the spirit! Ya can't do any grabbin' without a scoop!"
   9: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002F [0x03] Work_Zone[1] = 1*
@@ -276,28 +276,28 @@ SUBROUTINE_0063:
  24: 0x0066 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x00C2
  25: 0x006E [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0087
  26: 0x0076 [0x03] Work_Zone[2] = 17013*
- 27: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7542*)
+ 27: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
     → "Alright! Here's $0 to put your goldfish in. Don't forget to equip it, an' be careful not to lose it. When it's gone, your points are gone."
  28: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x007F [0x03] Work_Zone[1] = 4*
  30: 0x0084 [0x01] GOTO 0x00BF
  31: 0x0087 [0x03] Work_Zone[2] = 17013*
- 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7543*)
+ 32: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
     → "Ya lost your $0!?"
  33: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7544*)
+ 34: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7545*)
     → "Well, I have no problem with lendin' ya another one, but remember, ya lose all the points you've got up till now!"
  35: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0094 [0x24] CREATE_DIALOG(message_id=7545*, default_option=0*, option_flags=0*)
+ 36: 0x0094 [0x24] CREATE_DIALOG(message_id=7546*, default_option=0*, option_flags=0*)
     → "Start over from the top? [No way!/You bet!]"
  37: 0x009B [0x25] WAIT_DIALOG_SELECT()
  38: 0x009C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AB
- 39: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+ 39: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "Oh well. If ya change your mind, ya know where I'll be!"
  40: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00A8 [0x01] GOTO 0x00BF
  42: 0x00AB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00BF
- 43: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
+ 43: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
     → "Well, okay! Take this new $0 and fill it up with goldfish. Remember, your points are reset to zero."
  44: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x00B7 [0x03] Work_Zone[1] = 4*
@@ -306,19 +306,19 @@ SUBROUTINE_0063:
 SUBROUTINE_00BF:
  47: 0x00BF [0x01] GOTO 0x00F6
  48: 0x00C2 [0x03] Work_Zone[2] = 17013*
- 49: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7548*)
+ 49: 0x00C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
     → "Wait a minute... You already have $0. Gettin' a new one would mean resetting your points to zero. Is that what you want?"
  50: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x00CB [0x24] CREATE_DIALOG(message_id=7545*, default_option=0*, option_flags=0*)
+ 51: 0x00CB [0x24] CREATE_DIALOG(message_id=7546*, default_option=0*, option_flags=0*)
     → "Start over from the top? [No way!/You bet!]"
  52: 0x00D2 [0x25] WAIT_DIALOG_SELECT()
  53: 0x00D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E2
- 54: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7546*)
+ 54: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7547*)
     → "Oh well. If ya change your mind, ya know where I'll be!"
  55: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00DF [0x01] GOTO 0x00F6
  57: 0x00E2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F6
- 58: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7549*)
+ 58: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7550*)
     → "Whatever. Ya know, if I only had more customers like you, I could finally buy myself that summer home in Kazham..."
  59: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x00EE [0x03] Work_Zone[1] = 2*
@@ -329,16 +329,16 @@ SUBROUTINE_00F6:
 
 SUBROUTINE_00F7:
  63: 0x00F7 [0x06] Work_Zone[1] = 0
- 64: 0x00FA [0x24] CREATE_DIALOG(message_id=7525*, default_option=0*, option_flags=0*)
+ 64: 0x00FA [0x24] CREATE_DIALOG(message_id=7526*, default_option=0*, option_flags=0*)
     → "Tell me... [How to grab goldfish./About the types of goldfish./About the prizes./Your linkshell number.]"
  65: 0x0101 [0x25] WAIT_DIALOG_SELECT()
  66: 0x0102 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0122
  67: 0x010A [0x03] Work_Zone[2] = 17013*
  68: 0x010F [0x03] Work_Zone[3] = 17003*
- 69: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7526*)
+ 69: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
     → "[Mister/Lady], Grabbin' Goldfish is as easy as it sounds. Just equip $0 to your Range slot, $1 to your Ammo slot, and get fishin'!"
  70: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7527*)
+ 71: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7528*)
     → "Oh yeah, and one last thing--ya can't grab goldfish just anywhere. Look for the fireworks. When you've grabbed a bundle, bring the fishies back to me and I'll give ya points which you can exchange for prizes!"
  72: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x011C [0x01] GOTO 0x00F7
@@ -362,7 +362,7 @@ SUBROUTINE_01D1:
  87: 0x0209 [0x03] Work_Zone_1700[2] = 80*
  88: 0x020E [0x03] Work_Zone_1700[3] = 2517*
  89: 0x0213 [0x03] Work_Zone_1700[4] = 40*
- 90: 0x0218 [0x24] CREATE_DIALOG(message_id=7550*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 90: 0x0218 [0x24] CREATE_DIALOG(message_id=7551*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "You have $0 point[/s]. [$1: $2./A bag o' fireworks: $3./Large fans: $6./A colored drop: $4./1 $11: $12./The mystery box: $5./A stellar surprise: $9./The other mystery box: $7./Yet another mystery box: $8./Mystery box part four: $10./Nothing.]"
  91: 0x021F [0x25] WAIT_DIALOG_SELECT()
  92: 0x0220 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0230
@@ -399,7 +399,7 @@ SUBROUTINE_01D1:
 
 SUBROUTINE_02C5:
 123: 0x02C5 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4294967295*) GOTO 0x02D4
-124: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+124: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "Oh. Well, come back when you've made up your mind."
 125: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02D1 [0x01] GOTO 0x0321
@@ -407,10 +407,10 @@ SUBROUTINE_02C5:
 128: 0x02D9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 129: 0x02DB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 130: 0x02DD [0x02] IF !(Work_Zone[8] == 100*) GOTO 0x031A
-131: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+131: 0x02E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "Are ya sure that's what ya want?"
 132: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x02E9 [0x24] CREATE_DIALOG(message_id=7553*, default_option=0*, option_flags=0*)
+133: 0x02E9 [0x24] CREATE_DIALOG(message_id=7554*, default_option=0*, option_flags=0*)
     → "Well, are ya? [Hold on./You bet.]"
 134: 0x02F0 [0x25] WAIT_DIALOG_SELECT()
 135: 0x02F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FF
@@ -418,7 +418,7 @@ SUBROUTINE_02C5:
 
 SUBROUTINE_0317:
 137: 0x0317 [0x01] GOTO 0x0321
-138: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+138: 0x031A [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "Hey, you're gonna need to do some more grabbin' if ya want that."
 139: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x031E [0x01] GOTO 0x01D1
@@ -463,34 +463,34 @@ SUBROUTINE_0321:
 
 ```
   0: 0x0322 [0x06] Work_Zone[1] = 0
-  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "<Sniff> <Sniff> Is that goldfish I smell?"
   2: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0329 [0x02] IF !(Work_Zone[2] >= 12*) GOTO 0x033C
-  4: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  4: 0x0331 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "Let's see... I'll give ya $0 point[/s] for this haul."
   5: 0x0334 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+  6: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "You're doing pretty good for an adventurer. Come on back when you've grabbed some more."
   7: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0339 [0x01] GOTO 0x0357
   9: 0x033C [0x02] IF !(Work_Zone[2] >= 24*) GOTO 0x034F
- 10: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
+ 10: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
     → "Wow... I'll give ya $0 point[/s] for all of these."
  11: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
+ 12: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
     → "I must say, I'm pretty impressed. You've got this game down. Come on back when you've grabbed some more."
  13: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x034C [0x01] GOTO 0x0357
- 15: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7559*)
+ 15: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
     → "With all these fish, you could open your own pet shop! I think I owe you $0 point[/s]."
  16: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
+ 17: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=7563*)
     → "You are one heck of a goldfish grabber. I'll be eatin' good tonight... Ahem! Um, anyway... Come on back when you've grabbed some more."
  18: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0357:
- 19: 0x0357 [0x48] [System] [7564*]:
+ 19: 0x0357 [0x48] [System] [7565*]:
     → "% throws a cute smile in your direction."
  20: 0x035A [0x03] Work_Zone[1] = 3*
  21: 0x035F [0x21] END_EVENT

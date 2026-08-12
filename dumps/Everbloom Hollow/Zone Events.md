@@ -40,22 +40,22 @@
 |      15 | 0x0192      |         402 |
 |      16 | 0x000F      |          15 |
 |      17 | 0x003C      |          60 |
-|      18 | 0x1CF3      |        7411 |
+|      18 | 0x1CF4      |        7412 |
 |      19 | 0x0AC8      |        2760 |
-|      20 | 0x1CF4      |        7412 |
+|      20 | 0x1CF5      |        7413 |
 |      21 | 0x0003      |           3 |
 |      22 | 0x005A      |          90 |
 |      23 | 0x03B3      |         947 |
-|      24 | 0x1CF5      |        7413 |
+|      24 | 0x1CF6      |        7414 |
 |      25 | 0x0584      |        1412 |
-|      26 | 0x1CF6      |        7414 |
-|      27 | 0x1CF7      |        7415 |
-|      28 | 0x1CF8      |        7416 |
+|      26 | 0x1CF7      |        7415 |
+|      27 | 0x1CF8      |        7416 |
+|      28 | 0x1CF9      |        7417 |
 |      29 | 0x0001      |           1 |
 
 ## String References
 
-- **7411**: An extremely sturdy wall of rock blocks your path...
+- **7412**: An extremely sturdy wall of rock blocks your path...
 
 ## Events
 
@@ -154,7 +154,7 @@
  17: 0x008D [0x1C] WAIT(15* ticks)
  18: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  19: 0x00A1 [0x1C] WAIT(60* ticks)
- 20: 0x00A4 [0x48] [System] [7411*]:
+ 20: 0x00A4 [0x48] [System] [7412*]:
     → "An extremely sturdy wall of rock blocks your path..."
  21: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -162,7 +162,7 @@
  24: 0x00B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s163" with entities [LocalPlayer, LocalPlayer], work=[402*, 0*]
  25: 0x00C9 [0x27] REQ_SET(priority=0x05, entity_id=Cait Sith Naoi (ID: 17129770/0x0105612A), tag_num=0x04)
  26: 0x00D0 [0x03] Work_Zone[2] = 2760*
- 27: 0x00D5 [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7412*]:
+ 27: 0x00D5 [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7413*]:
     → "Ack! Just when it seemed nothing would stop us! Even a dozen $0 detonated in unison wouldn't so much as leave a soot stain on the surface. Barely cause a scratch."
  28: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x00DD [0x2A] GET_REQ_LEVEL(level=5, entity_id=Cait Sith Naoi (ID: 17129770/0x0105612A))
@@ -173,14 +173,14 @@
  34: 0x0117 [0x27] REQ_SET(priority=0x05, entity_id=Cait Sith Naoi (ID: 17129770/0x0105612A), tag_num=0x02)
  35: 0x011E [0x79] LocalPlayer looks at Cait Sith Naoi (ID: 17129770/0x0105612A) (Basic look)
  36: 0x0128 [0x03] Work_Zone[2] = 947*
- 37: 0x012D [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7413*]:
+ 37: 0x012D [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7414*]:
     → "But, hrmmm? What have we here? Looks to be some kind of contraption for housing...$0?"
  38: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0135 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Cait Sith Naoi (ID: 17129770/0x0105612A))
  40: 0x013B [0x52] END_LOAD_SCHEDULER: End scheduler "s164" with entities [LocalPlayer, LocalPlayer], work=402*
  41: 0x014A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s165" with entities [LocalPlayer, LocalPlayer], work=[402*, 0*]
  42: 0x015B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ude0" with entities [Cait Sith Naoi (ID: 17129770/0x0105612A), Cait Sith Naoi (ID: 17129770/0x0105612A)], work=1412*
- 43: 0x016A [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7414*]:
+ 43: 0x016A [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7415*]:
     → "Ah! A memory returns to me! A recollection! Tales of abandoned quarries brimming with Goblin mining technology of ages past! I shan't bother you with the details, though it would make for good telling at a campfire."
  44: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0172 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ude1" with entities [Cait Sith Naoi (ID: 17129770/0x0105612A), Cait Sith Naoi (ID: 17129770/0x0105612A)], work=1412*
@@ -188,12 +188,12 @@
  47: 0x0190 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s166" with entities [LocalPlayer, LocalPlayer], work=[402*, 0*]
  48: 0x01A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Cait Sith Naoi (ID: 17129770/0x0105612A), Cait Sith Naoi (ID: 17129770/0x0105612A)], work=1412*
  49: 0x01B0 [0x03] Work_Zone[2] = 947*
- 50: 0x01B5 [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7415*]:
+ 50: 0x01B5 [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7416*]:
     → "Hmmm, a fuse extends from the contraption to a place beyond the wall. What would happen, I wonder, if we were to place $0 in it. Set us up a bomb."
  51: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01BD [0x52] END_LOAD_SCHEDULER: End scheduler "s166" with entities [LocalPlayer, LocalPlayer], work=402*
  53: 0x01CC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s167" with entities [LocalPlayer, LocalPlayer], work=[402*, 0*]
- 54: 0x01DD [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7416*]:
+ 54: 0x01DD [0x2B] Cait Sith Naoi (ID: 17129770/0x0105612A) [7417*]:
     → "Could it be that the fuse is connected to yet another detonation switch somewhere over yonder...?"
  55: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01E5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]

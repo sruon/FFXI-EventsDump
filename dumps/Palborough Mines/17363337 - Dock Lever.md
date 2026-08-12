@@ -22,18 +22,18 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA7      |        7335 |
+|       0 | 0x1CA8      |        7336 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1CA8      |        7336 |
+|       3 | 0x1CA9      |        7337 |
 |       4 | 0x0028      |          40 |
-|       5 | 0x1CA9      |        7337 |
+|       5 | 0x1CAA      |        7338 |
 
 ## String References
 
-- **7335**: Pull lever? [Yes./No.]
-- **7336**: The lever is stuck.
-- **7337**: Nothing happens... Too many people on board?
+- **7336**: Pull lever? [Yes./No.]
+- **7337**: The lever is stuck.
+- **7338**: Nothing happens... Too many people on board?
 
 ## Events
 
@@ -85,7 +85,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res0" with entities [LocalPlayer, LocalPlayer]
   1: 0x000E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res2" with entities [LocalPlayer, LocalPlayer]
   2: 0x001B [0x4A] LocalPlayer looks at Dock Lever (ID: 17363337/0x0108F189)
-  3: 0x0024 [0x24] CREATE_DIALOG(message_id=7335*, default_option=1*, option_flags=0*)
+  3: 0x0024 [0x24] CREATE_DIALOG(message_id=7336*, default_option=1*, option_flags=0*)
     → "Pull lever? [Yes./No.]"
   4: 0x002B [0x25] WAIT_DIALOG_SELECT()
   5: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003C
@@ -120,7 +120,7 @@ SUBROUTINE_004C:
 #### Opcodes
 
 ```
-  0: 0x004E [0x48] [System] [7336*]:
+  0: 0x004E [0x48] [System] [7337*]:
     → "The lever is stuck."
   1: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0052 [0x21] END_EVENT
@@ -149,7 +149,7 @@ SUBROUTINE_004C:
   0: 0x0054 [0x4C] EventEntity->StatusEvent = 8 // Open door
   1: 0x0055 [0x1C] WAIT(40* ticks)
   2: 0x0058 [0x4D] EventEntity->StatusEvent = 9 // Close door
-  3: 0x0059 [0x48] [System] [7337*]:
+  3: 0x0059 [0x48] [System] [7338*]:
     → "Nothing happens... Too many people on board?"
   4: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005D [0x21] END_EVENT

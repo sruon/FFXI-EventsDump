@@ -50,15 +50,15 @@
 |       5 | 0x000D      |          13 |
 |       6 | 0x3F9E1     |      260577 |
 |       7 | 0xFFF938DD  |  4294523101 |
-|       8 | 0x1D17      |        7447 |
-|       9 | 0x1D1C      |        7452 |
-|      10 | 0x1D21      |        7457 |
+|       8 | 0x1D18      |        7448 |
+|       9 | 0x1D1D      |        7453 |
+|      10 | 0x1D22      |        7458 |
 
 ## String References
 
-- **7447**: Mana Orbs are Cardians' souls!
-- **7452**: Or we will be forced to take your heart and soul instead!
-- **7457**: Affirmative! This is all of them!
+- **7448**: Mana Orbs are Cardians' souls!
+- **7453**: Or we will be forced to take your heart and soul instead!
+- **7458**: Affirmative! This is all of them!
 
 ## Events
 
@@ -585,7 +585,7 @@
 #### Opcodes
 
 ```
-  0: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  0: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Mana Orbs are Cardians' souls!"
   1: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x012F [0x00] END_REQSTACK()
@@ -610,7 +610,7 @@
 #### Opcodes
 
 ```
-  0: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  0: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Or we will be forced to take your heart and soul instead!"
   1: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0134 [0x00] END_REQSTACK()
@@ -635,7 +635,7 @@
 #### Opcodes
 
 ```
-  0: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+  0: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Affirmative! This is all of them!"
   1: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0139 [0x00] END_REQSTACK()

@@ -178,22 +178,22 @@
 |     105 | 0x6A9D6     |      436694 |
 |     106 | 0x001F      |          31 |
 |     107 | 0xFFFFFFFF  |  4294967295 |
-|     108 | 0x1EBC      |        7868 |
+|     108 | 0x1EBD      |        7869 |
 |     109 | 0x40000000  |  1073741824 |
 |     110 | 0x000C      |          12 |
 |     111 | 0x000F      |          15 |
 |     112 | 0x0010      |          16 |
 |     113 | 0x001D      |          29 |
 |     114 | 0x0015      |          21 |
-|     115 | 0x1EC9      |        7881 |
-|     116 | 0x1EA8      |        7848 |
-|     117 | 0x1EA9      |        7849 |
-|     118 | 0x1EB0      |        7856 |
-|     119 | 0x1EAB      |        7851 |
-|     120 | 0x1EAD      |        7853 |
+|     115 | 0x1ECA      |        7882 |
+|     116 | 0x1EA9      |        7849 |
+|     117 | 0x1EAA      |        7850 |
+|     118 | 0x1EB1      |        7857 |
+|     119 | 0x1EAC      |        7852 |
+|     120 | 0x1EAE      |        7854 |
 |     121 | 0x0356      |         854 |
 |     122 | 0x0103      |         259 |
-|     123 | 0x1EB9      |        7865 |
+|     123 | 0x1EBA      |        7866 |
 |     124 | 0x035F      |         863 |
 |     125 | 0x0360      |         864 |
 |     126 | 0x0361      |         865 |
@@ -202,7 +202,7 @@
 |     129 | 0x0364      |         868 |
 |     130 | 0x0365      |         869 |
 |     131 | 0x0367      |         871 |
-|     132 | 0x1EAA      |        7850 |
+|     132 | 0x1EAB      |        7851 |
 |     133 | 0x00C9      |         201 |
 |     134 | 0x002D      |          45 |
 |     135 | 0x00C8      |         200 |
@@ -229,15 +229,15 @@
 
 ## String References
 
-- **7848**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
-- **7849**: Proceed? [Yes./No.]
-- **7850**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
-- **7851**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
-- **7853**: You cannot enter at this time. Please wait a moment and try again.
-- **7856**: Your request for entry is being considered...
-- **7865**: Now permeating the mists surrounding the [fracture/obscured domain].
-- **7868**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
-- **7881**: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
+- **7849**: Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8.
+- **7850**: Proceed? [Yes./No.]
+- **7851**: Now entering [/a skirmish in ////an alluvion skirmish in /]$8.
+- **7852**: You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8.
+- **7854**: You cannot enter at this time. Please wait a moment and try again.
+- **7857**: Your request for entry is being considered...
+- **7866**: Now permeating the mists surrounding the [fracture/obscured domain].
+- **7869**: Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]
+- **7882**: Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?
 
 ## Events
 
@@ -550,7 +550,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0110:                   32 10  80 1F 00 11 80 12 80 13        2.........
-0120: 80 1F 01 1E 3A 72 10 01  1C 14 80 00              ....:r......    
+0120: 80 1F 01 1E 3E 72 10 01  1C 14 80 00              ....>r......    
 ```
 
 #### Opcodes
@@ -559,7 +559,7 @@
   0: 0x0116 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0119 [0x1F] MOVE_ENTITY: EventEntity moves to X=250.305*, Z=396.207*, Y=-0.250*
   2: 0x0121 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0123 [0x1E] EventEntity looks at Nashu (ID: 17855034/0x0110723A) and starts talking
+  3: 0x0123 [0x1E] EventEntity looks at Nashu (ID: 17855038/0x0110723E) and starts talking
   4: 0x0128 [0x1C] WAIT(30* ticks)
   5: 0x012B [0x00] END_REQSTACK()
 ```
@@ -578,7 +578,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0120:                                      32 10 80 1F              2...
-0130: 00 15 80 16 80 17 80 1F  01 1E 44 72 10 01 1C 14  ..........Dr....
+0130: 00 15 80 16 80 17 80 1F  01 1E 48 72 10 01 1C 14  ..........Hr....
 0140: 80 00                                             ..              
 ```
 
@@ -588,7 +588,7 @@
   0: 0x012C [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x012F [0x1F] MOVE_ENTITY: EventEntity moves to X=361.939*, Z=147.470*, Y=0.391*
   2: 0x0137 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0139 [0x1E] EventEntity looks at Alianne (ID: 17855044/0x01107244) and starts talking
+  3: 0x0139 [0x1E] EventEntity looks at Alianne (ID: 17855048/0x01107248) and starts talking
   4: 0x013E [0x1C] WAIT(30* ticks)
   5: 0x0141 [0x00] END_REQSTACK()
 ```
@@ -638,7 +638,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0160:       32 10 80 1F 00 1D  80 1E 80 1F 80 1F 01 1E    2.............
-0170: 46 72 10 01 1C 14 80 00                           Fr......        
+0170: 4A 72 10 01 1C 14 80 00                           Jr......        
 ```
 
 #### Opcodes
@@ -647,7 +647,7 @@
   0: 0x0162 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0165 [0x1F] MOVE_ENTITY: EventEntity moves to X=268.154*, Z=20.689*, Y=2.160*
   2: 0x016D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x016F [0x1E] EventEntity looks at Erfimia (ID: 17855046/0x01107246) and starts talking
+  3: 0x016F [0x1E] EventEntity looks at Erfimia (ID: 17855050/0x0110724A) and starts talking
   4: 0x0174 [0x1C] WAIT(30* ticks)
   5: 0x0177 [0x00] END_REQSTACK()
 ```
@@ -666,7 +666,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0170:                          32 10 80 1F 00 20 80 21          2.... .!
-0180: 80 22 80 1F 01 1E 46 72  10 01 1C 14 80 00        ."....Fr......  
+0180: 80 22 80 1F 01 1E 4A 72  10 01 1C 14 80 00        ."....Jr......  
 ```
 
 #### Opcodes
@@ -675,7 +675,7 @@
   0: 0x0178 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x017B [0x1F] MOVE_ENTITY: EventEntity moves to X=164.010*, Z=44.959*, Y=0.052*
   2: 0x0183 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0185 [0x1E] EventEntity looks at Erfimia (ID: 17855046/0x01107246) and starts talking
+  3: 0x0185 [0x1E] EventEntity looks at Erfimia (ID: 17855050/0x0110724A) and starts talking
   4: 0x018A [0x1C] WAIT(30* ticks)
   5: 0x018D [0x00] END_REQSTACK()
 ```
@@ -720,7 +720,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0190:                                      32 10 80 1F              2...
-01A0: 00 26 80 27 80 28 80 1F  01 1E 47 72 10 01 1C 14  .&.'.(....Gr....
+01A0: 00 26 80 27 80 28 80 1F  01 1E 4B 72 10 01 1C 14  .&.'.(....Kr....
 01B0: 80 00                                             ..              
 ```
 
@@ -730,7 +730,7 @@
   0: 0x019C [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x019F [0x1F] MOVE_ENTITY: EventEntity moves to X=-165.362*, Z=394.817*, Y=0.621*
   2: 0x01A7 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x01A9 [0x1E] EventEntity looks at Robertioux (ID: 17855047/0x01107247) and starts talking
+  3: 0x01A9 [0x1E] EventEntity looks at Robertioux (ID: 17855051/0x0110724B) and starts talking
   4: 0x01AE [0x1C] WAIT(30* ticks)
   5: 0x01B1 [0x00] END_REQSTACK()
 ```
@@ -1103,7 +1103,7 @@
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 02F0:                                            32 2D                2-
 0300: 80 1F 00 39 80 3A 80 3B  80 1F 01 6F 79 00 F8 FF  ...9.:.;...oy...
-0310: FF 7F 54 72 10 01 00                              ..Tr...         
+0310: FF 7F 58 72 10 01 00                              ..Xr...         
 ```
 
 #### Opcodes
@@ -1113,7 +1113,7 @@
   1: 0x0301 [0x1F] MOVE_ENTITY: EventEntity moves to X=-168.838*, Z=391.410*, Y=0.752*
   2: 0x0309 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x030B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x030C [0x79] EventEntity looks at Unnamed NPC (ID: 17855060/0x01107254) (Basic look)
+  4: 0x030C [0x79] EventEntity looks at Unnamed NPC (ID: 17855064/0x01107258) (Basic look)
   5: 0x0316 [0x00] END_REQSTACK()
 ```
 
@@ -1332,7 +1332,7 @@ SUBROUTINE_05F3:
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 05F0:             32 09 80 1F  00 4B 80 4C 80 4D 80 1F      2....K.L.M..
-0600: 01 6F 1E 64 72 10 01 00                           .o.dr...        
+0600: 01 6F 1E 68 72 10 01 00                           .o.hr...        
 ```
 
 #### Opcodes
@@ -1342,7 +1342,7 @@ SUBROUTINE_05F3:
   1: 0x05F7 [0x1F] MOVE_ENTITY: EventEntity moves to X=168.320*, Z=159.867*, Y=-0.260*
   2: 0x05FF [0x1F] MOVE_ENTITY: Update entity position (mode=1)
   3: 0x0601 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
-  4: 0x0602 [0x1E] EventEntity looks at Midras (ID: 17855076/0x01107264) and starts talking
+  4: 0x0602 [0x1E] EventEntity looks at Midras (ID: 17855080/0x01107268) and starts talking
   5: 0x0607 [0x00] END_REQSTACK()
 ```
 
@@ -1848,7 +1848,7 @@ SUBROUTINE_05F3:
   8: 0x0733 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=31*, target=ExtData[1]->WorkLocal[17], source=4294967295*)
   9: 0x073C [0x0F] ExtData[1]->WorkLocal[17] ^= ExtData[1]->WorkLocal[19]
  10: 0x0741 [0x10] ExtData[1]->WorkLocal[17] <<= 1*
- 11: 0x0746 [0x24] CREATE_DIALOG(message_id=7868*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
+ 11: 0x0746 [0x24] CREATE_DIALOG(message_id=7869*, default_option=0*, option_flags=ExtData[1]->WorkLocal[17])
     → "Enter which battlefield? [None./Endeavoring to Awaken./Endeavoring to Awaken./ /Behind the Sluices./Stonewalled./The Gates./Saved by the Bell./Quiescence./The Charlatan./Yggdrasil Beckons./Yggdrasil Beckons./Watery Grave./Mistress of Ceremonies./A Barrel of Laughs./Sinister Reign./The Ygnas Directive 6./Skirmishes./[Fractures/Obscured Domains]./Alluvion skirmishes./The Silent Forest./Wind of Eternity./Phantasmic Heroes.]"
  12: 0x074D [0x25] WAIT_DIALOG_SELECT()
  13: 0x074E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0760
@@ -1872,21 +1872,21 @@ SUBROUTINE_0796:
  27: 0x079E [0x9D] Work_Zone[2] = 0x0B9E[ExtData[1]->WorkLocal[18]] // Read WORD
  28: 0x07A6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
  29: 0x07AB [0x02] IF !(ExtData[1]->WorkLocal[18] == 21*) GOTO 0x07BA
- 30: 0x07B3 [0x48] [System] [7881*]:
+ 30: 0x07B3 [0x48] [System] [7882*]:
     → "Entering [/Skrimish: ////Alluvion Skirmish: /]$8. Proceed?"
  31: 0x07B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x07B7 [0x01] GOTO 0x07BE
- 33: 0x07BA [0x48] [System] [7848*]:
+ 33: 0x07BA [0x48] [System] [7849*]:
     → "Only party members present with you in this area will be transported to [/this skirmish in ////this alluvion skirmish in /]$8."
  34: 0x07BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_07BE:
- 35: 0x07BE [0x24] CREATE_DIALOG(message_id=7849*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
+ 35: 0x07BE [0x24] CREATE_DIALOG(message_id=7850*, default_option=ExtData[1]->WorkLocal[9], option_flags=0*)
     → "Proceed? [Yes./No.]"
  36: 0x07C5 [0x25] WAIT_DIALOG_SELECT()
  37: 0x07C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07DA
  38: 0x07CE [0x06] ExtData[1]->WorkLocal[9] = 0
- 39: 0x07D1 [0x48] [System] [7856*]:
+ 39: 0x07D1 [0x48] [System] [7857*]:
     → "Your request for entry is being considered..."
  40: 0x07D4 [0x1A] CALL_SUBROUTINE(address=0x0802)
  41: 0x07D7 [0x01] GOTO 0x07FD
@@ -1894,7 +1894,7 @@ SUBROUTINE_07BE:
  43: 0x07E2 [0x03] Work_Zone[1] = 1073741824*
  44: 0x07E7 [0x9D] Work_Zone[2] = 0x0B9E[ExtData[1]->WorkLocal[18]] // Read WORD
  45: 0x07EF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
- 46: 0x07F4 [0x48] [System] [7851*]:
+ 46: 0x07F4 [0x48] [System] [7852*]:
     → "You have chosen not to enter [/this skirmish in ////this alluvion skirmish in /]$8."
  47: 0x07F7 [0x05] ExtData[1]->WorkLocal[5] = 1
  48: 0x07FA [0x01] GOTO 0x07FD
@@ -1936,7 +1936,7 @@ SUBROUTINE_0833:
  74: 0x0867 [0x0B] ExtData[1]->WorkLocal[11]++
  75: 0x086A [0x02] IF !(ExtData[1]->WorkLocal[11] <= 5*) GOTO 0x087F
  76: 0x0872 [0x05] ExtData[1]->WorkLocal[10] = 1
- 77: 0x0875 [0x48] [System] [7853*]:
+ 77: 0x0875 [0x48] [System] [7854*]:
     → "You cannot enter at this time. Please wait a moment and try again."
  78: 0x0878 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0879 [0x1C] WAIT(60* ticks)
@@ -2010,75 +2010,75 @@ SUBROUTINE_08F4:
 141: 0x098B [0x02] IF !(ExtData[1]->WorkLocal[7] == 854*) GOTO 0x09A4
 142: 0x0993 [0x03] Work_Zone[2] = 259*
 143: 0x0998 [0x03] Work_Zone[3] = 1*
-144: 0x099D [0x48] [System] [7865*]:
+144: 0x099D [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 145: 0x09A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x09A1 [0x01] GOTO 0x0A8E
 147: 0x09A4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 863*) GOTO 0x09BD
 148: 0x09AC [0x03] Work_Zone[2] = 259*
 149: 0x09B1 [0x03] Work_Zone[3] = 1*
-150: 0x09B6 [0x48] [System] [7865*]:
+150: 0x09B6 [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 151: 0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x09BA [0x01] GOTO 0x0A8E
 153: 0x09BD [0x02] IF !(ExtData[1]->WorkLocal[7] == 864*) GOTO 0x09D6
 154: 0x09C5 [0x03] Work_Zone[2] = 259*
 155: 0x09CA [0x03] Work_Zone[3] = 1*
-156: 0x09CF [0x48] [System] [7865*]:
+156: 0x09CF [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 157: 0x09D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 158: 0x09D3 [0x01] GOTO 0x0A8E
 159: 0x09D6 [0x02] IF !(ExtData[1]->WorkLocal[7] == 865*) GOTO 0x09EF
 160: 0x09DE [0x03] Work_Zone[2] = 259*
 161: 0x09E3 [0x03] Work_Zone[3] = 1*
-162: 0x09E8 [0x48] [System] [7865*]:
+162: 0x09E8 [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 163: 0x09EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x09EC [0x01] GOTO 0x0A8E
 165: 0x09EF [0x02] IF !(ExtData[1]->WorkLocal[7] == 866*) GOTO 0x0A08
 166: 0x09F7 [0x03] Work_Zone[2] = 259*
 167: 0x09FC [0x03] Work_Zone[3] = 1*
-168: 0x0A01 [0x48] [System] [7865*]:
+168: 0x0A01 [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 169: 0x0A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0A05 [0x01] GOTO 0x0A8E
 171: 0x0A08 [0x02] IF !(ExtData[1]->WorkLocal[7] == 867*) GOTO 0x0A21
 172: 0x0A10 [0x03] Work_Zone[2] = 259*
 173: 0x0A15 [0x03] Work_Zone[3] = 1*
-174: 0x0A1A [0x48] [System] [7865*]:
+174: 0x0A1A [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 175: 0x0A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0A1E [0x01] GOTO 0x0A8E
 177: 0x0A21 [0x02] IF !(ExtData[1]->WorkLocal[7] == 868*) GOTO 0x0A3A
 178: 0x0A29 [0x03] Work_Zone[2] = 259*
 179: 0x0A2E [0x03] Work_Zone[3] = 1*
-180: 0x0A33 [0x48] [System] [7865*]:
+180: 0x0A33 [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 181: 0x0A36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x0A37 [0x01] GOTO 0x0A8E
 183: 0x0A3A [0x02] IF !(ExtData[1]->WorkLocal[7] == 869*) GOTO 0x0A53
 184: 0x0A42 [0x03] Work_Zone[2] = 259*
 185: 0x0A47 [0x03] Work_Zone[3] = 1*
-186: 0x0A4C [0x48] [System] [7865*]:
+186: 0x0A4C [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 187: 0x0A4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x0A50 [0x01] GOTO 0x0A8E
 189: 0x0A53 [0x02] IF !(ExtData[1]->WorkLocal[7] == 870*) GOTO 0x0A6C
 190: 0x0A5B [0x03] Work_Zone[2] = 259*
 191: 0x0A60 [0x03] Work_Zone[3] = 1*
-192: 0x0A65 [0x48] [System] [7865*]:
+192: 0x0A65 [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 193: 0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 194: 0x0A69 [0x01] GOTO 0x0A8E
 195: 0x0A6C [0x02] IF !(ExtData[1]->WorkLocal[7] == 871*) GOTO 0x0A85
 196: 0x0A74 [0x03] Work_Zone[2] = 259*
 197: 0x0A79 [0x03] Work_Zone[3] = 1*
-198: 0x0A7E [0x48] [System] [7865*]:
+198: 0x0A7E [0x48] [System] [7866*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 199: 0x0A81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0A82 [0x01] GOTO 0x0A8E
 201: 0x0A85 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
-202: 0x0A8A [0x48] [System] [7850*]:
+202: 0x0A8A [0x48] [System] [7851*]:
     → "Now entering [/a skirmish in ////an alluvion skirmish in /]$8."
 203: 0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2114,7 +2114,7 @@ SUBROUTINE_0A8E:
 232: 0x0B56 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 233: 0x0B58 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 234: 0x0B5A [0x05] ExtData[1]->WorkLocal[10] = 1
-235: 0x0B5D [0x48] [System] [7853*]:
+235: 0x0B5D [0x48] [System] [7854*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 236: 0x0B60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 237: 0x0B61 [0x1C] WAIT(60* ticks)

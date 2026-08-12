@@ -148,158 +148,158 @@
 |       3 | 0x016C      |         364 |
 |       4 | 0x0164      |         356 |
 |       5 | 0x001E      |          30 |
-|       6 | 0x1DAE      |        7598 |
-|       7 | 0x1DB7      |        7607 |
-|       8 | 0x1DB8      |        7608 |
-|       9 | 0x1DB5      |        7605 |
-|      10 | 0x1DB6      |        7606 |
-|      11 | 0x1DB9      |        7609 |
-|      12 | 0x1DCB      |        7627 |
-|      13 | 0x1DCC      |        7628 |
+|       6 | 0x1DAF      |        7599 |
+|       7 | 0x1DB8      |        7608 |
+|       8 | 0x1DB9      |        7609 |
+|       9 | 0x1DB6      |        7606 |
+|      10 | 0x1DB7      |        7607 |
+|      11 | 0x1DBA      |        7610 |
+|      12 | 0x1DCC      |        7628 |
+|      13 | 0x1DCD      |        7629 |
 |      14 | 0x00C9      |         201 |
 |      15 | 0x0000      |           0 |
-|      16 | 0x199B      |        6555 |
-|      17 | 0x21EF      |        8687 |
-|      18 | 0x1DC3      |        7619 |
-|      19 | 0x1DC4      |        7620 |
-|      20 | 0x1DC5      |        7621 |
-|      21 | 0x1DC6      |        7622 |
-|      22 | 0x1DD2      |        7634 |
+|      16 | 0x199C      |        6556 |
+|      17 | 0x21F0      |        8688 |
+|      18 | 0x1DC4      |        7620 |
+|      19 | 0x1DC5      |        7621 |
+|      20 | 0x1DC6      |        7622 |
+|      21 | 0x1DC7      |        7623 |
+|      22 | 0x1DD3      |        7635 |
 |      23 | 0x0001      |           1 |
 |      24 | 0x0002      |           2 |
-|      25 | 0x1DCD      |        7629 |
-|      26 | 0x1DCE      |        7630 |
-|      27 | 0x1DCF      |        7631 |
-|      28 | 0x1DD0      |        7632 |
-|      29 | 0x1DD1      |        7633 |
-|      30 | 0x1DD3      |        7635 |
-|      31 | 0x1DD4      |        7636 |
-|      32 | 0x1DD5      |        7637 |
-|      33 | 0x1DD6      |        7638 |
-|      34 | 0x1DD7      |        7639 |
-|      35 | 0x1DD8      |        7640 |
-|      36 | 0x1DDD      |        7645 |
-|      37 | 0x1DDE      |        7646 |
-|      38 | 0x20FE      |        8446 |
+|      25 | 0x1DCE      |        7630 |
+|      26 | 0x1DCF      |        7631 |
+|      27 | 0x1DD0      |        7632 |
+|      28 | 0x1DD1      |        7633 |
+|      29 | 0x1DD2      |        7634 |
+|      30 | 0x1DD4      |        7636 |
+|      31 | 0x1DD5      |        7637 |
+|      32 | 0x1DD6      |        7638 |
+|      33 | 0x1DD7      |        7639 |
+|      34 | 0x1DD8      |        7640 |
+|      35 | 0x1DD9      |        7641 |
+|      36 | 0x1DDE      |        7646 |
+|      37 | 0x1DDF      |        7647 |
+|      38 | 0x20FF      |        8447 |
 |      39 | 0x00C8      |         200 |
 |      40 | 0x003C      |          60 |
 |      41 | 0x0003      |           3 |
 |      42 | 0x008D      |         141 |
-|      43 | 0x1E99      |        7833 |
-|      44 | 0x1E95      |        7829 |
-|      45 | 0x1E96      |        7830 |
-|      46 | 0x1E97      |        7831 |
-|      47 | 0x1E98      |        7832 |
-|      48 | 0x1E9A      |        7834 |
-|      49 | 0x1E9B      |        7835 |
-|      50 | 0x1E9C      |        7836 |
-|      51 | 0x1E9D      |        7837 |
-|      52 | 0x1E9E      |        7838 |
-|      53 | 0x1EA4      |        7844 |
-|      54 | 0x1EA5      |        7845 |
-|      55 | 0x1EA6      |        7846 |
-|      56 | 0x1EA7      |        7847 |
-|      57 | 0x1EAA      |        7850 |
+|      43 | 0x1E9A      |        7834 |
+|      44 | 0x1E96      |        7830 |
+|      45 | 0x1E97      |        7831 |
+|      46 | 0x1E98      |        7832 |
+|      47 | 0x1E99      |        7833 |
+|      48 | 0x1E9B      |        7835 |
+|      49 | 0x1E9C      |        7836 |
+|      50 | 0x1E9D      |        7837 |
+|      51 | 0x1E9E      |        7838 |
+|      52 | 0x1E9F      |        7839 |
+|      53 | 0x1EA5      |        7845 |
+|      54 | 0x1EA6      |        7846 |
+|      55 | 0x1EA7      |        7847 |
+|      56 | 0x1EA8      |        7848 |
+|      57 | 0x1EAB      |        7851 |
 |      58 | 0x0064      |         100 |
 |      59 | 0x00A3      |         163 |
 |      60 | 0x0005      |           5 |
 |      61 | 0x0006      |           6 |
 |      62 | 0x0097      |         151 |
-|      63 | 0x2278      |        8824 |
-|      64 | 0x2279      |        8825 |
-|      65 | 0x227A      |        8826 |
-|      66 | 0x227B      |        8827 |
-|      67 | 0x227C      |        8828 |
-|      68 | 0x227F      |        8831 |
-|      69 | 0x2280      |        8832 |
-|      70 | 0x2284      |        8836 |
-|      71 | 0x2285      |        8837 |
+|      63 | 0x2279      |        8825 |
+|      64 | 0x227A      |        8826 |
+|      65 | 0x227B      |        8827 |
+|      66 | 0x227C      |        8828 |
+|      67 | 0x227D      |        8829 |
+|      68 | 0x2280      |        8832 |
+|      69 | 0x2281      |        8833 |
+|      70 | 0x2285      |        8837 |
+|      71 | 0x2286      |        8838 |
 |      72 | 0x007F      |         127 |
-|      73 | 0x2288      |        8840 |
-|      74 | 0x2289      |        8841 |
-|      75 | 0x228E      |        8846 |
+|      73 | 0x2289      |        8841 |
+|      74 | 0x228A      |        8842 |
+|      75 | 0x228F      |        8847 |
 |      76 | 0x0008      |           8 |
 |      77 | 0x0BB8      |        3000 |
-|      78 | 0x2298      |        8856 |
-|      79 | 0x229C      |        8860 |
+|      78 | 0x2299      |        8857 |
+|      79 | 0x229D      |        8861 |
 |      80 | 0x048F      |        1167 |
-|      81 | 0x229E      |        8862 |
-|      82 | 0x229F      |        8863 |
-|      83 | 0x2286      |        8838 |
-|      84 | 0x2287      |        8839 |
-|      85 | 0x228A      |        8842 |
-|      86 | 0x228B      |        8843 |
-|      87 | 0x228C      |        8844 |
-|      88 | 0x228D      |        8845 |
-|      89 | 0x228F      |        8847 |
-|      90 | 0x2290      |        8848 |
-|      91 | 0x2291      |        8849 |
-|      92 | 0x2292      |        8850 |
-|      93 | 0x2293      |        8851 |
-|      94 | 0x2294      |        8852 |
-|      95 | 0x2295      |        8853 |
-|      96 | 0x2296      |        8854 |
-|      97 | 0x2297      |        8855 |
-|      98 | 0x2299      |        8857 |
-|      99 | 0x229A      |        8858 |
-|     100 | 0x229B      |        8859 |
-|     101 | 0x229D      |        8861 |
-|     102 | 0x22A0      |        8864 |
-|     103 | 0x22A1      |        8865 |
-|     104 | 0x22A2      |        8866 |
+|      81 | 0x229F      |        8863 |
+|      82 | 0x22A0      |        8864 |
+|      83 | 0x2287      |        8839 |
+|      84 | 0x2288      |        8840 |
+|      85 | 0x228B      |        8843 |
+|      86 | 0x228C      |        8844 |
+|      87 | 0x228D      |        8845 |
+|      88 | 0x228E      |        8846 |
+|      89 | 0x2290      |        8848 |
+|      90 | 0x2291      |        8849 |
+|      91 | 0x2292      |        8850 |
+|      92 | 0x2293      |        8851 |
+|      93 | 0x2294      |        8852 |
+|      94 | 0x2295      |        8853 |
+|      95 | 0x2296      |        8854 |
+|      96 | 0x2297      |        8855 |
+|      97 | 0x2298      |        8856 |
+|      98 | 0x229A      |        8858 |
+|      99 | 0x229B      |        8859 |
+|     100 | 0x229C      |        8860 |
+|     101 | 0x229E      |        8862 |
+|     102 | 0x22A1      |        8865 |
+|     103 | 0x22A2      |        8866 |
+|     104 | 0x22A3      |        8867 |
 |     105 | 0x0400      |        1024 |
-|     106 | 0x22A7      |        8871 |
-|     107 | 0x22A8      |        8872 |
-|     108 | 0x22A9      |        8873 |
-|     109 | 0x22AA      |        8874 |
-|     110 | 0x22AB      |        8875 |
-|     111 | 0x22B7      |        8887 |
-|     112 | 0x22B8      |        8888 |
-|     113 | 0x22AE      |        8878 |
-|     114 | 0x22AF      |        8879 |
-|     115 | 0x22B0      |        8880 |
-|     116 | 0x22B1      |        8881 |
-|     117 | 0x22B2      |        8882 |
-|     118 | 0x22B3      |        8883 |
-|     119 | 0x22B4      |        8884 |
-|     120 | 0x22B5      |        8885 |
-|     121 | 0x22B6      |        8886 |
-|     122 | 0x22BB      |        8891 |
-|     123 | 0x22BC      |        8892 |
-|     124 | 0x22BD      |        8893 |
-|     125 | 0x22BE      |        8894 |
-|     126 | 0x22BF      |        8895 |
-|     127 | 0x22C0      |        8896 |
-|     128 | 0x22C1      |        8897 |
-|     129 | 0x22C2      |        8898 |
+|     106 | 0x22A8      |        8872 |
+|     107 | 0x22A9      |        8873 |
+|     108 | 0x22AA      |        8874 |
+|     109 | 0x22AB      |        8875 |
+|     110 | 0x22AC      |        8876 |
+|     111 | 0x22B8      |        8888 |
+|     112 | 0x22B9      |        8889 |
+|     113 | 0x22AF      |        8879 |
+|     114 | 0x22B0      |        8880 |
+|     115 | 0x22B1      |        8881 |
+|     116 | 0x22B2      |        8882 |
+|     117 | 0x22B3      |        8883 |
+|     118 | 0x22B4      |        8884 |
+|     119 | 0x22B5      |        8885 |
+|     120 | 0x22B6      |        8886 |
+|     121 | 0x22B7      |        8887 |
+|     122 | 0x22BC      |        8892 |
+|     123 | 0x22BD      |        8893 |
+|     124 | 0x22BE      |        8894 |
+|     125 | 0x22BF      |        8895 |
+|     126 | 0x22C0      |        8896 |
+|     127 | 0x22C1      |        8897 |
+|     128 | 0x22C2      |        8898 |
+|     129 | 0x22C3      |        8899 |
 |     130 | 0x00AA      |         170 |
-|     131 | 0x22CA      |        8906 |
-|     132 | 0x22CB      |        8907 |
+|     131 | 0x22CB      |        8907 |
+|     132 | 0x22CC      |        8908 |
 |     133 | 0x0004      |           4 |
-|     134 | 0x22C7      |        8903 |
-|     135 | 0x22C8      |        8904 |
-|     136 | 0x22C9      |        8905 |
+|     134 | 0x22C8      |        8904 |
+|     135 | 0x22C9      |        8905 |
+|     136 | 0x22CA      |        8906 |
 |     137 | 0x0007      |           7 |
-|     138 | 0x22CC      |        8908 |
-|     139 | 0x22CD      |        8909 |
-|     140 | 0x22CE      |        8910 |
-|     141 | 0x22CF      |        8911 |
-|     142 | 0x22D0      |        8912 |
-|     143 | 0x22D1      |        8913 |
-|     144 | 0x22D2      |        8914 |
-|     145 | 0x22D5      |        8917 |
-|     146 | 0x255A      |        9562 |
-|     147 | 0x255B      |        9563 |
-|     148 | 0x255C      |        9564 |
-|     149 | 0x28B7      |       10423 |
-|     150 | 0x28BB      |       10427 |
-|     151 | 0x28BC      |       10428 |
-|     152 | 0x28BD      |       10429 |
+|     138 | 0x22CD      |        8909 |
+|     139 | 0x22CE      |        8910 |
+|     140 | 0x22CF      |        8911 |
+|     141 | 0x22D0      |        8912 |
+|     142 | 0x22D1      |        8913 |
+|     143 | 0x22D2      |        8914 |
+|     144 | 0x22D3      |        8915 |
+|     145 | 0x22D6      |        8918 |
+|     146 | 0x255B      |        9563 |
+|     147 | 0x255C      |        9564 |
+|     148 | 0x255D      |        9565 |
+|     149 | 0x28B8      |       10424 |
+|     150 | 0x28BC      |       10428 |
+|     151 | 0x28BD      |       10429 |
+|     152 | 0x28BE      |       10430 |
 |     153 | 0x09C1      |        2497 |
-|     154 | 0x36F4      |       14068 |
-|     155 | 0x36F5      |       14069 |
-|     156 | 0x36F6      |       14070 |
-|     157 | 0x36F7      |       14071 |
+|     154 | 0x36F5      |       14069 |
+|     155 | 0x36F6      |       14070 |
+|     156 | 0x36F7      |       14071 |
+|     157 | 0x36F8      |       14072 |
 |     158 | 0x001B      |          27 |
 |     159 | 0xF42D      |       62509 |
 |     160 | 0x3A94B     |      239947 |
@@ -307,30 +307,30 @@
 |     162 | 0x0017      |          23 |
 |     163 | 0x0274      |         628 |
 |     164 | 0x000F      |          15 |
-|     165 | 0x36F8      |       14072 |
-|     166 | 0x36F9      |       14073 |
-|     167 | 0x36FB      |       14075 |
-|     168 | 0x36FC      |       14076 |
-|     169 | 0x36FD      |       14077 |
-|     170 | 0x36FE      |       14078 |
-|     171 | 0x36FF      |       14079 |
-|     172 | 0x3700      |       14080 |
-|     173 | 0x3701      |       14081 |
+|     165 | 0x36F9      |       14073 |
+|     166 | 0x36FA      |       14074 |
+|     167 | 0x36FC      |       14076 |
+|     168 | 0x36FD      |       14077 |
+|     169 | 0x36FE      |       14078 |
+|     170 | 0x36FF      |       14079 |
+|     171 | 0x3700      |       14080 |
+|     172 | 0x3701      |       14081 |
+|     173 | 0x3702      |       14082 |
 |     174 | 0x0032      |          50 |
-|     175 | 0x3702      |       14082 |
-|     176 | 0x3703      |       14083 |
-|     177 | 0x3704      |       14084 |
-|     178 | 0x3705      |       14085 |
-|     179 | 0x3706      |       14086 |
-|     180 | 0x3707      |       14087 |
-|     181 | 0x3708      |       14088 |
-|     182 | 0x3709      |       14089 |
-|     183 | 0x370A      |       14090 |
-|     184 | 0x370B      |       14091 |
-|     185 | 0x370C      |       14092 |
-|     186 | 0x370D      |       14093 |
-|     187 | 0x370E      |       14094 |
-|     188 | 0x370F      |       14095 |
+|     175 | 0x3703      |       14083 |
+|     176 | 0x3704      |       14084 |
+|     177 | 0x3705      |       14085 |
+|     178 | 0x3706      |       14086 |
+|     179 | 0x3707      |       14087 |
+|     180 | 0x3708      |       14088 |
+|     181 | 0x3709      |       14089 |
+|     182 | 0x370A      |       14090 |
+|     183 | 0x370B      |       14091 |
+|     184 | 0x370C      |       14092 |
+|     185 | 0x370D      |       14093 |
+|     186 | 0x370E      |       14094 |
+|     187 | 0x370F      |       14095 |
+|     188 | 0x3710      |       14096 |
 |     189 | 0x00AE      |         174 |
 |     190 | 0x0096      |         150 |
 |     191 | 0x0078      |         120 |
@@ -338,165 +338,165 @@
 |     193 | 0x3AFEE     |      241646 |
 |     194 | 0x0062      |          98 |
 |     195 | 0x00B1      |         177 |
-|     196 | 0x3710      |       14096 |
+|     196 | 0x3711      |       14097 |
 |     197 | 0x0015      |          21 |
 |     198 | 0x005A      |          90 |
-|     199 | 0x3711      |       14097 |
-|     200 | 0x3712      |       14098 |
-|     201 | 0x36FA      |       14074 |
+|     199 | 0x3712      |       14098 |
+|     200 | 0x3713      |       14099 |
+|     201 | 0x36FB      |       14075 |
 
 ## String References
 
-- **6555**: Obtained $0 gil.
-- **7598**: Can't you see I'm busy now? Give a girl a little brrreathing room, huh?
-- **7605**: So, who do you think you arrre? You want to crrrawl up to me, do you?
-- **7606**: Well, if you bring me a little something as a sign of your desire to be my frrriend, I might just considerrr the possibility...
-- **7607**: Haven't I seen you somewhere beforrre? Weren't you the one running with those pack of brrrats from the port area?
-- **7608**: So you've come to apologize, have you? Well, you had better bring me a little something to show your desire to be my frrriend! Then I'll consider whether to forrrgive you or not...
-- **7609**: Well, if you want to be all chummy with me, you had better bring me a token offerrring firrrst. I'll be waiting... Hah!
-- **7619**: Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag.
-- **7620**: Well, anyway, I'll accept these as a token of your esteem. And if you happen by any more of these, then give them to me, and I'll make it worrrth your while. Farewell now.
-- **7621**: Just 'cause I accepted your token of esteem doesn't mean you can get away with murderrr!
-- **7622**: You have to do things my way if you don't want me getting all catty on you! Now, goodbye and ta-ta!
-- **7627**: Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag.
-- **7628**: Well, anyway, apology accepted. Just be more careful next time! And if you happen by any more of these, then hand them to me, and I'll make it worrrth your while. Farewell now.
-- **7629**: Judging by its feel, I'd swear this is a prrrecious stone of some type, but I seem to be losing my instinct on this one...
-- **7630**: Grrr... Who do you think you are? You shouldn't go sneaking around people's homes...you might be mistaken as a burglar!
-- **7631**: But I'll let you off this time...that is, if you can tell me what this stone is!
-- **7632**: As farrr as I can tell, it looks just like a plain rock, but it may be some kind of ore or something. I wonderrr...
-- **7633**: Hey, that's it...! I have a little job for you! Carrre to go to the Goldsmiths' Guild in Bastok and ask them what in Vana'diel this is?
-- **7634**: Agree to help? [Accept./Decline.]
-- **7635**: Neverrr mind. I'll just throw this at...I mean, to...the kids who follow me around.
-- **7636**: If it isn't worth much, then go ahead and sell it to the Goldsmiths' Guild. Just make sure you bring the prrroceeds back to me, okay?
-- **7637**: Head over to the Goldsmiths' Guild in Bastok and ask them what that stone is.
-- **7638**: If it isn't worrrth much, then sell it to the Goldsmiths' Guild. Just be sure you bring the proceeds from the sale back to me, okay?
-- **7639**: So, did you make it to the Goldsmiths' Guild in Bastok? Good for you! And how much did you get for that lump of rrrock?
-- **7640**: Oh...You didn't sell it? Well, go back to Bastok and sell it, then. Now, get going!
-- **7645**: Ah! Don't tell me you sold off my rock for that dismal sum!
-- **7646**: Grrr... If you hadn't sold it off, we could have received a bigger reward from that silly traveler for finding it... Oh well... It's no longer worth my bother.
-- **7829**: You want to know if I have a "restrrricted book" in my possession, do you?
-- **7830**: Where in Vana'diel did you hearrr that? You can never be too carrreful, you know.
-- **7831**: Okay, I'll let you in on it. You're a second rank adventurer, arrren't you? Then allow me to ask you this little favor I have firrrst...
-- **7832**: If you scratch my back, I'll scrrratch yours...so to speak. Do what I ask and I'll let you check the book I found. How about it, then?
-- **7833**: Hear her favor? [Listen./Refuse.]
-- **7834**: If that's how it is, then farrrewell, sucker.
-- **7835**: Did you know that up in the Tahrongi Canyon, there is a serrries of caves known as the Maze of Shakhrami?
-- **7836**: If you examine the rocks in those caves with this $3 harrrd enough, you should be able to find $6. I want you to brrring me one. Happy hunting!
-- **7837**: In the Tahrongi Canyon, there is a serrries of caves called the Maze of Shakhrami.
-- **7838**: If you examine the rocks in those caves with that $3 you have therrre, you should be able to find $6. I want you to brrring me one. No coral, no deal!
-- **7844**: So, you came thrrrough with it? Here, I'll give you this key. We'll make the trrransaction at my hideout, deep in the Horutoto Ruins.
-- **7845**: You go on ahead. I'll catch up with you therrre once I've finished up herrre!
-- **7846**: We'll carry out our little trrransaction at my hideout, deep in the Horutoto Ruins.
-- **7847**: You go ahead. I'll catch up with you therrre!
-- **7850**: I can't stand the sight of you. Get out of herrre, and don't show yourrr face to me any time soon.
-- **8446**: Can't you see I'm busy now? Give a girl a little brrreathing room, huh?
-- **8687**: Oh, what a cleverrr little kitten you are. Herrre, I'll give you some pocket money from my kitty.
-- **8824**: I was looking for you. It seems like you've been prrracticing to become a master thief.
-- **8825**: Usually I don't mingle with my competition, but the Tenshodo has put out a call for able-bodied thieves.
-- **8826**: The Tenshodo came to us, so don't even think of turning down their offer.
-- **8827**: Well, I'll see you in Jeuno! As those little wizards say, ta-taru!
-- **8828**: I'll see you at the Tenshodo headquarters in Jeuno.
-- **8831**: You say you've already met up with the rrremains of Atarefaunet's band? Did they tell you anything?
-- **8832**: The guy I talked to was acting like he was so much better than us. He sure rrrubbed my fur the wrrrong way.
-- **8836**: The weapon you got... What's it like?
-- **8837**: Getting such a fine weapon for such a cakewalk job... It's almost like stealing!
-- **8838**: Ah, I've been looking for you. You know how we got those papers from the Tenshodo and delivered them individually?
-- **8839**: Did you check the signature you got from the Atarefaunet member before giving the papers to Vauderame?
-- **8841**: Did you see the signature? [Yes./No.]
-- **8842**: Are you rrreally a thief? Un-be-liev-able!!
-- **8843**: Let me tell you, then. The signature you got was a "V."
-- **8844**: How do I know, you ask? I can tell what's written on a piece of paper just by touching it.
-- **8845**: Ah! That's my little thief! ...So, what was the letter?
-- **8846**: What was the signature? [T/A/V/I...forget.]
-- **8847**: Rrright. The signature you got was a "V."
-- **8848**: But the prrroblem is, the initial you got doesn't match the initial of the member's name, rrright?
-- **8849**: The signature that I got didn't match either.
-- **8850**: This didn't happen to only you and me. I also asked Esca of San d'Oria and Nbu Latteh of Bastok, and it was the same with them.
-- **8851**: Doesn't all this seem just a little bit fishy? Doesn't it get your whiskers twitching?
-- **8852**: After that task, I did some digging on Atarefaunet's band. It seems that the treasure from the last big heist they pulled off has yet to be found.
-- **8853**: The way I see it, those signatures were some sort of code. To contact the rrremaining members of Atarefaunet's band after all this time just doesn't make sense otherwise.
-- **8854**: Vauderame of the Tenshodo is searching for that treasure. So he threatens Atarefaunet's cutthroats, and collects the code letters...
-- **8855**: I'm gonna collect the signatures from the other six members. Will you help me?
-- **8856**: Help out? [Where do I sign?/I'll keep my paws out of this one...]
-- **8857**: Scaredy-cat! You'll never become a world-famous thief at this rate...
-- **8858**: Are you up for it?
-- **8859**: Okay, take these. I made copies of the $3 you rrreceived before. Use them in the same way to get signatures from those brrrigands.
-- **8861**: The last obstacle is finding the members' hideouts... At the moment, we know the location of two of the bandits, so why don't you go pay them a visit?
-- **8864**: First things first! Get ahold of those signatures. Oh, and by the way, don't even think of drrropping this little errand halfway through...
-- **8865**: The location of the hideouts are wrrritten on the $3, right?
-- **8866**: Find the hideouts, and get those signatures. Go on, shoo!
-- **8871**: Did you get those signatures? I have the last two rrright here.
-- **8872**: Okay, eight letters... Let's put them together... V, Z, A, N, A, T, A, I... @
-- **8873**: Hmm... If I put this here... Umm...
-- **8874**: Huh? You still here? Here, take your loot and scoot. I'll let you know when I figure this out. Come and see me later.
+- **6556**: Obtained $0 gil.
+- **7599**: Can't you see I'm busy now? Give a girl a little brrreathing room, huh?
+- **7606**: So, who do you think you arrre? You want to crrrawl up to me, do you?
+- **7607**: Well, if you bring me a little something as a sign of your desire to be my frrriend, I might just considerrr the possibility...
+- **7608**: Haven't I seen you somewhere beforrre? Weren't you the one running with those pack of brrrats from the port area?
+- **7609**: So you've come to apologize, have you? Well, you had better bring me a little something to show your desire to be my frrriend! Then I'll consider whether to forrrgive you or not...
+- **7610**: Well, if you want to be all chummy with me, you had better bring me a token offerrring firrrst. I'll be waiting... Hah!
+- **7620**: Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag.
+- **7621**: Well, anyway, I'll accept these as a token of your esteem. And if you happen by any more of these, then give them to me, and I'll make it worrrth your while. Farewell now.
+- **7622**: Just 'cause I accepted your token of esteem doesn't mean you can get away with murderrr!
+- **7623**: You have to do things my way if you don't want me getting all catty on you! Now, goodbye and ta-ta!
+- **7628**: Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag.
+- **7629**: Well, anyway, apology accepted. Just be more careful next time! And if you happen by any more of these, then hand them to me, and I'll make it worrrth your while. Farewell now.
+- **7630**: Judging by its feel, I'd swear this is a prrrecious stone of some type, but I seem to be losing my instinct on this one...
+- **7631**: Grrr... Who do you think you are? You shouldn't go sneaking around people's homes...you might be mistaken as a burglar!
+- **7632**: But I'll let you off this time...that is, if you can tell me what this stone is!
+- **7633**: As farrr as I can tell, it looks just like a plain rock, but it may be some kind of ore or something. I wonderrr...
+- **7634**: Hey, that's it...! I have a little job for you! Carrre to go to the Goldsmiths' Guild in Bastok and ask them what in Vana'diel this is?
+- **7635**: Agree to help? [Accept./Decline.]
+- **7636**: Neverrr mind. I'll just throw this at...I mean, to...the kids who follow me around.
+- **7637**: If it isn't worth much, then go ahead and sell it to the Goldsmiths' Guild. Just make sure you bring the prrroceeds back to me, okay?
+- **7638**: Head over to the Goldsmiths' Guild in Bastok and ask them what that stone is.
+- **7639**: If it isn't worrrth much, then sell it to the Goldsmiths' Guild. Just be sure you bring the proceeds from the sale back to me, okay?
+- **7640**: So, did you make it to the Goldsmiths' Guild in Bastok? Good for you! And how much did you get for that lump of rrrock?
+- **7641**: Oh...You didn't sell it? Well, go back to Bastok and sell it, then. Now, get going!
+- **7646**: Ah! Don't tell me you sold off my rock for that dismal sum!
+- **7647**: Grrr... If you hadn't sold it off, we could have received a bigger reward from that silly traveler for finding it... Oh well... It's no longer worth my bother.
+- **7830**: You want to know if I have a "restrrricted book" in my possession, do you?
+- **7831**: Where in Vana'diel did you hearrr that? You can never be too carrreful, you know.
+- **7832**: Okay, I'll let you in on it. You're a second rank adventurer, arrren't you? Then allow me to ask you this little favor I have firrrst...
+- **7833**: If you scratch my back, I'll scrrratch yours...so to speak. Do what I ask and I'll let you check the book I found. How about it, then?
+- **7834**: Hear her favor? [Listen./Refuse.]
+- **7835**: If that's how it is, then farrrewell, sucker.
+- **7836**: Did you know that up in the Tahrongi Canyon, there is a serrries of caves known as the Maze of Shakhrami?
+- **7837**: If you examine the rocks in those caves with this $3 harrrd enough, you should be able to find $6. I want you to brrring me one. Happy hunting!
+- **7838**: In the Tahrongi Canyon, there is a serrries of caves called the Maze of Shakhrami.
+- **7839**: If you examine the rocks in those caves with that $3 you have therrre, you should be able to find $6. I want you to brrring me one. No coral, no deal!
+- **7845**: So, you came thrrrough with it? Here, I'll give you this key. We'll make the trrransaction at my hideout, deep in the Horutoto Ruins.
+- **7846**: You go on ahead. I'll catch up with you therrre once I've finished up herrre!
+- **7847**: We'll carry out our little trrransaction at my hideout, deep in the Horutoto Ruins.
+- **7848**: You go ahead. I'll catch up with you therrre!
+- **7851**: I can't stand the sight of you. Get out of herrre, and don't show yourrr face to me any time soon.
+- **8447**: Can't you see I'm busy now? Give a girl a little brrreathing room, huh?
+- **8688**: Oh, what a cleverrr little kitten you are. Herrre, I'll give you some pocket money from my kitty.
+- **8825**: I was looking for you. It seems like you've been prrracticing to become a master thief.
+- **8826**: Usually I don't mingle with my competition, but the Tenshodo has put out a call for able-bodied thieves.
+- **8827**: The Tenshodo came to us, so don't even think of turning down their offer.
+- **8828**: Well, I'll see you in Jeuno! As those little wizards say, ta-taru!
+- **8829**: I'll see you at the Tenshodo headquarters in Jeuno.
+- **8832**: You say you've already met up with the rrremains of Atarefaunet's band? Did they tell you anything?
+- **8833**: The guy I talked to was acting like he was so much better than us. He sure rrrubbed my fur the wrrrong way.
+- **8837**: The weapon you got... What's it like?
+- **8838**: Getting such a fine weapon for such a cakewalk job... It's almost like stealing!
+- **8839**: Ah, I've been looking for you. You know how we got those papers from the Tenshodo and delivered them individually?
+- **8840**: Did you check the signature you got from the Atarefaunet member before giving the papers to Vauderame?
+- **8842**: Did you see the signature? [Yes./No.]
+- **8843**: Are you rrreally a thief? Un-be-liev-able!!
+- **8844**: Let me tell you, then. The signature you got was a "V."
+- **8845**: How do I know, you ask? I can tell what's written on a piece of paper just by touching it.
+- **8846**: Ah! That's my little thief! ...So, what was the letter?
+- **8847**: What was the signature? [T/A/V/I...forget.]
+- **8848**: Rrright. The signature you got was a "V."
+- **8849**: But the prrroblem is, the initial you got doesn't match the initial of the member's name, rrright?
+- **8850**: The signature that I got didn't match either.
+- **8851**: This didn't happen to only you and me. I also asked Esca of San d'Oria and Nbu Latteh of Bastok, and it was the same with them.
+- **8852**: Doesn't all this seem just a little bit fishy? Doesn't it get your whiskers twitching?
+- **8853**: After that task, I did some digging on Atarefaunet's band. It seems that the treasure from the last big heist they pulled off has yet to be found.
+- **8854**: The way I see it, those signatures were some sort of code. To contact the rrremaining members of Atarefaunet's band after all this time just doesn't make sense otherwise.
+- **8855**: Vauderame of the Tenshodo is searching for that treasure. So he threatens Atarefaunet's cutthroats, and collects the code letters...
+- **8856**: I'm gonna collect the signatures from the other six members. Will you help me?
+- **8857**: Help out? [Where do I sign?/I'll keep my paws out of this one...]
+- **8858**: Scaredy-cat! You'll never become a world-famous thief at this rate...
+- **8859**: Are you up for it?
+- **8860**: Okay, take these. I made copies of the $3 you rrreceived before. Use them in the same way to get signatures from those brrrigands.
+- **8862**: The last obstacle is finding the members' hideouts... At the moment, we know the location of two of the bandits, so why don't you go pay them a visit?
+- **8865**: First things first! Get ahold of those signatures. Oh, and by the way, don't even think of drrropping this little errand halfway through...
+- **8866**: The location of the hideouts are wrrritten on the $3, right?
+- **8867**: Find the hideouts, and get those signatures. Go on, shoo!
+- **8872**: Did you get those signatures? I have the last two rrright here.
+- **8873**: Okay, eight letters... Let's put them together... V, Z, A, N, A, T, A, I... @
+- **8874**: Hmm... If I put this here... Umm...
 - **8875**: Huh? You still here? Here, take your loot and scoot. I'll let you know when I figure this out. Come and see me later.
-- **8878**: I finally figured out the code. All those letters we got from the Atarefaunet band...I know what they mean.
-- **8879**: When I rrrearranged the order of the letters, I came out with "Tavnazia."
-- **8880**: Tavnazia... In other words, the Tavnazian Marquisate. A nation to the west that was obliterated by the beastmen in the Great War.
-- **8881**: Tavnazia pledged allegiance to San d'Oria and was ruled by Marquis Altedour. But after some investigation, I discovered some slightly more interesting facts.
-- **8882**: Just before the nation was swarmed under by the beastmen, the knights of Tavnazia carried away the rrroyal treasure. However, the knights themselves were attacked by brigands and the treasure was stolen.
-- **8883**: If you listen to the old thieves, they'll tell you it was the work of the Atarefaunet band. But since the leader of the band died, the truth is anybody's guess.
-- **8884**: Isn't this exciting? The rrremaining members of the Atarefaunet band must hold the key to the location of the Tavnazian royal treasure!
-- **8885**: Vauderame of the Tenshodo must be arranging a deal with them to get his greedy hands on the goods.
-- **8886**: Now that I know his plans, I'll have to work my way into his circle and get my paws in the pie, too.
-- **8891**: ...Hmm. A very mysterious character, indeed. Speaking of mysteries, there's one thing that I don't quite understand.
-- **8892**: Why did the brigands send the word "Tavnazia" to Vauderame?
-- **8893**: Surely he would have already known about the Tavnazian royal treasure before planning to meet with them.
-- **8894**: ...That's it!
-- **8895**: <Player>, I want you to go and ask these two thieves a question.
-- **8896**: The person who wrote the papers from the Tenshodo, the name at the top...what was wrrritten there?
-- **8897**: Quickly now! There's no time!
-- **8898**: We'll deal with the rest, so hurry! Be on your way!
-- **8903**: Did you get the information I asked for? Okay, let's put it all together and see what we have.
-- **8904**: You've probably already noticed, but the name of the person who wrrrote the papers is different on each one. However, the contents are all exactly the same. A little odd, don't you think?
-- **8905**: This must have some other meaning. If we lay out the letters that we both discovered, we have... D, L, E, L, O, R, E.
-- **8907**: What was the signature? [M/Q/Blank/I forget]
-- **8908**: Exactly. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get...
-- **8909**: If you keep playing the fool, I may have to bite you. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get...
-- **8910**: "Ordelle"!
-- **8911**: We must hurry to Ordelle's Caves!
-- **8912**: Vauderame used us to tell the bandits to gather at Ordelle's Caves.
-- **8913**: We must hurry to Ordelle's Caves!
-- **8914**: Vauderame used us to tell the bandits to gather at Ordelle's Caves.
-- **8917**: It's great that we found the treasure... But I get the feeling there's something important I'm forgetting... What could it be...? Grrr, that's rrreally gonna annoy me...
-- **9562**: There's a Windurst Waters merrrchant making a big fuss over a Mana Orb, you say?
-- **9563**: Ahaha, serves him rrright! That old coot, Honoi-Gomoi, always trrrying to get what he wants by any means possible.
-- **9564**: He seems terribly anxious to get his hands on that orb. Why don't you be a sporrrt and give it back? I promise I won't say anything.
-- **10423**: <Player>'s badge flashes brightly.
-- **10427**: Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?
-- **10428**: I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too.
-- **10429**: I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?
-- **14068**: I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be.
-- **14069**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
-- **14070**: You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous.
-- **14071**: What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!
-- **14072**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
-- **14073**: Attempt Trust magic with her? [Of course./No way.]
-- **14074**: I have no time to play cat and mouse. If you've got nothing better to do, then scrrram.
-- **14075**: Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch.
-- **14076**: Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!
-- **14077**: And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!
-- **14078**: I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct.
-- **14079**: That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing.
-- **14080**: I hate it when my efforrrts don't bear fruit.
-- **14081**: You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>
-- **14082**: I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion.
-- **14083**: [I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok.
-- **14084**: [I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]
-- **14085**: To this day, I can still only rrremember bits and pieces of what happened.
-- **14086**: [I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people.
-- **14087**: What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!
-- **14088**: While we're talking about frrriendship, I hear you possess a certain likeness of me.
-- **14089**: [How disgusting!/What a purrrvert!]
-- **14090**: Hahaha. I can't fault your taste, though. You picked verrry well.
-- **14091**: [Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?
-- **14092**: Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!
-- **14093**: Urk. I've got no other choice but to try out this scrrroll...
-- **14094**: You'll stand therrre until I give in, won't you? Let's get on with it, then.
-- **14095**: Close your eyes...and think only pleasant thoughts of me.t
-- **14096**: Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?
-- **14097**: Ahahaha! Gotcha!
-- **14098**: Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?
+- **8876**: Huh? You still here? Here, take your loot and scoot. I'll let you know when I figure this out. Come and see me later.
+- **8879**: I finally figured out the code. All those letters we got from the Atarefaunet band...I know what they mean.
+- **8880**: When I rrrearranged the order of the letters, I came out with "Tavnazia."
+- **8881**: Tavnazia... In other words, the Tavnazian Marquisate. A nation to the west that was obliterated by the beastmen in the Great War.
+- **8882**: Tavnazia pledged allegiance to San d'Oria and was ruled by Marquis Altedour. But after some investigation, I discovered some slightly more interesting facts.
+- **8883**: Just before the nation was swarmed under by the beastmen, the knights of Tavnazia carried away the rrroyal treasure. However, the knights themselves were attacked by brigands and the treasure was stolen.
+- **8884**: If you listen to the old thieves, they'll tell you it was the work of the Atarefaunet band. But since the leader of the band died, the truth is anybody's guess.
+- **8885**: Isn't this exciting? The rrremaining members of the Atarefaunet band must hold the key to the location of the Tavnazian royal treasure!
+- **8886**: Vauderame of the Tenshodo must be arranging a deal with them to get his greedy hands on the goods.
+- **8887**: Now that I know his plans, I'll have to work my way into his circle and get my paws in the pie, too.
+- **8892**: ...Hmm. A very mysterious character, indeed. Speaking of mysteries, there's one thing that I don't quite understand.
+- **8893**: Why did the brigands send the word "Tavnazia" to Vauderame?
+- **8894**: Surely he would have already known about the Tavnazian royal treasure before planning to meet with them.
+- **8895**: ...That's it!
+- **8896**: <Player>, I want you to go and ask these two thieves a question.
+- **8897**: The person who wrote the papers from the Tenshodo, the name at the top...what was wrrritten there?
+- **8898**: Quickly now! There's no time!
+- **8899**: We'll deal with the rest, so hurry! Be on your way!
+- **8904**: Did you get the information I asked for? Okay, let's put it all together and see what we have.
+- **8905**: You've probably already noticed, but the name of the person who wrrrote the papers is different on each one. However, the contents are all exactly the same. A little odd, don't you think?
+- **8906**: This must have some other meaning. If we lay out the letters that we both discovered, we have... D, L, E, L, O, R, E.
+- **8908**: What was the signature? [M/Q/Blank/I forget]
+- **8909**: Exactly. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get...
+- **8910**: If you keep playing the fool, I may have to bite you. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get...
+- **8911**: "Ordelle"!
+- **8912**: We must hurry to Ordelle's Caves!
+- **8913**: Vauderame used us to tell the bandits to gather at Ordelle's Caves.
+- **8914**: We must hurry to Ordelle's Caves!
+- **8915**: Vauderame used us to tell the bandits to gather at Ordelle's Caves.
+- **8918**: It's great that we found the treasure... But I get the feeling there's something important I'm forgetting... What could it be...? Grrr, that's rrreally gonna annoy me...
+- **9563**: There's a Windurst Waters merrrchant making a big fuss over a Mana Orb, you say?
+- **9564**: Ahaha, serves him rrright! That old coot, Honoi-Gomoi, always trrrying to get what he wants by any means possible.
+- **9565**: He seems terribly anxious to get his hands on that orb. Why don't you be a sporrrt and give it back? I promise I won't say anything.
+- **10424**: <Player>'s badge flashes brightly.
+- **10428**: Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?
+- **10429**: I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too.
+- **10430**: I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?
+- **14069**: I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be.
+- **14070**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
+- **14071**: You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous.
+- **14072**: What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!
+- **14073**: Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust.
+- **14074**: Attempt Trust magic with her? [Of course./No way.]
+- **14075**: I have no time to play cat and mouse. If you've got nothing better to do, then scrrram.
+- **14076**: Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch.
+- **14077**: Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!
+- **14078**: And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!
+- **14079**: I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct.
+- **14080**: That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing.
+- **14081**: I hate it when my efforrrts don't bear fruit.
+- **14082**: You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>
+- **14083**: I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion.
+- **14084**: [I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok.
+- **14085**: [I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]
+- **14086**: To this day, I can still only rrremember bits and pieces of what happened.
+- **14087**: [I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people.
+- **14088**: What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!
+- **14089**: While we're talking about frrriendship, I hear you possess a certain likeness of me.
+- **14090**: [How disgusting!/What a purrrvert!]
+- **14091**: Hahaha. I can't fault your taste, though. You picked verrry well.
+- **14092**: [Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?
+- **14093**: Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!
+- **14094**: Urk. I've got no other choice but to try out this scrrroll...
+- **14095**: You'll stand therrre until I give in, won't you? Let's get on with it, then.
+- **14096**: Close your eyes...and think only pleasant thoughts of me.t
+- **14097**: Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?
+- **14098**: Ahahaha! Gotcha!
+- **14099**: Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?
 
 ## Events
 
@@ -1244,7 +1244,7 @@
   1: 0x01C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7598*)
+  4: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7599*)
     → "Can't you see I'm busy now? Give a girl a little brrreathing room, huh?"
   5: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1281,12 +1281,12 @@
   1: 0x01EF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  4: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
+  4: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
     → "Haven't I seen you somewhere beforrre? Weren't you the one running with those pack of brrrats from the port area?"
   5: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
   7: 0x0203 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  8: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7608*)
+  8: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
     → "So you've come to apologize, have you? Well, you had better bring me a little something to show your desire to be my frrriend! Then I'll consider whether to forrrgive you or not..."
   9: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x020E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -1349,10 +1349,10 @@
 #### Opcodes
 
 ```
-  0: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
+  0: 0x0247 [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
     → "So, who do you think you arrre? You want to crrrawl up to me, do you?"
   1: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7606*)
+  2: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=7607*)
     → "Well, if you bring me a little something as a sign of your desire to be my frrriend, I might just considerrr the possibility..."
   3: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x024F [0x00] END_REQSTACK()
@@ -1383,7 +1383,7 @@
   1: 0x0255 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0256 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0257 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+  4: 0x025E [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "Well, if you want to be all chummy with me, you had better bring me a token offerrring firrrst. I'll be waiting... Hah!"
   5: 0x0261 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0262 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1424,17 +1424,17 @@
   3: 0x0283 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0284 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0285 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  6: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7627*)
+  6: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
     → "Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag."
   7: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7628*)
+  8: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
     → "Well, anyway, apology accepted. Just be more careful next time! And if you happen by any more of these, then hand them to me, and I'll make it worrrth your while. Farewell now."
   9: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0294 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
  11: 0x029B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x03)
  12: 0x02A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x04)
  13: 0x02A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 14: 0x02BA [0x48] [System] [6555*]:
+ 14: 0x02BA [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  15: 0x02BD [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  16: 0x02BF [0x21] END_EVENT
@@ -1475,7 +1475,7 @@
   8: 0x02E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x03)
   9: 0x02E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x04)
  10: 0x02EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 11: 0x02FF [0x48] [System] [6555*]:
+ 11: 0x02FF [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  12: 0x0302 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  13: 0x0304 [0x21] END_EVENT
@@ -1511,14 +1511,14 @@
   3: 0x030E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x030F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0310 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  6: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=8687*)
+  6: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=8688*)
     → "Oh, what a cleverrr little kitten you are. Herrre, I'll give you some pocket money from my kitty."
   7: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x031B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
   9: 0x0322 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x03)
  10: 0x0329 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x04)
  11: 0x0330 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 12: 0x0341 [0x48] [System] [6555*]:
+ 12: 0x0341 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  13: 0x0344 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  14: 0x0346 [0x21] END_EVENT
@@ -1545,10 +1545,10 @@
 #### Opcodes
 
 ```
-  0: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  0: 0x0348 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "Purrr... For you to bring me these implies my two followers out in front let the cat out of the bag."
   1: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  2: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "Well, anyway, I'll accept these as a token of your esteem. And if you happen by any more of these, then give them to me, and I'll make it worrrth your while. Farewell now."
   3: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0350 [0x00] END_REQSTACK()
@@ -1579,10 +1579,10 @@
   1: 0x0356 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0357 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0358 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
+  4: 0x035F [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
     → "Just 'cause I accepted your token of esteem doesn't mean you can get away with murderrr!"
   5: 0x0362 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0363 [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
+  6: 0x0363 [0x1D] PRINT_EVENT_MESSAGE(message_id=7623*)
     → "You have to do things my way if you don't want me getting all catty on you! Now, goodbye and ta-ta!"
   7: 0x0366 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0367 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1623,7 +1623,7 @@
   3: 0x038D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x038E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x2A)
   5: 0x0395 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x2B)
-  6: 0x039C [0x24] CREATE_DIALOG(message_id=7634*, default_option=0*, option_flags=0*)
+  6: 0x039C [0x24] CREATE_DIALOG(message_id=7635*, default_option=0*, option_flags=0*)
     → "Agree to help? [Accept./Decline.]"
   7: 0x03A3 [0x25] WAIT_DIALOG_SELECT()
   8: 0x03A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03BB
@@ -1663,7 +1663,7 @@ SUBROUTINE_03D2:
 
 ```
   0: 0x03D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7629*)
+  1: 0x03DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
     → "Judging by its feel, I'd swear this is a prrrecious stone of some type, but I seem to be losing my instinct on this one..."
   2: 0x03E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -1694,12 +1694,12 @@ SUBROUTINE_03D2:
 
 ```
   0: 0x03F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x03FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7630*)
+  1: 0x03FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
     → "Grrr... Who do you think you are? You shouldn't go sneaking around people's homes...you might be mistaken as a burglar!"
   2: 0x0401 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0402 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
   4: 0x0409 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x07)
-  5: 0x0410 [0x1D] PRINT_EVENT_MESSAGE(message_id=7631*)
+  5: 0x0410 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
     → "But I'll let you off this time...that is, if you can tell me what this stone is!"
   6: 0x0413 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0414 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
@@ -1736,10 +1736,10 @@ SUBROUTINE_03D2:
 
 ```
   0: 0x041D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=7632*)
+  1: 0x0424 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
     → "As farrr as I can tell, it looks just like a plain rock, but it may be some kind of ore or something. I wonderrr..."
   2: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=7633*)
+  3: 0x0428 [0x1D] PRINT_EVENT_MESSAGE(message_id=7634*)
     → "Hey, that's it...! I have a little job for you! Carrre to go to the Goldsmiths' Guild in Bastok and ask them what in Vana'diel this is?"
   4: 0x042B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x042C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1767,7 +1767,7 @@ SUBROUTINE_03D2:
 #### Opcodes
 
 ```
-  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7635*)
+  0: 0x0442 [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
     → "Neverrr mind. I'll just throw this at...I mean, to...the kids who follow me around."
   1: 0x0445 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0446 [0x00] END_REQSTACK()
@@ -1795,7 +1795,7 @@ SUBROUTINE_03D2:
 
 ```
   0: 0x0447 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7636*)
+  1: 0x044E [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
     → "If it isn't worth much, then go ahead and sell it to the Goldsmiths' Guild. Just make sure you bring the prrroceeds back to me, okay?"
   2: 0x0451 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0452 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1830,10 +1830,10 @@ SUBROUTINE_03D2:
   1: 0x046D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x046E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x046F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  4: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=7637*)
+  4: 0x0476 [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
     → "Head over to the Goldsmiths' Guild in Bastok and ask them what that stone is."
   5: 0x0479 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x047A [0x1D] PRINT_EVENT_MESSAGE(message_id=7638*)
+  6: 0x047A [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
     → "If it isn't worrrth much, then sell it to the Goldsmiths' Guild. Just be sure you bring the proceeds from the sale back to me, okay?"
   7: 0x047D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x047E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -1870,10 +1870,10 @@ SUBROUTINE_03D2:
   1: 0x049C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x049D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x049E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  4: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7639*)
+  4: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7640*)
     → "So, did you make it to the Goldsmiths' Guild in Bastok? Good for you! And how much did you get for that lump of rrrock?"
   5: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7640*)
+  6: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7641*)
     → "Oh...You didn't sell it? Well, go back to Bastok and sell it, then. Now, get going!"
   7: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -1935,10 +1935,10 @@ SUBROUTINE_03D2:
 
 ```
   0: 0x04D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
+  1: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
     → "Ah! Don't tell me you sold off my rock for that dismal sum!"
   2: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
+  3: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
     → "Grrr... If you hadn't sold it off, we could have received a bigger reward from that silly traveler for finding it... Oh well... It's no longer worth my bother."
   4: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x04E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -1973,10 +1973,10 @@ SUBROUTINE_03D2:
   1: 0x0502 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0503 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0504 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=7645*)
+  4: 0x050B [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
     → "Ah! Don't tell me you sold off my rock for that dismal sum!"
   5: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x050F [0x1D] PRINT_EVENT_MESSAGE(message_id=7646*)
+  6: 0x050F [0x1D] PRINT_EVENT_MESSAGE(message_id=7647*)
     → "Grrr... If you hadn't sold it off, we could have received a bigger reward from that silly traveler for finding it... Oh well... It's no longer worth my bother."
   7: 0x0512 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0513 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2013,7 +2013,7 @@ SUBROUTINE_03D2:
   1: 0x0531 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0532 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0533 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=8446*)
+  4: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=8447*)
     → "Can't you see I'm busy now? Give a girl a little brrreathing room, huh?"
   5: 0x053D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x053E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2079,7 +2079,7 @@ SUBROUTINE_03D2:
  17: 0x05C6 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
  18: 0x05CC [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x36)
  19: 0x05D3 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [EventEntity, EventEntity], work=141*
- 20: 0x05E2 [0x24] CREATE_DIALOG(message_id=7833*, default_option=0*, option_flags=0*)
+ 20: 0x05E2 [0x24] CREATE_DIALOG(message_id=7834*, default_option=0*, option_flags=0*)
     → "Hear her favor? [Listen./Refuse.]"
  21: 0x05E9 [0x25] WAIT_DIALOG_SELECT()
  22: 0x05EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0612
@@ -2124,12 +2124,12 @@ SUBROUTINE_0629:
 
 ```
   0: 0x0654 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+  1: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "You want to know if I have a "restrrricted book" in my possession, do you?"
   2: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x065F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
   4: 0x0666 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x07)
-  5: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  5: 0x066D [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "Where in Vana'diel did you hearrr that? You can never be too carrreful, you know."
   6: 0x0670 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0671 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
@@ -2158,12 +2158,12 @@ SUBROUTINE_0629:
 
 ```
   0: 0x0679 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+  1: 0x0680 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "Okay, I'll let you in on it. You're a second rank adventurer, arrren't you? Then allow me to ask you this little favor I have firrrst..."
   2: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0684 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
   4: 0x068B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  5: 0x0692 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
+  5: 0x0692 [0x1D] PRINT_EVENT_MESSAGE(message_id=7833*)
     → "If you scratch my back, I'll scrrratch yours...so to speak. Do what I ask and I'll let you check the book I found. How about it, then?"
   6: 0x0695 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0696 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -2190,7 +2190,7 @@ SUBROUTINE_0629:
 #### Opcodes
 
 ```
-  0: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=7834*)
+  0: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
     → "If that's how it is, then farrrewell, sucker."
   1: 0x06A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06A2 [0x00] END_REQSTACK()
@@ -2215,10 +2215,10 @@ SUBROUTINE_0629:
 #### Opcodes
 
 ```
-  0: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7835*)
+  0: 0x06A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
     → "Did you know that up in the Tahrongi Canyon, there is a serrries of caves known as the Maze of Shakhrami?"
   1: 0x06A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7836*)
+  2: 0x06A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
     → "If you examine the rocks in those caves with this $3 harrrd enough, you should be able to find $6. I want you to brrring me one. Happy hunting!"
   3: 0x06AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x06AB [0x00] END_REQSTACK()
@@ -2250,10 +2250,10 @@ SUBROUTINE_0629:
   1: 0x06B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x06B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x06B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x06BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+  4: 0x06BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "In the Tahrongi Canyon, there is a serrries of caves called the Maze of Shakhrami."
   5: 0x06BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x06BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+  6: 0x06BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "If you examine the rocks in those caves with that $3 you have therrre, you should be able to find $6. I want you to brrring me one. No coral, no deal!"
   7: 0x06C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x06C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2310,12 +2310,12 @@ SUBROUTINE_0629:
  13: 0x0710 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[141*, 0*]
  14: 0x0721 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0732 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 16: 0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=7844*)
+ 16: 0x0739 [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
     → "So, you came thrrrough with it? Here, I'll give you this key. We'll make the trrransaction at my hideout, deep in the Horutoto Ruins."
  17: 0x073C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x073D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  19: 0x0744 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 20: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7845*)
+ 20: 0x074B [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
     → "You go on ahead. I'll catch up with you therrre once I've finished up herrre!"
  21: 0x074E [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x074F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -2353,10 +2353,10 @@ SUBROUTINE_0629:
   1: 0x0786 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0787 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0788 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=7846*)
+  4: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
     → "We'll carry out our little trrransaction at my hideout, deep in the Horutoto Ruins."
   5: 0x0792 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0793 [0x1D] PRINT_EVENT_MESSAGE(message_id=7847*)
+  6: 0x0793 [0x1D] PRINT_EVENT_MESSAGE(message_id=7848*)
     → "You go ahead. I'll catch up with you therrre!"
   7: 0x0796 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0797 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2392,7 +2392,7 @@ SUBROUTINE_0629:
   1: 0x07B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x07B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x07B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x07BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  4: 0x07BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "I can't stand the sight of you. Get out of herrre, and don't show yourrr face to me any time soon."
   5: 0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x07C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2517,7 +2517,7 @@ SUBROUTINE_0915:
 #### Opcodes
 
 ```
-  0: 0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=8824*)
+  0: 0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=8825*)
     → "I was looking for you. It seems like you've been prrracticing to become a master thief."
   1: 0x092F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0930 [0x00] END_REQSTACK()
@@ -2544,7 +2544,7 @@ SUBROUTINE_0915:
 
 ```
   0: 0x0931 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=8825*)
+  1: 0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=8826*)
     → "Usually I don't mingle with my competition, but the Tenshodo has put out a call for able-bodied thieves."
   2: 0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x093C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2572,7 +2572,7 @@ SUBROUTINE_0915:
 
 ```
   0: 0x0944 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=8826*)
+  1: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=8827*)
     → "The Tenshodo came to us, so don't even think of turning down their offer."
   2: 0x094E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x094F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -2600,7 +2600,7 @@ SUBROUTINE_0915:
 
 ```
   0: 0x0957 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  1: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=8827*)
+  1: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=8828*)
     → "Well, I'll see you in Jeuno! As those little wizards say, ta-taru!"
   2: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0962 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -2632,7 +2632,7 @@ SUBROUTINE_0915:
   1: 0x096F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0970 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0971 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x0978 [0x1D] PRINT_EVENT_MESSAGE(message_id=8828*)
+  4: 0x0978 [0x1D] PRINT_EVENT_MESSAGE(message_id=8829*)
     → "I'll see you at the Tenshodo headquarters in Jeuno."
   5: 0x097B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x097C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2667,12 +2667,12 @@ SUBROUTINE_0915:
   1: 0x098C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x098D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x098E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  4: 0x0995 [0x1D] PRINT_EVENT_MESSAGE(message_id=8831*)
+  4: 0x0995 [0x1D] PRINT_EVENT_MESSAGE(message_id=8832*)
     → "You say you've already met up with the rrremains of Atarefaunet's band? Did they tell you anything?"
   5: 0x0998 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0999 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
   7: 0x09A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  8: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8832*)
+  8: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8833*)
     → "The guy I talked to was acting like he was so much better than us. He sure rrrubbed my fur the wrrrong way."
   9: 0x09AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x09AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -2706,10 +2706,10 @@ SUBROUTINE_0915:
   1: 0x09BB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09BC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  4: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8836*)
+  4: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
     → "The weapon you got... What's it like?"
   5: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x09C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
+  6: 0x09C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
     → "Getting such a fine weapon for such a cakewalk job... It's almost like stealing!"
   7: 0x09CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -2870,7 +2870,7 @@ SUBROUTINE_0915:
  33: 0x0AA7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s095" with entities [EventEntity, EventEntity], work=[141*, 0*]
 
 SUBROUTINE_0AB8:
- 34: 0x0AB8 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8840*]:
+ 34: 0x0AB8 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8841*]:
     → "You know, the last signature on the $3? It was a single letter. Did you see it?"
  35: 0x0ABF [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0AC0 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0ADA
@@ -2882,13 +2882,13 @@ SUBROUTINE_0AB8:
  42: 0x0AF4 [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [EventEntity, EventEntity], work=141*
 
 SUBROUTINE_0B03:
- 43: 0x0B03 [0x24] CREATE_DIALOG(message_id=8841*, default_option=0*, option_flags=0*)
+ 43: 0x0B03 [0x24] CREATE_DIALOG(message_id=8842*, default_option=0*, option_flags=0*)
     → "Did you see the signature? [Yes./No.]"
  44: 0x0B0A [0x25] WAIT_DIALOG_SELECT()
  45: 0x0B0B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C32
  46: 0x0B13 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[141*, 0*]
  47: 0x0B24 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x4A)
- 48: 0x0B2B [0x24] CREATE_DIALOG(message_id=8846*, default_option=0*, option_flags=0*)
+ 48: 0x0B2B [0x24] CREATE_DIALOG(message_id=8847*, default_option=0*, option_flags=0*)
     → "What was the signature? [T/A/V/I...forget.]"
  49: 0x0B32 [0x25] WAIT_DIALOG_SELECT()
  50: 0x0B33 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B72
@@ -2985,7 +2985,7 @@ SUBROUTINE_0D1D:
 SUBROUTINE_0DBB:
 122: 0x0DBB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x50)
 123: 0x0DC2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x51)
-124: 0x0DC9 [0x24] CREATE_DIALOG(message_id=8856*, default_option=0*, option_flags=0*)
+124: 0x0DC9 [0x24] CREATE_DIALOG(message_id=8857*, default_option=0*, option_flags=0*)
     → "Help out? [Where do I sign?/I'll keep my paws out of this one...]"
 125: 0x0DD0 [0x25] WAIT_DIALOG_SELECT()
 126: 0x0DD1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DE1
@@ -3018,7 +3018,7 @@ SUBROUTINE_0E38:
 
 SUBROUTINE_0E81:
 151: 0x0E81 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x54)
-152: 0x0E88 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8860*]:
+152: 0x0E88 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8861*]:
     → "Huh? What should you say? I'm sure you'll think of something..."
 153: 0x0E8F [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0E90 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x0EAA
@@ -3040,10 +3040,10 @@ SUBROUTINE_0ED3:
 168: 0x0F1B [0x4A] Nanaa Mihgo (ID: 17764466/0x010F1072) looks at Bopa Greso (ID: 17764467/0x010F1073)
 169: 0x0F24 [0x27] REQ_SET(priority=0x0B, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x0F)
 170: 0x0F2B [0x27] REQ_SET(priority=0x0B, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x12)
-171: 0x0F32 [0x2B] Bopa Greso (ID: 17764467/0x010F1073) [8862*]:
+171: 0x0F32 [0x2B] Bopa Greso (ID: 17764467/0x010F1073) [8863*]:
     → "We tailed them to their hideouts. Herrre, I wrote the locations down for you."
 172: 0x0F39 [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x0F3A [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8863*]:
+173: 0x0F3A [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8864*]:
     → "If the top cat says something is fishy, you better believe it!"
 174: 0x0F41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x0F42 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Cha Lebagta (ID: 17764468/0x010F1074))
@@ -3102,7 +3102,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x0FED [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
+  0: 0x0FED [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
     → "Ah, I've been looking for you. You know how we got those papers from the Tenshodo and delivered them individually?"
   1: 0x0FF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FF1 [0x00] END_REQSTACK()
@@ -3129,7 +3129,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x0FF2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x0FF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
+  1: 0x0FF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8840*)
     → "Did you check the signature you got from the Atarefaunet member before giving the papers to Vauderame?"
   2: 0x0FFC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0FFD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -3159,12 +3159,12 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x1005 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=8842*)
+  1: 0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
     → "Are you rrreally a thief? Un-be-liev-able!!"
   2: 0x100F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1010 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
   4: 0x1017 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x13)
-  5: 0x101E [0x1D] PRINT_EVENT_MESSAGE(message_id=8843*)
+  5: 0x101E [0x1D] PRINT_EVENT_MESSAGE(message_id=8844*)
     → "Let me tell you, then. The signature you got was a "V.""
   6: 0x1021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1022 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x14)
@@ -3194,7 +3194,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x1038 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x17)
-  1: 0x103F [0x1D] PRINT_EVENT_MESSAGE(message_id=8844*)
+  1: 0x103F [0x1D] PRINT_EVENT_MESSAGE(message_id=8845*)
     → "How do I know, you ask? I can tell what's written on a piece of paper just by touching it."
   2: 0x1042 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1043 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x18)
@@ -3220,7 +3220,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x104B [0x1D] PRINT_EVENT_MESSAGE(message_id=8845*)
+  0: 0x104B [0x1D] PRINT_EVENT_MESSAGE(message_id=8846*)
     → "Ah! That's my little thief! ...So, what was the letter?"
   1: 0x104E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x104F [0x00] END_REQSTACK()
@@ -3247,7 +3247,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x1050 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8847*)
+  1: 0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=8848*)
     → "Rrright. The signature you got was a "V.""
   2: 0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x105B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -3274,11 +3274,11 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x1063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8848*)
+  0: 0x1063 [0x1D] PRINT_EVENT_MESSAGE(message_id=8849*)
     → "But the prrroblem is, the initial you got doesn't match the initial of the member's name, rrright?"
   1: 0x1066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1067 [0x79] Nanaa Mihgo (ID: 17764466/0x010F1072) looks at LocalPlayer (Basic look)
-  3: 0x1071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8849*)
+  3: 0x1071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8850*)
     → "The signature that I got didn't match either."
   4: 0x1074 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1075 [0x00] END_REQSTACK()
@@ -3306,7 +3306,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x1076 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x107D [0x1D] PRINT_EVENT_MESSAGE(message_id=8850*)
+  1: 0x107D [0x1D] PRINT_EVENT_MESSAGE(message_id=8851*)
     → "This didn't happen to only you and me. I also asked Esca of San d'Oria and Nbu Latteh of Bastok, and it was the same with them."
   2: 0x1080 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1081 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -3334,7 +3334,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x1097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8851*)
+  0: 0x1097 [0x1D] PRINT_EVENT_MESSAGE(message_id=8852*)
     → "Doesn't all this seem just a little bit fishy? Doesn't it get your whiskers twitching?"
   1: 0x109A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x109B [0x00] END_REQSTACK()
@@ -3362,10 +3362,10 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x109C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x10A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8852*)
+  1: 0x10A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8853*)
     → "After that task, I did some digging on Atarefaunet's band. It seems that the treasure from the last big heist they pulled off has yet to be found."
   2: 0x10A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x10A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8853*)
+  3: 0x10A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8854*)
     → "The way I see it, those signatures were some sort of code. To contact the rrremaining members of Atarefaunet's band after all this time just doesn't make sense otherwise."
   4: 0x10AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x10AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -3393,7 +3393,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x10B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  1: 0x10BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8854*)
+  1: 0x10BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8855*)
     → "Vauderame of the Tenshodo is searching for that treasure. So he threatens Atarefaunet's cutthroats, and collects the code letters..."
   2: 0x10BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x10BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -3419,7 +3419,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x10C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8855*)
+  0: 0x10C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8856*)
     → "I'm gonna collect the signatures from the other six members. Will you help me?"
   1: 0x10C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x10CA [0x00] END_REQSTACK()
@@ -3446,7 +3446,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x10CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x10D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8857*)
+  1: 0x10D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
     → "Scaredy-cat! You'll never become a world-famous thief at this rate..."
   2: 0x10D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x10D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -3473,7 +3473,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x10DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8858*)
+  0: 0x10DE [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
     → "Are you up for it?"
   1: 0x10E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x10E2 [0x00] END_REQSTACK()
@@ -3503,7 +3503,7 @@ SUBROUTINE_0F8A:
   0: 0x10E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
   1: 0x10EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
   2: 0x10F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x19)
-  3: 0x10F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8859*)
+  3: 0x10F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8860*)
     → "Okay, take these. I made copies of the $3 you rrreceived before. Use them in the same way to get signatures from those brrrigands."
   4: 0x10FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x10FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x1A)
@@ -3531,7 +3531,7 @@ SUBROUTINE_0F8A:
 
 ```
   0: 0x1104 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x110B [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
+  1: 0x110B [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
     → "The last obstacle is finding the members' hideouts... At the moment, we know the location of two of the bandits, so why don't you go pay them a visit?"
   2: 0x110E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x110F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -3557,7 +3557,7 @@ SUBROUTINE_0F8A:
 #### Opcodes
 
 ```
-  0: 0x1117 [0x1D] PRINT_EVENT_MESSAGE(message_id=8864*)
+  0: 0x1117 [0x1D] PRINT_EVENT_MESSAGE(message_id=8865*)
     → "First things first! Get ahold of those signatures. Oh, and by the way, don't even think of drrropping this little errand halfway through..."
   1: 0x111A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x111B [0x00] END_REQSTACK()
@@ -3586,10 +3586,10 @@ SUBROUTINE_0F8A:
   0: 0x111C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x1121 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1122 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8865*)
+  3: 0x1123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8866*)
     → "The location of the hideouts are wrrritten on the $3, right?"
   4: 0x1126 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x1127 [0x1D] PRINT_EVENT_MESSAGE(message_id=8866*)
+  5: 0x1127 [0x1D] PRINT_EVENT_MESSAGE(message_id=8867*)
     → "Find the hideouts, and get those signatures. Go on, shoo!"
   6: 0x112A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x112B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -3716,7 +3716,7 @@ SUBROUTINE_1228:
 
 ```
   0: 0x128C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x1293 [0x1D] PRINT_EVENT_MESSAGE(message_id=8871*)
+  1: 0x1293 [0x1D] PRINT_EVENT_MESSAGE(message_id=8872*)
     → "Did you get those signatures? I have the last two rrright here."
   2: 0x1296 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -3743,7 +3743,7 @@ SUBROUTINE_1228:
 #### Opcodes
 
 ```
-  0: 0x129F [0x1D] PRINT_EVENT_MESSAGE(message_id=8872*)
+  0: 0x129F [0x1D] PRINT_EVENT_MESSAGE(message_id=8873*)
     → "Okay, eight letters... Let's put them together... V, Z, A, N, A, T, A, I... @"
   1: 0x12A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12A3 [0x00] END_REQSTACK()
@@ -3770,7 +3770,7 @@ SUBROUTINE_1228:
 
 ```
   0: 0x12A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x12AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8873*)
+  1: 0x12AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8874*)
     → "Hmm... If I put this here... Umm..."
   2: 0x12AE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x12AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -3799,7 +3799,7 @@ SUBROUTINE_1228:
 ```
   0: 0x12B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
   1: 0x12BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
-  2: 0x12C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8874*)
+  2: 0x12C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8875*)
     → "Huh? You still here? Here, take your loot and scoot. I'll let you know when I figure this out. Come and see me later."
   3: 0x12C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x12C9 [0x00] END_REQSTACK()
@@ -3828,7 +3828,7 @@ SUBROUTINE_1228:
   0: 0x12CA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x12CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x12D0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x12D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8875*)
+  3: 0x12D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8876*)
     → "Huh? You still here? Here, take your loot and scoot. I'll let you know when I figure this out. Come and see me later."
   4: 0x12D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x12D5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4001,10 +4001,10 @@ SUBROUTINE_14DB:
  68: 0x151C [0x4A] Nanaa Mihgo (ID: 17764466/0x010F1072) looks at Bopa Greso (ID: 17764467/0x010F1073)
  69: 0x1525 [0x27] REQ_SET(priority=0x0B, entity_id=Bopa Greso (ID: 17764467/0x010F1073), tag_num=0x12)
  70: 0x152C [0x27] REQ_SET(priority=0x0B, entity_id=Cha Lebagta (ID: 17764468/0x010F1074), tag_num=0x0F)
- 71: 0x1533 [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8887*]:
+ 71: 0x1533 [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8888*]:
     → "Don't rrrush into anything just yet. There's something wrong. Vauderame hasn't made a move yet."
  72: 0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x153B [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8888*]:
+ 73: 0x153B [0x2B] Cha Lebagta (ID: 17764468/0x010F1074) [8889*]:
     → "If he had made some sort of deal with the brigands, you would think they would get together somewhere first, then head off to get the treasure."
  74: 0x1542 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x1543 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Cha Lebagta (ID: 17764468/0x010F1074))
@@ -4090,7 +4090,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x1709 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x1710 [0x1D] PRINT_EVENT_MESSAGE(message_id=8878*)
+  1: 0x1710 [0x1D] PRINT_EVENT_MESSAGE(message_id=8879*)
     → "I finally figured out the code. All those letters we got from the Atarefaunet band...I know what they mean."
   2: 0x1713 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1714 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -4118,7 +4118,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x171C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x07)
-  1: 0x1723 [0x1D] PRINT_EVENT_MESSAGE(message_id=8879*)
+  1: 0x1723 [0x1D] PRINT_EVENT_MESSAGE(message_id=8880*)
     → "When I rrrearranged the order of the letters, I came out with "Tavnazia.""
   2: 0x1726 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1727 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
@@ -4147,7 +4147,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x172F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x1736 [0x1D] PRINT_EVENT_MESSAGE(message_id=8880*)
+  1: 0x1736 [0x1D] PRINT_EVENT_MESSAGE(message_id=8881*)
     → "Tavnazia... In other words, the Tavnazian Marquisate. A nation to the west that was obliterated by the beastmen in the Great War."
   2: 0x1739 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x173A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -4175,7 +4175,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x1742 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x1749 [0x1D] PRINT_EVENT_MESSAGE(message_id=8881*)
+  1: 0x1749 [0x1D] PRINT_EVENT_MESSAGE(message_id=8882*)
     → "Tavnazia pledged allegiance to San d'Oria and was ruled by Marquis Altedour. But after some investigation, I discovered some slightly more interesting facts."
   2: 0x174C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x174D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -4203,7 +4203,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x1755 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  1: 0x175C [0x1D] PRINT_EVENT_MESSAGE(message_id=8882*)
+  1: 0x175C [0x1D] PRINT_EVENT_MESSAGE(message_id=8883*)
     → "Just before the nation was swarmed under by the beastmen, the knights of Tavnazia carried away the rrroyal treasure. However, the knights themselves were attacked by brigands and the treasure was stolen."
   2: 0x175F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1760 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -4229,7 +4229,7 @@ SUBROUTINE_16B4:
 #### Opcodes
 
 ```
-  0: 0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=8883*)
+  0: 0x1768 [0x1D] PRINT_EVENT_MESSAGE(message_id=8884*)
     → "If you listen to the old thieves, they'll tell you it was the work of the Atarefaunet band. But since the leader of the band died, the truth is anybody's guess."
   1: 0x176B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x176C [0x00] END_REQSTACK()
@@ -4256,7 +4256,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x176D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-  1: 0x1774 [0x1D] PRINT_EVENT_MESSAGE(message_id=8884*)
+  1: 0x1774 [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
     → "Isn't this exciting? The rrremaining members of the Atarefaunet band must hold the key to the location of the Tavnazian royal treasure!"
   2: 0x1777 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1778 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -4282,7 +4282,7 @@ SUBROUTINE_16B4:
 #### Opcodes
 
 ```
-  0: 0x1780 [0x1D] PRINT_EVENT_MESSAGE(message_id=8885*)
+  0: 0x1780 [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
     → "Vauderame of the Tenshodo must be arranging a deal with them to get his greedy hands on the goods."
   1: 0x1783 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1784 [0x00] END_REQSTACK()
@@ -4309,7 +4309,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x1785 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x178C [0x1D] PRINT_EVENT_MESSAGE(message_id=8886*)
+  1: 0x178C [0x1D] PRINT_EVENT_MESSAGE(message_id=8887*)
     → "Now that I know his plans, I'll have to work my way into his circle and get my paws in the pie, too."
   2: 0x178F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1790 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -4335,7 +4335,7 @@ SUBROUTINE_16B4:
 #### Opcodes
 
 ```
-  0: 0x1798 [0x1D] PRINT_EVENT_MESSAGE(message_id=8891*)
+  0: 0x1798 [0x1D] PRINT_EVENT_MESSAGE(message_id=8892*)
     → "...Hmm. A very mysterious character, indeed. Speaking of mysteries, there's one thing that I don't quite understand."
   1: 0x179B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x179C [0x00] END_REQSTACK()
@@ -4363,10 +4363,10 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x179D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x17A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8892*)
+  1: 0x17A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8893*)
     → "Why did the brigands send the word "Tavnazia" to Vauderame?"
   2: 0x17A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x17A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8893*)
+  3: 0x17A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8894*)
     → "Surely he would have already known about the Tavnazian royal treasure before planning to meet with them."
   4: 0x17AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x17AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -4394,7 +4394,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x17B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  1: 0x17BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8894*)
+  1: 0x17BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8895*)
     → "...That's it!"
   2: 0x17BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x17BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -4422,11 +4422,11 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x17C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x19)
-  1: 0x17CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8895*)
+  1: 0x17CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8896*)
     → "<Player>, I want you to go and ask these two thieves a question."
   2: 0x17D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x17D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x1A)
-  4: 0x17D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8896*)
+  4: 0x17D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8897*)
     → "The person who wrote the papers from the Tenshodo, the name at the top...what was wrrritten there?"
   5: 0x17DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x17DD [0x00] END_REQSTACK()
@@ -4454,7 +4454,7 @@ SUBROUTINE_16B4:
 
 ```
   0: 0x17DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x17E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8897*)
+  1: 0x17E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8898*)
     → "Quickly now! There's no time!"
   2: 0x17E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x17E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -4483,7 +4483,7 @@ SUBROUTINE_16B4:
   0: 0x17F1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x17F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x17F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x17F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8898*)
+  3: 0x17F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8899*)
     → "We'll deal with the rest, so hurry! Be on your way!"
   4: 0x17FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x17FC [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4625,10 +4625,10 @@ SUBROUTINE_1949:
  45: 0x1950 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x71)
  46: 0x1957 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
  47: 0x195E [0x79] Nanaa Mihgo (ID: 17764466/0x010F1072) looks at LocalPlayer (Basic look)
- 48: 0x1968 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8906*]:
+ 48: 0x1968 [0x2B] Nanaa Mihgo (ID: 17764466/0x010F1072) [8907*]:
     → "...What was the letter you had for the papers you delivered originally?"
  49: 0x196F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x1970 [0x24] CREATE_DIALOG(message_id=8907*, default_option=0*, option_flags=0*)
+ 50: 0x1970 [0x24] CREATE_DIALOG(message_id=8908*, default_option=0*, option_flags=0*)
     → "What was the signature? [M/Q/Blank/I forget]"
  51: 0x1977 [0x25] WAIT_DIALOG_SELECT()
  52: 0x1978 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x19E7
@@ -4748,7 +4748,7 @@ SUBROUTINE_1BCD:
 #### Opcodes
 
 ```
-  0: 0x1C11 [0x1D] PRINT_EVENT_MESSAGE(message_id=8903*)
+  0: 0x1C11 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
     → "Did you get the information I asked for? Okay, let's put it all together and see what we have."
   1: 0x1C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1C15 [0x00] END_REQSTACK()
@@ -4776,7 +4776,7 @@ SUBROUTINE_1BCD:
 ```
   0: 0x1C16 [0x6E] EventEntity uses emote 6*
   1: 0x1C1D [0x99] Wait for EventEntity animation to complete
-  2: 0x1C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8904*)
+  2: 0x1C22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8905*)
     → "You've probably already noticed, but the name of the person who wrrrote the papers is different on each one. However, the contents are all exactly the same. A little odd, don't you think?"
   3: 0x1C25 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1C26 [0x00] END_REQSTACK()
@@ -4801,7 +4801,7 @@ SUBROUTINE_1BCD:
 #### Opcodes
 
 ```
-  0: 0x1C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8905*)
+  0: 0x1C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=8906*)
     → "This must have some other meaning. If we lay out the letters that we both discovered, we have... D, L, E, L, O, R, E."
   1: 0x1C2A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1C2B [0x00] END_REQSTACK()
@@ -4829,7 +4829,7 @@ SUBROUTINE_1BCD:
 ```
   0: 0x1C2C [0x6E] EventEntity uses emote 7*
   1: 0x1C33 [0x99] Wait for EventEntity animation to complete
-  2: 0x1C38 [0x1D] PRINT_EVENT_MESSAGE(message_id=8908*)
+  2: 0x1C38 [0x1D] PRINT_EVENT_MESSAGE(message_id=8909*)
     → "Exactly. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get..."
   3: 0x1C3B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1C3C [0x00] END_REQSTACK()
@@ -4857,7 +4857,7 @@ SUBROUTINE_1BCD:
 
 ```
   0: 0x1C3D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  1: 0x1C44 [0x1D] PRINT_EVENT_MESSAGE(message_id=8909*)
+  1: 0x1C44 [0x1D] PRINT_EVENT_MESSAGE(message_id=8910*)
     → "If you keep playing the fool, I may have to bite you. Your papers had a blank area where the signature should have been. So, rrrearranging the seven letters, we get..."
   2: 0x1C47 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1C48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
@@ -4888,7 +4888,7 @@ SUBROUTINE_1BCD:
 
 ```
   0: 0x1C5E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-  1: 0x1C65 [0x1D] PRINT_EVENT_MESSAGE(message_id=8910*)
+  1: 0x1C65 [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
     → ""Ordelle"!"
   2: 0x1C68 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1C69 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -4916,10 +4916,10 @@ SUBROUTINE_1BCD:
 
 ```
   0: 0x1C71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x1B)
-  1: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8911*)
+  1: 0x1C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
     → "We must hurry to Ordelle's Caves!"
   2: 0x1C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=8912*)
+  3: 0x1C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
     → "Vauderame used us to tell the bandits to gather at Ordelle's Caves."
   4: 0x1C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1C80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x1C)
@@ -4949,10 +4949,10 @@ SUBROUTINE_1BCD:
   0: 0x1C88 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x1C8D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1C8E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x1C8F [0x1D] PRINT_EVENT_MESSAGE(message_id=8913*)
+  3: 0x1C8F [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
     → "We must hurry to Ordelle's Caves!"
   4: 0x1C92 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x1C93 [0x1D] PRINT_EVENT_MESSAGE(message_id=8914*)
+  5: 0x1C93 [0x1D] PRINT_EVENT_MESSAGE(message_id=8915*)
     → "Vauderame used us to tell the bandits to gather at Ordelle's Caves."
   6: 0x1C96 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1C97 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4983,7 +4983,7 @@ SUBROUTINE_1BCD:
   0: 0x1C9B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x1CA0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1CA1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8917*)
+  3: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8918*)
     → "It's great that we found the treasure... But I get the feeling there's something important I'm forgetting... What could it be...? Grrr, that's rrreally gonna annoy me..."
   4: 0x1CA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1CA6 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -5018,17 +5018,17 @@ SUBROUTINE_1BCD:
   1: 0x1CAF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1CB0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1CB1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-  4: 0x1CB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9562*)
+  4: 0x1CB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9563*)
     → "There's a Windurst Waters merrrchant making a big fuss over a Mana Orb, you say?"
   5: 0x1CBB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1CBC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
   7: 0x1CC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-  8: 0x1CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9563*)
+  8: 0x1CCA [0x1D] PRINT_EVENT_MESSAGE(message_id=9564*)
     → "Ahaha, serves him rrright! That old coot, Honoi-Gomoi, always trrrying to get what he wants by any means possible."
   9: 0x1CCD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1CCE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  11: 0x1CD5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
- 12: 0x1CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9564*)
+ 12: 0x1CDC [0x1D] PRINT_EVENT_MESSAGE(message_id=9565*)
     → "He seems terribly anxious to get his hands on that orb. Why don't you be a sporrrt and give it back? I promise I won't say anything."
  13: 0x1CDF [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1CE0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5060,17 +5060,17 @@ SUBROUTINE_1BCD:
 
 ```
   0: 0x1CEB [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x1CEC [0x48] [System] [10423*]:
+  1: 0x1CEC [0x48] [System] [10424*]:
     → "<Player>'s badge flashes brightly."
   2: 0x1CEF [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x1CF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10427*)
+  3: 0x1CF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
     → "Who do you think you arrre? Yeowrrr! Isn't that from Aht Urhgan?"
   4: 0x1CF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1CF8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=370*
-  6: 0x1D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=10428*)
+  6: 0x1D07 [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
     → "I heard that land has heaps of trrreasure for the taking. A fishy story if I've everrr heard one. Don't you start believing it, too."
   7: 0x1D0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=10429*)
+  8: 0x1D0B [0x1D] PRINT_EVENT_MESSAGE(message_id=10430*)
     → "I know you wouldn't go out in search of treasure ahead of me, but get any ideas, and I'll carrrve you into a new pickling stone for Chamama, 'kay?"
   9: 0x1D0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1D0F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=370*
@@ -5277,17 +5277,17 @@ SUBROUTINE_1BCD:
   7: 0x1D42 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x1D43 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x1D44 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 10: 0x1D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=14068*)
+ 10: 0x1D4B [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  11: 0x1D4E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1D4F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  13: 0x1D56 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 14: 0x1D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
+ 14: 0x1D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=14070*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  15: 0x1D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x1D61 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  17: 0x1D68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
- 18: 0x1D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=14070*)
+ 18: 0x1D6F [0x1D] PRINT_EVENT_MESSAGE(message_id=14071*)
     → "You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous."
  19: 0x1D72 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1D73 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5299,18 +5299,18 @@ SUBROUTINE_1BCD:
  26: 0x1D90 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  27: 0x1D91 [0x03] Work_Zone[4] = 1*
  28: 0x1D96 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 29: 0x1D9D [0x1D] PRINT_EVENT_MESSAGE(message_id=14068*)
+ 29: 0x1D9D [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  30: 0x1DA0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1DA1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  32: 0x1DA8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 33: 0x1DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
+ 33: 0x1DAF [0x1D] PRINT_EVENT_MESSAGE(message_id=14070*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  34: 0x1DB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1DB3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  36: 0x1DBA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
  37: 0x1DC1 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 38: 0x1DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14071*)
+ 38: 0x1DC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14072*)
     → "What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!"
  39: 0x1DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x1DCA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5321,22 +5321,22 @@ SUBROUTINE_1BCD:
  45: 0x1DE6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  46: 0x1DE7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  47: 0x1DE8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 48: 0x1DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=14068*)
+ 48: 0x1DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
     → "I'm a trrrifle busy these days. Be a good [boy/girrrl] and leave me be."
  49: 0x1DF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1DF3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
  51: 0x1DFA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
- 52: 0x1E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=14069*)
+ 52: 0x1E01 [0x1D] PRINT_EVENT_MESSAGE(message_id=14070*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  53: 0x1E04 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1E05 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
  55: 0x1E0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
- 56: 0x1E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=14070*)
+ 56: 0x1E13 [0x1D] PRINT_EVENT_MESSAGE(message_id=14071*)
     → "You can't possibly be serious. An unaccomplished adventurer wanting to summon my alter ego? Purrrposterous."
  57: 0x1E16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x1E17 [0x03] Work_Zone[4] = 0*
  59: 0x1E1C [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
- 60: 0x1E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=14071*)
+ 60: 0x1E21 [0x1D] PRINT_EVENT_MESSAGE(message_id=14072*)
     → "What, did you think we were [bosom buddies/ready to settle down and have a couple kittens]!? I don't have any feelings for you!"
  61: 0x1E24 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x1E25 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5368,10 +5368,10 @@ SUBROUTINE_1EE5:
  86: 0x1EE5 [0x1C] WAIT(15* ticks)
  87: 0x1EE8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  88: 0x1EF9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
- 89: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=14072*)
+ 89: 0x1F00 [0x1D] PRINT_EVENT_MESSAGE(message_id=14073*)
     → "Ohhhhhh, what's this then? You've got $6? That must mean you're interrrested in Trust."
  90: 0x1F03 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x1F04 [0x24] CREATE_DIALOG(message_id=14073*, default_option=0*, option_flags=0*)
+ 91: 0x1F04 [0x24] CREATE_DIALOG(message_id=14074*, default_option=0*, option_flags=0*)
     → "Attempt Trust magic with her? [Of course./No way.]"
  92: 0x1F0B [0x25] WAIT_DIALOG_SELECT()
  93: 0x1F0C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x270E
@@ -5386,10 +5386,10 @@ SUBROUTINE_1EE5:
 SUBROUTINE_1F57:
 101: 0x1F57 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s167" with entities [EventEntity, EventEntity], work=[628*, 0*]
 102: 0x1F68 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-103: 0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=14075*)
+103: 0x1F6F [0x1D] PRINT_EVENT_MESSAGE(message_id=14076*)
     → "Hmm...the question is, am I willing to try this out with you? The whole idea makes my whiskerrrs twitch."
 104: 0x1F72 [0x23] WAIT_FOR_DIALOG_INTERACTION
-105: 0x1F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=14076*)
+105: 0x1F73 [0x1D] PRINT_EVENT_MESSAGE(message_id=14077*)
     → "Do you rrrealize how much pleading I had to do to get this scroll? The Jeuno Institute of Magical Studies is likely sick to death of my purring!"
 106: 0x1F76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x1F77 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0C)
@@ -5404,10 +5404,10 @@ SUBROUTINE_1F57:
 
 SUBROUTINE_1FD6:
 116: 0x1FD6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-117: 0x1FDD [0x1D] PRINT_EVENT_MESSAGE(message_id=14077*)
+117: 0x1FDD [0x1D] PRINT_EVENT_MESSAGE(message_id=14078*)
     → "And they complained the whole time! "The more Nanaa Mihgos, the more troubles the world will face," they said. Bah!"
 118: 0x1FE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-119: 0x1FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14078*)
+119: 0x1FE1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14079*)
     → "I'll have you know, everything I've done has been purrrfectly justified...under my own code of conduct."
 120: 0x1FE4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1FE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x02)
@@ -5430,11 +5430,11 @@ SUBROUTINE_202F:
 
 SUBROUTINE_2078:
 136: 0x2078 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x03)
-137: 0x207F [0x1D] PRINT_EVENT_MESSAGE(message_id=14079*)
+137: 0x207F [0x1D] PRINT_EVENT_MESSAGE(message_id=14080*)
     → "That's why I'm pondering whether to try this with you. If it fails, my clawing and scrrratching will have been for nothing."
 138: 0x2082 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x2083 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x04)
-140: 0x208A [0x1D] PRINT_EVENT_MESSAGE(message_id=14080*)
+140: 0x208A [0x1D] PRINT_EVENT_MESSAGE(message_id=14081*)
     → "I hate it when my efforrrts don't bear fruit."
 141: 0x208D [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x208E [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x20A8
@@ -5448,7 +5448,7 @@ SUBROUTINE_2078:
 SUBROUTINE_20D1:
 149: 0x20D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s170" with entities [EventEntity, EventEntity], work=[628*, 0*]
 150: 0x20E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
-151: 0x20E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14081*)
+151: 0x20E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14082*)
     → "You want me to think thoughts of trust, frrriendship, and sisterly love? <Sigh>"
 152: 0x20EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x20ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5466,7 +5466,7 @@ SUBROUTINE_20D1:
 
 SUBROUTINE_215D:
 165: 0x215D [0x1C] WAIT(50* ticks)
-166: 0x2160 [0x1D] PRINT_EVENT_MESSAGE(message_id=14082*)
+166: 0x2160 [0x1D] PRINT_EVENT_MESSAGE(message_id=14083*)
     → "I rrremember the first time you came to Windurst, and we had that chance meeting that set everything in motion."
 167: 0x2163 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x2164 [0x03] Work_Zone[4] = 1*
@@ -5494,7 +5494,7 @@ SUBROUTINE_21AC:
 SUBROUTINE_2218:
 187: 0x2218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 188: 0x221F [0x1C] WAIT(50* ticks)
-189: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=14083*)
+189: 0x2222 [0x1D] PRINT_EVENT_MESSAGE(message_id=14084*)
     → "[I remember now. When/Furthermore, when] I found that sharp stone, you were an idiot and sold it to that damned visitorrr from Bastok."
 190: 0x2225 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x2226 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5515,10 +5515,10 @@ SUBROUTINE_228F:
 204: 0x2296 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s173" with entities [EventEntity, EventEntity], work=[628*, 0*]
 205: 0x22A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 206: 0x22AE [0x1C] WAIT(50* ticks)
-207: 0x22B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14084*)
+207: 0x22B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14085*)
     → "[I remember now. We split that trrreasure trove belonging to Atarefaunet's Band./Not only that, who could forget that we split that trrreasure trove belonging to Atarefaunet's Band?]"
 208: 0x22B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-209: 0x22B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14085*)
+209: 0x22B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14086*)
     → "To this day, I can still only rrremember bits and pieces of what happened."
 210: 0x22B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 211: 0x22B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5533,12 +5533,12 @@ SUBROUTINE_228F:
 SUBROUTINE_2308:
 219: 0x2308 [0x1C] WAIT(60* ticks)
 220: 0x230B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
-221: 0x2312 [0x1D] PRINT_EVENT_MESSAGE(message_id=14086*)
+221: 0x2312 [0x1D] PRINT_EVENT_MESSAGE(message_id=14087*)
     → "[I'm absolutely sure you still recall/And I'm absolutely sure you still recall] that time. You know, with the people."
 222: 0x2315 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x2316 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
 224: 0x231D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x07)
-225: 0x2324 [0x1D] PRINT_EVENT_MESSAGE(message_id=14087*)
+225: 0x2324 [0x1D] PRINT_EVENT_MESSAGE(message_id=14088*)
     → "What was their name again? Oh, right. The Star Onion Brigade. Why you chose to side with a bunch of little miscrrreants rather than the big fish in the pond remains a mystery. I should have your hide for spoiling my once-in-a-lifetime opportunity!"
 226: 0x2327 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x2328 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x08)
@@ -5553,18 +5553,18 @@ SUBROUTINE_235D:
 234: 0x2364 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s175" with entities [EventEntity, EventEntity], work=[628*, 0*]
 235: 0x2375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 236: 0x237C [0x1C] WAIT(50* ticks)
-237: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=14088*)
+237: 0x237F [0x1D] PRINT_EVENT_MESSAGE(message_id=14089*)
     → "While we're talking about frrriendship, I hear you possess a certain likeness of me."
 238: 0x2382 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x2383 [0x03] Work_Zone[2] = (LocalPlayer->Render.Flags01 >> 25) & 1
-240: 0x2388 [0x1D] PRINT_EVENT_MESSAGE(message_id=14089*)
+240: 0x2388 [0x1D] PRINT_EVENT_MESSAGE(message_id=14090*)
     → "[How disgusting!/What a purrrvert!]"
 241: 0x238B [0x23] WAIT_FOR_DIALOG_INTERACTION
 242: 0x238C [0x52] END_LOAD_SCHEDULER: End scheduler "s175" with entities [EventEntity, EventEntity], work=628*
 243: 0x239B [0x03] Work_Zone[2] = LocalPlayer->Race
 244: 0x23A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s176" with entities [EventEntity, EventEntity], work=[628*, 0*]
 245: 0x23B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-246: 0x23B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14090*)
+246: 0x23B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14091*)
     → "Hahaha. I can't fault your taste, though. You picked verrry well."
 247: 0x23BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x23BC [0x03] Work_Zone[4] = 1*
@@ -5573,10 +5573,10 @@ SUBROUTINE_235D:
 251: 0x23D7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s177" with entities [EventEntity, EventEntity], work=[628*, 0*]
 252: 0x23E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x09)
 253: 0x23EF [0x1C] WAIT(50* ticks)
-254: 0x23F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14091*)
+254: 0x23F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14092*)
     → "[Remember/But there's more. Remember] that time you nearly shrrredded me to pieces?"
 255: 0x23F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-256: 0x23F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14092*)
+256: 0x23F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14093*)
     → "Tussling with those Goblins was a fun rrride, to be sure...but sometimes my legs still hurt!"
 257: 0x23F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 258: 0x23FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
@@ -5597,10 +5597,10 @@ SUBROUTINE_235D:
 SUBROUTINE_247F:
 272: 0x247F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x05)
 273: 0x2486 [0x1C] WAIT(50* ticks)
-274: 0x2489 [0x1D] PRINT_EVENT_MESSAGE(message_id=14093*)
+274: 0x2489 [0x1D] PRINT_EVENT_MESSAGE(message_id=14094*)
     → "Urk. I've got no other choice but to try out this scrrroll..."
 275: 0x248C [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x248D [0x1D] PRINT_EVENT_MESSAGE(message_id=14094*)
+276: 0x248D [0x1D] PRINT_EVENT_MESSAGE(message_id=14095*)
     → "You'll stand therrre until I give in, won't you? Let's get on with it, then."
 277: 0x2490 [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x2491 [0x02] IF !(Work_Zone[2] == 5*) GOTO 0x24AB
@@ -5616,7 +5616,7 @@ SUBROUTINE_247F:
 
 SUBROUTINE_24EE:
 288: 0x24EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s179" with entities [EventEntity, EventEntity], work=[628*, 0*]
-289: 0x24FF [0x1D] PRINT_EVENT_MESSAGE(message_id=14095*)
+289: 0x24FF [0x1D] PRINT_EVENT_MESSAGE(message_id=14096*)
     → "Close your eyes...and think only pleasant thoughts of me.t"
 290: 0x2502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x2503 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x06)
@@ -5659,7 +5659,7 @@ SUBROUTINE_266E:
 326: 0x266E [0x1E] EventEntity looks at LocalPlayer and starts talking
 327: 0x2673 [0x1C] WAIT(30* ticks)
 328: 0x2676 [0x4A] LocalPlayer looks at EventEntity
-329: 0x267F [0x1D] PRINT_EVENT_MESSAGE(message_id=14096*)
+329: 0x267F [0x1D] PRINT_EVENT_MESSAGE(message_id=14097*)
     → "Wow, this Trrrust thing actually worked! I thought it was some kind of sick joke. Now, for my fee. 100,000 gil will do nicely, don't you agrrree?"
 330: 0x2682 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x2683 [0x6E] LocalPlayer uses emote 21*
@@ -5676,10 +5676,10 @@ SUBROUTINE_266E:
 SUBROUTINE_26D5:
 341: 0x26D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s182" with entities [EventEntity, EventEntity], work=[628*, 0*]
 342: 0x26E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x01)
-343: 0x26ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14097*)
+343: 0x26ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14098*)
     → "Ahahaha! Gotcha!"
 344: 0x26F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x26F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14098*)
+345: 0x26F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14099*)
     → "Those robed nincompoops at the institute exprrressly forbid me from accepting any money for my troubles. Next time, though, it'll cost you! <Sigh> Why did I push so hard to try this, anyway?"
 346: 0x26F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x26F5 [0x03] Work_Zone[1] = 2*
@@ -5698,7 +5698,7 @@ SUBROUTINE_2759:
 358: 0x2759 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s166" with entities [EventEntity, EventEntity], work=[628*, 0*]
 359: 0x276A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0A)
 360: 0x2771 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17764466/0x010F1072), tag_num=0x0B)
-361: 0x2778 [0x1D] PRINT_EVENT_MESSAGE(message_id=14074*)
+361: 0x2778 [0x1D] PRINT_EVENT_MESSAGE(message_id=14075*)
     → "I have no time to play cat and mouse. If you've got nothing better to do, then scrrram."
 362: 0x277B [0x23] WAIT_FOR_DIALOG_INTERACTION
 363: 0x277C [0x03] Work_Zone[1] = 1*

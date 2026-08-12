@@ -20,59 +20,59 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272E      |       10030 |
+|       0 | 0x272F      |       10031 |
 |       1 | 0x000B      |          11 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2717      |       10007 |
-|       6 | 0x2718      |       10008 |
-|       7 | 0x2719      |       10009 |
+|       5 | 0x2718      |       10008 |
+|       6 | 0x2719      |       10009 |
+|       7 | 0x271A      |       10010 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x271A      |       10010 |
+|       9 | 0x271B      |       10011 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x271B      |       10011 |
+|      11 | 0x271C      |       10012 |
 |      12 | 0x0005      |           5 |
-|      13 | 0x271C      |       10012 |
+|      13 | 0x271D      |       10013 |
 |      14 | 0x0006      |           6 |
-|      15 | 0x271D      |       10013 |
+|      15 | 0x271E      |       10014 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x271E      |       10014 |
+|      17 | 0x271F      |       10015 |
 |      18 | 0x0008      |           8 |
-|      19 | 0x271F      |       10015 |
+|      19 | 0x2720      |       10016 |
 |      20 | 0x0009      |           9 |
-|      21 | 0x2720      |       10016 |
+|      21 | 0x2721      |       10017 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x2721      |       10017 |
-|      24 | 0x2722      |       10018 |
-|      25 | 0x2730      |       10032 |
+|      23 | 0x2722      |       10018 |
+|      24 | 0x2723      |       10019 |
+|      25 | 0x2731      |       10033 |
 |      26 | 0x00C8      |         200 |
 |      27 | 0x003C      |          60 |
 |      28 | 0x00D3      |         211 |
-|      29 | 0x2731      |       10033 |
+|      29 | 0x2732      |       10034 |
 |      30 | 0x0096      |         150 |
-|      31 | 0x2732      |       10034 |
-|      32 | 0x2733      |       10035 |
+|      31 | 0x2733      |       10035 |
+|      32 | 0x2734      |       10036 |
 |      33 | 0x0064      |         100 |
-|      34 | 0x272F      |       10031 |
+|      34 | 0x2730      |       10032 |
 
 ## String References
 
-- **10007**: The river near San d'Oria is... [the Sheval River./the Chevel River./the Cheval River.]
-- **10008**: The Konschtat Highlands houses... [the Crag of Mea./the Crag of Dem./the Crag of Holla.]
-- **10009**: West of Zulkheim is... [Vollbow./Derfland./Kuzotz.]
-- **10010**: Not found on Elshimo is... [the Sacrificial Chamber./the Cloister of Storms./the Temple of Uggalepih.]
-- **10011**: Delkfutt's Tower has... [eleven floors./twelve floors./thirteen floors.]
-- **10012**: The armourer in Bastok Markets is on... [the Klaus Bridge./the Kraun Bridge./the Kulatz Bridge.]
-- **10013**: The highest producer of mythril is... [the Palborough Mines./the Zeruhn Mines./the Gusgen Mines.]
-- **10014**: The sea to the east of Mindartia is... [the Bastore Sea./Gugru Blue./the Sea of Zafmlug.]
-- **10015**: You can catch $4 in... [Rotmarsh./Lake Mechieume./Maiden's Spring.]
-- **10016**: The falls in N. Gustaberg are called... [Drachenfall./Dragonfall./Drakenfall.]
-- **10017**: The map of Mindartia was drawn by... [Gwynham Ironheart./Enid Ironheart./Iron Eater.]
-- **10018**: In the Rabao Oasis, there are... [four springs./five springs./six springs.]
-- **10030**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10031**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10032**: YOU ARE RIGHT!
+- **10008**: The river near San d'Oria is... [the Sheval River./the Chevel River./the Cheval River.]
+- **10009**: The Konschtat Highlands houses... [the Crag of Mea./the Crag of Dem./the Crag of Holla.]
+- **10010**: West of Zulkheim is... [Vollbow./Derfland./Kuzotz.]
+- **10011**: Not found on Elshimo is... [the Sacrificial Chamber./the Cloister of Storms./the Temple of Uggalepih.]
+- **10012**: Delkfutt's Tower has... [eleven floors./twelve floors./thirteen floors.]
+- **10013**: The armourer in Bastok Markets is on... [the Klaus Bridge./the Kraun Bridge./the Kulatz Bridge.]
+- **10014**: The highest producer of mythril is... [the Palborough Mines./the Zeruhn Mines./the Gusgen Mines.]
+- **10015**: The sea to the east of Mindartia is... [the Bastore Sea./Gugru Blue./the Sea of Zafmlug.]
+- **10016**: You can catch $4 in... [Rotmarsh./Lake Mechieume./Maiden's Spring.]
+- **10017**: The falls in N. Gustaberg are called... [Drachenfall./Dragonfall./Drakenfall.]
+- **10018**: The map of Mindartia was drawn by... [Gwynham Ironheart./Enid Ironheart./Iron Eater.]
+- **10019**: In the Rabao Oasis, there are... [four springs./five springs./six springs.]
+- **10031**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10032**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10033**: YOU ARE RIGHT!
 
 ## Events
 
@@ -222,7 +222,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10030*]:
+  1: 0x0002 [0x48] [System] [10031*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 11*
@@ -230,7 +230,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 2*
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 0*
   7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 1*
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10007*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10008*, default_option=0*, option_flags=0*)
     → "The river near San d'Oria is... [the Sheval River./the Chevel River./the Cheval River.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -264,7 +264,7 @@ SUBROUTINE_007E:
  30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 1*
  31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 0*
  32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10008*, default_option=0*, option_flags=0*)
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10009*, default_option=0*, option_flags=0*)
     → "The Konschtat Highlands houses... [the Crag of Mea./the Crag of Dem./the Crag of Holla.]"
  34: 0x009F [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
@@ -298,7 +298,7 @@ SUBROUTINE_00F4:
  55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 0*
  56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 1*
  57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 58: 0x010E [0x24] CREATE_DIALOG(message_id=10009*, default_option=0*, option_flags=0*)
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=10010*, default_option=0*, option_flags=0*)
     → "West of Zulkheim is... [Vollbow./Derfland./Kuzotz.]"
  59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -332,7 +332,7 @@ SUBROUTINE_016A:
  80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 1*
  81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 0*
  82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
- 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10010*, default_option=0*, option_flags=0*)
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10011*, default_option=0*, option_flags=0*)
     → "Not found on Elshimo is... [the Sacrificial Chamber./the Cloister of Storms./the Temple of Uggalepih.]"
  84: 0x018B [0x25] WAIT_DIALOG_SELECT()
  85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
@@ -366,7 +366,7 @@ SUBROUTINE_01E0:
 105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 2*
 106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 0*
 107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 1*
-108: 0x01FA [0x24] CREATE_DIALOG(message_id=10011*, default_option=0*, option_flags=0*)
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=10012*, default_option=0*, option_flags=0*)
     → "Delkfutt's Tower has... [eleven floors./twelve floors./thirteen floors.]"
 109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
@@ -400,7 +400,7 @@ SUBROUTINE_0256:
 130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 2*
 131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 0*
 132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 1*
-133: 0x0270 [0x24] CREATE_DIALOG(message_id=10012*, default_option=0*, option_flags=0*)
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=10013*, default_option=0*, option_flags=0*)
     → "The armourer in Bastok Markets is on... [the Klaus Bridge./the Kraun Bridge./the Kulatz Bridge.]"
 134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
 135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
@@ -434,7 +434,7 @@ SUBROUTINE_02CC:
 155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 0*
 156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 1*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 2*
-158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10013*, default_option=0*, option_flags=0*)
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10014*, default_option=0*, option_flags=0*)
     → "The highest producer of mythril is... [the Palborough Mines./the Zeruhn Mines./the Gusgen Mines.]"
 159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
 160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
@@ -468,7 +468,7 @@ SUBROUTINE_0342:
 180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 1*
 181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 0*
 182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 2*
-183: 0x035C [0x24] CREATE_DIALOG(message_id=10014*, default_option=0*, option_flags=0*)
+183: 0x035C [0x24] CREATE_DIALOG(message_id=10015*, default_option=0*, option_flags=0*)
     → "The sea to the east of Mindartia is... [the Bastore Sea./Gugru Blue./the Sea of Zafmlug.]"
 184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
@@ -502,7 +502,7 @@ SUBROUTINE_03B8:
 205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 2*
 206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 0*
 207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 1*
-208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10015*, default_option=0*, option_flags=0*)
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10016*, default_option=0*, option_flags=0*)
     → "You can catch $4 in... [Rotmarsh./Lake Mechieume./Maiden's Spring.]"
 209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -536,7 +536,7 @@ SUBROUTINE_042E:
 230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 0*
 231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 1*
 232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 2*
-233: 0x0448 [0x24] CREATE_DIALOG(message_id=10016*, default_option=0*, option_flags=0*)
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=10017*, default_option=0*, option_flags=0*)
     → "The falls in N. Gustaberg are called... [Drachenfall./Dragonfall./Drakenfall.]"
 234: 0x044F [0x25] WAIT_DIALOG_SELECT()
 235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
@@ -570,7 +570,7 @@ SUBROUTINE_04A4:
 255: 0x04AF [0x03] ExtData[1]->WorkLocal[2] = 1*
 256: 0x04B4 [0x03] ExtData[1]->WorkLocal[0] = 0*
 257: 0x04B9 [0x03] ExtData[1]->WorkLocal[1] = 2*
-258: 0x04BE [0x24] CREATE_DIALOG(message_id=10017*, default_option=0*, option_flags=0*)
+258: 0x04BE [0x24] CREATE_DIALOG(message_id=10018*, default_option=0*, option_flags=0*)
     → "The map of Mindartia was drawn by... [Gwynham Ironheart./Enid Ironheart./Iron Eater.]"
 259: 0x04C5 [0x25] WAIT_DIALOG_SELECT()
 260: 0x04C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E2
@@ -604,7 +604,7 @@ SUBROUTINE_051A:
 280: 0x0525 [0x03] ExtData[1]->WorkLocal[2] = 2*
 281: 0x052A [0x03] ExtData[1]->WorkLocal[0] = 0*
 282: 0x052F [0x03] ExtData[1]->WorkLocal[1] = 1*
-283: 0x0534 [0x24] CREATE_DIALOG(message_id=10018*, default_option=0*, option_flags=0*)
+283: 0x0534 [0x24] CREATE_DIALOG(message_id=10019*, default_option=0*, option_flags=0*)
     → "In the Rabao Oasis, there are... [four springs./five springs./six springs.]"
 284: 0x053B [0x25] WAIT_DIALOG_SELECT()
 285: 0x053C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0558
@@ -643,7 +643,7 @@ SUBROUTINE_0593:
 SUBROUTINE_0597:
 307: 0x0597 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 308: 0x0598 [0x46] CAMERA_CONTROL: Disable user control
-309: 0x059A [0x48] [System] [10032*]:
+309: 0x059A [0x48] [System] [10033*]:
     → "YOU ARE RIGHT!"
 310: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x059E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -657,19 +657,19 @@ SUBROUTINE_0597:
 319: 0x05D1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 320: 0x05D6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s095" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 321: 0x05E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-322: 0x05F8 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
+322: 0x05F8 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
 323: 0x05FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 324: 0x0600 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 325: 0x0611 [0x1C] WAIT(150* ticks)
-326: 0x0614 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
+326: 0x0614 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
 327: 0x061B [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x061C [0x1C] WAIT(150* ticks)
 329: 0x061F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
 330: 0x062E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 331: 0x063F [0x1C] WAIT(60* ticks)
-332: 0x0642 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
+332: 0x0642 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10036*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
 333: 0x0649 [0x23] WAIT_FOR_DIALOG_INTERACTION
 334: 0x064A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -681,7 +681,7 @@ SUBROUTINE_0597:
 
 SUBROUTINE_0677:
 340: 0x0677 [0x03] Work_Zone[1] = 0*
-341: 0x067C [0x48] [System] [10031*]:
+341: 0x067C [0x48] [System] [10032*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
 342: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
 343: 0x0680 [0x1B] RETURN

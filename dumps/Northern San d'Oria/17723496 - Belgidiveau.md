@@ -25,34 +25,34 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2D10      |       11536 |
+|       1 | 0x2D11      |       11537 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x2D11      |       11537 |
+|       3 | 0x2D12      |       11538 |
 |       4 | 0x40000000  |  1073741824 |
-|       5 | 0x2D12      |       11538 |
-|       6 | 0x2D13      |       11539 |
-|       7 | 0x2D14      |       11540 |
-|       8 | 0x2D15      |       11541 |
+|       5 | 0x2D13      |       11539 |
+|       6 | 0x2D14      |       11540 |
+|       7 | 0x2D15      |       11541 |
+|       8 | 0x2D16      |       11542 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x2D16      |       11542 |
-|      12 | 0x2D17      |       11543 |
-|      13 | 0x2D18      |       11544 |
-|      14 | 0x2D19      |       11545 |
+|      11 | 0x2D17      |       11543 |
+|      12 | 0x2D18      |       11544 |
+|      13 | 0x2D19      |       11545 |
+|      14 | 0x2D1A      |       11546 |
 |      15 | 0x00C9      |         201 |
 
 ## String References
 
-- **11536**: These sluice gates divide Northern San d'Oria into two parts: the Parade Grounds, and Laborman's Way.
-- **11537**: Laborman's Way is much lower than the rest of the city. So to prevent flooding, we use these sluice gates to adjust the water for the entire district!
-- **11538**: Wait, you're an adventurer, aren't you? I have a request, if you've the time...
-- **11539**: Don't tell anyone, but someone sent me a letter saying they poisoned the water here! We're looking into the veracity of that claim now.
-- **11540**: In the meantime, we must prepare a neutralizer to eliminate the poison. Might you be willing to obtain one?
-- **11541**: Go fetch the neutralizer? [Let's do it./Not right now.]
-- **11542**: That is good news, indeed! Now, all we need is someone versed in the ways of poison, but they're a hard lot to find...
-- **11543**: Oh, we can't just let innocent people die from poisoned water now, can we?
-- **11544**: It's no easy task, finding a neutralizer, is it? Few are skilled in the arts of poison, though that's a good thing, I suppose.
-- **11545**: You've got the neutralizer! But, the thing is...it turns out it was all just a hoax. But we'll reward you anyway.
+- **11537**: These sluice gates divide Northern San d'Oria into two parts: the Parade Grounds, and Laborman's Way.
+- **11538**: Laborman's Way is much lower than the rest of the city. So to prevent flooding, we use these sluice gates to adjust the water for the entire district!
+- **11539**: Wait, you're an adventurer, aren't you? I have a request, if you've the time...
+- **11540**: Don't tell anyone, but someone sent me a letter saying they poisoned the water here! We're looking into the veracity of that claim now.
+- **11541**: In the meantime, we must prepare a neutralizer to eliminate the poison. Might you be willing to obtain one?
+- **11542**: Go fetch the neutralizer? [Let's do it./Not right now.]
+- **11543**: That is good news, indeed! Now, all we need is someone versed in the ways of poison, but they're a hard lot to find...
+- **11544**: Oh, we can't just let innocent people die from poisoned water now, can we?
+- **11545**: It's no easy task, finding a neutralizer, is it? Few are skilled in the arts of poison, though that's a good thing, I suppose.
+- **11546**: You've got the neutralizer! But, the thing is...it turns out it was all just a hoax. But we'll reward you anyway.
 
 ## Events
 
@@ -103,11 +103,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "These sluice gates divide Northern San d'Oria into two parts: the Parade Grounds, and Laborman's Way."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
     → "Laborman's Way is much lower than the rest of the city. So to prevent flooding, we use these sluice gates to adjust the water for the entire district!"
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -148,29 +148,29 @@
   2: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "Wait, you're an adventurer, aren't you? I have a request, if you've the time..."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
+  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
     → "Don't tell anyone, but someone sent me a letter saying they poisoned the water here! We're looking into the veracity of that claim now."
   8: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
+  9: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=11541*)
     → "In the meantime, we must prepare a neutralizer to eliminate the poison. Might you be willing to obtain one?"
  10: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0053 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 12: 0x0058 [0x24] CREATE_DIALOG(message_id=11541*, default_option=1*, option_flags=0*)
+ 12: 0x0058 [0x24] CREATE_DIALOG(message_id=11542*, default_option=1*, option_flags=0*)
     → "Go fetch the neutralizer? [Let's do it./Not right now.]"
  13: 0x005F [0x25] WAIT_DIALOG_SELECT()
  14: 0x0060 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0083
  15: 0x0068 [0x03] Work_Zone[1] = 0*
  16: 0x006D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 17: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=11542*)
+ 17: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
     → "That is good news, indeed! Now, all we need is someone versed in the ways of poison, but they're a hard lot to find..."
  18: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0080 [0x01] GOTO 0x00A1
  20: 0x0083 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00A1
  21: 0x008B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 22: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
+ 22: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
     → "Oh, we can't just let innocent people die from poisoned water now, can we?"
  23: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x009E [0x01] GOTO 0x00A1
@@ -204,7 +204,7 @@ SUBROUTINE_00A1:
   1: 0x00A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
+  4: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
     → "It's no easy task, finding a neutralizer, is it? Few are skilled in the arts of poison, though that's a good thing, I suppose."
   5: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00BD [0x21] END_EVENT
@@ -237,7 +237,7 @@ SUBROUTINE_00A1:
   1: 0x00C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
+  4: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11546*)
     → "You've got the neutralizer! But, the thing is...it turns out it was all just a hoax. But we'll reward you anyway."
   5: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

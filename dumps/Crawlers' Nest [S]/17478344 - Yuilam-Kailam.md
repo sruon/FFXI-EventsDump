@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1DC8      |        7624 |
-|       2 | 0x1DC9      |        7625 |
+|       1 | 0x1DC9      |        7625 |
+|       2 | 0x1DCA      |        7626 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [7624*]:
+  2: 0x000D [0x2B] EventEntity [7625*]:
     → "Hold it, intruder! You could be a Quadav sabotuer! If you had squinty-winty little eyes...and a shell...and a head like a turtle..."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [7625*]:
+  4: 0x0015 [0x2B] EventEntity [7626*]:
     → "It's obvious to me those beastmen are maneuvering for a shot at Jeuno. We can't be too careful about who we have winder-wandering around this base."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

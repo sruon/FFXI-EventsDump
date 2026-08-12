@@ -47,27 +47,27 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x30CE      |       12494 |
-|       1 | 0x20A8      |        8360 |
-|       2 | 0x20A9      |        8361 |
+|       1 | 0x20A9      |        8361 |
+|       2 | 0x20AA      |        8362 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x20AA      |        8362 |
-|       6 | 0x20AB      |        8363 |
-|       7 | 0x20AC      |        8364 |
-|       8 | 0x20BE      |        8382 |
-|       9 | 0x20C9      |        8393 |
+|       5 | 0x20AB      |        8363 |
+|       6 | 0x20AC      |        8364 |
+|       7 | 0x20AD      |        8365 |
+|       8 | 0x20BF      |        8383 |
+|       9 | 0x20CA      |        8394 |
 |      10 | 0x01C1      |         449 |
-|      11 | 0x20CA      |        8394 |
-|      12 | 0x20CB      |        8395 |
-|      13 | 0x20CC      |        8396 |
-|      14 | 0x20EF      |        8431 |
-|      15 | 0x20F7      |        8439 |
-|      16 | 0x20F8      |        8440 |
-|      17 | 0x20FE      |        8446 |
+|      11 | 0x20CB      |        8395 |
+|      12 | 0x20CC      |        8396 |
+|      13 | 0x20CD      |        8397 |
+|      14 | 0x20F0      |        8432 |
+|      15 | 0x20F8      |        8440 |
+|      16 | 0x20F9      |        8441 |
+|      17 | 0x20FF      |        8447 |
 |      18 | 0x0014      |          20 |
-|      19 | 0x1ED3      |        7891 |
+|      19 | 0x1ED4      |        7892 |
 |      20 | 0x003C      |          60 |
-|      21 | 0x1ED4      |        7892 |
+|      21 | 0x1ED5      |        7893 |
 |      22 | 0x001E      |          30 |
 |      23 | 0x0007      |           7 |
 |      24 | 0xFFFFFAE5  |  4294965989 |
@@ -81,9 +81,9 @@
 
 ## String References
 
-- **7891**: Come on, man, I think we're a little over our heads here! Someone big over in Jeuno gave that to commemorate...
-- **7892**: H-hey! Who are you? I don't know what you heard, but this is Brugaire Consortium business! Top secret. Get lost.
-- **8361**: Help him out? [Sure, why not./I only work for cold, hard gil.]
+- **7892**: Come on, man, I think we're a little over our heads here! Someone big over in Jeuno gave that to commemorate...
+- **7893**: H-hey! Who are you? I don't know what you heard, but this is Brugaire Consortium business! Top secret. Get lost.
+- **8362**: Help him out? [Sure, why not./I only work for cold, hard gil.]
 
 ## Events
 
@@ -180,21 +180,21 @@
   1: 0x0005 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x000A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   3: 0x000B [0x03] Work_Zone[9] = 12494*
-  4: 0x0010 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8360*]:
+  4: 0x0010 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8361*]:
     → "Do you think that you could find me $7? I can't pay you anything, and I know it's a lot to ask..."
   5: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0018 [0x06] Work_Zone[1] = 0
-  7: 0x001B [0x24] CREATE_DIALOG(message_id=8361*, default_option=1*, option_flags=0*)
+  7: 0x001B [0x24] CREATE_DIALOG(message_id=8362*, default_option=1*, option_flags=0*)
     → "Help him out? [Sure, why not./I only work for cold, hard gil.]"
   8: 0x0022 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0023 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003B
- 10: 0x002B [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8362*]:
+ 10: 0x002B [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8363*]:
     → "Really? Well, I won't hold my breath. There aren't too many adventurers who work for nothing these days."
  11: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0033 [0x03] Work_Zone[1] = 1*
  13: 0x0038 [0x01] GOTO 0x004E
  14: 0x003B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x004E
- 15: 0x0043 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8363*]:
+ 15: 0x0043 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8364*]:
     → "Can't say I'm surprised. Haven't met many adventurers who work for free."
  16: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x004B [0x01] GOTO 0x004E
@@ -226,7 +226,7 @@ SUBROUTINE_004E:
 ```
   0: 0x0050 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0055 [0x03] Work_Zone[9] = 12494*
-  2: 0x005A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8364*]:
+  2: 0x005A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8365*]:
     → "Well, I'm not gonna hold my breath waiting for that $7. There aren't too many adventurers who work for nothing these days."
   3: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0062 [0x21] END_EVENT
@@ -276,7 +276,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x0065 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x006A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8382*]:
+  1: 0x006A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8383*]:
     → "I hope my child will be sad when I leave this world... Dammit, I'm starting to tear up. Gotta get back to work."
   2: 0x0071 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0072 [0x21] END_EVENT
@@ -326,7 +326,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x0075 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x007A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8393*]:
+  1: 0x007A [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8394*]:
     → "The cad that mugged our boss must have been following him the whole time. There must be someone who saw what happened."
   2: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0082 [0x21] END_EVENT
@@ -355,10 +355,10 @@ SUBROUTINE_004E:
 ```
   0: 0x0084 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0089 [0x03] Work_Zone[9] = 449*
-  2: 0x008E [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8394*]:
+  2: 0x008E [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8395*]:
     → "The girl who tended to the boss after his attack picked up that $3? Hmm, I guess it could have belonged to his attacker..."
   3: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0096 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8395*]:
+  4: 0x0096 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8396*]:
     → "That kind of jewelry isn't worth much without the matching earring. It looks to be of reasonably high quality, and would bring in a nice profit if you could get the Goldsmith's Guild to recreate its partner."
   5: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009E [0x21] END_EVENT
@@ -385,7 +385,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00A0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8396*]:
+  1: 0x00A5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8397*]:
     → "The person who attacked our boss must have lost their desire to live. As soon as you find out who it is, the boss is gonna beat them to a pulp!"
   2: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00AD [0x21] END_EVENT
@@ -434,7 +434,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00B0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8431*]:
+  1: 0x00B5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8432*]:
     → "Our boss is really a nice guy, but he's just a little awkward in expressing himself. It's that quality that makes me wanna keep working for him."
   2: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00BD [0x21] END_EVENT
@@ -483,7 +483,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00C0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00C5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8439*]:
+  1: 0x00C5 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8440*]:
     → "You've got nerve, keeping secrets from the boss... I think you'd be better off finding that treasure chest in the Kuftal Tunnel and getting back here as soon as possible!"
   2: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00CD [0x21] END_EVENT
@@ -511,7 +511,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00CF [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00D4 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8440*]:
+  1: 0x00D4 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8441*]:
     → "Huh, the chest was empty!? All you found was some letter of defiance...? When the boss finds out, he's gonna hit the roof! He hates to be made a fool of..."
   2: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00DC [0x21] END_EVENT
@@ -561,7 +561,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00DF [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00E4 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8446*]:
+  1: 0x00E4 [0x2B] Ceraulian (ID: 17727560/0x010E8048) [8447*]:
     → "All this "last dragoon" business has tired me out, but at least it's never dull around here! Keeps me motivated, even if meeting my quota can be stressful sometimes."
   2: 0x00EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00EC [0x21] END_EVENT
@@ -592,7 +592,7 @@ SUBROUTINE_004E:
 
 ```
   0: 0x00EE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  1: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
+  1: 0x00FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
     → "Come on, man, I think we're a little over our heads here! Someone big over in Jeuno gave that to commemorate..."
   2: 0x0100 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0101 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -601,7 +601,7 @@ SUBROUTINE_004E:
   6: 0x010E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x010F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x0110 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  9: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7892*)
+  9: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=7893*)
     → "H-hey! Who are you? I don't know what you heard, but this is Brugaire Consortium business! Top secret. Get lost."
  10: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0123 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

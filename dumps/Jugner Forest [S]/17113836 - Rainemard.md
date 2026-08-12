@@ -22,19 +22,19 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x1E75      |        7797 |
+|       2 | 0x1E76      |        7798 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x1E72      |        7794 |
-|       6 | 0x1E73      |        7795 |
-|       7 | 0x1E74      |        7796 |
+|       5 | 0x1E73      |        7795 |
+|       6 | 0x1E74      |        7796 |
+|       7 | 0x1E75      |        7797 |
 
 ## String References
 
-- **7794**: Many lives were lost when the Orcs invaded the quiet village of La Vaule. The tears of motherless children still dampen the forest bed.
-- **7795**: Is this war nothing but the simple culmination of hate between the children of the dawn and those of the twilight? Or does a darker secret yet lurk in the shadows?
-- **7796**: I can sense something on that island. Something important...
-- **7797**: If the light of Altana so guides me, then perhaps I may take up my ensorcelled blade in the service of your nation.
+- **7795**: Many lives were lost when the Orcs invaded the quiet village of La Vaule. The tears of motherless children still dampen the forest bed.
+- **7796**: Is this war nothing but the simple culmination of hate between the children of the dawn and those of the twilight? Or does a darker secret yet lurk in the shadows?
+- **7797**: I can sense something on that island. Something important...
+- **7798**: If the light of Altana so guides me, then perhaps I may take up my ensorcelled blade in the service of your nation.
 
 ## Events
 
@@ -107,19 +107,19 @@
  11: 0x003D [0x01] GOTO 0x007C
  12: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0054
  13: 0x0048 [0x03] Work_Zone[2] = 0*
- 14: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+ 14: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "If the light of Altana so guides me, then perhaps I may take up my ensorcelled blade in the service of your nation."
  15: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0051 [0x01] GOTO 0x007C
  17: 0x0054 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x0068
  18: 0x005C [0x03] Work_Zone[2] = 1*
- 19: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+ 19: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "If the light of Altana so guides me, then perhaps I may take up my ensorcelled blade in the service of your nation."
  20: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0065 [0x01] GOTO 0x007C
  22: 0x0068 [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x007C
  23: 0x0070 [0x03] Work_Zone[2] = 2*
- 24: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
+ 24: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7798*)
     → "If the light of Altana so guides me, then perhaps I may take up my ensorcelled blade in the service of your nation."
  25: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0079 [0x01] GOTO 0x007C
@@ -127,17 +127,17 @@
 SUBROUTINE_007C:
  27: 0x007C [0x01] GOTO 0x00AC
  28: 0x007F [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x008E
- 29: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+ 29: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Many lives were lost when the Orcs invaded the quiet village of La Vaule. The tears of motherless children still dampen the forest bed."
  30: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x008B [0x01] GOTO 0x00AC
  32: 0x008E [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x009D
- 33: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+ 33: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "Is this war nothing but the simple culmination of hate between the children of the dawn and those of the twilight? Or does a darker secret yet lurk in the shadows?"
  34: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x009A [0x01] GOTO 0x00AC
  36: 0x009D [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x00AC
- 37: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+ 37: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "I can sense something on that island. Something important..."
  38: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00A9 [0x01] GOTO 0x00AC
@@ -150,17 +150,17 @@ SUBROUTINE_00AC:
 SUBROUTINE_00BA:
  43: 0x00BA [0x01] GOTO 0x00EA
  44: 0x00BD [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x00CC
- 45: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+ 45: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Many lives were lost when the Orcs invaded the quiet village of La Vaule. The tears of motherless children still dampen the forest bed."
  46: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00C9 [0x01] GOTO 0x00EA
  48: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x00DB
- 49: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+ 49: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "Is this war nothing but the simple culmination of hate between the children of the dawn and those of the twilight? Or does a darker secret yet lurk in the shadows?"
  50: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00D8 [0x01] GOTO 0x00EA
  52: 0x00DB [0x02] IF !(ExtData[1]->WorkLocal[4] == 2*) GOTO 0x00EA
- 53: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
+ 53: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7797*)
     → "I can sense something on that island. Something important..."
  54: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x00E7 [0x01] GOTO 0x00EA

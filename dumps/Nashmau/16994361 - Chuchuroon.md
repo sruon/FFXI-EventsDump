@@ -22,11 +22,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2949      |       10569 |
-|       1 | 0x294A      |       10570 |
+|       0 | 0x294A      |       10570 |
+|       1 | 0x294B      |       10571 |
 |       2 | 0x034A      |         842 |
 |       3 | 0x001E      |          30 |
-|       4 | 0x294B      |       10571 |
+|       4 | 0x294C      |       10572 |
 |       5 | 0x003C      |          60 |
 |       6 | 0xFFFFE579  |  4294960505 |
 |       7 | 0xFFFF592D  |  4294924589 |
@@ -35,9 +35,9 @@
 
 ## String References
 
-- **10569**: Chuchuroon now traaaining muscle.
-- **10570**: Chuchuroon strooong, no? Chuchuroon faaast, no? Chuchuroon like mercenary, no?
-- **10571**: ... Okay, you think that enough exercise to become mercenary, no?
+- **10570**: Chuchuroon now traaaining muscle.
+- **10571**: Chuchuroon strooong, no? Chuchuroon faaast, no? Chuchuroon like mercenary, no?
+- **10572**: ... Okay, you think that enough exercise to become mercenary, no?
 
 ## Events
 
@@ -86,15 +86,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10569*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=10570*)
     → "Chuchuroon now traaaining muscle."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10570*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=10571*)
     → "Chuchuroon strooong, no? Chuchuroon faaast, no? Chuchuroon like mercenary, no?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [EventEntity, EventEntity], work=842*
   6: 0x001D [0x1C] WAIT(30* ticks)
-  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=10571*)
+  7: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=10572*)
     → "... Okay, you think that enough exercise to become mercenary, no?"
   8: 0x0023 [0x1C] WAIT(30* ticks)
   9: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION

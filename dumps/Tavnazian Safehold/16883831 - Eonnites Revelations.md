@@ -20,33 +20,33 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B75      |       11125 |
+|       0 | 0x2B76      |       11126 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2B76      |       11126 |
+|       2 | 0x2B77      |       11127 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x2B8E      |       11150 |
-|       5 | 0x2B77      |       11127 |
-|       6 | 0x2B78      |       11128 |
-|       7 | 0x2B79      |       11129 |
-|       8 | 0x2B7A      |       11130 |
-|       9 | 0x2B7B      |       11131 |
-|      10 | 0x2B7C      |       11132 |
-|      11 | 0x2B7D      |       11133 |
-|      12 | 0x2B7E      |       11134 |
+|       4 | 0x2B8F      |       11151 |
+|       5 | 0x2B78      |       11128 |
+|       6 | 0x2B79      |       11129 |
+|       7 | 0x2B7A      |       11130 |
+|       8 | 0x2B7B      |       11131 |
+|       9 | 0x2B7C      |       11132 |
+|      10 | 0x2B7D      |       11133 |
+|      11 | 0x2B7E      |       11134 |
+|      12 | 0x2B7F      |       11135 |
 
 ## String References
 
-- **11125**: Read the scripture? [Yes./No.]
-- **11126**: Long, long ago, an ancient race, descended from the gods, flourished in Vana'diel.
-- **11127**: They traveled through the sky, extracted gold from stones, and gave birth to grasslands across the world.
-- **11128**: But one day, they decided to build a pathway to the divine entrance of Paradise.
-- **11129**: Enraged by such a brazen display of insolence, the gatekeeper destroyed their path and cast their homes to the bottom of the sea.
-- **11130**: Shortly thereafter, the goddess Altana awakened and saw the ruin that had once been Vana'diel. Saddened, She wept five divine tears.
-- **11131**: When the five tears fell upon the earth, they gave life to the five races of Vana'diel.
-- **11132**: But the god Promathia saw this from His place in the shadows. The Twilight God saw fit to condemn Altana's work, cursing the people with eternal conflict amongst themselves.
-- **11133**: He created terrible beasts and spread them across the world, commanding them to fight the people of Vana'diel and occupy their minds.
-- **11134**: Never again would they think to open the Gate of the Gods.
-- **11150**: 
+- **11126**: Read the scripture? [Yes./No.]
+- **11127**: Long, long ago, an ancient race, descended from the gods, flourished in Vana'diel.
+- **11128**: They traveled through the sky, extracted gold from stones, and gave birth to grasslands across the world.
+- **11129**: But one day, they decided to build a pathway to the divine entrance of Paradise.
+- **11130**: Enraged by such a brazen display of insolence, the gatekeeper destroyed their path and cast their homes to the bottom of the sea.
+- **11131**: Shortly thereafter, the goddess Altana awakened and saw the ruin that had once been Vana'diel. Saddened, She wept five divine tears.
+- **11132**: When the five tears fell upon the earth, they gave life to the five races of Vana'diel.
+- **11133**: But the god Promathia saw this from His place in the shadows. The Twilight God saw fit to condemn Altana's work, cursing the people with eternal conflict amongst themselves.
+- **11134**: He created terrible beasts and spread them across the world, commanding them to fight the people of Vana'diel and occupy their minds.
+- **11135**: Never again would they think to open the Gate of the Gods.
+- **11151**: 
 
 ## Events
 
@@ -102,63 +102,63 @@
 ```
   0: 0x0001 [0x9C] STORE_CLIENT_LANGUAGE_ID(result=0x00)
   1: 0x0004 [0x4A] LocalPlayer looks at EventEntity
-  2: 0x000D [0x24] CREATE_DIALOG(message_id=11125*, default_option=0*, option_flags=0*)
+  2: 0x000D [0x24] CREATE_DIALOG(message_id=11126*, default_option=0*, option_flags=0*)
     → "Read the scripture? [Yes./No.]"
   3: 0x0014 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0098
-  5: 0x001D [0x48] [System] [11126*]:
+  5: 0x001D [0x48] [System] [11127*]:
     → "Long, long ago, an ancient race, descended from the gods, flourished in Vana'diel."
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x002D
-  8: 0x0029 [0x48] [System] [11150*]:
+  8: 0x0029 [0x48] [System] [11151*]:
     → ""
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x002D [0x48] [System] [11127*]:
+ 10: 0x002D [0x48] [System] [11128*]:
     → "They traveled through the sky, extracted gold from stones, and gave birth to grasslands across the world."
  11: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0031 [0x48] [System] [11128*]:
+ 12: 0x0031 [0x48] [System] [11129*]:
     → "But one day, they decided to build a pathway to the divine entrance of Paradise."
  13: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0035 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0041
- 15: 0x003D [0x48] [System] [11150*]:
+ 15: 0x003D [0x48] [System] [11151*]:
     → ""
  16: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0041 [0x48] [System] [11129*]:
+ 17: 0x0041 [0x48] [System] [11130*]:
     → "Enraged by such a brazen display of insolence, the gatekeeper destroyed their path and cast their homes to the bottom of the sea."
  18: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0051
- 20: 0x004D [0x48] [System] [11150*]:
+ 20: 0x004D [0x48] [System] [11151*]:
     → ""
  21: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0051 [0x48] [System] [11130*]:
+ 22: 0x0051 [0x48] [System] [11131*]:
     → "Shortly thereafter, the goddess Altana awakened and saw the ruin that had once been Vana'diel. Saddened, She wept five divine tears."
  23: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0055 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0061
- 25: 0x005D [0x48] [System] [11150*]:
+ 25: 0x005D [0x48] [System] [11151*]:
     → ""
  26: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0061 [0x48] [System] [11131*]:
+ 27: 0x0061 [0x48] [System] [11132*]:
     → "When the five tears fell upon the earth, they gave life to the five races of Vana'diel."
  28: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0065 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0071
- 30: 0x006D [0x48] [System] [11150*]:
+ 30: 0x006D [0x48] [System] [11151*]:
     → ""
  31: 0x0070 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0071 [0x48] [System] [11132*]:
+ 32: 0x0071 [0x48] [System] [11133*]:
     → "But the god Promathia saw this from His place in the shadows. The Twilight God saw fit to condemn Altana's work, cursing the people with eternal conflict amongst themselves."
  33: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0075 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0081
- 35: 0x007D [0x48] [System] [11150*]:
+ 35: 0x007D [0x48] [System] [11151*]:
     → ""
  36: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0081 [0x48] [System] [11133*]:
+ 37: 0x0081 [0x48] [System] [11134*]:
     → "He created terrible beasts and spread them across the world, commanding them to fight the people of Vana'diel and occupy their minds."
  38: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0085 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0091
- 40: 0x008D [0x48] [System] [11150*]:
+ 40: 0x008D [0x48] [System] [11151*]:
     → ""
  41: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 42: 0x0091 [0x48] [System] [11134*]:
+ 42: 0x0091 [0x48] [System] [11135*]:
     → "Never again would they think to open the Gate of the Gods."
  43: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0095 [0x01] GOTO 0x0098

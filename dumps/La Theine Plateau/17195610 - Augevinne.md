@@ -21,11 +21,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1CF6      |        7414 |
+|       1 | 0x1CF7      |        7415 |
 
 ## String References
 
-- **7414**: One of the "injured" soldiers has gone missing! Well, don't just stand there! Help us search!
+- **7415**: One of the "injured" soldiers has gone missing! Well, don't just stand there! Help us search!
 
 ## Events
 
@@ -76,7 +76,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7415*)
     → "One of the "injured" soldiers has gone missing! Well, don't just stand there! Help us search!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B3B      |       11067 |
+|       0 | 0x2B3C      |       11068 |
 |       1 | 0x01F1      |         497 |
-|       2 | 0x2B3C      |       11068 |
-|       3 | 0x2B3D      |       11069 |
+|       2 | 0x2B3D      |       11069 |
+|       3 | 0x2B3E      |       11070 |
 
 ## String References
 
-- **11067**: "The abhorrent one" lives among us... It is because of this that I often fear for the safety of my children and grandchildren...
-- **11068**: I can only pray that Altana has mercy on those Tavnazians with pure souls...
-- **11069**: ...and strikes down those who bring disaster to our humble city.
+- **11068**: "The abhorrent one" lives among us... It is because of this that I often fear for the safety of my children and grandchildren...
+- **11069**: I can only pray that Altana has mercy on those Tavnazians with pure souls...
+- **11070**: ...and strikes down those who bring disaster to our humble city.
 
 ## Events
 
@@ -77,14 +77,14 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11067*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11068*)
     → ""The abhorrent one" lives among us... It is because of this that I often fear for the safety of my children and grandchildren..."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "rei0" with entities [EventEntity, EventEntity], work=497*
-  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11068*)
+  4: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11069*)
     → "I can only pray that Altana has mercy on those Tavnazians with pure souls..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11069*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11070*)
     → "...and strikes down those who bring disaster to our humble city."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0021 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "rei0" with entities [EventEntity, EventEntity]

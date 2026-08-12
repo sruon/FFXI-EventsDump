@@ -20,45 +20,45 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272E      |       10030 |
+|       0 | 0x272F      |       10031 |
 |       1 | 0x0005      |           5 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2711      |       10001 |
-|       6 | 0x2712      |       10002 |
-|       7 | 0x2713      |       10003 |
+|       5 | 0x2712      |       10002 |
+|       6 | 0x2713      |       10003 |
+|       7 | 0x2714      |       10004 |
 |       8 | 0x0003      |           3 |
-|       9 | 0x2714      |       10004 |
+|       9 | 0x2715      |       10005 |
 |      10 | 0x0004      |           4 |
-|      11 | 0x2715      |       10005 |
-|      12 | 0x2716      |       10006 |
+|      11 | 0x2716      |       10006 |
+|      12 | 0x2717      |       10007 |
 |      13 | 0x0006      |           6 |
 |      14 | 0x0007      |           7 |
 |      15 | 0x0008      |           8 |
 |      16 | 0x0009      |           9 |
-|      17 | 0x2730      |       10032 |
+|      17 | 0x2731      |       10033 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x003C      |          60 |
 |      20 | 0x00D3      |         211 |
-|      21 | 0x2731      |       10033 |
+|      21 | 0x2732      |       10034 |
 |      22 | 0x0096      |         150 |
-|      23 | 0x2732      |       10034 |
-|      24 | 0x2733      |       10035 |
+|      23 | 0x2733      |       10035 |
+|      24 | 0x2734      |       10036 |
 |      25 | 0x0064      |         100 |
-|      26 | 0x272F      |       10031 |
+|      26 | 0x2730      |       10032 |
 
 ## String References
 
-- **10001**: $1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]
-- **10002**: $2 can be found on... [Ichorous Ire./Leech King./Argus.]
-- **10003**: $3 can be found on... [a damselfly./Valkurm Emperor./Marchelute.]
-- **10004**: $4 can be found on... [Huu Xalmo the Savage./Mee Deggi the Punisher./Moo Ouzi the Swiftblade.]
-- **10005**: $5 can be found on... [Quu Domi the Gallant./Yagudo Templar./Yagudo Avatar.]
-- **10006**: $6 can be found on... [Simurgh./a silk caterpillar./Rock.]
-- **10030**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
-- **10031**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
-- **10032**: YOU ARE RIGHT!
+- **10002**: $1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]
+- **10003**: $2 can be found on... [Ichorous Ire./Leech King./Argus.]
+- **10004**: $3 can be found on... [a damselfly./Valkurm Emperor./Marchelute.]
+- **10005**: $4 can be found on... [Huu Xalmo the Savage./Mee Deggi the Punisher./Moo Ouzi the Swiftblade.]
+- **10006**: $5 can be found on... [Quu Domi the Gallant./Yagudo Templar./Yagudo Avatar.]
+- **10007**: $6 can be found on... [Simurgh./a silk caterpillar./Rock.]
+- **10031**: ARE YOU READY FOR THE QUIZ DE VANA'DIEL?
+- **10032**: THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!
+- **10033**: YOU ARE RIGHT!
 
 ## Events
 
@@ -193,7 +193,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [10030*]:
+  1: 0x0002 [0x48] [System] [10031*]:
     → "ARE YOU READY FOR THE QUIZ DE VANA'DIEL?"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x13] ExtData[1]->WorkLocal[3] = rand() % 5*
@@ -201,7 +201,7 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = 2*
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[0] = 0*
   7: 0x001D [0x03] ExtData[1]->WorkLocal[1] = 1*
-  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10001*, default_option=0*, option_flags=0*)
+  8: 0x0022 [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
     → "$1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]"
   9: 0x0029 [0x25] WAIT_DIALOG_SELECT()
  10: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
@@ -235,7 +235,7 @@ SUBROUTINE_007E:
  30: 0x0089 [0x03] ExtData[1]->WorkLocal[2] = 2*
  31: 0x008E [0x03] ExtData[1]->WorkLocal[0] = 0*
  32: 0x0093 [0x03] ExtData[1]->WorkLocal[1] = 1*
- 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
+ 33: 0x0098 [0x24] CREATE_DIALOG(message_id=10003*, default_option=0*, option_flags=0*)
     → "$2 can be found on... [Ichorous Ire./Leech King./Argus.]"
  34: 0x009F [0x25] WAIT_DIALOG_SELECT()
  35: 0x00A0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00BC
@@ -269,7 +269,7 @@ SUBROUTINE_00F4:
  55: 0x00FF [0x03] ExtData[1]->WorkLocal[2] = 1*
  56: 0x0104 [0x03] ExtData[1]->WorkLocal[0] = 0*
  57: 0x0109 [0x03] ExtData[1]->WorkLocal[1] = 2*
- 58: 0x010E [0x24] CREATE_DIALOG(message_id=10003*, default_option=0*, option_flags=0*)
+ 58: 0x010E [0x24] CREATE_DIALOG(message_id=10004*, default_option=0*, option_flags=0*)
     → "$3 can be found on... [a damselfly./Valkurm Emperor./Marchelute.]"
  59: 0x0115 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0132
@@ -303,7 +303,7 @@ SUBROUTINE_016A:
  80: 0x0175 [0x03] ExtData[1]->WorkLocal[2] = 1*
  81: 0x017A [0x03] ExtData[1]->WorkLocal[0] = 0*
  82: 0x017F [0x03] ExtData[1]->WorkLocal[1] = 2*
- 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10004*, default_option=0*, option_flags=0*)
+ 83: 0x0184 [0x24] CREATE_DIALOG(message_id=10005*, default_option=0*, option_flags=0*)
     → "$4 can be found on... [Huu Xalmo the Savage./Mee Deggi the Punisher./Moo Ouzi the Swiftblade.]"
  84: 0x018B [0x25] WAIT_DIALOG_SELECT()
  85: 0x018C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A8
@@ -337,7 +337,7 @@ SUBROUTINE_01E0:
 105: 0x01EB [0x03] ExtData[1]->WorkLocal[2] = 0*
 106: 0x01F0 [0x03] ExtData[1]->WorkLocal[0] = 1*
 107: 0x01F5 [0x03] ExtData[1]->WorkLocal[1] = 2*
-108: 0x01FA [0x24] CREATE_DIALOG(message_id=10005*, default_option=0*, option_flags=0*)
+108: 0x01FA [0x24] CREATE_DIALOG(message_id=10006*, default_option=0*, option_flags=0*)
     → "$5 can be found on... [Quu Domi the Gallant./Yagudo Templar./Yagudo Avatar.]"
 109: 0x0201 [0x25] WAIT_DIALOG_SELECT()
 110: 0x0202 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x021E
@@ -371,7 +371,7 @@ SUBROUTINE_0256:
 130: 0x0261 [0x03] ExtData[1]->WorkLocal[2] = 0*
 131: 0x0266 [0x03] ExtData[1]->WorkLocal[0] = 1*
 132: 0x026B [0x03] ExtData[1]->WorkLocal[1] = 2*
-133: 0x0270 [0x24] CREATE_DIALOG(message_id=10006*, default_option=0*, option_flags=0*)
+133: 0x0270 [0x24] CREATE_DIALOG(message_id=10007*, default_option=0*, option_flags=0*)
     → "$6 can be found on... [Simurgh./a silk caterpillar./Rock.]"
 134: 0x0277 [0x25] WAIT_DIALOG_SELECT()
 135: 0x0278 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0294
@@ -405,7 +405,7 @@ SUBROUTINE_02CC:
 155: 0x02D7 [0x03] ExtData[1]->WorkLocal[2] = 2*
 156: 0x02DC [0x03] ExtData[1]->WorkLocal[0] = 0*
 157: 0x02E1 [0x03] ExtData[1]->WorkLocal[1] = 1*
-158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10001*, default_option=0*, option_flags=0*)
+158: 0x02E6 [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
     → "$1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]"
 159: 0x02ED [0x25] WAIT_DIALOG_SELECT()
 160: 0x02EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x030A
@@ -439,7 +439,7 @@ SUBROUTINE_0342:
 180: 0x034D [0x03] ExtData[1]->WorkLocal[2] = 2*
 181: 0x0352 [0x03] ExtData[1]->WorkLocal[0] = 0*
 182: 0x0357 [0x03] ExtData[1]->WorkLocal[1] = 1*
-183: 0x035C [0x24] CREATE_DIALOG(message_id=10001*, default_option=0*, option_flags=0*)
+183: 0x035C [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
     → "$1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]"
 184: 0x0363 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0364 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0380
@@ -473,7 +473,7 @@ SUBROUTINE_03B8:
 205: 0x03C3 [0x03] ExtData[1]->WorkLocal[2] = 2*
 206: 0x03C8 [0x03] ExtData[1]->WorkLocal[0] = 0*
 207: 0x03CD [0x03] ExtData[1]->WorkLocal[1] = 1*
-208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10001*, default_option=0*, option_flags=0*)
+208: 0x03D2 [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
     → "$1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]"
 209: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 210: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
@@ -507,7 +507,7 @@ SUBROUTINE_042E:
 230: 0x0439 [0x03] ExtData[1]->WorkLocal[2] = 2*
 231: 0x043E [0x03] ExtData[1]->WorkLocal[0] = 0*
 232: 0x0443 [0x03] ExtData[1]->WorkLocal[1] = 1*
-233: 0x0448 [0x24] CREATE_DIALOG(message_id=10001*, default_option=0*, option_flags=0*)
+233: 0x0448 [0x24] CREATE_DIALOG(message_id=10002*, default_option=0*, option_flags=0*)
     → "$1 can be found on... [Zhuu Buxu the Silent./Leaping Lizzy./Juu Duzu the Whirlwind.]"
 234: 0x044F [0x25] WAIT_DIALOG_SELECT()
 235: 0x0450 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046C
@@ -546,7 +546,7 @@ SUBROUTINE_04A7:
 SUBROUTINE_04AB:
 257: 0x04AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
 258: 0x04AC [0x46] CAMERA_CONTROL: Disable user control
-259: 0x04AE [0x48] [System] [10032*]:
+259: 0x04AE [0x48] [System] [10033*]:
     → "YOU ARE RIGHT!"
 260: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x04B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -560,19 +560,19 @@ SUBROUTINE_04AB:
 269: 0x04E5 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
 270: 0x04EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s091" with entities [LocalPlayer, LocalPlayer], work=[211*, 0*]
 271: 0x04FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10033*]:
+272: 0x050C [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
     → "HOWDY, CONTESTANTS! I'LL BE YOUR HOST, WINK. HOW CAN I HELP YOU?"
 273: 0x0513 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0514 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 275: 0x0525 [0x1C] WAIT(150* ticks)
-276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10034*]:
+276: 0x0528 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
     → "SEARCHING FOR $6... SEARCHING FOR $6..."
 277: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
 278: 0x0530 [0x1C] WAIT(150* ticks)
 279: 0x0533 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s088" with entities [LocalPlayer, LocalPlayer], work=211*
 280: 0x0542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 281: 0x0553 [0x1C] WAIT(60* ticks)
-282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10035*]:
+282: 0x0556 [0x2B] Talking Doll (ID: 17752287/0x010EE0DF) [10036*]:
     → "SORRY, CONTESTANT! THERE IS NO $3 HERE! BUT THANK YOU FOR PLAYING QUIZ DE VANA'DIEL!!!"
 283: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
 284: 0x055E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -584,7 +584,7 @@ SUBROUTINE_04AB:
 
 SUBROUTINE_058B:
 290: 0x058B [0x03] Work_Zone[1] = 0*
-291: 0x0590 [0x48] [System] [10031*]:
+291: 0x0590 [0x48] [System] [10032*]:
     → "THAT IS INCORRECT! NO PARTING GIFTS FOR YOU!"
 292: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0594 [0x1B] RETURN

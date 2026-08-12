@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3EB9      |       16057 |
-|       1 | 0x3EBA      |       16058 |
-|       2 | 0x3EBB      |       16059 |
-|       3 | 0x3EBC      |       16060 |
+|       0 | 0x3EBA      |       16058 |
+|       1 | 0x3EBB      |       16059 |
+|       2 | 0x3EBC      |       16060 |
+|       3 | 0x3EBD      |       16061 |
 
 ## String References
 
-- **16057**: Whew! Been fishing up a storm all day, and my eyes are spinning-winning. Why, I couldn't tell a bluetail from a bibikibo in the state I'm in!
-- **16058**: Still, I caughtaru twenty fish today. Not bad for a rookie like me, wouldn't you say?
-- **16059**: Some of the bigwigs around here say they've caughtaru more than ten times that, but that sounds awful fishy-wishy to me.
-- **16060**: Anyway, I'm going to take a breather. Another day (Earth time) or so and I should be fresh as a forest carp. If you ever find yourself pooped after a long day of fishing, I suggestaru you do the same!
+- **16058**: Whew! Been fishing up a storm all day, and my eyes are spinning-winning. Why, I couldn't tell a bluetail from a bibikibo in the state I'm in!
+- **16059**: Still, I caughtaru twenty fish today. Not bad for a rookie like me, wouldn't you say?
+- **16060**: Some of the bigwigs around here say they've caughtaru more than ten times that, but that sounds awful fishy-wishy to me.
+- **16061**: Anyway, I'm going to take a breather. Another day (Earth time) or so and I should be fresh as a forest carp. If you ever find yourself pooped after a long day of fishing, I suggestaru you do the same!
 
 ## Events
 
@@ -76,16 +76,16 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=16057*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=16058*)
     → "Whew! Been fishing up a storm all day, and my eyes are spinning-winning. Why, I couldn't tell a bluetail from a bibikibo in the state I'm in!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=16058*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=16059*)
     → "Still, I caughtaru twenty fish today. Not bad for a rookie like me, wouldn't you say?"
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=16059*)
+  4: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=16060*)
     → "Some of the bigwigs around here say they've caughtaru more than ten times that, but that sounds awful fishy-wishy to me."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=16060*)
+  6: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=16061*)
     → "Anyway, I'm going to take a breather. Another day (Earth time) or so and I should be fresh as a forest carp. If you ever find yourself pooped after a long day of fishing, I suggestaru you do the same!"
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0011 [0x21] END_EVENT

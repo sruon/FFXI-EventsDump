@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x270F      |        9999 |
-|       2 | 0x20B7      |        8375 |
+|       2 | 0x20B8      |        8376 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0800      |        2048 |
 |       5 | 0x40000000  |  1073741824 |
-|       6 | 0x20B5      |        8373 |
+|       6 | 0x20B6      |        8374 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0007      |           7 |
 |       9 | 0x0008      |           8 |
@@ -39,11 +39,11 @@
 |      16 | 0x0003      |           3 |
 |      17 | 0x0004      |           4 |
 |      18 | 0x0005      |           5 |
-|      19 | 0x20B8      |        8376 |
+|      19 | 0x20B9      |        8377 |
 |      20 | 0x064E      |        1614 |
 |      21 | 0x064F      |        1615 |
 |      22 | 0x0650      |        1616 |
-|      23 | 0x20B9      |        8377 |
+|      23 | 0x20BA      |        8378 |
 |      24 | 0x01F0      |         496 |
 |      25 | 0x0010      |          16 |
 |      26 | 0x0017      |          23 |
@@ -55,10 +55,10 @@
 
 ## String References
 
-- **8373**: Current fame in this area: $0 [point/points] (Rank $1) Enter a number between 1 and 63 (or 0 to cancel).
-- **8375**: What'll it be? [Nothing, thank you./Set fame./Quest 01 (Fame rank: $0)./Quest 02 (Fame rank: $1)./Quest 03 (Fame rank: $2)./Quest 04 (Fame rank: $3)./Quest 05 (Fame rank: $4)./Quest 06 (Fame rank: $5)./Quest 07 (Fame rank: $6)./Quest 08 (Fame rank: $7)./Quest 09 (Fame rank: $8)./Quest 10 (Fame rank: $9)./Toggle AP check (currently [ON/OFF]).]
-- **8376**: Do something? [Cancel./Set as not cleared. (able to receive offer)/Progress report./Obtain key items./Set as cleared./Set times cleared.]
-- **8377**: Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]
+- **8374**: Current fame in this area: $0 [point/points] (Rank $1) Enter a number between 1 and 63 (or 0 to cancel).
+- **8376**: What'll it be? [Nothing, thank you./Set fame./Quest 01 (Fame rank: $0)./Quest 02 (Fame rank: $1)./Quest 03 (Fame rank: $2)./Quest 04 (Fame rank: $3)./Quest 05 (Fame rank: $4)./Quest 06 (Fame rank: $5)./Quest 07 (Fame rank: $6)./Quest 08 (Fame rank: $7)./Quest 09 (Fame rank: $8)./Quest 10 (Fame rank: $9)./Toggle AP check (currently [ON/OFF]).]
+- **8377**: Do something? [Cancel./Set as not cleared. (able to receive offer)/Progress report./Obtain key items./Set as cleared./Set times cleared.]
+- **8378**: Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]
 
 ## Events
 
@@ -164,7 +164,7 @@
   4: 0x0013 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0140
   5: 0x001B [0x1A] CALL_SUBROUTINE(address=0x0320)
   6: 0x001E [0x03] ExtData[1]->WorkLocal[2] = 9999*
-  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8375*, default_option=0*, option_flags=2048*)
+  7: 0x0023 [0x24] CREATE_DIALOG(message_id=8376*, default_option=0*, option_flags=2048*)
     → "What'll it be? [Nothing, thank you./Set fame./Quest 01 (Fame rank: $0)./Quest 02 (Fame rank: $1)./Quest 03 (Fame rank: $2)./Quest 04 (Fame rank: $3)./Quest 05 (Fame rank: $4)./Quest 06 (Fame rank: $5)./Quest 07 (Fame rank: $6)./Quest 08 (Fame rank: $7)./Quest 09 (Fame rank: $8)./Quest 10 (Fame rank: $9)./Toggle AP check (currently [ON/OFF]).]"
   8: 0x002A [0x25] WAIT_DIALOG_SELECT()
   9: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
@@ -174,7 +174,7 @@
  13: 0x003E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
  14: 0x0046 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
  15: 0x004B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
- 16: 0x0050 [0x48] [System] [8373*]:
+ 16: 0x0050 [0x48] [System] [8374*]:
     → "Current fame in this area: $0 [point/points] (Rank $1) Enter a number between 1 and 63 (or 0 to cancel)."
  17: 0x0053 [0x03] Work_Zone[1] = 0*
  18: 0x0058 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
@@ -230,7 +230,7 @@ SUBROUTINE_012F:
  64: 0x0141 [0x00] END_REQSTACK()
 
 SUBROUTINE_0142:
- 65: 0x0142 [0x24] CREATE_DIALOG(message_id=8376*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
+ 65: 0x0142 [0x24] CREATE_DIALOG(message_id=8377*, default_option=0*, option_flags=ExtData[1]->WorkLocal[3])
     → "Do something? [Cancel./Set as not cleared. (able to receive offer)/Progress report./Obtain key items./Set as cleared./Set times cleared.]"
  66: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  67: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015A
@@ -251,7 +251,7 @@ SUBROUTINE_0142:
  82: 0x01AA [0x03] Work_Zone[2] = 1614*
  83: 0x01AF [0x03] Work_Zone[3] = 1615*
  84: 0x01B4 [0x03] Work_Zone[4] = 1616*
- 85: 0x01B9 [0x24] CREATE_DIALOG(message_id=8377*, default_option=0*, option_flags=496*)
+ 85: 0x01B9 [0x24] CREATE_DIALOG(message_id=8378*, default_option=0*, option_flags=496*)
     → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
  86: 0x01C0 [0x25] WAIT_DIALOG_SELECT()
  87: 0x01C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D1
@@ -273,7 +273,7 @@ SUBROUTINE_0212:
 101: 0x0215 [0x02] IF !(ExtData[1]->WorkLocal[2] == 6*) GOTO 0x026F
 102: 0x021D [0x03] Work_Zone[2] = 1623*
 103: 0x0222 [0x03] Work_Zone[3] = 1624*
-104: 0x0227 [0x24] CREATE_DIALOG(message_id=8377*, default_option=0*, option_flags=504*)
+104: 0x0227 [0x24] CREATE_DIALOG(message_id=8378*, default_option=0*, option_flags=504*)
     → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
 105: 0x022E [0x25] WAIT_DIALOG_SELECT()
 106: 0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023F
@@ -292,7 +292,7 @@ SUBROUTINE_026C:
 117: 0x026F [0x02] IF !(ExtData[1]->WorkLocal[2] == 8*) GOTO 0x02C9
 118: 0x0277 [0x03] Work_Zone[2] = 1625*
 119: 0x027C [0x03] Work_Zone[3] = 1626*
-120: 0x0281 [0x24] CREATE_DIALOG(message_id=8377*, default_option=0*, option_flags=504*)
+120: 0x0281 [0x24] CREATE_DIALOG(message_id=8378*, default_option=0*, option_flags=504*)
     → "Obtain which key item? [None. Thanks for nothing!/6/$6/$6/$6/$6/$6/$6/$6]"
 121: 0x0288 [0x25] WAIT_DIALOG_SELECT()
 122: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0299

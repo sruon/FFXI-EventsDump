@@ -22,18 +22,18 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x25DC      |        9692 |
+|       0 | 0x25DD      |        9693 |
 |       1 | 0x43EA      |       17386 |
-|       2 | 0x25DD      |        9693 |
-|       3 | 0x25E0      |        9696 |
-|       4 | 0x25E1      |        9697 |
+|       2 | 0x25DE      |        9694 |
+|       3 | 0x25E1      |        9697 |
+|       4 | 0x25E2      |        9698 |
 
 ## String References
 
-- **9692**: H-hey, were you eavesdropping? Don't even thinky-wink about bettaruing on "ID$3:$0-$1". You'll reduce my winnings!
-- **9693**: I'm gonna getaru myself $0 when I win!
-- **9696**: Whootaru, there it is! I am the champion! No timey-wime for losers! $0 comin' my way!
-- **9697**: <Sniffle...sob...> Th-that's not how it's supposed to end...
+- **9693**: H-hey, were you eavesdropping? Don't even thinky-wink about bettaruing on "ID$3:$0-$1". You'll reduce my winnings!
+- **9694**: I'm gonna getaru myself $0 when I win!
+- **9697**: Whootaru, there it is! I am the champion! No timey-wime for losers! $0 comin' my way!
+- **9698**: <Sniffle...sob...> Th-that's not how it's supposed to end...
 
 ## Events
 
@@ -80,11 +80,11 @@
 
 ```
   0: 0x0001 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9692*)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9693*)
     → "H-hey, were you eavesdropping? Don't even thinky-wink about bettaruing on "ID$3:$0-$1". You'll reduce my winnings!"
   2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000F [0x03] Work_Zone[2] = 17386*
-  4: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9693*)
+  4: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9694*)
     → "I'm gonna getaru myself $0 when I win!"
   5: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0018 [0x21] END_EVENT
@@ -112,7 +112,7 @@
 
 ```
   0: 0x001A [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=9696*)
+  1: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=9697*)
     → "Whootaru, there it is! I am the champion! No timey-wime for losers! $0 comin' my way!"
   2: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0028 [0x21] END_EVENT
@@ -140,7 +140,7 @@
 
 ```
   0: 0x002A [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9697*)
+  1: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=9698*)
     → "<Sniffle...sob...> Th-that's not how it's supposed to end..."
   2: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0038 [0x21] END_EVENT

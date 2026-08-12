@@ -37,17 +37,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00F8      |         248 |
-|       1 | 0x1BCC      |        7116 |
-|       2 | 0x1BCD      |        7117 |
-|       3 | 0x1BCF      |        7119 |
-|       4 | 0x1BD0      |        7120 |
+|       1 | 0x1BCD      |        7117 |
+|       2 | 0x1BCE      |        7118 |
+|       3 | 0x1BD0      |        7120 |
+|       4 | 0x1BD1      |        7121 |
 
 ## String References
 
-- **7116**: You are too late... I have already awakened.
-- **7117**: Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
-- **7119**: Your kind has awakened me...and this time, you will be destroyed!
-- **7120**: You cannot stop me. Vana'diel will be the grave for you and all your kind!
+- **7117**: You are too late... I have already awakened.
+- **7118**: Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel.
+- **7120**: Your kind has awakened me...and this time, you will be destroyed!
+- **7121**: You cannot stop me. Vana'diel will be the grave for you and all your kind!
 
 ## Events
 
@@ -398,7 +398,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7116*)
+  0: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7117*)
     → "You are too late... I have already awakened."
   1: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00A4 [0x00] END_REQSTACK()
@@ -423,7 +423,7 @@
 #### Opcodes
 
 ```
-  0: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7117*)
+  0: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7118*)
     → "Your rage, cowardice, envy, arrogance, and apathy...from these I will spread the bane that will destroy Vana'diel."
   1: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00A9 [0x00] END_REQSTACK()
@@ -448,7 +448,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
+  0: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
     → "Your kind has awakened me...and this time, you will be destroyed!"
   1: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AE [0x00] END_REQSTACK()
@@ -474,7 +474,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
+  0: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7121*)
     → "You cannot stop me. Vana'diel will be the grave for you and all your kind!"
   1: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00B3 [0x00] END_REQSTACK()

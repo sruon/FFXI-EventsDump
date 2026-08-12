@@ -55,72 +55,72 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2091      |        8337 |
-|       3 | 0x2092      |        8338 |
-|       4 | 0x2093      |        8339 |
-|       5 | 0x1CE2      |        7394 |
-|       6 | 0x1CE3      |        7395 |
-|       7 | 0x1E48      |        7752 |
-|       8 | 0x1E49      |        7753 |
-|       9 | 0x2127      |        8487 |
-|      10 | 0x2128      |        8488 |
-|      11 | 0x212B      |        8491 |
-|      12 | 0x212C      |        8492 |
+|       2 | 0x2092      |        8338 |
+|       3 | 0x2093      |        8339 |
+|       4 | 0x2094      |        8340 |
+|       5 | 0x1CE3      |        7395 |
+|       6 | 0x1CE4      |        7396 |
+|       7 | 0x1E49      |        7753 |
+|       8 | 0x1E4A      |        7754 |
+|       9 | 0x2128      |        8488 |
+|      10 | 0x2129      |        8489 |
+|      11 | 0x212C      |        8492 |
+|      12 | 0x212D      |        8493 |
 |      13 | 0x0000      |           0 |
-|      14 | 0x2422      |        9250 |
-|      15 | 0x2134      |        8500 |
-|      16 | 0x2133      |        8499 |
-|      17 | 0x2135      |        8501 |
-|      18 | 0x2136      |        8502 |
-|      19 | 0x2137      |        8503 |
-|      20 | 0x2138      |        8504 |
-|      21 | 0x2139      |        8505 |
-|      22 | 0x213A      |        8506 |
-|      23 | 0x213B      |        8507 |
-|      24 | 0x213C      |        8508 |
-|      25 | 0x213D      |        8509 |
-|      26 | 0x20CB      |        8395 |
-|      27 | 0x20CC      |        8396 |
-|      28 | 0x263F      |        9791 |
-|      29 | 0x2640      |        9792 |
-|      30 | 0x264F      |        9807 |
-|      31 | 0x2650      |        9808 |
-|      32 | 0x2234      |        8756 |
-|      33 | 0x2235      |        8757 |
+|      14 | 0x2423      |        9251 |
+|      15 | 0x2135      |        8501 |
+|      16 | 0x2134      |        8500 |
+|      17 | 0x2136      |        8502 |
+|      18 | 0x2137      |        8503 |
+|      19 | 0x2138      |        8504 |
+|      20 | 0x2139      |        8505 |
+|      21 | 0x213A      |        8506 |
+|      22 | 0x213B      |        8507 |
+|      23 | 0x213C      |        8508 |
+|      24 | 0x213D      |        8509 |
+|      25 | 0x213E      |        8510 |
+|      26 | 0x20CC      |        8396 |
+|      27 | 0x20CD      |        8397 |
+|      28 | 0x2640      |        9792 |
+|      29 | 0x2641      |        9793 |
+|      30 | 0x2650      |        9808 |
+|      31 | 0x2651      |        9809 |
+|      32 | 0x2235      |        8757 |
+|      33 | 0x2236      |        8758 |
 
 ## String References
 
-- **7394**: Where did you get that hat?t Where did you get that tile?t Isn't it a nobby one, and just the proper style?t I should like to have one just the same as that...t
-- **7395**: Hello, where did you get that hat?t ......... Is that a new one of Baren-Moren's? Hmm. I'm quite taken by it.
-- **7752**: There, there, don't be such a square. Loosen up a little, gee... Be more footloose and fancy free.
-- **7753**: Do not worry that your grading shall smite the student's fate forever, pal. When he grows up, pray, he's not going to say, "That teacher made me who I am today."
-- **8337**: I never thought when I was a wee child I'd grow up to be a teacher reviled.
-- **8338**: My pet theory in my childhood, I stated, was that "studying is overrated!"
-- **8339**: But now my pet theory is, I'm fated, that rather "teaching is overrated!"
-- **8395**: Tests are a load of mumbo jumbo, you bet! Even if the students cram for an exam, I regret, the moment it's over they all but everything forget.
-- **8396**: A bit like life. And you ask why? You strive and strive, and then you die! And everyone forgets you. <sigh!>
-- **8487**: Hey, what's that you say? Paku-Nakku just sleeps all day?
-- **8488**: That's strange indeed, I tell you...! The Sleep spell cast on Paku-Nakku should have worn off by now, too.
-- **8491**: An accident with a Wand of Sleep...!? The other teachers said that? Oh *bleep*!
-- **8492**: Magic practice at the Mage Academy is just tough luck! There's always one or two kids who run amuck! Put yourself in my position...I'm a sitting duck!
-- **8499**: What? Oh, hell! Even after having drunk $1 well, Paku-Nakku still hasn't woken from the Sleep spell?
-- **8500**: There's something fishy I smell... I'm sure I negated the Sleep spell that was cast on that Paku-Nakku rebel!
-- **8501**: Let me look, by hook or by crook... I made him write his impressions of a book as punishment for the acts he took...
-- **8502**: That's it, I bray! To wake him up right away, to Paku-Nakku you must say:
-- **8503**: "Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!"
-- **8504**: You got that?
-- **8505**: To wake him up right away, to Paku-Nakku you must say...
-- **8506**: "Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!" You got that?
-- **8507**: Did Paku-Nakku yell at you? To be expected, that is true. Fear not, he'll soon get over it, too.
-- **8508**: I never thought he'd go so reading beserk that it would affect his other classwork. Glad that's over, yes, my lord! By the way, here's a reward...
-- **8509**: So Paku-Nakku went angry at you... I suppose it's only natural to. Don't worry, he'll soon get over it too.
-- **8756**: A book on Alchemy, eh? I'd love to take a look at one myself, I say. But they were all banned years ago. 'Twas said that they were a bad influence on children, you know?
-- **8757**: I'm not certain whether they really were or not. All I do know is--if I haven't forgot-- that getting your hands on one now will be close to impossible, I avow!
-- **9250**: Well gee, I'll be! That's just swell... Usually a sniff of $2 cures any Sleep spell. I wonder what's wrong with Paku-Nakku? Ah, hell!
-- **9791**: I wonder to where our former principal Sedal-Godjal disappeared? If he showed up in the morning, now wouldn't that be weird?
-- **9792**: I wonder why he ran away? Couldn't he take the day-to-day?
-- **9807**: I overheard you talking about Sedal-Godjal before. He always worried about things that I would just ignore. On issues such as student satisfaction he would ponder, I personally don't have that much precious time to squander.
-- **9808**: I always say that keeping expectations low is best. By keeping to this simple rule, you'll never see me stressed.
+- **7395**: Where did you get that hat?t Where did you get that tile?t Isn't it a nobby one, and just the proper style?t I should like to have one just the same as that...t
+- **7396**: Hello, where did you get that hat?t ......... Is that a new one of Baren-Moren's? Hmm. I'm quite taken by it.
+- **7753**: There, there, don't be such a square. Loosen up a little, gee... Be more footloose and fancy free.
+- **7754**: Do not worry that your grading shall smite the student's fate forever, pal. When he grows up, pray, he's not going to say, "That teacher made me who I am today."
+- **8338**: I never thought when I was a wee child I'd grow up to be a teacher reviled.
+- **8339**: My pet theory in my childhood, I stated, was that "studying is overrated!"
+- **8340**: But now my pet theory is, I'm fated, that rather "teaching is overrated!"
+- **8396**: Tests are a load of mumbo jumbo, you bet! Even if the students cram for an exam, I regret, the moment it's over they all but everything forget.
+- **8397**: A bit like life. And you ask why? You strive and strive, and then you die! And everyone forgets you. <sigh!>
+- **8488**: Hey, what's that you say? Paku-Nakku just sleeps all day?
+- **8489**: That's strange indeed, I tell you...! The Sleep spell cast on Paku-Nakku should have worn off by now, too.
+- **8492**: An accident with a Wand of Sleep...!? The other teachers said that? Oh *bleep*!
+- **8493**: Magic practice at the Mage Academy is just tough luck! There's always one or two kids who run amuck! Put yourself in my position...I'm a sitting duck!
+- **8500**: What? Oh, hell! Even after having drunk $1 well, Paku-Nakku still hasn't woken from the Sleep spell?
+- **8501**: There's something fishy I smell... I'm sure I negated the Sleep spell that was cast on that Paku-Nakku rebel!
+- **8502**: Let me look, by hook or by crook... I made him write his impressions of a book as punishment for the acts he took...
+- **8503**: That's it, I bray! To wake him up right away, to Paku-Nakku you must say:
+- **8504**: "Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!"
+- **8505**: You got that?
+- **8506**: To wake him up right away, to Paku-Nakku you must say...
+- **8507**: "Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!" You got that?
+- **8508**: Did Paku-Nakku yell at you? To be expected, that is true. Fear not, he'll soon get over it, too.
+- **8509**: I never thought he'd go so reading beserk that it would affect his other classwork. Glad that's over, yes, my lord! By the way, here's a reward...
+- **8510**: So Paku-Nakku went angry at you... I suppose it's only natural to. Don't worry, he'll soon get over it too.
+- **8757**: A book on Alchemy, eh? I'd love to take a look at one myself, I say. But they were all banned years ago. 'Twas said that they were a bad influence on children, you know?
+- **8758**: I'm not certain whether they really were or not. All I do know is--if I haven't forgot-- that getting your hands on one now will be close to impossible, I avow!
+- **9251**: Well gee, I'll be! That's just swell... Usually a sniff of $2 cures any Sleep spell. I wonder what's wrong with Paku-Nakku? Ah, hell!
+- **9792**: I wonder to where our former principal Sedal-Godjal disappeared? If he showed up in the morning, now wouldn't that be weird?
+- **9793**: I wonder why he ran away? Couldn't he take the day-to-day?
+- **9808**: I overheard you talking about Sedal-Godjal before. He always worried about things that I would just ignore. On issues such as student satisfaction he would ponder, I personally don't have that much precious time to squander.
+- **9809**: I always say that keeping expectations low is best. By keeping to this simple rule, you'll never see me stressed.
 
 ## Events
 
@@ -533,13 +533,13 @@
   1: 0x00E9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00EA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
+  4: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
     → "I never thought when I was a wee child I'd grow up to be a teacher reviled."
   5: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
+  6: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
     → "My pet theory in my childhood, I stated, was that "studying is overrated!""
   7: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
+  8: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
     → "But now my pet theory is, I'm fated, that rather "teaching is overrated!""
   9: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -595,10 +595,10 @@
   1: 0x010F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0110 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7394*)
+  4: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
     → "Where did you get that hat?t Where did you get that tile?t Isn't it a nobby one, and just the proper style?t I should like to have one just the same as that...t"
   5: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
+  6: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
     → "Hello, where did you get that hat?t ......... Is that a new one of Baren-Moren's? Hmm. I'm quite taken by it."
   7: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -632,10 +632,10 @@
   1: 0x0130 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0131 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0132 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7752*)
+  4: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
     → "There, there, don't be such a square. Loosen up a little, gee... Be more footloose and fancy free."
   5: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  6: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "Do not worry that your grading shall smite the student's fate forever, pal. When he grows up, pray, he's not going to say, "That teacher made me who I am today.""
   7: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0141 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -669,10 +669,10 @@
   1: 0x0151 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0152 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0153 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8487*)
+  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
     → "Hey, what's that you say? Paku-Nakku just sleeps all day?"
   5: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
+  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
     → "That's strange indeed, I tell you...! The Sleep spell cast on Paku-Nakku should have worn off by now, too."
   7: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0162 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -706,10 +706,10 @@
   1: 0x0172 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0173 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0174 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8491*)
+  4: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
     → "An accident with a Wand of Sleep...!? The other teachers said that? Oh *bleep*!"
   5: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
+  6: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8493*)
     → "Magic practice at the Mage Academy is just tough luck! There's always one or two kids who run amuck! Put yourself in my position...I'm a sitting duck!"
   7: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0183 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -750,12 +750,12 @@
   4: 0x019D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x17)
   5: 0x01A4 [0x01] GOTO 0x01CB
   6: 0x01A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  7: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9250*)
+  7: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9251*)
     → "Well gee, I'll be! That's just swell... Usually a sniff of $2 cures any Sleep spell. I wonder what's wrong with Paku-Nakku? Ah, hell!"
   8: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
  10: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x03)
- 11: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
+ 11: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
     → "There's something fishy I smell... I'm sure I negated the Sleep spell that was cast on that Paku-Nakku rebel!"
  12: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x04)
@@ -792,12 +792,12 @@ SUBROUTINE_01CB:
 
 ```
   0: 0x01EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  1: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8499*)
+  1: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
     → "What? Oh, hell! Even after having drunk $1 well, Paku-Nakku still hasn't woken from the Sleep spell?"
   2: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
   4: 0x01FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x03)
-  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=8500*)
+  5: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
     → "There's something fishy I smell... I'm sure I negated the Sleep spell that was cast on that Paku-Nakku rebel!"
   6: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0208 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x04)
@@ -825,7 +825,7 @@ SUBROUTINE_01CB:
 
 ```
   0: 0x0210 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x05)
-  1: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=8501*)
+  1: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=8502*)
     → "Let me look, by hook or by crook... I made him write his impressions of a book as punishment for the acts he took..."
   2: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x06)
@@ -853,7 +853,7 @@ SUBROUTINE_01CB:
 
 ```
   0: 0x0223 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x07)
-  1: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=8502*)
+  1: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=8503*)
     → "That's it, I bray! To wake him up right away, to Paku-Nakku you must say:"
   2: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x022E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x08)
@@ -881,7 +881,7 @@ SUBROUTINE_01CB:
 
 ```
   0: 0x0236 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0D)
-  1: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8503*)
+  1: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=8504*)
     → ""Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!""
   2: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0241 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0E)
@@ -907,7 +907,7 @@ SUBROUTINE_01CB:
 #### Opcodes
 
 ```
-  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8504*)
+  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=8505*)
     → "You got that?"
   1: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x024D [0x00] END_REQSTACK()
@@ -938,10 +938,10 @@ SUBROUTINE_01CB:
   1: 0x0253 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0254 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0255 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=8505*)
+  4: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
     → "To wake him up right away, to Paku-Nakku you must say..."
   5: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
+  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
     → ""Wake up, fool! Rise now, I bid it! The automaton butler's the one who did it!" You got that?"
   7: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0264 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
@@ -979,12 +979,12 @@ SUBROUTINE_01CB:
   3: 0x0277 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0278 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0279 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x09)
-  6: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
+  6: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
     → "Did Paku-Nakku yell at you? To be expected, that is true. Fear not, he'll soon get over it, too."
   7: 0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0284 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0A)
   9: 0x028B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0B)
- 10: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
+ 10: 0x0292 [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
     → "I never thought he'd go so reading beserk that it would affect his other classwork. Glad that's over, yes, my lord! By the way, here's a reward..."
  11: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0296 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0C)
@@ -1017,7 +1017,7 @@ SUBROUTINE_01CB:
   1: 0x02A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x09)
-  4: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8509*)
+  4: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8510*)
     → "So Paku-Nakku went angry at you... I suppose it's only natural to. Don't worry, he'll soon get over it too."
   5: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0A)
@@ -1051,10 +1051,10 @@ SUBROUTINE_01CB:
   1: 0x02C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x09)
-  4: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8395*)
+  4: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8396*)
     → "Tests are a load of mumbo jumbo, you bet! Even if the students cram for an exam, I regret, the moment it's over they all but everything forget."
   5: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8396*)
+  6: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8397*)
     → "A bit like life. And you ask why? You strive and strive, and then you die! And everyone forgets you. <sigh!>"
   7: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0F)
@@ -1090,12 +1090,12 @@ SUBROUTINE_01CB:
   1: 0x02E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x09)
-  4: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9791*)
+  4: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9792*)
     → "I wonder to where our former principal Sedal-Godjal disappeared? If he showed up in the morning, now wouldn't that be weird?"
   5: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0A)
   7: 0x02F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x03)
-  8: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9792*)
+  8: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9793*)
     → "I wonder why he ran away? Couldn't he take the day-to-day?"
   9: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x04)
@@ -1132,12 +1132,12 @@ SUBROUTINE_01CB:
   1: 0x0321 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0322 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0323 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=9807*)
+  4: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=9808*)
     → "I overheard you talking about Sedal-Godjal before. He always worried about things that I would just ignore. On issues such as student satisfaction he would ponder, I personally don't have that much precious time to squander."
   5: 0x032D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x032E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x02)
   7: 0x0335 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x09)
-  8: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=9808*)
+  8: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=9809*)
     → "I always say that keeping expectations low is best. By keeping to this simple rule, you'll never see me stressed."
   9: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0340 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0A)
@@ -1171,10 +1171,10 @@ SUBROUTINE_01CB:
   1: 0x0350 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0351 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0352 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x01)
-  4: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
+  4: 0x0359 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
     → "A book on Alchemy, eh? I'd love to take a look at one myself, I say. But they were all banned years ago. 'Twas said that they were a bad influence on children, you know?"
   5: 0x035C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
+  6: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
     → "I'm not certain whether they really were or not. All I do know is--if I haven't forgot-- that getting your hands on one now will be close to impossible, I avow!"
   7: 0x0360 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0361 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pechiru-Mashiru (ID: 17752116/0x010EE034), tag_num=0x0A)

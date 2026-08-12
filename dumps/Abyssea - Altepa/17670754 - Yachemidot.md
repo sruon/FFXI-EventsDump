@@ -23,37 +23,37 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FF3      |        8179 |
+|       0 | 0x1FF4      |        8180 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x1FEE      |        8174 |
-|       3 | 0x1FEF      |        8175 |
+|       2 | 0x1FEF      |        8175 |
+|       3 | 0x1FF0      |        8176 |
 |       4 | 0x06E2      |        1762 |
-|       5 | 0x1FF0      |        8176 |
-|       6 | 0x1FF1      |        8177 |
-|       7 | 0x1FF2      |        8178 |
+|       5 | 0x1FF1      |        8177 |
+|       6 | 0x1FF2      |        8178 |
+|       7 | 0x1FF3      |        8179 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x1FF4      |        8180 |
+|       9 | 0x1FF5      |        8181 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0001      |           1 |
-|      12 | 0x1FF5      |        8181 |
+|      12 | 0x1FF6      |        8182 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x1FF6      |        8182 |
-|      15 | 0x1FF7      |        8183 |
-|      16 | 0x1FF8      |        8184 |
+|      14 | 0x1FF7      |        8183 |
+|      15 | 0x1FF8      |        8184 |
+|      16 | 0x1FF9      |        8185 |
 
 ## String References
 
-- **8174**: Who goes there...?
-- **8175**: Ah, so you are <Player>. Welcome.
-- **8176**: The $3 you seek is indeed here. But I fear it will not be hatching now...nor ever.
-- **8177**: <Player>. This $3 must be returned to its rightful home--the place where it was meant to begin its life. Will you do this for me?
-- **8178**: Return the egg? [I shall./I shall not.]
-- **8179**: ...
-- **8180**: Excellent... Now go.
-- **8181**: That $3 must be returned to its rightful home. The place where it was meant to begin life...
-- **8182**: You have done well. Take this. I have need for it no more.
-- **8183**: Now be off, and forget all that has transpired here. Shine your light upon the future, and let the past rest in darkness.
-- **8184**: I...thank you...<Player>.
+- **8175**: Who goes there...?
+- **8176**: Ah, so you are <Player>. Welcome.
+- **8177**: The $3 you seek is indeed here. But I fear it will not be hatching now...nor ever.
+- **8178**: <Player>. This $3 must be returned to its rightful home--the place where it was meant to begin its life. Will you do this for me?
+- **8179**: Return the egg? [I shall./I shall not.]
+- **8180**: ...
+- **8181**: Excellent... Now go.
+- **8182**: That $3 must be returned to its rightful home. The place where it was meant to begin life...
+- **8183**: You have done well. Take this. I have need for it no more.
+- **8184**: Now be off, and forget all that has transpired here. Shine your light upon the future, and let the past rest in darkness.
+- **8185**: I...thank you...<Player>.
 
 ## Events
 
@@ -98,7 +98,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
     → "..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x21] END_EVENT
@@ -131,31 +131,31 @@
 ```
   0: 0x0007 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x000C [0x1C] WAIT(20* ticks)
-  2: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
+  2: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
     → "Who goes there...?"
   3: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+  4: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "Ah, so you are <Player>. Welcome."
   5: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0017 [0x03] Work_Zone[2] = 1762*
-  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+  7: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "The $3 you seek is indeed here. But I fear it will not be hatching now...nor ever."
   8: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0020 [0x03] Work_Zone[2] = 1762*
- 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+ 10: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "<Player>. This $3 must be returned to its rightful home--the place where it was meant to begin its life. Will you do this for me?"
  11: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0029 [0x24] CREATE_DIALOG(message_id=8178*, default_option=0*, option_flags=0*)
+ 12: 0x0029 [0x24] CREATE_DIALOG(message_id=8179*, default_option=0*, option_flags=0*)
     → "Return the egg? [I shall./I shall not.]"
  13: 0x0030 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0031 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0045
- 15: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
+ 15: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
     → "Excellent... Now go."
  16: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x003D [0x03] Work_Zone[1] = 2*
  18: 0x0042 [0x01] GOTO 0x0059
  19: 0x0045 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0059
- 20: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+ 20: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
     → "..."
  21: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0051 [0x03] Work_Zone[1] = 1*
@@ -187,7 +187,7 @@ SUBROUTINE_0059:
 
 ```
   0: 0x005B [0x03] Work_Zone[2] = 1762*
-  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
+  1: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "That $3 must be returned to its rightful home. The place where it was meant to begin life..."
   2: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0064 [0x21] END_EVENT
@@ -217,13 +217,13 @@ SUBROUTINE_0059:
   0: 0x0066 [0x1C] WAIT(60* ticks)
   1: 0x0069 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x006E [0x1C] WAIT(20* ticks)
-  3: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
+  3: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
     → "You have done well. Take this. I have need for it no more."
   4: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
+  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
     → "Now be off, and forget all that has transpired here. Shine your light upon the future, and let the past rest in darkness."
   6: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+  7: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "I...thank you...<Player>."
   8: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x007D [0x21] END_EVENT

@@ -1599,7 +1599,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0470:                          32 24 80 1F 00 4C 80 4D          2$...L.M
-0480: 80 4E 80 1F 01 1E 7E B1  10 01 1C 4F 80 00        .N....~....O..  
+0480: 80 4E 80 1F 01 1E 82 B1  10 01 1C 4F 80 00        .N.........O..  
 ```
 
 #### Opcodes
@@ -1608,7 +1608,7 @@
   0: 0x0478 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x047B [0x1F] MOVE_ENTITY: EventEntity moves to X=295.027*, Z=-7.090*, Y=-6.419*
   2: 0x0483 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0485 [0x1E] EventEntity looks at Unnamed NPC (ID: 17871230/0x0110B17E) and starts talking
+  3: 0x0485 [0x1E] EventEntity looks at Unnamed NPC (ID: 17871234/0x0110B182) and starts talking
   4: 0x048A [0x1C] WAIT(30* ticks)
   5: 0x048D [0x00] END_REQSTACK()
 ```
@@ -1627,7 +1627,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0480:                                            32 11                2.
-0490: 80 1F 00 4C 80 4D 80 4E  80 1F 01 1E 7E B1 10 01  ...L.M.N....~...
+0490: 80 1F 00 4C 80 4D 80 4E  80 1F 01 1E 82 B1 10 01  ...L.M.N........
 04A0: 00                                                .               
 ```
 
@@ -1637,7 +1637,7 @@
   0: 0x048E [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x0491 [0x1F] MOVE_ENTITY: EventEntity moves to X=295.027*, Z=-7.090*, Y=-6.419*
   2: 0x0499 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x049B [0x1E] EventEntity looks at Unnamed NPC (ID: 17871230/0x0110B17E) and starts talking
+  3: 0x049B [0x1E] EventEntity looks at Unnamed NPC (ID: 17871234/0x0110B182) and starts talking
   4: 0x04A0 [0x00] END_REQSTACK()
 ```
 
@@ -1655,7 +1655,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 04A0:    32 11 80 1F 00 50 80  51 80 52 80 1F 01 79 00   2....P.Q.R...y.
-04B0: F0 FF FF 7F 7C B1 10 01  00                       ....|....       
+04B0: F0 FF FF 7F 80 B1 10 01  00                       .........       
 ```
 
 #### Opcodes
@@ -1664,7 +1664,7 @@
   0: 0x04A1 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x04A4 [0x1F] MOVE_ENTITY: EventEntity moves to X=292.628*, Z=-3.433*, Y=-6.470*
   2: 0x04AC [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x04AE [0x79] LocalPlayer looks at Unnamed NPC (ID: 17871228/0x0110B17C) (Basic look)
+  3: 0x04AE [0x79] LocalPlayer looks at Unnamed NPC (ID: 17871232/0x0110B180) (Basic look)
   4: 0x04B8 [0x00] END_REQSTACK()
 ```
 

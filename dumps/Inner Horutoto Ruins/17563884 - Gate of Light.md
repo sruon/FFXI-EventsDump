@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA1      |        7329 |
+|       0 | 0x1CA2      |        7330 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x003C      |          60 |
@@ -35,7 +35,7 @@
 |      12 | 0x012C      |         300 |
 |      13 | 0x0008      |           8 |
 |      14 | 0x007F      |         127 |
-|      15 | 0x1CA8      |        7336 |
+|      15 | 0x1CA9      |        7337 |
 |      16 | 0x001E      |          30 |
 |      17 | 0x03E8      |        1000 |
 |      18 | 0x0032      |          50 |
@@ -43,7 +43,7 @@
 
 ## String References
 
-- **7329**: Your $3 disappears in a flash of light.
+- **7330**: Your $3 disappears in a flash of light.
 
 ## Events
 
@@ -161,7 +161,7 @@
   2: 0x0005 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   3: 0x0006 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ajido-Marujido (ID: 17563874/0x010C00E2)
   4: 0x000C [0x4A] LocalPlayer looks at EventEntity
-  5: 0x0015 [0x48] [System] [7329*]:
+  5: 0x0015 [0x48] [System] [7330*]:
     → "Your $3 disappears in a flash of light."
   6: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0019 [0x4C] EventEntity->StatusEvent = 8 // Open door
@@ -240,7 +240,7 @@ SUBROUTINE_0250:
  76: 0x0272 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
  77: 0x0278 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[92*, 0*]
  78: 0x0289 [0x27] REQ_SET(priority=0x0B, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2), tag_num=0x54)
- 79: 0x0290 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7336*]:
+ 79: 0x0290 [0x2B] Ajido-Marujido (ID: 17563874/0x010C00E2) [7337*]:
     → "You see, these are my old man's most powerful creations. The ones he practically worked himself to death over."
  80: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0298 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Ajido-Marujido (ID: 17563874/0x010C00E2))

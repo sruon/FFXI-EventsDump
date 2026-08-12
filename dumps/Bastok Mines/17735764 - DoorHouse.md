@@ -30,12 +30,12 @@
 |       7 | 0x0060      |          96 |
 |       8 | 0x005A      |          90 |
 |       9 | 0x00C8      |         200 |
-|      10 | 0x2DB7      |       11703 |
-|      11 | 0x2DB8      |       11704 |
-|      12 | 0x2DB9      |       11705 |
-|      13 | 0x2DBA      |       11706 |
-|      14 | 0x2DBB      |       11707 |
-|      15 | 0x2DBC      |       11708 |
+|      10 | 0x2DB8      |       11704 |
+|      11 | 0x2DB9      |       11705 |
+|      12 | 0x2DBA      |       11706 |
+|      13 | 0x2DBB      |       11707 |
+|      14 | 0x2DBC      |       11708 |
+|      15 | 0x2DBD      |       11709 |
 |      16 | 0x0098      |         152 |
 |      17 | 0x0078      |         120 |
 |      18 | 0x004B      |          75 |
@@ -182,7 +182,7 @@
  23: 0x0079 [0x2A] GET_REQ_LEVEL(level=16, entity_id=LocalPlayer)
  24: 0x007F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "ab01" with entities [LocalPlayer, LocalPlayer], work=216*
  25: 0x008E [0x1C] WAIT(15* ticks)
- 26: 0x0091 [0x2B] Ren (ID: 17735796/0x010EA074) [11703*]:
+ 26: 0x0091 [0x2B] Ren (ID: 17735796/0x010EA074) [11704*]:
     → "You're finally here, <Player>."
  27: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0099 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ab02" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]
@@ -190,10 +190,10 @@
  30: 0x00B1 [0x4A] LocalPlayer looks at Ren (ID: 17735796/0x010EA074)
  31: 0x00BA [0x2A] GET_REQ_LEVEL(level=16, entity_id=Ren (ID: 17735796/0x010EA074))
  32: 0x00C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ren (ID: 17735796/0x010EA074), Ren (ID: 17735796/0x010EA074)], work=0*
- 33: 0x00CF [0x2B] Ren (ID: 17735796/0x010EA074) [11704*]:
+ 33: 0x00CF [0x2B] Ren (ID: 17735796/0x010EA074) [11705*]:
     → "I've heard of you from my associates in Norg. As much as I would like to sit and chat with you about your adventures, we must work quickly to find our thief. I have just received a new piece of information and will be setting out shortly to investigate."
  34: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00D7 [0x2B] Ren (ID: 17735796/0x010EA074) [11705*]:
+ 35: 0x00D7 [0x2B] Ren (ID: 17735796/0x010EA074) [11706*]:
     → "To the northeast of here is a place called the Palborough Mines. I've received information on several adventurers sighting a young man wearing a strangely shaped helmet journeying deep into those caves."
  36: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ten0" with entities [Ren (ID: 17735796/0x010EA074), Ren (ID: 17735796/0x010EA074)], work=0*
@@ -202,16 +202,16 @@
  40: 0x010C [0x79] Ren (ID: 17735796/0x010EA074) looks at Ren (ID: 17735796/0x010EA074) (Basic look)
  41: 0x0116 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Ren (ID: 17735796/0x010EA074))
  42: 0x011C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Ren (ID: 17735796/0x010EA074), Ren (ID: 17735796/0x010EA074)], work=0*
- 43: 0x012B [0x2B] Ren (ID: 17735796/0x010EA074) [11706*]:
+ 43: 0x012B [0x2B] Ren (ID: 17735796/0x010EA074) [11707*]:
     → "This is more than likely the same character that Sanosuke learned of in Jeuno. But why would he head to the Palborough Mines? I'm heading there myself to find out."
  44: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0133 [0x2B] Ren (ID: 17735796/0x010EA074) [11707*]:
+ 45: 0x0133 [0x2B] Ren (ID: 17735796/0x010EA074) [11708*]:
     → "I have heard that the Quadav made that place into one of their strongholds. I wonder if there could be some connection..."
  46: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x013B [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Ren (ID: 17735796/0x010EA074))
  48: 0x0141 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Ren (ID: 17735796/0x010EA074), Ren (ID: 17735796/0x010EA074)], work=0*
  49: 0x0150 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [Ren (ID: 17735796/0x010EA074), Ren (ID: 17735796/0x010EA074)]
- 50: 0x015D [0x2B] Ren (ID: 17735796/0x010EA074) [11708*]:
+ 50: 0x015D [0x2B] Ren (ID: 17735796/0x010EA074) [11709*]:
     → "You may journey to the mines with me if you wish. When you have made your preparations, meet me there. I will be waiting."
  51: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0165 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ab04" with entities [LocalPlayer, LocalPlayer], work=[216*, 0*]

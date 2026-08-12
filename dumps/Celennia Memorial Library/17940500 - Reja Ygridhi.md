@@ -35,32 +35,32 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0044      |          68 |
-|       1 | 0x1DF4      |        7668 |
-|       2 | 0x1DF5      |        7669 |
+|       1 | 0x1DF5      |        7669 |
+|       2 | 0x1DF6      |        7670 |
 |       3 | 0x000A      |          10 |
-|       4 | 0x1DF6      |        7670 |
+|       4 | 0x1DF7      |        7671 |
 |       5 | 0x0014      |          20 |
-|       6 | 0x1DFA      |        7674 |
+|       6 | 0x1DFB      |        7675 |
 |       7 | 0x0033      |          51 |
-|       8 | 0x1DE5      |        7653 |
-|       9 | 0x1DE6      |        7654 |
-|      10 | 0x1DE7      |        7655 |
-|      11 | 0x1DE8      |        7656 |
+|       8 | 0x1DE6      |        7654 |
+|       9 | 0x1DE7      |        7655 |
+|      10 | 0x1DE8      |        7656 |
+|      11 | 0x1DE9      |        7657 |
 |      12 | 0x0000      |           0 |
-|      13 | 0x1DEA      |        7658 |
+|      13 | 0x1DEB      |        7659 |
 |      14 | 0x0037      |          55 |
-|      15 | 0x1DEB      |        7659 |
+|      15 | 0x1DEC      |        7660 |
 |      16 | 0x0001      |           1 |
 |      17 | 0x0008      |           8 |
-|      18 | 0x1DE9      |        7657 |
-|      19 | 0x1DEC      |        7660 |
-|      20 | 0x1DED      |        7661 |
-|      21 | 0x1DEE      |        7662 |
-|      22 | 0x1DEF      |        7663 |
-|      23 | 0x1DF0      |        7664 |
-|      24 | 0x1DF1      |        7665 |
-|      25 | 0x1DF2      |        7666 |
-|      26 | 0x1DF3      |        7667 |
+|      18 | 0x1DEA      |        7658 |
+|      19 | 0x1DED      |        7661 |
+|      20 | 0x1DEE      |        7662 |
+|      21 | 0x1DEF      |        7663 |
+|      22 | 0x1DF0      |        7664 |
+|      23 | 0x1DF1      |        7665 |
+|      24 | 0x1DF2      |        7666 |
+|      25 | 0x1DF3      |        7667 |
+|      26 | 0x1DF4      |        7668 |
 |      27 | 0x00C9      |         201 |
 |      28 | 0x000B      |          11 |
 |      29 | 0x000C      |          12 |
@@ -68,24 +68,24 @@
 |      31 | 0x000D      |          13 |
 |      32 | 0x0003      |           3 |
 |      33 | 0x0015      |          21 |
-|      34 | 0x1DF9      |        7673 |
-|      35 | 0x1DF7      |        7671 |
-|      36 | 0x1DF8      |        7672 |
+|      34 | 0x1DFA      |        7674 |
+|      35 | 0x1DF8      |        7672 |
+|      36 | 0x1DF9      |        7673 |
 |      37 | 0x0036      |          54 |
 |      38 | 0x0078      |         120 |
-|      39 | 0x1DFB      |        7675 |
+|      39 | 0x1DFC      |        7676 |
 |      40 | 0x7530      |       30000 |
 |      41 | 0x4E20      |       20000 |
-|      42 | 0x1DFC      |        7676 |
-|      43 | 0x1DFE      |        7678 |
-|      44 | 0x1DFF      |        7679 |
+|      42 | 0x1DFD      |        7677 |
+|      43 | 0x1DFF      |        7679 |
+|      44 | 0x1E00      |        7680 |
 |      45 | 0x000E      |          14 |
 |      46 | 0x000F      |          15 |
-|      47 | 0x1E00      |        7680 |
+|      47 | 0x1E01      |        7681 |
 |      48 | 0xD4A51000  |  3567587328 |
 |      49 | 0x0012      |          18 |
 |      50 | 0xC350      |       50000 |
-|      51 | 0x1DFD      |        7677 |
+|      51 | 0x1DFE      |        7678 |
 |      52 | 0x0011      |          17 |
 |      53 | 0x0013      |          19 |
 |      54 | 0x515D      |       20829 |
@@ -262,34 +262,34 @@
 
 ## String References
 
-- **7653**: Hsss. This's the Celennia Memorial Librrrary, and I'm Reja Ygridhi--the one in charge of keeping dust and paw prints off these tomes.
-- **7654**: The city's fat cats told me I have to cooperate with you pioneers' research and let you trrrack mud all over my beloved building. Honestly, though, I don't want your dirty paws anywhere near my books.
-- **7655**: Maybe if you show some respect for the wrrritten word first, then I'll have less of a reason to act like a sourpuss. So, you going to rrrun an errand for me or what?
-- **7656**: Run an errand for her? [To prove my worth? Of course!/I'm not living under the cat's paw.]
-- **7657**: Then you'd better rrremove yourself from my sight before I claw your face off!
-- **7658**: Hmph. Maybe you're not so worthless after all. I need you to confirm how purrrtinent our information about the Twelve Orders is.
-- **7659**: How? I take it they don't ask you to use your brrrain much out in the jungle, do they? Keep putting one of your legs in front of the other until you rrreach each order, that's how.
-- **7660**: I need you to confirm how accurrrate our information about all the Twelve Orders is. Report to me when you're done.
-- **7661**: I guess you did a good enough job. I don't apprrreciate your tone, though. Of course there were mistakes--that's because the documents I gave you are years old.
-- **7662**: It was all a test, and despite your mouse-sized brain, you were able to surrrpass my expectations. See, we don't just shuffle books around here--we also gather intelligence.
-- **7663**: Whether the intelligence you extrrract is worthy of binding and displaying on these shelves is none of your concern. Just collect as much of it as you can and gain as much experience as possible.
-- **7664**: Now that I can trrrust you to some extent, I'd rather not have you die. However, certain types of knowledge are more important than the life of one rrreplaceable pioneer.
-- **7665**: Moreover, it's the information you risk your life for that's always the most crrrucial.
-- **7666**: Don't worry. I'm not so rrreprobate that I won't compensate you for your hard work.
-- **7667**: While we're at it, I suppose we can grrrant you access to the shelves of intelligence we've already amassed. Just don't hack up any hairballs on them, got it?
-- **7668**: Come back after you've prrrocured a member's card from the Scouts' Coalition and talk to me, then you can lose yourself in the worlds each tome crrreates.
-- **7669**: There you are. The library crrraves more information, so go out and get some.
-- **7670**: That's enough for now. Give yourself a scrrratch on the back. I guess we prrroved the saying "Curiosity killed the cat" wrong, huh?
-- **7671**: There you are. I hate to admit it, but your efforts [in advancing the alliance/at helping the city's populace/in supporting pioneers/during your coalition assignments] deserve prrraise of some sort.
-- **7672**: Here's your reward. Now scrrram.
-- **7673**: Ah, if it isn't my favorrrite waste of air. The curator's been raving about all you did for our sacred city, and I've been tasked with giving you a little something.
-- **7674**: Fine. It's from me, okay!? Just don't go spouting it from the rrrooftops.
-- **7675**: There you are. I hate to admit it, but your efforts investigating the Naakuals deserve prrraise of some sort.
-- **7676**: What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14 bayld./$15 kinetic unit[/s]./Nothing for the nonce.]
-- **7677**: What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19 bayld./$20 kinetic unit[/s]./Nothing for the nonce.]
-- **7678**: Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider.
-- **7679**: Keep what you chose? [Yes./No.]
-- **7680**: I knew you'd pussyfoot around in the end. Just tell me what you want when you finally get arrround to deciding.
+- **7654**: Hsss. This's the Celennia Memorial Librrrary, and I'm Reja Ygridhi--the one in charge of keeping dust and paw prints off these tomes.
+- **7655**: The city's fat cats told me I have to cooperate with you pioneers' research and let you trrrack mud all over my beloved building. Honestly, though, I don't want your dirty paws anywhere near my books.
+- **7656**: Maybe if you show some respect for the wrrritten word first, then I'll have less of a reason to act like a sourpuss. So, you going to rrrun an errand for me or what?
+- **7657**: Run an errand for her? [To prove my worth? Of course!/I'm not living under the cat's paw.]
+- **7658**: Then you'd better rrremove yourself from my sight before I claw your face off!
+- **7659**: Hmph. Maybe you're not so worthless after all. I need you to confirm how purrrtinent our information about the Twelve Orders is.
+- **7660**: How? I take it they don't ask you to use your brrrain much out in the jungle, do they? Keep putting one of your legs in front of the other until you rrreach each order, that's how.
+- **7661**: I need you to confirm how accurrrate our information about all the Twelve Orders is. Report to me when you're done.
+- **7662**: I guess you did a good enough job. I don't apprrreciate your tone, though. Of course there were mistakes--that's because the documents I gave you are years old.
+- **7663**: It was all a test, and despite your mouse-sized brain, you were able to surrrpass my expectations. See, we don't just shuffle books around here--we also gather intelligence.
+- **7664**: Whether the intelligence you extrrract is worthy of binding and displaying on these shelves is none of your concern. Just collect as much of it as you can and gain as much experience as possible.
+- **7665**: Now that I can trrrust you to some extent, I'd rather not have you die. However, certain types of knowledge are more important than the life of one rrreplaceable pioneer.
+- **7666**: Moreover, it's the information you risk your life for that's always the most crrrucial.
+- **7667**: Don't worry. I'm not so rrreprobate that I won't compensate you for your hard work.
+- **7668**: While we're at it, I suppose we can grrrant you access to the shelves of intelligence we've already amassed. Just don't hack up any hairballs on them, got it?
+- **7669**: Come back after you've prrrocured a member's card from the Scouts' Coalition and talk to me, then you can lose yourself in the worlds each tome crrreates.
+- **7670**: There you are. The library crrraves more information, so go out and get some.
+- **7671**: That's enough for now. Give yourself a scrrratch on the back. I guess we prrroved the saying "Curiosity killed the cat" wrong, huh?
+- **7672**: There you are. I hate to admit it, but your efforts [in advancing the alliance/at helping the city's populace/in supporting pioneers/during your coalition assignments] deserve prrraise of some sort.
+- **7673**: Here's your reward. Now scrrram.
+- **7674**: Ah, if it isn't my favorrrite waste of air. The curator's been raving about all you did for our sacred city, and I've been tasked with giving you a little something.
+- **7675**: Fine. It's from me, okay!? Just don't go spouting it from the rrrooftops.
+- **7676**: There you are. I hate to admit it, but your efforts investigating the Naakuals deserve prrraise of some sort.
+- **7677**: What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14 bayld./$15 kinetic unit[/s]./Nothing for the nonce.]
+- **7678**: What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19 bayld./$20 kinetic unit[/s]./Nothing for the nonce.]
+- **7679**: Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider.
+- **7680**: Keep what you chose? [Yes./No.]
+- **7681**: I knew you'd pussyfoot around in the end. Just tell me what you want when you finally get arrround to deciding.
 
 ## Events
 
@@ -340,7 +340,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
     → "Come back after you've prrrocured a member's card from the Scouts' Coalition and talk to me, then you can lose yourself in the worlds each tome crrreates."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -374,7 +374,7 @@
   1: 0x0031 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0032 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0033 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7669*)
+  4: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
     → "There you are. The library crrraves more information, so go out and get some."
   5: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0046 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -410,11 +410,11 @@
   2: 0x005D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
   4: 0x006D [0x02] IF !(Work_Zone[2] == 10*) GOTO 0x0079
-  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7670*)
+  5: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
     → "That's enough for now. Give yourself a scrrratch on the back. I guess we prrroved the saying "Curiosity killed the cat" wrong, huh?"
   6: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0079 [0x02] IF !(Work_Zone[2] == 20*) GOTO 0x0085
-  8: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+  8: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "Fine. It's from me, okay!? Just don't go spouting it from the rrrooftops."
   9: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0085 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -454,26 +454,26 @@
   1: 0x009B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=51*
-  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7653*)
+  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7654*)
     → "Hsss. This's the Celennia Memorial Librrrary, and I'm Reja Ygridhi--the one in charge of keeping dust and paw prints off these tomes."
   5: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7654*)
+  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7655*)
     → "The city's fat cats told me I have to cooperate with you pioneers' research and let you trrrack mud all over my beloved building. Honestly, though, I don't want your dirty paws anywhere near my books."
   7: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7655*)
+  8: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7656*)
     → "Maybe if you show some respect for the wrrritten word first, then I'll have less of a reason to act like a sourpuss. So, you going to rrrun an errand for me or what?"
   9: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=51*
- 11: 0x00C7 [0x24] CREATE_DIALOG(message_id=7656*, default_option=0*, option_flags=0*)
+ 11: 0x00C7 [0x24] CREATE_DIALOG(message_id=7657*, default_option=0*, option_flags=0*)
     → "Run an errand for her? [To prove my worth? Of course!/I'm not living under the cat's paw.]"
  12: 0x00CE [0x25] WAIT_DIALOG_SELECT()
  13: 0x00CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106
  14: 0x00D7 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 15: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7658*)
+ 15: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7659*)
     → "Hmph. Maybe you're not so worthless after all. I need you to confirm how purrrtinent our information about the Twelve Orders is."
  16: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
- 18: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7659*)
+ 18: 0x00EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
     → "How? I take it they don't ask you to use your brrrain much out in the jungle, do they? Keep putting one of your legs in front of the other until you rrreach each order, that's how."
  19: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
@@ -481,7 +481,7 @@
  22: 0x0103 [0x01] GOTO 0x0129
  23: 0x0106 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0129
  24: 0x010E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=8*
- 25: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7657*)
+ 25: 0x011D [0x1D] PRINT_EVENT_MESSAGE(message_id=7658*)
     → "Then you'd better rrremove yourself from my sight before I claw your face off!"
  26: 0x0120 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0121 [0x03] Work_Zone[1] = 0*
@@ -518,7 +518,7 @@ SUBROUTINE_0129:
   1: 0x0130 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0131 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0132 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  4: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
+  4: 0x0141 [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
     → "I need you to confirm how accurrrate our information about all the Twelve Orders is. Report to me when you're done."
   5: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0145 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -555,25 +555,25 @@ SUBROUTINE_0129:
   2: 0x015C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x015D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x015E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
+  5: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
     → "I guess you did a good enough job. I don't apprrreciate your tone, though. Of course there were mistakes--that's because the documents I gave you are years old."
   6: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
+  7: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
     → "It was all a test, and despite your mouse-sized brain, you were able to surrrpass my expectations. See, we don't just shuffle books around here--we also gather intelligence."
   8: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7663*)
+  9: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
     → "Whether the intelligence you extrrract is worthy of binding and displaying on these shelves is none of your concern. Just collect as much of it as you can and gain as much experience as possible."
  10: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7664*)
+ 11: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
     → "Now that I can trrrust you to some extent, I'd rather not have you die. However, certain types of knowledge are more important than the life of one rrreplaceable pioneer."
  12: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7665*)
+ 13: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
     → "Moreover, it's the information you risk your life for that's always the most crrrucial."
  14: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=7666*)
+ 15: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
     → "Don't worry. I'm not so rrreprobate that I won't compensate you for your hard work."
  16: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7667*)
+ 17: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=7668*)
     → "While we're at it, I suppose we can grrrant you access to the shelves of intelligence we've already amassed. Just don't hack up any hairballs on them, got it?"
  18: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0189 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -630,19 +630,19 @@ SUBROUTINE_0129:
  15: 0x0208 [0x03] Work_Zone[2] = 1*
  16: 0x020D [0x02] IF !(Work_Zone[2] == 20*) GOTO 0x0225
  17: 0x0215 [0x03] Work_Zone[2] = 0*
- 18: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+ 18: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "Ah, if it isn't my favorrrite waste of air. The curator's been raving about all you did for our sacred city, and I've been tasked with giving you a little something."
  19: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+ 20: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "Fine. It's from me, okay!? Just don't go spouting it from the rrrooftops."
  21: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0222 [0x01] GOTO 0x0229
- 23: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7671*)
+ 23: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
     → "There you are. I hate to admit it, but your efforts [in advancing the alliance/at helping the city's populace/in supporting pioneers/during your coalition assignments] deserve prrraise of some sort."
  24: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0229:
- 25: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+ 25: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "Here's your reward. Now scrrram."
  26: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x022D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=54*
@@ -702,7 +702,7 @@ SUBROUTINE_0229:
   2: 0x025D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x025E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x025F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+  5: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "There you are. I hate to admit it, but your efforts investigating the Naakuals deserve prrraise of some sort."
   6: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0272 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -717,7 +717,7 @@ SUBROUTINE_0229:
  16: 0x02AD [0x01] GOTO 0x0292
  17: 0x02B0 [0x03] Work_Zone_1700[6] = 30000*
  18: 0x02B5 [0x03] Work_Zone_1700[7] = 20000*
- 19: 0x02BA [0x24] CREATE_DIALOG(message_id=7676*, default_option=0*, option_flags=0*)
+ 19: 0x02BA [0x24] CREATE_DIALOG(message_id=7677*, default_option=0*, option_flags=0*)
     → "What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14 bayld./$15 kinetic unit[/s]./Nothing for the nonce.]"
  20: 0x02C1 [0x25] WAIT_DIALOG_SELECT()
  21: 0x02C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CD
@@ -729,11 +729,11 @@ SUBROUTINE_02CD:
  25: 0x02DA [0x9D] ExtData[1]->WorkLocal[2] = 0x0735[ExtData[1]->WorkLocal[4]] // Read WORD
  26: 0x02E2 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[2])
  27: 0x02E5 [0x03] Work_Zone[2] = 0*
- 28: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 28: 0x02EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  29: 0x02ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x02EE [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 31: 0x02F1 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 31: 0x02F1 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  32: 0x02F8 [0x25] WAIT_DIALOG_SELECT()
  33: 0x02F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x031F
@@ -747,10 +747,10 @@ SUBROUTINE_032A:
  39: 0x032A [0x02] IF !(ExtData[1]->WorkLocal[4] == 13*) GOTO 0x0379
  40: 0x0332 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  41: 0x0337 [0x03] Work_Zone[2] = 1*
- 42: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 42: 0x033C [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  43: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0340 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 44: 0x0340 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  45: 0x0347 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0348 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x036E
@@ -764,10 +764,10 @@ SUBROUTINE_0379:
  52: 0x0379 [0x02] IF !(ExtData[1]->WorkLocal[4] == 14*) GOTO 0x03C8
  53: 0x0381 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  54: 0x0386 [0x03] Work_Zone[2] = 2*
- 55: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 55: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  56: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x038F [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 57: 0x038F [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  58: 0x0396 [0x25] WAIT_DIALOG_SELECT()
  59: 0x0397 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03BD
@@ -779,7 +779,7 @@ SUBROUTINE_0379:
 
 SUBROUTINE_03C8:
  65: 0x03C8 [0x02] IF !(ExtData[1]->WorkLocal[4] == 15*) GOTO 0x03DF
- 66: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+ 66: 0x03D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "I knew you'd pussyfoot around in the end. Just tell me what you want when you finally get arrround to deciding."
  67: 0x03D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x03D4 [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -850,7 +850,7 @@ SUBROUTINE_03C8:
   2: 0x03EA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x03EB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x03EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+  5: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "There you are. I hate to admit it, but your efforts investigating the Naakuals deserve prrraise of some sort."
   6: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x03FF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -866,7 +866,7 @@ SUBROUTINE_03C8:
  17: 0x043D [0x03] Work_Zone_1700[6] = 30000*
  18: 0x0442 [0x03] Work_Zone_1700[7] = 20000*
  19: 0x0447 [0x03] ExtData[1]->WorkLocal[6] = 3567587328*
- 20: 0x044C [0x24] CREATE_DIALOG(message_id=7676*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 20: 0x044C [0x24] CREATE_DIALOG(message_id=7677*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14 bayld./$15 kinetic unit[/s]./Nothing for the nonce.]"
  21: 0x0453 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0454 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x045F
@@ -878,11 +878,11 @@ SUBROUTINE_045F:
  26: 0x046C [0x9D] ExtData[1]->WorkLocal[2] = 0x0765[ExtData[1]->WorkLocal[4]] // Read WORD
  27: 0x0474 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[2])
  28: 0x0477 [0x03] Work_Zone[2] = 0*
- 29: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 29: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  30: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0480 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 32: 0x0483 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 32: 0x0483 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  33: 0x048A [0x25] WAIT_DIALOG_SELECT()
  34: 0x048B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B1
@@ -896,10 +896,10 @@ SUBROUTINE_04BC:
  40: 0x04BC [0x02] IF !(ExtData[1]->WorkLocal[4] == 13*) GOTO 0x050B
  41: 0x04C4 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  42: 0x04C9 [0x03] Work_Zone[2] = 1*
- 43: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 43: 0x04CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  44: 0x04D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x04D2 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 45: 0x04D2 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  46: 0x04D9 [0x25] WAIT_DIALOG_SELECT()
  47: 0x04DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0500
@@ -913,10 +913,10 @@ SUBROUTINE_050B:
  53: 0x050B [0x02] IF !(ExtData[1]->WorkLocal[4] == 14*) GOTO 0x055A
  54: 0x0513 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  55: 0x0518 [0x03] Work_Zone[2] = 2*
- 56: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 56: 0x051D [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  57: 0x0520 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0521 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 58: 0x0521 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  59: 0x0528 [0x25] WAIT_DIALOG_SELECT()
  60: 0x0529 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x054F
@@ -928,7 +928,7 @@ SUBROUTINE_050B:
 
 SUBROUTINE_055A:
  66: 0x055A [0x02] IF !(ExtData[1]->WorkLocal[4] == 15*) GOTO 0x0571
- 67: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+ 67: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "I knew you'd pussyfoot around in the end. Just tell me what you want when you finally get arrround to deciding."
  68: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0566 [0x05] ExtData[1]->WorkLocal[5] = 1
@@ -999,7 +999,7 @@ SUBROUTINE_055A:
   2: 0x057C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x057D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x057E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
-  5: 0x058D [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
+  5: 0x058D [0x1D] PRINT_EVENT_MESSAGE(message_id=7676*)
     → "There you are. I hate to admit it, but your efforts investigating the Naakuals deserve prrraise of some sort."
   6: 0x0590 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0591 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*
@@ -1014,7 +1014,7 @@ SUBROUTINE_055A:
  16: 0x05CC [0x01] GOTO 0x05B1
  17: 0x05CF [0x03] Work_Zone_1700[11] = 50000*
  18: 0x05D4 [0x03] Work_Zone_1700[12] = 30000*
- 19: 0x05D9 [0x24] CREATE_DIALOG(message_id=7677*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 19: 0x05D9 [0x24] CREATE_DIALOG(message_id=7678*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "What will your reward be? [$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19 bayld./$20 kinetic unit[/s]./Nothing for the nonce.]"
  20: 0x05E0 [0x25] WAIT_DIALOG_SELECT()
  21: 0x05E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05EC
@@ -1026,11 +1026,11 @@ SUBROUTINE_05EC:
  25: 0x05F9 [0x9D] ExtData[1]->WorkLocal[2] = 0x0795[ExtData[1]->WorkLocal[4]] // Read WORD
  26: 0x0601 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[2])
  27: 0x0604 [0x03] Work_Zone[2] = 0*
- 28: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 28: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  29: 0x060C [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x060D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 31: 0x0610 [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 31: 0x0610 [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  32: 0x0617 [0x25] WAIT_DIALOG_SELECT()
  33: 0x0618 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x063E
@@ -1044,10 +1044,10 @@ SUBROUTINE_0649:
  39: 0x0649 [0x02] IF !(ExtData[1]->WorkLocal[4] == 18*) GOTO 0x0698
  40: 0x0651 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  41: 0x0656 [0x03] Work_Zone[2] = 1*
- 42: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 42: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  43: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x065F [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 44: 0x065F [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  45: 0x0666 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0667 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x068D
@@ -1061,10 +1061,10 @@ SUBROUTINE_0698:
  52: 0x0698 [0x02] IF !(ExtData[1]->WorkLocal[4] == 19*) GOTO 0x06E7
  53: 0x06A0 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
  54: 0x06A5 [0x03] Work_Zone[2] = 2*
- 55: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7678*)
+ 55: 0x06AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7679*)
     → "Hmph. You really want [that/bayld/kinetic units]? Now's your last chance to rrreconsider."
  56: 0x06AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x06AE [0x24] CREATE_DIALOG(message_id=7679*, default_option=1*, option_flags=0*)
+ 57: 0x06AE [0x24] CREATE_DIALOG(message_id=7680*, default_option=1*, option_flags=0*)
     → "Keep what you chose? [Yes./No.]"
  58: 0x06B5 [0x25] WAIT_DIALOG_SELECT()
  59: 0x06B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06DC
@@ -1076,7 +1076,7 @@ SUBROUTINE_0698:
 
 SUBROUTINE_06E7:
  65: 0x06E7 [0x02] IF !(ExtData[1]->WorkLocal[4] == 20*) GOTO 0x06FE
- 66: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7680*)
+ 66: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7681*)
     → "I knew you'd pussyfoot around in the end. Just tell me what you want when you finally get arrround to deciding."
  67: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x06F3 [0x05] ExtData[1]->WorkLocal[5] = 1

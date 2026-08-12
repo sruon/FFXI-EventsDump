@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E34      |        7732 |
-|       1 | 0x1E35      |        7733 |
-|       2 | 0x1E36      |        7734 |
-|       3 | 0x1E37      |        7735 |
-|       4 | 0x1E38      |        7736 |
-|       5 | 0x1E39      |        7737 |
+|       0 | 0x1E35      |        7733 |
+|       1 | 0x1E36      |        7734 |
+|       2 | 0x1E37      |        7735 |
+|       3 | 0x1E38      |        7736 |
+|       4 | 0x1E39      |        7737 |
+|       5 | 0x1E3A      |        7738 |
 
 ## String References
 
-- **7732**: You see a message engraved on the stone:
-- **7733**: These marshlands belong to a savage race of beastmen called the Quadav. Many have ventured in these lands seeking fame and fortune, but were never seen again.
-- **7734**: But I have vowed to make a complete map of Vana'diel--the guilt I would feel for leaving these marshlands blank far outweighed the danger of entering them.
-- **7735**: During my survey, I made the mistake of building a fire and was promptly captured by the Quadav. In their village, I was dumbstruck to see that their buildings were made of wrought metal!
-- **7736**: As much as we use the Tarutaru magic of fire to light our smoking-pipes, the Quadav--a barbarous tribe by any account--had secretly harnessed much of Bastok's metalworking technology.
-- **7737**: When I told them of my quest, they were most eager to help, releasing me and even going so far as to give me a guided tour of their home! --Gwynham Ironheart, 763 Crystal Era.
+- **7733**: You see a message engraved on the stone:
+- **7734**: These marshlands belong to a savage race of beastmen called the Quadav. Many have ventured in these lands seeking fame and fortune, but were never seen again.
+- **7735**: But I have vowed to make a complete map of Vana'diel--the guilt I would feel for leaving these marshlands blank far outweighed the danger of entering them.
+- **7736**: During my survey, I made the mistake of building a fire and was promptly captured by the Quadav. In their village, I was dumbstruck to see that their buildings were made of wrought metal!
+- **7737**: As much as we use the Tarutaru magic of fire to light our smoking-pipes, the Quadav--a barbarous tribe by any account--had secretly harnessed much of Bastok's metalworking technology.
+- **7738**: When I told them of my quest, they were most eager to help, releasing me and even going so far as to give me a guided tour of their home! --Gwynham Ironheart, 763 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7732*]:
+  0: 0x0001 [0x48] [System] [7733*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7733*]:
+  2: 0x0005 [0x48] [System] [7734*]:
     → "These marshlands belong to a savage race of beastmen called the Quadav. Many have ventured in these lands seeking fame and fortune, but were never seen again."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7734*]:
+  4: 0x0009 [0x48] [System] [7735*]:
     → "But I have vowed to make a complete map of Vana'diel--the guilt I would feel for leaving these marshlands blank far outweighed the danger of entering them."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7735*]:
+  6: 0x000D [0x48] [System] [7736*]:
     → "During my survey, I made the mistake of building a fire and was promptly captured by the Quadav. In their village, I was dumbstruck to see that their buildings were made of wrought metal!"
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7736*]:
+  8: 0x0011 [0x48] [System] [7737*]:
     → "As much as we use the Tarutaru magic of fire to light our smoking-pipes, the Quadav--a barbarous tribe by any account--had secretly harnessed much of Bastok's metalworking technology."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7737*]:
+ 10: 0x0015 [0x48] [System] [7738*]:
     → "When I told them of my quest, they were most eager to help, releasing me and even going so far as to give me a guided tour of their home! --Gwynham Ironheart, 763 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

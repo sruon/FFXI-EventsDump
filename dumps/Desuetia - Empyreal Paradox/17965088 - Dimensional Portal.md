@@ -28,7 +28,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E2C      |        7724 |
+|       1 | 0x1E2D      |        7725 |
 |       2 | 0x007C      |         124 |
 |       3 | 0x0096      |         150 |
 |       4 | 0x0028      |          40 |
@@ -37,7 +37,7 @@
 
 ## String References
 
-- **7724**: Teleport to the Walk of Echoes? [Yes./No.]
+- **7725**: Teleport to the Walk of Echoes? [Yes./No.]
 
 ## Events
 
@@ -243,7 +243,7 @@
 
 ```
   0: 0x0008 [0x03] Work_Zone[1] = 0*
-  1: 0x000D [0x24] CREATE_DIALOG(message_id=7724*, default_option=0*, option_flags=0*)
+  1: 0x000D [0x24] CREATE_DIALOG(message_id=7725*, default_option=0*, option_flags=0*)
     → "Teleport to the Walk of Echoes? [Yes./No.]"
   2: 0x0014 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0066

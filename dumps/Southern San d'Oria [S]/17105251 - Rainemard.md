@@ -22,15 +22,15 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2BF9      |       11257 |
+|       2 | 0x2BFA      |       11258 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x2BF8      |       11256 |
+|       5 | 0x2BF9      |       11257 |
 
 ## String References
 
-- **11256**: Shall this be the place where I happen to chance upon the truth I seek?
-- **11257**: A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply.
+- **11257**: Shall this be the place where I happen to chance upon the truth I seek?
+- **11258**: A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply.
 
 ## Events
 
@@ -100,26 +100,26 @@
  12: 0x0042 [0x01] GOTO 0x0081
  13: 0x0045 [0x02] IF !(ExtData[1]->WorkLocal[1] == 1*) GOTO 0x0059
  14: 0x004D [0x03] Work_Zone[2] = 0*
- 15: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 15: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
     → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
  16: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0056 [0x01] GOTO 0x0081
  18: 0x0059 [0x02] IF !(ExtData[1]->WorkLocal[1] == 2*) GOTO 0x006D
  19: 0x0061 [0x03] Work_Zone[2] = 1*
- 20: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 20: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
     → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
  21: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x006A [0x01] GOTO 0x0081
  23: 0x006D [0x02] IF !(ExtData[1]->WorkLocal[1] == 3*) GOTO 0x0081
  24: 0x0075 [0x03] Work_Zone[2] = 2*
- 25: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
+ 25: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=11258*)
     → "A true knight knows not only how to win [his/her] battles, but also how to lose them. A [man/woman] of your stature surely understands what I imply."
  26: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x007E [0x01] GOTO 0x0081
 
 SUBROUTINE_0081:
  28: 0x0081 [0x01] GOTO 0x0088
- 29: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=11256*)
+ 29: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "Shall this be the place where I happen to chance upon the truth I seek?"
  30: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -130,7 +130,7 @@ SUBROUTINE_0088:
 
 SUBROUTINE_0096:
  34: 0x0096 [0x01] GOTO 0x009D
- 35: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=11256*)
+ 35: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=11257*)
     → "Shall this be the place where I happen to chance upon the truth I seek?"
  36: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
 

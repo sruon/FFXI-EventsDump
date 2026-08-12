@@ -131,12 +131,12 @@
 |       5 | 0x0000      |           0 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x0D01      |        3329 |
-|       8 | 0x1DF8      |        7672 |
-|       9 | 0x1DF9      |        7673 |
-|      10 | 0x1DFA      |        7674 |
-|      11 | 0x1DEC      |        7660 |
-|      12 | 0x1DED      |        7661 |
-|      13 | 0x1DFB      |        7675 |
+|       8 | 0x1DF9      |        7673 |
+|       9 | 0x1DFA      |        7674 |
+|      10 | 0x1DFB      |        7675 |
+|      11 | 0x1DED      |        7661 |
+|      12 | 0x1DEE      |        7662 |
+|      13 | 0x1DFC      |        7676 |
 |      14 | 0x001F      |          31 |
 |      15 | 0x0001      |           1 |
 |      16 | 0x0002      |           2 |
@@ -156,290 +156,290 @@
 |      30 | 0x0015      |          21 |
 |      31 | 0x0016      |          22 |
 |      32 | 0x0017      |          23 |
-|      33 | 0x1A61      |        6753 |
+|      33 | 0x1A62      |        6754 |
 |      34 | 0x008D      |         141 |
-|      35 | 0x1E0A      |        7690 |
-|      36 | 0x1E13      |        7699 |
+|      35 | 0x1E0B      |        7691 |
+|      36 | 0x1E14      |        7700 |
 |      37 | 0x0008      |           8 |
-|      38 | 0x1E04      |        7684 |
-|      39 | 0x1E05      |        7685 |
-|      40 | 0x1E06      |        7686 |
-|      41 | 0x1E07      |        7687 |
-|      42 | 0x1E08      |        7688 |
-|      43 | 0x1E09      |        7689 |
-|      44 | 0x1E15      |        7701 |
-|      45 | 0x1E0B      |        7691 |
-|      46 | 0x1E11      |        7697 |
-|      47 | 0x1E12      |        7698 |
-|      48 | 0x1E14      |        7700 |
-|      49 | 0x1E16      |        7702 |
-|      50 | 0x1E17      |        7703 |
-|      51 | 0x1E1D      |        7709 |
-|      52 | 0x1E1E      |        7710 |
-|      53 | 0x1E25      |        7717 |
-|      54 | 0x1E26      |        7718 |
-|      55 | 0x1E27      |        7719 |
-|      56 | 0x1E28      |        7720 |
-|      57 | 0x1E2F      |        7727 |
+|      38 | 0x1E05      |        7685 |
+|      39 | 0x1E06      |        7686 |
+|      40 | 0x1E07      |        7687 |
+|      41 | 0x1E08      |        7688 |
+|      42 | 0x1E09      |        7689 |
+|      43 | 0x1E0A      |        7690 |
+|      44 | 0x1E16      |        7702 |
+|      45 | 0x1E0C      |        7692 |
+|      46 | 0x1E12      |        7698 |
+|      47 | 0x1E13      |        7699 |
+|      48 | 0x1E15      |        7701 |
+|      49 | 0x1E17      |        7703 |
+|      50 | 0x1E18      |        7704 |
+|      51 | 0x1E1E      |        7710 |
+|      52 | 0x1E1F      |        7711 |
+|      53 | 0x1E26      |        7718 |
+|      54 | 0x1E27      |        7719 |
+|      55 | 0x1E28      |        7720 |
+|      56 | 0x1E29      |        7721 |
+|      57 | 0x1E30      |        7728 |
 |      58 | 0x0691      |        1681 |
-|      59 | 0x1E2D      |        7725 |
-|      60 | 0x1E2E      |        7726 |
-|      61 | 0x1E30      |        7728 |
-|      62 | 0x1E31      |        7729 |
-|      63 | 0x1E32      |        7730 |
-|      64 | 0x1E39      |        7737 |
-|      65 | 0x1E3A      |        7738 |
-|      66 | 0x1E6A      |        7786 |
-|      67 | 0x1E6B      |        7787 |
-|      68 | 0x1E6C      |        7788 |
-|      69 | 0x1E6D      |        7789 |
-|      70 | 0x1E6E      |        7790 |
-|      71 | 0x1E6F      |        7791 |
-|      72 | 0x1E70      |        7792 |
-|      73 | 0x1E71      |        7793 |
-|      74 | 0x1E72      |        7794 |
-|      75 | 0x1E73      |        7795 |
-|      76 | 0x1E7C      |        7804 |
-|      77 | 0x1E7D      |        7805 |
-|      78 | 0x1E7E      |        7806 |
+|      59 | 0x1E2E      |        7726 |
+|      60 | 0x1E2F      |        7727 |
+|      61 | 0x1E31      |        7729 |
+|      62 | 0x1E32      |        7730 |
+|      63 | 0x1E33      |        7731 |
+|      64 | 0x1E3A      |        7738 |
+|      65 | 0x1E3B      |        7739 |
+|      66 | 0x1E6B      |        7787 |
+|      67 | 0x1E6C      |        7788 |
+|      68 | 0x1E6D      |        7789 |
+|      69 | 0x1E6E      |        7790 |
+|      70 | 0x1E6F      |        7791 |
+|      71 | 0x1E70      |        7792 |
+|      72 | 0x1E71      |        7793 |
+|      73 | 0x1E72      |        7794 |
+|      74 | 0x1E73      |        7795 |
+|      75 | 0x1E74      |        7796 |
+|      76 | 0x1E7D      |        7805 |
+|      77 | 0x1E7E      |        7806 |
+|      78 | 0x1E7F      |        7807 |
 |      79 | 0x00C9      |         201 |
-|      80 | 0x1E7B      |        7803 |
-|      81 | 0x1E88      |        7816 |
-|      82 | 0x1E85      |        7813 |
-|      83 | 0x1E86      |        7814 |
-|      84 | 0x1E87      |        7815 |
-|      85 | 0x1E89      |        7817 |
-|      86 | 0x1E8A      |        7818 |
-|      87 | 0x1E8B      |        7819 |
-|      88 | 0x1E8C      |        7820 |
-|      89 | 0x21E4      |        8676 |
-|      90 | 0x21E2      |        8674 |
-|      91 | 0x21E3      |        8675 |
-|      92 | 0x21E5      |        8677 |
-|      93 | 0x21E6      |        8678 |
-|      94 | 0x21E7      |        8679 |
-|      95 | 0x21E8      |        8680 |
-|      96 | 0x1EAF      |        7855 |
-|      97 | 0x1EB0      |        7856 |
-|      98 | 0x1EB1      |        7857 |
-|      99 | 0x1EB7      |        7863 |
-|     100 | 0x1EB8      |        7864 |
-|     101 | 0x1EB9      |        7865 |
-|     102 | 0x1EBA      |        7866 |
-|     103 | 0x1EBB      |        7867 |
-|     104 | 0x1EC2      |        7874 |
-|     105 | 0x1EC3      |        7875 |
-|     106 | 0x1EC4      |        7876 |
-|     107 | 0x1EC7      |        7879 |
-|     108 | 0x1EC8      |        7880 |
-|     109 | 0x1EC5      |        7877 |
-|     110 | 0x1EC6      |        7878 |
-|     111 | 0x1ECF      |        7887 |
-|     112 | 0x1ED0      |        7888 |
-|     113 | 0x1ED1      |        7889 |
-|     114 | 0x1ED2      |        7890 |
-|     115 | 0x1ED9      |        7897 |
-|     116 | 0x1EDA      |        7898 |
-|     117 | 0x1EDB      |        7899 |
-|     118 | 0x1EDC      |        7900 |
-|     119 | 0x1EE6      |        7910 |
-|     120 | 0x1EE7      |        7911 |
-|     121 | 0x1EE8      |        7912 |
-|     122 | 0x1EE9      |        7913 |
-|     123 | 0x1EEA      |        7914 |
-|     124 | 0x1EF1      |        7921 |
-|     125 | 0x1EF2      |        7922 |
-|     126 | 0x1EF3      |        7923 |
-|     127 | 0x1EF4      |        7924 |
-|     128 | 0x24CE      |        9422 |
-|     129 | 0x24CF      |        9423 |
-|     130 | 0x24D0      |        9424 |
-|     131 | 0x24D1      |        9425 |
-|     132 | 0x24D9      |        9433 |
-|     133 | 0x24DA      |        9434 |
-|     134 | 0x24DB      |        9435 |
-|     135 | 0x24DC      |        9436 |
-|     136 | 0x24E3      |        9443 |
-|     137 | 0x24E4      |        9444 |
-|     138 | 0x24E5      |        9445 |
-|     139 | 0x24E6      |        9446 |
-|     140 | 0x24E7      |        9447 |
-|     141 | 0x24EE      |        9454 |
-|     142 | 0x24EF      |        9455 |
-|     143 | 0x24F0      |        9456 |
-|     144 | 0x24F1      |        9457 |
-|     145 | 0x24F2      |        9458 |
-|     146 | 0x24F9      |        9465 |
-|     147 | 0x24FA      |        9466 |
-|     148 | 0x24FB      |        9467 |
-|     149 | 0x24FC      |        9468 |
-|     150 | 0x24FD      |        9469 |
-|     151 | 0x2506      |        9478 |
-|     152 | 0x2507      |        9479 |
+|      80 | 0x1E7C      |        7804 |
+|      81 | 0x1E89      |        7817 |
+|      82 | 0x1E86      |        7814 |
+|      83 | 0x1E87      |        7815 |
+|      84 | 0x1E88      |        7816 |
+|      85 | 0x1E8A      |        7818 |
+|      86 | 0x1E8B      |        7819 |
+|      87 | 0x1E8C      |        7820 |
+|      88 | 0x1E8D      |        7821 |
+|      89 | 0x21E5      |        8677 |
+|      90 | 0x21E3      |        8675 |
+|      91 | 0x21E4      |        8676 |
+|      92 | 0x21E6      |        8678 |
+|      93 | 0x21E7      |        8679 |
+|      94 | 0x21E8      |        8680 |
+|      95 | 0x21E9      |        8681 |
+|      96 | 0x1EB0      |        7856 |
+|      97 | 0x1EB1      |        7857 |
+|      98 | 0x1EB2      |        7858 |
+|      99 | 0x1EB8      |        7864 |
+|     100 | 0x1EB9      |        7865 |
+|     101 | 0x1EBA      |        7866 |
+|     102 | 0x1EBB      |        7867 |
+|     103 | 0x1EBC      |        7868 |
+|     104 | 0x1EC3      |        7875 |
+|     105 | 0x1EC4      |        7876 |
+|     106 | 0x1EC5      |        7877 |
+|     107 | 0x1EC8      |        7880 |
+|     108 | 0x1EC9      |        7881 |
+|     109 | 0x1EC6      |        7878 |
+|     110 | 0x1EC7      |        7879 |
+|     111 | 0x1ED0      |        7888 |
+|     112 | 0x1ED1      |        7889 |
+|     113 | 0x1ED2      |        7890 |
+|     114 | 0x1ED3      |        7891 |
+|     115 | 0x1EDA      |        7898 |
+|     116 | 0x1EDB      |        7899 |
+|     117 | 0x1EDC      |        7900 |
+|     118 | 0x1EDD      |        7901 |
+|     119 | 0x1EE7      |        7911 |
+|     120 | 0x1EE8      |        7912 |
+|     121 | 0x1EE9      |        7913 |
+|     122 | 0x1EEA      |        7914 |
+|     123 | 0x1EEB      |        7915 |
+|     124 | 0x1EF2      |        7922 |
+|     125 | 0x1EF3      |        7923 |
+|     126 | 0x1EF4      |        7924 |
+|     127 | 0x1EF5      |        7925 |
+|     128 | 0x24CF      |        9423 |
+|     129 | 0x24D0      |        9424 |
+|     130 | 0x24D1      |        9425 |
+|     131 | 0x24D2      |        9426 |
+|     132 | 0x24DA      |        9434 |
+|     133 | 0x24DB      |        9435 |
+|     134 | 0x24DC      |        9436 |
+|     135 | 0x24DD      |        9437 |
+|     136 | 0x24E4      |        9444 |
+|     137 | 0x24E5      |        9445 |
+|     138 | 0x24E6      |        9446 |
+|     139 | 0x24E7      |        9447 |
+|     140 | 0x24E8      |        9448 |
+|     141 | 0x24EF      |        9455 |
+|     142 | 0x24F0      |        9456 |
+|     143 | 0x24F1      |        9457 |
+|     144 | 0x24F2      |        9458 |
+|     145 | 0x24F3      |        9459 |
+|     146 | 0x24FA      |        9466 |
+|     147 | 0x24FB      |        9467 |
+|     148 | 0x24FC      |        9468 |
+|     149 | 0x24FD      |        9469 |
+|     150 | 0x24FE      |        9470 |
+|     151 | 0x2507      |        9479 |
+|     152 | 0x2508      |        9480 |
 |     153 | 0x0007      |           7 |
-|     154 | 0x2508      |        9480 |
+|     154 | 0x2509      |        9481 |
 |     155 | 0x007F      |         127 |
 |     156 | 0x0006      |           6 |
-|     157 | 0x2509      |        9481 |
-|     158 | 0x250A      |        9482 |
-|     159 | 0x2568      |        9576 |
-|     160 | 0x2569      |        9577 |
-|     161 | 0x256A      |        9578 |
-|     162 | 0x256B      |        9579 |
-|     163 | 0x25B7      |        9655 |
-|     164 | 0x25B8      |        9656 |
-|     165 | 0x25B9      |        9657 |
-|     166 | 0x25BA      |        9658 |
-|     167 | 0x25BB      |        9659 |
-|     168 | 0x25BC      |        9660 |
-|     169 | 0x25BD      |        9661 |
-|     170 | 0x25BE      |        9662 |
-|     171 | 0x25E2      |        9698 |
-|     172 | 0x25E3      |        9699 |
-|     173 | 0x25E4      |        9700 |
+|     157 | 0x250A      |        9482 |
+|     158 | 0x250B      |        9483 |
+|     159 | 0x2569      |        9577 |
+|     160 | 0x256A      |        9578 |
+|     161 | 0x256B      |        9579 |
+|     162 | 0x256C      |        9580 |
+|     163 | 0x25B8      |        9656 |
+|     164 | 0x25B9      |        9657 |
+|     165 | 0x25BA      |        9658 |
+|     166 | 0x25BB      |        9659 |
+|     167 | 0x25BC      |        9660 |
+|     168 | 0x25BD      |        9661 |
+|     169 | 0x25BE      |        9662 |
+|     170 | 0x25BF      |        9663 |
+|     171 | 0x25E3      |        9699 |
+|     172 | 0x25E4      |        9700 |
+|     173 | 0x25E5      |        9701 |
 
 ## String References
 
-- **6753**: Accept this mission? [Yes./No.]
-- **7660**: This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods.
-- **7661**: If you're after a map of Windurst, then head to the opening back up there. There's a Mithra merchant selling them there.
-- **7672**: You cannot accept more than one mission at a time.
-- **7673**: Please complete your current mission before applying for the next.
-- **7674**: The missions we are currently able to offer you at the eastern gatehouse are as follows...
-- **7675**: Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]
-- **7684**: This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods.
-- **7685**: To expel those who would subvert the law and order of Windurst Woods... To protect the Mithra populace from all manner of threats and dangers... That is the job of us guards.
-- **7686**: But lately, ferocious monsters are on the increase, and the beastmen are rrruining nature as they please, so our job is becoming all the more hectic.
-- **7687**: If you are a citizen of Windurst, then perhaps you may lend us a helping hand from time to time in order to protect the peace of our fair town.
-- **7688**: For instance, you could try to do some missions...special tasks issued on behalf of the Federation of Windurst...
-- **7689**: But first, you might prefer to listen to our explanation of the rrrole of gatehouses before you decide...
-- **7690**: Hear explanation of gatehouses? [Hear! Hear!/Turn a deaf ear.]
-- **7691**: Good, then allow us to explain. Sola Jaab, would you like to do the honors?
-- **7697**: So how about it? If you consider yourself a model citizen of Windurst, I rrrecommend you serve your country by trying your hand at missions.
-- **7698**: The very rrreason that you came to Windurst in the first place was because you wanted to make something out of yourself, wasn't it?
-- **7699**: Receive a mission? [Accept./Decline.]
-- **7700**: Well, I guess there's little more to say than "Maybe next time," eh?
-- **7701**: So you don't need to know about gatehouses, eh? I don't suppose you'll be interested in taking on any missions, then...?
-- **7702**: Well said! That heartfelt rrreply is your first great step towards making Windurst a better place.
-- **7703**: So, without further delay, let's issue you your first mission. Do either of you have just the rrright mission for [him/her]?
-- **7709**: Good. Carry out that mission! The Orastery is the ministry that rrruns a Mage Academy to improve the military's magic abilities.
-- **7710**: To get to the Orastery, you have to go to the port area by heading back west from this gate. Your country is counting on you!
-- **7717**: The details of the mission will be explained when you meet with the Orastery's minister. I can't say he's the most pleasant of people, but at least he has guts.
-- **7718**: Do us proud!
-- **7719**: Good job! Glad to see you made it back alive! I trust the mission wasn't too dangerous.
-- **7720**: Allocating rrrank points according to your efforts...has enabled you to go up to rrrank two! Congratulations!
-- **7725**: You've come just at the rrright time. The Manustery just up the rrroad there is asking for help in making automaton guards at the Cardian workshop.
-- **7726**: Seeing as the Cardian workshop is rrright next door, you can hardly turn this mission down, can you?
-- **7727**: Accept this mission? [Accept./Decline.]
-- **7728**: Ask the staff at the Cardian workshop for the details.
-- **7729**: The Manustery's Cardian workshop is straight back down that rrroad there, on the right-hand side of the Bomingo Round.
-- **7730**: Rrreally? Too bad, then.
-- **7737**: I'm sure the Minister of the Manustery will fill you in on the details of your mission.
-- **7738**: Cardians come in useful when you're after quantity over quality. Anyway, carry out your mission well--at least it'll help us keep the peace with our neighborhood ministry!
-- **7786**: So, have these missions helped in making you stronger? Perhaps you're about rrready for a mission that involves the Yagudo beastmen.
-- **7787**: On the other side of West Sarutabaruta is a place called Giddeus--the home of the Yagudo.
-- **7788**: You know the Yagudo, don't you? They are the beastmen who for ever so long have rrravaged the grasslands of Sarutabaruta.
-- **7789**: But the current Star Sibyl took it upon herself to try and make amicable rrrelations with the damned enemy...
-- **7790**: As a rrresult, we have to pay tribute to the Yagudo with food offerings as a sign of our friendship. That's the crux of this mission.
-- **7791**: First, you are to go to the Rrrhinostery's biological laboratory in Windurst Waters. The rrresearchers there will provide you with today's food offering for the Yagudo.
-- **7792**: The rrresearchers will tell you what you are to do next.
-- **7793**: This is an important mission issued by Heavens Tower, or more specifically, the Star Sibyl herself. Control your hatred of the beastmen and fulfill this mission as best as you can!
-- **7794**: Grrr... Dammit! How long do we have to go on paying tribute to scavengers who could double-cross us at any time?
-- **7795**: Anyway, you had better head on over to the Rrrhinostery in Windurst Waters, and pick up the food offering that the rrresearchers there have prepared for you to offer at Giddeus.
-- **7803**: So you completed the mission...? Then I shall be rrrecommending you for promotion to rrrank two.
-- **7804**: I suggest you try your hand at conquests now, as you'll need to gain more rrrank points before we can issue you further missions.
-- **7805**: You can gain the rrrank points you need from participating in the rrregional conquests. Ask the War Warlock guard in charge of conquests over there for further information...
-- **7806**: See you around.
-- **7813**: Have you ever been to the Optistery's Library of Magic in Windurst Waters?
-- **7814**: Looks like they're in a spot of trouble there, as they are urgently asking for any able adventurer we have on hand to go help them out.
-- **7815**: How about it, then? If you feel you're up to it, why don't you volunteer to help the Optistery out?
-- **7816**: Accept Mission? [Accept./Decline.]
-- **7817**: Then proceed to the Optistery's Library of Magic immediately. It's on the north side of Windurst Waters--the building that the rrroad to the north gatehouse rrruns through.
-- **7818**: The Library of Magic is northwest of here in Windurst Waters--the area furthest away from Windurst Woods.
-- **7819**: The library lends out books if you're interested in them... Not that I've ever been there myself.
-- **7820**: I hear they have a problem with people taking out books and never rrreturning them. Grrr... Those Tarutaru are such easy game!
-- **7855**: You came at just the rrright time. We just rrreceived a rrrequest for help in a large-scale mission from Heavens Tower, but we're short of adventurers to dispatch just now.
-- **7856**: The secretary of Heavens Tower will explain what this mission entails. Proceed there immediately.
-- **7857**: Heavens Tower is north of here in Windurst Walls. You should have the details explained to you by the secretary there.
-- **7863**: Ah, <Player>! Heavens Tower is hailing you!
-- **7864**: Why, the head Sibyl Guard herself, Semih Lafihna, came asking for you! Seems your activities in all three nations have become your ticket to move up in the world, eh?
-- **7865**: Anyway, you should hurry on over to Heavens Tower. She's as strict on herself as she is on others!
-- **7866**: Semih Lafihna, eh? I don't know why, but I'm just not fond of that girl.
-- **7867**: Anyway, get a move on to Heavens Tower. She's strict on herself and on others!
-- **7874**: This mission has been issued by the head lady-in-waiting of Heavens Tower, Zubaba.
-- **7875**: Not that I know much about her myself, but Zubaba has been serving as head lady-in-waiting since the current Star Sibyl was a child...
-- **7876**: She's not a character you dare keep waiting. I rrrecommend you hurry on over to Heavens Tower. If you fulfill a mission from the head lady-in-waiting well enough, it's bound to improve your rrreputation.
-- **7877**: This mission has been issued by the head lady-in-waiting, Zubaba.
-- **7878**: Seems that they were impressed by your efforts in your previous mission. If you want to keep in their good books, I suggest you rrrush on over to Heavens Tower.
-- **7879**: The head lady-in-waiting, Zubaba, is expecting you at Heavens Tower. Please proceed there immediately!
-- **7880**: If you complete this mission well, it's bound to improve your rrreputation. Do a good job, you hear?
-- **7887**: We have a formal writ of summons from Heavens Tower for you. One with a special star emblem on it signifies it is officially a mission of the utmost importance.
-- **7888**: It rrreads that you, <Player>, are to "make yourself present at the Planetarium of Heavens Tower with precipitate haste." This is supposedly the greatest honor a citizen of Windurst can have.
-- **7889**: For a formal writ of summons to be issued from Heavens Tower means an extremely important announcement will be made.
-- **7890**: This also means you are no longer just a simple adventurer, my friend. Keep your wits about you! We'd like to escort you to your meeting, but alas, we are unable to rrright now.
-- **7897**: You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst.
-- **7898**: The issuance of missions has been halted, pending further notice from Heavens Tower. Please stand by until then.
-- **7899**: You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst.
-- **7900**: The issuance of missions has been halted pending further notice from Heavens Tower. Please stand by until then.
-- **7910**: An emergency mission addressed to you has been issued once again from Heavens Tower.
-- **7911**: You had better hurry to Heavens Tower and rrreceive your exact orders there. Seems as though you shall be traveling to the ends of Vana'diel.
-- **7912**: The ancient rrruins of Fei'Yin...? I thought it was just the subject of fairy tales...
-- **7913**: Have you rrreceived your exact orders yet? If not, then you had better hurry on over to Heavens Tower to rrreceive them. Sounds like you'll be traveling to the ends of Vana'diel.
-- **7914**: The ancient rrruins of Fei'Yin...? I thought it was just the stuff of fairy tales...
-- **7921**: I just rrreceived word that the conference of ministers has ended.
-- **7922**: Together with that announcement came another $3 addressed to you. You had better rrrush on over to Heavens Tower again.
-- **7923**: I've rrreceived word that the conference of ministers has ended.
-- **7924**: Together with that announcement came $6 addressed to you. You had better rrrush to Heavens Tower.
-- **8674**: How about this for a mission? The School of Magic, conducted by the Aurastery, is seeking an able adventurer to help them out.
-- **8675**: However, it seems that this mission will rrrequire several days of hard effort. What do you think? Will you give it a try?
-- **8676**: Accept the mission? [Accept./Decline.]
-- **8677**: The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance.
-- **8678**: The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!
-- **8679**: The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance.
-- **8680**: The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!
-- **9422**: Ajido-Marujido... Minister of the Orastery and head of the Mage Academy. This mission has been issued by him.
-- **9423**: It says here that you should head to the Orastery right away. There's nothing written about the nature of the mission, but...it's a direct order from the ministerrr. You should hurry along.
-- **9424**: ...This is a mission ordered by Ajido-Marujido, head of the Mage Academy. He wants you to head to the Orastery rrright away.
-- **9425**: The mission parameters are strictly confidential... I wonder what he'll ask of you?
-- **9433**: You have been summoned to Heavens Tower by order of the Star Sibyl.
-- **9434**: Could this be rrrelated to the arrest of Minister Ajido-Marujido by the Sibyl Guards? You will probably be interrogated on the details of your previous mission. Make haste to Heavens Tower.
-- **9435**: You have been summoned to Heavens Tower by order of the Star Sibyl.
-- **9436**: ...Ah yes, if you happen to meet with Semih Lafihna, tell her this: No matter what the Star Sibyl says, we Mithra will follow the path of our beliefs.
-- **9443**: Now that the Sibyl Guards are checking all the missions, it really gets my hackles up.
-- **9444**: Well, leaving all that aside, your next mission comes from the Optistery. They are rrrequesting assistance with tidying up the book vault.
-- **9445**: The Optistery must have been happy with your past performance to ask for you by name.
-- **9446**: Go to the Optistery and talk to the minister for the details of your mission.
-- **9447**: ...Oh, it's a little late, but... Congratulations on rrreaching rrrank seven.
-- **9454**: This is a mission issued by the Rrrhinostery.
-- **9455**: The Rrrhinostery wishes your help in a certain matter. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery.
-- **9456**: I have a feeling something bad has happened. I hope you're able to straighten things out for them.
-- **9457**: This mission entails helping out the Rrrhinostery. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery.
-- **9458**: The Sibyl Guards had nothing to say about this mission. Does this mean the Rrrhinostery is considered above suspicion? Or does it mean that something more sinister already has their full attention?
-- **9465**: Before I explain your mission, I wish to congratulate you.
-- **9466**: Well done on rrreaching rrrank eight. There aren't many people who can make it this far.
-- **9467**: Rrright, down to brass tacks. Your next mission is from the Aurastery. You can get the details from the teachers at the School of Magic.
-- **9468**: The School of Magic is another name for the Aurastery. The teachers there will explain your mission objectives.
-- **9469**: Rrrecently, there have been rrrumors of feral Cardians gathering at the magic towers of the Horutoto Ruins. You wouldn't know anything about that, would you?
-- **9478**: This mission has not been officially approved. However, all of the gatehouse guards have agreed to ask you to perform this task.
-- **9479**: Go to the Manustery and assist Minister Apururu. Those are your orders.
-- **9480**: I don't think I need to tell you this, but don't tell anyone about this mission. Be especially careful of that Semih Lafihna. She has a habit of picking up on rrrumors from the most unlikely places.
-- **9481**: Don't make me rrrepeat myself. Head to the Manustery and talk with Minister Apururu. This is your mission.
-- **9482**: Keep your orders to yourself, and be especially careful that Semih Lafihna doesn't get wind of what you're doing.
-- **9576**: Have you heard? Ajido-Marujido has rrregained consciousness.
-- **9577**: Word of these goings-on has yet to rrreach Heavens Tower, so keep up the charade on your way to the Manustery.
-- **9578**: Ajido-Marujido had been in a coma since collapsing in the Dark Dungeon, rrright?
-- **9579**: He would probably be dead by now if no one had gone to save him. What an awful place.
-- **9655**: Do you know what's going on, <Player>? Ajido-Marujido has been pardoned for his crimes, and the guards have escaped any disciplinary action, despite our insubordination...
-- **9656**: Has something happened within Heavens Tower? They've sent us another mission for you.
-- **9657**: According to the mission statement, the Yagudo have proposed a rrrevision to the peace treaty...
-- **9658**: ... I'm well aware I shouldn't be poking my nose where it doesn't belong, but my Mithran instincts are making my tail twitch.
-- **9659**: Heavens Tower has rrrequested your presence. The Yagudo have sent a proposal to the Star Sibyl asking for a rrrevision of the peace treaty.
-- **9660**: The Star Sibyl is more likely to keep the peace, rrrather than object to any of the Yagudo's rrridiculous demands...
-- **9661**: ... Naturally, I have been informed of Semih Lafihna's report to Chieftainness Perih Vashai.
-- **9662**: Let us worry about the Yagudo--You just keep your mind on the task you have been given. Are we clear?
-- **9698**: You have done your utmost for Windurst these many months. As the Captain of the Windurst Woods guards, I formally extend to you our gratitude and friendship.
-- **9699**: If I had my way, you would be permanently stationed in Windurst. However, I know that your adventurer's blood would never allow you to settle down for long.
-- **9700**: Be sure to come back and visit on occasion, though, and bring us tales and aromas of the new lands you pass through on your travels.
+- **6754**: Accept this mission? [Yes./No.]
+- **7661**: This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods.
+- **7662**: If you're after a map of Windurst, then head to the opening back up there. There's a Mithra merchant selling them there.
+- **7673**: You cannot accept more than one mission at a time.
+- **7674**: Please complete your current mission before applying for the next.
+- **7675**: The missions we are currently able to offer you at the eastern gatehouse are as follows...
+- **7676**: Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]
+- **7685**: This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods.
+- **7686**: To expel those who would subvert the law and order of Windurst Woods... To protect the Mithra populace from all manner of threats and dangers... That is the job of us guards.
+- **7687**: But lately, ferocious monsters are on the increase, and the beastmen are rrruining nature as they please, so our job is becoming all the more hectic.
+- **7688**: If you are a citizen of Windurst, then perhaps you may lend us a helping hand from time to time in order to protect the peace of our fair town.
+- **7689**: For instance, you could try to do some missions...special tasks issued on behalf of the Federation of Windurst...
+- **7690**: But first, you might prefer to listen to our explanation of the rrrole of gatehouses before you decide...
+- **7691**: Hear explanation of gatehouses? [Hear! Hear!/Turn a deaf ear.]
+- **7692**: Good, then allow us to explain. Sola Jaab, would you like to do the honors?
+- **7698**: So how about it? If you consider yourself a model citizen of Windurst, I rrrecommend you serve your country by trying your hand at missions.
+- **7699**: The very rrreason that you came to Windurst in the first place was because you wanted to make something out of yourself, wasn't it?
+- **7700**: Receive a mission? [Accept./Decline.]
+- **7701**: Well, I guess there's little more to say than "Maybe next time," eh?
+- **7702**: So you don't need to know about gatehouses, eh? I don't suppose you'll be interested in taking on any missions, then...?
+- **7703**: Well said! That heartfelt rrreply is your first great step towards making Windurst a better place.
+- **7704**: So, without further delay, let's issue you your first mission. Do either of you have just the rrright mission for [him/her]?
+- **7710**: Good. Carry out that mission! The Orastery is the ministry that rrruns a Mage Academy to improve the military's magic abilities.
+- **7711**: To get to the Orastery, you have to go to the port area by heading back west from this gate. Your country is counting on you!
+- **7718**: The details of the mission will be explained when you meet with the Orastery's minister. I can't say he's the most pleasant of people, but at least he has guts.
+- **7719**: Do us proud!
+- **7720**: Good job! Glad to see you made it back alive! I trust the mission wasn't too dangerous.
+- **7721**: Allocating rrrank points according to your efforts...has enabled you to go up to rrrank two! Congratulations!
+- **7726**: You've come just at the rrright time. The Manustery just up the rrroad there is asking for help in making automaton guards at the Cardian workshop.
+- **7727**: Seeing as the Cardian workshop is rrright next door, you can hardly turn this mission down, can you?
+- **7728**: Accept this mission? [Accept./Decline.]
+- **7729**: Ask the staff at the Cardian workshop for the details.
+- **7730**: The Manustery's Cardian workshop is straight back down that rrroad there, on the right-hand side of the Bomingo Round.
+- **7731**: Rrreally? Too bad, then.
+- **7738**: I'm sure the Minister of the Manustery will fill you in on the details of your mission.
+- **7739**: Cardians come in useful when you're after quantity over quality. Anyway, carry out your mission well--at least it'll help us keep the peace with our neighborhood ministry!
+- **7787**: So, have these missions helped in making you stronger? Perhaps you're about rrready for a mission that involves the Yagudo beastmen.
+- **7788**: On the other side of West Sarutabaruta is a place called Giddeus--the home of the Yagudo.
+- **7789**: You know the Yagudo, don't you? They are the beastmen who for ever so long have rrravaged the grasslands of Sarutabaruta.
+- **7790**: But the current Star Sibyl took it upon herself to try and make amicable rrrelations with the damned enemy...
+- **7791**: As a rrresult, we have to pay tribute to the Yagudo with food offerings as a sign of our friendship. That's the crux of this mission.
+- **7792**: First, you are to go to the Rrrhinostery's biological laboratory in Windurst Waters. The rrresearchers there will provide you with today's food offering for the Yagudo.
+- **7793**: The rrresearchers will tell you what you are to do next.
+- **7794**: This is an important mission issued by Heavens Tower, or more specifically, the Star Sibyl herself. Control your hatred of the beastmen and fulfill this mission as best as you can!
+- **7795**: Grrr... Dammit! How long do we have to go on paying tribute to scavengers who could double-cross us at any time?
+- **7796**: Anyway, you had better head on over to the Rrrhinostery in Windurst Waters, and pick up the food offering that the rrresearchers there have prepared for you to offer at Giddeus.
+- **7804**: So you completed the mission...? Then I shall be rrrecommending you for promotion to rrrank two.
+- **7805**: I suggest you try your hand at conquests now, as you'll need to gain more rrrank points before we can issue you further missions.
+- **7806**: You can gain the rrrank points you need from participating in the rrregional conquests. Ask the War Warlock guard in charge of conquests over there for further information...
+- **7807**: See you around.
+- **7814**: Have you ever been to the Optistery's Library of Magic in Windurst Waters?
+- **7815**: Looks like they're in a spot of trouble there, as they are urgently asking for any able adventurer we have on hand to go help them out.
+- **7816**: How about it, then? If you feel you're up to it, why don't you volunteer to help the Optistery out?
+- **7817**: Accept Mission? [Accept./Decline.]
+- **7818**: Then proceed to the Optistery's Library of Magic immediately. It's on the north side of Windurst Waters--the building that the rrroad to the north gatehouse rrruns through.
+- **7819**: The Library of Magic is northwest of here in Windurst Waters--the area furthest away from Windurst Woods.
+- **7820**: The library lends out books if you're interested in them... Not that I've ever been there myself.
+- **7821**: I hear they have a problem with people taking out books and never rrreturning them. Grrr... Those Tarutaru are such easy game!
+- **7856**: You came at just the rrright time. We just rrreceived a rrrequest for help in a large-scale mission from Heavens Tower, but we're short of adventurers to dispatch just now.
+- **7857**: The secretary of Heavens Tower will explain what this mission entails. Proceed there immediately.
+- **7858**: Heavens Tower is north of here in Windurst Walls. You should have the details explained to you by the secretary there.
+- **7864**: Ah, <Player>! Heavens Tower is hailing you!
+- **7865**: Why, the head Sibyl Guard herself, Semih Lafihna, came asking for you! Seems your activities in all three nations have become your ticket to move up in the world, eh?
+- **7866**: Anyway, you should hurry on over to Heavens Tower. She's as strict on herself as she is on others!
+- **7867**: Semih Lafihna, eh? I don't know why, but I'm just not fond of that girl.
+- **7868**: Anyway, get a move on to Heavens Tower. She's strict on herself and on others!
+- **7875**: This mission has been issued by the head lady-in-waiting of Heavens Tower, Zubaba.
+- **7876**: Not that I know much about her myself, but Zubaba has been serving as head lady-in-waiting since the current Star Sibyl was a child...
+- **7877**: She's not a character you dare keep waiting. I rrrecommend you hurry on over to Heavens Tower. If you fulfill a mission from the head lady-in-waiting well enough, it's bound to improve your rrreputation.
+- **7878**: This mission has been issued by the head lady-in-waiting, Zubaba.
+- **7879**: Seems that they were impressed by your efforts in your previous mission. If you want to keep in their good books, I suggest you rrrush on over to Heavens Tower.
+- **7880**: The head lady-in-waiting, Zubaba, is expecting you at Heavens Tower. Please proceed there immediately!
+- **7881**: If you complete this mission well, it's bound to improve your rrreputation. Do a good job, you hear?
+- **7888**: We have a formal writ of summons from Heavens Tower for you. One with a special star emblem on it signifies it is officially a mission of the utmost importance.
+- **7889**: It rrreads that you, <Player>, are to "make yourself present at the Planetarium of Heavens Tower with precipitate haste." This is supposedly the greatest honor a citizen of Windurst can have.
+- **7890**: For a formal writ of summons to be issued from Heavens Tower means an extremely important announcement will be made.
+- **7891**: This also means you are no longer just a simple adventurer, my friend. Keep your wits about you! We'd like to escort you to your meeting, but alas, we are unable to rrright now.
+- **7898**: You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst.
+- **7899**: The issuance of missions has been halted, pending further notice from Heavens Tower. Please stand by until then.
+- **7900**: You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst.
+- **7901**: The issuance of missions has been halted pending further notice from Heavens Tower. Please stand by until then.
+- **7911**: An emergency mission addressed to you has been issued once again from Heavens Tower.
+- **7912**: You had better hurry to Heavens Tower and rrreceive your exact orders there. Seems as though you shall be traveling to the ends of Vana'diel.
+- **7913**: The ancient rrruins of Fei'Yin...? I thought it was just the subject of fairy tales...
+- **7914**: Have you rrreceived your exact orders yet? If not, then you had better hurry on over to Heavens Tower to rrreceive them. Sounds like you'll be traveling to the ends of Vana'diel.
+- **7915**: The ancient rrruins of Fei'Yin...? I thought it was just the stuff of fairy tales...
+- **7922**: I just rrreceived word that the conference of ministers has ended.
+- **7923**: Together with that announcement came another $3 addressed to you. You had better rrrush on over to Heavens Tower again.
+- **7924**: I've rrreceived word that the conference of ministers has ended.
+- **7925**: Together with that announcement came $6 addressed to you. You had better rrrush to Heavens Tower.
+- **8675**: How about this for a mission? The School of Magic, conducted by the Aurastery, is seeking an able adventurer to help them out.
+- **8676**: However, it seems that this mission will rrrequire several days of hard effort. What do you think? Will you give it a try?
+- **8677**: Accept the mission? [Accept./Decline.]
+- **8678**: The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance.
+- **8679**: The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!
+- **8680**: The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance.
+- **8681**: The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!
+- **9423**: Ajido-Marujido... Minister of the Orastery and head of the Mage Academy. This mission has been issued by him.
+- **9424**: It says here that you should head to the Orastery right away. There's nothing written about the nature of the mission, but...it's a direct order from the ministerrr. You should hurry along.
+- **9425**: ...This is a mission ordered by Ajido-Marujido, head of the Mage Academy. He wants you to head to the Orastery rrright away.
+- **9426**: The mission parameters are strictly confidential... I wonder what he'll ask of you?
+- **9434**: You have been summoned to Heavens Tower by order of the Star Sibyl.
+- **9435**: Could this be rrrelated to the arrest of Minister Ajido-Marujido by the Sibyl Guards? You will probably be interrogated on the details of your previous mission. Make haste to Heavens Tower.
+- **9436**: You have been summoned to Heavens Tower by order of the Star Sibyl.
+- **9437**: ...Ah yes, if you happen to meet with Semih Lafihna, tell her this: No matter what the Star Sibyl says, we Mithra will follow the path of our beliefs.
+- **9444**: Now that the Sibyl Guards are checking all the missions, it really gets my hackles up.
+- **9445**: Well, leaving all that aside, your next mission comes from the Optistery. They are rrrequesting assistance with tidying up the book vault.
+- **9446**: The Optistery must have been happy with your past performance to ask for you by name.
+- **9447**: Go to the Optistery and talk to the minister for the details of your mission.
+- **9448**: ...Oh, it's a little late, but... Congratulations on rrreaching rrrank seven.
+- **9455**: This is a mission issued by the Rrrhinostery.
+- **9456**: The Rrrhinostery wishes your help in a certain matter. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery.
+- **9457**: I have a feeling something bad has happened. I hope you're able to straighten things out for them.
+- **9458**: This mission entails helping out the Rrrhinostery. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery.
+- **9459**: The Sibyl Guards had nothing to say about this mission. Does this mean the Rrrhinostery is considered above suspicion? Or does it mean that something more sinister already has their full attention?
+- **9466**: Before I explain your mission, I wish to congratulate you.
+- **9467**: Well done on rrreaching rrrank eight. There aren't many people who can make it this far.
+- **9468**: Rrright, down to brass tacks. Your next mission is from the Aurastery. You can get the details from the teachers at the School of Magic.
+- **9469**: The School of Magic is another name for the Aurastery. The teachers there will explain your mission objectives.
+- **9470**: Rrrecently, there have been rrrumors of feral Cardians gathering at the magic towers of the Horutoto Ruins. You wouldn't know anything about that, would you?
+- **9479**: This mission has not been officially approved. However, all of the gatehouse guards have agreed to ask you to perform this task.
+- **9480**: Go to the Manustery and assist Minister Apururu. Those are your orders.
+- **9481**: I don't think I need to tell you this, but don't tell anyone about this mission. Be especially careful of that Semih Lafihna. She has a habit of picking up on rrrumors from the most unlikely places.
+- **9482**: Don't make me rrrepeat myself. Head to the Manustery and talk with Minister Apururu. This is your mission.
+- **9483**: Keep your orders to yourself, and be especially careful that Semih Lafihna doesn't get wind of what you're doing.
+- **9577**: Have you heard? Ajido-Marujido has rrregained consciousness.
+- **9578**: Word of these goings-on has yet to rrreach Heavens Tower, so keep up the charade on your way to the Manustery.
+- **9579**: Ajido-Marujido had been in a coma since collapsing in the Dark Dungeon, rrright?
+- **9580**: He would probably be dead by now if no one had gone to save him. What an awful place.
+- **9656**: Do you know what's going on, <Player>? Ajido-Marujido has been pardoned for his crimes, and the guards have escaped any disciplinary action, despite our insubordination...
+- **9657**: Has something happened within Heavens Tower? They've sent us another mission for you.
+- **9658**: According to the mission statement, the Yagudo have proposed a rrrevision to the peace treaty...
+- **9659**: ... I'm well aware I shouldn't be poking my nose where it doesn't belong, but my Mithran instincts are making my tail twitch.
+- **9660**: Heavens Tower has rrrequested your presence. The Yagudo have sent a proposal to the Star Sibyl asking for a rrrevision of the peace treaty.
+- **9661**: The Star Sibyl is more likely to keep the peace, rrrather than object to any of the Yagudo's rrridiculous demands...
+- **9662**: ... Naturally, I have been informed of Semih Lafihna's report to Chieftainness Perih Vashai.
+- **9663**: Let us worry about the Yagudo--You just keep your mind on the task you have been given. Are we clear?
+- **9699**: You have done your utmost for Windurst these many months. As the Captain of the Windurst Woods guards, I formally extend to you our gratitude and friendship.
+- **9700**: If I had my way, you would be permanently stationed in Windurst. However, I know that your adventurer's blood would never allow you to settle down for long.
+- **9701**: Be sure to come back and visit on occasion, though, and bring us tales and aromas of the new lands you pass through on your travels.
 
 ## Events
 
@@ -1032,10 +1032,10 @@
   1: 0x019B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x019D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+  4: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "You cannot accept more than one mission at a time."
   5: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+  6: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "Please complete your current mission before applying for the next."
   7: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1069,7 +1069,7 @@
   1: 0x01BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+  4: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "The missions we are currently able to offer you at the eastern gatehouse are as follows..."
   5: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1103,10 +1103,10 @@
   1: 0x01D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7660*)
+  4: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
     → "This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods."
   5: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7661*)
+  6: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7662*)
     → "If you're after a map of Windurst, then head to the opening back up there. There's a Mithra merchant selling them there."
   7: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -1171,10 +1171,10 @@
   1: 0x01FC [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0201 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0202 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+  4: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "The missions we are currently able to offer you at the eastern gatehouse are as follows..."
   5: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0207 [0x24] CREATE_DIALOG(message_id=7675*, default_option=31*, option_flags=Work_Zone[2])
+  6: 0x0207 [0x24] CREATE_DIALOG(message_id=7676*, default_option=31*, option_flags=Work_Zone[2])
     → "Which mission will you accept? [The Horutoto Ruins Experiment./The Heart of the Matter./The Price of Peace./Lost for Words./A Testing Time./The Three Kingdoms./Mission 2-3-1A./Mission 2-3-1B./Mission 2-3-2A./Mission 2-3-2B./To Each His Own Right./Written in the Stars./A New Journey./Magicite./The Final Seal./The Shadow Awaits./Full Moon Fountain./Saintly Invitation./The Sixth Ministry./Awakening of the Gods./Vain./The Jester Who'd Be King./Doll of the Dead./Moon Reading./Dummy11./Dummy12./Dummy13./Dummy14./Dummy15./Dummy16./Dummy17./Decline mission.]"
   7: 0x020E [0x25] WAIT_DIALOG_SELECT()
   8: 0x020F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0228
@@ -1258,7 +1258,7 @@ SUBROUTINE_02CD:
 SUBROUTINE_03E3:
  83: 0x03E3 [0x03] Work_Zone[1] = Work_Zone[0]
  84: 0x03E8 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x040C
- 85: 0x03F0 [0x24] CREATE_DIALOG(message_id=6753*, default_option=0*, option_flags=0*)
+ 85: 0x03F0 [0x24] CREATE_DIALOG(message_id=6754*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
  86: 0x03F7 [0x25] WAIT_DIALOG_SELECT()
  87: 0x03F8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x040C
@@ -1303,7 +1303,7 @@ SUBROUTINE_040C:
 ```
   0: 0x0410 [0x03] Work_Zone[1] = Work_Zone[0]
   1: 0x0415 [0x02] IF !(Work_Zone[1] == 31*) GOTO 0x0439
-  2: 0x041D [0x24] CREATE_DIALOG(message_id=6753*, default_option=0*, option_flags=0*)
+  2: 0x041D [0x24] CREATE_DIALOG(message_id=6754*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Yes./No.]"
   3: 0x0424 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0425 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0439
@@ -1422,7 +1422,7 @@ SUBROUTINE_0439:
  18: 0x04CF [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  19: 0x04D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  20: 0x04E6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x25)
- 21: 0x04ED [0x24] CREATE_DIALOG(message_id=7690*, default_option=0*, option_flags=0*)
+ 21: 0x04ED [0x24] CREATE_DIALOG(message_id=7691*, default_option=0*, option_flags=0*)
     → "Hear explanation of gatehouses? [Hear! Hear!/Turn a deaf ear.]"
  22: 0x04F4 [0x25] WAIT_DIALOG_SELECT()
  23: 0x04F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0507
@@ -1503,7 +1503,7 @@ SUBROUTINE_0519:
   3: 0x056F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0570 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0571 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x26)
-  6: 0x0578 [0x24] CREATE_DIALOG(message_id=7699*, default_option=0*, option_flags=0*)
+  6: 0x0578 [0x24] CREATE_DIALOG(message_id=7700*, default_option=0*, option_flags=0*)
     → "Receive a mission? [Accept./Decline.]"
   7: 0x057F [0x25] WAIT_DIALOG_SELECT()
   8: 0x0580 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0592
@@ -1593,7 +1593,7 @@ SUBROUTINE_069E:
  30: 0x06A8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  31: 0x06AD [0x4A] LocalPlayer looks at Rakoh Buuma (ID: 17764368/0x010F1010)
  32: 0x06B6 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x28)
- 33: 0x06BD [0x24] CREATE_DIALOG(message_id=7699*, default_option=0*, option_flags=0*)
+ 33: 0x06BD [0x24] CREATE_DIALOG(message_id=7700*, default_option=0*, option_flags=0*)
     → "Receive a mission? [Accept./Decline.]"
  34: 0x06C4 [0x25] WAIT_DIALOG_SELECT()
  35: 0x06C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06D7
@@ -1702,10 +1702,10 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x07FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=7684*)
+  1: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
     → "This is the eastern gatehouse--a gathering place for the guards who do the rrrounds of Windurst Woods."
   2: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7685*)
+  3: 0x0806 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
     → "To expel those who would subvert the law and order of Windurst Woods... To protect the Mithra populace from all manner of threats and dangers... That is the job of us guards."
   4: 0x0809 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x080A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1731,10 +1731,10 @@ SUBROUTINE_06FF:
 #### Opcodes
 
 ```
-  0: 0x0812 [0x1D] PRINT_EVENT_MESSAGE(message_id=7686*)
+  0: 0x0812 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
     → "But lately, ferocious monsters are on the increase, and the beastmen are rrruining nature as they please, so our job is becoming all the more hectic."
   1: 0x0815 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0816 [0x1D] PRINT_EVENT_MESSAGE(message_id=7687*)
+  2: 0x0816 [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
     → "If you are a citizen of Windurst, then perhaps you may lend us a helping hand from time to time in order to protect the peace of our fair town."
   3: 0x0819 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x081A [0x00] END_REQSTACK()
@@ -1762,10 +1762,10 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x081B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x03)
-  1: 0x0822 [0x1D] PRINT_EVENT_MESSAGE(message_id=7688*)
+  1: 0x0822 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
     → "For instance, you could try to do some missions...special tasks issued on behalf of the Federation of Windurst..."
   2: 0x0825 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0826 [0x1D] PRINT_EVENT_MESSAGE(message_id=7689*)
+  3: 0x0826 [0x1D] PRINT_EVENT_MESSAGE(message_id=7690*)
     → "But first, you might prefer to listen to our explanation of the rrrole of gatehouses before you decide..."
   4: 0x0829 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x082A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x04)
@@ -1795,7 +1795,7 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x0840 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
+  1: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
     → "So you don't need to know about gatehouses, eh? I don't suppose you'll be interested in taking on any missions, then...?"
   2: 0x084A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x084B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1823,7 +1823,7 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x0853 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x085A [0x1D] PRINT_EVENT_MESSAGE(message_id=7691*)
+  1: 0x085A [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
     → "Good, then allow us to explain. Sola Jaab, would you like to do the honors?"
   2: 0x085D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x085E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1851,10 +1851,10 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x0866 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x086D [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
+  1: 0x086D [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
     → "So how about it? If you consider yourself a model citizen of Windurst, I rrrecommend you serve your country by trying your hand at missions."
   2: 0x0870 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
+  3: 0x0871 [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
     → "The very rrreason that you came to Windurst in the first place was because you wanted to make something out of yourself, wasn't it?"
   4: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0875 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1883,7 +1883,7 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x087D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x03)
-  1: 0x0884 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
+  1: 0x0884 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "Well, I guess there's little more to say than "Maybe next time," eh?"
   2: 0x0887 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0888 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x04)
@@ -1914,10 +1914,10 @@ SUBROUTINE_06FF:
 
 ```
   0: 0x089E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x08A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  1: 0x08A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "Well said! That heartfelt rrreply is your first great step towards making Windurst a better place."
   2: 0x08A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x08A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  3: 0x08A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
     → "So, without further delay, let's issue you your first mission. Do either of you have just the rrright mission for [him/her]?"
   4: 0x08AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x08AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -1943,10 +1943,10 @@ SUBROUTINE_06FF:
 #### Opcodes
 
 ```
-  0: 0x08B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
+  0: 0x08B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
     → "Good. Carry out that mission! The Orastery is the ministry that rrruns a Mage Academy to improve the military's magic abilities."
   1: 0x08B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x08B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
+  2: 0x08B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7711*)
     → "To get to the Orastery, you have to go to the port area by heading back west from this gate. Your country is counting on you!"
   3: 0x08BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x08BD [0x00] END_REQSTACK()
@@ -1977,10 +1977,10 @@ SUBROUTINE_06FF:
   1: 0x08C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08C4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x08CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7717*)
+  4: 0x08CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
     → "The details of the mission will be explained when you meet with the Orastery's minister. I can't say he's the most pleasant of people, but at least he has guts."
   5: 0x08CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7718*)
+  6: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7719*)
     → "Do us proud!"
   7: 0x08D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x08D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -2014,10 +2014,10 @@ SUBROUTINE_06FF:
   1: 0x08E4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x08E5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x08E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x08ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7719*)
+  4: 0x08ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7720*)
     → "Good job! Glad to see you made it back alive! I trust the mission wasn't too dangerous."
   5: 0x08F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x08F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7720*)
+  6: 0x08F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
     → "Allocating rrrank points according to your efforts...has enabled you to go up to rrrank two! Congratulations!"
   7: 0x08F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x08F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -2068,7 +2068,7 @@ SUBROUTINE_06FF:
  10: 0x0942 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x0947 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x0958 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x2F)
- 13: 0x095F [0x24] CREATE_DIALOG(message_id=7727*, default_option=0*, option_flags=0*)
+ 13: 0x095F [0x24] CREATE_DIALOG(message_id=7728*, default_option=0*, option_flags=0*)
     → "Accept this mission? [Accept./Decline.]"
  14: 0x0966 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0967 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0985
@@ -2109,10 +2109,10 @@ SUBROUTINE_099C:
 
 ```
   0: 0x09A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x09AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7725*)
+  1: 0x09AE [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
     → "You've come just at the rrright time. The Manustery just up the rrroad there is asking for help in making automaton guards at the Cardian workshop."
   2: 0x09B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x09B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
+  3: 0x09B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7727*)
     → "Seeing as the Cardian workshop is rrright next door, you can hardly turn this mission down, can you?"
   4: 0x09B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x09B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2141,11 +2141,11 @@ SUBROUTINE_099C:
 #### Opcodes
 
 ```
-  0: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7728*)
+  0: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
     → "Ask the staff at the Cardian workshop for the details."
   1: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x11)
-  3: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  3: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "The Manustery's Cardian workshop is straight back down that rrroad there, on the right-hand side of the Bomingo Round."
   4: 0x09CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x09CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x12)
@@ -2173,7 +2173,7 @@ SUBROUTINE_099C:
 #### Opcodes
 
 ```
-  0: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
+  0: 0x09E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7731*)
     → "Rrreally? Too bad, then."
   1: 0x09E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09E7 [0x00] END_REQSTACK()
@@ -2204,10 +2204,10 @@ SUBROUTINE_099C:
   1: 0x09ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x09F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
+  4: 0x09F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
     → "I'm sure the Minister of the Manustery will fill you in on the details of your mission."
   5: 0x09F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x09FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7738*)
+  6: 0x09FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7739*)
     → "Cardians come in useful when you're after quantity over quality. Anyway, carry out your mission well--at least it'll help us keep the peace with our neighborhood ministry!"
   7: 0x09FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -2303,7 +2303,7 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0AE9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7786*)
+  1: 0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
     → "So, have these missions helped in making you stronger? Perhaps you're about rrready for a mission that involves the Yagudo beastmen."
   2: 0x0AF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0AF4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2332,10 +2332,10 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0AFC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0B03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+  1: 0x0B03 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "On the other side of West Sarutabaruta is a place called Giddeus--the home of the Yagudo."
   2: 0x0B06 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B07 [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
+  3: 0x0B07 [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
     → "You know the Yagudo, don't you? They are the beastmen who for ever so long have rrravaged the grasslands of Sarutabaruta."
   4: 0x0B0A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B0B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2363,10 +2363,10 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0B13 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0B1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7789*)
+  1: 0x0B1A [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
     → "But the current Star Sibyl took it upon herself to try and make amicable rrrelations with the damned enemy..."
   2: 0x0B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7790*)
+  3: 0x0B1E [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
     → "As a rrresult, we have to pay tribute to the Yagudo with food offerings as a sign of our friendship. That's the crux of this mission."
   4: 0x0B21 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2395,10 +2395,10 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0B2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+  1: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "First, you are to go to the Rrrhinostery's biological laboratory in Windurst Waters. The rrresearchers there will provide you with today's food offering for the Yagudo."
   2: 0x0B34 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
+  3: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
     → "The rrresearchers will tell you what you are to do next."
   4: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0B39 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2427,7 +2427,7 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0B41 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  1: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7793*)
+  1: 0x0B48 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
     → "This is an important mission issued by Heavens Tower, or more specifically, the Star Sibyl herself. Control your hatred of the beastmen and fulfill this mission as best as you can!"
   2: 0x0B4B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0B4C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
@@ -2462,12 +2462,12 @@ SUBROUTINE_099C:
   1: 0x0B67 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B68 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B69 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  4: 0x0B70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7794*)
+  4: 0x0B70 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
     → "Grrr... Dammit! How long do we have to go on paying tribute to scavengers who could double-cross us at any time?"
   5: 0x0B73 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
   7: 0x0B7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
-  8: 0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+  8: 0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "Anyway, you had better head on over to the Rrrhinostery in Windurst Waters, and pick up the food offering that the rrresearchers there have prepared for you to offer at Giddeus."
   9: 0x0B85 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B86 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -2528,17 +2528,17 @@ SUBROUTINE_099C:
  14: 0x0BDF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  15: 0x0BF0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x3B)
  16: 0x0BF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
- 17: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+ 17: 0x0C08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "I suggest you try your hand at conquests now, as you'll need to gain more rrrank points before we can issue you further missions."
  18: 0x0C0B [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0C0C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 20: 0x0C13 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
+ 20: 0x0C13 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
     → "You can gain the rrrank points you need from participating in the rrregional conquests. Ask the War Warlock guard in charge of conquests over there for further information..."
  21: 0x0C16 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0C17 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  23: 0x0C1E [0x4E] SET_ENTITY_HIDE_FLAG: Hide LocalPlayer
  24: 0x0C24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
- 25: 0x0C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=7806*)
+ 25: 0x0C35 [0x1D] PRINT_EVENT_MESSAGE(message_id=7807*)
     → "See you around."
  26: 0x0C38 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0C39 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2576,7 +2576,7 @@ SUBROUTINE_099C:
 
 ```
   0: 0x0C94 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0C9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7803*)
+  1: 0x0C9B [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
     → "So you completed the mission...? Then I shall be rrrecommending you for promotion to rrrank two."
   2: 0x0C9E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0C9F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2608,7 +2608,7 @@ SUBROUTINE_099C:
   1: 0x0CAC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0CAD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0CAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x0CB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7804*)
+  4: 0x0CB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7805*)
     → "I suggest you try your hand at conquests now, as you'll need to gain more rrrank points before we can issue you further missions."
   5: 0x0CB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0CB9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -2660,7 +2660,7 @@ SUBROUTINE_099C:
  10: 0x0D06 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x0D0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x0D1C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x3E)
- 13: 0x0D23 [0x24] CREATE_DIALOG(message_id=7816*, default_option=0*, option_flags=0*)
+ 13: 0x0D23 [0x24] CREATE_DIALOG(message_id=7817*, default_option=0*, option_flags=0*)
     → "Accept Mission? [Accept./Decline.]"
  14: 0x0D2A [0x25] WAIT_DIALOG_SELECT()
  15: 0x0D2B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D59
@@ -2702,16 +2702,16 @@ SUBROUTINE_0D69:
 
 ```
   0: 0x0D74 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+  1: 0x0D7B [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "Have you ever been to the Optistery's Library of Magic in Windurst Waters?"
   2: 0x0D7E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0D7F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   4: 0x0D86 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  5: 0x0D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
+  5: 0x0D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
     → "Looks like they're in a spot of trouble there, as they are urgently asking for any able adventurer we have on hand to go help them out."
   6: 0x0D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0D91 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
-  8: 0x0D98 [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
+  8: 0x0D98 [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
     → "How about it, then? If you feel you're up to it, why don't you volunteer to help the Optistery out?"
   9: 0x0D9B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0D9C [0x00] END_REQSTACK()
@@ -2738,7 +2738,7 @@ SUBROUTINE_0D69:
 
 ```
   0: 0x0D9D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0DA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+  1: 0x0DA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "Then proceed to the Optistery's Library of Magic immediately. It's on the north side of Windurst Waters--the building that the rrroad to the north gatehouse rrruns through."
   2: 0x0DA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0DA8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2772,17 +2772,17 @@ SUBROUTINE_0D69:
   1: 0x0DB5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0DB6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0DB7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x0DBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
+  4: 0x0DBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
     → "The Library of Magic is northwest of here in Windurst Waters--the area furthest away from Windurst Woods."
   5: 0x0DC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0DC2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
   7: 0x0DC9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  8: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7819*)
+  8: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
     → "The library lends out books if you're interested in them... Not that I've ever been there myself."
   9: 0x0DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0DD4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
  11: 0x0DDB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
- 12: 0x0DE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7820*)
+ 12: 0x0DE2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
     → "I hear they have a problem with people taking out books and never rrreturning them. Grrr... Those Tarutaru are such easy game!"
  13: 0x0DE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0DE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2834,7 +2834,7 @@ SUBROUTINE_0D69:
  10: 0x0E33 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x0E38 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x0E49 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x42)
- 13: 0x0E50 [0x24] CREATE_DIALOG(message_id=8676*, default_option=0*, option_flags=0*)
+ 13: 0x0E50 [0x24] CREATE_DIALOG(message_id=8677*, default_option=0*, option_flags=0*)
     → "Accept the mission? [Accept./Decline.]"
  14: 0x0E57 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0E58 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E95
@@ -2876,10 +2876,10 @@ SUBROUTINE_0EA5:
 
 ```
   0: 0x0EB0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0EB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8674*)
+  1: 0x0EB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8675*)
     → "How about this for a mission? The School of Magic, conducted by the Aurastery, is seeking an able adventurer to help them out."
   2: 0x0EBA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=8675*)
+  3: 0x0EBB [0x1D] PRINT_EVENT_MESSAGE(message_id=8676*)
     → "However, it seems that this mission will rrrequire several days of hard effort. What do you think? Will you give it a try?"
   4: 0x0EBE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0EBF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2907,10 +2907,10 @@ SUBROUTINE_0EA5:
 
 ```
   0: 0x0EC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0ECE [0x1D] PRINT_EVENT_MESSAGE(message_id=8677*)
+  1: 0x0ECE [0x1D] PRINT_EVENT_MESSAGE(message_id=8678*)
     → "The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance."
   2: 0x0ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0ED2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8678*)
+  3: 0x0ED2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8679*)
     → "The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!"
   4: 0x0ED5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0ED6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -2942,10 +2942,10 @@ SUBROUTINE_0EA5:
   1: 0x0EE3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0EE4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0EE5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x0EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=8679*)
+  4: 0x0EEC [0x1D] PRINT_EVENT_MESSAGE(message_id=8680*)
     → "The Aurastery's School of Magic is on the eastern side of Windurst Waters. Just head north from Windurst Waters's rrresidential area entrance."
   5: 0x0EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8680*)
+  6: 0x0EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8681*)
     → "The school is full of children striving to become tomorrow's politicians and scholars. Putting up with them is a greater test of endurance than any mission I can issue you!"
   7: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0EF4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3023,7 +3023,7 @@ SUBROUTINE_0EA5:
 
 ```
   0: 0x0F75 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x0F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
+  1: 0x0F7C [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
     → "You came at just the rrright time. We just rrreceived a rrrequest for help in a large-scale mission from Heavens Tower, but we're short of adventurers to dispatch just now."
   2: 0x0F7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0F80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3052,7 +3052,7 @@ SUBROUTINE_0EA5:
 
 ```
   0: 0x0F88 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x11)
-  1: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7856*)
+  1: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
     → "The secretary of Heavens Tower will explain what this mission entails. Proceed there immediately."
   2: 0x0F92 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0F93 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x12)
@@ -3086,7 +3086,7 @@ SUBROUTINE_0EA5:
   1: 0x0FAE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0FAF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0FB0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7857*)
+  4: 0x0FB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
     → "Heavens Tower is north of here in Windurst Walls. You should have the details explained to you by the secretary there."
   5: 0x0FBA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0FBB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3164,17 +3164,17 @@ SUBROUTINE_0EA5:
 
 ```
   0: 0x1035 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  1: 0x103C [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+  1: 0x103C [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "Ah, <Player>! Heavens Tower is hailing you!"
   2: 0x103F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1040 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   4: 0x1047 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  5: 0x104E [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  5: 0x104E [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "Why, the head Sibyl Guard herself, Semih Lafihna, came asking for you! Seems your activities in all three nations have become your ticket to move up in the world, eh?"
   6: 0x1051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1052 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   8: 0x1059 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0F)
-  9: 0x1060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+  9: 0x1060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Anyway, you should hurry on over to Heavens Tower. She's as strict on herself as she is on others!"
  10: 0x1063 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1064 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x10)
@@ -3206,10 +3206,10 @@ SUBROUTINE_0EA5:
   1: 0x1071 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1072 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x107A [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
+  4: 0x107A [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
     → "Semih Lafihna, eh? I don't know why, but I'm just not fond of that girl."
   5: 0x107D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x107E [0x1D] PRINT_EVENT_MESSAGE(message_id=7867*)
+  6: 0x107E [0x1D] PRINT_EVENT_MESSAGE(message_id=7868*)
     → "Anyway, get a move on to Heavens Tower. She's strict on herself and on others!"
   7: 0x1081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1082 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3258,13 +3258,13 @@ SUBROUTINE_0EA5:
  10: 0x10CF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x10D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x10E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 13: 0x10EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7874*)
+ 13: 0x10EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
     → "This mission has been issued by the head lady-in-waiting of Heavens Tower, Zubaba."
  14: 0x10EF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x10F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7875*)
+ 15: 0x10F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
     → "Not that I know much about her myself, but Zubaba has been serving as head lady-in-waiting since the current Star Sibyl was a child..."
  16: 0x10F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x10F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7876*)
+ 17: 0x10F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
     → "She's not a character you dare keep waiting. I rrrecommend you hurry on over to Heavens Tower. If you fulfill a mission from the head lady-in-waiting well enough, it's bound to improve your rrreputation."
  18: 0x10F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x10F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3300,10 +3300,10 @@ SUBROUTINE_0EA5:
   1: 0x1114 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1115 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1116 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
+  4: 0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
     → "The head lady-in-waiting, Zubaba, is expecting you at Heavens Tower. Please proceed there immediately!"
   5: 0x1120 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7880*)
+  6: 0x1121 [0x1D] PRINT_EVENT_MESSAGE(message_id=7881*)
     → "If you complete this mission well, it's bound to improve your rrreputation. Do a good job, you hear?"
   7: 0x1124 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1125 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3355,10 +3355,10 @@ SUBROUTINE_0EA5:
  13: 0x118D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  14: 0x118E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  15: 0x118F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 16: 0x1196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7877*)
+ 16: 0x1196 [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
     → "This mission has been issued by the head lady-in-waiting, Zubaba."
  17: 0x1199 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x119A [0x1D] PRINT_EVENT_MESSAGE(message_id=7878*)
+ 18: 0x119A [0x1D] PRINT_EVENT_MESSAGE(message_id=7879*)
     → "Seems that they were impressed by your efforts in your previous mission. If you want to keep in their good books, I suggest you rrrush on over to Heavens Tower."
  19: 0x119D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x119E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3410,12 +3410,12 @@ SUBROUTINE_0EA5:
  10: 0x11F7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x11FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x120D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 13: 0x1214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7887*)
+ 13: 0x1214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
     → "We have a formal writ of summons from Heavens Tower for you. One with a special star emblem on it signifies it is officially a mission of the utmost importance."
  14: 0x1217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1218 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  16: 0x121F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 17: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7888*)
+ 17: 0x1226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
     → "It rrreads that you, <Player>, are to "make yourself present at the Planetarium of Heavens Tower with precipitate haste." This is supposedly the greatest honor a citizen of Windurst can have."
  18: 0x1229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x122A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3451,10 +3451,10 @@ SUBROUTINE_0EA5:
   1: 0x1246 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1247 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1248 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x124F [0x1D] PRINT_EVENT_MESSAGE(message_id=7889*)
+  4: 0x124F [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
     → "For a formal writ of summons to be issued from Heavens Tower means an extremely important announcement will be made."
   5: 0x1252 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7890*)
+  6: 0x1253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7891*)
     → "This also means you are no longer just a simple adventurer, my friend. Keep your wits about you! We'd like to escort you to your meeting, but alas, we are unable to rrright now."
   7: 0x1256 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1257 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3488,10 +3488,10 @@ SUBROUTINE_0EA5:
   1: 0x1267 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1268 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1269 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1270 [0x1D] PRINT_EVENT_MESSAGE(message_id=7897*)
+  4: 0x1270 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
     → "You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst."
   5: 0x1273 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1274 [0x1D] PRINT_EVENT_MESSAGE(message_id=7898*)
+  6: 0x1274 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
     → "The issuance of missions has been halted, pending further notice from Heavens Tower. Please stand by until then."
   7: 0x1277 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3525,10 +3525,10 @@ SUBROUTINE_0EA5:
   1: 0x1288 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1289 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x128A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7899*)
+  4: 0x1291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
     → "You haven't heard? An emergency order has been issued to the guards and a select few adventurers deemed most loyal to Windurst."
   5: 0x1294 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+  6: 0x1295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "The issuance of missions has been halted pending further notice from Heavens Tower. Please stand by until then."
   7: 0x1298 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1299 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3580,17 +3580,17 @@ SUBROUTINE_0EA5:
  10: 0x12E6 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x12EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x12FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0F)
- 13: 0x1303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+ 13: 0x1303 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "An emergency mission addressed to you has been issued once again from Heavens Tower."
  14: 0x1306 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1307 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x10)
  16: 0x130E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  17: 0x131F [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
  18: 0x1325 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 19: 0x132C [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+ 19: 0x132C [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "You had better hurry to Heavens Tower and rrreceive your exact orders there. Seems as though you shall be traveling to the ends of Vana'diel."
  20: 0x132F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+ 21: 0x1330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "The ancient rrruins of Fei'Yin...? I thought it was just the subject of fairy tales..."
  22: 0x1333 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x1334 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3627,10 +3627,10 @@ SUBROUTINE_0EA5:
   1: 0x135F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1360 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1361 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  4: 0x1368 [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Have you rrreceived your exact orders yet? If not, then you had better hurry on over to Heavens Tower to rrreceive them. Sounds like you'll be traveling to the ends of Vana'diel."
   5: 0x136B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x136C [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+  6: 0x136C [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "The ancient rrruins of Fei'Yin...? I thought it was just the stuff of fairy tales..."
   7: 0x136F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1370 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3681,10 +3681,10 @@ SUBROUTINE_0EA5:
  12: 0x13D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x13D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x13D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 15: 0x13DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7921*)
+ 15: 0x13DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
     → "I just rrreceived word that the conference of ministers has ended."
  16: 0x13DE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x13DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7922*)
+ 17: 0x13DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
     → "Together with that announcement came another $3 addressed to you. You had better rrrush on over to Heavens Tower again."
  18: 0x13E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x13E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3720,10 +3720,10 @@ SUBROUTINE_0EA5:
   1: 0x13FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1400 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7923*)
+  4: 0x1408 [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
     → "I've rrreceived word that the conference of ministers has ended."
   5: 0x140B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x140C [0x1D] PRINT_EVENT_MESSAGE(message_id=7924*)
+  6: 0x140C [0x1D] PRINT_EVENT_MESSAGE(message_id=7925*)
     → "Together with that announcement came $6 addressed to you. You had better rrrush to Heavens Tower."
   7: 0x140F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
@@ -3779,7 +3779,7 @@ SUBROUTINE_0EA5:
  10: 0x1464 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x1465 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  12: 0x146A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 13: 0x147B [0x1D] PRINT_EVENT_MESSAGE(message_id=9422*)
+ 13: 0x147B [0x1D] PRINT_EVENT_MESSAGE(message_id=9423*)
     → "Ajido-Marujido... Minister of the Orastery and head of the Mage Academy. This mission has been issued by him."
  14: 0x147E [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x147F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
@@ -3787,7 +3787,7 @@ SUBROUTINE_0EA5:
  17: 0x148D [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  18: 0x149C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  19: 0x14AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 20: 0x14B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9423*)
+ 20: 0x14B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9424*)
     → "It says here that you should head to the Orastery right away. There's nothing written about the nature of the mission, but...it's a direct order from the ministerrr. You should hurry along."
  21: 0x14B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x14B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -3830,12 +3830,12 @@ SUBROUTINE_0EA5:
   1: 0x150C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x150D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x150E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  4: 0x1515 [0x1D] PRINT_EVENT_MESSAGE(message_id=9424*)
+  4: 0x1515 [0x1D] PRINT_EVENT_MESSAGE(message_id=9425*)
     → "...This is a mission ordered by Ajido-Marujido, head of the Mage Academy. He wants you to head to the Orastery rrright away."
   5: 0x1518 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1519 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
   7: 0x1520 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
-  8: 0x1527 [0x1D] PRINT_EVENT_MESSAGE(message_id=9425*)
+  8: 0x1527 [0x1D] PRINT_EVENT_MESSAGE(message_id=9426*)
     → "The mission parameters are strictly confidential... I wonder what he'll ask of you?"
   9: 0x152A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x152B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0C)
@@ -3889,14 +3889,14 @@ SUBROUTINE_0EA5:
   9: 0x1572 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1577 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1588 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 12: 0x158F [0x1D] PRINT_EVENT_MESSAGE(message_id=9433*)
+ 12: 0x158F [0x1D] PRINT_EVENT_MESSAGE(message_id=9434*)
     → "You have been summoned to Heavens Tower by order of the Star Sibyl."
  13: 0x1592 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1593 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  15: 0x159A [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  16: 0x15A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  17: 0x15BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0F)
- 18: 0x15C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9434*)
+ 18: 0x15C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9435*)
     → "Could this be rrrelated to the arrest of Minister Ajido-Marujido by the Sibyl Guards? You will probably be interrogated on the details of your previous mission. Make haste to Heavens Tower."
  19: 0x15C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x15C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -3939,12 +3939,12 @@ SUBROUTINE_0EA5:
   1: 0x1619 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x161A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x161B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9435*)
+  4: 0x1622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9436*)
     → "You have been summoned to Heavens Tower by order of the Star Sibyl."
   5: 0x1625 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1626 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   7: 0x162D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
-  8: 0x1634 [0x1D] PRINT_EVENT_MESSAGE(message_id=9436*)
+  8: 0x1634 [0x1D] PRINT_EVENT_MESSAGE(message_id=9437*)
     → "...Ah yes, if you happen to meet with Semih Lafihna, tell her this: No matter what the Star Sibyl says, we Mithra will follow the path of our beliefs."
   9: 0x1637 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1638 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0E)
@@ -4002,13 +4002,13 @@ SUBROUTINE_0EA5:
  10: 0x167A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
  11: 0x1681 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  12: 0x1692 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 13: 0x16A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9443*)
+ 13: 0x16A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
     → "Now that the Sibyl Guards are checking all the missions, it really gets my hackles up."
  14: 0x16A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x16A7 [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  16: 0x16B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  17: 0x16C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
- 18: 0x16CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9444*)
+ 18: 0x16CE [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
     → "Well, leaving all that aside, your next mission comes from the Optistery. They are rrrequesting assistance with tidying up the book vault."
  19: 0x16D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x16D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0C)
@@ -4016,7 +4016,7 @@ SUBROUTINE_0EA5:
  22: 0x16E8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x16F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  24: 0x170A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 25: 0x1711 [0x1D] PRINT_EVENT_MESSAGE(message_id=9445*)
+ 25: 0x1711 [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
     → "The Optistery must have been happy with your past performance to ask for you by name."
  26: 0x1714 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1715 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -4057,11 +4057,11 @@ SUBROUTINE_0EA5:
   1: 0x175A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x175B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x175C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1763 [0x1D] PRINT_EVENT_MESSAGE(message_id=9446*)
+  4: 0x1763 [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
     → "Go to the Optistery and talk to the minister for the details of your mission."
   5: 0x1766 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1767 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
-  7: 0x176E [0x1D] PRINT_EVENT_MESSAGE(message_id=9447*)
+  7: 0x176E [0x1D] PRINT_EVENT_MESSAGE(message_id=9448*)
     → "...Oh, it's a little late, but... Congratulations on rrreaching rrrank seven."
   8: 0x1771 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1772 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -4117,14 +4117,14 @@ SUBROUTINE_0EA5:
   9: 0x17B2 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x17B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x17C8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 12: 0x17CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9454*)
+ 12: 0x17CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9455*)
     → "This is a mission issued by the Rrrhinostery."
  13: 0x17D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x17D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  15: 0x17DA [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  16: 0x17E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  17: 0x17FA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0F)
- 18: 0x1801 [0x1D] PRINT_EVENT_MESSAGE(message_id=9455*)
+ 18: 0x1801 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
     → "The Rrrhinostery wishes your help in a certain matter. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery."
  19: 0x1804 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x1805 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x10)
@@ -4132,7 +4132,7 @@ SUBROUTINE_0EA5:
  22: 0x181B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  23: 0x182C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  24: 0x183D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 25: 0x1844 [0x1D] PRINT_EVENT_MESSAGE(message_id=9456*)
+ 25: 0x1844 [0x1D] PRINT_EVENT_MESSAGE(message_id=9457*)
     → "I have a feeling something bad has happened. I hope you're able to straighten things out for them."
  26: 0x1847 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x1848 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -4176,12 +4176,12 @@ SUBROUTINE_0EA5:
   1: 0x1894 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1895 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1896 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x189D [0x1D] PRINT_EVENT_MESSAGE(message_id=9457*)
+  4: 0x189D [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
     → "This mission entails helping out the Rrrhinostery. Speak with the rrresearcher Leepe-Hoppe for the full details. He can be found on the second floor of the Rrrhinostery."
   5: 0x18A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x18A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   7: 0x18A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  8: 0x18AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9458*)
+  8: 0x18AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9459*)
     → "The Sibyl Guards had nothing to say about this mission. Does this mean the Rrrhinostery is considered above suspicion? Or does it mean that something more sinister already has their full attention?"
   9: 0x18B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x18B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
@@ -4239,18 +4239,18 @@ SUBROUTINE_0EA5:
   9: 0x1908 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x190D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x191E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 12: 0x1925 [0x1D] PRINT_EVENT_MESSAGE(message_id=9465*)
+ 12: 0x1925 [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
     → "Before I explain your mission, I wish to congratulate you."
  13: 0x1928 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1929 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
- 15: 0x1930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9466*)
+ 15: 0x1930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
     → "Well done on rrreaching rrrank eight. There aren't many people who can make it this far."
  16: 0x1933 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x1934 [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  18: 0x1943 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  19: 0x1954 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  20: 0x1965 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x03)
- 21: 0x196C [0x1D] PRINT_EVENT_MESSAGE(message_id=9467*)
+ 21: 0x196C [0x1D] PRINT_EVENT_MESSAGE(message_id=9468*)
     → "Rrright, down to brass tacks. Your next mission is from the Aurastery. You can get the details from the teachers at the School of Magic."
  22: 0x196F [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x1970 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x04)
@@ -4293,10 +4293,10 @@ SUBROUTINE_0EA5:
   1: 0x19CB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x19CC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x19CD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x19D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9468*)
+  4: 0x19D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9469*)
     → "The School of Magic is another name for the Aurastery. The teachers there will explain your mission objectives."
   5: 0x19D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x19D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9469*)
+  6: 0x19D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9470*)
     → "Rrrecently, there have been rrrumors of feral Cardians gathering at the magic towers of the Horutoto Ruins. You wouldn't know anything about that, would you?"
   7: 0x19DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x19DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -4355,14 +4355,14 @@ SUBROUTINE_0EA5:
  10: 0x1A28 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  11: 0x1A2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x1A3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 13: 0x1A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=9478*)
+ 13: 0x1A45 [0x1D] PRINT_EVENT_MESSAGE(message_id=9479*)
     → "This mission has not been officially approved. However, all of the gatehouse guards have agreed to ask you to perform this task."
  14: 0x1A48 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1A49 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
  16: 0x1A50 [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  17: 0x1A5F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
  18: 0x1A70 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0F)
- 19: 0x1A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9479*)
+ 19: 0x1A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9480*)
     → "Go to the Manustery and assist Minister Apururu. Those are your orders."
  20: 0x1A7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1A7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x10)
@@ -4372,7 +4372,7 @@ SUBROUTINE_0EA5:
  25: 0x1AB3 [0x6E] EventEntity uses emote 7*
  26: 0x1ABA [0x99] Wait for EventEntity animation to complete
  27: 0x1ABF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
- 28: 0x1AC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9480*)
+ 28: 0x1AC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
     → "I don't think I need to tell you this, but don't tell anyone about this mission. Be especially careful of that Semih Lafihna. She has a habit of picking up on rrrumors from the most unlikely places."
  29: 0x1AC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x1ACA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4418,12 +4418,12 @@ SUBROUTINE_0EA5:
   3: 0x1B16 [0x6E] EventEntity uses emote 6*
   4: 0x1B1D [0x99] Wait for EventEntity animation to complete
   5: 0x1B22 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  6: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9481*)
+  6: 0x1B29 [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
     → "Don't make me rrrepeat myself. Head to the Manustery and talk with Minister Apururu. This is your mission."
   7: 0x1B2C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1B2D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x15)
   9: 0x1B34 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
- 10: 0x1B3B [0x1D] PRINT_EVENT_MESSAGE(message_id=9482*)
+ 10: 0x1B3B [0x1D] PRINT_EVENT_MESSAGE(message_id=9483*)
     → "Keep your orders to yourself, and be especially careful that Semih Lafihna doesn't get wind of what you're doing."
  11: 0x1B3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x1B3F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0E)
@@ -4474,12 +4474,12 @@ SUBROUTINE_0EA5:
   9: 0x1B86 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1B8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1B9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 12: 0x1BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9576*)
+ 12: 0x1BA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9577*)
     → "Have you heard? Ajido-Marujido has rrregained consciousness."
  13: 0x1BA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x1BA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  15: 0x1BAE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
- 16: 0x1BB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9577*)
+ 16: 0x1BB5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9578*)
     → "Word of these goings-on has yet to rrreach Heavens Tower, so keep up the charade on your way to the Manustery."
  17: 0x1BB8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x1BB9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4520,10 +4520,10 @@ SUBROUTINE_0EA5:
   1: 0x1BFE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1BFF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1C00 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9578*)
+  4: 0x1C07 [0x1D] PRINT_EVENT_MESSAGE(message_id=9579*)
     → "Ajido-Marujido had been in a coma since collapsing in the Dark Dungeon, rrright?"
   5: 0x1C0A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1C0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9579*)
+  6: 0x1C0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9580*)
     → "He would probably be dead by now if no one had gone to save him. What an awful place."
   7: 0x1C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1C0F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -4577,20 +4577,20 @@ SUBROUTINE_0EA5:
   9: 0x1C56 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rakoh Buuma (ID: 17764368/0x010F1010) Render.Flags0 and Render.Flags3 conditions are met
  10: 0x1C5B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  11: 0x1C6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 12: 0x1C73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9655*)
+ 12: 0x1C73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9656*)
     → "Do you know what's going on, <Player>? Ajido-Marujido has been pardoned for his crimes, and the guards have escaped any disciplinary action, despite our insubordination..."
  13: 0x1C76 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x1C77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9656*)
+ 14: 0x1C77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
     → "Has something happened within Heavens Tower? They've sent us another mission for you."
  15: 0x1C7A [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x1C7B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
  17: 0x1C82 [0x52] END_LOAD_SCHEDULER: End scheduler "s143" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=141*
  18: 0x1C91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s144" with entities [Rakoh Buuma (ID: 17764368/0x010F1010), Rakoh Buuma (ID: 17764368/0x010F1010)], work=[141*, 0*]
- 19: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9657*)
+ 19: 0x1CA2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9658*)
     → "According to the mission statement, the Yagudo have proposed a rrrevision to the peace treaty..."
  20: 0x1CA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1CA6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
- 22: 0x1CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9658*)
+ 22: 0x1CAD [0x1D] PRINT_EVENT_MESSAGE(message_id=9659*)
     → "... I'm well aware I shouldn't be poking my nose where it doesn't belong, but my Mithran instincts are making my tail twitch."
  23: 0x1CB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x1CB1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -4632,10 +4632,10 @@ SUBROUTINE_0EA5:
   1: 0x1D05 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1D06 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1D07 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  4: 0x1D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9659*)
+  4: 0x1D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9660*)
     → "Heavens Tower has rrrequested your presence. The Yagudo have sent a proposal to the Star Sibyl asking for a rrrevision of the peace treaty."
   5: 0x1D11 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x1D12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9660*)
+  6: 0x1D12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
     → "The Star Sibyl is more likely to keep the peace, rrrather than object to any of the Yagudo's rrridiculous demands..."
   7: 0x1D15 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1D16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
@@ -4669,12 +4669,12 @@ SUBROUTINE_0EA5:
   1: 0x1D26 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1D27 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1D28 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x09)
-  4: 0x1D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9661*)
+  4: 0x1D2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
     → "... Naturally, I have been informed of Semih Lafihna's report to Chieftainness Perih Vashai."
   5: 0x1D32 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x1D33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0A)
   7: 0x1D3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0B)
-  8: 0x1D41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9662*)
+  8: 0x1D41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9663*)
     → "Let us worry about the Yagudo--You just keep your mind on the task you have been given. Are we clear?"
   9: 0x1D44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1D45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0C)
@@ -4711,17 +4711,17 @@ SUBROUTINE_0EA5:
   2: 0x1D56 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x1D57 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1D58 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
-  5: 0x1D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9698*)
+  5: 0x1D5F [0x1D] PRINT_EVENT_MESSAGE(message_id=9699*)
     → "You have done your utmost for Windurst these many months. As the Captain of the Windurst Woods guards, I formally extend to you our gratitude and friendship."
   6: 0x1D62 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1D63 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)
   8: 0x1D6A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0D)
-  9: 0x1D71 [0x1D] PRINT_EVENT_MESSAGE(message_id=9699*)
+  9: 0x1D71 [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
     → "If I had my way, you would be permanently stationed in Windurst. However, I know that your adventurer's blood would never allow you to settle down for long."
  10: 0x1D74 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x1D75 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x0E)
  12: 0x1D7C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x01)
- 13: 0x1D83 [0x1D] PRINT_EVENT_MESSAGE(message_id=9700*)
+ 13: 0x1D83 [0x1D] PRINT_EVENT_MESSAGE(message_id=9701*)
     → "Be sure to come back and visit on occasion, though, and bring us tales and aromas of the new lands you pass through on your travels."
  14: 0x1D86 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x1D87 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rakoh Buuma (ID: 17764368/0x010F1010), tag_num=0x02)

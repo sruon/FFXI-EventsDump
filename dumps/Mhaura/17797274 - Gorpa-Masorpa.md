@@ -35,60 +35,60 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x1FDE      |        8158 |
-|       3 | 0x1FFA      |        8186 |
-|       4 | 0x1FFB      |        8187 |
-|       5 | 0x1FDF      |        8159 |
-|       6 | 0x1FE0      |        8160 |
-|       7 | 0x1FE1      |        8161 |
-|       8 | 0x1FE2      |        8162 |
-|       9 | 0x1FE3      |        8163 |
-|      10 | 0x1FE4      |        8164 |
+|       2 | 0x1FDF      |        8159 |
+|       3 | 0x1FFB      |        8187 |
+|       4 | 0x1FFC      |        8188 |
+|       5 | 0x1FE0      |        8160 |
+|       6 | 0x1FE1      |        8161 |
+|       7 | 0x1FE2      |        8162 |
+|       8 | 0x1FE3      |        8163 |
+|       9 | 0x1FE4      |        8164 |
+|      10 | 0x1FE5      |        8165 |
 |      11 | 0x0029      |          41 |
-|      12 | 0x1FE5      |        8165 |
-|      13 | 0x1FE6      |        8166 |
-|      14 | 0x1FE7      |        8167 |
-|      15 | 0x1FE8      |        8168 |
-|      16 | 0x1FE9      |        8169 |
-|      17 | 0x1FEA      |        8170 |
-|      18 | 0x1FEB      |        8171 |
-|      19 | 0x1FEC      |        8172 |
-|      20 | 0x1FED      |        8173 |
+|      12 | 0x1FE6      |        8166 |
+|      13 | 0x1FE7      |        8167 |
+|      14 | 0x1FE8      |        8168 |
+|      15 | 0x1FE9      |        8169 |
+|      16 | 0x1FEA      |        8170 |
+|      17 | 0x1FEB      |        8171 |
+|      18 | 0x1FEC      |        8172 |
+|      19 | 0x1FED      |        8173 |
+|      20 | 0x1FEE      |        8174 |
 |      21 | 0x0BEC      |        3052 |
 |      22 | 0x0BED      |        3053 |
-|      23 | 0x1FEE      |        8174 |
-|      24 | 0x1FEF      |        8175 |
-|      25 | 0x1FF0      |        8176 |
-|      26 | 0x1FF1      |        8177 |
-|      27 | 0x1FF2      |        8178 |
-|      28 | 0x1FF3      |        8179 |
-|      29 | 0x1FF4      |        8180 |
-|      30 | 0x1FF5      |        8181 |
-|      31 | 0x1FF6      |        8182 |
-|      32 | 0x1FF7      |        8183 |
+|      23 | 0x1FEF      |        8175 |
+|      24 | 0x1FF0      |        8176 |
+|      25 | 0x1FF1      |        8177 |
+|      26 | 0x1FF2      |        8178 |
+|      27 | 0x1FF3      |        8179 |
+|      28 | 0x1FF4      |        8180 |
+|      29 | 0x1FF5      |        8181 |
+|      30 | 0x1FF6      |        8182 |
+|      31 | 0x1FF7      |        8183 |
+|      32 | 0x1FF8      |        8184 |
 |      33 | 0x002D      |          45 |
-|      34 | 0x1FF9      |        8185 |
+|      34 | 0x1FFA      |        8186 |
 |      35 | 0x0000      |           0 |
 |      36 | 0x0007      |           7 |
 |      37 | 0x0008      |           8 |
 |      38 | 0x000F      |          15 |
-|      39 | 0x1FFC      |        8188 |
-|      40 | 0x1FFD      |        8189 |
-|      41 | 0x1FFF      |        8191 |
+|      39 | 0x1FFD      |        8189 |
+|      40 | 0x1FFE      |        8190 |
+|      41 | 0x2000      |        8192 |
 |      42 | 0x2436      |        9270 |
 |      43 | 0x2437      |        9271 |
 |      44 | 0x2636      |        9782 |
 |      45 | 0x2637      |        9783 |
 |      46 | 0x2638      |        9784 |
 |      47 | 0x2639      |        9785 |
-|      48 | 0x2000      |        8192 |
+|      48 | 0x2001      |        8193 |
 |      49 | 0x0010      |          16 |
 |      50 | 0x0002      |           2 |
 |      51 | 0x0003      |           3 |
 |      52 | 0x0011      |          17 |
 |      53 | 0x0004      |           4 |
-|      54 | 0x200D      |        8205 |
-|      55 | 0x200E      |        8206 |
+|      54 | 0x200E      |        8206 |
+|      55 | 0x200F      |        8207 |
 |      56 | 0x0040      |          64 |
 |      57 | 0x001F      |          31 |
 |      58 | 0x0005      |           5 |
@@ -99,34 +99,34 @@
 |      63 | 0x000C      |          12 |
 |      64 | 0x000D      |          13 |
 |      65 | 0x000E      |          14 |
-|      66 | 0x2001      |        8193 |
+|      66 | 0x2002      |        8194 |
 |      67 | 0x0012      |          18 |
-|      68 | 0x2004      |        8196 |
+|      68 | 0x2005      |        8197 |
 |      69 | 0x0063      |          99 |
-|      70 | 0x2029      |        8233 |
-|      71 | 0x200B      |        8203 |
-|      72 | 0x2005      |        8197 |
-|      73 | 0x2006      |        8198 |
-|      74 | 0x2009      |        8201 |
+|      70 | 0x202A      |        8234 |
+|      71 | 0x200C      |        8204 |
+|      72 | 0x2006      |        8198 |
+|      73 | 0x2007      |        8199 |
+|      74 | 0x200A      |        8202 |
 |      75 | 0x0017      |          23 |
 |      76 | 0x0018      |          24 |
 |      77 | 0x0020      |          32 |
-|      78 | 0x2002      |        8194 |
-|      79 | 0x200A      |        8202 |
-|      80 | 0x2008      |        8200 |
-|      81 | 0x200C      |        8204 |
-|      82 | 0x2007      |        8199 |
-|      83 | 0x2003      |        8195 |
-|      84 | 0x200F      |        8207 |
-|      85 | 0x2057      |        8279 |
-|      86 | 0x201D      |        8221 |
-|      87 | 0x2018      |        8216 |
+|      78 | 0x2003      |        8195 |
+|      79 | 0x200B      |        8203 |
+|      80 | 0x2009      |        8201 |
+|      81 | 0x200D      |        8205 |
+|      82 | 0x2008      |        8200 |
+|      83 | 0x2004      |        8196 |
+|      84 | 0x2010      |        8208 |
+|      85 | 0x2058      |        8280 |
+|      86 | 0x201E      |        8222 |
+|      87 | 0x2019      |        8217 |
 |      88 | 0x0031      |          49 |
-|      89 | 0x2019      |        8217 |
+|      89 | 0x201A      |        8218 |
 |      90 | 0x1445      |        5189 |
-|      91 | 0x201A      |        8218 |
-|      92 | 0x201B      |        8219 |
-|      93 | 0x201C      |        8220 |
+|      91 | 0x201B      |        8219 |
+|      92 | 0x201C      |        8220 |
+|      93 | 0x201D      |        8221 |
 |      94 | 0x2404      |        9220 |
 |      95 | 0x2405      |        9221 |
 |      96 | 0x2406      |        9222 |
@@ -134,104 +134,104 @@
 |      98 | 0x2408      |        9224 |
 |      99 | 0x2409      |        9225 |
 |     100 | 0x6686      |       26246 |
-|     101 | 0x2010      |        8208 |
-|     102 | 0x2011      |        8209 |
-|     103 | 0x2013      |        8211 |
-|     104 | 0x2014      |        8212 |
-|     105 | 0x2015      |        8213 |
-|     106 | 0x2016      |        8214 |
-|     107 | 0x2017      |        8215 |
-|     108 | 0x203B      |        8251 |
-|     109 | 0x203C      |        8252 |
-|     110 | 0x203D      |        8253 |
-|     111 | 0x203E      |        8254 |
-|     112 | 0x2036      |        8246 |
-|     113 | 0x2037      |        8247 |
+|     101 | 0x2011      |        8209 |
+|     102 | 0x2012      |        8210 |
+|     103 | 0x2014      |        8212 |
+|     104 | 0x2015      |        8213 |
+|     105 | 0x2016      |        8214 |
+|     106 | 0x2017      |        8215 |
+|     107 | 0x2018      |        8216 |
+|     108 | 0x203C      |        8252 |
+|     109 | 0x203D      |        8253 |
+|     110 | 0x203E      |        8254 |
+|     111 | 0x203F      |        8255 |
+|     112 | 0x2037      |        8247 |
+|     113 | 0x2038      |        8248 |
 |     114 | 0x6545      |       25925 |
-|     115 | 0x2038      |        8248 |
+|     115 | 0x2039      |        8249 |
 |     116 | 0x6546      |       25926 |
-|     117 | 0x2039      |        8249 |
-|     118 | 0x203A      |        8250 |
-|     119 | 0x2043      |        8259 |
-|     120 | 0x2044      |        8260 |
-|     121 | 0x2045      |        8261 |
-|     122 | 0x2046      |        8262 |
-|     123 | 0x2040      |        8256 |
-|     124 | 0x2041      |        8257 |
+|     117 | 0x203A      |        8250 |
+|     118 | 0x203B      |        8251 |
+|     119 | 0x2044      |        8260 |
+|     120 | 0x2045      |        8261 |
+|     121 | 0x2046      |        8262 |
+|     122 | 0x2047      |        8263 |
+|     123 | 0x2041      |        8257 |
+|     124 | 0x2042      |        8258 |
 |     125 | 0x6554      |       25940 |
-|     126 | 0x2042      |        8258 |
+|     126 | 0x2043      |        8259 |
 |     127 | 0x6555      |       25941 |
-|     128 | 0x2052      |        8274 |
-|     129 | 0x2053      |        8275 |
-|     130 | 0x2054      |        8276 |
-|     131 | 0x2055      |        8277 |
-|     132 | 0x204D      |        8269 |
+|     128 | 0x2053      |        8275 |
+|     129 | 0x2054      |        8276 |
+|     130 | 0x2055      |        8277 |
+|     131 | 0x2056      |        8278 |
+|     132 | 0x204E      |        8270 |
 |     133 | 0x540B      |       21515 |
-|     134 | 0x204E      |        8270 |
-|     135 | 0x204F      |        8271 |
-|     136 | 0x2050      |        8272 |
-|     137 | 0x2051      |        8273 |
-|     138 | 0x2062      |        8290 |
+|     134 | 0x204F      |        8271 |
+|     135 | 0x2050      |        8272 |
+|     136 | 0x2051      |        8273 |
+|     137 | 0x2052      |        8274 |
+|     138 | 0x2063      |        8291 |
 |     139 | 0x026C      |         620 |
 |     140 | 0x0270      |         624 |
 |     141 | 0x1135      |        4405 |
-|     142 | 0x2063      |        8291 |
-|     143 | 0x2064      |        8292 |
-|     144 | 0x2065      |        8293 |
-|     145 | 0x205E      |        8286 |
+|     142 | 0x2064      |        8292 |
+|     143 | 0x2065      |        8293 |
+|     144 | 0x2066      |        8294 |
+|     145 | 0x205F      |        8287 |
 |     146 | 0x540C      |       21516 |
-|     147 | 0x205F      |        8287 |
-|     148 | 0x2060      |        8288 |
-|     149 | 0x2061      |        8289 |
-|     150 | 0x206C      |        8300 |
+|     147 | 0x2060      |        8288 |
+|     148 | 0x2061      |        8289 |
+|     149 | 0x2062      |        8290 |
+|     150 | 0x206D      |        8301 |
 |     151 | 0x193A      |        6458 |
-|     152 | 0x206D      |        8301 |
-|     153 | 0x206E      |        8302 |
-|     154 | 0x206F      |        8303 |
-|     155 | 0x206A      |        8298 |
+|     152 | 0x206E      |        8302 |
+|     153 | 0x206F      |        8303 |
+|     154 | 0x2070      |        8304 |
+|     155 | 0x206B      |        8299 |
 |     156 | 0x540D      |       21517 |
-|     157 | 0x206B      |        8299 |
-|     158 | 0x207B      |        8315 |
-|     159 | 0x207C      |        8316 |
-|     160 | 0x207D      |        8317 |
-|     161 | 0x207E      |        8318 |
+|     157 | 0x206C      |        8300 |
+|     158 | 0x207C      |        8316 |
+|     159 | 0x207D      |        8317 |
+|     160 | 0x207E      |        8318 |
+|     161 | 0x207F      |        8319 |
 |     162 | 0x540E      |       21518 |
-|     163 | 0x2075      |        8309 |
+|     163 | 0x2076      |        8310 |
 |     164 | 0x49D8      |       18904 |
-|     165 | 0x2076      |        8310 |
-|     166 | 0x2077      |        8311 |
-|     167 | 0x2078      |        8312 |
-|     168 | 0x2079      |        8313 |
-|     169 | 0x207A      |        8314 |
-|     170 | 0x2047      |        8263 |
-|     171 | 0x2048      |        8264 |
-|     172 | 0x2049      |        8265 |
-|     173 | 0x204B      |        8267 |
-|     174 | 0x2056      |        8278 |
-|     175 | 0x207F      |        8319 |
-|     176 | 0x1FFE      |        8190 |
+|     165 | 0x2077      |        8311 |
+|     166 | 0x2078      |        8312 |
+|     167 | 0x2079      |        8313 |
+|     168 | 0x207A      |        8314 |
+|     169 | 0x207B      |        8315 |
+|     170 | 0x2048      |        8264 |
+|     171 | 0x2049      |        8265 |
+|     172 | 0x204A      |        8266 |
+|     173 | 0x204C      |        8268 |
+|     174 | 0x2057      |        8279 |
+|     175 | 0x2080      |        8320 |
+|     176 | 0x1FFF      |        8191 |
 |     177 | 0x001A      |          26 |
-|     178 | 0x201E      |        8222 |
+|     178 | 0x201F      |        8223 |
 |     179 | 0x0019      |          25 |
-|     180 | 0x201F      |        8223 |
+|     180 | 0x2020      |        8224 |
 |     181 | 0x001B      |          27 |
-|     182 | 0x2024      |        8228 |
-|     183 | 0x2025      |        8229 |
+|     182 | 0x2025      |        8229 |
+|     183 | 0x2026      |        8230 |
 |     184 | 0xFFFF      |       65535 |
 |     185 | 0x0013      |          19 |
-|     186 | 0x2027      |        8231 |
-|     187 | 0x2026      |        8230 |
-|     188 | 0x2028      |        8232 |
-|     189 | 0x2020      |        8224 |
-|     190 | 0x2021      |        8225 |
-|     191 | 0x2022      |        8226 |
-|     192 | 0x2023      |        8227 |
-|     193 | 0x202A      |        8234 |
-|     194 | 0x202B      |        8235 |
-|     195 | 0x202C      |        8236 |
-|     196 | 0x202E      |        8238 |
-|     197 | 0x202D      |        8237 |
-|     198 | 0x202F      |        8239 |
+|     186 | 0x2028      |        8232 |
+|     187 | 0x2027      |        8231 |
+|     188 | 0x2029      |        8233 |
+|     189 | 0x2021      |        8225 |
+|     190 | 0x2022      |        8226 |
+|     191 | 0x2023      |        8227 |
+|     192 | 0x2024      |        8228 |
+|     193 | 0x202B      |        8235 |
+|     194 | 0x202C      |        8236 |
+|     195 | 0x202D      |        8237 |
+|     196 | 0x202F      |        8239 |
+|     197 | 0x202E      |        8238 |
+|     198 | 0x2030      |        8240 |
 |     199 | 0x2413      |        9235 |
 |     200 | 0x2414      |        9236 |
 |     201 | 0x2415      |        9237 |
@@ -270,31 +270,31 @@
 |     234 | 0x26DB      |        9947 |
 |     235 | 0x26DC      |        9948 |
 |     236 | 0xFFFFFFFF  |  4294967295 |
-|     237 | 0x2030      |        8240 |
-|     238 | 0x2031      |        8241 |
-|     239 | 0x2032      |        8242 |
-|     240 | 0x2033      |        8243 |
-|     241 | 0x2034      |        8244 |
-|     242 | 0x2035      |        8245 |
-|     243 | 0x203F      |        8255 |
-|     244 | 0x204A      |        8266 |
-|     245 | 0x204C      |        8268 |
+|     237 | 0x2031      |        8241 |
+|     238 | 0x2032      |        8242 |
+|     239 | 0x2033      |        8243 |
+|     240 | 0x2034      |        8244 |
+|     241 | 0x2035      |        8245 |
+|     242 | 0x2036      |        8246 |
+|     243 | 0x2040      |        8256 |
+|     244 | 0x204B      |        8267 |
+|     245 | 0x204D      |        8269 |
 |     246 | 0x01F1      |         497 |
 |     247 | 0x00D2      |         210 |
-|     248 | 0x2058      |        8280 |
-|     249 | 0x2059      |        8281 |
-|     250 | 0x205A      |        8282 |
-|     251 | 0x205B      |        8283 |
+|     248 | 0x2059      |        8281 |
+|     249 | 0x205A      |        8282 |
+|     250 | 0x205B      |        8283 |
+|     251 | 0x205C      |        8284 |
 |     252 | 0x003C      |          60 |
-|     253 | 0x2066      |        8294 |
-|     254 | 0x2067      |        8295 |
-|     255 | 0x2068      |        8296 |
-|     256 | 0x2069      |        8297 |
-|     257 | 0x2070      |        8304 |
-|     258 | 0x2071      |        8305 |
-|     259 | 0x2072      |        8306 |
-|     260 | 0x2073      |        8307 |
-|     261 | 0x2074      |        8308 |
+|     253 | 0x2067      |        8295 |
+|     254 | 0x2068      |        8296 |
+|     255 | 0x2069      |        8297 |
+|     256 | 0x206A      |        8298 |
+|     257 | 0x2071      |        8305 |
+|     258 | 0x2072      |        8306 |
+|     259 | 0x2073      |        8307 |
+|     260 | 0x2074      |        8308 |
+|     261 | 0x2075      |        8309 |
 |     262 | 0x05A9      |        1449 |
 |     263 | 0x05AA      |        1450 |
 |     264 | 0x05AC      |        1452 |
@@ -703,164 +703,164 @@
 |     667 | 0x502B      |       20523 |
 |     668 | 0x516F      |       20847 |
 |     669 | 0x51CA      |       20938 |
-|     670 | 0x205D      |        8285 |
-|     671 | 0x205C      |        8284 |
+|     670 | 0x205E      |        8286 |
+|     671 | 0x205D      |        8285 |
 
 ## String References
 
-- **8158**: A fantastic day to you, good [sir/lady]! I, Gorpa-Masorpa, have been dispatch-watched from the Adventurers' Mutual Aid Network to...to...
-- **8159**: ...to serve adventurers...
-- **8160**: ...under the auspices of...
-- **8161**: ...the great, almightaruly...
-- **8162**: Abdhaljs! <Cough, cough>
-- **8163**: Urk...
-- **8164**: Tohoho...hohohohohohohoho!
-- **8165**: You, uh, see...
-- **8166**: Abdhaljs, creator of the tiny, tiny place known as Legion, has seen fitaru to permit us the use of his creation!
-- **8167**: Oh, does the luck-wuck of the A.M.A.N. know no bounds!?
-- **8168**: This slightly repurposed Maquette Abdhaljs - Legion has undergone a variety of improvementarus by some of our association's most skilled thaumaturges.
-- **8169**: Steel yourselves for our latestaru creation--Ambuscade!
-- **8170**: In Ambuscade, you'll square off againstaru a bevy of foes just chomping at the bit to see you torn into itty-bitty pieces!
-- **8171**: Every month (Earth time), new challengers enter the arena, providing different challenges from the month before.
-- **8172**: Now, now, wipe that dribble off your chin, for there are a couple hoops-woops we're going to make you jump through before you can join.
-- **8173**: First, you must be in a party of up to six players.
-- **8174**: Second, you must be in possession of either $6 or $6. Either of the two will suffice.
-- **8175**: These two goodies can be procured by completaruing specific Records of Eminence objectives.
-- **8176**: You mightaru think those tasks to be laughably simple, but trust me--it keeps out the riffraff. When you're prepared, examine the Ambuscade tome and be on your way.
-- **8177**: And now, I would like to discuss the rewards.
-- **8178**: Simply put, all you need to know is that victory in Ambuscade will reward you with a special currency known as hallmarks.
-- **8179**: There are two varieties of reward available: those that are purchasable in exchange for a certain number of hallmarks, and those you receive once you have reached a particular-wicular running total of hallmarks.
-- **8180**: If you're inclined to join forces with other player-wayers, you'll receive an even more special currency known as "gallantry."
-- **8181**: It goes withoutaru saying that there are special rewards available in exchange for badges of gallantry, too.
-- **8182**: I can see your lips quivering at the thought of receiving such extraordinary spoils!
-- **8183**: Be advised-wised in advance that you will lose all your hallmarks and badges of gallantry once the Ambuscade has switched to new content.
-- **8185**: That's the long and short--mostly long--of it. Now get those items and try your luck!
-- **8186**: Wh-what's this? You're unfamiliar with Records of Eminence? Then firstaru speak with one of our representatives in charge of Eminence to get started.
-- **8187**: ...To ask you to set the Ambuscade Records of Eminence objective from the "Tutorial" category!
-- **8188**: Welcome, welcome! Back for more?
-- **8189**: Inquire about what? [Rewards./Ambuscade./Nothing in particular.]
-- **8190**: All Ambuscade battles play out in the same location as Legion, with the exact composition of enemies changing-wanging each month (Earth time).
-- **8191**: Abdhaljs has tasked me with delivering these missives and a listaru of rewards to any and all discerning adventurers.
-- **8192**: What would you like to view? [Items to purchase with hallmarks./Items available for total hallmarks./Items to purchase with gallantry./Missives from Abdhaljs./Upgrades for $0./Upgrades for $1./Upgrades for $2./Upgrades for $3./Upgrades for $4./Upgrades for $5./About hallmarks and gallantry./Go back./Nothing for now.]
-- **8196**: I can offer you a total-wotal of $& more $0% , each at a cost of $' [hallmarks/badges of gallantry]. How many would you like?
-- **8197**: $$ $0% will run you a total of $# [hallmarks/badges of gallantry]. Is this acceptable to you?
-- **8198**: Is this acceptable? [Yes./No.]
+- **8159**: A fantastic day to you, good [sir/lady]! I, Gorpa-Masorpa, have been dispatch-watched from the Adventurers' Mutual Aid Network to...to...
+- **8160**: ...to serve adventurers...
+- **8161**: ...under the auspices of...
+- **8162**: ...the great, almightaruly...
+- **8163**: Abdhaljs! <Cough, cough>
+- **8164**: Urk...
+- **8165**: Tohoho...hohohohohohohoho!
+- **8166**: You, uh, see...
+- **8167**: Abdhaljs, creator of the tiny, tiny place known as Legion, has seen fitaru to permit us the use of his creation!
+- **8168**: Oh, does the luck-wuck of the A.M.A.N. know no bounds!?
+- **8169**: This slightly repurposed Maquette Abdhaljs - Legion has undergone a variety of improvementarus by some of our association's most skilled thaumaturges.
+- **8170**: Steel yourselves for our latestaru creation--Ambuscade!
+- **8171**: In Ambuscade, you'll square off againstaru a bevy of foes just chomping at the bit to see you torn into itty-bitty pieces!
+- **8172**: Every month (Earth time), new challengers enter the arena, providing different challenges from the month before.
+- **8173**: Now, now, wipe that dribble off your chin, for there are a couple hoops-woops we're going to make you jump through before you can join.
+- **8174**: First, you must be in a party of up to six players.
+- **8175**: Second, you must be in possession of either $6 or $6. Either of the two will suffice.
+- **8176**: These two goodies can be procured by completaruing specific Records of Eminence objectives.
+- **8177**: You mightaru think those tasks to be laughably simple, but trust me--it keeps out the riffraff. When you're prepared, examine the Ambuscade tome and be on your way.
+- **8178**: And now, I would like to discuss the rewards.
+- **8179**: Simply put, all you need to know is that victory in Ambuscade will reward you with a special currency known as hallmarks.
+- **8180**: There are two varieties of reward available: those that are purchasable in exchange for a certain number of hallmarks, and those you receive once you have reached a particular-wicular running total of hallmarks.
+- **8181**: If you're inclined to join forces with other player-wayers, you'll receive an even more special currency known as "gallantry."
+- **8182**: It goes withoutaru saying that there are special rewards available in exchange for badges of gallantry, too.
+- **8183**: I can see your lips quivering at the thought of receiving such extraordinary spoils!
+- **8184**: Be advised-wised in advance that you will lose all your hallmarks and badges of gallantry once the Ambuscade has switched to new content.
+- **8186**: That's the long and short--mostly long--of it. Now get those items and try your luck!
+- **8187**: Wh-what's this? You're unfamiliar with Records of Eminence? Then firstaru speak with one of our representatives in charge of Eminence to get started.
+- **8188**: ...To ask you to set the Ambuscade Records of Eminence objective from the "Tutorial" category!
+- **8189**: Welcome, welcome! Back for more?
+- **8190**: Inquire about what? [Rewards./Ambuscade./Nothing in particular.]
+- **8191**: All Ambuscade battles play out in the same location as Legion, with the exact composition of enemies changing-wanging each month (Earth time).
+- **8192**: Abdhaljs has tasked me with delivering these missives and a listaru of rewards to any and all discerning adventurers.
+- **8193**: What would you like to view? [Items to purchase with hallmarks./Items available for total hallmarks./Items to purchase with gallantry./Missives from Abdhaljs./Upgrades for $0./Upgrades for $1./Upgrades for $2./Upgrades for $3./Upgrades for $4./Upgrades for $5./About hallmarks and gallantry./Go back./Nothing for now.]
+- **8197**: I can offer you a total-wotal of $& more $0% , each at a cost of $' [hallmarks/badges of gallantry]. How many would you like?
+- **8198**: $$ $0% will run you a total of $# [hallmarks/badges of gallantry]. Is this acceptable to you?
 - **8199**: Is this acceptable? [Yes./No.]
-- **8200**: $37? Got it.
-- **8201**: Enjoy, my friend!
-- **8202**: Hang on, there. You've already receive-weived that selection!
-- **8203**: That's not enough [hallmarks/badges of gallantry]!
-- **8204**: I'll be willing to part with your prize once you've gotten $# more hallmark[/s].
-- **8205**: Perhaps you may find this upsetting-wetting, but...I have no more left to give you.
-- **8206**: I'm quite certain-wertain that Abdhaljs will see fit to supply the A.M.A.N. with more prizes soon, so be sure to check back later.
-- **8207**: These missives, penned by Abdhaljs himself, are intended for those adventurers interested in trying their hands at Ambuscade.
-- **8208**: "Dearest adventurer, Let me first express my heartfelt appreciation at your interest in my latest creation. I would exchange pleasantries, but I know what you are most interested in--the spoils. So let's get down to it, hmmm?
-- **8209**: "Six types of materials are available to you: $0, $1, $2, $3, $4, and $5, as well as equipment such as $6.
-- **8211**: "I'm sure that by now you are quite familiar with how this works, so let me just mention that this system is quite similar.
-- **8212**: "%, $1, $2, $3, and $4 each have latent energies that can augment the abilities of your equipment.
-- **8213**: "$5 are unable to provide further enhancements, but the other benefits they can provide are rather unique.
-- **8214**: "But I beg of you--please do not attempt to alter the equipment yourself. I'd rather not have to pay the residents of this fine city to clean your remnants from the ground. Instead, entrust my compatriots at the A.M.A.N. to do that for you.
-- **8215**: "Whatever path you select for your equipment, I am certain it will serve you well. Goddess-speed, and may your battles end in victory!"
-- **8216**: "Mommy Dearest, It's been a few weeks since I arrived here in Mhaura, and I couldn't be more frustrated.
-- **8217**: "I requested to be stationed-wationed in Jeuno, but that incident with the cake batter must have left more than a physical stain on my records.
-- **8218**: "I miss being home-wome with you, your lovely $0, and my veritable treasure trove of books. But guess what--I get to work with the almighty Abdhaljs! His tomes are legendary, so I know I'll be able to pull through.
-- **8219**: "P.S. Whatever you do, do not open my "Shantotto Scorches Selbina" calendar."
-- **8220**: Wh-wh-what!? G-give that back! Here! Here's the right one!
-- **8221**: 
-- **8222**: This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?
-- **8223**: Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Pet: Acc./R.Acc./Atk./R.Atk.+./Pet: M.Acc./M.Dmg.+./@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
-- **8224**: Which attribute would you like? [Acc./Atk.+./R.Acc./R.Atk.+./M.Acc./M.Dmg.+./Eva./M.Eva.+./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
-- **8225**: Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Accuracy+./Attack+./Ranged Accuracy+./Ranged Attack+./Magic Accuracy+./Magic Damage+./Evasion+./Magic Evasion+./Pet: Acc./R.Acc.+./Pet: Atk./R.Atk.+./Pet: M.Acc.+./Pet: M.Dmg.+./@/@/@/Nothing for now./Go back.]
-- **8226**: Which attribute would you like? [Weapon Skill Damage+./Critical Hit Rate+./"Store TP"+./"Double Attack"+./Haste+./"Dual Wield"+./Enmity+./Enmity-./"Snapshot"+./"Magic Atk. Bonus"+./"Fast Cast"+./"Cure" Potency+./"Waltz" Potency+./Pet: Regen+./Pet: Haste+./@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
-- **8227**: Which would you like? [DEF+/Evasion+/Magic Evasion+/Physical damage taken -/Magic damage taken -/Damage taken -/Regen+/Counter+/Blocking rate +/Parry rate +/All status ailment res.+/Casting time interruption rate-/Pet: Phys. damage taken -/Pet: Magic damage taken -/Pet: Damage taken -/Pet: Regen+/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
-- **8228**: Your item will look something like this-wis. What do you think?
-- **8229**: Satisfied? [Very./Not so much.]
-- **8230**: I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one.
-- **8231**: Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!
-- **8232**: Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]
-- **8233**: Enter a number $" or lower.
-- **8234**: The attributes of your $0 can be changed without resetting the values. Which would you like?
-- **8235**: Which would you like to change? [#./$1./$2./$3./$4./None of these.]
-- **8236**: Interested in your $0?
-- **8237**: I can augmentaru it a total of $1 more time[/s] using $0.
-- **8238**: It's already fully augmentarued with $0. Nothing more I can do with it.
-- **8239**: I can give-wive you the following items in exchange for $0.
-- **8241**: Ahh, it's nice to see you, good [sir/lady]. I have received a new letter.
-- **8242**: Um, you see...
-- **8243**: This letter comes from the greataru mage Abdhaljs himself.
-- **8244**: Here, you may feel free to give it a read-wead.
-- **8245**: I look forward to helping you with all of your equipment needs!
-- **8246**: "Dearest adventurer, I am pleased to hear that you have performed well in the Ambuscade.
-- **8247**: "As a token of my appreciation, I have prepared a new reward for your efforts. It is a material that I refer to as $0.
-- **8248**: "Although the technology behind it must remain secret, it is able to upgrade equipment such as your $0. However, you will need many of them to perform the upgrade.
-- **8249**: "I have left the details with my representative at the A.M.A.N. Please check with him for more information.
-- **8250**: "Simply give the $0 and the item you wish to upgrade to my compatriot at the A.M.A.N. and he will bring out the very best in your equipment. I hope you will give it a try when you get a chance."
-- **8251**: "Mommy Dearest, How have you been? I am doing well.
-- **8252**: "I'm finally getting used to my life here in Mhaura. Rycharde is an excellentaru chef. In fact, Mhauran couscous is now one of my favorite dishes.
-- **8253**: "I'm still having trouble at work though. The adventurers trying their hand at the Ambuscade are coming back with all kinds of cuts and scrapes-wapes, and sometimes in even worse shape. My days are definitely full of adventure.
-- **8254**: "P.S. Lately, I've been hooked-wooked on doing Cardian impressions. Personally, I think I've gotten pretty good at them."
-- **8255**: Everyday's a grand surprise when you take part in an Ambuscade!
-- **8256**: "Dearest Adventurer, Thanks to your most steadfast efforts, I have accumulated a veritable treasure trove of data that will surely prove useful in my studies.
-- **8257**: "But lest you think my words hollow, I have prepared an even greater set of rewards in the form of $0.
-- **8258**: "These amazing materials can be used to augment equipment such as $0. It should come as no surprise that you will need multiples of this fine new bounty in order to augment your attire.
-- **8259**: "Mommy Dearest, How have you been? I am doing well.
-- **8260**: "I've heard some scary tales of pirates boarding innocent vessels that leave here from Mhaura. And you know what's even scarier? That this pleases the adventurers to no end!
-- **8261**: "Of course, this has profoundly affected what remains of my sanity, so I asked A.M.A.N. for a mental health leave. However, they denied my request, saying that hard work is the best medicine.
-- **8262**: "P.S. Please send cookies. They may be the only thing that gets me through the dark days ahead."
-- **8263**: Which would you like? [Sulevia's plate armor./Hizamaru yoroi./Inyanga jubbah./Meghanada leather armor./Jhakri robe./Return to previous selection.]
-- **8265**: I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2.
-- **8266**: Your item will be the $37. What do you think?
-- **8267**: Which would you like? [Flamma Korazin./Tali'ah Manteel/Mummu Jacket./Ayanmo Corazza./Mallquis Saio./Go back.]
-- **8268**: Greetings and salu-walutations to you, adventurer! Allow me to bestow a Signet on you as a token of thanks for your valiantaru efforts.
-- **8269**: "Dearest Adventurer, Due to your most remarkable exploits in the Ambuscade, I have once again gleaned insights that will prove most valuable in my studies.
-- **8270**: "As is my wont, I have prepared for you a most lavish reward in the form of weapons which I call $0, and other arms in the same vein.
-- **8271**: "I have also readied for your benefit an arcane metal of my own devising, $1. While I cannot divulge the secrets behind this material, let it suffice to say that it will serve you in upgrading the aforementioned weapons, provided you are able to procure the requisite quantity.
-- **8272**: "I would also be remiss not to inform you that these weapons are still under development. That is to say, I will require yet more battle data before I can refine them to reach their true potential. As such, I would most humbly entreat your continued cooperation.
-- **8273**: "Simply deliver the requisite quantity of $0 and your weapon of choice to my compatriot at the A.M.A.N., and he will perform the necessary procedure to help unlock the item's latent powers. Do be sure to try it out, and evaluate for yourself its true potential."
-- **8274**: "Mommy Dearest, How do you fare? I am doing quite well, thank you.
-- **8275**: "The ships that set forth from Mhaura journey-wourney to a faraway empire known as Aht Urhgan. I had a thoughtaru I would like to visit it myself someday, so I began researching it in detail.
-- **8276**: "Sadly, my research found that it is so peri-werilous that even if I were to somehow make it there in one piece, a simple stroll outside town would likely be my lastaru! (Perhaps Abdhaljs would be willing to donate some of his spare armor for a worthy cause...)
-- **8277**: "P.S. It is impressive to see how the guards across the land so crisply-wisply stand at attention. Perhaps I should also try casting Signetaru myself..."
-- **8279**: What would you like to view? [The first missive from Abdhaljs./The second missive from Abdhaljs./The third missive from Abdhaljs./The fourth missive from Abdhaljs./The fifth missive from Abdhaljs./The sixth missive from Abdhaljs./The seventh missive from Abdhaljs./Return to previous selection.]
-- **8280**: Ambuscade quiz time!
-- **8281**: Which organization is in charge of Ambuscade?
-- **8282**: What is the total number of hallmarks earned by all adventurers from September 11, 2018 to October 10, 2018?
-- **8283**: Who is the cooking maestro responsible for Mhauran couscous?
-- **8284**: Womp, womp!
-- **8285**: Correct!
-- **8286**: "Dearest adventurers, "Permit me to dispense with the pleasantries and get right down to business.
-- **8287**: "The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose.
-- **8288**: "I am loath to admit that the exact workings of this new material are a trade secret, but I hope you will indulge me and content yourself in knowing that they serve as excellent catalysts for improving $0 and similar items. I say "catalysts" in the plural because more than one is needed.
-- **8289**: "I bid you not to fret--this is not the final shape that these weapons will take, but I need more detailed data before I am able to complete my research.
-- **8290**: "Mommy Dearest, How have you been? I have been doing quite well.
-- **8291**: "If you have a spare moment, could you please send me some $0? I have taken quite the liking to fishing, and am hankering to make some $2 with all the $1 I've caught.
-- **8292**: "I think I've come quite far as a cook. Perhaps that lovely Rycharde fellow will teach me a thing or two if I butter him up.
-- **8293**: "P.S. "One day, I hope to be able to fully pass the Orastery's Vana'diel Exam."
-- **8294**: Ambuscade Quiz Time, Part Two!
-- **8295**: Who is the famous personage supporting adventurers in their romps through Ambuscade?
-- **8296**: What was the average winning percentage for adventurers in the previous Ambuscade (November 10, 2018, to December 11, 2018, Earth time) across all difficulty levels (including Intense)?
-- **8297**: Where did I wish to be dispatched to?
-- **8298**: "Dearest adventurer, Once again, allow me to get straight to the point.
-- **8299**: "The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose.
-- **8300**: "Mommy Dearest, How have you been? I have been doing quite well.
-- **8301**: "Have you ever heard of soy ramen? An adventurer in the Ambuscade was eating it. I asked Rycharde and apparently it's a dish from the Far East.
-- **8302**: "I've become a pretty good cook-wook, so it's got my interest piqued. I'll make it for you if I can get all of the ingredients together.
-- **8303**: "P.S. While it's fun answering quiz questions-wuestions, I also like thinking up new ones!"
-- **8304**: Ambuscade quiz time!
-- **8305**: Get ready for the final round!
-- **8306**: What is the name of the tiny location where Abdhaljs holds the Ambuscade?
-- **8307**: How many hallmarks have you obtained in total so far?
-- **8308**: Who have I impersonated before?
-- **8309**: "At last, your weapons such as the $0 are near completion. I have prepared a material known as $1 that you will need. However, this material alone will not be enough for our requirements.
-- **8310**: "In order to complete the process, we'll also need a weapon such as the $0 that is known as a Pulse Panoplia.
-- **8311**: "The specific weapon type is of no consequence, but one Pulse Panoplia is required in order to complete one weapon. Therefore, I need you to get a Pulse Panoplia for us.
-- **8312**: "The exact technique is a trade secret, but when the Pulse Panoplia you provide combines with my $0, you will be able to complete the upgrade process for weapons such as the $1.
-- **8313**: "As you can probably imagine, you will need a fair number of $0.
-- **8314**: "If you hand the materials and the weapon you wish to upgrade over to my good friend at the A.M.A.N., he will be sure to bring out the very best in it. Go give it a try and see for yourself."
-- **8315**: "Mommy Dearest, How have you been? I have been doing quite well.
-- **8316**: "I looked-wooked into soy ramen some more, and apparently, it is a noodle dish flavored with soy sauce. There are also many other variations, such as miso or salt.
-- **8317**: "I've seen miso-wiso at the Culinarians' Guild in Windurst before. Do you think you could send me some?
-- **8318**: "P.S. Once I'm able to make ramen myself, I will send you a little projectaru I've been working on. It's a book containing all of the dishes I have made so far."
+- **8200**: Is this acceptable? [Yes./No.]
+- **8201**: $37? Got it.
+- **8202**: Enjoy, my friend!
+- **8203**: Hang on, there. You've already receive-weived that selection!
+- **8204**: That's not enough [hallmarks/badges of gallantry]!
+- **8205**: I'll be willing to part with your prize once you've gotten $# more hallmark[/s].
+- **8206**: Perhaps you may find this upsetting-wetting, but...I have no more left to give you.
+- **8207**: I'm quite certain-wertain that Abdhaljs will see fit to supply the A.M.A.N. with more prizes soon, so be sure to check back later.
+- **8208**: These missives, penned by Abdhaljs himself, are intended for those adventurers interested in trying their hands at Ambuscade.
+- **8209**: "Dearest adventurer, Let me first express my heartfelt appreciation at your interest in my latest creation. I would exchange pleasantries, but I know what you are most interested in--the spoils. So let's get down to it, hmmm?
+- **8210**: "Six types of materials are available to you: $0, $1, $2, $3, $4, and $5, as well as equipment such as $6.
+- **8212**: "I'm sure that by now you are quite familiar with how this works, so let me just mention that this system is quite similar.
+- **8213**: "%, $1, $2, $3, and $4 each have latent energies that can augment the abilities of your equipment.
+- **8214**: "$5 are unable to provide further enhancements, but the other benefits they can provide are rather unique.
+- **8215**: "But I beg of you--please do not attempt to alter the equipment yourself. I'd rather not have to pay the residents of this fine city to clean your remnants from the ground. Instead, entrust my compatriots at the A.M.A.N. to do that for you.
+- **8216**: "Whatever path you select for your equipment, I am certain it will serve you well. Goddess-speed, and may your battles end in victory!"
+- **8217**: "Mommy Dearest, It's been a few weeks since I arrived here in Mhaura, and I couldn't be more frustrated.
+- **8218**: "I requested to be stationed-wationed in Jeuno, but that incident with the cake batter must have left more than a physical stain on my records.
+- **8219**: "I miss being home-wome with you, your lovely $0, and my veritable treasure trove of books. But guess what--I get to work with the almighty Abdhaljs! His tomes are legendary, so I know I'll be able to pull through.
+- **8220**: "P.S. Whatever you do, do not open my "Shantotto Scorches Selbina" calendar."
+- **8221**: Wh-wh-what!? G-give that back! Here! Here's the right one!
+- **8222**: 
+- **8223**: This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?
+- **8224**: Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Pet: Acc./R.Acc./Atk./R.Atk.+./Pet: M.Acc./M.Dmg.+./@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
+- **8225**: Which attribute would you like? [Acc./Atk.+./R.Acc./R.Atk.+./M.Acc./M.Dmg.+./Eva./M.Eva.+./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
+- **8226**: Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Accuracy+./Attack+./Ranged Accuracy+./Ranged Attack+./Magic Accuracy+./Magic Damage+./Evasion+./Magic Evasion+./Pet: Acc./R.Acc.+./Pet: Atk./R.Atk.+./Pet: M.Acc.+./Pet: M.Dmg.+./@/@/@/Nothing for now./Go back.]
+- **8227**: Which attribute would you like? [Weapon Skill Damage+./Critical Hit Rate+./"Store TP"+./"Double Attack"+./Haste+./"Dual Wield"+./Enmity+./Enmity-./"Snapshot"+./"Magic Atk. Bonus"+./"Fast Cast"+./"Cure" Potency+./"Waltz" Potency+./Pet: Regen+./Pet: Haste+./@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
+- **8228**: Which would you like? [DEF+/Evasion+/Magic Evasion+/Physical damage taken -/Magic damage taken -/Damage taken -/Regen+/Counter+/Blocking rate +/Parry rate +/All status ailment res.+/Casting time interruption rate-/Pet: Phys. damage taken -/Pet: Magic damage taken -/Pet: Damage taken -/Pet: Regen+/@/@/@/@/@/@/@/@/Nothing for now./Go back.]
+- **8229**: Your item will look something like this-wis. What do you think?
+- **8230**: Satisfied? [Very./Not so much.]
+- **8231**: I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one.
+- **8232**: Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!
+- **8233**: Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]
+- **8234**: Enter a number $" or lower.
+- **8235**: The attributes of your $0 can be changed without resetting the values. Which would you like?
+- **8236**: Which would you like to change? [#./$1./$2./$3./$4./None of these.]
+- **8237**: Interested in your $0?
+- **8238**: I can augmentaru it a total of $1 more time[/s] using $0.
+- **8239**: It's already fully augmentarued with $0. Nothing more I can do with it.
+- **8240**: I can give-wive you the following items in exchange for $0.
+- **8242**: Ahh, it's nice to see you, good [sir/lady]. I have received a new letter.
+- **8243**: Um, you see...
+- **8244**: This letter comes from the greataru mage Abdhaljs himself.
+- **8245**: Here, you may feel free to give it a read-wead.
+- **8246**: I look forward to helping you with all of your equipment needs!
+- **8247**: "Dearest adventurer, I am pleased to hear that you have performed well in the Ambuscade.
+- **8248**: "As a token of my appreciation, I have prepared a new reward for your efforts. It is a material that I refer to as $0.
+- **8249**: "Although the technology behind it must remain secret, it is able to upgrade equipment such as your $0. However, you will need many of them to perform the upgrade.
+- **8250**: "I have left the details with my representative at the A.M.A.N. Please check with him for more information.
+- **8251**: "Simply give the $0 and the item you wish to upgrade to my compatriot at the A.M.A.N. and he will bring out the very best in your equipment. I hope you will give it a try when you get a chance."
+- **8252**: "Mommy Dearest, How have you been? I am doing well.
+- **8253**: "I'm finally getting used to my life here in Mhaura. Rycharde is an excellentaru chef. In fact, Mhauran couscous is now one of my favorite dishes.
+- **8254**: "I'm still having trouble at work though. The adventurers trying their hand at the Ambuscade are coming back with all kinds of cuts and scrapes-wapes, and sometimes in even worse shape. My days are definitely full of adventure.
+- **8255**: "P.S. Lately, I've been hooked-wooked on doing Cardian impressions. Personally, I think I've gotten pretty good at them."
+- **8256**: Everyday's a grand surprise when you take part in an Ambuscade!
+- **8257**: "Dearest Adventurer, Thanks to your most steadfast efforts, I have accumulated a veritable treasure trove of data that will surely prove useful in my studies.
+- **8258**: "But lest you think my words hollow, I have prepared an even greater set of rewards in the form of $0.
+- **8259**: "These amazing materials can be used to augment equipment such as $0. It should come as no surprise that you will need multiples of this fine new bounty in order to augment your attire.
+- **8260**: "Mommy Dearest, How have you been? I am doing well.
+- **8261**: "I've heard some scary tales of pirates boarding innocent vessels that leave here from Mhaura. And you know what's even scarier? That this pleases the adventurers to no end!
+- **8262**: "Of course, this has profoundly affected what remains of my sanity, so I asked A.M.A.N. for a mental health leave. However, they denied my request, saying that hard work is the best medicine.
+- **8263**: "P.S. Please send cookies. They may be the only thing that gets me through the dark days ahead."
+- **8264**: Which would you like? [Sulevia's plate armor./Hizamaru yoroi./Inyanga jubbah./Meghanada leather armor./Jhakri robe./Return to previous selection.]
+- **8266**: I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2.
+- **8267**: Your item will be the $37. What do you think?
+- **8268**: Which would you like? [Flamma Korazin./Tali'ah Manteel/Mummu Jacket./Ayanmo Corazza./Mallquis Saio./Go back.]
+- **8269**: Greetings and salu-walutations to you, adventurer! Allow me to bestow a Signet on you as a token of thanks for your valiantaru efforts.
+- **8270**: "Dearest Adventurer, Due to your most remarkable exploits in the Ambuscade, I have once again gleaned insights that will prove most valuable in my studies.
+- **8271**: "As is my wont, I have prepared for you a most lavish reward in the form of weapons which I call $0, and other arms in the same vein.
+- **8272**: "I have also readied for your benefit an arcane metal of my own devising, $1. While I cannot divulge the secrets behind this material, let it suffice to say that it will serve you in upgrading the aforementioned weapons, provided you are able to procure the requisite quantity.
+- **8273**: "I would also be remiss not to inform you that these weapons are still under development. That is to say, I will require yet more battle data before I can refine them to reach their true potential. As such, I would most humbly entreat your continued cooperation.
+- **8274**: "Simply deliver the requisite quantity of $0 and your weapon of choice to my compatriot at the A.M.A.N., and he will perform the necessary procedure to help unlock the item's latent powers. Do be sure to try it out, and evaluate for yourself its true potential."
+- **8275**: "Mommy Dearest, How do you fare? I am doing quite well, thank you.
+- **8276**: "The ships that set forth from Mhaura journey-wourney to a faraway empire known as Aht Urhgan. I had a thoughtaru I would like to visit it myself someday, so I began researching it in detail.
+- **8277**: "Sadly, my research found that it is so peri-werilous that even if I were to somehow make it there in one piece, a simple stroll outside town would likely be my lastaru! (Perhaps Abdhaljs would be willing to donate some of his spare armor for a worthy cause...)
+- **8278**: "P.S. It is impressive to see how the guards across the land so crisply-wisply stand at attention. Perhaps I should also try casting Signetaru myself..."
+- **8280**: What would you like to view? [The first missive from Abdhaljs./The second missive from Abdhaljs./The third missive from Abdhaljs./The fourth missive from Abdhaljs./The fifth missive from Abdhaljs./The sixth missive from Abdhaljs./The seventh missive from Abdhaljs./Return to previous selection.]
+- **8281**: Ambuscade quiz time!
+- **8282**: Which organization is in charge of Ambuscade?
+- **8283**: What is the total number of hallmarks earned by all adventurers from September 11, 2018 to October 10, 2018?
+- **8284**: Who is the cooking maestro responsible for Mhauran couscous?
+- **8285**: Womp, womp!
+- **8286**: Correct!
+- **8287**: "Dearest adventurers, "Permit me to dispense with the pleasantries and get right down to business.
+- **8288**: "The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose.
+- **8289**: "I am loath to admit that the exact workings of this new material are a trade secret, but I hope you will indulge me and content yourself in knowing that they serve as excellent catalysts for improving $0 and similar items. I say "catalysts" in the plural because more than one is needed.
+- **8290**: "I bid you not to fret--this is not the final shape that these weapons will take, but I need more detailed data before I am able to complete my research.
+- **8291**: "Mommy Dearest, How have you been? I have been doing quite well.
+- **8292**: "If you have a spare moment, could you please send me some $0? I have taken quite the liking to fishing, and am hankering to make some $2 with all the $1 I've caught.
+- **8293**: "I think I've come quite far as a cook. Perhaps that lovely Rycharde fellow will teach me a thing or two if I butter him up.
+- **8294**: "P.S. "One day, I hope to be able to fully pass the Orastery's Vana'diel Exam."
+- **8295**: Ambuscade Quiz Time, Part Two!
+- **8296**: Who is the famous personage supporting adventurers in their romps through Ambuscade?
+- **8297**: What was the average winning percentage for adventurers in the previous Ambuscade (November 10, 2018, to December 11, 2018, Earth time) across all difficulty levels (including Intense)?
+- **8298**: Where did I wish to be dispatched to?
+- **8299**: "Dearest adventurer, Once again, allow me to get straight to the point.
+- **8300**: "The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose.
+- **8301**: "Mommy Dearest, How have you been? I have been doing quite well.
+- **8302**: "Have you ever heard of soy ramen? An adventurer in the Ambuscade was eating it. I asked Rycharde and apparently it's a dish from the Far East.
+- **8303**: "I've become a pretty good cook-wook, so it's got my interest piqued. I'll make it for you if I can get all of the ingredients together.
+- **8304**: "P.S. While it's fun answering quiz questions-wuestions, I also like thinking up new ones!"
+- **8305**: Ambuscade quiz time!
+- **8306**: Get ready for the final round!
+- **8307**: What is the name of the tiny location where Abdhaljs holds the Ambuscade?
+- **8308**: How many hallmarks have you obtained in total so far?
+- **8309**: Who have I impersonated before?
+- **8310**: "At last, your weapons such as the $0 are near completion. I have prepared a material known as $1 that you will need. However, this material alone will not be enough for our requirements.
+- **8311**: "In order to complete the process, we'll also need a weapon such as the $0 that is known as a Pulse Panoplia.
+- **8312**: "The specific weapon type is of no consequence, but one Pulse Panoplia is required in order to complete one weapon. Therefore, I need you to get a Pulse Panoplia for us.
+- **8313**: "The exact technique is a trade secret, but when the Pulse Panoplia you provide combines with my $0, you will be able to complete the upgrade process for weapons such as the $1.
+- **8314**: "As you can probably imagine, you will need a fair number of $0.
+- **8315**: "If you hand the materials and the weapon you wish to upgrade over to my good friend at the A.M.A.N., he will be sure to bring out the very best in it. Go give it a try and see for yourself."
+- **8316**: "Mommy Dearest, How have you been? I have been doing quite well.
+- **8317**: "I looked-wooked into soy ramen some more, and apparently, it is a noodle dish flavored with soy sauce. There are also many other variations, such as miso or salt.
+- **8318**: "I've seen miso-wiso at the Culinarians' Guild in Windurst before. Do you think you could send me some?
+- **8319**: "P.S. Once I'm able to make ramen myself, I will send you a little projectaru I've been working on. It's a book containing all of the dishes I have made so far."
 
 ## Events
 
@@ -912,10 +912,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "A fantastic day to you, good [sir/lady]! I, Gorpa-Masorpa, have been dispatch-watched from the Adventurers' Mutual Aid Network to...to..."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "Wh-what's this? You're unfamiliar with Records of Eminence? Then firstaru speak with one of our representatives in charge of Eminence to get started."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -952,10 +952,10 @@
   0: 0x004B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0050 [0x1C] WAIT(1* ticks)
   2: 0x0053 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  3: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "A fantastic day to you, good [sir/lady]! I, Gorpa-Masorpa, have been dispatch-watched from the Adventurers' Mutual Aid Network to...to..."
   4: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+  5: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "...To ask you to set the Ambuscade Records of Eminence objective from the "Tutorial" category!"
   6: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x006A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -1021,113 +1021,113 @@
   1: 0x0096 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x009B [0x1C] WAIT(1* ticks)
   3: 0x009E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  4: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "A fantastic day to you, good [sir/lady]! I, Gorpa-Masorpa, have been dispatch-watched from the Adventurers' Mutual Aid Network to...to..."
   5: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
+  6: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
     → "...to serve adventurers..."
   7: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
   9: 0x00C2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  10: 0x00D1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  11: 0x00DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 12: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
+ 12: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
     → "...under the auspices of..."
  13: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00F1 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
  15: 0x00FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 16: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
+ 16: 0x010D [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
     → "...the great, almightaruly..."
  17: 0x0110 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0111 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
  19: 0x011E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 20: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
+ 20: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
     → "Abdhaljs! <Cough, cough>"
  21: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0131 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
  23: 0x013E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "moj0" with entities [EventEntity, EventEntity], work=40*
- 24: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
+ 24: 0x014D [0x1D] PRINT_EVENT_MESSAGE(message_id=8164*)
     → "Urk..."
  25: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8164*)
+ 26: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=8165*)
     → "Tohoho...hohohohohohohoho!"
  27: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0155 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "moj0" with entities [EventEntity, EventEntity]
  29: 0x0162 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
- 30: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8165*)
+ 30: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
     → "You, uh, see..."
  31: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0175 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  33: 0x0182 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 34: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
+ 34: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
     → "Abdhaljs, creator of the tiny, tiny place known as Legion, has seen fitaru to permit us the use of his creation!"
  35: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0195 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  37: 0x01A4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  38: 0x01B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 39: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
+ 39: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8168*)
     → "Oh, does the luck-wuck of the A.M.A.N. know no bounds!?"
  40: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x01C4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  42: 0x01D3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  43: 0x01E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 44: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8168*)
+ 44: 0x01EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
     → "This slightly repurposed Maquette Abdhaljs - Legion has undergone a variety of improvementarus by some of our association's most skilled thaumaturges."
  45: 0x01F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
+ 46: 0x01F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
     → "Steel yourselves for our latestaru creation--Ambuscade!"
  47: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
+ 48: 0x01F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
     → "In Ambuscade, you'll square off againstaru a bevy of foes just chomping at the bit to see you torn into itty-bitty pieces!"
  49: 0x01FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+ 50: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "Every month (Earth time), new challengers enter the arena, providing different challenges from the month before."
  51: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+ 52: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "Now, now, wipe that dribble off your chin, for there are a couple hoops-woops we're going to make you jump through before you can join."
  53: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
+ 54: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
     → "First, you must be in a party of up to six players."
  55: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0207 [0x03] Work_Zone[2] = 3052*
  57: 0x020C [0x03] Work_Zone[3] = 3053*
- 58: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
+ 58: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
     → "Second, you must be in possession of either $6 or $6. Either of the two will suffice."
  59: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+ 60: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "These two goodies can be procured by completaruing specific Records of Eminence objectives."
  61: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+ 62: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "You mightaru think those tasks to be laughably simple, but trust me--it keeps out the riffraff. When you're prepared, examine the Ambuscade tome and be on your way."
  63: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x021D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  65: 0x022C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  66: 0x0239 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 67: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+ 67: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "And now, I would like to discuss the rewards."
  68: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
+ 69: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
     → "Simply put, all you need to know is that victory in Ambuscade will reward you with a special currency known as hallmarks."
  70: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+ 71: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
     → "There are two varieties of reward available: those that are purchasable in exchange for a certain number of hallmarks, and those you receive once you have reached a particular-wicular running total of hallmarks."
  72: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
+ 73: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
     → "If you're inclined to join forces with other player-wayers, you'll receive an even more special currency known as "gallantry.""
  74: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=8181*)
+ 75: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
     → "It goes withoutaru saying that there are special rewards available in exchange for badges of gallantry, too."
  76: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=8182*)
+ 77: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
     → "I can see your lips quivering at the thought of receiving such extraordinary spoils!"
  78: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
+ 79: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
     → "Be advised-wised in advance that you will lose all your hallmarks and badges of gallantry once the Ambuscade has switched to new content."
  80: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0264 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  82: 0x0273 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  83: 0x0280 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl30" with entities [EventEntity, EventEntity], work=45*
- 84: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
+ 84: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
     → "That's the long and short--mostly long--of it. Now get those items and try your luck!"
  85: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
  86: 0x0293 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl30" with entities [EventEntity, EventEntity]
@@ -1662,16 +1662,16 @@
  18: 0x0305 [0x1E] EventEntity looks at LocalPlayer and starts talking
  19: 0x030A [0x1C] WAIT(1* ticks)
  20: 0x030D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl30" with entities [EventEntity, EventEntity], work=45*
- 21: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
+ 21: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=8189*)
     → "Welcome, welcome! Back for more?"
  22: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0320 [0x24] CREATE_DIALOG(message_id=8189*, default_option=ExtData[1]->WorkLocal[17], option_flags=ExtData[1]->WorkLocal[0])
+ 23: 0x0320 [0x24] CREATE_DIALOG(message_id=8190*, default_option=ExtData[1]->WorkLocal[17], option_flags=ExtData[1]->WorkLocal[0])
     → "Inquire about what? [Rewards./Ambuscade./Nothing in particular.]"
  24: 0x0327 [0x25] WAIT_DIALOG_SELECT()
  25: 0x0328 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x20A6
  26: 0x0330 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[0]
  27: 0x0335 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 28: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
+ 28: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
     → "Abdhaljs has tasked me with delivering these missives and a listaru of rewards to any and all discerning adventurers."
  29: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0348 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1682,7 +1682,7 @@
  35: 0x036B [0x03] Work_Zone[6] = 9784*
  36: 0x0370 [0x03] Work_Zone[7] = 9785*
  37: 0x0375 [0x03] ExtData[1]->WorkLocal[1] = 0*
- 38: 0x037A [0x24] CREATE_DIALOG(message_id=8192*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[1])
+ 38: 0x037A [0x24] CREATE_DIALOG(message_id=8193*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[1])
     → "What would you like to view? [Items to purchase with hallmarks./Items available for total hallmarks./Items to purchase with gallantry./Missives from Abdhaljs./Upgrades for $0./Upgrades for $1./Upgrades for $2./Upgrades for $3./Upgrades for $4./Upgrades for $5./About hallmarks and gallantry./Go back./Nothing for now.]"
  39: 0x0381 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0382 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A0A
@@ -1749,10 +1749,10 @@ SUBROUTINE_04ED:
  99: 0x0503 [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 2*) GOTO 0x053A
 100: 0x050A [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 3*) GOTO 0x053A
 101: 0x0511 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-102: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
+102: 0x0520 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
     → "Perhaps you may find this upsetting-wetting, but...I have no more left to give you."
 103: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+104: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I'm quite certain-wertain that Abdhaljs will see fit to supply the A.M.A.N. with more prizes soon, so be sure to check back later."
 105: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0528 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1888,7 +1888,7 @@ SUBROUTINE_090D:
 228: 0x0932 [0x03] ExtData[1]->WorkLocal[44] = 1*
 229: 0x0937 [0x01] GOTO 0x095F
 230: 0x093A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-231: 0x0949 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+231: 0x0949 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "That's not enough [hallmarks/badges of gallantry]!"
 232: 0x094C [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x094D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1904,17 +1904,17 @@ SUBROUTINE_0965:
 239: 0x0970 [0x03] Work_Zone_1700[28] = ExtData[1]->WorkLocal[39]
 240: 0x0975 [0x03] Work_Zone_1700[27] = ExtData[1]->WorkLocal[40]
 241: 0x097A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-242: 0x0989 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
+242: 0x0989 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
     → "$$ $0% will run you a total of $# [hallmarks/badges of gallantry]. Is this acceptable to you?"
 243: 0x098C [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x098D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-245: 0x099C [0x24] CREATE_DIALOG(message_id=8198*, default_option=1*, option_flags=0*)
+245: 0x099C [0x24] CREATE_DIALOG(message_id=8199*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Yes./No.]"
 246: 0x09A3 [0x25] WAIT_DIALOG_SELECT()
 247: 0x09A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09F9
 248: 0x09AC [0x42] SET_CLI_EVENT_CANCEL_DATA()
 249: 0x09AD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-250: 0x09BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+250: 0x09BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 251: 0x09BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x09C0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=6*)
@@ -1962,10 +1962,10 @@ SUBROUTINE_0A84:
 286: 0x0A84 [0x3E] IF !(ExtData[1]->WorkLocal[16] bit 0*) GOTO 0x0ABB
 287: 0x0A8B [0x3E] IF !(ExtData[1]->WorkLocal[16] bit 1*) GOTO 0x0ABB
 288: 0x0A92 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-289: 0x0AA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
+289: 0x0AA1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
     → "Perhaps you may find this upsetting-wetting, but...I have no more left to give you."
 290: 0x0AA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-291: 0x0AA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+291: 0x0AA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I'm quite certain-wertain that Abdhaljs will see fit to supply the A.M.A.N. with more prizes soon, so be sure to check back later."
 292: 0x0AA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0AA9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2002,13 +2002,13 @@ SUBROUTINE_0B19:
 SUBROUTINE_0CB8:
 317: 0x0CB8 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x0CC3
 318: 0x0CC0 [0x01] GOTO 0x0D20
-319: 0x0CC3 [0x24] CREATE_DIALOG(message_id=8199*, default_option=1*, option_flags=0*)
+319: 0x0CC3 [0x24] CREATE_DIALOG(message_id=8200*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Yes./No.]"
 320: 0x0CCA [0x25] WAIT_DIALOG_SELECT()
 321: 0x0CCB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D12
 322: 0x0CD3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 323: 0x0CD4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-324: 0x0CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+324: 0x0CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 325: 0x0CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x0CE7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=7*)
@@ -2056,10 +2056,10 @@ SUBROUTINE_0DC6:
 362: 0x0DCE [0x3E] IF !(ExtData[1]->WorkLocal[15] bit 0*) GOTO 0x0E05
 363: 0x0DD5 [0x3E] IF !(ExtData[1]->WorkLocal[15] bit 1*) GOTO 0x0E05
 364: 0x0DDC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-365: 0x0DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
+365: 0x0DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
     → "Perhaps you may find this upsetting-wetting, but...I have no more left to give you."
 366: 0x0DEE [0x23] WAIT_FOR_DIALOG_INTERACTION
-367: 0x0DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+367: 0x0DEF [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "I'm quite certain-wertain that Abdhaljs will see fit to supply the A.M.A.N. with more prizes soon, so be sure to check back later."
 368: 0x0DF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 369: 0x0DF3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2195,7 +2195,7 @@ SUBROUTINE_11D8:
 491: 0x11FD [0x03] ExtData[1]->WorkLocal[44] = 1*
 492: 0x1202 [0x01] GOTO 0x122A
 493: 0x1205 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-494: 0x1214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+494: 0x1214 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "That's not enough [hallmarks/badges of gallantry]!"
 495: 0x1217 [0x23] WAIT_FOR_DIALOG_INTERACTION
 496: 0x1218 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -2211,17 +2211,17 @@ SUBROUTINE_1230:
 502: 0x123B [0x03] Work_Zone_1700[28] = ExtData[1]->WorkLocal[39]
 503: 0x1240 [0x03] Work_Zone_1700[27] = ExtData[1]->WorkLocal[40]
 504: 0x1245 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-505: 0x1254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8197*)
+505: 0x1254 [0x1D] PRINT_EVENT_MESSAGE(message_id=8198*)
     → "$$ $0% will run you a total of $# [hallmarks/badges of gallantry]. Is this acceptable to you?"
 506: 0x1257 [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x1258 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-508: 0x1267 [0x24] CREATE_DIALOG(message_id=8198*, default_option=1*, option_flags=0*)
+508: 0x1267 [0x24] CREATE_DIALOG(message_id=8199*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Yes./No.]"
 509: 0x126E [0x25] WAIT_DIALOG_SELECT()
 510: 0x126F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12C4
 511: 0x1277 [0x42] SET_CLI_EVENT_CANCEL_DATA()
 512: 0x1278 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-513: 0x1287 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+513: 0x1287 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 514: 0x128A [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x128B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=10*)
@@ -2239,7 +2239,7 @@ SUBROUTINE_12D2:
 525: 0x12D2 [0x01] GOTO 0x20A3
 526: 0x12D5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1A22
 527: 0x12DD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-528: 0x12EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
+528: 0x12EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
     → "These missives, penned by Abdhaljs himself, are intended for those adventurers interested in trying their hands at Ambuscade."
 529: 0x12EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 530: 0x12F0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -2249,7 +2249,7 @@ SUBROUTINE_12D2:
 
 SUBROUTINE_131E:
 534: 0x131E [0x03] ExtData[1]->WorkLocal[29] = 0*
-535: 0x1323 [0x24] CREATE_DIALOG(message_id=8279*, default_option=ExtData[1]->WorkLocal[28], option_flags=ExtData[1]->WorkLocal[29])
+535: 0x1323 [0x24] CREATE_DIALOG(message_id=8280*, default_option=ExtData[1]->WorkLocal[28], option_flags=ExtData[1]->WorkLocal[29])
     → "What would you like to view? [The first missive from Abdhaljs./The second missive from Abdhaljs./The third missive from Abdhaljs./The fourth missive from Abdhaljs./The fifth missive from Abdhaljs./The sixth missive from Abdhaljs./The seventh missive from Abdhaljs./Return to previous selection.]"
 536: 0x132A [0x25] WAIT_DIALOG_SELECT()
 537: 0x132B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x142F
@@ -2259,39 +2259,39 @@ SUBROUTINE_131E:
 541: 0x134C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
 542: 0x1359 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
 543: 0x135E [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x13E6
-544: 0x1366 [0x48] [System] [8221*]:
+544: 0x1366 [0x48] [System] [8222*]:
     → ""
 545: 0x1369 [0x23] WAIT_FOR_DIALOG_INTERACTION
-546: 0x136A [0x48] [System] [8216*]:
+546: 0x136A [0x48] [System] [8217*]:
     → ""Mommy Dearest, It's been a few weeks since I arrived here in Mhaura, and I couldn't be more frustrated."
 547: 0x136D [0x23] WAIT_FOR_DIALOG_INTERACTION
 548: 0x136E [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
 549: 0x1373 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x13AA
-550: 0x137B [0x48] [System] [8217*]:
+550: 0x137B [0x48] [System] [8218*]:
     → ""I requested to be stationed-wationed in Jeuno, but that incident with the cake batter must have left more than a physical stain on my records."
 551: 0x137E [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x137F [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
 553: 0x1384 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x13AA
 554: 0x138C [0x03] Work_Zone[2] = 5189*
-555: 0x1391 [0x48] [System] [8218*]:
+555: 0x1391 [0x48] [System] [8219*]:
     → ""I miss being home-wome with you, your lovely $0, and my veritable treasure trove of books. But guess what--I get to work with the almighty Abdhaljs! His tomes are legendary, so I know I'll be able to pull through."
 556: 0x1394 [0x23] WAIT_FOR_DIALOG_INTERACTION
 557: 0x1395 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
 558: 0x139A [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x13AA
-559: 0x13A2 [0x48] [System] [8219*]:
+559: 0x13A2 [0x48] [System] [8220*]:
     → ""P.S. Whatever you do, do not open my "Shantotto Scorches Selbina" calendar.""
 560: 0x13A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-561: 0x13A6 [0x48] [System] [8221*]:
+561: 0x13A6 [0x48] [System] [8222*]:
     → ""
 562: 0x13A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 563: 0x13AA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
-564: 0x13B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+564: 0x13B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
 565: 0x13BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 566: 0x13BD [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
 567: 0x13CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
 568: 0x13D9 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
-569: 0x13E6 [0x48] [System] [8221*]:
+569: 0x13E6 [0x48] [System] [8222*]:
     → ""
 570: 0x13E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 571: 0x13EA [0x03] Work_Zone[2] = 9220*
@@ -2301,25 +2301,25 @@ SUBROUTINE_131E:
 575: 0x13FE [0x03] Work_Zone[6] = 9224*
 576: 0x1403 [0x03] Work_Zone[7] = 9225*
 577: 0x1408 [0x03] Work_Zone[8] = 26246*
-578: 0x140D [0x48] [System] [8208*]:
+578: 0x140D [0x48] [System] [8209*]:
     → ""Dearest adventurer, Let me first express my heartfelt appreciation at your interest in my latest creation. I would exchange pleasantries, but I know what you are most interested in--the spoils. So let's get down to it, hmmm?"
 579: 0x1410 [0x23] WAIT_FOR_DIALOG_INTERACTION
-580: 0x1411 [0x48] [System] [8209*]:
+580: 0x1411 [0x48] [System] [8210*]:
     → ""Six types of materials are available to you: $0, $1, $2, $3, $4, and $5, as well as equipment such as $6."
 581: 0x1414 [0x23] WAIT_FOR_DIALOG_INTERACTION
-582: 0x1415 [0x48] [System] [8211*]:
+582: 0x1415 [0x48] [System] [8212*]:
     → ""I'm sure that by now you are quite familiar with how this works, so let me just mention that this system is quite similar."
 583: 0x1418 [0x23] WAIT_FOR_DIALOG_INTERACTION
-584: 0x1419 [0x48] [System] [8212*]:
+584: 0x1419 [0x48] [System] [8213*]:
     → ""%, $1, $2, $3, and $4 each have latent energies that can augment the abilities of your equipment."
 585: 0x141C [0x23] WAIT_FOR_DIALOG_INTERACTION
-586: 0x141D [0x48] [System] [8213*]:
+586: 0x141D [0x48] [System] [8214*]:
     → ""$5 are unable to provide further enhancements, but the other benefits they can provide are rather unique."
 587: 0x1420 [0x23] WAIT_FOR_DIALOG_INTERACTION
-588: 0x1421 [0x48] [System] [8214*]:
+588: 0x1421 [0x48] [System] [8215*]:
     → ""But I beg of you--please do not attempt to alter the equipment yourself. I'd rather not have to pay the residents of this fine city to clean your remnants from the ground. Instead, entrust my compatriots at the A.M.A.N. to do that for you."
 589: 0x1424 [0x23] WAIT_FOR_DIALOG_INTERACTION
-590: 0x1425 [0x48] [System] [8215*]:
+590: 0x1425 [0x48] [System] [8216*]:
     → ""Whatever path you select for your equipment, I am certain it will serve you well. Goddess-speed, and may your battles end in victory!""
 591: 0x1428 [0x23] WAIT_FOR_DIALOG_INTERACTION
 592: 0x1429 [0x01] GOTO 0x131E
@@ -2329,7 +2329,7 @@ SUBROUTINE_1A1F:
 594: 0x1A22 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1BF3
 595: 0x1A2A [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
 596: 0x1A2F [0x03] ExtData[1]->WorkLocal[21] = 0*
-597: 0x1A34 [0x24] CREATE_DIALOG(message_id=8263*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[12])
+597: 0x1A34 [0x24] CREATE_DIALOG(message_id=8264*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[12])
     → "Which would you like? [Sulevia's plate armor./Hizamaru yoroi./Inyanga jubbah./Meghanada leather armor./Jhakri robe./Return to previous selection.]"
 598: 0x1A3B [0x25] WAIT_DIALOG_SELECT()
 599: 0x1A3C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1A4F
@@ -2398,7 +2398,7 @@ SUBROUTINE_1BC9:
 
 SUBROUTINE_1BE3:
 652: 0x1BE3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-653: 0x1BE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+653: 0x1BE6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2."
 654: 0x1BE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 655: 0x1BEA [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2407,7 +2407,7 @@ SUBROUTINE_1BE3:
 658: 0x1BF3 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1DC4
 659: 0x1BFB [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
 660: 0x1C00 [0x03] ExtData[1]->WorkLocal[21] = 0*
-661: 0x1C05 [0x24] CREATE_DIALOG(message_id=8267*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[12])
+661: 0x1C05 [0x24] CREATE_DIALOG(message_id=8268*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[12])
     → "Which would you like? [Flamma Korazin./Tali'ah Manteel/Mummu Jacket./Ayanmo Corazza./Mallquis Saio./Go back.]"
 662: 0x1C0C [0x25] WAIT_DIALOG_SELECT()
 663: 0x1C0D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1C20
@@ -2476,7 +2476,7 @@ SUBROUTINE_1D9A:
 
 SUBROUTINE_1DB4:
 716: 0x1DB4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-717: 0x1DB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+717: 0x1DB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2."
 718: 0x1DBA [0x23] WAIT_FOR_DIALOG_INTERACTION
 719: 0x1DBB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2501,7 +2501,7 @@ SUBROUTINE_1DD6:
 736: 0x1E40 [0x03] Work_Zone[4] = 9782*
 737: 0x1E45 [0x03] Work_Zone[5] = 5*
 738: 0x1E4A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-739: 0x1E4D [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+739: 0x1E4D [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2."
 740: 0x1E50 [0x23] WAIT_FOR_DIALOG_INTERACTION
 741: 0x1E51 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2523,7 +2523,7 @@ SUBROUTINE_1E6C:
 755: 0x1ED6 [0x03] Work_Zone[4] = 9783*
 756: 0x1EDB [0x03] Work_Zone[5] = 5*
 757: 0x1EE0 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-758: 0x1EE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+758: 0x1EE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "I see you have chosen the $0. A fine choice-woice, if you ask me. That will require $1 and $3 $2."
 759: 0x1EE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 760: 0x1EE7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2568,22 +2568,22 @@ SUBROUTINE_20A3:
 793: 0x20B3 [0x03] Work_Zone[2] = 3052*
 794: 0x20B8 [0x03] Work_Zone[3] = 3053*
 795: 0x20BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-796: 0x20CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8190*)
+796: 0x20CC [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
     → "All Ambuscade battles play out in the same location as Legion, with the exact composition of enemies changing-wanging each month (Earth time)."
 797: 0x20CF [0x23] WAIT_FOR_DIALOG_INTERACTION
-798: 0x20D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+798: 0x20D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "Now, now, wipe that dribble off your chin, for there are a couple hoops-woops we're going to make you jump through before you can join."
 799: 0x20D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-800: 0x20D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
+800: 0x20D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
     → "First, you must be in a party of up to six players."
 801: 0x20D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-802: 0x20D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8174*)
+802: 0x20D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
     → "Second, you must be in possession of either $6 or $6. Either of the two will suffice."
 803: 0x20DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-804: 0x20DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8175*)
+804: 0x20DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
     → "These two goodies can be procured by completaruing specific Records of Eminence objectives."
 805: 0x20DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-806: 0x20E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8176*)
+806: 0x20E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
     → "You mightaru think those tasks to be laughably simple, but trust me--it keeps out the riffraff. When you're prepared, examine the Ambuscade tome and be on your way."
 807: 0x20E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 808: 0x20E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -3184,14 +3184,14 @@ SUBROUTINE_2190:
  31: 0x21B4 [0x01] GOTO 0x2190
  32: 0x21B7 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x22B4
  33: 0x21BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 34: 0x21CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+ 34: 0x21CE [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?"
  35: 0x21D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_21D2:
  36: 0x21D2 [0x03] ExtData[1]->WorkLocal[44] = 0*
  37: 0x21D7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=25*, condition_work_offset=1*)
- 38: 0x21DE [0x24] CREATE_DIALOG(message_id=8223*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+ 38: 0x21DE [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Pet: Acc./R.Acc./Atk./R.Atk.+./Pet: M.Acc./M.Dmg.+./@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
  39: 0x21E5 [0x25] WAIT_DIALOG_SELECT()
  40: 0x21E6 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x21FA
@@ -3203,12 +3203,12 @@ SUBROUTINE_21D2:
 SUBROUTINE_2260:
  45: 0x2260 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x226B
  46: 0x2268 [0x01] GOTO 0x22B1
- 47: 0x226B [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+ 47: 0x226B [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
  48: 0x2272 [0x25] WAIT_DIALOG_SELECT()
  49: 0x2273 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x22A3
  50: 0x227B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 51: 0x228A [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+ 51: 0x228A [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
  52: 0x228D [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x228E [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3237,13 +3237,13 @@ SUBROUTINE_22E3:
  70: 0x22F3 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[67] (bits 27*-31*)
  71: 0x22FC [0x02] IF !(ExtData[1]->WorkLocal[41] < 19*) GOTO 0x2321
  72: 0x2304 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 73: 0x2313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+ 73: 0x2313 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!"
  74: 0x2316 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x2317 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
  76: 0x231E [0x01] GOTO 0x2334
  77: 0x2321 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 78: 0x2330 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+ 78: 0x2330 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one."
  79: 0x2333 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3251,7 +3251,7 @@ SUBROUTINE_2334:
  80: 0x2334 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[67] (bits 27*-31*)
  81: 0x233D [0x03] Work_Zone[2] = 19*
  82: 0x2342 [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[41]
- 83: 0x2347 [0x24] CREATE_DIALOG(message_id=8232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+ 83: 0x2347 [0x24] CREATE_DIALOG(message_id=8233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]"
  84: 0x234E [0x25] WAIT_DIALOG_SELECT()
  85: 0x234F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23DD
@@ -3262,16 +3262,16 @@ SUBROUTINE_2334:
  90: 0x2371 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
  91: 0x237A [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
  92: 0x2383 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=Work_Zone[2], buffer2=ExtData[1]->WorkLocal[68], buffer3=ExtData[1]->WorkLocal[69])
- 93: 0x238D [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+ 93: 0x238D [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
  94: 0x2390 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x2391 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 96: 0x2394 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+ 96: 0x2394 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
  97: 0x239B [0x25] WAIT_DIALOG_SELECT()
  98: 0x239C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x23CC
  99: 0x23A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-100: 0x23B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+100: 0x23B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 101: 0x23B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x23B7 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3288,7 +3288,7 @@ SUBROUTINE_23E5:
 109: 0x23E5 [0x03] ExtData[1]->WorkLocal[44] = 0*
 110: 0x23EA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=ExtData[1]->WorkLocal[40], condition_work_offset=1*)
 111: 0x23F1 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=24*, condition_work_offset=1*)
-112: 0x23F8 [0x24] CREATE_DIALOG(message_id=8223*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+112: 0x23F8 [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Pet: Acc./R.Acc./Atk./R.Atk.+./Pet: M.Acc./M.Dmg.+./@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 113: 0x23FF [0x25] WAIT_DIALOG_SELECT()
 114: 0x2400 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x2414
@@ -3300,12 +3300,12 @@ SUBROUTINE_23E5:
 SUBROUTINE_2489:
 119: 0x2489 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x2494
 120: 0x2491 [0x01] GOTO 0x24DA
-121: 0x2494 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+121: 0x2494 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 122: 0x249B [0x25] WAIT_DIALOG_SELECT()
 123: 0x249C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24CC
 124: 0x24A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-125: 0x24B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+125: 0x24B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 126: 0x24B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x24B7 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3330,16 +3330,16 @@ SUBROUTINE_24F1:
 142: 0x2519 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 143: 0x2522 [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 144: 0x252B [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=Work_Zone[2], buffer2=ExtData[1]->WorkLocal[68], buffer3=ExtData[1]->WorkLocal[69])
-145: 0x2535 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+145: 0x2535 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 146: 0x2538 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x2539 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-148: 0x253C [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+148: 0x253C [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 149: 0x2543 [0x25] WAIT_DIALOG_SELECT()
 150: 0x2544 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2574
 151: 0x254C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-152: 0x255B [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+152: 0x255B [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 153: 0x255E [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x255F [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3365,14 +3365,14 @@ SUBROUTINE_25A6:
 170: 0x25CA [0x01] GOTO 0x25A6
 171: 0x25CD [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x26CA
 172: 0x25D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-173: 0x25E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+173: 0x25E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?"
 174: 0x25E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_25E8:
 175: 0x25E8 [0x03] ExtData[1]->WorkLocal[44] = 0*
 176: 0x25ED [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=25*, condition_work_offset=1*)
-177: 0x25F4 [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+177: 0x25F4 [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [Acc./Atk.+./R.Acc./R.Atk.+./M.Acc./M.Dmg.+./Eva./M.Eva.+./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 178: 0x25FB [0x25] WAIT_DIALOG_SELECT()
 179: 0x25FC [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x2610
@@ -3384,12 +3384,12 @@ SUBROUTINE_25E8:
 SUBROUTINE_2676:
 184: 0x2676 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x2681
 185: 0x267E [0x01] GOTO 0x26C7
-186: 0x2681 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+186: 0x2681 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 187: 0x2688 [0x25] WAIT_DIALOG_SELECT()
 188: 0x2689 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x26B9
 189: 0x2691 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-190: 0x26A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+190: 0x26A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 191: 0x26A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x26A4 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3418,13 +3418,13 @@ SUBROUTINE_26F9:
 209: 0x2709 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[68] (bits 11*-15*)
 210: 0x2712 [0x02] IF !(ExtData[1]->WorkLocal[41] < 19*) GOTO 0x2737
 211: 0x271A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-212: 0x2729 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+212: 0x2729 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!"
 213: 0x272C [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x272D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
 215: 0x2734 [0x01] GOTO 0x274A
 216: 0x2737 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-217: 0x2746 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+217: 0x2746 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one."
 218: 0x2749 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3432,7 +3432,7 @@ SUBROUTINE_274A:
 219: 0x274A [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[68] (bits 11*-15*)
 220: 0x2753 [0x03] Work_Zone[2] = 19*
 221: 0x2758 [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[41]
-222: 0x275D [0x24] CREATE_DIALOG(message_id=8232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+222: 0x275D [0x24] CREATE_DIALOG(message_id=8233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]"
 223: 0x2764 [0x25] WAIT_DIALOG_SELECT()
 224: 0x2765 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x27F3
@@ -3443,16 +3443,16 @@ SUBROUTINE_274A:
 229: 0x2787 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 230: 0x2790 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 231: 0x2799 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=Work_Zone[2], buffer3=ExtData[1]->WorkLocal[69])
-232: 0x27A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+232: 0x27A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 233: 0x27A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x27A7 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-235: 0x27AA [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+235: 0x27AA [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 236: 0x27B1 [0x25] WAIT_DIALOG_SELECT()
 237: 0x27B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x27E2
 238: 0x27BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-239: 0x27C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+239: 0x27C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 240: 0x27CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x27CD [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3469,7 +3469,7 @@ SUBROUTINE_27FB:
 248: 0x27FB [0x03] ExtData[1]->WorkLocal[44] = 0*
 249: 0x2800 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=ExtData[1]->WorkLocal[40], condition_work_offset=1*)
 250: 0x2807 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=24*, condition_work_offset=1*)
-251: 0x280E [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+251: 0x280E [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [Acc./Atk.+./R.Acc./R.Atk.+./M.Acc./M.Dmg.+./Eva./M.Eva.+./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 252: 0x2815 [0x25] WAIT_DIALOG_SELECT()
 253: 0x2816 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x282A
@@ -3481,12 +3481,12 @@ SUBROUTINE_27FB:
 SUBROUTINE_289F:
 258: 0x289F [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x28AA
 259: 0x28A7 [0x01] GOTO 0x28F0
-260: 0x28AA [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+260: 0x28AA [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 261: 0x28B1 [0x25] WAIT_DIALOG_SELECT()
 262: 0x28B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x28E2
 263: 0x28BA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-264: 0x28C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+264: 0x28C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 265: 0x28CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x28CD [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3511,16 +3511,16 @@ SUBROUTINE_2907:
 281: 0x292F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 282: 0x2938 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 283: 0x2941 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=Work_Zone[2], buffer3=ExtData[1]->WorkLocal[69])
-284: 0x294B [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+284: 0x294B [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 285: 0x294E [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x294F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-287: 0x2952 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+287: 0x2952 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 288: 0x2959 [0x25] WAIT_DIALOG_SELECT()
 289: 0x295A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x298A
 290: 0x2962 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-291: 0x2971 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+291: 0x2971 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 292: 0x2974 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x2975 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3546,14 +3546,14 @@ SUBROUTINE_29BC:
 309: 0x29E0 [0x01] GOTO 0x29BC
 310: 0x29E3 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x2AE0
 311: 0x29EB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-312: 0x29FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+312: 0x29FA [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?"
 313: 0x29FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_29FE:
 314: 0x29FE [0x03] ExtData[1]->WorkLocal[44] = 0*
 315: 0x2A03 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=25*, condition_work_offset=1*)
-316: 0x2A0A [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+316: 0x2A0A [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Accuracy+./Attack+./Ranged Accuracy+./Ranged Attack+./Magic Accuracy+./Magic Damage+./Evasion+./Magic Evasion+./Pet: Acc./R.Acc.+./Pet: Atk./R.Atk.+./Pet: M.Acc.+./Pet: M.Dmg.+./@/@/@/Nothing for now./Go back.]"
 317: 0x2A11 [0x25] WAIT_DIALOG_SELECT()
 318: 0x2A12 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x2A26
@@ -3565,12 +3565,12 @@ SUBROUTINE_29FE:
 SUBROUTINE_2A8C:
 323: 0x2A8C [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x2A97
 324: 0x2A94 [0x01] GOTO 0x2ADD
-325: 0x2A97 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+325: 0x2A97 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 326: 0x2A9E [0x25] WAIT_DIALOG_SELECT()
 327: 0x2A9F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2ACF
 328: 0x2AA7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-329: 0x2AB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+329: 0x2AB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 330: 0x2AB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 331: 0x2ABA [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3599,13 +3599,13 @@ SUBROUTINE_2B0F:
 348: 0x2B1F [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[68] (bits 27*-31*)
 349: 0x2B28 [0x02] IF !(ExtData[1]->WorkLocal[41] < 9*) GOTO 0x2B4D
 350: 0x2B30 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-351: 0x2B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+351: 0x2B3F [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!"
 352: 0x2B42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x2B43 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
 354: 0x2B4A [0x01] GOTO 0x2B60
 355: 0x2B4D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-356: 0x2B5C [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+356: 0x2B5C [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one."
 357: 0x2B5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3613,7 +3613,7 @@ SUBROUTINE_2B60:
 358: 0x2B60 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[68] (bits 27*-31*)
 359: 0x2B69 [0x03] Work_Zone[2] = 9*
 360: 0x2B6E [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[41]
-361: 0x2B73 [0x24] CREATE_DIALOG(message_id=8232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+361: 0x2B73 [0x24] CREATE_DIALOG(message_id=8233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]"
 362: 0x2B7A [0x25] WAIT_DIALOG_SELECT()
 363: 0x2B7B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2C09
@@ -3624,16 +3624,16 @@ SUBROUTINE_2B60:
 368: 0x2B9D [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 369: 0x2BA6 [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 370: 0x2BAF [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=Work_Zone[2], buffer3=ExtData[1]->WorkLocal[69])
-371: 0x2BB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+371: 0x2BB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 372: 0x2BBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x2BBD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-374: 0x2BC0 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+374: 0x2BC0 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 375: 0x2BC7 [0x25] WAIT_DIALOG_SELECT()
 376: 0x2BC8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2BF8
 377: 0x2BD0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-378: 0x2BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+378: 0x2BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 379: 0x2BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 380: 0x2BE3 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3650,7 +3650,7 @@ SUBROUTINE_2C11:
 387: 0x2C11 [0x03] ExtData[1]->WorkLocal[44] = 0*
 388: 0x2C16 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=ExtData[1]->WorkLocal[40], condition_work_offset=1*)
 389: 0x2C1D [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=24*, condition_work_offset=1*)
-390: 0x2C24 [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+390: 0x2C24 [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Accuracy+./Attack+./Ranged Accuracy+./Ranged Attack+./Magic Accuracy+./Magic Damage+./Evasion+./Magic Evasion+./Pet: Acc./R.Acc.+./Pet: Atk./R.Atk.+./Pet: M.Acc.+./Pet: M.Dmg.+./@/@/@/Nothing for now./Go back.]"
 391: 0x2C2B [0x25] WAIT_DIALOG_SELECT()
 392: 0x2C2C [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x2C40
@@ -3662,12 +3662,12 @@ SUBROUTINE_2C11:
 SUBROUTINE_2CB5:
 397: 0x2CB5 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x2CC0
 398: 0x2CBD [0x01] GOTO 0x2D06
-399: 0x2CC0 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+399: 0x2CC0 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 400: 0x2CC7 [0x25] WAIT_DIALOG_SELECT()
 401: 0x2CC8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2CF8
 402: 0x2CD0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-403: 0x2CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+403: 0x2CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 404: 0x2CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 405: 0x2CE3 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3692,16 +3692,16 @@ SUBROUTINE_2D1D:
 420: 0x2D45 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 421: 0x2D4E [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 422: 0x2D57 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=Work_Zone[2], buffer3=ExtData[1]->WorkLocal[69])
-423: 0x2D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+423: 0x2D61 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 424: 0x2D64 [0x23] WAIT_FOR_DIALOG_INTERACTION
 425: 0x2D65 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-426: 0x2D68 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+426: 0x2D68 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 427: 0x2D6F [0x25] WAIT_DIALOG_SELECT()
 428: 0x2D70 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2DA0
 429: 0x2D78 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-430: 0x2D87 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+430: 0x2D87 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 431: 0x2D8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 432: 0x2D8B [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3727,14 +3727,14 @@ SUBROUTINE_2DD2:
 448: 0x2DF6 [0x01] GOTO 0x2DD2
 449: 0x2DF9 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x2EF6
 450: 0x2E01 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-451: 0x2E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+451: 0x2E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?"
 452: 0x2E13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_2E14:
 453: 0x2E14 [0x03] ExtData[1]->WorkLocal[44] = 0*
 454: 0x2E19 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=25*, condition_work_offset=1*)
-455: 0x2E20 [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+455: 0x2E20 [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [Weapon Skill Damage+./Critical Hit Rate+./"Store TP"+./"Double Attack"+./Haste+./"Dual Wield"+./Enmity+./Enmity-./"Snapshot"+./"Magic Atk. Bonus"+./"Fast Cast"+./"Cure" Potency+./"Waltz" Potency+./Pet: Regen+./Pet: Haste+./@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 456: 0x2E27 [0x25] WAIT_DIALOG_SELECT()
 457: 0x2E28 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x2E3C
@@ -3746,12 +3746,12 @@ SUBROUTINE_2E14:
 SUBROUTINE_2EA2:
 462: 0x2EA2 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x2EAD
 463: 0x2EAA [0x01] GOTO 0x2EF3
-464: 0x2EAD [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+464: 0x2EAD [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 465: 0x2EB4 [0x25] WAIT_DIALOG_SELECT()
 466: 0x2EB5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2EE5
 467: 0x2EBD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-468: 0x2ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+468: 0x2ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 469: 0x2ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
 470: 0x2ED0 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3780,13 +3780,13 @@ SUBROUTINE_2F25:
 487: 0x2F35 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[69] (bits 11*-15*)
 488: 0x2F3E [0x02] IF !(ExtData[1]->WorkLocal[41] < 9*) GOTO 0x2F63
 489: 0x2F46 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-490: 0x2F55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+490: 0x2F55 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!"
 491: 0x2F58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x2F59 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
 493: 0x2F60 [0x01] GOTO 0x2F76
 494: 0x2F63 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-495: 0x2F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+495: 0x2F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one."
 496: 0x2F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3794,7 +3794,7 @@ SUBROUTINE_2F76:
 497: 0x2F76 [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[69] (bits 11*-15*)
 498: 0x2F7F [0x03] Work_Zone[2] = 9*
 499: 0x2F84 [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[41]
-500: 0x2F89 [0x24] CREATE_DIALOG(message_id=8232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+500: 0x2F89 [0x24] CREATE_DIALOG(message_id=8233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]"
 501: 0x2F90 [0x25] WAIT_DIALOG_SELECT()
 502: 0x2F91 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x301F
@@ -3805,16 +3805,16 @@ SUBROUTINE_2F76:
 507: 0x2FB3 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 508: 0x2FBC [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 509: 0x2FC5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=ExtData[1]->WorkLocal[68], buffer3=Work_Zone[2])
-510: 0x2FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+510: 0x2FCF [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 511: 0x2FD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 512: 0x2FD3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-513: 0x2FD6 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+513: 0x2FD6 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 514: 0x2FDD [0x25] WAIT_DIALOG_SELECT()
 515: 0x2FDE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x300E
 516: 0x2FE6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-517: 0x2FF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+517: 0x2FF5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 518: 0x2FF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x2FF9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3831,7 +3831,7 @@ SUBROUTINE_3027:
 526: 0x3027 [0x03] ExtData[1]->WorkLocal[44] = 0*
 527: 0x302C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=ExtData[1]->WorkLocal[40], condition_work_offset=1*)
 528: 0x3033 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=24*, condition_work_offset=1*)
-529: 0x303A [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+529: 0x303A [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which attribute would you like? [Weapon Skill Damage+./Critical Hit Rate+./"Store TP"+./"Double Attack"+./Haste+./"Dual Wield"+./Enmity+./Enmity-./"Snapshot"+./"Magic Atk. Bonus"+./"Fast Cast"+./"Cure" Potency+./"Waltz" Potency+./Pet: Regen+./Pet: Haste+./@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 530: 0x3041 [0x25] WAIT_DIALOG_SELECT()
 531: 0x3042 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3056
@@ -3843,12 +3843,12 @@ SUBROUTINE_3027:
 SUBROUTINE_30CB:
 536: 0x30CB [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x30D6
 537: 0x30D3 [0x01] GOTO 0x311C
-538: 0x30D6 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+538: 0x30D6 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 539: 0x30DD [0x25] WAIT_DIALOG_SELECT()
 540: 0x30DE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x310E
 541: 0x30E6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-542: 0x30F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+542: 0x30F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 543: 0x30F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x30F9 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3873,16 +3873,16 @@ SUBROUTINE_3133:
 559: 0x315B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 560: 0x3164 [0x40] SET_BIT_WORK_RANGE(start_bit=11*, end_bit=15*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 561: 0x316D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=ExtData[1]->WorkLocal[68], buffer3=Work_Zone[2])
-562: 0x3177 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+562: 0x3177 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 563: 0x317A [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x317B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-565: 0x317E [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+565: 0x317E [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 566: 0x3185 [0x25] WAIT_DIALOG_SELECT()
 567: 0x3186 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x31B6
 568: 0x318E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-569: 0x319D [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+569: 0x319D [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 570: 0x31A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 571: 0x31A1 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -3908,14 +3908,14 @@ SUBROUTINE_31E8:
 587: 0x320C [0x01] GOTO 0x31E8
 588: 0x320F [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x330C
 589: 0x3217 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-590: 0x3226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+590: 0x3226 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "This is your first time utilizing $0 to boost the capabilities of your $1. Which would you like?"
 591: 0x3229 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_322A:
 592: 0x322A [0x03] ExtData[1]->WorkLocal[44] = 0*
 593: 0x322F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=25*, condition_work_offset=1*)
-594: 0x3236 [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+594: 0x3236 [0x24] CREATE_DIALOG(message_id=8228*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which would you like? [DEF+/Evasion+/Magic Evasion+/Physical damage taken -/Magic damage taken -/Damage taken -/Regen+/Counter+/Blocking rate +/Parry rate +/All status ailment res.+/Casting time interruption rate-/Pet: Phys. damage taken -/Pet: Magic damage taken -/Pet: Damage taken -/Pet: Regen+/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 595: 0x323D [0x25] WAIT_DIALOG_SELECT()
 596: 0x323E [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3252
@@ -3927,12 +3927,12 @@ SUBROUTINE_322A:
 SUBROUTINE_32B8:
 601: 0x32B8 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x32C3
 602: 0x32C0 [0x01] GOTO 0x3309
-603: 0x32C3 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+603: 0x32C3 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 604: 0x32CA [0x25] WAIT_DIALOG_SELECT()
 605: 0x32CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x32FB
 606: 0x32D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-607: 0x32E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+607: 0x32E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 608: 0x32E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 609: 0x32E6 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -3961,13 +3961,13 @@ SUBROUTINE_333B:
 626: 0x334B [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[69] (bits 27*-31*)
 627: 0x3354 [0x02] IF !(ExtData[1]->WorkLocal[41] < 4*) GOTO 0x3379
 628: 0x335C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-629: 0x336B [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+629: 0x336B [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "Unfortunately for you, I cannot augment that any further. Changing attributes, however, will be a breeze!"
 630: 0x336E [0x23] WAIT_FOR_DIALOG_INTERACTION
 631: 0x336F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=0*, condition_work_offset=1*)
 632: 0x3376 [0x01] GOTO 0x338C
 633: 0x3379 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-634: 0x3388 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+634: 0x3388 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "I am, of course, more than capable of further enhancing your gear, or even changing its attributes altogether. Of course, if you choose to discard-ward all the hard work we've done so far, we'll be starting from square one."
 635: 0x338B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -3975,7 +3975,7 @@ SUBROUTINE_338C:
 636: 0x338C [0x41] ExtData[1]->WorkLocal[41] = ExtData[1]->WorkLocal[69] (bits 27*-31*)
 637: 0x3395 [0x03] Work_Zone[2] = 4*
 638: 0x339A [0x08] Work_Zone[2] -= ExtData[1]->WorkLocal[41]
-639: 0x339F [0x24] CREATE_DIALOG(message_id=8232*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
+639: 0x339F [0x24] CREATE_DIALOG(message_id=8233*, default_option=0*, option_flags=ExtData[1]->WorkLocal[5])
     → "Pick your poison. [Further augment. ($0 time[/s] left)/Change attributes./Think about it some more.]"
 640: 0x33A6 [0x25] WAIT_DIALOG_SELECT()
 641: 0x33A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3435
@@ -3986,16 +3986,16 @@ SUBROUTINE_338C:
 646: 0x33C9 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 647: 0x33D2 [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 648: 0x33DB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=ExtData[1]->WorkLocal[68], buffer3=Work_Zone[2])
-649: 0x33E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+649: 0x33E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 650: 0x33E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 651: 0x33E9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-652: 0x33EC [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+652: 0x33EC [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 653: 0x33F3 [0x25] WAIT_DIALOG_SELECT()
 654: 0x33F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3424
 655: 0x33FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-656: 0x340B [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+656: 0x340B [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 657: 0x340E [0x23] WAIT_FOR_DIALOG_INTERACTION
 658: 0x340F [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -4012,7 +4012,7 @@ SUBROUTINE_343D:
 665: 0x343D [0x03] ExtData[1]->WorkLocal[44] = 0*
 666: 0x3442 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=ExtData[1]->WorkLocal[40], condition_work_offset=1*)
 667: 0x3449 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=24*, condition_work_offset=1*)
-668: 0x3450 [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
+668: 0x3450 [0x24] CREATE_DIALOG(message_id=8228*, default_option=ExtData[1]->WorkLocal[21], option_flags=ExtData[1]->WorkLocal[4])
     → "Which would you like? [DEF+/Evasion+/Magic Evasion+/Physical damage taken -/Magic damage taken -/Damage taken -/Regen+/Counter+/Blocking rate +/Parry rate +/All status ailment res.+/Casting time interruption rate-/Pet: Phys. damage taken -/Pet: Magic damage taken -/Pet: Damage taken -/Pet: Regen+/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 669: 0x3457 [0x25] WAIT_DIALOG_SELECT()
 670: 0x3458 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x346C
@@ -4024,12 +4024,12 @@ SUBROUTINE_343D:
 SUBROUTINE_34E1:
 675: 0x34E1 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x34EC
 676: 0x34E9 [0x01] GOTO 0x3532
-677: 0x34EC [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+677: 0x34EC [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 678: 0x34F3 [0x25] WAIT_DIALOG_SELECT()
 679: 0x34F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3524
 680: 0x34FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-681: 0x350B [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+681: 0x350B [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 682: 0x350E [0x23] WAIT_FOR_DIALOG_INTERACTION
 683: 0x350F [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=2*)
@@ -4054,16 +4054,16 @@ SUBROUTINE_3549:
 698: 0x3571 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=26*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[39])
 699: 0x357A [0x40] SET_BIT_WORK_RANGE(start_bit=27*, end_bit=31*, target=Work_Zone[2], source=ExtData[1]->WorkLocal[41])
 700: 0x3583 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[65], buffer1=ExtData[1]->WorkLocal[67], buffer2=ExtData[1]->WorkLocal[68], buffer3=Work_Zone[2])
-701: 0x358D [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+701: 0x358D [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "Your item will look something like this-wis. What do you think?"
 702: 0x3590 [0x23] WAIT_FOR_DIALOG_INTERACTION
 703: 0x3591 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-704: 0x3594 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+704: 0x3594 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 705: 0x359B [0x25] WAIT_DIALOG_SELECT()
 706: 0x359C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x35CC
 707: 0x35A4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-708: 0x35B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+708: 0x35B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 709: 0x35B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 710: 0x35B7 [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=1*)
@@ -4099,7 +4099,7 @@ SUBROUTINE_35E0:
 738: 0x3677 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x3686
 739: 0x367F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[6], bit_index_work_offset=4*, condition_work_offset=1*)
 740: 0x3686 [0x03] Work_Zone[2] = 9225*
-741: 0x368B [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
+741: 0x368B [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
     → "The attributes of your $0 can be changed without resetting the values. Which would you like?"
 742: 0x368E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4110,7 +4110,7 @@ SUBROUTINE_368F:
 746: 0x369E [0x03] Work_Zone[5] = 9223*
 747: 0x36A3 [0x03] Work_Zone[6] = 9224*
 748: 0x36A8 [0x03] ExtData[1]->WorkLocal[23] = 0*
-749: 0x36AD [0x24] CREATE_DIALOG(message_id=8235*, default_option=ExtData[1]->WorkLocal[22], option_flags=ExtData[1]->WorkLocal[6])
+749: 0x36AD [0x24] CREATE_DIALOG(message_id=8236*, default_option=ExtData[1]->WorkLocal[22], option_flags=ExtData[1]->WorkLocal[6])
     → "Which would you like to change? [#./$1./$2./$3./$4./None of these.]"
 750: 0x36B4 [0x25] WAIT_DIALOG_SELECT()
 751: 0x36B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3804
@@ -4133,7 +4133,7 @@ SUBROUTINE_36E2:
 764: 0x3712 [0x0B] ExtData[1]->WorkLocal[43]++
 765: 0x3715 [0x01] GOTO 0x36E2
 766: 0x3718 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[7], bit_index_work_offset=24*, condition_work_offset=1*)
-767: 0x371F [0x24] CREATE_DIALOG(message_id=8223*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[7])
+767: 0x371F [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[7])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Pet: Acc./R.Acc./Atk./R.Atk.+./Pet: M.Acc./M.Dmg.+./@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 768: 0x3726 [0x25] WAIT_DIALOG_SELECT()
 769: 0x3727 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3732
@@ -4144,12 +4144,12 @@ SUBROUTINE_36E2:
 SUBROUTINE_37B0:
 773: 0x37B0 [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x37BB
 774: 0x37B8 [0x01] GOTO 0x3801
-775: 0x37BB [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+775: 0x37BB [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 776: 0x37C2 [0x25] WAIT_DIALOG_SELECT()
 777: 0x37C3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x37F3
 778: 0x37CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-779: 0x37DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+779: 0x37DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 780: 0x37DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 781: 0x37DE [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=4*)
@@ -4180,7 +4180,7 @@ SUBROUTINE_3831:
 800: 0x3861 [0x0B] ExtData[1]->WorkLocal[43]++
 801: 0x3864 [0x01] GOTO 0x3831
 802: 0x3867 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[8], bit_index_work_offset=24*, condition_work_offset=1*)
-803: 0x386E [0x24] CREATE_DIALOG(message_id=8224*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[8])
+803: 0x386E [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[8])
     → "Which attribute would you like? [Acc./Atk.+./R.Acc./R.Atk.+./M.Acc./M.Dmg.+./Eva./M.Eva.+./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 804: 0x3875 [0x25] WAIT_DIALOG_SELECT()
 805: 0x3876 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3881
@@ -4191,12 +4191,12 @@ SUBROUTINE_3831:
 SUBROUTINE_38FF:
 809: 0x38FF [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x390A
 810: 0x3907 [0x01] GOTO 0x3950
-811: 0x390A [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+811: 0x390A [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 812: 0x3911 [0x25] WAIT_DIALOG_SELECT()
 813: 0x3912 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3942
 814: 0x391A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-815: 0x3929 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+815: 0x3929 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 816: 0x392C [0x23] WAIT_FOR_DIALOG_INTERACTION
 817: 0x392D [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=5*)
@@ -4227,7 +4227,7 @@ SUBROUTINE_3980:
 836: 0x39B0 [0x0B] ExtData[1]->WorkLocal[43]++
 837: 0x39B3 [0x01] GOTO 0x3980
 838: 0x39B6 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[9], bit_index_work_offset=24*, condition_work_offset=1*)
-839: 0x39BD [0x24] CREATE_DIALOG(message_id=8225*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[9])
+839: 0x39BD [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[9])
     → "Which attribute would you like? [HP+./MP+./STR+./DEX+./VIT+./AGI+./INT+./MND+./CHR+./Accuracy+./Attack+./Ranged Accuracy+./Ranged Attack+./Magic Accuracy+./Magic Damage+./Evasion+./Magic Evasion+./Pet: Acc./R.Acc.+./Pet: Atk./R.Atk.+./Pet: M.Acc.+./Pet: M.Dmg.+./@/@/@/Nothing for now./Go back.]"
 840: 0x39C4 [0x25] WAIT_DIALOG_SELECT()
 841: 0x39C5 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x39D0
@@ -4238,12 +4238,12 @@ SUBROUTINE_3980:
 SUBROUTINE_3A4E:
 845: 0x3A4E [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x3A59
 846: 0x3A56 [0x01] GOTO 0x3A9F
-847: 0x3A59 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+847: 0x3A59 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 848: 0x3A60 [0x25] WAIT_DIALOG_SELECT()
 849: 0x3A61 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3A91
 850: 0x3A69 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-851: 0x3A78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+851: 0x3A78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 852: 0x3A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 853: 0x3A7C [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=6*)
@@ -4274,7 +4274,7 @@ SUBROUTINE_3ACF:
 872: 0x3AFF [0x0B] ExtData[1]->WorkLocal[43]++
 873: 0x3B02 [0x01] GOTO 0x3ACF
 874: 0x3B05 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[10], bit_index_work_offset=24*, condition_work_offset=1*)
-875: 0x3B0C [0x24] CREATE_DIALOG(message_id=8226*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[10])
+875: 0x3B0C [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[10])
     → "Which attribute would you like? [Weapon Skill Damage+./Critical Hit Rate+./"Store TP"+./"Double Attack"+./Haste+./"Dual Wield"+./Enmity+./Enmity-./"Snapshot"+./"Magic Atk. Bonus"+./"Fast Cast"+./"Cure" Potency+./"Waltz" Potency+./Pet: Regen+./Pet: Haste+./@/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 876: 0x3B13 [0x25] WAIT_DIALOG_SELECT()
 877: 0x3B14 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3B1F
@@ -4285,12 +4285,12 @@ SUBROUTINE_3ACF:
 SUBROUTINE_3B9D:
 881: 0x3B9D [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x3BA8
 882: 0x3BA5 [0x01] GOTO 0x3BEE
-883: 0x3BA8 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+883: 0x3BA8 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 884: 0x3BAF [0x25] WAIT_DIALOG_SELECT()
 885: 0x3BB0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3BE0
 886: 0x3BB8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-887: 0x3BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+887: 0x3BC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 888: 0x3BCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 889: 0x3BCB [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=7*)
@@ -4321,7 +4321,7 @@ SUBROUTINE_3C1E:
 908: 0x3C4E [0x0B] ExtData[1]->WorkLocal[43]++
 909: 0x3C51 [0x01] GOTO 0x3C1E
 910: 0x3C54 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[11], bit_index_work_offset=24*, condition_work_offset=1*)
-911: 0x3C5B [0x24] CREATE_DIALOG(message_id=8227*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[11])
+911: 0x3C5B [0x24] CREATE_DIALOG(message_id=8228*, default_option=ExtData[1]->WorkLocal[23], option_flags=ExtData[1]->WorkLocal[11])
     → "Which would you like? [DEF+/Evasion+/Magic Evasion+/Physical damage taken -/Magic damage taken -/Damage taken -/Regen+/Counter+/Blocking rate +/Parry rate +/All status ailment res.+/Casting time interruption rate-/Pet: Phys. damage taken -/Pet: Magic damage taken -/Pet: Damage taken -/Pet: Regen+/@/@/@/@/@/@/@/@/Nothing for now./Go back.]"
 912: 0x3C62 [0x25] WAIT_DIALOG_SELECT()
 913: 0x3C63 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x3C6E
@@ -4332,12 +4332,12 @@ SUBROUTINE_3C1E:
 SUBROUTINE_3CEC:
 917: 0x3CEC [0x02] IF !(ExtData[1]->WorkLocal[44] == 0*) GOTO 0x3CF7
 918: 0x3CF4 [0x01] GOTO 0x3D3D
-919: 0x3CF7 [0x24] CREATE_DIALOG(message_id=8229*, default_option=1*, option_flags=0*)
+919: 0x3CF7 [0x24] CREATE_DIALOG(message_id=8230*, default_option=1*, option_flags=0*)
     → "Satisfied? [Very./Not so much.]"
 920: 0x3CFE [0x25] WAIT_DIALOG_SELECT()
 921: 0x3CFF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3D2F
 922: 0x3D07 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-923: 0x3D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+923: 0x3D16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
 924: 0x3D19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 925: 0x3D1A [0x40] SET_BIT_WORK_RANGE(start_bit=8*, end_bit=15*, target=Work_Zone[1], source=8*)
@@ -4490,7 +4490,7 @@ SUBROUTINE_3D57:
   5: 0x3D77 [0x1C] WAIT(1* ticks)
   6: 0x3D7A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
   7: 0x3D89 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[64]
-  8: 0x3D8E [0x1D] PRINT_EVENT_MESSAGE(message_id=8236*)
+  8: 0x3D8E [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
     → "Interested in your $0?"
   9: 0x3D91 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x3D92 [0x03] Work_Zone[2] = 9220*
@@ -4501,11 +4501,11 @@ SUBROUTINE_3D57:
  15: 0x3DB3 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x3DC0
  16: 0x3DBB [0x07] Work_Zone[3] += 1*
  17: 0x3DC0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x3DCF
- 18: 0x3DC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+ 18: 0x3DC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's already fully augmentarued with $0. Nothing more I can do with it."
  19: 0x3DCB [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x3DCC [0x01] GOTO 0x3DD3
- 21: 0x3DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+ 21: 0x3DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "I can augmentaru it a total of $1 more time[/s] using $0."
  22: 0x3DD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4518,11 +4518,11 @@ SUBROUTINE_3DD3:
  28: 0x3DF4 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x3E01
  29: 0x3DFC [0x07] Work_Zone[3] += 1*
  30: 0x3E01 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x3E10
- 31: 0x3E09 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+ 31: 0x3E09 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's already fully augmentarued with $0. Nothing more I can do with it."
  32: 0x3E0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x3E0D [0x01] GOTO 0x3E14
- 34: 0x3E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+ 34: 0x3E10 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "I can augmentaru it a total of $1 more time[/s] using $0."
  35: 0x3E13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4535,11 +4535,11 @@ SUBROUTINE_3E14:
  41: 0x3E35 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x3E42
  42: 0x3E3D [0x07] Work_Zone[3] += 1*
  43: 0x3E42 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x3E51
- 44: 0x3E4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+ 44: 0x3E4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's already fully augmentarued with $0. Nothing more I can do with it."
  45: 0x3E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x3E4E [0x01] GOTO 0x3E55
- 47: 0x3E51 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+ 47: 0x3E51 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "I can augmentaru it a total of $1 more time[/s] using $0."
  48: 0x3E54 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4552,11 +4552,11 @@ SUBROUTINE_3E55:
  54: 0x3E76 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x3E83
  55: 0x3E7E [0x07] Work_Zone[3] += 1*
  56: 0x3E83 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x3E92
- 57: 0x3E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+ 57: 0x3E8B [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's already fully augmentarued with $0. Nothing more I can do with it."
  58: 0x3E8E [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x3E8F [0x01] GOTO 0x3E96
- 60: 0x3E92 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+ 60: 0x3E92 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "I can augmentaru it a total of $1 more time[/s] using $0."
  61: 0x3E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4569,11 +4569,11 @@ SUBROUTINE_3E96:
  67: 0x3EB7 [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x3EC4
  68: 0x3EBF [0x07] Work_Zone[3] += 1*
  69: 0x3EC4 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x3ED3
- 70: 0x3ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
+ 70: 0x3ECC [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
     → "It's already fully augmentarued with $0. Nothing more I can do with it."
  71: 0x3ECF [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x3ED0 [0x01] GOTO 0x3ED7
- 73: 0x3ED3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+ 73: 0x3ED3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "I can augmentaru it a total of $1 more time[/s] using $0."
  74: 0x3ED6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4679,7 +4679,7 @@ SUBROUTINE_3ED7:
   1: 0x3EED [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x3EF2 [0x1C] WAIT(1* ticks)
   3: 0x3EF5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x3F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8239*)
+  4: 0x3F04 [0x1D] PRINT_EVENT_MESSAGE(message_id=8240*)
     → "I can give-wive you the following items in exchange for $0."
   5: 0x3F07 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x3F08 [0x03] ExtData[1]->WorkLocal[43] = 1*
@@ -4868,17 +4868,17 @@ SUBROUTINE_42AE:
      0x4320 [0x10] ExtData[1]->WorkLocal[72] <<= 0x4193
      0x4325 [0x00] END_REQSTACK()
      0x4326 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[65]
-     0x432B [0x1D] PRINT_EVENT_MESSAGE(message_id=8200*)
+     0x432B [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
     → "$37? Got it."
      0x432E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x432F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-     0x4332 [0x24] CREATE_DIALOG(message_id=8199*, default_option=1*, option_flags=0*)
+     0x4332 [0x24] CREATE_DIALOG(message_id=8200*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Yes./No.]"
      0x4339 [0x25] WAIT_DIALOG_SELECT()
      0x433A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x435E
      0x4342 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x4343 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-     0x4352 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+     0x4352 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
      0x4355 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x4356 [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[65]
@@ -4939,19 +4939,19 @@ SUBROUTINE_42AE:
   1: 0x4374 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x4379 [0x1C] WAIT(1* ticks)
   3: 0x437C [0x03] ExtData[1]->WorkLocal[30] = 0*
-  4: 0x4381 [0x1D] PRINT_EVENT_MESSAGE(message_id=8241*)
+  4: 0x4381 [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
     → "Ahh, it's nice to see you, good [sir/lady]. I have received a new letter."
   5: 0x4384 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x4385 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
-  7: 0x4394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+  7: 0x4394 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
   8: 0x4397 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x4398 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  10: 0x43A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x43B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 11: 0x43B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  12: 0x43B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x43B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 13: 0x43B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  14: 0x43BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x43BC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -4961,50 +4961,50 @@ SUBROUTINE_42AE:
  19: 0x43F4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  20: 0x4401 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  21: 0x4406 [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x448E
- 22: 0x440E [0x48] [System] [8221*]:
+ 22: 0x440E [0x48] [System] [8222*]:
     → ""
  23: 0x4411 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x4412 [0x48] [System] [8251*]:
+ 24: 0x4412 [0x48] [System] [8252*]:
     → ""Mommy Dearest, How have you been? I am doing well."
  25: 0x4415 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x4416 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  27: 0x441B [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4452
- 28: 0x4423 [0x48] [System] [8252*]:
+ 28: 0x4423 [0x48] [System] [8253*]:
     → ""I'm finally getting used to my life here in Mhaura. Rycharde is an excellentaru chef. In fact, Mhauran couscous is now one of my favorite dishes."
  29: 0x4426 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x4427 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  31: 0x442C [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4452
  32: 0x4434 [0x03] Work_Zone[2] = 5189*
- 33: 0x4439 [0x48] [System] [8253*]:
+ 33: 0x4439 [0x48] [System] [8254*]:
     → ""I'm still having trouble at work though. The adventurers trying their hand at the Ambuscade are coming back with all kinds of cuts and scrapes-wapes, and sometimes in even worse shape. My days are definitely full of adventure."
  34: 0x443C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x443D [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  36: 0x4442 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4452
- 37: 0x444A [0x48] [System] [8254*]:
+ 37: 0x444A [0x48] [System] [8255*]:
     → ""P.S. Lately, I've been hooked-wooked on doing Cardian impressions. Personally, I think I've gotten pretty good at them.""
  38: 0x444D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x444E [0x48] [System] [8221*]:
+ 39: 0x444E [0x48] [System] [8222*]:
     → ""
  40: 0x4451 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x4452 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 42: 0x4461 [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 42: 0x4461 [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  43: 0x4464 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x4465 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  45: 0x4472 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  46: 0x4481 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 47: 0x448E [0x48] [System] [8221*]:
+ 47: 0x448E [0x48] [System] [8222*]:
     → ""
  48: 0x4491 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x4492 [0x48] [System] [8246*]:
+ 49: 0x4492 [0x48] [System] [8247*]:
     → ""Dearest adventurer, I am pleased to hear that you have performed well in the Ambuscade."
  50: 0x4495 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x4496 [0x03] Work_Zone[2] = 9270*
- 52: 0x449B [0x48] [System] [8247*]:
+ 52: 0x449B [0x48] [System] [8248*]:
     → ""As a token of my appreciation, I have prepared a new reward for your efforts. It is a material that I refer to as $0."
  53: 0x449E [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x449F [0x03] Work_Zone[2] = 25925*
- 55: 0x44A4 [0x48] [System] [8248*]:
+ 55: 0x44A4 [0x48] [System] [8249*]:
     → ""Although the technology behind it must remain secret, it is able to upgrade equipment such as your $0. However, you will need many of them to perform the upgrade."
  56: 0x44A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x44A8 [0x03] Work_Zone[2] = 9270*
@@ -5012,18 +5012,18 @@ SUBROUTINE_42AE:
  59: 0x44B2 [0x03] Work_Zone[4] = 5*
  60: 0x44B7 [0x03] Work_Zone[5] = 25926*
  61: 0x44BC [0x03] Work_Zone[6] = 10*
- 62: 0x44C1 [0x48] [System] [8249*]:
+ 62: 0x44C1 [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
  63: 0x44C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x44C5 [0x03] Work_Zone[2] = 9270*
- 65: 0x44CA [0x48] [System] [8250*]:
+ 65: 0x44CA [0x48] [System] [8251*]:
     → ""Simply give the $0 and the item you wish to upgrade to my compatriot at the A.M.A.N. and he will bring out the very best in your equipment. I hope you will give it a try when you get a chance.""
  66: 0x44CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x44CE [0x48] [System] [8221*]:
+ 67: 0x44CE [0x48] [System] [8222*]:
     → ""
  68: 0x44D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x44D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 70: 0x44E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+ 70: 0x44E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
  71: 0x44E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x44E5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5081,19 +5081,19 @@ SUBROUTINE_42AE:
   1: 0x4511 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x4516 [0x1C] WAIT(1* ticks)
   3: 0x4519 [0x03] ExtData[1]->WorkLocal[30] = 0*
-  4: 0x451E [0x1D] PRINT_EVENT_MESSAGE(message_id=8255*)
+  4: 0x451E [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
     → "Everyday's a grand surprise when you take part in an Ambuscade!"
   5: 0x4521 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x4522 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
-  7: 0x4531 [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+  7: 0x4531 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
   8: 0x4534 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x4535 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  10: 0x4542 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 11: 0x4551 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 11: 0x4551 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  12: 0x4554 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x4555 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 13: 0x4555 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  14: 0x4558 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x4559 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5103,50 +5103,50 @@ SUBROUTINE_42AE:
  19: 0x4591 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  20: 0x459E [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  21: 0x45A3 [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x462B
- 22: 0x45AB [0x48] [System] [8221*]:
+ 22: 0x45AB [0x48] [System] [8222*]:
     → ""
  23: 0x45AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x45AF [0x48] [System] [8259*]:
+ 24: 0x45AF [0x48] [System] [8260*]:
     → ""Mommy Dearest, How have you been? I am doing well."
  25: 0x45B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x45B3 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  27: 0x45B8 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x45EF
- 28: 0x45C0 [0x48] [System] [8260*]:
+ 28: 0x45C0 [0x48] [System] [8261*]:
     → ""I've heard some scary tales of pirates boarding innocent vessels that leave here from Mhaura. And you know what's even scarier? That this pleases the adventurers to no end!"
  29: 0x45C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x45C4 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  31: 0x45C9 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x45EF
  32: 0x45D1 [0x03] Work_Zone[2] = 5189*
- 33: 0x45D6 [0x48] [System] [8261*]:
+ 33: 0x45D6 [0x48] [System] [8262*]:
     → ""Of course, this has profoundly affected what remains of my sanity, so I asked A.M.A.N. for a mental health leave. However, they denied my request, saying that hard work is the best medicine."
  34: 0x45D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x45DA [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  36: 0x45DF [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x45EF
- 37: 0x45E7 [0x48] [System] [8262*]:
+ 37: 0x45E7 [0x48] [System] [8263*]:
     → ""P.S. Please send cookies. They may be the only thing that gets me through the dark days ahead.""
  38: 0x45EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x45EB [0x48] [System] [8221*]:
+ 39: 0x45EB [0x48] [System] [8222*]:
     → ""
  40: 0x45EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x45EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 42: 0x45FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 42: 0x45FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  43: 0x4601 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x4602 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  45: 0x460F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  46: 0x461E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 47: 0x462B [0x48] [System] [8221*]:
+ 47: 0x462B [0x48] [System] [8222*]:
     → ""
  48: 0x462E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x462F [0x48] [System] [8256*]:
+ 49: 0x462F [0x48] [System] [8257*]:
     → ""Dearest Adventurer, Thanks to your most steadfast efforts, I have accumulated a veritable treasure trove of data that will surely prove useful in my studies."
  50: 0x4632 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x4633 [0x03] Work_Zone[2] = 9271*
- 52: 0x4638 [0x48] [System] [8257*]:
+ 52: 0x4638 [0x48] [System] [8258*]:
     → ""But lest you think my words hollow, I have prepared an even greater set of rewards in the form of $0."
  53: 0x463B [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x463C [0x03] Work_Zone[2] = 25940*
- 55: 0x4641 [0x48] [System] [8258*]:
+ 55: 0x4641 [0x48] [System] [8259*]:
     → ""These amazing materials can be used to augment equipment such as $0. It should come as no surprise that you will need multiples of this fine new bounty in order to augment your attire."
  56: 0x4644 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x4645 [0x03] Work_Zone[2] = 9271*
@@ -5154,18 +5154,18 @@ SUBROUTINE_42AE:
  59: 0x464F [0x03] Work_Zone[4] = 5*
  60: 0x4654 [0x03] Work_Zone[5] = 25941*
  61: 0x4659 [0x03] Work_Zone[6] = 10*
- 62: 0x465E [0x48] [System] [8249*]:
+ 62: 0x465E [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
  63: 0x4661 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x4662 [0x03] Work_Zone[2] = 9271*
- 65: 0x4667 [0x48] [System] [8250*]:
+ 65: 0x4667 [0x48] [System] [8251*]:
     → ""Simply give the $0 and the item you wish to upgrade to my compatriot at the A.M.A.N. and he will bring out the very best in your equipment. I hope you will give it a try when you get a chance.""
  66: 0x466A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x466B [0x48] [System] [8221*]:
+ 67: 0x466B [0x48] [System] [8222*]:
     → ""
  68: 0x466E [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x466F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 70: 0x467E [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+ 70: 0x467E [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
  71: 0x4681 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x4682 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5204,17 +5204,17 @@ SUBROUTINE_42AE:
   1: 0x46B2 [0x1C] WAIT(1* ticks)
   2: 0x46B5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
   3: 0x46B8 [0x03] Work_Zone_1700[29] = Work_Zone[3]
-  4: 0x46BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
+  4: 0x46BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
     → "Your item will be the $37. What do you think?"
   5: 0x46C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x46C1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  7: 0x46C4 [0x24] CREATE_DIALOG(message_id=8199*, default_option=1*, option_flags=0*)
+  7: 0x46C4 [0x24] CREATE_DIALOG(message_id=8200*, default_option=1*, option_flags=0*)
     → "Is this acceptable? [Yes./No.]"
   8: 0x46CB [0x25] WAIT_DIALOG_SELECT()
   9: 0x46CC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x46F0
  10: 0x46D4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x46D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 12: 0x46E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+ 12: 0x46E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "Enjoy, my friend!"
  13: 0x46E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x46E8 [0x03] Work_Zone[1] = Work_Zone[3]
@@ -5276,21 +5276,21 @@ SUBROUTINE_4700:
   1: 0x4703 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x4708 [0x1C] WAIT(1* ticks)
   3: 0x470B [0x03] ExtData[1]->WorkLocal[30] = 0*
-  4: 0x4710 [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
+  4: 0x4710 [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
     → "Greetings and salu-walutations to you, adventurer! Allow me to bestow a Signet on you as a token of thanks for your valiantaru efforts."
   5: 0x4713 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x4714 [0x73] EventEntity casts magic 497* on LocalPlayer
   7: 0x471F [0x1C] WAIT(210* ticks)
   8: 0x4722 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
-  9: 0x4731 [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+  9: 0x4731 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
  10: 0x4734 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x4735 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  12: 0x4742 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 13: 0x4751 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 13: 0x4751 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  14: 0x4754 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x4755 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 15: 0x4755 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  16: 0x4758 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x4759 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5300,68 +5300,68 @@ SUBROUTINE_4700:
  21: 0x4791 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  22: 0x479E [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  23: 0x47A3 [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x482B
- 24: 0x47AB [0x48] [System] [8221*]:
+ 24: 0x47AB [0x48] [System] [8222*]:
     → ""
  25: 0x47AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x47AF [0x48] [System] [8274*]:
+ 26: 0x47AF [0x48] [System] [8275*]:
     → ""Mommy Dearest, How do you fare? I am doing quite well, thank you."
  27: 0x47B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x47B3 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  29: 0x47B8 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x47EF
- 30: 0x47C0 [0x48] [System] [8275*]:
+ 30: 0x47C0 [0x48] [System] [8276*]:
     → ""The ships that set forth from Mhaura journey-wourney to a faraway empire known as Aht Urhgan. I had a thoughtaru I would like to visit it myself someday, so I began researching it in detail."
  31: 0x47C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x47C4 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  33: 0x47C9 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x47EF
  34: 0x47D1 [0x03] Work_Zone[2] = 5189*
- 35: 0x47D6 [0x48] [System] [8276*]:
+ 35: 0x47D6 [0x48] [System] [8277*]:
     → ""Sadly, my research found that it is so peri-werilous that even if I were to somehow make it there in one piece, a simple stroll outside town would likely be my lastaru! (Perhaps Abdhaljs would be willing to donate some of his spare armor for a worthy cause...)"
  36: 0x47D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x47DA [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  38: 0x47DF [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x47EF
- 39: 0x47E7 [0x48] [System] [8277*]:
+ 39: 0x47E7 [0x48] [System] [8278*]:
     → ""P.S. It is impressive to see how the guards across the land so crisply-wisply stand at attention. Perhaps I should also try casting Signetaru myself...""
  40: 0x47EA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x47EB [0x48] [System] [8221*]:
+ 41: 0x47EB [0x48] [System] [8222*]:
     → ""
  42: 0x47EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x47EF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 44: 0x47FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 44: 0x47FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  45: 0x4801 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x4802 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  47: 0x480F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  48: 0x481E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 49: 0x482B [0x48] [System] [8221*]:
+ 49: 0x482B [0x48] [System] [8222*]:
     → ""
  50: 0x482E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x482F [0x48] [System] [8269*]:
+ 51: 0x482F [0x48] [System] [8270*]:
     → ""Dearest Adventurer, Due to your most remarkable exploits in the Ambuscade, I have once again gleaned insights that will prove most valuable in my studies."
  52: 0x4832 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x4833 [0x03] Work_Zone[2] = 21515*
- 54: 0x4838 [0x48] [System] [8270*]:
+ 54: 0x4838 [0x48] [System] [8271*]:
     → ""As is my wont, I have prepared for you a most lavish reward in the form of weapons which I call $0, and other arms in the same vein."
  55: 0x483B [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x483C [0x03] Work_Zone[2] = 21515*
  57: 0x4841 [0x03] Work_Zone[3] = 9782*
- 58: 0x4846 [0x48] [System] [8271*]:
+ 58: 0x4846 [0x48] [System] [8272*]:
     → ""I have also readied for your benefit an arcane metal of my own devising, $1. While I cannot divulge the secrets behind this material, let it suffice to say that it will serve you in upgrading the aforementioned weapons, provided you are able to procure the requisite quantity."
  59: 0x4849 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x484A [0x48] [System] [8272*]:
+ 60: 0x484A [0x48] [System] [8273*]:
     → ""I would also be remiss not to inform you that these weapons are still under development. That is to say, I will require yet more battle data before I can refine them to reach their true potential. As such, I would most humbly entreat your continued cooperation."
  61: 0x484D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x484E [0x48] [System] [8249*]:
+ 62: 0x484E [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
  63: 0x4851 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x4852 [0x03] Work_Zone[2] = 9782*
- 65: 0x4857 [0x48] [System] [8273*]:
+ 65: 0x4857 [0x48] [System] [8274*]:
     → ""Simply deliver the requisite quantity of $0 and your weapon of choice to my compatriot at the A.M.A.N., and he will perform the necessary procedure to help unlock the item's latent powers. Do be sure to try it out, and evaluate for yourself its true potential.""
  66: 0x485A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x485B [0x48] [System] [8221*]:
+ 67: 0x485B [0x48] [System] [8222*]:
     → ""
  68: 0x485E [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x485F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 70: 0x486E [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+ 70: 0x486E [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
  71: 0x4871 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x4872 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5441,12 +5441,12 @@ SUBROUTINE_4700:
   3: 0x48A8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x48AD [0x1C] WAIT(1* ticks)
   5: 0x48B0 [0x03] ExtData[1]->WorkLocal[30] = 0*
-  6: 0x48B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8280*)
+  6: 0x48B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
     → "Ambuscade quiz time!"
   7: 0x48B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x48B9 [0x02] IF !(ExtData[1]->WorkLocal[73] == 0*) GOTO 0x492B
   9: 0x48C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 10: 0x48D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8281*)
+ 10: 0x48D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
     → "Which organization is in charge of Ambuscade?"
  11: 0x48D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x48D4 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -5460,7 +5460,7 @@ SUBROUTINE_4928:
  18: 0x4928 [0x01] GOTO 0x49E1
  19: 0x492B [0x02] IF !(ExtData[1]->WorkLocal[73] == 1*) GOTO 0x496F
  20: 0x4933 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 21: 0x4942 [0x1D] PRINT_EVENT_MESSAGE(message_id=8282*)
+ 21: 0x4942 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
     → "What is the total number of hallmarks earned by all adventurers from September 11, 2018 to October 10, 2018?"
  22: 0x4945 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x4946 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -5475,7 +5475,7 @@ SUBROUTINE_496C:
  30: 0x496C [0x01] GOTO 0x49E1
  31: 0x496F [0x02] IF !(ExtData[1]->WorkLocal[73] == 2*) GOTO 0x49E1
  32: 0x4977 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 33: 0x4986 [0x1D] PRINT_EVENT_MESSAGE(message_id=8283*)
+ 33: 0x4986 [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
     → "Who is the cooking maestro responsible for Mhauran couscous?"
  34: 0x4989 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x498A [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -5491,15 +5491,15 @@ SUBROUTINE_49DE:
 SUBROUTINE_49E1:
  42: 0x49E1 [0x1C] WAIT(60* ticks)
  43: 0x49E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
- 44: 0x49F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+ 44: 0x49F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
  45: 0x49F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x49F7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  47: 0x4A04 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 48: 0x4A13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 48: 0x4A13 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  49: 0x4A16 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x4A17 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 50: 0x4A17 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  51: 0x4A1A [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x4A1B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5509,10 +5509,10 @@ SUBROUTINE_49E1:
  56: 0x4A53 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  57: 0x4A60 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  58: 0x4A65 [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x4AF7
- 59: 0x4A6D [0x48] [System] [8221*]:
+ 59: 0x4A6D [0x48] [System] [8222*]:
     → ""
  60: 0x4A70 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x4A71 [0x48] [System] [8290*]:
+ 61: 0x4A71 [0x48] [System] [8291*]:
     → ""Mommy Dearest, How have you been? I have been doing quite well."
  62: 0x4A74 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x4A75 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
@@ -5520,59 +5520,59 @@ SUBROUTINE_49E1:
  65: 0x4A82 [0x03] Work_Zone[2] = 620*
  66: 0x4A87 [0x03] Work_Zone[3] = 624*
  67: 0x4A8C [0x03] Work_Zone[4] = 4405*
- 68: 0x4A91 [0x48] [System] [8291*]:
+ 68: 0x4A91 [0x48] [System] [8292*]:
     → ""If you have a spare moment, could you please send me some $0? I have taken quite the liking to fishing, and am hankering to make some $2 with all the $1 I've caught."
  69: 0x4A94 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x4A95 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  71: 0x4A9A [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4ABB
- 72: 0x4AA2 [0x48] [System] [8292*]:
+ 72: 0x4AA2 [0x48] [System] [8293*]:
     → ""I think I've come quite far as a cook. Perhaps that lovely Rycharde fellow will teach me a thing or two if I butter him up."
  73: 0x4AA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x4AA6 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  75: 0x4AAB [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4ABB
- 76: 0x4AB3 [0x48] [System] [8293*]:
+ 76: 0x4AB3 [0x48] [System] [8294*]:
     → ""P.S. "One day, I hope to be able to fully pass the Orastery's Vana'diel Exam.""
  77: 0x4AB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x4AB7 [0x48] [System] [8221*]:
+ 78: 0x4AB7 [0x48] [System] [8222*]:
     → ""
  79: 0x4ABA [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x4ABB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 81: 0x4ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 81: 0x4ACA [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  82: 0x4ACD [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x4ACE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  84: 0x4ADB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  85: 0x4AEA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 86: 0x4AF7 [0x48] [System] [8221*]:
+ 86: 0x4AF7 [0x48] [System] [8222*]:
     → ""
  87: 0x4AFA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x4AFB [0x48] [System] [8286*]:
+ 88: 0x4AFB [0x48] [System] [8287*]:
     → ""Dearest adventurers, "Permit me to dispense with the pleasantries and get right down to business."
  89: 0x4AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x4AFF [0x03] Work_Zone[2] = 21516*
  91: 0x4B04 [0x03] Work_Zone[3] = 9783*
- 92: 0x4B09 [0x48] [System] [8287*]:
+ 92: 0x4B09 [0x48] [System] [8288*]:
     → ""The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose."
  93: 0x4B0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x4B0D [0x03] Work_Zone[2] = 21516*
- 95: 0x4B12 [0x48] [System] [8288*]:
+ 95: 0x4B12 [0x48] [System] [8289*]:
     → ""I am loath to admit that the exact workings of this new material are a trade secret, but I hope you will indulge me and content yourself in knowing that they serve as excellent catalysts for improving $0 and similar items. I say "catalysts" in the plural because more than one is needed."
  96: 0x4B15 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x4B16 [0x48] [System] [8289*]:
+ 97: 0x4B16 [0x48] [System] [8290*]:
     → ""I bid you not to fret--this is not the final shape that these weapons will take, but I need more detailed data before I am able to complete my research."
  98: 0x4B19 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x4B1A [0x48] [System] [8249*]:
+ 99: 0x4B1A [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
 100: 0x4B1D [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x4B1E [0x03] Work_Zone[2] = 9783*
-102: 0x4B23 [0x48] [System] [8273*]:
+102: 0x4B23 [0x48] [System] [8274*]:
     → ""Simply deliver the requisite quantity of $0 and your weapon of choice to my compatriot at the A.M.A.N., and he will perform the necessary procedure to help unlock the item's latent powers. Do be sure to try it out, and evaluate for yourself its true potential.""
 103: 0x4B26 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x4B27 [0x48] [System] [8221*]:
+104: 0x4B27 [0x48] [System] [8222*]:
     → ""
 105: 0x4B2A [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x4B2B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-107: 0x4B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+107: 0x4B3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
 108: 0x4B3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x4B3E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5666,12 +5666,12 @@ SUBROUTINE_49E1:
   3: 0x4B74 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x4B79 [0x1C] WAIT(1* ticks)
   5: 0x4B7C [0x03] ExtData[1]->WorkLocal[30] = 0*
-  6: 0x4B81 [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
+  6: 0x4B81 [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
     → "Ambuscade Quiz Time, Part Two!"
   7: 0x4B84 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x4B85 [0x02] IF !(ExtData[1]->WorkLocal[73] == 0*) GOTO 0x4BF7
   9: 0x4B8D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 10: 0x4B9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
+ 10: 0x4B9C [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
     → "Who is the famous personage supporting adventurers in their romps through Ambuscade?"
  11: 0x4B9F [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x4BA0 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -5685,7 +5685,7 @@ SUBROUTINE_4BF4:
  18: 0x4BF4 [0x01] GOTO 0x4CAD
  19: 0x4BF7 [0x02] IF !(ExtData[1]->WorkLocal[73] == 1*) GOTO 0x4C3B
  20: 0x4BFF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 21: 0x4C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=8296*)
+ 21: 0x4C0E [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
     → "What was the average winning percentage for adventurers in the previous Ambuscade (November 10, 2018, to December 11, 2018, Earth time) across all difficulty levels (including Intense)?"
  22: 0x4C11 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x4C12 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -5700,7 +5700,7 @@ SUBROUTINE_4C38:
  30: 0x4C38 [0x01] GOTO 0x4CAD
  31: 0x4C3B [0x02] IF !(ExtData[1]->WorkLocal[73] == 2*) GOTO 0x4CAD
  32: 0x4C43 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 33: 0x4C52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8297*)
+ 33: 0x4C52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8298*)
     → "Where did I wish to be dispatched to?"
  34: 0x4C55 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x4C56 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -5716,15 +5716,15 @@ SUBROUTINE_4CAA:
 SUBROUTINE_4CAD:
  42: 0x4CAD [0x1C] WAIT(60* ticks)
  43: 0x4CB0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
- 44: 0x4CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+ 44: 0x4CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
  45: 0x4CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x4CC3 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  47: 0x4CD0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 48: 0x4CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 48: 0x4CDF [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  49: 0x4CE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x4CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 50: 0x4CE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  51: 0x4CE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x4CE7 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -5734,68 +5734,68 @@ SUBROUTINE_4CAD:
  56: 0x4D1F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  57: 0x4D2C [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  58: 0x4D31 [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x4DB9
- 59: 0x4D39 [0x48] [System] [8221*]:
+ 59: 0x4D39 [0x48] [System] [8222*]:
     → ""
  60: 0x4D3C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x4D3D [0x48] [System] [8300*]:
+ 61: 0x4D3D [0x48] [System] [8301*]:
     → ""Mommy Dearest, How have you been? I have been doing quite well."
  62: 0x4D40 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x4D41 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  64: 0x4D46 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4D7D
  65: 0x4D4E [0x03] Work_Zone[2] = 6458*
- 66: 0x4D53 [0x48] [System] [8301*]:
+ 66: 0x4D53 [0x48] [System] [8302*]:
     → ""Have you ever heard of soy ramen? An adventurer in the Ambuscade was eating it. I asked Rycharde and apparently it's a dish from the Far East."
  67: 0x4D56 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x4D57 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  69: 0x4D5C [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4D7D
- 70: 0x4D64 [0x48] [System] [8302*]:
+ 70: 0x4D64 [0x48] [System] [8303*]:
     → ""I've become a pretty good cook-wook, so it's got my interest piqued. I'll make it for you if I can get all of the ingredients together."
  71: 0x4D67 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x4D68 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  73: 0x4D6D [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x4D7D
- 74: 0x4D75 [0x48] [System] [8303*]:
+ 74: 0x4D75 [0x48] [System] [8304*]:
     → ""P.S. While it's fun answering quiz questions-wuestions, I also like thinking up new ones!""
  75: 0x4D78 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x4D79 [0x48] [System] [8221*]:
+ 76: 0x4D79 [0x48] [System] [8222*]:
     → ""
  77: 0x4D7C [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x4D7D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 79: 0x4D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 79: 0x4D8C [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  80: 0x4D8F [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x4D90 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  82: 0x4D9D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  83: 0x4DAC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 84: 0x4DB9 [0x48] [System] [8221*]:
+ 84: 0x4DB9 [0x48] [System] [8222*]:
     → ""
  85: 0x4DBC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x4DBD [0x48] [System] [8298*]:
+ 86: 0x4DBD [0x48] [System] [8299*]:
     → ""Dearest adventurer, Once again, allow me to get straight to the point."
  87: 0x4DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x4DC1 [0x03] Work_Zone[2] = 21517*
  89: 0x4DC6 [0x03] Work_Zone[3] = 9784*
- 90: 0x4DCB [0x48] [System] [8299*]:
+ 90: 0x4DCB [0x48] [System] [8300*]:
     → ""The $0 and similar items I mentioned in a previous communique are finally able to be reforged. I have invented a new type of material, dubbed "$1," specifically for this purpose."
  91: 0x4DCE [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x4DCF [0x03] Work_Zone[2] = 21517*
- 93: 0x4DD4 [0x48] [System] [8288*]:
+ 93: 0x4DD4 [0x48] [System] [8289*]:
     → ""I am loath to admit that the exact workings of this new material are a trade secret, but I hope you will indulge me and content yourself in knowing that they serve as excellent catalysts for improving $0 and similar items. I say "catalysts" in the plural because more than one is needed."
  94: 0x4DD7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x4DD8 [0x48] [System] [8289*]:
+ 95: 0x4DD8 [0x48] [System] [8290*]:
     → ""I bid you not to fret--this is not the final shape that these weapons will take, but I need more detailed data before I am able to complete my research."
  96: 0x4DDB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x4DDC [0x48] [System] [8249*]:
+ 97: 0x4DDC [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
  98: 0x4DDF [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x4DE0 [0x03] Work_Zone[2] = 9784*
-100: 0x4DE5 [0x48] [System] [8273*]:
+100: 0x4DE5 [0x48] [System] [8274*]:
     → ""Simply deliver the requisite quantity of $0 and your weapon of choice to my compatriot at the A.M.A.N., and he will perform the necessary procedure to help unlock the item's latent powers. Do be sure to try it out, and evaluate for yourself its true potential.""
 101: 0x4DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x4DE9 [0x48] [System] [8221*]:
+102: 0x4DE9 [0x48] [System] [8222*]:
     → ""
 103: 0x4DEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x4DED [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-105: 0x4DFC [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+105: 0x4DFC [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
 106: 0x4DFF [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x4E00 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -6125,17 +6125,17 @@ SUBROUTINE_4CAD:
   3: 0x4E36 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x4E3B [0x1C] WAIT(1* ticks)
   5: 0x4E3E [0x03] ExtData[1]->WorkLocal[30] = 0*
-  6: 0x4E43 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+  6: 0x4E43 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "Ambuscade quiz time!"
   7: 0x4E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x4E47 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
-  9: 0x4E56 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  9: 0x4E56 [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "Get ready for the final round!"
  10: 0x4E59 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x4E5A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
  12: 0x4E67 [0x02] IF !(ExtData[1]->WorkLocal[73] == 0*) GOTO 0x4ED9
  13: 0x4E6F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 14: 0x4E7E [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
+ 14: 0x4E7E [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
     → "What is the name of the tiny location where Abdhaljs holds the Ambuscade?"
  15: 0x4E81 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x4E82 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -6149,7 +6149,7 @@ SUBROUTINE_4ED6:
  22: 0x4ED6 [0x01] GOTO 0x4FC9
  23: 0x4ED9 [0x02] IF !(ExtData[1]->WorkLocal[73] == 1*) GOTO 0x4F1D
  24: 0x4EE1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 25: 0x4EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
+ 25: 0x4EF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
     → "How many hallmarks have you obtained in total so far?"
  26: 0x4EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x4EF4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -6164,7 +6164,7 @@ SUBROUTINE_4F1A:
  34: 0x4F1A [0x01] GOTO 0x4FC9
  35: 0x4F1D [0x02] IF !(ExtData[1]->WorkLocal[73] == 2*) GOTO 0x4FC9
  36: 0x4F25 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 37: 0x4F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
+ 37: 0x4F34 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
     → "Who have I impersonated before?"
  38: 0x4F37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x4F38 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x8000, 0x8031])
@@ -6180,15 +6180,15 @@ SUBROUTINE_4FC6:
 SUBROUTINE_4FC9:
  46: 0x4FC9 [0x1C] WAIT(60* ticks)
  47: 0x4FCC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ghn1" with entities [EventEntity, EventEntity], work=41*
- 48: 0x4FDB [0x1D] PRINT_EVENT_MESSAGE(message_id=8242*)
+ 48: 0x4FDB [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
     → "Um, you see..."
  49: 0x4FDE [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x4FDF [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ghn1" with entities [EventEntity, EventEntity]
  51: 0x4FEC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 52: 0x4FFB [0x1D] PRINT_EVENT_MESSAGE(message_id=8243*)
+ 52: 0x4FFB [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
     → "This letter comes from the greataru mage Abdhaljs himself."
  53: 0x4FFE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x4FFF [0x1D] PRINT_EVENT_MESSAGE(message_id=8244*)
+ 54: 0x4FFF [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
     → "Here, you may feel free to give it a read-wead."
  55: 0x5002 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x5003 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -6198,76 +6198,76 @@ SUBROUTINE_4FC9:
  60: 0x503B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  61: 0x5048 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  62: 0x504D [0x02] IF !(ExtData[1]->WorkLocal[30] > 4*) GOTO 0x50D5
- 63: 0x5055 [0x48] [System] [8221*]:
+ 63: 0x5055 [0x48] [System] [8222*]:
     → ""
  64: 0x5058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x5059 [0x48] [System] [8315*]:
+ 65: 0x5059 [0x48] [System] [8316*]:
     → ""Mommy Dearest, How have you been? I have been doing quite well."
  66: 0x505C [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x505D [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  68: 0x5062 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x5099
  69: 0x506A [0x03] Work_Zone[2] = 6458*
- 70: 0x506F [0x48] [System] [8316*]:
+ 70: 0x506F [0x48] [System] [8317*]:
     → ""I looked-wooked into soy ramen some more, and apparently, it is a noodle dish flavored with soy sauce. There are also many other variations, such as miso or salt."
  71: 0x5072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x5073 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  73: 0x5078 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x5099
- 74: 0x5080 [0x48] [System] [8317*]:
+ 74: 0x5080 [0x48] [System] [8318*]:
     → ""I've seen miso-wiso at the Culinarians' Guild in Windurst before. Do you think you could send me some?"
  75: 0x5083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x5084 [0x13] ExtData[1]->WorkLocal[30] = rand() % 99*
  77: 0x5089 [0x02] IF !(ExtData[1]->WorkLocal[30] > 49*) GOTO 0x5099
- 78: 0x5091 [0x48] [System] [8318*]:
+ 78: 0x5091 [0x48] [System] [8319*]:
     → ""P.S. Once I'm able to make ramen myself, I will send you a little projectaru I've been working on. It's a book containing all of the dishes I have made so far.""
  79: 0x5094 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x5095 [0x48] [System] [8221*]:
+ 80: 0x5095 [0x48] [System] [8222*]:
     → ""
  81: 0x5098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x5099 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "zit0" with entities [EventEntity, EventEntity], work=40*
- 83: 0x50A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+ 83: 0x50A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Wh-wh-what!? G-give that back! Here! Here's the right one!"
  84: 0x50AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x50AC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "zit0" with entities [EventEntity, EventEntity]
  86: 0x50B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  87: 0x50C8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
- 88: 0x50D5 [0x48] [System] [8221*]:
+ 88: 0x50D5 [0x48] [System] [8222*]:
     → ""
  89: 0x50D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x50D9 [0x48] [System] [8298*]:
+ 90: 0x50D9 [0x48] [System] [8299*]:
     → ""Dearest adventurer, Once again, allow me to get straight to the point."
  91: 0x50DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x50DD [0x03] Work_Zone[2] = 21518*
  93: 0x50E2 [0x03] Work_Zone[3] = 9785*
- 94: 0x50E7 [0x48] [System] [8309*]:
+ 94: 0x50E7 [0x48] [System] [8310*]:
     → ""At last, your weapons such as the $0 are near completion. I have prepared a material known as $1 that you will need. However, this material alone will not be enough for our requirements."
  95: 0x50EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x50EB [0x03] Work_Zone[2] = 18904*
- 97: 0x50F0 [0x48] [System] [8310*]:
+ 97: 0x50F0 [0x48] [System] [8311*]:
     → ""In order to complete the process, we'll also need a weapon such as the $0 that is known as a Pulse Panoplia."
  98: 0x50F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x50F4 [0x48] [System] [8311*]:
+ 99: 0x50F4 [0x48] [System] [8312*]:
     → ""The specific weapon type is of no consequence, but one Pulse Panoplia is required in order to complete one weapon. Therefore, I need you to get a Pulse Panoplia for us."
 100: 0x50F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x50F8 [0x03] Work_Zone[2] = 9785*
 102: 0x50FD [0x03] Work_Zone[3] = 21518*
-103: 0x5102 [0x48] [System] [8312*]:
+103: 0x5102 [0x48] [System] [8313*]:
     → ""The exact technique is a trade secret, but when the Pulse Panoplia you provide combines with my $0, you will be able to complete the upgrade process for weapons such as the $1."
 104: 0x5105 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x5106 [0x03] Work_Zone[2] = 9785*
-106: 0x510B [0x48] [System] [8313*]:
+106: 0x510B [0x48] [System] [8314*]:
     → ""As you can probably imagine, you will need a fair number of $0."
 107: 0x510E [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x510F [0x48] [System] [8249*]:
+108: 0x510F [0x48] [System] [8250*]:
     → ""I have left the details with my representative at the A.M.A.N. Please check with him for more information."
 109: 0x5112 [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x5113 [0x48] [System] [8314*]:
+110: 0x5113 [0x48] [System] [8315*]:
     → ""If you hand the materials and the weapon you wish to upgrade over to my good friend at the A.M.A.N., he will be sure to bring out the very best in it. Go give it a try and see for yourself.""
 111: 0x5116 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x5117 [0x48] [System] [8221*]:
+112: 0x5117 [0x48] [System] [8222*]:
     → ""
 113: 0x511A [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x511B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-115: 0x512A [0x1D] PRINT_EVENT_MESSAGE(message_id=8245*)
+115: 0x512A [0x1D] PRINT_EVENT_MESSAGE(message_id=8246*)
     → "I look forward to helping you with all of your equipment needs!"
 116: 0x512D [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x512E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -6278,7 +6278,7 @@ SUBROUTINE_4FC9:
 
 SUBROUTINE_5F69:
 122: 0x5F69 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
-123: 0x5F78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8285*)
+123: 0x5F78 [0x1D] PRINT_EVENT_MESSAGE(message_id=8286*)
     → "Correct!"
 124: 0x5F7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x5F7C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
@@ -6286,7 +6286,7 @@ SUBROUTINE_5F69:
 
 SUBROUTINE_5F8A:
 127: 0x5F8A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=40*
-128: 0x5F99 [0x1D] PRINT_EVENT_MESSAGE(message_id=8284*)
+128: 0x5F99 [0x1D] PRINT_EVENT_MESSAGE(message_id=8285*)
     → "Womp, womp!"
 129: 0x5F9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x5F9D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]

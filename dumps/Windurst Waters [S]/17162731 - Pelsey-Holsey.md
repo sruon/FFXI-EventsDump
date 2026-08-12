@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AE0      |       10976 |
-|       2 | 0x2AE1      |       10977 |
+|       1 | 0x2AE1      |       10977 |
+|       2 | 0x2AE2      |       10978 |
 
 ## Events
 
@@ -70,10 +70,10 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10976*]:
+  2: 0x000D [0x2B] EventEntity [10977*]:
     → "Just ahead is the Aurastery, Windurst's institute of magic education."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10977*]:
+  4: 0x0015 [0x2B] EventEntity [10978*]:
     → "It is most importantaru that we spare no effort in educating our younger generation in our traditional magic. Especially in times such as these..."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001D [0x21] END_EVENT

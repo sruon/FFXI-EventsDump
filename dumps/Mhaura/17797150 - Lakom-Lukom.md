@@ -22,32 +22,32 @@
 |---------|-------------|-------------|
 |       0 | 0x0003      |           3 |
 |       1 | 0x0055      |          85 |
-|       2 | 0x1BF6      |        7158 |
+|       2 | 0x1BF7      |        7159 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1BF7      |        7159 |
-|       5 | 0x1BF8      |        7160 |
+|       4 | 0x1BF8      |        7160 |
+|       5 | 0x1BF9      |        7161 |
 |       6 | 0x0050      |          80 |
-|       7 | 0x1BF9      |        7161 |
+|       7 | 0x1BFA      |        7162 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1BFA      |        7162 |
-|      10 | 0x1BFB      |        7163 |
+|       9 | 0x1BFB      |        7163 |
+|      10 | 0x1BFC      |        7164 |
 |      11 | 0x0051      |          81 |
-|      12 | 0x1BFC      |        7164 |
+|      12 | 0x1BFD      |        7165 |
 |      13 | 0x0002      |           2 |
-|      14 | 0x1BFD      |        7165 |
-|      15 | 0x1BFE      |        7166 |
-|      16 | 0x1BFF      |        7167 |
-|      17 | 0x1C00      |        7168 |
-|      18 | 0x1C01      |        7169 |
-|      19 | 0x1C02      |        7170 |
+|      14 | 0x1BFE      |        7166 |
+|      15 | 0x1BFF      |        7167 |
+|      16 | 0x1C00      |        7168 |
+|      17 | 0x1C01      |        7169 |
+|      18 | 0x1C02      |        7170 |
+|      19 | 0x1C03      |        7171 |
 
 ## String References
 
-- **7158**: Say, did you know?
-- **7159**: I heard there's a job where you can control monsters and make them do anything you want!
-- **7162**: I heard there's a job where all you have to do is sing!
-- **7165**: I heard there's a job with long-rains whippings and trakking and deetection!
-- **7168**: I heard knights wear the bestest armor-warmor!
+- **7159**: Say, did you know?
+- **7160**: I heard there's a job where you can control monsters and make them do anything you want!
+- **7163**: I heard there's a job where all you have to do is sing!
+- **7166**: I heard there's a job with long-rains whippings and trakking and deetection!
+- **7169**: I heard knights wear the bestest armor-warmor!
 
 ## Events
 
@@ -127,33 +127,33 @@
 ```
   0: 0x0001 [0x13] ExtData[1]->WorkLocal[0] = rand() % 3*
   1: 0x0006 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ehe0" with entities [EventEntity, EventEntity], work=85*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7158*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7159*)
     → "Say, did you know?"
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ehe0" with entities [EventEntity, EventEntity]
   5: 0x0026 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=85*
   6: 0x0035 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0084
-  7: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7159*)
+  7: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7160*)
     → "I heard there's a job where you can control monsters and make them do anything you want!"
   8: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0041 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  10: 0x004E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  11: 0x0053 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kou0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
- 12: 0x0062 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7160*]:
+ 12: 0x0062 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7161*]:
     → "Wow! That sounds like fun! I wanna do that job-wob!"
  13: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x006A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
- 15: 0x0079 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7161*]:
+ 15: 0x0079 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7162*]:
     → "Didn't you say you were going to do some otherrr job before?"
  16: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0081 [0x01] GOTO 0x0211
  18: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0129
- 19: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7162*)
+ 19: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7163*)
     → "I heard there's a job where all you have to do is sing!"
  20: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0090 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  22: 0x009D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 23: 0x00A2 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7163*]:
+ 23: 0x00A2 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7164*]:
     → "Oooh! I'll do that job! It's purrrfect for me! I love singing!"
  24: 0x00A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=81*
  25: 0x00B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)]
@@ -168,21 +168,21 @@
  34: 0x00FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Jikka-Abukka (ID: 17797151/0x010F901F) Render.Flags0 and Render.Flags3 conditions are met
  35: 0x0100 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kow0" with entities [EventEntity, EventEntity], work=85*
  36: 0x010F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kow0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
- 37: 0x011E [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7164*]:
+ 37: 0x011E [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7165*]:
     → "Uh... Liking it and being good at it are two different thing-wings..."
  38: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0126 [0x01] GOTO 0x0211
  40: 0x0129 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x01C2
- 41: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7165*)
+ 41: 0x0131 [0x1D] PRINT_EVENT_MESSAGE(message_id=7166*)
     → "I heard there's a job with long-rains whippings and trakking and deetection!"
  42: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0135 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  44: 0x0142 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  45: 0x0147 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
- 46: 0x0156 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7166*]:
+ 46: 0x0156 [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7167*]:
     → "Long-rains...what? What kind of job is that!?"
  47: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x015E [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7167*]:
+ 48: 0x015E [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7168*]:
     → "Oh, I know! You're talking about rangers! My mom said the famousest ranger is a Mithra, like me!"
  49: 0x0165 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=81*
  50: 0x0174 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hai0" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)]
@@ -194,17 +194,17 @@
  56: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x01BF [0x01] GOTO 0x0211
  58: 0x01C2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0211
- 59: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7168*)
+ 59: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7169*)
     → "I heard knights wear the bestest armor-warmor!"
  60: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x01CE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  62: 0x01DB [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  63: 0x01E0 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kou0" with entities [Jikka-Abukka (ID: 17797151/0x010F901F), Jikka-Abukka (ID: 17797151/0x010F901F)], work=85*
- 64: 0x01EF [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7169*]:
+ 64: 0x01EF [0x2B] Jikka-Abukka (ID: 17797151/0x010F901F) [7170*]:
     → "I know! I'm gonna-wanna be a knight someday!"
  65: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01F7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Itzha Delavhitta (ID: 17797152/0x010F9020), Itzha Delavhitta (ID: 17797152/0x010F9020)], work=80*
- 67: 0x0206 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7170*]:
+ 67: 0x0206 [0x2B] Itzha Delavhitta (ID: 17797152/0x010F9020) [7171*]:
     → "... That'll neverrr happen..."
  68: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x020E [0x01] GOTO 0x0211

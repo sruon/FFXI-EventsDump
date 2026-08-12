@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CAA      |        7338 |
+|       0 | 0x1CAB      |        7339 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00C8      |         200 |
@@ -32,7 +32,7 @@
 
 ## String References
 
-- **7338**: Leave through the gate? [Yes./No.]
+- **7339**: Leave through the gate? [Yes./No.]
 
 ## Events
 
@@ -90,7 +90,7 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7338*, default_option=1*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7339*, default_option=1*, option_flags=0*)
     → "Leave through the gate? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A2

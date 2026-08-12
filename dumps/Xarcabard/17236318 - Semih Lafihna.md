@@ -123,13 +123,13 @@
 |      26 | 0x238C7     |      145607 |
 |      27 | 0xFFFF2ED6  |  4294913750 |
 |      28 | 0xFFFFBE6B  |  4294950507 |
-|      29 | 0x1E43      |        7747 |
-|      30 | 0x1E44      |        7748 |
-|      31 | 0x1E45      |        7749 |
-|      32 | 0x1E46      |        7750 |
-|      33 | 0x1E47      |        7751 |
-|      34 | 0x1E49      |        7753 |
-|      35 | 0x1E4A      |        7754 |
+|      29 | 0x1E44      |        7748 |
+|      30 | 0x1E45      |        7749 |
+|      31 | 0x1E46      |        7750 |
+|      32 | 0x1E47      |        7751 |
+|      33 | 0x1E48      |        7752 |
+|      34 | 0x1E4A      |        7754 |
+|      35 | 0x1E4B      |        7755 |
 |      36 | 0xFFFC1D71  |  4294712689 |
 |      37 | 0xFFFDEB87  |  4294830983 |
 |      38 | 0xFFFFC687  |  4294952583 |
@@ -152,44 +152,44 @@
 |      55 | 0xFFFC1EAA  |  4294713002 |
 |      56 | 0xFFFDBE3A  |  4294819386 |
 |      57 | 0xFFFFC63F  |  4294952511 |
-|      58 | 0x1E4B      |        7755 |
-|      59 | 0x1E4C      |        7756 |
-|      60 | 0x1E4D      |        7757 |
-|      61 | 0x1E4E      |        7758 |
-|      62 | 0x1E51      |        7761 |
-|      63 | 0x1E52      |        7762 |
-|      64 | 0x1E54      |        7764 |
-|      65 | 0x1E56      |        7766 |
-|      66 | 0x1E62      |        7778 |
-|      67 | 0x1E65      |        7781 |
-|      68 | 0x1E68      |        7784 |
-|      69 | 0x1E6B      |        7787 |
-|      70 | 0x1E6F      |        7791 |
-|      71 | 0x1E73      |        7795 |
+|      58 | 0x1E4C      |        7756 |
+|      59 | 0x1E4D      |        7757 |
+|      60 | 0x1E4E      |        7758 |
+|      61 | 0x1E4F      |        7759 |
+|      62 | 0x1E52      |        7762 |
+|      63 | 0x1E53      |        7763 |
+|      64 | 0x1E55      |        7765 |
+|      65 | 0x1E57      |        7767 |
+|      66 | 0x1E63      |        7779 |
+|      67 | 0x1E66      |        7782 |
+|      68 | 0x1E69      |        7785 |
+|      69 | 0x1E6C      |        7788 |
+|      70 | 0x1E70      |        7792 |
+|      71 | 0x1E74      |        7796 |
 
 ## String References
 
-- **7747**: <Player>!
-- **7748**: Why have you come? You don't need to be here.
-- **7749**: This is a drrreadful land. A place where even a person alone can barely sneak through.
-- **7750**: That someone could be living in this accursed, godforsaken place is difficult to believe...
-- **7751**: Only, I found this on one of the monsters from around here.
-- **7753**: This arrow may have been loosed from the Bow of Light... Which means the Bow of Light would also be here somewhere...
-- **7754**: In any case, I must get closer to Castle Zvahl. Take care of yourself, <Player>.
-- **7755**: <Player>, do you find anything strrrange about that cave?
-- **7756**: I can't imagine that anyone would be in there, but still, there's something... I feel some sort of prrresence from within.
-- **7757**: ...!
-- **7758**: Who's there!?
-- **7761**: I am Semih Lafihna, Sibyl Guard of Windurst!
-- **7762**: That voice...we are of the same tribe!? If you're not an enemy, then show yourself!
-- **7764**: ...!? ...You, you're...!?
-- **7766**: The daughter of...!? You were supposed to have died twenty years ago!
-- **7778**: Thirty years ago...Yow Rabntah... She was a member of the team sent to investigate this area, wasn't she?
-- **7781**: ...... She was captured by the Yagudo before she reached her destination...
-- **7784**: ...... ...You will never accomplish that alone.
-- **7787**: ......
-- **7791**: I would be...? What did you just say?
-- **7795**: ...It matches!
+- **7748**: <Player>!
+- **7749**: Why have you come? You don't need to be here.
+- **7750**: This is a drrreadful land. A place where even a person alone can barely sneak through.
+- **7751**: That someone could be living in this accursed, godforsaken place is difficult to believe...
+- **7752**: Only, I found this on one of the monsters from around here.
+- **7754**: This arrow may have been loosed from the Bow of Light... Which means the Bow of Light would also be here somewhere...
+- **7755**: In any case, I must get closer to Castle Zvahl. Take care of yourself, <Player>.
+- **7756**: <Player>, do you find anything strrrange about that cave?
+- **7757**: I can't imagine that anyone would be in there, but still, there's something... I feel some sort of prrresence from within.
+- **7758**: ...!
+- **7759**: Who's there!?
+- **7762**: I am Semih Lafihna, Sibyl Guard of Windurst!
+- **7763**: That voice...we are of the same tribe!? If you're not an enemy, then show yourself!
+- **7765**: ...!? ...You, you're...!?
+- **7767**: The daughter of...!? You were supposed to have died twenty years ago!
+- **7779**: Thirty years ago...Yow Rabntah... She was a member of the team sent to investigate this area, wasn't she?
+- **7782**: ...... She was captured by the Yagudo before she reached her destination...
+- **7785**: ...... ...You will never accomplish that alone.
+- **7788**: ......
+- **7792**: I would be...? What did you just say?
+- **7796**: ...It matches!
 
 ## Events
 
@@ -1405,7 +1405,7 @@
 #### Opcodes
 
 ```
-  0: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7747*)
+  0: 0x031D [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
     → "<Player>!"
   1: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0321 [0x00] END_REQSTACK()
@@ -1430,7 +1430,7 @@
 #### Opcodes
 
 ```
-  0: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=7748*)
+  0: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
     → "Why have you come? You don't need to be here."
   1: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0326 [0x00] END_REQSTACK()
@@ -1455,10 +1455,10 @@
 #### Opcodes
 
 ```
-  0: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=7749*)
+  0: 0x0327 [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
     → "This is a drrreadful land. A place where even a person alone can barely sneak through."
   1: 0x032A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=7750*)
+  2: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
     → "That someone could be living in this accursed, godforsaken place is difficult to believe..."
   3: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x032F [0x00] END_REQSTACK()
@@ -1483,7 +1483,7 @@
 #### Opcodes
 
 ```
-  0: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7751*)
+  0: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=7752*)
     → "Only, I found this on one of the monsters from around here."
   1: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0334 [0x00] END_REQSTACK()
@@ -1508,7 +1508,7 @@
 #### Opcodes
 
 ```
-  0: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7753*)
+  0: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
     → "This arrow may have been loosed from the Bow of Light... Which means the Bow of Light would also be here somewhere..."
   1: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0339 [0x00] END_REQSTACK()
@@ -1533,7 +1533,7 @@
 #### Opcodes
 
 ```
-  0: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7754*)
+  0: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=7755*)
     → "In any case, I must get closer to Castle Zvahl. Take care of yourself, <Player>."
   1: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x033E [0x00] END_REQSTACK()
@@ -1726,7 +1726,7 @@
 #### Opcodes
 
 ```
-  0: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=7755*)
+  0: 0x0384 [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
     → "<Player>, do you find anything strrrange about that cave?"
   1: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0388 [0x00] END_REQSTACK()
@@ -1751,7 +1751,7 @@
 #### Opcodes
 
 ```
-  0: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=7756*)
+  0: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=7757*)
     → "I can't imagine that anyone would be in there, but still, there's something... I feel some sort of prrresence from within."
   1: 0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x038D [0x00] END_REQSTACK()
@@ -1777,7 +1777,7 @@
 #### Opcodes
 
 ```
-  0: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7757*)
+  0: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
     → "...!"
   1: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0392 [0x00] END_REQSTACK()
@@ -1802,7 +1802,7 @@
 #### Opcodes
 
 ```
-  0: 0x0393 [0x1D] PRINT_EVENT_MESSAGE(message_id=7758*)
+  0: 0x0393 [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
     → "Who's there!?"
   1: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0397 [0x00] END_REQSTACK()
@@ -1827,7 +1827,7 @@
 #### Opcodes
 
 ```
-  0: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+  0: 0x0398 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "I am Semih Lafihna, Sibyl Guard of Windurst!"
   1: 0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x039C [0x00] END_REQSTACK()
@@ -1853,7 +1853,7 @@
 #### Opcodes
 
 ```
-  0: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
+  0: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
     → "That voice...we are of the same tribe!? If you're not an enemy, then show yourself!"
   1: 0x03A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03A1 [0x00] END_REQSTACK()
@@ -1878,7 +1878,7 @@
 #### Opcodes
 
 ```
-  0: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
+  0: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
     → "...!? ...You, you're...!?"
   1: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03A6 [0x00] END_REQSTACK()
@@ -1903,7 +1903,7 @@
 #### Opcodes
 
 ```
-  0: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7766*)
+  0: 0x03A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7767*)
     → "The daughter of...!? You were supposed to have died twenty years ago!"
   1: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03AB [0x00] END_REQSTACK()
@@ -1929,7 +1929,7 @@
 #### Opcodes
 
 ```
-  0: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7778*)
+  0: 0x03AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7779*)
     → "Thirty years ago...Yow Rabntah... She was a member of the team sent to investigate this area, wasn't she?"
   1: 0x03AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03B0 [0x00] END_REQSTACK()
@@ -1954,7 +1954,7 @@
 #### Opcodes
 
 ```
-  0: 0x03B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+  0: 0x03B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "...... She was captured by the Yagudo before she reached her destination..."
   1: 0x03B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03B5 [0x00] END_REQSTACK()
@@ -1979,7 +1979,7 @@
 #### Opcodes
 
 ```
-  0: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
+  0: 0x03B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7785*)
     → "...... ...You will never accomplish that alone."
   1: 0x03B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03BA [0x00] END_REQSTACK()
@@ -2004,7 +2004,7 @@
 #### Opcodes
 
 ```
-  0: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7787*)
+  0: 0x03BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7788*)
     → "......"
   1: 0x03BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03BF [0x00] END_REQSTACK()
@@ -2029,7 +2029,7 @@
 #### Opcodes
 
 ```
-  0: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7791*)
+  0: 0x03C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7792*)
     → "I would be...? What did you just say?"
   1: 0x03C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03C4 [0x00] END_REQSTACK()
@@ -2054,7 +2054,7 @@
 #### Opcodes
 
 ```
-  0: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7795*)
+  0: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7796*)
     → "...It matches!"
   1: 0x03C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03C9 [0x00] END_REQSTACK()

@@ -27,11 +27,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D3F      |        7487 |
-|       1 | 0x1D40      |        7488 |
-|       2 | 0x1D41      |        7489 |
-|       3 | 0x1D42      |        7490 |
-|       4 | 0x1D43      |        7491 |
+|       0 | 0x1D40      |        7488 |
+|       1 | 0x1D41      |        7489 |
+|       2 | 0x1D42      |        7490 |
+|       3 | 0x1D43      |        7491 |
+|       4 | 0x1D44      |        7492 |
 |       5 | 0x6E7C      |       28284 |
 |       6 | 0xA51D      |       42269 |
 |       7 | 0xFFFFBFFA  |  4294950906 |
@@ -46,11 +46,11 @@
 
 ## String References
 
-- **7487**: Yes, this is the Windurst consulate. Windurst...ah, fair Windurst, how I long for thee-wee...
-- **7488**: A letter of introduction? You are from Windurst! Pray tell, how are things there!?
-- **7489**: Oh, you want missions... Then, please speak with Consul Patt-Pott... Ah, Windurst, how I long for thee-wee...
-- **7490**: You're going where all those monsters are, aren't you? I wish I was back in Windurst...it was so peaceful there.
-- **7491**: You've made it back. Then you are returning to Windurst? Oh, how I envy you...
+- **7488**: Yes, this is the Windurst consulate. Windurst...ah, fair Windurst, how I long for thee-wee...
+- **7489**: A letter of introduction? You are from Windurst! Pray tell, how are things there!?
+- **7490**: Oh, you want missions... Then, please speak with Consul Patt-Pott... Ah, Windurst, how I long for thee-wee...
+- **7491**: You're going where all those monsters are, aren't you? I wish I was back in Windurst...it was so peaceful there.
+- **7492**: You've made it back. Then you are returning to Windurst? Oh, how I envy you...
 
 ## Events
 
@@ -96,7 +96,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
     → "Yes, this is the Windurst consulate. Windurst...ah, fair Windurst, how I long for thee-wee..."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -124,10 +124,10 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
     → "A letter of introduction? You are from Windurst! Pray tell, how are things there!?"
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
     → "Oh, you want missions... Then, please speak with Consul Patt-Pott... Ah, Windurst, how I long for thee-wee..."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT
@@ -155,7 +155,7 @@
 
 ```
   0: 0x001B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
+  1: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "You're going where all those monsters are, aren't you? I wish I was back in Windurst...it was so peaceful there."
   2: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0024 [0x21] END_EVENT
@@ -183,7 +183,7 @@
 
 ```
   0: 0x0026 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
+  1: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
     → "You've made it back. Then you are returning to Windurst? Oh, how I envy you..."
   2: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002F [0x21] END_EVENT

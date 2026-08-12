@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2081      |        8321 |
+|       1 | 0x2082      |        8322 |
 |       2 | 0x0003      |           3 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0006      |           6 |
@@ -33,19 +33,19 @@
 |      10 | 0x001F      |          31 |
 |      11 | 0x0009      |           9 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x2083      |        8323 |
+|      13 | 0x2084      |        8324 |
 |      14 | 0x80000000  |  2147483648 |
 |      15 | 0x0010      |          16 |
-|      16 | 0x2086      |        8326 |
-|      17 | 0x2085      |        8325 |
+|      16 | 0x2087      |        8327 |
+|      17 | 0x2086      |        8326 |
 |      18 | 0x0020      |          32 |
 
 ## String References
 
-- **8321**: Ranking Menu. [Check version./Monthly ranking./Total ranking./Ballista ranking 1./Ballista ranking 2./Ballista ranking 3./Fishing ranking./Brenner ranking./Set total points./Check total points./Test data./Back.]
-- **8323**: [/Ballista 1/Ballista 2/Ballista 3/Fishing/Brenner/Monthly/Total] menu. [View board./Record own data./Restore to default./Back.]
-- **8325**: Close the board to proceed.
-- **8326**: error code : / $1
+- **8322**: Ranking Menu. [Check version./Monthly ranking./Total ranking./Ballista ranking 1./Ballista ranking 2./Ballista ranking 3./Fishing ranking./Brenner ranking./Set total points./Check total points./Test data./Back.]
+- **8324**: [/Ballista 1/Ballista 2/Ballista 3/Fishing/Brenner/Monthly/Total] menu. [View board./Record own data./Restore to default./Back.]
+- **8326**: Close the board to proceed.
+- **8327**: error code : / $1
 
 ## Events
 
@@ -134,7 +134,7 @@
 ```
   0: 0x0001 [0x05] ExtData[1]->WorkLocal[1] = 1
   1: 0x0004 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x018D
-  2: 0x000C [0x24] CREATE_DIALOG(message_id=8321*, default_option=0*, option_flags=0*)
+  2: 0x000C [0x24] CREATE_DIALOG(message_id=8322*, default_option=0*, option_flags=0*)
     → "Ranking Menu. [Check version./Monthly ranking./Total ranking./Ballista ranking 1./Ballista ranking 2./Ballista ranking 3./Fishing ranking./Brenner ranking./Set total points./Check total points./Test data./Back.]"
   3: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0031
@@ -220,7 +220,7 @@ SUBROUTINE_018F:
 
 SUBROUTINE_0197:
  80: 0x0197 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x02AA
- 81: 0x019F [0x24] CREATE_DIALOG(message_id=8323*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+ 81: 0x019F [0x24] CREATE_DIALOG(message_id=8324*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "[/Ballista 1/Ballista 2/Ballista 3/Fishing/Brenner/Monthly/Total] menu. [View board./Record own data./Restore to default./Back.]"
  82: 0x01A6 [0x25] WAIT_DIALOG_SELECT()
  83: 0x01A7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0206
@@ -247,12 +247,12 @@ SUBROUTINE_02A7:
      0x01D3 [0x03] Work_Zone[2] = 2147483648*
      0x01D8 [0x07] Work_Zone[2] += 16*
      0x01DD [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
-     0x01E2 [0x48] [System] [8326*]:
+     0x01E2 [0x48] [System] [8327*]:
     → "error code : / $1"
      0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01E6 [0x01] GOTO 0x0203
      0x01E9 [0xB3] RANKINGS_BOARD_HANDLER(case_type=0x02)
-     0x01EB [0x48] [System] [8325*]:
+     0x01EB [0x48] [System] [8326*]:
     → "Close the board to proceed."
      0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01EF [0x03] ExtData[1]->WorkLocal[4] = 1*
@@ -273,7 +273,7 @@ SUBROUTINE_02A7:
      0x0236 [0x03] Work_Zone[2] = 2147483648*
      0x023B [0x07] Work_Zone[2] += 32*
      0x0240 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
-     0x0245 [0x48] [System] [8326*]:
+     0x0245 [0x48] [System] [8327*]:
     → "error code : / $1"
      0x0248 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0249 [0x01] GOTO 0x0296
@@ -288,12 +288,12 @@ SUBROUTINE_02A7:
      0x0266 [0x03] Work_Zone[2] = 2147483648*
      0x026B [0x07] Work_Zone[2] += 32*
      0x0270 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[8]
-     0x0275 [0x48] [System] [8326*]:
+     0x0275 [0x48] [System] [8327*]:
     → "error code : / $1"
      0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0279 [0x01] GOTO 0x0296
      0x027C [0xB3] RANKINGS_BOARD_HANDLER(case_type=0x02)
-     0x027E [0x48] [System] [8325*]:
+     0x027E [0x48] [System] [8326*]:
     → "Close the board to proceed."
      0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0282 [0x03] ExtData[1]->WorkLocal[4] = 1*

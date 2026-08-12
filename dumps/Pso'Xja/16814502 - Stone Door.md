@@ -21,8 +21,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0253      |         595 |
-|       1 | 0x1C5B      |        7259 |
-|       2 | 0x1C6E      |        7278 |
+|       1 | 0x1C5C      |        7260 |
+|       2 | 0x1C6F      |        7279 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C9      |         201 |
@@ -35,8 +35,8 @@
 
 ## String References
 
-- **7259**: The $3 is responding to the glow from the arch!
-- **7278**: Touch the door? [Yes./No.]
+- **7260**: The $3 is responding to the glow from the arch!
+- **7279**: Touch the door? [Yes./No.]
 
 ## Events
 
@@ -95,10 +95,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x03] Work_Zone[2] = 595*
-  2: 0x0008 [0x48] [System] [7259*]:
+  2: 0x0008 [0x48] [System] [7260*]:
     → "The $3 is responding to the glow from the arch!"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7278*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7279*, default_option=1*, option_flags=0*)
     → "Touch the door? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C0

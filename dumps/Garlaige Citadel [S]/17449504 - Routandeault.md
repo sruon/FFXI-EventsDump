@@ -31,10 +31,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0005      |           5 |
-|       1 | 0x1E0E      |        7694 |
+|       1 | 0x1E0F      |        7695 |
 |       2 | 0x001E      |          30 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x1E0F      |        7695 |
+|       4 | 0x1E10      |        7696 |
 |       5 | 0x0028      |          40 |
 |       6 | 0x000D      |          13 |
 |       7 | 0x0003      |           3 |
@@ -101,13 +101,13 @@
 ```
   0: 0x0001 [0x6E] Laurimaux (ID: 17449505/0x010A4221) uses emote 5*
   1: 0x0008 [0x99] Wait for Laurimaux (ID: 17449505/0x010A4221) animation to complete
-  2: 0x000D [0x2B] Laurimaux (ID: 17449505/0x010A4221) [7694*]:
+  2: 0x000D [0x2B] Laurimaux (ID: 17449505/0x010A4221) [7695*]:
     → "Beastman Confederate or not, if they are going to attack, I wish they would just hurry up and get it over with! I'm sick of being afraid and waiting... I just want it all to be over!"
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0015 [0x1C] WAIT(30* ticks)
   5: 0x0018 [0x6E] Routandeault (ID: 17449504/0x010A4220) uses emote 20*
   6: 0x001F [0x99] Wait for Routandeault (ID: 17449504/0x010A4220) animation to complete
-  7: 0x0024 [0x2B] Routandeault (ID: 17449504/0x010A4220) [7695*]:
+  7: 0x0024 [0x2B] Routandeault (ID: 17449504/0x010A4220) [7696*]:
     → "Pull yourself together, man! You think you're the only one who's scared? I'm terrified! But if we give in to that fear and run now, we'll have no place left to go!"
   8: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002C [0x21] END_EVENT

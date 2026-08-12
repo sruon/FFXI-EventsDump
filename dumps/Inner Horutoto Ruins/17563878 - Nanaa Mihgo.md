@@ -82,27 +82,27 @@
 |      10 | 0x07E8      |        2024 |
 |      11 | 0x000D      |          13 |
 |      12 | 0xFFFFA5BF  |  4294944191 |
-|      13 | 0x1C79      |        7289 |
-|      14 | 0x1C7E      |        7294 |
-|      15 | 0x1C88      |        7304 |
-|      16 | 0x1C89      |        7305 |
-|      17 | 0x1C8A      |        7306 |
-|      18 | 0x1C8E      |        7310 |
-|      19 | 0x1C91      |        7313 |
-|      20 | 0x1C9C      |        7324 |
-|      21 | 0x1C9D      |        7325 |
+|      13 | 0x1C7A      |        7290 |
+|      14 | 0x1C7F      |        7295 |
+|      15 | 0x1C89      |        7305 |
+|      16 | 0x1C8A      |        7306 |
+|      17 | 0x1C8B      |        7307 |
+|      18 | 0x1C8F      |        7311 |
+|      19 | 0x1C92      |        7314 |
+|      20 | 0x1C9D      |        7325 |
+|      21 | 0x1C9E      |        7326 |
 
 ## String References
 
-- **7289**: Thank you for kindly coming all this way to carry out our little trrransaction.
-- **7294**: Huh...?
-- **7304**: Alrrright, I'll tell you then... All you wish to know is their wherrreabouts, right?
-- **7305**: The boxes you seek are hidden in the old summoner's rrresidence in Windurst Walls...the "House of the Hero."
-- **7306**: Now that I've told you, you can stop chasing us around, alrrright?
-- **7310**: Of course I'm telling the trrruth. I know only too well that you Carrrdians can detect when someone is lying!
-- **7313**: Why, you double-crrrossing...
-- **7324**: You know that the second you lay hands on those boxes, the Carrrdians are going to go after you, don't you?
-- **7325**: Well, I suppose if it means an end to being tailed by those crrreepy Carrrdians and you, my pesky little man, then it is a small prrrice to pay.
+- **7290**: Thank you for kindly coming all this way to carry out our little trrransaction.
+- **7295**: Huh...?
+- **7305**: Alrrright, I'll tell you then... All you wish to know is their wherrreabouts, right?
+- **7306**: The boxes you seek are hidden in the old summoner's rrresidence in Windurst Walls...the "House of the Hero."
+- **7307**: Now that I've told you, you can stop chasing us around, alrrright?
+- **7311**: Of course I'm telling the trrruth. I know only too well that you Carrrdians can detect when someone is lying!
+- **7314**: Why, you double-crrrossing...
+- **7325**: You know that the second you lay hands on those boxes, the Carrrdians are going to go after you, don't you?
+- **7326**: Well, I suppose if it means an end to being tailed by those crrreepy Carrrdians and you, my pesky little man, then it is a small prrrice to pay.
 
 ## Events
 
@@ -1144,7 +1144,7 @@
 #### Opcodes
 
 ```
-  0: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+  0: 0x0293 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "Thank you for kindly coming all this way to carry out our little trrransaction."
   1: 0x0296 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0297 [0x00] END_REQSTACK()
@@ -1194,7 +1194,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+  0: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
     → "Huh...?"
   1: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02AB [0x00] END_REQSTACK()
@@ -1222,7 +1222,7 @@
 
 ```
   0: 0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x01)
-  1: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
+  1: 0x02B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
     → "Alrrright, I'll tell you then... All you wish to know is their wherrreabouts, right?"
   2: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x07)
@@ -1252,10 +1252,10 @@
 
 ```
   0: 0x02C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x03)
-  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
+  1: 0x02CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
     → "The boxes you seek are hidden in the old summoner's rrresidence in Windurst Walls...the "House of the Hero.""
   2: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+  3: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "Now that I've told you, you can stop chasing us around, alrrright?"
   4: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x05)
@@ -1284,7 +1284,7 @@
 
 ```
   0: 0x02E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x01)
-  1: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  1: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "Of course I'm telling the trrruth. I know only too well that you Carrrdians can detect when someone is lying!"
   2: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x07)
@@ -1312,7 +1312,7 @@
 #### Opcodes
 
 ```
-  0: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  0: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Why, you double-crrrossing..."
   1: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0302 [0x00] END_REQSTACK()
@@ -1339,10 +1339,10 @@
 
 ```
   0: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17563878/0x010C00E6), tag_num=0x17)
-  1: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+  1: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "You know that the second you lay hands on those boxes, the Carrrdians are going to go after you, don't you?"
   2: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
+  3: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
     → "Well, I suppose if it means an end to being tailed by those crrreepy Carrrdians and you, my pesky little man, then it is a small prrrice to pay."
   4: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0312 [0x00] END_REQSTACK()

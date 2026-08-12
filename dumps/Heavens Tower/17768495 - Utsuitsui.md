@@ -49,12 +49,12 @@
 |      11 | 0x01D5      |         469 |
 |      12 | 0x0203      |         515 |
 |      13 | 0x0204      |         516 |
-|      14 | 0x206E      |        8302 |
-|      15 | 0x206F      |        8303 |
-|      16 | 0x20FA      |        8442 |
-|      17 | 0x20FB      |        8443 |
-|      18 | 0x2156      |        8534 |
-|      19 | 0x2157      |        8535 |
+|      14 | 0x206F      |        8303 |
+|      15 | 0x2070      |        8304 |
+|      16 | 0x20FB      |        8443 |
+|      17 | 0x20FC      |        8444 |
+|      18 | 0x2157      |        8535 |
+|      19 | 0x2158      |        8536 |
 
 ## String References
 
@@ -70,12 +70,12 @@
 - **469**: Th-th-th-there is much unrest among the ladies here. Wh-wh-wh-why, you ask? Th-th-th-the conference of ministers is over and done, and the f-f-f-fate of Windurst has been set. <Fret>
 - **515**: This is the Vestal Vestibule for the Star Sibyl's ladies-in-waiting. I guess you could call this the second floor of the Heavens Tower you are in. <Grin>
 - **516**: The ladies today have lost their usual composure, but do not look down upon them. Your news has everyone excited after feeling down for such a long while. <Smile>
-- **8302**: ...M-m-my hands, l-l-look at them qu-qu-quiver... <Shiver>
-- **8303**: ...Oh, S-S-Star S-S-Sibyl... Will W-W-Windurst become the scene for a b-b-bloody b-b-beastman b-b-binge...? <Cringe>
-- **8442**: These days Sibyl Guard Semih Lafihna is always rushing around. <Frown>
-- **8443**: Kupipi and Lady Zubaba seem buried in their duties as well. This all started when the Star Sibyl took ill, and it's been that way ever since. <Wince>
-- **8534**: The Star Sibyl's pain is our pain. We share the pain between us so we don't overtax our Tarutaru-sized frames. <Proclaims>
-- **8535**: The Star Sibyl's joy is our joy. And because of our Tarutaru-sized frames, even the smallest joy is still enough to share. <Declare>
+- **8303**: ...M-m-my hands, l-l-look at them qu-qu-quiver... <Shiver>
+- **8304**: ...Oh, S-S-Star S-S-Sibyl... Will W-W-Windurst become the scene for a b-b-bloody b-b-beastman b-b-binge...? <Cringe>
+- **8443**: These days Sibyl Guard Semih Lafihna is always rushing around. <Frown>
+- **8444**: Kupipi and Lady Zubaba seem buried in their duties as well. This all started when the Star Sibyl took ill, and it's been that way ever since. <Wince>
+- **8535**: The Star Sibyl's pain is our pain. We share the pain between us so we don't overtax our Tarutaru-sized frames. <Proclaims>
+- **8536**: The Star Sibyl's joy is our joy. And because of our Tarutaru-sized frames, even the smallest joy is still enough to share. <Declare>
 
 ## Events
 
@@ -515,10 +515,10 @@
   1: 0x0122 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0123 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x03)
-  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "...M-m-my hands, l-l-look at them qu-qu-quiver... <Shiver>"
   5: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
+  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
     → "...Oh, S-S-Star S-S-Sibyl... Will W-W-Windurst become the scene for a b-b-bloody b-b-beastman b-b-binge...? <Cringe>"
   7: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0133 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x04)
@@ -554,10 +554,10 @@
   1: 0x0151 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0152 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0153 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x01)
-  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+  4: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "These days Sibyl Guard Semih Lafihna is always rushing around. <Frown>"
   5: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+  6: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "Kupipi and Lady Zubaba seem buried in their duties as well. This all started when the Star Sibyl took ill, and it's been that way ever since. <Wince>"
   7: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0162 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x02)
@@ -591,10 +591,10 @@
   1: 0x0172 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0173 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0174 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x01)
-  4: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8534*)
+  4: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
     → "The Star Sibyl's pain is our pain. We share the pain between us so we don't overtax our Tarutaru-sized frames. <Proclaims>"
   5: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
+  6: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
     → "The Star Sibyl's joy is our joy. And because of our Tarutaru-sized frames, even the smallest joy is still enough to share. <Declare>"
   7: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0183 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Utsuitsui (ID: 17768495/0x010F202F), tag_num=0x02)

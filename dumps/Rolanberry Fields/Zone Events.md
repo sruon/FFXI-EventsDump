@@ -85,12 +85,12 @@
 |      13 | 0x5FAA      |       24490 |
 |      14 | 0x0D21      |        3361 |
 |      15 | 0x0005      |           5 |
-|      16 | 0x1D35      |        7477 |
+|      16 | 0x1D36      |        7478 |
 |      17 | 0x001E      |          30 |
-|      18 | 0x1D36      |        7478 |
-|      19 | 0x1D37      |        7479 |
-|      20 | 0x1D3B      |        7483 |
-|      21 | 0x1D38      |        7480 |
+|      18 | 0x1D37      |        7479 |
+|      19 | 0x1D38      |        7480 |
+|      20 | 0x1D3C      |        7484 |
+|      21 | 0x1D39      |        7481 |
 |      22 | 0x00C9      |         201 |
 |      23 | 0x000B      |          11 |
 |      24 | 0xFFFCF255  |  4294767189 |
@@ -344,11 +344,11 @@
  16: 0x00A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[5*, 0*]
  17: 0x00B6 [0x4A] Audee (ID: 17228362/0x0106E24A) looks at LocalPlayer
  18: 0x00BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 19: 0x00D0 [0x2B] Audee (ID: 17228362/0x0106E24A) [7477*]:
+ 19: 0x00D0 [0x2B] Audee (ID: 17228362/0x0106E24A) [7478*]:
     → "You've helped our poor girl find her way home! I don't know how to thank you!"
  20: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00D8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Audee (ID: 17228362/0x0106E24A), Audee (ID: 17228362/0x0106E24A)], work=30*
- 22: 0x00E7 [0x2B] Audee (ID: 17228362/0x0106E24A) [7478*]:
+ 22: 0x00E7 [0x2B] Audee (ID: 17228362/0x0106E24A) [7479*]:
     → "And to think you made it here in a mere $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  23: 0x00EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00EF [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0141
@@ -360,17 +360,17 @@
  30: 0x011A [0x15] Work_Zone[6] /= 60*
  31: 0x011F [0x3F] Work_Zone[7] = Work_Zone[7] % 60*
  32: 0x0126 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0139
- 33: 0x012E [0x2B] Audee (ID: 17228362/0x0106E24A) [7479*]:
+ 33: 0x012E [0x2B] Audee (ID: 17228362/0x0106E24A) [7480*]:
     → "Oh, and by the way, the fastest adventurer to date has been %0. That talented rider traversed the same course as you in $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)!"
  34: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0136 [0x01] GOTO 0x0141
- 36: 0x0139 [0x2B] Audee (ID: 17228362/0x0106E24A) [7483*]:
+ 36: 0x0139 [0x2B] Audee (ID: 17228362/0x0106E24A) [7484*]:
     → "Oh, and by the way, the fastest adventurer to date has been...you! Your remarkable record of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time) still stands strong!"
  37: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0141:
  38: 0x0141 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Audee (ID: 17228362/0x0106E24A), Audee (ID: 17228362/0x0106E24A)], work=30*
- 39: 0x0150 [0x2B] Audee (ID: 17228362/0x0106E24A) [7480*]:
+ 39: 0x0150 [0x2B] Audee (ID: 17228362/0x0106E24A) [7481*]:
     → "Anyway, please take this as a token of our appreciation. And stop by again sometime. We may have more work for you!"
  40: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0158 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=5*

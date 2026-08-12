@@ -22,18 +22,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1CF4      |        7412 |
+|       1 | 0x1CF5      |        7413 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1D06      |        7430 |
-|       4 | 0x1D07      |        7431 |
-|       5 | 0x1D08      |        7432 |
+|       3 | 0x1D07      |        7431 |
+|       4 | 0x1D08      |        7432 |
+|       5 | 0x1D09      |        7433 |
 
 ## String References
 
-- **7412**: They're conducting drills up ahead... At least, I think they are.
-- **7430**: Ruillont's sword? Yes, I was keeping it for him during training.
-- **7431**: What, Ruillont's stuck in a cave? How typical of him to refuse your help...
-- **7432**: Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me.
+- **7413**: They're conducting drills up ahead... At least, I think they are.
+- **7431**: Ruillont's sword? Yes, I was keeping it for him during training.
+- **7432**: What, Ruillont's stuck in a cave? How typical of him to refuse your help...
+- **7433**: Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me.
 
 ## Events
 
@@ -83,7 +83,7 @@
 
 ```
   0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "They're conducting drills up ahead... At least, I think they are."
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0014 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi1" with entities [EventEntity, EventEntity]
@@ -121,17 +121,17 @@
   1: 0x0047 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0048 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0049 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+  4: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "Ruillont's sword? Yes, I was keeping it for him during training."
   5: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x005C [0x1C] WAIT(30* ticks)
-  7: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+  7: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "What, Ruillont's stuck in a cave? How typical of him to refuse your help..."
   8: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0063 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  10: 0x0068 [0x1C] WAIT(30* ticks)
  11: 0x006B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 12: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+ 12: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me."
  13: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x007E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

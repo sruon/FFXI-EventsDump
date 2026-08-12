@@ -33,8 +33,8 @@
 |      10 | 0x000A      |          10 |
 |      11 | 0x000B      |          11 |
 |      12 | 0x000C      |          12 |
-|      13 | 0x1D66      |        7526 |
-|      14 | 0x1D67      |        7527 |
+|      13 | 0x1D67      |        7527 |
+|      14 | 0x1D68      |        7528 |
 |      15 | 0xFFFC5F69  |  4294729577 |
 |      16 | 0x61D57     |      400727 |
 |      17 | 0x752F      |       29999 |
@@ -70,8 +70,8 @@
 
 ## String References
 
-- **7526**: The device makes a small humming noise. Teleportation is now active.
-- **7527**: Select a location. [None, thanks./Hall of the Reckless./Ymmr-Ulvid's Chamber./Ignor-Mnt's Chamber./Durs-Vike's Chamber./Tryl-Wuj's Chamber./Liij-Vok's Chamber./Gramk-Droog's Hall.]
+- **7527**: The device makes a small humming noise. Teleportation is now active.
+- **7528**: Select a location. [None, thanks./Hall of the Reckless./Ymmr-Ulvid's Chamber./Ignor-Mnt's Chamber./Durs-Vike's Chamber./Tryl-Wuj's Chamber./Liij-Vok's Chamber./Gramk-Droog's Hall.]
 
 ## Events
 
@@ -206,10 +206,10 @@ SUBROUTINE_006C:
  30: 0x00B9 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=6*, condition_work_offset=1*)
  31: 0x00C0 [0x3E] IF !(Work_Zone[2] bit 12*) GOTO 0x00CE
  32: 0x00C7 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=7*, condition_work_offset=1*)
- 33: 0x00CE [0x48] [System] [7526*]:
+ 33: 0x00CE [0x48] [System] [7527*]:
     → "The device makes a small humming noise. Teleportation is now active."
  34: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00D2 [0x24] CREATE_DIALOG(message_id=7527*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 35: 0x00D2 [0x24] CREATE_DIALOG(message_id=7528*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Select a location. [None, thanks./Hall of the Reckless./Ymmr-Ulvid's Chamber./Ignor-Mnt's Chamber./Durs-Vike's Chamber./Tryl-Wuj's Chamber./Liij-Vok's Chamber./Gramk-Droog's Hall.]"
  36: 0x00D9 [0x25] WAIT_DIALOG_SELECT()
  37: 0x00DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EA

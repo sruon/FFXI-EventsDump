@@ -28,8 +28,8 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x213A      |        8506 |
-|       3 | 0x213B      |        8507 |
+|       2 | 0x213B      |        8507 |
+|       3 | 0x213C      |        8508 |
 |       4 | 0x2A69      |       10857 |
 |       5 | 0xFFFF3BC6  |  4294917062 |
 |       6 | 0x07CF      |        1999 |
@@ -37,8 +37,8 @@
 
 ## String References
 
-- **8506**: Elvaan are all so high and haughty. It almost seems like they look down on us Tarutaru at times.
-- **8507**: Huh...? How dare you say that's because we are so short that everyone can't help but look down on us! Beat it before I bite your kneecaps!
+- **8507**: Elvaan are all so high and haughty. It almost seems like they look down on us Tarutaru at times.
+- **8508**: Huh...? How dare you say that's because we are so short that everyone can't help but look down on us! Beat it before I bite your kneecaps!
 
 ## Events
 
@@ -163,10 +163,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakaru-Marikaru (ID: 17764486/0x010F1086), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8506*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
     → "Elvaan are all so high and haughty. It almost seems like they look down on us Tarutaru at times."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8507*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8508*)
     → "Huh...? How dare you say that's because we are so short that everyone can't help but look down on us! Beat it before I bite your kneecaps!"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hakaru-Marikaru (ID: 17764486/0x010F1086), tag_num=0x03)

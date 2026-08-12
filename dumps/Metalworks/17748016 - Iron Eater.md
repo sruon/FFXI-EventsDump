@@ -94,7 +94,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D6C      |        7532 |
+|       0 | 0x1D6D      |        7533 |
 |       1 | 0x159B1     |       88497 |
 |       2 | 0x3007      |       12295 |
 |       3 | 0xFFFFB136  |  4294947126 |
@@ -126,7 +126,7 @@
 |      29 | 0x175D0     |       95696 |
 |      30 | 0x3E82      |       16002 |
 |      31 | 0x042B      |        1067 |
-|      32 | 0x1E87      |        7815 |
+|      32 | 0x1E88      |        7816 |
 |      33 | 0x189D0     |      100816 |
 |      34 | 0x0F00      |        3840 |
 |      35 | 0x0209      |         521 |
@@ -174,17 +174,17 @@
 |      77 | 0x16B4D     |       93005 |
 |      78 | 0x07B0      |        1968 |
 |      79 | 0x04AE      |        1198 |
-|      80 | 0x233A      |        9018 |
+|      80 | 0x233B      |        9019 |
 |      81 | 0x0000      |           0 |
 |      82 | 0x0002      |           2 |
-|      83 | 0x233B      |        9019 |
+|      83 | 0x233C      |        9020 |
 |      84 | 0x0001      |           1 |
 |      85 | 0x0045      |          69 |
-|      86 | 0x233C      |        9020 |
-|      87 | 0x233D      |        9021 |
-|      88 | 0x233E      |        9022 |
-|      89 | 0x233F      |        9023 |
-|      90 | 0x2340      |        9024 |
+|      86 | 0x233D      |        9021 |
+|      87 | 0x233E      |        9022 |
+|      88 | 0x233F      |        9023 |
+|      89 | 0x2340      |        9024 |
+|      90 | 0x2341      |        9025 |
 |      91 | 0x5BF6      |       23542 |
 |      92 | 0xFFFFEF7F  |  4294963071 |
 |      93 | 0xFFFFC951  |  4294953297 |
@@ -194,12 +194,12 @@
 |      97 | 0x00CA      |         202 |
 |      98 | 0x183C3     |       99267 |
 |      99 | 0x052F      |        1327 |
-|     100 | 0x2531      |        9521 |
-|     101 | 0x2532      |        9522 |
-|     102 | 0x2A31      |       10801 |
-|     103 | 0x2A32      |       10802 |
-|     104 | 0x2B36      |       11062 |
-|     105 | 0x2B37      |       11063 |
+|     100 | 0x2532      |        9522 |
+|     101 | 0x2533      |        9523 |
+|     102 | 0x2A32      |       10802 |
+|     103 | 0x2A33      |       10803 |
+|     104 | 0x2B37      |       11063 |
+|     105 | 0x2B38      |       11064 |
 |     106 | 0x0083      |         131 |
 |     107 | 0x0015      |          21 |
 |     108 | 0x003C      |          60 |
@@ -219,21 +219,21 @@
 
 ## String References
 
-- **7532**: These doors lead to the President's Office. Only those on special missions and high-ranking Bastokan adventurers may enter.
-- **7815**: The way to the rendezvous point is through the Pashhow Marshlands. It is right inside Beadeaux.
-- **9018**: Is something wrong? Are you giving up so easily?
-- **9019**: What is wrong? [Nothing./I've lost the axe./I've decided to give up.]
-- **9020**: And you call yourself an adventurer. You should learn to take better care of your property! Here, take this axe, and be more careful this time.
-- **9021**: Give up? After coming this far?
-- **9022**: Do you really want to give up? [Yes./Not just yet.]
-- **9023**: I see you were not ready for the task I offered you... Do what you wish with that axe. I have no need for it.
-- **9024**: Your journey is not yet over, <Player>. There are still many roads that this axe has to lead you down.
-- **9521**: You will find there are not many people who are willing to speak of the Multinational Expedition.
-- **9522**: Especially among us Galka...
-- **10801**: Now that you mention it, he and Gumbah often used to travel to Grauberg.
-- **10802**: What was it about that mountain...?
-- **11062**: A document about this new "Trust Initiative"... What would the Jeuno Institute of Magical Studies want with me?
-- **11063**: On the surface, it does not seem particularly dangerous...
+- **7533**: These doors lead to the President's Office. Only those on special missions and high-ranking Bastokan adventurers may enter.
+- **7816**: The way to the rendezvous point is through the Pashhow Marshlands. It is right inside Beadeaux.
+- **9019**: Is something wrong? Are you giving up so easily?
+- **9020**: What is wrong? [Nothing./I've lost the axe./I've decided to give up.]
+- **9021**: And you call yourself an adventurer. You should learn to take better care of your property! Here, take this axe, and be more careful this time.
+- **9022**: Give up? After coming this far?
+- **9023**: Do you really want to give up? [Yes./Not just yet.]
+- **9024**: I see you were not ready for the task I offered you... Do what you wish with that axe. I have no need for it.
+- **9025**: Your journey is not yet over, <Player>. There are still many roads that this axe has to lead you down.
+- **9522**: You will find there are not many people who are willing to speak of the Multinational Expedition.
+- **9523**: Especially among us Galka...
+- **10802**: Now that you mention it, he and Gumbah often used to travel to Grauberg.
+- **10803**: What was it about that mountain...?
+- **11063**: A document about this new "Trust Initiative"... What would the Jeuno Institute of Magical Studies want with me?
+- **11064**: On the surface, it does not seem particularly dangerous...
 
 ## Events
 
@@ -301,7 +301,7 @@
 
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7532*)
+  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=7533*)
     → "These doors lead to the President's Office. Only those on special missions and high-ranking Bastokan adventurers may enter."
   2: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000B [0x21] END_EVENT
@@ -563,7 +563,7 @@
 
 ```
   0: 0x00A1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7815*)
+  1: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
     → "The way to the rendezvous point is through the Pashhow Marshlands. It is right inside Beadeaux."
   2: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00AA [0x21] END_EVENT
@@ -1129,7 +1129,7 @@
 
 ```
   0: 0x01C5 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "Is something wrong? Are you giving up so easily?"
   2: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01CE [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x01DE
@@ -1138,7 +1138,7 @@
   6: 0x01DE [0x03] ExtData[1]->WorkLocal[0] = 2*
 
 SUBROUTINE_01E3:
-  7: 0x01E3 [0x24] CREATE_DIALOG(message_id=9019*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+  7: 0x01E3 [0x24] CREATE_DIALOG(message_id=9020*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "What is wrong? [Nothing./I've lost the axe./I've decided to give up.]"
   8: 0x01EA [0x25] WAIT_DIALOG_SELECT()
   9: 0x01EB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F9
@@ -1146,20 +1146,20 @@ SUBROUTINE_01E3:
  11: 0x01F6 [0x01] GOTO 0x0255
  12: 0x01F9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x021C
  13: 0x0201 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Iron Eater (ID: 17748016/0x010ED030), Iron Eater (ID: 17748016/0x010ED030)], work=69*
- 14: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+ 14: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "And you call yourself an adventurer. You should learn to take better care of your property! Here, take this axe, and be more careful this time."
  15: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0214 [0x03] Work_Zone[1] = 1*
  17: 0x0219 [0x01] GOTO 0x0255
  18: 0x021C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0255
- 19: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+ 19: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Give up? After coming this far?"
  20: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0228 [0x24] CREATE_DIALOG(message_id=9022*, default_option=1*, option_flags=0*)
+ 21: 0x0228 [0x24] CREATE_DIALOG(message_id=9023*, default_option=1*, option_flags=0*)
     → "Do you really want to give up? [Yes./Not just yet.]"
  22: 0x022F [0x25] WAIT_DIALOG_SELECT()
  23: 0x0230 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0244
- 24: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
+ 24: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
     → "I see you were not ready for the task I offered you... Do what you wish with that axe. I have no need for it."
  25: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x023C [0x03] Work_Zone[1] = 2*
@@ -1198,7 +1198,7 @@ SUBROUTINE_0255:
 ```
   0: 0x0257 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0258 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+  2: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "Your journey is not yet over, <Player>. There are still many roads that this axe has to lead you down."
   3: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0261 [0x21] END_EVENT
@@ -1391,11 +1391,11 @@ SUBROUTINE_0255:
 
 ```
   0: 0x029C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9521*)
+  1: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9522*)
     → "You will find there are not many people who are willing to speak of the Multinational Expedition."
   2: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02A5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Iron Eater (ID: 17748016/0x010ED030), Iron Eater (ID: 17748016/0x010ED030)], work=69*
-  4: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9522*)
+  4: 0x02B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9523*)
     → "Especially among us Galka..."
   5: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02B8 [0x21] END_EVENT
@@ -1448,10 +1448,10 @@ SUBROUTINE_0255:
   0: 0x02BB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02C0 [0x1C] WAIT(30* ticks)
   2: 0x02C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10801*)
+  3: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
     → "Now that you mention it, he and Gumbah often used to travel to Grauberg."
   4: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10802*)
+  5: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10803*)
     → "What was it about that mountain...?"
   6: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02DA [0x21] END_EVENT
@@ -1528,10 +1528,10 @@ SUBROUTINE_0255:
   1: 0x02E3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=69*
-  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11062*)
+  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11063*)
     → "A document about this new "Trust Initiative"... What would the Jeuno Institute of Magical Studies want with me?"
   5: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11063*)
+  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11064*)
     → "On the surface, it does not seem particularly dangerous..."
   7: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02FC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=69*

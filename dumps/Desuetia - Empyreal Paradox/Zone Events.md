@@ -98,10 +98,10 @@
 |      43 | 0x0010      |          16 |
 |      44 | 0x001F      |          31 |
 |      45 | 0xFFFFFFFF  |  4294967295 |
-|      46 | 0x1E89      |        7817 |
-|      47 | 0x1E11      |        7697 |
+|      46 | 0x1E8A      |        7818 |
+|      47 | 0x1E12      |        7698 |
 |      48 | 0x0004      |           4 |
-|      49 | 0x1CA4      |        7332 |
+|      49 | 0x1CA5      |        7333 |
 |      50 | 0x00FF      |         255 |
 |      51 | 0x00C8      |         200 |
 |      52 | 0x0013      |          19 |
@@ -112,12 +112,12 @@
 |      57 | 0x7EF40     |      520000 |
 |      58 | 0xFFF83000  |  4294455296 |
 |      59 | 0xFFF0BDC0  |  4293967296 |
-|      60 | 0x1CAF      |        7343 |
-|      61 | 0x1CB0      |        7344 |
-|      62 | 0x1CB1      |        7345 |
-|      63 | 0x1CB2      |        7346 |
-|      64 | 0x1CB3      |        7347 |
-|      65 | 0x1CD6      |        7382 |
+|      60 | 0x1CB0      |        7344 |
+|      61 | 0x1CB1      |        7345 |
+|      62 | 0x1CB2      |        7346 |
+|      63 | 0x1CB3      |        7347 |
+|      64 | 0x1CB4      |        7348 |
+|      65 | 0x1CD7      |        7383 |
 |      66 | 0x0006      |           6 |
 |      67 | 0x000C      |          12 |
 |      68 | 0x000E      |          14 |
@@ -132,25 +132,25 @@
 |      77 | 0x001B      |          27 |
 |      78 | 0x001C      |          28 |
 |      79 | 0x001D      |          29 |
-|      80 | 0x1E0B      |        7691 |
-|      81 | 0x1E10      |        7696 |
-|      82 | 0x1E0F      |        7695 |
-|      83 | 0x1E87      |        7815 |
-|      84 | 0x1E86      |        7814 |
-|      85 | 0x1DF7      |        7671 |
+|      80 | 0x1E0C      |        7692 |
+|      81 | 0x1E11      |        7697 |
+|      82 | 0x1E10      |        7696 |
+|      83 | 0x1E88      |        7816 |
+|      84 | 0x1E87      |        7815 |
+|      85 | 0x1DF8      |        7672 |
 |      86 | 0x0052      |          82 |
-|      87 | 0x1CA7      |        7335 |
+|      87 | 0x1CA8      |        7336 |
 |      88 | 0x83D55     |      539989 |
 |      89 | 0xFFF733F6  |  4294390774 |
 |      90 | 0x00B4      |         180 |
 |      91 | 0x012C      |         300 |
-|      92 | 0x1DF9      |        7673 |
-|      93 | 0x1DF8      |        7672 |
-|      94 | 0x1E85      |        7813 |
-|      95 | 0x1DFB      |        7675 |
-|      96 | 0x1DFA      |        7674 |
+|      92 | 0x1DFA      |        7674 |
+|      93 | 0x1DF9      |        7673 |
+|      94 | 0x1E86      |        7814 |
+|      95 | 0x1DFC      |        7676 |
+|      96 | 0x1DFB      |        7675 |
 |      97 | 0x0078      |         120 |
-|      98 | 0x1CA5      |        7333 |
+|      98 | 0x1CA6      |        7334 |
 |      99 | 0x0089      |         137 |
 |     100 | 0x006C      |         108 |
 |     101 | 0x002D      |          45 |
@@ -158,28 +158,28 @@
 
 ## String References
 
-- **7332**: Enter the battlefield? [Enter./Decline.]
-- **7333**: Leave the battlefield? [Run away./Stay.]
-- **7335**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7343**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7333**: Enter the battlefield? [Enter./Decline.]
+- **7334**: Leave the battlefield? [Run away./Stay.]
+- **7336**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7344**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7345**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7346**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7347**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7382**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7671**: Skip the event? [Yes./No.]
-- **7672**: Battlefield clear time: $3 second[/s]!
-- **7673**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7674**: The current battlefield clear time record is $3 second[/s].
-- **7675**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7691**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7695**: That record is held by $5 adventurers, including %0!
-- **7696**: That record is held by %0!
-- **7697**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7813**: You have broken the clear time record for "[No Time Like the Future/]"!
-- **7814**: The current battlefield clear time record for "[No Time Like the Future/]" is $3 second[/s].
-- **7815**: The current battlefield clear time record for "[No Time Like the Future/]" is $3 minute[/s] $2 second[/s].
-- **7817**: Which battlefield will you enter? [None./No Time Like the Future./]
+- **7348**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7383**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7672**: Skip the event? [Yes./No.]
+- **7673**: Battlefield clear time: $3 second[/s]!
+- **7674**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7675**: The current battlefield clear time record is $3 second[/s].
+- **7676**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7692**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7696**: That record is held by $5 adventurers, including %0!
+- **7697**: That record is held by %0!
+- **7698**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7814**: You have broken the clear time record for "[No Time Like the Future/]"!
+- **7815**: The current battlefield clear time record for "[No Time Like the Future/]" is $3 second[/s].
+- **7816**: The current battlefield clear time record for "[No Time Like the Future/]" is $3 minute[/s] $2 second[/s].
+- **7818**: Which battlefield will you enter? [None./No Time Like the Future./]
 
 ## Events
 
@@ -1158,7 +1158,7 @@
  12: 0x033B [0x03] ExtData[1]->WorkLocal[9] = 4294967295*
  13: 0x0340 [0x0F] ExtData[1]->WorkLocal[9] ^= ExtData[1]->WorkLocal[7]
  14: 0x0345 [0x10] ExtData[1]->WorkLocal[9] <<= 1*
- 15: 0x034A [0x24] CREATE_DIALOG(message_id=7817*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
+ 15: 0x034A [0x24] CREATE_DIALOG(message_id=7818*, default_option=0*, option_flags=ExtData[1]->WorkLocal[9])
     → "Which battlefield will you enter? [None./No Time Like the Future./]"
  16: 0x0351 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0352 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0360
@@ -1171,7 +1171,7 @@ SUBROUTINE_038C:
 
 SUBROUTINE_039D:
  22: 0x039D [0x1A] CALL_SUBROUTINE(address=0x110E)
- 23: 0x03A0 [0x24] CREATE_DIALOG(message_id=7697*, default_option=5*, option_flags=ExtData[1]->WorkLocal[9])
+ 23: 0x03A0 [0x24] CREATE_DIALOG(message_id=7698*, default_option=5*, option_flags=ExtData[1]->WorkLocal[9])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  24: 0x03A7 [0x25] WAIT_DIALOG_SELECT()
  25: 0x03A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B8
@@ -1197,7 +1197,7 @@ SUBROUTINE_040B:
  43: 0x040E [0x06] ExtData[1]->WorkLocal[16] = 0
  44: 0x0411 [0x1A] CALL_SUBROUTINE(address=0x0BC2)
  45: 0x0414 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0432
- 46: 0x041C [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+ 46: 0x041C [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  47: 0x0423 [0x25] WAIT_DIALOG_SELECT()
  48: 0x0424 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0432
@@ -1275,27 +1275,27 @@ SUBROUTINE_0558:
 112: 0x058A [0x01] GOTO 0x0B6B
 113: 0x058D [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x05E6
 114: 0x0595 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x05A4
-115: 0x059D [0x48] [System] [7343*]:
+115: 0x059D [0x48] [System] [7344*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 116: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x05A1 [0x01] GOTO 0x05E0
 118: 0x05A4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 2*) GOTO 0x05B3
-119: 0x05AC [0x48] [System] [7344*]:
+119: 0x05AC [0x48] [System] [7345*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 120: 0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x05B0 [0x01] GOTO 0x05E0
 122: 0x05B3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 3*) GOTO 0x05C2
-123: 0x05BB [0x48] [System] [7345*]:
+123: 0x05BB [0x48] [System] [7346*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 124: 0x05BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x05BF [0x01] GOTO 0x05E0
 126: 0x05C2 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x05D1
-127: 0x05CA [0x48] [System] [7346*]:
+127: 0x05CA [0x48] [System] [7347*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 128: 0x05CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x05CE [0x01] GOTO 0x05E0
 130: 0x05D1 [0x02] IF !(ExtData[1]->WorkLocal[2] == 5*) GOTO 0x05E0
-131: 0x05D9 [0x48] [System] [7347*]:
+131: 0x05D9 [0x48] [System] [7348*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 132: 0x05DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x05DD [0x01] GOTO 0x05E0
@@ -1304,7 +1304,7 @@ SUBROUTINE_05E0:
 134: 0x05E0 [0x01] GOTO 0x0B75
 
 SUBROUTINE_07F0:
-135: 0x07F0 [0x48] [System] [7691*]:
+135: 0x07F0 [0x48] [System] [7692*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 136: 0x07F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x07F4 [0x01] GOTO 0x0B75
@@ -1316,24 +1316,24 @@ SUBROUTINE_084D:
 141: 0x085D [0x02] IF !(ExtData[1]->WorkLocal[27] < 60*) GOTO 0x0878
 142: 0x0865 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 143: 0x086C [0x15] Work_Zone[5] /= 60*
-144: 0x0871 [0x48] [System] [7815*]:
+144: 0x0871 [0x48] [System] [7816*]:
     → "The current battlefield clear time record for "[No Time Like the Future/]" is $3 minute[/s] $2 second[/s]."
 145: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0875 [0x01] GOTO 0x087C
-147: 0x0878 [0x48] [System] [7814*]:
+147: 0x0878 [0x48] [System] [7815*]:
     → "The current battlefield clear time record for "[No Time Like the Future/]" is $3 second[/s]."
 148: 0x087B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_087C:
 149: 0x087C [0x02] IF !(ExtData[1]->WorkLocal[14] > 1*) GOTO 0x088B
-150: 0x0884 [0x48] [System] [7696*]:
+150: 0x0884 [0x48] [System] [7697*]:
     → "That record is held by %0!"
 151: 0x0887 [0x23] WAIT_FOR_DIALOG_INTERACTION
 152: 0x0888 [0x01] GOTO 0x089C
 153: 0x088B [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[14]
 154: 0x0890 [0x0C] Work_Zone[6]--
 155: 0x0893 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[14]
-156: 0x0898 [0x48] [System] [7695*]:
+156: 0x0898 [0x48] [System] [7696*]:
     → "That record is held by $5 adventurers, including %0!"
 157: 0x089B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1349,7 +1349,7 @@ SUBROUTINE_089C:
 SUBROUTINE_08C0:
 165: 0x08C0 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x08E6
 166: 0x08C8 [0x02] IF !(ExtData[1]->WorkLocal[15] == 1*) GOTO 0x08E6
-167: 0x08D0 [0x24] CREATE_DIALOG(message_id=7671*, default_option=1*, option_flags=0*)
+167: 0x08D0 [0x24] CREATE_DIALOG(message_id=7672*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 168: 0x08D7 [0x25] WAIT_DIALOG_SELECT()
 169: 0x08D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08E6
@@ -1652,7 +1652,7 @@ SUBROUTINE_0D0A:
  29: 0x0D15 [0x01] GOTO 0x0D33
  30: 0x0D18 [0x02] IF !(ExtData[1]->WorkLocal[24] == 1*) GOTO 0x0D77
  31: 0x0D20 [0x1C] WAIT(15* ticks)
- 32: 0x0D23 [0x24] CREATE_DIALOG(message_id=7671*, default_option=1*, option_flags=0*)
+ 32: 0x0D23 [0x24] CREATE_DIALOG(message_id=7672*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  33: 0x0D2A [0x25] WAIT_DIALOG_SELECT()
  34: 0x0D2B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D77
@@ -1687,18 +1687,18 @@ SUBROUTINE_0DA9:
  55: 0x0DB6 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DD1
  56: 0x0DBE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
  57: 0x0DC5 [0x15] Work_Zone[5] /= 60*
- 58: 0x0DCA [0x48] [System] [7673*]:
+ 58: 0x0DCA [0x48] [System] [7674*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
  59: 0x0DCD [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0DCE [0x01] GOTO 0x0DD5
- 61: 0x0DD1 [0x48] [System] [7672*]:
+ 61: 0x0DD1 [0x48] [System] [7673*]:
     → "Battlefield clear time: $3 second[/s]!"
  62: 0x0DD4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DD5:
  63: 0x0DD5 [0x02] IF !(ExtData[1]->WorkLocal[28] > ExtData[1]->WorkLocal[27]) GOTO 0x0DE9
  64: 0x0DDD [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[26]
- 65: 0x0DE2 [0x48] [System] [7813*]:
+ 65: 0x0DE2 [0x48] [System] [7814*]:
     → "You have broken the clear time record for "[No Time Like the Future/]"!"
  66: 0x0DE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0DE6 [0x01] GOTO 0x0E12
@@ -1706,12 +1706,12 @@ SUBROUTINE_0DD5:
  69: 0x0DF1 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[27]
  70: 0x0DF6 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
  71: 0x0DFD [0x15] Work_Zone[5] /= 60*
- 72: 0x0E02 [0x48] [System] [7675*]:
+ 72: 0x0E02 [0x48] [System] [7676*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
  73: 0x0E05 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x0E06 [0x01] GOTO 0x0E12
  75: 0x0E09 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[27]
- 76: 0x0E0E [0x48] [System] [7674*]:
+ 76: 0x0E0E [0x48] [System] [7675*]:
     → "The current battlefield clear time record is $3 second[/s]."
  77: 0x0E11 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1932,7 +1932,7 @@ SUBROUTINE_0F5E:
      0x0F91 [0x02] IF !(ExtData[1]->WorkLocal[35] == 3*) GOTO 0x0F9C
      0x0F99 [0x01] GOTO 0x0F9C
      0x0F9C [0x1B] RETURN
-     0x0F9D [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+     0x0F9D [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x0FA4 [0x25] WAIT_DIALOG_SELECT()
      0x0FA5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0FB3
@@ -1982,7 +1982,7 @@ SUBROUTINE_0F5E:
      0x108F [0x1C] WAIT(30* ticks)
      0x1092 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x10A1 [0x1B] RETURN
-     0x10A2 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
+     0x10A2 [0x24] CREATE_DIALOG(message_id=7334*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x10A9 [0x25] WAIT_DIALOG_SELECT()
      0x10AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x10B8

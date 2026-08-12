@@ -29,9 +29,9 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x2638      |        9784 |
+|       1 | 0x2639      |        9785 |
 |       2 | 0x0022      |          34 |
-|       3 | 0x2639      |        9785 |
+|       3 | 0x263A      |        9786 |
 |       4 | 0x000D      |          13 |
 |       5 | 0x26A7      |        9895 |
 |       6 | 0x0825      |        2085 |
@@ -52,8 +52,8 @@
 
 ## String References
 
-- **9784**: The risks involved in reaching Adoulin without using waypoints send shiver-wivers down my spine! Not to mention the expenses! The merchant in me is already vomitaruing at the thought!
-- **9785**: Why won't someone from the high and mightaruy Twelve Orders show some kindness for once and throw us a bone? Especially that rascal Chero-Machero! I'm sick and tired of being bamboozle-woozled by him!
+- **9785**: The risks involved in reaching Adoulin without using waypoints send shiver-wivers down my spine! Not to mention the expenses! The merchant in me is already vomitaruing at the thought!
+- **9786**: Why won't someone from the high and mightaruy Twelve Orders show some kindness for once and throw us a bone? Especially that rascal Chero-Machero! I'm sick and tired of being bamboozle-woozled by him!
 
 ## Events
 
@@ -104,11 +104,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9784*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
     → "The risks involved in reaching Adoulin without using waypoints send shiver-wivers down my spine! Not to mention the expenses! The merchant in me is already vomitaruing at the thought!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=34*
-  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=9785*)
+  7: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=9786*)
     → "Why won't someone from the high and mightaruy Twelve Orders show some kindness for once and throw us a bone? Especially that rascal Chero-Machero! I'm sick and tired of being bamboozle-woozled by him!"
   8: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002E [0x21] END_EVENT

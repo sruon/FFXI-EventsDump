@@ -33,23 +33,23 @@
 |      10 | 0x0019      |          25 |
 |      11 | 0x001D      |          29 |
 |      12 | 0x0001      |           1 |
-|      13 | 0x3232      |       12850 |
-|      14 | 0x3233      |       12851 |
-|      15 | 0x3235      |       12853 |
-|      16 | 0x3236      |       12854 |
+|      13 | 0x3233      |       12851 |
+|      14 | 0x3234      |       12852 |
+|      15 | 0x3236      |       12854 |
+|      16 | 0x3237      |       12855 |
 |      17 | 0x0011      |          17 |
-|      18 | 0x3238      |       12856 |
-|      19 | 0x3239      |       12857 |
+|      18 | 0x3239      |       12857 |
+|      19 | 0x323A      |       12858 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x323A      |       12858 |
-|      22 | 0x323B      |       12859 |
-|      23 | 0x323C      |       12860 |
-|      24 | 0x3237      |       12855 |
-|      25 | 0x323D      |       12861 |
-|      26 | 0x323E      |       12862 |
+|      21 | 0x323B      |       12859 |
+|      22 | 0x323C      |       12860 |
+|      23 | 0x323D      |       12861 |
+|      24 | 0x3238      |       12856 |
+|      25 | 0x323E      |       12862 |
+|      26 | 0x323F      |       12863 |
 |      27 | 0x1FFFC     |      131068 |
 |      28 | 0xFFFFFFFF  |  4294967295 |
-|      29 | 0x323F      |       12863 |
+|      29 | 0x3240      |       12864 |
 |      30 | 0x0003      |           3 |
 |      31 | 0x0006      |           6 |
 |      32 | 0x0007      |           7 |
@@ -58,71 +58,71 @@
 |      35 | 0x000C      |          12 |
 |      36 | 0x000D      |          13 |
 |      37 | 0x0010      |          16 |
-|      38 | 0x3240      |       12864 |
-|      39 | 0x3241      |       12865 |
+|      38 | 0x3241      |       12865 |
+|      39 | 0x3242      |       12866 |
 |      40 | 0x3A98      |       15000 |
 |      41 | 0x7530      |       30000 |
-|      42 | 0x3242      |       12866 |
-|      43 | 0x3243      |       12867 |
-|      44 | 0x3244      |       12868 |
-|      45 | 0x3245      |       12869 |
-|      46 | 0x3246      |       12870 |
-|      47 | 0x3247      |       12871 |
-|      48 | 0x3248      |       12872 |
-|      49 | 0x3249      |       12873 |
-|      50 | 0x324A      |       12874 |
-|      51 | 0x324B      |       12875 |
-|      52 | 0x324C      |       12876 |
-|      53 | 0x324D      |       12877 |
+|      42 | 0x3243      |       12867 |
+|      43 | 0x3244      |       12868 |
+|      44 | 0x3245      |       12869 |
+|      45 | 0x3246      |       12870 |
+|      46 | 0x3247      |       12871 |
+|      47 | 0x3248      |       12872 |
+|      48 | 0x3249      |       12873 |
+|      49 | 0x324A      |       12874 |
+|      50 | 0x324B      |       12875 |
+|      51 | 0x324C      |       12876 |
+|      52 | 0x324D      |       12877 |
+|      53 | 0x324E      |       12878 |
 |      54 | 0x001F      |          31 |
-|      55 | 0x3234      |       12852 |
-|      56 | 0x324E      |       12878 |
-|      57 | 0x2D5F      |       11615 |
-|      58 | 0x2D60      |       11616 |
-|      59 | 0x2D61      |       11617 |
-|      60 | 0x2D5C      |       11612 |
-|      61 | 0x2D5D      |       11613 |
-|      62 | 0x2D5E      |       11614 |
-|      63 | 0x2D5B      |       11611 |
+|      55 | 0x3235      |       12853 |
+|      56 | 0x324F      |       12879 |
+|      57 | 0x2D60      |       11616 |
+|      58 | 0x2D61      |       11617 |
+|      59 | 0x2D62      |       11618 |
+|      60 | 0x2D5D      |       11613 |
+|      61 | 0x2D5E      |       11614 |
+|      62 | 0x2D5F      |       11615 |
+|      63 | 0x2D5C      |       11612 |
 
 ## String References
 
-- **11611**: I am far too busy to speak with you now. Perhaps I'll have a little time later.
-- **11612**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
-- **11613**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
-- **11614**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
-- **11615**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
-- **11616**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
-- **11617**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
-- **12850**: Hey, you! Rumor has it you're pretty handy with that there brain of yours. So whaddya say? Wanna put it to use for your nation?
-- **12851**: Lend him your brain? [That's what it's there for./He's not worthy.]
-- **12852**: Figures. All brain and no brawn.
-- **12853**: Now you're talking. Here's how this works. I'm gonna input all of our latest intel into that head on your shoulders, and then you spit out an airtight strategy. Got it?
-- **12854**: All right, here we go. Our most up-to-date intel is as follows.
-- **12855**: ...Never mind. We have no intel. That...can't be good.
-- **12856**: The latest weather report indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up.
-- **12857**: The latest weather report indicates that storms can be expected in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
-- **12858**: We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
-- **12859**: We have received unconfirmed reports that a small-sized Dark Kindred force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
-- **12860**: We have received unconfirmed reports that a Beastman supply convoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
-- **12861**: Well, that'll do 'er. S'all we got. Now's your time to shine, <Player>. Get them tactical juices flowin'!
-- **12862**: Where do you want us to send a supply convoy?
-- **12863**: Where would you send the supply convoy? [Xarcabard./Beaucedine Glacier./The Eldieme Necropolis./Crawlers' Nest./Garlaige Citadel./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Jugner Forest./Pashhow Marshlands./Meriphataud Mountains./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./East Ronfaure./North Gustaberg./West Sarutabaruta.]
-- **12864**: Easy enough. Next, how much cargo do you figure we should load 'em up with?
-- **12865**: Of course, being the braniac that you are, you realize that the more supplies there are, the happier the troops on site will be.
-- **12866**: What amount do you recommend? [A large amount./A moderate amount./A small amount.]
-- **12867**: Fair enough. There's a couple of different ways to get from Point A to Point B. What type of route do you suggest?
-- **12868**: Which route do you endorse? [The quickest, shortest route possible./The normal route used in peacetime./The safest detouring route.]
-- **12869**: Every convoy's gotta be protected. How large an escort force do you reckon we oughta send?
-- **12870**: What size escort do you reckon? [A medium-sized force./A small-sized force./A minimum-sized force.]
-- **12871**: That leaves one last issue. We have to issue orders for a course of conduct just in case the convoy runs into some beastmen. Whaddya say?
-- **12872**: Fight or flight? [Engage in open battle./Avoid conflict at all cost.]
-- **12873**: Alright, that's all from this end. Sure you don't wanna change any of your orders before I run them up to high command?
-- **12874**: Edit your submission? [No, it's solid./On second thought, yes.]
-- **12875**: Great, less work for me. I'll try and get your strategy here put in place for tomorrow's mission.
-- **12876**: Since you're the brains behind this operation, you'd better head on over to the target stronghold and watch over things. Make sure it's carried out all proper and whatnot.
-- **12877**: Let's do this thing. May the Goddess be with us all.
-- **12878**: What now? Get on over to that stronghold and get your watch on!
+- **11612**: I am far too busy to speak with you now. Perhaps I'll have a little time later.
+- **11613**: Good show on your last operation. Now go make an official report to Sir Rasdinice.
+- **11614**: Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!
+- **11615**: Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!
+- **11616**: It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you.
+- **11617**: Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier.
+- **11618**: Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first.
+- **12851**: Hey, you! Rumor has it you're pretty handy with that there brain of yours. So whaddya say? Wanna put it to use for your nation?
+- **12852**: Lend him your brain? [That's what it's there for./He's not worthy.]
+- **12853**: Figures. All brain and no brawn.
+- **12854**: Now you're talking. Here's how this works. I'm gonna input all of our latest intel into that head on your shoulders, and then you spit out an airtight strategy. Got it?
+- **12855**: All right, here we go. Our most up-to-date intel is as follows.
+- **12856**: ...Never mind. We have no intel. That...can't be good.
+- **12857**: The latest weather report indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up.
+- **12858**: The latest weather report indicates that storms can be expected in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12859**: We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12860**: We have received unconfirmed reports that a small-sized Dark Kindred force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12861**: We have received unconfirmed reports that a Beastman supply convoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta].
+- **12862**: Well, that'll do 'er. S'all we got. Now's your time to shine, <Player>. Get them tactical juices flowin'!
+- **12863**: Where do you want us to send a supply convoy?
+- **12864**: Where would you send the supply convoy? [Xarcabard./Beaucedine Glacier./The Eldieme Necropolis./Crawlers' Nest./Garlaige Citadel./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Jugner Forest./Pashhow Marshlands./Meriphataud Mountains./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./East Ronfaure./North Gustaberg./West Sarutabaruta.]
+- **12865**: Easy enough. Next, how much cargo do you figure we should load 'em up with?
+- **12866**: Of course, being the braniac that you are, you realize that the more supplies there are, the happier the troops on site will be.
+- **12867**: What amount do you recommend? [A large amount./A moderate amount./A small amount.]
+- **12868**: Fair enough. There's a couple of different ways to get from Point A to Point B. What type of route do you suggest?
+- **12869**: Which route do you endorse? [The quickest, shortest route possible./The normal route used in peacetime./The safest detouring route.]
+- **12870**: Every convoy's gotta be protected. How large an escort force do you reckon we oughta send?
+- **12871**: What size escort do you reckon? [A medium-sized force./A small-sized force./A minimum-sized force.]
+- **12872**: That leaves one last issue. We have to issue orders for a course of conduct just in case the convoy runs into some beastmen. Whaddya say?
+- **12873**: Fight or flight? [Engage in open battle./Avoid conflict at all cost.]
+- **12874**: Alright, that's all from this end. Sure you don't wanna change any of your orders before I run them up to high command?
+- **12875**: Edit your submission? [No, it's solid./On second thought, yes.]
+- **12876**: Great, less work for me. I'll try and get your strategy here put in place for tomorrow's mission.
+- **12877**: Since you're the brains behind this operation, you'd better head on over to the target stronghold and watch over things. Make sure it's carried out all proper and whatnot.
+- **12878**: Let's do this thing. May the Goddess be with us all.
+- **12879**: What now? Get on over to that stronghold and get your watch on!
 
 ## Events
 
@@ -296,10 +296,10 @@
  28: 0x00A5 [0x03] ExtData[1]->WorkLocal[0] = 0*
  29: 0x00AA [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0608
  30: 0x00B2 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0586
- 31: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12850*)
+ 31: 0x00BA [0x1D] PRINT_EVENT_MESSAGE(message_id=12851*)
     → "Hey, you! Rumor has it you're pretty handy with that there brain of yours. So whaddya say? Wanna put it to use for your nation?"
  32: 0x00BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x00BE [0x24] CREATE_DIALOG(message_id=12851*, default_option=0*, option_flags=0*)
+ 33: 0x00BE [0x24] CREATE_DIALOG(message_id=12852*, default_option=0*, option_flags=0*)
     → "Lend him your brain? [That's what it's there for./He's not worthy.]"
  34: 0x00C5 [0x25] WAIT_DIALOG_SELECT()
  35: 0x00C6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D6
@@ -314,27 +314,27 @@ SUBROUTINE_00E6:
  42: 0x00EE [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  43: 0x00F0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  44: 0x00F2 [0x03] ExtData[1]->WorkLocal[22] = 0*
- 45: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12853*)
+ 45: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12854*)
     → "Now you're talking. Here's how this works. I'm gonna input all of our latest intel into that head on your shoulders, and then you spit out an airtight strategy. Got it?"
  46: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12854*)
+ 47: 0x00FB [0x1D] PRINT_EVENT_MESSAGE(message_id=12855*)
     → "All right, here we go. Our most up-to-date intel is as follows."
  48: 0x00FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[18] <= 1*) GOTO 0x0142
  50: 0x0107 [0x02] IF !(ExtData[1]->WorkLocal[9] >= 17*) GOTO 0x011D
  51: 0x010F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[9]
- 52: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=12856*)
+ 52: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=12857*)
     → "The latest weather report indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up."
  53: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0118 [0x03] ExtData[1]->WorkLocal[22] = 1*
  55: 0x011D [0x02] IF !(ExtData[1]->WorkLocal[10] >= 17*) GOTO 0x0142
  56: 0x0125 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
  57: 0x012A [0x02] IF !(ExtData[1]->WorkLocal[18] <= 4*) GOTO 0x0139
- 58: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12857*)
+ 58: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
     → "The latest weather report indicates that storms can be expected in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  59: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0136 [0x01] GOTO 0x013D
- 61: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=12856*)
+ 61: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=12857*)
     → "The latest weather report indicates that the weather in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta] will not hold up."
  62: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -343,18 +343,18 @@ SUBROUTINE_013D:
  64: 0x0142 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 2*) GOTO 0x0211
  65: 0x014A [0x02] IF !(ExtData[1]->WorkLocal[11] >= 17*) GOTO 0x0160
  66: 0x0152 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
- 67: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+ 67: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  68: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x015B [0x03] ExtData[1]->WorkLocal[22] = 1*
  70: 0x0160 [0x02] IF !(ExtData[1]->WorkLocal[12] >= 17*) GOTO 0x0185
  71: 0x0168 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
  72: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x017C
- 73: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
+ 73: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=12860*)
     → "We have received unconfirmed reports that a small-sized Dark Kindred force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  74: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0179 [0x01] GOTO 0x0180
- 76: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+ 76: 0x017C [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  77: 0x017F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -363,11 +363,11 @@ SUBROUTINE_0180:
  79: 0x0185 [0x02] IF !(ExtData[1]->WorkLocal[13] >= 17*) GOTO 0x01AA
  80: 0x018D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[13]
  81: 0x0192 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x01A1
- 82: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=12860*)
+ 82: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=12861*)
     → "We have received unconfirmed reports that a Beastman supply convoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  83: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x019E [0x01] GOTO 0x01A5
- 85: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+ 85: 0x01A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  86: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -375,52 +375,52 @@ SUBROUTINE_01A5:
  87: 0x01A5 [0x03] ExtData[1]->WorkLocal[22] = 1*
  88: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[14] >= 17*) GOTO 0x01C0
  89: 0x01B2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[14]
- 90: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+ 90: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  91: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x01BB [0x03] ExtData[1]->WorkLocal[22] = 1*
  93: 0x01C0 [0x02] IF !(ExtData[1]->WorkLocal[15] >= 17*) GOTO 0x01D6
  94: 0x01C8 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
- 95: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+ 95: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
  96: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x01D1 [0x03] ExtData[1]->WorkLocal[22] = 1*
  98: 0x01D6 [0x02] IF !(ExtData[1]->WorkLocal[16] >= 17*) GOTO 0x01EC
  99: 0x01DE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[16]
-100: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+100: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
 101: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x01E7 [0x03] ExtData[1]->WorkLocal[22] = 1*
 103: 0x01EC [0x02] IF !(ExtData[1]->WorkLocal[17] >= 17*) GOTO 0x0211
 104: 0x01F4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[17]
 105: 0x01F9 [0x02] IF !(ExtData[1]->WorkLocal[18] <= 5*) GOTO 0x0208
-106: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=12860*)
+106: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=12861*)
     → "We have received unconfirmed reports that a Beastman supply convoy has been spotted in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
 107: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0205 [0x01] GOTO 0x020C
-109: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12858*)
+109: 0x0208 [0x1D] PRINT_EVENT_MESSAGE(message_id=12859*)
     → "We have received unconfirmed reports that a medium-sized Beastman force is stationed in [Xarcabard/Beaucedine Glacier/The Eldieme Necropolis/Crawlers' Nest/Garlaige Citadel/Batallia Downs/the Rolanberry Fields/Sauromugue Champaign/Jugner Forest/Pashhow Marshlands/the Meriphataud Mountains/Vunkerl Inlet/Grauberg/Fort Karugo-Narugo/East Ronfaure/North Gustaberg/West Sarutabaruta]."
 110: 0x020B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_020C:
 111: 0x020C [0x03] ExtData[1]->WorkLocal[22] = 1*
 112: 0x0211 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x021D
-113: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=12855*)
+113: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=12856*)
     → "...Never mind. We have no intel. That...can't be good."
 114: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=12861*)
+115: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=12862*)
     → "Well, that'll do 'er. S'all we got. Now's your time to shine, <Player>. Get them tactical juices flowin'!"
 116: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0221:
 117: 0x0221 [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x04A1
-118: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=12862*)
+118: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=12863*)
     → "Where do you want us to send a supply convoy?"
 119: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x022D [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[1]
 121: 0x0232 [0x0D] ExtData[1]->WorkLocal[20] &= 131068*
 122: 0x0237 [0x0F] ExtData[1]->WorkLocal[20] ^= 4294967295*
-123: 0x023C [0x24] CREATE_DIALOG(message_id=12863*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+123: 0x023C [0x24] CREATE_DIALOG(message_id=12864*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
     → "Where would you send the supply convoy? [Xarcabard./Beaucedine Glacier./The Eldieme Necropolis./Crawlers' Nest./Garlaige Citadel./Batallia Downs./Rolanberry Fields./Sauromugue Champaign./Jugner Forest./Pashhow Marshlands./Meriphataud Mountains./Vunkerl Inlet./Grauberg./Fort Karugo-Narugo./East Ronfaure./North Gustaberg./West Sarutabaruta.]"
 124: 0x0243 [0x25] WAIT_DIALOG_SELECT()
 125: 0x0244 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0254
@@ -479,10 +479,10 @@ SUBROUTINE_0221:
 178: 0x0361 [0x01] GOTO 0x0364
 
 SUBROUTINE_0364:
-179: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=12864*)
+179: 0x0364 [0x1D] PRINT_EVENT_MESSAGE(message_id=12865*)
     → "Easy enough. Next, how much cargo do you figure we should load 'em up with?"
 180: 0x0367 [0x23] WAIT_FOR_DIALOG_INTERACTION
-181: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=12865*)
+181: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=12866*)
     → "Of course, being the braniac that you are, you realize that the more supplies there are, the happier the troops on site will be."
 182: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x036C [0x03] ExtData[1]->WorkLocal[20] = 0*
@@ -495,7 +495,7 @@ SUBROUTINE_0364:
 190: 0x0391 [0x03] ExtData[1]->WorkLocal[20] = 0*
 
 SUBROUTINE_0396:
-191: 0x0396 [0x24] CREATE_DIALOG(message_id=12866*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
+191: 0x0396 [0x24] CREATE_DIALOG(message_id=12867*, default_option=0*, option_flags=ExtData[1]->WorkLocal[20])
     → "What amount do you recommend? [A large amount./A moderate amount./A small amount.]"
 192: 0x039D [0x25] WAIT_DIALOG_SELECT()
 193: 0x039E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03AE
@@ -509,10 +509,10 @@ SUBROUTINE_0396:
 201: 0x03CB [0x01] GOTO 0x03CE
 
 SUBROUTINE_03CE:
-202: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12867*)
+202: 0x03CE [0x1D] PRINT_EVENT_MESSAGE(message_id=12868*)
     → "Fair enough. There's a couple of different ways to get from Point A to Point B. What type of route do you suggest?"
 203: 0x03D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-204: 0x03D2 [0x24] CREATE_DIALOG(message_id=12868*, default_option=0*, option_flags=0*)
+204: 0x03D2 [0x24] CREATE_DIALOG(message_id=12869*, default_option=0*, option_flags=0*)
     → "Which route do you endorse? [The quickest, shortest route possible./The normal route used in peacetime./The safest detouring route.]"
 205: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 206: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03EA
@@ -526,10 +526,10 @@ SUBROUTINE_03CE:
 214: 0x0407 [0x01] GOTO 0x040A
 
 SUBROUTINE_040A:
-215: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=12869*)
+215: 0x040A [0x1D] PRINT_EVENT_MESSAGE(message_id=12870*)
     → "Every convoy's gotta be protected. How large an escort force do you reckon we oughta send?"
 216: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
-217: 0x040E [0x24] CREATE_DIALOG(message_id=12870*, default_option=0*, option_flags=0*)
+217: 0x040E [0x24] CREATE_DIALOG(message_id=12871*, default_option=0*, option_flags=0*)
     → "What size escort do you reckon? [A medium-sized force./A small-sized force./A minimum-sized force.]"
 218: 0x0415 [0x25] WAIT_DIALOG_SELECT()
 219: 0x0416 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0426
@@ -543,10 +543,10 @@ SUBROUTINE_040A:
 227: 0x0443 [0x01] GOTO 0x0446
 
 SUBROUTINE_0446:
-228: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=12871*)
+228: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=12872*)
     → "That leaves one last issue. We have to issue orders for a course of conduct just in case the convoy runs into some beastmen. Whaddya say?"
 229: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
-230: 0x044A [0x24] CREATE_DIALOG(message_id=12872*, default_option=0*, option_flags=0*)
+230: 0x044A [0x24] CREATE_DIALOG(message_id=12873*, default_option=0*, option_flags=0*)
     → "Fight or flight? [Engage in open battle./Avoid conflict at all cost.]"
 231: 0x0451 [0x25] WAIT_DIALOG_SELECT()
 232: 0x0452 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0462
@@ -557,10 +557,10 @@ SUBROUTINE_0446:
 237: 0x046F [0x01] GOTO 0x0472
 
 SUBROUTINE_0472:
-238: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12873*)
+238: 0x0472 [0x1D] PRINT_EVENT_MESSAGE(message_id=12874*)
     → "Alright, that's all from this end. Sure you don't wanna change any of your orders before I run them up to high command?"
 239: 0x0475 [0x23] WAIT_FOR_DIALOG_INTERACTION
-240: 0x0476 [0x24] CREATE_DIALOG(message_id=12874*, default_option=0*, option_flags=0*)
+240: 0x0476 [0x24] CREATE_DIALOG(message_id=12875*, default_option=0*, option_flags=0*)
     → "Edit your submission? [No, it's solid./On second thought, yes.]"
 241: 0x047D [0x25] WAIT_DIALOG_SELECT()
 242: 0x047E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x048E
@@ -572,13 +572,13 @@ SUBROUTINE_0472:
 
 SUBROUTINE_049E:
 248: 0x049E [0x01] GOTO 0x0221
-249: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12875*)
+249: 0x04A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12876*)
     → "Great, less work for me. I'll try and get your strategy here put in place for tomorrow's mission."
 250: 0x04A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12876*)
+251: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12877*)
     → "Since you're the brains behind this operation, you'd better head on over to the target stronghold and watch over things. Make sure it's carried out all proper and whatnot."
 252: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-253: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12877*)
+253: 0x04A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12878*)
     → "Let's do this thing. May the Goddess be with us all."
 254: 0x04AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x04AD [0x40] SET_BIT_WORK_RANGE(start_bit=31*, end_bit=31*, target=ExtData[1]->WorkLocal[24], source=1*)
@@ -606,30 +606,30 @@ SUBROUTINE_049E:
 277: 0x056B [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[17]) GOTO 0x057C
 278: 0x0573 [0x40] SET_BIT_WORK_RANGE(start_bit=14*, end_bit=16*, target=ExtData[1]->WorkLocal[24], source=7*)
 279: 0x057C [0x01] GOTO 0x0583
-280: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=12852*)
+280: 0x057F [0x1D] PRINT_EVENT_MESSAGE(message_id=12853*)
     → "Figures. All brain and no brawn."
 281: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0583:
 282: 0x0583 [0x01] GOTO 0x0605
 283: 0x0586 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0595
-284: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=12878*)
+284: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=12879*)
     → "What now? Get on over to that stronghold and get your watch on!"
 285: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x0592 [0x01] GOTO 0x0605
 287: 0x0595 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x05CD
 288: 0x059D [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x05AC
-289: 0x05A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11615*)
+289: 0x05A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11616*)
     → "It seems that you were not successful in your last operation. But do not let one small failure hang heavy on your soul. Report to Sir Rasdinice and put this all behind you."
 290: 0x05A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x05A9 [0x01] GOTO 0x05CA
 292: 0x05AC [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x05BB
-293: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11616*)
+293: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11617*)
     → "Weren't so lucky during that last operation, were you? Well, don't worry about it too much. Report to First Centurion Hieronymus and get some rest, soldier."
 294: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x05B8 [0x01] GOTO 0x05CA
 296: 0x05BB [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x05CA
-297: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11617*)
+297: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11618*)
     → "Hmmm... Didn't do so well on that last operation, did you? I know it's hard, but it's better if you're up-front about these things. If you know what's good for you, you'll hurry down and report to Emhi Tchaoryo before the major finds out first."
 298: 0x05C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x05C7 [0x01] GOTO 0x05CA
@@ -638,17 +638,17 @@ SUBROUTINE_05CA:
 300: 0x05CA [0x01] GOTO 0x0605
 301: 0x05CD [0x02] IF !(ExtData[1]->WorkLocal[7] == 3*) GOTO 0x0605
 302: 0x05D5 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x05E4
-303: 0x05DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11612*)
+303: 0x05DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11613*)
     → "Good show on your last operation. Now go make an official report to Sir Rasdinice."
 304: 0x05E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x05E1 [0x01] GOTO 0x0602
 306: 0x05E4 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x05F3
-307: 0x05EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11613*)
+307: 0x05EC [0x1D] PRINT_EVENT_MESSAGE(message_id=11614*)
     → "Good work on that last operation. Now report back to First Centurion Hieronymus before he has your hide!"
 308: 0x05EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x05F0 [0x01] GOTO 0x0602
 310: 0x05F3 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0602
-311: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11614*)
+311: 0x05FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11615*)
     → "Nice job on your last operation. Now don't forget to report back to Emhi Tchaoryo!"
 312: 0x05FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 313: 0x05FF [0x01] GOTO 0x0602
@@ -661,11 +661,11 @@ SUBROUTINE_0605:
 316: 0x0608 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0613
 317: 0x0610 [0x01] GOTO 0x0626
 318: 0x0613 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0622
-319: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=11611*)
+319: 0x061B [0x1D] PRINT_EVENT_MESSAGE(message_id=11612*)
     → "I am far too busy to speak with you now. Perhaps I'll have a little time later."
 320: 0x061E [0x23] WAIT_FOR_DIALOG_INTERACTION
 321: 0x061F [0x01] GOTO 0x0626
-322: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=11611*)
+322: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=11612*)
     → "I am far too busy to speak with you now. Perhaps I'll have a little time later."
 323: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

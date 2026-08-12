@@ -24,39 +24,39 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F1C      |        7964 |
-|       1 | 0x1F1D      |        7965 |
+|       0 | 0x1F1D      |        7965 |
+|       1 | 0x1F1E      |        7966 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x1F1E      |        7966 |
-|       4 | 0x1F1F      |        7967 |
-|       5 | 0x1F20      |        7968 |
+|       3 | 0x1F1F      |        7967 |
+|       4 | 0x1F20      |        7968 |
+|       5 | 0x1F21      |        7969 |
 |       6 | 0x03CA      |         970 |
-|       7 | 0x1F21      |        7969 |
-|       8 | 0x1F22      |        7970 |
-|       9 | 0x1F23      |        7971 |
-|      10 | 0x1F24      |        7972 |
-|      11 | 0x1F25      |        7973 |
-|      12 | 0x1F26      |        7974 |
-|      13 | 0x1F27      |        7975 |
+|       7 | 0x1F22      |        7970 |
+|       8 | 0x1F23      |        7971 |
+|       9 | 0x1F24      |        7972 |
+|      10 | 0x1F25      |        7973 |
+|      11 | 0x1F26      |        7974 |
+|      12 | 0x1F27      |        7975 |
+|      13 | 0x1F28      |        7976 |
 |      14 | 0x00C9      |         201 |
 |      15 | 0x0000      |           0 |
-|      16 | 0x1F28      |        7976 |
+|      16 | 0x1F29      |        7977 |
 
 ## String References
 
-- **7964**: I am Heptachiond, a friar from the San d'Orian Cathedral. I am here to pray for the departed.
-- **7965**: Many devout believers of the Goddess have been laid to rest here. Sadly, though, the raging war has left their graves desecrated and in ruin.
-- **7966**: There is naught I can do for these poor souls, save to light incense as an offering to their memory, and pray for their undisturbed, eternal rest. But alas, I have almost run out of incense.
-- **7967**: A friend used to bring me incense, but I have been unable to contact him since he was posted to Fort Karugo-Narugo.
-- **7968**: This special incense is handmade by my friend himself, and is imbued with his prayers for the departed. If only I could find a way to acquire more of them...
-- **7969**: Oh? Could that possibly be $6 you have in your possession?
-- **7970**: Then you have been to Fort Karugo-Narugo and met my friend. It was he who used to offer prayers here.
-- **7971**: Even though my friend does not share the same faith as the San d'Orians interred here, he would come here to pray for them all the same. He is truly an admirable person, a model to us all.
-- **7972**: But after the outbreak of the war, it became increasingly difficult for him to travel here as in the past. Under these circumstances, I felt it my duty to offer the incense on his behalf.
-- **7973**: If some misfortune were to befall me, there would be no one left to honor the memory of the departed.
-- **7974**: This graveyard must not be allowed to turn into a sorrowful place haunted by anguished souls.
-- **7975**: I will see to it that these faithful children of Altana have the peace they deserve. This is my gift to you. Please accept it.
-- **7976**: War is a terrible thing that robs both the living and departed of their peace.
+- **7965**: I am Heptachiond, a friar from the San d'Orian Cathedral. I am here to pray for the departed.
+- **7966**: Many devout believers of the Goddess have been laid to rest here. Sadly, though, the raging war has left their graves desecrated and in ruin.
+- **7967**: There is naught I can do for these poor souls, save to light incense as an offering to their memory, and pray for their undisturbed, eternal rest. But alas, I have almost run out of incense.
+- **7968**: A friend used to bring me incense, but I have been unable to contact him since he was posted to Fort Karugo-Narugo.
+- **7969**: This special incense is handmade by my friend himself, and is imbued with his prayers for the departed. If only I could find a way to acquire more of them...
+- **7970**: Oh? Could that possibly be $6 you have in your possession?
+- **7971**: Then you have been to Fort Karugo-Narugo and met my friend. It was he who used to offer prayers here.
+- **7972**: Even though my friend does not share the same faith as the San d'Orians interred here, he would come here to pray for them all the same. He is truly an admirable person, a model to us all.
+- **7973**: But after the outbreak of the war, it became increasingly difficult for him to travel here as in the past. Under these circumstances, I felt it my duty to offer the incense on his behalf.
+- **7974**: If some misfortune were to befall me, there would be no one left to honor the memory of the departed.
+- **7975**: This graveyard must not be allowed to turn into a sorrowful place haunted by anguished souls.
+- **7976**: I will see to it that these faithful children of Altana have the peace they deserve. This is my gift to you. Please accept it.
+- **7977**: War is a terrible thing that robs both the living and departed of their peace.
 
 ## Events
 
@@ -102,10 +102,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "I am Heptachiond, a friar from the San d'Orian Cathedral. I am here to pray for the departed."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Many devout believers of the Goddess have been laid to rest here. Sadly, though, the raging war has left their graves desecrated and in ruin."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -136,21 +136,21 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7964*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
     → "I am Heptachiond, a friar from the San d'Orian Cathedral. I am here to pray for the departed."
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "Many devout believers of the Goddess have been laid to rest here. Sadly, though, the raging war has left their graves desecrated and in ruin."
   5: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "There is naught I can do for these poor souls, save to light incense as an offering to their memory, and pray for their undisturbed, eternal rest. But alas, I have almost run out of incense."
   8: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "A friend used to bring me incense, but I have been unable to contact him since he was posted to Fort Karugo-Narugo."
  10: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0035 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 12: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+ 12: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "This special incense is handmade by my friend himself, and is imbued with his prayers for the departed. If only I could find a way to acquire more of them..."
  13: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0048 [0x21] END_EVENT
@@ -178,10 +178,10 @@
 
 ```
   0: 0x004A [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  1: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "A friend used to bring me incense, but I have been unable to contact him since he was posted to Fort Karugo-Narugo."
   2: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "This special incense is handmade by my friend himself, and is imbued with his prayers for the departed. If only I could find a way to acquire more of them..."
   4: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0057 [0x21] END_EVENT
@@ -218,31 +218,31 @@
   0: 0x0059 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x005A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x005F [0x03] Work_Zone[2] = 970*
-  3: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+  3: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "Oh? Could that possibly be $6 you have in your possession?"
   4: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0068 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0069 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   7: 0x006A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  8: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
+  8: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "Then you have been to Fort Karugo-Narugo and met my friend. It was he who used to offer prayers here."
   9: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+ 10: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "Even though my friend does not share the same faith as the San d'Orians interred here, he would come here to pray for them all the same. He is truly an admirable person, a model to us all."
  11: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0081 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 13: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+ 13: 0x0090 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "But after the outbreak of the war, it became increasingly difficult for him to travel here as in the past. Under these circumstances, I felt it my duty to offer the incense on his behalf."
  14: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+ 15: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "If some misfortune were to befall me, there would be no one left to honor the memory of the departed."
  16: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
+ 17: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
     → "This graveyard must not be allowed to turn into a sorrowful place haunted by anguished souls."
  18: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x009C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  20: 0x00A9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 21: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7975*)
+ 21: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
     → "I will see to it that these faithful children of Altana have the peace they deserve. This is my gift to you. Please accept it."
  22: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00BC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -271,7 +271,7 @@
 #### Opcodes
 
 ```
-  0: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+  0: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "War is a terrible thing that robs both the living and departed of their peace."
   1: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E0 [0x21] END_EVENT

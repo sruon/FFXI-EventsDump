@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x40000000  |  1073741824 |
-|       1 | 0x1E95      |        7829 |
+|       1 | 0x1E96      |        7830 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **7829**: Are you ready to take part in the CONFLICT? [I was born ready./I'd rather wash my hair.]
+- **7830**: Are you ready to take part in the CONFLICT? [I was born ready./I'd rather wash my hair.]
 
 ## Events
 
@@ -78,7 +78,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x03] Work_Zone[1] = 1073741824*
-  4: 0x000D [0x24] CREATE_DIALOG(message_id=7829*, default_option=1*, option_flags=0*)
+  4: 0x000D [0x24] CREATE_DIALOG(message_id=7830*, default_option=1*, option_flags=0*)
     → "Are you ready to take part in the CONFLICT? [I was born ready./I'd rather wash my hair.]"
   5: 0x0014 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0015 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0025

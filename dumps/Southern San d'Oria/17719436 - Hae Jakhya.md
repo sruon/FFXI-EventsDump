@@ -33,21 +33,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x19D7      |        6615 |
-|       3 | 0x19D8      |        6616 |
-|       4 | 0x19D9      |        6617 |
-|       5 | 0x19DA      |        6618 |
-|       6 | 0x19DB      |        6619 |
-|       7 | 0x19DC      |        6620 |
+|       2 | 0x19D8      |        6616 |
+|       3 | 0x19D9      |        6617 |
+|       4 | 0x19DA      |        6618 |
+|       5 | 0x19DB      |        6619 |
+|       6 | 0x19DC      |        6620 |
+|       7 | 0x19DD      |        6621 |
 
 ## String References
 
-- **6615**: Oh... I thought perhaps that somewhere within these walls I would find my prrrince charming...
-- **6616**: What's that? Do I know you?
-- **6617**: A library book? Ah! That's rrright! That book I borrowed in Windurst.
-- **6618**: I totally forgot! How silly of me. Here you are!
-- **6619**: That book, $3, was so good! The Library of Magic in Windurst is truly a balm for book lovers...
-- **6620**: I know the rrright man for me is out there, somewhere. Oh...
+- **6616**: Oh... I thought perhaps that somewhere within these walls I would find my prrrince charming...
+- **6617**: What's that? Do I know you?
+- **6618**: A library book? Ah! That's rrright! That book I borrowed in Windurst.
+- **6619**: I totally forgot! How silly of me. Here you are!
+- **6620**: That book, $3, was so good! The Library of Magic in Windurst is truly a balm for book lovers...
+- **6621**: I know the rrright man for me is out there, somewhere. Oh...
 
 ## Events
 
@@ -268,7 +268,7 @@
   1: 0x0071 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0072 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0073 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x01)
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=6615*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=6616*)
     → "Oh... I thought perhaps that somewhere within these walls I would find my prrrince charming..."
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x03)
@@ -304,16 +304,16 @@
   1: 0x0095 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0096 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0097 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x01)
-  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=6616*)
+  4: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=6617*)
     → "What's that? Do I know you?"
   5: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x03)
   7: 0x00A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x04)
-  8: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6617*)
+  8: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6618*)
     → "A library book? Ah! That's rrright! That book I borrowed in Windurst."
   9: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x05)
- 11: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=6618*)
+ 11: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=6619*)
     → "I totally forgot! How silly of me. Here you are!"
  12: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x06)
@@ -348,10 +348,10 @@
   1: 0x00CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x01)
-  4: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6619*)
+  4: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6620*)
     → "That book, $3, was so good! The Library of Magic in Windurst is truly a balm for book lovers..."
   5: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6620*)
+  6: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=6621*)
     → "I know the rrright man for me is out there, somewhere. Oh..."
   7: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakhya (ID: 17719436/0x010E608C), tag_num=0x03)

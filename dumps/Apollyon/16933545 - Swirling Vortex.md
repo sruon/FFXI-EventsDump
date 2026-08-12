@@ -22,7 +22,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x000B      |          11 |
-|       2 | 0x1C4D      |        7245 |
+|       2 | 0x1C4E      |        7246 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x000C      |          12 |
 |       5 | 0x0002      |           2 |
@@ -61,7 +61,7 @@
 
 ## String References
 
-- **7245**: Select a destination. (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]
+- **7246**: Select a destination. (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]
 
 ## Events
 
@@ -143,7 +143,7 @@
   4: 0x0012 [0x08] ExtData[1]->WorkLocal[0] -= 11*
   5: 0x0017 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   6: 0x001C [0x0B] Work_Zone[4]++
-  7: 0x001F [0x24] CREATE_DIALOG(message_id=7245*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
+  7: 0x001F [0x24] CREATE_DIALOG(message_id=7246*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Select a destination. (Currently [/NW/SW/NE/SE] #$2). [[/NW/SW/NE/SE] #1./[/NW/SW/NE/SE] #2./[/NW/SW/NE/SE] #3./[/NW/SW/NE/SE] #4./[/NW//NE] #5./Entrance #1./Entrance #2./Never mind.]"
   8: 0x0026 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0027 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0037

@@ -47,10 +47,10 @@
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0034      |          52 |
-|       3 | 0x288F      |       10383 |
-|       4 | 0x2890      |       10384 |
-|       5 | 0x289E      |       10398 |
-|       6 | 0x289F      |       10399 |
+|       3 | 0x2890      |       10384 |
+|       4 | 0x2891      |       10385 |
+|       5 | 0x289F      |       10399 |
+|       6 | 0x28A0      |       10400 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x00C8      |         200 |
 |       9 | 0x01FA      |         506 |
@@ -62,41 +62,41 @@
 |      15 | 0x0096      |         150 |
 |      16 | 0x0006      |           6 |
 |      17 | 0x0087      |         135 |
-|      18 | 0x2891      |       10385 |
-|      19 | 0x2892      |       10386 |
-|      20 | 0x2893      |       10387 |
-|      21 | 0x2894      |       10388 |
-|      22 | 0x2895      |       10389 |
-|      23 | 0x2896      |       10390 |
-|      24 | 0x2897      |       10391 |
-|      25 | 0x2898      |       10392 |
+|      18 | 0x2892      |       10386 |
+|      19 | 0x2893      |       10387 |
+|      20 | 0x2894      |       10388 |
+|      21 | 0x2895      |       10389 |
+|      22 | 0x2896      |       10390 |
+|      23 | 0x2897      |       10391 |
+|      24 | 0x2898      |       10392 |
+|      25 | 0x2899      |       10393 |
 |      26 | 0x003C      |          60 |
 |      27 | 0x00C9      |         201 |
-|      28 | 0x2899      |       10393 |
-|      29 | 0x289A      |       10394 |
-|      30 | 0x289B      |       10395 |
-|      31 | 0x289C      |       10396 |
-|      32 | 0x289D      |       10397 |
+|      28 | 0x289A      |       10394 |
+|      29 | 0x289B      |       10395 |
+|      30 | 0x289C      |       10396 |
+|      31 | 0x289D      |       10397 |
+|      32 | 0x289E      |       10398 |
 
 ## String References
 
-- **10383**: Many people from the mainlands fear our traditional medicine.
-- **10384**: I can understand people being afraid of things they know little about, but it is unforrrtunate that many dismiss methods before they even try them out.
-- **10385**: <Cough> It seems as if you have spent too much time around one of our jungle's most notorrrious residents...the Rafflesia.
-- **10386**: Hmmm... Much time has passed since you came in contact with the flower, but I still think there is hope for removing that odor.
-- **10387**: Ah, but wait... The Serpent Springs in the Sea Serpent Grotto dried up three years ago.
-- **10388**: This is not good. There is only one way to get that odor out of your system, and that is by bathing in a hot spring. However, it cannot be just any hot spring. It must be one located deep beneath the sea.
-- **10389**: I wonder if there are any otherrr hot springs such as this located in the different regions of Vana'diel...
-- **10390**: Bathing in one of these should remove the odor...unless we are alrrready too late.
-- **10391**: You must find a hot spring, but only one located somewhere deep beneath the sea.
-- **10392**: Bathe in one of these, and it should remove the odor...unless we are alrrready too late.
-- **10393**: Congratulations. I see you were successful in locating another hot spring. You smell a little sweaty, but that is nothing a good shower won't cure.
-- **10394**: This means you can safely stay in Kazham now. Take this. You have worked harrrd for it.
-- **10395**: However, do not assume that I will help you again, should you find yourself in the same predicament.
-- **10396**: Congratulations! Now you can stay in Kazham without drawing everyone's attention.
-- **10397**: Just do not assume that I will help you again, should you find yourself in the same predicament.
-- **10398**: Don't you mainlanders ever learn?
-- **10399**: I told you the last time, I'm not helping you again. You will just have to try remembering what I taught you beforrre.
+- **10384**: Many people from the mainlands fear our traditional medicine.
+- **10385**: I can understand people being afraid of things they know little about, but it is unforrrtunate that many dismiss methods before they even try them out.
+- **10386**: <Cough> It seems as if you have spent too much time around one of our jungle's most notorrrious residents...the Rafflesia.
+- **10387**: Hmmm... Much time has passed since you came in contact with the flower, but I still think there is hope for removing that odor.
+- **10388**: Ah, but wait... The Serpent Springs in the Sea Serpent Grotto dried up three years ago.
+- **10389**: This is not good. There is only one way to get that odor out of your system, and that is by bathing in a hot spring. However, it cannot be just any hot spring. It must be one located deep beneath the sea.
+- **10390**: I wonder if there are any otherrr hot springs such as this located in the different regions of Vana'diel...
+- **10391**: Bathing in one of these should remove the odor...unless we are alrrready too late.
+- **10392**: You must find a hot spring, but only one located somewhere deep beneath the sea.
+- **10393**: Bathe in one of these, and it should remove the odor...unless we are alrrready too late.
+- **10394**: Congratulations. I see you were successful in locating another hot spring. You smell a little sweaty, but that is nothing a good shower won't cure.
+- **10395**: This means you can safely stay in Kazham now. Take this. You have worked harrrd for it.
+- **10396**: However, do not assume that I will help you again, should you find yourself in the same predicament.
+- **10397**: Congratulations! Now you can stay in Kazham without drawing everyone's attention.
+- **10398**: Just do not assume that I will help you again, should you find yourself in the same predicament.
+- **10399**: Don't you mainlanders ever learn?
+- **10400**: I told you the last time, I'm not helping you again. You will just have to try remembering what I taught you beforrre.
 
 ## Events
 
@@ -386,10 +386,10 @@
   1: 0x00A3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x01)
-  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10383*)
+  4: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=10384*)
     → "Many people from the mainlands fear our traditional medicine."
   5: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10384*)
+  6: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10385*)
     → "I can understand people being afraid of things they know little about, but it is unforrrtunate that many dismiss methods before they even try them out."
   7: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x02)
@@ -424,12 +424,12 @@
   1: 0x00C4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00C5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x07)
-  4: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10398*)
+  4: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10399*)
     → "Don't you mainlanders ever learn?"
   5: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x08)
   7: 0x00D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x01)
-  8: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10399*)
+  8: 0x00DF [0x1D] PRINT_EVENT_MESSAGE(message_id=10400*)
     → "I told you the last time, I'm not helping you again. You will just have to try remembering what I taught you beforrre."
   9: 0x00E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x02)
@@ -590,7 +590,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=10385*)
+  0: 0x0317 [0x1D] PRINT_EVENT_MESSAGE(message_id=10386*)
     → "<Cough> It seems as if you have spent too much time around one of our jungle's most notorrrious residents...the Rafflesia."
   1: 0x031A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x031B [0x00] END_REQSTACK()
@@ -616,7 +616,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=10386*)
+  0: 0x031C [0x1D] PRINT_EVENT_MESSAGE(message_id=10387*)
     → "Hmmm... Much time has passed since you came in contact with the flower, but I still think there is hope for removing that odor."
   1: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0320 [0x00] END_REQSTACK()
@@ -641,7 +641,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=10387*)
+  0: 0x0321 [0x1D] PRINT_EVENT_MESSAGE(message_id=10388*)
     → "Ah, but wait... The Serpent Springs in the Sea Serpent Grotto dried up three years ago."
   1: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0325 [0x00] END_REQSTACK()
@@ -666,7 +666,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=10388*)
+  0: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=10389*)
     → "This is not good. There is only one way to get that odor out of your system, and that is by bathing in a hot spring. However, it cannot be just any hot spring. It must be one located deep beneath the sea."
   1: 0x0329 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x032A [0x00] END_REQSTACK()
@@ -691,7 +691,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=10389*)
+  0: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=10390*)
     → "I wonder if there are any otherrr hot springs such as this located in the different regions of Vana'diel..."
   1: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x032F [0x00] END_REQSTACK()
@@ -716,7 +716,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=10390*)
+  0: 0x0330 [0x1D] PRINT_EVENT_MESSAGE(message_id=10391*)
     → "Bathing in one of these should remove the odor...unless we are alrrready too late."
   1: 0x0333 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0334 [0x00] END_REQSTACK()
@@ -747,10 +747,10 @@ SUBROUTINE_01FC:
   1: 0x033A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x033B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x01)
-  4: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=10391*)
+  4: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=10392*)
     → "You must find a hot spring, but only one located somewhere deep beneath the sea."
   5: 0x0346 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=10392*)
+  6: 0x0347 [0x1D] PRINT_EVENT_MESSAGE(message_id=10393*)
     → "Bathe in one of these, and it should remove the odor...unless we are alrrready too late."
   7: 0x034A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x034B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x02)
@@ -861,7 +861,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=10393*)
+  0: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=10394*)
     → "Congratulations. I see you were successful in locating another hot spring. You smell a little sweaty, but that is nothing a good shower won't cure."
   1: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x049F [0x00] END_REQSTACK()
@@ -886,7 +886,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10394*)
+  0: 0x04A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10395*)
     → "This means you can safely stay in Kazham now. Take this. You have worked harrrd for it."
   1: 0x04A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04A4 [0x00] END_REQSTACK()
@@ -911,7 +911,7 @@ SUBROUTINE_01FC:
 #### Opcodes
 
 ```
-  0: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10395*)
+  0: 0x04A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10396*)
     → "However, do not assume that I will help you again, should you find yourself in the same predicament."
   1: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x04A9 [0x00] END_REQSTACK()
@@ -942,10 +942,10 @@ SUBROUTINE_01FC:
   1: 0x04AF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04B0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x01)
-  4: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10396*)
+  4: 0x04B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10397*)
     → "Congratulations! Now you can stay in Kazham without drawing everyone's attention."
   5: 0x04BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10397*)
+  6: 0x04BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10398*)
     → "Just do not assume that I will help you again, should you find yourself in the same predicament."
   7: 0x04BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Gatih Mijurabi (ID: 17801280/0x010FA040), tag_num=0x02)

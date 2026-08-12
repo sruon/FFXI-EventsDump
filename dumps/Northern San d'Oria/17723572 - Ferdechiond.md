@@ -49,7 +49,7 @@
 |      18 | 0x15163     |       86371 |
 |      19 | 0x1809E     |       98462 |
 |      20 | 0x14DF2     |       85490 |
-|      21 | 0x2FCB      |       12235 |
+|      21 | 0x2FCC      |       12236 |
 |      22 | 0x0018      |          24 |
 
 ## Events
@@ -258,7 +258,7 @@
   5: 0x0087 [0x1E] EventEntity looks at Rainemard (ID: 17723567/0x010E70AF) and starts talking
   6: 0x008C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x008D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x008E [0x2B] Ferdechiond (ID: 17723572/0x010E70B4) [12235*]:
+  8: 0x008E [0x2B] Ferdechiond (ID: 17723572/0x010E70B4) [12236*]:
     → "The enemy is here! Knights, to arms!"
   9: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0096 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "1rdy" with entities [EventEntity, EventEntity], work=24*

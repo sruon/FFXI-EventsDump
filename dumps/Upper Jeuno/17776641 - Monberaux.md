@@ -108,20 +108,20 @@
 |       7 | 0xFFFFFE0C  |  4294966796 |
 |       8 | 0xFFFF1920  |  4294908192 |
 |       9 | 0xFFFFE669  |  4294960745 |
-|      10 | 0x2045      |        8261 |
-|      11 | 0x2046      |        8262 |
-|      12 | 0x2047      |        8263 |
-|      13 | 0x2070      |        8304 |
-|      14 | 0x2071      |        8305 |
-|      15 | 0x20A8      |        8360 |
-|      16 | 0x20A9      |        8361 |
-|      17 | 0x20D2      |        8402 |
-|      18 | 0x20D3      |        8403 |
-|      19 | 0x20D4      |        8404 |
-|      20 | 0x20D5      |        8405 |
-|      21 | 0x20D6      |        8406 |
-|      22 | 0x20D7      |        8407 |
-|      23 | 0x20D8      |        8408 |
+|      10 | 0x2046      |        8262 |
+|      11 | 0x2047      |        8263 |
+|      12 | 0x2048      |        8264 |
+|      13 | 0x2071      |        8305 |
+|      14 | 0x2072      |        8306 |
+|      15 | 0x20A9      |        8361 |
+|      16 | 0x20AA      |        8362 |
+|      17 | 0x20D3      |        8403 |
+|      18 | 0x20D4      |        8404 |
+|      19 | 0x20D5      |        8405 |
+|      20 | 0x20D6      |        8406 |
+|      21 | 0x20D7      |        8407 |
+|      22 | 0x20D8      |        8408 |
+|      23 | 0x20D9      |        8409 |
 |      24 | 0xFFFF22F8  |  4294910712 |
 |      25 | 0xFFFFEB4F  |  4294961999 |
 |      26 | 0x013E      |         318 |
@@ -149,7 +149,7 @@
 |      48 | 0xFFFFFDBD  |  4294966717 |
 |      49 | 0xFFFF0B31  |  4294904625 |
 |      50 | 0x2A28      |       10792 |
-|      51 | 0x203A      |        8250 |
+|      51 | 0x203B      |        8251 |
 |      52 | 0xFFFF440E  |  4294919182 |
 |      53 | 0x093A      |        2362 |
 |      54 | 0x005A      |          90 |
@@ -163,20 +163,20 @@
 |      62 | 0xFFFF55C8  |  4294923720 |
 |      63 | 0xFFFFFD68  |  4294966632 |
 |      64 | 0x09B0      |        2480 |
-|      65 | 0x1B6D      |        7021 |
-|      66 | 0x1B6E      |        7022 |
-|      67 | 0x1B6F      |        7023 |
-|      68 | 0x1B70      |        7024 |
-|      69 | 0x1B71      |        7025 |
-|      70 | 0x1B72      |        7026 |
-|      71 | 0x1B73      |        7027 |
-|      72 | 0x1B74      |        7028 |
-|      73 | 0x1B61      |        7009 |
-|      74 | 0x1B62      |        7010 |
-|      75 | 0x1BAA      |        7082 |
-|      76 | 0x1BAB      |        7083 |
-|      77 | 0x1BAC      |        7084 |
-|      78 | 0x1BAD      |        7085 |
+|      65 | 0x1B6E      |        7022 |
+|      66 | 0x1B6F      |        7023 |
+|      67 | 0x1B70      |        7024 |
+|      68 | 0x1B71      |        7025 |
+|      69 | 0x1B72      |        7026 |
+|      70 | 0x1B73      |        7027 |
+|      71 | 0x1B74      |        7028 |
+|      72 | 0x1B75      |        7029 |
+|      73 | 0x1B62      |        7010 |
+|      74 | 0x1B63      |        7011 |
+|      75 | 0x1BAB      |        7083 |
+|      76 | 0x1BAC      |        7084 |
+|      77 | 0x1BAD      |        7085 |
+|      78 | 0x1BAE      |        7086 |
 |      79 | 0xFFFF1AC8  |  4294908616 |
 |      80 | 0xFFFFF4C9  |  4294964425 |
 |      81 | 0x0CFE      |        3326 |
@@ -201,59 +201,59 @@
 |     100 | 0xFFFFF2DE  |  4294963934 |
 |     101 | 0xFFFF48C9  |  4294920393 |
 |     102 | 0xFFFFF080  |  4294963328 |
-|     103 | 0x363B      |       13883 |
-|     104 | 0x363C      |       13884 |
-|     105 | 0x363D      |       13885 |
-|     106 | 0x363E      |       13886 |
+|     103 | 0x363C      |       13884 |
+|     104 | 0x363D      |       13885 |
+|     105 | 0x363E      |       13886 |
+|     106 | 0x363F      |       13887 |
 |     107 | 0x1031      |        4145 |
 |     108 | 0x1030      |        4144 |
-|     109 | 0x363F      |       13887 |
-|     110 | 0x3640      |       13888 |
-|     111 | 0x3641      |       13889 |
-|     112 | 0x3642      |       13890 |
-|     113 | 0x3643      |       13891 |
-|     114 | 0x3644      |       13892 |
+|     109 | 0x3640      |       13888 |
+|     110 | 0x3641      |       13889 |
+|     111 | 0x3642      |       13890 |
+|     112 | 0x3643      |       13891 |
+|     113 | 0x3644      |       13892 |
+|     114 | 0x3645      |       13893 |
 
 ## String References
 
-- **7009**: The petition is complete!
-- **7010**: You have $0 more [signature/signatures] to go.
-- **7021**: Why, hello there. Are you feeling all right? You seem well enough to me.
-- **7022**: Remember to stop by if you're not feeling well.
-- **7023**: Sorry for all the commotion at the embassy. Let me apologize. Wolfgang and I are old friends, and both of us are quite stubborn, I'm afraid. I hope you'll forgive me.
-- **7024**: The ambassador has returned? I shall stop by for a check up later.
-- **7025**: The ambassador comes by often. It must be stressful knowing that international relations hinge upon your performance.
-- **7026**: Take care of yourself, all right? You're always welcome as a friend, but I don't like seeing you as a patient.
-- **7027**: The clock tower? Of course I object! Every time its bells ring, the town feels so alive. I shall sign the petition, too.
-- **7028**: Galmut used to come all the time. He'd limp in here after each fight so I could tend to his wounds. He was quite a little crybaby, too!
-- **7082**: All you need to do is take the Cardian to the Manustery in Windurst. I wish you luck, friend.
-- **7083**: Oh, so you made it to the Manustery with that Cardian. You have my thanks. The rest depends on him, I suppose.
-- **7084**: I hope he does not forget all the happy times he spent with that kind Tarutaru family.
-- **7085**: Oh, so he got back home safe. He is yet another victim of the tragedy of war. But...now, now...he should be fine... Just fine.
-- **8261**: From a medical standpoint, it's a miracle the boy woke up at all. I cannot explain it...
-- **8262**: Why does Wolfgang need to speak with him so desperately?
-- **8263**: Perhaps you should visit the Ru'Lude Gardens. I've a feeling the situation up there may be even tenser than it is here.
-- **8304**: I wonder if there might be some connection between the boy and that young lady, Prishe.
-- **8305**: According to the rumors among the Ducal Guard, someone saw him in the central tower of the northern ruins of Pso'Xja. However, to enter the deeper parts of those towers, permission from Tenshodo is necessary...
-- **8360**: I'm delighted to see my young patient fully recovered. She's awfully energetic when conscious, isn't she?
-- **8361**: It appears our visitors have returned to Tavnazia. I admit being most surprised to hear the nation still existed.
-- **8402**: The boy first appeared in Delkfutt's Tower. On the first floor of the tower, there is a large doorway that leads into the deeper areas of the structure...
-- **8403**: Wolfgang will know how to open the door that lies beyond. Take this envelope to the palace guard post. I will be praying for your success, <Player>.
-- **8404**: I see by his reaction that Wolfgang understood the meaning of the map.
-- **8405**: Where should you go? Hah hah. That's a secret, <Player>. Though, if you think hard enough, I feel you will come to understand.
-- **8406**: I knew all along Wolfgang would come. He is a good man, despite being a little stubborn. Now hurry to Delkfutt's Tower. Tenzen should already be on his way.
-- **8407**: Somewhere on the first floor there is a large doorway that leads to the basement of the tower. The key you received from Wolfgang will open that door.
-- **8408**: Wolfgang should not be giving you any more problems. I think he has finally started to realize what is truly important in this world.
-- **13883**: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
-- **13884**: Thank you so much for your donation. This will save many a life in these trying times.
-- **13885**: Thank you so much for your donation. This will save many a life in these trying times.B
-- **13886**: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
-- **13887**: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
-- **13888**: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13889**: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13890**: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
-- **13891**: I should have more than enough concoctions for my current needs.
-- **13892**: I should have more than enough $0 for my current needs.
+- **7010**: The petition is complete!
+- **7011**: You have $0 more [signature/signatures] to go.
+- **7022**: Why, hello there. Are you feeling all right? You seem well enough to me.
+- **7023**: Remember to stop by if you're not feeling well.
+- **7024**: Sorry for all the commotion at the embassy. Let me apologize. Wolfgang and I are old friends, and both of us are quite stubborn, I'm afraid. I hope you'll forgive me.
+- **7025**: The ambassador has returned? I shall stop by for a check up later.
+- **7026**: The ambassador comes by often. It must be stressful knowing that international relations hinge upon your performance.
+- **7027**: Take care of yourself, all right? You're always welcome as a friend, but I don't like seeing you as a patient.
+- **7028**: The clock tower? Of course I object! Every time its bells ring, the town feels so alive. I shall sign the petition, too.
+- **7029**: Galmut used to come all the time. He'd limp in here after each fight so I could tend to his wounds. He was quite a little crybaby, too!
+- **7083**: All you need to do is take the Cardian to the Manustery in Windurst. I wish you luck, friend.
+- **7084**: Oh, so you made it to the Manustery with that Cardian. You have my thanks. The rest depends on him, I suppose.
+- **7085**: I hope he does not forget all the happy times he spent with that kind Tarutaru family.
+- **7086**: Oh, so he got back home safe. He is yet another victim of the tragedy of war. But...now, now...he should be fine... Just fine.
+- **8262**: From a medical standpoint, it's a miracle the boy woke up at all. I cannot explain it...
+- **8263**: Why does Wolfgang need to speak with him so desperately?
+- **8264**: Perhaps you should visit the Ru'Lude Gardens. I've a feeling the situation up there may be even tenser than it is here.
+- **8305**: I wonder if there might be some connection between the boy and that young lady, Prishe.
+- **8306**: According to the rumors among the Ducal Guard, someone saw him in the central tower of the northern ruins of Pso'Xja. However, to enter the deeper parts of those towers, permission from Tenshodo is necessary...
+- **8361**: I'm delighted to see my young patient fully recovered. She's awfully energetic when conscious, isn't she?
+- **8362**: It appears our visitors have returned to Tavnazia. I admit being most surprised to hear the nation still existed.
+- **8403**: The boy first appeared in Delkfutt's Tower. On the first floor of the tower, there is a large doorway that leads into the deeper areas of the structure...
+- **8404**: Wolfgang will know how to open the door that lies beyond. Take this envelope to the palace guard post. I will be praying for your success, <Player>.
+- **8405**: I see by his reaction that Wolfgang understood the meaning of the map.
+- **8406**: Where should you go? Hah hah. That's a secret, <Player>. Though, if you think hard enough, I feel you will come to understand.
+- **8407**: I knew all along Wolfgang would come. He is a good man, despite being a little stubborn. Now hurry to Delkfutt's Tower. Tenzen should already be on his way.
+- **8408**: Somewhere on the first floor there is a large doorway that leads to the basement of the tower. The key you received from Wolfgang will open that door.
+- **8409**: Wolfgang should not be giving you any more problems. I think he has finally started to realize what is truly important in this world.
+- **13884**: Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it.
+- **13885**: Thank you so much for your donation. This will save many a life in these trying times.
+- **13886**: Thank you so much for your donation. This will save many a life in these trying times.B
+- **13887**: Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later.
+- **13888**: Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own.
+- **13889**: Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13890**: Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13891**: Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities.
+- **13892**: I should have more than enough concoctions for my current needs.
+- **13893**: I should have more than enough $0 for my current needs.
 
 ## Events
 
@@ -477,13 +477,13 @@
 
 ```
   0: 0x0066 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
+  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
     → "From a medical standpoint, it's a miracle the boy woke up at all. I cannot explain it..."
   2: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
+  3: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
     → "Why does Wolfgang need to speak with him so desperately?"
   4: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
+  5: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
     → "Perhaps you should visit the Ru'Lude Gardens. I've a feeling the situation up there may be even tenser than it is here."
   6: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007C [0x21] END_EVENT
@@ -512,10 +512,10 @@
 
 ```
   0: 0x007E [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8304*)
+  1: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
     → "I wonder if there might be some connection between the boy and that young lady, Prishe."
   2: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8305*)
+  3: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8306*)
     → "According to the rumors among the Ducal Guard, someone saw him in the central tower of the northern ruins of Pso'Xja. However, to enter the deeper parts of those towers, permission from Tenshodo is necessary..."
   4: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0090 [0x21] END_EVENT
@@ -543,10 +543,10 @@
 
 ```
   0: 0x0092 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=8360*)
+  1: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
     → "I'm delighted to see my young patient fully recovered. She's awfully energetic when conscious, isn't she?"
   2: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
+  3: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
     → "It appears our visitors have returned to Tavnazia. I admit being most surprised to hear the nation still existed."
   4: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00A4 [0x21] END_EVENT
@@ -574,10 +574,10 @@
 
 ```
   0: 0x00A6 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8402*)
+  1: 0x00B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
     → "The boy first appeared in Delkfutt's Tower. On the first floor of the tower, there is a large doorway that leads into the deeper areas of the structure..."
   2: 0x00B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8403*)
+  3: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
     → "Wolfgang will know how to open the door that lies beyond. Take this envelope to the palace guard post. I will be praying for your success, <Player>."
   4: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B8 [0x21] END_EVENT
@@ -605,10 +605,10 @@
 
 ```
   0: 0x00BA [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8404*)
+  1: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
     → "I see by his reaction that Wolfgang understood the meaning of the map."
   2: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8405*)
+  3: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
     → "Where should you go? Hah hah. That's a secret, <Player>. Though, if you think hard enough, I feel you will come to understand."
   4: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00CC [0x21] END_EVENT
@@ -637,10 +637,10 @@
 
 ```
   0: 0x00CE [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8406*)
+  1: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8407*)
     → "I knew all along Wolfgang would come. He is a good man, despite being a little stubborn. Now hurry to Delkfutt's Tower. Tenzen should already be on his way."
   2: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8407*)
+  3: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
     → "Somewhere on the first floor there is a large doorway that leads to the basement of the tower. The key you received from Wolfgang will open that door."
   4: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E0 [0x21] END_EVENT
@@ -668,7 +668,7 @@
 
 ```
   0: 0x00E2 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8408*)
+  1: 0x00EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8409*)
     → "Wolfgang should not be giving you any more problems. I think he has finally started to realize what is truly important in this world."
   2: 0x00EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00F0 [0x21] END_EVENT
@@ -960,7 +960,7 @@
 #### Opcodes
 
 ```
-  0: 0x01A9 [0x2B] Crooked Arrow (ID: 17776703/0x010F403F) [8250*]:
+  0: 0x01A9 [0x2B] Crooked Arrow (ID: 17776703/0x010F403F) [8251*]:
     → "He... He just vanished!"
   1: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B1 [0x00] END_REQSTACK()
@@ -1070,10 +1070,10 @@
 
 ```
   0: 0x0210 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7021*)
+  1: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=7022*)
     → "Why, hello there. Are you feeling all right? You seem well enough to me."
   2: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7022*)
+  3: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=7023*)
     → "Remember to stop by if you're not feeling well."
   4: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0222 [0x21] END_EVENT
@@ -1103,7 +1103,7 @@
   0: 0x0224 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0226 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0227 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  3: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7023*)
+  3: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=7024*)
     → "Sorry for all the commotion at the embassy. Let me apologize. Wolfgang and I are old friends, and both of us are quite stubborn, I'm afraid. I hope you'll forgive me."
   4: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0235 [0x21] END_EVENT
@@ -1134,13 +1134,13 @@
   0: 0x0237 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0239 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x023A [0x79] EventEntity looks at LocalPlayer (Basic look)
-  3: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7024*)
+  3: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
     → "The ambassador has returned? I shall stop by for a check up later."
   4: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7025*)
+  5: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7026*)
     → "The ambassador comes by often. It must be stressful knowing that international relations hinge upon your performance."
   6: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7026*)
+  7: 0x024C [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
     → "Take care of yourself, all right? You're always welcome as a friend, but I don't like seeing you as a patient."
   8: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0250 [0x21] END_EVENT
@@ -1171,18 +1171,18 @@
   0: 0x0252 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0254 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0255 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  3: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7027*)
+  3: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
     → "The clock tower? Of course I object! Every time its bells ring, the town feels so alive. I shall sign the petition, too."
   4: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=7028*)
+  5: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=7029*)
     → "Galmut used to come all the time. He'd limp in here after each fight so I could tend to his wounds. He was quite a little crybaby, too!"
   6: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0267 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0276
-  8: 0x026F [0x48] [System] [7009*]:
+  8: 0x026F [0x48] [System] [7010*]:
     → "The petition is complete!"
   9: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0273 [0x01] GOTO 0x027A
- 11: 0x0276 [0x48] [System] [7010*]:
+ 11: 0x0276 [0x48] [System] [7011*]:
     → "You have $0 more [signature/signatures] to go."
  12: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1256,7 +1256,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x027E [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+  1: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "All you need to do is take the Cardian to the Manustery in Windurst. I wish you luck, friend."
   2: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x028C [0x21] END_EVENT
@@ -1285,10 +1285,10 @@ SUBROUTINE_027A:
 
 ```
   0: 0x028E [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
+  1: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
     → "Oh, so you made it to the Manustery with that Cardian. You have my thanks. The rest depends on him, I suppose."
   2: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
+  3: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
     → "I hope he does not forget all the happy times he spent with that kind Tarutaru family."
   4: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02A0 [0x21] END_EVENT
@@ -1316,7 +1316,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x02A2 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
+  1: 0x02AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
     → "Oh, so he got back home safe. He is yet another victim of the tragedy of war. But...now, now...he should be fine... Just fine."
   2: 0x02AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02B0 [0x21] END_EVENT
@@ -2162,7 +2162,7 @@ SUBROUTINE_027A:
   0: 0x0502 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[2]
   1: 0x0507 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x0511 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
-  3: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=13883*)
+  3: 0x0516 [0x1D] PRINT_EVENT_MESSAGE(message_id=13884*)
     → "Even a small donation of $0 gil would allow me to provide medicine to any patient who may need it."
   4: 0x0519 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x051A [0x21] END_EVENT
@@ -2190,7 +2190,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x051C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=13884*)
+  1: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=13885*)
     → "Thank you so much for your donation. This will save many a life in these trying times."
   2: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x052A [0x21] END_EVENT
@@ -2218,7 +2218,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x052C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=13885*)
+  1: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=13886*)
     → "Thank you so much for your donation. This will save many a life in these trying times.B"
   2: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x053A [0x21] END_EVENT
@@ -2246,7 +2246,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x053C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=13886*)
+  1: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=13887*)
     → "Your recent donation is more than sufficient for the time being. Perhaps I will run out and request your services again later."
   2: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x054A [0x21] END_EVENT
@@ -2277,7 +2277,7 @@ SUBROUTINE_027A:
   0: 0x054C [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   1: 0x0556 [0x03] Work_Zone[2] = 4145*
   2: 0x055B [0x03] Work_Zone[3] = 4144*
-  3: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=13887*)
+  3: 0x0560 [0x1D] PRINT_EVENT_MESSAGE(message_id=13888*)
     → "Would you happen to be in possession of any $0 or $1? I require some to further my research, but they can be quite expensive to procure on my own."
   4: 0x0563 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0564 [0x21] END_EVENT
@@ -2307,7 +2307,7 @@ SUBROUTINE_027A:
   0: 0x0566 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   1: 0x0570 [0x03] Work_Zone[2] = 4145*
   2: 0x0575 [0x03] Work_Zone[3] = 4144*
-  3: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=13888*)
+  3: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=13889*)
     → "Thank you very much for the $0 and $1. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   4: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x057E [0x21] END_EVENT
@@ -2337,7 +2337,7 @@ SUBROUTINE_027A:
   0: 0x0580 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
   1: 0x0585 [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x058F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-  3: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=13889*)
+  3: 0x0594 [0x1D] PRINT_EVENT_MESSAGE(message_id=13890*)
     → "Thank you very much for the $0. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   4: 0x0597 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0598 [0x21] END_EVENT
@@ -2365,7 +2365,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x059A [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13890*)
+  1: 0x05A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13891*)
     → "Thank you very much for such expensive medicines. I'm sure the fruits of my research will be reflected in my alter ego's capabilities."
   2: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05A8 [0x21] END_EVENT
@@ -2393,7 +2393,7 @@ SUBROUTINE_027A:
 
 ```
   0: 0x05AA [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
-  1: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13891*)
+  1: 0x05B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13892*)
     → "I should have more than enough concoctions for my current needs."
   2: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x05B8 [0x21] END_EVENT
@@ -2424,7 +2424,7 @@ SUBROUTINE_027A:
   0: 0x05BA [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[2]
   1: 0x05BF [0x79] Monberaux (ID: 17776641/0x010F4001) looks at LocalPlayer (Basic look)
   2: 0x05C9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-  3: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13892*)
+  3: 0x05CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13893*)
     → "I should have more than enough $0 for my current needs."
   4: 0x05D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x05D2 [0x21] END_EVENT

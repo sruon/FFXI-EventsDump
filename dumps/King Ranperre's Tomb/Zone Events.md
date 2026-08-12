@@ -60,7 +60,7 @@
 |      14 | 0xFFFE886F  |  4294871151 |
 |      15 | 0xFFFFFC18  |  4294966296 |
 |      16 | 0x0BCA      |        3018 |
-|      17 | 0x1CA0      |        7328 |
+|      17 | 0x1CA1      |        7329 |
 |      18 | 0x0064      |         100 |
 |      19 | 0xFFFEC1A4  |  4294885796 |
 |      20 | 0xFFFE0C50  |  4294839376 |
@@ -114,7 +114,7 @@
 |      68 | 0x5426      |       21542 |
 |      69 | 0x1D4B      |        7499 |
 |      70 | 0x0548      |        1352 |
-|      71 | 0x1CA3      |        7331 |
+|      71 | 0x1CA4      |        7332 |
 |      72 | 0x0013      |          19 |
 |      73 | 0xFFFF5D24  |  4294925604 |
 |      74 | 0x4E0D      |       19981 |
@@ -124,36 +124,36 @@
 |      78 | 0x4D72      |       19826 |
 |      79 | 0x082A      |        2090 |
 |      80 | 0x00D1      |         209 |
-|      81 | 0x1CA4      |        7332 |
+|      81 | 0x1CA5      |        7333 |
 |      82 | 0x000F      |          15 |
 |      83 | 0xFFFEE770  |  4294895472 |
 |      84 | 0x4E76      |       20086 |
 |      85 | 0x222E      |        8750 |
 |      86 | 0x07D7      |        2007 |
 |      87 | 0x010D      |         269 |
-|      88 | 0x1CA7      |        7335 |
+|      88 | 0x1CA8      |        7336 |
 |      89 | 0x007F      |         127 |
-|      90 | 0x1CA8      |        7336 |
-|      91 | 0x1CA9      |        7337 |
-|      92 | 0x1CAA      |        7338 |
+|      90 | 0x1CA9      |        7337 |
+|      91 | 0x1CAA      |        7338 |
+|      92 | 0x1CAB      |        7339 |
 |      93 | 0x001E      |          30 |
 |      94 | 0xFFFEEB0A  |  4294896394 |
 |      95 | 0x5349      |       21321 |
 |      96 | 0x222D      |        8749 |
-|      97 | 0x1CAB      |        7339 |
-|      98 | 0x1CAC      |        7340 |
-|      99 | 0x1CAD      |        7341 |
-|     100 | 0x1CAE      |        7342 |
-|     101 | 0x1CAF      |        7343 |
-|     102 | 0x1CB0      |        7344 |
+|      97 | 0x1CAC      |        7340 |
+|      98 | 0x1CAD      |        7341 |
+|      99 | 0x1CAE      |        7342 |
+|     100 | 0x1CAF      |        7343 |
+|     101 | 0x1CB0      |        7344 |
+|     102 | 0x1CB1      |        7345 |
 
 ## String References
 
-- **7328**: Enter? [Yes./No.]
-- **7331**: Enter through the door? [Yes./No.]
-- **7332**: Leave through the door? [Yes./No.]
-- **7335**: You find $6, but you are unable to decipher it.
-- **7336**: Ah, now I see. Who would've thought a tomb was hidden here?
+- **7329**: Enter? [Yes./No.]
+- **7332**: Enter through the door? [Yes./No.]
+- **7333**: Leave through the door? [Yes./No.]
+- **7336**: You find $6, but you are unable to decipher it.
+- **7337**: Ah, now I see. Who would've thought a tomb was hidden here?
 
 ## Events
 
@@ -363,7 +363,7 @@ SUBROUTINE_0065:
 #### Opcodes
 
 ```
-  0: 0x0163 [0x24] CREATE_DIALOG(message_id=7328*, default_option=1*, option_flags=0*)
+  0: 0x0163 [0x24] CREATE_DIALOG(message_id=7329*, default_option=1*, option_flags=0*)
     → "Enter? [Yes./No.]"
   1: 0x016A [0x25] WAIT_DIALOG_SELECT()
   2: 0x016B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x020C
@@ -853,7 +853,7 @@ SUBROUTINE_020C:
 #### Opcodes
 
 ```
-  0: 0x02EC [0x24] CREATE_DIALOG(message_id=7331*, default_option=1*, option_flags=0*)
+  0: 0x02EC [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
     → "Enter through the door? [Yes./No.]"
   1: 0x02F3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x02F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03D0
@@ -921,7 +921,7 @@ SUBROUTINE_03D0:
 #### Opcodes
 
 ```
-  0: 0x03D2 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x03D2 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Leave through the door? [Yes./No.]"
   1: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
   2: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B6
@@ -1047,14 +1047,14 @@ SUBROUTINE_04B6:
  17: 0x0557 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res2" with entities [EventEntity, EventEntity]
  18: 0x0564 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res2" with entities [EventEntity, EventEntity]
  19: 0x0571 [0x03] Work_Zone[9] = 269*
- 20: 0x0576 [0x48] [System] [7335*]:
+ 20: 0x0576 [0x48] [System] [7336*]:
     → "You find $6, but you are unable to decipher it."
  21: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x057A [0x1C] WAIT(60* ticks)
  23: 0x057D [0x27] REQ_SET(priority=0x03, entity_id=Heavy Stone Door (ID: 17555990/0x010BE216), tag_num=0x03)
  24: 0x0584 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 127*
  25: 0x0588 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
- 26: 0x058C [0x48] [System] [7336*]:
+ 26: 0x058C [0x48] [System] [7337*]:
     → "Ah, now I see. Who would've thought a tomb was hidden here?"
  27: 0x058F [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0590 [0x4A] LocalPlayer looks at Rochefogne (ID: 17556003/0x010BE223)
@@ -1064,12 +1064,12 @@ SUBROUTINE_04B6:
  32: 0x05A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
  33: 0x05B7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=209*
  34: 0x05C6 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rochefogne (ID: 17556003/0x010BE223), tag_num=0x06)
- 35: 0x05CD [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7337*]:
+ 35: 0x05CD [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7338*]:
     → "I was afraid I had dropped it then."
  36: 0x05D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x05D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
  38: 0x05E6 [0x27] REQ_SET(priority=0x04, entity_id=Rochefogne (ID: 17556003/0x010BE223), tag_num=0x07)
- 39: 0x05ED [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7338*]:
+ 39: 0x05ED [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7339*]:
     → "But how fortunate that you retrieved it! The dwellers of d'Oraguille still do not know, do they?"
  40: 0x05F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x05F5 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Rochefogne (ID: 17556003/0x010BE223))
@@ -1087,13 +1087,13 @@ SUBROUTINE_04B6:
  53: 0x0642 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x003" with entities [LocalPlayer, LocalPlayer], work=209*
  54: 0x0651 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Rochefogne (ID: 17556003/0x010BE223))
  55: 0x0657 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
- 56: 0x0668 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7339*]:
+ 56: 0x0668 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7340*]:
     → "King Ranperre, at long last I find your tomb! But much distance separates us now, ironically."
  57: 0x066F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x0670 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7340*]:
+ 58: 0x0670 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7341*]:
     → "Please...please watch over me. No, I am no longer of such status. Not anymore..."
  59: 0x0677 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0678 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7341*]:
+ 60: 0x0678 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7342*]:
     → "Please, at least judge my actions for what they are! I still deserve salvation, great king of dragons!"
  61: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0680 [0x1C] WAIT(10* ticks)
@@ -1104,7 +1104,7 @@ SUBROUTINE_04B6:
  67: 0x06A9 [0x52] END_LOAD_SCHEDULER: End scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=209*
  68: 0x06B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
  69: 0x06C9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=209*
- 70: 0x06D8 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7342*]:
+ 70: 0x06D8 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7343*]:
     → "Could you show me that for a moment? I promise not to take it. After all, you wouldn't have found this place without me, would you?"
  71: 0x06DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x06E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1116,14 +1116,14 @@ SUBROUTINE_04B6:
  78: 0x071E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=209*
  79: 0x072D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  80: 0x073E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 81: 0x074D [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7343*]:
+ 81: 0x074D [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7344*]:
     → "Thank you. Hmm, it seems to be written in code. Yet, the writing is in ancient San d'Orian. I suppose I never had any part in it."
  82: 0x0754 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0755 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rochefogne (ID: 17556003/0x010BE223))
  84: 0x075B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=[209*, 0*]
  85: 0x076C [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rochefogne (ID: 17556003/0x010BE223), tag_num=0x0A)
  86: 0x0773 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x007" with entities [LocalPlayer, LocalPlayer], work=209*
- 87: 0x0782 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7344*]:
+ 87: 0x0782 [0x2B] Rochefogne (ID: 17556003/0x010BE223) [7345*]:
     → "But it seems the tome is the only thing here. Hmm..."
  88: 0x0789 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x078A [0x27] REQ_SET(priority=0x04, entity_id=Rochefogne (ID: 17556003/0x010BE223), tag_num=0x0B)

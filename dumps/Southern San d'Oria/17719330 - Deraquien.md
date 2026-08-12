@@ -47,48 +47,48 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0015      |          21 |
-|       1 | 0x1F6A      |        8042 |
+|       1 | 0x1F6B      |        8043 |
 |       2 | 0x001E      |          30 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x1FF7      |        8183 |
-|       5 | 0x257B      |        9595 |
-|       6 | 0x257C      |        9596 |
-|       7 | 0x24B4      |        9396 |
-|       8 | 0x24A9      |        9385 |
+|       4 | 0x1FF8      |        8184 |
+|       5 | 0x257C      |        9596 |
+|       6 | 0x257D      |        9597 |
+|       7 | 0x24B5      |        9397 |
+|       8 | 0x24AA      |        9386 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x24B5      |        9397 |
-|      12 | 0x24B6      |        9398 |
-|      13 | 0x24B7      |        9399 |
-|      14 | 0x24B8      |        9400 |
-|      15 | 0x24CA      |        9418 |
-|      16 | 0x24DD      |        9437 |
-|      17 | 0x2527      |        9511 |
+|      11 | 0x24B6      |        9398 |
+|      12 | 0x24B7      |        9399 |
+|      13 | 0x24B8      |        9400 |
+|      14 | 0x24B9      |        9401 |
+|      15 | 0x24CB      |        9419 |
+|      16 | 0x24DE      |        9438 |
+|      17 | 0x2528      |        9512 |
 |      18 | 0x001B      |          27 |
-|      19 | 0x287F      |       10367 |
-|      20 | 0x288B      |       10379 |
-|      21 | 0x288C      |       10380 |
-|      22 | 0x288D      |       10381 |
+|      19 | 0x2880      |       10368 |
+|      20 | 0x288C      |       10380 |
+|      21 | 0x288D      |       10381 |
+|      22 | 0x288E      |       10382 |
 
 ## String References
 
-- **8042**: Nothing to report!
-- **8183**: Er, hey! You're not the captain! Don't scare me like that, really.
-- **9385**: Will you help? [Lead the way!/I cannot help at this time...]
-- **9396**: Sir Elmemague has asked for the assistance of adventurers in the capture of the suspected thief lurking in La Theine Plateau...
-- **9397**: Then you must make haste for La Theine Plateau. The knights there will give you further instructions.
-- **9398**: I see. If it were me, I'd offer up my sword in a heartbeat...
-- **9399**: You've forgotten already? Make for La Theine Plateau, and the knights there will give you further instructions.
-- **9400**: I'm not feeling the smallest shred of envy. I have absolutely no interest in proving myself through acts of honor and courage...
-- **9418**: If the man they caught is really the burglar, you will be eligible for a reward from Monarlais Halver. Why don't you head over to the chateau and check on the proceedings?
-- **9437**: Could you go and find out more about the lady who calls herself Phillone? I must solve this crime if I'm ever to be noticed by my superiors. Please let me know if you discover anything important.
-- **9511**: That lady had nothing to do with the theft? Hmm, it seems my instincts were well off the mark. Perhaps my only road to greatness lies through the diligent performance of my guard duties...
-- **9595**: Intruders!
-- **9596**: ...Is something I've always wanted to say, but having "nothing to report" day in, day out is probably for the best, all things considered. Still, it must have been exciting to live in the same age as Vijartal Caphieux...
-- **10367**: <Player>'s badge flashes brightly.
-- **10379**: Ah!? Th-that badge! Is it not a symbol of that mercenary company offering the incredible rewards?
-- **10380**: A mercenary's life... If I am doomed to remain a gate guard, perhaps I, too, should put in an application.
-- **10381**: But, no. I cannot forsake my duty. I will work my way towards glory one step at a time.
+- **8043**: Nothing to report!
+- **8184**: Er, hey! You're not the captain! Don't scare me like that, really.
+- **9386**: Will you help? [Lead the way!/I cannot help at this time...]
+- **9397**: Sir Elmemague has asked for the assistance of adventurers in the capture of the suspected thief lurking in La Theine Plateau...
+- **9398**: Then you must make haste for La Theine Plateau. The knights there will give you further instructions.
+- **9399**: I see. If it were me, I'd offer up my sword in a heartbeat...
+- **9400**: You've forgotten already? Make for La Theine Plateau, and the knights there will give you further instructions.
+- **9401**: I'm not feeling the smallest shred of envy. I have absolutely no interest in proving myself through acts of honor and courage...
+- **9419**: If the man they caught is really the burglar, you will be eligible for a reward from Monarlais Halver. Why don't you head over to the chateau and check on the proceedings?
+- **9438**: Could you go and find out more about the lady who calls herself Phillone? I must solve this crime if I'm ever to be noticed by my superiors. Please let me know if you discover anything important.
+- **9512**: That lady had nothing to do with the theft? Hmm, it seems my instincts were well off the mark. Perhaps my only road to greatness lies through the diligent performance of my guard duties...
+- **9596**: Intruders!
+- **9597**: ...Is something I've always wanted to say, but having "nothing to report" day in, day out is probably for the best, all things considered. Still, it must have been exciting to live in the same age as Vijartal Caphieux...
+- **10368**: <Player>'s badge flashes brightly.
+- **10380**: Ah!? Th-that badge! Is it not a symbol of that mercenary company offering the incredible rewards?
+- **10381**: A mercenary's life... If I am doomed to remain a gate guard, perhaps I, too, should put in an application.
+- **10382**: But, no. I cannot forsake my duty. I will work my way towards glory one step at a time.
 
 ## Events
 
@@ -142,13 +142,13 @@
   2: 0x000C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [EventEntity, EventEntity], work=21*
-  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
+  5: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
     → "Nothing to report!"
   6: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0021 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [EventEntity, EventEntity]
   8: 0x002E [0x1C] WAIT(30* ticks)
   9: 0x0031 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
+ 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
     → "Er, hey! You're not the captain! Don't scare me like that, really."
  11: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0044 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -186,13 +186,13 @@
   2: 0x0059 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x005A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sl00" with entities [EventEntity, EventEntity], work=21*
-  5: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9595*)
+  5: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=9596*)
     → "Intruders!"
   6: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x006E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sl00" with entities [EventEntity, EventEntity]
   8: 0x007B [0x1C] WAIT(30* ticks)
   9: 0x007E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=9596*)
+ 10: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=9597*)
     → "...Is something I've always wanted to say, but having "nothing to report" day in, day out is probably for the best, all things considered. Still, it must have been exciting to live in the same age as Vijartal Caphieux..."
  11: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0091 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -251,22 +251,22 @@
   0: 0x00A2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00A7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9396*)
+  3: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
     → "Sir Elmemague has asked for the assistance of adventurers in the capture of the suspected thief lurking in La Theine Plateau..."
   4: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00AD [0x06] Work_Zone[1] = 0
-  6: 0x00B0 [0x24] CREATE_DIALOG(message_id=9385*, default_option=1*, option_flags=0*)
+  6: 0x00B0 [0x24] CREATE_DIALOG(message_id=9386*, default_option=1*, option_flags=0*)
     → "Will you help? [Lead the way!/I cannot help at this time...]"
   7: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
   8: 0x00B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CC
-  9: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
+  9: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9398*)
     → "Then you must make haste for La Theine Plateau. The knights there will give you further instructions."
  10: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00C4 [0x03] Work_Zone[1] = 1*
  12: 0x00C9 [0x01] GOTO 0x00E0
  13: 0x00CC [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00E0
  14: 0x00D4 [0x03] Work_Zone[1] = 0*
- 15: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9398*)
+ 15: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9399*)
     → "I see. If it were me, I'd offer up my sword in a heartbeat..."
  16: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00DD [0x01] GOTO 0x00E0
@@ -299,10 +299,10 @@ SUBROUTINE_00E0:
   0: 0x00E2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9399*)
+  3: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
     → "You've forgotten already? Make for La Theine Plateau, and the knights there will give you further instructions."
   4: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
+  5: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
     → "I'm not feeling the smallest shred of envy. I have absolutely no interest in proving myself through acts of honor and courage..."
   6: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00F1 [0x21] END_EVENT
@@ -355,7 +355,7 @@ SUBROUTINE_00E0:
   0: 0x00FA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00FF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0100 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9418*)
+  3: 0x0101 [0x1D] PRINT_EVENT_MESSAGE(message_id=9419*)
     → "If the man they caught is really the burglar, you will be eligible for a reward from Monarlais Halver. Why don't you head over to the chateau and check on the proceedings?"
   4: 0x0104 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0105 [0x21] END_EVENT
@@ -408,7 +408,7 @@ SUBROUTINE_00E0:
   0: 0x010E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0113 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0114 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9437*)
+  3: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9438*)
     → "Could you go and find out more about the lady who calls herself Phillone? I must solve this crime if I'm ever to be noticed by my superiors. Please let me know if you discover anything important."
   4: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0119 [0x21] END_EVENT
@@ -461,7 +461,7 @@ SUBROUTINE_00E0:
   0: 0x0122 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0127 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0128 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9511*)
+  3: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=9512*)
     → "That lady had nothing to do with the theft? Hmm, it seems my instincts were well off the mark. Perhaps my only road to greatness lies through the diligent performance of my guard duties..."
   4: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x012D [0x21] END_EVENT
@@ -849,17 +849,17 @@ SUBROUTINE_00E0:
 
 ```
   0: 0x01ED [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x01EE [0x48] [System] [10367*]:
+  1: 0x01EE [0x48] [System] [10368*]:
     → "<Player>'s badge flashes brightly."
   2: 0x01F1 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
+  3: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10380*)
     → "Ah!? Th-that badge! Is it not a symbol of that mercenary company offering the incredible rewards?"
   4: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01FA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
-  6: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10380*)
+  6: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
     → "A mercenary's life... If I am doomed to remain a gate guard, perhaps I, too, should put in an application."
   7: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
+  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=10382*)
     → "But, no. I cannot forsake my duty. I will work my way towards glory one step at a time."
   9: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0211 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*

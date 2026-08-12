@@ -31,9 +31,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC4      |        7364 |
+|       0 | 0x1CC5      |        7365 |
 |       1 | 0x038E      |         910 |
-|       2 | 0x1CC6      |        7366 |
+|       2 | 0x1CC7      |        7367 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -46,8 +46,8 @@
 
 ## String References
 
-- **7364**: An unseen force is drawing you towards the maw.
-- **7366**: Raise your $3? [Yes./No.]
+- **7365**: An unseen force is drawing you towards the maw.
+- **7367**: Raise your $3? [Yes./No.]
 
 ## Events
 
@@ -106,11 +106,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7364*]:
+  1: 0x0003 [0x48] [System] [7365*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 910*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7366*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7367*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CC

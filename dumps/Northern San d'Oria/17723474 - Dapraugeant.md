@@ -30,12 +30,12 @@
 |       5 | 0xFFFE043B  |  4294837307 |
 |       6 | 0x3B164     |      242020 |
 |       7 | 0x0014      |          20 |
-|       8 | 0x2C1D      |       11293 |
+|       8 | 0x2C1E      |       11294 |
 |       9 | 0x001E      |          30 |
 
 ## String References
 
-- **11293**: This is the entrance to the watchtower, which overlooks the woods of Ronfaure.
+- **11294**: This is the entrance to the watchtower, which overlooks the woods of Ronfaure.
 
 ## Events
 
@@ -135,7 +135,7 @@
   1: 0x001E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0020 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=11293*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=11294*)
     → "This is the entrance to the watchtower, which overlooks the woods of Ronfaure."
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0033 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

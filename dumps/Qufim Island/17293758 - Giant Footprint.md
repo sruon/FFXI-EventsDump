@@ -31,27 +31,27 @@
 |       7 | 0x0026      |          38 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1E80      |        7808 |
+|      10 | 0x1E81      |        7809 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1E81      |        7809 |
+|      12 | 0x1E82      |        7810 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x1E82      |        7810 |
-|      15 | 0x1E83      |        7811 |
-|      16 | 0x1E86      |        7814 |
+|      14 | 0x1E83      |        7811 |
+|      15 | 0x1E84      |        7812 |
+|      16 | 0x1E87      |        7815 |
 |      17 | 0x0006      |           6 |
-|      18 | 0x1E87      |        7815 |
+|      18 | 0x1E88      |        7816 |
 |      19 | 0x0007      |           7 |
-|      20 | 0x1E88      |        7816 |
+|      20 | 0x1E89      |        7817 |
 |      21 | 0x0008      |           8 |
-|      22 | 0x1E89      |        7817 |
+|      22 | 0x1E8A      |        7818 |
 |      23 | 0x0009      |           9 |
-|      24 | 0x1E8A      |        7818 |
+|      24 | 0x1E8B      |        7819 |
 |      25 | 0x000A      |          10 |
-|      26 | 0x1E84      |        7812 |
+|      26 | 0x1E85      |        7813 |
 |      27 | 0x000B      |          11 |
-|      28 | 0x1E85      |        7813 |
+|      28 | 0x1E86      |        7814 |
 |      29 | 0x000C      |          12 |
-|      30 | 0x1E8B      |        7819 |
+|      30 | 0x1E8C      |        7820 |
 |      31 | 0x0024      |          36 |
 |      32 | 0x0078      |         120 |
 |      33 | 0x00C9      |         201 |
@@ -409,62 +409,62 @@ SUBROUTINE_0100:
  33: 0x0106 [0x27] REQ_SET(priority=0x0F, entity_id=Unnamed NPC (ID: 17293757/0x0107E1BD), tag_num=0x04)
  34: 0x010D [0x1A] CALL_SUBROUTINE(address=0x1916)
  35: 0x0110 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x0123
- 36: 0x0118 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7808*]:
+ 36: 0x0118 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7809*]:
     → "<Player>!? Get back! I can handle this!"
  37: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0120 [0x01] GOTO 0x01F4
  39: 0x0123 [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x0136
- 40: 0x012B [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7809*]:
+ 40: 0x012B [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7810*]:
     → "<Player>!? Don't come any closer! This battle is mine!"
  41: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0133 [0x01] GOTO 0x01F4
  43: 0x0136 [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x0149
- 44: 0x013E [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7810*]:
+ 44: 0x013E [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7811*]:
     → "<Player>? Step aside. I will handle this!"
  45: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0146 [0x01] GOTO 0x01F4
  47: 0x0149 [0x02] IF !(ExtData[1]->WorkLocal[8] == 4*) GOTO 0x015C
- 48: 0x0151 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7811*]:
+ 48: 0x0151 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7812*]:
     → "<Player>? Stay back. I will handle this!"
  49: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0159 [0x01] GOTO 0x01F4
  51: 0x015C [0x02] IF !(ExtData[1]->WorkLocal[8] == 5*) GOTO 0x016F
- 52: 0x0164 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7814*]:
+ 52: 0x0164 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7815*]:
     → "<Player>!? Stay back! I will take care of this!"
  53: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x016C [0x01] GOTO 0x01F4
  55: 0x016F [0x02] IF !(ExtData[1]->WorkLocal[8] == 6*) GOTO 0x0182
- 56: 0x0177 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7815*]:
+ 56: 0x0177 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7816*]:
     → "<Player>!? Stay back! I've got this one!"
  57: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x017F [0x01] GOTO 0x01F4
  59: 0x0182 [0x02] IF !(ExtData[1]->WorkLocal[8] == 7*) GOTO 0x0195
- 60: 0x018A [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7816*]:
+ 60: 0x018A [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7817*]:
     → "<Player>? Stand aside. I will handle this!"
  61: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0192 [0x01] GOTO 0x01F4
  63: 0x0195 [0x02] IF !(ExtData[1]->WorkLocal[8] == 8*) GOTO 0x01A8
- 64: 0x019D [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7817*]:
+ 64: 0x019D [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7818*]:
     → "<Player>!? Don't come any closer! I can do this!"
  65: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x01A5 [0x01] GOTO 0x01F4
  67: 0x01A8 [0x02] IF !(ExtData[1]->WorkLocal[8] == 9*) GOTO 0x01BB
- 68: 0x01B0 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7818*]:
+ 68: 0x01B0 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7819*]:
     → "<Player>? Stay back. I will handle this!"
  69: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x01B8 [0x01] GOTO 0x01F4
  71: 0x01BB [0x02] IF !(ExtData[1]->WorkLocal[8] == 10*) GOTO 0x01CE
- 72: 0x01C3 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7812*]:
+ 72: 0x01C3 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7813*]:
     → "<Player>? Don't come! I can do this myself!"
  73: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01CB [0x01] GOTO 0x01F4
  75: 0x01CE [0x02] IF !(ExtData[1]->WorkLocal[8] == 11*) GOTO 0x01E1
- 76: 0x01D6 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7813*]:
+ 76: 0x01D6 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7814*]:
     → "<Player>? Stay back! Leave this one to me!"
  77: 0x01DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x01DE [0x01] GOTO 0x01F4
  79: 0x01E1 [0x02] IF !(ExtData[1]->WorkLocal[8] == 12*) GOTO 0x01F4
- 80: 0x01E9 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7819*]:
+ 80: 0x01E9 [0x2B] Unnamed NPC (ID: 17293757/0x0107E1BD) [7820*]:
     → "<Player>? Stay where you are! This one is mine!"
  81: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x01F1 [0x01] GOTO 0x01F4

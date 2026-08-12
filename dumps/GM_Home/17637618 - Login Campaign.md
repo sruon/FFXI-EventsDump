@@ -27,23 +27,23 @@
 |       3 | 0x0017      |          23 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x000F      |          15 |
-|       6 | 0x238B      |        9099 |
+|       6 | 0x238C      |        9100 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x00FF      |         255 |
-|       9 | 0x238D      |        9101 |
-|      10 | 0x238E      |        9102 |
+|       9 | 0x238E      |        9102 |
+|      10 | 0x238F      |        9103 |
 |      11 | 0x0002      |           2 |
 |      12 | 0xFFFF      |       65535 |
-|      13 | 0x238F      |        9103 |
-|      14 | 0x238C      |        9100 |
+|      13 | 0x2390      |        9104 |
+|      14 | 0x238D      |        9101 |
 
 ## String References
 
-- **9099**: Pick your poins. [Campaign No. $1/Count: $2./Points: $3./Save data.]
-- **9100**: Flag turned [off/on].
-- **9101**: Campaign number set to $1.
-- **9102**: Count set to $2.
-- **9103**: Points set to $3.
+- **9100**: Pick your poins. [Campaign No. $1/Count: $2./Points: $3./Save data.]
+- **9101**: Flag turned [off/on].
+- **9102**: Campaign number set to $1.
+- **9103**: Count set to $2.
+- **9104**: Points set to $3.
 
 ## Events
 
@@ -111,7 +111,7 @@
   6: 0x002C [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
   7: 0x0031 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
   8: 0x0036 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[3]
-  9: 0x003B [0x24] CREATE_DIALOG(message_id=9099*, default_option=0*, option_flags=0*)
+  9: 0x003B [0x24] CREATE_DIALOG(message_id=9100*, default_option=0*, option_flags=0*)
     → "Pick your poins. [Campaign No. $1/Count: $2./Points: $3./Save data.]"
  10: 0x0042 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0043 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006B
@@ -120,7 +120,7 @@
  14: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[1] <= 255*) GOTO 0x0060
  15: 0x005B [0x03] ExtData[1]->WorkLocal[1] = 255*
  16: 0x0060 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 17: 0x0065 [0x48] [System] [9101*]:
+ 17: 0x0065 [0x48] [System] [9102*]:
     → "Campaign number set to $1."
  18: 0x0068 [0x01] GOTO 0x00DC
  19: 0x006B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0093
@@ -129,7 +129,7 @@
  22: 0x007B [0x02] IF !(ExtData[1]->WorkLocal[2] <= 255*) GOTO 0x0088
  23: 0x0083 [0x03] ExtData[1]->WorkLocal[2] = 255*
  24: 0x0088 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
- 25: 0x008D [0x48] [System] [9102*]:
+ 25: 0x008D [0x48] [System] [9103*]:
     → "Count set to $2."
  26: 0x0090 [0x01] GOTO 0x00DC
  27: 0x0093 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00BB
@@ -138,7 +138,7 @@
  30: 0x00A3 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 65535*) GOTO 0x00B0
  31: 0x00AB [0x03] ExtData[1]->WorkLocal[3] = 65535*
  32: 0x00B0 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[3]
- 33: 0x00B5 [0x48] [System] [9103*]:
+ 33: 0x00B5 [0x48] [System] [9104*]:
     → "Points set to $3."
  34: 0x00B8 [0x01] GOTO 0x00DC
  35: 0x00BB [0x06] Work_Zone[1] = 0
@@ -179,7 +179,7 @@ SUBROUTINE_00DC:
   3: 0x00F1 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_00F6:
-  4: 0x00F6 [0x48] [System] [9100*]:
+  4: 0x00F6 [0x48] [System] [9101*]:
     → "Flag turned [off/on]."
   5: 0x00F9 [0x03] Work_Zone[1] = Work_Zone[2]
   6: 0x00FE [0x21] END_EVENT

@@ -31,7 +31,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C98      |        7320 |
+|       0 | 0x1C99      |        7321 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -43,12 +43,12 @@
 |       9 | 0x0007      |           7 |
 |      10 | 0x00C8      |         200 |
 |      11 | 0x003C      |          60 |
-|      12 | 0x1C99      |        7321 |
+|      12 | 0x1C9A      |        7322 |
 
 ## String References
 
-- **7320**: $30L$P10r$3G$3t$3F$3N$3g$3e$3X$3g$0$P16Z [$P10^A$21$P10ri$3f$3t$3H$4853290ADi$s$P11T/$21$P12u$P11f1$P12i$K/$21$P12u$P11f2$P12i$K/$P10r*$P13'+F(i$4981341 [V$./$3G$3t$3F$3N$3g$3$3Z$3b$3g/endmapschedulori$9$z%;j]
-- **7321**: $3{$3^$3$97F$3f$3$I%9B
+- **7321**: $30L$P10r$3G$3t$3F$3N$3g$3e$3X$3g$0$P16Z [$P10^A$21$P10ri$3f$3t$3H$4853290ADi$s$P11T/$21$P12u$P11f1$P12i$K/$21$P12u$P11f2$P12i$K/$P10r*$P13'+F(i$4981341 [V$./$3G$3t$3F$3N$3g$3$3Z$3b$3g/endmapschedulori$9$z%;j]
+- **7322**: $3{$3^$3$97F$3f$3$I%9B
 
 ## Events
 
@@ -127,7 +127,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7320*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7321*, default_option=0*, option_flags=0*)
     → "$30L$P10r$3G$3t$3F$3N$3g$3e$3X$3g$0$P16Z [$P10^A$21$P10ri$3f$3t$3H$4853290ADi$s$P11T/$21$P12u$P11f1$P12i$K/$21$P12u$P11f2$P12i$K/$P10r*$P13'+F(i$4981341 [V$./$3G$3t$3F$3N$3g$3$3Z$3b$3g/endmapschedulori$9$z%;j]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002E
@@ -175,7 +175,7 @@
  44: 0x0177 [0x51] END_MAP_SCHEDULER: End scheduler "yomi" with entities [LocalPlayer, LocalPlayer]
  45: 0x0184 [0x1C] WAIT(60* ticks)
  46: 0x0187 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 47: 0x0198 [0x48] [System] [7321*]:
+ 47: 0x0198 [0x48] [System] [7322*]:
     → "$3{$3^$3$97F$3f$3$I%9B"
  48: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x019C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -184,7 +184,7 @@
  52: 0x01C1 [0x01] GOTO 0x01C4
 
 SUBROUTINE_01C4:
- 53: 0x01C4 [0x48] [System] [7321*]:
+ 53: 0x01C4 [0x48] [System] [7322*]:
     → "$3{$3^$3$97F$3f$3$I%9B"
  54: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x01C8 [0x2D] CREATE_ZONE_SCHEDULER_TASK: Create scheduler "kilk" with entities [EventEntity, EventEntity]

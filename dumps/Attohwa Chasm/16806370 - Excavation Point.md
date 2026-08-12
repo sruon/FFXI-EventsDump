@@ -23,19 +23,19 @@
 |       0 | 0x0029      |          41 |
 |       1 | 0x025D      |         605 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1C44      |        7236 |
-|       4 | 0x1C42      |        7234 |
-|       5 | 0x1C41      |        7233 |
-|       6 | 0x1C43      |        7235 |
-|       7 | 0x1C45      |        7237 |
+|       3 | 0x1C45      |        7237 |
+|       4 | 0x1C43      |        7235 |
+|       5 | 0x1C42      |        7234 |
+|       6 | 0x1C44      |        7236 |
+|       7 | 0x1C46      |        7238 |
 
 ## String References
 
-- **7233**: Your $7 breaks!
-- **7234**: You successfully dig up $0!
-- **7235**: You dig up $0, but your $7 breaks in the process.
-- **7236**: You are unable to mine anything.
-- **7237**: You cannot carry any more items. Your inventory is full.
+- **7234**: Your $7 breaks!
+- **7235**: You successfully dig up $0!
+- **7236**: You dig up $0, but your $7 breaks in the process.
+- **7237**: You are unable to mine anything.
+- **7238**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -91,24 +91,24 @@
   4: 0x0013 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x004B
   5: 0x001B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0037
   6: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0031
-  7: 0x002B [0x48] [System] [7236*]:
+  7: 0x002B [0x48] [System] [7237*]:
     → "You are unable to mine anything."
   8: 0x002E [0x01] GOTO 0x0034
-  9: 0x0031 [0x48] [System] [7234*]:
+  9: 0x0031 [0x48] [System] [7235*]:
     → "You successfully dig up $0!"
 
 SUBROUTINE_0034:
  10: 0x0034 [0x01] GOTO 0x0048
  11: 0x0037 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0045
- 12: 0x003F [0x48] [System] [7233*]:
+ 12: 0x003F [0x48] [System] [7234*]:
     → "Your $7 breaks!"
  13: 0x0042 [0x01] GOTO 0x0048
- 14: 0x0045 [0x48] [System] [7235*]:
+ 14: 0x0045 [0x48] [System] [7236*]:
     → "You dig up $0, but your $7 breaks in the process."
 
 SUBROUTINE_0048:
  15: 0x0048 [0x01] GOTO 0x004E
- 16: 0x004B [0x48] [System] [7237*]:
+ 16: 0x004B [0x48] [System] [7238*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_004E:

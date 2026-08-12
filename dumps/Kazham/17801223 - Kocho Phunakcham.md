@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2709      |        9993 |
-|       3 | 0x270A      |        9994 |
-|       4 | 0x286E      |       10350 |
-|       5 | 0x286F      |       10351 |
+|       2 | 0x270A      |        9994 |
+|       3 | 0x270B      |        9995 |
+|       4 | 0x286F      |       10351 |
+|       5 | 0x2870      |       10352 |
 
 ## String References
 
-- **9993**: You won't find me heading to any new lands or bowing to any new chieftainness.
-- **9994**: What good is a chieftainness that won't fight? Mithra should only follow a leader who won't back down frrrom a fight.
-- **10350**: Ughpp...Raff...lesia...rrright?
-- **10351**: The last guy who touched one of those was banished from Kazham for life. It looks like you'rrre going to be next!
+- **9994**: You won't find me heading to any new lands or bowing to any new chieftainness.
+- **9995**: What good is a chieftainness that won't fight? Mithra should only follow a leader who won't back down frrrom a fight.
+- **10351**: Ughpp...Raff...lesia...rrright?
+- **10352**: The last guy who touched one of those was banished from Kazham for life. It looks like you'rrre going to be next!
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kocho Phunakcham (ID: 17801223/0x010FA007), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9993*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9994*)
     → "You won't find me heading to any new lands or bowing to any new chieftainness."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9994*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9995*)
     → "What good is a chieftainness that won't fight? Mithra should only follow a leader who won't back down frrrom a fight."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kocho Phunakcham (ID: 17801223/0x010FA007), tag_num=0x02)
@@ -170,11 +170,11 @@
   0: 0x003B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10350*)
+  3: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
     → "Ughpp...Raff...lesia...rrright?"
   4: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kocho Phunakcham (ID: 17801223/0x010FA007), tag_num=0x01)
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10351*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10352*)
     → "The last guy who touched one of those was banished from Kazham for life. It looks like you'rrre going to be next!"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kocho Phunakcham (ID: 17801223/0x010FA007), tag_num=0x02)

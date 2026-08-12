@@ -20,30 +20,30 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2D9E      |       11678 |
-|       1 | 0x2D9F      |       11679 |
+|       0 | 0x2D9F      |       11679 |
+|       1 | 0x2DA0      |       11680 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2DA0      |       11680 |
+|       3 | 0x2DA1      |       11681 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2DA1      |       11681 |
-|       6 | 0x2DA2      |       11682 |
-|       7 | 0x2DA3      |       11683 |
+|       5 | 0x2DA2      |       11682 |
+|       6 | 0x2DA3      |       11683 |
+|       7 | 0x2DA4      |       11684 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x2DA4      |       11684 |
-|      10 | 0x2DA5      |       11685 |
-|      11 | 0x2DA6      |       11686 |
+|       9 | 0x2DA5      |       11685 |
+|      10 | 0x2DA6      |       11686 |
+|      11 | 0x2DA7      |       11687 |
 
 ## String References
 
-- **11678**: Welcome to the Pit! My name is % and I am an official soul screener with the Pankration Association of Vana'diel.
-- **11679**: If it is $0 you require, I may be of assistance.
-- **11680**: What can I do for you? [Nothing./What is $0?/How do I get screened?]
-- **11681**: % are essentially $1 approved for use in Pankration matches.
-- **11682**: Only $1 that have been reviewed by an official screener and passed our quality assurance tests are deemed $0.
-- **11683**: Finally, as per association rules, all participants may only possess one $0. To create a new $0, you must first revoke your current reflector's official status.
-- **11684**: That is simple. You need only trade me the $1 you wish to have screened and I will begin my inspection immediately.
-- **11685**: If it passes all our tests, I will present you with $0.
-- **11686**: And, if you ever wish to revoke your $0's official status, trade it to me and I will return it to a normal $1.
+- **11679**: Welcome to the Pit! My name is % and I am an official soul screener with the Pankration Association of Vana'diel.
+- **11680**: If it is $0 you require, I may be of assistance.
+- **11681**: What can I do for you? [Nothing./What is $0?/How do I get screened?]
+- **11682**: % are essentially $1 approved for use in Pankration matches.
+- **11683**: Only $1 that have been reviewed by an official screener and passed our quality assurance tests are deemed $0.
+- **11684**: Finally, as per association rules, all participants may only possess one $0. To create a new $0, you must first revoke your current reflector's official status.
+- **11685**: That is simple. You need only trade me the $1 you wish to have screened and I will begin my inspection immediately.
+- **11686**: If it passes all our tests, I will present you with $0.
+- **11687**: And, if you ever wish to revoke your $0's official status, trade it to me and I will return it to a normal $1.
 
 ## Events
 
@@ -95,39 +95,39 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11678*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11679*)
     → "Welcome to the Pit! My name is % and I am an official soul screener with the Pankration Association of Vana'diel."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11679*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=11680*)
     → "If it is $0 you require, I may be of assistance."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x05] ExtData[1]->WorkLocal[0] = 1
   6: 0x0011 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0060
-  7: 0x0019 [0x24] CREATE_DIALOG(message_id=11680*, default_option=0*, option_flags=0*)
+  7: 0x0019 [0x24] CREATE_DIALOG(message_id=11681*, default_option=0*, option_flags=0*)
     → "What can I do for you? [Nothing./What is $0?/How do I get screened?]"
   8: 0x0020 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0021 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002F
  10: 0x0029 [0x06] ExtData[1]->WorkLocal[0] = 0
  11: 0x002C [0x01] GOTO 0x005D
  12: 0x002F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0046
- 13: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11681*)
+ 13: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=11682*)
     → "% are essentially $1 approved for use in Pankration matches."
  14: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=11682*)
+ 15: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=11683*)
     → "Only $1 that have been reviewed by an official screener and passed our quality assurance tests are deemed $0."
  16: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=11683*)
+ 17: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=11684*)
     → "Finally, as per association rules, all participants may only possess one $0. To create a new $0, you must first revoke your current reflector's official status."
  18: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0043 [0x01] GOTO 0x005D
  20: 0x0046 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x005D
- 21: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=11684*)
+ 21: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=11685*)
     → "That is simple. You need only trade me the $1 you wish to have screened and I will begin my inspection immediately."
  22: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11685*)
+ 23: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=11686*)
     → "If it passes all our tests, I will present you with $0."
  24: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=11686*)
+ 25: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=11687*)
     → "And, if you ever wish to revoke your $0's official status, trade it to me and I will return it to a normal $1."
  26: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x005A [0x01] GOTO 0x005D

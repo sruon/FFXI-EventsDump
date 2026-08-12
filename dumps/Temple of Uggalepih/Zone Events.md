@@ -66,7 +66,7 @@
 |      15 | 0x0151      |         337 |
 |      16 | 0x043D      |        1085 |
 |      17 | 0x003C      |          60 |
-|      18 | 0x1D2C      |        7468 |
+|      18 | 0x1D2D      |        7469 |
 |      19 | 0x0005      |           5 |
 |      20 | 0x0002      |           2 |
 |      21 | 0x000A      |          10 |
@@ -101,74 +101,74 @@
 |      50 | 0x05AA      |        1450 |
 |      51 | 0x0C16      |        3094 |
 |      52 | 0x00DF      |         223 |
-|      53 | 0x1D2F      |        7471 |
+|      53 | 0x1D30      |        7472 |
 |      54 | 0x00C1      |         193 |
 |      55 | 0x0014      |          20 |
-|      56 | 0x1D30      |        7472 |
-|      57 | 0x1D31      |        7473 |
+|      56 | 0x1D31      |        7473 |
+|      57 | 0x1D32      |        7474 |
 |      58 | 0x00FA      |         250 |
 |      59 | 0x0064      |         100 |
-|      60 | 0x1D32      |        7474 |
+|      60 | 0x1D33      |        7475 |
 |      61 | 0x000F      |          15 |
-|      62 | 0x1D33      |        7475 |
-|      63 | 0x1D34      |        7476 |
-|      64 | 0x1D35      |        7477 |
-|      65 | 0x1D36      |        7478 |
-|      66 | 0x1D37      |        7479 |
+|      62 | 0x1D34      |        7476 |
+|      63 | 0x1D35      |        7477 |
+|      64 | 0x1D36      |        7478 |
+|      65 | 0x1D37      |        7479 |
+|      66 | 0x1D38      |        7480 |
 |      67 | 0xF18D      |       61837 |
 |      68 | 0xFFFEE85F  |  4294895711 |
 |      69 | 0x05B2      |        1458 |
 |      70 | 0x0575      |        1397 |
-|      71 | 0x1D38      |        7480 |
+|      71 | 0x1D39      |        7481 |
 |      72 | 0x007B      |         123 |
-|      73 | 0x1D3A      |        7482 |
-|      74 | 0x1D39      |        7481 |
-|      75 | 0x1D3B      |        7483 |
-|      76 | 0x1D3C      |        7484 |
-|      77 | 0x1D3E      |        7486 |
-|      78 | 0x1D3F      |        7487 |
-|      79 | 0x1D3D      |        7485 |
+|      73 | 0x1D3B      |        7483 |
+|      74 | 0x1D3A      |        7482 |
+|      75 | 0x1D3C      |        7484 |
+|      76 | 0x1D3D      |        7485 |
+|      77 | 0x1D3F      |        7487 |
+|      78 | 0x1D40      |        7488 |
+|      79 | 0x1D3E      |        7486 |
 |      80 | 0x001E      |          30 |
-|      81 | 0x1D40      |        7488 |
-|      82 | 0x1D41      |        7489 |
+|      81 | 0x1D41      |        7489 |
+|      82 | 0x1D42      |        7490 |
 |      83 | 0x00E9      |         233 |
 |      84 | 0x001D      |          29 |
 |      85 | 0x007A      |         122 |
 |      86 | 0x00CF      |         207 |
-|      87 | 0x1D42      |        7490 |
-|      88 | 0x1D43      |        7491 |
-|      89 | 0x1D44      |        7492 |
-|      90 | 0x1D45      |        7493 |
-|      91 | 0x1D46      |        7494 |
-|      92 | 0x1D47      |        7495 |
-|      93 | 0x1D48      |        7496 |
-|      94 | 0x1D49      |        7497 |
-|      95 | 0x1D4A      |        7498 |
-|      96 | 0x1D4B      |        7499 |
-|      97 | 0x1D4C      |        7500 |
-|      98 | 0x1D4D      |        7501 |
-|      99 | 0x1D4E      |        7502 |
-|     100 | 0x1D4F      |        7503 |
-|     101 | 0x1D50      |        7504 |
+|      87 | 0x1D43      |        7491 |
+|      88 | 0x1D44      |        7492 |
+|      89 | 0x1D45      |        7493 |
+|      90 | 0x1D46      |        7494 |
+|      91 | 0x1D47      |        7495 |
+|      92 | 0x1D48      |        7496 |
+|      93 | 0x1D49      |        7497 |
+|      94 | 0x1D4A      |        7498 |
+|      95 | 0x1D4B      |        7499 |
+|      96 | 0x1D4C      |        7500 |
+|      97 | 0x1D4D      |        7501 |
+|      98 | 0x1D4E      |        7502 |
+|      99 | 0x1D4F      |        7503 |
+|     100 | 0x1D50      |        7504 |
+|     101 | 0x1D51      |        7505 |
 |     102 | 0x0C00      |        3072 |
-|     103 | 0x1D51      |        7505 |
-|     104 | 0x1D52      |        7506 |
-|     105 | 0x1D53      |        7507 |
-|     106 | 0x1D54      |        7508 |
-|     107 | 0x1D55      |        7509 |
-|     108 | 0x1D56      |        7510 |
+|     103 | 0x1D52      |        7506 |
+|     104 | 0x1D53      |        7507 |
+|     105 | 0x1D54      |        7508 |
+|     106 | 0x1D55      |        7509 |
+|     107 | 0x1D56      |        7510 |
+|     108 | 0x1D57      |        7511 |
 |     109 | 0x009F      |         159 |
-|     110 | 0x1D57      |        7511 |
-|     111 | 0x1D58      |        7512 |
-|     112 | 0x1D59      |        7513 |
-|     113 | 0x1D5A      |        7514 |
+|     110 | 0x1D58      |        7512 |
+|     111 | 0x1D59      |        7513 |
+|     112 | 0x1D5A      |        7514 |
+|     113 | 0x1D5B      |        7515 |
 |     114 | 0x00FF      |         255 |
 |     115 | 0x0019      |          25 |
 |     116 | 0x00B4      |         180 |
-|     117 | 0x1D5B      |        7515 |
-|     118 | 0x1D5C      |        7516 |
-|     119 | 0x1D5D      |        7517 |
-|     120 | 0x1D5E      |        7518 |
+|     117 | 0x1D5C      |        7516 |
+|     118 | 0x1D5D      |        7517 |
+|     119 | 0x1D5E      |        7518 |
+|     120 | 0x1D5F      |        7519 |
 |     121 | 0x00C9      |         201 |
 |     122 | 0xFFFC5B40  |  4294728512 |
 |     123 | 0xFFFFB217  |  4294947351 |
@@ -184,7 +184,7 @@
 
 ## String References
 
-- **7468**: You could not find Lightbringer here. Your investigation is over.
+- **7469**: You could not find Lightbringer here. Your investigation is over.
 
 ## Events
 
@@ -309,7 +309,7 @@
  28: 0x00C6 [0x1C] WAIT(120* ticks)
  29: 0x00C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[1]
  30: 0x00D8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [LocalPlayer, LocalPlayer]
- 31: 0x00E5 [0x48] [System] [7468*]:
+ 31: 0x00E5 [0x48] [System] [7469*]:
     → "You could not find Lightbringer here. Your investigation is over."
  32: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1125,7 +1125,7 @@ SUBROUTINE_013F:
  17: 0x0363 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0374 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x0383 [0x1C] WAIT(120* ticks)
- 20: 0x0386 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7471*]:
+ 20: 0x0386 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7472*]:
     → "Hm... It seems my trap was of little consequence after all. Not altogether unexpected."
  21: 0x038D [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x038E [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 193*
@@ -1139,12 +1139,12 @@ SUBROUTINE_013F:
  30: 0x03C8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
  31: 0x03D9 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Ancolain (ID: 17428905/0x0109F1A9))
  32: 0x03DF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=223*
- 33: 0x03EE [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7472*]:
+ 33: 0x03EE [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7473*]:
     → "However, I am skilled in more than just swordplay. I have also conquered the arts of necromancy. With the helm of the last dragoon I will resurrect the spirit of Erpalacion."
  34: 0x03F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x03F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
  36: 0x0407 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=223*
- 37: 0x0416 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7473*]:
+ 37: 0x0416 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7474*]:
     → "He was betrayed by his home of San d'Oria, as was I. He will understand my need for revenge...!"
  38: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x041E [0x27] REQ_SET(priority=0x03, entity_id=Ancolain (ID: 17428905/0x0109F1A9), tag_num=0x05)
@@ -1173,7 +1173,7 @@ SUBROUTINE_013F:
  62: 0x04FA [0x4A] Ancolain (ID: 17428905/0x0109F1A9) looks at Erpalacion (ID: 17428903/0x0109F1A7)
  63: 0x0503 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=223*
  64: 0x0512 [0x1C] WAIT(100* ticks)
- 65: 0x0515 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7474*]:
+ 65: 0x0515 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7475*]:
     → "I never dreamed the day would come when your kind would once again fly free in Vana'diel..."
  66: 0x051C [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x051D [0x4A] Erpalacion (ID: 17428903/0x0109F1A7) looks at LocalPlayer
@@ -1183,17 +1183,17 @@ SUBROUTINE_013F:
  71: 0x053B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Erpalacion (ID: 17428903/0x0109F1A7) Render.Flags0 and Render.Flags3 conditions are met
  72: 0x0540 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=223*
  73: 0x054F [0x27] REQ_SET(priority=0x03, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x06)
- 74: 0x0556 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7475*]:
+ 74: 0x0556 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7476*]:
     → "<Player>, I am most grateful to you."
  75: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x055E [0x27] REQ_SET(priority=0x04, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x07)
  77: 0x0565 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
  78: 0x0576 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=223*
  79: 0x0585 [0x27] REQ_SET(priority=0x03, entity_id=Ancolain (ID: 17428905/0x0109F1A9), tag_num=0x06)
- 80: 0x058C [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7476*]:
+ 80: 0x058C [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7477*]:
     → "What are you waiting for, dragoon? As I was dismissed from my position of command, you were exiled from San d'Oria by King Ranperre."
  81: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x0594 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7477*]:
+ 82: 0x0594 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7478*]:
     → "Now is our chance to exact our vengeance upon the kingdom that betrayed us. Let this adventurer be the first to be sentenced in our trial of blood!"
  83: 0x059B [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x059C [0x27] REQ_SET(priority=0x04, entity_id=Ancolain (ID: 17428905/0x0109F1A9), tag_num=0x07)
@@ -1206,14 +1206,14 @@ SUBROUTINE_013F:
  91: 0x05D9 [0x1C] WAIT(60* ticks)
  92: 0x05DC [0x4A] LocalPlayer looks at Erpalacion (ID: 17428903/0x0109F1A7)
  93: 0x05E5 [0x4A] Unnamed NPC (ID: 17428906/0x0109F1AA) looks at Erpalacion (ID: 17428903/0x0109F1A7)
- 94: 0x05EE [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7478*]:
+ 94: 0x05EE [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7479*]:
     → "I have nothing but gratitude towards San d'Oria. Why would I sympathize with the plight of a spiteful child...?"
  95: 0x05F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x05F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
  97: 0x0607 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x008" with entities [LocalPlayer, LocalPlayer], work=223*
  98: 0x0616 [0x4A] LocalPlayer looks at Erpalacion (ID: 17428903/0x0109F1A7)
  99: 0x061F [0x4A] Unnamed NPC (ID: 17428906/0x0109F1AA) looks at Erpalacion (ID: 17428903/0x0109F1A7)
-100: 0x0628 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7479*]:
+100: 0x0628 [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7480*]:
     → "This is not the way it's supposed to be...!"
 101: 0x062F [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0630 [0x4A] LocalPlayer looks at Erpalacion (ID: 17428903/0x0109F1A7)
@@ -1238,7 +1238,7 @@ SUBROUTINE_013F:
 121: 0x06D0 [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=61.837*, z=-71.585*, y=1.458*, direction=122.8°*
 122: 0x06D9 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Aramaviont (ID: 17428909/0x0109F1AD))
 123: 0x06DF [0x1C] WAIT(60* ticks)
-124: 0x06E2 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7480*]:
+124: 0x06E2 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7481*]:
     → "Ancolain B Feulart, I hereby arrest you on charges of theft and violence against the Court of San d'Oria."
 125: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x06EA [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 123*
@@ -1246,11 +1246,11 @@ SUBROUTINE_013F:
 128: 0x06F2 [0x27] REQ_SET(priority=0x03, entity_id=Ancolain (ID: 17428905/0x0109F1A9), tag_num=0x0A)
 129: 0x06F9 [0x1C] WAIT(15* ticks)
 130: 0x06FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x011" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
-131: 0x070D [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7482*]:
+131: 0x070D [0x2B] Ancolain (ID: 17428905/0x0109F1A9) [7483*]:
     → "No...!"
 132: 0x0714 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0715 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x011" with entities [LocalPlayer, LocalPlayer], work=223*
-134: 0x0724 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7481*]:
+134: 0x0724 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7482*]:
     → "I waited for you, Ancolain, believing that you would come to your senses and recognize your mistakes. Your position as second in command had been held vacant for your return. It's a shame things had to turn out like this, but you'll have time to reflect upon your sins in jail."
 135: 0x072B [0x23] WAIT_FOR_DIALOG_INTERACTION
 136: 0x072C [0x2A] GET_REQ_LEVEL(level=3, entity_id=Ancolain (ID: 17428905/0x0109F1A9))
@@ -1264,24 +1264,24 @@ SUBROUTINE_013F:
 144: 0x076C [0x4E] SET_ENTITY_HIDE_FLAG: Hide Aramaviont (ID: 17428909/0x0109F1AD)
 145: 0x0772 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Ancolain (ID: 17428905/0x0109F1A9)
 146: 0x0778 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Milchupain (ID: 17428908/0x0109F1AC)
-147: 0x077E [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7483*]:
+147: 0x077E [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7484*]:
     → "...!?"
 148: 0x0785 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x0786 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x013" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 150: 0x0797 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x013" with entities [LocalPlayer, LocalPlayer], work=223*
-151: 0x07A6 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7484*]:
+151: 0x07A6 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7485*]:
     → "That armor! It can't be. The last dragoon...!"
 152: 0x07AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 153: 0x07AE [0x27] REQ_SET(priority=0x03, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x06)
 154: 0x07B5 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x07D0
-155: 0x07BD [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7486*]:
+155: 0x07BD [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7487*]:
     → "I am Erpalacion. I have met you before at the Tomb of King Ranperre. You were the dragonslayer."
 156: 0x07C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-157: 0x07C5 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7487*]:
+157: 0x07C5 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7488*]:
     → "Then, that time...! I never thought it was real..."
 158: 0x07CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x07CD [0x01] GOTO 0x07D8
-160: 0x07D0 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7485*]:
+160: 0x07D0 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7486*]:
     → "I am Erpalacion. And you must be the dragonslayer."
 161: 0x07D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1292,7 +1292,7 @@ SUBROUTINE_07D8:
 165: 0x07E9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x014" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 166: 0x07FA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x014" with entities [LocalPlayer, LocalPlayer], work=223*
 167: 0x0809 [0x1C] WAIT(30* ticks)
-168: 0x080C [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7488*]:
+168: 0x080C [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7489*]:
     → "If you are truly the last dragoon, then there is something that I must ask you. Why did the wise King Ranperre give you such an unreasonable order?"
 169: 0x0813 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0814 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Rahal (ID: 17428907/0x0109F1AB))
@@ -1301,7 +1301,7 @@ SUBROUTINE_07D8:
 173: 0x082E [0x1C] WAIT(60* ticks)
 174: 0x0831 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=100*)
 175: 0x0836 [0x27] REQ_SET(priority=0x03, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x08)
-176: 0x083D [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7489*]:
+176: 0x083D [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7490*]:
     → "There is an explanation for that... It was the night of our triumphant homecoming..."
 177: 0x0844 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x0845 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x015" with entities [LocalPlayer, LocalPlayer], work=223*
@@ -1327,10 +1327,10 @@ SUBROUTINE_07D8:
 198: 0x08F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
 199: 0x0904 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=207*
 200: 0x0913 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x06)
-201: 0x091A [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7490*]:
+201: 0x091A [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7491*]:
     → "Erpalacion, it is all finally over..."
 202: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x0922 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7491*]:
+203: 0x0922 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7492*]:
     → "I'm afraid not, Your Majesty. This is only the beginning. You must turn your efforts towards rebuilding this war-ravaged country."
 204: 0x0929 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x092A [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x07)
@@ -1340,42 +1340,42 @@ SUBROUTINE_07D8:
 209: 0x094E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=223*
 210: 0x095D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 211: 0x095E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ranperre (ID: 17428910/0x0109F1AE) Render.Flags0 and Render.Flags3 conditions are met
-212: 0x0963 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7492*]:
+212: 0x0963 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7493*]:
     → "Yes...you are right. And you will be here to help us, I trust? Without your strength, the insurrection would have been a difficult thing to put down..."
 213: 0x096A [0x23] WAIT_FOR_DIALOG_INTERACTION
 214: 0x096B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 215: 0x097C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w002" with entities [LocalPlayer, LocalPlayer], work=223*
-216: 0x098B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7493*]:
+216: 0x098B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7494*]:
     → "About that, Your Majesty..."
 217: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
-218: 0x0993 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7494*]:
+218: 0x0993 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7495*]:
     → "What is it, Erpalacion? Surely you're not considering retirement at your tender years! There are still many endeavors that will require your abilities."
 219: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
-220: 0x099B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7495*]:
+220: 0x099B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7496*]:
     → "...I must apologize, but I can no longer remain here in San d'Oria. Forgive me, Your Majesty."
 221: 0x09A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x09A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 223: 0x09B4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w003" with entities [LocalPlayer, LocalPlayer], work=223*
 224: 0x09C3 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x04)
-225: 0x09CA [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7496*]:
+225: 0x09CA [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7497*]:
     → "What is this you speak of? Tell me why this must be."
 226: 0x09D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x09D2 [0x27] REQ_SET(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x05)
-228: 0x09D9 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7497*]:
+228: 0x09D9 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7498*]:
     → "I... During the course of this insurgence, an unholy sign has appeared upon my wyvern. In the heat of battle we slew those that have no sins to answer for. This is our punishment."
 229: 0x09E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x09E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 231: 0x09F2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w004" with entities [LocalPlayer, LocalPlayer], work=223*
 232: 0x0A01 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x08)
-233: 0x0A08 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7498*]:
+233: 0x0A08 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7499*]:
     → "Great Goddess...! Even as a dragonslayer, I failed to notice the sign. Forgive me, Erpalacion..."
 234: 0x0A0F [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x0A10 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x09)
-236: 0x0A17 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7499*]:
+236: 0x0A17 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7500*]:
     → "I believe that dragons teach us the folly of our ways. To restore the holy sign, I must go where no people dwell and spend the rest of my life in quiet solitude."
 237: 0x0A1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0A1F [0x27] REQ_SET(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x06)
-239: 0x0A26 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7500*]:
+239: 0x0A26 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7501*]:
     → "I see... Well, I have no right to prevent you from leaving. If there is anything I can do, you must let me know."
 240: 0x0A2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x0A2E [0x27] REQ_SET(priority=0x03, entity_id=Erpalacion (ID: 17428904/0x0109F1A8), tag_num=0x06)
@@ -1383,19 +1383,19 @@ SUBROUTINE_07D8:
 243: 0x0A38 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 244: 0x0A49 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w005" with entities [LocalPlayer, LocalPlayer], work=223*
 245: 0x0A58 [0x1C] WAIT(30* ticks)
-246: 0x0A5B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7501*]:
+246: 0x0A5B [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7502*]:
     → "Your Majesty, I must ask you to assist me in convincing others that I had perished in battle."
 247: 0x0A62 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x0A63 [0x27] REQ_SET(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x07)
-249: 0x0A6A [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7502*]:
+249: 0x0A6A [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7503*]:
     → "What are you saying, Erpalacion?"
 250: 0x0A71 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x0A72 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7503*]:
+251: 0x0A72 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7504*]:
     → "If it is known that I still live, I will be hounded incessantly by foreign assassins, or those who hunger for a return to the days of war. The only way I can cast aside my bloodstained lance is to be dead in the eyes of the world."
 252: 0x0A79 [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x0A7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 254: 0x0A8B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w006" with entities [LocalPlayer, LocalPlayer], work=223*
-255: 0x0A9A [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7504*]:
+255: 0x0A9A [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7505*]:
     → "That being said, you must know that I can never meet with Your Majesty again."
 256: 0x0AA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x0AA2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w007" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
@@ -1403,18 +1403,18 @@ SUBROUTINE_07D8:
 259: 0x0AC2 [0x1C] WAIT(30* ticks)
 260: 0x0AC5 [0x4B] UPDATE_ENTITY_YAW(entity=Ranperre (ID: 17428910/0x0109F1AE), yaw=16.9°*)
 261: 0x0ACC [0x1C] WAIT(30* ticks)
-262: 0x0ACF [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7505*]:
+262: 0x0ACF [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7506*]:
     → "!!! To go to such extremes... That I must lose the one person who understands me so well..."
 263: 0x0AD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 264: 0x0AD7 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x08)
-265: 0x0ADE [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7506*]:
+265: 0x0ADE [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7507*]:
     → "However, I must not keep you here for my sake; you have your own road to travel. ...I will send you on an expedition. Use the opportunity to disappear from this land."
 266: 0x0AE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x0AE6 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7507*]:
+267: 0x0AE6 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7508*]:
     → "I have no doubt that every citizen in this kingdom will be present for your state funeral."
 268: 0x0AED [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0AEE [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x09)
-270: 0x0AF5 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7508*]:
+270: 0x0AF5 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7509*]:
     → "My liege, you have my deepest gratitude..."
 271: 0x0AFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x0AFD [0x4A] Ranperre (ID: 17428910/0x0109F1AE) looks at Erpalacion (ID: 17428904/0x0109F1A8)
@@ -1425,11 +1425,11 @@ SUBROUTINE_07D8:
 277: 0x0B2A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ranperre (ID: 17428910/0x0109F1AE) Render.Flags0 and Render.Flags3 conditions are met
 278: 0x0B2F [0x1C] WAIT(15* ticks)
 279: 0x0B32 [0x27] REQ_SET(priority=0x03, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x04)
-280: 0x0B39 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7509*]:
+280: 0x0B39 [0x2B] Ranperre (ID: 17428910/0x0109F1AE) [7510*]:
     → "Tonight marks our final farewell. At the very least, we should empty a few glasses and talk until the dawn. What say you?"
 281: 0x0B40 [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x0B41 [0x27] REQ_SET(priority=0x04, entity_id=Ranperre (ID: 17428910/0x0109F1AE), tag_num=0x05)
-283: 0x0B48 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7510*]:
+283: 0x0B48 [0x2B] Erpalacion (ID: 17428904/0x0109F1A8) [7511*]:
     → "...As you wish, Your Majesty."
 284: 0x0B4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x0B50 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w009" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
@@ -1454,13 +1454,13 @@ SUBROUTINE_07D8:
 304: 0x0BE5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x016" with entities [LocalPlayer, LocalPlayer], work=223*
 305: 0x0BF4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 306: 0x0C05 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-307: 0x0C14 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7511*]:
+307: 0x0C14 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7512*]:
     → "And so, following the king's plan, I retired with my wyvern to the mountains."
 308: 0x0C1B [0x23] WAIT_FOR_DIALOG_INTERACTION
 309: 0x0C1C [0x27] REQ_SET(priority=0x04, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x09)
 310: 0x0C23 [0x1C] WAIT(10* ticks)
 311: 0x0C26 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x017" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
-312: 0x0C37 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7512*]:
+312: 0x0C37 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7513*]:
     → "Thankfully, the unholy mark that blighted my wyvern faded, but by that time, I was too old to leave those snow-capped peaks. So, I decided to spend my remaining days raising a new wyvern."
 313: 0x0C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x0C3F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x017" with entities [LocalPlayer, LocalPlayer], work=223*
@@ -1470,13 +1470,13 @@ SUBROUTINE_07D8:
 318: 0x0C74 [0x4A] Erpalacion (ID: 17428903/0x0109F1A7) looks at LocalPlayer
 319: 0x0C7D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 320: 0x0C7E [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Erpalacion (ID: 17428903/0x0109F1A7) Render.Flags0 and Render.Flags3 conditions are met
-321: 0x0C83 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7513*]:
+321: 0x0C83 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7514*]:
     → "I left this life with my dream still unrealized... But now I see that there were others who carried out my final wish. You have given new life to the race of dragons."
 322: 0x0C8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x0C8B [0x4A] Erpalacion (ID: 17428903/0x0109F1A7) looks at Unnamed NPC (ID: 17428906/0x0109F1AA)
 324: 0x0C94 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 325: 0x0C95 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Erpalacion (ID: 17428903/0x0109F1A7) Render.Flags0 and Render.Flags3 conditions are met
-326: 0x0C9A [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7514*]:
+326: 0x0C9A [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7515*]:
     → "Now is the time for me to return to my eternal slumber. Allow me a moment with this wyvern child."
 327: 0x0CA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 328: 0x0CA2 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x04)
@@ -1497,7 +1497,7 @@ SUBROUTINE_07D8:
 343: 0x0D47 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x020" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 344: 0x0D58 [0x1C] WAIT(180* ticks)
 345: 0x0D5B [0x27] REQ_SET(priority=0x03, entity_id=Erpalacion (ID: 17428903/0x0109F1A7), tag_num=0x05)
-346: 0x0D62 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7515*]:
+346: 0x0D62 [0x2B] Erpalacion (ID: 17428903/0x0109F1A7) [7516*]:
     → "Grow strong, little one... The life that pulses within you is not yours alone. You hold the spark of all the wyverns that were denied life in this world..."
 347: 0x0D69 [0x23] WAIT_FOR_DIALOG_INTERACTION
 348: 0x0D6A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x020" with entities [LocalPlayer, LocalPlayer], work=223*
@@ -1505,7 +1505,7 @@ SUBROUTINE_07D8:
 350: 0x0D7F [0x1C] WAIT(60* ticks)
 351: 0x0D82 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x021" with entities [LocalPlayer, LocalPlayer], work=[223*, 0*]
 352: 0x0D93 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x021" with entities [LocalPlayer, LocalPlayer], work=223*
-353: 0x0DA2 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7516*]:
+353: 0x0DA2 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7517*]:
     → "The last dragoon... He was a man worthy of the title."
 354: 0x0DA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 355: 0x0DAA [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Rahal (ID: 17428907/0x0109F1AB), tag_num=0x09)
@@ -1513,10 +1513,10 @@ SUBROUTINE_07D8:
 357: 0x0DBA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 358: 0x0DBB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Rahal (ID: 17428907/0x0109F1AB) Render.Flags0 and Render.Flags3 conditions are met
 359: 0x0DC0 [0x4A] LocalPlayer looks at Rahal (ID: 17428907/0x0109F1AB)
-360: 0x0DC9 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7517*]:
+360: 0x0DC9 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7518*]:
     → "You have performed your duty well. We will escort Ancolain back to San d'Oria and quash these rumors that dishonor the last dragoon. You have the gratitude of the Royal Knights."
 361: 0x0DD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-362: 0x0DD1 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7518*]:
+362: 0x0DD1 [0x2B] Rahal (ID: 17428907/0x0109F1AB) [7519*]:
     → "As Erpalacion stated, you and your wyvern have an important destiny to fulfill. Keep that in mind, and take good care of your winged companion. ...Until we meet again."
 363: 0x0DD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0DD9 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Rahal (ID: 17428907/0x0109F1AB), tag_num=0x0A)

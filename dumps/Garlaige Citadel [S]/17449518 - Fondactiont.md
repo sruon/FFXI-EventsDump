@@ -24,33 +24,33 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E14      |        7700 |
-|       1 | 0x1E15      |        7701 |
+|       0 | 0x1E15      |        7701 |
+|       1 | 0x1E16      |        7702 |
 |       2 | 0x0014      |          20 |
-|       3 | 0x1E16      |        7702 |
-|       4 | 0x1E17      |        7703 |
-|       5 | 0x1E18      |        7704 |
-|       6 | 0x1E19      |        7705 |
+|       3 | 0x1E17      |        7703 |
+|       4 | 0x1E18      |        7704 |
+|       5 | 0x1E19      |        7705 |
+|       6 | 0x1E1A      |        7706 |
 |       7 | 0x03C9      |         969 |
-|       8 | 0x1E1A      |        7706 |
-|       9 | 0x1E1B      |        7707 |
-|      10 | 0x1E1C      |        7708 |
+|       8 | 0x1E1B      |        7707 |
+|       9 | 0x1E1C      |        7708 |
+|      10 | 0x1E1D      |        7709 |
 |      11 | 0x00C9      |         201 |
 |      12 | 0x0000      |           0 |
-|      13 | 0x1E1D      |        7709 |
+|      13 | 0x1E1E      |        7710 |
 
 ## String References
 
-- **7700**: I am a friar from the San d'Orian Cathedral.
-- **7701**: I was journeying on my pilgrimage when I inadvertently wandered into the front line of the beasthorde offensive. Fortunately, the Royal Knights discovered me first, and took me into their custody. Even though I am thankful, I wish the knights would grant me leave to continue my journey.
-- **7702**: Would you perhaps be a soldier of the Allied Forces? I am in desperate need of your assistance. I beg you, please hear me out.
-- **7703**: It is a rather embarrassing story... When I was attacked by monsters in Grauberg, in my blind panic I threw whatever was on hand in an attempt to drive away the beasts. It was too late when I realized I had hurled a package of great import, entrusted to me from the Cathedral, straight into the river. I would have retrieved it myself, but I was...uh...distracted.
-- **7704**: If you were to chance upon an ornate package while traveling through Grauberg, could you please bring it back to me?
-- **7705**: I pray that it has not been washed downstream. I would be indebted if you could locate the package...and not spread the tale of my "exploits."
-- **7706**: Why, be that not the $3? That is indeed the item I hurled--I mean, dropped!
-- **7707**: I thank you from the bottom of my heart. The package contains tools such as paint, to be used to repair the Goddess's image should she be damaged during the course of the war.
-- **7708**: This is not much, but please accept it. This white magic will allow the user to teleport straight to the battlefield within the blink of an eye.
-- **7709**: It pains me to wonder what may have become of the cathedral... O merciful Altana! Please grant us your divine protection!
+- **7701**: I am a friar from the San d'Orian Cathedral.
+- **7702**: I was journeying on my pilgrimage when I inadvertently wandered into the front line of the beasthorde offensive. Fortunately, the Royal Knights discovered me first, and took me into their custody. Even though I am thankful, I wish the knights would grant me leave to continue my journey.
+- **7703**: Would you perhaps be a soldier of the Allied Forces? I am in desperate need of your assistance. I beg you, please hear me out.
+- **7704**: It is a rather embarrassing story... When I was attacked by monsters in Grauberg, in my blind panic I threw whatever was on hand in an attempt to drive away the beasts. It was too late when I realized I had hurled a package of great import, entrusted to me from the Cathedral, straight into the river. I would have retrieved it myself, but I was...uh...distracted.
+- **7705**: If you were to chance upon an ornate package while traveling through Grauberg, could you please bring it back to me?
+- **7706**: I pray that it has not been washed downstream. I would be indebted if you could locate the package...and not spread the tale of my "exploits."
+- **7707**: Why, be that not the $3? That is indeed the item I hurled--I mean, dropped!
+- **7708**: I thank you from the bottom of my heart. The package contains tools such as paint, to be used to repair the Goddess's image should she be damaged during the course of the war.
+- **7709**: This is not much, but please accept it. This white magic will allow the user to teleport straight to the battlefield within the blink of an eye.
+- **7710**: It pains me to wonder what may have become of the cathedral... O merciful Altana! Please grant us your divine protection!
 
 ## Events
 
@@ -96,10 +96,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "I am a friar from the San d'Orian Cathedral."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
     → "I was journeying on my pilgrimage when I inadvertently wandered into the front line of the beasthorde offensive. Fortunately, the Royal Knights discovered me first, and took me into their custody. Even though I am thankful, I wish the knights would grant me leave to continue my journey."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -130,23 +130,23 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7700*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
     → "I am a friar from the San d'Orian Cathedral."
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
+  4: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
     → "I was journeying on my pilgrimage when I inadvertently wandered into the front line of the beasthorde offensive. Fortunately, the Royal Knights discovered me first, and took me into their custody. Even though I am thankful, I wish the knights would grant me leave to continue my journey."
   5: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  7: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "Would you perhaps be a soldier of the Allied Forces? I am in desperate need of your assistance. I beg you, please hear me out."
   8: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  9: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
     → "It is a rather embarrassing story... When I was attacked by monsters in Grauberg, in my blind panic I threw whatever was on hand in an attempt to drive away the beasts. It was too late when I realized I had hurled a package of great import, entrusted to me from the Cathedral, straight into the river. I would have retrieved it myself, but I was...uh...distracted."
  10: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+ 11: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "If you were to chance upon an ornate package while traveling through Grauberg, could you please bring it back to me?"
  12: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+ 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "I pray that it has not been washed downstream. I would be indebted if you could locate the package...and not spread the tale of my "exploits.""
  14: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -175,10 +175,10 @@
 
 ```
   0: 0x004E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+  1: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "If you were to chance upon an ornate package while traveling through Grauberg, could you please bring it back to me?"
   2: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+  3: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "I pray that it has not been washed downstream. I would be indebted if you could locate the package...and not spread the tale of my "exploits.""
   4: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x005B [0x21] END_EVENT
@@ -217,16 +217,16 @@
   3: 0x0064 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0065 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
   5: 0x0074 [0x03] Work_Zone[2] = 969*
-  6: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+  6: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "Why, be that not the $3? That is indeed the item I hurled--I mean, dropped!"
   7: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
-  9: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+  9: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "I thank you from the bottom of my heart. The package contains tools such as paint, to be used to repair the Goddess's image should she be damaged during the course of the war."
  10: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0090 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  12: 0x009D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 13: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
+ 13: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
     → "This is not much, but please accept it. This white magic will allow the user to teleport straight to the battlefield within the blink of an eye."
  14: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00B0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -255,7 +255,7 @@
 
 ```
   0: 0x00D0 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
+  1: 0x00D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7710*)
     → "It pains me to wonder what may have become of the cathedral... O merciful Altana! Please grant us your divine protection!"
   2: 0x00D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D9 [0x21] END_EVENT

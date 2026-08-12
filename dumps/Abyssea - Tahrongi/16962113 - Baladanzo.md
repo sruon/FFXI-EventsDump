@@ -29,59 +29,59 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EFF      |        7935 |
-|       1 | 0x1F00      |        7936 |
-|       2 | 0x1F01      |        7937 |
-|       3 | 0x1F02      |        7938 |
-|       4 | 0x1F03      |        7939 |
-|       5 | 0x1F0A      |        7946 |
-|       6 | 0x1F06      |        7942 |
-|       7 | 0x1F07      |        7943 |
+|       0 | 0x1F00      |        7936 |
+|       1 | 0x1F01      |        7937 |
+|       2 | 0x1F02      |        7938 |
+|       3 | 0x1F03      |        7939 |
+|       4 | 0x1F04      |        7940 |
+|       5 | 0x1F0B      |        7947 |
+|       6 | 0x1F07      |        7943 |
+|       7 | 0x1F08      |        7944 |
 |       8 | 0x0037      |          55 |
-|       9 | 0x1F0B      |        7947 |
-|      10 | 0x1F08      |        7944 |
-|      11 | 0x1F09      |        7945 |
+|       9 | 0x1F0C      |        7948 |
+|      10 | 0x1F09      |        7945 |
+|      11 | 0x1F0A      |        7946 |
 |      12 | 0x46CD0     |      290000 |
 |      13 | 0xFFFECA1F  |  4294887967 |
 |      14 | 0xFFFFBE06  |  4294950406 |
 |      15 | 0x0000      |           0 |
-|      16 | 0x1F0C      |        7948 |
+|      16 | 0x1F0D      |        7949 |
 |      17 | 0x0001      |           1 |
 |      18 | 0x00C8      |         200 |
 |      19 | 0x00F0      |         240 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x1F0D      |        7949 |
-|      22 | 0x1F0E      |        7950 |
+|      21 | 0x1F0E      |        7950 |
+|      22 | 0x1F0F      |        7951 |
 |      23 | 0x00C9      |         201 |
-|      24 | 0x1F10      |        7952 |
-|      25 | 0x1F11      |        7953 |
-|      26 | 0x1F12      |        7954 |
-|      27 | 0x1F13      |        7955 |
-|      28 | 0x1F14      |        7956 |
-|      29 | 0x1F15      |        7957 |
+|      24 | 0x1F11      |        7953 |
+|      25 | 0x1F12      |        7954 |
+|      26 | 0x1F13      |        7955 |
+|      27 | 0x1F14      |        7956 |
+|      28 | 0x1F15      |        7957 |
+|      29 | 0x1F16      |        7958 |
 
 ## String References
 
-- **7935**: You shall fall, you accursed mountain of rubble! My bones may be battered, and the flesh on my hands torn to shreds, but this I swear...I will bring you down!
-- **7936**: Do you hear me, you accursed mountain of rubble? I will bring you down!
-- **7937**: Yes? What is it? Diegai sent you, you say?
-- **7938**: But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?
-- **7939**: Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!
-- **7942**: Fall! Fall, I say!!! Graaaaaaaaa-- Hm? $0?
-- **7943**: This will help, but alone it will not serve to bring this mountain of rubble down. Bring me more, or do not--it matters not. Blood may flow from my shattered knuckles, but one day, I will see this mountain fall!
-- **7944**: This makes $1 $0 you have brought me. You are kind.
-- **7945**: With $2 more, this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
-- **7946**: With $2 more $0 , this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
-- **7947**: In the meantime, take this. It is the least this old Galka can do for a friend.
-- **7948**: This is it, friend. The day we have long waited for. Today is the day we consign this demon of stone to the fiery netherworld whence it came! Crumble and fall, monster! You don't belong in this world! Graaahahahahaaa!!!
-- **7949**: No...it cannot be! The wall still stands before me? Vile demon! Why do you mock me so!? But I must be strong. I must not falter... For Diegai...!
-- **7950**: You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>...
-- **7952**: Friend, you have returned. Let me share with you what I have learned since our last encounter.
-- **7953**: Do you remember how I spoke of voices? Voices calling me from the other side of this mountain?
-- **7954**: Not long after you left, a curious young 'Taru lass donning a cloak appeared here. I did not see her come. It was almost as if she appeared out of thin air.
-- **7955**: She lay down on the ground before me and closed her eyes, as if to sleep. But then she spoke... "Did you know, mistaru?" she said. "A young boy and his guardian came through this way, bound for Mhaura. That was when the skies came tumbly-wumbling down..."
-- **7956**: "The boy escaped, but the man who had cared for him since he was a wee tyke was soon buried under a mountain of rubble. And yet, his spirit found no peace, for in his heartaru of hearts, he felt he had let his loved one down. What he did not realize was that his love had already nurture-wurtured within the child enough inner strength to last a lifetime..."
-- **7957**: Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, "No need to thank me, but I'll take a grilled hare if you've gotaru one." Whatever could she have meant...?
+- **7936**: You shall fall, you accursed mountain of rubble! My bones may be battered, and the flesh on my hands torn to shreds, but this I swear...I will bring you down!
+- **7937**: Do you hear me, you accursed mountain of rubble? I will bring you down!
+- **7938**: Yes? What is it? Diegai sent you, you say?
+- **7939**: But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?
+- **7940**: Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!
+- **7943**: Fall! Fall, I say!!! Graaaaaaaaa-- Hm? $0?
+- **7944**: This will help, but alone it will not serve to bring this mountain of rubble down. Bring me more, or do not--it matters not. Blood may flow from my shattered knuckles, but one day, I will see this mountain fall!
+- **7945**: This makes $1 $0 you have brought me. You are kind.
+- **7946**: With $2 more, this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
+- **7947**: With $2 more $0 , this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!
+- **7948**: In the meantime, take this. It is the least this old Galka can do for a friend.
+- **7949**: This is it, friend. The day we have long waited for. Today is the day we consign this demon of stone to the fiery netherworld whence it came! Crumble and fall, monster! You don't belong in this world! Graaahahahahaaa!!!
+- **7950**: No...it cannot be! The wall still stands before me? Vile demon! Why do you mock me so!? But I must be strong. I must not falter... For Diegai...!
+- **7951**: You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>...
+- **7953**: Friend, you have returned. Let me share with you what I have learned since our last encounter.
+- **7954**: Do you remember how I spoke of voices? Voices calling me from the other side of this mountain?
+- **7955**: Not long after you left, a curious young 'Taru lass donning a cloak appeared here. I did not see her come. It was almost as if she appeared out of thin air.
+- **7956**: She lay down on the ground before me and closed her eyes, as if to sleep. But then she spoke... "Did you know, mistaru?" she said. "A young boy and his guardian came through this way, bound for Mhaura. That was when the skies came tumbly-wumbling down..."
+- **7957**: "The boy escaped, but the man who had cared for him since he was a wee tyke was soon buried under a mountain of rubble. And yet, his spirit found no peace, for in his heartaru of hearts, he felt he had let his loved one down. What he did not realize was that his love had already nurture-wurtured within the child enough inner strength to last a lifetime..."
+- **7958**: Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, "No need to thank me, but I'll take a grilled hare if you've gotaru one." Whatever could she have meant...?
 
 ## Events
 
@@ -129,7 +129,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "You shall fall, you accursed mountain of rubble! My bones may be battered, and the flesh on my hands torn to shreds, but this I swear...I will bring you down!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -161,16 +161,16 @@
   1: 0x000F [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0014 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0015 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "Do you hear me, you accursed mountain of rubble? I will bring you down!"
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "Yes? What is it? Diegai sent you, you say?"
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?"
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+ 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!"
  11: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0026 [0x21] END_EVENT
@@ -200,10 +200,10 @@
   0: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+  3: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "But I cannot return! Why, it is for that very child's future that I must find a way through this accursed wall! Open your ears, [man/woman]! Do you not hear the voices that call to us!?"
   4: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+  5: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Our future lies on the other side of this wall, in Mhaura! I must bring this mountain down! Do you hear me!? This mountain will come down! Grrraaaaaaaaaaaa!!!"
   6: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0037 [0x21] END_EVENT
@@ -234,7 +234,7 @@
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0040 [0x1A] CALL_SUBROUTINE(address=0x0230)
-  4: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  4: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "With $2 more $0 , this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!"
   5: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0047 [0x21] END_EVENT
@@ -269,17 +269,17 @@
   2: 0x004F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0050 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0051 [0x1A] CALL_SUBROUTINE(address=0x0230)
-  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  5: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "Fall! Fall, I say!!! Graaaaaaaaa-- Hm? $0?"
   6: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "This will help, but alone it will not serve to bring this mountain of rubble down. Bring me more, or do not--it matters not. Blood may flow from my shattered knuckles, but one day, I will see this mountain fall!"
   8: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
+  9: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
     → "With $2 more $0 , this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!"
  10: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0060 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
- 12: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+ 12: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "In the meantime, take this. It is the least this old Galka can do for a friend."
  13: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0073 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -314,11 +314,11 @@
   2: 0x0088 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0089 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x008A [0x1A] CALL_SUBROUTINE(address=0x0230)
-  5: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+  5: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "This makes $1 $0 you have brought me. You are kind."
   6: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0091 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
-  8: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+  8: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "With $2 more, this stone beast will crumble before us. Do you hear me, you infernal slab of rock!? You shall fall! Graaaaaahahahaaa!"
   9: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00A4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -372,23 +372,23 @@
   7: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x00DC [0x02] IF !(Work_Zone[5] == 0*) GOTO 0x010B
- 10: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+ 10: 0x00E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "Fall! Fall, I say!!! Graaaaaaaaa-- Hm? $0?"
  11: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00E8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
- 13: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7947*)
+ 13: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
     → "In the meantime, take this. It is the least this old Galka can do for a friend."
  14: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00FB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  16: 0x0108 [0x01] GOTO 0x012B
  17: 0x010B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=55*
- 18: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+ 18: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "This makes $1 $0 you have brought me. You are kind."
  19: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x011E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
 
 SUBROUTINE_012B:
- 21: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7948*)
+ 21: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
     → "This is it, friend. The day we have long waited for. Today is the day we consign this demon of stone to the fiery netherworld whence it came! Crumble and fall, monster! You don't belong in this world! Graaahahahahaaa!!!"
  22: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x012F [0x03] Work_Zone[1] = 1*
@@ -405,14 +405,14 @@ SUBROUTINE_012B:
  34: 0x0196 [0x03] Work_Zone[1] = 2*
  35: 0x019B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  36: 0x019D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 37: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7949*)
+ 37: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
     → "No...it cannot be! The wall still stands before me? Vile demon! Why do you mock me so!? But I must be strong. I must not falter... For Diegai...!"
  38: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01A3 [0x1E] EventEntity looks at LocalPlayer and starts talking
  40: 0x01A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  41: 0x01A9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  42: 0x01AA [0x4A] LocalPlayer looks at Baladanzo (ID: 16962113/0x0102D241)
- 43: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+ 43: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>..."
  44: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x01B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -443,7 +443,7 @@ SUBROUTINE_012B:
   0: 0x01CA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7950*)
+  3: 0x01D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7951*)
     → "You will fall, you demonic heap of rubble! Even if I must throw myself against you until my last bone shatters to so much dust, you...will...fall! Graaaaaaaaaaaaaaa...<sob>..."
   4: 0x01D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01D5 [0x21] END_EVENT
@@ -477,24 +477,24 @@ SUBROUTINE_012B:
   0: 0x01D7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01DD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+  3: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "Friend, you have returned. Let me share with you what I have learned since our last encounter."
   4: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01E2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=55*
-  6: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+  6: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "Do you remember how I spoke of voices? Voices calling me from the other side of this mountain?"
   7: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
+  8: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
     → "Not long after you left, a curious young 'Taru lass donning a cloak appeared here. I did not see her come. It was almost as if she appeared out of thin air."
   9: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+ 10: 0x01F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "She lay down on the ground before me and closed her eyes, as if to sleep. But then she spoke... "Did you know, mistaru?" she said. "A young boy and his guardian came through this way, bound for Mhaura. That was when the skies came tumbly-wumbling down...""
  11: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
+ 12: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
     → ""The boy escaped, but the man who had cared for him since he was a wee tyke was soon buried under a mountain of rubble. And yet, his spirit found no peace, for in his heartaru of hearts, he felt he had let his loved one down. What he did not realize was that his love had already nurture-wurtured within the child enough inner strength to last a lifetime...""
  13: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0201 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=55*
- 15: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+ 15: 0x0210 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, "No need to thank me, but I'll take a grilled hare if you've gotaru one." Whatever could she have meant...?"
  16: 0x0213 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0214 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
@@ -527,7 +527,7 @@ SUBROUTINE_012B:
   0: 0x0223 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0228 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0229 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+  3: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "Perhaps it is time I...let go. Still, it is strange. In her sleep, she muttered, "No need to thank me, but I'll take a grilled hare if you've gotaru one." Whatever could she have meant...?"
   4: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x022E [0x21] END_EVENT

@@ -99,33 +99,33 @@
 |      28 | 0x00C8      |         200 |
 |      29 | 0x0000      |           0 |
 |      30 | 0x003C      |          60 |
-|      31 | 0x1D5A      |        7514 |
-|      32 | 0x1D5B      |        7515 |
-|      33 | 0x1D5D      |        7517 |
-|      34 | 0x1D5E      |        7518 |
-|      35 | 0x1D5F      |        7519 |
-|      36 | 0x1D7F      |        7551 |
-|      37 | 0x1D80      |        7552 |
-|      38 | 0x1D81      |        7553 |
-|      39 | 0x1D82      |        7554 |
-|      40 | 0x1D83      |        7555 |
-|      41 | 0x1D84      |        7556 |
-|      42 | 0x1D85      |        7557 |
+|      31 | 0x1D5B      |        7515 |
+|      32 | 0x1D5C      |        7516 |
+|      33 | 0x1D5E      |        7518 |
+|      34 | 0x1D5F      |        7519 |
+|      35 | 0x1D60      |        7520 |
+|      36 | 0x1D80      |        7552 |
+|      37 | 0x1D81      |        7553 |
+|      38 | 0x1D82      |        7554 |
+|      39 | 0x1D83      |        7555 |
+|      40 | 0x1D84      |        7556 |
+|      41 | 0x1D85      |        7557 |
+|      42 | 0x1D86      |        7558 |
 
 ## String References
 
-- **7514**: Hey! What do you think you're doing, finding the trrreasure chest before me!?
-- **7515**: Rrright, move it or lose it. I'll be the one to open it.
-- **7517**: ...Rauuugh! Got it open! Now, let's take a look at the treasure...
-- **7518**: ...Huh? This is a poor haul... Some musty old armor, some velvet mantles and...ah! A golden scepter! This will go for a good price!
-- **7519**: But this... This is not what I expected at all... There's something strange going on here...
-- **7551**: Hey! The catnap is over!
-- **7552**: You're finally up... We were caught by a trrrap on the treasure chest and sent into dreamland. It took me by surprise.
-- **7553**: I thought I had disarmed the trap, but... Now my head is all woozy and I can't think straight.
-- **7554**: ...Anyway, there was nothing of great value in the chest.
-- **7555**: The thief boots I found in there...I already put them in your pack. They're a little worse for wear, but being part of Atarefaunet's treasure, they should be worth a bit.
-- **7556**: All that's left are a couple of gems, which I claim for myself. I have those two kittens to feed--you know how it is.
-- **7557**: Time to leave this place behind. Although I would like to see Vauderame's face when he opens the chest to find it empty...
+- **7515**: Hey! What do you think you're doing, finding the trrreasure chest before me!?
+- **7516**: Rrright, move it or lose it. I'll be the one to open it.
+- **7518**: ...Rauuugh! Got it open! Now, let's take a look at the treasure...
+- **7519**: ...Huh? This is a poor haul... Some musty old armor, some velvet mantles and...ah! A golden scepter! This will go for a good price!
+- **7520**: But this... This is not what I expected at all... There's something strange going on here...
+- **7552**: Hey! The catnap is over!
+- **7553**: You're finally up... We were caught by a trrrap on the treasure chest and sent into dreamland. It took me by surprise.
+- **7554**: I thought I had disarmed the trap, but... Now my head is all woozy and I can't think straight.
+- **7555**: ...Anyway, there was nothing of great value in the chest.
+- **7556**: The thief boots I found in there...I already put them in your pack. They're a little worse for wear, but being part of Atarefaunet's treasure, they should be worth a bit.
+- **7557**: All that's left are a couple of gems, which I claim for myself. I have those two kittens to feed--you know how it is.
+- **7558**: Time to leave this place behind. Although I would like to see Vauderame's face when he opens the chest to find it empty...
 
 ## Events
 
@@ -1106,7 +1106,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  0: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "Hey! What do you think you're doing, finding the trrreasure chest before me!?"
   1: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A7 [0x00] END_REQSTACK()
@@ -1131,7 +1131,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  0: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "Rrright, move it or lose it. I'll be the one to open it."
   1: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02AC [0x00] END_REQSTACK()
@@ -1157,7 +1157,7 @@
 #### Opcodes
 
 ```
-  0: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  0: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "...Rauuugh! Got it open! Now, let's take a look at the treasure..."
   1: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B1 [0x00] END_REQSTACK()
@@ -1182,7 +1182,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  0: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "...Huh? This is a poor haul... Some musty old armor, some velvet mantles and...ah! A golden scepter! This will go for a good price!"
   1: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B6 [0x00] END_REQSTACK()
@@ -1207,7 +1207,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  0: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "But this... This is not what I expected at all... There's something strange going on here..."
   1: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02BB [0x00] END_REQSTACK()
@@ -1233,7 +1233,7 @@
 #### Opcodes
 
 ```
-  0: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7551*)
+  0: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
     → "Hey! The catnap is over!"
   1: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C0 [0x00] END_REQSTACK()
@@ -1260,11 +1260,11 @@
 
 ```
   0: 0x02C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x07)
-  1: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7552*)
+  1: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
     → "You're finally up... We were caught by a trrrap on the treasure chest and sent into dreamland. It took me by surprise."
   2: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x08)
-  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7553*)
+  4: 0x02D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
     → "I thought I had disarmed the trap, but... Now my head is all woozy and I can't think straight."
   5: 0x02D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02D7 [0x00] END_REQSTACK()
@@ -1291,7 +1291,7 @@
 
 ```
   0: 0x02D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x01)
-  1: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7554*)
+  1: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
     → "...Anyway, there was nothing of great value in the chest."
   2: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x02)
@@ -1319,7 +1319,7 @@
 
 ```
   0: 0x02EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x09)
-  1: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+  1: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "The thief boots I found in there...I already put them in your pack. They're a little worse for wear, but being part of Atarefaunet's treasure, they should be worth a bit."
   2: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x0A)
@@ -1348,7 +1348,7 @@
 
 ```
   0: 0x02FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x0B)
-  1: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
+  1: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
     → "All that's left are a couple of gems, which I claim for myself. I have those two kittens to feed--you know how it is."
   2: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0309 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17195641/0x01066279), tag_num=0x0C)
@@ -1374,7 +1374,7 @@
 #### Opcodes
 
 ```
-  0: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  0: 0x0311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "Time to leave this place behind. Although I would like to see Vauderame's face when he opens the chest to find it empty..."
   1: 0x0314 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0315 [0x00] END_REQSTACK()

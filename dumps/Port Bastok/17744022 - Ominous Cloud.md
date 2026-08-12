@@ -20,23 +20,23 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x242D      |        9261 |
-|       1 | 0x242E      |        9262 |
-|       2 | 0x242F      |        9263 |
+|       0 | 0x242E      |        9262 |
+|       1 | 0x242F      |        9263 |
+|       2 | 0x2430      |        9264 |
 |       3 | 0x03B7      |         951 |
-|       4 | 0x2430      |        9264 |
-|       5 | 0x2431      |        9265 |
-|       6 | 0x2432      |        9266 |
+|       4 | 0x2431      |        9265 |
+|       5 | 0x2432      |        9266 |
+|       6 | 0x2433      |        9267 |
 |       7 | 0x001E      |          30 |
 
 ## String References
 
-- **9261**: ...
-- **9262**: ...Outta my face, [buddy/lady].
-- **9263**: I told you to scram! Or would you like a piece of me, huh? If I didn't have to waste my time bundlin' together ninja tools for sissy adventurers like you, I'd fill your ugly mug with bloody bolts faster than you could say Galkan sausage.
-- **9264**: Eh? You're here to get your ninja tools bundled? Curse Altana! And people ask me why I hate this stinkin' job!
-- **9265**: Well, don't just stand there like an idiot! I can't do any bundlin' until you fork over a set of 99 tools and $0! And I ain't doin' no more than seven sets at one time, so don't even try it!
-- **9266**: % looks like he's ready to bite off the head of a baby coeurl...
+- **9262**: ...
+- **9263**: ...Outta my face, [buddy/lady].
+- **9264**: I told you to scram! Or would you like a piece of me, huh? If I didn't have to waste my time bundlin' together ninja tools for sissy adventurers like you, I'd fill your ugly mug with bloody bolts faster than you could say Galkan sausage.
+- **9265**: Eh? You're here to get your ninja tools bundled? Curse Altana! And people ask me why I hate this stinkin' job!
+- **9266**: Well, don't just stand there like an idiot! I can't do any bundlin' until you fork over a set of 99 tools and $0! And I ain't doin' no more than seven sets at one time, so don't even try it!
+- **9267**: % looks like he's ready to bite off the head of a baby coeurl...
 
 ## Events
 
@@ -85,23 +85,23 @@
 
 ```
   0: 0x0001 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9261*)
+  1: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=9262*)
     → "..."
   2: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=9262*)
+  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=9263*)
     → "...Outta my face, [buddy/lady]."
   4: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=9263*)
+  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=9264*)
     → "I told you to scram! Or would you like a piece of me, huh? If I didn't have to waste my time bundlin' together ninja tools for sissy adventurers like you, I'd fill your ugly mug with bloody bolts faster than you could say Galkan sausage."
   6: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0017 [0x03] Work_Zone[2] = 951*
-  8: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=9264*)
+  8: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=9265*)
     → "Eh? You're here to get your ninja tools bundled? Curse Altana! And people ask me why I hate this stinkin' job!"
   9: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=9265*)
+ 10: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=9266*)
     → "Well, don't just stand there like an idiot! I can't do any bundlin' until you fork over a set of 99 tools and $0! And I ain't doin' no more than seven sets at one time, so don't even try it!"
  11: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0024 [0x48] [System] [9266*]:
+ 12: 0x0024 [0x48] [System] [9267*]:
     → "% looks like he's ready to bite off the head of a baby coeurl..."
  13: 0x0027 [0x1C] WAIT(30* ticks)
  14: 0x002A [0x7B] EventEntity stops talking

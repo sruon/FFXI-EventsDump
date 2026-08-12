@@ -53,60 +53,60 @@
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0034      |          52 |
-|       3 | 0x275B      |       10075 |
-|       4 | 0x275C      |       10076 |
-|       5 | 0x288A      |       10378 |
-|       6 | 0x2761      |       10081 |
+|       3 | 0x275C      |       10076 |
+|       4 | 0x275D      |       10077 |
+|       5 | 0x288B      |       10379 |
+|       6 | 0x2762      |       10082 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x275F      |       10079 |
-|      11 | 0x2760      |       10080 |
+|      10 | 0x2760      |       10080 |
+|      11 | 0x2761      |       10081 |
 |      12 | 0x0006      |           6 |
-|      13 | 0x2762      |       10082 |
-|      14 | 0x2763      |       10083 |
-|      15 | 0x2764      |       10084 |
-|      16 | 0x2765      |       10085 |
-|      17 | 0x2766      |       10086 |
+|      13 | 0x2763      |       10083 |
+|      14 | 0x2764      |       10084 |
+|      15 | 0x2765      |       10085 |
+|      16 | 0x2766      |       10086 |
+|      17 | 0x2767      |       10087 |
 |      18 | 0x0007      |           7 |
-|      19 | 0x2767      |       10087 |
-|      20 | 0x2768      |       10088 |
-|      21 | 0x2769      |       10089 |
-|      22 | 0x276A      |       10090 |
+|      19 | 0x2768      |       10088 |
+|      20 | 0x2769      |       10089 |
+|      21 | 0x276A      |       10090 |
+|      22 | 0x276B      |       10091 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x000E      |          14 |
-|      25 | 0x276B      |       10091 |
-|      26 | 0x276C      |       10092 |
-|      27 | 0x276D      |       10093 |
-|      28 | 0x276E      |       10094 |
-|      29 | 0x276F      |       10095 |
-|      30 | 0x2771      |       10097 |
-|      31 | 0x2770      |       10096 |
+|      25 | 0x276C      |       10092 |
+|      26 | 0x276D      |       10093 |
+|      27 | 0x276E      |       10094 |
+|      28 | 0x276F      |       10095 |
+|      29 | 0x2770      |       10096 |
+|      30 | 0x2772      |       10098 |
+|      31 | 0x2771      |       10097 |
 
 ## String References
 
-- **10075**: When we Mithra establish a new settlement, we call forth the powerrr of the guardian of that land, and craft a special bow.
-- **10076**: That bow is kept by the chieftainness as a symbol of the bond between us and the land we have chosen. The Thalassa Bow that Jakoh Wahcondalo carries is Kazham's bond with Elshimo.
-- **10079**: Wait a minute. You wouldn't happen to be one of those adventurerrrs from the mainlands, would you?
-- **10080**: I heard that if the prrrice was right, your type would go anywhere, do anything. So, [Mister/Miss] Adventurerrr, are your serrrvices for hire?
-- **10081**: Listen to her offer? [Yes./No.]
-- **10082**: I guess my eyes deceived me. I was sure you were an adventurerrr.
-- **10083**: Wonderful. My eyes didn't deceive me. Now, have you ever heard of $3? This rare wood does not even burn when thrown into the inferrrno of Ifrit's Cauldron.
-- **10084**: Deep in the hearrrt of the Yuhtunga Jungle, there is a giant tree known by the natives as the Firebloom Tree. It is protected day and night by mighty flames, though it never burns.
-- **10085**: The wood taken from the most heavily protected arrrea of the Firebloom Tree is called $3.
-- **10086**: To find out which arrrea of the trrree is the most heavily protected, you must first retrieve four vines from its four sides. Then you must take those four vines to a place in Ifrit's Cauldron where firrre spits up from the rrrocks.
-- **10087**: Throw the four vines into the flames. The one that remains unburned is from the most heavily protected side of the Firebloom Tree. Finally, return to the jungle, cut off $6, and bring it back here to me.
-- **10088**: Travel to the hearrrt of the Yuhtunga Jungle and cut four vines from the Firebloom Tree.
-- **10089**: Take those four vines to Ifrit's Cauldron and throw them into the walls of fire that rise from the rocks.
-- **10090**: When you have learned the most heavily protected side of the Firebloom Tree, return to it and cut off $6. Bring that wood back here to me.
-- **10091**: Look at it! Isn't it beautiful?
-- **10092**: Only a bow made from this wood can stand the blazing heat of "Purgatory Arrows."
-- **10093**: By the way, have your trrravels ever taken you to Windurst?
-- **10094**: The chieftainness of that trrribe, Perih Vashai, carries with her a weapon known as the Azure Bow.
-- **10095**: There are many a song that tell of her ability to wield Purgatory Arrows. However, I have heard that her skills have faded since the Great War.
-- **10096**: Wait, [sir/ma'am]. Would you have the time to retrieve another piece of $3?
-- **10097**: If you're busy...
-- **10378**: Leave my worrrkshop. I cannot concentrate with that stench in my house.
+- **10076**: When we Mithra establish a new settlement, we call forth the powerrr of the guardian of that land, and craft a special bow.
+- **10077**: That bow is kept by the chieftainness as a symbol of the bond between us and the land we have chosen. The Thalassa Bow that Jakoh Wahcondalo carries is Kazham's bond with Elshimo.
+- **10080**: Wait a minute. You wouldn't happen to be one of those adventurerrrs from the mainlands, would you?
+- **10081**: I heard that if the prrrice was right, your type would go anywhere, do anything. So, [Mister/Miss] Adventurerrr, are your serrrvices for hire?
+- **10082**: Listen to her offer? [Yes./No.]
+- **10083**: I guess my eyes deceived me. I was sure you were an adventurerrr.
+- **10084**: Wonderful. My eyes didn't deceive me. Now, have you ever heard of $3? This rare wood does not even burn when thrown into the inferrrno of Ifrit's Cauldron.
+- **10085**: Deep in the hearrrt of the Yuhtunga Jungle, there is a giant tree known by the natives as the Firebloom Tree. It is protected day and night by mighty flames, though it never burns.
+- **10086**: The wood taken from the most heavily protected arrrea of the Firebloom Tree is called $3.
+- **10087**: To find out which arrrea of the trrree is the most heavily protected, you must first retrieve four vines from its four sides. Then you must take those four vines to a place in Ifrit's Cauldron where firrre spits up from the rrrocks.
+- **10088**: Throw the four vines into the flames. The one that remains unburned is from the most heavily protected side of the Firebloom Tree. Finally, return to the jungle, cut off $6, and bring it back here to me.
+- **10089**: Travel to the hearrrt of the Yuhtunga Jungle and cut four vines from the Firebloom Tree.
+- **10090**: Take those four vines to Ifrit's Cauldron and throw them into the walls of fire that rise from the rocks.
+- **10091**: When you have learned the most heavily protected side of the Firebloom Tree, return to it and cut off $6. Bring that wood back here to me.
+- **10092**: Look at it! Isn't it beautiful?
+- **10093**: Only a bow made from this wood can stand the blazing heat of "Purgatory Arrows."
+- **10094**: By the way, have your trrravels ever taken you to Windurst?
+- **10095**: The chieftainness of that trrribe, Perih Vashai, carries with her a weapon known as the Azure Bow.
+- **10096**: There are many a song that tell of her ability to wield Purgatory Arrows. However, I have heard that her skills have faded since the Great War.
+- **10097**: Wait, [sir/ma'am]. Would you have the time to retrieve another piece of $3?
+- **10098**: If you're busy...
+- **10379**: Leave my worrrkshop. I cannot concentrate with that stench in my house.
 
 ## Events
 
@@ -565,10 +565,10 @@
   1: 0x0106 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0108 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x01)
-  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10075*)
+  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
     → "When we Mithra establish a new settlement, we call forth the powerrr of the guardian of that land, and craft a special bow."
   5: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10076*)
+  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=10077*)
     → "That bow is kept by the chieftainness as a symbol of the bond between us and the land we have chosen. The Thalassa Bow that Jakoh Wahcondalo carries is Kazham's bond with Elshimo."
   7: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0117 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x02)
@@ -596,7 +596,7 @@
 #### Opcodes
 
 ```
-  0: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=10378*)
+  0: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
     → "Leave my worrrkshop. I cannot concentrate with that stench in my house."
   1: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0126 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -633,7 +633,7 @@
   1: 0x012F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0130 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0131 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x15)
-  4: 0x0138 [0x24] CREATE_DIALOG(message_id=10081*, default_option=0*, option_flags=0*)
+  4: 0x0138 [0x24] CREATE_DIALOG(message_id=10082*, default_option=0*, option_flags=0*)
     → "Listen to her offer? [Yes./No.]"
   5: 0x013F [0x25] WAIT_DIALOG_SELECT()
   6: 0x0140 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0166
@@ -676,12 +676,12 @@ SUBROUTINE_017D:
 
 ```
   0: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x03)
-  1: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10079*)
+  1: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10080*)
     → "Wait a minute. You wouldn't happen to be one of those adventurerrrs from the mainlands, would you?"
   2: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x018C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x04)
   4: 0x0193 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x05)
-  5: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=10080*)
+  5: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=10081*)
     → "I heard that if the prrrice was right, your type would go anywhere, do anything. So, [Mister/Miss] Adventurerrr, are your serrrvices for hire?"
   6: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x019E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x06)
@@ -710,7 +710,7 @@ SUBROUTINE_017D:
 ```
   0: 0x01A6 [0x6E] EventEntity uses emote 6*
   1: 0x01AD [0x99] Wait for EventEntity animation to complete
-  2: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10082*)
+  2: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
     → "I guess my eyes deceived me. I was sure you were an adventurerrr."
   3: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01B6 [0x00] END_REQSTACK()
@@ -737,10 +737,10 @@ SUBROUTINE_017D:
 
 ```
   0: 0x01B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x01)
-  1: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10083*)
+  1: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
     → "Wonderful. My eyes didn't deceive me. Now, have you ever heard of $3? This rare wood does not even burn when thrown into the inferrrno of Ifrit's Cauldron."
   2: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
+  3: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
     → "Deep in the hearrrt of the Yuhtunga Jungle, there is a giant tree known by the natives as the Firebloom Tree. It is protected day and night by mighty flames, though it never burns."
   4: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x02)
@@ -767,7 +767,7 @@ SUBROUTINE_017D:
 #### Opcodes
 
 ```
-  0: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
+  0: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10086*)
     → "The wood taken from the most heavily protected arrrea of the Firebloom Tree is called $3."
   1: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D2 [0x00] END_REQSTACK()
@@ -793,12 +793,12 @@ SUBROUTINE_017D:
 #### Opcodes
 
 ```
-  0: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10086*)
+  0: 0x01D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10087*)
     → "To find out which arrrea of the trrree is the most heavily protected, you must first retrieve four vines from its four sides. Then you must take those four vines to a place in Ifrit's Cauldron where firrre spits up from the rrrocks."
   1: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D7 [0x6E] EventEntity uses emote 7*
   3: 0x01DE [0x99] Wait for EventEntity animation to complete
-  4: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10087*)
+  4: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
     → "Throw the four vines into the flames. The one that remains unburned is from the most heavily protected side of the Firebloom Tree. Finally, return to the jungle, cut off $6, and bring it back here to me."
   5: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E7 [0x00] END_REQSTACK()
@@ -829,13 +829,13 @@ SUBROUTINE_017D:
   1: 0x01ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01EF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x01)
-  4: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10088*)
+  4: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10089*)
     → "Travel to the hearrrt of the Yuhtunga Jungle and cut four vines from the Firebloom Tree."
   5: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10089*)
+  6: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10090*)
     → "Take those four vines to Ifrit's Cauldron and throw them into the walls of fire that rise from the rocks."
   7: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10090*)
+  8: 0x01FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10091*)
     → "When you have learned the most heavily protected side of the Firebloom Tree, return to it and cut off $6. Bring that wood back here to me."
   9: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0202 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x02)
@@ -899,10 +899,10 @@ SUBROUTINE_017D:
 ```
   0: 0x0231 [0x6E] EventEntity uses emote 14*
   1: 0x0238 [0x99] Wait for EventEntity animation to complete
-  2: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=10091*)
+  2: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=10092*)
     → "Look at it! Isn't it beautiful?"
   3: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10092*)
+  4: 0x0241 [0x1D] PRINT_EVENT_MESSAGE(message_id=10093*)
     → "Only a bow made from this wood can stand the blazing heat of "Purgatory Arrows.""
   5: 0x0244 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0245 [0x00] END_REQSTACK()
@@ -934,15 +934,15 @@ SUBROUTINE_017D:
   1: 0x024B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x024D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x03)
-  4: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10093*)
+  4: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=10094*)
     → "By the way, have your trrravels ever taken you to Windurst?"
   5: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10094*)
+  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=10095*)
     → "The chieftainness of that trrribe, Perih Vashai, carries with her a weapon known as the Azure Bow."
   7: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x025C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x04)
   9: 0x0263 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x05)
- 10: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=10095*)
+ 10: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
     → "There are many a song that tell of her ability to wield Purgatory Arrows. However, I have heard that her skills have faded since the Great War."
  11: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x06)
@@ -979,13 +979,13 @@ SUBROUTINE_017D:
   1: 0x027E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x027F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0280 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x1F)
-  4: 0x0287 [0x24] CREATE_DIALOG(message_id=10081*, default_option=0*, option_flags=0*)
+  4: 0x0287 [0x24] CREATE_DIALOG(message_id=10082*, default_option=0*, option_flags=0*)
     → "Listen to her offer? [Yes./No.]"
   5: 0x028E [0x25] WAIT_DIALOG_SELECT()
   6: 0x028F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B2
   7: 0x0297 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   8: 0x0298 [0x03] Work_Zone[1] = 1*
-  9: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=10084*)
+  9: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=10085*)
     → "Deep in the hearrrt of the Yuhtunga Jungle, there is a giant tree known by the natives as the Firebloom Tree. It is protected day and night by mighty flames, though it never burns."
  10: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02A1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x18)
@@ -993,7 +993,7 @@ SUBROUTINE_017D:
  13: 0x02AF [0x01] GOTO 0x02C6
  14: 0x02B2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02C6
  15: 0x02BA [0x03] Work_Zone[1] = 2*
- 16: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
+ 16: 0x02BF [0x1D] PRINT_EVENT_MESSAGE(message_id=10098*)
     → "If you're busy..."
  17: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x02C3 [0x01] GOTO 0x02C6
@@ -1025,7 +1025,7 @@ SUBROUTINE_02C6:
 
 ```
   0: 0x02CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x01)
-  1: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10096*)
+  1: 0x02D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10097*)
     → "Wait, [sir/ma'am]. Would you have the time to retrieve another piece of $3?"
   2: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Soun Abralah (ID: 17801258/0x010FA02A), tag_num=0x02)

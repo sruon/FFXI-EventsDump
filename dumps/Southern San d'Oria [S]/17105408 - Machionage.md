@@ -23,13 +23,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2F5D      |       12125 |
-|       2 | 0x2AD0      |       10960 |
+|       1 | 0x2F5E      |       12126 |
+|       2 | 0x2AD1      |       10961 |
 
 ## String References
 
-- **10960**: This charm is to be delivered to Lieutenant Phillieulais? I shall hold onto it until he returns from the battlefield.
-- **12125**: I don't think any had imagined that the scattered beastmen would conspire to align with one another. And then to organize an offensive, of all things! There must be a great and evil charisma at work...
+- **10961**: This charm is to be delivered to Lieutenant Phillieulais? I shall hold onto it until he returns from the battlefield.
+- **12126**: I don't think any had imagined that the scattered beastmen would conspire to align with one another. And then to organize an offensive, of all things! There must be a great and evil charisma at work...
 
 ## Events
 
@@ -78,7 +78,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Elnonde (ID: 17105411/0x01050203), Elnonde (ID: 17105411/0x01050203)], work=20*
-  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12125*)
+  2: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=12126*)
     → "I don't think any had imagined that the scattered beastmen would conspire to align with one another. And then to organize an offensive, of all things! There must be a great and evil charisma at work..."
   3: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0019 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Elnonde (ID: 17105411/0x01050203), Elnonde (ID: 17105411/0x01050203)], work=20*
@@ -108,7 +108,7 @@
 ```
   0: 0x002A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x002B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10960*)
+  2: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=10961*)
     → "This charm is to be delivered to Lieutenant Phillieulais? I shall hold onto it until he returns from the battlefield."
   3: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0034 [0x21] END_EVENT

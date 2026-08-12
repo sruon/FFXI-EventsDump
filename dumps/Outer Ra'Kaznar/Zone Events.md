@@ -130,20 +130,20 @@
 |      71 | 0x0010      |          16 |
 |      72 | 0x0320      |         800 |
 |      73 | 0x0A51      |        2641 |
-|      74 | 0x1EF9      |        7929 |
-|      75 | 0x1EFA      |        7930 |
+|      74 | 0x1EFA      |        7930 |
+|      75 | 0x1EFB      |        7931 |
 |      76 | 0x40000000  |  1073741824 |
-|      77 | 0x1F04      |        7940 |
-|      78 | 0x1F05      |        7941 |
-|      79 | 0x1E58      |        7768 |
-|      80 | 0x1E55      |        7765 |
+|      77 | 0x1F05      |        7941 |
+|      78 | 0x1F06      |        7942 |
+|      79 | 0x1E59      |        7769 |
+|      80 | 0x1E56      |        7766 |
 |      81 | 0x003C      |          60 |
 |      82 | 0x0078      |         120 |
 |      83 | 0x0003      |           3 |
 |      84 | 0x0004      |           4 |
 |      85 | 0x0007      |           7 |
 |      86 | 0x0008      |           8 |
-|      87 | 0x1E61      |        7777 |
+|      87 | 0x1E62      |        7778 |
 |      88 | 0x005A      |          90 |
 |      89 | 0x00C9      |         201 |
 |      90 | 0x00C8      |         200 |
@@ -277,13 +277,13 @@
 
 ## String References
 
-- **7765**: You cannot enter at this time. Please wait a moment and try again.
-- **7768**: Your request for entry is being considered...
-- **7777**: Now permeating the mists surrounding the [fracture/obscured domain].
-- **7929**: Your $3 emits a strange pulse!
-- **7930**: Now what? [Use the $3./Do nothing.]
-- **7940**: Expend your $3 and enter the obscured domain with your alliance members?
-- **7941**: Proceed? [Yes./No.]
+- **7766**: You cannot enter at this time. Please wait a moment and try again.
+- **7769**: Your request for entry is being considered...
+- **7778**: Now permeating the mists surrounding the [fracture/obscured domain].
+- **7930**: Your $3 emits a strange pulse!
+- **7931**: Now what? [Use the $3./Do nothing.]
+- **7941**: Expend your $3 and enter the obscured domain with your alliance members?
+- **7942**: Proceed? [Yes./No.]
 
 ## Events
 
@@ -1542,13 +1542,13 @@
  15: 0x035C [0x08] ExtData[1]->WorkLocal[22] -= 800*
  16: 0x0361 [0x06] ExtData[1]->WorkLocal[8] = 0
  17: 0x0364 [0x03] Work_Zone[2] = 2641*
- 18: 0x0369 [0x48] [System] [7929*]:
+ 18: 0x0369 [0x48] [System] [7930*]:
     → "Your $3 emits a strange pulse!"
  19: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x036D [0x06] ExtData[1]->WorkLocal[8] = 0
  21: 0x0370 [0x05] ExtData[1]->WorkLocal[12] = 1
  22: 0x0373 [0x03] Work_Zone[2] = 2641*
- 23: 0x0378 [0x24] CREATE_DIALOG(message_id=7930*, default_option=1*, option_flags=0*)
+ 23: 0x0378 [0x24] CREATE_DIALOG(message_id=7931*, default_option=1*, option_flags=0*)
     → "Now what? [Use the $3./Do nothing.]"
  24: 0x037F [0x25] WAIT_DIALOG_SELECT()
  25: 0x0380 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038B
@@ -1561,15 +1561,15 @@
 SUBROUTINE_039E:
  31: 0x039E [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x03E1
  32: 0x03A6 [0x03] Work_Zone[2] = 2641*
- 33: 0x03AB [0x48] [System] [7940*]:
+ 33: 0x03AB [0x48] [System] [7941*]:
     → "Expend your $3 and enter the obscured domain with your alliance members?"
  34: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x03AF [0x24] CREATE_DIALOG(message_id=7941*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
+ 35: 0x03AF [0x24] CREATE_DIALOG(message_id=7942*, default_option=ExtData[1]->WorkLocal[12], option_flags=0*)
     → "Proceed? [Yes./No.]"
  36: 0x03B6 [0x25] WAIT_DIALOG_SELECT()
  37: 0x03B7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03CB
  38: 0x03BF [0x06] ExtData[1]->WorkLocal[12] = 0
- 39: 0x03C2 [0x48] [System] [7768*]:
+ 39: 0x03C2 [0x48] [System] [7769*]:
     → "Your request for entry is being considered..."
  40: 0x03C5 [0x1A] CALL_SUBROUTINE(address=0x03E3)
  41: 0x03C8 [0x01] GOTO 0x03DE
@@ -1615,7 +1615,7 @@ SUBROUTINE_0414:
  71: 0x0448 [0x0B] ExtData[1]->WorkLocal[14]++
  72: 0x044B [0x02] IF !(ExtData[1]->WorkLocal[14] <= 5*) GOTO 0x0460
  73: 0x0453 [0x05] ExtData[1]->WorkLocal[13] = 1
- 74: 0x0456 [0x48] [System] [7765*]:
+ 74: 0x0456 [0x48] [System] [7766*]:
     → "You cannot enter at this time. Please wait a moment and try again."
  75: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x045A [0x1C] WAIT(60* ticks)
@@ -1686,7 +1686,7 @@ SUBROUTINE_04D5:
 135: 0x0559 [0x01] GOTO 0x064C
 136: 0x055C [0x02] IF !(ExtData[1]->WorkLocal[15] == 8*) GOTO 0x05EB
 137: 0x0564 [0x03] Work_Zone[3] = 1*
-138: 0x0569 [0x48] [System] [7777*]:
+138: 0x0569 [0x48] [System] [7778*]:
     → "Now permeating the mists surrounding the [fracture/obscured domain]."
 139: 0x056C [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x056D [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -1720,7 +1720,7 @@ SUBROUTINE_04D5:
 168: 0x0635 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 169: 0x0637 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 170: 0x0639 [0x05] ExtData[1]->WorkLocal[13] = 1
-171: 0x063C [0x48] [System] [7765*]:
+171: 0x063C [0x48] [System] [7766*]:
     → "You cannot enter at this time. Please wait a moment and try again."
 172: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x0640 [0x1C] WAIT(60* ticks)

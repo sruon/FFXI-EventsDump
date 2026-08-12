@@ -21,37 +21,37 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x29D1      |       10705 |
-|       2 | 0x29D2      |       10706 |
+|       1 | 0x29D2      |       10706 |
+|       2 | 0x29D3      |       10707 |
 |       3 | 0x0002      |           2 |
-|       4 | 0x29D3      |       10707 |
+|       4 | 0x29D4      |       10708 |
 |       5 | 0x40000000  |  1073741824 |
 |       6 | 0x0008      |           8 |
 |       7 | 0x000F      |          15 |
-|       8 | 0x29DA      |       10714 |
-|       9 | 0x29DB      |       10715 |
-|      10 | 0x29DC      |       10716 |
-|      11 | 0x29D7      |       10711 |
-|      12 | 0x29D8      |       10712 |
-|      13 | 0x29D9      |       10713 |
-|      14 | 0x29D4      |       10708 |
-|      15 | 0x29D5      |       10709 |
-|      16 | 0x29D6      |       10710 |
+|       8 | 0x29DB      |       10715 |
+|       9 | 0x29DC      |       10716 |
+|      10 | 0x29DD      |       10717 |
+|      11 | 0x29D8      |       10712 |
+|      12 | 0x29D9      |       10713 |
+|      13 | 0x29DA      |       10714 |
+|      14 | 0x29D5      |       10709 |
+|      15 | 0x29D6      |       10710 |
+|      16 | 0x29D7      |       10711 |
 
 ## String References
 
-- **10705**: I'm a chef-in-training, don'taru you know? One day I'll be as famous-wamous as that Rycharde character in Mhaura.
-- **10706**: I'm racking my noggin to inventaru a dish that tastes better when eaten with friends. Nothing comes to mind at the momentaru...
-- **10707**: You know, I heard there was a new fortune teller in Mhaura. Those guys kind of give me the chilly-willies.
-- **10708**: Eureka!
-- **10709**: Seeing you and %0 together has spark-warked an idea for a new cooking craze!
-- **10710**: Inspiration can strike at the strangest times. Here, try this!
-- **10711**: Wait! Could it be!?
-- **10712**: Yes! Another marv-warvellous idea for a feeding frenzy! I'll call it "Friendship Pie with Trust Crust"! Doesn't that sound yummy-scrummy?
-- **10713**: Since you and %0 were here to witness this culinary triumph, why don'taru you share this in celebration?
-- **10714**: Hmmm. Hmmm. Nope, my brill-williance has run dry. There is only so much one Tarutaru can dream up alone.
-- **10715**: I'll have to find myself a chum-wummy partner like you have in %0.
-- **10716**: In factaru, you two can share this between you. I've lost my appetitaru.
+- **10706**: I'm a chef-in-training, don'taru you know? One day I'll be as famous-wamous as that Rycharde character in Mhaura.
+- **10707**: I'm racking my noggin to inventaru a dish that tastes better when eaten with friends. Nothing comes to mind at the momentaru...
+- **10708**: You know, I heard there was a new fortune teller in Mhaura. Those guys kind of give me the chilly-willies.
+- **10709**: Eureka!
+- **10710**: Seeing you and %0 together has spark-warked an idea for a new cooking craze!
+- **10711**: Inspiration can strike at the strangest times. Here, try this!
+- **10712**: Wait! Could it be!?
+- **10713**: Yes! Another marv-warvellous idea for a feeding frenzy! I'll call it "Friendship Pie with Trust Crust"! Doesn't that sound yummy-scrummy?
+- **10714**: Since you and %0 were here to witness this culinary triumph, why don'taru you share this in celebration?
+- **10715**: Hmmm. Hmmm. Nope, my brill-williance has run dry. There is only so much one Tarutaru can dream up alone.
+- **10716**: I'll have to find myself a chum-wummy partner like you have in %0.
+- **10717**: In factaru, you two can share this between you. I've lost my appetitaru.
 
 ## Events
 
@@ -103,16 +103,16 @@
 
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x0031
-  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10705*)
+  1: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=10706*)
     → "I'm a chef-in-training, don'taru you know? One day I'll be as famous-wamous as that Rycharde character in Mhaura."
   2: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000D [0x02] IF !(Work_Zone[8] == 1*) GOTO 0x001C
-  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=10706*)
+  4: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
     → "I'm racking my noggin to inventaru a dish that tastes better when eaten with friends. Nothing comes to mind at the momentaru..."
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0019 [0x01] GOTO 0x0028
   7: 0x001C [0x02] IF !(Work_Zone[8] == 2*) GOTO 0x0028
-  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10707*)
+  8: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
     → "You know, I heard there was a new fortune teller in Mhaura. Those guys kind of give me the chilly-willies."
   9: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -122,13 +122,13 @@ SUBROUTINE_0028:
 
 SUBROUTINE_005C:
  12: 0x005C [0x01] GOTO 0x006B
- 13: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=10708*)
+ 13: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
     → "Eureka!"
  14: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=10709*)
+ 15: 0x0063 [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
     → "Seeing you and %0 together has spark-warked an idea for a new cooking craze!"
  16: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=10710*)
+ 17: 0x0067 [0x1D] PRINT_EVENT_MESSAGE(message_id=10711*)
     → "Inspiration can strike at the strangest times. Here, try this!"
  18: 0x006A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

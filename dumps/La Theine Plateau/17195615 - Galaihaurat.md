@@ -22,21 +22,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1CFF      |        7423 |
+|       1 | 0x1D00      |        7424 |
 |       2 | 0x001E      |          30 |
 |       3 | 0x0EE4      |        3812 |
-|       4 | 0x1D00      |        7424 |
-|       5 | 0x1D06      |        7430 |
-|       6 | 0x1D07      |        7431 |
-|       7 | 0x1D08      |        7432 |
+|       4 | 0x1D01      |        7425 |
+|       5 | 0x1D07      |        7431 |
+|       6 | 0x1D08      |        7432 |
+|       7 | 0x1D09      |        7433 |
 
 ## String References
 
-- **7423**: Are you in the rescue drill?
-- **7424**: Head to the other side of that valley over there. One of my compatriots will assist you.
-- **7430**: Ruillont's sword? Yes, I was keeping it for him during training.
-- **7431**: What, Ruillont's stuck in a cave? How typical of him to refuse your help...
-- **7432**: Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me.
+- **7424**: Are you in the rescue drill?
+- **7425**: Head to the other side of that valley over there. One of my compatriots will assist you.
+- **7431**: Ruillont's sword? Yes, I was keeping it for him during training.
+- **7432**: What, Ruillont's stuck in a cave? How typical of him to refuse your help...
+- **7433**: Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me.
 
 ## Events
 
@@ -91,7 +91,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7423*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
     → "Are you in the rescue drill?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -100,7 +100,7 @@
   9: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  11: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi1" with entities [EventEntity, EventEntity], work=20*
- 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7424*)
+ 12: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=7425*)
     → "Head to the other side of that valley over there. One of my compatriots will assist you."
  13: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x003B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi1" with entities [EventEntity, EventEntity]
@@ -139,16 +139,16 @@
   1: 0x006E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+  4: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "Ruillont's sword? Yes, I was keeping it for him during training."
   5: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0083 [0x1C] WAIT(30* ticks)
-  7: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+  7: 0x0086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "What, Ruillont's stuck in a cave? How typical of him to refuse your help..."
   8: 0x0089 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x008A [0x1C] WAIT(30* ticks)
  10: 0x008D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+ 11: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "Yes, I believe you; I'm sure it's him. Take this to him in there, would you? We'll keep it between you and me."
  12: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00A0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]

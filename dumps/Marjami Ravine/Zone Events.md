@@ -5,9 +5,9 @@
 | Field            | Value                    |
 |------------------|--------------------------|
 | Zone             | Marjami Ravine (ID: 266) |
-| Block Size       | 1340 bytes               |
-| Total Events     | 38                       |
-| References Count | 80                       |
+| Block Size       | 1188 bytes               |
+| Total Events     | 37                       |
+| References Count | 75                       |
 
 ## List of Events
 
@@ -50,7 +50,6 @@
 | [65535.33](#event-6553533) | 0x02A1       |     17 |              5 |
 | [65535.34](#event-6553534) | 0x02B2       |     14 |              4 |
 | [65535.35](#event-6553535) | 0x02C0       |     19 |              5 |
-| [5504](#event-5504)        | 0x02D3       |    128 |             14 |
 
 ## DAT References (imed_data)
 
@@ -131,11 +130,6 @@
 |      72 | 0x10942     |       67906 |
 |      73 | 0xFFFE8B4F  |  4294871887 |
 |      74 | 0x5058      |       20568 |
-|      75 | 0x00C8      |         200 |
-|      76 | 0x005A      |          90 |
-|      77 | 0x00C9      |         201 |
-|      78 | 0x002D      |          45 |
-|      79 | 0x000F      |          15 |
 
 ## Events
 
@@ -749,14 +743,14 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 01F0:                                      1C 1B 80 1E              ....
-0200: A9 A1 10 01 6F 70 00                              ....op.         
+0200: AD A1 10 01 6F 70 00                              ....op.         
 ```
 
 #### Opcodes
 
 ```
   0: 0x01FC [0x1C] WAIT(120* ticks)
-  1: 0x01FF [0x1E] EventEntity looks at Toppled Tree (ID: 17867177/0x0110A1A9) and starts talking
+  1: 0x01FF [0x1E] EventEntity looks at Toppled Tree (ID: 17867181/0x0110A1AD) and starts talking
   2: 0x0204 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0205 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0206 [0x00] END_REQSTACK()
@@ -970,7 +964,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0260:                      32  02 80 1F 00 37 80 38 80         2....7.8.
-0270: 39 80 1F 01 1E E5 A1 10  01 1C 3A 80 00           9.........:..   
+0270: 39 80 1F 01 1E E9 A1 10  01 1C 3A 80 00           9.........:..   
 ```
 
 #### Opcodes
@@ -979,7 +973,7 @@
   0: 0x0267 [0x32] ExtData[1]->MainSpeed = 13* * 0.1
   1: 0x026A [0x1F] MOVE_ENTITY: EventEntity moves to X=-100.760*, Z=-78.092*, Y=20.961*
   2: 0x0272 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0274 [0x1E] EventEntity looks at Gramk-Droog (ID: 17867237/0x0110A1E5) and starts talking
+  3: 0x0274 [0x1E] EventEntity looks at Gramk-Droog (ID: 17867241/0x0110A1E9) and starts talking
   4: 0x0279 [0x1C] WAIT(30* ticks)
   5: 0x027C [0x00] END_REQSTACK()
 ```
@@ -1024,7 +1018,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0280:                                   32 3B 80 1F 00             2;...
-0290: 3F 80 40 80 41 80 1F 01  1E E1 A1 10 01 1C 3A 80  ?.@.A.........:.
+0290: 3F 80 40 80 41 80 1F 01  1E E5 A1 10 01 1C 3A 80  ?.@.A.........:.
 02A0: 00                                                .               
 ```
 
@@ -1034,7 +1028,7 @@
   0: 0x028B [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x028E [0x1F] MOVE_ENTITY: EventEntity moves to X=403.594*, Z=246.201*, Y=-60.008*
   2: 0x0296 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0298 [0x1E] EventEntity looks at Nashu (ID: 17867233/0x0110A1E1) and starts talking
+  3: 0x0298 [0x1E] EventEntity looks at Nashu (ID: 17867237/0x0110A1E5) and starts talking
   4: 0x029D [0x1C] WAIT(30* ticks)
   5: 0x02A0 [0x00] END_REQSTACK()
 ```
@@ -1104,7 +1098,7 @@
 ```
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-02C0: 32 3B 80 1F 00 48 80 49  80 4A 80 1F 01 1E E1 A1  2;...H.I.J......
+02C0: 32 3B 80 1F 00 48 80 49  80 4A 80 1F 01 1E E5 A1  2;...H.I.J......
 02D0: 10 01 00                                          ...             
 ```
 
@@ -1114,49 +1108,6 @@
   0: 0x02C0 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x02C3 [0x1F] MOVE_ENTITY: EventEntity moves to X=67.906*, Z=-95.409*, Y=20.568*
   2: 0x02CB [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x02CD [0x1E] EventEntity looks at Nashu (ID: 17867233/0x0110A1E1) and starts talking
+  3: 0x02CD [0x1E] EventEntity looks at Nashu (ID: 17867237/0x0110A1E5) and starts talking
   4: 0x02D2 [0x00] END_REQSTACK()
-```
-
-### Event 5504
-
-#### Metadata
-
-| Field        | Value     |
-|--------------|-----------|
-| Entrypoint   | 0x02D3    |
-| Data Size    | 128 bytes |
-| Instructions | 14        |
-
-```
-      00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
-      -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
-02D0:          42 45 4B 80 F0  FF FF 7F F0 FF FF 7F 66     BEK.........f
-02E0: 64 6F 31 01 80 62 00 80  F0 FF FF 7F F0 FF FF 7F  do1..b..........
-02F0: 6D 61 69 6E 01 80 1C 4C  80 45 4D 80 F0 FF FF 7F  main...L.EM.....
-0300: F0 FF FF 7F 77 68 6F 31  01 80 55 4D 80 F0 FF FF  ....who1..UM....
-0310: 7F F0 FF FF 7F 77 68 6F  31 1C 4E 80 45 4B 80 F0  .....who1.N.EK..
-0320: FF FF 7F F0 FF FF 7F 66  64 6F 31 01 80 55 4B 80  .......fdo1..UK.
-0330: F0 FF FF 7F F0 FF FF 7F  66 64 6F 31 45 4D 80 F0  ........fdo1EM..
-0340: FF FF 7F F0 FF FF 7F 77  68 69 31 01 80 1C 4F 80  .......whi1...O.
-0350: 30 21 00                                          0!.             
-```
-
-#### Opcodes
-
-```
-  0: 0x02D3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x02D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  2: 0x02E5 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
-  3: 0x02F6 [0x1C] WAIT(90* ticks)
-  4: 0x02F9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-  5: 0x030A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
-  6: 0x0319 [0x1C] WAIT(45* ticks)
-  7: 0x031C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-  8: 0x032D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=200*
-  9: 0x033C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x034D [0x1C] WAIT(15* ticks)
- 11: 0x0350 [0x30] SET_UCOFF_CONTINUE_ZERO()
- 12: 0x0351 [0x21] END_EVENT
- 13: 0x0352 [0x00] END_REQSTACK()
 ```

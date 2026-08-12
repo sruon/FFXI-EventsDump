@@ -31,11 +31,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D83      |        7555 |
+|       0 | 0x1D84      |        7556 |
 |       1 | 0x004B      |          75 |
-|       2 | 0x1D88      |        7560 |
+|       2 | 0x1D89      |        7561 |
 |       3 | 0x004D      |          77 |
-|       4 | 0x1D8C      |        7564 |
+|       4 | 0x1D8D      |        7565 |
 |       5 | 0xFFFCAA92  |  4294748818 |
 |       6 | 0x11971     |       72049 |
 |       7 | 0xFFFFEC51  |  4294962257 |
@@ -54,9 +54,9 @@
 
 ## String References
 
-- **7555**: Hmmm...? Something's different today. Something smells gooooood!
-- **7560**: Me too! Me too!
-- **7564**: I love it, I love it! I could eat this every day for the rest of my life!
+- **7556**: Hmmm...? Something's different today. Something smells gooooood!
+- **7561**: Me too! Me too!
+- **7565**: I love it, I love it! I could eat this every day for the rest of my life!
 
 ## Events
 
@@ -123,7 +123,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7555*)
+  0: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=7556*)
     → "Hmmm...? Something's different today. Something smells gooooood!"
   1: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0006 [0x00] END_REQSTACK()
@@ -150,7 +150,7 @@
 
 ```
   0: 0x0007 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
-  1: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7560*)
+  1: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
     → "Me too! Me too!"
   2: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x001A [0x00] END_REQSTACK()
@@ -177,7 +177,7 @@
 
 ```
   0: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kan0" with entities [EventEntity, EventEntity], work=77*
-  1: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7564*)
+  1: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7565*)
     → "I love it, I love it! I could eat this every day for the rest of my life!"
   2: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002E [0x00] END_REQSTACK()

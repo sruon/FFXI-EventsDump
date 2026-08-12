@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CF6      |        7414 |
+|       0 | 0x1CF7      |        7415 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1CF8      |        7416 |
+|       3 | 0x1CF9      |        7417 |
 
 ## String References
 
-- **7414**: Do you want to turn it off? [Yes./No.]
-- **7416**: Do you want to turn it on? [Yes./No.]
+- **7415**: Do you want to turn it off? [Yes./No.]
+- **7417**: Do you want to turn it on? [Yes./No.]
 
 ## Events
 
@@ -76,7 +76,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7414*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7415*, default_option=0*, option_flags=0*)
     → "Do you want to turn it off? [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -113,7 +113,7 @@ SUBROUTINE_0029:
 #### Opcodes
 
 ```
-  0: 0x002B [0x24] CREATE_DIALOG(message_id=7416*, default_option=0*, option_flags=0*)
+  0: 0x002B [0x24] CREATE_DIALOG(message_id=7417*, default_option=0*, option_flags=0*)
     → "Do you want to turn it on? [Yes./No.]"
   1: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0043

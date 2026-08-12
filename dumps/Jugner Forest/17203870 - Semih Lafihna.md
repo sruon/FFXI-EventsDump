@@ -105,43 +105,43 @@
 |      27 | 0xFFFFF2E1  |  4294963937 |
 |      28 | 0x49EDD     |      302813 |
 |      29 | 0x035A      |         858 |
-|      30 | 0x1F13      |        7955 |
-|      31 | 0x1F16      |        7958 |
-|      32 | 0x1F18      |        7960 |
-|      33 | 0x1F19      |        7961 |
-|      34 | 0x1F1A      |        7962 |
-|      35 | 0x1F1D      |        7965 |
-|      36 | 0x1F1E      |        7966 |
-|      37 | 0x1F1F      |        7967 |
-|      38 | 0x1F20      |        7968 |
-|      39 | 0x1F21      |        7969 |
-|      40 | 0x1F23      |        7971 |
-|      41 | 0x1F25      |        7973 |
-|      42 | 0x1F28      |        7976 |
-|      43 | 0x1F2E      |        7982 |
-|      44 | 0x1F38      |        7992 |
-|      45 | 0x1F3A      |        7994 |
-|      46 | 0x1F3B      |        7995 |
+|      30 | 0x1F14      |        7956 |
+|      31 | 0x1F17      |        7959 |
+|      32 | 0x1F19      |        7961 |
+|      33 | 0x1F1A      |        7962 |
+|      34 | 0x1F1B      |        7963 |
+|      35 | 0x1F1E      |        7966 |
+|      36 | 0x1F1F      |        7967 |
+|      37 | 0x1F20      |        7968 |
+|      38 | 0x1F21      |        7969 |
+|      39 | 0x1F22      |        7970 |
+|      40 | 0x1F24      |        7972 |
+|      41 | 0x1F26      |        7974 |
+|      42 | 0x1F29      |        7977 |
+|      43 | 0x1F2F      |        7983 |
+|      44 | 0x1F39      |        7993 |
+|      45 | 0x1F3B      |        7995 |
+|      46 | 0x1F3C      |        7996 |
 
 ## String References
 
-- **7955**: What business do you have in these parts?
-- **7958**: $1... You brought this from the knight in Ranguemont Pass? I don't fully understand what it is, but it seems to be infused with some kind of magical powerrr...
-- **7960**: I thank you for all you have done, but I'm not permitted to tell you any details. It is a matter that affects the securrrity of Windurst.
-- **7961**: Do you rememberrr? The talisman that seals Castle Zvahl was stolen on the night of the full moon. On the same night, the bearer of darkness appeared before the Star Sibyl...
-- **7962**: I am still tracking its movements, but have yet to discerrrn its true identity. Is it a serrrvant of the Shadow Lord, an assassin from another nation, or something else entirrrely...?
-- **7965**: For the moment, I must rrreturn home with this $1.
-- **7966**: ...? Is that...$2? Chieftainness Perih Vashai sent this to me?
-- **7967**: Surely it's not...!?
-- **7968**: No, it doesn't match the one I carry.
-- **7969**: What does this mean? Why would the chieftainness send this to me...?
-- **7971**: ...!
-- **7973**: And who on Vana'diel are you?
-- **7976**: A sinner...?
-- **7982**: ......
-- **7992**: Wait. My mother, are you telling me you don't know...?
-- **7994**: ......
-- **7995**: I must return to Windurst and meet with the chieftainness...
+- **7956**: What business do you have in these parts?
+- **7959**: $1... You brought this from the knight in Ranguemont Pass? I don't fully understand what it is, but it seems to be infused with some kind of magical powerrr...
+- **7961**: I thank you for all you have done, but I'm not permitted to tell you any details. It is a matter that affects the securrrity of Windurst.
+- **7962**: Do you rememberrr? The talisman that seals Castle Zvahl was stolen on the night of the full moon. On the same night, the bearer of darkness appeared before the Star Sibyl...
+- **7963**: I am still tracking its movements, but have yet to discerrrn its true identity. Is it a serrrvant of the Shadow Lord, an assassin from another nation, or something else entirrrely...?
+- **7966**: For the moment, I must rrreturn home with this $1.
+- **7967**: ...? Is that...$2? Chieftainness Perih Vashai sent this to me?
+- **7968**: Surely it's not...!?
+- **7969**: No, it doesn't match the one I carry.
+- **7970**: What does this mean? Why would the chieftainness send this to me...?
+- **7972**: ...!
+- **7974**: And who on Vana'diel are you?
+- **7977**: A sinner...?
+- **7983**: ......
+- **7993**: Wait. My mother, are you telling me you don't know...?
+- **7995**: ......
+- **7996**: I must return to Windurst and meet with the chieftainness...
 
 ## Events
 
@@ -1188,7 +1188,7 @@
 #### Opcodes
 
 ```
-  0: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7955*)
+  0: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=7956*)
     → "What business do you have in these parts?"
   1: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0299 [0x00] END_REQSTACK()
@@ -1213,7 +1213,7 @@
 #### Opcodes
 
 ```
-  0: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+  0: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "$1... You brought this from the knight in Ranguemont Pass? I don't fully understand what it is, but it seems to be infused with some kind of magical powerrr..."
   1: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x029E [0x00] END_REQSTACK()
@@ -1239,7 +1239,7 @@
 #### Opcodes
 
 ```
-  0: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7960*)
+  0: 0x029F [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
     → "I thank you for all you have done, but I'm not permitted to tell you any details. It is a matter that affects the securrrity of Windurst."
   1: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A3 [0x00] END_REQSTACK()
@@ -1264,10 +1264,10 @@
 #### Opcodes
 
 ```
-  0: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7961*)
+  0: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
     → "Do you rememberrr? The talisman that seals Castle Zvahl was stolen on the night of the full moon. On the same night, the bearer of darkness appeared before the Star Sibyl..."
   1: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7962*)
+  2: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7963*)
     → "I am still tracking its movements, but have yet to discerrrn its true identity. Is it a serrrvant of the Shadow Lord, an assassin from another nation, or something else entirrrely...?"
   3: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02AC [0x00] END_REQSTACK()
@@ -1293,7 +1293,7 @@
 #### Opcodes
 
 ```
-  0: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7965*)
+  0: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
     → "For the moment, I must rrreturn home with this $1."
   1: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B1 [0x00] END_REQSTACK()
@@ -1318,7 +1318,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7966*)
+  0: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
     → "...? Is that...$2? Chieftainness Perih Vashai sent this to me?"
   1: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B6 [0x00] END_REQSTACK()
@@ -1343,7 +1343,7 @@
 #### Opcodes
 
 ```
-  0: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7967*)
+  0: 0x02B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
     → "Surely it's not...!?"
   1: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02BB [0x00] END_REQSTACK()
@@ -1372,10 +1372,10 @@
 
 ```
   0: 0x02BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17203870/0x0106829E), tag_num=0x01)
-  1: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7968*)
+  1: 0x02C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
     → "No, it doesn't match the one I carry."
   2: 0x02C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7969*)
+  3: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
     → "What does this mean? Why would the chieftainness send this to me...?"
   4: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17203870/0x0106829E), tag_num=0x02)
@@ -1403,7 +1403,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
+  0: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
     → "...!"
   1: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E5 [0x00] END_REQSTACK()
@@ -1428,7 +1428,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  0: 0x02E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "And who on Vana'diel are you?"
   1: 0x02E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02EA [0x00] END_REQSTACK()
@@ -1453,7 +1453,7 @@
 #### Opcodes
 
 ```
-  0: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7976*)
+  0: 0x02EB [0x1D] PRINT_EVENT_MESSAGE(message_id=7977*)
     → "A sinner...?"
   1: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02EF [0x00] END_REQSTACK()
@@ -1478,7 +1478,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+  0: 0x02F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "......"
   1: 0x02F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F4 [0x00] END_REQSTACK()
@@ -1503,7 +1503,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  0: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Wait. My mother, are you telling me you don't know...?"
   1: 0x02F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F9 [0x00] END_REQSTACK()
@@ -1530,7 +1530,7 @@
 
 ```
   0: 0x02FA [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+  1: 0x0300 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "......"
   2: 0x0303 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0304 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1556,7 +1556,7 @@
 #### Opcodes
 
 ```
-  0: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
+  0: 0x030B [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
     → "I must return to Windurst and meet with the chieftainness..."
   1: 0x030E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x030F [0x00] END_REQSTACK()

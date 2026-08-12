@@ -23,9 +23,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2856      |       10326 |
-|       1 | 0x2857      |       10327 |
-|       2 | 0x2B79      |       11129 |
+|       0 | 0x2857      |       10327 |
+|       1 | 0x2858      |       10328 |
+|       2 | 0x2B7A      |       11130 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x000A      |          10 |
 |       5 | 0x0014      |          20 |
@@ -40,9 +40,9 @@
 
 ## String References
 
-- **10326**: When we pirates attack other ships, we call up the souls of those lost at sea to do our dirty work. It's a little bit different from the summoning magic you adventurers use.
-- **10327**: But don't ask me to explain how. I ain't no magician, you know.
-- **11129**: Those boys ain't gonna be satisfied, no matter what you bring. Yer better off just goin' on yer way.
+- **10327**: When we pirates attack other ships, we call up the souls of those lost at sea to do our dirty work. It's a little bit different from the summoning magic you adventurers use.
+- **10328**: But don't ask me to explain how. I ain't no magician, you know.
+- **11130**: Those boys ain't gonna be satisfied, no matter what you bring. Yer better off just goin' on yer way.
 
 ## Events
 
@@ -90,10 +90,10 @@
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x001F)
   1: 0x0004 [0x1A] CALL_SUBROUTINE(address=0x005D)
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10326*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=10327*)
     → "When we pirates attack other ships, we call up the souls of those lost at sea to do our dirty work. It's a little bit different from the summoning magic you adventurers use."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10327*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=10328*)
     → "But don't ask me to explain how. I ain't no magician, you know."
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x000F [0x21] END_EVENT
@@ -179,7 +179,7 @@
 ```
   0: 0x0013 [0x1A] CALL_SUBROUTINE(address=0x001F)
   1: 0x0016 [0x1A] CALL_SUBROUTINE(address=0x005D)
-  2: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11129*)
+  2: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=11130*)
     → "Those boys ain't gonna be satisfied, no matter what you bring. Yer better off just goin' on yer way."
   3: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001D [0x21] END_EVENT

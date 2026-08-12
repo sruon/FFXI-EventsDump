@@ -87,129 +87,129 @@
 |       1 | 0x0029      |          41 |
 |       2 | 0x002A      |          42 |
 |       3 | 0x001E      |          30 |
-|       4 | 0x1F78      |        8056 |
-|       5 | 0x1F79      |        8057 |
-|       6 | 0x1E4F      |        7759 |
-|       7 | 0x1E50      |        7760 |
-|       8 | 0x1E51      |        7761 |
-|       9 | 0x1E64      |        7780 |
-|      10 | 0x1E65      |        7781 |
-|      11 | 0x1F9B      |        8091 |
-|      12 | 0x1F9C      |        8092 |
-|      13 | 0x1FC4      |        8132 |
-|      14 | 0x1FC5      |        8133 |
-|      15 | 0x1FCF      |        8143 |
-|      16 | 0x1FD0      |        8144 |
-|      17 | 0x1FD7      |        8151 |
-|      18 | 0x1FDD      |        8157 |
-|      19 | 0x1FDE      |        8158 |
-|      20 | 0x1FE1      |        8161 |
-|      21 | 0x1FE6      |        8166 |
-|      22 | 0x1FE7      |        8167 |
-|      23 | 0x1FF1      |        8177 |
-|      24 | 0x2119      |        8473 |
-|      25 | 0x211A      |        8474 |
-|      26 | 0x2124      |        8484 |
-|      27 | 0x2125      |        8485 |
+|       4 | 0x1F79      |        8057 |
+|       5 | 0x1F7A      |        8058 |
+|       6 | 0x1E50      |        7760 |
+|       7 | 0x1E51      |        7761 |
+|       8 | 0x1E52      |        7762 |
+|       9 | 0x1E65      |        7781 |
+|      10 | 0x1E66      |        7782 |
+|      11 | 0x1F9C      |        8092 |
+|      12 | 0x1F9D      |        8093 |
+|      13 | 0x1FC5      |        8133 |
+|      14 | 0x1FC6      |        8134 |
+|      15 | 0x1FD0      |        8144 |
+|      16 | 0x1FD1      |        8145 |
+|      17 | 0x1FD8      |        8152 |
+|      18 | 0x1FDE      |        8158 |
+|      19 | 0x1FDF      |        8159 |
+|      20 | 0x1FE2      |        8162 |
+|      21 | 0x1FE7      |        8167 |
+|      22 | 0x1FE8      |        8168 |
+|      23 | 0x1FF2      |        8178 |
+|      24 | 0x211A      |        8474 |
+|      25 | 0x211B      |        8475 |
+|      26 | 0x2125      |        8485 |
+|      27 | 0x2126      |        8486 |
 |      28 | 0xFFFFEEA1  |  4294962849 |
 |      29 | 0xFFFFA43C  |  4294943804 |
 |      30 | 0xFFFFF15B  |  4294963547 |
 |      31 | 0x00B2      |         178 |
-|      32 | 0x200C      |        8204 |
-|      33 | 0x200D      |        8205 |
-|      34 | 0x200E      |        8206 |
-|      35 | 0x200F      |        8207 |
-|      36 | 0x2010      |        8208 |
-|      37 | 0x2011      |        8209 |
-|      38 | 0x2012      |        8210 |
-|      39 | 0x2013      |        8211 |
-|      40 | 0x201B      |        8219 |
-|      41 | 0x201C      |        8220 |
-|      42 | 0x201D      |        8221 |
-|      43 | 0x201E      |        8222 |
-|      44 | 0x201F      |        8223 |
-|      45 | 0x2020      |        8224 |
-|      46 | 0x2021      |        8225 |
-|      47 | 0x2022      |        8226 |
-|      48 | 0x2023      |        8227 |
-|      49 | 0x2024      |        8228 |
-|      50 | 0x2025      |        8229 |
-|      51 | 0x2026      |        8230 |
-|      52 | 0x2027      |        8231 |
-|      53 | 0x2537      |        9527 |
-|      54 | 0x2538      |        9528 |
-|      55 | 0x2554      |        9556 |
-|      56 | 0x2555      |        9557 |
-|      57 | 0x25B5      |        9653 |
-|      58 | 0x25B6      |        9654 |
-|      59 | 0x25CD      |        9677 |
-|      60 | 0x25CE      |        9678 |
-|      61 | 0x25CF      |        9679 |
-|      62 | 0x25F3      |        9715 |
-|      63 | 0x25F4      |        9716 |
-|      64 | 0x2610      |        9744 |
-|      65 | 0x2611      |        9745 |
+|      32 | 0x200D      |        8205 |
+|      33 | 0x200E      |        8206 |
+|      34 | 0x200F      |        8207 |
+|      35 | 0x2010      |        8208 |
+|      36 | 0x2011      |        8209 |
+|      37 | 0x2012      |        8210 |
+|      38 | 0x2013      |        8211 |
+|      39 | 0x2014      |        8212 |
+|      40 | 0x201C      |        8220 |
+|      41 | 0x201D      |        8221 |
+|      42 | 0x201E      |        8222 |
+|      43 | 0x201F      |        8223 |
+|      44 | 0x2020      |        8224 |
+|      45 | 0x2021      |        8225 |
+|      46 | 0x2022      |        8226 |
+|      47 | 0x2023      |        8227 |
+|      48 | 0x2024      |        8228 |
+|      49 | 0x2025      |        8229 |
+|      50 | 0x2026      |        8230 |
+|      51 | 0x2027      |        8231 |
+|      52 | 0x2028      |        8232 |
+|      53 | 0x2538      |        9528 |
+|      54 | 0x2539      |        9529 |
+|      55 | 0x2555      |        9557 |
+|      56 | 0x2556      |        9558 |
+|      57 | 0x25B6      |        9654 |
+|      58 | 0x25B7      |        9655 |
+|      59 | 0x25CE      |        9678 |
+|      60 | 0x25CF      |        9679 |
+|      61 | 0x25D0      |        9680 |
+|      62 | 0x25F4      |        9716 |
+|      63 | 0x25F5      |        9717 |
+|      64 | 0x2611      |        9745 |
+|      65 | 0x2612      |        9746 |
 
 ## String References
 
-- **7759**: Almost all of the Horutoto Ruins were blown to pieces twenty years ago due to the enormous magic of the heroic "Mastermind of the Millennium."
-- **7760**: The only magic tower left barely functioning, the southeastern one, is totally unstable-wable in the amount of energy it produces.
-- **7761**: So it's nigh on impossible to create quality Mana Orbs, which leaves us weakened dramatically.
-- **7780**: When you go about breathing life into the inanimate, who knows what will happen? We're just asking for trouble.
-- **7781**: But that's just a risk we Manustery employees have to take! It's just that...I wish they paid us a little more as hazard pay.
-- **8056**: The way you're walking around here, I'd swear you think that this ministry is an unusual sight.
-- **8057**: Hm? You think our Cardians are odd? Well, I'd say you're the odd one around herey-werey!
-- **8091**: The Cardians that Kopuro-Popuro makes cause all sorts of trouble. We can't take our eyes off of them for too long...
-- **8092**: Minister Apururu is too soft on him. The future of our Manustery is bleak indeed!
-- **8132**: I believe that particular Cardian you speak of was made by Kopuro-Popuro.
-- **8133**: Kopuro-Popuro has a habit of forgetting important things while always remembering the most useless of information. Like father, like son, eh?
-- **8143**: I don't think we should force Cardians to forget things they don't want to forget.
-- **8144**: It wouldn't hurt for our Cardians to have a little more individuality now, would it?
-- **8151**: Plan B?
-- **8157**: Hmm... Oh, really? Well, I don't know whether it's true or just an old wives' tale, but we could make a load of gil by selling such charms to the local goods stores, couldn'taru we?
-- **8158**: That was mighty useful information, especially coming from the likes of Kopuro-Popuro. So, how does one go about making these "Gadabout's Gris-gris" thingamabobs?
-- **8161**: I see... Great! Then we'll just make a heap of them to sell. We'll have money back in the Manustery's coffers in no time!
-- **8166**: So...I wonder how many of these "Gadabout's Gris-gris" thingamabobs we have to make to bring our budget back into the black.
-- **8167**: Well, finances aren't my concern, so I'll just concentrate on making the goods. I'll just keep making "Gadabout's Gris-gris" until we all drop from exhaustion.
-- **8177**: <Sigh>... I know, I know...you don't have to tell me. I should have realized this was a stupid idea earlier...
-- **8204**: What the...? She's offered to pay you $1 gil to find our missing Cardian? That's just the kind of stupid thing that puts us further and further into the red!
-- **8205**: If that Cardian's on its way back here, then it only means it's going to kick the bucket at any moment, rightaru?
-- **8206**: So why pay such a high price to find something as drop-dead useless as thataru!?
-- **8207**: It's like, why spend so much money on silly personal sentiments, when putting that gil towards creating a new Cardian is in everybody's interests?
-- **8208**: I'm sorry, but this time I'm going to have to put it to our Minister quite bluntly-wuntly!
-- **8209**: Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!
-- **8210**: First, against nature, you go provide lifeforce to empty vessels. Then you send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!
-- **8211**: Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!
-- **8219**: ......
-- **8220**: Oh, that's worthless. Such garbage deserves to be thrown into the trashcan.
-- **8221**: Oh, I see you found a piece of her, huh? This nut is indeed part of what was once the great Queen of Diamonds.
-- **8222**: Its marking has worn away, but I know a diamond house when I see it. See, I'm the one who makes the Diamond Cardians, you know?
-- **8223**: But I don't intend to pay you a single gil! It's still worthless garbage, even if it was one of my own. I'm different from Minister Apururu, you see. I don't allow my feelings to get caught up in my work...
-- **8224**: ...Huh? What's this here...?
-- **8225**: Was this on the starfruit when you found it?
-- **8226**: This ice...!? Why, its shape looks...almost like... ...a tear...
-- **8227**: Ah... It's melting...
-- **8228**: ... Well, I guess the Minister did promise it to you, so...I'll pay you the reward for finding this starfruit.
-- **8229**: But $1 gil is asking too much. Sorry, but you'll have to make do with $2 gil.
-- **8230**: No, I've not become all emotional, mind you! It was just a doll into which we breathed temporary life, rightaru?
-- **8231**: First, against nature, you provide lifeforce to empty vessels. Then you go send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!
-- **8473**: Cardian Cards have the ability to dispel the magic that has been placed on Cardians...it's kind of like an emergency stop or self-destruct button.
-- **8474**: Minister Apururu's father, the previous minister of our Manustery, could even remove magic without the use of Cards...but without him to show us, it's impossible for us to do it.
-- **8484**: The minister is so determined-wermined. I don'taru want her to go through with this, but it looks like nothing would stop her now.
-- **8485**: She tends to get carried away when it comes to matters about her father. We have to look out for her as much as we can!
-- **9527**: We have a lot to thank Minister Ajido-Marujido for. He might have mumble-grumbled about it, but he was always there to bail the Manustery out of money troubles.
-- **9528**: We justaru follow whatever Minister Apururu decides. No mattaru what happens, we're behind her until the fat Galka sings.
-- **9556**: Things don'taru look good. If Ajido-Marujido doesn't wake up, Minister Apururu may have murder-wurder to answer for...not just a jailbreak!
-- **9557**: Wait a minute. Wasn't there an adventurer who went to the dungeon with the minister? What if we shift all the blame onto [him/her]...?
-- **9653**: I heard that Minsiter Ajido-Marujido was pardoned for his crimes. Well, isn'taru that a surprise?
-- **9654**: This is, y'know, one of those high-level, governmentaru things. There's gotta be some back room, political-type dealy-weals going on here.
-- **9677**: You would definitely be able to slow the Cardians down with a big ol' blast of magey-wagey power.
-- **9678**: But the problem is where do you get that kinda power, and who do you get to handle it? To be perfectaruly honest I don't think Miss Apururu is up to it.
-- **9679**: Hmmm...if you could draw on the Mana Orbs of all the Cardians in town then maybe... I better not suggestaru that to the minister, she would just keel over from worry.
-- **9715**: Many Cardians died willingly for the sakey-wake of their king, the Cardian Joker.
-- **9716**: Former minister Zonpa-Zippa loved to build in those sorts of tragic loyalties... He probably put in a self-destructaru mechanism, too.
-- **9744**: Aren't the new Cardians that Kopuro-Popuro is making supposed to be for patrol duty?
-- **9745**: All they're doing is wandering around Sarutabaruta, not fighting anything. I wonder what they're doing out there? Looking for buried treasure?
+- **7760**: Almost all of the Horutoto Ruins were blown to pieces twenty years ago due to the enormous magic of the heroic "Mastermind of the Millennium."
+- **7761**: The only magic tower left barely functioning, the southeastern one, is totally unstable-wable in the amount of energy it produces.
+- **7762**: So it's nigh on impossible to create quality Mana Orbs, which leaves us weakened dramatically.
+- **7781**: When you go about breathing life into the inanimate, who knows what will happen? We're just asking for trouble.
+- **7782**: But that's just a risk we Manustery employees have to take! It's just that...I wish they paid us a little more as hazard pay.
+- **8057**: The way you're walking around here, I'd swear you think that this ministry is an unusual sight.
+- **8058**: Hm? You think our Cardians are odd? Well, I'd say you're the odd one around herey-werey!
+- **8092**: The Cardians that Kopuro-Popuro makes cause all sorts of trouble. We can't take our eyes off of them for too long...
+- **8093**: Minister Apururu is too soft on him. The future of our Manustery is bleak indeed!
+- **8133**: I believe that particular Cardian you speak of was made by Kopuro-Popuro.
+- **8134**: Kopuro-Popuro has a habit of forgetting important things while always remembering the most useless of information. Like father, like son, eh?
+- **8144**: I don't think we should force Cardians to forget things they don't want to forget.
+- **8145**: It wouldn't hurt for our Cardians to have a little more individuality now, would it?
+- **8152**: Plan B?
+- **8158**: Hmm... Oh, really? Well, I don't know whether it's true or just an old wives' tale, but we could make a load of gil by selling such charms to the local goods stores, couldn'taru we?
+- **8159**: That was mighty useful information, especially coming from the likes of Kopuro-Popuro. So, how does one go about making these "Gadabout's Gris-gris" thingamabobs?
+- **8162**: I see... Great! Then we'll just make a heap of them to sell. We'll have money back in the Manustery's coffers in no time!
+- **8167**: So...I wonder how many of these "Gadabout's Gris-gris" thingamabobs we have to make to bring our budget back into the black.
+- **8168**: Well, finances aren't my concern, so I'll just concentrate on making the goods. I'll just keep making "Gadabout's Gris-gris" until we all drop from exhaustion.
+- **8178**: <Sigh>... I know, I know...you don't have to tell me. I should have realized this was a stupid idea earlier...
+- **8205**: What the...? She's offered to pay you $1 gil to find our missing Cardian? That's just the kind of stupid thing that puts us further and further into the red!
+- **8206**: If that Cardian's on its way back here, then it only means it's going to kick the bucket at any moment, rightaru?
+- **8207**: So why pay such a high price to find something as drop-dead useless as thataru!?
+- **8208**: It's like, why spend so much money on silly personal sentiments, when putting that gil towards creating a new Cardian is in everybody's interests?
+- **8209**: I'm sorry, but this time I'm going to have to put it to our Minister quite bluntly-wuntly!
+- **8210**: Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!
+- **8211**: First, against nature, you go provide lifeforce to empty vessels. Then you send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!
+- **8212**: Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!
+- **8220**: ......
+- **8221**: Oh, that's worthless. Such garbage deserves to be thrown into the trashcan.
+- **8222**: Oh, I see you found a piece of her, huh? This nut is indeed part of what was once the great Queen of Diamonds.
+- **8223**: Its marking has worn away, but I know a diamond house when I see it. See, I'm the one who makes the Diamond Cardians, you know?
+- **8224**: But I don't intend to pay you a single gil! It's still worthless garbage, even if it was one of my own. I'm different from Minister Apururu, you see. I don't allow my feelings to get caught up in my work...
+- **8225**: ...Huh? What's this here...?
+- **8226**: Was this on the starfruit when you found it?
+- **8227**: This ice...!? Why, its shape looks...almost like... ...a tear...
+- **8228**: Ah... It's melting...
+- **8229**: ... Well, I guess the Minister did promise it to you, so...I'll pay you the reward for finding this starfruit.
+- **8230**: But $1 gil is asking too much. Sorry, but you'll have to make do with $2 gil.
+- **8231**: No, I've not become all emotional, mind you! It was just a doll into which we breathed temporary life, rightaru?
+- **8232**: First, against nature, you provide lifeforce to empty vessels. Then you go send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!
+- **8474**: Cardian Cards have the ability to dispel the magic that has been placed on Cardians...it's kind of like an emergency stop or self-destruct button.
+- **8475**: Minister Apururu's father, the previous minister of our Manustery, could even remove magic without the use of Cards...but without him to show us, it's impossible for us to do it.
+- **8485**: The minister is so determined-wermined. I don'taru want her to go through with this, but it looks like nothing would stop her now.
+- **8486**: She tends to get carried away when it comes to matters about her father. We have to look out for her as much as we can!
+- **9528**: We have a lot to thank Minister Ajido-Marujido for. He might have mumble-grumbled about it, but he was always there to bail the Manustery out of money troubles.
+- **9529**: We justaru follow whatever Minister Apururu decides. No mattaru what happens, we're behind her until the fat Galka sings.
+- **9557**: Things don'taru look good. If Ajido-Marujido doesn't wake up, Minister Apururu may have murder-wurder to answer for...not just a jailbreak!
+- **9558**: Wait a minute. Wasn't there an adventurer who went to the dungeon with the minister? What if we shift all the blame onto [him/her]...?
+- **9654**: I heard that Minsiter Ajido-Marujido was pardoned for his crimes. Well, isn'taru that a surprise?
+- **9655**: This is, y'know, one of those high-level, governmentaru things. There's gotta be some back room, political-type dealy-weals going on here.
+- **9678**: You would definitely be able to slow the Cardians down with a big ol' blast of magey-wagey power.
+- **9679**: But the problem is where do you get that kinda power, and who do you get to handle it? To be perfectaruly honest I don't think Miss Apururu is up to it.
+- **9680**: Hmmm...if you could draw on the Mana Orbs of all the Cardians in town then maybe... I better not suggestaru that to the minister, she would just keel over from worry.
+- **9716**: Many Cardians died willingly for the sakey-wake of their king, the Cardian Joker.
+- **9717**: Former minister Zonpa-Zippa loved to build in those sorts of tragic loyalties... He probably put in a self-destructaru mechanism, too.
+- **9745**: Aren't the new Cardians that Kopuro-Popuro is making supposed to be for patrol duty?
+- **9746**: All they're doing is wandering around Sarutabaruta, not fighting anything. I wonder what they're doing out there? Looking for buried treasure?
 
 ## Events
 
@@ -768,10 +768,10 @@
   1: 0x014B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=8056*)
+  4: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
     → "The way you're walking around here, I'd swear you think that this ministry is an unusual sight."
   5: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=8057*)
+  6: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
     → "Hm? You think our Cardians are odd? Well, I'd say you're the odd one around herey-werey!"
   7: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x015C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -805,13 +805,13 @@
   1: 0x016C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x016D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x016E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7759*)
+  4: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
     → "Almost all of the Horutoto Ruins were blown to pieces twenty years ago due to the enormous magic of the heroic "Mastermind of the Millennium.""
   5: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7760*)
+  6: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
     → "The only magic tower left barely functioning, the southeastern one, is totally unstable-wable in the amount of energy it produces."
   7: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7761*)
+  8: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
     → "So it's nigh on impossible to create quality Mana Orbs, which leaves us weakened dramatically."
   9: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -845,10 +845,10 @@
   1: 0x0191 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0192 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0193 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=7780*)
+  4: 0x019A [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
     → "When you go about breathing life into the inanimate, who knows what will happen? We're just asking for trouble."
   5: 0x019D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7781*)
+  6: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
     → "But that's just a risk we Manustery employees have to take! It's just that...I wish they paid us a little more as hazard pay."
   7: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -882,10 +882,10 @@
   1: 0x01B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
+  4: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
     → "The Cardians that Kopuro-Popuro makes cause all sorts of trouble. We can't take our eyes off of them for too long..."
   5: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+  6: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "Minister Apururu is too soft on him. The future of our Manustery is bleak indeed!"
   7: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -919,10 +919,10 @@
   1: 0x01D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "I believe that particular Cardian you speak of was made by Kopuro-Popuro."
   5: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+  6: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "Kopuro-Popuro has a habit of forgetting important things while always remembering the most useless of information. Like father, like son, eh?"
   7: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -956,10 +956,10 @@
   1: 0x01F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8143*)
+  4: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8144*)
     → "I don't think we should force Cardians to forget things they don't want to forget."
   5: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8144*)
+  6: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=8145*)
     → "It wouldn't hurt for our Cardians to have a little more individuality now, would it?"
   7: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0205 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1009,7 +1009,7 @@
 #### Opcodes
 
 ```
-  0: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8151*)
+  0: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=8152*)
     → "Plan B?"
   1: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0215 [0x00] END_REQSTACK()
@@ -1036,7 +1036,7 @@
 
 ```
   0: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  1: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
+  1: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
     → "Hmm... Oh, really? Well, I don't know whether it's true or just an old wives' tale, but we could make a load of gil by selling such charms to the local goods stores, couldn'taru we?"
   2: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
@@ -1064,7 +1064,7 @@
 
 ```
   0: 0x0229 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8158*)
+  1: 0x0230 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
     → "That was mighty useful information, especially coming from the likes of Kopuro-Popuro. So, how does one go about making these "Gadabout's Gris-gris" thingamabobs?"
   2: 0x0233 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0234 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)
@@ -1092,7 +1092,7 @@
 
 ```
   0: 0x023C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  1: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
+  1: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
     → "I see... Great! Then we'll just make a heap of them to sell. We'll have money back in the Manustery's coffers in no time!"
   2: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0247 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1124,10 +1124,10 @@
   1: 0x0254 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0255 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0256 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
+  4: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
     → "So...I wonder how many of these "Gadabout's Gris-gris" thingamabobs we have to make to bring our budget back into the black."
   5: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
+  6: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=8168*)
     → "Well, finances aren't my concern, so I'll just concentrate on making the goods. I'll just keep making "Gadabout's Gris-gris" until we all drop from exhaustion."
   7: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0265 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1182,7 +1182,7 @@
   1: 0x0276 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0277 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0278 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0B)
-  4: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8177*)
+  4: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
     → "<Sigh>... I know, I know...you don't have to tell me. I should have realized this was a stupid idea earlier..."
   5: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0283 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0C)
@@ -1216,10 +1216,10 @@
   1: 0x0293 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0294 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0295 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8473*)
+  4: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8474*)
     → "Cardian Cards have the ability to dispel the magic that has been placed on Cardians...it's kind of like an emergency stop or self-destruct button."
   5: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8474*)
+  6: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8475*)
     → "Minister Apururu's father, the previous minister of our Manustery, could even remove magic without the use of Cards...but without him to show us, it's impossible for us to do it."
   7: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1253,10 +1253,10 @@
   1: 0x02B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8484*)
+  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8485*)
     → "The minister is so determined-wermined. I don'taru want her to go through with this, but it looks like nothing would stop her now."
   5: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8485*)
+  6: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8486*)
     → "She tends to get carried away when it comes to matters about her father. We have to look out for her as much as we can!"
   7: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1343,7 +1343,7 @@
 
 ```
   0: 0x0301 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x09)
-  1: 0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
+  1: 0x0308 [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
     → "What the...? She's offered to pay you $1 gil to find our missing Cardian? That's just the kind of stupid thing that puts us further and further into the red!"
   2: 0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x030C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0A)
@@ -1371,10 +1371,10 @@
 
 ```
   0: 0x0314 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0D)
-  1: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=8205*)
+  1: 0x031B [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
     → "If that Cardian's on its way back here, then it only means it's going to kick the bucket at any moment, rightaru?"
   2: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=8206*)
+  3: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
     → "So why pay such a high price to find something as drop-dead useless as thataru!?"
   4: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0323 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0E)
@@ -1402,7 +1402,7 @@
 
 ```
   0: 0x032B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  1: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8207*)
+  1: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
     → "It's like, why spend so much money on silly personal sentiments, when putting that gil towards creating a new Cardian is in everybody's interests?"
   2: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0336 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
@@ -1432,12 +1432,12 @@
 
 ```
   0: 0x033E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  1: 0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=8208*)
+  1: 0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
     → "I'm sorry, but this time I'm going to have to put it to our Minister quite bluntly-wuntly!"
   2: 0x0348 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0349 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)
   4: 0x0350 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x11)
-  5: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=8209*)
+  5: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
     → "Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!"
   6: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x035B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x12)
@@ -1469,10 +1469,10 @@
   1: 0x0368 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0369 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x036A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x11)
-  4: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=8210*)
+  4: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
     → "First, against nature, you go provide lifeforce to empty vessels. Then you send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!"
   5: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=8211*)
+  6: 0x0375 [0x1D] PRINT_EVENT_MESSAGE(message_id=8212*)
     → "Even if you or anyone else finds old Queen of Diamonds for us, we won't be coughing up a single gil, I tell you! I'm totally against such tomfoolery!"
   7: 0x0378 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0379 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x12)
@@ -1506,11 +1506,11 @@
   1: 0x0389 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x038A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x038B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x07)
-  4: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=8219*)
+  4: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
     → "......"
   5: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0396 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x08)
-  7: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=8220*)
+  7: 0x039D [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
     → "Oh, that's worthless. Such garbage deserves to be thrown into the trashcan."
   8: 0x03A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03A1 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1561,7 +1561,7 @@
 
 ```
   0: 0x03A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x11)
-  1: 0x03AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8221*)
+  1: 0x03AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
     → "Oh, I see you found a piece of her, huh? This nut is indeed part of what was once the great Queen of Diamonds."
   2: 0x03B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x12)
@@ -1589,14 +1589,14 @@
 #### Opcodes
 
 ```
-  0: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8222*)
+  0: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
     → "Its marking has worn away, but I know a diamond house when I see it. See, I'm the one who makes the Diamond Cardians, you know?"
   1: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03BD [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x03C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x03C3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x03C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0F)
-  6: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8223*)
+  6: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8224*)
     → "But I don't intend to pay you a single gil! It's still worthless garbage, even if it was one of my own. I'm different from Minister Apururu, you see. I don't allow my feelings to get caught up in my work..."
   7: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x10)
@@ -1622,7 +1622,7 @@
 #### Opcodes
 
 ```
-  0: 0x03D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8224*)
+  0: 0x03D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8225*)
     → "...Huh? What's this here...?"
   1: 0x03DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03DB [0x00] END_REQSTACK()
@@ -1648,10 +1648,10 @@
 #### Opcodes
 
 ```
-  0: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8225*)
+  0: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=8226*)
     → "Was this on the starfruit when you found it?"
   1: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8226*)
+  2: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8227*)
     → "This ice...!? Why, its shape looks...almost like... ...a tear..."
   3: 0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x03E4 [0x00] END_REQSTACK()
@@ -1678,7 +1678,7 @@
 
 ```
   0: 0x03E5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x0C)
-  1: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8227*)
+  1: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
     → "Ah... It's melting..."
   2: 0x03EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03F0 [0x00] END_REQSTACK()
@@ -1703,7 +1703,7 @@
 #### Opcodes
 
 ```
-  0: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8228*)
+  0: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
     → "... Well, I guess the Minister did promise it to you, so...I'll pay you the reward for finding this starfruit."
   1: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03F5 [0x00] END_REQSTACK()
@@ -1730,7 +1730,7 @@
 
 ```
   0: 0x03F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x13)
-  1: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8229*)
+  1: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
     → "But $1 gil is asking too much. Sorry, but you'll have to make do with $2 gil."
   2: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x14)
@@ -1762,10 +1762,10 @@
   1: 0x040E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x040F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0410 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=8230*)
+  4: 0x0417 [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
     → "No, I've not become all emotional, mind you! It was just a doll into which we breathed temporary life, rightaru?"
   5: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x041B [0x1D] PRINT_EVENT_MESSAGE(message_id=8231*)
+  6: 0x041B [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
     → "First, against nature, you provide lifeforce to empty vessels. Then you go send them out into the battlefields. If you're going to cry about it when they drop dead, then you'd might as well not make the damned things to begin with!"
   7: 0x041E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x041F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1800,12 +1800,12 @@
   1: 0x042F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0430 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0431 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  4: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=9527*)
+  4: 0x0438 [0x1D] PRINT_EVENT_MESSAGE(message_id=9528*)
     → "We have a lot to thank Minister Ajido-Marujido for. He might have mumble-grumbled about it, but he was always there to bail the Manustery out of money troubles."
   5: 0x043B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x043C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
   7: 0x0443 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  8: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=9528*)
+  8: 0x044A [0x1D] PRINT_EVENT_MESSAGE(message_id=9529*)
     → "We justaru follow whatever Minister Apururu decides. No mattaru what happens, we're behind her until the fat Galka sings."
   9: 0x044D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x044E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)
@@ -1840,12 +1840,12 @@
   1: 0x045E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x045F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0460 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x11)
-  4: 0x0467 [0x1D] PRINT_EVENT_MESSAGE(message_id=9556*)
+  4: 0x0467 [0x1D] PRINT_EVENT_MESSAGE(message_id=9557*)
     → "Things don'taru look good. If Ajido-Marujido doesn't wake up, Minister Apururu may have murder-wurder to answer for...not just a jailbreak!"
   5: 0x046A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x046B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x12)
   7: 0x0472 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  8: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=9557*)
+  8: 0x0479 [0x1D] PRINT_EVENT_MESSAGE(message_id=9558*)
     → "Wait a minute. Wasn't there an adventurer who went to the dungeon with the minister? What if we shift all the blame onto [him/her]...?"
   9: 0x047C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x047D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
@@ -1926,12 +1926,12 @@
   1: 0x0493 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0494 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0495 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  4: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=9653*)
+  4: 0x049C [0x1D] PRINT_EVENT_MESSAGE(message_id=9654*)
     → "I heard that Minsiter Ajido-Marujido was pardoned for his crimes. Well, isn'taru that a surprise?"
   5: 0x049F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
   7: 0x04A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  8: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9654*)
+  8: 0x04AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9655*)
     → "This is, y'know, one of those high-level, governmentaru things. There's gotta be some back room, political-type dealy-weals going on here."
   9: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)
@@ -1968,17 +1968,17 @@
   1: 0x04C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04C3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x01)
-  4: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
+  4: 0x04CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
     → "You would definitely be able to slow the Cardians down with a big ol' blast of magey-wagey power."
   5: 0x04CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x02)
   7: 0x04D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x11)
-  8: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
+  8: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
     → "But the problem is where do you get that kinda power, and who do you get to handle it? To be perfectaruly honest I don't think Miss Apururu is up to it."
   9: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x12)
  11: 0x04E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
- 12: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9679*)
+ 12: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
     → "Hmmm...if you could draw on the Mana Orbs of all the Cardians in town then maybe... I better not suggestaru that to the minister, she would just keel over from worry."
  13: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x04F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
@@ -2015,12 +2015,12 @@
   1: 0x0511 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0512 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0513 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  4: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
+  4: 0x051A [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
     → "Many Cardians died willingly for the sakey-wake of their king, the Cardian Joker."
   5: 0x051D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x051E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
   7: 0x0525 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  8: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
+  8: 0x052C [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
     → "Former minister Zonpa-Zippa loved to build in those sorts of tragic loyalties... He probably put in a self-destructaru mechanism, too."
   9: 0x052F [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0530 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)
@@ -2116,12 +2116,12 @@
   1: 0x0575 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0576 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0577 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x03)
-  4: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
+  4: 0x057E [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
     → "Aren't the new Cardians that Kopuro-Popuro is making supposed to be for patrol duty?"
   5: 0x0581 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0582 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x04)
   7: 0x0589 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x05)
-  8: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=9745*)
+  8: 0x0590 [0x1D] PRINT_EVENT_MESSAGE(message_id=9746*)
     → "All they're doing is wandering around Sarutabaruta, not fighting anything. I wonder what they're doing out there? Looking for buried treasure?"
   9: 0x0593 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0594 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Boizo-Naizo (ID: 17764373/0x010F1015), tag_num=0x06)

@@ -26,43 +26,43 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FE6      |        8166 |
+|       0 | 0x1FE7      |        8167 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x1FE7      |        8167 |
-|       3 | 0x1FE8      |        8168 |
-|       4 | 0x1FE9      |        8169 |
-|       5 | 0x1FEA      |        8170 |
+|       2 | 0x1FE8      |        8168 |
+|       3 | 0x1FE9      |        8169 |
+|       4 | 0x1FEA      |        8170 |
+|       5 | 0x1FEB      |        8171 |
 |       6 | 0x06E2      |        1762 |
-|       7 | 0x1FEB      |        8171 |
-|       8 | 0x1FEC      |        8172 |
-|       9 | 0x1FF9      |        8185 |
-|      10 | 0x1FFA      |        8186 |
-|      11 | 0x1FFB      |        8187 |
+|       7 | 0x1FEC      |        8172 |
+|       8 | 0x1FED      |        8173 |
+|       9 | 0x1FFA      |        8186 |
+|      10 | 0x1FFB      |        8187 |
+|      11 | 0x1FFC      |        8188 |
 |      12 | 0x06E3      |        1763 |
-|      13 | 0x1FFC      |        8188 |
-|      14 | 0x1FFD      |        8189 |
-|      15 | 0x1FFE      |        8190 |
-|      16 | 0x1FFF      |        8191 |
+|      13 | 0x1FFD      |        8189 |
+|      14 | 0x1FFE      |        8190 |
+|      15 | 0x1FFF      |        8191 |
+|      16 | 0x2000      |        8192 |
 |      17 | 0x00C9      |         201 |
 |      18 | 0x0000      |           0 |
-|      19 | 0x2000      |        8192 |
+|      19 | 0x2001      |        8193 |
 
 ## String References
 
-- **8166**: Curses! Curse it all!
-- **8168**: That face! Could you perchance be the <Player> I've heard rumors about? Oh, this is a fortunate day indeed!
-- **8169**: I am a researcher of wyverns, and one of no small repute. That day when the hordes took the Kingdom, I was in my laboratory, having just received a report from a reliable source that a dragon egg had been sighted in the sands of Altepa.
-- **8170**: Somehow, by the Goddess's good graces, my life was spared from the onslaught. I regained my senses, and where do I find myself but the very land to which I was planning my next research expedition!
-- **8171**: But alas, there is always a rub. Search though I might, the $3 I seek seems to have been buried deep beneath the shifting sands... 'Tis small surprise, given the unstable conditions these days.
-- **8172**: I am a mere academic, hardly suited for traipsing across this wasteland on a wild $3 chase. But you--you have powers the rest of us could never hope to possess! Please, you must help me find it!
-- **8185**: The dragon's rightful home!? Wherever did you hear that from?
-- **8186**: The tales say that the $3 will hatch if laid to rest on Drogaroga's Spine in the Meriphataud Mountains.
-- **8187**: But alas... Ever since the earthquakes disfigured the land, I fear that no road will take you there...
-- **8188**: Why, that is... It couldn't be! 6? Does this mean that...
-- **8189**: So the $3 has already hatched. Ah, for shame that I could not be there to witness this historic moment!
-- **8190**: Still, I feel some measure of solace in knowing that the creature has returned to its rightful home. Doubtless you've done the wyvern a great kindness.
-- **8191**: Consider this yours, as a humble token of my gratitude.
-- **8192**: Doubtless you've done the wyvern a great kindness, friend. You have my gratitude.
+- **8167**: Curses! Curse it all!
+- **8169**: That face! Could you perchance be the <Player> I've heard rumors about? Oh, this is a fortunate day indeed!
+- **8170**: I am a researcher of wyverns, and one of no small repute. That day when the hordes took the Kingdom, I was in my laboratory, having just received a report from a reliable source that a dragon egg had been sighted in the sands of Altepa.
+- **8171**: Somehow, by the Goddess's good graces, my life was spared from the onslaught. I regained my senses, and where do I find myself but the very land to which I was planning my next research expedition!
+- **8172**: But alas, there is always a rub. Search though I might, the $3 I seek seems to have been buried deep beneath the shifting sands... 'Tis small surprise, given the unstable conditions these days.
+- **8173**: I am a mere academic, hardly suited for traipsing across this wasteland on a wild $3 chase. But you--you have powers the rest of us could never hope to possess! Please, you must help me find it!
+- **8186**: The dragon's rightful home!? Wherever did you hear that from?
+- **8187**: The tales say that the $3 will hatch if laid to rest on Drogaroga's Spine in the Meriphataud Mountains.
+- **8188**: But alas... Ever since the earthquakes disfigured the land, I fear that no road will take you there...
+- **8189**: Why, that is... It couldn't be! 6? Does this mean that...
+- **8190**: So the $3 has already hatched. Ah, for shame that I could not be there to witness this historic moment!
+- **8191**: Still, I feel some measure of solace in knowing that the creature has returned to its rightful home. Doubtless you've done the wyvern a great kindness.
+- **8192**: Consider this yours, as a humble token of my gratitude.
+- **8193**: Doubtless you've done the wyvern a great kindness, friend. You have my gratitude.
 
 ## Events
 
@@ -108,12 +108,12 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8166*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=8167*)
     → "Curses! Curse it all!"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x4A] Morjean (ID: 17670753/0x010DA261) looks at LocalPlayer
   3: 0x000E [0x1C] WAIT(20* ticks)
-  4: 0x0011 [0x2B] Morjean (ID: 17670753/0x010DA261) [8167*]:
+  4: 0x0011 [0x2B] Morjean (ID: 17670753/0x010DA261) [8168*]:
     → "As you can see, the doctor's a bit out of sorts at the moment. Pray leave him be, stranger."
   5: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0019 [0x21] END_EVENT
@@ -144,22 +144,22 @@
 ```
   0: 0x001B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0020 [0x1C] WAIT(20* ticks)
-  2: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8168*)
+  2: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
     → "That face! Could you perchance be the <Player> I've heard rumors about? Oh, this is a fortunate day indeed!"
   3: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8169*)
+  4: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
     → "I am a researcher of wyverns, and one of no small repute. That day when the hordes took the Kingdom, I was in my laboratory, having just received a report from a reliable source that a dragon egg had been sighted in the sands of Altepa."
   5: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
+  6: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
     → "Somehow, by the Goddess's good graces, my life was spared from the onslaught. I regained my senses, and where do I find myself but the very land to which I was planning my next research expedition!"
   7: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x002F [0x03] Work_Zone[2] = 1762*
-  9: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+  9: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "But alas, there is always a rub. Search though I might, the $3 I seek seems to have been buried deep beneath the shifting sands... 'Tis small surprise, given the unstable conditions these days."
  10: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0038 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  12: 0x0039 [0x03] Work_Zone[2] = 1762*
- 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+ 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "I am a mere academic, hardly suited for traipsing across this wasteland on a wild $3 chase. But you--you have powers the rest of us could never hope to possess! Please, you must help me find it!"
  14: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0042 [0x21] END_EVENT
@@ -189,7 +189,7 @@
   0: 0x0044 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0049 [0x1C] WAIT(20* ticks)
   2: 0x004C [0x03] Work_Zone[2] = 1762*
-  3: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
+  3: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=8173*)
     → "I am a mere academic, hardly suited for traipsing across this wasteland on a wild $3 chase. But you--you have powers the rest of us could never hope to possess! Please, you must help me find it!"
   4: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0055 [0x21] END_EVENT
@@ -219,14 +219,14 @@
 ```
   0: 0x0057 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x005C [0x1C] WAIT(20* ticks)
-  2: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
+  2: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
     → "The dragon's rightful home!? Wherever did you hear that from?"
   3: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0063 [0x03] Work_Zone[2] = 1762*
-  5: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+  5: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "The tales say that the $3 will hatch if laid to rest on Drogaroga's Spine in the Meriphataud Mountains."
   6: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+  7: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "But alas... Ever since the earthquakes disfigured the land, I fear that no road will take you there..."
   8: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0070 [0x21] END_EVENT
@@ -256,10 +256,10 @@
   0: 0x0072 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0077 [0x1C] WAIT(20* ticks)
   2: 0x007A [0x03] Work_Zone[2] = 1762*
-  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "The tales say that the $3 will hatch if laid to rest on Drogaroga's Spine in the Meriphataud Mountains."
   4: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
+  5: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
     → "But alas... Ever since the earthquakes disfigured the land, I fear that no road will take you there..."
   6: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0087 [0x21] END_EVENT
@@ -291,17 +291,17 @@
   0: 0x0089 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x008E [0x1C] WAIT(20* ticks)
   2: 0x0091 [0x03] Work_Zone[2] = 1763*
-  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8188*)
+  3: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=8189*)
     → "Why, that is... It couldn't be! 6? Does this mean that..."
   4: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009A [0x03] Work_Zone[3] = 1762*
-  6: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8189*)
+  6: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8190*)
     → "So the $3 has already hatched. Ah, for shame that I could not be there to witness this historic moment!"
   7: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8190*)
+  8: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
     → "Still, I feel some measure of solace in knowing that the creature has returned to its rightful home. Doubtless you've done the wyvern a great kindness."
   9: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8191*)
+ 10: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
     → "Consider this yours, as a humble token of my gratitude."
  11: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00AB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -331,7 +331,7 @@
 ```
   0: 0x00BE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C3 [0x1C] WAIT(20* ticks)
-  2: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8192*)
+  2: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8193*)
     → "Doubtless you've done the wyvern a great kindness, friend. You have my gratitude."
   3: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00CA [0x21] END_EVENT

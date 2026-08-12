@@ -25,56 +25,56 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x20A6      |        8358 |
-|       1 | 0x20A7      |        8359 |
-|       2 | 0x20A8      |        8360 |
-|       3 | 0x20A9      |        8361 |
-|       4 | 0x20AA      |        8362 |
-|       5 | 0x20AB      |        8363 |
+|       0 | 0x20A7      |        8359 |
+|       1 | 0x20A8      |        8360 |
+|       2 | 0x20A9      |        8361 |
+|       3 | 0x20AA      |        8362 |
+|       4 | 0x20AB      |        8363 |
+|       5 | 0x20AC      |        8364 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x20AC      |        8364 |
+|       7 | 0x20AD      |        8365 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x20AD      |        8365 |
+|       9 | 0x20AE      |        8366 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x20AE      |        8366 |
-|      12 | 0x20AF      |        8367 |
-|      13 | 0x20B8      |        8376 |
-|      14 | 0x20B0      |        8368 |
+|      11 | 0x20AF      |        8367 |
+|      12 | 0x20B0      |        8368 |
+|      13 | 0x20B9      |        8377 |
+|      14 | 0x20B1      |        8369 |
 |      15 | 0x0400      |        1024 |
 |      16 | 0x003C      |          60 |
 |      17 | 0x002C      |          44 |
 |      18 | 0x00B4      |         180 |
-|      19 | 0x20B1      |        8369 |
-|      20 | 0x20B2      |        8370 |
-|      21 | 0x20B3      |        8371 |
-|      22 | 0x20B4      |        8372 |
+|      19 | 0x20B2      |        8370 |
+|      20 | 0x20B3      |        8371 |
+|      21 | 0x20B4      |        8372 |
+|      22 | 0x20B5      |        8373 |
 |      23 | 0x0003      |           3 |
-|      24 | 0x20B5      |        8373 |
-|      25 | 0x20B6      |        8374 |
-|      26 | 0x20B7      |        8375 |
+|      24 | 0x20B6      |        8374 |
+|      25 | 0x20B7      |        8375 |
+|      26 | 0x20B8      |        8376 |
 |      27 | 0x00C9      |         201 |
 
 ## String References
 
-- **8358**: Feast your eyes upon this searing ward! Is she not a beauty? And who do you suppose has been charged with the vital task of keeping it fully operational? None other than I, Belgidiveau!
-- **8359**: Why, if this ward were to fall, we would lose the only place in the inlet where we can give our hearts a moment's respite. Surely you can understand its--and by extension, my--stupendous importance?
-- **8360**: You, on the other hand, strike me as someone with an abundance of time on [his/her] hands. Fortunately, I am prepared to offer you the opportunity to make yourself almost as useful as I.
-- **8361**: "A drudge such as I, as valuable as the esteemed Belgidiveau!? Impossible!" you say...and you would be correct. But as I am far too important to sully my hands with menial work, I require a lesser being--such as yourself--to perform such tasks in my stead.
-- **8362**: First, you are to retrieve a body part--limb, nail, organ, any will suffice--from one of the fiends that roam the area, and bring it back to me. Then we shall hurl it against the ward to ensure that it still holds strong. Can I count on you to be the back upon which my greatness stands? What say you?
-- **8363**: What say you? [Anything to aid the cause!/Sorry, I have better things to do.]
-- **8364**: Excellent! Clearly, you are a [man/woman] with [his/her] priorities straight. Remember, any part of a fiend's body will do. Now hurry along!
-- **8365**: Content to wander aimlessly in obscurity while your superiors contribute to the betterment of society? Doubtless, your ancestors are rolling in their graves this very moment for the shame!
-- **8366**: Come back to make yourself useful, have you?
-- **8367**: Remember, you must acquire the body part of an Abyssean fiend and deliver it here to me. Then, we shall hurl it against the ward and ensure that the protective field still holds.
-- **8368**: Excellent! You're not half as helpless as you look. Now, we cast this against the ward, and...
-- **8369**: Oh ho! Look at it bounce off like a fly on a ruszor's mighty paunch! Sturdy as ever, it seems. Little surprise, of course, with a man of my peerless skills looking her over.
-- **8370**: Well, how does it feel to have played lackey to a true hero of Abyssea? Here, take this as a memento of your fifteen seconds of fame.
-- **8371**: What's this? I've not seen the ward waver like that before. Our foe's power burgeons by the day, it would seem.
-- **8372**: Fortunately, the process of strengthening the ward to meet this new challenge will be as child's play to an engineer of my skills. At any rate, have this, that you may never forget the day that you assisted the incomparable Belgidiveau!
-- **8373**: It breached the ward!? Belgidiveau's impervious ward!? Inconceivable!
-- **8374**: But just wait, you fiends! You will rue the day you crossed-- ...Hm, you're still here? Yes, yes, take this for your troubles, and leave me to my work.
-- **8375**: Ahem. I believe I asked you for a body part from an Abyssean fiend. Does this look like a fiend's body part to you? If it does, I suggest you procure yourself a quality pair of spectacles.
-- **8376**: Oh, it's you. Back to experience the tremendous sense of satisfaction that can only come from performing menial tasks for Abyssea's best and brightest, are we?
+- **8359**: Feast your eyes upon this searing ward! Is she not a beauty? And who do you suppose has been charged with the vital task of keeping it fully operational? None other than I, Belgidiveau!
+- **8360**: Why, if this ward were to fall, we would lose the only place in the inlet where we can give our hearts a moment's respite. Surely you can understand its--and by extension, my--stupendous importance?
+- **8361**: You, on the other hand, strike me as someone with an abundance of time on [his/her] hands. Fortunately, I am prepared to offer you the opportunity to make yourself almost as useful as I.
+- **8362**: "A drudge such as I, as valuable as the esteemed Belgidiveau!? Impossible!" you say...and you would be correct. But as I am far too important to sully my hands with menial work, I require a lesser being--such as yourself--to perform such tasks in my stead.
+- **8363**: First, you are to retrieve a body part--limb, nail, organ, any will suffice--from one of the fiends that roam the area, and bring it back to me. Then we shall hurl it against the ward to ensure that it still holds strong. Can I count on you to be the back upon which my greatness stands? What say you?
+- **8364**: What say you? [Anything to aid the cause!/Sorry, I have better things to do.]
+- **8365**: Excellent! Clearly, you are a [man/woman] with [his/her] priorities straight. Remember, any part of a fiend's body will do. Now hurry along!
+- **8366**: Content to wander aimlessly in obscurity while your superiors contribute to the betterment of society? Doubtless, your ancestors are rolling in their graves this very moment for the shame!
+- **8367**: Come back to make yourself useful, have you?
+- **8368**: Remember, you must acquire the body part of an Abyssean fiend and deliver it here to me. Then, we shall hurl it against the ward and ensure that the protective field still holds.
+- **8369**: Excellent! You're not half as helpless as you look. Now, we cast this against the ward, and...
+- **8370**: Oh ho! Look at it bounce off like a fly on a ruszor's mighty paunch! Sturdy as ever, it seems. Little surprise, of course, with a man of my peerless skills looking her over.
+- **8371**: Well, how does it feel to have played lackey to a true hero of Abyssea? Here, take this as a memento of your fifteen seconds of fame.
+- **8372**: What's this? I've not seen the ward waver like that before. Our foe's power burgeons by the day, it would seem.
+- **8373**: Fortunately, the process of strengthening the ward to meet this new challenge will be as child's play to an engineer of my skills. At any rate, have this, that you may never forget the day that you assisted the incomparable Belgidiveau!
+- **8374**: It breached the ward!? Belgidiveau's impervious ward!? Inconceivable!
+- **8375**: But just wait, you fiends! You will rue the day you crossed-- ...Hm, you're still here? Yes, yes, take this for your troubles, and leave me to my work.
+- **8376**: Ahem. I believe I asked you for a body part from an Abyssean fiend. Does this look like a fiend's body part to you? If it does, I suggest you procure yourself a quality pair of spectacles.
+- **8377**: Oh, it's you. Back to experience the tremendous sense of satisfaction that can only come from performing menial tasks for Abyssea's best and brightest, are we?
 
 ## Events
 
@@ -125,32 +125,32 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8358*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8359*)
     → "Feast your eyes upon this searing ward! Is she not a beauty? And who do you suppose has been charged with the vital task of keeping it fully operational? None other than I, Belgidiveau!"
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8359*)
+  4: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=8360*)
     → "Why, if this ward were to fall, we would lose the only place in the inlet where we can give our hearts a moment's respite. Surely you can understand its--and by extension, my--stupendous importance?"
   5: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8360*)
+  6: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
     → "You, on the other hand, strike me as someone with an abundance of time on [his/her] hands. Fortunately, I am prepared to offer you the opportunity to make yourself almost as useful as I."
   7: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
+  8: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
     → ""A drudge such as I, as valuable as the esteemed Belgidiveau!? Impossible!" you say...and you would be correct. But as I am far too important to sully my hands with menial work, I require a lesser being--such as yourself--to perform such tasks in my stead."
   9: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
+ 10: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8363*)
     → "First, you are to retrieve a body part--limb, nail, organ, any will suffice--from one of the fiends that roam the area, and bring it back to me. Then we shall hurl it against the ward to ensure that it still holds strong. Can I count on you to be the back upon which my greatness stands? What say you?"
  11: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x001B [0x24] CREATE_DIALOG(message_id=8363*, default_option=0*, option_flags=0*)
+ 12: 0x001B [0x24] CREATE_DIALOG(message_id=8364*, default_option=0*, option_flags=0*)
     → "What say you? [Anything to aid the cause!/Sorry, I have better things to do.]"
  13: 0x0022 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0023 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038
  15: 0x002B [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 16: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8364*)
+ 16: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
     → "Excellent! Clearly, you are a [man/woman] with [his/her] priorities straight. Remember, any part of a fiend's body will do. Now hurry along!"
  17: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0030 [0x03] Work_Zone[1] = 1*
  19: 0x0035 [0x01] GOTO 0x0041
- 20: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
+ 20: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8366*)
     → "Content to wander aimlessly in obscurity while your superiors contribute to the betterment of society? Doubtless, your ancestors are rolling in their graves this very moment for the shame!"
  21: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x003C [0x03] Work_Zone[1] = 2*
@@ -183,20 +183,20 @@ SUBROUTINE_0041:
 
 ```
   0: 0x0043 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8366*)
+  1: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=8367*)
     → "Come back to make yourself useful, have you?"
   2: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x004C [0x24] CREATE_DIALOG(message_id=8363*, default_option=0*, option_flags=0*)
+  3: 0x004C [0x24] CREATE_DIALOG(message_id=8364*, default_option=0*, option_flags=0*)
     → "What say you? [Anything to aid the cause!/Sorry, I have better things to do.]"
   4: 0x0053 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0054 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0069
   6: 0x005C [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=8364*)
+  7: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
     → "Excellent! Clearly, you are a [man/woman] with [his/her] priorities straight. Remember, any part of a fiend's body will do. Now hurry along!"
   8: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0061 [0x03] Work_Zone[1] = 1*
  10: 0x0066 [0x01] GOTO 0x0072
- 11: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
+ 11: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8366*)
     → "Content to wander aimlessly in obscurity while your superiors contribute to the betterment of society? Doubtless, your ancestors are rolling in their graves this very moment for the shame!"
  12: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x006D [0x03] Work_Zone[1] = 2*
@@ -226,7 +226,7 @@ SUBROUTINE_0072:
 
 ```
   0: 0x0074 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8367*)
+  1: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8368*)
     → "Remember, you must acquire the body part of an Abyssean fiend and deliver it here to me. Then, we shall hurl it against the ward and ensure that the protective field still holds."
   2: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x007D [0x21] END_EVENT
@@ -256,20 +256,20 @@ SUBROUTINE_0072:
 
 ```
   0: 0x007F [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
+  1: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=8377*)
     → "Oh, it's you. Back to experience the tremendous sense of satisfaction that can only come from performing menial tasks for Abyssea's best and brightest, are we?"
   2: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0088 [0x24] CREATE_DIALOG(message_id=8363*, default_option=0*, option_flags=0*)
+  3: 0x0088 [0x24] CREATE_DIALOG(message_id=8364*, default_option=0*, option_flags=0*)
     → "What say you? [Anything to aid the cause!/Sorry, I have better things to do.]"
   4: 0x008F [0x25] WAIT_DIALOG_SELECT()
   5: 0x0090 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A5
   6: 0x0098 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  7: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=8364*)
+  7: 0x0099 [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
     → "Excellent! Clearly, you are a [man/woman] with [his/her] priorities straight. Remember, any part of a fiend's body will do. Now hurry along!"
   8: 0x009C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x009D [0x03] Work_Zone[1] = 1*
  10: 0x00A2 [0x01] GOTO 0x00AE
- 11: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8365*)
+ 11: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8366*)
     → "Content to wander aimlessly in obscurity while your superiors contribute to the betterment of society? Doubtless, your ancestors are rolling in their graves this very moment for the shame!"
  12: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00A9 [0x03] Work_Zone[1] = 2*
@@ -308,7 +308,7 @@ SUBROUTINE_00AE:
   0: 0x00B0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00B1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x00B6 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  3: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8368*)
+  3: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8369*)
     → "Excellent! You're not half as helpless as you look. Now, we cast this against the ward, and..."
   4: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00BF [0x39] SET_ENTITY_DIRECTION(direction=5.6°*)
@@ -318,30 +318,30 @@ SUBROUTINE_00AE:
   9: 0x00D1 [0x1C] WAIT(180* ticks)
  10: 0x00D4 [0x1E] EventEntity looks at LocalPlayer and starts talking
  11: 0x00D9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x00EC
- 12: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8369*)
+ 12: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8370*)
     → "Oh ho! Look at it bounce off like a fly on a ruszor's mighty paunch! Sturdy as ever, it seems. Little surprise, of course, with a man of my peerless skills looking her over."
  13: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8370*)
+ 14: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8371*)
     → "Well, how does it feel to have played lackey to a true hero of Abyssea? Here, take this as a memento of your fifteen seconds of fame."
  15: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00E9 [0x01] GOTO 0x0116
  17: 0x00EC [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x00FF
- 18: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8371*)
+ 18: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8372*)
     → "What's this? I've not seen the ward waver like that before. Our foe's power burgeons by the day, it would seem."
  19: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8372*)
+ 20: 0x00F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
     → "Fortunately, the process of strengthening the ward to meet this new challenge will be as child's play to an engineer of my skills. At any rate, have this, that you may never forget the day that you assisted the incomparable Belgidiveau!"
  21: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x00FC [0x01] GOTO 0x0116
  23: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0112
- 24: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=8373*)
+ 24: 0x0107 [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
     → "It breached the ward!? Belgidiveau's impervious ward!? Inconceivable!"
  25: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=8374*)
+ 26: 0x010B [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
     → "But just wait, you fiends! You will rue the day you crossed-- ...Hm, you're still here? Yes, yes, take this for your troubles, and leave me to my work."
  27: 0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x010F [0x01] GOTO 0x0116
- 29: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
+ 29: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
     → "Ahem. I believe I asked you for a body part from an Abyssean fiend. Does this look like a fiend's body part to you? If it does, I suggest you procure yourself a quality pair of spectacles."
  30: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -373,7 +373,7 @@ SUBROUTINE_0116:
 
 ```
   0: 0x012E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8375*)
+  1: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8376*)
     → "Ahem. I believe I asked you for a body part from an Abyssean fiend. Does this look like a fiend's body part to you? If it does, I suggest you procure yourself a quality pair of spectacles."
   2: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0137 [0x21] END_EVENT

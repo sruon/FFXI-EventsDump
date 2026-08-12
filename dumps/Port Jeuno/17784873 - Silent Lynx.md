@@ -20,11 +20,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BBF      |        7103 |
+|       0 | 0x1BC0      |        7104 |
 
 ## String References
 
-- **7103**: I lost my ticket, and now I can't get on board. It takes so long to get a new one! I hope you never have to go through this.
+- **7104**: I lost my ticket, and now I can't get on board. It takes so long to get a new one! I hope you never have to go through this.
 
 ## Events
 
@@ -73,7 +73,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7103*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7104*)
     → "I lost my ticket, and now I can't get on board. It takes so long to get a new one! I hope you never have to go through this."
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT

@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FA6      |        8102 |
+|       0 | 0x1FA7      |        8103 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x1FA7      |        8103 |
-|       3 | 0x1FA8      |        8104 |
-|       4 | 0x1FA9      |        8105 |
-|       5 | 0x1FAA      |        8106 |
+|       2 | 0x1FA8      |        8104 |
+|       3 | 0x1FA9      |        8105 |
+|       4 | 0x1FAA      |        8106 |
+|       5 | 0x1FAB      |        8107 |
 
 ## String References
 
-- **8102**: Looking to do some shopping-wopping, eh? Well, we don't have shops per se, but there's a trader over by the banner with some provisions for sale.
-- **8103**: I figure she can outfitaru you with most anything you need, so long as you've got the cruor to pay-the-day for it.
-- **8104**: Gil, you say? I'm afraid there hasn't been much use for that of late.
-- **8105**: Take down-with-a-frown one of those Abyssean fiends, and you'll find they drop a reddish gold dusty-crust--that's cruor. Back when the three nations still stood, the stuff was nowhere to be found, but now we literally can't live without it.
-- **8106**: You'll be needing it to power the confluxes as well, so you'll want to keep a healthy-wealthy supply.
+- **8103**: Looking to do some shopping-wopping, eh? Well, we don't have shops per se, but there's a trader over by the banner with some provisions for sale.
+- **8104**: I figure she can outfitaru you with most anything you need, so long as you've got the cruor to pay-the-day for it.
+- **8105**: Gil, you say? I'm afraid there hasn't been much use for that of late.
+- **8106**: Take down-with-a-frown one of those Abyssean fiends, and you'll find they drop a reddish gold dusty-crust--that's cruor. Back when the three nations still stood, the stuff was nowhere to be found, but now we literally can't live without it.
+- **8107**: You'll be needing it to power the confluxes as well, so you'll want to keep a healthy-wealthy supply.
 
 ## Events
 
@@ -83,20 +83,20 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Looking to do some shopping-wopping, eh? Well, we don't have shops per se, but there's a trader over by the banner with some provisions for sale."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "I figure she can outfitaru you with most anything you need, so long as you've got the cruor to pay-the-day for it."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  8: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "Gil, you say? I'm afraid there hasn't been much use for that of late."
   9: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+ 10: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "Take down-with-a-frown one of those Abyssean fiends, and you'll find they drop a reddish gold dusty-crust--that's cruor. Back when the three nations still stood, the stuff was nowhere to be found, but now we literally can't live without it."
  11: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+ 12: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "You'll be needing it to power the confluxes as well, so you'll want to keep a healthy-wealthy supply."
  13: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x002B [0x21] END_EVENT

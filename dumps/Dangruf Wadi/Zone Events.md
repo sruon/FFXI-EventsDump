@@ -40,7 +40,7 @@
 |       5 | 0x0046      |          70 |
 |       6 | 0x008C      |         140 |
 |       7 | 0x00D2      |         210 |
-|       8 | 0x1D03      |        7427 |
+|       8 | 0x1D04      |        7428 |
 |       9 | 0x0000      |           0 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
@@ -92,13 +92,13 @@
 |      57 | 0x00C8      |         200 |
 |      58 | 0x0EA6      |        3750 |
 |      59 | 0x01F2      |         498 |
-|      60 | 0x1D2C      |        7468 |
-|      61 | 0x1D2D      |        7469 |
+|      60 | 0x1D2D      |        7469 |
+|      61 | 0x1D2E      |        7470 |
 |      62 | 0x0687      |        1671 |
 
 ## String References
 
-- **7427**: Where do you want to go? (This page scrolls down.) [Nowhere./San d'Oria./Windurst./Elevator in Ghelsba/Bastok/Ronfaure Forest]
+- **7428**: Where do you want to go? (This page scrolls down.) [Nowhere./San d'Oria./Windurst./Elevator in Ghelsba/Bastok/Ronfaure Forest]
 
 ## Events
 
@@ -279,7 +279,7 @@ SUBROUTINE_0066:
 #### Opcodes
 
 ```
-  0: 0x00E0 [0x24] CREATE_DIALOG(message_id=7427*, default_option=0*, option_flags=0*)
+  0: 0x00E0 [0x24] CREATE_DIALOG(message_id=7428*, default_option=0*, option_flags=0*)
     → "Where do you want to go? (This page scrolls down.) [Nowhere./San d'Oria./Windurst./Elevator in Ghelsba/Bastok/Ronfaure Forest]"
   1: 0x00E7 [0x25] WAIT_DIALOG_SELECT()
   2: 0x00E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8
@@ -793,11 +793,11 @@ SUBROUTINE_04A5:
  12: 0x057A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x057B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Ken (ID: 17559926/0x010BF176) Render.Flags0 and Render.Flags3 conditions are met
  14: 0x0580 [0x73] Marin (ID: 17559927/0x010BF177) casts magic 498* on Marin (ID: 17559927/0x010BF177)
- 15: 0x058B [0x2B] Ken (ID: 17559926/0x010BF176) [7468*]:
+ 15: 0x058B [0x2B] Ken (ID: 17559926/0x010BF176) [7469*]:
     → "Eh? Don't tell me that you came here to protect me. I told you I'd be fine on my own!"
  16: 0x0592 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0593 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Marin (ID: 17559927/0x010BF177)
- 18: 0x0599 [0x2B] Ken (ID: 17559926/0x010BF176) [7469*]:
+ 18: 0x0599 [0x2B] Ken (ID: 17559926/0x010BF176) [7470*]:
     → "Now get out of my face! If I even see you..."
  19: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x05A1 [0x4B] UPDATE_ENTITY_YAW(entity=Ken (ID: 17559926/0x010BF176), yaw=9.2°*)

@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE2      |        7394 |
-|       1 | 0x1CE3      |        7395 |
+|       0 | 0x1CE3      |        7395 |
+|       1 | 0x1CE4      |        7396 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **7394**: Engage in "Enemy of the Empire (II)"?
-- **7395**: Engage? [Yes./No.]
+- **7395**: Engage in "Enemy of the Empire (II)"?
+- **7396**: Engage? [Yes./No.]
 
 ## Events
 
@@ -75,10 +75,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7394*]:
+  0: 0x0001 [0x48] [System] [7395*]:
     → "Engage in "Enemy of the Empire (II)"?"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7395*, default_option=1*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=7396*, default_option=1*, option_flags=0*)
     → "Engage? [Yes./No.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D

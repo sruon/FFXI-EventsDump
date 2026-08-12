@@ -26,15 +26,15 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x0E38      |        3640 |
 |       2 | 0x0E39      |        3641 |
-|       3 | 0x3326      |       13094 |
-|       4 | 0x3332      |       13106 |
+|       3 | 0x3327      |       13095 |
+|       4 | 0x3333      |       13107 |
 
 ## String References
 
 - **3640**: WhAT$26tO$26Do$26IN$26sIt-U-A-tIOns$26lIkE$26tHIs!?
 - **3641**: AA\`h! THrEE$26IS$26lOsInG$26cOn-Fi-DeNcE$26AS$26A$26gUaRd!
-- **13094**: <Player>'s badge flashes brightly.
-- **13106**: WhAT$26tO$26Do$26IN$26sIt-U-A-tIOns$26lIkE$26tHIs!? THaT$26iS$26nOT$26A$26FoOd!
+- **13095**: <Player>'s badge flashes brightly.
+- **13107**: WhAT$26tO$26Do$26IN$26sIt-U-A-tIOns$26lIkE$26tHIs!? THaT$26iS$26nOT$26A$26FoOd!
 
 ## Events
 
@@ -161,11 +161,11 @@
 
 ```
   0: 0x001E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x001F [0x48] [System] [13094*]:
+  1: 0x001F [0x48] [System] [13095*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0027 [0x1C] WAIT(30* ticks)
-  4: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=13106*)
+  4: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=13107*)
     → "WhAT$26tO$26Do$26IN$26sIt-U-A-tIOns$26lIkE$26tHIs!? THaT$26iS$26nOT$26A$26FoOd!"
   5: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x002E [0x21] END_EVENT

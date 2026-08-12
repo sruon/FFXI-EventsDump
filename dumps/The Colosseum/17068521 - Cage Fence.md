@@ -21,8 +21,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C44      |        7236 |
-|       1 | 0x1C43      |        7235 |
+|       0 | 0x1C45      |        7237 |
+|       1 | 0x1C44      |        7236 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00D9      |         217 |
 |       4 | 0x0001      |           1 |
@@ -32,8 +32,8 @@
 
 ## String References
 
-- **7235**: Peer through the fence? [View the center./View the red corner./View the blue corner./View the entire cage./Quit.]
-- **7236**: 
+- **7236**: Peer through the fence? [View the center./View the red corner./View the blue corner./View the entire cage./Quit.]
+- **7237**: 
 
 ## Events
 
@@ -78,7 +78,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7236*]:
+  0: 0x0001 [0x48] [System] [7237*]:
     → ""
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0005 [0x27] REQ_SET(priority=0x01, entity_id=Cage Fence (ID: 17068521/0x010471E9), tag_num=0x02)
@@ -118,7 +118,7 @@
   0: 0x000D [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x000F [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0010 [0x46] CAMERA_CONTROL: Disable user control
-  3: 0x0012 [0x24] CREATE_DIALOG(message_id=7235*, default_option=0*, option_flags=0*)
+  3: 0x0012 [0x24] CREATE_DIALOG(message_id=7236*, default_option=0*, option_flags=0*)
     → "Peer through the fence? [View the center./View the red corner./View the blue corner./View the entire cage./Quit.]"
   4: 0x0019 [0x25] WAIT_DIALOG_SELECT()
   5: 0x001A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003D

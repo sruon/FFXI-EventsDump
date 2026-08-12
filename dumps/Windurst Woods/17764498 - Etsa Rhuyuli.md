@@ -32,23 +32,23 @@
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0051      |          81 |
-|       3 | 0x214E      |        8526 |
-|       4 | 0x214F      |        8527 |
-|       5 | 0x2150      |        8528 |
-|       6 | 0x28B7      |       10423 |
-|       7 | 0x28C0      |       10432 |
-|       8 | 0x28C1      |       10433 |
-|       9 | 0x28C2      |       10434 |
+|       3 | 0x214F      |        8527 |
+|       4 | 0x2150      |        8528 |
+|       5 | 0x2151      |        8529 |
+|       6 | 0x28B8      |       10424 |
+|       7 | 0x28C1      |       10433 |
+|       8 | 0x28C2      |       10434 |
+|       9 | 0x28C3      |       10435 |
 
 ## String References
 
-- **8526**: The firrrst rrrule of the Starrr Onion Brrrigade...!
-- **8527**: Show kindness to any stupid-looking adventurrrerrrs you meet!
-- **8528**: It's firrrst come, firrrst serrrved when it comes to the items put on auction. You'rrre competing in bidding against people frrrom all overrr the worrrld, so don't hesitate if you'rrre not surrre. Just do it!
-- **10423**: <Player>'s badge flashes brightly.
-- **10432**: One rrrule of the Starrr Onion Brrrigade...!
-- **10433**: Tell a special secrrret to any adventurer you meet wearrring a special badge!
-- **10434**: The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!
+- **8527**: The firrrst rrrule of the Starrr Onion Brrrigade...!
+- **8528**: Show kindness to any stupid-looking adventurrrerrrs you meet!
+- **8529**: It's firrrst come, firrrst serrrved when it comes to the items put on auction. You'rrre competing in bidding against people frrrom all overrr the worrrld, so don't hesitate if you'rrre not surrre. Just do it!
+- **10424**: <Player>'s badge flashes brightly.
+- **10433**: One rrrule of the Starrr Onion Brrrigade...!
+- **10434**: Tell a special secrrret to any adventurer you meet wearrring a special badge!
+- **10435**: The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!
 
 ## Events
 
@@ -297,15 +297,15 @@
   2: 0x0094 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0095 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0096 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
-  5: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8526*)
+  5: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
     → "The firrrst rrrule of the Starrr Onion Brrrigade...!"
   6: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
-  8: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8527*)
+  8: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
     → "Show kindness to any stupid-looking adventurrrerrrs you meet!"
   9: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x01)
- 11: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8528*)
+ 11: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8529*)
     → "It's firrrst come, firrrst serrrved when it comes to the items put on auction. You'rrre competing in bidding against people frrrom all overrr the worrrld, so don't hesitate if you'rrre not surrre. Just do it!"
  12: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x00B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x02)
@@ -337,22 +337,22 @@
 
 ```
   0: 0x00C2 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00C3 [0x48] [System] [10423*]:
+  1: 0x00C3 [0x48] [System] [10424*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00C6 [0x86] EventEntity->Render.Flags3 = Flags3  // No change (flag=0)
   3: 0x00CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x00D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x00D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x00D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
-  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10432*)
+  7: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
     → "One rrrule of the Starrr Onion Brrrigade...!"
   8: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x03)
- 10: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10433*)
+ 10: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
     → "Tell a special secrrret to any adventurer you meet wearrring a special badge!"
  11: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x01)
- 13: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10434*)
+ 13: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10435*)
     → "The rrrumored "Salaheem's Sentinels" is located in the town of "Al Zahbi"!"
  14: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etsa Rhuyuli (ID: 17764498/0x010F1092), tag_num=0x02)

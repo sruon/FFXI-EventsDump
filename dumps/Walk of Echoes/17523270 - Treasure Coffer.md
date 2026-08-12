@@ -24,13 +24,13 @@
 |       1 | 0x000F      |          15 |
 |       2 | 0x0010      |          16 |
 |       3 | 0x001F      |          31 |
-|       4 | 0x1C66      |        7270 |
+|       4 | 0x1C67      |        7271 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x000A      |          10 |
-|       7 | 0x1C67      |        7271 |
-|       8 | 0x1C68      |        7272 |
+|       7 | 0x1C68      |        7272 |
+|       8 | 0x1C69      |        7273 |
 |       9 | 0x000B      |          11 |
-|      10 | 0x1C8E      |        7310 |
+|      10 | 0x1C8F      |        7311 |
 |      11 | 0x000C      |          12 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
@@ -44,10 +44,10 @@
 
 ## String References
 
-- **7270**: Which item will you obtain? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Destroy 'em all./All items.]
-- **7271**: Obtain this item?
-- **7272**: Obtain the $0? [Yes./No.]
-- **7310**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
+- **7271**: Which item will you obtain? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Destroy 'em all./All items.]
+- **7272**: Obtain this item?
+- **7273**: Obtain the $0? [Yes./No.]
+- **7311**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
 
 ## Events
 
@@ -160,7 +160,7 @@
  25: 0x00A1 [0x03] Work_Zone_1700[1] = ExtData[1]->WorkLocal[23]
  26: 0x00A6 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[24]
  27: 0x00AB [0x1A] CALL_SUBROUTINE(address=0x018F)
- 28: 0x00AE [0x24] CREATE_DIALOG(message_id=7270*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+ 28: 0x00AE [0x24] CREATE_DIALOG(message_id=7271*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Which item will you obtain? [None./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./Destroy 'em all./All items.]"
  29: 0x00B5 [0x25] WAIT_DIALOG_SELECT()
  30: 0x00B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C9
@@ -174,12 +174,12 @@ SUBROUTINE_00CE:
  36: 0x00D6 [0x02] IF !(ExtData[1]->WorkLocal[2] > 10*) GOTO 0x0129
  37: 0x00DE [0x9D] ExtData[1]->WorkLocal[25] = 0x0262[ExtData[1]->WorkLocal[2]] // Read WORD
  38: 0x00E6 [0x93] DISPLAY_ITEM_INFO(item_id=ExtData[1]->WorkLocal[25])
- 39: 0x00E9 [0x48] [System] [7271*]:
+ 39: 0x00E9 [0x48] [System] [7272*]:
     → "Obtain this item?"
  40: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00ED [0x93] DISPLAY_ITEM_INFO(item_id=0*)
  42: 0x00F0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
- 43: 0x00F5 [0x24] CREATE_DIALOG(message_id=7272*, default_option=1*, option_flags=0*)
+ 43: 0x00F5 [0x24] CREATE_DIALOG(message_id=7273*, default_option=1*, option_flags=0*)
     → "Obtain the $0? [Yes./No.]"
  44: 0x00FC [0x25] WAIT_DIALOG_SELECT()
  45: 0x00FD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0126
@@ -195,7 +195,7 @@ SUBROUTINE_00CE:
 SUBROUTINE_0126:
  54: 0x0126 [0x01] GOTO 0x0187
  55: 0x0129 [0x02] IF !(ExtData[1]->WorkLocal[2] == 11*) GOTO 0x0163
- 56: 0x0131 [0x24] CREATE_DIALOG(message_id=7310*, default_option=1*, option_flags=0*)
+ 56: 0x0131 [0x24] CREATE_DIALOG(message_id=7311*, default_option=1*, option_flags=0*)
     → "Relinquish your claim to the battle spoils? [Yes./On second thought...]"
  57: 0x0138 [0x25] WAIT_DIALOG_SELECT()
  58: 0x0139 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0155

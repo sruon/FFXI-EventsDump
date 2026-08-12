@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E57      |        7767 |
-|       1 | 0x1E58      |        7768 |
-|       2 | 0x1E59      |        7769 |
-|       3 | 0x1E5A      |        7770 |
-|       4 | 0x1E5B      |        7771 |
-|       5 | 0x1E5C      |        7772 |
+|       0 | 0x1E58      |        7768 |
+|       1 | 0x1E59      |        7769 |
+|       2 | 0x1E5A      |        7770 |
+|       3 | 0x1E5B      |        7771 |
+|       4 | 0x1E5C      |        7772 |
+|       5 | 0x1E5D      |        7773 |
 
 ## String References
 
-- **7767**: You see a message engraved on the stone:
-- **7768**: As we pierced the gloom of Jugner Forest, my dear steed (and renowned gourmand) Morten pecked at the ground, unearthing a fine mushroom.
-- **7769**: Quieting the uneasy Morten, I examined the mushroom, and found that it was none other than a King Truffle, a prized ingredient I had thought to be only a legend.
-- **7770**: Relying on Morten's keen sense of smell, we searched the area, and found bushels of other mushrooms. A fine mushroom soup will grace our table tonight.
-- **7771**: To all travelers who wander in this forest--should you find your supplies dwindling and your hunger growing, search for nature's bounty and be saved!
-- **7772**: Just take care your chocobo does not eat them first! --Gwynham Ironheart, 755 Crystal Era.
+- **7768**: You see a message engraved on the stone:
+- **7769**: As we pierced the gloom of Jugner Forest, my dear steed (and renowned gourmand) Morten pecked at the ground, unearthing a fine mushroom.
+- **7770**: Quieting the uneasy Morten, I examined the mushroom, and found that it was none other than a King Truffle, a prized ingredient I had thought to be only a legend.
+- **7771**: Relying on Morten's keen sense of smell, we searched the area, and found bushels of other mushrooms. A fine mushroom soup will grace our table tonight.
+- **7772**: To all travelers who wander in this forest--should you find your supplies dwindling and your hunger growing, search for nature's bounty and be saved!
+- **7773**: Just take care your chocobo does not eat them first! --Gwynham Ironheart, 755 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7767*]:
+  0: 0x0001 [0x48] [System] [7768*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7768*]:
+  2: 0x0005 [0x48] [System] [7769*]:
     → "As we pierced the gloom of Jugner Forest, my dear steed (and renowned gourmand) Morten pecked at the ground, unearthing a fine mushroom."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7769*]:
+  4: 0x0009 [0x48] [System] [7770*]:
     → "Quieting the uneasy Morten, I examined the mushroom, and found that it was none other than a King Truffle, a prized ingredient I had thought to be only a legend."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7770*]:
+  6: 0x000D [0x48] [System] [7771*]:
     → "Relying on Morten's keen sense of smell, we searched the area, and found bushels of other mushrooms. A fine mushroom soup will grace our table tonight."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7771*]:
+  8: 0x0011 [0x48] [System] [7772*]:
     → "To all travelers who wander in this forest--should you find your supplies dwindling and your hunger growing, search for nature's bounty and be saved!"
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7772*]:
+ 10: 0x0015 [0x48] [System] [7773*]:
     → "Just take care your chocobo does not eat them first! --Gwynham Ironheart, 755 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

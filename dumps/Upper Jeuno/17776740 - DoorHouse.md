@@ -30,7 +30,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003C      |          60 |
-|       1 | 0x1C48      |        7240 |
+|       1 | 0x1C49      |        7241 |
 |       2 | 0x0078      |         120 |
 |       3 | 0x0013      |          19 |
 |       4 | 0x01C4      |         452 |
@@ -39,97 +39,97 @@
 |       7 | 0x0090      |         144 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x000A      |          10 |
-|      10 | 0x1C49      |        7241 |
+|      10 | 0x1C4A      |        7242 |
 |      11 | 0x0A75      |        2677 |
-|      12 | 0x1C4A      |        7242 |
+|      12 | 0x1C4B      |        7243 |
 |      13 | 0x0096      |         150 |
-|      14 | 0x1C4B      |        7243 |
-|      15 | 0x1C4C      |        7244 |
-|      16 | 0x1C4D      |        7245 |
-|      17 | 0x1C4E      |        7246 |
-|      18 | 0x1C4F      |        7247 |
-|      19 | 0x1C50      |        7248 |
-|      20 | 0x1C51      |        7249 |
-|      21 | 0x1C52      |        7250 |
-|      22 | 0x1C53      |        7251 |
-|      23 | 0x1C54      |        7252 |
-|      24 | 0x1C55      |        7253 |
-|      25 | 0x1C56      |        7254 |
-|      26 | 0x1C57      |        7255 |
-|      27 | 0x1C58      |        7256 |
-|      28 | 0x1C59      |        7257 |
-|      29 | 0x1C5A      |        7258 |
+|      14 | 0x1C4C      |        7244 |
+|      15 | 0x1C4D      |        7245 |
+|      16 | 0x1C4E      |        7246 |
+|      17 | 0x1C4F      |        7247 |
+|      18 | 0x1C50      |        7248 |
+|      19 | 0x1C51      |        7249 |
+|      20 | 0x1C52      |        7250 |
+|      21 | 0x1C53      |        7251 |
+|      22 | 0x1C54      |        7252 |
+|      23 | 0x1C55      |        7253 |
+|      24 | 0x1C56      |        7254 |
+|      25 | 0x1C57      |        7255 |
+|      26 | 0x1C58      |        7256 |
+|      27 | 0x1C59      |        7257 |
+|      28 | 0x1C5A      |        7258 |
+|      29 | 0x1C5B      |        7259 |
 |      30 | 0x007C      |         124 |
 |      31 | 0x000C      |          12 |
-|      32 | 0x1C5B      |        7259 |
-|      33 | 0x1C5C      |        7260 |
+|      32 | 0x1C5C      |        7260 |
+|      33 | 0x1C5D      |        7261 |
 |      34 | 0x0016      |          22 |
-|      35 | 0x1C5D      |        7261 |
-|      36 | 0x1C5E      |        7262 |
+|      35 | 0x1C5E      |        7262 |
+|      36 | 0x1C5F      |        7263 |
 |      37 | 0x0012      |          18 |
-|      38 | 0x1C5F      |        7263 |
+|      38 | 0x1C60      |        7264 |
 |      39 | 0x0EC2      |        3778 |
-|      40 | 0x1C60      |        7264 |
+|      40 | 0x1C61      |        7265 |
 |      41 | 0x0006      |           6 |
-|      42 | 0x1C61      |        7265 |
+|      42 | 0x1C62      |        7266 |
 |      43 | 0x0835      |        2101 |
-|      44 | 0x1C62      |        7266 |
-|      45 | 0x1C63      |        7267 |
-|      46 | 0x1C64      |        7268 |
-|      47 | 0x1C65      |        7269 |
-|      48 | 0x1C66      |        7270 |
-|      49 | 0x1C67      |        7271 |
-|      50 | 0x1C68      |        7272 |
-|      51 | 0x1C69      |        7273 |
-|      52 | 0x1C6A      |        7274 |
-|      53 | 0x1C6B      |        7275 |
+|      44 | 0x1C63      |        7267 |
+|      45 | 0x1C64      |        7268 |
+|      46 | 0x1C65      |        7269 |
+|      47 | 0x1C66      |        7270 |
+|      48 | 0x1C67      |        7271 |
+|      49 | 0x1C68      |        7272 |
+|      50 | 0x1C69      |        7273 |
+|      51 | 0x1C6A      |        7274 |
+|      52 | 0x1C6B      |        7275 |
+|      53 | 0x1C6C      |        7276 |
 |      54 | 0x0001      |           1 |
-|      55 | 0x1C6C      |        7276 |
+|      55 | 0x1C6D      |        7277 |
 |      56 | 0x006E      |         110 |
-|      57 | 0x1C6D      |        7277 |
-|      58 | 0x1C6E      |        7278 |
+|      57 | 0x1C6E      |        7278 |
+|      58 | 0x1C6F      |        7279 |
 |      59 | 0x022B      |         555 |
 |      60 | 0x007F      |         127 |
-|      61 | 0x1C6F      |        7279 |
-|      62 | 0x1C70      |        7280 |
-|      63 | 0x1C71      |        7281 |
-|      64 | 0x1C72      |        7282 |
+|      61 | 0x1C70      |        7280 |
+|      62 | 0x1C71      |        7281 |
+|      63 | 0x1C72      |        7282 |
+|      64 | 0x1C73      |        7283 |
 |      65 | 0x001E      |          30 |
-|      66 | 0x1C73      |        7283 |
-|      67 | 0x1C74      |        7284 |
-|      68 | 0x1C75      |        7285 |
-|      69 | 0x1C76      |        7286 |
-|      70 | 0x1C77      |        7287 |
-|      71 | 0x1C78      |        7288 |
+|      66 | 0x1C74      |        7284 |
+|      67 | 0x1C75      |        7285 |
+|      68 | 0x1C76      |        7286 |
+|      69 | 0x1C77      |        7287 |
+|      70 | 0x1C78      |        7288 |
+|      71 | 0x1C79      |        7289 |
 |      72 | 0x00C9      |         201 |
 |      73 | 0x007A      |         122 |
-|      74 | 0x1C7F      |        7295 |
-|      75 | 0x1C80      |        7296 |
-|      76 | 0x1C81      |        7297 |
-|      77 | 0x1C82      |        7298 |
-|      78 | 0x1C83      |        7299 |
-|      79 | 0x1C84      |        7300 |
-|      80 | 0x1C85      |        7301 |
-|      81 | 0x1C86      |        7302 |
-|      82 | 0x1C87      |        7303 |
-|      83 | 0x1C88      |        7304 |
-|      84 | 0x1C89      |        7305 |
-|      85 | 0x1C8A      |        7306 |
-|      86 | 0x1C8C      |        7308 |
-|      87 | 0x1C8D      |        7309 |
-|      88 | 0x1C8E      |        7310 |
-|      89 | 0x1C8F      |        7311 |
-|      90 | 0x1C90      |        7312 |
+|      74 | 0x1C80      |        7296 |
+|      75 | 0x1C81      |        7297 |
+|      76 | 0x1C82      |        7298 |
+|      77 | 0x1C83      |        7299 |
+|      78 | 0x1C84      |        7300 |
+|      79 | 0x1C85      |        7301 |
+|      80 | 0x1C86      |        7302 |
+|      81 | 0x1C87      |        7303 |
+|      82 | 0x1C88      |        7304 |
+|      83 | 0x1C89      |        7305 |
+|      84 | 0x1C8A      |        7306 |
+|      85 | 0x1C8B      |        7307 |
+|      86 | 0x1C8D      |        7309 |
+|      87 | 0x1C8E      |        7310 |
+|      88 | 0x1C8F      |        7311 |
+|      89 | 0x1C90      |        7312 |
+|      90 | 0x1C91      |        7313 |
 |      91 | 0x000F      |          15 |
-|      92 | 0x1C91      |        7313 |
-|      93 | 0x1C92      |        7314 |
-|      94 | 0x1C93      |        7315 |
-|      95 | 0x1C94      |        7316 |
-|      96 | 0x1C98      |        7320 |
+|      92 | 0x1C92      |        7314 |
+|      93 | 0x1C93      |        7315 |
+|      94 | 0x1C94      |        7316 |
+|      95 | 0x1C95      |        7317 |
+|      96 | 0x1C99      |        7321 |
 
 ## String References
 
-- **7273**: Will you help them? [Yes./Not right now.]
+- **7274**: Will you help them? [Yes./Not right now.]
 
 ## Events
 
@@ -211,7 +211,7 @@
   7: 0x001B [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
   8: 0x0020 [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
   9: 0x0029 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 10: 0x0030 [0x2B] Galmut (ID: 17776657/0x010F4011) [7240*]:
+ 10: 0x0030 [0x2B] Galmut (ID: 17776657/0x010F4011) [7241*]:
     → "Oh, it's you... Sorry, but I'm right in the middle of something. Could you come back later?"
  11: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0038 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
@@ -392,7 +392,7 @@
  26: 0x00FB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  27: 0x00FC [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
  28: 0x0101 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 29: 0x0108 [0x2B] Galmut (ID: 17776657/0x010F4011) [7241*]:
+ 29: 0x0108 [0x2B] Galmut (ID: 17776657/0x010F4011) [7242*]:
     → "Well, look who's here! Welcome to my humble abode."
  30: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0110 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
@@ -404,7 +404,7 @@
  37: 0x0146 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x26)
  38: 0x014D [0x7B] Galmut (ID: 17776657/0x010F4011) stops talking
  39: 0x0152 [0x4B] UPDATE_ENTITY_YAW(entity=Galmut (ID: 17776657/0x010F4011), yaw=14.7°*)
- 40: 0x0159 [0x2B] Galmut (ID: 17776657/0x010F4011) [7242*]:
+ 40: 0x0159 [0x2B] Galmut (ID: 17776657/0x010F4011) [7243*]:
     → "I've got lots of wacky stuff, don't I?"
  41: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0161 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x1C)
@@ -412,21 +412,21 @@
  44: 0x016B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm2i" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
  45: 0x017C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm2i" with entities [LocalPlayer, LocalPlayer], work=144*
  46: 0x018B [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x1D)
- 47: 0x0192 [0x2B] Galmut (ID: 17776657/0x010F4011) [7243*]:
+ 47: 0x0192 [0x2B] Galmut (ID: 17776657/0x010F4011) [7244*]:
     → "Heh. They may be scrap, but they're all priceless things a certain person gave me."
  48: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x019A [0x1C] WAIT(60* ticks)
  50: 0x019D [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x1E)
  51: 0x01A4 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
  52: 0x01AB [0x1C] WAIT(60* ticks)
- 53: 0x01AE [0x2B] Galmut (ID: 17776657/0x010F4011) [7244*]:
+ 53: 0x01AE [0x2B] Galmut (ID: 17776657/0x010F4011) [7245*]:
     → "Hey, what are you doin'? That's my bed!"
  54: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x01B6 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
  56: 0x01BD [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x26)
  57: 0x01C4 [0x4C] EventEntity->StatusEvent = 8 // Open door
  58: 0x01C5 [0x4E] SET_ENTITY_HIDE_FLAG: Show Narihira (ID: 17776658/0x010F4012)
- 59: 0x01CB [0x2B] Narihira (ID: 17776658/0x010F4012) [7245*]:
+ 59: 0x01CB [0x2B] Narihira (ID: 17776658/0x010F4012) [7246*]:
     → "Anybody home?"
  60: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x01D3 [0x4A] Galmut (ID: 17776657/0x010F4011) looks at Narihira (ID: 17776658/0x010F4012)
@@ -437,46 +437,46 @@
  66: 0x01FC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm2f" with entities [LocalPlayer, LocalPlayer], work=144*
  67: 0x020B [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x07)
  68: 0x0212 [0x4D] EventEntity->StatusEvent = 9 // Close door
- 69: 0x0213 [0x2B] Galmut (ID: 17776657/0x010F4011) [7246*]:
+ 69: 0x0213 [0x2B] Galmut (ID: 17776657/0x010F4011) [7247*]:
     → "Well, speak of the devil... It's Mr. Narihira!"
  70: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x021B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm2g" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
  72: 0x022C [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x08)
- 73: 0x0233 [0x2B] Galmut (ID: 17776657/0x010F4011) [7247*]:
+ 73: 0x0233 [0x2B] Galmut (ID: 17776657/0x010F4011) [7248*]:
     → "I see you're still kickin'."
  74: 0x023A [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x023B [0x4A] Narihira (ID: 17776658/0x010F4012) looks at Galmut (ID: 17776657/0x010F4011)
  76: 0x0244 [0x1C] WAIT(60* ticks)
  77: 0x0247 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
- 78: 0x024E [0x2B] Narihira (ID: 17776658/0x010F4012) [7248*]:
+ 78: 0x024E [0x2B] Narihira (ID: 17776658/0x010F4012) [7249*]:
     → "Hah! You post-war youngsters ain't got nothin' on my generation!"
  79: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0256 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
  81: 0x025D [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x1A)
  82: 0x0264 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1D)
- 83: 0x026B [0x2B] Galmut (ID: 17776657/0x010F4011) [7249*]:
+ 83: 0x026B [0x2B] Galmut (ID: 17776657/0x010F4011) [7250*]:
     → "Well, it's good to see you."
  84: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0273 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
- 86: 0x027A [0x2B] Narihira (ID: 17776658/0x010F4012) [7250*]:
+ 86: 0x027A [0x2B] Narihira (ID: 17776658/0x010F4012) [7251*]:
     → "How's the clock, Galmut?"
  87: 0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0282 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
  89: 0x0289 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1E)
- 90: 0x0290 [0x2B] Galmut (ID: 17776657/0x010F4011) [7251*]:
+ 90: 0x0290 [0x2B] Galmut (ID: 17776657/0x010F4011) [7252*]:
     → "I've been taking good care of her. Don't tell me you can't hear her ring!"
  91: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0298 [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x14)
- 93: 0x029F [0x2B] Narihira (ID: 17776658/0x010F4012) [7252*]:
+ 93: 0x029F [0x2B] Narihira (ID: 17776658/0x010F4012) [7253*]:
     → "Huh? What did you say? Just kiddin'. Of course I hear her fine!"
  94: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x02A7 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x12)
- 96: 0x02AE [0x2B] Narihira (ID: 17776658/0x010F4012) [7253*]:
+ 96: 0x02AE [0x2B] Narihira (ID: 17776658/0x010F4012) [7254*]:
     → "But I hear the gears struggling a little. Might be time to give her some oil."
  97: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x02B6 [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x13)
  99: 0x02BD [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1D)
-100: 0x02C4 [0x2B] Galmut (ID: 17776657/0x010F4011) [7254*]:
+100: 0x02C4 [0x2B] Galmut (ID: 17776657/0x010F4011) [7255*]:
     → "Well, you haven't changed a bit!"
 101: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x02CC [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x1A)
@@ -484,20 +484,20 @@
 104: 0x02DC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 105: 0x02DD [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Narihira (ID: 17776658/0x010F4012) Render.Flags0 and Render.Flags3 conditions are met
 106: 0x02E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm2a" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
-107: 0x02F3 [0x2B] Narihira (ID: 17776658/0x010F4012) [7255*]:
+107: 0x02F3 [0x2B] Narihira (ID: 17776658/0x010F4012) [7256*]:
     → "And I see you've got a friend over!"
 108: 0x02FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x02FB [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
-110: 0x0302 [0x2B] Narihira (ID: 17776658/0x010F4012) [7256*]:
+110: 0x0302 [0x2B] Narihira (ID: 17776658/0x010F4012) [7257*]:
     → "Listen here, young one. Galmut's a model citizen now, but he was a regular hooligan before!"
 111: 0x0309 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x030A [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1E)
-113: 0x0311 [0x2B] Galmut (ID: 17776657/0x010F4011) [7257*]:
+113: 0x0311 [0x2B] Galmut (ID: 17776657/0x010F4011) [7258*]:
     → "Oh, no, not that again!"
 114: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0319 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
 116: 0x0320 [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x12)
-117: 0x0327 [0x2B] Narihira (ID: 17776658/0x010F4012) [7258*]:
+117: 0x0327 [0x2B] Narihira (ID: 17776658/0x010F4012) [7259*]:
     → "Ohohoho! Defensive, aren't we? Anyway, Galmut came to Jeuno about three years ago..."
 118: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x032F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -512,12 +512,12 @@
 128: 0x037C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm20" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
 129: 0x038D [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x17)
 130: 0x0394 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
-131: 0x03A3 [0x2B] Narihira (ID: 17776658/0x010F4012) [7259*]:
+131: 0x03A3 [0x2B] Narihira (ID: 17776658/0x010F4012) [7260*]:
     → "He came to the big city to make his mark. Every day he worked from sunrise to sunset!"
 132: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x03AB [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
 134: 0x03B2 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm20" with entities [LocalPlayer, LocalPlayer], work=144*
-135: 0x03C1 [0x2B] Galmut (ID: 17776657/0x010F4011) [7260*]:
+135: 0x03C1 [0x2B] Galmut (ID: 17776657/0x010F4011) [7261*]:
     → "And when I finally got enough dough to open my own shop..."
 136: 0x03C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x03C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -529,11 +529,11 @@
 143: 0x0411 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 144: 0x0422 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x18)
 145: 0x0429 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
-146: 0x0438 [0x2B] Galmut (ID: 17776657/0x010F4011) [7261*]:
+146: 0x0438 [0x2B] Galmut (ID: 17776657/0x010F4011) [7262*]:
     → "I got conned out of all of it. I lost every last gil..."
 147: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0440 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
-149: 0x0447 [0x2B] Narihira (ID: 17776658/0x010F4012) [7262*]:
+149: 0x0447 [0x2B] Narihira (ID: 17776658/0x010F4012) [7263*]:
     → "And that really shook him! He lost faith in his fellow man...scowling at everyone like a starving dog."
 150: 0x044E [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x044F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -549,7 +549,7 @@
 161: 0x04A9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm22" with entities [LocalPlayer, LocalPlayer], work=144*
 162: 0x04B8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 163: 0x04C9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
-164: 0x04D8 [0x2B] Galmut (ID: 17776657/0x010F4011) [7263*]:
+164: 0x04D8 [0x2B] Galmut (ID: 17776657/0x010F4011) [7264*]:
     → "That's when Mr. Narihira offered me a job in the clock tower."
 165: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x04E0 [0x1C] WAIT(60* ticks)
@@ -560,7 +560,7 @@
 171: 0x0511 [0x4B] UPDATE_ENTITY_YAW(entity=Galmut (ID: 17776657/0x010F4011), yaw=20.8°*)
 172: 0x0518 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 173: 0x0519 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
-174: 0x051E [0x2B] Galmut (ID: 17776657/0x010F4011) [7264*]:
+174: 0x051E [0x2B] Galmut (ID: 17776657/0x010F4011) [7265*]:
     → "At first I thought he was just another con man. But once I started, I really enjoyed it."
 175: 0x0525 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0526 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -573,7 +573,7 @@
 183: 0x0579 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Collet (ID: 17776656/0x010F4010), tag_num=0x0A)
 184: 0x0580 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 185: 0x0591 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
-186: 0x05A0 [0x2B] Galmut (ID: 17776657/0x010F4011) [7265*]:
+186: 0x05A0 [0x2B] Galmut (ID: 17776657/0x010F4011) [7266*]:
     → "You know, you work so hard in there that when you finally hear the bell ring... Man, it echoes right to the heart!"
 187: 0x05A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x05A8 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x15)
@@ -600,26 +600,26 @@
 209: 0x064D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm2a" with entities [LocalPlayer, LocalPlayer], work=144*
 210: 0x065C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 211: 0x066D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
-212: 0x067C [0x2B] Narihira (ID: 17776658/0x010F4012) [7266*]:
+212: 0x067C [0x2B] Narihira (ID: 17776658/0x010F4012) [7267*]:
     → "And I was glad to find someone who'd carry on in my place."
 213: 0x0683 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x0684 [0x2B] Narihira (ID: 17776658/0x010F4012) [7267*]:
+214: 0x0684 [0x2B] Narihira (ID: 17776658/0x010F4012) [7268*]:
     → "Oh yeah... I almost forgot!"
 215: 0x068B [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x068C [0x4A] Narihira (ID: 17776658/0x010F4012) looks at Galmut (ID: 17776657/0x010F4011)
 217: 0x0695 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 218: 0x0696 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Narihira (ID: 17776658/0x010F4012) Render.Flags0 and Render.Flags3 conditions are met
 219: 0x069B [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x12)
-220: 0x06A2 [0x2B] Narihira (ID: 17776658/0x010F4012) [7268*]:
+220: 0x06A2 [0x2B] Narihira (ID: 17776658/0x010F4012) [7269*]:
     → "We need $6. And with the beastmen on the rampage, the store's almost out."
 221: 0x06A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x06AA [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x13)
 223: 0x06B1 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1D)
-224: 0x06B8 [0x2B] Galmut (ID: 17776657/0x010F4011) [7269*]:
+224: 0x06B8 [0x2B] Galmut (ID: 17776657/0x010F4011) [7270*]:
     → "No way, really? Without oil, we..."
 225: 0x06BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x06C0 [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
-227: 0x06C7 [0x2B] Narihira (ID: 17776658/0x010F4012) [7270*]:
+227: 0x06C7 [0x2B] Narihira (ID: 17776658/0x010F4012) [7271*]:
     → "Maybe the Tenshodo still has some. I hate doing business with their kind, though."
 228: 0x06CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 229: 0x06CF [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
@@ -631,33 +631,33 @@
 235: 0x06FD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm2h" with entities [LocalPlayer, LocalPlayer], work=144*
 236: 0x070C [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
 237: 0x0713 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x20)
-238: 0x071A [0x2B] Galmut (ID: 17776657/0x010F4011) [7271*]:
+238: 0x071A [0x2B] Galmut (ID: 17776657/0x010F4011) [7272*]:
     → "Me, too... Hey, I know! Would you mind bringing us $6?"
 239: 0x0721 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x0722 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at LocalPlayer
-241: 0x072B [0x2B] Galmut (ID: 17776657/0x010F4011) [7272*]:
+241: 0x072B [0x2B] Galmut (ID: 17776657/0x010F4011) [7273*]:
     → "We'd be so grateful. She's such a delicate machine... Without it, I'm afraid she'd go haywire!"
 242: 0x0732 [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x0733 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
-244: 0x073A [0x24] CREATE_DIALOG(message_id=7273*, default_option=0*, option_flags=0*)
+244: 0x073A [0x24] CREATE_DIALOG(message_id=7274*, default_option=0*, option_flags=0*)
     → "Will you help them? [Yes./Not right now.]"
 245: 0x0741 [0x25] WAIT_DIALOG_SELECT()
 246: 0x0742 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x077C
 247: 0x074A [0x05] Work_Zone[1] = 1
 248: 0x074D [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
-249: 0x0754 [0x2B] Galmut (ID: 17776657/0x010F4011) [7274*]:
+249: 0x0754 [0x2B] Galmut (ID: 17776657/0x010F4011) [7275*]:
     → "All right! Thanks a bunch!"
 250: 0x075B [0x23] WAIT_FOR_DIALOG_INTERACTION
 251: 0x075C [0x27] REQ_SET(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
 252: 0x0763 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
-253: 0x076A [0x2B] Narihira (ID: 17776658/0x010F4012) [7275*]:
+253: 0x076A [0x2B] Narihira (ID: 17776658/0x010F4012) [7276*]:
     → "First, head over to the Tenshodo, here in Jeuno."
 254: 0x0771 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x0772 [0x27] REQ_SET(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
 256: 0x0779 [0x01] GOTO 0x079D
 257: 0x077C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x079D
 258: 0x0784 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1D)
-259: 0x078B [0x2B] Galmut (ID: 17776657/0x010F4011) [7276*]:
+259: 0x078B [0x2B] Galmut (ID: 17776657/0x010F4011) [7277*]:
     → "Oh, yeah? Well, tell me if you change your mind. We've gotta do something."
 260: 0x0792 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x0793 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1E)
@@ -715,24 +715,24 @@ SUBROUTINE_079D:
   8: 0x07FF [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
   9: 0x0804 [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
  10: 0x080D [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 11: 0x0814 [0x2B] Galmut (ID: 17776657/0x010F4011) [7277*]:
+ 11: 0x0814 [0x2B] Galmut (ID: 17776657/0x010F4011) [7278*]:
     → "Oh, it's you. We still can't find any $3."
  12: 0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x081C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
- 14: 0x0823 [0x24] CREATE_DIALOG(message_id=7273*, default_option=0*, option_flags=0*)
+ 14: 0x0823 [0x24] CREATE_DIALOG(message_id=7274*, default_option=0*, option_flags=0*)
     → "Will you help them? [Yes./Not right now.]"
  15: 0x082A [0x25] WAIT_DIALOG_SELECT()
  16: 0x082B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x084F
  17: 0x0833 [0x05] Work_Zone[1] = 1
  18: 0x0836 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 19: 0x083D [0x2B] Galmut (ID: 17776657/0x010F4011) [7278*]:
+ 19: 0x083D [0x2B] Galmut (ID: 17776657/0x010F4011) [7279*]:
     → "Mr. Narihira said that the Tenshodo has some. Without it, sooner or later the gears will come to a stop!"
  20: 0x0844 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0845 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
  22: 0x084C [0x01] GOTO 0x0870
  23: 0x084F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0870
  24: 0x0857 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1D)
- 25: 0x085E [0x2B] Galmut (ID: 17776657/0x010F4011) [7276*]:
+ 25: 0x085E [0x2B] Galmut (ID: 17776657/0x010F4011) [7277*]:
     → "Oh, yeah? Well, tell me if you change your mind. We've gotta do something."
  26: 0x0865 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0866 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1E)
@@ -781,7 +781,7 @@ SUBROUTINE_0870:
   8: 0x089A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
   9: 0x089F [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
  10: 0x08A8 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 11: 0x08AF [0x2B] Galmut (ID: 17776657/0x010F4011) [7278*]:
+ 11: 0x08AF [0x2B] Galmut (ID: 17776657/0x010F4011) [7279*]:
     → "Mr. Narihira said that the Tenshodo has some. Without it, sooner or later the gears will come to a stop!"
  12: 0x08B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x08B7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
@@ -867,28 +867,28 @@ SUBROUTINE_0870:
  19: 0x094D [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x1A)
  20: 0x0954 [0x4D] EventEntity->StatusEvent = 9 // Close door
  21: 0x0955 [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
- 22: 0x095E [0x2B] Galmut (ID: 17776657/0x010F4011) [7279*]:
+ 22: 0x095E [0x2B] Galmut (ID: 17776657/0x010F4011) [7280*]:
     → "Who's there!?"
  23: 0x0965 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0966 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x0C)
  25: 0x096D [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
  26: 0x0976 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 27: 0x097D [0x2B] Galmut (ID: 17776657/0x010F4011) [7280*]:
+ 27: 0x097D [0x2B] Galmut (ID: 17776657/0x010F4011) [7281*]:
     → "Oh, you... Thanks for bringing the oil, but we don't need it anymore!"
  28: 0x0984 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0985 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
  30: 0x098C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm81" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
  31: 0x099D [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x0D)
  32: 0x09A4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm81" with entities [LocalPlayer, LocalPlayer], work=144*
- 33: 0x09B3 [0x2B] Galmut (ID: 17776657/0x010F4011) [7281*]:
+ 33: 0x09B3 [0x2B] Galmut (ID: 17776657/0x010F4011) [7282*]:
     → "I heard they're gonna tear her down and make her into some kinda crane to lift cargo from ships."
  34: 0x09BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x09BB [0x2B] Galmut (ID: 17776657/0x010F4011) [7282*]:
+ 35: 0x09BB [0x2B] Galmut (ID: 17776657/0x010F4011) [7283*]:
     → "The plan's already passed. Ain't nothing I can do now!"
  36: 0x09C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x09C3 [0x1C] WAIT(30* ticks)
  38: 0x09C6 [0x27] REQ_SET(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1F)
- 39: 0x09CD [0x2B] Galmut (ID: 17776657/0x010F4011) [7283*]:
+ 39: 0x09CD [0x2B] Galmut (ID: 17776657/0x010F4011) [7284*]:
     → "Well, I'll go ahead and take that $3. Thanks for trying, [pal/though]. This is for you."
  40: 0x09D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x09D5 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
@@ -899,7 +899,7 @@ SUBROUTINE_0870:
  46: 0x09FE [0x4C] EventEntity->StatusEvent = 8 // Open door
  47: 0x09FF [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
  48: 0x0A06 [0x1C] WAIT(60* ticks)
- 49: 0x0A09 [0x2B] Galmut (ID: 17776657/0x010F4011) [7284*]:
+ 49: 0x0A09 [0x2B] Galmut (ID: 17776657/0x010F4011) [7285*]:
     → "I try to believe in something, and look what happens!"
  50: 0x0A10 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0A11 [0x27] REQ_SET(priority=0x06, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x0F)
@@ -909,7 +909,7 @@ SUBROUTINE_0870:
  55: 0x0A2B [0x1C] WAIT(120* ticks)
  56: 0x0A2E [0x4E] SET_ENTITY_HIDE_FLAG: Show Narihira (ID: 17776658/0x010F4012)
  57: 0x0A34 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
- 58: 0x0A3B [0x2B] Narihira (ID: 17776658/0x010F4012) [7285*]:
+ 58: 0x0A3B [0x2B] Narihira (ID: 17776658/0x010F4012) [7286*]:
     → "Galmut, it's me! You here?"
  59: 0x0A42 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0A43 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x23)
@@ -918,16 +918,16 @@ SUBROUTINE_0870:
  63: 0x0A4E [0x1C] WAIT(30* ticks)
  64: 0x0A51 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x04)
  65: 0x0A58 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at LocalPlayer
- 66: 0x0A61 [0x2B] Narihira (ID: 17776658/0x010F4012) [7286*]:
+ 66: 0x0A61 [0x2B] Narihira (ID: 17776658/0x010F4012) [7287*]:
     → "Oh, it's you. Where's Galmut?"
  67: 0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x0A69 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x10)
  69: 0x0A70 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x14)
- 70: 0x0A77 [0x2B] Narihira (ID: 17776658/0x010F4012) [7287*]:
+ 70: 0x0A77 [0x2B] Narihira (ID: 17776658/0x010F4012) [7288*]:
     → "He's out, huh? And he heard about the clock? He must've been shocked."
  71: 0x0A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0A7F [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x12)
- 73: 0x0A86 [0x2B] Narihira (ID: 17776658/0x010F4012) [7288*]:
+ 73: 0x0A86 [0x2B] Narihira (ID: 17776658/0x010F4012) [7289*]:
     → "That's Galmut for you. Look, if we get enough signatures with $6, we might be able to stop the plan!"
  74: 0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0A8E [0x1C] WAIT(60* ticks)
@@ -1042,15 +1042,15 @@ SUBROUTINE_0870:
  19: 0x0B7E [0x4D] EventEntity->StatusEvent = 9 // Close door
  20: 0x0B7F [0x4A] LocalPlayer looks at Narihira (ID: 17776658/0x010F4012)
  21: 0x0B88 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at LocalPlayer
- 22: 0x0B91 [0x2B] Narihira (ID: 17776658/0x010F4012) [7295*]:
+ 22: 0x0B91 [0x2B] Narihira (ID: 17776658/0x010F4012) [7296*]:
     → "What!? You've..."
  23: 0x0B98 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0B99 [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x24)
  25: 0x0BA0 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x12)
- 26: 0x0BA7 [0x2B] Narihira (ID: 17776658/0x010F4012) [7296*]:
+ 26: 0x0BA7 [0x2B] Narihira (ID: 17776658/0x010F4012) [7297*]:
     → "I heard somebody started a petition. But it was you? Galmut should be happy to have such a good friend."
  27: 0x0BAE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0BAF [0x2B] Narihira (ID: 17776658/0x010F4012) [7297*]:
+ 28: 0x0BAF [0x2B] Narihira (ID: 17776658/0x010F4012) [7298*]:
     → "I wonder where he ran off to, anyway. How pathetic!"
  29: 0x0BB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x0BB7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x26)
@@ -1062,7 +1062,7 @@ SUBROUTINE_0870:
  36: 0x0BD8 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at Galmut (ID: 17776657/0x010F4011)
  37: 0x0BE1 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x11)
  38: 0x0BE8 [0x1C] WAIT(10* ticks)
- 39: 0x0BEB [0x2B] Galmut (ID: 17776657/0x010F4011) [7298*]:
+ 39: 0x0BEB [0x2B] Galmut (ID: 17776657/0x010F4011) [7299*]:
     → "Everyone's out to get me! It's all over!"
  40: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0BF3 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x23)
@@ -1072,36 +1072,36 @@ SUBROUTINE_0870:
  45: 0x0C1B [0x4A] Galmut (ID: 17776657/0x010F4011) looks at Narihira (ID: 17776658/0x010F4012)
  46: 0x0C24 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  47: 0x0C25 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
- 48: 0x0C2A [0x2B] Galmut (ID: 17776657/0x010F4011) [7299*]:
+ 48: 0x0C2A [0x2B] Galmut (ID: 17776657/0x010F4011) [7300*]:
     → "Mr. Narihira... And you... What are you doing here?"
  49: 0x0C31 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0C32 [0x27] REQ_SET(priority=0x06, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x0E)
- 51: 0x0C39 [0x2B] Narihira (ID: 17776658/0x010F4012) [7300*]:
+ 51: 0x0C39 [0x2B] Narihira (ID: 17776658/0x010F4012) [7301*]:
     → "Shut your trap and listen for once! Your friend here's gathered so many signatures, the petition to save the clock tower was a success!"
  52: 0x0C40 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0C41 [0x29] REQ_SET_WAIT(priority=0x07, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x1A)
  54: 0x0C48 [0x4A] Galmut (ID: 17776657/0x010F4011) looks at Narihira (ID: 17776658/0x010F4012)
  55: 0x0C51 [0x1C] WAIT(120* ticks)
  56: 0x0C54 [0x4A] Galmut (ID: 17776657/0x010F4011) looks at LocalPlayer
- 57: 0x0C5D [0x2B] Galmut (ID: 17776657/0x010F4011) [7301*]:
+ 57: 0x0C5D [0x2B] Galmut (ID: 17776657/0x010F4011) [7302*]:
     → "Huh? Petition? Does that mean her gears'll keep turning?"
  58: 0x0C64 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0C65 [0x27] REQ_SET(priority=0x03, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x15)
- 60: 0x0C6C [0x2B] Narihira (ID: 17776658/0x010F4012) [7302*]:
+ 60: 0x0C6C [0x2B] Narihira (ID: 17776658/0x010F4012) [7303*]:
     → "Of course, you fool! Right now, you're the stopped clock."
  61: 0x0C73 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0C74 [0x4A] Galmut (ID: 17776657/0x010F4011) looks at Narihira (ID: 17776658/0x010F4012)
- 63: 0x0C7D [0x2B] Narihira (ID: 17776658/0x010F4012) [7303*]:
+ 63: 0x0C7D [0x2B] Narihira (ID: 17776658/0x010F4012) [7304*]:
     → "You know what that means, don'tcha? No more resounding rings. Catch my drift, sonny?"
  64: 0x0C84 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0C85 [0x1C] WAIT(60* ticks)
- 66: 0x0C88 [0x2B] Galmut (ID: 17776657/0x010F4011) [7304*]:
+ 66: 0x0C88 [0x2B] Galmut (ID: 17776657/0x010F4011) [7305*]:
     → "Mr. Narihira... I'm sorry."
  67: 0x0C8F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0C90 [0x2B] Narihira (ID: 17776658/0x010F4012) [7305*]:
+ 68: 0x0C90 [0x2B] Narihira (ID: 17776658/0x010F4012) [7306*]:
     → "Hell, I don't care how you feel!"
  69: 0x0C97 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0C98 [0x2B] Narihira (ID: 17776658/0x010F4012) [7306*]:
+ 70: 0x0C98 [0x2B] Narihira (ID: 17776658/0x010F4012) [7307*]:
     → "You gotta face all the people out there who count on that clock! Without the bells each day..."
  71: 0x0C9F [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0CA0 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x16)
@@ -1112,29 +1112,29 @@ SUBROUTINE_0870:
  77: 0x0CBB [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x25)
  78: 0x0CC2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm94" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
  79: 0x0CD3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm94" with entities [LocalPlayer, LocalPlayer], work=144*
- 80: 0x0CE2 [0x2B] Galmut (ID: 17776657/0x010F4011) [7308*]:
+ 80: 0x0CE2 [0x2B] Galmut (ID: 17776657/0x010F4011) [7309*]:
     → "Mr. Narihira!"
  81: 0x0CE9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0CEA [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x1A)
  83: 0x0CF1 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x21)
  84: 0x0CF8 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at Galmut (ID: 17776657/0x010F4011)
- 85: 0x0D01 [0x2B] Narihira (ID: 17776658/0x010F4012) [7309*]:
+ 85: 0x0D01 [0x2B] Narihira (ID: 17776658/0x010F4012) [7310*]:
     → "Oh, I'm all right. I just kept the clock going while you were gone. And by golly, I was rustier than she was!"
  86: 0x0D08 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0D09 [0x27] REQ_SET(priority=0x05, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
- 88: 0x0D10 [0x2B] Galmut (ID: 17776657/0x010F4011) [7310*]:
+ 88: 0x0D10 [0x2B] Galmut (ID: 17776657/0x010F4011) [7311*]:
     → "I don't know how to thank you. Nobody's ever cared enough to talk straight to me."
  89: 0x0D17 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0D18 [0x4A] LocalPlayer looks at Galmut (ID: 17776657/0x010F4011)
  91: 0x0D21 [0x29] REQ_SET_WAIT(priority=0x06, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
- 92: 0x0D28 [0x2B] Narihira (ID: 17776658/0x010F4012) [7311*]:
+ 92: 0x0D28 [0x2B] Narihira (ID: 17776658/0x010F4012) [7312*]:
     → "Hah! What kinda moron likes getting chewed out!?"
  93: 0x0D2F [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0D30 [0x4A] Narihira (ID: 17776658/0x010F4012) looks at LocalPlayer
  95: 0x0D39 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  96: 0x0D3A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Narihira (ID: 17776658/0x010F4012) Render.Flags0 and Render.Flags3 conditions are met
  97: 0x0D3F [0x27] REQ_SET(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
- 98: 0x0D46 [0x2B] Narihira (ID: 17776658/0x010F4012) [7312*]:
+ 98: 0x0D46 [0x2B] Narihira (ID: 17776658/0x010F4012) [7313*]:
     → "Besides, I think there's someone else you should be thankin'. Your precious clock'd be scrap if it weren't for [him/her]."
  99: 0x0D4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x0D4E [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
@@ -1144,12 +1144,12 @@ SUBROUTINE_0870:
 104: 0x0D64 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm95" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
 105: 0x0D75 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm95" with entities [LocalPlayer, LocalPlayer], work=144*
 106: 0x0D84 [0x1C] WAIT(15* ticks)
-107: 0x0D87 [0x2B] Galmut (ID: 17776657/0x010F4011) [7313*]:
+107: 0x0D87 [0x2B] Galmut (ID: 17776657/0x010F4011) [7314*]:
     → "I don't know what to say... Or how to thank you... This ain't much, but it means a lot to me. Please, I want you to have it."
 108: 0x0D8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x0D8F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1F)
 110: 0x0D96 [0x27] REQ_SET(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x1C)
-111: 0x0D9D [0x2B] Galmut (ID: 17776657/0x010F4011) [7314*]:
+111: 0x0D9D [0x2B] Galmut (ID: 17776657/0x010F4011) [7315*]:
     → "I'm so grateful. I'll make sure nothing ever happens to that clock, because it's what binds all the people together."
 112: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0DA5 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Galmut (ID: 17776657/0x010F4011), tag_num=0x24)
@@ -1160,14 +1160,14 @@ SUBROUTINE_0870:
 118: 0x0DBE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm96" with entities [LocalPlayer, LocalPlayer], work=[144*, 0*]
 119: 0x0DCF [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm96" with entities [LocalPlayer, LocalPlayer], work=144*
 120: 0x0DDE [0x27] REQ_SET(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
-121: 0x0DE5 [0x2B] Narihira (ID: 17776658/0x010F4012) [7315*]:
+121: 0x0DE5 [0x2B] Narihira (ID: 17776658/0x010F4012) [7316*]:
     → "I believe you, Galmut."
 122: 0x0DEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0DED [0x27] REQ_SET(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)
 124: 0x0DF4 [0x4A] Galmut (ID: 17776657/0x010F4011) looks at Narihira (ID: 17776658/0x010F4012)
 125: 0x0DFD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 126: 0x0DFE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Galmut (ID: 17776657/0x010F4011) Render.Flags0 and Render.Flags3 conditions are met
-127: 0x0E03 [0x2B] Narihira (ID: 17776658/0x010F4012) [7316*]:
+127: 0x0E03 [0x2B] Narihira (ID: 17776658/0x010F4012) [7317*]:
     → "Well, you got your work cut out for you. Get to it, kiddo!"
 128: 0x0E0A [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0E0B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1223,7 +1223,7 @@ SUBROUTINE_0870:
  11: 0x0E91 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Narihira (ID: 17776658/0x010F4012) Render.Flags0 and Render.Flags3 conditions are met
  12: 0x0E96 [0x4A] LocalPlayer looks at Narihira (ID: 17776658/0x010F4012)
  13: 0x0E9F [0x27] REQ_SET(priority=0x04, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x11)
- 14: 0x0EA6 [0x2B] Narihira (ID: 17776658/0x010F4012) [7320*]:
+ 14: 0x0EA6 [0x2B] Narihira (ID: 17776658/0x010F4012) [7321*]:
     → "Oh, it's you, huh? Galmut's workin' hard as ever, thanks to you. Do me a favor and check up on him once in a while, okay?"
  15: 0x0EAD [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0EAE [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Narihira (ID: 17776658/0x010F4012), tag_num=0x19)

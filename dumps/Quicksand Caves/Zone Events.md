@@ -54,51 +54,51 @@
 |      20 | 0x003B      |          59 |
 |      21 | 0x0008      |           8 |
 |      22 | 0x0045      |          69 |
-|      23 | 0x1CBD      |        7357 |
-|      24 | 0x1CBE      |        7358 |
+|      23 | 0x1CBE      |        7358 |
+|      24 | 0x1CBF      |        7359 |
 |      25 | 0x00C7      |         199 |
-|      26 | 0x1CBF      |        7359 |
+|      26 | 0x1CC0      |        7360 |
 |      27 | 0x003C      |          60 |
 |      28 | 0x0014      |          20 |
-|      29 | 0x1CC0      |        7360 |
-|      30 | 0x1CC1      |        7361 |
-|      31 | 0x1CC2      |        7362 |
-|      32 | 0x1CC3      |        7363 |
-|      33 | 0x1CC4      |        7364 |
-|      34 | 0x1CC5      |        7365 |
+|      29 | 0x1CC1      |        7361 |
+|      30 | 0x1CC2      |        7362 |
+|      31 | 0x1CC3      |        7363 |
+|      32 | 0x1CC4      |        7364 |
+|      33 | 0x1CC5      |        7365 |
+|      34 | 0x1CC6      |        7366 |
 |      35 | 0x020A      |         522 |
-|      36 | 0x1CC6      |        7366 |
-|      37 | 0x1CC7      |        7367 |
-|      38 | 0x1CC8      |        7368 |
-|      39 | 0x1CC9      |        7369 |
-|      40 | 0x1CCA      |        7370 |
+|      36 | 0x1CC7      |        7367 |
+|      37 | 0x1CC8      |        7368 |
+|      38 | 0x1CC9      |        7369 |
+|      39 | 0x1CCA      |        7370 |
+|      40 | 0x1CCB      |        7371 |
 |      41 | 0xFFF82AB8  |  4294453944 |
 |      42 | 0xFFF9BB18  |  4294556440 |
 |      43 | 0xFFFFFD13  |  4294966547 |
 |      44 | 0x0DAA      |        3498 |
-|      45 | 0x1CCB      |        7371 |
-|      46 | 0x1CCC      |        7372 |
+|      45 | 0x1CCC      |        7372 |
+|      46 | 0x1CCD      |        7373 |
 |      47 | 0x0032      |          50 |
 |      48 | 0x000A      |          10 |
-|      49 | 0x1CCD      |        7373 |
-|      50 | 0x1CCE      |        7374 |
+|      49 | 0x1CCE      |        7374 |
+|      50 | 0x1CCF      |        7375 |
 |      51 | 0x00F4      |         244 |
-|      52 | 0x1CCF      |        7375 |
-|      53 | 0x1CD0      |        7376 |
-|      54 | 0x1CD1      |        7377 |
+|      52 | 0x1CD0      |        7376 |
+|      53 | 0x1CD1      |        7377 |
+|      54 | 0x1CD2      |        7378 |
 |      55 | 0x0078      |         120 |
 |      56 | 0xFFF8DC4D  |  4294499405 |
 |      57 | 0x9738E     |      619406 |
 |      58 | 0x08AD      |        2221 |
 |      59 | 0x00C2      |         194 |
-|      60 | 0x1CB5      |        7349 |
-|      61 | 0x1CB6      |        7350 |
-|      62 | 0x1CB7      |        7351 |
-|      63 | 0x1CB8      |        7352 |
-|      64 | 0x1CB9      |        7353 |
-|      65 | 0x1CBA      |        7354 |
-|      66 | 0x1CBB      |        7355 |
-|      67 | 0x1CBC      |        7356 |
+|      60 | 0x1CB6      |        7350 |
+|      61 | 0x1CB7      |        7351 |
+|      62 | 0x1CB8      |        7352 |
+|      63 | 0x1CB9      |        7353 |
+|      64 | 0x1CBA      |        7354 |
+|      65 | 0x1CBB      |        7355 |
+|      66 | 0x1CBC      |        7356 |
+|      67 | 0x1CBD      |        7357 |
 |      68 | 0x0028      |          40 |
 |      69 | 0xFFF8D707  |  4294498055 |
 |      70 | 0x98568     |      623976 |
@@ -119,7 +119,7 @@
 
 ## String References
 
-- **7357**: Ancient letters are carved here, but you are unable to read them.
+- **7358**: Ancient letters are carved here, but you are unable to read them.
 
 ## Events
 
@@ -293,7 +293,7 @@ SUBROUTINE_00C7:
  32: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[0]
  33: 0x00D6 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha0" with entities [LocalPlayer, LocalPlayer]
  34: 0x00E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sir0" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[0]
- 35: 0x00F2 [0x48] [System] [7357*]:
+ 35: 0x00F2 [0x48] [System] [7358*]:
     → "Ancient letters are carved here, but you are unable to read them."
  36: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [LocalPlayer, LocalPlayer], work=ExtData[1]->WorkLocal[0]
@@ -301,14 +301,14 @@ SUBROUTINE_00C7:
  39: 0x0114 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  40: 0x0125 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[219*, 0*]
  41: 0x0136 [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17629734/0x010D0226), tag_num=0x02)
- 42: 0x013D [0x2B] Zeid (ID: 17629734/0x010D0226) [7358*]:
+ 42: 0x013D [0x2B] Zeid (ID: 17629734/0x010D0226) [7359*]:
     → "This...this mural softly whispers the history of Altepa."
  43: 0x0144 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0145 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [LocalPlayer, LocalPlayer]
  45: 0x0152 [0x1E] EventEntity looks at Zeid (ID: 17629734/0x010D0226) and starts talking
  46: 0x0157 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 199*
  47: 0x015B [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 199*
- 48: 0x015F [0x2B] Zeid (ID: 17629734/0x010D0226) [7359*]:
+ 48: 0x015F [0x2B] Zeid (ID: 17629734/0x010D0226) [7360*]:
     → "This may appear to be ancient ruins, but these buildings were used up until a mere three generations ago."
  49: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0167 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -319,16 +319,16 @@ SUBROUTINE_00C7:
  55: 0x0197 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  56: 0x01A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[219*, 0*]
  57: 0x01B9 [0x1C] WAIT(20* ticks)
- 58: 0x01BC [0x2B] Zeid (ID: 17629734/0x010D0226) [7360*]:
+ 58: 0x01BC [0x2B] Zeid (ID: 17629734/0x010D0226) [7361*]:
     → "One force battles another...a situation necessary in any country's history. And, as you may have already guessed, there were two forces in Altepa as well."
  59: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x01C4 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17629734/0x010D0226))
  61: 0x01CA [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [EventEntity, EventEntity], work=219*
  62: 0x01D9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[219*, 0*]
- 63: 0x01EA [0x2B] Zeid (ID: 17629734/0x010D0226) [7361*]:
+ 63: 0x01EA [0x2B] Zeid (ID: 17629734/0x010D0226) [7362*]:
     → "The Galka mistakenly disturbed the Antica, who lived deep beneath Vana'diel. In the early stages of their battles, the Galka used their strength to gain the upper hand."
  64: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x01F2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7362*]:
+ 65: 0x01F2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7363*]:
     → "However, it was not strength that decided the outcome of this conflict. The Antica, with their amazing reproductive ability, simply outnumbered the Galka."
  66: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01FA [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [EventEntity, EventEntity], work=219*
@@ -337,18 +337,18 @@ SUBROUTINE_00C7:
  70: 0x021D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [EventEntity, EventEntity], work=[219*, 0*]
  71: 0x022E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  72: 0x023F [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17629734/0x010D0226), tag_num=0x04)
- 73: 0x0246 [0x2B] Zeid (ID: 17629734/0x010D0226) [7363*]:
+ 73: 0x0246 [0x2B] Zeid (ID: 17629734/0x010D0226) [7364*]:
     → "When a Galka senses his death, he sets out on a journey to climb a high mountain and await his final moments. There, guided by a magnificent light, he gains a new body, and with that body climbs down from the mountain."
  74: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x024E [0x2B] Zeid (ID: 17629734/0x010D0226) [7364*]:
+ 75: 0x024E [0x2B] Zeid (ID: 17629734/0x010D0226) [7365*]:
     → "However, no one has ever seen this miracle take place. It may just be simple folklore."
  76: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0256 [0x2B] Zeid (ID: 17629734/0x010D0226) [7365*]:
+ 77: 0x0256 [0x2B] Zeid (ID: 17629734/0x010D0226) [7366*]:
     → "All we Galka see is one of our brothers setting off on a journey. Then, less than a year later, a new Galka child arrives in our camps."
  78: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x025E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17629734/0x010D0226))
  80: 0x0264 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hek2" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=522*
- 81: 0x0273 [0x2B] Zeid (ID: 17629734/0x010D0226) [7366*]:
+ 81: 0x0273 [0x2B] Zeid (ID: 17629734/0x010D0226) [7367*]:
     → "If they carry something with them from their previous life, they may be given their old name, but other than that, no reborn Galka have any recollection of their former selves."
  82: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x027B [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=219*
@@ -356,32 +356,32 @@ SUBROUTINE_00C7:
  85: 0x029B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [EventEntity, EventEntity], work=[219*, 0*]
  86: 0x02AC [0x6B] STOP_AND_IDLE: Zeid (ID: 17629734/0x010D0226) stops current action and resets to idle (animation="idl0")
  87: 0x02B5 [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17629734/0x010D0226), tag_num=0x05)
- 88: 0x02BC [0x2B] Zeid (ID: 17629734/0x010D0226) [7367*]:
+ 88: 0x02BC [0x2B] Zeid (ID: 17629734/0x010D0226) [7368*]:
     → "That is, all except one--one every generation."
  89: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x02C4 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17629734/0x010D0226))
- 91: 0x02CA [0x2B] Zeid (ID: 17629734/0x010D0226) [7368*]:
+ 91: 0x02CA [0x2B] Zeid (ID: 17629734/0x010D0226) [7369*]:
     → "That one we call the Talekeeper. After proving he truly holds two hundred years of memories, he is then appointed new leader of the Galka."
  92: 0x02D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x02D2 [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [EventEntity, EventEntity], work=219*
  94: 0x02E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[219*, 0*]
- 95: 0x02F2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7369*]:
+ 95: 0x02F2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7370*]:
     → "Tradition binds this keeper of memories to his new position, and it is this tradition that the Galka have blindly followed for generations."
  96: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x02FA [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hek0" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)]
  98: 0x0307 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hek1" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=522*
- 99: 0x0316 [0x2B] Zeid (ID: 17629734/0x010D0226) [7370*]:
+ 99: 0x0316 [0x2B] Zeid (ID: 17629734/0x010D0226) [7371*]:
     → "This tradition is a great burden for those who must bear it. As you may already know, not one Talekeeper has ever lived long enough to set out on his journey of rebirth."
 100: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x031E [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-513.352*, z=-410.856*, y=-0.749*, direction=307.4°*
 102: 0x0327 [0x79] LocalPlayer looks at Zeid (ID: 17629734/0x010D0226) (Basic look)
 103: 0x0331 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=219*
 104: 0x0340 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [EventEntity, EventEntity], work=[219*, 0*]
-105: 0x0351 [0x2B] Zeid (ID: 17629734/0x010D0226) [7371*]:
+105: 0x0351 [0x2B] Zeid (ID: 17629734/0x010D0226) [7372*]:
     → "One suffered from the fear that one day, he would lose hundreds of years of memories... Another could not handle the responsibility heaped upon him, and disappeared...never to be seen again."
 106: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0359 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hek2" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=522*
-108: 0x0368 [0x2B] Zeid (ID: 17629734/0x010D0226) [7372*]:
+108: 0x0368 [0x2B] Zeid (ID: 17629734/0x010D0226) [7373*]:
     → "And one...one felt the anger of our race multiply within his heart until he could no longer control it, and finally became the Shadow Lord."
 109: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0370 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -390,24 +390,24 @@ SUBROUTINE_00C7:
 113: 0x038D [0x1C] WAIT(10* ticks)
 114: 0x0390 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [EventEntity, EventEntity], work=[219*, 0*]
 115: 0x03A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-116: 0x03B2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7373*]:
+116: 0x03B2 [0x2B] Zeid (ID: 17629734/0x010D0226) [7374*]:
     → "The Galka need not be chained to this destiny. However, I feel the only one that can break these chains is the Talekeeper."
 117: 0x03B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x03BA [0x4A] Zeid (ID: 17629734/0x010D0226) looks at LocalPlayer
-119: 0x03C3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7374*]:
+119: 0x03C3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7375*]:
     → "The new Talekeeper will soon come forth of his own will. He will know when the time is right."
 120: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x03CB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tkb0" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=244*
-122: 0x03DA [0x2B] Zeid (ID: 17629734/0x010D0226) [7375*]:
+122: 0x03DA [0x2B] Zeid (ID: 17629734/0x010D0226) [7376*]:
     → "Tell Iron Eater to look after him when that time comes."
 123: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x03E2 [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=219*
 125: 0x03F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[219*, 0*]
-126: 0x0402 [0x2B] Zeid (ID: 17629734/0x010D0226) [7376*]:
+126: 0x0402 [0x2B] Zeid (ID: 17629734/0x010D0226) [7377*]:
     → "Only at that time will I finally be released from the responsibilities that bind me."
 127: 0x0409 [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x040A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tkb1" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=244*
-129: 0x0419 [0x2B] Zeid (ID: 17629734/0x010D0226) [7377*]:
+129: 0x0419 [0x2B] Zeid (ID: 17629734/0x010D0226) [7378*]:
     → "And at that time, we Galka must swallow our pride and face the Humes, as I must face my old comrade, Volker..."
 130: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x0421 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkb1" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)]
@@ -482,42 +482,42 @@ SUBROUTINE_00C7:
  10: 0x04AD [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 194*
  11: 0x04B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x04C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [EventEntity, EventEntity], work=[219*, 0*]
- 13: 0x04D3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7349*]:
+ 13: 0x04D3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7350*]:
     → "Well done, <Player>."
  14: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x04DB [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17629734/0x010D0226))
  16: 0x04E1 [0x4A] LocalPlayer looks at Zeid (ID: 17629734/0x010D0226)
  17: 0x04EA [0x1C] WAIT(10* ticks)
  18: 0x04ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [EventEntity, EventEntity], work=[219*, 0*]
- 19: 0x04FE [0x2B] Zeid (ID: 17629734/0x010D0226) [7350*]:
+ 19: 0x04FE [0x2B] Zeid (ID: 17629734/0x010D0226) [7351*]:
     → "The statue that stands before us is that of a Talekeeper who lived centuries ago."
  20: 0x0505 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0506 [0x4A] LocalPlayer looks at ??? (ID: 17629747/0x010D0233)
  22: 0x050F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tkb0" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=244*
- 23: 0x051E [0x2B] Zeid (ID: 17629734/0x010D0226) [7351*]:
+ 23: 0x051E [0x2B] Zeid (ID: 17629734/0x010D0226) [7352*]:
     → "The Galkan Talekeeper is our prophet, our elder, our king. He embodies everything that makes us Galka."
  24: 0x0525 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0526 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=219*
  26: 0x0535 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x0546 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[219*, 0*]
- 28: 0x0557 [0x2B] Zeid (ID: 17629734/0x010D0226) [7352*]:
+ 28: 0x0557 [0x2B] Zeid (ID: 17629734/0x010D0226) [7353*]:
     → "Not the memories of all eternity, but the memories of a mere two hundred years. With this, a young Galka must travel forth and bear the burden of his people."
  29: 0x055E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x055F [0x2B] Zeid (ID: 17629734/0x010D0226) [7353*]:
+ 30: 0x055F [0x2B] Zeid (ID: 17629734/0x010D0226) [7354*]:
     → "After leaving this place, I feel that Raogrimm was troubled by the constant reminders of the anger and grief of the Galkan people."
  31: 0x0566 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0567 [0x2B] Zeid (ID: 17629734/0x010D0226) [7354*]:
+ 32: 0x0567 [0x2B] Zeid (ID: 17629734/0x010D0226) [7355*]:
     → "However, while he could not run from those things, he also could not just stand there and do nothing."
  33: 0x056E [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x056F [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=219*
  35: 0x057E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [EventEntity, EventEntity], work=[219*, 0*]
  36: 0x058F [0x7B] Zeid (ID: 17629734/0x010D0226) stops talking
  37: 0x0594 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tkb1" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)], work=244*
- 38: 0x05A3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7355*]:
+ 38: 0x05A3 [0x2B] Zeid (ID: 17629734/0x010D0226) [7356*]:
     → "To break the chains binding the Talekeeper to this endless agony, we Galka must search out the truth that the Talekeeper holds within."
  39: 0x05AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x05AB [0x4A] Zeid (ID: 17629734/0x010D0226) looks at LocalPlayer
- 41: 0x05B4 [0x2B] Zeid (ID: 17629734/0x010D0226) [7356*]:
+ 41: 0x05B4 [0x2B] Zeid (ID: 17629734/0x010D0226) [7357*]:
     → "Located on H-8 of your map is a mural painted on the walls of these ruins. I will be waiting for you there with words to take back with you to Bastok."
  42: 0x05BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x05BC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tkb1" with entities [Zeid (ID: 17629734/0x010D0226), Zeid (ID: 17629734/0x010D0226)]

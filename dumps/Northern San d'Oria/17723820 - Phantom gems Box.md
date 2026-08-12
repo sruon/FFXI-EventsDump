@@ -28,13 +28,13 @@
 |       5 | 0x001C      |          28 |
 |       6 | 0x001D      |          29 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x47BF      |       18367 |
+|       8 | 0x47C0      |       18368 |
 |       9 | 0x0019      |          25 |
-|      10 | 0x47C0      |       18368 |
+|      10 | 0x47C1      |       18369 |
 |      11 | 0x001F      |          31 |
 |      12 | 0x000F      |          15 |
 |      13 | 0x0010      |          16 |
-|      14 | 0x47C1      |       18369 |
+|      14 | 0x47C2      |       18370 |
 |      15 | 0x09A4      |        2468 |
 |      16 | 0x09A6      |        2470 |
 |      17 | 0x09A5      |        2469 |
@@ -64,9 +64,9 @@
 
 ## String References
 
-- **18367**: Select a phantom gem to receive.
-- **18368**: Which would you like? ($31 left) [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Never mind.]
-- **18369**: Receive the $3? [Yes./No.]
+- **18368**: Select a phantom gem to receive.
+- **18369**: Which would you like? ($31 left) [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Never mind.]
+- **18370**: Receive the $3? [Yes./No.]
 
 ## Events
 
@@ -145,7 +145,7 @@
   8: 0x0035 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=29*, condition_work_offset=1*)
   9: 0x003C [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[0], bit_index_work_offset=30*, condition_work_offset=1*)
  10: 0x0043 [0x03] ExtData[1]->WorkLocal[6] = 0*
- 11: 0x0048 [0x48] [System] [18367*]:
+ 11: 0x0048 [0x48] [System] [18368*]:
     → "Select a phantom gem to receive."
  12: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x004C [0x03] ExtData[1]->WorkLocal[2] = 0*
@@ -162,7 +162,7 @@ SUBROUTINE_0086:
  22: 0x0086 [0x0B] ExtData[1]->WorkLocal[2]++
  23: 0x0089 [0x01] GOTO 0x0059
  24: 0x008C [0x03] Work_Zone_1700[23] = ExtData[1]->WorkLocal[4]
- 25: 0x0091 [0x24] CREATE_DIALOG(message_id=18368*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[0])
+ 25: 0x0091 [0x24] CREATE_DIALOG(message_id=18369*, default_option=ExtData[1]->WorkLocal[6], option_flags=ExtData[1]->WorkLocal[0])
     → "Which would you like? ($31 left) [3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./$3./Never mind.]"
  26: 0x0098 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0099 [0x02] IF !(Work_Zone[0] == 31*) GOTO 0x00A9
@@ -176,7 +176,7 @@ SUBROUTINE_00C0:
  33: 0x00C0 [0x02] IF !(Work_Zone[1] == 0*) GOTO 0x00CB
  34: 0x00C8 [0x01] GOTO 0x00FB
  35: 0x00CB [0x9D] IF (0xFD) Work_Zone[0] = Work_Zone[2] // extra=0x8002
- 36: 0x00D5 [0x24] CREATE_DIALOG(message_id=18369*, default_option=1*, option_flags=0*)
+ 36: 0x00D5 [0x24] CREATE_DIALOG(message_id=18370*, default_option=1*, option_flags=0*)
     → "Receive the $3? [Yes./No.]"
  37: 0x00DC [0x25] WAIT_DIALOG_SELECT()
  38: 0x00DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E8

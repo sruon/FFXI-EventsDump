@@ -22,22 +22,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F8C      |        8076 |
-|       1 | 0x1F8D      |        8077 |
-|       2 | 0x1F9A      |        8090 |
+|       0 | 0x1F8D      |        8077 |
+|       1 | 0x1F8E      |        8078 |
+|       2 | 0x1F9B      |        8091 |
 |       3 | 0x0045      |          69 |
-|       4 | 0x1F9B      |        8091 |
-|       5 | 0x1F9C      |        8092 |
-|       6 | 0x1F9D      |        8093 |
+|       4 | 0x1F9C      |        8092 |
+|       5 | 0x1F9D      |        8093 |
+|       6 | 0x1F9E      |        8094 |
 
 ## String References
 
-- **8076**: Well, this here's a sight. Don't get many travelers out this way, y'see.
-- **8077**: This is Parradamo Tor. You'd best watch your step around here. It's quite a ways down, as surely ye can see.
-- **8090**: Well, this here's a sight. Don't get many travelers out--
-- **8091**: What's that y' have with ye? Rations, and a linkpearl to boot!?
-- **8092**: Can't thank ye enough, friend. When I lost contact with the camp, I thought I was done for.
-- **8093**: Ye take care of yerself, now.
+- **8077**: Well, this here's a sight. Don't get many travelers out this way, y'see.
+- **8078**: This is Parradamo Tor. You'd best watch your step around here. It's quite a ways down, as surely ye can see.
+- **8091**: Well, this here's a sight. Don't get many travelers out--
+- **8092**: What's that y' have with ye? Rations, and a linkpearl to boot!?
+- **8093**: Can't thank ye enough, friend. When I lost contact with the camp, I thought I was done for.
+- **8094**: Ye take care of yerself, now.
 
 ## Events
 
@@ -83,10 +83,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Well, this here's a sight. Don't get many travelers out this way, y'see."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "This is Parradamo Tor. You'd best watch your step around here. It's quite a ways down, as surely ye can see."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -119,17 +119,17 @@
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0016 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0017 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
     → "Well, this here's a sight. Don't get many travelers out--"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=69*
-  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
+  7: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
     → "What's that y' have with ye? Rations, and a linkpearl to boot!?"
   8: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+  9: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "Can't thank ye enough, friend. When I lost contact with the camp, I thought I was done for."
  10: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+ 11: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "Ye take care of yerself, now."
  12: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0037 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=69*
@@ -158,7 +158,7 @@
 
 ```
   0: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+  1: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "Ye take care of yerself, now."
   2: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0051 [0x21] END_EVENT

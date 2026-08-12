@@ -23,27 +23,27 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x31F5      |       12789 |
+|       0 | 0x31F6      |       12790 |
 |       1 | 0x0115      |         277 |
-|       2 | 0x31F6      |       12790 |
+|       2 | 0x31F7      |       12791 |
 |       3 | 0x0014      |          20 |
-|       4 | 0x31F7      |       12791 |
-|       5 | 0x31F8      |       12792 |
-|       6 | 0x31F9      |       12793 |
-|       7 | 0x31FA      |       12794 |
-|       8 | 0x31FB      |       12795 |
+|       4 | 0x31F8      |       12792 |
+|       5 | 0x31F9      |       12793 |
+|       6 | 0x31FA      |       12794 |
+|       7 | 0x31FB      |       12795 |
+|       8 | 0x31FC      |       12796 |
 |       9 | 0x00C9      |         201 |
 |      10 | 0x0000      |           0 |
 
 ## String References
 
-- **12789**: My name is Charlaimagnat. I am engaged in the translation of ancient texts found in ruins across Vana'diel.
-- **12790**: Ah, you must be the adventurer, <Player>. I have recently received correspondence from Alfesar. I believe you have a letter and $6 for me.
-- **12791**: As Alfesar reported in his letter, ancient magic is engraved upon this tablet.
-- **12792**: However, I will need more time to decipher all the text. I still cannot tell what magic this spell is for.
-- **12793**: Please return another day and I shall share with you what I have found. May Altana's providence guide you on your journey.
-- **12794**: Ah, <Player>. I have finished deciphering the spell. I give you my thanks for your assistance.
-- **12795**: Now that the text is translated, we can produce copies. I would like to offer you one in expression of our gratitude.
+- **12790**: My name is Charlaimagnat. I am engaged in the translation of ancient texts found in ruins across Vana'diel.
+- **12791**: Ah, you must be the adventurer, <Player>. I have recently received correspondence from Alfesar. I believe you have a letter and $6 for me.
+- **12792**: As Alfesar reported in his letter, ancient magic is engraved upon this tablet.
+- **12793**: However, I will need more time to decipher all the text. I still cannot tell what magic this spell is for.
+- **12794**: Please return another day and I shall share with you what I have found. May Altana's providence guide you on your journey.
+- **12795**: Ah, <Player>. I have finished deciphering the spell. I give you my thanks for your assistance.
+- **12796**: Now that the text is translated, we can produce copies. I would like to offer you one in expression of our gratitude.
 
 ## Events
 
@@ -89,7 +89,7 @@
 
 ```
   0: 0x0001 [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=12789*)
+  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
     → "My name is Charlaimagnat. I am engaged in the translation of ancient texts found in ruins across Vana'diel."
   2: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0008 [0x21] END_EVENT
@@ -124,19 +124,19 @@
   0: 0x000A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000B [0x1A] CALL_SUBROUTINE(address=0x00D1)
   2: 0x000E [0x03] Work_Zone[3] = 277*
-  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12790*)
+  3: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
     → "Ah, you must be the adventurer, <Player>. I have recently received correspondence from Alfesar. I believe you have a letter and $6 for me."
   4: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0017 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12791*)
+  6: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
     → "As Alfesar reported in his letter, ancient magic is engraved upon this tablet."
   7: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=12792*)
+  8: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
     → "However, I will need more time to decipher all the text. I still cannot tell what magic this spell is for."
   9: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  11: 0x003D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 12: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
+ 12: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
     → "Please return another day and I shall share with you what I have found. May Altana's providence guide you on your journey."
  13: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x004E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
@@ -168,7 +168,7 @@
 
 ```
   0: 0x006C [0x1A] CALL_SUBROUTINE(address=0x00D1)
-  1: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=12793*)
+  1: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
     → "Please return another day and I shall share with you what I have found. May Altana's providence guide you on your journey."
   2: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0073 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
@@ -203,11 +203,11 @@
   0: 0x0091 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0092 [0x1A] CALL_SUBROUTINE(address=0x00D1)
   2: 0x0095 [0x03] Work_Zone[3] = 277*
-  3: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=12794*)
+  3: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
     → "Ah, <Player>. I have finished deciphering the spell. I give you my thanks for your assistance."
   4: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x009E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
-  6: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12795*)
+  6: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=12796*)
     → "Now that the text is translated, we can produce copies. I would like to offer you one in expression of our gratitude."
   7: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

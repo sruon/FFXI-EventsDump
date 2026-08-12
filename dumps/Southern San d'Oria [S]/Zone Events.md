@@ -235,19 +235,19 @@
 |      43 | 0x937B      |       37755 |
 |      44 | 0x0028      |          40 |
 |      45 | 0x0001      |           1 |
-|      46 | 0x2C0F      |       11279 |
-|      47 | 0x2C10      |       11280 |
+|      46 | 0x2C10      |       11280 |
+|      47 | 0x2C11      |       11281 |
 |      48 | 0x0002      |           2 |
 |      49 | 0x0003      |           3 |
-|      50 | 0x2C12      |       11282 |
-|      51 | 0x2C11      |       11281 |
+|      50 | 0x2C13      |       11283 |
+|      51 | 0x2C12      |       11282 |
 |      52 | 0x43F5      |       17397 |
-|      53 | 0x2C13      |       11283 |
-|      54 | 0x2C14      |       11284 |
-|      55 | 0x2C15      |       11285 |
+|      53 | 0x2C14      |       11284 |
+|      54 | 0x2C15      |       11285 |
+|      55 | 0x2C16      |       11286 |
 |      56 | 0x4269      |       17001 |
-|      57 | 0x2C16      |       11286 |
-|      58 | 0x2C17      |       11287 |
+|      57 | 0x2C17      |       11287 |
+|      58 | 0x2C18      |       11288 |
 |      59 | 0xFFFE8805  |  4294871045 |
 |      60 | 0x10347     |       66375 |
 |      61 | 0xFFFFE891  |  4294961297 |
@@ -1112,30 +1112,30 @@
   5: 0x018C [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[5]
   6: 0x0191 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[6]
   7: 0x0196 [0x02] IF !(ExtData[1]->WorkLocal[4] == 1*) GOTO 0x01A9
-  8: 0x019E [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+  8: 0x019E [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
   9: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01A6 [0x01] GOTO 0x036D
  11: 0x01A9 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x0305
  12: 0x01B1 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x01C4
- 13: 0x01B9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 13: 0x01B9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  14: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01C1 [0x01] GOTO 0x0302
  16: 0x01C4 [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0263
  17: 0x01CC [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01DF
- 18: 0x01D4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 18: 0x01D4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  19: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01DC [0x01] GOTO 0x0260
  21: 0x01DF [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x020A
  22: 0x01E7 [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x01FF
  23: 0x01EF [0x03] Work_Zone[2] = 0*
- 24: 0x01F4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
+ 24: 0x01F4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
     → "I have entrusted the care of my mountain home to you, children of Altana."
  25: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x01FC [0x01] GOTO 0x0207
- 27: 0x01FF [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 27: 0x01FF [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  28: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1144,11 +1144,11 @@ SUBROUTINE_0207:
  30: 0x020A [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0235
  31: 0x0212 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x022A
  32: 0x021A [0x03] Work_Zone[2] = 1*
- 33: 0x021F [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
+ 33: 0x021F [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
     → "I have entrusted the care of my mountain home to you, children of Altana."
  34: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0227 [0x01] GOTO 0x0232
- 36: 0x022A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 36: 0x022A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  37: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1157,11 +1157,11 @@ SUBROUTINE_0232:
  39: 0x0235 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x0260
  40: 0x023D [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x0255
  41: 0x0245 [0x03] Work_Zone[2] = 2*
- 42: 0x024A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
+ 42: 0x024A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
     → "I have entrusted the care of my mountain home to you, children of Altana."
  43: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0252 [0x01] GOTO 0x025D
- 45: 0x0255 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 45: 0x0255 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  46: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1172,18 +1172,18 @@ SUBROUTINE_0260:
  48: 0x0260 [0x01] GOTO 0x0302
  49: 0x0263 [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x0302
  50: 0x026B [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x027E
- 51: 0x0273 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11279*]:
+ 51: 0x0273 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11280*]:
     → "So this is one of these "cities" I've heard so much of, is it? Hmph. Seems to be nothing more than a mass of people crowded into a noisy, confined space."
  52: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x027B [0x01] GOTO 0x02FF
  54: 0x027E [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x02A9
  55: 0x0286 [0x03] Work_Zone[2] = 0*
  56: 0x028B [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x029E
- 57: 0x0293 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
+ 57: 0x0293 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11283*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you seem to be...different, somehow. Know this, adventurer. That those who pay proper homage to the wyrms will not go unrewarded."
  58: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x029B [0x01] GOTO 0x02A6
- 60: 0x029E [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
+ 60: 0x029E [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
     → "And what is this? "medicine," you say? Hmph, most novel. I suppose you creatures do have their redeeming qualities."
  61: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1192,11 +1192,11 @@ SUBROUTINE_02A6:
  63: 0x02A9 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x02D4
  64: 0x02B1 [0x03] Work_Zone[2] = 1*
  65: 0x02B6 [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x02C9
- 66: 0x02BE [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
+ 66: 0x02BE [0x2B] Areuhat (ID: 17105260/0x0105016C) [11283*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you seem to be...different, somehow. Know this, adventurer. That those who pay proper homage to the wyrms will not go unrewarded."
  67: 0x02C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x02C6 [0x01] GOTO 0x02D1
- 69: 0x02C9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
+ 69: 0x02C9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
     → "And what is this? "medicine," you say? Hmph, most novel. I suppose you creatures do have their redeeming qualities."
  70: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1205,11 +1205,11 @@ SUBROUTINE_02D1:
  72: 0x02D4 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x02FF
  73: 0x02DC [0x03] Work_Zone[2] = 2*
  74: 0x02E1 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x02F4
- 75: 0x02E9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
+ 75: 0x02E9 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11283*]:
     → "It has been ages since the races of Vana'diel began to worship the line of the wyrms. But you seem to be...different, somehow. Know this, adventurer. That those who pay proper homage to the wyrms will not go unrewarded."
  76: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x02F1 [0x01] GOTO 0x02FC
- 78: 0x02F4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11281*]:
+ 78: 0x02F4 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11282*]:
     → "And what is this? "medicine," you say? Hmph, most novel. I suppose you creatures do have their redeeming qualities."
  79: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1223,31 +1223,31 @@ SUBROUTINE_0302:
  82: 0x0302 [0x01] GOTO 0x036D
  83: 0x0305 [0x02] IF !(ExtData[1]->WorkLocal[8] == 1*) GOTO 0x032D
  84: 0x030D [0x03] Work_Zone[2] = 17397*
- 85: 0x0312 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11283*]:
+ 85: 0x0312 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11284*]:
     → "Is this... Could it be... $0!? For me!?"
  86: 0x0319 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x031A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11284*]:
+ 87: 0x031A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11285*]:
     → "It would seem these lands may still hold some allure yet. Very well, I accept your offering."
  88: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x0322 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11285*]:
+ 89: 0x0322 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11286*]:
     → "You are a truly righteous soul, <Player>. That you are willing to continue to show such devoutness even now, when not called for... It moves me, deeply. You have earned my respect, and my hand. And you shall have them both!"
  90: 0x0329 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x032A [0x01] GOTO 0x036D
  92: 0x032D [0x02] IF !(ExtData[1]->WorkLocal[8] == 2*) GOTO 0x034D
  93: 0x0335 [0x03] Work_Zone[2] = 17397*
- 94: 0x033A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11283*]:
+ 94: 0x033A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11284*]:
     → "Is this... Could it be... $0!? For me!?"
  95: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0342 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11284*]:
+ 96: 0x0342 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11285*]:
     → "It would seem these lands may still hold some allure yet. Very well, I accept your offering."
  97: 0x0349 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x034A [0x01] GOTO 0x036D
  99: 0x034D [0x02] IF !(ExtData[1]->WorkLocal[8] == 3*) GOTO 0x036D
 100: 0x0355 [0x03] Work_Zone[2] = 17001*
-101: 0x035A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11286*]:
+101: 0x035A [0x2B] Areuhat (ID: 17105260/0x0105016C) [11287*]:
     → "Hm, what is this? You come bearing $0? Hmph, I should have expected as much."
 102: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
-103: 0x0362 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11287*]:
+103: 0x0362 [0x2B] Areuhat (ID: 17105260/0x0105016C) [11288*]:
     → "Hear me well, mortal, for so easily are your kind distracted by such superficialities. Know this, that larger does not always equate with better. And that sometimes, the best of things come in the smallest of sizes."
 104: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x036A [0x01] GOTO 0x036D

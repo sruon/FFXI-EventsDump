@@ -85,16 +85,16 @@
 |      18 | 0xFFFF9CB0  |  4294941872 |
 |      19 | 0x40631     |      263729 |
 |      20 | 0xFFFFCD38  |  4294954296 |
-|      21 | 0x1E85      |        7813 |
-|      22 | 0x1E88      |        7816 |
-|      23 | 0x1E89      |        7817 |
-|      24 | 0x1E8D      |        7821 |
-|      25 | 0x1E8E      |        7822 |
-|      26 | 0x1E90      |        7824 |
-|      27 | 0x1E91      |        7825 |
-|      28 | 0x1E95      |        7829 |
-|      29 | 0x1E96      |        7830 |
-|      30 | 0x1E97      |        7831 |
+|      21 | 0x1E86      |        7814 |
+|      22 | 0x1E89      |        7817 |
+|      23 | 0x1E8A      |        7818 |
+|      24 | 0x1E8E      |        7822 |
+|      25 | 0x1E8F      |        7823 |
+|      26 | 0x1E91      |        7825 |
+|      27 | 0x1E92      |        7826 |
+|      28 | 0x1E96      |        7830 |
+|      29 | 0x1E97      |        7831 |
+|      30 | 0x1E98      |        7832 |
 |      31 | 0xFFFF7651  |  4294932049 |
 |      32 | 0x3C18D     |      246157 |
 |      33 | 0xFFFFCF6A  |  4294954858 |
@@ -120,21 +120,21 @@
 |      53 | 0x3B94B     |      244043 |
 |      54 | 0xFFFFCF2D  |  4294954797 |
 |      55 | 0x0050      |          80 |
-|      56 | 0x1E77      |        7799 |
+|      56 | 0x1E78      |        7800 |
 
 ## String References
 
-- **7799**: Not you S.O.B.'s again! What in blazes did you do that for?
-- **7813**: Not you brrrats again! Don't you have betterrr things to do all day than to rrrub my furrr the wrrrong way?
-- **7816**: Oh, you'd betterrr be carrreful then. Sounds like you'rrre making me out to be some kind of baddy, or something?
-- **7817**: If you're out to stop baddies, then you should be chasing after the Minister of the Orastery, Ajido-Marujido, not me! He's the one to watch, you know?
-- **7821**: That evil little magician is abusing his authorrrity as ministerrr and acting out of line. But because he's a ministerrr, the Tarutaru grrrown-ups let him do as he pleases.
-- **7822**: Is this the kind of thing the Starrr Onion Brrrigade can allow to happen?
-- **7824**: Perrrhaps you had betterrr learn morrre about the ways of grrrown-ups beforrre you go too farrr. The adult worrrld isn't as simple as your children's worrrld is...
-- **7825**: See you arrround, I suppose!
-- **7829**: A-ha-ha! If you don't hurrrry up and learn the ways of grrrown-ups, you'll meet worrrse fates than this! I hope this has prrroven to be a valuable lesson!
-- **7830**: Goodbye, my little kittens! This house is enchanted, so no matterrr how much noise you make, no one will everrr hearrr you!
-- **7831**: I hope the ghost of the summonerrr doesn't eat you! Farrrewell!
+- **7800**: Not you S.O.B.'s again! What in blazes did you do that for?
+- **7814**: Not you brrrats again! Don't you have betterrr things to do all day than to rrrub my furrr the wrrrong way?
+- **7817**: Oh, you'd betterrr be carrreful then. Sounds like you'rrre making me out to be some kind of baddy, or something?
+- **7818**: If you're out to stop baddies, then you should be chasing after the Minister of the Orastery, Ajido-Marujido, not me! He's the one to watch, you know?
+- **7822**: That evil little magician is abusing his authorrrity as ministerrr and acting out of line. But because he's a ministerrr, the Tarutaru grrrown-ups let him do as he pleases.
+- **7823**: Is this the kind of thing the Starrr Onion Brrrigade can allow to happen?
+- **7825**: Perrrhaps you had betterrr learn morrre about the ways of grrrown-ups beforrre you go too farrr. The adult worrrld isn't as simple as your children's worrrld is...
+- **7826**: See you arrround, I suppose!
+- **7830**: A-ha-ha! If you don't hurrrry up and learn the ways of grrrown-ups, you'll meet worrrse fates than this! I hope this has prrroven to be a valuable lesson!
+- **7831**: Goodbye, my little kittens! This house is enchanted, so no matterrr how much noise you make, no one will everrr hearrr you!
+- **7832**: I hope the ghost of the summonerrr doesn't eat you! Farrrewell!
 
 ## Events
 
@@ -890,7 +890,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7813*)
+  0: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7814*)
     → "Not you brrrats again! Don't you have betterrr things to do all day than to rrrub my furrr the wrrrong way?"
   1: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CD [0x00] END_REQSTACK()
@@ -919,13 +919,13 @@
 
 ```
   0: 0x01CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x03)
-  1: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7816*)
+  1: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
     → "Oh, you'd betterrr be carrreful then. Sounds like you'rrre making me out to be some kind of baddy, or something?"
   2: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01D9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x05)
   4: 0x01E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x06)
   5: 0x01E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x01)
-  6: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7817*)
+  6: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7818*)
     → "If you're out to stop baddies, then you should be chasing after the Minister of the Orastery, Ajido-Marujido, not me! He's the one to watch, you know?"
   7: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x02)
@@ -951,7 +951,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7821*)
+  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
     → "That evil little magician is abusing his authorrrity as ministerrr and acting out of line. But because he's a ministerrr, the Tarutaru grrrown-ups let him do as he pleases."
   1: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01FE [0x00] END_REQSTACK()
@@ -977,7 +977,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7822*)
+  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7823*)
     → "Is this the kind of thing the Starrr Onion Brrrigade can allow to happen?"
   1: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0203 [0x00] END_REQSTACK()
@@ -1005,12 +1005,12 @@
 
 ```
   0: 0x0204 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x03)
-  1: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7824*)
+  1: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
     → "Perrrhaps you had betterrr learn morrre about the ways of grrrown-ups beforrre you go too farrr. The adult worrrld isn't as simple as your children's worrrld is..."
   2: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x020F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x04)
   4: 0x0216 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x05)
-  5: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7825*)
+  5: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7826*)
     → "See you arrround, I suppose!"
   6: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nanaa Mihgo (ID: 17756184/0x010EF018), tag_num=0x06)
@@ -1036,7 +1036,7 @@
 #### Opcodes
 
 ```
-  0: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7829*)
+  0: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
     → "A-ha-ha! If you don't hurrrry up and learn the ways of grrrown-ups, you'll meet worrrse fates than this! I hope this has prrroven to be a valuable lesson!"
   1: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x022D [0x00] END_REQSTACK()
@@ -1062,10 +1062,10 @@
 #### Opcodes
 
 ```
-  0: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7830*)
+  0: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
     → "Goodbye, my little kittens! This house is enchanted, so no matterrr how much noise you make, no one will everrr hearrr you!"
   1: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7831*)
+  2: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7832*)
     → "I hope the ghost of the summonerrr doesn't eat you! Farrrewell!"
   3: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0236 [0x00] END_REQSTACK()
@@ -1307,7 +1307,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7799*)
+  0: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7800*)
     → "Not you S.O.B.'s again! What in blazes did you do that for?"
   1: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02CB [0x00] END_REQSTACK()

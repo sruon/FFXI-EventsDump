@@ -22,17 +22,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F98      |        8088 |
-|       1 | 0x1F99      |        8089 |
-|       2 | 0x1FA8      |        8104 |
-|       3 | 0x1FA9      |        8105 |
+|       0 | 0x1F99      |        8089 |
+|       1 | 0x1F9A      |        8090 |
+|       2 | 0x1FA9      |        8105 |
+|       3 | 0x1FAA      |        8106 |
 
 ## String References
 
-- **8088**: To think I not only dropped my linkpearl, but then swiftly proceeded to step on it too! I told them I wasn't cut out for this kind of worrrk...
-- **8089**: If you come across any o' the other scouts, I'd be much obliged if you could dirrrect them this way.
-- **8104**: A fresh new linkpearrrl! Is this for me?
-- **8105**: Oh, thank you everrr so much! I was gettin' mighty lonely out here all by myself...
+- **8089**: To think I not only dropped my linkpearl, but then swiftly proceeded to step on it too! I told them I wasn't cut out for this kind of worrrk...
+- **8090**: If you come across any o' the other scouts, I'd be much obliged if you could dirrrect them this way.
+- **8105**: A fresh new linkpearrrl! Is this for me?
+- **8106**: Oh, thank you everrr so much! I was gettin' mighty lonely out here all by myself...
 
 ## Events
 
@@ -78,10 +78,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "To think I not only dropped my linkpearl, but then swiftly proceeded to step on it too! I told them I wasn't cut out for this kind of worrrk..."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
     → "If you come across any o' the other scouts, I'd be much obliged if you could dirrrect them this way."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -109,7 +109,7 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "A fresh new linkpearrrl! Is this for me?"
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x21] END_EVENT
@@ -137,7 +137,7 @@
 
 ```
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+  1: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "Oh, thank you everrr so much! I was gettin' mighty lonely out here all by myself..."
   2: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0025 [0x21] END_EVENT

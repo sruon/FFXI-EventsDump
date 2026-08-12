@@ -46,24 +46,24 @@
 |       6 | 0x001F      |          31 |
 |       7 | 0xFFFFFFFF  |  4294967295 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x1DBA      |        7610 |
-|      10 | 0x1DAC      |        7596 |
+|       9 | 0x1DBB      |        7611 |
+|      10 | 0x1DAD      |        7597 |
 |      11 | 0x0005      |           5 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x1C3F      |        7231 |
+|      15 | 0x1C40      |        7232 |
 |      16 | 0x00FF      |         255 |
 |      17 | 0x00C8      |         200 |
 |      18 | 0x0013      |          19 |
 |      19 | 0x0008      |           8 |
 |      20 | 0x0009      |           9 |
 |      21 | 0x000B      |          11 |
-|      22 | 0x1C4A      |        7242 |
-|      23 | 0x1C4B      |        7243 |
-|      24 | 0x1C4C      |        7244 |
-|      25 | 0x1C4D      |        7245 |
-|      26 | 0x1C71      |        7281 |
+|      22 | 0x1C4B      |        7243 |
+|      23 | 0x1C4C      |        7244 |
+|      24 | 0x1C4D      |        7245 |
+|      25 | 0x1C4E      |        7246 |
+|      26 | 0x1C72      |        7282 |
 |      27 | 0x0006      |           6 |
 |      28 | 0x0007      |           7 |
 |      29 | 0x000A      |          10 |
@@ -83,16 +83,16 @@
 |      43 | 0x001C      |          28 |
 |      44 | 0x001D      |          29 |
 |      45 | 0x001E      |          30 |
-|      46 | 0x1DA6      |        7590 |
-|      47 | 0x1DAB      |        7595 |
-|      48 | 0x1DAA      |        7594 |
+|      46 | 0x1DA7      |        7591 |
+|      47 | 0x1DAC      |        7596 |
+|      48 | 0x1DAB      |        7595 |
 |      49 | 0x003C      |          60 |
-|      50 | 0x1DB8      |        7608 |
-|      51 | 0x1DB7      |        7607 |
+|      50 | 0x1DB9      |        7609 |
+|      51 | 0x1DB8      |        7608 |
 |      52 | 0x0064      |         100 |
-|      53 | 0x1D92      |        7570 |
+|      53 | 0x1D93      |        7571 |
 |      54 | 0x007D      |         125 |
-|      55 | 0x1C42      |        7234 |
+|      55 | 0x1C43      |        7235 |
 |      56 | 0x00C9      |         201 |
 |      57 | 0x2BE00     |      179712 |
 |      58 | 0x5163E     |      333374 |
@@ -185,11 +185,11 @@
 |     145 | 0x8FE5      |       36837 |
 |     146 | 0x02A1      |         673 |
 |     147 | 0x0024      |          36 |
-|     148 | 0x1D94      |        7572 |
-|     149 | 0x1D93      |        7571 |
-|     150 | 0x1DB6      |        7606 |
-|     151 | 0x1D96      |        7574 |
-|     152 | 0x1D95      |        7573 |
+|     148 | 0x1D95      |        7573 |
+|     149 | 0x1D94      |        7572 |
+|     150 | 0x1DB7      |        7607 |
+|     151 | 0x1D97      |        7575 |
+|     152 | 0x1D96      |        7574 |
 |     153 | 0x5208      |       21000 |
 |     154 | 0x307A      |       12410 |
 |     155 | 0xFFFFF6DC  |  4294964956 |
@@ -212,19 +212,19 @@
 |     172 | 0x48F65     |      298853 |
 |     173 | 0x5374B     |      341835 |
 |     174 | 0xFFFE1B24  |  4294843172 |
-|     175 | 0x1DC1      |        7617 |
-|     176 | 0x1DC2      |        7618 |
-|     177 | 0x1DC6      |        7622 |
-|     178 | 0x1DC7      |        7623 |
-|     179 | 0x1DC3      |        7619 |
-|     180 | 0x1DC4      |        7620 |
-|     181 | 0x1DC5      |        7621 |
-|     182 | 0x1DC8      |        7624 |
-|     183 | 0x1DC9      |        7625 |
-|     184 | 0x1DCA      |        7626 |
+|     175 | 0x1DC2      |        7618 |
+|     176 | 0x1DC3      |        7619 |
+|     177 | 0x1DC7      |        7623 |
+|     178 | 0x1DC8      |        7624 |
+|     179 | 0x1DC4      |        7620 |
+|     180 | 0x1DC5      |        7621 |
+|     181 | 0x1DC6      |        7622 |
+|     182 | 0x1DC9      |        7625 |
+|     183 | 0x1DCA      |        7626 |
+|     184 | 0x1DCB      |        7627 |
 |     185 | 0x004B      |          75 |
-|     186 | 0x1DCB      |        7627 |
-|     187 | 0x1DCC      |        7628 |
+|     186 | 0x1DCC      |        7628 |
+|     187 | 0x1DCD      |        7629 |
 |     188 | 0x007A      |         122 |
 |     189 | 0x002D      |          45 |
 |     190 | 0x0401      |        1025 |
@@ -249,10 +249,10 @@
 |     209 | 0x2B005     |      176133 |
 |     210 | 0xFFFF081E  |  4294903838 |
 |     211 | 0x022B      |         555 |
-|     212 | 0x1E05      |        7685 |
+|     212 | 0x1E06      |        7686 |
 |     213 | 0x0075      |         117 |
 |     214 | 0x007E      |         126 |
-|     215 | 0x1E06      |        7686 |
+|     215 | 0x1E07      |        7687 |
 |     216 | 0x0032      |          50 |
 |     217 | 0x009D      |         157 |
 |     218 | 0x005F      |          95 |
@@ -261,25 +261,25 @@
 |     221 | 0xFFFC7FCD  |  4294737869 |
 |     222 | 0xDCC7      |       56519 |
 |     223 | 0x0355      |         853 |
-|     224 | 0x1DCD      |        7629 |
-|     225 | 0x1DCE      |        7630 |
-|     226 | 0x1DCF      |        7631 |
-|     227 | 0x1DD0      |        7632 |
-|     228 | 0x1DD1      |        7633 |
-|     229 | 0x1DD2      |        7634 |
-|     230 | 0x1DD3      |        7635 |
-|     231 | 0x1DD4      |        7636 |
-|     232 | 0x1DD5      |        7637 |
-|     233 | 0x1DD6      |        7638 |
-|     234 | 0x1DD7      |        7639 |
-|     235 | 0x1DD8      |        7640 |
-|     236 | 0x1DD9      |        7641 |
-|     237 | 0x1DDA      |        7642 |
+|     224 | 0x1DCE      |        7630 |
+|     225 | 0x1DCF      |        7631 |
+|     226 | 0x1DD0      |        7632 |
+|     227 | 0x1DD1      |        7633 |
+|     228 | 0x1DD2      |        7634 |
+|     229 | 0x1DD3      |        7635 |
+|     230 | 0x1DD4      |        7636 |
+|     231 | 0x1DD5      |        7637 |
+|     232 | 0x1DD6      |        7638 |
+|     233 | 0x1DD7      |        7639 |
+|     234 | 0x1DD8      |        7640 |
+|     235 | 0x1DD9      |        7641 |
+|     236 | 0x1DDA      |        7642 |
+|     237 | 0x1DDB      |        7643 |
 |     238 | 0xFFFDD92E  |  4294826286 |
 |     239 | 0xFFFC9B7F  |  4294744959 |
 |     240 | 0x0C91      |        3217 |
-|     241 | 0x1DDB      |        7643 |
-|     242 | 0x1DDC      |        7644 |
+|     241 | 0x1DDC      |        7644 |
+|     242 | 0x1DDD      |        7645 |
 |     243 | 0xFFFB6FBC  |  4294668220 |
 |     244 | 0xFFFAD398  |  4294628248 |
 |     245 | 0x1C6D0     |      116432 |
@@ -296,22 +296,22 @@
 |     256 | 0x0023      |          35 |
 |     257 | 0x005A      |          90 |
 |     258 | 0x0804      |        2052 |
-|     259 | 0x1E07      |        7687 |
-|     260 | 0x1E08      |        7688 |
-|     261 | 0x1E09      |        7689 |
-|     262 | 0x1E0A      |        7690 |
+|     259 | 0x1E08      |        7688 |
+|     260 | 0x1E09      |        7689 |
+|     261 | 0x1E0A      |        7690 |
+|     262 | 0x1E0B      |        7691 |
 |     263 | 0x0020      |          32 |
-|     264 | 0x1E0B      |        7691 |
-|     265 | 0x1E0C      |        7692 |
+|     264 | 0x1E0C      |        7692 |
+|     265 | 0x1E0D      |        7693 |
 |     266 | 0x0805      |        2053 |
-|     267 | 0x1E0D      |        7693 |
+|     267 | 0x1E0E      |        7694 |
 |     268 | 0x0050      |          80 |
-|     269 | 0x1E0E      |        7694 |
-|     270 | 0x1E0F      |        7695 |
-|     271 | 0x1E10      |        7696 |
-|     272 | 0x1E11      |        7697 |
-|     273 | 0x1E12      |        7698 |
-|     274 | 0x1C40      |        7232 |
+|     269 | 0x1E0F      |        7695 |
+|     270 | 0x1E10      |        7696 |
+|     271 | 0x1E11      |        7697 |
+|     272 | 0x1E12      |        7698 |
+|     273 | 0x1E13      |        7699 |
+|     274 | 0x1C41      |        7233 |
 |     275 | 0x0C3A      |        3130 |
 |     276 | 0x0065      |         101 |
 |     277 | 0x0068      |         104 |
@@ -325,28 +325,28 @@
 
 ## String References
 
-- **7231**: Enter the battlefield? [Enter./Decline.]
-- **7232**: Leave the battlefield? [Run away./Stay.]
-- **7234**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7242**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7232**: Enter the battlefield? [Enter./Decline.]
+- **7233**: Leave the battlefield? [Run away./Stay.]
+- **7235**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7243**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7244**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7245**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7281**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7570**: Skip the event? [Yes./No.]
-- **7571**: Battlefield clear time: $3 second[/s]!
-- **7572**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7573**: The current battlefield clear time record is $3 second[/s].
-- **7574**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7590**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7594**: That record is held by $5 adventurers, including %0!
-- **7595**: That record is held by %0!
-- **7596**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7606**: You have broken the clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]"!
-- **7607**: The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 second[/s].
-- **7608**: The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 minute[/s] $2 second[/s].
-- **7610**: Which battlefield will you enter? [None./The Rank 2 Final Mission./Steamed Sprouts./Divine Punishers./Saintly Invitation./Treasure and Tribulations./Shattering Stars (MNK)./Shattering Stars (WHM)./Shattering Stars (SMN)./Creeping Doom./Charming Trio./Harem Scarem./Early Bird Catches the Wyrm./Royal Succession./Rapid Raptors./Wild Wild Whiskers./Seasons Greetings./Royale Ramble./Moa Constrictors./The V Formation./Avian Apostates./Beyond Infinity./$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Kupipi./Inv. from Kupipi and Co./././././]
-- **7687**: The $3 dematerializes before your eyes!
+- **7246**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7282**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7571**: Skip the event? [Yes./No.]
+- **7572**: Battlefield clear time: $3 second[/s]!
+- **7573**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7574**: The current battlefield clear time record is $3 second[/s].
+- **7575**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7591**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7595**: That record is held by $5 adventurers, including %0!
+- **7596**: That record is held by %0!
+- **7597**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7607**: You have broken the clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]"!
+- **7608**: The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 second[/s].
+- **7609**: The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 minute[/s] $2 second[/s].
+- **7611**: Which battlefield will you enter? [None./The Rank 2 Final Mission./Steamed Sprouts./Divine Punishers./Saintly Invitation./Treasure and Tribulations./Shattering Stars (MNK)./Shattering Stars (WHM)./Shattering Stars (SMN)./Creeping Doom./Charming Trio./Harem Scarem./Early Bird Catches the Wyrm./Royal Succession./Rapid Raptors./Wild Wild Whiskers./Seasons Greetings./Royale Ramble./Moa Constrictors./The V Formation./Avian Apostates./Beyond Infinity./$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Kupipi./Inv. from Kupipi and Co./././././]
+- **7688**: The $3 dematerializes before your eyes!
 
 ## Events
 
@@ -586,7 +586,7 @@
  13: 0x005C [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0061 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0066 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x006B [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x006B [0x24] CREATE_DIALOG(message_id=7611*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./The Rank 2 Final Mission./Steamed Sprouts./Divine Punishers./Saintly Invitation./Treasure and Tribulations./Shattering Stars (MNK)./Shattering Stars (WHM)./Shattering Stars (SMN)./Creeping Doom./Charming Trio./Harem Scarem./Early Bird Catches the Wyrm./Royal Succession./Rapid Raptors./Wild Wild Whiskers./Seasons Greetings./Royale Ramble./Moa Constrictors./The V Formation./Avian Apostates./Beyond Infinity./$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire./A.M.A.N. Trove (Mars)./A.M.A.N. Trove (Venus)./Inv. from Kupipi./Inv. from Kupipi and Co./././././]"
  17: 0x0072 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0073 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0081
@@ -599,7 +599,7 @@ SUBROUTINE_00AD:
 
 SUBROUTINE_00BE:
  23: 0x00BE [0x1A] CALL_SUBROUTINE(address=0x251B)
- 24: 0x00C1 [0x24] CREATE_DIALOG(message_id=7596*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00C1 [0x24] CREATE_DIALOG(message_id=7597*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00C8 [0x25] WAIT_DIALOG_SELECT()
  26: 0x00C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D9
@@ -625,7 +625,7 @@ SUBROUTINE_012C:
  44: 0x012F [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0132 [0x1A] CALL_SUBROUTINE(address=0x0853)
  46: 0x0135 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0153
- 47: 0x013D [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+ 47: 0x013D [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0144 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0145 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0153
@@ -674,22 +674,22 @@ SUBROUTINE_01B2:
  86: 0x0220 [0x01] GOTO 0x07EF
  87: 0x0223 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x026D
  88: 0x022B [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x023A
- 89: 0x0233 [0x48] [System] [7242*]:
+ 89: 0x0233 [0x48] [System] [7243*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0236 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0237 [0x01] GOTO 0x0267
  92: 0x023A [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0249
- 93: 0x0242 [0x48] [System] [7243*]:
+ 93: 0x0242 [0x48] [System] [7244*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0246 [0x01] GOTO 0x0267
  96: 0x0249 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0258
- 97: 0x0251 [0x48] [System] [7244*]:
+ 97: 0x0251 [0x48] [System] [7245*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0255 [0x01] GOTO 0x0267
 100: 0x0258 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0267
-101: 0x0260 [0x48] [System] [7245*]:
+101: 0x0260 [0x48] [System] [7246*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0264 [0x01] GOTO 0x0267
@@ -698,7 +698,7 @@ SUBROUTINE_0267:
 104: 0x0267 [0x01] GOTO 0x0806
 
 SUBROUTINE_0477:
-105: 0x0477 [0x48] [System] [7590*]:
+105: 0x0477 [0x48] [System] [7591*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x047A [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x047B [0x01] GOTO 0x0806
@@ -710,24 +710,24 @@ SUBROUTINE_04D4:
 111: 0x04E4 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04FF
 112: 0x04EC [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04F3 [0x15] Work_Zone[5] /= 60*
-114: 0x04F8 [0x48] [System] [7608*]:
+114: 0x04F8 [0x48] [System] [7609*]:
     → "The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 minute[/s] $2 second[/s]."
 115: 0x04FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04FC [0x01] GOTO 0x0503
-117: 0x04FF [0x48] [System] [7607*]:
+117: 0x04FF [0x48] [System] [7608*]:
     → "The current battlefield clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]" is $3 second[/s]."
 118: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0503:
 119: 0x0503 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0512
-120: 0x050B [0x48] [System] [7595*]:
+120: 0x050B [0x48] [System] [7596*]:
     → "That record is held by %0!"
 121: 0x050E [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x050F [0x01] GOTO 0x0523
 123: 0x0512 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0517 [0x0C] Work_Zone[6]--
 125: 0x051A [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x051F [0x48] [System] [7594*]:
+126: 0x051F [0x48] [System] [7595*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -743,7 +743,7 @@ SUBROUTINE_0523:
 SUBROUTINE_0547:
 135: 0x0547 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x056D
 136: 0x054F [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x056D
-137: 0x0557 [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
+137: 0x0557 [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x055E [0x25] WAIT_DIALOG_SELECT()
 139: 0x055F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x056D
@@ -883,7 +883,7 @@ SUBROUTINE_07EF:
 263: 0x07F2 [0x02] IF !(0* == 1*) GOTO 0x07FF
 264: 0x07FA [0x03] ExtData[1]->WorkLocal[0] = 4*
 265: 0x07FF [0x01] GOTO 0x01B2
-266: 0x0802 [0x48] [System] [7234*]:
+266: 0x0802 [0x48] [System] [7235*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 267: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1249,7 +1249,7 @@ SUBROUTINE_0C43:
  84: 0x0C4E [0x01] GOTO 0x0C6C
  85: 0x0C51 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D1C
  86: 0x0C59 [0x1C] WAIT(15* ticks)
- 87: 0x0C5C [0x24] CREATE_DIALOG(message_id=7570*, default_option=1*, option_flags=0*)
+ 87: 0x0C5C [0x24] CREATE_DIALOG(message_id=7571*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  88: 0x0C63 [0x25] WAIT_DIALOG_SELECT()
  89: 0x0C64 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D1C
@@ -1316,18 +1316,18 @@ SUBROUTINE_0D4E:
 138: 0x0D87 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0DA2
 139: 0x0D8F [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 140: 0x0D96 [0x15] Work_Zone[5] /= 60*
-141: 0x0D9B [0x48] [System] [7572*]:
+141: 0x0D9B [0x48] [System] [7573*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 142: 0x0D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x0D9F [0x01] GOTO 0x0DA6
-144: 0x0DA2 [0x48] [System] [7571*]:
+144: 0x0DA2 [0x48] [System] [7572*]:
     → "Battlefield clear time: $3 second[/s]!"
 145: 0x0DA5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0DA6:
 146: 0x0DA6 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0DBA
 147: 0x0DAE [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-148: 0x0DB3 [0x48] [System] [7606*]:
+148: 0x0DB3 [0x48] [System] [7607*]:
     → "You have broken the clear time record for "[The Rank 2 Final Mission/Steamed Sprouts/Divine Punishers/Saintly Invitation/Treasure and Tribulations/Shattering Stars (MNK)/Shattering Stars (WHM)/Shattering Stars (SMN)/Creeping Doom/Charming Trio/Harem Scarem/Early Bird Catches the Wyrm/Royal Succession/Rapid Raptors/Wild Wild Whiskers/Seasons Greetings/Royale Ramble/Moa Constrictors/The V Formation/Avian Apostates/Beyond Infinity/$26Steamed Sprouts/$26Divine Punishers/A Feast Most Dire/A.M.A.N. Trove (Mars)/A.M.A.N. Trove (Venus)/Inv. from Kupipi/Inv. from Kupipi and Co.]"!"
 149: 0x0DB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0DB7 [0x01] GOTO 0x0DE3
@@ -1335,12 +1335,12 @@ SUBROUTINE_0DA6:
 152: 0x0DC2 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 153: 0x0DC7 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 154: 0x0DCE [0x15] Work_Zone[5] /= 60*
-155: 0x0DD3 [0x48] [System] [7574*]:
+155: 0x0DD3 [0x48] [System] [7575*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 156: 0x0DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0DD7 [0x01] GOTO 0x0DE3
 158: 0x0DDA [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-159: 0x0DDF [0x48] [System] [7573*]:
+159: 0x0DDF [0x48] [System] [7574*]:
     → "The current battlefield clear time record is $3 second[/s]."
 160: 0x0DE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2193,7 +2193,7 @@ SUBROUTINE_1096:
      0x1105 [0x14] ExtData[1]->WorkLocal[35] *= 10*
      0x110A [0x07] ExtData[1]->WorkLocal[35] += 210*
      0x110F [0x1B] RETURN
-     0x1110 [0x24] CREATE_DIALOG(message_id=7231*, default_option=1*, option_flags=0*)
+     0x1110 [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1117 [0x25] WAIT_DIALOG_SELECT()
      0x1118 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1126
@@ -2245,41 +2245,41 @@ SUBROUTINE_1096:
      0x12AF [0x1A] CALL_SUBROUTINE(address=0x2585)
      0x12B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x12C3 [0x1A] CALL_SUBROUTINE(address=0x2564)
-     0x12C6 [0x2B] Searcher (ID: 17375830/0x01092256) [7617*]:
+     0x12C6 [0x2B] Searcher (ID: 17375830/0x01092256) [7618*]:
     → "Heh-heh-heh... I'm so glad you could come. I didn't realize that little rumor I spread would be so effective."
      0x12CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x12CE [0x2B] Searcher (ID: 17375830/0x01092256) [7618*]:
+     0x12CE [0x2B] Searcher (ID: 17375830/0x01092256) [7619*]:
     → "Yes, I'm the "ferocious monster" you were told about... One who will rally the beastman hordes on a grand campaign to rid the world of you and your kind!"
      0x12D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x12D6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg02" with entities [LocalPlayer, LocalPlayer], work=46*
      0x12E5 [0x2A] GET_REQ_LEVEL(level=16, entity_id=Semih Lafihna (ID: 17375833/0x01092259))
      0x12EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg03" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x12FC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)], work=372*
-     0x130B [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7622*]:
+     0x130B [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7623*]:
     → ""Rrrally the beastman hordes"? Almost sounds as if you're planning to wage another Crystal War!"
      0x1312 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1313 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)]
      0x1320 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)], work=372*
-     0x132F [0x2B] Searcher (ID: 17375830/0x01092256) [7623*]:
+     0x132F [0x2B] Searcher (ID: 17375830/0x01092256) [7624*]:
     → "Heh-heh-heh. I see you catch on quick."
      0x1336 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1337 [0x2B] Searcher (ID: 17375830/0x01092256) [7619*]:
+     0x1337 [0x2B] Searcher (ID: 17375830/0x01092256) [7620*]:
     → "The day of reckoning will come, and the beastmen will be the ones to rule this world! Not that you'll be there to see it..."
      0x133E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x133F [0x2B] Searcher (ID: 17375830/0x01092256) [7620*]:
+     0x133F [0x2B] Searcher (ID: 17375830/0x01092256) [7621*]:
     → "Because you'll already be dead!"
      0x1346 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1347 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg03" with entities [LocalPlayer, LocalPlayer], work=46*
      0x1356 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "cast" with entities [Searcher (ID: 17375830/0x01092256), Searcher (ID: 17375830/0x01092256)]
      0x1363 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Searcher (ID: 17375830/0x01092256), Searcher (ID: 17375830/0x01092256)], work=[14*, 0*]
      0x1374 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
-     0x1385 [0x2B] Searcher (ID: 17375830/0x01092256) [7621*]:
+     0x1385 [0x2B] Searcher (ID: 17375830/0x01092256) [7622*]:
     → "Arise, Wyrm of Darkness, Devourer of Light! I command you! Smite my enemies where they stand!"
      0x138C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x138D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=46*
      0x139C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x13AD [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ev00" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)], work=372*
-     0x13BC [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7624*]:
+     0x13BC [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7625*]:
     → "A spatial distorrrtion...? This can only mean...!?"
      0x13C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13C4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg05" with entities [LocalPlayer, LocalPlayer], work=46*
@@ -2288,14 +2288,14 @@ SUBROUTINE_1096:
      0x13E7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg06" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x13F8 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Black Dragon (ID: 17375831/0x01092257), Black Dragon (ID: 17375831/0x01092257)], work=[18*, 0*]
      0x1409 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg06" with entities [LocalPlayer, LocalPlayer], work=46*
-     0x1418 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7625*]:
+     0x1418 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7626*]:
     → "A...a drrragon?"
      0x141F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1420 [0x1A] CALL_SUBROUTINE(address=0x2585)
      0x1423 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg07" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1434 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ev01" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)], work=372*
      0x1443 [0x1A] CALL_SUBROUTINE(address=0x2564)
-     0x1446 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7626*]:
+     0x1446 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7627*]:
     → "Phew. Heh-heh... I knew it couldn't have been old you-know-who. I was getting carried away therrre."
      0x144D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x144E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg07" with entities [LocalPlayer, LocalPlayer], work=46*
@@ -2318,13 +2318,13 @@ SUBROUTINE_1096:
      0x153F [0x1A] CALL_SUBROUTINE(address=0x2585)
      0x1542 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg09" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1553 [0x1A] CALL_SUBROUTINE(address=0x2564)
-     0x1556 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7627*]:
+     0x1556 [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7628*]:
     → "Hah! Is this all you can musterrr? ...Your pet drrragon?"
      0x155D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x155E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg22" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x156F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ev04" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)], work=398*
      0x157E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg22" with entities [LocalPlayer, LocalPlayer], work=46*
-     0x158D [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7628*]:
+     0x158D [0x2B] Semih Lafihna (ID: 17375833/0x01092259) [7629*]:
     → "Hm...? Here come the reinforrrcements. Looks like they'll be able to handle this. I have more pressing matters than dealing with the likes of these. I'll leave it in theirrr hands."
      0x1594 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1595 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ev04" with entities [Semih Lafihna (ID: 17375833/0x01092259), Semih Lafihna (ID: 17375833/0x01092259)]
@@ -2498,7 +2498,7 @@ SUBROUTINE_1096:
      0x1A7C [0x1C] WAIT(30* ticks)
      0x1A7F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s134" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x1A90 [0x1A] CALL_SUBROUTINE(address=0x25A6)
-     0x1A93 [0x2B] Atori-Tutori (ID: 17375849/0x01092269) [7685*]:
+     0x1A93 [0x2B] Atori-Tutori (ID: 17375849/0x01092269) [7686*]:
     → "Splendid. I knew you wouldn't disappointaru me, <Player>. Now, it's time you lived up to your end of our contract."
      0x1A9A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A9B [0x52] END_LOAD_SCHEDULER: End scheduler "s134" with entities [LocalPlayer, LocalPlayer], work=555*
@@ -2512,7 +2512,7 @@ SUBROUTINE_1096:
      0x1AFD [0x1C] WAIT(60* ticks)
      0x1B00 [0x52] END_LOAD_SCHEDULER: End scheduler "s135" with entities [LocalPlayer, LocalPlayer], work=555*
      0x1B0F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s136" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
-     0x1B20 [0x2B] Atori-Tutori (ID: 17375849/0x01092269) [7686*]:
+     0x1B20 [0x2B] Atori-Tutori (ID: 17375849/0x01092269) [7687*]:
     → "Heeeee-yah!!!"
      0x1B27 [0x1C] WAIT(50* ticks)
      0x1B2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -2545,7 +2545,7 @@ SUBROUTINE_1096:
      0x1C0F [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-139.300*, z=-229.427*, y=56.519*, direction=75.0°*
      0x1C18 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg12" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1C29 [0x1A] CALL_SUBROUTINE(address=0x25A6)
-     0x1C2C [0x2B] Searcher (ID: 17375830/0x01092256) [7629*]:
+     0x1C2C [0x2B] Searcher (ID: 17375830/0x01092256) [7630*]:
     → "This...this cannot be! Me, defeated...by these weaklings!?"
      0x1C33 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C34 [0x1A] CALL_SUBROUTINE(address=0x2585)
@@ -2556,7 +2556,7 @@ SUBROUTINE_1096:
      0x1C58 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg10" with entities [LocalPlayer, LocalPlayer], work=46*
      0x1C67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg11" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1C78 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb2" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=96*
-     0x1C87 [0x2B] Lion (ID: 17375832/0x01092258) [7630*]:
+     0x1C87 [0x2B] Lion (ID: 17375832/0x01092258) [7631*]:
     → "Oops, I guess I missed the show."
      0x1C8E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C8F [0x1A] CALL_SUBROUTINE(address=0x25C7)
@@ -2570,7 +2570,7 @@ SUBROUTINE_1096:
      0x1CC8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
      0x1CC9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Lion (ID: 17375832/0x01092258) Render.Flags0 and Render.Flags3 conditions are met
      0x1CCE [0x1C] WAIT(15* ticks)
-     0x1CD1 [0x2B] Lion (ID: 17375832/0x01092258) [7631*]:
+     0x1CD1 [0x2B] Lion (ID: 17375832/0x01092258) [7632*]:
     → "Hey, wait a minute. This dragon..."
      0x1CD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1CD9 [0x1C] WAIT(10* ticks)
@@ -2578,44 +2578,44 @@ SUBROUTINE_1096:
      0x1CE3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg14" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1CF4 [0x4A] Lion (ID: 17375832/0x01092258) looks at LocalPlayer
      0x1CFD [0x1C] WAIT(15* ticks)
-     0x1D00 [0x2B] Lion (ID: 17375832/0x01092258) [7632*]:
+     0x1D00 [0x2B] Lion (ID: 17375832/0x01092258) [7633*]:
     → "No doubt about it, it's a nether beast from the Northlands! What's it doing here!?"
      0x1D07 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D08 [0x7B] Lion (ID: 17375832/0x01092258) stops talking
      0x1D0D [0x1C] WAIT(15* ticks)
      0x1D10 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Lion (ID: 17375832/0x01092258))
      0x1D16 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=95*
-     0x1D25 [0x2B] Lion (ID: 17375832/0x01092258) [7633*]:
+     0x1D25 [0x2B] Lion (ID: 17375832/0x01092258) [7634*]:
     → "Their kind haven't been seen ever since the Shadow Lord was destroyed and the Northlands sealed..."
      0x1D2C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1D2D [0x2B] Lion (ID: 17375832/0x01092258) [7634*]:
+     0x1D2D [0x2B] Lion (ID: 17375832/0x01092258) [7635*]:
     → "To see one here, with the beastmen, it's as if..."
      0x1D34 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D35 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)]
      0x1D42 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg15" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1D53 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=96*
      0x1D62 [0x4A] LocalPlayer looks at Searcher (ID: 17375830/0x01092256)
-     0x1D6B [0x2B] Searcher (ID: 17375830/0x01092256) [7635*]:
+     0x1D6B [0x2B] Searcher (ID: 17375830/0x01092256) [7636*]:
     → "The Shadow Lord will soon be brought back to this world. I was merely making preparations for His return..."
      0x1D72 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D73 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg15" with entities [LocalPlayer, LocalPlayer], work=46*
      0x1D82 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Lion (ID: 17375832/0x01092258))
      0x1D88 [0x27] REQ_SET(priority=0x10, entity_id=Lion (ID: 17375832/0x01092258), tag_num=0x06)
-     0x1D8F [0x2B] Lion (ID: 17375832/0x01092258) [7636*]:
+     0x1D8F [0x2B] Lion (ID: 17375832/0x01092258) [7637*]:
     → "What!? Who are you!?"
      0x1D96 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1D97 [0x2B] Searcher (ID: 17375830/0x01092256) [7637*]:
+     0x1D97 [0x2B] Searcher (ID: 17375830/0x01092256) [7638*]:
     → "I am Searcher, a servant of the Shadow Lord. The "Great Hero" that saved you twenty years ago is gone--none has the power to defeat Him now."
      0x1D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1D9F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg04" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
-     0x1DB0 [0x2B] Searcher (ID: 17375830/0x01092256) [7638*]:
+     0x1DB0 [0x2B] Searcher (ID: 17375830/0x01092256) [7639*]:
     → "While your peoples were busy squabbling with each other, we have been preparing for His return."
      0x1DB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DB8 [0x27] REQ_SET(priority=0x10, entity_id=Lion (ID: 17375832/0x01092258), tag_num=0x07)
-     0x1DBF [0x2B] Searcher (ID: 17375830/0x01092256) [7639*]:
+     0x1DBF [0x2B] Searcher (ID: 17375830/0x01092256) [7640*]:
     → "And when He comes...He will destroy you all!"
      0x1DC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1DC7 [0x2B] Searcher (ID: 17375830/0x01092256) [7640*]:
+     0x1DC7 [0x2B] Searcher (ID: 17375830/0x01092256) [7641*]:
     → "Enjoy your lives...while they last... Foolish...weaklings... Hah hah...hah... Eye-eye-e`ye...!"
      0x1DCE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1DCF [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Searcher (ID: 17375830/0x01092256), Searcher (ID: 17375830/0x01092256)]
@@ -2625,12 +2625,12 @@ SUBROUTINE_1096:
      0x1DFD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg16" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1E0E [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Lion (ID: 17375832/0x01092258))
      0x1E14 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=95*
-     0x1E23 [0x2B] Lion (ID: 17375832/0x01092258) [7641*]:
+     0x1E23 [0x2B] Lion (ID: 17375832/0x01092258) [7642*]:
     → "The Shadow Lord...is coming back... There's going to be another war..."
      0x1E2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E2B [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Lion (ID: 17375832/0x01092258))
      0x1E31 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=96*
-     0x1E40 [0x2B] Lion (ID: 17375832/0x01092258) [7642*]:
+     0x1E40 [0x2B] Lion (ID: 17375832/0x01092258) [7643*]:
     → "Our days will be filled with hatred and sorrow once more..."
      0x1E47 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1E48 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg16" with entities [LocalPlayer, LocalPlayer], work=46*
@@ -2645,10 +2645,10 @@ SUBROUTINE_1096:
      0x1E90 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "sg17" with entities [LocalPlayer, LocalPlayer], work=[46*, 0*]
      0x1EA1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=96*
      0x1EB0 [0x1A] CALL_SUBROUTINE(address=0x25A6)
-     0x1EB3 [0x2B] Lion (ID: 17375832/0x01092258) [7643*]:
+     0x1EB3 [0x2B] Lion (ID: 17375832/0x01092258) [7644*]:
     → "<Player>! You should head back to your country. And don't forget to report what happened here! If it's true the Shadow Lord is being resurrected, we can expect great trouble to follow!"
      0x1EBA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1EBB [0x2B] Lion (ID: 17375832/0x01092258) [7644*]:
+     0x1EBB [0x2B] Lion (ID: 17375832/0x01092258) [7645*]:
     → "I've got to get going. I hope to see you around again someday, <Player>."
      0x1EC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1EC3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Lion (ID: 17375832/0x01092258), Lion (ID: 17375832/0x01092258)], work=96*
@@ -2743,7 +2743,7 @@ SUBROUTINE_1096:
      0x218B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s138" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x219C [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x10)
      0x21A3 [0x03] Work_Zone[2] = 2052*
-     0x21A8 [0x48] [System] [7687*]:
+     0x21A8 [0x48] [System] [7688*]:
     → "The $3 dematerializes before your eyes!"
      0x21AB [0x1C] WAIT(120* ticks)
      0x21AE [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
@@ -2756,7 +2756,7 @@ SUBROUTINE_1096:
      0x21DF [0x27] REQ_SET(priority=0x05, entity_id=Atori-Tutori (ID: 17375850/0x0109226A), tag_num=0x02)
      0x21E6 [0x1C] WAIT(30* ticks)
      0x21E9 [0x1E] EventEntity looks at Atori-Tutori (ID: 17375850/0x0109226A) and starts talking
-     0x21EE [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7688*]:
+     0x21EE [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7689*]:
     → "Phew... You're not such a pushover aftaru all. I almost broke a sweat."
      0x21F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x21F6 [0x6E] LocalPlayer uses emote 21*
@@ -2767,25 +2767,25 @@ SUBROUTINE_1096:
      0x221A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s140" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x222B [0x6E] Atori-Tutori (ID: 17375850/0x0109226A) uses emote 22*
      0x2232 [0x99] Wait for Atori-Tutori (ID: 17375850/0x0109226A) animation to complete
-     0x2237 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7689*]:
+     0x2237 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7690*]:
     → "You still haven't realized? The Atori-Tutori you defeated was merely a part of me. Specifically-wifically speaking, my shadow."
      0x223E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x223F [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7690*]:
+     0x223F [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7691*]:
     → "To splitaru it from my physical body, I borrowed the energy of your little $3, you see."
      0x2246 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2247 [0x6E] Atori-Tutori (ID: 17375850/0x0109226A) uses emote 32*
      0x224E [0x99] Wait for Atori-Tutori (ID: 17375850/0x0109226A) animation to complete
-     0x2253 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7691*]:
+     0x2253 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7692*]:
     → "No small task, I'll have you know! Whew... I might need a nap after this one."
      0x225A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x225B [0x52] END_LOAD_SCHEDULER: End scheduler "s140" with entities [LocalPlayer, LocalPlayer], work=555*
      0x226A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s141" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x227B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Atori-Tutori (ID: 17375850/0x0109226A), Atori-Tutori (ID: 17375850/0x0109226A)], work=49*
-     0x228A [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7692*]:
+     0x228A [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7693*]:
     → "But hey, you got your training, and I got my first decent workout in years. Everybody wins, rightaru?"
      0x2291 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2292 [0x03] Work_Zone[2] = 2053*
-     0x2297 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7693*]:
+     0x2297 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7694*]:
     → "That $3 acts as a catalyst of sorts to bring my shadow to the fore. Now you know, and knowing is half the battaru."
      0x229E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x229F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Atori-Tutori (ID: 17375850/0x0109226A), Atori-Tutori (ID: 17375850/0x0109226A)], work=49*
@@ -2794,22 +2794,22 @@ SUBROUTINE_1096:
      0x22CE [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x11)
      0x22D5 [0x1C] WAIT(80* ticks)
      0x22D8 [0x27] REQ_SET(priority=0x05, entity_id=LocalPlayer, tag_num=0x12)
-     0x22DF [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7694*]:
+     0x22DF [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7695*]:
     → "What's that? You want to fight me for real, you say?"
      0x22E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22E7 [0x6E] Atori-Tutori (ID: 17375850/0x0109226A) uses emote 22*
      0x22EE [0x99] Wait for Atori-Tutori (ID: 17375850/0x0109226A) animation to complete
-     0x22F3 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7695*]:
+     0x22F3 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7696*]:
     → "Trust me, <Player>. You're bettaru off quitting while you're ahead."
      0x22FA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x22FB [0x52] END_LOAD_SCHEDULER: End scheduler "s142" with entities [LocalPlayer, LocalPlayer], work=555*
      0x230A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s143" with entities [LocalPlayer, LocalPlayer], work=[555*, 0*]
      0x231B [0x6E] Atori-Tutori (ID: 17375850/0x0109226A) uses emote 32*
      0x2322 [0x99] Wait for Atori-Tutori (ID: 17375850/0x0109226A) animation to complete
-     0x2327 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7696*]:
+     0x2327 [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7697*]:
     → "Of course, one never knows. Work your buttaru off for the next few centuries or so, and you just might have the faintest chance of maybe, possibly (if ever improbably) giving me a run for my gil."
      0x232E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x232F [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7697*]:
+     0x232F [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7698*]:
     → "...But that's a challenge for another day. And with that, I'm off. Ta-taru!"
      0x2336 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x2337 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -2823,7 +2823,7 @@ SUBROUTINE_1096:
      0x238E [0x1C] WAIT(10* ticks)
      0x2391 [0x79] Atori-Tutori (ID: 17375850/0x0109226A) looks at Unnamed NPC (ID: 17375851/0x0109226B) (Basic look)
      0x239B [0x1C] WAIT(50* ticks)
-     0x239E [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7698*]:
+     0x239E [0x2B] Atori-Tutori (ID: 17375850/0x0109226A) [7699*]:
     → "And don't forget, <Player>. Our contract is still in effect."
      0x23A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x23A6 [0x52] END_LOAD_SCHEDULER: End scheduler "s145" with entities [LocalPlayer, LocalPlayer], work=555*
@@ -2847,7 +2847,7 @@ SUBROUTINE_1096:
      0x243B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "sg0m" with entities [LocalPlayer, LocalPlayer], work=46*
      0x244A [0x46] CAMERA_CONTROL: Restore default settings
      0x244C [0x1B] RETURN
-     0x244D [0x24] CREATE_DIALOG(message_id=7232*, default_option=1*, option_flags=0*)
+     0x244D [0x24] CREATE_DIALOG(message_id=7233*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x2454 [0x25] WAIT_DIALOG_SELECT()
      0x2455 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2463

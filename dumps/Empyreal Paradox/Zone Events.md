@@ -96,24 +96,24 @@
 |       3 | 0x001F      |          31 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1DB9      |        7609 |
-|       7 | 0x1D0D      |        7437 |
+|       6 | 0x1DBA      |        7610 |
+|       7 | 0x1D0E      |        7438 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x1BA0      |        7072 |
+|      12 | 0x1BA1      |        7073 |
 |      13 | 0x00FF      |         255 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x0013      |          19 |
 |      16 | 0x0008      |           8 |
 |      17 | 0x0009      |           9 |
 |      18 | 0x000B      |          11 |
-|      19 | 0x1BAB      |        7083 |
-|      20 | 0x1BAC      |        7084 |
-|      21 | 0x1BAD      |        7085 |
-|      22 | 0x1BAE      |        7086 |
-|      23 | 0x1BD2      |        7122 |
+|      19 | 0x1BAC      |        7084 |
+|      20 | 0x1BAD      |        7085 |
+|      21 | 0x1BAE      |        7086 |
+|      22 | 0x1BAF      |        7087 |
+|      23 | 0x1BD3      |        7123 |
 |      24 | 0x0006      |           6 |
 |      25 | 0x0007      |           7 |
 |      26 | 0x000A      |          10 |
@@ -133,18 +133,18 @@
 |      40 | 0x001C      |          28 |
 |      41 | 0x001D      |          29 |
 |      42 | 0x001E      |          30 |
-|      43 | 0x1D07      |        7431 |
-|      44 | 0x1D0C      |        7436 |
-|      45 | 0x1D0B      |        7435 |
+|      43 | 0x1D08      |        7432 |
+|      44 | 0x1D0D      |        7437 |
+|      45 | 0x1D0C      |        7436 |
 |      46 | 0x003C      |          60 |
-|      47 | 0x1DB7      |        7607 |
-|      48 | 0x1DB6      |        7606 |
+|      47 | 0x1DB8      |        7608 |
+|      48 | 0x1DB7      |        7607 |
 |      49 | 0x0064      |         100 |
-|      50 | 0x1CF3      |        7411 |
+|      50 | 0x1CF4      |        7412 |
 |      51 | 0x00E0      |         224 |
 |      52 | 0x0089      |         137 |
 |      53 | 0x00C1      |         193 |
-|      54 | 0x1BA3      |        7075 |
+|      54 | 0x1BA4      |        7076 |
 |      55 | 0x00C9      |         201 |
 |      56 | 0x00B4      |         180 |
 |      57 | 0xFFF6C42B  |  4294362155 |
@@ -229,11 +229,11 @@
 |     136 | 0x8FE5      |       36837 |
 |     137 | 0x02A1      |         673 |
 |     138 | 0x0024      |          36 |
-|     139 | 0x1CF5      |        7413 |
-|     140 | 0x1CF4      |        7412 |
-|     141 | 0x1DB5      |        7605 |
-|     142 | 0x1CF7      |        7415 |
-|     143 | 0x1CF6      |        7414 |
+|     139 | 0x1CF6      |        7414 |
+|     140 | 0x1CF5      |        7413 |
+|     141 | 0x1DB6      |        7606 |
+|     142 | 0x1CF8      |        7416 |
+|     143 | 0x1CF7      |        7415 |
 |     144 | 0x0078      |         120 |
 |     145 | 0x0096      |         150 |
 |     146 | 0x83DD4     |      540116 |
@@ -248,29 +248,29 @@
 |     155 | 0x0310      |         784 |
 |     156 | 0x009D      |         157 |
 |     157 | 0x002D      |          45 |
-|     158 | 0x1DD8      |        7640 |
+|     158 | 0x1DD9      |        7641 |
 |     159 | 0x0069      |         105 |
-|     160 | 0x1DD9      |        7641 |
-|     161 | 0x1DDA      |        7642 |
-|     162 | 0x1DDB      |        7643 |
+|     160 | 0x1DDA      |        7642 |
+|     161 | 0x1DDB      |        7643 |
+|     162 | 0x1DDC      |        7644 |
 |     163 | 0xFFF81AB6  |  4294449846 |
 |     164 | 0x7AEFF     |      503551 |
 |     165 | 0x0C79      |        3193 |
-|     166 | 0x1DDC      |        7644 |
-|     167 | 0x1DDD      |        7645 |
+|     166 | 0x1DDD      |        7645 |
+|     167 | 0x1DDE      |        7646 |
 |     168 | 0x01E1      |         481 |
-|     169 | 0x1DDE      |        7646 |
+|     169 | 0x1DDF      |        7647 |
 |     170 | 0x02B4      |         692 |
-|     171 | 0x1DDF      |        7647 |
-|     172 | 0x1DE0      |        7648 |
+|     171 | 0x1DE0      |        7648 |
+|     172 | 0x1DE1      |        7649 |
 |     173 | 0x031B      |         795 |
-|     174 | 0x1DE1      |        7649 |
-|     175 | 0x1DE2      |        7650 |
-|     176 | 0x1DE3      |        7651 |
-|     177 | 0x1DE4      |        7652 |
-|     178 | 0x1DE5      |        7653 |
-|     179 | 0x1DE6      |        7654 |
-|     180 | 0x1DE7      |        7655 |
+|     174 | 0x1DE2      |        7650 |
+|     175 | 0x1DE3      |        7651 |
+|     176 | 0x1DE4      |        7652 |
+|     177 | 0x1DE5      |        7653 |
+|     178 | 0x1DE6      |        7654 |
+|     179 | 0x1DE7      |        7655 |
+|     180 | 0x1DE8      |        7656 |
 |     181 | 0x007F      |         127 |
 |     182 | 0x02F8      |         760 |
 |     183 | 0x0087      |         135 |
@@ -279,26 +279,26 @@
 |     186 | 0x0095      |         149 |
 |     187 | 0x02BA      |         698 |
 |     188 | 0x0057      |          87 |
-|     189 | 0x1DE8      |        7656 |
-|     190 | 0x1DE9      |        7657 |
-|     191 | 0x1DEA      |        7658 |
-|     192 | 0x1DEB      |        7659 |
-|     193 | 0x1DEC      |        7660 |
+|     189 | 0x1DE9      |        7657 |
+|     190 | 0x1DEA      |        7658 |
+|     191 | 0x1DEB      |        7659 |
+|     192 | 0x1DEC      |        7660 |
+|     193 | 0x1DED      |        7661 |
 |     194 | 0xFFF81213  |  4294447635 |
 |     195 | 0x78E30     |      495152 |
 |     196 | 0xFFFE2B41  |  4294847297 |
 |     197 | 0x0101      |         257 |
 |     198 | 0x0326      |         806 |
-|     199 | 0x1E76      |        7798 |
+|     199 | 0x1E77      |        7799 |
 |     200 | 0x0251      |         593 |
-|     201 | 0x1E77      |        7799 |
+|     201 | 0x1E78      |        7800 |
 |     202 | 0x0100      |         256 |
 |     203 | 0x00B6      |         182 |
 |     204 | 0x00B5      |         181 |
 |     205 | 0xFFF81110  |  4294447376 |
 |     206 | 0x7CF43     |      511811 |
 |     207 | 0x0C0C      |        3084 |
-|     208 | 0x1BA1      |        7073 |
+|     208 | 0x1BA2      |        7074 |
 |     209 | 0x0071      |         113 |
 |     210 | 0x0074      |         116 |
 |     211 | 0x0077      |         119 |
@@ -311,8 +311,8 @@
 |     218 | 0x1D4BF     |      119999 |
 |     219 | 0x008C      |         140 |
 |     220 | 0x00AA      |         170 |
-|     221 | 0x1DCC      |        7628 |
-|     222 | 0x1DCD      |        7629 |
+|     221 | 0x1DCD      |        7629 |
+|     222 | 0x1DCE      |        7630 |
 |     223 | 0x0314      |         788 |
 |     224 | 0x007C      |         124 |
 |     225 | 0x030F      |         783 |
@@ -419,29 +419,29 @@
 
 ## String References
 
-- **7072**: Enter the battlefield? [Enter./Decline.]
-- **7073**: Leave the battlefield? [Run away./Stay.]
-- **7075**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7083**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7073**: Enter the battlefield? [Enter./Decline.]
+- **7074**: Leave the battlefield? [Run away./Stay.]
+- **7076**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7084**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7085**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7086**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7122**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7411**: Skip the event? [Yes./No.]
-- **7412**: Battlefield clear time: $3 second[/s]!
-- **7413**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7414**: The current battlefield clear time record is $3 second[/s].
-- **7415**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
-- **7431**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7435**: That record is held by $5 adventurers, including %0!
-- **7436**: That record is held by %0!
-- **7437**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7605**: You have broken the clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]"!
-- **7606**: The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 second[/s].
-- **7607**: The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 minute[/s] $2 second[/s].
-- **7609**: Which battlefield will you enter? [None./Dawn./Apocalypse Nigh./Both Paths Taken./$26Dawn./The Winds of Time./Sealed Fate.]
-- **7628**: This device appears to be connected to the level above.
-- **7629**: Use the device? [Yes./No.]
+- **7087**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7123**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7412**: Skip the event? [Yes./No.]
+- **7413**: Battlefield clear time: $3 second[/s]!
+- **7414**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7415**: The current battlefield clear time record is $3 second[/s].
+- **7416**: The current battlefield clear time record is $3 minute[/s] $2 second[/s].
+- **7432**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7436**: That record is held by $5 adventurers, including %0!
+- **7437**: That record is held by %0!
+- **7438**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7606**: You have broken the clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]"!
+- **7607**: The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 second[/s].
+- **7608**: The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 minute[/s] $2 second[/s].
+- **7610**: Which battlefield will you enter? [None./Dawn./Apocalypse Nigh./Both Paths Taken./$26Dawn./The Winds of Time./Sealed Fate.]
+- **7629**: This device appears to be connected to the level above.
+- **7630**: Use the device? [Yes./No.]
 
 ## Events
 
@@ -659,7 +659,7 @@
  13: 0x004E [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x0053 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x0058 [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7609*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7610*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./Dawn./Apocalypse Nigh./Both Paths Taken./$26Dawn./The Winds of Time./Sealed Fate.]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0073
@@ -672,7 +672,7 @@ SUBROUTINE_009F:
 
 SUBROUTINE_00B0:
  23: 0x00B0 [0x1A] CALL_SUBROUTINE(address=0x1E5D)
- 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7437*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x00B3 [0x24] CREATE_DIALOG(message_id=7438*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x00BA [0x25] WAIT_DIALOG_SELECT()
  26: 0x00BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
@@ -698,7 +698,7 @@ SUBROUTINE_011E:
  44: 0x0121 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x0124 [0x1A] CALL_SUBROUTINE(address=0x087B)
  46: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0145
- 47: 0x012F [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+ 47: 0x012F [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0137 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0145
@@ -747,22 +747,22 @@ SUBROUTINE_01A4:
  86: 0x0212 [0x01] GOTO 0x0817
  87: 0x0215 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x025F
  88: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x022C
- 89: 0x0225 [0x48] [System] [7083*]:
+ 89: 0x0225 [0x48] [System] [7084*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  90: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0229 [0x01] GOTO 0x0259
  92: 0x022C [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x023B
- 93: 0x0234 [0x48] [System] [7084*]:
+ 93: 0x0234 [0x48] [System] [7085*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  94: 0x0237 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0238 [0x01] GOTO 0x0259
  96: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x024A
- 97: 0x0243 [0x48] [System] [7085*]:
+ 97: 0x0243 [0x48] [System] [7086*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
  98: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0247 [0x01] GOTO 0x0259
 100: 0x024A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0259
-101: 0x0252 [0x48] [System] [7086*]:
+101: 0x0252 [0x48] [System] [7087*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 102: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0256 [0x01] GOTO 0x0259
@@ -771,7 +771,7 @@ SUBROUTINE_0259:
 104: 0x0259 [0x01] GOTO 0x082E
 
 SUBROUTINE_0469:
-105: 0x0469 [0x48] [System] [7431*]:
+105: 0x0469 [0x48] [System] [7432*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 106: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x046D [0x01] GOTO 0x082E
@@ -783,24 +783,24 @@ SUBROUTINE_04C6:
 111: 0x04D6 [0x02] IF !(ExtData[1]->WorkLocal[26] < 60*) GOTO 0x04F1
 112: 0x04DE [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 113: 0x04E5 [0x15] Work_Zone[5] /= 60*
-114: 0x04EA [0x48] [System] [7607*]:
+114: 0x04EA [0x48] [System] [7608*]:
     → "The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 minute[/s] $2 second[/s]."
 115: 0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x04EE [0x01] GOTO 0x04F5
-117: 0x04F1 [0x48] [System] [7606*]:
+117: 0x04F1 [0x48] [System] [7607*]:
     → "The current battlefield clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]" is $3 second[/s]."
 118: 0x04F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_04F5:
 119: 0x04F5 [0x02] IF !(ExtData[1]->WorkLocal[13] > 1*) GOTO 0x0504
-120: 0x04FD [0x48] [System] [7436*]:
+120: 0x04FD [0x48] [System] [7437*]:
     → "That record is held by %0!"
 121: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0501 [0x01] GOTO 0x0515
 123: 0x0504 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[13]
 124: 0x0509 [0x0C] Work_Zone[6]--
 125: 0x050C [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[13]
-126: 0x0511 [0x48] [System] [7435*]:
+126: 0x0511 [0x48] [System] [7436*]:
     → "That record is held by $5 adventurers, including %0!"
 127: 0x0514 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -816,7 +816,7 @@ SUBROUTINE_0515:
 SUBROUTINE_0539:
 135: 0x0539 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x055F
 136: 0x0541 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x055F
-137: 0x0549 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
+137: 0x0549 [0x24] CREATE_DIALOG(message_id=7412*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 138: 0x0550 [0x25] WAIT_DIALOG_SELECT()
 139: 0x0551 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x055F
@@ -970,7 +970,7 @@ SUBROUTINE_0817:
 275: 0x081A [0x02] IF !(0* == 1*) GOTO 0x0827
 276: 0x0822 [0x03] ExtData[1]->WorkLocal[0] = 4*
 277: 0x0827 [0x01] GOTO 0x01A4
-278: 0x082A [0x48] [System] [7075*]:
+278: 0x082A [0x48] [System] [7076*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 279: 0x082D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1362,7 +1362,7 @@ SUBROUTINE_0CAB:
  96: 0x0CB6 [0x01] GOTO 0x0CD4
  97: 0x0CB9 [0x02] IF !(ExtData[1]->WorkLocal[23] == 1*) GOTO 0x0D84
  98: 0x0CC1 [0x1C] WAIT(15* ticks)
- 99: 0x0CC4 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
+ 99: 0x0CC4 [0x24] CREATE_DIALOG(message_id=7412*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 100: 0x0CCB [0x25] WAIT_DIALOG_SELECT()
 101: 0x0CCC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D84
@@ -1461,18 +1461,18 @@ SUBROUTINE_0E2F:
 178: 0x0E68 [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0E83
 179: 0x0E70 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 180: 0x0E77 [0x15] Work_Zone[5] /= 60*
-181: 0x0E7C [0x48] [System] [7413*]:
+181: 0x0E7C [0x48] [System] [7414*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 182: 0x0E7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x0E80 [0x01] GOTO 0x0E87
-184: 0x0E83 [0x48] [System] [7412*]:
+184: 0x0E83 [0x48] [System] [7413*]:
     → "Battlefield clear time: $3 second[/s]!"
 185: 0x0E86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0E87:
 186: 0x0E87 [0x02] IF !(ExtData[1]->WorkLocal[27] > ExtData[1]->WorkLocal[26]) GOTO 0x0E9B
 187: 0x0E8F [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[25]
-188: 0x0E94 [0x48] [System] [7605*]:
+188: 0x0E94 [0x48] [System] [7606*]:
     → "You have broken the clear time record for "[Dawn/Apocalypse Nigh/Both Paths Taken/$26Dawn/The Winds of Time/Sealed Fate]"!"
 189: 0x0E97 [0x23] WAIT_FOR_DIALOG_INTERACTION
 190: 0x0E98 [0x01] GOTO 0x0EC4
@@ -1480,12 +1480,12 @@ SUBROUTINE_0E87:
 192: 0x0EA3 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
 193: 0x0EA8 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 194: 0x0EAF [0x15] Work_Zone[5] /= 60*
-195: 0x0EB4 [0x48] [System] [7415*]:
+195: 0x0EB4 [0x48] [System] [7416*]:
     → "The current battlefield clear time record is $3 minute[/s] $2 second[/s]."
 196: 0x0EB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 197: 0x0EB8 [0x01] GOTO 0x0EC4
 198: 0x0EBB [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-199: 0x0EC0 [0x48] [System] [7414*]:
+199: 0x0EC0 [0x48] [System] [7415*]:
     → "The current battlefield clear time record is $3 second[/s]."
 200: 0x0EC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2008,7 +2008,7 @@ SUBROUTINE_115E:
   9: 0x11A8 [0x03] ExtData[1]->WorkLocal[35] = Work_Zone[3]
  10: 0x11AD [0x03] ExtData[1]->WorkLocal[31] = Work_Zone[4]
  11: 0x11B2 [0x1A] CALL_SUBROUTINE(address=0x2704)
- 12: 0x11B5 [0x24] CREATE_DIALOG(message_id=7411*, default_option=1*, option_flags=0*)
+ 12: 0x11B5 [0x24] CREATE_DIALOG(message_id=7412*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  13: 0x11BC [0x25] WAIT_DIALOG_SELECT()
  14: 0x11BD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1247
@@ -2052,7 +2052,7 @@ SUBROUTINE_1EF0:
 
 ```
 # Dead code (unreachable instructions):
-     0x1250 [0x24] CREATE_DIALOG(message_id=7072*, default_option=1*, option_flags=0*)
+     0x1250 [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x1257 [0x25] WAIT_DIALOG_SELECT()
      0x1258 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1266
@@ -2118,7 +2118,7 @@ SUBROUTINE_1EF0:
      0x144A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la25" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x145B [0x27] REQ_SET(priority=0x10, entity_id=Prishe (ID: 16924761/0x01024059), tag_num=0x10)
      0x1462 [0x1C] WAIT(60* ticks)
-     0x1465 [0x2B] Prishe (ID: 16924761/0x01024059) [7640*]:
+     0x1465 [0x2B] Prishe (ID: 16924761/0x01024059) [7641*]:
     → "Selh'teus!!!"
      0x146C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x146D [0x52] END_LOAD_SCHEDULER: End scheduler "la25" with entities [LocalPlayer, LocalPlayer], work=29*
@@ -2130,15 +2130,15 @@ SUBROUTINE_1EF0:
      0x14B6 [0x52] END_LOAD_SCHEDULER: End scheduler "la26" with entities [LocalPlayer, LocalPlayer], work=29*
      0x14C5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la27" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x14D6 [0x1C] WAIT(45* ticks)
-     0x14D9 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7641*]:
+     0x14D9 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7642*]:
     → "Uh... I'm fine..."
      0x14E0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "b401" with entities [Selh'teus (ID: 16924762/0x0102405A), Selh'teus (ID: 16924762/0x0102405A)]
      0x14ED [0x52] END_LOAD_SCHEDULER: End scheduler "la27" with entities [LocalPlayer, LocalPlayer], work=29*
      0x14FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la28" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
-     0x150D [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7642*]:
+     0x150D [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7643*]:
     → "It's Promathia you need to worry about. That won't hold him for long."
      0x1514 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1515 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7643*]:
+     0x1515 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7644*]:
     → "I thought that I could draw him away from here with the promise of the darkness I hold within..."
      0x151C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x151D [0x52] END_LOAD_SCHEDULER: End scheduler "la28" with entities [LocalPlayer, LocalPlayer], work=29*
@@ -2146,26 +2146,26 @@ SUBROUTINE_1EF0:
      0x153D [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-517.450*, z=503.551*, y=-120.000*, direction=280.6°*
      0x1546 [0x4A] LocalPlayer looks at Promathia (ID: 16924771/0x01024063)
      0x154F [0x7B] Prishe (ID: 16924761/0x01024059) stops talking
-     0x1554 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7644*]:
+     0x1554 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7645*]:
     → "But it seems the Twilight God is content to wait until the end is near..."
      0x155B [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x155C [0x52] END_LOAD_SCHEDULER: End scheduler "la29" with entities [LocalPlayer, LocalPlayer], work=29*
      0x156B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la30" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
-     0x157C [0x2B] Prishe (ID: 16924761/0x01024059) [7645*]:
+     0x157C [0x2B] Prishe (ID: 16924761/0x01024059) [7646*]:
     → "The apocalypse, huh? Meaning the moment when Promathia dies?"
      0x1583 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1584 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "sra0" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)], work=481*
-     0x1593 [0x2B] Prishe (ID: 16924761/0x01024059) [7646*]:
+     0x1593 [0x2B] Prishe (ID: 16924761/0x01024059) [7647*]:
     → "I've been a complete idiot. The will of Promathia, the "Emptiness," is the manifestation of complete death."
      0x159A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x159B [0x52] END_LOAD_SCHEDULER: End scheduler "la30" with entities [LocalPlayer, LocalPlayer], work=29*
      0x15AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la31" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x15BB [0x4A] Prishe (ID: 16924761/0x01024059) looks at Promathia (ID: 16924771/0x01024063)
      0x15C4 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pa04" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)], work=692*
-     0x15D3 [0x2B] Prishe (ID: 16924761/0x01024059) [7647*]:
+     0x15D3 [0x2B] Prishe (ID: 16924761/0x01024059) [7648*]:
     → "Even a god would be destroyed by the full force of Emptiness."
      0x15DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x15DB [0x2B] Prishe (ID: 16924761/0x01024059) [7648*]:
+     0x15DB [0x2B] Prishe (ID: 16924761/0x01024059) [7649*]:
     → "That's why so many vessels were needed to hold it..."
      0x15E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15E3 [0x7B] Prishe (ID: 16924761/0x01024059) stops talking
@@ -2173,35 +2173,35 @@ SUBROUTINE_1EF0:
      0x15F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la32" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x1608 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "par4" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)], work=795*
      0x1617 [0x1C] WAIT(60* ticks)
-     0x161A [0x2B] Prishe (ID: 16924761/0x01024059) [7649*]:
+     0x161A [0x2B] Prishe (ID: 16924761/0x01024059) [7650*]:
     → "The children of Altana...?"
      0x1621 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1622 [0x52] END_LOAD_SCHEDULER: End scheduler "la32" with entities [LocalPlayer, LocalPlayer], work=29*
      0x1631 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la33" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
-     0x1642 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7650*]:
+     0x1642 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7651*]:
     → "Yes... To insure the Twilight God's continued existence, Altana stole the energy of the mothercrystal to create the race of people."
      0x1649 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x164A [0x52] END_LOAD_SCHEDULER: End scheduler "la33" with entities [LocalPlayer, LocalPlayer], work=29*
      0x1659 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la36" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
-     0x166A [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7651*]:
+     0x166A [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7652*]:
     → "The mothercrystal split into five parts, and the realm of the gods was torn from its higher plane--to be transformed into the world of Vana'diel."
      0x1671 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1672 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7652*]:
+     0x1672 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7653*]:
     → "The people of Al'Taieu, with this knowledge burned into their souls, joined together to return to the Twilight God. They sought to restore the original mothercrystal and open the gates to Paradise."
      0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x167A [0x52] END_LOAD_SCHEDULER: End scheduler "la36" with entities [LocalPlayer, LocalPlayer], work=29*
      0x1689 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la34" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
-     0x169A [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7653*]:
+     0x169A [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7654*]:
     → "That was when they knew--the thing that I, once killed by the suffocating grasp of Emptiness, know only too well."
      0x16A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16A2 [0x52] END_LOAD_SCHEDULER: End scheduler "la34" with entities [LocalPlayer, LocalPlayer], work=29*
      0x16B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la35" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x16C2 [0x1C] WAIT(60* ticks)
      0x16C5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pa04" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)], work=692*
-     0x16D4 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7654*]:
+     0x16D4 [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7655*]:
     → "The despair of the apocalypse."
      0x16DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x16DC [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7655*]:
+     0x16DC [0x2B] Selh'teus (ID: 16924762/0x0102405A) [7656*]:
     → "I want to end this curse. No longer shall we live in the shadow of our darkness--our arrogance, envy, cowardice, apathy, and rage..."
      0x16E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "houa" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
@@ -2267,7 +2267,7 @@ SUBROUTINE_1EF0:
      0x199C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la37" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x19AD [0x7B] LocalPlayer stops talking
      0x19B2 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x14)
-     0x19B9 [0x2B] Prishe (ID: 16924761/0x01024059) [7656*]:
+     0x19B9 [0x2B] Prishe (ID: 16924761/0x01024059) [7657*]:
     → "How about that? A god with a death wish."
      0x19C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fu01" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)], work=698*
@@ -2275,23 +2275,23 @@ SUBROUTINE_1EF0:
      0x19D3 [0x52] END_LOAD_SCHEDULER: End scheduler "la37" with entities [LocalPlayer, LocalPlayer], work=29*
      0x19E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la41" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x19F3 [0x1C] WAIT(15* ticks)
-     0x19F6 [0x2B] Prishe (ID: 16924761/0x01024059) [7657*]:
+     0x19F6 [0x2B] Prishe (ID: 16924761/0x01024059) [7658*]:
     → "Hey, Your Twilightness! I hate to break it to you, but me and Selh'teus aren't mortal anymore! We're not gonna let you get away with this!"
      0x19FD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x19FE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "fu01" with entities [Prishe (ID: 16924761/0x01024059), Prishe (ID: 16924761/0x01024059)]
      0x1A0B [0x52] END_LOAD_SCHEDULER: End scheduler "la37" with entities [LocalPlayer, LocalPlayer], work=29*
      0x1A1A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la38" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x1A2B [0x27] REQ_SET(priority=0x10, entity_id=Promathia (ID: 16924771/0x01024063), tag_num=0x0D)
-     0x1A32 [0x2B] Prishe (ID: 16924761/0x01024059) [7658*]:
+     0x1A32 [0x2B] Prishe (ID: 16924761/0x01024059) [7659*]:
     → "But you are still mortal, <Player>."
      0x1A39 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1A3A [0x2B] Prishe (ID: 16924761/0x01024059) [7659*]:
+     0x1A3A [0x2B] Prishe (ID: 16924761/0x01024059) [7660*]:
     → "You have to decide for yourself. Are you willing to sit here and wait for the end!?"
      0x1A41 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1A42 [0x52] END_LOAD_SCHEDULER: End scheduler "la38" with entities [LocalPlayer, LocalPlayer], work=29*
      0x1A51 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "la39" with entities [LocalPlayer, LocalPlayer], work=[29*, 0*]
      0x1A62 [0x29] REQ_SET_WAIT(priority=0x10, entity_id=Prishe (ID: 16924761/0x01024059), tag_num=0x11)
-     0x1A69 [0x2B] Prishe (ID: 16924761/0x01024059) [7660*]:
+     0x1A69 [0x2B] Prishe (ID: 16924761/0x01024059) [7661*]:
     → "I didn't think so! For Vana'diel!"
      0x1A70 [0x27] REQ_SET(priority=0x10, entity_id=Prishe (ID: 16924761/0x01024059), tag_num=0x12)
      0x1A77 [0x1C] WAIT(90* ticks)
@@ -2358,7 +2358,7 @@ SUBROUTINE_1EF0:
      0x1C03 [0x1C] WAIT(30* ticks)
      0x1C06 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "la04" with entities [Kam'lanaut (ID: 16924781/0x0102406D), Kam'lanaut (ID: 16924781/0x0102406D)], work=806*
      0x1C15 [0x1C] WAIT(90* ticks)
-     0x1C18 [0x2B] Kam'lanaut (ID: 16924781/0x0102406D) [7798*]:
+     0x1C18 [0x2B] Kam'lanaut (ID: 16924781/0x0102406D) [7799*]:
     → "You shall be the first...!"
      0x1C1F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C20 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "lc01" with entities [LocalPlayer, LocalPlayer], work=257*
@@ -2366,7 +2366,7 @@ SUBROUTINE_1EF0:
      0x1C40 [0x1C] WAIT(60* ticks)
      0x1C43 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "kao1" with entities [Eald'narche (ID: 16924780/0x0102406C), Eald'narche (ID: 16924780/0x0102406C)], work=593*
      0x1C52 [0x1C] WAIT(45* ticks)
-     0x1C55 [0x2B] Eald'narche (ID: 16924780/0x0102406C) [7799*]:
+     0x1C55 [0x2B] Eald'narche (ID: 16924780/0x0102406C) [7800*]:
     → "The first to taste the vengeance of the dead!"
      0x1C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1C5D [0x52] END_LOAD_SCHEDULER: End scheduler "lc03" with entities [LocalPlayer, LocalPlayer], work=257*
@@ -2427,7 +2427,7 @@ SUBROUTINE_1EF0:
      0x1E0F [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=539.989*, z=-576.522*, y=0.000*, direction=270.0°*
      0x1E18 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
      0x1E29 [0x1B] RETURN
-     0x1E2A [0x24] CREATE_DIALOG(message_id=7073*, default_option=1*, option_flags=0*)
+     0x1E2A [0x24] CREATE_DIALOG(message_id=7074*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x1E31 [0x25] WAIT_DIALOG_SELECT()
      0x1E32 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E40
@@ -2751,10 +2751,10 @@ SUBROUTINE_1EF0:
 
 ```
   0: 0x21EA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x21EC [0x48] [System] [7628*]:
+  1: 0x21EC [0x48] [System] [7629*]:
     → "This device appears to be connected to the level above."
   2: 0x21EF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x21F0 [0x24] CREATE_DIALOG(message_id=7629*, default_option=1*, option_flags=0*)
+  3: 0x21F0 [0x24] CREATE_DIALOG(message_id=7630*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   4: 0x21F7 [0x25] WAIT_DIALOG_SELECT()
   5: 0x21F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2214

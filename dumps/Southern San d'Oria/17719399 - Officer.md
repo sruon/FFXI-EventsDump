@@ -21,11 +21,11 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2065      |        8293 |
+|       0 | 0x2066      |        8294 |
 
 ## String References
 
-- **8293**: Who are you!? Don't interrupt us!
+- **8294**: Who are you!? Don't interrupt us!
 
 ## Events
 
@@ -93,7 +93,7 @@
 
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
+  1: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "Who are you!? Don't interrupt us!"
   2: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000B [0x21] END_EVENT

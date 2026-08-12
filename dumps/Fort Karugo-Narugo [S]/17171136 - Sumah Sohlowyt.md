@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x1FE5      |        8165 |
-|       3 | 0x1FE6      |        8166 |
+|       2 | 0x1FE6      |        8166 |
+|       3 | 0x1FE7      |        8167 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x0018 [0x2B] EventEntity [8165*]:
+  3: 0x0018 [0x2B] EventEntity [8166*]:
     → "Have you seen a pixie yet? They're tiny little fairy-like creatures, fluttering about this way and that."
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8166*]:
+  5: 0x0020 [0x2B] EventEntity [8167*]:
     → "But some say that they are just the battlefield hallucinations of weary soldiers. I wonder..."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0028 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

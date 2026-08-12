@@ -20,22 +20,22 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2977      |       10615 |
-|       1 | 0x2978      |       10616 |
-|       2 | 0x2979      |       10617 |
-|       3 | 0x297A      |       10618 |
-|       4 | 0x297B      |       10619 |
+|       0 | 0x2978      |       10616 |
+|       1 | 0x2979      |       10617 |
+|       2 | 0x297A      |       10618 |
+|       3 | 0x297B      |       10619 |
+|       4 | 0x297C      |       10620 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x40000000  |  1073741824 |
 
 ## String References
 
-- **10615**: I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo.
-- **10616**: This isn't a Mog House, so you can only use the "Mog Safe," "Change Jobs," and "Delivery Box" commands, kupo.
-- **10617**: You have to pay fee of $0 gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo.
-- **10618**: Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo.
-- **10619**: Transfer items? (Current gil:$1) [Pay $0 gil./Don't transfer items.]
+- **10616**: I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo.
+- **10617**: This isn't a Mog House, so you can only use the "Mog Safe," "Change Jobs," and "Delivery Box" commands, kupo.
+- **10618**: You have to pay fee of $0 gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo.
+- **10619**: Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo.
+- **10620**: Transfer items? (Current gil:$1) [Pay $0 gil./Don't transfer items.]
 
 ## Events
 
@@ -87,21 +87,21 @@
 ```
   0: 0x0001 [0x02] IF !(Work_Zone[4] == Entity->ServerId) GOTO 0x0051
   1: 0x0009 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=10615*)
+  2: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=10616*)
     → "I'm a traveling moogle, kupo. I help adventurers in the Outlands access items they have stored in a Mog House elsewhere, kupo."
   3: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0012 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk0" with entities [EventEntity, EventEntity]
-  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10616*)
+  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=10617*)
     → "This isn't a Mog House, so you can only use the "Mog Safe," "Change Jobs," and "Delivery Box" commands, kupo."
   6: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=10617*)
+  7: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=10618*)
     → "You have to pay fee of $0 gil to transfer your items to the Outlands, kupo. Why? Because the world is a cold place for rogue moogles, kupo."
   8: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0027 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "tlk1" with entities [EventEntity, EventEntity]
- 10: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10618*)
+ 10: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=10619*)
     → "Of course, you can move your items back to your Mog House in town, but if you want to transfer them to the Outlands again, you'll have to pay another fee, kupo. I've got to make a living too, kupo."
  11: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0038 [0x24] CREATE_DIALOG(message_id=10619*, default_option=1*, option_flags=0*)
+ 12: 0x0038 [0x24] CREATE_DIALOG(message_id=10620*, default_option=1*, option_flags=0*)
     → "Transfer items? (Current gil:$1) [Pay $0 gil./Don't transfer items.]"
  13: 0x003F [0x25] WAIT_DIALOG_SELECT()
  14: 0x0040 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0050

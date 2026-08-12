@@ -27,54 +27,54 @@
 |---------|-------------|-------------|
 |       0 | 0x0008      |           8 |
 |       1 | 0x0014      |          20 |
-|       2 | 0x20F7      |        8439 |
-|       3 | 0x20F8      |        8440 |
+|       2 | 0x20F8      |        8440 |
+|       3 | 0x20F9      |        8441 |
 |       4 | 0x0000      |           0 |
 |       5 | 0xFFFFFFFB  |  4294967291 |
-|       6 | 0x20F9      |        8441 |
+|       6 | 0x20FA      |        8442 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x20FA      |        8442 |
+|       8 | 0x20FB      |        8443 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x20FB      |        8443 |
-|      11 | 0x2EDA      |       11994 |
+|      10 | 0x20FC      |        8444 |
+|      11 | 0x2EDB      |       11995 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x2EF9      |       12025 |
-|      14 | 0x2EFA      |       12026 |
-|      15 | 0x2EFB      |       12027 |
-|      16 | 0x2F0C      |       12044 |
-|      17 | 0x2F0D      |       12045 |
-|      18 | 0x2091      |        8337 |
-|      19 | 0x2092      |        8338 |
-|      20 | 0x2093      |        8339 |
-|      21 | 0x2094      |        8340 |
-|      22 | 0x2095      |        8341 |
-|      23 | 0x2096      |        8342 |
-|      24 | 0x2097      |        8343 |
-|      25 | 0x2098      |        8344 |
-|      26 | 0x2099      |        8345 |
+|      13 | 0x2EFA      |       12026 |
+|      14 | 0x2EFB      |       12027 |
+|      15 | 0x2EFC      |       12028 |
+|      16 | 0x2F0D      |       12045 |
+|      17 | 0x2F0E      |       12046 |
+|      18 | 0x2092      |        8338 |
+|      19 | 0x2093      |        8339 |
+|      20 | 0x2094      |        8340 |
+|      21 | 0x2095      |        8341 |
+|      22 | 0x2096      |        8342 |
+|      23 | 0x2097      |        8343 |
+|      24 | 0x2098      |        8344 |
+|      25 | 0x2099      |        8345 |
+|      26 | 0x209A      |        8346 |
 
 ## String References
 
-- **8337**: Hmm... Now where did I put it?
-- **8338**: Oh, I'm sorry. I'm looking for something. Come back later.
-- **8339**: I'm sorry, but that's all for today. Someone stole my dagger.
-- **8340**: I'm Luthiaque. I travel hither and thither, bringing entertainment everywhere!
-- **8341**: Juggling is my specialty, but not mere balls or dishes... No, I juggle daggers!
-- **8342**: Did you bring me my dagger?
-- **8343**: Well, did you? [Yes, I did./No, not yet.]
-- **8344**: This is just the one! Thank you so much!
-- **8345**: Oh...
-- **8439**: Finding your way around Southern San d'Oria? You can look at my map if you'd like.
-- **8440**: Look at the map? [Yes./No.]
-- **8441**: Here in the center lies Victory Square. West is Pikeman's Way and Watchdog Alley, where you'll find the Tanners' Guild and Taumila's Sundries.
-- **8442**: East is Cavalry Way and Squire Alley, with armor and weapons shops, and a tavern. The gate at the end leads to the housing area.
-- **8443**: Is that so? Pity.
-- **11994**: Ask if this person is the chick's owner? [Yes./No.]
-- **12025**: You...you have my chocobo?
-- **12026**: May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature.
-- **12027**: You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo...
-- **12044**: You say you have my chocobo?
-- **12045**: My chocobo would never get lost. I trained him to find his way home all by himself!
+- **8338**: Hmm... Now where did I put it?
+- **8339**: Oh, I'm sorry. I'm looking for something. Come back later.
+- **8340**: I'm sorry, but that's all for today. Someone stole my dagger.
+- **8341**: I'm Luthiaque. I travel hither and thither, bringing entertainment everywhere!
+- **8342**: Juggling is my specialty, but not mere balls or dishes... No, I juggle daggers!
+- **8343**: Did you bring me my dagger?
+- **8344**: Well, did you? [Yes, I did./No, not yet.]
+- **8345**: This is just the one! Thank you so much!
+- **8346**: Oh...
+- **8440**: Finding your way around Southern San d'Oria? You can look at my map if you'd like.
+- **8441**: Look at the map? [Yes./No.]
+- **8442**: Here in the center lies Victory Square. West is Pikeman's Way and Watchdog Alley, where you'll find the Tanners' Guild and Taumila's Sundries.
+- **8443**: East is Cavalry Way and Squire Alley, with armor and weapons shops, and a tavern. The gate at the end leads to the housing area.
+- **8444**: Is that so? Pity.
+- **11995**: Ask if this person is the chick's owner? [Yes./No.]
+- **12026**: You...you have my chocobo?
+- **12027**: May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature.
+- **12028**: You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo...
+- **12045**: You say you have my chocobo?
+- **12046**: My chocobo would never get lost. I trained him to find his way home all by himself!
 
 ## Events
 
@@ -140,20 +140,20 @@
   2: 0x0009 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
+  5: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=8440*)
     → "Finding your way around Southern San d'Oria? You can look at my map if you'd like."
   6: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8440*, default_option=0*, option_flags=0*)
+  8: 0x0023 [0x24] CREATE_DIALOG(message_id=8441*, default_option=0*, option_flags=0*)
     → "Look at the map? [Yes./No.]"
   9: 0x002A [0x25] WAIT_DIALOG_SELECT()
  10: 0x002B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004D
  11: 0x0033 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967291*, properties=0*)
- 12: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
+ 12: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
     → "Here in the center lies Victory Square. West is Pikeman's Way and Watchdog Alley, where you'll find the Tanners' Guild and Taumila's Sundries."
  13: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x003C [0x1C] WAIT(30* ticks)
- 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+ 15: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "East is Cavalry Way and Squire Alley, with armor and weapons shops, and a tavern. The gate at the end leads to the housing area."
  16: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0043 [0x1C] WAIT(30* ticks)
@@ -162,7 +162,7 @@
  20: 0x004A [0x01] GOTO 0x0073
  21: 0x004D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0073
  22: 0x0055 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 23: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
+ 23: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8444*)
     → "Is that so? Pity."
  24: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0068 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -177,7 +177,7 @@ SUBROUTINE_0073:
  32: 0x0084 [0x03] Work_Zone[1] = 0*
  33: 0x0089 [0x01] GOTO 0x0105
  34: 0x008C [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 35: 0x008D [0x24] CREATE_DIALOG(message_id=11994*, default_option=1*, option_flags=0*)
+ 35: 0x008D [0x24] CREATE_DIALOG(message_id=11995*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  36: 0x0094 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F5
@@ -185,23 +185,23 @@ SUBROUTINE_0073:
  39: 0x00A2 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  40: 0x00A4 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  41: 0x00A6 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x00DB
- 42: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12025*)
+ 42: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
     → "You...you have my chocobo?"
  43: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00B2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 45: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12026*)
+ 45: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
     → "May Altana's blessings be upon you! I was teaching the little one to find his way home when I lost the poor creature."
  46: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
- 48: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12027*)
+ 48: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12028*)
     → "You are raising a chocobo yourself, are you not? In that case, let me teach you a story I often tell my chocobo..."
  49: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x00D8 [0x01] GOTO 0x00F2
- 51: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12044*)
+ 51: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
     → "You say you have my chocobo?"
  52: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x00DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 54: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12045*)
+ 54: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=12046*)
     → "My chocobo would never get lost. I trained him to find his way home all by himself!"
  55: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -241,12 +241,12 @@ SUBROUTINE_0105:
   0: 0x0107 [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
   1: 0x010C [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x012A
   2: 0x0114 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=0*
-  3: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8337*)
+  3: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
     → "Hmm... Now where did I put it?"
   4: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0127 [0x01] GOTO 0x013D
   6: 0x012A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=0*
-  7: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=8338*)
+  7: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
     → "Oh, I'm sorry. I'm looking for something. Come back later."
   8: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -280,14 +280,14 @@ SUBROUTINE_013D:
 ```
   0: 0x013F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0144 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=0*
-  2: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=8339*)
+  2: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
     → "I'm sorry, but that's all for today. Someone stole my dagger."
   3: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0157 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
-  5: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8340*)
+  5: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
     → "I'm Luthiaque. I travel hither and thither, bringing entertainment everywhere!"
   6: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8341*)
+  7: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
     → "Juggling is my specialty, but not mere balls or dishes... No, I juggle daggers!"
   8: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x016E [0x03] Work_Zone[1] = 1*
@@ -320,20 +320,20 @@ SUBROUTINE_013D:
 ```
   0: 0x0175 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x017A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=0*
-  2: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8342*)
+  2: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8343*)
     → "Did you bring me my dagger?"
   3: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x018D [0x24] CREATE_DIALOG(message_id=8343*, default_option=0*, option_flags=0*)
+  4: 0x018D [0x24] CREATE_DIALOG(message_id=8344*, default_option=0*, option_flags=0*)
     → "Well, did you? [Yes, I did./No, not yet.]"
   5: 0x0194 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0195 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A9
-  7: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=8344*)
+  7: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
     → "This is just the one! Thank you so much!"
   8: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01A1 [0x03] Work_Zone[1] = 0*
  10: 0x01A6 [0x01] GOTO 0x01BD
  11: 0x01A9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01BD
- 12: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8345*)
+ 12: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8346*)
     → "Oh..."
  13: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x01B5 [0x03] Work_Zone[1] = 1*

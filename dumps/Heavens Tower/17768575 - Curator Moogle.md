@@ -5,9 +5,9 @@
 | Field            | Value                   |
 |------------------|-------------------------|
 | Zone             | Heavens Tower (ID: 242) |
-| Block Size       | 548 bytes               |
+| Block Size       | 536 bytes               |
 | Total Events     | 2                       |
-| References Count | 25                      |
+| References Count | 22                      |
 
 ## List of Events
 
@@ -20,39 +20,36 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x25D5      |        9685 |
+|       0 | 0x25D6      |        9686 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0xFFFFFFFF  |  4294967295 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0008      |           8 |
 |       6 | 0x0014      |          20 |
-|       7 | 0x25D6      |        9686 |
-|       8 | 0x25DA      |        9690 |
-|       9 | 0x25D7      |        9687 |
-|      10 | 0x25D9      |        9689 |
+|       7 | 0x25D7      |        9687 |
+|       8 | 0x25DB      |        9691 |
+|       9 | 0x25D8      |        9688 |
+|      10 | 0x25DA      |        9690 |
 |      11 | 0x0004      |           4 |
-|      12 | 0x25D8      |        9688 |
-|      13 | 0x5061      |       20577 |
-|      14 | 0x0005      |           5 |
-|      15 | 0x0E8C      |        3724 |
-|      16 | 0x0003      |           3 |
-|      17 | 0x2C36      |       11318 |
-|      18 | 0x2C37      |       11319 |
-|      19 | 0x13D1      |        5073 |
-|      20 | 0x10D8      |        4312 |
-|      21 | 0x1652      |        5714 |
-|      22 | 0x0E90      |        3728 |
-|      23 | 0x0E8F      |        3727 |
-|      24 | 0x2734      |       10036 |
+|      12 | 0x25D9      |        9689 |
+|      13 | 0x6795      |       26517 |
+|      14 | 0x1989      |        6537 |
+|      15 | 0x54B2      |       21682 |
+|      16 | 0x5486      |       21638 |
+|      17 | 0x0339      |         825 |
+|      18 | 0x112B      |        4395 |
+|      19 | 0x0465      |        1125 |
+|      20 | 0x03A5      |         933 |
+|      21 | 0x0003      |           3 |
 
 ## String References
 
-- **9685**: Hail, adventurer! Take a look and see if there's anything you like, kupo! No gil necessary, just a quick little item in exchange!
-- **9687**: If so, then I require that you trade me the following all at once in exchange for the $30.
-- **9688**: $ $0 .
+- **9686**: Hail, adventurer! Take a look and see if there's anything you like, kupo! No gil necessary, just a quick little item in exchange!
+- **9688**: If so, then I require that you trade me the following all at once in exchange for the $30.
 - **9689**: $ $0 .
-- **9690**: Come again soon, kupo!
+- **9690**: $ $0 .
+- **9691**: Come again soon, kupo!
 
 ## Events
 
@@ -111,12 +108,12 @@
 0110: 0E 00 01 CF 00 1B 02 10  03 10 04 10 05 10 06 10  ................
 0120: 07 10 08 10 09 10 00 17  01 17 02 17 03 17 04 17  ................
 0130: 05 17 06 17 07 17 08 17  09 17 0A 17 0B 17 0C 17  ................
-0140: 0D 17 0E 17 0F 17 0D 80  02 80 0E 80 01 80 01 80  ................
-0150: 01 80 01 80 01 80 0F 80  02 80 10 80 01 80 01 80  ................
-0160: 01 80 01 80 01 80 11 80  12 80 13 80 14 80 15 80  ................
-0170: 01 80 01 80 01 80 16 80  17 80 18 80 01 80 01 80  ................
-0180: 01 80 01 80 01 80 02 80  02 80 02 80 04 80 04 80  ................
-0190: 01 80 01 80 01 80 02 80  02 80 10 80 01 80 01 80  ................
+0140: 0D 17 0E 17 0F 17 0D 80  02 80 0B 80 01 80 01 80  ................
+0150: 01 80 01 80 01 80 0E 80  02 80 04 80 01 80 01 80  ................
+0160: 01 80 01 80 01 80 0F 80  10 80 11 80 12 80 01 80  ................
+0170: 01 80 01 80 01 80 13 80  14 80 01 80 01 80 01 80  ................
+0180: 01 80 01 80 01 80 02 80  02 80 15 80 02 80 01 80  ................
+0190: 01 80 01 80 01 80 02 80  04 80 01 80 01 80 01 80  ................
 01A0: 01 80 01 80 01 80                                 ......          
 ```
 
@@ -126,7 +123,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9685*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9686*)
     → "Hail, adventurer! Take a look and see if there's anything you like, kupo! No gil necessary, just a quick little item in exchange!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x05] ExtData[1]->WorkLocal[3] = 1
@@ -151,16 +148,16 @@
      0x0116: 02 10 03 10 04 10 05 10 06 10 07 10 08 10 09 10
      0x0126: 00 17 01 17 02 17 03 17 04 17 05 17 06 17 07 17
      0x0136: 08 17 09 17 0A 17 0B 17 0C 17 0D 17 0E 17 0F 17
-     0x0146: 0D 80 02 80 0E 80 01 80 01 80 01 80 01 80 01 80
-     0x0156: 0F 80 02 80 10 80 01 80 01 80 01 80 01 80 01 80
-     0x0166: 11 80 12 80 13 80 14 80 15 80 01 80 01 80 01 80
-     0x0176: 16 80 17 80 18 80 01 80 01 80 01 80 01 80 01 80
-     0x0186: 02 80 02 80 02 80 04 80 04 80 01 80 01 80 01 80
-     0x0196: 02 80 02 80 10 80 01 80 01 80 01 80 01 80 01 80
+     0x0146: 0D 80 02 80 0B 80 01 80 01 80 01 80 01 80 01 80
+     0x0156: 0E 80 02 80 04 80 01 80 01 80 01 80 01 80 01 80
+     0x0166: 0F 80 10 80 11 80 12 80 01 80 01 80 01 80 01 80
+     0x0176: 13 80 14 80 01 80 01 80 01 80 01 80 01 80 01 80
+     0x0186: 02 80 02 80 15 80 02 80 01 80 01 80 01 80 01 80
+     0x0196: 02 80 04 80 01 80 01 80 01 80 01 80 01 80 01 80
 # Dead code (unreachable instructions):
      0x006A [0x25] WAIT_DIALOG_SELECT()
      0x006B [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x007D
-     0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=9690*)
+     0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=9691*)
     → "Come again soon, kupo!"
      0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0077 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -168,7 +165,7 @@
      0x007D [0x02] IF !(Work_Zone[0] >= 20*) GOTO 0x009C
      0x0085 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
      0x008A [0x9D] Work_Zone_1700[22] = 0x0116[ExtData[1]->WorkLocal[4]] // Read WORD
-     0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=9687*)
+     0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=9688*)
     → "If so, then I require that you trade me the following all at once in exchange for the $30."
      0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0096 [0x1A] CALL_SUBROUTINE(address=0x00A4)
@@ -189,16 +186,16 @@
      0x00E7 [0x0B] ExtData[1]->WorkLocal[24]++
      0x00EA [0x0B] ExtData[1]->WorkLocal[13]++
      0x00ED [0x02] IF !(ExtData[1]->WorkLocal[24] == ExtData[1]->WorkLocal[16]) GOTO 0x00FC
-     0x00F5 [0x48] [System] [9689*]:
+     0x00F5 [0x48] [System] [9690*]:
     → "$ $0 ."
      0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00F9 [0x01] GOTO 0x010F
      0x00FC [0x02] IF !(ExtData[1]->WorkLocal[24] == 4*) GOTO 0x010B
-     0x0104 [0x48] [System] [9689*]:
+     0x0104 [0x48] [System] [9690*]:
     → "$ $0 ."
      0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0108 [0x01] GOTO 0x010F
-     0x010B [0x48] [System] [9688*]:
+     0x010B [0x48] [System] [9689*]:
     → "$ $0 ."
      0x010E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x010F [0x0B] ExtData[1]->WorkLocal[14]++

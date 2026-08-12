@@ -52,7 +52,7 @@
 |      22 | 0x1B58      |        7000 |
 |      23 | 0x0C2E      |        3118 |
 |      24 | 0x00D3      |         211 |
-|      25 | 0x1C98      |        7320 |
+|      25 | 0x1C99      |        7321 |
 |      26 | 0xFFFF327D  |  4294914685 |
 |      27 | 0xFFFFF26F  |  4294963823 |
 |      28 | 0xFFFF494F  |  4294920527 |
@@ -237,7 +237,7 @@
  10: 0x0097 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  11: 0x0098 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  12: 0x0099 [0x03] Work_Zone[2] = 211*
- 13: 0x009E [0x2B] Borghertz (ID: 17784904/0x010F6048) [7320*]:
+ 13: 0x009E [0x2B] Borghertz (ID: 17784904/0x010F6048) [7321*]:
     → "Very well. Bring $6 from Castle Zvahl. Leave them and those gauntlets inside my toolbox, and I shall restore the gauntlets."
  14: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00A6 [0x6C] FADE_ENTITY_COLOR(entity_id=Borghertz (ID: 17784904/0x010F6048), end_alpha=0*, fade_time=128*)

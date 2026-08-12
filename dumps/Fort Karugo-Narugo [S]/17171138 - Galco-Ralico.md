@@ -20,10 +20,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FE9      |        8169 |
-|       1 | 0x1FEA      |        8170 |
+|       0 | 0x1FEA      |        8170 |
+|       1 | 0x1FEB      |        8171 |
 |       2 | 0x001D      |          29 |
-|       3 | 0x1FEB      |        8171 |
+|       3 | 0x1FEC      |        8172 |
 
 ## Events
 
@@ -71,15 +71,15 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x2B] EventEntity [8169*]:
+  1: 0x0006 [0x2B] EventEntity [8170*]:
     → "Adventurer, you know Shantotto, former Minster of the Orastery?"
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x2B] EventEntity [8170*]:
+  3: 0x000E [0x2B] EventEntity [8171*]:
     → "She is supposed to be in the north, for various reasons, but it seems she has returned leading a unit of volunteer soldiers!"
   4: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0016 [0x6E] EventEntity uses emote 29*
   6: 0x001D [0x99] Wait for EventEntity animation to complete
-  7: 0x0022 [0x2B] EventEntity [8171*]:
+  7: 0x0022 [0x2B] EventEntity [8172*]:
     → "Knowing Minister Shantotto, the very fact that she has returned must mean that the situation does not bode well... Ah! This was supposed to be a secretaru!"
   8: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x002A [0x21] END_EVENT

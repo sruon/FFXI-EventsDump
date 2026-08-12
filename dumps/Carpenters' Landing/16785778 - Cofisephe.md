@@ -20,35 +20,35 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D1E      |        7454 |
-|       1 | 0x1D1F      |        7455 |
-|       2 | 0x1D20      |        7456 |
+|       0 | 0x1D1F      |        7455 |
+|       1 | 0x1D20      |        7456 |
+|       2 | 0x1D21      |        7457 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1D22      |        7458 |
+|       5 | 0x1D23      |        7459 |
 |       6 | 0x0032      |          50 |
-|       7 | 0x1D19      |        7449 |
-|       8 | 0x1D21      |        7457 |
+|       7 | 0x1D1A      |        7450 |
+|       8 | 0x1D22      |        7458 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x000A      |          10 |
-|      11 | 0x1D23      |        7459 |
-|      12 | 0x1D24      |        7460 |
-|      13 | 0x1D25      |        7461 |
+|      11 | 0x1D24      |        7460 |
+|      12 | 0x1D25      |        7461 |
+|      13 | 0x1D26      |        7462 |
 |      14 | 0x012C      |         300 |
-|      15 | 0x1D17      |        7447 |
+|      15 | 0x1D18      |        7448 |
 
 ## String References
 
-- **7447**: Thank you, [sir/madame]. Enjoy your trip.
-- **7449**: I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket.
-- **7454**: Welcome to Carpenters' Landing.
-- **7455**: Barge tickets can be purchased for $2 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of $3 gil. Will you be sailing with us today?
-- **7456**: Purchase... [6 ($2 gil)./$6 ($3 gil)./Nothing today.]
-- **7457**: Thank you, [sir/madam]. I hope you enjoy sailing with us.
-- **7458**: You cannot buy more than one $3. Use the one you currently have to ride the next ship.
-- **7459**: Your $3 is valid for $4 more [trip/trips]. You do not need to purchase a new ticket at this time.
-- **7460**: Your $3 is valid for $4 more [trip/trips]. If you wish, you can purchase a new one for $3 gil.
-- **7461**: Purchase a new multi-ticket? [Yes ($3 gil)./No.]
+- **7448**: Thank you, [sir/madame]. Enjoy your trip.
+- **7450**: I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket.
+- **7455**: Welcome to Carpenters' Landing.
+- **7456**: Barge tickets can be purchased for $2 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of $3 gil. Will you be sailing with us today?
+- **7457**: Purchase... [6 ($2 gil)./$6 ($3 gil)./Nothing today.]
+- **7458**: Thank you, [sir/madam]. I hope you enjoy sailing with us.
+- **7459**: You cannot buy more than one $3. Use the one you currently have to ride the next ship.
+- **7460**: Your $3 is valid for $4 more [trip/trips]. You do not need to purchase a new ticket at this time.
+- **7461**: Your $3 is valid for $4 more [trip/trips]. If you wish, you can purchase a new one for $3 gil.
+- **7462**: Purchase a new multi-ticket? [Yes ($3 gil)./No.]
 
 ## Events
 
@@ -107,18 +107,18 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "Welcome to Carpenters' Landing."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
     → "Barge tickets can be purchased for $2 gil. Multi-tickets, which allow you to ride ten times, are available for a discounted price of $3 gil. Will you be sailing with us today?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000E [0x24] CREATE_DIALOG(message_id=7456*, default_option=2*, option_flags=0*)
+  5: 0x000E [0x24] CREATE_DIALOG(message_id=7457*, default_option=2*, option_flags=0*)
     → "Purchase... [6 ($2 gil)./$6 ($3 gil)./Nothing today.]"
   6: 0x0015 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0016 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F
   8: 0x001E [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x002F
-  9: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+  9: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "You cannot buy more than one $3. Use the one you currently have to ride the next ship."
  10: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0029 [0x06] Work_Zone[1] = 0
@@ -127,11 +127,11 @@
  14: 0x0030 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  15: 0x0032 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  16: 0x0034 [0x02] IF !(Work_Zone[3] >= 50*) GOTO 0x0043
- 17: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+ 17: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket."
  18: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0040 [0x01] GOTO 0x004C
- 20: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+ 20: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Thank you, [sir/madam]. I hope you enjoy sailing with us."
  21: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0047 [0x03] Work_Zone[1] = 1*
@@ -141,15 +141,15 @@ SUBROUTINE_004C:
  24: 0x004F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00C7
  25: 0x0057 [0x3E] IF !(Work_Zone[7] bit 1*) GOTO 0x00A7
  26: 0x005E [0x02] IF !(Work_Zone[6] < 10*) GOTO 0x0070
- 27: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+ 27: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Your $3 is valid for $4 more [trip/trips]. You do not need to purchase a new ticket at this time."
  28: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x006A [0x06] Work_Zone[1] = 0
  30: 0x006D [0x01] GOTO 0x00A4
- 31: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+ 31: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Your $3 is valid for $4 more [trip/trips]. If you wish, you can purchase a new one for $3 gil."
  32: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0074 [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
+ 33: 0x0074 [0x24] CREATE_DIALOG(message_id=7462*, default_option=1*, option_flags=0*)
     → "Purchase a new multi-ticket? [Yes ($3 gil)./No.]"
  34: 0x007B [0x25] WAIT_DIALOG_SELECT()
  35: 0x007C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A4
@@ -157,11 +157,11 @@ SUBROUTINE_004C:
  37: 0x0085 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  38: 0x0087 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  39: 0x0089 [0x02] IF !(Work_Zone[3] >= 300*) GOTO 0x0098
- 40: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+ 40: 0x0091 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket."
  41: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0095 [0x01] GOTO 0x00A1
- 43: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+ 43: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Thank you, [sir/madame]. Enjoy your trip."
  44: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x009C [0x03] Work_Zone[1] = 2*
@@ -175,11 +175,11 @@ SUBROUTINE_00A4:
  49: 0x00A8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  50: 0x00AA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  51: 0x00AC [0x02] IF !(Work_Zone[3] >= 300*) GOTO 0x00BB
- 52: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+ 52: 0x00B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "I'm sorry, [sir/madame]. You don't have enough gil to purchase a ticket."
  53: 0x00B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00B8 [0x01] GOTO 0x00C4
- 55: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+ 55: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "Thank you, [sir/madam]. I hope you enjoy sailing with us."
  56: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00BF [0x03] Work_Zone[1] = 2*

@@ -28,7 +28,7 @@
 |       4 | 0x0007      |           7 |
 |       5 | 0x0009      |           9 |
 |       6 | 0x0005      |           5 |
-|       7 | 0x1EDC      |        7900 |
+|       7 | 0x1EDD      |        7901 |
 |       8 | 0x4849      |       18505 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x494C      |       18764 |
@@ -63,35 +63,35 @@
 |      39 | 0x4AAD      |       19117 |
 |      40 | 0x0014      |          20 |
 |      41 | 0x48AA      |       18602 |
-|      42 | 0x1EDD      |        7901 |
-|      43 | 0x1EDE      |        7902 |
+|      42 | 0x1EDE      |        7902 |
+|      43 | 0x1EDF      |        7903 |
 |      44 | 0x00C9      |         201 |
-|      45 | 0x1EDF      |        7903 |
+|      45 | 0x1EE0      |        7904 |
 |      46 | 0x0065      |         101 |
 |      47 | 0x03E7      |         999 |
 |      48 | 0x00CA      |         202 |
-|      49 | 0x1EE1      |        7905 |
-|      50 | 0x1EE2      |        7906 |
+|      49 | 0x1EE2      |        7906 |
+|      50 | 0x1EE3      |        7907 |
 |      51 | 0x0066      |         102 |
-|      52 | 0x1EE3      |        7907 |
-|      53 | 0x1EE4      |        7908 |
-|      54 | 0x1EE5      |        7909 |
-|      55 | 0x1EE6      |        7910 |
-|      56 | 0x1EE7      |        7911 |
+|      52 | 0x1EE4      |        7908 |
+|      53 | 0x1EE5      |        7909 |
+|      54 | 0x1EE6      |        7910 |
+|      55 | 0x1EE7      |        7911 |
+|      56 | 0x1EE8      |        7912 |
 
 ## String References
 
-- **7900**: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
-- **7901**: Dost thou find this enchantment to thy liking?
-- **7902**: Accept the item? [Accept./Refuse. ($0 times remaining)]
-- **7903**: Splendid! May it serve thee well.
-- **7905**: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
-- **7906**: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
-- **7907**: What's this? 'Twould appear that thy weapon can endure no further enchantments.
-- **7908**: Though it may fall short of thy expectations, pray accept it.
-- **7909**: Otherwise, we shall have no choice but to dispose of it.
-- **7910**: Many thanks for thine assistance!
-- **7911**: Pray accept this $0 as but a humble token of our gratitude.
+- **7901**: By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward.
+- **7902**: Dost thou find this enchantment to thy liking?
+- **7903**: Accept the item? [Accept./Refuse. ($0 times remaining)]
+- **7904**: Splendid! May it serve thee well.
+- **7906**: Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days...
+- **7907**: In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!
+- **7908**: What's this? 'Twould appear that thy weapon can endure no further enchantments.
+- **7909**: Though it may fall short of thy expectations, pray accept it.
+- **7910**: Otherwise, we shall have no choice but to dispose of it.
+- **7911**: Many thanks for thine assistance!
+- **7912**: Pray accept this $0 as but a humble token of our gratitude.
 
 ## Events
 
@@ -187,7 +187,7 @@
  12: 0x0048 [0x1E] EventEntity looks at LocalPlayer and starts talking
  13: 0x004D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  14: 0x004E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 15: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7900*)
+ 15: 0x004F [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
     → "By my troth, what a thrilling battle! When thou landed the felling blow, a shiver ran down my wings! As promised, here is thy reward."
  16: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0053 [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x0063
@@ -253,14 +253,14 @@
 
 SUBROUTINE_0193:
  77: 0x0193 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[4], buffer1=ExtData[1]->WorkLocal[5], buffer2=ExtData[1]->WorkLocal[6], buffer3=ExtData[1]->WorkLocal[7])
- 78: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7901*)
+ 78: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7902*)
     → "Dost thou find this enchantment to thy liking?"
  79: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01A1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
 
 SUBROUTINE_01A4:
  81: 0x01A4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
- 82: 0x01A9 [0x24] CREATE_DIALOG(message_id=7902*, default_option=0*, option_flags=0*)
+ 82: 0x01A9 [0x24] CREATE_DIALOG(message_id=7903*, default_option=0*, option_flags=0*)
     → "Accept the item? [Accept./Refuse. ($0 times remaining)]"
  83: 0x01B0 [0x25] WAIT_DIALOG_SELECT()
  84: 0x01B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -269,7 +269,7 @@ SUBROUTINE_01A4:
  87: 0x01C0 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  88: 0x01C2 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
  89: 0x01C7 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x01F4
- 90: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7903*)
+ 90: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7904*)
     → "Splendid! May it serve thee well."
  91: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x01D3 [0x03] Work_Zone[1] = 101*
@@ -287,21 +287,21 @@ SUBROUTINE_01F9:
 102: 0x020D [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[2]
 103: 0x0212 [0x02] IF !(ExtData[1]->WorkLocal[10] == 3*) GOTO 0x0244
 104: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x0232
-105: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+105: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "Ah, 'tis unfortunate. Sadly, my folk are not well-versed in the penchants of adventurers these days..."
 106: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
-107: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+107: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "In that event, we shall prepare thy weapon to be enchanted anew. May thou be once more triumphant in battle anon!"
 108: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x022A [0x03] Work_Zone[1] = 102*
 110: 0x022F [0x01] GOTO 0x0241
-111: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+111: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "What's this? 'Twould appear that thy weapon can endure no further enchantments."
 112: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
+113: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
     → "Though it may fall short of thy expectations, pray accept it."
 114: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7909*)
+115: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
     → "Otherwise, we shall have no choice but to dispose of it."
 116: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x023E [0x01] GOTO 0x01A4
@@ -346,11 +346,11 @@ SUBROUTINE_024C:
   3: 0x0259 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x025E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x025F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=7910*)
+  6: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
     → "Many thanks for thine assistance!"
   7: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0264 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
-  9: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=7911*)
+  9: 0x0269 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
     → "Pray accept this $0 as but a humble token of our gratitude."
  10: 0x026C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x026D [0x42] SET_CLI_EVENT_CANCEL_DATA()

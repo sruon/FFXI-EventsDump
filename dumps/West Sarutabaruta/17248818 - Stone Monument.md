@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D15      |        7445 |
-|       1 | 0x1D16      |        7446 |
-|       2 | 0x1D17      |        7447 |
-|       3 | 0x1D18      |        7448 |
-|       4 | 0x1D19      |        7449 |
-|       5 | 0x1D1A      |        7450 |
+|       0 | 0x1D16      |        7446 |
+|       1 | 0x1D17      |        7447 |
+|       2 | 0x1D18      |        7448 |
+|       3 | 0x1D19      |        7449 |
+|       4 | 0x1D1A      |        7450 |
+|       5 | 0x1D1B      |        7451 |
 
 ## String References
 
-- **7445**: You see a message engraved on the stone:
-- **7446**: Now, five years after I first crossed the Jeuno Straits and began my slow southward survey of Mindartia, I have arrived at the southernmost land: the plains of Sarutabaruta.
-- **7447**: The Tarutaru who live here are a kind and friendly people; it is hard to believe their ancestors plotted the conquest of the world during the age of great magic.
-- **7448**: They, too, worship the Goddess Altana, yet they believe that She has a form here on Vana'diel called the Star Sibyl, who lives in a giant tree.
-- **7449**: I met the Star Sibyl, and she took my hand and spoke to me of everything from the current state of our world to the unseeable future. It was a wonderful experience.
-- **7450**: The Tarutaru have agreed to give me a magical ship to speed the rest of my survey. I thank the Sibyl, and her kind people. --Enid Ironheart, 778 Crystal Era.
+- **7446**: You see a message engraved on the stone:
+- **7447**: Now, five years after I first crossed the Jeuno Straits and began my slow southward survey of Mindartia, I have arrived at the southernmost land: the plains of Sarutabaruta.
+- **7448**: The Tarutaru who live here are a kind and friendly people; it is hard to believe their ancestors plotted the conquest of the world during the age of great magic.
+- **7449**: They, too, worship the Goddess Altana, yet they believe that She has a form here on Vana'diel called the Star Sibyl, who lives in a giant tree.
+- **7450**: I met the Star Sibyl, and she took my hand and spoke to me of everything from the current state of our world to the unseeable future. It was a wonderful experience.
+- **7451**: The Tarutaru have agreed to give me a magical ship to speed the rest of my survey. I thank the Sibyl, and her kind people. --Enid Ironheart, 778 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7445*]:
+  0: 0x0001 [0x48] [System] [7446*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7446*]:
+  2: 0x0005 [0x48] [System] [7447*]:
     → "Now, five years after I first crossed the Jeuno Straits and began my slow southward survey of Mindartia, I have arrived at the southernmost land: the plains of Sarutabaruta."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7447*]:
+  4: 0x0009 [0x48] [System] [7448*]:
     → "The Tarutaru who live here are a kind and friendly people; it is hard to believe their ancestors plotted the conquest of the world during the age of great magic."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7448*]:
+  6: 0x000D [0x48] [System] [7449*]:
     → "They, too, worship the Goddess Altana, yet they believe that She has a form here on Vana'diel called the Star Sibyl, who lives in a giant tree."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7449*]:
+  8: 0x0011 [0x48] [System] [7450*]:
     → "I met the Star Sibyl, and she took my hand and spoke to me of everything from the current state of our world to the unseeable future. It was a wonderful experience."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7450*]:
+ 10: 0x0015 [0x48] [System] [7451*]:
     → "The Tarutaru have agreed to give me a magical ship to speed the rest of my survey. I thank the Sibyl, and her kind people. --Enid Ironheart, 778 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

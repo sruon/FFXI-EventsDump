@@ -21,7 +21,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CC9      |        7369 |
+|       0 | 0x1CCA      |        7370 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0064      |         100 |
@@ -33,14 +33,14 @@
 |       9 | 0x003C      |          60 |
 |      10 | 0x00A0      |         160 |
 |      11 | 0x0141      |         321 |
-|      12 | 0x1CD1      |        7377 |
-|      13 | 0x1CD2      |        7378 |
-|      14 | 0x1CD3      |        7379 |
+|      12 | 0x1CD2      |        7378 |
+|      13 | 0x1CD3      |        7379 |
+|      14 | 0x1CD4      |        7380 |
 |      15 | 0x0FCE      |        4046 |
 
 ## String References
 
-- **7369**: Your $3 disappears in a flash of light!
+- **7370**: Your $3 disappears in a flash of light!
 
 ## Events
 
@@ -134,7 +134,7 @@
 ```
   0: 0x0001 [0x46] CAMERA_CONTROL: Disable user control
   1: 0x0003 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0004 [0x48] [System] [7369*]:
+  2: 0x0004 [0x48] [System] [7370*]:
     → "Your $3 disappears in a flash of light!"
   3: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0008 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
@@ -208,7 +208,7 @@
  72: 0x0222 [0x4A] LocalPlayer looks at Koru-Moru (ID: 17563916/0x010C010C)
  73: 0x022B [0x4A] Yoran-Oran (ID: 17563918/0x010C010E) looks at Koru-Moru (ID: 17563916/0x010C010C)
  74: 0x0234 [0x27] REQ_SET(priority=0x0B, entity_id=Koru-Moru (ID: 17563916/0x010C010C), tag_num=0x21)
- 75: 0x023B [0x2B] Koru-Moru (ID: 17563916/0x010C010C) [7377*]:
+ 75: 0x023B [0x2B] Koru-Moru (ID: 17563916/0x010C010C) [7378*]:
     → "I followed-a-roo, thinking that my sweetie-pie Mojiji was all trap-dappily trapped up in here. What a waste of timely-time."
  76: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0243 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Koru-Moru (ID: 17563916/0x010C010C))
@@ -217,13 +217,13 @@
  80: 0x0251 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Shantotto (ID: 17563917/0x010C010D) Render.Flags0 and Render.Flags3 conditions are met
  81: 0x0256 [0x7B] Shantotto (ID: 17563917/0x010C010D) stops talking
  82: 0x025B [0x27] REQ_SET(priority=0x0B, entity_id=Shantotto (ID: 17563917/0x010C010D), tag_num=0x1B)
- 83: 0x0262 [0x2B] Shantotto (ID: 17563917/0x010C010D) [7378*]:
+ 83: 0x0262 [0x2B] Shantotto (ID: 17563917/0x010C010D) [7379*]:
     → "Well, I'm just about as disappointed as one could be. I thought we would be finding something goody."
  84: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x026A [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=92*
  86: 0x0279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[92*, 0*]
  87: 0x028A [0x4A] LocalPlayer looks at Yoran-Oran (ID: 17563918/0x010C010E)
- 88: 0x0293 [0x2B] Yoran-Oran (ID: 17563918/0x010C010E) [7379*]:
+ 88: 0x0293 [0x2B] Yoran-Oran (ID: 17563918/0x010C010E) [7380*]:
     → "Those two... When will they ever change-ethy..."
  89: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x029B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero

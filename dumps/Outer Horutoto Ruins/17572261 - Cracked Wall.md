@@ -33,12 +33,12 @@
 |      10 | 0x0050      |          80 |
 |      11 | 0x0032      |          50 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x1C9B      |        7323 |
+|      13 | 0x1C9C      |        7324 |
 |      14 | 0x002D      |          45 |
 |      15 | 0x0014      |          20 |
 |      16 | 0x0AE4      |        2788 |
 |      17 | 0x000A      |          10 |
-|      18 | 0x1C9F      |        7327 |
+|      18 | 0x1CA0      |        7328 |
 |      19 | 0x005A      |          90 |
 |      20 | 0x007F      |         127 |
 |      21 | 0x0001      |           1 |
@@ -345,7 +345,7 @@
  89: 0x032A [0x1C] WAIT(30* ticks)
  90: 0x032D [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=214*
  91: 0x033C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [LocalPlayer, LocalPlayer], work=[214*, 0*]
- 92: 0x034D [0x2B] Ace of Wands (ID: 17572295/0x010C21C7) [7323*]:
+ 92: 0x034D [0x2B] Ace of Wands (ID: 17572295/0x010C21C7) [7324*]:
     → "...Who goes there!? Seize [him/her]!"
  93: 0x0354 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0355 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Ace of Wands (ID: 17572295/0x010C21C7), tag_num=0x11)
@@ -411,7 +411,7 @@
 154: 0x0573 [0x4A] Ace of Swords (ID: 17572296/0x010C21C8) looks at Joker (ID: 17572297/0x010C21C9)
 155: 0x057C [0x4A] Ace of Wands (ID: 17572295/0x010C21C7) looks at Joker (ID: 17572297/0x010C21C9)
 156: 0x0585 [0x79] LocalPlayer looks at Joker (ID: 17572297/0x010C21C9) (Basic look)
-157: 0x058F [0x2B] Joker (ID: 17572297/0x010C21C9) [7327*]:
+157: 0x058F [0x2B] Joker (ID: 17572297/0x010C21C9) [7328*]:
     → "...Hold."
 158: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0597 [0x1C] WAIT(90* ticks)

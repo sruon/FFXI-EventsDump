@@ -44,21 +44,21 @@
 |      17 | 0xFFFEEB66  |  4294896486 |
 |      18 | 0xA1AD0     |      662224 |
 |      19 | 0x0014      |          20 |
-|      20 | 0x1D00      |        7424 |
-|      21 | 0x1D01      |        7425 |
+|      20 | 0x1D01      |        7425 |
+|      21 | 0x1D02      |        7426 |
 |      22 | 0x001E      |          30 |
-|      23 | 0x1D02      |        7426 |
-|      24 | 0x1D03      |        7427 |
+|      23 | 0x1D03      |        7427 |
+|      24 | 0x1D04      |        7428 |
 |      25 | 0x0178      |         376 |
-|      26 | 0x1D04      |        7428 |
-|      27 | 0x1D05      |        7429 |
-|      28 | 0x1D06      |        7430 |
-|      29 | 0x1D07      |        7431 |
-|      30 | 0x1D08      |        7432 |
-|      31 | 0x1D09      |        7433 |
-|      32 | 0x1D0A      |        7434 |
+|      26 | 0x1D05      |        7429 |
+|      27 | 0x1D06      |        7430 |
+|      28 | 0x1D07      |        7431 |
+|      29 | 0x1D08      |        7432 |
+|      30 | 0x1D09      |        7433 |
+|      31 | 0x1D0A      |        7434 |
+|      32 | 0x1D0B      |        7435 |
 |      33 | 0x0D21      |        3361 |
-|      34 | 0x1D0B      |        7435 |
+|      34 | 0x1D0C      |        7436 |
 |      35 | 0xFFFEA89D  |  4294879389 |
 |      36 | 0x2FF5A     |      196442 |
 |      37 | 0x7D5F      |       32095 |
@@ -278,32 +278,32 @@ SUBROUTINE_0066:
  10: 0x0122 [0x1C] WAIT(20* ticks)
  11: 0x0125 [0x79] Zeid (ID: 17568180/0x010C11B4) looks at LocalPlayer (Basic look)
  12: 0x012F [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17568180/0x010C11B4), tag_num=0x02)
- 13: 0x0136 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7424*]:
+ 13: 0x0136 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7425*]:
     → "Evil weapons...this is what we call weapons that have gained a will of their own after being exposed to some kind of powerful energy."
  14: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x013E [0x2B] Zeid (ID: 17568180/0x010C11B4) [7425*]:
+ 15: 0x013E [0x2B] Zeid (ID: 17568180/0x010C11B4) [7426*]:
     → "Ever do they seek to taste new blood. They enslave kobolds--earth spirits with telekinetic powers--and force them to do their bidding."
  16: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0146 [0x1E] EventEntity looks at Zeid (ID: 17568180/0x010C11B4) and starts talking
  18: 0x014B [0x1C] WAIT(30* ticks)
  19: 0x014E [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [EventEntity, EventEntity], work=204*
  20: 0x015D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [EventEntity, EventEntity], work=[204*, 0*]
- 21: 0x016E [0x2B] Zeid (ID: 17568180/0x010C11B4) [7426*]:
+ 21: 0x016E [0x2B] Zeid (ID: 17568180/0x010C11B4) [7427*]:
     → "I had a feeling you would come, ever since I wrote that letter to Cid. Well? Does your blade shine with darkness?"
  22: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0176 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7427*]:
+ 23: 0x0176 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7428*]:
     → "At any rate, that is the theory of the evil weapons' origin. By "powerful energy," most scholars suspect the Crystal Lines."
  24: 0x017D [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x017E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Zeid (ID: 17568180/0x010C11B4))
  26: 0x0184 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Zeid (ID: 17568180/0x010C11B4), Zeid (ID: 17568180/0x010C11B4)], work=376*
- 27: 0x0193 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7428*]:
+ 27: 0x0193 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7429*]:
     → "Even though the Crag of Holla is close, Ordelle's Caves are not under the influence of the Crystal Line that emanates from that place. So strange that an evil weapon would appear here..."
  28: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x019B [0x2B] Zeid (ID: 17568180/0x010C11B4) [7429*]:
+ 29: 0x019B [0x2B] Zeid (ID: 17568180/0x010C11B4) [7430*]:
     → "The adventurer that happened upon the evil weapon said he was carrying $7 for crafting."
  30: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x01A3 [0x6B] STOP_AND_IDLE: Zeid (ID: 17568180/0x010C11B4) stops current action and resets to idle (animation="idl0")
- 32: 0x01AC [0x2B] Zeid (ID: 17568180/0x010C11B4) [7430*]:
+ 32: 0x01AC [0x2B] Zeid (ID: 17568180/0x010C11B4) [7431*]:
     → "The evil weapon appeared right when he accidentally dropped $7. Just like my armor, the weapon bore the signature of Gerwitz."
  33: 0x01B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x01B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -311,24 +311,24 @@ SUBROUTINE_0066:
  36: 0x01D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s013" with entities [EventEntity, EventEntity], work=204*
  37: 0x01E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [EventEntity, EventEntity], work=[204*, 0*]
  38: 0x01F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 39: 0x0205 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7431*]:
+ 39: 0x0205 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7432*]:
     → "Gerwitz is a Galkan blacksmith who had left for his journey of rebirth over thirty years ago. Normally, he would be spinning new memories someplace out there."
  40: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x020D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Zeid (ID: 17568180/0x010C11B4), Zeid (ID: 17568180/0x010C11B4)], work=376*
- 42: 0x021C [0x2B] Zeid (ID: 17568180/0x010C11B4) [7432*]:
+ 42: 0x021C [0x2B] Zeid (ID: 17568180/0x010C11B4) [7433*]:
     → "But he desired something. And now he seeks it in this place, ever refusing to be reborn."
  43: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x0224 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7433*]:
+ 44: 0x0224 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7434*]:
     → "I doubt what he seeks is me. I combed every corner of this land, yet no trace of him could I find."
  45: 0x022B [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x022C [0x6B] STOP_AND_IDLE: Zeid (ID: 17568180/0x010C11B4) stops current action and resets to idle (animation="idl0")
- 47: 0x0235 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7434*]:
+ 47: 0x0235 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7435*]:
     → "He wants something from a person with newfound strength. Perhaps he wants the blood of someone with power and a future. Or perhaps..."
  48: 0x023C [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x023D [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [EventEntity, EventEntity], work=204*
  50: 0x024C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [EventEntity, EventEntity], work=[204*, 0*]
  51: 0x025D [0x4B] UPDATE_ENTITY_YAW(entity=Zeid (ID: 17568180/0x010C11B4), yaw=18.5°*)
- 52: 0x0264 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7435*]:
+ 52: 0x0264 [0x2B] Zeid (ID: 17568180/0x010C11B4) [7436*]:
     → "I believe he must have called you here. Whether you will answer his call is up to you and your blade..."
  53: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x026C [0x27] REQ_SET(priority=0x0A, entity_id=Zeid (ID: 17568180/0x010C11B4), tag_num=0x03)

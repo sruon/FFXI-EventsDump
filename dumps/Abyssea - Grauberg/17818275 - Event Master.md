@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2902      |       10498 |
+|       0 | 0x2903      |       10499 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0032      |          50 |
@@ -29,7 +29,7 @@
 |       6 | 0x001F      |          31 |
 |       7 | 0x0012      |          18 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x2903      |       10499 |
+|       9 | 0x2904      |       10500 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
 |      12 | 0x0005      |           5 |
@@ -42,8 +42,8 @@
 
 ## String References
 
-- **10498**: Choose wisely! [Set fame./Quest 1./Quest 2./Quest 3./Quest 4./Quest 5./Quest 6./Quest 7./Quest 8./Quest 9./Quest 10./Cancel.]
-- **10499**: Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]
+- **10499**: Choose wisely! [Set fame./Quest 1./Quest 2./Quest 3./Quest 4./Quest 5./Quest 6./Quest 7./Quest 8./Quest 9./Quest 10./Cancel.]
+- **10500**: Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]
 
 ## Events
 
@@ -155,7 +155,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=10498*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Set fame./Quest 1./Quest 2./Quest 3./Quest 4./Quest 5./Quest 6./Quest 7./Quest 8./Quest 9./Quest 10./Cancel.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0051
@@ -229,7 +229,7 @@ SUBROUTINE_0061:
      0x01B6 [0x02] IF !(1* == 1*) GOTO 0x0202
      0x01BE [0x06] Work_Zone[1] = 0
      0x01C1 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
-     0x01CA [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x01CA [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x01D1 [0x25] WAIT_DIALOG_SELECT()
      0x01D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E6
@@ -250,7 +250,7 @@ SUBROUTINE_0061:
      0x0213 [0x02] IF !(1* == 1*) GOTO 0x025F
      0x021B [0x06] Work_Zone[1] = 0
      0x021E [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
-     0x0227 [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x0227 [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x022E [0x25] WAIT_DIALOG_SELECT()
      0x022F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0243
@@ -271,7 +271,7 @@ SUBROUTINE_0061:
      0x0270 [0x02] IF !(1* == 1*) GOTO 0x02BC
      0x0278 [0x06] Work_Zone[1] = 0
      0x027B [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
-     0x0284 [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x0284 [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x028B [0x25] WAIT_DIALOG_SELECT()
      0x028C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A0
@@ -292,7 +292,7 @@ SUBROUTINE_0061:
      0x02CD [0x02] IF !(1* == 1*) GOTO 0x0319
      0x02D5 [0x06] Work_Zone[1] = 0
      0x02D8 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
-     0x02E1 [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x02E1 [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x02E8 [0x25] WAIT_DIALOG_SELECT()
      0x02E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02FD
@@ -313,7 +313,7 @@ SUBROUTINE_0061:
      0x032A [0x02] IF !(1* == 1*) GOTO 0x0376
      0x0332 [0x06] Work_Zone[1] = 0
      0x0335 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
-     0x033E [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x033E [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x0345 [0x25] WAIT_DIALOG_SELECT()
      0x0346 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x035A
@@ -334,7 +334,7 @@ SUBROUTINE_0061:
      0x0387 [0x02] IF !(1* == 1*) GOTO 0x03D3
      0x038F [0x06] Work_Zone[1] = 0
      0x0392 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=10*)
-     0x039B [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x039B [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x03A2 [0x25] WAIT_DIALOG_SELECT()
      0x03A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B7
@@ -355,7 +355,7 @@ SUBROUTINE_0061:
      0x03E4 [0x02] IF !(1* == 1*) GOTO 0x0430
      0x03EC [0x06] Work_Zone[1] = 0
      0x03EF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=11*)
-     0x03F8 [0x24] CREATE_DIALOG(message_id=10499*, default_option=0*, option_flags=0*)
+     0x03F8 [0x24] CREATE_DIALOG(message_id=10500*, default_option=0*, option_flags=0*)
     → "Choose quest settings. [Start: [off/on]./End: [off/on]./Cancel.]"
      0x03FF [0x25] WAIT_DIALOG_SELECT()
      0x0400 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0414

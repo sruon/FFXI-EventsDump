@@ -26,9 +26,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E14      |        7700 |
+|       0 | 0x1E15      |        7701 |
 |       1 | 0x000A      |          10 |
-|       2 | 0x1E16      |        7702 |
+|       2 | 0x1E17      |        7703 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
@@ -40,8 +40,8 @@
 
 ## String References
 
-- **7700**: An unseen force is drawing you towards the maw.
-- **7702**: Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? [Proceed./Not yet.]
+- **7701**: An unseen force is drawing you towards the maw.
+- **7703**: Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? [Proceed./Not yet.]
 
 ## Events
 
@@ -100,11 +100,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7700*]:
+  1: 0x0003 [0x48] [System] [7701*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 10*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7702*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7703*, default_option=1*, option_flags=0*)
     → "Warp to [Dummy/the La Theine Plateau/the Konschtat Highlands/the Tahrongi Canyon/the Buburimu Peninsula/the Valkurm Dunes/the Jugner Forest/South Gustaberg/North Gustaberg/Xarcabard/Qufim Island]? [Proceed./Not yet.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CC

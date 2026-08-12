@@ -53,70 +53,70 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x0159      |         345 |
 |       3 | 0x03AC      |         940 |
-|       4 | 0x215B      |        8539 |
-|       5 | 0x215C      |        8540 |
-|       6 | 0x2166      |        8550 |
+|       4 | 0x215C      |        8540 |
+|       5 | 0x215D      |        8541 |
+|       6 | 0x2167      |        8551 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x2160      |        8544 |
-|      11 | 0x2161      |        8545 |
-|      12 | 0x2162      |        8546 |
-|      13 | 0x2163      |        8547 |
-|      14 | 0x2164      |        8548 |
-|      15 | 0x2165      |        8549 |
-|      16 | 0x2167      |        8551 |
-|      17 | 0x2168      |        8552 |
-|      18 | 0x216A      |        8554 |
-|      19 | 0x216B      |        8555 |
+|      10 | 0x2161      |        8545 |
+|      11 | 0x2162      |        8546 |
+|      12 | 0x2163      |        8547 |
+|      13 | 0x2164      |        8548 |
+|      14 | 0x2165      |        8549 |
+|      15 | 0x2166      |        8550 |
+|      16 | 0x2168      |        8552 |
+|      17 | 0x2169      |        8553 |
+|      18 | 0x216B      |        8555 |
+|      19 | 0x216C      |        8556 |
 |      20 | 0x00C9      |         201 |
-|      21 | 0x199B      |        6555 |
-|      22 | 0x2184      |        8580 |
-|      23 | 0x2185      |        8581 |
-|      24 | 0x2186      |        8582 |
-|      25 | 0x2187      |        8583 |
+|      21 | 0x199C      |        6556 |
+|      22 | 0x2185      |        8581 |
+|      23 | 0x2186      |        8582 |
+|      24 | 0x2187      |        8583 |
+|      25 | 0x2188      |        8584 |
 |      26 | 0x0003      |           3 |
-|      27 | 0x2188      |        8584 |
-|      28 | 0x2189      |        8585 |
-|      29 | 0x218A      |        8586 |
-|      30 | 0x218B      |        8587 |
-|      31 | 0x218C      |        8588 |
-|      32 | 0x218E      |        8590 |
-|      33 | 0x218F      |        8591 |
-|      34 | 0x2190      |        8592 |
-|      35 | 0x23BB      |        9147 |
-|      36 | 0x23BC      |        9148 |
+|      27 | 0x2189      |        8585 |
+|      28 | 0x218A      |        8586 |
+|      29 | 0x218B      |        8587 |
+|      30 | 0x218C      |        8588 |
+|      31 | 0x218D      |        8589 |
+|      32 | 0x218F      |        8591 |
+|      33 | 0x2190      |        8592 |
+|      34 | 0x2191      |        8593 |
+|      35 | 0x23BC      |        9148 |
+|      36 | 0x23BD      |        9149 |
 
 ## String References
 
-- **6555**: Obtained $0 gil.
-- **8539**: ...<sniff>. Leave me alone...
-- **8540**: I, I, I... can't take it... ANYMOO\`ORE!!!
-- **8544**: Ahhh... What should I do? Oh, woe, woe, woe is me!
-- **8545**: <Sigh>...
-- **8546**: Oh, the sunshine, how it sparkle-warkles... Oh, the unfulfilled desires that spill out of my hearty...
-- **8547**: Oh, how much nicer it would be if I could become a flower swaying in the breeze...
-- **8548**: Ah, a flower? That's it!!!
-- **8549**: Hey, you, you, you...! Could you please go to the Rhinostery and get me a flower?
-- **8550**: Say it with flowers? [Yeah, flower-power!/No. Nip it in the bud!]
-- **8551**: The rarest, mysticalest, elegantest flower there is!
-- **8552**: Oohh... How could you... Just when I had a bloomin' good idea...
-- **8554**: The rarest, mysticalest, elegantest flower there is!
-- **8555**: What a blooming good idea! Now that it's arranged, I've got to do all the preparations that stem from it!
-- **8580**: Oh, what a wonderful flower!
-- **8581**: Oh, I'm so glad I asked you! Thanks, bud! Here, as a token of my appreciation.
-- **8582**: Ah...... Now all I need to do is write a letter to express my heartfelt feelings...
+- **6556**: Obtained $0 gil.
+- **8540**: ...<sniff>. Leave me alone...
+- **8541**: I, I, I... can't take it... ANYMOO\`ORE!!!
+- **8545**: Ahhh... What should I do? Oh, woe, woe, woe is me!
+- **8546**: <Sigh>...
+- **8547**: Oh, the sunshine, how it sparkle-warkles... Oh, the unfulfilled desires that spill out of my hearty...
+- **8548**: Oh, how much nicer it would be if I could become a flower swaying in the breeze...
+- **8549**: Ah, a flower? That's it!!!
+- **8550**: Hey, you, you, you...! Could you please go to the Rhinostery and get me a flower?
+- **8551**: Say it with flowers? [Yeah, flower-power!/No. Nip it in the bud!]
+- **8552**: The rarest, mysticalest, elegantest flower there is!
+- **8553**: Oohh... How could you... Just when I had a bloomin' good idea...
+- **8555**: The rarest, mysticalest, elegantest flower there is!
+- **8556**: What a blooming good idea! Now that it's arranged, I've got to do all the preparations that stem from it!
+- **8581**: Oh, what a wonderful flower!
+- **8582**: Oh, I'm so glad I asked you! Thanks, bud! Here, as a token of my appreciation.
 - **8583**: Ah...... Now all I need to do is write a letter to express my heartfelt feelings...
-- **8584**: Is this flower really...
-- **8585**: ...the rarest, mysticalest, elegantest flower there is!?
-- **8586**: ...Well, I guess it set you back about this much, right...?
-- **8587**: Oh, excuse me, but... I don't think that flower you brought me will work...<sigh>...
-- **8588**: Sorry to put you out again, but could you go to the Rhinostery and get me another?
-- **8590**: ...The rarest, mysticalest, elegantest flower there is!!! That's what I want!
-- **8591**: Yes, this is it...
-- **8592**: ...The rarest, mysticalest, elegantest flower there is!!! That's what I want!
-- **9147**: Oh, excuse me, but...the $1 you got me dried up and died while I was contemplating how I should hand it to her...
-- **9148**: Sorry to put you out again, but could you go to the Rhinostery and get me another?
+- **8584**: Ah...... Now all I need to do is write a letter to express my heartfelt feelings...
+- **8585**: Is this flower really...
+- **8586**: ...the rarest, mysticalest, elegantest flower there is!?
+- **8587**: ...Well, I guess it set you back about this much, right...?
+- **8588**: Oh, excuse me, but... I don't think that flower you brought me will work...<sigh>...
+- **8589**: Sorry to put you out again, but could you go to the Rhinostery and get me another?
+- **8591**: ...The rarest, mysticalest, elegantest flower there is!!! That's what I want!
+- **8592**: Yes, this is it...
+- **8593**: ...The rarest, mysticalest, elegantest flower there is!!! That's what I want!
+- **9148**: Oh, excuse me, but...the $1 you got me dried up and died while I was contemplating how I should hand it to her...
+- **9149**: Sorry to put you out again, but could you go to the Rhinostery and get me another?
 
 ## Events
 
@@ -293,10 +293,10 @@
 #### Opcodes
 
 ```
-  0: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8539*)
+  0: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=8540*)
     → "...<sniff>. Leave me alone..."
   1: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8540*)
+  2: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=8541*)
     → "I, I, I... can't take it... ANYMOO`ORE!!!"
   3: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0085 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -342,7 +342,7 @@
   8: 0x00C2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x00C3 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
  10: 0x00C8 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x0D)
- 11: 0x00CF [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+ 11: 0x00CF [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Say it with flowers? [Yeah, flower-power!/No. Nip it in the bud!]"
  12: 0x00D6 [0x25] WAIT_DIALOG_SELECT()
  13: 0x00D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EE
@@ -380,7 +380,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=8544*)
+  0: 0x0110 [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
     → "Ahhh... What should I do? Oh, woe, woe, woe is me!"
   1: 0x0113 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0114 [0x00] END_REQSTACK()
@@ -405,7 +405,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8545*)
+  0: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
     → "<Sigh>..."
   1: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0119 [0x00] END_REQSTACK()
@@ -430,7 +430,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8546*)
+  0: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=8547*)
     → "Oh, the sunshine, how it sparkle-warkles... Oh, the unfulfilled desires that spill out of my hearty..."
   1: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011E [0x00] END_REQSTACK()
@@ -456,7 +456,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=8547*)
+  0: 0x011F [0x1D] PRINT_EVENT_MESSAGE(message_id=8548*)
     → "Oh, how much nicer it would be if I could become a flower swaying in the breeze..."
   1: 0x0122 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0123 [0x00] END_REQSTACK()
@@ -481,7 +481,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=8548*)
+  0: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=8549*)
     → "Ah, a flower? That's it!!!"
   1: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0128 [0x00] END_REQSTACK()
@@ -508,7 +508,7 @@ SUBROUTINE_0105:
 
 ```
   0: 0x0129 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=8549*)
+  1: 0x0130 [0x1D] PRINT_EVENT_MESSAGE(message_id=8550*)
     → "Hey, you, you, you...! Could you please go to the Rhinostery and get me a flower?"
   2: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0134 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -536,7 +536,7 @@ SUBROUTINE_0105:
 
 ```
   0: 0x013C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8551*)
+  1: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8552*)
     → "The rarest, mysticalest, elegantest flower there is!"
   2: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -565,7 +565,7 @@ SUBROUTINE_0105:
 
 ```
   0: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8552*)
+  1: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=8553*)
     → "Oohh... How could you... Just when I had a bloomin' good idea..."
   2: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x015A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -594,11 +594,11 @@ SUBROUTINE_0105:
 
 ```
   0: 0x0162 [0x27] REQ_SET(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x04)
-  1: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8554*)
+  1: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8555*)
     → "The rarest, mysticalest, elegantest flower there is!"
   2: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x016D [0x2A] GET_REQ_LEVEL(level=8, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062))
-  4: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8555*)
+  4: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8556*)
     → "What a blooming good idea! Now that it's arranged, I've got to do all the preparations that stem from it!"
   5: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0177 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x05)
@@ -677,7 +677,7 @@ SUBROUTINE_0105:
   7: 0x01D5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x14)
   8: 0x01DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x05)
   9: 0x01E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 10: 0x01F4 [0x48] [System] [6555*]:
+ 10: 0x01F4 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  11: 0x01F7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  12: 0x01F9 [0x21] END_EVENT
@@ -706,10 +706,10 @@ SUBROUTINE_0105:
 
 ```
   0: 0x01FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8580*)
+  1: 0x0202 [0x1D] PRINT_EVENT_MESSAGE(message_id=8581*)
     → "Oh, what a wonderful flower!"
   2: 0x0205 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=8581*)
+  3: 0x0206 [0x1D] PRINT_EVENT_MESSAGE(message_id=8582*)
     → "Oh, I'm so glad I asked you! Thanks, bud! Here, as a token of my appreciation."
   4: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x020A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -737,7 +737,7 @@ SUBROUTINE_0105:
 
 ```
   0: 0x0212 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8582*)
+  1: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8583*)
     → "Ah...... Now all I need to do is write a letter to express my heartfelt feelings..."
   2: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -763,7 +763,7 @@ SUBROUTINE_0105:
 #### Opcodes
 
 ```
-  0: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=8583*)
+  0: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=8584*)
     → "Ah...... Now all I need to do is write a letter to express my heartfelt feelings..."
   1: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0229 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -843,7 +843,7 @@ SUBROUTINE_025D:
 #### Opcodes
 
 ```
-  0: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8584*)
+  0: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=8585*)
     → "Is this flower really..."
   1: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02A0 [0x00] END_REQSTACK()
@@ -870,7 +870,7 @@ SUBROUTINE_025D:
 
 ```
   0: 0x02A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8585*)
+  1: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8586*)
     → "...the rarest, mysticalest, elegantest flower there is!?"
   2: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -898,7 +898,7 @@ SUBROUTINE_025D:
 
 ```
   0: 0x02B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8586*)
+  1: 0x02BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8587*)
     → "...Well, I guess it set you back about this much, right...?"
   2: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -958,10 +958,10 @@ SUBROUTINE_025D:
 #### Opcodes
 
 ```
-  0: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8587*)
+  0: 0x02EE [0x1D] PRINT_EVENT_MESSAGE(message_id=8588*)
     → "Oh, excuse me, but... I don't think that flower you brought me will work...<sigh>..."
   1: 0x02F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8588*)
+  2: 0x02F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8589*)
     → "Sorry to put you out again, but could you go to the Rhinostery and get me another?"
   3: 0x02F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02F6 [0x00] END_REQSTACK()
@@ -988,7 +988,7 @@ SUBROUTINE_025D:
 
 ```
   0: 0x02F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x01)
-  1: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8590*)
+  1: 0x02FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8591*)
     → "...The rarest, mysticalest, elegantest flower there is!!! That's what I want!"
   2: 0x0301 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0302 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x02)
@@ -1015,10 +1015,10 @@ SUBROUTINE_025D:
 #### Opcodes
 
 ```
-  0: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=8591*)
+  0: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=8592*)
     → "Yes, this is it..."
   1: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=8592*)
+  2: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=8593*)
     → "...The rarest, mysticalest, elegantest flower there is!!! That's what I want!"
   3: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0312 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1051,10 +1051,10 @@ SUBROUTINE_025D:
   1: 0x031D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0322 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0323 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=9147*)
+  4: 0x0324 [0x1D] PRINT_EVENT_MESSAGE(message_id=9148*)
     → "Oh, excuse me, but...the $1 you got me dried up and died while I was contemplating how I should hand it to her..."
   5: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=9148*)
+  6: 0x0328 [0x1D] PRINT_EVENT_MESSAGE(message_id=9149*)
     → "Sorry to put you out again, but could you go to the Rhinostery and get me another?"
   7: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x032C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Moari-Kaaori (ID: 17752162/0x010EE062), tag_num=0x1C)

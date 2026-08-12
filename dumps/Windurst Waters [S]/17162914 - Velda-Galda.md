@@ -52,12 +52,12 @@
 |       8 | 0xFFFFF803  |  4294965251 |
 |       9 | 0x0FFD      |        4093 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x34AE      |       13486 |
-|      12 | 0x34AF      |       13487 |
-|      13 | 0x34B0      |       13488 |
-|      14 | 0x34B1      |       13489 |
-|      15 | 0x343A      |       13370 |
-|      16 | 0x35B2      |       13746 |
+|      11 | 0x34AF      |       13487 |
+|      12 | 0x34B0      |       13488 |
+|      13 | 0x34B1      |       13489 |
+|      14 | 0x34B2      |       13490 |
+|      15 | 0x343B      |       13371 |
+|      16 | 0x35B3      |       13747 |
 
 ## Events
 
@@ -370,7 +370,7 @@
 ```
   0: 0x006E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0073 [0x1C] WAIT(30* ticks)
-  2: 0x0076 [0x2B] EventEntity [13486*]:
+  2: 0x0076 [0x2B] EventEntity [13487*]:
     → "What do you want? Sorry, but now isn't a good timey-wime. There are numerous affairs of state that require my undivided expertaru attention."
   3: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x007E [0x21] END_EVENT
@@ -399,7 +399,7 @@
 ```
   0: 0x0080 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0085 [0x1C] WAIT(30* ticks)
-  2: 0x0088 [0x2B] EventEntity [13487*]:
+  2: 0x0088 [0x2B] EventEntity [13488*]:
     → "You must be tired aftaru your long journey. Was Bastok's reply as favorable as the one you received from us? I do hope the reinforcements makey-wake it to Jeuno in time..."
   3: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0090 [0x21] END_EVENT
@@ -428,10 +428,10 @@
 ```
   0: 0x0092 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0097 [0x1C] WAIT(30* ticks)
-  2: 0x009A [0x2B] EventEntity [13488*]:
+  2: 0x009A [0x2B] EventEntity [13489*]:
     → "I am one of the Patriarch Protectors, sworn defenders of the Federation's supreme governing body."
   3: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00A2 [0x2B] EventEntity [13489*]:
+  4: 0x00A2 [0x2B] EventEntity [13490*]:
     → "Be it from within the shadows or on the frontline of a raging battle, my order's duty is to ensure that no harmy-warm comes to the Patriarchs."
   5: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00AA [0x21] END_EVENT
@@ -548,7 +548,7 @@
 ```
   0: 0x00B0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B5 [0x1C] WAIT(30* ticks)
-  2: 0x00B8 [0x2B] EventEntity [13370*]:
+  2: 0x00B8 [0x2B] EventEntity [13371*]:
     → "Master Lehko is engagey-waged with other pressing matters at the momentaru. You'll have to come back later."
   3: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00C0 [0x21] END_EVENT
@@ -621,7 +621,7 @@
 ```
   0: 0x00C4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C9 [0x1C] WAIT(30* ticks)
-  2: 0x00CC [0x2B] EventEntity [13746*]:
+  2: 0x00CC [0x2B] EventEntity [13747*]:
     → "Hm? On another top-secretaru mission for the Warlock Warlord, are we? Something about a magic-wagic stone?"
   3: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D4 [0x21] END_EVENT

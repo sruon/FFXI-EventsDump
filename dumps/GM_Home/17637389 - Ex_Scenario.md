@@ -20,20 +20,20 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BE8      |        7144 |
+|       0 | 0x1BE9      |        7145 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x40000000  |  1073741824 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0002      |           2 |
 |       5 | 0x0003      |           3 |
-|       6 | 0x1BDE      |        7134 |
+|       6 | 0x1BDF      |        7135 |
 |       7 | 0x0004      |           4 |
 |       8 | 0x0005      |           5 |
 |       9 | 0x0006      |           6 |
 |      10 | 0x0007      |           7 |
 |      11 | 0x0008      |           8 |
 |      12 | 0x0009      |           9 |
-|      13 | 0x1BE9      |        7145 |
+|      13 | 0x1BEA      |        7146 |
 |      14 | 0x000A      |          10 |
 |      15 | 0x000B      |          11 |
 |      16 | 0x000C      |          12 |
@@ -44,8 +44,8 @@
 |      21 | 0x0011      |          17 |
 |      22 | 0x0012      |          18 |
 |      23 | 0x0013      |          19 |
-|      24 | 0x1BF9      |        7161 |
-|      25 | 0x1BFE      |        7166 |
+|      24 | 0x1BFA      |        7162 |
+|      25 | 0x1BFF      |        7167 |
 |      26 | 0x0020      |          32 |
 |      27 | 0x0021      |          33 |
 |      28 | 0x0022      |          34 |
@@ -55,11 +55,11 @@
 
 ## String References
 
-- **7134**: Zilarrrt! [Never mind.../Start up the airship to Kazham!/I've been t'Norg, mommy!/I've met Gilgamesh, daddy!/I got the key from that cat-woman!/I m'et Gravi'ton!/I've gathered all the fragments!/I beat that Altepa Boss, I did!/I met with those dawnmaidens!!/Tu'Lia is ready to go!]
-- **7144**: Zilarrrt! [So what.../\`the end of the Delkfutt battle./\`the Stellar Nexus battle!/\`LIMBO!]
-- **7145**: Zilarrrt! [Whatever.../Heard abot Ro'Maeve./Saw that door in the Hall of the Gods./Talked to that Mithra./Got the Hall Key./Spoke to the gatekeeper./Tu'Lia!/Crystal Warriors eliminated./To Ru'Avitau!/Celestial Nexus./Awakening.]
-- **7161**: How low can you go? [No limbo for me./Dynamis Event./DEBUG ON!/DEBUG OFF!]
-- **7166**: Dynamis Event Menu! [I'm not hungry./Start me from the top./4 nations conquered!/Beaucedine busted!/New Dynamis defeated!]
+- **7135**: Zilarrrt! [Never mind.../Start up the airship to Kazham!/I've been t'Norg, mommy!/I've met Gilgamesh, daddy!/I got the key from that cat-woman!/I m'et Gravi'ton!/I've gathered all the fragments!/I beat that Altepa Boss, I did!/I met with those dawnmaidens!!/Tu'Lia is ready to go!]
+- **7145**: Zilarrrt! [So what.../\`the end of the Delkfutt battle./\`the Stellar Nexus battle!/\`LIMBO!]
+- **7146**: Zilarrrt! [Whatever.../Heard abot Ro'Maeve./Saw that door in the Hall of the Gods./Talked to that Mithra./Got the Hall Key./Spoke to the gatekeeper./Tu'Lia!/Crystal Warriors eliminated./To Ru'Avitau!/Celestial Nexus./Awakening.]
+- **7162**: How low can you go? [No limbo for me./Dynamis Event./DEBUG ON!/DEBUG OFF!]
+- **7167**: Dynamis Event Menu! [I'm not hungry./Start me from the top./4 nations conquered!/Beaucedine busted!/New Dynamis defeated!]
 
 ## Events
 
@@ -140,7 +140,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7144*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7145*, default_option=0*, option_flags=0*)
     → "Zilarrrt! [So what.../`the end of the Delkfutt battle./`the Stellar Nexus battle!/`LIMBO!]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019
@@ -161,7 +161,7 @@ SUBROUTINE_0043:
  15: 0x0044 [0x00] END_REQSTACK()
 
 SUBROUTINE_0045:
- 16: 0x0045 [0x24] CREATE_DIALOG(message_id=7134*, default_option=0*, option_flags=0*)
+ 16: 0x0045 [0x24] CREATE_DIALOG(message_id=7135*, default_option=0*, option_flags=0*)
     → "Zilarrrt! [Never mind.../Start up the airship to Kazham!/I've been t'Norg, mommy!/I've met Gilgamesh, daddy!/I got the key from that cat-woman!/I m'et Gravi'ton!/I've gathered all the fragments!/I beat that Altepa Boss, I did!/I met with those dawnmaidens!!/Tu'Lia is ready to go!]"
  17: 0x004C [0x25] WAIT_DIALOG_SELECT()
  18: 0x004D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x005D
@@ -199,7 +199,7 @@ SUBROUTINE_00ED:
  48: 0x00ED [0x1B] RETURN
 
 SUBROUTINE_00EE:
- 49: 0x00EE [0x24] CREATE_DIALOG(message_id=7145*, default_option=0*, option_flags=0*)
+ 49: 0x00EE [0x24] CREATE_DIALOG(message_id=7146*, default_option=0*, option_flags=0*)
     → "Zilarrrt! [Whatever.../Heard abot Ro'Maeve./Saw that door in the Hall of the Gods./Talked to that Mithra./Got the Hall Key./Spoke to the gatekeeper./Tu'Lia!/Crystal Warriors eliminated./To Ru'Avitau!/Celestial Nexus./Awakening.]"
  50: 0x00F5 [0x25] WAIT_DIALOG_SELECT()
  51: 0x00F6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106
@@ -240,14 +240,14 @@ SUBROUTINE_01A6:
  84: 0x01A6 [0x1B] RETURN
 
 SUBROUTINE_01A7:
- 85: 0x01A7 [0x24] CREATE_DIALOG(message_id=7161*, default_option=0*, option_flags=0*)
+ 85: 0x01A7 [0x24] CREATE_DIALOG(message_id=7162*, default_option=0*, option_flags=0*)
     → "How low can you go? [No limbo for me./Dynamis Event./DEBUG ON!/DEBUG OFF!]"
  86: 0x01AE [0x25] WAIT_DIALOG_SELECT()
  87: 0x01AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01BF
  88: 0x01B7 [0x03] Work_Zone[1] = 1073741824*
  89: 0x01BC [0x01] GOTO 0x0242
  90: 0x01BF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0222
- 91: 0x01C7 [0x24] CREATE_DIALOG(message_id=7166*, default_option=0*, option_flags=0*)
+ 91: 0x01C7 [0x24] CREATE_DIALOG(message_id=7167*, default_option=0*, option_flags=0*)
     → "Dynamis Event Menu! [I'm not hungry./Start me from the top./4 nations conquered!/Beaucedine busted!/New Dynamis defeated!]"
  92: 0x01CE [0x25] WAIT_DIALOG_SELECT()
  93: 0x01CF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01DF

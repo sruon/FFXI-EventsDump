@@ -24,13 +24,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1F10      |        7952 |
-|       2 | 0x1F11      |        7953 |
+|       1 | 0x1F11      |        7953 |
+|       2 | 0x1F12      |        7954 |
 
 ## String References
 
-- **7952**: mOg$26hOUses aNd$26rEnT-A-roOmS haVe$26bEeN pRePaRed$26fOr aDvEnTuReR's$26uSe In$26WInDuRst's rEs-IdEnTiAl$26ArEa behind$26here!
-- **7953**: MaChItAtA iS$26In cHaRge$26Of eXpLaInIng$26tHeSe!
+- **7953**: mOg$26hOUses aNd$26rEnT-A-roOmS haVe$26bEeN pRePaRed$26fOr aDvEnTuReR's$26uSe In$26WInDuRst's rEs-IdEnTiAl$26ArEa behind$26here!
+- **7954**: MaChItAtA iS$26In cHaRge$26Of eXpLaInIng$26tHeSe!
 
 ## Events
 
@@ -150,10 +150,10 @@
   0: 0x001C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7952*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
     → "mOg$26hOUses aNd$26rEnT-A-roOmS haVe$26bEeN pRePaRed$26fOr aDvEnTuReR's$26uSe In$26WInDuRst's rEs-IdEnTiAl$26ArEa behind$26here!"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7953*)
+  5: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=7954*)
     → "MaChItAtA iS$26In cHaRge$26Of eXpLaInIng$26tHeSe!"
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

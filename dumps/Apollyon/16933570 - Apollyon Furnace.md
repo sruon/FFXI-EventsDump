@@ -26,24 +26,24 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C75      |        7285 |
+|       0 | 0x1C76      |        7286 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1C76      |        7286 |
+|       2 | 0x1C77      |        7287 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x003C      |          60 |
 |       5 | 0x2710      |       10000 |
-|       6 | 0x1C7A      |        7290 |
+|       6 | 0x1C7B      |        7291 |
 |       7 | 0x667A      |       26234 |
 |       8 | 0x66A4      |       26276 |
-|       9 | 0x1C7B      |        7291 |
+|       9 | 0x1C7C      |        7292 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x1C7C      |        7292 |
-|      12 | 0x1C88      |        7304 |
-|      13 | 0x1CA6      |        7334 |
-|      14 | 0x1C89      |        7305 |
-|      15 | 0x1C8A      |        7306 |
-|      16 | 0x1C8B      |        7307 |
-|      17 | 0x1C8C      |        7308 |
+|      11 | 0x1C7D      |        7293 |
+|      12 | 0x1C89      |        7305 |
+|      13 | 0x1CA7      |        7335 |
+|      14 | 0x1C8A      |        7306 |
+|      15 | 0x1C8B      |        7307 |
+|      16 | 0x1C8C      |        7308 |
+|      17 | 0x1C8D      |        7309 |
 |      18 | 0x2716      |       10006 |
 |      19 | 0x2717      |       10007 |
 |      20 | 0x2718      |       10008 |
@@ -51,31 +51,31 @@
 |      22 | 0x2719      |       10009 |
 |      23 | 0x0004      |           4 |
 |      24 | 0x271A      |       10010 |
-|      25 | 0x1C90      |        7312 |
+|      25 | 0x1C91      |        7313 |
 |      26 | 0x000F      |          15 |
 |      27 | 0x0005      |           5 |
 |      28 | 0x0063      |          99 |
-|      29 | 0x1C91      |        7313 |
-|      30 | 0x1C63      |        7267 |
-|      31 | 0x1C92      |        7314 |
+|      29 | 0x1C92      |        7314 |
+|      30 | 0x1C64      |        7268 |
+|      31 | 0x1C93      |        7315 |
 |      32 | 0x0010      |          16 |
 |      33 | 0x001F      |          31 |
 
 ## String References
 
-- **7267**: Enter 0 to cancel.
-- **7285**: Fusing your $0 with $1 Apollyon Units to create $2.
-- **7286**: Proceed? [Yes./No.]
-- **7290**: # detected. Several equipment items can now be created.
-- **7292**: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process.
-- **7304**: Confirming $0, $1, and $2. Able to create $3.
-- **7305**: What will you do? [Create./Do not create.]
-- **7306**: Confirming $0 and $1. Able to create $2.
-- **7307**: Carrying over attributes from the $0 to the $4.
-- **7308**: Your $0 will be consumed.
-- **7313**: Able to change up to $0.
-- **7314**: Changing $1 $0 into $3 $0 .
-- **7334**: #, $1, and all five types of shards confirmed. Able to create $3.
+- **7268**: Enter 0 to cancel.
+- **7286**: Fusing your $0 with $1 Apollyon Units to create $2.
+- **7287**: Proceed? [Yes./No.]
+- **7291**: # detected. Several equipment items can now be created.
+- **7293**: Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process.
+- **7305**: Confirming $0, $1, and $2. Able to create $3.
+- **7306**: What will you do? [Create./Do not create.]
+- **7307**: Confirming $0 and $1. Able to create $2.
+- **7308**: Carrying over attributes from the $0 to the $4.
+- **7309**: Your $0 will be consumed.
+- **7314**: Able to change up to $0.
+- **7315**: Changing $1 $0 into $3 $0 .
+- **7335**: #, $1, and all five types of shards confirmed. Able to create $3.
 
 ## Events
 
@@ -130,11 +130,11 @@
 
 ```
   0: 0x0001 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
+  1: 0x0004 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
     → "Fusing your $0 with $1 Apollyon Units to create $2."
   2: 0x0007 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0008 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  4: 0x000B [0x24] CREATE_DIALOG(message_id=7286*, default_option=1*, option_flags=0*)
+  4: 0x000B [0x24] CREATE_DIALOG(message_id=7287*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
   5: 0x0012 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0013 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0087
@@ -212,13 +212,13 @@ SUBROUTINE_0097:
 
 ```
   0: 0x009C [0x03] Work_Zone[2] = 10000*
-  1: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+  1: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "# detected. Several equipment items can now be created."
   2: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00A5 [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[01 80 07 80 D4 03 03 80...])
   4: 0x00C3 [0x25] WAIT_DIALOG_SELECT()
   5: 0x00C4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0160
-  6: 0x00CC [0x24] CREATE_DIALOG(message_id=7286*, default_option=1*, option_flags=0*)
+  6: 0x00CC [0x24] CREATE_DIALOG(message_id=7287*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
   7: 0x00D3 [0x25] WAIT_DIALOG_SELECT()
   8: 0x00D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014D
@@ -249,7 +249,7 @@ SUBROUTINE_014A:
 SUBROUTINE_015D:
  30: 0x015D [0x01] GOTO 0x020C
  31: 0x0160 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01FC
- 32: 0x0168 [0x24] CREATE_DIALOG(message_id=7286*, default_option=1*, option_flags=0*)
+ 32: 0x0168 [0x24] CREATE_DIALOG(message_id=7287*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
  33: 0x016F [0x25] WAIT_DIALOG_SELECT()
  34: 0x0170 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E9
@@ -320,11 +320,11 @@ SUBROUTINE_020C:
 
 ```
   0: 0x0211 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[2], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
-  1: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+  1: 0x021B [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "Commencing enhancement of $0. To proceed, $6 units of $5 are required. $4 Apollyon Units shall be expended in the process."
   2: 0x021E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x021F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  4: 0x0222 [0x24] CREATE_DIALOG(message_id=7286*, default_option=1*, option_flags=0*)
+  4: 0x0222 [0x24] CREATE_DIALOG(message_id=7287*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
   5: 0x0229 [0x25] WAIT_DIALOG_SELECT()
   6: 0x022A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029E
@@ -389,17 +389,17 @@ SUBROUTINE_02AE:
 ```
   0: 0x02B3 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[5])
   1: 0x02B6 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x02C5
-  2: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
+  2: 0x02BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
     → "Confirming $0, $1, and $2. Able to create $3."
   3: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02C2 [0x01] GOTO 0x02C9
-  5: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
+  5: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
     → "#, $1, and all five types of shards confirmed. Able to create $3."
   6: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02C9:
   7: 0x02C9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  8: 0x02CC [0x24] CREATE_DIALOG(message_id=7305*, default_option=1*, option_flags=0*)
+  8: 0x02CC [0x24] CREATE_DIALOG(message_id=7306*, default_option=1*, option_flags=0*)
     → "What will you do? [Create./Do not create.]"
   9: 0x02D3 [0x25] WAIT_DIALOG_SELECT()
  10: 0x02D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0348
@@ -463,11 +463,11 @@ SUBROUTINE_0358:
 
 ```
   0: 0x035D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-  1: 0x0360 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+  1: 0x0360 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "Confirming $0 and $1. Able to create $2."
   2: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0364 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  4: 0x0367 [0x24] CREATE_DIALOG(message_id=7305*, default_option=1*, option_flags=0*)
+  4: 0x0367 [0x24] CREATE_DIALOG(message_id=7306*, default_option=1*, option_flags=0*)
     → "What will you do? [Create./Do not create.]"
   5: 0x036E [0x25] WAIT_DIALOG_SELECT()
   6: 0x036F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03E3
@@ -531,13 +531,13 @@ SUBROUTINE_03F3:
 
 ```
   0: 0x03F8 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x03 - Open item info window (conditional chase), check_value=Work_Zone[6], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
-  1: 0x0402 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+  1: 0x0402 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "Carrying over attributes from the $0 to the $4."
   2: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0406 [0x48] [System] [7308*]:
+  3: 0x0406 [0x48] [System] [7309*]:
     → "Your $0 will be consumed."
   4: 0x0409 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-  5: 0x040C [0x24] CREATE_DIALOG(message_id=7286*, default_option=1*, option_flags=0*)
+  5: 0x040C [0x24] CREATE_DIALOG(message_id=7287*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes./No.]"
   6: 0x0413 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0414 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0488
@@ -670,10 +670,10 @@ SUBROUTINE_0592:
  42: 0x05A7 [0x02] IF !(ExtData[1]->WorkLocal[2] < 99*) GOTO 0x05B4
  43: 0x05AF [0x03] ExtData[1]->WorkLocal[2] = 99*
  44: 0x05B4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[2]
- 45: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+ 45: 0x05B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Able to change up to $0."
  46: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x05BD [0x48] [System] [7267*]:
+ 47: 0x05BD [0x48] [System] [7268*]:
     → "Enter 0 to cancel."
  48: 0x05C0 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  49: 0x05C6 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[2])
@@ -688,10 +688,10 @@ SUBROUTINE_0592:
  58: 0x05F6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
  59: 0x05FB [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[4]
  60: 0x0600 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[5]
- 61: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+ 61: 0x0605 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "Changing $1 $0 into $3 $0 ."
  62: 0x0608 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 63: 0x0609 [0x24] CREATE_DIALOG(message_id=7305*, default_option=1*, option_flags=0*)
+ 63: 0x0609 [0x24] CREATE_DIALOG(message_id=7306*, default_option=1*, option_flags=0*)
     → "What will you do? [Create./Do not create.]"
  64: 0x0610 [0x25] WAIT_DIALOG_SELECT()
  65: 0x0611 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0689

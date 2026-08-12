@@ -29,21 +29,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0050      |          80 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x27F1      |       10225 |
-|       3 | 0x27F2      |       10226 |
-|       4 | 0x288D      |       10381 |
-|       5 | 0x288E      |       10382 |
-|       6 | 0x280B      |       10251 |
-|       7 | 0x280C      |       10252 |
+|       2 | 0x27F2      |       10226 |
+|       3 | 0x27F3      |       10227 |
+|       4 | 0x288E      |       10382 |
+|       5 | 0x288F      |       10383 |
+|       6 | 0x280C      |       10252 |
+|       7 | 0x280D      |       10253 |
 
 ## String References
 
-- **10225**: That guy over therrre in the funny lookin' clothes says he's from some place called Sand-oreo.
-- **10226**: I wonder if everybody therrre dresses that funny.
-- **10251**: That guy over therrre's been smiling ever since you brought him that doll.
-- **10252**: It's pretty and all, but it's not as cute as my stuffed opo-opo.
-- **10381**: Hey [misterrr/lady]...
-- **10382**: Does everrrybody in the mainlands smell as bad as you?
+- **10226**: That guy over therrre in the funny lookin' clothes says he's from some place called Sand-oreo.
+- **10227**: I wonder if everybody therrre dresses that funny.
+- **10252**: That guy over therrre's been smiling ever since you brought him that doll.
+- **10253**: It's pretty and all, but it's not as cute as my stuffed opo-opo.
+- **10382**: Hey [misterrr/lady]...
+- **10383**: Does everrrybody in the mainlands smell as bad as you?
 
 ## Events
 
@@ -168,10 +168,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=10225*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
     → "That guy over therrre in the funny lookin' clothes says he's from some place called Sand-oreo."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10226*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=10227*)
     → "I wonder if everybody therrre dresses that funny."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x02)
@@ -206,10 +206,10 @@
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=LocalPlayer, tag_num=0x03)
   4: 0x005F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x01)
-  5: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
+  5: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=10382*)
     → "Hey [misterrr/lady]..."
   6: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=10382*)
+  7: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=10383*)
     → "Does everrrybody in the mainlands smell as bad as you?"
   8: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x006E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x02)
@@ -243,10 +243,10 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x01)
-  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
+  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
     → "That guy over therrre's been smiling ever since you brought him that doll."
   5: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
+  6: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
     → "It's pretty and all, but it's not as cute as my stuffed opo-opo."
   7: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x008F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Qhio Plittibhi (ID: 17801242/0x010FA01A), tag_num=0x02)

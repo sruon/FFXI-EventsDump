@@ -24,12 +24,12 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x03FD      |        1021 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1CA9      |        7337 |
-|       4 | 0x1CA7      |        7335 |
-|       5 | 0x1CA6      |        7334 |
-|       6 | 0x1CA8      |        7336 |
-|       7 | 0x1CAA      |        7338 |
-|       8 | 0x1F82      |        8066 |
+|       3 | 0x1CAA      |        7338 |
+|       4 | 0x1CA8      |        7336 |
+|       5 | 0x1CA7      |        7335 |
+|       6 | 0x1CA9      |        7337 |
+|       7 | 0x1CAB      |        7339 |
+|       8 | 0x1F83      |        8067 |
 |       9 | 0x00A8      |         168 |
 |      10 | 0x00A0      |         160 |
 |      11 | 0x00C8      |         200 |
@@ -37,12 +37,12 @@
 
 ## String References
 
-- **7334**: Your $3 breaks!
-- **7335**: You successfully procure $0!
-- **7336**: You procure $0, but your $3 breaks in the process.
-- **7337**: You are unable to procure anything.
-- **7338**: You cannot carry any more items. Your inventory is full.
-- **8066**: Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
+- **7335**: Your $3 breaks!
+- **7336**: You successfully procure $0!
+- **7337**: You procure $0, but your $3 breaks in the process.
+- **7338**: You are unable to procure anything.
+- **7339**: You cannot carry any more items. Your inventory is full.
+- **8067**: Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)].
 
 ## Events
 
@@ -100,24 +100,24 @@
   5: 0x0018 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0050
   6: 0x0020 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x003C
   7: 0x0028 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0036
-  8: 0x0030 [0x48] [System] [7337*]:
+  8: 0x0030 [0x48] [System] [7338*]:
     → "You are unable to procure anything."
   9: 0x0033 [0x01] GOTO 0x0039
- 10: 0x0036 [0x48] [System] [7335*]:
+ 10: 0x0036 [0x48] [System] [7336*]:
     → "You successfully procure $0!"
 
 SUBROUTINE_0039:
  11: 0x0039 [0x01] GOTO 0x004D
  12: 0x003C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x004A
- 13: 0x0044 [0x48] [System] [7334*]:
+ 13: 0x0044 [0x48] [System] [7335*]:
     → "Your $3 breaks!"
  14: 0x0047 [0x01] GOTO 0x004D
- 15: 0x004A [0x48] [System] [7336*]:
+ 15: 0x004A [0x48] [System] [7337*]:
     → "You procure $0, but your $3 breaks in the process."
 
 SUBROUTINE_004D:
  16: 0x004D [0x01] GOTO 0x0053
- 17: 0x0050 [0x48] [System] [7338*]:
+ 17: 0x0050 [0x48] [System] [7339*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0053:
@@ -148,7 +148,7 @@ SUBROUTINE_0053:
 
 ```
   0: 0x0055 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0056 [0x48] [System] [8066*]:
+  1: 0x0056 [0x48] [System] [8067*]:
     → "Entering [/Omen/Nii's Last Stand/Dance of the Tengu (Zhuu Buxu)/Dance of the Tengu (Reikuu)]."
   2: 0x0059 [0xD0] LOAD_SCHEDULED_TASK_ALT5: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[168*, 0*]
   3: 0x006A [0x1C] WAIT(160* ticks)

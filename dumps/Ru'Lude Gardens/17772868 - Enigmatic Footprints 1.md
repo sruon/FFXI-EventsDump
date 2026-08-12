@@ -34,37 +34,37 @@
 |       7 | 0x00F3      |         243 |
 |       8 | 0x0003      |           3 |
 |       9 | 0x0C54      |        3156 |
-|      10 | 0x3E53      |       15955 |
+|      10 | 0x3E54      |       15956 |
 |      11 | 0x000E      |          14 |
-|      12 | 0x3E80      |       16000 |
+|      12 | 0x3E81      |       16001 |
 |      13 | 0x0018      |          24 |
 |      14 | 0x001F      |          31 |
 |      15 | 0x0005      |           5 |
 |      16 | 0x40000000  |  1073741824 |
-|      17 | 0x3E65      |       15973 |
-|      18 | 0x3E64      |       15972 |
-|      19 | 0x3E6B      |       15979 |
-|      20 | 0x3E56      |       15958 |
+|      17 | 0x3E66      |       15974 |
+|      18 | 0x3E65      |       15973 |
+|      19 | 0x3E6C      |       15980 |
+|      20 | 0x3E57      |       15959 |
 |      21 | 0x000B      |          11 |
-|      22 | 0x3E58      |       15960 |
+|      22 | 0x3E59      |       15961 |
 |      23 | 0x003C      |          60 |
-|      24 | 0x3E85      |       16005 |
-|      25 | 0x3E86      |       16006 |
-|      26 | 0x3E87      |       16007 |
-|      27 | 0x3E88      |       16008 |
-|      28 | 0x3E89      |       16009 |
-|      29 | 0x3E6F      |       15983 |
-|      30 | 0x3E71      |       15985 |
-|      31 | 0x3E6E      |       15982 |
-|      32 | 0x3E70      |       15984 |
-|      33 | 0x3E72      |       15986 |
-|      34 | 0x3E55      |       15957 |
-|      35 | 0x3E57      |       15959 |
-|      36 | 0x3E7D      |       15997 |
-|      37 | 0x3E54      |       15956 |
-|      38 | 0x3E97      |       16023 |
+|      24 | 0x3E86      |       16006 |
+|      25 | 0x3E87      |       16007 |
+|      26 | 0x3E88      |       16008 |
+|      27 | 0x3E89      |       16009 |
+|      28 | 0x3E8A      |       16010 |
+|      29 | 0x3E70      |       15984 |
+|      30 | 0x3E72      |       15986 |
+|      31 | 0x3E6F      |       15983 |
+|      32 | 0x3E71      |       15985 |
+|      33 | 0x3E73      |       15987 |
+|      34 | 0x3E56      |       15958 |
+|      35 | 0x3E58      |       15960 |
+|      36 | 0x3E7E      |       15998 |
+|      37 | 0x3E55      |       15957 |
+|      38 | 0x3E98      |       16024 |
 |      39 | 0x0032      |          50 |
-|      40 | 0x3EA0      |       16032 |
+|      40 | 0x3EA1      |       16033 |
 |      41 | 0x0008      |           8 |
 |      42 | 0x000F      |          15 |
 |      43 | 0x0006      |           6 |
@@ -75,29 +75,29 @@
 
 ## String References
 
-- **15955**: Attempt which? (Auto-transport: [off/on]) [None./[D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (CL:$1)/$3 status./Switch $3 use state. ([off/on])/Occupying Dynamis./Toggle auto-transport.]
-- **15956**: Instance Setting (Auto-transport: ([off/on]) [Back./$3 status./Switch $3 use state. ([off/on])/Toggle auto-transport.]
-- **15957**: Only party members present with you in this area will be transported to [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **15958**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
-- **15959**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **15960**: You have chosen not to [apply to/enter] [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **15972**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
-- **15973**: Treasure chest bonuses are now active!
-- **15979**: Applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]. You will be unable to participate if you add any more party members. Are you sure?
-- **15982**: You are currently number $3 in line to be drawn into this nightmare.
-- **15983**: You are currently number $3 in line, with $2 in front of you.
-- **15984**: Prepare yourselves! The battlefield is almost ready!
-- **15985**: You are currently applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
-- **15986**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
-- **15997**: Your $3 fills with sand.
-- **16000**: Enter by :: on //.
-- **16005**: Between 3 and 18 people may enter. The party leader must apply to enter.
-- **16006**: At least 60 minutes must have passed since your previous entry for you to enter again. This applies to all Dynamis - Divergence areas.
-- **16007**: Your $3 stores time inside of it, enabling you to decrease the amount of time needed until you can enter once more.
-- **16008**: The time limit is $11 minutes, although this can be extended by completing certain objectives.
-- **16009**: You will be forceably removed once time expires.
-- **16023**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Testing./Jump./Close dialogue.]
-- **16032**: Designate a value between $0 and $1.
+- **15956**: Attempt which? (Auto-transport: [off/on]) [None./[D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (CL:$1)/$3 status./Switch $3 use state. ([off/on])/Occupying Dynamis./Toggle auto-transport.]
+- **15957**: Instance Setting (Auto-transport: ([off/on]) [Back./$3 status./Switch $3 use state. ([off/on])/Toggle auto-transport.]
+- **15958**: Only party members present with you in this area will be transported to [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **15959**: [Apply to proceed/Proceed]? [Definitely!/Not yet.]
+- **15960**: Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **15961**: You have chosen not to [apply to/enter] [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **15973**: You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party.
+- **15974**: Treasure chest bonuses are now active!
+- **15980**: Applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]. You will be unable to participate if you add any more party members. Are you sure?
+- **15983**: You are currently number $3 in line to be drawn into this nightmare.
+- **15984**: You are currently number $3 in line, with $2 in front of you.
+- **15985**: Prepare yourselves! The battlefield is almost ready!
+- **15986**: You are currently applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno].
+- **15987**: Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]
+- **15998**: Your $3 fills with sand.
+- **16001**: Enter by :: on //.
+- **16006**: Between 3 and 18 people may enter. The party leader must apply to enter.
+- **16007**: At least 60 minutes must have passed since your previous entry for you to enter again. This applies to all Dynamis - Divergence areas.
+- **16008**: Your $3 stores time inside of it, enabling you to decrease the amount of time needed until you can enter once more.
+- **16009**: The time limit is $11 minutes, although this can be extended by completing certain objectives.
+- **16010**: You will be forceably removed once time expires.
+- **16024**: Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Testing./Jump./Close dialogue.]
+- **16033**: Designate a value between $0 and $1.
 
 ## Events
 
@@ -224,7 +224,7 @@ SUBROUTINE_00B1:
  39: 0x00C0 [0x03] Work_Zone[8] = 0*
 
 SUBROUTINE_00C5:
- 40: 0x00C5 [0x24] CREATE_DIALOG(message_id=15955*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 40: 0x00C5 [0x24] CREATE_DIALOG(message_id=15956*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Attempt which? (Auto-transport: [off/on]) [None./[D. San d'Oria/D. Bastok/D. Windurst/ D. Jeuno] (CL:$1)/$3 status./Switch $3 use state. ([off/on])/Occupying Dynamis./Toggle auto-transport.]"
  41: 0x00CC [0x25] WAIT_DIALOG_SELECT()
  42: 0x00CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0111
@@ -239,7 +239,7 @@ SUBROUTINE_00C5:
  51: 0x00FB [0x03] ExtData[1]->WorkLocal[2] = 1*
  52: 0x0100 [0x01] GOTO 0x010E
  53: 0x0103 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
- 54: 0x0108 [0x48] [System] [16000*]:
+ 54: 0x0108 [0x48] [System] [16001*]:
     → "Enter by :: on //."
  55: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x010C [0x21] END_EVENT
@@ -256,19 +256,19 @@ SUBROUTINE_010E:
 SUBROUTINE_0197:
  64: 0x0197 [0x03] ExtData[1]->WorkLocal[1] = ExtData[1]->WorkLocal[2]
  65: 0x019C [0x02] IF !(ExtData[1]->WorkLocal[18] == 0*) GOTO 0x01A7
- 66: 0x01A4 [0x48] [System] [15973*]:
+ 66: 0x01A4 [0x48] [System] [15974*]:
     → "Treasure chest bonuses are now active!"
 
 SUBROUTINE_01A7:
  67: 0x01A7 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[11]
- 68: 0x01AC [0x48] [System] [15972*]:
+ 68: 0x01AC [0x48] [System] [15973*]:
     → "You will be able to call forth up to $4 alter ego[/s] given the current number of players in your party."
  69: 0x01AF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
- 70: 0x01B4 [0x48] [System] [15979*]:
+ 70: 0x01B4 [0x48] [System] [15980*]:
     → "Applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]. You will be unable to participate if you add any more party members. Are you sure?"
  71: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x01B8 [0x03] Work_Zone[3] = 0*
- 73: 0x01BD [0x24] CREATE_DIALOG(message_id=15958*, default_option=0*, option_flags=0*)
+ 73: 0x01BD [0x24] CREATE_DIALOG(message_id=15959*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  74: 0x01C4 [0x25] WAIT_DIALOG_SELECT()
  75: 0x01C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01ED
@@ -281,7 +281,7 @@ SUBROUTINE_01A7:
  82: 0x01EA [0x01] GOTO 0x0201
  83: 0x01ED [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[15]
  84: 0x01F2 [0x03] Work_Zone[3] = 0*
- 85: 0x01F7 [0x48] [System] [15960*]:
+ 85: 0x01F7 [0x48] [System] [15961*]:
     → "You have chosen not to [apply to/enter] [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
  86: 0x01FA [0x03] Work_Zone[1] = 1073741824*
  87: 0x01FF [0x21] END_EVENT
@@ -294,19 +294,19 @@ SUBROUTINE_0201:
 SUBROUTINE_0203:
  91: 0x0203 [0x03] Work_Zone[4] = 3156*
  92: 0x0208 [0x03] Work_Zone_1700[3] = 60*
- 93: 0x020D [0x48] [System] [16005*]:
+ 93: 0x020D [0x48] [System] [16006*]:
     → "Between 3 and 18 people may enter. The party leader must apply to enter."
  94: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x0211 [0x48] [System] [16006*]:
+ 95: 0x0211 [0x48] [System] [16007*]:
     → "At least 60 minutes must have passed since your previous entry for you to enter again. This applies to all Dynamis - Divergence areas."
  96: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0215 [0x48] [System] [16007*]:
+ 97: 0x0215 [0x48] [System] [16008*]:
     → "Your $3 stores time inside of it, enabling you to decrease the amount of time needed until you can enter once more."
  98: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x0219 [0x48] [System] [16008*]:
+ 99: 0x0219 [0x48] [System] [16009*]:
     → "The time limit is $11 minutes, although this can be extended by completing certain objectives."
 100: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x021D [0x48] [System] [16009*]:
+101: 0x021D [0x48] [System] [16010*]:
     → "You will be forceably removed once time expires."
 102: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
 103: 0x0221 [0x1B] RETURN
@@ -368,25 +368,25 @@ SUBROUTINE_0203:
 
 SUBROUTINE_026C:
  14: 0x026C [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x027B
- 15: 0x0274 [0x48] [System] [15983*]:
+ 15: 0x0274 [0x48] [System] [15984*]:
     → "You are currently number $3 in line, with $2 in front of you."
  16: 0x0277 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0278 [0x01] GOTO 0x027F
- 18: 0x027B [0x48] [System] [15985*]:
+ 18: 0x027B [0x48] [System] [15986*]:
     → "You are currently applying to enter [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
  19: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_027F:
- 20: 0x027F [0x48] [System] [15982*]:
+ 20: 0x027F [0x48] [System] [15983*]:
     → "You are currently number $3 in line to be drawn into this nightmare."
  21: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0283 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0296
- 23: 0x028B [0x48] [System] [15984*]:
+ 23: 0x028B [0x48] [System] [15985*]:
     → "Prepare yourselves! The battlefield is almost ready!"
  24: 0x028E [0x03] Work_Zone[1] = 1073741824*
  25: 0x0293 [0x01] GOTO 0x02C8
  26: 0x0296 [0x03] Work_Zone[2] = 1*
- 27: 0x029B [0x24] CREATE_DIALOG(message_id=15986*, default_option=1*, option_flags=0*)
+ 27: 0x029B [0x24] CREATE_DIALOG(message_id=15987*, default_option=1*, option_flags=0*)
     → "Your number: $3. (Auto-transport: [off/on]) [Remove your name./Toggle auto-transport./Close dialogue.]"
  28: 0x02A2 [0x25] WAIT_DIALOG_SELECT()
  29: 0x02A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B3
@@ -453,11 +453,11 @@ SUBROUTINE_02C8:
 
 SUBROUTINE_0315:
  15: 0x0315 [0x03] ExtData[1]->WorkLocal[17] = Work_Zone[4]
- 16: 0x031A [0x48] [System] [15957*]:
+ 16: 0x031A [0x48] [System] [15958*]:
     → "Only party members present with you in this area will be transported to [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
  17: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x031E [0x03] Work_Zone[3] = 1*
- 19: 0x0323 [0x24] CREATE_DIALOG(message_id=15958*, default_option=0*, option_flags=0*)
+ 19: 0x0323 [0x24] CREATE_DIALOG(message_id=15959*, default_option=0*, option_flags=0*)
     → "[Apply to proceed/Proceed]? [Definitely!/Not yet.]"
  20: 0x032A [0x25] WAIT_DIALOG_SELECT()
  21: 0x032B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A9
@@ -480,11 +480,11 @@ SUBROUTINE_0315:
  38: 0x0384 [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_0389:
- 39: 0x0389 [0x48] [System] [15959*]:
+ 39: 0x0389 [0x48] [System] [15960*]:
     → "Entering [D. San d'Oria/D. Bastok/D. Windurst/D. Jeuno]."
  40: 0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x038D [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[17]
- 42: 0x0392 [0x48] [System] [15997*]:
+ 42: 0x0392 [0x48] [System] [15998*]:
     → "Your $3 fills with sand."
  43: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0396 [0x1A] CALL_SUBROUTINE(address=0x053F)
@@ -544,7 +544,7 @@ SUBROUTINE_03CE:
 
 SUBROUTINE_03E2:
  10: 0x03E2 [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 2*) GOTO 0x03E9
- 11: 0x03E9 [0x24] CREATE_DIALOG(message_id=15956*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
+ 11: 0x03E9 [0x24] CREATE_DIALOG(message_id=15957*, default_option=0*, option_flags=ExtData[1]->WorkLocal[7])
     → "Instance Setting (Auto-transport: ([off/on]) [Back./$3 status./Switch $3 use state. ([off/on])/Toggle auto-transport.]"
  12: 0x03F0 [0x25] WAIT_DIALOG_SELECT()
  13: 0x03F1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x040A
@@ -609,7 +609,7 @@ SUBROUTINE_0441:
 ```
   0: 0x0443 [0x05] ExtData[1]->WorkLocal[10] = 1
   1: 0x0446 [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x053D
-  2: 0x044E [0x24] CREATE_DIALOG(message_id=16023*, default_option=0*, option_flags=0*)
+  2: 0x044E [0x24] CREATE_DIALOG(message_id=16024*, default_option=0*, option_flags=0*)
     → "Debug menu. [Check information./View applicants./Applicant parameters./Change maximum limit./Clear applications./Testing./Jump./Close dialogue.]"
   3: 0x0455 [0x25] WAIT_DIALOG_SELECT()
   4: 0x0456 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x046A
@@ -625,7 +625,7 @@ SUBROUTINE_0441:
  14: 0x047E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x04B2
  15: 0x0486 [0x03] Work_Zone[2] = 1*
  16: 0x048B [0x03] Work_Zone[3] = 50*
- 17: 0x0490 [0x48] [System] [16032*]:
+ 17: 0x0490 [0x48] [System] [16033*]:
     → "Designate a value between $0 and $1."
  18: 0x0493 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  19: 0x0499 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -637,7 +637,7 @@ SUBROUTINE_0441:
  25: 0x04B2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x04E6
  26: 0x04BA [0x03] Work_Zone[2] = 1*
  27: 0x04BF [0x03] Work_Zone[3] = 50*
- 28: 0x04C4 [0x48] [System] [16032*]:
+ 28: 0x04C4 [0x48] [System] [16033*]:
     → "Designate a value between $0 and $1."
  29: 0x04C7 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  30: 0x04CD [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -652,7 +652,7 @@ SUBROUTINE_0441:
  39: 0x04F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  40: 0x04F7 [0x01] GOTO 0x053A
  41: 0x04FA [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0524
- 42: 0x0502 [0x48] [System] [16032*]:
+ 42: 0x0502 [0x48] [System] [16033*]:
     → "Designate a value between $0 and $1."
  43: 0x0505 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 2*])
  44: 0x050B [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])

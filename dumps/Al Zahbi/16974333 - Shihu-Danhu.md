@@ -23,38 +23,38 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x1F2D      |        7981 |
-|       2 | 0x1F2E      |        7982 |
-|       3 | 0x1F2F      |        7983 |
-|       4 | 0x1F30      |        7984 |
+|       1 | 0x1F2E      |        7982 |
+|       2 | 0x1F2F      |        7983 |
+|       3 | 0x1F30      |        7984 |
+|       4 | 0x1F31      |        7985 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x1F32      |        7986 |
-|       8 | 0x1F33      |        7987 |
+|       7 | 0x1F33      |        7987 |
+|       8 | 0x1F34      |        7988 |
 |       9 | 0x002B      |          43 |
 |      10 | 0x012C      |         300 |
 |      11 | 0x010A      |         266 |
 |      12 | 0x002A      |          42 |
-|      13 | 0x1F34      |        7988 |
+|      13 | 0x1F35      |        7989 |
 |      14 | 0x00C8      |         200 |
 |      15 | 0x003C      |          60 |
-|      16 | 0x1F31      |        7985 |
+|      16 | 0x1F32      |        7986 |
 |      17 | 0x0022      |          34 |
-|      18 | 0x1DF8      |        7672 |
-|      19 | 0x1F35      |        7989 |
+|      18 | 0x1DF9      |        7673 |
+|      19 | 0x1F36      |        7990 |
 
 ## String References
 
-- **7672**: You saved me earlier! Thank you very much! You can have this...for free!
-- **7981**: Hello... Y-you see, I... I'm t-training in the art of magic...
-- **7982**: I-I've been practicing a s-spell that will tele...trans...send people to the faraway land of Jeuno...
-- **7983**: W-would you like to be one of my t-test subjects?
-- **7984**: Be a test subject? [Sounds like fun./Are you crazy?]
-- **7985**: W-well, I don't b-blame you... I w-wish I was as s-skilled as my brother...
-- **7986**: R-really!? Y-you're very b-brave!
-- **7987**: P-probably best if you c-close your eyes...
-- **7988**: Oops...
-- **7989**: I-I'm terribly s-sorry... I s-seem to be out of m-magic. M-maybe you can h-help me out another t-time...?
+- **7673**: You saved me earlier! Thank you very much! You can have this...for free!
+- **7982**: Hello... Y-you see, I... I'm t-training in the art of magic...
+- **7983**: I-I've been practicing a s-spell that will tele...trans...send people to the faraway land of Jeuno...
+- **7984**: W-would you like to be one of my t-test subjects?
+- **7985**: Be a test subject? [Sounds like fun./Are you crazy?]
+- **7986**: W-well, I don't b-blame you... I w-wish I was as s-skilled as my brother...
+- **7987**: R-really!? Y-you're very b-brave!
+- **7988**: P-probably best if you c-close your eyes...
+- **7989**: Oops...
+- **7990**: I-I'm terribly s-sorry... I s-seem to be out of m-magic. M-maybe you can h-help me out another t-time...?
 
 ## Events
 
@@ -120,26 +120,26 @@
   1: 0x0002 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0004 [0x79] EventEntity looks at LocalPlayer (Basic look)
   3: 0x000E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "moj0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
+  4: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
     → "Hello... Y-you see, I... I'm t-training in the art of magic..."
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7982*)
+  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
     → "I-I've been practicing a s-spell that will tele...trans...send people to the faraway land of Jeuno..."
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7983*)
+  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=7984*)
     → "W-would you like to be one of my t-test subjects?"
   9: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0029 [0x24] CREATE_DIALOG(message_id=7984*, default_option=1*, option_flags=0*)
+ 10: 0x0029 [0x24] CREATE_DIALOG(message_id=7985*, default_option=1*, option_flags=0*)
     → "Be a test subject? [Sounds like fun./Are you crazy?]"
  11: 0x0030 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0031 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CB
  13: 0x0039 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  14: 0x003B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  15: 0x003D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 16: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
+ 16: 0x004C [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
     → "R-really!? Y-you're very b-brave!"
  17: 0x004F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "wai0" with entities [EventEntity, EventEntity]
- 18: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7987*)
+ 18: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
     → "P-probably best if you c-close your eyes..."
  19: 0x005F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "cabk" with entities [EventEntity, EventEntity], work=43*
  20: 0x006E [0x1C] WAIT(300* ticks)
@@ -148,7 +148,7 @@
  23: 0x0081 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "spef" with entities [EventEntity, EventEntity], work=43*
  24: 0x0090 [0x1C] WAIT(300* ticks)
  25: 0x0093 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik0" with entities [EventEntity, EventEntity], work=42*
- 26: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7988*)
+ 26: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
     → "Oops..."
  27: 0x00A5 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "bik0" with entities [EventEntity, EventEntity]
  28: 0x00B2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -158,7 +158,7 @@
  32: 0x00CB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0105
  33: 0x00D3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
  34: 0x00E2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [EventEntity, EventEntity]
- 35: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+ 35: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "W-well, I don't b-blame you... I w-wish I was as s-skilled as my brother..."
  36: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00F3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [EventEntity, EventEntity], work=40*
@@ -201,7 +201,7 @@ SUBROUTINE_0105:
   5: 0x0124 [0x1E] EventEntity looks at LocalPlayer and starts talking
   6: 0x0129 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x012A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7672*)
+  8: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
     → "You saved me earlier! Thank you very much! You can have this...for free!"
   9: 0x012E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
  10: 0x013D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -237,7 +237,7 @@ SUBROUTINE_0105:
   2: 0x014F [0x79] EventEntity looks at LocalPlayer (Basic look)
   3: 0x0159 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
   4: 0x0168 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "gkr0" with entities [EventEntity, EventEntity]
-  5: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  5: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "I-I'm terribly s-sorry... I s-seem to be out of m-magic. M-maybe you can h-help me out another t-time...?"
   6: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0179 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [EventEntity, EventEntity], work=40*

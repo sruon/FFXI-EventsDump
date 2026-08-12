@@ -21,37 +21,37 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x204E      |        8270 |
-|       2 | 0x204F      |        8271 |
+|       1 | 0x204F      |        8271 |
+|       2 | 0x2050      |        8272 |
 |       3 | 0x0028      |          40 |
-|       4 | 0x204C      |        8268 |
-|       5 | 0x204D      |        8269 |
+|       4 | 0x204D      |        8269 |
+|       5 | 0x204E      |        8270 |
 |       6 | 0x001E      |          30 |
-|       7 | 0x204A      |        8266 |
-|       8 | 0x204B      |        8267 |
+|       7 | 0x204B      |        8267 |
+|       8 | 0x204C      |        8268 |
 |       9 | 0x0014      |          20 |
-|      10 | 0x2048      |        8264 |
-|      11 | 0x2049      |        8265 |
+|      10 | 0x2049      |        8265 |
+|      11 | 0x204A      |        8266 |
 |      12 | 0x000A      |          10 |
-|      13 | 0x2046      |        8262 |
-|      14 | 0x2047      |        8263 |
-|      15 | 0x2044      |        8260 |
-|      16 | 0x2045      |        8261 |
+|      13 | 0x2047      |        8263 |
+|      14 | 0x2048      |        8264 |
+|      15 | 0x2045      |        8261 |
+|      16 | 0x2046      |        8262 |
 
 ## String References
 
-- **8260**: ...Oh, excuse me. I was just counting my cruor. <Player>? Never heard of you.
-- **8261**: If you want to make yourself useful, why don't you help that chef girl with her bean stew? I've worked up an awful-wawful appetite.
-- **8262**: <Player>...? I might have heard that name somewhere.
-- **8263**: [He/She] hasn't done anything for me, though, so I promptly-womptly forgotaru it!
-- **8264**: So you're <Player>. Yes, I've heard the occasional rumor aboutaru you.
-- **8265**: You'll have to keep working hard, though, if you want to become as wealthy--I mean, as famous--as me!
-- **8266**: Ah, <Player>. Your generous deeds have won you quite a few fans around camp these days.
-- **8267**: When this camp prosper-wospers, so too do my fortunes. For all of our sakes, keep up the good work!
-- **8268**: Well, if it isn't <Player>. You've made quite a name for yourself, haven't you?
-- **8269**: Don't you feel lucky that I picky-wicked you out of the scrap heap and set you on your way to stardom?
-- **8270**: Well, look who we have here! None other than the illustrious-wustrious <Player>, [hero/heroine] of the desert!
-- **8271**: Your mere presence does this humble merchantaru an honor. Why, I would trade away my entire fortune-wortune for you to always stay by our side! Er, make that half my fortune...
+- **8261**: ...Oh, excuse me. I was just counting my cruor. <Player>? Never heard of you.
+- **8262**: If you want to make yourself useful, why don't you help that chef girl with her bean stew? I've worked up an awful-wawful appetite.
+- **8263**: <Player>...? I might have heard that name somewhere.
+- **8264**: [He/She] hasn't done anything for me, though, so I promptly-womptly forgotaru it!
+- **8265**: So you're <Player>. Yes, I've heard the occasional rumor aboutaru you.
+- **8266**: You'll have to keep working hard, though, if you want to become as wealthy--I mean, as famous--as me!
+- **8267**: Ah, <Player>. Your generous deeds have won you quite a few fans around camp these days.
+- **8268**: When this camp prosper-wospers, so too do my fortunes. For all of our sakes, keep up the good work!
+- **8269**: Well, if it isn't <Player>. You've made quite a name for yourself, haven't you?
+- **8270**: Don't you feel lucky that I picky-wicked you out of the scrap heap and set you on your way to stardom?
+- **8271**: Well, look who we have here! None other than the illustrious-wustrious <Player>, [hero/heroine] of the desert!
+- **8272**: Your mere presence does this humble merchantaru an honor. Why, I would trade away my entire fortune-wortune for you to always stay by our side! Er, make that half my fortune...
 
 ## Events
 
@@ -108,50 +108,50 @@
   2: 0x000B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x000C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000D [0x02] IF !(ExtData[1]->WorkLocal[0] < 50*) GOTO 0x0020
-  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
+  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
     → "Well, look who we have here! None other than the illustrious-wustrious <Player>, [hero/heroine] of the desert!"
   6: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=8271*)
+  7: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=8272*)
     → "Your mere presence does this humble merchantaru an honor. Why, I would trade away my entire fortune-wortune for you to always stay by our side! Er, make that half my fortune..."
   8: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001D [0x01] GOTO 0x007B
  10: 0x0020 [0x02] IF !(ExtData[1]->WorkLocal[0] < 40*) GOTO 0x003A
  11: 0x0028 [0x27] REQ_SET(priority=0x10, entity_id=LocalPlayer, tag_num=0x06)
- 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
+ 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
     → "Well, if it isn't <Player>. You've made quite a name for yourself, haven't you?"
  13: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8269*)
+ 14: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=8270*)
     → "Don't you feel lucky that I picky-wicked you out of the scrap heap and set you on your way to stardom?"
  15: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0037 [0x01] GOTO 0x007B
  17: 0x003A [0x02] IF !(ExtData[1]->WorkLocal[0] < 30*) GOTO 0x004D
- 18: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
+ 18: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
     → "Ah, <Player>. Your generous deeds have won you quite a few fans around camp these days."
  19: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8267*)
+ 20: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=8268*)
     → "When this camp prosper-wospers, so too do my fortunes. For all of our sakes, keep up the good work!"
  21: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x004A [0x01] GOTO 0x007B
  23: 0x004D [0x02] IF !(ExtData[1]->WorkLocal[0] < 20*) GOTO 0x0060
- 24: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
+ 24: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
     → "So you're <Player>. Yes, I've heard the occasional rumor aboutaru you."
  25: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=8265*)
+ 26: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=8266*)
     → "You'll have to keep working hard, though, if you want to become as wealthy--I mean, as famous--as me!"
  27: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x005D [0x01] GOTO 0x007B
  29: 0x0060 [0x02] IF !(ExtData[1]->WorkLocal[0] < 10*) GOTO 0x0073
- 30: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
+ 30: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
     → "<Player>...? I might have heard that name somewhere."
  31: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8263*)
+ 32: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=8264*)
     → "[He/She] hasn't done anything for me, though, so I promptly-womptly forgotaru it!"
  33: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0070 [0x01] GOTO 0x007B
- 35: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=8260*)
+ 35: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
     → "...Oh, excuse me. I was just counting my cruor. <Player>? Never heard of you."
  36: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8261*)
+ 37: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8262*)
     → "If you want to make yourself useful, why don't you help that chef girl with her bean stew? I've worked up an awful-wawful appetite."
  38: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
 

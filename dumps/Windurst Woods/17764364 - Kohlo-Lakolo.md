@@ -46,17 +46,17 @@
 |       9 | 0x482A      |       18474 |
 |      10 | 0xFFFFA770  |  4294944624 |
 |      11 | 0x04AF      |        1199 |
-|      12 | 0x20A9      |        8361 |
-|      13 | 0x20AA      |        8362 |
-|      14 | 0x20AB      |        8363 |
-|      15 | 0x20AF      |        8367 |
+|      12 | 0x20AA      |        8362 |
+|      13 | 0x20AB      |        8363 |
+|      14 | 0x20AC      |        8364 |
+|      15 | 0x20B0      |        8368 |
 
 ## String References
 
-- **8361**: Hold it right there!
-- **8362**: Nanaa Mihgo!!! You're up to your old tricks of duping travelers out of their hard-earned gil, aren't you?
-- **8363**: We, the "Star Onion Brigade," won't let you get away with it!
-- **8367**: Hey, she's getting away! After her!
+- **8362**: Hold it right there!
+- **8363**: Nanaa Mihgo!!! You're up to your old tricks of duping travelers out of their hard-earned gil, aren't you?
+- **8364**: We, the "Star Onion Brigade," won't let you get away with it!
+- **8368**: Hey, she's getting away! After her!
 
 ## Events
 
@@ -395,7 +395,7 @@
 #### Opcodes
 
 ```
-  0: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8361*)
+  0: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
     → "Hold it right there!"
   1: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00AE [0x00] END_REQSTACK()
@@ -424,12 +424,12 @@
 
 ```
   0: 0x00AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x02)
-  1: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8362*)
+  1: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8363*)
     → "Nanaa Mihgo!!! You're up to your old tricks of duping travelers out of their hard-earned gil, aren't you?"
   2: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x03)
   4: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x04)
-  5: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8363*)
+  5: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8364*)
     → "We, the "Star Onion Brigade," won't let you get away with it!"
   6: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x05)
@@ -457,7 +457,7 @@
 
 ```
   0: 0x00D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x02)
-  1: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8367*)
+  1: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8368*)
     → "Hey, she's getting away! After her!"
   2: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kohlo-Lakolo (ID: 17764364/0x010F100C), tag_num=0x03)

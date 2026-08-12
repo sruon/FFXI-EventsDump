@@ -25,35 +25,35 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x1F35      |        7989 |
-|       2 | 0x1F36      |        7990 |
-|       3 | 0x1F37      |        7991 |
-|       4 | 0x1F38      |        7992 |
-|       5 | 0x1F39      |        7993 |
+|       1 | 0x1F36      |        7990 |
+|       2 | 0x1F37      |        7991 |
+|       3 | 0x1F38      |        7992 |
+|       4 | 0x1F39      |        7993 |
+|       5 | 0x1F3A      |        7994 |
 |       6 | 0x0B9F      |        2975 |
 |       7 | 0x0003      |           3 |
-|       8 | 0x1F3A      |        7994 |
-|       9 | 0x1F3D      |        7997 |
-|      10 | 0x1F3B      |        7995 |
-|      11 | 0x1F3C      |        7996 |
+|       8 | 0x1F3B      |        7995 |
+|       9 | 0x1F3E      |        7998 |
+|      10 | 0x1F3C      |        7996 |
+|      11 | 0x1F3D      |        7997 |
 |      12 | 0x00C9      |         201 |
 |      13 | 0x0000      |           0 |
-|      14 | 0x1F3E      |        7998 |
-|      15 | 0x1F3F      |        7999 |
+|      14 | 0x1F3F      |        7999 |
+|      15 | 0x1F40      |        8000 |
 
 ## String References
 
-- **7989**: Why, hello stranger. How would you like to assistaru me in a simple yet incalculably important task?
-- **7990**: Allow me to elucidate. I am a teacher-weacher by trade, you see, but one with a pressing problem: I lack the teaching materials needed to properly impartaru knowledge to my pupils!
-- **7991**: Our last experiment proved a bit too problematic for them. I must conduct it again, but cannot do so due to a paucity of pedagogical-wogical supplies.
-- **7992**: Hm? Aren't there more importantaru matters to worry about, you say?
-- **7993**: Preposterous! It is precisely-wisely because of our current predicament that education is as important as ever! How else will we raise a generation able to match wits with our foe and subsist in this severe environmentaru?
-- **7994**: <Ahem> Where was I? Ah, yes. If you could retrieve $1 $0 for me, it would go a long way in helping-welping me achieve educational excellence. Think of the children!
-- **7995**: Yes! This is just what I need to conductaru a review session for my students. However can I thank you?
-- **7996**: Why, I know! Here, you can have this. If you ever find any more $0, don't hesitataru to bring them here. Remember, it's for a wonderful cause!
-- **7997**: $1 $0 , I said. Didn't you learn how to take notes in school?
-- **7998**: You wouldn't happen to have come across any more $0, by any chance? With a healthy supply, my students would be able to dive into their work without fear of failure. It's a key tenetaru of education, you know.
-- **7999**: Wonderful! You've done a spectacular-wacular service for the young ones' future. Do stop by if you come across any more $0, will you?
+- **7990**: Why, hello stranger. How would you like to assistaru me in a simple yet incalculably important task?
+- **7991**: Allow me to elucidate. I am a teacher-weacher by trade, you see, but one with a pressing problem: I lack the teaching materials needed to properly impartaru knowledge to my pupils!
+- **7992**: Our last experiment proved a bit too problematic for them. I must conduct it again, but cannot do so due to a paucity of pedagogical-wogical supplies.
+- **7993**: Hm? Aren't there more importantaru matters to worry about, you say?
+- **7994**: Preposterous! It is precisely-wisely because of our current predicament that education is as important as ever! How else will we raise a generation able to match wits with our foe and subsist in this severe environmentaru?
+- **7995**: <Ahem> Where was I? Ah, yes. If you could retrieve $1 $0 for me, it would go a long way in helping-welping me achieve educational excellence. Think of the children!
+- **7996**: Yes! This is just what I need to conductaru a review session for my students. However can I thank you?
+- **7997**: Why, I know! Here, you can have this. If you ever find any more $0, don't hesitataru to bring them here. Remember, it's for a wonderful cause!
+- **7998**: $1 $0 , I said. Didn't you learn how to take notes in school?
+- **7999**: You wouldn't happen to have come across any more $0, by any chance? With a healthy supply, my students would be able to dive into their work without fear of failure. It's a key tenetaru of education, you know.
+- **8000**: Wonderful! You've done a spectacular-wacular service for the young ones' future. Do stop by if you come across any more $0, will you?
 
 ## Events
 
@@ -102,25 +102,25 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(20* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7989*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
     → "Why, hello stranger. How would you like to assistaru me in a simple yet incalculably important task?"
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7990*)
+  4: 0x000D [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
     → "Allow me to elucidate. I am a teacher-weacher by trade, you see, but one with a pressing problem: I lack the teaching materials needed to properly impartaru knowledge to my pupils!"
   5: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7991*)
+  6: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
     → "Our last experiment proved a bit too problematic for them. I must conduct it again, but cannot do so due to a paucity of pedagogical-wogical supplies."
   7: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  8: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "Hm? Aren't there more importantaru matters to worry about, you say?"
   9: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+ 10: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "Preposterous! It is precisely-wisely because of our current predicament that education is as important as ever! How else will we raise a generation able to match wits with our foe and subsist in this severe environmentaru?"
  11: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x001D [0x42] SET_CLI_EVENT_CANCEL_DATA()
  13: 0x001E [0x03] Work_Zone[2] = 2975*
  14: 0x0023 [0x03] Work_Zone[3] = 3*
- 15: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
+ 15: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
     → "<Ahem> Where was I? Ah, yes. If you could retrieve $1 $0 for me, it would go a long way in helping-welping me achieve educational excellence. Think of the children!"
  16: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x002C [0x21] END_EVENT
@@ -152,7 +152,7 @@
   1: 0x0033 [0x1C] WAIT(20* ticks)
   2: 0x0036 [0x03] Work_Zone[2] = 2975*
   3: 0x003B [0x03] Work_Zone[3] = 3*
-  4: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
+  4: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
     → "$1 $0 , I said. Didn't you learn how to take notes in school?"
   5: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0044 [0x21] END_EVENT
@@ -185,11 +185,11 @@
   1: 0x0048 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x0049 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x004E [0x1C] WAIT(20* ticks)
-  4: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7995*)
+  4: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
     → "Yes! This is just what I need to conductaru a review session for my students. However can I thank you?"
   5: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0055 [0x03] Work_Zone[2] = 2975*
-  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7996*)
+  7: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=7997*)
     → "Why, I know! Here, you can have this. If you ever find any more $0, don't hesitataru to bring them here. Remember, it's for a wonderful cause!"
   8: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x005E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -220,7 +220,7 @@
   0: 0x0071 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0076 [0x1C] WAIT(20* ticks)
   2: 0x0079 [0x03] Work_Zone[2] = 2975*
-  3: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7998*)
+  3: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
     → "You wouldn't happen to have come across any more $0, by any chance? With a healthy supply, my students would be able to dive into their work without fear of failure. It's a key tenetaru of education, you know."
   4: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0082 [0x21] END_EVENT
@@ -253,7 +253,7 @@
   2: 0x0087 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x008C [0x1C] WAIT(20* ticks)
   4: 0x008F [0x03] Work_Zone[2] = 2975*
-  5: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7999*)
+  5: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=8000*)
     → "Wonderful! You've done a spectacular-wacular service for the young ones' future. Do stop by if you come across any more $0, will you?"
   6: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0098 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

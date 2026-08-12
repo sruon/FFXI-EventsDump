@@ -52,10 +52,10 @@
 |       6 | 0x002D      |          45 |
 |       7 | 0x000D      |          13 |
 |       8 | 0x664B8     |      419000 |
-|       9 | 0x1D22      |        7458 |
-|      10 | 0x1D23      |        7459 |
-|      11 | 0x1D24      |        7460 |
-|      12 | 0x1D25      |        7461 |
+|       9 | 0x1D23      |        7459 |
+|      10 | 0x1D24      |        7460 |
+|      11 | 0x1D25      |        7461 |
+|      12 | 0x1D26      |        7462 |
 |      13 | 0x28F78     |      167800 |
 |      14 | 0xFFFEB703  |  4294883075 |
 |      15 | 0xFFFF939B  |  4294939547 |
@@ -69,23 +69,23 @@
 |      23 | 0x28488     |      165000 |
 |      24 | 0xFFFEA9FA  |  4294879738 |
 |      25 | 0x0032      |          50 |
-|      26 | 0x1D26      |        7462 |
-|      27 | 0x1D2D      |        7469 |
-|      28 | 0x1D2E      |        7470 |
-|      29 | 0x1D2F      |        7471 |
-|      30 | 0x1D30      |        7472 |
+|      26 | 0x1D27      |        7463 |
+|      27 | 0x1D2E      |        7470 |
+|      28 | 0x1D2F      |        7471 |
+|      29 | 0x1D30      |        7472 |
+|      30 | 0x1D31      |        7473 |
 
 ## String References
 
-- **7458**: <Player>... You took your time. Perrrhaps you considered giving me the slip?
-- **7459**: Even if you tried, it would be a futile effort. You cannot get away from a Mithran Tracker.
-- **7460**: Within the Eldieme Necropolis, there is a cemetery divided into four areas where the casualties of the Great War are interred.
-- **7461**: There is a stone monument in each rrroom that details who is buried where. First, we should search the stone monuments for the name of the sinner's daughter.
-- **7462**: Take the lead. I will follow after you, keeping out of sight.
-- **7469**: Well <Player>, let's go and check the grrrave.
-- **7470**: ...... She definitely appears to be interred here...
-- **7471**: What's this... $1? The daughter's...?
-- **7472**: There's nothing left of the body, but... This is enough. There's nothing more we can do here. Let's return to Chieftainness Perih Vashai.
+- **7459**: <Player>... You took your time. Perrrhaps you considered giving me the slip?
+- **7460**: Even if you tried, it would be a futile effort. You cannot get away from a Mithran Tracker.
+- **7461**: Within the Eldieme Necropolis, there is a cemetery divided into four areas where the casualties of the Great War are interred.
+- **7462**: There is a stone monument in each rrroom that details who is buried where. First, we should search the stone monuments for the name of the sinner's daughter.
+- **7463**: Take the lead. I will follow after you, keeping out of sight.
+- **7470**: Well <Player>, let's go and check the grrrave.
+- **7471**: ...... She definitely appears to be interred here...
+- **7472**: What's this... $1? The daughter's...?
+- **7473**: There's nothing left of the body, but... This is enough. There's nothing more we can do here. Let's return to Chieftainness Perih Vashai.
 
 ## Events
 
@@ -351,7 +351,7 @@
 #### Opcodes
 
 ```
-  0: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+  0: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "<Player>... You took your time. Perrrhaps you considered giving me the slip?"
   1: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0088 [0x00] END_REQSTACK()
@@ -376,7 +376,7 @@
 #### Opcodes
 
 ```
-  0: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+  0: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "Even if you tried, it would be a futile effort. You cannot get away from a Mithran Tracker."
   1: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x008D [0x00] END_REQSTACK()
@@ -402,7 +402,7 @@
 #### Opcodes
 
 ```
-  0: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+  0: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Within the Eldieme Necropolis, there is a cemetery divided into four areas where the casualties of the Great War are interred."
   1: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0092 [0x00] END_REQSTACK()
@@ -427,7 +427,7 @@
 #### Opcodes
 
 ```
-  0: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  0: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "There is a stone monument in each rrroom that details who is buried where. First, we should search the stone monuments for the name of the sinner's daughter."
   1: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0097 [0x00] END_REQSTACK()
@@ -611,7 +611,7 @@
 #### Opcodes
 
 ```
-  0: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  0: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "Take the lead. I will follow after you, keeping out of sight."
   1: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0113 [0x00] END_REQSTACK()
@@ -636,7 +636,7 @@
 #### Opcodes
 
 ```
-  0: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+  0: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → "Well <Player>, let's go and check the grrrave."
   1: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0118 [0x00] END_REQSTACK()
@@ -661,7 +661,7 @@
 #### Opcodes
 
 ```
-  0: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+  0: 0x0119 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "...... She definitely appears to be interred here..."
   1: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x011D [0x00] END_REQSTACK()
@@ -687,7 +687,7 @@
 #### Opcodes
 
 ```
-  0: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
+  0: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
     → "What's this... $1? The daughter's...?"
   1: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0122 [0x00] END_REQSTACK()
@@ -712,7 +712,7 @@
 #### Opcodes
 
 ```
-  0: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
+  0: 0x0123 [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
     → "There's nothing left of the body, but... This is enough. There's nothing more we can do here. Let's return to Chieftainness Perih Vashai."
   1: 0x0126 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0127 [0x00] END_REQSTACK()

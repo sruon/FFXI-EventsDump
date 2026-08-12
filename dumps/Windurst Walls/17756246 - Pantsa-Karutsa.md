@@ -34,11 +34,11 @@
 |       6 | 0xFFFE9CCD  |  4294876365 |
 |       7 | 0x1E6FA     |      124666 |
 |       8 | 0xFFFFEAB0  |  4294961840 |
-|       9 | 0x1EE3      |        7907 |
+|       9 | 0x1EE4      |        7908 |
 
 ## String References
 
-- **7907**: It was a courageous decision by the Star Sibyl when she set out to make friends with the beastmen. It was because of her actions that we are now able to restore Windurst to the beautaruful place it once was.
+- **7908**: It was a courageous decision by the Star Sibyl when she set out to make friends with the beastmen. It was because of her actions that we are now able to restore Windurst to the beautaruful place it once was.
 
 ## Events
 
@@ -210,7 +210,7 @@
   1: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x003F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0040 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pantsa-Karutsa (ID: 17756246/0x010EF056), tag_num=0x01)
-  4: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
+  4: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=7908*)
     → "It was a courageous decision by the Star Sibyl when she set out to make friends with the beastmen. It was because of her actions that we are now able to restore Windurst to the beautaruful place it once was."
   5: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x004B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Pantsa-Karutsa (ID: 17756246/0x010EF056), tag_num=0x02)

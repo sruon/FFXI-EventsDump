@@ -65,13 +65,13 @@
 |      14 | 0xFFFC73EF  |  4294734831 |
 |      15 | 0x229BB     |      141755 |
 |      16 | 0xFFFFFFA7  |  4294967207 |
-|      17 | 0x1CCB      |        7371 |
-|      18 | 0x1CD2      |        7378 |
+|      17 | 0x1CCC      |        7372 |
+|      18 | 0x1CD3      |        7379 |
 
 ## String References
 
-- **7371**: Yes. What i\`s this?
-- **7378**: Well, I'm just about as disappointed as one could be. I thought we would be finding something goody.
+- **7372**: Yes. What i\`s this?
+- **7379**: Well, I'm just about as disappointed as one could be. I thought we would be finding something goody.
 
 ## Events
 
@@ -783,7 +783,7 @@
 
 ```
   0: 0x01B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17563917/0x010C010D), tag_num=0x01)
-  1: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7371*)
+  1: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7372*)
     → "Yes. What i`s this?"
   2: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shantotto (ID: 17563917/0x010C010D), tag_num=0x02)
@@ -809,7 +809,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+  0: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "Well, I'm just about as disappointed as one could be. I thought we would be finding something goody."
   1: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C9 [0x00] END_REQSTACK()

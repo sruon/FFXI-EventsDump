@@ -23,12 +23,12 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0015      |          21 |
-|       2 | 0x1FFA      |        8186 |
-|       3 | 0x1FFB      |        8187 |
-|       4 | 0x1FFC      |        8188 |
-|       5 | 0x1FFD      |        8189 |
-|       6 | 0x1FFE      |        8190 |
-|       7 | 0x1FFF      |        8191 |
+|       2 | 0x1FFB      |        8187 |
+|       3 | 0x1FFC      |        8188 |
+|       4 | 0x1FFD      |        8189 |
+|       5 | 0x1FFE      |        8190 |
+|       6 | 0x1FFF      |        8191 |
+|       7 | 0x2000      |        8192 |
 
 ## Events
 
@@ -79,13 +79,13 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x6E] EventEntity uses emote 21*
   3: 0x0010 [0x99] Wait for EventEntity animation to complete
-  4: 0x0015 [0x2B] EventEntity [8186*]:
+  4: 0x0015 [0x2B] EventEntity [8187*]:
     → "Ah! An intruder! ...Oh, don't scare me like that. Look at me getting all worked up by a wandering adventurer."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x2B] EventEntity [8187*]:
+  6: 0x001D [0x2B] EventEntity [8188*]:
     → "The three nations had their rivalries and disputes long before this madness began. Just because the allied forces are now falling into formation doesn't mean we're going to start getting along all of a sudden."
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0025 [0x2B] EventEntity [8188*]:
+  8: 0x0025 [0x2B] EventEntity [8189*]:
     → "Especially Windurst and San d'Oria. We have a tradition of bad blood between us..."
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x002D [0x21] END_EVENT
@@ -118,13 +118,13 @@
   1: 0x0034 [0x1C] WAIT(30* ticks)
   2: 0x0037 [0x6E] EventEntity uses emote 21*
   3: 0x003E [0x99] Wait for EventEntity animation to complete
-  4: 0x0043 [0x2B] EventEntity [8189*]:
+  4: 0x0043 [0x2B] EventEntity [8190*]:
     → "The San d'Orian Royal Knights have pried the fort from the claws of the Yagudo! Tales of their bravery will be told for a hundred years to come!"
   5: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004B [0x2B] EventEntity [8190*]:
+  6: 0x004B [0x2B] EventEntity [8191*]:
     → "I always thought of the Elvaan as a selfish, haughty people. I guess I was wrong..."
   7: 0x0052 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0053 [0x2B] EventEntity [8191*]:
+  8: 0x0053 [0x2B] EventEntity [8192*]:
     → "This battle will be the turning point for the Allied Forces of Altana. You mark my words!"
   9: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x005B [0x21] END_EVENT

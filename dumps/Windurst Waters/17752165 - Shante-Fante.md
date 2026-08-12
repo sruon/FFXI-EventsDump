@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2264      |        8804 |
-|       3 | 0x2265      |        8805 |
+|       2 | 0x2265      |        8805 |
+|       3 | 0x2266      |        8806 |
 
 ## String References
 
-- **8804**: The research of magic is malms ahead in Windurst compared to the other countries. That's because the land in these parts was originally overflowing with magical power-wower.
-- **8805**: In Sarutabaruta, the land that surrounds Windurst, you'll find the Horutoto Ruins. They're incredibly ancient remnants from a sorcerous society!
+- **8805**: The research of magic is malms ahead in Windurst compared to the other countries. That's because the land in these parts was originally overflowing with magical power-wower.
+- **8806**: In Sarutabaruta, the land that surrounds Windurst, you'll find the Horutoto Ruins. They're incredibly ancient remnants from a sorcerous society!
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shante-Fante (ID: 17752165/0x010EE065), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8804*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8805*)
     → "The research of magic is malms ahead in Windurst compared to the other countries. That's because the land in these parts was originally overflowing with magical power-wower."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8805*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8806*)
     → "In Sarutabaruta, the land that surrounds Windurst, you'll find the Horutoto Ruins. They're incredibly ancient remnants from a sorcerous society!"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Shante-Fante (ID: 17752165/0x010EE065), tag_num=0x02)

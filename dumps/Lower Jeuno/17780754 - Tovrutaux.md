@@ -129,27 +129,27 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1DEE      |        7662 |
+|       0 | 0x1DEF      |        7663 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1DEF      |        7663 |
-|       3 | 0x1DF0      |        7664 |
-|       4 | 0x1DF1      |        7665 |
-|       5 | 0x1DF2      |        7666 |
-|       6 | 0x1DF3      |        7667 |
+|       2 | 0x1DF0      |        7664 |
+|       3 | 0x1DF1      |        7665 |
+|       4 | 0x1DF2      |        7666 |
+|       5 | 0x1DF3      |        7667 |
+|       6 | 0x1DF4      |        7668 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0090      |         144 |
 |      10 | 0x005A      |          90 |
-|      11 | 0x1DF4      |        7668 |
-|      12 | 0x1DF6      |        7670 |
-|      13 | 0x1DF7      |        7671 |
-|      14 | 0x1DF8      |        7672 |
-|      15 | 0x1DF9      |        7673 |
-|      16 | 0x1DFA      |        7674 |
-|      17 | 0x1DFB      |        7675 |
-|      18 | 0x1DFC      |        7676 |
-|      19 | 0x1DFD      |        7677 |
-|      20 | 0x1DFE      |        7678 |
+|      11 | 0x1DF5      |        7669 |
+|      12 | 0x1DF7      |        7671 |
+|      13 | 0x1DF8      |        7672 |
+|      14 | 0x1DF9      |        7673 |
+|      15 | 0x1DFA      |        7674 |
+|      16 | 0x1DFB      |        7675 |
+|      17 | 0x1DFC      |        7676 |
+|      18 | 0x1DFD      |        7677 |
+|      19 | 0x1DFE      |        7678 |
+|      20 | 0x1DFF      |        7679 |
 |      21 | 0x004B      |          75 |
 |      22 | 0x004C      |          76 |
 |      23 | 0x003C      |          60 |
@@ -307,7 +307,7 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7662*]:
+  1: 0x0002 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7663*]:
     → "I knew that wild chocobos smell, but even domesticated ones reek terribly!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x4A] Chocobo (ID: 17780753/0x010F5011) looks at Tovrutaux (ID: 17780754/0x010F5012)
@@ -315,22 +315,22 @@
   5: 0x001C [0x27] REQ_SET(priority=0x03, entity_id=Chocobo (ID: 17780753/0x010F5011), tag_num=0x02)
   6: 0x0023 [0x1C] WAIT(30* ticks)
   7: 0x0026 [0x4A] Tovrutaux (ID: 17780754/0x010F5012) looks at Seyaya (ID: 17780755/0x010F5013)
-  8: 0x002F [0x2B] Seyaya (ID: 17780755/0x010F5013) [7663*]:
+  8: 0x002F [0x2B] Seyaya (ID: 17780755/0x010F5013) [7664*]:
     → "Don't say thataru! The chocobo'll get mad."
   9: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0037 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7664*]:
+ 10: 0x0037 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7665*]:
     → "Nonsense! Chocobos cannot understand us."
  11: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x003F [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Chocobo (ID: 17780753/0x010F5011), tag_num=0x03)
- 13: 0x0046 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7665*]:
+ 13: 0x0046 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7666*]:
     → "Uh-oh..."
  14: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x004E [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7666*]:
+ 15: 0x004E [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7667*]:
     → "What is it?"
  16: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0056 [0x4A] Tovrutaux (ID: 17780754/0x010F5012) looks at Chocobo (ID: 17780753/0x010F5011)
  18: 0x005F [0x1C] WAIT(30* ticks)
- 19: 0x0062 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7667*]:
+ 19: 0x0062 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7668*]:
     → "Yaaah!"
  20: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x006A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -364,7 +364,7 @@
 
 ```
   0: 0x00B3 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x00B8 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7668*]:
+  1: 0x00B8 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7669*]:
     → "Why, that chocobo bit me! Curse him and all his flock!"
   2: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00C0 [0x21] END_EVENT
@@ -394,13 +394,13 @@
 ```
   0: 0x00C2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C7 [0x4A] Seyaya (ID: 17780755/0x010F5013) looks at LocalPlayer
-  2: 0x00D0 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7670*]:
+  2: 0x00D0 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7671*]:
     → "That man from the chocobo corral sure was scary."
   3: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00D8 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7671*]:
+  4: 0x00D8 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7672*]:
     → "He started yelling at the chocobos for no reason. I'm sure they were terrified of him."
   5: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E0 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7672*]:
+  6: 0x00E0 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7673*]:
     → "But he obviously loves his son a lot. How strange..."
   7: 0x00E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00E8 [0x21] END_EVENT
@@ -431,13 +431,13 @@
 ```
   0: 0x00EA [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00EF [0x4A] Seyaya (ID: 17780755/0x010F5013) looks at LocalPlayer
-  2: 0x00F8 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7673*]:
+  2: 0x00F8 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7674*]:
     → "I heard that poor chocobo master's son got sick. Now he's got to watch over both his son and his chocobos. Poor guy..."
   3: 0x00FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0100 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7674*]:
+  4: 0x0100 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7675*]:
     → "Did you hear? He lost his wife after she got sick a long time ago. He was so poor, he couldn't afford any medicine for her."
   5: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0108 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7675*]:
+  6: 0x0108 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7676*]:
     → "He got so scary after she died."
   7: 0x010F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0110 [0x21] END_EVENT
@@ -467,13 +467,13 @@
 ```
   0: 0x0112 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0117 [0x4A] Seyaya (ID: 17780755/0x010F5013) looks at LocalPlayer
-  2: 0x0120 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7676*]:
+  2: 0x0120 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7677*]:
     → "I heard that the chocobo master's son got better. Sometimes I hear him laughing again."
   3: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0128 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7677*]:
+  4: 0x0128 [0x2B] Seyaya (ID: 17780755/0x010F5013) [7678*]:
     → "I'm so surprised. That chocobo master doesn't get angry at the chocobos anymore. I hope he stays that way forever."
   5: 0x012F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0130 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7678*]:
+  6: 0x0130 [0x2B] Tovrutaux (ID: 17780754/0x010F5012) [7679*]:
     → "Yeah, really!"
   7: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0138 [0x21] END_EVENT

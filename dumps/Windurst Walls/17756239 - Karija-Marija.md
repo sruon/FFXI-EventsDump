@@ -26,17 +26,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EFF      |        7935 |
-|       3 | 0x1F00      |        7936 |
-|       4 | 0x1F24      |        7972 |
-|       5 | 0x1F25      |        7973 |
+|       2 | 0x1F00      |        7936 |
+|       3 | 0x1F01      |        7937 |
+|       4 | 0x1F25      |        7973 |
+|       5 | 0x1F26      |        7974 |
 
 ## String References
 
-- **7935**: The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above. The last Star Reading said that Windurst would have everlasting peace-weace.
-- **7936**: I'm just glad-wad we didn't have an ill-boding omen come up, like the ones we got during the Great War twenty years ago.
-- **7972**: The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above.
-- **7973**: The last few years' Star Reading-weadings didn't say much either way...neither good omens, nor bad.
+- **7936**: The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above. The last Star Reading said that Windurst would have everlasting peace-weace.
+- **7937**: I'm just glad-wad we didn't have an ill-boding omen come up, like the ones we got during the Great War twenty years ago.
+- **7973**: The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above.
+- **7974**: The last few years' Star Reading-weadings didn't say much either way...neither good omens, nor bad.
 
 ## Events
 
@@ -160,10 +160,10 @@
   2: 0x002C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x002D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x002E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Karija-Marija (ID: 17756239/0x010EF04F), tag_num=0x01)
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above. The last Star Reading said that Windurst would have everlasting peace-weace."
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "I'm just glad-wad we didn't have an ill-boding omen come up, like the ones we got during the Great War twenty years ago."
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Karija-Marija (ID: 17756239/0x010EF04F), tag_num=0x02)
@@ -198,10 +198,10 @@
   2: 0x0053 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0054 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0055 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Karija-Marija (ID: 17756239/0x010EF04F), tag_num=0x01)
-  5: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7972*)
+  5: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
     → "The Star Reading ceremony is a special rite that entails the gathering of the five ministers and the Star Sibyl together to listen-wisten to the will of the stars in the skies above."
   6: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  7: 0x0060 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "The last few years' Star Reading-weadings didn't say much either way...neither good omens, nor bad."
   8: 0x0063 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0064 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Karija-Marija (ID: 17756239/0x010EF04F), tag_num=0x02)

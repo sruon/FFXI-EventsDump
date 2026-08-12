@@ -35,31 +35,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2DEA      |       11754 |
-|       1 | 0x2DE7      |       11751 |
-|       2 | 0x2DED      |       11757 |
-|       3 | 0x2DF0      |       11760 |
-|       4 | 0x2DF3      |       11763 |
-|       5 | 0x2DF4      |       11764 |
+|       0 | 0x2DEB      |       11755 |
+|       1 | 0x2DE8      |       11752 |
+|       2 | 0x2DEE      |       11758 |
+|       3 | 0x2DF1      |       11761 |
+|       4 | 0x2DF4      |       11764 |
+|       5 | 0x2DF5      |       11765 |
 |       6 | 0x0078      |         120 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x2DF6      |       11766 |
-|       9 | 0x2DF7      |       11767 |
+|       8 | 0x2DF7      |       11767 |
+|       9 | 0x2DF8      |       11768 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x2DF8      |       11768 |
+|      12 | 0x2DF9      |       11769 |
 
 ## String References
 
-- **11751**: So you think you have what it takes to be a Cobra? Well, then talk to Miah Riyuh and hope that she's in a good mood!
-- **11754**: Shouldn't you be out campaigning? Now get!
-- **11757**: Says here you've already gone and joined some other nation's forces.
-- **11760**: If you've finally come to your senses and decided on joining the Cobras then talk to Miah Riyuh...and hope that she's in a good mood!
-- **11763**: But if you've finally come to your senses and decided to return to the Cobras, I think I can pull a few strings...for a price. You're carrying Allied Notes, right?
-- **11764**: Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals.
-- **11766**: Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes].
-- **11767**: Proceed with the transaction? [Yes./No.]
-- **11768**: Are you absolutely sure? [Yes./No.]
+- **11752**: So you think you have what it takes to be a Cobra? Well, then talk to Miah Riyuh and hope that she's in a good mood!
+- **11755**: Shouldn't you be out campaigning? Now get!
+- **11758**: Says here you've already gone and joined some other nation's forces.
+- **11761**: If you've finally come to your senses and decided on joining the Cobras then talk to Miah Riyuh...and hope that she's in a good mood!
+- **11764**: But if you've finally come to your senses and decided to return to the Cobras, I think I can pull a few strings...for a price. You're carrying Allied Notes, right?
+- **11765**: Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals.
+- **11767**: Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes].
+- **11768**: Proceed with the transaction? [Yes./No.]
+- **11769**: Are you absolutely sure? [Yes./No.]
 
 ## Events
 
@@ -108,7 +108,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=11754*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=11755*)
     → "Shouldn't you be out campaigning? Now get!"
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT
@@ -138,7 +138,7 @@
   0: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0018 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11751*)
+  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11752*)
     → "So you think you have what it takes to be a Cobra? Well, then talk to Miah Riyuh and hope that she's in a good mood!"
   4: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0021 [0x21] END_EVENT
@@ -168,10 +168,10 @@
   0: 0x0023 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11757*)
+  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11758*)
     → "Says here you've already gone and joined some other nation's forces."
   4: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=11760*)
+  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=11761*)
     → "If you've finally come to your senses and decided on joining the Cobras then talk to Miah Riyuh...and hope that she's in a good mood!"
   6: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0036 [0x21] END_EVENT
@@ -207,22 +207,22 @@
   1: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11757*)
+  4: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11758*)
     → "Says here you've already gone and joined some other nation's forces."
   5: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11763*)
+  6: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=11764*)
     → "But if you've finally come to your senses and decided to return to the Cobras, I think I can pull a few strings...for a price. You're carrying Allied Notes, right?"
   7: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x004C [0x48] [System] [11764*]:
+  8: 0x004C [0x48] [System] [11765*]:
     → "Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals."
   9: 0x004F [0x1C] WAIT(120* ticks)
  10: 0x0052 [0x03] Work_Zone[1] = 1*
  11: 0x0057 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  12: 0x0059 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 13: 0x005B [0x48] [System] [11766*]:
+ 13: 0x005B [0x48] [System] [11767*]:
     → "Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes]."
  14: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x005F [0x24] CREATE_DIALOG(message_id=11767*, default_option=1*, option_flags=0*)
+ 15: 0x005F [0x24] CREATE_DIALOG(message_id=11768*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
  16: 0x0066 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0067 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
@@ -230,7 +230,7 @@
  19: 0x0074 [0x01] GOTO 0x009A
 
 SUBROUTINE_007A:
- 20: 0x007A [0x24] CREATE_DIALOG(message_id=11768*, default_option=1*, option_flags=0*)
+ 20: 0x007A [0x24] CREATE_DIALOG(message_id=11769*, default_option=1*, option_flags=0*)
     → "Are you absolutely sure? [Yes./No.]"
  21: 0x0081 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0082 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0095

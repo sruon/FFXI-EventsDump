@@ -32,16 +32,16 @@
 |       3 | 0x00C9      |         201 |
 |       4 | 0x008C      |         140 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1D24      |        7460 |
+|       6 | 0x1D25      |        7461 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x1D25      |        7461 |
-|       9 | 0x1D42      |        7490 |
+|       8 | 0x1D26      |        7462 |
+|       9 | 0x1D43      |        7491 |
 
 ## String References
 
-- **7460**: Take this male apkallu with you? [Yes./Not this one.]
-- **7461**: Choose this female apkallu as a partner? [This is the one!/Not this one.]
-- **7490**: You rrreally want to stop now? [Rrreally./Not rrreally.]
+- **7461**: Take this male apkallu with you? [Yes./Not this one.]
+- **7462**: Choose this female apkallu as a partner? [This is the one!/Not this one.]
+- **7491**: You rrreally want to stop now? [Rrreally./Not rrreally.]
 
 ## Events
 
@@ -200,7 +200,7 @@
 
 ```
   0: 0x0053 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0055 [0x24] CREATE_DIALOG(message_id=7460*, default_option=1*, option_flags=0*)
+  1: 0x0055 [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
     → "Take this male apkallu with you? [Yes./Not this one.]"
   2: 0x005C [0x25] WAIT_DIALOG_SELECT()
   3: 0x005D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0072
@@ -244,7 +244,7 @@ SUBROUTINE_0087:
 
 ```
   0: 0x008B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x008D [0x24] CREATE_DIALOG(message_id=7461*, default_option=1*, option_flags=0*)
+  1: 0x008D [0x24] CREATE_DIALOG(message_id=7462*, default_option=1*, option_flags=0*)
     → "Choose this female apkallu as a partner? [This is the one!/Not this one.]"
   2: 0x0094 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AA
@@ -283,7 +283,7 @@ SUBROUTINE_00AA:
 
 ```
   0: 0x00AE [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00B0 [0x24] CREATE_DIALOG(message_id=7490*, default_option=1*, option_flags=0*)
+  1: 0x00B0 [0x24] CREATE_DIALOG(message_id=7491*, default_option=1*, option_flags=0*)
     → "You rrreally want to stop now? [Rrreally./Not rrreally.]"
   2: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
   3: 0x00B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CD

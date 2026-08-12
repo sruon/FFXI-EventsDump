@@ -33,9 +33,9 @@
 |       5 | 0x002B      |          43 |
 |       6 | 0x0080      |         128 |
 |       7 | 0x0078      |         120 |
-|       8 | 0x1DF3      |        7667 |
-|       9 | 0x1DF4      |        7668 |
-|      10 | 0x1DF5      |        7669 |
+|       8 | 0x1DF4      |        7668 |
+|       9 | 0x1DF5      |        7669 |
+|      10 | 0x1DF6      |        7670 |
 
 ## Events
 
@@ -211,13 +211,13 @@
 #### Opcodes
 
 ```
-  0: 0x007D [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7667*]:
+  0: 0x007D [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7668*]:
     → "I plan to use her ability to unlock the "memories of the ancients" and project them into Delkfutt's Tower, thus regenerating the Chrysalis Core and opening the path to Tu'Lia."
   1: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0085 [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7668*]:
+  2: 0x0085 [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7669*]:
     → "Once Tu'Lia has been awakened, I can continue my preparations there."
   3: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x008D [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7669*]:
+  4: 0x008D [0x2B] Eald'narche (ID: 17510710/0x010B3136) [7670*]:
     → "Just as I did ten thousand years ago."
   5: 0x0094 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0095 [0x00] END_REQSTACK()

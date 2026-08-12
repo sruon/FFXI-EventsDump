@@ -77,74 +77,74 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x002A      |          42 |
 |       3 | 0x002D      |          45 |
-|       4 | 0x1C7A      |        7290 |
-|       5 | 0x1C7B      |        7291 |
-|       6 | 0x1C7C      |        7292 |
-|       7 | 0x1C81      |        7297 |
+|       4 | 0x1C7B      |        7291 |
+|       5 | 0x1C7C      |        7292 |
+|       6 | 0x1C7D      |        7293 |
+|       7 | 0x1C82      |        7298 |
 |       8 | 0x000D      |          13 |
 |       9 | 0xFFFFF7BF  |  4294965183 |
 |      10 | 0x1CE50     |      118352 |
 |      11 | 0xFFFFC374  |  4294951796 |
-|      12 | 0x1C8E      |        7310 |
-|      13 | 0x1C8F      |        7311 |
-|      14 | 0x1C90      |        7312 |
-|      15 | 0x1C98      |        7320 |
-|      16 | 0x1C99      |        7321 |
-|      17 | 0x1C9A      |        7322 |
-|      18 | 0x1C9D      |        7325 |
-|      19 | 0x1CA9      |        7337 |
-|      20 | 0x1CAA      |        7338 |
-|      21 | 0x1CB8      |        7352 |
-|      22 | 0x1CB9      |        7353 |
-|      23 | 0x1CC3      |        7363 |
-|      24 | 0x1CD0      |        7376 |
-|      25 | 0x1CD1      |        7377 |
-|      26 | 0x1CDD      |        7389 |
-|      27 | 0x1CDE      |        7390 |
-|      28 | 0x1CE3      |        7395 |
-|      29 | 0x1CE4      |        7396 |
-|      30 | 0x1CF0      |        7408 |
-|      31 | 0x1CF1      |        7409 |
-|      32 | 0x1CFB      |        7419 |
-|      33 | 0x1CFC      |        7420 |
-|      34 | 0x1D04      |        7428 |
-|      35 | 0x1D05      |        7429 |
-|      36 | 0x1D0B      |        7435 |
-|      37 | 0x1D0C      |        7436 |
-|      38 | 0x1D17      |        7447 |
-|      39 | 0x1D18      |        7448 |
-|      40 | 0x1D20      |        7456 |
-|      41 | 0x1D21      |        7457 |
-|      42 | 0x1D22      |        7458 |
-|      43 | 0x1D25      |        7461 |
-|      44 | 0x1D26      |        7462 |
-|      45 | 0x220C      |        8716 |
-|      46 | 0x220D      |        8717 |
-|      47 | 0x220E      |        8718 |
-|      48 | 0x2218      |        8728 |
-|      49 | 0x2219      |        8729 |
-|      50 | 0x2228      |        8744 |
-|      51 | 0x2229      |        8745 |
-|      52 | 0x2230      |        8752 |
-|      53 | 0x2231      |        8753 |
-|      54 | 0x223B      |        8763 |
-|      55 | 0x223C      |        8764 |
-|      56 | 0x2245      |        8773 |
-|      57 | 0x2246      |        8774 |
-|      58 | 0x2251      |        8785 |
-|      59 | 0x2252      |        8786 |
-|      60 | 0x2253      |        8787 |
-|      61 | 0x2333      |        9011 |
-|      62 | 0x2334      |        9012 |
-|      63 | 0x2335      |        9013 |
+|      12 | 0x1C8F      |        7311 |
+|      13 | 0x1C90      |        7312 |
+|      14 | 0x1C91      |        7313 |
+|      15 | 0x1C99      |        7321 |
+|      16 | 0x1C9A      |        7322 |
+|      17 | 0x1C9B      |        7323 |
+|      18 | 0x1C9E      |        7326 |
+|      19 | 0x1CAA      |        7338 |
+|      20 | 0x1CAB      |        7339 |
+|      21 | 0x1CB9      |        7353 |
+|      22 | 0x1CBA      |        7354 |
+|      23 | 0x1CC4      |        7364 |
+|      24 | 0x1CD1      |        7377 |
+|      25 | 0x1CD2      |        7378 |
+|      26 | 0x1CDE      |        7390 |
+|      27 | 0x1CDF      |        7391 |
+|      28 | 0x1CE4      |        7396 |
+|      29 | 0x1CE5      |        7397 |
+|      30 | 0x1CF1      |        7409 |
+|      31 | 0x1CF2      |        7410 |
+|      32 | 0x1CFC      |        7420 |
+|      33 | 0x1CFD      |        7421 |
+|      34 | 0x1D05      |        7429 |
+|      35 | 0x1D06      |        7430 |
+|      36 | 0x1D0C      |        7436 |
+|      37 | 0x1D0D      |        7437 |
+|      38 | 0x1D18      |        7448 |
+|      39 | 0x1D19      |        7449 |
+|      40 | 0x1D21      |        7457 |
+|      41 | 0x1D22      |        7458 |
+|      42 | 0x1D23      |        7459 |
+|      43 | 0x1D26      |        7462 |
+|      44 | 0x1D27      |        7463 |
+|      45 | 0x220D      |        8717 |
+|      46 | 0x220E      |        8718 |
+|      47 | 0x220F      |        8719 |
+|      48 | 0x2219      |        8729 |
+|      49 | 0x221A      |        8730 |
+|      50 | 0x2229      |        8745 |
+|      51 | 0x222A      |        8746 |
+|      52 | 0x2231      |        8753 |
+|      53 | 0x2232      |        8754 |
+|      54 | 0x223C      |        8764 |
+|      55 | 0x223D      |        8765 |
+|      56 | 0x2246      |        8774 |
+|      57 | 0x2247      |        8775 |
+|      58 | 0x2252      |        8786 |
+|      59 | 0x2253      |        8787 |
+|      60 | 0x2254      |        8788 |
+|      61 | 0x2334      |        9012 |
+|      62 | 0x2335      |        9013 |
+|      63 | 0x2336      |        9014 |
 |      64 | 0x000B      |          11 |
-|      65 | 0x233A      |        9018 |
-|      66 | 0x233B      |        9019 |
-|      67 | 0x234D      |        9037 |
-|      68 | 0x234E      |        9038 |
-|      69 | 0x234F      |        9039 |
-|      70 | 0x2358      |        9048 |
-|      71 | 0x2359      |        9049 |
+|      65 | 0x233B      |        9019 |
+|      66 | 0x233C      |        9020 |
+|      67 | 0x234E      |        9038 |
+|      68 | 0x234F      |        9039 |
+|      69 | 0x2350      |        9040 |
+|      70 | 0x2359      |        9049 |
+|      71 | 0x235A      |        9050 |
 |      72 | 0xFFFF877F  |  4294936447 |
 |      73 | 0x212CC     |      135884 |
 |      74 | 0xFFFFC180  |  4294951296 |
@@ -159,69 +159,69 @@
 
 ## String References
 
-- **7290**: You have some kinda business with us guards here? Then first you've gotta speak to Zokima-Rokima on the top of the steps there. He's our leader-reader!
-- **7291**: A foreigner, eh? Do you have business here, or are you just a lost tourist-bourist? You're in Windurst Walls, by the way, and this is the Heavens Tower gatehouse.
-- **7292**: Head west from here to go to Windurst Waters, south to go to Port Windurst, or step onto the magical blue circle-hircle at the end of the hall here to teleport inside of Heavens Tower.
-- **7297**: You came to inquire about missions, huh? Then ask our guard leader-reader up there. He's certainly-mertainly a man with a mission or two.
-- **7310**: Roger-dodger! Let me see... What do I have for a first rank weakling...erm, I mean, newbie wanna-be adventurer like you...
-- **7311**: How about helping the Orastery to conduct a magic experiment? You might make a good guinea piggy-giggy.
-- **7312**: Seems like it's going down in the eastern magical tower-zower of the Horutoto Ruins out in Sarutabaruta.
-- **7320**: It's a long and higgledy-piggledy road to get the Orastery from here. First, you have to head south past the auction house and down the road that leads to Windurst Woods.
-- **7321**: Then you have to pass through to the western side of Windurst Woods and head out the exit to Port Windurst. You should be able to find the building-duilding by the shore there.
-- **7322**: I'm sure you're going to get totally-rotally lost, so make sure you check your map regularly, okay!?
-- **7325**: Were the Horutoto Ruins as topsy-turvy confusing for you as they are for me? No matter how many times I go there, I still manage to get lost.
-- **7337**: The automaton guards, known as Cardians, are the compilation of animation magic and are really-heally a remarkable invention.
-- **7338**: When they are newly created, they are just like little baby-mabies. As we teach them how to speak and how to fight, they quickly grow smarter and smarter!
-- **7352**: It's only natural that we need to keep patience-matience and put forth constant effort in order to be friends with the Yagudo.
-- **7353**: We're talking about a pack of beastmen. Their way of thinking is totally different from us people-beople. The first and foremost thing to strive for is to understand-ermand the other party.
-- **7363**: Congratulations on advancing-mancing in rank! Say, now that you mention-bention it...just how many ranks are there? I've given up hope of further promotion so have forgotten-rotten.
-- **7376**: I wonder-zonder if it is really true that all of the knowledge of Windurst is stored away in the Library of Magic?
-- **7377**: I've even heard-deard that a book written by the very first Star Sibyl is still preserved as new in there!
-- **7389**: There are two grades of students in the School of Magic. The exceedingly brilliant children-shildren are placed in the advanced class.
-- **7390**: On the other hand, the not-so-exceedingly brilliant students-dutents are placed into the beginners class. That's just the way the world works, I guess-fess...
-- **7395**: I'd like a chance to try one of these large-scale missions, but I don't really think-fink I'm up to it.
-- **7396**: You see, I'm the type of Tarutaru who can't sleep on a different pillow-billow, gets seasick and airsick, and is disliked by every chocobo-kookobo he comes across. I'm just not cut out to travel-ravel.
-- **7408**: The Sibyl Guards are the Mithran warrior-borriors who serve the Star Sibyl.
-- **7409**: They are all so serious-zerious and strong-drong and oh so cool-looking. Why, they are once...no, twice...no, thrice more fly than the other Mithra who stray about this town!
-- **7419**: When I was selected to serve as a guard in front of Heavens Tower, I was over the moon-boon! Just the thought of becoming friend-priends with all those ladies-in-waiting...Hum-hmm...
-- **7420**: That dream was soon shattered-splattered when mean old Zubaba cracked down on the young ladies-in-waiting going outside. It brings tears to my eyes-cries!
-- **7428**: I'm not the least bit jealous-mealous! I've delivered a document with the star emblem on it to the minister-pinister of the Orastery before.
-- **7429**: I can remember I was so nervous-dervous back then. I was in a cold sweat at the thought of what punishment-bunishment would await me if I lost the darned thing.
-- **7435**: No matter how you look at it, you can't help but conclude something major-dajor is going down in Heavens Tower right now.
-- **7436**: The head of the Sibyl Guards, Semih Lafihna, has been going-zoing in and out of here all day. My arms are tired from giving her the Windurstian salute-dalute each time she passes by.
-- **7447**: Where in Vana'diel is this Fei'Yin place-blace? Huh? Way up north past-fast the Beaucedine Glacier?
-- **7448**: That still doesn't tell-jell me where it is... All I can make out is that it's going to be a really cold-old place. Better pack-zack your long johns!
-- **7456**: Don't you sometimes wonder whether people and beastmen can really ever understand one another-brother?
-- **7457**: The Star Sibyl thought that someday we would understand-berstand one another and tried all manner of things to work to that goal, but nothing really changed.
-- **7458**: I wonder-monder if it is, as they say, set in the stars? The movement of the stars never changes-shanges, does it?
-- **7461**: Whether your name goes down in the history-mistory of Windurst or not doesn't matter. What you did was indeed a great deed-yeed!
-- **7462**: Thank you, adventurer-henturer! Please keep using that mighty-righty power of yours for the peace of Windurst!
-- **8716**: Kupipi was saying that there is no huge-luge difference between adventurers whose names go down in history, and those who are not mentioned at all-fall.
-- **8717**: The only difference-mifference between them is that the adventurers whose names go down in history are the ones that remain in people's memories.
-- **8718**: ...So, if it was you who we were talking about-pout, you would sorta be remembered. Vaguely.
-- **8728**: Minister Ajido-Marujido has asked for you? My condolences. He really-deally bosses people around. The Ministers of the Orastery have always been meany-beanies.
-- **8729**: Although with the members of the Mage Academy always on the front line of battle, I guess you gottaru be tough-rough or you couldn't cut it as the head honcho-poncho.
-- **8744**: Even if he is Minister of the Orastery, Ajido-Marujido cannot be forgiven his transgressions. The word of Heavens Tower is the law of Windurst.
-- **8745**: With Ajido-Marujido in the Dark Dungeon, who will become the next Minister of the Orastery? It will have to be a super-dooper wizard who can coordinate both the mighty-fighty War Warlocks and the Operations Division. ...Nobody really spring-pings to mind.
-- **8752**: I havetaru clean my house, too. Adventurers have it easy, since they have moogles to look after their rooms. I'm so jealous-bealous.
-- **8753**: I've heard that if adventurers put furniture in their rooms, the moogles sometimes find hidden items. Lucky-duckies!
-- **8763**: Were you listening properly-doperly? You need to go ask the mission-fission details from Leepe-Hoppe on the second floor of the Rhinostery.
-- **8764**: The Rhinostery probably wants you to help them with their research... They usually have their own adventurers to assist-list them though.
-- **8773**: Out of the five ministries, the Aurastery issues the least mission-bissions.
-- **8774**: When Professor Koru-Moru was actively performing his role as principal, there was all manner of trouble-bubbles... But these days it's been relatively quiet.
-- **8785**: After the Great War twenty years ago, the Cardians started a rebellion-mellion and carried off the previous Manustery minister...
-- **8786**: Following that chaos, the Manustery came to a complete standstill. Minister Apururu has worked extremely-zemely hard to get her ministry back into operation.
-- **8787**: The Cardians created by the Manustery are made to act as shields for the guards. It's time we returned the favor!
-- **9011**: According to the gossip-dossip of the ladies-in-waiting, Semih Lafihna has been to-ing and fro-ing all over the place trying to find information on the bearer of darkness that appeared in Heavens Tower.
-- **9012**: I was standing rightaru here when all the fuss erupted, and I have no memory-zemory of letting such a creature pass into the tower. It must be some sort of ghosty-toasty...
-- **9013**: You gotta hand it to those Mithra. She goes off in search of the thing when most normal people would be running in the other direction. Ghosties give me the shivers...
-- **9018**: Hooray! I never thought that Minister Ajido-Marujido would be forgiven so quickly-trickly for his transgressions!
-- **9019**: Were you there when he talked with the Star Sibyl? I heard that Minister Apururu said she has a lot to thank you for!
-- **9037**: I heard from the ladies-in-waiting that they haven't seen the Star Sibyl around lately-dately.
-- **9038**: You know, with Ajido-Marujido forgiven for his crimes and we guards going unpunished-bunished, I get the feeling that something more importantaru must be going on...
-- **9039**: Maybe, just maybe... She's taking a secretaru vacation!? Hmm, not likely, huh...?
-- **9048**: Lady Zubaba is being all naggy-haggy about the guards helping out with the Dark Dungeon jailbreak.
-- **9049**: As soon as she has any free time on her hands, she uses it to picky-stick on other people's faults. I knew it was too good to lastaru...
+- **7291**: You have some kinda business with us guards here? Then first you've gotta speak to Zokima-Rokima on the top of the steps there. He's our leader-reader!
+- **7292**: A foreigner, eh? Do you have business here, or are you just a lost tourist-bourist? You're in Windurst Walls, by the way, and this is the Heavens Tower gatehouse.
+- **7293**: Head west from here to go to Windurst Waters, south to go to Port Windurst, or step onto the magical blue circle-hircle at the end of the hall here to teleport inside of Heavens Tower.
+- **7298**: You came to inquire about missions, huh? Then ask our guard leader-reader up there. He's certainly-mertainly a man with a mission or two.
+- **7311**: Roger-dodger! Let me see... What do I have for a first rank weakling...erm, I mean, newbie wanna-be adventurer like you...
+- **7312**: How about helping the Orastery to conduct a magic experiment? You might make a good guinea piggy-giggy.
+- **7313**: Seems like it's going down in the eastern magical tower-zower of the Horutoto Ruins out in Sarutabaruta.
+- **7321**: It's a long and higgledy-piggledy road to get the Orastery from here. First, you have to head south past the auction house and down the road that leads to Windurst Woods.
+- **7322**: Then you have to pass through to the western side of Windurst Woods and head out the exit to Port Windurst. You should be able to find the building-duilding by the shore there.
+- **7323**: I'm sure you're going to get totally-rotally lost, so make sure you check your map regularly, okay!?
+- **7326**: Were the Horutoto Ruins as topsy-turvy confusing for you as they are for me? No matter how many times I go there, I still manage to get lost.
+- **7338**: The automaton guards, known as Cardians, are the compilation of animation magic and are really-heally a remarkable invention.
+- **7339**: When they are newly created, they are just like little baby-mabies. As we teach them how to speak and how to fight, they quickly grow smarter and smarter!
+- **7353**: It's only natural that we need to keep patience-matience and put forth constant effort in order to be friends with the Yagudo.
+- **7354**: We're talking about a pack of beastmen. Their way of thinking is totally different from us people-beople. The first and foremost thing to strive for is to understand-ermand the other party.
+- **7364**: Congratulations on advancing-mancing in rank! Say, now that you mention-bention it...just how many ranks are there? I've given up hope of further promotion so have forgotten-rotten.
+- **7377**: I wonder-zonder if it is really true that all of the knowledge of Windurst is stored away in the Library of Magic?
+- **7378**: I've even heard-deard that a book written by the very first Star Sibyl is still preserved as new in there!
+- **7390**: There are two grades of students in the School of Magic. The exceedingly brilliant children-shildren are placed in the advanced class.
+- **7391**: On the other hand, the not-so-exceedingly brilliant students-dutents are placed into the beginners class. That's just the way the world works, I guess-fess...
+- **7396**: I'd like a chance to try one of these large-scale missions, but I don't really think-fink I'm up to it.
+- **7397**: You see, I'm the type of Tarutaru who can't sleep on a different pillow-billow, gets seasick and airsick, and is disliked by every chocobo-kookobo he comes across. I'm just not cut out to travel-ravel.
+- **7409**: The Sibyl Guards are the Mithran warrior-borriors who serve the Star Sibyl.
+- **7410**: They are all so serious-zerious and strong-drong and oh so cool-looking. Why, they are once...no, twice...no, thrice more fly than the other Mithra who stray about this town!
+- **7420**: When I was selected to serve as a guard in front of Heavens Tower, I was over the moon-boon! Just the thought of becoming friend-priends with all those ladies-in-waiting...Hum-hmm...
+- **7421**: That dream was soon shattered-splattered when mean old Zubaba cracked down on the young ladies-in-waiting going outside. It brings tears to my eyes-cries!
+- **7429**: I'm not the least bit jealous-mealous! I've delivered a document with the star emblem on it to the minister-pinister of the Orastery before.
+- **7430**: I can remember I was so nervous-dervous back then. I was in a cold sweat at the thought of what punishment-bunishment would await me if I lost the darned thing.
+- **7436**: No matter how you look at it, you can't help but conclude something major-dajor is going down in Heavens Tower right now.
+- **7437**: The head of the Sibyl Guards, Semih Lafihna, has been going-zoing in and out of here all day. My arms are tired from giving her the Windurstian salute-dalute each time she passes by.
+- **7448**: Where in Vana'diel is this Fei'Yin place-blace? Huh? Way up north past-fast the Beaucedine Glacier?
+- **7449**: That still doesn't tell-jell me where it is... All I can make out is that it's going to be a really cold-old place. Better pack-zack your long johns!
+- **7457**: Don't you sometimes wonder whether people and beastmen can really ever understand one another-brother?
+- **7458**: The Star Sibyl thought that someday we would understand-berstand one another and tried all manner of things to work to that goal, but nothing really changed.
+- **7459**: I wonder-monder if it is, as they say, set in the stars? The movement of the stars never changes-shanges, does it?
+- **7462**: Whether your name goes down in the history-mistory of Windurst or not doesn't matter. What you did was indeed a great deed-yeed!
+- **7463**: Thank you, adventurer-henturer! Please keep using that mighty-righty power of yours for the peace of Windurst!
+- **8717**: Kupipi was saying that there is no huge-luge difference between adventurers whose names go down in history, and those who are not mentioned at all-fall.
+- **8718**: The only difference-mifference between them is that the adventurers whose names go down in history are the ones that remain in people's memories.
+- **8719**: ...So, if it was you who we were talking about-pout, you would sorta be remembered. Vaguely.
+- **8729**: Minister Ajido-Marujido has asked for you? My condolences. He really-deally bosses people around. The Ministers of the Orastery have always been meany-beanies.
+- **8730**: Although with the members of the Mage Academy always on the front line of battle, I guess you gottaru be tough-rough or you couldn't cut it as the head honcho-poncho.
+- **8745**: Even if he is Minister of the Orastery, Ajido-Marujido cannot be forgiven his transgressions. The word of Heavens Tower is the law of Windurst.
+- **8746**: With Ajido-Marujido in the Dark Dungeon, who will become the next Minister of the Orastery? It will have to be a super-dooper wizard who can coordinate both the mighty-fighty War Warlocks and the Operations Division. ...Nobody really spring-pings to mind.
+- **8753**: I havetaru clean my house, too. Adventurers have it easy, since they have moogles to look after their rooms. I'm so jealous-bealous.
+- **8754**: I've heard that if adventurers put furniture in their rooms, the moogles sometimes find hidden items. Lucky-duckies!
+- **8764**: Were you listening properly-doperly? You need to go ask the mission-fission details from Leepe-Hoppe on the second floor of the Rhinostery.
+- **8765**: The Rhinostery probably wants you to help them with their research... They usually have their own adventurers to assist-list them though.
+- **8774**: Out of the five ministries, the Aurastery issues the least mission-bissions.
+- **8775**: When Professor Koru-Moru was actively performing his role as principal, there was all manner of trouble-bubbles... But these days it's been relatively quiet.
+- **8786**: After the Great War twenty years ago, the Cardians started a rebellion-mellion and carried off the previous Manustery minister...
+- **8787**: Following that chaos, the Manustery came to a complete standstill. Minister Apururu has worked extremely-zemely hard to get her ministry back into operation.
+- **8788**: The Cardians created by the Manustery are made to act as shields for the guards. It's time we returned the favor!
+- **9012**: According to the gossip-dossip of the ladies-in-waiting, Semih Lafihna has been to-ing and fro-ing all over the place trying to find information on the bearer of darkness that appeared in Heavens Tower.
+- **9013**: I was standing rightaru here when all the fuss erupted, and I have no memory-zemory of letting such a creature pass into the tower. It must be some sort of ghosty-toasty...
+- **9014**: You gotta hand it to those Mithra. She goes off in search of the thing when most normal people would be running in the other direction. Ghosties give me the shivers...
+- **9019**: Hooray! I never thought that Minister Ajido-Marujido would be forgiven so quickly-trickly for his transgressions!
+- **9020**: Were you there when he talked with the Star Sibyl? I heard that Minister Apururu said she has a lot to thank you for!
+- **9038**: I heard from the ladies-in-waiting that they haven't seen the Star Sibyl around lately-dately.
+- **9039**: You know, with Ajido-Marujido forgiven for his crimes and we guards going unpunished-bunished, I get the feeling that something more importantaru must be going on...
+- **9040**: Maybe, just maybe... She's taking a secretaru vacation!? Hmm, not likely, huh...?
+- **9049**: Lady Zubaba is being all naggy-haggy about the guards helping out with the Dark Dungeon jailbreak.
+- **9050**: As soon as she has any free time on her hands, she uses it to picky-stick on other people's faults. I knew it was too good to lastaru...
 
 ## Events
 
@@ -684,7 +684,7 @@
   1: 0x010F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0110 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0111 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+  4: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "You have some kinda business with us guards here? Then first you've gotta speak to Zokima-Rokima on the top of the steps there. He's our leader-reader!"
   5: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x011C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -718,10 +718,10 @@
   1: 0x012C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x012D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x012E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+  4: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
     → "A foreigner, eh? Do you have business here, or are you just a lost tourist-bourist? You're in Windurst Walls, by the way, and this is the Heavens Tower gatehouse."
   5: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+  6: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "Head west from here to go to Windurst Waters, south to go to Port Windurst, or step onto the magical blue circle-hircle at the end of the hall here to teleport inside of Heavens Tower."
   7: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x013D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -755,7 +755,7 @@
   1: 0x014D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "You came to inquire about missions, huh? Then ask our guard leader-reader up there. He's certainly-mertainly a man with a mission or two."
   5: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x015A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -837,7 +837,7 @@
   1: 0x017A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x017B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x017C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  4: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "Roger-dodger! Let me see... What do I have for a first rank weakling...erm, I mean, newbie wanna-be adventurer like you..."
   5: 0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0187 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
@@ -870,12 +870,12 @@
   1: 0x0194 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0195 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0196 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  4: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+  4: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "How about helping the Orastery to conduct a magic experiment? You might make a good guinea piggy-giggy."
   5: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
   7: 0x01A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  8: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  8: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "Seems like it's going down in the eastern magical tower-zower of the Horutoto Ruins out in Sarutabaruta."
   9: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -908,15 +908,15 @@
   1: 0x01C0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01C1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
+  4: 0x01C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "It's a long and higgledy-piggledy road to get the Orastery from here. First, you have to head south past the auction house and down the road that leads to Windurst Woods."
   5: 0x01CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
+  6: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
     → "Then you have to pass through to the western side of Windurst Woods and head out the exit to Port Windurst. You should be able to find the building-duilding by the shore there."
   7: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   9: 0x01D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
- 10: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+ 10: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "I'm sure you're going to get totally-rotally lost, so make sure you check your map regularly, okay!?"
  11: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
@@ -950,7 +950,7 @@
   1: 0x01F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
+  4: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
     → "Were the Horutoto Ruins as topsy-turvy confusing for you as they are for me? No matter how many times I go there, I still manage to get lost."
   5: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0200 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -984,10 +984,10 @@
   1: 0x0210 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0211 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0212 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+  4: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "The automaton guards, known as Cardians, are the compilation of animation magic and are really-heally a remarkable invention."
   5: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+  6: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "When they are newly created, they are just like little baby-mabies. As we teach them how to speak and how to fight, they quickly grow smarter and smarter!"
   7: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1021,10 +1021,10 @@
   1: 0x0231 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0232 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0233 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  4: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "It's only natural that we need to keep patience-matience and put forth constant effort in order to be friends with the Yagudo."
   5: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+  6: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "We're talking about a pack of beastmen. Their way of thinking is totally different from us people-beople. The first and foremost thing to strive for is to understand-ermand the other party."
   7: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0242 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1058,7 +1058,7 @@
   1: 0x0252 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0253 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0254 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7363*)
+  4: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
     → "Congratulations on advancing-mancing in rank! Say, now that you mention-bention it...just how many ranks are there? I've given up hope of further promotion so have forgotten-rotten."
   5: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x025F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1092,10 +1092,10 @@
   1: 0x026F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0270 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0271 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7376*)
+  4: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
     → "I wonder-zonder if it is really true that all of the knowledge of Windurst is stored away in the Library of Magic?"
   5: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7377*)
+  6: 0x027C [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
     → "I've even heard-deard that a book written by the very first Star Sibyl is still preserved as new in there!"
   7: 0x027F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0280 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1129,10 +1129,10 @@
   1: 0x0290 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0291 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0292 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=7389*)
+  4: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
     → "There are two grades of students in the School of Magic. The exceedingly brilliant children-shildren are placed in the advanced class."
   5: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=7390*)
+  6: 0x029D [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
     → "On the other hand, the not-so-exceedingly brilliant students-dutents are placed into the beginners class. That's just the way the world works, I guess-fess..."
   7: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1167,12 +1167,12 @@
   1: 0x02B1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02B2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7395*)
+  4: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
     → "I'd like a chance to try one of these large-scale missions, but I don't really think-fink I'm up to it."
   5: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   7: 0x02C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  8: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7396*)
+  8: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7397*)
     → "You see, I'm the type of Tarutaru who can't sleep on a different pillow-billow, gets seasick and airsick, and is disliked by every chocobo-kookobo he comes across. I'm just not cut out to travel-ravel."
   9: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
@@ -1206,10 +1206,10 @@
   1: 0x02E0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02E1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7408*)
+  4: 0x02E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
     → "The Sibyl Guards are the Mithran warrior-borriors who serve the Star Sibyl."
   5: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7409*)
+  6: 0x02ED [0x1D] PRINT_EVENT_MESSAGE(message_id=7410*)
     → "They are all so serious-zerious and strong-drong and oh so cool-looking. Why, they are once...no, twice...no, thrice more fly than the other Mithra who stray about this town!"
   7: 0x02F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1243,10 +1243,10 @@
   1: 0x0301 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0302 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0303 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7419*)
+  4: 0x030A [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
     → "When I was selected to serve as a guard in front of Heavens Tower, I was over the moon-boon! Just the thought of becoming friend-priends with all those ladies-in-waiting...Hum-hmm..."
   5: 0x030D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7420*)
+  6: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=7421*)
     → "That dream was soon shattered-splattered when mean old Zubaba cracked down on the young ladies-in-waiting going outside. It brings tears to my eyes-cries!"
   7: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0312 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1280,10 +1280,10 @@
   1: 0x0322 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0323 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0324 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=7428*)
+  4: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
     → "I'm not the least bit jealous-mealous! I've delivered a document with the star emblem on it to the minister-pinister of the Orastery before."
   5: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7429*)
+  6: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
     → "I can remember I was so nervous-dervous back then. I was in a cold sweat at the thought of what punishment-bunishment would await me if I lost the darned thing."
   7: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0333 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1317,10 +1317,10 @@
   1: 0x0343 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0344 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0345 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+  4: 0x034C [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "No matter how you look at it, you can't help but conclude something major-dajor is going down in Heavens Tower right now."
   5: 0x034F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+  6: 0x0350 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "The head of the Sibyl Guards, Semih Lafihna, has been going-zoing in and out of here all day. My arms are tired from giving her the Windurstian salute-dalute each time she passes by."
   7: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0354 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1354,10 +1354,10 @@
   1: 0x0364 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0365 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0366 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+  4: 0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "Where in Vana'diel is this Fei'Yin place-blace? Huh? Way up north past-fast the Beaucedine Glacier?"
   5: 0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+  6: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "That still doesn't tell-jell me where it is... All I can make out is that it's going to be a really cold-old place. Better pack-zack your long johns!"
   7: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0375 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1391,13 +1391,13 @@
   1: 0x0385 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0386 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0387 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
+  4: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
     → "Don't you sometimes wonder whether people and beastmen can really ever understand one another-brother?"
   5: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "The Star Sibyl thought that someday we would understand-berstand one another and tried all manner of things to work to that goal, but nothing really changed."
   7: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+  8: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "I wonder-monder if it is, as they say, set in the stars? The movement of the stars never changes-shanges, does it?"
   9: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x039A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1432,12 +1432,12 @@
   1: 0x03AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+  4: 0x03B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "Whether your name goes down in the history-mistory of Windurst or not doesn't matter. What you did was indeed a great deed-yeed!"
   5: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
   7: 0x03BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0B)
-  8: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+  8: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "Thank you, adventurer-henturer! Please keep using that mighty-righty power of yours for the peace of Windurst!"
   9: 0x03C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x03C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0C)
@@ -1473,15 +1473,15 @@
   1: 0x03D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8716*)
+  4: 0x03E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8717*)
     → "Kupipi was saying that there is no huge-luge difference between adventurers whose names go down in history, and those who are not mentioned at all-fall."
   5: 0x03E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8717*)
+  6: 0x03E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8718*)
     → "The only difference-mifference between them is that the adventurers whose names go down in history are the ones that remain in people's memories."
   7: 0x03E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
   9: 0x03F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
- 10: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8718*)
+ 10: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8719*)
     → "...So, if it was you who we were talking about-pout, you would sorta be remembered. Vaguely."
  11: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x03FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
@@ -1517,10 +1517,10 @@
   1: 0x041A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x041B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x041C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=8728*)
+  4: 0x0423 [0x1D] PRINT_EVENT_MESSAGE(message_id=8729*)
     → "Minister Ajido-Marujido has asked for you? My condolences. He really-deally bosses people around. The Ministers of the Orastery have always been meany-beanies."
   5: 0x0426 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0427 [0x1D] PRINT_EVENT_MESSAGE(message_id=8729*)
+  6: 0x0427 [0x1D] PRINT_EVENT_MESSAGE(message_id=8730*)
     → "Although with the members of the Mage Academy always on the front line of battle, I guess you gottaru be tough-rough or you couldn't cut it as the head honcho-poncho."
   7: 0x042A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x042B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1555,12 +1555,12 @@
   1: 0x043B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x043C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x043D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0D)
-  4: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=8744*)
+  4: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=8745*)
     → "Even if he is Minister of the Orastery, Ajido-Marujido cannot be forgiven his transgressions. The word of Heavens Tower is the law of Windurst."
   5: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0448 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0E)
   7: 0x044F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  8: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=8745*)
+  8: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
     → "With Ajido-Marujido in the Dark Dungeon, who will become the next Minister of the Orastery? It will have to be a super-dooper wizard who can coordinate both the mighty-fighty War Warlocks and the Operations Division. ...Nobody really spring-pings to mind."
   9: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x045A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1595,12 +1595,12 @@
   1: 0x046A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x046B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x046C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=8752*)
+  4: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=8753*)
     → "I havetaru clean my house, too. Adventurers have it easy, since they have moogles to look after their rooms. I'm so jealous-bealous."
   5: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0477 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   7: 0x047E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  8: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=8753*)
+  8: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=8754*)
     → "I've heard that if adventurers put furniture in their rooms, the moogles sometimes find hidden items. Lucky-duckies!"
   9: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0489 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
@@ -1636,12 +1636,12 @@
   1: 0x0499 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x049A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x049B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x04A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8763*)
+  4: 0x04A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8764*)
     → "Were you listening properly-doperly? You need to go ask the mission-fission details from Leepe-Hoppe on the second floor of the Rhinostery."
   5: 0x04A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
   7: 0x04AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  8: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8764*)
+  8: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8765*)
     → "The Rhinostery probably wants you to help them with their research... They usually have their own adventurers to assist-list them though."
   9: 0x04B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x04B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
@@ -1677,10 +1677,10 @@
   1: 0x04D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8773*)
+  4: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
     → "Out of the five ministries, the Aurastery issues the least mission-bissions."
   5: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8774*)
+  6: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8775*)
     → "When Professor Koru-Moru was actively performing his role as principal, there was all manner of trouble-bubbles... But these days it's been relatively quiet."
   7: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1716,17 +1716,17 @@
   1: 0x04F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04F8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=8785*)
+  4: 0x0500 [0x1D] PRINT_EVENT_MESSAGE(message_id=8786*)
     → "After the Great War twenty years ago, the Cardians started a rebellion-mellion and carried off the previous Manustery minister..."
   5: 0x0503 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0504 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   7: 0x050B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  8: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=8786*)
+  8: 0x0512 [0x1D] PRINT_EVENT_MESSAGE(message_id=8787*)
     → "Following that chaos, the Manustery came to a complete standstill. Minister Apururu has worked extremely-zemely hard to get her ministry back into operation."
   9: 0x0515 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0516 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
  11: 0x051D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0F)
- 12: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8787*)
+ 12: 0x0524 [0x1D] PRINT_EVENT_MESSAGE(message_id=8788*)
     → "The Cardians created by the Manustery are made to act as shields for the guards. It's time we returned the favor!"
  13: 0x0527 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0528 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x10)
@@ -1762,17 +1762,17 @@
   1: 0x0538 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0539 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x053A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x0541 [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
+  4: 0x0541 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
     → "According to the gossip-dossip of the ladies-in-waiting, Semih Lafihna has been to-ing and fro-ing all over the place trying to find information on the bearer of darkness that appeared in Heavens Tower."
   5: 0x0544 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0545 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   7: 0x054C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  8: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
+  8: 0x0553 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
     → "I was standing rightaru here when all the fuss erupted, and I have no memory-zemory of letting such a creature pass into the tower. It must be some sort of ghosty-toasty..."
   9: 0x0556 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0557 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
  11: 0x055E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0F)
- 12: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
+ 12: 0x0565 [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
     → "You gotta hand it to those Mithra. She goes off in search of the thing when most normal people would be running in the other direction. Ghosties give me the shivers..."
  13: 0x0568 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0569 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x10)
@@ -1808,11 +1808,11 @@
   2: 0x057A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x057B [0x6E] EventEntity uses emote 11*
   4: 0x0582 [0x99] Wait for EventEntity animation to complete
-  5: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+  5: 0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "Hooray! I never thought that Minister Ajido-Marujido would be forgiven so quickly-trickly for his transgressions!"
   6: 0x058A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x058B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  8: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+  8: 0x0592 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "Were you there when he talked with the Star Sibyl? I heard that Minister Apururu said she has a lot to thank you for!"
   9: 0x0595 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0596 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
@@ -1848,17 +1848,17 @@
   1: 0x05A6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05A7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x07)
-  4: 0x05AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
+  4: 0x05AF [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
     → "I heard from the ladies-in-waiting that they haven't seen the Star Sibyl around lately-dately."
   5: 0x05B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05B3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x08)
   7: 0x05BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x09)
-  8: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
+  8: 0x05C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
     → "You know, with Ajido-Marujido forgiven for his crimes and we guards going unpunished-bunished, I get the feeling that something more importantaru must be going on..."
   9: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0A)
  11: 0x05CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0F)
- 12: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
+ 12: 0x05D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
     → "Maybe, just maybe... She's taking a secretaru vacation!? Hmm, not likely, huh...?"
  13: 0x05D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x05D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x10)
@@ -1893,12 +1893,12 @@
   1: 0x05E7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05E8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x01)
-  4: 0x05F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9048*)
+  4: 0x05F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
     → "Lady Zubaba is being all naggy-haggy about the guards helping out with the Dark Dungeon jailbreak."
   5: 0x05F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x02)
   7: 0x05FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0D)
-  8: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=9049*)
+  8: 0x0602 [0x1D] PRINT_EVENT_MESSAGE(message_id=9050*)
     → "As soon as she has any free time on her hands, she uses it to picky-stick on other people's faults. I knew it was too good to lastaru..."
   9: 0x0605 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0606 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pakke-Pokke (ID: 17756172/0x010EF00C), tag_num=0x0E)

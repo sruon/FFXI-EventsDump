@@ -23,36 +23,36 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D34      |        7476 |
-|       1 | 0x1D35      |        7477 |
+|       0 | 0x1D35      |        7477 |
+|       1 | 0x1D36      |        7478 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0005      |           5 |
 |       5 | 0x0413      |        1043 |
 |       6 | 0x0006      |           6 |
-|       7 | 0x1D36      |        7478 |
+|       7 | 0x1D37      |        7479 |
 |       8 | 0x003C      |          60 |
 |       9 | 0x00F0      |         240 |
-|      10 | 0x1D37      |        7479 |
-|      11 | 0x1D38      |        7480 |
-|      12 | 0x1D39      |        7481 |
+|      10 | 0x1D38      |        7480 |
+|      11 | 0x1D39      |        7481 |
+|      12 | 0x1D3A      |        7482 |
 |      13 | 0x0001      |           1 |
-|      14 | 0x1D3A      |        7482 |
-|      15 | 0x1D3B      |        7483 |
+|      14 | 0x1D3B      |        7483 |
+|      15 | 0x1D3C      |        7484 |
 |      16 | 0x00C9      |         201 |
-|      17 | 0x1D3C      |        7484 |
+|      17 | 0x1D3D      |        7485 |
 
 ## String References
 
-- **7476**: What am I doing here? Oh, just business. Nothing you should worry about.
-- **7477**: You've talked to my partner, I assume? Ah, but you don't meet the requirements. You must come here with a party of two or more members level fifteen and below.
-- **7478**: You've talked to my partner, I assume? Stand in a line--let me see you all.
-- **7479**: Okay, you check out. So, how was your trip here? Was it fun, or was it rough?
-- **7480**: How was your trip here? [Fun!/Rough.]
-- **7481**: I see...that means people would not care to pay money to come here, then.
-- **7482**: I see...so that means no one would want to come here, however good the sights may be.
-- **7483**: Well, some details have to be smoothed out--something my partner isn't too good at--but it isn't a bad business idea. Here, take this, and thanks for coming.
-- **7484**: There must be some money to be made with the sights here. It really isn't a bad idea...
+- **7477**: What am I doing here? Oh, just business. Nothing you should worry about.
+- **7478**: You've talked to my partner, I assume? Ah, but you don't meet the requirements. You must come here with a party of two or more members level fifteen and below.
+- **7479**: You've talked to my partner, I assume? Stand in a line--let me see you all.
+- **7480**: Okay, you check out. So, how was your trip here? Was it fun, or was it rough?
+- **7481**: How was your trip here? [Fun!/Rough.]
+- **7482**: I see...that means people would not care to pay money to come here, then.
+- **7483**: I see...so that means no one would want to come here, however good the sights may be.
+- **7484**: Well, some details have to be smoothed out--something my partner isn't too good at--but it isn't a bad business idea. Here, take this, and thanks for coming.
+- **7485**: There must be some money to be made with the sights here. It really isn't a bad idea...
 
 ## Events
 
@@ -98,7 +98,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "What am I doing here? Oh, just business. Nothing you should worry about."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -126,7 +126,7 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
     → "You've talked to my partner, I assume? Ah, but you don't meet the requirements. You must come here with a party of two or more members level fifteen and below."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0015 [0x21] END_EVENT
@@ -193,7 +193,7 @@
  12: 0x006A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x007B [0x79] EventEntity looks at LocalPlayer (Basic look)
  14: 0x0085 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [EventEntity, EventEntity], work=[6*, 0*]
- 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+ 15: 0x0096 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "You've talked to my partner, I assume? Stand in a line--let me see you all."
  16: 0x0099 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x009A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -202,22 +202,22 @@
  20: 0x00CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[6*, 0*]
  21: 0x00DC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
  22: 0x00EB [0x1C] WAIT(240* ticks)
- 23: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+ 23: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "Okay, you check out. So, how was your trip here? Was it fun, or was it rough?"
  24: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00F2 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 26: 0x00F7 [0x24] CREATE_DIALOG(message_id=7480*, default_option=0*, option_flags=0*)
+ 26: 0x00F7 [0x24] CREATE_DIALOG(message_id=7481*, default_option=0*, option_flags=0*)
     → "How was your trip here? [Fun!/Rough.]"
  27: 0x00FE [0x25] WAIT_DIALOG_SELECT()
  28: 0x00FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011D
  29: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 30: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+ 30: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "I see...that means people would not care to pay money to come here, then."
  31: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x011A [0x01] GOTO 0x013B
  33: 0x011D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013B
  34: 0x0125 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=60*
- 35: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+ 35: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "I see...so that means no one would want to come here, however good the sights may be."
  36: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0138 [0x01] GOTO 0x013B
@@ -226,7 +226,7 @@ SUBROUTINE_013B:
  38: 0x013B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=60*
  39: 0x014A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  40: 0x0157 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=60*
- 41: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+ 41: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
     → "Well, some details have to be smoothed out--something my partner isn't too good at--but it isn't a bad business idea. Here, take this, and thanks for coming."
  42: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x016A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -260,7 +260,7 @@ SUBROUTINE_013B:
 
 ```
   0: 0x01BD [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+  1: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "There must be some money to be made with the sights here. It really isn't a bad idea..."
   2: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01C6 [0x21] END_EVENT

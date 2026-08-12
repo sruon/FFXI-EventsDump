@@ -23,32 +23,32 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x1F6B      |        8043 |
-|       2 | 0x1F6C      |        8044 |
-|       3 | 0x1F6D      |        8045 |
+|       1 | 0x1F6C      |        8044 |
+|       2 | 0x1F6D      |        8045 |
+|       3 | 0x1F6E      |        8046 |
 |       4 | 0x0003      |           3 |
-|       5 | 0x1F6F      |        8047 |
-|       6 | 0x1F6E      |        8046 |
+|       5 | 0x1F70      |        8048 |
+|       6 | 0x1F6F      |        8047 |
 |       7 | 0x0000      |           0 |
-|       8 | 0x1F70      |        8048 |
-|       9 | 0x1F71      |        8049 |
-|      10 | 0x1F72      |        8050 |
+|       8 | 0x1F71      |        8049 |
+|       9 | 0x1F72      |        8050 |
+|      10 | 0x1F73      |        8051 |
 |      11 | 0x00C9      |         201 |
-|      12 | 0x1F73      |        8051 |
-|      13 | 0x1F74      |        8052 |
+|      12 | 0x1F74      |        8052 |
+|      13 | 0x1F75      |        8053 |
 
 ## String References
 
-- **8043**: ...Five, six. Curses! Is this all that remains!? If those supplies don't arrive soon, we're as good as done for!
-- **8044**: What is this? Do my eyes deceive me!?
-- **8045**: Our supplies! I thought for sure we had lost them for good. You have no idea what this means to us, friend.
-- **8046**: Still, this will not sustain us forever. If you encounter any more of the waylaid supplies, promise that you will deliver them here to me.
-- **8047**: ...Yes, this should be all of them. Excellent! This should keep this outpost in good trim for the foreseeable future.
-- **8048**: What's that you say? You've heard we were looking for a few good [men/women]?
-- **8049**: Ahaha! For a labyrinth of crags and craters, word certainly travels fast in this chasm. Of course, we'd be honored to welcome you to our ranks.
-- **8050**: Currently, our most pressing need is in maintaining our defenses against the hordes. Speak with the resistance sapper over there to learn how you can do your part.
-- **8051**: I, for one, have no intention of laying down my life in this barren wasteland. No, there are too many people depending on me, too many things I still must accomplish...
-- **8052**: Surely it is the same for you, friend? That is why we must band together, and drive back the fiends at all costs!
+- **8044**: ...Five, six. Curses! Is this all that remains!? If those supplies don't arrive soon, we're as good as done for!
+- **8045**: What is this? Do my eyes deceive me!?
+- **8046**: Our supplies! I thought for sure we had lost them for good. You have no idea what this means to us, friend.
+- **8047**: Still, this will not sustain us forever. If you encounter any more of the waylaid supplies, promise that you will deliver them here to me.
+- **8048**: ...Yes, this should be all of them. Excellent! This should keep this outpost in good trim for the foreseeable future.
+- **8049**: What's that you say? You've heard we were looking for a few good [men/women]?
+- **8050**: Ahaha! For a labyrinth of crags and craters, word certainly travels fast in this chasm. Of course, we'd be honored to welcome you to our ranks.
+- **8051**: Currently, our most pressing need is in maintaining our defenses against the hordes. Speak with the resistance sapper over there to learn how you can do your part.
+- **8052**: I, for one, have no intention of laying down my life in this barren wasteland. No, there are too many people depending on me, too many things I still must accomplish...
+- **8053**: Surely it is the same for you, friend? That is why we must band together, and drive back the fiends at all costs!
 
 ## Events
 
@@ -99,7 +99,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
     → "...Five, six. Curses! Is this all that remains!? If those supplies don't arrive soon, we're as good as done for!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
@@ -139,33 +139,33 @@
   1: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0032 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0033 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
+  4: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
     → "What is this? Do my eyes deceive me!?"
   5: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
+  6: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
     → "Our supplies! I thought for sure we had lost them for good. You have no idea what this means to us, friend."
   7: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x003C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
   9: 0x004B [0x02] IF !(Work_Zone[3] < 3*) GOTO 0x005A
- 10: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
+ 10: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
     → "...Yes, this should be all of them. Excellent! This should keep this outpost in good trim for the foreseeable future."
  11: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0057 [0x01] GOTO 0x005E
- 13: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
+ 13: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
     → "Still, this will not sustain us forever. If you encounter any more of the waylaid supplies, promise that you will deliver them here to me."
  14: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_005E:
  15: 0x005E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*
  16: 0x006D [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x00B0
- 17: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8048*)
+ 17: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
     → "What's that you say? You've heard we were looking for a few good [men/women]?"
  18: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0079 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
- 20: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8049*)
+ 20: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
     → "Ahaha! For a labyrinth of crags and craters, word certainly travels fast in this chasm. Of course, we'd be honored to welcome you to our ranks."
  21: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8050*)
+ 22: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
     → "Currently, our most pressing need is in maintaining our defenses against the hordes. Speak with the resistance sapper over there to learn how you can do your part."
  23: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0090 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*
@@ -201,14 +201,14 @@ SUBROUTINE_005E:
   2: 0x00B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
   4: 0x00C8 [0x02] IF !(Work_Zone[3] < 3*) GOTO 0x00DB
-  5: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8051*)
+  5: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
     → "I, for one, have no intention of laying down my life in this barren wasteland. No, there are too many people depending on me, too many things I still must accomplish..."
   6: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8052*)
+  7: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8053*)
     → "Surely it is the same for you, friend? That is why we must band together, and drive back the fiends at all costs!"
   8: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00D8 [0x01] GOTO 0x00DF
- 10: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
+ 10: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8047*)
     → "Still, this will not sustain us forever. If you encounter any more of the waylaid supplies, promise that you will deliver them here to me."
  11: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 

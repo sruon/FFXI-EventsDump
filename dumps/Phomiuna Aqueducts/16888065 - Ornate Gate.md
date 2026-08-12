@@ -27,16 +27,16 @@
 |       4 | 0x00F4      |         244 |
 |       5 | 0x0078      |         120 |
 |       6 | 0x00B4      |         180 |
-|       7 | 0x1CD5      |        7381 |
-|       8 | 0x1CD6      |        7382 |
-|       9 | 0x1CD7      |        7383 |
+|       7 | 0x1CD6      |        7382 |
+|       8 | 0x1CD7      |        7383 |
+|       9 | 0x1CD8      |        7384 |
 |      10 | 0x0005      |           5 |
 |      11 | 0x0006      |           6 |
-|      12 | 0x1CD8      |        7384 |
+|      12 | 0x1CD9      |        7385 |
 |      13 | 0x0008      |           8 |
 |      14 | 0x005A      |          90 |
-|      15 | 0x1CD9      |        7385 |
-|      16 | 0x1CDA      |        7386 |
+|      15 | 0x1CDA      |        7386 |
+|      16 | 0x1CDB      |        7387 |
 |      17 | 0x0064      |         100 |
 
 ## Events
@@ -159,16 +159,16 @@
  23: 0x0098 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  24: 0x00A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[120*, 0*]
  25: 0x00BA [0x1C] WAIT(120* ticks)
- 26: 0x00BD [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7381*]:
+ 26: 0x00BD [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7382*]:
     → "So this is the precious vessel..."
  27: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00C5 [0x52] END_LOAD_SCHEDULER: End scheduler "s001" with entities [EventEntity, EventEntity], work=120*
  29: 0x00D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [EventEntity, EventEntity], work=[120*, 0*]
- 30: 0x00E5 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7382*]:
+ 30: 0x00E5 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7383*]:
     → "But what is such an important object doing in a place like this?"
  31: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x09)
- 33: 0x00F4 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7383*]:
+ 33: 0x00F4 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7384*]:
     → "In any case, it should prove to be a valuable asset."
  34: 0x00FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x00FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x0A)
@@ -187,7 +187,7 @@ SUBROUTINE_015B:
  46: 0x0166 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x16)
  47: 0x016D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x0B)
  48: 0x0174 [0x79] Nag'molada (ID: 16888109/0x0101B12D) looks at ??? (ID: 16888112/0x0101B130) (Basic look)
- 49: 0x017E [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7384*]:
+ 49: 0x017E [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7385*]:
     → "My only problem is that the circumstances have changed this time."
  50: 0x0185 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0186 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x0C)
@@ -218,12 +218,12 @@ SUBROUTINE_0238:
  72: 0x0242 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nag'molada (ID: 16888109/0x0101B12D) Render.Flags0 and Render.Flags3 conditions are met
  73: 0x0247 [0x1C] WAIT(90* ticks)
  74: 0x024A [0x27] REQ_SET(priority=0x0B, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x0F)
- 75: 0x0251 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7385*]:
+ 75: 0x0251 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7386*]:
     → "What is this? You came here looking for me?"
  76: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0259 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Nag'molada (ID: 16888109/0x0101B12D))
  78: 0x025F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x01)
- 79: 0x0266 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7386*]:
+ 79: 0x0266 [0x2B] Nag'molada (ID: 16888109/0x0101B12D) [7387*]:
     → "Very well. Let us return to the safehold..."
  80: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x026E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nag'molada (ID: 16888109/0x0101B12D), tag_num=0x02)

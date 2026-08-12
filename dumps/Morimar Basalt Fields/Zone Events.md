@@ -823,7 +823,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 01E0:                                            32 1B                2.
-01F0: 80 1F 00 31 80 32 80 33  80 1F 01 1E 00 93 10 01  ...1.2.3........
+01F0: 80 1F 00 31 80 32 80 33  80 1F 01 1E 04 93 10 01  ...1.2.3........
 0200: 6F 70 00                                          op.             
 ```
 
@@ -833,7 +833,7 @@
   0: 0x01EE [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x01F1 [0x1F] MOVE_ENTITY: EventEntity moves to X=325.687*, Z=396.905*, Y=0.083*
   2: 0x01F9 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x01FB [0x1E] EventEntity looks at Sylvie (ID: 17863424/0x01109300) and starts talking
+  3: 0x01FB [0x1E] EventEntity looks at Sylvie (ID: 17863428/0x01109304) and starts talking
   4: 0x0200 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0201 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0202 [0x00] END_REQSTACK()
@@ -1055,7 +1055,7 @@
 0320:                                33 00 37 47 80 48            3.7G.H
 0330: 80 49 80 4A 80 03 04 00  07 7F 1A 18 04 66 05 00  .I.J.........f..
 0340: F8 FF FF 7F F8 FF FF 7F  73 68 61 31 53 F8 FF FF  ........sha1S...
-0350: 7F F8 FF FF 7F 73 68 61  31 4A F0 FF FF 7F 05 93  .....sha1J......
+0350: 7F F8 FF FF 7F 73 68 61  31 4A F0 FF FF 7F 09 93  .....sha1J......
 0360: 10 01 6F 70 6E F8 FF FF  7F 15 80 99 F8 FF FF 7F  ..opn...........
 0370: 1C 03 80 00                                       ....            
 ```
@@ -1069,7 +1069,7 @@
   3: 0x033A [0x1A] CALL_SUBROUTINE(address=0x0418)
   4: 0x033D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[5]
   5: 0x034C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [EventEntity, EventEntity]
-  6: 0x0359 [0x4A] LocalPlayer looks at Monster2 (ID: 17863429/0x01109305)
+  6: 0x0359 [0x4A] LocalPlayer looks at Monster2 (ID: 17863433/0x01109309)
   7: 0x0362 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x0363 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   9: 0x0364 [0x6E] EventEntity uses emote 21*
@@ -1094,7 +1094,7 @@
 0370:             37 3F 80 40  80 3C 80 3E 80 03 04 00      7?.@.<.>....
 0380: 07 7F 1A 18 04 66 05 00  F8 FF FF 7F F8 FF FF 7F  .....f..........
 0390: 73 68 61 31 53 F8 FF FF  7F F8 FF FF 7F 73 68 61  sha1S........sha
-03A0: 31 4A F0 FF FF 7F 05 93  10 01 6F 70 6E F8 FF FF  1J........opn...
+03A0: 31 4A F0 FF FF 7F 09 93  10 01 6F 70 6E F8 FF FF  1J........opn...
 03B0: 7F 15 80 99 F8 FF FF 7F  1C 03 80 00              ............    
 ```
 
@@ -1106,7 +1106,7 @@
   2: 0x0382 [0x1A] CALL_SUBROUTINE(address=0x0418)
   3: 0x0385 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [EventEntity, EventEntity], work=ExtData[1]->WorkLocal[5]
   4: 0x0394 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "sha1" with entities [EventEntity, EventEntity]
-  5: 0x03A1 [0x4A] LocalPlayer looks at Monster2 (ID: 17863429/0x01109305)
+  5: 0x03A1 [0x4A] LocalPlayer looks at Monster2 (ID: 17863433/0x01109309)
   6: 0x03AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x03AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x03AC [0x6E] EventEntity uses emote 21*

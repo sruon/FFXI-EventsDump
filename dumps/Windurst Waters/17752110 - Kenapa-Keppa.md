@@ -80,86 +80,86 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3C5F      |       15455 |
+|       0 | 0x3C60      |       15456 |
 |       1 | 0x0028      |          40 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1F59      |        8025 |
-|       4 | 0x1F5A      |        8026 |
-|       5 | 0x1F5B      |        8027 |
-|       6 | 0x1F5C      |        8028 |
-|       7 | 0x1F63      |        8035 |
-|       8 | 0x1F64      |        8036 |
-|       9 | 0x1DC3      |        7619 |
-|      10 | 0x1DC4      |        7620 |
-|      11 | 0x1DC5      |        7621 |
-|      12 | 0x1CE6      |        7398 |
-|      13 | 0x1F6A      |        8042 |
-|      14 | 0x1F6B      |        8043 |
-|      15 | 0x1F6C      |        8044 |
-|      16 | 0x1F6D      |        8045 |
-|      17 | 0x1F80      |        8064 |
-|      18 | 0x1F81      |        8065 |
-|      19 | 0x1F82      |        8066 |
-|      20 | 0x1F84      |        8068 |
-|      21 | 0x1F91      |        8081 |
-|      22 | 0x1F92      |        8082 |
-|      23 | 0x1F93      |        8083 |
+|       3 | 0x1F5A      |        8026 |
+|       4 | 0x1F5B      |        8027 |
+|       5 | 0x1F5C      |        8028 |
+|       6 | 0x1F5D      |        8029 |
+|       7 | 0x1F64      |        8036 |
+|       8 | 0x1F65      |        8037 |
+|       9 | 0x1DC4      |        7620 |
+|      10 | 0x1DC5      |        7621 |
+|      11 | 0x1DC6      |        7622 |
+|      12 | 0x1CE7      |        7399 |
+|      13 | 0x1F6B      |        8043 |
+|      14 | 0x1F6C      |        8044 |
+|      15 | 0x1F6D      |        8045 |
+|      16 | 0x1F6E      |        8046 |
+|      17 | 0x1F81      |        8065 |
+|      18 | 0x1F82      |        8066 |
+|      19 | 0x1F83      |        8067 |
+|      20 | 0x1F85      |        8069 |
+|      21 | 0x1F92      |        8082 |
+|      22 | 0x1F93      |        8083 |
+|      23 | 0x1F94      |        8084 |
 |      24 | 0x0001      |           1 |
 |      25 | 0x00C9      |         201 |
 |      26 | 0x0000      |           0 |
-|      27 | 0x199B      |        6555 |
-|      28 | 0x1F94      |        8084 |
-|      29 | 0x1F95      |        8085 |
-|      30 | 0x1F96      |        8086 |
-|      31 | 0x1F97      |        8087 |
-|      32 | 0x1F98      |        8088 |
-|      33 | 0x1F99      |        8089 |
-|      34 | 0x1F9A      |        8090 |
-|      35 | 0x1FA4      |        8100 |
-|      36 | 0x1FA5      |        8101 |
-|      37 | 0x1FA6      |        8102 |
-|      38 | 0x1FA7      |        8103 |
-|      39 | 0x1FA8      |        8104 |
-|      40 | 0x1FA9      |        8105 |
-|      41 | 0x1FAA      |        8106 |
-|      42 | 0x1FAB      |        8107 |
-|      43 | 0x1FAC      |        8108 |
-|      44 | 0x1FAD      |        8109 |
-|      45 | 0x1FB6      |        8118 |
-|      46 | 0x1FB7      |        8119 |
-|      47 | 0x1FB2      |        8114 |
-|      48 | 0x1FB3      |        8115 |
-|      49 | 0x1FB4      |        8116 |
-|      50 | 0x1FB5      |        8117 |
-|      51 | 0x1FB9      |        8121 |
-|      52 | 0x1FBB      |        8123 |
-|      53 | 0x2178      |        8568 |
-|      54 | 0x217C      |        8572 |
-|      55 | 0x217D      |        8573 |
-|      56 | 0x217E      |        8574 |
-|      57 | 0x217F      |        8575 |
-|      58 | 0x2180      |        8576 |
-|      59 | 0x2181      |        8577 |
-|      60 | 0x260E      |        9742 |
-|      61 | 0x260F      |        9743 |
-|      62 | 0x2620      |        9760 |
-|      63 | 0x2621      |        9761 |
+|      27 | 0x199C      |        6556 |
+|      28 | 0x1F95      |        8085 |
+|      29 | 0x1F96      |        8086 |
+|      30 | 0x1F97      |        8087 |
+|      31 | 0x1F98      |        8088 |
+|      32 | 0x1F99      |        8089 |
+|      33 | 0x1F9A      |        8090 |
+|      34 | 0x1F9B      |        8091 |
+|      35 | 0x1FA5      |        8101 |
+|      36 | 0x1FA6      |        8102 |
+|      37 | 0x1FA7      |        8103 |
+|      38 | 0x1FA8      |        8104 |
+|      39 | 0x1FA9      |        8105 |
+|      40 | 0x1FAA      |        8106 |
+|      41 | 0x1FAB      |        8107 |
+|      42 | 0x1FAC      |        8108 |
+|      43 | 0x1FAD      |        8109 |
+|      44 | 0x1FAE      |        8110 |
+|      45 | 0x1FB7      |        8119 |
+|      46 | 0x1FB8      |        8120 |
+|      47 | 0x1FB3      |        8115 |
+|      48 | 0x1FB4      |        8116 |
+|      49 | 0x1FB5      |        8117 |
+|      50 | 0x1FB6      |        8118 |
+|      51 | 0x1FBA      |        8122 |
+|      52 | 0x1FBC      |        8124 |
+|      53 | 0x2179      |        8569 |
+|      54 | 0x217D      |        8573 |
+|      55 | 0x217E      |        8574 |
+|      56 | 0x217F      |        8575 |
+|      57 | 0x2180      |        8576 |
+|      58 | 0x2181      |        8577 |
+|      59 | 0x2182      |        8578 |
+|      60 | 0x260F      |        9743 |
+|      61 | 0x2610      |        9744 |
+|      62 | 0x2621      |        9761 |
+|      63 | 0x2622      |        9762 |
 |      64 | 0x3AA4      |       15012 |
 |      65 | 0xFFFCFA4A  |  4294769226 |
 |      66 | 0xFFFFEF66  |  4294963046 |
 |      67 | 0x09AF      |        2479 |
-|      68 | 0x269B      |        9883 |
-|      69 | 0x269F      |        9887 |
-|      70 | 0x26A0      |        9888 |
-|      71 | 0x26A9      |        9897 |
-|      72 | 0x26B3      |        9907 |
-|      73 | 0x26B4      |        9908 |
-|      74 | 0x26B5      |        9909 |
-|      75 | 0x26B6      |        9910 |
-|      76 | 0x26BE      |        9918 |
-|      77 | 0x26BF      |        9919 |
-|      78 | 0x26C0      |        9920 |
-|      79 | 0x26C9      |        9929 |
+|      68 | 0x269C      |        9884 |
+|      69 | 0x26A0      |        9888 |
+|      70 | 0x26A1      |        9889 |
+|      71 | 0x26AA      |        9898 |
+|      72 | 0x26B4      |        9908 |
+|      73 | 0x26B5      |        9909 |
+|      74 | 0x26B6      |        9910 |
+|      75 | 0x26B7      |        9911 |
+|      76 | 0x26BF      |        9919 |
+|      77 | 0x26C0      |        9920 |
+|      78 | 0x26C1      |        9921 |
+|      79 | 0x26CA      |        9930 |
 |      80 | 0x5E9A      |       24218 |
 |      81 | 0xFFFD0AD3  |  4294773459 |
 |      82 | 0xFFFFEB7E  |  4294962046 |
@@ -167,77 +167,77 @@
 
 ## String References
 
-- **6555**: Obtained $0 gil.
-- **7398**: Hmm...? Huhummm...?
-- **7619**: Food...bag...offering...
-- **7620**: from...Culi...narians'...Guild...
-- **7621**: has...juice...in...it...!
-- **8025**: I...am...Kenapa-Keppa...
-- **8026**: Yeah...that's...my...erh...name...
-- **8027**: We...mainly...study...nature...here...
-- **8028**: Y'know...plants...and...animals... ...and...that...kinda...thing...?
-- **8035**: The...glowing...plants... you...see...around...town...
-- **8036**: ...They're... "Fluoro-flora"...
-- **8042**: Our...work...
-- **8043**: ...never...works...
-- **8044**: Cause...we...always...
-- **8045**: ...take...our...eyes...off...it...
-- **8064**: My...order...?
-- **8065**: ...? Oh...food...? ...Um...?
-- **8066**: A... A... A...boiled...egg...! Yeah...that's...what...I'll...have...
-- **8068**: Or...whatever...
-- **8081**: ......!
-- **8082**: You...under...stood...me...?
-- **8083**: Thanks...a...lot...!
-- **8084**: ...<Grin>...
-- **8085**: ......?
-- **8086**: ...No...good...? But...I...can't...hold...out... ...much...longer...<sniff>...
-- **8087**: ......?
-- **8088**: How...did...you...know...? ...This...is...just...what... ...I...wanted...
-- **8089**: ......?
-- **8090**: Are...you...giving...this...away...? ...Oh...? ...Money...? ...Here...
-- **8100**: ...... Oh-no...
-- **8101**: ...Hey...erh... ...Can...you...help...me...?
-- **8102**: ...Bag...delivered...to...Mhaura...
-- **8103**: ...Please...bring...here... Quickly...
-- **8104**: ...Must...hurry...
-- **8105**: Li...sten...to...re...quest? [Ac...cept.../Re...fuse...]
-- **8106**: ...Um...
-- **8107**: Must...carry...over...night...
-- **8108**: Must...get...back... ...be...fore...dawn...
-- **8109**: ... Please... Carry...bag...back... ...before...day...break...
-- **8114**: ...Aa\`h......
-- **8115**: ...... Past...dawn...
-- **8116**: ...<sniff>... ...I...can't...pay...you...now...
-- **8117**: ...All...that...for...no...thing...
-- **8118**: ...Phew...
-- **8119**: ...Good... ...You...made...it...
-- **8121**: ...?
-- **8123**: ...of...fluoro-flora...
-- **8568**: ...Umm...well...?
-- **8572**: ......?
-- **8573**: ...Umm...
-- **8574**: ...They're...found...in...
-- **8575**: ...Tah...ron...gi...Can...yon...
-- **8576**: ...But...
-- **8577**: ...it's...dan...ger...ous...!
-- **9742**: ...Please...save...Minister...Rukususu...
-- **9743**: ...<sob>...<sniff>...
-- **9760**: ...Thank you...for...saving...the minister...
-- **9761**: ...<grin>...
-- **9883**: We...could...ask...the...minister...
-- **9887**: Miteslime...is...the...secretion...of...the...starmite...bug...
-- **9888**: The...starmite...is an...insect...that...feeds...on...tree...roots...
-- **9897**: It...should be...okay...to give...emergency...authorization...to enter...the canal... Should be...
-- **9907**: Great...discoveries...are...being made...all...over...
-- **9908**: Researchers...researching...fauna...have it...tough...
-- **9909**: So...adventurers...with...Rhinostery...authorization...
-- **9910**: have...all...left...Windurst...to help...
-- **9918**: ...!
-- **9919**: You...made it...back...okay?
-- **9920**: Oh...good...
-- **9929**: Good...luck...!
-- **15455**: Thank...you...for...lovely... ...Starlight...Celebration...present...
+- **6556**: Obtained $0 gil.
+- **7399**: Hmm...? Huhummm...?
+- **7620**: Food...bag...offering...
+- **7621**: from...Culi...narians'...Guild...
+- **7622**: has...juice...in...it...!
+- **8026**: I...am...Kenapa-Keppa...
+- **8027**: Yeah...that's...my...erh...name...
+- **8028**: We...mainly...study...nature...here...
+- **8029**: Y'know...plants...and...animals... ...and...that...kinda...thing...?
+- **8036**: The...glowing...plants... you...see...around...town...
+- **8037**: ...They're... "Fluoro-flora"...
+- **8043**: Our...work...
+- **8044**: ...never...works...
+- **8045**: Cause...we...always...
+- **8046**: ...take...our...eyes...off...it...
+- **8065**: My...order...?
+- **8066**: ...? Oh...food...? ...Um...?
+- **8067**: A... A... A...boiled...egg...! Yeah...that's...what...I'll...have...
+- **8069**: Or...whatever...
+- **8082**: ......!
+- **8083**: You...under...stood...me...?
+- **8084**: Thanks...a...lot...!
+- **8085**: ...<Grin>...
+- **8086**: ......?
+- **8087**: ...No...good...? But...I...can't...hold...out... ...much...longer...<sniff>...
+- **8088**: ......?
+- **8089**: How...did...you...know...? ...This...is...just...what... ...I...wanted...
+- **8090**: ......?
+- **8091**: Are...you...giving...this...away...? ...Oh...? ...Money...? ...Here...
+- **8101**: ...... Oh-no...
+- **8102**: ...Hey...erh... ...Can...you...help...me...?
+- **8103**: ...Bag...delivered...to...Mhaura...
+- **8104**: ...Please...bring...here... Quickly...
+- **8105**: ...Must...hurry...
+- **8106**: Li...sten...to...re...quest? [Ac...cept.../Re...fuse...]
+- **8107**: ...Um...
+- **8108**: Must...carry...over...night...
+- **8109**: Must...get...back... ...be...fore...dawn...
+- **8110**: ... Please... Carry...bag...back... ...before...day...break...
+- **8115**: ...Aa\`h......
+- **8116**: ...... Past...dawn...
+- **8117**: ...<sniff>... ...I...can't...pay...you...now...
+- **8118**: ...All...that...for...no...thing...
+- **8119**: ...Phew...
+- **8120**: ...Good... ...You...made...it...
+- **8122**: ...?
+- **8124**: ...of...fluoro-flora...
+- **8569**: ...Umm...well...?
+- **8573**: ......?
+- **8574**: ...Umm...
+- **8575**: ...They're...found...in...
+- **8576**: ...Tah...ron...gi...Can...yon...
+- **8577**: ...But...
+- **8578**: ...it's...dan...ger...ous...!
+- **9743**: ...Please...save...Minister...Rukususu...
+- **9744**: ...<sob>...<sniff>...
+- **9761**: ...Thank you...for...saving...the minister...
+- **9762**: ...<grin>...
+- **9884**: We...could...ask...the...minister...
+- **9888**: Miteslime...is...the...secretion...of...the...starmite...bug...
+- **9889**: The...starmite...is an...insect...that...feeds...on...tree...roots...
+- **9898**: It...should be...okay...to give...emergency...authorization...to enter...the canal... Should be...
+- **9908**: Great...discoveries...are...being made...all...over...
+- **9909**: Researchers...researching...fauna...have it...tough...
+- **9910**: So...adventurers...with...Rhinostery...authorization...
+- **9911**: have...all...left...Windurst...to help...
+- **9919**: ...!
+- **9920**: You...made it...back...okay?
+- **9921**: Oh...good...
+- **9930**: Good...luck...!
+- **15456**: Thank...you...for...lovely... ...Starlight...Celebration...present...
 
 ## Events
 
@@ -284,7 +284,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15455*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15456*)
     → "Thank...you...for...lovely... ...Starlight...Celebration...present..."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -583,10 +583,10 @@
   1: 0x00B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8025*)
+  4: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
     → "I...am...Kenapa-Keppa..."
   5: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8026*)
+  6: 0x00C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
     → "Yeah...that's...my...erh...name..."
   7: 0x00C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00CA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -620,10 +620,10 @@
   1: 0x00DA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8027*)
+  4: 0x00E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
     → "We...mainly...study...nature...here..."
   5: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8028*)
+  6: 0x00E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8029*)
     → "Y'know...plants...and...animals... ...and...that...kinda...thing...?"
   7: 0x00EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -657,10 +657,10 @@
   1: 0x00FB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00FD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
+  4: 0x0104 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
     → "The...glowing...plants... you...see...around...town..."
   5: 0x0107 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
+  6: 0x0108 [0x1D] PRINT_EVENT_MESSAGE(message_id=8037*)
     → "...They're... "Fluoro-flora"..."
   7: 0x010B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x010C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -694,13 +694,13 @@
   1: 0x011C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x011D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x011E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7619*)
+  4: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
     → "Food...bag...offering..."
   5: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7620*)
+  6: 0x0129 [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
     → "from...Culi...narians'...Guild..."
   7: 0x012C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=7621*)
+  8: 0x012D [0x1D] PRINT_EVENT_MESSAGE(message_id=7622*)
     → "has...juice...in...it...!"
   9: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0131 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -734,7 +734,7 @@
   1: 0x0141 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0142 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0143 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=7398*)
+  4: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=7399*)
     → "Hmm...? Huhummm...?"
   5: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -769,18 +769,18 @@
   1: 0x015E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x015F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0160 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8042*)
+  4: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
     → "Our...work..."
   5: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x016B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
-  7: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8043*)
+  7: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
     → "...never...works..."
   8: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8044*)
+  9: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
     → "Cause...we...always..."
  10: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x017A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
- 12: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8045*)
+ 12: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8046*)
     → "...take...our...eyes...off...it..."
  13: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -813,7 +813,7 @@
   1: 0x0195 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0196 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0197 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=8064*)
+  4: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=8065*)
     → "My...order...?"
   5: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -847,7 +847,7 @@
   1: 0x01B2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8065*)
+  4: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8066*)
     → "...? Oh...food...? ...Um...?"
   5: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -881,7 +881,7 @@
   1: 0x01CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D0 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8066*)
+  4: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8067*)
     → "A... A... A...boiled...egg...! Yeah...that's...what...I'll...have..."
   5: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -915,7 +915,7 @@
   1: 0x01EC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01ED [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
+  4: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
     → "Or...whatever..."
   5: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -953,19 +953,19 @@
   3: 0x020C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x020D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x020E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  6: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+  6: 0x0215 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "......!"
   7: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+  8: 0x0219 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "You...under...stood...me...?"
   9: 0x021C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+ 10: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "Thanks...a...lot...!"
  11: 0x0220 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0221 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
  13: 0x0228 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0241
  14: 0x0230 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 15: 0x0241 [0x48] [System] [6555*]:
+ 15: 0x0241 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  16: 0x0244 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  17: 0x0246 [0x21] END_EVENT
@@ -997,7 +997,7 @@
   1: 0x024D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x024F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+  4: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "...<Grin>..."
   5: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x025A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1031,10 +1031,10 @@
   1: 0x026A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x026C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+  4: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "......?"
   5: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
+  6: 0x0277 [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
     → "...No...good...? But...I...can't...hold...out... ...much...longer...<sniff>..."
   7: 0x027A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x027B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1073,16 +1073,16 @@
   3: 0x0295 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0296 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0297 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  6: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+  6: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
     → "......?"
   7: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+  8: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "How...did...you...know...? ...This...is...just...what... ...I...wanted..."
   9: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x02A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
  11: 0x02AD [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x02C6
  12: 0x02B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 13: 0x02C6 [0x48] [System] [6555*]:
+ 13: 0x02C6 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  14: 0x02C9 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  15: 0x02CB [0x21] END_EVENT
@@ -1114,10 +1114,10 @@
   1: 0x02D2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
+  4: 0x02DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
     → "......?"
   5: 0x02DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8090*)
+  6: 0x02DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8091*)
     → "Are...you...giving...this...away...? ...Oh...? ...Money...? ...Here..."
   7: 0x02E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1151,7 +1151,7 @@
   1: 0x02F3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+  4: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "...... Oh-no..."
   5: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0300 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1185,7 +1185,7 @@
   1: 0x0310 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0311 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0312 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
+  4: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
     → "...Hey...erh... ...Can...you...help...me...?"
   5: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x031D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1219,10 +1219,10 @@
   1: 0x032D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x032F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "...Bag...delivered...to...Mhaura..."
   5: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "...Please...bring...here... Quickly..."
   7: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1259,16 +1259,16 @@
   1: 0x034E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x034F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0350 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  4: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "...Must...hurry..."
   5: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x035B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
-  7: 0x0362 [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
+  7: 0x0362 [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
     → "Li...sten...to...re...quest? [Ac...cept.../Re...fuse...]"
   8: 0x0369 [0x25] WAIT_DIALOG_SELECT()
   9: 0x036A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x037E
  10: 0x0372 [0x03] Work_Zone[1] = 0*
- 11: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+ 11: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "...Must...hurry..."
  12: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x037B [0x01] GOTO 0x038E
@@ -1306,7 +1306,7 @@ SUBROUTINE_038E:
   1: 0x0397 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0398 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+  4: 0x03A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "...Um..."
   5: 0x03A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1340,7 +1340,7 @@ SUBROUTINE_038E:
   1: 0x03B4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03B5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
+  4: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
     → "Must...carry...over...night..."
   5: 0x03C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1374,7 +1374,7 @@ SUBROUTINE_038E:
   1: 0x03D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03D3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
+  4: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
     → "Must...get...back... ...be...fore...dawn..."
   5: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1408,7 +1408,7 @@ SUBROUTINE_038E:
   1: 0x03EE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03EF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03F0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
+  4: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
     → "... Please... Carry...bag...back... ...before...day...break..."
   5: 0x03FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1506,7 +1506,7 @@ SUBROUTINE_038E:
 
 ```
   0: 0x044F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0A)
-  1: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+  1: 0x0456 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "...Phew..."
   2: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x045A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0B)
@@ -1534,7 +1534,7 @@ SUBROUTINE_038E:
 
 ```
   0: 0x0462 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  1: 0x0469 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
+  1: 0x0469 [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
     → "...Good... ...You...made...it..."
   2: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x046D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1562,10 +1562,10 @@ SUBROUTINE_038E:
 
 ```
   0: 0x0475 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0A)
-  1: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+  1: 0x047C [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
     → "...Aa`h......"
   2: 0x047F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+  3: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "...... Past...dawn..."
   4: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0484 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0B)
@@ -1593,7 +1593,7 @@ SUBROUTINE_038E:
 
 ```
   0: 0x048C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x08)
-  1: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+  1: 0x0493 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "...<sniff>... ...I...can't...pay...you...now..."
   2: 0x0496 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0497 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x09)
@@ -1625,7 +1625,7 @@ SUBROUTINE_038E:
   1: 0x04A4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04A5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+  4: 0x04AD [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "...All...that...for...no...thing..."
   5: 0x04B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1659,7 +1659,7 @@ SUBROUTINE_038E:
   1: 0x04C1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04C2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x04CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+  4: 0x04CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "...?"
   5: 0x04CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04CE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1693,7 +1693,7 @@ SUBROUTINE_038E:
   1: 0x04DE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04DF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04E0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0A)
-  4: 0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+  4: 0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "...of...fluoro-flora..."
   5: 0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0B)
@@ -1746,7 +1746,7 @@ SUBROUTINE_038E:
 
 ```
   0: 0x04F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x04)
-  1: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8568*)
+  1: 0x04FE [0x1D] PRINT_EVENT_MESSAGE(message_id=8569*)
     → "...Umm...well...?"
   2: 0x0501 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0502 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x05)
@@ -1785,32 +1785,32 @@ SUBROUTINE_038E:
   1: 0x051D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x051E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x051F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=8572*)
+  4: 0x0526 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
     → "......?"
   5: 0x0529 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x052A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
   7: 0x0531 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x04)
-  8: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=8573*)
+  8: 0x0538 [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
     → "...Umm..."
   9: 0x053B [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x053C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x05)
  11: 0x0543 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x06)
- 12: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=8574*)
+ 12: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
     → "...They're...found...in..."
  13: 0x054D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x054E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x07)
  15: 0x0555 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
- 16: 0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=8575*)
+ 16: 0x055C [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
     → "...Tah...ron...gi...Can...yon..."
  17: 0x055F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0560 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
  19: 0x0567 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x04)
- 20: 0x056E [0x1D] PRINT_EVENT_MESSAGE(message_id=8576*)
+ 20: 0x056E [0x1D] PRINT_EVENT_MESSAGE(message_id=8577*)
     → "...But..."
  21: 0x0571 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0572 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x05)
  23: 0x0579 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x06)
- 24: 0x0580 [0x1D] PRINT_EVENT_MESSAGE(message_id=8577*)
+ 24: 0x0580 [0x1D] PRINT_EVENT_MESSAGE(message_id=8578*)
     → "...it's...dan...ger...ous...!"
  25: 0x0583 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0584 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x07)
@@ -1844,10 +1844,10 @@ SUBROUTINE_038E:
   1: 0x0594 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0595 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0596 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0A)
-  4: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
+  4: 0x059D [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
     → "...Please...save...Minister...Rukususu..."
   5: 0x05A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x05A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
+  6: 0x05A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
     → "...<sob>...<sniff>..."
   7: 0x05A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x05A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x0B)
@@ -1881,12 +1881,12 @@ SUBROUTINE_038E:
   1: 0x05B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x05B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x05B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x05BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9760*)
+  4: 0x05BE [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
     → "...Thank you...for...saving...the minister..."
   5: 0x05C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x05C2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
   7: 0x05C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  8: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9761*)
+  8: 0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9762*)
     → "...<grin>..."
   9: 0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x05D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -1959,7 +1959,7 @@ SUBROUTINE_038E:
 #### Opcodes
 
 ```
-  0: 0x05EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9883*)
+  0: 0x05EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9884*)
     → "We...could...ask...the...minister..."
   1: 0x05ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05EE [0x00] END_REQSTACK()
@@ -1985,7 +1985,7 @@ SUBROUTINE_038E:
 #### Opcodes
 
 ```
-  0: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9887*)
+  0: 0x05EF [0x1D] PRINT_EVENT_MESSAGE(message_id=9888*)
     → "Miteslime...is...the...secretion...of...the...starmite...bug..."
   1: 0x05F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05F3 [0x00] END_REQSTACK()
@@ -2010,7 +2010,7 @@ SUBROUTINE_038E:
 #### Opcodes
 
 ```
-  0: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9888*)
+  0: 0x05F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9889*)
     → "The...starmite...is an...insect...that...feeds...on...tree...roots..."
   1: 0x05F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05F8 [0x00] END_REQSTACK()
@@ -2035,7 +2035,7 @@ SUBROUTINE_038E:
 #### Opcodes
 
 ```
-  0: 0x05F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9897*)
+  0: 0x05F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9898*)
     → "It...should be...okay...to give...emergency...authorization...to enter...the canal... Should be..."
   1: 0x05FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x05FD [0x00] END_REQSTACK()
@@ -2068,18 +2068,18 @@ SUBROUTINE_038E:
   1: 0x0603 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0604 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0605 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  4: 0x060C [0x1D] PRINT_EVENT_MESSAGE(message_id=9907*)
+  4: 0x060C [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
     → "Great...discoveries...are...being made...all...over..."
   5: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0610 [0x1D] PRINT_EVENT_MESSAGE(message_id=9908*)
+  6: 0x0610 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
     → "Researchers...researching...fauna...have it...tough..."
   7: 0x0613 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0614 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
   9: 0x061B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
- 10: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9909*)
+ 10: 0x0622 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
     → "So...adventurers...with...Rhinostery...authorization..."
  11: 0x0625 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0626 [0x1D] PRINT_EVENT_MESSAGE(message_id=9910*)
+ 12: 0x0626 [0x1D] PRINT_EVENT_MESSAGE(message_id=9911*)
     → "have...all...left...Windurst...to help..."
  13: 0x0629 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x062A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
@@ -2112,15 +2112,15 @@ SUBROUTINE_038E:
   0: 0x0635 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x063A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x063B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=9918*)
+  3: 0x063C [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
     → "...!"
   4: 0x063F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0640 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x02)
-  6: 0x0647 [0x1D] PRINT_EVENT_MESSAGE(message_id=9919*)
+  6: 0x0647 [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
     → "You...made it...back...okay?"
   7: 0x064A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x064B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kenapa-Keppa (ID: 17752110/0x010EE02E), tag_num=0x03)
-  9: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=9920*)
+  9: 0x0652 [0x1D] PRINT_EVENT_MESSAGE(message_id=9921*)
     → "Oh...good..."
  10: 0x0655 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0656 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2169,7 +2169,7 @@ SUBROUTINE_038E:
 #### Opcodes
 
 ```
-  0: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=9929*)
+  0: 0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=9930*)
     → "Good...luck...!"
   1: 0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x065F [0x00] END_REQSTACK()

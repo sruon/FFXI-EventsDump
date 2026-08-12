@@ -55,11 +55,11 @@
 |      10 | 0x2D729     |      186153 |
 |      11 | 0xFFFFF73C  |  4294965052 |
 |      12 | 0x2AB43     |      174915 |
-|      13 | 0x30E8      |       12520 |
+|      13 | 0x30E9      |       12521 |
 
 ## String References
 
-- **12520**: At last...I've found you. Hear me Tarutaru and Mithra, I will take back the life of our king.
+- **12521**: At last...I've found you. Hear me Tarutaru and Mithra, I will take back the life of our king.
 
 ## Events
 
@@ -591,7 +591,7 @@
 #### Opcodes
 
 ```
-  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=12520*)
+  0: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=12521*)
     → "At last...I've found you. Hear me Tarutaru and Mithra, I will take back the life of our king."
   1: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0141 [0x00] END_REQSTACK()

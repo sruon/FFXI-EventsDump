@@ -31,15 +31,15 @@
 |       3 | 0x3341      |       13121 |
 |       4 | 0xFFFFE60E  |  4294960654 |
 |       5 | 0xFFFFE389  |  4294960009 |
-|       6 | 0x1B3C      |        6972 |
+|       6 | 0x1B3D      |        6973 |
 |       7 | 0x0094      |         148 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x354F      |       13647 |
 |      10 | 0x0C2B      |        3115 |
 |      11 | 0x004B      |          75 |
-|      12 | 0x1B3D      |        6973 |
+|      12 | 0x1B3E      |        6974 |
 |      13 | 0x003C      |          60 |
-|      14 | 0x1B3E      |        6974 |
+|      14 | 0x1B3F      |        6975 |
 |      15 | 0x0600      |        1536 |
 |      16 | 0x4B78      |       19320 |
 |      17 | 0x1CE1      |        7393 |
@@ -51,8 +51,8 @@
 
 ## String References
 
-- **6972**: Always do!
-- **6973**: I'll get one for you too, Grandma!
+- **6973**: Always do!
+- **6974**: I'll get one for you too, Grandma!
 
 ## Events
 
@@ -161,7 +161,7 @@
 #### Opcodes
 
 ```
-  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=6972*)
+  0: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=6973*)
     → "Always do!"
   1: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0025 [0x1F] MOVE_ENTITY: EventEntity moves to X=14.232*, Z=-5.830*, Y=-7.420*
@@ -177,11 +177,11 @@
  12: 0x006B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  13: 0x006C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x006D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=75*
- 15: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=6973*)
+ 15: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=6974*)
     → "I'll get one for you too, Grandma!"
  16: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0080 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ramona (ID: 17793050/0x010F801A), Ramona (ID: 17793050/0x010F801A)], work=60*
- 18: 0x008F [0x2B] Ramona (ID: 17793050/0x010F801A) [6974*]:
+ 18: 0x008F [0x2B] Ramona (ID: 17793050/0x010F801A) [6975*]:
     → "Why thanks, Aldo. That would be nice."
  19: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0097 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
@@ -225,7 +225,7 @@
 #### Opcodes
 
 ```
-  0: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6972*)
+  0: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6973*)
     → "Always do!"
   1: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00C4 [0x1F] MOVE_ENTITY: EventEntity moves to X=14.232*, Z=-5.830*, Y=-7.420*
@@ -242,12 +242,12 @@
  13: 0x010B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  14: 0x010C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=2569*
  15: 0x011B [0x1C] WAIT(30* ticks)
- 16: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=6973*)
+ 16: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=6974*)
     → "I'll get one for you too, Grandma!"
  17: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0122 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=2569*
  19: 0x0131 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ramona (ID: 17793050/0x010F801A), Ramona (ID: 17793050/0x010F801A)], work=60*
- 20: 0x0140 [0x2B] Ramona (ID: 17793050/0x010F801A) [6974*]:
+ 20: 0x0140 [0x2B] Ramona (ID: 17793050/0x010F801A) [6975*]:
     → "Why thanks, Aldo. That would be nice."
  21: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0148 [0x03] ExtData[1]->WorkLocal[0] = enDirCli(ExtData[1]->EventDir[1]) * 4096.0 * 0.15915963

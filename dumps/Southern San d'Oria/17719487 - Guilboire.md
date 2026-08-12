@@ -22,40 +22,40 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x20EA      |        8426 |
+|       1 | 0x20EB      |        8427 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x20EB      |        8427 |
-|       4 | 0x20EC      |        8428 |
+|       3 | 0x20EC      |        8428 |
+|       4 | 0x20ED      |        8429 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x20EE      |        8430 |
+|       6 | 0x20EF      |        8431 |
 |       7 | 0xFFFFFFFC  |  4294967292 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x20EF      |        8431 |
-|      10 | 0x20F0      |        8432 |
-|      11 | 0x20F1      |        8433 |
-|      12 | 0x20F2      |        8434 |
-|      13 | 0x20F3      |        8435 |
-|      14 | 0x20F4      |        8436 |
-|      15 | 0x20F5      |        8437 |
-|      16 | 0x20F6      |        8438 |
+|       9 | 0x20F0      |        8432 |
+|      10 | 0x20F1      |        8433 |
+|      11 | 0x20F2      |        8434 |
+|      12 | 0x20F3      |        8435 |
+|      13 | 0x20F4      |        8436 |
+|      14 | 0x20F5      |        8437 |
+|      15 | 0x20F6      |        8438 |
+|      16 | 0x20F7      |        8439 |
 |      17 | 0x0001      |           1 |
-|      18 | 0x20ED      |        8429 |
+|      18 | 0x20EE      |        8430 |
 
 ## String References
 
-- **8426**: Hrmm... Good eyes, friend. I thought my presence unknown, but you found me.
-- **8427**: You are fortunate... For my knowledge of the enemy, culled from many years on the battlefield, can be yours.
-- **8428**: Look at the tattered diagram? [Yes./No.]
-- **8429**: "Know thy enemy, know thyself. A hundred battles, a hundred victories." A great general of antiquity spoke these words.
-- **8430**: Good. Curiosity is a virtue! Look at my diagram, and listen well, for I shall say this but once.
-- **8431**: This is the law of relations: Beasts bare their fangs at dim-witted lizards, while the lizards must turn to the vapid vermin for their sup.
-- **8432**: The multitude of vermin crop plantoids close to the ground, while the long-lived plantoids draw nourishment from the corpses of beasts with their roots.
-- **8433**: Birds that wing the skies carry aquans to their graves, while water-wise aquans suck the shapeless forms of amorphs dry.
-- **8434**: The silent, shapeless amorphs slip into the nests of birds and feed on their feathery brood.
-- **8435**: And this is the law of oppositions: The cursed undead shun the pseudo-life of the arcana, while the arcana avoid the undead.
-- **8436**: The immortal dragons shun the death-bringing demons, while the demon spellweavers avoid dragons, against whom their magic is useless.
-- **8437**: All of this is different from the regular divisions of life, based upon my own experience and observation.
-- **8438**: Sharpen your senses, and watch your enemies closely. Soon, a world of understanding will open before you.
+- **8427**: Hrmm... Good eyes, friend. I thought my presence unknown, but you found me.
+- **8428**: You are fortunate... For my knowledge of the enemy, culled from many years on the battlefield, can be yours.
+- **8429**: Look at the tattered diagram? [Yes./No.]
+- **8430**: "Know thy enemy, know thyself. A hundred battles, a hundred victories." A great general of antiquity spoke these words.
+- **8431**: Good. Curiosity is a virtue! Look at my diagram, and listen well, for I shall say this but once.
+- **8432**: This is the law of relations: Beasts bare their fangs at dim-witted lizards, while the lizards must turn to the vapid vermin for their sup.
+- **8433**: The multitude of vermin crop plantoids close to the ground, while the long-lived plantoids draw nourishment from the corpses of beasts with their roots.
+- **8434**: Birds that wing the skies carry aquans to their graves, while water-wise aquans suck the shapeless forms of amorphs dry.
+- **8435**: The silent, shapeless amorphs slip into the nests of birds and feed on their feathery brood.
+- **8436**: And this is the law of oppositions: The cursed undead shun the pseudo-life of the arcana, while the arcana avoid the undead.
+- **8437**: The immortal dragons shun the death-bringing demons, while the demon spellweavers avoid dragons, against whom their magic is useless.
+- **8438**: All of this is different from the regular divisions of life, based upon my own experience and observation.
+- **8439**: Sharpen your senses, and watch your enemies closely. Soon, a world of understanding will open before you.
 
 ## Events
 
@@ -139,58 +139,58 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8426*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
     → "Hrmm... Good eyes, friend. I thought my presence unknown, but you found me."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x1C] WAIT(30* ticks)
-  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8427*)
+  7: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=8428*)
     → "You are fortunate... For my knowledge of the enemy, culled from many years on the battlefield, can be yours."
   8: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0023 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  10: 0x0028 [0x1C] WAIT(30* ticks)
- 11: 0x002B [0x24] CREATE_DIALOG(message_id=8428*, default_option=0*, option_flags=0*)
+ 11: 0x002B [0x24] CREATE_DIALOG(message_id=8429*, default_option=0*, option_flags=0*)
     → "Look at the tattered diagram? [Yes./No.]"
  12: 0x0032 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AE
  14: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 15: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=8430*)
+ 15: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=8431*)
     → "Good. Curiosity is a virtue! Look at my diagram, and listen well, for I shall say this but once."
  16: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x004E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  18: 0x0053 [0x1C] WAIT(30* ticks)
  19: 0x0056 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=4294967292*, properties=2*)
- 20: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8431*)
+ 20: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
     → "This is the law of relations: Beasts bare their fangs at dim-witted lizards, while the lizards must turn to the vapid vermin for their sup."
  21: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x005F [0x1C] WAIT(30* ticks)
- 23: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
+ 23: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
     → "The multitude of vermin crop plantoids close to the ground, while the long-lived plantoids draw nourishment from the corpses of beasts with their roots."
  24: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0066 [0x1C] WAIT(30* ticks)
- 26: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
+ 26: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
     → "Birds that wing the skies carry aquans to their graves, while water-wise aquans suck the shapeless forms of amorphs dry."
  27: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x006D [0x1C] WAIT(30* ticks)
- 29: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
+ 29: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
     → "The silent, shapeless amorphs slip into the nests of birds and feed on their feathery brood."
  30: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0074 [0x1C] WAIT(30* ticks)
- 32: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
+ 32: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
     → "And this is the law of oppositions: The cursed undead shun the pseudo-life of the arcana, while the arcana avoid the undead."
  33: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x007B [0x1C] WAIT(30* ticks)
- 35: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
+ 35: 0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
     → "The immortal dragons shun the death-bringing demons, while the demon spellweavers avoid dragons, against whom their magic is useless."
  36: 0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0082 [0x1C] WAIT(30* ticks)
- 38: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
+ 38: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=8438*)
     → "All of this is different from the regular divisions of life, based upon my own experience and observation."
  39: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0089 [0x1C] WAIT(30* ticks)
  41: 0x008C [0x8A] CLOSE_MAP()
  42: 0x008D [0x1C] WAIT(30* ticks)
  43: 0x0090 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 44: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8438*)
+ 44: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
     → "Sharpen your senses, and watch your enemies closely. Soon, a world of understanding will open before you."
  45: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x00A3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -198,7 +198,7 @@
  48: 0x00AB [0x01] GOTO 0x00D4
  49: 0x00AE [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00D4
  50: 0x00B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 51: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8429*)
+ 51: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8430*)
     → ""Know thy enemy, know thyself. A hundred battles, a hundred victories." A great general of antiquity spoke these words."
  52: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x00C9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

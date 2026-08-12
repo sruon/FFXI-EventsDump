@@ -91,23 +91,23 @@
 |      23 | 0x528D      |       21133 |
 |      24 | 0x6E99      |       28313 |
 |      25 | 0xFFFFB8A5  |  4294949029 |
-|      26 | 0x1E28      |        7720 |
-|      27 | 0x1E29      |        7721 |
-|      28 | 0x1E2D      |        7725 |
-|      29 | 0x1E31      |        7729 |
-|      30 | 0x1E34      |        7732 |
-|      31 | 0x1E38      |        7736 |
-|      32 | 0x1E3E      |        7742 |
+|      26 | 0x1E29      |        7721 |
+|      27 | 0x1E2A      |        7722 |
+|      28 | 0x1E2E      |        7726 |
+|      29 | 0x1E32      |        7730 |
+|      30 | 0x1E35      |        7733 |
+|      31 | 0x1E39      |        7737 |
+|      32 | 0x1E3F      |        7743 |
 
 ## String References
 
-- **7720**: Vhy are you doing this!? Vhat on Vana'diel happened at the Manustery!?
-- **7721**: After you became minister-vinister, you spent all your vaking hours there, vorking diligently. And then you pull your disappearing-vearing act and erase everyone's memories of you...!
-- **7725**: Uran-Mafran...
-- **7729**: No, that's not true. You know as vell as I do that I was desty-vestined for the Rhinostery.
-- **7732**: ......
-- **7736**: But, I remember-vember you being in there with me...
-- **7742**: ......
+- **7721**: Vhy are you doing this!? Vhat on Vana'diel happened at the Manustery!?
+- **7722**: After you became minister-vinister, you spent all your vaking hours there, vorking diligently. And then you pull your disappearing-vearing act and erase everyone's memories of you...!
+- **7726**: Uran-Mafran...
+- **7730**: No, that's not true. You know as vell as I do that I was desty-vestined for the Rhinostery.
+- **7733**: ......
+- **7737**: But, I remember-vember you being in there with me...
+- **7743**: ......
 
 ## Events
 
@@ -1118,10 +1118,10 @@
 #### Opcodes
 
 ```
-  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7720*)
+  0: 0x0244 [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
     → "Vhy are you doing this!? Vhat on Vana'diel happened at the Manustery!?"
   1: 0x0247 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7721*)
+  2: 0x0248 [0x1D] PRINT_EVENT_MESSAGE(message_id=7722*)
     → "After you became minister-vinister, you spent all your vaking hours there, vorking diligently. And then you pull your disappearing-vearing act and erase everyone's memories of you...!"
   3: 0x024B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x024C [0x00] END_REQSTACK()
@@ -1147,7 +1147,7 @@
 #### Opcodes
 
 ```
-  0: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=7725*)
+  0: 0x024D [0x1D] PRINT_EVENT_MESSAGE(message_id=7726*)
     → "Uran-Mafran..."
   1: 0x0250 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0251 [0x00] END_REQSTACK()
@@ -1172,7 +1172,7 @@
 #### Opcodes
 
 ```
-  0: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7729*)
+  0: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7730*)
     → "No, that's not true. You know as vell as I do that I was desty-vestined for the Rhinostery."
   1: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0256 [0x00] END_REQSTACK()
@@ -1199,7 +1199,7 @@
 
 ```
   0: 0x0257 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=7732*)
+  1: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=7733*)
     → "......"
   2: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0261 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1225,7 +1225,7 @@
 #### Opcodes
 
 ```
-  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=7736*)
+  0: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=7737*)
     → "But, I remember-vember you being in there with me..."
   1: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x026C [0x00] END_REQSTACK()
@@ -1252,7 +1252,7 @@
 
 ```
   0: 0x026D [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7742*)
+  1: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7743*)
     → "......"
   2: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0277 [0x7C] EventEntity->Render.Flags2 |= 0x01

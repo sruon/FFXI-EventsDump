@@ -23,27 +23,27 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x03FD      |        1021 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1EF6      |        7926 |
+|       3 | 0x1EF7      |        7927 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
-|       5 | 0x1EF9      |        7929 |
+|       5 | 0x1EFA      |        7930 |
 |       6 | 0xFFFFFD1E  |  4294966558 |
-|       7 | 0x1EF4      |        7924 |
+|       7 | 0x1EF5      |        7925 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0429      |        1065 |
-|      10 | 0x2EF7      |       12023 |
-|      11 | 0x1EF3      |        7923 |
-|      12 | 0x1EF5      |        7925 |
-|      13 | 0x1EF7      |        7927 |
+|      10 | 0x2EF8      |       12024 |
+|      11 | 0x1EF4      |        7924 |
+|      12 | 0x1EF6      |        7926 |
+|      13 | 0x1EF8      |        7928 |
 
 ## String References
 
-- **7923**: Your $7 breaks!
-- **7924**: You successfully cut off $0!
-- **7925**: You cut off $0, but your $7 breaks in the process.
-- **7926**: You are unable to log anything.
-- **7927**: You cannot carry any more items. Your inventory is full.
-- **7929**: It looks like you might need two people to log here...
-- **12023**: <Player> recorded survey data for $1 on the $3.
+- **7924**: Your $7 breaks!
+- **7925**: You successfully cut off $0!
+- **7926**: You cut off $0, but your $7 breaks in the process.
+- **7927**: You are unable to log anything.
+- **7928**: You cannot carry any more items. Your inventory is full.
+- **7930**: It looks like you might need two people to log here...
+- **12024**: <Player> recorded survey data for $1 on the $3.
 
 ## Events
 
@@ -105,11 +105,11 @@
   5: 0x0018 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0092
   6: 0x0020 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0069
   7: 0x0028 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0036
-  8: 0x0030 [0x48] [System] [7926*]:
+  8: 0x0030 [0x48] [System] [7927*]:
     → "You are unable to log anything."
   9: 0x0033 [0x01] GOTO 0x0066
  10: 0x0036 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0044
- 11: 0x003E [0x48] [System] [7929*]:
+ 11: 0x003E [0x48] [System] [7930*]:
     → "It looks like you might need two people to log here..."
  12: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0042 [0x21] END_EVENT
@@ -117,31 +117,31 @@
  15: 0x0044 [0x02] IF !(Work_Zone[2] == 4294966558*) GOTO 0x004E
  16: 0x004C [0x21] END_EVENT
  17: 0x004D [0x00] END_REQSTACK()
- 18: 0x004E [0x48] [System] [7924*]:
+ 18: 0x004E [0x48] [System] [7925*]:
     → "You successfully cut off $0!"
  19: 0x0051 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0066
  20: 0x0059 [0x03] Work_Zone[3] = Work_Zone[2]
  21: 0x005E [0x03] Work_Zone[2] = 1065*
- 22: 0x0063 [0x48] [System] [12023*]:
+ 22: 0x0063 [0x48] [System] [12024*]:
     → "<Player> recorded survey data for $1 on the $3."
 
 SUBROUTINE_0066:
  23: 0x0066 [0x01] GOTO 0x008F
  24: 0x0069 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0077
- 25: 0x0071 [0x48] [System] [7923*]:
+ 25: 0x0071 [0x48] [System] [7924*]:
     → "Your $7 breaks!"
  26: 0x0074 [0x01] GOTO 0x008F
- 27: 0x0077 [0x48] [System] [7925*]:
+ 27: 0x0077 [0x48] [System] [7926*]:
     → "You cut off $0, but your $7 breaks in the process."
  28: 0x007A [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x008F
  29: 0x0082 [0x03] Work_Zone[3] = Work_Zone[2]
  30: 0x0087 [0x03] Work_Zone[2] = 1065*
- 31: 0x008C [0x48] [System] [12023*]:
+ 31: 0x008C [0x48] [System] [12024*]:
     → "<Player> recorded survey data for $1 on the $3."
 
 SUBROUTINE_008F:
  32: 0x008F [0x01] GOTO 0x0095
- 33: 0x0092 [0x48] [System] [7927*]:
+ 33: 0x0092 [0x48] [System] [7928*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0095:

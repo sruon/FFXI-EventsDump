@@ -23,50 +23,50 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x015D      |         349 |
-|       2 | 0x1C48      |        7240 |
-|       3 | 0x1C57      |        7255 |
-|       4 | 0x1C58      |        7256 |
-|       5 | 0x1C49      |        7241 |
-|       6 | 0x1C4A      |        7242 |
-|       7 | 0x1C4B      |        7243 |
-|       8 | 0x1C4C      |        7244 |
-|       9 | 0x1C4D      |        7245 |
-|      10 | 0x1C4E      |        7246 |
-|      11 | 0x1C4F      |        7247 |
-|      12 | 0x1C50      |        7248 |
-|      13 | 0x1C51      |        7249 |
-|      14 | 0x1C52      |        7250 |
-|      15 | 0x1C53      |        7251 |
-|      16 | 0x1C54      |        7252 |
-|      17 | 0x1C55      |        7253 |
+|       2 | 0x1C49      |        7241 |
+|       3 | 0x1C58      |        7256 |
+|       4 | 0x1C59      |        7257 |
+|       5 | 0x1C4A      |        7242 |
+|       6 | 0x1C4B      |        7243 |
+|       7 | 0x1C4C      |        7244 |
+|       8 | 0x1C4D      |        7245 |
+|       9 | 0x1C4E      |        7246 |
+|      10 | 0x1C4F      |        7247 |
+|      11 | 0x1C50      |        7248 |
+|      12 | 0x1C51      |        7249 |
+|      13 | 0x1C52      |        7250 |
+|      14 | 0x1C53      |        7251 |
+|      15 | 0x1C54      |        7252 |
+|      16 | 0x1C55      |        7253 |
+|      17 | 0x1C56      |        7254 |
 |      18 | 0x0087      |         135 |
-|      19 | 0x1C59      |        7257 |
-|      20 | 0x1C5B      |        7259 |
+|      19 | 0x1C5A      |        7258 |
+|      20 | 0x1C5C      |        7260 |
 |      21 | 0x0000      |           0 |
 |      22 | 0x0003      |           3 |
 |      23 | 0x0077      |         119 |
-|      24 | 0x1C5A      |        7258 |
-|      25 | 0x1C56      |        7254 |
+|      24 | 0x1C5B      |        7259 |
+|      25 | 0x1C57      |        7255 |
 |      26 | 0x270F      |        9999 |
-|      27 | 0x1C61      |        7265 |
+|      27 | 0x1C62      |        7266 |
 |      28 | 0x000F      |          15 |
 |      29 | 0x0076      |         118 |
-|      30 | 0x1C5D      |        7261 |
+|      30 | 0x1C5E      |        7262 |
 |      31 | 0x000A      |          10 |
 |      32 | 0x0010      |          16 |
 |      33 | 0x001F      |          31 |
-|      34 | 0x1C5E      |        7262 |
+|      34 | 0x1C5F      |        7263 |
 |      35 | 0x0002      |           2 |
-|      36 | 0x1C62      |        7266 |
-|      37 | 0x1C63      |        7267 |
-|      38 | 0x1C64      |        7268 |
+|      36 | 0x1C63      |        7267 |
+|      37 | 0x1C64      |        7268 |
+|      38 | 0x1C65      |        7269 |
 |      39 | 0x0005      |           5 |
 |      40 | 0x0006      |           6 |
 |      41 | 0x0007      |           7 |
 |      42 | 0x0008      |           8 |
 |      43 | 0x0009      |           9 |
-|      44 | 0x1C65      |        7269 |
-|      45 | 0x1C66      |        7270 |
+|      44 | 0x1C66      |        7270 |
+|      45 | 0x1C67      |        7271 |
 |      46 | 0x0004      |           4 |
 |      47 | 0x000B      |          11 |
 |      48 | 0x000C      |          12 |
@@ -78,39 +78,39 @@
 |      54 | 0x0014      |          20 |
 |      55 | 0x0015      |          21 |
 |      56 | 0x0016      |          22 |
-|      57 | 0x1C68      |        7272 |
-|      58 | 0x1C69      |        7273 |
-|      59 | 0x1C6A      |        7274 |
-|      60 | 0x1C8B      |        7307 |
-|      61 | 0x1C76      |        7286 |
-|      62 | 0x1C77      |        7287 |
-|      63 | 0x1C78      |        7288 |
-|      64 | 0x1C79      |        7289 |
-|      65 | 0x1C7A      |        7290 |
-|      66 | 0x1C7B      |        7291 |
-|      67 | 0x1C8C      |        7308 |
-|      68 | 0x1C8D      |        7309 |
-|      69 | 0x1C8E      |        7310 |
-|      70 | 0x1C8F      |        7311 |
-|      71 | 0x1C90      |        7312 |
-|      72 | 0x1CA0      |        7328 |
-|      73 | 0x1CA1      |        7329 |
-|      74 | 0x1CA2      |        7330 |
-|      75 | 0x1C7F      |        7295 |
-|      76 | 0x1C7C      |        7292 |
-|      77 | 0x1C7D      |        7293 |
-|      78 | 0x1C7E      |        7294 |
+|      57 | 0x1C69      |        7273 |
+|      58 | 0x1C6A      |        7274 |
+|      59 | 0x1C6B      |        7275 |
+|      60 | 0x1C8C      |        7308 |
+|      61 | 0x1C77      |        7287 |
+|      62 | 0x1C78      |        7288 |
+|      63 | 0x1C79      |        7289 |
+|      64 | 0x1C7A      |        7290 |
+|      65 | 0x1C7B      |        7291 |
+|      66 | 0x1C7C      |        7292 |
+|      67 | 0x1C8D      |        7309 |
+|      68 | 0x1C8E      |        7310 |
+|      69 | 0x1C8F      |        7311 |
+|      70 | 0x1C90      |        7312 |
+|      71 | 0x1C91      |        7313 |
+|      72 | 0x1CA1      |        7329 |
+|      73 | 0x1CA2      |        7330 |
+|      74 | 0x1CA3      |        7331 |
+|      75 | 0x1C80      |        7296 |
+|      76 | 0x1C7D      |        7293 |
+|      77 | 0x1C7E      |        7294 |
+|      78 | 0x1C7F      |        7295 |
 |      79 | 0x2710      |       10000 |
-|      80 | 0x1C92      |        7314 |
-|      81 | 0x1C93      |        7315 |
-|      82 | 0x1C94      |        7316 |
-|      83 | 0x1C95      |        7317 |
-|      84 | 0x1C96      |        7318 |
-|      85 | 0x1C97      |        7319 |
-|      86 | 0x1C9A      |        7322 |
-|      87 | 0x1C9B      |        7323 |
-|      88 | 0x1C9C      |        7324 |
-|      89 | 0x1C9D      |        7325 |
+|      80 | 0x1C93      |        7315 |
+|      81 | 0x1C94      |        7316 |
+|      82 | 0x1C95      |        7317 |
+|      83 | 0x1C96      |        7318 |
+|      84 | 0x1C97      |        7319 |
+|      85 | 0x1C98      |        7320 |
+|      86 | 0x1C9B      |        7323 |
+|      87 | 0x1C9C      |        7324 |
+|      88 | 0x1C9D      |        7325 |
+|      89 | 0x1C9E      |        7326 |
 |      90 | 0x4E20      |       20000 |
 |      91 | 0x7530      |       30000 |
 |      92 | 0x3A98      |       15000 |
@@ -704,65 +704,65 @@
 
 ## String References
 
-- **7240**: Welcome to Temenos. Please present your $3.
-- **7241**: ...Credentials not present. Authorizing new issuance.
-- **7242**: Registration in progress...
-- **7243**: Welcome to Temenos. This place is designed for the generation of new life-forms.
-- **7244**: Defeating monsters on each floor of the towers will record data in your $3.
-- **7245**: Successfully recording data will permit you to open one Temenos Coffer.
-- **7246**: Collecting data will authorize you to handle Temenos Units.
-- **7247**: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
-- **7248**: Temenos Units can be used in the Temenos Furnace.
-- **7249**: The Temenos Furnace will be authorized after sufficient data collection.
-- **7250**: Collecting additional data will authorize you to use Grace. It will aid you.
-- **7251**: The more data collected, the stronger the Grace.
-- **7252**: Your registration is now complete. Currently recording initial data in your $3.
-- **7253**: Please set your initial monster level. The higher the level, the more precise the data we can gather.
-- **7254**: Your $3 is now fully prepared. Glory to Zilart.
-- **7255**: ...
-- **7256**: ......
-- **7257**: Enter a level value between 119 and $1 to be recorded in your $3.
-- **7258**: "$1" has been recorded in your $3.
-- **7259**: Enter 0 to cancel.
-- **7261**: Increasing the level will reset your data collection progress.
-- **7262**: What will you do? [Change level and reset./Never mind.]
-- **7265**: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./Central Tower B1 Opening./$1./Reforging carryover./Unique data./Nothing for now.]
-- **7266**: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
-- **7267**: The Temenos Furnace uses Temenos Units to enhance equipment compatible with them.
-- **7268**: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Back.]
-- **7270**: Reforging your item into $0 requires $1 and $2 Temenos Units.
-- **7272**: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
-- **7273**: $3 effects: BPALL+$3.
-- **7274**: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
-- **7286**: I have generated notorious monsters based on your data.
-- **7287**: Here is information on notorious monsters.
-- **7288**: 1: They do not take your set level into account.
-- **7289**: 2: There are 22 types, but only 4 will appear on any given day (Earth time).
-- **7290**: $0: Vanquishing them affects the contents of the Temenos Coffer available four weeks later.
-- **7291**: This should enable you to collect even more precise data.
-- **7292**: The $0 changes form when one uses Temenos Units.
-- **7293**: It can be used to create special equipment.
-- **7294**: The produced equipment can be combined with $0 and Temenos Units.
-- **7295**: Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time).
-- **7307**: Do what? [Phase 1./Phase 2./Phase 3./Back.]
-- **7308**: New notorious monsters have been created based on collected data and registrant information.
-- **7309**: Here is information on new notorious monsters.
-- **7310**: 2: Notorious monsters are classified into three categories.
-- **7311**: 3: Notorious monsters' spawn conditions are defined for each group.
-- **7312**: 4: They spawn in Central Tower B1, which opens when certain conditions are met.
-- **7314**: Creating $0 based on registrant information.
-- **7315**: Multiple $0 may be created from $1 and $2.
-- **7316**: Created items can be used to unlock and reforge new equipment.
-- **7317**: Up to $3 $0 can be changed into other types.
-- **7318**: Reforged equipment attributes can be carried over to higher-tier equipment of the same series and equipment slot.
-- **7319**: However, the original equipment will be consumed in the process.
-- **7322**: Unique data will be recorded after dealing damage to a notorious monster.
-- **7323**: A wide variety of data is needed to ensure the unique data's precision.
-- **7324**: Acquiring the requisite amount of unique data will unlock one Temenos Coffer in either the north, west, east, or central towers.
-- **7325**: Unique data may be accumulated up to a cap of $0.
-- **7328**: New notorious monsters have been generated with stronger influence from registrant data.
-- **7329**: 2: Notorious monsters belong to a single group.
-- **7330**: 3: They will spawn after a certain period following the end of Phase 2. They spawn in Central Tower B1.
+- **7241**: Welcome to Temenos. Please present your $3.
+- **7242**: ...Credentials not present. Authorizing new issuance.
+- **7243**: Registration in progress...
+- **7244**: Welcome to Temenos. This place is designed for the generation of new life-forms.
+- **7245**: Defeating monsters on each floor of the towers will record data in your $3.
+- **7246**: Successfully recording data will permit you to open one Temenos Coffer.
+- **7247**: Collecting data will authorize you to handle Temenos Units.
+- **7248**: Systems are only capable of recording data for each registrant up to five times per week (Earth time).
+- **7249**: Temenos Units can be used in the Temenos Furnace.
+- **7250**: The Temenos Furnace will be authorized after sufficient data collection.
+- **7251**: Collecting additional data will authorize you to use Grace. It will aid you.
+- **7252**: The more data collected, the stronger the Grace.
+- **7253**: Your registration is now complete. Currently recording initial data in your $3.
+- **7254**: Please set your initial monster level. The higher the level, the more precise the data we can gather.
+- **7255**: Your $3 is now fully prepared. Glory to Zilart.
+- **7256**: ...
+- **7257**: ......
+- **7258**: Enter a level value between 119 and $1 to be recorded in your $3.
+- **7259**: "$1" has been recorded in your $3.
+- **7260**: Enter 0 to cancel.
+- **7262**: Increasing the level will reset your data collection progress.
+- **7263**: What will you do? [Change level and reset./Never mind.]
+- **7266**: Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./Central Tower B1 Opening./$1./Reforging carryover./Unique data./Nothing for now.]
+- **7267**: Remaining Temenos Units: $0. Total Temenos Units: $1/$2.
+- **7268**: The Temenos Furnace uses Temenos Units to enhance equipment compatible with them.
+- **7269**: Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Back.]
+- **7271**: Reforging your item into $0 requires $1 and $2 Temenos Units.
+- **7273**: 3 effects: Accuracy+$1@Ranged Accuracy+$1@Magic Accuracy+$1.
+- **7274**: $3 effects: BPALL+$3.
+- **7275**: $3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%
+- **7287**: I have generated notorious monsters based on your data.
+- **7288**: Here is information on notorious monsters.
+- **7289**: 1: They do not take your set level into account.
+- **7290**: 2: There are 22 types, but only 4 will appear on any given day (Earth time).
+- **7291**: $0: Vanquishing them affects the contents of the Temenos Coffer available four weeks later.
+- **7292**: This should enable you to collect even more precise data.
+- **7293**: The $0 changes form when one uses Temenos Units.
+- **7294**: It can be used to create special equipment.
+- **7295**: The produced equipment can be combined with $0 and Temenos Units.
+- **7296**: Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time).
+- **7308**: Do what? [Phase 1./Phase 2./Phase 3./Back.]
+- **7309**: New notorious monsters have been created based on collected data and registrant information.
+- **7310**: Here is information on new notorious monsters.
+- **7311**: 2: Notorious monsters are classified into three categories.
+- **7312**: 3: Notorious monsters' spawn conditions are defined for each group.
+- **7313**: 4: They spawn in Central Tower B1, which opens when certain conditions are met.
+- **7315**: Creating $0 based on registrant information.
+- **7316**: Multiple $0 may be created from $1 and $2.
+- **7317**: Created items can be used to unlock and reforge new equipment.
+- **7318**: Up to $3 $0 can be changed into other types.
+- **7319**: Reforged equipment attributes can be carried over to higher-tier equipment of the same series and equipment slot.
+- **7320**: However, the original equipment will be consumed in the process.
+- **7323**: Unique data will be recorded after dealing damage to a notorious monster.
+- **7324**: A wide variety of data is needed to ensure the unique data's precision.
+- **7325**: Acquiring the requisite amount of unique data will unlock one Temenos Coffer in either the north, west, east, or central towers.
+- **7326**: Unique data may be accumulated up to a cap of $0.
+- **7329**: New notorious monsters have been generated with stronger influence from registrant data.
+- **7330**: 2: Notorious monsters belong to a single group.
+- **7331**: 3: They will spawn after a certain period following the end of Phase 2. They spawn in Central Tower B1.
 
 ## Events
 
@@ -821,59 +821,59 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
   2: 0x0009 [0x03] Work_Zone[2] = 349*
-  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
+  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
     → "Welcome to Temenos. Please present your $3."
   4: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+  5: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "..."
   6: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+  7: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "......"
   8: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+  9: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "...Credentials not present. Authorizing new issuance."
  10: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+ 11: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "Registration in progress..."
  12: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+ 13: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Welcome to Temenos. This place is designed for the generation of new life-forms."
  14: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+ 15: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
     → "Defeating monsters on each floor of the towers will record data in your $3."
  16: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+ 17: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "Successfully recording data will permit you to open one Temenos Coffer."
  18: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+ 19: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Collecting data will authorize you to handle Temenos Units."
  20: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+ 21: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "Systems are only capable of recording data for each registrant up to five times per week (Earth time)."
  22: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 23: 0x0036 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Temenos Units can be used in the Temenos Furnace."
  24: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 25: 0x003A [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "The Temenos Furnace will be authorized after sufficient data collection."
  26: 0x003D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 27: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "Collecting additional data will authorize you to use Grace. It will aid you."
  28: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 29: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "The more data collected, the stronger the Grace."
  30: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 31: 0x0046 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "Your registration is now complete. Currently recording initial data in your $3."
  32: 0x0049 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
+ 33: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
     → "Please set your initial monster level. The higher the level, the more precise the data we can gather."
  34: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x004E [0x03] Work_Zone[3] = 135*
- 36: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 36: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "Enter a level value between 119 and $1 to be recorded in your $3."
  37: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x0057 [0x48] [System] [7259*]:
+ 38: 0x0057 [0x48] [System] [7260*]:
     → "Enter 0 to cancel."
  39: 0x005A [0x03] Work_Zone[1] = 0*
  40: 0x005F [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 3*])
@@ -886,16 +886,16 @@
  47: 0x0085 [0x03] Work_Zone[2] = 349*
  48: 0x008A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  49: 0x008F [0x03] Work_Zone[1] = ExtData[1]->WorkLocal[2]
- 50: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+ 50: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → ""$1" has been recorded in your $3."
  51: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
+ 52: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
     → "..."
  53: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7256*)
+ 54: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
     → "......"
  55: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7254*)
+ 56: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7255*)
     → "Your $3 is now fully prepared. Glory to Zilart."
  57: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x00A4 [0x01] GOTO 0x00AA
@@ -1394,7 +1394,7 @@ SUBROUTINE_00B0:
   8: 0x00DB [0x03] ExtData[1]->WorkLocal[8] = 0*
   9: 0x00E0 [0x03] Work_Zone[2] = 9999*
  10: 0x00E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[3]
- 11: 0x00EA [0x24] CREATE_DIALOG(message_id=7265*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[9])
+ 11: 0x00EA [0x24] CREATE_DIALOG(message_id=7266*, default_option=ExtData[1]->WorkLocal[5], option_flags=ExtData[1]->WorkLocal[9])
     → "Inquire about what? [Level settings./Temenos./Temenos Units./The Temenos Furnace./Equipment list./Grace./Notorious monsters./Treasure coffer timings./%./Central Tower B1 Opening./$1./Reforging carryover./Unique data./Nothing for now.]"
  12: 0x00F1 [0x25] WAIT_DIALOG_SELECT()
  13: 0x00F2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0210
@@ -1407,14 +1407,14 @@ SUBROUTINE_00B0:
  20: 0x0116 [0x07] ExtData[1]->WorkLocal[0] += 118*
  21: 0x011B [0x03] Work_Zone[2] = 349*
  22: 0x0120 [0x03] Work_Zone[3] = 135*
- 23: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7257*)
+ 23: 0x0125 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
     → "Enter a level value between 119 and $1 to be recorded in your $3."
  24: 0x0128 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0129 [0x48] [System] [7259*]:
+ 25: 0x0129 [0x48] [System] [7260*]:
     → "Enter 0 to cancel."
  26: 0x012C [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0137
  27: 0x0134 [0x01] GOTO 0x013A
- 28: 0x0137 [0x48] [System] [7261*]:
+ 28: 0x0137 [0x48] [System] [7262*]:
     → "Increasing the level will reset your data collection progress."
 
 SUBROUTINE_013A:
@@ -1431,14 +1431,14 @@ SUBROUTINE_013A:
  39: 0x0172 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  40: 0x0177 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  41: 0x0180 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 42: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+ 42: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → ""$1" has been recorded in your $3."
  43: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x018D [0x01] GOTO 0x0201
  45: 0x0190 [0x02] IF !(ExtData[1]->WorkLocal[2] <= ExtData[1]->WorkLocal[0]) GOTO 0x01E1
- 46: 0x0198 [0x48] [System] [7261*]:
+ 46: 0x0198 [0x48] [System] [7262*]:
     → "Increasing the level will reset your data collection progress."
- 47: 0x019B [0x24] CREATE_DIALOG(message_id=7262*, default_option=1*, option_flags=0*)
+ 47: 0x019B [0x24] CREATE_DIALOG(message_id=7263*, default_option=1*, option_flags=0*)
     → "What will you do? [Change level and reset./Never mind.]"
  48: 0x01A2 [0x25] WAIT_DIALOG_SELECT()
  49: 0x01A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CE
@@ -1446,7 +1446,7 @@ SUBROUTINE_013A:
  51: 0x01B0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  52: 0x01B5 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  53: 0x01BE [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 54: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+ 54: 0x01C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → ""$1" has been recorded in your $3."
  55: 0x01CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01CB [0x01] GOTO 0x01DE
@@ -1460,7 +1460,7 @@ SUBROUTINE_01DE:
  62: 0x01E6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[2]
  63: 0x01EB [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=10*, target=Work_Zone[1], source=1*)
  64: 0x01F4 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[2])
- 65: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7258*)
+ 65: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7259*)
     → ""$1" has been recorded in your $3."
  66: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1477,37 +1477,37 @@ SUBROUTINE_020D:
  72: 0x0210 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x024C
  73: 0x0218 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[0]
  74: 0x021D [0x03] Work_Zone[2] = 349*
- 75: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+ 75: 0x0222 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Welcome to Temenos. This place is designed for the generation of new life-forms."
  76: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+ 77: 0x0226 [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
     → "Defeating monsters on each floor of the towers will record data in your $3."
  78: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 79: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
+ 79: 0x022A [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
     → "Successfully recording data will permit you to open one Temenos Coffer."
  80: 0x022D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+ 81: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Collecting data will authorize you to handle Temenos Units."
  82: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 83: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
+ 83: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
     → "Systems are only capable of recording data for each registrant up to five times per week (Earth time)."
  84: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 85: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7248*)
+ 85: 0x0236 [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
     → "Temenos Units can be used in the Temenos Furnace."
  86: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 87: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+ 87: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "The Temenos Furnace will be authorized after sufficient data collection."
  88: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+ 89: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "Collecting additional data will authorize you to use Grace. It will aid you."
  90: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+ 91: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "The more data collected, the stronger the Grace."
  92: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0246 [0x01] GOTO 0x00E0
 
 SUBROUTINE_0281:
- 94: 0x0281 [0x24] CREATE_DIALOG(message_id=7268*, default_option=ExtData[1]->WorkLocal[6], option_flags=0*)
+ 94: 0x0281 [0x24] CREATE_DIALOG(message_id=7269*, default_option=ExtData[1]->WorkLocal[6], option_flags=0*)
     → "Inquire about which? [Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Armor./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Attire./Sakonji Armor./Mochizuki Armor./Telos Armor./Glyphic Attire./Luhlaza Attire./Lanuna Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire./Back.]"
  95: 0x0288 [0x25] WAIT_DIALOG_SELECT()
  96: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x034D
@@ -1659,14 +1659,14 @@ SUBROUTINE_136F:
 SUBROUTINE_13B1:
 195: 0x13B1 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x13BC
 196: 0x13B9 [0x01] GOTO 0x13C0
-197: 0x13BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7273*)
+197: 0x13BC [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
     → "$3 effects: BPALL+$3."
 198: 0x13BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_13C0:
 199: 0x13C0 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x13CB
 200: 0x13C8 [0x01] GOTO 0x13CF
-201: 0x13CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7274*)
+201: 0x13CB [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
     → "$3 effects: Max. HP+$5 EXP Loss Reduction: $6% MEXP Loss Reduction: $6%"
 202: 0x13CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1674,28 +1674,28 @@ SUBROUTINE_13CF:
 203: 0x13CF [0x01] GOTO 0x00E0
 
 SUBROUTINE_13E2:
-204: 0x13E2 [0x24] CREATE_DIALOG(message_id=7307*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[10])
+204: 0x13E2 [0x24] CREATE_DIALOG(message_id=7308*, default_option=ExtData[1]->WorkLocal[8], option_flags=ExtData[1]->WorkLocal[10])
     → "Do what? [Phase 1./Phase 2./Phase 3./Back.]"
 205: 0x13E9 [0x25] WAIT_DIALOG_SELECT()
 206: 0x13EA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x141A
 207: 0x13F2 [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[0]
-208: 0x13F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+208: 0x13F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
     → "I have generated notorious monsters based on your data."
 209: 0x13FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-210: 0x13FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
+210: 0x13FB [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
     → "Here is information on notorious monsters."
 211: 0x13FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x13FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
+212: 0x13FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
     → "1: They do not take your set level into account."
 213: 0x1402 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x1403 [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+214: 0x1403 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "2: There are 22 types, but only 4 will appear on any given day (Earth time)."
 215: 0x1406 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x1407 [0x03] Work_Zone[2] = 3*
-217: 0x140C [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+217: 0x140C [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "$0: Vanquishing them affects the contents of the Temenos Coffer available four weeks later."
 218: 0x140F [0x23] WAIT_FOR_DIALOG_INTERACTION
-219: 0x1410 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+219: 0x1410 [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
     → "This should enable you to collect even more precise data."
 220: 0x1413 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x1414 [0x01] GOTO 0x13E2
@@ -1707,7 +1707,7 @@ SUBROUTINE_1494:
 225: 0x14A4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=15*, target=Work_Zone[1], source=8*)
 226: 0x14AD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 227: 0x14AF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-228: 0x14B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+228: 0x14B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "Notorious monster vanquishing information will affect Temenos Coffers in $0 [days/hours/hour or less] (Earth time)."
 229: 0x14B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 230: 0x14B5 [0x01] GOTO 0x00E0

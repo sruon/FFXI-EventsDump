@@ -90,35 +90,35 @@
 |      19 | 0x0032      |          50 |
 |      20 | 0x0672      |        1650 |
 |      21 | 0xFFFEA1C6  |  4294877638 |
-|      22 | 0x1C8E      |        7310 |
-|      23 | 0x1C8F      |        7311 |
-|      24 | 0x1C90      |        7312 |
-|      25 | 0x1C91      |        7313 |
-|      26 | 0x1C92      |        7314 |
-|      27 | 0x1C93      |        7315 |
-|      28 | 0x1C94      |        7316 |
-|      29 | 0x1C95      |        7317 |
-|      30 | 0x1C96      |        7318 |
-|      31 | 0x1C97      |        7319 |
-|      32 | 0x1C98      |        7320 |
-|      33 | 0x1C99      |        7321 |
-|      34 | 0x1C9A      |        7322 |
+|      22 | 0x1C8F      |        7311 |
+|      23 | 0x1C90      |        7312 |
+|      24 | 0x1C91      |        7313 |
+|      25 | 0x1C92      |        7314 |
+|      26 | 0x1C93      |        7315 |
+|      27 | 0x1C94      |        7316 |
+|      28 | 0x1C95      |        7317 |
+|      29 | 0x1C96      |        7318 |
+|      30 | 0x1C97      |        7319 |
+|      31 | 0x1C98      |        7320 |
+|      32 | 0x1C99      |        7321 |
+|      33 | 0x1C9A      |        7322 |
+|      34 | 0x1C9B      |        7323 |
 
 ## String References
 
-- **7310**: Hm...
-- **7311**: King Ranperre... It is I, Rochefogne. Does Your Majesty not remember me?
-- **7312**: Often in youth did I hear stories of Your Majesty's glorious reign. I longed to grow into a man like the great Dragon King, Ranperre.
-- **7313**: Try though I did, I have failed. I have lost everything, even the most sacred of possessions.
-- **7314**: I...
-- **7315**: Your Majesty, please tell me. Whence has the sword disappeared? Did you dismiss it?
-- **7316**: Hmm...
-- **7317**: Who is there!?
-- **7318**: Who are you!? What are you doing there?
-- **7319**: Just an adventurer, are you? In search of tomb-robbers?
-- **7320**: Well...
-- **7321**: Wait, we have met before! You decided to serve San d'Oria, and now you are in search of tomb-robbers?
-- **7322**: Yes, of late many of the cairns are missing.
+- **7311**: Hm...
+- **7312**: King Ranperre... It is I, Rochefogne. Does Your Majesty not remember me?
+- **7313**: Often in youth did I hear stories of Your Majesty's glorious reign. I longed to grow into a man like the great Dragon King, Ranperre.
+- **7314**: Try though I did, I have failed. I have lost everything, even the most sacred of possessions.
+- **7315**: I...
+- **7316**: Your Majesty, please tell me. Whence has the sword disappeared? Did you dismiss it?
+- **7317**: Hmm...
+- **7318**: Who is there!?
+- **7319**: Who are you!? What are you doing there?
+- **7320**: Just an adventurer, are you? In search of tomb-robbers?
+- **7321**: Well...
+- **7322**: Wait, we have met before! You decided to serve San d'Oria, and now you are in search of tomb-robbers?
+- **7323**: Yes, of late many of the cairns are missing.
 
 ## Events
 
@@ -1045,7 +1045,7 @@
 #### Opcodes
 
 ```
-  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  0: 0x0249 [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "Hm..."
   1: 0x024C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x024D [0x00] END_REQSTACK()
@@ -1071,7 +1071,7 @@
 #### Opcodes
 
 ```
-  0: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
+  0: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
     → "King Ranperre... It is I, Rochefogne. Does Your Majesty not remember me?"
   1: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0252 [0x00] END_REQSTACK()
@@ -1096,7 +1096,7 @@
 #### Opcodes
 
 ```
-  0: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  0: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "Often in youth did I hear stories of Your Majesty's glorious reign. I longed to grow into a man like the great Dragon King, Ranperre."
   1: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0257 [0x00] END_REQSTACK()
@@ -1121,7 +1121,7 @@
 #### Opcodes
 
 ```
-  0: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
+  0: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
     → "Try though I did, I have failed. I have lost everything, even the most sacred of possessions."
   1: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x025C [0x00] END_REQSTACK()
@@ -1147,7 +1147,7 @@
 #### Opcodes
 
 ```
-  0: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+  0: 0x025D [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "I..."
   1: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0261 [0x00] END_REQSTACK()
@@ -1172,7 +1172,7 @@
 #### Opcodes
 
 ```
-  0: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
+  0: 0x0262 [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
     → "Your Majesty, please tell me. Whence has the sword disappeared? Did you dismiss it?"
   1: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0266 [0x00] END_REQSTACK()
@@ -1199,7 +1199,7 @@
 
 ```
   0: 0x0267 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  1: 0x026D [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "Hmm..."
   2: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0271 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1225,7 +1225,7 @@
 #### Opcodes
 
 ```
-  0: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+  0: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "Who is there!?"
   1: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x027C [0x00] END_REQSTACK()
@@ -1251,7 +1251,7 @@
 #### Opcodes
 
 ```
-  0: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
+  0: 0x027D [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
     → "Who are you!? What are you doing there?"
   1: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0281 [0x00] END_REQSTACK()
@@ -1276,7 +1276,7 @@
 #### Opcodes
 
 ```
-  0: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+  0: 0x0282 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "Just an adventurer, are you? In search of tomb-robbers?"
   1: 0x0285 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0286 [0x00] END_REQSTACK()
@@ -1301,7 +1301,7 @@
 #### Opcodes
 
 ```
-  0: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
+  0: 0x0287 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "Well..."
   1: 0x028A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x028B [0x00] END_REQSTACK()
@@ -1327,7 +1327,7 @@
 #### Opcodes
 
 ```
-  0: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
+  0: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
     → "Wait, we have met before! You decided to serve San d'Oria, and now you are in search of tomb-robbers?"
   1: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0290 [0x00] END_REQSTACK()
@@ -1352,7 +1352,7 @@
 #### Opcodes
 
 ```
-  0: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
+  0: 0x0291 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
     → "Yes, of late many of the cairns are missing."
   1: 0x0294 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0295 [0x00] END_REQSTACK()

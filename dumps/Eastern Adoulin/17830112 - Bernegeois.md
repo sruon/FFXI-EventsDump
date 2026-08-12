@@ -38,13 +38,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x001B      |          27 |
-|       2 | 0x2D9B      |       11675 |
-|       3 | 0x2D9C      |       11676 |
+|       2 | 0x2D9C      |       11676 |
+|       3 | 0x2D9D      |       11677 |
 
 ## String References
 
-- **11675**: A fine day to you, [sir/madam]. I trust you are here about a particular set of customers' tabs?
-- **11676**: Thank you for your payment. We look forward to serving other members of the Mummers' Coalition.
+- **11676**: A fine day to you, [sir/madam]. I trust you are here about a particular set of customers' tabs?
+- **11677**: Thank you for your payment. We look forward to serving other members of the Mummers' Coalition.
 
 ## Events
 
@@ -470,10 +470,10 @@
   2: 0x006F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0070 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0071 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=27*
-  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=11675*)
+  5: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=11676*)
     → "A fine day to you, [sir/madam]. I trust you are here about a particular set of customers' tabs?"
   6: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=11676*)
+  7: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=11677*)
     → "Thank you for your payment. We look forward to serving other members of the Mummers' Coalition."
   8: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0088 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=27*

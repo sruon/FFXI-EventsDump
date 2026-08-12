@@ -33,21 +33,21 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C6B      |        7275 |
-|       4 | 0x1C6C      |        7276 |
-|       5 | 0x37F4      |       14324 |
-|       6 | 0x37F7      |       14327 |
-|       7 | 0x37F8      |       14328 |
-|       8 | 0x37F9      |       14329 |
+|       3 | 0x1C6C      |        7276 |
+|       4 | 0x1C6D      |        7277 |
+|       5 | 0x37F5      |       14325 |
+|       6 | 0x37F8      |       14328 |
+|       7 | 0x37F9      |       14329 |
+|       8 | 0x37FA      |       14330 |
 
 ## String References
 
-- **7275**: Ever heard of the Brugaire Consortium? They're the largest trading company in San d'Oria, with merchants traveling as far as Jeuno.
-- **7276**: The vast cargo rooms down at the port belong to them, you know.
-- **14324**: <Player>'s badge flashes brightly.
-- **14327**: Yes, I know of the badge you wear.
-- **14328**: I was in the port when the Brugaire Consortium was unloading a large shipment of the things.
-- **14329**: I wonder if even the Brugaire Consortium goes too far, sometimes. This strange foreign cargo will land them in deep water with the Temple Knights, you mark my words.
+- **7276**: Ever heard of the Brugaire Consortium? They're the largest trading company in San d'Oria, with merchants traveling as far as Jeuno.
+- **7277**: The vast cargo rooms down at the port belong to them, you know.
+- **14325**: <Player>'s badge flashes brightly.
+- **14328**: Yes, I know of the badge you wear.
+- **14329**: I was in the port when the Brugaire Consortium was unloading a large shipment of the things.
+- **14330**: I wonder if even the Brugaire Consortium goes too far, sometimes. This strange foreign cargo will land them in deep water with the Temple Knights, you mark my words.
 
 ## Events
 
@@ -316,10 +316,10 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Phairupegiont (ID: 17723511/0x010E7077), tag_num=0x01)
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7275*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
     → "Ever heard of the Brugaire Consortium? They're the largest trading company in San d'Oria, with merchants traveling as far as Jeuno."
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+  6: 0x009C [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "The vast cargo rooms down at the port belong to them, you know."
   7: 0x009F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Phairupegiont (ID: 17723511/0x010E7077), tag_num=0x02)
@@ -352,18 +352,18 @@
 
 ```
   0: 0x00AB [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x00AC [0x48] [System] [14324*]:
+  1: 0x00AC [0x48] [System] [14325*]:
     → "<Player>'s badge flashes brightly."
   2: 0x00AF [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00B4 [0x1C] WAIT(30* ticks)
-  4: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14327*)
+  4: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
     → "Yes, I know of the badge you wear."
   5: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00BB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  7: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=14328*)
+  7: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
     → "I was in the port when the Brugaire Consortium was unloading a large shipment of the things."
   8: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=14329*)
+  9: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=14330*)
     → "I wonder if even the Brugaire Consortium goes too far, sometimes. This strange foreign cargo will land them in deep water with the Temple Knights, you mark my words."
  10: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00D2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

@@ -14,7 +14,7 @@
 | Event ID              | Entrypoint   |   Size |   Instructions |
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
-| [46](#event-46)       | 0x0001       |    722 |            109 |
+| [42](#event-42)       | 0x0001       |    722 |            109 |
 
 ## DAT References (imed_data)
 
@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x095F      |        2399 |
 |       1 | 0x0954      |        2388 |
-|       2 | 0x1F63      |        8035 |
-|       3 | 0x1F64      |        8036 |
+|       2 | 0x1F64      |        8036 |
+|       3 | 0x1F65      |        8037 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x00C8      |         200 |
@@ -104,8 +104,8 @@
 
 ## String References
 
-- **8035**: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
-- **8036**: [Descend/Ascend]? [Yes./No.]
+- **8036**: You might be able to [descend/ascend] using these vines if you only had $3 and $6.
+- **8037**: [Descend/Ascend]? [Yes./No.]
 
 ## Events
 
@@ -131,7 +131,7 @@
   0: 0x0000 [0x00] END_REQSTACK()
 ```
 
-### Event 46
+### Event 42
 
 #### Metadata
 
@@ -197,10 +197,10 @@
 ```
   0: 0x0001 [0x03] Work_Zone[5] = 2399*
   1: 0x0006 [0x03] Work_Zone[6] = 2388*
-  2: 0x000B [0x48] [System] [8035*]:
+  2: 0x000B [0x48] [System] [8036*]:
     → "You might be able to [descend/ascend] using these vines if you only had $3 and $6."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000F [0x24] CREATE_DIALOG(message_id=8036*, default_option=0*, option_flags=0*)
+  4: 0x000F [0x24] CREATE_DIALOG(message_id=8037*, default_option=0*, option_flags=0*)
     → "[Descend/Ascend]? [Yes./No.]"
   5: 0x0016 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0017 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02C1

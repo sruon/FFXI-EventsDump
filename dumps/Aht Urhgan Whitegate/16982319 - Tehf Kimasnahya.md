@@ -65,7 +65,7 @@
 |       9 | 0x1837      |        6199 |
 |      10 | 0x03A1      |         929 |
 |      11 | 0x0304      |         772 |
-|      12 | 0x1396      |        5014 |
+|      12 | 0x1397      |        5015 |
 |      13 | 0x0008      |           8 |
 |      14 | 0x00B4      |         180 |
 |      15 | 0xFFFEA43C  |  4294878268 |
@@ -75,7 +75,7 @@
 |      19 | 0xF3B4      |       62388 |
 |      20 | 0xFFFF0B44  |  4294904644 |
 |      21 | 0x0370      |         880 |
-|      22 | 0x13C4      |        5060 |
+|      22 | 0x13C5      |        5061 |
 |      23 | 0xDB64      |       56164 |
 |      24 | 0xFFFED34B  |  4294890315 |
 |      25 | 0x0D95      |        3477 |
@@ -91,7 +91,7 @@
 |      35 | 0xFFFEC722  |  4294887202 |
 |      36 | 0xFFFFBCFB  |  4294950139 |
 |      37 | 0xFFFEC874  |  4294887540 |
-|      38 | 0x13F1      |        5105 |
+|      38 | 0x13F2      |        5106 |
 |      39 | 0x0032      |          50 |
 |      40 | 0x005A      |          90 |
 |      41 | 0x0034      |          52 |
@@ -101,7 +101,7 @@
 |      45 | 0x123A      |        4666 |
 |      46 | 0xFFFE89C3  |  4294871491 |
 |      47 | 0x1271      |        4721 |
-|      48 | 0x13F8      |        5112 |
+|      48 | 0x13F9      |        5113 |
 |      49 | 0x3CCE      |       15566 |
 |      50 | 0x3FC7      |       16327 |
 |      51 | 0x6057      |       24663 |
@@ -111,15 +111,15 @@
 |      55 | 0x13152     |       78162 |
 |      56 | 0xFFFE2BCD  |  4294847437 |
 |      57 | 0xFFFFE890  |  4294961296 |
-|      58 | 0x1C27      |        7207 |
+|      58 | 0x1C28      |        7208 |
 
 ## String References
 
-- **5014**: Ekhu Pesshyadha has the $3. I have faith in you!t Go get 'em, [tiger/girl]!
-- **5060**: I wonder if the old lady's having any luck with the potion...
-- **5105**: Weird. I can't think of anything I want you to get for me! This is a first!
-- **5112**: That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday.
-- **7207**: I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!
+- **5015**: Ekhu Pesshyadha has the $3. I have faith in you!t Go get 'em, [tiger/girl]!
+- **5061**: I wonder if the old lady's having any luck with the potion...
+- **5106**: Weird. I can't think of anything I want you to get for me! This is a first!
+- **5113**: That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday.
+- **7208**: I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!
 
 ## Events
 
@@ -276,7 +276,7 @@
   0: 0x0046 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004B [0x1C] WAIT(30* ticks)
   2: 0x004E [0x03] Work_Zone[2] = 772*
-  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=5014*)
+  3: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=5015*)
     → "Ekhu Pesshyadha has the $3. I have faith in you!t Go get 'em, [tiger/girl]!"
   4: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0057 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
@@ -463,7 +463,7 @@
 ```
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x1C] WAIT(30* ticks)
-  2: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5060*)
+  2: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=5061*)
     → "I wonder if the old lady's having any luck with the potion..."
   3: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D5 [0x21] END_EVENT
@@ -648,7 +648,7 @@
 ```
   0: 0x0137 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x013C [0x1C] WAIT(30* ticks)
-  2: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=5105*)
+  2: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=5106*)
     → "Weird. I can't think of anything I want you to get for me! This is a first!"
   3: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0143 [0x21] END_EVENT
@@ -772,7 +772,7 @@
   0: 0x01D1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01D6 [0x1C] WAIT(30* ticks)
   2: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  3: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5112*)
+  3: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5113*)
     → "That Zabahf guy is always hanging around herrre, so I might ask him to be my bodyguard again someday."
   4: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01EC [0x21] END_EVENT
@@ -991,7 +991,7 @@
 #### Opcodes
 
 ```
-  0: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7207*)
+  0: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=7208*)
     → "I already told you! It was all an accident. If I could go back and change everything, I would, but I can't, so I won't!"
   1: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0231 [0x21] END_EVENT

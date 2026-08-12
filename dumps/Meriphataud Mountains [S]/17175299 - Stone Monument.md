@@ -20,21 +20,21 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E35      |        7733 |
-|       1 | 0x1E36      |        7734 |
-|       2 | 0x1E37      |        7735 |
-|       3 | 0x1E38      |        7736 |
-|       4 | 0x1E39      |        7737 |
-|       5 | 0x1E3A      |        7738 |
+|       0 | 0x1E36      |        7734 |
+|       1 | 0x1E37      |        7735 |
+|       2 | 0x1E38      |        7736 |
+|       3 | 0x1E39      |        7737 |
+|       4 | 0x1E3A      |        7738 |
+|       5 | 0x1E3B      |        7739 |
 
 ## String References
 
-- **7733**: You see a message engraved on the stone:
-- **7734**: Drogaroga's Spine: Tarutaru for "Spine of the Heavenly Dragon." It is made of that same mysterious white material as the holy crags.
-- **7735**: However, this is the first I've seen so exposed. A good portion of it is suspended in open space, no less.
-- **7736**: In San d'Oria, the papsque claims that they were monuments built by Altana in honor of the Elvaan. All believed him, but I feel that this cannot be true.
-- **7737**: This is merely conjecture, but I feel they resemble some kind of road or pipeline... But carrying what? If only I could show my father.
-- **7738**: The white crags, spines, points, and lines... What did my father discover at the end of his journey? I wish I knew. --Enid Ironheart, 778 Crystal Era.
+- **7734**: You see a message engraved on the stone:
+- **7735**: Drogaroga's Spine: Tarutaru for "Spine of the Heavenly Dragon." It is made of that same mysterious white material as the holy crags.
+- **7736**: However, this is the first I've seen so exposed. A good portion of it is suspended in open space, no less.
+- **7737**: In San d'Oria, the papsque claims that they were monuments built by Altana in honor of the Elvaan. All believed him, but I feel that this cannot be true.
+- **7738**: This is merely conjecture, but I feel they resemble some kind of road or pipeline... But carrying what? If only I could show my father.
+- **7739**: The white crags, spines, points, and lines... What did my father discover at the end of his journey? I wish I knew. --Enid Ironheart, 778 Crystal Era.
 
 ## Events
 
@@ -80,22 +80,22 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [7733*]:
+  0: 0x0001 [0x48] [System] [7734*]:
     → "You see a message engraved on the stone:"
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x48] [System] [7734*]:
+  2: 0x0005 [0x48] [System] [7735*]:
     → "Drogaroga's Spine: Tarutaru for "Spine of the Heavenly Dragon." It is made of that same mysterious white material as the holy crags."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x48] [System] [7735*]:
+  4: 0x0009 [0x48] [System] [7736*]:
     → "However, this is the first I've seen so exposed. A good portion of it is suspended in open space, no less."
   5: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x000D [0x48] [System] [7736*]:
+  6: 0x000D [0x48] [System] [7737*]:
     → "In San d'Oria, the papsque claims that they were monuments built by Altana in honor of the Elvaan. All believed him, but I feel that this cannot be true."
   7: 0x0010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0011 [0x48] [System] [7737*]:
+  8: 0x0011 [0x48] [System] [7738*]:
     → "This is merely conjecture, but I feel they resemble some kind of road or pipeline... But carrying what? If only I could show my father."
   9: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0015 [0x48] [System] [7738*]:
+ 10: 0x0015 [0x48] [System] [7739*]:
     → "The white crags, spines, points, and lines... What did my father discover at the end of his journey? I wish I knew. --Enid Ironheart, 778 Crystal Era."
  11: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0019 [0x21] END_EVENT

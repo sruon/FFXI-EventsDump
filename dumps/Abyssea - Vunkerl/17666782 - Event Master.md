@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2165      |        8549 |
+|       0 | 0x2166      |        8550 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0032      |          50 |
@@ -31,7 +31,7 @@
 |       8 | 0x00FF      |         255 |
 |       9 | 0x0013      |          19 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x2166      |        8550 |
+|      11 | 0x2167      |        8551 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x0004      |           4 |
 |      14 | 0x0005      |           5 |
@@ -50,8 +50,8 @@
 
 ## String References
 
-- **8549**: What can I do ya for? [Set fame./Set pollution level./Quest 1/Quest 2/Quest 3/Quest 4/Quest 5/Quest 6/Quest 7/Quest 8/Quest 9/M. Quest 1/M. Quest 2/B. Quest 1/B. Quest 2/B. Quest 3/B. Quest 4/B. Quest 5/B. Quest 6/Nothing.]
-- **8550**: Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]
+- **8550**: What can I do ya for? [Set fame./Set pollution level./Quest 1/Quest 2/Quest 3/Quest 4/Quest 5/Quest 6/Quest 7/Quest 8/Quest 9/M. Quest 1/M. Quest 2/B. Quest 1/B. Quest 2/B. Quest 3/B. Quest 4/B. Quest 5/B. Quest 6/Nothing.]
+- **8551**: Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]
 
 ## Events
 
@@ -208,7 +208,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=8549*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
     → "What can I do ya for? [Set fame./Set pollution level./Quest 1/Quest 2/Quest 3/Quest 4/Quest 5/Quest 6/Quest 7/Quest 8/Quest 9/M. Quest 1/M. Quest 2/B. Quest 1/B. Quest 2/B. Quest 3/B. Quest 4/B. Quest 5/B. Quest 6/Nothing.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0051
@@ -277,7 +277,7 @@ SUBROUTINE_0061:
      0x01A5 [0x02] IF !(1* == 1*) GOTO 0x01F1
      0x01AD [0x06] Work_Zone[1] = 0
      0x01B0 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=4*)
-     0x01B9 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x01B9 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x01C0 [0x25] WAIT_DIALOG_SELECT()
      0x01C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D5
@@ -298,7 +298,7 @@ SUBROUTINE_0061:
      0x0202 [0x02] IF !(1* == 1*) GOTO 0x024E
      0x020A [0x06] Work_Zone[1] = 0
      0x020D [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=5*)
-     0x0216 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x0216 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x021D [0x25] WAIT_DIALOG_SELECT()
      0x021E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0232
@@ -319,7 +319,7 @@ SUBROUTINE_0061:
      0x025F [0x02] IF !(1* == 1*) GOTO 0x02AB
      0x0267 [0x06] Work_Zone[1] = 0
      0x026A [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=6*)
-     0x0273 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x0273 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x027A [0x25] WAIT_DIALOG_SELECT()
      0x027B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x028F
@@ -340,7 +340,7 @@ SUBROUTINE_0061:
      0x02BC [0x02] IF !(1* == 1*) GOTO 0x0308
      0x02C4 [0x06] Work_Zone[1] = 0
      0x02C7 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=7*)
-     0x02D0 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x02D0 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x02D7 [0x25] WAIT_DIALOG_SELECT()
      0x02D8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02EC
@@ -361,7 +361,7 @@ SUBROUTINE_0061:
      0x0319 [0x02] IF !(1* == 1*) GOTO 0x0365
      0x0321 [0x06] Work_Zone[1] = 0
      0x0324 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=8*)
-     0x032D [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x032D [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x0334 [0x25] WAIT_DIALOG_SELECT()
      0x0335 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0349
@@ -382,7 +382,7 @@ SUBROUTINE_0061:
      0x0376 [0x02] IF !(1* == 1*) GOTO 0x03C2
      0x037E [0x06] Work_Zone[1] = 0
      0x0381 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=9*)
-     0x038A [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x038A [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x0391 [0x25] WAIT_DIALOG_SELECT()
      0x0392 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A6
@@ -403,7 +403,7 @@ SUBROUTINE_0061:
      0x03D3 [0x02] IF !(1* == 1*) GOTO 0x041F
      0x03DB [0x06] Work_Zone[1] = 0
      0x03DE [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=10*)
-     0x03E7 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x03E7 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x03EE [0x25] WAIT_DIALOG_SELECT()
      0x03EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0403
@@ -424,7 +424,7 @@ SUBROUTINE_0061:
      0x0430 [0x02] IF !(1* == 1*) GOTO 0x047C
      0x0438 [0x06] Work_Zone[1] = 0
      0x043B [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=11*)
-     0x0444 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x0444 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x044B [0x25] WAIT_DIALOG_SELECT()
      0x044C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0460
@@ -445,7 +445,7 @@ SUBROUTINE_0061:
      0x048D [0x02] IF !(1* == 1*) GOTO 0x04D9
      0x0495 [0x06] Work_Zone[1] = 0
      0x0498 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=12*)
-     0x04A1 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x04A1 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x04A8 [0x25] WAIT_DIALOG_SELECT()
      0x04A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04BD
@@ -466,7 +466,7 @@ SUBROUTINE_0061:
      0x04EA [0x02] IF !(1* == 1*) GOTO 0x0536
      0x04F2 [0x06] Work_Zone[1] = 0
      0x04F5 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=13*)
-     0x04FE [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x04FE [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x0505 [0x25] WAIT_DIALOG_SELECT()
      0x0506 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x051A
@@ -487,7 +487,7 @@ SUBROUTINE_0061:
      0x0547 [0x02] IF !(1* == 1*) GOTO 0x0593
      0x054F [0x06] Work_Zone[1] = 0
      0x0552 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=14*)
-     0x055B [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x055B [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x0562 [0x25] WAIT_DIALOG_SELECT()
      0x0563 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0577
@@ -508,7 +508,7 @@ SUBROUTINE_0061:
      0x05A4 [0x02] IF !(1* == 1*) GOTO 0x05F0
      0x05AC [0x06] Work_Zone[1] = 0
      0x05AF [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=15*)
-     0x05B8 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x05B8 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x05BF [0x25] WAIT_DIALOG_SELECT()
      0x05C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05D4
@@ -529,7 +529,7 @@ SUBROUTINE_0061:
      0x0601 [0x02] IF !(1* == 1*) GOTO 0x064D
      0x0609 [0x06] Work_Zone[1] = 0
      0x060C [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=16*)
-     0x0615 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x0615 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x061C [0x25] WAIT_DIALOG_SELECT()
      0x061D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0631
@@ -550,7 +550,7 @@ SUBROUTINE_0061:
      0x065E [0x02] IF !(1* == 1*) GOTO 0x06AA
      0x0666 [0x06] Work_Zone[1] = 0
      0x0669 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=17*)
-     0x0672 [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x0672 [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x0679 [0x25] WAIT_DIALOG_SELECT()
      0x067A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x068E
@@ -571,7 +571,7 @@ SUBROUTINE_0061:
      0x06BB [0x02] IF !(1* == 1*) GOTO 0x0707
      0x06C3 [0x06] Work_Zone[1] = 0
      0x06C6 [0x40] SET_BIT_WORK_RANGE(start_bit=24*, end_bit=31*, target=Work_Zone[1], source=18*)
-     0x06CF [0x24] CREATE_DIALOG(message_id=8550*, default_option=0*, option_flags=0*)
+     0x06CF [0x24] CREATE_DIALOG(message_id=8551*, default_option=0*, option_flags=0*)
     → "Choose wisely! [Start: [Off/On]./End: [Off/On]./Cancel.]"
      0x06D6 [0x25] WAIT_DIALOG_SELECT()
      0x06D7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06EB

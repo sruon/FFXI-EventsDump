@@ -31,10 +31,10 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3D12      |       15634 |
-|       1 | 0x29F1      |       10737 |
-|       2 | 0x29F2      |       10738 |
-|       3 | 0x292F      |       10543 |
+|       0 | 0x3D13      |       15635 |
+|       1 | 0x29F2      |       10738 |
+|       2 | 0x29F3      |       10739 |
+|       3 | 0x2930      |       10544 |
 |       4 | 0xFFFDB472  |  4294816882 |
 |       5 | 0xFFFF5C4A  |  4294925386 |
 |       6 | 0x0000      |           0 |
@@ -57,7 +57,7 @@
 |      23 | 0x0C8A      |        3210 |
 |      24 | 0x0066      |         102 |
 |      25 | 0x00F0      |         240 |
-|      26 | 0x28E6      |       10470 |
+|      26 | 0x28E7      |       10471 |
 |      27 | 0x00C8      |         200 |
 |      28 | 0x0078      |         120 |
 |      29 | 0x09BF      |        2495 |
@@ -65,11 +65,11 @@
 
 ## String References
 
-- **10470**: I don't know how you got inside, but that area is off limits. Vacate the premises immediately!
-- **10543**: You received a stamp!
-- **10737**: This area is off-limits.
-- **10738**: You're here for the stamp hunt, right? Here you go. I wonder why so many adventurers are participating in this thing. But then again, I wouldn't want children running around here, either.
-- **15634**: What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you.
+- **10471**: I don't know how you got inside, but that area is off limits. Vacate the premises immediately!
+- **10544**: You received a stamp!
+- **10738**: This area is off-limits.
+- **10739**: You're here for the stamp hunt, right? Here you go. I wonder why so many adventurers are participating in this thing. But then again, I wouldn't want children running around here, either.
+- **15635**: What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you.
 
 ## Events
 
@@ -116,7 +116,7 @@
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15634*)
+  2: 0x0007 [0x1D] PRINT_EVENT_MESSAGE(message_id=15635*)
     → "What? A Starlight Celebration present? You came all the way to this decrepit part of town just to give this to me? You've a good heart, friend. Thank you."
   3: 0x000A [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000B [0x21] END_EVENT
@@ -144,7 +144,7 @@
 
 ```
   0: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10737*)
+  1: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
     → "This area is off-limits."
   2: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0016 [0x21] END_EVENT
@@ -173,10 +173,10 @@
 ```
   0: 0x0018 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0019 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10738*)
+  2: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=10739*)
     → "You're here for the stamp hunt, right? Here you go. I wonder why so many adventurers are participating in this thing. But then again, I wouldn't want children running around here, either."
   3: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0022 [0x48] [System] [10543*]:
+  4: 0x0022 [0x48] [System] [10544*]:
     → "You received a stamp!"
   5: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0026 [0x21] END_EVENT
@@ -422,7 +422,7 @@
   7: 0x00B5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   8: 0x00BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x00BB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 10: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
+ 10: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
     → "I don't know how you got inside, but that area is off limits. Vacate the premises immediately!"
  11: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

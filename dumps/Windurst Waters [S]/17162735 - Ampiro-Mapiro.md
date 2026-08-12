@@ -25,12 +25,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x2AE6      |       10982 |
-|       2 | 0x2AE7      |       10983 |
-|       3 | 0x2AE8      |       10984 |
+|       1 | 0x2AE7      |       10983 |
+|       2 | 0x2AE8      |       10984 |
+|       3 | 0x2AE9      |       10985 |
 |       4 | 0x00AA      |         170 |
 |       5 | 0x00A7      |         167 |
-|       6 | 0x2AFB      |       11003 |
+|       6 | 0x2AFC      |       11004 |
 
 ## Events
 
@@ -79,13 +79,13 @@
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
-  2: 0x000D [0x2B] EventEntity [10982*]:
+  2: 0x000D [0x2B] EventEntity [10983*]:
     → "At first, when the birdmen attacked, I was just really scared... I didn't know what to do."
   3: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0015 [0x2B] EventEntity [10983*]:
+  4: 0x0015 [0x2B] EventEntity [10984*]:
     → "But then I realized that I had to fight for my Windurst. So I stayed behind all the grownups and kept casting the cure spell that my teacher taught me on them."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x2B] EventEntity [10984*]:
+  6: 0x001D [0x2B] EventEntity [10985*]:
     → "I was so happy-wappy to see my spells making some of them feel better rightaru away!"
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0025 [0x21] END_EVENT
@@ -161,7 +161,7 @@
 ```
   0: 0x0031 [0x4A] EventEntity looks at LocalPlayer
   1: 0x003A [0x1C] WAIT(30* ticks)
-  2: 0x003D [0x2B] EventEntity [11003*]:
+  2: 0x003D [0x2B] EventEntity [11004*]:
     → "Woohoo, class dismissed! We're gonna have so much fun in Heavens Tower--I'm bringing all my toys!"
   3: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0045 [0x21] END_EVENT

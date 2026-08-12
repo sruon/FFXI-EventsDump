@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2157      |        8535 |
-|       1 | 0x2158      |        8536 |
+|       0 | 0x2158      |        8536 |
+|       1 | 0x2159      |        8537 |
 
 ## String References
 
-- **8535**: HUH??? WHAT'S THATARU SAY? SPEAK UP THERE, YOUNG'UN... I'M A LITTLE DEAF!
-- **8536**: HWAH...! NOW I GIT YA! WELL THEN, HOW ABOUTS... "IF YOU CAN'T SAY ANYTHING NICE, THEN DON'T SAY ANYTHING ATARULL!"? THAT HELP YA?
+- **8536**: HUH??? WHAT'S THATARU SAY? SPEAK UP THERE, YOUNG'UN... I'M A LITTLE DEAF!
+- **8537**: HWAH...! NOW I GIT YA! WELL THEN, HOW ABOUTS... "IF YOU CAN'T SAY ANYTHING NICE, THEN DON'T SAY ANYTHING ATARULL!"? THAT HELP YA?
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
     → "HUH??? WHAT'S THATARU SAY? SPEAK UP THERE, YOUNG'UN... I'M A LITTLE DEAF!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8537*)
     → "HWAH...! NOW I GIT YA! WELL THEN, HOW ABOUTS... "IF YOU CAN'T SAY ANYTHING NICE, THEN DON'T SAY ANYTHING ATARULL!"? THAT HELP YA?"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

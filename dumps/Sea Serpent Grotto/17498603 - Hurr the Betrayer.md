@@ -23,30 +23,30 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CB7      |        7351 |
-|       1 | 0x1CB8      |        7352 |
+|       0 | 0x1CB8      |        7352 |
+|       1 | 0x1CB9      |        7353 |
 |       2 | 0x046F      |        1135 |
 |       3 | 0x02ED      |         749 |
-|       4 | 0x1CBA      |        7354 |
-|       5 | 0x1CB9      |        7353 |
+|       4 | 0x1CBB      |        7355 |
+|       5 | 0x1CBA      |        7354 |
 |       6 | 0x02EC      |         748 |
-|       7 | 0x1CBB      |        7355 |
-|       8 | 0x1CBC      |        7356 |
+|       7 | 0x1CBC      |        7356 |
+|       8 | 0x1CBD      |        7357 |
 |       9 | 0x0055      |          85 |
 |      10 | 0x00C8      |         200 |
 |      11 | 0x0000      |           0 |
 |      12 | 0x00B4      |         180 |
-|      13 | 0x1CBD      |        7357 |
+|      13 | 0x1CBE      |        7358 |
 
 ## String References
 
-- **7351**: Whoa! Keep it down! You want me to get caught?
-- **7352**: Don't go telling anyone that you saw me here. If Bou ever found me, I...
-- **7353**: Whoa! Oh, it's you.
-- **7354**: Bring me $0 and three $1 and I make you something nice.
-- **7355**: Bring me $0 and $1 and I make you what you look for.
-- **7356**: Didn't think you be back so soon. Let me get right on it...
-- **7357**: Here you go, but don't tell anyone I made key for you.
+- **7352**: Whoa! Keep it down! You want me to get caught?
+- **7353**: Don't go telling anyone that you saw me here. If Bou ever found me, I...
+- **7354**: Whoa! Oh, it's you.
+- **7355**: Bring me $0 and three $1 and I make you something nice.
+- **7356**: Bring me $0 and $1 and I make you what you look for.
+- **7357**: Didn't think you be back so soon. Let me get right on it...
+- **7358**: Here you go, but don't tell anyone I made key for you.
 
 ## Events
 
@@ -92,7 +92,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "Whoa! Keep it down! You want me to get caught?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -121,15 +121,15 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "Whoa! Keep it down! You want me to get caught?"
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "Don't go telling anyone that you saw me here. If Bou ever found me, I..."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x03] Work_Zone[2] = 1135*
   6: 0x001E [0x03] Work_Zone[3] = 749*
-  7: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+  7: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "Bring me $0 and three $1 and I make you something nice."
   8: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0027 [0x21] END_EVENT
@@ -158,12 +158,12 @@
 
 ```
   0: 0x0029 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+  1: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "Whoa! Oh, it's you."
   2: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0032 [0x03] Work_Zone[2] = 1135*
   4: 0x0037 [0x03] Work_Zone[3] = 748*
-  5: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
+  5: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
     → "Bring me $0 and $1 and I make you what you look for."
   6: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0040 [0x21] END_EVENT
@@ -196,7 +196,7 @@
   0: 0x0042 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0047 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0049 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  3: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+  3: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "Didn't think you be back so soon. Let me get right on it..."
   4: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x004E [0x39] SET_ENTITY_DIRECTION(direction=0.5°*)
@@ -204,7 +204,7 @@
   7: 0x0062 [0x1C] WAIT(180* ticks)
   8: 0x0065 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x0076 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 10: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+ 10: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "Here you go, but don't tell anyone I made key for you."
  11: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x007F [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -127,7 +127,7 @@
 |      32 | 0xFFFFDE4B  |  4294958667 |
 |      33 | 0x0246      |         582 |
 |      34 | 0x089A      |        2202 |
-|      35 | 0x2728      |       10024 |
+|      35 | 0x2729      |       10025 |
 |      36 | 0x0000      |           0 |
 |      37 | 0x00C8      |         200 |
 |      38 | 0x0202      |         514 |
@@ -139,39 +139,39 @@
 |      44 | 0xFFFFD31E  |  4294955806 |
 |      45 | 0x00BC      |         188 |
 |      46 | 0x00DC      |         220 |
-|      47 | 0x2899      |       10393 |
-|      48 | 0x289A      |       10394 |
-|      49 | 0x289B      |       10395 |
-|      50 | 0x289C      |       10396 |
+|      47 | 0x289A      |       10394 |
+|      48 | 0x289B      |       10395 |
+|      49 | 0x289C      |       10396 |
+|      50 | 0x289D      |       10397 |
 |      51 | 0x0236      |         566 |
-|      52 | 0x289D      |       10397 |
-|      53 | 0x289E      |       10398 |
-|      54 | 0x289F      |       10399 |
+|      52 | 0x289E      |       10398 |
+|      53 | 0x289F      |       10399 |
+|      54 | 0x28A0      |       10400 |
 |      55 | 0x0014      |          20 |
-|      56 | 0x28A0      |       10400 |
+|      56 | 0x28A1      |       10401 |
 |      57 | 0x003C      |          60 |
-|      58 | 0x28A1      |       10401 |
+|      58 | 0x28A2      |       10402 |
 |      59 | 0x0078      |         120 |
-|      60 | 0x28A2      |       10402 |
+|      60 | 0x28A3      |       10403 |
 |      61 | 0x009A      |         154 |
-|      62 | 0x28A3      |       10403 |
-|      63 | 0x28A4      |       10404 |
-|      64 | 0x28A5      |       10405 |
-|      65 | 0x28A6      |       10406 |
-|      66 | 0x28A7      |       10407 |
-|      67 | 0x28A8      |       10408 |
-|      68 | 0x28A9      |       10409 |
-|      69 | 0x28AA      |       10410 |
-|      70 | 0x28AB      |       10411 |
-|      71 | 0x28AC      |       10412 |
-|      72 | 0x28AD      |       10413 |
-|      73 | 0x28AE      |       10414 |
-|      74 | 0x28AF      |       10415 |
-|      75 | 0x28B0      |       10416 |
-|      76 | 0x28B1      |       10417 |
-|      77 | 0x28B2      |       10418 |
-|      78 | 0x28B3      |       10419 |
-|      79 | 0x28B4      |       10420 |
+|      62 | 0x28A4      |       10404 |
+|      63 | 0x28A5      |       10405 |
+|      64 | 0x28A6      |       10406 |
+|      65 | 0x28A7      |       10407 |
+|      66 | 0x28A8      |       10408 |
+|      67 | 0x28A9      |       10409 |
+|      68 | 0x28AA      |       10410 |
+|      69 | 0x28AB      |       10411 |
+|      70 | 0x28AC      |       10412 |
+|      71 | 0x28AD      |       10413 |
+|      72 | 0x28AE      |       10414 |
+|      73 | 0x28AF      |       10415 |
+|      74 | 0x28B0      |       10416 |
+|      75 | 0x28B1      |       10417 |
+|      76 | 0x28B2      |       10418 |
+|      77 | 0x28B3      |       10419 |
+|      78 | 0x28B4      |       10420 |
+|      79 | 0x28B5      |       10421 |
 |      80 | 0x00D1      |         209 |
 |      81 | 0xFFF91FC1  |  4294516673 |
 |      82 | 0xFFFC58BD  |  4294727869 |
@@ -282,19 +282,19 @@
 |     187 | 0x09B9      |        2489 |
 |     188 | 0x005A      |          90 |
 |     189 | 0x00D2      |         210 |
-|     190 | 0x2BA6      |       11174 |
-|     191 | 0x2BA7      |       11175 |
-|     192 | 0x2BA8      |       11176 |
-|     193 | 0x2BA9      |       11177 |
-|     194 | 0x2BAA      |       11178 |
-|     195 | 0x2BAB      |       11179 |
-|     196 | 0x2BAC      |       11180 |
-|     197 | 0x2BAD      |       11181 |
+|     190 | 0x2BA7      |       11175 |
+|     191 | 0x2BA8      |       11176 |
+|     192 | 0x2BA9      |       11177 |
+|     193 | 0x2BAA      |       11178 |
+|     194 | 0x2BAB      |       11179 |
+|     195 | 0x2BAC      |       11180 |
+|     196 | 0x2BAD      |       11181 |
+|     197 | 0x2BAE      |       11182 |
 |     198 | 0x003E      |          62 |
-|     199 | 0x2BAE      |       11182 |
-|     200 | 0x2BAF      |       11183 |
-|     201 | 0x2BB0      |       11184 |
-|     202 | 0x2BB1      |       11185 |
+|     199 | 0x2BAF      |       11183 |
+|     200 | 0x2BB0      |       11184 |
+|     201 | 0x2BB1      |       11185 |
+|     202 | 0x2BB2      |       11186 |
 |     203 | 0x0096      |         150 |
 |     204 | 0xFFFFB138  |  4294947128 |
 |     205 | 0xFFFF3F13  |  4294917907 |
@@ -302,90 +302,90 @@
 |     207 | 0x0407      |        1031 |
 |     208 | 0x00E7      |         231 |
 |     209 | 0x0045      |          69 |
-|     210 | 0x2BB4      |       11188 |
-|     211 | 0x2BB5      |       11189 |
-|     212 | 0x2BB6      |       11190 |
-|     213 | 0x2BB7      |       11191 |
-|     214 | 0x2BB8      |       11192 |
-|     215 | 0x2BB9      |       11193 |
-|     216 | 0x2BBA      |       11194 |
-|     217 | 0x2BBB      |       11195 |
+|     210 | 0x2BB5      |       11189 |
+|     211 | 0x2BB6      |       11190 |
+|     212 | 0x2BB7      |       11191 |
+|     213 | 0x2BB8      |       11192 |
+|     214 | 0x2BB9      |       11193 |
+|     215 | 0x2BBA      |       11194 |
+|     216 | 0x2BBB      |       11195 |
+|     217 | 0x2BBC      |       11196 |
 |     218 | 0x00B0      |         176 |
 |     219 | 0x0011      |          17 |
 |     220 | 0x00B4      |         180 |
-|     221 | 0x2BBC      |       11196 |
+|     221 | 0x2BBD      |       11197 |
 |     222 | 0x0F7D      |        3965 |
 |     223 | 0x00F0      |         240 |
 |     224 | 0x012C      |         300 |
-|     225 | 0x2BBD      |       11197 |
-|     226 | 0x2BBE      |       11198 |
+|     225 | 0x2BBE      |       11198 |
+|     226 | 0x2BBF      |       11199 |
 |     227 | 0x0015      |          21 |
 |     228 | 0x00C9      |         201 |
-|     229 | 0x2BBF      |       11199 |
-|     230 | 0x2BC0      |       11200 |
-|     231 | 0x2BC1      |       11201 |
-|     232 | 0x2BC2      |       11202 |
-|     233 | 0x2BC3      |       11203 |
+|     229 | 0x2BC0      |       11200 |
+|     230 | 0x2BC1      |       11201 |
+|     231 | 0x2BC2      |       11202 |
+|     232 | 0x2BC3      |       11203 |
+|     233 | 0x2BC4      |       11204 |
 |     234 | 0x0348      |         840 |
-|     235 | 0x2BC4      |       11204 |
-|     236 | 0x2BC5      |       11205 |
-|     237 | 0x2BC6      |       11206 |
-|     238 | 0x2BC7      |       11207 |
+|     235 | 0x2BC5      |       11205 |
+|     236 | 0x2BC6      |       11206 |
+|     237 | 0x2BC7      |       11207 |
+|     238 | 0x2BC8      |       11208 |
 |     239 | 0x00FC      |         252 |
 |     240 | 0xFFFFAF79  |  4294946681 |
 |     241 | 0xFFFF49A6  |  4294920614 |
 |     242 | 0x00F1      |         241 |
 |     243 | 0x0365      |         869 |
-|     244 | 0x2BC8      |       11208 |
-|     245 | 0x2BC9      |       11209 |
-|     246 | 0x2BCA      |       11210 |
-|     247 | 0x2BCB      |       11211 |
-|     248 | 0x2BCC      |       11212 |
-|     249 | 0x2BCD      |       11213 |
+|     244 | 0x2BC9      |       11209 |
+|     245 | 0x2BCA      |       11210 |
+|     246 | 0x2BCB      |       11211 |
+|     247 | 0x2BCC      |       11212 |
+|     248 | 0x2BCD      |       11213 |
+|     249 | 0x2BCE      |       11214 |
 |     250 | 0x004F      |          79 |
-|     251 | 0x2BCE      |       11214 |
-|     252 | 0x2BCF      |       11215 |
-|     253 | 0x2BD0      |       11216 |
+|     251 | 0x2BCF      |       11215 |
+|     252 | 0x2BD0      |       11216 |
+|     253 | 0x2BD1      |       11217 |
 |     254 | 0x0041      |          65 |
-|     255 | 0x2BD1      |       11217 |
-|     256 | 0x2BD2      |       11218 |
-|     257 | 0x2BD3      |       11219 |
-|     258 | 0x2BD4      |       11220 |
-|     259 | 0x2BD5      |       11221 |
-|     260 | 0x2BD6      |       11222 |
-|     261 | 0x2BD7      |       11223 |
-|     262 | 0x2BD8      |       11224 |
-|     263 | 0x2BD9      |       11225 |
+|     255 | 0x2BD2      |       11218 |
+|     256 | 0x2BD3      |       11219 |
+|     257 | 0x2BD4      |       11220 |
+|     258 | 0x2BD5      |       11221 |
+|     259 | 0x2BD6      |       11222 |
+|     260 | 0x2BD7      |       11223 |
+|     261 | 0x2BD8      |       11224 |
+|     262 | 0x2BD9      |       11225 |
+|     263 | 0x2BDA      |       11226 |
 |     264 | 0xFFFFBB59  |  4294949721 |
 |     265 | 0xFFFF9E51  |  4294942289 |
 |     266 | 0x09D5      |        2517 |
-|     267 | 0x2BDB      |       11227 |
-|     268 | 0x2BDC      |       11228 |
-|     269 | 0x2BDD      |       11229 |
-|     270 | 0x2BDE      |       11230 |
-|     271 | 0x2BDF      |       11231 |
+|     267 | 0x2BDC      |       11228 |
+|     268 | 0x2BDD      |       11229 |
+|     269 | 0x2BDE      |       11230 |
+|     270 | 0x2BDF      |       11231 |
+|     271 | 0x2BE0      |       11232 |
 |     272 | 0x007C      |         124 |
-|     273 | 0x2BE0      |       11232 |
-|     274 | 0x2BE1      |       11233 |
-|     275 | 0x2BE2      |       11234 |
+|     273 | 0x2BE1      |       11233 |
+|     274 | 0x2BE2      |       11234 |
+|     275 | 0x2BE3      |       11235 |
 |     276 | 0x05AF      |        1455 |
-|     277 | 0x2BE3      |       11235 |
+|     277 | 0x2BE4      |       11236 |
 |     278 | 0x0022      |          34 |
-|     279 | 0x2BE4      |       11236 |
-|     280 | 0x2BE5      |       11237 |
-|     281 | 0x2BE6      |       11238 |
-|     282 | 0x2BE7      |       11239 |
-|     283 | 0x2BE8      |       11240 |
+|     279 | 0x2BE5      |       11237 |
+|     280 | 0x2BE6      |       11238 |
+|     281 | 0x2BE7      |       11239 |
+|     282 | 0x2BE8      |       11240 |
+|     283 | 0x2BE9      |       11241 |
 |     284 | 0x0019      |          25 |
-|     285 | 0x2BE9      |       11241 |
+|     285 | 0x2BEA      |       11242 |
 |     286 | 0x0064      |         100 |
-|     287 | 0x2BEC      |       11244 |
-|     288 | 0x2BED      |       11245 |
-|     289 | 0x2BEE      |       11246 |
-|     290 | 0x2BEF      |       11247 |
-|     291 | 0x2BF0      |       11248 |
-|     292 | 0x2BF1      |       11249 |
-|     293 | 0x2BF2      |       11250 |
+|     287 | 0x2BED      |       11245 |
+|     288 | 0x2BEE      |       11246 |
+|     289 | 0x2BEF      |       11247 |
+|     290 | 0x2BF0      |       11248 |
+|     291 | 0x2BF1      |       11249 |
+|     292 | 0x2BF2      |       11250 |
+|     293 | 0x2BF3      |       11251 |
 |     294 | 0x1D38E     |      119694 |
 |     295 | 0xFFFFD112  |  4294955282 |
 |     296 | 0x0FEC      |        4076 |
@@ -422,7 +422,7 @@
 ## String References
 
 - **1**: Set this as current home point? [Yes./No.]
-- **10024**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
+- **10025**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
 
 ## Events
 
@@ -734,7 +734,7 @@
 ```
   0: 0x00A3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x00A4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x00A6 [0x48] [System] [10024*]:
+  2: 0x00A6 [0x48] [System] [10025*]:
     → "For your own safety, it is recommended that you set this location as your home point after changing jobs."
   3: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00AA [0x24] CREATE_DIALOG(message_id=1*, default_option=1*, option_flags=0*)
@@ -809,33 +809,33 @@ SUBROUTINE_00C7:
  12: 0x0120 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
  13: 0x0131 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  14: 0x0142 [0x79] Gilgamesh (ID: 17809411/0x010FC003) looks at LocalPlayer (Basic look)
- 15: 0x014C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10393*]:
+ 15: 0x014C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10394*]:
     → "Arrrg, so you're the landlubbin' adventurer that they sent from Bastok."
  16: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0154 [0x7B] Gilgamesh (ID: 17809411/0x010FC003) stops talking
- 18: 0x0159 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10394*]:
+ 18: 0x0159 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10395*]:
     → "I'm a busy man, so let's cut with the chitchat and get right down to business."
  19: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0161 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
- 21: 0x0172 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10395*]:
+ 21: 0x0172 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10396*]:
     → "Lately, you adventurers are making quite a killin' on items, weapons, and the like. We knew that you were out there, but we didn't think you'd be givin' us this much competition."
  22: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x017A [0x6B] STOP_AND_IDLE: Gilgamesh (ID: 17809411/0x010FC003) stops current action and resets to idle (animation="idl0")
  24: 0x0183 [0x4A] Gilgamesh (ID: 17809411/0x010FC003) looks at LocalPlayer
- 25: 0x018C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10396*]:
+ 25: 0x018C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10397*]:
     → "But rather than gettin' in each other's way, I thought that there might be a way we could work together. What I want ya t'do is give me an idea of what you adventurers are capable of."
  26: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0194 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 28: 0x01A3 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10397*]:
+ 28: 0x01A3 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10398*]:
     → "There are a few items that me mateys couldn't acquire. I want ya t'go and get them."
  29: 0x01AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x01AB [0x52] END_LOAD_SCHEDULER: End scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=220*
  31: 0x01BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
- 32: 0x01CB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10398*]:
+ 32: 0x01CB [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10399*]:
     → "Travel to one of them molten lava falls in Ifrit's Cauldron."
  33: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x01D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 35: 0x01E2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10399*]:
+ 35: 0x01E2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10400*]:
     → "If you throw in $6, a monster will appear. Bring back the $7 that the beast has on it."
  36: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x01EA [0x52] END_LOAD_SCHEDULER: End scheduler "s003" with entities [LocalPlayer, LocalPlayer], work=220*
@@ -843,7 +843,7 @@ SUBROUTINE_00C7:
  39: 0x020A [0x6B] STOP_AND_IDLE: Gilgamesh (ID: 17809411/0x010FC003) stops current action and resets to idle (animation="id10")
  40: 0x0213 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
  41: 0x0224 [0x1C] WAIT(20* ticks)
- 42: 0x0227 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10400*]:
+ 42: 0x0227 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10401*]:
     → "Do ya think you can handle it, ya landlubber?"
  43: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x022F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -941,12 +941,12 @@ SUBROUTINE_00C7:
  14: 0x02A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
  15: 0x02B7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x02C8 [0x79] Gilgamesh (ID: 17809411/0x010FC003) looks at LocalPlayer (Basic look)
- 17: 0x02D2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10401*]:
+ 17: 0x02D2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10402*]:
     → "Hah hah hah! Me landlubbin' adventurer brought back $7. It looks like I need to find myself some new mateys! Hah hah hah!"
  18: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x02DA [0x7B] Gilgamesh (ID: 17809411/0x010FC003) stops talking
  20: 0x02DF [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
- 21: 0x02E4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10402*]:
+ 21: 0x02E4 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10403*]:
     → "I guess this means you've completed your mission. Now let me write you somethin' you can take back to..."
  22: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x02EC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
@@ -954,49 +954,49 @@ SUBROUTINE_00C7:
  25: 0x0301 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 154*
  26: 0x0305 [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17809477/0x010FC045), tag_num=0x03)
  27: 0x030C [0x79] Ayame (ID: 17809477/0x010FC045) looks at Gilgamesh (ID: 17809411/0x010FC003) (Basic look)
- 28: 0x0316 [0x2B] Ayame (ID: 17809477/0x010FC045) [10403*]:
+ 28: 0x0316 [0x2B] Ayame (ID: 17809477/0x010FC045) [10404*]:
     → "That won't be necessary, sir."
  29: 0x031D [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x031E [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ayame (ID: 17809477/0x010FC045))
  31: 0x0324 [0x79] LocalPlayer looks at Ayame (ID: 17809477/0x010FC045) (Basic look)
  32: 0x032E [0x27] REQ_SET(priority=0x0A, entity_id=Gilgamesh (ID: 17809411/0x010FC003), tag_num=0x13)
  33: 0x0335 [0x1C] WAIT(30* ticks)
- 34: 0x0338 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10404*]:
+ 34: 0x0338 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10405*]:
     → "Arrrg, why if it ain't little Ayaya. Ya get prettier every time I sees ya."
  35: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0340 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=10*
- 37: 0x034F [0x2B] Ayame (ID: 17809477/0x010FC045) [10405*]:
+ 37: 0x034F [0x2B] Ayame (ID: 17809477/0x010FC045) [10406*]:
     → "Gilgamesh. It was fine when you called me that when I was a child, but I'm twenty years old now."
  38: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0357 [0x6B] STOP_AND_IDLE: Ayame (ID: 17809477/0x010FC045) stops current action and resets to idle (animation="idl0")
  40: 0x0360 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=220*
  41: 0x036F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
- 42: 0x0380 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10406*]:
+ 42: 0x0380 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10407*]:
     → "So, what brings ya t'these here parts? Come to check up on your adventurer?"
  43: 0x0387 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0388 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "unz0" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=11*
- 45: 0x0397 [0x2B] Ayame (ID: 17809477/0x010FC045) [10407*]:
+ 45: 0x0397 [0x2B] Ayame (ID: 17809477/0x010FC045) [10408*]:
     → "That is one of the reasons. We wouldn't want you snatching up one of Bastok's best."
  46: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x039F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 48: 0x03AE [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10408*]:
+ 48: 0x03AE [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10409*]:
     → "If I wanted to snatch up Bastok's best, I'd be snatching up the fine samurai standing in front of me. How about it, Ayaya? Leave that boring job of yours and join us!"
  49: 0x03B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x03B6 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10409*]:
+ 50: 0x03B6 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10410*]:
     → "We'd love t'have you. You'd have the chance t'wield your blade whenever you please, not when that president says you can. Arrrg, what d'ya say?"
  51: 0x03BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x03BE [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  53: 0x03CD [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=220*
  54: 0x03DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
- 55: 0x03ED [0x2B] Ayame (ID: 17809477/0x010FC045) [10410*]:
+ 55: 0x03ED [0x2B] Ayame (ID: 17809477/0x010FC045) [10411*]:
     → "While I am flattered by your offer, I am satisfied with, and hold pride in, my current post."
  56: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x03F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl0" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=11*
- 58: 0x0404 [0x2B] Ayame (ID: 17809477/0x010FC045) [10411*]:
+ 58: 0x0404 [0x2B] Ayame (ID: 17809477/0x010FC045) [10412*]:
     → "I realize that I still have much to learn, but at the same time I feel that I must travel the roads I see fit to travel."
  59: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x040C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "utl1" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=11*
- 61: 0x041B [0x2B] Ayame (ID: 17809477/0x010FC045) [10412*]:
+ 61: 0x041B [0x2B] Ayame (ID: 17809477/0x010FC045) [10413*]:
     → "Swords and muskets are not made to be drawn. That is what my parents taught me, and those are the words I wish to live by."
  62: 0x0422 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0423 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1004,39 +1004,39 @@ SUBROUTINE_00C7:
  65: 0x0443 [0x6B] STOP_AND_IDLE: Ayame (ID: 17809477/0x010FC045) stops current action and resets to idle (animation="idl0")
  66: 0x044C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
  67: 0x045D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 68: 0x046C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10413*]:
+ 68: 0x046C [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10414*]:
     → "Ayaya..."
  69: 0x0473 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0474 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=10*
- 71: 0x0483 [0x2B] Ayame (ID: 17809477/0x010FC045) [10414*]:
+ 71: 0x0483 [0x2B] Ayame (ID: 17809477/0x010FC045) [10415*]:
     → "I have brought with me a document from the president himself. It covers the treatment of Bastokan adventurers, as well as overseas trade guidelines."
  72: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x048B [0x2B] Ayame (ID: 17809477/0x010FC045) [10415*]:
+ 73: 0x048B [0x2B] Ayame (ID: 17809477/0x010FC045) [10416*]:
     → "You may want to read over the details at a later time. You need not give an answer now. However, I trust that Norg will take steps in the right direction."
  74: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0493 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=220*
  76: 0x04A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
  77: 0x04B3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 78: 0x04C2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10416*]:
+ 78: 0x04C2 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10417*]:
     → "Arrrg, ya don't leave much room fer choice now, do you?"
  79: 0x04C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x04CA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Ayame (ID: 17809477/0x010FC045), Ayame (ID: 17809477/0x010FC045)], work=11*
- 81: 0x04D9 [0x2B] Ayame (ID: 17809477/0x010FC045) [10417*]:
+ 81: 0x04D9 [0x2B] Ayame (ID: 17809477/0x010FC045) [10418*]:
     → "I'll take that as a compliment. I learned everything I needed to know from the years I spent here in training."
  82: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x04E1 [0x6B] STOP_AND_IDLE: Ayame (ID: 17809477/0x010FC045) stops current action and resets to idle (animation="idl0")
  84: 0x04EA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk0" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
- 85: 0x04F9 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10418*]:
+ 85: 0x04F9 [0x2B] Gilgamesh (ID: 17809411/0x010FC003) [10419*]:
     → "Okay, okay. You go back and tell the old president I said hello. Oh, and don't ya forget t'talk to Ryoma before you leave. It's the least ya could do fer him."
  86: 0x0500 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0501 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ftk1" with entities [Gilgamesh (ID: 17809411/0x010FC003), Gilgamesh (ID: 17809411/0x010FC003)], work=566*
  88: 0x0510 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=220*
  89: 0x051F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[220*, 0*]
- 90: 0x0530 [0x2B] Ayame (ID: 17809477/0x010FC045) [10419*]:
+ 90: 0x0530 [0x2B] Ayame (ID: 17809477/0x010FC045) [10420*]:
     → "I'm sorry, but that will have to wait until another day... However, maybe next time I will bring along my younger sister."
  91: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0538 [0x4A] Ayame (ID: 17809477/0x010FC045) looks at LocalPlayer
- 93: 0x0541 [0x2B] Ayame (ID: 17809477/0x010FC045) [10420*]:
+ 93: 0x0541 [0x2B] Ayame (ID: 17809477/0x010FC045) [10421*]:
     → "Your assignment in Norg is complete. You may return to Bastok now, and do not forget to report to Naji upon your arrival."
  94: 0x0548 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0549 [0x27] REQ_SET(priority=0x0A, entity_id=Ayame (ID: 17809477/0x010FC045), tag_num=0x04)
@@ -1971,13 +1971,13 @@ SUBROUTINE_06F3:
  10: 0x07F9 [0x1C] WAIT(90* ticks)
  11: 0x07FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  12: 0x080D [0x1C] WAIT(210* ticks)
- 13: 0x0810 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11174*]:
+ 13: 0x0810 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11175*]:
     → "That rat... Where could he 'ave gotten off to...?"
  14: 0x0817 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0818 [0x1C] WAIT(30* ticks)
  16: 0x081B [0x27] REQ_SET(priority=0x0E, entity_id=Stray Cloud (ID: 17809515/0x010FC06B), tag_num=0x03)
  17: 0x0822 [0x1C] WAIT(15* ticks)
- 18: 0x0825 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11175*]:
+ 18: 0x0825 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11176*]:
     → "I've got me a bad feeling about this... It brings back unpleasant memories, it does..."
  19: 0x082C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x082D [0x2A] GET_REQ_LEVEL(level=15, entity_id=Stray Cloud (ID: 17809515/0x010FC06B))
@@ -1989,19 +1989,19 @@ SUBROUTINE_06F3:
  26: 0x0869 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s002" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  27: 0x087A [0x1C] WAIT(30* ticks)
  28: 0x087D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
- 29: 0x088C [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11176*]:
+ 29: 0x088C [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11177*]:
     → "...Eh? You say you're an adventurer, do ya? Say, could I take a bit o' your time? I've got me a slight problem, you see."
  30: 0x0893 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0894 [0x1C] WAIT(15* ticks)
  32: 0x0897 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
- 33: 0x08A6 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11177*]:
+ 33: 0x08A6 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11178*]:
     → "My mate Gubokka's gone down by 'imself to the Sea Serpent Grotto."
  34: 0x08AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x08AE [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11178*]:
+ 35: 0x08AE [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11179*]:
     → "We've always capered around that place like a blinkin' playground, so he shouldn't be gettin' himself lost."
  36: 0x08B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x08B6 [0x1C] WAIT(120* ticks)
- 38: 0x08B9 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11179*]:
+ 38: 0x08B9 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11180*]:
     → "I haven't seen the little git's face once since his decidin' t' set off."
  39: 0x08C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x08C1 [0x27] REQ_SET(priority=0x0A, entity_id=Stray Cloud (ID: 17809515/0x010FC06B), tag_num=0x06)
@@ -2012,12 +2012,12 @@ SUBROUTINE_06F3:
  45: 0x08FC [0x2A] GET_REQ_LEVEL(level=10, entity_id=Stray Cloud (ID: 17809515/0x010FC06B))
  46: 0x0902 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
  47: 0x0911 [0x1C] WAIT(60* ticks)
- 48: 0x0914 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11180*]:
+ 48: 0x0914 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11181*]:
     → "Lately the people of Norg're up in arms due to all the monsters showin' up in the grotto."
  49: 0x091B [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x091C [0x1C] WAIT(60* ticks)
  51: 0x091F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
- 52: 0x092E [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11181*]:
+ 52: 0x092E [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11182*]:
     → "I told that nitwit Gubokka t' be careful, but still..."
  53: 0x0935 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x0936 [0x1C] WAIT(90* ticks)
@@ -2029,7 +2029,7 @@ SUBROUTINE_06F3:
  60: 0x096F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
  61: 0x097E [0x1C] WAIT(30* ticks)
  62: 0x0981 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
- 63: 0x0990 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11182*]:
+ 63: 0x0990 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11183*]:
     → "I wanna go and check on the poor runt, but goin' alone into that monster-infested hole is just askin' for more trouble."
  64: 0x0997 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0998 [0x52] END_LOAD_SCHEDULER: End scheduler "s007" with entities [LocalPlayer, LocalPlayer], work=4*
@@ -2039,10 +2039,10 @@ SUBROUTINE_06F3:
  69: 0x09C2 [0x2A] GET_REQ_LEVEL(level=15, entity_id=Stray Cloud (ID: 17809515/0x010FC06B))
  70: 0x09C8 [0x1C] WAIT(90* ticks)
  71: 0x09CB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
- 72: 0x09DA [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11183*]:
+ 72: 0x09DA [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11184*]:
     → "That's where you come in. Think ya could go t' Sea Serpent Grotto and find Gubokka for me?"
  73: 0x09E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x09E2 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11184*]:
+ 74: 0x09E2 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11185*]:
     → "I really need yer 'elp."
  75: 0x09E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x09EA [0x1C] WAIT(120* ticks)
@@ -2052,7 +2052,7 @@ SUBROUTINE_06F3:
  80: 0x0A10 [0x6E] LocalPlayer uses emote 7*
  81: 0x0A17 [0x99] Wait for LocalPlayer animation to complete
  82: 0x0A1C [0x1C] WAIT(120* ticks)
- 83: 0x0A1F [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11185*]:
+ 83: 0x0A1F [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11186*]:
     → "You'll do it!? Why, thank ya! O' course, you'll be rewarded as handsomely as I can do for ya."
  84: 0x0A26 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0A27 [0x1C] WAIT(150* ticks)
@@ -2270,10 +2270,10 @@ SUBROUTINE_06F3:
  19: 0x0AFB [0x1C] WAIT(30* ticks)
  20: 0x0AFE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
  21: 0x0B0D [0x1C] WAIT(60* ticks)
- 22: 0x0B10 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11188*]:
+ 22: 0x0B10 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11189*]:
     → "...<pant>...<gasp>... ...I...I'm...safe...?"
  23: 0x0B17 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0B18 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11189*]:
+ 24: 0x0B18 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11190*]:
     → "...<pant>...<wheeze>...whew."
  25: 0x0B1F [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0B20 [0x1C] WAIT(30* ticks)
@@ -2281,7 +2281,7 @@ SUBROUTINE_06F3:
  28: 0x0B32 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  29: 0x0B43 [0x4A] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809516/0x010FC06C)
  30: 0x0B4C [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809516/0x010FC06C) (Basic look)
- 31: 0x0B56 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11190*]:
+ 31: 0x0B56 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11191*]:
     → "Gubokka!!!"
  32: 0x0B5D [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0B5E [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=4*
@@ -2301,12 +2301,12 @@ SUBROUTINE_06F3:
  47: 0x0BEB [0x79] LocalPlayer looks at Stray Cloud (ID: 17809515/0x010FC06B) (Basic look)
  48: 0x0BF5 [0x1C] WAIT(30* ticks)
  49: 0x0BF8 [0x79] Gubokka (ID: 17809516/0x010FC06C) looks at Stray Cloud (ID: 17809515/0x010FC06B) (Basic look)
- 50: 0x0C02 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11191*]:
+ 50: 0x0C02 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11192*]:
     → "Stray Cloud! I...I'm sorry. I..."
  51: 0x0C09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0C0A [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809516/0x010FC06C) (Basic look)
  53: 0x0C14 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
- 54: 0x0C23 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11192*]:
+ 54: 0x0C23 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11193*]:
     → "Bloody hell! You okay!? What in blazes happened out there? Can ya speak?"
  55: 0x0C2A [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0C2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2314,15 +2314,15 @@ SUBROUTINE_06F3:
  58: 0x0C4B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  59: 0x0C5C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
  60: 0x0C6B [0x1C] WAIT(120* ticks)
- 61: 0x0C6E [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11193*]:
+ 61: 0x0C6E [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11194*]:
     → "...I...I'm fine. <gasp>...<pant>..."
  62: 0x0C75 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0C76 [0x1C] WAIT(60* ticks)
- 64: 0x0C79 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11194*]:
+ 64: 0x0C79 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11195*]:
     → "Stray Cloud...I'm sure you know how everyone's worried about the beasts that have been appearing in the grotto lately..."
  65: 0x0C80 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0C81 [0x79] Gubokka (ID: 17809516/0x010FC06C) looks at Stray Cloud (ID: 17809515/0x010FC06B) (Basic look)
- 67: 0x0C8B [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11195*]:
+ 67: 0x0C8B [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11196*]:
     → "I thought I could do something about it... That's why I left. I wanted to defeat the monsters for the people of Norg."
  68: 0x0C92 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0C93 [0x1C] WAIT(30* ticks)
@@ -2341,7 +2341,7 @@ SUBROUTINE_06F3:
  82: 0x0CF8 [0x27] REQ_SET(priority=0x0F, entity_id=Gubokka (ID: 17809521/0x010FC071), tag_num=0x03)
  83: 0x0CFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  84: 0x0D10 [0x1C] WAIT(120* ticks)
- 85: 0x0D13 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11196*]:
+ 85: 0x0D13 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11197*]:
     → "But I ended up lost in the caves that I'd walked through for years. Pathetic, I know."
  86: 0x0D1A [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0D1B [0x2A] GET_REQ_LEVEL(level=15, entity_id=Gubokka (ID: 17809521/0x010FC071))
@@ -2354,10 +2354,10 @@ SUBROUTINE_06F3:
  94: 0x0D49 [0x52] END_LOAD_SCHEDULER: End scheduler "s052" with entities [LocalPlayer, LocalPlayer], work=4*
  95: 0x0D58 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s053" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  96: 0x0D69 [0x1C] WAIT(300* ticks)
- 97: 0x0D6C [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11197*]:
+ 97: 0x0D6C [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11198*]:
     → "Swallowing my pride, I turned back and desperately began my search for the way home..."
  98: 0x0D73 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 99: 0x0D74 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11198*]:
+ 99: 0x0D74 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11199*]:
     → "...That was when it happened."
 100: 0x0D7B [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0D7C [0x1C] WAIT(300* ticks)
@@ -2375,16 +2375,16 @@ SUBROUTINE_06F3:
 113: 0x0DEA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 114: 0x0DFB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "huk0" with entities [Gubokka (ID: 17809521/0x010FC071), Gubokka (ID: 17809521/0x010FC071)], work=62*
 115: 0x0E0A [0x1C] WAIT(60* ticks)
-116: 0x0E0D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11199*]:
+116: 0x0E0D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11200*]:
     → "All of a sudden, a monster jumped out from the shadows and began attacking me."
 117: 0x0E14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x0E15 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 119: 0x0E26 [0x1C] WAIT(60* ticks)
-120: 0x0E29 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11200*]:
+120: 0x0E29 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11201*]:
     → "It was unbelievably powerful. I knew I was no match for it."
 121: 0x0E30 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0E31 [0x1C] WAIT(60* ticks)
-123: 0x0E34 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11201*]:
+123: 0x0E34 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11202*]:
     → "Next thing I knew, my legs had grown numb with fright..."
 124: 0x0E3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0E3C [0x1C] WAIT(90* ticks)
@@ -2399,14 +2399,14 @@ SUBROUTINE_06F3:
 134: 0x0EA0 [0x1C] WAIT(15* ticks)
 135: 0x0EA3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha0" with entities [Gubokka (ID: 17809521/0x010FC071), Gubokka (ID: 17809521/0x010FC071)], work=69*
 136: 0x0EB2 [0x1C] WAIT(120* ticks)
-137: 0x0EB5 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11202*]:
+137: 0x0EB5 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11203*]:
     → "Suddenly, he had me cornered..."
 138: 0x0EBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0EBD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 140: 0x0ECE [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [LocalPlayer, LocalPlayer], work=4*
 141: 0x0EDD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 142: 0x0EEE [0x1C] WAIT(90* ticks)
-143: 0x0EF1 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11203*]:
+143: 0x0EF1 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11204*]:
     → "My life began flashing before my eyes. I knew I was going to die."
 144: 0x0EF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0EF9 [0x1C] WAIT(60* ticks)
@@ -2424,7 +2424,7 @@ SUBROUTINE_06F3:
 157: 0x0F70 [0x1C] WAIT(60* ticks)
 158: 0x0F73 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "in00" with entities [Vigsterkr (ID: 17809522/0x010FC072), Vigsterkr (ID: 17809522/0x010FC072)], work=1*
 159: 0x0F82 [0x1C] WAIT(60* ticks)
-160: 0x0F85 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11204*]:
+160: 0x0F85 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11205*]:
     → "Just as I was regretting my decision to travel alone, a Hume warrior leapt out of nowhere and...saved me."
 161: 0x0F8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0F8D [0x1C] WAIT(60* ticks)
@@ -2436,16 +2436,16 @@ SUBROUTINE_06F3:
 168: 0x0FD3 [0x1C] WAIT(60* ticks)
 169: 0x0FD6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 170: 0x0FE7 [0x79] Gubokka (ID: 17809521/0x010FC071) looks at Vigsterkr (ID: 17809522/0x010FC072) (Basic look)
-171: 0x0FF1 [0x2B] Vigsterkr (ID: 17809522/0x010FC072) [11205*]:
+171: 0x0FF1 [0x2B] Vigsterkr (ID: 17809522/0x010FC072) [11206*]:
     → "You all right there!? Leave this brute to me!"
 172: 0x0FF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-173: 0x0FF9 [0x2B] Vigsterkr (ID: 17809522/0x010FC072) [11206*]:
+173: 0x0FF9 [0x2B] Vigsterkr (ID: 17809522/0x010FC072) [11207*]:
     → "Come and get it, you bastard! Ahhhh!!!"
 174: 0x1000 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x1001 [0x27] REQ_SET(priority=0x0F, entity_id=Vigsterkr (ID: 17809522/0x010FC072), tag_num=0x04)
 176: 0x1008 [0x1C] WAIT(90* ticks)
 177: 0x100B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "sha1" with entities [Gubokka (ID: 17809517/0x010FC06D), Gubokka (ID: 17809517/0x010FC06D)], work=69*
-178: 0x101A [0x2B] Gubokka (ID: 17809521/0x010FC071) [11207*]:
+178: 0x101A [0x2B] Gubokka (ID: 17809521/0x010FC071) [11208*]:
     → "...Ahh...!!!"
 179: 0x1021 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x1022 [0x27] REQ_SET(priority=0x0F, entity_id=Gubokka (ID: 17809521/0x010FC071), tag_num=0x06)
@@ -2469,35 +2469,35 @@ SUBROUTINE_06F3:
 198: 0x10B1 [0x1C] WAIT(120* ticks)
 199: 0x10B4 [0x79] Gubokka (ID: 17809516/0x010FC06C) looks at Stray Cloud (ID: 17809515/0x010FC06B) (Basic look)
 200: 0x10BE [0x1C] WAIT(90* ticks)
-201: 0x10C1 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11208*]:
+201: 0x10C1 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11209*]:
     → "I was so afraid, I deserted the Hume who had saved me. I...came back alone, thinking only of my own skin."
 202: 0x10C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x10C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-204: 0x10D8 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11209*]:
+204: 0x10D8 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11210*]:
     → "W-wha'...!? So th' Hume's still out there?"
 205: 0x10DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x10E0 [0x1C] WAIT(60* ticks)
 207: 0x10E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
 208: 0x10F2 [0x1C] WAIT(30* ticks)
 209: 0x10F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
-210: 0x1104 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11210*]:
+210: 0x1104 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11211*]:
     → "I don't know. I really hope he's okay, but considering the strength of that monster, I just don't know..."
 211: 0x110B [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x110C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
 213: 0x111B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
-214: 0x112A [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11211*]:
+214: 0x112A [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11212*]:
     → "What a bloody mess..."
 215: 0x1131 [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x1132 [0x4A] Gubokka (ID: 17809516/0x010FC06C) looks at Stray Cloud (ID: 17809515/0x010FC06B)
 217: 0x113B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
 218: 0x114A [0x1C] WAIT(60* ticks)
-219: 0x114D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11212*]:
+219: 0x114D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11213*]:
     → "I just...just wanted to help people. I couldn't have dreamed that this would happen..."
 220: 0x1154 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x1155 [0x52] END_LOAD_SCHEDULER: End scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=4*
 222: 0x1164 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 223: 0x1175 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ang0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-224: 0x1184 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11213*]:
+224: 0x1184 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11214*]:
     → "Ya know, Gubokka, thinkin' o' others is very noble. There's no denyin' that. But you just gotta stop pushin' it!"
 225: 0x118B [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x118C [0x1C] WAIT(60* ticks)
@@ -2513,13 +2513,13 @@ SUBROUTINE_06F3:
 236: 0x11E9 [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=4*
 237: 0x11F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 238: 0x1209 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-239: 0x1218 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11214*]:
+239: 0x1218 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11215*]:
     → "Long ago, I had a good friend. He always blathered on about do-gooding and such, and to what did i' lead 'im? To a meaningless death, that's what!"
 240: 0x121F [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x1220 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
 242: 0x122F [0x1C] WAIT(60* ticks)
 243: 0x1232 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
-244: 0x1241 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11215*]:
+244: 0x1241 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11216*]:
     → "I couldn't stand losin' me another friend that way."
 245: 0x1248 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x1249 [0x1C] WAIT(180* ticks)
@@ -2529,7 +2529,7 @@ SUBROUTINE_06F3:
 250: 0x126E [0x1C] WAIT(60* ticks)
 251: 0x1271 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
 252: 0x1280 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
-253: 0x128F [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11216*]:
+253: 0x128F [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11217*]:
     → "Stray Cloud..."
 254: 0x1296 [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x1297 [0x1C] WAIT(90* ticks)
@@ -2537,21 +2537,21 @@ SUBROUTINE_06F3:
 257: 0x12A3 [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809516/0x010FC06C) (Basic look)
 258: 0x12AD [0x1C] WAIT(120* ticks)
 259: 0x12B0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=65*
-260: 0x12BF [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11217*]:
+260: 0x12BF [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11218*]:
     → "Don't ge' any more rarab-brained ideas about goin' off alone. That's all I wanna say t' ya."
 261: 0x12C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x12C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=65*
-263: 0x12D6 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11218*]:
+263: 0x12D6 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11219*]:
     → "Still, I'm worried about tha' Hume warrior..."
 264: 0x12DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x12DE [0x52] END_LOAD_SCHEDULER: End scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=4*
 266: 0x12ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 267: 0x12FE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
-268: 0x130D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11219*]:
+268: 0x130D [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11220*]:
     → "If he's killed because I was too cowardly to help him..."
 269: 0x1314 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x1315 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
-271: 0x1324 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11220*]:
+271: 0x1324 [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11221*]:
     → "... I'm sorry, but I have to go back and help him! He might die if I don't!"
 272: 0x132B [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x132C [0x52] END_LOAD_SCHEDULER: End scheduler "s018" with entities [LocalPlayer, LocalPlayer], work=4*
@@ -2559,13 +2559,13 @@ SUBROUTINE_06F3:
 275: 0x1344 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
 276: 0x1346 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s019" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 277: 0x1357 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kud0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-278: 0x1366 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11221*]:
+278: 0x1366 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11222*]:
     → "You git! Don't make me repeat myself! What can you blinkin' do out there alone? Just shut the 'ell up!"
 279: 0x136D [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x136E [0x1C] WAIT(90* ticks)
 281: 0x1371 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
 282: 0x1380 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Gubokka (ID: 17809516/0x010FC06C), Gubokka (ID: 17809516/0x010FC06C)], work=69*
-283: 0x138F [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11222*]:
+283: 0x138F [0x2B] Gubokka (ID: 17809516/0x010FC06C) [11223*]:
     → "B-but..."
 284: 0x1396 [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x1397 [0x1C] WAIT(60* ticks)
@@ -2580,10 +2580,10 @@ SUBROUTINE_06F3:
 294: 0x13E0 [0x1C] WAIT(60* ticks)
 295: 0x13E3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
 296: 0x13F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=65*
-297: 0x1401 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11223*]:
+297: 0x1401 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11224*]:
     → "Hey adventurer, you look like you've been through a battle or two. Since you didn't ge' a chance to look for Gubokka, could ya look for tha' Hume instead?"
 298: 0x1408 [0x23] WAIT_FOR_DIALOG_INTERACTION
-299: 0x1409 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11224*]:
+299: 0x1409 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11225*]:
     → "I want ya t' go t' Sea Serpent Grotto with Gubokka and make sure he's safe!"
 300: 0x1410 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x1411 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=65*
@@ -2591,7 +2591,7 @@ SUBROUTINE_06F3:
 303: 0x1423 [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=4*
 304: 0x1432 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s023" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 305: 0x1443 [0x1C] WAIT(60* ticks)
-306: 0x1446 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11225*]:
+306: 0x1446 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11226*]:
     → "I'll be waitin' here for ya. O' course, you'll ge' a nice li'l reward. Jus' don't push yourself too hard."
 307: 0x144D [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x144E [0x1C] WAIT(120* ticks)
@@ -2756,7 +2756,7 @@ SUBROUTINE_06F3:
  16: 0x1523 [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809517/0x010FC06D) (Basic look)
  17: 0x152D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
  18: 0x153C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
- 19: 0x154B [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11227*]:
+ 19: 0x154B [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11228*]:
     → "So that's what 'appened... Wha' an unfortunate loss..."
  20: 0x1552 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x1553 [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at LocalPlayer (Basic look)
@@ -2764,7 +2764,7 @@ SUBROUTINE_06F3:
  23: 0x1560 [0x79] Stray Cloud (ID: 17809515/0x010FC06B) looks at Gubokka (ID: 17809517/0x010FC06D) (Basic look)
  24: 0x156A [0x6E] Gubokka (ID: 17809517/0x010FC06D) uses emote 19*
  25: 0x1571 [0x99] Wait for Gubokka (ID: 17809517/0x010FC06D) animation to complete
- 26: 0x1576 [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11228*]:
+ 26: 0x1576 [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11229*]:
     → "If only I had more power... I could have saved him!"
  27: 0x157D [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x157E [0x6E] Gubokka (ID: 17809517/0x010FC06D) uses emote 19*
@@ -2779,7 +2779,7 @@ SUBROUTINE_06F3:
  37: 0x15BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
  38: 0x15CE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
  39: 0x15DD [0x1C] WAIT(90* ticks)
- 40: 0x15E0 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11229*]:
+ 40: 0x15E0 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11230*]:
     → "You can keep feelin' sorry for yourself if ya think it'll solve anything. But the proper thing for ya t' be doin' now is givin' the man a proper funeral. ...What's that you've go' there?"
  41: 0x15E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x15E8 [0x52] END_LOAD_SCHEDULER: End scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=4*
@@ -2788,7 +2788,7 @@ SUBROUTINE_06F3:
  45: 0x160B [0x6E] Gubokka (ID: 17809517/0x010FC06D) uses emote 7*
  46: 0x1612 [0x99] Wait for Gubokka (ID: 17809517/0x010FC06D) animation to complete
  47: 0x1617 [0x1C] WAIT(60* ticks)
- 48: 0x161A [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11230*]:
+ 48: 0x161A [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11231*]:
     → "This is the sword that the Hume warrior held... His final wish was that it be buried with his bones."
  49: 0x1621 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x1622 [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=4*
@@ -2803,7 +2803,7 @@ SUBROUTINE_06F3:
  59: 0x1672 [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=4*
  60: 0x1681 [0x4E] SET_ENTITY_HIDE_FLAG: Hide NPC4turn (ID: 17809519/0x010FC06F)
  61: 0x1687 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
- 62: 0x1698 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11231*]:
+ 62: 0x1698 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11232*]:
     → "Th-that sword...!"
  63: 0x169F [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x16A0 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -2827,14 +2827,14 @@ SUBROUTINE_06F3:
  82: 0x1733 [0x1C] WAIT(120* ticks)
  83: 0x1736 [0x79] Stray Cloud (ID: 17809524/0x010FC074) looks at Gomoya (ID: 17809523/0x010FC073) (Basic look)
  84: 0x1740 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [Stray Cloud (ID: 17809524/0x010FC074), Stray Cloud (ID: 17809524/0x010FC074)], work=60*
- 85: 0x174F [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11232*]:
+ 85: 0x174F [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11233*]:
     → "I guess I can't be stoppin' ya now, can I?"
  86: 0x1756 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x1757 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  88: 0x1768 [0x52] END_LOAD_SCHEDULER: End scheduler "s060" with entities [LocalPlayer, LocalPlayer], work=4*
  89: 0x1777 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s061" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  90: 0x1788 [0x1C] WAIT(150* ticks)
- 91: 0x178B [0x2B] Gomoya (ID: 17809523/0x010FC073) [11233*]:
+ 91: 0x178B [0x2B] Gomoya (ID: 17809523/0x010FC073) [11234*]:
     → "I have to go. I can use my strength for the good of others in Vana'diel. I've already made my decision."
  92: 0x1792 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x1793 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2842,7 +2842,7 @@ SUBROUTINE_06F3:
  95: 0x17B3 [0x4E] SET_ENTITY_HIDE_FLAG: Show Gomoya (ID: 17809523/0x010FC073)
  96: 0x17B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
  97: 0x17CA [0x1C] WAIT(120* ticks)
- 98: 0x17CD [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11234*]:
+ 98: 0x17CD [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11235*]:
     → "Heh... Is tha' so? Alrigh' then. I won't get in yer way. Hey, take this sword with ya. I'll let ya borrow it."
  99: 0x17D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x17D5 [0x4B] UPDATE_ENTITY_YAW(entity=Stray Cloud (ID: 17809524/0x010FC074), yaw=8.0°*)
@@ -2851,40 +2851,40 @@ SUBROUTINE_06F3:
 103: 0x17EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 104: 0x17FF [0x4A] Gomoya (ID: 17809523/0x010FC073) looks at Stray Cloud (ID: 17809524/0x010FC074)
 105: 0x1808 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gomoya (ID: 17809523/0x010FC073), Gomoya (ID: 17809523/0x010FC073)], work=69*
-106: 0x1817 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11235*]:
+106: 0x1817 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11236*]:
     → "Ohhh...really!? But isn't this sword important to you?"
 107: 0x181E [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x181F [0x1C] WAIT(30* ticks)
 109: 0x1822 [0x6E] Stray Cloud (ID: 17809524/0x010FC074) uses emote 34*
 110: 0x1829 [0x99] Wait for Stray Cloud (ID: 17809524/0x010FC074) animation to complete
-111: 0x182E [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11236*]:
+111: 0x182E [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11237*]:
     → "Nah...it's fine. In exchange, you've gotta promise me somethin'."
 112: 0x1835 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x1836 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Stray Cloud (ID: 17809524/0x010FC074), Stray Cloud (ID: 17809524/0x010FC074)], work=69*
-114: 0x1845 [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11237*]:
+114: 0x1845 [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11238*]:
     → "That sword is bloody powerful, so when you're helping the poor people o' Vana'diel, make good use of it! I'm sure you'll get t' use it for a good cause someday!"
 115: 0x184C [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x184D [0x52] END_LOAD_SCHEDULER: End scheduler "s063" with entities [LocalPlayer, LocalPlayer], work=4*
 117: 0x185C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Stray Cloud (ID: 17809524/0x010FC074), Stray Cloud (ID: 17809524/0x010FC074)], work=69*
 118: 0x186B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
-119: 0x187C [0x2B] Gomoya (ID: 17809523/0x010FC073) [11238*]:
+119: 0x187C [0x2B] Gomoya (ID: 17809523/0x010FC073) [11239*]:
     → "Haha! That sounds like something you would say, putting me on the spot! But I hear you. I will keep the promise."
 120: 0x1883 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1884 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gomoya (ID: 17809523/0x010FC073), Gomoya (ID: 17809523/0x010FC073)], work=69*
-122: 0x1893 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11239*]:
+122: 0x1893 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11240*]:
     → "And when I've fulfilled the promise, I'll come back and return the sword! Mark my word!"
 123: 0x189A [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x189B [0x52] END_LOAD_SCHEDULER: End scheduler "s064" with entities [LocalPlayer, LocalPlayer], work=4*
 125: 0x18AA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 126: 0x18BB [0x1C] WAIT(45* ticks)
 127: 0x18BE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb1" with entities [Stray Cloud (ID: 17809524/0x010FC074), Stray Cloud (ID: 17809524/0x010FC074)], work=69*
-128: 0x18CD [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11240*]:
+128: 0x18CD [0x2B] Stray Cloud (ID: 17809524/0x010FC074) [11241*]:
     → "I'll be waiting! But do ya think you'll really remember? Your memory's so bad, I'm surprised ya still know my name!"
 129: 0x18D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x18D5 [0x1C] WAIT(60* ticks)
 131: 0x18D8 [0x6E] Gomoya (ID: 17809523/0x010FC073) uses emote 25*
 132: 0x18DF [0x99] Wait for Gomoya (ID: 17809523/0x010FC073) animation to complete
-133: 0x18E4 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11241*]:
+133: 0x18E4 [0x2B] Gomoya (ID: 17809523/0x010FC073) [11242*]:
     → "Son of a Quadav...! With friends like you, who needs enemies!?"
 134: 0x18EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x18EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [Stray Cloud (ID: 17809524/0x010FC074), Stray Cloud (ID: 17809524/0x010FC074)], work=69*
@@ -2898,7 +2898,7 @@ SUBROUTINE_06F3:
 143: 0x192A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=201*
 144: 0x1939 [0x52] END_LOAD_SCHEDULER: End scheduler "s065" with entities [LocalPlayer, LocalPlayer], work=4*
 145: 0x1948 [0x1C] WAIT(180* ticks)
-146: 0x194B [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11244*]:
+146: 0x194B [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11245*]:
     → "But Gomoya never came t' return the sword..."
 147: 0x1952 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x1953 [0x1C] WAIT(30* ticks)
@@ -2913,14 +2913,14 @@ SUBROUTINE_06F3:
 157: 0x1997 [0x1C] WAIT(90* ticks)
 158: 0x199A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
 159: 0x19A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
-160: 0x19B8 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11245*]:
+160: 0x19B8 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11246*]:
     → "I can't believe it... Gomoya... For that Hume warrior, he..."
 161: 0x19BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x19C0 [0x1C] WAIT(120* ticks)
 163: 0x19C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 164: 0x19D4 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=4*
 165: 0x19E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
-166: 0x19F4 [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11246*]:
+166: 0x19F4 [0x2B] Gubokka (ID: 17809517/0x010FC06D) [11247*]:
     → "It...it can't be... Stray Cloud... The friend you were talking about..."
 167: 0x19FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x19FC [0x1C] WAIT(30* ticks)
@@ -2931,13 +2931,13 @@ SUBROUTINE_06F3:
 173: 0x1A2C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 174: 0x1A3D [0x1C] WAIT(90* ticks)
 175: 0x1A40 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-176: 0x1A4F [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11247*]:
+176: 0x1A4F [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11248*]:
     → "Heh. That nitwit Gomoya... He kept 'is promise...our promise..."
 177: 0x1A56 [0x23] WAIT_FOR_DIALOG_INTERACTION
 178: 0x1A57 [0x1C] WAIT(240* ticks)
 179: 0x1A5A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "kid0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
 180: 0x1A69 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "den0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=62*
-181: 0x1A78 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11248*]:
+181: 0x1A78 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11249*]:
     → "Ah...the lunkhead, making me eyes water!"
 182: 0x1A7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 183: 0x1A80 [0x1C] WAIT(120* ticks)
@@ -2946,7 +2946,7 @@ SUBROUTINE_06F3:
 186: 0x1AA1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[4*, 0*]
 187: 0x1AB2 [0x1C] WAIT(120* ticks)
 188: 0x1AB5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "talk" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
-189: 0x1AC4 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11249*]:
+189: 0x1AC4 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11250*]:
     → "But, he's no longer... Gomoya is already... It looks like this is gonna be a long night..."
 190: 0x1ACB [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x1ACC [0x1C] WAIT(120* ticks)
@@ -2955,7 +2955,7 @@ SUBROUTINE_06F3:
 194: 0x1AE2 [0x1C] WAIT(120* ticks)
 195: 0x1AE5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*
 196: 0x1AF4 [0x1C] WAIT(30* ticks)
-197: 0x1AF7 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11250*]:
+197: 0x1AF7 [0x2B] Stray Cloud (ID: 17809515/0x010FC06B) [11251*]:
     → "You 'elped me out a considerable lot. Here's your reward. Thanks be to ya."
 198: 0x1AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x1AFF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Stray Cloud (ID: 17809515/0x010FC06B), Stray Cloud (ID: 17809515/0x010FC06B)], work=60*

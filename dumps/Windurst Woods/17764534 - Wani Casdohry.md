@@ -34,35 +34,35 @@
 |---------|-------------|-------------|
 |       0 | 0x0167      |         359 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2154      |        8532 |
-|       3 | 0x2155      |        8533 |
-|       4 | 0x1DBF      |        7615 |
-|       5 | 0x1DC0      |        7616 |
-|       6 | 0x2213      |        8723 |
-|       7 | 0x2215      |        8725 |
-|       8 | 0x2218      |        8728 |
-|       9 | 0x221D      |        8733 |
-|      10 | 0x2222      |        8738 |
-|      11 | 0x2223      |        8739 |
-|      12 | 0x2224      |        8740 |
-|      13 | 0x24C3      |        9411 |
-|      14 | 0x24C4      |        9412 |
+|       2 | 0x2155      |        8533 |
+|       3 | 0x2156      |        8534 |
+|       4 | 0x1DC0      |        7616 |
+|       5 | 0x1DC1      |        7617 |
+|       6 | 0x2214      |        8724 |
+|       7 | 0x2216      |        8726 |
+|       8 | 0x2219      |        8729 |
+|       9 | 0x221E      |        8734 |
+|      10 | 0x2223      |        8739 |
+|      11 | 0x2224      |        8740 |
+|      12 | 0x2225      |        8741 |
+|      13 | 0x24C4      |        9412 |
+|      14 | 0x24C5      |        9413 |
 
 ## String References
 
-- **7615**: You can get your paws on $1 by defeating those Yagudo beastmen. But you won't please the Tarutaru very much if you go arrround fighting Yagudo!
-- **7616**: Windurst is currently trying to maintain amicable relations with the Yagudo. It's a very different worrrld from what it was twenty years ago...
-- **8532**: Our chieftainness is verrry old... It seems that she wants to pass the chieftainness's bow onto the Sibyl Guard Semih Lafihna.
-- **8533**: But I doubt if Semih Lafihna would accept that honorable responsibility. Quite a prrredicament we're in, eh?
-- **8723**: Our chieftainness recently invited Semih Lafihna over to open dialogue, but Semih Lafihna did not take her up on the offerrr.
-- **8725**: I wonderrr if the chieftainness was going to tell her the truth. But I guess it doesn't matter whetherrr the truth is told or not, as the bad blood will still run thick between them.
-- **8728**: I guess you are right... Oh, and what good timing, for there is an adventurerrr passing by now! Why don't we ask [him/her] whetherrr [he/she] can help us out with that task?
-- **8733**: The $1 that can be found in the Meriphataud Mountains belong to the Mithran warriors who were felled there twenty years ago. If you find any, please hand them overrr to Gioh Ajihri, thank you.
-- **8738**: Twinstones are, as their name suggests, a perrrfect pair of gemstones that are originally found joined as one.
-- **8739**: No otherrr stones can come close to matching them once they are separated. Since they were once a single stone, only their corresponding halves fit perrrfectly back as one.
-- **8740**: Utilizing this very properrrty, twinstones are used as proof of bonds between Mithra back in our homeland.
-- **9411**: We found many earrings but had a terrible time trying to find the missing halves...I thought furrr was going to fly.
-- **9412**: I wonder if the Mithran Tracker really believes that the daughter is dead... We can't let our guarrrd down yet.
+- **7616**: You can get your paws on $1 by defeating those Yagudo beastmen. But you won't please the Tarutaru very much if you go arrround fighting Yagudo!
+- **7617**: Windurst is currently trying to maintain amicable relations with the Yagudo. It's a very different worrrld from what it was twenty years ago...
+- **8533**: Our chieftainness is verrry old... It seems that she wants to pass the chieftainness's bow onto the Sibyl Guard Semih Lafihna.
+- **8534**: But I doubt if Semih Lafihna would accept that honorable responsibility. Quite a prrredicament we're in, eh?
+- **8724**: Our chieftainness recently invited Semih Lafihna over to open dialogue, but Semih Lafihna did not take her up on the offerrr.
+- **8726**: I wonderrr if the chieftainness was going to tell her the truth. But I guess it doesn't matter whetherrr the truth is told or not, as the bad blood will still run thick between them.
+- **8729**: I guess you are right... Oh, and what good timing, for there is an adventurerrr passing by now! Why don't we ask [him/her] whetherrr [he/she] can help us out with that task?
+- **8734**: The $1 that can be found in the Meriphataud Mountains belong to the Mithran warriors who were felled there twenty years ago. If you find any, please hand them overrr to Gioh Ajihri, thank you.
+- **8739**: Twinstones are, as their name suggests, a perrrfect pair of gemstones that are originally found joined as one.
+- **8740**: No otherrr stones can come close to matching them once they are separated. Since they were once a single stone, only their corresponding halves fit perrrfectly back as one.
+- **8741**: Utilizing this very properrrty, twinstones are used as proof of bonds between Mithra back in our homeland.
+- **9412**: We found many earrings but had a terrible time trying to find the missing halves...I thought furrr was going to fly.
+- **9413**: I wonder if the Mithran Tracker really believes that the daughter is dead... We can't let our guarrrd down yet.
 
 ## Events
 
@@ -186,10 +186,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8532*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8533*)
     → "Our chieftainness is verrry old... It seems that she wants to pass the chieftainness's bow onto the Sibyl Guard Semih Lafihna."
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8533*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8534*)
     → "But I doubt if Semih Lafihna would accept that honorable responsibility. Quite a prrredicament we're in, eh?"
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)
@@ -223,10 +223,10 @@
   1: 0x0049 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7615*)
+  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
     → "You can get your paws on $1 by defeating those Yagudo beastmen. But you won't please the Tarutaru very much if you go arrround fighting Yagudo!"
   5: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7616*)
+  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7617*)
     → "Windurst is currently trying to maintain amicable relations with the Yagudo. It's a very different worrrld from what it was twenty years ago..."
   7: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)
@@ -276,7 +276,7 @@
 #### Opcodes
 
 ```
-  0: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8723*)
+  0: 0x0066 [0x1D] PRINT_EVENT_MESSAGE(message_id=8724*)
     → "Our chieftainness recently invited Semih Lafihna over to open dialogue, but Semih Lafihna did not take her up on the offerrr."
   1: 0x0069 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x006A [0x00] END_REQSTACK()
@@ -301,7 +301,7 @@
 #### Opcodes
 
 ```
-  0: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8725*)
+  0: 0x006B [0x1D] PRINT_EVENT_MESSAGE(message_id=8726*)
     → "I wonderrr if the chieftainness was going to tell her the truth. But I guess it doesn't matter whetherrr the truth is told or not, as the bad blood will still run thick between them."
   1: 0x006E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x006F [0x00] END_REQSTACK()
@@ -326,7 +326,7 @@
 #### Opcodes
 
 ```
-  0: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8728*)
+  0: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=8729*)
     → "I guess you are right... Oh, and what good timing, for there is an adventurerrr passing by now! Why don't we ask [him/her] whetherrr [he/she] can help us out with that task?"
   1: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0074 [0x00] END_REQSTACK()
@@ -357,7 +357,7 @@
   1: 0x007A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
+  4: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=8734*)
     → "The $1 that can be found in the Meriphataud Mountains belong to the Mithran warriors who were felled there twenty years ago. If you find any, please hand them overrr to Gioh Ajihri, thank you."
   5: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0087 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)
@@ -391,13 +391,13 @@
   1: 0x0097 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0098 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0099 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8738*)
+  4: 0x00A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8739*)
     → "Twinstones are, as their name suggests, a perrrfect pair of gemstones that are originally found joined as one."
   5: 0x00A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8739*)
+  6: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8740*)
     → "No otherrr stones can come close to matching them once they are separated. Since they were once a single stone, only their corresponding halves fit perrrfectly back as one."
   7: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8740*)
+  8: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8741*)
     → "Utilizing this very properrrty, twinstones are used as proof of bonds between Mithra back in our homeland."
   9: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)
@@ -431,7 +431,7 @@
   1: 0x00BC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9411*)
+  4: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9412*)
     → "We found many earrings but had a terrible time trying to find the missing halves...I thought furrr was going to fly."
   5: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00C9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)
@@ -465,10 +465,10 @@
   1: 0x00D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x01)
-  4: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9411*)
+  4: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9412*)
     → "We found many earrings but had a terrible time trying to find the missing halves...I thought furrr was going to fly."
   5: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9412*)
+  6: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9413*)
     → "I wonder if the Mithran Tracker really believes that the daughter is dead... We can't let our guarrrd down yet."
   7: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Wani Casdohry (ID: 17764534/0x010F10B6), tag_num=0x02)

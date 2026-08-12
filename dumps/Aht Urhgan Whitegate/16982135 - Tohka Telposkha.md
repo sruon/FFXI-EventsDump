@@ -42,16 +42,16 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0035      |          53 |
-|       2 | 0x18D8      |        6360 |
-|       3 | 0x18D9      |        6361 |
+|       2 | 0x18D9      |        6361 |
+|       3 | 0x18DA      |        6362 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x0034      |          52 |
-|       6 | 0x18DA      |        6362 |
-|       7 | 0x18DB      |        6363 |
-|       8 | 0x18DC      |        6364 |
+|       6 | 0x18DB      |        6363 |
+|       7 | 0x18DC      |        6364 |
+|       8 | 0x18DD      |        6365 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0044      |          68 |
-|      11 | 0x18DD      |        6365 |
+|      11 | 0x18DE      |        6366 |
 |      12 | 0x4650      |       18000 |
 |      13 | 0x4574      |       17780 |
 |      14 | 0x0EE7      |        3815 |
@@ -72,12 +72,12 @@
 
 ## String References
 
-- **6360**: You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?
-- **6361**: Ask her about Naja's secret? [Fill me in!/How childish...]
-- **6362**: Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels.
-- **6363**: Everrryone's whispering about how she managed to raise so much capital at such a young age...
-- **6364**: Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that...
-- **6365**: Are you surrre? Fine. Your loss.
+- **6361**: You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?
+- **6362**: Ask her about Naja's secret? [Fill me in!/How childish...]
+- **6363**: Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels.
+- **6364**: Everrryone's whispering about how she managed to raise so much capital at such a young age...
+- **6365**: Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that...
+- **6366**: Are you surrre? Fine. Your loss.
 
 ## Events
 
@@ -134,29 +134,29 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6360*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=6361*)
     → "You wouldn't happen to want to hear a juicy secrrret about Naja Salaheem, would you? Well?"
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*
-  6: 0x002B [0x24] CREATE_DIALOG(message_id=6361*, default_option=0*, option_flags=0*)
+  6: 0x002B [0x24] CREATE_DIALOG(message_id=6362*, default_option=0*, option_flags=0*)
     → "Ask her about Naja's secret? [Fill me in!/How childish...]"
   7: 0x0032 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0033 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0068
   9: 0x003B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc0" with entities [EventEntity, EventEntity], work=52*
- 10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=6362*)
+ 10: 0x004A [0x1D] PRINT_EVENT_MESSAGE(message_id=6363*)
     → "Naja's famous for her money-grrrubbing tendencies. They say she refused to go in debt, even a single bronze piece, when founding Salaheem's Sentinels."
  11: 0x004D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=6363*)
+ 12: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=6364*)
     → "Everrryone's whispering about how she managed to raise so much capital at such a young age..."
  13: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=6364*)
+ 14: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=6365*)
     → "Personally, I think there's something to that giant club she carries arrround with her, but there's got to be more to it than that..."
  15: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0056 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlc1" with entities [EventEntity, EventEntity], work=52*
  17: 0x0065 [0x01] GOTO 0x0095
  18: 0x0068 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0095
  19: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=68*
- 20: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=6365*)
+ 20: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=6366*)
     → "Are you surrre? Fine. Your loss."
  21: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0083 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=68*

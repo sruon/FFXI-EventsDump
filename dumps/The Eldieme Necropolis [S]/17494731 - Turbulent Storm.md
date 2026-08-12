@@ -26,11 +26,11 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x039A      |         922 |
-|       1 | 0x1DD4      |        7636 |
-|       2 | 0x1DD5      |        7637 |
-|       3 | 0x1DD6      |        7638 |
-|       4 | 0x1DD2      |        7634 |
-|       5 | 0x1DD3      |        7635 |
+|       1 | 0x1DD5      |        7637 |
+|       2 | 0x1DD6      |        7638 |
+|       3 | 0x1DD7      |        7639 |
+|       4 | 0x1DD3      |        7635 |
+|       5 | 0x1DD4      |        7636 |
 |       6 | 0x000B      |          11 |
 |       7 | 0x67AEE     |      424686 |
 |       8 | 0xFFFF475E  |  4294920030 |
@@ -107,10 +107,10 @@
 ```
   0: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0007 [0x03] Work_Zone[2] = 922*
-  2: 0x000C [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7636*]:
+  2: 0x000C [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7637*]:
     → "You won't be considered a member of the Fighting Fourth until you take that $3 to Bastok and show it to Centurion Adelbrecht."
   3: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0014 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7637*]:
+  4: 0x0014 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7638*]:
     → "Oh, and good luck with the entrance exam. Though, the Republic can't afford to toss away meat before putting it in the grinder, so I wouldn't worry too much about the test."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x001E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0023 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7638*]:
+  1: 0x0023 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7639*]:
     → "I heard the news, recruit. Welcome to the Fourth...but don't let it go to your head. Let's see how long you last first."
   2: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x002B [0x21] END_EVENT
@@ -167,10 +167,10 @@
 
 ```
   0: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0032 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7634*]:
+  1: 0x0032 [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7635*]:
     → "The roads to Bastok are crawling with ruthless beastman scouts just itching to add another notch to their axes."
   2: 0x0039 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x003A [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7635*]:
+  3: 0x003A [0x2B] Turbulent Storm (ID: 17494731/0x010AF2CB) [7636*]:
     → "If you get spotted, you can always play the brave [man/woman] and fight the scum, but the Republic needs live soldiers, not ones in body bags. Turn tail and run away, live to kill another day--that's my motto."
   4: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0042 [0x21] END_EVENT

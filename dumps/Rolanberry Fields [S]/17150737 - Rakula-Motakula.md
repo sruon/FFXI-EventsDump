@@ -70,24 +70,24 @@
 |      47 | 0x003C      |          60 |
 |      48 | 0x0170      |         368 |
 |      49 | 0x0001      |           1 |
-|      50 | 0x1E4E      |        7758 |
-|      51 | 0x1E4F      |        7759 |
-|      52 | 0x1E50      |        7760 |
+|      50 | 0x1E4F      |        7759 |
+|      51 | 0x1E50      |        7760 |
+|      52 | 0x1E51      |        7761 |
 |      53 | 0x00A0      |         160 |
 |      54 | 0x0031      |          49 |
-|      55 | 0x1E3B      |        7739 |
-|      56 | 0x1E3C      |        7740 |
-|      57 | 0x1E3D      |        7741 |
-|      58 | 0x1E3E      |        7742 |
+|      55 | 0x1E3C      |        7740 |
+|      56 | 0x1E3D      |        7741 |
+|      57 | 0x1E3E      |        7742 |
+|      58 | 0x1E3F      |        7743 |
 |      59 | 0x0026      |          38 |
-|      60 | 0x1E3F      |        7743 |
+|      60 | 0x1E40      |        7744 |
 |      61 | 0x0ED8      |        3800 |
-|      62 | 0x1E51      |        7761 |
-|      63 | 0x1E40      |        7744 |
-|      64 | 0x1E41      |        7745 |
-|      65 | 0x1E42      |        7746 |
+|      62 | 0x1E52      |        7762 |
+|      63 | 0x1E41      |        7745 |
+|      64 | 0x1E42      |        7746 |
+|      65 | 0x1E43      |        7747 |
 |      66 | 0x00FA      |         250 |
-|      67 | 0x1E43      |        7747 |
+|      67 | 0x1E44      |        7748 |
 |      68 | 0xFFFA6A76  |  4294601334 |
 |      69 | 0xFFFEB9AB  |  4294883755 |
 |      70 | 0x00A5      |         165 |
@@ -129,15 +129,15 @@
 |     106 | 0xFFFED887  |  4294891655 |
 |     107 | 0x01CA      |         458 |
 |     108 | 0x000A      |          10 |
-|     109 | 0x1E44      |        7748 |
-|     110 | 0x1E4D      |        7757 |
+|     109 | 0x1E45      |        7749 |
+|     110 | 0x1E4E      |        7758 |
 |     111 | 0x0002      |           2 |
-|     112 | 0x1E45      |        7749 |
-|     113 | 0x1E46      |        7750 |
+|     112 | 0x1E46      |        7750 |
+|     113 | 0x1E47      |        7751 |
 |     114 | 0x001E      |          30 |
-|     115 | 0x1E47      |        7751 |
+|     115 | 0x1E48      |        7752 |
 |     116 | 0x012C      |         300 |
-|     117 | 0x1E4A      |        7754 |
+|     117 | 0x1E4B      |        7755 |
 |     118 | 0xFFFBA5A7  |  4294682023 |
 |     119 | 0xFFFE7B11  |  4294867729 |
 |     120 | 0xFFFBB3CD  |  4294685645 |
@@ -149,17 +149,17 @@
 |     126 | 0x015B      |         347 |
 |     127 | 0xFFFBBF01  |  4294688513 |
 |     128 | 0xFFFE961F  |  4294874655 |
-|     129 | 0x1E49      |        7753 |
-|     130 | 0x1E4C      |        7756 |
-|     131 | 0x1E48      |        7752 |
-|     132 | 0x1E4B      |        7755 |
+|     129 | 0x1E4A      |        7754 |
+|     130 | 0x1E4D      |        7757 |
+|     131 | 0x1E49      |        7753 |
+|     132 | 0x1E4C      |        7756 |
 
 ## String References
 
-- **7747**: What will you tell Naiko-Paneiko about? [The mandragora./The soldier's equipment./The weather in Rolanberry Fields.]
-- **7754**: How many leafed mandragoras did you see? [Four./Five./Six.]
-- **7755**: How many flowered mandragoras did you see? [Four./Five./Six.]
-- **7756**: How many black mandragoras did you see? [Four./Five./Six.]
+- **7748**: What will you tell Naiko-Paneiko about? [The mandragora./The soldier's equipment./The weather in Rolanberry Fields.]
+- **7755**: How many leafed mandragoras did you see? [Four./Five./Six.]
+- **7756**: How many flowered mandragoras did you see? [Four./Five./Six.]
+- **7757**: How many black mandragoras did you see? [Four./Five./Six.]
 
 ## Events
 
@@ -411,15 +411,15 @@
  53: 0x01B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  54: 0x01C4 [0x1C] WAIT(60* ticks)
  55: 0x01C7 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x023C
- 56: 0x01CF [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7758*]:
+ 56: 0x01CF [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7759*]:
     → "Oh, it's you again. Have you come to see the mandragora-wora?"
  57: 0x01D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x01D7 [0x52] END_LOAD_SCHEDULER: End scheduler "p000" with entities [LocalPlayer, LocalPlayer], work=368*
  59: 0x01E6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 60: 0x01F7 [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7759*]:
+ 60: 0x01F7 [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7760*]:
     → "I wouldn'taru go too far that way if I were you. They were roaming around that area until just a bit ago."
  61: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x01FF [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7760*]:
+ 62: 0x01FF [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7761*]:
     → "Th-There they are!"
  63: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0207 [0x52] END_LOAD_SCHEDULER: End scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=368*
@@ -428,20 +428,20 @@
  67: 0x022A [0x52] END_LOAD_SCHEDULER: End scheduler "m000" with entities [LocalPlayer, LocalPlayer], work=368*
  68: 0x0239 [0x01] GOTO 0x0309
  69: 0x023C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Merim-Kurim (ID: 17150738/0x0105B312), Merim-Kurim (ID: 17150738/0x0105B312)], work=49*
- 70: 0x024B [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7739*]:
+ 70: 0x024B [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7740*]:
     → "These are dangerous lands, adventurer. We advise that you distance yourself from here."
  71: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x0253 [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7740*]:
+ 72: 0x0253 [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7741*]:
     → "We are a Caster Company of the Federal Forces of Windurst. We hastened here after receiving intelligence of an infestarutation of monsters in the vicini-winity."
  73: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x025B [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7741*]:
+ 74: 0x025B [0x2B] Merim-Kurim (ID: 17150738/0x0105B312) [7742*]:
     → "If you have no busi-wusiness here, then you should evacuataru th-- Hm?"
  75: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0263 [0x4A] Merim-Kurim (ID: 17150738/0x0105B312) looks at Rakula-Motakula (ID: 17150737/0x0105B311)
  77: 0x026C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Merim-Kurim (ID: 17150738/0x0105B312), Merim-Kurim (ID: 17150738/0x0105B312)], work=49*
  78: 0x027B [0x52] END_LOAD_SCHEDULER: End scheduler "p000" with entities [LocalPlayer, LocalPlayer], work=368*
  79: 0x028A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
- 80: 0x029B [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7742*]:
+ 80: 0x029B [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7743*]:
     → "Wh-what is that!?"
  81: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x02A3 [0x52] END_LOAD_SCHEDULER: End scheduler "p001" with entities [LocalPlayer, LocalPlayer], work=368*
@@ -451,7 +451,7 @@
  86: 0x02D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m001" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  87: 0x02E6 [0x6E] Rakula-Motakula (ID: 17150737/0x0105B311) uses emote 38*
  88: 0x02ED [0x99] Wait for Rakula-Motakula (ID: 17150737/0x0105B311) animation to complete
- 89: 0x02F2 [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7743*]:
+ 89: 0x02F2 [0x2B] Rakula-Motakula (ID: 17150737/0x0105B311) [7744*]:
     → "I...I've never seen so ma-many-wany ma-mandra-wandra...gora...?"
  90: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02FA [0x52] END_LOAD_SCHEDULER: End scheduler "m001" with entities [LocalPlayer, LocalPlayer], work=368*
@@ -460,17 +460,17 @@ SUBROUTINE_0309:
  92: 0x0309 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
  93: 0x031A [0x39] SET_ENTITY_DIRECTION(direction=20.9°*)
  94: 0x031D [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x0330
- 95: 0x0325 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7761*]:
+ 95: 0x0325 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7762*]:
     → "Now's your chance, kid! Make sure you see how many of each varietaru there are and then report back to me. The people must know!"
  96: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x032D [0x01] GOTO 0x0348
- 98: 0x0330 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7744*]:
+ 98: 0x0330 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7745*]:
     → "Ah, ah, ahhh. Testaru, testaru, testaru."
  99: 0x0337 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0338 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7745*]:
+100: 0x0338 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7746*]:
     → "Hello, out theeere! It's me, Naiko-Paneiko!"
 101: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x0340 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7746*]:
+102: 0x0340 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7747*]:
     → "Hm? What's going on, kid? Did something happen?"
 103: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -493,7 +493,7 @@ SUBROUTINE_0348:
 119: 0x03C3 [0x1C] WAIT(250* ticks)
 120: 0x03C6 [0x52] END_LOAD_SCHEDULER: End scheduler "m003" with entities [LocalPlayer, LocalPlayer], work=368*
 121: 0x03D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
-122: 0x03E6 [0x24] CREATE_DIALOG(message_id=7747*, default_option=0*, option_flags=0*)
+122: 0x03E6 [0x24] CREATE_DIALOG(message_id=7748*, default_option=0*, option_flags=0*)
     → "What will you tell Naiko-Paneiko about? [The mandragora./The soldier's equipment./The weather in Rolanberry Fields.]"
 123: 0x03ED [0x25] WAIT_DIALOG_SELECT()
 124: 0x03EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04DD
@@ -515,22 +515,22 @@ SUBROUTINE_0348:
 140: 0x04BB [0x1C] WAIT(10* ticks)
 141: 0x04BE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m004" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
 142: 0x04CF [0x1C] WAIT(10* ticks)
-143: 0x04D2 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7748*]:
+143: 0x04D2 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7749*]:
     → "......What!? An exorbi-worbitant number of mandragora? They just appeared!? And in all varietarus!?"
 144: 0x04D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x04DA [0x01] GOTO 0x0513
 146: 0x04DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04F8
 147: 0x04E5 [0x03] Work_Zone[1] = 1*
-148: 0x04EA [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7757*]:
+148: 0x04EA [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7758*]:
     → "All rightaru, I got it! I'll throw together a mockup right away and make sure it gets printed in the next edition!"
 149: 0x04F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x04F2 [0x01] GOTO 0x0936
 
 SUBROUTINE_0513:
-151: 0x0513 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7749*]:
+151: 0x0513 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7750*]:
     → "Oooooo, I really wish I could see that with my own peepers."
 152: 0x051A [0x23] WAIT_FOR_DIALOG_INTERACTION
-153: 0x051B [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7750*]:
+153: 0x051B [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7751*]:
     → "But this is no time for lamentaruing! Tell me exactly what you see!"
 154: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x0523 [0x52] END_LOAD_SCHEDULER: End scheduler "m004" with entities [LocalPlayer, LocalPlayer], work=368*
@@ -550,12 +550,12 @@ SUBROUTINE_0513:
 169: 0x0597 [0x27] REQ_SET(priority=0x10, entity_id=04 (ID: 17150792/0x0105B348), tag_num=0x03)
 170: 0x059E [0x27] REQ_SET(priority=0x10, entity_id=06 (ID: 17150794/0x0105B34A), tag_num=0x03)
 171: 0x05A5 [0x1C] WAIT(30* ticks)
-172: 0x05A8 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7751*]:
+172: 0x05A8 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7752*]:
     → "How many leafed mandragoras are there?"
 173: 0x05AF [0x1C] WAIT(300* ticks)
 174: 0x05B2 [0x52] END_LOAD_SCHEDULER: End scheduler "m005" with entities [LocalPlayer, LocalPlayer], work=368*
 175: 0x05C1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
-176: 0x05D2 [0x24] CREATE_DIALOG(message_id=7754*, default_option=0*, option_flags=0*)
+176: 0x05D2 [0x24] CREATE_DIALOG(message_id=7755*, default_option=0*, option_flags=0*)
     → "How many leafed mandragoras did you see? [Four./Five./Six.]"
 177: 0x05D9 [0x25] WAIT_DIALOG_SELECT()
 178: 0x05DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x069E
@@ -577,7 +577,7 @@ SUBROUTINE_0513:
 194: 0x069B [0x01] GOTO 0x06D4
 195: 0x069E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x06B9
 196: 0x06A6 [0x03] Work_Zone[1] = 2*
-197: 0x06AB [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7757*]:
+197: 0x06AB [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7758*]:
     → "All rightaru, I got it! I'll throw together a mockup right away and make sure it gets printed in the next edition!"
 198: 0x06B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 199: 0x06B3 [0x01] GOTO 0x0936
@@ -600,12 +600,12 @@ SUBROUTINE_06D4:
 214: 0x0748 [0x27] REQ_SET(priority=0x10, entity_id=04 (ID: 17150792/0x0105B348), tag_num=0x02)
 215: 0x074F [0x27] REQ_SET(priority=0x10, entity_id=06 (ID: 17150794/0x0105B34A), tag_num=0x02)
 216: 0x0756 [0x1C] WAIT(30* ticks)
-217: 0x0759 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7753*]:
+217: 0x0759 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7754*]:
     → "How many black mandragoras are there?"
 218: 0x0760 [0x1C] WAIT(250* ticks)
 219: 0x0763 [0x52] END_LOAD_SCHEDULER: End scheduler "m006" with entities [LocalPlayer, LocalPlayer], work=368*
 220: 0x0772 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
-221: 0x0783 [0x24] CREATE_DIALOG(message_id=7756*, default_option=0*, option_flags=0*)
+221: 0x0783 [0x24] CREATE_DIALOG(message_id=7757*, default_option=0*, option_flags=0*)
     → "How many black mandragoras did you see? [Four./Five./Six.]"
 222: 0x078A [0x25] WAIT_DIALOG_SELECT()
 223: 0x078B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07FB
@@ -627,7 +627,7 @@ SUBROUTINE_06D4:
 239: 0x07F8 [0x01] GOTO 0x0831
 240: 0x07FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0816
 241: 0x0803 [0x03] Work_Zone[1] = 2*
-242: 0x0808 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7757*]:
+242: 0x0808 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7758*]:
     → "All rightaru, I got it! I'll throw together a mockup right away and make sure it gets printed in the next edition!"
 243: 0x080F [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x0810 [0x01] GOTO 0x0936
@@ -650,23 +650,23 @@ SUBROUTINE_0831:
 259: 0x08A5 [0x27] REQ_SET(priority=0x10, entity_id=04 (ID: 17150792/0x0105B348), tag_num=0x03)
 260: 0x08AC [0x27] REQ_SET(priority=0x10, entity_id=06 (ID: 17150794/0x0105B34A), tag_num=0x03)
 261: 0x08B3 [0x1C] WAIT(30* ticks)
-262: 0x08B6 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7752*]:
+262: 0x08B6 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7753*]:
     → "How many flowered mandragoras are there?"
 263: 0x08BD [0x1C] WAIT(200* ticks)
 264: 0x08C0 [0x52] END_LOAD_SCHEDULER: End scheduler "m007" with entities [LocalPlayer, LocalPlayer], work=368*
 265: 0x08CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "m002" with entities [LocalPlayer, LocalPlayer], work=[368*, 0*]
-266: 0x08E0 [0x24] CREATE_DIALOG(message_id=7755*, default_option=0*, option_flags=0*)
+266: 0x08E0 [0x24] CREATE_DIALOG(message_id=7756*, default_option=0*, option_flags=0*)
     → "How many flowered mandragoras did you see? [Four./Five./Six.]"
 267: 0x08E7 [0x25] WAIT_DIALOG_SELECT()
 268: 0x08E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0903
 269: 0x08F0 [0x03] Work_Zone[1] = 2*
-270: 0x08F5 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7757*]:
+270: 0x08F5 [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7758*]:
     → "All rightaru, I got it! I'll throw together a mockup right away and make sure it gets printed in the next edition!"
 271: 0x08FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x08FD [0x01] GOTO 0x0936
 
 SUBROUTINE_092E:
-273: 0x092E [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7757*]:
+273: 0x092E [0x2B] Naiko-Paneiko (ID: 17150778/0x0105B33A) [7758*]:
     → "All rightaru, I got it! I'll throw together a mockup right away and make sure it gets printed in the next edition!"
 274: 0x0935 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

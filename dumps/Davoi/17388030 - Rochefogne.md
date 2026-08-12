@@ -68,17 +68,17 @@
 |      12 | 0x357CF     |      219087 |
 |      13 | 0xFFFF4738  |  4294919992 |
 |      14 | 0x0147      |         327 |
-|      15 | 0x1D5A      |        7514 |
-|      16 | 0x1D5C      |        7516 |
-|      17 | 0x1D5D      |        7517 |
-|      18 | 0x1D5F      |        7519 |
+|      15 | 0x1D5B      |        7515 |
+|      16 | 0x1D5D      |        7517 |
+|      17 | 0x1D5E      |        7518 |
+|      18 | 0x1D60      |        7520 |
 
 ## String References
 
-- **7514**: I assumed that because the Orcs, too, were searching for something that...
-- **7516**: ...I must inquire with my sister.
-- **7517**: At her coming-of-age, she learned all there was to know of that sword from our father.
-- **7519**: Will you lend me a hand, Vauderame? I know my sister has left something for me, and I intend to find it.
+- **7515**: I assumed that because the Orcs, too, were searching for something that...
+- **7517**: ...I must inquire with my sister.
+- **7518**: At her coming-of-age, she learned all there was to know of that sword from our father.
+- **7520**: Will you lend me a hand, Vauderame? I know my sister has left something for me, and I intend to find it.
 
 ## Events
 
@@ -844,7 +844,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
+  0: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
     → "I assumed that because the Orcs, too, were searching for something that..."
   1: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B5 [0x00] END_REQSTACK()
@@ -869,7 +869,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
+  0: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
     → "...I must inquire with my sister."
   1: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BA [0x00] END_REQSTACK()
@@ -894,7 +894,7 @@
 #### Opcodes
 
 ```
-  0: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7517*)
+  0: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
     → "At her coming-of-age, she learned all there was to know of that sword from our father."
   1: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BF [0x00] END_REQSTACK()
@@ -919,7 +919,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
+  0: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7520*)
     → "Will you lend me a hand, Vauderame? I know my sister has left something for me, and I intend to find it."
   1: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C4 [0x00] END_REQSTACK()

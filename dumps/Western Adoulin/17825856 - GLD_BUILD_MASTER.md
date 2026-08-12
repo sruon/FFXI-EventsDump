@@ -20,16 +20,16 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C71      |        7281 |
+|       0 | 0x1C72      |        7282 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x1C72      |        7282 |
+|       2 | 0x1C73      |        7283 |
 |       3 | 0x0005      |           5 |
 |       4 | 0x0013      |          19 |
 |       5 | 0x0001      |           1 |
 |       6 | 0x0002      |           2 |
 |       7 | 0x40000000  |  1073741824 |
 |       8 | 0x0004      |           4 |
-|       9 | 0x1C73      |        7283 |
+|       9 | 0x1C74      |        7284 |
 |      10 | 0x03E8      |        1000 |
 |      11 | 0x03E3      |         995 |
 |      12 | 0x0389      |         905 |
@@ -85,26 +85,26 @@
 |      62 | 0x001D      |          29 |
 |      63 | 0x001E      |          30 |
 |      64 | 0x001F      |          31 |
-|      65 | 0x1C77      |        7287 |
-|      66 | 0x1C78      |        7288 |
-|      67 | 0x1C75      |        7285 |
+|      65 | 0x1C78      |        7288 |
+|      66 | 0x1C79      |        7289 |
+|      67 | 0x1C76      |        7286 |
 |      68 | 0x09C4      |        2500 |
 |      69 | 0x07D0      |        2000 |
 |      70 | 0x05DC      |        1500 |
 |      71 | 0x00FA      |         250 |
 |      72 | 0x0032      |          50 |
-|      73 | 0x1C76      |        7286 |
+|      73 | 0x1C77      |        7287 |
 |      74 | 0x0096      |         150 |
 
 ## String References
 
-- **7281**: DEBUG: Debug: [Growth value degradation over time: on/off./Change internal Pioneers' Coalition growth value./Change internal Peacekeepers' Coalition growth value./Change internal Couriers' Coalition growth value./Change internal Scouts' Coalition growth value./Change internal Inventors' Coalition growth value./Change internal Mummers' Coalition growth value./Change Pioneers' Coalition referendum/support value./Change Peacekeepers' Coalition referendum/support value./Change Couriers' Coalition referendum/support value./Change Scouts' Coalition referendum/support value./Change Inventors' Coalition referendum/support value./Change Mummers' Coalition referendum/support value./Add Pioneers' Coalition coalition assignment completion value./Add Peacekeepers' Coalition coalition assignment completion value./Add Couriers' Coalition coalition assignment completion value./Add Scouts' Coalition coalition assignment completion value./Add Inventors' Coalition coalition assignment completion value./Add Mummers' Coalition coalition assignment completion value./Add Pioneers' Coalition coalition quest completion support value./Add Peacekeepers' Coalition coalition quest completion support value./Add Couriers' Coalition coalition quest completion support value./Add Scouts' Coalition coalition quest completion support value./Add Inventors' Coalition coalition quest completion support value./Add Mummers' Coalition coalition quest completion support value./Cancel.]
-- **7282**: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
-- **7283**: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
-- **7285**: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
-- **7286**: DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]
-- **7287**: DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]
-- **7288**: DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]
+- **7282**: DEBUG: Debug: [Growth value degradation over time: on/off./Change internal Pioneers' Coalition growth value./Change internal Peacekeepers' Coalition growth value./Change internal Couriers' Coalition growth value./Change internal Scouts' Coalition growth value./Change internal Inventors' Coalition growth value./Change internal Mummers' Coalition growth value./Change Pioneers' Coalition referendum/support value./Change Peacekeepers' Coalition referendum/support value./Change Couriers' Coalition referendum/support value./Change Scouts' Coalition referendum/support value./Change Inventors' Coalition referendum/support value./Change Mummers' Coalition referendum/support value./Add Pioneers' Coalition coalition assignment completion value./Add Peacekeepers' Coalition coalition assignment completion value./Add Couriers' Coalition coalition assignment completion value./Add Scouts' Coalition coalition assignment completion value./Add Inventors' Coalition coalition assignment completion value./Add Mummers' Coalition coalition assignment completion value./Add Pioneers' Coalition coalition quest completion support value./Add Peacekeepers' Coalition coalition quest completion support value./Add Couriers' Coalition coalition quest completion support value./Add Scouts' Coalition coalition quest completion support value./Add Inventors' Coalition coalition quest completion support value./Add Mummers' Coalition coalition quest completion support value./Cancel.]
+- **7283**: DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]
+- **7284**: DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]
+- **7286**: DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]
+- **7287**: DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]
+- **7288**: DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]
+- **7289**: DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]
 
 ## Events
 
@@ -2227,11 +2227,11 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7281*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
     → "DEBUG: Debug: [Growth value degradation over time: on/off./Change internal Pioneers' Coalition growth value./Change internal Peacekeepers' Coalition growth value./Change internal Couriers' Coalition growth value./Change internal Scouts' Coalition growth value./Change internal Inventors' Coalition growth value./Change internal Mummers' Coalition growth value./Change Pioneers' Coalition referendum/support value./Change Peacekeepers' Coalition referendum/support value./Change Couriers' Coalition referendum/support value./Change Scouts' Coalition referendum/support value./Change Inventors' Coalition referendum/support value./Change Mummers' Coalition referendum/support value./Add Pioneers' Coalition coalition assignment completion value./Add Peacekeepers' Coalition coalition assignment completion value./Add Couriers' Coalition coalition assignment completion value./Add Scouts' Coalition coalition assignment completion value./Add Inventors' Coalition coalition assignment completion value./Add Mummers' Coalition coalition assignment completion value./Add Pioneers' Coalition coalition quest completion support value./Add Peacekeepers' Coalition coalition quest completion support value./Add Couriers' Coalition coalition quest completion support value./Add Scouts' Coalition coalition quest completion support value./Add Inventors' Coalition coalition quest completion support value./Add Mummers' Coalition coalition quest completion support value./Cancel.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0065
-  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7282*, default_option=0*, option_flags=0*)
+  3: 0x0011 [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
     → "DEBUG: Degradation over time on/off. [ON./OFF./Cancel.]"
   4: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x002D
@@ -2249,7 +2249,7 @@ SUBROUTINE_0051:
  15: 0x0059 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=1*)
  16: 0x0062 [0x01] GOTO 0x81ED
  17: 0x0065 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0305
- 18: 0x006D [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+ 18: 0x006D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
  19: 0x0074 [0x25] WAIT_DIALOG_SELECT()
  20: 0x0075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0089
@@ -2354,7 +2354,7 @@ SUBROUTINE_02F1:
 117: 0x02F9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=2*)
 118: 0x0302 [0x01] GOTO 0x81ED
 119: 0x0305 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x05A5
-120: 0x030D [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+120: 0x030D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
 121: 0x0314 [0x25] WAIT_DIALOG_SELECT()
 122: 0x0315 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0329
@@ -2459,7 +2459,7 @@ SUBROUTINE_0591:
 219: 0x0599 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=3*)
 220: 0x05A2 [0x01] GOTO 0x81ED
 221: 0x05A5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0845
-222: 0x05AD [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+222: 0x05AD [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
 223: 0x05B4 [0x25] WAIT_DIALOG_SELECT()
 224: 0x05B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05C9
@@ -2564,7 +2564,7 @@ SUBROUTINE_0831:
 321: 0x0839 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=4*)
 322: 0x0842 [0x01] GOTO 0x81ED
 323: 0x0845 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0AE5
-324: 0x084D [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+324: 0x084D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
 325: 0x0854 [0x25] WAIT_DIALOG_SELECT()
 326: 0x0855 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0869
@@ -2669,7 +2669,7 @@ SUBROUTINE_0AD1:
 423: 0x0AD9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=5*)
 424: 0x0AE2 [0x01] GOTO 0x81ED
 425: 0x0AE5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0D85
-426: 0x0AED [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+426: 0x0AED [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
 427: 0x0AF4 [0x25] WAIT_DIALOG_SELECT()
 428: 0x0AF5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B09
@@ -2774,7 +2774,7 @@ SUBROUTINE_0D71:
 525: 0x0D79 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=6*)
 526: 0x0D82 [0x01] GOTO 0x81ED
 527: 0x0D85 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1025
-528: 0x0D8D [0x24] CREATE_DIALOG(message_id=7283*, default_option=0*, option_flags=0*)
+528: 0x0D8D [0x24] CREATE_DIALOG(message_id=7284*, default_option=0*, option_flags=0*)
     → "DEBUG: Change internal value. [1000./995./905./900./895./805./800./795./705./700./695./605./600./595./505./500./495./405./400."95."05."00."95."05."00./195./105./100./95./5./0./Cancel.]"
 529: 0x0D94 [0x25] WAIT_DIALOG_SELECT()
 530: 0x0D95 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DA9
@@ -2879,11 +2879,11 @@ SUBROUTINE_1011:
 627: 0x1019 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=7*)
 628: 0x1022 [0x01] GOTO 0x81ED
 629: 0x1025 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1BF9
-630: 0x102D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+630: 0x102D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 631: 0x1034 [0x25] WAIT_DIALOG_SELECT()
 632: 0x1035 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11A9
-633: 0x103D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+633: 0x103D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 634: 0x1044 [0x25] WAIT_DIALOG_SELECT()
 635: 0x1045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1059
@@ -2943,7 +2943,7 @@ SUBROUTINE_1195:
 687: 0x119D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 688: 0x11A6 [0x01] GOTO 0x1BE5
 689: 0x11A9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x131D
-690: 0x11B1 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+690: 0x11B1 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 691: 0x11B8 [0x25] WAIT_DIALOG_SELECT()
 692: 0x11B9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11CD
@@ -3003,7 +3003,7 @@ SUBROUTINE_1309:
 744: 0x1311 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 745: 0x131A [0x01] GOTO 0x1BE5
 746: 0x131D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1491
-747: 0x1325 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+747: 0x1325 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 748: 0x132C [0x25] WAIT_DIALOG_SELECT()
 749: 0x132D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1341
@@ -3063,7 +3063,7 @@ SUBROUTINE_147D:
 801: 0x1485 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 802: 0x148E [0x01] GOTO 0x1BE5
 803: 0x1491 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1605
-804: 0x1499 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+804: 0x1499 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 805: 0x14A0 [0x25] WAIT_DIALOG_SELECT()
 806: 0x14A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14B5
@@ -3123,7 +3123,7 @@ SUBROUTINE_15F1:
 858: 0x15F9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 859: 0x1602 [0x01] GOTO 0x1BE5
 860: 0x1605 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1779
-861: 0x160D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+861: 0x160D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 862: 0x1614 [0x25] WAIT_DIALOG_SELECT()
 863: 0x1615 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1629
@@ -3183,7 +3183,7 @@ SUBROUTINE_1765:
 915: 0x176D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 916: 0x1776 [0x01] GOTO 0x1BE5
 917: 0x1779 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x18ED
-918: 0x1781 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+918: 0x1781 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 919: 0x1788 [0x25] WAIT_DIALOG_SELECT()
 920: 0x1789 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x179D
@@ -3243,7 +3243,7 @@ SUBROUTINE_18D9:
 972: 0x18E1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 973: 0x18EA [0x01] GOTO 0x1BE5
 974: 0x18ED [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1A61
-975: 0x18F5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+975: 0x18F5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 976: 0x18FC [0x25] WAIT_DIALOG_SELECT()
 977: 0x18FD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1911
@@ -3303,7 +3303,7 @@ SUBROUTINE_1A4D:
 1029: 0x1A55 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 1030: 0x1A5E [0x01] GOTO 0x1BE5
 1031: 0x1A61 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x1BD5
-1032: 0x1A69 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1032: 0x1A69 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1033: 0x1A70 [0x25] WAIT_DIALOG_SELECT()
 1034: 0x1A71 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A85
@@ -3371,11 +3371,11 @@ SUBROUTINE_1BE5:
 1092: 0x1BED [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=8*)
 1093: 0x1BF6 [0x01] GOTO 0x81ED
 1094: 0x1BF9 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x27CD
-1095: 0x1C01 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+1095: 0x1C01 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 1096: 0x1C08 [0x25] WAIT_DIALOG_SELECT()
 1097: 0x1C09 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1D7D
-1098: 0x1C11 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1098: 0x1C11 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1099: 0x1C18 [0x25] WAIT_DIALOG_SELECT()
 1100: 0x1C19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C2D
@@ -3435,7 +3435,7 @@ SUBROUTINE_1D69:
 1152: 0x1D71 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 1153: 0x1D7A [0x01] GOTO 0x27B9
 1154: 0x1D7D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1EF1
-1155: 0x1D85 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1155: 0x1D85 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1156: 0x1D8C [0x25] WAIT_DIALOG_SELECT()
 1157: 0x1D8D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DA1
@@ -3495,7 +3495,7 @@ SUBROUTINE_1EDD:
 1209: 0x1EE5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 1210: 0x1EEE [0x01] GOTO 0x27B9
 1211: 0x1EF1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2065
-1212: 0x1EF9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1212: 0x1EF9 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1213: 0x1F00 [0x25] WAIT_DIALOG_SELECT()
 1214: 0x1F01 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1F15
@@ -3555,7 +3555,7 @@ SUBROUTINE_2051:
 1266: 0x2059 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 1267: 0x2062 [0x01] GOTO 0x27B9
 1268: 0x2065 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x21D9
-1269: 0x206D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1269: 0x206D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1270: 0x2074 [0x25] WAIT_DIALOG_SELECT()
 1271: 0x2075 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2089
@@ -3615,7 +3615,7 @@ SUBROUTINE_21C5:
 1323: 0x21CD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 1324: 0x21D6 [0x01] GOTO 0x27B9
 1325: 0x21D9 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x234D
-1326: 0x21E1 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1326: 0x21E1 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1327: 0x21E8 [0x25] WAIT_DIALOG_SELECT()
 1328: 0x21E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x21FD
@@ -3675,7 +3675,7 @@ SUBROUTINE_2339:
 1380: 0x2341 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 1381: 0x234A [0x01] GOTO 0x27B9
 1382: 0x234D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x24C1
-1383: 0x2355 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1383: 0x2355 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1384: 0x235C [0x25] WAIT_DIALOG_SELECT()
 1385: 0x235D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2371
@@ -3735,7 +3735,7 @@ SUBROUTINE_24AD:
 1437: 0x24B5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 1438: 0x24BE [0x01] GOTO 0x27B9
 1439: 0x24C1 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x2635
-1440: 0x24C9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1440: 0x24C9 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1441: 0x24D0 [0x25] WAIT_DIALOG_SELECT()
 1442: 0x24D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x24E5
@@ -3795,7 +3795,7 @@ SUBROUTINE_2621:
 1494: 0x2629 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 1495: 0x2632 [0x01] GOTO 0x27B9
 1496: 0x2635 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x27A9
-1497: 0x263D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1497: 0x263D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1498: 0x2644 [0x25] WAIT_DIALOG_SELECT()
 1499: 0x2645 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2659
@@ -3863,11 +3863,11 @@ SUBROUTINE_27B9:
 1557: 0x27C1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=9*)
 1558: 0x27CA [0x01] GOTO 0x81ED
 1559: 0x27CD [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x33A1
-1560: 0x27D5 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+1560: 0x27D5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 1561: 0x27DC [0x25] WAIT_DIALOG_SELECT()
 1562: 0x27DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2951
-1563: 0x27E5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1563: 0x27E5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1564: 0x27EC [0x25] WAIT_DIALOG_SELECT()
 1565: 0x27ED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2801
@@ -3927,7 +3927,7 @@ SUBROUTINE_293D:
 1617: 0x2945 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 1618: 0x294E [0x01] GOTO 0x338D
 1619: 0x2951 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x2AC5
-1620: 0x2959 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1620: 0x2959 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1621: 0x2960 [0x25] WAIT_DIALOG_SELECT()
 1622: 0x2961 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2975
@@ -3987,7 +3987,7 @@ SUBROUTINE_2AB1:
 1674: 0x2AB9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 1675: 0x2AC2 [0x01] GOTO 0x338D
 1676: 0x2AC5 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x2C39
-1677: 0x2ACD [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1677: 0x2ACD [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1678: 0x2AD4 [0x25] WAIT_DIALOG_SELECT()
 1679: 0x2AD5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2AE9
@@ -4047,7 +4047,7 @@ SUBROUTINE_2C25:
 1731: 0x2C2D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 1732: 0x2C36 [0x01] GOTO 0x338D
 1733: 0x2C39 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x2DAD
-1734: 0x2C41 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1734: 0x2C41 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1735: 0x2C48 [0x25] WAIT_DIALOG_SELECT()
 1736: 0x2C49 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2C5D
@@ -4107,7 +4107,7 @@ SUBROUTINE_2D99:
 1788: 0x2DA1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 1789: 0x2DAA [0x01] GOTO 0x338D
 1790: 0x2DAD [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x2F21
-1791: 0x2DB5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1791: 0x2DB5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1792: 0x2DBC [0x25] WAIT_DIALOG_SELECT()
 1793: 0x2DBD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2DD1
@@ -4167,7 +4167,7 @@ SUBROUTINE_2F0D:
 1845: 0x2F15 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 1846: 0x2F1E [0x01] GOTO 0x338D
 1847: 0x2F21 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x3095
-1848: 0x2F29 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1848: 0x2F29 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1849: 0x2F30 [0x25] WAIT_DIALOG_SELECT()
 1850: 0x2F31 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2F45
@@ -4227,7 +4227,7 @@ SUBROUTINE_3081:
 1902: 0x3089 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 1903: 0x3092 [0x01] GOTO 0x338D
 1904: 0x3095 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x3209
-1905: 0x309D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1905: 0x309D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1906: 0x30A4 [0x25] WAIT_DIALOG_SELECT()
 1907: 0x30A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x30B9
@@ -4287,7 +4287,7 @@ SUBROUTINE_31F5:
 1959: 0x31FD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 1960: 0x3206 [0x01] GOTO 0x338D
 1961: 0x3209 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x337D
-1962: 0x3211 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+1962: 0x3211 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 1963: 0x3218 [0x25] WAIT_DIALOG_SELECT()
 1964: 0x3219 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x322D
@@ -4355,11 +4355,11 @@ SUBROUTINE_338D:
 2022: 0x3395 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=10*)
 2023: 0x339E [0x01] GOTO 0x81ED
 2024: 0x33A1 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x3F75
-2025: 0x33A9 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+2025: 0x33A9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 2026: 0x33B0 [0x25] WAIT_DIALOG_SELECT()
 2027: 0x33B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3525
-2028: 0x33B9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2028: 0x33B9 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2029: 0x33C0 [0x25] WAIT_DIALOG_SELECT()
 2030: 0x33C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x33D5
@@ -4419,7 +4419,7 @@ SUBROUTINE_3511:
 2082: 0x3519 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 2083: 0x3522 [0x01] GOTO 0x3F61
 2084: 0x3525 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x3699
-2085: 0x352D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2085: 0x352D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2086: 0x3534 [0x25] WAIT_DIALOG_SELECT()
 2087: 0x3535 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3549
@@ -4479,7 +4479,7 @@ SUBROUTINE_3685:
 2139: 0x368D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 2140: 0x3696 [0x01] GOTO 0x3F61
 2141: 0x3699 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x380D
-2142: 0x36A1 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2142: 0x36A1 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2143: 0x36A8 [0x25] WAIT_DIALOG_SELECT()
 2144: 0x36A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x36BD
@@ -4539,7 +4539,7 @@ SUBROUTINE_37F9:
 2196: 0x3801 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 2197: 0x380A [0x01] GOTO 0x3F61
 2198: 0x380D [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x3981
-2199: 0x3815 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2199: 0x3815 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2200: 0x381C [0x25] WAIT_DIALOG_SELECT()
 2201: 0x381D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3831
@@ -4599,7 +4599,7 @@ SUBROUTINE_396D:
 2253: 0x3975 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 2254: 0x397E [0x01] GOTO 0x3F61
 2255: 0x3981 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x3AF5
-2256: 0x3989 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2256: 0x3989 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2257: 0x3990 [0x25] WAIT_DIALOG_SELECT()
 2258: 0x3991 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x39A5
@@ -4659,7 +4659,7 @@ SUBROUTINE_3AE1:
 2310: 0x3AE9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 2311: 0x3AF2 [0x01] GOTO 0x3F61
 2312: 0x3AF5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x3C69
-2313: 0x3AFD [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2313: 0x3AFD [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2314: 0x3B04 [0x25] WAIT_DIALOG_SELECT()
 2315: 0x3B05 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3B19
@@ -4719,7 +4719,7 @@ SUBROUTINE_3C55:
 2367: 0x3C5D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 2368: 0x3C66 [0x01] GOTO 0x3F61
 2369: 0x3C69 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x3DDD
-2370: 0x3C71 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2370: 0x3C71 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2371: 0x3C78 [0x25] WAIT_DIALOG_SELECT()
 2372: 0x3C79 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3C8D
@@ -4779,7 +4779,7 @@ SUBROUTINE_3DC9:
 2424: 0x3DD1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 2425: 0x3DDA [0x01] GOTO 0x3F61
 2426: 0x3DDD [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x3F51
-2427: 0x3DE5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2427: 0x3DE5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2428: 0x3DEC [0x25] WAIT_DIALOG_SELECT()
 2429: 0x3DED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3E01
@@ -4847,11 +4847,11 @@ SUBROUTINE_3F61:
 2487: 0x3F69 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=11*)
 2488: 0x3F72 [0x01] GOTO 0x81ED
 2489: 0x3F75 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x4B49
-2490: 0x3F7D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+2490: 0x3F7D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 2491: 0x3F84 [0x25] WAIT_DIALOG_SELECT()
 2492: 0x3F85 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x40F9
-2493: 0x3F8D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2493: 0x3F8D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2494: 0x3F94 [0x25] WAIT_DIALOG_SELECT()
 2495: 0x3F95 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3FA9
@@ -4911,7 +4911,7 @@ SUBROUTINE_40E5:
 2547: 0x40ED [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 2548: 0x40F6 [0x01] GOTO 0x4B35
 2549: 0x40F9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x426D
-2550: 0x4101 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2550: 0x4101 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2551: 0x4108 [0x25] WAIT_DIALOG_SELECT()
 2552: 0x4109 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x411D
@@ -4971,7 +4971,7 @@ SUBROUTINE_4259:
 2604: 0x4261 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 2605: 0x426A [0x01] GOTO 0x4B35
 2606: 0x426D [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x43E1
-2607: 0x4275 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2607: 0x4275 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2608: 0x427C [0x25] WAIT_DIALOG_SELECT()
 2609: 0x427D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4291
@@ -5031,7 +5031,7 @@ SUBROUTINE_43CD:
 2661: 0x43D5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 2662: 0x43DE [0x01] GOTO 0x4B35
 2663: 0x43E1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x4555
-2664: 0x43E9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2664: 0x43E9 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2665: 0x43F0 [0x25] WAIT_DIALOG_SELECT()
 2666: 0x43F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4405
@@ -5091,7 +5091,7 @@ SUBROUTINE_4541:
 2718: 0x4549 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 2719: 0x4552 [0x01] GOTO 0x4B35
 2720: 0x4555 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x46C9
-2721: 0x455D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2721: 0x455D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2722: 0x4564 [0x25] WAIT_DIALOG_SELECT()
 2723: 0x4565 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4579
@@ -5151,7 +5151,7 @@ SUBROUTINE_46B5:
 2775: 0x46BD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 2776: 0x46C6 [0x01] GOTO 0x4B35
 2777: 0x46C9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x483D
-2778: 0x46D1 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2778: 0x46D1 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2779: 0x46D8 [0x25] WAIT_DIALOG_SELECT()
 2780: 0x46D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x46ED
@@ -5211,7 +5211,7 @@ SUBROUTINE_4829:
 2832: 0x4831 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 2833: 0x483A [0x01] GOTO 0x4B35
 2834: 0x483D [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x49B1
-2835: 0x4845 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2835: 0x4845 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2836: 0x484C [0x25] WAIT_DIALOG_SELECT()
 2837: 0x484D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4861
@@ -5271,7 +5271,7 @@ SUBROUTINE_499D:
 2889: 0x49A5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 2890: 0x49AE [0x01] GOTO 0x4B35
 2891: 0x49B1 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x4B25
-2892: 0x49B9 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2892: 0x49B9 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2893: 0x49C0 [0x25] WAIT_DIALOG_SELECT()
 2894: 0x49C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x49D5
@@ -5339,11 +5339,11 @@ SUBROUTINE_4B35:
 2952: 0x4B3D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=12*)
 2953: 0x4B46 [0x01] GOTO 0x81ED
 2954: 0x4B49 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x571D
-2955: 0x4B51 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+2955: 0x4B51 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 2956: 0x4B58 [0x25] WAIT_DIALOG_SELECT()
 2957: 0x4B59 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4CCD
-2958: 0x4B61 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+2958: 0x4B61 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 2959: 0x4B68 [0x25] WAIT_DIALOG_SELECT()
 2960: 0x4B69 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4B7D
@@ -5403,7 +5403,7 @@ SUBROUTINE_4CB9:
 3012: 0x4CC1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 3013: 0x4CCA [0x01] GOTO 0x5709
 3014: 0x4CCD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x4E41
-3015: 0x4CD5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3015: 0x4CD5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3016: 0x4CDC [0x25] WAIT_DIALOG_SELECT()
 3017: 0x4CDD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4CF1
@@ -5463,7 +5463,7 @@ SUBROUTINE_4E2D:
 3069: 0x4E35 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 3070: 0x4E3E [0x01] GOTO 0x5709
 3071: 0x4E41 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x4FB5
-3072: 0x4E49 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3072: 0x4E49 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3073: 0x4E50 [0x25] WAIT_DIALOG_SELECT()
 3074: 0x4E51 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4E65
@@ -5523,7 +5523,7 @@ SUBROUTINE_4FA1:
 3126: 0x4FA9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 3127: 0x4FB2 [0x01] GOTO 0x5709
 3128: 0x4FB5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x5129
-3129: 0x4FBD [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3129: 0x4FBD [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3130: 0x4FC4 [0x25] WAIT_DIALOG_SELECT()
 3131: 0x4FC5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4FD9
@@ -5583,7 +5583,7 @@ SUBROUTINE_5115:
 3183: 0x511D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 3184: 0x5126 [0x01] GOTO 0x5709
 3185: 0x5129 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x529D
-3186: 0x5131 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3186: 0x5131 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3187: 0x5138 [0x25] WAIT_DIALOG_SELECT()
 3188: 0x5139 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x514D
@@ -5643,7 +5643,7 @@ SUBROUTINE_5289:
 3240: 0x5291 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 3241: 0x529A [0x01] GOTO 0x5709
 3242: 0x529D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x5411
-3243: 0x52A5 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3243: 0x52A5 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3244: 0x52AC [0x25] WAIT_DIALOG_SELECT()
 3245: 0x52AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x52C1
@@ -5703,7 +5703,7 @@ SUBROUTINE_53FD:
 3297: 0x5405 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 3298: 0x540E [0x01] GOTO 0x5709
 3299: 0x5411 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x5585
-3300: 0x5419 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3300: 0x5419 [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3301: 0x5420 [0x25] WAIT_DIALOG_SELECT()
 3302: 0x5421 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5435
@@ -5763,7 +5763,7 @@ SUBROUTINE_5571:
 3354: 0x5579 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 3355: 0x5582 [0x01] GOTO 0x5709
 3356: 0x5585 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x56F9
-3357: 0x558D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
+3357: 0x558D [0x24] CREATE_DIALOG(message_id=7289*, default_option=0*, option_flags=0*)
     → "DEBUG: Change support value. [0./1."."./4./5./6./7./8./9./10./11./12./13./14./15./Cancel.]"
 3358: 0x5594 [0x25] WAIT_DIALOG_SELECT()
 3359: 0x5595 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x55A9
@@ -5831,7 +5831,7 @@ SUBROUTINE_5709:
 3417: 0x5711 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=13*)
 3418: 0x571A [0x01] GOTO 0x81ED
 3419: 0x571D [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x5819
-3420: 0x5725 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3420: 0x5725 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3421: 0x572C [0x25] WAIT_DIALOG_SELECT()
 3422: 0x572D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5741
@@ -5873,7 +5873,7 @@ SUBROUTINE_5805:
 3456: 0x580D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=14*)
 3457: 0x5816 [0x01] GOTO 0x81ED
 3458: 0x5819 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x5915
-3459: 0x5821 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3459: 0x5821 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3460: 0x5828 [0x25] WAIT_DIALOG_SELECT()
 3461: 0x5829 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x583D
@@ -5915,7 +5915,7 @@ SUBROUTINE_5901:
 3495: 0x5909 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=15*)
 3496: 0x5912 [0x01] GOTO 0x81ED
 3497: 0x5915 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x5A11
-3498: 0x591D [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3498: 0x591D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3499: 0x5924 [0x25] WAIT_DIALOG_SELECT()
 3500: 0x5925 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5939
@@ -5957,7 +5957,7 @@ SUBROUTINE_59FD:
 3534: 0x5A05 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=16*)
 3535: 0x5A0E [0x01] GOTO 0x81ED
 3536: 0x5A11 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x5B0D
-3537: 0x5A19 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3537: 0x5A19 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3538: 0x5A20 [0x25] WAIT_DIALOG_SELECT()
 3539: 0x5A21 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5A35
@@ -5999,7 +5999,7 @@ SUBROUTINE_5AF9:
 3573: 0x5B01 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=17*)
 3574: 0x5B0A [0x01] GOTO 0x81ED
 3575: 0x5B0D [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x5C09
-3576: 0x5B15 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3576: 0x5B15 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3577: 0x5B1C [0x25] WAIT_DIALOG_SELECT()
 3578: 0x5B1D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5B31
@@ -6041,7 +6041,7 @@ SUBROUTINE_5BF5:
 3612: 0x5BFD [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=18*)
 3613: 0x5C06 [0x01] GOTO 0x81ED
 3614: 0x5C09 [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x5D05
-3615: 0x5C11 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+3615: 0x5C11 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [2500."000./1500./1000./500."50./100./50./10./5./Cancel.]"
 3616: 0x5C18 [0x25] WAIT_DIALOG_SELECT()
 3617: 0x5C19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5C2D
@@ -6083,11 +6083,11 @@ SUBROUTINE_5CF1:
 3651: 0x5CF9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=19*)
 3652: 0x5D02 [0x01] GOTO 0x81ED
 3653: 0x5D05 [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x6329
-3654: 0x5D0D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+3654: 0x5D0D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 3655: 0x5D14 [0x25] WAIT_DIALOG_SELECT()
 3656: 0x5D15 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5DD5
-3657: 0x5D1D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3657: 0x5D1D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3658: 0x5D24 [0x25] WAIT_DIALOG_SELECT()
 3659: 0x5D25 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5D39
@@ -6120,7 +6120,7 @@ SUBROUTINE_5DC1:
 3684: 0x5DC9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 3685: 0x5DD2 [0x01] GOTO 0x6315
 3686: 0x5DD5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x5E95
-3687: 0x5DDD [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3687: 0x5DDD [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3688: 0x5DE4 [0x25] WAIT_DIALOG_SELECT()
 3689: 0x5DE5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5DF9
@@ -6153,7 +6153,7 @@ SUBROUTINE_5E81:
 3714: 0x5E89 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 3715: 0x5E92 [0x01] GOTO 0x6315
 3716: 0x5E95 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x5F55
-3717: 0x5E9D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3717: 0x5E9D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3718: 0x5EA4 [0x25] WAIT_DIALOG_SELECT()
 3719: 0x5EA5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5EB9
@@ -6186,7 +6186,7 @@ SUBROUTINE_5F41:
 3744: 0x5F49 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 3745: 0x5F52 [0x01] GOTO 0x6315
 3746: 0x5F55 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x6015
-3747: 0x5F5D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3747: 0x5F5D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3748: 0x5F64 [0x25] WAIT_DIALOG_SELECT()
 3749: 0x5F65 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x5F79
@@ -6219,7 +6219,7 @@ SUBROUTINE_6001:
 3774: 0x6009 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 3775: 0x6012 [0x01] GOTO 0x6315
 3776: 0x6015 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x60D5
-3777: 0x601D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3777: 0x601D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3778: 0x6024 [0x25] WAIT_DIALOG_SELECT()
 3779: 0x6025 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6039
@@ -6252,7 +6252,7 @@ SUBROUTINE_60C1:
 3804: 0x60C9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 3805: 0x60D2 [0x01] GOTO 0x6315
 3806: 0x60D5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x6195
-3807: 0x60DD [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3807: 0x60DD [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3808: 0x60E4 [0x25] WAIT_DIALOG_SELECT()
 3809: 0x60E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x60F9
@@ -6285,7 +6285,7 @@ SUBROUTINE_6181:
 3834: 0x6189 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 3835: 0x6192 [0x01] GOTO 0x6315
 3836: 0x6195 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x6255
-3837: 0x619D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3837: 0x619D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3838: 0x61A4 [0x25] WAIT_DIALOG_SELECT()
 3839: 0x61A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x61B9
@@ -6318,7 +6318,7 @@ SUBROUTINE_6241:
 3864: 0x6249 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 3865: 0x6252 [0x01] GOTO 0x6315
 3866: 0x6255 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x6315
-3867: 0x625D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3867: 0x625D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3868: 0x6264 [0x25] WAIT_DIALOG_SELECT()
 3869: 0x6265 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6279
@@ -6356,11 +6356,11 @@ SUBROUTINE_6315:
 3897: 0x631D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=20*)
 3898: 0x6326 [0x01] GOTO 0x81ED
 3899: 0x6329 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x694D
-3900: 0x6331 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+3900: 0x6331 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 3901: 0x6338 [0x25] WAIT_DIALOG_SELECT()
 3902: 0x6339 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x63F9
-3903: 0x6341 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3903: 0x6341 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3904: 0x6348 [0x25] WAIT_DIALOG_SELECT()
 3905: 0x6349 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x635D
@@ -6393,7 +6393,7 @@ SUBROUTINE_63E5:
 3930: 0x63ED [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 3931: 0x63F6 [0x01] GOTO 0x6939
 3932: 0x63F9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x64B9
-3933: 0x6401 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3933: 0x6401 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3934: 0x6408 [0x25] WAIT_DIALOG_SELECT()
 3935: 0x6409 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x641D
@@ -6426,7 +6426,7 @@ SUBROUTINE_64A5:
 3960: 0x64AD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 3961: 0x64B6 [0x01] GOTO 0x6939
 3962: 0x64B9 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x6579
-3963: 0x64C1 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3963: 0x64C1 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3964: 0x64C8 [0x25] WAIT_DIALOG_SELECT()
 3965: 0x64C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x64DD
@@ -6459,7 +6459,7 @@ SUBROUTINE_6565:
 3990: 0x656D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 3991: 0x6576 [0x01] GOTO 0x6939
 3992: 0x6579 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x6639
-3993: 0x6581 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+3993: 0x6581 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 3994: 0x6588 [0x25] WAIT_DIALOG_SELECT()
 3995: 0x6589 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x659D
@@ -6492,7 +6492,7 @@ SUBROUTINE_6625:
 4020: 0x662D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 4021: 0x6636 [0x01] GOTO 0x6939
 4022: 0x6639 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x66F9
-4023: 0x6641 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4023: 0x6641 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4024: 0x6648 [0x25] WAIT_DIALOG_SELECT()
 4025: 0x6649 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x665D
@@ -6525,7 +6525,7 @@ SUBROUTINE_66E5:
 4050: 0x66ED [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 4051: 0x66F6 [0x01] GOTO 0x6939
 4052: 0x66F9 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x67B9
-4053: 0x6701 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4053: 0x6701 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4054: 0x6708 [0x25] WAIT_DIALOG_SELECT()
 4055: 0x6709 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x671D
@@ -6558,7 +6558,7 @@ SUBROUTINE_67A5:
 4080: 0x67AD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 4081: 0x67B6 [0x01] GOTO 0x6939
 4082: 0x67B9 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x6879
-4083: 0x67C1 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4083: 0x67C1 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4084: 0x67C8 [0x25] WAIT_DIALOG_SELECT()
 4085: 0x67C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x67DD
@@ -6591,7 +6591,7 @@ SUBROUTINE_6865:
 4110: 0x686D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 4111: 0x6876 [0x01] GOTO 0x6939
 4112: 0x6879 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x6939
-4113: 0x6881 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4113: 0x6881 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4114: 0x6888 [0x25] WAIT_DIALOG_SELECT()
 4115: 0x6889 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x689D
@@ -6629,11 +6629,11 @@ SUBROUTINE_6939:
 4143: 0x6941 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=21*)
 4144: 0x694A [0x01] GOTO 0x81ED
 4145: 0x694D [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x6F71
-4146: 0x6955 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+4146: 0x6955 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 4147: 0x695C [0x25] WAIT_DIALOG_SELECT()
 4148: 0x695D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6A1D
-4149: 0x6965 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4149: 0x6965 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4150: 0x696C [0x25] WAIT_DIALOG_SELECT()
 4151: 0x696D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6981
@@ -6666,7 +6666,7 @@ SUBROUTINE_6A09:
 4176: 0x6A11 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 4177: 0x6A1A [0x01] GOTO 0x6F5D
 4178: 0x6A1D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x6ADD
-4179: 0x6A25 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4179: 0x6A25 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4180: 0x6A2C [0x25] WAIT_DIALOG_SELECT()
 4181: 0x6A2D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6A41
@@ -6699,7 +6699,7 @@ SUBROUTINE_6AC9:
 4206: 0x6AD1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 4207: 0x6ADA [0x01] GOTO 0x6F5D
 4208: 0x6ADD [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x6B9D
-4209: 0x6AE5 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4209: 0x6AE5 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4210: 0x6AEC [0x25] WAIT_DIALOG_SELECT()
 4211: 0x6AED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6B01
@@ -6732,7 +6732,7 @@ SUBROUTINE_6B89:
 4236: 0x6B91 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 4237: 0x6B9A [0x01] GOTO 0x6F5D
 4238: 0x6B9D [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x6C5D
-4239: 0x6BA5 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4239: 0x6BA5 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4240: 0x6BAC [0x25] WAIT_DIALOG_SELECT()
 4241: 0x6BAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6BC1
@@ -6765,7 +6765,7 @@ SUBROUTINE_6C49:
 4266: 0x6C51 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 4267: 0x6C5A [0x01] GOTO 0x6F5D
 4268: 0x6C5D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x6D1D
-4269: 0x6C65 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4269: 0x6C65 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4270: 0x6C6C [0x25] WAIT_DIALOG_SELECT()
 4271: 0x6C6D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6C81
@@ -6798,7 +6798,7 @@ SUBROUTINE_6D09:
 4296: 0x6D11 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 4297: 0x6D1A [0x01] GOTO 0x6F5D
 4298: 0x6D1D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x6DDD
-4299: 0x6D25 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4299: 0x6D25 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4300: 0x6D2C [0x25] WAIT_DIALOG_SELECT()
 4301: 0x6D2D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6D41
@@ -6831,7 +6831,7 @@ SUBROUTINE_6DC9:
 4326: 0x6DD1 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 4327: 0x6DDA [0x01] GOTO 0x6F5D
 4328: 0x6DDD [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x6E9D
-4329: 0x6DE5 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4329: 0x6DE5 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4330: 0x6DEC [0x25] WAIT_DIALOG_SELECT()
 4331: 0x6DED [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6E01
@@ -6864,7 +6864,7 @@ SUBROUTINE_6E89:
 4356: 0x6E91 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 4357: 0x6E9A [0x01] GOTO 0x6F5D
 4358: 0x6E9D [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x6F5D
-4359: 0x6EA5 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4359: 0x6EA5 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4360: 0x6EAC [0x25] WAIT_DIALOG_SELECT()
 4361: 0x6EAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6EC1
@@ -6902,11 +6902,11 @@ SUBROUTINE_6F5D:
 4389: 0x6F65 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=22*)
 4390: 0x6F6E [0x01] GOTO 0x81ED
 4391: 0x6F71 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x7595
-4392: 0x6F79 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+4392: 0x6F79 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 4393: 0x6F80 [0x25] WAIT_DIALOG_SELECT()
 4394: 0x6F81 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7041
-4395: 0x6F89 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4395: 0x6F89 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4396: 0x6F90 [0x25] WAIT_DIALOG_SELECT()
 4397: 0x6F91 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x6FA5
@@ -6939,7 +6939,7 @@ SUBROUTINE_702D:
 4422: 0x7035 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 4423: 0x703E [0x01] GOTO 0x7581
 4424: 0x7041 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7101
-4425: 0x7049 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4425: 0x7049 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4426: 0x7050 [0x25] WAIT_DIALOG_SELECT()
 4427: 0x7051 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7065
@@ -6972,7 +6972,7 @@ SUBROUTINE_70ED:
 4452: 0x70F5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 4453: 0x70FE [0x01] GOTO 0x7581
 4454: 0x7101 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x71C1
-4455: 0x7109 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4455: 0x7109 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4456: 0x7110 [0x25] WAIT_DIALOG_SELECT()
 4457: 0x7111 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7125
@@ -7005,7 +7005,7 @@ SUBROUTINE_71AD:
 4482: 0x71B5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 4483: 0x71BE [0x01] GOTO 0x7581
 4484: 0x71C1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x7281
-4485: 0x71C9 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4485: 0x71C9 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4486: 0x71D0 [0x25] WAIT_DIALOG_SELECT()
 4487: 0x71D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x71E5
@@ -7038,7 +7038,7 @@ SUBROUTINE_726D:
 4512: 0x7275 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 4513: 0x727E [0x01] GOTO 0x7581
 4514: 0x7281 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x7341
-4515: 0x7289 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4515: 0x7289 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4516: 0x7290 [0x25] WAIT_DIALOG_SELECT()
 4517: 0x7291 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x72A5
@@ -7071,7 +7071,7 @@ SUBROUTINE_732D:
 4542: 0x7335 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 4543: 0x733E [0x01] GOTO 0x7581
 4544: 0x7341 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x7401
-4545: 0x7349 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4545: 0x7349 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4546: 0x7350 [0x25] WAIT_DIALOG_SELECT()
 4547: 0x7351 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7365
@@ -7104,7 +7104,7 @@ SUBROUTINE_73ED:
 4572: 0x73F5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 4573: 0x73FE [0x01] GOTO 0x7581
 4574: 0x7401 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x74C1
-4575: 0x7409 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4575: 0x7409 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4576: 0x7410 [0x25] WAIT_DIALOG_SELECT()
 4577: 0x7411 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7425
@@ -7137,7 +7137,7 @@ SUBROUTINE_74AD:
 4602: 0x74B5 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 4603: 0x74BE [0x01] GOTO 0x7581
 4604: 0x74C1 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x7581
-4605: 0x74C9 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4605: 0x74C9 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4606: 0x74D0 [0x25] WAIT_DIALOG_SELECT()
 4607: 0x74D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x74E5
@@ -7175,11 +7175,11 @@ SUBROUTINE_7581:
 4635: 0x7589 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=23*)
 4636: 0x7592 [0x01] GOTO 0x81ED
 4637: 0x7595 [0x02] IF !(Work_Zone[0] == 23*) GOTO 0x7BB9
-4638: 0x759D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+4638: 0x759D [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 4639: 0x75A4 [0x25] WAIT_DIALOG_SELECT()
 4640: 0x75A5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7665
-4641: 0x75AD [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4641: 0x75AD [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4642: 0x75B4 [0x25] WAIT_DIALOG_SELECT()
 4643: 0x75B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x75C9
@@ -7212,7 +7212,7 @@ SUBROUTINE_7651:
 4668: 0x7659 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 4669: 0x7662 [0x01] GOTO 0x7BA5
 4670: 0x7665 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7725
-4671: 0x766D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4671: 0x766D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4672: 0x7674 [0x25] WAIT_DIALOG_SELECT()
 4673: 0x7675 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7689
@@ -7245,7 +7245,7 @@ SUBROUTINE_7711:
 4698: 0x7719 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 4699: 0x7722 [0x01] GOTO 0x7BA5
 4700: 0x7725 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x77E5
-4701: 0x772D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4701: 0x772D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4702: 0x7734 [0x25] WAIT_DIALOG_SELECT()
 4703: 0x7735 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7749
@@ -7278,7 +7278,7 @@ SUBROUTINE_77D1:
 4728: 0x77D9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 4729: 0x77E2 [0x01] GOTO 0x7BA5
 4730: 0x77E5 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x78A5
-4731: 0x77ED [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4731: 0x77ED [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4732: 0x77F4 [0x25] WAIT_DIALOG_SELECT()
 4733: 0x77F5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7809
@@ -7311,7 +7311,7 @@ SUBROUTINE_7891:
 4758: 0x7899 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 4759: 0x78A2 [0x01] GOTO 0x7BA5
 4760: 0x78A5 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x7965
-4761: 0x78AD [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4761: 0x78AD [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4762: 0x78B4 [0x25] WAIT_DIALOG_SELECT()
 4763: 0x78B5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x78C9
@@ -7344,7 +7344,7 @@ SUBROUTINE_7951:
 4788: 0x7959 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 4789: 0x7962 [0x01] GOTO 0x7BA5
 4790: 0x7965 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x7A25
-4791: 0x796D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4791: 0x796D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4792: 0x7974 [0x25] WAIT_DIALOG_SELECT()
 4793: 0x7975 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7989
@@ -7377,7 +7377,7 @@ SUBROUTINE_7A11:
 4818: 0x7A19 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 4819: 0x7A22 [0x01] GOTO 0x7BA5
 4820: 0x7A25 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x7AE5
-4821: 0x7A2D [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4821: 0x7A2D [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4822: 0x7A34 [0x25] WAIT_DIALOG_SELECT()
 4823: 0x7A35 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7A49
@@ -7410,7 +7410,7 @@ SUBROUTINE_7AD1:
 4848: 0x7AD9 [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 4849: 0x7AE2 [0x01] GOTO 0x7BA5
 4850: 0x7AE5 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x7BA5
-4851: 0x7AED [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4851: 0x7AED [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4852: 0x7AF4 [0x25] WAIT_DIALOG_SELECT()
 4853: 0x7AF5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7B09
@@ -7448,11 +7448,11 @@ SUBROUTINE_7BA5:
 4881: 0x7BAD [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=4*, target=Work_Zone[1], source=24*)
 4882: 0x7BB6 [0x01] GOTO 0x81ED
 4883: 0x7BB9 [0x02] IF !(Work_Zone[0] == 24*) GOTO 0x81DD
-4884: 0x7BC1 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
+4884: 0x7BC1 [0x24] CREATE_DIALOG(message_id=7288*, default_option=0*, option_flags=0*)
     → "DEBUG: Select building plan. [1."."./4./5./6./7./8./Cancel.]"
 4885: 0x7BC8 [0x25] WAIT_DIALOG_SELECT()
 4886: 0x7BC9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7C89
-4887: 0x7BD1 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4887: 0x7BD1 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4888: 0x7BD8 [0x25] WAIT_DIALOG_SELECT()
 4889: 0x7BD9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7BED
@@ -7485,7 +7485,7 @@ SUBROUTINE_7C75:
 4914: 0x7C7D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=1*)
 4915: 0x7C86 [0x01] GOTO 0x81C9
 4916: 0x7C89 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x7D49
-4917: 0x7C91 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4917: 0x7C91 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4918: 0x7C98 [0x25] WAIT_DIALOG_SELECT()
 4919: 0x7C99 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7CAD
@@ -7518,7 +7518,7 @@ SUBROUTINE_7D35:
 4944: 0x7D3D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=2*)
 4945: 0x7D46 [0x01] GOTO 0x81C9
 4946: 0x7D49 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x7E09
-4947: 0x7D51 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4947: 0x7D51 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4948: 0x7D58 [0x25] WAIT_DIALOG_SELECT()
 4949: 0x7D59 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7D6D
@@ -7551,7 +7551,7 @@ SUBROUTINE_7DF5:
 4974: 0x7DFD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=3*)
 4975: 0x7E06 [0x01] GOTO 0x81C9
 4976: 0x7E09 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x7EC9
-4977: 0x7E11 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+4977: 0x7E11 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 4978: 0x7E18 [0x25] WAIT_DIALOG_SELECT()
 4979: 0x7E19 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7E2D
@@ -7584,7 +7584,7 @@ SUBROUTINE_7EB5:
 5004: 0x7EBD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=4*)
 5005: 0x7EC6 [0x01] GOTO 0x81C9
 5006: 0x7EC9 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x7F89
-5007: 0x7ED1 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+5007: 0x7ED1 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 5008: 0x7ED8 [0x25] WAIT_DIALOG_SELECT()
 5009: 0x7ED9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7EED
@@ -7617,7 +7617,7 @@ SUBROUTINE_7F75:
 5034: 0x7F7D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=5*)
 5035: 0x7F86 [0x01] GOTO 0x81C9
 5036: 0x7F89 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x8049
-5037: 0x7F91 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+5037: 0x7F91 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 5038: 0x7F98 [0x25] WAIT_DIALOG_SELECT()
 5039: 0x7F99 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x7FAD
@@ -7650,7 +7650,7 @@ SUBROUTINE_8035:
 5064: 0x803D [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=6*)
 5065: 0x8046 [0x01] GOTO 0x81C9
 5066: 0x8049 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x8109
-5067: 0x8051 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+5067: 0x8051 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 5068: 0x8058 [0x25] WAIT_DIALOG_SELECT()
 5069: 0x8059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x806D
@@ -7683,7 +7683,7 @@ SUBROUTINE_80F5:
 5094: 0x80FD [0x40] SET_BIT_WORK_RANGE(start_bit=5*, end_bit=9*, target=Work_Zone[1], source=7*)
 5095: 0x8106 [0x01] GOTO 0x81C9
 5096: 0x8109 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x81C9
-5097: 0x8111 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
+5097: 0x8111 [0x24] CREATE_DIALOG(message_id=7287*, default_option=0*, option_flags=0*)
     → "DEBUG: Add completion value. [250."00./150./100./50./10./5./Cancel.]"
 5098: 0x8118 [0x25] WAIT_DIALOG_SELECT()
 5099: 0x8119 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x812D

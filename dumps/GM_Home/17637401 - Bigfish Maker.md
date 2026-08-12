@@ -20,12 +20,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D1B      |        7451 |
+|       0 | 0x1D1C      |        7452 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x1D1D      |        7453 |
+|       3 | 0x1D1E      |        7454 |
 |       4 | 0x0137      |         311 |
-|       5 | 0x1D1C      |        7452 |
+|       5 | 0x1D1D      |        7453 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x0002      |           2 |
 |       8 | 0x0138      |         312 |
@@ -33,16 +33,16 @@
 |      10 | 0x0139      |         313 |
 |      11 | 0x0004      |           4 |
 |      12 | 0x013A      |         314 |
-|      13 | 0x1D18      |        7448 |
+|      13 | 0x1D19      |        7449 |
 |      14 | 0x0010      |          16 |
 |      15 | 0x0017      |          23 |
-|      16 | 0x1D19      |        7449 |
+|      16 | 0x1D1A      |        7450 |
 |      17 | 0x0018      |          24 |
 |      18 | 0x001E      |          30 |
 |      19 | 0x0005      |           5 |
-|      20 | 0x1D1A      |        7450 |
+|      20 | 0x1D1B      |        7451 |
 |      21 | 0x001F      |          31 |
-|      22 | 0x1C75      |        7285 |
+|      22 | 0x1C76      |        7286 |
 |      23 | 0x0006      |           6 |
 |      24 | 0x0007      |           7 |
 |      25 | 0x1180      |        4480 |
@@ -102,13 +102,13 @@
 
 ## String References
 
-- **7285**: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
-- **7448**: Size? [Random (default)./Largest./Smallest.]
-- **7449**: Weight? [Adjusted random (default)./Adjusted largest (with respect to size)./Adjusted smallest (with respect to size)./Completely random./Largest (regardless of size)./Smallest (regardless of size).]
-- **7450**: Is it ranking registerable? [Yes (default)./No.]
-- **7451**: What d'ya want? [A big fish!/An effect test!(1)./An effect test!(2)./An effect test!(3)./An effect test!(4)./Nothing!]
-- **7452**: Check it out...
-- **7453**: Server or client? [Server./Client.]
+- **7286**: Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]
+- **7449**: Size? [Random (default)./Largest./Smallest.]
+- **7450**: Weight? [Adjusted random (default)./Adjusted largest (with respect to size)./Adjusted smallest (with respect to size)./Completely random./Largest (regardless of size)./Smallest (regardless of size).]
+- **7451**: Is it ranking registerable? [Yes (default)./No.]
+- **7452**: What d'ya want? [A big fish!/An effect test!(1)./An effect test!(2)./An effect test!(3)./An effect test!(4)./Nothing!]
+- **7453**: Check it out...
+- **7454**: Server or client? [Server./Client.]
 
 ## Events
 
@@ -219,13 +219,13 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7451*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7452*, default_option=0*, option_flags=0*)
     → "What d'ya want? [A big fish!/An effect test!(1)./An effect test!(2)./An effect test!(3)./An effect test!(4)./Nothing!]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0014
   3: 0x0011 [0x01] GOTO 0x010F
   4: 0x0014 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0051
-  5: 0x001C [0x24] CREATE_DIALOG(message_id=7453*, default_option=0*, option_flags=0*)
+  5: 0x001C [0x24] CREATE_DIALOG(message_id=7454*, default_option=0*, option_flags=0*)
     → "Server or client? [Server./Client.]"
   6: 0x0023 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0024 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038
@@ -236,7 +236,7 @@
  12: 0x0038 [0x73] LocalPlayer casts magic 311* on LocalPlayer
 
 SUBROUTINE_0043:
- 13: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+ 13: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Check it out..."
  14: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0047 [0x03] Work_Zone[1] = 1073741824*
@@ -244,7 +244,7 @@ SUBROUTINE_0043:
  17: 0x004D [0x00] END_REQSTACK()
 
 SUBROUTINE_0080:
- 18: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+ 18: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Check it out..."
  19: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0084 [0x03] Work_Zone[1] = 1073741824*
@@ -252,7 +252,7 @@ SUBROUTINE_0080:
  22: 0x008A [0x00] END_REQSTACK()
 
 SUBROUTINE_00BD:
- 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+ 23: 0x00BD [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Check it out..."
  24: 0x00C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00C1 [0x03] Work_Zone[1] = 1073741824*
@@ -260,7 +260,7 @@ SUBROUTINE_00BD:
  27: 0x00C7 [0x00] END_REQSTACK()
 
 SUBROUTINE_00FA:
- 28: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+ 28: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "Check it out..."
  29: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00FE [0x03] Work_Zone[1] = 1073741824*
@@ -270,7 +270,7 @@ SUBROUTINE_00FA:
 SUBROUTINE_010F:
  33: 0x010F [0x1A] CALL_SUBROUTINE(address=0x0216)
  34: 0x0112 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[1]
- 35: 0x0117 [0x24] CREATE_DIALOG(message_id=7448*, default_option=0*, option_flags=0*)
+ 35: 0x0117 [0x24] CREATE_DIALOG(message_id=7449*, default_option=0*, option_flags=0*)
     → "Size? [Random (default)./Largest./Smallest.]"
  36: 0x011E [0x25] WAIT_DIALOG_SELECT()
  37: 0x011F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0133
@@ -285,7 +285,7 @@ SUBROUTINE_010F:
  46: 0x015B [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=23*, target=Work_Zone[1], source=0*)
 
 SUBROUTINE_0164:
- 47: 0x0164 [0x24] CREATE_DIALOG(message_id=7449*, default_option=0*, option_flags=0*)
+ 47: 0x0164 [0x24] CREATE_DIALOG(message_id=7450*, default_option=0*, option_flags=0*)
     → "Weight? [Adjusted random (default)./Adjusted largest (with respect to size)./Adjusted smallest (with respect to size)./Completely random./Largest (regardless of size)./Smallest (regardless of size).]"
  48: 0x016B [0x25] WAIT_DIALOG_SELECT()
  49: 0x016C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0180
@@ -308,7 +308,7 @@ SUBROUTINE_0164:
  66: 0x01E1 [0x01] GOTO 0x01E4
 
 SUBROUTINE_01E4:
- 67: 0x01E4 [0x24] CREATE_DIALOG(message_id=7450*, default_option=0*, option_flags=0*)
+ 67: 0x01E4 [0x24] CREATE_DIALOG(message_id=7451*, default_option=0*, option_flags=0*)
     → "Is it ranking registerable? [Yes (default)./No.]"
  68: 0x01EB [0x25] WAIT_DIALOG_SELECT()
  69: 0x01EC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0200
@@ -355,7 +355,7 @@ SUBROUTINE_0216:
 
 SUBROUTINE_0282:
 106: 0x0282 [0x06] Work_Zone[1] = 0
-107: 0x0285 [0x24] CREATE_DIALOG(message_id=7285*, default_option=0*, option_flags=0*)
+107: 0x0285 [0x24] CREATE_DIALOG(message_id=7286*, default_option=0*, option_flags=0*)
     → "Select one [$0i$0j./$1i$1j./$2$3041793/$3i$3j./$4i$4j./$5i$5j./$6i$6j./$7i$7j./Next.]"
 108: 0x028C [0x25] WAIT_DIALOG_SELECT()
 109: 0x028D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x029D

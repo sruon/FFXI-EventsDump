@@ -27,21 +27,21 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2156      |        8534 |
-|       3 | 0x2157      |        8535 |
-|       4 | 0x1DB3      |        7603 |
-|       5 | 0x1DB4      |        7604 |
-|       6 | 0x1DBA      |        7610 |
-|       7 | 0x1DBB      |        7611 |
+|       2 | 0x2157      |        8535 |
+|       3 | 0x2158      |        8536 |
+|       4 | 0x1DB4      |        7604 |
+|       5 | 0x1DB5      |        7605 |
+|       6 | 0x1DBB      |        7611 |
+|       7 | 0x1DBC      |        7612 |
 
 ## String References
 
-- **7603**: Humph... Looks like that Nanaa Mihgo, better known as the Cat Burglar, is at her home forrr once.
-- **7604**: An adventurer such as yourself ought to be careful, lest you get burrrned.
-- **7610**: What's that? You're contemplating taking something to Nanaa Mihgo?
-- **7611**: I recommend you forrrget that! She'll take you in, all right, but not the way you expect! Haven't you heard that she's involved with some nasty foreign mob? Be carrreful!
-- **8534**: I don't think we've achieved any rrreal peace by making a pact with those Yagudo beastmen!
-- **8535**: But try explaining that to the Tarutaru, and they'll just be all stubborrrn and insist that it's the Star Sibyl's will!
+- **7604**: Humph... Looks like that Nanaa Mihgo, better known as the Cat Burglar, is at her home forrr once.
+- **7605**: An adventurer such as yourself ought to be careful, lest you get burrrned.
+- **7611**: What's that? You're contemplating taking something to Nanaa Mihgo?
+- **7612**: I recommend you forrrget that! She'll take you in, all right, but not the way you expect! Haven't you heard that she's involved with some nasty foreign mob? Be carrreful!
+- **8535**: I don't think we've achieved any rrreal peace by making a pact with those Yagudo beastmen!
+- **8536**: But try explaining that to the Tarutaru, and they'll just be all stubborrrn and insist that it's the Star Sibyl's will!
 
 ## Events
 
@@ -165,10 +165,10 @@
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x002A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x01)
-  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8534*)
+  4: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
     → "I don't think we've achieved any rrreal peace by making a pact with those Yagudo beastmen!"
   5: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8535*)
+  6: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=8536*)
     → "But try explaining that to the Tarutaru, and they'll just be all stubborrrn and insist that it's the Star Sibyl's will!"
   7: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0039 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x02)
@@ -202,10 +202,10 @@
   1: 0x0049 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x004A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x004B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x01)
-  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7603*)
+  4: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
     → "Humph... Looks like that Nanaa Mihgo, better known as the Cat Burglar, is at her home forrr once."
   5: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7604*)
+  6: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7605*)
     → "An adventurer such as yourself ought to be careful, lest you get burrrned."
   7: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x005A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x02)
@@ -239,10 +239,10 @@
   1: 0x006A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x006B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x006C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x01)
-  4: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
+  4: 0x0073 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
     → "What's that? You're contemplating taking something to Nanaa Mihgo?"
   5: 0x0076 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7611*)
+  6: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=7612*)
     → "I recommend you forrrget that! She'll take you in, all right, but not the way you expect! Haven't you heard that she's involved with some nasty foreign mob? Be carrreful!"
   7: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x007B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mheca Khetashipah (ID: 17764495/0x010F108F), tag_num=0x02)

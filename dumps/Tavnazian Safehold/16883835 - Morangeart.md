@@ -23,29 +23,29 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2CFC      |       11516 |
-|       1 | 0x2CF7      |       11511 |
-|       2 | 0x2CF8      |       11512 |
-|       3 | 0x2CF9      |       11513 |
-|       4 | 0x2CFA      |       11514 |
-|       5 | 0x2CFB      |       11515 |
-|       6 | 0x2CF5      |       11509 |
-|       7 | 0x2CF6      |       11510 |
-|       8 | 0x2CF3      |       11507 |
-|       9 | 0x2CF4      |       11508 |
+|       0 | 0x2CFD      |       11517 |
+|       1 | 0x2CF8      |       11512 |
+|       2 | 0x2CF9      |       11513 |
+|       3 | 0x2CFA      |       11514 |
+|       4 | 0x2CFB      |       11515 |
+|       5 | 0x2CFC      |       11516 |
+|       6 | 0x2CF6      |       11510 |
+|       7 | 0x2CF7      |       11511 |
+|       8 | 0x2CF4      |       11508 |
+|       9 | 0x2CF5      |       11509 |
 
 ## String References
 
-- **11507**: I can feel them... Can't you feel them? They're all around us. Breathing down our necks. Scratching at our doors. It's only a matter of time before they...
-- **11508**: You had better get ready, for if you don't, you could be their next...victim!
-- **11509**: I can't feel them... I can't feel their presence anymore! You must have succeeded in sending one back into the hell from which it spawned forth.
-- **11510**: But I sense that it won't be long before the beast rears its head once more. It might be as soon as ( Earth time)!
-- **11511**: I can feel them... They're close, and getting closer! You're an adventurer, right? You know what I'm talking about--those "things" up on Cape Riverne.
-- **11512**: If we don't do something now, there's no telling what terrible fate awaits us. I'd go myself, but I have a bad case of bunions on my left foot.
-- **11513**: Oh, if I could only use this artifact to call forth the terrible beasts from their grottoes. Then I could vanquish them and free Tavnazia--no, Vana'diel--from the doom that lurks in the darkness!
-- **11514**: Where did I obtain this rare item, you ask? It was not but a few days ago that a strange merchant from the Far East visited the safehold. When he said he was selling magical items that could be used in defeating wretched wyrms and deadly dragons, I sold most of my belongings and purchased all he had.
-- **11515**: Here, why don't you take one? No, I don't need any reimbursement. Just knowing that a brave, strong adventurer such as yourself now has the ability to become the savior of mankind gives me peace of mind.
-- **11516**: But be forewarned. The wrath of the monsters that dwell on the cape will not easily be quelled. Take care in your journey, and if you ever need another one of these artifacts, do not hesitate to ask!
+- **11508**: I can feel them... Can't you feel them? They're all around us. Breathing down our necks. Scratching at our doors. It's only a matter of time before they...
+- **11509**: You had better get ready, for if you don't, you could be their next...victim!
+- **11510**: I can't feel them... I can't feel their presence anymore! You must have succeeded in sending one back into the hell from which it spawned forth.
+- **11511**: But I sense that it won't be long before the beast rears its head once more. It might be as soon as ( Earth time)!
+- **11512**: I can feel them... They're close, and getting closer! You're an adventurer, right? You know what I'm talking about--those "things" up on Cape Riverne.
+- **11513**: If we don't do something now, there's no telling what terrible fate awaits us. I'd go myself, but I have a bad case of bunions on my left foot.
+- **11514**: Oh, if I could only use this artifact to call forth the terrible beasts from their grottoes. Then I could vanquish them and free Tavnazia--no, Vana'diel--from the doom that lurks in the darkness!
+- **11515**: Where did I obtain this rare item, you ask? It was not but a few days ago that a strange merchant from the Far East visited the safehold. When he said he was selling magical items that could be used in defeating wretched wyrms and deadly dragons, I sold most of my belongings and purchased all he had.
+- **11516**: Here, why don't you take one? No, I don't need any reimbursement. Just knowing that a brave, strong adventurer such as yourself now has the ability to become the savior of mankind gives me peace of mind.
+- **11517**: But be forewarned. The wrath of the monsters that dwell on the cape will not easily be quelled. Take care in your journey, and if you ever need another one of these artifacts, do not hesitate to ask!
 
 ## Events
 
@@ -91,7 +91,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
     → "But be forewarned. The wrath of the monsters that dwell on the cape will not easily be quelled. Take care in your journey, and if you ever need another one of these artifacts, do not hesitate to ask!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -121,19 +121,19 @@
 ```
   0: 0x000C [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x000D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
+  2: 0x0012 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
     → "I can feel them... They're close, and getting closer! You're an adventurer, right? You know what I'm talking about--those "things" up on Cape Riverne."
   3: 0x0015 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
+  4: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
     → "If we don't do something now, there's no telling what terrible fate awaits us. I'd go myself, but I have a bad case of bunions on my left foot."
   5: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
+  6: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
     → "Oh, if I could only use this artifact to call forth the terrible beasts from their grottoes. Then I could vanquish them and free Tavnazia--no, Vana'diel--from the doom that lurks in the darkness!"
   7: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
+  8: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
     → "Where did I obtain this rare item, you ask? It was not but a few days ago that a strange merchant from the Far East visited the safehold. When he said he was selling magical items that could be used in defeating wretched wyrms and deadly dragons, I sold most of my belongings and purchased all he had."
   9: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+ 10: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "Here, why don't you take one? No, I don't need any reimbursement. Just knowing that a brave, strong adventurer such as yourself now has the ability to become the savior of mankind gives me peace of mind."
  11: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0026 [0x21] END_EVENT
@@ -161,10 +161,10 @@
 
 ```
   0: 0x0028 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
+  1: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
     → "I can't feel them... I can't feel their presence anymore! You must have succeeded in sending one back into the hell from which it spawned forth."
   2: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
+  3: 0x0031 [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
     → "But I sense that it won't be long before the beast rears its head once more. It might be as soon as ( Earth time)!"
   4: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0035 [0x21] END_EVENT
@@ -192,10 +192,10 @@
 
 ```
   0: 0x0037 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
+  1: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
     → "I can feel them... Can't you feel them? They're all around us. Breathing down our necks. Scratching at our doors. It's only a matter of time before they..."
   2: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
+  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
     → "You had better get ready, for if you don't, you could be their next...victim!"
   4: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0044 [0x21] END_EVENT

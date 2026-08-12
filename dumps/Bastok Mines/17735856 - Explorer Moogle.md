@@ -22,24 +22,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x012C      |         300 |
-|       1 | 0x1C81      |        7297 |
+|       1 | 0x1C82      |        7298 |
 |       2 | 0x0078      |         120 |
-|       3 | 0x1C86      |        7302 |
+|       3 | 0x1C87      |        7303 |
 |       4 | 0x001E      |          30 |
-|       5 | 0x1C82      |        7298 |
+|       5 | 0x1C83      |        7299 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0001      |           1 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0003      |           3 |
 |      10 | 0x0004      |           4 |
 |      11 | 0x0005      |           5 |
-|      12 | 0x1C83      |        7299 |
-|      13 | 0x1C84      |        7300 |
+|      12 | 0x1C84      |        7300 |
+|      13 | 0x1C85      |        7301 |
 |      14 | 0x007A      |         122 |
 |      15 | 0x0104      |         260 |
 |      16 | 0x00C8      |         200 |
 |      17 | 0x003C      |          60 |
-|      18 | 0x1C85      |        7301 |
+|      18 | 0x1C86      |        7302 |
 |      19 | 0x00E7      |         231 |
 |      20 | 0x00EA      |         234 |
 |      21 | 0x00F0      |         240 |
@@ -51,12 +51,12 @@
 
 ## String References
 
-- **7297**: Greetings adventurer! I'm so glad you've come, kupo! To celebrate the safe recovery of all eleven of King Kupofried's mog tablets, we're offering a limited-time teleportation service for the low, low price of $0 gil! What do you say?
-- **7298**: Teleport to where? (Cost: $0 gil.) [Nowhere./San d'Oria./Bastok./Windurst./Selbina./Mhaura.]
-- **7299**: Your wish is my command, kupo! For a small fee of $0 gil, that is...
-- **7300**: Safe travels, kupo!
-- **7301**: Looks like you're light on funds, kupo... Sorry!
-- **7302**: What's this? You're still new to this land? I'm afraid you're not yet strong enough to handle our potent moogle magic! Just forget I said anything, kupo!
+- **7298**: Greetings adventurer! I'm so glad you've come, kupo! To celebrate the safe recovery of all eleven of King Kupofried's mog tablets, we're offering a limited-time teleportation service for the low, low price of $0 gil! What do you say?
+- **7299**: Teleport to where? (Cost: $0 gil.) [Nowhere./San d'Oria./Bastok./Windurst./Selbina./Mhaura.]
+- **7300**: Your wish is my command, kupo! For a small fee of $0 gil, that is...
+- **7301**: Safe travels, kupo!
+- **7302**: Looks like you're light on funds, kupo... Sorry!
+- **7303**: What's this? You're still new to this land? I'm afraid you're not yet strong enough to handle our potent moogle magic! Just forget I said anything, kupo!
 
 ## Events
 
@@ -112,13 +112,13 @@
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
   5: 0x0016 [0x03] Work_Zone[2] = 300*
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "Greetings adventurer! I'm so glad you've come, kupo! To celebrate the safe recovery of all eleven of King Kupofried's mog tablets, we're offering a limited-time teleportation service for the low, low price of $0 gil! What do you say?"
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "gak0" with entities [EventEntity, EventEntity]
   9: 0x002C [0x03] Work_Zone[2] = 120*
  10: 0x0031 [0x27] REQ_SET(priority=0x10, entity_id=mgtest (ID: 17735857/0x010EA0B1), tag_num=0x03)
- 11: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
+ 11: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
     → "What's this? You're still new to this land? I'm afraid you're not yet strong enough to handle our potent moogle magic! Just forget I said anything, kupo!"
  12: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x003C [0x2A] GET_REQ_LEVEL(level=16, entity_id=mgtest (ID: 17735857/0x010EA0B1))
@@ -185,11 +185,11 @@
   6: 0x0066 [0x1A] CALL_SUBROUTINE(address=0x01DF)
   7: 0x0069 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
   8: 0x0076 [0x03] Work_Zone[2] = 300*
-  9: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+  9: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "Greetings adventurer! I'm so glad you've come, kupo! To celebrate the safe recovery of all eleven of King Kupofried's mog tablets, we're offering a limited-time teleportation service for the low, low price of $0 gil! What do you say?"
  10: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x007F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
- 12: 0x008C [0x24] CREATE_DIALOG(message_id=7298*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 12: 0x008C [0x24] CREATE_DIALOG(message_id=7299*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Teleport to where? (Cost: $0 gil.) [Nowhere./San d'Oria./Bastok./Windurst./Selbina./Mhaura.]"
  13: 0x0093 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0094 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00A1
@@ -199,13 +199,13 @@
 SUBROUTINE_0146:
  17: 0x0146 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
  18: 0x0153 [0x03] Work_Zone[2] = 300*
- 19: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+ 19: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → "Your wish is my command, kupo! For a small fee of $0 gil, that is..."
  20: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x015C [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
  22: 0x0169 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "hap1" with entities [EventEntity, EventEntity]
  23: 0x0176 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "job0" with entities [EventEntity, EventEntity]
- 24: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+ 24: 0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
     → "Safe travels, kupo!"
  25: 0x0186 [0x73] mgtest (ID: 17735857/0x010EA0B1) casts magic 122* on LocalPlayer
  26: 0x0191 [0x1C] WAIT(260* ticks)
@@ -218,7 +218,7 @@ SUBROUTINE_01AA:
  31: 0x01AA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "gak0" with entities [EventEntity, EventEntity]
  32: 0x01B7 [0x03] Work_Zone[2] = 120*
  33: 0x01BC [0x27] REQ_SET(priority=0x10, entity_id=mgtest (ID: 17735857/0x010EA0B1), tag_num=0x03)
- 34: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
+ 34: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → "Looks like you're light on funds, kupo... Sorry!"
  35: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x01C7 [0x2A] GET_REQ_LEVEL(level=16, entity_id=mgtest (ID: 17735857/0x010EA0B1))

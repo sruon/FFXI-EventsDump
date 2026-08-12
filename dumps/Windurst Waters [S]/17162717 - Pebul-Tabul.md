@@ -22,9 +22,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0028      |          40 |
-|       2 | 0x2AA8      |       10920 |
-|       3 | 0x2AA9      |       10921 |
-|       4 | 0x2AAA      |       10922 |
+|       2 | 0x2AA9      |       10921 |
+|       3 | 0x2AAA      |       10922 |
+|       4 | 0x2AAB      |       10923 |
 
 ## Events
 
@@ -76,13 +76,13 @@
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr0" with entities [EventEntity, EventEntity], work=40*
-  3: 0x001C [0x2B] EventEntity [10920*]:
+  3: 0x001C [0x2B] EventEntity [10921*]:
     → "The Timbre Timbers Tavern and the Rarab Tail Hostelry have been closed since the outbreak of hostilities with the Yagudo began."
   4: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0024 [0x2B] EventEntity [10921*]:
+  5: 0x0024 [0x2B] EventEntity [10922*]:
     → "Not being able to eat at Windurst's two finest dining restaurantarus..."
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x002C [0x2B] EventEntity [10922*]:
+  7: 0x002C [0x2B] EventEntity [10923*]:
     → "That's almost as bad as the Yagudo siege!"
   8: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "gkr1" with entities [EventEntity, EventEntity], work=40*

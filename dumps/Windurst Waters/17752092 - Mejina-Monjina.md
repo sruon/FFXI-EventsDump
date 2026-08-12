@@ -29,27 +29,27 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F22      |        7970 |
-|       3 | 0x1F2B      |        7979 |
-|       4 | 0x1F2C      |        7980 |
-|       5 | 0x1F38      |        7992 |
-|       6 | 0x1F39      |        7993 |
-|       7 | 0x1F41      |        8001 |
-|       8 | 0x1F42      |        8002 |
-|       9 | 0x1F4A      |        8010 |
-|      10 | 0x1F4B      |        8011 |
+|       2 | 0x1F23      |        7971 |
+|       3 | 0x1F2C      |        7980 |
+|       4 | 0x1F2D      |        7981 |
+|       5 | 0x1F39      |        7993 |
+|       6 | 0x1F3A      |        7994 |
+|       7 | 0x1F42      |        8002 |
+|       8 | 0x1F43      |        8003 |
+|       9 | 0x1F4B      |        8011 |
+|      10 | 0x1F4C      |        8012 |
 
 ## String References
 
-- **7970**: Every star has its own name, just like we do! Doesn't that just make you have a closer affinity with them?
-- **7979**: The three telescopes found here are hundreds of years old and have become rather antiquated.
-- **7980**: Many a time there's been talk of rebuilding them, but we've not been able to do it yet.
-- **7992**: In olden days, pirates used the ancient Tarutaru money, which had the constellations drawn on them, to help them navigate by the stars...or so the folktales go.
-- **7993**: But now that most of the open seas have been charted into set shipping routes, they don't need $2 anymore.
-- **8001**: How did you manage to get your hands on $2? I never thought we'd see one of those again!
-- **8002**: Oh, I see... Wa-ha-ha! Those old buccaneers had some hidden away, eh? Even pirates come in useful at times too, huh?
-- **8010**: The real classical Tarutaru money has Odin drawn to the north, of course.
-- **8011**: You can'taru go having Odin on the east or west now, can you?
+- **7971**: Every star has its own name, just like we do! Doesn't that just make you have a closer affinity with them?
+- **7980**: The three telescopes found here are hundreds of years old and have become rather antiquated.
+- **7981**: Many a time there's been talk of rebuilding them, but we've not been able to do it yet.
+- **7993**: In olden days, pirates used the ancient Tarutaru money, which had the constellations drawn on them, to help them navigate by the stars...or so the folktales go.
+- **7994**: But now that most of the open seas have been charted into set shipping routes, they don't need $2 anymore.
+- **8002**: How did you manage to get your hands on $2? I never thought we'd see one of those again!
+- **8003**: Oh, I see... Wa-ha-ha! Those old buccaneers had some hidden away, eh? Even pirates come in useful at times too, huh?
+- **8011**: The real classical Tarutaru money has Odin drawn to the north, of course.
+- **8012**: You can'taru go having Odin on the east or west now, can you?
 
 ## Events
 
@@ -173,7 +173,7 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7970*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7971*)
     → "Every star has its own name, just like we do! Doesn't that just make you have a closer affinity with them?"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x02)
@@ -207,10 +207,10 @@
   1: 0x0052 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0053 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0054 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x01)
-  4: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7979*)
+  4: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
     → "The three telescopes found here are hundreds of years old and have become rather antiquated."
   5: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7980*)
+  6: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7981*)
     → "Many a time there's been talk of rebuilding them, but we've not been able to do it yet."
   7: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0063 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x02)
@@ -244,10 +244,10 @@
   1: 0x0073 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0074 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0075 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x01)
-  4: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7992*)
+  4: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
     → "In olden days, pirates used the ancient Tarutaru money, which had the constellations drawn on them, to help them navigate by the stars...or so the folktales go."
   5: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7993*)
+  6: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=7994*)
     → "But now that most of the open seas have been charted into set shipping routes, they don't need $2 anymore."
   7: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0084 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x02)
@@ -281,10 +281,10 @@
   1: 0x0094 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0095 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0096 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x01)
-  4: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8001*)
+  4: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
     → "How did you manage to get your hands on $2? I never thought we'd see one of those again!"
   5: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8002*)
+  6: 0x00A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8003*)
     → "Oh, I see... Wa-ha-ha! Those old buccaneers had some hidden away, eh? Even pirates come in useful at times too, huh?"
   7: 0x00A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00A5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x02)
@@ -318,10 +318,10 @@
   1: 0x00B5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x01)
-  4: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8010*)
+  4: 0x00BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
     → "The real classical Tarutaru money has Odin drawn to the north, of course."
   5: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8011*)
+  6: 0x00C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8012*)
     → "You can'taru go having Odin on the east or west now, can you?"
   7: 0x00C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mejina-Monjina (ID: 17752092/0x010EE01C), tag_num=0x02)

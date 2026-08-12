@@ -20,66 +20,66 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x384D      |       14413 |
+|       0 | 0x384E      |       14414 |
 |       1 | 0x0047      |          71 |
 |       2 | 0x04E5      |        1253 |
 |       3 | 0x03E8      |        1000 |
-|       4 | 0x384E      |       14414 |
-|       5 | 0x384F      |       14415 |
+|       4 | 0x384F      |       14415 |
+|       5 | 0x3850      |       14416 |
 |       6 | 0x0000      |           0 |
 |       7 | 0x0003      |           3 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x3850      |       14416 |
-|      10 | 0x3851      |       14417 |
-|      11 | 0x3852      |       14418 |
-|      12 | 0x3853      |       14419 |
-|      13 | 0x3854      |       14420 |
-|      14 | 0x3855      |       14421 |
-|      15 | 0x3856      |       14422 |
-|      16 | 0x3857      |       14423 |
-|      17 | 0x3858      |       14424 |
-|      18 | 0x3859      |       14425 |
-|      19 | 0x385A      |       14426 |
-|      20 | 0x385B      |       14427 |
-|      21 | 0x385C      |       14428 |
-|      22 | 0x385D      |       14429 |
-|      23 | 0x385E      |       14430 |
-|      24 | 0x385F      |       14431 |
-|      25 | 0x3860      |       14432 |
-|      26 | 0x3861      |       14433 |
-|      27 | 0x3862      |       14434 |
-|      28 | 0x3863      |       14435 |
-|      29 | 0x3864      |       14436 |
-|      30 | 0x3865      |       14437 |
-|      31 | 0x3866      |       14438 |
-|      32 | 0x386C      |       14444 |
+|       9 | 0x3851      |       14417 |
+|      10 | 0x3852      |       14418 |
+|      11 | 0x3853      |       14419 |
+|      12 | 0x3854      |       14420 |
+|      13 | 0x3855      |       14421 |
+|      14 | 0x3856      |       14422 |
+|      15 | 0x3857      |       14423 |
+|      16 | 0x3858      |       14424 |
+|      17 | 0x3859      |       14425 |
+|      18 | 0x385A      |       14426 |
+|      19 | 0x385B      |       14427 |
+|      20 | 0x385C      |       14428 |
+|      21 | 0x385D      |       14429 |
+|      22 | 0x385E      |       14430 |
+|      23 | 0x385F      |       14431 |
+|      24 | 0x3860      |       14432 |
+|      25 | 0x3861      |       14433 |
+|      26 | 0x3862      |       14434 |
+|      27 | 0x3863      |       14435 |
+|      28 | 0x3864      |       14436 |
+|      29 | 0x3865      |       14437 |
+|      30 | 0x3866      |       14438 |
+|      31 | 0x3867      |       14439 |
+|      32 | 0x386D      |       14445 |
 |      33 | 0x0004      |           4 |
 |      34 | 0x0007      |           7 |
-|      35 | 0x3868      |       14440 |
-|      36 | 0x3869      |       14441 |
-|      37 | 0x386A      |       14442 |
-|      38 | 0x386B      |       14443 |
-|      39 | 0x3867      |       14439 |
+|      35 | 0x3869      |       14441 |
+|      36 | 0x386A      |       14442 |
+|      37 | 0x386B      |       14443 |
+|      38 | 0x386C      |       14444 |
+|      39 | 0x3868      |       14440 |
 |      40 | 0x0002      |           2 |
-|      41 | 0x386D      |       14445 |
-|      42 | 0x386E      |       14446 |
-|      43 | 0x386F      |       14447 |
-|      44 | 0x3870      |       14448 |
-|      45 | 0x3871      |       14449 |
-|      46 | 0x3872      |       14450 |
-|      47 | 0x3873      |       14451 |
-|      48 | 0x3874      |       14452 |
-|      49 | 0x3875      |       14453 |
-|      50 | 0x3876      |       14454 |
-|      51 | 0x3877      |       14455 |
-|      52 | 0x3878      |       14456 |
-|      53 | 0x3879      |       14457 |
-|      54 | 0x387A      |       14458 |
-|      55 | 0x387B      |       14459 |
-|      56 | 0x387C      |       14460 |
-|      57 | 0x387D      |       14461 |
-|      58 | 0x387E      |       14462 |
-|      59 | 0x387F      |       14463 |
+|      41 | 0x386E      |       14446 |
+|      42 | 0x386F      |       14447 |
+|      43 | 0x3870      |       14448 |
+|      44 | 0x3871      |       14449 |
+|      45 | 0x3872      |       14450 |
+|      46 | 0x3873      |       14451 |
+|      47 | 0x3874      |       14452 |
+|      48 | 0x3875      |       14453 |
+|      49 | 0x3876      |       14454 |
+|      50 | 0x3877      |       14455 |
+|      51 | 0x3878      |       14456 |
+|      52 | 0x3879      |       14457 |
+|      53 | 0x387A      |       14458 |
+|      54 | 0x387B      |       14459 |
+|      55 | 0x387C      |       14460 |
+|      56 | 0x387D      |       14461 |
+|      57 | 0x387E      |       14462 |
+|      58 | 0x387F      |       14463 |
+|      59 | 0x3880      |       14464 |
 |      60 | 0x0005      |           5 |
 |      61 | 0x0006      |           6 |
 |      62 | 0x0008      |           8 |
@@ -92,69 +92,69 @@
 |      69 | 0x04EB      |        1259 |
 |      70 | 0x0636      |        1590 |
 |      71 | 0x04EC      |        1260 |
-|      72 | 0x3880      |       14464 |
+|      72 | 0x3881      |       14465 |
 |      73 | 0x000A      |          10 |
-|      74 | 0x3881      |       14465 |
-|      75 | 0x3882      |       14466 |
-|      76 | 0x3883      |       14467 |
+|      74 | 0x3882      |       14466 |
+|      75 | 0x3883      |       14467 |
+|      76 | 0x3884      |       14468 |
 
 ## String References
 
-- **14413**: You there. Yes, you, adventurer! Your downcast countenance tells me your life wants for exhilaration.
-- **14414**: Who am I, you ask? Let's just say I'm he who is about to banish all trace of tedium from your life with an irresistible offer--one of otherworldly proportions, to be sure. For a mere $1 gil, this $3 I hold is yours.
-- **14415**: "But what in Slumbering Samwell's shank does it do," you ask? Consider yourself fortunate, for it's my policy to demystify before the customer buys.
-- **14416**: What will you do? [Let him ramble./Purchase $6./Learn how to use it./Discard abyssite./Leave.]
-- **14417**: Ahem! Allow me to present you with a supposition.
-- **14418**: Lying in parallel to the world upon which we stand exists another dimension.
-- **14419**: "Abyssea" is its name--or at least, the name I've bestowed upon it. It is a world of boundless beauty, mystique, and riches unclaimed.
-- **14420**: Now, suppose this $3 I hold is a key to accessing Abyssea. Were you in possession of one, your curiosity would get the better of you, yes?
-- **14421**: Strictly speaking, this object does not grant entry into Abyssea itself.
-- **14422**: It does, however, make it possible to interact with beings from that plane of existence--"Abysseans," I call them.
-- **14423**: The $3 serves to detect Abysseans that wander the gulf between worlds. How those hapless creatures--I refer to them as "Voidwalkers"--found their way there, mind you, is another subject entirely.
-- **14424**: Having drifted to this realm from the world yonder, much like the Voidwalkers themselves, $5 are attuned to the presence of these creatures and will react--vibrate and emit light--when they draw near.
-- **14425**: The closer your distance to a Voidwalker, the stronger the reaction becomes, until the creature is forcibly wrested into this dimension.
-- **14426**: Repeated contact with Abysseans will cause the $3 to take on different hues, allowing it to respond to creatures belonging to the higher echelons of Voidwalkers.
-- **14427**: Be forewarned! Abysseans are among the most foul-tempered, unpredictable creatures. You would do well to steel yourself for a trying encounter prior to making contact.
-- **14428**: I trust your many adventures have made you familiar with those ghastly statues scattered across the land called cavernous maws.
-- **14429**: My observations have revealed that the concentration of Voidwalkers is greatest in locations where these statues are found.
-- **14430**: As yet, I have no plausible explanations for this phenomenon, but you needn't concern yourself with such details.
-- **14431**: Yours, my friend, is a dilemma infinitely simpler in nature.
-- **14432**: All this far-fetched talk of Abyssea, Abysseans, and Voidwalkers...
-- **14433**: I'm fully aware of the fantastical nature of my tale, and do not think poorly of those inclined to skepticism.
-- **14434**: Yet I feel no need to vouch further for the authenticity of my claims. Such is my confidence that the truth speaks for itself.
-- **14435**: Now then. A great new world has presented itself before you. The question is, will you embrace this opportunity, or let it pass you by?
-- **14436**: As Abysseans cross from one realm to another, so too does gil pass from one individual to the next. In my mind, it is only fitting that gil is that which grants you the key to Abyssea.
-- **14437**: My tales have piqued your interest, have they? As I have mentioned prior, the price is $0 gil.
-- **14438**: Hand over $0 gil? [Aye./Nay.]
-- **14439**: No? The sum I ask is by no means prohibitive. I'll be waiting here, should you ever change your mind.
-- **14440**: I thank you for your custom. Here is your very own $3!
-- **14441**: As a service for all customers, upon request I will take your $3 off your hands and dispose of it in your stead.
-- **14442**: The ability to meddle with inter-dimensional matter can be considered a great power, with which comes great responsibility. Indeed there have been those who found the burden beyond their capacity to cope.
-- **14443**: It seems you are short on gil. Yet I cannot grant concessions, lest access to otherworldly realms lose its true value.
-- **14444**: I see you've developed a taste for $5. Yet I fear I cannot furnish you further, for one alone is sufficient to invite misfortune upon the heedless.
-- **14445**: You wish to know how to use the $3? There is no trick to it. Allow me to demonstrate.
-- **14446**: While in possession of $6, simply assume a resting pose. I'm given to understand it is second nature to all adventurers.
-- **14447**: Doing so will cause your $3 to react. Pertinent information can be gleaned by observing the magnitude of its vibration and the manner of light emitted.
-- **14448**: Should neither reaction occur, take it to mean that no Voidwalkers roam the area.
-- **14449**: Should it vibrate softly but emit no light, take it to mean that Voidwalkers have recently passed through and may soon return.
-- **14450**: Should it vibrate softly and emit a gentle light, take it to mean that Voidwalkers presently roam the area.
-- **14451**: Now, pay particular attention to what I'm about to explain. The reaction of the $3 will change once a predetermined distance from a Voidwalker has been closed.
-- **14452**: From that point onwards, the magnitude of the vibration corresponds directly to the creature's strength. Based on this knowledge, it is your decision whether to pursue it further.
-- **14453**: The gentle glow of light, on the other hand, will intensify to become a radiant beam pointing in the direction of the creature.
-- **14454**: Following that beam to its end will cause the heretofore invisible Voidwalker to cross fully over into this world and take form.
-- **14455**: This precise moment of encounter with an Abyssean, I have dubbed "contact."
-- **14456**: Not only are Abysseans known to be temperamental and unpredictable; there are those that demonstrate a degree of cunning and guile far beyond that seen in this world.
-- **14457**: Consider yourself warned.
-- **14458**: For as surely as the beam of light emitted by the $3 guides you to a Voidwalker, so too does it guide the Voidwalker to you. Be ever mindful of this fact.
-- **14459**: Know also that not one, but numerous Voidwalkers may roam the land at any given time, and the readings indicate only the creature nearest you.
-- **14460**: You would do well to check the readings regularly, as a sudden change in the light's direction could mean a different Voidwalker has wandered your way.
-- **14461**: Voidwalkers will only reveal their true form at the point of contact, and seeking one only to be met with another is a scenario all adventurers want to avoid.
-- **14462**: But surely, you grow weary of my ramblings. I for one believe this is something best learned through doing.
-- **14463**: Has the burden of this responsibility proven too heavy to bear? Very well, I will take it off your hands and see to its disposal.
-- **14464**: Discard which one? [3/$3/$3/$3/$3/$3/$3/$3/$3/$3/None of them.]
-- **14465**: Are you certain? [Aye./Nay.]
-- **14466**: It is done. You needn't concern yourself with unseen foes any longer. A tame, tranquil adventuring life bereft of exhilaration will be yours once more.
-- **14467**: Forgive me. My personal thirst for the unknown has no bearing on the decisions of others. I will be here, however, should you have a change of heart.
+- **14414**: You there. Yes, you, adventurer! Your downcast countenance tells me your life wants for exhilaration.
+- **14415**: Who am I, you ask? Let's just say I'm he who is about to banish all trace of tedium from your life with an irresistible offer--one of otherworldly proportions, to be sure. For a mere $1 gil, this $3 I hold is yours.
+- **14416**: "But what in Slumbering Samwell's shank does it do," you ask? Consider yourself fortunate, for it's my policy to demystify before the customer buys.
+- **14417**: What will you do? [Let him ramble./Purchase $6./Learn how to use it./Discard abyssite./Leave.]
+- **14418**: Ahem! Allow me to present you with a supposition.
+- **14419**: Lying in parallel to the world upon which we stand exists another dimension.
+- **14420**: "Abyssea" is its name--or at least, the name I've bestowed upon it. It is a world of boundless beauty, mystique, and riches unclaimed.
+- **14421**: Now, suppose this $3 I hold is a key to accessing Abyssea. Were you in possession of one, your curiosity would get the better of you, yes?
+- **14422**: Strictly speaking, this object does not grant entry into Abyssea itself.
+- **14423**: It does, however, make it possible to interact with beings from that plane of existence--"Abysseans," I call them.
+- **14424**: The $3 serves to detect Abysseans that wander the gulf between worlds. How those hapless creatures--I refer to them as "Voidwalkers"--found their way there, mind you, is another subject entirely.
+- **14425**: Having drifted to this realm from the world yonder, much like the Voidwalkers themselves, $5 are attuned to the presence of these creatures and will react--vibrate and emit light--when they draw near.
+- **14426**: The closer your distance to a Voidwalker, the stronger the reaction becomes, until the creature is forcibly wrested into this dimension.
+- **14427**: Repeated contact with Abysseans will cause the $3 to take on different hues, allowing it to respond to creatures belonging to the higher echelons of Voidwalkers.
+- **14428**: Be forewarned! Abysseans are among the most foul-tempered, unpredictable creatures. You would do well to steel yourself for a trying encounter prior to making contact.
+- **14429**: I trust your many adventures have made you familiar with those ghastly statues scattered across the land called cavernous maws.
+- **14430**: My observations have revealed that the concentration of Voidwalkers is greatest in locations where these statues are found.
+- **14431**: As yet, I have no plausible explanations for this phenomenon, but you needn't concern yourself with such details.
+- **14432**: Yours, my friend, is a dilemma infinitely simpler in nature.
+- **14433**: All this far-fetched talk of Abyssea, Abysseans, and Voidwalkers...
+- **14434**: I'm fully aware of the fantastical nature of my tale, and do not think poorly of those inclined to skepticism.
+- **14435**: Yet I feel no need to vouch further for the authenticity of my claims. Such is my confidence that the truth speaks for itself.
+- **14436**: Now then. A great new world has presented itself before you. The question is, will you embrace this opportunity, or let it pass you by?
+- **14437**: As Abysseans cross from one realm to another, so too does gil pass from one individual to the next. In my mind, it is only fitting that gil is that which grants you the key to Abyssea.
+- **14438**: My tales have piqued your interest, have they? As I have mentioned prior, the price is $0 gil.
+- **14439**: Hand over $0 gil? [Aye./Nay.]
+- **14440**: No? The sum I ask is by no means prohibitive. I'll be waiting here, should you ever change your mind.
+- **14441**: I thank you for your custom. Here is your very own $3!
+- **14442**: As a service for all customers, upon request I will take your $3 off your hands and dispose of it in your stead.
+- **14443**: The ability to meddle with inter-dimensional matter can be considered a great power, with which comes great responsibility. Indeed there have been those who found the burden beyond their capacity to cope.
+- **14444**: It seems you are short on gil. Yet I cannot grant concessions, lest access to otherworldly realms lose its true value.
+- **14445**: I see you've developed a taste for $5. Yet I fear I cannot furnish you further, for one alone is sufficient to invite misfortune upon the heedless.
+- **14446**: You wish to know how to use the $3? There is no trick to it. Allow me to demonstrate.
+- **14447**: While in possession of $6, simply assume a resting pose. I'm given to understand it is second nature to all adventurers.
+- **14448**: Doing so will cause your $3 to react. Pertinent information can be gleaned by observing the magnitude of its vibration and the manner of light emitted.
+- **14449**: Should neither reaction occur, take it to mean that no Voidwalkers roam the area.
+- **14450**: Should it vibrate softly but emit no light, take it to mean that Voidwalkers have recently passed through and may soon return.
+- **14451**: Should it vibrate softly and emit a gentle light, take it to mean that Voidwalkers presently roam the area.
+- **14452**: Now, pay particular attention to what I'm about to explain. The reaction of the $3 will change once a predetermined distance from a Voidwalker has been closed.
+- **14453**: From that point onwards, the magnitude of the vibration corresponds directly to the creature's strength. Based on this knowledge, it is your decision whether to pursue it further.
+- **14454**: The gentle glow of light, on the other hand, will intensify to become a radiant beam pointing in the direction of the creature.
+- **14455**: Following that beam to its end will cause the heretofore invisible Voidwalker to cross fully over into this world and take form.
+- **14456**: This precise moment of encounter with an Abyssean, I have dubbed "contact."
+- **14457**: Not only are Abysseans known to be temperamental and unpredictable; there are those that demonstrate a degree of cunning and guile far beyond that seen in this world.
+- **14458**: Consider yourself warned.
+- **14459**: For as surely as the beam of light emitted by the $3 guides you to a Voidwalker, so too does it guide the Voidwalker to you. Be ever mindful of this fact.
+- **14460**: Know also that not one, but numerous Voidwalkers may roam the land at any given time, and the readings indicate only the creature nearest you.
+- **14461**: You would do well to check the readings regularly, as a sudden change in the light's direction could mean a different Voidwalker has wandered your way.
+- **14462**: Voidwalkers will only reveal their true form at the point of contact, and seeking one only to be met with another is a scenario all adventurers want to avoid.
+- **14463**: But surely, you grow weary of my ramblings. I for one believe this is something best learned through doing.
+- **14464**: Has the burden of this responsibility proven too heavy to bear? Very well, I will take it off your hands and see to its disposal.
+- **14465**: Discard which one? [3/$3/$3/$3/$3/$3/$3/$3/$3/$3/None of them.]
+- **14466**: Are you certain? [Aye./Nay.]
+- **14467**: It is done. You needn't concern yourself with unseen foes any longer. A tame, tranquil adventuring life bereft of exhilaration will be yours once more.
+- **14468**: Forgive me. My personal thirst for the unknown has no bearing on the decisions of others. I will be here, however, should you have a change of heart.
 
 ## Events
 
@@ -277,16 +277,16 @@
   0: 0x0001 [0x06] ExtData[1]->WorkLocal[3] = 0
   1: 0x0004 [0x06] ExtData[1]->WorkLocal[4] = 0
   2: 0x0007 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[2]
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=14413*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=14414*)
     → "You there. Yes, you, adventurer! Your downcast countenance tells me your life wants for exhilaration."
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=71*
   6: 0x001F [0x03] Work_Zone[2] = 1253*
   7: 0x0024 [0x03] Work_Zone[3] = 1000*
-  8: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=14414*)
+  8: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=14415*)
     → "Who am I, you ask? Let's just say I'm he who is about to banish all trace of tedium from your life with an irresistible offer--one of otherworldly proportions, to be sure. For a mere $1 gil, this $3 I hold is yours."
   9: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=14415*)
+ 10: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=14416*)
     → ""But what in Slumbering Samwell's shank does it do," you ask? Consider yourself fortunate, for it's my policy to demystify before the customer buys."
  11: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0031 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
@@ -296,90 +296,90 @@
  16: 0x0052 [0x05] ExtData[1]->WorkLocal[3] = 1
  17: 0x0055 [0x02] IF !(ExtData[1]->WorkLocal[3] <= 0*) GOTO 0x04B0
  18: 0x005D [0x03] Work_Zone[2] = 1253*
- 19: 0x0062 [0x24] CREATE_DIALOG(message_id=14416*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 19: 0x0062 [0x24] CREATE_DIALOG(message_id=14417*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "What will you do? [Let him ramble./Purchase $6./Learn how to use it./Discard abyssite./Leave.]"
  20: 0x0069 [0x25] WAIT_DIALOG_SELECT()
  21: 0x006A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E3
- 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=14417*)
+ 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=14418*)
     → "Ahem! Allow me to present you with a supposition."
  23: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14418*)
+ 24: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=14419*)
     → "Lying in parallel to the world upon which we stand exists another dimension."
  25: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x007A [0x03] Work_Zone[2] = 1253*
- 27: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=14419*)
+ 27: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=14420*)
     → ""Abyssea" is its name--or at least, the name I've bestowed upon it. It is a world of boundless beauty, mystique, and riches unclaimed."
  28: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=14420*)
+ 29: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=14421*)
     → "Now, suppose this $3 I hold is a key to accessing Abyssea. Were you in possession of one, your curiosity would get the better of you, yes?"
  30: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=14421*)
+ 31: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=14422*)
     → "Strictly speaking, this object does not grant entry into Abyssea itself."
  32: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=14422*)
+ 33: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=14423*)
     → "It does, however, make it possible to interact with beings from that plane of existence--"Abysseans," I call them."
  34: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x008F [0x03] Work_Zone[2] = 1253*
- 36: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=14423*)
+ 36: 0x0094 [0x1D] PRINT_EVENT_MESSAGE(message_id=14424*)
     → "The $3 serves to detect Abysseans that wander the gulf between worlds. How those hapless creatures--I refer to them as "Voidwalkers"--found their way there, mind you, is another subject entirely."
  37: 0x0097 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0098 [0x03] Work_Zone[2] = 1253*
- 39: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=14424*)
+ 39: 0x009D [0x1D] PRINT_EVENT_MESSAGE(message_id=14425*)
     → "Having drifted to this realm from the world yonder, much like the Voidwalkers themselves, $5 are attuned to the presence of these creatures and will react--vibrate and emit light--when they draw near."
  40: 0x00A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00A1 [0x03] Work_Zone[2] = 1253*
- 42: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14425*)
+ 42: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14426*)
     → "The closer your distance to a Voidwalker, the stronger the reaction becomes, until the creature is forcibly wrested into this dimension."
  43: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00AA [0x03] Work_Zone[2] = 1253*
- 45: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=14426*)
+ 45: 0x00AF [0x1D] PRINT_EVENT_MESSAGE(message_id=14427*)
     → "Repeated contact with Abysseans will cause the $3 to take on different hues, allowing it to respond to creatures belonging to the higher echelons of Voidwalkers."
  46: 0x00B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14427*)
+ 47: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14428*)
     → "Be forewarned! Abysseans are among the most foul-tempered, unpredictable creatures. You would do well to steel yourself for a trying encounter prior to making contact."
  48: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14428*)
+ 49: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14429*)
     → "I trust your many adventures have made you familiar with those ghastly statues scattered across the land called cavernous maws."
  50: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00BB [0x03] Work_Zone[2] = 1253*
- 52: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14429*)
+ 52: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14430*)
     → "My observations have revealed that the concentration of Voidwalkers is greatest in locations where these statues are found."
  53: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14430*)
+ 54: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14431*)
     → "As yet, I have no plausible explanations for this phenomenon, but you needn't concern yourself with such details."
  55: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14431*)
+ 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14432*)
     → "Yours, my friend, is a dilemma infinitely simpler in nature."
  57: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 58: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=14432*)
+ 58: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=14433*)
     → "All this far-fetched talk of Abyssea, Abysseans, and Voidwalkers..."
  59: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14433*)
+ 60: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14434*)
     → "I'm fully aware of the fantastical nature of my tale, and do not think poorly of those inclined to skepticism."
  61: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14434*)
+ 62: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14435*)
     → "Yet I feel no need to vouch further for the authenticity of my claims. Such is my confidence that the truth speaks for itself."
  63: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14435*)
+ 64: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14436*)
     → "Now then. A great new world has presented itself before you. The question is, will you embrace this opportunity, or let it pass you by?"
  65: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=14436*)
+ 66: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=14437*)
     → "As Abysseans cross from one realm to another, so too does gil pass from one individual to the next. In my mind, it is only fitting that gil is that which grants you the key to Abyssea."
  67: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x00E0 [0x01] GOTO 0x04AD
  69: 0x00E3 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x018A
  70: 0x00EB [0x03] Work_Zone[2] = 1000*
- 71: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14437*)
+ 71: 0x00F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14438*)
     → "My tales have piqued your interest, have they? As I have mentioned prior, the price is $0 gil."
  72: 0x00F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x00F4 [0x03] Work_Zone[2] = 1000*
- 74: 0x00F9 [0x24] CREATE_DIALOG(message_id=14438*, default_option=1*, option_flags=0*)
+ 74: 0x00F9 [0x24] CREATE_DIALOG(message_id=14439*, default_option=1*, option_flags=0*)
     → "Hand over $0 gil? [Aye./Nay.]"
  75: 0x0100 [0x25] WAIT_DIALOG_SELECT()
  76: 0x0101 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0175
  77: 0x0109 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x011F
  78: 0x0110 [0x03] Work_Zone[2] = 1253*
- 79: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=14444*)
+ 79: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=14445*)
     → "I see you've developed a taste for $5. Yet I fear I cannot furnish you further, for one alone is sufficient to invite misfortune upon the heedless."
  80: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0119 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -391,20 +391,20 @@
  87: 0x0135 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
  88: 0x013A [0x02] IF !(ExtData[1]->WorkLocal[2] == 1*) GOTO 0x016B
  89: 0x0142 [0x03] Work_Zone[2] = 1253*
- 90: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=14440*)
+ 90: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=14441*)
     → "I thank you for your custom. Here is your very own $3!"
  91: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=14441*)
+ 92: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=14442*)
     → "As a service for all customers, upon request I will take your $3 off your hands and dispose of it in your stead."
  93: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=14442*)
+ 94: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=14443*)
     → "The ability to meddle with inter-dimensional matter can be considered a great power, with which comes great responsibility. Indeed there have been those who found the burden beyond their capacity to cope."
  95: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
  96: 0x0153 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=1*)
  97: 0x015C [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=7*, target=Work_Zone[1], source=0*)
  98: 0x0165 [0x06] ExtData[1]->WorkLocal[3] = 0
  99: 0x0168 [0x01] GOTO 0x0172
-100: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=14443*)
+100: 0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=14444*)
     → "It seems you are short on gil. Yet I cannot grant concessions, lest access to otherworldly realms lose its true value."
 101: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x016F [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -412,7 +412,7 @@
 SUBROUTINE_0172:
 103: 0x0172 [0x01] GOTO 0x0187
 104: 0x0175 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0187
-105: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=14439*)
+105: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=14440*)
     → "No? The sum I ask is by no means prohibitive. I'll be waiting here, should you ever change your mind."
 106: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0181 [0x06] ExtData[1]->WorkLocal[3] = 0
@@ -422,72 +422,72 @@ SUBROUTINE_0187:
 109: 0x0187 [0x01] GOTO 0x04AD
 110: 0x018A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x021F
 111: 0x0192 [0x03] Work_Zone[2] = 1253*
-112: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=14445*)
+112: 0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=14446*)
     → "You wish to know how to use the $3? There is no trick to it. Allow me to demonstrate."
 113: 0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x019B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res0" with entities [EventEntity, EventEntity]
 115: 0x01A8 [0x03] Work_Zone[2] = 1253*
-116: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=14446*)
+116: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=14447*)
     → "While in possession of $6, simply assume a resting pose. I'm given to understand it is second nature to all adventurers."
 117: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x01B1 [0x03] Work_Zone[2] = 1253*
-119: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14447*)
+119: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14448*)
     → "Doing so will cause your $3 to react. Pertinent information can be gleaned by observing the magnitude of its vibration and the manner of light emitted."
 120: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14448*)
+121: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14449*)
     → "Should neither reaction occur, take it to mean that no Voidwalkers roam the area."
 122: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=14449*)
+123: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=14450*)
     → "Should it vibrate softly but emit no light, take it to mean that Voidwalkers have recently passed through and may soon return."
 124: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-125: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14450*)
+125: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14451*)
     → "Should it vibrate softly and emit a gentle light, take it to mean that Voidwalkers presently roam the area."
 126: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x01C6 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res2" with entities [EventEntity, EventEntity]
 128: 0x01D3 [0x03] Work_Zone[2] = 1253*
-129: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14451*)
+129: 0x01D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14452*)
     → "Now, pay particular attention to what I'm about to explain. The reaction of the $3 will change once a predetermined distance from a Voidwalker has been closed."
 130: 0x01DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=14452*)
+131: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=14453*)
     → "From that point onwards, the magnitude of the vibration corresponds directly to the creature's strength. Based on this knowledge, it is your decision whether to pursue it further."
 132: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-133: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14453*)
+133: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14454*)
     → "The gentle glow of light, on the other hand, will intensify to become a radiant beam pointing in the direction of the creature."
 134: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x01E4 [0x03] Work_Zone[2] = 1253*
-136: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14454*)
+136: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14455*)
     → "Following that beam to its end will cause the heretofore invisible Voidwalker to cross fully over into this world and take form."
 137: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14455*)
+138: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=14456*)
     → "This precise moment of encounter with an Abyssean, I have dubbed "contact.""
 139: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x01F1 [0x03] Work_Zone[2] = 1253*
-141: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14456*)
+141: 0x01F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14457*)
     → "Not only are Abysseans known to be temperamental and unpredictable; there are those that demonstrate a degree of cunning and guile far beyond that seen in this world."
 142: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14457*)
+143: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=14458*)
     → "Consider yourself warned."
 144: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x01FE [0x03] Work_Zone[2] = 1253*
-146: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=14458*)
+146: 0x0203 [0x1D] PRINT_EVENT_MESSAGE(message_id=14459*)
     → "For as surely as the beam of light emitted by the $3 guides you to a Voidwalker, so too does it guide the Voidwalker to you. Be ever mindful of this fact."
 147: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
-148: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=14459*)
+148: 0x0207 [0x1D] PRINT_EVENT_MESSAGE(message_id=14460*)
     → "Know also that not one, but numerous Voidwalkers may roam the land at any given time, and the readings indicate only the creature nearest you."
 149: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=14460*)
+150: 0x020B [0x1D] PRINT_EVENT_MESSAGE(message_id=14461*)
     → "You would do well to check the readings regularly, as a sudden change in the light's direction could mean a different Voidwalker has wandered your way."
 151: 0x020E [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=14461*)
+152: 0x020F [0x1D] PRINT_EVENT_MESSAGE(message_id=14462*)
     → "Voidwalkers will only reveal their true form at the point of contact, and seeking one only to be met with another is a scenario all adventurers want to avoid."
 153: 0x0212 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0213 [0x03] Work_Zone[2] = 1253*
-155: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=14462*)
+155: 0x0218 [0x1D] PRINT_EVENT_MESSAGE(message_id=14463*)
     → "But surely, you grow weary of my ramblings. I for one believe this is something best learned through doing."
 156: 0x021B [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x021C [0x01] GOTO 0x04AD
 158: 0x021F [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x049F
-159: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=14463*)
+159: 0x0227 [0x1D] PRINT_EVENT_MESSAGE(message_id=14464*)
     → "Has the burden of this responsibility proven too heavy to bear? Very well, I will take it off your hands and see to its disposal."
 160: 0x022A [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x022B [0x05] ExtData[1]->WorkLocal[4] = 1
@@ -551,7 +551,7 @@ SUBROUTINE_02D4:
 199: 0x02FE [0x03] Work_Zone[9] = 1590*
 200: 0x0303 [0x03] Work_Zone_1700[0] = 1260*
 201: 0x0308 [0x03] ExtData[1]->WorkLocal[5] = 0*
-202: 0x030D [0x24] CREATE_DIALOG(message_id=14464*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
+202: 0x030D [0x24] CREATE_DIALOG(message_id=14465*, default_option=0*, option_flags=ExtData[1]->WorkLocal[6])
     → "Discard which one? [3/$3/$3/$3/$3/$3/$3/$3/$3/$3/None of them.]"
 203: 0x0314 [0x25] WAIT_DIALOG_SELECT()
 204: 0x0315 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0325
@@ -590,11 +590,11 @@ SUBROUTINE_02D4:
 
 SUBROUTINE_03C3:
 237: 0x03C3 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0499
-238: 0x03CB [0x24] CREATE_DIALOG(message_id=14465*, default_option=1*, option_flags=0*)
+238: 0x03CB [0x24] CREATE_DIALOG(message_id=14466*, default_option=1*, option_flags=0*)
     → "Are you certain? [Aye./Nay.]"
 239: 0x03D2 [0x25] WAIT_DIALOG_SELECT()
 240: 0x03D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x048E
-241: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=14466*)
+241: 0x03DB [0x1D] PRINT_EVENT_MESSAGE(message_id=14467*)
     → "It is done. You needn't concern yourself with unseen foes any longer. A tame, tranquil adventuring life bereft of exhilaration will be yours once more."
 242: 0x03DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 243: 0x03DF [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x03EF
@@ -626,7 +626,7 @@ SUBROUTINE_03C3:
 269: 0x046C [0x01] GOTO 0x046F
 
 SUBROUTINE_046F:
-270: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=14467*)
+270: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=14468*)
     → "Forgive me. My personal thirst for the unknown has no bearing on the decisions of others. I will be here, however, should you have a change of heart."
 271: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
 272: 0x0473 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=2*)

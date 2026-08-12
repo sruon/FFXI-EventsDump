@@ -31,20 +31,20 @@
 |       5 | 0x003C      |          60 |
 |       6 | 0x00FA      |         250 |
 |       7 | 0x04B0      |        1200 |
-|       8 | 0x1C86      |        7302 |
-|       9 | 0x1C87      |        7303 |
-|      10 | 0x1C88      |        7304 |
+|       8 | 0x1C87      |        7303 |
+|       9 | 0x1C88      |        7304 |
+|      10 | 0x1C89      |        7305 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x40000000  |  1073741824 |
-|      13 | 0x1C89      |        7305 |
+|      13 | 0x1C8A      |        7306 |
 |      14 | 0x0384      |         900 |
 
 ## String References
 
-- **7302**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
-- **7303**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
-- **7304**: Seal off your memories? [Yes./No.]
-- **7305**: Are you sure? [Absolutely./No.]
+- **7303**: By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered.
+- **7304**: This will allow you to return to the entrance of the crag, having forgotten all events regarding this place.
+- **7305**: Seal off your memories? [Yes./No.]
+- **7306**: Are you sure? [Absolutely./No.]
 
 ## Events
 
@@ -185,13 +185,13 @@
 
 ```
   0: 0x00CB [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00CD [0x48] [System] [7302*]:
+  1: 0x00CD [0x48] [System] [7303*]:
     → "By sealing off a portion of your memory, your destiny within this realm of Promyvion can be altered."
   2: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x00D1 [0x48] [System] [7303*]:
+  3: 0x00D1 [0x48] [System] [7304*]:
     → "This will allow you to return to the entrance of the crag, having forgotten all events regarding this place."
   4: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00D5 [0x24] CREATE_DIALOG(message_id=7304*, default_option=1*, option_flags=0*)
+  5: 0x00D5 [0x24] CREATE_DIALOG(message_id=7305*, default_option=1*, option_flags=0*)
     → "Seal off your memories? [Yes./No.]"
   6: 0x00DC [0x25] WAIT_DIALOG_SELECT()
   7: 0x00DD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00EF
@@ -200,7 +200,7 @@
  10: 0x00EB [0x00] END_REQSTACK()
 
 SUBROUTINE_00EF:
- 11: 0x00EF [0x24] CREATE_DIALOG(message_id=7305*, default_option=1*, option_flags=0*)
+ 11: 0x00EF [0x24] CREATE_DIALOG(message_id=7306*, default_option=1*, option_flags=0*)
     → "Are you sure? [Absolutely./No.]"
  12: 0x00F6 [0x25] WAIT_DIALOG_SELECT()
  13: 0x00F7 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0109

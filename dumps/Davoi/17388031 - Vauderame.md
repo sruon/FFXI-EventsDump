@@ -59,15 +59,15 @@
 |      11 | 0x35DA6     |      220582 |
 |      12 | 0xFFFF42C3  |  4294918851 |
 |      13 | 0x0343      |         835 |
-|      14 | 0x1D59      |        7513 |
-|      15 | 0x1D5B      |        7515 |
-|      16 | 0x1D5E      |        7518 |
+|      14 | 0x1D5A      |        7514 |
+|      15 | 0x1D5C      |        7516 |
+|      16 | 0x1D5F      |        7519 |
 
 ## String References
 
-- **7513**: I see... It was just a waste of time.
-- **7515**: Well, no matter. The fact is, there is someone else who is looking for the sword. And, either they have got to it first or...
-- **7518**: ...nuisance...
+- **7514**: I see... It was just a waste of time.
+- **7516**: Well, no matter. The fact is, there is someone else who is looking for the sword. And, either they have got to it first or...
+- **7519**: ...nuisance...
 
 ## Events
 
@@ -666,7 +666,7 @@
 #### Opcodes
 
 ```
-  0: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7513*)
+  0: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7514*)
     → "I see... It was just a waste of time."
   1: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x014B [0x00] END_REQSTACK()
@@ -692,7 +692,7 @@
 #### Opcodes
 
 ```
-  0: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7515*)
+  0: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=7516*)
     → "Well, no matter. The fact is, there is someone else who is looking for the sword. And, either they have got to it first or..."
   1: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0150 [0x00] END_REQSTACK()
@@ -717,7 +717,7 @@
 #### Opcodes
 
 ```
-  0: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=7518*)
+  0: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=7519*)
     → "...nuisance..."
   1: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0155 [0x00] END_REQSTACK()

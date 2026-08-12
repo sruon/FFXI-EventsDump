@@ -25,31 +25,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2F70      |       12144 |
-|       1 | 0x2F6D      |       12141 |
-|       2 | 0x2F73      |       12147 |
-|       3 | 0x2F76      |       12150 |
-|       4 | 0x2F79      |       12153 |
-|       5 | 0x2F7C      |       12156 |
+|       0 | 0x2F71      |       12145 |
+|       1 | 0x2F6E      |       12142 |
+|       2 | 0x2F74      |       12148 |
+|       3 | 0x2F77      |       12151 |
+|       4 | 0x2F7A      |       12154 |
+|       5 | 0x2F7D      |       12157 |
 |       6 | 0x0078      |         120 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x2F7E      |       12158 |
-|       9 | 0x2F7F      |       12159 |
+|       8 | 0x2F7F      |       12159 |
+|       9 | 0x2F80      |       12160 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x40000000  |  1073741824 |
-|      12 | 0x2F80      |       12160 |
+|      12 | 0x2F81      |       12161 |
 
 ## String References
 
-- **12141**: If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite.
-- **12144**: For the lion!
-- **12147**: I see you serve under another nation.
-- **12150**: If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite.
-- **12153**: If you seek to regain admission to the Knights of the Iron Ram, you must first sever ties with your nation of allegiance...and that will require Allied Notes.
-- **12156**: Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals.
-- **12158**: Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes].
-- **12159**: Proceed with the transaction? [Yes./No.]
-- **12160**: Are you absolutely sure? [Yes./No.]
+- **12142**: If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite.
+- **12145**: For the lion!
+- **12148**: I see you serve under another nation.
+- **12151**: If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite.
+- **12154**: If you seek to regain admission to the Knights of the Iron Ram, you must first sever ties with your nation of allegiance...and that will require Allied Notes.
+- **12157**: Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals.
+- **12159**: Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes].
+- **12160**: Proceed with the transaction? [Yes./No.]
+- **12161**: Are you absolutely sure? [Yes./No.]
 
 ## Events
 
@@ -98,7 +98,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12144*)
+  3: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=12145*)
     → "For the lion!"
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT
@@ -128,7 +128,7 @@
   0: 0x0012 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0017 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0018 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=12141*)
+  3: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=12142*)
     → "If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite."
   4: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0021 [0x21] END_EVENT
@@ -158,10 +158,10 @@
   0: 0x0023 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0028 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0029 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
+  3: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
     → "I see you serve under another nation."
   4: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=12150*)
+  5: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=12151*)
     → "If you seek admission to the Knights of the Iron Ram, speak with Sir Mainchelite."
   6: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0036 [0x21] END_EVENT
@@ -197,22 +197,22 @@
   1: 0x0039 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x003E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x003F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=12147*)
+  4: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=12148*)
     → "I see you serve under another nation."
   5: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=12153*)
+  6: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=12154*)
     → "If you seek to regain admission to the Knights of the Iron Ram, you must first sever ties with your nation of allegiance...and that will require Allied Notes."
   7: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x004C [0x48] [System] [12156*]:
+  8: 0x004C [0x48] [System] [12157*]:
     → "Please note that upon changing allegiance, you will be required to return the two most prestigious campaign medals you possess. There is no penalty if you have yet to earn any medals."
   9: 0x004F [0x1C] WAIT(120* ticks)
  10: 0x0052 [0x03] Work_Zone[1] = 1*
  11: 0x0057 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  12: 0x0059 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 13: 0x005B [0x48] [System] [12158*]:
+ 13: 0x005B [0x48] [System] [12159*]:
     → "Exchange $2 Allied [Note/Notes] to transfer from [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit] to [/the Knights of the Iron Ram/the Fourth Division/the Cobra Unit]? You currently possess $3 [Allied Note/Allied Notes]."
  14: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x005F [0x24] CREATE_DIALOG(message_id=12159*, default_option=1*, option_flags=0*)
+ 15: 0x005F [0x24] CREATE_DIALOG(message_id=12160*, default_option=1*, option_flags=0*)
     → "Proceed with the transaction? [Yes./No.]"
  16: 0x0066 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0067 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007A
@@ -220,7 +220,7 @@
  19: 0x0074 [0x01] GOTO 0x009A
 
 SUBROUTINE_007A:
- 20: 0x007A [0x24] CREATE_DIALOG(message_id=12160*, default_option=1*, option_flags=0*)
+ 20: 0x007A [0x24] CREATE_DIALOG(message_id=12161*, default_option=1*, option_flags=0*)
     → "Are you absolutely sure? [Yes./No.]"
  21: 0x0081 [0x25] WAIT_DIALOG_SELECT()
  22: 0x0082 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0095

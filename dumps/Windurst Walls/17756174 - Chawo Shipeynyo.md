@@ -47,43 +47,43 @@
 |---------|-------------|-------------|
 |       0 | 0x016F      |         367 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F15      |        7957 |
-|       3 | 0x1F16      |        7958 |
-|       4 | 0x1CAB      |        7339 |
-|       5 | 0x1CBC      |        7356 |
-|       6 | 0x1CBD      |        7357 |
-|       7 | 0x1CC4      |        7364 |
-|       8 | 0x1CC5      |        7365 |
-|       9 | 0x1CD2      |        7378 |
-|      10 | 0x1CD3      |        7379 |
-|      11 | 0x1CDF      |        7391 |
-|      12 | 0x1CE0      |        7392 |
-|      13 | 0x1CE9      |        7401 |
-|      14 | 0x1CEA      |        7402 |
-|      15 | 0x1CF4      |        7412 |
-|      16 | 0x1CF5      |        7413 |
-|      17 | 0x1D08      |        7432 |
-|      18 | 0x2211      |        8721 |
-|      19 | 0x2212      |        8722 |
-|      20 | 0x221B      |        8731 |
-|      21 | 0x221C      |        8732 |
-|      22 | 0x222A      |        8746 |
-|      23 | 0x2234      |        8756 |
-|      24 | 0x2235      |        8757 |
-|      25 | 0x223F      |        8767 |
-|      26 | 0x2240      |        8768 |
-|      27 | 0x2249      |        8777 |
-|      28 | 0x224A      |        8778 |
-|      29 | 0x2256      |        8790 |
-|      30 | 0x2338      |        9016 |
-|      31 | 0x2339      |        9017 |
-|      32 | 0x233E      |        9022 |
-|      33 | 0x233F      |        9023 |
-|      34 | 0x2351      |        9041 |
-|      35 | 0x2352      |        9042 |
-|      36 | 0x2353      |        9043 |
-|      37 | 0x235C      |        9052 |
-|      38 | 0x235D      |        9053 |
+|       2 | 0x1F16      |        7958 |
+|       3 | 0x1F17      |        7959 |
+|       4 | 0x1CAC      |        7340 |
+|       5 | 0x1CBD      |        7357 |
+|       6 | 0x1CBE      |        7358 |
+|       7 | 0x1CC5      |        7365 |
+|       8 | 0x1CC6      |        7366 |
+|       9 | 0x1CD3      |        7379 |
+|      10 | 0x1CD4      |        7380 |
+|      11 | 0x1CE0      |        7392 |
+|      12 | 0x1CE1      |        7393 |
+|      13 | 0x1CEA      |        7402 |
+|      14 | 0x1CEB      |        7403 |
+|      15 | 0x1CF5      |        7413 |
+|      16 | 0x1CF6      |        7414 |
+|      17 | 0x1D09      |        7433 |
+|      18 | 0x2212      |        8722 |
+|      19 | 0x2213      |        8723 |
+|      20 | 0x221C      |        8732 |
+|      21 | 0x221D      |        8733 |
+|      22 | 0x222B      |        8747 |
+|      23 | 0x2235      |        8757 |
+|      24 | 0x2236      |        8758 |
+|      25 | 0x2240      |        8768 |
+|      26 | 0x2241      |        8769 |
+|      27 | 0x224A      |        8778 |
+|      28 | 0x224B      |        8779 |
+|      29 | 0x2257      |        8791 |
+|      30 | 0x2339      |        9017 |
+|      31 | 0x233A      |        9018 |
+|      32 | 0x233F      |        9023 |
+|      33 | 0x2340      |        9024 |
+|      34 | 0x2352      |        9042 |
+|      35 | 0x2353      |        9043 |
+|      36 | 0x2354      |        9044 |
+|      37 | 0x235D      |        9053 |
+|      38 | 0x235E      |        9054 |
 |      39 | 0xFFFF74C8  |  4294931656 |
 |      40 | 0x21757     |      137047 |
 |      41 | 0xFFFFC180  |  4294951296 |
@@ -95,43 +95,43 @@
 
 ## String References
 
-- **7339**: What's that you said? Don't you darrre rrrepeat that!
-- **7356**: Don't you dare tell me you agrrreed to that mission of carrying offerrrings to the beastmen in Giddeus!?
-- **7357**: Grrr... And you think I'm going to stand by and let you do that without giving you a piece of my mind!?
-- **7364**: I don't give a damn whetherrr you went up to rrrank two or not.
-- **7365**: I only wish you'd hurry up and make these slackerrrs underrrstand just how overrrly apathetic and laid-back Windurst has become.
-- **7378**: A-hah!? Magic books, eh? I once hearrrd from someone that there was an uproarrr when a magic book fell into the hands of the Yagudo.
-- **7379**: But that's beside the point. For crrrying out loud...would you shorrrties get out of my way and let me meet the Starrr Sibyl?
-- **7391**: If you have enough time on yourrr hands to do that silly mission, why don't you lend us Mithra a hand forrr a change?
-- **7392**: Oh, come on. Give me a brrreak! Grrr...I've had it with these guarrrds!
-- **7401**: Hey! Just wherrre are you heading now?
-- **7402**: Well, when you speak to the Tarutaru inside of herrre, tell them to go see forrr themselves just how equipped otherrr countries are to fight off the beastmen.
-- **7412**: I hearrrd that! You'rrre talking about the Sibyl Guards, rrright?
-- **7413**: They'rrre no Mithra, that mob. They werrre rrraised by the Tarutaru, so they have lost theirrr Mithran spirit! Why, they'rrre nothing more than a band of traitorrrs!
-- **7432**: What's all the rrruckus about? Has something happened in Heavens Towerrr?
-- **7957**: I came herrre to give that Star Sibyl a piece of my mind! Why do we have to be frrriends with those filthy Yagudo?
-- **7958**: They continue rrravaging the countryside just because no one herrre in Windurst has the guts to stand up to them!
-- **8721**: I've been thinking that the Star Sibyl must have some kind of strrrategy in mind for dealing with those treacherous Yagudo.
-- **8722**: This whole "Okay, here's your tribute!" facade is just a stalling tactic. Or at least, that's what I'd like to think.
-- **8731**: Ajido-Marujido? Yeah, I know him. He's the one that's always looking for Nanaa Mihgo.
-- **8732**: I don't want anything to do with lowlives who willingly deal with the Cat Burrrglar.
-- **8746**: What did you just say? You wanna try rrrepeating that?
-- **8756**: I was told a lot of stories about the Grrreat War as a child, but only those that centered on Chieftainness Perih Vashai.
-- **8757**: Although I did hear a story that Windurst was saved by a grrreat light that flowed out from the magic towers. I wonder what could've caused that light?
-- **8767**: The Rhinostery? They have a long history with the Mithra.
-- **8768**: Didn't you know? The first Tarutaru to visit us in our southern homeland were researchers from the Rhinostery.
-- **8777**: I've just given in. Every time I talk to these little Tarutaru, I just can't seem to keep the edge on my words. I've lost my bite completely.
-- **8778**: Maybe I need to focus myself and rrredo my basic training...
-- **8790**: I don't want to burst their bubble, but I think the reason Captain Buuma is helping the Tarutaru is because she wants to tick off the Sibyl Guards.
-- **9016**: You know, I've been thinking. If the Sibyl Guards are orrrphans of the Great War, then wouldn't they hate the Yagudo even more than us other Mithra?
-- **9017**: I suppose that as a race, the Mithra don't hold much with grrrudges. Maybe their anger has cooled off over the years?
-- **9022**: Chieftainness Perih Vashai is to seek an audience with the Star Sibyl concerning the events surrounding Orastery minister Ajido-Marujido.
-- **9023**: Don't get me wrong--it's not like the chieftainness is a close friend of the minister or anything. These events have set something in motion. And I think we're about to find out what that something is...
-- **9041**: Those black-blooded, back-stabbing Yagudo scum! We Mithra should wipe out the entire rrrace!
-- **9042**: What is the Star Sibyl afrrraid of? Taking rrresponsiblity for a war? That Windurst would lose?
-- **9043**: If fighting brrreaks out on the streets like it did twenty years ago, we should just blast the hell out of 'em with that summoning magic stuff.
-- **9052**: We Mithra are going to be rrrunning wild in Windurst Woods again, so don't forget to stop by. Oh, and before you go...
-- **9053**: ...can I have your autograph?
+- **7340**: What's that you said? Don't you darrre rrrepeat that!
+- **7357**: Don't you dare tell me you agrrreed to that mission of carrying offerrrings to the beastmen in Giddeus!?
+- **7358**: Grrr... And you think I'm going to stand by and let you do that without giving you a piece of my mind!?
+- **7365**: I don't give a damn whetherrr you went up to rrrank two or not.
+- **7366**: I only wish you'd hurry up and make these slackerrrs underrrstand just how overrrly apathetic and laid-back Windurst has become.
+- **7379**: A-hah!? Magic books, eh? I once hearrrd from someone that there was an uproarrr when a magic book fell into the hands of the Yagudo.
+- **7380**: But that's beside the point. For crrrying out loud...would you shorrrties get out of my way and let me meet the Starrr Sibyl?
+- **7392**: If you have enough time on yourrr hands to do that silly mission, why don't you lend us Mithra a hand forrr a change?
+- **7393**: Oh, come on. Give me a brrreak! Grrr...I've had it with these guarrrds!
+- **7402**: Hey! Just wherrre are you heading now?
+- **7403**: Well, when you speak to the Tarutaru inside of herrre, tell them to go see forrr themselves just how equipped otherrr countries are to fight off the beastmen.
+- **7413**: I hearrrd that! You'rrre talking about the Sibyl Guards, rrright?
+- **7414**: They'rrre no Mithra, that mob. They werrre rrraised by the Tarutaru, so they have lost theirrr Mithran spirit! Why, they'rrre nothing more than a band of traitorrrs!
+- **7433**: What's all the rrruckus about? Has something happened in Heavens Towerrr?
+- **7958**: I came herrre to give that Star Sibyl a piece of my mind! Why do we have to be frrriends with those filthy Yagudo?
+- **7959**: They continue rrravaging the countryside just because no one herrre in Windurst has the guts to stand up to them!
+- **8722**: I've been thinking that the Star Sibyl must have some kind of strrrategy in mind for dealing with those treacherous Yagudo.
+- **8723**: This whole "Okay, here's your tribute!" facade is just a stalling tactic. Or at least, that's what I'd like to think.
+- **8732**: Ajido-Marujido? Yeah, I know him. He's the one that's always looking for Nanaa Mihgo.
+- **8733**: I don't want anything to do with lowlives who willingly deal with the Cat Burrrglar.
+- **8747**: What did you just say? You wanna try rrrepeating that?
+- **8757**: I was told a lot of stories about the Grrreat War as a child, but only those that centered on Chieftainness Perih Vashai.
+- **8758**: Although I did hear a story that Windurst was saved by a grrreat light that flowed out from the magic towers. I wonder what could've caused that light?
+- **8768**: The Rhinostery? They have a long history with the Mithra.
+- **8769**: Didn't you know? The first Tarutaru to visit us in our southern homeland were researchers from the Rhinostery.
+- **8778**: I've just given in. Every time I talk to these little Tarutaru, I just can't seem to keep the edge on my words. I've lost my bite completely.
+- **8779**: Maybe I need to focus myself and rrredo my basic training...
+- **8791**: I don't want to burst their bubble, but I think the reason Captain Buuma is helping the Tarutaru is because she wants to tick off the Sibyl Guards.
+- **9017**: You know, I've been thinking. If the Sibyl Guards are orrrphans of the Great War, then wouldn't they hate the Yagudo even more than us other Mithra?
+- **9018**: I suppose that as a race, the Mithra don't hold much with grrrudges. Maybe their anger has cooled off over the years?
+- **9023**: Chieftainness Perih Vashai is to seek an audience with the Star Sibyl concerning the events surrounding Orastery minister Ajido-Marujido.
+- **9024**: Don't get me wrong--it's not like the chieftainness is a close friend of the minister or anything. These events have set something in motion. And I think we're about to find out what that something is...
+- **9042**: Those black-blooded, back-stabbing Yagudo scum! We Mithra should wipe out the entire rrrace!
+- **9043**: What is the Star Sibyl afrrraid of? Taking rrresponsiblity for a war? That Windurst would lose?
+- **9044**: If fighting brrreaks out on the streets like it did twenty years ago, we should just blast the hell out of 'em with that summoning magic stuff.
+- **9053**: We Mithra are going to be rrrunning wild in Windurst Woods again, so don't forget to stop by. Oh, and before you go...
+- **9054**: ...can I have your autograph?
 
 ## Events
 
@@ -255,10 +255,10 @@
 
 ```
   0: 0x0035 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  1: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+  1: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "I came herrre to give that Star Sibyl a piece of my mind! Why do we have to be frrriends with those filthy Yagudo?"
   2: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
+  3: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7959*)
     → "They continue rrravaging the countryside just because no one herrre in Windurst has the guts to stand up to them!"
   4: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0044 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x03)
@@ -289,7 +289,7 @@
 
 ```
   0: 0x004F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  1: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+  1: 0x0056 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "What's that you said? Don't you darrre rrrepeat that!"
   2: 0x0059 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x005A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -321,10 +321,10 @@
 ```
   0: 0x0065 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x006F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+  2: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "Don't you dare tell me you agrrreed to that mission of carrying offerrrings to the beastmen in Giddeus!?"
   3: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
+  4: 0x007A [0x1D] PRINT_EVENT_MESSAGE(message_id=7358*)
     → "Grrr... And you think I'm going to stand by and let you do that without giving you a piece of my mind!?"
   5: 0x007D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x007E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -358,10 +358,10 @@
 ```
   0: 0x008E [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x0098 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7364*)
+  2: 0x009F [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
     → "I don't give a damn whetherrr you went up to rrrank two or not."
   3: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7365*)
+  4: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7366*)
     → "I only wish you'd hurry up and make these slackerrrs underrrstand just how overrrly apathetic and laid-back Windurst has become."
   5: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A7 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -394,12 +394,12 @@
 ```
   0: 0x00B7 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x00C1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7378*)
+  2: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
     → "A-hah!? Magic books, eh? I once hearrrd from someone that there was an uproarrr when a magic book fell into the hands of the Yagudo."
   3: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00CC [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
   5: 0x00D3 [0x7B] EventEntity stops talking
-  6: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7379*)
+  6: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7380*)
     → "But that's beside the point. For crrrying out loud...would you shorrrties get out of my way and let me meet the Starrr Sibyl?"
   7: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00DC [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -430,10 +430,10 @@
 ```
   0: 0x00E0 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x00EA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7391*)
+  2: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
     → "If you have enough time on yourrr hands to do that silly mission, why don't you lend us Mithra a hand forrr a change?"
   3: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7392*)
+  4: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7393*)
     → "Oh, come on. Give me a brrreak! Grrr...I've had it with these guarrrds!"
   5: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00F9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -467,10 +467,10 @@
 ```
   0: 0x0109 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x0113 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7401*)
+  2: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
     → "Hey! Just wherrre are you heading now?"
   3: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7402*)
+  4: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=7403*)
     → "Well, when you speak to the Tarutaru inside of herrre, tell them to go see forrr themselves just how equipped otherrr countries are to fight off the beastmen."
   5: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0122 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -503,10 +503,10 @@
 ```
   0: 0x0132 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x013C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7412*)
+  2: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
     → "I hearrrd that! You'rrre talking about the Sibyl Guards, rrright?"
   3: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7413*)
+  4: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=7414*)
     → "They'rrre no Mithra, that mob. They werrre rrraised by the Tarutaru, so they have lost theirrr Mithran spirit! Why, they'rrre nothing more than a band of traitorrrs!"
   5: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x014B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -539,7 +539,7 @@
 ```
   0: 0x015B [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x0165 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+  2: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "What's all the rrruckus about? Has something happened in Heavens Towerrr?"
   3: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0170 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -572,10 +572,10 @@
 ```
   0: 0x0180 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x018A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8721*)
+  2: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=8722*)
     → "I've been thinking that the Star Sibyl must have some kind of strrrategy in mind for dealing with those treacherous Yagudo."
   3: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=8722*)
+  4: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=8723*)
     → "This whole "Okay, here's your tribute!" facade is just a stalling tactic. Or at least, that's what I'd like to think."
   5: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0199 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -605,10 +605,10 @@
 
 ```
   0: 0x01A4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  1: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8731*)
+  1: 0x01AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
     → "Ajido-Marujido? Yeah, I know him. He's the one that's always looking for Nanaa Mihgo."
   2: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8732*)
+  3: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8733*)
     → "I don't want anything to do with lowlives who willingly deal with the Cat Burrrglar."
   4: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01B3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -639,7 +639,7 @@
 
 ```
   0: 0x01BE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  1: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8746*)
+  1: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8747*)
     → "What did you just say? You wanna try rrrepeating that?"
   2: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -671,10 +671,10 @@
 ```
   0: 0x01D4 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x01DE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8756*)
+  2: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
     → "I was told a lot of stories about the Grrreat War as a child, but only those that centered on Chieftainness Perih Vashai."
   3: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8757*)
+  4: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8758*)
     → "Although I did hear a story that Windurst was saved by a grrreat light that flowed out from the magic towers. I wonder what could've caused that light?"
   5: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01ED [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -706,10 +706,10 @@
 ```
   0: 0x01F8 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x0202 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8767*)
+  2: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8768*)
     → "The Rhinostery? They have a long history with the Mithra."
   3: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=8768*)
+  4: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=8769*)
     → "Didn't you know? The first Tarutaru to visit us in our southern homeland were researchers from the Rhinostery."
   5: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0211 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -741,10 +741,10 @@
 ```
   0: 0x021C [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x0226 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8777*)
+  2: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
     → "I've just given in. Every time I talk to these little Tarutaru, I just can't seem to keep the edge on my words. I've lost my bite completely."
   3: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8778*)
+  4: 0x0231 [0x1D] PRINT_EVENT_MESSAGE(message_id=8779*)
     → "Maybe I need to focus myself and rrredo my basic training..."
   5: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0235 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -775,7 +775,7 @@
 ```
   0: 0x0240 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x024A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8790*)
+  2: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=8791*)
     → "I don't want to burst their bubble, but I think the reason Captain Buuma is helping the Tarutaru is because she wants to tick off the Sibyl Guards."
   3: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0255 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -807,10 +807,10 @@
 ```
   0: 0x0260 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x026A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=9016*)
+  2: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
     → "You know, I've been thinking. If the Sibyl Guards are orrrphans of the Great War, then wouldn't they hate the Yagudo even more than us other Mithra?"
   3: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=9017*)
+  4: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
     → "I suppose that as a race, the Mithra don't hold much with grrrudges. Maybe their anger has cooled off over the years?"
   5: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0279 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -842,10 +842,10 @@
 ```
   0: 0x0284 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x028E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
+  2: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
     → "Chieftainness Perih Vashai is to seek an audience with the Star Sibyl concerning the events surrounding Orastery minister Ajido-Marujido."
   3: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
+  4: 0x0299 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
     → "Don't get me wrong--it's not like the chieftainness is a close friend of the minister or anything. These events have set something in motion. And I think we're about to find out what that something is..."
   5: 0x029C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x029D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -877,13 +877,13 @@
 ```
   0: 0x02A8 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x02B2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
+  2: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
     → "Those black-blooded, back-stabbing Yagudo scum! We Mithra should wipe out the entire rrrace!"
   3: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+  4: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "What is the Star Sibyl afrrraid of? Taking rrresponsiblity for a war? That Windurst would lose?"
   5: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
+  6: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9044*)
     → "If fighting brrreaks out on the streets like it did twenty years ago, we should just blast the hell out of 'em with that summoning magic stuff."
   7: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02C5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
@@ -915,11 +915,11 @@
 ```
   0: 0x02D0 [0x79] EventEntity looks at LocalPlayer (Basic look)
   1: 0x02DA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x01)
-  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9052*)
+  2: 0x02E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
     → "We Mithra are going to be rrrunning wild in Windurst Woods again, so don't forget to stop by. Oh, and before you go..."
   3: 0x02E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02E5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chawo Shipeynyo (ID: 17756174/0x010EF00E), tag_num=0x02)
-  5: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9053*)
+  5: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=9054*)
     → "...can I have your autograph?"
   6: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02F0 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

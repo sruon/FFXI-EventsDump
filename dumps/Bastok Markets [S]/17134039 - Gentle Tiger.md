@@ -97,49 +97,49 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0045      |          69 |
-|       2 | 0x3038      |       12344 |
+|       2 | 0x3039      |       12345 |
 |       3 | 0x0013      |          19 |
-|       4 | 0x2EE4      |       12004 |
+|       4 | 0x2EE5      |       12005 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x2EE5      |       12005 |
-|       7 | 0x30EE      |       12526 |
-|       8 | 0x3157      |       12631 |
-|       9 | 0x317A      |       12666 |
-|      10 | 0x31CB      |       12747 |
-|      11 | 0x32C8      |       13000 |
-|      12 | 0x32C9      |       13001 |
-|      13 | 0x32CA      |       13002 |
-|      14 | 0x3303      |       13059 |
-|      15 | 0x3360      |       13152 |
-|      16 | 0x2FAD      |       12205 |
-|      17 | 0x2FAE      |       12206 |
-|      18 | 0x3384      |       13188 |
-|      19 | 0x3385      |       13189 |
-|      20 | 0x3386      |       13190 |
-|      21 | 0x3389      |       13193 |
-|      22 | 0x338A      |       13194 |
-|      23 | 0x340E      |       13326 |
-|      24 | 0x340F      |       13327 |
+|       6 | 0x2EE6      |       12006 |
+|       7 | 0x30EF      |       12527 |
+|       8 | 0x3158      |       12632 |
+|       9 | 0x317B      |       12667 |
+|      10 | 0x31CC      |       12748 |
+|      11 | 0x32C9      |       13001 |
+|      12 | 0x32CA      |       13002 |
+|      13 | 0x32CB      |       13003 |
+|      14 | 0x3304      |       13060 |
+|      15 | 0x3361      |       13153 |
+|      16 | 0x2FAE      |       12206 |
+|      17 | 0x2FAF      |       12207 |
+|      18 | 0x3385      |       13189 |
+|      19 | 0x3386      |       13190 |
+|      20 | 0x3387      |       13191 |
+|      21 | 0x338A      |       13194 |
+|      22 | 0x338B      |       13195 |
+|      23 | 0x340F      |       13327 |
+|      24 | 0x3410      |       13328 |
 |      25 | 0x042D      |        1069 |
-|      26 | 0x3410      |       13328 |
-|      27 | 0x3411      |       13329 |
-|      28 | 0x3412      |       13330 |
-|      29 | 0x3413      |       13331 |
-|      30 | 0x344F      |       13391 |
-|      31 | 0x34C4      |       13508 |
-|      32 | 0x34C5      |       13509 |
-|      33 | 0x34C6      |       13510 |
-|      34 | 0x34C7      |       13511 |
-|      35 | 0x34C8      |       13512 |
-|      36 | 0x34C9      |       13513 |
-|      37 | 0x34CC      |       13516 |
+|      26 | 0x3411      |       13329 |
+|      27 | 0x3412      |       13330 |
+|      28 | 0x3413      |       13331 |
+|      29 | 0x3414      |       13332 |
+|      30 | 0x3450      |       13392 |
+|      31 | 0x34C5      |       13509 |
+|      32 | 0x34C6      |       13510 |
+|      33 | 0x34C7      |       13511 |
+|      34 | 0x34C8      |       13512 |
+|      35 | 0x34C9      |       13513 |
+|      36 | 0x34CA      |       13514 |
+|      37 | 0x34CD      |       13517 |
 |      38 | 0x0494      |        1172 |
-|      39 | 0x34CA      |       13514 |
-|      40 | 0x34CB      |       13515 |
-|      41 | 0x34E3      |       13539 |
-|      42 | 0x34E4      |       13540 |
-|      43 | 0x3504      |       13572 |
-|      44 | 0x3505      |       13573 |
+|      39 | 0x34CB      |       13515 |
+|      40 | 0x34CC      |       13516 |
+|      41 | 0x34E4      |       13540 |
+|      42 | 0x34E5      |       13541 |
+|      43 | 0x3505      |       13573 |
+|      44 | 0x3506      |       13574 |
 |      45 | 0x0083      |         131 |
 |      46 | 0x0015      |          21 |
 |      47 | 0x003C      |          60 |
@@ -153,8 +153,8 @@
 |      55 | 0x00D1      |         209 |
 |      56 | 0x005A      |          90 |
 |      57 | 0x09CE      |        2510 |
-|      58 | 0x39B5      |       14773 |
-|      59 | 0x39B6      |       14774 |
+|      58 | 0x39B6      |       14774 |
+|      59 | 0x39B7      |       14775 |
 |      60 | 0xFFFCEA30  |  4294765104 |
 |      61 | 0x046E      |        1134 |
 |      62 | 0xFFFFD8F2  |  4294957298 |
@@ -162,47 +162,47 @@
 
 ## String References
 
-- **12004**: They're going to do more than cut my pay for letting that informant slip through a security lockdown...
-- **12005**: You! Don't think you'll pass by me twice!
-- **12205**: Has the professor been located?
-- **12206**: What was that about Rolanberry...? And Pashhow...?
-- **12344**: The Metalworks have been placed under the jurisdiction of the military in order to develop and produce arms for the war. Neither townspeople nor low-ranking soldiers are permitted to enter.
-- **12526**: I've been alert the entire time. How did he get in there...?
-- **12631**: That child crawled in through the ventilation shaft!? Well, at least my pay won't suffer this time...
-- **12666**: Who would've thought that the music shop owner belonged to some secret mercenary organization...?
-- **12747**: How could Chairman Pale Eagle be a suspect in the assassination case? What is this nation coming to?
-- **13000**: If you're looking for Senator Karst, he's already left for his meeting with Chairman Pale Eagle at Zegham Hill in North Gustaberg.
-- **13001**: Terrible news! Five Moons has broken out of jail!
-- **13002**: I hate to imagine what would happen if we don't find him before the military police do. We're counting on you, Detective <Player>!
-- **13059**: If you're looking for the Mythril Musketeers, they've left to see to the deployment of the Special Ops crew. The captain is expecting you at the Ruhotz Silvermines, so off you go now.
-- **13152**: I've never seen Captain Klara in such a run-down state before. I hope it's nothing serious...
-- **13188**: So, Darksteel Hurricane is responsible for the serial killings...
-- **13189**: <Player>, it's fallen to you and the Mythril Musketeers once again to bring him to justice before any more lives are lost!
-- **13190**: You've already been briefed by Nicolaus, correct? Talk to the Goblin, Blatherix, and see if you can glean anything on the whereabouts of our suspect.
-- **13193**: I hear you're taking part in the large-scale manhunt for Darksteel Hurricane out at the Vunkerl Inlet. You'd better keep your eyes peeled and your ears open if want to come back with your limbs intact--errr...I mean, you be careful out there, <Player>!
-- **13194**: So the intelligence provided by that Goblin--Limpears, was it?--proved to be the real deal. If you run into the little fella again, tell him I apologize for my churlishness the other day.
-- **13326**: You're looking for Five Moons and Nicolaus? The two of them departed for the Vunkerl Inlet a short while ago in utter silence. I wonder why they'd want to go back there...
-- **13327**: Oh, hello there, <Player>. Is there something I can help you with?
-- **13328**: Nicolaus has asked you to fetch $6, you say?
-- **13329**: Well, you're in luck, because I was issued one of these babies just yesterday for use in riot control. You can have it, as long as you promise to think of your friend Gentle Tiger when tossing it into an unsuspecting swarm of hostiles.
-- **13330**: Don't keep Nicolaus waiting for the $3, now. Off you go.
-- **13331**: What? You want another $3? I suppose I could give you my spare, but then, how am I supposed to keep myself entertained during those long, tedious night shifts? <Sigh>... Alright, alright! I'll let you have it! Just stop staring at me like that!
-- **13391**: <Player>! You're the Republic's only hope! Please don't abandon us in this hour of need!
-- **13508**: Nicolaus and Five Moons have already left for Beadeaux. Weren't you going to join them?
-- **13509**: Your comrades just left for the Eldieme Necropolis. Said they had urgent business with Captain Herbert?
-- **13510**: Nicolaus said he and Five Moons were headed for Beaucedine! What errand calls them to such a dangerous place?
-- **13511**: What? You're going too!? Take care of yourself, <Player>. The monsters prowling that Goddess-forsaken glacier are something fierce!
-- **13512**: How can you just stroll around here while Zeid rots away in Benedikt Watchtower? Have a heart, <Player>!
-- **13513**: The President--no, the whole Republic--is counting on you, <Player>. You must make for Xarcabard!
-- **13514**: What!? You've lost your $3? I'd expected better of you, <Player>!
-- **13515**: If it were me, sure, I'm dropping and fumbling things all the time--why do you think I'm still a doorman after all these years?--but you... Anyway, here's a spare copy for you. Try to hold on to this one!
-- **13516**: We may have driven the beastmen back, but their advance will not be stayed so easily. Stay wary, <Player>!
-- **13539**: You're still here, <Player>? Zeid and the others have already left for Castle Zvahl.
-- **13540**: If only I could join you! Why, I'd have that Shadow Lord crying for mercy before he could so much as raise that twisted, towering blade of his...sharp enough to, uh...cleave a full-grown Galka c-clean in... Er, ah...on second thought, never mind that. Safe travels!
-- **13572**: With the Mythril Musketeers back in action, the Republic truly has nothing to fear!
-- **13573**: I was holdin' out that my efforts might've warranted a decoration from the President as well. Hey, keepin' this door here safe from the beastman onslaught isn't easy, you know! Ah, well. There's always next time.
-- **14773**: What's that little bundle you've got there? $6? Never heard of it. Don't know, don't care.
-- **14774**: <Player>! Or should I say, "Mythril Musketeer Zero"! It's good to see you looking so well.
+- **12005**: They're going to do more than cut my pay for letting that informant slip through a security lockdown...
+- **12006**: You! Don't think you'll pass by me twice!
+- **12206**: Has the professor been located?
+- **12207**: What was that about Rolanberry...? And Pashhow...?
+- **12345**: The Metalworks have been placed under the jurisdiction of the military in order to develop and produce arms for the war. Neither townspeople nor low-ranking soldiers are permitted to enter.
+- **12527**: I've been alert the entire time. How did he get in there...?
+- **12632**: That child crawled in through the ventilation shaft!? Well, at least my pay won't suffer this time...
+- **12667**: Who would've thought that the music shop owner belonged to some secret mercenary organization...?
+- **12748**: How could Chairman Pale Eagle be a suspect in the assassination case? What is this nation coming to?
+- **13001**: If you're looking for Senator Karst, he's already left for his meeting with Chairman Pale Eagle at Zegham Hill in North Gustaberg.
+- **13002**: Terrible news! Five Moons has broken out of jail!
+- **13003**: I hate to imagine what would happen if we don't find him before the military police do. We're counting on you, Detective <Player>!
+- **13060**: If you're looking for the Mythril Musketeers, they've left to see to the deployment of the Special Ops crew. The captain is expecting you at the Ruhotz Silvermines, so off you go now.
+- **13153**: I've never seen Captain Klara in such a run-down state before. I hope it's nothing serious...
+- **13189**: So, Darksteel Hurricane is responsible for the serial killings...
+- **13190**: <Player>, it's fallen to you and the Mythril Musketeers once again to bring him to justice before any more lives are lost!
+- **13191**: You've already been briefed by Nicolaus, correct? Talk to the Goblin, Blatherix, and see if you can glean anything on the whereabouts of our suspect.
+- **13194**: I hear you're taking part in the large-scale manhunt for Darksteel Hurricane out at the Vunkerl Inlet. You'd better keep your eyes peeled and your ears open if want to come back with your limbs intact--errr...I mean, you be careful out there, <Player>!
+- **13195**: So the intelligence provided by that Goblin--Limpears, was it?--proved to be the real deal. If you run into the little fella again, tell him I apologize for my churlishness the other day.
+- **13327**: You're looking for Five Moons and Nicolaus? The two of them departed for the Vunkerl Inlet a short while ago in utter silence. I wonder why they'd want to go back there...
+- **13328**: Oh, hello there, <Player>. Is there something I can help you with?
+- **13329**: Nicolaus has asked you to fetch $6, you say?
+- **13330**: Well, you're in luck, because I was issued one of these babies just yesterday for use in riot control. You can have it, as long as you promise to think of your friend Gentle Tiger when tossing it into an unsuspecting swarm of hostiles.
+- **13331**: Don't keep Nicolaus waiting for the $3, now. Off you go.
+- **13332**: What? You want another $3? I suppose I could give you my spare, but then, how am I supposed to keep myself entertained during those long, tedious night shifts? <Sigh>... Alright, alright! I'll let you have it! Just stop staring at me like that!
+- **13392**: <Player>! You're the Republic's only hope! Please don't abandon us in this hour of need!
+- **13509**: Nicolaus and Five Moons have already left for Beadeaux. Weren't you going to join them?
+- **13510**: Your comrades just left for the Eldieme Necropolis. Said they had urgent business with Captain Herbert?
+- **13511**: Nicolaus said he and Five Moons were headed for Beaucedine! What errand calls them to such a dangerous place?
+- **13512**: What? You're going too!? Take care of yourself, <Player>. The monsters prowling that Goddess-forsaken glacier are something fierce!
+- **13513**: How can you just stroll around here while Zeid rots away in Benedikt Watchtower? Have a heart, <Player>!
+- **13514**: The President--no, the whole Republic--is counting on you, <Player>. You must make for Xarcabard!
+- **13515**: What!? You've lost your $3? I'd expected better of you, <Player>!
+- **13516**: If it were me, sure, I'm dropping and fumbling things all the time--why do you think I'm still a doorman after all these years?--but you... Anyway, here's a spare copy for you. Try to hold on to this one!
+- **13517**: We may have driven the beastmen back, but their advance will not be stayed so easily. Stay wary, <Player>!
+- **13540**: You're still here, <Player>? Zeid and the others have already left for Castle Zvahl.
+- **13541**: If only I could join you! Why, I'd have that Shadow Lord crying for mercy before he could so much as raise that twisted, towering blade of his...sharp enough to, uh...cleave a full-grown Galka c-clean in... Er, ah...on second thought, never mind that. Safe travels!
+- **13573**: With the Mythril Musketeers back in action, the Republic truly has nothing to fear!
+- **13574**: I was holdin' out that my efforts might've warranted a decoration from the President as well. Hey, keepin' this door here safe from the beastman onslaught isn't easy, you know! Ah, well. There's always next time.
+- **14774**: What's that little bundle you've got there? $6? Never heard of it. Don't know, don't care.
+- **14775**: <Player>! Or should I say, "Mythril Musketeer Zero"! It's good to see you looking so well.
 
 ## Events
 
@@ -251,7 +251,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12344*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12345*)
     → "The Metalworks have been placed under the jurisdiction of the military in order to develop and produce arms for the war. Neither townspeople nor low-ranking soldiers are permitted to enter."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001C [0x21] END_EVENT
@@ -304,14 +304,14 @@
 ```
   0: 0x001F [0x6E] Gentle Tiger (ID: 17134039/0x010571D7) uses emote 19*
   1: 0x0026 [0x99] Wait for Gentle Tiger (ID: 17134039/0x010571D7) animation to complete
-  2: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12004*)
+  2: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=12005*)
     → "They're going to do more than cut my pay for letting that informant slip through a security lockdown..."
   3: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x002F [0x1E] EventEntity looks at LocalPlayer and starts talking
   5: 0x0034 [0x1C] WAIT(30* ticks)
   6: 0x0037 [0x6E] Gentle Tiger (ID: 17134039/0x010571D7) uses emote 0*
   7: 0x003E [0x99] Wait for Gentle Tiger (ID: 17134039/0x010571D7) animation to complete
-  8: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=12005*)
+  8: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=12006*)
     → "You! Don't think you'll pass by me twice!"
   9: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0047 [0x21] END_EVENT
@@ -364,7 +364,7 @@
   0: 0x004A [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x004F [0x1C] WAIT(30* ticks)
   2: 0x0052 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=12526*)
+  3: 0x0061 [0x1D] PRINT_EVENT_MESSAGE(message_id=12527*)
     → "I've been alert the entire time. How did he get in there...?"
   4: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0065 [0x21] END_EVENT
@@ -417,7 +417,7 @@
   0: 0x0068 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x006D [0x1C] WAIT(30* ticks)
   2: 0x0070 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12631*)
+  3: 0x007F [0x1D] PRINT_EVENT_MESSAGE(message_id=12632*)
     → "That child crawled in through the ventilation shaft!? Well, at least my pay won't suffer this time..."
   4: 0x0082 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0083 [0x21] END_EVENT
@@ -468,7 +468,7 @@
 ```
   0: 0x0086 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x008B [0x1C] WAIT(30* ticks)
-  2: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=12666*)
+  2: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=12667*)
     → "Who would've thought that the music shop owner belonged to some secret mercenary organization...?"
   3: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0092 [0x21] END_EVENT
@@ -521,7 +521,7 @@
   0: 0x0095 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x009A [0x1C] WAIT(30* ticks)
   2: 0x009D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12747*)
+  3: 0x00AC [0x1D] PRINT_EVENT_MESSAGE(message_id=12748*)
     → "How could Chairman Pale Eagle be a suspect in the assassination case? What is this nation coming to?"
   4: 0x00AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00B0 [0x21] END_EVENT
@@ -572,7 +572,7 @@
 ```
   0: 0x00B3 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00B8 [0x1C] WAIT(30* ticks)
-  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13000*)
+  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13001*)
     → "If you're looking for Senator Karst, he's already left for his meeting with Chairman Pale Eagle at Zegham Hill in North Gustaberg."
   3: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00BF [0x21] END_EVENT
@@ -603,10 +603,10 @@
   0: 0x00C1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00C6 [0x1C] WAIT(30* ticks)
   2: 0x00C9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13001*)
+  3: 0x00D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13002*)
     → "Terrible news! Five Moons has broken out of jail!"
   4: 0x00DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=13002*)
+  5: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=13003*)
     → "I hate to imagine what would happen if we don't find him before the military police do. We're counting on you, Detective <Player>!"
   6: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00E0 [0x21] END_EVENT
@@ -636,7 +636,7 @@
   0: 0x00E2 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00E7 [0x1C] WAIT(30* ticks)
   2: 0x00EA [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13059*)
+  3: 0x00F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=13060*)
     → "If you're looking for the Mythril Musketeers, they've left to see to the deployment of the Special Ops crew. The captain is expecting you at the Ruhotz Silvermines, so off you go now."
   4: 0x00FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00FD [0x21] END_EVENT
@@ -710,7 +710,7 @@
   0: 0x0101 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0106 [0x1C] WAIT(30* ticks)
   2: 0x0109 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Gentle Tiger (ID: 17134039/0x010571D7), Gentle Tiger (ID: 17134039/0x010571D7)], work=69*
-  3: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=13152*)
+  3: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=13153*)
     → "I've never seen Captain Klara in such a run-down state before. I hope it's nothing serious..."
   4: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x011C [0x21] END_EVENT
@@ -764,10 +764,10 @@
   1: 0x0120 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0126 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=12205*)
+  4: 0x012B [0x1D] PRINT_EVENT_MESSAGE(message_id=12206*)
     → "Has the professor been located?"
   5: 0x012E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=12206*)
+  6: 0x012F [0x1D] PRINT_EVENT_MESSAGE(message_id=12207*)
     → "What was that about Rolanberry...? And Pashhow...?"
   7: 0x0132 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0133 [0x21] END_EVENT
@@ -819,11 +819,11 @@
 ```
   0: 0x0136 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x013B [0x1C] WAIT(30* ticks)
-  2: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=13188*)
+  2: 0x013E [0x1D] PRINT_EVENT_MESSAGE(message_id=13189*)
     → "So, Darksteel Hurricane is responsible for the serial killings..."
   3: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0142 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  5: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=13189*)
+  5: 0x0151 [0x1D] PRINT_EVENT_MESSAGE(message_id=13190*)
     → "<Player>, it's fallen to you and the Mythril Musketeers once again to bring him to justice before any more lives are lost!"
   6: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0155 [0x21] END_EVENT
@@ -854,7 +854,7 @@
   0: 0x0157 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x015C [0x1C] WAIT(30* ticks)
   2: 0x015F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=13190*)
+  3: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=13191*)
     → "You've already been briefed by Nicolaus, correct? Talk to the Goblin, Blatherix, and see if you can glean anything on the whereabouts of our suspect."
   4: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0172 [0x21] END_EVENT
@@ -885,7 +885,7 @@
   0: 0x0174 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0179 [0x1C] WAIT(30* ticks)
   2: 0x017C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=13193*)
+  3: 0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=13194*)
     → "I hear you're taking part in the large-scale manhunt for Darksteel Hurricane out at the Vunkerl Inlet. You'd better keep your eyes peeled and your ears open if want to come back with your limbs intact--errr...I mean, you be careful out there, <Player>!"
   4: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x018F [0x21] END_EVENT
@@ -915,7 +915,7 @@
   0: 0x0191 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0196 [0x1C] WAIT(30* ticks)
   2: 0x0199 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13194*)
+  3: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13195*)
     → "So the intelligence provided by that Goblin--Limpears, was it?--proved to be the real deal. If you run into the little fella again, tell him I apologize for my churlishness the other day."
   4: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01AC [0x21] END_EVENT
@@ -968,7 +968,7 @@
   0: 0x01AF [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B4 [0x1C] WAIT(30* ticks)
   2: 0x01B7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
+  3: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
     → "You're looking for Five Moons and Nicolaus? The two of them departed for the Vunkerl Inlet a short while ago in utter silence. I wonder why they'd want to go back there..."
   4: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01CA [0x21] END_EVENT
@@ -1002,18 +1002,18 @@
   0: 0x01CC [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x01CD [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x01D2 [0x1C] WAIT(30* ticks)
-  3: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
+  3: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13328*)
     → "Oh, hello there, <Player>. Is there something I can help you with?"
   4: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   6: 0x01E8 [0x03] Work_Zone[2] = 1069*
-  7: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13328*)
+  7: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13329*)
     → "Nicolaus has asked you to fetch $6, you say?"
   8: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01F1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=69*
  10: 0x0200 [0x6E] EventEntity uses emote 0*
  11: 0x0207 [0x99] Wait for EventEntity animation to complete
- 12: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=13329*)
+ 12: 0x020C [0x1D] PRINT_EVENT_MESSAGE(message_id=13330*)
     → "Well, you're in luck, because I was issued one of these babies just yesterday for use in riot control. You can have it, as long as you promise to think of your friend Gentle Tiger when tossing it into an unsuspecting swarm of hostiles."
  13: 0x020F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0210 [0x21] END_EVENT
@@ -1045,7 +1045,7 @@
   1: 0x0217 [0x1C] WAIT(30* ticks)
   2: 0x021A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   3: 0x0229 [0x03] Work_Zone[2] = 1069*
-  4: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=13330*)
+  4: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=13331*)
     → "Don't keep Nicolaus waiting for the $3, now. Off you go."
   5: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0232 [0x21] END_EVENT
@@ -1078,7 +1078,7 @@
   2: 0x023A [0x1C] WAIT(30* ticks)
   3: 0x023D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   4: 0x024C [0x03] Work_Zone[2] = 1069*
-  5: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=13331*)
+  5: 0x0251 [0x1D] PRINT_EVENT_MESSAGE(message_id=13332*)
     → "What? You want another $3? I suppose I could give you my spare, but then, how am I supposed to keep myself entertained during those long, tedious night shifts? <Sigh>... Alright, alright! I'll let you have it! Just stop staring at me like that!"
   6: 0x0254 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0255 [0x21] END_EVENT
@@ -1131,7 +1131,7 @@
   0: 0x0258 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x025D [0x1C] WAIT(30* ticks)
   2: 0x0260 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=13391*)
+  3: 0x026F [0x1D] PRINT_EVENT_MESSAGE(message_id=13392*)
     → "<Player>! You're the Republic's only hope! Please don't abandon us in this hour of need!"
   4: 0x0272 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0273 [0x21] END_EVENT
@@ -1184,7 +1184,7 @@
   0: 0x0276 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x027B [0x1C] WAIT(30* ticks)
   2: 0x027E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=13508*)
+  3: 0x028D [0x1D] PRINT_EVENT_MESSAGE(message_id=13509*)
     → "Nicolaus and Five Moons have already left for Beadeaux. Weren't you going to join them?"
   4: 0x0290 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0291 [0x21] END_EVENT
@@ -1214,7 +1214,7 @@
   0: 0x0293 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0298 [0x1C] WAIT(30* ticks)
   2: 0x029B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13509*)
+  3: 0x02AA [0x1D] PRINT_EVENT_MESSAGE(message_id=13510*)
     → "Your comrades just left for the Eldieme Necropolis. Said they had urgent business with Captain Herbert?"
   4: 0x02AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02AE [0x21] END_EVENT
@@ -1245,10 +1245,10 @@
   0: 0x02B0 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02B5 [0x1C] WAIT(30* ticks)
   2: 0x02B8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13510*)
+  3: 0x02C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13511*)
     → "Nicolaus said he and Five Moons were headed for Beaucedine! What errand calls them to such a dangerous place?"
   4: 0x02CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13511*)
+  5: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=13512*)
     → "What? You're going too!? Take care of yourself, <Player>. The monsters prowling that Goddess-forsaken glacier are something fierce!"
   6: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02CF [0x21] END_EVENT
@@ -1278,7 +1278,7 @@
   0: 0x02D1 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02D6 [0x1C] WAIT(30* ticks)
   2: 0x02D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13512*)
+  3: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13513*)
     → "How can you just stroll around here while Zeid rots away in Benedikt Watchtower? Have a heart, <Player>!"
   4: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02EC [0x21] END_EVENT
@@ -1309,7 +1309,7 @@
   0: 0x02EE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x02F3 [0x1C] WAIT(30* ticks)
   2: 0x02F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=13513*)
+  3: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=13514*)
     → "The President--no, the whole Republic--is counting on you, <Player>. You must make for Xarcabard!"
   4: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0309 [0x21] END_EVENT
@@ -1340,7 +1340,7 @@
   0: 0x030B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0310 [0x1C] WAIT(30* ticks)
   2: 0x0313 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=13516*)
+  3: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=13517*)
     → "We may have driven the beastmen back, but their advance will not be stayed so easily. Stay wary, <Player>!"
   4: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0326 [0x21] END_EVENT
@@ -1373,10 +1373,10 @@
   2: 0x032E [0x1C] WAIT(30* ticks)
   3: 0x0331 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
   4: 0x0340 [0x03] Work_Zone[2] = 1172*
-  5: 0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=13514*)
+  5: 0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=13515*)
     → "What!? You've lost your $3? I'd expected better of you, <Player>!"
   6: 0x0348 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=13515*)
+  7: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=13516*)
     → "If it were me, sure, I'm dropping and fumbling things all the time--why do you think I'm still a doorman after all these years?--but you... Anyway, here's a spare copy for you. Try to hold on to this one!"
   8: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x034D [0x21] END_EVENT
@@ -1407,10 +1407,10 @@
   0: 0x034F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0354 [0x1C] WAIT(30* ticks)
   2: 0x0357 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=13539*)
+  3: 0x0366 [0x1D] PRINT_EVENT_MESSAGE(message_id=13540*)
     → "You're still here, <Player>? Zeid and the others have already left for Castle Zvahl."
   4: 0x0369 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=13540*)
+  5: 0x036A [0x1D] PRINT_EVENT_MESSAGE(message_id=13541*)
     → "If only I could join you! Why, I'd have that Shadow Lord crying for mercy before he could so much as raise that twisted, towering blade of his...sharp enough to, uh...cleave a full-grown Galka c-clean in... Er, ah...on second thought, never mind that. Safe travels!"
   6: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x036E [0x21] END_EVENT
@@ -1487,10 +1487,10 @@
   0: 0x037E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0383 [0x1C] WAIT(30* ticks)
   2: 0x0386 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=13572*)
+  3: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=13573*)
     → "With the Mythril Musketeers back in action, the Republic truly has nothing to fear!"
   4: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=13573*)
+  5: 0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=13574*)
     → "I was holdin' out that my efforts might've warranted a decoration from the President as well. Hey, keepin' this door here safe from the beastman onslaught isn't easy, you know! Ah, well. There's always next time."
   6: 0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x039D [0x21] END_EVENT
@@ -2216,7 +2216,7 @@
   1: 0x0540 [0x1C] WAIT(30* ticks)
   2: 0x0543 [0x03] Work_Zone[3] = 2510*
   3: 0x0548 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  4: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=14773*)
+  4: 0x0557 [0x1D] PRINT_EVENT_MESSAGE(message_id=14774*)
     → "What's that little bundle you've got there? $6? Never heard of it. Don't know, don't care."
   5: 0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x055B [0x21] END_EVENT
@@ -2247,7 +2247,7 @@
   0: 0x055D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0562 [0x1C] WAIT(30* ticks)
   2: 0x0565 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=69*
-  3: 0x0574 [0x1D] PRINT_EVENT_MESSAGE(message_id=14774*)
+  3: 0x0574 [0x1D] PRINT_EVENT_MESSAGE(message_id=14775*)
     → "<Player>! Or should I say, "Mythril Musketeer Zero"! It's good to see you looking so well."
   4: 0x0577 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0578 [0x21] END_EVENT

@@ -27,40 +27,40 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x2330      |        9008 |
+|       1 | 0x2331      |        9009 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x2331      |        9009 |
-|       4 | 0x2332      |        9010 |
-|       5 | 0x2333      |        9011 |
-|       6 | 0x2334      |        9012 |
-|       7 | 0x2335      |        9013 |
-|       8 | 0x2336      |        9014 |
-|       9 | 0x2340      |        9024 |
+|       3 | 0x2332      |        9010 |
+|       4 | 0x2333      |        9011 |
+|       5 | 0x2334      |        9012 |
+|       6 | 0x2335      |        9013 |
+|       7 | 0x2336      |        9014 |
+|       8 | 0x2337      |        9015 |
+|       9 | 0x2341      |        9025 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x233F      |        9023 |
-|      12 | 0x2348      |        9032 |
-|      13 | 0x233E      |        9022 |
+|      11 | 0x2340      |        9024 |
+|      12 | 0x2349      |        9033 |
+|      13 | 0x233F      |        9023 |
 |      14 | 0x0008      |           8 |
 |      15 | 0x0010      |          16 |
 |      16 | 0x0013      |          19 |
 |      17 | 0x0007      |           7 |
 |      18 | 0x000F      |          15 |
-|      19 | 0x234D      |        9037 |
+|      19 | 0x234E      |        9038 |
 |      20 | 0x0012      |          18 |
-|      21 | 0x2337      |        9015 |
-|      22 | 0x2338      |        9016 |
+|      21 | 0x2338      |        9016 |
+|      22 | 0x2339      |        9017 |
 |      23 | 0x0014      |          20 |
 |      24 | 0x0003      |           3 |
 |      25 | 0x0004      |           4 |
 |      26 | 0x0005      |           5 |
-|      27 | 0x2339      |        9017 |
+|      27 | 0x233A      |        9018 |
 |      28 | 0x034C      |         844 |
 |      29 | 0x0FE0      |        4064 |
 |      30 | 0x000A      |          10 |
-|      31 | 0x233A      |        9018 |
-|      32 | 0x233B      |        9019 |
-|      33 | 0x233C      |        9020 |
-|      34 | 0x233D      |        9021 |
+|      31 | 0x233B      |        9019 |
+|      32 | 0x233C      |        9020 |
+|      33 | 0x233D      |        9021 |
+|      34 | 0x233E      |        9022 |
 |      35 | 0x0345      |         837 |
 |      36 | 0x0FE1      |        4065 |
 |      37 | 0x0456      |        1110 |
@@ -81,15 +81,15 @@
 |      52 | 0x0FE8      |        4072 |
 |      53 | 0x2218      |        8728 |
 |      54 | 0x0FE9      |        4073 |
-|      55 | 0x2341      |        9025 |
+|      55 | 0x2342      |        9026 |
 |      56 | 0x0548      |        1352 |
 |      57 | 0x0549      |        1353 |
-|      58 | 0x2342      |        9026 |
-|      59 | 0x2343      |        9027 |
-|      60 | 0x2344      |        9028 |
-|      61 | 0x2345      |        9029 |
-|      62 | 0x2347      |        9031 |
-|      63 | 0x2346      |        9030 |
+|      58 | 0x2343      |        9027 |
+|      59 | 0x2344      |        9028 |
+|      60 | 0x2345      |        9029 |
+|      61 | 0x2346      |        9030 |
+|      62 | 0x2348      |        9032 |
+|      63 | 0x2347      |        9031 |
 |      64 | 0x054B      |        1355 |
 |      65 | 0x054C      |        1356 |
 |      66 | 0x0F89      |        3977 |
@@ -99,24 +99,24 @@
 |      70 | 0x0F8B      |        3979 |
 |      71 | 0x0015      |          21 |
 |      72 | 0x0016      |          22 |
-|      73 | 0x2349      |        9033 |
+|      73 | 0x234A      |        9034 |
 |      74 | 0x232F      |        9007 |
-|      75 | 0x234A      |        9034 |
-|      76 | 0x234B      |        9035 |
+|      75 | 0x234B      |        9035 |
+|      76 | 0x234C      |        9036 |
 |      77 | 0x2366      |        9062 |
 |      78 | 0x0019      |          25 |
 |      79 | 0x232D      |        9005 |
 |      80 | 0x2368      |        9064 |
 |      81 | 0x232A      |        9002 |
-|      82 | 0x234C      |        9036 |
-|      83 | 0x234E      |        9038 |
+|      82 | 0x234D      |        9037 |
+|      83 | 0x234F      |        9039 |
 |      84 | 0x0017      |          23 |
 |      85 | 0x0018      |          24 |
 |      86 | 0x001F      |          31 |
-|      87 | 0x234F      |        9039 |
-|      88 | 0x2350      |        9040 |
-|      89 | 0x2351      |        9041 |
-|      90 | 0x2352      |        9042 |
+|      87 | 0x2350      |        9040 |
+|      88 | 0x2351      |        9041 |
+|      89 | 0x2352      |        9042 |
+|      90 | 0x2353      |        9043 |
 |      91 | 0x3B79      |       15225 |
 |      92 | 0x3B7A      |       15226 |
 |      93 | 0x3B7B      |       15227 |
@@ -1854,41 +1854,41 @@
 
 ## String References
 
-- **9008**: Sagheera has never mentioned anyone who fits your description. How about you follow the proper protocol and speak to her first?
-- **9009**: Ah, so you must be <Player>. Sagheera becomes as lyrical as a traveling minstrel when she sings your praises.
-- **9010**: So you are the one that has the veritable cellar full of relic and artifact equipment? [No wonder I hear her hit the high notes when she is all alone in her room./To be honest, her songs do not nearly do you justice, dear.]
-- **9011**: That aside, I have been dispatched to provide you adventurers with a slightly different type of crafting service.
-- **9012**: We have scoured the land for able smiths and weavers, leaving no piece of slag or thread of cloth unaccounted for. With their unparalleled skills, we hope to extricate every last onz of potential that lays dormant within those superior examples of finery.
-- **9013**: Sagheera is a trusted affiliate of ours, so do not worry about articles she has repaired or revived for you in the past. They are covered as well.
-- **9014**: Have I piqued your interest? Then why not peruse the list of restoration plans we have on offer?
-- **9015**: What equipment are you interested in? [None./Artifact Equipment./Relic Equipment./Empyrean Equipment./Chapters of Rem's Tale.]
-- **9016**: Which set? [None./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]
-- **9017**: Which item? [None. Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]
-- **9018**: In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3.
-- **9019**: ...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation.
-- **9020**: I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment.
-- **9021**: Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that.
-- **9022**: Thanks for actually bringing what I told you to. You cannot imagine how many imbeciles fail to listen to directions. Also remember that art takes time to create, so do not come yelling in my face if your gear is not ready yet.
-- **9023**: Sorry, but our expert team of practitioners is still taking the utmost care in reconditioning your outfit. It shall be done soon enough, though.
-- **9024**: Sorry for the wait, but your equipment is finally in. Are you not relieved that you did not rush our genius?
-- **9025**: Which set? [None./Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Attire./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Armor./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire.]
-- **9026**: This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3.
-- **9027**: Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service.
-- **9028**: As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment.
-- **9029**: Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead.
-- **9030**: If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 .
-- **9031**: Having $12 means that I will accept your request with the payment of $8 $0$4 and $10.
-- **9032**: Or perhaps you would rather check upon the various plans we offer for our phenomenal work? Well then, be my guest.
-- **9033**: Which set? [None./Boii Armor./Bhikku Attire./Ebers Attire./Wicce Attire./Lethargy Armor./Skulker's Armor./Chevalier's Armor./Heathen's Armor/Nukumi Armor./Fili Attire./Amini Attire./Kasuga Armor./Hattori Garb./Peltast's Armor./Beckoner's Attire./Hashishin Attire./Chasseur's Attire./Karagoz Attire./Maculele Attire./Arbatel Attire./Azimuth Attire./Erilaz Attire.]
-- **9034**: The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0.
-- **9035**: And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 .
-- **9036**: Say, aren't you getting tired of lugging around all those chapters of Rem's tale? I'll be happy to hold onto them for you until you need them.
-- **9037**: $1 $0 ? Got it. That makes for a total of $2 that I am holding for you.
-- **9038**: Interested in what I'm holding for you? Let's take a look.
-- **9039**: View which item? [None./#. ($10 held)/$1. ($11 held)/$2. ($12 held)/$3. ($13 held)/$4. ($14 held)/$5. ($15 held)/$6. ($16 held)/$7. ($17 held)/$8. ($18 held)/$9. ($19 held)]
-- **9040**: How many $0 would you like me to return?
-- **9041**: Enter a number between 0 and $0. 0 will return to the previous selection.
-- **9042**: Here you go. $1 $0 .
+- **9009**: Sagheera has never mentioned anyone who fits your description. How about you follow the proper protocol and speak to her first?
+- **9010**: Ah, so you must be <Player>. Sagheera becomes as lyrical as a traveling minstrel when she sings your praises.
+- **9011**: So you are the one that has the veritable cellar full of relic and artifact equipment? [No wonder I hear her hit the high notes when she is all alone in her room./To be honest, her songs do not nearly do you justice, dear.]
+- **9012**: That aside, I have been dispatched to provide you adventurers with a slightly different type of crafting service.
+- **9013**: We have scoured the land for able smiths and weavers, leaving no piece of slag or thread of cloth unaccounted for. With their unparalleled skills, we hope to extricate every last onz of potential that lays dormant within those superior examples of finery.
+- **9014**: Sagheera is a trusted affiliate of ours, so do not worry about articles she has repaired or revived for you in the past. They are covered as well.
+- **9015**: Have I piqued your interest? Then why not peruse the list of restoration plans we have on offer?
+- **9016**: What equipment are you interested in? [None./Artifact Equipment./Relic Equipment./Empyrean Equipment./Chapters of Rem's Tale.]
+- **9017**: Which set? [None./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]
+- **9018**: Which item? [None. Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]
+- **9019**: In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3.
+- **9020**: ...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation.
+- **9021**: I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment.
+- **9022**: Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that.
+- **9023**: Thanks for actually bringing what I told you to. You cannot imagine how many imbeciles fail to listen to directions. Also remember that art takes time to create, so do not come yelling in my face if your gear is not ready yet.
+- **9024**: Sorry, but our expert team of practitioners is still taking the utmost care in reconditioning your outfit. It shall be done soon enough, though.
+- **9025**: Sorry for the wait, but your equipment is finally in. Are you not relieved that you did not rush our genius?
+- **9026**: Which set? [None./Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Attire./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Armor./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire.]
+- **9027**: This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3.
+- **9028**: Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service.
+- **9029**: As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment.
+- **9030**: Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead.
+- **9031**: If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 .
+- **9032**: Having $12 means that I will accept your request with the payment of $8 $0$4 and $10.
+- **9033**: Or perhaps you would rather check upon the various plans we offer for our phenomenal work? Well then, be my guest.
+- **9034**: Which set? [None./Boii Armor./Bhikku Attire./Ebers Attire./Wicce Attire./Lethargy Armor./Skulker's Armor./Chevalier's Armor./Heathen's Armor/Nukumi Armor./Fili Attire./Amini Attire./Kasuga Armor./Hattori Garb./Peltast's Armor./Beckoner's Attire./Hashishin Attire./Chasseur's Attire./Karagoz Attire./Maculele Attire./Arbatel Attire./Azimuth Attire./Erilaz Attire.]
+- **9035**: The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0.
+- **9036**: And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 .
+- **9037**: Say, aren't you getting tired of lugging around all those chapters of Rem's tale? I'll be happy to hold onto them for you until you need them.
+- **9038**: $1 $0 ? Got it. That makes for a total of $2 that I am holding for you.
+- **9039**: Interested in what I'm holding for you? Let's take a look.
+- **9040**: View which item? [None./#. ($10 held)/$1. ($11 held)/$2. ($12 held)/$3. ($13 held)/$4. ($14 held)/$5. ($15 held)/$6. ($16 held)/$7. ($17 held)/$8. ($18 held)/$9. ($19 held)]
+- **9041**: How many $0 would you like me to return?
+- **9042**: Enter a number between 0 and $0. 0 will return to the previous selection.
+- **9043**: Here you go. $1 $0 .
 
 ## Events
 
@@ -1935,7 +1935,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(1* ticks)
-  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9008*)
+  2: 0x0009 [0x1D] PRINT_EVENT_MESSAGE(message_id=9009*)
     → "Sagheera has never mentioned anyone who fits your description. How about you follow the proper protocol and speak to her first?"
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -1991,22 +1991,22 @@
  18: 0x0068 [0x1E] EventEntity looks at LocalPlayer and starts talking
  19: 0x006D [0x1C] WAIT(1* ticks)
  20: 0x0070 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x008C
- 21: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9009*)
+ 21: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
     → "Ah, so you must be <Player>. Sagheera becomes as lyrical as a traveling minstrel when she sings your praises."
  22: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9010*)
+ 23: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
     → "So you are the one that has the veritable cellar full of relic and artifact equipment? [No wonder I hear her hit the high notes when she is all alone in her room./To be honest, her songs do not nearly do you justice, dear.]"
  24: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 25: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9011*)
+ 25: 0x0080 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
     → "That aside, I have been dispatched to provide you adventurers with a slightly different type of crafting service."
  26: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 27: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9012*)
+ 27: 0x0084 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
     → "We have scoured the land for able smiths and weavers, leaving no piece of slag or thread of cloth unaccounted for. With their unparalleled skills, we hope to extricate every last onz of potential that lays dormant within those superior examples of finery."
  28: 0x0087 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=9013*)
+ 29: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
     → "Sagheera is a trusted affiliate of ours, so do not worry about articles she has repaired or revived for you in the past. They are covered as well."
  30: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=9014*)
+ 31: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=9015*)
     → "Have I piqued your interest? Then why not peruse the list of restoration plans we have on offer?"
  32: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0090 [0x1A] CALL_SUBROUTINE(address=0x01E7)
@@ -2039,7 +2039,7 @@
   1: 0x0097 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x009C [0x1C] WAIT(1* ticks)
   3: 0x009F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-  4: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+  4: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "Sorry for the wait, but your equipment is finally in. Are you not relieved that you did not rush our genius?"
   5: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A6 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2074,7 +2074,7 @@
   2: 0x00B2 [0x1C] WAIT(1* ticks)
   3: 0x00B5 [0x03] Work_Zone[3] = 2*
   4: 0x00BA [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=Work_Zone[3], buffer2=Work_Zone[4], buffer3=Work_Zone[5])
-  5: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
+  5: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9025*)
     → "Sorry for the wait, but your equipment is finally in. Are you not relieved that you did not rush our genius?"
   6: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00C8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2119,10 +2119,10 @@
   7: 0x00F1 [0x03] ExtData[1]->WorkLocal[4] = 0*
   8: 0x00F6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   9: 0x00FB [0x1C] WAIT(1* ticks)
- 10: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
+ 10: 0x00FE [0x1D] PRINT_EVENT_MESSAGE(message_id=9024*)
     → "Sorry, but our expert team of practitioners is still taking the utmost care in reconditioning your outfit. It shall be done soon enough, though."
  11: 0x0101 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
+ 12: 0x0102 [0x1D] PRINT_EVENT_MESSAGE(message_id=9033*)
     → "Or perhaps you would rather check upon the various plans we offer for our phenomenal work? Well then, be my guest."
  13: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0106 [0x03] ExtData[1]->WorkLocal[11] = 0*
@@ -2162,7 +2162,7 @@
   0: 0x0134 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0135 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x013A [0x1C] WAIT(1* ticks)
-  3: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
+  3: 0x013D [0x1D] PRINT_EVENT_MESSAGE(message_id=9023*)
     → "Thanks for actually bringing what I told you to. You cannot imagine how many imbeciles fail to listen to directions. Also remember that art takes time to create, so do not come yelling in my face if your gear is not ready yet."
   4: 0x0140 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0141 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
@@ -2414,25 +2414,25 @@
 0F80: 10 1D 22 80 23 93 02 80  01 DE 0C 01 05 11 02 00  ..".#...........
 0F90: 10 2B 80 00 D9 0F 03 11  00 2B 80 03 02 10 07 10  .+.......+......
 0FA0: 9D 00 B3 23 03 10 08 17  03 04 10 4A 80 03 05 10  ...#.......J....
-0FB0: 03 80 03 06 10 12 80 03  07 10 2D 80 03 08 10 0E  ..........-.....
+0FB0: 01 80 03 06 10 12 80 03  07 10 2D 80 03 08 10 0E  ..........-.....
 0FC0: 80 1D 4B 80 23 1D 4C 80  23 93 02 10 1D 22 80 23  ..K.#.L.#....".#
 0FD0: 93 02 80 01 DE 0C 01 05  11 02 00 10 11 80 00 24  ...............$
 0FE0: 10 03 11 00 11 80 03 02  10 08 10 9D 00 73 24 03  .............s$.
-0FF0: 10 08 17 03 04 10 4D 80  03 05 10 03 80 03 06 10  ......M.........
+0FF0: 10 08 17 03 04 10 4D 80  03 05 10 01 80 03 06 10  ......M.........
 1000: 4E 80 03 07 10 2F 80 03  08 10 0E 80 1D 4B 80 23  N..../.......K.#
 1010: 1D 4C 80 23 93 02 10 1D  22 80 23 93 02 80 01 DE  .L.#....".#.....
 1020: 0C 01 05 11 02 00 10 0E  80 00 6F 10 03 11 00 0E  ..........o.....
 1030: 80 03 02 10 09 10 9D 00  33 25 03 10 08 17 03 04  ........3%......
-1040: 10 4F 80 03 05 10 03 80  03 06 10 12 80 03 07 10  .O..............
+1040: 10 4F 80 03 05 10 01 80  03 06 10 12 80 03 07 10  .O..............
 1050: 31 80 03 08 10 0E 80 1D  4B 80 23 1D 4C 80 23 93  1.......K.#.L.#.
 1060: 02 10 1D 22 80 23 93 02  80 01 DE 0C 01 05 11 02  ...".#..........
 1070: 00 10 32 80 00 BA 10 03  11 00 32 80 03 02 10 00  ..2.......2.....
 1080: 17 9D 00 F3 25 03 10 08  17 03 04 10 50 80 03 05  ....%.......P...
-1090: 10 03 80 03 06 10 17 80  03 07 10 34 80 03 08 10  ...........4....
+1090: 10 01 80 03 06 10 17 80  03 07 10 34 80 03 08 10  ...........4....
 10A0: 0E 80 1D 4B 80 23 1D 4C  80 23 93 02 10 1D 22 80  ...K.#.L.#....".
 10B0: 23 93 02 80 01 DE 0C 01  05 11 02 00 10 1E 80 00  #...............
 10C0: 05 11 03 11 00 1E 80 03  02 10 01 17 9D 00 B3 26  ...............&
-10D0: 03 10 08 17 03 04 10 51  80 03 05 10 03 80 03 06  .......Q........
+10D0: 03 10 08 17 03 04 10 51  80 03 05 10 01 80 03 06  .......Q........
 10E0: 10 12 80 03 07 10 36 80  03 08 10 0E 80 1D 4B 80  ......6.......K.
 10F0: 23 1D 4C 80 23 93 02 10  1D 22 80 23 93 02 80 01  #.L.#....".#....
 1100: DE 0C 01 05 11 01 22 17  02 00 10 19 80 00 22 17  ......".......".
@@ -2822,7 +2822,7 @@
  19: 0x01A9 [0x41] Work_Zone[3] = ExtData[1]->WorkLocal[20] (bits 0*-7*)
  20: 0x01B2 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[20] (bits 8*-15*)
  21: 0x01BB [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x01C7
- 22: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
+ 22: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
     → "$1 $0 ? Got it. That makes for a total of $2 that I am holding for you."
  23: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2843,7 +2843,7 @@ SUBROUTINE_01C7:
      0x01E0 [0x01] GOTO 0x01E6
      0x01E3 [0x0B] ExtData[1]->WorkLocal[10]++
      0x01E6 [0x1B] RETURN
-     0x01E7 [0x24] CREATE_DIALOG(message_id=9015*, default_option=ExtData[1]->WorkLocal[13], option_flags=ExtData[1]->WorkLocal[2])
+     0x01E7 [0x24] CREATE_DIALOG(message_id=9016*, default_option=ExtData[1]->WorkLocal[13], option_flags=ExtData[1]->WorkLocal[2])
     → "What equipment are you interested in? [None./Artifact Equipment./Relic Equipment./Empyrean Equipment./Chapters of Rem's Tale.]"
      0x01EE [0x25] WAIT_DIALOG_SELECT()
      0x01EF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FA
@@ -2851,7 +2851,7 @@ SUBROUTINE_01C7:
      0x01FA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0672
      0x0202 [0x03] ExtData[1]->WorkLocal[13] = 1*
      0x0207 [0x03] ExtData[1]->WorkLocal[1] = 0*
-     0x020C [0x24] CREATE_DIALOG(message_id=9016*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
+     0x020C [0x24] CREATE_DIALOG(message_id=9017*, default_option=ExtData[1]->WorkLocal[11], option_flags=0*)
     → "Which set? [None./Pummeler's Armor./Anchorite's Attire./Theophany Attire./Spaekona's Attire./Atrophy Armor./Pillager's Attire./Reverence Armor./Ignominy Armor./Totemic Armor./Brioso Attire./Orion Attire./Wakido Armor./Hachiya Garb./Vishap Armor./Convoker's Attire./Assimilator's Attire./Laksamana's Attire./Foire Attire./Maxixi Attire./Academic's Attire./Geomancy Attire./Runeist Attire.]"
      0x0213 [0x25] WAIT_DIALOG_SELECT()
      0x0214 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0222
@@ -2904,7 +2904,7 @@ SUBROUTINE_01C7:
      0x031A [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
      0x0321 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
      0x0328 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x032F [0x24] CREATE_DIALOG(message_id=9017*, default_option=ExtData[1]->WorkLocal[12], option_flags=ExtData[1]->WorkLocal[1])
+     0x032F [0x24] CREATE_DIALOG(message_id=9018*, default_option=ExtData[1]->WorkLocal[12], option_flags=ExtData[1]->WorkLocal[1])
     → "Which item? [None. Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]"
      0x0336 [0x25] WAIT_DIALOG_SELECT()
      0x0337 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0345
@@ -2919,17 +2919,17 @@ SUBROUTINE_01C7:
      0x036F [0x03] Work_Zone[6] = 4064*
      0x0374 [0x03] Work_Zone[9] = 5*
      0x0379 [0x03] Work_Zone_1700[0] = 10*
-     0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x037E [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0381 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0382 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0385 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0386 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0389 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x038A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0391 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2945,17 +2945,17 @@ SUBROUTINE_01C7:
      0x03C9 [0x03] Work_Zone[6] = 4065*
      0x03CE [0x03] Work_Zone[9] = 5*
      0x03D3 [0x03] Work_Zone_1700[0] = 10*
-     0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03E4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x03E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03EB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2971,17 +2971,17 @@ SUBROUTINE_01C7:
      0x0423 [0x03] Work_Zone[6] = 4066*
      0x0428 [0x03] Work_Zone[9] = 5*
      0x042D [0x03] Work_Zone_1700[0] = 10*
-     0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0436 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0439 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x043A [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x043D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x043E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0444 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0445 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -2997,17 +2997,17 @@ SUBROUTINE_01C7:
      0x047D [0x03] Work_Zone[6] = 4067*
      0x0482 [0x03] Work_Zone[9] = 5*
      0x0487 [0x03] Work_Zone_1700[0] = 10*
-     0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x048F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0490 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0493 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0494 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0497 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0498 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x049F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3023,17 +3023,17 @@ SUBROUTINE_01C7:
      0x04D7 [0x03] Work_Zone[6] = 4068*
      0x04DC [0x03] Work_Zone[9] = 5*
      0x04E1 [0x03] Work_Zone_1700[0] = 10*
-     0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x04E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x04E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x04EA [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x04ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x04EE [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x04F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04F2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x04F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x04F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x04F9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3047,14 +3047,14 @@ SUBROUTINE_01C7:
      0x0524 [0x03] Work_Zone[5] = 8720*
      0x0529 [0x03] Work_Zone[6] = 4069*
      0x052E [0x03] Work_Zone[9] = 8*
-     0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0533 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0536 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0537 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0537 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x053A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x053B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0542 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3068,14 +3068,14 @@ SUBROUTINE_01C7:
      0x056D [0x03] Work_Zone[5] = 8722*
      0x0572 [0x03] Work_Zone[6] = 4070*
      0x0577 [0x03] Work_Zone[9] = 8*
-     0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x057C [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0580 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0580 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0583 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0584 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0587 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x058A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x058B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3089,14 +3089,14 @@ SUBROUTINE_01C7:
      0x05B6 [0x03] Work_Zone[5] = 8724*
      0x05BB [0x03] Work_Zone[6] = 4071*
      0x05C0 [0x03] Work_Zone[9] = 8*
-     0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x05C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x05C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05CD [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x05D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x05D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x05D4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3110,14 +3110,14 @@ SUBROUTINE_01C7:
      0x05FF [0x03] Work_Zone[5] = 8726*
      0x0604 [0x03] Work_Zone[6] = 4072*
      0x0609 [0x03] Work_Zone[9] = 8*
-     0x060E [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x060E [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0611 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0612 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0616 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0619 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0619 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x061C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x061D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3131,14 +3131,14 @@ SUBROUTINE_01C7:
      0x0648 [0x03] Work_Zone[5] = 8728*
      0x064D [0x03] Work_Zone[6] = 4073*
      0x0652 [0x03] Work_Zone[9] = 8*
-     0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0657 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x065A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x065B [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x065E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x065F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0666 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3148,7 +3148,7 @@ SUBROUTINE_01C7:
      0x0672 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0C69
      0x067A [0x03] ExtData[1]->WorkLocal[13] = 2*
      0x067F [0x03] ExtData[1]->WorkLocal[1] = 0*
-     0x0684 [0x24] CREATE_DIALOG(message_id=9025*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
+     0x0684 [0x24] CREATE_DIALOG(message_id=9026*, default_option=ExtData[1]->WorkLocal[15], option_flags=0*)
     → "Which set? [None./Agoge Armor./Hesychast's Attire./Piety Attire./Archmage's Attire./Vitiation Attire./Plunderer's Attire./Caballarius Armor./Fallen's Armor./Ankusa Armor./Bihu Attire./Arcadian Armor./Sakonji Armor./Mochizuki Garb./Pteroslaver Armor./Glyphic Attire./Luhlaza Attire./Lanun Attire./Pitre Attire./Horos Attire./Pedagogy Attire./Bagua Attire./Futhark Attire.]"
      0x068B [0x25] WAIT_DIALOG_SELECT()
      0x068C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x069A
@@ -3191,7 +3191,7 @@ SUBROUTINE_01C7:
      0x0774 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
      0x077B [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
      0x0782 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=5*, condition_work_offset=1*)
-     0x0789 [0x24] CREATE_DIALOG(message_id=9017*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[1])
+     0x0789 [0x24] CREATE_DIALOG(message_id=9018*, default_option=ExtData[1]->WorkLocal[14], option_flags=ExtData[1]->WorkLocal[1])
     → "Which item? [None. Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]"
      0x0790 [0x25] WAIT_DIALOG_SELECT()
      0x0791 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07AD
@@ -3216,26 +3216,26 @@ SUBROUTINE_01C7:
      0x080B [0x03] Work_Zone_1700[7] = 1353*
      0x0810 [0x01] GOTO 0x0818
      0x0813 [0x03] Work_Zone_1700[7] = 0*
-     0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x0818 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3."
      0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+     0x081C [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service."
      0x081F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x0820 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment."
      0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0824 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x0824 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead."
      0x0827 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0828 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x0828 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Having $12 means that I will accept your request with the payment of $8 $0$4 and $10."
      0x082B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x082C [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 ."
      0x082F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0830 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x083A [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x083A [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x083D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x083E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3255,26 +3255,26 @@ SUBROUTINE_01C7:
      0x088D [0x9D] Work_Zone_1700[2] = 0x2023[Work_Zone_1700[8]] // Read WORD
      0x0895 [0x03] Work_Zone_1700[3] = 2*
      0x089A [0x9D] Work_Zone_1700[6] = 0x20B3[Work_Zone_1700[8]] // Read WORD
-     0x08A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x08A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3."
      0x08A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+     0x08A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service."
      0x08A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x08AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment."
      0x08AD [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x08AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead."
      0x08B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x08B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Having $12 means that I will accept your request with the payment of $8 $0$4 and $10."
      0x08B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x08B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 ."
      0x08B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08BA [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x08C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x08C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08C8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3294,26 +3294,26 @@ SUBROUTINE_01C7:
      0x0917 [0x9D] Work_Zone_1700[2] = 0x2023[Work_Zone_1700[8]] // Read WORD
      0x091F [0x03] Work_Zone_1700[3] = 2*
      0x0924 [0x9D] Work_Zone_1700[6] = 0x20E3[Work_Zone_1700[8]] // Read WORD
-     0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x092C [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3."
      0x092F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+     0x0930 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service."
      0x0933 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0934 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x0934 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment."
      0x0937 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x0938 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead."
      0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x093C [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x093C [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Having $12 means that I will accept your request with the payment of $8 $0$4 and $10."
      0x093F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0940 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x0940 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 ."
      0x0943 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0944 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x094E [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x094E [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0951 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0952 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3337,26 +3337,26 @@ SUBROUTINE_01C7:
      0x09BE [0x03] Work_Zone_1700[7] = 1356*
      0x09C3 [0x01] GOTO 0x09CB
      0x09C6 [0x03] Work_Zone_1700[7] = 0*
-     0x09CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x09CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3."
      0x09CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+     0x09CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service."
      0x09D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment."
      0x09D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x09D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead."
      0x09DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x09DB [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Having $12 means that I will accept your request with the payment of $8 $0$4 and $10."
      0x09DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x09DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x09DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 ."
      0x09E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09E3 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x09F1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3376,26 +3376,26 @@ SUBROUTINE_01C7:
      0x0A40 [0x9D] Work_Zone_1700[2] = 0x2023[Work_Zone_1700[8]] // Read WORD
      0x0A48 [0x03] Work_Zone_1700[3] = 2*
      0x0A4D [0x9D] Work_Zone_1700[6] = 0x2143[Work_Zone_1700[8]] // Read WORD
-     0x0A55 [0x1D] PRINT_EVENT_MESSAGE(message_id=9026*)
+     0x0A55 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
     → "This is by no means some drunken tailor's side project, and therefore, revitalizing your current piece into $0 requires $1, $2, and $3."
      0x0A58 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=9027*)
+     0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
     → "Depending on the condition of the $1 you donate, I will consider lowering the price on our one-of-a-kind service."
      0x0A5C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A5D [0x1D] PRINT_EVENT_MESSAGE(message_id=9028*)
+     0x0A5D [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
     → "As for the quality of your $1... If you truly covet low, low prices and bring me the best of the best, I shall be content to accept only $7 $0$4 as additional payment."
      0x0A60 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9029*)
+     0x0A61 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
     → "Should you be content with $1 that are less than the perfect but still more than worthwhile, I will ask for $8 $0$4 instead."
      0x0A64 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A65 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
+     0x0A65 [0x1D] PRINT_EVENT_MESSAGE(message_id=9032*)
     → "Having $12 means that I will accept your request with the payment of $8 $0$4 and $10."
      0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=9030*)
+     0x0A69 [0x1D] PRINT_EVENT_MESSAGE(message_id=9031*)
     → "If you are comfortable providing a mere $9--and my utter disdain for your lack of ambition--then fetch me $8 $0$4 and $11 $0$0 ."
      0x0A6C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A6D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x0A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0A77 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0A7A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0A7B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3414,14 +3414,14 @@ SUBROUTINE_01C7:
      0x0AC5 [0x03] Work_Zone_1700[7] = 1353*
      0x0ACA [0x01] GOTO 0x0AD2
      0x0ACD [0x03] Work_Zone_1700[7] = 0*
-     0x0AD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0AD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0AD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0AD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0AD6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0AD9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ADA [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x0AE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0AE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0AE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AE8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3436,14 +3436,14 @@ SUBROUTINE_01C7:
      0x0B18 [0x03] Work_Zone[6] = 4070*
      0x0B1D [0x03] Work_Zone[9] = 8*
      0x0B22 [0x9D] Work_Zone_1700[6] = 0x20B3[Work_Zone_1700[8]] // Read WORD
-     0x0B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0B2E [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0B31 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B32 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B40 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3458,14 +3458,14 @@ SUBROUTINE_01C7:
      0x0B70 [0x03] Work_Zone[6] = 4071*
      0x0B75 [0x03] Work_Zone[9] = 8*
      0x0B7A [0x9D] Work_Zone_1700[6] = 0x20E3[Work_Zone_1700[8]] // Read WORD
-     0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0B85 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0B86 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0B89 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B8A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B98 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3484,14 +3484,14 @@ SUBROUTINE_01C7:
      0x0BE2 [0x03] Work_Zone_1700[7] = 1356*
      0x0BE7 [0x01] GOTO 0x0BEF
      0x0BEA [0x03] Work_Zone_1700[7] = 0*
-     0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0BF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0BF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0BF7 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=Work_Zone_1700[7])
-     0x0C01 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0C01 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0C04 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C05 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3506,14 +3506,14 @@ SUBROUTINE_01C7:
      0x0C35 [0x03] Work_Zone[6] = 4073*
      0x0C3A [0x03] Work_Zone[9] = 8*
      0x0C3F [0x9D] Work_Zone_1700[6] = 0x2143[Work_Zone_1700[8]] // Read WORD
-     0x0C47 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0C47 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0C4A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0C4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0C4E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C4F [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=Work_Zone[2], buffer1=2*, buffer2=Work_Zone_1700[6], buffer3=0*)
-     0x0C59 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0C59 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0C5D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3530,7 +3530,7 @@ SUBROUTINE_01C7:
      0x0C97 [0x3E] IF !(ExtData[1]->WorkLocal[9] bit 10*) GOTO 0x0CAC
      0x0C9E [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=21*, condition_work_offset=1*)
      0x0CA5 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[3], bit_index_work_offset=22*, condition_work_offset=1*)
-     0x0CAC [0x24] CREATE_DIALOG(message_id=9033*, default_option=ExtData[1]->WorkLocal[16], option_flags=ExtData[1]->WorkLocal[3])
+     0x0CAC [0x24] CREATE_DIALOG(message_id=9034*, default_option=ExtData[1]->WorkLocal[16], option_flags=ExtData[1]->WorkLocal[3])
     → "Which set? [None./Boii Armor./Bhikku Attire./Ebers Attire./Wicce Attire./Lethargy Armor./Skulker's Armor./Chevalier's Armor./Heathen's Armor/Nukumi Armor./Fili Attire./Amini Attire./Kasuga Armor./Hattori Garb./Peltast's Armor./Beckoner's Attire./Hashishin Attire./Chasseur's Attire./Karagoz Attire./Maculele Attire./Arbatel Attire./Azimuth Attire./Erilaz Attire.]"
      0x0CB3 [0x25] WAIT_DIALOG_SELECT()
      0x0CB4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CC2
@@ -3575,7 +3575,7 @@ SUBROUTINE_01C7:
      0x0DA8 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=4*, condition_work_offset=1*)
      0x0DAF [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=5*, condition_work_offset=1*)
      0x0DB6 [0x07] ExtData[1]->WorkLocal[1] += ExtData[1]->WorkLocal[9]
-     0x0DBB [0x24] CREATE_DIALOG(message_id=9017*, default_option=ExtData[1]->WorkLocal[17], option_flags=ExtData[1]->WorkLocal[1])
+     0x0DBB [0x24] CREATE_DIALOG(message_id=9018*, default_option=ExtData[1]->WorkLocal[17], option_flags=ExtData[1]->WorkLocal[1])
     → "Which item? [None. Go back./#./$1./$2./$3./$4./$5./$6./$7./$8./$9.]"
      0x0DC2 [0x25] WAIT_DIALOG_SELECT()
      0x0DC3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0DD1
@@ -3590,17 +3590,17 @@ SUBROUTINE_01C7:
      0x0DFB [0x03] Work_Zone[6] = 4064*
      0x0E00 [0x03] Work_Zone[9] = 5*
      0x0E05 [0x03] Work_Zone_1700[0] = 10*
-     0x0E0A [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0E0A [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0E0D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0E0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0E11 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0E12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0E15 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E16 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0E19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0E19 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0E1C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E1D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3616,17 +3616,17 @@ SUBROUTINE_01C7:
      0x0E55 [0x03] Work_Zone[6] = 4065*
      0x0E5A [0x03] Work_Zone[9] = 5*
      0x0E5F [0x03] Work_Zone_1700[0] = 10*
-     0x0E64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0E64 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0E67 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E68 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0E68 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0E6B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0E6C [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0E6C [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0E6F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E70 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0E73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0E73 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0E76 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0E77 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3642,17 +3642,17 @@ SUBROUTINE_01C7:
      0x0EAF [0x03] Work_Zone[6] = 4066*
      0x0EB4 [0x03] Work_Zone[9] = 5*
      0x0EB9 [0x03] Work_Zone_1700[0] = 10*
-     0x0EBE [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0EBE [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0EC2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0EC5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0EC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0EC6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0EC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ECA [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0ED0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ED1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3668,17 +3668,17 @@ SUBROUTINE_01C7:
      0x0F09 [0x03] Work_Zone[6] = 4067*
      0x0F0E [0x03] Work_Zone[9] = 5*
      0x0F13 [0x03] Work_Zone_1700[0] = 10*
-     0x0F18 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0F18 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0F1B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F1C [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0F1C [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0F1F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F20 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0F20 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0F23 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F24 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0F27 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0F27 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0F2A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F2B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3694,17 +3694,17 @@ SUBROUTINE_01C7:
      0x0F63 [0x03] Work_Zone[6] = 4068*
      0x0F68 [0x03] Work_Zone[9] = 5*
      0x0F6D [0x03] Work_Zone_1700[0] = 10*
-     0x0F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9018*)
+     0x0F72 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
     → "In order to reforge your current piece into $0, you will have to come up with $1, $2, and $3."
      0x0F75 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9019*)
+     0x0F76 [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
     → "...And remember that the Tenshodo is no charity. We are going to need $7 $0$4 as compensation."
      0x0F79 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0F7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9020*)
+     0x0F7A [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
     → "I suppose it will be sufficient if you hand over $5 instead of $1, but in that case, we shall require $8 $0$4 in payment."
      0x0F7D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F7E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0F84 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0F85 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3719,14 +3719,14 @@ SUBROUTINE_01C7:
      0x0FB2 [0x03] Work_Zone[6] = 15*
      0x0FB7 [0x03] Work_Zone[7] = 4069*
      0x0FBC [0x03] Work_Zone[8] = 8*
-     0x0FC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+     0x0FC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0."
      0x0FC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0FC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
+     0x0FC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
     → "And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 ."
      0x0FC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FC9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x0FCC [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x0FCC [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x0FCF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0FD0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3741,14 +3741,14 @@ SUBROUTINE_01C7:
      0x0FFD [0x03] Work_Zone[6] = 25*
      0x1002 [0x03] Work_Zone[7] = 4070*
      0x1007 [0x03] Work_Zone[8] = 8*
-     0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+     0x100C [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0."
      0x100F [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x1010 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
+     0x1010 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
     → "And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 ."
      0x1013 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1014 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x1017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x1017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x101A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x101B [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3763,14 +3763,14 @@ SUBROUTINE_01C7:
      0x1048 [0x03] Work_Zone[6] = 15*
      0x104D [0x03] Work_Zone[7] = 4071*
      0x1052 [0x03] Work_Zone[8] = 8*
-     0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+     0x1057 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0."
      0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x105B [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
+     0x105B [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
     → "And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 ."
      0x105E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x105F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x1062 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x1062 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x1065 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1066 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3785,14 +3785,14 @@ SUBROUTINE_01C7:
      0x1093 [0x03] Work_Zone[6] = 20*
      0x1098 [0x03] Work_Zone[7] = 4072*
      0x109D [0x03] Work_Zone[8] = 8*
-     0x10A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+     0x10A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0."
      0x10A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x10A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
+     0x10A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
     → "And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 ."
      0x10A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10AA [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x10AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x10AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x10B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10B1 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3807,14 +3807,14 @@ SUBROUTINE_01C7:
      0x10DE [0x03] Work_Zone[6] = 15*
      0x10E3 [0x03] Work_Zone[7] = 4073*
      0x10E8 [0x03] Work_Zone[8] = 8*
-     0x10ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9034*)
+     0x10ED [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
     → "The reforging process requires a good deal of elbow grease and very specific materials. I require $1, $2, and $4 $0$3 to craft $0."
      0x10F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x10F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9035*)
+     0x10F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
     → "And don't think I'll give away my services for a gil and a song. I require payment in the form of $6 $0$5 ."
      0x10F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10F5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[2])
-     0x10F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9021*)
+     0x10F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9022*)
     → "Once our magnificent craftsmen have worked their magic, your previously pathetic duds should look something like that."
      0x10FB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x10FC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -3824,11 +3824,11 @@ SUBROUTINE_01C7:
      0x1108 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1722
      0x1110 [0x03] ExtData[1]->WorkLocal[13] = 4*
      0x1115 [0x02] IF !(ExtData[1]->WorkLocal[8] == 0*) GOTO 0x1124
-     0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=9036*)
+     0x111D [0x1D] PRINT_EVENT_MESSAGE(message_id=9037*)
     → "Say, aren't you getting tired of lugging around all those chapters of Rem's tale? I'll be happy to hold onto them for you until you need them."
      0x1120 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1121 [0x01] GOTO 0x171F
-     0x1124 [0x1D] PRINT_EVENT_MESSAGE(message_id=9038*)
+     0x1124 [0x1D] PRINT_EVENT_MESSAGE(message_id=9039*)
     → "Interested in what I'm holding for you? Let's take a look."
      0x1127 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1128 [0x03] Work_Zone[2] = 0*
@@ -3912,7 +3912,7 @@ SUBROUTINE_01C7:
      0x12F6 [0x01] GOTO 0x1303
      0x12F9 [0x03] Work_Zone_1700[1] = 4073*
      0x12FE [0x03] Work_Zone_1700[11] = ExtData[1]->WorkLocal[10]
-     0x1303 [0x24] CREATE_DIALOG(message_id=9039*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[4])
+     0x1303 [0x24] CREATE_DIALOG(message_id=9040*, default_option=ExtData[1]->WorkLocal[18], option_flags=ExtData[1]->WorkLocal[4])
     → "View which item? [None./#. ($10 held)/$1. ($11 held)/$2. ($12 held)/$3. ($13 held)/$4. ($14 held)/$5. ($15 held)/$6. ($16 held)/$7. ($17 held)/$8. ($18 held)/$9. ($19 held)]"
      0x130A [0x25] WAIT_DIALOG_SELECT()
      0x130B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1319
@@ -3921,11 +3921,11 @@ SUBROUTINE_01C7:
      0x1319 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1380
      0x1321 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x1326 [0x03] Work_Zone[2] = 4064*
-     0x132B [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x132B [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x132E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x132F [0x03] Work_Zone[2] = Work_Zone_1700[2]
-     0x1334 [0x48] [System] [9041*]:
+     0x1334 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x1337 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1338 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -3937,7 +3937,7 @@ SUBROUTINE_01C7:
      0x135A [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
      0x1363 [0x03] Work_Zone[3] = Work_Zone[2]
      0x1368 [0x03] Work_Zone[2] = 4064*
-     0x136D [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x136D [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x1370 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1371 [0x01] GOTO 0x1377
@@ -3948,11 +3948,11 @@ SUBROUTINE_01C7:
      0x1380 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x13E7
      0x1388 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x138D [0x03] Work_Zone[2] = 4065*
-     0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x1392 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x1395 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1396 [0x03] Work_Zone[2] = Work_Zone_1700[3]
-     0x139B [0x48] [System] [9041*]:
+     0x139B [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x139E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x139F [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -3964,7 +3964,7 @@ SUBROUTINE_01C7:
      0x13C1 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=2*)
      0x13CA [0x03] Work_Zone[3] = Work_Zone[2]
      0x13CF [0x03] Work_Zone[2] = 4065*
-     0x13D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x13D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x13D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13D8 [0x01] GOTO 0x13DE
@@ -3975,11 +3975,11 @@ SUBROUTINE_01C7:
      0x13E7 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x144E
      0x13EF [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x13F4 [0x03] Work_Zone[2] = 4066*
-     0x13F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x13F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x13FC [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x13FD [0x03] Work_Zone[2] = Work_Zone_1700[4]
-     0x1402 [0x48] [System] [9041*]:
+     0x1402 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x1405 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1406 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -3991,7 +3991,7 @@ SUBROUTINE_01C7:
      0x1428 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=3*)
      0x1431 [0x03] Work_Zone[3] = Work_Zone[2]
      0x1436 [0x03] Work_Zone[2] = 4066*
-     0x143B [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x143B [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x143E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x143F [0x01] GOTO 0x1445
@@ -4002,11 +4002,11 @@ SUBROUTINE_01C7:
      0x144E [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x14B5
      0x1456 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x145B [0x03] Work_Zone[2] = 4067*
-     0x1460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x1460 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x1463 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1464 [0x03] Work_Zone[2] = Work_Zone_1700[5]
-     0x1469 [0x48] [System] [9041*]:
+     0x1469 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x146C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x146D [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4018,7 +4018,7 @@ SUBROUTINE_01C7:
      0x148F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=4*)
      0x1498 [0x03] Work_Zone[3] = Work_Zone[2]
      0x149D [0x03] Work_Zone[2] = 4067*
-     0x14A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x14A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x14A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14A6 [0x01] GOTO 0x14AC
@@ -4029,11 +4029,11 @@ SUBROUTINE_01C7:
      0x14B5 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x151C
      0x14BD [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x14C2 [0x03] Work_Zone[2] = 4068*
-     0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x14C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x14CA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14CB [0x03] Work_Zone[2] = Work_Zone_1700[6]
-     0x14D0 [0x48] [System] [9041*]:
+     0x14D0 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x14D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x14D4 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4045,7 +4045,7 @@ SUBROUTINE_01C7:
      0x14F6 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=5*)
      0x14FF [0x03] Work_Zone[3] = Work_Zone[2]
      0x1504 [0x03] Work_Zone[2] = 4068*
-     0x1509 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x1509 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x150C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x150D [0x01] GOTO 0x1513
@@ -4056,11 +4056,11 @@ SUBROUTINE_01C7:
      0x151C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x1583
      0x1524 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x1529 [0x03] Work_Zone[2] = 4069*
-     0x152E [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x152E [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x1531 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1532 [0x03] Work_Zone[2] = Work_Zone_1700[7]
-     0x1537 [0x48] [System] [9041*]:
+     0x1537 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x153A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x153B [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4072,7 +4072,7 @@ SUBROUTINE_01C7:
      0x155D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=6*)
      0x1566 [0x03] Work_Zone[3] = Work_Zone[2]
      0x156B [0x03] Work_Zone[2] = 4069*
-     0x1570 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x1570 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x1573 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1574 [0x01] GOTO 0x157A
@@ -4083,11 +4083,11 @@ SUBROUTINE_01C7:
      0x1583 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x15EA
      0x158B [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x1590 [0x03] Work_Zone[2] = 4070*
-     0x1595 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x1595 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x1598 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1599 [0x03] Work_Zone[2] = Work_Zone_1700[8]
-     0x159E [0x48] [System] [9041*]:
+     0x159E [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x15A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15A2 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4099,7 +4099,7 @@ SUBROUTINE_01C7:
      0x15C4 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=7*)
      0x15CD [0x03] Work_Zone[3] = Work_Zone[2]
      0x15D2 [0x03] Work_Zone[2] = 4070*
-     0x15D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x15D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x15DA [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x15DB [0x01] GOTO 0x15E1
@@ -4110,11 +4110,11 @@ SUBROUTINE_01C7:
      0x15EA [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x1651
      0x15F2 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x15F7 [0x03] Work_Zone[2] = 4071*
-     0x15FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x15FC [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x15FF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1600 [0x03] Work_Zone[2] = Work_Zone_1700[9]
-     0x1605 [0x48] [System] [9041*]:
+     0x1605 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x1608 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1609 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4126,7 +4126,7 @@ SUBROUTINE_01C7:
      0x162B [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=8*)
      0x1634 [0x03] Work_Zone[3] = Work_Zone[2]
      0x1639 [0x03] Work_Zone[2] = 4071*
-     0x163E [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x163E [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x1641 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1642 [0x01] GOTO 0x1648
@@ -4137,11 +4137,11 @@ SUBROUTINE_01C7:
      0x1651 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x16B8
      0x1659 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x165E [0x03] Work_Zone[2] = 4072*
-     0x1663 [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x1663 [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x1666 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1667 [0x03] Work_Zone[2] = Work_Zone_1700[10]
-     0x166C [0x48] [System] [9041*]:
+     0x166C [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x166F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1670 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4153,7 +4153,7 @@ SUBROUTINE_01C7:
      0x1692 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=9*)
      0x169B [0x03] Work_Zone[3] = Work_Zone[2]
      0x16A0 [0x03] Work_Zone[2] = 4072*
-     0x16A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x16A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x16A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16A9 [0x01] GOTO 0x16AF
@@ -4164,11 +4164,11 @@ SUBROUTINE_01C7:
      0x16B8 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x171F
      0x16C0 [0x03] ExtData[1]->WorkLocal[18] = Work_Zone[0]
      0x16C5 [0x03] Work_Zone[2] = 4073*
-     0x16CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9040*)
+     0x16CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9041*)
     → "How many $0 would you like me to return?"
      0x16CD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16CE [0x03] Work_Zone[2] = Work_Zone_1700[11]
-     0x16D3 [0x48] [System] [9041*]:
+     0x16D3 [0x48] [System] [9042*]:
     → "Enter a number between 0 and $0. 0 will return to the previous selection."
      0x16D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x16D7 [0x71] USER_INPUT_HANDLER: Open numerical input dialog (work=1*)
@@ -4180,7 +4180,7 @@ SUBROUTINE_01C7:
      0x16F9 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=10*)
      0x1702 [0x03] Work_Zone[3] = Work_Zone[2]
      0x1707 [0x03] Work_Zone[2] = 4073*
-     0x170C [0x1D] PRINT_EVENT_MESSAGE(message_id=9042*)
+     0x170C [0x1D] PRINT_EVENT_MESSAGE(message_id=9043*)
     → "Here you go. $1 $0 ."
      0x170F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1710 [0x01] GOTO 0x1716

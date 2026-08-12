@@ -35,53 +35,53 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x271F      |       10015 |
-|       3 | 0x2720      |       10016 |
-|       4 | 0x2877      |       10359 |
-|       5 | 0x2878      |       10360 |
-|       6 | 0x2743      |       10051 |
+|       2 | 0x2720      |       10016 |
+|       3 | 0x2721      |       10017 |
+|       4 | 0x2878      |       10360 |
+|       5 | 0x2879      |       10361 |
+|       6 | 0x2744      |       10052 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x2749      |       10057 |
+|       9 | 0x274A      |       10058 |
 |      10 | 0x0002      |           2 |
-|      11 | 0x273F      |       10047 |
-|      12 | 0x2740      |       10048 |
-|      13 | 0x2741      |       10049 |
-|      14 | 0x2742      |       10050 |
-|      15 | 0x2744      |       10052 |
-|      16 | 0x2745      |       10053 |
-|      17 | 0x2746      |       10054 |
-|      18 | 0x2747      |       10055 |
-|      19 | 0x2748      |       10056 |
-|      20 | 0x274A      |       10058 |
-|      21 | 0x274B      |       10059 |
-|      22 | 0x274E      |       10062 |
-|      23 | 0x274F      |       10063 |
+|      11 | 0x2740      |       10048 |
+|      12 | 0x2741      |       10049 |
+|      13 | 0x2742      |       10050 |
+|      14 | 0x2743      |       10051 |
+|      15 | 0x2745      |       10053 |
+|      16 | 0x2746      |       10054 |
+|      17 | 0x2747      |       10055 |
+|      18 | 0x2748      |       10056 |
+|      19 | 0x2749      |       10057 |
+|      20 | 0x274B      |       10059 |
+|      21 | 0x274C      |       10060 |
+|      22 | 0x274F      |       10063 |
+|      23 | 0x2750      |       10064 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x2750      |       10064 |
+|      25 | 0x2751      |       10065 |
 
 ## String References
 
-- **10015**: Hey therrre, adventurer! Have you got your fill of Kazham?
-- **10016**: What about that volcano to the east of herrre? Bet you haven't been therrre yet, have you?
-- **10047**: Kazham is protected by the guardian of the volcano located east of herrre. With his laughter and anger, the guardian shakes the earth and grants us the strrrength to survive.
-- **10048**: To show our thanks every day, we take the guardian offerings of our best crops. This is how it has been for hundreds of yearrrs.
-- **10049**: It doesn't look like you're doing much more than being in the way. How about taking a trip to the volcano and showing your face to our guarrrdian?
-- **10050**: If you're lucky, you might even hear his rrroar! Hah-hah-hah!
-- **10051**: So, are you going to make yourself useful? [Count me in./I'm busy.]
-- **10052**: That's the spirit. Today's offering is $1.
-- **10053**: What? Did you think I was going to provide you one for frrree? What good is an offering of thanks if it isn't YOU who's showing the thanks?
-- **10054**: Now listen up. Enter the volcano and journey up to the crrrater. There you will find an altar that we made.
-- **10055**: After you've placed the $1 on the altar, you must shout your name into the crater so the guardian of our land can hearrr.
-- **10056**: Oh, and you should probably take a couple $2 with you. You never know when you will need them.
-- **10057**: Well, if that's the case, why don't you just take the next airship and get off of our island?
-- **10058**: Travel east to the towerrring volcano. Walk up to the crater and place $1 on the altar therrre. Oh, and don't forget to shout your name.
-- **10059**: And shout it like you mean it. If your voice is heard by our guarrrdian, then your stay on our island should be a safe one.
-- **10062**: Oh, you made it back in one piece! You look a lot tougher now than you did beforrre you left.
-- **10063**: We Mithra like our [men/women] strong and brave like you. Here, take this.
-- **10064**: No matter who or what you are, without strength, you'll make no impression on this worrrld.
-- **10359**: Hey there, adventurerrr! Have you got you got your fill of Kazham?
-- **10360**: If you have, get out alrrready. You stink!
+- **10016**: Hey therrre, adventurer! Have you got your fill of Kazham?
+- **10017**: What about that volcano to the east of herrre? Bet you haven't been therrre yet, have you?
+- **10048**: Kazham is protected by the guardian of the volcano located east of herrre. With his laughter and anger, the guardian shakes the earth and grants us the strrrength to survive.
+- **10049**: To show our thanks every day, we take the guardian offerings of our best crops. This is how it has been for hundreds of yearrrs.
+- **10050**: It doesn't look like you're doing much more than being in the way. How about taking a trip to the volcano and showing your face to our guarrrdian?
+- **10051**: If you're lucky, you might even hear his rrroar! Hah-hah-hah!
+- **10052**: So, are you going to make yourself useful? [Count me in./I'm busy.]
+- **10053**: That's the spirit. Today's offering is $1.
+- **10054**: What? Did you think I was going to provide you one for frrree? What good is an offering of thanks if it isn't YOU who's showing the thanks?
+- **10055**: Now listen up. Enter the volcano and journey up to the crrrater. There you will find an altar that we made.
+- **10056**: After you've placed the $1 on the altar, you must shout your name into the crater so the guardian of our land can hearrr.
+- **10057**: Oh, and you should probably take a couple $2 with you. You never know when you will need them.
+- **10058**: Well, if that's the case, why don't you just take the next airship and get off of our island?
+- **10059**: Travel east to the towerrring volcano. Walk up to the crater and place $1 on the altar therrre. Oh, and don't forget to shout your name.
+- **10060**: And shout it like you mean it. If your voice is heard by our guarrrdian, then your stay on our island should be a safe one.
+- **10063**: Oh, you made it back in one piece! You look a lot tougher now than you did beforrre you left.
+- **10064**: We Mithra like our [men/women] strong and brave like you. Here, take this.
+- **10065**: No matter who or what you are, without strength, you'll make no impression on this worrrld.
+- **10360**: Hey there, adventurerrr! Have you got you got your fill of Kazham?
+- **10361**: If you have, get out alrrready. You stink!
 
 ## Events
 
@@ -180,10 +180,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10015*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10016*)
     → "Hey therrre, adventurer! Have you got your fill of Kazham?"
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10016*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=10017*)
     → "What about that volcano to the east of herrre? Bet you haven't been therrre yet, have you?"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x02)
@@ -217,10 +217,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10359*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10360*)
     → "Hey there, adventurerrr! Have you got you got your fill of Kazham?"
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10360*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10361*)
     → "If you have, get out alrrready. You stink!"
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x02)
@@ -259,7 +259,7 @@
   2: 0x0062 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0063 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x06)
   4: 0x006A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x07)
-  5: 0x0071 [0x24] CREATE_DIALOG(message_id=10051*, default_option=0*, option_flags=0*)
+  5: 0x0071 [0x24] CREATE_DIALOG(message_id=10052*, default_option=0*, option_flags=0*)
     → "So, are you going to make yourself useful? [Count me in./I'm busy.]"
   6: 0x0078 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0079 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009F
@@ -270,7 +270,7 @@
  12: 0x0095 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x0A)
  13: 0x009C [0x01] GOTO 0x00B3
  14: 0x009F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B3
- 15: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
+ 15: 0x00A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
     → "Well, if that's the case, why don't you just take the next airship and get off of our island?"
  16: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00AB [0x03] Work_Zone[1] = 2*
@@ -301,10 +301,10 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10047*)
+  0: 0x00B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10048*)
     → "Kazham is protected by the guardian of the volcano located east of herrre. With his laughter and anger, the guardian shakes the earth and grants us the strrrength to survive."
   1: 0x00BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10048*)
+  2: 0x00BB [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
     → "To show our thanks every day, we take the guardian offerings of our best crops. This is how it has been for hundreds of yearrrs."
   3: 0x00BE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00BF [0x00] END_REQSTACK()
@@ -329,10 +329,10 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10049*)
+  0: 0x00C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10050*)
     → "It doesn't look like you're doing much more than being in the way. How about taking a trip to the volcano and showing your face to our guarrrdian?"
   1: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10050*)
+  2: 0x00C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10051*)
     → "If you're lucky, you might even hear his rrroar! Hah-hah-hah!"
   3: 0x00C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00C8 [0x00] END_REQSTACK()
@@ -358,10 +358,10 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10052*)
+  0: 0x00C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10053*)
     → "That's the spirit. Today's offering is $1."
   1: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10053*)
+  2: 0x00CD [0x1D] PRINT_EVENT_MESSAGE(message_id=10054*)
     → "What? Did you think I was going to provide you one for frrree? What good is an offering of thanks if it isn't YOU who's showing the thanks?"
   3: 0x00D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00D1 [0x00] END_REQSTACK()
@@ -386,10 +386,10 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10054*)
+  0: 0x00D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10055*)
     → "Now listen up. Enter the volcano and journey up to the crrrater. There you will find an altar that we made."
   1: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10055*)
+  2: 0x00D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
     → "After you've placed the $1 on the altar, you must shout your name into the crater so the guardian of our land can hearrr."
   3: 0x00D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00DA [0x00] END_REQSTACK()
@@ -414,7 +414,7 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10056*)
+  0: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
     → "Oh, and you should probably take a couple $2 with you. You never know when you will need them."
   1: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DF [0x00] END_REQSTACK()
@@ -439,7 +439,7 @@ SUBROUTINE_00B3:
 #### Opcodes
 
 ```
-  0: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10057*)
+  0: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
     → "Well, if that's the case, why don't you just take the next airship and get off of our island?"
   1: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00E4 [0x00] END_REQSTACK()
@@ -470,10 +470,10 @@ SUBROUTINE_00B3:
   1: 0x00EA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00EB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x01)
-  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10058*)
+  4: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10059*)
     → "Travel east to the towerrring volcano. Walk up to the crater and place $1 on the altar therrre. Oh, and don't forget to shout your name."
   5: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10059*)
+  6: 0x00F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10060*)
     → "And shout it like you mean it. If your voice is heard by our guarrrdian, then your stay on our island should be a safe one."
   7: 0x00FA [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00FB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x02)
@@ -510,10 +510,10 @@ SUBROUTINE_00B3:
   3: 0x0113 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0114 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0115 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x01)
-  6: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10062*)
+  6: 0x011C [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
     → "Oh, you made it back in one piece! You look a lot tougher now than you did beforrre you left."
   7: 0x011F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10063*)
+  8: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
     → "We Mithra like our [men/women] strong and brave like you. Here, take this."
   9: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0124 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x02)
@@ -547,7 +547,7 @@ SUBROUTINE_00B3:
   1: 0x0145 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0146 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x01)
-  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10064*)
+  4: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=10065*)
     → "No matter who or what you are, without strength, you'll make no impression on this worrrld."
   5: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hari Pakhroib (ID: 17801274/0x010FA03A), tag_num=0x02)

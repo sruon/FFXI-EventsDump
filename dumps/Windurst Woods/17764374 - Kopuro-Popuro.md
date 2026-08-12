@@ -108,50 +108,50 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0029      |          41 |
-|       3 | 0x1F7A      |        8058 |
-|       4 | 0x1E52      |        7762 |
-|       5 | 0x1E53      |        7763 |
-|       6 | 0x1E54      |        7764 |
-|       7 | 0x1E66      |        7782 |
-|       8 | 0x1E67      |        7783 |
-|       9 | 0x1F8A      |        8074 |
+|       3 | 0x1F7B      |        8059 |
+|       4 | 0x1E53      |        7763 |
+|       5 | 0x1E54      |        7764 |
+|       6 | 0x1E55      |        7765 |
+|       7 | 0x1E67      |        7783 |
+|       8 | 0x1E68      |        7784 |
+|       9 | 0x1F8B      |        8075 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1F89      |        8073 |
-|      14 | 0x1F8F      |        8079 |
+|      13 | 0x1F8A      |        8074 |
+|      14 | 0x1F90      |        8080 |
 |      15 | 0x0003      |           3 |
 |      16 | 0x0004      |           4 |
-|      17 | 0x1F8B      |        8075 |
-|      18 | 0x1F8C      |        8076 |
-|      19 | 0x1F8D      |        8077 |
-|      20 | 0x1F8E      |        8078 |
-|      21 | 0x1F90      |        8080 |
-|      22 | 0x1F91      |        8081 |
-|      23 | 0x1F92      |        8082 |
-|      24 | 0x1F93      |        8083 |
-|      25 | 0x1F94      |        8084 |
-|      26 | 0x1F95      |        8085 |
-|      27 | 0x1F96      |        8086 |
-|      28 | 0x1F97      |        8087 |
-|      29 | 0x1F98      |        8088 |
-|      30 | 0x1F9F      |        8095 |
-|      31 | 0x1FA0      |        8096 |
+|      17 | 0x1F8C      |        8076 |
+|      18 | 0x1F8D      |        8077 |
+|      19 | 0x1F8E      |        8078 |
+|      20 | 0x1F8F      |        8079 |
+|      21 | 0x1F91      |        8081 |
+|      22 | 0x1F92      |        8082 |
+|      23 | 0x1F93      |        8083 |
+|      24 | 0x1F94      |        8084 |
+|      25 | 0x1F95      |        8085 |
+|      26 | 0x1F96      |        8086 |
+|      27 | 0x1F97      |        8087 |
+|      28 | 0x1F98      |        8088 |
+|      29 | 0x1F99      |        8089 |
+|      30 | 0x1FA0      |        8096 |
+|      31 | 0x1FA1      |        8097 |
 |      32 | 0x00C9      |         201 |
-|      33 | 0x199B      |        6555 |
-|      34 | 0x1FA1      |        8097 |
-|      35 | 0x1FA2      |        8098 |
-|      36 | 0x1FA8      |        8104 |
-|      37 | 0x1FA3      |        8099 |
-|      38 | 0x1FA4      |        8100 |
-|      39 | 0x1FA5      |        8101 |
-|      40 | 0x1FA6      |        8102 |
-|      41 | 0x1FA7      |        8103 |
-|      42 | 0x1FA9      |        8105 |
-|      43 | 0x1FAA      |        8106 |
-|      44 | 0x1FC2      |        8130 |
-|      45 | 0x1FC3      |        8131 |
-|      46 | 0x1FCE      |        8142 |
+|      33 | 0x199C      |        6556 |
+|      34 | 0x1FA2      |        8098 |
+|      35 | 0x1FA3      |        8099 |
+|      36 | 0x1FA9      |        8105 |
+|      37 | 0x1FA4      |        8100 |
+|      38 | 0x1FA5      |        8101 |
+|      39 | 0x1FA6      |        8102 |
+|      40 | 0x1FA7      |        8103 |
+|      41 | 0x1FA8      |        8104 |
+|      42 | 0x1FAA      |        8106 |
+|      43 | 0x1FAB      |        8107 |
+|      44 | 0x1FC3      |        8131 |
+|      45 | 0x1FC4      |        8132 |
+|      46 | 0x1FCF      |        8143 |
 |      47 | 0x00C8      |         200 |
 |      48 | 0x0078      |         120 |
 |      49 | 0x01A6      |         422 |
@@ -159,9 +159,9 @@
 |      51 | 0x00A3      |         163 |
 |      52 | 0x007F      |         127 |
 |      53 | 0x003C      |          60 |
-|      54 | 0x1FD8      |        8152 |
-|      55 | 0x1FD9      |        8153 |
-|      56 | 0x1FDA      |        8154 |
+|      54 | 0x1FD9      |        8153 |
+|      55 | 0x1FDA      |        8154 |
+|      56 | 0x1FDB      |        8155 |
 |      57 | 0x0097      |         151 |
 |      58 | 0x0064      |         100 |
 |      59 | 0xFFFFD2C3  |  4294955715 |
@@ -171,23 +171,23 @@
 |      63 | 0x000D      |          13 |
 |      64 | 0xFFFFD51F  |  4294956319 |
 |      65 | 0xFFFFAE96  |  4294946454 |
-|      66 | 0x1FD5      |        8149 |
-|      67 | 0x1FDB      |        8155 |
-|      68 | 0x1FDC      |        8156 |
-|      69 | 0x1FDF      |        8159 |
-|      70 | 0x1FE0      |        8160 |
-|      71 | 0x1FE2      |        8162 |
-|      72 | 0x1FE3      |        8163 |
-|      73 | 0x1FEA      |        8170 |
-|      74 | 0x1FEB      |        8171 |
+|      66 | 0x1FD6      |        8150 |
+|      67 | 0x1FDC      |        8156 |
+|      68 | 0x1FDD      |        8157 |
+|      69 | 0x1FE0      |        8160 |
+|      70 | 0x1FE1      |        8161 |
+|      71 | 0x1FE3      |        8163 |
+|      72 | 0x1FE4      |        8164 |
+|      73 | 0x1FEB      |        8171 |
+|      74 | 0x1FEC      |        8172 |
 |      75 | 0x00AA      |         170 |
 |      76 | 0x0190      |         400 |
-|      77 | 0x1FF2      |        8178 |
-|      78 | 0x1FF3      |        8179 |
-|      79 | 0x211B      |        8475 |
-|      80 | 0x211C      |        8476 |
-|      81 | 0x2126      |        8486 |
-|      82 | 0x2127      |        8487 |
+|      77 | 0x1FF3      |        8179 |
+|      78 | 0x1FF4      |        8180 |
+|      79 | 0x211C      |        8476 |
+|      80 | 0x211D      |        8477 |
+|      81 | 0x2127      |        8487 |
+|      82 | 0x2128      |        8488 |
 |      83 | 0xFFFFB14A  |  4294947146 |
 |      84 | 0x2AC1      |       10945 |
 |      85 | 0x0F60      |        3936 |
@@ -197,143 +197,143 @@
 |      89 | 0x0DDA      |        3546 |
 |      90 | 0xFFFFC64F  |  4294952527 |
 |      91 | 0x35DB      |       13787 |
-|      92 | 0x1FF7      |        8183 |
-|      93 | 0x1FF8      |        8184 |
-|      94 | 0x1FFA      |        8186 |
-|      95 | 0x2009      |        8201 |
-|      96 | 0x200A      |        8202 |
-|      97 | 0x200B      |        8203 |
-|      98 | 0x2028      |        8232 |
-|      99 | 0x2029      |        8233 |
-|     100 | 0x202A      |        8234 |
-|     101 | 0x2539      |        9529 |
-|     102 | 0x253A      |        9530 |
-|     103 | 0x2556      |        9558 |
-|     104 | 0x2557      |        9559 |
-|     105 | 0x25D0      |        9680 |
-|     106 | 0x25D1      |        9681 |
-|     107 | 0x25F5      |        9717 |
-|     108 | 0x25F6      |        9718 |
-|     109 | 0x2600      |        9728 |
-|     110 | 0x2601      |        9729 |
-|     111 | 0x2602      |        9730 |
-|     112 | 0x2603      |        9731 |
-|     113 | 0x2604      |        9732 |
-|     114 | 0x2605      |        9733 |
-|     115 | 0x2606      |        9734 |
-|     116 | 0x2607      |        9735 |
-|     117 | 0x260B      |        9739 |
-|     118 | 0x2608      |        9736 |
-|     119 | 0x2609      |        9737 |
-|     120 | 0x260A      |        9738 |
-|     121 | 0x260C      |        9740 |
-|     122 | 0x260D      |        9741 |
-|     123 | 0x260E      |        9742 |
-|     124 | 0x260F      |        9743 |
-|     125 | 0x2E71      |       11889 |
-|     126 | 0x2E8A      |       11914 |
-|     127 | 0x2E8B      |       11915 |
-|     128 | 0x2E8C      |       11916 |
-|     129 | 0x2EA0      |       11936 |
-|     130 | 0x2EA1      |       11937 |
+|      92 | 0x1FF8      |        8184 |
+|      93 | 0x1FF9      |        8185 |
+|      94 | 0x1FFB      |        8187 |
+|      95 | 0x200A      |        8202 |
+|      96 | 0x200B      |        8203 |
+|      97 | 0x200C      |        8204 |
+|      98 | 0x2029      |        8233 |
+|      99 | 0x202A      |        8234 |
+|     100 | 0x202B      |        8235 |
+|     101 | 0x253A      |        9530 |
+|     102 | 0x253B      |        9531 |
+|     103 | 0x2557      |        9559 |
+|     104 | 0x2558      |        9560 |
+|     105 | 0x25D1      |        9681 |
+|     106 | 0x25D2      |        9682 |
+|     107 | 0x25F6      |        9718 |
+|     108 | 0x25F7      |        9719 |
+|     109 | 0x2601      |        9729 |
+|     110 | 0x2602      |        9730 |
+|     111 | 0x2603      |        9731 |
+|     112 | 0x2604      |        9732 |
+|     113 | 0x2605      |        9733 |
+|     114 | 0x2606      |        9734 |
+|     115 | 0x2607      |        9735 |
+|     116 | 0x2608      |        9736 |
+|     117 | 0x260C      |        9740 |
+|     118 | 0x2609      |        9737 |
+|     119 | 0x260A      |        9738 |
+|     120 | 0x260B      |        9739 |
+|     121 | 0x260D      |        9741 |
+|     122 | 0x260E      |        9742 |
+|     123 | 0x260F      |        9743 |
+|     124 | 0x2610      |        9744 |
+|     125 | 0x2E72      |       11890 |
+|     126 | 0x2E8B      |       11915 |
+|     127 | 0x2E8C      |       11916 |
+|     128 | 0x2E8D      |       11917 |
+|     129 | 0x2EA1      |       11937 |
+|     130 | 0x2EA2      |       11938 |
 
 ## String References
 
-- **6555**: Obtained $0 gil.
-- **7762**: Mana Orbs are the hearts of Cardians, you know? If a Cardian were to lose its Mana Orb, it would return to being just an inanimate straw dolly-wolly.
-- **7763**: And, if the magical energy in the Mana Orb ever runs out, even if you were to re-energize it with the gizmos in the magic towers, they still forget everything that they remembered up to then.
-- **7764**: Either way, this is what's considered as "death" for Cardians.
-- **7782**: The previous minister was a terrible man. When the war ended, he started throwing away our Cardians left, right and center.
-- **7783**: Of course the Cardians are going to run away. And of course they are going to come back and kidnap the previous minister. He should have seen it coming!
-- **8058**: This is the Manustery--the ministry that's in charge of making and maintaining Cardians. Most people just refer to us as the "Cardian workshop."
-- **8073**: Why, hello there, friend! Step right up here and tell me this--are you satisfied with our current Cardians?
-- **8074**: Satisfied with Cardians? [No, not quite.../Yes, most sufficient.]
-- **8075**: Gee... You don't have to be such a wet blanket...
-- **8076**: Well, have I got just the right thing for you! A brand new make of Cardian, I call...
-- **8077**: Ta\`da\`!!! "The All-New C-2000"!
-- **8078**: So how about it, then!? Do you have the inclination to go down in the history of our nation by helping in the creation of this amazing new innovation in automatons?
-- **8079**: Want to go down in history? [Yes. Sign me up now!/No, I'm turning you down.]
-- **8080**: Gee... What do you have to be such a wet blanket for...?
-- **8081**: Oh, good! Stick with me, kid--with my brains and your brawn, we're bound to go places together!
-- **8082**: You see...I just happened to be in the process of teaching "The All-New C-2000" the scents of different "enemies." "The All-New C-2000" has a better nose than us people do, you knows?
-- **8083**: For starters, I was hoping you could bring me some of the items that the monsters in Sarutabaruta drop.
-- **8084**: Let me see... $1 and $2...
-- **8085**: Oh, and $3 would be nice to begin with. So good luck and goodbye! See you when you've obtained one of each of those items...
-- **8086**: Have you obtained the items I need to educate the "All-New C-2000" yet?
-- **8087**: Don't forget, now... I need $1, $2, and $3.
-- **8088**: So hurry, hur\`ry! You don't want someone else to beat you to it, and have their name go down in history instead of yours, do you?
-- **8095**: Mighty obliged to you there, friend. Your name will go down in Windurstian history for sure now!
-- **8096**: So don't complain if your reward isn't as good as expected, kid.
-- **8097**: This is how we teach the Cardians we create to remember all kinds of things.
-- **8098**: I guess it's kind of like being their mother or father.
-- **8099**: Hey, you've come back here again?
-- **8100**: Oh well, seeing as you're here, you might as well make yourself useful. You see, I've just made another new type of Cardian. This time, I'm calling it...
-- **8101**: Ta\`da\`!!! "The All-New C-2000"!
-- **8102**: Huh...? Whaddayamean, "Yeah, yeah, I've heard it before?"
-- **8103**: Next you'll be telling me you know what items I want you to bring, rightaru? Anyway, I guess that means you'll be helping me out, then?
-- **8104**: Agree to help him out? [Yeah./Naw.]
-- **8105**: Gee...you don't have to be such a tease!
-- **8106**: Great! Head on out to Sarutabaruta and procure me those items, then!
-- **8130**: Oh, you mean that Cardian...? So he's grown up to become number five already, huh?
-- **8131**: <Sigh>... When I hear that, it brings home to me just how short the lifespans of our Cardians are becoming...
-- **8142**: Say...I wonder whether that Cardian properly forgot the "hats suck" line I taught him?
-- **8149**: I know, Minister Apururu! It looks like it's time to implement "Legendary Plan B"!
-- **8152**: Long, long ago, our old Manustery was facing a financial crisis much like we are today...
-- **8153**: This was in an age long before airships connected the cities of Vana'diel with the convenient network we have now.
-- **8154**: Back then, travelers on their way to Jeuno were menaced by fearsome nocturnal-wurnal monsters.
-- **8155**: To brighten up the future for those travelers, our predecessors, in their great wisdom, devised a charm for trekkers they called the "Gadabout's Gris-gris"!
-- **8156**: The effect of these charms was astounding, and the reduction in the number of dangerous incidents that befell Jeuno-bound travelers was significant.
-- **8159**: Well, you need all kinds of items that nocturnal monsters drop when defeated.
-- **8160**: In order to make a charm, I think we just need: $1, $2, and $3.
-- **8162**: You'll help us out as well, won'taru you? Please collect one of each of the items that the nocturnal monsters drop.
-- **8163**: Remember, we need $1, $2, and $3 to make one charm. Good luck, kiddo!
-- **8170**: Oh, $1, $2, and $3... Looks likey we have everything!
-- **8171**: Here's your cut... Good work, kid!
-- **8178**: I don't get it... What went wrong with Legendary Plan B?
-- **8179**: I know...I bet someone deliberately set out to interfere with my plan! Yeah, that's it. Someone must have employed adventurers to go out and hunt nocturnal monsters.
-- **8183**: Minister Apururu!
-- **8184**: It's Queen of Hearts, Miss! She's come back all wounded and hurt!
-- **8186**: You should stay there, kid. I think the minister is giving Queen of Hearts its last rites.
-- **8201**: The Cardian who died just then was one that Minister Apururu raised personally...
-- **8202**: That Cardian was able to make it back here with her remaining strength, but I fear Queen of Diamonds was not so lucky...
-- **8203**: Even if we only find one of her parts, at least we'll be able to give her a proper burial...
-- **8232**: Did Boizo-Naizo really just dish out $2 gil just then?
-- **8233**: I don't know where such an amount came from, as our Manustery certainly doesn't have that to spare... Ah!
-- **8234**: That's rightaru...he was just saying that he finally saved up enough gil to buy the latest hat creation from the hatter! You don'taru suppose he used that money to pay you, do you?
-- **8475**: There are many taboos when one breathes life into these automaton dolls, you know, kid?
-- **8476**: One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!
-- **8486**: There are many taboos when one breathes life into these automaton dolls, you know, kid?
-- **8487**: One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!
-- **9529**: Minister Ajido-Marujido succeeded in reactivating the towers, didn'taru he?
-- **9530**: Isn't that a good thing? Why'd they have to go and throw him into the Dark Dungeon?
-- **9558**: You're worried, rightaru? I'm worried about Minister Ajido-Marujido, too.
-- **9559**: I'm so worried, the Cardians I've made have learned how to sigh from me. What a dilemma. <sigh>
-- **9680**: Minsiter Apururu is doing her bestaru to hide something from us...
-- **9681**: But she's so bad at lying-wying it makes it hard for us to pretend that we don't notice.
-- **9717**: The ring of the Manustery has finally-winally made its way back to the hand of Minister Apururu. Now I can make new and improved Cardian-wardians!
-- **9718**: Hmm, I think I'll inventaru one that has a spinning staff attack. That should make a nice breezey-weeze for those hot summer days...
-- **9728**: Ta\`da\`!!! "The All-New C-3000"!
-- **9729**: This new Cardian is truly amazing, I tell you. Not only can it defeat its enemies before you can say "Now, where's that darn Cardian got to?" but it also brings back the booty from the battleground!
-- **9730**: All the loot my new boy'll bring in should stretch the Manustery's coffers to bursty-wursting! Not to mention the hefty raise that'll be added to my salary. <wink-wink>
-- **9731**: But first I have to teach him to bring back the good stuff and leave the junk... And that's where you come in, my fine adventuring friend! Do you think you could get me $1 and $2?
-- **9732**: Let's get cracking! Time is gil, you know!
-- **9733**: Have you broughtaru the items for the All-New C-3000 to look at?
-- **9734**: I need you to bring me $1 and $2. Whatcha waiting for?
-- **9735**: Excellentaru work! Here's something for your troubles!
-- **9736**: I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find.
-- **9737**: Hmm, paying you that reward has put me in the red, but it's all part of a larger investmentaru. I'm gonna be rich!
-- **9738**: I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find.
-- **9739**: If you find any more of those $1 and $2, hand 'em over to me!
-- **9740**: I don't understand it. The All-New C-3000s haven't been bringing in any $1 or $2...
-- **9741**: Where did I go wrong? All my calculations and adjustments were spot on. Even Minister Apururu said the craftsmanship was perfectaru.
-- **9742**: I can'taru let a little hiccup like this stand in the way of my impending fortune! I'll just keep giving the All-New C-3000s more $1 and $2 until they get it right!
-- **9743**: Keep on bringing me those items! This is going to work, I can feel it!
-- **11889**: Ask if this person is the chick's owner? [Yes./No.]
-- **11914**: What? You've got my chocobo!?
-- **11915**: You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more.
-- **11916**: You're raising a chocobo too, right? Let me teach you a story to show my gratitude...
-- **11936**: You've got my chocobo?
-- **11937**: Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy.
+- **6556**: Obtained $0 gil.
+- **7763**: Mana Orbs are the hearts of Cardians, you know? If a Cardian were to lose its Mana Orb, it would return to being just an inanimate straw dolly-wolly.
+- **7764**: And, if the magical energy in the Mana Orb ever runs out, even if you were to re-energize it with the gizmos in the magic towers, they still forget everything that they remembered up to then.
+- **7765**: Either way, this is what's considered as "death" for Cardians.
+- **7783**: The previous minister was a terrible man. When the war ended, he started throwing away our Cardians left, right and center.
+- **7784**: Of course the Cardians are going to run away. And of course they are going to come back and kidnap the previous minister. He should have seen it coming!
+- **8059**: This is the Manustery--the ministry that's in charge of making and maintaining Cardians. Most people just refer to us as the "Cardian workshop."
+- **8074**: Why, hello there, friend! Step right up here and tell me this--are you satisfied with our current Cardians?
+- **8075**: Satisfied with Cardians? [No, not quite.../Yes, most sufficient.]
+- **8076**: Gee... You don't have to be such a wet blanket...
+- **8077**: Well, have I got just the right thing for you! A brand new make of Cardian, I call...
+- **8078**: Ta\`da\`!!! "The All-New C-2000"!
+- **8079**: So how about it, then!? Do you have the inclination to go down in the history of our nation by helping in the creation of this amazing new innovation in automatons?
+- **8080**: Want to go down in history? [Yes. Sign me up now!/No, I'm turning you down.]
+- **8081**: Gee... What do you have to be such a wet blanket for...?
+- **8082**: Oh, good! Stick with me, kid--with my brains and your brawn, we're bound to go places together!
+- **8083**: You see...I just happened to be in the process of teaching "The All-New C-2000" the scents of different "enemies." "The All-New C-2000" has a better nose than us people do, you knows?
+- **8084**: For starters, I was hoping you could bring me some of the items that the monsters in Sarutabaruta drop.
+- **8085**: Let me see... $1 and $2...
+- **8086**: Oh, and $3 would be nice to begin with. So good luck and goodbye! See you when you've obtained one of each of those items...
+- **8087**: Have you obtained the items I need to educate the "All-New C-2000" yet?
+- **8088**: Don't forget, now... I need $1, $2, and $3.
+- **8089**: So hurry, hur\`ry! You don't want someone else to beat you to it, and have their name go down in history instead of yours, do you?
+- **8096**: Mighty obliged to you there, friend. Your name will go down in Windurstian history for sure now!
+- **8097**: So don't complain if your reward isn't as good as expected, kid.
+- **8098**: This is how we teach the Cardians we create to remember all kinds of things.
+- **8099**: I guess it's kind of like being their mother or father.
+- **8100**: Hey, you've come back here again?
+- **8101**: Oh well, seeing as you're here, you might as well make yourself useful. You see, I've just made another new type of Cardian. This time, I'm calling it...
+- **8102**: Ta\`da\`!!! "The All-New C-2000"!
+- **8103**: Huh...? Whaddayamean, "Yeah, yeah, I've heard it before?"
+- **8104**: Next you'll be telling me you know what items I want you to bring, rightaru? Anyway, I guess that means you'll be helping me out, then?
+- **8105**: Agree to help him out? [Yeah./Naw.]
+- **8106**: Gee...you don't have to be such a tease!
+- **8107**: Great! Head on out to Sarutabaruta and procure me those items, then!
+- **8131**: Oh, you mean that Cardian...? So he's grown up to become number five already, huh?
+- **8132**: <Sigh>... When I hear that, it brings home to me just how short the lifespans of our Cardians are becoming...
+- **8143**: Say...I wonder whether that Cardian properly forgot the "hats suck" line I taught him?
+- **8150**: I know, Minister Apururu! It looks like it's time to implement "Legendary Plan B"!
+- **8153**: Long, long ago, our old Manustery was facing a financial crisis much like we are today...
+- **8154**: This was in an age long before airships connected the cities of Vana'diel with the convenient network we have now.
+- **8155**: Back then, travelers on their way to Jeuno were menaced by fearsome nocturnal-wurnal monsters.
+- **8156**: To brighten up the future for those travelers, our predecessors, in their great wisdom, devised a charm for trekkers they called the "Gadabout's Gris-gris"!
+- **8157**: The effect of these charms was astounding, and the reduction in the number of dangerous incidents that befell Jeuno-bound travelers was significant.
+- **8160**: Well, you need all kinds of items that nocturnal monsters drop when defeated.
+- **8161**: In order to make a charm, I think we just need: $1, $2, and $3.
+- **8163**: You'll help us out as well, won'taru you? Please collect one of each of the items that the nocturnal monsters drop.
+- **8164**: Remember, we need $1, $2, and $3 to make one charm. Good luck, kiddo!
+- **8171**: Oh, $1, $2, and $3... Looks likey we have everything!
+- **8172**: Here's your cut... Good work, kid!
+- **8179**: I don't get it... What went wrong with Legendary Plan B?
+- **8180**: I know...I bet someone deliberately set out to interfere with my plan! Yeah, that's it. Someone must have employed adventurers to go out and hunt nocturnal monsters.
+- **8184**: Minister Apururu!
+- **8185**: It's Queen of Hearts, Miss! She's come back all wounded and hurt!
+- **8187**: You should stay there, kid. I think the minister is giving Queen of Hearts its last rites.
+- **8202**: The Cardian who died just then was one that Minister Apururu raised personally...
+- **8203**: That Cardian was able to make it back here with her remaining strength, but I fear Queen of Diamonds was not so lucky...
+- **8204**: Even if we only find one of her parts, at least we'll be able to give her a proper burial...
+- **8233**: Did Boizo-Naizo really just dish out $2 gil just then?
+- **8234**: I don't know where such an amount came from, as our Manustery certainly doesn't have that to spare... Ah!
+- **8235**: That's rightaru...he was just saying that he finally saved up enough gil to buy the latest hat creation from the hatter! You don'taru suppose he used that money to pay you, do you?
+- **8476**: There are many taboos when one breathes life into these automaton dolls, you know, kid?
+- **8477**: One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!
+- **8487**: There are many taboos when one breathes life into these automaton dolls, you know, kid?
+- **8488**: One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!
+- **9530**: Minister Ajido-Marujido succeeded in reactivating the towers, didn'taru he?
+- **9531**: Isn't that a good thing? Why'd they have to go and throw him into the Dark Dungeon?
+- **9559**: You're worried, rightaru? I'm worried about Minister Ajido-Marujido, too.
+- **9560**: I'm so worried, the Cardians I've made have learned how to sigh from me. What a dilemma. <sigh>
+- **9681**: Minsiter Apururu is doing her bestaru to hide something from us...
+- **9682**: But she's so bad at lying-wying it makes it hard for us to pretend that we don't notice.
+- **9718**: The ring of the Manustery has finally-winally made its way back to the hand of Minister Apururu. Now I can make new and improved Cardian-wardians!
+- **9719**: Hmm, I think I'll inventaru one that has a spinning staff attack. That should make a nice breezey-weeze for those hot summer days...
+- **9729**: Ta\`da\`!!! "The All-New C-3000"!
+- **9730**: This new Cardian is truly amazing, I tell you. Not only can it defeat its enemies before you can say "Now, where's that darn Cardian got to?" but it also brings back the booty from the battleground!
+- **9731**: All the loot my new boy'll bring in should stretch the Manustery's coffers to bursty-wursting! Not to mention the hefty raise that'll be added to my salary. <wink-wink>
+- **9732**: But first I have to teach him to bring back the good stuff and leave the junk... And that's where you come in, my fine adventuring friend! Do you think you could get me $1 and $2?
+- **9733**: Let's get cracking! Time is gil, you know!
+- **9734**: Have you broughtaru the items for the All-New C-3000 to look at?
+- **9735**: I need you to bring me $1 and $2. Whatcha waiting for?
+- **9736**: Excellentaru work! Here's something for your troubles!
+- **9737**: I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find.
+- **9738**: Hmm, paying you that reward has put me in the red, but it's all part of a larger investmentaru. I'm gonna be rich!
+- **9739**: I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find.
+- **9740**: If you find any more of those $1 and $2, hand 'em over to me!
+- **9741**: I don't understand it. The All-New C-3000s haven't been bringing in any $1 or $2...
+- **9742**: Where did I go wrong? All my calculations and adjustments were spot on. Even Minister Apururu said the craftsmanship was perfectaru.
+- **9743**: I can'taru let a little hiccup like this stand in the way of my impending fortune! I'll just keep giving the All-New C-3000s more $1 and $2 until they get it right!
+- **9744**: Keep on bringing me those items! This is going to work, I can feel it!
+- **11890**: Ask if this person is the chick's owner? [Yes./No.]
+- **11915**: What? You've got my chocobo!?
+- **11916**: You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more.
+- **11917**: You're raising a chocobo too, right? Let me teach you a story to show my gratitude...
+- **11937**: You've got my chocobo?
+- **11938**: Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy.
 
 ## Events
 
@@ -993,7 +993,7 @@
   1: 0x0197 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0198 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0199 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8058*)
+  4: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8059*)
     → "This is the Manustery--the ministry that's in charge of making and maintaining Cardians. Most people just refer to us as the "Cardian workshop.""
   5: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01A4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1028,13 +1028,13 @@
   1: 0x01B7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
+  4: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
     → "Mana Orbs are the hearts of Cardians, you know? If a Cardian were to lose its Mana Orb, it would return to being just an inanimate straw dolly-wolly."
   5: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+  6: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "And, if the magical energy in the Mana Orb ever runs out, even if you were to re-energize it with the gizmos in the magic towers, they still forget everything that they remembered up to then."
   7: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
+  8: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7765*)
     → "Either way, this is what's considered as "death" for Cardians."
   9: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01CC [0x1A] CALL_SUBROUTINE(address=0x0D7A)
@@ -1068,10 +1068,10 @@
   1: 0x01D8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01DA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7782*)
+  4: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
     → "The previous minister was a terrible man. When the war ended, he started throwing away our Cardians left, right and center."
   5: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7783*)
+  6: 0x01E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7784*)
     → "Of course the Cardians are going to run away. And of course they are going to come back and kidnap the previous minister. He should have seen it coming!"
   7: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01E9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1110,7 +1110,7 @@
   1: 0x01FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01FE [0x29] REQ_SET_WAIT(priority=0x0D, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x1E)
-  4: 0x0205 [0x24] CREATE_DIALOG(message_id=8074*, default_option=0*, option_flags=0*)
+  4: 0x0205 [0x24] CREATE_DIALOG(message_id=8075*, default_option=0*, option_flags=0*)
     → "Satisfied with Cardians? [No, not quite.../Yes, most sufficient.]"
   5: 0x020C [0x25] WAIT_DIALOG_SELECT()
   6: 0x020D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0224
@@ -1155,7 +1155,7 @@ SUBROUTINE_0250:
 
 ```
   0: 0x0254 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  1: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+  1: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
     → "Why, hello there, friend! Step right up here and tell me this--are you satisfied with our current Cardians?"
   2: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x025F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1194,7 +1194,7 @@ SUBROUTINE_0250:
   3: 0x026E [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x21)
   4: 0x0275 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x22)
   5: 0x027C [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x23)
-  6: 0x0283 [0x24] CREATE_DIALOG(message_id=8079*, default_option=0*, option_flags=0*)
+  6: 0x0283 [0x24] CREATE_DIALOG(message_id=8080*, default_option=0*, option_flags=0*)
     → "Want to go down in history? [Yes. Sign me up now!/No, I'm turning you down.]"
   7: 0x028A [0x25] WAIT_DIALOG_SELECT()
   8: 0x028B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02A9
@@ -1236,7 +1236,7 @@ SUBROUTINE_02D5:
 #### Opcodes
 
 ```
-  0: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+  0: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "Gee... You don't have to be such a wet blanket..."
   1: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DA [0x00] END_REQSTACK()
@@ -1263,7 +1263,7 @@ SUBROUTINE_02D5:
 
 ```
   0: 0x02DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  1: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+  1: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Well, have I got just the right thing for you! A brand new make of Cardian, I call..."
   2: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02E6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1292,7 +1292,7 @@ SUBROUTINE_02D5:
 
 ```
   0: 0x02EE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
-  1: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  1: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "Ta`da`!!! "The All-New C-2000"!"
   2: 0x02F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02F9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
@@ -1318,7 +1318,7 @@ SUBROUTINE_02D5:
 #### Opcodes
 
 ```
-  0: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
+  0: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
     → "So how about it, then!? Do you have the inclination to go down in the history of our nation by helping in the creation of this amazing new innovation in automatons?"
   1: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0305 [0x00] END_REQSTACK()
@@ -1345,7 +1345,7 @@ SUBROUTINE_02D5:
 
 ```
   0: 0x0306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x15)
-  1: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+  1: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "Gee... What do you have to be such a wet blanket for...?"
   2: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0311 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x16)
@@ -1371,7 +1371,7 @@ SUBROUTINE_02D5:
 #### Opcodes
 
 ```
-  0: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
+  0: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
     → "Oh, good! Stick with me, kid--with my brains and your brawn, we're bound to go places together!"
   1: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x031D [0x00] END_REQSTACK()
@@ -1401,20 +1401,20 @@ SUBROUTINE_02D5:
 
 ```
   0: 0x031E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+  1: 0x0325 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "You see...I just happened to be in the process of teaching "The All-New C-2000" the scents of different "enemies." "The All-New C-2000" has a better nose than us people do, you knows?"
   2: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+  3: 0x0329 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "For starters, I was hoping you could bring me some of the items that the monsters in Sarutabaruta drop."
   4: 0x032C [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x032D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
   6: 0x0334 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x03)
-  7: 0x033B [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+  7: 0x033B [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "Let me see... $1 and $2..."
   8: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x033F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x04)
  10: 0x0346 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x05)
- 11: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+ 11: 0x034D [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "Oh, and $3 would be nice to begin with. So good luck and goodbye! See you when you've obtained one of each of those items..."
  12: 0x0350 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0351 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x06)
@@ -1447,14 +1447,14 @@ SUBROUTINE_02D5:
   1: 0x035E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x035F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0360 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0367 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
+  4: 0x0367 [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
     → "Have you obtained the items I need to educate the "All-New C-2000" yet?"
   5: 0x036A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+  6: 0x036B [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
     → "Don't forget, now... I need $1, $2, and $3."
   7: 0x036E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x036F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
-  9: 0x0376 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+  9: 0x0376 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "So hurry, hur`ry! You don't want someone else to beat you to it, and have their name go down in history instead of yours, do you?"
  10: 0x0379 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x037A [0x1A] CALL_SUBROUTINE(address=0x0D7A)
@@ -1491,15 +1491,15 @@ SUBROUTINE_02D5:
   3: 0x0389 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x038A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x038B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
+  6: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
     → "Mighty obliged to you there, friend. Your name will go down in Windurstian history for sure now!"
   7: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
+  8: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
     → "So don't complain if your reward isn't as good as expected, kid."
   9: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x039A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
  11: 0x03A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 12: 0x03B2 [0x48] [System] [6555*]:
+ 12: 0x03B2 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  13: 0x03B5 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  14: 0x03B7 [0x21] END_EVENT
@@ -1531,10 +1531,10 @@ SUBROUTINE_02D5:
   1: 0x03BE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03BF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
+  4: 0x03C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
     → "This is how we teach the Cardians we create to remember all kinds of things."
   5: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+  6: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
     → "I guess it's kind of like being their mother or father."
   7: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x03CF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1575,7 +1575,7 @@ SUBROUTINE_02D5:
   3: 0x03E4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x2B)
   4: 0x03EB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x2C)
   5: 0x03F2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x2D)
-  6: 0x03F9 [0x24] CREATE_DIALOG(message_id=8104*, default_option=0*, option_flags=0*)
+  6: 0x03F9 [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
     → "Agree to help him out? [Yeah./Naw.]"
   7: 0x0400 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0401 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0418
@@ -1616,12 +1616,12 @@ SUBROUTINE_0432:
 
 ```
   0: 0x0436 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x03)
-  1: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
+  1: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
     → "Hey, you've come back here again?"
   2: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0441 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x04)
   4: 0x0448 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x05)
-  5: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+  5: 0x044F [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "Oh well, seeing as you're here, you might as well make yourself useful. You see, I've just made another new type of Cardian. This time, I'm calling it..."
   6: 0x0452 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0453 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x06)
@@ -1649,7 +1649,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x045B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
-  1: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
+  1: 0x0462 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
     → "Ta`da`!!! "The All-New C-2000"!"
   2: 0x0465 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0466 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
@@ -1678,11 +1678,11 @@ SUBROUTINE_0432:
 
 ```
   0: 0x046E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x09)
-  1: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+  1: 0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Huh...? Whaddayamean, "Yeah, yeah, I've heard it before?""
   2: 0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0479 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0A)
-  4: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+  4: 0x0480 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "Next you'll be telling me you know what items I want you to bring, rightaru? Anyway, I guess that means you'll be helping me out, then?"
   5: 0x0483 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0484 [0x00] END_REQSTACK()
@@ -1709,7 +1709,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x0485 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  1: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+  1: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "Gee...you don't have to be such a tease!"
   2: 0x048F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0490 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1737,7 +1737,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x0498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  1: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
+  1: 0x049F [0x1D] PRINT_EVENT_MESSAGE(message_id=8107*)
     → "Great! Head on out to Sarutabaruta and procure me those items, then!"
   2: 0x04A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x04A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1769,10 +1769,10 @@ SUBROUTINE_0432:
   1: 0x04B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
+  4: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
     → "Oh, you mean that Cardian...? So he's grown up to become number five already, huh?"
   5: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8131*)
+  6: 0x04BD [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
     → "<Sigh>... When I hear that, it brings home to me just how short the lifespans of our Cardians are becoming..."
   7: 0x04C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1807,7 +1807,7 @@ SUBROUTINE_0432:
   1: 0x04D4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x04D5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x04D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8142*)
+  4: 0x04DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8143*)
     → "Say...I wonder whether that Cardian properly forgot the "hats suck" line I taught him?"
   5: 0x04E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x04E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -1923,16 +1923,16 @@ SUBROUTINE_0432:
  44: 0x0661 [0x4A] Boizo-Naizo (ID: 17764373/0x010F1015) looks at Kopuro-Popuro (ID: 17764374/0x010F1016)
  45: 0x066A [0x4A] Apururu (ID: 17764372/0x010F1014) looks at Kopuro-Popuro (ID: 17764374/0x010F1016)
  46: 0x0673 [0x27] REQ_SET(priority=0x0B, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x34)
- 47: 0x067A [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8152*]:
+ 47: 0x067A [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8153*]:
     → "Long, long ago, our old Manustery was facing a financial crisis much like we are today..."
  48: 0x0681 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0682 [0x4A] LocalPlayer looks at Kopuro-Popuro (ID: 17764374/0x010F1016)
- 50: 0x068B [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8153*]:
+ 50: 0x068B [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8154*]:
     → "This was in an age long before airships connected the cities of Vana'diel with the convenient network we have now."
  51: 0x0692 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0693 [0x4A] Boizo-Naizo (ID: 17764373/0x010F1015) looks at Kopuro-Popuro (ID: 17764374/0x010F1016)
  53: 0x069C [0x4A] Apururu (ID: 17764372/0x010F1014) looks at Kopuro-Popuro (ID: 17764374/0x010F1016)
- 54: 0x06A5 [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8154*]:
+ 54: 0x06A5 [0x2B] Kopuro-Popuro (ID: 17764374/0x010F1016) [8155*]:
     → "Back then, travelers on their way to Jeuno were menaced by fearsome nocturnal-wurnal monsters."
  55: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x06AD [0x2A] GET_REQ_LEVEL(level=11, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016))
@@ -2064,7 +2064,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x07A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0B)
-  1: 0x07A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
+  1: 0x07A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
     → "I know, Minister Apururu! It looks like it's time to implement "Legendary Plan B"!"
   2: 0x07AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07AB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0C)
@@ -2090,7 +2090,7 @@ SUBROUTINE_0432:
 #### Opcodes
 
 ```
-  0: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8152*)
+  0: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8153*)
     → "Long, long ago, our old Manustery was facing a financial crisis much like we are today..."
   1: 0x07B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x07B7 [0x00] END_REQSTACK()
@@ -2116,10 +2116,10 @@ SUBROUTINE_0432:
 #### Opcodes
 
 ```
-  0: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8153*)
+  0: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8154*)
     → "This was in an age long before airships connected the cities of Vana'diel with the convenient network we have now."
   1: 0x07BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x07BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8154*)
+  2: 0x07BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8155*)
     → "Back then, travelers on their way to Jeuno were menaced by fearsome nocturnal-wurnal monsters."
   3: 0x07BF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x07C0 [0x00] END_REQSTACK()
@@ -2146,7 +2146,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x07C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
-  1: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8155*)
+  1: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8156*)
     → "To brighten up the future for those travelers, our predecessors, in their great wisdom, devised a charm for trekkers they called the "Gadabout's Gris-gris"!"
   2: 0x07CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
@@ -2174,7 +2174,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x07D4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0F)
-  1: 0x07DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8156*)
+  1: 0x07DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8157*)
     → "The effect of these charms was astounding, and the reduction in the number of dangerous incidents that befell Jeuno-bound travelers was significant."
   2: 0x07DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x07DF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x10)
@@ -2201,11 +2201,11 @@ SUBROUTINE_0432:
 #### Opcodes
 
 ```
-  0: 0x07E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8159*)
+  0: 0x07E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
     → "Well, you need all kinds of items that nocturnal monsters drop when defeated."
   1: 0x07EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x07EB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  3: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8160*)
+  3: 0x07F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8161*)
     → "In order to make a charm, I think we just need: $1, $2, and $3."
   4: 0x07F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x07F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2238,10 +2238,10 @@ SUBROUTINE_0432:
   1: 0x0803 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0804 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0805 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x080C [0x1D] PRINT_EVENT_MESSAGE(message_id=8162*)
+  4: 0x080C [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
     → "You'll help us out as well, won'taru you? Please collect one of each of the items that the nocturnal monsters drop."
   5: 0x080F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0810 [0x1D] PRINT_EVENT_MESSAGE(message_id=8163*)
+  6: 0x0810 [0x1D] PRINT_EVENT_MESSAGE(message_id=8164*)
     → "Remember, we need $1, $2, and $3 to make one charm. Good luck, kiddo!"
   7: 0x0813 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0814 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2276,10 +2276,10 @@ SUBROUTINE_0432:
   1: 0x0827 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0828 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0829 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=8170*)
+  4: 0x0830 [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
     → "Oh, $1, $2, and $3... Looks likey we have everything!"
   5: 0x0833 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8171*)
+  6: 0x0834 [0x1D] PRINT_EVENT_MESSAGE(message_id=8172*)
     → "Here's your cut... Good work, kid!"
   7: 0x0837 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0838 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2417,10 +2417,10 @@ SUBROUTINE_0432:
   1: 0x09E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8178*)
+  4: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
     → "I don't get it... What went wrong with Legendary Plan B?"
   5: 0x09F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8179*)
+  6: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8180*)
     → "I know...I bet someone deliberately set out to interfere with my plan! Yeah, that's it. Someone must have employed adventurers to go out and hunt nocturnal monsters."
   7: 0x09F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2478,10 +2478,10 @@ SUBROUTINE_0432:
   1: 0x0A0D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A0E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A0F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8475*)
+  4: 0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8476*)
     → "There are many taboos when one breathes life into these automaton dolls, you know, kid?"
   5: 0x0A19 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=8476*)
+  6: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=8477*)
     → "One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!"
   7: 0x0A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A1E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2516,10 +2516,10 @@ SUBROUTINE_0432:
   1: 0x0A31 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A32 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8486*)
+  4: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8487*)
     → "There are many taboos when one breathes life into these automaton dolls, you know, kid?"
   5: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A3E [0x1D] PRINT_EVENT_MESSAGE(message_id=8487*)
+  6: 0x0A3E [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
     → "One very important rule is to never cast a second batch of magic on a doll that already has magic placed on it. If you're not careful, either you or the doll could die! Shivers!"
   7: 0x0A41 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2650,7 +2650,7 @@ SUBROUTINE_0432:
 #### Opcodes
 
 ```
-  0: 0x0A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=8183*)
+  0: 0x0A84 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
     → "Minister Apururu!"
   1: 0x0A87 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0A88 [0x00] END_REQSTACK()
@@ -2677,7 +2677,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x0A89 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x13)
-  1: 0x0A90 [0x1D] PRINT_EVENT_MESSAGE(message_id=8184*)
+  1: 0x0A90 [0x1D] PRINT_EVENT_MESSAGE(message_id=8185*)
     → "It's Queen of Hearts, Miss! She's come back all wounded and hurt!"
   2: 0x0A93 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0A94 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x14)
@@ -2705,7 +2705,7 @@ SUBROUTINE_0432:
 
 ```
   0: 0x0A9C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x09)
-  1: 0x0AA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8186*)
+  1: 0x0AA3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8187*)
     → "You should stay there, kid. I think the minister is giving Queen of Hearts its last rites."
   2: 0x0AA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0AA7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0A)
@@ -2738,13 +2738,13 @@ SUBROUTINE_0432:
   1: 0x0AB4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0AB5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0AB6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0ABD [0x1D] PRINT_EVENT_MESSAGE(message_id=8201*)
+  4: 0x0ABD [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
     → "The Cardian who died just then was one that Minister Apururu raised personally..."
   5: 0x0AC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0AC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8202*)
+  6: 0x0AC1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
     → "That Cardian was able to make it back here with her remaining strength, but I fear Queen of Diamonds was not so lucky..."
   7: 0x0AC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0AC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8203*)
+  8: 0x0AC5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8204*)
     → "Even if we only find one of her parts, at least we'll be able to give her a proper burial..."
   9: 0x0AC8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0AC9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2779,13 +2779,13 @@ SUBROUTINE_0432:
   1: 0x0ADC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0ADD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0ADE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0AE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8232*)
+  4: 0x0AE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8233*)
     → "Did Boizo-Naizo really just dish out $2 gil just then?"
   5: 0x0AE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8233*)
+  6: 0x0AE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
     → "I don't know where such an amount came from, as our Manustery certainly doesn't have that to spare... Ah!"
   7: 0x0AEC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0AED [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
+  8: 0x0AED [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
     → "That's rightaru...he was just saying that he finally saved up enough gil to buy the latest hat creation from the hatter! You don'taru suppose he used that money to pay you, do you?"
   9: 0x0AF0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0AF1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2821,10 +2821,10 @@ SUBROUTINE_0432:
   1: 0x0B04 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B05 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0B0D [0x1D] PRINT_EVENT_MESSAGE(message_id=9529*)
+  4: 0x0B0D [0x1D] PRINT_EVENT_MESSAGE(message_id=9530*)
     → "Minister Ajido-Marujido succeeded in reactivating the towers, didn'taru he?"
   5: 0x0B10 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9530*)
+  6: 0x0B11 [0x1D] PRINT_EVENT_MESSAGE(message_id=9531*)
     → "Isn't that a good thing? Why'd they have to go and throw him into the Dark Dungeon?"
   7: 0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B15 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2859,10 +2859,10 @@ SUBROUTINE_0432:
   1: 0x0B28 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B29 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B2A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9558*)
+  4: 0x0B31 [0x1D] PRINT_EVENT_MESSAGE(message_id=9559*)
     → "You're worried, rightaru? I'm worried about Minister Ajido-Marujido, too."
   5: 0x0B34 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=9559*)
+  6: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=9560*)
     → "I'm so worried, the Cardians I've made have learned how to sigh from me. What a dilemma. <sigh>"
   7: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0B39 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -2944,12 +2944,12 @@ SUBROUTINE_0432:
   1: 0x0B52 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B53 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B54 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x03)
-  4: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=9680*)
+  4: 0x0B5B [0x1D] PRINT_EVENT_MESSAGE(message_id=9681*)
     → "Minsiter Apururu is doing her bestaru to hide something from us..."
   5: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B5F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x04)
   7: 0x0B66 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x05)
-  8: 0x0B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9681*)
+  8: 0x0B6D [0x1D] PRINT_EVENT_MESSAGE(message_id=9682*)
     → "But she's so bad at lying-wying it makes it hard for us to pretend that we don't notice."
   9: 0x0B70 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0B71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x06)
@@ -2986,12 +2986,12 @@ SUBROUTINE_0432:
   1: 0x0B84 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0B85 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0B86 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
+  4: 0x0B8D [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
     → "The ring of the Manustery has finally-winally made its way back to the hand of Minister Apururu. Now I can make new and improved Cardian-wardians!"
   5: 0x0B90 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0B91 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
   7: 0x0B98 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
-  8: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
+  8: 0x0B9F [0x1D] PRINT_EVENT_MESSAGE(message_id=9719*)
     → "Hmm, I think I'll inventaru one that has a spinning staff attack. That should make a nice breezey-weeze for those hot summer days..."
   9: 0x0BA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0BA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
@@ -3035,50 +3035,50 @@ SUBROUTINE_0432:
   1: 0x0BB6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0BB7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0BB8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0BBF [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+  4: 0x0BBF [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
     → "Why, hello there, friend! Step right up here and tell me this--are you satisfied with our current Cardians?"
   5: 0x0BC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0BC3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
-  7: 0x0BCA [0x24] CREATE_DIALOG(message_id=8074*, default_option=0*, option_flags=0*)
+  7: 0x0BCA [0x24] CREATE_DIALOG(message_id=8075*, default_option=0*, option_flags=0*)
     → "Satisfied with Cardians? [No, not quite.../Yes, most sufficient.]"
   8: 0x0BD1 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0BD2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C4F
  10: 0x0BDA [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x0BDB [0x03] Work_Zone[1] = 1*
  12: 0x0BE0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
- 13: 0x0BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+ 13: 0x0BE7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Well, have I got just the right thing for you! A brand new make of Cardian, I call..."
  14: 0x0BEA [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0BEB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
  16: 0x0BF2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
- 17: 0x0BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9728*)
+ 17: 0x0BF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9729*)
     → "Ta`da`!!! "The All-New C-3000"!"
  18: 0x0BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0BFD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
  20: 0x0C04 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0F)
- 21: 0x0C0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9729*)
+ 21: 0x0C0B [0x1D] PRINT_EVENT_MESSAGE(message_id=9730*)
     → "This new Cardian is truly amazing, I tell you. Not only can it defeat its enemies before you can say "Now, where's that darn Cardian got to?" but it also brings back the booty from the battleground!"
  22: 0x0C0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0C0F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x10)
  24: 0x0C16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0D)
- 25: 0x0C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=9730*)
+ 25: 0x0C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=9731*)
     → "All the loot my new boy'll bring in should stretch the Manustery's coffers to bursty-wursting! Not to mention the hefty raise that'll be added to my salary. <wink-wink>"
  26: 0x0C20 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0C21 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0E)
  28: 0x0C28 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x03)
- 29: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9731*)
+ 29: 0x0C2F [0x1D] PRINT_EVENT_MESSAGE(message_id=9732*)
     → "But first I have to teach him to bring back the good stuff and leave the junk... And that's where you come in, my fine adventuring friend! Do you think you could get me $1 and $2?"
  30: 0x0C32 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0C33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x04)
  32: 0x0C3A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x05)
- 33: 0x0C41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9732*)
+ 33: 0x0C41 [0x1D] PRINT_EVENT_MESSAGE(message_id=9733*)
     → "Let's get cracking! Time is gil, you know!"
  34: 0x0C44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0C45 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x06)
  36: 0x0C4C [0x01] GOTO 0x0C66
  37: 0x0C4F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C66
  38: 0x0C57 [0x03] Work_Zone[1] = 2*
- 39: 0x0C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+ 39: 0x0C5C [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "Gee... You don't have to be such a wet blanket..."
  40: 0x0C5F [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0C60 [0x1A] CALL_SUBROUTINE(address=0x0D7A)
@@ -3115,10 +3115,10 @@ SUBROUTINE_0C66:
   1: 0x0C6F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0C70 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0C71 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=9733*)
+  4: 0x0C78 [0x1D] PRINT_EVENT_MESSAGE(message_id=9734*)
     → "Have you broughtaru the items for the All-New C-3000 to look at?"
   5: 0x0C7B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=9734*)
+  6: 0x0C7C [0x1D] PRINT_EVENT_MESSAGE(message_id=9735*)
     → "I need you to bring me $1 and $2. Whatcha waiting for?"
   7: 0x0C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0C80 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -3160,26 +3160,26 @@ SUBROUTINE_0C66:
   3: 0x0C96 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0C97 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0C98 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x17)
-  6: 0x0C9F [0x1D] PRINT_EVENT_MESSAGE(message_id=9735*)
+  6: 0x0C9F [0x1D] PRINT_EVENT_MESSAGE(message_id=9736*)
     → "Excellentaru work! Here's something for your troubles!"
   7: 0x0CA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0CA3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x18)
   9: 0x0CAA [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x0CC7
  10: 0x0CB2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
- 11: 0x0CB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9739*)
+ 11: 0x0CB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9740*)
     → "If you find any more of those $1 and $2, hand 'em over to me!"
  12: 0x0CBC [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0CBD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
  14: 0x0CC4 [0x01] GOTO 0x0CD9
  15: 0x0CC7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
- 16: 0x0CCE [0x1D] PRINT_EVENT_MESSAGE(message_id=9736*)
+ 16: 0x0CCE [0x1D] PRINT_EVENT_MESSAGE(message_id=9737*)
     → "I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find."
  17: 0x0CD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0CD2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
 
 SUBROUTINE_0CD9:
  19: 0x0CD9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x07)
- 20: 0x0CE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9737*)
+ 20: 0x0CE0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9738*)
     → "Hmm, paying you that reward has put me in the red, but it's all part of a larger investmentaru. I'm gonna be rich!"
  21: 0x0CE3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0CE4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x08)
@@ -3214,10 +3214,10 @@ SUBROUTINE_0CD9:
   1: 0x0D05 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D06 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0D07 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
-  4: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9738*)
+  4: 0x0D0E [0x1D] PRINT_EVENT_MESSAGE(message_id=9739*)
     → "I'm going to make oodles and scoodles of All-New C-3000s, so bring me all the $1 and $2 that you can find."
   5: 0x0D11 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0D12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9737*)
+  6: 0x0D12 [0x1D] PRINT_EVENT_MESSAGE(message_id=9738*)
     → "Hmm, paying you that reward has put me in the red, but it's all part of a larger investmentaru. I'm gonna be rich!"
   7: 0x0D15 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0D16 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -3265,22 +3265,22 @@ SUBROUTINE_0CD9:
   1: 0x0D29 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0D2A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0D2B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x03)
-  4: 0x0D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9740*)
+  4: 0x0D32 [0x1D] PRINT_EVENT_MESSAGE(message_id=9741*)
     → "I don't understand it. The All-New C-3000s haven't been bringing in any $1 or $2..."
   5: 0x0D35 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0D36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x04)
   7: 0x0D3D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x05)
-  8: 0x0D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9741*)
+  8: 0x0D44 [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
     → "Where did I go wrong? All my calculations and adjustments were spot on. Even Minister Apururu said the craftsmanship was perfectaru."
   9: 0x0D47 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0D48 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x06)
  11: 0x0D4F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0D)
- 12: 0x0D56 [0x1D] PRINT_EVENT_MESSAGE(message_id=9742*)
+ 12: 0x0D56 [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
     → "I can'taru let a little hiccup like this stand in the way of my impending fortune! I'll just keep giving the All-New C-3000s more $1 and $2 until they get it right!"
  13: 0x0D59 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0D5A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x0E)
  15: 0x0D61 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x01)
- 16: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=9743*)
+ 16: 0x0D68 [0x1D] PRINT_EVENT_MESSAGE(message_id=9744*)
     → "Keep on bringing me those items! This is going to work, I can feel it!"
  17: 0x0D6B [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0D6C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Kopuro-Popuro (ID: 17764374/0x010F1016), tag_num=0x02)
@@ -3297,7 +3297,7 @@ SUBROUTINE_0D7A:
  27: 0x0D8B [0x03] Work_Zone[1] = 2*
  28: 0x0D90 [0x01] GOTO 0x0E14
  29: 0x0D93 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 30: 0x0D94 [0x24] CREATE_DIALOG(message_id=11889*, default_option=1*, option_flags=0*)
+ 30: 0x0D94 [0x24] CREATE_DIALOG(message_id=11890*, default_option=1*, option_flags=0*)
     → "Ask if this person is the chick's owner? [Yes./No.]"
  31: 0x0D9B [0x25] WAIT_DIALOG_SELECT()
  32: 0x0D9C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E04
@@ -3307,23 +3307,23 @@ SUBROUTINE_0D7A:
  36: 0x0DB1 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  37: 0x0DB3 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  38: 0x0DB5 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0DEA
- 39: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=11914*)
+ 39: 0x0DBD [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
     → "What? You've got my chocobo!?"
  40: 0x0DC0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0DC1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 42: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11915*)
+ 42: 0x0DD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
     → "You know, looking at these lifeless Cardians all the time makes me yearn for flesh-and-blood companionship all the more."
  43: 0x0DD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0DD4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
- 45: 0x0DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11916*)
+ 45: 0x0DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11917*)
     → "You're raising a chocobo too, right? Let me teach you a story to show my gratitude..."
  46: 0x0DE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0DE7 [0x01] GOTO 0x0E01
- 48: 0x0DEA [0x1D] PRINT_EVENT_MESSAGE(message_id=11936*)
+ 48: 0x0DEA [0x1D] PRINT_EVENT_MESSAGE(message_id=11937*)
     → "You've got my chocobo?"
  49: 0x0DED [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0DEE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 51: 0x0DFD [0x1D] PRINT_EVENT_MESSAGE(message_id=11937*)
+ 51: 0x0DFD [0x1D] PRINT_EVENT_MESSAGE(message_id=11938*)
     → "Whenever I take my chocobo on a walk, I also bring along a Cardian to make sure nobody gets lost! I'm afraid you've got the wrong guy."
  52: 0x0E00 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

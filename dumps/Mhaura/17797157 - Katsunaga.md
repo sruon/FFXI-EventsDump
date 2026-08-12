@@ -27,35 +27,35 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BA9      |        7081 |
-|       1 | 0x1BAA      |        7082 |
-|       2 | 0x1BAB      |        7083 |
-|       3 | 0x1BAC      |        7084 |
-|       4 | 0x1BAD      |        7085 |
+|       0 | 0x1BAA      |        7082 |
+|       1 | 0x1BAB      |        7083 |
+|       2 | 0x1BAC      |        7084 |
+|       3 | 0x1BAD      |        7085 |
+|       4 | 0x1BAE      |        7086 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1BAE      |        7086 |
-|       7 | 0x1BAF      |        7087 |
-|       8 | 0x1BB0      |        7088 |
+|       6 | 0x1BAF      |        7087 |
+|       7 | 0x1BB0      |        7088 |
+|       8 | 0x1BB1      |        7089 |
 |       9 | 0x000A      |          10 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x1BB6      |        7094 |
-|      12 | 0x1BB1      |        7089 |
-|      13 | 0x1BB2      |        7090 |
-|      14 | 0x1BB3      |        7091 |
-|      15 | 0x1BB4      |        7092 |
+|      11 | 0x1BB7      |        7095 |
+|      12 | 0x1BB2      |        7090 |
+|      13 | 0x1BB3      |        7091 |
+|      14 | 0x1BB4      |        7092 |
+|      15 | 0x1BB5      |        7093 |
 |      16 | 0x00C9      |         201 |
-|      17 | 0x1BB5      |        7093 |
-|      18 | 0x1BB7      |        7095 |
-|      19 | 0x1BB8      |        7096 |
+|      17 | 0x1BB6      |        7094 |
+|      18 | 0x1BB8      |        7096 |
+|      19 | 0x1BB9      |        7097 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x1BBA      |        7098 |
+|      21 | 0x1BBB      |        7099 |
 |      22 | 0x0018      |          24 |
 |      23 | 0x001F      |          31 |
 |      24 | 0x0007      |           7 |
 |      25 | 0x00A4      |         164 |
 |      26 | 0x0010      |          16 |
 |      27 | 0xFFFFFFFF  |  4294967295 |
-|      28 | 0x1BB9      |        7097 |
+|      28 | 0x1BBA      |        7098 |
 |      29 | 0x0011      |          17 |
 |      30 | 0x0012      |          18 |
 |      31 | 0x0003      |           3 |
@@ -379,23 +379,23 @@
 
 ## String References
 
-- **7081**: Fishing is an art... I have nothing to say to one who has never held a fishing rod in his life.
-- **7082**: Ah, I see you have dabbled in the art of fishing...
-- **7083**: But you still have a long way to go. Come back when you've managed to catch some bigger game.
-- **7084**: Tell me...do you remember all the catches you've made until now? Do you wish to know?
-- **7085**: Do you want to know your fishing history? [Yes./No.]
-- **7086**: Of course you do. As would all practitioners of the art.
-- **7087**: But no one can keep track of all their catches. Except for me. I can even tell you of your past achievements...for a price.
-- **7088**: I only ask you to bring me $0. A small price to pay for such information, isn't it?
-- **7089**: You've brought it. Very well, I will tell you.
-- **7090**: You've cast your line $1 time[/s] and made $2 catch[/es].
-- **7091**: The biggest fish you caught by size was $4 measuring $3 [ilm/ilms], and the biggest fish you caught by weight was $6 weighing $5 [ponz/ponzes].
-- **7092**: If you want me to tell you again, then just come see me. I'll be waiting here.
-- **7093**: If you want me to tell you about your past catches, bring me $0.
-- **7094**: I see... You may not want me to do so now, but you will eventually. You know where to find me.
-- **7095**: Back, I see. what do you want to know?
-- **7096**: What would you like to know about? [Types of fish caught./Catching fish./None of the above.]
-- **7098**: Debug menu! [Check flags./Restore fish count./Reset flags./Nope.]
+- **7082**: Fishing is an art... I have nothing to say to one who has never held a fishing rod in his life.
+- **7083**: Ah, I see you have dabbled in the art of fishing...
+- **7084**: But you still have a long way to go. Come back when you've managed to catch some bigger game.
+- **7085**: Tell me...do you remember all the catches you've made until now? Do you wish to know?
+- **7086**: Do you want to know your fishing history? [Yes./No.]
+- **7087**: Of course you do. As would all practitioners of the art.
+- **7088**: But no one can keep track of all their catches. Except for me. I can even tell you of your past achievements...for a price.
+- **7089**: I only ask you to bring me $0. A small price to pay for such information, isn't it?
+- **7090**: You've brought it. Very well, I will tell you.
+- **7091**: You've cast your line $1 time[/s] and made $2 catch[/es].
+- **7092**: The biggest fish you caught by size was $4 measuring $3 [ilm/ilms], and the biggest fish you caught by weight was $6 weighing $5 [ponz/ponzes].
+- **7093**: If you want me to tell you again, then just come see me. I'll be waiting here.
+- **7094**: If you want me to tell you about your past catches, bring me $0.
+- **7095**: I see... You may not want me to do so now, but you will eventually. You know where to find me.
+- **7096**: Back, I see. what do you want to know?
+- **7097**: What would you like to know about? [Types of fish caught./Catching fish./None of the above.]
+- **7099**: Debug menu! [Check flags./Restore fish count./Reset flags./Nope.]
 
 ## Events
 
@@ -443,7 +443,7 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7081*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
     → "Fishing is an art... I have nothing to say to one who has never held a fishing rod in his life."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x21] END_EVENT
@@ -473,10 +473,10 @@
   0: 0x000E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0013 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0014 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "Ah, I see you have dabbled in the art of fishing..."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
+  5: 0x0019 [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
     → "But you still have a long way to go. Come back when you've managed to catch some bigger game."
   6: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001D [0x21] END_EVENT
@@ -510,31 +510,31 @@
   0: 0x001F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0024 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0025 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+  3: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "Ah, I see you have dabbled in the art of fishing..."
   4: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
+  5: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
     → "Tell me...do you remember all the catches you've made until now? Do you wish to know?"
   6: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x002E [0x24] CREATE_DIALOG(message_id=7085*, default_option=0*, option_flags=0*)
+  7: 0x002E [0x24] CREATE_DIALOG(message_id=7086*, default_option=0*, option_flags=0*)
     → "Do you want to know your fishing history? [Yes./No.]"
   8: 0x0035 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0036 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0055
  10: 0x003E [0x42] SET_CLI_EVENT_CANCEL_DATA()
  11: 0x003F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
- 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
+ 12: 0x0041 [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
     → "Of course you do. As would all practitioners of the art."
  13: 0x0044 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
+ 14: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7088*)
     → "But no one can keep track of all their catches. Except for me. I can even tell you of your past achievements...for a price."
  15: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7088*)
+ 16: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
     → "I only ask you to bring me $0. A small price to pay for such information, isn't it?"
  17: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x004D [0x03] Work_Zone[1] = 10*
  19: 0x0052 [0x01] GOTO 0x0064
  20: 0x0055 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0064
- 21: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7094*)
+ 21: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7095*)
     → "I see... You may not want me to do so now, but you will eventually. You know where to find me."
  22: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0061 [0x01] GOTO 0x0064
@@ -572,18 +572,18 @@ SUBROUTINE_0064:
   2: 0x0069 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x006E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x006F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+  5: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "You've brought it. Very well, I will tell you."
   6: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
+  7: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
     → "You've cast your line $1 time[/s] and made $2 catch[/es]."
   8: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0078 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x008C
  10: 0x0080 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x008C
- 11: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
+ 11: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
     → "The biggest fish you caught by size was $4 measuring $3 [ilm/ilms], and the biggest fish you caught by weight was $6 weighing $5 [ponz/ponzes]."
  12: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 13: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
+ 13: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
     → "If you want me to tell you again, then just come see me. I'll be waiting here."
  14: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0090 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -617,13 +617,13 @@ SUBROUTINE_0064:
   2: 0x00A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x00AB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x00AC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+  5: 0x00AD [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "You've brought it. Very well, I will tell you."
   6: 0x00B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
+  7: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
     → "You've cast your line $1 time[/s] and made $2 catch[/es]."
   8: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
+  9: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
     → "If you want me to tell you again, then just come see me. I'll be waiting here."
  10: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -654,7 +654,7 @@ SUBROUTINE_0064:
   0: 0x00CC [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00D1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00D2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
+  3: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7094*)
     → "If you want me to tell you about your past catches, bring me $0."
   4: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00D7 [0x21] END_EVENT
@@ -691,11 +691,11 @@ SUBROUTINE_0064:
   2: 0x00DF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00E0 [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[2]
   4: 0x00E5 [0x03] ExtData[1]->WorkLocal[10] = 1*
-  5: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7095*)
+  5: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
     → "Back, I see. what do you want to know?"
   6: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00EE [0x02] IF !(ExtData[1]->WorkLocal[10] == 1*) GOTO 0x0131
-  8: 0x00F6 [0x24] CREATE_DIALOG(message_id=7096*, default_option=0*, option_flags=0*)
+  8: 0x00F6 [0x24] CREATE_DIALOG(message_id=7097*, default_option=0*, option_flags=0*)
     → "What would you like to know about? [Types of fish caught./Catching fish./None of the above.]"
   9: 0x00FD [0x25] WAIT_DIALOG_SELECT()
  10: 0x00FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010C
@@ -705,7 +705,7 @@ SUBROUTINE_0064:
  14: 0x0114 [0x1A] CALL_SUBROUTINE(address=0x0194)
  15: 0x0117 [0x01] GOTO 0x012E
  16: 0x011A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x012E
- 17: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
+ 17: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=7093*)
     → "If you want me to tell you again, then just come see me. I'll be waiting here."
  18: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0126 [0x03] ExtData[1]->WorkLocal[10] = 0*
@@ -826,7 +826,7 @@ SUBROUTINE_012E:
   2: 0x013D [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[3]
   3: 0x0142 [0x03] ExtData[1]->WorkLocal[11] = 1*
   4: 0x0147 [0x02] IF !(ExtData[1]->WorkLocal[11] == 1*) GOTO 0x0192
-  5: 0x014F [0x24] CREATE_DIALOG(message_id=7098*, default_option=0*, option_flags=0*)
+  5: 0x014F [0x24] CREATE_DIALOG(message_id=7099*, default_option=0*, option_flags=0*)
     → "Debug menu! [Check flags./Restore fish count./Reset flags./Nope.]"
   6: 0x0156 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0157 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0165
@@ -945,12 +945,12 @@ SUBROUTINE_0363:
      0x019D [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=0*)
      0x01A6 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
      0x01A8 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
-     0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
+     0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
     → "You've cast your line $1 time[/s] and made $2 catch[/es]."
      0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01AE [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x01C2
      0x01B6 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x01C2
-     0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7091*)
+     0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=7092*)
     → "The biggest fish you caught by size was $4 measuring $3 [ilm/ilms], and the biggest fish you caught by weight was $6 weighing $5 [ponz/ponzes]."
      0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01C2 [0x1B] RETURN

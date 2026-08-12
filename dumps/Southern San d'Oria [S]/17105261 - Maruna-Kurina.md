@@ -21,584 +21,584 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x2C2F      |       11311 |
-|       2 | 0x2C30      |       11312 |
-|       3 | 0x2C31      |       11313 |
+|       1 | 0x2C30      |       11312 |
+|       2 | 0x2C31      |       11313 |
+|       3 | 0x2C32      |       11314 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2C32      |       11314 |
-|       6 | 0x2C33      |       11315 |
-|       7 | 0x2C34      |       11316 |
-|       8 | 0x2C35      |       11317 |
+|       5 | 0x2C33      |       11315 |
+|       6 | 0x2C34      |       11316 |
+|       7 | 0x2C35      |       11317 |
+|       8 | 0x2C36      |       11318 |
 |       9 | 0x0002      |           2 |
-|      10 | 0x2C36      |       11318 |
-|      11 | 0x2C37      |       11319 |
-|      12 | 0x2C38      |       11320 |
-|      13 | 0x2C39      |       11321 |
-|      14 | 0x2C3A      |       11322 |
-|      15 | 0x2C3B      |       11323 |
-|      16 | 0x2C3C      |       11324 |
-|      17 | 0x2C3D      |       11325 |
-|      18 | 0x2C3E      |       11326 |
-|      19 | 0x2C3F      |       11327 |
-|      20 | 0x2C40      |       11328 |
-|      21 | 0x2C41      |       11329 |
-|      22 | 0x2C42      |       11330 |
-|      23 | 0x2C43      |       11331 |
-|      24 | 0x2C44      |       11332 |
-|      25 | 0x2C45      |       11333 |
-|      26 | 0x2C46      |       11334 |
-|      27 | 0x2C47      |       11335 |
-|      28 | 0x2C48      |       11336 |
-|      29 | 0x2C49      |       11337 |
-|      30 | 0x2C4A      |       11338 |
+|      10 | 0x2C37      |       11319 |
+|      11 | 0x2C38      |       11320 |
+|      12 | 0x2C39      |       11321 |
+|      13 | 0x2C3A      |       11322 |
+|      14 | 0x2C3B      |       11323 |
+|      15 | 0x2C3C      |       11324 |
+|      16 | 0x2C3D      |       11325 |
+|      17 | 0x2C3E      |       11326 |
+|      18 | 0x2C3F      |       11327 |
+|      19 | 0x2C40      |       11328 |
+|      20 | 0x2C41      |       11329 |
+|      21 | 0x2C42      |       11330 |
+|      22 | 0x2C43      |       11331 |
+|      23 | 0x2C44      |       11332 |
+|      24 | 0x2C45      |       11333 |
+|      25 | 0x2C46      |       11334 |
+|      26 | 0x2C47      |       11335 |
+|      27 | 0x2C48      |       11336 |
+|      28 | 0x2C49      |       11337 |
+|      29 | 0x2C4A      |       11338 |
+|      30 | 0x2C4B      |       11339 |
 |      31 | 0x0078      |         120 |
-|      32 | 0x2C4B      |       11339 |
-|      33 | 0x2C4C      |       11340 |
-|      34 | 0x2C4D      |       11341 |
-|      35 | 0x2C4E      |       11342 |
-|      36 | 0x2C4F      |       11343 |
-|      37 | 0x2C50      |       11344 |
-|      38 | 0x2C51      |       11345 |
-|      39 | 0x2C52      |       11346 |
-|      40 | 0x2C53      |       11347 |
-|      41 | 0x2C54      |       11348 |
-|      42 | 0x2C55      |       11349 |
-|      43 | 0x2C56      |       11350 |
-|      44 | 0x2C57      |       11351 |
-|      45 | 0x2C58      |       11352 |
-|      46 | 0x2C59      |       11353 |
-|      47 | 0x2C5A      |       11354 |
-|      48 | 0x2C5B      |       11355 |
+|      32 | 0x2C4C      |       11340 |
+|      33 | 0x2C4D      |       11341 |
+|      34 | 0x2C4E      |       11342 |
+|      35 | 0x2C4F      |       11343 |
+|      36 | 0x2C50      |       11344 |
+|      37 | 0x2C51      |       11345 |
+|      38 | 0x2C52      |       11346 |
+|      39 | 0x2C53      |       11347 |
+|      40 | 0x2C54      |       11348 |
+|      41 | 0x2C55      |       11349 |
+|      42 | 0x2C56      |       11350 |
+|      43 | 0x2C57      |       11351 |
+|      44 | 0x2C58      |       11352 |
+|      45 | 0x2C59      |       11353 |
+|      46 | 0x2C5A      |       11354 |
+|      47 | 0x2C5B      |       11355 |
+|      48 | 0x2C5C      |       11356 |
 |      49 | 0x0003      |           3 |
-|      50 | 0x2C5C      |       11356 |
-|      51 | 0x2C5D      |       11357 |
-|      52 | 0x2C5E      |       11358 |
-|      53 | 0x2C5F      |       11359 |
-|      54 | 0x2C60      |       11360 |
-|      55 | 0x2C61      |       11361 |
+|      50 | 0x2C5D      |       11357 |
+|      51 | 0x2C5E      |       11358 |
+|      52 | 0x2C5F      |       11359 |
+|      53 | 0x2C60      |       11360 |
+|      54 | 0x2C61      |       11361 |
+|      55 | 0x2C62      |       11362 |
 |      56 | 0x0004      |           4 |
-|      57 | 0x2C62      |       11362 |
-|      58 | 0x2C63      |       11363 |
-|      59 | 0x2C64      |       11364 |
-|      60 | 0x2C65      |       11365 |
-|      61 | 0x2C66      |       11366 |
-|      62 | 0x2C67      |       11367 |
+|      57 | 0x2C63      |       11363 |
+|      58 | 0x2C64      |       11364 |
+|      59 | 0x2C65      |       11365 |
+|      60 | 0x2C66      |       11366 |
+|      61 | 0x2C67      |       11367 |
+|      62 | 0x2C68      |       11368 |
 |      63 | 0x0005      |           5 |
-|      64 | 0x2C68      |       11368 |
-|      65 | 0x2C69      |       11369 |
-|      66 | 0x2C6A      |       11370 |
-|      67 | 0x2C6B      |       11371 |
-|      68 | 0x2C6C      |       11372 |
+|      64 | 0x2C69      |       11369 |
+|      65 | 0x2C6A      |       11370 |
+|      66 | 0x2C6B      |       11371 |
+|      67 | 0x2C6C      |       11372 |
+|      68 | 0x2C6D      |       11373 |
 |      69 | 0x0006      |           6 |
-|      70 | 0x2C6D      |       11373 |
-|      71 | 0x2C6E      |       11374 |
-|      72 | 0x2C6F      |       11375 |
-|      73 | 0x2C70      |       11376 |
-|      74 | 0x2C71      |       11377 |
+|      70 | 0x2C6E      |       11374 |
+|      71 | 0x2C6F      |       11375 |
+|      72 | 0x2C70      |       11376 |
+|      73 | 0x2C71      |       11377 |
+|      74 | 0x2C72      |       11378 |
 |      75 | 0x0007      |           7 |
-|      76 | 0x2C72      |       11378 |
-|      77 | 0x2C73      |       11379 |
-|      78 | 0x2C74      |       11380 |
-|      79 | 0x2C75      |       11381 |
-|      80 | 0x2C76      |       11382 |
+|      76 | 0x2C73      |       11379 |
+|      77 | 0x2C74      |       11380 |
+|      78 | 0x2C75      |       11381 |
+|      79 | 0x2C76      |       11382 |
+|      80 | 0x2C77      |       11383 |
 |      81 | 0x0008      |           8 |
 |      82 | 0x0009      |           9 |
-|      83 | 0x2C77      |       11383 |
-|      84 | 0x2C78      |       11384 |
-|      85 | 0x2C79      |       11385 |
-|      86 | 0x2C7A      |       11386 |
-|      87 | 0x2C7B      |       11387 |
-|      88 | 0x2C7C      |       11388 |
-|      89 | 0x2C7D      |       11389 |
-|      90 | 0x2C7E      |       11390 |
-|      91 | 0x2C7F      |       11391 |
-|      92 | 0x2C80      |       11392 |
-|      93 | 0x2C81      |       11393 |
-|      94 | 0x2C82      |       11394 |
-|      95 | 0x2C83      |       11395 |
-|      96 | 0x2C84      |       11396 |
-|      97 | 0x2C85      |       11397 |
-|      98 | 0x2C86      |       11398 |
-|      99 | 0x2C87      |       11399 |
-|     100 | 0x2C88      |       11400 |
-|     101 | 0x2C89      |       11401 |
-|     102 | 0x2C8A      |       11402 |
-|     103 | 0x2C8B      |       11403 |
-|     104 | 0x2C8C      |       11404 |
-|     105 | 0x2C8D      |       11405 |
-|     106 | 0x2C8E      |       11406 |
-|     107 | 0x2C8F      |       11407 |
-|     108 | 0x2C90      |       11408 |
-|     109 | 0x2C91      |       11409 |
+|      83 | 0x2C78      |       11384 |
+|      84 | 0x2C79      |       11385 |
+|      85 | 0x2C7A      |       11386 |
+|      86 | 0x2C7B      |       11387 |
+|      87 | 0x2C7C      |       11388 |
+|      88 | 0x2C7D      |       11389 |
+|      89 | 0x2C7E      |       11390 |
+|      90 | 0x2C7F      |       11391 |
+|      91 | 0x2C80      |       11392 |
+|      92 | 0x2C81      |       11393 |
+|      93 | 0x2C82      |       11394 |
+|      94 | 0x2C83      |       11395 |
+|      95 | 0x2C84      |       11396 |
+|      96 | 0x2C85      |       11397 |
+|      97 | 0x2C86      |       11398 |
+|      98 | 0x2C87      |       11399 |
+|      99 | 0x2C88      |       11400 |
+|     100 | 0x2C89      |       11401 |
+|     101 | 0x2C8A      |       11402 |
+|     102 | 0x2C8B      |       11403 |
+|     103 | 0x2C8C      |       11404 |
+|     104 | 0x2C8D      |       11405 |
+|     105 | 0x2C8E      |       11406 |
+|     106 | 0x2C8F      |       11407 |
+|     107 | 0x2C90      |       11408 |
+|     108 | 0x2C91      |       11409 |
+|     109 | 0x2C92      |       11410 |
 |     110 | 0x0028      |          40 |
-|     111 | 0x2C92      |       11410 |
-|     112 | 0x2C93      |       11411 |
-|     113 | 0x2C94      |       11412 |
-|     114 | 0x2C95      |       11413 |
-|     115 | 0x2C96      |       11414 |
-|     116 | 0x2C97      |       11415 |
-|     117 | 0x2C98      |       11416 |
-|     118 | 0x2C99      |       11417 |
-|     119 | 0x2C9A      |       11418 |
-|     120 | 0x2C9B      |       11419 |
-|     121 | 0x2C9C      |       11420 |
-|     122 | 0x2C9D      |       11421 |
-|     123 | 0x2C9E      |       11422 |
-|     124 | 0x2C9F      |       11423 |
-|     125 | 0x2CA0      |       11424 |
-|     126 | 0x2CA1      |       11425 |
-|     127 | 0x2CA2      |       11426 |
-|     128 | 0x2CA3      |       11427 |
-|     129 | 0x2CA4      |       11428 |
-|     130 | 0x2CA5      |       11429 |
-|     131 | 0x2CA6      |       11430 |
-|     132 | 0x2CA7      |       11431 |
-|     133 | 0x2CA8      |       11432 |
-|     134 | 0x2CA9      |       11433 |
-|     135 | 0x2CAA      |       11434 |
-|     136 | 0x2CAB      |       11435 |
-|     137 | 0x2CAC      |       11436 |
-|     138 | 0x2CAD      |       11437 |
-|     139 | 0x2CAE      |       11438 |
-|     140 | 0x2CAF      |       11439 |
-|     141 | 0x2CB0      |       11440 |
-|     142 | 0x2CB1      |       11441 |
-|     143 | 0x2CB2      |       11442 |
-|     144 | 0x2CB3      |       11443 |
-|     145 | 0x2CB4      |       11444 |
-|     146 | 0x2CB5      |       11445 |
-|     147 | 0x2CB6      |       11446 |
-|     148 | 0x2CB7      |       11447 |
-|     149 | 0x2CB8      |       11448 |
-|     150 | 0x2CB9      |       11449 |
-|     151 | 0x2CBA      |       11450 |
-|     152 | 0x2CBB      |       11451 |
-|     153 | 0x2CBC      |       11452 |
-|     154 | 0x2CBD      |       11453 |
-|     155 | 0x2CBE      |       11454 |
-|     156 | 0x2CBF      |       11455 |
-|     157 | 0x2CC0      |       11456 |
-|     158 | 0x2CC1      |       11457 |
-|     159 | 0x2CC2      |       11458 |
-|     160 | 0x2CC3      |       11459 |
-|     161 | 0x2CC4      |       11460 |
-|     162 | 0x2CC5      |       11461 |
-|     163 | 0x2CC6      |       11462 |
-|     164 | 0x2CC7      |       11463 |
-|     165 | 0x2CC8      |       11464 |
-|     166 | 0x2CC9      |       11465 |
-|     167 | 0x2CCA      |       11466 |
-|     168 | 0x2CCB      |       11467 |
-|     169 | 0x2CCC      |       11468 |
-|     170 | 0x2CCD      |       11469 |
-|     171 | 0x2CCE      |       11470 |
-|     172 | 0x2CCF      |       11471 |
-|     173 | 0x2CD0      |       11472 |
-|     174 | 0x2CD1      |       11473 |
-|     175 | 0x2CD2      |       11474 |
-|     176 | 0x2CD3      |       11475 |
+|     111 | 0x2C93      |       11411 |
+|     112 | 0x2C94      |       11412 |
+|     113 | 0x2C95      |       11413 |
+|     114 | 0x2C96      |       11414 |
+|     115 | 0x2C97      |       11415 |
+|     116 | 0x2C98      |       11416 |
+|     117 | 0x2C99      |       11417 |
+|     118 | 0x2C9A      |       11418 |
+|     119 | 0x2C9B      |       11419 |
+|     120 | 0x2C9C      |       11420 |
+|     121 | 0x2C9D      |       11421 |
+|     122 | 0x2C9E      |       11422 |
+|     123 | 0x2C9F      |       11423 |
+|     124 | 0x2CA0      |       11424 |
+|     125 | 0x2CA1      |       11425 |
+|     126 | 0x2CA2      |       11426 |
+|     127 | 0x2CA3      |       11427 |
+|     128 | 0x2CA4      |       11428 |
+|     129 | 0x2CA5      |       11429 |
+|     130 | 0x2CA6      |       11430 |
+|     131 | 0x2CA7      |       11431 |
+|     132 | 0x2CA8      |       11432 |
+|     133 | 0x2CA9      |       11433 |
+|     134 | 0x2CAA      |       11434 |
+|     135 | 0x2CAB      |       11435 |
+|     136 | 0x2CAC      |       11436 |
+|     137 | 0x2CAD      |       11437 |
+|     138 | 0x2CAE      |       11438 |
+|     139 | 0x2CAF      |       11439 |
+|     140 | 0x2CB0      |       11440 |
+|     141 | 0x2CB1      |       11441 |
+|     142 | 0x2CB2      |       11442 |
+|     143 | 0x2CB3      |       11443 |
+|     144 | 0x2CB4      |       11444 |
+|     145 | 0x2CB5      |       11445 |
+|     146 | 0x2CB6      |       11446 |
+|     147 | 0x2CB7      |       11447 |
+|     148 | 0x2CB8      |       11448 |
+|     149 | 0x2CB9      |       11449 |
+|     150 | 0x2CBA      |       11450 |
+|     151 | 0x2CBB      |       11451 |
+|     152 | 0x2CBC      |       11452 |
+|     153 | 0x2CBD      |       11453 |
+|     154 | 0x2CBE      |       11454 |
+|     155 | 0x2CBF      |       11455 |
+|     156 | 0x2CC0      |       11456 |
+|     157 | 0x2CC1      |       11457 |
+|     158 | 0x2CC2      |       11458 |
+|     159 | 0x2CC3      |       11459 |
+|     160 | 0x2CC4      |       11460 |
+|     161 | 0x2CC5      |       11461 |
+|     162 | 0x2CC6      |       11462 |
+|     163 | 0x2CC7      |       11463 |
+|     164 | 0x2CC8      |       11464 |
+|     165 | 0x2CC9      |       11465 |
+|     166 | 0x2CCA      |       11466 |
+|     167 | 0x2CCB      |       11467 |
+|     168 | 0x2CCC      |       11468 |
+|     169 | 0x2CCD      |       11469 |
+|     170 | 0x2CCE      |       11470 |
+|     171 | 0x2CCF      |       11471 |
+|     172 | 0x2CD0      |       11472 |
+|     173 | 0x2CD1      |       11473 |
+|     174 | 0x2CD2      |       11474 |
+|     175 | 0x2CD3      |       11475 |
+|     176 | 0x2CD4      |       11476 |
 |     177 | 0x000A      |          10 |
-|     178 | 0x2CD4      |       11476 |
-|     179 | 0x2CD5      |       11477 |
-|     180 | 0x2CD6      |       11478 |
-|     181 | 0x2CD7      |       11479 |
-|     182 | 0x2CD8      |       11480 |
-|     183 | 0x2CD9      |       11481 |
-|     184 | 0x2CDA      |       11482 |
-|     185 | 0x2CDB      |       11483 |
-|     186 | 0x2CDC      |       11484 |
-|     187 | 0x2CDD      |       11485 |
-|     188 | 0x2CDE      |       11486 |
-|     189 | 0x2CDF      |       11487 |
-|     190 | 0x2CE0      |       11488 |
-|     191 | 0x2CE1      |       11489 |
-|     192 | 0x2CE2      |       11490 |
-|     193 | 0x2CE3      |       11491 |
-|     194 | 0x2CE5      |       11493 |
-|     195 | 0x2CE6      |       11494 |
-|     196 | 0x2CE7      |       11495 |
-|     197 | 0x2CE8      |       11496 |
-|     198 | 0x2CE9      |       11497 |
-|     199 | 0x2CEA      |       11498 |
-|     200 | 0x2CEB      |       11499 |
-|     201 | 0x2CEC      |       11500 |
-|     202 | 0x2CED      |       11501 |
-|     203 | 0x2CEE      |       11502 |
-|     204 | 0x2CEF      |       11503 |
-|     205 | 0x2CF0      |       11504 |
-|     206 | 0x2CF1      |       11505 |
-|     207 | 0x2CF2      |       11506 |
-|     208 | 0x2CF3      |       11507 |
-|     209 | 0x2CF4      |       11508 |
-|     210 | 0x2CF5      |       11509 |
-|     211 | 0x2CF6      |       11510 |
-|     212 | 0x2CF7      |       11511 |
+|     178 | 0x2CD5      |       11477 |
+|     179 | 0x2CD6      |       11478 |
+|     180 | 0x2CD7      |       11479 |
+|     181 | 0x2CD8      |       11480 |
+|     182 | 0x2CD9      |       11481 |
+|     183 | 0x2CDA      |       11482 |
+|     184 | 0x2CDB      |       11483 |
+|     185 | 0x2CDC      |       11484 |
+|     186 | 0x2CDD      |       11485 |
+|     187 | 0x2CDE      |       11486 |
+|     188 | 0x2CDF      |       11487 |
+|     189 | 0x2CE0      |       11488 |
+|     190 | 0x2CE1      |       11489 |
+|     191 | 0x2CE2      |       11490 |
+|     192 | 0x2CE3      |       11491 |
+|     193 | 0x2CE4      |       11492 |
+|     194 | 0x2CE6      |       11494 |
+|     195 | 0x2CE7      |       11495 |
+|     196 | 0x2CE8      |       11496 |
+|     197 | 0x2CE9      |       11497 |
+|     198 | 0x2CEA      |       11498 |
+|     199 | 0x2CEB      |       11499 |
+|     200 | 0x2CEC      |       11500 |
+|     201 | 0x2CED      |       11501 |
+|     202 | 0x2CEE      |       11502 |
+|     203 | 0x2CEF      |       11503 |
+|     204 | 0x2CF0      |       11504 |
+|     205 | 0x2CF1      |       11505 |
+|     206 | 0x2CF2      |       11506 |
+|     207 | 0x2CF3      |       11507 |
+|     208 | 0x2CF4      |       11508 |
+|     209 | 0x2CF5      |       11509 |
+|     210 | 0x2CF6      |       11510 |
+|     211 | 0x2CF7      |       11511 |
+|     212 | 0x2CF8      |       11512 |
 |     213 | 0x4395      |       17301 |
-|     214 | 0x2CF8      |       11512 |
+|     214 | 0x2CF9      |       11513 |
 |     215 | 0x000F      |          15 |
-|     216 | 0x2D3F      |       11583 |
-|     217 | 0x2D41      |       11585 |
-|     218 | 0x2D40      |       11584 |
-|     219 | 0x2CF9      |       11513 |
-|     220 | 0x2CFA      |       11514 |
-|     221 | 0x2CFB      |       11515 |
-|     222 | 0x2CFC      |       11516 |
-|     223 | 0x2CFD      |       11517 |
-|     224 | 0x2CFE      |       11518 |
-|     225 | 0x2CFF      |       11519 |
-|     226 | 0x2D00      |       11520 |
-|     227 | 0x2D01      |       11521 |
-|     228 | 0x2D02      |       11522 |
-|     229 | 0x2D03      |       11523 |
-|     230 | 0x2D04      |       11524 |
-|     231 | 0x2D05      |       11525 |
-|     232 | 0x2D06      |       11526 |
-|     233 | 0x2D07      |       11527 |
-|     234 | 0x2D08      |       11528 |
-|     235 | 0x2D09      |       11529 |
-|     236 | 0x2D0A      |       11530 |
-|     237 | 0x2D0B      |       11531 |
+|     216 | 0x2D40      |       11584 |
+|     217 | 0x2D42      |       11586 |
+|     218 | 0x2D41      |       11585 |
+|     219 | 0x2CFA      |       11514 |
+|     220 | 0x2CFB      |       11515 |
+|     221 | 0x2CFC      |       11516 |
+|     222 | 0x2CFD      |       11517 |
+|     223 | 0x2CFE      |       11518 |
+|     224 | 0x2CFF      |       11519 |
+|     225 | 0x2D00      |       11520 |
+|     226 | 0x2D01      |       11521 |
+|     227 | 0x2D02      |       11522 |
+|     228 | 0x2D03      |       11523 |
+|     229 | 0x2D04      |       11524 |
+|     230 | 0x2D05      |       11525 |
+|     231 | 0x2D06      |       11526 |
+|     232 | 0x2D07      |       11527 |
+|     233 | 0x2D08      |       11528 |
+|     234 | 0x2D09      |       11529 |
+|     235 | 0x2D0A      |       11530 |
+|     236 | 0x2D0B      |       11531 |
+|     237 | 0x2D0C      |       11532 |
 |     238 | 0x4764      |       18276 |
-|     239 | 0x2D0C      |       11532 |
-|     240 | 0x2D0D      |       11533 |
-|     241 | 0x2D0E      |       11534 |
-|     242 | 0x2D0F      |       11535 |
-|     243 | 0x2D10      |       11536 |
+|     239 | 0x2D0D      |       11533 |
+|     240 | 0x2D0E      |       11534 |
+|     241 | 0x2D0F      |       11535 |
+|     242 | 0x2D10      |       11536 |
+|     243 | 0x2D11      |       11537 |
 |     244 | 0x000B      |          11 |
-|     245 | 0x2D11      |       11537 |
-|     246 | 0x2D12      |       11538 |
-|     247 | 0x2D13      |       11539 |
+|     245 | 0x2D12      |       11538 |
+|     246 | 0x2D13      |       11539 |
+|     247 | 0x2D14      |       11540 |
 |     248 | 0x000C      |          12 |
-|     249 | 0x2D37      |       11575 |
-|     250 | 0x2D38      |       11576 |
-|     251 | 0x2D39      |       11577 |
+|     249 | 0x2D38      |       11576 |
+|     250 | 0x2D39      |       11577 |
+|     251 | 0x2D3A      |       11578 |
 |     252 | 0x0017      |          23 |
-|     253 | 0x2D3B      |       11579 |
-|     254 | 0x2D3C      |       11580 |
-|     255 | 0x2D3D      |       11581 |
+|     253 | 0x2D3C      |       11580 |
+|     254 | 0x2D3D      |       11581 |
+|     255 | 0x2D3E      |       11582 |
 |     256 | 0x0016      |          22 |
 |     257 | 0x000D      |          13 |
-|     258 | 0x2D14      |       11540 |
-|     259 | 0x2D15      |       11541 |
-|     260 | 0x2D16      |       11542 |
-|     261 | 0x2D17      |       11543 |
+|     258 | 0x2D15      |       11541 |
+|     259 | 0x2D16      |       11542 |
+|     260 | 0x2D17      |       11543 |
+|     261 | 0x2D18      |       11544 |
 |     262 | 0x000E      |          14 |
-|     263 | 0x2D18      |       11544 |
-|     264 | 0x2D19      |       11545 |
+|     263 | 0x2D19      |       11545 |
+|     264 | 0x2D1A      |       11546 |
 |     265 | 0x09DD      |        2525 |
-|     266 | 0x2D1A      |       11546 |
-|     267 | 0x2D1B      |       11547 |
-|     268 | 0x2D1C      |       11548 |
+|     266 | 0x2D1B      |       11547 |
+|     267 | 0x2D1C      |       11548 |
+|     268 | 0x2D1D      |       11549 |
 |     269 | 0x426D      |       17005 |
-|     270 | 0x2D1D      |       11549 |
-|     271 | 0x2D1E      |       11550 |
+|     270 | 0x2D1E      |       11550 |
+|     271 | 0x2D1F      |       11551 |
 |     272 | 0x0013      |          19 |
 |     273 | 0x0010      |          16 |
-|     274 | 0x2D1F      |       11551 |
-|     275 | 0x2D20      |       11552 |
+|     274 | 0x2D20      |       11552 |
+|     275 | 0x2D21      |       11553 |
 |     276 | 0x119D      |        4509 |
-|     277 | 0x2D21      |       11553 |
-|     278 | 0x2D22      |       11554 |
+|     277 | 0x2D22      |       11554 |
+|     278 | 0x2D23      |       11555 |
 |     279 | 0x0011      |          17 |
-|     280 | 0x2D33      |       11571 |
-|     281 | 0x2D34      |       11572 |
-|     282 | 0x2D35      |       11573 |
-|     283 | 0x2D36      |       11574 |
+|     280 | 0x2D34      |       11572 |
+|     281 | 0x2D35      |       11573 |
+|     282 | 0x2D36      |       11574 |
+|     283 | 0x2D37      |       11575 |
 |     284 | 0x0018      |          24 |
 |     285 | 0x0012      |          18 |
-|     286 | 0x2D23      |       11555 |
-|     287 | 0x2D24      |       11556 |
-|     288 | 0x2D25      |       11557 |
-|     289 | 0x2D26      |       11558 |
-|     290 | 0x2D27      |       11559 |
-|     291 | 0x2D28      |       11560 |
-|     292 | 0x2D29      |       11561 |
-|     293 | 0x2D2A      |       11562 |
+|     286 | 0x2D24      |       11556 |
+|     287 | 0x2D25      |       11557 |
+|     288 | 0x2D26      |       11558 |
+|     289 | 0x2D27      |       11559 |
+|     290 | 0x2D28      |       11560 |
+|     291 | 0x2D29      |       11561 |
+|     292 | 0x2D2A      |       11562 |
+|     293 | 0x2D2B      |       11563 |
 |     294 | 0x0014      |          20 |
-|     295 | 0x2D2B      |       11563 |
-|     296 | 0x2D2C      |       11564 |
-|     297 | 0x2D2D      |       11565 |
+|     295 | 0x2D2C      |       11564 |
+|     296 | 0x2D2D      |       11565 |
+|     297 | 0x2D2E      |       11566 |
 |     298 | 0x0015      |          21 |
-|     299 | 0x2D2E      |       11566 |
-|     300 | 0x2D2F      |       11567 |
-|     301 | 0x2D30      |       11568 |
-|     302 | 0x2D31      |       11569 |
-|     303 | 0x2D32      |       11570 |
+|     299 | 0x2D2F      |       11567 |
+|     300 | 0x2D30      |       11568 |
+|     301 | 0x2D31      |       11569 |
+|     302 | 0x2D32      |       11570 |
+|     303 | 0x2D33      |       11571 |
 
 ## String References
 
-- **11311**: Well, hello there! Hm, me? Why, I'm Maruna-Kurina, the travel-waveling genius scholar! You won't find the likes of my strategies and tactics anywhere else, no [sir/ma'am].
-- **11312**: Since the war started, I've been traveling far and wide to survey the extentaru of battle. To be honest, I've started to toy with the idea of lending my services directly to the alliance, should any nation express an interest.
-- **11313**: Years I've spent, honing my wits to a fine, razor-wazor-sharp edge. Military history, strategy, theory, logistics, you name it! This war has presented the perfect opportunity, tragic as it is, to finally put my skills to the testaru!
-- **11314**: Ahhh, a fellow bookworm, you say? How seldom it is one meets a fellow spirit. Would you be a member-wember of that Schultz School of Martial Theory that's been attracting so much attention recently? Or was itaru the Sturm School...?
-- **11315**: So, might I presume that it is your proud [/Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst] which desires my enlightened guidance? N-n-not that I'm interested in your Schultz School or anything like thataru!
-- **11316**: If memory-wemory serves, Rainemard is currently serving on the frontlines of the [Royal Army/Republican Army/Federation Forces]. I wonder if he hasn't managed to catch on to something intriguing yet again...
-- **11317**: How do I know Rainemard? Oh, the two of us go waaay back. N-n-not that I'm especially-wecially concerned with where he might be or what he mightaru be doing!
-- **11318**: Well, it just so happens to be my own humble-wumble, yet highly educated opinion, that what the Allied Forces of Altana are currently lacking in spades is logistics.
-- **11319**: I see countless adventurers simply signing up for random Campaign Ops with reckless abandon, paying no heed to the greater concerns of wartime funds or supplies. No way to win a war, no [sir/ma'am]. If there's one thing I know, it's thataru.
-- **11320**: But imagine, I ask you, what would happen should all you soldiers take the time to analyze the information at your disposal, and act on those results. I tell you, there lies within the Allied Forces the potential-wential for a warring force the likes of which the Beastman Confederate could never stand against.
-- **11321**: By the way, are you a member of the [/Knights of the Iron Ram/Seventh Cohors/Cobra Mercenaries]? Very impressive! That's quite the self-serv--errr... What I mean to say is, your unitaru is quite renown for its, how shall I say...individualistic tendencies.
-- **11322**: It is most encouraging when one considers that you have the freedom to adapt your actions to the demands of the present moment. I would be willing to wager that it is adventurers such as yourself who will determine the outarucome of this war.
-- **11323**: Well? I never was much of a motivational speaker, but have I whet your appetite for some knowledge-woledge? That's the spirit! Let us begin then, shall we? For starters, logistics! The key to any war. After that, I would be more than happy to offer some introductory lessons on military theory.
-- **11324**: In what realm is your knowledge lacking? [Campaign tallies./Viewing national statistics./Viewing stronghold statistics./Campaign Ops./Opinion polls./Recruiting freelances./I want for no knowledge.]
-- **11325**: Upon entering into an alliance with one another, the four nations drew up a wartime pact. In accordance with the stipulations therein, the single nation deemed to be the greatest contributor to the fighting within, or maintaining of, an area is temporarily granted domain over it.
-- **11326**: Such rulings are doled outaru by the Grand Duchy of Jeuno, in all its wisdom, based on the intel reports of Campaign officials. Those reports as a whole are commonly referred to as "Campaign tallies."
-- **11327**: From what I've seen, the fighting is usually at its most vehement-wehement just before Campaign tallies. That's because it's widely known that when influence over an area changes, crucial factors such as funds and resources are also affected. Not to mention the role it plays in boosting or lowering an army's spirits!
-- **11328**: That's why things tend to get a little hectic on the frontarulines when a Campaign tally draws near.
-- **11329**: Which statistic interests you? [Funds./Resources./Supplies./Reconnaissance./Skill./Production./Morale./Prosperity./Go back./Quit.]
-- **11330**: "Funds" is a self-explanatory term. As you may have guessed, it means all of the money which a nation has to dedicate to its war endeavors.
-- **11331**: The importance of money in war is difficult to overstate. Greater funds allow a nation to plan and carry out attacks, increase the number of troops available for dispatch, and even step up the quality of gear with which it outfits its units.
-- **11332**: Funds decrease whenever a Campaign battle occurs. Most people don't seem to know this, but offensive and defensive battles tend to cost roughly the same amountaru.
-- **11333**: A nation's wartime coffers also have a direct influence on their supply stores. When funds get too low, supplies will start to be sold off by the government to compensate.
-- **11334**: Oh, and additional-witional funds are rewarded whenever influence over an area is gained. So it would be wise to keep an eye outaru just before and after Campaign tallies.
-- **11335**: I don't think I need to tell you that the more areas a nation controls, the more funds it will collect. Also, the amount rewarded varies from area to area.
-- **11336**: Other means for increasing funds exist as well. For example, by maintaining a high level of "prosperity." After all, if a nation does good by its people, it follows that their economic endeavors will benefit.
-- **11337**: Well, you could learn any of what I've just told you from your run-of-the-mill military textbook. But, here's a little secret of mine. I've observed that achievements in a certain group of Campaign Ops serve to raise a nation's funds. But now I've gone and said too much! No good teacher divulges her students all the answers!
-- **11338**: Your nation's funds may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11339**: "Resources" are the strategic material reserves of a nation that allow it to conduct military operations.
-- **11340**: And just so you don'taru get confused, allow me to clarify-warify. I'm not referring here to the resources of a single stronghold, mind you. Rather, this is an index of the resources of an entire nation.
-- **11341**: In addition to being used to increase an army's supplies, resource stockpiles are also depleted by offensive undertakings and certain Campaign Ops.
-- **11342**: What's more, they also have a directaru influence over wartime funds. As reason entails, insufficient resources require thataru a nation spend a little cash to purchase that which it lacks.
-- **11343**: A nation's resources are regularly replenished based on the areas under its influence. So the times just prior-wior to and just after a Campaign tally are especially crucial.
-- **11344**: The more areas a nation controls, the more resources it can procure. And certain areas are capable of rendering more resources than others.
-- **11345**: And just between you and me, my studies indicate that achievements in certain Campaign Ops are directly linked to resource procurement. Well, that's wartime resources in a nutshell!
-- **11346**: Your nation's resources may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11347**: "Supplies" are the military-wilitary goods used to effectively sustain a war: equipment, sundries, rations, and the like. Nations produce these by expending their resources. You mightaru hear them categorically referred to as "temporary items."
-- **11348**: Nations rich in supplies are able to better provide their strongholds with much-needed equipment and items directly from the capital.
-- **11349**: Supply expenditure goes towards such activities as stronghold maintenance, outarufitting troops, and conducting certain Campaign Ops.
-- **11350**: The amount of supplies at a nation's disposal is inextricably linked to its resources as well. After all, using resources implies that supply production is underway.
-- **11351**: A nation's supplies are compounded regularly based on the areas under its influence. So always try and keep an eye out just before and after Campaign tallies.
-- **11352**: Increases in supplies are naturally larger for nations with more areas under their control. And different areas generate varying-warying amountarus of supplies.
-- **11353**: The total amount of supplies a nation can manufacture is heavily influenced by its production. But that's another lecture all in itself!
-- **11354**: I've got it by a pretty good source that carrying out certain Campaign Ops serves to increase a nation's supplies. Well, that should do just fine by way of an introduction.
-- **11355**: Your nation's supplies may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11356**: "Reconnaissance" is an index of an army's intel. That is to say, how far their intelligence network extends.
-- **11357**: High reconnaissance means that a nation is better able to ascertain the most up-to-date info on the movementarus and machinations of both friend and foe.
-- **11358**: By now I hope you've seen the intelligence-welligence reports available from the Campaign deputies located in the nations' capitals. The more advanced reconnaissance is, the more detailed those reports will be.
-- **11359**: There are a number of intel-gathering Campaign Ops in which achievement will serve to improve reconnaissance.
-- **11360**: And just like other Campaign statistics, this one changes whenever a Campaign tally is conducted. But don't worry--so far I've yet to see a nation's reconnaissance plummet to zero. Still, it is ever wise to keep close tabs on your enemies, as well as your allies.
-- **11361**: Your nation's reconnaissance may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11362**: "Skill" denotes technological development, and manifestarus itself in the ability-wility to produce high-end equipment and weaponry.
-- **11363**: Advancing skill ensures a nation will churn out cutting-edge gear to supply its frontlines. It is also required for the construction-wuction of siege equipment.
-- **11364**: Still, all the technological skill in the world is useless withoutaru the funds to back it up. Production costs money, silly.
-- **11365**: What's that? How do you go about improving your nation's skill? Well, I reckon the "troop training" Campaign Ops would be a good place to start.
-- **11366**: Just to be clear, "skill" indicates the quality of supplies that can be turned out. "Production," on the other hand, refers to the quantity of supplies that a nation is capable of generating. Did I just blow your mind? Confusing, I know, but do try and see the difference.
-- **11367**: Your nation's skill may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11368**: "Production" is the ability to, well, produce anything that needs...producing. This can be items, armor, weapons, you name itaru!
-- **11369**: And the name of the game is efficiency-wiciency! High production enables a nation to generate more supplies from less resources. If that isn't win-win, I don't know what is!
-- **11370**: Alas, even otherworldly production will be utterly useless without a healthy amount of resources to drive it.
-- **11371**: To that end, the nations have all organized the so-called "supply manufacture" operations, such as codename "Crystal Fist" and others.
-- **11372**: Your nation's production may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11373**: "Morale" will give you an idea of how eager-weager for battle an army is.
-- **11374**: High morale allows an army to carry out successive attacks with only short respites in between. Nothing screams victory like an army that loves to fightaru!
-- **11375**: Morale is an extremely dynamic factor in any war--as capricious as the hearts of the men it occupies. Fluctuations are heavily dependent on victory and defeataru in Campaign battles.
-- **11376**: That being said, it is obvious to see how it is directly related to both offensive and defensive operations. It's a pretty simple thing, morale. That's really all there is to it.
-- **11377**: A nation's morale may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information.
-- **11378**: Ahhh, "prosperity." Another of war's fickle-wickle mistresses. Plainly put, this is the degree to which a nation's people trustaru in their governing body.
-- **11379**: High prosperity works wonders for economic growth, which in turn means more duties, tariffs, and so on. In a word, funds!
-- **11380**: Prosperity is in a constantaru state of flux based on the outcome of Campaign battles. And rightly so, as people can not hope to prosper should they feel constantly threatened.
-- **11381**: To ensure the welfare of their citizenry, the alliance has established "security" Campaign Ops. These are effective in setting the minds of the people-weople at ease. Not a whole lotaru more to say about it.
-- **11382**: A nation's prosperity may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information.
-- **11383**: Which terminology will you ask about? [Fortifications./Maximum fortifications./Resources./Maximum Resources./Influence./Heroism Gauge./Go back./Quit.]
-- **11384**: "Fortifications" represent the strength of a military force garrisoned at a stronghold. It is depleted when soldiers stationed there are defeated, or when the structural integrity of the stronghold itself is damaged directly-wectly.
-- **11385**: A Campaign battle is deemed a defeataru by High Command should the fortifications fall below a pre-established amount.
-- **11386**: So, stronghold fortifications in areas constantly plagued by heavy combat must be vigorously-wigorously maintained.
-- **11387**: There are three ways of bolstering fortifications to facilities which have been compromised. First, you can simply waitaru for the injured soldiers to recover. This method, however, requires a considerable amount of time.
-- **11388**: Second, you can wait for engineers to arrive and start rebuilding. For your nation, I believe that task falls within the jurisdiction-wiction of the [Knights of the Gold Badger/Fourth Division/Piscean War Warlocks].
-- **11389**: Lastly, you can supplementaru the garrison by sending reinforcements. Successful completion of the "Vanguard-X" Campaign Ops will help refortify a war-torn stronghold.
-- **11390**: Keep in mind, though, that a lack of funds will limitaru the number of forces available-wailable for dispatch. Which means that ultimately, fortifications will suffer. A war machine without money is akin to a lion without claws, I'm afraid.
-- **11391**: A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
-- **11392**: The total number of troops that a stronghold is capable of housing-wousing is referred to as its "maximum fortifications" ranking.
-- **11393**: And it is just that. The absolute upper limit on the size of a stronghold's garrison. Regardless of a nation's funds or achievements, defensive capabilities can never go above this amountaru.
-- **11394**: The other side of that coin is this. No matter how great a stronghold's maximum fortifications may be, without adequate-wadequate funds, it will lack the soldiers required to realize that potential.
-- **11395**: What's that? Ahhh, you catch on quick. Yes, the maximum fortifications rank can indeed be raised. This is accomplished via-wia achievements in any of the "Steel Resolve" operations.
-- **11396**: But remember this: all participants in this war, both friend and foe, have their own unique ways of reducing maximum fortifications as well. Specifically...
-- **11397**: ...Well, you'll just have to mull that one over by yourself. Can't give up all my secret-wecrets!
-- **11398**: A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
-- **11399**: Alrightaru, this might be a bit confusing at first for the uninitiated, but do try to keep up. A local area's "resources" rating refers to the resource and supply stockpiles located at the stronghold.
-- **11400**: This is a local-wocal rating, and separate altogether from the overall resource rating of an entire nation, mind you.
-- **11401**: The more battles a stronghold endures, the more depletion its resource stockpiles will suffer. You can't make an omelet without breaking some eggs. And war is such a tasty omelettaru!
-- **11402**: Local resources are consumed whenever temporary-wary items are dispensed to soldiers for defensive operations.
-- **11403**: You would do well to remember that the "Crimson Domino" Ops are integral in this respectaru. Seeing those supply convoys safely to their destinations will do wonders for replenishing stronghold resources.
-- **11404**: For your nation, such duties are traditionally-witionally taken up by the [/Knights of the Gold Badger/Fourth Division/Piscean War Warlocks].
-- **11405**: Now try and wrap your mind around this! If the national resource and supply stockpiles are not maintained, there simply won't be enough surplus to bolster-wolster local stockpiles. Surely you can see the logic in this.
-- **11406**: An area's resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
-- **11407**: The limitaru placed on the greatest amount of resources a stronghold can store before literally-witerally bursting is known as its "maximum resources" ranking.
-- **11408**: No matter how much surplus in resources and supplies a nation might have, the local stronghold limitation-wations cannot be exceeded.
-- **11409**: The local resources of an area may be checked from the Region Info menu's Campaign map.
-- **11410**: An area's maximum resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
-- **11411**: "Influence" is used to convey how much control each competing-weting power has over a given area.
-- **11412**: There is a total of four powers in all, which you should well know by now. The Beastman Confederate, on the one hand, and each of the nations of the Allied Forces, excluding Jeuno, on the other.
-- **11413**: So, what happens is that following the results of the latest Campaign tally-wally, control of an area is relegated to the power which currently exertarus the most influence over it.
-- **11414**: Your nation will gain a bit of influence in an area every time you defeat an enemy there. By the same token, loss at the hands of the beastman will result in their influence rising.
-- **11415**: In the worst-case scenario, beastman influence will grow so profound that High Command will cut their losses and issue a strategic withdrawal. In other words, the area falls under beastman control.
-- **11416**: Each nation then abandon-wandons any interests they had in that area, after which the beastmen typically move in droves to solidify their claim.
-- **11417**: The influences vying for control of an area may be checked from the Region Info menu's Campaign map.
-- **11418**: An excellent inquiry! The "heroism gauge" is still a fledgling theory in military scholastic-wastic circles. Only in recentaru years was it proposed to and adopted by Allied Forces High Command.
-- **11419**: Not to brag, but it was actually I who developed the final theory. So, who better to explain it to you than the very Tarutaru who named it?
-- **11420**: It occurred to me that any battlefield is, by definition, replete with a certain... How shall I put this? An air of intensity, an almost tangible, adrenaline-induced furor. No doubt this is broughtaru about by the teetering-weetering of lives in the balance.
-- **11421**: The inquisitive scholar in me wondered if this phenomenon could not somehow be gauged and expressed numerically. This was the hypothesis with which I set out to develop-welop my theory.
-- **11422**: Based on my thorough observations, I found that for every battle which took place in the subject area, my measurementarus would increase substantially.
-- **11423**: And then my most startling discovery! Without fail, when my heroism gauge would approach its peak, battles would reach near astronomical-womical proportions! Beastman and ally, general and freelance. All come calling when the war fervor hails, lusting to claim their place in legend and song!
-- **11424**: And what dramatic-watic battles they were! I have witnessed cataclysmic exchanges, over in the blink of an eye. Disastrous battles where the thirst for blood conquers reason, and countless throngs of haphazardly formed ranks throw themselves headlong into one another.
-- **11425**: At the suggestion of my fellow scholars, my findings are now being made known to all member nations of the alliance-wiance.
-- **11426**: In truth, it is still an unfinished theory, and there are many elementarus to be worked out. My hope is that it will serve to help us better comprehend the finer details of the flow of war.
-- **11427**: An area's heroism gauge may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position and the gauge will be displayed directly above or below the area name.
-- **11428**: What would you like to know about? [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./Achievements./Go back./Quit.]
-- **11429**: As their name implies, achievements in Campaign Ops classified as "resource procurement" will result in direct augmentation to your nation's resource and supply stockpile-wiles.
-- **11430**: More specifically, codename "Stock and Awe" was designed with the aim of securing resources, while codename "Materiel Storm" was planned for the sole purpose of amassing supplies.
-- **11431**: Should supplies startaru to become meager, units will be unable to carry out their orders to completion, and other Campaign Ops will fall into arrears.
-- **11432**: If a nation's resources begin to wane, production suffers and the number of supplies declines. Any way you slice it, a logistic bottleneck at any pointaru along the line spells an absolute nightmare for a warring nation.
-- **11433**: Immediately following Campaign tally-wallies is when allotments of resources and supplies are carried out.
-- **11434**: The unfortunate corollary to that, however, is that just prior to Campaign tallies is when stockpiles are at their lowestaru.
-- **11435**: Which is why, to answer your initial inquiry, resource procurement is so significant-wificant. Their appeal lies in the fact that when successfully completed, resource and supply stockpiles receive immediate benefits.
-- **11436**: Many military scholars even go so far as to refer to these operations as the prime movers of the allied effort. Perhaps the most integral of cogs at the very heartaru of the entire war machine.
-- **11437**: "Supply transport" refers to those military operation-wations whereby resources and supplies are seen safely to the strongholds that need them.
-- **11438**: There are varying operations with varying resultarus, so allow me to expand. Codename "Vanguard-X" solidifies stronghold fortifications by dispatching manpower, whereas codename "Crimson Domino" aims to replenish local resources via convoy-wonvoy deliveries.
-- **11439**: The reasoning behind their importance is thus. Goddess forbid, should the fortifications or local resources of a stronghold become inadequate, the position will simply be overrun by the beastmen. They have a wicked talentaru for sniffing out such weaknesses.
-- **11440**: Of course, no nation simply leaves any stronghold to vie for itself. There are regular-wegular dispatches of both men and material from the capitals. But my experience tells me that these are more protocol than pragmatism, and rarely reflectaru the latest wartime developments.
-- **11441**: And that is where you vaga--valiant adventurers come in! Your freedoms allow you the unique ability to continually adapt to the situation at hand without heeding to anachronistic protocol-wotocol. Keeping an ear to the ground and conducting supply transport at a vital moment might just make you the white knight of some desperate garrison!
-- **11442**: "Security" is that oft-overlooked category of operations which deals with seeing to the safety and welfare of a nation's citizenry. High Command implemented these ops for their role in increasing both prosperity-werity and the maximum fortifications.
-- **11443**: Successful completion of operations codenamed "Streetsweeper" and "Delta Strike" boost prosperity among the people.
-- **11444**: Nations with low prosperity often fall victim to stagnating-wating economies, ultimately resulting in lack of funds and fiscal woes. You can't expect people to get a good night's sleep and put in an honest day's work without providing a little homeland security.
-- **11445**: Codename "Steel Resolve" is another security-based operation which bolsters the maximum fortifications of an allied stronghold.
-- **11446**: The idea is to outfitaru positions with enhanced structural integrity to better withstand relentless-wentless beastman assaults. This is especially vital in heavily contested areas.
-- **11447**: "Supply manufacture" operations provide the opportunity for a nation to bring about improvements in the arena-wenas of technology and industry.
-- **11448**: Operations codenamed "Crystal Fist" and "Iron Anvil" were planned with the goal of marked advancements in skill and production, respectively.
-- **11449**: Higher skill permits a nation's engineers to develop higher quality equipmentaru and weaponry. Its benefits on local fields of battle are undeniable.
-- **11450**: When production is streamlined, mass production becomes possible-wossible. This has far-reaching effects for a nation's Campaign battles regardless of the location.
-- **11451**: So, if you happen to fancy yourself adept at synthesis and know your craftarus, these just might be the operations for you.
-- **11452**: The successful completion of "offensive operations" will result in palpable-walpable increases in both morale and funds.
-- **11453**: These ops include codename "Smokescreen," "Pit Spider," "By Light of Fire," or any of the regional operations targeting specific beastman leaders. All of these will serve to boostaru an army's morale.
-- **11454**: On top of that, achievements in this arena will also bring in funds.
-- **11455**: Alas, as all things in war, there is a double-edge to this blade. Should you seek to defeat enemy leaders via operations codenamed "Splitting Heirs," "Cracking Shells," or "Plucking Wings" and suffer defeataru, the beastmen armies will be those shouting and raising their banners in triumph.
-- **11456**: Lastly, it would be remiss of me not to mention that offensive operations do require the expenditure-wenditure of supplies.
-- **11457**: "Defensive operations" can be extremely productive, as they help to increase not only prosperity-werity amongst the people, but also the reserves of resources and supplies as well.
-- **11458**: You will see immediate and obvious returns in the prosperity of your citizenry from your exploitarus in operations codenamed "Aegis Scream" and "Granite Rose."
-- **11459**: A byproductaru of this is a healthy boost to the national intake of resources and supplies.
-- **11460**: Carrying out defensive operations will require that you expend some of your supplies in the process-wocess, though. Nothing in war is free, after all, save mayhap the glory.
-- **11461**: A personal favorite of mine and one I cannot stress the importance-wortance of enough, "intel gathering"!
-- **11462**: Espionage in all forms requires stealth and savvy, cunning and courage. Operations codenamed "Hawk Eye" and "Deep Cover" may place you in clear and present danger, but they will also increase your army's reconnaissance and place knowledge at its fingertips.
-- **11463**: Nations are also always looking for the mostaru intrepid of souls to undertake operation codename "Slaughterhouse." A favorite of High Command, this pinpoint espionage weakens the beastman intelligence network from within, reducing their reconnaissance capabilities.
-- **11464**: No nation would deign to send such dauntless-wauntless volunteers into the field unequipped. And that is why intel gathering taxes an army's supplies.
-- **11465**: "Military training" is useful in preparing your troops for battle by both hardening their resolve and honing-woning their abilities.
-- **11466**: Operation codename "Brave Dawn" increases an army's capacity for waging war, while codename "Cut and Cauterize" improves the performance of its physicians.
-- **11467**: All of those training materials have to come from somewhere, though. Which is why military-wary training ops will cost you supplies.
-- **11468**: According to Raine--I mean...looks like rain today, no? Anyway, this information is based on firstaru-person accounts from a fairly reliable-wiable source.
-- **11469**: Campaign tallies record these so-called achievements for each category of operations.
-- **11470**: Achievementarus will naturally rise every time a Campaign operation is carried out to completion.
-- **11471**: The changes in factors such as resources, funds, and morale resulting from Campaign tallies are directly influenced by the achievements in correlated ops categories.
-- **11472**: In addition, stellar-wellar achievements in any single category pave the way for related, higher-level operations to become available.
-- **11473**: But try to be mindful of the current objectives of your army, as this effectarus availability as well.
-- **11474**: What I mean to say is, even for equivalent achievements, there are times when High Command will make an operation readily available, and other times when they will not.
-- **11475**: Changes in achievements are reflected in every Campaign tally, and have an effect on stockpile-wiles as well. Luckily, in all my days, I have never seen an achievement's value drop suddenly to zero.
-- **11476**: Every nation conducts its own "opinion polls." Have you happened to come across any of the official-wicials recording the opinions of soldiers and adventurers? Those would be the pollers.
-- **11477**: In my opinion, those who frequent the frontlines such as yourself should make better use of the polls.
-- **11478**: Each nation has its own characteristic protocol based on long-standing established policies. Should polls not be made use of, the powers that be will have no choice but to rely upon their generals for counsel.
-- **11479**: Which might not necessarily-warily always be a bad thing, except that counsel may not always be based on the latest intel. I myself have witnessed offenses ordered with no supply lines or funds to back them, and entire units resting on their laurels at the most opportune times to attack.
-- **11480**: This is the river that opinion polls can help to ford! They allow High Command to know which generals have the supportaru of war-seasoned veterans, and provide a forum for the submission of strategies and feedback.
-- **11481**: I have always been an advocate of compulsory-wulsory polls. Think of it! If all soldiers from the frontlines raised their voices, High Command would have no choice but to listen.
-- **11482**: And consequently, more operations would become available in the category deemed to be most necessary at that time!
-- **11483**: Sorry, I always get a but flustered talking about this. Anyway, the reviewing of poll resultarus is conducted regularly, much like Campaign tallies.
-- **11484**: Hm? You don't know what opinion you should have? Well, that's just sad. Your opinions will come to you, so long as you keep a healthy skepticism and a critical-witical eye about you.
-- **11485**: To give a brief example, if you are of the mind that it is time for an all-outaru offensive, then you should consider raising your voice in favor of a "preemptive strike" or "diversionary tactics."
-- **11486**: If you think the situation-wation calls for patience and caution, then perhaps cast your vote for "battleline preservation" or "stronghold defenses."
-- **11487**: It might be easiestaru to think of all of the options broken into two fundamental categories of offense and defense.
-- **11488**: Rather than constantly worrying about maintaining a healthy balance of the two, there are times when a full frontal-wontal assault is required. Other times are best served by turtling up in strongholds and allowing wave after wave of beastmen to break upon your defenses.
-- **11489**: If you can absorb everything I've taughtaru you, and just use your head, I guarantee the path to victory will present itself to you as clear as day! That's the Maruna-Kurina guarantee!
-- **11490**: Oh and uhhh, if you ever happen to...well, gain an audience-waudience with any, say, importantaru people... Be sure to tell them that Maruna-Kurina helped you out!
-- **11491**: Ask about whom? [Wait... What's headhunting?/Kagetora./Dalzakk./Rainemard./Maat./Azima./Choh Moui./Rongo-Nango./Ulla & Kilhwch./Achtelle./Duskraven./Lewenhart./Ferreous Coffin./Areuhat./Titania./Poroggo Prince./Babban Ny Mheillea./Auroral Alicorn./Boodlix./Raigegue R D'Oraguille./Eurytos./Kaiser Behemoth./Yours truly, Maruna-Kurina./Go back./Quit.]
-- **11493**: I'm assuming by now that you've heard of the roaming-woaming mercenaries referred to as "freelances," yes? They value nothing more than their freedom, which is all well and good, but in the worstaru of times they may be swayed into arms against the Allied Forces.
-- **11494**: As a genius military tactician, I cannot ignore the potential strength that these freelances are capable of lending an army. And it was this realization which acted as an impetus to my further studying the freelance subculture.
-- **11495**: Recruiting a freelance to fight for your cause is a technique commonly known as "headhunting." Through my research, I have come to develop and map out a comprehensive psychology underlying the entire process-wocess!
-- **11496**: Each freelance maintains a certain degree of "loyalty" towards every great power.
-- **11497**: Whenever a headhunter actively pursues a freelance and attempts to win their favor, their loyalty towards thataru nation will rise.
-- **11498**: At the time of a Campaign tally, the freelances will realign themselves with the nation with whom they share the strongestaru bond.
-- **11499**: The trick to headhunting, then, is to try and become the nation a freelance holds dearest-wearest in his, her, or its heart of hearts.
-- **11500**: Many freelances will even cast aside their disdain for city walls, and take up arms beside you within the very capital!
-- **11501**: And being the capricious beings that they are, freelances will always be willing to entertain your proposals, even if they have currently pledged their fealty-wealty elsewhere.
-- **11502**: Of course, if you begin to neglectaru them once winning them to your side, don't be surprised if they place their loyalties elsewhere. There's got to be an appropriate saying for that, I'm sure...
-- **11503**: That's just the way they are. I've heard tales you wouldn't believe. From stories of nations' coffers swelling inexplicably after taking on resourceful freelances...
-- **11504**: ...to bold-hearted heroes inspiring troops and bolstering an entire nation's morale!
-- **11505**: Cloak-and-dagger freelances who assist in intel gathering, and questionable black market dealer-wealers who can always get their hands on sorely needed supplies. You name it, and there's a freelance out there who can, and has, done itaru!
-- **11506**: Now I know what you're thinking. With allegiances constantly in flux, who in Goddess's name is going to be able to keep track of it all!?
-- **11507**: You're looking at him! That's right, I have made it my personal-wersonal crusade to track the loyalties of all freelances as part of my research. And naturally, I will be making my findings available to the alliance's intelligence network.
-- **11508**: At any rate, do try and give the freelances as warm a reception as possible whenever you happen across them. Your nation, and the Allied Forces as a whole, can only benefitaru in the long run.
-- **11509**: Successfully headhunting Maruna-Kurina will allow you to ask him directly about freelances, including their current loyalties and other detailed information.
-- **11510**: You can check on the achievements of your nation's freelances by speaking to the appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
-- **11511**: A Hume pirate-wirate hailing from Elshimo Island, Kagetora has made quite the name for himself. He comes from a long family line of ninjas, and rumor has it he sailed to these western lands in hot pursuitaru of a sworn enemy.
-- **11512**: Not the most social chap at the party, but he does have profitable ties to the Tenshodo in Jeuno. A ninja with a ninja's pleasures, try to warm him up to you by giving him $0.
-- **11513**: Ahhh, the wandering monk, said to have been trained in hand-to-hand combat by the legendary-wary Oggbi himself. He's known far and wide for his adventures and exploitarus. He can be seen running about Sauromugue Champaign as part of his daily regimen.
-- **11514**: He's a sucker for high morale, and can barely contain himself once the conversation-wation turns to the topic of war. They say battle fever is contagious, you know. And he's always willing to talk it up with a fellow monk.
-- **11515**: A powerful ally, indeed. Keep an eye on the heroism gauge with this one. He's an animal!
-- **11516**: Good Rainemard once belonged to the Order of the Temple Knights. For a time, we were classmates together in our studies at the academy. N-n-not that I consider him a scholarly rival-wival or anything like thataru!
-- **11517**: The last time I saw him he claimed he was heading to Jugner Forest to escape the hustle-bustle of the city. I only pray he didn't go poking his nose around where it didn't belong again...
-- **11518**: If he's still the same old Rainemard, I suppose he still enjoys talking it up with other red mages. He also has an adorable-worable little daughter, and he loves to go on and on about her...incessantly.
-- **11519**: Oh, you've heard of Maat? A regular living legend, that one. He's been living in Jeuno since it was no more than a flyspeck of a fishing village-willage. They say he's mastered every form of combataru there is!
-- **11520**: I've run into him before in North Gustaberg. But rumor has it he is in charge of some very important tasks back at the Grand Duchy. I wonder how he finds the time to go for leisurely strolls so far away...
-- **11521**: He has a rival too, you know? What was his name again... Hegen...no...Degenhard! That's it! He's been known to wreak havoc-wavoc on the battlefield every now and then.
-- **11522**: He loves collecting those ancient papyrus testimonies, no matter what variety. He also has a penchantaru for ambitious souls, and is said to dote on those who have mastered three or more paths of their own.
-- **11523**: They call Azima the "Hermitess of the Highlands," and she is almost universally-wersally regarded as the most skilled and feared bounty hunter in Vana'diel. It's not uncommon to glimpse her from time to time in North Gustaberg.
-- **11524**: As of late they say she is utterly obsessed with all things alchemy. Those in the know will be the first to tell you, Azima is one best keptaru in good graces.
-- **11525**: "Venomous Verminess," "Baroness of Bugdom," Choh Moui has almost as many monikers as she does pet pestarus. She's a Mithran beastmaster-waster who got her come-uppings in the south, but now makes her home in Crawler's Nest.
-- **11526**: I'm not entirely sure of the reasons behind it, but they say she is in regular contactaru with a mercenary by the name of Duskraven.
-- **11527**: She's accredited with inventing the pet foods now used by beastmasters the world round, and is always eagerly to get her hands on ingredients. She also loves to have others save her the hassle-wassle of rounding up her pets for her. What could she be up to...?
-- **11528**: Perchance you've already espied him before. Rongo-Nango is that adorable little Tarutaru beastmaster who's always in the vicinity-winity of Fort Karugo-Narugo. He's absolutely infatuated with Lungo-Nango, the great warlord and tactician of Windurstian history.
-- **11529**: After opposing the Parliament of Patriarchs, Lungo-Nango fell into disrepute and spentaru the remainder of his days in isolation and depression. For that reason, Rongo-Nango holds much of Windurst in contempt, and refuses to lay his loyalties with the Federation.
-- **11530**: I've come to find out that he is quite fond of calling his beasts, and is also looking for more of the material-warials he needs to do so.
-- **11531**: Ulla is a mysterious young girl. They say she bore witness to a divine revelation, and now wanders Vana'diel as a pilgrim-wilgrim knight. She's recently left her homelands of Bastok and ventured nearer the realms of San d'Oria.
-- **11532**: Her devoted attendantaru Kilhwch is ever by her side, and carries with him the renowned sword $0. The thing is, he's a celebrated knight in his own right, giving many rise to wonder what could have caused him to pledge his fealty to another.
-- **11533**: Like any young lady, Ulla has a soft spot for beautiful flower-wowers. If you seek to court a fair maiden, perhaps a bouquet mightaru be best.
-- **11534**: Achtelle is a young Elvaan wyverness from Adoulin Isle to the west, the proud keeper-weepers of the last of the dragoon tradition. The draketamers there herald her as the most skilled of their order.
-- **11535**: Since youth, she has held the legendary Ranperre of San d'Oria in highestaru esteem, and can oft be found seeking solace near his tomb.
-- **11536**: I can promise you she would eagerly accept any type of present related to the king she so reveres. I hear it told she longs for nothing more than to find some surviving-wiving dragoons, that they might together preserve their heritage.
-- **11537**: Duskraven is a sullen, grim-faced mercenary, distinguishable by his ominous-wominous greatsword, "Kyomon." Wayfarers and soldiers alike often recount seeing him in the vicinity of Batallia Downs, but for what purpose and to whataru end, none can say.
-- **11538**: His underlings, the Dusk Raiders, answer to his beck and call, and such powers lead many to surmise that he is no stranger to the nether-wether realms.
-- **11539**: He is a straight shooter, though. If you hope to curry favor with him, you need nothing more than cold cash. He seems to blow right through it as soon as he gets it, and is always looking for more. What he spends itaru on, I couldn't say.
-- **11540**: Many have seen this fair young Elvaan maid walking undeterred amongst the now hostile-wostile grounds of Grauberg. All who gaze upon her tell of her godlike aura and stunning beauty.
-- **11541**: Word has it that she is of frail constitution, and grants her favor on those gracious enough to spare her medicines. I myself went and bestowed such gifts upon her, and can attest to the truth of itaru.
-- **11542**: She is also known to dote upon those who take up the defense of her Grauberg. Some of her more fanatic-watic fans are said to be providing her with an enormous quantity of a certain item...
-- **11543**: When her loyalties are won, the men speak of a giant wyrm which takes to the battlefield! Such heated talk--no doubt itaru would be wise to mind the heroism gauge should you want to catch a glimpse for yourself.
-- **11544**: Titania is the name of the celebrated Queen of Pixies from the classic Bastokan drama, "Midwinter Dream."
-- **11545**: Of course, that is no more than a tale of fantasy to delight children. We all know that pixies don't exist in the real-- What!? You've seen one? Are you having a jape at my expense!?
-- **11546**: Well, what I do know for certain-wertain is this. Nothing. Only that rumors suggest offering $0 to the Witchfire Glen in Grauberg will help in headhunting...whatever this being may be. N-n-not thataru I'm dying to find out or anything!
-- **11547**: Fanciful-wanciful fairy tales about a frog princess have been passed down in Windurst since days of eld.
-- **11548**: Some say the newcome prince of these froglike beastmen has been seen leaping and bounding about the frontlines of battle. No doubt the figment of some delusional soldier's imagination, but still...
-- **11549**: Folklore always spoke of their insatiable-watiable appetites, and now soldiers would tell that feeding them will actually help win them to our cause. "Give him $0," they say, "and the frog prince will requite!" I can't make heads or tails of it...
-- **11550**: N-n-not thataru I bother myself with such childish topics!
-- **11551**: Unprecedented in hitory-wistory, there has recently been an affable plantoid befriending soldiers on the battlefield. It most closely resembles one of those mandragora known to inhabitaru the wilds to the west.
-- **11552**: Is that a shred of doubt I sense!? I've seen it with my own eyes, I tell you! This is no figment of the imagination or some delusional soldier's hallucination! Still don't believe me?
-- **11553**: Head on over to the Meriphataud Mountains and try trading $0 or some fertilizer to the odd little treeman you find. He just might be moved to come and help you out in a fightaru!
-- **11554**: Regardless, I wonder what it is he could possibly be doing here... N-n-not that I am about to startaru stalking him to find out or anything!
-- **11555**: (Shhh! Keep your voice down. "The" Boodlix? The very same who heads his own "trading-wading company"?)
-- **11556**: (Well, they say his trade is death! And deal in it he does, if the rumors are to be believed. Some claim to have actually laid eyes on his hidden fortress and lived to tell the tale. They say it's there he greedily occupies himself with counting his blood-money.)
-- **11557**: (What? Have you completely-wetely lost your mind, [man/woman]!? Why in Goddess's name would you want to headhuntaru him? Still, he is supposedly well-connected, even to the Allied Forces, as the wealthy are wont to be. But the Beastman Confederate knows his value as well... Hmmm, sounds like trouble-wouble to me.)
-- **11558**: (When the war is over, it is the supply firms that slowly lose their livelihoods. I suppose when you look at it from thataru angle, he could possibly be swayed to fight for either side.)
-- **11559**: Some 150 years ago, San d'Oria was ruled by one King Raigegue the Lupine. The freelance you ask of now bears the same name as thataru king, though none know how or why.
-- **11560**: He is remembered as a tragic monarch, responsible for leading San d'Oria to utter defeat at the hands of Bastok's preeminent scholar and military tactician-wician, Gunther Schultz, at the Second Battle of Konschtat. What followed was an age of chaos and despair, as the Kingdom was ravaged by civil war.
-- **11561**: They say this spectre-wectre of the same name is none other than Raigegue the Lupine himself, led back from the grave by the fire of his wrath. He haunts The Eldieme Necropolis. The skeptic in me suspects some exaggeration-wation is at work here...
-- **11562**: Huh!? Headhunting? The undead!? I-I... I have no idea how to respond to thataru. You've left me absolutely speechless-weechless.
-- **11563**: Eurytos is the battle-hardened leader of a group of mercenary Gigas from the far north. At the onset of the war, the Beastman Confederate took them into their service. But recently it would seem Eurytos has completely-wetely removed himself from the confederate's chain of command.
-- **11564**: His might and prowess in battle have led many to speculate that his line is that of the Gigas gods. He is truly a force to be reckoned with. For now, his unit has established their compound-wompound somewhere in Vunkerl Inlet.
-- **11565**: Though to be fair, there is precedent for the Gigas fighting under allied banners. After all, they did fight for Bastok in the Second Battle of Konschtataru. I wonder... Could the great Eurytos possibly be rallied-wallied to our cause?
-- **11566**: This behemoth among behemoths has been roaming Vunkerl Inlet for hundreds upon hundreds of years.
-- **11567**: So many would-be hero-weroes have died in the maws of this great beast that nobody even attempts to keep count any longer. Some say its ancientaru age and scar-heavy hide indicate it is not nearly as powerful as it once was. Yet still, you would be a fool to underestimate this fiend, I promise you.
-- **11568**: Headhunting? For the Allied Forces!? I'm not even going to dignify that with a response... Although, you have to admitaru, the thought of it alone is quite amusing. Hehehe!
-- **11569**: Who, me? Ohhh, right! I totally forgot. You're right, for all intents and purposes, I too am technically-wechnically a freelance.
-- **11570**: I enjoy long walks on the beach aaand... Oh yes, nothing excites me more than conversing with fellow scholars! N-n-not thataru I would want to know anything in particular about where Rainemard might be!
-- **11571**: Current taxonomy teaches us that at presentaru, the monoceros family contains few known specimens. Those that are classified exhibit great horn spire-wires jutting from their majestic heads, and are either born of light, or of darkness.
-- **11572**: An influx of eyewitness accounts in recent days all point to the undeniable existence of the beastaru named Dark Ixion. Tempered like a storm and ever wary, both allies and beastman alike tend to keep their distance.
-- **11573**: The other is dubbed Auroral Alicorn and exhibits a brilliantaru shade of white and a calm, gentle demeanor. The two couldn't be more dissimilar-wimilar.
-- **11574**: Though almost never seen in the wild prior to the war, Auroral Alicorn has recently been sighted in Jugner Forest, some say nursing wounds.
-- **11575**: Lewenhart is a traveling-waveling bard who has become a favorite amongst the troops, instilling hope and courage with his singing. It turns out that almostaru nothing helps morale as a much as a good song.
-- **11576**: They say he prefers to stay close to a certain tomb in The Eldieme Necropolis, where his requiems can be heard far and wide.
-- **11577**: He often asks for holy water as payment for his songs, which he puts to cermonial-wonial use. And as with most musicians, he loves exchanging in song and banter with fellow bards.
-- **11579**: A most virtuous priest, who wanders all corners of Vana'diel, filling his belly-welly bread and alms. Some swear they've seen a twisted smile on his face as he buries his enemies and offers up prayers in their name.
-- **11580**: He came from the far north, and recently has been spending much of his time in Batallia Downs. Whatever is said of him, there can be no questioning his faith in the Goddess, thataru's for sure.
-- **11581**: He was never one to talk much, and certainly not one to mince words when he does. It seems he prefers the company of white mages, though. I've heard it said that he has been lending-wending his fists to the Allied Forces as of late.
-- **11583**: (By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)
-- **11584**: (And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)
-- **11585**: (There's no telling-welling where this freelance will lay their loyalties nextaru...)
+- **11312**: Well, hello there! Hm, me? Why, I'm Maruna-Kurina, the travel-waveling genius scholar! You won't find the likes of my strategies and tactics anywhere else, no [sir/ma'am].
+- **11313**: Since the war started, I've been traveling far and wide to survey the extentaru of battle. To be honest, I've started to toy with the idea of lending my services directly to the alliance, should any nation express an interest.
+- **11314**: Years I've spent, honing my wits to a fine, razor-wazor-sharp edge. Military history, strategy, theory, logistics, you name it! This war has presented the perfect opportunity, tragic as it is, to finally put my skills to the testaru!
+- **11315**: Ahhh, a fellow bookworm, you say? How seldom it is one meets a fellow spirit. Would you be a member-wember of that Schultz School of Martial Theory that's been attracting so much attention recently? Or was itaru the Sturm School...?
+- **11316**: So, might I presume that it is your proud [/Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst] which desires my enlightened guidance? N-n-not that I'm interested in your Schultz School or anything like thataru!
+- **11317**: If memory-wemory serves, Rainemard is currently serving on the frontlines of the [Royal Army/Republican Army/Federation Forces]. I wonder if he hasn't managed to catch on to something intriguing yet again...
+- **11318**: How do I know Rainemard? Oh, the two of us go waaay back. N-n-not that I'm especially-wecially concerned with where he might be or what he mightaru be doing!
+- **11319**: Well, it just so happens to be my own humble-wumble, yet highly educated opinion, that what the Allied Forces of Altana are currently lacking in spades is logistics.
+- **11320**: I see countless adventurers simply signing up for random Campaign Ops with reckless abandon, paying no heed to the greater concerns of wartime funds or supplies. No way to win a war, no [sir/ma'am]. If there's one thing I know, it's thataru.
+- **11321**: But imagine, I ask you, what would happen should all you soldiers take the time to analyze the information at your disposal, and act on those results. I tell you, there lies within the Allied Forces the potential-wential for a warring force the likes of which the Beastman Confederate could never stand against.
+- **11322**: By the way, are you a member of the [/Knights of the Iron Ram/Seventh Cohors/Cobra Mercenaries]? Very impressive! That's quite the self-serv--errr... What I mean to say is, your unitaru is quite renown for its, how shall I say...individualistic tendencies.
+- **11323**: It is most encouraging when one considers that you have the freedom to adapt your actions to the demands of the present moment. I would be willing to wager that it is adventurers such as yourself who will determine the outarucome of this war.
+- **11324**: Well? I never was much of a motivational speaker, but have I whet your appetite for some knowledge-woledge? That's the spirit! Let us begin then, shall we? For starters, logistics! The key to any war. After that, I would be more than happy to offer some introductory lessons on military theory.
+- **11325**: In what realm is your knowledge lacking? [Campaign tallies./Viewing national statistics./Viewing stronghold statistics./Campaign Ops./Opinion polls./Recruiting freelances./I want for no knowledge.]
+- **11326**: Upon entering into an alliance with one another, the four nations drew up a wartime pact. In accordance with the stipulations therein, the single nation deemed to be the greatest contributor to the fighting within, or maintaining of, an area is temporarily granted domain over it.
+- **11327**: Such rulings are doled outaru by the Grand Duchy of Jeuno, in all its wisdom, based on the intel reports of Campaign officials. Those reports as a whole are commonly referred to as "Campaign tallies."
+- **11328**: From what I've seen, the fighting is usually at its most vehement-wehement just before Campaign tallies. That's because it's widely known that when influence over an area changes, crucial factors such as funds and resources are also affected. Not to mention the role it plays in boosting or lowering an army's spirits!
+- **11329**: That's why things tend to get a little hectic on the frontarulines when a Campaign tally draws near.
+- **11330**: Which statistic interests you? [Funds./Resources./Supplies./Reconnaissance./Skill./Production./Morale./Prosperity./Go back./Quit.]
+- **11331**: "Funds" is a self-explanatory term. As you may have guessed, it means all of the money which a nation has to dedicate to its war endeavors.
+- **11332**: The importance of money in war is difficult to overstate. Greater funds allow a nation to plan and carry out attacks, increase the number of troops available for dispatch, and even step up the quality of gear with which it outfits its units.
+- **11333**: Funds decrease whenever a Campaign battle occurs. Most people don't seem to know this, but offensive and defensive battles tend to cost roughly the same amountaru.
+- **11334**: A nation's wartime coffers also have a direct influence on their supply stores. When funds get too low, supplies will start to be sold off by the government to compensate.
+- **11335**: Oh, and additional-witional funds are rewarded whenever influence over an area is gained. So it would be wise to keep an eye outaru just before and after Campaign tallies.
+- **11336**: I don't think I need to tell you that the more areas a nation controls, the more funds it will collect. Also, the amount rewarded varies from area to area.
+- **11337**: Other means for increasing funds exist as well. For example, by maintaining a high level of "prosperity." After all, if a nation does good by its people, it follows that their economic endeavors will benefit.
+- **11338**: Well, you could learn any of what I've just told you from your run-of-the-mill military textbook. But, here's a little secret of mine. I've observed that achievements in a certain group of Campaign Ops serve to raise a nation's funds. But now I've gone and said too much! No good teacher divulges her students all the answers!
+- **11339**: Your nation's funds may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11340**: "Resources" are the strategic material reserves of a nation that allow it to conduct military operations.
+- **11341**: And just so you don'taru get confused, allow me to clarify-warify. I'm not referring here to the resources of a single stronghold, mind you. Rather, this is an index of the resources of an entire nation.
+- **11342**: In addition to being used to increase an army's supplies, resource stockpiles are also depleted by offensive undertakings and certain Campaign Ops.
+- **11343**: What's more, they also have a directaru influence over wartime funds. As reason entails, insufficient resources require thataru a nation spend a little cash to purchase that which it lacks.
+- **11344**: A nation's resources are regularly replenished based on the areas under its influence. So the times just prior-wior to and just after a Campaign tally are especially crucial.
+- **11345**: The more areas a nation controls, the more resources it can procure. And certain areas are capable of rendering more resources than others.
+- **11346**: And just between you and me, my studies indicate that achievements in certain Campaign Ops are directly linked to resource procurement. Well, that's wartime resources in a nutshell!
+- **11347**: Your nation's resources may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11348**: "Supplies" are the military-wilitary goods used to effectively sustain a war: equipment, sundries, rations, and the like. Nations produce these by expending their resources. You mightaru hear them categorically referred to as "temporary items."
+- **11349**: Nations rich in supplies are able to better provide their strongholds with much-needed equipment and items directly from the capital.
+- **11350**: Supply expenditure goes towards such activities as stronghold maintenance, outarufitting troops, and conducting certain Campaign Ops.
+- **11351**: The amount of supplies at a nation's disposal is inextricably linked to its resources as well. After all, using resources implies that supply production is underway.
+- **11352**: A nation's supplies are compounded regularly based on the areas under its influence. So always try and keep an eye out just before and after Campaign tallies.
+- **11353**: Increases in supplies are naturally larger for nations with more areas under their control. And different areas generate varying-warying amountarus of supplies.
+- **11354**: The total amount of supplies a nation can manufacture is heavily influenced by its production. But that's another lecture all in itself!
+- **11355**: I've got it by a pretty good source that carrying out certain Campaign Ops serves to increase a nation's supplies. Well, that should do just fine by way of an introduction.
+- **11356**: Your nation's supplies may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11357**: "Reconnaissance" is an index of an army's intel. That is to say, how far their intelligence network extends.
+- **11358**: High reconnaissance means that a nation is better able to ascertain the most up-to-date info on the movementarus and machinations of both friend and foe.
+- **11359**: By now I hope you've seen the intelligence-welligence reports available from the Campaign deputies located in the nations' capitals. The more advanced reconnaissance is, the more detailed those reports will be.
+- **11360**: There are a number of intel-gathering Campaign Ops in which achievement will serve to improve reconnaissance.
+- **11361**: And just like other Campaign statistics, this one changes whenever a Campaign tally is conducted. But don't worry--so far I've yet to see a nation's reconnaissance plummet to zero. Still, it is ever wise to keep close tabs on your enemies, as well as your allies.
+- **11362**: Your nation's reconnaissance may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11363**: "Skill" denotes technological development, and manifestarus itself in the ability-wility to produce high-end equipment and weaponry.
+- **11364**: Advancing skill ensures a nation will churn out cutting-edge gear to supply its frontlines. It is also required for the construction-wuction of siege equipment.
+- **11365**: Still, all the technological skill in the world is useless withoutaru the funds to back it up. Production costs money, silly.
+- **11366**: What's that? How do you go about improving your nation's skill? Well, I reckon the "troop training" Campaign Ops would be a good place to start.
+- **11367**: Just to be clear, "skill" indicates the quality of supplies that can be turned out. "Production," on the other hand, refers to the quantity of supplies that a nation is capable of generating. Did I just blow your mind? Confusing, I know, but do try and see the difference.
+- **11368**: Your nation's skill may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11369**: "Production" is the ability to, well, produce anything that needs...producing. This can be items, armor, weapons, you name itaru!
+- **11370**: And the name of the game is efficiency-wiciency! High production enables a nation to generate more supplies from less resources. If that isn't win-win, I don't know what is!
+- **11371**: Alas, even otherworldly production will be utterly useless without a healthy amount of resources to drive it.
+- **11372**: To that end, the nations have all organized the so-called "supply manufacture" operations, such as codename "Crystal Fist" and others.
+- **11373**: Your nation's production may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11374**: "Morale" will give you an idea of how eager-weager for battle an army is.
+- **11375**: High morale allows an army to carry out successive attacks with only short respites in between. Nothing screams victory like an army that loves to fightaru!
+- **11376**: Morale is an extremely dynamic factor in any war--as capricious as the hearts of the men it occupies. Fluctuations are heavily dependent on victory and defeataru in Campaign battles.
+- **11377**: That being said, it is obvious to see how it is directly related to both offensive and defensive operations. It's a pretty simple thing, morale. That's really all there is to it.
+- **11378**: A nation's morale may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information.
+- **11379**: Ahhh, "prosperity." Another of war's fickle-wickle mistresses. Plainly put, this is the degree to which a nation's people trustaru in their governing body.
+- **11380**: High prosperity works wonders for economic growth, which in turn means more duties, tariffs, and so on. In a word, funds!
+- **11381**: Prosperity is in a constantaru state of flux based on the outcome of Campaign battles. And rightly so, as people can not hope to prosper should they feel constantly threatened.
+- **11382**: To ensure the welfare of their citizenry, the alliance has established "security" Campaign Ops. These are effective in setting the minds of the people-weople at ease. Not a whole lotaru more to say about it.
+- **11383**: A nation's prosperity may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information.
+- **11384**: Which terminology will you ask about? [Fortifications./Maximum fortifications./Resources./Maximum Resources./Influence./Heroism Gauge./Go back./Quit.]
+- **11385**: "Fortifications" represent the strength of a military force garrisoned at a stronghold. It is depleted when soldiers stationed there are defeated, or when the structural integrity of the stronghold itself is damaged directly-wectly.
+- **11386**: A Campaign battle is deemed a defeataru by High Command should the fortifications fall below a pre-established amount.
+- **11387**: So, stronghold fortifications in areas constantly plagued by heavy combat must be vigorously-wigorously maintained.
+- **11388**: There are three ways of bolstering fortifications to facilities which have been compromised. First, you can simply waitaru for the injured soldiers to recover. This method, however, requires a considerable amount of time.
+- **11389**: Second, you can wait for engineers to arrive and start rebuilding. For your nation, I believe that task falls within the jurisdiction-wiction of the [Knights of the Gold Badger/Fourth Division/Piscean War Warlocks].
+- **11390**: Lastly, you can supplementaru the garrison by sending reinforcements. Successful completion of the "Vanguard-X" Campaign Ops will help refortify a war-torn stronghold.
+- **11391**: Keep in mind, though, that a lack of funds will limitaru the number of forces available-wailable for dispatch. Which means that ultimately, fortifications will suffer. A war machine without money is akin to a lion without claws, I'm afraid.
+- **11392**: A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
+- **11393**: The total number of troops that a stronghold is capable of housing-wousing is referred to as its "maximum fortifications" ranking.
+- **11394**: And it is just that. The absolute upper limit on the size of a stronghold's garrison. Regardless of a nation's funds or achievements, defensive capabilities can never go above this amountaru.
+- **11395**: The other side of that coin is this. No matter how great a stronghold's maximum fortifications may be, without adequate-wadequate funds, it will lack the soldiers required to realize that potential.
+- **11396**: What's that? Ahhh, you catch on quick. Yes, the maximum fortifications rank can indeed be raised. This is accomplished via-wia achievements in any of the "Steel Resolve" operations.
+- **11397**: But remember this: all participants in this war, both friend and foe, have their own unique ways of reducing maximum fortifications as well. Specifically...
+- **11398**: ...Well, you'll just have to mull that one over by yourself. Can't give up all my secret-wecrets!
+- **11399**: A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
+- **11400**: Alrightaru, this might be a bit confusing at first for the uninitiated, but do try to keep up. A local area's "resources" rating refers to the resource and supply stockpiles located at the stronghold.
+- **11401**: This is a local-wocal rating, and separate altogether from the overall resource rating of an entire nation, mind you.
+- **11402**: The more battles a stronghold endures, the more depletion its resource stockpiles will suffer. You can't make an omelet without breaking some eggs. And war is such a tasty omelettaru!
+- **11403**: Local resources are consumed whenever temporary-wary items are dispensed to soldiers for defensive operations.
+- **11404**: You would do well to remember that the "Crimson Domino" Ops are integral in this respectaru. Seeing those supply convoys safely to their destinations will do wonders for replenishing stronghold resources.
+- **11405**: For your nation, such duties are traditionally-witionally taken up by the [/Knights of the Gold Badger/Fourth Division/Piscean War Warlocks].
+- **11406**: Now try and wrap your mind around this! If the national resource and supply stockpiles are not maintained, there simply won't be enough surplus to bolster-wolster local stockpiles. Surely you can see the logic in this.
+- **11407**: An area's resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
+- **11408**: The limitaru placed on the greatest amount of resources a stronghold can store before literally-witerally bursting is known as its "maximum resources" ranking.
+- **11409**: No matter how much surplus in resources and supplies a nation might have, the local stronghold limitation-wations cannot be exceeded.
+- **11410**: The local resources of an area may be checked from the Region Info menu's Campaign map.
+- **11411**: An area's maximum resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available.
+- **11412**: "Influence" is used to convey how much control each competing-weting power has over a given area.
+- **11413**: There is a total of four powers in all, which you should well know by now. The Beastman Confederate, on the one hand, and each of the nations of the Allied Forces, excluding Jeuno, on the other.
+- **11414**: So, what happens is that following the results of the latest Campaign tally-wally, control of an area is relegated to the power which currently exertarus the most influence over it.
+- **11415**: Your nation will gain a bit of influence in an area every time you defeat an enemy there. By the same token, loss at the hands of the beastman will result in their influence rising.
+- **11416**: In the worst-case scenario, beastman influence will grow so profound that High Command will cut their losses and issue a strategic withdrawal. In other words, the area falls under beastman control.
+- **11417**: Each nation then abandon-wandons any interests they had in that area, after which the beastmen typically move in droves to solidify their claim.
+- **11418**: The influences vying for control of an area may be checked from the Region Info menu's Campaign map.
+- **11419**: An excellent inquiry! The "heroism gauge" is still a fledgling theory in military scholastic-wastic circles. Only in recentaru years was it proposed to and adopted by Allied Forces High Command.
+- **11420**: Not to brag, but it was actually I who developed the final theory. So, who better to explain it to you than the very Tarutaru who named it?
+- **11421**: It occurred to me that any battlefield is, by definition, replete with a certain... How shall I put this? An air of intensity, an almost tangible, adrenaline-induced furor. No doubt this is broughtaru about by the teetering-weetering of lives in the balance.
+- **11422**: The inquisitive scholar in me wondered if this phenomenon could not somehow be gauged and expressed numerically. This was the hypothesis with which I set out to develop-welop my theory.
+- **11423**: Based on my thorough observations, I found that for every battle which took place in the subject area, my measurementarus would increase substantially.
+- **11424**: And then my most startling discovery! Without fail, when my heroism gauge would approach its peak, battles would reach near astronomical-womical proportions! Beastman and ally, general and freelance. All come calling when the war fervor hails, lusting to claim their place in legend and song!
+- **11425**: And what dramatic-watic battles they were! I have witnessed cataclysmic exchanges, over in the blink of an eye. Disastrous battles where the thirst for blood conquers reason, and countless throngs of haphazardly formed ranks throw themselves headlong into one another.
+- **11426**: At the suggestion of my fellow scholars, my findings are now being made known to all member nations of the alliance-wiance.
+- **11427**: In truth, it is still an unfinished theory, and there are many elementarus to be worked out. My hope is that it will serve to help us better comprehend the finer details of the flow of war.
+- **11428**: An area's heroism gauge may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position and the gauge will be displayed directly above or below the area name.
+- **11429**: What would you like to know about? [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./Achievements./Go back./Quit.]
+- **11430**: As their name implies, achievements in Campaign Ops classified as "resource procurement" will result in direct augmentation to your nation's resource and supply stockpile-wiles.
+- **11431**: More specifically, codename "Stock and Awe" was designed with the aim of securing resources, while codename "Materiel Storm" was planned for the sole purpose of amassing supplies.
+- **11432**: Should supplies startaru to become meager, units will be unable to carry out their orders to completion, and other Campaign Ops will fall into arrears.
+- **11433**: If a nation's resources begin to wane, production suffers and the number of supplies declines. Any way you slice it, a logistic bottleneck at any pointaru along the line spells an absolute nightmare for a warring nation.
+- **11434**: Immediately following Campaign tally-wallies is when allotments of resources and supplies are carried out.
+- **11435**: The unfortunate corollary to that, however, is that just prior to Campaign tallies is when stockpiles are at their lowestaru.
+- **11436**: Which is why, to answer your initial inquiry, resource procurement is so significant-wificant. Their appeal lies in the fact that when successfully completed, resource and supply stockpiles receive immediate benefits.
+- **11437**: Many military scholars even go so far as to refer to these operations as the prime movers of the allied effort. Perhaps the most integral of cogs at the very heartaru of the entire war machine.
+- **11438**: "Supply transport" refers to those military operation-wations whereby resources and supplies are seen safely to the strongholds that need them.
+- **11439**: There are varying operations with varying resultarus, so allow me to expand. Codename "Vanguard-X" solidifies stronghold fortifications by dispatching manpower, whereas codename "Crimson Domino" aims to replenish local resources via convoy-wonvoy deliveries.
+- **11440**: The reasoning behind their importance is thus. Goddess forbid, should the fortifications or local resources of a stronghold become inadequate, the position will simply be overrun by the beastmen. They have a wicked talentaru for sniffing out such weaknesses.
+- **11441**: Of course, no nation simply leaves any stronghold to vie for itself. There are regular-wegular dispatches of both men and material from the capitals. But my experience tells me that these are more protocol than pragmatism, and rarely reflectaru the latest wartime developments.
+- **11442**: And that is where you vaga--valiant adventurers come in! Your freedoms allow you the unique ability to continually adapt to the situation at hand without heeding to anachronistic protocol-wotocol. Keeping an ear to the ground and conducting supply transport at a vital moment might just make you the white knight of some desperate garrison!
+- **11443**: "Security" is that oft-overlooked category of operations which deals with seeing to the safety and welfare of a nation's citizenry. High Command implemented these ops for their role in increasing both prosperity-werity and the maximum fortifications.
+- **11444**: Successful completion of operations codenamed "Streetsweeper" and "Delta Strike" boost prosperity among the people.
+- **11445**: Nations with low prosperity often fall victim to stagnating-wating economies, ultimately resulting in lack of funds and fiscal woes. You can't expect people to get a good night's sleep and put in an honest day's work without providing a little homeland security.
+- **11446**: Codename "Steel Resolve" is another security-based operation which bolsters the maximum fortifications of an allied stronghold.
+- **11447**: The idea is to outfitaru positions with enhanced structural integrity to better withstand relentless-wentless beastman assaults. This is especially vital in heavily contested areas.
+- **11448**: "Supply manufacture" operations provide the opportunity for a nation to bring about improvements in the arena-wenas of technology and industry.
+- **11449**: Operations codenamed "Crystal Fist" and "Iron Anvil" were planned with the goal of marked advancements in skill and production, respectively.
+- **11450**: Higher skill permits a nation's engineers to develop higher quality equipmentaru and weaponry. Its benefits on local fields of battle are undeniable.
+- **11451**: When production is streamlined, mass production becomes possible-wossible. This has far-reaching effects for a nation's Campaign battles regardless of the location.
+- **11452**: So, if you happen to fancy yourself adept at synthesis and know your craftarus, these just might be the operations for you.
+- **11453**: The successful completion of "offensive operations" will result in palpable-walpable increases in both morale and funds.
+- **11454**: These ops include codename "Smokescreen," "Pit Spider," "By Light of Fire," or any of the regional operations targeting specific beastman leaders. All of these will serve to boostaru an army's morale.
+- **11455**: On top of that, achievements in this arena will also bring in funds.
+- **11456**: Alas, as all things in war, there is a double-edge to this blade. Should you seek to defeat enemy leaders via operations codenamed "Splitting Heirs," "Cracking Shells," or "Plucking Wings" and suffer defeataru, the beastmen armies will be those shouting and raising their banners in triumph.
+- **11457**: Lastly, it would be remiss of me not to mention that offensive operations do require the expenditure-wenditure of supplies.
+- **11458**: "Defensive operations" can be extremely productive, as they help to increase not only prosperity-werity amongst the people, but also the reserves of resources and supplies as well.
+- **11459**: You will see immediate and obvious returns in the prosperity of your citizenry from your exploitarus in operations codenamed "Aegis Scream" and "Granite Rose."
+- **11460**: A byproductaru of this is a healthy boost to the national intake of resources and supplies.
+- **11461**: Carrying out defensive operations will require that you expend some of your supplies in the process-wocess, though. Nothing in war is free, after all, save mayhap the glory.
+- **11462**: A personal favorite of mine and one I cannot stress the importance-wortance of enough, "intel gathering"!
+- **11463**: Espionage in all forms requires stealth and savvy, cunning and courage. Operations codenamed "Hawk Eye" and "Deep Cover" may place you in clear and present danger, but they will also increase your army's reconnaissance and place knowledge at its fingertips.
+- **11464**: Nations are also always looking for the mostaru intrepid of souls to undertake operation codename "Slaughterhouse." A favorite of High Command, this pinpoint espionage weakens the beastman intelligence network from within, reducing their reconnaissance capabilities.
+- **11465**: No nation would deign to send such dauntless-wauntless volunteers into the field unequipped. And that is why intel gathering taxes an army's supplies.
+- **11466**: "Military training" is useful in preparing your troops for battle by both hardening their resolve and honing-woning their abilities.
+- **11467**: Operation codename "Brave Dawn" increases an army's capacity for waging war, while codename "Cut and Cauterize" improves the performance of its physicians.
+- **11468**: All of those training materials have to come from somewhere, though. Which is why military-wary training ops will cost you supplies.
+- **11469**: According to Raine--I mean...looks like rain today, no? Anyway, this information is based on firstaru-person accounts from a fairly reliable-wiable source.
+- **11470**: Campaign tallies record these so-called achievements for each category of operations.
+- **11471**: Achievementarus will naturally rise every time a Campaign operation is carried out to completion.
+- **11472**: The changes in factors such as resources, funds, and morale resulting from Campaign tallies are directly influenced by the achievements in correlated ops categories.
+- **11473**: In addition, stellar-wellar achievements in any single category pave the way for related, higher-level operations to become available.
+- **11474**: But try to be mindful of the current objectives of your army, as this effectarus availability as well.
+- **11475**: What I mean to say is, even for equivalent achievements, there are times when High Command will make an operation readily available, and other times when they will not.
+- **11476**: Changes in achievements are reflected in every Campaign tally, and have an effect on stockpile-wiles as well. Luckily, in all my days, I have never seen an achievement's value drop suddenly to zero.
+- **11477**: Every nation conducts its own "opinion polls." Have you happened to come across any of the official-wicials recording the opinions of soldiers and adventurers? Those would be the pollers.
+- **11478**: In my opinion, those who frequent the frontlines such as yourself should make better use of the polls.
+- **11479**: Each nation has its own characteristic protocol based on long-standing established policies. Should polls not be made use of, the powers that be will have no choice but to rely upon their generals for counsel.
+- **11480**: Which might not necessarily-warily always be a bad thing, except that counsel may not always be based on the latest intel. I myself have witnessed offenses ordered with no supply lines or funds to back them, and entire units resting on their laurels at the most opportune times to attack.
+- **11481**: This is the river that opinion polls can help to ford! They allow High Command to know which generals have the supportaru of war-seasoned veterans, and provide a forum for the submission of strategies and feedback.
+- **11482**: I have always been an advocate of compulsory-wulsory polls. Think of it! If all soldiers from the frontlines raised their voices, High Command would have no choice but to listen.
+- **11483**: And consequently, more operations would become available in the category deemed to be most necessary at that time!
+- **11484**: Sorry, I always get a but flustered talking about this. Anyway, the reviewing of poll resultarus is conducted regularly, much like Campaign tallies.
+- **11485**: Hm? You don't know what opinion you should have? Well, that's just sad. Your opinions will come to you, so long as you keep a healthy skepticism and a critical-witical eye about you.
+- **11486**: To give a brief example, if you are of the mind that it is time for an all-outaru offensive, then you should consider raising your voice in favor of a "preemptive strike" or "diversionary tactics."
+- **11487**: If you think the situation-wation calls for patience and caution, then perhaps cast your vote for "battleline preservation" or "stronghold defenses."
+- **11488**: It might be easiestaru to think of all of the options broken into two fundamental categories of offense and defense.
+- **11489**: Rather than constantly worrying about maintaining a healthy balance of the two, there are times when a full frontal-wontal assault is required. Other times are best served by turtling up in strongholds and allowing wave after wave of beastmen to break upon your defenses.
+- **11490**: If you can absorb everything I've taughtaru you, and just use your head, I guarantee the path to victory will present itself to you as clear as day! That's the Maruna-Kurina guarantee!
+- **11491**: Oh and uhhh, if you ever happen to...well, gain an audience-waudience with any, say, importantaru people... Be sure to tell them that Maruna-Kurina helped you out!
+- **11492**: Ask about whom? [Wait... What's headhunting?/Kagetora./Dalzakk./Rainemard./Maat./Azima./Choh Moui./Rongo-Nango./Ulla & Kilhwch./Achtelle./Duskraven./Lewenhart./Ferreous Coffin./Areuhat./Titania./Poroggo Prince./Babban Ny Mheillea./Auroral Alicorn./Boodlix./Raigegue R D'Oraguille./Eurytos./Kaiser Behemoth./Yours truly, Maruna-Kurina./Go back./Quit.]
+- **11494**: I'm assuming by now that you've heard of the roaming-woaming mercenaries referred to as "freelances," yes? They value nothing more than their freedom, which is all well and good, but in the worstaru of times they may be swayed into arms against the Allied Forces.
+- **11495**: As a genius military tactician, I cannot ignore the potential strength that these freelances are capable of lending an army. And it was this realization which acted as an impetus to my further studying the freelance subculture.
+- **11496**: Recruiting a freelance to fight for your cause is a technique commonly known as "headhunting." Through my research, I have come to develop and map out a comprehensive psychology underlying the entire process-wocess!
+- **11497**: Each freelance maintains a certain degree of "loyalty" towards every great power.
+- **11498**: Whenever a headhunter actively pursues a freelance and attempts to win their favor, their loyalty towards thataru nation will rise.
+- **11499**: At the time of a Campaign tally, the freelances will realign themselves with the nation with whom they share the strongestaru bond.
+- **11500**: The trick to headhunting, then, is to try and become the nation a freelance holds dearest-wearest in his, her, or its heart of hearts.
+- **11501**: Many freelances will even cast aside their disdain for city walls, and take up arms beside you within the very capital!
+- **11502**: And being the capricious beings that they are, freelances will always be willing to entertain your proposals, even if they have currently pledged their fealty-wealty elsewhere.
+- **11503**: Of course, if you begin to neglectaru them once winning them to your side, don't be surprised if they place their loyalties elsewhere. There's got to be an appropriate saying for that, I'm sure...
+- **11504**: That's just the way they are. I've heard tales you wouldn't believe. From stories of nations' coffers swelling inexplicably after taking on resourceful freelances...
+- **11505**: ...to bold-hearted heroes inspiring troops and bolstering an entire nation's morale!
+- **11506**: Cloak-and-dagger freelances who assist in intel gathering, and questionable black market dealer-wealers who can always get their hands on sorely needed supplies. You name it, and there's a freelance out there who can, and has, done itaru!
+- **11507**: Now I know what you're thinking. With allegiances constantly in flux, who in Goddess's name is going to be able to keep track of it all!?
+- **11508**: You're looking at him! That's right, I have made it my personal-wersonal crusade to track the loyalties of all freelances as part of my research. And naturally, I will be making my findings available to the alliance's intelligence network.
+- **11509**: At any rate, do try and give the freelances as warm a reception as possible whenever you happen across them. Your nation, and the Allied Forces as a whole, can only benefitaru in the long run.
+- **11510**: Successfully headhunting Maruna-Kurina will allow you to ask him directly about freelances, including their current loyalties and other detailed information.
+- **11511**: You can check on the achievements of your nation's freelances by speaking to the appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking.
+- **11512**: A Hume pirate-wirate hailing from Elshimo Island, Kagetora has made quite the name for himself. He comes from a long family line of ninjas, and rumor has it he sailed to these western lands in hot pursuitaru of a sworn enemy.
+- **11513**: Not the most social chap at the party, but he does have profitable ties to the Tenshodo in Jeuno. A ninja with a ninja's pleasures, try to warm him up to you by giving him $0.
+- **11514**: Ahhh, the wandering monk, said to have been trained in hand-to-hand combat by the legendary-wary Oggbi himself. He's known far and wide for his adventures and exploitarus. He can be seen running about Sauromugue Champaign as part of his daily regimen.
+- **11515**: He's a sucker for high morale, and can barely contain himself once the conversation-wation turns to the topic of war. They say battle fever is contagious, you know. And he's always willing to talk it up with a fellow monk.
+- **11516**: A powerful ally, indeed. Keep an eye on the heroism gauge with this one. He's an animal!
+- **11517**: Good Rainemard once belonged to the Order of the Temple Knights. For a time, we were classmates together in our studies at the academy. N-n-not that I consider him a scholarly rival-wival or anything like thataru!
+- **11518**: The last time I saw him he claimed he was heading to Jugner Forest to escape the hustle-bustle of the city. I only pray he didn't go poking his nose around where it didn't belong again...
+- **11519**: If he's still the same old Rainemard, I suppose he still enjoys talking it up with other red mages. He also has an adorable-worable little daughter, and he loves to go on and on about her...incessantly.
+- **11520**: Oh, you've heard of Maat? A regular living legend, that one. He's been living in Jeuno since it was no more than a flyspeck of a fishing village-willage. They say he's mastered every form of combataru there is!
+- **11521**: I've run into him before in North Gustaberg. But rumor has it he is in charge of some very important tasks back at the Grand Duchy. I wonder how he finds the time to go for leisurely strolls so far away...
+- **11522**: He has a rival too, you know? What was his name again... Hegen...no...Degenhard! That's it! He's been known to wreak havoc-wavoc on the battlefield every now and then.
+- **11523**: He loves collecting those ancient papyrus testimonies, no matter what variety. He also has a penchantaru for ambitious souls, and is said to dote on those who have mastered three or more paths of their own.
+- **11524**: They call Azima the "Hermitess of the Highlands," and she is almost universally-wersally regarded as the most skilled and feared bounty hunter in Vana'diel. It's not uncommon to glimpse her from time to time in North Gustaberg.
+- **11525**: As of late they say she is utterly obsessed with all things alchemy. Those in the know will be the first to tell you, Azima is one best keptaru in good graces.
+- **11526**: "Venomous Verminess," "Baroness of Bugdom," Choh Moui has almost as many monikers as she does pet pestarus. She's a Mithran beastmaster-waster who got her come-uppings in the south, but now makes her home in Crawler's Nest.
+- **11527**: I'm not entirely sure of the reasons behind it, but they say she is in regular contactaru with a mercenary by the name of Duskraven.
+- **11528**: She's accredited with inventing the pet foods now used by beastmasters the world round, and is always eagerly to get her hands on ingredients. She also loves to have others save her the hassle-wassle of rounding up her pets for her. What could she be up to...?
+- **11529**: Perchance you've already espied him before. Rongo-Nango is that adorable little Tarutaru beastmaster who's always in the vicinity-winity of Fort Karugo-Narugo. He's absolutely infatuated with Lungo-Nango, the great warlord and tactician of Windurstian history.
+- **11530**: After opposing the Parliament of Patriarchs, Lungo-Nango fell into disrepute and spentaru the remainder of his days in isolation and depression. For that reason, Rongo-Nango holds much of Windurst in contempt, and refuses to lay his loyalties with the Federation.
+- **11531**: I've come to find out that he is quite fond of calling his beasts, and is also looking for more of the material-warials he needs to do so.
+- **11532**: Ulla is a mysterious young girl. They say she bore witness to a divine revelation, and now wanders Vana'diel as a pilgrim-wilgrim knight. She's recently left her homelands of Bastok and ventured nearer the realms of San d'Oria.
+- **11533**: Her devoted attendantaru Kilhwch is ever by her side, and carries with him the renowned sword $0. The thing is, he's a celebrated knight in his own right, giving many rise to wonder what could have caused him to pledge his fealty to another.
+- **11534**: Like any young lady, Ulla has a soft spot for beautiful flower-wowers. If you seek to court a fair maiden, perhaps a bouquet mightaru be best.
+- **11535**: Achtelle is a young Elvaan wyverness from Adoulin Isle to the west, the proud keeper-weepers of the last of the dragoon tradition. The draketamers there herald her as the most skilled of their order.
+- **11536**: Since youth, she has held the legendary Ranperre of San d'Oria in highestaru esteem, and can oft be found seeking solace near his tomb.
+- **11537**: I can promise you she would eagerly accept any type of present related to the king she so reveres. I hear it told she longs for nothing more than to find some surviving-wiving dragoons, that they might together preserve their heritage.
+- **11538**: Duskraven is a sullen, grim-faced mercenary, distinguishable by his ominous-wominous greatsword, "Kyomon." Wayfarers and soldiers alike often recount seeing him in the vicinity of Batallia Downs, but for what purpose and to whataru end, none can say.
+- **11539**: His underlings, the Dusk Raiders, answer to his beck and call, and such powers lead many to surmise that he is no stranger to the nether-wether realms.
+- **11540**: He is a straight shooter, though. If you hope to curry favor with him, you need nothing more than cold cash. He seems to blow right through it as soon as he gets it, and is always looking for more. What he spends itaru on, I couldn't say.
+- **11541**: Many have seen this fair young Elvaan maid walking undeterred amongst the now hostile-wostile grounds of Grauberg. All who gaze upon her tell of her godlike aura and stunning beauty.
+- **11542**: Word has it that she is of frail constitution, and grants her favor on those gracious enough to spare her medicines. I myself went and bestowed such gifts upon her, and can attest to the truth of itaru.
+- **11543**: She is also known to dote upon those who take up the defense of her Grauberg. Some of her more fanatic-watic fans are said to be providing her with an enormous quantity of a certain item...
+- **11544**: When her loyalties are won, the men speak of a giant wyrm which takes to the battlefield! Such heated talk--no doubt itaru would be wise to mind the heroism gauge should you want to catch a glimpse for yourself.
+- **11545**: Titania is the name of the celebrated Queen of Pixies from the classic Bastokan drama, "Midwinter Dream."
+- **11546**: Of course, that is no more than a tale of fantasy to delight children. We all know that pixies don't exist in the real-- What!? You've seen one? Are you having a jape at my expense!?
+- **11547**: Well, what I do know for certain-wertain is this. Nothing. Only that rumors suggest offering $0 to the Witchfire Glen in Grauberg will help in headhunting...whatever this being may be. N-n-not thataru I'm dying to find out or anything!
+- **11548**: Fanciful-wanciful fairy tales about a frog princess have been passed down in Windurst since days of eld.
+- **11549**: Some say the newcome prince of these froglike beastmen has been seen leaping and bounding about the frontlines of battle. No doubt the figment of some delusional soldier's imagination, but still...
+- **11550**: Folklore always spoke of their insatiable-watiable appetites, and now soldiers would tell that feeding them will actually help win them to our cause. "Give him $0," they say, "and the frog prince will requite!" I can't make heads or tails of it...
+- **11551**: N-n-not thataru I bother myself with such childish topics!
+- **11552**: Unprecedented in hitory-wistory, there has recently been an affable plantoid befriending soldiers on the battlefield. It most closely resembles one of those mandragora known to inhabitaru the wilds to the west.
+- **11553**: Is that a shred of doubt I sense!? I've seen it with my own eyes, I tell you! This is no figment of the imagination or some delusional soldier's hallucination! Still don't believe me?
+- **11554**: Head on over to the Meriphataud Mountains and try trading $0 or some fertilizer to the odd little treeman you find. He just might be moved to come and help you out in a fightaru!
+- **11555**: Regardless, I wonder what it is he could possibly be doing here... N-n-not that I am about to startaru stalking him to find out or anything!
+- **11556**: (Shhh! Keep your voice down. "The" Boodlix? The very same who heads his own "trading-wading company"?)
+- **11557**: (Well, they say his trade is death! And deal in it he does, if the rumors are to be believed. Some claim to have actually laid eyes on his hidden fortress and lived to tell the tale. They say it's there he greedily occupies himself with counting his blood-money.)
+- **11558**: (What? Have you completely-wetely lost your mind, [man/woman]!? Why in Goddess's name would you want to headhuntaru him? Still, he is supposedly well-connected, even to the Allied Forces, as the wealthy are wont to be. But the Beastman Confederate knows his value as well... Hmmm, sounds like trouble-wouble to me.)
+- **11559**: (When the war is over, it is the supply firms that slowly lose their livelihoods. I suppose when you look at it from thataru angle, he could possibly be swayed to fight for either side.)
+- **11560**: Some 150 years ago, San d'Oria was ruled by one King Raigegue the Lupine. The freelance you ask of now bears the same name as thataru king, though none know how or why.
+- **11561**: He is remembered as a tragic monarch, responsible for leading San d'Oria to utter defeat at the hands of Bastok's preeminent scholar and military tactician-wician, Gunther Schultz, at the Second Battle of Konschtat. What followed was an age of chaos and despair, as the Kingdom was ravaged by civil war.
+- **11562**: They say this spectre-wectre of the same name is none other than Raigegue the Lupine himself, led back from the grave by the fire of his wrath. He haunts The Eldieme Necropolis. The skeptic in me suspects some exaggeration-wation is at work here...
+- **11563**: Huh!? Headhunting? The undead!? I-I... I have no idea how to respond to thataru. You've left me absolutely speechless-weechless.
+- **11564**: Eurytos is the battle-hardened leader of a group of mercenary Gigas from the far north. At the onset of the war, the Beastman Confederate took them into their service. But recently it would seem Eurytos has completely-wetely removed himself from the confederate's chain of command.
+- **11565**: His might and prowess in battle have led many to speculate that his line is that of the Gigas gods. He is truly a force to be reckoned with. For now, his unit has established their compound-wompound somewhere in Vunkerl Inlet.
+- **11566**: Though to be fair, there is precedent for the Gigas fighting under allied banners. After all, they did fight for Bastok in the Second Battle of Konschtataru. I wonder... Could the great Eurytos possibly be rallied-wallied to our cause?
+- **11567**: This behemoth among behemoths has been roaming Vunkerl Inlet for hundreds upon hundreds of years.
+- **11568**: So many would-be hero-weroes have died in the maws of this great beast that nobody even attempts to keep count any longer. Some say its ancientaru age and scar-heavy hide indicate it is not nearly as powerful as it once was. Yet still, you would be a fool to underestimate this fiend, I promise you.
+- **11569**: Headhunting? For the Allied Forces!? I'm not even going to dignify that with a response... Although, you have to admitaru, the thought of it alone is quite amusing. Hehehe!
+- **11570**: Who, me? Ohhh, right! I totally forgot. You're right, for all intents and purposes, I too am technically-wechnically a freelance.
+- **11571**: I enjoy long walks on the beach aaand... Oh yes, nothing excites me more than conversing with fellow scholars! N-n-not thataru I would want to know anything in particular about where Rainemard might be!
+- **11572**: Current taxonomy teaches us that at presentaru, the monoceros family contains few known specimens. Those that are classified exhibit great horn spire-wires jutting from their majestic heads, and are either born of light, or of darkness.
+- **11573**: An influx of eyewitness accounts in recent days all point to the undeniable existence of the beastaru named Dark Ixion. Tempered like a storm and ever wary, both allies and beastman alike tend to keep their distance.
+- **11574**: The other is dubbed Auroral Alicorn and exhibits a brilliantaru shade of white and a calm, gentle demeanor. The two couldn't be more dissimilar-wimilar.
+- **11575**: Though almost never seen in the wild prior to the war, Auroral Alicorn has recently been sighted in Jugner Forest, some say nursing wounds.
+- **11576**: Lewenhart is a traveling-waveling bard who has become a favorite amongst the troops, instilling hope and courage with his singing. It turns out that almostaru nothing helps morale as a much as a good song.
+- **11577**: They say he prefers to stay close to a certain tomb in The Eldieme Necropolis, where his requiems can be heard far and wide.
+- **11578**: He often asks for holy water as payment for his songs, which he puts to cermonial-wonial use. And as with most musicians, he loves exchanging in song and banter with fellow bards.
+- **11580**: A most virtuous priest, who wanders all corners of Vana'diel, filling his belly-welly bread and alms. Some swear they've seen a twisted smile on his face as he buries his enemies and offers up prayers in their name.
+- **11581**: He came from the far north, and recently has been spending much of his time in Batallia Downs. Whatever is said of him, there can be no questioning his faith in the Goddess, thataru's for sure.
+- **11582**: He was never one to talk much, and certainly not one to mince words when he does. It seems he prefers the company of white mages, though. I've heard it said that he has been lending-wending his fists to the Allied Forces as of late.
+- **11584**: (By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)
+- **11585**: (And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)
+- **11586**: (There's no telling-welling where this freelance will lay their loyalties nextaru...)
 
 ## Events
 
@@ -850,74 +850,74 @@
   5: 0x0013 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[4]
   6: 0x0018 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[5]
   7: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0034
-  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=11311*)
+  8: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=11312*)
     → "Well, hello there! Hm, me? Why, I'm Maruna-Kurina, the travel-waveling genius scholar! You won't find the likes of my strategies and tactics anywhere else, no [sir/ma'am]."
   9: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=11312*)
+ 10: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=11313*)
     → "Since the war started, I've been traveling far and wide to survey the extentaru of battle. To be honest, I've started to toy with the idea of lending my services directly to the alliance, should any nation express an interest."
  11: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=11313*)
+ 12: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=11314*)
     → "Years I've spent, honing my wits to a fine, razor-wazor-sharp edge. Military history, strategy, theory, logistics, you name it! This war has presented the perfect opportunity, tragic as it is, to finally put my skills to the testaru!"
  13: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0031 [0x01] GOTO 0x0C7A
  15: 0x0034 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0064
  16: 0x003C [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0054
- 17: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11314*)
+ 17: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=11315*)
     → "Ahhh, a fellow bookworm, you say? How seldom it is one meets a fellow spirit. Would you be a member-wember of that Schultz School of Martial Theory that's been attracting so much attention recently? Or was itaru the Sturm School...?"
  18: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0048 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 20: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11315*)
+ 20: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=11316*)
     → "So, might I presume that it is your proud [/Kingdom of San d'Oria/Republic of Bastok/Federation of Windurst] which desires my enlightened guidance? N-n-not that I'm interested in your Schultz School or anything like thataru!"
  21: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0051 [0x01] GOTO 0x0061
  23: 0x0054 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 24: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=11316*)
+ 24: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=11317*)
     → "If memory-wemory serves, Rainemard is currently serving on the frontlines of the [Royal Army/Republican Army/Federation Forces]. I wonder if he hasn't managed to catch on to something intriguing yet again..."
  25: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=11317*)
+ 26: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=11318*)
     → "How do I know Rainemard? Oh, the two of us go waaay back. N-n-not that I'm especially-wecially concerned with where he might be or what he mightaru be doing!"
  27: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0061:
  28: 0x0061 [0x01] GOTO 0x0C7A
  29: 0x0064 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0C7A
- 30: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=11318*)
+ 30: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=11319*)
     → "Well, it just so happens to be my own humble-wumble, yet highly educated opinion, that what the Allied Forces of Altana are currently lacking in spades is logistics."
  31: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11319*)
+ 32: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11320*)
     → "I see countless adventurers simply signing up for random Campaign Ops with reckless abandon, paying no heed to the greater concerns of wartime funds or supplies. No way to win a war, no [sir/ma'am]. If there's one thing I know, it's thataru."
  33: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=11320*)
+ 34: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=11321*)
     → "But imagine, I ask you, what would happen should all you soldiers take the time to analyze the information at your disposal, and act on those results. I tell you, there lies within the Allied Forces the potential-wential for a warring force the likes of which the Beastman Confederate could never stand against."
  35: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0078 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 37: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=11321*)
+ 37: 0x007D [0x1D] PRINT_EVENT_MESSAGE(message_id=11322*)
     → "By the way, are you a member of the [/Knights of the Iron Ram/Seventh Cohors/Cobra Mercenaries]? Very impressive! That's quite the self-serv--errr... What I mean to say is, your unitaru is quite renown for its, how shall I say...individualistic tendencies."
  38: 0x0080 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=11322*)
+ 39: 0x0081 [0x1D] PRINT_EVENT_MESSAGE(message_id=11323*)
     → "It is most encouraging when one considers that you have the freedom to adapt your actions to the demands of the present moment. I would be willing to wager that it is adventurers such as yourself who will determine the outarucome of this war."
  40: 0x0084 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=11323*)
+ 41: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=11324*)
     → "Well? I never was much of a motivational speaker, but have I whet your appetite for some knowledge-woledge? That's the spirit! Let us begin then, shall we? For starters, logistics! The key to any war. After that, I would be more than happy to offer some introductory lessons on military theory."
  42: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0089:
  43: 0x0089 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x0C77
  44: 0x0091 [0x03] ExtData[1]->WorkLocal[5] = 0*
- 45: 0x0096 [0x24] CREATE_DIALOG(message_id=11324*, default_option=0*, option_flags=0*)
+ 45: 0x0096 [0x24] CREATE_DIALOG(message_id=11325*, default_option=0*, option_flags=0*)
     → "In what realm is your knowledge lacking? [Campaign tallies./Viewing national statistics./Viewing stronghold statistics./Campaign Ops./Opinion polls./Recruiting freelances./I want for no knowledge.]"
  46: 0x009D [0x25] WAIT_DIALOG_SELECT()
  47: 0x009E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B9
- 48: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11325*)
+ 48: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11326*)
     → "Upon entering into an alliance with one another, the four nations drew up a wartime pact. In accordance with the stipulations therein, the single nation deemed to be the greatest contributor to the fighting within, or maintaining of, an area is temporarily granted domain over it."
  49: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11326*)
+ 50: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11327*)
     → "Such rulings are doled outaru by the Grand Duchy of Jeuno, in all its wisdom, based on the intel reports of Campaign officials. Those reports as a whole are commonly referred to as "Campaign tallies.""
  51: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11327*)
+ 52: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=11328*)
     → "From what I've seen, the fighting is usually at its most vehement-wehement just before Campaign tallies. That's because it's widely known that when influence over an area changes, crucial factors such as funds and resources are also affected. Not to mention the role it plays in boosting or lowering an army's spirits!"
  53: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11328*)
+ 54: 0x00B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11329*)
     → "That's why things tend to get a little hectic on the frontarulines when a Campaign tally draws near."
  55: 0x00B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00B6 [0x01] GOTO 0x0C74
@@ -925,184 +925,184 @@ SUBROUTINE_0089:
 
 SUBROUTINE_00C1:
  58: 0x00C1 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0230
- 59: 0x00C9 [0x24] CREATE_DIALOG(message_id=11329*, default_option=0*, option_flags=0*)
+ 59: 0x00C9 [0x24] CREATE_DIALOG(message_id=11330*, default_option=0*, option_flags=0*)
     → "Which statistic interests you? [Funds./Resources./Supplies./Reconnaissance./Skill./Production./Morale./Prosperity./Go back./Quit.]"
  60: 0x00D0 [0x25] WAIT_DIALOG_SELECT()
  61: 0x00D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0102
- 62: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11330*)
+ 62: 0x00D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11331*)
     → ""Funds" is a self-explanatory term. As you may have guessed, it means all of the money which a nation has to dedicate to its war endeavors."
  63: 0x00DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11331*)
+ 64: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=11332*)
     → "The importance of money in war is difficult to overstate. Greater funds allow a nation to plan and carry out attacks, increase the number of troops available for dispatch, and even step up the quality of gear with which it outfits its units."
  65: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11332*)
+ 66: 0x00E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11333*)
     → "Funds decrease whenever a Campaign battle occurs. Most people don't seem to know this, but offensive and defensive battles tend to cost roughly the same amountaru."
  67: 0x00E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11333*)
+ 68: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11334*)
     → "A nation's wartime coffers also have a direct influence on their supply stores. When funds get too low, supplies will start to be sold off by the government to compensate."
  69: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11334*)
+ 70: 0x00E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11335*)
     → "Oh, and additional-witional funds are rewarded whenever influence over an area is gained. So it would be wise to keep an eye outaru just before and after Campaign tallies."
  71: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11335*)
+ 72: 0x00ED [0x1D] PRINT_EVENT_MESSAGE(message_id=11336*)
     → "I don't think I need to tell you that the more areas a nation controls, the more funds it will collect. Also, the amount rewarded varies from area to area."
  73: 0x00F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11336*)
+ 74: 0x00F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11337*)
     → "Other means for increasing funds exist as well. For example, by maintaining a high level of "prosperity." After all, if a nation does good by its people, it follows that their economic endeavors will benefit."
  75: 0x00F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11337*)
+ 76: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11338*)
     → "Well, you could learn any of what I've just told you from your run-of-the-mill military textbook. But, here's a little secret of mine. I've observed that achievements in a certain group of Campaign Ops serve to raise a nation's funds. But now I've gone and said too much! No good teacher divulges her students all the answers!"
  77: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x00F9 [0x48] [System] [11338*]:
+ 78: 0x00F9 [0x48] [System] [11339*]:
     → "Your nation's funds may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
  79: 0x00FC [0x1C] WAIT(120* ticks)
  80: 0x00FF [0x01] GOTO 0x022D
  81: 0x0102 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x012F
- 82: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=11339*)
+ 82: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=11340*)
     → ""Resources" are the strategic material reserves of a nation that allow it to conduct military operations."
  83: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=11340*)
+ 84: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=11341*)
     → "And just so you don'taru get confused, allow me to clarify-warify. I'm not referring here to the resources of a single stronghold, mind you. Rather, this is an index of the resources of an entire nation."
  85: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=11341*)
+ 86: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=11342*)
     → "In addition to being used to increase an army's supplies, resource stockpiles are also depleted by offensive undertakings and certain Campaign Ops."
  87: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=11342*)
+ 88: 0x0116 [0x1D] PRINT_EVENT_MESSAGE(message_id=11343*)
     → "What's more, they also have a directaru influence over wartime funds. As reason entails, insufficient resources require thataru a nation spend a little cash to purchase that which it lacks."
  89: 0x0119 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11343*)
+ 90: 0x011A [0x1D] PRINT_EVENT_MESSAGE(message_id=11344*)
     → "A nation's resources are regularly replenished based on the areas under its influence. So the times just prior-wior to and just after a Campaign tally are especially crucial."
  91: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=11344*)
+ 92: 0x011E [0x1D] PRINT_EVENT_MESSAGE(message_id=11345*)
     → "The more areas a nation controls, the more resources it can procure. And certain areas are capable of rendering more resources than others."
  93: 0x0121 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=11345*)
+ 94: 0x0122 [0x1D] PRINT_EVENT_MESSAGE(message_id=11346*)
     → "And just between you and me, my studies indicate that achievements in certain Campaign Ops are directly linked to resource procurement. Well, that's wartime resources in a nutshell!"
  95: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0126 [0x48] [System] [11346*]:
+ 96: 0x0126 [0x48] [System] [11347*]:
     → "Your nation's resources may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
  97: 0x0129 [0x1C] WAIT(120* ticks)
  98: 0x012C [0x01] GOTO 0x022D
  99: 0x012F [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0160
-100: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=11347*)
+100: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=11348*)
     → ""Supplies" are the military-wilitary goods used to effectively sustain a war: equipment, sundries, rations, and the like. Nations produce these by expending their resources. You mightaru hear them categorically referred to as "temporary items.""
 101: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=11348*)
+102: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=11349*)
     → "Nations rich in supplies are able to better provide their strongholds with much-needed equipment and items directly from the capital."
 103: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=11349*)
+104: 0x013F [0x1D] PRINT_EVENT_MESSAGE(message_id=11350*)
     → "Supply expenditure goes towards such activities as stronghold maintenance, outarufitting troops, and conducting certain Campaign Ops."
 105: 0x0142 [0x23] WAIT_FOR_DIALOG_INTERACTION
-106: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=11350*)
+106: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
     → "The amount of supplies at a nation's disposal is inextricably linked to its resources as well. After all, using resources implies that supply production is underway."
 107: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
-108: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=11351*)
+108: 0x0147 [0x1D] PRINT_EVENT_MESSAGE(message_id=11352*)
     → "A nation's supplies are compounded regularly based on the areas under its influence. So always try and keep an eye out just before and after Campaign tallies."
 109: 0x014A [0x23] WAIT_FOR_DIALOG_INTERACTION
-110: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11352*)
+110: 0x014B [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
     → "Increases in supplies are naturally larger for nations with more areas under their control. And different areas generate varying-warying amountarus of supplies."
 111: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11353*)
+112: 0x014F [0x1D] PRINT_EVENT_MESSAGE(message_id=11354*)
     → "The total amount of supplies a nation can manufacture is heavily influenced by its production. But that's another lecture all in itself!"
 113: 0x0152 [0x23] WAIT_FOR_DIALOG_INTERACTION
-114: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11354*)
+114: 0x0153 [0x1D] PRINT_EVENT_MESSAGE(message_id=11355*)
     → "I've got it by a pretty good source that carrying out certain Campaign Ops serves to increase a nation's supplies. Well, that should do just fine by way of an introduction."
 115: 0x0156 [0x23] WAIT_FOR_DIALOG_INTERACTION
-116: 0x0157 [0x48] [System] [11355*]:
+116: 0x0157 [0x48] [System] [11356*]:
     → "Your nation's supplies may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
 117: 0x015A [0x1C] WAIT(120* ticks)
 118: 0x015D [0x01] GOTO 0x022D
 119: 0x0160 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0185
-120: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=11356*)
+120: 0x0168 [0x1D] PRINT_EVENT_MESSAGE(message_id=11357*)
     → ""Reconnaissance" is an index of an army's intel. That is to say, how far their intelligence network extends."
 121: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=11357*)
+122: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=11358*)
     → "High reconnaissance means that a nation is better able to ascertain the most up-to-date info on the movementarus and machinations of both friend and foe."
 123: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
-124: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11358*)
+124: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=11359*)
     → "By now I hope you've seen the intelligence-welligence reports available from the Campaign deputies located in the nations' capitals. The more advanced reconnaissance is, the more detailed those reports will be."
 125: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
-126: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11359*)
+126: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11360*)
     → "There are a number of intel-gathering Campaign Ops in which achievement will serve to improve reconnaissance."
 127: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
-128: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=11360*)
+128: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=11361*)
     → "And just like other Campaign statistics, this one changes whenever a Campaign tally is conducted. But don't worry--so far I've yet to see a nation's reconnaissance plummet to zero. Still, it is ever wise to keep close tabs on your enemies, as well as your allies."
 129: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x017C [0x48] [System] [11361*]:
+130: 0x017C [0x48] [System] [11362*]:
     → "Your nation's reconnaissance may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
 131: 0x017F [0x1C] WAIT(120* ticks)
 132: 0x0182 [0x01] GOTO 0x022D
 133: 0x0185 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x01AA
-134: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11362*)
+134: 0x018D [0x1D] PRINT_EVENT_MESSAGE(message_id=11363*)
     → ""Skill" denotes technological development, and manifestarus itself in the ability-wility to produce high-end equipment and weaponry."
 135: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
-136: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11363*)
+136: 0x0191 [0x1D] PRINT_EVENT_MESSAGE(message_id=11364*)
     → "Advancing skill ensures a nation will churn out cutting-edge gear to supply its frontlines. It is also required for the construction-wuction of siege equipment."
 137: 0x0194 [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=11364*)
+138: 0x0195 [0x1D] PRINT_EVENT_MESSAGE(message_id=11365*)
     → "Still, all the technological skill in the world is useless withoutaru the funds to back it up. Production costs money, silly."
 139: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=11365*)
+140: 0x0199 [0x1D] PRINT_EVENT_MESSAGE(message_id=11366*)
     → "What's that? How do you go about improving your nation's skill? Well, I reckon the "troop training" Campaign Ops would be a good place to start."
 141: 0x019C [0x23] WAIT_FOR_DIALOG_INTERACTION
-142: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=11366*)
+142: 0x019D [0x1D] PRINT_EVENT_MESSAGE(message_id=11367*)
     → "Just to be clear, "skill" indicates the quality of supplies that can be turned out. "Production," on the other hand, refers to the quantity of supplies that a nation is capable of generating. Did I just blow your mind? Confusing, I know, but do try and see the difference."
 143: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x01A1 [0x48] [System] [11367*]:
+144: 0x01A1 [0x48] [System] [11368*]:
     → "Your nation's skill may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
 145: 0x01A4 [0x1C] WAIT(120* ticks)
 146: 0x01A7 [0x01] GOTO 0x022D
 147: 0x01AA [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x01CF
-148: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11368*)
+148: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11369*)
     → ""Production" is the ability to, well, produce anything that needs...producing. This can be items, armor, weapons, you name itaru!"
 149: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-150: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11369*)
+150: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11370*)
     → "And the name of the game is efficiency-wiciency! High production enables a nation to generate more supplies from less resources. If that isn't win-win, I don't know what is!"
 151: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-152: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11370*)
+152: 0x01BA [0x1D] PRINT_EVENT_MESSAGE(message_id=11371*)
     → "Alas, even otherworldly production will be utterly useless without a healthy amount of resources to drive it."
 153: 0x01BD [0x23] WAIT_FOR_DIALOG_INTERACTION
-154: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11371*)
+154: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=11372*)
     → "To that end, the nations have all organized the so-called "supply manufacture" operations, such as codename "Crystal Fist" and others."
 155: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11366*)
+156: 0x01C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11367*)
     → "Just to be clear, "skill" indicates the quality of supplies that can be turned out. "Production," on the other hand, refers to the quantity of supplies that a nation is capable of generating. Did I just blow your mind? Confusing, I know, but do try and see the difference."
 157: 0x01C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x01C6 [0x48] [System] [11372*]:
+158: 0x01C6 [0x48] [System] [11373*]:
     → "Your nation's production may be checked by talking to an appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
 159: 0x01C9 [0x1C] WAIT(120* ticks)
 160: 0x01CC [0x01] GOTO 0x022D
 161: 0x01CF [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x01F0
-162: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11373*)
+162: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11374*)
     → ""Morale" will give you an idea of how eager-weager for battle an army is."
 163: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11374*)
+164: 0x01DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11375*)
     → "High morale allows an army to carry out successive attacks with only short respites in between. Nothing screams victory like an army that loves to fightaru!"
 165: 0x01DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11375*)
+166: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11376*)
     → "Morale is an extremely dynamic factor in any war--as capricious as the hearts of the men it occupies. Fluctuations are heavily dependent on victory and defeataru in Campaign battles."
 167: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-168: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11376*)
+168: 0x01E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11377*)
     → "That being said, it is obvious to see how it is directly related to both offensive and defensive operations. It's a pretty simple thing, morale. That's really all there is to it."
 169: 0x01E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x01E7 [0x48] [System] [11377*]:
+170: 0x01E7 [0x48] [System] [11378*]:
     → "A nation's morale may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information."
 171: 0x01EA [0x1C] WAIT(120* ticks)
 172: 0x01ED [0x01] GOTO 0x022D
 173: 0x01F0 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0211
-174: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11378*)
+174: 0x01F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11379*)
     → "Ahhh, "prosperity." Another of war's fickle-wickle mistresses. Plainly put, this is the degree to which a nation's people trustaru in their governing body."
 175: 0x01FB [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11379*)
+176: 0x01FC [0x1D] PRINT_EVENT_MESSAGE(message_id=11380*)
     → "High prosperity works wonders for economic growth, which in turn means more duties, tariffs, and so on. In a word, funds!"
 177: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=11380*)
+178: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=11381*)
     → "Prosperity is in a constantaru state of flux based on the outcome of Campaign battles. And rightly so, as people can not hope to prosper should they feel constantly threatened."
 179: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
-180: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=11381*)
+180: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=11382*)
     → "To ensure the welfare of their citizenry, the alliance has established "security" Campaign Ops. These are effective in setting the minds of the people-weople at ease. Not a whole lotaru more to say about it."
 181: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
-182: 0x0208 [0x48] [System] [11382*]:
+182: 0x0208 [0x48] [System] [11383*]:
     → "A nation's prosperity may be checked from the Region Info menu's Campaign map. Simply move the cursor over a capital's symbol to display the information."
 183: 0x020B [0x1C] WAIT(120* ticks)
 184: 0x020E [0x01] GOTO 0x022D
@@ -1119,153 +1119,153 @@ SUBROUTINE_022D:
 
 SUBROUTINE_023B:
 193: 0x023B [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x036B
-194: 0x0243 [0x24] CREATE_DIALOG(message_id=11383*, default_option=0*, option_flags=0*)
+194: 0x0243 [0x24] CREATE_DIALOG(message_id=11384*, default_option=0*, option_flags=0*)
     → "Which terminology will you ask about? [Fortifications./Maximum fortifications./Resources./Maximum Resources./Influence./Heroism Gauge./Go back./Quit.]"
 195: 0x024A [0x25] WAIT_DIALOG_SELECT()
 196: 0x024B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0278
-197: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=11384*)
+197: 0x0253 [0x1D] PRINT_EVENT_MESSAGE(message_id=11385*)
     → ""Fortifications" represent the strength of a military force garrisoned at a stronghold. It is depleted when soldiers stationed there are defeated, or when the structural integrity of the stronghold itself is damaged directly-wectly."
 198: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
-199: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=11385*)
+199: 0x0257 [0x1D] PRINT_EVENT_MESSAGE(message_id=11386*)
     → "A Campaign battle is deemed a defeataru by High Command should the fortifications fall below a pre-established amount."
 200: 0x025A [0x23] WAIT_FOR_DIALOG_INTERACTION
-201: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=11386*)
+201: 0x025B [0x1D] PRINT_EVENT_MESSAGE(message_id=11387*)
     → "So, stronghold fortifications in areas constantly plagued by heavy combat must be vigorously-wigorously maintained."
 202: 0x025E [0x23] WAIT_FOR_DIALOG_INTERACTION
-203: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=11387*)
+203: 0x025F [0x1D] PRINT_EVENT_MESSAGE(message_id=11388*)
     → "There are three ways of bolstering fortifications to facilities which have been compromised. First, you can simply waitaru for the injured soldiers to recover. This method, however, requires a considerable amount of time."
 204: 0x0262 [0x23] WAIT_FOR_DIALOG_INTERACTION
-205: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=11388*)
+205: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=11389*)
     → "Second, you can wait for engineers to arrive and start rebuilding. For your nation, I believe that task falls within the jurisdiction-wiction of the [Knights of the Gold Badger/Fourth Division/Piscean War Warlocks]."
 206: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
-207: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11389*)
+207: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=11390*)
     → "Lastly, you can supplementaru the garrison by sending reinforcements. Successful completion of the "Vanguard-X" Campaign Ops will help refortify a war-torn stronghold."
 208: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
-209: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=11390*)
+209: 0x026B [0x1D] PRINT_EVENT_MESSAGE(message_id=11391*)
     → "Keep in mind, though, that a lack of funds will limitaru the number of forces available-wailable for dispatch. Which means that ultimately, fortifications will suffer. A war machine without money is akin to a lion without claws, I'm afraid."
 210: 0x026E [0x23] WAIT_FOR_DIALOG_INTERACTION
-211: 0x026F [0x48] [System] [11391*]:
+211: 0x026F [0x48] [System] [11392*]:
     → "A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available."
 212: 0x0272 [0x1C] WAIT(120* ticks)
 213: 0x0275 [0x01] GOTO 0x0368
 214: 0x0278 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02A1
-215: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=11392*)
+215: 0x0280 [0x1D] PRINT_EVENT_MESSAGE(message_id=11393*)
     → "The total number of troops that a stronghold is capable of housing-wousing is referred to as its "maximum fortifications" ranking."
 216: 0x0283 [0x23] WAIT_FOR_DIALOG_INTERACTION
-217: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=11393*)
+217: 0x0284 [0x1D] PRINT_EVENT_MESSAGE(message_id=11394*)
     → "And it is just that. The absolute upper limit on the size of a stronghold's garrison. Regardless of a nation's funds or achievements, defensive capabilities can never go above this amountaru."
 218: 0x0287 [0x23] WAIT_FOR_DIALOG_INTERACTION
-219: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=11394*)
+219: 0x0288 [0x1D] PRINT_EVENT_MESSAGE(message_id=11395*)
     → "The other side of that coin is this. No matter how great a stronghold's maximum fortifications may be, without adequate-wadequate funds, it will lack the soldiers required to realize that potential."
 220: 0x028B [0x23] WAIT_FOR_DIALOG_INTERACTION
-221: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=11395*)
+221: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=11396*)
     → "What's that? Ahhh, you catch on quick. Yes, the maximum fortifications rank can indeed be raised. This is accomplished via-wia achievements in any of the "Steel Resolve" operations."
 222: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
-223: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11396*)
+223: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=11397*)
     → "But remember this: all participants in this war, both friend and foe, have their own unique ways of reducing maximum fortifications as well. Specifically..."
 224: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
-225: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11397*)
+225: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=11398*)
     → "...Well, you'll just have to mull that one over by yourself. Can't give up all my secret-wecrets!"
 226: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x0298 [0x48] [System] [11398*]:
+227: 0x0298 [0x48] [System] [11399*]:
     → "A stronghold's fortifications may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available."
 228: 0x029B [0x1C] WAIT(120* ticks)
 229: 0x029E [0x01] GOTO 0x0368
 230: 0x02A1 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02CE
-231: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11399*)
+231: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11400*)
     → "Alrightaru, this might be a bit confusing at first for the uninitiated, but do try to keep up. A local area's "resources" rating refers to the resource and supply stockpiles located at the stronghold."
 232: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-233: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=11400*)
+233: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=11401*)
     → "This is a local-wocal rating, and separate altogether from the overall resource rating of an entire nation, mind you."
 234: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-235: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11401*)
+235: 0x02B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11402*)
     → "The more battles a stronghold endures, the more depletion its resource stockpiles will suffer. You can't make an omelet without breaking some eggs. And war is such a tasty omelettaru!"
 236: 0x02B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-237: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11402*)
+237: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11403*)
     → "Local resources are consumed whenever temporary-wary items are dispensed to soldiers for defensive operations."
 238: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-239: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11403*)
+239: 0x02B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11404*)
     → "You would do well to remember that the "Crimson Domino" Ops are integral in this respectaru. Seeing those supply convoys safely to their destinations will do wonders for replenishing stronghold resources."
 240: 0x02BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-241: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11404*)
+241: 0x02BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11405*)
     → "For your nation, such duties are traditionally-witionally taken up by the [/Knights of the Gold Badger/Fourth Division/Piscean War Warlocks]."
 242: 0x02C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-243: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11405*)
+243: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11406*)
     → "Now try and wrap your mind around this! If the national resource and supply stockpiles are not maintained, there simply won't be enough surplus to bolster-wolster local stockpiles. Surely you can see the logic in this."
 244: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-245: 0x02C5 [0x48] [System] [11406*]:
+245: 0x02C5 [0x48] [System] [11407*]:
     → "An area's resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available."
 246: 0x02C8 [0x1C] WAIT(120* ticks)
 247: 0x02CB [0x01] GOTO 0x0368
 248: 0x02CE [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02ED
-249: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11407*)
+249: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11408*)
     → "The limitaru placed on the greatest amount of resources a stronghold can store before literally-witerally bursting is known as its "maximum resources" ranking."
 250: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=11408*)
+251: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=11409*)
     → "No matter how much surplus in resources and supplies a nation might have, the local stronghold limitation-wations cannot be exceeded."
 252: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-253: 0x02DE [0x48] [System] [11409*]:
+253: 0x02DE [0x48] [System] [11410*]:
     → "The local resources of an area may be checked from the Region Info menu's Campaign map."
 254: 0x02E1 [0x1C] WAIT(40* ticks)
-255: 0x02E4 [0x48] [System] [11410*]:
+255: 0x02E4 [0x48] [System] [11411*]:
     → "An area's maximum resources may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position to display the information. The number on the left is the current value, while the number on the right is the maximum available."
 256: 0x02E7 [0x1C] WAIT(120* ticks)
 257: 0x02EA [0x01] GOTO 0x0368
 258: 0x02ED [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x031A
-259: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11411*)
+259: 0x02F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11412*)
     → ""Influence" is used to convey how much control each competing-weting power has over a given area."
 260: 0x02F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-261: 0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11412*)
+261: 0x02F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11413*)
     → "There is a total of four powers in all, which you should well know by now. The Beastman Confederate, on the one hand, and each of the nations of the Allied Forces, excluding Jeuno, on the other."
 262: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-263: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11325*)
+263: 0x02FD [0x1D] PRINT_EVENT_MESSAGE(message_id=11326*)
     → "Upon entering into an alliance with one another, the four nations drew up a wartime pact. In accordance with the stipulations therein, the single nation deemed to be the greatest contributor to the fighting within, or maintaining of, an area is temporarily granted domain over it."
 264: 0x0300 [0x23] WAIT_FOR_DIALOG_INTERACTION
-265: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=11413*)
+265: 0x0301 [0x1D] PRINT_EVENT_MESSAGE(message_id=11414*)
     → "So, what happens is that following the results of the latest Campaign tally-wally, control of an area is relegated to the power which currently exertarus the most influence over it."
 266: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=11414*)
+267: 0x0305 [0x1D] PRINT_EVENT_MESSAGE(message_id=11415*)
     → "Your nation will gain a bit of influence in an area every time you defeat an enemy there. By the same token, loss at the hands of the beastman will result in their influence rising."
 268: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
-269: 0x0309 [0x1D] PRINT_EVENT_MESSAGE(message_id=11415*)
+269: 0x0309 [0x1D] PRINT_EVENT_MESSAGE(message_id=11416*)
     → "In the worst-case scenario, beastman influence will grow so profound that High Command will cut their losses and issue a strategic withdrawal. In other words, the area falls under beastman control."
 270: 0x030C [0x23] WAIT_FOR_DIALOG_INTERACTION
-271: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=11416*)
+271: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=11417*)
     → "Each nation then abandon-wandons any interests they had in that area, after which the beastmen typically move in droves to solidify their claim."
 272: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
-273: 0x0311 [0x48] [System] [11417*]:
+273: 0x0311 [0x48] [System] [11418*]:
     → "The influences vying for control of an area may be checked from the Region Info menu's Campaign map."
 274: 0x0314 [0x1C] WAIT(120* ticks)
 275: 0x0317 [0x01] GOTO 0x0368
 276: 0x031A [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x034C
-277: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=11418*)
+277: 0x0322 [0x1D] PRINT_EVENT_MESSAGE(message_id=11419*)
     → "An excellent inquiry! The "heroism gauge" is still a fledgling theory in military scholastic-wastic circles. Only in recentaru years was it proposed to and adopted by Allied Forces High Command."
 278: 0x0325 [0x23] WAIT_FOR_DIALOG_INTERACTION
-279: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=11419*)
+279: 0x0326 [0x1D] PRINT_EVENT_MESSAGE(message_id=11420*)
     → "Not to brag, but it was actually I who developed the final theory. So, who better to explain it to you than the very Tarutaru who named it?"
 280: 0x0329 [0x23] WAIT_FOR_DIALOG_INTERACTION
-281: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=11420*)
+281: 0x032A [0x1D] PRINT_EVENT_MESSAGE(message_id=11421*)
     → "It occurred to me that any battlefield is, by definition, replete with a certain... How shall I put this? An air of intensity, an almost tangible, adrenaline-induced furor. No doubt this is broughtaru about by the teetering-weetering of lives in the balance."
 282: 0x032D [0x23] WAIT_FOR_DIALOG_INTERACTION
-283: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=11421*)
+283: 0x032E [0x1D] PRINT_EVENT_MESSAGE(message_id=11422*)
     → "The inquisitive scholar in me wondered if this phenomenon could not somehow be gauged and expressed numerically. This was the hypothesis with which I set out to develop-welop my theory."
 284: 0x0331 [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=11422*)
+285: 0x0332 [0x1D] PRINT_EVENT_MESSAGE(message_id=11423*)
     → "Based on my thorough observations, I found that for every battle which took place in the subject area, my measurementarus would increase substantially."
 286: 0x0335 [0x23] WAIT_FOR_DIALOG_INTERACTION
-287: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=11423*)
+287: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=11424*)
     → "And then my most startling discovery! Without fail, when my heroism gauge would approach its peak, battles would reach near astronomical-womical proportions! Beastman and ally, general and freelance. All come calling when the war fervor hails, lusting to claim their place in legend and song!"
 288: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
-289: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=11424*)
+289: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=11425*)
     → "And what dramatic-watic battles they were! I have witnessed cataclysmic exchanges, over in the blink of an eye. Disastrous battles where the thirst for blood conquers reason, and countless throngs of haphazardly formed ranks throw themselves headlong into one another."
 290: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
-291: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=11425*)
+291: 0x033E [0x1D] PRINT_EVENT_MESSAGE(message_id=11426*)
     → "At the suggestion of my fellow scholars, my findings are now being made known to all member nations of the alliance-wiance."
 292: 0x0341 [0x23] WAIT_FOR_DIALOG_INTERACTION
-293: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=11426*)
+293: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=11427*)
     → "In truth, it is still an unfinished theory, and there are many elementarus to be worked out. My hope is that it will serve to help us better comprehend the finer details of the flow of war."
 294: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
-295: 0x0346 [0x48] [System] [11427*]:
+295: 0x0346 [0x48] [System] [11428*]:
     → "An area's heroism gauge may be checked from the Region Info menu's Campaign map. Simply move the cursor over a position and the gauge will be displayed directly above or below the area name."
 296: 0x0349 [0x01] GOTO 0x0368
 297: 0x034C [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x035C
@@ -1281,165 +1281,165 @@ SUBROUTINE_0368:
 
 SUBROUTINE_0376:
 305: 0x0376 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x04C4
-306: 0x037E [0x24] CREATE_DIALOG(message_id=11428*, default_option=0*, option_flags=0*)
+306: 0x037E [0x24] CREATE_DIALOG(message_id=11429*, default_option=0*, option_flags=0*)
     → "What would you like to know about? [Resource procurement./Supply transport./Security./Supply manufacture./Offensive operations./Defensive operations./Intel gathering./Military training./Achievements./Go back./Quit.]"
 307: 0x0385 [0x25] WAIT_DIALOG_SELECT()
 308: 0x0386 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03B1
-309: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=11429*)
+309: 0x038E [0x1D] PRINT_EVENT_MESSAGE(message_id=11430*)
     → "As their name implies, achievements in Campaign Ops classified as "resource procurement" will result in direct augmentation to your nation's resource and supply stockpile-wiles."
 310: 0x0391 [0x23] WAIT_FOR_DIALOG_INTERACTION
-311: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=11430*)
+311: 0x0392 [0x1D] PRINT_EVENT_MESSAGE(message_id=11431*)
     → "More specifically, codename "Stock and Awe" was designed with the aim of securing resources, while codename "Materiel Storm" was planned for the sole purpose of amassing supplies."
 312: 0x0395 [0x23] WAIT_FOR_DIALOG_INTERACTION
-313: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=11431*)
+313: 0x0396 [0x1D] PRINT_EVENT_MESSAGE(message_id=11432*)
     → "Should supplies startaru to become meager, units will be unable to carry out their orders to completion, and other Campaign Ops will fall into arrears."
 314: 0x0399 [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11432*)
+315: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=11433*)
     → "If a nation's resources begin to wane, production suffers and the number of supplies declines. Any way you slice it, a logistic bottleneck at any pointaru along the line spells an absolute nightmare for a warring nation."
 316: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
-317: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=11433*)
+317: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=11434*)
     → "Immediately following Campaign tally-wallies is when allotments of resources and supplies are carried out."
 318: 0x03A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-319: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11434*)
+319: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11435*)
     → "The unfortunate corollary to that, however, is that just prior to Campaign tallies is when stockpiles are at their lowestaru."
 320: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11435*)
+321: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11436*)
     → "Which is why, to answer your initial inquiry, resource procurement is so significant-wificant. Their appeal lies in the fact that when successfully completed, resource and supply stockpiles receive immediate benefits."
 322: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-323: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11436*)
+323: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11437*)
     → "Many military scholars even go so far as to refer to these operations as the prime movers of the allied effort. Perhaps the most integral of cogs at the very heartaru of the entire war machine."
 324: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x03AE [0x01] GOTO 0x04C1
 326: 0x03B1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03D0
-327: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11437*)
+327: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11438*)
     → ""Supply transport" refers to those military operation-wations whereby resources and supplies are seen safely to the strongholds that need them."
 328: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-329: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11438*)
+329: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=11439*)
     → "There are varying operations with varying resultarus, so allow me to expand. Codename "Vanguard-X" solidifies stronghold fortifications by dispatching manpower, whereas codename "Crimson Domino" aims to replenish local resources via convoy-wonvoy deliveries."
 330: 0x03C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-331: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11439*)
+331: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11440*)
     → "The reasoning behind their importance is thus. Goddess forbid, should the fortifications or local resources of a stronghold become inadequate, the position will simply be overrun by the beastmen. They have a wicked talentaru for sniffing out such weaknesses."
 332: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11440*)
+333: 0x03C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11441*)
     → "Of course, no nation simply leaves any stronghold to vie for itself. There are regular-wegular dispatches of both men and material from the capitals. But my experience tells me that these are more protocol than pragmatism, and rarely reflectaru the latest wartime developments."
 334: 0x03C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-335: 0x03C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11441*)
+335: 0x03C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11442*)
     → "And that is where you vaga--valiant adventurers come in! Your freedoms allow you the unique ability to continually adapt to the situation at hand without heeding to anachronistic protocol-wotocol. Keeping an ear to the ground and conducting supply transport at a vital moment might just make you the white knight of some desperate garrison!"
 336: 0x03CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x03CD [0x01] GOTO 0x04C1
 338: 0x03D0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03EF
-339: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11442*)
+339: 0x03D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11443*)
     → ""Security" is that oft-overlooked category of operations which deals with seeing to the safety and welfare of a nation's citizenry. High Command implemented these ops for their role in increasing both prosperity-werity and the maximum fortifications."
 340: 0x03DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-341: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11443*)
+341: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=11444*)
     → "Successful completion of operations codenamed "Streetsweeper" and "Delta Strike" boost prosperity among the people."
 342: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-343: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11444*)
+343: 0x03E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11445*)
     → "Nations with low prosperity often fall victim to stagnating-wating economies, ultimately resulting in lack of funds and fiscal woes. You can't expect people to get a good night's sleep and put in an honest day's work without providing a little homeland security."
 344: 0x03E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11445*)
+345: 0x03E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11446*)
     → "Codename "Steel Resolve" is another security-based operation which bolsters the maximum fortifications of an allied stronghold."
 346: 0x03E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x03E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11446*)
+347: 0x03E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11447*)
     → "The idea is to outfitaru positions with enhanced structural integrity to better withstand relentless-wentless beastman assaults. This is especially vital in heavily contested areas."
 348: 0x03EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x03EC [0x01] GOTO 0x04C1
 350: 0x03EF [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x040E
-351: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11447*)
+351: 0x03F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11448*)
     → ""Supply manufacture" operations provide the opportunity for a nation to bring about improvements in the arena-wenas of technology and industry."
 352: 0x03FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-353: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11448*)
+353: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11449*)
     → "Operations codenamed "Crystal Fist" and "Iron Anvil" were planned with the goal of marked advancements in skill and production, respectively."
 354: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-355: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11449*)
+355: 0x03FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11450*)
     → "Higher skill permits a nation's engineers to develop higher quality equipmentaru and weaponry. Its benefits on local fields of battle are undeniable."
 356: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
-357: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=11450*)
+357: 0x0403 [0x1D] PRINT_EVENT_MESSAGE(message_id=11451*)
     → "When production is streamlined, mass production becomes possible-wossible. This has far-reaching effects for a nation's Campaign battles regardless of the location."
 358: 0x0406 [0x23] WAIT_FOR_DIALOG_INTERACTION
-359: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=11451*)
+359: 0x0407 [0x1D] PRINT_EVENT_MESSAGE(message_id=11452*)
     → "So, if you happen to fancy yourself adept at synthesis and know your craftarus, these just might be the operations for you."
 360: 0x040A [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x040B [0x01] GOTO 0x04C1
 362: 0x040E [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x042D
-363: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=11452*)
+363: 0x0416 [0x1D] PRINT_EVENT_MESSAGE(message_id=11453*)
     → "The successful completion of "offensive operations" will result in palpable-walpable increases in both morale and funds."
 364: 0x0419 [0x23] WAIT_FOR_DIALOG_INTERACTION
-365: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=11453*)
+365: 0x041A [0x1D] PRINT_EVENT_MESSAGE(message_id=11454*)
     → "These ops include codename "Smokescreen," "Pit Spider," "By Light of Fire," or any of the regional operations targeting specific beastman leaders. All of these will serve to boostaru an army's morale."
 366: 0x041D [0x23] WAIT_FOR_DIALOG_INTERACTION
-367: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=11454*)
+367: 0x041E [0x1D] PRINT_EVENT_MESSAGE(message_id=11455*)
     → "On top of that, achievements in this arena will also bring in funds."
 368: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
-369: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=11455*)
+369: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=11456*)
     → "Alas, as all things in war, there is a double-edge to this blade. Should you seek to defeat enemy leaders via operations codenamed "Splitting Heirs," "Cracking Shells," or "Plucking Wings" and suffer defeataru, the beastmen armies will be those shouting and raising their banners in triumph."
 370: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
-371: 0x0426 [0x1D] PRINT_EVENT_MESSAGE(message_id=11456*)
+371: 0x0426 [0x1D] PRINT_EVENT_MESSAGE(message_id=11457*)
     → "Lastly, it would be remiss of me not to mention that offensive operations do require the expenditure-wenditure of supplies."
 372: 0x0429 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x042A [0x01] GOTO 0x04C1
 374: 0x042D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0448
-375: 0x0435 [0x1D] PRINT_EVENT_MESSAGE(message_id=11457*)
+375: 0x0435 [0x1D] PRINT_EVENT_MESSAGE(message_id=11458*)
     → ""Defensive operations" can be extremely productive, as they help to increase not only prosperity-werity amongst the people, but also the reserves of resources and supplies as well."
 376: 0x0438 [0x23] WAIT_FOR_DIALOG_INTERACTION
-377: 0x0439 [0x1D] PRINT_EVENT_MESSAGE(message_id=11458*)
+377: 0x0439 [0x1D] PRINT_EVENT_MESSAGE(message_id=11459*)
     → "You will see immediate and obvious returns in the prosperity of your citizenry from your exploitarus in operations codenamed "Aegis Scream" and "Granite Rose.""
 378: 0x043C [0x23] WAIT_FOR_DIALOG_INTERACTION
-379: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=11459*)
+379: 0x043D [0x1D] PRINT_EVENT_MESSAGE(message_id=11460*)
     → "A byproductaru of this is a healthy boost to the national intake of resources and supplies."
 380: 0x0440 [0x23] WAIT_FOR_DIALOG_INTERACTION
-381: 0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=11460*)
+381: 0x0441 [0x1D] PRINT_EVENT_MESSAGE(message_id=11461*)
     → "Carrying out defensive operations will require that you expend some of your supplies in the process-wocess, though. Nothing in war is free, after all, save mayhap the glory."
 382: 0x0444 [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x0445 [0x01] GOTO 0x04C1
 384: 0x0448 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0463
-385: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=11461*)
+385: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=11462*)
     → "A personal favorite of mine and one I cannot stress the importance-wortance of enough, "intel gathering"!"
 386: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
-387: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=11462*)
+387: 0x0454 [0x1D] PRINT_EVENT_MESSAGE(message_id=11463*)
     → "Espionage in all forms requires stealth and savvy, cunning and courage. Operations codenamed "Hawk Eye" and "Deep Cover" may place you in clear and present danger, but they will also increase your army's reconnaissance and place knowledge at its fingertips."
 388: 0x0457 [0x23] WAIT_FOR_DIALOG_INTERACTION
-389: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=11463*)
+389: 0x0458 [0x1D] PRINT_EVENT_MESSAGE(message_id=11464*)
     → "Nations are also always looking for the mostaru intrepid of souls to undertake operation codename "Slaughterhouse." A favorite of High Command, this pinpoint espionage weakens the beastman intelligence network from within, reducing their reconnaissance capabilities."
 390: 0x045B [0x23] WAIT_FOR_DIALOG_INTERACTION
-391: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=11464*)
+391: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=11465*)
     → "No nation would deign to send such dauntless-wauntless volunteers into the field unequipped. And that is why intel gathering taxes an army's supplies."
 392: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x0460 [0x01] GOTO 0x04C1
 394: 0x0463 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x047A
-395: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=11465*)
+395: 0x046B [0x1D] PRINT_EVENT_MESSAGE(message_id=11466*)
     → ""Military training" is useful in preparing your troops for battle by both hardening their resolve and honing-woning their abilities."
 396: 0x046E [0x23] WAIT_FOR_DIALOG_INTERACTION
-397: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=11466*)
+397: 0x046F [0x1D] PRINT_EVENT_MESSAGE(message_id=11467*)
     → "Operation codename "Brave Dawn" increases an army's capacity for waging war, while codename "Cut and Cauterize" improves the performance of its physicians."
 398: 0x0472 [0x23] WAIT_FOR_DIALOG_INTERACTION
-399: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=11467*)
+399: 0x0473 [0x1D] PRINT_EVENT_MESSAGE(message_id=11468*)
     → "All of those training materials have to come from somewhere, though. Which is why military-wary training ops will cost you supplies."
 400: 0x0476 [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x0477 [0x01] GOTO 0x04C1
 402: 0x047A [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x04A5
-403: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=11468*)
+403: 0x0482 [0x1D] PRINT_EVENT_MESSAGE(message_id=11469*)
     → "According to Raine--I mean...looks like rain today, no? Anyway, this information is based on firstaru-person accounts from a fairly reliable-wiable source."
 404: 0x0485 [0x23] WAIT_FOR_DIALOG_INTERACTION
-405: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=11469*)
+405: 0x0486 [0x1D] PRINT_EVENT_MESSAGE(message_id=11470*)
     → "Campaign tallies record these so-called achievements for each category of operations."
 406: 0x0489 [0x23] WAIT_FOR_DIALOG_INTERACTION
-407: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=11470*)
+407: 0x048A [0x1D] PRINT_EVENT_MESSAGE(message_id=11471*)
     → "Achievementarus will naturally rise every time a Campaign operation is carried out to completion."
 408: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
-409: 0x048E [0x1D] PRINT_EVENT_MESSAGE(message_id=11471*)
+409: 0x048E [0x1D] PRINT_EVENT_MESSAGE(message_id=11472*)
     → "The changes in factors such as resources, funds, and morale resulting from Campaign tallies are directly influenced by the achievements in correlated ops categories."
 410: 0x0491 [0x23] WAIT_FOR_DIALOG_INTERACTION
-411: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=11472*)
+411: 0x0492 [0x1D] PRINT_EVENT_MESSAGE(message_id=11473*)
     → "In addition, stellar-wellar achievements in any single category pave the way for related, higher-level operations to become available."
 412: 0x0495 [0x23] WAIT_FOR_DIALOG_INTERACTION
-413: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=11473*)
+413: 0x0496 [0x1D] PRINT_EVENT_MESSAGE(message_id=11474*)
     → "But try to be mindful of the current objectives of your army, as this effectarus availability as well."
 414: 0x0499 [0x23] WAIT_FOR_DIALOG_INTERACTION
-415: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=11474*)
+415: 0x049A [0x1D] PRINT_EVENT_MESSAGE(message_id=11475*)
     → "What I mean to say is, even for equivalent achievements, there are times when High Command will make an operation readily available, and other times when they will not."
 416: 0x049D [0x23] WAIT_FOR_DIALOG_INTERACTION
-417: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=11475*)
+417: 0x049E [0x1D] PRINT_EVENT_MESSAGE(message_id=11476*)
     → "Changes in achievements are reflected in every Campaign tally, and have an effect on stockpile-wiles as well. Luckily, in all my days, I have never seen an achievement's value drop suddenly to zero."
 418: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x04A2 [0x01] GOTO 0x04C1
@@ -1453,49 +1453,49 @@ SUBROUTINE_04C1:
 425: 0x04C1 [0x01] GOTO 0x0376
 426: 0x04C4 [0x01] GOTO 0x0C74
 427: 0x04C7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x050E
-428: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11476*)
+428: 0x04CF [0x1D] PRINT_EVENT_MESSAGE(message_id=11477*)
     → "Every nation conducts its own "opinion polls." Have you happened to come across any of the official-wicials recording the opinions of soldiers and adventurers? Those would be the pollers."
 429: 0x04D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-430: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11477*)
+430: 0x04D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11478*)
     → "In my opinion, those who frequent the frontlines such as yourself should make better use of the polls."
 431: 0x04D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-432: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11478*)
+432: 0x04D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11479*)
     → "Each nation has its own characteristic protocol based on long-standing established policies. Should polls not be made use of, the powers that be will have no choice but to rely upon their generals for counsel."
 433: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-434: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11479*)
+434: 0x04DB [0x1D] PRINT_EVENT_MESSAGE(message_id=11480*)
     → "Which might not necessarily-warily always be a bad thing, except that counsel may not always be based on the latest intel. I myself have witnessed offenses ordered with no supply lines or funds to back them, and entire units resting on their laurels at the most opportune times to attack."
 435: 0x04DE [0x23] WAIT_FOR_DIALOG_INTERACTION
-436: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11480*)
+436: 0x04DF [0x1D] PRINT_EVENT_MESSAGE(message_id=11481*)
     → "This is the river that opinion polls can help to ford! They allow High Command to know which generals have the supportaru of war-seasoned veterans, and provide a forum for the submission of strategies and feedback."
 437: 0x04E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-438: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11481*)
+438: 0x04E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11482*)
     → "I have always been an advocate of compulsory-wulsory polls. Think of it! If all soldiers from the frontlines raised their voices, High Command would have no choice but to listen."
 439: 0x04E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-440: 0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11482*)
+440: 0x04E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11483*)
     → "And consequently, more operations would become available in the category deemed to be most necessary at that time!"
 441: 0x04EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-442: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11483*)
+442: 0x04EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11484*)
     → "Sorry, I always get a but flustered talking about this. Anyway, the reviewing of poll resultarus is conducted regularly, much like Campaign tallies."
 443: 0x04EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-444: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11484*)
+444: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11485*)
     → "Hm? You don't know what opinion you should have? Well, that's just sad. Your opinions will come to you, so long as you keep a healthy skepticism and a critical-witical eye about you."
 445: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-446: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11485*)
+446: 0x04F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11486*)
     → "To give a brief example, if you are of the mind that it is time for an all-outaru offensive, then you should consider raising your voice in favor of a "preemptive strike" or "diversionary tactics.""
 447: 0x04F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11486*)
+448: 0x04F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11487*)
     → "If you think the situation-wation calls for patience and caution, then perhaps cast your vote for "battleline preservation" or "stronghold defenses.""
 449: 0x04FA [0x23] WAIT_FOR_DIALOG_INTERACTION
-450: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11487*)
+450: 0x04FB [0x1D] PRINT_EVENT_MESSAGE(message_id=11488*)
     → "It might be easiestaru to think of all of the options broken into two fundamental categories of offense and defense."
 451: 0x04FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-452: 0x04FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11488*)
+452: 0x04FF [0x1D] PRINT_EVENT_MESSAGE(message_id=11489*)
     → "Rather than constantly worrying about maintaining a healthy balance of the two, there are times when a full frontal-wontal assault is required. Other times are best served by turtling up in strongholds and allowing wave after wave of beastmen to break upon your defenses."
 453: 0x0502 [0x23] WAIT_FOR_DIALOG_INTERACTION
-454: 0x0503 [0x1D] PRINT_EVENT_MESSAGE(message_id=11489*)
+454: 0x0503 [0x1D] PRINT_EVENT_MESSAGE(message_id=11490*)
     → "If you can absorb everything I've taughtaru you, and just use your head, I guarantee the path to victory will present itself to you as clear as day! That's the Maruna-Kurina guarantee!"
 455: 0x0506 [0x23] WAIT_FOR_DIALOG_INTERACTION
-456: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=11490*)
+456: 0x0507 [0x1D] PRINT_EVENT_MESSAGE(message_id=11491*)
     → "Oh and uhhh, if you ever happen to...well, gain an audience-waudience with any, say, importantaru people... Be sure to tell them that Maruna-Kurina helped you out!"
 457: 0x050A [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x050B [0x01] GOTO 0x0C74
@@ -1503,71 +1503,71 @@ SUBROUTINE_04C1:
 
 SUBROUTINE_0516:
 460: 0x0516 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x0C65
-461: 0x051E [0x24] CREATE_DIALOG(message_id=11491*, default_option=0*, option_flags=0*)
+461: 0x051E [0x24] CREATE_DIALOG(message_id=11492*, default_option=0*, option_flags=0*)
     → "Ask about whom? [Wait... What's headhunting?/Kagetora./Dalzakk./Rainemard./Maat./Azima./Choh Moui./Rongo-Nango./Ulla & Kilhwch./Achtelle./Duskraven./Lewenhart./Ferreous Coffin./Areuhat./Titania./Poroggo Prince./Babban Ny Mheillea./Auroral Alicorn./Boodlix./Raigegue R D'Oraguille./Eurytos./Kaiser Behemoth./Yours truly, Maruna-Kurina./Go back./Quit.]"
 462: 0x0525 [0x25] WAIT_DIALOG_SELECT()
 463: 0x0526 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x057D
-464: 0x052E [0x1D] PRINT_EVENT_MESSAGE(message_id=11493*)
+464: 0x052E [0x1D] PRINT_EVENT_MESSAGE(message_id=11494*)
     → "I'm assuming by now that you've heard of the roaming-woaming mercenaries referred to as "freelances," yes? They value nothing more than their freedom, which is all well and good, but in the worstaru of times they may be swayed into arms against the Allied Forces."
 465: 0x0531 [0x23] WAIT_FOR_DIALOG_INTERACTION
-466: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=11494*)
+466: 0x0532 [0x1D] PRINT_EVENT_MESSAGE(message_id=11495*)
     → "As a genius military tactician, I cannot ignore the potential strength that these freelances are capable of lending an army. And it was this realization which acted as an impetus to my further studying the freelance subculture."
 467: 0x0535 [0x23] WAIT_FOR_DIALOG_INTERACTION
-468: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=11495*)
+468: 0x0536 [0x1D] PRINT_EVENT_MESSAGE(message_id=11496*)
     → "Recruiting a freelance to fight for your cause is a technique commonly known as "headhunting." Through my research, I have come to develop and map out a comprehensive psychology underlying the entire process-wocess!"
 469: 0x0539 [0x23] WAIT_FOR_DIALOG_INTERACTION
-470: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=11496*)
+470: 0x053A [0x1D] PRINT_EVENT_MESSAGE(message_id=11497*)
     → "Each freelance maintains a certain degree of "loyalty" towards every great power."
 471: 0x053D [0x23] WAIT_FOR_DIALOG_INTERACTION
-472: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=11497*)
+472: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=11498*)
     → "Whenever a headhunter actively pursues a freelance and attempts to win their favor, their loyalty towards thataru nation will rise."
 473: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
-474: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=11498*)
+474: 0x0542 [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
     → "At the time of a Campaign tally, the freelances will realign themselves with the nation with whom they share the strongestaru bond."
 475: 0x0545 [0x23] WAIT_FOR_DIALOG_INTERACTION
-476: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
+476: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=11500*)
     → "The trick to headhunting, then, is to try and become the nation a freelance holds dearest-wearest in his, her, or its heart of hearts."
 477: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
-478: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=11500*)
+478: 0x054A [0x1D] PRINT_EVENT_MESSAGE(message_id=11501*)
     → "Many freelances will even cast aside their disdain for city walls, and take up arms beside you within the very capital!"
 479: 0x054D [0x23] WAIT_FOR_DIALOG_INTERACTION
-480: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=11501*)
+480: 0x054E [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
     → "And being the capricious beings that they are, freelances will always be willing to entertain your proposals, even if they have currently pledged their fealty-wealty elsewhere."
 481: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
-482: 0x0552 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+482: 0x0552 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "Of course, if you begin to neglectaru them once winning them to your side, don't be surprised if they place their loyalties elsewhere. There's got to be an appropriate saying for that, I'm sure..."
 483: 0x0555 [0x23] WAIT_FOR_DIALOG_INTERACTION
-484: 0x0556 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+484: 0x0556 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "That's just the way they are. I've heard tales you wouldn't believe. From stories of nations' coffers swelling inexplicably after taking on resourceful freelances..."
 485: 0x0559 [0x23] WAIT_FOR_DIALOG_INTERACTION
-486: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
+486: 0x055A [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
     → "...to bold-hearted heroes inspiring troops and bolstering an entire nation's morale!"
 487: 0x055D [0x23] WAIT_FOR_DIALOG_INTERACTION
-488: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
+488: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
     → "Cloak-and-dagger freelances who assist in intel gathering, and questionable black market dealer-wealers who can always get their hands on sorely needed supplies. You name it, and there's a freelance out there who can, and has, done itaru!"
 489: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
-490: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
+490: 0x0562 [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
     → "Now I know what you're thinking. With allegiances constantly in flux, who in Goddess's name is going to be able to keep track of it all!?"
 491: 0x0565 [0x23] WAIT_FOR_DIALOG_INTERACTION
-492: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
+492: 0x0566 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
     → "You're looking at him! That's right, I have made it my personal-wersonal crusade to track the loyalties of all freelances as part of my research. And naturally, I will be making my findings available to the alliance's intelligence network."
 493: 0x0569 [0x23] WAIT_FOR_DIALOG_INTERACTION
-494: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
+494: 0x056A [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
     → "At any rate, do try and give the freelances as warm a reception as possible whenever you happen across them. Your nation, and the Allied Forces as a whole, can only benefitaru in the long run."
 495: 0x056D [0x23] WAIT_FOR_DIALOG_INTERACTION
-496: 0x056E [0x48] [System] [11509*]:
+496: 0x056E [0x48] [System] [11510*]:
     → "Successfully headhunting Maruna-Kurina will allow you to ask him directly about freelances, including their current loyalties and other detailed information."
 497: 0x0571 [0x1C] WAIT(40* ticks)
-498: 0x0574 [0x48] [System] [11510*]:
+498: 0x0574 [0x48] [System] [11511*]:
     → "You can check on the achievements of your nation's freelances by speaking to the appropriate Campaign NPC in the capital. Available information is dependent on current reconnaissance ranking."
 499: 0x0577 [0x1C] WAIT(120* ticks)
 500: 0x057A [0x01] GOTO 0x0C62
 501: 0x057D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x05DB
-502: 0x0585 [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
+502: 0x0585 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
     → "A Hume pirate-wirate hailing from Elshimo Island, Kagetora has made quite the name for himself. He comes from a long family line of ninjas, and rumor has it he sailed to these western lands in hot pursuitaru of a sworn enemy."
 503: 0x0588 [0x23] WAIT_FOR_DIALOG_INTERACTION
 504: 0x0589 [0x03] Work_Zone[2] = 17301*
-505: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
+505: 0x058E [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
     → "Not the most social chap at the party, but he does have profitable ties to the Tenshodo in Jeuno. A ninja with a ninja's pleasures, try to warm him up to you by giving him $0."
 506: 0x0591 [0x23] WAIT_FOR_DIALOG_INTERACTION
 507: 0x0592 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1577,30 +1577,30 @@ SUBROUTINE_0516:
 511: 0x05A8 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 512: 0x05AD [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 513: 0x05B2 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-514: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+514: 0x05B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 515: 0x05BA [0x23] WAIT_FOR_DIALOG_INTERACTION
 516: 0x05BB [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x05CA
-517: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+517: 0x05C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 518: 0x05C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x05C7 [0x01] GOTO 0x05D8
 520: 0x05CA [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 521: 0x05CF [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-522: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+522: 0x05D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 523: 0x05D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_05D8:
 524: 0x05D8 [0x01] GOTO 0x0C62
 525: 0x05DB [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0638
-526: 0x05E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
+526: 0x05E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
     → "Ahhh, the wandering monk, said to have been trained in hand-to-hand combat by the legendary-wary Oggbi himself. He's known far and wide for his adventures and exploitarus. He can be seen running about Sauromugue Champaign as part of his daily regimen."
 527: 0x05E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-528: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
+528: 0x05E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
     → "He's a sucker for high morale, and can barely contain himself once the conversation-wation turns to the topic of war. They say battle fever is contagious, you know. And he's always willing to talk it up with a fellow monk."
 529: 0x05EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-530: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+530: 0x05EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "A powerful ally, indeed. Keep an eye on the heroism gauge with this one. He's an animal!"
 531: 0x05EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x05EF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1610,30 +1610,30 @@ SUBROUTINE_05D8:
 536: 0x0605 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 537: 0x060A [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 538: 0x060F [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-539: 0x0614 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+539: 0x0614 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 540: 0x0617 [0x23] WAIT_FOR_DIALOG_INTERACTION
 541: 0x0618 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0627
-542: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+542: 0x0620 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 543: 0x0623 [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x0624 [0x01] GOTO 0x0635
 545: 0x0627 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 546: 0x062C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-547: 0x0631 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+547: 0x0631 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 548: 0x0634 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0635:
 549: 0x0635 [0x01] GOTO 0x0C62
 550: 0x0638 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0695
-551: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
+551: 0x0640 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
     → "Good Rainemard once belonged to the Order of the Temple Knights. For a time, we were classmates together in our studies at the academy. N-n-not that I consider him a scholarly rival-wival or anything like thataru!"
 552: 0x0643 [0x23] WAIT_FOR_DIALOG_INTERACTION
-553: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
+553: 0x0644 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
     → "The last time I saw him he claimed he was heading to Jugner Forest to escape the hustle-bustle of the city. I only pray he didn't go poking his nose around where it didn't belong again..."
 554: 0x0647 [0x23] WAIT_FOR_DIALOG_INTERACTION
-555: 0x0648 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
+555: 0x0648 [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
     → "If he's still the same old Rainemard, I suppose he still enjoys talking it up with other red mages. He also has an adorable-worable little daughter, and he loves to go on and on about her...incessantly."
 556: 0x064B [0x23] WAIT_FOR_DIALOG_INTERACTION
 557: 0x064C [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1643,33 +1643,33 @@ SUBROUTINE_0635:
 561: 0x0662 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 562: 0x0667 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 563: 0x066C [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-564: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+564: 0x0671 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 565: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
 566: 0x0675 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0684
-567: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+567: 0x067D [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 568: 0x0680 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x0681 [0x01] GOTO 0x0692
 570: 0x0684 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 571: 0x0689 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-572: 0x068E [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+572: 0x068E [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 573: 0x0691 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0692:
 574: 0x0692 [0x01] GOTO 0x0C62
 575: 0x0695 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x06F6
-576: 0x069D [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
+576: 0x069D [0x1D] PRINT_EVENT_MESSAGE(message_id=11520*)
     → "Oh, you've heard of Maat? A regular living legend, that one. He's been living in Jeuno since it was no more than a flyspeck of a fishing village-willage. They say he's mastered every form of combataru there is!"
 577: 0x06A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-578: 0x06A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11520*)
+578: 0x06A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11521*)
     → "I've run into him before in North Gustaberg. But rumor has it he is in charge of some very important tasks back at the Grand Duchy. I wonder how he finds the time to go for leisurely strolls so far away..."
 579: 0x06A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-580: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11521*)
+580: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11522*)
     → "He has a rival too, you know? What was his name again... Hegen...no...Degenhard! That's it! He's been known to wreak havoc-wavoc on the battlefield every now and then."
 581: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-582: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11522*)
+582: 0x06A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11523*)
     → "He loves collecting those ancient papyrus testimonies, no matter what variety. He also has a penchantaru for ambitious souls, and is said to dote on those who have mastered three or more paths of their own."
 583: 0x06AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 584: 0x06AD [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1679,27 +1679,27 @@ SUBROUTINE_0692:
 588: 0x06C3 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 589: 0x06C8 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 590: 0x06CD [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-591: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+591: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 592: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 593: 0x06D6 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06E5
-594: 0x06DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+594: 0x06DE [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 595: 0x06E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 596: 0x06E2 [0x01] GOTO 0x06F3
 597: 0x06E5 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 598: 0x06EA [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-599: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+599: 0x06EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 600: 0x06F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_06F3:
 601: 0x06F3 [0x01] GOTO 0x0C62
 602: 0x06F6 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x074F
-603: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11523*)
+603: 0x06FE [0x1D] PRINT_EVENT_MESSAGE(message_id=11524*)
     → "They call Azima the "Hermitess of the Highlands," and she is almost universally-wersally regarded as the most skilled and feared bounty hunter in Vana'diel. It's not uncommon to glimpse her from time to time in North Gustaberg."
 604: 0x0701 [0x23] WAIT_FOR_DIALOG_INTERACTION
-605: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=11524*)
+605: 0x0702 [0x1D] PRINT_EVENT_MESSAGE(message_id=11525*)
     → "As of late they say she is utterly obsessed with all things alchemy. Those in the know will be the first to tell you, Azima is one best keptaru in good graces."
 606: 0x0705 [0x23] WAIT_FOR_DIALOG_INTERACTION
 607: 0x0706 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1709,30 +1709,30 @@ SUBROUTINE_06F3:
 611: 0x071C [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 612: 0x0721 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 613: 0x0726 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-614: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+614: 0x072B [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 615: 0x072E [0x23] WAIT_FOR_DIALOG_INTERACTION
 616: 0x072F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x073E
-617: 0x0737 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+617: 0x0737 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 618: 0x073A [0x23] WAIT_FOR_DIALOG_INTERACTION
 619: 0x073B [0x01] GOTO 0x074C
 620: 0x073E [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 621: 0x0743 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-622: 0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+622: 0x0748 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 623: 0x074B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_074C:
 624: 0x074C [0x01] GOTO 0x0C62
 625: 0x074F [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x07AC
-626: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=11525*)
+626: 0x0757 [0x1D] PRINT_EVENT_MESSAGE(message_id=11526*)
     → ""Venomous Verminess," "Baroness of Bugdom," Choh Moui has almost as many monikers as she does pet pestarus. She's a Mithran beastmaster-waster who got her come-uppings in the south, but now makes her home in Crawler's Nest."
 627: 0x075A [0x23] WAIT_FOR_DIALOG_INTERACTION
-628: 0x075B [0x1D] PRINT_EVENT_MESSAGE(message_id=11526*)
+628: 0x075B [0x1D] PRINT_EVENT_MESSAGE(message_id=11527*)
     → "I'm not entirely sure of the reasons behind it, but they say she is in regular contactaru with a mercenary by the name of Duskraven."
 629: 0x075E [0x23] WAIT_FOR_DIALOG_INTERACTION
-630: 0x075F [0x1D] PRINT_EVENT_MESSAGE(message_id=11527*)
+630: 0x075F [0x1D] PRINT_EVENT_MESSAGE(message_id=11528*)
     → "She's accredited with inventing the pet foods now used by beastmasters the world round, and is always eagerly to get her hands on ingredients. She also loves to have others save her the hassle-wassle of rounding up her pets for her. What could she be up to...?"
 631: 0x0762 [0x23] WAIT_FOR_DIALOG_INTERACTION
 632: 0x0763 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1742,30 +1742,30 @@ SUBROUTINE_074C:
 636: 0x0779 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 637: 0x077E [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 638: 0x0783 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-639: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+639: 0x0788 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 640: 0x078B [0x23] WAIT_FOR_DIALOG_INTERACTION
 641: 0x078C [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x079B
-642: 0x0794 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+642: 0x0794 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 643: 0x0797 [0x23] WAIT_FOR_DIALOG_INTERACTION
 644: 0x0798 [0x01] GOTO 0x07A9
 645: 0x079B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 646: 0x07A0 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-647: 0x07A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+647: 0x07A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 648: 0x07A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_07A9:
 649: 0x07A9 [0x01] GOTO 0x0C62
 650: 0x07AC [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x0809
-651: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11528*)
+651: 0x07B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11529*)
     → "Perchance you've already espied him before. Rongo-Nango is that adorable little Tarutaru beastmaster who's always in the vicinity-winity of Fort Karugo-Narugo. He's absolutely infatuated with Lungo-Nango, the great warlord and tactician of Windurstian history."
 652: 0x07B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-653: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11529*)
+653: 0x07B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11530*)
     → "After opposing the Parliament of Patriarchs, Lungo-Nango fell into disrepute and spentaru the remainder of his days in isolation and depression. For that reason, Rongo-Nango holds much of Windurst in contempt, and refuses to lay his loyalties with the Federation."
 654: 0x07BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-655: 0x07BC [0x1D] PRINT_EVENT_MESSAGE(message_id=11530*)
+655: 0x07BC [0x1D] PRINT_EVENT_MESSAGE(message_id=11531*)
     → "I've come to find out that he is quite fond of calling his beasts, and is also looking for more of the material-warials he needs to do so."
 656: 0x07BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 657: 0x07C0 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1775,31 +1775,31 @@ SUBROUTINE_07A9:
 661: 0x07D6 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 662: 0x07DB [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 663: 0x07E0 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-664: 0x07E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+664: 0x07E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 665: 0x07E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 666: 0x07E9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x07F8
-667: 0x07F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+667: 0x07F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 668: 0x07F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 669: 0x07F5 [0x01] GOTO 0x0806
 670: 0x07F8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 671: 0x07FD [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-672: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+672: 0x0802 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 673: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0806:
 674: 0x0806 [0x01] GOTO 0x0C62
 675: 0x0809 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x086B
-676: 0x0811 [0x1D] PRINT_EVENT_MESSAGE(message_id=11531*)
+676: 0x0811 [0x1D] PRINT_EVENT_MESSAGE(message_id=11532*)
     → "Ulla is a mysterious young girl. They say she bore witness to a divine revelation, and now wanders Vana'diel as a pilgrim-wilgrim knight. She's recently left her homelands of Bastok and ventured nearer the realms of San d'Oria."
 677: 0x0814 [0x23] WAIT_FOR_DIALOG_INTERACTION
 678: 0x0815 [0x03] Work_Zone[2] = 18276*
-679: 0x081A [0x1D] PRINT_EVENT_MESSAGE(message_id=11532*)
+679: 0x081A [0x1D] PRINT_EVENT_MESSAGE(message_id=11533*)
     → "Her devoted attendantaru Kilhwch is ever by her side, and carries with him the renowned sword $0. The thing is, he's a celebrated knight in his own right, giving many rise to wonder what could have caused him to pledge his fealty to another."
 680: 0x081D [0x23] WAIT_FOR_DIALOG_INTERACTION
-681: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=11533*)
+681: 0x081E [0x1D] PRINT_EVENT_MESSAGE(message_id=11534*)
     → "Like any young lady, Ulla has a soft spot for beautiful flower-wowers. If you seek to court a fair maiden, perhaps a bouquet mightaru be best."
 682: 0x0821 [0x23] WAIT_FOR_DIALOG_INTERACTION
 683: 0x0822 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1809,30 +1809,30 @@ SUBROUTINE_0806:
 687: 0x0838 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 688: 0x083D [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 689: 0x0842 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-690: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+690: 0x0847 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 691: 0x084A [0x23] WAIT_FOR_DIALOG_INTERACTION
 692: 0x084B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x085A
-693: 0x0853 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+693: 0x0853 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 694: 0x0856 [0x23] WAIT_FOR_DIALOG_INTERACTION
 695: 0x0857 [0x01] GOTO 0x0868
 696: 0x085A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 697: 0x085F [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-698: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+698: 0x0864 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 699: 0x0867 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0868:
 700: 0x0868 [0x01] GOTO 0x0C62
 701: 0x086B [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x08C8
-702: 0x0873 [0x1D] PRINT_EVENT_MESSAGE(message_id=11534*)
+702: 0x0873 [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
     → "Achtelle is a young Elvaan wyverness from Adoulin Isle to the west, the proud keeper-weepers of the last of the dragoon tradition. The draketamers there herald her as the most skilled of their order."
 703: 0x0876 [0x23] WAIT_FOR_DIALOG_INTERACTION
-704: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=11535*)
+704: 0x0877 [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
     → "Since youth, she has held the legendary Ranperre of San d'Oria in highestaru esteem, and can oft be found seeking solace near his tomb."
 705: 0x087A [0x23] WAIT_FOR_DIALOG_INTERACTION
-706: 0x087B [0x1D] PRINT_EVENT_MESSAGE(message_id=11536*)
+706: 0x087B [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
     → "I can promise you she would eagerly accept any type of present related to the king she so reveres. I hear it told she longs for nothing more than to find some surviving-wiving dragoons, that they might together preserve their heritage."
 707: 0x087E [0x23] WAIT_FOR_DIALOG_INTERACTION
 708: 0x087F [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1842,30 +1842,30 @@ SUBROUTINE_0868:
 712: 0x0895 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 713: 0x089A [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 714: 0x089F [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-715: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+715: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 716: 0x08A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 717: 0x08A8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x08B7
-718: 0x08B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+718: 0x08B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 719: 0x08B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 720: 0x08B4 [0x01] GOTO 0x08C5
 721: 0x08B7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 722: 0x08BC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-723: 0x08C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+723: 0x08C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 724: 0x08C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_08C5:
 725: 0x08C5 [0x01] GOTO 0x0C62
 726: 0x08C8 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0925
-727: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11537*)
+727: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
     → "Duskraven is a sullen, grim-faced mercenary, distinguishable by his ominous-wominous greatsword, "Kyomon." Wayfarers and soldiers alike often recount seeing him in the vicinity of Batallia Downs, but for what purpose and to whataru end, none can say."
 728: 0x08D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-729: 0x08D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11538*)
+729: 0x08D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
     → "His underlings, the Dusk Raiders, answer to his beck and call, and such powers lead many to surmise that he is no stranger to the nether-wether realms."
 730: 0x08D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-731: 0x08D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11539*)
+731: 0x08D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
     → "He is a straight shooter, though. If you hope to curry favor with him, you need nothing more than cold cash. He seems to blow right through it as soon as he gets it, and is always looking for more. What he spends itaru on, I couldn't say."
 732: 0x08DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 733: 0x08DC [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1875,30 +1875,30 @@ SUBROUTINE_08C5:
 737: 0x08F2 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 738: 0x08F7 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 739: 0x08FC [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-740: 0x0901 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+740: 0x0901 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 741: 0x0904 [0x23] WAIT_FOR_DIALOG_INTERACTION
 742: 0x0905 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0914
-743: 0x090D [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+743: 0x090D [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 744: 0x0910 [0x23] WAIT_FOR_DIALOG_INTERACTION
 745: 0x0911 [0x01] GOTO 0x0922
 746: 0x0914 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 747: 0x0919 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-748: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+748: 0x091E [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 749: 0x0921 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0922:
 750: 0x0922 [0x01] GOTO 0x0C62
 751: 0x0925 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x0982
-752: 0x092D [0x1D] PRINT_EVENT_MESSAGE(message_id=11575*)
+752: 0x092D [0x1D] PRINT_EVENT_MESSAGE(message_id=11576*)
     → "Lewenhart is a traveling-waveling bard who has become a favorite amongst the troops, instilling hope and courage with his singing. It turns out that almostaru nothing helps morale as a much as a good song."
 753: 0x0930 [0x23] WAIT_FOR_DIALOG_INTERACTION
-754: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=11576*)
+754: 0x0931 [0x1D] PRINT_EVENT_MESSAGE(message_id=11577*)
     → "They say he prefers to stay close to a certain tomb in The Eldieme Necropolis, where his requiems can be heard far and wide."
 755: 0x0934 [0x23] WAIT_FOR_DIALOG_INTERACTION
-756: 0x0935 [0x1D] PRINT_EVENT_MESSAGE(message_id=11577*)
+756: 0x0935 [0x1D] PRINT_EVENT_MESSAGE(message_id=11578*)
     → "He often asks for holy water as payment for his songs, which he puts to cermonial-wonial use. And as with most musicians, he loves exchanging in song and banter with fellow bards."
 757: 0x0938 [0x23] WAIT_FOR_DIALOG_INTERACTION
 758: 0x0939 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1908,30 +1908,30 @@ SUBROUTINE_0922:
 762: 0x094F [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 763: 0x0954 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 764: 0x0959 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-765: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+765: 0x095E [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 766: 0x0961 [0x23] WAIT_FOR_DIALOG_INTERACTION
 767: 0x0962 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0971
-768: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+768: 0x096A [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 769: 0x096D [0x23] WAIT_FOR_DIALOG_INTERACTION
 770: 0x096E [0x01] GOTO 0x097F
 771: 0x0971 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 772: 0x0976 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-773: 0x097B [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+773: 0x097B [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 774: 0x097E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_097F:
 775: 0x097F [0x01] GOTO 0x0C62
 776: 0x0982 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x09DF
-777: 0x098A [0x1D] PRINT_EVENT_MESSAGE(message_id=11579*)
+777: 0x098A [0x1D] PRINT_EVENT_MESSAGE(message_id=11580*)
     → "A most virtuous priest, who wanders all corners of Vana'diel, filling his belly-welly bread and alms. Some swear they've seen a twisted smile on his face as he buries his enemies and offers up prayers in their name."
 778: 0x098D [0x23] WAIT_FOR_DIALOG_INTERACTION
-779: 0x098E [0x1D] PRINT_EVENT_MESSAGE(message_id=11580*)
+779: 0x098E [0x1D] PRINT_EVENT_MESSAGE(message_id=11581*)
     → "He came from the far north, and recently has been spending much of his time in Batallia Downs. Whatever is said of him, there can be no questioning his faith in the Goddess, thataru's for sure."
 780: 0x0991 [0x23] WAIT_FOR_DIALOG_INTERACTION
-781: 0x0992 [0x1D] PRINT_EVENT_MESSAGE(message_id=11581*)
+781: 0x0992 [0x1D] PRINT_EVENT_MESSAGE(message_id=11582*)
     → "He was never one to talk much, and certainly not one to mince words when he does. It seems he prefers the company of white mages, though. I've heard it said that he has been lending-wending his fists to the Allied Forces as of late."
 782: 0x0995 [0x23] WAIT_FOR_DIALOG_INTERACTION
 783: 0x0996 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1941,33 +1941,33 @@ SUBROUTINE_097F:
 787: 0x09AC [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 788: 0x09B1 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 789: 0x09B6 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-790: 0x09BB [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+790: 0x09BB [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 791: 0x09BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 792: 0x09BF [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x09CE
-793: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+793: 0x09C7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 794: 0x09CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 795: 0x09CB [0x01] GOTO 0x09DC
 796: 0x09CE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 797: 0x09D3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-798: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+798: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 799: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_09DC:
 800: 0x09DC [0x01] GOTO 0x0C62
 801: 0x09DF [0x02] IF !(Work_Zone[0] == 13*) GOTO 0x0A40
-802: 0x09E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11540*)
+802: 0x09E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11541*)
     → "Many have seen this fair young Elvaan maid walking undeterred amongst the now hostile-wostile grounds of Grauberg. All who gaze upon her tell of her godlike aura and stunning beauty."
 803: 0x09EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-804: 0x09EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11541*)
+804: 0x09EB [0x1D] PRINT_EVENT_MESSAGE(message_id=11542*)
     → "Word has it that she is of frail constitution, and grants her favor on those gracious enough to spare her medicines. I myself went and bestowed such gifts upon her, and can attest to the truth of itaru."
 805: 0x09EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-806: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11542*)
+806: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
     → "She is also known to dote upon those who take up the defense of her Grauberg. Some of her more fanatic-watic fans are said to be providing her with an enormous quantity of a certain item..."
 807: 0x09F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-808: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11543*)
+808: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
     → "When her loyalties are won, the men speak of a giant wyrm which takes to the battlefield! Such heated talk--no doubt itaru would be wise to mind the heroism gauge should you want to catch a glimpse for yourself."
 809: 0x09F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 810: 0x09F7 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -1977,31 +1977,31 @@ SUBROUTINE_09DC:
 814: 0x0A0D [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 815: 0x0A12 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 816: 0x0A17 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-817: 0x0A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+817: 0x0A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 818: 0x0A1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 819: 0x0A20 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0A2F
-820: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+820: 0x0A28 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 821: 0x0A2B [0x23] WAIT_FOR_DIALOG_INTERACTION
 822: 0x0A2C [0x01] GOTO 0x0A3D
 823: 0x0A2F [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 824: 0x0A34 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-825: 0x0A39 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+825: 0x0A39 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 826: 0x0A3C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0A3D:
 827: 0x0A3D [0x01] GOTO 0x0C62
 828: 0x0A40 [0x02] IF !(Work_Zone[0] == 14*) GOTO 0x0AA2
-829: 0x0A48 [0x1D] PRINT_EVENT_MESSAGE(message_id=11544*)
+829: 0x0A48 [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
     → "Titania is the name of the celebrated Queen of Pixies from the classic Bastokan drama, "Midwinter Dream.""
 830: 0x0A4B [0x23] WAIT_FOR_DIALOG_INTERACTION
-831: 0x0A4C [0x1D] PRINT_EVENT_MESSAGE(message_id=11545*)
+831: 0x0A4C [0x1D] PRINT_EVENT_MESSAGE(message_id=11546*)
     → "Of course, that is no more than a tale of fantasy to delight children. We all know that pixies don't exist in the real-- What!? You've seen one? Are you having a jape at my expense!?"
 832: 0x0A4F [0x23] WAIT_FOR_DIALOG_INTERACTION
 833: 0x0A50 [0x03] Work_Zone[2] = 2525*
-834: 0x0A55 [0x1D] PRINT_EVENT_MESSAGE(message_id=11546*)
+834: 0x0A55 [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
     → "Well, what I do know for certain-wertain is this. Nothing. Only that rumors suggest offering $0 to the Witchfire Glen in Grauberg will help in headhunting...whatever this being may be. N-n-not thataru I'm dying to find out or anything!"
 835: 0x0A58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 836: 0x0A59 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -2011,34 +2011,34 @@ SUBROUTINE_0A3D:
 840: 0x0A6F [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 841: 0x0A74 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 842: 0x0A79 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-843: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+843: 0x0A7E [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 844: 0x0A81 [0x23] WAIT_FOR_DIALOG_INTERACTION
 845: 0x0A82 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0A91
-846: 0x0A8A [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+846: 0x0A8A [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 847: 0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 848: 0x0A8E [0x01] GOTO 0x0A9F
 849: 0x0A91 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 850: 0x0A96 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-851: 0x0A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+851: 0x0A9B [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 852: 0x0A9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0A9F:
 853: 0x0A9F [0x01] GOTO 0x0C62
 854: 0x0AA2 [0x02] IF !(Work_Zone[0] == 15*) GOTO 0x0B08
-855: 0x0AAA [0x1D] PRINT_EVENT_MESSAGE(message_id=11547*)
+855: 0x0AAA [0x1D] PRINT_EVENT_MESSAGE(message_id=11548*)
     → "Fanciful-wanciful fairy tales about a frog princess have been passed down in Windurst since days of eld."
 856: 0x0AAD [0x23] WAIT_FOR_DIALOG_INTERACTION
-857: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=11548*)
+857: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=11549*)
     → "Some say the newcome prince of these froglike beastmen has been seen leaping and bounding about the frontlines of battle. No doubt the figment of some delusional soldier's imagination, but still..."
 858: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 859: 0x0AB2 [0x03] Work_Zone[2] = 17005*
-860: 0x0AB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11549*)
+860: 0x0AB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11550*)
     → "Folklore always spoke of their insatiable-watiable appetites, and now soldiers would tell that feeding them will actually help win them to our cause. "Give him $0," they say, "and the frog prince will requite!" I can't make heads or tails of it..."
 861: 0x0ABA [0x23] WAIT_FOR_DIALOG_INTERACTION
-862: 0x0ABB [0x1D] PRINT_EVENT_MESSAGE(message_id=11550*)
+862: 0x0ABB [0x1D] PRINT_EVENT_MESSAGE(message_id=11551*)
     → "N-n-not thataru I bother myself with such childish topics!"
 863: 0x0ABE [0x23] WAIT_FOR_DIALOG_INTERACTION
 864: 0x0ABF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -2048,34 +2048,34 @@ SUBROUTINE_0A9F:
 868: 0x0AD5 [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 869: 0x0ADA [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 870: 0x0ADF [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-871: 0x0AE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+871: 0x0AE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 872: 0x0AE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 873: 0x0AE8 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0AF7
-874: 0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+874: 0x0AF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 875: 0x0AF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 876: 0x0AF4 [0x01] GOTO 0x0B05
 877: 0x0AF7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 878: 0x0AFC [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-879: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+879: 0x0B01 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 880: 0x0B04 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0B05:
 881: 0x0B05 [0x01] GOTO 0x0C62
 882: 0x0B08 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0B6E
-883: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11551*)
+883: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=11552*)
     → "Unprecedented in hitory-wistory, there has recently been an affable plantoid befriending soldiers on the battlefield. It most closely resembles one of those mandragora known to inhabitaru the wilds to the west."
 884: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-885: 0x0B14 [0x1D] PRINT_EVENT_MESSAGE(message_id=11552*)
+885: 0x0B14 [0x1D] PRINT_EVENT_MESSAGE(message_id=11553*)
     → "Is that a shred of doubt I sense!? I've seen it with my own eyes, I tell you! This is no figment of the imagination or some delusional soldier's hallucination! Still don't believe me?"
 886: 0x0B17 [0x23] WAIT_FOR_DIALOG_INTERACTION
 887: 0x0B18 [0x03] Work_Zone[2] = 4509*
-888: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=11553*)
+888: 0x0B1D [0x1D] PRINT_EVENT_MESSAGE(message_id=11554*)
     → "Head on over to the Meriphataud Mountains and try trading $0 or some fertilizer to the odd little treeman you find. He just might be moved to come and help you out in a fightaru!"
 889: 0x0B20 [0x23] WAIT_FOR_DIALOG_INTERACTION
-890: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=11554*)
+890: 0x0B21 [0x1D] PRINT_EVENT_MESSAGE(message_id=11555*)
     → "Regardless, I wonder what it is he could possibly be doing here... N-n-not that I am about to startaru stalking him to find out or anything!"
 891: 0x0B24 [0x23] WAIT_FOR_DIALOG_INTERACTION
 892: 0x0B25 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -2085,33 +2085,33 @@ SUBROUTINE_0B05:
 896: 0x0B3B [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 897: 0x0B40 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 898: 0x0B45 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-899: 0x0B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+899: 0x0B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 900: 0x0B4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 901: 0x0B4E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0B5D
-902: 0x0B56 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+902: 0x0B56 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 903: 0x0B59 [0x23] WAIT_FOR_DIALOG_INTERACTION
 904: 0x0B5A [0x01] GOTO 0x0B6B
 905: 0x0B5D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 906: 0x0B62 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-907: 0x0B67 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+907: 0x0B67 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 908: 0x0B6A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0B6B:
 909: 0x0B6B [0x01] GOTO 0x0C62
 910: 0x0B6E [0x02] IF !(Work_Zone[0] == 17*) GOTO 0x0BCF
-911: 0x0B76 [0x1D] PRINT_EVENT_MESSAGE(message_id=11571*)
+911: 0x0B76 [0x1D] PRINT_EVENT_MESSAGE(message_id=11572*)
     → "Current taxonomy teaches us that at presentaru, the monoceros family contains few known specimens. Those that are classified exhibit great horn spire-wires jutting from their majestic heads, and are either born of light, or of darkness."
 912: 0x0B79 [0x23] WAIT_FOR_DIALOG_INTERACTION
-913: 0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=11572*)
+913: 0x0B7A [0x1D] PRINT_EVENT_MESSAGE(message_id=11573*)
     → "An influx of eyewitness accounts in recent days all point to the undeniable existence of the beastaru named Dark Ixion. Tempered like a storm and ever wary, both allies and beastman alike tend to keep their distance."
 914: 0x0B7D [0x23] WAIT_FOR_DIALOG_INTERACTION
-915: 0x0B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=11573*)
+915: 0x0B7E [0x1D] PRINT_EVENT_MESSAGE(message_id=11574*)
     → "The other is dubbed Auroral Alicorn and exhibits a brilliantaru shade of white and a calm, gentle demeanor. The two couldn't be more dissimilar-wimilar."
 916: 0x0B81 [0x23] WAIT_FOR_DIALOG_INTERACTION
-917: 0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=11574*)
+917: 0x0B82 [0x1D] PRINT_EVENT_MESSAGE(message_id=11575*)
     → "Though almost never seen in the wild prior to the war, Auroral Alicorn has recently been sighted in Jugner Forest, some say nursing wounds."
 918: 0x0B85 [0x23] WAIT_FOR_DIALOG_INTERACTION
 919: 0x0B86 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=1*)
@@ -2121,77 +2121,77 @@ SUBROUTINE_0B6B:
 923: 0x0B9C [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[3]
 924: 0x0BA1 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[4]
 925: 0x0BA6 [0x03] ExtData[1]->WorkLocal[0] = Work_Zone[5]
-926: 0x0BAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11583*)
+926: 0x0BAB [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
     → "(By the way, the latest reportarus have it that this freelance is [utterly independent/in the service of San d'Oria/in the service of Bastok/in the service of Windurst/in the service of the Beastman Confederate/].)"
 927: 0x0BAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 928: 0x0BAF [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0BBE
-929: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
+929: 0x0BB7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11586*)
     → "(There's no telling-welling where this freelance will lay their loyalties nextaru...)"
 930: 0x0BBA [0x23] WAIT_FOR_DIALOG_INTERACTION
 931: 0x0BBB [0x01] GOTO 0x0BCC
 932: 0x0BBE [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[9]
 933: 0x0BC3 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[10]
-934: 0x0BC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11584*)
+934: 0x0BC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11585*)
     → "(And if my intel is correctaru, this freelance will [almost definitely/most probably/likely] be in [San d'Oria/Bastok/Windurst/the Beastman Confederate] after the next Campaign tally-wally.)"
 935: 0x0BCB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0BCC:
 936: 0x0BCC [0x01] GOTO 0x0C62
 937: 0x0BCF [0x02] IF !(Work_Zone[0] == 18*) GOTO 0x0BEA
-938: 0x0BD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11555*)
+938: 0x0BD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=11556*)
     → "(Shhh! Keep your voice down. "The" Boodlix? The very same who heads his own "trading-wading company"?)"
 939: 0x0BDA [0x23] WAIT_FOR_DIALOG_INTERACTION
-940: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=11556*)
+940: 0x0BDB [0x1D] PRINT_EVENT_MESSAGE(message_id=11557*)
     → "(Well, they say his trade is death! And deal in it he does, if the rumors are to be believed. Some claim to have actually laid eyes on his hidden fortress and lived to tell the tale. They say it's there he greedily occupies himself with counting his blood-money.)"
 941: 0x0BDE [0x23] WAIT_FOR_DIALOG_INTERACTION
-942: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=11557*)
+942: 0x0BDF [0x1D] PRINT_EVENT_MESSAGE(message_id=11558*)
     → "(What? Have you completely-wetely lost your mind, [man/woman]!? Why in Goddess's name would you want to headhuntaru him? Still, he is supposedly well-connected, even to the Allied Forces, as the wealthy are wont to be. But the Beastman Confederate knows his value as well... Hmmm, sounds like trouble-wouble to me.)"
 943: 0x0BE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-944: 0x0BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11558*)
+944: 0x0BE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11559*)
     → "(When the war is over, it is the supply firms that slowly lose their livelihoods. I suppose when you look at it from thataru angle, he could possibly be swayed to fight for either side.)"
 945: 0x0BE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 946: 0x0BE7 [0x01] GOTO 0x0C62
 947: 0x0BEA [0x02] IF !(Work_Zone[0] == 19*) GOTO 0x0C05
-948: 0x0BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11559*)
+948: 0x0BF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=11560*)
     → "Some 150 years ago, San d'Oria was ruled by one King Raigegue the Lupine. The freelance you ask of now bears the same name as thataru king, though none know how or why."
 949: 0x0BF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-950: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11560*)
+950: 0x0BF6 [0x1D] PRINT_EVENT_MESSAGE(message_id=11561*)
     → "He is remembered as a tragic monarch, responsible for leading San d'Oria to utter defeat at the hands of Bastok's preeminent scholar and military tactician-wician, Gunther Schultz, at the Second Battle of Konschtat. What followed was an age of chaos and despair, as the Kingdom was ravaged by civil war."
 951: 0x0BF9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-952: 0x0BFA [0x1D] PRINT_EVENT_MESSAGE(message_id=11561*)
+952: 0x0BFA [0x1D] PRINT_EVENT_MESSAGE(message_id=11562*)
     → "They say this spectre-wectre of the same name is none other than Raigegue the Lupine himself, led back from the grave by the fire of his wrath. He haunts The Eldieme Necropolis. The skeptic in me suspects some exaggeration-wation is at work here..."
 953: 0x0BFD [0x23] WAIT_FOR_DIALOG_INTERACTION
-954: 0x0BFE [0x1D] PRINT_EVENT_MESSAGE(message_id=11562*)
+954: 0x0BFE [0x1D] PRINT_EVENT_MESSAGE(message_id=11563*)
     → "Huh!? Headhunting? The undead!? I-I... I have no idea how to respond to thataru. You've left me absolutely speechless-weechless."
 955: 0x0C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 956: 0x0C02 [0x01] GOTO 0x0C62
 957: 0x0C05 [0x02] IF !(Work_Zone[0] == 20*) GOTO 0x0C1C
-958: 0x0C0D [0x1D] PRINT_EVENT_MESSAGE(message_id=11563*)
+958: 0x0C0D [0x1D] PRINT_EVENT_MESSAGE(message_id=11564*)
     → "Eurytos is the battle-hardened leader of a group of mercenary Gigas from the far north. At the onset of the war, the Beastman Confederate took them into their service. But recently it would seem Eurytos has completely-wetely removed himself from the confederate's chain of command."
 959: 0x0C10 [0x23] WAIT_FOR_DIALOG_INTERACTION
-960: 0x0C11 [0x1D] PRINT_EVENT_MESSAGE(message_id=11564*)
+960: 0x0C11 [0x1D] PRINT_EVENT_MESSAGE(message_id=11565*)
     → "His might and prowess in battle have led many to speculate that his line is that of the Gigas gods. He is truly a force to be reckoned with. For now, his unit has established their compound-wompound somewhere in Vunkerl Inlet."
 961: 0x0C14 [0x23] WAIT_FOR_DIALOG_INTERACTION
-962: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=11565*)
+962: 0x0C15 [0x1D] PRINT_EVENT_MESSAGE(message_id=11566*)
     → "Though to be fair, there is precedent for the Gigas fighting under allied banners. After all, they did fight for Bastok in the Second Battle of Konschtataru. I wonder... Could the great Eurytos possibly be rallied-wallied to our cause?"
 963: 0x0C18 [0x23] WAIT_FOR_DIALOG_INTERACTION
 964: 0x0C19 [0x01] GOTO 0x0C62
 965: 0x0C1C [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x0C33
-966: 0x0C24 [0x1D] PRINT_EVENT_MESSAGE(message_id=11566*)
+966: 0x0C24 [0x1D] PRINT_EVENT_MESSAGE(message_id=11567*)
     → "This behemoth among behemoths has been roaming Vunkerl Inlet for hundreds upon hundreds of years."
 967: 0x0C27 [0x23] WAIT_FOR_DIALOG_INTERACTION
-968: 0x0C28 [0x1D] PRINT_EVENT_MESSAGE(message_id=11567*)
+968: 0x0C28 [0x1D] PRINT_EVENT_MESSAGE(message_id=11568*)
     → "So many would-be hero-weroes have died in the maws of this great beast that nobody even attempts to keep count any longer. Some say its ancientaru age and scar-heavy hide indicate it is not nearly as powerful as it once was. Yet still, you would be a fool to underestimate this fiend, I promise you."
 969: 0x0C2B [0x23] WAIT_FOR_DIALOG_INTERACTION
-970: 0x0C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=11568*)
+970: 0x0C2C [0x1D] PRINT_EVENT_MESSAGE(message_id=11569*)
     → "Headhunting? For the Allied Forces!? I'm not even going to dignify that with a response... Although, you have to admitaru, the thought of it alone is quite amusing. Hehehe!"
 971: 0x0C2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 972: 0x0C30 [0x01] GOTO 0x0C62
 973: 0x0C33 [0x02] IF !(Work_Zone[0] == 22*) GOTO 0x0C46
-974: 0x0C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=11569*)
+974: 0x0C3B [0x1D] PRINT_EVENT_MESSAGE(message_id=11570*)
     → "Who, me? Ohhh, right! I totally forgot. You're right, for all intents and purposes, I too am technically-wechnically a freelance."
 975: 0x0C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
-976: 0x0C3F [0x1D] PRINT_EVENT_MESSAGE(message_id=11570*)
+976: 0x0C3F [0x1D] PRINT_EVENT_MESSAGE(message_id=11571*)
     → "I enjoy long walks on the beach aaand... Oh yes, nothing excites me more than conversing with fellow scholars! N-n-not thataru I would want to know anything in particular about where Rainemard might be!"
 977: 0x0C42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 978: 0x0C43 [0x01] GOTO 0x0C62

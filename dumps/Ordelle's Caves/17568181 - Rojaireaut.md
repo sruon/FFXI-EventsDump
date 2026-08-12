@@ -25,49 +25,49 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001D      |          29 |
-|       1 | 0x1D19      |        7449 |
-|       2 | 0x1D11      |        7441 |
-|       3 | 0x1D12      |        7442 |
-|       4 | 0x1D13      |        7443 |
-|       5 | 0x1D14      |        7444 |
-|       6 | 0x1D15      |        7445 |
-|       7 | 0x1D16      |        7446 |
-|       8 | 0x1D17      |        7447 |
+|       1 | 0x1D1A      |        7450 |
+|       2 | 0x1D12      |        7442 |
+|       3 | 0x1D13      |        7443 |
+|       4 | 0x1D14      |        7444 |
+|       5 | 0x1D15      |        7445 |
+|       6 | 0x1D16      |        7446 |
+|       7 | 0x1D17      |        7447 |
+|       8 | 0x1D18      |        7448 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
-|      11 | 0x1D1A      |        7450 |
+|      11 | 0x1D1B      |        7451 |
 |      12 | 0x00C8      |         200 |
 |      13 | 0x003C      |          60 |
 |      14 | 0x01F3      |         499 |
 |      15 | 0x005A      |          90 |
 |      16 | 0x0015      |          21 |
-|      17 | 0x1D18      |        7448 |
+|      17 | 0x1D19      |        7449 |
 |      18 | 0x001E      |          30 |
-|      19 | 0x1D1D      |        7453 |
-|      20 | 0x1D1E      |        7454 |
+|      19 | 0x1D1E      |        7454 |
+|      20 | 0x1D1F      |        7455 |
 |      21 | 0x40000000  |  1073741824 |
-|      22 | 0x1D1B      |        7451 |
+|      22 | 0x1D1C      |        7452 |
 |      23 | 0x000E      |          14 |
 |      24 | 0x0002      |           2 |
 |      25 | 0x01D8      |         472 |
-|      26 | 0x1D1C      |        7452 |
+|      26 | 0x1D1D      |        7453 |
 
 ## String References
 
-- **7441**: Well, it's about time you showed up! You're here for the V.E.R.M.I.N. extermination operation, yes?
-- **7442**: I'll get straight to the point. We want you to find and defeat the fiend that has been wreaking havoc down here, then take the evidence of its extermination to Norejaie in San d'Oria.
-- **7443**: In order to lure the creature into the open, we have prepared this special ointment that must be applied to your skin.
-- **7444**: Lest you think me unhelpful, I will share with you what I know: sightings have been reported from the area around G-9.
-- **7445**: The effect of the ointment lasts for about a day. If it wears off early, or you want the effect removed, just come back here and talk to me.
-- **7446**: There may be some...unexpected side effects. But we won't let a little discomfort bother us now, will we?
-- **7447**: Apply the ointment? [Slap it on./Did you say, "side effects"...?]
-- **7448**: Come now, you call yourself an adventurer?
-- **7449**: I have no time for your idle chatter.
-- **7450**: Now, close your eyes for a moment. This won't hurt a bit...
-- **7451**: You wish the effect removed? Well then, close your eyes. This will be relatively painless...
-- **7452**: What's that you have there? 6 from the fiend? That should be proof enough for Norejaie. Take it back to her in San d'Oria.
-- **7453**: Hmmm? Perhaps you forgot something?
-- **7454**: What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]
+- **7442**: Well, it's about time you showed up! You're here for the V.E.R.M.I.N. extermination operation, yes?
+- **7443**: I'll get straight to the point. We want you to find and defeat the fiend that has been wreaking havoc down here, then take the evidence of its extermination to Norejaie in San d'Oria.
+- **7444**: In order to lure the creature into the open, we have prepared this special ointment that must be applied to your skin.
+- **7445**: Lest you think me unhelpful, I will share with you what I know: sightings have been reported from the area around G-9.
+- **7446**: The effect of the ointment lasts for about a day. If it wears off early, or you want the effect removed, just come back here and talk to me.
+- **7447**: There may be some...unexpected side effects. But we won't let a little discomfort bother us now, will we?
+- **7448**: Apply the ointment? [Slap it on./Did you say, "side effects"...?]
+- **7449**: Come now, you call yourself an adventurer?
+- **7450**: I have no time for your idle chatter.
+- **7451**: Now, close your eyes for a moment. This won't hurt a bit...
+- **7452**: You wish the effect removed? Well then, close your eyes. This will be relatively painless...
+- **7453**: What's that you have there? 6 from the fiend? That should be proof enough for Norejaie. Take it back to her in San d'Oria.
+- **7454**: Hmmm? Perhaps you forgot something?
+- **7455**: What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]
 
 ## Events
 
@@ -119,7 +119,7 @@
   2: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+  5: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "I have no time for your idle chatter."
   6: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x001C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -164,32 +164,32 @@
   1: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0036 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "Well, it's about time you showed up! You're here for the V.E.R.M.I.N. extermination operation, yes?"
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+  6: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "I'll get straight to the point. We want you to find and defeat the fiend that has been wreaking havoc down here, then take the evidence of its extermination to Norejaie in San d'Oria."
   7: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+  8: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "In order to lure the creature into the open, we have prepared this special ointment that must be applied to your skin."
   9: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+ 10: 0x0051 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "Lest you think me unhelpful, I will share with you what I know: sightings have been reported from the area around G-9."
  11: 0x0054 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+ 12: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "The effect of the ointment lasts for about a day. If it wears off early, or you want the effect removed, just come back here and talk to me."
  13: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
+ 14: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
     → "There may be some...unexpected side effects. But we won't let a little discomfort bother us now, will we?"
  15: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x005D [0x24] CREATE_DIALOG(message_id=7447*, default_option=1*, option_flags=0*)
+ 16: 0x005D [0x24] CREATE_DIALOG(message_id=7448*, default_option=1*, option_flags=0*)
     → "Apply the ointment? [Slap it on./Did you say, "side effects"...?]"
  17: 0x0064 [0x25] WAIT_DIALOG_SELECT()
  18: 0x0065 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C0
  19: 0x006D [0x42] SET_CLI_EVENT_CANCEL_DATA()
  20: 0x006E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  21: 0x0070 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+ 22: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "Now, close your eyes for a moment. This won't hurt a bit..."
  23: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0076 [0x03] Work_Zone[1] = 1*
@@ -205,7 +205,7 @@
  34: 0x00C9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  35: 0x00CB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  36: 0x00CD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "dis0" with entities [EventEntity, EventEntity], work=21*
- 37: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+ 37: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "Come now, you call yourself an adventurer?"
  38: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x00E0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dis0" with entities [EventEntity, EventEntity]
@@ -254,7 +254,7 @@ SUBROUTINE_00F8:
   4: 0x0106 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0107 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0108 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  7: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
+  7: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
     → "Now, close your eyes for a moment. This won't hurt a bit..."
   8: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x011B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -264,10 +264,10 @@ SUBROUTINE_00F8:
  13: 0x0149 [0x1C] WAIT(90* ticks)
  14: 0x014C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x015D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 16: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+ 16: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "Lest you think me unhelpful, I will share with you what I know: sightings have been reported from the area around G-9."
  17: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+ 18: 0x0170 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "The effect of the ointment lasts for about a day. If it wears off early, or you want the effect removed, just come back here and talk to me."
  19: 0x0173 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0174 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -314,10 +314,10 @@ SUBROUTINE_00F8:
   4: 0x0191 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x0192 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   6: 0x0193 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  7: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+  7: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "Hmmm? Perhaps you forgot something?"
   8: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x01A6 [0x24] CREATE_DIALOG(message_id=7454*, default_option=0*, option_flags=0*)
+  9: 0x01A6 [0x24] CREATE_DIALOG(message_id=7455*, default_option=0*, option_flags=0*)
     → "What do you desire? [Nothing./To have the ointment removed./To reconfirm where I'm going.]"
  10: 0x01AD [0x25] WAIT_DIALOG_SELECT()
  11: 0x01AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01CD
@@ -325,7 +325,7 @@ SUBROUTINE_00F8:
  13: 0x01C5 [0x03] Work_Zone[1] = 1073741824*
  14: 0x01CA [0x01] GOTO 0x0246
  15: 0x01CD [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0223
- 16: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7451*)
+ 16: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
     → "You wish the effect removed? Well then, close your eyes. This will be relatively painless..."
  17: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -337,7 +337,7 @@ SUBROUTINE_00F8:
  24: 0x021B [0x03] Work_Zone[1] = 0*
  25: 0x0220 [0x01] GOTO 0x0246
  26: 0x0223 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0246
- 27: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+ 27: 0x022B [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "Lest you think me unhelpful, I will share with you what I know: sightings have been reported from the area around G-9."
  28: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x022F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -378,7 +378,7 @@ SUBROUTINE_0246:
   3: 0x0251 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0252 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
   5: 0x0261 [0x03] Work_Zone[2] = 472*
-  6: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+  6: 0x0266 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "What's that you have there? 6 from the fiend? That should be proof enough for Norejaie. Take it back to her in San d'Oria."
   7: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x026A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*

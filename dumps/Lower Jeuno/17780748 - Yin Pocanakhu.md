@@ -147,15 +147,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1E15      |        7701 |
-|       2 | 0x1E16      |        7702 |
-|       3 | 0x1E17      |        7703 |
-|       4 | 0x1E18      |        7704 |
-|       5 | 0x1E19      |        7705 |
-|       6 | 0x1E1A      |        7706 |
-|       7 | 0x1E1B      |        7707 |
+|       1 | 0x1E16      |        7702 |
+|       2 | 0x1E17      |        7703 |
+|       3 | 0x1E18      |        7704 |
+|       4 | 0x1E19      |        7705 |
+|       5 | 0x1E1A      |        7706 |
+|       6 | 0x1E1B      |        7707 |
+|       7 | 0x1E1C      |        7708 |
 |       8 | 0x0800      |        2048 |
-|       9 | 0x1E1C      |        7708 |
+|       9 | 0x1E1D      |        7709 |
 |      10 | 0x7EAE      |       32430 |
 |      11 | 0xFFFF5A3C  |  4294924860 |
 |      12 | 0x0F3B      |        3899 |
@@ -166,26 +166,26 @@
 |      17 | 0x812A      |       33066 |
 |      18 | 0xFFFF5FEA  |  4294926314 |
 |      19 | 0x0050      |          80 |
-|      20 | 0x1E0C      |        7692 |
-|      21 | 0x1E0D      |        7693 |
-|      22 | 0x1E0E      |        7694 |
-|      23 | 0x1E0F      |        7695 |
-|      24 | 0x1E10      |        7696 |
-|      25 | 0x1E11      |        7697 |
-|      26 | 0x1E12      |        7698 |
+|      20 | 0x1E0D      |        7693 |
+|      21 | 0x1E0E      |        7694 |
+|      22 | 0x1E0F      |        7695 |
+|      23 | 0x1E10      |        7696 |
+|      24 | 0x1E11      |        7697 |
+|      25 | 0x1E12      |        7698 |
+|      26 | 0x1E13      |        7699 |
 |      27 | 0x03E8      |        1000 |
-|      28 | 0x1F4E      |        8014 |
-|      29 | 0x1F4F      |        8015 |
-|      30 | 0x1F50      |        8016 |
-|      31 | 0x1F51      |        8017 |
+|      28 | 0x1F4F      |        8015 |
+|      29 | 0x1F50      |        8016 |
+|      30 | 0x1F51      |        8017 |
+|      31 | 0x1F52      |        8018 |
 |      32 | 0x0001      |           1 |
 |      33 | 0x0000      |           0 |
-|      34 | 0x1F53      |        8019 |
-|      35 | 0x1F54      |        8020 |
-|      36 | 0x1F52      |        8018 |
-|      37 | 0x1F55      |        8021 |
-|      38 | 0x252E      |        9518 |
-|      39 | 0x252F      |        9519 |
+|      34 | 0x1F54      |        8020 |
+|      35 | 0x1F55      |        8021 |
+|      36 | 0x1F53      |        8019 |
+|      37 | 0x1F56      |        8022 |
+|      38 | 0x252F      |        9519 |
+|      39 | 0x2530      |        9520 |
 |      40 | 0x000C      |          12 |
 |      41 | 0xFFFED6C4  |  4294891204 |
 |      42 | 0xFFFDEB5B  |  4294830939 |
@@ -287,31 +287,31 @@
 
 ## String References
 
-- **7692**: Watch your back. Our boss, Aldo, is a rrreal pirate. I can be quite a scoundrel, too, but I ain't nothing compared to him.
-- **7693**: You follow me, [mister/lady]? Whenever Aldo's deep in thought, it's best to just look the other way.
-- **7694**: After all, he's seen hell with those eyes. Of course, lots of people suffered in the wars twenty years ago, but most of them never came back.
-- **7695**: Somehow Verena seems different than the other girls. Some folks say she can rrread animals' minds.
-- **7696**: She's a fine chocobo rrrider, and unlike my boss, she gets along fine with those beastmen. Those two always fight about that.
-- **7697**: Hey, you made it through! Thanks for the package. Now, go back and get paid.
-- **7698**: Hey, you made it through! But look at this junk. It's trash! Next time go easier on the goods, okay?
-- **7701**: Hey, did you hear? Verena is missing and our boss is in a mess over it. If you ask me, I think they just had another one of their sibling quarrels.
-- **7702**: The other day when Lion came, she was in and out of here like a white rrrabbit on a full moon. I wonder what she could be up to?
-- **7703**: Verena was at Delkfutt's Tower!? And I thought that she and the boss had just had a fight... Boy, am I an idiot!
-- **7704**: Boss is talking about setting off on some adventure. You're going too, aren't you? It must be something rrreally big if they didn't ask me to come along.
-- **7705**: I can't do much for you, but good luck out there. Wouldn't want to see you lose any of your nine lives.
-- **7706**: Welcome back. From the looks of it, you had a pretty tough time out there... But that's about all I know. Boss never tells us about anything that goes on...
-- **7707**: But as long as you are okay... Ahem! Don't be a stranger, <Player>!
-- **7708**: If only Lion were okay, as well...
-- **8014**: What? A toolbox that won't open? Oh, yeah... A long time ago I took a strange box from one of Brugaire's warehouses.
-- **8015**: The box was old and filthy, but I couldn't wait to pry it open and see the treasure inside. But it simply wouldn't open!
-- **8016**: Wait, are you looking for that box? Hmm... I'll sell it to you for $0 gil.
-- **8017**: Well? [Fine, I'll take it./No, thanks.]
-- **8018**: Oh, yeah? Well, I'm not telling you where it is, then!
-- **8019**: That's the spirit, my fine customer!
-- **8020**: I left the toolbox on top of a crate outside the Duty-Free shop in Port Jeuno. Till just now I had completely forgotten it!
-- **8021**: Look, the toolbox is on top of a crate outside of Port Jeuno's Duty-Free shop. Go ahead and take it.
-- **9518**: Are you telling me that Lion's back? Where the hell has she been? She's lucky I don't give her what for.
-- **9519**: Lion... She really had us worried!
+- **7693**: Watch your back. Our boss, Aldo, is a rrreal pirate. I can be quite a scoundrel, too, but I ain't nothing compared to him.
+- **7694**: You follow me, [mister/lady]? Whenever Aldo's deep in thought, it's best to just look the other way.
+- **7695**: After all, he's seen hell with those eyes. Of course, lots of people suffered in the wars twenty years ago, but most of them never came back.
+- **7696**: Somehow Verena seems different than the other girls. Some folks say she can rrread animals' minds.
+- **7697**: She's a fine chocobo rrrider, and unlike my boss, she gets along fine with those beastmen. Those two always fight about that.
+- **7698**: Hey, you made it through! Thanks for the package. Now, go back and get paid.
+- **7699**: Hey, you made it through! But look at this junk. It's trash! Next time go easier on the goods, okay?
+- **7702**: Hey, did you hear? Verena is missing and our boss is in a mess over it. If you ask me, I think they just had another one of their sibling quarrels.
+- **7703**: The other day when Lion came, she was in and out of here like a white rrrabbit on a full moon. I wonder what she could be up to?
+- **7704**: Verena was at Delkfutt's Tower!? And I thought that she and the boss had just had a fight... Boy, am I an idiot!
+- **7705**: Boss is talking about setting off on some adventure. You're going too, aren't you? It must be something rrreally big if they didn't ask me to come along.
+- **7706**: I can't do much for you, but good luck out there. Wouldn't want to see you lose any of your nine lives.
+- **7707**: Welcome back. From the looks of it, you had a pretty tough time out there... But that's about all I know. Boss never tells us about anything that goes on...
+- **7708**: But as long as you are okay... Ahem! Don't be a stranger, <Player>!
+- **7709**: If only Lion were okay, as well...
+- **8015**: What? A toolbox that won't open? Oh, yeah... A long time ago I took a strange box from one of Brugaire's warehouses.
+- **8016**: The box was old and filthy, but I couldn't wait to pry it open and see the treasure inside. But it simply wouldn't open!
+- **8017**: Wait, are you looking for that box? Hmm... I'll sell it to you for $0 gil.
+- **8018**: Well? [Fine, I'll take it./No, thanks.]
+- **8019**: Oh, yeah? Well, I'm not telling you where it is, then!
+- **8020**: That's the spirit, my fine customer!
+- **8021**: I left the toolbox on top of a crate outside the Duty-Free shop in Port Jeuno. Till just now I had completely forgotten it!
+- **8022**: Look, the toolbox is on top of a crate outside of Port Jeuno's Duty-Free shop. Go ahead and take it.
+- **9519**: Are you telling me that Lion's back? Where the hell has she been? She's lucky I don't give her what for.
+- **9520**: Lion... She really had us worried!
 
 ## Events
 
@@ -363,7 +363,7 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7701*)
+  4: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
     → "Hey, did you hear? Verena is missing and our boss is in a mess over it. If you ask me, I think they just had another one of their sibling quarrels."
   5: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -399,7 +399,7 @@
   1: 0x0042 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0043 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0048 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7702*)
+  4: 0x0057 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
     → "The other day when Lion came, she was in and out of here like a white rrrabbit on a full moon. I wonder what she could be up to?"
   5: 0x005A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x005B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -435,7 +435,7 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0084 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7703*)
+  4: 0x0093 [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
     → "Verena was at Delkfutt's Tower!? And I thought that she and the boss had just had a fight... Boy, am I an idiot!"
   5: 0x0096 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0097 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -471,10 +471,10 @@
   1: 0x00BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x00C0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7704*)
+  4: 0x00CF [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
     → "Boss is talking about setting off on some adventure. You're going too, aren't you? It must be something rrreally big if they didn't ask me to come along."
   5: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7705*)
+  6: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
     → "I can't do much for you, but good luck out there. Wouldn't want to see you lose any of your nine lives."
   7: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00D7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -511,10 +511,10 @@
   1: 0x00FA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00FB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0100 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7706*)
+  4: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
     → "Welcome back. From the looks of it, you had a pretty tough time out there... But that's about all I know. Boss never tells us about anything that goes on..."
   5: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7707*)
+  6: 0x0113 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
     → "But as long as you are okay... Ahem! Don't be a stranger, <Player>!"
   7: 0x0116 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0117 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -524,7 +524,7 @@
  12: 0x013F [0x39] SET_ENTITY_DIRECTION(direction=ExtData[1]->WorkLocal[0])
  13: 0x0142 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  14: 0x0143 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 15: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7708*)
+ 15: 0x0144 [0x1D] PRINT_EVENT_MESSAGE(message_id=7709*)
     → "If only Lion were okay, as well..."
  16: 0x0147 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0148 [0x21] END_EVENT
@@ -640,13 +640,13 @@
   1: 0x018B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0191 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7692*)
+  4: 0x01A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
     → "Watch your back. Our boss, Aldo, is a rrreal pirate. I can be quite a scoundrel, too, but I ain't nothing compared to him."
   5: 0x01A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7693*)
+  6: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
     → "You follow me, [mister/lady]? Whenever Aldo's deep in thought, it's best to just look the other way."
   7: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7694*)
+  8: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
     → "After all, he's seen hell with those eyes. Of course, lots of people suffered in the wars twenty years ago, but most of them never came back."
   9: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01AC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -682,10 +682,10 @@
   1: 0x01CF [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x01D5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7695*)
+  4: 0x01E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
     → "Somehow Verena seems different than the other girls. Some folks say she can rrread animals' minds."
   5: 0x01E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7696*)
+  6: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
     → "She's a fine chocobo rrrider, and unlike my boss, she gets along fine with those beastmen. Those two always fight about that."
   7: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01EC [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -721,7 +721,7 @@
   1: 0x020F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0210 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0215 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7697*)
+  4: 0x0224 [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
     → "Hey, you made it through! Thanks for the package. Now, go back and get paid."
   5: 0x0227 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0228 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -757,7 +757,7 @@
   1: 0x024B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0251 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=7698*)
+  4: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=7699*)
     → "Hey, you made it through! But look at this junk. It's trash! Next time go easier on the goods, okay?"
   5: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0264 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -796,34 +796,34 @@
   1: 0x0287 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0288 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0289 [0x03] Work_Zone[2] = 1000*
-  4: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8014*)
+  4: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
     → "What? A toolbox that won't open? Oh, yeah... A long time ago I took a strange box from one of Brugaire's warehouses."
   5: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0292 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  7: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8015*)
+  7: 0x02A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
     → "The box was old and filthy, but I couldn't wait to pry it open and see the treasure inside. But it simply wouldn't open!"
   8: 0x02A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8016*)
+  9: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8017*)
     → "Wait, are you looking for that box? Hmm... I'll sell it to you for $0 gil."
  10: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x02A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
  12: 0x02B8 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 13: 0x02B9 [0x24] CREATE_DIALOG(message_id=8017*, default_option=1*, option_flags=0*)
+ 13: 0x02B9 [0x24] CREATE_DIALOG(message_id=8018*, default_option=1*, option_flags=0*)
     → "Well? [Fine, I'll take it./No, thanks.]"
  14: 0x02C0 [0x25] WAIT_DIALOG_SELECT()
  15: 0x02C1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E0
  16: 0x02C9 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  17: 0x02CB [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  18: 0x02CD [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x02DD
- 19: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
+ 19: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
     → "That's the spirit, my fine customer!"
  20: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8020*)
+ 21: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
     → "I left the toolbox on top of a crate outside the Duty-Free shop in Port Jeuno. Till just now I had completely forgotten it!"
  22: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x02DD [0x01] GOTO 0x02EF
  24: 0x02E0 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02EF
- 25: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8018*)
+ 25: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8019*)
     → "Oh, yeah? Well, I'm not telling you where it is, then!"
  26: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x02EC [0x01] GOTO 0x02EF
@@ -858,7 +858,7 @@ SUBROUTINE_02EF:
   1: 0x02F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02F7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=8021*)
+  4: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=8022*)
     → "Look, the toolbox is on top of a crate outside of Port Jeuno's Duty-Free shop. Go ahead and take it."
   5: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x030B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -946,7 +946,7 @@ SUBROUTINE_02EF:
   1: 0x035B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x035C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   3: 0x0361 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=9518*)
+  4: 0x0370 [0x1D] PRINT_EVENT_MESSAGE(message_id=9519*)
     → "Are you telling me that Lion's back? Where the hell has she been? She's lucky I don't give her what for."
   5: 0x0373 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0374 [0x3A] CONVERT_YAW_TO_BYTE(entity=EventEntity, result_destination=ExtData[1]->WorkLocal[0])
@@ -954,7 +954,7 @@ SUBROUTINE_02EF:
   8: 0x0380 [0x39] SET_ENTITY_DIRECTION(direction=ExtData[1]->WorkLocal[0])
   9: 0x0383 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  10: 0x0384 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 11: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=9519*)
+ 11: 0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=9520*)
     → "Lion... She really had us worried!"
  12: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0389 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

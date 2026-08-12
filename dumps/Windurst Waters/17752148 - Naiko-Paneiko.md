@@ -80,38 +80,38 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x002A      |          42 |
 |       3 | 0x0029      |          41 |
-|       4 | 0x237C      |        9084 |
-|       5 | 0x237D      |        9085 |
-|       6 | 0x2380      |        9088 |
-|       7 | 0x2381      |        9089 |
-|       8 | 0x2382      |        9090 |
-|       9 | 0x2383      |        9091 |
-|      10 | 0x2384      |        9092 |
-|      11 | 0x2385      |        9093 |
-|      12 | 0x2386      |        9094 |
+|       4 | 0x237D      |        9085 |
+|       5 | 0x237E      |        9086 |
+|       6 | 0x2381      |        9089 |
+|       7 | 0x2382      |        9090 |
+|       8 | 0x2383      |        9091 |
+|       9 | 0x2384      |        9092 |
+|      10 | 0x2385      |        9093 |
+|      11 | 0x2386      |        9094 |
+|      12 | 0x2387      |        9095 |
 |      13 | 0x00C9      |         201 |
 |      14 | 0x0000      |           0 |
-|      15 | 0x238E      |        9102 |
-|      16 | 0x238F      |        9103 |
-|      17 | 0x2390      |        9104 |
-|      18 | 0x2391      |        9105 |
-|      19 | 0x2392      |        9106 |
-|      20 | 0x2393      |        9107 |
-|      21 | 0x2394      |        9108 |
-|      22 | 0x2395      |        9109 |
-|      23 | 0x2396      |        9110 |
-|      24 | 0x2397      |        9111 |
-|      25 | 0x2398      |        9112 |
-|      26 | 0x2399      |        9113 |
-|      27 | 0x239A      |        9114 |
-|      28 | 0x239D      |        9117 |
-|      29 | 0x239E      |        9118 |
-|      30 | 0x23A1      |        9121 |
-|      31 | 0x23A2      |        9122 |
-|      32 | 0x23A3      |        9123 |
-|      33 | 0x23A4      |        9124 |
-|      34 | 0x23A5      |        9125 |
-|      35 | 0x23A6      |        9126 |
+|      15 | 0x238F      |        9103 |
+|      16 | 0x2390      |        9104 |
+|      17 | 0x2391      |        9105 |
+|      18 | 0x2392      |        9106 |
+|      19 | 0x2393      |        9107 |
+|      20 | 0x2394      |        9108 |
+|      21 | 0x2395      |        9109 |
+|      22 | 0x2396      |        9110 |
+|      23 | 0x2397      |        9111 |
+|      24 | 0x2398      |        9112 |
+|      25 | 0x2399      |        9113 |
+|      26 | 0x239A      |        9114 |
+|      27 | 0x239B      |        9115 |
+|      28 | 0x239E      |        9118 |
+|      29 | 0x239F      |        9119 |
+|      30 | 0x23A2      |        9122 |
+|      31 | 0x23A3      |        9123 |
+|      32 | 0x23A4      |        9124 |
+|      33 | 0x23A5      |        9125 |
+|      34 | 0x23A6      |        9126 |
+|      35 | 0x23A7      |        9127 |
 |      36 | 0x00C8      |         200 |
 |      37 | 0x0064      |         100 |
 |      38 | 0x0185      |         389 |
@@ -121,70 +121,70 @@
 |      42 | 0x008A      |         138 |
 |      43 | 0x003C      |          60 |
 |      44 | 0x0F46      |        3910 |
-|      45 | 0x23AE      |        9134 |
-|      46 | 0x23B0      |        9136 |
+|      45 | 0x23AF      |        9135 |
+|      46 | 0x23B1      |        9137 |
 |      47 | 0x012C      |         300 |
 |      48 | 0x0097      |         151 |
 |      49 | 0x0001      |           1 |
-|      50 | 0x23A9      |        9129 |
-|      51 | 0x23AA      |        9130 |
-|      52 | 0x23AB      |        9131 |
-|      53 | 0x23AC      |        9132 |
-|      54 | 0x23AD      |        9133 |
-|      55 | 0x23AF      |        9135 |
-|      56 | 0x23B1      |        9137 |
-|      57 | 0x23B2      |        9138 |
-|      58 | 0x23B3      |        9139 |
-|      59 | 0x23B4      |        9140 |
-|      60 | 0x23B5      |        9141 |
-|      61 | 0x23B6      |        9142 |
-|      62 | 0x23B7      |        9143 |
+|      50 | 0x23AA      |        9130 |
+|      51 | 0x23AB      |        9131 |
+|      52 | 0x23AC      |        9132 |
+|      53 | 0x23AD      |        9133 |
+|      54 | 0x23AE      |        9134 |
+|      55 | 0x23B0      |        9136 |
+|      56 | 0x23B2      |        9138 |
+|      57 | 0x23B3      |        9139 |
+|      58 | 0x23B4      |        9140 |
+|      59 | 0x23B5      |        9141 |
+|      60 | 0x23B6      |        9142 |
+|      61 | 0x23B7      |        9143 |
+|      62 | 0x23B8      |        9144 |
 
 ## String References
 
-- **9084**: Work harder! Work harder!
-- **9085**: The Tarutaru Times Company can never rest! We can't afford to miss the publication deadline of our "Magic Paradise Weekly"! It's the only source of reliable news in Windurst. So work harder!
-- **9088**: I'm the editor of the only source of reliable news in Windurst, the Tarutaru Times Company's "Magic Paradise Weekly"!
-- **9089**: Hmm... What should I do for our next feature? I need a snappy exclusive to hook the customers!
-- **9090**: Your average news item just doesn't cut it with the intelligentsia who live around Windurst.
-- **9091**: Come to think of it, those reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline...!
-- **9092**: Hey, you there...kid! Have you seen any of my reporters around town? If you happen to see them, make yourself useful and tell them to hand in their news articles!
-- **9093**: The reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline, too!
-- **9094**: If you happen to see them, kid, make yourself useful and tell them to hand in their news articles!
-- **9102**: Well done, kid. Seems like you got the lot here...
-- **9103**: Humph?
-- **9104**: Hmm...
-- **9105**: A-huh.....?
-- **9106**: ..............................
-- **9107**: ......................This could be it!
-- **9108**: Hey, kid! Did you confirm the veracity of Umumu's article properly before submitting it to me?
-- **9109**: If her information is correct, then this could be the exclusive scoop we've been looking for!
-- **9110**: This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!
-- **9111**: Well done. Nicely scooped, kid! I'll make Umumu's article the exclusive feature of our next issue.
-- **9112**: This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!
-- **9113**: Well, we better get busy and put this into production. Here's your reward, kid. Now scram!
-- **9114**: Hurry up and get this article into production! Move it! Move it!
-- **9117**: Hey, kid! Did you confirm the veracity of Umumu's article before submitting it to me? Did you check whether the Cat Burglar's hideout is under the Horutoto Ruins or not?
-- **9118**: What the...? The first rule of journalism is to always check your sources, kid. We ain't no amateur tabloid here!
-- **9121**: St-st-stolen! Our proof copy has been stolen!
-- **9122**: The proof copy of our next "Magic Paradise Weekly" with the exclusive report on the Cat Burglar's hideout is gone!
-- **9123**: Someone st-st-stole it! Aaawwrrghhh!
-- **9124**: There's only one person who could have done this... None other than the Cat Burglar herself! We've got to get it back, kid! Go! Get moving!
-- **9125**: There's only one person who could have stolen it...the Cat Burglar herself! We've got to get the proof copy back, kid! Go! Get moving!
-- **9126**: What's that dirty little box you have there, kid? The "Magic Paradise Weekly" editing room has no need for that, do we, now?
-- **9129**: What's that, you say? The stolen proof copy of next week's "Magic Paradise Weekly" is in this box?
-- **9130**: Let me see... Hmm... Let me see...
-- **9131**: You're rightaru! This really is the stolen proof copy of our "Magic Paradise Weekly"!
-- **9132**: Now that we have this magic doll back, everything's all right! This talking doll has recorded all our reporters' articles and interviews with important people. Everything we need to go to production is in here.
-- **9133**: Here we go...! Switch on!
-- **9135**: Wha-wha-wha-wha-what!?
-- **9137**: Damn that cursed Cat Burglar!!! She recorded over our data by making the doll memorize a new message!
-- **9138**: Waaah! This means we've lost the entire contents of our next "Magic Paradise Weekly"! <Sniff>... Boo-hoo-ho\`o!!!
-- **9139**: I guess it just goes to prove the old saying... "If you can't say anything nice about someone, then don't say it atarull!"
-- **9140**: You there, kid! Bravo on getting our magic doll back from the paws of that thieving Cat Burglar!
-- **9141**: Let me show my appreciation for your work there, kid... Thanks!
-- **9142**: What!? You thought our "Magic Paradise Weekly" was a newspaper or a book or something?
-- **9143**: Don't assume we're behind the Times, kid. "Magic Paradise Weekly" is at the forefront of modern technology.
+- **9085**: Work harder! Work harder!
+- **9086**: The Tarutaru Times Company can never rest! We can't afford to miss the publication deadline of our "Magic Paradise Weekly"! It's the only source of reliable news in Windurst. So work harder!
+- **9089**: I'm the editor of the only source of reliable news in Windurst, the Tarutaru Times Company's "Magic Paradise Weekly"!
+- **9090**: Hmm... What should I do for our next feature? I need a snappy exclusive to hook the customers!
+- **9091**: Your average news item just doesn't cut it with the intelligentsia who live around Windurst.
+- **9092**: Come to think of it, those reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline...!
+- **9093**: Hey, you there...kid! Have you seen any of my reporters around town? If you happen to see them, make yourself useful and tell them to hand in their news articles!
+- **9094**: The reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline, too!
+- **9095**: If you happen to see them, kid, make yourself useful and tell them to hand in their news articles!
+- **9103**: Well done, kid. Seems like you got the lot here...
+- **9104**: Humph?
+- **9105**: Hmm...
+- **9106**: A-huh.....?
+- **9107**: ..............................
+- **9108**: ......................This could be it!
+- **9109**: Hey, kid! Did you confirm the veracity of Umumu's article properly before submitting it to me?
+- **9110**: If her information is correct, then this could be the exclusive scoop we've been looking for!
+- **9111**: This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!
+- **9112**: Well done. Nicely scooped, kid! I'll make Umumu's article the exclusive feature of our next issue.
+- **9113**: This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!
+- **9114**: Well, we better get busy and put this into production. Here's your reward, kid. Now scram!
+- **9115**: Hurry up and get this article into production! Move it! Move it!
+- **9118**: Hey, kid! Did you confirm the veracity of Umumu's article before submitting it to me? Did you check whether the Cat Burglar's hideout is under the Horutoto Ruins or not?
+- **9119**: What the...? The first rule of journalism is to always check your sources, kid. We ain't no amateur tabloid here!
+- **9122**: St-st-stolen! Our proof copy has been stolen!
+- **9123**: The proof copy of our next "Magic Paradise Weekly" with the exclusive report on the Cat Burglar's hideout is gone!
+- **9124**: Someone st-st-stole it! Aaawwrrghhh!
+- **9125**: There's only one person who could have done this... None other than the Cat Burglar herself! We've got to get it back, kid! Go! Get moving!
+- **9126**: There's only one person who could have stolen it...the Cat Burglar herself! We've got to get the proof copy back, kid! Go! Get moving!
+- **9127**: What's that dirty little box you have there, kid? The "Magic Paradise Weekly" editing room has no need for that, do we, now?
+- **9130**: What's that, you say? The stolen proof copy of next week's "Magic Paradise Weekly" is in this box?
+- **9131**: Let me see... Hmm... Let me see...
+- **9132**: You're rightaru! This really is the stolen proof copy of our "Magic Paradise Weekly"!
+- **9133**: Now that we have this magic doll back, everything's all right! This talking doll has recorded all our reporters' articles and interviews with important people. Everything we need to go to production is in here.
+- **9134**: Here we go...! Switch on!
+- **9136**: Wha-wha-wha-wha-what!?
+- **9138**: Damn that cursed Cat Burglar!!! She recorded over our data by making the doll memorize a new message!
+- **9139**: Waaah! This means we've lost the entire contents of our next "Magic Paradise Weekly"! <Sniff>... Boo-hoo-ho\`o!!!
+- **9140**: I guess it just goes to prove the old saying... "If you can't say anything nice about someone, then don't say it atarull!"
+- **9141**: You there, kid! Bravo on getting our magic doll back from the paws of that thieving Cat Burglar!
+- **9142**: Let me show my appreciation for your work there, kid... Thanks!
+- **9143**: What!? You thought our "Magic Paradise Weekly" was a newspaper or a book or something?
+- **9144**: Don't assume we're behind the Times, kid. "Magic Paradise Weekly" is at the forefront of modern technology.
 
 ## Events
 
@@ -939,10 +939,10 @@
   1: 0x01D3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x15)
-  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9084*)
+  4: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=9085*)
     → "Work harder! Work harder!"
   5: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9085*)
+  6: 0x01E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9086*)
     → "The Tarutaru Times Company can never rest! We can't afford to miss the publication deadline of our "Magic Paradise Weekly"! It's the only source of reliable news in Windurst. So work harder!"
   7: 0x01E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01E4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x16)
@@ -980,25 +980,25 @@
   1: 0x01F4 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F5 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  4: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9088*)
+  4: 0x01FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
     → "I'm the editor of the only source of reliable news in Windurst, the Tarutaru Times Company's "Magic Paradise Weekly"!"
   5: 0x0200 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=9089*)
+  6: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
     → "Hmm... What should I do for our next feature? I need a snappy exclusive to hook the customers!"
   7: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0205 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1D)
   9: 0x020C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x03)
- 10: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=9090*)
+ 10: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
     → "Your average news item just doesn't cut it with the intelligentsia who live around Windurst."
  11: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0217 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x04)
  13: 0x021E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x05)
- 14: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
+ 14: 0x0225 [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
     → "Come to think of it, those reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline...!"
  15: 0x0228 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0229 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x06)
  17: 0x0230 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0F)
- 18: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
+ 18: 0x0237 [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
     → "Hey, you there...kid! Have you seen any of my reporters around town? If you happen to see them, make yourself useful and tell them to hand in their news articles!"
  19: 0x023A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x023B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x10)
@@ -1032,10 +1032,10 @@
   1: 0x024B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x024D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  4: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
+  4: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
     → "The reporters we dispatched to each of the different districts of Windurst haven't reported in at all. It's way past their deadline, too!"
   5: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
+  6: 0x0258 [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
     → "If you happen to see them, kid, make yourself useful and tell them to hand in their news articles!"
   7: 0x025B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x025C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1D)
@@ -1103,7 +1103,7 @@
 
 ```
   0: 0x02A2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  1: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9102*)
+  1: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9103*)
     → "Well done, kid. Seems like you got the lot here..."
   2: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1D)
@@ -1134,23 +1134,23 @@
 
 ```
   0: 0x02B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x03)
-  1: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9103*)
+  1: 0x02BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9104*)
     → "Humph?"
   2: 0x02BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9104*)
+  3: 0x02C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9105*)
     → "Hmm..."
   4: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x02C4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x04)
   6: 0x02CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x05)
-  7: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9105*)
+  7: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9106*)
     → "A-huh.....?"
   8: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x02D6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x06)
- 10: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9106*)
+ 10: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9107*)
     → ".............................."
  11: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02E1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0F)
- 13: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9107*)
+ 13: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9108*)
     → "......................This could be it!"
  14: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x02EC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x10)
@@ -1180,17 +1180,17 @@
 
 ```
   0: 0x02F4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  1: 0x02FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9108*)
+  1: 0x02FB [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
     → "Hey, kid! Did you confirm the veracity of Umumu's article properly before submitting it to me?"
   2: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02FF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x02)
   4: 0x0306 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0D)
-  5: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
+  5: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
     → "If her information is correct, then this could be the exclusive scoop we've been looking for!"
   6: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0311 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0E)
   8: 0x0318 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x11)
-  9: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+  9: 0x031F [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
     → "This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!"
  10: 0x0322 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0323 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x12)
@@ -1217,10 +1217,10 @@
 #### Opcodes
 
 ```
-  0: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+  0: 0x032B [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
     → "Well done. Nicely scooped, kid! I'll make Umumu's article the exclusive feature of our next issue."
   1: 0x032E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
+  2: 0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
     → "This year's Pulitzer-Bulitzer Prize for journalism will go to our article on "Where the Cat Burglar Hides her Kitty"!"
   3: 0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0333 [0x00] END_REQSTACK()
@@ -1247,7 +1247,7 @@
 
 ```
   0: 0x0334 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x15)
-  1: 0x033B [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+  1: 0x033B [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
     → "Well, we better get busy and put this into production. Here's your reward, kid. Now scram!"
   2: 0x033E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x033F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x16)
@@ -1279,7 +1279,7 @@
   1: 0x034C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x034D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x034E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x15)
-  4: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+  4: 0x0355 [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
     → "Hurry up and get this article into production! Move it! Move it!"
   5: 0x0358 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0359 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x16)
@@ -1319,12 +1319,12 @@
   5: 0x036E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x22)
   6: 0x0375 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x23)
   7: 0x037C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  8: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=9117*)
+  8: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
     → "Hey, kid! Did you confirm the veracity of Umumu's article before submitting it to me? Did you check whether the Cat Burglar's hideout is under the Horutoto Ruins or not?"
   9: 0x0386 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0387 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x02)
  11: 0x038E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x13)
- 12: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
+ 12: 0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
     → "What the...? The first rule of journalism is to always check your sources, kid. We ain't no amateur tabloid here!"
  13: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0399 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x14)
@@ -1420,7 +1420,7 @@
 
 ```
   0: 0x03F1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x15)
-  1: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9121*)
+  1: 0x03F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9122*)
     → "St-st-stolen! Our proof copy has been stolen!"
   2: 0x03FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x03FC [0x00] END_REQSTACK()
@@ -1447,12 +1447,12 @@
 #### Opcodes
 
 ```
-  0: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9122*)
+  0: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9123*)
     → "The proof copy of our next "Magic Paradise Weekly" with the exclusive report on the Cat Burglar's hideout is gone!"
   1: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0401 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x16)
   3: 0x0408 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0D)
-  4: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=9123*)
+  4: 0x040F [0x1D] PRINT_EVENT_MESSAGE(message_id=9124*)
     → "Someone st-st-stole it! Aaawwrrghhh!"
   5: 0x0412 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0413 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0E)
@@ -1480,7 +1480,7 @@
 
 ```
   0: 0x041B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0B)
-  1: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=9124*)
+  1: 0x0422 [0x1D] PRINT_EVENT_MESSAGE(message_id=9125*)
     → "There's only one person who could have done this... None other than the Cat Burglar herself! We've got to get it back, kid! Go! Get moving!"
   2: 0x0425 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0426 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0C)
@@ -1512,7 +1512,7 @@
   1: 0x0433 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0434 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0435 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0B)
-  4: 0x043C [0x1D] PRINT_EVENT_MESSAGE(message_id=9125*)
+  4: 0x043C [0x1D] PRINT_EVENT_MESSAGE(message_id=9126*)
     → "There's only one person who could have stolen it...the Cat Burglar herself! We've got to get the proof copy back, kid! Go! Get moving!"
   5: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0440 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0C)
@@ -1546,7 +1546,7 @@
   1: 0x0450 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0451 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0452 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  4: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=9126*)
+  4: 0x0459 [0x1D] PRINT_EVENT_MESSAGE(message_id=9127*)
     → "What's that dirty little box you have there, kid? The "Magic Paradise Weekly" editing room has no need for that, do we, now?"
   5: 0x045C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x045D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1D)
@@ -1647,13 +1647,13 @@
  34: 0x055C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s076" with entities [LocalPlayer, LocalPlayer], work=[138*, 0*]
  35: 0x056D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x34)
  36: 0x0574 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1B)
- 37: 0x057B [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9134*]:
+ 37: 0x057B [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9135*]:
     → "THE...KEY...IS...IN...THE...CAR-DI-AN'S...STOM-ACH..."
  38: 0x0582 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0583 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1C)
  40: 0x058A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x35)
  41: 0x0591 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1B)
- 42: 0x0598 [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9136*]:
+ 42: 0x0598 [0x2B] Talking Doll (ID: 17752150/0x010EE056) [9137*]:
     → "THE...KEY...IS...IN...THE...CAR-DI-AN'S...STOM-ACH..."
  43: 0x059F [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x05A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1C)
@@ -1714,11 +1714,11 @@
 
 ```
   0: 0x06AE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x13)
-  1: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9129*)
+  1: 0x06B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9130*)
     → "What's that, you say? The stolen proof copy of next week's "Magic Paradise Weekly" is in this box?"
   2: 0x06B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06B9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x14)
-  4: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9130*)
+  4: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=9131*)
     → "Let me see... Hmm... Let me see..."
   5: 0x06C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x06C4 [0x00] END_REQSTACK()
@@ -1743,7 +1743,7 @@
 #### Opcodes
 
 ```
-  0: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9131*)
+  0: 0x06C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9132*)
     → "You're rightaru! This really is the stolen proof copy of our "Magic Paradise Weekly"!"
   1: 0x06C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06C9 [0x00] END_REQSTACK()
@@ -1768,7 +1768,7 @@
 #### Opcodes
 
 ```
-  0: 0x06CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9132*)
+  0: 0x06CA [0x1D] PRINT_EVENT_MESSAGE(message_id=9133*)
     → "Now that we have this magic doll back, everything's all right! This talking doll has recorded all our reporters' articles and interviews with important people. Everything we need to go to production is in here."
   1: 0x06CD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06CE [0x00] END_REQSTACK()
@@ -1794,7 +1794,7 @@
 #### Opcodes
 
 ```
-  0: 0x06CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9133*)
+  0: 0x06CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9134*)
     → "Here we go...! Switch on!"
   1: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06D3 [0x00] END_REQSTACK()
@@ -1819,7 +1819,7 @@
 #### Opcodes
 
 ```
-  0: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9135*)
+  0: 0x06D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9136*)
     → "Wha-wha-wha-wha-what!?"
   1: 0x06D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06D8 [0x00] END_REQSTACK()
@@ -1845,10 +1845,10 @@
 #### Opcodes
 
 ```
-  0: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9137*)
+  0: 0x06D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9138*)
     → "Damn that cursed Cat Burglar!!! She recorded over our data by making the doll memorize a new message!"
   1: 0x06DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9138*)
+  2: 0x06DD [0x1D] PRINT_EVENT_MESSAGE(message_id=9139*)
     → "Waaah! This means we've lost the entire contents of our next "Magic Paradise Weekly"! <Sniff>... Boo-hoo-ho`o!!!"
   3: 0x06E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x06E1 [0x00] END_REQSTACK()
@@ -1873,7 +1873,7 @@
 #### Opcodes
 
 ```
-  0: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9139*)
+  0: 0x06E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
     → "I guess it just goes to prove the old saying... "If you can't say anything nice about someone, then don't say it atarull!""
   1: 0x06E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06E6 [0x00] END_REQSTACK()
@@ -1900,11 +1900,11 @@
 
 ```
   0: 0x06E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x0F)
-  1: 0x06EE [0x1D] PRINT_EVENT_MESSAGE(message_id=9140*)
+  1: 0x06EE [0x1D] PRINT_EVENT_MESSAGE(message_id=9141*)
     → "You there, kid! Bravo on getting our magic doll back from the paws of that thieving Cat Burglar!"
   2: 0x06F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x06F2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x10)
-  4: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9141*)
+  4: 0x06F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9142*)
     → "Let me show my appreciation for your work there, kid... Thanks!"
   5: 0x06FC [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x06FD [0x00] END_REQSTACK()
@@ -1935,10 +1935,10 @@
   1: 0x0703 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0704 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0705 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x01)
-  4: 0x070C [0x1D] PRINT_EVENT_MESSAGE(message_id=9142*)
+  4: 0x070C [0x1D] PRINT_EVENT_MESSAGE(message_id=9143*)
     → "What!? You thought our "Magic Paradise Weekly" was a newspaper or a book or something?"
   5: 0x070F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0710 [0x1D] PRINT_EVENT_MESSAGE(message_id=9143*)
+  6: 0x0710 [0x1D] PRINT_EVENT_MESSAGE(message_id=9144*)
     → "Don't assume we're behind the Times, kid. "Magic Paradise Weekly" is at the forefront of modern technology."
   7: 0x0713 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0714 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Naiko-Paneiko (ID: 17752148/0x010EE054), tag_num=0x1D)

@@ -26,16 +26,16 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0009      |           9 |
-|       2 | 0x3031      |       12337 |
-|       3 | 0x3032      |       12338 |
-|       4 | 0x3033      |       12339 |
+|       2 | 0x3032      |       12338 |
+|       3 | 0x3033      |       12339 |
+|       4 | 0x3034      |       12340 |
 |       5 | 0x002B      |          43 |
 
 ## String References
 
-- **12337**: Senator Werner is adamant about having a technologically advanced military. He even goes so far as to visit the Metalworks from time to time.
-- **12338**: It seems Chief Engineer Cid is extremely busy after taking up the additional post as head of the Gunpowder Room.
-- **12339**: Senator Werner was always adamant about having a technologically advanced military. He even used to go so far as to visit the Metalworks from time to time.
+- **12338**: Senator Werner is adamant about having a technologically advanced military. He even goes so far as to visit the Metalworks from time to time.
+- **12339**: It seems Chief Engineer Cid is extremely busy after taking up the additional post as head of the Gunpowder Room.
+- **12340**: Senator Werner was always adamant about having a technologically advanced military. He even used to go so far as to visit the Metalworks from time to time.
 
 ## Events
 
@@ -85,10 +85,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12337*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
     → "Senator Werner is adamant about having a technologically advanced military. He even goes so far as to visit the Metalworks from time to time."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
     → "It seems Chief Engineer Cid is extremely busy after taking up the additional post as head of the Gunpowder Room."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT
@@ -119,10 +119,10 @@
   0: 0x0022 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0027 [0x1C] WAIT(30* ticks)
   2: 0x002A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=9*
-  3: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
+  3: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=12340*)
     → "Senator Werner was always adamant about having a technologically advanced military. He even used to go so far as to visit the Metalworks from time to time."
   4: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12338*)
+  5: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=12339*)
     → "It seems Chief Engineer Cid is extremely busy after taking up the additional post as head of the Gunpowder Room."
   6: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0041 [0x21] END_EVENT

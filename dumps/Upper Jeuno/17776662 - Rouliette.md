@@ -24,18 +24,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1BB8      |        7096 |
+|       1 | 0x1BB9      |        7097 |
 |       2 | 0x0213      |         531 |
-|       3 | 0x1BB9      |        7097 |
-|       4 | 0x1BBA      |        7098 |
+|       3 | 0x1BBA      |        7098 |
+|       4 | 0x1BBB      |        7099 |
 |       5 | 0x00C9      |         201 |
 |       6 | 0x0000      |           0 |
 
 ## String References
 
-- **7096**: The Temple of the Goddess welcomes you. If you seek guidance, join us in prayer. Her divine wisdom will light the path.
-- **7097**: Oh, all you want is a candle? Very well. Fetch me $7, and a candle will be yours.
-- **7098**: Excellent. As promised, I bestow upon you this holy candle. May its light guide you along the path of righteousness!
+- **7097**: The Temple of the Goddess welcomes you. If you seek guidance, join us in prayer. Her divine wisdom will light the path.
+- **7098**: Oh, all you want is a candle? Very well. Fetch me $7, and a candle will be yours.
+- **7099**: Excellent. As promised, I bestow upon you this holy candle. May its light guide you along the path of righteousness!
 
 ## Events
 
@@ -107,7 +107,7 @@
   1: 0x0007 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0008 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
     → "The Temple of the Goddess welcomes you. If you seek guidance, join us in prayer. Her divine wisdom will light the path."
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x21] END_EVENT
@@ -141,10 +141,10 @@
   2: 0x0024 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0025 [0x03] Work_Zone[9] = 531*
   4: 0x002A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  5: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7096*)
+  5: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
     → "The Temple of the Goddess welcomes you. If you seek guidance, join us in prayer. Her divine wisdom will light the path."
   6: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7097*)
+  7: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
     → "Oh, all you want is a candle? Very well. Fetch me $7, and a candle will be yours."
   8: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0041 [0x21] END_EVENT
@@ -179,7 +179,7 @@
   3: 0x004B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x004C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x004D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7098*)
+  6: 0x005C [0x1D] PRINT_EVENT_MESSAGE(message_id=7099*)
     → "Excellent. As promised, I bestow upon you this holy candle. May its light guide you along the path of righteousness!"
   7: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0060 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

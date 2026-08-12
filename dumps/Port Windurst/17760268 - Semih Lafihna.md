@@ -133,9 +133,9 @@
 |      48 | 0x1FEFB     |      130811 |
 |      49 | 0x0F2F      |        3887 |
 |      50 | 0x008C      |         140 |
-|      51 | 0x2C97      |       11415 |
+|      51 | 0x2C98      |       11416 |
 |      52 | 0x0F30      |        3888 |
-|      53 | 0x2C98      |       11416 |
+|      53 | 0x2C99      |       11417 |
 |      54 | 0x0F31      |        3889 |
 |      55 | 0x0F32      |        3890 |
 |      56 | 0x0F33      |        3891 |
@@ -237,7 +237,7 @@
 - **3930**: Grr...! Speaking of "witch"...
 - **3931**: Sorry to cut my explanation short, but I have to go.
 - **3932**: Well, do your utmost for the sake of the peace of Windurst and the Star Sibyl. If you do, I'm surrre we'll cross paths again.
-- **11416**: I've marked his location on your map so you don't get lost. Select "Map" from the main menu, and choose "markers" and scrrroll to the right.
+- **11417**: I've marked his location on your map so you don't get lost. Select "Map" from the main menu, and choose "markers" and scrrroll to the right.
 
 ## Events
 
@@ -1231,7 +1231,7 @@
 # Dead code (unreachable instructions):
      0x029E [0x34] LOAD_UNLOAD_ZONE(zone_id=0x2380)
      0x02A1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17760268/0x010F000C), tag_num=0x11)
-     0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11416*)
+     0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11417*)
     → "I've marked his location on your map so you don't get lost. Select "Map" from the main menu, and choose "markers" and scrrroll to the right."
      0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02AC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17760268/0x010F000C), tag_num=0x06)

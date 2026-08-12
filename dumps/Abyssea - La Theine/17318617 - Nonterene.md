@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E9D      |        7837 |
-|       1 | 0x1E9E      |        7838 |
+|       0 | 0x1E9E      |        7838 |
+|       1 | 0x1E9F      |        7839 |
 
 ## String References
 
-- **7837**: You've done well to come this far. On behalf of our leader Halver, I welcome you to the southeastern encampment. The people here are conducting biological research on the Abyssean hordes, that we might develop countermeasures against them.
-- **7838**: Were you perchance able to locate the fifth veridical conflux as you journeyed here? Strike westward and you shall find it.
+- **7838**: You've done well to come this far. On behalf of our leader Halver, I welcome you to the southeastern encampment. The people here are conducting biological research on the Abyssean hordes, that we might develop countermeasures against them.
+- **7839**: Were you perchance able to locate the fifth veridical conflux as you journeyed here? Strike westward and you shall find it.
 
 ## Events
 
@@ -75,10 +75,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7837*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
     → "You've done well to come this far. On behalf of our leader Halver, I welcome you to the southeastern encampment. The people here are conducting biological research on the Abyssean hordes, that we might develop countermeasures against them."
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7838*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=7839*)
     → "Were you perchance able to locate the fifth veridical conflux as you journeyed here? Strike westward and you shall find it."
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0010 [0x21] END_EVENT

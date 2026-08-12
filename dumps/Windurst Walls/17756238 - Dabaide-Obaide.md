@@ -33,25 +33,25 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EFE      |        7934 |
-|       3 | 0x1C36      |        7222 |
-|       4 | 0x1C51      |        7249 |
-|       5 | 0x1D2E      |        7470 |
-|       6 | 0x1D74      |        7540 |
-|       7 | 0x1DF9      |        7673 |
-|       8 | 0x1DFA      |        7674 |
-|       9 | 0x1D85      |        7557 |
+|       2 | 0x1EFF      |        7935 |
+|       3 | 0x1C37      |        7223 |
+|       4 | 0x1C52      |        7250 |
+|       5 | 0x1D2F      |        7471 |
+|       6 | 0x1D75      |        7541 |
+|       7 | 0x1DFA      |        7674 |
+|       8 | 0x1DFB      |        7675 |
+|       9 | 0x1D86      |        7558 |
 
 ## String References
 
-- **7222**: Gee... An auction courier is a pretty dangerous job! It seems that every day you hear of another deliveryman getting attacked by some wild beasty-weasty or crazy customer.
-- **7249**: Gee... I sure would like to meety-weety that summoner who appears in all the tales of twenty years ago. They say he was one of the great genius-weniuses who only appear once every several hundred years.
-- **7470**: Gee... For safety's sake, I wouldn't recommend going-woing too close to Doctor Shantotto's manor! She thinks the whole world was made for her personal-wersonal pleasure.
-- **7540**: Gee... That Professor Koru-Moru sure is a strange one. But what's even strangery-wangery is that they made him Principal of the School of Magic.
-- **7557**: Gee... The other night when I looked up at the starry-warry sky, a trail of lighty-wighty went "wooshy-wooshy," streaming down to the ground. I think it would have hit the earthy-wearthy out there in West Sarutabaruta somewhere.
-- **7673**: Gee... Everybody "nose" about the Rhinostery. That's the ministry-winistry that runs a biological laboratory to study plants and stuff.
-- **7674**: Doctor Yoran-Oran used to be the Minister of the Rhinostery, but now he's retired-wetired and just vegetates here in Windurst Walls.
-- **7934**: Gee... May the Goddess help us if a gossiper-wossiper like Ms. Mehruru ever became-ewame a lady-in-waiting. There'd be no secrets-wecrets left in Heavens Tower-wower!
+- **7223**: Gee... An auction courier is a pretty dangerous job! It seems that every day you hear of another deliveryman getting attacked by some wild beasty-weasty or crazy customer.
+- **7250**: Gee... I sure would like to meety-weety that summoner who appears in all the tales of twenty years ago. They say he was one of the great genius-weniuses who only appear once every several hundred years.
+- **7471**: Gee... For safety's sake, I wouldn't recommend going-woing too close to Doctor Shantotto's manor! She thinks the whole world was made for her personal-wersonal pleasure.
+- **7541**: Gee... That Professor Koru-Moru sure is a strange one. But what's even strangery-wangery is that they made him Principal of the School of Magic.
+- **7558**: Gee... The other night when I looked up at the starry-warry sky, a trail of lighty-wighty went "wooshy-wooshy," streaming down to the ground. I think it would have hit the earthy-wearthy out there in West Sarutabaruta somewhere.
+- **7674**: Gee... Everybody "nose" about the Rhinostery. That's the ministry-winistry that runs a biological laboratory to study plants and stuff.
+- **7675**: Doctor Yoran-Oran used to be the Minister of the Rhinostery, but now he's retired-wetired and just vegetates here in Windurst Walls.
+- **7935**: Gee... May the Goddess help us if a gossiper-wossiper like Ms. Mehruru ever became-ewame a lady-in-waiting. There'd be no secrets-wecrets left in Heavens Tower-wower!
 
 ## Events
 
@@ -173,7 +173,7 @@
   1: 0x0026 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0027 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0028 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  4: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "Gee... May the Goddess help us if a gossiper-wossiper like Ms. Mehruru ever became-ewame a lady-in-waiting. There'd be no secrets-wecrets left in Heavens Tower-wower!"
   5: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0033 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -229,7 +229,7 @@
   1: 0x0044 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0045 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0046 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7222*)
+  4: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=7223*)
     → "Gee... An auction courier is a pretty dangerous job! It seems that every day you hear of another deliveryman getting attacked by some wild beasty-weasty or crazy customer."
   5: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0051 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -263,7 +263,7 @@
   1: 0x0061 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0062 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0063 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7249*)
+  4: 0x006A [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
     → "Gee... I sure would like to meety-weety that summoner who appears in all the tales of twenty years ago. They say he was one of the great genius-weniuses who only appear once every several hundred years."
   5: 0x006D [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -297,7 +297,7 @@
   1: 0x007E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0080 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+  4: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "Gee... For safety's sake, I wouldn't recommend going-woing too close to Doctor Shantotto's manor! She thinks the whole world was made for her personal-wersonal pleasure."
   5: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -331,7 +331,7 @@
   1: 0x009B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x009C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7540*)
+  4: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7541*)
     → "Gee... That Professor Koru-Moru sure is a strange one. But what's even strangery-wangery is that they made him Principal of the School of Magic."
   5: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A8 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -365,10 +365,10 @@
   1: 0x00B8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B9 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7673*)
+  4: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
     → "Gee... Everybody "nose" about the Rhinostery. That's the ministry-winistry that runs a biological laboratory to study plants and stuff."
   5: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7674*)
+  6: 0x00C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7675*)
     → "Doctor Yoran-Oran used to be the Minister of the Rhinostery, but now he's retired-wetired and just vegetates here in Windurst Walls."
   7: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x00C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)
@@ -402,7 +402,7 @@
   1: 0x00D9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00DA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00DB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x01)
-  4: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7557*)
+  4: 0x00E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7558*)
     → "Gee... The other night when I looked up at the starry-warry sky, a trail of lighty-wighty went "wooshy-wooshy," streaming down to the ground. I think it would have hit the earthy-wearthy out there in West Sarutabaruta somewhere."
   5: 0x00E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00E6 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dabaide-Obaide (ID: 17756238/0x010EF04E), tag_num=0x02)

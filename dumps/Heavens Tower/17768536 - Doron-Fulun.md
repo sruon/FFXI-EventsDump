@@ -74,13 +74,13 @@
 |      25 | 0xFFFFD584  |  4294956420 |
 |      26 | 0x142C3     |       82627 |
 |      27 | 0x0094      |         148 |
-|      28 | 0x1F25      |        7973 |
-|      29 | 0x1F31      |        7985 |
+|      28 | 0x1F26      |        7974 |
+|      29 | 0x1F32      |        7986 |
 
 ## String References
 
-- **7973**: Minister Shantotto! According to the W.W. $1, our company is the only one to become stuck and stranded!
-- **7985**: Minister Shantotto, please calm down and control yourself!
+- **7974**: Minister Shantotto! According to the W.W. $1, our company is the only one to become stuck and stranded!
+- **7986**: Minister Shantotto, please calm down and control yourself!
 
 ## Events
 
@@ -749,7 +749,7 @@
 #### Opcodes
 
 ```
-  0: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7973*)
+  0: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7974*)
     → "Minister Shantotto! According to the W.W. $1, our company is the only one to become stuck and stranded!"
   1: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01AC [0x00] END_REQSTACK()
@@ -776,7 +776,7 @@
 
 ```
   0: 0x01AD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Doron-Fulun (ID: 17768536/0x010F2058), tag_num=0x0F)
-  1: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7985*)
+  1: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7986*)
     → "Minister Shantotto, please calm down and control yourself!"
   2: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Doron-Fulun (ID: 17768536/0x010F2058), tag_num=0x10)

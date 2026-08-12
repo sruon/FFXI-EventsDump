@@ -22,12 +22,12 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C52      |        7250 |
+|       0 | 0x1C53      |        7251 |
 |       1 | 0x0320      |         800 |
-|       2 | 0x1C53      |        7251 |
-|       3 | 0x1C4E      |        7246 |
+|       2 | 0x1C54      |        7252 |
+|       3 | 0x1C4F      |        7247 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1C54      |        7252 |
+|       5 | 0x1C55      |        7253 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x010A      |         266 |
 |       8 | 0x012C      |         300 |
@@ -37,10 +37,10 @@
 
 ## String References
 
-- **7246**: Travel where? [Return to North Gustaberg./Return to the mine shaft entrance.]
-- **7250**: H0000! C0mE hErE crAZy ZdvEnTurEr! LET'S mAkE A dEAL!
-- **7251**: H0000! GivE mE $0 GiL, I hELp y0u EScApE!
-- **7252**: H0000! ThAnkS, crAZy AdvEnTurEr!
+- **7247**: Travel where? [Return to North Gustaberg./Return to the mine shaft entrance.]
+- **7251**: H0000! C0mE hErE crAZy ZdvEnTurEr! LET'S mAkE A dEAL!
+- **7252**: H0000! GivE mE $0 GiL, I hELp y0u EScApE!
+- **7253**: H0000! ThAnkS, crAZy AdvEnTurEr!
 
 ## Events
 
@@ -87,7 +87,7 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7250*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
     → "H0000! C0mE hErE crAZy ZdvEnTurEr! LET'S mAkE A dEAL!"
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -118,7 +118,7 @@
   0: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0015 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0017 [0x03] Work_Zone[2] = 800*
-  3: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7251*)
+  3: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
     → "H0000! GivE mE $0 GiL, I hELp y0u EScApE!"
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0020 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -156,11 +156,11 @@
   0: 0x0024 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0025 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x002A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  3: 0x002C [0x24] CREATE_DIALOG(message_id=7246*, default_option=0*, option_flags=0*)
+  3: 0x002C [0x24] CREATE_DIALOG(message_id=7247*, default_option=0*, option_flags=0*)
     → "Travel where? [Return to North Gustaberg./Return to the mine shaft entrance.]"
   4: 0x0033 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0034 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006C
-  6: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+  6: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "H0000! ThAnkS, crAZy AdvEnTurEr!"
   7: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0040 [0x03] Work_Zone[1] = 1*
@@ -171,7 +171,7 @@
  13: 0x0067 [0x46] CAMERA_CONTROL: Restore default settings
  14: 0x0069 [0x01] GOTO 0x00A4
  15: 0x006C [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00A4
- 16: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7252*)
+ 16: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7253*)
     → "H0000! ThAnkS, crAZy AdvEnTurEr!"
  17: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0078 [0x03] Work_Zone[1] = 2*

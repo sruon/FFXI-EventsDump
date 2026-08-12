@@ -53,7 +53,7 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x0837      |        2103 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x1C47      |        7239 |
+|       5 | 0x1C48      |        7240 |
 |       6 | 0x001E      |          30 |
 |       7 | 0xFFFF6177  |  4294926711 |
 |       8 | 0x12E8F     |       77455 |
@@ -72,18 +72,18 @@
 |      21 | 0xFFFF68B5  |  4294928565 |
 |      22 | 0x11125     |       69925 |
 |      23 | 0xFFFFF449  |  4294964297 |
-|      24 | 0x1DC9      |        7625 |
-|      25 | 0x2065      |        8293 |
-|      26 | 0x206D      |        8301 |
-|      27 | 0x206E      |        8302 |
+|      24 | 0x1DCA      |        7626 |
+|      25 | 0x2066      |        8294 |
+|      26 | 0x206E      |        8302 |
+|      27 | 0x206F      |        8303 |
 
 ## String References
 
-- **7239**: Prince Trion's chambers. No entry.
-- **7625**: Your Highness, Lady Curilla is in the quarters of the Temple Knights. As for Prince Pieuje...
-- **8293**: <Player>'s badge flashes brightly.
-- **8301**: Is that one of those Near Eastern badges!? Remove it at once! If Prince Trion were to see you wearing one of those...
-- **8302**: Seeing all these people sporting mercenary badges has him in a volatile mood.
+- **7240**: Prince Trion's chambers. No entry.
+- **7626**: Your Highness, Lady Curilla is in the quarters of the Temple Knights. As for Prince Pieuje...
+- **8294**: <Player>'s badge flashes brightly.
+- **8302**: Is that one of those Near Eastern badges!? Remove it at once! If Prince Trion were to see you wearing one of those...
+- **8303**: Seeing all these people sporting mercenary badges has him in a volatile mood.
 
 ## Events
 
@@ -179,7 +179,7 @@
   1: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0013 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "Prince Trion's chambers. No entry."
   5: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0026 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -710,7 +710,7 @@
 
 ```
   0: 0x025A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perfaumand (ID: 17731611/0x010E901B), tag_num=0x0D)
-  1: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7625*)
+  1: 0x0261 [0x1D] PRINT_EVENT_MESSAGE(message_id=7626*)
     → "Your Highness, Lady Curilla is in the quarters of the Temple Knights. As for Prince Pieuje..."
   2: 0x0264 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0265 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Perfaumand (ID: 17731611/0x010E901B), tag_num=0x0E)
@@ -785,15 +785,15 @@
 
 ```
   0: 0x026F [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0270 [0x48] [System] [8293*]:
+  1: 0x0270 [0x48] [System] [8294*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0273 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0278 [0x1C] WAIT(30* ticks)
   4: 0x027B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=8301*)
+  5: 0x028A [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
     → "Is that one of those Near Eastern badges!? Remove it at once! If Prince Trion were to see you wearing one of those..."
   6: 0x028D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8302*)
+  7: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=8303*)
     → "Seeing all these people sporting mercenary badges has him in a volatile mood."
   8: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0292 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*

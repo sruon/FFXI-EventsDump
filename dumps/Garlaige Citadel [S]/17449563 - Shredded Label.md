@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1F4D      |        8013 |
-|       1 | 0x1F4E      |        8014 |
+|       0 | 0x1F4E      |        8014 |
+|       1 | 0x1F4F      |        8015 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 
 ## String References
 
-- **8013**: It appears that using the $3 here will summon forth the enemy. (Your level will be restricted to $1.)
-- **8014**: Use the $3? [Yes./No.]
+- **8014**: It appears that using the $3 here will summon forth the enemy. (Your level will be restricted to $1.)
+- **8015**: Use the $3? [Yes./No.]
 
 ## Events
 
@@ -76,10 +76,10 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x48] [System] [8013*]:
+  1: 0x0002 [0x48] [System] [8014*]:
     → "It appears that using the $3 here will summon forth the enemy. (Your level will be restricted to $1.)"
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0006 [0x24] CREATE_DIALOG(message_id=8014*, default_option=1*, option_flags=0*)
+  3: 0x0006 [0x24] CREATE_DIALOG(message_id=8015*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   4: 0x000D [0x25] WAIT_DIALOG_SELECT()
   5: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001E

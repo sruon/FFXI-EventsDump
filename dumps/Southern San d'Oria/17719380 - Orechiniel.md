@@ -31,42 +31,42 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0005      |           5 |
-|       1 | 0x1A9E      |        6814 |
+|       1 | 0x1A9F      |        6815 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1AE6      |        6886 |
-|       5 | 0x1A9F      |        6815 |
+|       4 | 0x1AE7      |        6887 |
+|       5 | 0x1AA0      |        6816 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1AE8      |        6888 |
+|       7 | 0x1AE9      |        6889 |
 |       8 | 0x00C8      |         200 |
 |       9 | 0x005A      |          90 |
-|      10 | 0x1AE7      |        6887 |
-|      11 | 0x1AE9      |        6889 |
-|      12 | 0x1AA3      |        6819 |
-|      13 | 0x1AC9      |        6857 |
-|      14 | 0x1AA7      |        6823 |
-|      15 | 0x1AA6      |        6822 |
-|      16 | 0x1AA5      |        6821 |
-|      17 | 0x1AA4      |        6820 |
-|      18 | 0x1AEA      |        6890 |
-|      19 | 0x1AE5      |        6885 |
+|      10 | 0x1AE8      |        6888 |
+|      11 | 0x1AEA      |        6890 |
+|      12 | 0x1AA4      |        6820 |
+|      13 | 0x1ACA      |        6858 |
+|      14 | 0x1AA8      |        6824 |
+|      15 | 0x1AA7      |        6823 |
+|      16 | 0x1AA6      |        6822 |
+|      17 | 0x1AA5      |        6821 |
+|      18 | 0x1AEB      |        6891 |
+|      19 | 0x1AE6      |        6886 |
 
 ## String References
 
-- **6814**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
-- **6815**: Image support: $0 gil. [Accept./Decline.]
-- **6819**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **6820**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **6821**: $4 x $0 $5 x $0$0 $6 x $0
-- **6822**: $4 x $0 $5 x $0$0
-- **6823**: $4 x $0
-- **6857**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **6885**: Are you blind, [boy/girl]? Can you not see that I am busy with an important order? Now off with you!
-- **6886**: Can't help you.
-- **6887**: Pay up or get out.
-- **6888**: ... Eyes... Close them.
-- **6889**: For $0, you'll need...
-- **6890**: I have other tasks that need my tending. If you have finished, depart promptly.
+- **6815**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
+- **6816**: Image support: $0 gil. [Accept./Decline.]
+- **6820**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **6821**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **6822**: $4 x $0 $5 x $0$0 $6 x $0
+- **6823**: $4 x $0 $5 x $0$0
+- **6824**: $4 x $0
+- **6858**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **6886**: Are you blind, [boy/girl]? Can you not see that I am busy with an important order? Now off with you!
+- **6887**: Can't help you.
+- **6888**: Pay up or get out.
+- **6889**: ... Eyes... Close them.
+- **6890**: For $0, you'll need...
+- **6891**: I have other tasks that need my tending. If you have finished, depart promptly.
 
 ## Events
 
@@ -138,21 +138,21 @@
 
 ```
   0: 0x0001 [0x3E] IF !(Work_Zone[5] bit 5*) GOTO 0x01A4
-  1: 0x0008 [0x24] CREATE_DIALOG(message_id=6814*, default_option=2*, option_flags=0*)
+  1: 0x0008 [0x24] CREATE_DIALOG(message_id=6815*, default_option=2*, option_flags=0*)
     → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
   2: 0x000F [0x25] WAIT_DIALOG_SELECT()
   3: 0x0010 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0086
   4: 0x0018 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0027
-  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=6886*)
+  5: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=6887*)
     → "Can't help you."
   6: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0024 [0x01] GOTO 0x0083
-  8: 0x0027 [0x24] CREATE_DIALOG(message_id=6815*, default_option=1*, option_flags=0*)
+  8: 0x0027 [0x24] CREATE_DIALOG(message_id=6816*, default_option=1*, option_flags=0*)
     → "Image support: $0 gil. [Accept./Decline.]"
   9: 0x002E [0x25] WAIT_DIALOG_SELECT()
  10: 0x002F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0078
  11: 0x0037 [0x02] IF !(Work_Zone[6] < Work_Zone[2]) GOTO 0x0071
- 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=6888*)
+ 12: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=6889*)
     → "... Eyes... Close them."
  13: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0043 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -161,7 +161,7 @@
  17: 0x0058 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  18: 0x0069 [0x03] Work_Zone[1] = 1*
  19: 0x006E [0x01] GOTO 0x0075
- 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=6887*)
+ 20: 0x0071 [0x1D] PRINT_EVENT_MESSAGE(message_id=6888*)
     → "Pay up or get out."
  21: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -177,7 +177,7 @@ SUBROUTINE_0083:
  28: 0x0093 [0x8C] CRAFTING_HANDLER(mode=0x00) // Initialize crafting session
  29: 0x009B [0x8C] CRAFTING_HANDLER(mode=0x01) // End crafting session
  30: 0x009D [0x03] Work_Zone[2] = Work_Zone[64]
- 31: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6889*)
+ 31: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6890*)
     → "For $0, you'll need..."
  32: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00A6 [0x03] Work_Zone[3] = Work_Zone[65]
@@ -186,11 +186,11 @@ SUBROUTINE_0083:
  36: 0x00B5 [0x03] Work_Zone[6] = Work_Zone[68]
  37: 0x00BA [0x03] Work_Zone[7] = Work_Zone[85]
  38: 0x00BF [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x00CE
- 39: 0x00C7 [0x48] [System] [6819*]:
+ 39: 0x00C7 [0x48] [System] [6820*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
  40: 0x00CA [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00CB [0x01] GOTO 0x00D2
- 42: 0x00CE [0x48] [System] [6857*]:
+ 42: 0x00CE [0x48] [System] [6858*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
  43: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -204,21 +204,21 @@ SUBROUTINE_00D2:
  50: 0x00F0 [0x03] Work_Zone[8] = Work_Zone[79]
  51: 0x00F5 [0x03] Work_Zone[9] = Work_Zone[80]
  52: 0x00FA [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0109
- 53: 0x0102 [0x48] [System] [6823*]:
+ 53: 0x0102 [0x48] [System] [6824*]:
     → "$4 x $0"
  54: 0x0105 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0106 [0x01] GOTO 0x018F
  56: 0x0109 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0118
- 57: 0x0111 [0x48] [System] [6822*]:
+ 57: 0x0111 [0x48] [System] [6823*]:
     → "$4 x $0 $5 x $0$0"
  58: 0x0114 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0115 [0x01] GOTO 0x018F
  60: 0x0118 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0127
- 61: 0x0120 [0x48] [System] [6821*]:
+ 61: 0x0120 [0x48] [System] [6822*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  62: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0124 [0x01] GOTO 0x018F
- 64: 0x0127 [0x48] [System] [6820*]:
+ 64: 0x0127 [0x48] [System] [6821*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  65: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x012B [0x03] Work_Zone[2] = Work_Zone[73]
@@ -232,26 +232,26 @@ SUBROUTINE_00D2:
  74: 0x0153 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x015E
  75: 0x015B [0x01] GOTO 0x018F
  76: 0x015E [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x016D
- 77: 0x0166 [0x48] [System] [6823*]:
+ 77: 0x0166 [0x48] [System] [6824*]:
     → "$4 x $0"
  78: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x016A [0x01] GOTO 0x018F
  80: 0x016D [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x017C
- 81: 0x0175 [0x48] [System] [6822*]:
+ 81: 0x0175 [0x48] [System] [6823*]:
     → "$4 x $0 $5 x $0$0"
  82: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0179 [0x01] GOTO 0x018F
  84: 0x017C [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x018B
- 85: 0x0184 [0x48] [System] [6821*]:
+ 85: 0x0184 [0x48] [System] [6822*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  86: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0188 [0x01] GOTO 0x018F
- 88: 0x018B [0x48] [System] [6820*]:
+ 88: 0x018B [0x48] [System] [6821*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  89: 0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_018F:
- 90: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=6890*)
+ 90: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=6891*)
     → "I have other tasks that need my tending. If you have finished, depart promptly."
  91: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0193 [0x01] GOTO 0x01A1
@@ -260,7 +260,7 @@ SUBROUTINE_018F:
 
 SUBROUTINE_01A1:
  95: 0x01A1 [0x01] GOTO 0x01A8
- 96: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6885*)
+ 96: 0x01A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6886*)
     → "Are you blind, [boy/girl]? Can you not see that I am busy with an important order? Now off with you!"
  97: 0x01A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

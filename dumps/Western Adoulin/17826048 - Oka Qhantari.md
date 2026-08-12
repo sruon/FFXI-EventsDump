@@ -22,17 +22,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0035      |          53 |
-|       1 | 0x2631      |        9777 |
-|       2 | 0x2632      |        9778 |
-|       3 | 0x1FD4      |        8148 |
-|       4 | 0x1FD5      |        8149 |
+|       1 | 0x2632      |        9778 |
+|       2 | 0x2633      |        9779 |
+|       3 | 0x1FD5      |        8149 |
+|       4 | 0x1FD6      |        8150 |
 
 ## String References
 
-- **8148**: Welcome. You're here on behalf of the library, yes?
-- **8149**: Their records of our order appear to be complete. Thank you for coming to check.
-- **9777**: I take it you've already hearrrd of the Pioneers' Coalition?
-- **9778**: Then one of Adoulin's many figures you should learn to rrrecognize is Lhe Lhangavo, the coalition's current maester.
+- **8149**: Welcome. You're here on behalf of the library, yes?
+- **8150**: Their records of our order appear to be complete. Thank you for coming to check.
+- **9778**: I take it you've already hearrrd of the Pioneers' Coalition?
+- **9779**: Then one of Adoulin's many figures you should learn to rrrecognize is Lhe Lhangavo, the coalition's current maester.
 
 ## Events
 
@@ -83,10 +83,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9777*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
     → "I take it you've already hearrrd of the Pioneers' Coalition?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9778*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9779*)
     → "Then one of Adoulin's many figures you should learn to rrrecognize is Lhe Lhangavo, the coalition's current maester."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*
@@ -120,10 +120,10 @@
   2: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb1" with entities [EventEntity, EventEntity], work=53*
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8148*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
     → "Welcome. You're here on behalf of the library, yes?"
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
+  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
     → "Their records of our order appear to be complete. Thank you for coming to check."
   8: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb2" with entities [EventEntity, EventEntity], work=53*

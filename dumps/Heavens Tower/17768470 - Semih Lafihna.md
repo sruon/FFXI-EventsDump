@@ -313,9 +313,9 @@
 |     140 | 0x0313      |         787 |
 |     141 | 0xFFFFFC9C  |  4294966428 |
 |     142 | 0xB9A9      |       47529 |
-|     143 | 0x202A      |        8234 |
-|     144 | 0x202D      |        8237 |
-|     145 | 0x2056      |        8278 |
+|     143 | 0x202B      |        8235 |
+|     144 | 0x202E      |        8238 |
+|     145 | 0x2057      |        8279 |
 |     146 | 0xBB5F      |       47967 |
 |     147 | 0x037B      |         891 |
 |     148 | 0xC00B      |       49163 |
@@ -413,9 +413,9 @@
 - **396**: To think that the Yagudo now have the powerrr to nullify such magic!
 - **399**: My apologies.
 - **430**: Your Holiness! We must stop the revival of the Shadow Lord at all costs! We cannot let historrry repeat itself!
-- **8234**: What are you saying? You have knowledge of this fiend!?
-- **8237**: Idiocy! The Great Beast is no longer--
-- **8278**: ... Your will is mine, Star Sibyl.
+- **8235**: What are you saying? You have knowledge of this fiend!?
+- **8238**: Idiocy! The Great Beast is no longer--
+- **8279**: ... Your will is mine, Star Sibyl.
 
 ## Events
 
@@ -3362,7 +3362,7 @@
 #### Opcodes
 
 ```
-  0: 0x06D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8234*)
+  0: 0x06D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8235*)
     → "What are you saying? You have knowledge of this fiend!?"
   1: 0x06D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06DA [0x00] END_REQSTACK()
@@ -3387,7 +3387,7 @@
 #### Opcodes
 
 ```
-  0: 0x06DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8237*)
+  0: 0x06DB [0x1D] PRINT_EVENT_MESSAGE(message_id=8238*)
     → "Idiocy! The Great Beast is no longer--"
   1: 0x06DE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06DF [0x00] END_REQSTACK()
@@ -3412,7 +3412,7 @@
 #### Opcodes
 
 ```
-  0: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8278*)
+  0: 0x06E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8279*)
     → "... Your will is mine, Star Sibyl."
   1: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06E4 [0x00] END_REQSTACK()

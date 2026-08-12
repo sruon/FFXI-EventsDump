@@ -83,7 +83,7 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1C6C      |        7276 |
+|       2 | 0x1C6D      |        7277 |
 |       3 | 0xFFFF5DB2  |  4294925746 |
 |       4 | 0x7335      |       29493 |
 |       5 | 0xFFFFC243  |  4294951491 |
@@ -101,8 +101,8 @@
 |      17 | 0x0077      |         119 |
 |      18 | 0x0012      |          18 |
 |      19 | 0x0008      |           8 |
-|      20 | 0x1C75      |        7285 |
-|      21 | 0x1C77      |        7287 |
+|      20 | 0x1C76      |        7286 |
+|      21 | 0x1C78      |        7288 |
 |      22 | 0x0078      |         120 |
 |      23 | 0x000F      |          15 |
 |      24 | 0x00F9      |         249 |
@@ -110,147 +110,147 @@
 |      26 | 0x0097      |         151 |
 |      27 | 0x0014      |          20 |
 |      28 | 0x00A1      |         161 |
-|      29 | 0x1C80      |        7296 |
+|      29 | 0x1C81      |        7297 |
 |      30 | 0x0003      |           3 |
 |      31 | 0x0005      |           5 |
 |      32 | 0x0006      |           6 |
 |      33 | 0x0064      |         100 |
-|      34 | 0x1C6D      |        7277 |
-|      35 | 0x1C6E      |        7278 |
-|      36 | 0x1C6F      |        7279 |
-|      37 | 0x1C70      |        7280 |
-|      38 | 0x1C71      |        7281 |
-|      39 | 0x1C72      |        7282 |
-|      40 | 0x1C73      |        7283 |
-|      41 | 0x1C74      |        7284 |
-|      42 | 0x1C76      |        7286 |
-|      43 | 0x1C78      |        7288 |
-|      44 | 0x1C79      |        7289 |
-|      45 | 0x1C7A      |        7290 |
-|      46 | 0x1C7B      |        7291 |
-|      47 | 0x1C7C      |        7292 |
-|      48 | 0x1C7D      |        7293 |
-|      49 | 0x1C7E      |        7294 |
-|      50 | 0x1C7F      |        7295 |
-|      51 | 0x1C86      |        7302 |
-|      52 | 0x1C87      |        7303 |
-|      53 | 0x1C88      |        7304 |
-|      54 | 0x1C89      |        7305 |
-|      55 | 0x1C8C      |        7308 |
+|      34 | 0x1C6E      |        7278 |
+|      35 | 0x1C6F      |        7279 |
+|      36 | 0x1C70      |        7280 |
+|      37 | 0x1C71      |        7281 |
+|      38 | 0x1C72      |        7282 |
+|      39 | 0x1C73      |        7283 |
+|      40 | 0x1C74      |        7284 |
+|      41 | 0x1C75      |        7285 |
+|      42 | 0x1C77      |        7287 |
+|      43 | 0x1C79      |        7289 |
+|      44 | 0x1C7A      |        7290 |
+|      45 | 0x1C7B      |        7291 |
+|      46 | 0x1C7C      |        7292 |
+|      47 | 0x1C7D      |        7293 |
+|      48 | 0x1C7E      |        7294 |
+|      49 | 0x1C7F      |        7295 |
+|      50 | 0x1C80      |        7296 |
+|      51 | 0x1C87      |        7303 |
+|      52 | 0x1C88      |        7304 |
+|      53 | 0x1C89      |        7305 |
+|      54 | 0x1C8A      |        7306 |
+|      55 | 0x1C8D      |        7309 |
 |      56 | 0x00F4      |         244 |
 |      57 | 0x000C      |          12 |
-|      58 | 0x1C97      |        7319 |
-|      59 | 0x1C9C      |        7324 |
-|      60 | 0x1C9D      |        7325 |
-|      61 | 0x1C9E      |        7326 |
-|      62 | 0x1CA2      |        7330 |
+|      58 | 0x1C98      |        7320 |
+|      59 | 0x1C9D      |        7325 |
+|      60 | 0x1C9E      |        7326 |
+|      61 | 0x1C9F      |        7327 |
+|      62 | 0x1CA3      |        7331 |
 |      63 | 0x0096      |         150 |
-|      64 | 0x1C8A      |        7306 |
-|      65 | 0x1C8B      |        7307 |
-|      66 | 0x1C8D      |        7309 |
-|      67 | 0x1C8E      |        7310 |
-|      68 | 0x1C90      |        7312 |
-|      69 | 0x1C92      |        7314 |
-|      70 | 0x1C94      |        7316 |
-|      71 | 0x1C98      |        7320 |
-|      72 | 0x1C99      |        7321 |
-|      73 | 0x1C9B      |        7323 |
-|      74 | 0x1C9F      |        7327 |
-|      75 | 0x1CA1      |        7329 |
-|      76 | 0x1CA3      |        7331 |
-|      77 | 0x1CA4      |        7332 |
-|      78 | 0x1CA5      |        7333 |
-|      79 | 0x1CA6      |        7334 |
-|      80 | 0x1CA7      |        7335 |
+|      64 | 0x1C8B      |        7307 |
+|      65 | 0x1C8C      |        7308 |
+|      66 | 0x1C8E      |        7310 |
+|      67 | 0x1C8F      |        7311 |
+|      68 | 0x1C91      |        7313 |
+|      69 | 0x1C93      |        7315 |
+|      70 | 0x1C95      |        7317 |
+|      71 | 0x1C99      |        7321 |
+|      72 | 0x1C9A      |        7322 |
+|      73 | 0x1C9C      |        7324 |
+|      74 | 0x1CA0      |        7328 |
+|      75 | 0x1CA2      |        7330 |
+|      76 | 0x1CA4      |        7332 |
+|      77 | 0x1CA5      |        7333 |
+|      78 | 0x1CA6      |        7334 |
+|      79 | 0x1CA7      |        7335 |
+|      80 | 0x1CA8      |        7336 |
 |      81 | 0x0018      |          24 |
-|      82 | 0x1CB4      |        7348 |
+|      82 | 0x1CB5      |        7349 |
 |      83 | 0x000D      |          13 |
 |      84 | 0xFFFF559B  |  4294923675 |
 |      85 | 0x7595      |       30101 |
 |      86 | 0xFFFFC189  |  4294951305 |
-|      87 | 0x1CA8      |        7336 |
-|      88 | 0x1CA9      |        7337 |
-|      89 | 0x1CAA      |        7338 |
-|      90 | 0x1CAB      |        7339 |
-|      91 | 0x1CAC      |        7340 |
-|      92 | 0x1CAD      |        7341 |
-|      93 | 0x1CAE      |        7342 |
-|      94 | 0x1CAF      |        7343 |
-|      95 | 0x1CB0      |        7344 |
-|      96 | 0x1CB1      |        7345 |
-|      97 | 0x1CB2      |        7346 |
-|      98 | 0x1CB3      |        7347 |
-|      99 | 0x1CB5      |        7349 |
-|     100 | 0x1CB6      |        7350 |
-|     101 | 0x1CB7      |        7351 |
-|     102 | 0x1CB8      |        7352 |
-|     103 | 0x1CB9      |        7353 |
-|     104 | 0x1CBA      |        7354 |
-|     105 | 0x1E10      |        7696 |
-|     106 | 0x1E11      |        7697 |
+|      87 | 0x1CA9      |        7337 |
+|      88 | 0x1CAA      |        7338 |
+|      89 | 0x1CAB      |        7339 |
+|      90 | 0x1CAC      |        7340 |
+|      91 | 0x1CAD      |        7341 |
+|      92 | 0x1CAE      |        7342 |
+|      93 | 0x1CAF      |        7343 |
+|      94 | 0x1CB0      |        7344 |
+|      95 | 0x1CB1      |        7345 |
+|      96 | 0x1CB2      |        7346 |
+|      97 | 0x1CB3      |        7347 |
+|      98 | 0x1CB4      |        7348 |
+|      99 | 0x1CB6      |        7350 |
+|     100 | 0x1CB7      |        7351 |
+|     101 | 0x1CB8      |        7352 |
+|     102 | 0x1CB9      |        7353 |
+|     103 | 0x1CBA      |        7354 |
+|     104 | 0x1CBB      |        7355 |
+|     105 | 0x1E11      |        7697 |
+|     106 | 0x1E12      |        7698 |
 
 ## String References
 
-- **7276**: Old wounds ache on days like these. Nobody wants to give in to the march of years, I guess...
-- **7277**: And you arrre?
-- **7278**: Weren't you the one under orderrrs from Chieftainness Perih Vashai?
-- **7279**: The Mithran Tracker from the homeland was here a moment ago. She was asking about the incident that occurred twenty years ago concerning the Chieftainness of the Fire Tribe and her daughter...
-- **7280**: Do you know of the Fire Tribe? They are a Mithran tribe that lives on the southern continent.
-- **7281**: It was some thirty years ago now. The chieftainness of that tribe committed the sin of slaying a fellow tribal member.
-- **7282**: She spent ten years atoning for that sin in the homeland... When war broke out here, she escaped from prison, crossing over to this continent with her daughter in tow.
-- **7283**: At the time, I was performing the dangerous duty of escorting people and supplies between Jeuno and Windurst.
-- **7284**: One day, a Mithran woman and her child slipped into our company.
-- **7286**: However, things didn't go as planned. We were discovered by a party of Yagudo in the Meriphataud Mountains.
-- **7288**: The prison of Oztroja was a terrible place. All we could do was shiver in the biting cold.
-- **7289**: At regular intervals, the Yagudo would come to drag one of us from the prison.
-- **7290**: Finally, the Chieftainness of the Fire Tribe was taken away, leaving her daughter behind. Only the two of us were left...
-- **7291**: ......
-- **7292**: Not long after that, we were saved by the elite warriors stationed in the Meriphataud Mountains, led by Perih Vashai herself.
-- **7293**: I took the child back to Jeuno, but she grew thinner by the day from misery and exhaustion.
-- **7294**: ...Her body was interred in the Eldieme Necropolis, along with the remains of the other races who had died in the war.
-- **7295**: The daughter of the sinner could not be buried in the lands of the Mithra...
-- **7302**: Most of the old Mithra living near Windurst are of the southern Fire Tribe.
-- **7303**: However, they would not harborrr the sinner out of pity. A sin must be atoned for, and this cannot be avoided.
-- **7304**: It would seem the Mithran Tracker was not satisfied with the way things turned out.
-- **7305**: I don't believe she can return home without first discovering the whereabouts of the Bow of Light.
-- **7306**: You must be... You are the one who is in the employ of Chieftainness Perih Vashai?
-- **7307**: The Mithran Tracker appears to be widening her search for information on the Bow of Light.
-- **7309**: You...?
-- **7310**: That isn't...? Then, you must be the one taken in by Heavens Tower...
-- **7312**: ......
-- **7314**: It is the earring that was switched for the other when you were but a child. ...Yes, that is your original $1.
-- **7316**: Yes, by your mother's request... To help the sinner's daughter escape, your mother gave her earring to the sinner.
-- **7319**: You know the story of the company that was held captive in Castle Oztroja twenty years ago, and how the sinner and her child were with them?
-- **7320**: Perih Vashai was deeply troubled over whether or not to send the child back to the homeland.
-- **7321**: One night, the chieftainness came to me. We would report to the homeland that the sinner and her daughter had both perished in Castle Oztroja at the hands of the Yagudo.
-- **7323**: Yes. At the time, we were unaware of the scent that lingers on the sinner. We believed that everything would be solved.
-- **7326**: At this point, you wouldn't believe anything I had to say. What I can tell you is...
-- **7327**: The $1 that you hold, the one that really belongs to you... The other half can be found in the Northlands.
-- **7329**: I do not know if the one who holds it still lives. I know only that twenty years ago, she traveled with the escort to the Northlands.
-- **7331**: <Player>. I have one thing to ask of you.
-- **7332**: Could you possibly bring me $2? I've heard it's very useful.
-- **7333**: If you can bring me that, I will tell you a little more of the story.
-- **7334**: Could you possibly bring me $2? I've heard it's very useful.
-- **7335**: If you can bring me that, I will tell you a little more of the story.
-- **7336**: Thank you, adventurer. With this in hand, that child's long, hard journey will be made a little easier.
-- **7337**: Now... Let me tell you what really happened those twenty years ago.
-- **7338**: When we were imprisoned by the Yagudo in the Meriphataud Mountains, only the Fire Tribe chieftainness, Nhev Befrathi, managed to escape.
-- **7339**: However, this left her daughter, Syu Befrathi, in the clutches of the Yagudo...
-- **7340**: To save her daughter, Chieftainness Nhev Befrathi ran into the nearby camp of Perih Vashai and her elite warriors.
-- **7341**: For the chieftainness, this act was akin to jumping right back into prison, but it was the only option she had left for her daughter's rescue.
-- **7342**: After hearing the words of Nhev Befrathi, Perih Vashai immediately led her warriors on a raid of Castle Oztroja, not waiting for the dawn.
-- **7343**: The power of the Bow of Light was incredible to behold. Even so, many warriors lost their lives that day.
-- **7344**: When we finally escaped from the castle, only a handful of warriors remained.
-- **7345**: In that battle, Chieftainness Perih Vashai lost the light, and Nhev Befrathi, her life.
-- **7346**: Left behind were the sinner's daughter, Syu Befrathi, and the Bow of Light... We did our utmost to deceive everyone.
-- **7347**: ...... Semih Lafihna must have learned something in the Northlands by now.
-- **7348**: Please travel to the Northlands and look for a cave near Castle Zvahl.
-- **7349**: And if you happen to meet someone there, please give her my letter.
-- **7350**: Please travel to the Northlands and look for a cave near Castle Zvahl.
-- **7351**: And if you happen to meet someone there, please give her my letter.
-- **7352**: Has Semih Lafihna discovered who her mother is?
-- **7353**: This is not a matter that can be resolved with a few simple words from me. The long years have shackled her heart in chains.
-- **7354**: It will take both time and a strong will for her to free herself from them.
+- **7277**: Old wounds ache on days like these. Nobody wants to give in to the march of years, I guess...
+- **7278**: And you arrre?
+- **7279**: Weren't you the one under orderrrs from Chieftainness Perih Vashai?
+- **7280**: The Mithran Tracker from the homeland was here a moment ago. She was asking about the incident that occurred twenty years ago concerning the Chieftainness of the Fire Tribe and her daughter...
+- **7281**: Do you know of the Fire Tribe? They are a Mithran tribe that lives on the southern continent.
+- **7282**: It was some thirty years ago now. The chieftainness of that tribe committed the sin of slaying a fellow tribal member.
+- **7283**: She spent ten years atoning for that sin in the homeland... When war broke out here, she escaped from prison, crossing over to this continent with her daughter in tow.
+- **7284**: At the time, I was performing the dangerous duty of escorting people and supplies between Jeuno and Windurst.
+- **7285**: One day, a Mithran woman and her child slipped into our company.
+- **7287**: However, things didn't go as planned. We were discovered by a party of Yagudo in the Meriphataud Mountains.
+- **7289**: The prison of Oztroja was a terrible place. All we could do was shiver in the biting cold.
+- **7290**: At regular intervals, the Yagudo would come to drag one of us from the prison.
+- **7291**: Finally, the Chieftainness of the Fire Tribe was taken away, leaving her daughter behind. Only the two of us were left...
+- **7292**: ......
+- **7293**: Not long after that, we were saved by the elite warriors stationed in the Meriphataud Mountains, led by Perih Vashai herself.
+- **7294**: I took the child back to Jeuno, but she grew thinner by the day from misery and exhaustion.
+- **7295**: ...Her body was interred in the Eldieme Necropolis, along with the remains of the other races who had died in the war.
+- **7296**: The daughter of the sinner could not be buried in the lands of the Mithra...
+- **7303**: Most of the old Mithra living near Windurst are of the southern Fire Tribe.
+- **7304**: However, they would not harborrr the sinner out of pity. A sin must be atoned for, and this cannot be avoided.
+- **7305**: It would seem the Mithran Tracker was not satisfied with the way things turned out.
+- **7306**: I don't believe she can return home without first discovering the whereabouts of the Bow of Light.
+- **7307**: You must be... You are the one who is in the employ of Chieftainness Perih Vashai?
+- **7308**: The Mithran Tracker appears to be widening her search for information on the Bow of Light.
+- **7310**: You...?
+- **7311**: That isn't...? Then, you must be the one taken in by Heavens Tower...
+- **7313**: ......
+- **7315**: It is the earring that was switched for the other when you were but a child. ...Yes, that is your original $1.
+- **7317**: Yes, by your mother's request... To help the sinner's daughter escape, your mother gave her earring to the sinner.
+- **7320**: You know the story of the company that was held captive in Castle Oztroja twenty years ago, and how the sinner and her child were with them?
+- **7321**: Perih Vashai was deeply troubled over whether or not to send the child back to the homeland.
+- **7322**: One night, the chieftainness came to me. We would report to the homeland that the sinner and her daughter had both perished in Castle Oztroja at the hands of the Yagudo.
+- **7324**: Yes. At the time, we were unaware of the scent that lingers on the sinner. We believed that everything would be solved.
+- **7327**: At this point, you wouldn't believe anything I had to say. What I can tell you is...
+- **7328**: The $1 that you hold, the one that really belongs to you... The other half can be found in the Northlands.
+- **7330**: I do not know if the one who holds it still lives. I know only that twenty years ago, she traveled with the escort to the Northlands.
+- **7332**: <Player>. I have one thing to ask of you.
+- **7333**: Could you possibly bring me $2? I've heard it's very useful.
+- **7334**: If you can bring me that, I will tell you a little more of the story.
+- **7335**: Could you possibly bring me $2? I've heard it's very useful.
+- **7336**: If you can bring me that, I will tell you a little more of the story.
+- **7337**: Thank you, adventurer. With this in hand, that child's long, hard journey will be made a little easier.
+- **7338**: Now... Let me tell you what really happened those twenty years ago.
+- **7339**: When we were imprisoned by the Yagudo in the Meriphataud Mountains, only the Fire Tribe chieftainness, Nhev Befrathi, managed to escape.
+- **7340**: However, this left her daughter, Syu Befrathi, in the clutches of the Yagudo...
+- **7341**: To save her daughter, Chieftainness Nhev Befrathi ran into the nearby camp of Perih Vashai and her elite warriors.
+- **7342**: For the chieftainness, this act was akin to jumping right back into prison, but it was the only option she had left for her daughter's rescue.
+- **7343**: After hearing the words of Nhev Befrathi, Perih Vashai immediately led her warriors on a raid of Castle Oztroja, not waiting for the dawn.
+- **7344**: The power of the Bow of Light was incredible to behold. Even so, many warriors lost their lives that day.
+- **7345**: When we finally escaped from the castle, only a handful of warriors remained.
+- **7346**: In that battle, Chieftainness Perih Vashai lost the light, and Nhev Befrathi, her life.
+- **7347**: Left behind were the sinner's daughter, Syu Befrathi, and the Bow of Light... We did our utmost to deceive everyone.
+- **7348**: ...... Semih Lafihna must have learned something in the Northlands by now.
+- **7349**: Please travel to the Northlands and look for a cave near Castle Zvahl.
+- **7350**: And if you happen to meet someone there, please give her my letter.
+- **7351**: Please travel to the Northlands and look for a cave near Castle Zvahl.
+- **7352**: And if you happen to meet someone there, please give her my letter.
+- **7353**: Has Semih Lafihna discovered who her mother is?
+- **7354**: This is not a matter that can be resolved with a few simple words from me. The long years have shackled her heart in chains.
+- **7355**: It will take both time and a strong will for her to free herself from them.
 
 ## Events
 
@@ -446,7 +446,7 @@
   1: 0x0056 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0057 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0058 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7276*)
+  4: 0x005F [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
     → "Old wounds ache on days like these. Nobody wants to give in to the march of years, I guess..."
   5: 0x0062 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0063 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -673,7 +673,7 @@
  93: 0x02F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  94: 0x0303 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x11)
  95: 0x030A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x12)
- 96: 0x0311 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7285*]:
+ 96: 0x0311 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7286*]:
     → "We set out for Jeuno, not realizing it was the chieftainness and her daughter who had joined us."
  97: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0319 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17797198/0x010F904E))
@@ -703,7 +703,7 @@
 122: 0x03AB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Chocobo03 (ID: 17797215/0x010F905F), tag_num=0x06)
 123: 0x03B2 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17797198/0x010F904E), tag_num=0x09)
 124: 0x03B9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x13)
-125: 0x03C0 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7287*]:
+125: 0x03C0 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7288*]:
     → "The Yagudo quickly overwhelmed us, and we were taken to Castle Oztroja and held as prisoners."
 126: 0x03C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x03C8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17797198/0x010F904E))
@@ -982,7 +982,7 @@
 144: 0x07AC [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=1*)
 145: 0x07B1 [0x4A] LocalPlayer looks at Shikaree M (ID: 17797198/0x010F904E)
 146: 0x07BA [0x1E] EventEntity looks at Shikaree M (ID: 17797198/0x010F904E) and starts talking
-147: 0x07BF [0x2B] Shikaree M (ID: 17797198/0x010F904E) [7296*]:
+147: 0x07BF [0x2B] Shikaree M (ID: 17797198/0x010F904E) [7297*]:
     → "I go now to check the verrracity of that story, to see for my own eyes the body of Syu Befrathi, daughter of Chieftainness Nhev Befrathi."
 148: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x07C7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17797198/0x010F904E))
@@ -1065,7 +1065,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=7277*)
+  0: 0x098F [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
     → "And you arrre?"
   1: 0x0992 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0993 [0x00] END_REQSTACK()
@@ -1090,7 +1090,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x0994 [0x1D] PRINT_EVENT_MESSAGE(message_id=7278*)
+  0: 0x0994 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
     → "Weren't you the one under orderrrs from Chieftainness Perih Vashai?"
   1: 0x0997 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0998 [0x00] END_REQSTACK()
@@ -1115,7 +1115,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x0999 [0x1D] PRINT_EVENT_MESSAGE(message_id=7279*)
+  0: 0x0999 [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
     → "The Mithran Tracker from the homeland was here a moment ago. She was asking about the incident that occurred twenty years ago concerning the Chieftainness of the Fire Tribe and her daughter..."
   1: 0x099C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x099D [0x00] END_REQSTACK()
@@ -1141,10 +1141,10 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x099E [0x1D] PRINT_EVENT_MESSAGE(message_id=7280*)
+  0: 0x099E [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
     → "Do you know of the Fire Tribe? They are a Mithran tribe that lives on the southern continent."
   1: 0x09A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7281*)
+  2: 0x09A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
     → "It was some thirty years ago now. The chieftainness of that tribe committed the sin of slaying a fellow tribal member."
   3: 0x09A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09A6 [0x00] END_REQSTACK()
@@ -1169,7 +1169,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7282*)
+  0: 0x09A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
     → "She spent ten years atoning for that sin in the homeland... When war broke out here, she escaped from prison, crossing over to this continent with her daughter in tow."
   1: 0x09AA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09AB [0x00] END_REQSTACK()
@@ -1195,7 +1195,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7283*)
+  0: 0x09AC [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
     → "At the time, I was performing the dangerous duty of escorting people and supplies between Jeuno and Windurst."
   1: 0x09AF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09B0 [0x00] END_REQSTACK()
@@ -1220,7 +1220,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7284*)
+  0: 0x09B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7285*)
     → "One day, a Mithran woman and her child slipped into our company."
   1: 0x09B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09B5 [0x00] END_REQSTACK()
@@ -1245,7 +1245,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7286*)
+  0: 0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7287*)
     → "However, things didn't go as planned. We were discovered by a party of Yagudo in the Meriphataud Mountains."
   1: 0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09BA [0x00] END_REQSTACK()
@@ -1271,10 +1271,10 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7288*)
+  0: 0x09BB [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
     → "The prison of Oztroja was a terrible place. All we could do was shiver in the biting cold."
   1: 0x09BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x09BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7289*)
+  2: 0x09BF [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
     → "At regular intervals, the Yagudo would come to drag one of us from the prison."
   3: 0x09C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09C3 [0x00] END_REQSTACK()
@@ -1299,7 +1299,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7290*)
+  0: 0x09C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
     → "Finally, the Chieftainness of the Fire Tribe was taken away, leaving her daughter behind. Only the two of us were left..."
   1: 0x09C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09C8 [0x00] END_REQSTACK()
@@ -1324,7 +1324,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7291*)
+  0: 0x09C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
     → "......"
   1: 0x09CC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09CD [0x00] END_REQSTACK()
@@ -1350,7 +1350,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+  0: 0x09CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "Not long after that, we were saved by the elite warriors stationed in the Meriphataud Mountains, led by Perih Vashai herself."
   1: 0x09D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09D2 [0x00] END_REQSTACK()
@@ -1375,7 +1375,7 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
+  0: 0x09D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
     → "I took the child back to Jeuno, but she grew thinner by the day from misery and exhaustion."
   1: 0x09D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x09D7 [0x00] END_REQSTACK()
@@ -1401,10 +1401,10 @@ SUBROUTINE_0918:
 #### Opcodes
 
 ```
-  0: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7294*)
+  0: 0x09D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
     → "...Her body was interred in the Eldieme Necropolis, along with the remains of the other races who had died in the war."
   1: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x09DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7295*)
+  2: 0x09DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
     → "The daughter of the sinner could not be buried in the lands of the Mithra..."
   3: 0x09DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09E0 [0x00] END_REQSTACK()
@@ -1435,10 +1435,10 @@ SUBROUTINE_0918:
   1: 0x09E6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x09E7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x09E8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
+  4: 0x09EF [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
     → "Most of the old Mithra living near Windurst are of the southern Fire Tribe."
   5: 0x09F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7303*)
+  6: 0x09F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
     → "However, they would not harborrr the sinner out of pity. A sin must be atoned for, and this cannot be avoided."
   7: 0x09F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x09F7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -1472,10 +1472,10 @@ SUBROUTINE_0918:
   1: 0x0A07 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0A08 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0A09 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7304*)
+  4: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
     → "It would seem the Mithran Tracker was not satisfied with the way things turned out."
   5: 0x0A13 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0A14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7305*)
+  6: 0x0A14 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
     → "I don't believe she can return home without first discovering the whereabouts of the Bow of Light."
   7: 0x0A17 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0A18 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -1631,7 +1631,7 @@ SUBROUTINE_0AB1:
 SUBROUTINE_0B27:
  36: 0x0B27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
  37: 0x0B38 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17797199/0x010F904F), tag_num=0x24)
- 38: 0x0B3F [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7308*]:
+ 38: 0x0B3F [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7309*]:
     → "<Player>, what are you doing here? This is my prrroblem, and I'll thank you to keep your paws out of it!"
  39: 0x0B46 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0B47 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17797199/0x010F904F))
@@ -1690,7 +1690,7 @@ SUBROUTINE_0B27:
  93: 0x0CFA [0x52] END_LOAD_SCHEDULER: End scheduler "s128" with entities [LocalPlayer, LocalPlayer], work=16*
  94: 0x0D09 [0x34] LOAD_UNLOAD_ZONE(zone_id=244*)
  95: 0x0D0C [0x77] SET_EVENT_TIME_WEATHER(hour=12*, weather=1*)
- 96: 0x0D11 [0x1D] PRINT_EVENT_MESSAGE(message_id=7319*)
+ 96: 0x0D11 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
     → "You know the story of the company that was held captive in Castle Oztroja twenty years ago, and how the sinner and her child were with them?"
  97: 0x0D14 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0D15 [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17797198/0x010F904E), tag_num=0x17)
@@ -1720,15 +1720,15 @@ SUBROUTINE_0B27:
 122: 0x0D99 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Semih Lafihna (ID: 17797199/0x010F904F), tag_num=0x23)
 123: 0x0DA0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
 124: 0x0DB1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-125: 0x0DC2 [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7324*]:
+125: 0x0DC2 [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7325*]:
     → "Using my mother's earring to help the sinner...how can I forgive something like that?"
 126: 0x0DC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x0DCA [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7325*]:
+127: 0x0DCA [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7326*]:
     → "All of this was done for the Bow of Light carried by the sinner, rrright?"
 128: 0x0DD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0DD2 [0x52] END_LOAD_SCHEDULER: End scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=16*
 130: 0x0DE1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
-131: 0x0DF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7326*)
+131: 0x0DF2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
     → "At this point, you wouldn't believe anything I had to say. What I can tell you is..."
 132: 0x0DF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0DF6 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=16*
@@ -1750,7 +1750,7 @@ SUBROUTINE_0B27:
 149: 0x0E82 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=16*
 150: 0x0E91 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
 151: 0x0EA2 [0x27] REQ_SET(priority=0x0B, entity_id=Semih Lafihna (ID: 17797199/0x010F904F), tag_num=0x25)
-152: 0x0EA9 [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7330*]:
+152: 0x0EA9 [0x2B] Semih Lafihna (ID: 17797199/0x010F904F) [7331*]:
     → "I have no rrreal desire to see a mother who would leave me to travel to the Northlands, but since I have come this far, I will go. Both you and the chieftainness seem to wish it so."
 153: 0x0EB0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0EB1 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Semih Lafihna (ID: 17797199/0x010F904F))
@@ -1800,10 +1800,10 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=7306*)
+  0: 0x0F81 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
     → "You must be... You are the one who is in the employ of Chieftainness Perih Vashai?"
   1: 0x0F84 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0F85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7307*)
+  2: 0x0F85 [0x1D] PRINT_EVENT_MESSAGE(message_id=7308*)
     → "The Mithran Tracker appears to be widening her search for information on the Bow of Light."
   3: 0x0F88 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0F89 [0x00] END_REQSTACK()
@@ -1828,7 +1828,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7309*)
+  0: 0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
     → "You...?"
   1: 0x0F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F8E [0x00] END_REQSTACK()
@@ -1854,7 +1854,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7310*)
+  0: 0x0F8F [0x1D] PRINT_EVENT_MESSAGE(message_id=7311*)
     → "That isn't...? Then, you must be the one taken in by Heavens Tower..."
   1: 0x0F92 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0F93 [0x00] END_REQSTACK()
@@ -1881,7 +1881,7 @@ SUBROUTINE_0B27:
 
 ```
   0: 0x0F94 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=7312*)
+  1: 0x0F9A [0x1D] PRINT_EVENT_MESSAGE(message_id=7313*)
     → "......"
   2: 0x0F9D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0F9E [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1907,7 +1907,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7314*)
+  0: 0x0FA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7315*)
     → "It is the earring that was switched for the other when you were but a child. ...Yes, that is your original $1."
   1: 0x0FA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FA9 [0x00] END_REQSTACK()
@@ -1932,7 +1932,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FAA [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  0: 0x0FAA [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "Yes, by your mother's request... To help the sinner's daughter escape, your mother gave her earring to the sinner."
   1: 0x0FAD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FAE [0x00] END_REQSTACK()
@@ -1958,7 +1958,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
+  0: 0x0FAF [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "Perih Vashai was deeply troubled over whether or not to send the child back to the homeland."
   1: 0x0FB2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FB3 [0x00] END_REQSTACK()
@@ -1983,7 +1983,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
+  0: 0x0FB4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7322*)
     → "One night, the chieftainness came to me. We would report to the homeland that the sinner and her daughter had both perished in Castle Oztroja at the hands of the Yagudo."
   1: 0x0FB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FB8 [0x00] END_REQSTACK()
@@ -2008,7 +2008,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7323*)
+  0: 0x0FB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
     → "Yes. At the time, we were unaware of the scent that lingers on the sinner. We believed that everything would be solved."
   1: 0x0FBC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FBD [0x00] END_REQSTACK()
@@ -2034,7 +2034,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7327*)
+  0: 0x0FBE [0x1D] PRINT_EVENT_MESSAGE(message_id=7328*)
     → "The $1 that you hold, the one that really belongs to you... The other half can be found in the Northlands."
   1: 0x0FC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FC2 [0x00] END_REQSTACK()
@@ -2059,7 +2059,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7329*)
+  0: 0x0FC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7330*)
     → "I do not know if the one who holds it still lives. I know only that twenty years ago, she traveled with the escort to the Northlands."
   1: 0x0FC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FC7 [0x00] END_REQSTACK()
@@ -2084,7 +2084,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7331*)
+  0: 0x0FC8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
     → "<Player>. I have one thing to ask of you."
   1: 0x0FCB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FCC [0x00] END_REQSTACK()
@@ -2110,7 +2110,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FCD [0x1D] PRINT_EVENT_MESSAGE(message_id=7332*)
+  0: 0x0FCD [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
     → "Could you possibly bring me $2? I've heard it's very useful."
   1: 0x0FD0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FD1 [0x00] END_REQSTACK()
@@ -2135,7 +2135,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x0FD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7333*)
+  0: 0x0FD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
     → "If you can bring me that, I will tell you a little more of the story."
   1: 0x0FD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0FD6 [0x00] END_REQSTACK()
@@ -2166,10 +2166,10 @@ SUBROUTINE_0B27:
   1: 0x0FDC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0FDD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0FDE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x0FE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7334*)
+  4: 0x0FE5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
     → "Could you possibly bring me $2? I've heard it's very useful."
   5: 0x0FE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7335*)
+  6: 0x0FE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
     → "If you can bring me that, I will tell you a little more of the story."
   7: 0x0FEC [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0FED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -2320,7 +2320,7 @@ SUBROUTINE_0B27:
  75: 0x1236 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=16*
  76: 0x1245 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
  77: 0x1256 [0x27] REQ_SET(priority=0x0B, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x2D)
- 78: 0x125D [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7348*]:
+ 78: 0x125D [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7349*]:
     → "Please travel to the Northlands and look for a cave near Castle Zvahl."
  79: 0x1264 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x1265 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D))
@@ -2389,7 +2389,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7336*)
+  0: 0x12D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
     → "Thank you, adventurer. With this in hand, that child's long, hard journey will be made a little easier."
   1: 0x12D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12D9 [0x00] END_REQSTACK()
@@ -2414,7 +2414,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7337*)
+  0: 0x12DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
     → "Now... Let me tell you what really happened those twenty years ago."
   1: 0x12DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12DE [0x00] END_REQSTACK()
@@ -2440,7 +2440,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+  0: 0x12DF [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "When we were imprisoned by the Yagudo in the Meriphataud Mountains, only the Fire Tribe chieftainness, Nhev Befrathi, managed to escape."
   1: 0x12E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12E3 [0x00] END_REQSTACK()
@@ -2465,7 +2465,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+  0: 0x12E4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "However, this left her daughter, Syu Befrathi, in the clutches of the Yagudo..."
   1: 0x12E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12E8 [0x00] END_REQSTACK()
@@ -2490,7 +2490,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
+  0: 0x12E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
     → "To save her daughter, Chieftainness Nhev Befrathi ran into the nearby camp of Perih Vashai and her elite warriors."
   1: 0x12EC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12ED [0x00] END_REQSTACK()
@@ -2516,7 +2516,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+  0: 0x12EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "For the chieftainness, this act was akin to jumping right back into prison, but it was the only option she had left for her daughter's rescue."
   1: 0x12F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12F2 [0x00] END_REQSTACK()
@@ -2541,7 +2541,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
+  0: 0x12F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
     → "After hearing the words of Nhev Befrathi, Perih Vashai immediately led her warriors on a raid of Castle Oztroja, not waiting for the dawn."
   1: 0x12F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12F7 [0x00] END_REQSTACK()
@@ -2566,7 +2566,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7343*)
+  0: 0x12F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
     → "The power of the Bow of Light was incredible to behold. Even so, many warriors lost their lives that day."
   1: 0x12FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x12FC [0x00] END_REQSTACK()
@@ -2592,7 +2592,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x12FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7344*)
+  0: 0x12FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
     → "When we finally escaped from the castle, only a handful of warriors remained."
   1: 0x1300 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1301 [0x00] END_REQSTACK()
@@ -2617,7 +2617,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7345*)
+  0: 0x1302 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
     → "In that battle, Chieftainness Perih Vashai lost the light, and Nhev Befrathi, her life."
   1: 0x1305 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1306 [0x00] END_REQSTACK()
@@ -2642,7 +2642,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x1307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7346*)
+  0: 0x1307 [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
     → "Left behind were the sinner's daughter, Syu Befrathi, and the Bow of Light... We did our utmost to deceive everyone."
   1: 0x130A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x130B [0x00] END_REQSTACK()
@@ -2668,7 +2668,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x130C [0x1D] PRINT_EVENT_MESSAGE(message_id=7347*)
+  0: 0x130C [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
     → "...... Semih Lafihna must have learned something in the Northlands by now."
   1: 0x130F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1310 [0x00] END_REQSTACK()
@@ -2693,7 +2693,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x1311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7348*)
+  0: 0x1311 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
     → "Please travel to the Northlands and look for a cave near Castle Zvahl."
   1: 0x1314 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x1315 [0x00] END_REQSTACK()
@@ -2718,7 +2718,7 @@ SUBROUTINE_0B27:
 #### Opcodes
 
 ```
-  0: 0x1316 [0x1D] PRINT_EVENT_MESSAGE(message_id=7349*)
+  0: 0x1316 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
     → "And if you happen to meet someone there, please give her my letter."
   1: 0x1319 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x131A [0x00] END_REQSTACK()
@@ -2749,10 +2749,10 @@ SUBROUTINE_0B27:
   1: 0x1320 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1321 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1322 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x1329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7350*)
+  4: 0x1329 [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
     → "Please travel to the Northlands and look for a cave near Castle Zvahl."
   5: 0x132C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x132D [0x1D] PRINT_EVENT_MESSAGE(message_id=7351*)
+  6: 0x132D [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
     → "And if you happen to meet someone there, please give her my letter."
   7: 0x1330 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x1331 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -2787,13 +2787,13 @@ SUBROUTINE_0B27:
   1: 0x1341 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1342 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1343 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  4: 0x134A [0x1D] PRINT_EVENT_MESSAGE(message_id=7352*)
+  4: 0x134A [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
     → "Has Semih Lafihna discovered who her mother is?"
   5: 0x134D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x134E [0x1D] PRINT_EVENT_MESSAGE(message_id=7353*)
+  6: 0x134E [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
     → "This is not a matter that can be resolved with a few simple words from me. The long years have shackled her heart in chains."
   7: 0x1351 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x1352 [0x1D] PRINT_EVENT_MESSAGE(message_id=7354*)
+  8: 0x1352 [0x1D] PRINT_EVENT_MESSAGE(message_id=7355*)
     → "It will take both time and a strong will for her to free herself from them."
   9: 0x1355 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1356 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)
@@ -2828,10 +2828,10 @@ SUBROUTINE_0B27:
   2: 0x1367 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x1368 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x1369 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x02)
-  5: 0x1370 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7696*]:
+  5: 0x1370 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7697*]:
     → "Why, this brings back memorrries. The daughters of the Mithran Tracker I met twenty years ago have also chosen the life of the sin hunter."
   6: 0x1377 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x1378 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7697*]:
+  7: 0x1378 [0x2B] Koh Lenbalalako (ID: 17797197/0x010F904D) [7698*]:
     → "I pray that they, too, find the path of justice."
   8: 0x137F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x1380 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Koh Lenbalalako (ID: 17797197/0x010F904D), tag_num=0x03)

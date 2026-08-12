@@ -36,18 +36,18 @@
 |       8 | 0x003C      |          60 |
 |       9 | 0x001E      |          30 |
 |      10 | 0x0005      |           5 |
-|      11 | 0x1E55      |        7765 |
-|      12 | 0x1E56      |        7766 |
-|      13 | 0x1E57      |        7767 |
+|      11 | 0x1E56      |        7766 |
+|      12 | 0x1E57      |        7767 |
+|      13 | 0x1E58      |        7768 |
 |      14 | 0x032F      |         815 |
-|      15 | 0x1E58      |        7768 |
-|      16 | 0x1E59      |        7769 |
-|      17 | 0x1E5A      |        7770 |
-|      18 | 0x1E5B      |        7771 |
+|      15 | 0x1E59      |        7769 |
+|      16 | 0x1E5A      |        7770 |
+|      17 | 0x1E5B      |        7771 |
+|      18 | 0x1E5C      |        7772 |
 |      19 | 0x0006      |           6 |
-|      20 | 0x1E5C      |        7772 |
+|      20 | 0x1E5D      |        7773 |
 |      21 | 0x033B      |         827 |
-|      22 | 0x1E5D      |        7773 |
+|      22 | 0x1E5E      |        7774 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x0001      |           1 |
 |      25 | 0x0041      |          65 |
@@ -58,23 +58,23 @@
 |      30 | 0x007F      |         127 |
 |      31 | 0x00D7      |         215 |
 |      32 | 0x00F0      |         240 |
-|      33 | 0x1E5E      |        7774 |
+|      33 | 0x1E5F      |        7775 |
 |      34 | 0x005A      |          90 |
-|      35 | 0x1E5F      |        7775 |
-|      36 | 0x1E60      |        7776 |
-|      37 | 0x1E61      |        7777 |
-|      38 | 0x1E62      |        7778 |
-|      39 | 0x1E63      |        7779 |
+|      35 | 0x1E60      |        7776 |
+|      36 | 0x1E61      |        7777 |
+|      37 | 0x1E62      |        7778 |
+|      38 | 0x1E63      |        7779 |
+|      39 | 0x1E64      |        7780 |
 |      40 | 0x0BB8      |        3000 |
-|      41 | 0x1E64      |        7780 |
-|      42 | 0x1E65      |        7781 |
-|      43 | 0x1E66      |        7782 |
+|      41 | 0x1E65      |        7781 |
+|      42 | 0x1E66      |        7782 |
+|      43 | 0x1E67      |        7783 |
 |      44 | 0x037E      |         894 |
 |      45 | 0x00C4      |         196 |
 |      46 | 0x0008      |           8 |
-|      47 | 0x1E67      |        7783 |
-|      48 | 0x1E68      |        7784 |
-|      49 | 0x1E69      |        7785 |
+|      47 | 0x1E68      |        7784 |
+|      48 | 0x1E69      |        7785 |
+|      49 | 0x1E6A      |        7786 |
 |      50 | 0x0315      |         789 |
 |      51 | 0x018C      |         396 |
 |      52 | 0x0096      |         150 |
@@ -488,34 +488,34 @@
  67: 0x01FC [0x52] END_LOAD_SCHEDULER: End scheduler "s110" with entities [EventEntity, EventEntity], work=197*
  68: 0x020B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s111" with entities [EventEntity, EventEntity], work=[197*, 0*]
  69: 0x021C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Tiyaash (ID: 17051878/0x010430E6), Tiyaash (ID: 17051878/0x010430E6)], work=5*
- 70: 0x022B [0x2B] Tiyaash (ID: 17051878/0x010430E6) [7765*]:
+ 70: 0x022B [0x2B] Tiyaash (ID: 17051878/0x010430E6) [7766*]:
     → "Captain!"
  71: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0233 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [Wabjahl (ID: 17051880/0x010430E8), Wabjahl (ID: 17051880/0x010430E8)], work=5*
- 73: 0x0242 [0x2B] Wabjahl (ID: 17051880/0x010430E8) [7766*]:
+ 73: 0x0242 [0x2B] Wabjahl (ID: 17051880/0x010430E8) [7767*]:
     → "Please help us!"
  74: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x024A [0x27] REQ_SET(priority=0x05, entity_id=Mishhar (ID: 17051872/0x010430E0), tag_num=0x04)
  76: 0x0251 [0x52] END_LOAD_SCHEDULER: End scheduler "s111" with entities [EventEntity, EventEntity], work=197*
  77: 0x0260 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s112" with entities [EventEntity, EventEntity], work=[197*, 0*]
- 78: 0x0271 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7767*]:
+ 78: 0x0271 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7768*]:
     → "What is going on here?"
  79: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x0279 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Mishhar (ID: 17051872/0x010430E0))
  81: 0x027F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Kajeel Ja (ID: 17051873/0x010430E1), Kajeel Ja (ID: 17051873/0x010430E1)], work=815*
- 82: 0x028E [0x2B] Kajeel Ja (ID: 17051873/0x010430E1) [7768*]:
+ 82: 0x028E [0x2B] Kajeel Ja (ID: 17051873/0x010430E1) [7769*]:
     → "Defeated, boss is. Betrayed us, you have."
  83: 0x0295 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0296 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Kajeel Ja (ID: 17051873/0x010430E1), Kajeel Ja (ID: 17051873/0x010430E1)], work=815*
  85: 0x02A5 [0x52] END_LOAD_SCHEDULER: End scheduler "s112" with entities [EventEntity, EventEntity], work=197*
  86: 0x02B4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s113" with entities [EventEntity, EventEntity], work=[197*, 0*]
- 87: 0x02C5 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7769*]:
+ 87: 0x02C5 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7770*]:
     → "What!?"
  88: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x02CD [0x1C] WAIT(60* ticks)
  90: 0x02D0 [0x52] END_LOAD_SCHEDULER: End scheduler "s113" with entities [EventEntity, EventEntity], work=197*
  91: 0x02DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s114" with entities [EventEntity, EventEntity], work=[197*, 0*]
- 92: 0x02F0 [0x2B] Minfram (ID: 17051870/0x010430DE) [7770*]:
+ 92: 0x02F0 [0x2B] Minfram (ID: 17051870/0x010430DE) [7771*]:
     → "Isween...and now you. You mercenaries just love buddying up with the beastmen, don't you?"
  93: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x02F8 [0x4A] Mishhar (ID: 17051872/0x010430E0) looks at Minfram (ID: 17051870/0x010430DE)
@@ -524,21 +524,21 @@
  97: 0x0313 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s115" with entities [EventEntity, EventEntity], work=[197*, 0*]
  98: 0x0324 [0x79] Minfram (ID: 17051870/0x010430DE) looks at Mishhar (ID: 17051872/0x010430E0) (Basic look)
  99: 0x032E [0x1C] WAIT(60* ticks)
-100: 0x0331 [0x2B] Minfram (ID: 17051870/0x010430DE) [7771*]:
+100: 0x0331 [0x2B] Minfram (ID: 17051870/0x010430DE) [7772*]:
     → "I told you justice would be served, and I'd be the one to serve it, didn't I? I killed him..."
 101: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0339 [0x52] END_LOAD_SCHEDULER: End scheduler "s115" with entities [EventEntity, EventEntity], work=197*
 103: 0x0348 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s122" with entities [EventEntity, EventEntity], work=[197*, 0*]
 104: 0x0359 [0x6E] Mishhar (ID: 17051872/0x010430E0) uses emote 6*
 105: 0x0360 [0x99] Wait for Mishhar (ID: 17051872/0x010430E0) animation to complete
-106: 0x0365 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7772*]:
+106: 0x0365 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7773*]:
     → "No... All that work was for nothing."
 107: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x036D [0x1C] WAIT(60* ticks)
 109: 0x0370 [0x52] END_LOAD_SCHEDULER: End scheduler "s122" with entities [EventEntity, EventEntity], work=197*
 110: 0x037F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s123" with entities [EventEntity, EventEntity], work=[197*, 0*]
 111: 0x0390 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "srd0" with entities [Kajeel Ja (ID: 17051873/0x010430E1), Kajeel Ja (ID: 17051873/0x010430E1)], work=827*
-112: 0x039F [0x2B] Kajeel Ja (ID: 17051873/0x010430E1) [7773*]:
+112: 0x039F [0x2B] Kajeel Ja (ID: 17051873/0x010430E1) [7774*]:
     → "For punishment, prepare yourselves!"
 113: 0x03A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x03A7 [0x1C] WAIT(60* ticks)
@@ -614,7 +614,7 @@
 184: 0x05C2 [0x1C] WAIT(240* ticks)
 185: 0x05C5 [0x52] END_LOAD_SCHEDULER: End scheduler "s124" with entities [EventEntity, EventEntity], work=197*
 186: 0x05D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s125" with entities [EventEntity, EventEntity], work=[197*, 0*]
-187: 0x05E5 [0x2B] Rafsween (ID: 17051871/0x010430DF) [7774*]:
+187: 0x05E5 [0x2B] Rafsween (ID: 17051871/0x010430DF) [7775*]:
     → "Finally...defeated him. We should be safe for a while now..."
 188: 0x05EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x05ED [0x1C] WAIT(60* ticks)
@@ -628,7 +628,7 @@
 197: 0x063A [0x1C] WAIT(90* ticks)
 198: 0x063D [0x4A] Mishhar (ID: 17051872/0x010430E0) looks at Golaal Ja (ID: 17051876/0x010430E4)
 199: 0x0646 [0x1C] WAIT(30* ticks)
-200: 0x0649 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7775*]:
+200: 0x0649 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7776*]:
     → "I would not bet on it..."
 201: 0x0650 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0651 [0x27] REQ_SET(priority=0x05, entity_id=Kajeel Ja (ID: 17051873/0x010430E1), tag_num=0x05)
@@ -645,7 +645,7 @@
 213: 0x06A8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s127" with entities [EventEntity, EventEntity], work=197*
 214: 0x06B7 [0x1C] WAIT(30* ticks)
 215: 0x06BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s128" with entities [EventEntity, EventEntity], work=[197*, 0*]
-216: 0x06CB [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7776*]:
+216: 0x06CB [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7777*]:
     → "Boss!"
 217: 0x06D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x06D3 [0x27] REQ_SET(priority=0x05, entity_id=Golaal Ja (ID: 17051876/0x010430E4), tag_num=0x05)
@@ -663,21 +663,21 @@
 230: 0x0730 [0x1C] WAIT(60* ticks)
 231: 0x0733 [0x4A] Unnamed NPC (ID: 17051874/0x010430E2) looks at Mishhar (ID: 17051872/0x010430E0)
 232: 0x073C [0x4A] Kajeel Ja (ID: 17051873/0x010430E1) looks at Mishhar (ID: 17051872/0x010430E0)
-233: 0x0745 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7777*]:
+233: 0x0745 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7778*]:
     → "Boss not moving..."
 234: 0x074C [0x23] WAIT_FOR_DIALOG_INTERACTION
 235: 0x074D [0x52] END_LOAD_SCHEDULER: End scheduler "s129" with entities [EventEntity, EventEntity], work=197*
 236: 0x075C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s130" with entities [EventEntity, EventEntity], work=[197*, 0*]
 237: 0x076D [0x4A] Unnamed NPC (ID: 17051875/0x010430E3) looks at Mishhar (ID: 17051872/0x010430E0)
 238: 0x0776 [0x1C] WAIT(30* ticks)
-239: 0x0779 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7778*]:
+239: 0x0779 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7779*]:
     → "Boss not breathing..."
 240: 0x0780 [0x23] WAIT_FOR_DIALOG_INTERACTION
 241: 0x0781 [0x52] END_LOAD_SCHEDULER: End scheduler "s130" with entities [EventEntity, EventEntity], work=197*
 242: 0x0790 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s131" with entities [EventEntity, EventEntity], work=[197*, 0*]
 243: 0x07A1 [0x4A] Golaal Ja (ID: 17051876/0x010430E4) looks at Mishhar (ID: 17051872/0x010430E0)
 244: 0x07AA [0x1C] WAIT(30* ticks)
-245: 0x07AD [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7779*]:
+245: 0x07AD [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7780*]:
     → "Boss has fallen... You, Golaal Ja will not forgive!"
 246: 0x07B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x07B5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s131" with entities [EventEntity, EventEntity], work=197*
@@ -701,18 +701,18 @@
 265: 0x0849 [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17051874/0x010430E2)
 266: 0x084F [0x4E] SET_ENTITY_HIDE_FLAG: Hide Unnamed NPC (ID: 17051875/0x010430E3)
 267: 0x0855 [0x27] REQ_SET(priority=0x05, entity_id=Mishhar (ID: 17051872/0x010430E0), tag_num=0x06)
-268: 0x085C [0x2B] Mishhar (ID: 17051872/0x010430E0) [7780*]:
+268: 0x085C [0x2B] Mishhar (ID: 17051872/0x010430E0) [7781*]:
     → "Wait... I fully understand your anger."
 269: 0x0863 [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x0864 [0x2A] GET_REQ_LEVEL(level=5, entity_id=Mishhar (ID: 17051872/0x010430E0))
 271: 0x086A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Golaal Ja (ID: 17051876/0x010430E4), Golaal Ja (ID: 17051876/0x010430E4)], work=815*
-272: 0x0879 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7781*]:
+272: 0x0879 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7782*]:
     → "Understand, you do not. Feeling of losing boss, you do not know!"
 273: 0x0880 [0x23] WAIT_FOR_DIALOG_INTERACTION
 274: 0x0881 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Golaal Ja (ID: 17051876/0x010430E4), Golaal Ja (ID: 17051876/0x010430E4)], work=815*
 275: 0x0890 [0x52] END_LOAD_SCHEDULER: End scheduler "s133" with entities [EventEntity, EventEntity], work=197*
 276: 0x089F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s249" with entities [EventEntity, EventEntity], work=[197*, 0*]
-277: 0x08B0 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7782*]:
+277: 0x08B0 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7783*]:
     → "In that case..."
 278: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x08B8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "qs00" with entities [Mishhar (ID: 17051872/0x010430E0), Mishhar (ID: 17051872/0x010430E0)], work=894*
@@ -723,12 +723,12 @@
 284: 0x08ED [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s134" with entities [EventEntity, EventEntity], work=[197*, 0*]
 285: 0x08FE [0x1C] WAIT(8* ticks)
 286: 0x0901 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s166" with entities [EventEntity, EventEntity], work=[196*, 0*]
-287: 0x0912 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7783*]:
+287: 0x0912 [0x2B] Mishhar (ID: 17051872/0x010430E0) [7784*]:
     → "I will present you with our boss's life. Please let everyone else go."
 288: 0x0919 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x091A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s134" with entities [EventEntity, EventEntity], work=197*
 290: 0x0929 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s135" with entities [EventEntity, EventEntity], work=[197*, 0*]
-291: 0x093A [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7784*]:
+291: 0x093A [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7785*]:
     → "Boss's life, you would give!?"
 292: 0x0941 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0942 [0x1C] WAIT(60* ticks)
@@ -741,7 +741,7 @@
 300: 0x0992 [0x1C] WAIT(120* ticks)
 301: 0x0995 [0x79] Golaal Ja (ID: 17051876/0x010430E4) looks at Mishhar (ID: 17051872/0x010430E0) (Basic look)
 302: 0x099F [0x1C] WAIT(60* ticks)
-303: 0x09A2 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7785*]:
+303: 0x09A2 [0x2B] Golaal Ja (ID: 17051876/0x010430E4) [7786*]:
     → "Boss's life, I will take. Other people, they go free. A deal, we have."
 304: 0x09A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 305: 0x09AA [0x52] END_LOAD_SCHEDULER: End scheduler "s137" with entities [EventEntity, EventEntity], work=197*

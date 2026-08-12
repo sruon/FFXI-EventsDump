@@ -28,69 +28,69 @@
 |       2 | 0x0002      |           2 |
 |       3 | 0x0003      |           3 |
 |       4 | 0x0004      |           4 |
-|       5 | 0x4AF8      |       19192 |
+|       5 | 0x4AF9      |       19193 |
 |       6 | 0x0005      |           5 |
-|       7 | 0x4AFA      |       19194 |
+|       7 | 0x4AFB      |       19195 |
 |       8 | 0x1000      |        4096 |
 |       9 | 0x196A      |        6506 |
 |      10 | 0xC350      |       50000 |
-|      11 | 0x4B06      |       19206 |
-|      12 | 0x4B07      |       19207 |
-|      13 | 0x4B08      |       19208 |
-|      14 | 0x4B0A      |       19210 |
-|      15 | 0x4B0B      |       19211 |
-|      16 | 0x4B0C      |       19212 |
-|      17 | 0x4B0D      |       19213 |
-|      18 | 0x4B09      |       19209 |
-|      19 | 0x4B0E      |       19214 |
-|      20 | 0x4B0F      |       19215 |
-|      21 | 0x4B10      |       19216 |
-|      22 | 0x4B11      |       19217 |
+|      11 | 0x4B07      |       19207 |
+|      12 | 0x4B08      |       19208 |
+|      13 | 0x4B09      |       19209 |
+|      14 | 0x4B0B      |       19211 |
+|      15 | 0x4B0C      |       19212 |
+|      16 | 0x4B0D      |       19213 |
+|      17 | 0x4B0E      |       19214 |
+|      18 | 0x4B0A      |       19210 |
+|      19 | 0x4B0F      |       19215 |
+|      20 | 0x4B10      |       19216 |
+|      21 | 0x4B11      |       19217 |
+|      22 | 0x4B12      |       19218 |
 |      23 | 0x40000000  |  1073741824 |
-|      24 | 0x4AF9      |       19193 |
-|      25 | 0x4B17      |       19223 |
-|      26 | 0x4B19      |       19225 |
+|      24 | 0x4AFA      |       19194 |
+|      25 | 0x4B18      |       19224 |
+|      26 | 0x4B1A      |       19226 |
 |      27 | 0x0010      |          16 |
 |      28 | 0x001F      |          31 |
 |      29 | 0x0008      |           8 |
 |      30 | 0x000F      |          15 |
 |      31 | 0xFFFFFFFF  |  4294967295 |
 |      32 | 0x0009      |           9 |
-|      33 | 0x4AFB      |       19195 |
+|      33 | 0x4AFC      |       19196 |
 |      34 | 0x0006      |           6 |
 |      35 | 0x0007      |           7 |
 |      36 | 0x000C      |          12 |
 |      37 | 0x0012      |          18 |
 |      38 | 0x0020      |          32 |
-|      39 | 0x4AFC      |       19196 |
+|      39 | 0x4AFD      |       19197 |
 |      40 | 0x000A      |          10 |
 |      41 | 0x000B      |          11 |
-|      42 | 0x4AFD      |       19197 |
-|      43 | 0x4AFE      |       19198 |
+|      42 | 0x4AFE      |       19198 |
+|      43 | 0x4AFF      |       19199 |
 |      44 | 0x0017      |          23 |
-|      45 | 0x4B00      |       19200 |
+|      45 | 0x4B01      |       19201 |
 |      46 | 0x0014      |          20 |
 |      47 | 0x000D      |          13 |
 |      48 | 0x000E      |          14 |
 |      49 | 0x0011      |          17 |
 |      50 | 0x0013      |          19 |
-|      51 | 0x4B01      |       19201 |
-|      52 | 0x4B02      |       19202 |
-|      53 | 0x4B04      |       19204 |
-|      54 | 0x4B05      |       19205 |
+|      51 | 0x4B02      |       19202 |
+|      52 | 0x4B03      |       19203 |
+|      53 | 0x4B05      |       19205 |
+|      54 | 0x4B06      |       19206 |
 |      55 | 0x0018      |          24 |
 |      56 | 0x001B      |          27 |
 |      57 | 0x001C      |          28 |
-|      58 | 0x1B55      |        6997 |
-|      59 | 0x1B7B      |        7035 |
-|      60 | 0x1B59      |        7001 |
-|      61 | 0x1B58      |        7000 |
-|      62 | 0x1B57      |        6999 |
-|      63 | 0x1B56      |        6998 |
-|      64 | 0x4B16      |       19222 |
-|      65 | 0x4B14      |       19220 |
-|      66 | 0x4B15      |       19221 |
-|      67 | 0x4B18      |       19224 |
+|      58 | 0x1B56      |        6998 |
+|      59 | 0x1B7C      |        7036 |
+|      60 | 0x1B5A      |        7002 |
+|      61 | 0x1B59      |        7001 |
+|      62 | 0x1B58      |        7000 |
+|      63 | 0x1B57      |        6999 |
+|      64 | 0x4B17      |       19223 |
+|      65 | 0x4B15      |       19221 |
+|      66 | 0x4B16      |       19222 |
+|      67 | 0x4B19      |       19225 |
 |      68 | 0x24C4      |        9412 |
 |      69 | 0x24C5      |        9413 |
 |      70 | 0x24C6      |        9414 |
@@ -341,40 +341,40 @@
 
 ## String References
 
-- **6997**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **6998**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **6999**: $4 x $0 $5 x $0$0 $6 x $0
-- **7000**: $4 x $0 $5 x $0$0
-- **7001**: $4 x $0
-- **7035**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **19192**: Here we sell items from the various guildmasters and also exchange crafter points for your convenience.
-- **19193**: Sorry, we don't allow amateur craftsmen to take advantage of our services.
-- **19194**: What would you like to do? [Purchase a crafting kit./Exchange crafter points././Special materials./Check the deliverable items./Ask about the delivery process./Never mind.]
-- **19197**: You want to purchase $31? It will cost $! gil for $ of them.
-- **19198**: Are you sure about this? [Yes, I'm sure./On second thought...]
-- **19200**: Which item? ($30 crafter points) [# ($10 CP)./$1 ($11 CP)./$2 ($12 CP)./$3 ($13 CP)./$4 ($14 CP)./$5 ($15 CP)./$6 ($16 CP)./$7 ($17 CP)./$8 ($18 CP)./$9 ($19 CP)./I changed my mind.]
-- **19201**: Do you want to purchase the $20 for $21 crafter points?
-- **19202**: Do you want to make the trade? [Yes./No.]
-- **19204**: These are the items that we are taking deliveries of. Simply select an item whenever you want to check the recipe.
-- **19205**: Deliverable Items [#./$1./$2./$3./$4./$5./$6./$7./$8./I'm finished here.]
-- **19206**: This is where you can deliver the crafting sets that the guildmasters have created.
-- **19207**: By delivering items, you can earn crafter points that can be exchanged for special ingredients.
-- **19208**: Crafting sets can be made by using special crystals known as analysis crystals, crystals which that enable you to set the quality level.
-- **19209**: The higher the quality level of the crafting set created, the more crafter points you'll earn, so try to make the highest quality sets you can manage.
-- **19210**: Analysis crystals can be obtained from the person in charge of accepting deliveries in exchange for guild points.
-- **19211**: Analysis crystals cannot be used to create items other than the ones in the crafting sets.
-- **19212**: Please note that you can't use $1 in place of $0.
-- **19213**: The ingredients required to make a crafting set can be checked by referring to the deliverable items list.
-- **19214**: At the present time, you can receive up to a maximum of $2 guild point[/s].
-- **19215**: Any points beyond that from making deliveries will be lost, so keep that in mind.
-- **19216**: Crafting sets delivered here will be sold as crafting kits until the next day at 10:00 a.m. (Vana'diel time).
-- **19217**: It helps the junior members of the guild, so keep on making those deliveries.
-- **19220**: We now have available $0 for the low cost of $1 gil per.
-- **19221**: I am willing to part with up to $2.
-- **19222**: My apologies, but our stock is limited and I cannot sell you any more at this time.
-- **19223**: What do you want to do? [Obtain a kit./Check the scheduled quantity./Ship the item./Nothing.]
-- **19224**: Which do you want? [#./$1./$2./$3./$4./$5./$6./$7./$8./Exit.]
-- **19225**: What is the quality? (1-1000)
+- **6998**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **6999**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **7000**: $4 x $0 $5 x $0$0 $6 x $0
+- **7001**: $4 x $0 $5 x $0$0
+- **7002**: $4 x $0
+- **7036**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **19193**: Here we sell items from the various guildmasters and also exchange crafter points for your convenience.
+- **19194**: Sorry, we don't allow amateur craftsmen to take advantage of our services.
+- **19195**: What would you like to do? [Purchase a crafting kit./Exchange crafter points././Special materials./Check the deliverable items./Ask about the delivery process./Never mind.]
+- **19198**: You want to purchase $31? It will cost $! gil for $ of them.
+- **19199**: Are you sure about this? [Yes, I'm sure./On second thought...]
+- **19201**: Which item? ($30 crafter points) [# ($10 CP)./$1 ($11 CP)./$2 ($12 CP)./$3 ($13 CP)./$4 ($14 CP)./$5 ($15 CP)./$6 ($16 CP)./$7 ($17 CP)./$8 ($18 CP)./$9 ($19 CP)./I changed my mind.]
+- **19202**: Do you want to purchase the $20 for $21 crafter points?
+- **19203**: Do you want to make the trade? [Yes./No.]
+- **19205**: These are the items that we are taking deliveries of. Simply select an item whenever you want to check the recipe.
+- **19206**: Deliverable Items [#./$1./$2./$3./$4./$5./$6./$7./$8./I'm finished here.]
+- **19207**: This is where you can deliver the crafting sets that the guildmasters have created.
+- **19208**: By delivering items, you can earn crafter points that can be exchanged for special ingredients.
+- **19209**: Crafting sets can be made by using special crystals known as analysis crystals, crystals which that enable you to set the quality level.
+- **19210**: The higher the quality level of the crafting set created, the more crafter points you'll earn, so try to make the highest quality sets you can manage.
+- **19211**: Analysis crystals can be obtained from the person in charge of accepting deliveries in exchange for guild points.
+- **19212**: Analysis crystals cannot be used to create items other than the ones in the crafting sets.
+- **19213**: Please note that you can't use $1 in place of $0.
+- **19214**: The ingredients required to make a crafting set can be checked by referring to the deliverable items list.
+- **19215**: At the present time, you can receive up to a maximum of $2 guild point[/s].
+- **19216**: Any points beyond that from making deliveries will be lost, so keep that in mind.
+- **19217**: Crafting sets delivered here will be sold as crafting kits until the next day at 10:00 a.m. (Vana'diel time).
+- **19218**: It helps the junior members of the guild, so keep on making those deliveries.
+- **19221**: We now have available $0 for the low cost of $1 gil per.
+- **19222**: I am willing to part with up to $2.
+- **19223**: My apologies, but our stock is limited and I cannot sell you any more at this time.
+- **19224**: What do you want to do? [Obtain a kit./Check the scheduled quantity./Ship the item./Nothing.]
+- **19225**: Which do you want? [#./$1./$2./$3./$4./$5./$6./$7./$8./Exit.]
+- **19226**: What is the quality? (1-1000)
 
 ## Events
 
@@ -793,13 +793,13 @@
   2: 0x002F [0x00] END_REQSTACK()
 
 SUBROUTINE_01BD:
-  3: 0x01BD [0x24] CREATE_DIALOG(message_id=19223*, default_option=0*, option_flags=0*)
+  3: 0x01BD [0x24] CREATE_DIALOG(message_id=19224*, default_option=0*, option_flags=0*)
     → "What do you want to do? [Obtain a kit./Check the scheduled quantity./Ship the item./Nothing.]"
   4: 0x01C4 [0x25] WAIT_DIALOG_SELECT()
   5: 0x01C5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0207
   6: 0x01CD [0x1A] CALL_SUBROUTINE(address=0x0C12)
   7: 0x01D0 [0x02] IF !(ExtData[1]->WorkLocal[4] < 0*) GOTO 0x01FF
-  8: 0x01D8 [0x48] [System] [19225*]:
+  8: 0x01D8 [0x48] [System] [19226*]:
     → "What is the quality? (1-1000)"
   9: 0x01DB [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 4*])
  10: 0x01E1 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[1])
@@ -835,7 +835,7 @@ SUBROUTINE_0C1C:
  32: 0x0C45 [0x0B] ExtData[1]->WorkLocal[3]++
  33: 0x0C48 [0x01] GOTO 0x0C1C
  34: 0x0C4B [0x06] ExtData[1]->WorkLocal[4] = 0
- 35: 0x0C4E [0x24] CREATE_DIALOG(message_id=19224*, default_option=0*, option_flags=0*)
+ 35: 0x0C4E [0x24] CREATE_DIALOG(message_id=19225*, default_option=0*, option_flags=0*)
     → "Which do you want? [#./$1./$2./$3./$4./$5./$6./$7./$8./Exit.]"
  36: 0x0C55 [0x25] WAIT_DIALOG_SELECT()
  37: 0x0C56 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C66
@@ -893,7 +893,7 @@ SUBROUTINE_0CFB:
      0x006F [0x03] ExtData[1]->WorkLocal[40] = Work_Zone[8]
      0x0074 [0x03] ExtData[1]->WorkLocal[38] = Work_Zone[9]
      0x0079 [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=19192*)
+     0x007E [0x1D] PRINT_EVENT_MESSAGE(message_id=19193*)
     → "Here we sell items from the various guildmasters and also exchange crafter points for your convenience."
      0x0081 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0082 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x0097
@@ -915,7 +915,7 @@ SUBROUTINE_0CFB:
      0x00DE [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[5], bit_index_work_offset=5*, condition_work_offset=1*)
      0x00E5 [0x05] ExtData[1]->WorkLocal[41] = 1
      0x00E8 [0x02] IF !(ExtData[1]->WorkLocal[41] == 0*) GOTO 0x01AE
-     0x00F0 [0x24] CREATE_DIALOG(message_id=19194*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[5])
+     0x00F0 [0x24] CREATE_DIALOG(message_id=19195*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[5])
     → "What would you like to do? [Purchase a crafting kit./Exchange crafter points././Special materials./Check the deliverable items./Ask about the delivery process./Never mind.]"
      0x00F7 [0x25] WAIT_DIALOG_SELECT()
      0x00F8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010B
@@ -941,40 +941,40 @@ SUBROUTINE_0CFB:
      0x015C [0x03] Work_Zone[2] = 4096*
      0x0161 [0x03] Work_Zone[3] = 6506*
      0x0166 [0x03] Work_Zone[4] = 50000*
-     0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=19206*)
+     0x016B [0x1D] PRINT_EVENT_MESSAGE(message_id=19207*)
     → "This is where you can deliver the crafting sets that the guildmasters have created."
      0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=19207*)
+     0x016F [0x1D] PRINT_EVENT_MESSAGE(message_id=19208*)
     → "By delivering items, you can earn crafter points that can be exchanged for special ingredients."
      0x0172 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=19208*)
+     0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=19209*)
     → "Crafting sets can be made by using special crystals known as analysis crystals, crystals which that enable you to set the quality level."
      0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=19210*)
+     0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=19211*)
     → "Analysis crystals can be obtained from the person in charge of accepting deliveries in exchange for guild points."
      0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=19211*)
+     0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=19212*)
     → "Analysis crystals cannot be used to create items other than the ones in the crafting sets."
      0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=19212*)
+     0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=19213*)
     → "Please note that you can't use $1 in place of $0."
      0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=19213*)
+     0x0183 [0x1D] PRINT_EVENT_MESSAGE(message_id=19214*)
     → "The ingredients required to make a crafting set can be checked by referring to the deliverable items list."
      0x0186 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=19209*)
+     0x0187 [0x1D] PRINT_EVENT_MESSAGE(message_id=19210*)
     → "The higher the quality level of the crafting set created, the more crafter points you'll earn, so try to make the highest quality sets you can manage."
      0x018A [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=19214*)
+     0x018B [0x1D] PRINT_EVENT_MESSAGE(message_id=19215*)
     → "At the present time, you can receive up to a maximum of $2 guild point[/s]."
      0x018E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=19215*)
+     0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=19216*)
     → "Any points beyond that from making deliveries will be lost, so keep that in mind."
      0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=19216*)
+     0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=19217*)
     → "Crafting sets delivered here will be sold as crafting kits until the next day at 10:00 a.m. (Vana'diel time)."
      0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=19217*)
+     0x0197 [0x1D] PRINT_EVENT_MESSAGE(message_id=19218*)
     → "It helps the junior members of the guild, so keep on making those deliveries."
      0x019A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x019B [0x03] ExtData[1]->WorkLocal[42] = 5*
@@ -984,10 +984,10 @@ SUBROUTINE_0CFB:
      0x01AB [0x01] GOTO 0x00E8
      0x01AE [0x1B] RETURN
      0x01AF [0x1E] EventEntity looks at LocalPlayer and starts talking
-     0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=19192*)
+     0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=19193*)
     → "Here we sell items from the various guildmasters and also exchange crafter points for your convenience."
      0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19193*)
+     0x01B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=19194*)
     → "Sorry, we don't allow amateur craftsmen to take advantage of our services."
      0x01BB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x01BC [0x1B] RETURN
@@ -1148,10 +1148,10 @@ SUBROUTINE_0CFB:
      0x059A [0x03] Work_Zone_1700[24] = 0*
      0x059F [0x03] Work_Zone_1700[25] = 0*
      0x05A4 [0x02] IF !(Work_Zone_1700[23] <= 0*) GOTO 0x05DF
-     0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=19197*)
+     0x05AC [0x1D] PRINT_EVENT_MESSAGE(message_id=19198*)
     → "You want to purchase $31? It will cost $! gil for $ of them."
      0x05AF [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x05B0 [0x24] CREATE_DIALOG(message_id=19198*, default_option=1*, option_flags=0*)
+     0x05B0 [0x24] CREATE_DIALOG(message_id=19199*, default_option=1*, option_flags=0*)
     → "Are you sure about this? [Yes, I'm sure./On second thought...]"
      0x05B7 [0x25] WAIT_DIALOG_SELECT()
      0x05B8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05DF
@@ -1195,7 +1195,7 @@ SUBROUTINE_0CFB:
      0x068D [0x03] ExtData[1]->WorkLocal[4] = 4294967295*
      0x0692 [0x03] Work_Zone_1700[22] = ExtData[1]->WorkLocal[15]
      0x0697 [0x1A] CALL_SUBROUTINE(address=0x088A)
-     0x069A [0x24] CREATE_DIALOG(message_id=19200*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[7])
+     0x069A [0x24] CREATE_DIALOG(message_id=19201*, default_option=ExtData[1]->WorkLocal[46], option_flags=ExtData[1]->WorkLocal[7])
     → "Which item? ($30 crafter points) [# ($10 CP)./$1 ($11 CP)./$2 ($12 CP)./$3 ($13 CP)./$4 ($14 CP)./$5 ($15 CP)./$6 ($16 CP)./$7 ($17 CP)./$8 ($18 CP)./$9 ($19 CP)./I changed my mind.]"
      0x06A1 [0x25] WAIT_DIALOG_SELECT()
      0x06A2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06C6
@@ -1254,10 +1254,10 @@ SUBROUTINE_0CFB:
      0x0818 [0x02] IF !(ExtData[1]->WorkLocal[9] <= 0*) GOTO 0x0858
      0x0820 [0x03] Work_Zone_1700[12] = ExtData[1]->WorkLocal[8]
      0x0825 [0x03] Work_Zone_1700[13] = ExtData[1]->WorkLocal[9]
-     0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=19201*)
+     0x082A [0x1D] PRINT_EVENT_MESSAGE(message_id=19202*)
     → "Do you want to purchase the $20 for $21 crafter points?"
      0x082D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x082E [0x24] CREATE_DIALOG(message_id=19202*, default_option=1*, option_flags=0*)
+     0x082E [0x24] CREATE_DIALOG(message_id=19203*, default_option=1*, option_flags=0*)
     → "Do you want to make the trade? [Yes./No.]"
      0x0835 [0x25] WAIT_DIALOG_SELECT()
      0x0836 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0858
@@ -1290,7 +1290,7 @@ SUBROUTINE_0CFB:
      0x08EC [0x0B] ExtData[1]->WorkLocal[3]++
      0x08EF [0x01] GOTO 0x08AC
      0x08F2 [0x1B] RETURN
-     0x08F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=19204*)
+     0x08F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=19205*)
     → "These are the items that we are taking deliveries of. Simply select an item whenever you want to check the recipe."
      0x08F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x08F7 [0x05] ExtData[1]->WorkLocal[47] = 1
@@ -1301,7 +1301,7 @@ SUBROUTINE_0CFB:
      0x0917 [0x9D] Table[0x0CFC] = ExtData[1]->WorkLocal[0] // p3=ExtData[1]->WorkLocal[3], p4=0x8020
      0x0921 [0x0B] ExtData[1]->WorkLocal[3]++
      0x0924 [0x01] GOTO 0x0905
-     0x0927 [0x24] CREATE_DIALOG(message_id=19205*, default_option=ExtData[1]->WorkLocal[48], option_flags=0*)
+     0x0927 [0x24] CREATE_DIALOG(message_id=19206*, default_option=ExtData[1]->WorkLocal[48], option_flags=0*)
     → "Deliverable Items [#./$1./$2./$3./$4./$5./$6./$7./$8./I'm finished here.]"
      0x092E [0x25] WAIT_DIALOG_SELECT()
      0x092F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x093F
@@ -1364,11 +1364,11 @@ SUBROUTINE_0CFB:
      0x0A9F [0x03] Work_Zone[7] = 0*
      0x0AA4 [0x03] Work_Zone[8] = 2*
      0x0AA9 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0AB8
-     0x0AB1 [0x48] [System] [6997*]:
+     0x0AB1 [0x48] [System] [6998*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
      0x0AB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AB5 [0x01] GOTO 0x0ABC
-     0x0AB8 [0x48] [System] [7035*]:
+     0x0AB8 [0x48] [System] [7036*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
      0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0ABC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[19]
@@ -1380,21 +1380,21 @@ SUBROUTINE_0CFB:
      0x0ADA [0x03] Work_Zone[8] = ExtData[1]->WorkLocal[29]
      0x0ADF [0x03] Work_Zone[9] = ExtData[1]->WorkLocal[30]
      0x0AE4 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0AF3
-     0x0AEC [0x48] [System] [7001*]:
+     0x0AEC [0x48] [System] [7002*]:
     → "$4 x $0"
      0x0AEF [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AF0 [0x01] GOTO 0x0B79
      0x0AF3 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0B02
-     0x0AFB [0x48] [System] [7000*]:
+     0x0AFB [0x48] [System] [7001*]:
     → "$4 x $0 $5 x $0$0"
      0x0AFE [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0AFF [0x01] GOTO 0x0B79
      0x0B02 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0B11
-     0x0B0A [0x48] [System] [6999*]:
+     0x0B0A [0x48] [System] [7000*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
      0x0B0D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B0E [0x01] GOTO 0x0B79
-     0x0B11 [0x48] [System] [6998*]:
+     0x0B11 [0x48] [System] [6999*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
      0x0B14 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B15 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[23]
@@ -1408,21 +1408,21 @@ SUBROUTINE_0CFB:
      0x0B3D [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0B48
      0x0B45 [0x01] GOTO 0x0B79
      0x0B48 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0B57
-     0x0B50 [0x48] [System] [7001*]:
+     0x0B50 [0x48] [System] [7002*]:
     → "$4 x $0"
      0x0B53 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B54 [0x01] GOTO 0x0B79
      0x0B57 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0B66
-     0x0B5F [0x48] [System] [7000*]:
+     0x0B5F [0x48] [System] [7001*]:
     → "$4 x $0 $5 x $0$0"
      0x0B62 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B63 [0x01] GOTO 0x0B79
      0x0B66 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0B75
-     0x0B6E [0x48] [System] [6999*]:
+     0x0B6E [0x48] [System] [7000*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
      0x0B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B72 [0x01] GOTO 0x0B79
-     0x0B75 [0x48] [System] [6998*]:
+     0x0B75 [0x48] [System] [6999*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
      0x0B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B79 [0x01] GOTO 0x08FA
@@ -1431,14 +1431,14 @@ SUBROUTINE_0CFB:
      0x0B82 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[40]
      0x0B87 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[38]
      0x0B8C [0x02] IF !(ExtData[1]->WorkLocal[38] == 0*) GOTO 0x0B99
-     0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=19222*)
+     0x0B94 [0x1D] PRINT_EVENT_MESSAGE(message_id=19223*)
     → "My apologies, but our stock is limited and I cannot sell you any more at this time."
      0x0B97 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0B98 [0x1B] RETURN
-     0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=19220*)
+     0x0B99 [0x1D] PRINT_EVENT_MESSAGE(message_id=19221*)
     → "We now have available $0 for the low cost of $1 gil per."
      0x0B9C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0B9D [0x1D] PRINT_EVENT_MESSAGE(message_id=19221*)
+     0x0B9D [0x1D] PRINT_EVENT_MESSAGE(message_id=19222*)
     → "I am willing to part with up to $2."
      0x0BA0 [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 3*])
      0x0BA6 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=ExtData[1]->WorkLocal[0])
@@ -1450,10 +1450,10 @@ SUBROUTINE_0CFB:
      0x0BC1 [0x03] Work_Zone_1700[24] = ExtData[1]->WorkLocal[0]
      0x0BC6 [0x03] Work_Zone_1700[25] = ExtData[1]->WorkLocal[40]
      0x0BCB [0x14] Work_Zone_1700[25] *= ExtData[1]->WorkLocal[0]
-     0x0BD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19197*)
+     0x0BD0 [0x1D] PRINT_EVENT_MESSAGE(message_id=19198*)
     → "You want to purchase $31? It will cost $! gil for $ of them."
      0x0BD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0BD4 [0x24] CREATE_DIALOG(message_id=19198*, default_option=1*, option_flags=0*)
+     0x0BD4 [0x24] CREATE_DIALOG(message_id=19199*, default_option=1*, option_flags=0*)
     → "Are you sure about this? [Yes, I'm sure./On second thought...]"
      0x0BDB [0x25] WAIT_DIALOG_SELECT()
      0x0BDC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BE7
@@ -1484,7 +1484,7 @@ SUBROUTINE_0CFB:
      0x0D3B [0x17] 9412* = cos(9413*) * 9414*
      0x0D42 [0x47] WAIT_PLAYER_POS_UPDATE
      0x0D44 [0x48] [System] [0x4980]:
-    → "Don't let ignorance cloud your judgment!"
+    → "Open your eyes and witness the truth!"
      0x0D47 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2152431690/0x804B804A))
      0x0D4C [0x4C] EventEntity->StatusEvent = 8 // Open door
      0x0D4D [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))

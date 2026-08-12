@@ -47,19 +47,19 @@
 |      15 | 0xFFFF9795  |  4294940565 |
 |      16 | 0x0C0A      |        3082 |
 |      17 | 0x532A      |       21290 |
-|      18 | 0x2CCF      |       11471 |
-|      19 | 0x2CD0      |       11472 |
-|      20 | 0x2CD4      |       11476 |
-|      21 | 0x2D82      |       11650 |
-|      22 | 0x2D83      |       11651 |
+|      18 | 0x2CD0      |       11472 |
+|      19 | 0x2CD1      |       11473 |
+|      20 | 0x2CD5      |       11477 |
+|      21 | 0x2D83      |       11651 |
+|      22 | 0x2D84      |       11652 |
 
 ## String References
 
-- **11471**: Kakka 'fraid tooo come out from places of hiding.
-- **11472**: Kakka want tooo beee with Nadeee. Nadeee understand heart of Kakka.
-- **11476**: But Nadeee go away. Nadeee leeeve Kakka alone behind cart of carrying...
-- **11650**: Everybodeee have, but Kakkaroon no have! Sisiroon is everybodeee, but Kakkaroon is nobodeee!
-- **11651**: <Sigh>...
+- **11472**: Kakka 'fraid tooo come out from places of hiding.
+- **11473**: Kakka want tooo beee with Nadeee. Nadeee understand heart of Kakka.
+- **11477**: But Nadeee go away. Nadeee leeeve Kakka alone behind cart of carrying...
+- **11651**: Everybodeee have, but Kakkaroon no have! Sisiroon is everybodeee, but Kakkaroon is nobodeee!
+- **11652**: <Sigh>...
 
 ## Events
 
@@ -312,13 +312,13 @@
 
 ```
   0: 0x006B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11471*)
+  1: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=11472*)
     → "Kakka 'fraid tooo come out from places of hiding."
   2: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=11472*)
+  3: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=11473*)
     → "Kakka want tooo beee with Nadeee. Nadeee understand heart of Kakka."
   4: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=11476*)
+  5: 0x0078 [0x1D] PRINT_EVENT_MESSAGE(message_id=11477*)
     → "But Nadeee go away. Nadeee leeeve Kakka alone behind cart of carrying..."
   6: 0x007B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x007C [0x21] END_EVENT
@@ -346,10 +346,10 @@
 
 ```
   0: 0x007E [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=11650*)
+  1: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=11651*)
     → "Everybodeee have, but Kakkaroon no have! Sisiroon is everybodeee, but Kakkaroon is nobodeee!"
   2: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=11651*)
+  3: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=11652*)
     → "<Sigh>..."
   4: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x008B [0x21] END_EVENT

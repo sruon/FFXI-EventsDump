@@ -32,8 +32,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x003B      |          59 |
-|       1 | 0x3AE8      |       15080 |
-|       2 | 0x3AE9      |       15081 |
+|       1 | 0x3AE9      |       15081 |
+|       2 | 0x3AEA      |       15082 |
 |       3 | 0x0028      |          40 |
 |       4 | 0x005A      |          90 |
 |       5 | 0x05F9      |        1529 |
@@ -46,12 +46,12 @@
 |      12 | 0x0000      |           0 |
 |      13 | 0x000F      |          15 |
 |      14 | 0x001E      |          30 |
-|      15 | 0x3B15      |       15125 |
-|      16 | 0x3B16      |       15126 |
-|      17 | 0x3B17      |       15127 |
+|      15 | 0x3B16      |       15126 |
+|      16 | 0x3B17      |       15127 |
+|      17 | 0x3B18      |       15128 |
 |      18 | 0x0078      |         120 |
-|      19 | 0x3B37      |       15159 |
-|      20 | 0x3B38      |       15160 |
+|      19 | 0x3B38      |       15160 |
+|      20 | 0x3B39      |       15161 |
 
 ## Events
 
@@ -103,10 +103,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x79] Khoto Rokkorah (ID: 17752345/0x010EE119) looks at LocalPlayer (Basic look)
   2: 0x0010 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Khoto Rokkorah (ID: 17752345/0x010EE119), Khoto Rokkorah (ID: 17752345/0x010EE119)], work=59*
-  3: 0x001F [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15080*]:
+  3: 0x001F [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15081*]:
     → "Hello! Have you come to hear a tale?"
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0027 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15081*]:
+  5: 0x0027 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15082*]:
     → "I'm a storyteller, and I often entertain the children here with fantastic yarns and magical myths."
   6: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002F [0x1C] WAIT(40* ticks)
@@ -365,15 +365,15 @@
   1: 0x0159 [0x1C] WAIT(30* ticks)
   2: 0x015C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Khoto Rokkorah (ID: 17752345/0x010EE119), Khoto Rokkorah (ID: 17752345/0x010EE119)], work=59*
   3: 0x016B [0x79] Khoto Rokkorah (ID: 17752345/0x010EE119) looks at LocalPlayer (Basic look)
-  4: 0x0175 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15125*]:
+  4: 0x0175 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15126*]:
     → "I still can't get "The Adventures of Babban Ny Mheillea" out of my mind."
   5: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017D [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15126*]:
+  6: 0x017D [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15127*]:
     → "The realistic harshness makes me wonder..."
   7: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0185 [0x1C] WAIT(40* ticks)
   9: 0x0188 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Khoto Rokkorah (ID: 17752345/0x010EE119), Khoto Rokkorah (ID: 17752345/0x010EE119)], work=59*
- 10: 0x0197 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15127*]:
+ 10: 0x0197 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15128*]:
     → "Could this fable be based on a true story...?"
  11: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x019F [0x1C] WAIT(120* ticks)
@@ -430,10 +430,10 @@
   0: 0x01B4 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B9 [0x79] Khoto Rokkorah (ID: 17752345/0x010EE119) looks at LocalPlayer (Basic look)
   2: 0x01C3 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Khoto Rokkorah (ID: 17752345/0x010EE119), Khoto Rokkorah (ID: 17752345/0x010EE119)], work=59*
-  3: 0x01D2 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15159*]:
+  3: 0x01D2 [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15160*]:
     → "Hello, <Player>!"
   4: 0x01D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01DA [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15160*]:
+  5: 0x01DA [0x2B] Khoto Rokkorah (ID: 17752345/0x010EE119) [15161*]:
     → "Just you wait! One day I'll be the best storyteller this town has ever seen!"
   6: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01E2 [0x1C] WAIT(40* ticks)

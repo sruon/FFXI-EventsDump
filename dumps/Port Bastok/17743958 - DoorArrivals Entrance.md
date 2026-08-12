@@ -26,9 +26,9 @@
 |       0 | 0xFFFEC780  |  4294887296 |
 |       1 | 0xFFFFAFDA  |  4294946778 |
 |       2 | 0x1068      |        4200 |
-|       3 | 0x1DBE      |        7614 |
-|       4 | 0x1DBF      |        7615 |
-|       5 | 0x1DC0      |        7616 |
+|       3 | 0x1DBF      |        7615 |
+|       4 | 0x1DC0      |        7616 |
+|       5 | 0x1DC1      |        7617 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x00CA      |         202 |
@@ -38,7 +38,7 @@
 
 ## String References
 
-- **7616**: Go in? [Yes./No.]
+- **7617**: Go in? [Yes./No.]
 
 ## Events
 
@@ -97,15 +97,15 @@
   1: 0x000C [0x64] CALCULATE_DISTANCE: ExtData[1]->WorkLocal[0] = distance between point1(ExtData[1]->WorkLocal[1], ExtData[1]->WorkLocal[2]) and point2(4294887296*, 4294946778*)
   2: 0x0017 [0x02] IF !(ExtData[1]->WorkLocal[0] >= 4200*) GOTO 0x0033
   3: 0x001F [0x4A] Bartolomeo (ID: 17743891/0x010EC013) looks at LocalPlayer
-  4: 0x0028 [0x2B] Bartolomeo (ID: 17743891/0x010EC013) [7614*]:
+  4: 0x0028 [0x2B] Bartolomeo (ID: 17743891/0x010EC013) [7615*]:
     → "You can't get out to the pier this way. Only arriving passengers may go through these doors. Please go around to the entrance on the west side."
   5: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0030 [0x01] GOTO 0x009F
   7: 0x0033 [0x4A] Aishah (ID: 17743939/0x010EC043) looks at LocalPlayer
-  8: 0x003C [0x2B] Aishah (ID: 17743939/0x010EC043) [7615*]:
+  8: 0x003C [0x2B] Aishah (ID: 17743939/0x010EC043) [7616*]:
     → "If you enter Bastok, you must pay again to board the airship. Would you like to proceed?"
   9: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0044 [0x24] CREATE_DIALOG(message_id=7616*, default_option=1*, option_flags=0*)
+ 10: 0x0044 [0x24] CREATE_DIALOG(message_id=7617*, default_option=1*, option_flags=0*)
     → "Go in? [Yes./No.]"
  11: 0x004B [0x25] WAIT_DIALOG_SELECT()
  12: 0x004C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009F

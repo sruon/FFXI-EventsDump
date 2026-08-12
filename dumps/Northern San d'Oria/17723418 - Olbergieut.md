@@ -38,18 +38,18 @@
 |       8 | 0x215FD     |      136701 |
 |       9 | 0x012D      |         301 |
 |      10 | 0x0014      |          20 |
-|      11 | 0x2C2B      |       11307 |
+|      11 | 0x2C2C      |       11308 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x2BBF      |       11199 |
-|      14 | 0x2C2C      |       11308 |
-|      15 | 0x2C2D      |       11309 |
-|      16 | 0x2BED      |       11245 |
+|      13 | 0x2BC0      |       11200 |
+|      14 | 0x2C2D      |       11309 |
+|      15 | 0x2C2E      |       11310 |
+|      16 | 0x2BEE      |       11246 |
 |      17 | 0x0097      |         151 |
-|      18 | 0x2C2F      |       11311 |
+|      18 | 0x2C30      |       11312 |
 |      19 | 0x0001      |           1 |
-|      20 | 0x2C2E      |       11310 |
+|      20 | 0x2C2F      |       11311 |
 |      21 | 0x40000000  |  1073741824 |
-|      22 | 0x2C31      |       11313 |
+|      22 | 0x2C32      |       11314 |
 |      23 | 0x00C9      |         201 |
 |      24 | 0x1D3F9     |      119801 |
 |      25 | 0x1C8B0     |      116912 |
@@ -57,14 +57,14 @@
 
 ## String References
 
-- **11199**: May Paradise open its gates to you.
-- **11245**: Well? [I accept./I must decline.]
-- **11307**: In this chamber we study the teachings of Altana. Through years of prayer and devotion have we earned this right.
-- **11308**: By the way, I have heard of your deeds, and I would ask of you a trivial favor.
-- **11309**: One of our order is on retreat at the Crag of Holla. Might you take him scrolls for his next circle?
-- **11310**: How unfortunate! I fear your place in Paradise may be in jeopardy.
-- **11311**: Great is the generosity in your heart! Take $6 and carry it to Friar Faurbellant at the Crag of Holla.
-- **11313**: Gracious are we for your service. Receive this as acknowledgment of your devotion.
+- **11200**: May Paradise open its gates to you.
+- **11246**: Well? [I accept./I must decline.]
+- **11308**: In this chamber we study the teachings of Altana. Through years of prayer and devotion have we earned this right.
+- **11309**: By the way, I have heard of your deeds, and I would ask of you a trivial favor.
+- **11310**: One of our order is on retreat at the Crag of Holla. Might you take him scrolls for his next circle?
+- **11311**: How unfortunate! I fear your place in Paradise may be in jeopardy.
+- **11312**: Great is the generosity in your heart! Take $6 and carry it to Friar Faurbellant at the Crag of Holla.
+- **11314**: Gracious are we for your service. Receive this as acknowledgment of your devotion.
 
 ## Events
 
@@ -218,14 +218,14 @@
   1: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0036 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=11307*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=11308*)
     → "In this chamber we study the teachings of Altana. Through years of prayer and devotion have we earned this right."
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0049 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x0058 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   8: 0x0065 [0x1C] WAIT(30* ticks)
   9: 0x0068 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
+ 10: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
     → "May Paradise open its gates to you."
  11: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x007B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -270,26 +270,26 @@
   1: 0x0092 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0093 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0094 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11307*)
+  4: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=11308*)
     → "In this chamber we study the teachings of Altana. Through years of prayer and devotion have we earned this right."
   5: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00A7 [0x1C] WAIT(30* ticks)
-  7: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11308*)
+  7: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=11309*)
     → "By the way, I have heard of your deeds, and I would ask of you a trivial favor."
   8: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AE [0x1C] WAIT(30* ticks)
- 10: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11309*)
+ 10: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11310*)
     → "One of our order is on retreat at the Crag of Holla. Might you take him scrolls for his next circle?"
  11: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00B5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
  13: 0x00C4 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 14: 0x00D1 [0x24] CREATE_DIALOG(message_id=11245*, default_option=0*, option_flags=0*)
+ 14: 0x00D1 [0x24] CREATE_DIALOG(message_id=11246*, default_option=0*, option_flags=0*)
     → "Well? [I accept./I must decline.]"
  15: 0x00D8 [0x25] WAIT_DIALOG_SELECT()
  16: 0x00D9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011B
  17: 0x00E1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
  18: 0x00F0 [0x03] Work_Zone[2] = 151*
- 19: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11311*)
+ 19: 0x00F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11312*)
     → "Great is the generosity in your heart! Take $6 and carry it to Friar Faurbellant at the Crag of Holla."
  20: 0x00F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x00F9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -298,7 +298,7 @@
  24: 0x0118 [0x01] GOTO 0x015D
  25: 0x011B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x015D
  26: 0x0123 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 27: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=11310*)
+ 27: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=11311*)
     → "How unfortunate! I fear your place in Paradise may be in jeopardy."
  28: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0136 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -343,14 +343,14 @@ SUBROUTINE_015D:
   2: 0x0165 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0166 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0167 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  5: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=11313*)
+  5: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=11314*)
     → "Gracious are we for your service. Receive this as acknowledgment of your devotion."
   6: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x017A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   8: 0x0189 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   9: 0x0196 [0x1C] WAIT(30* ticks)
  10: 0x0199 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 11: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
+ 11: 0x01A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
     → "May Paradise open its gates to you."
  12: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x01AC [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]

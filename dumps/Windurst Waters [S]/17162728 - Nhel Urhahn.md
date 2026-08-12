@@ -23,8 +23,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0020      |          32 |
-|       2 | 0x2AB3      |       10931 |
-|       3 | 0x2AB4      |       10932 |
+|       2 | 0x2AB4      |       10932 |
+|       3 | 0x2AB5      |       10933 |
 
 ## Events
 
@@ -75,10 +75,10 @@
   1: 0x000A [0x1C] WAIT(30* ticks)
   2: 0x000D [0x6E] EventEntity uses emote 32*
   3: 0x0014 [0x99] Wait for EventEntity animation to complete
-  4: 0x0019 [0x2B] EventEntity [10931*]:
+  4: 0x0019 [0x2B] EventEntity [10932*]:
     → "They say a shadowy figure appeared suddenly in Valdeaunia, the beastman-held lands to the north."
   5: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0021 [0x2B] EventEntity [10932*]:
+  6: 0x0021 [0x2B] EventEntity [10933*]:
     → "But who could possibly be powerful enough to bring the entire Yagudo Theomilitary under his control?"
   7: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0029 [0x21] END_EVENT

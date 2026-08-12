@@ -41,30 +41,30 @@
 |      13 | 0x0014      |          20 |
 |      14 | 0x0001      |           1 |
 |      15 | 0x070E      |        1806 |
-|      16 | 0x1DF3      |        7667 |
+|      16 | 0x1DF4      |        7668 |
 |      17 | 0x40000000  |  1073741824 |
 |      18 | 0x000F      |          15 |
-|      19 | 0x1E0C      |        7692 |
-|      20 | 0x1E07      |        7687 |
-|      21 | 0x1E08      |        7688 |
-|      22 | 0x1DF8      |        7672 |
-|      23 | 0x1DF9      |        7673 |
+|      19 | 0x1E0D      |        7693 |
+|      20 | 0x1E08      |        7688 |
+|      21 | 0x1E09      |        7689 |
+|      22 | 0x1DF9      |        7673 |
+|      23 | 0x1DFA      |        7674 |
 |      24 | 0x0010      |          16 |
 |      25 | 0x001F      |          31 |
 |      26 | 0x000B      |          11 |
 |      27 | 0x000C      |          12 |
 |      28 | 0x0024      |          36 |
 |      29 | 0x0008      |           8 |
-|      30 | 0x1DF4      |        7668 |
+|      30 | 0x1DF5      |        7669 |
 |      31 | 0x0064      |         100 |
-|      32 | 0x1DF5      |        7669 |
-|      33 | 0x1DF6      |        7670 |
-|      34 | 0x1DF7      |        7671 |
-|      35 | 0x1DFE      |        7678 |
-|      36 | 0x1DFF      |        7679 |
-|      37 | 0x1E00      |        7680 |
-|      38 | 0x1E01      |        7681 |
-|      39 | 0x1E02      |        7682 |
+|      32 | 0x1DF6      |        7670 |
+|      33 | 0x1DF7      |        7671 |
+|      34 | 0x1DF8      |        7672 |
+|      35 | 0x1DFF      |        7679 |
+|      36 | 0x1E00      |        7680 |
+|      37 | 0x1E01      |        7681 |
+|      38 | 0x1E02      |        7682 |
+|      39 | 0x1E03      |        7683 |
 |      40 | 0x016E      |         366 |
 |      41 | 0x0172      |         370 |
 |      42 | 0x0176      |         374 |
@@ -214,29 +214,29 @@
 |     186 | 0x2FA8      |       12200 |
 |     187 | 0x3390      |       13200 |
 |     188 | 0x3778      |       14200 |
-|     189 | 0x1E0B      |        7691 |
-|     190 | 0x1CBB      |        7355 |
-|     191 | 0x1CBC      |        7356 |
+|     189 | 0x1E0C      |        7692 |
+|     190 | 0x1CBC      |        7356 |
+|     191 | 0x1CBD      |        7357 |
 
 ## String References
 
-- **7355**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
-- **7356**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
-- **7667**: What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
-- **7668**: Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]
-- **7669**: Infusing the $3 (lv.$1) requires $2 cruor.
-- **7670**: Infuse $3 (lv.$1)? [Yes./No.]
-- **7671**: You do not have enough cruor.
-- **7672**: [Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]
-- **7673**: Purge $3 (lv.$1)? [Yes./No.]
-- **7678**: You do not possess any atmacite capable of enrichment.
-- **7679**: Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]
-- **7680**: Enriching the $3 will produce the following:
-- **7681**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
-- **7682**: Enrich $3? [Yes./No.]
-- **7687**: The $3 (lv.$1) bestows the following bonuses:
-- **7688**: Replace $3 (Lv.$1)? [Yes./No.]
-- **7691**: You have not claimed all of your battle rewards.
+- **7356**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
+- **7357**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
+- **7668**: What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]
+- **7669**: Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]
+- **7670**: Infusing the $3 (lv.$1) requires $2 cruor.
+- **7671**: Infuse $3 (lv.$1)? [Yes./No.]
+- **7672**: You do not have enough cruor.
+- **7673**: [Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]
+- **7674**: Purge $3 (lv.$1)? [Yes./No.]
+- **7679**: You do not possess any atmacite capable of enrichment.
+- **7680**: Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]
+- **7681**: Enriching the $3 will produce the following:
+- **7682**: Enriching the $3 from level $1 to level $2 requires $3 cruor.
+- **7683**: Enrich $3? [Yes./No.]
+- **7688**: The $3 (lv.$1) bestows the following bonuses:
+- **7689**: Replace $3 (Lv.$1)? [Yes./No.]
+- **7692**: You have not claimed all of your battle rewards.
 
 ## Events
 
@@ -1658,7 +1658,7 @@ SUBROUTINE_020A:
 102: 0x020A [0x01] GOTO 0x020D
 
 SUBROUTINE_020D:
-103: 0x020D [0x24] CREATE_DIALOG(message_id=7667*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
+103: 0x020D [0x24] CREATE_DIALOG(message_id=7668*, default_option=0*, option_flags=ExtData[1]->WorkLocal[21])
     → "What will you do? [Nothing for now./Infused: $3 (lv.$1)/Infused: $3 (lv.$3)/Infused: $3 (lv.$5)/Purge atmacite./Infuse atmacite./Enrich atmacite.]"
 104: 0x0214 [0x25] WAIT_DIALOG_SELECT()
 105: 0x0215 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0228
@@ -1670,18 +1670,18 @@ SUBROUTINE_020D:
 111: 0x0235 [0x0C] ExtData[1]->WorkLocal[24]--
 112: 0x0238 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 113: 0x023D [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[5]
-114: 0x0242 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+114: 0x0242 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 115: 0x0247 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
 116: 0x024C [0x07] Work_Zone[2] += 1806*
 117: 0x0251 [0x0C] Work_Zone[2]--
 118: 0x0254 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-119: 0x0259 [0x48] [System] [7687*]:
+119: 0x0259 [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 120: 0x025C [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x025D [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 122: 0x0260 [0x23] WAIT_FOR_DIALOG_INTERACTION
-123: 0x0261 [0x24] CREATE_DIALOG(message_id=7688*, default_option=0*, option_flags=0*)
+123: 0x0261 [0x24] CREATE_DIALOG(message_id=7689*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 124: 0x0268 [0x25] WAIT_DIALOG_SELECT()
 125: 0x0269 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027C
@@ -1698,18 +1698,18 @@ SUBROUTINE_0287:
 134: 0x0297 [0x0C] ExtData[1]->WorkLocal[24]--
 135: 0x029A [0x14] ExtData[1]->WorkLocal[24] *= 15*
 136: 0x029F [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[6]
-137: 0x02A4 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+137: 0x02A4 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 138: 0x02A9 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 139: 0x02AE [0x07] Work_Zone[2] += 1806*
 140: 0x02B3 [0x0C] Work_Zone[2]--
 141: 0x02B6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-142: 0x02BB [0x48] [System] [7687*]:
+142: 0x02BB [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 143: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x02BF [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 145: 0x02C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-146: 0x02C3 [0x24] CREATE_DIALOG(message_id=7688*, default_option=0*, option_flags=0*)
+146: 0x02C3 [0x24] CREATE_DIALOG(message_id=7689*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 147: 0x02CA [0x25] WAIT_DIALOG_SELECT()
 148: 0x02CB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DE
@@ -1726,18 +1726,18 @@ SUBROUTINE_02E9:
 157: 0x02F9 [0x0C] ExtData[1]->WorkLocal[24]--
 158: 0x02FC [0x14] ExtData[1]->WorkLocal[24] *= 15*
 159: 0x0301 [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[7]
-160: 0x0306 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+160: 0x0306 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 161: 0x030B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 162: 0x0310 [0x07] Work_Zone[2] += 1806*
 163: 0x0315 [0x0C] Work_Zone[2]--
 164: 0x0318 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-165: 0x031D [0x48] [System] [7687*]:
+165: 0x031D [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 166: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0321 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 168: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
-169: 0x0325 [0x24] CREATE_DIALOG(message_id=7688*, default_option=0*, option_flags=0*)
+169: 0x0325 [0x24] CREATE_DIALOG(message_id=7689*, default_option=0*, option_flags=0*)
     → "Replace $3 (Lv.$1)? [Yes./No.]"
 170: 0x032C [0x25] WAIT_DIALOG_SELECT()
 171: 0x032D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0340
@@ -1776,7 +1776,7 @@ SUBROUTINE_0359:
 200: 0x03BC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=2*, condition_work_offset=1*)
 201: 0x03C3 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x03D2
 202: 0x03CB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=3*, condition_work_offset=1*)
-203: 0x03D2 [0x24] CREATE_DIALOG(message_id=7672*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+203: 0x03D2 [0x24] CREATE_DIALOG(message_id=7673*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "[Infuse/Purge] which atmacite? [None for now./$3 (lv.$2)/$3 (lv.$4)/$3 (lv.$6)]"
 204: 0x03D9 [0x25] WAIT_DIALOG_SELECT()
 205: 0x03DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03E8
@@ -1788,12 +1788,12 @@ SUBROUTINE_0359:
 211: 0x03FA [0x0C] ExtData[1]->WorkLocal[24]--
 212: 0x03FD [0x14] ExtData[1]->WorkLocal[24] *= 15*
 213: 0x0402 [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[5]
-214: 0x0407 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+214: 0x0407 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 215: 0x040C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[10]
 216: 0x0411 [0x07] Work_Zone[2] += 1806*
 217: 0x0416 [0x0C] Work_Zone[2]--
 218: 0x0419 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[5]
-219: 0x041E [0x48] [System] [7687*]:
+219: 0x041E [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 220: 0x0421 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0422 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -1808,12 +1808,12 @@ SUBROUTINE_0359:
 229: 0x0445 [0x0C] ExtData[1]->WorkLocal[24]--
 230: 0x0448 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 231: 0x044D [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[6]
-232: 0x0452 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+232: 0x0452 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 233: 0x0457 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 234: 0x045C [0x07] Work_Zone[2] += 1806*
 235: 0x0461 [0x0C] Work_Zone[2]--
 236: 0x0464 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[6]
-237: 0x0469 [0x48] [System] [7687*]:
+237: 0x0469 [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 238: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x046D [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -1828,12 +1828,12 @@ SUBROUTINE_0359:
 247: 0x0490 [0x0C] ExtData[1]->WorkLocal[24]--
 248: 0x0493 [0x14] ExtData[1]->WorkLocal[24] *= 15*
 249: 0x0498 [0x07] ExtData[1]->WorkLocal[24] += ExtData[1]->WorkLocal[7]
-250: 0x049D [0x07] ExtData[1]->WorkLocal[24] += 7692*
+250: 0x049D [0x07] ExtData[1]->WorkLocal[24] += 7693*
 251: 0x04A2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[12]
 252: 0x04A7 [0x07] Work_Zone[2] += 1806*
 253: 0x04AC [0x0C] Work_Zone[2]--
 254: 0x04AF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[7]
-255: 0x04B4 [0x48] [System] [7687*]:
+255: 0x04B4 [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 256: 0x04B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 257: 0x04B8 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
@@ -1850,7 +1850,7 @@ SUBROUTINE_04C9:
 265: 0x04DE [0x07] Work_Zone[2] += 1806*
 266: 0x04E3 [0x0C] Work_Zone[2]--
 267: 0x04E6 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-268: 0x04EB [0x24] CREATE_DIALOG(message_id=7673*, default_option=1*, option_flags=0*)
+268: 0x04EB [0x24] CREATE_DIALOG(message_id=7674*, default_option=1*, option_flags=0*)
     → "Purge $3 (lv.$1)? [Yes./No.]"
 269: 0x04F2 [0x25] WAIT_DIALOG_SELECT()
 270: 0x04F3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0519
@@ -1984,7 +1984,7 @@ SUBROUTINE_05E8:
 392: 0x07EC [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
 393: 0x07F3 [0x02] IF !(ExtData[1]->WorkLocal[65] == ExtData[1]->WorkLocal[12]) GOTO 0x0802
 394: 0x07FB [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
-395: 0x0802 [0x24] CREATE_DIALOG(message_id=7668*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+395: 0x0802 [0x24] CREATE_DIALOG(message_id=7669*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]"
 396: 0x0809 [0x25] WAIT_DIALOG_SELECT()
 397: 0x080A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x082A
@@ -2111,22 +2111,22 @@ SUBROUTINE_0A61:
 516: 0x0A69 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x0B1E
 517: 0x0A71 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 518: 0x0A76 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-519: 0x0A7B [0x48] [System] [7687*]:
+519: 0x0A7B [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 520: 0x0A7E [0x23] WAIT_FOR_DIALOG_INTERACTION
-521: 0x0A7F [0x07] ExtData[1]->WorkLocal[24] += 7692*
+521: 0x0A7F [0x07] ExtData[1]->WorkLocal[24] += 7693*
 522: 0x0A84 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 523: 0x0A87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x0A88 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 525: 0x0A8D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 526: 0x0A92 [0x03] Work_Zone[4] = 100*
-527: 0x0A97 [0x48] [System] [7669*]:
+527: 0x0A97 [0x48] [System] [7670*]:
     → "Infusing the $3 (lv.$1) requires $2 cruor."
 528: 0x0A9A [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x0A9B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 530: 0x0AA0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-531: 0x0AA5 [0x24] CREATE_DIALOG(message_id=7670*, default_option=1*, option_flags=0*)
+531: 0x0AA5 [0x24] CREATE_DIALOG(message_id=7671*, default_option=1*, option_flags=0*)
     → "Infuse $3 (lv.$1)? [Yes./No.]"
 532: 0x0AAC [0x25] WAIT_DIALOG_SELECT()
 533: 0x0AAD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B01
@@ -2140,7 +2140,7 @@ SUBROUTINE_0A61:
 541: 0x0ADF [0x06] ExtData[1]->WorkLocal[19] = 0
 542: 0x0AE2 [0x06] ExtData[1]->WorkLocal[20] = 0
 543: 0x0AE5 [0x01] GOTO 0x0AFE
-544: 0x0AE8 [0x48] [System] [7671*]:
+544: 0x0AE8 [0x48] [System] [7672*]:
     → "You do not have enough cruor."
 545: 0x0AEB [0x23] WAIT_FOR_DIALOG_INTERACTION
 546: 0x0AEC [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits 11*-16*)
@@ -2390,12 +2390,12 @@ SUBROUTINE_0BE2:
 782: 0x1042 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 11*) GOTO 0x105C
 783: 0x1049 [0x3E] IF !(ExtData[1]->WorkLocal[22] bit 12*) GOTO 0x105C
 784: 0x1050 [0x03] ExtData[1]->WorkLocal[0] = 1*
-785: 0x1055 [0x48] [System] [7678*]:
+785: 0x1055 [0x48] [System] [7679*]:
     → "You do not possess any atmacite capable of enrichment."
 786: 0x1058 [0x23] WAIT_FOR_DIALOG_INTERACTION
 787: 0x1059 [0x06] ExtData[1]->WorkLocal[20] = 0
 788: 0x105C [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x13DC
-789: 0x1064 [0x24] CREATE_DIALOG(message_id=7679*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+789: 0x1064 [0x24] CREATE_DIALOG(message_id=7680*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Enrich which atmacite? (Cruor: $$) [None for now./3 (lv.$1): $2/$3 (lv.$4): $5/$3 (lv.$7): $8/$3 (lv.$10): $11/$3 (lv.$13): $14/$3 (lv.$16): $17/$3 (lv.$19): $20/$3 (lv.$22): $23/$3 (lv.$25): $26/$3 (lv.$28): $29/$3 (lv.$31): $ /$3 (lv.$"): $#/Previous page./Next page.]"
 790: 0x106B [0x25] WAIT_DIALOG_SELECT()
 791: 0x106C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x108C
@@ -2534,15 +2534,15 @@ SUBROUTINE_12FF:
 922: 0x1307 [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x13DC
 923: 0x130F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 924: 0x1314 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-925: 0x1319 [0x48] [System] [7687*]:
+925: 0x1319 [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 926: 0x131C [0x23] WAIT_FOR_DIALOG_INTERACTION
-927: 0x131D [0x07] ExtData[1]->WorkLocal[24] += 7692*
+927: 0x131D [0x07] ExtData[1]->WorkLocal[24] += 7693*
 928: 0x1322 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 929: 0x1325 [0x23] WAIT_FOR_DIALOG_INTERACTION
 930: 0x1326 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
-931: 0x132B [0x48] [System] [7680*]:
+931: 0x132B [0x48] [System] [7681*]:
     → "Enriching the $3 will produce the following:"
 932: 0x132E [0x23] WAIT_FOR_DIALOG_INTERACTION
 933: 0x132F [0x0B] ExtData[1]->WorkLocal[24]++
@@ -2557,11 +2557,11 @@ SUBROUTINE_12FF:
 941: 0x134D [0x03] ExtData[1]->WorkLocal[79] = ExtData[1]->WorkLocal[26]
 942: 0x1352 [0x1A] CALL_SUBROUTINE(address=0x31CC)
 943: 0x1355 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[0]
-944: 0x135A [0x48] [System] [7681*]:
+944: 0x135A [0x48] [System] [7682*]:
     → "Enriching the $3 from level $1 to level $2 requires $3 cruor."
 945: 0x135D [0x23] WAIT_FOR_DIALOG_INTERACTION
 946: 0x135E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
-947: 0x1363 [0x24] CREATE_DIALOG(message_id=7682*, default_option=1*, option_flags=0*)
+947: 0x1363 [0x24] CREATE_DIALOG(message_id=7683*, default_option=1*, option_flags=0*)
     → "Enrich $3? [Yes./No.]"
 948: 0x136A [0x25] WAIT_DIALOG_SELECT()
 949: 0x136B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x13BF
@@ -2575,7 +2575,7 @@ SUBROUTINE_12FF:
 957: 0x139D [0x06] ExtData[1]->WorkLocal[19] = 0
 958: 0x13A0 [0x06] ExtData[1]->WorkLocal[20] = 0
 959: 0x13A3 [0x01] GOTO 0x13BC
-960: 0x13A6 [0x48] [System] [7671*]:
+960: 0x13A6 [0x48] [System] [7672*]:
     → "You do not have enough cruor."
 961: 0x13A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 962: 0x13AA [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits 11*-16*)
@@ -3793,7 +3793,7 @@ SUBROUTINE_3D0C:
 2116: 0x3F10 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
 2117: 0x3F17 [0x02] IF !(ExtData[1]->WorkLocal[65] == ExtData[1]->WorkLocal[12]) GOTO 0x3F26
 2118: 0x3F1F [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[22], bit_index_work_offset=5*, condition_work_offset=1*)
-2119: 0x3F26 [0x24] CREATE_DIALOG(message_id=7668*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
+2119: 0x3F26 [0x24] CREATE_DIALOG(message_id=7669*, default_option=0*, option_flags=ExtData[1]->WorkLocal[22])
     → "Infuse which atmacite? (Cruor: $24) [None for now./3 (lv.$1)/$3 (lv.$3)/$3 (lv.$5)/$3 (lv.$7)/$3 (lv.$9)/$3 (lv.$11)/$3 (lv.$13)/$3 (lv.$15)/$3 (lv.$17)/$3 (lv.$19)/$3 (lv.$21)/$3 (lv.$23)/Previous page./Next page.]"
 2120: 0x3F2D [0x25] WAIT_DIALOG_SELECT()
 2121: 0x3F2E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x3F4E
@@ -3920,22 +3920,22 @@ SUBROUTINE_4185:
 2240: 0x418D [0x02] IF !(Work_Zone[0] > 12*) GOTO 0x424B
 2241: 0x4195 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 2242: 0x419A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-2243: 0x419F [0x48] [System] [7687*]:
+2243: 0x419F [0x48] [System] [7688*]:
     → "The $3 (lv.$1) bestows the following bonuses:"
 2244: 0x41A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-2245: 0x41A3 [0x07] ExtData[1]->WorkLocal[24] += 7692*
+2245: 0x41A3 [0x07] ExtData[1]->WorkLocal[24] += 7693*
 2246: 0x41A8 [0x48] [System] [ExtData[1]->WorkLocal[24]]:
     → "The synergy furnace is currently in use by %3."
 2247: 0x41AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 2248: 0x41AC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 2249: 0x41B1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
 2250: 0x41B6 [0x03] Work_Zone[4] = 100*
-2251: 0x41BB [0x48] [System] [7669*]:
+2251: 0x41BB [0x48] [System] [7670*]:
     → "Infusing the $3 (lv.$1) requires $2 cruor."
 2252: 0x41BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 2253: 0x41BF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[25]
 2254: 0x41C4 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[26]
-2255: 0x41C9 [0x24] CREATE_DIALOG(message_id=7670*, default_option=1*, option_flags=0*)
+2255: 0x41C9 [0x24] CREATE_DIALOG(message_id=7671*, default_option=1*, option_flags=0*)
     → "Infuse $3 (lv.$1)? [Yes./No.]"
 2256: 0x41D0 [0x25] WAIT_DIALOG_SELECT()
 2257: 0x41D1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x422E
@@ -3950,7 +3950,7 @@ SUBROUTINE_4185:
 2266: 0x420C [0x06] ExtData[1]->WorkLocal[19] = 0
 2267: 0x420F [0x06] ExtData[1]->WorkLocal[20] = 0
 2268: 0x4212 [0x01] GOTO 0x422B
-2269: 0x4215 [0x48] [System] [7671*]:
+2269: 0x4215 [0x48] [System] [7672*]:
     → "You do not have enough cruor."
 2270: 0x4218 [0x23] WAIT_FOR_DIALOG_INTERACTION
 2271: 0x4219 [0x41] ExtData[1]->WorkLocal[0] = ExtData[1]->WorkLocal[4] (bits 11*-16*)
@@ -5300,14 +5300,14 @@ SUBROUTINE_4899:
 #### Opcodes
 
 ```
-  0: 0x4F27 [0x48] [System] [7691*]:
+  0: 0x4F27 [0x48] [System] [7692*]:
     → "You have not claimed all of your battle rewards."
   1: 0x4F2A [0x1C] WAIT(40* ticks)
-  2: 0x4F2D [0x24] CREATE_DIALOG(message_id=7355*, default_option=1*, option_flags=0*)
+  2: 0x4F2D [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
     → "Relinquish your claim to the battle spoils? [Yes./On second thought...]"
   3: 0x4F34 [0x25] WAIT_DIALOG_SELECT()
   4: 0x4F35 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4F68
-  5: 0x4F3D [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
+  5: 0x4F3D [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
     → "Items will be lost. Are you certain? [Yes, relinquish./No, retain.]"
   6: 0x4F44 [0x25] WAIT_DIALOG_SELECT()
   7: 0x4F45 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x4F55

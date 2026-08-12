@@ -21,15 +21,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1D09      |        7433 |
-|       1 | 0x1D07      |        7431 |
-|       2 | 0x1D08      |        7432 |
+|       0 | 0x1D0A      |        7434 |
+|       1 | 0x1D08      |        7432 |
+|       2 | 0x1D09      |        7433 |
 
 ## String References
 
-- **7431**: This barge is currently en route to [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal].
-- **7432**: We should arrive there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours] ($0 [minute/minutes] in Earth time).
-- **7433**: We are nearing [South Landing/Central Landing/North Landing/Central Landing].
+- **7432**: This barge is currently en route to [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal].
+- **7433**: We should arrive there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours] ($0 [minute/minutes] in Earth time).
+- **7434**: We are nearing [South Landing/Central Landing/North Landing/Central Landing].
 
 ## Events
 
@@ -75,7 +75,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "We are nearing [South Landing/Central Landing/North Landing/Central Landing]."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -103,10 +103,10 @@
 
 ```
   0: 0x000C [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
+  1: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
     → "This barge is currently en route to [South Landing via Newtpool/Central Landing via the Emfea Waterway/North Landing via the main canal/Central Landing via the main canal]."
   2: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "We should arrive there in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours/about 8 hours/about 9 hours/about 10 hours] ($0 [minute/minutes] in Earth time)."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT

@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2285      |        8837 |
-|       3 | 0x2286      |        8838 |
+|       2 | 0x2286      |        8838 |
+|       3 | 0x2287      |        8839 |
 
 ## String References
 
-- **8837**: With all the powers that the elite scholars of Windurst have, you'd think we could repair the Horutoto Ruins right away. The engineering skills of the ancients must be more complicated than we think. It's most disappointing-wointing.
-- **8838**: But speaking of scholars, I wonder what happened to all the combat scholars that made up a large portion of the Federation's ranks during the Crystal War. It was rumored that there were more than a handful of suspicious characters among them.
+- **8838**: With all the powers that the elite scholars of Windurst have, you'd think we could repair the Horutoto Ruins right away. The engineering skills of the ancients must be more complicated than we think. It's most disappointing-wointing.
+- **8839**: But speaking of scholars, I wonder what happened to all the combat scholars that made up a large portion of the Federation's ranks during the Crystal War. It was rumored that there were more than a handful of suspicious characters among them.
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yomotsutsu (ID: 17752182/0x010EE076), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
     → "With all the powers that the elite scholars of Windurst have, you'd think we could repair the Horutoto Ruins right away. The engineering skills of the ancients must be more complicated than we think. It's most disappointing-wointing."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
     → "But speaking of scholars, I wonder what happened to all the combat scholars that made up a large portion of the Federation's ranks during the Crystal War. It was rumored that there were more than a handful of suspicious characters among them."
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Yomotsutsu (ID: 17752182/0x010EE076), tag_num=0x02)

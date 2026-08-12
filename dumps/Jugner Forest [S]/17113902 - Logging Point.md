@@ -23,20 +23,20 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x03FD      |        1021 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1BB9      |        7097 |
+|       3 | 0x1BBA      |        7098 |
 |       4 | 0xFFFFFBCD  |  4294966221 |
-|       5 | 0x1BB7      |        7095 |
-|       6 | 0x1BB6      |        7094 |
-|       7 | 0x1BB8      |        7096 |
-|       8 | 0x1BBA      |        7098 |
+|       5 | 0x1BB8      |        7096 |
+|       6 | 0x1BB7      |        7095 |
+|       7 | 0x1BB9      |        7097 |
+|       8 | 0x1BBB      |        7099 |
 
 ## String References
 
-- **7094**: Your $7 breaks!
-- **7095**: You successfully cut off $0!
-- **7096**: You cut off $0, but your $7 breaks in the process.
-- **7097**: You are unable to log anything.
-- **7098**: You cannot carry any more items. Your inventory is full.
+- **7095**: Your $7 breaks!
+- **7096**: You successfully cut off $0!
+- **7097**: You cut off $0, but your $7 breaks in the process.
+- **7098**: You are unable to log anything.
+- **7099**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -95,30 +95,30 @@
   5: 0x0018 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0064
   6: 0x0020 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0046
   7: 0x0028 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0036
-  8: 0x0030 [0x48] [System] [7097*]:
+  8: 0x0030 [0x48] [System] [7098*]:
     → "You are unable to log anything."
   9: 0x0033 [0x01] GOTO 0x0043
  10: 0x0036 [0x02] IF !(Work_Zone[2] == 4294966221*) GOTO 0x0040
  11: 0x003E [0x21] END_EVENT
  12: 0x003F [0x00] END_REQSTACK()
- 13: 0x0040 [0x48] [System] [7095*]:
+ 13: 0x0040 [0x48] [System] [7096*]:
     → "You successfully cut off $0!"
 
 SUBROUTINE_0043:
  14: 0x0043 [0x01] GOTO 0x0061
  15: 0x0046 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0054
- 16: 0x004E [0x48] [System] [7094*]:
+ 16: 0x004E [0x48] [System] [7095*]:
     → "Your $7 breaks!"
  17: 0x0051 [0x01] GOTO 0x0061
  18: 0x0054 [0x02] IF !(Work_Zone[2] == 4294966221*) GOTO 0x005E
  19: 0x005C [0x21] END_EVENT
  20: 0x005D [0x00] END_REQSTACK()
- 21: 0x005E [0x48] [System] [7096*]:
+ 21: 0x005E [0x48] [System] [7097*]:
     → "You cut off $0, but your $7 breaks in the process."
 
 SUBROUTINE_0061:
  22: 0x0061 [0x01] GOTO 0x0067
- 23: 0x0064 [0x48] [System] [7098*]:
+ 23: 0x0064 [0x48] [System] [7099*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0067:

@@ -20,53 +20,53 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2383      |        9091 |
-|       1 | 0x2384      |        9092 |
-|       2 | 0x23A0      |        9120 |
+|       0 | 0x2384      |        9092 |
+|       1 | 0x2385      |        9093 |
+|       2 | 0x23A1      |        9121 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2395      |        9109 |
+|       5 | 0x2396      |        9110 |
 |       6 | 0x0014      |          20 |
-|       7 | 0x2396      |        9110 |
+|       7 | 0x2397      |        9111 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x2397      |        9111 |
-|      10 | 0x2398      |        9112 |
+|       9 | 0x2398      |        9112 |
+|      10 | 0x2399      |        9113 |
 |      11 | 0x0003      |           3 |
-|      12 | 0x2385      |        9093 |
-|      13 | 0x2386      |        9094 |
-|      14 | 0x2387      |        9095 |
-|      15 | 0x2388      |        9096 |
-|      16 | 0x2389      |        9097 |
-|      17 | 0x238A      |        9098 |
-|      18 | 0x238B      |        9099 |
-|      19 | 0x238C      |        9100 |
+|      12 | 0x2386      |        9094 |
+|      13 | 0x2387      |        9095 |
+|      14 | 0x2388      |        9096 |
+|      15 | 0x2389      |        9097 |
+|      16 | 0x238A      |        9098 |
+|      17 | 0x238B      |        9099 |
+|      18 | 0x238C      |        9100 |
+|      19 | 0x238D      |        9101 |
 |      20 | 0x0004      |           4 |
-|      21 | 0x238D      |        9101 |
-|      22 | 0x238E      |        9102 |
-|      23 | 0x238F      |        9103 |
-|      24 | 0x2390      |        9104 |
-|      25 | 0x2391      |        9105 |
-|      26 | 0x2392      |        9106 |
-|      27 | 0x2393      |        9107 |
-|      28 | 0x2394      |        9108 |
-|      29 | 0x2399      |        9113 |
+|      21 | 0x238E      |        9102 |
+|      22 | 0x238F      |        9103 |
+|      23 | 0x2390      |        9104 |
+|      24 | 0x2391      |        9105 |
+|      25 | 0x2392      |        9106 |
+|      26 | 0x2393      |        9107 |
+|      27 | 0x2394      |        9108 |
+|      28 | 0x2395      |        9109 |
+|      29 | 0x239A      |        9114 |
 |      30 | 0x0064      |         100 |
-|      31 | 0x239D      |        9117 |
-|      32 | 0x23A1      |        9121 |
-|      33 | 0x239E      |        9118 |
-|      34 | 0x239F      |        9119 |
+|      31 | 0x239E      |        9118 |
+|      32 | 0x23A2      |        9122 |
+|      33 | 0x239F      |        9119 |
+|      34 | 0x23A0      |        9120 |
 |      35 | 0x0065      |         101 |
 |      36 | 0x0005      |           5 |
 |      37 | 0x0006      |           6 |
 |      38 | 0x0007      |           7 |
 |      39 | 0x000B      |          11 |
-|      40 | 0x239A      |        9114 |
-|      41 | 0x239B      |        9115 |
+|      40 | 0x239B      |        9115 |
+|      41 | 0x239C      |        9116 |
 |      42 | 0x000C      |          12 |
 |      43 | 0x0066      |         102 |
 |      44 | 0x0067      |         103 |
 |      45 | 0x000D      |          13 |
-|      46 | 0x239C      |        9116 |
+|      46 | 0x239D      |        9117 |
 |      47 | 0x0068      |         104 |
 |      48 | 0x0069      |         105 |
 |      49 | 0x0009      |           9 |
@@ -76,37 +76,37 @@
 
 ## String References
 
-- **9091**: Hello there! I'm Sibyl Celebrant Pompi-Rompi. My job is issuing marriage certificates to married couple-wouples.
-- **9092**: How can I help you today?
-- **9093**: Marriage certificates are legal documentarus that are issued in recognition of the matrimony of two individuals. They also makey-wake lovely wall decorations for your Mog House!
-- **9094**: Couples wanting to receive the certificate mustaru prove their marriage. There are a few ways you can do this.
-- **9095**: The couple should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to me, and the certificates will be yours to take home!
-- **9096**: If you have a wedding ring, though, the procedure can be completarued on your own. Sounds lonely-wonely, I know, but everyone has different circumstances.
-- **9097**: Justaru remember that you can't have more than one certificate at any given time. Also, the nation-wation of issuance for your certificate must be the same as your partner's.
-- **9098**: Oh, and another thing! A misplaced certificate can be reissued, but only by the same officiating body that you firstaru received it from.
-- **9099**: A wedding is a happy-wappy occasion in which two souls broughtaru together by fate are joined as partners in life.
-- **9100**: In Windurstian weddings, there's a custom-wustom known as the "Oath of Blood and Flesh." Sounds scary, but it's actually rather touching. The couple-to-be presentaru each other with food, you see, and after that, wedding ringy-wings are exchanged.
-- **9101**: The firstaru thing you'll need to do is prepare wedding rings--matrimony ring and a matrimony band, to be precise.
-- **9102**: These rings can be synthesized only with super-wuper rare ingredients. That's why they make perfectaru tokens of undying devotion between a couple.
-- **9103**: The trendy-wend these days is to engrave your name onto the ring using a cyclone crystal before giving it to your partner.
-- **9104**: Mostaru brides and grooms choose to wear a wedding dress and a benedight coat respectively on their special-wecial day.
-- **9105**: You can choose to synthesize similar garmentarus for yourself or ask a friend to do it for you. They cost a pretty gil, though.
-- **9106**: But never-wever fear even if you can't afford them! After all, it's your wedding, and you can wear whatever you wantaru to!
-- **9107**: If you have trouble-wouble getting your hands on any of the ceremonial items I've mentioned, they can also be purchased from the chestarus you see here.
-- **9108**: Inside you'll find fireworks, wedding bells, and other items to helpy-welp brighten up your special day. Justaru purchase whatever you need!
-- **9109**: Oh no! It looks like you already have a marriage certificate in your possession. I'm sorry, but I can'taru issue you another.
-- **9110**: Your currentaru job level must be level $2 or more if you wish to receive a marriage certificate.
-- **9111**: I'm sorry, but I can'taru issue you a marriage certificate.
-- **9112**: Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!
-- **9113**: Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from.
-- **9114**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation.
-- **9115**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's.
-- **9116**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's.
-- **9117**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another.
-- **9118**: By the Star Sibyl's power vested in me, husband and wife you are declared to be.
-- **9119**: May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree.
-- **9120**: What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]
-- **9121**: Have a marriage certificate issued? [Yes./No.]
+- **9092**: Hello there! I'm Sibyl Celebrant Pompi-Rompi. My job is issuing marriage certificates to married couple-wouples.
+- **9093**: How can I help you today?
+- **9094**: Marriage certificates are legal documentarus that are issued in recognition of the matrimony of two individuals. They also makey-wake lovely wall decorations for your Mog House!
+- **9095**: Couples wanting to receive the certificate mustaru prove their marriage. There are a few ways you can do this.
+- **9096**: The couple should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to me, and the certificates will be yours to take home!
+- **9097**: If you have a wedding ring, though, the procedure can be completarued on your own. Sounds lonely-wonely, I know, but everyone has different circumstances.
+- **9098**: Justaru remember that you can't have more than one certificate at any given time. Also, the nation-wation of issuance for your certificate must be the same as your partner's.
+- **9099**: Oh, and another thing! A misplaced certificate can be reissued, but only by the same officiating body that you firstaru received it from.
+- **9100**: A wedding is a happy-wappy occasion in which two souls broughtaru together by fate are joined as partners in life.
+- **9101**: In Windurstian weddings, there's a custom-wustom known as the "Oath of Blood and Flesh." Sounds scary, but it's actually rather touching. The couple-to-be presentaru each other with food, you see, and after that, wedding ringy-wings are exchanged.
+- **9102**: The firstaru thing you'll need to do is prepare wedding rings--matrimony ring and a matrimony band, to be precise.
+- **9103**: These rings can be synthesized only with super-wuper rare ingredients. That's why they make perfectaru tokens of undying devotion between a couple.
+- **9104**: The trendy-wend these days is to engrave your name onto the ring using a cyclone crystal before giving it to your partner.
+- **9105**: Mostaru brides and grooms choose to wear a wedding dress and a benedight coat respectively on their special-wecial day.
+- **9106**: You can choose to synthesize similar garmentarus for yourself or ask a friend to do it for you. They cost a pretty gil, though.
+- **9107**: But never-wever fear even if you can't afford them! After all, it's your wedding, and you can wear whatever you wantaru to!
+- **9108**: If you have trouble-wouble getting your hands on any of the ceremonial items I've mentioned, they can also be purchased from the chestarus you see here.
+- **9109**: Inside you'll find fireworks, wedding bells, and other items to helpy-welp brighten up your special day. Justaru purchase whatever you need!
+- **9110**: Oh no! It looks like you already have a marriage certificate in your possession. I'm sorry, but I can'taru issue you another.
+- **9111**: Your currentaru job level must be level $2 or more if you wish to receive a marriage certificate.
+- **9112**: I'm sorry, but I can'taru issue you a marriage certificate.
+- **9113**: Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!
+- **9114**: Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from.
+- **9115**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation.
+- **9116**: Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's.
+- **9117**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's.
+- **9118**: Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another.
+- **9119**: By the Star Sibyl's power vested in me, husband and wife you are declared to be.
+- **9120**: May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree.
+- **9121**: What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]
+- **9122**: Have a marriage certificate issued? [Yes./No.]
 
 ## Events
 
@@ -202,14 +202,14 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9091*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
     → "Hello there! I'm Sibyl Celebrant Pompi-Rompi. My job is issuing marriage certificates to married couple-wouples."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9092*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
     → "How can I help you today?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x1A] CALL_SUBROUTINE(address=0x02D6)
-  6: 0x0011 [0x24] CREATE_DIALOG(message_id=9120*, default_option=0*, option_flags=0*)
+  6: 0x0011 [0x24] CREATE_DIALOG(message_id=9121*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Nothing./Request a marriage certificate./Learn about marriage certificates./Learn about wedding ceremonies./Learn about ceremonial items.]"
   7: 0x0018 [0x25] WAIT_DIALOG_SELECT()
   8: 0x0019 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0029
@@ -217,14 +217,14 @@
  10: 0x0026 [0x01] GOTO 0x00FC
  11: 0x0029 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0092
  12: 0x0031 [0x02] IF !(ExtData[1]->WorkLocal[4] == 0*) GOTO 0x004A
- 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9109*)
+ 13: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
     → "Oh no! It looks like you already have a marriage certificate in your possession. I'm sorry, but I can'taru issue you another."
  14: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x003D [0x03] Work_Zone[1] = 1*
  16: 0x0042 [0x03] ExtData[1]->WorkLocal[9] = 1*
  17: 0x0047 [0x01] GOTO 0x008F
  18: 0x004A [0x02] IF !(LocalPlayer->JobLevel >= 20*) GOTO 0x0063
- 19: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=9110*)
+ 19: 0x0052 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
     → "Your currentaru job level must be level $2 or more if you wish to receive a marriage certificate."
  20: 0x0055 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0056 [0x03] Work_Zone[1] = 1*
@@ -236,22 +236,22 @@
 SUBROUTINE_008F:
  26: 0x008F [0x01] GOTO 0x00FC
  27: 0x0092 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00B8
- 28: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9093*)
+ 28: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
     → "Marriage certificates are legal documentarus that are issued in recognition of the matrimony of two individuals. They also makey-wake lovely wall decorations for your Mog House!"
  29: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=9094*)
+ 30: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
     → "Couples wanting to receive the certificate mustaru prove their marriage. There are a few ways you can do this."
  31: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9095*)
+ 32: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
     → "The couple should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to me, and the certificates will be yours to take home!"
  33: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9096*)
+ 34: 0x00A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9097*)
     → "If you have a wedding ring, though, the procedure can be completarued on your own. Sounds lonely-wonely, I know, but everyone has different circumstances."
  35: 0x00A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9097*)
+ 36: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=9098*)
     → "Justaru remember that you can't have more than one certificate at any given time. Also, the nation-wation of issuance for your certificate must be the same as your partner's."
  37: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9098*)
+ 38: 0x00AE [0x1D] PRINT_EVENT_MESSAGE(message_id=9099*)
     → "Oh, and another thing! A misplaced certificate can be reissued, but only by the same officiating body that you firstaru received it from."
  39: 0x00B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x00B2 [0x01] GOTO 0x0011
@@ -262,7 +262,7 @@ SUBROUTINE_00FC:
 SUBROUTINE_00FF:
  42: 0x00FF [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x012D
  43: 0x0107 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x0120
- 44: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+ 44: 0x010F [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
     → "Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from."
  45: 0x0112 [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0113 [0x03] Work_Zone[1] = 1*
@@ -274,17 +274,17 @@ SUBROUTINE_00FF:
 SUBROUTINE_012A:
  51: 0x012A [0x01] GOTO 0x0170
  52: 0x012D [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 53: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9117*)
+ 53: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
     → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another."
  54: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x0136 [0x24] CREATE_DIALOG(message_id=9121*, default_option=1*, option_flags=0*)
+ 55: 0x0136 [0x24] CREATE_DIALOG(message_id=9122*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
  56: 0x013D [0x25] WAIT_DIALOG_SELECT()
  57: 0x013E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015B
- 58: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
+ 58: 0x0146 [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
     → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
  59: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
+ 60: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=9120*)
     → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
  61: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x014E [0x03] Work_Zone[1] = 2*
@@ -300,20 +300,20 @@ SUBROUTINE_0170:
 
 SUBROUTINE_0173:
  70: 0x0173 [0x02] IF !(ExtData[1]->WorkLocal[7] == 0*) GOTO 0x0190
- 71: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+ 71: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
     → "I'm sorry, but I can'taru issue you a marriage certificate."
  72: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 73: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
+ 73: 0x017F [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
     → "Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!"
  74: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0183 [0x03] Work_Zone[1] = 1*
  76: 0x0188 [0x03] ExtData[1]->WorkLocal[9] = 5*
  77: 0x018D [0x01] GOTO 0x01CC
  78: 0x0190 [0x02] IF !((LocalPlayer->Render.Flags01 >> 25) & 1 == ExtData[1]->WorkLocal[8]) GOTO 0x01AD
- 79: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=9111*)
+ 79: 0x0198 [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
     → "I'm sorry, but I can'taru issue you a marriage certificate."
  80: 0x019B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=9112*)
+ 81: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
     → "Married couples wanting marriage certificates should form a party-warty while the husband is wearing his matrimony ring, and his wife, her matrimony band. Aftaru that, just speak to the official in chargey-warge, and the certificates will be yours to take home!"
  82: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x01A0 [0x03] Work_Zone[1] = 1*
@@ -328,7 +328,7 @@ SUBROUTINE_01CC:
 SUBROUTINE_01CF:
  89: 0x01CF [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x022F
  90: 0x01D7 [0x02] IF !(ExtData[1]->WorkLocal[2] == ExtData[1]->WorkLocal[1]) GOTO 0x01F0
- 91: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9113*)
+ 91: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
     → "Oh no! It looks like you've already been issued a marriage certificate by another nation-wation. A misplaced certificate can be reissued, but you'll need to speak with the samey-wame officiating body that you firstaru received it from."
  92: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01E3 [0x03] Work_Zone[1] = 1*
@@ -336,10 +336,10 @@ SUBROUTINE_01CF:
  95: 0x01ED [0x01] GOTO 0x022C
  96: 0x01F0 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0222
  97: 0x01F8 [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0215
- 98: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+ 98: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
     → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation."
  99: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
+100: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=9116*)
     → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's."
 101: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x0208 [0x03] Work_Zone[1] = 1*
@@ -357,26 +357,26 @@ SUBROUTINE_022C:
 110: 0x022C [0x01] GOTO 0x02D3
 111: 0x022F [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0295
 112: 0x0237 [0x02] IF !(ExtData[1]->WorkLocal[3] == ExtData[1]->WorkLocal[1]) GOTO 0x0254
-113: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=9114*)
+113: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
     → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation."
 114: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
-115: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=9115*)
+115: 0x0243 [0x1D] PRINT_EVENT_MESSAGE(message_id=9116*)
     → "Oh no! It looks like your spouse's marriage certificate was issued by another nation-wation. If you wantaru to receive one, you'll need to speak with the samey-wame officiating body that issued your spouse's."
 116: 0x0246 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0247 [0x03] Work_Zone[1] = 1*
 118: 0x024C [0x03] ExtData[1]->WorkLocal[9] = 13*
 119: 0x0251 [0x01] GOTO 0x0292
-120: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=9116*)
+120: 0x0254 [0x1D] PRINT_EVENT_MESSAGE(message_id=9117*)
     → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's."
 121: 0x0257 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x0258 [0x24] CREATE_DIALOG(message_id=9121*, default_option=1*, option_flags=0*)
+122: 0x0258 [0x24] CREATE_DIALOG(message_id=9122*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
 123: 0x025F [0x25] WAIT_DIALOG_SELECT()
 124: 0x0260 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x027D
-125: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
+125: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
     → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
 126: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
-127: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
+127: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=9120*)
     → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
 128: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0270 [0x03] Work_Zone[1] = 4*
@@ -389,17 +389,17 @@ SUBROUTINE_022C:
 
 SUBROUTINE_0292:
 136: 0x0292 [0x01] GOTO 0x02D3
-137: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9116*)
+137: 0x0295 [0x1D] PRINT_EVENT_MESSAGE(message_id=9117*)
     → "Accepting a marriage certificate from our nation-wation means you won'taru be eligible to receive one from another. Also, the nation of issuance for your certificate must be the same as your partner's."
 138: 0x0298 [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x0299 [0x24] CREATE_DIALOG(message_id=9121*, default_option=1*, option_flags=0*)
+139: 0x0299 [0x24] CREATE_DIALOG(message_id=9122*, default_option=1*, option_flags=0*)
     → "Have a marriage certificate issued? [Yes./No.]"
 140: 0x02A0 [0x25] WAIT_DIALOG_SELECT()
 141: 0x02A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02BE
-142: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9118*)
+142: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
     → "By the Star Sibyl's power vested in me, husband and wife you are declared to be."
 143: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9119*)
+144: 0x02AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9120*)
     → "May your bond grow as deep as the wide blue sea and your love soar as high as the Great Star Tree."
 145: 0x02B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x02B1 [0x03] Work_Zone[1] = 4*

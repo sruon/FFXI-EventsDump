@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1FA8      |        8104 |
-|       2 | 0x1FA9      |        8105 |
+|       1 | 0x1FA9      |        8105 |
+|       2 | 0x1FAA      |        8106 |
 
 ## String References
 
-- **8104**: Another one of the Peacekeeperrrs' cronies, here to cause trouble in the name of "orrrder"?
-- **8105**: We've no need of your help. Surrre, some of our plantations have been shut down, but we're getting along fine.
+- **8105**: Another one of the Peacekeeperrrs' cronies, here to cause trouble in the name of "orrrder"?
+- **8106**: We've no need of your help. Surrre, some of our plantations have been shut down, but we're getting along fine.
 
 ## Events
 
@@ -78,10 +78,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "Another one of the Peacekeeperrrs' cronies, here to cause trouble in the name of "orrrder"?"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=8106*)
     → "We've no need of your help. Surrre, some of our plantations have been shut down, but we're getting along fine."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*

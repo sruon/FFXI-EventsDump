@@ -20,13 +20,13 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x264D      |        9805 |
-|       1 | 0x264E      |        9806 |
+|       0 | 0x264E      |        9806 |
+|       1 | 0x264F      |        9807 |
 
 ## String References
 
-- **9805**: One day, we shall feel The chaos rushing 'round us Put into order.
-- **9806**: Lo, Geomancy! You're the ebb and flow of land We long to harness.
+- **9806**: One day, we shall feel The chaos rushing 'round us Put into order.
+- **9807**: Lo, Geomancy! You're the ebb and flow of land We long to harness.
 
 ## Events
 
@@ -71,10 +71,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9805*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9806*)
     → "One day, we shall feel The chaos rushing 'round us Put into order."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=9806*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=9807*)
     → "Lo, Geomancy! You're the ebb and flow of land We long to harness."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x21] END_EVENT

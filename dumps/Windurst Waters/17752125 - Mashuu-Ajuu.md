@@ -45,79 +45,79 @@
 |---------|-------------|-------------|
 |       0 | 0x0055      |          85 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x20A3      |        8355 |
-|       3 | 0x20A4      |        8356 |
-|       4 | 0x1E52      |        7762 |
-|       5 | 0x1E53      |        7763 |
-|       6 | 0x20F0      |        8432 |
+|       2 | 0x20A4      |        8356 |
+|       3 | 0x20A5      |        8357 |
+|       4 | 0x1E53      |        7763 |
+|       5 | 0x1E54      |        7764 |
+|       6 | 0x20F1      |        8433 |
 |       7 | 0x0000      |           0 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x20F5      |        8437 |
+|       9 | 0x20F6      |        8438 |
 |      10 | 0x0003      |           3 |
 |      11 | 0x0004      |           4 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x20EF      |        8431 |
-|      14 | 0x20F1      |        8433 |
-|      15 | 0x20F2      |        8434 |
-|      16 | 0x20F3      |        8435 |
-|      17 | 0x20F4      |        8436 |
-|      18 | 0x20F6      |        8438 |
-|      19 | 0x20F7      |        8439 |
-|      20 | 0x20F8      |        8440 |
-|      21 | 0x20F9      |        8441 |
-|      22 | 0x20FA      |        8442 |
-|      23 | 0x210A      |        8458 |
+|      13 | 0x20F0      |        8432 |
+|      14 | 0x20F2      |        8434 |
+|      15 | 0x20F3      |        8435 |
+|      16 | 0x20F4      |        8436 |
+|      17 | 0x20F5      |        8437 |
+|      18 | 0x20F7      |        8439 |
+|      19 | 0x20F8      |        8440 |
+|      20 | 0x20F9      |        8441 |
+|      21 | 0x20FA      |        8442 |
+|      22 | 0x20FB      |        8443 |
+|      23 | 0x210B      |        8459 |
 |      24 | 0x00C9      |         201 |
-|      25 | 0x199B      |        6555 |
-|      26 | 0x210B      |        8459 |
-|      27 | 0x210C      |        8460 |
-|      28 | 0x210D      |        8461 |
-|      29 | 0x210E      |        8462 |
-|      30 | 0x210F      |        8463 |
-|      31 | 0x2110      |        8464 |
-|      32 | 0x2111      |        8465 |
-|      33 | 0x2112      |        8466 |
-|      34 | 0x211A      |        8474 |
-|      35 | 0x211B      |        8475 |
-|      36 | 0x2147      |        8519 |
-|      37 | 0x2148      |        8520 |
-|      38 | 0x20D0      |        8400 |
-|      39 | 0x20D1      |        8401 |
+|      25 | 0x199C      |        6556 |
+|      26 | 0x210C      |        8460 |
+|      27 | 0x210D      |        8461 |
+|      28 | 0x210E      |        8462 |
+|      29 | 0x210F      |        8463 |
+|      30 | 0x2110      |        8464 |
+|      31 | 0x2111      |        8465 |
+|      32 | 0x2112      |        8466 |
+|      33 | 0x2113      |        8467 |
+|      34 | 0x211B      |        8475 |
+|      35 | 0x211C      |        8476 |
+|      36 | 0x2148      |        8520 |
+|      37 | 0x2149      |        8521 |
+|      38 | 0x20D1      |        8401 |
+|      39 | 0x20D2      |        8402 |
 
 ## String References
 
-- **6555**: Obtained $0 gil.
-- **7762**: I heard you're gonna do the prep work for our skills test.
-- **7763**: Well, don't expect us to suck up to you. There are other candidates for test supervisor too, ya know.
-- **8355**: Tsk. Don't tell me another adventurer has wandered into our class with eyes wide open in wonder...
-- **8356**: I know our school is liberal and open to all and all that, but I don't see why that means any ill-mannered trespasser can walk in and disturb our studies.
-- **8400**: I'm pretty confident about my results for the written exam. In fact, I think I did better than Kirarara!
-- **8401**: But poor Chomoro-Kyotoro is in hot water. If he gets less than 50%, it's back to the beginners class for him.
-- **8431**: Hey, are you busy?
-- **8432**: Busy...? [No. Just a busybody./Yes. Busy as a bee!]
-- **8433**: Well then, buzz off!
-- **8434**: Good, 'cause I have a favor to ask!
-- **8435**: The other day, Mr. Moreno-Toeno gave us a homework assignment on the cultivation of plants.
-- **8436**: I've got better things to do with my time than watch grass grow. I'd prefer to ask someone like you, who's not busy, to do it for me.
-- **8437**: Help out with your green thumb? [Thumbs up!/Thumbs down!]
-- **8438**: Gee... It's not like I'm asking for an arm and a leg, or something. That's why I hate adults!
-- **8439**: Great! Thanks. Then go plant $2 in a flowerpot for me, and check on them once a day until they grow into something that'll impress everyone.
-- **8440**: Just telling you...I'm out to impress. You've got to grow at least $1, or else I'm not paying you anything for your help, all right?
-- **8441**: For me to be top of the class, then you'll at least need to grow $1 from $2, okay?
-- **8442**: Don't think I'll be cheap just 'coz I'm a kid. I'll reward you on how good a gardener you are.
-- **8458**: Humph! You only brought me what I asked for... I guess it would have been expecting too much for anything more than that, huh? Stick to adventuring next time...
-- **8459**: I wonder if I'll ever get the chance to meet a higher-level adventurer?
-- **8460**: Being stuck in this School of Magic all day means I don't get to meet many people.
-- **8461**: Wow! Well done! What kinda crystal did you feed it to grow something like this?
-- **8462**: I might even be able to beat Kirarara with this. You deserve every gil of your reward!
-- **8463**: With this, I'll be able to beat Kirarara at last! But, wait... What if Kirarara also got an adventurer to help her with her homework, too?
-- **8464**: What's wrong with asking others to do the stuff you can't do yourself?
-- **8465**: It's much more efficient, and if you pay them a proper reward, then you both benefit. This is the ideology that keeps the world turning.
-- **8466**: But Mr. Moreno-Toeno must be the only one who doesn't know that. Anyway, that's the reason why I'm having you help with my horticultural homework again.
-- **8474**: Paku-Nakku's attitude to learning is so bad. He's always half-asleep in class lately.
-- **8475**: His consistent yawning gets on my nerves. If only there was some spell to stop yawning, I'd soon fix him!
-- **8519**: What's all the noise about? You're disturbing the class.
-- **8520**: If you and Paku-Nakku don't shut up, I'll cast Silence on the both of you!
+- **6556**: Obtained $0 gil.
+- **7763**: I heard you're gonna do the prep work for our skills test.
+- **7764**: Well, don't expect us to suck up to you. There are other candidates for test supervisor too, ya know.
+- **8356**: Tsk. Don't tell me another adventurer has wandered into our class with eyes wide open in wonder...
+- **8357**: I know our school is liberal and open to all and all that, but I don't see why that means any ill-mannered trespasser can walk in and disturb our studies.
+- **8401**: I'm pretty confident about my results for the written exam. In fact, I think I did better than Kirarara!
+- **8402**: But poor Chomoro-Kyotoro is in hot water. If he gets less than 50%, it's back to the beginners class for him.
+- **8432**: Hey, are you busy?
+- **8433**: Busy...? [No. Just a busybody./Yes. Busy as a bee!]
+- **8434**: Well then, buzz off!
+- **8435**: Good, 'cause I have a favor to ask!
+- **8436**: The other day, Mr. Moreno-Toeno gave us a homework assignment on the cultivation of plants.
+- **8437**: I've got better things to do with my time than watch grass grow. I'd prefer to ask someone like you, who's not busy, to do it for me.
+- **8438**: Help out with your green thumb? [Thumbs up!/Thumbs down!]
+- **8439**: Gee... It's not like I'm asking for an arm and a leg, or something. That's why I hate adults!
+- **8440**: Great! Thanks. Then go plant $2 in a flowerpot for me, and check on them once a day until they grow into something that'll impress everyone.
+- **8441**: Just telling you...I'm out to impress. You've got to grow at least $1, or else I'm not paying you anything for your help, all right?
+- **8442**: For me to be top of the class, then you'll at least need to grow $1 from $2, okay?
+- **8443**: Don't think I'll be cheap just 'coz I'm a kid. I'll reward you on how good a gardener you are.
+- **8459**: Humph! You only brought me what I asked for... I guess it would have been expecting too much for anything more than that, huh? Stick to adventuring next time...
+- **8460**: I wonder if I'll ever get the chance to meet a higher-level adventurer?
+- **8461**: Being stuck in this School of Magic all day means I don't get to meet many people.
+- **8462**: Wow! Well done! What kinda crystal did you feed it to grow something like this?
+- **8463**: I might even be able to beat Kirarara with this. You deserve every gil of your reward!
+- **8464**: With this, I'll be able to beat Kirarara at last! But, wait... What if Kirarara also got an adventurer to help her with her homework, too?
+- **8465**: What's wrong with asking others to do the stuff you can't do yourself?
+- **8466**: It's much more efficient, and if you pay them a proper reward, then you both benefit. This is the ideology that keeps the world turning.
+- **8467**: But Mr. Moreno-Toeno must be the only one who doesn't know that. Anyway, that's the reason why I'm having you help with my horticultural homework again.
+- **8475**: Paku-Nakku's attitude to learning is so bad. He's always half-asleep in class lately.
+- **8476**: His consistent yawning gets on my nerves. If only there was some spell to stop yawning, I'd soon fix him!
+- **8520**: What's all the noise about? You're disturbing the class.
+- **8521**: If you and Paku-Nakku don't shut up, I'll cast Silence on the both of you!
 
 ## Events
 
@@ -293,10 +293,10 @@
   1: 0x005B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x005C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8355*)
+  4: 0x0064 [0x1D] PRINT_EVENT_MESSAGE(message_id=8356*)
     → "Tsk. Don't tell me another adventurer has wandered into our class with eyes wide open in wonder..."
   5: 0x0067 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8356*)
+  6: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=8357*)
     → "I know our school is liberal and open to all and all that, but I don't see why that means any ill-mannered trespasser can walk in and disturb our studies."
   7: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x006C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -330,10 +330,10 @@
   1: 0x007C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7762*)
+  4: 0x0085 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
     → "I heard you're gonna do the prep work for our skills test."
   5: 0x0088 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7763*)
+  6: 0x0089 [0x1D] PRINT_EVENT_MESSAGE(message_id=7764*)
     → "Well, don't expect us to suck up to you. There are other candidates for test supervisor too, ya know."
   7: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x008D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -375,14 +375,14 @@
   2: 0x009E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x009F [0x1C] WAIT(30* ticks)
   4: 0x00A2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x09)
-  5: 0x00A9 [0x24] CREATE_DIALOG(message_id=8432*, default_option=0*, option_flags=0*)
+  5: 0x00A9 [0x24] CREATE_DIALOG(message_id=8433*, default_option=0*, option_flags=0*)
     → "Busy...? [No. Just a busybody./Yes. Busy as a bee!]"
   6: 0x00B0 [0x25] WAIT_DIALOG_SELECT()
   7: 0x00B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106
   8: 0x00B9 [0x03] Work_Zone[1] = 1*
   9: 0x00BE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x0B)
  10: 0x00C5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x0C)
- 11: 0x00CC [0x24] CREATE_DIALOG(message_id=8437*, default_option=0*, option_flags=0*)
+ 11: 0x00CC [0x24] CREATE_DIALOG(message_id=8438*, default_option=0*, option_flags=0*)
     → "Help out with your green thumb? [Thumbs up!/Thumbs down!]"
  12: 0x00D3 [0x25] WAIT_DIALOG_SELECT()
  13: 0x00D4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EC
@@ -429,7 +429,7 @@ SUBROUTINE_011D:
 
 ```
   0: 0x0121 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  1: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8431*)
+  1: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8432*)
     → "Hey, are you busy?"
   2: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x012C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -457,7 +457,7 @@ SUBROUTINE_011D:
 
 ```
   0: 0x0134 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  1: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8433*)
+  1: 0x013B [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
     → "Well then, buzz off!"
   2: 0x013E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x013F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x05)
@@ -485,7 +485,7 @@ SUBROUTINE_011D:
 
 ```
   0: 0x0147 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  1: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8434*)
+  1: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
     → "Good, 'cause I have a favor to ask!"
   2: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0152 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -514,10 +514,10 @@ SUBROUTINE_011D:
 
 ```
   0: 0x015A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x03)
-  1: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8435*)
+  1: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
     → "The other day, Mr. Moreno-Toeno gave us a homework assignment on the cultivation of plants."
   2: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8436*)
+  3: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=8437*)
     → "I've got better things to do with my time than watch grass grow. I'd prefer to ask someone like you, who's not busy, to do it for me."
   4: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0169 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x04)
@@ -543,7 +543,7 @@ SUBROUTINE_011D:
 #### Opcodes
 
 ```
-  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8438*)
+  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
     → "Gee... It's not like I'm asking for an arm and a leg, or something. That's why I hate adults!"
   1: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0175 [0x00] END_REQSTACK()
@@ -570,10 +570,10 @@ SUBROUTINE_011D:
 
 ```
   0: 0x0176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  1: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8439*)
+  1: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8440*)
     → "Great! Thanks. Then go plant $2 in a flowerpot for me, and check on them once a day until they grow into something that'll impress everyone."
   2: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8440*)
+  3: 0x0181 [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
     → "Just telling you...I'm out to impress. You've got to grow at least $1, or else I'm not paying you anything for your help, all right?"
   4: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0185 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -605,10 +605,10 @@ SUBROUTINE_011D:
   1: 0x0192 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0193 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0194 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8441*)
+  4: 0x019B [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
     → "For me to be top of the class, then you'll at least need to grow $1 from $2, okay?"
   5: 0x019E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8442*)
+  6: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=8443*)
     → "Don't think I'll be cheap just 'coz I'm a kid. I'll reward you on how good a gardener you are."
   7: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01A3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -647,7 +647,7 @@ SUBROUTINE_011D:
   3: 0x01B6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x01B7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x01B8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  6: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8458*)
+  6: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=8459*)
     → "Humph! You only brought me what I asked for... I guess it would have been expecting too much for anything more than that, huh? Stick to adventuring next time..."
   7: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x01C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -658,7 +658,7 @@ SUBROUTINE_011D:
 
 SUBROUTINE_01DF:
  13: 0x01DF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 14: 0x01F0 [0x48] [System] [6555*]:
+ 14: 0x01F0 [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  15: 0x01F3 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  16: 0x01F5 [0x21] END_EVENT
@@ -690,10 +690,10 @@ SUBROUTINE_01DF:
   1: 0x01FC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01FD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=8459*)
+  4: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=8460*)
     → "I wonder if I'll ever get the chance to meet a higher-level adventurer?"
   5: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8460*)
+  6: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=8461*)
     → "Being stuck in this School of Magic all day means I don't get to meet many people."
   7: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x020D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -732,10 +732,10 @@ SUBROUTINE_01DF:
   3: 0x0220 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0221 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0222 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  6: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=8461*)
+  6: 0x0229 [0x1D] PRINT_EVENT_MESSAGE(message_id=8462*)
     → "Wow! Well done! What kinda crystal did you feed it to grow something like this?"
   7: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8462*)
+  8: 0x022D [0x1D] PRINT_EVENT_MESSAGE(message_id=8463*)
     → "I might even be able to beat Kirarara with this. You deserve every gil of your reward!"
   9: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0231 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -746,7 +746,7 @@ SUBROUTINE_01DF:
 
 SUBROUTINE_024D:
  15: 0x024D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 16: 0x025E [0x48] [System] [6555*]:
+ 16: 0x025E [0x48] [System] [6556*]:
     → "Obtained $0 gil."
  17: 0x0261 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
  18: 0x0263 [0x21] END_EVENT
@@ -778,7 +778,7 @@ SUBROUTINE_024D:
   1: 0x026A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x026B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x026C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=8463*)
+  4: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=8464*)
     → "With this, I'll be able to beat Kirarara at last! But, wait... What if Kirarara also got an adventurer to help her with her homework, too?"
   5: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0277 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -814,7 +814,7 @@ SUBROUTINE_024D:
   1: 0x0287 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0288 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0289 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x15)
-  4: 0x0290 [0x24] CREATE_DIALOG(message_id=8437*, default_option=0*, option_flags=0*)
+  4: 0x0290 [0x24] CREATE_DIALOG(message_id=8438*, default_option=0*, option_flags=0*)
     → "Help out with your green thumb? [Thumbs up!/Thumbs down!]"
   5: 0x0297 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0298 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B0
@@ -855,13 +855,13 @@ SUBROUTINE_02C7:
 
 ```
   0: 0x02CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  1: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8464*)
+  1: 0x02D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8465*)
     → "What's wrong with asking others to do the stuff you can't do yourself?"
   2: 0x02D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8465*)
+  3: 0x02D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
     → "It's much more efficient, and if you pay them a proper reward, then you both benefit. This is the ideology that keeps the world turning."
   4: 0x02D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8466*)
+  5: 0x02DA [0x1D] PRINT_EVENT_MESSAGE(message_id=8467*)
     → "But Mr. Moreno-Toeno must be the only one who doesn't know that. Anyway, that's the reason why I'm having you help with my horticultural homework again."
   6: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02DE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -893,10 +893,10 @@ SUBROUTINE_02C7:
   1: 0x02EB [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02EC [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02ED [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8474*)
+  4: 0x02F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8475*)
     → "Paku-Nakku's attitude to learning is so bad. He's always half-asleep in class lately."
   5: 0x02F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8475*)
+  6: 0x02F8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8476*)
     → "His consistent yawning gets on my nerves. If only there was some spell to stop yawning, I'd soon fix him!"
   7: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x02FC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -930,10 +930,10 @@ SUBROUTINE_02C7:
   1: 0x030C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x030D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x030E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=8519*)
+  4: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
     → "What's all the noise about? You're disturbing the class."
   5: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8520*)
+  6: 0x0319 [0x1D] PRINT_EVENT_MESSAGE(message_id=8521*)
     → "If you and Paku-Nakku don't shut up, I'll cast Silence on the both of you!"
   7: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x031D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)
@@ -967,10 +967,10 @@ SUBROUTINE_02C7:
   1: 0x032D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x032E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x032F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x01)
-  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=8400*)
+  4: 0x0336 [0x1D] PRINT_EVENT_MESSAGE(message_id=8401*)
     → "I'm pretty confident about my results for the written exam. In fact, I think I did better than Kirarara!"
   5: 0x0339 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=8401*)
+  6: 0x033A [0x1D] PRINT_EVENT_MESSAGE(message_id=8402*)
     → "But poor Chomoro-Kyotoro is in hot water. If he gets less than 50%, it's back to the beginners class for him."
   7: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mashuu-Ajuu (ID: 17752125/0x010EE03D), tag_num=0x02)

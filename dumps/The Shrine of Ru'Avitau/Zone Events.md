@@ -45,7 +45,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA4      |        7332 |
+|       0 | 0x1CA5      |        7333 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x00B4      |         180 |
@@ -207,7 +207,7 @@
 
 ## String References
 
-- **7332**: Use the portal? [Yes./No.]
+- **7333**: Use the portal? [Yes./No.]
 
 ## Events
 
@@ -280,7 +280,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0002 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0009 [0x25] WAIT_DIALOG_SELECT()
   2: 0x000A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0055
@@ -335,7 +335,7 @@ SUBROUTINE_0065:
 #### Opcodes
 
 ```
-  0: 0x0069 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0069 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0070 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0071 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FA
@@ -400,7 +400,7 @@ SUBROUTINE_010A:
 #### Opcodes
 
 ```
-  0: 0x010E [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x010E [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0115 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0116 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0161
@@ -451,7 +451,7 @@ SUBROUTINE_0171:
 #### Opcodes
 
 ```
-  0: 0x0175 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0175 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x017C [0x25] WAIT_DIALOG_SELECT()
   2: 0x017D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C8
@@ -503,7 +503,7 @@ SUBROUTINE_01D8:
 #### Opcodes
 
 ```
-  0: 0x01DC [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x01DC [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x01E3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x01E4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x022F
@@ -554,7 +554,7 @@ SUBROUTINE_023F:
 #### Opcodes
 
 ```
-  0: 0x0243 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0243 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x024A [0x25] WAIT_DIALOG_SELECT()
   2: 0x024B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0296
@@ -609,7 +609,7 @@ SUBROUTINE_02A6:
 #### Opcodes
 
 ```
-  0: 0x02AA [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x02AA [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x02B1 [0x25] WAIT_DIALOG_SELECT()
   2: 0x02B2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x033B
@@ -674,7 +674,7 @@ SUBROUTINE_034B:
 #### Opcodes
 
 ```
-  0: 0x034F [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x034F [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0356 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0357 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03A2
@@ -739,7 +739,7 @@ SUBROUTINE_03B2:
 #### Opcodes
 
 ```
-  0: 0x03B6 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x03B6 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x03BD [0x25] WAIT_DIALOG_SELECT()
   2: 0x03BE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E8
@@ -832,7 +832,7 @@ SUBROUTINE_04F8:
 #### Opcodes
 
 ```
-  0: 0x04FC [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x04FC [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0503 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0504 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x054F
@@ -883,7 +883,7 @@ SUBROUTINE_055F:
 #### Opcodes
 
 ```
-  0: 0x0563 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0563 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x056A [0x25] WAIT_DIALOG_SELECT()
   2: 0x056B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05B6
@@ -948,7 +948,7 @@ SUBROUTINE_05C6:
 #### Opcodes
 
 ```
-  0: 0x05CA [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x05CA [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x05D1 [0x25] WAIT_DIALOG_SELECT()
   2: 0x05D2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06FC
@@ -1040,7 +1040,7 @@ SUBROUTINE_070C:
 #### Opcodes
 
 ```
-  0: 0x0710 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0710 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0717 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0718 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0763
@@ -1091,7 +1091,7 @@ SUBROUTINE_0773:
 #### Opcodes
 
 ```
-  0: 0x0777 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0777 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x077E [0x25] WAIT_DIALOG_SELECT()
   2: 0x077F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07CA
@@ -1143,7 +1143,7 @@ SUBROUTINE_07DA:
 #### Opcodes
 
 ```
-  0: 0x07DE [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x07DE [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x07E5 [0x25] WAIT_DIALOG_SELECT()
   2: 0x07E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0831
@@ -1194,7 +1194,7 @@ SUBROUTINE_0841:
 #### Opcodes
 
 ```
-  0: 0x0845 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0845 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x084C [0x25] WAIT_DIALOG_SELECT()
   2: 0x084D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0898
@@ -1246,7 +1246,7 @@ SUBROUTINE_08A8:
 #### Opcodes
 
 ```
-  0: 0x08AC [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x08AC [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x08B3 [0x25] WAIT_DIALOG_SELECT()
   2: 0x08B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08FF
@@ -1297,7 +1297,7 @@ SUBROUTINE_090F:
 #### Opcodes
 
 ```
-  0: 0x0913 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x0913 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x091A [0x25] WAIT_DIALOG_SELECT()
   2: 0x091B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0966
@@ -1349,7 +1349,7 @@ SUBROUTINE_0976:
 #### Opcodes
 
 ```
-  0: 0x097A [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x097A [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x0981 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0982 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09CD
@@ -1400,7 +1400,7 @@ SUBROUTINE_09DD:
 #### Opcodes
 
 ```
-  0: 0x09E1 [0x24] CREATE_DIALOG(message_id=7332*, default_option=1*, option_flags=0*)
+  0: 0x09E1 [0x24] CREATE_DIALOG(message_id=7333*, default_option=1*, option_flags=0*)
     → "Use the portal? [Yes./No.]"
   1: 0x09E8 [0x25] WAIT_DIALOG_SELECT()
   2: 0x09E9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A34

@@ -30,12 +30,12 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x003B      |          59 |
-|       2 | 0x2AA6      |       10918 |
-|       3 | 0x2AA7      |       10919 |
+|       2 | 0x2AA7      |       10919 |
+|       3 | 0x2AA8      |       10920 |
 |       4 | 0x1492      |        5266 |
-|       5 | 0x2B5C      |       11100 |
-|       6 | 0x2B5D      |       11101 |
-|       7 | 0x2B5E      |       11102 |
+|       5 | 0x2B5D      |       11101 |
+|       6 | 0x2B5E      |       11102 |
+|       7 | 0x2B5F      |       11103 |
 |       8 | 0x0028      |          40 |
 |       9 | 0x042C      |        1068 |
 |      10 | 0x52A8      |       21160 |
@@ -107,10 +107,10 @@
   0: 0x0000 [0x4A] EventEntity looks at LocalPlayer
   1: 0x0009 [0x1C] WAIT(30* ticks)
   2: 0x000C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x001B [0x2B] EventEntity [10918*]:
+  3: 0x001B [0x2B] EventEntity [10919*]:
     → "This is the Huntsman's Court. For generations now it has been a gathering place for Mithran rangers to sell their catches."
   4: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0023 [0x2B] EventEntity [10919*]:
+  5: 0x0023 [0x2B] EventEntity [10920*]:
     → "But now it has become a makeshift barracks for the Mithra Mercenaries."
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -168,13 +168,13 @@
   1: 0x0046 [0x1C] WAIT(30* ticks)
   2: 0x0049 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
   3: 0x0058 [0x03] Work_Zone[2] = 5266*
-  4: 0x005D [0x2B] EventEntity [11100*]:
+  4: 0x005D [0x2B] EventEntity [11101*]:
     → "We Mithra, rrregardless of upbringing, have one thing in common: We're all suckers for $0! So the choice is obvious!"
   5: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0065 [0x2B] EventEntity [11101*]:
+  6: 0x0065 [0x2B] EventEntity [11102*]:
     → "It's just that I haven't seen any since coming over to this continent. And it could be prrricey to import..."
   7: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x006D [0x2B] EventEntity [11102*]:
+  8: 0x006D [0x2B] EventEntity [11103*]:
     → "But when I recall the overwhelming sensation of ecstasy you get from just a whiff...I'm convinced it's worth the cost. No other food has such a ferrrocious hold over us Mithra!"
   9: 0x0074 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0075 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

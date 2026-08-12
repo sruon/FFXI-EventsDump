@@ -45,98 +45,98 @@
 |       6 | 0xFFFD41F2  |  4294787570 |
 |       7 | 0x6BB6      |       27574 |
 |       8 | 0x0032      |          50 |
-|       9 | 0x1EAC      |        7852 |
+|       9 | 0x1EAD      |        7853 |
 |      10 | 0x001E      |          30 |
 |      11 | 0x01F9      |         505 |
-|      12 | 0x1EAD      |        7853 |
-|      13 | 0x1EAE      |        7854 |
-|      14 | 0x1EA9      |        7849 |
-|      15 | 0x1EAA      |        7850 |
-|      16 | 0x1EB2      |        7858 |
-|      17 | 0x1EB3      |        7859 |
+|      12 | 0x1EAE      |        7854 |
+|      13 | 0x1EAF      |        7855 |
+|      14 | 0x1EAA      |        7850 |
+|      15 | 0x1EAB      |        7851 |
+|      16 | 0x1EB3      |        7859 |
+|      17 | 0x1EB4      |        7860 |
 |      18 | 0x40000000  |  1073741824 |
-|      19 | 0x1FD3      |        8147 |
+|      19 | 0x1FD4      |        8148 |
 |      20 | 0x0000      |           0 |
-|      21 | 0x1EB5      |        7861 |
+|      21 | 0x1EB6      |        7862 |
 |      22 | 0x0001      |           1 |
-|      23 | 0x1EB4      |        7860 |
-|      24 | 0x1EB6      |        7862 |
-|      25 | 0x1EB7      |        7863 |
-|      26 | 0x1EB8      |        7864 |
+|      23 | 0x1EB5      |        7861 |
+|      24 | 0x1EB7      |        7863 |
+|      25 | 0x1EB8      |        7864 |
+|      26 | 0x1EB9      |        7865 |
 |      27 | 0x00C8      |         200 |
-|      28 | 0x1EB9      |        7865 |
+|      28 | 0x1EBA      |        7866 |
 |      29 | 0x00C9      |         201 |
 |      30 | 0x0354      |         852 |
-|      31 | 0x1F00      |        7936 |
-|      32 | 0x1EFD      |        7933 |
-|      33 | 0x1EFE      |        7934 |
-|      34 | 0x1EFF      |        7935 |
-|      35 | 0x1FD4      |        8148 |
-|      36 | 0x1F02      |        7938 |
-|      37 | 0x1F01      |        7937 |
-|      38 | 0x1F03      |        7939 |
-|      39 | 0x1F04      |        7940 |
-|      40 | 0x1F05      |        7941 |
-|      41 | 0x1F06      |        7942 |
-|      42 | 0x1F07      |        7943 |
-|      43 | 0x1F08      |        7944 |
+|      31 | 0x1F01      |        7937 |
+|      32 | 0x1EFE      |        7934 |
+|      33 | 0x1EFF      |        7935 |
+|      34 | 0x1F00      |        7936 |
+|      35 | 0x1FD5      |        8149 |
+|      36 | 0x1F03      |        7939 |
+|      37 | 0x1F02      |        7938 |
+|      38 | 0x1F04      |        7940 |
+|      39 | 0x1F05      |        7941 |
+|      40 | 0x1F06      |        7942 |
+|      41 | 0x1F07      |        7943 |
+|      42 | 0x1F08      |        7944 |
+|      43 | 0x1F09      |        7945 |
 |      44 | 0x035D      |         861 |
-|      45 | 0x1F09      |        7945 |
-|      46 | 0x1F80      |        8064 |
-|      47 | 0x1F81      |        8065 |
-|      48 | 0x1F82      |        8066 |
-|      49 | 0x1F83      |        8067 |
-|      50 | 0x1F86      |        8070 |
-|      51 | 0x1F85      |        8069 |
-|      52 | 0x1F87      |        8071 |
-|      53 | 0x1F88      |        8072 |
-|      54 | 0x1F89      |        8073 |
-|      55 | 0x1F8A      |        8074 |
-|      56 | 0x1F8B      |        8075 |
-|      57 | 0x1F8C      |        8076 |
+|      45 | 0x1F0A      |        7946 |
+|      46 | 0x1F81      |        8065 |
+|      47 | 0x1F82      |        8066 |
+|      48 | 0x1F83      |        8067 |
+|      49 | 0x1F84      |        8068 |
+|      50 | 0x1F87      |        8071 |
+|      51 | 0x1F86      |        8070 |
+|      52 | 0x1F88      |        8072 |
+|      53 | 0x1F89      |        8073 |
+|      54 | 0x1F8A      |        8074 |
+|      55 | 0x1F8B      |        8075 |
+|      56 | 0x1F8C      |        8076 |
+|      57 | 0x1F8D      |        8077 |
 
 ## String References
 
-- **7849**: I am Hanaa Punaa, an apprrrentice at the Tanners' Guild.
-- **7850**: I drrream of becoming a tanner, but work experience is hard to come by these days.
-- **7852**: Oh, it's you again!
-- **7853**: If you bring me three $0, I can make the same thing for you again. I sure could use the work!
-- **7854**: Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later...
-- **7858**: Head to West Ronfaure and collect three $0. I'll make something for you.
-- **7859**: Well? Will you collect the skins?
-- **7860**: Oh, I see. Well, if you change your mind, come by any time.
-- **7861**: Perrrfect! I'll be waiting for those three $0, then. I can start as soon as you bring them!
-- **7862**: What about the $0? I'll need three of them before I can make anything for you, sorry...
-- **7863**: What fine skins you've brrrought me! They smell so...tasty! But it won't do to eat one's materials, will it?
-- **7864**: Wait just a moment. I'll make something for you.
-- **7865**: Here you are! I think you'll find it worth the wait.
-- **7933**: As an adventurer, you should appreciate the satisfaction you get from honing your skills day by day.
-- **7934**: I've been getting too many sheepskins of late, so perrrhaps you could bring me something else this time.
-- **7935**: I could make you a fine piece of leather, if you could provide three $0 from the Valkurm Dunes.
-- **7936**: Bring me three more $0, and I'll be happy to craft you another!
-- **7937**: How unforrrtunate. You should know that goods made from $0 fetch a fine price.
-- **7938**: Excellent! I know you'll be pleased with the results. Watch out for those lizard teeth!
-- **7939**: Well, what about the $0? I need thrrree of them to make anything.
-- **7940**: I'll still take sheepskins, too, so come back once you've got thrrree.
-- **7941**: You've brought them? Joy! You always bring the best skins, you know. You should work for me full-time!
-- **7942**: I was only joking. I'm sure you have plenty of things to do. Wait rrright here, and I'll get to work.
-- **7943**: It's finished! Rrreally, a good skin makes all the difference, I think you'll agree.
-- **7944**: Come back again!
-- **7945**: I'm not taking any more $0, but I'm still taking all the $1 and $2 I can get, so brrring me more! In sets of three, if you please.
-- **8064**: You've become quite the adventurer, haven't you?
-- **8065**: Perhaps it's time for me to take on a challenge, too? Make something rrreally high-class... I know!
-- **8066**: Big cats live in the Jugner Forest: forest tigers. I want you to bring me some of their hides. And don't worry, we're not related!
-- **8067**: Bring me thrrree $0 and I'll make you something special. How about it?
-- **8069**: That's rrreally too bad. Did you know that $0 goods sell for a pretty gil at the market?
-- **8070**: That's great! I'll get right to work as soon as you bring the thrrree $0. Good luck.
-- **8071**: Hey! What about the $0? I'll need thrrree before I can get to work!
-- **8072**: I still need sheepskins and lizard skins, too! Bring thrrree anytime and I'll make you something.
-- **8073**: Oooh! That was fast. You always do such good work! And that lets me do good work, too!
-- **8074**: Wait right there. With these I should be able to make something really classy. Be rrright back!
-- **8075**: Sorry for the wait. Look! The quality of the hide really shows through, don't you think? Fine work, if I may say so myself!
-- **8076**: Come again anytime. It's a rrreal pleasure doing business with you!
-- **8147**: Accept? [Of course./Not right now.]
-- **8148**: Accept? [Yes./I'm sorry.]
+- **7850**: I am Hanaa Punaa, an apprrrentice at the Tanners' Guild.
+- **7851**: I drrream of becoming a tanner, but work experience is hard to come by these days.
+- **7853**: Oh, it's you again!
+- **7854**: If you bring me three $0, I can make the same thing for you again. I sure could use the work!
+- **7855**: Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later...
+- **7859**: Head to West Ronfaure and collect three $0. I'll make something for you.
+- **7860**: Well? Will you collect the skins?
+- **7861**: Oh, I see. Well, if you change your mind, come by any time.
+- **7862**: Perrrfect! I'll be waiting for those three $0, then. I can start as soon as you bring them!
+- **7863**: What about the $0? I'll need three of them before I can make anything for you, sorry...
+- **7864**: What fine skins you've brrrought me! They smell so...tasty! But it won't do to eat one's materials, will it?
+- **7865**: Wait just a moment. I'll make something for you.
+- **7866**: Here you are! I think you'll find it worth the wait.
+- **7934**: As an adventurer, you should appreciate the satisfaction you get from honing your skills day by day.
+- **7935**: I've been getting too many sheepskins of late, so perrrhaps you could bring me something else this time.
+- **7936**: I could make you a fine piece of leather, if you could provide three $0 from the Valkurm Dunes.
+- **7937**: Bring me three more $0, and I'll be happy to craft you another!
+- **7938**: How unforrrtunate. You should know that goods made from $0 fetch a fine price.
+- **7939**: Excellent! I know you'll be pleased with the results. Watch out for those lizard teeth!
+- **7940**: Well, what about the $0? I need thrrree of them to make anything.
+- **7941**: I'll still take sheepskins, too, so come back once you've got thrrree.
+- **7942**: You've brought them? Joy! You always bring the best skins, you know. You should work for me full-time!
+- **7943**: I was only joking. I'm sure you have plenty of things to do. Wait rrright here, and I'll get to work.
+- **7944**: It's finished! Rrreally, a good skin makes all the difference, I think you'll agree.
+- **7945**: Come back again!
+- **7946**: I'm not taking any more $0, but I'm still taking all the $1 and $2 I can get, so brrring me more! In sets of three, if you please.
+- **8065**: You've become quite the adventurer, haven't you?
+- **8066**: Perhaps it's time for me to take on a challenge, too? Make something rrreally high-class... I know!
+- **8067**: Big cats live in the Jugner Forest: forest tigers. I want you to bring me some of their hides. And don't worry, we're not related!
+- **8068**: Bring me thrrree $0 and I'll make you something special. How about it?
+- **8070**: That's rrreally too bad. Did you know that $0 goods sell for a pretty gil at the market?
+- **8071**: That's great! I'll get right to work as soon as you bring the thrrree $0. Good luck.
+- **8072**: Hey! What about the $0? I'll need thrrree before I can get to work!
+- **8073**: I still need sheepskins and lizard skins, too! Bring thrrree anytime and I'll make you something.
+- **8074**: Oooh! That was fast. You always do such good work! And that lets me do good work, too!
+- **8075**: Wait right there. With these I should be able to make something really classy. Be rrright back!
+- **8076**: Sorry for the wait. Look! The quality of the hide really shows through, don't you think? Fine work, if I may say so myself!
+- **8077**: Come again anytime. It's a rrreal pleasure doing business with you!
+- **8148**: Accept? [Of course./Not right now.]
+- **8149**: Accept? [Yes./I'm sorry.]
 
 ## Events
 
@@ -239,16 +239,16 @@
   1: 0x0021 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0022 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0023 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0036 [0x1C] WAIT(30* ticks)
   7: 0x0039 [0x03] Work_Zone[2] = 505*
-  8: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
+  8: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
     → "If you bring me three $0, I can make the same thing for you again. I sure could use the work!"
   9: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0042 [0x1C] WAIT(30* ticks)
- 11: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+ 11: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later..."
  12: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0049 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -282,7 +282,7 @@
   1: 0x0058 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0059 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x005A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x0069 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x006D [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -322,11 +322,11 @@
   1: 0x007A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x007B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x007C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7849*)
+  4: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
     → "I am Hanaa Punaa, an apprrrentice at the Tanners' Guild."
   5: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x008F [0x1C] WAIT(30* ticks)
-  7: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7850*)
+  7: 0x0092 [0x1D] PRINT_EVENT_MESSAGE(message_id=7851*)
     → "I drrream of becoming a tanner, but work experience is hard to come by these days."
   8: 0x0095 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0096 [0x1C] WAIT(30* ticks)
@@ -334,22 +334,22 @@
 
 SUBROUTINE_009D:
  11: 0x009D [0x03] Work_Zone[2] = 505*
- 12: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7858*)
+ 12: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
     → "Head to West Ronfaure and collect three $0. I'll make something for you."
  13: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x00A6 [0x1C] WAIT(30* ticks)
- 15: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
+ 15: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
     → "Well? Will you collect the skins?"
  16: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x00AD [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  18: 0x00B2 [0x03] Work_Zone[1] = 1073741824*
- 19: 0x00B7 [0x24] CREATE_DIALOG(message_id=8147*, default_option=0*, option_flags=0*)
+ 19: 0x00B7 [0x24] CREATE_DIALOG(message_id=8148*, default_option=0*, option_flags=0*)
     → "Accept? [Of course./Not right now.]"
  20: 0x00BE [0x25] WAIT_DIALOG_SELECT()
  21: 0x00BF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EF
  22: 0x00C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  23: 0x00D6 [0x03] Work_Zone[2] = 505*
- 24: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
+ 24: 0x00DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
     → "Perrrfect! I'll be waiting for those three $0, then. I can start as soon as you bring them!"
  25: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00DF [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -358,7 +358,7 @@ SUBROUTINE_009D:
  29: 0x00EC [0x01] GOTO 0x011A
  30: 0x00EF [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x011A
  31: 0x00F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 32: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
+ 32: 0x0106 [0x1D] PRINT_EVENT_MESSAGE(message_id=7861*)
     → "Oh, I see. Well, if you change your mind, come by any time."
  33: 0x0109 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x010A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -407,7 +407,7 @@ SUBROUTINE_011A:
   4: 0x0125 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0126 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   6: 0x0135 [0x03] Work_Zone[2] = 505*
-  7: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=7862*)
+  7: 0x013A [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
     → "What about the $0? I'll need three of them before I can make anything for you, sorry..."
   8: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x013E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -452,11 +452,11 @@ SUBROUTINE_011A:
   3: 0x0152 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0153 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0154 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  6: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7863*)
+  6: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
     → "What fine skins you've brrrought me! They smell so...tasty! But it won't do to eat one's materials, will it?"
   7: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0167 [0x1C] WAIT(30* ticks)
-  9: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=7864*)
+  9: 0x016A [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
     → "Wait just a moment. I'll make something for you."
  10: 0x016D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x016E [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -466,7 +466,7 @@ SUBROUTINE_011A:
  15: 0x0196 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x01A7 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x01B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 18: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7865*)
+ 18: 0x01C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7866*)
     → "Here you are! I think you'll find it worth the wait."
  19: 0x01C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x01C9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -505,16 +505,16 @@ SUBROUTINE_011A:
   1: 0x01F0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01F1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x0201 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x0204 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0205 [0x1C] WAIT(30* ticks)
   7: 0x0208 [0x03] Work_Zone[2] = 852*
-  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
+  8: 0x020D [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
     → "Bring me three more $0, and I'll be happy to craft you another!"
   9: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0211 [0x1C] WAIT(30* ticks)
- 11: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7854*)
+ 11: 0x0214 [0x1D] PRINT_EVENT_MESSAGE(message_id=7855*)
     → "Really, I'd prrrefer more exotic skins to work with, but that would be too much to ask of a new recruit such as yourself. Maybe later..."
  12: 0x0217 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0218 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -547,7 +547,7 @@ SUBROUTINE_011A:
   1: 0x0227 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0228 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0229 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x023C [0x1C] WAIT(30* ticks)
@@ -587,11 +587,11 @@ SUBROUTINE_011A:
   1: 0x0244 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0245 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0246 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=7933*)
+  4: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
     → "As an adventurer, you should appreciate the satisfaction you get from honing your skills day by day."
   5: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0259 [0x1C] WAIT(30* ticks)
-  7: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=7934*)
+  7: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
     → "I've been getting too many sheepskins of late, so perrrhaps you could bring me something else this time."
   8: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0260 [0x1C] WAIT(30* ticks)
@@ -599,22 +599,22 @@ SUBROUTINE_011A:
 
 SUBROUTINE_0267:
  11: 0x0267 [0x03] Work_Zone[2] = 852*
- 12: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=7935*)
+ 12: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=7936*)
     → "I could make you a fine piece of leather, if you could provide three $0 from the Valkurm Dunes."
  13: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0270 [0x1C] WAIT(30* ticks)
- 15: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
+ 15: 0x0273 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
     → "Well? Will you collect the skins?"
  16: 0x0276 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0277 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
  18: 0x027C [0x03] Work_Zone[1] = 1073741824*
- 19: 0x0281 [0x24] CREATE_DIALOG(message_id=8148*, default_option=0*, option_flags=0*)
+ 19: 0x0281 [0x24] CREATE_DIALOG(message_id=8149*, default_option=0*, option_flags=0*)
     → "Accept? [Yes./I'm sorry.]"
  20: 0x0288 [0x25] WAIT_DIALOG_SELECT()
  21: 0x0289 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B9
  22: 0x0291 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  23: 0x02A0 [0x03] Work_Zone[2] = 852*
- 24: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
+ 24: 0x02A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
     → "Excellent! I know you'll be pleased with the results. Watch out for those lizard teeth!"
  25: 0x02A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x02A9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -624,7 +624,7 @@ SUBROUTINE_0267:
  30: 0x02B9 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02E9
  31: 0x02C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  32: 0x02D0 [0x03] Work_Zone[2] = 852*
- 33: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7937*)
+ 33: 0x02D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7938*)
     → "How unforrrtunate. You should know that goods made from $0 fetch a fine price."
  34: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x02D9 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -673,11 +673,11 @@ SUBROUTINE_02E9:
   4: 0x02F4 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x02F5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   6: 0x0304 [0x03] Work_Zone[2] = 852*
-  7: 0x0309 [0x1D] PRINT_EVENT_MESSAGE(message_id=7939*)
+  7: 0x0309 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
     → "Well, what about the $0? I need thrrree of them to make anything."
   8: 0x030C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x030D [0x1C] WAIT(30* ticks)
- 10: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+ 10: 0x0310 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "I'll still take sheepskins, too, so come back once you've got thrrree."
  11: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0314 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -722,11 +722,11 @@ SUBROUTINE_02E9:
   3: 0x0328 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0329 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x032A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  6: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+  6: 0x0339 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "You've brought them? Joy! You always bring the best skins, you know. You should work for me full-time!"
   7: 0x033C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x033D [0x1C] WAIT(30* ticks)
-  9: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
+  9: 0x0340 [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
     → "I was only joking. I'm sure you have plenty of things to do. Wait rrright here, and I'll get to work."
  10: 0x0343 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0344 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -736,11 +736,11 @@ SUBROUTINE_02E9:
  15: 0x036C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x037D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x038C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 18: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=7943*)
+ 18: 0x039B [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
     → "It's finished! Rrreally, a good skin makes all the difference, I think you'll agree."
  19: 0x039E [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x039F [0x1C] WAIT(30* ticks)
- 21: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7944*)
+ 21: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
     → "Come back again!"
  22: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x03A6 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -778,13 +778,13 @@ SUBROUTINE_02E9:
   1: 0x03CD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x03CE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x03CF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03E2 [0x03] Work_Zone[2] = 861*
   7: 0x03E7 [0x03] Work_Zone[3] = 505*
   8: 0x03EC [0x03] Work_Zone[4] = 852*
-  9: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7945*)
+  9: 0x03F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7946*)
     → "I'm not taking any more $0, but I'm still taking all the $1 and $2 I can get, so brrring me more! In sets of three, if you please."
  10: 0x03F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x03F5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -818,7 +818,7 @@ SUBROUTINE_02E9:
   1: 0x0404 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0405 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0406 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=7852*)
+  4: 0x0415 [0x1D] PRINT_EVENT_MESSAGE(message_id=7853*)
     → "Oh, it's you again!"
   5: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0419 [0x1C] WAIT(30* ticks)
@@ -858,37 +858,37 @@ SUBROUTINE_02E9:
   1: 0x0421 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0422 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0423 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  4: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=8064*)
+  4: 0x0432 [0x1D] PRINT_EVENT_MESSAGE(message_id=8065*)
     → "You've become quite the adventurer, haven't you?"
   5: 0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0436 [0x1C] WAIT(30* ticks)
-  7: 0x0439 [0x1D] PRINT_EVENT_MESSAGE(message_id=8065*)
+  7: 0x0439 [0x1D] PRINT_EVENT_MESSAGE(message_id=8066*)
     → "Perhaps it's time for me to take on a challenge, too? Make something rrreally high-class... I know!"
   8: 0x043C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x043D [0x1C] WAIT(30* ticks)
  10: 0x0440 [0x01] GOTO 0x0444
 
 SUBROUTINE_0444:
- 11: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=8066*)
+ 11: 0x0444 [0x1D] PRINT_EVENT_MESSAGE(message_id=8067*)
     → "Big cats live in the Jugner Forest: forest tigers. I want you to bring me some of their hides. And don't worry, we're not related!"
  12: 0x0447 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0448 [0x1C] WAIT(30* ticks)
  14: 0x044B [0x03] Work_Zone[2] = 861*
- 15: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=8067*)
+ 15: 0x0450 [0x1D] PRINT_EVENT_MESSAGE(message_id=8068*)
     → "Bring me thrrree $0 and I'll make you something special. How about it?"
  16: 0x0453 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0454 [0x1C] WAIT(30* ticks)
- 18: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=7859*)
+ 18: 0x0457 [0x1D] PRINT_EVENT_MESSAGE(message_id=7860*)
     → "Well? Will you collect the skins?"
  19: 0x045A [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x045B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 21: 0x0460 [0x24] CREATE_DIALOG(message_id=8148*, default_option=0*, option_flags=0*)
+ 21: 0x0460 [0x24] CREATE_DIALOG(message_id=8149*, default_option=0*, option_flags=0*)
     → "Accept? [Yes./I'm sorry.]"
  22: 0x0467 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0468 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0498
  24: 0x0470 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  25: 0x047F [0x03] Work_Zone[2] = 861*
- 26: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
+ 26: 0x0484 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
     → "That's great! I'll get right to work as soon as you bring the thrrree $0. Good luck."
  27: 0x0487 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0488 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -898,7 +898,7 @@ SUBROUTINE_0444:
  32: 0x0498 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x04C8
  33: 0x04A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
  34: 0x04AF [0x03] Work_Zone[2] = 861*
- 35: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8069*)
+ 35: 0x04B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8070*)
     → "That's rrreally too bad. Did you know that $0 goods sell for a pretty gil at the market?"
  36: 0x04B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x04B8 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -947,11 +947,11 @@ SUBROUTINE_04C8:
   4: 0x04D3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x04D4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
   6: 0x04E3 [0x03] Work_Zone[2] = 861*
-  7: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8071*)
+  7: 0x04E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
     → "Hey! What about the $0? I'll need thrrree before I can get to work!"
   8: 0x04EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x04EC [0x1C] WAIT(30* ticks)
- 10: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8072*)
+ 10: 0x04EF [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
     → "I still need sheepskins and lizard skins, too! Bring thrrree anytime and I'll make you something."
  11: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x04F3 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -997,11 +997,11 @@ SUBROUTINE_04C8:
   3: 0x0507 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0508 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0509 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
-  6: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=8073*)
+  6: 0x0518 [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
     → "Oooh! That was fast. You always do such good work! And that lets me do good work, too!"
   7: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x051C [0x1C] WAIT(30* ticks)
-  9: 0x051F [0x1D] PRINT_EVENT_MESSAGE(message_id=8074*)
+  9: 0x051F [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
     → "Wait right there. With these I should be able to make something really classy. Be rrright back!"
  10: 0x0522 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0523 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -1011,11 +1011,11 @@ SUBROUTINE_04C8:
  15: 0x054B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  16: 0x055C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x056B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 18: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=8075*)
+ 18: 0x057A [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
     → "Sorry for the wait. Look! The quality of the hide really shows through, don't you think? Fine work, if I may say so myself!"
  19: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x057E [0x1C] WAIT(30* ticks)
- 21: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=8076*)
+ 21: 0x0581 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
     → "Come again anytime. It's a rrreal pleasure doing business with you!"
  22: 0x0584 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0585 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

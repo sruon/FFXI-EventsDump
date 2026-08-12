@@ -27,7 +27,7 @@
 |       4 | 0x0005      |           5 |
 |       5 | 0x0006      |           6 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x1C45      |        7237 |
+|       7 | 0x1C46      |        7238 |
 |       8 | 0x002A      |          42 |
 |       9 | 0x0002      |           2 |
 |      10 | 0x002B      |          43 |
@@ -51,7 +51,7 @@
 
 ## String References
 
-- **7237**: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
+- **7238**: Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]
 
 ## Events
 
@@ -126,7 +126,7 @@
   8: 0x002C [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[0]
   9: 0x0031 [0x0B] Work_Zone[4]++
  10: 0x0034 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=3*, condition_work_offset=1*)
- 11: 0x003B [0x24] CREATE_DIALOG(message_id=7237*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
+ 11: 0x003B [0x24] CREATE_DIALOG(message_id=7238*, default_option=ExtData[1]->WorkLocal[0], option_flags=ExtData[1]->WorkLocal[1])
     → "Destination? (Currently: [/N/W/E/C] Tower, Floor $2). [[/Northern/Western/Eastern/Central] Tower - 1st Floor./[/Northern/Western/Eastern/Central] Tower - 2nd Floor./[/Northern/Western/Eastern/Central] Tower - 3rd Floor./[/Northern/Western/Eastern/Central] Tower - 4th Floor./[/Northern/Western/Eastern] Tower - 5th Floor./[/Northern/Western/Eastern] Tower - 6th Floor./[/Northern/Western/Eastern] Tower - 7th Floor./Entrance./Never mind.]"
  12: 0x0042 [0x25] WAIT_DIALOG_SELECT()
  13: 0x0043 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0053

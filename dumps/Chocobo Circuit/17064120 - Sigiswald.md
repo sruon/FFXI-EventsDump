@@ -22,17 +22,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x25C8      |        9672 |
-|       1 | 0x25C9      |        9673 |
-|       2 | 0x25CC      |        9676 |
-|       3 | 0x25CD      |        9677 |
+|       0 | 0x25C9      |        9673 |
+|       1 | 0x25CA      |        9674 |
+|       2 | 0x25CD      |        9677 |
+|       3 | 0x25CE      |        9678 |
 
 ## String References
 
-- **9672**: Yes? Why did I choose "ID$3:$0-$1", you ask? Well...let's just say I have a feeling. <Chuckle>
-- **9673**: Deafeningly loud though this place can be, I oft come here to pass the time.
-- **9676**: Huzzah! The old pauper becomes a prince!
-- **9677**: Noooooo! M-my weekly allowance... I must win it back!
+- **9673**: Yes? Why did I choose "ID$3:$0-$1", you ask? Well...let's just say I have a feeling. <Chuckle>
+- **9674**: Deafeningly loud though this place can be, I oft come here to pass the time.
+- **9677**: Huzzah! The old pauper becomes a prince!
+- **9678**: Noooooo! M-my weekly allowance... I must win it back!
 
 ## Events
 
@@ -79,10 +79,10 @@
 
 ```
   0: 0x0001 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9672*)
+  1: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
     → "Yes? Why did I choose "ID$3:$0-$1", you ask? Well...let's just say I have a feeling. <Chuckle>"
   2: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9673*)
+  3: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=9674*)
     → "Deafeningly loud though this place can be, I oft come here to pass the time."
   4: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0012 [0x21] END_EVENT
@@ -110,7 +110,7 @@
 
 ```
   0: 0x0014 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9676*)
+  1: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
     → "Huzzah! The old pauper becomes a prince!"
   2: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0021 [0x21] END_EVENT
@@ -138,7 +138,7 @@
 
 ```
   0: 0x0023 [0x4A] EventEntity looks at LocalPlayer
-  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9677*)
+  1: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9678*)
     → "Noooooo! M-my weekly allowance... I must win it back!"
   2: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0030 [0x21] END_EVENT

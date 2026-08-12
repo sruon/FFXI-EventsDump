@@ -21,10 +21,10 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0321      |         801 |
-|       1 | 0x1CE2      |        7394 |
+|       1 | 0x1CE3      |        7395 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1CE6      |        7398 |
+|       4 | 0x1CE7      |        7399 |
 |       5 | 0x00B4      |         180 |
 |       6 | 0x00C8      |         200 |
 |       7 | 0x003C      |          60 |
@@ -34,8 +34,8 @@
 
 ## String References
 
-- **7394**: Use the $3? [Yes./No.]
-- **7398**: You rap on the gate using the same pattern you saw in the pictographs. You hear the creaking sound of a bar lifting on the other side of the gate.
+- **7395**: Use the $3? [Yes./No.]
+- **7399**: You rap on the gate using the same pattern you saw in the pictographs. You hear the creaking sound of a bar lifting on the other side of the gate.
 
 ## Events
 
@@ -95,7 +95,7 @@
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0005 [0x03] Work_Zone[2] = 801*
-  3: 0x000A [0x24] CREATE_DIALOG(message_id=7394*, default_option=1*, option_flags=0*)
+  3: 0x000A [0x24] CREATE_DIALOG(message_id=7395*, default_option=1*, option_flags=0*)
     → "Use the $3? [Yes./No.]"
   4: 0x0011 [0x25] WAIT_DIALOG_SELECT()
   5: 0x0012 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00AD
@@ -103,7 +103,7 @@
   7: 0x001C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   8: 0x001E [0x46] CAMERA_CONTROL: Disable user control
   9: 0x0020 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 10: 0x0021 [0x48] [System] [7398*]:
+ 10: 0x0021 [0x48] [System] [7399*]:
     → "You rap on the gate using the same pattern you saw in the pictographs. You hear the creaking sound of a bar lifting on the other side of the gate."
  11: 0x0024 [0x1C] WAIT(180* ticks)
  12: 0x0027 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

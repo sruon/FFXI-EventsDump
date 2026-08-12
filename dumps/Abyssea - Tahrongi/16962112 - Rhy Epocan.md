@@ -20,15 +20,15 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FD4      |        8148 |
-|       1 | 0x1FD5      |        8149 |
-|       2 | 0x1FD6      |        8150 |
+|       0 | 0x1FD5      |        8149 |
+|       1 | 0x1FD6      |        8150 |
+|       2 | 0x1FD7      |        8151 |
 
 ## String References
 
-- **8148**: The shame! The terrrible, utterrr shame of it all!
-- **8149**: I am a Sibyl Guard, rrraised from birth to protect the Star Sibyl with my life. Now here I stand, flung to the far rrreaches of heaven-knows-where with Her Holiness nowhere in sight!
-- **8150**: Is this my punishment for failing in my duty!? No! I will not accept this miserrrable fate!
+- **8149**: The shame! The terrrible, utterrr shame of it all!
+- **8150**: I am a Sibyl Guard, rrraised from birth to protect the Star Sibyl with my life. Now here I stand, flung to the far rrreaches of heaven-knows-where with Her Holiness nowhere in sight!
+- **8151**: Is this my punishment for failing in my duty!? No! I will not accept this miserrrable fate!
 
 ## Events
 
@@ -77,13 +77,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8148*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
     → "The shame! The terrrible, utterrr shame of it all!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
+  5: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
     → "I am a Sibyl Guard, rrraised from birth to protect the Star Sibyl with my life. Now here I stand, flung to the far rrreaches of heaven-knows-where with Her Holiness nowhere in sight!"
   6: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8150*)
+  7: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=8151*)
     → "Is this my punishment for failing in my duty!? No! I will not accept this miserrrable fate!"
   8: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0014 [0x21] END_EVENT

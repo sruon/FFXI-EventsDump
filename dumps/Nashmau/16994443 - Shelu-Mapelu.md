@@ -116,27 +116,27 @@
 |      17 | 0x0002      |           2 |
 |      18 | 0x001E      |          30 |
 |      19 | 0x00D7      |         215 |
-|      20 | 0x2ED7      |       11991 |
-|      21 | 0x2ED8      |       11992 |
-|      22 | 0x2ED9      |       11993 |
+|      20 | 0x2ED8      |       11992 |
+|      21 | 0x2ED9      |       11993 |
+|      22 | 0x2EDA      |       11994 |
 |      23 | 0x3D21      |       15649 |
 |      24 | 0xE7E7      |       59367 |
 |      25 | 0x3AE0      |       15072 |
 |      26 | 0xE6CA      |       59082 |
 |      27 | 0x4326      |       17190 |
 |      28 | 0xED3A      |       60730 |
-|      29 | 0x2EE7      |       12007 |
-|      30 | 0x2EE8      |       12008 |
-|      31 | 0x2EE9      |       12009 |
+|      29 | 0x2EE8      |       12008 |
+|      30 | 0x2EE9      |       12009 |
+|      31 | 0x2EEA      |       12010 |
 
 ## String References
 
-- **11991**: Eep! Pay me no heed.
-- **11992**: I seek...the power of the peach...so that I can stop the transformation...and remain human evermore.
-- **11993**: The peach thing I require...you have it...?
-- **12007**: You...you found the peach thing I seek?
-- **12008**: Then I give this to you in return. Perhaps...it will serve you better than me.
-- **12009**: And my journey...to prevent the transformation...continues.
+- **11992**: Eep! Pay me no heed.
+- **11993**: I seek...the power of the peach...so that I can stop the transformation...and remain human evermore.
+- **11994**: The peach thing I require...you have it...?
+- **12008**: You...you found the peach thing I seek?
+- **12009**: Then I give this to you in return. Perhaps...it will serve you better than me.
+- **12010**: And my journey...to prevent the transformation...continues.
 
 ## Events
 
@@ -1996,10 +1996,10 @@
 
 ```
   0: 0x0712 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Shelu-Mapelu (ID: 16994443/0x0103508B), tag_num=0x25)
-  1: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=11991*)
+  1: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=11992*)
     → "Eep! Pay me no heed."
   2: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=11992*)
+  3: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=11993*)
     → "I seek...the power of the peach...so that I can stop the transformation...and remain human evermore."
   4: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0721 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Shelu-Mapelu (ID: 16994443/0x0103508B), tag_num=0x26)
@@ -2032,7 +2032,7 @@
   1: 0x0736 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0737 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0738 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Shelu-Mapelu (ID: 16994443/0x0103508B), tag_num=0x25)
-  4: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=11993*)
+  4: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=11994*)
     → "The peach thing I require...you have it...?"
   5: 0x0742 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0743 [0x21] END_EVENT
@@ -2166,13 +2166,13 @@
   1: 0x0774 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0779 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x077A [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=12007*)
+  4: 0x077B [0x1D] PRINT_EVENT_MESSAGE(message_id=12008*)
     → "You...you found the peach thing I seek?"
   5: 0x077E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=12008*)
+  6: 0x077F [0x1D] PRINT_EVENT_MESSAGE(message_id=12009*)
     → "Then I give this to you in return. Perhaps...it will serve you better than me."
   7: 0x0782 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0783 [0x1D] PRINT_EVENT_MESSAGE(message_id=12009*)
+  8: 0x0783 [0x1D] PRINT_EVENT_MESSAGE(message_id=12010*)
     → "And my journey...to prevent the transformation...continues."
   9: 0x0786 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0787 [0x21] END_EVENT

@@ -119,8 +119,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
-|       1 | 0x1E5C      |        7772 |
-|       2 | 0x1E5D      |        7773 |
+|       1 | 0x1E5D      |        7773 |
+|       2 | 0x1E5E      |        7774 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x000C      |          12 |
 |       5 | 0xFFFED6C4  |  4294891204 |
@@ -225,8 +225,8 @@
 
 ## String References
 
-- **7772**: Oh, dear... There are so many to choose from! I don't know what to pick. By the way, do you think this looks good on me?
-- **7773**: I don't think it does. I need something that jumps out and screams "me." Hmm... What to choose...
+- **7773**: Oh, dear... There are so many to choose from! I don't know what to pick. By the way, do you think this looks good on me?
+- **7774**: I don't think it does. I need something that jumps out and screams "me." Hmm... What to choose...
 
 ## Events
 
@@ -275,10 +275,10 @@
 
 ```
   0: 0x0001 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7772*)
+  1: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
     → "Oh, dear... There are so many to choose from! I don't know what to pick. By the way, do you think this looks good on me?"
   2: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7773*)
+  3: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=7774*)
     → "I don't think it does. I need something that jumps out and screams "me." Hmm... What to choose..."
   4: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0018 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*

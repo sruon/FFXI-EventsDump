@@ -23,101 +23,101 @@
 |       0 | 0x0002      |           2 |
 |       1 | 0x0008      |           8 |
 |       2 | 0x000F      |          15 |
-|       3 | 0x1D06      |        7430 |
-|       4 | 0x1D07      |        7431 |
+|       3 | 0x1D07      |        7431 |
+|       4 | 0x1D08      |        7432 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x1D08      |        7432 |
-|       7 | 0x1D09      |        7433 |
-|       8 | 0x1D0A      |        7434 |
+|       6 | 0x1D09      |        7433 |
+|       7 | 0x1D0A      |        7434 |
+|       8 | 0x1D0B      |        7435 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x1D0B      |        7435 |
-|      11 | 0x1D0C      |        7436 |
-|      12 | 0x1D0D      |        7437 |
-|      13 | 0x1D0E      |        7438 |
-|      14 | 0x1D0F      |        7439 |
-|      15 | 0x1D10      |        7440 |
+|      10 | 0x1D0C      |        7436 |
+|      11 | 0x1D0D      |        7437 |
+|      12 | 0x1D0E      |        7438 |
+|      13 | 0x1D0F      |        7439 |
+|      14 | 0x1D10      |        7440 |
+|      15 | 0x1D11      |        7441 |
 |      16 | 0x0003      |           3 |
-|      17 | 0x1D11      |        7441 |
-|      18 | 0x1D12      |        7442 |
-|      19 | 0x1D13      |        7443 |
+|      17 | 0x1D12      |        7442 |
+|      18 | 0x1D13      |        7443 |
+|      19 | 0x1D14      |        7444 |
 |      20 | 0x0004      |           4 |
-|      21 | 0x1D14      |        7444 |
-|      22 | 0x1D15      |        7445 |
-|      23 | 0x1D16      |        7446 |
+|      21 | 0x1D15      |        7445 |
+|      22 | 0x1D16      |        7446 |
+|      23 | 0x1D17      |        7447 |
 |      24 | 0x0005      |           5 |
-|      25 | 0x1D17      |        7447 |
-|      26 | 0x1D18      |        7448 |
-|      27 | 0x1D19      |        7449 |
-|      28 | 0x1D1A      |        7450 |
+|      25 | 0x1D18      |        7448 |
+|      26 | 0x1D19      |        7449 |
+|      27 | 0x1D1A      |        7450 |
+|      28 | 0x1D1B      |        7451 |
 |      29 | 0x0006      |           6 |
-|      30 | 0x1D1B      |        7451 |
+|      30 | 0x1D1C      |        7452 |
 |      31 | 0x006E      |         110 |
 |      32 | 0x0007      |           7 |
-|      33 | 0x1D1C      |        7452 |
-|      34 | 0x1D1D      |        7453 |
-|      35 | 0x1D24      |        7460 |
+|      33 | 0x1D1D      |        7453 |
+|      34 | 0x1D1E      |        7454 |
+|      35 | 0x1D25      |        7461 |
 |      36 | 0x0009      |           9 |
 |      37 | 0x000A      |          10 |
 |      38 | 0x000B      |          11 |
 |      39 | 0x000C      |          12 |
-|      40 | 0x1D2B      |        7467 |
-|      41 | 0x1D2C      |        7468 |
-|      42 | 0x1D2D      |        7469 |
-|      43 | 0x1D2E      |        7470 |
-|      44 | 0x1D2F      |        7471 |
-|      45 | 0x1D30      |        7472 |
-|      46 | 0x1D31      |        7473 |
-|      47 | 0x1D32      |        7474 |
-|      48 | 0x1D33      |        7475 |
-|      49 | 0x1D34      |        7476 |
-|      50 | 0x1D35      |        7477 |
-|      51 | 0x1D36      |        7478 |
-|      52 | 0x1D37      |        7479 |
-|      53 | 0x1D38      |        7480 |
-|      54 | 0x1D39      |        7481 |
-|      55 | 0x1D3A      |        7482 |
-|      56 | 0x1D3B      |        7483 |
-|      57 | 0x1D3C      |        7484 |
-|      58 | 0x1D3D      |        7485 |
-|      59 | 0x1D3E      |        7486 |
-|      60 | 0x1D3F      |        7487 |
-|      61 | 0x1D40      |        7488 |
-|      62 | 0x1D41      |        7489 |
-|      63 | 0x1D42      |        7490 |
-|      64 | 0x1D43      |        7491 |
-|      65 | 0x1D44      |        7492 |
-|      66 | 0x1D45      |        7493 |
+|      40 | 0x1D2C      |        7468 |
+|      41 | 0x1D2D      |        7469 |
+|      42 | 0x1D2E      |        7470 |
+|      43 | 0x1D2F      |        7471 |
+|      44 | 0x1D30      |        7472 |
+|      45 | 0x1D31      |        7473 |
+|      46 | 0x1D32      |        7474 |
+|      47 | 0x1D33      |        7475 |
+|      48 | 0x1D34      |        7476 |
+|      49 | 0x1D35      |        7477 |
+|      50 | 0x1D36      |        7478 |
+|      51 | 0x1D37      |        7479 |
+|      52 | 0x1D38      |        7480 |
+|      53 | 0x1D39      |        7481 |
+|      54 | 0x1D3A      |        7482 |
+|      55 | 0x1D3B      |        7483 |
+|      56 | 0x1D3C      |        7484 |
+|      57 | 0x1D3D      |        7485 |
+|      58 | 0x1D3E      |        7486 |
+|      59 | 0x1D3F      |        7487 |
+|      60 | 0x1D40      |        7488 |
+|      61 | 0x1D41      |        7489 |
+|      62 | 0x1D42      |        7490 |
+|      63 | 0x1D43      |        7491 |
+|      64 | 0x1D44      |        7492 |
+|      65 | 0x1D45      |        7493 |
+|      66 | 0x1D46      |        7494 |
 |      67 | 0x000D      |          13 |
-|      68 | 0x1D46      |        7494 |
-|      69 | 0x1D47      |        7495 |
-|      70 | 0x1D54      |        7508 |
-|      71 | 0x1D55      |        7509 |
-|      72 | 0x1D56      |        7510 |
-|      73 | 0x1D57      |        7511 |
-|      74 | 0x1D1E      |        7454 |
-|      75 | 0x1D1F      |        7455 |
-|      76 | 0x1D20      |        7456 |
-|      77 | 0x1D21      |        7457 |
-|      78 | 0x1D22      |        7458 |
-|      79 | 0x1D23      |        7459 |
-|      80 | 0x1D25      |        7461 |
-|      81 | 0x1D26      |        7462 |
-|      82 | 0x1D27      |        7463 |
-|      83 | 0x1D28      |        7464 |
-|      84 | 0x1D29      |        7465 |
-|      85 | 0x1D2A      |        7466 |
-|      86 | 0x1D48      |        7496 |
-|      87 | 0x1D49      |        7497 |
-|      88 | 0x1D4A      |        7498 |
-|      89 | 0x1D4B      |        7499 |
-|      90 | 0x1D4C      |        7500 |
-|      91 | 0x1D4D      |        7501 |
-|      92 | 0x1D4E      |        7502 |
-|      93 | 0x1D4F      |        7503 |
-|      94 | 0x1D50      |        7504 |
-|      95 | 0x1D51      |        7505 |
-|      96 | 0x1D52      |        7506 |
-|      97 | 0x1D53      |        7507 |
+|      68 | 0x1D47      |        7495 |
+|      69 | 0x1D48      |        7496 |
+|      70 | 0x1D55      |        7509 |
+|      71 | 0x1D56      |        7510 |
+|      72 | 0x1D57      |        7511 |
+|      73 | 0x1D58      |        7512 |
+|      74 | 0x1D1F      |        7455 |
+|      75 | 0x1D20      |        7456 |
+|      76 | 0x1D21      |        7457 |
+|      77 | 0x1D22      |        7458 |
+|      78 | 0x1D23      |        7459 |
+|      79 | 0x1D24      |        7460 |
+|      80 | 0x1D26      |        7462 |
+|      81 | 0x1D27      |        7463 |
+|      82 | 0x1D28      |        7464 |
+|      83 | 0x1D29      |        7465 |
+|      84 | 0x1D2A      |        7466 |
+|      85 | 0x1D2B      |        7467 |
+|      86 | 0x1D49      |        7497 |
+|      87 | 0x1D4A      |        7498 |
+|      88 | 0x1D4B      |        7499 |
+|      89 | 0x1D4C      |        7500 |
+|      90 | 0x1D4D      |        7501 |
+|      91 | 0x1D4E      |        7502 |
+|      92 | 0x1D4F      |        7503 |
+|      93 | 0x1D50      |        7504 |
+|      94 | 0x1D51      |        7505 |
+|      95 | 0x1D52      |        7506 |
+|      96 | 0x1D53      |        7507 |
+|      97 | 0x1D54      |        7508 |
 |      98 | 0x0010      |          16 |
 |      99 | 0x0013      |          19 |
 |     100 | 0x0014      |          20 |
@@ -127,88 +127,88 @@
 
 ## String References
 
-- **7430**: [Why, hello there, my dear pioneer!/Good day to you./Hello, pioneer./Welcome to our establishmentaru!/I hope you're having a marvelous-warvelous day!/Welcome back!] Is there anything you'd like to know about the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition?
-- **7431**: What would you like to know about? [The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition's role./The state of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition./Types of coalition assignments./Current expansion plans./Coalition referendum support./Your current standing./Nothing.]
-- **7432**: The Pioneers' Coalition contributes to the colonization effort mainly by cultivating uninhabitable territory and preparing the necessary resources to do so.
-- **7433**: It would take no stretch of the imagination to say that our coalition is the standard-bearer for the whole movement, what with all the brave young men and women that swell our ranks.
-- **7434**: The maester who leads our family of settlers is Lhe Lhangavo from the Order of Karieyh. She's possibly the most passionate of any order leader, and certainly one of the most caring. She's always looking out for her subordinates.
-- **7435**: The Peacekeepers' Coalition has the most self-explanatory name I'm sure you've ever heard. We work towards making Adoulin a safer place.
-- **7436**: We're composed of only the most dedicated and dutiful individuals--people willing to give their lives to protect this town and its populace.
-- **7437**: The great--though often grumpy--Gratzigg is our maester, but despite his sour demeanor, he's the most loyal of anyone in the Twelve Orders. His love for Adoulin has saved it from utter despair more times than I care to remember.
-- **7438**: The Couriers' Coalition does its part by transporting supplies to the front lines. We also ensure the integrity of every shipment's cargo.
-- **7439**: We're very punctual and really strict about getting our deliveries right. We have the reputation of being uptight because of it, but it's those qualities that keep the pioneering movement going.
-- **7440**: Reginald serves as our maester. He may not be the most talkative person you've ever met, but just try to find a more gentlemanly gentleman among the Twelve Orders.
-- **7441**: The Scouts' Coalition gathers intelligence from all over the continentaru and analyzes unknown materials to further the colonization movement.
-- **7442**: The knowledge our coalition accrues, coupled-woupled with our innate knack for careful archival supervision, makes us indispensable in this era.
-- **7443**: Our maestaru, Margret, belongs to the Order of Haverton. Her sheer brilliance-williance makes appetizers out of even the most difficult problems, so it's no wonder that she is seen as one of the greatest minds in Adoulin.
-- **7444**: The Inventors' Coalition mainly supportarus pioneers and the colonization of Ulbuka through the development of tools and equipment.
-- **7445**: We provide an economic foundation-wation for the city and the pioneering movement by using the materials pioneers bring us to create new foodstuffs that can last an ocean voyage, along with new articles to outfitaru explorers.
-- **7446**: Our maester is the one-and-only Amchuchu from the Order of Orvail. Her skills and mind are more renowned than possibly any other maester in Adoulin's history-wistory, making her one of our most talented technicians.
-- **7447**: The number one concern for the Mummers' Coalition is pioneer morale.
-- **7448**: It may seem like all we do is spout japes and cavort about, but there is a method to our apparent madness. Soothing the spirits of pioneers has a proven economic benefit, so expect to see Mummer-sponsored events for some time to come.
-- **7449**: Flaviria from the Order of Thurandaut heads our troupe, and I've never seen anyone who can spin a yarn or tell a joke quite like her. It's obvious that someone with her personality would be loved by both the nobility and common folk.
-- **7450**: The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is currently rank number $1.
-- **7451**: According to the most recent surveys, this coalition [is a blight on the city./is nothing to write home about./isn't half bad./is expanding nicely./is a credit to the city./puts others to shame!/is a paragon of prosperity!] [You might want to try to remedy that./Keep trying./Your efforts are starting to pay off./That said, you're still only halfway to the top./Feel free to gloat about your accomplishments./I hope you're not afraid of heights, because you're incredibly close to the top!/How's the view from the top? Great? Then keep up the excellent work!]
-- **7452**: You've all been [abysmal/uninspiring/decent/remarkable/positively miraculous] at accomplishing your coalition assignments. Our coalition's rank [will almost certainly fall/may fall/will probably stay about the same/might rise/will almost certainly rise] after the next evaluation.
-- **7453**: You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]
-- **7454**: [- Gathering Goods/- Gathering Goods II/- Gathering Equipment/- Gathering Technique Knowledge/- Colonization Support Provisions/- Gathering Goods III/- Gathering Equipment II/- Colonization Support Provisions II/- Gathering Technique Knowledge II][/ and our overly cheerful trailblazing attitude...not that the last is really a service./nothing at this time.]
-- **7455**: [- Traditional Armor/- Traditional Weaponry/- Traditional Armor II/- Frontline Provisions/- Traditional Weaponry II/- Traditional Armor III/- Traditional Armor IV/- Traditional Armor V/- Traditional Armor VI][/ and our usual killjoy meddling...if you call that a service./no services at this time.]
-- **7456**: [- Travel Assistance Provisions/- Temporary Warp Runes/- Town Movement Speed Enhancement/- Delivery Personnel Increase/- Kinetic Unit Cost Adjustment/- Temporary Warp Runes II/- Town Movement Speed Enhancement II/- Delivery Personnel Increase II/- Kinetic Unit Cost Adjustment II][/ and our compulsive attention to the time...if you can even call that a service./no services at this time.]
-- **7457**: [- Maps/- Map Marking/- Colonization Intelligence/- Ergon Locus Intelligence/- Library Cards/- Map Marking II/- Spoils of War Intelligence/- Ergon Locus Intelligence II/- Spoils of War Intelligence II][/ and our absolutely incessant snooping...if you're into that kinda thing./no services at this time.]
-- **7458**: [- Ergon Tinctures/- Synthesis Support Provisions/- Arcane Glyptics Price Reduction/- Arcane Glyptics Materials/- Growth Agents and Materials/- Synthesis Support Provisions II/- Arcane Glyptics Price Reduction II/- Growth Agents and Materials Price Reduction/- Travel Provisions][/ and our annual Girls of Science calendar...if you can get your hands on a copy./no services at this time.]
-- **7459**: [- Guess That Number (Game)/- Boom or Bust (Game)/- On The Dot (Game)/- Cascade (Game)/- Mummers' Medal Prizes/- Box of Fortune (Game)/- Mummers' Medal Prizes II/- Mummers' Medal Prizes III/- Three-Card Circus (Game)][/ and our usual array of god-awful puns...if you can stand that particular service./no services at this time.]
-- **7460**: Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]
-- **7461**: [/- Minor Attack Enhancement/- Minor Magic Attack Bonus/- Minor Gathering Fatigue Reduction/- Minor Gathering Efficacy Enhancement/- Moderate Attack Enhancement/- Moderate Magic Attack Bonus/- Moderate Gathering Fatigue Reduction /- Moderate Gathering Efficacy Enhancement][/ in addition to its normal benefits./no additional benefits.]
-- **7462**: [/- Minor Defense Enhancement/- Minor Magic Defense Bonus/- Minor HP and MP Recovery Enhancement/- Minor Enhancement to Max HP and MP/- Moderate Defense Enhancement/- Moderate Magic Defense Bonus/- Moderate HP and MP Recovery Enhancement/- Moderate Enhancement to Max HP and MP][/ in addition to its normal benefits./no additional benefits.]
-- **7463**: [/- Minor Accuracy and Magic Accuracy Enhancement/- Minor Evasion and Magic Evasion Enhancement/- Minor Critical Hit Rate Increase/- Minor Haste Effect/- Moderate Accuracy and Magic Accuracy Enhancement/- Moderate Evasion and Magic Evasion Enhancement/- Moderate Critical Hit Rate Increase/- Moderate Haste Effect][/ in addition to its normal benefits./no additional benefits.]
-- **7464**: [/- Minor Save TP Effect/- Minor Conserve MP Effect/- Minor Fast Cast Effect/- Minor Resistance Increase to All Status Ailments/- Moderate Save TP Effect/- Moderate Conserve MP Effect/- Moderate Fast Cast Effect/- Moderate Resistance Increase to All Status Ailments][/ in addition to its normal benefits./no additional benefits.]
-- **7465**: [/- Minor Crystal Obtainment Rate Increase/- Minor Material Loss Rate Reduction/- Minor Synthesis Skill Gain Rate Increase/- Minor Synthesis Success Rate Increase/- Moderate Crystal Obtainment Rate Increase/- Moderate Material Loss Rate Reduction/- Moderate Synthesis Skill Gain Rate Increase/- Moderate Synthesis Success Rate Increase][/ in addition to its normal benefits./no additional benefits.]
-- **7466**: [/- Minor Combat Skill Gain Rate Increase/- Minor Magic Skill Gain Rate Increase/- Minor Experience Point Bonus/- Minor Reward Obtainment Rate Increase/- Moderate Combat Skill Gain Rate Increase/- Moderate Magic Skill Gain Rate Increase/- Moderate Experience Point Bonus/- Moderate Reward Obtainment Rate Increase][/ in addition to its normal benefits./no additional benefits.]
-- **7467**: What assignments will you ask about? [Procuring resources./Clearing the way./Preserving the peace./Patrols./Base provisions./Delivering supplies./Frontline support./Land surveys./Component analysis./Gathering materials./Recovering lost articles./Behavioral research./Morale boosting./Nothing.]
-- **7468**: Head out into the world and gather vital pioneering resources via methods such as mining and logging. Simply purchasing the supplies tells the coalition nothing of your abilities, however, and those who do will receive no remuneration.
-- **7469**: It may seem like a thankless job, but the erection of coalition expansions and frontier stations demands constant provisioning, so it is not a task to be taken lightly.
-- **7470**: Natural obstacles pop up from time to time, and pioneers are often asked to engage in a bit of bushwhacking to clear them away so the colonization movement can proceed. The only way to be officially recognized for such feats, though, is by participating in Colonization Reives.
-- **7471**: The perils are aptly named, for many pioneers have fallen in attempts to rid the land of them. So many, in fact, that Maester Lhangavo was bereft of a few fur clumps for some time worrying over the issue.
-- **7472**: Peace in Adoulin is a precarious thing. Fiends could assault the city at any moment, which is why we need to nip this problem in the bud. Join Lair Reives to eliminate their breeding grounds and contribute to the colonization effort.
-- **7473**: If only the instinct to rebuild their homes were not so engrained in these hellions, life would be much easier for us. Sadly, you'll need to participate in these reives periodically in order to keep Ulbuka habitable.
-- **7474**: While the Peacekeepers' Coalition often makes its rounds in the city itself, these patrols will take you to specific jungle locales for the express purpose of culling unwanted pests. Make sure to slay your quota, though, or you won't receive any recognition for your deeds.
-- **7475**: Give Adoulin's population some peace of mind by embarking on these expeditions every so often. Also, rumors about far more terrifying beasts are likely to surface the further we progress into Ulbuka's interior, but as long as you stick to your duties, you should have no reason to fear them.
-- **7476**: For these assignments, you'll need to transport provisions to the sites of future frontier stations. You can now use waypoints and still receive commendations, but be prepared to hear stories about "back in my day, we had to walk all the way out and back on our own two feet," from some wily veterans.
-- **7477**: Frontier stations are paramount to sustaining the colonization effort. Tasks of greater magnitude can't even begin without one, so building these structures should always be a priority.
-- **7478**: You will sometimes be charged with carrying supplies from specific frontier stations to the Couriers' Coalition.
-- **7479**: By supplies, I mean ones obtained in the jungle through pioneering. Yes, acting as a beast of burden may not be the most glamorous duty, but it is a vital one if we're to improve the coalitions and keep Adoulin economically stable.
-- **7480**: The most effective way of supporting those risking their lives on the front lines is by supplying designated frontier bivouacs with the necessary provisions. While it may go against previous Couriers' Coalition policy, the use of waypoints is henceforth permitted on this type of assignment.
-- **7481**: Truth be told, frontier bivouacs are not as developed as their station counterparts, but they still play an important role in the colonization of the continent. If they don't receive provisions regularly, our supply lines to the stations will wither and die.
-- **7482**: Travel to places unknown in search of ergon loci, areas overflowing with natural energy. While some say it's the journey--not the destination--that matters, failing to survey even a single locus will leave you both depleted of energy and empty-handed.
-- **7483**: The potency of an ergon tincture is highly dependent upon the strength of the ergon locus from which it's extracted, so a thorough investigation must be made into each location if we're to successfully use this trump card we've created.
-- **7484**: Completion of these assignments means providing the Scouts' Coalition--and no others, for they are the only ones to possess the proper facilities--with unique and extraordinary materials from certain territories.
-- **7485**: The jungle is teeming with obscure and unfamiliar substances, and from them we hope to derive more powerful and effective materials with which to aid the colonization effort. Science waits for no man, however, and without periodic deliveries of new samples, our research will stagnate.
-- **7486**: The proper equipment and tools are instrumental in the colonization movement's progress--and the Inventors' Coalition apparently wants to be the one to corner the market.
-- **7487**: While the Inventors' Coalition doesn't particularly care how you obtain what they ask for once you're in the specified location, they are quite picky about the number you obtain and the fact that you can't deliver to anyone else.
-- **7488**: Pioneers are an intrepid band of adventurers, but the nature of their trade makes them prone to losing personal effects. Pick up any lost articles in the territory to which you are dispatched and return for a reward along with a pat on the back.
-- **7489**: This is probably the least garish service the Mummers' Coalition provides, but it's one for which pioneers throughout Adoulin are eternally grateful.
-- **7490**: Though they may not be the friendliest of Ulbuka's inhabitants, that doesn't mean the fiends who populate the continent can't teach us a thing or two. Research designated beasts by personally experiencing their special attacks and report what they taught you...if you live to tell the tale.
-- **7491**: The Mummers' Coalition is constantly searching for its muse in all manner of sources, one being the myriad monsters scattered throughout the jungle. Investigating monsters' behavior may be just the inspiration they need to concoct new dances, gags, and events!
-- **7492**: The isolation of the frontier can eat at even the most independent of us, which is why it's important to give our pioneers something to cheer about. Head to specified frontier stations and lift the spirits of the workers there! Just remember that if they don't smile, you don't get rewarded.
-- **7493**: Dance, sing, shout, or generally make a fool of yourself. It doesn't matter how you do it, as long as you can make them laugh and forget their cares for a few moments.
-- **7494**: This coalition is edified as much as possible, and therefore we have no plans to expand.
-- **7495**: Which plan do you want to learn about? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./None.]
-- **7496**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Gathering Goods/Gathering Goods II/Gathering Equipment/Gathering Technique Knowledge/Colonization Support Provisions/Gathering Goods III/Gathering Equipment II/Colonization Support Provisions II/Gathering Technique Knowledge II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7497**: Further, Ionis effects will expand to include [/Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement].
-- **7498**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Traditional Armor/Traditional Weaponry/Traditional Armor II/Frontline Provisions/Traditional Weaponry II/Traditional Armor III/Traditional Armor IV/Traditional Armor V/Traditional Armor VI] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7499**: Further, Ionis effects will expand to include [/Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP].
-- **7500**: If the [/coalition flag/signboard/emblem/second floor/Adoulin flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Travel Assistance Provisions/Temporary Warp Runes/Town Movement Speed Enhancement/Delivery Personnel Increase/Kinetic Unit Cost Adjustment/Temporary Warp Runes II/Town Movement Speed Enhancement II/Delivery Personnel Increase II/Kinetic Unit Cost Adjustment II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7501**: Further, Ionis effects will expand to include [/Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor Haste Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Haste Effect].
-- **7502**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Maps/Map Marking/Colonization Intelligence/Ergon Locus Intelligence/Library Cards/Map Marking II/Spoils of War Intelligence/Ergon Locus Intelligence II/Spoils of War Intelligence II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7503**: Further, Ionis effects will expand to include [/Minor Save TP Effect/Minor Conserve MP Effect/Minor Fast Cast Effect/Minor Resistance Increase to All Status Ailments/Moderate Save TP Effect/Moderate Conserve MP Effect/Moderate Fast Cast Effect/Moderate Resistance Increase to All Status Ailments].
-- **7504**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Ergon Tinctures/Synthesis Support Provisions/Arcane Glyptics Price Reduction/Arcane Glyptics Materials/Growth Agents and Materials/Synthesis Support Provisions II/Arcane Glyptics Price Reduction II/Growth Agents and Materials Price Reduction/Travel Provisions] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7505**: Further, Ionis effects will expand to include [/Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase].
-- **7506**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Guess That Number (Game)/Boom or Bust (Game)/On The Dot (Game)/Cascade (Game)/Mummers' Medal Prizes/Box of Fortune (Game)/Mummers' Medal Prizes II/Mummers' Medal Prizes III/Three-Card Circus (Game)] will [increase in number/expand throughout the continent/provide additional services/be more successful].
-- **7507**: Further, the Ionis effects will expand to include [/Minor Combat Skill Gain Rate Increase Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase].
-- **7508**: The structure most members want to see added to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is...
-- **7509**: A[ coalition flag/ signboard/n emblem/ second floor/n Adoulinian flag/ main terrace/ bay roof/ main chimney]! [It leads by default since there aren't any other proposals./Many more people have voted for it than any other structure./A good number of people have chosen it over the other options./Not by much, however.]
-- **7510**: Your contributions to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition have earned you the title of...
-- **7511**: [Pioneer/Peacekeeper/Courier/Scout/Inventor/Mummer] [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]! [You're off to a swell start!/Congratulations, but you're not out of the woods yet./They've given you their trust. Now it's time to prove they were right to do so!/You're in the position to start making a big difference in Adoulin!/Talent flows unabated from your every pore!/Other pioneers must trample each other seeking your sage advice./One could very well say that the colonization effort revolves around you!/Your exploits will surely be etched in the annals of this continent's history!]
+- **7431**: [Why, hello there, my dear pioneer!/Good day to you./Hello, pioneer./Welcome to our establishmentaru!/I hope you're having a marvelous-warvelous day!/Welcome back!] Is there anything you'd like to know about the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition?
+- **7432**: What would you like to know about? [The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition's role./The state of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition./Types of coalition assignments./Current expansion plans./Coalition referendum support./Your current standing./Nothing.]
+- **7433**: The Pioneers' Coalition contributes to the colonization effort mainly by cultivating uninhabitable territory and preparing the necessary resources to do so.
+- **7434**: It would take no stretch of the imagination to say that our coalition is the standard-bearer for the whole movement, what with all the brave young men and women that swell our ranks.
+- **7435**: The maester who leads our family of settlers is Lhe Lhangavo from the Order of Karieyh. She's possibly the most passionate of any order leader, and certainly one of the most caring. She's always looking out for her subordinates.
+- **7436**: The Peacekeepers' Coalition has the most self-explanatory name I'm sure you've ever heard. We work towards making Adoulin a safer place.
+- **7437**: We're composed of only the most dedicated and dutiful individuals--people willing to give their lives to protect this town and its populace.
+- **7438**: The great--though often grumpy--Gratzigg is our maester, but despite his sour demeanor, he's the most loyal of anyone in the Twelve Orders. His love for Adoulin has saved it from utter despair more times than I care to remember.
+- **7439**: The Couriers' Coalition does its part by transporting supplies to the front lines. We also ensure the integrity of every shipment's cargo.
+- **7440**: We're very punctual and really strict about getting our deliveries right. We have the reputation of being uptight because of it, but it's those qualities that keep the pioneering movement going.
+- **7441**: Reginald serves as our maester. He may not be the most talkative person you've ever met, but just try to find a more gentlemanly gentleman among the Twelve Orders.
+- **7442**: The Scouts' Coalition gathers intelligence from all over the continentaru and analyzes unknown materials to further the colonization movement.
+- **7443**: The knowledge our coalition accrues, coupled-woupled with our innate knack for careful archival supervision, makes us indispensable in this era.
+- **7444**: Our maestaru, Margret, belongs to the Order of Haverton. Her sheer brilliance-williance makes appetizers out of even the most difficult problems, so it's no wonder that she is seen as one of the greatest minds in Adoulin.
+- **7445**: The Inventors' Coalition mainly supportarus pioneers and the colonization of Ulbuka through the development of tools and equipment.
+- **7446**: We provide an economic foundation-wation for the city and the pioneering movement by using the materials pioneers bring us to create new foodstuffs that can last an ocean voyage, along with new articles to outfitaru explorers.
+- **7447**: Our maester is the one-and-only Amchuchu from the Order of Orvail. Her skills and mind are more renowned than possibly any other maester in Adoulin's history-wistory, making her one of our most talented technicians.
+- **7448**: The number one concern for the Mummers' Coalition is pioneer morale.
+- **7449**: It may seem like all we do is spout japes and cavort about, but there is a method to our apparent madness. Soothing the spirits of pioneers has a proven economic benefit, so expect to see Mummer-sponsored events for some time to come.
+- **7450**: Flaviria from the Order of Thurandaut heads our troupe, and I've never seen anyone who can spin a yarn or tell a joke quite like her. It's obvious that someone with her personality would be loved by both the nobility and common folk.
+- **7451**: The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is currently rank number $1.
+- **7452**: According to the most recent surveys, this coalition [is a blight on the city./is nothing to write home about./isn't half bad./is expanding nicely./is a credit to the city./puts others to shame!/is a paragon of prosperity!] [You might want to try to remedy that./Keep trying./Your efforts are starting to pay off./That said, you're still only halfway to the top./Feel free to gloat about your accomplishments./I hope you're not afraid of heights, because you're incredibly close to the top!/How's the view from the top? Great? Then keep up the excellent work!]
+- **7453**: You've all been [abysmal/uninspiring/decent/remarkable/positively miraculous] at accomplishing your coalition assignments. Our coalition's rank [will almost certainly fall/may fall/will probably stay about the same/might rise/will almost certainly rise] after the next evaluation.
+- **7454**: You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]
+- **7455**: [- Gathering Goods/- Gathering Goods II/- Gathering Equipment/- Gathering Technique Knowledge/- Colonization Support Provisions/- Gathering Goods III/- Gathering Equipment II/- Colonization Support Provisions II/- Gathering Technique Knowledge II][/ and our overly cheerful trailblazing attitude...not that the last is really a service./nothing at this time.]
+- **7456**: [- Traditional Armor/- Traditional Weaponry/- Traditional Armor II/- Frontline Provisions/- Traditional Weaponry II/- Traditional Armor III/- Traditional Armor IV/- Traditional Armor V/- Traditional Armor VI][/ and our usual killjoy meddling...if you call that a service./no services at this time.]
+- **7457**: [- Travel Assistance Provisions/- Temporary Warp Runes/- Town Movement Speed Enhancement/- Delivery Personnel Increase/- Kinetic Unit Cost Adjustment/- Temporary Warp Runes II/- Town Movement Speed Enhancement II/- Delivery Personnel Increase II/- Kinetic Unit Cost Adjustment II][/ and our compulsive attention to the time...if you can even call that a service./no services at this time.]
+- **7458**: [- Maps/- Map Marking/- Colonization Intelligence/- Ergon Locus Intelligence/- Library Cards/- Map Marking II/- Spoils of War Intelligence/- Ergon Locus Intelligence II/- Spoils of War Intelligence II][/ and our absolutely incessant snooping...if you're into that kinda thing./no services at this time.]
+- **7459**: [- Ergon Tinctures/- Synthesis Support Provisions/- Arcane Glyptics Price Reduction/- Arcane Glyptics Materials/- Growth Agents and Materials/- Synthesis Support Provisions II/- Arcane Glyptics Price Reduction II/- Growth Agents and Materials Price Reduction/- Travel Provisions][/ and our annual Girls of Science calendar...if you can get your hands on a copy./no services at this time.]
+- **7460**: [- Guess That Number (Game)/- Boom or Bust (Game)/- On The Dot (Game)/- Cascade (Game)/- Mummers' Medal Prizes/- Box of Fortune (Game)/- Mummers' Medal Prizes II/- Mummers' Medal Prizes III/- Three-Card Circus (Game)][/ and our usual array of god-awful puns...if you can stand that particular service./no services at this time.]
+- **7461**: Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]
+- **7462**: [/- Minor Attack Enhancement/- Minor Magic Attack Bonus/- Minor Gathering Fatigue Reduction/- Minor Gathering Efficacy Enhancement/- Moderate Attack Enhancement/- Moderate Magic Attack Bonus/- Moderate Gathering Fatigue Reduction /- Moderate Gathering Efficacy Enhancement][/ in addition to its normal benefits./no additional benefits.]
+- **7463**: [/- Minor Defense Enhancement/- Minor Magic Defense Bonus/- Minor HP and MP Recovery Enhancement/- Minor Enhancement to Max HP and MP/- Moderate Defense Enhancement/- Moderate Magic Defense Bonus/- Moderate HP and MP Recovery Enhancement/- Moderate Enhancement to Max HP and MP][/ in addition to its normal benefits./no additional benefits.]
+- **7464**: [/- Minor Accuracy and Magic Accuracy Enhancement/- Minor Evasion and Magic Evasion Enhancement/- Minor Critical Hit Rate Increase/- Minor Haste Effect/- Moderate Accuracy and Magic Accuracy Enhancement/- Moderate Evasion and Magic Evasion Enhancement/- Moderate Critical Hit Rate Increase/- Moderate Haste Effect][/ in addition to its normal benefits./no additional benefits.]
+- **7465**: [/- Minor Save TP Effect/- Minor Conserve MP Effect/- Minor Fast Cast Effect/- Minor Resistance Increase to All Status Ailments/- Moderate Save TP Effect/- Moderate Conserve MP Effect/- Moderate Fast Cast Effect/- Moderate Resistance Increase to All Status Ailments][/ in addition to its normal benefits./no additional benefits.]
+- **7466**: [/- Minor Crystal Obtainment Rate Increase/- Minor Material Loss Rate Reduction/- Minor Synthesis Skill Gain Rate Increase/- Minor Synthesis Success Rate Increase/- Moderate Crystal Obtainment Rate Increase/- Moderate Material Loss Rate Reduction/- Moderate Synthesis Skill Gain Rate Increase/- Moderate Synthesis Success Rate Increase][/ in addition to its normal benefits./no additional benefits.]
+- **7467**: [/- Minor Combat Skill Gain Rate Increase/- Minor Magic Skill Gain Rate Increase/- Minor Experience Point Bonus/- Minor Reward Obtainment Rate Increase/- Moderate Combat Skill Gain Rate Increase/- Moderate Magic Skill Gain Rate Increase/- Moderate Experience Point Bonus/- Moderate Reward Obtainment Rate Increase][/ in addition to its normal benefits./no additional benefits.]
+- **7468**: What assignments will you ask about? [Procuring resources./Clearing the way./Preserving the peace./Patrols./Base provisions./Delivering supplies./Frontline support./Land surveys./Component analysis./Gathering materials./Recovering lost articles./Behavioral research./Morale boosting./Nothing.]
+- **7469**: Head out into the world and gather vital pioneering resources via methods such as mining and logging. Simply purchasing the supplies tells the coalition nothing of your abilities, however, and those who do will receive no remuneration.
+- **7470**: It may seem like a thankless job, but the erection of coalition expansions and frontier stations demands constant provisioning, so it is not a task to be taken lightly.
+- **7471**: Natural obstacles pop up from time to time, and pioneers are often asked to engage in a bit of bushwhacking to clear them away so the colonization movement can proceed. The only way to be officially recognized for such feats, though, is by participating in Colonization Reives.
+- **7472**: The perils are aptly named, for many pioneers have fallen in attempts to rid the land of them. So many, in fact, that Maester Lhangavo was bereft of a few fur clumps for some time worrying over the issue.
+- **7473**: Peace in Adoulin is a precarious thing. Fiends could assault the city at any moment, which is why we need to nip this problem in the bud. Join Lair Reives to eliminate their breeding grounds and contribute to the colonization effort.
+- **7474**: If only the instinct to rebuild their homes were not so engrained in these hellions, life would be much easier for us. Sadly, you'll need to participate in these reives periodically in order to keep Ulbuka habitable.
+- **7475**: While the Peacekeepers' Coalition often makes its rounds in the city itself, these patrols will take you to specific jungle locales for the express purpose of culling unwanted pests. Make sure to slay your quota, though, or you won't receive any recognition for your deeds.
+- **7476**: Give Adoulin's population some peace of mind by embarking on these expeditions every so often. Also, rumors about far more terrifying beasts are likely to surface the further we progress into Ulbuka's interior, but as long as you stick to your duties, you should have no reason to fear them.
+- **7477**: For these assignments, you'll need to transport provisions to the sites of future frontier stations. You can now use waypoints and still receive commendations, but be prepared to hear stories about "back in my day, we had to walk all the way out and back on our own two feet," from some wily veterans.
+- **7478**: Frontier stations are paramount to sustaining the colonization effort. Tasks of greater magnitude can't even begin without one, so building these structures should always be a priority.
+- **7479**: You will sometimes be charged with carrying supplies from specific frontier stations to the Couriers' Coalition.
+- **7480**: By supplies, I mean ones obtained in the jungle through pioneering. Yes, acting as a beast of burden may not be the most glamorous duty, but it is a vital one if we're to improve the coalitions and keep Adoulin economically stable.
+- **7481**: The most effective way of supporting those risking their lives on the front lines is by supplying designated frontier bivouacs with the necessary provisions. While it may go against previous Couriers' Coalition policy, the use of waypoints is henceforth permitted on this type of assignment.
+- **7482**: Truth be told, frontier bivouacs are not as developed as their station counterparts, but they still play an important role in the colonization of the continent. If they don't receive provisions regularly, our supply lines to the stations will wither and die.
+- **7483**: Travel to places unknown in search of ergon loci, areas overflowing with natural energy. While some say it's the journey--not the destination--that matters, failing to survey even a single locus will leave you both depleted of energy and empty-handed.
+- **7484**: The potency of an ergon tincture is highly dependent upon the strength of the ergon locus from which it's extracted, so a thorough investigation must be made into each location if we're to successfully use this trump card we've created.
+- **7485**: Completion of these assignments means providing the Scouts' Coalition--and no others, for they are the only ones to possess the proper facilities--with unique and extraordinary materials from certain territories.
+- **7486**: The jungle is teeming with obscure and unfamiliar substances, and from them we hope to derive more powerful and effective materials with which to aid the colonization effort. Science waits for no man, however, and without periodic deliveries of new samples, our research will stagnate.
+- **7487**: The proper equipment and tools are instrumental in the colonization movement's progress--and the Inventors' Coalition apparently wants to be the one to corner the market.
+- **7488**: While the Inventors' Coalition doesn't particularly care how you obtain what they ask for once you're in the specified location, they are quite picky about the number you obtain and the fact that you can't deliver to anyone else.
+- **7489**: Pioneers are an intrepid band of adventurers, but the nature of their trade makes them prone to losing personal effects. Pick up any lost articles in the territory to which you are dispatched and return for a reward along with a pat on the back.
+- **7490**: This is probably the least garish service the Mummers' Coalition provides, but it's one for which pioneers throughout Adoulin are eternally grateful.
+- **7491**: Though they may not be the friendliest of Ulbuka's inhabitants, that doesn't mean the fiends who populate the continent can't teach us a thing or two. Research designated beasts by personally experiencing their special attacks and report what they taught you...if you live to tell the tale.
+- **7492**: The Mummers' Coalition is constantly searching for its muse in all manner of sources, one being the myriad monsters scattered throughout the jungle. Investigating monsters' behavior may be just the inspiration they need to concoct new dances, gags, and events!
+- **7493**: The isolation of the frontier can eat at even the most independent of us, which is why it's important to give our pioneers something to cheer about. Head to specified frontier stations and lift the spirits of the workers there! Just remember that if they don't smile, you don't get rewarded.
+- **7494**: Dance, sing, shout, or generally make a fool of yourself. It doesn't matter how you do it, as long as you can make them laugh and forget their cares for a few moments.
+- **7495**: This coalition is edified as much as possible, and therefore we have no plans to expand.
+- **7496**: Which plan do you want to learn about? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./None.]
+- **7497**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Gathering Goods/Gathering Goods II/Gathering Equipment/Gathering Technique Knowledge/Colonization Support Provisions/Gathering Goods III/Gathering Equipment II/Colonization Support Provisions II/Gathering Technique Knowledge II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7498**: Further, Ionis effects will expand to include [/Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement].
+- **7499**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Traditional Armor/Traditional Weaponry/Traditional Armor II/Frontline Provisions/Traditional Weaponry II/Traditional Armor III/Traditional Armor IV/Traditional Armor V/Traditional Armor VI] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7500**: Further, Ionis effects will expand to include [/Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP].
+- **7501**: If the [/coalition flag/signboard/emblem/second floor/Adoulin flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Travel Assistance Provisions/Temporary Warp Runes/Town Movement Speed Enhancement/Delivery Personnel Increase/Kinetic Unit Cost Adjustment/Temporary Warp Runes II/Town Movement Speed Enhancement II/Delivery Personnel Increase II/Kinetic Unit Cost Adjustment II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7502**: Further, Ionis effects will expand to include [/Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor Haste Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Haste Effect].
+- **7503**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Maps/Map Marking/Colonization Intelligence/Ergon Locus Intelligence/Library Cards/Map Marking II/Spoils of War Intelligence/Ergon Locus Intelligence II/Spoils of War Intelligence II] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7504**: Further, Ionis effects will expand to include [/Minor Save TP Effect/Minor Conserve MP Effect/Minor Fast Cast Effect/Minor Resistance Increase to All Status Ailments/Moderate Save TP Effect/Moderate Conserve MP Effect/Moderate Fast Cast Effect/Moderate Resistance Increase to All Status Ailments].
+- **7505**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Ergon Tinctures/Synthesis Support Provisions/Arcane Glyptics Price Reduction/Arcane Glyptics Materials/Growth Agents and Materials/Synthesis Support Provisions II/Arcane Glyptics Price Reduction II/Growth Agents and Materials Price Reduction/Travel Provisions] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7506**: Further, Ionis effects will expand to include [/Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase].
+- **7507**: If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Guess That Number (Game)/Boom or Bust (Game)/On The Dot (Game)/Cascade (Game)/Mummers' Medal Prizes/Box of Fortune (Game)/Mummers' Medal Prizes II/Mummers' Medal Prizes III/Three-Card Circus (Game)] will [increase in number/expand throughout the continent/provide additional services/be more successful].
+- **7508**: Further, the Ionis effects will expand to include [/Minor Combat Skill Gain Rate Increase Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase].
+- **7509**: The structure most members want to see added to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition is...
+- **7510**: A[ coalition flag/ signboard/n emblem/ second floor/n Adoulinian flag/ main terrace/ bay roof/ main chimney]! [It leads by default since there aren't any other proposals./Many more people have voted for it than any other structure./A good number of people have chosen it over the other options./Not by much, however.]
+- **7511**: Your contributions to the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition have earned you the title of...
+- **7512**: [Pioneer/Peacekeeper/Courier/Scout/Inventor/Mummer] [Petitioner/Probationer/Disciple/Contributor/Partner/Advisor/Magnate/Legend]! [You're off to a swell start!/Congratulations, but you're not out of the woods yet./They've given you their trust. Now it's time to prove they were right to do so!/You're in the position to start making a big difference in Adoulin!/Talent flows unabated from your every pore!/Other pioneers must trample each other seeking your sage advice./One could very well say that the colonization effort revolves around you!/Your exploits will surely be etched in the annals of this continent's history!]
 
 ## Events
 
@@ -587,77 +587,77 @@
   8: 0x002D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   9: 0x002E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
  10: 0x002F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 11: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7430*)
+ 11: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7431*)
     → "[Why, hello there, my dear pioneer!/Good day to you./Hello, pioneer./Welcome to our establishmentaru!/I hope you're having a marvelous-warvelous day!/Welcome back!] Is there anything you'd like to know about the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition?"
  12: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0038 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 14: 0x003D [0x24] CREATE_DIALOG(message_id=7431*, default_option=0*, option_flags=0*)
+ 14: 0x003D [0x24] CREATE_DIALOG(message_id=7432*, default_option=0*, option_flags=0*)
     → "What would you like to know about? [The [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition's role./The state of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition./Types of coalition assignments./Current expansion plans./Coalition referendum support./Your current standing./Nothing.]"
  15: 0x0044 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0045 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00DD
  17: 0x004D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0064
- 18: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7432*)
+ 18: 0x0055 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
     → "The Pioneers' Coalition contributes to the colonization effort mainly by cultivating uninhabitable territory and preparing the necessary resources to do so."
  19: 0x0058 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 20: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7433*)
+ 20: 0x0059 [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
     → "It would take no stretch of the imagination to say that our coalition is the standard-bearer for the whole movement, what with all the brave young men and women that swell our ranks."
  21: 0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7434*)
+ 22: 0x005D [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
     → "The maester who leads our family of settlers is Lhe Lhangavo from the Order of Karieyh. She's possibly the most passionate of any order leader, and certainly one of the most caring. She's always looking out for her subordinates."
  23: 0x0060 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0061 [0x01] GOTO 0x00D7
  25: 0x0064 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x007B
- 26: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7435*)
+ 26: 0x006C [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
     → "The Peacekeepers' Coalition has the most self-explanatory name I'm sure you've ever heard. We work towards making Adoulin a safer place."
  27: 0x006F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7436*)
+ 28: 0x0070 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
     → "We're composed of only the most dedicated and dutiful individuals--people willing to give their lives to protect this town and its populace."
  29: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7437*)
+ 30: 0x0074 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
     → "The great--though often grumpy--Gratzigg is our maester, but despite his sour demeanor, he's the most loyal of anyone in the Twelve Orders. His love for Adoulin has saved it from utter despair more times than I care to remember."
  31: 0x0077 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0078 [0x01] GOTO 0x00D7
  33: 0x007B [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0092
- 34: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7438*)
+ 34: 0x0083 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
     → "The Couriers' Coalition does its part by transporting supplies to the front lines. We also ensure the integrity of every shipment's cargo."
  35: 0x0086 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7439*)
+ 36: 0x0087 [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
     → "We're very punctual and really strict about getting our deliveries right. We have the reputation of being uptight because of it, but it's those qualities that keep the pioneering movement going."
  37: 0x008A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 38: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7440*)
+ 38: 0x008B [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
     → "Reginald serves as our maester. He may not be the most talkative person you've ever met, but just try to find a more gentlemanly gentleman among the Twelve Orders."
  39: 0x008E [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x008F [0x01] GOTO 0x00D7
  41: 0x0092 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x00A9
- 42: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7441*)
+ 42: 0x009A [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
     → "The Scouts' Coalition gathers intelligence from all over the continentaru and analyzes unknown materials to further the colonization movement."
  43: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7442*)
+ 44: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
     → "The knowledge our coalition accrues, coupled-woupled with our innate knack for careful archival supervision, makes us indispensable in this era."
  45: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7443*)
+ 46: 0x00A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
     → "Our maestaru, Margret, belongs to the Order of Haverton. Her sheer brilliance-williance makes appetizers out of even the most difficult problems, so it's no wonder that she is seen as one of the greatest minds in Adoulin."
  47: 0x00A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x00A6 [0x01] GOTO 0x00D7
  49: 0x00A9 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x00C0
- 50: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7444*)
+ 50: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
     → "The Inventors' Coalition mainly supportarus pioneers and the colonization of Ulbuka through the development of tools and equipment."
  51: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7445*)
+ 52: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
     → "We provide an economic foundation-wation for the city and the pioneering movement by using the materials pioneers bring us to create new foodstuffs that can last an ocean voyage, along with new articles to outfitaru explorers."
  53: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7446*)
+ 54: 0x00B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
     → "Our maester is the one-and-only Amchuchu from the Order of Orvail. Her skills and mind are more renowned than possibly any other maester in Adoulin's history-wistory, making her one of our most talented technicians."
  55: 0x00BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x00BD [0x01] GOTO 0x00D7
  57: 0x00C0 [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x00D7
- 58: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7447*)
+ 58: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
     → "The number one concern for the Mummers' Coalition is pioneer morale."
  59: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7448*)
+ 60: 0x00CC [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
     → "It may seem like all we do is spout japes and cavort about, but there is a method to our apparent madness. Soothing the spirits of pioneers has a proven economic benefit, so expect to see Mummer-sponsored events for some time to come."
  61: 0x00CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7449*)
+ 62: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7450*)
     → "Flaviria from the Order of Thurandaut heads our troupe, and I've never seen anyone who can spin a yarn or tell a joke quite like her. It's obvious that someone with her personality would be loved by both the nobility and common folk."
  63: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x00D4 [0x01] GOTO 0x00D7
@@ -703,7 +703,7 @@ SUBROUTINE_020B:
  94: 0x0238 [0x03] Work_Zone[6] = 2*
 
 SUBROUTINE_023D:
- 95: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7452*)
+ 95: 0x023D [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
     → "You've all been [abysmal/uninspiring/decent/remarkable/positively miraculous] at accomplishing your coalition assignments. Our coalition's rank [will almost certainly fall/may fall/will probably stay about the same/might rise/will almost certainly rise] after the next evaluation."
  96: 0x0240 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0241 [0x03] ExtData[1]->WorkLocal[1] = 1*
@@ -726,7 +726,7 @@ SUBROUTINE_023D:
 114: 0x0296 [0x02] IF !(ExtData[1]->WorkLocal[1] > 0*) GOTO 0x02B7
 115: 0x029E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 116: 0x02A3 [0x03] Work_Zone[3] = 0*
-117: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+117: 0x02A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]"
 118: 0x02AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x02AC [0x03] Work_Zone[9] = 0*
@@ -734,7 +734,7 @@ SUBROUTINE_023D:
 121: 0x02B4 [0x01] GOTO 0x0385
 122: 0x02B7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 123: 0x02BC [0x03] Work_Zone[3] = 0*
-124: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7453*)
+124: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
     → "You want to know about the services offered by the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition? Well, we offer[.../ nothing at the moment. Sorry.]"
 125: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x02C5 [0x03] Work_Zone[9] = 0*
@@ -793,13 +793,13 @@ SUBROUTINE_0385:
 177: 0x03DA [0x02] IF !(ExtData[1]->WorkLocal[1] > 0*) GOTO 0x03F3
 178: 0x03E2 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 179: 0x03E7 [0x03] Work_Zone[3] = 1*
-180: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+180: 0x03EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]"
 181: 0x03EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x03F0 [0x01] GOTO 0x04ED
 183: 0x03F3 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
 184: 0x03F8 [0x03] Work_Zone[3] = 0*
-185: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
+185: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
     → "Based on the expansion of the [Pioneers'/Peacekeepers'/Couriers'/Scouts'/Inventors'/Mummers'] Coalition, Ionis provides[.../ no additional benefits.]"
 186: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
 187: 0x0401 [0x3E] IF !(ExtData[1]->WorkLocal[6] bit 0*) GOTO 0x0425
@@ -939,110 +939,110 @@ SUBROUTINE_04FB:
 309: 0x0706 [0x01] GOTO 0x0709
 
 SUBROUTINE_0709:
-310: 0x0709 [0x24] CREATE_DIALOG(message_id=7467*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
+310: 0x0709 [0x24] CREATE_DIALOG(message_id=7468*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
     → "What assignments will you ask about? [Procuring resources./Clearing the way./Preserving the peace./Patrols./Base provisions./Delivering supplies./Frontline support./Land surveys./Component analysis./Gathering materials./Recovering lost articles./Behavioral research./Morale boosting./Nothing.]"
 311: 0x0710 [0x25] WAIT_DIALOG_SELECT()
 312: 0x0711 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0724
-313: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=7468*)
+313: 0x0719 [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
     → "Head out into the world and gather vital pioneering resources via methods such as mining and logging. Simply purchasing the supplies tells the coalition nothing of your abilities, however, and those who do will receive no remuneration."
 314: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
-315: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=7469*)
+315: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
     → "It may seem like a thankless job, but the erection of coalition expansions and frontier stations demands constant provisioning, so it is not a task to be taken lightly."
 316: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x0721 [0x01] GOTO 0x0816
 318: 0x0724 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0737
-319: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=7470*)
+319: 0x072C [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
     → "Natural obstacles pop up from time to time, and pioneers are often asked to engage in a bit of bushwhacking to clear them away so the colonization movement can proceed. The only way to be officially recognized for such feats, though, is by participating in Colonization Reives."
 320: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
-321: 0x0730 [0x1D] PRINT_EVENT_MESSAGE(message_id=7471*)
+321: 0x0730 [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
     → "The perils are aptly named, for many pioneers have fallen in attempts to rid the land of them. So many, in fact, that Maester Lhangavo was bereft of a few fur clumps for some time worrying over the issue."
 322: 0x0733 [0x23] WAIT_FOR_DIALOG_INTERACTION
 323: 0x0734 [0x01] GOTO 0x0816
 324: 0x0737 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x074A
-325: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=7472*)
+325: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
     → "Peace in Adoulin is a precarious thing. Fiends could assault the city at any moment, which is why we need to nip this problem in the bud. Join Lair Reives to eliminate their breeding grounds and contribute to the colonization effort."
 326: 0x0742 [0x23] WAIT_FOR_DIALOG_INTERACTION
-327: 0x0743 [0x1D] PRINT_EVENT_MESSAGE(message_id=7473*)
+327: 0x0743 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
     → "If only the instinct to rebuild their homes were not so engrained in these hellions, life would be much easier for us. Sadly, you'll need to participate in these reives periodically in order to keep Ulbuka habitable."
 328: 0x0746 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x0747 [0x01] GOTO 0x0816
 330: 0x074A [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x075D
-331: 0x0752 [0x1D] PRINT_EVENT_MESSAGE(message_id=7474*)
+331: 0x0752 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
     → "While the Peacekeepers' Coalition often makes its rounds in the city itself, these patrols will take you to specific jungle locales for the express purpose of culling unwanted pests. Make sure to slay your quota, though, or you won't receive any recognition for your deeds."
 332: 0x0755 [0x23] WAIT_FOR_DIALOG_INTERACTION
-333: 0x0756 [0x1D] PRINT_EVENT_MESSAGE(message_id=7475*)
+333: 0x0756 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
     → "Give Adoulin's population some peace of mind by embarking on these expeditions every so often. Also, rumors about far more terrifying beasts are likely to surface the further we progress into Ulbuka's interior, but as long as you stick to your duties, you should have no reason to fear them."
 334: 0x0759 [0x23] WAIT_FOR_DIALOG_INTERACTION
 335: 0x075A [0x01] GOTO 0x0816
 336: 0x075D [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0770
-337: 0x0765 [0x1D] PRINT_EVENT_MESSAGE(message_id=7476*)
+337: 0x0765 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
     → "For these assignments, you'll need to transport provisions to the sites of future frontier stations. You can now use waypoints and still receive commendations, but be prepared to hear stories about "back in my day, we had to walk all the way out and back on our own two feet," from some wily veterans."
 338: 0x0768 [0x23] WAIT_FOR_DIALOG_INTERACTION
-339: 0x0769 [0x1D] PRINT_EVENT_MESSAGE(message_id=7477*)
+339: 0x0769 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
     → "Frontier stations are paramount to sustaining the colonization effort. Tasks of greater magnitude can't even begin without one, so building these structures should always be a priority."
 340: 0x076C [0x23] WAIT_FOR_DIALOG_INTERACTION
 341: 0x076D [0x01] GOTO 0x0816
 342: 0x0770 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0783
-343: 0x0778 [0x1D] PRINT_EVENT_MESSAGE(message_id=7478*)
+343: 0x0778 [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
     → "You will sometimes be charged with carrying supplies from specific frontier stations to the Couriers' Coalition."
 344: 0x077B [0x23] WAIT_FOR_DIALOG_INTERACTION
-345: 0x077C [0x1D] PRINT_EVENT_MESSAGE(message_id=7479*)
+345: 0x077C [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
     → "By supplies, I mean ones obtained in the jungle through pioneering. Yes, acting as a beast of burden may not be the most glamorous duty, but it is a vital one if we're to improve the coalitions and keep Adoulin economically stable."
 346: 0x077F [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x0780 [0x01] GOTO 0x0816
 348: 0x0783 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0796
-349: 0x078B [0x1D] PRINT_EVENT_MESSAGE(message_id=7480*)
+349: 0x078B [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
     → "The most effective way of supporting those risking their lives on the front lines is by supplying designated frontier bivouacs with the necessary provisions. While it may go against previous Couriers' Coalition policy, the use of waypoints is henceforth permitted on this type of assignment."
 350: 0x078E [0x23] WAIT_FOR_DIALOG_INTERACTION
-351: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=7481*)
+351: 0x078F [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
     → "Truth be told, frontier bivouacs are not as developed as their station counterparts, but they still play an important role in the colonization of the continent. If they don't receive provisions regularly, our supply lines to the stations will wither and die."
 352: 0x0792 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0793 [0x01] GOTO 0x0816
 354: 0x0796 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x07A9
-355: 0x079E [0x1D] PRINT_EVENT_MESSAGE(message_id=7482*)
+355: 0x079E [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
     → "Travel to places unknown in search of ergon loci, areas overflowing with natural energy. While some say it's the journey--not the destination--that matters, failing to survey even a single locus will leave you both depleted of energy and empty-handed."
 356: 0x07A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-357: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7483*)
+357: 0x07A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
     → "The potency of an ergon tincture is highly dependent upon the strength of the ergon locus from which it's extracted, so a thorough investigation must be made into each location if we're to successfully use this trump card we've created."
 358: 0x07A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 359: 0x07A6 [0x01] GOTO 0x0816
 360: 0x07A9 [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x07BC
-361: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7484*)
+361: 0x07B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
     → "Completion of these assignments means providing the Scouts' Coalition--and no others, for they are the only ones to possess the proper facilities--with unique and extraordinary materials from certain territories."
 362: 0x07B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-363: 0x07B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7485*)
+363: 0x07B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
     → "The jungle is teeming with obscure and unfamiliar substances, and from them we hope to derive more powerful and effective materials with which to aid the colonization effort. Science waits for no man, however, and without periodic deliveries of new samples, our research will stagnate."
 364: 0x07B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x07B9 [0x01] GOTO 0x0816
 366: 0x07BC [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x07CF
-367: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7486*)
+367: 0x07C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
     → "The proper equipment and tools are instrumental in the colonization movement's progress--and the Inventors' Coalition apparently wants to be the one to corner the market."
 368: 0x07C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-369: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7487*)
+369: 0x07C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
     → "While the Inventors' Coalition doesn't particularly care how you obtain what they ask for once you're in the specified location, they are quite picky about the number you obtain and the fact that you can't deliver to anyone else."
 370: 0x07CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x07CC [0x01] GOTO 0x0816
 372: 0x07CF [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x07E2
-373: 0x07D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7488*)
+373: 0x07D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
     → "Pioneers are an intrepid band of adventurers, but the nature of their trade makes them prone to losing personal effects. Pick up any lost articles in the territory to which you are dispatched and return for a reward along with a pat on the back."
 374: 0x07DA [0x23] WAIT_FOR_DIALOG_INTERACTION
-375: 0x07DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7489*)
+375: 0x07DB [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
     → "This is probably the least garish service the Mummers' Coalition provides, but it's one for which pioneers throughout Adoulin are eternally grateful."
 376: 0x07DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x07DF [0x01] GOTO 0x0816
 378: 0x07E2 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x07F5
-379: 0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7490*)
+379: 0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
     → "Though they may not be the friendliest of Ulbuka's inhabitants, that doesn't mean the fiends who populate the continent can't teach us a thing or two. Research designated beasts by personally experiencing their special attacks and report what they taught you...if you live to tell the tale."
 380: 0x07ED [0x23] WAIT_FOR_DIALOG_INTERACTION
-381: 0x07EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7491*)
+381: 0x07EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
     → "The Mummers' Coalition is constantly searching for its muse in all manner of sources, one being the myriad monsters scattered throughout the jungle. Investigating monsters' behavior may be just the inspiration they need to concoct new dances, gags, and events!"
 382: 0x07F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 383: 0x07F2 [0x01] GOTO 0x0816
 384: 0x07F5 [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0808
-385: 0x07FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7492*)
+385: 0x07FD [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
     → "The isolation of the frontier can eat at even the most independent of us, which is why it's important to give our pioneers something to cheer about. Head to specified frontier stations and lift the spirits of the workers there! Just remember that if they don't smile, you don't get rewarded."
 386: 0x0800 [0x23] WAIT_FOR_DIALOG_INTERACTION
-387: 0x0801 [0x1D] PRINT_EVENT_MESSAGE(message_id=7493*)
+387: 0x0801 [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
     → "Dance, sing, shout, or generally make a fool of yourself. It doesn't matter how you do it, as long as you can make them laugh and forget their cares for a few moments."
 388: 0x0804 [0x23] WAIT_FOR_DIALOG_INTERACTION
 389: 0x0805 [0x01] GOTO 0x0816
@@ -1139,13 +1139,13 @@ SUBROUTINE_0824:
 476: 0x0A53 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[13], bit_index_work_offset=6*, condition_work_offset=1*)
 477: 0x0A5A [0x01] GOTO 0x0A6F
 478: 0x0A5D [0x02] IF !(ExtData[1]->WorkLocal[4] == 8*) GOTO 0x0A6F
-479: 0x0A65 [0x1D] PRINT_EVENT_MESSAGE(message_id=7494*)
+479: 0x0A65 [0x1D] PRINT_EVENT_MESSAGE(message_id=7495*)
     → "This coalition is edified as much as possible, and therefore we have no plans to expand."
 480: 0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x0A69 [0x01] GOTO 0x0038
 
 SUBROUTINE_0A6F:
-482: 0x0A6F [0x24] CREATE_DIALOG(message_id=7495*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
+482: 0x0A6F [0x24] CREATE_DIALOG(message_id=7496*, default_option=0*, option_flags=ExtData[1]->WorkLocal[13])
     → "Which plan do you want to learn about? [Coalition flag./Signboard./Emblem./Second floor./Adoulinian flag./Main terrace./Bay roof./Main chimney./None.]"
 483: 0x0A76 [0x25] WAIT_DIALOG_SELECT()
 484: 0x0A77 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A8F
@@ -1195,7 +1195,7 @@ SUBROUTINE_0B45:
 526: 0x0B45 [0x01] GOTO 0x0824
 
 SUBROUTINE_0BF0:
-527: 0x0BF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7509*)
+527: 0x0BF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7510*)
     → "A[ coalition flag/ signboard/n emblem/ second floor/n Adoulinian flag/ main terrace/ bay roof/ main chimney]! [It leads by default since there aren't any other proposals./Many more people have voted for it than any other structure./A good number of people have chosen it over the other options./Not by much, however.]"
 528: 0x0BF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x0BF4 [0x01] GOTO 0x0038
@@ -1213,32 +1213,32 @@ SUBROUTINE_0C39:
 
 SUBROUTINE_0C51:
 537: 0x0C51 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0C60
-538: 0x0C59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7454*)
+538: 0x0C59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
     → "[- Gathering Goods/- Gathering Goods II/- Gathering Equipment/- Gathering Technique Knowledge/- Colonization Support Provisions/- Gathering Goods III/- Gathering Equipment II/- Colonization Support Provisions II/- Gathering Technique Knowledge II][/ and our overly cheerful trailblazing attitude...not that the last is really a service./nothing at this time.]"
 539: 0x0C5C [0x23] WAIT_FOR_DIALOG_INTERACTION
 540: 0x0C5D [0x01] GOTO 0x0CAB
 541: 0x0C60 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0C6F
-542: 0x0C68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7455*)
+542: 0x0C68 [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
     → "[- Traditional Armor/- Traditional Weaponry/- Traditional Armor II/- Frontline Provisions/- Traditional Weaponry II/- Traditional Armor III/- Traditional Armor IV/- Traditional Armor V/- Traditional Armor VI][/ and our usual killjoy meddling...if you call that a service./no services at this time.]"
 543: 0x0C6B [0x23] WAIT_FOR_DIALOG_INTERACTION
 544: 0x0C6C [0x01] GOTO 0x0CAB
 545: 0x0C6F [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0C7E
-546: 0x0C77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7456*)
+546: 0x0C77 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
     → "[- Travel Assistance Provisions/- Temporary Warp Runes/- Town Movement Speed Enhancement/- Delivery Personnel Increase/- Kinetic Unit Cost Adjustment/- Temporary Warp Runes II/- Town Movement Speed Enhancement II/- Delivery Personnel Increase II/- Kinetic Unit Cost Adjustment II][/ and our compulsive attention to the time...if you can even call that a service./no services at this time.]"
 547: 0x0C7A [0x23] WAIT_FOR_DIALOG_INTERACTION
 548: 0x0C7B [0x01] GOTO 0x0CAB
 549: 0x0C7E [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0C8D
-550: 0x0C86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7457*)
+550: 0x0C86 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
     → "[- Maps/- Map Marking/- Colonization Intelligence/- Ergon Locus Intelligence/- Library Cards/- Map Marking II/- Spoils of War Intelligence/- Ergon Locus Intelligence II/- Spoils of War Intelligence II][/ and our absolutely incessant snooping...if you're into that kinda thing./no services at this time.]"
 551: 0x0C89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x0C8A [0x01] GOTO 0x0CAB
 553: 0x0C8D [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0C9C
-554: 0x0C95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7458*)
+554: 0x0C95 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
     → "[- Ergon Tinctures/- Synthesis Support Provisions/- Arcane Glyptics Price Reduction/- Arcane Glyptics Materials/- Growth Agents and Materials/- Synthesis Support Provisions II/- Arcane Glyptics Price Reduction II/- Growth Agents and Materials Price Reduction/- Travel Provisions][/ and our annual Girls of Science calendar...if you can get your hands on a copy./no services at this time.]"
 555: 0x0C98 [0x23] WAIT_FOR_DIALOG_INTERACTION
 556: 0x0C99 [0x01] GOTO 0x0CAB
 557: 0x0C9C [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0CAB
-558: 0x0CA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7459*)
+558: 0x0CA4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7460*)
     → "[- Guess That Number (Game)/- Boom or Bust (Game)/- On The Dot (Game)/- Cascade (Game)/- Mummers' Medal Prizes/- Box of Fortune (Game)/- Mummers' Medal Prizes II/- Mummers' Medal Prizes III/- Three-Card Circus (Game)][/ and our usual array of god-awful puns...if you can stand that particular service./no services at this time.]"
 559: 0x0CA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 560: 0x0CA8 [0x01] GOTO 0x0CAB
@@ -1255,32 +1255,32 @@ SUBROUTINE_0CAC:
 
 SUBROUTINE_0CC4:
 567: 0x0CC4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0CD3
-568: 0x0CCC [0x1D] PRINT_EVENT_MESSAGE(message_id=7461*)
+568: 0x0CCC [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
     → "[/- Minor Attack Enhancement/- Minor Magic Attack Bonus/- Minor Gathering Fatigue Reduction/- Minor Gathering Efficacy Enhancement/- Moderate Attack Enhancement/- Moderate Magic Attack Bonus/- Moderate Gathering Fatigue Reduction /- Moderate Gathering Efficacy Enhancement][/ in addition to its normal benefits./no additional benefits.]"
 569: 0x0CCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 570: 0x0CD0 [0x01] GOTO 0x0D1E
 571: 0x0CD3 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0CE2
-572: 0x0CDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7462*)
+572: 0x0CDB [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
     → "[/- Minor Defense Enhancement/- Minor Magic Defense Bonus/- Minor HP and MP Recovery Enhancement/- Minor Enhancement to Max HP and MP/- Moderate Defense Enhancement/- Moderate Magic Defense Bonus/- Moderate HP and MP Recovery Enhancement/- Moderate Enhancement to Max HP and MP][/ in addition to its normal benefits./no additional benefits.]"
 573: 0x0CDE [0x23] WAIT_FOR_DIALOG_INTERACTION
 574: 0x0CDF [0x01] GOTO 0x0D1E
 575: 0x0CE2 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0CF1
-576: 0x0CEA [0x1D] PRINT_EVENT_MESSAGE(message_id=7463*)
+576: 0x0CEA [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
     → "[/- Minor Accuracy and Magic Accuracy Enhancement/- Minor Evasion and Magic Evasion Enhancement/- Minor Critical Hit Rate Increase/- Minor Haste Effect/- Moderate Accuracy and Magic Accuracy Enhancement/- Moderate Evasion and Magic Evasion Enhancement/- Moderate Critical Hit Rate Increase/- Moderate Haste Effect][/ in addition to its normal benefits./no additional benefits.]"
 577: 0x0CED [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x0CEE [0x01] GOTO 0x0D1E
 579: 0x0CF1 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0D00
-580: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7464*)
+580: 0x0CF9 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
     → "[/- Minor Save TP Effect/- Minor Conserve MP Effect/- Minor Fast Cast Effect/- Minor Resistance Increase to All Status Ailments/- Moderate Save TP Effect/- Moderate Conserve MP Effect/- Moderate Fast Cast Effect/- Moderate Resistance Increase to All Status Ailments][/ in addition to its normal benefits./no additional benefits.]"
 581: 0x0CFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 582: 0x0CFD [0x01] GOTO 0x0D1E
 583: 0x0D00 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0D0F
-584: 0x0D08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7465*)
+584: 0x0D08 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
     → "[/- Minor Crystal Obtainment Rate Increase/- Minor Material Loss Rate Reduction/- Minor Synthesis Skill Gain Rate Increase/- Minor Synthesis Success Rate Increase/- Moderate Crystal Obtainment Rate Increase/- Moderate Material Loss Rate Reduction/- Moderate Synthesis Skill Gain Rate Increase/- Moderate Synthesis Success Rate Increase][/ in addition to its normal benefits./no additional benefits.]"
 585: 0x0D0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 586: 0x0D0C [0x01] GOTO 0x0D1E
 587: 0x0D0F [0x02] IF !(ExtData[1]->WorkLocal[0] == 5*) GOTO 0x0D1E
-588: 0x0D17 [0x1D] PRINT_EVENT_MESSAGE(message_id=7466*)
+588: 0x0D17 [0x1D] PRINT_EVENT_MESSAGE(message_id=7467*)
     → "[/- Minor Combat Skill Gain Rate Increase/- Minor Magic Skill Gain Rate Increase/- Minor Experience Point Bonus/- Minor Reward Obtainment Rate Increase/- Moderate Combat Skill Gain Rate Increase/- Moderate Magic Skill Gain Rate Increase/- Moderate Experience Point Bonus/- Moderate Reward Obtainment Rate Increase][/ in addition to its normal benefits./no additional benefits.]"
 589: 0x0D1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 590: 0x0D1B [0x01] GOTO 0x0D1E
@@ -1316,10 +1316,10 @@ SUBROUTINE_0D1F:
 616: 0x0DA4 [0x01] GOTO 0x0DA7
 
 SUBROUTINE_0DA7:
-617: 0x0DA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7496*)
+617: 0x0DA7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7497*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Gathering Goods/Gathering Goods II/Gathering Equipment/Gathering Technique Knowledge/Colonization Support Provisions/Gathering Goods III/Gathering Equipment II/Colonization Support Provisions II/Gathering Technique Knowledge II] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 618: 0x0DAA [0x23] WAIT_FOR_DIALOG_INTERACTION
-619: 0x0DAB [0x1D] PRINT_EVENT_MESSAGE(message_id=7497*)
+619: 0x0DAB [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
     → "Further, Ionis effects will expand to include [/Minor Attack Enhancement/Minor Magic Attack Bonus/Minor Gathering Fatigue Reduction/Minor Gathering Efficacy Enhancement/Moderate Attack Enhancement/Moderate Magic Attack Bonus/Moderate Gathering Fatigue Reduction/Moderate Gathering Efficacy Enhancement]."
 620: 0x0DAE [0x23] WAIT_FOR_DIALOG_INTERACTION
 621: 0x0DAF [0x01] GOTO 0x1091
@@ -1350,10 +1350,10 @@ SUBROUTINE_0DA7:
 646: 0x0E37 [0x01] GOTO 0x0E3A
 
 SUBROUTINE_0E3A:
-647: 0x0E3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7498*)
+647: 0x0E3A [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Traditional Armor/Traditional Weaponry/Traditional Armor II/Frontline Provisions/Traditional Weaponry II/Traditional Armor III/Traditional Armor IV/Traditional Armor V/Traditional Armor VI] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 648: 0x0E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
-649: 0x0E3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7499*)
+649: 0x0E3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
     → "Further, Ionis effects will expand to include [/Minor Defense Enhancement/Minor Magic Defense Bonus/Minor HP and MP Recovery Enhancement/Minor Enhancement to Max HP and MP/Moderate Defense Enhancement/Moderate Magic Defense Bonus/Moderate HP and MP Recovery Enhancement/Moderate Enhancement to Max HP and MP]."
 650: 0x0E41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 651: 0x0E42 [0x01] GOTO 0x1091
@@ -1384,10 +1384,10 @@ SUBROUTINE_0E3A:
 676: 0x0ECA [0x01] GOTO 0x0ECD
 
 SUBROUTINE_0ECD:
-677: 0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=7500*)
+677: 0x0ECD [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulin flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Travel Assistance Provisions/Temporary Warp Runes/Town Movement Speed Enhancement/Delivery Personnel Increase/Kinetic Unit Cost Adjustment/Temporary Warp Runes II/Town Movement Speed Enhancement II/Delivery Personnel Increase II/Kinetic Unit Cost Adjustment II] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 678: 0x0ED0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-679: 0x0ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7501*)
+679: 0x0ED1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
     → "Further, Ionis effects will expand to include [/Minor Accuracy and Magic Accuracy Enhancement/Minor Evasion and Magic Evasion Enhancement/Minor Critical Hit Rate Increase/Minor Haste Effect/Moderate Accuracy and Magic Accuracy Enhancement/Moderate Evasion and Magic Evasion Enhancement/Moderate Haste Effect]."
 680: 0x0ED4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 681: 0x0ED5 [0x01] GOTO 0x1091
@@ -1418,10 +1418,10 @@ SUBROUTINE_0ECD:
 706: 0x0F5D [0x01] GOTO 0x0F60
 
 SUBROUTINE_0F60:
-707: 0x0F60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7502*)
+707: 0x0F60 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Maps/Map Marking/Colonization Intelligence/Ergon Locus Intelligence/Library Cards/Map Marking II/Spoils of War Intelligence/Ergon Locus Intelligence II/Spoils of War Intelligence II] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 708: 0x0F63 [0x23] WAIT_FOR_DIALOG_INTERACTION
-709: 0x0F64 [0x1D] PRINT_EVENT_MESSAGE(message_id=7503*)
+709: 0x0F64 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
     → "Further, Ionis effects will expand to include [/Minor Save TP Effect/Minor Conserve MP Effect/Minor Fast Cast Effect/Minor Resistance Increase to All Status Ailments/Moderate Save TP Effect/Moderate Conserve MP Effect/Moderate Fast Cast Effect/Moderate Resistance Increase to All Status Ailments]."
 710: 0x0F67 [0x23] WAIT_FOR_DIALOG_INTERACTION
 711: 0x0F68 [0x01] GOTO 0x1091
@@ -1452,10 +1452,10 @@ SUBROUTINE_0F60:
 736: 0x0FF0 [0x01] GOTO 0x0FF3
 
 SUBROUTINE_0FF3:
-737: 0x0FF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7504*)
+737: 0x0FF3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Ergon Tinctures/Synthesis Support Provisions/Arcane Glyptics Price Reduction/Arcane Glyptics Materials/Growth Agents and Materials/Synthesis Support Provisions II/Arcane Glyptics Price Reduction II/Growth Agents and Materials Price Reduction/Travel Provisions] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 738: 0x0FF6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-739: 0x0FF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7505*)
+739: 0x0FF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
     → "Further, Ionis effects will expand to include [/Minor Crystal Obtainment Rate Increase/Minor Material Loss Rate Reduction/Minor Synthesis Skill Gain Rate Increase/Minor Synthesis Success Rate Increase/Moderate Crystal Obtainment Rate Increase/Moderate Material Loss Rate Reduction/Moderate Synthesis Skill Gain Rate Increase/Moderate Synthesis Success Rate Increase]."
 740: 0x0FFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 741: 0x0FFB [0x01] GOTO 0x1091
@@ -1486,10 +1486,10 @@ SUBROUTINE_0FF3:
 766: 0x1083 [0x01] GOTO 0x1086
 
 SUBROUTINE_1086:
-767: 0x1086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7506*)
+767: 0x1086 [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
     → "If the [/coalition flag/signboard/emblem/second floor/Adoulinian flag/main terrace/bay roof/main chimney] expansion plan succeeds, the staff in charge of [Guess That Number (Game)/Boom or Bust (Game)/On The Dot (Game)/Cascade (Game)/Mummers' Medal Prizes/Box of Fortune (Game)/Mummers' Medal Prizes II/Mummers' Medal Prizes III/Three-Card Circus (Game)] will [increase in number/expand throughout the continent/provide additional services/be more successful]."
 768: 0x1089 [0x23] WAIT_FOR_DIALOG_INTERACTION
-769: 0x108A [0x1D] PRINT_EVENT_MESSAGE(message_id=7507*)
+769: 0x108A [0x1D] PRINT_EVENT_MESSAGE(message_id=7508*)
     → "Further, the Ionis effects will expand to include [/Minor Combat Skill Gain Rate Increase Minor Magic Skill Gain Rate Increase/Minor Experience Point Bonus/Minor Reward Obtainment Rate Increase/Moderate Combat Skill Gain Rate Increase/Moderate Magic Skill Gain Rate Increase/Moderate Experience Point Bonus/Moderate Reward Obtainment Rate Increase]."
 770: 0x108D [0x23] WAIT_FOR_DIALOG_INTERACTION
 771: 0x108E [0x01] GOTO 0x1091

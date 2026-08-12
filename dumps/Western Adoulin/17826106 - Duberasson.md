@@ -25,86 +25,86 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x00A9      |         169 |
-|       1 | 0x2CFD      |       11517 |
-|       2 | 0x2CFE      |       11518 |
+|       1 | 0x2CFE      |       11518 |
+|       2 | 0x2CFF      |       11519 |
 |       3 | 0x001D      |          29 |
-|       4 | 0x2CE1      |       11489 |
-|       5 | 0x2CE2      |       11490 |
-|       6 | 0x2CE3      |       11491 |
-|       7 | 0x2CE4      |       11492 |
+|       4 | 0x2CE2      |       11490 |
+|       5 | 0x2CE3      |       11491 |
+|       6 | 0x2CE4      |       11492 |
+|       7 | 0x2CE5      |       11493 |
 |       8 | 0x0000      |           0 |
 |       9 | 0x0001      |           1 |
-|      10 | 0x2CE5      |       11493 |
+|      10 | 0x2CE6      |       11494 |
 |      11 | 0x001F      |          31 |
 |      12 | 0x00F0      |         240 |
-|      13 | 0x2CE6      |       11494 |
-|      14 | 0x2CE7      |       11495 |
-|      15 | 0x2CE8      |       11496 |
-|      16 | 0x2CE9      |       11497 |
-|      17 | 0x2CEA      |       11498 |
-|      18 | 0x2CEB      |       11499 |
-|      19 | 0x2CEC      |       11500 |
-|      20 | 0x2CED      |       11501 |
-|      21 | 0x2CEE      |       11502 |
-|      22 | 0x2CEF      |       11503 |
-|      23 | 0x2CF0      |       11504 |
+|      13 | 0x2CE7      |       11495 |
+|      14 | 0x2CE8      |       11496 |
+|      15 | 0x2CE9      |       11497 |
+|      16 | 0x2CEA      |       11498 |
+|      17 | 0x2CEB      |       11499 |
+|      18 | 0x2CEC      |       11500 |
+|      19 | 0x2CED      |       11501 |
+|      20 | 0x2CEE      |       11502 |
+|      21 | 0x2CEF      |       11503 |
+|      22 | 0x2CF0      |       11504 |
+|      23 | 0x2CF1      |       11505 |
 |      24 | 0x0021      |          33 |
-|      25 | 0x2CF1      |       11505 |
+|      25 | 0x2CF2      |       11506 |
 |      26 | 0x0032      |          50 |
-|      27 | 0x2CF2      |       11506 |
+|      27 | 0x2CF3      |       11507 |
 |      28 | 0x0013      |          19 |
-|      29 | 0x2CF3      |       11507 |
-|      30 | 0x2CF4      |       11508 |
-|      31 | 0x2CF5      |       11509 |
-|      32 | 0x2CF6      |       11510 |
-|      33 | 0x2CF7      |       11511 |
+|      29 | 0x2CF4      |       11508 |
+|      30 | 0x2CF5      |       11509 |
+|      31 | 0x2CF6      |       11510 |
+|      32 | 0x2CF7      |       11511 |
+|      33 | 0x2CF8      |       11512 |
 |      34 | 0x0028      |          40 |
-|      35 | 0x2CF8      |       11512 |
-|      36 | 0x2CF9      |       11513 |
-|      37 | 0x2CFA      |       11514 |
-|      38 | 0x2CFB      |       11515 |
+|      35 | 0x2CF9      |       11513 |
+|      36 | 0x2CFA      |       11514 |
+|      37 | 0x2CFB      |       11515 |
+|      38 | 0x2CFC      |       11516 |
 |      39 | 0x007F      |         127 |
 |      40 | 0x0078      |         120 |
-|      41 | 0x2CFC      |       11516 |
-|      42 | 0x2CDE      |       11486 |
-|      43 | 0x2CDF      |       11487 |
-|      44 | 0x2CE0      |       11488 |
+|      41 | 0x2CFD      |       11517 |
+|      42 | 0x2CDF      |       11487 |
+|      43 | 0x2CE0      |       11488 |
+|      44 | 0x2CE1      |       11489 |
 
 ## String References
 
-- **11486**: A.M.A.N. has been pulling out all the stops recently, would you not agree? Maybe I should get in tune with this new "Records of Eminence" thing they have created.
-- **11487**: What? The Love and Peace Coalition? Why would you think that is real for even a moment?
-- **11488**: Eternal Flame is simply looking for someone at whom to talk. None of the locals can stand his absurdities, so he has fallen to preying on unsuspecting pioneers.
-- **11489**: You there.
-- **11490**: I heard from Eternal Flame that you are to thank for reuniting his party.
-- **11491**: Perhaps you could give me some peace of mind as well. Would you mind listening to my story?
-- **11492**: Listen to his story? [Why not?/No, I can't take any more.]
-- **11493**: Very well. At least allow me to say this, however. Thank you for making this dark world a little brighter.
-- **11494**: It all started back when I could hardly tell a saber from a scimitar.
-- **11495**: I was roaming the woods of West Ronfaure when I was ambushed by Orcish reconnaissance. There was no hope for my survival, and I had resigned myself to my fate.
-- **11496**: However, before they could inflict the final blow upon me, I was blanketed in a comforting light.
-- **11497**: The wounds that rendered me nothing more than a bloody hunk of meat closed before my eyes. I felt as if I had the strength to fell a whole horde of Orcs, and succeeded handily in dispatching my aggressors.
-- **11498**: At the battle's conclusion, I turned to face the source of that warm light. What my eyes met with was a certain Tarutaru white mage.
-- **11499**: Her face said it all. Altruism itself seemed to have manifested upon her countenance, and the nonchalant glance she gave froze me in place. I knew my life had changed at that moment.
-- **11500**: I immediately discarded my sword and hastened to Regine's Magicmart, where I outfitted myself in all the trappings of a white mage.
-- **11501**: I began to tread the path of healing, determined not only to return the favor she had bestowed upon me, but also to make her recognize my proclivity for the craft.
-- **11502**: Once I had whetted my appetite for the standard fare of sorcery, I decided to refine my palate by embarking for Castle Oztroja.
-- **11503**: My quest to slay those unholy Yagudo acolytes took me deep within the bowels of the heap of dirt and rock they called a castle. While the journey was fraught with many dangers, it was worth it to procure spells the likes of which I had only conceptualized up until then.
-- **11504**: With this, my role model would be unable to deny my puissance. She would shower me with praise that would validate my long excursion and prove how consummate my adoption of the white arts truly was.
-- **11505**: Sadly, though, the truth is a fickle mistress.
-- **11506**: I later learned from Eternal Flame that of all people in Vana'diel...
-- **11507**: ...the very girl who saved my life was one of his partners in adventure.
-- **11508**: The beacon of light who had shown me the way, my raison d'etre...
-- **11509**: ...the Tarutaru with whom I wanted nothing more than to tell what she meant to me...
-- **11510**: ...I was pushing her away from myself all along by working to become the white mage I am today.
-- **11511**: If I had not been so devoted to this calling, she would have had more opportunities to join Flame's party and I could have come face-to-face with her.
-- **11512**: I cursed Lady Fortune. How could I not, when my good intentions effectively drove a wedge between me and the dame?
-- **11513**: Perhaps I should not dwell on what has come to pass, seeing as you have brought a smile to her face once more. I feel as if an incredible weight has been launched from my shoulders into the sky.
-- **11514**: Speaking of which, you lit that ouka ranman in $8, did you not?
-- **11515**: Maybe I should return to West Ronfaure and light my own petals of recollection.
-- **11516**: I indeed must perform some introspection. What does it mean to live as an adventurer? Why do I risk my life every day to be one?
-- **11517**: Whether or not I find any answers there, I am greatly indebted to you.
-- **11518**: Should you ever have the occasion to visit Jeuno, would you do me the favor of seeing how my dear white mage fares?
+- **11487**: A.M.A.N. has been pulling out all the stops recently, would you not agree? Maybe I should get in tune with this new "Records of Eminence" thing they have created.
+- **11488**: What? The Love and Peace Coalition? Why would you think that is real for even a moment?
+- **11489**: Eternal Flame is simply looking for someone at whom to talk. None of the locals can stand his absurdities, so he has fallen to preying on unsuspecting pioneers.
+- **11490**: You there.
+- **11491**: I heard from Eternal Flame that you are to thank for reuniting his party.
+- **11492**: Perhaps you could give me some peace of mind as well. Would you mind listening to my story?
+- **11493**: Listen to his story? [Why not?/No, I can't take any more.]
+- **11494**: Very well. At least allow me to say this, however. Thank you for making this dark world a little brighter.
+- **11495**: It all started back when I could hardly tell a saber from a scimitar.
+- **11496**: I was roaming the woods of West Ronfaure when I was ambushed by Orcish reconnaissance. There was no hope for my survival, and I had resigned myself to my fate.
+- **11497**: However, before they could inflict the final blow upon me, I was blanketed in a comforting light.
+- **11498**: The wounds that rendered me nothing more than a bloody hunk of meat closed before my eyes. I felt as if I had the strength to fell a whole horde of Orcs, and succeeded handily in dispatching my aggressors.
+- **11499**: At the battle's conclusion, I turned to face the source of that warm light. What my eyes met with was a certain Tarutaru white mage.
+- **11500**: Her face said it all. Altruism itself seemed to have manifested upon her countenance, and the nonchalant glance she gave froze me in place. I knew my life had changed at that moment.
+- **11501**: I immediately discarded my sword and hastened to Regine's Magicmart, where I outfitted myself in all the trappings of a white mage.
+- **11502**: I began to tread the path of healing, determined not only to return the favor she had bestowed upon me, but also to make her recognize my proclivity for the craft.
+- **11503**: Once I had whetted my appetite for the standard fare of sorcery, I decided to refine my palate by embarking for Castle Oztroja.
+- **11504**: My quest to slay those unholy Yagudo acolytes took me deep within the bowels of the heap of dirt and rock they called a castle. While the journey was fraught with many dangers, it was worth it to procure spells the likes of which I had only conceptualized up until then.
+- **11505**: With this, my role model would be unable to deny my puissance. She would shower me with praise that would validate my long excursion and prove how consummate my adoption of the white arts truly was.
+- **11506**: Sadly, though, the truth is a fickle mistress.
+- **11507**: I later learned from Eternal Flame that of all people in Vana'diel...
+- **11508**: ...the very girl who saved my life was one of his partners in adventure.
+- **11509**: The beacon of light who had shown me the way, my raison d'etre...
+- **11510**: ...the Tarutaru with whom I wanted nothing more than to tell what she meant to me...
+- **11511**: ...I was pushing her away from myself all along by working to become the white mage I am today.
+- **11512**: If I had not been so devoted to this calling, she would have had more opportunities to join Flame's party and I could have come face-to-face with her.
+- **11513**: I cursed Lady Fortune. How could I not, when my good intentions effectively drove a wedge between me and the dame?
+- **11514**: Perhaps I should not dwell on what has come to pass, seeing as you have brought a smile to her face once more. I feel as if an incredible weight has been launched from my shoulders into the sky.
+- **11515**: Speaking of which, you lit that ouka ranman in $8, did you not?
+- **11516**: Maybe I should return to West Ronfaure and light my own petals of recollection.
+- **11517**: I indeed must perform some introspection. What does it mean to live as an adventurer? Why do I risk my life every day to be one?
+- **11518**: Whether or not I find any answers there, I am greatly indebted to you.
+- **11519**: Should you ever have the occasion to visit Jeuno, would you do me the favor of seeing how my dear white mage fares?
 
 ## Events
 
@@ -179,12 +179,12 @@
   0: 0x0002 [0x4A] LocalPlayer looks at EventEntity
   1: 0x000B [0x4A] EventEntity looks at LocalPlayer
   2: 0x0014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
-  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
+  3: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
     → "Whether or not I find any answers there, I am greatly indebted to you."
   4: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0027 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
   6: 0x0034 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=169*
-  7: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=11518*)
+  7: 0x0043 [0x1D] PRINT_EVENT_MESSAGE(message_id=11519*)
     → "Should you ever have the occasion to visit Jeuno, would you do me the favor of seeing how my dear white mage fares?"
   8: 0x0046 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0047 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
@@ -263,7 +263,7 @@
   7: 0x0079 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   8: 0x007A [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
   9: 0x007F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
- 10: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11489*)
+ 10: 0x008E [0x1D] PRINT_EVENT_MESSAGE(message_id=11490*)
     → "You there."
  11: 0x0091 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0092 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -271,15 +271,15 @@
  14: 0x00A9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=29*
  15: 0x00B8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  16: 0x00C5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
- 17: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11490*)
+ 17: 0x00D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11491*)
     → "I heard from Eternal Flame that you are to thank for reuniting his party."
  18: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00D8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  20: 0x00E5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=169*
- 21: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11491*)
+ 21: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11492*)
     → "Perhaps you could give me some peace of mind as well. Would you mind listening to my story?"
  22: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x00F8 [0x24] CREATE_DIALOG(message_id=11492*, default_option=0*, option_flags=0*)
+ 23: 0x00F8 [0x24] CREATE_DIALOG(message_id=11493*, default_option=0*, option_flags=0*)
     → "Listen to his story? [Why not?/No, I can't take any more.]"
  24: 0x00FF [0x25] WAIT_DIALOG_SELECT()
  25: 0x0100 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011B
@@ -289,7 +289,7 @@
  29: 0x011B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x013C
  30: 0x0123 [0x06] Work_Zone[1] = 0
  31: 0x0126 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 32: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=11493*)
+ 32: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=11494*)
     → "Very well. At least allow me to say this, however. Thank you for making this dark world a little brighter."
  33: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0137 [0x21] END_EVENT
@@ -298,101 +298,101 @@
 SUBROUTINE_013C:
  36: 0x013C [0x5D] SET_MUSIC_VOLUME(volume=31*, fade_time=240*)
  37: 0x0141 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 38: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=11494*)
+ 38: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=11495*)
     → "It all started back when I could hardly tell a saber from a scimitar."
  39: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x0154 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
- 41: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=11495*)
+ 41: 0x0161 [0x1D] PRINT_EVENT_MESSAGE(message_id=11496*)
     → "I was roaming the woods of West Ronfaure when I was ambushed by Orcish reconnaissance. There was no hope for my survival, and I had resigned myself to my fate."
  42: 0x0164 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=11496*)
+ 43: 0x0165 [0x1D] PRINT_EVENT_MESSAGE(message_id=11497*)
     → "However, before they could inflict the final blow upon me, I was blanketed in a comforting light."
  44: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0169 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 46: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=11497*)
+ 46: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=11498*)
     → "The wounds that rendered me nothing more than a bloody hunk of meat closed before my eyes. I felt as if I had the strength to fell a whole horde of Orcs, and succeeded handily in dispatching my aggressors."
  47: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x017C [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 49: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=11498*)
+ 49: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
     → "At the battle's conclusion, I turned to face the source of that warm light. What my eyes met with was a certain Tarutaru white mage."
  50: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x018D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 52: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=11499*)
+ 52: 0x019C [0x1D] PRINT_EVENT_MESSAGE(message_id=11500*)
     → "Her face said it all. Altruism itself seemed to have manifested upon her countenance, and the nonchalant glance she gave froze me in place. I knew my life had changed at that moment."
  53: 0x019F [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x01A0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
- 55: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=11500*)
+ 55: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=11501*)
     → "I immediately discarded my sword and hastened to Regine's Magicmart, where I outfitted myself in all the trappings of a white mage."
  56: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11501*)
+ 57: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
     → "I began to tread the path of healing, determined not only to return the favor she had bestowed upon me, but also to make her recognize my proclivity for the craft."
  58: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x01B5 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 60: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11502*)
+ 60: 0x01C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
     → "Once I had whetted my appetite for the standard fare of sorcery, I decided to refine my palate by embarking for Castle Oztroja."
  61: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01C8 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
- 63: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11503*)
+ 63: 0x01D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
     → "My quest to slay those unholy Yagudo acolytes took me deep within the bowels of the heap of dirt and rock they called a castle. While the journey was fraught with many dangers, it was worth it to procure spells the likes of which I had only conceptualized up until then."
  64: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 65: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11504*)
+ 65: 0x01D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
     → "With this, my role model would be unable to deny my puissance. She would shower me with praise that would validate my long excursion and prove how consummate my adoption of the white arts truly was."
  66: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x01DD [0x6E] Duberasson (ID: 17826106/0x0110013A) uses emote 33*
  68: 0x01E4 [0x99] Wait for Duberasson (ID: 17826106/0x0110013A) animation to complete
- 69: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11505*)
+ 69: 0x01E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
     → "Sadly, though, the truth is a fickle mistress."
  70: 0x01EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01ED [0x1C] WAIT(50* ticks)
- 72: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11506*)
+ 72: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
     → "I later learned from Eternal Flame that of all people in Vana'diel..."
  73: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01F4 [0x6E] Duberasson (ID: 17826106/0x0110013A) uses emote 19*
  75: 0x01FB [0x99] Wait for Duberasson (ID: 17826106/0x0110013A) animation to complete
- 76: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=11507*)
+ 76: 0x0200 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
     → "...the very girl who saved my life was one of his partners in adventure."
  77: 0x0203 [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0204 [0x1C] WAIT(50* ticks)
  79: 0x0207 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 80: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=11508*)
+ 80: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
     → "The beacon of light who had shown me the way, my raison d'etre..."
  81: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=11509*)
+ 82: 0x021A [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
     → "...the Tarutaru with whom I wanted nothing more than to tell what she meant to me..."
  83: 0x021D [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x021E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  85: 0x022B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
- 86: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=11510*)
+ 86: 0x023A [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
     → "...I was pushing her away from myself all along by working to become the white mage I am today."
  87: 0x023D [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x023E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
  89: 0x024B [0x79] EventEntity looks at Eternal Flame (ID: 17826104/0x01100138) (Basic look)
- 90: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=11511*)
+ 90: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
     → "If I had not been so devoted to this calling, she would have had more opportunities to join Flame's party and I could have come face-to-face with her."
  91: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0259 [0x1C] WAIT(40* ticks)
  93: 0x025C [0x79] EventEntity looks at LocalPlayer (Basic look)
  94: 0x0266 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
- 95: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=11512*)
+ 95: 0x0275 [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
     → "I cursed Lady Fortune. How could I not, when my good intentions effectively drove a wedge between me and the dame?"
  96: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 97: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=11513*)
+ 97: 0x0279 [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
     → "Perhaps I should not dwell on what has come to pass, seeing as you have brought a smile to her face once more. I feel as if an incredible weight has been launched from my shoulders into the sky."
  98: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x027D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
 100: 0x028A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=169*
 101: 0x0299 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-102: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=11514*)
+102: 0x029E [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
     → "Speaking of which, you lit that ouka ranman in $8, did you not?"
 103: 0x02A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x02A2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
-105: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11515*)
+105: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
     → "Maybe I should return to West Ronfaure and light my own petals of recollection."
 106: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x02B3 [0x5D] SET_MUSIC_VOLUME(volume=127*, fade_time=120*)
 108: 0x02B8 [0x7B] EventEntity stops talking
 109: 0x02BD [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
-110: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=11516*)
+110: 0x02CC [0x1D] PRINT_EVENT_MESSAGE(message_id=11517*)
     → "I indeed must perform some introspection. What does it mean to live as an adventurer? Why do I risk my life every day to be one?"
 111: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x02D0 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -445,7 +445,7 @@ SUBROUTINE_013C:
   2: 0x0303 [0x4A] LocalPlayer looks at EventEntity
   3: 0x030C [0x7B] EventEntity stops talking
   4: 0x0311 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=29*
-  5: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=11486*)
+  5: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=11487*)
     → "A.M.A.N. has been pulling out all the stops recently, would you not agree? Maybe I should get in tune with this new "Records of Eminence" thing they have created."
   6: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0324 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk1" with entities [EventEntity, EventEntity]
@@ -454,12 +454,12 @@ SUBROUTINE_013C:
  10: 0x0348 [0x4A] EventEntity looks at LocalPlayer
  11: 0x0351 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  12: 0x0352 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
- 13: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=11487*)
+ 13: 0x0357 [0x1D] PRINT_EVENT_MESSAGE(message_id=11488*)
     → "What? The Love and Peace Coalition? Why would you think that is real for even a moment?"
  14: 0x035A [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x035B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "thk2" with entities [EventEntity, EventEntity]
  16: 0x0368 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=169*
- 17: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=11488*)
+ 17: 0x0377 [0x1D] PRINT_EVENT_MESSAGE(message_id=11489*)
     → "Eternal Flame is simply looking for someone at whom to talk. None of the locals can stand his absurdities, so he has fallen to preying on unsuspecting pioneers."
  18: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x037B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]

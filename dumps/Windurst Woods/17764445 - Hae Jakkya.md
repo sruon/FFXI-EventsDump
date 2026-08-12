@@ -48,27 +48,27 @@
 |       1 | 0x001E      |          30 |
 |       2 | 0x016C      |         364 |
 |       3 | 0x0168      |         360 |
-|       4 | 0x1D89      |        7561 |
-|       5 | 0x2128      |        8488 |
-|       6 | 0x2129      |        8489 |
-|       7 | 0x212A      |        8490 |
-|       8 | 0x212B      |        8491 |
-|       9 | 0x212C      |        8492 |
-|      10 | 0x212F      |        8495 |
-|      11 | 0x2130      |        8496 |
-|      12 | 0x2131      |        8497 |
+|       4 | 0x1D8A      |        7562 |
+|       5 | 0x2129      |        8489 |
+|       6 | 0x212A      |        8490 |
+|       7 | 0x212B      |        8491 |
+|       8 | 0x212C      |        8492 |
+|       9 | 0x212D      |        8493 |
+|      10 | 0x2130      |        8496 |
+|      11 | 0x2131      |        8497 |
+|      12 | 0x2132      |        8498 |
 
 ## String References
 
-- **7561**: Yowl! You've got guts to come to me auction house! I'm the one who's in charrrge 'ere! If you 'ave any trouble 'ere, come see me!
-- **8488**: Wot's that you sez? Give you back the book I borrrrowed from the library?
-- **8489**: Why, I always returrrn any books I borrow right on time, thank you! You sure you ain't got the wrong girrrl? Why would they think I've still got a book out?
-- **8490**: Yo\`wl! Wot's that...? $3!? Do you think I'm the type to read a book like that? 'ow embarrrrassin'!
-- **8491**: You nincompoop! Never in all me life 'as anyone even suggested I'd borrrrow an embarrassin' book like $3!
-- **8492**: It's not just obstruction of business, why, it's violatin' me rights, that's what it is! Get the 'ell outta 'ere before I scrrratch ya eyes out!
-- **8495**: Hae Jakhya!? Now you mention it, that is exactly like my name, ain't it?
-- **8496**: Yowl! But 'ow the 'ell could someone mix up a girrrly princess kitten like 'er with a rough and tough lioness like me! That's just not on!
-- **8497**: But, anyways, I'm glad that little matta is overrr! Quite relieved!
+- **7562**: Yowl! You've got guts to come to me auction house! I'm the one who's in charrrge 'ere! If you 'ave any trouble 'ere, come see me!
+- **8489**: Wot's that you sez? Give you back the book I borrrrowed from the library?
+- **8490**: Why, I always returrrn any books I borrow right on time, thank you! You sure you ain't got the wrong girrrl? Why would they think I've still got a book out?
+- **8491**: Yo\`wl! Wot's that...? $3!? Do you think I'm the type to read a book like that? 'ow embarrrrassin'!
+- **8492**: You nincompoop! Never in all me life 'as anyone even suggested I'd borrrrow an embarrassin' book like $3!
+- **8493**: It's not just obstruction of business, why, it's violatin' me rights, that's what it is! Get the 'ell outta 'ere before I scrrratch ya eyes out!
+- **8496**: Hae Jakhya!? Now you mention it, that is exactly like my name, ain't it?
+- **8497**: Yowl! But 'ow the 'ell could someone mix up a girrrly princess kitten like 'er with a rough and tough lioness like me! That's just not on!
+- **8498**: But, anyways, I'm glad that little matta is overrr! Quite relieved!
 
 ## Events
 
@@ -638,7 +638,7 @@
   1: 0x017F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0180 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0181 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0B)
-  4: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7561*)
+  4: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=7562*)
     → "Yowl! You've got guts to come to me auction house! I'm the one who's in charrrge 'ere! If you 'ave any trouble 'ere, come see me!"
   5: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x018C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0C)
@@ -674,15 +674,15 @@
   1: 0x019C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x019E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x13)
-  4: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8488*)
+  4: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
     → "Wot's that you sez? Give you back the book I borrrrowed from the library?"
   5: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01A9 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0A)
   7: 0x01B0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x01)
-  8: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8489*)
+  8: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8490*)
     → "Why, I always returrrn any books I borrow right on time, thank you! You sure you ain't got the wrong girrrl? Why would they think I've still got a book out?"
   9: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8490*)
+ 10: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=8491*)
     → "Yo`wl! Wot's that...? $3!? Do you think I'm the type to read a book like that? 'ow embarrrrassin'!"
  11: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x01BF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x03)
@@ -717,12 +717,12 @@
   1: 0x01D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01D7 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x01D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x13)
-  4: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8491*)
+  4: 0x01DF [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
     → "You nincompoop! Never in all me life 'as anyone even suggested I'd borrrrow an embarrassin' book like $3!"
   5: 0x01E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x01E3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x14)
   7: 0x01EA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x09)
-  8: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8492*)
+  8: 0x01F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8493*)
     → "It's not just obstruction of business, why, it's violatin' me rights, that's what it is! Get the 'ell outta 'ere before I scrrratch ya eyes out!"
   9: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x01F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0A)
@@ -758,17 +758,17 @@
   1: 0x0205 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0206 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0207 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0B)
-  4: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=8495*)
+  4: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=8496*)
     → "Hae Jakhya!? Now you mention it, that is exactly like my name, ain't it?"
   5: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0212 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x0C)
   7: 0x0219 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x05)
-  8: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=8496*)
+  8: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
     → "Yowl! But 'ow the 'ell could someone mix up a girrrly princess kitten like 'er with a rough and tough lioness like me! That's just not on!"
   9: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0224 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x06)
  11: 0x022B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x07)
- 12: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=8497*)
+ 12: 0x0232 [0x1D] PRINT_EVENT_MESSAGE(message_id=8498*)
     → "But, anyways, I'm glad that little matta is overrr! Quite relieved!"
  13: 0x0235 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0236 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Hae Jakkya (ID: 17764445/0x010F105D), tag_num=0x08)

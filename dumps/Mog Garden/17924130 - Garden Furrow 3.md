@@ -30,42 +30,42 @@
 |       4 | 0x001F      |          31 |
 |       5 | 0x000F      |          15 |
 |       6 | 0x0017      |          23 |
-|       7 | 0x1CA9      |        7337 |
-|       8 | 0x1CAB      |        7339 |
-|       9 | 0x1CAA      |        7338 |
-|      10 | 0x1CAC      |        7340 |
+|       7 | 0x1CAA      |        7338 |
+|       8 | 0x1CAC      |        7340 |
+|       9 | 0x1CAB      |        7339 |
+|      10 | 0x1CAD      |        7341 |
 |      11 | 0x0E10      |        3600 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x1CB1      |        7345 |
-|      14 | 0x1CB2      |        7346 |
+|      13 | 0x1CB2      |        7346 |
+|      14 | 0x1CB3      |        7347 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x1CB5      |        7349 |
-|      17 | 0x1CB3      |        7347 |
+|      16 | 0x1CB6      |        7350 |
+|      17 | 0x1CB4      |        7348 |
 |      18 | 0x0001      |           1 |
-|      19 | 0x1CB4      |        7348 |
+|      19 | 0x1CB5      |        7349 |
 |      20 | 0x0006      |           6 |
 |      21 | 0x0002      |           2 |
 |      22 | 0x0003      |           3 |
-|      23 | 0x1CAD      |        7341 |
-|      24 | 0x1CAE      |        7342 |
-|      25 | 0x1CB0      |        7344 |
-|      26 | 0x1CAF      |        7343 |
-|      27 | 0x1CB6      |        7350 |
+|      23 | 0x1CAE      |        7342 |
+|      24 | 0x1CAF      |        7343 |
+|      25 | 0x1CB1      |        7345 |
+|      26 | 0x1CB0      |        7344 |
+|      27 | 0x1CB7      |        7351 |
 |      28 | 0x0012      |          18 |
-|      29 | 0x1CB8      |        7352 |
-|      30 | 0x1CB9      |        7353 |
-|      31 | 0x1CBA      |        7354 |
+|      29 | 0x1CB9      |        7353 |
+|      30 | 0x1CBA      |        7354 |
+|      31 | 0x1CBB      |        7355 |
 |      32 | 0x0013      |          19 |
-|      33 | 0x1CBB      |        7355 |
-|      34 | 0x1CBC      |        7356 |
-|      35 | 0x1CBD      |        7357 |
+|      33 | 0x1CBC      |        7356 |
+|      34 | 0x1CBD      |        7357 |
+|      35 | 0x1CBE      |        7358 |
 |      36 | 0x40000000  |  1073741824 |
-|      37 | 0x1CBF      |        7359 |
-|      38 | 0x1CC0      |        7360 |
-|      39 | 0x1CC1      |        7361 |
+|      37 | 0x1CC0      |        7360 |
+|      38 | 0x1CC1      |        7361 |
+|      39 | 0x1CC2      |        7362 |
 |      40 | 0x0011      |          17 |
-|      41 | 0x1CC2      |        7362 |
-|      42 | 0x1CC3      |        7363 |
+|      41 | 0x1CC3      |        7363 |
+|      42 | 0x1CC4      |        7364 |
 |      43 | 0x001A      |          26 |
 |      44 | 0x001B      |          27 |
 |      45 | 0x001C      |          28 |
@@ -99,31 +99,31 @@
 
 ## String References
 
-- **7337**: This furrow is rank $0, but is devoid of both seeds and fertilizer.
-- **7338**: This furrow is rank $0 and has $1 planted, but is devoid of fertilizer.
-- **7339**: This furrow is rank $0 and is using $2 as fertilizer, but is devoid of seeds.
-- **7340**: This moogle garden bed is rank $0, has $1 planted, and is using $2 as fertilizer.
-- **7341**: What will you do? [Inspect the garden./Harvest crops./Uproot everything./Absolutely nothing.]
-- **7342**: Nothing has been planted in this furrow. Select a seed to be sown and place it in the basket.
-- **7343**: This furrow has $1 planted in it.
-- **7344**: This furrow is fertilized with $2.
-- **7345**: Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $8 hour[/s] and $9 minute[/s] (Earth time).
-- **7346**: Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $9 minute[/s] (Earth time).
-- **7347**: Your aggrarian experience tells you that the time for harvesting the $1 is imminent!
-- **7348**: You also conclude that the seed you planted should sprout about $4 more time[/s].
-- **7349**: Your $1 has matured!
-- **7350**: Harvest this crop? [Yes./No.]
-- **7352**: Uproot and discard the $1 you planted?
-- **7353**: Uproot it? [Yes./No.]
-- **7354**: You have removed the $1 from your garden.
-- **7355**: Plant $0 in your garden? Beware that specific seeds cannot be planted again if uprooted later.
-- **7356**: Plant the $0? [Yes./No.]
-- **7357**: You have planted $0.
-- **7359**: Fertilize the furrow with the $0? Beware that fertilizer cannot be recovered once used.
-- **7360**: Using this new fertilizer will overpower the effects of the $2 you already spread.
-- **7361**: Use the $0? [Yes./No.]
-- **7362**: You have fertilized the furrow with $1.
-- **7363**: You have fertilized the $0 with $1.
+- **7338**: This furrow is rank $0, but is devoid of both seeds and fertilizer.
+- **7339**: This furrow is rank $0 and has $1 planted, but is devoid of fertilizer.
+- **7340**: This furrow is rank $0 and is using $2 as fertilizer, but is devoid of seeds.
+- **7341**: This moogle garden bed is rank $0, has $1 planted, and is using $2 as fertilizer.
+- **7342**: What will you do? [Inspect the garden./Harvest crops./Uproot everything./Absolutely nothing.]
+- **7343**: Nothing has been planted in this furrow. Select a seed to be sown and place it in the basket.
+- **7344**: This furrow has $1 planted in it.
+- **7345**: This furrow is fertilized with $2.
+- **7346**: Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $8 hour[/s] and $9 minute[/s] (Earth time).
+- **7347**: Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $9 minute[/s] (Earth time).
+- **7348**: Your aggrarian experience tells you that the time for harvesting the $1 is imminent!
+- **7349**: You also conclude that the seed you planted should sprout about $4 more time[/s].
+- **7350**: Your $1 has matured!
+- **7351**: Harvest this crop? [Yes./No.]
+- **7353**: Uproot and discard the $1 you planted?
+- **7354**: Uproot it? [Yes./No.]
+- **7355**: You have removed the $1 from your garden.
+- **7356**: Plant $0 in your garden? Beware that specific seeds cannot be planted again if uprooted later.
+- **7357**: Plant the $0? [Yes./No.]
+- **7358**: You have planted $0.
+- **7360**: Fertilize the furrow with the $0? Beware that fertilizer cannot be recovered once used.
+- **7361**: Using this new fertilizer will overpower the effects of the $2 you already spread.
+- **7362**: Use the $0? [Yes./No.]
+- **7363**: You have fertilized the furrow with $1.
+- **7364**: You have fertilized the $0 with $1.
 
 ## Events
 
@@ -261,22 +261,22 @@
  20: 0x00A9 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[2]
  21: 0x00AE [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x00CC
  22: 0x00B6 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00C5
- 23: 0x00BE [0x48] [System] [7337*]:
+ 23: 0x00BE [0x48] [System] [7338*]:
     → "This furrow is rank $0, but is devoid of both seeds and fertilizer."
  24: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00C2 [0x01] GOTO 0x00C9
- 26: 0x00C5 [0x48] [System] [7339*]:
+ 26: 0x00C5 [0x48] [System] [7340*]:
     → "This furrow is rank $0 and is using $2 as fertilizer, but is devoid of seeds."
  27: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_00C9:
  28: 0x00C9 [0x01] GOTO 0x014F
  29: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00DB
- 30: 0x00D4 [0x48] [System] [7338*]:
+ 30: 0x00D4 [0x48] [System] [7339*]:
     → "This furrow is rank $0 and has $1 planted, but is devoid of fertilizer."
  31: 0x00D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00D8 [0x01] GOTO 0x00DF
- 33: 0x00DB [0x48] [System] [7340*]:
+ 33: 0x00DB [0x48] [System] [7341*]:
     → "This moogle garden bed is rank $0, has $1 planted, and is using $2 as fertilizer."
  34: 0x00DE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -291,28 +291,28 @@ SUBROUTINE_00DF:
  42: 0x0105 [0x0B] Work_Zone_1700[0]++
  43: 0x0108 [0x08] Work_Zone_1700[1] -= 60*
  44: 0x010D [0x02] IF !(Work_Zone_1700[0] <= 0*) GOTO 0x011C
- 45: 0x0115 [0x48] [System] [7345*]:
+ 45: 0x0115 [0x48] [System] [7346*]:
     → "Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $8 hour[/s] and $9 minute[/s] (Earth time)."
  46: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0119 [0x01] GOTO 0x013E
  48: 0x011C [0x02] IF !(ExtData[1]->WorkLocal[7] < 60*) GOTO 0x012B
- 49: 0x0124 [0x48] [System] [7346*]:
+ 49: 0x0124 [0x48] [System] [7347*]:
     → "Your agrarian experience tells you that you will be able to harvest the $1 you planted in about $9 minute[/s] (Earth time)."
  50: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x0128 [0x01] GOTO 0x013E
  52: 0x012B [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x013A
- 53: 0x0133 [0x48] [System] [7349*]:
+ 53: 0x0133 [0x48] [System] [7350*]:
     → "Your $1 has matured!"
  54: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0137 [0x01] GOTO 0x013E
- 56: 0x013A [0x48] [System] [7347*]:
+ 56: 0x013A [0x48] [System] [7348*]:
     → "Your aggrarian experience tells you that the time for harvesting the $1 is imminent!"
  57: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_013E:
  58: 0x013E [0x02] IF !(ExtData[1]->WorkLocal[8] <= 1*) GOTO 0x014F
  59: 0x0146 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[8]
- 60: 0x014B [0x48] [System] [7348*]:
+ 60: 0x014B [0x48] [System] [7349*]:
     → "You also conclude that the seed you planted should sprout about $4 more time[/s]."
  61: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -339,7 +339,7 @@ SUBROUTINE_01A3:
 
 SUBROUTINE_01A6:
  79: 0x01A6 [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x01F8
- 80: 0x01AE [0x24] CREATE_DIALOG(message_id=7341*, default_option=ExtData[1]->WorkLocal[15], option_flags=ExtData[1]->WorkLocal[9])
+ 80: 0x01AE [0x24] CREATE_DIALOG(message_id=7342*, default_option=ExtData[1]->WorkLocal[15], option_flags=ExtData[1]->WorkLocal[9])
     → "What will you do? [Inspect the garden./Harvest crops./Uproot everything./Absolutely nothing.]"
  81: 0x01B5 [0x25] WAIT_DIALOG_SELECT()
  82: 0x01B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C9
@@ -369,34 +369,34 @@ SUBROUTINE_01F5:
 
 SUBROUTINE_023F:
 104: 0x023F [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x025A
-105: 0x0247 [0x48] [System] [7342*]:
+105: 0x0247 [0x48] [System] [7343*]:
     → "Nothing has been planted in this furrow. Select a seed to be sown and place it in the basket."
 106: 0x024A [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x024B [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0257
-108: 0x0253 [0x48] [System] [7344*]:
+108: 0x0253 [0x48] [System] [7345*]:
     → "This furrow is fertilized with $2."
 109: 0x0256 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0257 [0x01] GOTO 0x029F
 111: 0x025A [0x02] IF !(ExtData[1]->WorkLocal[6] == 2*) GOTO 0x0275
-112: 0x0262 [0x48] [System] [7343*]:
+112: 0x0262 [0x48] [System] [7344*]:
     → "This furrow has $1 planted in it."
 113: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0266 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0272
-115: 0x026E [0x48] [System] [7344*]:
+115: 0x026E [0x48] [System] [7345*]:
     → "This furrow is fertilized with $2."
 116: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x0272 [0x01] GOTO 0x029F
 118: 0x0275 [0x02] IF !(ExtData[1]->WorkLocal[6] == 3*) GOTO 0x0290
-119: 0x027D [0x48] [System] [7343*]:
+119: 0x027D [0x48] [System] [7344*]:
     → "This furrow has $1 planted in it."
 120: 0x0280 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x0281 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x028D
-122: 0x0289 [0x48] [System] [7344*]:
+122: 0x0289 [0x48] [System] [7345*]:
     → "This furrow is fertilized with $2."
 123: 0x028C [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x028D [0x01] GOTO 0x029F
 125: 0x0290 [0x02] IF !(ExtData[1]->WorkLocal[6] == 4*) GOTO 0x029F
-126: 0x0298 [0x48] [System] [7349*]:
+126: 0x0298 [0x48] [System] [7350*]:
     → "Your $1 has matured!"
 127: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x029C [0x01] GOTO 0x029F
@@ -405,7 +405,7 @@ SUBROUTINE_029F:
 129: 0x029F [0x1B] RETURN
 
 SUBROUTINE_02A0:
-130: 0x02A0 [0x24] CREATE_DIALOG(message_id=7350*, default_option=0*, option_flags=0*)
+130: 0x02A0 [0x24] CREATE_DIALOG(message_id=7351*, default_option=0*, option_flags=0*)
     → "Harvest this crop? [Yes./No.]"
 131: 0x02A7 [0x25] WAIT_DIALOG_SELECT()
 132: 0x02A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D4
@@ -422,14 +422,14 @@ SUBROUTINE_02D4:
 141: 0x02D4 [0x1B] RETURN
 
 SUBROUTINE_02D5:
-142: 0x02D5 [0x48] [System] [7352*]:
+142: 0x02D5 [0x48] [System] [7353*]:
     → "Uproot and discard the $1 you planted?"
 143: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-144: 0x02D9 [0x24] CREATE_DIALOG(message_id=7353*, default_option=1*, option_flags=0*)
+144: 0x02D9 [0x24] CREATE_DIALOG(message_id=7354*, default_option=1*, option_flags=0*)
     → "Uproot it? [Yes./No.]"
 145: 0x02E0 [0x25] WAIT_DIALOG_SELECT()
 146: 0x02E1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0304
-147: 0x02E9 [0x48] [System] [7354*]:
+147: 0x02E9 [0x48] [System] [7355*]:
     → "You have removed the $1 from your garden."
 148: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x02ED [0x03] Work_Zone[1] = 19*
@@ -486,15 +486,15 @@ SUBROUTINE_0304:
   7: 0x033B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s762" with entities [LocalPlayer, LocalPlayer], work=[23*, 0*]
   8: 0x034C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x035D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
- 10: 0x036C [0x48] [System] [7355*]:
+ 10: 0x036C [0x48] [System] [7356*]:
     → "Plant $0 in your garden? Beware that specific seeds cannot be planted again if uprooted later."
  11: 0x036F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0370 [0x24] CREATE_DIALOG(message_id=7356*, default_option=0*, option_flags=0*)
+ 12: 0x0370 [0x24] CREATE_DIALOG(message_id=7357*, default_option=0*, option_flags=0*)
     → "Plant the $0? [Yes./No.]"
  13: 0x0377 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0378 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x038C
  15: 0x0380 [0x03] Work_Zone[1] = 16*
- 16: 0x0385 [0x48] [System] [7357*]:
+ 16: 0x0385 [0x48] [System] [7358*]:
     → "You have planted $0."
  17: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0389 [0x01] GOTO 0x0391
@@ -959,18 +959,18 @@ SUBROUTINE_0391:
  15: 0x046D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=200*
  16: 0x047C [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0490
  17: 0x0484 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 18: 0x0489 [0x48] [System] [7359*]:
+ 18: 0x0489 [0x48] [System] [7360*]:
     → "Fertilize the furrow with the $0? Beware that fertilizer cannot be recovered once used."
  19: 0x048C [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x048D [0x01] GOTO 0x0499
  21: 0x0490 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[5]
- 22: 0x0495 [0x48] [System] [7360*]:
+ 22: 0x0495 [0x48] [System] [7361*]:
     → "Using this new fertilizer will overpower the effects of the $2 you already spread."
  23: 0x0498 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0499:
  24: 0x0499 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[4]
- 25: 0x049E [0x24] CREATE_DIALOG(message_id=7361*, default_option=0*, option_flags=0*)
+ 25: 0x049E [0x24] CREATE_DIALOG(message_id=7362*, default_option=0*, option_flags=0*)
     → "Use the $0? [Yes./No.]"
  26: 0x04A5 [0x25] WAIT_DIALOG_SELECT()
  27: 0x04A6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04DD
@@ -978,13 +978,13 @@ SUBROUTINE_0499:
  29: 0x04B3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
  30: 0x04B8 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x04CC
  31: 0x04C0 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 32: 0x04C5 [0x48] [System] [7362*]:
+ 32: 0x04C5 [0x48] [System] [7363*]:
     → "You have fertilized the furrow with $1."
  33: 0x04C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x04C9 [0x01] GOTO 0x04DA
  35: 0x04CC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  36: 0x04D1 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[4]
- 37: 0x04D6 [0x48] [System] [7363*]:
+ 37: 0x04D6 [0x48] [System] [7364*]:
     → "You have fertilized the $0 with $1."
  38: 0x04D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

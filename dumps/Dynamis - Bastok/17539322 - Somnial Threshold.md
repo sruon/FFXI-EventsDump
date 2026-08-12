@@ -21,20 +21,20 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xFFFFFFFF  |  4294967295 |
-|       1 | 0x1CB0      |        7344 |
-|       2 | 0x1CB1      |        7345 |
+|       1 | 0x1CB1      |        7345 |
+|       2 | 0x1CB2      |        7346 |
 |       3 | 0x0002      |           2 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x1CB2      |        7346 |
+|       5 | 0x1CB3      |        7347 |
 |       6 | 0x0001      |           1 |
-|       7 | 0x1CB3      |        7347 |
+|       7 | 0x1CB4      |        7348 |
 
 ## String References
 
-- **7344**: You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
-- **7345**: What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]
-- **7346**: Proceed out of Dynamis? [Yes, leave./No, remain.]
-- **7347**: Proceed in unlocking support jobs? [Yes, unlock./No, retain.]
+- **7345**: You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]
+- **7346**: What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]
+- **7347**: Proceed out of Dynamis? [Yes, leave./No, remain.]
+- **7348**: Proceed in unlocking support jobs? [Yes, unlock./No, retain.]
 
 ## Events
 
@@ -91,14 +91,14 @@
   0: 0x0001 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[4]
   1: 0x0006 [0x03] ExtData[1]->WorkLocal[2] = 4294967295*
   2: 0x000B [0x0F] ExtData[1]->WorkLocal[2] ^= ExtData[1]->WorkLocal[1]
-  3: 0x0010 [0x48] [System] [7344*]:
+  3: 0x0010 [0x48] [System] [7345*]:
     → "You see a way out of the shrouded land... [/Furthermore, you feel as if you could regain abilities that have been lost to you.]"
   4: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0014 [0x24] CREATE_DIALOG(message_id=7345*, default_option=2*, option_flags=ExtData[1]->WorkLocal[2])
+  5: 0x0014 [0x24] CREATE_DIALOG(message_id=7346*, default_option=2*, option_flags=ExtData[1]->WorkLocal[2])
     → "What will you do? [Leave Dynamis./Unlock support jobs./Nothing.]"
   6: 0x001B [0x25] WAIT_DIALOG_SELECT()
   7: 0x001C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x004F
-  8: 0x0024 [0x24] CREATE_DIALOG(message_id=7346*, default_option=1*, option_flags=0*)
+  8: 0x0024 [0x24] CREATE_DIALOG(message_id=7347*, default_option=1*, option_flags=0*)
     → "Proceed out of Dynamis? [Yes, leave./No, remain.]"
   9: 0x002B [0x25] WAIT_DIALOG_SELECT()
  10: 0x002C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0041
@@ -113,7 +113,7 @@
 SUBROUTINE_004C:
  18: 0x004C [0x01] GOTO 0x008D
  19: 0x004F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0082
- 20: 0x0057 [0x24] CREATE_DIALOG(message_id=7347*, default_option=1*, option_flags=0*)
+ 20: 0x0057 [0x24] CREATE_DIALOG(message_id=7348*, default_option=1*, option_flags=0*)
     → "Proceed in unlocking support jobs? [Yes, unlock./No, retain.]"
  21: 0x005E [0x25] WAIT_DIALOG_SELECT()
  22: 0x005F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0074

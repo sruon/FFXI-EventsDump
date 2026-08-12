@@ -22,11 +22,11 @@
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x1F15      |        7957 |
+|       2 | 0x1F16      |        7958 |
 
 ## String References
 
-- **7957**: Yes, my young [lad/lass], I was not ten yalms from Victory Gate when it was breached by the hordes. Our glorious Victory Gate, that withstood even the devastating onslaught of Doggvdegg himself. 'Twas then I realized the end was near...
+- **7958**: Yes, my young [lad/lass], I was not ten yalms from Victory Gate when it was breached by the hordes. Our glorious Victory Gate, that withstood even the devastating onslaught of Doggvdegg himself. 'Twas then I realized the end was near...
 
 ## Events
 
@@ -80,7 +80,7 @@
   4: 0x0010 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0011 [0x6E] Valderotaux (ID: 17814105/0x010FD259) uses emote 19*
   6: 0x0018 [0x99] Wait for Valderotaux (ID: 17814105/0x010FD259) animation to complete
-  7: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7957*)
+  7: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=7958*)
     → "Yes, my young [lad/lass], I was not ten yalms from Victory Gate when it was breached by the hordes. Our glorious Victory Gate, that withstood even the devastating onslaught of Doggvdegg himself. 'Twas then I realized the end was near..."
   8: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0021 [0x21] END_EVENT

@@ -21,24 +21,24 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0xE28E      |       57998 |
-|       1 | 0x1BB8      |        7096 |
-|       2 | 0x1BB9      |        7097 |
-|       3 | 0x1BBA      |        7098 |
+|       1 | 0x1BB9      |        7097 |
+|       2 | 0x1BBA      |        7098 |
+|       3 | 0x1BBB      |        7099 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0x0092      |         146 |
 |       7 | 0x003C      |          60 |
-|       8 | 0x1BC4      |        7108 |
+|       8 | 0x1BC5      |        7109 |
 |       9 | 0x001E      |          30 |
-|      10 | 0x1BC5      |        7109 |
-|      11 | 0x1BC6      |        7110 |
-|      12 | 0x1BC7      |        7111 |
+|      10 | 0x1BC6      |        7110 |
+|      11 | 0x1BC7      |        7111 |
+|      12 | 0x1BC8      |        7112 |
 |      13 | 0x00C8      |         200 |
 
 ## String References
 
-- **7098**: Proceed to the air travel agency? [Yes./No.]
-- **7111**: You have cleared customs.
+- **7099**: Proceed to the air travel agency? [Yes./No.]
+- **7112**: You have cleared customs.
 
 ## Events
 
@@ -107,15 +107,15 @@
   3: 0x000E [0x3B] GET_ENTITY_POSITION(entity=LocalPlayer, x_destination=ExtData[1]->WorkLocal[1], y_destination=ExtData[1]->WorkLocal[2], z_destination=ExtData[1]->WorkLocal[3])
   4: 0x0019 [0x02] IF !(ExtData[1]->WorkLocal[2] >= 57998*) GOTO 0x0035
   5: 0x0021 [0x4A] Roupatour (ID: 17784844/0x010F600C) looks at LocalPlayer
-  6: 0x002A [0x2B] Roupatour (ID: 17784844/0x010F600C) [7096*]:
+  6: 0x002A [0x2B] Roupatour (ID: 17784844/0x010F600C) [7097*]:
     → "This is the arrivals exit. The entrance to departures is next door."
   7: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0032 [0x01] GOTO 0x0121
   9: 0x0035 [0x4A] Haubijoux (ID: 17784843/0x010F600B) looks at LocalPlayer
- 10: 0x003E [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7097*]:
+ 10: 0x003E [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7098*]:
     → "Once you go through customs, you'll have to pay to come back on board. Is that all right?"
  11: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0046 [0x24] CREATE_DIALOG(message_id=7098*, default_option=1*, option_flags=0*)
+ 12: 0x0046 [0x24] CREATE_DIALOG(message_id=7099*, default_option=1*, option_flags=0*)
     → "Proceed to the air travel agency? [Yes./No.]"
  13: 0x004D [0x25] WAIT_DIALOG_SELECT()
  14: 0x004E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0121
@@ -130,7 +130,7 @@
  23: 0x0082 [0x4A] Haubijoux (ID: 17784843/0x010F600B) looks at LocalPlayer
  24: 0x008B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  25: 0x008C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Haubijoux (ID: 17784843/0x010F600B) Render.Flags0 and Render.Flags3 conditions are met
- 26: 0x0091 [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7108*]:
+ 26: 0x0091 [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7109*]:
     → "Hey, stop right there!"
  27: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0099 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
@@ -138,10 +138,10 @@
  30: 0x00A8 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  31: 0x00A9 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  32: 0x00AE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Haubijoux (ID: 17784843/0x010F600B), Haubijoux (ID: 17784843/0x010F600B)], work=30*
- 33: 0x00BD [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7109*]:
+ 33: 0x00BD [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7110*]:
     → "You are in possession of contraband! I'm sorry, but you'll have to surrender all prohibited goods!"
  34: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x00C5 [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7110*]:
+ 35: 0x00C5 [0x2B] Haubijoux (ID: 17784843/0x010F600B) [7111*]:
     → "Regulations also force me to temporarily revoke your airship privileges. Don't let this kind of thing happen again."
  36: 0x00CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x00CD [0x6B] STOP_AND_IDLE: Haubijoux (ID: 17784843/0x010F600B) stops current action and resets to idle (animation="idl0")
@@ -149,7 +149,7 @@
  39: 0x00DD [0x01] GOTO 0x00F3
  40: 0x00E0 [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=LocalPlayer, tag_num=0x12)
  41: 0x00E7 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x00F3
- 42: 0x00EF [0x48] [System] [7111*]:
+ 42: 0x00EF [0x48] [System] [7112*]:
     → "You have cleared customs."
  43: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

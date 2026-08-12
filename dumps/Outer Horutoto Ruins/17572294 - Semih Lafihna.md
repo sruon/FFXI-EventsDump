@@ -79,23 +79,23 @@
 |       5 | 0x0167      |         359 |
 |       6 | 0x00B3      |         179 |
 |       7 | 0x0064      |         100 |
-|       8 | 0x1C9C      |        7324 |
-|       9 | 0x1C94      |        7316 |
-|      10 | 0x1C95      |        7317 |
-|      11 | 0x1C98      |        7320 |
-|      12 | 0x1CAA      |        7338 |
-|      13 | 0x1CAB      |        7339 |
-|      14 | 0x1CAD      |        7341 |
+|       8 | 0x1C9D      |        7325 |
+|       9 | 0x1C95      |        7317 |
+|      10 | 0x1C96      |        7318 |
+|      11 | 0x1C99      |        7321 |
+|      12 | 0x1CAB      |        7339 |
+|      13 | 0x1CAC      |        7340 |
+|      14 | 0x1CAE      |        7342 |
 
 ## String References
 
-- **7316**: This is not a game, you overgrrrown puppets!
-- **7317**: Your usefulness has ended! Without your master, you have no more rrreason to exist! Embrrrace the eternal slumber that awaits you!
-- **7320**: You have chosen a king!? Minister Zonpa-Zippa of the Manustery still lives!?
-- **7324**: You! Why are you...!
-- **7338**: What!?
-- **7339**: Goddess currrse you! But it seems I have little choice...
-- **7341**: !!! You know of the bearer of darkness!?
+- **7317**: This is not a game, you overgrrrown puppets!
+- **7318**: Your usefulness has ended! Without your master, you have no more rrreason to exist! Embrrrace the eternal slumber that awaits you!
+- **7321**: You have chosen a king!? Minister Zonpa-Zippa of the Manustery still lives!?
+- **7325**: You! Why are you...!
+- **7339**: What!?
+- **7340**: Goddess currrse you! But it seems I have little choice...
+- **7342**: !!! You know of the bearer of darkness!?
 
 ## Events
 
@@ -1227,7 +1227,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7324*)
+  0: 0x02D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7325*)
     → "You! Why are you...!"
   1: 0x02DB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DC [0x00] END_REQSTACK()
@@ -1253,7 +1253,7 @@
 #### Opcodes
 
 ```
-  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7316*)
+  0: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
     → "This is not a game, you overgrrrown puppets!"
   1: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E1 [0x00] END_REQSTACK()
@@ -1278,7 +1278,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7317*)
+  0: 0x02E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7318*)
     → "Your usefulness has ended! Without your master, you have no more rrreason to exist! Embrrrace the eternal slumber that awaits you!"
   1: 0x02E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E6 [0x00] END_REQSTACK()
@@ -1303,7 +1303,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7320*)
+  0: 0x02E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=7321*)
     → "You have chosen a king!? Minister Zonpa-Zippa of the Manustery still lives!?"
   1: 0x02EA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02EB [0x00] END_REQSTACK()
@@ -1329,7 +1329,7 @@
 #### Opcodes
 
 ```
-  0: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7338*)
+  0: 0x02EC [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
     → "What!?"
   1: 0x02EF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F0 [0x00] END_REQSTACK()
@@ -1354,7 +1354,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7339*)
+  0: 0x02F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7340*)
     → "Goddess currrse you! But it seems I have little choice..."
   1: 0x02F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02F5 [0x00] END_REQSTACK()
@@ -1379,7 +1379,7 @@
 #### Opcodes
 
 ```
-  0: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7341*)
+  0: 0x02F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7342*)
     → "!!! You know of the bearer of darkness!?"
   1: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02FA [0x00] END_REQSTACK()

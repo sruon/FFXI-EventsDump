@@ -41,80 +41,80 @@
 |      11 | 0x0369      |         873 |
 |      12 | 0x00ED      |         237 |
 |      13 | 0x02B2      |         690 |
-|      14 | 0x221F      |        8735 |
+|      14 | 0x2220      |        8736 |
 |      15 | 0x000D      |          13 |
-|      16 | 0x2220      |        8736 |
-|      17 | 0x2221      |        8737 |
-|      18 | 0x2222      |        8738 |
+|      16 | 0x2221      |        8737 |
+|      17 | 0x2222      |        8738 |
+|      18 | 0x2223      |        8739 |
 |      19 | 0x000A      |          10 |
-|      20 | 0x2223      |        8739 |
+|      20 | 0x2224      |        8740 |
 |      21 | 0x0008      |           8 |
 |      22 | 0x000F      |          15 |
-|      23 | 0x2224      |        8740 |
-|      24 | 0x2225      |        8741 |
-|      25 | 0x1D27      |        7463 |
+|      23 | 0x2225      |        8741 |
+|      24 | 0x2226      |        8742 |
+|      25 | 0x1D28      |        7464 |
 |      26 | 0x0002      |           2 |
-|      27 | 0x21EB      |        8683 |
-|      28 | 0x21EC      |        8684 |
+|      27 | 0x21EC      |        8684 |
+|      28 | 0x21ED      |        8685 |
 |      29 | 0x0DEE      |        3566 |
-|      30 | 0x21ED      |        8685 |
+|      30 | 0x21EE      |        8686 |
 |      31 | 0x000C      |          12 |
 |      32 | 0x00EC      |         236 |
-|      33 | 0x2227      |        8743 |
+|      33 | 0x2228      |        8744 |
 |      34 | 0x0003      |           3 |
-|      35 | 0x2204      |        8708 |
+|      35 | 0x2205      |        8709 |
 |      36 | 0x001E      |          30 |
-|      37 | 0x2231      |        8753 |
-|      38 | 0x2232      |        8754 |
+|      37 | 0x2232      |        8754 |
+|      38 | 0x2233      |        8755 |
 |      39 | 0x003C      |          60 |
-|      40 | 0x2233      |        8755 |
+|      40 | 0x2234      |        8756 |
 |      41 | 0x0032      |          50 |
 |      42 | 0x0004      |           4 |
-|      43 | 0x220B      |        8715 |
-|      44 | 0x220A      |        8714 |
-|      45 | 0x2209      |        8713 |
+|      43 | 0x220C      |        8716 |
+|      44 | 0x220B      |        8715 |
+|      45 | 0x220A      |        8714 |
 |      46 | 0x00EB      |         235 |
-|      47 | 0x2208      |        8712 |
-|      48 | 0x2207      |        8711 |
-|      49 | 0x2210      |        8720 |
-|      50 | 0x220F      |        8719 |
-|      51 | 0x220E      |        8718 |
-|      52 | 0x220D      |        8717 |
-|      53 | 0x220C      |        8716 |
-|      54 | 0x2212      |        8722 |
-|      55 | 0x2213      |        8723 |
+|      47 | 0x2209      |        8713 |
+|      48 | 0x2208      |        8712 |
+|      49 | 0x2211      |        8721 |
+|      50 | 0x2210      |        8720 |
+|      51 | 0x220F      |        8719 |
+|      52 | 0x220E      |        8718 |
+|      53 | 0x220D      |        8717 |
+|      54 | 0x2213      |        8723 |
+|      55 | 0x2214      |        8724 |
 |      56 | 0x0010      |          16 |
 |      57 | 0x001F      |          31 |
-|      58 | 0x2214      |        8724 |
-|      59 | 0x2215      |        8725 |
-|      60 | 0x2216      |        8726 |
-|      61 | 0x2217      |        8727 |
-|      62 | 0x2218      |        8728 |
+|      58 | 0x2215      |        8725 |
+|      59 | 0x2216      |        8726 |
+|      60 | 0x2217      |        8727 |
+|      61 | 0x2218      |        8728 |
+|      62 | 0x2219      |        8729 |
 |      63 | 0xFFFFFFFF  |  4294967295 |
-|      64 | 0x221D      |        8733 |
-|      65 | 0x221E      |        8734 |
+|      64 | 0x221E      |        8734 |
+|      65 | 0x221F      |        8735 |
 |      66 | 0x000B      |          11 |
-|      67 | 0x2219      |        8729 |
-|      68 | 0x221A      |        8730 |
-|      69 | 0x221C      |        8732 |
-|      70 | 0x221B      |        8731 |
+|      67 | 0x221A      |        8730 |
+|      68 | 0x221B      |        8731 |
+|      69 | 0x221D      |        8733 |
+|      70 | 0x221C      |        8732 |
 |      71 | 0x0007      |           7 |
 |      72 | 0x0017      |          23 |
 |      73 | 0x0018      |          24 |
 |      74 | 0x0012      |          18 |
 |      75 | 0x0014      |          20 |
-|      76 | 0x2228      |        8744 |
-|      77 | 0x222D      |        8749 |
-|      78 | 0x222E      |        8750 |
+|      76 | 0x2229      |        8745 |
+|      77 | 0x222E      |        8750 |
+|      78 | 0x222F      |        8751 |
 |      79 | 0x0005      |           5 |
 |      80 | 0x0B62      |        2914 |
 |      81 | 0x0155      |         341 |
 |      82 | 0x0B64      |        2916 |
 |      83 | 0x0121      |         289 |
 |      84 | 0x0009      |           9 |
-|      85 | 0x1DB9      |        7609 |
+|      85 | 0x1DBA      |        7610 |
 |      86 | 0x110E      |        4366 |
-|      87 | 0x2229      |        8745 |
+|      87 | 0x222A      |        8746 |
 |      88 | 0x001A      |          26 |
 |      89 | 0x001B      |          27 |
 |      90 | 0x001C      |          28 |
@@ -139,44 +139,44 @@
 
 ## String References
 
-- **7609**: What a terrific time to test tag utility, kupo!
-- **8683**: By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?
-- **8684**: Put the creature down? [Yes, I have no reservations./No, not yet!]
-- **8708**: What will you do? [Nothing./See how the critter's doing./Interact with the beast./Give the creature a name./Collect items.]
-- **8711**: %0's practically bursting with joy!
-- **8712**: %0's in an obviously good mood.
-- **8713**: %0 looks calm and collected.
-- **8714**: %0 seems to be pouting slightly.
-- **8715**: %0 looks like it wants absolutely nothing to do with anyone.
-- **8716**: [However,/However,/Moreover,/Moreover,/Moreover,] it couldn't be more content with its life.
-- **8717**: [However,/However,/Moreover,/Moreover,/Moreover,] it seems to be duly satisfied with its lot in life.
-- **8718**: [Moreover,/Moreover,/However,/However,/However,] it exudes a slight aura of discontent.
-- **8719**: [Moreover,/Moreover,/However,/However,/However,] it is clearly unhappy with the way things are.
-- **8720**: [Moreover,/Moreover,/However,/However,/However,] it seems thoroughly depressed about the abysmal conditions under which it lives.
-- **8722**: Current growth level: [EEE/$25EE/$26EE/$26$25E/$26$26E/$26$26$25/$26$26$26/$26$26$26].
-- **8723**: How will you interact? [Do nothing./Pet it./Poke it./Slap it./Yell loudly at it./Get angry at it.]
-- **8724**: %0 stares off into the distance as if you're not even there.
-- **8725**: %0 is visibly angry with what you just did.
-- **8726**: That didn't go over too well with %0.
-- **8727**: That was surprisingly not worthless in the eyes of %0!
-- **8728**: That strongly resonated with %0!
-- **8729**: Please bestow a name of 15 letters or fewer upon your creature. Taking no action will annul the process.
-- **8730**: Is %0 fine? [Yes./No, I'll pick a new one./No, I quit.]
-- **8733**: Try to collect items from your beloved beastie?
-- **8734**: Proceed? [Yes, that sounds wonderful./No, I won't take any chances.]
-- **8736**: %0's heart is shrouded in darkness, turning the creature against you! Leaving %0 in this state could spell doom for your garden.
-- **8737**: Whatever will you do!? [Not a thing./Hope moogle magic does the trick./Put the creature down.]
-- **8738**: This entails having the Green Thumb Moogle employ the power of shining stars to cast an incantation on the creature, thus calming it.
-- **8739**: Use moogle magic? (On hand: $26 x $0) [Yes.i$26 x $1)/No.]
-- **8741**: The darkness no longer dwells within %0's heart.
-- **8743**: %0's face beams with the light of pure contentment! There is nothing that can foul %0's mood right now, including gathering items from it.
-- **8744**: You gave %0 $1.
-- **8745**: Perhaps it would be best to give %0 $1.
-- **8749**: %0 squirms uncontrollably.
-- **8750**: %0 shudders violently.
-- **8753**: Creature type: [/Lamb/Sheep/Karakul/Sapling/Green Foliage Treat/Red Foliage Treant/Baby Rabbit/Rabbit/White Rabbit/Baby Lizard/Lizard/Alabaster Lizard/Ram/Baby Cockatrice/Cockatrice/Ziz/Baby Raptor/Raptor/Red Raptor/Baby Eft/Eft/Tarichuk/Dhalmel Calf/Dhalmel/Great Dhalmel/Sea Monk Larva/Sea Monk/Blue Sea Monk/Uragnite Youngling].
-- **8754**: Creature Type: [Uragnite/Limascabra/Immature Crab/Crab/Porter Crab/Baby Colibri/Colibri/Toucalibri/Coeurl Cub/Coeurl/Lynx/Buffalo Calf/Buffalo/Mini Slime/Slime/Clot/Hecteyes/Tiny Bugard/Bugard/Abyssobugard/Baby Adamantoise/Adamantoise/Great Adamantoise/White Adamantoise/Ferromantoise/Great Ferromantoise/Cluster/Bomb/Djinn/Snoll].
-- **8755**: Creature type: [Behemoth Cub/Behemoth/King Behemoth/Elasmoth/Skormoth/Dragon Hatchling/Wyvern/Blue Wyvern/Green Wyvern/Abyssal Wyrm/Lunar Wyrm/Blazing Wyrm/Pequetender/Sabotender/Jumbotender/Mandragora Sproutling/Mandragora/Elder Mandragora/Lycopodium/Korrigan/Pachypodium/Adenium/Elder Adenium/Ake-Ome/Citrullus].
+- **7610**: What a terrific time to test tag utility, kupo!
+- **8684**: By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?
+- **8685**: Put the creature down? [Yes, I have no reservations./No, not yet!]
+- **8709**: What will you do? [Nothing./See how the critter's doing./Interact with the beast./Give the creature a name./Collect items.]
+- **8712**: %0's practically bursting with joy!
+- **8713**: %0's in an obviously good mood.
+- **8714**: %0 looks calm and collected.
+- **8715**: %0 seems to be pouting slightly.
+- **8716**: %0 looks like it wants absolutely nothing to do with anyone.
+- **8717**: [However,/However,/Moreover,/Moreover,/Moreover,] it couldn't be more content with its life.
+- **8718**: [However,/However,/Moreover,/Moreover,/Moreover,] it seems to be duly satisfied with its lot in life.
+- **8719**: [Moreover,/Moreover,/However,/However,/However,] it exudes a slight aura of discontent.
+- **8720**: [Moreover,/Moreover,/However,/However,/However,] it is clearly unhappy with the way things are.
+- **8721**: [Moreover,/Moreover,/However,/However,/However,] it seems thoroughly depressed about the abysmal conditions under which it lives.
+- **8723**: Current growth level: [EEE/$25EE/$26EE/$26$25E/$26$26E/$26$26$25/$26$26$26/$26$26$26].
+- **8724**: How will you interact? [Do nothing./Pet it./Poke it./Slap it./Yell loudly at it./Get angry at it.]
+- **8725**: %0 stares off into the distance as if you're not even there.
+- **8726**: %0 is visibly angry with what you just did.
+- **8727**: That didn't go over too well with %0.
+- **8728**: That was surprisingly not worthless in the eyes of %0!
+- **8729**: That strongly resonated with %0!
+- **8730**: Please bestow a name of 15 letters or fewer upon your creature. Taking no action will annul the process.
+- **8731**: Is %0 fine? [Yes./No, I'll pick a new one./No, I quit.]
+- **8734**: Try to collect items from your beloved beastie?
+- **8735**: Proceed? [Yes, that sounds wonderful./No, I won't take any chances.]
+- **8737**: %0's heart is shrouded in darkness, turning the creature against you! Leaving %0 in this state could spell doom for your garden.
+- **8738**: Whatever will you do!? [Not a thing./Hope moogle magic does the trick./Put the creature down.]
+- **8739**: This entails having the Green Thumb Moogle employ the power of shining stars to cast an incantation on the creature, thus calming it.
+- **8740**: Use moogle magic? (On hand: $26 x $0) [Yes.i$26 x $1)/No.]
+- **8742**: The darkness no longer dwells within %0's heart.
+- **8744**: %0's face beams with the light of pure contentment! There is nothing that can foul %0's mood right now, including gathering items from it.
+- **8745**: You gave %0 $1.
+- **8746**: Perhaps it would be best to give %0 $1.
+- **8750**: %0 squirms uncontrollably.
+- **8751**: %0 shudders violently.
+- **8754**: Creature type: [/Lamb/Sheep/Karakul/Sapling/Green Foliage Treat/Red Foliage Treant/Baby Rabbit/Rabbit/White Rabbit/Baby Lizard/Lizard/Alabaster Lizard/Ram/Baby Cockatrice/Cockatrice/Ziz/Baby Raptor/Raptor/Red Raptor/Baby Eft/Eft/Tarichuk/Dhalmel Calf/Dhalmel/Great Dhalmel/Sea Monk Larva/Sea Monk/Blue Sea Monk/Uragnite Youngling].
+- **8755**: Creature Type: [Uragnite/Limascabra/Immature Crab/Crab/Porter Crab/Baby Colibri/Colibri/Toucalibri/Coeurl Cub/Coeurl/Lynx/Buffalo Calf/Buffalo/Mini Slime/Slime/Clot/Hecteyes/Tiny Bugard/Bugard/Abyssobugard/Baby Adamantoise/Adamantoise/Great Adamantoise/White Adamantoise/Ferromantoise/Great Ferromantoise/Cluster/Bomb/Djinn/Snoll].
+- **8756**: Creature type: [Behemoth Cub/Behemoth/King Behemoth/Elasmoth/Skormoth/Dragon Hatchling/Wyvern/Blue Wyvern/Green Wyvern/Abyssal Wyrm/Lunar Wyrm/Blazing Wyrm/Pequetender/Sabotender/Jumbotender/Mandragora Sproutling/Mandragora/Elder Mandragora/Lycopodium/Korrigan/Pachypodium/Adenium/Elder Adenium/Ake-Ome/Citrullus].
 
 ## Events
 
@@ -444,7 +444,7 @@ SUBROUTINE_0046:
  43: 0x0100 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
  44: 0x0111 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  45: 0x0122 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 46: 0x0131 [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [8735*]:
+ 46: 0x0131 [0x2B] Green Thumb Moogle (ID: 17924125/0x0111801D) [8736*]:
     → "Pardon my perilous proclamation, but your bestial buddy has become a blight on this backyard of bounties! At this rate, you'll be hard-pressed to have a harvest at all, kupo!"
  47: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0139 [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [LocalPlayer, LocalPlayer], work=690*
@@ -454,7 +454,7 @@ SUBROUTINE_0046:
  52: 0x0163 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s105" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
 
 SUBROUTINE_0174:
- 53: 0x0174 [0x48] [System] [8736*]:
+ 53: 0x0174 [0x48] [System] [8737*]:
     → "%0's heart is shrouded in darkness, turning the creature against you! Leaving %0 in this state could spell doom for your garden."
  54: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0178 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Green Thumb Moogle (ID: 17924125/0x0111801D), tag_num=0x4A)
@@ -468,7 +468,7 @@ SUBROUTINE_01A7:
 
 SUBROUTINE_01AA:
  61: 0x01AA [0x02] IF !(ExtData[1]->WorkLocal[13] <= 1*) GOTO 0x0407
- 62: 0x01B2 [0x24] CREATE_DIALOG(message_id=8737*, default_option=0*, option_flags=0*)
+ 62: 0x01B2 [0x24] CREATE_DIALOG(message_id=8738*, default_option=0*, option_flags=0*)
     → "Whatever will you do!? [Not a thing./Hope moogle magic does the trick./Put the creature down.]"
  63: 0x01B9 [0x25] WAIT_DIALOG_SELECT()
  64: 0x01BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01FC
@@ -486,17 +486,17 @@ SUBROUTINE_0307:
 SUBROUTINE_0315:
  73: 0x0315 [0x01] GOTO 0x0404
  74: 0x0318 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0404
- 75: 0x0320 [0x48] [System] [8683*]:
+ 75: 0x0320 [0x48] [System] [8684*]:
     → "By putting %0 down, you will personally end its life. While there will be no physical repercussion for doing such, are you willing to have that on your conscience?"
  76: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0324 [0x24] CREATE_DIALOG(message_id=8684*, default_option=1*, option_flags=0*)
+ 77: 0x0324 [0x24] CREATE_DIALOG(message_id=8685*, default_option=1*, option_flags=0*)
     → "Put the creature down? [Yes, I have no reservations./No, not yet!]"
  78: 0x032B [0x25] WAIT_DIALOG_SELECT()
  79: 0x032C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x03F6
  80: 0x0334 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s104" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
  81: 0x0345 [0x7B] Chacharoon (ID: 17924187/0x0111805B) stops talking
  82: 0x034A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hed0" with entities [Chacharoon (ID: 17924187/0x0111805B), Chacharoon (ID: 17924187/0x0111805B)], work=3566*
- 83: 0x0359 [0x2B] Chacharoon (ID: 17924187/0x0111805B) [8685*]:
+ 83: 0x0359 [0x2B] Chacharoon (ID: 17924187/0x0111805B) [8686*]:
     → "<Snurk> Chacharoon...will not be forgetting %0...<snurk> ever. Waaaaaah!"
  84: 0x0360 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0361 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -529,7 +529,7 @@ SUBROUTINE_0404:
 108: 0x0418 [0x01] GOTO 0x0459
 109: 0x041B [0x42] SET_CLI_EVENT_CANCEL_DATA()
 110: 0x041C [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
-111: 0x042D [0x48] [System] [8743*]:
+111: 0x042D [0x48] [System] [8744*]:
     → "%0's face beams with the light of pure contentment! There is nothing that can foul %0's mood right now, including gathering items from it."
 112: 0x0430 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0431 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[14], bit_index_work_offset=0*, condition_work_offset=1*)
@@ -544,7 +544,7 @@ SUBROUTINE_0459:
 120: 0x0466 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=2*, condition_work_offset=1*)
 121: 0x046D [0x3E] IF !(ExtData[1]->WorkLocal[14] bit 2*) GOTO 0x047B
 122: 0x0474 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[15], bit_index_work_offset=3*, condition_work_offset=1*)
-123: 0x047B [0x24] CREATE_DIALOG(message_id=8708*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+123: 0x047B [0x24] CREATE_DIALOG(message_id=8709*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "What will you do? [Nothing./See how the critter's doing./Interact with the beast./Give the creature a name./Collect items.]"
 124: 0x0482 [0x25] WAIT_DIALOG_SELECT()
 125: 0x0483 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0491
@@ -555,21 +555,21 @@ SUBROUTINE_0459:
 130: 0x049E [0x15] Work_Zone[3] /= 30*
 131: 0x04A3 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x04B7
 132: 0x04AB [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
-133: 0x04B0 [0x48] [System] [8753*]:
+133: 0x04B0 [0x48] [System] [8754*]:
     → "Creature type: [/Lamb/Sheep/Karakul/Sapling/Green Foliage Treat/Red Foliage Treant/Baby Rabbit/Rabbit/White Rabbit/Baby Lizard/Lizard/Alabaster Lizard/Ram/Baby Cockatrice/Cockatrice/Ziz/Baby Raptor/Raptor/Red Raptor/Baby Eft/Eft/Tarichuk/Dhalmel Calf/Dhalmel/Great Dhalmel/Sea Monk Larva/Sea Monk/Blue Sea Monk/Uragnite Youngling]."
 134: 0x04B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 135: 0x04B4 [0x01] GOTO 0x04E9
 136: 0x04B7 [0x02] IF !(Work_Zone[3] == 1*) GOTO 0x04D0
 137: 0x04BF [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
 138: 0x04C4 [0x08] Work_Zone[3] -= 30*
-139: 0x04C9 [0x48] [System] [8754*]:
+139: 0x04C9 [0x48] [System] [8755*]:
     → "Creature Type: [Uragnite/Limascabra/Immature Crab/Crab/Porter Crab/Baby Colibri/Colibri/Toucalibri/Coeurl Cub/Coeurl/Lynx/Buffalo Calf/Buffalo/Mini Slime/Slime/Clot/Hecteyes/Tiny Bugard/Bugard/Abyssobugard/Baby Adamantoise/Adamantoise/Great Adamantoise/White Adamantoise/Ferromantoise/Great Ferromantoise/Cluster/Bomb/Djinn/Snoll]."
 140: 0x04CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x04CD [0x01] GOTO 0x04E9
 142: 0x04D0 [0x02] IF !(Work_Zone[3] == 2*) GOTO 0x04E9
 143: 0x04D8 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
 144: 0x04DD [0x08] Work_Zone[3] -= 60*
-145: 0x04E2 [0x48] [System] [8755*]:
+145: 0x04E2 [0x48] [System] [8756*]:
     → "Creature type: [Behemoth Cub/Behemoth/King Behemoth/Elasmoth/Skormoth/Dragon Hatchling/Wyvern/Blue Wyvern/Green Wyvern/Abyssal Wyrm/Lunar Wyrm/Blazing Wyrm/Pequetender/Sabotender/Jumbotender/Mandragora Sproutling/Mandragora/Elder Mandragora/Lycopodium/Korrigan/Pachypodium/Adenium/Elder Adenium/Ake-Ome/Citrullus]."
 146: 0x04E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x04E6 [0x01] GOTO 0x04E9
@@ -587,31 +587,31 @@ SUBROUTINE_050E:
 155: 0x050E [0x42] SET_CLI_EVENT_CANCEL_DATA()
 156: 0x050F [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x054F
 157: 0x0517 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-158: 0x0528 [0x48] [System] [8715*]:
+158: 0x0528 [0x48] [System] [8716*]:
     → "%0 looks like it wants absolutely nothing to do with anyone."
 159: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x052C [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
 161: 0x053B [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
 162: 0x054C [0x01] GOTO 0x05D0
 163: 0x054F [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x055E
-164: 0x0557 [0x48] [System] [8714*]:
+164: 0x0557 [0x48] [System] [8715*]:
     → "%0 seems to be pouting slightly."
 165: 0x055A [0x23] WAIT_FOR_DIALOG_INTERACTION
 166: 0x055B [0x01] GOTO 0x05D0
 167: 0x055E [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x056D
-168: 0x0566 [0x48] [System] [8713*]:
+168: 0x0566 [0x48] [System] [8714*]:
     → "%0 looks calm and collected."
 169: 0x0569 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x056A [0x01] GOTO 0x05D0
 171: 0x056D [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x058D
 172: 0x0575 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
-173: 0x0586 [0x48] [System] [8712*]:
+173: 0x0586 [0x48] [System] [8713*]:
     → "%0's in an obviously good mood."
 174: 0x0589 [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x058A [0x01] GOTO 0x05D0
 176: 0x058D [0x02] IF !(ExtData[1]->WorkLocal[12] == 4*) GOTO 0x05D0
 177: 0x0595 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
-178: 0x05A6 [0x48] [System] [8711*]:
+178: 0x05A6 [0x48] [System] [8712*]:
     → "%0's practically bursting with joy!"
 179: 0x05A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x05AA [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onon" with entities [EventEntity, EventEntity], work=236*
@@ -632,40 +632,40 @@ SUBROUTINE_05D0:
 
 SUBROUTINE_05FB:
 193: 0x05FB [0x02] IF !(ExtData[1]->WorkLocal[12] == 0*) GOTO 0x060A
-194: 0x0603 [0x48] [System] [8720*]:
+194: 0x0603 [0x48] [System] [8721*]:
     → "[Moreover,/Moreover,/However,/However,/However,] it seems thoroughly depressed about the abysmal conditions under which it lives."
 195: 0x0606 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0607 [0x01] GOTO 0x0646
 197: 0x060A [0x02] IF !(ExtData[1]->WorkLocal[12] == 1*) GOTO 0x0619
-198: 0x0612 [0x48] [System] [8719*]:
+198: 0x0612 [0x48] [System] [8720*]:
     → "[Moreover,/Moreover,/However,/However,/However,] it is clearly unhappy with the way things are."
 199: 0x0615 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0616 [0x01] GOTO 0x0646
 201: 0x0619 [0x02] IF !(ExtData[1]->WorkLocal[12] == 2*) GOTO 0x0628
-202: 0x0621 [0x48] [System] [8718*]:
+202: 0x0621 [0x48] [System] [8719*]:
     → "[Moreover,/Moreover,/However,/However,/However,] it exudes a slight aura of discontent."
 203: 0x0624 [0x23] WAIT_FOR_DIALOG_INTERACTION
 204: 0x0625 [0x01] GOTO 0x0646
 205: 0x0628 [0x02] IF !(ExtData[1]->WorkLocal[12] == 3*) GOTO 0x0637
-206: 0x0630 [0x48] [System] [8717*]:
+206: 0x0630 [0x48] [System] [8718*]:
     → "[However,/However,/Moreover,/Moreover,/Moreover,] it seems to be duly satisfied with its lot in life."
 207: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x0634 [0x01] GOTO 0x0646
 209: 0x0637 [0x02] IF !(ExtData[1]->WorkLocal[12] == 4*) GOTO 0x0646
-210: 0x063F [0x48] [System] [8716*]:
+210: 0x063F [0x48] [System] [8717*]:
     → "[However,/However,/Moreover,/Moreover,/Moreover,] it couldn't be more content with its life."
 211: 0x0642 [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x0643 [0x01] GOTO 0x0646
 
 SUBROUTINE_0646:
 213: 0x0646 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[7]
-214: 0x064B [0x48] [System] [8722*]:
+214: 0x064B [0x48] [System] [8723*]:
     → "Current growth level: [EEE/$25EE/$26EE/$26$25E/$26$26E/$26$26$25/$26$26$26/$26$26$26]."
 215: 0x064E [0x23] WAIT_FOR_DIALOG_INTERACTION
 216: 0x064F [0x06] ExtData[1]->WorkLocal[13] = 0
 217: 0x0652 [0x01] GOTO 0x0848
 218: 0x0655 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0774
-219: 0x065D [0x24] CREATE_DIALOG(message_id=8723*, default_option=0*, option_flags=0*)
+219: 0x065D [0x24] CREATE_DIALOG(message_id=8724*, default_option=0*, option_flags=0*)
     → "How will you interact? [Do nothing./Pet it./Poke it./Slap it./Yell loudly at it./Get angry at it.]"
 220: 0x0664 [0x25] WAIT_DIALOG_SELECT()
 221: 0x0665 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0670
@@ -680,32 +680,32 @@ SUBROUTINE_0670:
 228: 0x068E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 229: 0x0690 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 230: 0x0692 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x06A1
-231: 0x069A [0x48] [System] [8724*]:
+231: 0x069A [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
 232: 0x069D [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x069E [0x01] GOTO 0x0762
 234: 0x06A1 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x06E1
 235: 0x06A9 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-236: 0x06BA [0x48] [System] [8725*]:
+236: 0x06BA [0x48] [System] [8726*]:
     → "%0 is visibly angry with what you just did."
 237: 0x06BD [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x06BE [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
 239: 0x06CD [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
 240: 0x06DE [0x01] GOTO 0x0762
 241: 0x06E1 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x06F0
-242: 0x06E9 [0x48] [System] [8726*]:
+242: 0x06E9 [0x48] [System] [8727*]:
     → "That didn't go over too well with %0."
 243: 0x06EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 244: 0x06ED [0x01] GOTO 0x0762
 245: 0x06F0 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0710
 246: 0x06F8 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
-247: 0x0709 [0x48] [System] [8727*]:
+247: 0x0709 [0x48] [System] [8728*]:
     → "That was surprisingly not worthless in the eyes of %0!"
 248: 0x070C [0x23] WAIT_FOR_DIALOG_INTERACTION
 249: 0x070D [0x01] GOTO 0x0762
 250: 0x0710 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0753
 251: 0x0718 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
-252: 0x0729 [0x48] [System] [8728*]:
+252: 0x0729 [0x48] [System] [8729*]:
     → "That strongly resonated with %0!"
 253: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
 254: 0x072D [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onon" with entities [EventEntity, EventEntity], work=236*
@@ -713,7 +713,7 @@ SUBROUTINE_0670:
 256: 0x074D [0x1C] WAIT(1* ticks)
 257: 0x0750 [0x01] GOTO 0x0762
 258: 0x0753 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0762
-259: 0x075B [0x48] [System] [8724*]:
+259: 0x075B [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
 260: 0x075E [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x075F [0x01] GOTO 0x0762
@@ -730,10 +730,10 @@ SUBROUTINE_0771:
 268: 0x077C [0x1A] CALL_SUBROUTINE(address=0x084D)
 269: 0x077F [0x01] GOTO 0x0848
 270: 0x0782 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0848
-271: 0x078A [0x48] [System] [8733*]:
+271: 0x078A [0x48] [System] [8734*]:
     → "Try to collect items from your beloved beastie?"
 272: 0x078D [0x23] WAIT_FOR_DIALOG_INTERACTION
-273: 0x078E [0x24] CREATE_DIALOG(message_id=8734*, default_option=0*, option_flags=0*)
+273: 0x078E [0x24] CREATE_DIALOG(message_id=8735*, default_option=0*, option_flags=0*)
     → "Proceed? [Yes, that sounds wonderful./No, I won't take any chances.]"
 274: 0x0795 [0x25] WAIT_DIALOG_SELECT()
 275: 0x0796 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x083A
@@ -744,19 +744,19 @@ SUBROUTINE_0771:
 280: 0x07AD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 281: 0x07AF [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x07EF
 282: 0x07B7 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-283: 0x07C8 [0x48] [System] [8726*]:
+283: 0x07C8 [0x48] [System] [8727*]:
     → "That didn't go over too well with %0."
 284: 0x07CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 285: 0x07CC [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
 286: 0x07DB [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
 287: 0x07EC [0x01] GOTO 0x0833
 288: 0x07EF [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x07FE
-289: 0x07F7 [0x48] [System] [8724*]:
+289: 0x07F7 [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
 290: 0x07FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 291: 0x07FB [0x01] GOTO 0x0833
 292: 0x07FE [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
-293: 0x080F [0x48] [System] [8725*]:
+293: 0x080F [0x48] [System] [8726*]:
     → "%0 is visibly angry with what you just did."
 294: 0x0812 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x0813 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
@@ -783,13 +783,13 @@ SUBROUTINE_084D:
 
 SUBROUTINE_0856:
 308: 0x0856 [0x02] IF !(ExtData[1]->WorkLocal[13] <= 1*) GOTO 0x091F
-309: 0x085E [0x48] [System] [8729*]:
+309: 0x085E [0x48] [System] [8730*]:
     → "Please bestow a name of 15 letters or fewer upon your creature. Taking no action will annul the process."
 310: 0x0861 [0x71] USER_INPUT_HANDLER: Menu operation with params (params=[0x801A, 0x8016])
 311: 0x0867 [0x71] USER_INPUT_HANDLER: Menu operation B (param=0x0010)
 312: 0x086B [0x9D] IF (strcmp(ExtData[1]->WorkLocal[16], 00000000000000000000000000000019) != 0) GOTO 0x09 // Also sets ExtData[1]->WorkLocal[1]
 313: 0x0882 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[16], work_offset2=0*)
-314: 0x0888 [0x24] CREATE_DIALOG(message_id=8730*, default_option=0*, option_flags=0*)
+314: 0x0888 [0x24] CREATE_DIALOG(message_id=8731*, default_option=0*, option_flags=0*)
     → "Is %0 fine? [Yes./No, I'll pick a new one./No, I quit.]"
 315: 0x088F [0x25] WAIT_DIALOG_SELECT()
 316: 0x0890 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08F1
@@ -799,19 +799,19 @@ SUBROUTINE_0856:
 320: 0x08A5 [0x71] USER_INPUT_HANDLER: Check if player has input or exited
 321: 0x08A7 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x08CE
 322: 0x08AF [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
-323: 0x08C0 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8732*]:
+323: 0x08C0 [0x2B] Chacharoon (ID: 17924231/0x01118087) [8733*]:
     → "Oooh, %0 is name of much preeetty! Is sign that many times of good be coming."
 324: 0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x08C8 [0x0C] ExtData[1]->WorkLocal[13]--
 326: 0x08CB [0x01] GOTO 0x08DC
-327: 0x08CE [0x2B] Chacharoon (ID: 17924231/0x01118087) [8731*]:
+327: 0x08CE [0x2B] Chacharoon (ID: 17924231/0x01118087) [8732*]:
     → "Hmmm... This name too haaard for Chacharoon. Sorry, but giving new name is best."
 328: 0x08D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 329: 0x08D6 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[20], work_offset2=0*)
 
 SUBROUTINE_08DC:
 330: 0x08DC [0x01] GOTO 0x08ED
-331: 0x08DF [0x2B] Chacharoon (ID: 17924231/0x01118087) [8731*]:
+331: 0x08DF [0x2B] Chacharoon (ID: 17924231/0x01118087) [8732*]:
     → "Hmmm... This name too haaard for Chacharoon. Sorry, but giving new name is best."
 332: 0x08E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 333: 0x08E7 [0xB4] UI_WINDOW_STRING_HANDLER(case=0x04 - Copy string to shared buffers, work_offset1=ExtData[1]->WorkLocal[20], work_offset2=0*)
@@ -911,36 +911,36 @@ SUBROUTINE_0920:
  10: 0x09A6 [0x1E] EventEntity looks at LocalPlayer and starts talking
 
 SUBROUTINE_09AB:
- 11: 0x09AB [0x48] [System] [8744*]:
+ 11: 0x09AB [0x48] [System] [8745*]:
     → "You gave %0 $1."
  12: 0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x09AF [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x09BE
- 14: 0x09B7 [0x48] [System] [8724*]:
+ 14: 0x09B7 [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
  15: 0x09BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x09BB [0x01] GOTO 0x0A7F
  17: 0x09BE [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x09FE
  18: 0x09C6 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
- 19: 0x09D7 [0x48] [System] [8725*]:
+ 19: 0x09D7 [0x48] [System] [8726*]:
     → "%0 is visibly angry with what you just did."
  20: 0x09DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x09DB [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onmy" with entities [EventEntity, EventEntity], work=237*
  22: 0x09EA [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "ofmy" with entities [EventEntity, EventEntity], work=[237*, 0*]
  23: 0x09FB [0x01] GOTO 0x0A7F
  24: 0x09FE [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0A0D
- 25: 0x0A06 [0x48] [System] [8726*]:
+ 25: 0x0A06 [0x48] [System] [8727*]:
     → "That didn't go over too well with %0."
  26: 0x0A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0A0A [0x01] GOTO 0x0A7F
  28: 0x0A0D [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0A2D
  29: 0x0A15 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "main" with entities [EventEntity, EventEntity], work=[235*, 0*]
- 30: 0x0A26 [0x48] [System] [8727*]:
+ 30: 0x0A26 [0x48] [System] [8728*]:
     → "That was surprisingly not worthless in the eyes of %0!"
  31: 0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0A2A [0x01] GOTO 0x0A7F
  33: 0x0A2D [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x0A70
  34: 0x0A35 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "onon" with entities [EventEntity, EventEntity], work=[236*, 0*]
- 35: 0x0A46 [0x48] [System] [8728*]:
+ 35: 0x0A46 [0x48] [System] [8729*]:
     → "That strongly resonated with %0!"
  36: 0x0A49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0A4A [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler "onon" with entities [EventEntity, EventEntity], work=236*
@@ -948,19 +948,19 @@ SUBROUTINE_09AB:
  39: 0x0A6A [0x1C] WAIT(1* ticks)
  40: 0x0A6D [0x01] GOTO 0x0A7F
  41: 0x0A70 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0A7F
- 42: 0x0A78 [0x48] [System] [8724*]:
+ 42: 0x0A78 [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
  43: 0x0A7B [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0A7C [0x01] GOTO 0x0A7F
 
 SUBROUTINE_0A7F:
  45: 0x0A7F [0x02] IF !(Work_Zone[4] == 1*) GOTO 0x0A8E
- 46: 0x0A87 [0x48] [System] [8749*]:
+ 46: 0x0A87 [0x48] [System] [8750*]:
     → "%0 squirms uncontrollably."
  47: 0x0A8A [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0A8B [0x01] GOTO 0x0A9A
  49: 0x0A8E [0x02] IF !(Work_Zone[4] == 2*) GOTO 0x0A9A
- 50: 0x0A96 [0x48] [System] [8750*]:
+ 50: 0x0A96 [0x48] [System] [8751*]:
     → "%0 shudders violently."
  51: 0x0A99 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1106,7 +1106,7 @@ SUBROUTINE_0B6E:
  11: 0x0BBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=[690*, 0*]
  12: 0x0BCC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x0BDD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 14: 0x0BEC [0x1D] PRINT_EVENT_MESSAGE(message_id=7609*)
+ 14: 0x0BEC [0x1D] PRINT_EVENT_MESSAGE(message_id=7610*)
     → "What a terrific time to test tag utility, kupo!"
  15: 0x0BEF [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0BF0 [0x52] END_LOAD_SCHEDULER: End scheduler "s101" with entities [LocalPlayer, LocalPlayer], work=690*
@@ -1135,7 +1135,7 @@ SUBROUTINE_0B6E:
 #### Opcodes
 
 ```
-  0: 0x0C05 [0x48] [System] [8724*]:
+  0: 0x0C05 [0x48] [System] [8725*]:
     → "%0 stares off into the distance as if you're not even there."
   1: 0x0C08 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0C09 [0x21] END_EVENT
@@ -1547,7 +1547,7 @@ SUBROUTINE_0B6E:
 
 ```
   0: 0x0C0B [0x03] Work_Zone[3] = 4366*
-  1: 0x0C10 [0x48] [System] [8745*]:
+  1: 0x0C10 [0x48] [System] [8746*]:
     → "Perhaps it would be best to give %0 $1."
   2: 0x0C13 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0C14 [0x21] END_EVENT

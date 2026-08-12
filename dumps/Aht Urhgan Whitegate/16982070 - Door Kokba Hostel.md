@@ -24,12 +24,12 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0E10      |        3600 |
-|       1 | 0x2604      |        9732 |
+|       1 | 0x2605      |        9733 |
 |       2 | 0x0384      |         900 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x2605      |        9733 |
-|       5 | 0x25E3      |        9699 |
-|       6 | 0x25EB      |        9707 |
+|       4 | 0x2606      |        9734 |
+|       5 | 0x25E4      |        9700 |
+|       6 | 0x25EC      |        9708 |
 |       7 | 0x0010      |          16 |
 |       8 | 0x001F      |          31 |
 |       9 | 0x0001      |           1 |
@@ -41,25 +41,25 @@
 |      15 | 0x000B      |          11 |
 |      16 | 0x000C      |          12 |
 |      17 | 0x000F      |          15 |
-|      18 | 0x25EC      |        9708 |
-|      19 | 0x25EE      |        9710 |
+|      18 | 0x25ED      |        9709 |
+|      19 | 0x25EF      |        9711 |
 |      20 | 0x0002      |           2 |
-|      21 | 0x25EF      |        9711 |
-|      22 | 0x25F0      |        9712 |
-|      23 | 0x25F1      |        9713 |
+|      21 | 0x25F0      |        9712 |
+|      22 | 0x25F1      |        9713 |
+|      23 | 0x25F2      |        9714 |
 |      24 | 0xFFFFFFFF  |  4294967295 |
-|      25 | 0x2601      |        9729 |
-|      26 | 0x25F3      |        9715 |
-|      27 | 0x25F4      |        9716 |
-|      28 | 0x25F5      |        9717 |
-|      29 | 0x2603      |        9731 |
-|      30 | 0x25F6      |        9718 |
-|      31 | 0x260C      |        9740 |
-|      32 | 0x25E0      |        9696 |
-|      33 | 0x25F7      |        9719 |
-|      34 | 0x25F8      |        9720 |
+|      25 | 0x2602      |        9730 |
+|      26 | 0x25F4      |        9716 |
+|      27 | 0x25F5      |        9717 |
+|      28 | 0x25F6      |        9718 |
+|      29 | 0x2604      |        9732 |
+|      30 | 0x25F7      |        9719 |
+|      31 | 0x260D      |        9741 |
+|      32 | 0x25E1      |        9697 |
+|      33 | 0x25F8      |        9720 |
+|      34 | 0x25F9      |        9721 |
 |      35 | 0x0005      |           5 |
-|      36 | 0x25E1      |        9697 |
+|      36 | 0x25E2      |        9698 |
 |      37 | 0x0020      |          32 |
 |      38 | 0x000D      |          13 |
 |      39 | 0x002C      |          44 |
@@ -67,72 +67,72 @@
 |      41 | 0x0009      |           9 |
 |      42 | 0x000A      |          10 |
 |      43 | 0x2A300     |      172800 |
-|      44 | 0x25FA      |        9722 |
+|      44 | 0x25FB      |        9723 |
 |      45 | 0x15180     |       86400 |
 |      46 | 0x000E      |          14 |
-|      47 | 0x25FC      |        9724 |
-|      48 | 0x25FD      |        9725 |
-|      49 | 0x25FE      |        9726 |
+|      47 | 0x25FD      |        9725 |
+|      48 | 0x25FE      |        9726 |
+|      49 | 0x25FF      |        9727 |
 |      50 | 0x01F2      |         498 |
-|      51 | 0x25FF      |        9727 |
+|      51 | 0x2600      |        9728 |
 |      52 | 0xFFFFFFFE  |  4294967294 |
-|      53 | 0x00EC      |         236 |
-|      54 | 0x2602      |        9730 |
-|      55 | 0x25FB      |        9723 |
+|      53 | 0x00ED      |         237 |
+|      54 | 0x2603      |        9731 |
+|      55 | 0x25FC      |        9724 |
 |      56 | 0xA8C0      |       43200 |
-|      57 | 0x2606      |        9734 |
-|      58 | 0x2607      |        9735 |
-|      59 | 0x25E2      |        9698 |
-|      60 | 0x2608      |        9736 |
-|      61 | 0x2609      |        9737 |
-|      62 | 0x260A      |        9738 |
-|      63 | 0x260B      |        9739 |
+|      57 | 0x2607      |        9735 |
+|      58 | 0x2608      |        9736 |
+|      59 | 0x25E3      |        9699 |
+|      60 | 0x2609      |        9737 |
+|      61 | 0x260A      |        9738 |
+|      62 | 0x260B      |        9739 |
+|      63 | 0x260C      |        9740 |
 |      64 | 0x00C8      |         200 |
 |      65 | 0x2977D     |      169853 |
 |      66 | 0xFFFF064A  |  4294903370 |
 |      67 | 0xFFFFE890  |  4294961296 |
 |      68 | 0xFFFFFFFD  |  4294967293 |
 |      69 | 0x006C      |         108 |
-|      70 | 0x2610      |        9744 |
+|      70 | 0x2611      |        9745 |
 
 ## String References
 
-- **236**: You do not have enough gil.
-- **9696**: Welcome to the Kokba Hostel. [Leave./Enter./Reservations./Reserve the hostel from now./Information.]
-- **9697**: You are not permitted to enter...
-- **9698**: The hostel is currently occupied.
-- **9699**: You can now begin the process of setting options and creating a password.
-- **9707**: You have the option of selecting your attendants...
-- **9708**: Select an attendant to change. [This is fine./Attendant 1 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 2 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 3 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 4 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])]
-- **9710**: Which do you choose for Attendant 1? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Hume male Casual/J. Hume female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]
-- **9711**: Which do you choose for Attendant 2? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Elvaan male Casual/J. Elvaan female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]
-- **9712**: Which do you choose for Attendant 3? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Tarutaru male Casual/J. Tarutaru female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Elvaan)]
-- **9713**: Which do you choose for Attendant 4? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Galka Casual/J. Mithra female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Galka)]
-- **9715**: Create a password.
-- **9716**: The password has been set to "%0." All options have been set. You can now enter the hostel.
-- **9717**: That password is invalid.
-- **9718**: The password should now be set to "%0."
-- **9719**: A password is required.
-- **9720**: That password is incorrect.
-- **9722**: Kokba Hostel reservations. [Previous page./ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/Next page./Return to main menu.]
-- **9723**: The time slot from "" to "" is already reserved.
-- **9724**: The reservation for the "" to "" time slot has been lost.
-- **9725**: A reservation under the name of "%73 has already been made for "."
-- **9726**: Reserve from ? [Yes./No.]
-- **9727**: The reservation fee is $0 gil. [Pay the fee./Forget it.]
-- **9729**: There appears to have been some trouble with the reservation system.
-- **9730**: You have successfully made a reservation from ""! The hostel reception will be available from $1 [minute/minutes] before the reservation.
-- **9731**: A reservation under the name of "%73 has been made for "."
-- **9732**: The reception period for the "" to "" time slot has ended! You can now begin the process of setting options and creating a password.
-- **9733**: The reception period for the "" to "" time slot has ended! Next time, please try to arrive $2 [minute/minutes] before the reservation begins.
-- **9734**: Reserve the current time slot? [Yes./No.]
-- **9735**: The reservation fee is $0 gil. [Pay the fee./Forget it.]
-- **9736**: The Kokba Hostel is a room that can be reserved for private functions in time slots of one hour (Earth time). Customers may make reservations for up to two days in advance, but can only have one active reservation at a time.
-- **9737**: The hostel reception will be available $0 [minute/minutes] before a reservation begins. If you have not confirmed your reservation before the end of the reception period, your time slot will become available for other customers to reserve. Should another customer reserve your time slot, your reservation will be canceled.
-- **9738**: The hostel will become available for your private use after the reception period ends. You will be asked to create a password before entering the hostel. Only customers who know the correct password will be able to enter during the reserved time slot.
-- **9739**: After confirming the reservation, other customers will be charged a one-time fee of $0 gil upon entry. Please be aware that no refunds will be made in the case of a cancellation.
-- **9740**: This gate appears to be for entry only...
-- **9744**: You have received a party pack of temporary items! These items can only be used within the hostel.
+- **237**: You do not have enough gil.
+- **9697**: Welcome to the Kokba Hostel. [Leave./Enter./Reservations./Reserve the hostel from now./Information.]
+- **9698**: You are not permitted to enter...
+- **9699**: The hostel is currently occupied.
+- **9700**: You can now begin the process of setting options and creating a password.
+- **9708**: You have the option of selecting your attendants...
+- **9709**: Select an attendant to change. [This is fine./Attendant 1 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 2 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 3 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 4 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])]
+- **9711**: Which do you choose for Attendant 1? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Hume male Casual/J. Hume female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]
+- **9712**: Which do you choose for Attendant 2? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Elvaan male Casual/J. Elvaan female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]
+- **9713**: Which do you choose for Attendant 3? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Tarutaru male Casual/J. Tarutaru female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Elvaan)]
+- **9714**: Which do you choose for Attendant 4? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Galka Casual/J. Mithra female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Galka)]
+- **9716**: Create a password.
+- **9717**: The password has been set to "%0." All options have been set. You can now enter the hostel.
+- **9718**: That password is invalid.
+- **9719**: The password should now be set to "%0."
+- **9720**: A password is required.
+- **9721**: That password is incorrect.
+- **9723**: Kokba Hostel reservations. [Previous page./ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/Next page./Return to main menu.]
+- **9724**: The time slot from "" to "" is already reserved.
+- **9725**: The reservation for the "" to "" time slot has been lost.
+- **9726**: A reservation under the name of "%73 has already been made for "."
+- **9727**: Reserve from ? [Yes./No.]
+- **9728**: The reservation fee is $0 gil. [Pay the fee./Forget it.]
+- **9730**: There appears to have been some trouble with the reservation system.
+- **9731**: You have successfully made a reservation from ""! The hostel reception will be available from $1 [minute/minutes] before the reservation.
+- **9732**: A reservation under the name of "%73 has been made for "."
+- **9733**: The reception period for the "" to "" time slot has ended! You can now begin the process of setting options and creating a password.
+- **9734**: The reception period for the "" to "" time slot has ended! Next time, please try to arrive $2 [minute/minutes] before the reservation begins.
+- **9735**: Reserve the current time slot? [Yes./No.]
+- **9736**: The reservation fee is $0 gil. [Pay the fee./Forget it.]
+- **9737**: The Kokba Hostel is a room that can be reserved for private functions in time slots of one hour (Earth time). Customers may make reservations for up to two days in advance, but can only have one active reservation at a time.
+- **9738**: The hostel reception will be available $0 [minute/minutes] before a reservation begins. If you have not confirmed your reservation before the end of the reception period, your time slot will become available for other customers to reserve. Should another customer reserve your time slot, your reservation will be canceled.
+- **9739**: The hostel will become available for your private use after the reception period ends. You will be asked to create a password before entering the hostel. Only customers who know the correct password will be able to enter during the reserved time slot.
+- **9740**: After confirming the reservation, other customers will be charged a one-time fee of $0 gil upon entry. Please be aware that no refunds will be made in the case of a cancellation.
+- **9741**: This gate appears to be for entry only...
+- **9745**: You have received a party pack of temporary items! These items can only be used within the hostel.
 
 ## Events
 
@@ -181,7 +181,7 @@
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0002 [0x03] Work_Zone[3] = Work_Zone[2]
   2: 0x0007 [0x07] Work_Zone[3] += 3600*
-  3: 0x000C [0x48] [System] [9732*]:
+  3: 0x000C [0x48] [System] [9733*]:
     → "The reception period for the "" to "" time slot has ended! You can now begin the process of setting options and creating a password."
   4: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0010 [0x21] END_EVENT
@@ -213,7 +213,7 @@
   2: 0x0018 [0x07] Work_Zone[3] += 3600*
   3: 0x001D [0x03] Work_Zone[4] = 900*
   4: 0x0022 [0x15] Work_Zone[4] /= 60*
-  5: 0x0027 [0x48] [System] [9733*]:
+  5: 0x0027 [0x48] [System] [9734*]:
     → "The reception period for the "" to "" time slot has ended! Next time, please try to arrive $2 [minute/minutes] before the reservation begins."
   6: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002B [0x21] END_EVENT
@@ -266,10 +266,10 @@
 #### Opcodes
 
 ```
-  0: 0x002D [0x48] [System] [9699*]:
+  0: 0x002D [0x48] [System] [9700*]:
     → "You can now begin the process of setting options and creating a password."
   1: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0031 [0x48] [System] [9707*]:
+  2: 0x0031 [0x48] [System] [9708*]:
     → "You have the option of selecting your attendants..."
   3: 0x0034 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0035 [0x06] Work_Zone[1] = 0
@@ -287,7 +287,7 @@
  16: 0x0095 [0x41] Work_Zone[3] = Work_Zone[1] (bits 4*-7*)
  17: 0x009E [0x41] Work_Zone[4] = Work_Zone[1] (bits 8*-11*)
  18: 0x00A7 [0x41] Work_Zone[5] = Work_Zone[1] (bits 12*-15*)
- 19: 0x00B0 [0x24] CREATE_DIALOG(message_id=9708*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
+ 19: 0x00B0 [0x24] CREATE_DIALOG(message_id=9709*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
     → "Select an attendant to change. [This is fine./Attendant 1 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 2 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 3 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])/Attendant 4 (Type [A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z])]"
  20: 0x00B7 [0x25] WAIT_DIALOG_SELECT()
  21: 0x00B8 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[0]
@@ -301,7 +301,7 @@
  29: 0x00DF [0x41] ExtData[1]->WorkLocal[4] = Work_Zone[1] (bits ExtData[1]->WorkLocal[8]-ExtData[1]->WorkLocal[9])
  30: 0x00E8 [0x0B] ExtData[1]->WorkLocal[4]++
  31: 0x00EB [0x02] IF !(ExtData[1]->WorkLocal[3] == 1*) GOTO 0x0109
- 32: 0x00F3 [0x24] CREATE_DIALOG(message_id=9710*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 32: 0x00F3 [0x24] CREATE_DIALOG(message_id=9711*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Which do you choose for Attendant 1? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Hume male Casual/J. Hume female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]"
  33: 0x00FA [0x25] WAIT_DIALOG_SELECT()
  34: 0x00FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0106
@@ -310,7 +310,7 @@
 SUBROUTINE_0106:
  36: 0x0106 [0x01] GOTO 0x0163
  37: 0x0109 [0x02] IF !(ExtData[1]->WorkLocal[3] == 2*) GOTO 0x0127
- 38: 0x0111 [0x24] CREATE_DIALOG(message_id=9711*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 38: 0x0111 [0x24] CREATE_DIALOG(message_id=9712*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Which do you choose for Attendant 2? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Elvaan male Casual/J. Elvaan female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Hume female)/P. Al Zahbi Rumblers (Hume male)]"
  39: 0x0118 [0x25] WAIT_DIALOG_SELECT()
  40: 0x0119 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0124
@@ -319,7 +319,7 @@ SUBROUTINE_0106:
 SUBROUTINE_0124:
  42: 0x0124 [0x01] GOTO 0x0163
  43: 0x0127 [0x02] IF !(ExtData[1]->WorkLocal[3] == 3*) GOTO 0x0145
- 44: 0x012F [0x24] CREATE_DIALOG(message_id=9712*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 44: 0x012F [0x24] CREATE_DIALOG(message_id=9713*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Which do you choose for Attendant 3? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Tarutaru male Casual/J. Tarutaru female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Elvaan)]"
  45: 0x0136 [0x25] WAIT_DIALOG_SELECT()
  46: 0x0137 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0142
@@ -328,7 +328,7 @@ SUBROUTINE_0124:
 SUBROUTINE_0142:
  48: 0x0142 [0x01] GOTO 0x0163
  49: 0x0145 [0x02] IF !(ExtData[1]->WorkLocal[3] == 4*) GOTO 0x0163
- 50: 0x014D [0x24] CREATE_DIALOG(message_id=9713*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
+ 50: 0x014D [0x24] CREATE_DIALOG(message_id=9714*, default_option=ExtData[1]->WorkLocal[4], option_flags=0*)
     → "Which do you choose for Attendant 4? [No change./A. Hume male/B. Hume female/C. Elvaan male/D. Elvaan female/E. Tarutaru male/F. Tarutaru female/G. Mithra/H. Galka/I. Galka Casual/J. Mithra female Casual/K. Beautiful Quartet (Hume female)/L. Cutey Cats (Mithra)/M. Party Animals (Hume female)/N. Notorious Gals (Mithra)/O. White Angels (Mithra)/P. Al Zahbi Rumblers (Galka)]"
  51: 0x0154 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0155 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0160
@@ -351,11 +351,11 @@ SUBROUTINE_0182:
  61: 0x0182 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  62: 0x0184 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  63: 0x0186 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x0195
- 64: 0x018E [0x48] [System] [9729*]:
+ 64: 0x018E [0x48] [System] [9730*]:
     → "There appears to have been some trouble with the reservation system."
  65: 0x0191 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0192 [0x01] GOTO 0x01D4
- 67: 0x0195 [0x48] [System] [9715*]:
+ 67: 0x0195 [0x48] [System] [9716*]:
     → "Create a password."
  68: 0x0198 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -365,12 +365,12 @@ SUBROUTINE_0199:
  71: 0x019C [0x71] USER_INPUT_HANDLER: Check if player has input or exited
  72: 0x019E [0x71] USER_INPUT_HANDLER: Check if server responded
  73: 0x01A0 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x01AF
- 74: 0x01A8 [0x48] [System] [9716*]:
+ 74: 0x01A8 [0x48] [System] [9717*]:
     → "The password has been set to "%0." All options have been set. You can now enter the hostel."
  75: 0x01AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x01AC [0x01] GOTO 0x01D4
  77: 0x01AF [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x01C1
- 78: 0x01B7 [0x48] [System] [9717*]:
+ 78: 0x01B7 [0x48] [System] [9718*]:
     → "That password is invalid."
  79: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x01BB [0x01] GOTO 0x0199
@@ -539,19 +539,19 @@ SUBROUTINE_01D4:
   6: 0x01F7 [0x83] ExtData[1]->WorkLocal[8] = GetGameTime()
   7: 0x01FA [0x02] IF !(ExtData[1]->WorkLocal[8] > ExtData[1]->WorkLocal[14]) GOTO 0x020B
   8: 0x0202 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[14]
-  9: 0x0207 [0x48] [System] [9731*]:
+  9: 0x0207 [0x48] [System] [9732*]:
     → "A reservation under the name of "%73 has been made for ".""
  10: 0x020A [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x020B [0x03] Work_Zone[40] = Work_Zone[8]
  12: 0x0210 [0x3E] IF !(Work_Zone[9] bit 0*) GOTO 0x021A
  13: 0x0217 [0x05] ExtData[1]->WorkLocal[15] = 1
  14: 0x021A [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0229
- 15: 0x0222 [0x48] [System] [9718*]:
+ 15: 0x0222 [0x48] [System] [9719*]:
     → "The password should now be set to "%0.""
  16: 0x0225 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0226 [0x01] GOTO 0x0846
  18: 0x0229 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0238
- 19: 0x0231 [0x48] [System] [9740*]:
+ 19: 0x0231 [0x48] [System] [9741*]:
     → "This gate appears to be for entry only..."
  20: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0235 [0x01] GOTO 0x0846
@@ -559,14 +559,14 @@ SUBROUTINE_01D4:
 
 SUBROUTINE_023B:
  23: 0x023B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 24: 0x023C [0x24] CREATE_DIALOG(message_id=9696*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
+ 24: 0x023C [0x24] CREATE_DIALOG(message_id=9697*, default_option=ExtData[1]->WorkLocal[3], option_flags=0*)
     → "Welcome to the Kokba Hostel. [Leave./Enter./Reservations./Reserve the hostel from now./Information.]"
  25: 0x0243 [0x25] WAIT_DIALOG_SELECT()
  26: 0x0244 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[0]
  27: 0x0249 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02A3
  28: 0x0251 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x028B
  29: 0x0259 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 30: 0x025A [0x48] [System] [9719*]:
+ 30: 0x025A [0x48] [System] [9720*]:
     → "A password is required."
  31: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x025E [0x71] USER_INPUT_HANDLER: Open password input dialog (sends packet 0x60)
@@ -738,7 +738,7 @@ SUBROUTINE_053E:
 180: 0x0543 [0x0B] ExtData[1]->WorkLocal[11]++
 181: 0x0546 [0x0B] ExtData[1]->WorkLocal[12]++
 182: 0x0549 [0x01] GOTO 0x035F
-183: 0x054C [0x24] CREATE_DIALOG(message_id=9722*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[2])
+183: 0x054C [0x24] CREATE_DIALOG(message_id=9723*, default_option=ExtData[1]->WorkLocal[4], option_flags=ExtData[1]->WorkLocal[2])
     → "Kokba Hostel reservations. [Previous page./ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/ ([?/-/x])/Next page./Return to main menu.]"
 184: 0x0553 [0x25] WAIT_DIALOG_SELECT()
 185: 0x0554 [0x03] ExtData[1]->WorkLocal[4] = Work_Zone[0]
@@ -754,28 +754,28 @@ SUBROUTINE_0691:
 193: 0x069B [0x07] Work_Zone_1700[31] += 3600*
 194: 0x06A0 [0x02] IF !(Work_Zone_1700[30] == ExtData[1]->WorkLocal[14]) GOTO 0x06B4
 195: 0x06A8 [0x03] Work_Zone[6] = Work_Zone_1700[30]
-196: 0x06AD [0x48] [System] [9731*]:
+196: 0x06AD [0x48] [System] [9732*]:
     → "A reservation under the name of "%73 has been made for ".""
 197: 0x06B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x06B1 [0x01] GOTO 0x0755
 199: 0x06B4 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x06C3
-200: 0x06BC [0x48] [System] [9724*]:
+200: 0x06BC [0x48] [System] [9725*]:
     → "The reservation for the "" to "" time slot has been lost."
 201: 0x06BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x06C0 [0x01] GOTO 0x0755
 203: 0x06C3 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x0746
 204: 0x06CB [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x06DF
 205: 0x06D3 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[14]
-206: 0x06D8 [0x48] [System] [9725*]:
+206: 0x06D8 [0x48] [System] [9726*]:
     → "A reservation under the name of "%73 has already been made for ".""
 207: 0x06DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x06DC [0x01] GOTO 0x0743
-209: 0x06DF [0x24] CREATE_DIALOG(message_id=9726*, default_option=1*, option_flags=0*)
+209: 0x06DF [0x24] CREATE_DIALOG(message_id=9727*, default_option=1*, option_flags=0*)
     → "Reserve from ? [Yes./No.]"
 210: 0x06E6 [0x25] WAIT_DIALOG_SELECT()
 211: 0x06E7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0743
 212: 0x06EF [0x03] Work_Zone[2] = 498*
-213: 0x06F4 [0x24] CREATE_DIALOG(message_id=9727*, default_option=1*, option_flags=0*)
+213: 0x06F4 [0x24] CREATE_DIALOG(message_id=9728*, default_option=1*, option_flags=0*)
     → "The reservation fee is $0 gil. [Pay the fee./Forget it.]"
 214: 0x06FB [0x25] WAIT_DIALOG_SELECT()
 215: 0x06FC [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0740
@@ -784,18 +784,18 @@ SUBROUTINE_0691:
 218: 0x070A [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 219: 0x070C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 220: 0x070E [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x071D
-221: 0x0716 [0x48] [System] [9729*]:
+221: 0x0716 [0x48] [System] [9730*]:
     → "There appears to have been some trouble with the reservation system."
 222: 0x0719 [0x23] WAIT_FOR_DIALOG_INTERACTION
 223: 0x071A [0x01] GOTO 0x073A
 224: 0x071D [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x072C
-225: 0x0725 [0x48] [System] [236*]:
+225: 0x0725 [0x48] [System] [237*]:
     → "You do not have enough gil."
 226: 0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x0729 [0x01] GOTO 0x073A
 228: 0x072C [0x03] Work_Zone[3] = 900*
 229: 0x0731 [0x15] Work_Zone[3] /= 60*
-230: 0x0736 [0x48] [System] [9730*]:
+230: 0x0736 [0x48] [System] [9731*]:
     → "You have successfully made a reservation from ""! The hostel reception will be available from $1 [minute/minutes] before the reservation."
 231: 0x0739 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -808,7 +808,7 @@ SUBROUTINE_0740:
 SUBROUTINE_0743:
 234: 0x0743 [0x01] GOTO 0x0755
 235: 0x0746 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x0755
-236: 0x074E [0x48] [System] [9723*]:
+236: 0x074E [0x48] [System] [9724*]:
     → "The time slot from "" to "" is already reserved."
 237: 0x0751 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0752 [0x01] GOTO 0x0755
@@ -822,7 +822,7 @@ SUBROUTINE_075D:
 242: 0x0760 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0809
 243: 0x0768 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x077C
 244: 0x0770 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[14]
-245: 0x0775 [0x48] [System] [9725*]:
+245: 0x0775 [0x48] [System] [9726*]:
     → "A reservation under the name of "%73 has already been made for ".""
 246: 0x0778 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x0779 [0x01] GOTO 0x0806
@@ -830,12 +830,12 @@ SUBROUTINE_075D:
 249: 0x0784 [0x83] Work_Zone[2] = GetGameTime()
 250: 0x0787 [0x15] Work_Zone[2] /= 3600*
 251: 0x078C [0x14] Work_Zone[2] *= 3600*
-252: 0x0791 [0x24] CREATE_DIALOG(message_id=9734*, default_option=1*, option_flags=0*)
+252: 0x0791 [0x24] CREATE_DIALOG(message_id=9735*, default_option=1*, option_flags=0*)
     → "Reserve the current time slot? [Yes./No.]"
 253: 0x0798 [0x25] WAIT_DIALOG_SELECT()
 254: 0x0799 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07FF
 255: 0x07A1 [0x03] Work_Zone[2] = 498*
-256: 0x07A6 [0x24] CREATE_DIALOG(message_id=9735*, default_option=1*, option_flags=0*)
+256: 0x07A6 [0x24] CREATE_DIALOG(message_id=9736*, default_option=1*, option_flags=0*)
     → "The reservation fee is $0 gil. [Pay the fee./Forget it.]"
 257: 0x07AD [0x25] WAIT_DIALOG_SELECT()
 258: 0x07AE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07FC
@@ -844,12 +844,12 @@ SUBROUTINE_075D:
 261: 0x07BC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 262: 0x07BE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 263: 0x07C0 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x07CF
-264: 0x07C8 [0x48] [System] [9729*]:
+264: 0x07C8 [0x48] [System] [9730*]:
     → "There appears to have been some trouble with the reservation system."
 265: 0x07CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 266: 0x07CC [0x01] GOTO 0x07F9
 267: 0x07CF [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x07DE
-268: 0x07D7 [0x48] [System] [236*]:
+268: 0x07D7 [0x48] [System] [237*]:
     → "You do not have enough gil."
 269: 0x07DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 270: 0x07DB [0x01] GOTO 0x07F9
@@ -858,7 +858,7 @@ SUBROUTINE_075D:
 273: 0x07E6 [0x14] Work_Zone[2] *= 3600*
 274: 0x07EB [0x03] Work_Zone[3] = Work_Zone[2]
 275: 0x07F0 [0x07] Work_Zone[3] += 3600*
-276: 0x07F5 [0x48] [System] [9732*]:
+276: 0x07F5 [0x48] [System] [9733*]:
     → "The reception period for the "" to "" time slot has ended! You can now begin the process of setting options and creating a password."
 277: 0x07F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -870,26 +870,26 @@ SUBROUTINE_07FC:
 
 SUBROUTINE_07FF:
 280: 0x07FF [0x01] GOTO 0x0806
-281: 0x0802 [0x48] [System] [9698*]:
+281: 0x0802 [0x48] [System] [9699*]:
     → "The hostel is currently occupied."
 282: 0x0805 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0806:
 283: 0x0806 [0x01] GOTO 0x0833
 284: 0x0809 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0833
-285: 0x0811 [0x48] [System] [9736*]:
+285: 0x0811 [0x48] [System] [9737*]:
     → "The Kokba Hostel is a room that can be reserved for private functions in time slots of one hour (Earth time). Customers may make reservations for up to two days in advance, but can only have one active reservation at a time."
 286: 0x0814 [0x23] WAIT_FOR_DIALOG_INTERACTION
 287: 0x0815 [0x03] Work_Zone[2] = 900*
 288: 0x081A [0x15] Work_Zone[2] /= 60*
-289: 0x081F [0x48] [System] [9737*]:
+289: 0x081F [0x48] [System] [9738*]:
     → "The hostel reception will be available $0 [minute/minutes] before a reservation begins. If you have not confirmed your reservation before the end of the reception period, your time slot will become available for other customers to reserve. Should another customer reserve your time slot, your reservation will be canceled."
 290: 0x0822 [0x23] WAIT_FOR_DIALOG_INTERACTION
-291: 0x0823 [0x48] [System] [9738*]:
+291: 0x0823 [0x48] [System] [9739*]:
     → "The hostel will become available for your private use after the reception period ends. You will be asked to create a password before entering the hostel. Only customers who know the correct password will be able to enter during the reserved time slot."
 292: 0x0826 [0x23] WAIT_FOR_DIALOG_INTERACTION
 293: 0x0827 [0x03] Work_Zone[2] = 498*
-294: 0x082C [0x48] [System] [9739*]:
+294: 0x082C [0x48] [System] [9740*]:
     → "After confirming the reservation, other customers will be charged a one-time fee of $0 gil upon entry. Please be aware that no refunds will be made in the case of a cancellation."
 295: 0x082F [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0830 [0x01] GOTO 0x0833
@@ -926,12 +926,12 @@ SUBROUTINE_084B:
 321: 0x08B6 [0x47] UPDATE_PLAYER_POS(169.853*, -63.926*, -6.000*, yaw=0.0°*)
 322: 0x08C0 [0x47] WAIT_PLAYER_POS_UPDATE
 323: 0x08C2 [0x02] IF !(Work_Zone[2] == 4294967293*) GOTO 0x08D1
-324: 0x08CA [0x48] [System] [9729*]:
+324: 0x08CA [0x48] [System] [9730*]:
     → "There appears to have been some trouble with the reservation system."
 325: 0x08CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 326: 0x08CE [0x01] GOTO 0x095E
 327: 0x08D1 [0x02] IF !(Work_Zone[2] == 4294967294*) GOTO 0x08E0
-328: 0x08D9 [0x48] [System] [236*]:
+328: 0x08D9 [0x48] [System] [237*]:
     → "You do not have enough gil."
 329: 0x08DC [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x08DD [0x01] GOTO 0x095E
@@ -952,7 +952,7 @@ SUBROUTINE_084B:
 345: 0x094E [0x1C] WAIT(200* ticks)
 346: 0x0951 [0x4D] EventEntity->StatusEvent = 9 // Close door
 347: 0x0952 [0x02] IF !(ExtData[1]->WorkLocal[16] == 1*) GOTO 0x095E
-348: 0x095A [0x48] [System] [9744*]:
+348: 0x095A [0x48] [System] [9745*]:
     → "You have received a party pack of temporary items! These items can only be used within the hostel."
 349: 0x095D [0x23] WAIT_FOR_DIALOG_INTERACTION
 

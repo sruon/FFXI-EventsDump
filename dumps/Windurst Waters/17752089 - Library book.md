@@ -20,17 +20,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1FEA      |        8170 |
-|       1 | 0x1FEB      |        8171 |
+|       0 | 0x1FEB      |        8171 |
+|       1 | 0x1FEC      |        8172 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
-|       4 | 0x1FEC      |        8172 |
+|       4 | 0x1FED      |        8173 |
 
 ## String References
 
-- **8170**: You hear a strange sound... It appears to be coming from this book.
-- **8171**: Check out what's inside? [No way!/Take a peek.]
-- **8172**: .........You simply can't open it!
+- **8171**: You hear a strange sound... It appears to be coming from this book.
+- **8172**: Check out what's inside? [No way!/Take a peek.]
+- **8173**: .........You simply can't open it!
 
 ## Events
 
@@ -78,10 +78,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x48] [System] [8170*]:
+  0: 0x0001 [0x48] [System] [8171*]:
     → "You hear a strange sound... It appears to be coming from this book."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8171*, default_option=0*, option_flags=0*)
+  2: 0x0005 [0x24] CREATE_DIALOG(message_id=8172*, default_option=0*, option_flags=0*)
     → "Check out what's inside? [No way!/Take a peek.]"
   3: 0x000C [0x25] WAIT_DIALOG_SELECT()
   4: 0x000D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001D
@@ -89,7 +89,7 @@
   6: 0x001A [0x01] GOTO 0x0031
   7: 0x001D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0031
   8: 0x0025 [0x03] Work_Zone[1] = 1*
-  9: 0x002A [0x48] [System] [8172*]:
+  9: 0x002A [0x48] [System] [8173*]:
     → ".........You simply can't open it!"
  10: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x002E [0x01] GOTO 0x0031

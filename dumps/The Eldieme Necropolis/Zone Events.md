@@ -48,7 +48,7 @@
 |       6 | 0x008C      |         140 |
 |       7 | 0x00D2      |         210 |
 |       8 | 0x0030      |          48 |
-|       9 | 0x1CDF      |        7391 |
+|       9 | 0x1CE0      |        7392 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x00C9      |         201 |
@@ -62,37 +62,37 @@
 |      20 | 0x00CF      |         207 |
 |      21 | 0x0060      |          96 |
 |      22 | 0x012C      |         300 |
-|      23 | 0x1D0C      |        7436 |
-|      24 | 0x1D0D      |        7437 |
-|      25 | 0x1D0E      |        7438 |
+|      23 | 0x1D0D      |        7437 |
+|      24 | 0x1D0E      |        7438 |
+|      25 | 0x1D0F      |        7439 |
 |      26 | 0x000F      |          15 |
-|      27 | 0x1D0F      |        7439 |
+|      27 | 0x1D10      |        7440 |
 |      28 | 0x001E      |          30 |
 |      29 | 0x01C2      |         450 |
-|      30 | 0x1D10      |        7440 |
-|      31 | 0x1D11      |        7441 |
+|      30 | 0x1D11      |        7441 |
+|      31 | 0x1D12      |        7442 |
 |      32 | 0xFFF989CF  |  4294543823 |
 |      33 | 0x79CF5     |      498933 |
 |      34 | 0x1F3F      |        7999 |
 |      35 | 0x0FBB      |        4027 |
 |      36 | 0x003C      |          60 |
-|      37 | 0x1D12      |        7442 |
+|      37 | 0x1D13      |        7443 |
 |      38 | 0x005A      |          90 |
-|      39 | 0x1D13      |        7443 |
+|      39 | 0x1D14      |        7444 |
 |      40 | 0x00F4      |         244 |
 |      41 | 0x007C      |         124 |
 |      42 | 0x000C      |          12 |
-|      43 | 0x1D14      |        7444 |
-|      44 | 0x1D15      |        7445 |
+|      43 | 0x1D15      |        7445 |
+|      44 | 0x1D16      |        7446 |
 |      45 | 0x0012      |          18 |
-|      46 | 0x1D16      |        7446 |
+|      46 | 0x1D17      |        7447 |
 |      47 | 0x00C3      |         195 |
-|      48 | 0x1D17      |        7447 |
+|      48 | 0x1D18      |        7448 |
 |      49 | 0x0078      |         120 |
-|      50 | 0x1D18      |        7448 |
-|      51 | 0x1D19      |        7449 |
-|      52 | 0x1D1A      |        7450 |
-|      53 | 0x1D1B      |        7451 |
+|      50 | 0x1D19      |        7449 |
+|      51 | 0x1D1A      |        7450 |
+|      52 | 0x1D1B      |        7451 |
+|      53 | 0x1D1C      |        7452 |
 |      54 | 0xFFF99B20  |  4294548256 |
 |      55 | 0x7AC67     |      502887 |
 |      56 | 0x0800      |        2048 |
@@ -114,13 +114,13 @@
 |      72 | 0x007F      |         127 |
 |      73 | 0x0010      |          16 |
 |      74 | 0x0064      |         100 |
-|      75 | 0x1D23      |        7459 |
+|      75 | 0x1D24      |        7460 |
 |      76 | 0x66856     |      419926 |
 |      77 | 0xFFFE361A  |  4294850074 |
 |      78 | 0xFFFF2540  |  4294911296 |
 |      79 | 0x0B6B      |        2923 |
 |      80 | 0x00B4      |         180 |
-|      81 | 0x1D34      |        7476 |
+|      81 | 0x1D35      |        7477 |
 |      82 | 0xFFFBEC15  |  4294700053 |
 |      83 | 0x2B0F4     |      176372 |
 |      84 | 0xFFFFF2BE  |  4294963902 |
@@ -139,7 +139,7 @@
 
 ## String References
 
-- **7391**: Light your $3? [Yes./No.]
+- **7392**: Light your $3? [Yes./No.]
 
 ## Events
 
@@ -321,7 +321,7 @@ SUBROUTINE_0066:
   0: 0x00E0 [0x03] ExtData[1]->WorkLocal[2] = Work_Zone[2]
   1: 0x00E5 [0x03] ExtData[1]->WorkLocal[3] = Work_Zone[3]
   2: 0x00EA [0x03] Work_Zone[9] = 48*
-  3: 0x00EF [0x24] CREATE_DIALOG(message_id=7391*, default_option=1*, option_flags=0*)
+  3: 0x00EF [0x24] CREATE_DIALOG(message_id=7392*, default_option=1*, option_flags=0*)
     → "Light your $3? [Yes./No.]"
   4: 0x00F6 [0x25] WAIT_DIALOG_SELECT()
   5: 0x00F7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0127
@@ -585,24 +585,24 @@ SUBROUTINE_0132:
  18: 0x01C6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  19: 0x01D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
  20: 0x01E6 [0x6C] FADE_ENTITY_COLOR(entity_id=Balpah (ID: 17576360/0x010C31A8), end_alpha=96*, fade_time=300*)
- 21: 0x01EF [0x2B] Balpah (ID: 17576360/0x010C31A8) [7436*]:
+ 21: 0x01EF [0x2B] Balpah (ID: 17576360/0x010C31A8) [7437*]:
     → "I see you made it this far. I was waiting."
  22: 0x01F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x01F7 [0x27] REQ_SET(priority=0x04, entity_id=Balpah (ID: 17576360/0x010C31A8), tag_num=0x0C)
  24: 0x01FE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00a" with entities [LocalPlayer, LocalPlayer], work=207*
- 25: 0x020D [0x2B] Balpah (ID: 17576360/0x010C31A8) [7437*]:
+ 25: 0x020D [0x2B] Balpah (ID: 17576360/0x010C31A8) [7438*]:
     → "People will often sacrifice other living beings to save themselves. Look at yourself. You are no exception."
  26: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0215 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Balpah (ID: 17576360/0x010C31A8))
  28: 0x021B [0x27] REQ_SET(priority=0x03, entity_id=Balpah (ID: 17576360/0x010C31A8), tag_num=0x07)
- 29: 0x0222 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7438*]:
+ 29: 0x0222 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7439*]:
     → "However there is still time. We must call forth the power of the beasts to put an end to the foolish acts of men."
  30: 0x0229 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x022A [0x27] REQ_SET(priority=0x04, entity_id=Balpah (ID: 17576360/0x010C31A8), tag_num=0x08)
  32: 0x0231 [0x1C] WAIT(15* ticks)
  33: 0x0234 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
  34: 0x0245 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Balpah (ID: 17576360/0x010C31A8))
- 35: 0x024B [0x2B] Balpah (ID: 17576360/0x010C31A8) [7439*]:
+ 35: 0x024B [0x2B] Balpah (ID: 17576360/0x010C31A8) [7440*]:
     → "Now, let us get our revenge on those who built this world of deceit at the expense of others."
  36: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x0253 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x001" with entities [LocalPlayer, LocalPlayer], work=207*
@@ -614,7 +614,7 @@ SUBROUTINE_0132:
  43: 0x0295 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
  44: 0x02A6 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x002" with entities [LocalPlayer, LocalPlayer], work=207*
  45: 0x02B5 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
- 46: 0x02BA [0x2B] Balpah (ID: 17576360/0x010C31A8) [7440*]:
+ 46: 0x02BA [0x2B] Balpah (ID: 17576360/0x010C31A8) [7441*]:
     → "Hah. That sound brings back memories...but that is not enough to ease my pain. Come, now, and be my eternal servant."
  47: 0x02C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x02C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x004" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
@@ -622,7 +622,7 @@ SUBROUTINE_0132:
  50: 0x02E2 [0x79] Balpah (ID: 17576360/0x010C31A8) looks at Tebhi (ID: 17576361/0x010C31A9) (Basic look)
  51: 0x02EC [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
  52: 0x02F0 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
- 53: 0x02F4 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7441*]:
+ 53: 0x02F4 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7442*]:
     → "What!? You..."
  54: 0x02FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x02FC [0x37] UPDATE_EVENT_POSITION_AND_DIR: x=-423.473*, z=498.933*, y=7.999*, direction=353.9°*
@@ -639,7 +639,7 @@ SUBROUTINE_0132:
  66: 0x035C [0x2A] GET_REQ_LEVEL(level=3, entity_id=Tebhi (ID: 17576361/0x010C31A9))
  67: 0x0362 [0x4A] LocalPlayer looks at Tebhi (ID: 17576361/0x010C31A9)
  68: 0x036B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x005" with entities [LocalPlayer, LocalPlayer], work=207*
- 69: 0x037A [0x2B] Balpah (ID: 17576360/0x010C31A8) [7442*]:
+ 69: 0x037A [0x2B] Balpah (ID: 17576360/0x010C31A8) [7443*]:
     → "Tebhi! Why are you here?"
  70: 0x0381 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0382 [0x4A] LocalPlayer looks at Balpah (ID: 17576360/0x010C31A8)
@@ -650,7 +650,7 @@ SUBROUTINE_0132:
  76: 0x039F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
  77: 0x03B0 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x006" with entities [LocalPlayer, LocalPlayer], work=207*
  78: 0x03BF [0x2A] GET_REQ_LEVEL(level=3, entity_id=Tebhi (ID: 17576361/0x010C31A9))
- 79: 0x03C5 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7443*]:
+ 79: 0x03C5 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7444*]:
     → "You...you searched for me all this time, while I did nothing to try and find you."
  80: 0x03CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x03CD [0x7B] Balpah (ID: 17576360/0x010C31A8) stops talking
@@ -808,7 +808,7 @@ SUBROUTINE_0132:
 233: 0x07DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 234: 0x07EE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
 235: 0x07FD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
-236: 0x080E [0x2B] Balpah (ID: 17576360/0x010C31A8) [7444*]:
+236: 0x080E [0x2B] Balpah (ID: 17576360/0x010C31A8) [7445*]:
     → "We traveled the world together, people welcoming us warmly wherever we went. They would laugh and cheer at our show..."
 237: 0x0815 [0x23] WAIT_FOR_DIALOG_INTERACTION
 238: 0x0816 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w000" with entities [LocalPlayer, LocalPlayer], work=207*
@@ -823,7 +823,7 @@ SUBROUTINE_0132:
 247: 0x0873 [0x1C] WAIT(5* ticks)
 248: 0x0876 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 249: 0x0887 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-250: 0x0896 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7445*]:
+250: 0x0896 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7446*]:
     → "Their smiling faces did not lie. They truly liked us, and it was only at those times that I felt joy. I had forgotten that laughter, and was controlled by my rage."
 251: 0x089D [0x23] WAIT_FOR_DIALOG_INTERACTION
 252: 0x089E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "w001" with entities [LocalPlayer, LocalPlayer], work=207*
@@ -916,7 +916,7 @@ SUBROUTINE_0132:
 339: 0x0B67 [0x1C] WAIT(10* ticks)
 340: 0x0B6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 341: 0x0B7B [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-342: 0x0B8A [0x2B] Balpah (ID: 17576360/0x010C31A8) [7446*]:
+342: 0x0B8A [0x2B] Balpah (ID: 17576360/0x010C31A8) [7447*]:
     → "As long as you are by my side, I need nothing else... I can feel the warmth of those days past return to my bosom."
 343: 0x0B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x0B92 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Tebhi (ID: 17576361/0x010C31A9))
@@ -938,7 +938,7 @@ SUBROUTINE_0132:
 360: 0x0C10 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Balpah (ID: 17576360/0x010C31A8), tag_num=0x0E)
 361: 0x0C17 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 362: 0x0C28 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
-363: 0x0C37 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7447*]:
+363: 0x0C37 [0x2B] Balpah (ID: 17576360/0x010C31A8) [7448*]:
     → "I was a fool. I forgot what was truly important to me--what I truly needed."
 364: 0x0C3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x0C3F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Tebhi (ID: 17576361/0x010C31A9), tag_num=0x05)
@@ -958,11 +958,11 @@ SUBROUTINE_0132:
 379: 0x0CA0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Balpah (ID: 17576360/0x010C31A8) Render.Flags0 and Render.Flags3 conditions are met
 380: 0x0CA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00b" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
 381: 0x0CB6 [0x27] REQ_SET(priority=0x04, entity_id=Balpah (ID: 17576360/0x010C31A8), tag_num=0x0D)
-382: 0x0CBD [0x2B] Balpah (ID: 17576360/0x010C31A8) [7448*]:
+382: 0x0CBD [0x2B] Balpah (ID: 17576360/0x010C31A8) [7449*]:
     → "I no longer have any use for this. I give it to you."
 383: 0x0CC4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 384: 0x0CC5 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Balpah (ID: 17576360/0x010C31A8))
-385: 0x0CCB [0x2B] Balpah (ID: 17576360/0x010C31A8) [7449*]:
+385: 0x0CCB [0x2B] Balpah (ID: 17576360/0x010C31A8) [7450*]:
     → "Me? I think it is time I set off on a long, long journey."
 386: 0x0CD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x0CD3 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00b" with entities [LocalPlayer, LocalPlayer], work=207*
@@ -973,14 +973,14 @@ SUBROUTINE_0132:
 392: 0x0CF6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
 393: 0x0D07 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x009" with entities [LocalPlayer, LocalPlayer], work=207*
 394: 0x0D16 [0x2A] GET_REQ_LEVEL(level=4, entity_id=Balpah (ID: 17576360/0x010C31A8))
-395: 0x0D1C [0x2B] Balpah (ID: 17576360/0x010C31A8) [7450*]:
+395: 0x0D1C [0x2B] Balpah (ID: 17576360/0x010C31A8) [7451*]:
     → "I thank you again for reuniting me with Tebhi. I will never forget your kindness."
 396: 0x0D23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 397: 0x0D24 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "x00c" with entities [LocalPlayer, LocalPlayer], work=[207*, 0*]
 398: 0x0D35 [0x79] Balpah (ID: 17576360/0x010C31A8) looks at Tebhi (ID: 17576361/0x010C31A9) (Basic look)
 399: 0x0D3F [0x1C] WAIT(60* ticks)
 400: 0x0D42 [0x4A] Tebhi (ID: 17576361/0x010C31A9) looks at Balpah (ID: 17576360/0x010C31A8)
-401: 0x0D4B [0x2B] Balpah (ID: 17576360/0x010C31A8) [7451*]:
+401: 0x0D4B [0x2B] Balpah (ID: 17576360/0x010C31A8) [7452*]:
     → "Let us go. The world awaits..."
 402: 0x0D52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 403: 0x0D53 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "x00c" with entities [LocalPlayer, LocalPlayer], work=207*
@@ -1327,7 +1327,7 @@ SUBROUTINE_0132:
  28: 0x0F1B [0x52] END_LOAD_SCHEDULER: End scheduler "s054" with entities [LocalPlayer, LocalPlayer], work=16*
  29: 0x0F2A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s055" with entities [LocalPlayer, LocalPlayer], work=[16*, 0*]
  30: 0x0F3B [0x27] REQ_SET(priority=0x0B, entity_id=Shikaree M (ID: 17576401/0x010C31D1), tag_num=0x08)
- 31: 0x0F42 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7459*]:
+ 31: 0x0F42 [0x2B] Shikaree M (ID: 17576401/0x010C31D1) [7460*]:
     → "Even if you tried, it would be a futile effort. You cannot get away from a Mithran Tracker."
  32: 0x0F49 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0F4A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Shikaree M (ID: 17576401/0x010C31D1))
@@ -1405,7 +1405,7 @@ SUBROUTINE_0132:
   8: 0x10A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x10B9 [0x1C] WAIT(180* ticks)
  10: 0x10BC [0x79] Cannau (ID: 17576406/0x010C31D6) looks at LocalPlayer (Basic look)
- 11: 0x10C6 [0x2B] Cannau (ID: 17576406/0x010C31D6) [7476*]:
+ 11: 0x10C6 [0x2B] Cannau (ID: 17576406/0x010C31D6) [7477*]:
     → "<Sigh> So father has sent another adventurer to babysit me... I grant you permission to accompany me, but I request that you stay out of my way."
  12: 0x10CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x10CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]

@@ -21,13 +21,13 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
-|       1 | 0x1DE8      |        7656 |
-|       2 | 0x1DE9      |        7657 |
+|       1 | 0x1DE9      |        7657 |
+|       2 | 0x1DEA      |        7658 |
 
 ## String References
 
-- **7656**: Below these stairs lies the auction house. Some may grumble about proud San d'Orians reduced to squabbling merchants, but I care not.
-- **7657**: In fact, I agree with Prince Pieuje. The Kingdom must welcome change, before the rest of the world passes her by.
+- **7657**: Below these stairs lies the auction house. Some may grumble about proud San d'Orians reduced to squabbling merchants, but I care not.
+- **7658**: In fact, I agree with Prince Pieuje. The Kingdom must welcome change, before the rest of the world passes her by.
 
 ## Events
 
@@ -78,11 +78,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7656*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=7657*)
     → "Below these stairs lies the auction house. Some may grumble about proud San d'Orians reduced to squabbling merchants, but I care not."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x1C] WAIT(30* ticks)
-  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7657*)
+  7: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=7658*)
     → "In fact, I agree with Prince Pieuje. The Kingdom must welcome change, before the rest of the world passes her by."
   8: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0022 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

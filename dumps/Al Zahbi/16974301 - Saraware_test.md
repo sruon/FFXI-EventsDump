@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E94      |        7828 |
+|       0 | 0x1E95      |        7829 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0014      |          20 |
 |       3 | 0x0001      |           1 |
@@ -36,7 +36,7 @@
 
 ## String References
 
-- **7828**: DEBUG: Whaddaya want? [All NPCs released!/All areas./Block A./Block B./Block C./Sky general down!/Flame general down!/Spring general down!/Stone general down!/Gale general down!/Saved all the prisoners!]
+- **7829**: DEBUG: Whaddaya want? [All NPCs released!/All areas./Block A./Block B./Block C./Sky general down!/Flame general down!/Spring general down!/Stone general down!/Gale general down!/Saved all the prisoners!]
 
 ## Events
 
@@ -93,7 +93,7 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7828*, default_option=0*, option_flags=0*)
+  1: 0x0003 [0x24] CREATE_DIALOG(message_id=7829*, default_option=0*, option_flags=0*)
     → "DEBUG: Whaddaya want? [All NPCs released!/All areas./Block A./Block B./Block C./Sky general down!/Flame general down!/Spring general down!/Stone general down!/Gale general down!/Saved all the prisoners!]"
   2: 0x000A [0x25] WAIT_DIALOG_SELECT()
   3: 0x000B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x001B

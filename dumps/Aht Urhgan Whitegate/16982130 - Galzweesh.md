@@ -23,21 +23,21 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
-|       3 | 0x18BF      |        6335 |
-|       4 | 0x18C0      |        6336 |
-|       5 | 0x18C1      |        6337 |
-|       6 | 0x1A7E      |        6782 |
-|       7 | 0x1A7F      |        6783 |
-|       8 | 0x1A80      |        6784 |
+|       3 | 0x18C0      |        6336 |
+|       4 | 0x18C1      |        6337 |
+|       5 | 0x18C2      |        6338 |
+|       6 | 0x1A7F      |        6783 |
+|       7 | 0x1A80      |        6784 |
+|       8 | 0x1A81      |        6785 |
 
 ## String References
 
-- **6335**: Eh? You wanna know why these docks're called "Ephramad Port"? You really don't know?
-- **6336**: Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er.
-- **6337**: The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me.
-- **6782**: Eh? You wanna know about the ghost ship!? You got a lotta guts t' bring that up in 'earing range of the palace...
-- **6783**: The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains.
-- **6784**: But just between you an' me... I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course...
+- **6336**: Eh? You wanna know why these docks're called "Ephramad Port"? You really don't know?
+- **6337**: Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er.
+- **6338**: The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me.
+- **6783**: Eh? You wanna know about the ghost ship!? You got a lotta guts t' bring that up in 'earing range of the palace...
+- **6784**: The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains.
+- **6785**: But just between you an' me... I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course...
 
 ## Events
 
@@ -92,24 +92,24 @@
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=0*
   3: 0x0018 [0x13] ExtData[1]->WorkLocal[0] = rand() % 1*
   4: 0x001D [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0034
-  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6335*)
+  5: 0x0025 [0x1D] PRINT_EVENT_MESSAGE(message_id=6336*)
     → "Eh? You wanna know why these docks're called "Ephramad Port"? You really don't know?"
   6: 0x0028 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6336*)
+  7: 0x0029 [0x1D] PRINT_EVENT_MESSAGE(message_id=6337*)
     → "Y'see, long ago, this city was the capital of a different nation. But Aht Urhgan, she kept expanding until she swallowed up all the countries around 'er."
   8: 0x002C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=6337*)
+  9: 0x002D [0x1D] PRINT_EVENT_MESSAGE(message_id=6338*)
     → "The name Ephramad Port's a remnant from the time before this land belonged t' Aht Urhgan. Least, that's what my dad tells me."
  10: 0x0030 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0031 [0x01] GOTO 0x004B
  12: 0x0034 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x004B
- 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6782*)
+ 13: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=6783*)
     → "Eh? You wanna know about the ghost ship!? You got a lotta guts t' bring that up in 'earing range of the palace..."
  14: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6783*)
+ 15: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=6784*)
     → "The Immortals are branding anyone what talks about that spook ship as a member of the Seagull Phratrie. Be careful you don't get yourself 'auled away in chains."
  16: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6784*)
+ 17: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=6785*)
     → "But just between you an' me... I 'eard there's a bloke what saw a great shadow of a ship sailing through the mists of the Silver Sea. Says that 'e saw not one sailor on deck to guide 'er course..."
  18: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0048 [0x01] GOTO 0x004B

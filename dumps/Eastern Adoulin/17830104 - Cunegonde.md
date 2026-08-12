@@ -22,51 +22,51 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x000D      |          13 |
-|       1 | 0x28FA      |       10490 |
-|       2 | 0x28FB      |       10491 |
+|       1 | 0x28FB      |       10491 |
+|       2 | 0x28FC      |       10492 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
-|       5 | 0x28F9      |       10489 |
+|       5 | 0x28FA      |       10490 |
 |       6 | 0x40000000  |  1073741824 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x0002      |           2 |
-|       9 | 0x2905      |       10501 |
+|       9 | 0x2906      |       10502 |
 |      10 | 0xFFFFFFFF  |  4294967295 |
-|      11 | 0x2906      |       10502 |
-|      12 | 0x2907      |       10503 |
-|      13 | 0x2908      |       10504 |
+|      11 | 0x2907      |       10503 |
+|      12 | 0x2908      |       10504 |
+|      13 | 0x2909      |       10505 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x28FC      |       10492 |
-|      16 | 0x28FD      |       10493 |
+|      15 | 0x28FD      |       10493 |
+|      16 | 0x28FE      |       10494 |
 |      17 | 0x0004      |           4 |
-|      18 | 0x2900      |       10496 |
-|      19 | 0x2901      |       10497 |
-|      20 | 0x2902      |       10498 |
+|      18 | 0x2901      |       10497 |
+|      19 | 0x2902      |       10498 |
+|      20 | 0x2903      |       10499 |
 |      21 | 0x0005      |           5 |
 |      22 | 0x000A      |          10 |
-|      23 | 0x1EE8      |        7912 |
-|      24 | 0x1EE9      |        7913 |
-|      25 | 0x1EEA      |        7914 |
-|      26 | 0x1EEB      |        7915 |
+|      23 | 0x1EE9      |        7913 |
+|      24 | 0x1EEA      |        7914 |
+|      25 | 0x1EEB      |        7915 |
+|      26 | 0x1EEC      |        7916 |
 
 ## String References
 
-- **7912**: Up ahead you can find the docks that lead pioneers like yourself to the residential areas on the outlying islands.
-- **7913**: Oh, you are here on patrol? Thank you for checking in. I have nothing out of the ordinary to report.
-- **7914**: Our vessels are running on time, and there have been no maritime accidents of late.
-- **7915**: The boat leading to the residential area is just beyond this arch and down the stairs.
-- **10489**: There shall be no stowing away while I'm on watch! Only registered pioneers are allowed aboard this vessel, you imposter!
-- **10490**: The vessel that docks beyond here transports pioneers and laymen alike to their very own island plot containing various amenities.
-- **10491**: What do you want to know about? [Nothing./Send me to my Mog Garden!/Visiting others' Mog Gardens./Rent-a-Rooms./Mog Gardens./Mog Garden expansion.]
-- **10492**: I'm sure you can recall the Rent-a-Room you used back in the Middle Lands.
-- **10493**: The ones here function in the exact same manner as the ones you've already grown to love as your homes-away-from-home.
-- **10496**: Mog Gardens are special areas located on the islands dotting the Adoulin Archipelago which have a variety of facilities suited for all your gathering needs.
-- **10497**: Absolutely no fee is required to take advantage of this service.
-- **10498**: We hope that you utilize your Mog Garden to the fullest.
-- **10501**: You can visit the Mog Gardens of the following party members. Is there anyone's in particular you want to visit?
-- **10502**: Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]
-- **10503**: Okay, then. Right this way, please.
-- **10504**: Sorry, but none of your party members have their Mog Gardens open to anyone at this time.
+- **7913**: Up ahead you can find the docks that lead pioneers like yourself to the residential areas on the outlying islands.
+- **7914**: Oh, you are here on patrol? Thank you for checking in. I have nothing out of the ordinary to report.
+- **7915**: Our vessels are running on time, and there have been no maritime accidents of late.
+- **7916**: The boat leading to the residential area is just beyond this arch and down the stairs.
+- **10490**: There shall be no stowing away while I'm on watch! Only registered pioneers are allowed aboard this vessel, you imposter!
+- **10491**: The vessel that docks beyond here transports pioneers and laymen alike to their very own island plot containing various amenities.
+- **10492**: What do you want to know about? [Nothing./Send me to my Mog Garden!/Visiting others' Mog Gardens./Rent-a-Rooms./Mog Gardens./Mog Garden expansion.]
+- **10493**: I'm sure you can recall the Rent-a-Room you used back in the Middle Lands.
+- **10494**: The ones here function in the exact same manner as the ones you've already grown to love as your homes-away-from-home.
+- **10497**: Mog Gardens are special areas located on the islands dotting the Adoulin Archipelago which have a variety of facilities suited for all your gathering needs.
+- **10498**: Absolutely no fee is required to take advantage of this service.
+- **10499**: We hope that you utilize your Mog Garden to the fullest.
+- **10502**: You can visit the Mog Gardens of the following party members. Is there anyone's in particular you want to visit?
+- **10503**: Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]
+- **10504**: Okay, then. Right this way, please.
+- **10505**: Sorry, but none of your party members have their Mog Gardens open to anyone at this time.
 
 ## Events
 
@@ -136,17 +136,17 @@
   3: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0012 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlb0" with entities [EventEntity, EventEntity], work=13*
-  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10490*)
+  6: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10491*)
     → "The vessel that docks beyond here transports pioneers and laymen alike to their very own island plot containing various amenities."
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0025 [0x24] CREATE_DIALOG(message_id=10491*, default_option=1*, option_flags=ExtData[1]->WorkLocal[0])
+  8: 0x0025 [0x24] CREATE_DIALOG(message_id=10492*, default_option=1*, option_flags=ExtData[1]->WorkLocal[0])
     → "What do you want to know about? [Nothing./Send me to my Mog Garden!/Visiting others' Mog Gardens./Rent-a-Rooms./Mog Gardens./Mog Garden expansion.]"
   9: 0x002C [0x25] WAIT_DIALOG_SELECT()
  10: 0x002D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038
  11: 0x0035 [0x01] GOTO 0x012E
  12: 0x0038 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x007C
  13: 0x0040 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0054
- 14: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=10489*)
+ 14: 0x0048 [0x1D] PRINT_EVENT_MESSAGE(message_id=10490*)
     → "There shall be no stowing away while I'm on watch! Only registered pioneers are allowed aboard this vessel, you imposter!"
  15: 0x004B [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x004C [0x03] Work_Zone[1] = 1073741824*
@@ -159,34 +159,34 @@ SUBROUTINE_0079:
  21: 0x0079 [0x01] GOTO 0x012E
  22: 0x007C [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x00EA
  23: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x0098
- 24: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=10489*)
+ 24: 0x008C [0x1D] PRINT_EVENT_MESSAGE(message_id=10490*)
     → "There shall be no stowing away while I'm on watch! Only registered pioneers are allowed aboard this vessel, you imposter!"
  25: 0x008F [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0090 [0x03] Work_Zone[1] = 1073741824*
  27: 0x0095 [0x01] GOTO 0x00E7
  28: 0x0098 [0xC2] PARTY_STATE_CHECK: ExtData[1]->WorkLocal[2] = mask of visitable party members
  29: 0x009C [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x00DE
- 30: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10501*)
+ 30: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=10502*)
     → "You can visit the Mog Gardens of the following party members. Is there anyone's in particular you want to visit?"
  31: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00A8 [0xC2] PARTY_STATE_CHECK: ExtData[1]->WorkLocal[2] = mask of visitable party members
  33: 0x00AC [0x0F] ExtData[1]->WorkLocal[2] ^= 4294967295*
  34: 0x00B1 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=0*, condition_work_offset=1*)
- 35: 0x00B8 [0x24] CREATE_DIALOG(message_id=10502*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
+ 35: 0x00B8 [0x24] CREATE_DIALOG(message_id=10503*, default_option=0*, option_flags=ExtData[1]->WorkLocal[2])
     → "Visit whose Mog Garden? [No one's./%1's./%2's./%3's./%4's./%5's./%6's./%7's./%8's./%9's./%10's./%11's./%12's./%13's./%14's./%15's./%16's./%17's.]"
  36: 0x00BF [0x25] WAIT_DIALOG_SELECT()
  37: 0x00C0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00D0
  38: 0x00C8 [0x03] Work_Zone[1] = 1073741824*
  39: 0x00CD [0x01] GOTO 0x00DB
  40: 0x00D0 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 41: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10503*)
+ 41: 0x00D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
     → "Okay, then. Right this way, please."
  42: 0x00D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00D5 [0xC2] PARTY_STATE_CHECK: Work_Zone[1] = check if party member (from Work_Zone[0]) house is open
 
 SUBROUTINE_00DB:
  44: 0x00DB [0x01] GOTO 0x00E7
- 45: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
+ 45: 0x00DE [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
     → "Sorry, but none of your party members have their Mog Gardens open to anyone at this time."
  46: 0x00E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x00E2 [0x03] Work_Zone[1] = 1073741824*
@@ -194,22 +194,22 @@ SUBROUTINE_00DB:
 SUBROUTINE_00E7:
  48: 0x00E7 [0x01] GOTO 0x012E
  49: 0x00EA [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0102
- 50: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10492*)
+ 50: 0x00F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10493*)
     → "I'm sure you can recall the Rent-a-Room you used back in the Middle Lands."
  51: 0x00F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10493*)
+ 52: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10494*)
     → "The ones here function in the exact same manner as the ones you've already grown to love as your homes-away-from-home."
  53: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x00FA [0x03] Work_Zone[1] = 1073741824*
  55: 0x00FF [0x01] GOTO 0x012E
  56: 0x0102 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x011E
- 57: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
+ 57: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
     → "Mog Gardens are special areas located on the islands dotting the Adoulin Archipelago which have a variety of facilities suited for all your gathering needs."
  58: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 59: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
+ 59: 0x010E [0x1D] PRINT_EVENT_MESSAGE(message_id=10498*)
     → "Absolutely no fee is required to take advantage of this service."
  60: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 61: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=10498*)
+ 61: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=10499*)
     → "We hope that you utilize your Mog Garden to the fullest."
  62: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0116 [0x03] Work_Zone[1] = 1073741824*
@@ -252,16 +252,16 @@ SUBROUTINE_012E:
   2: 0x0145 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0146 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0147 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  5: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7912*)
+  5: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
     → "Up ahead you can find the docks that lead pioneers like yourself to the residential areas on the outlying islands."
   6: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7913*)
+  7: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
     → "Oh, you are here on patrol? Thank you for checking in. I have nothing out of the ordinary to report."
   8: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7914*)
+  9: 0x015E [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
     → "Our vessels are running on time, and there have been no maritime accidents of late."
  10: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 11: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7915*)
+ 11: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=7916*)
     → "The boat leading to the residential area is just beyond this arch and down the stairs."
  12: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0166 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=10*

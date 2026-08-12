@@ -5,9 +5,9 @@
 | Field            | Value                         |
 |------------------|-------------------------------|
 | Zone             | Aht Urhgan Whitegate (ID: 50) |
-| Block Size       | 9036 bytes                    |
+| Block Size       | 9040 bytes                    |
 | Total Events     | 3                             |
-| References Count | 468                           |
+| References Count | 469                           |
 
 ## List of Events
 
@@ -15,7 +15,7 @@
 |-----------------------|--------------|--------|----------------|
 | [65535](#event-65535) | 0x0000       |      1 |              1 |
 | [8500](#event-8500)   | 0x0001       |    213 |             45 |
-| [8501](#event-8501)   | 0x00D6       |   6921 |           1124 |
+| [8501](#event-8501)   | 0x00D6       |   6921 |           1126 |
 
 ## DAT References (imed_data)
 
@@ -29,54 +29,54 @@
 |       5 | 0x0010      |          16 |
 |       6 | 0x001F      |          31 |
 |       7 | 0x0004      |           4 |
-|       8 | 0x3815      |       14357 |
-|       9 | 0x3813      |       14355 |
-|      10 | 0x3816      |       14358 |
+|       8 | 0x3816      |       14358 |
+|       9 | 0x3814      |       14356 |
+|      10 | 0x3817      |       14359 |
 |      11 | 0x0001      |           1 |
 |      12 | 0x0002      |           2 |
 |      13 | 0x0003      |           3 |
-|      14 | 0x3823      |       14371 |
-|      15 | 0x3824      |       14372 |
+|      14 | 0x3824      |       14372 |
+|      15 | 0x3825      |       14373 |
 |      16 | 0x0007      |           7 |
-|      17 | 0x3825      |       14373 |
+|      17 | 0x3826      |       14374 |
 |      18 | 0x0200      |         512 |
-|      19 | 0x381F      |       14367 |
-|      20 | 0x3820      |       14368 |
-|      21 | 0x3821      |       14369 |
-|      22 | 0x3822      |       14370 |
+|      19 | 0x3820      |       14368 |
+|      20 | 0x3821      |       14369 |
+|      21 | 0x3822      |       14370 |
+|      22 | 0x3823      |       14371 |
 |      23 | 0x0201      |         513 |
-|      24 | 0x00E7      |         231 |
-|      25 | 0x00DF      |         223 |
-|      26 | 0x3817      |       14359 |
+|      24 | 0x00E8      |         232 |
+|      25 | 0x00E0      |         224 |
+|      26 | 0x3818      |       14360 |
 |      27 | 0xFFFFFFFE  |  4294967294 |
-|      28 | 0x3818      |       14360 |
-|      29 | 0x3827      |       14375 |
+|      28 | 0x3819      |       14361 |
+|      29 | 0x3828      |       14376 |
 |      30 | 0x001A      |          26 |
 |      31 | 0x001B      |          27 |
-|      32 | 0x3826      |       14374 |
+|      32 | 0x3827      |       14375 |
 |      33 | 0x0008      |           8 |
 |      34 | 0x000F      |          15 |
 |      35 | 0x0017      |          23 |
 |      36 | 0x0018      |          24 |
 |      37 | 0x007F      |         127 |
 |      38 | 0xFFFFFFFF  |  4294967295 |
-|      39 | 0x3828      |       14376 |
-|      40 | 0x381B      |       14363 |
-|      41 | 0x381C      |       14364 |
+|      39 | 0x3829      |       14377 |
+|      40 | 0x381C      |       14364 |
+|      41 | 0x381D      |       14365 |
 |      42 | 0x000E      |          14 |
 |      43 | 0x0005      |           5 |
 |      44 | 0x0014      |          20 |
-|      45 | 0x381D      |       14365 |
-|      46 | 0x00EC      |         236 |
-|      47 | 0x381E      |       14366 |
-|      48 | 0x3829      |       14377 |
-|      49 | 0x382A      |       14378 |
-|      50 | 0x382B      |       14379 |
+|      45 | 0x381E      |       14366 |
+|      46 | 0x00ED      |         237 |
+|      47 | 0x381F      |       14367 |
+|      48 | 0x382A      |       14378 |
+|      49 | 0x382B      |       14379 |
+|      50 | 0x382C      |       14380 |
 |      51 | 0x0006      |           6 |
 |      52 | 0x0080      |         128 |
 |      53 | 0x0062      |          98 |
 |      54 | 0x0020      |          32 |
-|      55 | 0x3819      |       14361 |
+|      55 | 0x381A      |       14362 |
 |      56 | 0x0015      |          21 |
 |      57 | 0x0016      |          22 |
 |      58 | 0x007A      |         122 |
@@ -128,393 +128,394 @@
 |     104 | 0xFDE8      |       65000 |
 |     105 | 0x13880     |       80000 |
 |     106 | 0x186A0     |      100000 |
-|     107 | 0x00EA      |         234 |
-|     108 | 0x00F0      |         240 |
-|     109 | 0x00F3      |         243 |
-|     110 | 0x0032      |          50 |
-|     111 | 0x0064      |         100 |
-|     112 | 0x008D      |         141 |
-|     113 | 0x00A7      |         167 |
-|     114 | 0x00BE      |         190 |
-|     115 | 0x0066      |         102 |
-|     116 | 0x0067      |         103 |
-|     117 | 0x006C      |         108 |
-|     118 | 0x00C1      |         193 |
-|     119 | 0x00C4      |         196 |
-|     120 | 0x0068      |         104 |
-|     121 | 0x0069      |         105 |
-|     122 | 0x0095      |         149 |
-|     123 | 0x00C3      |         195 |
-|     124 | 0x006A      |         106 |
-|     125 | 0x00AC      |         172 |
-|     126 | 0x00AD      |         173 |
-|     127 | 0x00BF      |         191 |
-|     128 | 0x006D      |         109 |
-|     129 | 0x006E      |         110 |
-|     130 | 0x0093      |         147 |
-|     131 | 0x00C5      |         197 |
-|     132 | 0x0073      |         115 |
-|     133 | 0x00A9      |         169 |
-|     134 | 0x00C0      |         192 |
-|     135 | 0x0075      |         117 |
-|     136 | 0x0076      |         118 |
-|     137 | 0x00C6      |         198 |
-|     138 | 0x00D5      |         213 |
-|     139 | 0x0077      |         119 |
-|     140 | 0x0078      |         120 |
-|     141 | 0x0097      |         151 |
-|     142 | 0x006F      |         111 |
-|     143 | 0x00A6      |         166 |
-|     144 | 0x0070      |         112 |
-|     145 | 0x00A1      |         161 |
-|     146 | 0x007E      |         126 |
-|     147 | 0x00B8      |         184 |
-|     148 | 0x0079      |         121 |
-|     149 | 0x009A      |         154 |
-|     150 | 0x0072      |         114 |
-|     151 | 0x007D      |         125 |
-|     152 | 0x00F7      |         247 |
-|     153 | 0x0071      |         113 |
-|     154 | 0x00AE      |         174 |
-|     155 | 0x00D4      |         212 |
-|     156 | 0x007B      |         123 |
-|     157 | 0x00B0      |         176 |
-|     158 | 0x00FC      |         252 |
-|     159 | 0x007C      |         124 |
-|     160 | 0x009F      |         159 |
-|     161 | 0x00CD      |         205 |
-|     162 | 0x0082      |         130 |
-|     163 | 0x0019      |          25 |
-|     164 | 0x001C      |          28 |
-|     165 | 0x0033      |          51 |
-|     166 | 0x0041      |          65 |
-|     167 | 0x0044      |          68 |
-|     168 | 0x003E      |          62 |
-|     169 | 0x0035      |          53 |
-|     170 | 0x0036      |          54 |
-|     171 | 0x004F      |          79 |
-|     172 | 0x0051      |          81 |
-|     173 | 0x0052      |          82 |
-|     174 | 0x0054      |          84 |
-|     175 | 0x00AF      |         175 |
-|     176 | 0x0057      |          87 |
-|     177 | 0x0058      |          88 |
-|     178 | 0x0059      |          89 |
-|     179 | 0x0053      |          83 |
-|     180 | 0x005A      |          90 |
-|     181 | 0x005B      |          91 |
-|     182 | 0x00AB      |         171 |
-|     183 | 0x005E      |          94 |
-|     184 | 0x005F      |          95 |
-|     185 | 0x0060      |          96 |
-|     186 | 0x0061      |          97 |
-|     187 | 0x00A4      |         164 |
-|     188 | 0x0088      |         136 |
-|     189 | 0x008A      |         138 |
-|     190 | 0x0101      |         257 |
-|     191 | 0x03E8      |        1000 |
-|     192 | 0x000C      |          12 |
-|     193 | 0x0011      |          17 |
-|     194 | 0x0012      |          18 |
-|     195 | 0x0013      |          19 |
-|     196 | 0x001D      |          29 |
-|     197 | 0x0021      |          33 |
-|     198 | 0x0022      |          34 |
-|     199 | 0x0023      |          35 |
-|     200 | 0x0024      |          36 |
-|     201 | 0x0025      |          37 |
-|     202 | 0x0026      |          38 |
-|     203 | 0x0029      |          41 |
-|     204 | 0x001E      |          30 |
-|     205 | 0x002C      |          44 |
-|     206 | 0x002D      |          45 |
-|     207 | 0x0037      |          55 |
-|     208 | 0x002A      |          42 |
-|     209 | 0x002B      |          43 |
-|     210 | 0x0038      |          56 |
-|     211 | 0x002E      |          46 |
-|     212 | 0x0027      |          39 |
-|     213 | 0x005C      |          92 |
-|     214 | 0x002F      |          47 |
-|     215 | 0x005D      |          93 |
-|     216 | 0x0030      |          48 |
-|     217 | 0x0034      |          52 |
-|     218 | 0x0031      |          49 |
-|     219 | 0x0039      |          57 |
-|     220 | 0x003A      |          58 |
-|     221 | 0x003B      |          59 |
-|     222 | 0x003D      |          61 |
-|     223 | 0x0055      |          85 |
-|     224 | 0x0056      |          86 |
-|     225 | 0x003F      |          63 |
-|     226 | 0x0040      |          64 |
-|     227 | 0x0042      |          66 |
-|     228 | 0x0043      |          67 |
-|     229 | 0x0045      |          69 |
-|     230 | 0x0046      |          70 |
-|     231 | 0x004E      |          78 |
-|     232 | 0x0047      |          71 |
-|     233 | 0x0048      |          72 |
-|     234 | 0x0049      |          73 |
-|     235 | 0x004A      |          74 |
-|     236 | 0x004D      |          77 |
-|     237 | 0x004B      |          75 |
-|     238 | 0x004C      |          76 |
-|     239 | 0xFFFD5850  |  4294793296 |
-|     240 | 0x4E20      |       20000 |
-|     241 | 0xFFFCA4A0  |  4294747296 |
-|     242 | 0xA7F8      |       43000 |
-|     243 | 0xFFFFEC78  |  4294962296 |
-|     244 | 0x20B70     |      134000 |
-|     245 | 0xFFF91825  |  4294514725 |
-|     246 | 0xFFFDD168  |  4294824296 |
-|     247 | 0xFFFFD24C  |  4294955596 |
-|     248 | 0xFFFE2F28  |  4294848296 |
-|     249 | 0xBD358     |      775000 |
-|     250 | 0x21728     |      137000 |
-|     251 | 0xFFFC9CD0  |  4294745296 |
-|     252 | 0xFFFE69C0  |  4294863296 |
-|     253 | 0xEA60      |       60000 |
-|     254 | 0x36EE8     |      225000 |
-|     255 | 0xF618      |       63000 |
-|     256 | 0xFFFEFA48  |  4294900296 |
-|     257 | 0x36718     |      223000 |
-|     258 | 0x660D0     |      418000 |
-|     259 | 0xFFF71BE1  |  4294384609 |
-|     260 | 0xFFFFD8F0  |  4294957296 |
-|     261 | 0xFFF8EF68  |  4294504296 |
-|     262 | 0xFFFFA240  |  4294943296 |
-|     263 | 0x72038     |      467000 |
-|     264 | 0xFFFC8560  |  4294739296 |
-|     265 | 0xFFFBF8C0  |  4294703296 |
-|     266 | 0x58DE0     |      364000 |
-|     267 | 0xFFFFCBF6  |  4294953974 |
-|     268 | 0xFFFB4C08  |  4294659080 |
-|     269 | 0x6E988     |      453000 |
-|     270 | 0x78D98     |      495000 |
-|     271 | 0xFFFD8F00  |  4294807296 |
-|     272 | 0xFFF896BC  |  4294481596 |
-|     273 | 0xFFFAD7B0  |  4294629296 |
-|     274 | 0xFFFF09E8  |  4294904296 |
-|     275 | 0xFFFB77D8  |  4294670296 |
-|     276 | 0x53FC0     |      344000 |
-|     277 | 0xFFFCA0B8  |  4294746296 |
-|     278 | 0xFFFA27E8  |  4294584296 |
-|     279 | 0xFFFF92A0  |  4294939296 |
-|     280 | 0xFFFDC5B0  |  4294821296 |
-|     281 | 0x31CE0     |      204000 |
-|     282 | 0x5AD20     |      372000 |
-|     283 | 0xFFFC27A0  |  4294715296 |
-|     284 | 0x52080     |      336000 |
-|     285 | 0x71480     |      464000 |
-|     286 | 0xFFFF5038  |  4294922296 |
-|     287 | 0xFFFF11B8  |  4294906296 |
-|     288 | 0xFFFC0860  |  4294707296 |
-|     289 | 0x668A0     |      420000 |
-|     290 | 0xFFFFF254  |  4294963796 |
-|     291 | 0xFFFD21A0  |  4294779296 |
-|     292 | 0xFFFD73A8  |  4294800296 |
-|     293 | 0xFFFFC180  |  4294951296 |
-|     294 | 0x48440     |      296000 |
-|     295 | 0xFFFC5874  |  4294727796 |
-|     296 | 0xFFFF63C0  |  4294927296 |
-|     297 | 0xFFFFCD38  |  4294954296 |
-|     298 | 0x30188     |      197000 |
-|     299 | 0x15BA8     |       89000 |
-|     300 | 0x32C8      |       13000 |
-|     301 | 0xFFFC0090  |  4294705296 |
-|     302 | 0xFFF78BF0  |  4294413296 |
-|     303 | 0x3D860     |      252000 |
-|     304 | 0xFFF332A8  |  4294128296 |
-|     305 | 0x35390     |      218000 |
-|     306 | 0x0FA0      |        4000 |
-|     307 | 0x7B0C0     |      504000 |
-|     308 | 0xFFFFB1E0  |  4294947296 |
-|     309 | 0x73F78     |      475000 |
-|     310 | 0xFFF5F1C8  |  4294308296 |
-|     311 | 0x14050     |       82000 |
-|     312 | 0xA1608     |      661000 |
-|     313 | 0xFFFD0260  |  4294771296 |
-|     314 | 0xFFF9D5E0  |  4294563296 |
-|     315 | 0xFFFC3B28  |  4294720296 |
-|     316 | 0xFFFB9718  |  4294678296 |
-|     317 | 0xC1D90     |      794000 |
-|     318 | 0xFFF80CD8  |  4294446296 |
-|     319 | 0x86088     |      549000 |
-|     320 | 0xFFFF6F78  |  4294930296 |
-|     321 | 0xFFFF1D70  |  4294909296 |
-|     322 | 0x14438     |       83000 |
-|     323 | 0x1EC30     |      126000 |
-|     324 | 0xB3330     |      734000 |
-|     325 | 0x74360     |      476000 |
-|     326 | 0xFFFB6068  |  4294664296 |
-|     327 | 0xFFFDCD80  |  4294823296 |
-|     328 | 0xFFFF3CB0  |  4294917296 |
-|     329 | 0xFFFE3EC8  |  4294852296 |
-|     330 | 0x2BB38     |      179000 |
-|     331 | 0xFFFEF278  |  4294898296 |
-|     332 | 0x18E70     |      102000 |
-|     333 | 0x4268      |       17000 |
-|     334 | 0xFFFCAC8E  |  4294749326 |
-|     335 | 0x6321      |       25377 |
-|     336 | 0x3CAB4     |      248500 |
-|     337 | 0xFFFFB9B0  |  4294949296 |
-|     338 | 0x17ED0     |       98000 |
-|     339 | 0xC9E78     |      827000 |
-|     340 | 0x9A8A8     |      633000 |
-|     341 | 0xFFFBF0F0  |  4294701296 |
-|     342 | 0xFFF7F180  |  4294439296 |
-|     343 | 0xFFFFC950  |  4294953296 |
-|     344 | 0x6D9E8     |      449000 |
-|     345 | 0xFFFE7B54  |  4294867796 |
-|     346 | 0xCC39      |       52281 |
-|     347 | 0xFFFFA628  |  4294944296 |
-|     348 | 0x64190     |      410000 |
-|     349 | 0x5E3D0     |      386000 |
-|     350 | 0x1A1F8     |      107000 |
-|     351 | 0x4D130     |      315696 |
-|     352 | 0x3FF70     |      262000 |
-|     353 | 0x2C81C     |      182300 |
-|     354 | 0xB1BC0     |      728000 |
-|     355 | 0x9E340     |      648000 |
-|     356 | 0xB478      |       46200 |
-|     357 | 0xFFFD44C8  |  4294788296 |
-|     358 | 0xFFFBBA40  |  4294687296 |
-|     359 | 0x67458     |      423000 |
-|     360 | 0xFFFC1800  |  4294711296 |
-|     361 | 0x58BEC     |      363500 |
-|     362 | 0xFFFE17B8  |  4294842296 |
-|     363 | 0xFFFB73F0  |  4294669296 |
-|     364 | 0xFFFCE708  |  4294764296 |
-|     365 | 0xFFFF9E58  |  4294942296 |
-|     366 | 0x48828     |      297000 |
-|     367 | 0xFFFEDEF0  |  4294893296 |
-|     368 | 0xFFFF38C8  |  4294916296 |
-|     369 | 0xFFFDB228  |  4294816296 |
-|     370 | 0xCF08      |       53000 |
-|     371 | 0xFFFF7F18  |  4294934296 |
-|     372 | 0xFFFBF4D8  |  4294702296 |
-|     373 | 0x2AF8      |       11000 |
-|     374 | 0xFFFE8CE8  |  4294872296 |
-|     375 | 0x5DC0      |       24000 |
-|     376 | 0xFFFC6238  |  4294730296 |
-|     377 | 0xFA00      |       64000 |
-|     378 | 0x51C98     |      335000 |
-|     379 | 0xFFFE94B8  |  4294874296 |
-|     380 | 0xFFFF7B30  |  4294933296 |
-|     381 | 0xFFFEC398  |  4294886296 |
-|     382 | 0xDEA8      |       57000 |
-|     383 | 0xFFF6F398  |  4294374296 |
-|     384 | 0xFFFF2D10  |  4294913296 |
-|     385 | 0xFFFF2540  |  4294911296 |
-|     386 | 0x3FB88     |      261000 |
-|     387 | 0xFFFE9C88  |  4294876296 |
-|     388 | 0x3AD68     |      241000 |
-|     389 | 0x53020     |      340000 |
-|     390 | 0xFFFEF660  |  4294899296 |
-|     391 | 0xFFF6DC28  |  4294368296 |
-|     392 | 0xFFF866B0  |  4294469296 |
-|     393 | 0xFFFD8348  |  4294804296 |
-|     394 | 0x17318     |       95000 |
-|     395 | 0x82208     |      533000 |
-|     396 | 0xBC7A0     |      772000 |
-|     397 | 0x32898     |      207000 |
-|     398 | 0xFFFACBF8  |  4294626296 |
-|     399 | 0xFFF2C930  |  4294101296 |
-|     400 | 0x34BC0     |      216000 |
-|     401 | 0x8A6D8     |      567000 |
-|     402 | 0x93F30     |      606000 |
-|     403 | 0xFFF954F8  |  4294530296 |
-|     404 | 0x1F20C     |      127500 |
-|     405 | 0x39210     |      234000 |
-|     406 | 0xFFFE2B40  |  4294847296 |
-|     407 | 0xFFFFDFA4  |  4294959012 |
-|     408 | 0xFFFFB2A1  |  4294947489 |
-|     409 | 0x6F54      |       28500 |
-|     410 | 0xFFFFE2DC  |  4294959836 |
-|     411 | 0x11620     |       71200 |
-|     412 | 0xFFFFFF24  |  4294967076 |
-|     413 | 0xFFFFF830  |  4294965296 |
-|     414 | 0xFFFFFD44  |  4294966596 |
-|     415 | 0xFFFF32EC  |  4294914796 |
-|     416 | 0x9CAB      |       40107 |
-|     417 | 0xFFFFFEA2  |  4294966946 |
-|     418 | 0x5FAA      |       24490 |
-|     419 | 0x1018      |        4120 |
-|     420 | 0x060E      |        1550 |
-|     421 | 0xFFFF8170  |  4294934896 |
-|     422 | 0xFFFFCF55  |  4294954837 |
-|     423 | 0x3E7F      |       15999 |
-|     424 | 0xFFFFE0C0  |  4294959296 |
-|     425 | 0xFFFFF448  |  4294964296 |
-|     426 | 0xB798      |       47000 |
-|     427 | 0xFFFF8300  |  4294935296 |
-|     428 | 0xFFFFCFC2  |  4294954946 |
-|     429 | 0xFFFFB0DC  |  4294947036 |
-|     430 | 0x41D4      |       16852 |
-|     431 | 0x161C      |        5660 |
-|     432 | 0xFFFFE81A  |  4294961178 |
-|     433 | 0xFFFF1758  |  4294907736 |
-|     434 | 0xFFFFD120  |  4294955296 |
-|     435 | 0x6612      |       26130 |
-|     436 | 0xFFFFFA88  |  4294965896 |
-|     437 | 0x2134      |        8500 |
-|     438 | 0xFFFFF326  |  4294964006 |
-|     439 | 0xFFFFF63A  |  4294964794 |
-|     440 | 0x1F40      |        8000 |
-|     441 | 0xFFFFDFBC  |  4294959036 |
-|     442 | 0xFFFFAEB6  |  4294946486 |
-|     443 | 0xFFFF6104  |  4294926596 |
-|     444 | 0xFFFFE7C8  |  4294961096 |
-|     445 | 0xFFFF8AD0  |  4294937296 |
-|     446 | 0x5014      |       20500 |
-|     447 | 0xFFFFFE66  |  4294966886 |
-|     448 | 0xFFFFC216  |  4294951446 |
-|     449 | 0xFFFFB5C8  |  4294948296 |
-|     450 | 0xFFFFE444  |  4294960196 |
-|     451 | 0x9664      |       38500 |
-|     452 | 0x1174C     |       71500 |
-|     453 | 0xFFFF810C  |  4294934796 |
-|     454 | 0x5FB4      |       24500 |
-|     455 | 0x0262      |         610 |
-|     456 | 0xFFFFEB08  |  4294961928 |
-|     457 | 0xFFFFAD30  |  4294946096 |
-|     458 | 0xFFFF7CA2  |  4294933666 |
-|     459 | 0xFFFEC780  |  4294887296 |
-|     460 | 0x0400      |        1024 |
-|     461 | 0x0800      |        2048 |
-|     462 | 0x0E00      |        3584 |
-|     463 | 0x0600      |        1536 |
-|     464 | 0xFFFFFE00  |  4294966784 |
-|     465 | 0x0A00      |        2560 |
-|     466 | 0x0C00      |        3072 |
-|     467 | 0xFFFFFC00  |  4294966272 |
+|     107 | 0x00E7      |         231 |
+|     108 | 0x00EA      |         234 |
+|     109 | 0x00F0      |         240 |
+|     110 | 0x00F3      |         243 |
+|     111 | 0x0032      |          50 |
+|     112 | 0x0064      |         100 |
+|     113 | 0x008D      |         141 |
+|     114 | 0x00A7      |         167 |
+|     115 | 0x00BE      |         190 |
+|     116 | 0x0066      |         102 |
+|     117 | 0x0067      |         103 |
+|     118 | 0x006C      |         108 |
+|     119 | 0x00C1      |         193 |
+|     120 | 0x00C4      |         196 |
+|     121 | 0x0068      |         104 |
+|     122 | 0x0069      |         105 |
+|     123 | 0x0095      |         149 |
+|     124 | 0x00C3      |         195 |
+|     125 | 0x006A      |         106 |
+|     126 | 0x00AC      |         172 |
+|     127 | 0x00AD      |         173 |
+|     128 | 0x00BF      |         191 |
+|     129 | 0x006D      |         109 |
+|     130 | 0x006E      |         110 |
+|     131 | 0x0093      |         147 |
+|     132 | 0x00C5      |         197 |
+|     133 | 0x0073      |         115 |
+|     134 | 0x00A9      |         169 |
+|     135 | 0x00C0      |         192 |
+|     136 | 0x0075      |         117 |
+|     137 | 0x0076      |         118 |
+|     138 | 0x00C6      |         198 |
+|     139 | 0x00D5      |         213 |
+|     140 | 0x0077      |         119 |
+|     141 | 0x0078      |         120 |
+|     142 | 0x0097      |         151 |
+|     143 | 0x006F      |         111 |
+|     144 | 0x00A6      |         166 |
+|     145 | 0x0070      |         112 |
+|     146 | 0x00A1      |         161 |
+|     147 | 0x007E      |         126 |
+|     148 | 0x00B8      |         184 |
+|     149 | 0x0079      |         121 |
+|     150 | 0x009A      |         154 |
+|     151 | 0x0072      |         114 |
+|     152 | 0x007D      |         125 |
+|     153 | 0x00F7      |         247 |
+|     154 | 0x0071      |         113 |
+|     155 | 0x00AE      |         174 |
+|     156 | 0x00D4      |         212 |
+|     157 | 0x007B      |         123 |
+|     158 | 0x00B0      |         176 |
+|     159 | 0x00FC      |         252 |
+|     160 | 0x007C      |         124 |
+|     161 | 0x009F      |         159 |
+|     162 | 0x00CD      |         205 |
+|     163 | 0x0082      |         130 |
+|     164 | 0x0019      |          25 |
+|     165 | 0x001C      |          28 |
+|     166 | 0x0033      |          51 |
+|     167 | 0x0041      |          65 |
+|     168 | 0x0044      |          68 |
+|     169 | 0x003E      |          62 |
+|     170 | 0x0035      |          53 |
+|     171 | 0x0036      |          54 |
+|     172 | 0x004F      |          79 |
+|     173 | 0x0051      |          81 |
+|     174 | 0x0052      |          82 |
+|     175 | 0x0054      |          84 |
+|     176 | 0x00AF      |         175 |
+|     177 | 0x0057      |          87 |
+|     178 | 0x0058      |          88 |
+|     179 | 0x0059      |          89 |
+|     180 | 0x0053      |          83 |
+|     181 | 0x005A      |          90 |
+|     182 | 0x005B      |          91 |
+|     183 | 0x00AB      |         171 |
+|     184 | 0x005E      |          94 |
+|     185 | 0x005F      |          95 |
+|     186 | 0x0060      |          96 |
+|     187 | 0x0061      |          97 |
+|     188 | 0x00A4      |         164 |
+|     189 | 0x0088      |         136 |
+|     190 | 0x008A      |         138 |
+|     191 | 0x0101      |         257 |
+|     192 | 0x03E8      |        1000 |
+|     193 | 0x000C      |          12 |
+|     194 | 0x0011      |          17 |
+|     195 | 0x0012      |          18 |
+|     196 | 0x0013      |          19 |
+|     197 | 0x001D      |          29 |
+|     198 | 0x0021      |          33 |
+|     199 | 0x0022      |          34 |
+|     200 | 0x0023      |          35 |
+|     201 | 0x0024      |          36 |
+|     202 | 0x0025      |          37 |
+|     203 | 0x0026      |          38 |
+|     204 | 0x0029      |          41 |
+|     205 | 0x001E      |          30 |
+|     206 | 0x002C      |          44 |
+|     207 | 0x002D      |          45 |
+|     208 | 0x0037      |          55 |
+|     209 | 0x002A      |          42 |
+|     210 | 0x002B      |          43 |
+|     211 | 0x0038      |          56 |
+|     212 | 0x002E      |          46 |
+|     213 | 0x0027      |          39 |
+|     214 | 0x005C      |          92 |
+|     215 | 0x002F      |          47 |
+|     216 | 0x005D      |          93 |
+|     217 | 0x0030      |          48 |
+|     218 | 0x0034      |          52 |
+|     219 | 0x0031      |          49 |
+|     220 | 0x0039      |          57 |
+|     221 | 0x003A      |          58 |
+|     222 | 0x003B      |          59 |
+|     223 | 0x003D      |          61 |
+|     224 | 0x0055      |          85 |
+|     225 | 0x0056      |          86 |
+|     226 | 0x003F      |          63 |
+|     227 | 0x0040      |          64 |
+|     228 | 0x0042      |          66 |
+|     229 | 0x0043      |          67 |
+|     230 | 0x0045      |          69 |
+|     231 | 0x0046      |          70 |
+|     232 | 0x004E      |          78 |
+|     233 | 0x0047      |          71 |
+|     234 | 0x0048      |          72 |
+|     235 | 0x0049      |          73 |
+|     236 | 0x004A      |          74 |
+|     237 | 0x004D      |          77 |
+|     238 | 0x004B      |          75 |
+|     239 | 0x004C      |          76 |
+|     240 | 0xFFFD5850  |  4294793296 |
+|     241 | 0x4E20      |       20000 |
+|     242 | 0xFFFCA4A0  |  4294747296 |
+|     243 | 0xA7F8      |       43000 |
+|     244 | 0xFFFFEC78  |  4294962296 |
+|     245 | 0x20B70     |      134000 |
+|     246 | 0xFFF91825  |  4294514725 |
+|     247 | 0xFFFDD168  |  4294824296 |
+|     248 | 0xFFFFD24C  |  4294955596 |
+|     249 | 0xFFFE2F28  |  4294848296 |
+|     250 | 0xBD358     |      775000 |
+|     251 | 0x21728     |      137000 |
+|     252 | 0xFFFC9CD0  |  4294745296 |
+|     253 | 0xFFFE69C0  |  4294863296 |
+|     254 | 0xEA60      |       60000 |
+|     255 | 0x36EE8     |      225000 |
+|     256 | 0xF618      |       63000 |
+|     257 | 0xFFFEFA48  |  4294900296 |
+|     258 | 0x36718     |      223000 |
+|     259 | 0x660D0     |      418000 |
+|     260 | 0xFFF71BE1  |  4294384609 |
+|     261 | 0xFFFFD8F0  |  4294957296 |
+|     262 | 0xFFF8EF68  |  4294504296 |
+|     263 | 0xFFFFA240  |  4294943296 |
+|     264 | 0x72038     |      467000 |
+|     265 | 0xFFFC8560  |  4294739296 |
+|     266 | 0xFFFBF8C0  |  4294703296 |
+|     267 | 0x58DE0     |      364000 |
+|     268 | 0xFFFFCBF6  |  4294953974 |
+|     269 | 0xFFFB4C08  |  4294659080 |
+|     270 | 0x6E988     |      453000 |
+|     271 | 0x78D98     |      495000 |
+|     272 | 0xFFFD8F00  |  4294807296 |
+|     273 | 0xFFF896BC  |  4294481596 |
+|     274 | 0xFFFAD7B0  |  4294629296 |
+|     275 | 0xFFFF09E8  |  4294904296 |
+|     276 | 0xFFFB77D8  |  4294670296 |
+|     277 | 0x53FC0     |      344000 |
+|     278 | 0xFFFCA0B8  |  4294746296 |
+|     279 | 0xFFFA27E8  |  4294584296 |
+|     280 | 0xFFFF92A0  |  4294939296 |
+|     281 | 0xFFFDC5B0  |  4294821296 |
+|     282 | 0x31CE0     |      204000 |
+|     283 | 0x5AD20     |      372000 |
+|     284 | 0xFFFC27A0  |  4294715296 |
+|     285 | 0x52080     |      336000 |
+|     286 | 0x71480     |      464000 |
+|     287 | 0xFFFF5038  |  4294922296 |
+|     288 | 0xFFFF11B8  |  4294906296 |
+|     289 | 0xFFFC0860  |  4294707296 |
+|     290 | 0x668A0     |      420000 |
+|     291 | 0xFFFFF254  |  4294963796 |
+|     292 | 0xFFFD21A0  |  4294779296 |
+|     293 | 0xFFFD73A8  |  4294800296 |
+|     294 | 0xFFFFC180  |  4294951296 |
+|     295 | 0x48440     |      296000 |
+|     296 | 0xFFFC5874  |  4294727796 |
+|     297 | 0xFFFF63C0  |  4294927296 |
+|     298 | 0xFFFFCD38  |  4294954296 |
+|     299 | 0x30188     |      197000 |
+|     300 | 0x15BA8     |       89000 |
+|     301 | 0x32C8      |       13000 |
+|     302 | 0xFFFC0090  |  4294705296 |
+|     303 | 0xFFF78BF0  |  4294413296 |
+|     304 | 0x3D860     |      252000 |
+|     305 | 0xFFF332A8  |  4294128296 |
+|     306 | 0x35390     |      218000 |
+|     307 | 0x0FA0      |        4000 |
+|     308 | 0x7B0C0     |      504000 |
+|     309 | 0xFFFFB1E0  |  4294947296 |
+|     310 | 0x73F78     |      475000 |
+|     311 | 0xFFF5F1C8  |  4294308296 |
+|     312 | 0x14050     |       82000 |
+|     313 | 0xA1608     |      661000 |
+|     314 | 0xFFFD0260  |  4294771296 |
+|     315 | 0xFFF9D5E0  |  4294563296 |
+|     316 | 0xFFFC3B28  |  4294720296 |
+|     317 | 0xFFFB9718  |  4294678296 |
+|     318 | 0xC1D90     |      794000 |
+|     319 | 0xFFF80CD8  |  4294446296 |
+|     320 | 0x86088     |      549000 |
+|     321 | 0xFFFF6F78  |  4294930296 |
+|     322 | 0xFFFF1D70  |  4294909296 |
+|     323 | 0x14438     |       83000 |
+|     324 | 0x1EC30     |      126000 |
+|     325 | 0xB3330     |      734000 |
+|     326 | 0x74360     |      476000 |
+|     327 | 0xFFFB6068  |  4294664296 |
+|     328 | 0xFFFDCD80  |  4294823296 |
+|     329 | 0xFFFF3CB0  |  4294917296 |
+|     330 | 0xFFFE3EC8  |  4294852296 |
+|     331 | 0x2BB38     |      179000 |
+|     332 | 0xFFFEF278  |  4294898296 |
+|     333 | 0x18E70     |      102000 |
+|     334 | 0x4268      |       17000 |
+|     335 | 0xFFFCAC8E  |  4294749326 |
+|     336 | 0x6321      |       25377 |
+|     337 | 0x3CAB4     |      248500 |
+|     338 | 0xFFFFB9B0  |  4294949296 |
+|     339 | 0x17ED0     |       98000 |
+|     340 | 0xC9E78     |      827000 |
+|     341 | 0x9A8A8     |      633000 |
+|     342 | 0xFFFBF0F0  |  4294701296 |
+|     343 | 0xFFF7F180  |  4294439296 |
+|     344 | 0xFFFFC950  |  4294953296 |
+|     345 | 0x6D9E8     |      449000 |
+|     346 | 0xFFFE7B54  |  4294867796 |
+|     347 | 0xCC39      |       52281 |
+|     348 | 0xFFFFA628  |  4294944296 |
+|     349 | 0x64190     |      410000 |
+|     350 | 0x5E3D0     |      386000 |
+|     351 | 0x1A1F8     |      107000 |
+|     352 | 0x4D130     |      315696 |
+|     353 | 0x3FF70     |      262000 |
+|     354 | 0x2C81C     |      182300 |
+|     355 | 0xB1BC0     |      728000 |
+|     356 | 0x9E340     |      648000 |
+|     357 | 0xB478      |       46200 |
+|     358 | 0xFFFD44C8  |  4294788296 |
+|     359 | 0xFFFBBA40  |  4294687296 |
+|     360 | 0x67458     |      423000 |
+|     361 | 0xFFFC1800  |  4294711296 |
+|     362 | 0x58BEC     |      363500 |
+|     363 | 0xFFFE17B8  |  4294842296 |
+|     364 | 0xFFFB73F0  |  4294669296 |
+|     365 | 0xFFFCE708  |  4294764296 |
+|     366 | 0xFFFF9E58  |  4294942296 |
+|     367 | 0x48828     |      297000 |
+|     368 | 0xFFFEDEF0  |  4294893296 |
+|     369 | 0xFFFF38C8  |  4294916296 |
+|     370 | 0xFFFDB228  |  4294816296 |
+|     371 | 0xCF08      |       53000 |
+|     372 | 0xFFFF7F18  |  4294934296 |
+|     373 | 0xFFFBF4D8  |  4294702296 |
+|     374 | 0x2AF8      |       11000 |
+|     375 | 0xFFFE8CE8  |  4294872296 |
+|     376 | 0x5DC0      |       24000 |
+|     377 | 0xFFFC6238  |  4294730296 |
+|     378 | 0xFA00      |       64000 |
+|     379 | 0x51C98     |      335000 |
+|     380 | 0xFFFE94B8  |  4294874296 |
+|     381 | 0xFFFF7B30  |  4294933296 |
+|     382 | 0xFFFEC398  |  4294886296 |
+|     383 | 0xDEA8      |       57000 |
+|     384 | 0xFFF6F398  |  4294374296 |
+|     385 | 0xFFFF2D10  |  4294913296 |
+|     386 | 0xFFFF2540  |  4294911296 |
+|     387 | 0x3FB88     |      261000 |
+|     388 | 0xFFFE9C88  |  4294876296 |
+|     389 | 0x3AD68     |      241000 |
+|     390 | 0x53020     |      340000 |
+|     391 | 0xFFFEF660  |  4294899296 |
+|     392 | 0xFFF6DC28  |  4294368296 |
+|     393 | 0xFFF866B0  |  4294469296 |
+|     394 | 0xFFFD8348  |  4294804296 |
+|     395 | 0x17318     |       95000 |
+|     396 | 0x82208     |      533000 |
+|     397 | 0xBC7A0     |      772000 |
+|     398 | 0x32898     |      207000 |
+|     399 | 0xFFFACBF8  |  4294626296 |
+|     400 | 0xFFF2C930  |  4294101296 |
+|     401 | 0x34BC0     |      216000 |
+|     402 | 0x8A6D8     |      567000 |
+|     403 | 0x93F30     |      606000 |
+|     404 | 0xFFF954F8  |  4294530296 |
+|     405 | 0x1F20C     |      127500 |
+|     406 | 0x39210     |      234000 |
+|     407 | 0xFFFE2B40  |  4294847296 |
+|     408 | 0xFFFFDFA4  |  4294959012 |
+|     409 | 0xFFFFB2A1  |  4294947489 |
+|     410 | 0x6F54      |       28500 |
+|     411 | 0xFFFFE2DC  |  4294959836 |
+|     412 | 0x11620     |       71200 |
+|     413 | 0xFFFFFF24  |  4294967076 |
+|     414 | 0xFFFFF830  |  4294965296 |
+|     415 | 0xFFFFFD44  |  4294966596 |
+|     416 | 0xFFFF32EC  |  4294914796 |
+|     417 | 0x9CAB      |       40107 |
+|     418 | 0xFFFFFEA2  |  4294966946 |
+|     419 | 0x5FAA      |       24490 |
+|     420 | 0x1018      |        4120 |
+|     421 | 0x060E      |        1550 |
+|     422 | 0xFFFF8170  |  4294934896 |
+|     423 | 0xFFFFCF55  |  4294954837 |
+|     424 | 0x3E7F      |       15999 |
+|     425 | 0xFFFFE0C0  |  4294959296 |
+|     426 | 0xFFFFF448  |  4294964296 |
+|     427 | 0xB798      |       47000 |
+|     428 | 0xFFFF8300  |  4294935296 |
+|     429 | 0xFFFFCFC2  |  4294954946 |
+|     430 | 0xFFFFB0DC  |  4294947036 |
+|     431 | 0x41D4      |       16852 |
+|     432 | 0x161C      |        5660 |
+|     433 | 0xFFFFE81A  |  4294961178 |
+|     434 | 0xFFFF1758  |  4294907736 |
+|     435 | 0xFFFFD120  |  4294955296 |
+|     436 | 0x6612      |       26130 |
+|     437 | 0xFFFFFA88  |  4294965896 |
+|     438 | 0x2134      |        8500 |
+|     439 | 0xFFFFF326  |  4294964006 |
+|     440 | 0xFFFFF63A  |  4294964794 |
+|     441 | 0x1F40      |        8000 |
+|     442 | 0xFFFFDFBC  |  4294959036 |
+|     443 | 0xFFFFAEB6  |  4294946486 |
+|     444 | 0xFFFF6104  |  4294926596 |
+|     445 | 0xFFFFE7C8  |  4294961096 |
+|     446 | 0xFFFF8AD0  |  4294937296 |
+|     447 | 0x5014      |       20500 |
+|     448 | 0xFFFFFE66  |  4294966886 |
+|     449 | 0xFFFFC216  |  4294951446 |
+|     450 | 0xFFFFB5C8  |  4294948296 |
+|     451 | 0xFFFFE444  |  4294960196 |
+|     452 | 0x9664      |       38500 |
+|     453 | 0x1174C     |       71500 |
+|     454 | 0xFFFF810C  |  4294934796 |
+|     455 | 0x5FB4      |       24500 |
+|     456 | 0x0262      |         610 |
+|     457 | 0xFFFFEB08  |  4294961928 |
+|     458 | 0xFFFFAD30  |  4294946096 |
+|     459 | 0xFFFF7CA2  |  4294933666 |
+|     460 | 0xFFFEC780  |  4294887296 |
+|     461 | 0x0400      |        1024 |
+|     462 | 0x0800      |        2048 |
+|     463 | 0x0E00      |        3584 |
+|     464 | 0x0600      |        1536 |
+|     465 | 0xFFFFFE00  |  4294966784 |
+|     466 | 0x0A00      |        2560 |
+|     467 | 0x0C00      |        3072 |
+|     468 | 0xFFFFFC00  |  4294966272 |
 
 ## String References
 
-- **223**: You cannot obtain the $0. Come back after sorting your inventory.
-- **231**: Obtained: #.
-- **236**: You do not have enough gil.
-- **14355**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **14357**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
-- **14358**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
-- **14359**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
-- **14360**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
-- **14363**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
-- **14364**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
-- **14365**: Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]
-- **14366**: You do not have enough tabs.
-- **14367**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
-- **14368**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
-- **14369**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
-- **14370**: Accept the reward? [Yes, please./No, thanks.]
-- **14371**: You may change the way you select areas listed in "Teleportation Assistance."
-- **14372**: Any changes to make? [Keep course./Select by region./Select by content.]
-- **14373**: Area selection will now be made by [region/content].
-- **14374**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
-- **14375**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
-- **14377**: $8 has been [added to your list of favorites/removed from your list of favorites].
-- **14378**: Your list of favorites is full. You must remove an existing entry to add new ones.
+- **224**: You cannot obtain the $0. Come back after sorting your inventory.
+- **232**: Obtained: #.
+- **237**: You do not have enough gil.
+- **14356**: Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **14358**: Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records.
+- **14359**: What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]
+- **14360**: The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs.
+- **14361**: No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue.
+- **14364**: All mog tablets have currently been found, so you may teleport to $8 at no charge.
+- **14365**: Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]
+- **14366**: Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]
+- **14367**: You do not have enough tabs.
+- **14368**: The records indicate you have fought valiantly for Vana'diel for $1 hour[/s].
+- **14369**: At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours.
+- **14370**: As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued.
+- **14371**: Accept the reward? [Yes, please./No, thanks.]
+- **14372**: You may change the way you select areas listed in "Teleportation Assistance."
+- **14373**: Any changes to make? [Keep course./Select by region./Select by content.]
+- **14374**: Area selection will now be made by [region/content].
+- **14375**: [Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]
+- **14376**: Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]
+- **14378**: $8 has been [added to your list of favorites/removed from your list of favorites].
+- **14379**: Your list of favorites is full. You must remove an existing entry to add new ones.
 
 ## Events
 
@@ -588,11 +589,11 @@
  13: 0x0056 [0x1A] CALL_SUBROUTINE(address=0x125A)
  14: 0x0059 [0x9D] ExtData[1]->WorkLocal[2] = 0x155F[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0061 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0070
- 16: 0x0069 [0x48] [System] [14357*]:
+ 16: 0x0069 [0x48] [System] [14358*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x006C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x006D [0x01] GOTO 0x0074
- 19: 0x0070 [0x48] [System] [14355*]:
+ 19: 0x0070 [0x48] [System] [14356*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -603,7 +604,7 @@ SUBROUTINE_0074:
 
 SUBROUTINE_007D:
  24: 0x007D [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x00D4
- 25: 0x0085 [0x24] CREATE_DIALOG(message_id=14358*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x0085 [0x24] CREATE_DIALOG(message_id=14359*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x008C [0x25] WAIT_DIALOG_SELECT()
  27: 0x008D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009B
@@ -945,33 +946,33 @@ SUBROUTINE_00D1:
 1380: 80 50 80 51 80 52 80 53  80 54 80 55 80 56 80 2B  .P.Q.R.S.T.U.V.+
 1390: 80 02 80 2C 80 3E 80 57  80 58 80 59 80 5A 80 5B  ...,.>.W.X.Y.Z.[
 13A0: 80 5C 80 5D 80 5E 80 5F  80 60 80 61 80 62 80 63  .\.].^._.`.a.b.c
-13B0: 80 64 80 65 80 66 80 67  80 68 80 69 80 6A 80 18  .d.e.f.g.h.i.j..
-13C0: 80 6B 80 6C 80 6D 80 1E  80 6E 80 6F 80 70 80 71  .k.l.m...n.o.p.q
-13D0: 80 72 80 73 80 74 80 75  80 76 80 77 80 0C 80 78  .r.s.t.u.v.w...x
-13E0: 80 79 80 7A 80 7B 80 7C  80 7D 80 7E 80 7F 80 80  .y.z.{.|.}.~....
-13F0: 80 81 80 82 80 83 80 84  80 85 80 86 80 07 80 87  ................
-1400: 80 88 80 89 80 8A 80 8B  80 8C 80 8D 80 3C 80 8E  .............<..
-1410: 80 8F 80 90 80 91 80 92  80 25 80 93 80 94 80 3A  .........%.....:
-1420: 80 95 80 96 80 97 80 98  80 99 80 34 80 9A 80 9B  ...........4....
-1430: 80 9C 80 9D 80 59 80 9E  80 9F 80 A0 80 A1 80 A2  .....Y..........
-1440: 80 03 80 24 80 A3 80 1F  80 A4 80 A5 80 A6 80 A7  ...$............
-1450: 80 A8 80 A9 80 AA 80 AB  80 57 80 AC 80 AD 80 AE  .........W......
-1460: 80 AF 80 B0 80 B1 80 B2  80 B3 80 B4 80 B5 80 B6  ................
-1470: 80 B7 80 B8 80 B9 80 BA  80 35 80 BB 80 BC 80 BD  .........5......
-1480: 80 BE 80 00 80 00 80 00  80 00 80 00 80 00 80 BF  ................
-1490: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14A0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14B0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14C0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14D0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14E0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-14F0: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1500: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1510: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1520: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1530: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1540: 80 BF 80 BF 80 BF 80 BF  80 BF 80 BF 80 BF 80 BF  ................
-1550: 80 BF 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+13B0: 80 64 80 65 80 66 80 67  80 68 80 69 80 6A 80 6B  .d.e.f.g.h.i.j.k
+13C0: 80 6C 80 6D 80 6E 80 1E  80 6F 80 70 80 71 80 72  .l.m.n...o.p.q.r
+13D0: 80 73 80 74 80 75 80 76  80 77 80 78 80 0C 80 79  .s.t.u.v.w.x...y
+13E0: 80 7A 80 7B 80 7C 80 7D  80 7E 80 7F 80 80 80 81  .z.{.|.}.~......
+13F0: 80 82 80 83 80 84 80 85  80 86 80 87 80 07 80 88  ................
+1400: 80 89 80 8A 80 8B 80 8C  80 8D 80 8E 80 3C 80 8F  .............<..
+1410: 80 90 80 91 80 92 80 93  80 25 80 94 80 95 80 3A  .........%.....:
+1420: 80 96 80 97 80 98 80 99  80 9A 80 34 80 9B 80 9C  ...........4....
+1430: 80 9D 80 9E 80 59 80 9F  80 A0 80 A1 80 A2 80 A3  .....Y..........
+1440: 80 03 80 24 80 A4 80 1F  80 A5 80 A6 80 A7 80 A8  ...$............
+1450: 80 A9 80 AA 80 AB 80 AC  80 57 80 AD 80 AE 80 AF  .........W......
+1460: 80 B0 80 B1 80 B2 80 B3  80 B4 80 B5 80 B6 80 B7  ................
+1470: 80 B8 80 B9 80 BA 80 BB  80 35 80 BC 80 BD 80 BE  .........5......
+1480: 80 BF 80 00 80 00 80 00  80 00 80 00 80 00 80 C0  ................
+1490: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14A0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14B0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14C0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14D0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14E0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+14F0: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1500: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1510: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1520: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1530: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1540: 80 C0 80 C0 80 C0 80 C0  80 C0 80 C0 80 C0 80 C0  ................
+1550: 80 C0 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
 1560: 80 00 80 00 80 00 80 0C  80 0D 80 00 80 00 80 00  ................
 1570: 80 00 80 00 80 00 80 00  80 00 80 00 80 0C 80 00  ................
 1580: 80 00 80 00 80 00 80 00  80 00 80 0B 80 00 80 00  ................
@@ -988,81 +989,81 @@ SUBROUTINE_00D1:
 1630: 80 0B 80 0C 80 0D 80 07  80 2B 80 10 80 10 80 10  .........+......
 1640: 80 10 80 21 80 21 80 21  80 21 80 21 80 01 80 01  ...!.!.!.!.!....
 1650: 80 01 80 01 80 01 80 02  80 02 80 02 80 02 80 03  ................
-1660: 80 03 80 03 80 03 80 C0  80 C0 80 C0 80 04 80 04  ................
+1660: 80 03 80 03 80 03 80 C1  80 C1 80 C1 80 04 80 04  ................
 1670: 80 04 80 04 80 04 80 2A  80 2A 80 2A 80 2A 80 22  .......*.*.*.*."
-1680: 80 22 80 05 80 05 80 C1  80 C1 80 C1 80 C2 80 C2  ."..............
-1690: 80 C2 80 C3 80 C3 80 C3  80 2C 80 2C 80 2C 80 2C  .........,.,.,.,
+1680: 80 22 80 05 80 05 80 C2  80 C2 80 C2 80 C3 80 C3  ."..............
+1690: 80 C3 80 C4 80 C4 80 C4  80 2C 80 2C 80 2C 80 2C  .........,.,.,.,
 16A0: 80 38 80 38 80 38 80 38  80 39 80 39 80 39 80 23  .8.8.8.8.9.9.9.#
-16B0: 80 24 80 A3 80 A3 80 A3  80 A3 80 1F 80 1F 80 1F  .$..............
-16C0: 80 A4 80 C4 80 C4 80 C4  80 06 80 06 80 36 80 36  .............6.6
-16D0: 80 36 80 C5 80 C5 80 C5  80 C6 80 C6 80 C6 80 C6  .6..............
-16E0: 80 C7 80 C7 80 C7 80 C8  80 C8 80 C8 80 C9 80 CA  ................
+16B0: 80 24 80 A4 80 A4 80 A4  80 A4 80 1F 80 1F 80 1F  .$..............
+16C0: 80 A5 80 C5 80 C5 80 C5  80 06 80 06 80 36 80 36  .............6.6
+16D0: 80 36 80 C6 80 C6 80 C6  80 C7 80 C7 80 C7 80 C7  .6..............
+16E0: 80 C8 80 C8 80 C8 80 C9  80 C9 80 C9 80 CA 80 CB  ................
 16F0: 80 33 80 00 80 00 80 00  80 00 80 00 80 00 80 24  .3.............$
-1700: 80 A3 80 1E 80 1F 80 B3  80 AE 80 00 80 C6 80 C3  ................
-1710: 80 CB 80 A4 80 0B 80 CC  80 CD 80 CE 80 CF 80 0C  ................
-1720: 80 C4 80 C8 80 38 80 0D  80 B9 80 6E 80 D0 80 07  .....8.....n....
-1730: 80 06 80 C7 80 39 80 2B  80 2C 80 D1 80 D2 80 36  .....9.+.,.....6
-1740: 80 33 80 D3 80 AA 80 02  80 C5 80 C9 80 23 80 10  .3...........#..
-1750: 80 D4 80 21 80 CA 80 01  80 D5 80 3E 80 03 80 D6  ...!.......>....
-1760: 80 D7 80 C0 80 D8 80 AD  80 04 80 B7 80 A5 80 A9  ................
-1770: 80 2A 80 D9 80 57 80 AC  80 22 80 DA 80 B8 80 C1  .*...W..."......
-1780: 80 C2 80 05 80 DB 80 DC  80 DD 80 3D 80 DE 80 A8  ...........=....
-1790: 80 B5 80 DF 80 B4 80 B2  80 E0 80 E1 80 E2 80 E3  ................
-17A0: 80 AB 80 B0 80 E4 80 A7  80 A6 80 E5 80 E6 80 E7  ................
-17B0: 80 B1 80 E8 80 E9 80 EA  80 EB 80 EC 80 ED 80 EE  ................
-17C0: 80 BA 80 00 80 00 80 00  80 00 80 00 80 00 80 EF  ................
-17D0: 80 F0 80 F1 80 F2 80 F3  80 F4 80 F5 80 F6 80 F7  ................
-17E0: 80 F8 80 F9 80 FA 80 FB  80 FC 80 FD 80 FE 80 FF  ................
-17F0: 80 00 81 01 81 02 81 03  81 04 81 05 81 06 81 07  ................
-1800: 81 08 81 09 81 0A 81 0B  81 0C 81 0D 81 0E 81 0F  ................
-1810: 81 10 81 11 81 12 81 13  81 14 81 15 81 16 81 17  ................
-1820: 81 18 81 19 81 1A 81 1B  81 1C 81 1D 81 1E 81 64  ...............d
-1830: 80 1F 81 20 81 21 81 22  81 23 81 24 81 25 81 26  ... .!.".#.$.%.&
-1840: 81 27 81 01 81 28 81 29  81 2A 81 FD 80 2B 81 2C  .'...(.).*...+.,
-1850: 81 2D 81 2E 81 1F 81 2F  81 F1 80 30 81 31 81 32  .-...../...0.1.2
-1860: 81 33 81 34 81 35 81 36  81 37 81 38 81 39 81 3A  .3.4.5.6.7.8.9.:
-1870: 81 02 81 3B 81 3C 81 3D  81 3E 81 3F 81 40 81 0A  ...;.<.=.>.?.@..
-1880: 81 41 81 42 81 43 81 44  81 45 81 46 81 47 81 1A  .A.B.C.D.E.F.G..
-1890: 81 48 81 00 80 00 80 00  80 00 80 00 80 00 80 69  .H.............i
-18A0: 80 49 81 4A 81 4B 81 4C  81 4D 81 4E 81 62 80 4F  .I.J.K.L.M.N.b.O
-18B0: 81 50 81 51 81 52 81 53  81 54 81 55 81 56 81 57  .P.Q.R.S.T.U.V.W
-18C0: 81 58 81 04 81 59 81 5A  81 62 80 5B 81 BF 80 5C  .X...Y.Z.b.[...\
-18D0: 81 5D 81 5E 81 5B 81 5F  81 60 81 61 81 62 81 63  .].^.[._.`.a.b.c
-18E0: 81 64 81 65 81 66 81 67  81 68 81 29 81 69 81 6A  .d.e.f.g.h.).i.j
-18F0: 81 6B 81 6C 81 6D 81 6E  81 6F 81 70 81 71 81 72  .k.l.m.n.o.p.q.r
-1900: 81 73 81 74 81 75 81 76  81 00 81 77 81 78 81 79  .s.t.u.v...w.x.y
-1910: 81 3A 81 7A 81 7B 81 7C  81 7D 81 7E 81 13 81 7F  .:.z.{.|.}.~....
-1920: 81 80 81 81 81 82 81 55  81 7E 81 52 81 FC 80 83  .......U.~.R....
-1930: 81 84 81 73 81 34 81 85  81 86 81 87 81 88 81 89  ...s.4..........
-1940: 81 59 81 8A 81 8B 81 8C  81 8D 81 8E 81 8F 81 5B  .Y.............[
-1950: 81 90 81 91 81 92 81 04  81 93 81 94 81 95 81 6D  ...............m
-1960: 81 96 81 00 80 00 80 00  80 00 80 00 80 00 80 32  ...............2
-1970: 81 00 80 97 81 63 80 17  81 00 80 98 81 34 81 2C  .....c.......4.,
-1980: 80 00 80 99 81 9A 81 9B  81 9C 81 86 81 9D 81 5A  ...............Z
-1990: 80 9D 81 9E 81 9F 81 A0  81 00 80 04 81 A1 81 A2  ................
-19A0: 81 A3 81 A4 81 A5 81 A6  81 A7 81 A8 81 A9 81 AA  ................
-19B0: 81 AB 81 AC 81 AD 81 AE  81 AF 81 59 80 B0 81 B1  ...........Y....
-19C0: 81 4D 80 06 81 B2 81 34  81 B3 81 00 80 3C 80 17  .M.....4.....<..
-19D0: 81 B4 81 B5 81 B6 81 B7  81 B8 81 B9 81 BA 81 BB  ................
-19E0: 81 00 80 06 81 04 81 BF  80 00 80 A8 81 3B 80 80  .............;..
-19F0: 81 B8 81 BC 81 BD 81 00  80 B2 81 34 81 06 81 BE  ...........4....
-1A00: 81 BF 81 00 80 C0 81 29  81 BF 80 C1 81 C2 81 25  .......).......%
-1A10: 81 9F 81 00 80 C3 81 C4  81 C5 81 C6 81 C7 81 A5  ................
-1A20: 81 C8 81 6D 81 C9 81 CA  81 A8 81 B0 81 CB 81 B2  ...m............
+1700: 80 A4 80 1E 80 1F 80 B4  80 AF 80 00 80 C7 80 C4  ................
+1710: 80 CC 80 A5 80 0B 80 CD  80 CE 80 CF 80 D0 80 0C  ................
+1720: 80 C5 80 C9 80 38 80 0D  80 BA 80 6F 80 D1 80 07  .....8.....o....
+1730: 80 06 80 C8 80 39 80 2B  80 2C 80 D2 80 D3 80 36  .....9.+.,.....6
+1740: 80 33 80 D4 80 AB 80 02  80 C6 80 CA 80 23 80 10  .3...........#..
+1750: 80 D5 80 21 80 CB 80 01  80 D6 80 3E 80 03 80 D7  ...!.......>....
+1760: 80 D8 80 C1 80 D9 80 AE  80 04 80 B8 80 A6 80 AA  ................
+1770: 80 2A 80 DA 80 57 80 AD  80 22 80 DB 80 B9 80 C2  .*...W..."......
+1780: 80 C3 80 05 80 DC 80 DD  80 DE 80 3D 80 DF 80 A9  ...........=....
+1790: 80 B6 80 E0 80 B5 80 B3  80 E1 80 E2 80 E3 80 E4  ................
+17A0: 80 AC 80 B1 80 E5 80 A8  80 A7 80 E6 80 E7 80 E8  ................
+17B0: 80 B2 80 E9 80 EA 80 EB  80 EC 80 ED 80 EE 80 EF  ................
+17C0: 80 BB 80 00 80 00 80 00  80 00 80 00 80 00 80 F0  ................
+17D0: 80 F1 80 F2 80 F3 80 F4  80 F5 80 F6 80 F7 80 F8  ................
+17E0: 80 F9 80 FA 80 FB 80 FC  80 FD 80 FE 80 FF 80 00  ................
+17F0: 81 01 81 02 81 03 81 04  81 05 81 06 81 07 81 08  ................
+1800: 81 09 81 0A 81 0B 81 0C  81 0D 81 0E 81 0F 81 10  ................
+1810: 81 11 81 12 81 13 81 14  81 15 81 16 81 17 81 18  ................
+1820: 81 19 81 1A 81 1B 81 1C  81 1D 81 1E 81 1F 81 64  ...............d
+1830: 80 20 81 21 81 22 81 23  81 24 81 25 81 26 81 27  . .!.".#.$.%.&.'
+1840: 81 28 81 02 81 29 81 2A  81 2B 81 FE 80 2C 81 2D  .(...).*.+...,.-
+1850: 81 2E 81 2F 81 20 81 30  81 F2 80 31 81 32 81 33  .../. .0...1.2.3
+1860: 81 34 81 35 81 36 81 37  81 38 81 39 81 3A 81 3B  .4.5.6.7.8.9.:.;
+1870: 81 03 81 3C 81 3D 81 3E  81 3F 81 40 81 41 81 0B  ...<.=.>.?.@.A..
+1880: 81 42 81 43 81 44 81 45  81 46 81 47 81 48 81 1B  .B.C.D.E.F.G.H..
+1890: 81 49 81 00 80 00 80 00  80 00 80 00 80 00 80 69  .I.............i
+18A0: 80 4A 81 4B 81 4C 81 4D  81 4E 81 4F 81 62 80 50  .J.K.L.M.N.O.b.P
+18B0: 81 51 81 52 81 53 81 54  81 55 81 56 81 57 81 58  .Q.R.S.T.U.V.W.X
+18C0: 81 59 81 05 81 5A 81 5B  81 62 80 5C 81 C0 80 5D  .Y...Z.[.b.\...]
+18D0: 81 5E 81 5F 81 5C 81 60  81 61 81 62 81 63 81 64  .^._.\.`.a.b.c.d
+18E0: 81 65 81 66 81 67 81 68  81 69 81 2A 81 6A 81 6B  .e.f.g.h.i.*.j.k
+18F0: 81 6C 81 6D 81 6E 81 6F  81 70 81 71 81 72 81 73  .l.m.n.o.p.q.r.s
+1900: 81 74 81 75 81 76 81 77  81 01 81 78 81 79 81 7A  .t.u.v.w...x.y.z
+1910: 81 3B 81 7B 81 7C 81 7D  81 7E 81 7F 81 14 81 80  .;.{.|.}.~......
+1920: 81 81 81 82 81 83 81 56  81 7F 81 53 81 FD 80 84  .......V...S....
+1930: 81 85 81 74 81 35 81 86  81 87 81 88 81 89 81 8A  ...t.5..........
+1940: 81 5A 81 8B 81 8C 81 8D  81 8E 81 8F 81 90 81 5C  .Z.............\
+1950: 81 91 81 92 81 93 81 05  81 94 81 95 81 96 81 6E  ...............n
+1960: 81 97 81 00 80 00 80 00  80 00 80 00 80 00 80 33  ...............3
+1970: 81 00 80 98 81 63 80 18  81 00 80 99 81 35 81 2C  .....c.......5.,
+1980: 80 00 80 9A 81 9B 81 9C  81 9D 81 87 81 9E 81 5A  ...............Z
+1990: 80 9E 81 9F 81 A0 81 A1  81 00 80 05 81 A2 81 A3  ................
+19A0: 81 A4 81 A5 81 A6 81 A7  81 A8 81 A9 81 AA 81 AB  ................
+19B0: 81 AC 81 AD 81 AE 81 AF  81 B0 81 59 80 B1 81 B2  ...........Y....
+19C0: 81 4D 80 07 81 B3 81 35  81 B4 81 00 80 3C 80 18  .M.....5.....<..
+19D0: 81 B5 81 B6 81 B7 81 B8  81 B9 81 BA 81 BB 81 BC  ................
+19E0: 81 00 80 07 81 05 81 C0  80 00 80 A9 81 3B 80 81  .............;..
+19F0: 81 B9 81 BD 81 BE 81 00  80 B3 81 35 81 07 81 BF  ...........5....
+1A00: 81 C0 81 00 80 C1 81 2A  81 C0 80 C2 81 C3 81 26  .......*.......&
+1A10: 81 A0 81 00 80 C4 81 C5  81 C6 81 C7 81 C8 81 A6  ................
+1A20: 81 C9 81 6E 81 CA 81 CB  81 A9 81 B1 81 CC 81 B3  ...n............
 1A30: 81 00 80 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
-1A40: 80 00 80 CC 81 CD 81 CC  81 CE 81 CD 81 CF 81 00  ................
-1A50: 80 00 80 D0 81 D1 81 12  80 CD 81 D2 81 D2 81 CC  ................
-1A60: 81 D2 81 00 80 CD 81 CF  81 D2 81 12 80 D1 81 12  ................
-1A70: 80 CC 81 D2 81 CC 81 00  80 D3 81 D2 81 00 80 D2  ................
-1A80: 81 CC 81 00 80 D1 81 D0  81 CF 81 D2 81 CD 81 12  ................
-1A90: 80 D1 81 D3 81 CC 81 CC  81 CD 81 00 80 CC 81 12  ................
-1AA0: 80 D1 81 CD 81 12 80 CC  81 CD 81 D2 81 00 80 CF  ................
-1AB0: 81 CC 81 CD 81 00 80 12  80 D1 81 CC 81 D2 81 D3  ................
-1AC0: 81 CD 81 D3 81 CC 81 CD  81 CC 81 CC 81 12 80 CD  ................
-1AD0: 81 12 80 CD 81 CD 81 CF  81 CC 81 12 80 CC 81 D2  ................
-1AE0: 81 CD 81 D1 81 D2 81 CC  81 D2 81 00 80 D0 81 CC  ................
-1AF0: 81 CD 81 D2 81 D0 81 00  80 D2 81 CD 81 D2 81 CC  ................
-1B00: 81 CE 81 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
+1A40: 80 00 80 CD 81 CE 81 CD  81 CF 81 CE 81 D0 81 00  ................
+1A50: 80 00 80 D1 81 D2 81 12  80 CE 81 D3 81 D3 81 CD  ................
+1A60: 81 D3 81 00 80 CE 81 D0  81 D3 81 12 80 D2 81 12  ................
+1A70: 80 CD 81 D3 81 CD 81 00  80 D4 81 D3 81 00 80 D3  ................
+1A80: 81 CD 81 00 80 D2 81 D1  81 D0 81 D3 81 CE 81 12  ................
+1A90: 80 D2 81 D4 81 CD 81 CD  81 CE 81 00 80 CD 81 12  ................
+1AA0: 80 D2 81 CE 81 12 80 CD  81 CE 81 D3 81 00 80 D0  ................
+1AB0: 81 CD 81 CE 81 00 80 12  80 D2 81 CD 81 D3 81 D4  ................
+1AC0: 81 CE 81 D4 81 CD 81 CE  81 CD 81 CD 81 12 80 CE  ................
+1AD0: 81 12 80 CE 81 CE 81 D0  81 CD 81 12 80 CD 81 D3  ................
+1AE0: 81 CE 81 D2 81 D3 81 CD  81 D3 81 00 80 D1 81 CD  ................
+1AF0: 81 CE 81 D3 81 D1 81 00  80 D3 81 CE 81 D3 81 CD  ................
+1B00: 81 CF 81 00 80 00 80 00  80 00 80 00 80 00 80 00  ................
 1B10: 80 00 80 0C 80 07 80 0C  80 10 80 07 80 0D 80 00  ................
 1B20: 80 00 80 10 80 2B 80 0B  80 07 80 33 80 33 80 0C  .....+.....3.3..
 1B30: 80 33 80 00 80 07 80 0D  80 33 80 0B 80 2B 80 0B  .3.......3...+..
@@ -1097,11 +1098,11 @@ SUBROUTINE_00D1:
  13: 0x012B [0x1A] CALL_SUBROUTINE(address=0x125A)
  14: 0x012E [0x9D] ExtData[1]->WorkLocal[2] = 0x155F[ExtData[1]->WorkLocal[4]] // Read WORD
  15: 0x0136 [0x02] IF !(ExtData[1]->WorkLocal[2] == 4*) GOTO 0x0145
- 16: 0x013E [0x48] [System] [14357*]:
+ 16: 0x013E [0x48] [System] [14358*]:
     → "Before you lies a survival guide penned by the Servicemen's Mutual Aid Network. It touches on such topics as teleportation and battle records."
  17: 0x0141 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0142 [0x01] GOTO 0x0149
- 19: 0x0145 [0x48] [System] [14355*]:
+ 19: 0x0145 [0x48] [System] [14356*]:
     → "Before you lies a survival guide penned by the Adventurers' Mutual Aid Network. It touches on such topics as teleportation and battle records."
  20: 0x0148 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1112,7 +1113,7 @@ SUBROUTINE_0149:
 
 SUBROUTINE_0152:
  24: 0x0152 [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x01A9
- 25: 0x015A [0x24] CREATE_DIALOG(message_id=14358*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
+ 25: 0x015A [0x24] CREATE_DIALOG(message_id=14359*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[28])
     → "What chapter will you read? [None./"Teleportation Assistance."/"Field Support."/"Other mysteries."]"
  26: 0x0161 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0162 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0170
@@ -1139,14 +1140,14 @@ SUBROUTINE_01A6:
  44: 0x01AA [0x00] END_REQSTACK()
 
 SUBROUTINE_01AB:
- 45: 0x01AB [0x48] [System] [14371*]:
+ 45: 0x01AB [0x48] [System] [14372*]:
     → "You may change the way you select areas listed in "Teleportation Assistance.""
  46: 0x01AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x01AF [0x03] ExtData[1]->WorkLocal[45] = ExtData[1]->WorkLocal[1]
  48: 0x01B4 [0x0B] ExtData[1]->WorkLocal[45]++
  49: 0x01B7 [0x06] ExtData[1]->WorkLocal[44] = 0
  50: 0x01BA [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[44], bit_index_work_offset=0*, condition_work_offset=1*)
- 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=14372*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
+ 51: 0x01C1 [0x24] CREATE_DIALOG(message_id=14373*, default_option=ExtData[1]->WorkLocal[45], option_flags=ExtData[1]->WorkLocal[44])
     → "Any changes to make? [Keep course./Select by region./Select by content.]"
  52: 0x01C8 [0x25] WAIT_DIALOG_SELECT()
  53: 0x01C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D4
@@ -1158,7 +1159,7 @@ SUBROUTINE_01AB:
  59: 0x01F3 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  60: 0x01F5 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  61: 0x01F7 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 62: 0x01FC [0x48] [System] [14373*]:
+ 62: 0x01FC [0x48] [System] [14374*]:
     → "Area selection will now be made by [region/content]."
  63: 0x01FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0200 [0x01] GOTO 0x0232
@@ -1169,7 +1170,7 @@ SUBROUTINE_01AB:
  69: 0x0222 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  70: 0x0224 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  71: 0x0226 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[1]
- 72: 0x022B [0x48] [System] [14373*]:
+ 72: 0x022B [0x48] [System] [14374*]:
     → "Area selection will now be made by [region/content]."
  73: 0x022E [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x022F [0x01] GOTO 0x0232
@@ -1180,7 +1181,7 @@ SUBROUTINE_0232:
 SUBROUTINE_02F3:
  76: 0x02F3 [0x1A] CALL_SUBROUTINE(address=0x042C)
  77: 0x02F6 [0x06] ExtData[1]->WorkLocal[33] = 0
- 78: 0x02F9 [0x48] [System] [14359*]:
+ 78: 0x02F9 [0x48] [System] [14360*]:
     → "The meticulously illuminated text within explains that adventurers may travel to the location of any previous books visited after paying a sum of gil or the requisite amount of tabs."
  79: 0x02FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x02FD [0x02] IF !(ExtData[1]->WorkLocal[1] == 0*) GOTO 0x03C6
@@ -1191,13 +1192,13 @@ SUBROUTINE_030B:
  83: 0x030B [0x02] IF !(ExtData[1]->WorkLocal[39] == 0*) GOTO 0x03C3
  84: 0x0313 [0x1A] CALL_SUBROUTINE(address=0x0AD7)
  85: 0x0316 [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x0328
- 86: 0x031E [0x48] [System] [14360*]:
+ 86: 0x031E [0x48] [System] [14361*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
  87: 0x0321 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0322 [0x05] ExtData[1]->WorkLocal[11] = 1
  89: 0x0325 [0x01] GOTO 0x03C0
  90: 0x0328 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[33]
- 91: 0x032D [0x24] CREATE_DIALOG(message_id=14375*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
+ 91: 0x032D [0x24] CREATE_DIALOG(message_id=14376*, default_option=ExtData[1]->WorkLocal[38], option_flags=ExtData[1]->WorkLocal[37])
     → "Travel to which region? [On second thought, none./Select from amongst favorites./[San d'Oria/Movalpolos]./[Bastok/Tavnazian Arch]./[Windurst/Lumoria]./[Jeuno/Mamool Ja Savage]./[Tavnazia/Halvung]./[West. Aht Urhgan/Arrapago Is]./[Adoulin Isles/Ruins of Alzadaal]./[Ronfaure/Ronfaure Front]./[Zulkheim/Norvallen Front]./[Norvallen/Gustaberg Front]./[Gustaberg/Derfland Front]./[Derfland/Sarutabaruta Front]./[Sarutabaruta/Aragoneu Front]./[Kolshushu/Fauregandi Front]./[Aragoneu/Valdeaunia Front]./[Fauregandi/East. Ulbuka]./[Valdeaunia/Ra'Kaznar]./[Qufim/]./[Li'Telor/]./[Kuzotz/]./[Vollbow/]./[Elshimo Low/]./[Elshimo Up/]./[Tu'Lia/]./Previous page./Next page.]"
  92: 0x0334 [0x25] WAIT_DIALOG_SELECT()
  93: 0x0335 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0343
@@ -1245,12 +1246,12 @@ SUBROUTINE_03D4:
 127: 0x03D4 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0428
 128: 0x03DC [0x1A] CALL_SUBROUTINE(address=0x0A6C)
 129: 0x03DF [0x02] IF !(ExtData[1]->WorkLocal[37] == 4294967294*) GOTO 0x03F1
-130: 0x03E7 [0x48] [System] [14360*]:
+130: 0x03E7 [0x48] [System] [14361*]:
     → "No other survival guide locations have been recorded. Visiting another one would certainly alleviate this issue."
 131: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 132: 0x03EB [0x05] ExtData[1]->WorkLocal[11] = 1
 133: 0x03EE [0x01] GOTO 0x0425
-134: 0x03F1 [0x24] CREATE_DIALOG(message_id=14374*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
+134: 0x03F1 [0x24] CREATE_DIALOG(message_id=14375*, default_option=ExtData[1]->WorkLocal[42], option_flags=ExtData[1]->WorkLocal[41])
     → "[Nowhere for now./Select from amongst favorites./Original release areas./Rise of the Zilart areas./Chains of Promathia areas./Treasures of Aht Urhgan areas./Wings of the Goddess areas./././././././Seekers of Adoulin areas.]"
 135: 0x03F8 [0x25] WAIT_DIALOG_SELECT()
 136: 0x03F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0407
@@ -1351,7 +1352,7 @@ SUBROUTINE_055C:
 205: 0x056C [0x9D] ExtData[1]->WorkLocal[17] = 0x148F[ExtData[1]->WorkLocal[59]] // Read WORD
 206: 0x0574 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 207: 0x0579 [0x06] ExtData[1]->WorkLocal[17] = 0
-208: 0x057C [0x48] [System] [14363*]:
+208: 0x057C [0x48] [System] [14364*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 209: 0x057F [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0580 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1362,7 +1363,7 @@ SUBROUTINE_055C:
 215: 0x0596 [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_059B:
-216: 0x059B [0x24] CREATE_DIALOG(message_id=14364*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+216: 0x059B [0x24] CREATE_DIALOG(message_id=14365*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 217: 0x05A2 [0x25] WAIT_DIALOG_SELECT()
 218: 0x05A3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05B4
@@ -1419,7 +1420,7 @@ SUBROUTINE_0627:
 
 SUBROUTINE_068A:
 265: 0x068A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-266: 0x068F [0x24] CREATE_DIALOG(message_id=14365*, default_option=ExtData[1]->WorkLocal[77], option_flags=ExtData[1]->WorkLocal[78])
+266: 0x068F [0x24] CREATE_DIALOG(message_id=14366*, default_option=ExtData[1]->WorkLocal[77], option_flags=ExtData[1]->WorkLocal[78])
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]"
 267: 0x0696 [0x25] WAIT_DIALOG_SELECT()
 268: 0x0697 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06A2
@@ -1433,7 +1434,7 @@ SUBROUTINE_06A2:
 274: 0x06B5 [0x01] GOTO 0x07D4
 275: 0x06B8 [0x02] IF !(ExtData[1]->WorkLocal[77] == 1*) GOTO 0x0719
 276: 0x06C0 [0x02] IF !(ExtData[1]->WorkLocal[3] >= ExtData[1]->WorkLocal[17]) GOTO 0x06D2
-277: 0x06C8 [0x48] [System] [236*]:
+277: 0x06C8 [0x48] [System] [237*]:
     → "You do not have enough gil."
 278: 0x06CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x06CC [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -1457,7 +1458,7 @@ SUBROUTINE_0716:
 295: 0x0716 [0x01] GOTO 0x07D4
 296: 0x0719 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x077A
 297: 0x0721 [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x0733
-298: 0x0729 [0x48] [System] [14366*]:
+298: 0x0729 [0x48] [System] [14367*]:
     → "You do not have enough tabs."
 299: 0x072C [0x23] WAIT_FOR_DIALOG_INTERACTION
 300: 0x072D [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -1520,7 +1521,7 @@ SUBROUTINE_07E9:
 347: 0x080A [0x9D] Work_Zone[3] = 0x13BF[ExtData[1]->WorkLocal[59]] // Read WORD
 348: 0x0812 [0x9D] Work_Zone[4] = 0x16FF[ExtData[1]->WorkLocal[59]] // Read WORD
 349: 0x081A [0x03] Work_Zone_1700[25] = 1*
-350: 0x081F [0x48] [System] [14377*]:
+350: 0x081F [0x48] [System] [14378*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 351: 0x0822 [0x23] WAIT_FOR_DIALOG_INTERACTION
 352: 0x0823 [0x06] ExtData[1]->WorkLocal[47] = 0
@@ -1535,13 +1536,13 @@ SUBROUTINE_07E9:
 361: 0x084D [0x9D] Work_Zone[3] = 0x13BF[ExtData[1]->WorkLocal[59]] // Read WORD
 362: 0x0855 [0x9D] Work_Zone[4] = 0x16FF[ExtData[1]->WorkLocal[59]] // Read WORD
 363: 0x085D [0x03] Work_Zone_1700[25] = 0*
-364: 0x0862 [0x48] [System] [14377*]:
+364: 0x0862 [0x48] [System] [14378*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 365: 0x0865 [0x23] WAIT_FOR_DIALOG_INTERACTION
 366: 0x0866 [0x05] ExtData[1]->WorkLocal[47] = 1
 367: 0x0869 [0x01] GOTO 0x08E7
 368: 0x086C [0x03] ExtData[1]->WorkLocal[71] = ExtData[1]->WorkLocal[59]
-369: 0x0871 [0x48] [System] [14378*]:
+369: 0x0871 [0x48] [System] [14379*]:
     → "Your list of favorites is full. You must remove an existing entry to add new ones."
 370: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
 371: 0x0875 [0x1A] CALL_SUBROUTINE(address=0x09C8)
@@ -1563,7 +1564,7 @@ SUBROUTINE_088C:
 385: 0x08C3 [0x9D] Work_Zone[3] = 0x13BF[ExtData[1]->WorkLocal[71]] // Read WORD
 386: 0x08CB [0x9D] Work_Zone[4] = 0x16FF[ExtData[1]->WorkLocal[71]] // Read WORD
 387: 0x08D3 [0x03] Work_Zone_1700[25] = 0*
-388: 0x08D8 [0x48] [System] [14377*]:
+388: 0x08D8 [0x48] [System] [14378*]:
     → "$8 has been [added to your list of favorites/removed from your list of favorites]."
 389: 0x08DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 390: 0x08DC [0x05] ExtData[1]->WorkLocal[47] = 1
@@ -1775,7 +1776,7 @@ SUBROUTINE_0C32:
 550: 0x0C42 [0x9D] ExtData[1]->WorkLocal[17] = 0x148F[ExtData[1]->WorkLocal[59]] // Read WORD
 551: 0x0C4A [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[16]
 552: 0x0C4F [0x06] ExtData[1]->WorkLocal[17] = 0
-553: 0x0C52 [0x48] [System] [14363*]:
+553: 0x0C52 [0x48] [System] [14364*]:
     → "All mog tablets have currently been found, so you may teleport to $8 at no charge."
 554: 0x0C55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 555: 0x0C56 [0x05] ExtData[1]->WorkLocal[76] = 1
@@ -1786,7 +1787,7 @@ SUBROUTINE_0C32:
 560: 0x0C6C [0x03] Work_Zone_1700[25] = 0*
 
 SUBROUTINE_0C71:
-561: 0x0C71 [0x24] CREATE_DIALOG(message_id=14364*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
+561: 0x0C71 [0x24] CREATE_DIALOG(message_id=14365*, default_option=ExtData[1]->WorkLocal[77], option_flags=0*)
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Up and away!/I'm down and out.]"
 562: 0x0C78 [0x25] WAIT_DIALOG_SELECT()
 563: 0x0C79 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C8A
@@ -1842,7 +1843,7 @@ SUBROUTINE_0CFA:
 
 SUBROUTINE_0D5D:
 609: 0x0D5D [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[3]
-610: 0x0D62 [0x24] CREATE_DIALOG(message_id=14365*, default_option=ExtData[1]->WorkLocal[77], option_flags=ExtData[1]->WorkLocal[78])
+610: 0x0D62 [0x24] CREATE_DIALOG(message_id=14366*, default_option=ExtData[1]->WorkLocal[77], option_flags=ExtData[1]->WorkLocal[78])
     → "Travel to $8? [[Add to favorites/Delete from favorites]./Travel using $2 gil. ($4 gil)/Travel using $3 tab[/s]. ($5 total)/One-time free Warp for the objective./Not just yet.]"
 611: 0x0D69 [0x25] WAIT_DIALOG_SELECT()
 612: 0x0D6A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0D75
@@ -1856,7 +1857,7 @@ SUBROUTINE_0D75:
 618: 0x0D88 [0x01] GOTO 0x0E9E
 619: 0x0D8B [0x02] IF !(ExtData[1]->WorkLocal[77] == 1*) GOTO 0x0DE9
 620: 0x0D93 [0x02] IF !(ExtData[1]->WorkLocal[3] >= ExtData[1]->WorkLocal[17]) GOTO 0x0DA5
-621: 0x0D9B [0x48] [System] [236*]:
+621: 0x0D9B [0x48] [System] [237*]:
     → "You do not have enough gil."
 622: 0x0D9E [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x0D9F [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -1879,7 +1880,7 @@ SUBROUTINE_0DE6:
 638: 0x0DE6 [0x01] GOTO 0x0E9E
 639: 0x0DE9 [0x02] IF !(ExtData[1]->WorkLocal[77] == 2*) GOTO 0x0E47
 640: 0x0DF1 [0x02] IF !(ExtData[1]->WorkLocal[34] >= ExtData[1]->WorkLocal[23]) GOTO 0x0E03
-641: 0x0DF9 [0x48] [System] [14366*]:
+641: 0x0DF9 [0x48] [System] [14367*]:
     → "You do not have enough tabs."
 642: 0x0DFC [0x23] WAIT_FOR_DIALOG_INTERACTION
 643: 0x0DFD [0x06] ExtData[1]->WorkLocal[76] = 0
@@ -2184,32 +2185,32 @@ SUBROUTINE_1280:
      0x138F: 2B 80 02 80 2C 80 3E 80 57 80 58 80 59 80 5A 80
      0x139F: 5B 80 5C 80 5D 80 5E 80 5F 80 60 80 61 80 62 80
      0x13AF: 63 80 64 80 65 80 66 80 67 80 68 80 69 80 6A 80
-     0x13BF: 18 80 6B 80 6C 80 6D 80 1E 80 6E 80 6F 80 70 80
-     0x13CF: 71 80 72 80 73 80 74 80 75 80 76 80 77 80 0C 80
-     0x13DF: 78 80 79 80 7A 80 7B 80 7C 80 7D 80 7E 80 7F 80
-     0x13EF: 80 80 81 80 82 80 83 80 84 80 85 80 86 80 07 80
-     0x13FF: 87 80 88 80 89 80 8A 80 8B 80 8C 80 8D 80 3C 80
-     0x140F: 8E 80 8F 80 90 80 91 80 92 80 25 80 93 80 94 80
-     0x141F: 3A 80 95 80 96 80 97 80 98 80 99 80 34 80 9A 80
-     0x142F: 9B 80 9C 80 9D 80 59 80 9E 80 9F 80 A0 80 A1 80
-     0x143F: A2 80 03 80 24 80 A3 80 1F 80 A4 80 A5 80 A6 80
-     0x144F: A7 80 A8 80 A9 80 AA 80 AB 80 57 80 AC 80 AD 80
-     0x145F: AE 80 AF 80 B0 80 B1 80 B2 80 B3 80 B4 80 B5 80
-     0x146F: B6 80 B7 80 B8 80 B9 80 BA 80 35 80 BB 80 BC 80
-     0x147F: BD 80 BE 80 00 80 00 80 00 80 00 80 00 80 00 80
-     0x148F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x149F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14AF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14BF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14CF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14DF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14EF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x14FF: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x150F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x151F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x152F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x153F: BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80 BF 80
-     0x154F: BF 80 BF 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x13BF: 6B 80 6C 80 6D 80 6E 80 1E 80 6F 80 70 80 71 80
+     0x13CF: 72 80 73 80 74 80 75 80 76 80 77 80 78 80 0C 80
+     0x13DF: 79 80 7A 80 7B 80 7C 80 7D 80 7E 80 7F 80 80 80
+     0x13EF: 81 80 82 80 83 80 84 80 85 80 86 80 87 80 07 80
+     0x13FF: 88 80 89 80 8A 80 8B 80 8C 80 8D 80 8E 80 3C 80
+     0x140F: 8F 80 90 80 91 80 92 80 93 80 25 80 94 80 95 80
+     0x141F: 3A 80 96 80 97 80 98 80 99 80 9A 80 34 80 9B 80
+     0x142F: 9C 80 9D 80 9E 80 59 80 9F 80 A0 80 A1 80 A2 80
+     0x143F: A3 80 03 80 24 80 A4 80 1F 80 A5 80 A6 80 A7 80
+     0x144F: A8 80 A9 80 AA 80 AB 80 AC 80 57 80 AD 80 AE 80
+     0x145F: AF 80 B0 80 B1 80 B2 80 B3 80 B4 80 B5 80 B6 80
+     0x146F: B7 80 B8 80 B9 80 BA 80 BB 80 35 80 BC 80 BD 80
+     0x147F: BE 80 BF 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x148F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x149F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14AF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14BF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14CF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14DF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14EF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x14FF: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x150F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x151F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x152F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x153F: C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80 C0 80
+     0x154F: C0 80 C0 80 00 80 00 80 00 80 00 80 00 80 00 80
      0x155F: 00 80 00 80 00 80 00 80 0C 80 0D 80 00 80 00 80
      0x156F: 00 80 00 80 00 80 00 80 00 80 00 80 00 80 0C 80
      0x157F: 00 80 00 80 00 80 00 80 00 80 00 80 0B 80 00 80
@@ -2226,33 +2227,33 @@ SUBROUTINE_1280:
      0x162F: 00 80 0B 80 0C 80 0D 80 07 80 2B 80 10 80 10 80
      0x163F: 10 80 10 80 21 80 21 80 21 80 21 80 21 80 01 80
      0x164F: 01 80 01 80 01 80 01 80 02 80 02 80 02 80 02 80
-     0x165F: 03 80 03 80 03 80 03 80 C0 80 C0 80 C0 80 04 80
+     0x165F: 03 80 03 80 03 80 03 80 C1 80 C1 80 C1 80 04 80
      0x166F: 04 80 04 80 04 80 04 80 2A 80 2A 80 2A 80 2A 80
-     0x167F: 22 80 22 80 05 80 05 80 C1 80 C1 80 C1 80 C2 80
-     0x168F: C2 80 C2 80 C3 80 C3 80 C3 80 2C 80 2C 80 2C 80
+     0x167F: 22 80 22 80 05 80 05 80 C2 80 C2 80 C2 80 C3 80
+     0x168F: C3 80 C3 80 C4 80 C4 80 C4 80 2C 80 2C 80 2C 80
      0x169F: 2C 80 38 80 38 80 38 80 38 80 39 80 39 80 39 80
-     0x16AF: 23 80 24 80 A3 80 A3 80 A3 80 A3 80 1F 80 1F 80
-     0x16BF: 1F 80 A4 80 C4 80 C4 80 C4 80 06 80 06 80 36 80
-     0x16CF: 36 80 36 80 C5 80 C5 80 C5 80 C6 80 C6 80 C6 80
-     0x16DF: C6 80 C7 80 C7 80 C7 80 C8 80 C8 80 C8 80 C9 80
-     0x16EF: CA 80 33 80 00 80 00 80 00 80 00 80 00 80 00 80
-     0x16FF: 24 80 A3 80 1E 80 1F 80 B3 80 AE 80 00 80 C6 80
-     0x170F: C3 80 CB 80 A4 80 0B 80 CC 80 CD 80 CE 80 CF 80
-     0x171F: 0C 80 C4 80 C8 80 38 80 0D 80 B9 80 6E 80 D0 80
-     0x172F: 07 80 06 80 C7 80 39 80 2B 80 2C 80 D1 80 D2 80
-     0x173F: 36 80 33 80 D3 80 AA 80 02 80 C5 80 C9 80 23 80
-     0x174F: 10 80 D4 80 21 80 CA 80 01 80 D5 80 3E 80 03 80
-     0x175F: D6 80 D7 80 C0 80 D8 80 AD 80 04 80 B7 80 A5 80
-     0x176F: A9 80 2A 80 D9 80 57 80 AC 80 22 80 DA 80 B8 80
-     0x177F: C1 80 C2 80 05 80 DB 80 DC 80 DD 80 3D 80 DE 80
-     0x178F: A8 80 B5 80 DF 80 B4 80 B2 80 E0 80 E1 80 E2 80
-     0x179F: E3 80 AB 80 B0 80 E4 80 A7 80 A6 80 E5 80 E6 80
-     0x17AF: E7 80 B1 80 E8 80 E9 80 EA 80 EB 80 EC 80 ED 80
-     0x17BF: EE 80 BA 80 00 80 00 80 00 80 00 80 00 80 00 80
-     0x17CF: EF 80 F0 80 F1 80 F2 80 F3 80 F4 80 F5 80 F6 80
-     0x17DF: F7 80 F8 80 F9 80 FA 80 FB 80 FC 80 FD 80 FE 80
-     0x17EF: FF 80 00 81 01 81 02 81 03 81 04 81 05 81 06 81
-     0x17FF: 07 81
+     0x16AF: 23 80 24 80 A4 80 A4 80 A4 80 A4 80 1F 80 1F 80
+     0x16BF: 1F 80 A5 80 C5 80 C5 80 C5 80 06 80 06 80 36 80
+     0x16CF: 36 80 36 80 C6 80 C6 80 C6 80 C7 80 C7 80 C7 80
+     0x16DF: C7 80 C8 80 C8 80 C8 80 C9 80 C9 80 C9 80 CA 80
+     0x16EF: CB 80 33 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x16FF: 24 80 A4 80 1E 80 1F 80 B4 80 AF 80 00 80 C7 80
+     0x170F: C4 80 CC 80 A5 80 0B 80 CD 80 CE 80 CF 80 D0 80
+     0x171F: 0C 80 C5 80 C9 80 38 80 0D 80 BA 80 6F 80 D1 80
+     0x172F: 07 80 06 80 C8 80 39 80 2B 80 2C 80 D2 80 D3 80
+     0x173F: 36 80 33 80 D4 80 AB 80 02 80 C6 80 CA 80 23 80
+     0x174F: 10 80 D5 80 21 80 CB 80 01 80 D6 80 3E 80 03 80
+     0x175F: D7 80 D8 80 C1 80 D9 80 AE 80 04 80 B8 80 A6 80
+     0x176F: AA 80 2A 80 DA 80 57 80 AD 80 22 80 DB 80 B9 80
+     0x177F: C2 80 C3 80 05 80 DC 80 DD 80 DE 80 3D 80 DF 80
+     0x178F: A9 80 B6 80 E0 80 B5 80 B3 80 E1 80 E2 80 E3 80
+     0x179F: E4 80 AC 80 B1 80 E5 80 A8 80 A7 80 E6 80 E7 80
+     0x17AF: E8 80 B2 80 E9 80 EA 80 EB 80 EC 80 ED 80 EE 80
+     0x17BF: EF 80 BB 80 00 80 00 80 00 80 00 80 00 80 00 80
+     0x17CF: F0 80 F1 80 F2 80 F3 80 F4 80 F5 80 F6 80 F7 80
+     0x17DF: F8 80 F9 80 FA 80 FB 80 FC 80 FD 80 FE 80 FF 80
+     0x17EF: 00 81 01 81 02 81 03 81 04 81 05 81 06 81 07 81
+     0x17FF: 08 81
 # Dead code (unreachable instructions):
      0x0233 [0x06] ExtData[1]->WorkLocal[11] = 0
      0x0236 [0x06] ExtData[1]->WorkLocal[12] = 0
@@ -2268,23 +2269,23 @@ SUBROUTINE_1280:
      0x026B [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x0270 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x0275 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x027A [0x48] [System] [14367*]:
+     0x027A [0x48] [System] [14368*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x027E [0x48] [System] [14368*]:
+     0x027E [0x48] [System] [14369*]:
     → "At the bottom of the page is a reminder. It perfunctorily states that you may receive $3 once you have logged a total of $2 hours."
      0x0281 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0282 [0x01] GOTO 0x02F2
      0x0285 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[25]
      0x028A [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[24]
      0x028F [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[26]
-     0x0294 [0x48] [System] [14367*]:
+     0x0294 [0x48] [System] [14368*]:
     → "The records indicate you have fought valiantly for Vana'diel for $1 hour[/s]."
      0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0298 [0x48] [System] [14369*]:
+     0x0298 [0x48] [System] [14370*]:
     → "As per the custom noted within, you are eligible to receive $3 for the $2 hour[/s] of fighting you've accrued."
      0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x029C [0x24] CREATE_DIALOG(message_id=14370*, default_option=1*, option_flags=0*)
+     0x029C [0x24] CREATE_DIALOG(message_id=14371*, default_option=1*, option_flags=0*)
     → "Accept the reward? [Yes, please./No, thanks.]"
      0x02A3 [0x25] WAIT_DIALOG_SELECT()
      0x02A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02E7
@@ -2295,12 +2296,12 @@ SUBROUTINE_1280:
      0x02C2 [0x03] ExtData[1]->WorkLocal[36] = Work_Zone[3]
      0x02C7 [0x02] IF !(ExtData[1]->WorkLocal[36] == 0*) GOTO 0x02DB
      0x02CF [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
-     0x02D4 [0x48] [System] [231*]:
+     0x02D4 [0x48] [System] [232*]:
     → "Obtained: #."
      0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02D8 [0x01] GOTO 0x02E4
      0x02DB [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[26]
-     0x02E0 [0x48] [System] [223*]:
+     0x02E0 [0x48] [System] [224*]:
     → "You cannot obtain the $0. Come back after sorting your inventory."
      0x02E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x02E4 [0x01] GOTO 0x02F2
@@ -2312,149 +2313,151 @@ SUBROUTINE_1280:
 # Dead code (unreachable instructions):
      0x117B [0x1B] RETURN
 # Dead code (unreachable instructions):
-     0x1234 [0x48] [System] [236*]:
+     0x1234 [0x48] [System] [237*]:
     → "You do not have enough gil."
      0x1237 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x1238 [0x21] END_EVENT
      0x1239 [0x1B] RETURN
-     0x123A [0x48] [System] [14366*]:
+     0x123A [0x48] [System] [14367*]:
     → "You do not have enough tabs."
      0x123D [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x123E [0x21] END_EVENT
      0x123F [0x1B] RETURN
 # Dead code (unreachable instructions):
-     0x1801 [0x08] 0x0981 -= 0x0A81
-     0x1806 [0x81] SET_ENTITY_BLINKING(blink_flag=0x0B, entity=Unknown NPC (ID: 226561153/0x0D810C81))
-     0x180C [0x81] SET_ENTITY_BLINKING(blink_flag=0x0E, entity=Unknown NPC (ID: 276893569/0x10810F81))
-     0x1812 [0x81] SET_ENTITY_BLINKING(blink_flag=0x11, entity=Unknown NPC (ID: 327225985/0x13811281))
-     0x1818 [0x81] SET_ENTITY_BLINKING(blink_flag=0x14, entity=Unknown NPC (ID: 377558401/0x16811581))
-     0x181E [0x81] SET_ENTITY_BLINKING(blink_flag=0x17, entity=Unknown NPC (ID: 427890817/0x19811881))
-     0x1824 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1A, entity=Unknown NPC (ID: 478223233/0x1C811B81))
-     0x182A [0x81] SET_ENTITY_BLINKING(blink_flag=0x1D, entity=Unknown NPC (ID: 1686183553/0x64811E81))
-     0x1830 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2166391071/0x8120811F))
-     0x1835 [0x21] END_EVENT
-     0x1836 [0x81] SET_ENTITY_BLINKING(blink_flag=0x22, entity=Unknown NPC (ID: 612443009/0x24812381))
-     0x183C [0x81] SET_ENTITY_BLINKING(blink_flag=0x25, entity=Unknown NPC (ID: 662775425/0x27812681))
-     0x1842 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Unknown NPC (ID: 696330369/0x29812881))
-     0x1848 [0x81] SET_ENTITY_BLINKING(blink_flag=0x2A, entity=Unknown NPC (ID: 729873793/0x2B80FD81))
-     0x184E [0x81] SET_ENTITY_BLINKING(blink_flag=0x2C, entity=Unknown NPC (ID: 780217729/0x2E812D81))
-     0x1854 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1F, entity=Unknown NPC (ID: 4051775361/0xF1812F81))
-     0x185A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167505200/0x81318130))
-     0x185F [0x32] ExtData[1]->MainSpeed = 0x3381 * 0.1
-     0x1862 [0x81] SET_ENTITY_BLINKING(blink_flag=0x34, entity=Unknown NPC (ID: 914437505/0x36813581))
-     0x1868 [0x81] SET_ENTITY_BLINKING(blink_flag=0x37, entity=Unknown NPC (ID: 964769921/0x39813881))
-     0x186E [0x81] SET_ENTITY_BLINKING(blink_flag=0x3A, entity=Unknown NPC (ID: 998310529/0x3B810281))
-     0x1874 [0x81] SET_ENTITY_BLINKING(blink_flag=0x3C, entity=Unknown NPC (ID: 1048657281/0x3E813D81))
-     0x187A [0x81] SET_ENTITY_BLINKING(blink_flag=0x3F, entity=Unknown NPC (ID: 176242817/0x0A814081))
-     0x1880 [0x81] SET_ENTITY_BLINKING(blink_flag=0x41, entity=Unknown NPC (ID: 1132544641/0x43814281))
-     0x1886 [0x81] SET_ENTITY_BLINKING(blink_flag=0x44, entity=Unknown NPC (ID: 1182877057/0x46814581))
-     0x188C [0x81] SET_ENTITY_BLINKING(blink_flag=0x47, entity=Unknown NPC (ID: 1216420481/0x48811A81))
+     0x1801 [0x09] 0x0A81 |= (1 << 0x0B81)
+     0x1806 [0x81] SET_ENTITY_BLINKING(blink_flag=0x0C, entity=Unknown NPC (ID: 243338625/0x0E810D81))
+     0x180C [0x81] SET_ENTITY_BLINKING(blink_flag=0x0F, entity=Unknown NPC (ID: 293671041/0x11811081))
+     0x1812 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 344003457/0x14811381))
+     0x1818 [0x81] SET_ENTITY_BLINKING(blink_flag=0x15, entity=Unknown NPC (ID: 394335873/0x17811681))
+     0x181E [0x81] SET_ENTITY_BLINKING(blink_flag=0x18, entity=Unknown NPC (ID: 444668289/0x1A811981))
+     0x1824 [0x81] SET_ENTITY_BLINKING(blink_flag=0x1B, entity=Unknown NPC (ID: 495000705/0x1D811C81))
+     0x182A [0x81] SET_ENTITY_BLINKING(blink_flag=0x1E, entity=Unknown NPC (ID: 1686183809/0x64811F81))
+     0x1830 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2166456608/0x81218120))
+     0x1835 [0x22] ENTITY_HIDE_FLAG(enabled=0x81)
+     0x1837 [0x23] WAIT_FOR_DIALOG_INTERACTION
+     0x1838 [0x81] SET_ENTITY_BLINKING(blink_flag=0x24, entity=Unknown NPC (ID: 645997953/0x26812581))
+     0x183E [0x81] SET_ENTITY_BLINKING(blink_flag=0x27, entity=Unknown NPC (ID: 42018945/0x02812881))
+     0x1844 [0x81] SET_ENTITY_BLINKING(blink_flag=0x29, entity=Unknown NPC (ID: 729885313/0x2B812A81))
+     0x184A [0x81] SET_ENTITY_BLINKING(blink_flag=0xFE, entity=Unknown NPC (ID: 763440256/0x2D812C80))
+     0x1850 [0x81] SET_ENTITY_BLINKING(blink_flag=0x2E, entity=Unknown NPC (ID: 545337217/0x20812F81))
+     0x1856 [0x81] SET_ENTITY_BLINKING(blink_flag=0x30, entity=Unknown NPC (ID: 830534273/0x3180F281))
+     0x185C [0x81] SET_ENTITY_BLINKING(blink_flag=0x32, entity=Unknown NPC (ID: 880882561/0x34813381))
+     0x1862 [0x81] SET_ENTITY_BLINKING(blink_flag=0x35, entity=Unknown NPC (ID: 931214977/0x37813681))
+     0x1868 [0x81] SET_ENTITY_BLINKING(blink_flag=0x38, entity=Unknown NPC (ID: 981547393/0x3A813981))
+     0x186E [0x81] SET_ENTITY_BLINKING(blink_flag=0x3B, entity=Unknown NPC (ID: 1015088001/0x3C810381))
+     0x1874 [0x81] SET_ENTITY_BLINKING(blink_flag=0x3D, entity=Unknown NPC (ID: 1065434753/0x3F813E81))
+     0x187A [0x81] SET_ENTITY_BLINKING(blink_flag=0x40, entity=Unknown NPC (ID: 193020289/0x0B814181))
+     0x1880 [0x81] SET_ENTITY_BLINKING(blink_flag=0x42, entity=Unknown NPC (ID: 1149322113/0x44814381))
+     0x1886 [0x81] SET_ENTITY_BLINKING(blink_flag=0x45, entity=Unknown NPC (ID: 1199654529/0x47814681))
+     0x188C [0x81] SET_ENTITY_BLINKING(blink_flag=0x48, entity=Unknown NPC (ID: 1233197953/0x49811B81))
      0x1892 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 8388736/0x00800080))
      0x1898 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x189D [0x00] END_REQSTACK()
-     0x189E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2169077865/0x81498069))
-     0x18A3 [0x4A] Unknown NPC (ID: 1283541889/0x4C814B81) looks at Unknown NPC (ID: 1317096833/0x4E814D81)
-     0x18AC [0x81] SET_ENTITY_BLINKING(blink_flag=0x62, entity=Unknown NPC (ID: 1350651776/0x50814F80))
-     0x18B2 [0x81] SET_ENTITY_BLINKING(blink_flag=0x51, entity=Unknown NPC (ID: 1400984193/0x53815281))
-     0x18B8 [0x81] SET_ENTITY_BLINKING(blink_flag=0x54, entity=Unknown NPC (ID: 1451316609/0x56815581))
-     0x18BE [0x81] SET_ENTITY_BLINKING(blink_flag=0x57, entity=Unknown NPC (ID: 75585665/0x04815881))
-     0x18C4 [0x81] SET_ENTITY_BLINKING(blink_flag=0x59, entity=Unknown NPC (ID: 1652644481/0x62815A81))
-     0x18CA [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2160034139/0x80BF815B))
-     0x18CF [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 386000*, volume=107000*
-     0x18D5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler 0x65816481 with entities [Unknown NPC (ID: 1635868801/0x61816081), Unknown NPC (ID: 1669423745/0x63816281)], work=0x5F81
-     0x18E4 [0x81] SET_ENTITY_BLINKING(blink_flag=0x66, entity=Unknown NPC (ID: 1753311105/0x68816781))
-     0x18EA [0x81] SET_ENTITY_BLINKING(blink_flag=0x29, entity=Unknown NPC (ID: 1786866049/0x6A816981))
-     0x18F0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x6B, entity=Unknown NPC (ID: 1837198465/0x6D816C81))
-     0x18F6 [0x81] SET_ENTITY_BLINKING(blink_flag=0x6E, entity=Unknown NPC (ID: 1887530881/0x70816F81))
-     0x18FC [0x81] SET_ENTITY_BLINKING(blink_flag=0x71, entity=Unknown NPC (ID: 1937863297/0x73817281))
-     0x1902 [0x81] SET_ENTITY_BLINKING(blink_flag=0x74, entity=Unknown NPC (ID: 1988195713/0x76817581))
-     0x1908 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 2021750657/0x78817781))
-     0x190E [0x81] SET_ENTITY_BLINKING(blink_flag=0x79, entity=Unknown NPC (ID: 2055289473/0x7A813A81))
-     0x1914 [0x81] SET_ENTITY_BLINKING(blink_flag=0x7B, entity=Unknown NPC (ID: 2105638017/0x7D817C81))
-     0x191A [0x81] SET_ENTITY_BLINKING(blink_flag=0x7E, entity=Unknown NPC (ID: 2139165569/0x7F811381))
-     0x1920 [0x81] SET_ENTITY_BLINKING(blink_flag=0x80, entity=Unknown NPC (ID: 2189525377/0x82818181))
-     0x1926 [0x81] SET_ENTITY_BLINKING(blink_flag=0x55, entity=Unknown NPC (ID: 1384218241/0x52817E81))
-     0x192C [0x81] SET_ENTITY_BLINKING(blink_flag=0xFC, entity=Unknown NPC (ID: 2223080320/0x84818380))
-     0x1932 [0x81] SET_ENTITY_BLINKING(blink_flag=0x73, entity=Unknown NPC (ID: 2239837313/0x85813481))
-     0x1938 [0x81] SET_ENTITY_BLINKING(blink_flag=0x86, entity=Unknown NPC (ID: 2290190209/0x88818781))
-     0x193E [0x81] SET_ENTITY_BLINKING(blink_flag=0x89, entity=Unknown NPC (ID: 2323732865/0x8A815981))
-     0x1944 [0x81] SET_ENTITY_BLINKING(blink_flag=0x8B, entity=Unknown NPC (ID: 2374077569/0x8D818C81))
-     0x194A [0x81] SET_ENTITY_BLINKING(blink_flag=0x8E, entity=Unknown NPC (ID: 1535217537/0x5B818F81))
-     0x1950 [0x81] SET_ENTITY_BLINKING(blink_flag=0x90, entity=Unknown NPC (ID: 2457964929/0x92819181))
-     0x1956 [0x81] SET_ENTITY_BLINKING(blink_flag=0x04, entity=Unknown NPC (ID: 2491519873/0x94819381))
-     0x195C [0x81] SET_ENTITY_BLINKING(blink_flag=0x95, entity=Unknown NPC (ID: 2525064577/0x96816D81))
+     0x189E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2169143401/0x814A8069))
+     0x18A3 [0x4B] UPDATE_ENTITY_YAW(entity=Unknown NPC (ID: 1300319361/0x4D814C81), yaw=0x4E81)
+     0x18AA [0x81] SET_ENTITY_BLINKING(blink_flag=0x4F, entity=Unknown NPC (ID: 1350591105/0x50806281))
+     0x18B0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x51, entity=Unknown NPC (ID: 1400984193/0x53815281))
+     0x18B6 [0x81] SET_ENTITY_BLINKING(blink_flag=0x54, entity=Unknown NPC (ID: 1451316609/0x56815581))
+     0x18BC [0x81] SET_ENTITY_BLINKING(blink_flag=0x57, entity=Unknown NPC (ID: 1501649025/0x59815881))
+     0x18C2 [0x81] SET_ENTITY_BLINKING(blink_flag=0x05, entity=Unknown NPC (ID: 1535203969/0x5B815A81))
+     0x18C8 [0x81] SET_ENTITY_BLINKING(blink_flag=0x62, entity=Unknown NPC (ID: 3229703296/0xC0815C80))
+     0x18CE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2170454365/0x815E815D))
+     0x18D3 [0x5F] MULTI_HANDLER_COMPLEX(mode=0x81 - Unknown)
+     0x18D5 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 315696*, volume=262000*
+     0x18DB [0x62] LOAD_EVENT_SCHEDULER: Load scheduler 0x69816881 with entities [Unknown NPC (ID: 1702978689/0x65816481), Unknown NPC (ID: 1736533633/0x67816681)], work=[0x6381, 0x2A81]
+     0x18EC [0x81] SET_ENTITY_BLINKING(blink_flag=0x6A, entity=Unknown NPC (ID: 1820420993/0x6C816B81))
+     0x18F2 [0x81] SET_ENTITY_BLINKING(blink_flag=0x6D, entity=Unknown NPC (ID: 1870753409/0x6F816E81))
+     0x18F8 [0x81] SET_ENTITY_BLINKING(blink_flag=0x70, entity=Unknown NPC (ID: 1921085825/0x72817181))
+     0x18FE [0x81] SET_ENTITY_BLINKING(blink_flag=0x73, entity=Unknown NPC (ID: 1971418241/0x75817481))
+     0x1904 [0x81] SET_ENTITY_BLINKING(blink_flag=0x76, entity=Unknown NPC (ID: 25261953/0x01817781))
+     0x190A [0x81] SET_ENTITY_BLINKING(blink_flag=0x78, entity=Unknown NPC (ID: 2055305601/0x7A817981))
+     0x1910 [0x81] SET_ENTITY_BLINKING(blink_flag=0x3B, entity=Unknown NPC (ID: 2088860545/0x7C817B81))
+     0x1916 [0x81] SET_ENTITY_BLINKING(blink_flag=0x7D, entity=Unknown NPC (ID: 2139192961/0x7F817E81))
+     0x191C [0x81] SET_ENTITY_BLINKING(blink_flag=0x14, entity=Unknown NPC (ID: 2172747905/0x81818081))
+     0x1922 [0x81] SET_ENTITY_BLINKING(blink_flag=0x82, entity=Unknown NPC (ID: 1451328385/0x56818381))
+     0x1928 [0x81] SET_ENTITY_BLINKING(blink_flag=0x7F, entity=Unknown NPC (ID: 4253111169/0xFD815381))
+     0x192E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2173010308/0x81858184))
+     0x1933 [0x74] EventEntity->Render.Flags1 ^= 0x01
+     0x1935 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=References[1665])
+     0x1938 [0x81] SET_ENTITY_BLINKING(blink_flag=0x87, entity=Unknown NPC (ID: 2306967681/0x89818881))
+     0x193E [0x81] SET_ENTITY_BLINKING(blink_flag=0x8A, entity=Unknown NPC (ID: 2340510337/0x8B815A81))
+     0x1944 [0x81] SET_ENTITY_BLINKING(blink_flag=0x8C, entity=Unknown NPC (ID: 2390855041/0x8E818D81))
+     0x194A [0x81] SET_ENTITY_BLINKING(blink_flag=0x8F, entity=Unknown NPC (ID: 1551995009/0x5C819081))
+     0x1950 [0x81] SET_ENTITY_BLINKING(blink_flag=0x91, entity=Unknown NPC (ID: 2474742401/0x93819281))
+     0x1956 [0x81] SET_ENTITY_BLINKING(blink_flag=0x05, entity=Unknown NPC (ID: 2508297345/0x95819481))
+     0x195C [0x81] SET_ENTITY_BLINKING(blink_flag=0x96, entity=Unknown NPC (ID: 2541842049/0x97816E81))
      0x1962 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 8388736/0x00800080))
      0x1968 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x196D [0x00] END_REQSTACK()
-     0x196E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516722/0x80008132))
-     0x1973 [0x97] SAVE_SET_WIND_VALUES(wind_base=0x6381, wind_width=0x1780)
-     0x1978 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 880908416/0x34819880))
-     0x197E [0x81] SET_ENTITY_BLINKING(blink_flag=0x2C, entity=Unknown NPC (ID: 2575302784/0x99800080))
-     0x1984 [0x81] SET_ENTITY_BLINKING(blink_flag=0x9A, entity=Unknown NPC (ID: 2625739649/0x9C819B81))
-     0x198A [0x81] SET_ENTITY_BLINKING(blink_flag=0x86, entity=Unknown NPC (ID: 1518443905/0x5A819D81))
-     0x1990 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2174648733/0x819E819D))
-     0x1995 [0x9F] LOAD_SCHEDULED_TASK_ALT: Load scheduler 0xA481A381 with entities [Unknown NPC (ID: 75497601/0x04800081), Unknown NPC (ID: 2726404481/0xA281A181)], work=[0xA081, 0xA581]
-     0x19A6 [0x81] SET_ENTITY_BLINKING(blink_flag=0xA6, entity=Unknown NPC (ID: 2827069313/0xA881A781))
-     0x19AC [0x81] SET_ENTITY_BLINKING(blink_flag=0xA9, entity=Unknown NPC (ID: 2877401729/0xAB81AA81))
-     0x19B2 [0x81] SET_ENTITY_BLINKING(blink_flag=0xAC, entity=Unknown NPC (ID: 2927734145/0xAE81AD81))
-     0x19B8 [0x81] SET_ENTITY_BLINKING(blink_flag=0xAF, entity=Unknown NPC (ID: 2961201537/0xB0805981))
-     0x19BE [0x81] SET_ENTITY_BLINKING(blink_flag=0xB1, entity=Unknown NPC (ID: 109071745/0x06804D81))
-     0x19C4 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB2, entity=Unknown NPC (ID: 3011589249/0xB3813481))
-     0x19CA [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 394280064/0x17803C80))
-     0x19D0 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB4, entity=Unknown NPC (ID: 3061953921/0xB681B581))
-     0x19D6 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB7, entity=Unknown NPC (ID: 3112286337/0xB981B881))
-     0x19DC [0x81] SET_ENTITY_BLINKING(blink_flag=0xBA, entity=Unknown NPC (ID: 8502145/0x0081BB81))
-     0x19E2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164556038/0x81048106))
-     0x19E7 [0xBF] CHOCOBO_RACING_PARAMETER_GETTER(param_type=0x80)
-     0x19E9 [0x00] END_REQSTACK()
-     0x19EA [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151383464/0x803B81A8))
-     0x19EF [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 3162617985/0xBC81B881))
-     0x19F4 [0x81] SET_ENTITY_BLINKING(blink_flag=0xBD, entity=Unknown NPC (ID: 2994733185/0xB2800081))
-     0x19FA [0x81] SET_ENTITY_BLINKING(blink_flag=0x34, entity=Unknown NPC (ID: 3196126849/0xBE810681))
-     0x1A00 [0x81] SET_ENTITY_BLINKING(blink_flag=0xBF, entity=Unknown NPC (ID: 3229614209/0xC0800081))
-     0x1A06 [0x81] SET_ENTITY_BLINKING(blink_flag=0x29, entity=Unknown NPC (ID: 3246440321/0xC180BF81))
-     0x1A0C [0x81] SET_ENTITY_BLINKING(blink_flag=0xC2, entity=Unknown NPC (ID: 2676041089/0x9F812581))
-     0x1A12 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 3296838528/0xC481C380))
-     0x1A18 [0x81] SET_ENTITY_BLINKING(blink_flag=0xC5, entity=Unknown NPC (ID: 3347170945/0xC781C681))
-     0x1A1E [0x81] SET_ENTITY_BLINKING(blink_flag=0xA5, entity=Unknown NPC (ID: 1837222017/0x6D81C881))
-     0x1A24 [0x81] SET_ENTITY_BLINKING(blink_flag=0xC9, entity=Unknown NPC (ID: 2827078273/0xA881CA81))
-     0x1A2A [0x81] SET_ENTITY_BLINKING(blink_flag=0xB0, entity=Unknown NPC (ID: 2994850689/0xB281CB81))
-     0x1A30 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 8388736/0x00800080))
-     0x1A36 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
-     0x1A3B [0x00] END_REQSTACK()
-     0x1A3C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
-     0x1A41 [0x00] END_REQSTACK()
-     0x1A42 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728972/0x81CD81CC))
-     0x1A47 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1A4B [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xCD801281 with entities [Unknown NPC (ID: 8388737/0x00800081), Unknown NPC (ID: 3514945664/0xD181D080)], work=[0xCF81, 0xD281]
-     0x1A5C [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3531721857/0xD281CC81))
-     0x1A62 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 3481390464/0xCF81CD80))
-     0x1A68 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3514831489/0xD1801281))
-     0x1A6E [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3531721856/0xD281CC80))
-     0x1A74 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 3548381313/0xD3800081))
-     0x1A7A [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3531604097/0xD2800081))
-     0x1A80 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 3514826881/0xD1800081))
-     0x1A86 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 3531722625/0xD281CF81))
-     0x1A8C [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3514831489/0xD1801281))
-     0x1A92 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3431058561/0xCC81CC81))
-     0x1A98 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3430940801/0xCC800081))
-     0x1A9E [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447837056/0xCD81D180))
-     0x1AA4 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447835776/0xCD81CC80))
-     0x1AAA [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3481272449/0xCF800081))
-     0x1AB0 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCC, entity=Unknown NPC (ID: 8506753/0x0081CD81))
-     0x1AB6 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177990674/0x81D18012))
-     0x1ABB [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1ABF [0xD3] CLEAR_ENTITY_MOTION_QUEUE(condition_flag=0x81, entity_server_id=0x81D381CD)
-     0x1AC5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1AC9 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x81 - Unknown case 0x81)
-     0x1ACD [0x12] 0xCD80 = rand()
-     0x1AD0 [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3447836032/0xCD81CD80))
-     0x1AD6 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCF, entity=Unknown NPC (ID: 310496385/0x1281CC81))
-     0x1ADC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2178056652/0x81D281CC))
-     0x1AE1 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xCC81D080 with entities [Unknown NPC (ID: 3431060097/0xCC81D281), Unknown NPC (ID: 8508033/0x0081D281)], work=[0xD181, 0xCD81]
-     0x1AF2 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 8507521/0x0081D081))
-     0x1AF8 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728978/0x81CD81D2))
-     0x1AFD [0xD2] END_LOAD_SCHEDULER_MAIN_ALT7: End scheduler 0x00000080 with entities [Unknown NPC (ID: 8507009/0x0081CE81), Unknown NPC (ID: 8388736/0x00800080)], work=ExtData[1]->WorkLocal[0]
+     0x196E [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516723/0x80008133))
+     0x1973 [0x98] YIELD_IF_ZONE_LOADING()
+     0x1974 [0x81] SET_ENTITY_BLINKING(blink_flag=0x63, entity=Unknown NPC (ID: 8460416/0x00811880))
+     0x197A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167767449/0x81358199))
+     0x197F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler 0x87819D81 with entities [Unknown NPC (ID: 2592080000/0x9A800080), Unknown NPC (ID: 2625739649/0x9C819B81)]
+     0x198C [0x81] SET_ENTITY_BLINKING(blink_flag=0x9E, entity=Unknown NPC (ID: 2659211905/0x9E805A81))
+     0x1992 [0x81] SET_ENTITY_BLINKING(blink_flag=0x9F, entity=Unknown NPC (ID: 2709627009/0xA181A081))
+     0x1998 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 2726364544/0xA2810580))
+     0x199E [0x81] SET_ENTITY_BLINKING(blink_flag=0xA3, entity=Unknown NPC (ID: 2776736897/0xA581A481))
+     0x19A4 [0x81] SET_ENTITY_BLINKING(blink_flag=0xA6, entity=Unknown NPC (ID: 2827069313/0xA881A781))
+     0x19AA [0x81] SET_ENTITY_BLINKING(blink_flag=0xA9, entity=Unknown NPC (ID: 2877401729/0xAB81AA81))
+     0x19B0 [0x81] SET_ENTITY_BLINKING(blink_flag=0xAC, entity=Unknown NPC (ID: 2927734145/0xAE81AD81))
+     0x19B6 [0x81] SET_ENTITY_BLINKING(blink_flag=0xAF, entity=Unknown NPC (ID: 1501671553/0x5981B081))
+     0x19BC [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2175959473/0x81B281B1))
+     0x19C1 [0x4D] EventEntity->StatusEvent = 9 // Close door
+     0x19C2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2176024839/0x81B38107))
+     0x19C7 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=0xB481)
+     0x19CA [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 411057280/0x18803C80))
+     0x19D0 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB5, entity=Unknown NPC (ID: 3078731393/0xB781B681))
+     0x19D6 [0x81] SET_ENTITY_BLINKING(blink_flag=0xB8, entity=Unknown NPC (ID: 3129063809/0xBA81B981))
+     0x19DC [0x81] SET_ENTITY_BLINKING(blink_flag=0xBB, entity=Unknown NPC (ID: 8502401/0x0081BC81))
+     0x19E2 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2164621575/0x81058107))
+     0x19E7 [0xC0] EventEntity->Render.Flags3 &= ~0x1000 // Clear bit 12
+     0x19EA [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2151383465/0x803B81A9))
+     0x19EF [0x81] SET_ENTITY_BLINKING(blink_flag=0x81, entity=Unknown NPC (ID: 2176680377/0x81BD81B9))
+     0x19F5 [0xBE] STORE_REQ_WHO_SERVER_ID(work_offset=0x81)
+     0x19F8 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2167767475/0x813581B3))
+     0x19FD [0x07] 0xBF81 += 0xC081
+     0x1A02 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 713146752/0x2A81C180))
+     0x1A08 [0x81] SET_ENTITY_BLINKING(blink_flag=0xC0, entity=Unknown NPC (ID: 3280061056/0xC381C280))
+     0x1A0E [0x81] SET_ENTITY_BLINKING(blink_flag=0x26, entity=Unknown NPC (ID: 8495233/0x0081A081))
+     0x1A14 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177204676/0x81C581C4))
+     0x1A19 [0xC6] WAIT_LOAD_SCHEDULER_ALT3: Wait for scheduler 0xCB81CA81 with entities [Unknown NPC (ID: 2793523329/0xA681C881), Unknown NPC (ID: 1853999489/0x6E81C981)], work=0xC781
+     0x1A28 [0x81] SET_ENTITY_BLINKING(blink_flag=0xA9, entity=Unknown NPC (ID: 3431051649/0xCC81B181))
+     0x1A2E [0x81] SET_ENTITY_BLINKING(blink_flag=0xB3, entity=Unknown NPC (ID: 8388737/0x00800081))
+     0x1A34 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x1A39 [0x00] END_REQSTACK()
+     0x1A3A [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x1A3F [0x00] END_REQSTACK()
+     0x1A40 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728512/0x81CD8000))
+     0x1A45 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xD1800080 with entities [Unknown NPC (ID: 3464613761/0xCE81CF81), Unknown NPC (ID: 8507521/0x0081D081)], work=0xCD81
+     0x1A54 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3464499841/0xCE801281))
+     0x1A5A [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x1A60 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3464495233/0xCE800081))
+     0x1A66 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 310498177/0x1281D381))
+     0x1A6C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148696530/0x801281D2))
+     0x1A71 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler 0xD3800081 with entities [Unknown NPC (ID: 8506753/0x0081CD81), Unknown NPC (ID: 3548501120/0xD381D480)], work=[0xD381, 0xCD81]
+     0x1A82 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 3514946176/0xD181D280))
+     0x1A88 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD0, entity=Unknown NPC (ID: 3464614785/0xCE81D381))
+     0x1A8E [0x81] SET_ENTITY_BLINKING(blink_flag=0x12, entity=Unknown NPC (ID: 3565277824/0xD481D280))
+     0x1A94 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3464613249/0xCE81CD81))
+     0x1A9A [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Unknown NPC (ID: 310496640/0x1281CD80))
+     0x1AA0 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177794514/0x81CE81D2))
+     0x1AA5 [0x12] 0xCD80 = rand()
+     0x1AA8 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCE, entity=Unknown NPC (ID: 8508289/0x0081D381))
+     0x1AAE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2177728976/0x81CD81D0))
+     0x1AB3 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xCE81D481 with entities [Unknown NPC (ID: 3531608704/0xD2801280), Unknown NPC (ID: 3548499329/0xD381CD81)], work=0x81
+     0x1AC2 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD4, entity=Unknown NPC (ID: 3464613249/0xCE81CD81))
+     0x1AC8 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 310496641/0x1281CD81))
+     0x1ACE [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2148696526/0x801281CE))
+     0x1AD3 [0xCE] WAIT_LOAD_SCHEDULER_ALT4: Wait for scheduler 0xCE81D381 with entities [Unknown NPC (ID: 3447836801/0xCD81D081), Unknown NPC (ID: 3447722625/0xCD801281)], work=0xCE81
+     0x1AE2 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD2, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x1AE8 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD3, entity=Unknown NPC (ID: 3514826881/0xD1800081))
+     0x1AEE [0x81] SET_ENTITY_BLINKING(blink_flag=0xCD, entity=Unknown NPC (ID: 3548499585/0xD381CE81))
+     0x1AF4 [0x81] SET_ENTITY_BLINKING(blink_flag=0xD1, entity=Unknown NPC (ID: 3548381313/0xD3800081))
+     0x1AFA [0x81] SET_ENTITY_BLINKING(blink_flag=0xCE, entity=Unknown NPC (ID: 3447837569/0xCD81D381))
+     0x1B00 [0x81] SET_ENTITY_BLINKING(blink_flag=0xCF, entity=Unknown NPC (ID: 8388737/0x00800081))
+     0x1B06 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
+     0x1B0B [0x00] END_REQSTACK()
      0x1B0C [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147516416/0x80008000))
      0x1B11 [0x00] END_REQSTACK()
      0x1B12 [0x80] LOAD_WAIT(entity=Unknown NPC (ID: 2147975180/0x8007800C))

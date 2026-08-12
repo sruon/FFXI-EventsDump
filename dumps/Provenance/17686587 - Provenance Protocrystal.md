@@ -27,16 +27,16 @@
 |       3 | 0x0007      |           7 |
 |       4 | 0x0009      |           9 |
 |       5 | 0xFFFFFFFF  |  4294967295 |
-|       6 | 0x1CBE      |        7358 |
+|       6 | 0x1CBF      |        7359 |
 |       7 | 0x40000000  |  1073741824 |
 |       8 | 0x070D      |        1805 |
-|       9 | 0x1CC3      |        7363 |
+|       9 | 0x1CC4      |        7364 |
 |      10 | 0x0002      |           2 |
 |      11 | 0x0003      |           3 |
 |      12 | 0x0004      |           4 |
 |      13 | 0x0005      |           5 |
-|      14 | 0x1D57      |        7511 |
-|      15 | 0x1CB0      |        7344 |
+|      14 | 0x1D58      |        7512 |
+|      15 | 0x1CB1      |        7345 |
 |      16 | 0x00FF      |         255 |
 |      17 | 0x0008      |           8 |
 |      18 | 0x000B      |          11 |
@@ -46,16 +46,16 @@
 |      22 | 0x0017      |          23 |
 |      23 | 0x0018      |          24 |
 |      24 | 0x001F      |          31 |
-|      25 | 0x1CA6      |        7334 |
+|      25 | 0x1CA7      |        7335 |
 |      26 | 0x0FFF      |        4095 |
-|      27 | 0x1CAE      |        7342 |
-|      28 | 0x1CAD      |        7341 |
-|      29 | 0x1CA5      |        7333 |
+|      27 | 0x1CAF      |        7343 |
+|      28 | 0x1CAE      |        7342 |
+|      29 | 0x1CA6      |        7334 |
 |      30 | 0x007C      |         124 |
 |      31 | 0x00B4      |         180 |
 |      32 | 0x00C8      |         200 |
 |      33 | 0x003C      |          60 |
-|      34 | 0x1CAC      |        7340 |
+|      34 | 0x1CAD      |        7341 |
 |      35 | 0x0014      |          20 |
 |      36 | 0x007D      |         125 |
 |      37 | 0x0078      |         120 |
@@ -93,10 +93,10 @@
 |      69 | 0x0400      |        1024 |
 |      70 | 0x0C00      |        3072 |
 |      71 | 0x021C      |         540 |
-|      72 | 0x1E0B      |        7691 |
+|      72 | 0x1E0C      |        7692 |
 |      73 | 0x0028      |          40 |
-|      74 | 0x1CBB      |        7355 |
-|      75 | 0x1CBC      |        7356 |
+|      74 | 0x1CBC      |        7356 |
+|      75 | 0x1CBD      |        7357 |
 |      76 | 0x1FFF      |        8191 |
 |      77 | 0x0013      |          19 |
 |      78 | 0xFFF72ED6  |  4294389462 |
@@ -126,18 +126,18 @@
 
 ## String References
 
-- **7333**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7334**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7340**: Skip the event? [Yes./No.]
-- **7341**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7342**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7344**: Enter the battlefield? [Enter./Decline.]
-- **7355**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
-- **7356**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
-- **7358**: Which battlefield will you enter? [None./Beguiling Radiance./Seductive Radiance./Maddening Radiance./Provenance Watcher.]
-- **7363**: Enter the battlefield? [Enter using $5./Enter./Decline.]
-- **7511**: How many $5 will you use? [None./One./Two./Three./Four./Five.]
-- **7691**: You have not claimed all of your battle rewards.
+- **7334**: You cannot enter the battlefield at present. Please wait a little longer.
+- **7335**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7341**: Skip the event? [Yes./No.]
+- **7342**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7343**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7345**: Enter the battlefield? [Enter./Decline.]
+- **7356**: Relinquish your claim to the battle spoils? [Yes./On second thought...]
+- **7357**: Items will be lost. Are you certain? [Yes, relinquish./No, retain.]
+- **7359**: Which battlefield will you enter? [None./Beguiling Radiance./Seductive Radiance./Maddening Radiance./Provenance Watcher.]
+- **7364**: Enter the battlefield? [Enter using $5./Enter./Decline.]
+- **7512**: How many $5 will you use? [None./One./Two./Three./Four./Five.]
+- **7692**: You have not claimed all of your battle rewards.
 
 ## Events
 
@@ -286,7 +286,7 @@ SUBROUTINE_0035:
  12: 0x003F [0x03] ExtData[1]->WorkLocal[1] = 4294967295*
  13: 0x0044 [0x0F] ExtData[1]->WorkLocal[1] ^= ExtData[1]->WorkLocal[0]
  14: 0x0049 [0x3D] CLEAR_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[1], bit_index_work_offset=0*, condition_work_offset=1*)
- 15: 0x0050 [0x24] CREATE_DIALOG(message_id=7358*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+ 15: 0x0050 [0x24] CREATE_DIALOG(message_id=7359*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Which battlefield will you enter? [None./Beguiling Radiance./Seductive Radiance./Maddening Radiance./Provenance Watcher.]"
  16: 0x0057 [0x25] WAIT_DIALOG_SELECT()
  17: 0x0058 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x006A
@@ -306,7 +306,7 @@ SUBROUTINE_006A:
 
 SUBROUTINE_0098:
  29: 0x0098 [0x02] IF !(ExtData[1]->WorkLocal[23] <= 0*) GOTO 0x01DD
- 30: 0x00A0 [0x24] CREATE_DIALOG(message_id=7363*, default_option=2*, option_flags=0*)
+ 30: 0x00A0 [0x24] CREATE_DIALOG(message_id=7364*, default_option=2*, option_flags=0*)
     → "Enter the battlefield? [Enter using $5./Enter./Decline.]"
  31: 0x00A7 [0x25] WAIT_DIALOG_SELECT()
  32: 0x00A8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01B7
@@ -336,7 +336,7 @@ SUBROUTINE_0098:
 
 SUBROUTINE_013D:
  56: 0x013D [0x03] Work_Zone[2] = 1805*
- 57: 0x0142 [0x24] CREATE_DIALOG(message_id=7511*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
+ 57: 0x0142 [0x24] CREATE_DIALOG(message_id=7512*, default_option=0*, option_flags=ExtData[1]->WorkLocal[24])
     → "How many $5 will you use? [None./One./Two./Three./Four./Five.]"
  58: 0x0149 [0x25] WAIT_DIALOG_SELECT()
  59: 0x014A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0155
@@ -376,7 +376,7 @@ SUBROUTINE_01B4:
 SUBROUTINE_01DA:
  90: 0x01DA [0x01] GOTO 0x0098
  91: 0x01DD [0x01] GOTO 0x01FA
- 92: 0x01E0 [0x24] CREATE_DIALOG(message_id=7344*, default_option=1*, option_flags=0*)
+ 92: 0x01E0 [0x24] CREATE_DIALOG(message_id=7345*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  93: 0x01E7 [0x25] WAIT_DIALOG_SELECT()
  94: 0x01E8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01FA
@@ -408,7 +408,7 @@ SUBROUTINE_01FA:
 118: 0x025A [0x02] IF !(ExtData[1]->WorkLocal[19] == 1*) GOTO 0x0265
 119: 0x0262 [0x01] GOTO 0x03FE
 120: 0x0265 [0x02] IF !(ExtData[1]->WorkLocal[19] == 2*) GOTO 0x027B
-121: 0x026D [0x48] [System] [7334*]:
+121: 0x026D [0x48] [System] [7335*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 122: 0x0270 [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x0271 [0x03] Work_Zone[1] = 4095*
@@ -418,7 +418,7 @@ SUBROUTINE_01FA:
 SUBROUTINE_0346:
 126: 0x0346 [0x02] IF !(ExtData[1]->WorkLocal[11] == 0*) GOTO 0x036C
 127: 0x034E [0x02] IF !(ExtData[1]->WorkLocal[17] == 1*) GOTO 0x036C
-128: 0x0356 [0x24] CREATE_DIALOG(message_id=7340*, default_option=1*, option_flags=0*)
+128: 0x0356 [0x24] CREATE_DIALOG(message_id=7341*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 129: 0x035D [0x25] WAIT_DIALOG_SELECT()
 130: 0x035E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x036C
@@ -456,7 +456,7 @@ SUBROUTINE_03BC:
 156: 0x03FA [0x00] END_REQSTACK()
 
 SUBROUTINE_03FE:
-157: 0x03FE [0x48] [System] [7333*]:
+157: 0x03FE [0x48] [System] [7334*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 158: 0x0401 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x0402 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -621,14 +621,14 @@ SUBROUTINE_046B:
 #### Opcodes
 
 ```
-  0: 0x057C [0x48] [System] [7691*]:
+  0: 0x057C [0x48] [System] [7692*]:
     → "You have not claimed all of your battle rewards."
   1: 0x057F [0x1C] WAIT(40* ticks)
-  2: 0x0582 [0x24] CREATE_DIALOG(message_id=7355*, default_option=1*, option_flags=0*)
+  2: 0x0582 [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
     → "Relinquish your claim to the battle spoils? [Yes./On second thought...]"
   3: 0x0589 [0x25] WAIT_DIALOG_SELECT()
   4: 0x058A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05BD
-  5: 0x0592 [0x24] CREATE_DIALOG(message_id=7356*, default_option=1*, option_flags=0*)
+  5: 0x0592 [0x24] CREATE_DIALOG(message_id=7357*, default_option=1*, option_flags=0*)
     → "Items will be lost. Are you certain? [Yes, relinquish./No, retain.]"
   6: 0x0599 [0x25] WAIT_DIALOG_SELECT()
   7: 0x059A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x05AA

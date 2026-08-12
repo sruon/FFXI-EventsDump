@@ -35,9 +35,9 @@
 |       5 | 0x0001      |           1 |
 |       6 | 0x0031      |          49 |
 |       7 | 0x0DA5      |        3493 |
-|       8 | 0x1D5B      |        7515 |
+|       8 | 0x1D5C      |        7516 |
 |       9 | 0x0032      |          50 |
-|      10 | 0x1D5E      |        7518 |
+|      10 | 0x1D5F      |        7519 |
 |      11 | 0x0046      |          70 |
 |      12 | 0x001E      |          30 |
 |      13 | 0x0064      |         100 |
@@ -55,45 +55,45 @@
 |      25 | 0xFFFFF940  |  4294965568 |
 |      26 | 0xFFFE6BA0  |  4294863776 |
 |      27 | 0x03A2      |         930 |
-|      28 | 0x1D8B      |        7563 |
-|      29 | 0x1D8F      |        7567 |
+|      28 | 0x1D8C      |        7564 |
+|      29 | 0x1D90      |        7568 |
 |      30 | 0x0078      |         120 |
 |      31 | 0x0018      |          24 |
 |      32 | 0x00E7      |         231 |
-|      33 | 0x1F0D      |        7949 |
-|      34 | 0x1F0E      |        7950 |
+|      33 | 0x1F0E      |        7950 |
+|      34 | 0x1F0F      |        7951 |
 |      35 | 0x0005      |           5 |
 |      36 | 0x0006      |           6 |
-|      37 | 0x1F0F      |        7951 |
-|      38 | 0x1F10      |        7952 |
-|      39 | 0x1F11      |        7953 |
-|      40 | 0x1F12      |        7954 |
-|      41 | 0x1F13      |        7955 |
-|      42 | 0x1F14      |        7956 |
-|      43 | 0x1F15      |        7957 |
-|      44 | 0x1F16      |        7958 |
-|      45 | 0x1F17      |        7959 |
-|      46 | 0x1F18      |        7960 |
-|      47 | 0x1F19      |        7961 |
+|      37 | 0x1F10      |        7952 |
+|      38 | 0x1F11      |        7953 |
+|      39 | 0x1F12      |        7954 |
+|      40 | 0x1F13      |        7955 |
+|      41 | 0x1F14      |        7956 |
+|      42 | 0x1F15      |        7957 |
+|      43 | 0x1F16      |        7958 |
+|      44 | 0x1F17      |        7959 |
+|      45 | 0x1F18      |        7960 |
+|      46 | 0x1F19      |        7961 |
+|      47 | 0x1F1A      |        7962 |
 |      48 | 0x00A7      |         167 |
 |      49 | 0x000C      |          12 |
 |      50 | 0x005A      |          90 |
-|      51 | 0x1F1A      |        7962 |
-|      52 | 0x1F1B      |        7963 |
-|      53 | 0x1F1C      |        7964 |
+|      51 | 0x1F1B      |        7963 |
+|      52 | 0x1F1C      |        7964 |
+|      53 | 0x1F1D      |        7965 |
 |      54 | 0x0095      |         149 |
-|      55 | 0x1F1D      |        7965 |
-|      56 | 0x1F1E      |        7966 |
-|      57 | 0x1F1F      |        7967 |
-|      58 | 0x1F20      |        7968 |
+|      55 | 0x1F1E      |        7966 |
+|      56 | 0x1F1F      |        7967 |
+|      57 | 0x1F20      |        7968 |
+|      58 | 0x1F21      |        7969 |
 |      59 | 0x0E5A      |        3674 |
-|      60 | 0x1F21      |        7969 |
-|      61 | 0x1F22      |        7970 |
+|      60 | 0x1F22      |        7970 |
+|      61 | 0x1F23      |        7971 |
 
 ## String References
 
-- **7563**: The $0 jumps in your hands.
-- **7567**: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
+- **7564**: The $0 jumps in your hands.
+- **7568**: Ahahahahaha! You're almost on top of it! It's somewhere in this area!
 
 ## Events
 
@@ -204,7 +204,7 @@
  30: 0x00EE [0x4B] UPDATE_ENTITY_YAW(entity=Rochefogne (ID: 17388030/0x010951FE), yaw=19.2°*)
  31: 0x00F5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Rochefogne (ID: 17388030/0x010951FE), tag_num=0x1F)
  32: 0x00FC [0x27] REQ_SET(priority=0x0B, entity_id=Vauderame (ID: 17388031/0x010951FF), tag_num=0x16)
- 33: 0x0103 [0x2B] Vauderame (ID: 17388031/0x010951FF) [7515*]:
+ 33: 0x0103 [0x2B] Vauderame (ID: 17388031/0x010951FF) [7516*]:
     → "Well, no matter. The fact is, there is someone else who is looking for the sword. And, either they have got to it first or..."
  34: 0x010A [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x010B [0x2A] GET_REQ_LEVEL(level=11, entity_id=Vauderame (ID: 17388031/0x010951FF))
@@ -219,7 +219,7 @@
  44: 0x0151 [0x52] END_LOAD_SCHEDULER: End scheduler "s028" with entities [EventEntity, EventEntity], work=49*
  45: 0x0160 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [EventEntity, EventEntity], work=[49*, 0*]
  46: 0x0171 [0x79] Rochefogne (ID: 17388030/0x010951FE) looks at Vauderame (ID: 17388031/0x010951FF) (Basic look)
- 47: 0x017B [0x2B] Vauderame (ID: 17388031/0x010951FF) [7518*]:
+ 47: 0x017B [0x2B] Vauderame (ID: 17388031/0x010951FF) [7519*]:
     → "...nuisance..."
  48: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0183 [0x79] Rochefogne (ID: 17388030/0x010951FE) looks at LocalPlayer (Basic look)
@@ -368,10 +368,10 @@
   2: 0x0245 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   3: 0x0247 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   4: 0x0249 [0x1C] WAIT(1* ticks)
-  5: 0x024C [0x48] [System] [7563*]:
+  5: 0x024C [0x48] [System] [7564*]:
     → "The $0 jumps in your hands."
   6: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=7567*)
+  7: 0x0250 [0x1D] PRINT_EVENT_MESSAGE(message_id=7568*)
     → "Ahahahahaha! You're almost on top of it! It's somewhere in this area!"
   8: 0x0253 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0254 [0x4E] SET_ENTITY_HIDE_FLAG: Show LocalPlayer
@@ -563,11 +563,11 @@
  20: 0x02F6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  21: 0x02F7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until LocalPlayer Render.Flags0 and Render.Flags3 conditions are met
  22: 0x02FC [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x030F
- 23: 0x0304 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7949*]:
+ 23: 0x0304 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7950*]:
     → "Impressive... You don't look like one of Teulomme's lackeys. Who are you?"
  24: 0x030B [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x030C [0x01] GOTO 0x0317
- 26: 0x030F [0x2B] Dauperiat (ID: 17388033/0x01095201) [7950*]:
+ 26: 0x030F [0x2B] Dauperiat (ID: 17388033/0x01095201) [7951*]:
     → "Impressive... You don't look like one of Teulomme's lackeys. Wait...you're that adventurer."
  27: 0x0316 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -589,10 +589,10 @@ SUBROUTINE_0317:
 
 SUBROUTINE_039C:
  42: 0x039C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 43: 0x03AD [0x2B] Dauperiat (ID: 17388033/0x01095201) [7951*]:
+ 43: 0x03AD [0x2B] Dauperiat (ID: 17388033/0x01095201) [7952*]:
     → "Hrmph. So you heard someone was threatening the count, and you were asked to find out who it was?"
  44: 0x03B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x03B5 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7952*]:
+ 45: 0x03B5 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7953*]:
     → "So now that you've found me, it's straight to the Royal Knights, I suppose?"
  46: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x03BD [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x03D7
@@ -607,17 +607,17 @@ SUBROUTINE_0400:
  54: 0x0400 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [EventEntity, EventEntity], work=[24*, 0*]
  55: 0x0411 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x07)
  56: 0x0418 [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x042B
- 57: 0x0420 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7953*]:
+ 57: 0x0420 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7954*]:
     → "No? What an unusual request you've undertaken."
  58: 0x0427 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0428 [0x01] GOTO 0x0433
- 60: 0x042B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7954*]:
+ 60: 0x042B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7955*]:
     → "No? You always were one for undertaking unusual requests."
  61: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0433:
  62: 0x0433 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x08)
- 63: 0x043A [0x2B] Dauperiat (ID: 17388033/0x01095201) [7955*]:
+ 63: 0x043A [0x2B] Dauperiat (ID: 17388033/0x01095201) [7956*]:
     → "Very well. Seeing as you've brought me the $1, I should consider you a welcome guest. I'll let you in on a little secret about Count Teulomme."
  64: 0x0441 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0442 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [EventEntity, EventEntity], work=24*
@@ -631,7 +631,7 @@ SUBROUTINE_0433:
 
 SUBROUTINE_049A:
  73: 0x049A [0x27] REQ_SET(priority=0x0B, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x22)
- 74: 0x04A1 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7956*]:
+ 74: 0x04A1 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7957*]:
     → "I assume you've heard of Atarefaunet's Band? Did you know their services could be bought for the right price?"
  75: 0x04A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x04A9 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Dauperiat (ID: 17388033/0x01095201))
@@ -648,13 +648,13 @@ SUBROUTINE_04F2:
  85: 0x0503 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s058" with entities [EventEntity, EventEntity], work=[24*, 0*]
  86: 0x0514 [0x4A] LocalPlayer looks at Dauperiat (ID: 17388033/0x01095201)
  87: 0x051D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x15)
- 88: 0x0524 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7957*]:
+ 88: 0x0524 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7958*]:
     → "Even now, most people regard them as little more than a band of particularly vicious thieves."
  89: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x052C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x16)
  91: 0x0533 [0x79] Dauperiat (ID: 17388033/0x01095201) looks at LocalPlayer (Basic look)
  92: 0x053D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x17)
- 93: 0x0544 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7958*]:
+ 93: 0x0544 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7959*]:
     → "A client utilizing their talents for unsavory deeds could thus escape any incrimination."
  94: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x054C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x18)
@@ -673,10 +673,10 @@ SUBROUTINE_05B1:
 106: 0x05B1 [0x4A] Dauperiat (ID: 17388033/0x01095201) looks at LocalPlayer
 107: 0x05BA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 108: 0x05BB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dauperiat (ID: 17388033/0x01095201) Render.Flags0 and Render.Flags3 conditions are met
-109: 0x05C0 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7959*]:
+109: 0x05C0 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7960*]:
     → "But after the war ended, the leader of the band, Atarefaunet, was captured by a pair of bounty hunters."
 110: 0x05C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x05C8 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7960*]:
+111: 0x05C8 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7961*]:
     → "Naturally, the band's clients were falling over themselves to have him silenced before all their dirty secrets came to light."
 112: 0x05CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x05D0 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x05EA
@@ -698,7 +698,7 @@ SUBROUTINE_0613:
 127: 0x065C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s060" with entities [EventEntity, EventEntity], work=[24*, 0*]
 
 SUBROUTINE_066D:
-128: 0x066D [0x2B] Dauperiat (ID: 17388033/0x01095201) [7961*]:
+128: 0x066D [0x2B] Dauperiat (ID: 17388033/0x01095201) [7962*]:
     → "One of those clients was our very own Count Teulomme. The man who lords it over the territory of Carpenters' Landing."
 129: 0x0674 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0675 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -731,16 +731,16 @@ SUBROUTINE_06D1:
 155: 0x0726 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[24*, 0*]
 156: 0x0737 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 157: 0x0748 [0x1C] WAIT(100* ticks)
-158: 0x074B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7962*]:
+158: 0x074B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7963*]:
     → "The count realized that Atarefaunet would eventually be executed under San d'Orian law, but the condemned man needed to be taken care of before any inquisitions into his crimes had begun."
 159: 0x0752 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0753 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=24*
 161: 0x0762 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 162: 0x0773 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [EventEntity, EventEntity], work=[24*, 0*]
-163: 0x0784 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7963*]:
+163: 0x0784 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7964*]:
     → "And so, he bought off the oubliette guard and arranged for poison to be mixed with Atarefaunet's meal."
 164: 0x078B [0x23] WAIT_FOR_DIALOG_INTERACTION
-165: 0x078C [0x2B] Dauperiat (ID: 17388033/0x01095201) [7964*]:
+165: 0x078C [0x2B] Dauperiat (ID: 17388033/0x01095201) [7965*]:
     → "But this was exactly what Atarefaunet was waiting for. Feigning death by poison was by far the preferable option to hanging or decapitation!"
 166: 0x0793 [0x23] WAIT_FOR_DIALOG_INTERACTION
 167: 0x0794 [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [EventEntity, EventEntity], work=24*
@@ -772,10 +772,10 @@ SUBROUTINE_06D1:
 SUBROUTINE_084B:
 192: 0x084B [0x27] REQ_SET(priority=0x0B, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x24)
 193: 0x0852 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-194: 0x0863 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7965*]:
+194: 0x0863 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7966*]:
     → "Heh-heh... Atarefaunet used this opportunity to erase his existence from the world."
 195: 0x086A [0x23] WAIT_FOR_DIALOG_INTERACTION
-196: 0x086B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7966*]:
+196: 0x086B [0x2B] Dauperiat (ID: 17388033/0x01095201) [7967*]:
     → "And secrets that would cause apoplexy in half a hundred corrupt nobles went with him."
 197: 0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x0873 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Dauperiat (ID: 17388033/0x01095201))
@@ -793,10 +793,10 @@ SUBROUTINE_08BC:
 208: 0x08D6 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 209: 0x08D7 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dauperiat (ID: 17388033/0x01095201) Render.Flags0 and Render.Flags3 conditions are met
 210: 0x08DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x01)
-211: 0x08E3 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7967*]:
+211: 0x08E3 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7968*]:
     → "How you use this knowledge is up to you. But I suggest you avoid doing anything to cross Atarefaunet--not if you're fond of your current breathing state."
 212: 0x08EA [0x23] WAIT_FOR_DIALOG_INTERACTION
-213: 0x08EB [0x2B] Dauperiat (ID: 17388033/0x01095201) [7968*]:
+213: 0x08EB [0x2B] Dauperiat (ID: 17388033/0x01095201) [7969*]:
     → "After his "death," Atarefaunet slipped off to a nation in the west, yet rumor has it he's surfaced in these lands again."
 214: 0x08F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 215: 0x08F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17388033/0x01095201), tag_num=0x02)
@@ -806,10 +806,10 @@ SUBROUTINE_08BC:
 219: 0x091F [0x4B] UPDATE_ENTITY_YAW(entity=Dauperiat (ID: 17388033/0x01095201), yaw=20.2°*)
 220: 0x0926 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 221: 0x0927 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dauperiat (ID: 17388033/0x01095201) Render.Flags0 and Render.Flags3 conditions are met
-222: 0x092C [0x2B] Dauperiat (ID: 17388033/0x01095201) [7969*]:
+222: 0x092C [0x2B] Dauperiat (ID: 17388033/0x01095201) [7970*]:
     → "I don't know who your employer is, but for a normal townsperson this knowledge would be fatal."
 223: 0x0933 [0x23] WAIT_FOR_DIALOG_INTERACTION
-224: 0x0934 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7970*]:
+224: 0x0934 [0x2B] Dauperiat (ID: 17388033/0x01095201) [7971*]:
     → "Take that as advice from the executioner. Farewell."
 225: 0x093B [0x23] WAIT_FOR_DIALOG_INTERACTION
 226: 0x093C [0x52] END_LOAD_SCHEDULER: End scheduler "s061" with entities [EventEntity, EventEntity], work=24*

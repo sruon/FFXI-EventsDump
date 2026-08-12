@@ -52,7 +52,7 @@
 |      19 | 0x0003      |           3 |
 |      20 | 0x00E2      |         226 |
 |      21 | 0x00E3      |         227 |
-|      22 | 0x1C95      |        7317 |
+|      22 | 0x1C96      |        7318 |
 |      23 | 0x0040      |          64 |
 |      24 | 0x012C      |         300 |
 |      25 | 0x0078      |         120 |
@@ -66,105 +66,105 @@
 |      33 | 0xFFFF49FD  |  4294920701 |
 |      34 | 0xFFFE72BD  |  4294865597 |
 |      35 | 0xFFFFC0D0  |  4294951120 |
-|      36 | 0x1CAE      |        7342 |
+|      36 | 0x1CAF      |        7343 |
 |      37 | 0xFFFF4341  |  4294918977 |
 |      38 | 0xFFFE7216  |  4294865430 |
 |      39 | 0xFFFFC038  |  4294950968 |
-|      40 | 0x1CAF      |        7343 |
-|      41 | 0x1CB0      |        7344 |
+|      40 | 0x1CB0      |        7344 |
+|      41 | 0x1CB1      |        7345 |
 |      42 | 0x00FE      |         254 |
-|      43 | 0x1CB1      |        7345 |
-|      44 | 0x1CB2      |        7346 |
-|      45 | 0x1CB3      |        7347 |
-|      46 | 0x1CB4      |        7348 |
-|      47 | 0x1CB5      |        7349 |
-|      48 | 0x1CB6      |        7350 |
+|      43 | 0x1CB2      |        7346 |
+|      44 | 0x1CB3      |        7347 |
+|      45 | 0x1CB4      |        7348 |
+|      46 | 0x1CB5      |        7349 |
+|      47 | 0x1CB6      |        7350 |
+|      48 | 0x1CB7      |        7351 |
 |      49 | 0x0001      |           1 |
-|      50 | 0x1CB7      |        7351 |
+|      50 | 0x1CB8      |        7352 |
 |      51 | 0x000F      |          15 |
-|      52 | 0x1CB8      |        7352 |
+|      52 | 0x1CB9      |        7353 |
 |      53 | 0x001E      |          30 |
 |      54 | 0x002D      |          45 |
 |      55 | 0x0D48      |        3400 |
-|      56 | 0x1CB9      |        7353 |
-|      57 | 0x1CBA      |        7354 |
+|      56 | 0x1CBA      |        7354 |
+|      57 | 0x1CBB      |        7355 |
 |      58 | 0x0FD2      |        4050 |
-|      59 | 0x1CBB      |        7355 |
-|      60 | 0x1CBC      |        7356 |
-|      61 | 0x1CBD      |        7357 |
-|      62 | 0x1CBE      |        7358 |
-|      63 | 0x1CBF      |        7359 |
+|      59 | 0x1CBC      |        7356 |
+|      60 | 0x1CBD      |        7357 |
+|      61 | 0x1CBE      |        7358 |
+|      62 | 0x1CBF      |        7359 |
+|      63 | 0x1CC0      |        7360 |
 |      64 | 0xFFFF5098  |  4294922392 |
 |      65 | 0xFFFE76D8  |  4294866648 |
 |      66 | 0xFFFFC086  |  4294951046 |
 |      67 | 0x0711      |        1809 |
-|      68 | 0x1CC0      |        7360 |
+|      68 | 0x1CC1      |        7361 |
 |      69 | 0x0004      |           4 |
 |      70 | 0x0008      |           8 |
 |      71 | 0x0006      |           6 |
-|      72 | 0x1CC1      |        7361 |
-|      73 | 0x1CC2      |        7362 |
-|      74 | 0x1CC3      |        7363 |
-|      75 | 0x1CC4      |        7364 |
-|      76 | 0x1CC5      |        7365 |
+|      72 | 0x1CC2      |        7362 |
+|      73 | 0x1CC3      |        7363 |
+|      74 | 0x1CC4      |        7364 |
+|      75 | 0x1CC5      |        7365 |
+|      76 | 0x1CC6      |        7366 |
 |      77 | 0x0032      |          50 |
 |      78 | 0xFFFDC42D  |  4294820909 |
 |      79 | 0xFFFF9967  |  4294941031 |
 |      80 | 0xFFFFDF49  |  4294958921 |
 |      81 | 0x0664      |        1636 |
 |      82 | 0x0027      |          39 |
-|      83 | 0x1CC8      |        7368 |
+|      83 | 0x1CC9      |        7369 |
 |      84 | 0x00C9      |         201 |
-|      85 | 0x1CC9      |        7369 |
+|      85 | 0x1CCA      |        7370 |
 |      86 | 0x00A1      |         161 |
 |      87 | 0xFFFDC78B  |  4294821771 |
 |      88 | 0xFFFF9578  |  4294940024 |
 |      89 | 0xFFFFDF38  |  4294958904 |
 |      90 | 0x0FF1      |        4081 |
-|      91 | 0x1CCA      |        7370 |
-|      92 | 0x1CCB      |        7371 |
-|      93 | 0x1CCC      |        7372 |
-|      94 | 0x1CCD      |        7373 |
+|      91 | 0x1CCB      |        7371 |
+|      92 | 0x1CCC      |        7372 |
+|      93 | 0x1CCD      |        7373 |
+|      94 | 0x1CCE      |        7374 |
 |      95 | 0x00E1      |         225 |
-|      96 | 0x1CCE      |        7374 |
-|      97 | 0x1CCF      |        7375 |
-|      98 | 0x1CD0      |        7376 |
+|      96 | 0x1CCF      |        7375 |
+|      97 | 0x1CD0      |        7376 |
+|      98 | 0x1CD1      |        7377 |
 |      99 | 0x009D      |         157 |
 |     100 | 0xFFFDC201  |  4294820353 |
 |     101 | 0xFFFF92EC  |  4294939372 |
 |     102 | 0xFFFFDFB4  |  4294959028 |
 |     103 | 0x0AC5      |        2757 |
-|     104 | 0x1CD1      |        7377 |
-|     105 | 0x1CD2      |        7378 |
-|     106 | 0x1CD3      |        7379 |
-|     107 | 0x1CD4      |        7380 |
-|     108 | 0x1CD5      |        7381 |
-|     109 | 0x1CD6      |        7382 |
-|     110 | 0x1CD7      |        7383 |
+|     104 | 0x1CD2      |        7378 |
+|     105 | 0x1CD3      |        7379 |
+|     106 | 0x1CD4      |        7380 |
+|     107 | 0x1CD5      |        7381 |
+|     108 | 0x1CD6      |        7382 |
+|     109 | 0x1CD7      |        7383 |
+|     110 | 0x1CD8      |        7384 |
 |     111 | 0x0A8C      |        2700 |
-|     112 | 0x1CD8      |        7384 |
-|     113 | 0x1CD9      |        7385 |
+|     112 | 0x1CD9      |        7385 |
+|     113 | 0x1CDA      |        7386 |
 |     114 | 0x01F5      |         501 |
 |     115 | 0x00F0      |         240 |
-|     116 | 0x1CDA      |        7386 |
-|     117 | 0x1CDB      |        7387 |
+|     116 | 0x1CDB      |        7387 |
+|     117 | 0x1CDC      |        7388 |
 |     118 | 0x0DAC      |        3500 |
-|     119 | 0x1CDC      |        7388 |
-|     120 | 0x1CDD      |        7389 |
+|     119 | 0x1CDD      |        7389 |
+|     120 | 0x1CDE      |        7390 |
 |     121 | 0x0826      |        2086 |
-|     122 | 0x1CDE      |        7390 |
-|     123 | 0x1CDF      |        7391 |
-|     124 | 0x1CE0      |        7392 |
-|     125 | 0x1CE1      |        7393 |
+|     122 | 0x1CDF      |        7391 |
+|     123 | 0x1CE0      |        7392 |
+|     124 | 0x1CE1      |        7393 |
+|     125 | 0x1CE2      |        7394 |
 |     126 | 0x005A      |          90 |
-|     127 | 0x1CE2      |        7394 |
-|     128 | 0x1CE3      |        7395 |
+|     127 | 0x1CE3      |        7395 |
+|     128 | 0x1CE4      |        7396 |
 
 ## String References
 
-- **7317**: You place $6 and $6 together upon the altar.
-- **7350**: What say you? Hear my offer? [I'm all ears./What? What!?]
-- **7354**: What say you? [I'm your [man/woman]!/Deliver it yourself!]
+- **7318**: You place $6 and $6 together upon the altar.
+- **7351**: What say you? Hear my offer? [I'm all ears./What? What!?]
+- **7355**: What say you? [I'm your [man/woman]!/Deliver it yourself!]
 
 ## Events
 
@@ -365,7 +365,7 @@
  26: 0x013E [0x1C] WAIT(60* ticks)
  27: 0x0141 [0x03] Work_Zone[2] = 226*
  28: 0x0146 [0x03] Work_Zone[3] = 227*
- 29: 0x014B [0x48] [System] [7317*]:
+ 29: 0x014B [0x48] [System] [7318*]:
     → "You place $6 and $6 together upon the altar."
  30: 0x014E [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x014F [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "res2" with entities [EventEntity, EventEntity]
@@ -482,46 +482,46 @@
  17: 0x02A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  18: 0x02B6 [0x1E] EventEntity looks at Loo Kohor (ID: 17391855/0x010960EF) and starts talking
  19: 0x02BB [0x1C] WAIT(60* ticks)
- 20: 0x02BE [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7342*]:
+ 20: 0x02BE [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7343*]:
     → "Kukhu... Hahmkyanmho khoronhma-sahlmi, chakgon buhim!"
  21: 0x02C5 [0x1F] MOVE_ENTITY: EventEntity moves to X=-48.319*, Z=-101.866*, Y=-16.328*
  22: 0x02CD [0x1F] MOVE_ENTITY: Update entity position (mode=1)
  23: 0x02CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x02D0 [0x4A] Loo Kohor (ID: 17391855/0x010960EF) looks at LocalPlayer
- 25: 0x02D9 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7343*]:
+ 25: 0x02D9 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7344*]:
     → "Kweh? Kharabom, tspoluhi...! Ahk! What business have you here!?"
  26: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x02E1 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [LocalPlayer, LocalPlayer], work=5*
  28: 0x02F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 29: 0x0301 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7344*]:
+ 29: 0x0301 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7345*]:
     → "(Though merely exchanging words with a heretic heathen can be punished with an eternity of damnation, the almighty Tzee Xicu will surely forgive me for what I am about to do...)"
  30: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0309 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
- 32: 0x0318 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7345*]:
+ 32: 0x0318 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7346*]:
     → "Ahem...kwahk! I am Loo Kohor, servant of Tzee Xicu the Manifest. I have traveled from mighty Castle Oztroja in the mountains of Aragoneu to deliver a message to the Orcs."
  33: 0x031F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0320 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7346*]:
+ 34: 0x0320 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7347*]:
     → "However, it seems that information of my visit has not been relayed to the lower ranks of the Orcish army."
  35: 0x0327 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0328 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
  37: 0x0337 [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [LocalPlayer, LocalPlayer], work=5*
  38: 0x0346 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 39: 0x0357 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7347*]:
+ 39: 0x0357 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7348*]:
     → "And as you probably already know, the oversized swine do not make a habit of asking many questions before they proceed in prodding you with one of their pointy weapons."
  40: 0x035E [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x035F [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x02)
- 42: 0x0366 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7348*]:
+ 42: 0x0366 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7349*]:
     → "Alright. Adventurer, are you not?"
  43: 0x036D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x036E [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7349*]:
+ 44: 0x036E [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7350*]:
     → "I hear tales that your type will do just about anything...if the price is right."
  45: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x0376 [0x24] CREATE_DIALOG(message_id=7350*, default_option=0*, option_flags=0*)
+ 46: 0x0376 [0x24] CREATE_DIALOG(message_id=7351*, default_option=0*, option_flags=0*)
     → "What say you? Hear my offer? [I'm all ears./What? What!?]"
  47: 0x037D [0x25] WAIT_DIALOG_SELECT()
  48: 0x037E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x03CC
  49: 0x0386 [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x05)
- 50: 0x038D [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7351*]:
+ 50: 0x038D [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7352*]:
     → "Hmph... Will not lend your services to a "lowly" beastman, I see. Now, who truly is the "beast"?"
  51: 0x0394 [0x1C] WAIT(15* ticks)
  52: 0x0397 [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=5*
@@ -534,7 +534,7 @@
 
 SUBROUTINE_03CC:
  59: 0x03CC [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x05)
- 60: 0x03D3 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7352*]:
+ 60: 0x03D3 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7353*]:
     → "Kwah! So the rumors are true. In the shadow of gold, your faith is lost. What pitiful creatures you are..."
  61: 0x03DA [0x1C] WAIT(30* ticks)
  62: 0x03DD [0x52] END_LOAD_SCHEDULER: End scheduler "s010" with entities [LocalPlayer, LocalPlayer], work=5*
@@ -544,39 +544,39 @@ SUBROUTINE_03CC:
  66: 0x0405 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0406 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Loo Kohor (ID: 17391855/0x010960EF))
  68: 0x040C [0x4B] UPDATE_ENTITY_YAW(entity=Loo Kohor (ID: 17391855/0x010960EF), yaw=18.7°*)
- 69: 0x0413 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7353*]:
+ 69: 0x0413 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7354*]:
     → "However, I am not one to judge those who have chosen to walk their path in darkness. I need you to deliver this parchment to the Orcish Overlord. You will be paid upon your return."
  70: 0x041A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x041B [0x24] CREATE_DIALOG(message_id=7354*, default_option=0*, option_flags=0*)
+ 71: 0x041B [0x24] CREATE_DIALOG(message_id=7355*, default_option=0*, option_flags=0*)
     → "What say you? [I'm your [man/woman]!/Deliver it yourself!]"
  72: 0x0422 [0x25] WAIT_DIALOG_SELECT()
  73: 0x0423 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0463
  74: 0x042B [0x52] END_LOAD_SCHEDULER: End scheduler "s011" with entities [LocalPlayer, LocalPlayer], work=5*
  75: 0x043A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  76: 0x044B [0x4B] UPDATE_ENTITY_YAW(entity=Loo Kohor (ID: 17391855/0x010960EF), yaw=22.2°*)
- 77: 0x0452 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7355*]:
+ 77: 0x0452 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7356*]:
     → "Second thoughts? While your faith hides behind the temptation of carnal pleasures, those temptations are no match for the cowardice that rots your pitiful soul. Go on, now. Leave this place before you stumble and scratch your knee."
  78: 0x0459 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x045A [0x05] Work_Zone[1] = 1
  80: 0x045D [0x01] GOTO 0x04DC
 
 SUBROUTINE_0463:
- 81: 0x0463 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7356*]:
+ 81: 0x0463 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7357*]:
     → "Kwahah! Excellent. ...Hm? Not thinking of walking into Orc lair looking like that, are we?"
  82: 0x046A [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x046B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
  84: 0x047A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 85: 0x048B [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7357*]:
+ 85: 0x048B [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7358*]:
     → "The pathetic barbarians would slice you into ribbons and serve your flesh to the Overlord for supper. A disguise is what you need."
  86: 0x0492 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0493 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
- 88: 0x04A2 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7358*]:
+ 88: 0x04A2 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7359*]:
     → "Why not skin one of the grunts and use its thick leather to make yourself a mask to hide that repulsive face?"
  89: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x04AA [0x52] END_LOAD_SCHEDULER: End scheduler "s012" with entities [LocalPlayer, LocalPlayer], work=5*
  91: 0x04B9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s013" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  92: 0x04CA [0x4B] UPDATE_ENTITY_YAW(entity=Loo Kohor (ID: 17391855/0x010960EF), yaw=22.2°*)
- 93: 0x04D1 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7359*]:
+ 93: 0x04D1 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7360*]:
     → "I shall be waiting for you here when you have made your preparations."
  94: 0x04D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x04D9 [0x06] Work_Zone[1] = 0
@@ -680,7 +680,7 @@ SUBROUTINE_04DC:
  14: 0x05B6 [0x1C] WAIT(45* ticks)
  15: 0x05B9 [0x4A] Loo Kohor (ID: 17391855/0x010960EF) looks at LocalPlayer
  16: 0x05C2 [0x1C] WAIT(30* ticks)
- 17: 0x05C5 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7360*]:
+ 17: 0x05C5 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7361*]:
     → "I was wondering when you would return. Now let me see your..."
  18: 0x05CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x05CD [0x52] END_LOAD_SCHEDULER: End scheduler "s014" with entities [LocalPlayer, LocalPlayer], work=5*
@@ -702,7 +702,7 @@ SUBROUTINE_04DC:
  35: 0x0668 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
 
 SUBROUTINE_0679:
- 36: 0x0679 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7361*]:
+ 36: 0x0679 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7362*]:
     → "........."
  37: 0x0680 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0681 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s015" with entities [LocalPlayer, LocalPlayer], work=5*
@@ -712,22 +712,22 @@ SUBROUTINE_0679:
  42: 0x06BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  43: 0x06D0 [0x1C] WAIT(45* ticks)
  44: 0x06D3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
- 45: 0x06E2 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7362*]:
+ 45: 0x06E2 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7363*]:
     → "Orlmhattjmha! Y-you don't really think you will fool the Orcs with that...that...thing, do you?"
  46: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x06EA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
- 48: 0x06F9 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7363*]:
+ 48: 0x06F9 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7364*]:
     → "<Sigh>... However, I guess I have not any choice but to trust you and your plan. Here is the communication you are to deliver."
  49: 0x0700 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0701 [0x52] END_LOAD_SCHEDULER: End scheduler "s016" with entities [LocalPlayer, LocalPlayer], work=5*
  51: 0x0710 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s017" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  52: 0x0721 [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x03)
- 53: 0x0728 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7364*]:
+ 53: 0x0728 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7365*]:
     → "You are to take it and place it within the Overlord's cryptexphere."
  54: 0x072F [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0730 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Loo Kohor (ID: 17391855/0x010960EF))
  56: 0x0736 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
- 57: 0x0745 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7365*]:
+ 57: 0x0745 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7366*]:
     → "Again, I will be waiting here for you behind these boulders, but let my will guide your spirit safely through this nest of fiends."
  58: 0x074C [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x074D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Loo Kohor (ID: 17391855/0x010960EF), Loo Kohor (ID: 17391855/0x010960EF)], work=254*
@@ -792,7 +792,7 @@ SUBROUTINE_0679:
   8: 0x0801 [0x6E] LocalPlayer uses emote 39*
   9: 0x0808 [0x99] Wait for LocalPlayer animation to complete
  10: 0x080D [0x4E] SET_ENTITY_HIDE_FLAG: Show Orcish Overlord (ID: 17391857/0x010960F1)
- 11: 0x0813 [0x2B] ??? (ID: 17391856/0x010960F0) [7368*]:
+ 11: 0x0813 [0x2B] ??? (ID: 17391856/0x010960F0) [7369*]:
     → "Uuhdahha! Kidanga rohhaah!"
  12: 0x081A [0x1C] WAIT(15* ticks)
  13: 0x081D [0x1E] EventEntity looks at Orcish Overlord (ID: 17391857/0x010960F1) and starts talking
@@ -801,7 +801,7 @@ SUBROUTINE_0679:
  16: 0x0832 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s024" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  17: 0x0843 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0854 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
- 19: 0x0865 [0x2B] Orcish Overlord (ID: 17391857/0x010960F1) [7369*]:
+ 19: 0x0865 [0x2B] Orcish Overlord (ID: 17391857/0x010960F1) [7370*]:
     → "Gahahah! I don't fall for your tricks! I know you too ugly to be Orc! Kill [him/her]!!!"
  20: 0x086C [0x1C] WAIT(60* ticks)
  21: 0x086F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -877,7 +877,7 @@ SUBROUTINE_0679:
  14: 0x0929 [0x1E] EventEntity looks at Orcish Overlord (ID: 17391857/0x010960F1) and starts talking
  15: 0x092E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "dead" with entities [Orcish Overlord (ID: 17391857/0x010960F1), Orcish Overlord (ID: 17391857/0x010960F1)]
  16: 0x093B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "dead" with entities [Orcish Overlord (ID: 17391857/0x010960F1), Orcish Overlord (ID: 17391857/0x010960F1)]
- 17: 0x0948 [0x2B] ??? (ID: 17391856/0x010960F0) [7370*]:
+ 17: 0x0948 [0x2B] ??? (ID: 17391856/0x010960F0) [7371*]:
     → "Stop!"
  18: 0x094F [0x1C] WAIT(30* ticks)
  19: 0x0952 [0x1E] EventEntity looks at Overlord Bakgodek (ID: 17391858/0x010960F2) and starts talking
@@ -886,30 +886,30 @@ SUBROUTINE_0679:
  22: 0x0962 [0x27] REQ_SET(priority=0x0A, entity_id=Overlord Bakgodek (ID: 17391858/0x010960F2), tag_num=0x02)
  23: 0x0969 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  24: 0x097A [0x1C] WAIT(30* ticks)
- 25: 0x097D [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7371*]:
+ 25: 0x097D [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7372*]:
     → "You fool! You bear name Overlord, but do not forget who has true power!"
  26: 0x0984 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x0985 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Overlord Bakgodek (ID: 17391858/0x010960F2))
  28: 0x098B [0x79] Overlord Bakgodek (ID: 17391858/0x010960F2) looks at LocalPlayer (Basic look)
- 29: 0x0995 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7372*]:
+ 29: 0x0995 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7373*]:
     → "My apology, adventurer. I see you are messenger for Yagudo."
  30: 0x099C [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x099D [0x52] END_LOAD_SCHEDULER: End scheduler "s026" with entities [LocalPlayer, LocalPlayer], work=5*
  32: 0x09AC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 33: 0x09BD [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7373*]:
+ 33: 0x09BD [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7374*]:
     → "But I don't understand. Why would child of Altana keep promise to beastman? Why would you risk life for him? You either very brave, very noble, or very stupid. Gahahah!"
  34: 0x09C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x09C5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Overlord Bakgodek (ID: 17391858/0x010960F2), Overlord Bakgodek (ID: 17391858/0x010960F2)], work=225*
- 36: 0x09D4 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7374*]:
+ 36: 0x09D4 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7375*]:
     → "We Orcs have no respect for coward. I'll be first to cut their throat! But we do respect bravery and good fight, whether fighter be enemy or friend!"
  37: 0x09DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x09DC [0x52] END_LOAD_SCHEDULER: End scheduler "s027" with entities [LocalPlayer, LocalPlayer], work=5*
  39: 0x09EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s028" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 40: 0x09FC [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7375*]:
+ 40: 0x09FC [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7376*]:
     → "Now, how can I repay you...?"
  41: 0x0A03 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0A04 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Overlord Bakgodek (ID: 17391858/0x010960F2), Overlord Bakgodek (ID: 17391858/0x010960F2)], work=225*
- 43: 0x0A13 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7376*]:
+ 43: 0x0A13 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7377*]:
     → "Ah! That ugly hat! Put it down on cryptexphere."
  44: 0x0A1A [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0A1B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=120*)
@@ -1002,39 +1002,39 @@ SUBROUTINE_0679:
  12: 0x0AC9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x0ADA [0x6E] LocalPlayer uses emote 39*
  14: 0x0AE1 [0x99] Wait for LocalPlayer animation to complete
- 15: 0x0AE6 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7377*]:
+ 15: 0x0AE6 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7378*]:
     → "Good. You take order well. Better than most of my troops!"
  16: 0x0AED [0x1C] WAIT(50* ticks)
  17: 0x0AF0 [0x1E] EventEntity looks at Overlord Bakgodek (ID: 17391858/0x010960F2) and starts talking
  18: 0x0AF5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0AF6 [0x7B] Overlord Bakgodek (ID: 17391858/0x010960F2) stops talking
- 20: 0x0AFB [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7378*]:
+ 20: 0x0AFB [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7379*]:
     → "Gadzradd! Gadzradd! Come now!"
  21: 0x0B02 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0B03 [0x4E] SET_ENTITY_HIDE_FLAG: Show Ironhand Gadzradd (ID: 17391859/0x010960F3)
  23: 0x0B09 [0x52] END_LOAD_SCHEDULER: End scheduler "s029" with entities [LocalPlayer, LocalPlayer], work=5*
  24: 0x0B18 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  25: 0x0B29 [0x27] REQ_SET(priority=0x0A, entity_id=Ironhand Gadzradd (ID: 17391859/0x010960F3), tag_num=0x02)
- 26: 0x0B30 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7379*]:
+ 26: 0x0B30 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7380*]:
     → "Yes, lord..."
  27: 0x0B37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0B38 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Ironhand Gadzradd (ID: 17391859/0x010960F3))
- 29: 0x0B3E [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7380*]:
+ 29: 0x0B3E [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7381*]:
     → "Starting today, you have new order. You protect this adventurer when [he/she] need you."
  30: 0x0B45 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x0B46 [0x79] Ironhand Gadzradd (ID: 17391859/0x010960F3) looks at Overlord Bakgodek (ID: 17391858/0x010960F2) (Basic look)
- 32: 0x0B50 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7381*]:
+ 32: 0x0B50 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7382*]:
     → "B-but lord..."
  33: 0x0B57 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0B58 [0x52] END_LOAD_SCHEDULER: End scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=5*
  35: 0x0B67 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  36: 0x0B78 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Overlord Bakgodek (ID: 17391858/0x010960F2), Overlord Bakgodek (ID: 17391858/0x010960F2)], work=225*
- 37: 0x0B87 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7382*]:
+ 37: 0x0B87 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7383*]:
     → "If adventurer use hat, you run to [his/her] side and fight to death!"
  38: 0x0B8E [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0B8F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Overlord Bakgodek (ID: 17391858/0x010960F2), Overlord Bakgodek (ID: 17391858/0x010960F2)], work=225*
  40: 0x0B9E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [Ironhand Gadzradd (ID: 17391859/0x010960F3), Ironhand Gadzradd (ID: 17391859/0x010960F3)], work=225*
- 41: 0x0BAD [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7383*]:
+ 41: 0x0BAD [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7384*]:
     → "Yes, lord! B-but..."
  42: 0x0BB4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0BB5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [Ironhand Gadzradd (ID: 17391859/0x010960F3), Ironhand Gadzradd (ID: 17391859/0x010960F3)], work=225*
@@ -1042,11 +1042,11 @@ SUBROUTINE_0679:
  45: 0x0BD3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  46: 0x0BE4 [0x79] Overlord Bakgodek (ID: 17391858/0x010960F2) looks at Ironhand Gadzradd (ID: 17391859/0x010960F3) (Basic look)
  47: 0x0BEE [0x4B] UPDATE_ENTITY_YAW(entity=Overlord Bakgodek (ID: 17391858/0x010960F2), yaw=14.8°*)
- 48: 0x0BF5 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7384*]:
+ 48: 0x0BF5 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7385*]:
     → "Even if [he/she] ask you to fight me, you don't step down, or I crush your skull myself!"
  49: 0x0BFC [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0BFD [0x7B] Ironhand Gadzradd (ID: 17391859/0x010960F3) stops talking
- 51: 0x0C02 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7385*]:
+ 51: 0x0C02 [0x2B] Ironhand Gadzradd (ID: 17391859/0x010960F3) [7386*]:
     → "U-understood..."
  52: 0x0C09 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0C0A [0x73] Ironhand Gadzradd (ID: 17391859/0x010960F3) casts magic 501* on Ironhand Gadzradd (ID: 17391859/0x010960F3)
@@ -1058,19 +1058,19 @@ SUBROUTINE_0679:
  59: 0x0C4D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  60: 0x0C5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  61: 0x0C6F [0x4A] Overlord Bakgodek (ID: 17391858/0x010960F2) looks at LocalPlayer
- 62: 0x0C78 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7386*]:
+ 62: 0x0C78 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7387*]:
     → "Here's hat. Proof of true bravery worthy of mighty Orc!"
  63: 0x0C7F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0C80 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7387*]:
+ 64: 0x0C80 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7388*]:
     → "Use hat to summon Gadzradd. He hides in shadows but comes when you call. No worry about language. Gadzradd speaks your words good."
  65: 0x0C87 [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x0C88 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=5*
  67: 0x0C97 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  68: 0x0CA8 [0x4B] UPDATE_ENTITY_YAW(entity=Overlord Bakgodek (ID: 17391858/0x010960F2), yaw=19.2°*)
- 69: 0x0CAF [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7388*]:
+ 69: 0x0CAF [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7389*]:
     → "Now I must go, adventurer."
  70: 0x0CB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 71: 0x0CB7 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7389*]:
+ 71: 0x0CB7 [0x2B] Overlord Bakgodek (ID: 17391858/0x010960F2) [7390*]:
     → "You are great warrior, and I salute you. But next time we meet we are enemy. Watch back, or you might be smashed into pulp! Gahahah!"
  72: 0x0CBE [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0CBF [0x27] REQ_SET(priority=0x0A, entity_id=Overlord Bakgodek (ID: 17391858/0x010960F2), tag_num=0x05)
@@ -1145,33 +1145,33 @@ SUBROUTINE_0679:
  13: 0x0D8E [0x1C] WAIT(60* ticks)
  14: 0x0D91 [0x4A] Loo Kohor (ID: 17391855/0x010960EF) looks at LocalPlayer
  15: 0x0D9A [0x1C] WAIT(30* ticks)
- 16: 0x0D9D [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7390*]:
+ 16: 0x0D9D [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7391*]:
     → "What took you so long? I was beginning to worry that you had been..."
  17: 0x0DA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0DA5 [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x02)
  19: 0x0DAC [0x1C] WAIT(30* ticks)
  20: 0x0DAF [0x52] END_LOAD_SCHEDULER: End scheduler "s020" with entities [LocalPlayer, LocalPlayer], work=5*
  21: 0x0DBE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
- 22: 0x0DCF [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7391*]:
+ 22: 0x0DCF [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7392*]:
     → "Ahem...kwahk! Here is your reward. Did you believe I would attempt to trick you? I know not your people's beliefs, but it is against the teachings of the almighty Tzee Xicu to break one's promise."
  23: 0x0DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x0DD7 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7392*]:
+ 24: 0x0DD7 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7393*]:
     → "What? Are you dissatisfied with your prize? Is this not what you wanted?"
  25: 0x0DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0DDF [0x52] END_LOAD_SCHEDULER: End scheduler "s021" with entities [LocalPlayer, LocalPlayer], work=5*
  27: 0x0DEE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=[5*, 0*]
  28: 0x0DFF [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x05)
- 29: 0x0E06 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7393*]:
+ 29: 0x0E06 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7394*]:
     → "Well, if you have any complaints, you may take them up directly with the Avatar himself--if you can make it there in one piece!"
  30: 0x0E0D [0x1C] WAIT(90* ticks)
  31: 0x0E10 [0x1E] EventEntity looks at Loo Kohor (ID: 17391855/0x010960EF) and starts talking
  32: 0x0E15 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0E16 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7394*]:
+ 33: 0x0E16 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7395*]:
     → "Now I must be off. Good day!"
  34: 0x0E1D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0E1E [0x1C] WAIT(45* ticks)
  36: 0x0E21 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s022" with entities [LocalPlayer, LocalPlayer], work=5*
- 37: 0x0E30 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7395*]:
+ 37: 0x0E30 [0x2B] Loo Kohor (ID: 17391855/0x010960EF) [7396*]:
     → "A heretic that keeps [his/her] word... Perhaps there still is some hope for the children of Altana..."
  38: 0x0E37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0E38 [0x27] REQ_SET(priority=0x0A, entity_id=Loo Kohor (ID: 17391855/0x010960EF), tag_num=0x06)

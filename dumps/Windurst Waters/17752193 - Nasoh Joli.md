@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0165      |         357 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x229D      |        8861 |
-|       3 | 0x229E      |        8862 |
+|       2 | 0x229E      |        8862 |
+|       3 | 0x229F      |        8863 |
 
 ## String References
 
-- **8861**: That building therrre is a hat shop, of all things. Don't you think it shows how carefrrree a rrrace those Tarutaru are to make such a whimsical business?
-- **8862**: Hats arrre totally useless! Give me a properrr armorrr helmet any day!
+- **8862**: That building therrre is a hat shop, of all things. Don't you think it shows how carefrrree a rrrace those Tarutaru are to make such a whimsical business?
+- **8863**: Hats arrre totally useless! Give me a properrr armorrr helmet any day!
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nasoh Joli (ID: 17752193/0x010EE081), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8861*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
     → "That building therrre is a hat shop, of all things. Don't you think it shows how carefrrree a rrrace those Tarutaru are to make such a whimsical business?"
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8862*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8863*)
     → "Hats arrre totally useless! Give me a properrr armorrr helmet any day!"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Nasoh Joli (ID: 17752193/0x010EE081), tag_num=0x03)

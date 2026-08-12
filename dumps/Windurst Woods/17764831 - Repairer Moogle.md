@@ -23,21 +23,21 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x51A3      |       20899 |
-|       1 | 0x3B9B      |       15259 |
-|       2 | 0x3B9C      |       15260 |
-|       3 | 0x3B9D      |       15261 |
-|       4 | 0x3B9E      |       15262 |
-|       5 | 0x3B9F      |       15263 |
-|       6 | 0x3BA0      |       15264 |
+|       1 | 0x3B9C      |       15260 |
+|       2 | 0x3B9D      |       15261 |
+|       3 | 0x3B9E      |       15262 |
+|       4 | 0x3B9F      |       15263 |
+|       5 | 0x3BA0      |       15264 |
+|       6 | 0x3BA1      |       15265 |
 
 ## String References
 
-- **15259**: Good day, adventurer! I am able to repair any broken item data related to $0.
-- **15260**: If you are unable to deliver $0, it's possible that the item data has been corrupted.
-- **15261**: Please trade your $0 to me so that I may fix it.
-- **15262**: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
-- **15263**: I have restored it to its intended functionality. Here you are!
-- **15264**: It appears that your item is working as intended.
+- **15260**: Good day, adventurer! I am able to repair any broken item data related to $0.
+- **15261**: If you are unable to deliver $0, it's possible that the item data has been corrupted.
+- **15262**: Please trade your $0 to me so that I may fix it.
+- **15263**: I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience.
+- **15264**: I have restored it to its intended functionality. Here you are!
+- **15265**: It appears that your item is working as intended.
 
 ## Events
 
@@ -85,13 +85,13 @@
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x03] Work_Zone[2] = 20899*
-  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=15259*)
+  2: 0x000B [0x1D] PRINT_EVENT_MESSAGE(message_id=15260*)
     → "Good day, adventurer! I am able to repair any broken item data related to $0."
   3: 0x000E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=15260*)
+  4: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=15261*)
     → "If you are unable to deliver $0, it's possible that the item data has been corrupted."
   5: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=15261*)
+  6: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=15262*)
     → "Please trade your $0 to me so that I may fix it."
   7: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0017 [0x21] END_EVENT
@@ -121,10 +121,10 @@
   0: 0x0019 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x001A [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x001F [0x03] Work_Zone[2] = 20899*
-  3: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=15262*)
+  3: 0x0024 [0x1D] PRINT_EVENT_MESSAGE(message_id=15263*)
     → "I have confirmed that the item data for your $0 has been corrupted. We apologize for the inconvenience."
   4: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=15263*)
+  5: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=15264*)
     → "I have restored it to its intended functionality. Here you are!"
   6: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x002C [0x21] END_EVENT
@@ -153,7 +153,7 @@
 ```
   0: 0x002E [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0033 [0x03] Work_Zone[2] = 20899*
-  2: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=15264*)
+  2: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=15265*)
     → "It appears that your item is working as intended."
   3: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x003C [0x21] END_EVENT

@@ -43,35 +43,35 @@
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0008      |           8 |
-|       3 | 0x2075      |        8309 |
+|       3 | 0x2076      |        8310 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x0000      |           0 |
 |       6 | 0xFFFFFFFC  |  4294967292 |
 |       7 | 0x0002      |           2 |
-|       8 | 0x2073      |        8307 |
-|       9 | 0x2074      |        8308 |
-|      10 | 0x2076      |        8310 |
-|      11 | 0x2077      |        8311 |
-|      12 | 0x2078      |        8312 |
-|      13 | 0x2079      |        8313 |
-|      14 | 0x207A      |        8314 |
-|      15 | 0x207B      |        8315 |
-|      16 | 0x207C      |        8316 |
-|      17 | 0x207D      |        8317 |
+|       8 | 0x2074      |        8308 |
+|       9 | 0x2075      |        8309 |
+|      10 | 0x2077      |        8311 |
+|      11 | 0x2078      |        8312 |
+|      12 | 0x2079      |        8313 |
+|      13 | 0x207A      |        8314 |
+|      14 | 0x207B      |        8315 |
+|      15 | 0x207C      |        8316 |
+|      16 | 0x207D      |        8317 |
+|      17 | 0x207E      |        8318 |
 
 ## String References
 
-- **8307**: Hey! What do you want? Don't tell me...
-- **8308**: You heard that I have a monster correlation chart and came to beg me to show it to you, rrright?
-- **8309**: Look at the tattered diagram? [Yes./No.]
-- **8310**: Oh, so you're just trying to flirt with me, huh? Well, sorry there, but I'm not interrrested in men or women. The only thing that makes my heart leap are the tracks and droppings of my next hunting game, thank you.
-- **8311**: I knew it! Alrrright then. I don't mind showing it to you. Besides, I'm a topnotch hunter, so I don't need it anyway.
-- **8312**: I was given this parchment a few years ago by a scrrruffy old Elvaan man. I helped him out when I found him lost in the woods, and this was his way of paying me back.
-- **8313**: To tell you the truth, I wasn't that interested in it, so I didn't pay much attention to his explanation and have forrrgotten most of what he said.
-- **8314**: It was something about how the different types of monsters eat each other in order to surrrvive, so I guess he was trying to tell me to referrr to this pattern when I go hunting.
-- **8315**: But whenever I spot a monster, I become totally obsessed by the thought of the hunt and forrrget all about his advice and this chart.
-- **8316**: Maybe it's enough to just keep this knowledge locked away in the back of your mind somewhere, in case you ever need it. But if you want to know more, then you'll just have to go and track down that old guy.
-- **8317**: You're welcome to have another gander at this chart whenever you want to. It's a pain to explain it to everyone who asks, but maybe it is some kind of fate... Actually, I've found that I enjoy helping people out.
+- **8308**: Hey! What do you want? Don't tell me...
+- **8309**: You heard that I have a monster correlation chart and came to beg me to show it to you, rrright?
+- **8310**: Look at the tattered diagram? [Yes./No.]
+- **8311**: Oh, so you're just trying to flirt with me, huh? Well, sorry there, but I'm not interrrested in men or women. The only thing that makes my heart leap are the tracks and droppings of my next hunting game, thank you.
+- **8312**: I knew it! Alrrright then. I don't mind showing it to you. Besides, I'm a topnotch hunter, so I don't need it anyway.
+- **8313**: I was given this parchment a few years ago by a scrrruffy old Elvaan man. I helped him out when I found him lost in the woods, and this was his way of paying me back.
+- **8314**: To tell you the truth, I wasn't that interested in it, so I didn't pay much attention to his explanation and have forrrgotten most of what he said.
+- **8315**: It was something about how the different types of monsters eat each other in order to surrrvive, so I guess he was trying to tell me to referrr to this pattern when I go hunting.
+- **8316**: But whenever I spot a monster, I become totally obsessed by the thought of the hunt and forrrget all about his advice and this chart.
+- **8317**: Maybe it's enough to just keep this knowledge locked away in the back of your mind somewhere, in case you ever need it. But if you want to know more, then you'll just have to go and track down that old guy.
+- **8318**: You're welcome to have another gander at this chart whenever you want to. It's a pain to explain it to everyone who asks, but maybe it is some kind of fate... Actually, I've found that I enjoy helping people out.
 
 ## Events
 
@@ -396,7 +396,7 @@
   1: 0x00B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00BB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x0D)
-  4: 0x00C2 [0x24] CREATE_DIALOG(message_id=8309*, default_option=1*, option_flags=0*)
+  4: 0x00C2 [0x24] CREATE_DIALOG(message_id=8310*, default_option=1*, option_flags=0*)
     → "Look at the tattered diagram? [Yes./No.]"
   5: 0x00C9 [0x25] WAIT_DIALOG_SELECT()
   6: 0x00CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0111
@@ -444,10 +444,10 @@ SUBROUTINE_0128:
 
 ```
   0: 0x012C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x01)
-  1: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8307*)
+  1: 0x0133 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
     → "Hey! What do you want? Don't tell me..."
   2: 0x0136 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8308*)
+  3: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=8309*)
     → "You heard that I have a monster correlation chart and came to beg me to show it to you, rrright?"
   4: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x013B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x02)
@@ -475,7 +475,7 @@ SUBROUTINE_0128:
 
 ```
   0: 0x0143 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x03)
-  1: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8310*)
+  1: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
     → "Oh, so you're just trying to flirt with me, huh? Well, sorry there, but I'm not interrrested in men or women. The only thing that makes my heart leap are the tracks and droppings of my next hunting game, thank you."
   2: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x014E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x04)
@@ -503,7 +503,7 @@ SUBROUTINE_0128:
 
 ```
   0: 0x0156 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x03)
-  1: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8311*)
+  1: 0x015D [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
     → "I knew it! Alrrright then. I don't mind showing it to you. Besides, I'm a topnotch hunter, so I don't need it anyway."
   2: 0x0160 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0161 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x04)
@@ -529,7 +529,7 @@ SUBROUTINE_0128:
 #### Opcodes
 
 ```
-  0: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8312*)
+  0: 0x0169 [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
     → "I was given this parchment a few years ago by a scrrruffy old Elvaan man. I helped him out when I found him lost in the woods, and this was his way of paying me back."
   1: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x016D [0x00] END_REQSTACK()
@@ -555,7 +555,7 @@ SUBROUTINE_0128:
 #### Opcodes
 
 ```
-  0: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8313*)
+  0: 0x016E [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
     → "To tell you the truth, I wasn't that interested in it, so I didn't pay much attention to his explanation and have forrrgotten most of what he said."
   1: 0x0171 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0172 [0x00] END_REQSTACK()
@@ -580,7 +580,7 @@ SUBROUTINE_0128:
 #### Opcodes
 
 ```
-  0: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8314*)
+  0: 0x0173 [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
     → "It was something about how the different types of monsters eat each other in order to surrrvive, so I guess he was trying to tell me to referrr to this pattern when I go hunting."
   1: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0177 [0x00] END_REQSTACK()
@@ -605,7 +605,7 @@ SUBROUTINE_0128:
 #### Opcodes
 
 ```
-  0: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8315*)
+  0: 0x0178 [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
     → "But whenever I spot a monster, I become totally obsessed by the thought of the hunt and forrrget all about his advice and this chart."
   1: 0x017B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017C [0x00] END_REQSTACK()
@@ -631,7 +631,7 @@ SUBROUTINE_0128:
 #### Opcodes
 
 ```
-  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8316*)
+  0: 0x017D [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
     → "Maybe it's enough to just keep this knowledge locked away in the back of your mind somewhere, in case you ever need it. But if you want to know more, then you'll just have to go and track down that old guy."
   1: 0x0180 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0181 [0x00] END_REQSTACK()
@@ -658,7 +658,7 @@ SUBROUTINE_0128:
 
 ```
   0: 0x0182 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x01)
-  1: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8317*)
+  1: 0x0189 [0x1D] PRINT_EVENT_MESSAGE(message_id=8318*)
     → "You're welcome to have another gander at this chart whenever you want to. It's a pain to explain it to everyone who asks, but maybe it is some kind of fate... Actually, I've found that I enjoy helping people out."
   2: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x018D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Tico Karimakiba (ID: 17764503/0x010F1097), tag_num=0x02)

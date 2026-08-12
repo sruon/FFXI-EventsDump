@@ -21,27 +21,27 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CE7      |        7399 |
-|       1 | 0x1CE8      |        7400 |
-|       2 | 0x1CE9      |        7401 |
+|       0 | 0x1CE8      |        7400 |
+|       1 | 0x1CE9      |        7401 |
+|       2 | 0x1CEA      |        7402 |
 |       3 | 0x0000      |           0 |
-|       4 | 0x1CEB      |        7403 |
-|       5 | 0x1CEC      |        7404 |
-|       6 | 0x1CED      |        7405 |
+|       4 | 0x1CEC      |        7404 |
+|       5 | 0x1CED      |        7405 |
+|       6 | 0x1CEE      |        7406 |
 |       7 | 0x0018      |          24 |
-|       8 | 0x18FD      |        6397 |
-|       9 | 0x1CEA      |        7402 |
+|       8 | 0x18FE      |        6398 |
+|       9 | 0x1CEB      |        7403 |
 
 ## String References
 
-- **6397**: Obtained key item: 3.
-- **7399**: You see tools and boxes lying around. They look very old.
-- **7400**: You see an old iron box.
-- **7401**: Examine the iron box? [Yes./No.]
-- **7402**: You decide to leave it alone.
-- **7403**: You look inside the box. You see several toolboxes, still filled with tools.
-- **7404**: You find one with a name engraved on the cover. The name reads, "Vigilant Owl."
-- **7405**: Take the toolbox with you? [Yes./No.]
+- **6398**: Obtained key item: 3.
+- **7400**: You see tools and boxes lying around. They look very old.
+- **7401**: You see an old iron box.
+- **7402**: Examine the iron box? [Yes./No.]
+- **7403**: You decide to leave it alone.
+- **7404**: You look inside the box. You see several toolboxes, still filled with tools.
+- **7405**: You find one with a name engraved on the cover. The name reads, "Vigilant Owl."
+- **7406**: Take the toolbox with you? [Yes./No.]
 
 ## Events
 
@@ -91,7 +91,7 @@
   0: 0x0001 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res0" with entities [LocalPlayer, LocalPlayer]
   1: 0x000E [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res2" with entities [LocalPlayer, LocalPlayer]
   2: 0x001B [0x4A] LocalPlayer looks at Old Toolbox (ID: 17363358/0x0108F19E)
-  3: 0x0024 [0x48] [System] [7399*]:
+  3: 0x0024 [0x48] [System] [7400*]:
     → "You see tools and boxes lying around. They look very old."
   4: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0028 [0x21] END_EVENT
@@ -127,37 +127,37 @@
   0: 0x002A [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res0" with entities [LocalPlayer, LocalPlayer]
   1: 0x0037 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "res2" with entities [LocalPlayer, LocalPlayer]
   2: 0x0044 [0x4A] LocalPlayer looks at Old Toolbox (ID: 17363358/0x0108F19E)
-  3: 0x004D [0x48] [System] [7400*]:
+  3: 0x004D [0x48] [System] [7401*]:
     → "You see an old iron box."
   4: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0051 [0x24] CREATE_DIALOG(message_id=7401*, default_option=0*, option_flags=0*)
+  5: 0x0051 [0x24] CREATE_DIALOG(message_id=7402*, default_option=0*, option_flags=0*)
     → "Examine the iron box? [Yes./No.]"
   6: 0x0058 [0x25] WAIT_DIALOG_SELECT()
   7: 0x0059 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0090
-  8: 0x0061 [0x48] [System] [7403*]:
+  8: 0x0061 [0x48] [System] [7404*]:
     → "You look inside the box. You see several toolboxes, still filled with tools."
   9: 0x0064 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0065 [0x48] [System] [7404*]:
+ 10: 0x0065 [0x48] [System] [7405*]:
     → "You find one with a name engraved on the cover. The name reads, "Vigilant Owl.""
  11: 0x0068 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0069 [0x24] CREATE_DIALOG(message_id=7405*, default_option=0*, option_flags=0*)
+ 12: 0x0069 [0x24] CREATE_DIALOG(message_id=7406*, default_option=0*, option_flags=0*)
     → "Take the toolbox with you? [Yes./No.]"
  13: 0x0070 [0x25] WAIT_DIALOG_SELECT()
  14: 0x0071 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0089
  15: 0x0079 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  16: 0x007B [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  17: 0x007D [0x03] Work_Zone[2] = 24*
- 18: 0x0082 [0x48] [System] [6397*]:
+ 18: 0x0082 [0x48] [System] [6398*]:
     → "Obtained key item: 3."
  19: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0086 [0x01] GOTO 0x008D
- 21: 0x0089 [0x48] [System] [7402*]:
+ 21: 0x0089 [0x48] [System] [7403*]:
     → "You decide to leave it alone."
  22: 0x008C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_008D:
  23: 0x008D [0x01] GOTO 0x0094
- 24: 0x0090 [0x48] [System] [7402*]:
+ 24: 0x0090 [0x48] [System] [7403*]:
     → "You decide to leave it alone."
  25: 0x0093 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

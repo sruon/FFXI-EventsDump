@@ -26,18 +26,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0001      |           1 |
-|       1 | 0x1A5A      |        6746 |
+|       1 | 0x1A5B      |        6747 |
 |       2 | 0x0079      |         121 |
-|       3 | 0x1A5B      |        6747 |
-|       4 | 0x1A5C      |        6748 |
-|       5 | 0x1A5D      |        6749 |
+|       3 | 0x1A5C      |        6748 |
+|       4 | 0x1A5D      |        6749 |
+|       5 | 0x1A5E      |        6750 |
 
 ## String References
 
-- **6746**: I have nothing to sell you.
-- **6747**: Ah, you have come from headquarters. I will entrust you with $6. Take it back to headquarters.
-- **6748**: You must leave your past behind--that is the way of the underworld.
-- **6749**: Take $6 back to headquarters. You must leave your past behind--that is the way of the underworld.
+- **6747**: I have nothing to sell you.
+- **6748**: Ah, you have come from headquarters. I will entrust you with $6. Take it back to headquarters.
+- **6749**: You must leave your past behind--that is the way of the underworld.
+- **6750**: Take $6 back to headquarters. You must leave your past behind--that is the way of the underworld.
 
 ## Events
 
@@ -87,7 +87,7 @@
   0: 0x0006 [0x02] IF !(Work_Zone[2] == ExtData[1]->WorkLocal[0]) GOTO 0x001A
   1: 0x000E [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   2: 0x0010 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6746*)
+  3: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=6747*)
     → "I have nothing to sell you."
   4: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0019 [0x21] END_EVENT
@@ -120,10 +120,10 @@
   2: 0x0028 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   3: 0x002A [0x42] SET_CLI_EVENT_CANCEL_DATA()
   4: 0x002B [0x1E] EventEntity looks at LocalPlayer and starts talking
-  5: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=6747*)
+  5: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=6748*)
     → "Ah, you have come from headquarters. I will entrust you with $6. Take it back to headquarters."
   6: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=6748*)
+  7: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=6749*)
     → "You must leave your past behind--that is the way of the underworld."
   8: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0038 [0x21] END_EVENT
@@ -155,7 +155,7 @@
   1: 0x003F [0x02] IF !(Work_Zone[2] == ExtData[1]->WorkLocal[0]) GOTO 0x0053
   2: 0x0047 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   3: 0x0049 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  4: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=6749*)
+  4: 0x004E [0x1D] PRINT_EVENT_MESSAGE(message_id=6750*)
     → "Take $6 back to headquarters. You must leave your past behind--that is the way of the underworld."
   5: 0x0051 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0052 [0x21] END_EVENT

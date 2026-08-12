@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1EA3      |        7843 |
+|       0 | 0x1EA4      |        7844 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x00C8      |         200 |
@@ -53,7 +53,7 @@
 
 ## String References
 
-- **7843**: [Descend/Ascend]? [Yes./No.]
+- **7844**: [Descend/Ascend]? [Yes./No.]
 
 ## Events
 
@@ -119,7 +119,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7843*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7844*, default_option=0*, option_flags=0*)
     → "[Descend/Ascend]? [Yes./No.]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014B

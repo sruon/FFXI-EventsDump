@@ -34,35 +34,35 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2579      |        9593 |
-|       3 | 0x257A      |        9594 |
+|       2 | 0x257A      |        9594 |
+|       3 | 0x257B      |        9595 |
 |       4 | 0x00C8      |         200 |
 |       5 | 0x0000      |           0 |
-|       6 | 0x257B      |        9595 |
-|       7 | 0x257C      |        9596 |
-|       8 | 0x257D      |        9597 |
-|       9 | 0x257E      |        9598 |
-|      10 | 0x257F      |        9599 |
-|      11 | 0x2580      |        9600 |
-|      12 | 0x2581      |        9601 |
-|      13 | 0x2582      |        9602 |
-|      14 | 0x2583      |        9603 |
-|      15 | 0x2584      |        9604 |
+|       6 | 0x257C      |        9596 |
+|       7 | 0x257D      |        9597 |
+|       8 | 0x257E      |        9598 |
+|       9 | 0x257F      |        9599 |
+|      10 | 0x2580      |        9600 |
+|      11 | 0x2581      |        9601 |
+|      12 | 0x2582      |        9602 |
+|      13 | 0x2583      |        9603 |
+|      14 | 0x2584      |        9604 |
+|      15 | 0x2585      |        9605 |
 
 ## String References
 
-- **9593**: Phooey, Dewey! I'm sooo confused. This goes over...no, that goes...no, this needs to be...no...
-- **9594**: What? No... Here from Bastok, are we? Yes? How may I help? No...assist, yes, assist.
-- **9595**: Really? No... You say you're looking for $3? Yes...yes, I remember that one, I do.
-- **9596**: It turned up the last time, or was it the first...no...the last time I cleaned out the old book vault. That text was filled with lots of important-looking blacksmithing techniques.
-- **9597**: One look, and I knew this book didn't belong here in Windurst, I mean...not here in this library...I mean.
-- **9598**: So, I decided to take it to Bastok and see if I could shed any light on the mystery surrounding the text...and that's when I was attacked by a band of rogues...Yagudo rogues, they were.
-- **9599**: If we ever want to see it again, we'll have to travel to Giddeus and get it back from that thief, Vaa Huja the Erudite, ourselves.
-- **9600**: Well, I didn't exactly mean "ourselves." You're the adventurer, aren't you...yes?
-- **9601**: That thief, Vaa Huja the Erudite, is probably using $6 to line his birdcage as we speak!
-- **9602**: We must do something...yes, something quickly!
-- **9603**: Well, I'm happy to see that we were successful in retrieving $3... Yes, very happy.
-- **9604**: Oh, yes, and when you take that back to Bastok, could you ask them if there are any other books they can donate? If they don't have any, a generous donation of gil would work just as well.
+- **9594**: Phooey, Dewey! I'm sooo confused. This goes over...no, that goes...no, this needs to be...no...
+- **9595**: What? No... Here from Bastok, are we? Yes? How may I help? No...assist, yes, assist.
+- **9596**: Really? No... You say you're looking for $3? Yes...yes, I remember that one, I do.
+- **9597**: It turned up the last time, or was it the first...no...the last time I cleaned out the old book vault. That text was filled with lots of important-looking blacksmithing techniques.
+- **9598**: One look, and I knew this book didn't belong here in Windurst, I mean...not here in this library...I mean.
+- **9599**: So, I decided to take it to Bastok and see if I could shed any light on the mystery surrounding the text...and that's when I was attacked by a band of rogues...Yagudo rogues, they were.
+- **9600**: If we ever want to see it again, we'll have to travel to Giddeus and get it back from that thief, Vaa Huja the Erudite, ourselves.
+- **9601**: Well, I didn't exactly mean "ourselves." You're the adventurer, aren't you...yes?
+- **9602**: That thief, Vaa Huja the Erudite, is probably using $6 to line his birdcage as we speak!
+- **9603**: We must do something...yes, something quickly!
+- **9604**: Well, I'm happy to see that we were successful in retrieving $3... Yes, very happy.
+- **9605**: Oh, yes, and when you take that back to Bastok, could you ask them if there are any other books they can donate? If they don't have any, a generous donation of gil would work just as well.
 
 ## Events
 
@@ -331,7 +331,7 @@
   1: 0x008F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0090 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0091 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
-  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=9593*)
+  4: 0x0098 [0x1D] PRINT_EVENT_MESSAGE(message_id=9594*)
     → "Phooey, Dewey! I'm sooo confused. This goes over...no, that goes...no, this needs to be...no..."
   5: 0x009B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x009C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)
@@ -374,7 +374,7 @@
   2: 0x00AD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x00AE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x00AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
-  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9594*)
+  5: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9595*)
     → "What? No... Here from Bastok, are we? Yes? How may I help? No...assist, yes, assist."
   6: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x00BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)
@@ -383,29 +383,29 @@
  10: 0x00D5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x03)
  11: 0x00DC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x04)
  12: 0x00E3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
- 13: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9595*)
+ 13: 0x00F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9596*)
     → "Really? No... You say you're looking for $3? Yes...yes, I remember that one, I do."
  14: 0x00F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00F8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x05)
- 16: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9596*)
+ 16: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=9597*)
     → "It turned up the last time, or was it the first...no...the last time I cleaned out the old book vault. That text was filled with lots of important-looking blacksmithing techniques."
  17: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0103 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x06)
- 19: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=9597*)
+ 19: 0x010A [0x1D] PRINT_EVENT_MESSAGE(message_id=9598*)
     → "One look, and I knew this book didn't belong here in Windurst, I mean...not here in this library...I mean."
  20: 0x010D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x010E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
- 22: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9598*)
+ 22: 0x0115 [0x1D] PRINT_EVENT_MESSAGE(message_id=9599*)
     → "So, I decided to take it to Bastok and see if I could shed any light on the mystery surrounding the text...and that's when I was attacked by a band of rogues...Yagudo rogues, they were."
  23: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0119 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)
  25: 0x0120 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x07)
- 26: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=9599*)
+ 26: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=9600*)
     → "If we ever want to see it again, we'll have to travel to Giddeus and get it back from that thief, Vaa Huja the Erudite, ourselves."
  27: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x012B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x08)
  29: 0x0132 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
- 30: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=9600*)
+ 30: 0x0139 [0x1D] PRINT_EVENT_MESSAGE(message_id=9601*)
     → "Well, I didn't exactly mean "ourselves." You're the adventurer, aren't you...yes?"
  31: 0x013C [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x013D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)
@@ -439,10 +439,10 @@
   1: 0x014D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x014F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
-  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=9601*)
+  4: 0x0156 [0x1D] PRINT_EVENT_MESSAGE(message_id=9602*)
     → "That thief, Vaa Huja the Erudite, is probably using $6 to line his birdcage as we speak!"
   5: 0x0159 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=9602*)
+  6: 0x015A [0x1D] PRINT_EVENT_MESSAGE(message_id=9603*)
     → "We must do something...yes, something quickly!"
   7: 0x015D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x015E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)
@@ -476,10 +476,10 @@
   1: 0x016E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x016F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0170 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x01)
-  4: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=9603*)
+  4: 0x0177 [0x1D] PRINT_EVENT_MESSAGE(message_id=9604*)
     → "Well, I'm happy to see that we were successful in retrieving $3... Yes, very happy."
   5: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=9604*)
+  6: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=9605*)
     → "Oh, yes, and when you take that back to Bastok, could you ask them if there are any other books they can donate? If they don't have any, a generous donation of gil would work just as well."
   7: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x017F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cochal-Monchal (ID: 17752263/0x010EE0C7), tag_num=0x02)

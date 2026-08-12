@@ -38,15 +38,15 @@
 |       6 | 0x4D55      |       19797 |
 |       7 | 0x3B2F      |       15151 |
 |       8 | 0xFFFF7360  |  4294931296 |
-|       9 | 0x2914      |       10516 |
-|      10 | 0x2973      |       10611 |
-|      11 | 0x2974      |       10612 |
+|       9 | 0x2915      |       10517 |
+|      10 | 0x2974      |       10612 |
+|      11 | 0x2975      |       10613 |
 
 ## String References
 
-- **10516**: <Sigh>
-- **10611**: As long as we are bound by the past, we will never be able to step forward into the future. That is what I used to believe. However, now I realize that without the foundation the past has left us, our future will never stand.
-- **10612**: The change the safehold has experienced recently... It has all been so sudden. However, we must learn to adapt and move on if we are to survive.
+- **10517**: <Sigh>
+- **10612**: As long as we are bound by the past, we will never be able to step forward into the future. That is what I used to believe. However, now I realize that without the foundation the past has left us, our future will never stand.
+- **10613**: The change the safehold has experienced recently... It has all been so sudden. However, we must learn to adapt and move on if we are to survive.
 
 ## Events
 
@@ -253,7 +253,7 @@
 #### Opcodes
 
 ```
-  0: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10516*)
+  0: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=10517*)
     → "<Sigh>"
   1: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x002B [0x21] END_EVENT
@@ -281,7 +281,7 @@
 
 ```
   0: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=10611*)
+  1: 0x0032 [0x1D] PRINT_EVENT_MESSAGE(message_id=10612*)
     → "As long as we are bound by the past, we will never be able to step forward into the future. That is what I used to believe. However, now I realize that without the foundation the past has left us, our future will never stand."
   2: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0036 [0x21] END_EVENT
@@ -309,7 +309,7 @@
 
 ```
   0: 0x0038 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10612*)
+  1: 0x003D [0x1D] PRINT_EVENT_MESSAGE(message_id=10613*)
     → "The change the safehold has experienced recently... It has all been so sudden. However, we must learn to adapt and move on if we are to survive."
   2: 0x0040 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0041 [0x21] END_EVENT

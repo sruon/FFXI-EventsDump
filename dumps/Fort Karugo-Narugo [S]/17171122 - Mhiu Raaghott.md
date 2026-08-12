@@ -22,8 +22,8 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0024      |          36 |
-|       2 | 0x1FC7      |        8135 |
-|       3 | 0x1FC8      |        8136 |
+|       2 | 0x1FC8      |        8136 |
+|       3 | 0x1FC9      |        8137 |
 
 ## Events
 
@@ -74,10 +74,10 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x6E] EventEntity uses emote 36*
   3: 0x0010 [0x99] Wait for EventEntity animation to complete
-  4: 0x0015 [0x2B] EventEntity [8135*]:
+  4: 0x0015 [0x2B] EventEntity [8136*]:
     → "When we received word that the war had reached this continent, our blood began to stirrr."
   5: 0x001C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001D [0x2B] EventEntity [8136*]:
+  6: 0x001D [0x2B] EventEntity [8137*]:
     → "That's why the Olzhiryan fleet has come all the way from the southern continent."
   7: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0025 [0x21] END_EVENT

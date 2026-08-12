@@ -31,21 +31,21 @@
 |       5 | 0x0001      |           1 |
 |       6 | 0x00E4      |         228 |
 |       7 | 0x0078      |         120 |
-|       8 | 0x1CA6      |        7334 |
+|       8 | 0x1CA7      |        7335 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x0006      |           6 |
-|      11 | 0x1CA7      |        7335 |
+|      11 | 0x1CA8      |        7336 |
 |      12 | 0x000A      |          10 |
 |      13 | 0x00C9      |         201 |
 |      14 | 0x007D      |         125 |
-|      15 | 0x1CA8      |        7336 |
+|      15 | 0x1CA9      |        7337 |
 |      16 | 0x0032      |          50 |
 |      17 | 0x0064      |         100 |
 |      18 | 0x003C      |          60 |
 |      19 | 0x00D3      |         211 |
-|      20 | 0x1CA9      |        7337 |
-|      21 | 0x1CAA      |        7338 |
-|      22 | 0x1CAB      |        7339 |
+|      20 | 0x1CAA      |        7338 |
+|      21 | 0x1CAB      |        7339 |
+|      22 | 0x1CAC      |        7340 |
 |      23 | 0x0002      |           2 |
 |      24 | 0x00FC      |         252 |
 |      25 | 0x0028      |          40 |
@@ -55,19 +55,19 @@
 |      29 | 0x000F      |          15 |
 |      30 | 0x00D7      |         215 |
 |      31 | 0x0003      |           3 |
-|      32 | 0x1D10      |        7440 |
-|      33 | 0x1D11      |        7441 |
+|      32 | 0x1D11      |        7441 |
+|      33 | 0x1D12      |        7442 |
 |      34 | 0x002D      |          45 |
 |      35 | 0x04ED      |        1261 |
-|      36 | 0x1D14      |        7444 |
+|      36 | 0x1D15      |        7445 |
 |      37 | 0x001E      |          30 |
 
 ## String References
 
-- **7334**: A haunting song suddenly echoes throughout the ruins...
-- **7440**: You immerse the $0 and $1 in the waters of the spring.
-- **7441**: You immerse the shards of the five Crystal Warriors, along with the $0 and $1, in the waters of the spring.
-- **7444**: You immerse the shards of the five Crystal Warriors, along with the $0, in the waters of the spring.
+- **7335**: A haunting song suddenly echoes throughout the ruins...
+- **7441**: You immerse the $0 and $1 in the waters of the spring.
+- **7442**: You immerse the shards of the five Crystal Warriors, along with the $0 and $1, in the waters of the spring.
+- **7445**: You immerse the shards of the five Crystal Warriors, along with the $0, in the waters of the spring.
 
 ## Events
 
@@ -191,7 +191,7 @@
  15: 0x004B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s000" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  16: 0x005C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  17: 0x006D [0x1C] WAIT(120* ticks)
- 18: 0x0070 [0x48] [System] [7334*]:
+ 18: 0x0070 [0x48] [System] [7335*]:
     → "A haunting song suddenly echoes throughout the ruins..."
  19: 0x0073 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0074 [0x1C] WAIT(120* ticks)
@@ -208,7 +208,7 @@
 SUBROUTINE_00E0:
  30: 0x00E0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Unnamed NPC (ID: 17277205/0x0107A115)
  31: 0x00E6 [0x4A] LocalPlayer looks at Talking Doll (ID: 17277206/0x0107A116)
- 32: 0x00EF [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7335*]:
+ 32: 0x00EF [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7336*]:
     → "Ahahahahaha! That's it! That's it! You've found it, slacker!"
  33: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00F7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -239,7 +239,7 @@ SUBROUTINE_0152:
  57: 0x01B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  58: 0x01C4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[228*, 0*]
  59: 0x01D5 [0x4A] LocalPlayer looks at Unnamed NPC (ID: 17277205/0x0107A115)
- 60: 0x01DE [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7336*]:
+ 60: 0x01DE [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7337*]:
     → "Ahahahaha...huh? Wait, something's not right! The power is too concentrated..."
  61: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01E6 [0x1C] WAIT(50* ticks)
@@ -267,10 +267,10 @@ SUBROUTINE_0152:
  84: 0x02BA [0x4A] Talking Doll (ID: 17277206/0x0107A116) looks at LocalPlayer
  85: 0x02C3 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  86: 0x02C4 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Talking Doll (ID: 17277206/0x0107A116) Render.Flags0 and Render.Flags3 conditions are met
- 87: 0x02C9 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7337*]:
+ 87: 0x02C9 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7338*]:
     → "Ahahahahaha! Oops! I guess that wasn't it! All right, all right, I don't need to hear your whining!"
  88: 0x02D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 89: 0x02D1 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7338*]:
+ 89: 0x02D1 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7339*]:
     → "Just a moment there, slacker... Let me recalibrate my search!"
  90: 0x02D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x02D9 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [LocalPlayer, LocalPlayer], work=228*
@@ -289,7 +289,7 @@ SUBROUTINE_0152:
 
 SUBROUTINE_0354:
 104: 0x0354 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-105: 0x0365 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7339*]:
+105: 0x0365 [0x2B] Talking Doll (ID: 17277206/0x0107A116) [7340*]:
     → "Ahahahahaha! Okay, this is not a drill! Sensing emanations from the southwest!"
 106: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x036D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -473,7 +473,7 @@ SUBROUTINE_03C4:
 
 SUBROUTINE_05AA:
  66: 0x05AA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s050" with entities [LocalPlayer, LocalPlayer], work=252*
- 67: 0x05B9 [0x48] [System] [7334*]:
+ 67: 0x05B9 [0x48] [System] [7335*]:
     → "A haunting song suddenly echoes throughout the ruins..."
  68: 0x05BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x05BD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -584,11 +584,11 @@ SUBROUTINE_05AA:
   9: 0x08AE [0x6E] LocalPlayer uses emote 3*
  10: 0x08B5 [0x99] Wait for LocalPlayer animation to complete
  11: 0x08BA [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x08C9
- 12: 0x08C2 [0x48] [System] [7440*]:
+ 12: 0x08C2 [0x48] [System] [7441*]:
     → "You immerse the $0 and $1 in the waters of the spring."
  13: 0x08C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x08C6 [0x01] GOTO 0x08CD
- 15: 0x08C9 [0x48] [System] [7441*]:
+ 15: 0x08C9 [0x48] [System] [7442*]:
     → "You immerse the shards of the five Crystal Warriors, along with the $0 and $1, in the waters of the spring."
  16: 0x08CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -682,7 +682,7 @@ SUBROUTINE_08CD:
   8: 0x0931 [0x6E] LocalPlayer uses emote 3*
   9: 0x0938 [0x99] Wait for LocalPlayer animation to complete
  10: 0x093D [0x03] Work_Zone[2] = 1261*
- 11: 0x0942 [0x48] [System] [7444*]:
+ 11: 0x0942 [0x48] [System] [7445*]:
     → "You immerse the shards of the five Crystal Warriors, along with the $0, in the waters of the spring."
  12: 0x0945 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0946 [0x99] Wait for LocalPlayer animation to complete

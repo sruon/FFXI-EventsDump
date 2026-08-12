@@ -74,19 +74,19 @@
 |      33 | 0xFFFFB4DA  |  4294948058 |
 |      34 | 0xFFFFA63F  |  4294944319 |
 |      35 | 0x001E      |          30 |
-|      36 | 0x2BB3      |       11187 |
-|      37 | 0x2BDA      |       11226 |
-|      38 | 0x2BF3      |       11251 |
-|      39 | 0x2BA3      |       11171 |
-|      40 | 0x2BA4      |       11172 |
+|      36 | 0x2BB4      |       11188 |
+|      37 | 0x2BDB      |       11227 |
+|      38 | 0x2BF4      |       11252 |
+|      39 | 0x2BA4      |       11172 |
+|      40 | 0x2BA5      |       11173 |
 
 ## String References
 
-- **11171**: Where could 'e be...? Knowing him, 'e should be...
-- **11172**: Oh, sorry there. Just talkin' to meself.
-- **11187**: I've heard the monsters out there are no laughin' matter, so please be takin' care of yerself.
-- **11226**: I leave Gubokka in your hands. I wonder if tha' Hume warrior is safe...?
-- **11251**: I was able to ge' closure with Gomoya, and it's all thanks t' you. I just wanna tell ya how much I appreciate it.
+- **11172**: Where could 'e be...? Knowing him, 'e should be...
+- **11173**: Oh, sorry there. Just talkin' to meself.
+- **11188**: I've heard the monsters out there are no laughin' matter, so please be takin' care of yerself.
+- **11227**: I leave Gubokka in your hands. I wonder if tha' Hume warrior is safe...?
+- **11252**: I was able to ge' closure with Gomoya, and it's all thanks t' you. I just wanna tell ya how much I appreciate it.
 
 ## Events
 
@@ -537,7 +537,7 @@ SUBROUTINE_0049:
 ```
   0: 0x011C [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0121 [0x1C] WAIT(30* ticks)
-  2: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=11187*)
+  2: 0x0124 [0x1D] PRINT_EVENT_MESSAGE(message_id=11188*)
     → "I've heard the monsters out there are no laughin' matter, so please be takin' care of yerself."
   3: 0x0127 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0128 [0x1C] WAIT(30* ticks)
@@ -567,7 +567,7 @@ SUBROUTINE_0049:
 ```
   0: 0x012D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0132 [0x1C] WAIT(30* ticks)
-  2: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=11226*)
+  2: 0x0135 [0x1D] PRINT_EVENT_MESSAGE(message_id=11227*)
     → "I leave Gubokka in your hands. I wonder if tha' Hume warrior is safe...?"
   3: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0139 [0x21] END_EVENT
@@ -596,7 +596,7 @@ SUBROUTINE_0049:
 ```
   0: 0x013B [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0140 [0x1C] WAIT(30* ticks)
-  2: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=11251*)
+  2: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=11252*)
     → "I was able to ge' closure with Gomoya, and it's all thanks t' you. I just wanna tell ya how much I appreciate it."
   3: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0147 [0x1C] WAIT(30* ticks)
@@ -624,11 +624,11 @@ SUBROUTINE_0049:
 #### Opcodes
 
 ```
-  0: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=11171*)
+  0: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=11172*)
     → "Where could 'e be...? Knowing him, 'e should be..."
   1: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0150 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  3: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=11172*)
+  3: 0x0155 [0x1D] PRINT_EVENT_MESSAGE(message_id=11173*)
     → "Oh, sorry there. Just talkin' to meself."
   4: 0x0158 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0159 [0x21] END_EVENT

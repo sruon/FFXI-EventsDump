@@ -23,12 +23,12 @@
 |       0 | 0x003C      |          60 |
 |       1 | 0x0588      |        1416 |
 |       2 | 0x0034      |          52 |
-|       3 | 0x2CC9      |       11465 |
+|       3 | 0x2CCA      |       11466 |
 |       4 | 0x001E      |          30 |
 
 ## String References
 
-- **11465**: Welcome to the Consulate of Windurst. Consul Kasaroro is inside, if you're looking forrr her.
+- **11466**: Welcome to the Consulate of Windurst. Consul Kasaroro is inside, if you're looking forrr her.
 
 ## Events
 
@@ -82,7 +82,7 @@
   3: 0x000C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x000D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x000E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "poi0" with entities [EventEntity, EventEntity], work=52*
-  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11465*)
+  6: 0x001D [0x1D] PRINT_EVENT_MESSAGE(message_id=11466*)
     → "Welcome to the Consulate of Windurst. Consul Kasaroro is inside, if you're looking forrr her."
   7: 0x0020 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0021 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "poi0" with entities [EventEntity, EventEntity]

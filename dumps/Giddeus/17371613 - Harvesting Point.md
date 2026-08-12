@@ -23,23 +23,23 @@
 |       0 | 0x002A      |          42 |
 |       1 | 0x03FC      |        1020 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1D12      |        7442 |
+|       3 | 0x1D13      |        7443 |
 |       4 | 0xFFFFFFFF  |  4294967295 |
-|       5 | 0x1D15      |        7445 |
+|       5 | 0x1D16      |        7446 |
 |       6 | 0xFFFFFD1F  |  4294966559 |
-|       7 | 0x1D10      |        7440 |
-|       8 | 0x1D0F      |        7439 |
-|       9 | 0x1D11      |        7441 |
-|      10 | 0x1D13      |        7443 |
+|       7 | 0x1D11      |        7441 |
+|       8 | 0x1D10      |        7440 |
+|       9 | 0x1D12      |        7442 |
+|      10 | 0x1D14      |        7444 |
 
 ## String References
 
-- **7439**: Your $7 breaks!
-- **7440**: You successfully harvest $0!
-- **7441**: You harvest $0, but your $7 breaks.
-- **7442**: You are unable to harvest anything.
-- **7443**: You cannot carry any more items. Your inventory is full.
-- **7445**: It looks like you might need two people to harvest here...
+- **7440**: Your $7 breaks!
+- **7441**: You successfully harvest $0!
+- **7442**: You harvest $0, but your $7 breaks.
+- **7443**: You are unable to harvest anything.
+- **7444**: You cannot carry any more items. Your inventory is full.
+- **7446**: It looks like you might need two people to harvest here...
 
 ## Events
 
@@ -97,11 +97,11 @@
   4: 0x0013 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0063
   5: 0x001B [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x004F
   6: 0x0023 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0031
-  7: 0x002B [0x48] [System] [7442*]:
+  7: 0x002B [0x48] [System] [7443*]:
     → "You are unable to harvest anything."
   8: 0x002E [0x01] GOTO 0x004C
   9: 0x0031 [0x02] IF !(Work_Zone[2] == 4294967295*) GOTO 0x003F
- 10: 0x0039 [0x48] [System] [7445*]:
+ 10: 0x0039 [0x48] [System] [7446*]:
     → "It looks like you might need two people to harvest here..."
  11: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x003D [0x21] END_EVENT
@@ -109,21 +109,21 @@
  14: 0x003F [0x02] IF !(Work_Zone[2] == 4294966559*) GOTO 0x0049
  15: 0x0047 [0x21] END_EVENT
  16: 0x0048 [0x00] END_REQSTACK()
- 17: 0x0049 [0x48] [System] [7440*]:
+ 17: 0x0049 [0x48] [System] [7441*]:
     → "You successfully harvest $0!"
 
 SUBROUTINE_004C:
  18: 0x004C [0x01] GOTO 0x0060
  19: 0x004F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x005D
- 20: 0x0057 [0x48] [System] [7439*]:
+ 20: 0x0057 [0x48] [System] [7440*]:
     → "Your $7 breaks!"
  21: 0x005A [0x01] GOTO 0x0060
- 22: 0x005D [0x48] [System] [7441*]:
+ 22: 0x005D [0x48] [System] [7442*]:
     → "You harvest $0, but your $7 breaks."
 
 SUBROUTINE_0060:
  23: 0x0060 [0x01] GOTO 0x0066
- 24: 0x0063 [0x48] [System] [7443*]:
+ 24: 0x0063 [0x48] [System] [7444*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0066:

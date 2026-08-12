@@ -21,7 +21,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1E2C      |        7724 |
+|       1 | 0x1E2D      |        7725 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x00C8      |         200 |
 |       4 | 0x001B      |          27 |
@@ -39,7 +39,7 @@
 
 ## String References
 
-- **7724**: Head outside? [Yes./No.]
+- **7725**: Head outside? [Yes./No.]
 
 ## Events
 
@@ -100,7 +100,7 @@
 
 ```
   0: 0x0001 [0x03] Work_Zone[1] = 0*
-  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7724*, default_option=1*, option_flags=0*)
+  1: 0x0006 [0x24] CREATE_DIALOG(message_id=7725*, default_option=1*, option_flags=0*)
     → "Head outside? [Yes./No.]"
   2: 0x000D [0x25] WAIT_DIALOG_SELECT()
   3: 0x000E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD

@@ -23,19 +23,19 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x03FD      |        1021 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1FB8      |        8120 |
-|       4 | 0x1FB6      |        8118 |
-|       5 | 0x1FB5      |        8117 |
-|       6 | 0x1FB7      |        8119 |
-|       7 | 0x1FB9      |        8121 |
+|       3 | 0x1FB9      |        8121 |
+|       4 | 0x1FB7      |        8119 |
+|       5 | 0x1FB6      |        8118 |
+|       6 | 0x1FB8      |        8120 |
+|       7 | 0x1FBA      |        8122 |
 
 ## String References
 
-- **8117**: Your $7 breaks!
-- **8118**: You successfully cut off $0!
-- **8119**: You cut off $0, but your $7 breaks in the process.
-- **8120**: You are unable to log anything.
-- **8121**: You cannot carry any more items. Your inventory is full.
+- **8118**: Your $7 breaks!
+- **8119**: You successfully cut off $0!
+- **8120**: You cut off $0, but your $7 breaks in the process.
+- **8121**: You are unable to log anything.
+- **8122**: You cannot carry any more items. Your inventory is full.
 
 ## Events
 
@@ -93,24 +93,24 @@
   5: 0x0018 [0x02] IF !(Work_Zone[4] == 0*) GOTO 0x0050
   6: 0x0020 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x003C
   7: 0x0028 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0036
-  8: 0x0030 [0x48] [System] [8120*]:
+  8: 0x0030 [0x48] [System] [8121*]:
     → "You are unable to log anything."
   9: 0x0033 [0x01] GOTO 0x0039
- 10: 0x0036 [0x48] [System] [8118*]:
+ 10: 0x0036 [0x48] [System] [8119*]:
     → "You successfully cut off $0!"
 
 SUBROUTINE_0039:
  11: 0x0039 [0x01] GOTO 0x004D
  12: 0x003C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x004A
- 13: 0x0044 [0x48] [System] [8117*]:
+ 13: 0x0044 [0x48] [System] [8118*]:
     → "Your $7 breaks!"
  14: 0x0047 [0x01] GOTO 0x004D
- 15: 0x004A [0x48] [System] [8119*]:
+ 15: 0x004A [0x48] [System] [8120*]:
     → "You cut off $0, but your $7 breaks in the process."
 
 SUBROUTINE_004D:
  16: 0x004D [0x01] GOTO 0x0053
- 17: 0x0050 [0x48] [System] [8121*]:
+ 17: 0x0050 [0x48] [System] [8122*]:
     → "You cannot carry any more items. Your inventory is full."
 
 SUBROUTINE_0053:

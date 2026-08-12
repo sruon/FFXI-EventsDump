@@ -60,57 +60,57 @@
 |       0 | 0x0014      |          20 |
 |       1 | 0x001E      |          30 |
 |       2 | 0x0015      |          21 |
-|       3 | 0x1C39      |        7225 |
-|       4 | 0x1C3A      |        7226 |
-|       5 | 0x1C3B      |        7227 |
-|       6 | 0x1C3C      |        7228 |
-|       7 | 0x1C3D      |        7229 |
+|       3 | 0x1C3A      |        7226 |
+|       4 | 0x1C3B      |        7227 |
+|       5 | 0x1C3C      |        7228 |
+|       6 | 0x1C3D      |        7229 |
+|       7 | 0x1C3E      |        7230 |
 |       8 | 0x0000      |           0 |
-|       9 | 0x1C42      |        7234 |
+|       9 | 0x1C43      |        7235 |
 |      10 | 0x0001      |           1 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x1C3E      |        7230 |
-|      13 | 0x1C3F      |        7231 |
-|      14 | 0x1C40      |        7232 |
-|      15 | 0x1C41      |        7233 |
-|      16 | 0x1C43      |        7235 |
-|      17 | 0x1C44      |        7236 |
-|      18 | 0x1C45      |        7237 |
-|      19 | 0x1C46      |        7238 |
-|      20 | 0x1C47      |        7239 |
-|      21 | 0x1C48      |        7240 |
+|      12 | 0x1C3F      |        7231 |
+|      13 | 0x1C40      |        7232 |
+|      14 | 0x1C41      |        7233 |
+|      15 | 0x1C42      |        7234 |
+|      16 | 0x1C44      |        7236 |
+|      17 | 0x1C45      |        7237 |
+|      18 | 0x1C46      |        7238 |
+|      19 | 0x1C47      |        7239 |
+|      20 | 0x1C48      |        7240 |
+|      21 | 0x1C49      |        7241 |
 |      22 | 0x00C9      |         201 |
-|      23 | 0x1C49      |        7241 |
-|      24 | 0x1C4A      |        7242 |
-|      25 | 0x1C4B      |        7243 |
-|      26 | 0x1C4D      |        7245 |
-|      27 | 0x1C4C      |        7244 |
-|      28 | 0x1C4E      |        7246 |
+|      23 | 0x1C4A      |        7242 |
+|      24 | 0x1C4B      |        7243 |
+|      25 | 0x1C4C      |        7244 |
+|      26 | 0x1C4E      |        7246 |
+|      27 | 0x1C4D      |        7245 |
+|      28 | 0x1C4F      |        7247 |
 
 ## String References
 
-- **7225**: Quiet! I've no time for every fool that wants to chat.
-- **7226**: Quiet! Leave me alone.
-- **7227**: Hey, you there! You're going into the chateau to see Halver, no?
-- **7228**: I want you to give him this letter.
-- **7229**: Just give it to Halver, my friend. That's all you have to do.
-- **7230**: So was Halver...upset? Heh-heh-heh... I wish I could have seen it!
-- **7231**: It was the $1 for Chateau d'Oraguille! Heh-heh... Halver wouldn't give me anything for it, but the Orcs did!
-- **7232**: What now? You're going to take me in? Fine, but you won't get a gil for doing that.
-- **7233**: How about running a little errand for me instead? It could be profitable!
-- **7234**: Take the job? [Yes./No way.]
-- **7235**: Heh-heh-heh... Fool of an adventurer. I pity you!
-- **7236**: Many youths just like you have died, crushed under the heel of this land's sinister history.
-- **7237**: All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?
-- **7238**: Heh-heh... Not that I expect you to survive...
-- **7239**: All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?
-- **7240**: Heh-heh... Not that I expect you to survive...
-- **7241**: Heh-heh... Here's your reward. Now we're partners in crime, eh?
-- **7242**: Next time you're around, I might have another job for you. Heh-heh...
+- **7226**: Quiet! I've no time for every fool that wants to chat.
+- **7227**: Quiet! Leave me alone.
+- **7228**: Hey, you there! You're going into the chateau to see Halver, no?
+- **7229**: I want you to give him this letter.
+- **7230**: Just give it to Halver, my friend. That's all you have to do.
+- **7231**: So was Halver...upset? Heh-heh-heh... I wish I could have seen it!
+- **7232**: It was the $1 for Chateau d'Oraguille! Heh-heh... Halver wouldn't give me anything for it, but the Orcs did!
+- **7233**: What now? You're going to take me in? Fine, but you won't get a gil for doing that.
+- **7234**: How about running a little errand for me instead? It could be profitable!
+- **7235**: Take the job? [Yes./No way.]
+- **7236**: Heh-heh-heh... Fool of an adventurer. I pity you!
+- **7237**: Many youths just like you have died, crushed under the heel of this land's sinister history.
+- **7238**: All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?
+- **7239**: Heh-heh... Not that I expect you to survive...
+- **7240**: All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?
+- **7241**: Heh-heh... Not that I expect you to survive...
+- **7242**: Heh-heh... Here's your reward. Now we're partners in crime, eh?
 - **7243**: Next time you're around, I might have another job for you. Heh-heh...
-- **7244**: Heh-heh... Feel like doing a job for me again?
-- **7245**: Do the job? [Yes./No.]
-- **7246**: Excellent. I want you to do the same thing, then. Bring me the $1 from Ghelsba. Got it?
+- **7244**: Next time you're around, I might have another job for you. Heh-heh...
+- **7245**: Heh-heh... Feel like doing a job for me again?
+- **7246**: Do the job? [Yes./No.]
+- **7247**: Excellent. I want you to do the same thing, then. Bring me the $1 from Ghelsba. Got it?
 
 ## Events
 
@@ -615,7 +615,7 @@
   0: 0x0120 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0126 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7225*)
+  3: 0x0127 [0x1D] PRINT_EVENT_MESSAGE(message_id=7226*)
     → "Quiet! I've no time for every fool that wants to chat."
   4: 0x012A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x012B [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -646,7 +646,7 @@
   0: 0x012F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0134 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0135 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=7226*)
+  3: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=7227*)
     → "Quiet! Leave me alone."
   4: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x013A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -704,7 +704,7 @@
 #### Opcodes
 
 ```
-  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7227*)
+  0: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
     → "Hey, you there! You're going into the chateau to see Halver, no?"
   1: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x015B [0x00] END_REQSTACK()
@@ -731,7 +731,7 @@
 
 ```
   0: 0x015C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x07)
-  1: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
+  1: 0x0163 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
     → "I want you to give him this letter."
   2: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0167 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x08)
@@ -761,7 +761,7 @@
   0: 0x016F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0174 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0175 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
+  3: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
     → "Just give it to Halver, my friend. That's all you have to do."
   4: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x017A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -801,7 +801,7 @@
   4: 0x018D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x1B)
   5: 0x0194 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x1C)
   6: 0x019B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x1D)
-  7: 0x01A2 [0x24] CREATE_DIALOG(message_id=7234*, default_option=0*, option_flags=0*)
+  7: 0x01A2 [0x24] CREATE_DIALOG(message_id=7235*, default_option=0*, option_flags=0*)
     → "Take the job? [Yes./No way.]"
   8: 0x01A9 [0x25] WAIT_DIALOG_SELECT()
   9: 0x01AA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C2
@@ -840,7 +840,7 @@ SUBROUTINE_01D9:
 #### Opcodes
 
 ```
-  0: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7230*)
+  0: 0x01DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
     → "So was Halver...upset? Heh-heh-heh... I wish I could have seen it!"
   1: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E1 [0x00] END_REQSTACK()
@@ -865,7 +865,7 @@ SUBROUTINE_01D9:
 #### Opcodes
 
 ```
-  0: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7231*)
+  0: 0x01E2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
     → "It was the $1 for Chateau d'Oraguille! Heh-heh... Halver wouldn't give me anything for it, but the Orcs did!"
   1: 0x01E5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E6 [0x00] END_REQSTACK()
@@ -892,10 +892,10 @@ SUBROUTINE_01D9:
 
 ```
   0: 0x01E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x01)
-  1: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7232*)
+  1: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
     → "What now? You're going to take me in? Fine, but you won't get a gil for doing that."
   2: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7233*)
+  3: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7234*)
     → "How about running a little errand for me instead? It could be profitable!"
   4: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x01F6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x02)
@@ -925,12 +925,12 @@ SUBROUTINE_01D9:
 
 ```
   0: 0x01FE [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x03)
-  1: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7235*)
+  1: 0x0205 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
     → "Heh-heh-heh... Fool of an adventurer. I pity you!"
   2: 0x0208 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0209 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x04)
   4: 0x0210 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x05)
-  5: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=7236*)
+  5: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
     → "Many youths just like you have died, crushed under the heel of this land's sinister history."
   6: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x021B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x06)
@@ -958,11 +958,11 @@ SUBROUTINE_01D9:
 #### Opcodes
 
 ```
-  0: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=7237*)
+  0: 0x0223 [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
     → "All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?"
   1: 0x0226 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0227 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x03)
-  3: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7238*)
+  3: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
     → "Heh-heh... Not that I expect you to survive..."
   4: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0232 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x04)
@@ -996,11 +996,11 @@ SUBROUTINE_01D9:
   0: 0x0248 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x024D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x024E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=7239*)
+  3: 0x024F [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
     → "All right. How about you go into Ghelsba, get the $1 I sold to those Orcs, and bring it back?"
   4: 0x0252 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0253 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x03)
-  6: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7240*)
+  6: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
     → "Heh-heh... Not that I expect you to survive..."
   7: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x025E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x04)
@@ -1067,12 +1067,12 @@ SUBROUTINE_01D9:
 
 ```
   0: 0x029D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x07)
-  1: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7241*)
+  1: 0x02A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
     → "Heh-heh... Here's your reward. Now we're partners in crime, eh?"
   2: 0x02A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x02A8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x08)
   4: 0x02AF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x03)
-  5: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7242*)
+  5: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
     → "Next time you're around, I might have another job for you. Heh-heh..."
   6: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x02BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x04)
@@ -1106,7 +1106,7 @@ SUBROUTINE_01D9:
   1: 0x02D5 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x02D6 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x02D7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x03)
-  4: 0x02DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7243*)
+  4: 0x02DE [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
     → "Next time you're around, I might have another job for you. Heh-heh..."
   5: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x02E2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x04)
@@ -1144,7 +1144,7 @@ SUBROUTINE_01D9:
   1: 0x0300 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0301 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0302 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Dauperiat (ID: 17723525/0x010E7085), tag_num=0x25)
-  4: 0x0309 [0x24] CREATE_DIALOG(message_id=7245*, default_option=0*, option_flags=0*)
+  4: 0x0309 [0x24] CREATE_DIALOG(message_id=7246*, default_option=0*, option_flags=0*)
     → "Do the job? [Yes./No.]"
   5: 0x0310 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0311 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0329
@@ -1182,7 +1182,7 @@ SUBROUTINE_0339:
 #### Opcodes
 
 ```
-  0: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=7244*)
+  0: 0x033D [0x1D] PRINT_EVENT_MESSAGE(message_id=7245*)
     → "Heh-heh... Feel like doing a job for me again?"
   1: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0341 [0x00] END_REQSTACK()
@@ -1207,7 +1207,7 @@ SUBROUTINE_0339:
 #### Opcodes
 
 ```
-  0: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=7246*)
+  0: 0x0342 [0x1D] PRINT_EVENT_MESSAGE(message_id=7247*)
     → "Excellent. I want you to do the same thing, then. Bring me the $1 from Ghelsba. Got it?"
   1: 0x0345 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0346 [0x00] END_REQSTACK()

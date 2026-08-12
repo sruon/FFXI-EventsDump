@@ -124,7 +124,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0006      |           6 |
-|       1 | 0x1B9A      |        7066 |
+|       1 | 0x1B9B      |        7067 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x003C      |          60 |
@@ -132,107 +132,107 @@
 |       6 | 0x0155      |         341 |
 |       7 | 0x0078      |         120 |
 |       8 | 0x0020      |          32 |
-|       9 | 0x1B9B      |        7067 |
+|       9 | 0x1B9C      |        7068 |
 |      10 | 0x000D      |          13 |
-|      11 | 0x1B9C      |        7068 |
+|      11 | 0x1B9D      |        7069 |
 |      12 | 0x0022      |          34 |
-|      13 | 0x1B9D      |        7069 |
-|      14 | 0x1B9E      |        7070 |
-|      15 | 0x1B9F      |        7071 |
+|      13 | 0x1B9E      |        7070 |
+|      14 | 0x1B9F      |        7071 |
+|      15 | 0x1BA0      |        7072 |
 |      16 | 0x005A      |          90 |
 |      17 | 0x000B      |          11 |
-|      18 | 0x1BA1      |        7073 |
+|      18 | 0x1BA2      |        7074 |
 |      19 | 0x0028      |          40 |
-|      20 | 0x1BA2      |        7074 |
-|      21 | 0x1BA3      |        7075 |
-|      22 | 0x1BA4      |        7076 |
-|      23 | 0x1BA5      |        7077 |
+|      20 | 0x1BA3      |        7075 |
+|      21 | 0x1BA4      |        7076 |
+|      22 | 0x1BA5      |        7077 |
+|      23 | 0x1BA6      |        7078 |
 |      24 | 0x03FD      |        1021 |
-|      25 | 0x1BA6      |        7078 |
+|      25 | 0x1BA7      |        7079 |
 |      26 | 0x00F0      |         240 |
-|      27 | 0x1BA7      |        7079 |
-|      28 | 0x1BA8      |        7080 |
-|      29 | 0x1BA9      |        7081 |
+|      27 | 0x1BA8      |        7080 |
+|      28 | 0x1BA9      |        7081 |
+|      29 | 0x1BAA      |        7082 |
 |      30 | 0x0018      |          24 |
-|      31 | 0x1BAA      |        7082 |
-|      32 | 0x1BAB      |        7083 |
-|      33 | 0x1BAC      |        7084 |
-|      34 | 0x1BAD      |        7085 |
-|      35 | 0x1BAF      |        7087 |
-|      36 | 0x1BB0      |        7088 |
-|      37 | 0x1BB1      |        7089 |
-|      38 | 0x1BC5      |        7109 |
+|      31 | 0x1BAB      |        7083 |
+|      32 | 0x1BAC      |        7084 |
+|      33 | 0x1BAD      |        7085 |
+|      34 | 0x1BAE      |        7086 |
+|      35 | 0x1BB0      |        7088 |
+|      36 | 0x1BB1      |        7089 |
+|      37 | 0x1BB2      |        7090 |
+|      38 | 0x1BC6      |        7110 |
 |      39 | 0x0001      |           1 |
-|      40 | 0x1BC6      |        7110 |
+|      40 | 0x1BC7      |        7111 |
 |      41 | 0x00B4      |         180 |
 |      42 | 0x0036      |          54 |
 |      43 | 0x0021      |          33 |
 |      44 | 0x0035      |          53 |
-|      45 | 0x1BAE      |        7086 |
-|      46 | 0x1BA0      |        7072 |
-|      47 | 0x1BB2      |        7090 |
-|      48 | 0x1BB3      |        7091 |
-|      49 | 0x1BB4      |        7092 |
+|      45 | 0x1BAF      |        7087 |
+|      46 | 0x1BA1      |        7073 |
+|      47 | 0x1BB3      |        7091 |
+|      48 | 0x1BB4      |        7092 |
+|      49 | 0x1BB5      |        7093 |
 |      50 | 0x0002      |           2 |
-|      51 | 0x1BB5      |        7093 |
+|      51 | 0x1BB6      |        7094 |
 |      52 | 0x0003      |           3 |
-|      53 | 0x1BB6      |        7094 |
+|      53 | 0x1BB7      |        7095 |
 |      54 | 0x0004      |           4 |
-|      55 | 0x1BB7      |        7095 |
+|      55 | 0x1BB8      |        7096 |
 |      56 | 0x0005      |           5 |
-|      57 | 0x1BB8      |        7096 |
-|      58 | 0x1BB9      |        7097 |
+|      57 | 0x1BB9      |        7097 |
+|      58 | 0x1BBA      |        7098 |
 |      59 | 0x0007      |           7 |
-|      60 | 0x1BBA      |        7098 |
+|      60 | 0x1BBB      |        7099 |
 |      61 | 0x0008      |           8 |
-|      62 | 0x1BBB      |        7099 |
+|      62 | 0x1BBC      |        7100 |
 |      63 | 0x0009      |           9 |
-|      64 | 0x1BBC      |        7100 |
+|      64 | 0x1BBD      |        7101 |
 |      65 | 0x000A      |          10 |
-|      66 | 0x1BBD      |        7101 |
-|      67 | 0x1BBE      |        7102 |
+|      66 | 0x1BBE      |        7102 |
+|      67 | 0x1BBF      |        7103 |
 |      68 | 0x000C      |          12 |
-|      69 | 0x1BBF      |        7103 |
-|      70 | 0x1BC0      |        7104 |
+|      69 | 0x1BC0      |        7104 |
+|      70 | 0x1BC1      |        7105 |
 |      71 | 0x000E      |          14 |
-|      72 | 0x1BC1      |        7105 |
+|      72 | 0x1BC2      |        7106 |
 |      73 | 0x000F      |          15 |
-|      74 | 0x1BC2      |        7106 |
+|      74 | 0x1BC3      |        7107 |
 |      75 | 0x0010      |          16 |
-|      76 | 0x1BC3      |        7107 |
-|      77 | 0x1BC4      |        7108 |
-|      78 | 0x1BC7      |        7111 |
-|      79 | 0x1BC8      |        7112 |
-|      80 | 0x1BCC      |        7116 |
-|      81 | 0x1BCB      |        7115 |
+|      76 | 0x1BC4      |        7108 |
+|      77 | 0x1BC5      |        7109 |
+|      78 | 0x1BC8      |        7112 |
+|      79 | 0x1BC9      |        7113 |
+|      80 | 0x1BCD      |        7117 |
+|      81 | 0x1BCC      |        7116 |
 |      82 | 0x0024      |          36 |
-|      83 | 0x1BCA      |        7114 |
-|      84 | 0x1BC9      |        7113 |
-|      85 | 0x1BCD      |        7117 |
-|      86 | 0x1BCE      |        7118 |
-|      87 | 0x1BCF      |        7119 |
-|      88 | 0x1BD0      |        7120 |
-|      89 | 0x1BD1      |        7121 |
+|      83 | 0x1BCB      |        7115 |
+|      84 | 0x1BCA      |        7114 |
+|      85 | 0x1BCE      |        7118 |
+|      86 | 0x1BCF      |        7119 |
+|      87 | 0x1BD0      |        7120 |
+|      88 | 0x1BD1      |        7121 |
+|      89 | 0x1BD2      |        7122 |
 |      90 | 0x00C9      |         201 |
-|      91 | 0x1BD2      |        7122 |
-|      92 | 0x1BD3      |        7123 |
-|      93 | 0x1BD4      |        7124 |
+|      91 | 0x1BD3      |        7123 |
+|      92 | 0x1BD4      |        7124 |
+|      93 | 0x1BD5      |        7125 |
 |      94 | 0x002A      |          42 |
-|      95 | 0x1BD5      |        7125 |
+|      95 | 0x1BD6      |        7126 |
 |      96 | 0x0031      |          49 |
-|      97 | 0x1BD6      |        7126 |
+|      97 | 0x1BD7      |        7127 |
 |      98 | 0x0015      |          21 |
 |      99 | 0x001E      |          30 |
-|     100 | 0x1BD7      |        7127 |
-|     101 | 0x1BD9      |        7129 |
+|     100 | 0x1BD8      |        7128 |
+|     101 | 0x1BDA      |        7130 |
 |     102 | 0x001D      |          29 |
-|     103 | 0x1BDB      |        7131 |
+|     103 | 0x1BDC      |        7132 |
 |     104 | 0x0096      |         150 |
 |     105 | 0xFFFFBC7F  |  4294950015 |
 |     106 | 0x0680      |        1664 |
 |     107 | 0xFFFFFE3F  |  4294966847 |
 |     108 | 0x02FB      |         763 |
-|     109 | 0x1BDC      |        7132 |
+|     109 | 0x1BDD      |        7133 |
 |     110 | 0x01A4      |         420 |
 |     111 | 0x0037      |          55 |
 |     112 | 0x0032      |          50 |
@@ -328,71 +328,71 @@
 
 ## String References
 
-- **7066**: And who might you be, eh? Hrmmm... You're a bit too green for my liking. Don'taru you have any really-weally strong adventurer friends you can introduce me to?
-- **7067**: Boy oh boy, am I in trouble-wouble!
-- **7068**: Ah! You over there! Yes, you, the one with the muscles! You look like an adventurer who's rough and ready-weady for anything.
-- **7069**: I'm Rakuru-Rakoru, soon-to-be leading citizen of Windurst. I've got a proposal that you couldn't possibly resistaru!
-- **7070**: Oh, it's you again... If you've changed your mind aboutaru listening to my proposal, I'll excuse your earlier display of rudeness.
-- **7071**: What do you say? [Propose away!/I'm too busy.]
-- **7072**: Great! Now, what I want you to do, is--what!? Hmph...then you can go and getaru ripped off at the auction house for all I care! Adventurers like you are a gil a gallon anyway. Hey wait, that didn't make sense...
-- **7073**: Greataru! I knew you had promise!
-- **7074**: Now, let me give you the low-down. I'm from the Orastery in Windurst. I've been entrusted to conduct research of such great importaru, it will determine the very future of Vana'diel! No jokey-woke!
-- **7075**: To complete my research, I'm recruiting strong, reliable adventurers to venture outaru and gather data on my behalf.
-- **7076**: What kind of data, you ask?
-- **7077**: Hold on...justaru a second... This here, is...
-- **7078**: The miraculous $3\`!
-- **7079**: So, like I said, your role in my promotion exam--er...research, is to collect data.
-- **7080**: All you have to do is go and clobber all of the monstarus whose names have been recorded onto the $3, or "Dale," as I like to call him.
-- **7081**: Data of your encounter with each creature will be automatically recorded by Dale. So all that's leftaru to do is bring him back to me! Easy peasy, just like a strolly-woll through Windurst Waters!
-- **7082**: With that data, fame and fortune will finally be...
-- **7083**: Uh...I meantaru, peace and prosperity will be guaranteed for all of Vana'diel!
-- **7084**: Of course, I'm not asking you to work for free. You'll be well rewarded aftaru completing the task. So, how about it?
-- **7085**: What do you say? [Reward? Count me in!/Nah, it's not worth the effort.]
-- **7086**: Excellent! I knew I could count on--what!? Hmph...then you can go and getaru thrown off a chocobo for all I care! A dozen adventurers like you aren't worth a single copper ingot anyway!
-- **7087**: Excellent! Why don't we first take a look at the list of monstarus?
-- **7088**: You can see the listy-wist of monstarus by examining Dale. The ones you've already defeated will have crosses after their names.
-- **7089**: If you wantaru to know more about each of the creatures, just ask me, okay?
-- **7090**: $26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]
-- **7091**: According to my research...
-- **7092**: Tumbling Truffle is a creature from the funguar family. It's known to inhabitaru valley floors near the Crag of Holla, in the northeastern area of the La Theine Plateau.
-- **7093**: Tottering Toby is a creature from the sapling family. It's been observed around Coveffe Barrows, in the Batallia Downs.
-- **7094**: Blubbery Bulge is a creature from the slime family. It's been observed around the Disused Well in the southwestern region of Davoi.
-- **7095**: Black Triple Stars is a creature from the bat family. It's a known inhabitant of Brutus's Field in the Rolanberry Fields.
-- **7096**: Drooling Daisy is a creature from the morbol family. It's been observed near the Fountain of Partings in the Rolanberry Fields.
-- **7097**: Jolly Green is a creature from the goobbue family. It's supposed to inhabitaru the Luremarsh area in the Pashhow Marshlands.
-- **7098**: Sharp-Eared Ropipi is a creature from the rabbit family. It inhabits the southeastern region of East Sarutabaruta.
-- **7099**: Buburimboo is a creature from the pugil family. It's a known inhabitant of the Mighoya Dunes in the Buburimu Peninsula.
-- **7100**: Daggerclaw Dracos is a creature from the raptor family. It's been observed in the southeastern region of the Meriphataud Mountains.
-- **7101**: Trickster Kinetix is a creature from the evil weapon family. It's been seen in the open area near Delkfutt's Tower on Qufim Island.
-- **7102**: Ixtab is a creature from the ghost family. It supposedly dwells in one of the roomy-wooms inside Upper Delkfutt's Tower.
-- **7103**: Gargantua is a creature from the golem family. It's a known inhabitant of the coastaru area in eastern Beaucedine Glacier.
-- **7104**: Shadow Eye is a creature from the Ahriman family. It's been seen in western Xarcabard.
-- **7105**: Boreal Coeurl is a creature from the coeurl family. It supposedly dwells inside a cavey-wave in the northeastern region of Xarcabard.
-- **7106**: Boreal Hound is a creature from the hound family. It supposedly dwells inside a cavey-wave in the southwestern region of Xarcabard.
-- **7107**: Boreal Tiger is a creature from the tiger family. It supposedly dwells inside a cavey-wave in the northern region of Xarcabard.
-- **7108**: Is there anything else you wantaru to know about?
-- **7109**: I'll let you hold on to Dale for the duration of your task. Bring him back here any time you want to check the listaru, okay?
-- **7110**: Thank you for your cooperation!
-- **7111**: Hey! How goes my promotion exam--uh...the collection of data?
-- **7112**: May I see the $3? [Certainly./Nothing to see here.]
-- **7113**: You still have a long way to go before I can getaru that promot--uh, before the people of Vana'diel can know true peace and prosperity. Yes, that's it...peace and prosperity!
-- **7114**: Looks like you've made some progress. Keep up the good work, and my promot--uh, the land will be rid of the pesky monstarus for good!
-- **7115**: Hey, the list shows you've taken care of quite a few monstarus! The thought of my promot--uh, a brighter future for the land drawing nearer makes my heart racey-wace! Yes it does!
-- **7116**: Wowsers! My promotion is just around the corn--uh, what I meantaru to say is, data collection is almost over! Exciting times indeed!
-- **7117**: And that's the latest report from Dale. Thank you for your continued cooperation!
-- **7118**: <Gasp!> The...the data. It...it's finally complete!
-- **7119**: I knew a sorry bunch of monstarus like that would be a cakewalk for a bruiser like you!
-- **7120**: But, wow! I never thought passing the promotion exam could be this easy! I truly-wuly am a genius!
-- **7121**: Now, let me prepare your reward for services rendered...
-- **7122**: (Hohoho, a measly-weasly price to pay for passing the exam.)
-- **7123**: (My promotion at the Orastery is guaranteed!)
-- **7124**: (But why stop there? At this rate, joining the ranks of the Patriarchs doesn't even seem crazy-wazy anymore! Mwahahaha!)
-- **7125**: Now, I justaru need to lock down the battle data...
-- **7126**: Hrm? Doesn't seem to be working for some reason...
-- **7127**: Uwaaah! It's...alive!?
-- **7129**: (Th...that voice! It can't be!)
-- **7131**: Uwaaaaaah!!!
-- **7132**: M-my promotion...my dreamy-weam of becoming leading citizen...all gone... <Sniff, sob>
+- **7067**: And who might you be, eh? Hrmmm... You're a bit too green for my liking. Don'taru you have any really-weally strong adventurer friends you can introduce me to?
+- **7068**: Boy oh boy, am I in trouble-wouble!
+- **7069**: Ah! You over there! Yes, you, the one with the muscles! You look like an adventurer who's rough and ready-weady for anything.
+- **7070**: I'm Rakuru-Rakoru, soon-to-be leading citizen of Windurst. I've got a proposal that you couldn't possibly resistaru!
+- **7071**: Oh, it's you again... If you've changed your mind aboutaru listening to my proposal, I'll excuse your earlier display of rudeness.
+- **7072**: What do you say? [Propose away!/I'm too busy.]
+- **7073**: Great! Now, what I want you to do, is--what!? Hmph...then you can go and getaru ripped off at the auction house for all I care! Adventurers like you are a gil a gallon anyway. Hey wait, that didn't make sense...
+- **7074**: Greataru! I knew you had promise!
+- **7075**: Now, let me give you the low-down. I'm from the Orastery in Windurst. I've been entrusted to conduct research of such great importaru, it will determine the very future of Vana'diel! No jokey-woke!
+- **7076**: To complete my research, I'm recruiting strong, reliable adventurers to venture outaru and gather data on my behalf.
+- **7077**: What kind of data, you ask?
+- **7078**: Hold on...justaru a second... This here, is...
+- **7079**: The miraculous $3\`!
+- **7080**: So, like I said, your role in my promotion exam--er...research, is to collect data.
+- **7081**: All you have to do is go and clobber all of the monstarus whose names have been recorded onto the $3, or "Dale," as I like to call him.
+- **7082**: Data of your encounter with each creature will be automatically recorded by Dale. So all that's leftaru to do is bring him back to me! Easy peasy, just like a strolly-woll through Windurst Waters!
+- **7083**: With that data, fame and fortune will finally be...
+- **7084**: Uh...I meantaru, peace and prosperity will be guaranteed for all of Vana'diel!
+- **7085**: Of course, I'm not asking you to work for free. You'll be well rewarded aftaru completing the task. So, how about it?
+- **7086**: What do you say? [Reward? Count me in!/Nah, it's not worth the effort.]
+- **7087**: Excellent! I knew I could count on--what!? Hmph...then you can go and getaru thrown off a chocobo for all I care! A dozen adventurers like you aren't worth a single copper ingot anyway!
+- **7088**: Excellent! Why don't we first take a look at the list of monstarus?
+- **7089**: You can see the listy-wist of monstarus by examining Dale. The ones you've already defeated will have crosses after their names.
+- **7090**: If you wantaru to know more about each of the creatures, just ask me, okay?
+- **7091**: $26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]
+- **7092**: According to my research...
+- **7093**: Tumbling Truffle is a creature from the funguar family. It's known to inhabitaru valley floors near the Crag of Holla, in the northeastern area of the La Theine Plateau.
+- **7094**: Tottering Toby is a creature from the sapling family. It's been observed around Coveffe Barrows, in the Batallia Downs.
+- **7095**: Blubbery Bulge is a creature from the slime family. It's been observed around the Disused Well in the southwestern region of Davoi.
+- **7096**: Black Triple Stars is a creature from the bat family. It's a known inhabitant of Brutus's Field in the Rolanberry Fields.
+- **7097**: Drooling Daisy is a creature from the morbol family. It's been observed near the Fountain of Partings in the Rolanberry Fields.
+- **7098**: Jolly Green is a creature from the goobbue family. It's supposed to inhabitaru the Luremarsh area in the Pashhow Marshlands.
+- **7099**: Sharp-Eared Ropipi is a creature from the rabbit family. It inhabits the southeastern region of East Sarutabaruta.
+- **7100**: Buburimboo is a creature from the pugil family. It's a known inhabitant of the Mighoya Dunes in the Buburimu Peninsula.
+- **7101**: Daggerclaw Dracos is a creature from the raptor family. It's been observed in the southeastern region of the Meriphataud Mountains.
+- **7102**: Trickster Kinetix is a creature from the evil weapon family. It's been seen in the open area near Delkfutt's Tower on Qufim Island.
+- **7103**: Ixtab is a creature from the ghost family. It supposedly dwells in one of the roomy-wooms inside Upper Delkfutt's Tower.
+- **7104**: Gargantua is a creature from the golem family. It's a known inhabitant of the coastaru area in eastern Beaucedine Glacier.
+- **7105**: Shadow Eye is a creature from the Ahriman family. It's been seen in western Xarcabard.
+- **7106**: Boreal Coeurl is a creature from the coeurl family. It supposedly dwells inside a cavey-wave in the northeastern region of Xarcabard.
+- **7107**: Boreal Hound is a creature from the hound family. It supposedly dwells inside a cavey-wave in the southwestern region of Xarcabard.
+- **7108**: Boreal Tiger is a creature from the tiger family. It supposedly dwells inside a cavey-wave in the northern region of Xarcabard.
+- **7109**: Is there anything else you wantaru to know about?
+- **7110**: I'll let you hold on to Dale for the duration of your task. Bring him back here any time you want to check the listaru, okay?
+- **7111**: Thank you for your cooperation!
+- **7112**: Hey! How goes my promotion exam--uh...the collection of data?
+- **7113**: May I see the $3? [Certainly./Nothing to see here.]
+- **7114**: You still have a long way to go before I can getaru that promot--uh, before the people of Vana'diel can know true peace and prosperity. Yes, that's it...peace and prosperity!
+- **7115**: Looks like you've made some progress. Keep up the good work, and my promot--uh, the land will be rid of the pesky monstarus for good!
+- **7116**: Hey, the list shows you've taken care of quite a few monstarus! The thought of my promot--uh, a brighter future for the land drawing nearer makes my heart racey-wace! Yes it does!
+- **7117**: Wowsers! My promotion is just around the corn--uh, what I meantaru to say is, data collection is almost over! Exciting times indeed!
+- **7118**: And that's the latest report from Dale. Thank you for your continued cooperation!
+- **7119**: <Gasp!> The...the data. It...it's finally complete!
+- **7120**: I knew a sorry bunch of monstarus like that would be a cakewalk for a bruiser like you!
+- **7121**: But, wow! I never thought passing the promotion exam could be this easy! I truly-wuly am a genius!
+- **7122**: Now, let me prepare your reward for services rendered...
+- **7123**: (Hohoho, a measly-weasly price to pay for passing the exam.)
+- **7124**: (My promotion at the Orastery is guaranteed!)
+- **7125**: (But why stop there? At this rate, joining the ranks of the Patriarchs doesn't even seem crazy-wazy anymore! Mwahahaha!)
+- **7126**: Now, I justaru need to lock down the battle data...
+- **7127**: Hrm? Doesn't seem to be working for some reason...
+- **7128**: Uwaaah! It's...alive!?
+- **7130**: (Th...that voice! It can't be!)
+- **7132**: Uwaaaaaah!!!
+- **7133**: M-my promotion...my dreamy-weam of becoming leading citizen...all gone... <Sniff, sob>
 
 ## Events
 
@@ -445,7 +445,7 @@
   3: 0x0009 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x000A [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 6*
   5: 0x0011 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-  6: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7066*)
+  6: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=7067*)
     → "And who might you be, eh? Hrmmm... You're a bit too green for my liking. Don'taru you have any really-weally strong adventurer friends you can introduce me to?"
   7: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001A [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -577,13 +577,13 @@
  21: 0x00A1 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x010B
  22: 0x00A9 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 32*
  23: 0x00B0 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 24: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7067*)
+ 24: 0x00B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7068*)
     → "Boy oh boy, am I in trouble-wouble!"
  25: 0x00B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x00B9 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  27: 0x00BE [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 13*
  28: 0x00C5 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 29: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7068*)
+ 29: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=7069*)
     → "Ah! You over there! Yes, you, the one with the muscles! You look like an adventurer who's rough and ready-weady for anything."
  30: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00CE [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -591,14 +591,14 @@
  33: 0x00E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  34: 0x00F3 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 34*
  35: 0x00FA [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 36: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7069*)
+ 36: 0x00FF [0x1D] PRINT_EVENT_MESSAGE(message_id=7070*)
     → "I'm Rakuru-Rakoru, soon-to-be leading citizen of Windurst. I've got a proposal that you couldn't possibly resistaru!"
  37: 0x0102 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0103 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  39: 0x0108 [0x01] GOTO 0x0140
  40: 0x010B [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 32*
  41: 0x0112 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 42: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7070*)
+ 42: 0x0117 [0x1D] PRINT_EVENT_MESSAGE(message_id=7071*)
     → "Oh, it's you again... If you've changed your mind aboutaru listening to my proposal, I'll excuse your earlier display of rudeness."
  43: 0x011A [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x011B [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -606,7 +606,7 @@
  46: 0x012F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 
 SUBROUTINE_0140:
- 47: 0x0140 [0x24] CREATE_DIALOG(message_id=7071*, default_option=0*, option_flags=0*)
+ 47: 0x0140 [0x24] CREATE_DIALOG(message_id=7072*, default_option=0*, option_flags=0*)
     → "What do you say? [Propose away!/I'm too busy.]"
  48: 0x0147 [0x25] WAIT_DIALOG_SELECT()
  49: 0x0148 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04B9
@@ -614,29 +614,29 @@ SUBROUTINE_0140:
  51: 0x0157 [0x1C] WAIT(90* ticks)
  52: 0x015A [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 11*
  53: 0x0161 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 54: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7073*)
+ 54: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=7074*)
     → "Greataru! I knew you had promise!"
  55: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x016A [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  57: 0x016F [0x52] END_LOAD_SCHEDULER: End scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=341*
  58: 0x017E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
  59: 0x018D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm03" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 60: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7074*)
+ 60: 0x019E [0x1D] PRINT_EVENT_MESSAGE(message_id=7075*)
     → "Now, let me give you the low-down. I'm from the Orastery in Windurst. I've been entrusted to conduct research of such great importaru, it will determine the very future of Vana'diel! No jokey-woke!"
  61: 0x01A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7075*)
+ 62: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=7076*)
     → "To complete my research, I'm recruiting strong, reliable adventurers to venture outaru and gather data on my behalf."
  63: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01A6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
  65: 0x01B5 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 32*
  66: 0x01BC [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 67: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7076*)
+ 67: 0x01C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=7077*)
     → "What kind of data, you ask?"
  68: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x01C5 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  70: 0x01CA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "nm03" with entities [LocalPlayer, LocalPlayer], work=341*
  71: 0x01D9 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
- 72: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7077*)
+ 72: 0x01E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7078*)
     → "Hold on...justaru a second... This here, is..."
  73: 0x01EB [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01EC [0x1C] WAIT(60* ticks)
@@ -644,19 +644,19 @@ SUBROUTINE_0140:
  76: 0x01F6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm06" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  77: 0x0207 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "lvup" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  78: 0x0218 [0x03] Work_Zone[2] = 1021*
- 79: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7078*)
+ 79: 0x021D [0x1D] PRINT_EVENT_MESSAGE(message_id=7079*)
     → "The miraculous $3`!"
  80: 0x0220 [0x1C] WAIT(240* ticks)
  81: 0x0223 [0x52] END_LOAD_SCHEDULER: End scheduler "nm06" with entities [LocalPlayer, LocalPlayer], work=341*
  82: 0x0232 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm05" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  83: 0x0243 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
- 84: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7079*)
+ 84: 0x0252 [0x1D] PRINT_EVENT_MESSAGE(message_id=7080*)
     → "So, like I said, your role in my promotion exam--er...research, is to collect data."
  85: 0x0255 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7080*)
+ 86: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=7081*)
     → "All you have to do is go and clobber all of the monstarus whose names have been recorded onto the $3, or "Dale," as I like to call him."
  87: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7081*)
+ 88: 0x025A [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
     → "Data of your encounter with each creature will be automatically recorded by Dale. So all that's leftaru to do is bring him back to me! Easy peasy, just like a strolly-woll through Windurst Waters!"
  89: 0x025D [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x025E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -669,24 +669,24 @@ SUBROUTINE_0140:
  97: 0x02B9 [0x1C] WAIT(60* ticks)
  98: 0x02BC [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 24*
  99: 0x02C3 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-100: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7082*)
+100: 0x02C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
     → "With that data, fame and fortune will finally be..."
 101: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x02CC [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 103: 0x02D1 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 6*
 104: 0x02D8 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-105: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7083*)
+105: 0x02DD [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
     → "Uh...I meantaru, peace and prosperity will be guaranteed for all of Vana'diel!"
 106: 0x02E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x02E1 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 108: 0x02E6 [0x52] END_LOAD_SCHEDULER: End scheduler "nm03" with entities [LocalPlayer, LocalPlayer], work=341*
 109: 0x02F5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 110: 0x0306 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-111: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7084*)
+111: 0x0315 [0x1D] PRINT_EVENT_MESSAGE(message_id=7085*)
     → "Of course, I'm not asking you to work for free. You'll be well rewarded aftaru completing the task. So, how about it?"
 112: 0x0318 [0x23] WAIT_FOR_DIALOG_INTERACTION
 113: 0x0319 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
-114: 0x0328 [0x24] CREATE_DIALOG(message_id=7085*, default_option=0*, option_flags=0*)
+114: 0x0328 [0x24] CREATE_DIALOG(message_id=7086*, default_option=0*, option_flags=0*)
     → "What do you say? [Reward? Count me in!/Nah, it's not worth the effort.]"
 115: 0x032F [0x25] WAIT_DIALOG_SELECT()
 116: 0x0330 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0478
@@ -695,7 +695,7 @@ SUBROUTINE_0140:
 119: 0x0342 [0x52] END_LOAD_SCHEDULER: End scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=341*
 120: 0x0351 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm03" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 121: 0x0362 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
-122: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
+122: 0x0371 [0x1D] PRINT_EVENT_MESSAGE(message_id=7088*)
     → "Excellent! Why don't we first take a look at the list of monstarus?"
 123: 0x0374 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x0375 [0x1C] WAIT(60* ticks)
@@ -707,10 +707,10 @@ SUBROUTINE_0140:
 130: 0x03B3 [0x1C] WAIT(60* ticks)
 131: 0x03B6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 132: 0x03C7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-133: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7088*)
+133: 0x03D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
     → "You can see the listy-wist of monstarus by examining Dale. The ones you've already defeated will have crosses after their names."
 134: 0x03D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-135: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+135: 0x03DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "If you wantaru to know more about each of the creatures, just ask me, okay?"
 136: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x03DE [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -722,14 +722,14 @@ SUBROUTINE_0140:
 143: 0x041E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 144: 0x042F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 145: 0x0440 [0x1C] WAIT(60* ticks)
-146: 0x0443 [0x1D] PRINT_EVENT_MESSAGE(message_id=7109*)
+146: 0x0443 [0x1D] PRINT_EVENT_MESSAGE(message_id=7110*)
     → "I'll let you hold on to Dale for the duration of your task. Bring him back here any time you want to check the listaru, okay?"
 147: 0x0446 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0447 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
 149: 0x0456 [0x1C] WAIT(90* ticks)
 150: 0x0459 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 1*
 151: 0x0460 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-152: 0x0465 [0x1D] PRINT_EVENT_MESSAGE(message_id=7110*)
+152: 0x0465 [0x1D] PRINT_EVENT_MESSAGE(message_id=7111*)
     → "Thank you for your cooperation!"
 153: 0x0468 [0x1C] WAIT(180* ticks)
 154: 0x046B [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -741,7 +741,7 @@ SUBROUTINE_0140:
 160: 0x048A [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 33*
 161: 0x0491 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 162: 0x0496 [0x03] Work_Zone[1] = 53*
-163: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
+163: 0x049B [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
     → "Excellent! I knew I could count on--what!? Hmph...then you can go and getaru thrown off a chocobo for all I care! A dozen adventurers like you aren't worth a single copper ingot anyway!"
 164: 0x049E [0x23] WAIT_FOR_DIALOG_INTERACTION
 165: 0x049F [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -756,7 +756,7 @@ SUBROUTINE_04B6:
 172: 0x04CB [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 33*
 173: 0x04D2 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 174: 0x04D7 [0x03] Work_Zone[1] = 53*
-175: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7072*)
+175: 0x04DC [0x1D] PRINT_EVENT_MESSAGE(message_id=7073*)
     → "Great! Now, what I want you to do, is--what!? Hmph...then you can go and getaru ripped off at the auction house for all I care! Adventurers like you are a gil a gallon anyway. Hey wait, that didn't make sense..."
 176: 0x04DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x04E0 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -831,7 +831,7 @@ SUBROUTINE_04F7:
 ```
   0: 0x0522 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0523 [0x1A] CALL_SUBROUTINE(address=0x0E34)
-  2: 0x0526 [0x24] CREATE_DIALOG(message_id=7090*, default_option=0*, option_flags=0*)
+  2: 0x0526 [0x24] CREATE_DIALOG(message_id=7091*, default_option=0*, option_flags=0*)
     → "$26Dale's Monstaru List$26 [Close list./Tumbling Truffle [ /x]/Tottering Toby [ /x]/Blubbery Bulge [ /x]/Black Triple Stars [ /x]/Drooling Daisy [ /x]/Jolly Green [ /x]/Sharp-Eared Ropipi [ /x]/Buburimboo [ /x]/Daggerclaw Dracos [ /x]/Trickster Kinetix [ /x]/Ixtab [ /x]/Gargantua [ /x]/Shadow Eye [ /x]/Boreal Coeurl [ /x]/Boreal Hound [ /x]/Boreal Tiger [ /x]]"
   3: 0x052D [0x25] WAIT_DIALOG_SELECT()
   4: 0x052E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x053A
@@ -841,7 +841,7 @@ SUBROUTINE_0756:
   6: 0x0756 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
   7: 0x0765 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 32*
   8: 0x076C [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-  9: 0x0771 [0x1D] PRINT_EVENT_MESSAGE(message_id=7108*)
+  9: 0x0771 [0x1D] PRINT_EVENT_MESSAGE(message_id=7109*)
     → "Is there anything else you wantaru to know about?"
  10: 0x0774 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0775 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -916,11 +916,11 @@ SUBROUTINE_0756:
   3: 0x0786 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0787 [0x79] LocalPlayer looks at Rakuru-Rakoru (ID: 17780928/0x010F50C0) (Basic look)
   5: 0x0791 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  6: 0x07A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7111*)
+  6: 0x07A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=7112*)
     → "Hey! How goes my promotion exam--uh...the collection of data?"
   7: 0x07A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x07A4 [0x03] Work_Zone[2] = 1021*
-  9: 0x07A9 [0x24] CREATE_DIALOG(message_id=7112*, default_option=0*, option_flags=0*)
+  9: 0x07A9 [0x24] CREATE_DIALOG(message_id=7113*, default_option=0*, option_flags=0*)
     → "May I see the $3? [Certainly./Nothing to see here.]"
  10: 0x07B0 [0x25] WAIT_DIALOG_SELECT()
  11: 0x07B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0996
@@ -945,7 +945,7 @@ SUBROUTINE_0756:
  30: 0x0825 [0x1C] WAIT(60* ticks)
  31: 0x0828 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  32: 0x0839 [0x1C] WAIT(60* ticks)
- 33: 0x083C [0x1D] PRINT_EVENT_MESSAGE(message_id=7089*)
+ 33: 0x083C [0x1D] PRINT_EVENT_MESSAGE(message_id=7090*)
     → "If you wantaru to know more about each of the creatures, just ask me, okay?"
  34: 0x083F [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x0840 [0x29] REQ_SET_WAIT(priority=0x0F, entity_id=Rakuru-Rakoru (ID: 17780928/0x010F50C0), tag_num=0x03)
@@ -958,7 +958,7 @@ SUBROUTINE_0926:
  40: 0x0935 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm02" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  41: 0x0946 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 1*
  42: 0x094D [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 43: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=7117*)
+ 43: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=7118*)
     → "And that's the latest report from Dale. Thank you for your continued cooperation!"
  44: 0x0955 [0x1C] WAIT(180* ticks)
  45: 0x0958 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -1094,22 +1094,22 @@ SUBROUTINE_0996:
  19: 0x0A08 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x0A19 [0x1C] WAIT(60* ticks)
  21: 0x0A1C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "wai0" with entities [EventEntity, EventEntity], work=40*
- 22: 0x0A2B [0x1D] PRINT_EVENT_MESSAGE(message_id=7118*)
+ 22: 0x0A2B [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
     → "<Gasp!> The...the data. It...it's finally complete!"
  23: 0x0A2E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0A2F [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 4*
  25: 0x0A36 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 26: 0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=7119*)
+ 26: 0x0A3B [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
     → "I knew a sorry bunch of monstarus like that would be a cakewalk for a bruiser like you!"
  27: 0x0A3E [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0A3F [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  29: 0x0A44 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 36*
  30: 0x0A4B [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 31: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=7120*)
+ 31: 0x0A50 [0x1D] PRINT_EVENT_MESSAGE(message_id=7121*)
     → "But, wow! I never thought passing the promotion exam could be this easy! I truly-wuly am a genius!"
  32: 0x0A53 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0A54 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 34: 0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7121*)
+ 34: 0x0A59 [0x1D] PRINT_EVENT_MESSAGE(message_id=7122*)
     → "Now, let me prepare your reward for services rendered..."
  35: 0x0A5C [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0A5D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=40*
@@ -1119,13 +1119,13 @@ SUBROUTINE_0996:
  40: 0x0A83 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  41: 0x0A94 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  42: 0x0AA5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm08" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
- 43: 0x0AB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7122*)
+ 43: 0x0AB6 [0x1D] PRINT_EVENT_MESSAGE(message_id=7123*)
     → "(Hohoho, a measly-weasly price to pay for passing the exam.)"
  44: 0x0AB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x0ABA [0x1D] PRINT_EVENT_MESSAGE(message_id=7123*)
+ 45: 0x0ABA [0x1D] PRINT_EVENT_MESSAGE(message_id=7124*)
     → "(My promotion at the Orastery is guaranteed!)"
  46: 0x0ABD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x0ABE [0x1D] PRINT_EVENT_MESSAGE(message_id=7124*)
+ 47: 0x0ABE [0x1D] PRINT_EVENT_MESSAGE(message_id=7125*)
     → "(But why stop there? At this rate, joining the ranks of the Patriarchs doesn't even seem crazy-wazy anymore! Mwahahaha!)"
  48: 0x0AC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0AC2 [0x52] END_LOAD_SCHEDULER: End scheduler "nm08" with entities [LocalPlayer, LocalPlayer], work=341*
@@ -1136,7 +1136,7 @@ SUBROUTINE_0996:
  54: 0x0B05 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "bik1" with entities [EventEntity, EventEntity], work=42*
  55: 0x0B14 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
  56: 0x0B23 [0x03] Work_Zone[2] = 1021*
- 57: 0x0B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7125*)
+ 57: 0x0B28 [0x1D] PRINT_EVENT_MESSAGE(message_id=7126*)
     → "Now, I justaru need to lock down the battle data..."
  58: 0x0B2B [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0B2C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -1159,7 +1159,7 @@ SUBROUTINE_0996:
  76: 0x0BE0 [0x1C] WAIT(60* ticks)
  77: 0x0BE3 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 32*
  78: 0x0BEA [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
- 79: 0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7126*)
+ 79: 0x0BEF [0x1D] PRINT_EVENT_MESSAGE(message_id=7127*)
     → "Hrm? Doesn't seem to be working for some reason..."
  80: 0x0BF2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0BF3 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -1167,7 +1167,7 @@ SUBROUTINE_0996:
  83: 0x0BFF [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
  84: 0x0C04 [0x1C] WAIT(30* ticks)
  85: 0x0C07 [0x7B] Rakuru-Rakoru (ID: 17780928/0x010F50C0) stops talking
- 86: 0x0C0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7127*)
+ 86: 0x0C0C [0x1D] PRINT_EVENT_MESSAGE(message_id=7128*)
     → "Uwaaah! It's...alive!?"
  87: 0x0C0F [0x1C] WAIT(30* ticks)
  88: 0x0C12 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "who1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -1186,7 +1186,7 @@ SUBROUTINE_0996:
 101: 0x0CAA [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 102: 0x0CAF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm09" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 103: 0x0CC0 [0x1C] WAIT(30* ticks)
-104: 0x0CC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7129*)
+104: 0x0CC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7130*)
     → "(Th...that voice! It can't be!)"
 105: 0x0CC6 [0x1C] WAIT(120* ticks)
 106: 0x0CC9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "nm09" with entities [LocalPlayer, LocalPlayer], work=341*
@@ -1198,7 +1198,7 @@ SUBROUTINE_0996:
 112: 0x0D21 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 29*
 113: 0x0D28 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
 114: 0x0D2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm07" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
-115: 0x0D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7131*)
+115: 0x0D3E [0x1D] PRINT_EVENT_MESSAGE(message_id=7132*)
     → "Uwaaaaaah!!!"
 116: 0x0D41 [0x1C] WAIT(150* ticks)
 117: 0x0D44 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
@@ -1211,7 +1211,7 @@ SUBROUTINE_0996:
 124: 0x0D8B [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "corp" with entities [EventEntity, EventEntity]
 125: 0x0D98 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "nm10" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
 126: 0x0DA9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-127: 0x0DBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7132*)
+127: 0x0DBA [0x1D] PRINT_EVENT_MESSAGE(message_id=7133*)
     → "M-my promotion...my dreamy-weam of becoming leading citizen...all gone... <Sniff, sob>"
 128: 0x0DBD [0x1C] WAIT(420* ticks)
 129: 0x0DC0 [0x03] Work_Zone[1] = 55*
@@ -1270,7 +1270,7 @@ SUBROUTINE_0996:
   3: 0x0E18 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0E19 [0x6E] Rakuru-Rakoru (ID: 17780928/0x010F50C0) uses emote 29*
   5: 0x0E20 [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete
-  6: 0x0E25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7132*)
+  6: 0x0E25 [0x1D] PRINT_EVENT_MESSAGE(message_id=7133*)
     → "M-my promotion...my dreamy-weam of becoming leading citizen...all gone... <Sniff, sob>"
   7: 0x0E28 [0x1C] WAIT(180* ticks)
   8: 0x0E2B [0x99] Wait for Rakuru-Rakoru (ID: 17780928/0x010F50C0) animation to complete

@@ -23,28 +23,28 @@
 |---------|-------------|-------------|
 |       0 | 0x03E8      |        1000 |
 |       1 | 0x2207      |        8711 |
-|       2 | 0x3836      |       14390 |
-|       3 | 0x3837      |       14391 |
-|       4 | 0x3838      |       14392 |
-|       5 | 0x3839      |       14393 |
-|       6 | 0x383A      |       14394 |
-|       7 | 0x383B      |       14395 |
+|       2 | 0x3837      |       14391 |
+|       3 | 0x3838      |       14392 |
+|       4 | 0x3839      |       14393 |
+|       5 | 0x383A      |       14394 |
+|       6 | 0x383B      |       14395 |
+|       7 | 0x383C      |       14396 |
 |       8 | 0x0001      |           1 |
 |       9 | 0x0000      |           0 |
-|      10 | 0x383C      |       14396 |
-|      11 | 0x383D      |       14397 |
+|      10 | 0x383D      |       14397 |
+|      11 | 0x383E      |       14398 |
 |      12 | 0xFFFFFFF6  |  4294967286 |
 
 ## String References
 
-- **14390**: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
-- **14391**: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
-- **14392**: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
-- **14393**: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
-- **14394**: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
-- **14395**: Proceed with the exchange? [Yes./No.]
-- **14396**: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
-- **14397**: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
+- **14391**: The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used.
+- **14392**: Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks.
+- **14393**: Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held.
+- **14394**: Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly.
+- **14395**: Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s].
+- **14396**: Proceed with the exchange? [Yes./No.]
+- **14397**: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2.
+- **14398**: The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3.
 
 ## Events
 
@@ -98,16 +98,16 @@
   3: 0x0014 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
   4: 0x0019 [0x03] Work_Zone[2] = 1000*
   5: 0x001E [0x03] Work_Zone[3] = 8711*
-  6: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=14390*)
+  6: 0x0023 [0x1D] PRINT_EVENT_MESSAGE(message_id=14391*)
     → "The A.M.A.N. is pleased to announce a new service in which we purchase any equipment you no longer need--new or used."
   7: 0x0026 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=14391*)
+  8: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=14392*)
     → "Just trade me any piece of equipment you desire. I will quickly assess its value and award you with an appropriate number of reclamation marks."
   9: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=14392*)
+ 10: 0x002B [0x1D] PRINT_EVENT_MESSAGE(message_id=14393*)
     → "Once you accumulate $0 of these marks, they will be automatically converted to one $1 and added to the total number held."
  11: 0x002E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=14393*)
+ 12: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=14394*)
     → "Though I am only authorized to accept a limited selection of equipment at present, the A.M.A.N. is considering making further additions to this list, so please check back regularly."
  13: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0033 [0x21] END_EVENT
@@ -147,20 +147,20 @@
   4: 0x0049 [0x4A] EventEntity looks at LocalPlayer
   5: 0x0052 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   6: 0x0053 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until EventEntity Render.Flags0 and Render.Flags3 conditions are met
-  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14394*)
+  7: 0x0058 [0x1D] PRINT_EVENT_MESSAGE(message_id=14395*)
     → "Would you like $0 reclamation mark[/s] in exchange for one $1? You currently have $5 mark[/s]."
   8: 0x005B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x005C [0x24] CREATE_DIALOG(message_id=14395*, default_option=1*, option_flags=0*)
+  9: 0x005C [0x24] CREATE_DIALOG(message_id=14396*, default_option=1*, option_flags=0*)
     → "Proceed with the exchange? [Yes./No.]"
  10: 0x0063 [0x25] WAIT_DIALOG_SELECT()
  11: 0x0064 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008E
  12: 0x006C [0x03] Work_Zone[3] = 8711*
  13: 0x0071 [0x02] IF !(ExtData[1]->WorkLocal[3] == 0*) GOTO 0x0080
- 14: 0x0079 [0x48] [System] [14396*]:
+ 14: 0x0079 [0x48] [System] [14397*]:
     → "The reclaimer awards you with $0 reclamation mark[/s] for a total of $2."
  15: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x007D [0x01] GOTO 0x0084
- 17: 0x0080 [0x48] [System] [14397*]:
+ 17: 0x0080 [0x48] [System] [14398*]:
     → "The reclaimer awards you with $0 reclamation mark[/s] for a total of $2. The number of $1 stored has increased by $3."
  18: 0x0083 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

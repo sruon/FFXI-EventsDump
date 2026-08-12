@@ -37,9 +37,9 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3433      |       13363 |
-|       1 | 0x3434      |       13364 |
-|       2 | 0x3435      |       13365 |
+|       0 | 0x3434      |       13364 |
+|       1 | 0x3435      |       13365 |
+|       2 | 0x3436      |       13366 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x17BAE     |       97198 |
 |       5 | 0x205C6     |      132550 |
@@ -56,7 +56,7 @@
 |      16 | 0x0E5D      |        3677 |
 |      17 | 0x2241E     |      140318 |
 |      18 | 0x1F7AF     |      128943 |
-|      19 | 0x341B      |       13339 |
+|      19 | 0x341C      |       13340 |
 |      20 | 0x001E      |          30 |
 |      21 | 0x1F9A0     |      129440 |
 |      22 | 0x1CE83     |      118403 |
@@ -71,29 +71,29 @@
 |      31 | 0x229A7     |      141735 |
 |      32 | 0x0382      |         898 |
 |      33 | 0x0014      |          20 |
-|      34 | 0x2C29      |       11305 |
-|      35 | 0x2BBF      |       11199 |
+|      34 | 0x2C2A      |       11306 |
+|      35 | 0x2BC0      |       11200 |
 |      36 | 0x0019      |          25 |
 |      37 | 0x003C      |          60 |
 |      38 | 0x1BA51     |      113233 |
 |      39 | 0x1AF82     |      110466 |
 |      40 | 0x0244      |         580 |
-|      41 | 0x346D      |       13421 |
-|      42 | 0x346E      |       13422 |
-|      43 | 0x343C      |       13372 |
-|      44 | 0x343D      |       13373 |
+|      41 | 0x346E      |       13422 |
+|      42 | 0x346F      |       13423 |
+|      43 | 0x343D      |       13373 |
+|      44 | 0x343E      |       13374 |
 
 ## String References
 
-- **11199**: May Paradise open its gates to you.
-- **11305**: Greetings, faithful one. Have you come to hear the vicasque's sermons? Indeed they are the surest way to Paradise.
-- **13363**: You said that you seek the Royal Knight Francmage M Mistalle, did you not?
-- **13364**: If I am not mistaken, I recall a section of Jugner Forest known as Carpenters' Landing being owned by the Knights Mistalle.
-- **13365**: I do not believe you will be able to reach the manor, but you may find some of his hands by the water collecting firewood.
-- **13372**: I was not aware that Sir Louverance was acting as an envoy for the cathedral.
-- **13373**: However, if he is traveling by airship, perhaps you should await his return to San d'Oria at the port.
-- **13421**: I spoke with the researchers in Beaucedine on the matter of Sir Louverance.
-- **13422**: From what I can gather, your friend has most likely been transported to the Rhinostery in the Federation of Windurst.
+- **11200**: May Paradise open its gates to you.
+- **11306**: Greetings, faithful one. Have you come to hear the vicasque's sermons? Indeed they are the surest way to Paradise.
+- **13364**: You said that you seek the Royal Knight Francmage M Mistalle, did you not?
+- **13365**: If I am not mistaken, I recall a section of Jugner Forest known as Carpenters' Landing being owned by the Knights Mistalle.
+- **13366**: I do not believe you will be able to reach the manor, but you may find some of his hands by the water collecting firewood.
+- **13373**: I was not aware that Sir Louverance was acting as an envoy for the cathedral.
+- **13374**: However, if he is traveling by airship, perhaps you should await his return to San d'Oria at the port.
+- **13422**: I spoke with the researchers in Beaucedine on the matter of Sir Louverance.
+- **13423**: From what I can gather, your friend has most likely been transported to the Rhinostery in the Federation of Windurst.
 
 ## Events
 
@@ -165,13 +165,13 @@
   0: 0x0008 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x000D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x000E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=13363*)
+  3: 0x000F [0x1D] PRINT_EVENT_MESSAGE(message_id=13364*)
     → "You said that you seek the Royal Knight Francmage M Mistalle, did you not?"
   4: 0x0012 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=13364*)
+  5: 0x0013 [0x1D] PRINT_EVENT_MESSAGE(message_id=13365*)
     → "If I am not mistaken, I recall a section of Jugner Forest known as Carpenters' Landing being owned by the Knights Mistalle."
   6: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=13365*)
+  7: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=13366*)
     → "I do not believe you will be able to reach the manor, but you may find some of his hands by the water collecting firewood."
   8: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x001B [0x21] END_EVENT
@@ -242,7 +242,7 @@
   5: 0x005C [0x1E] EventEntity looks at Pagisalis (ID: 17723424/0x010E7020) and starts talking
   6: 0x0061 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x0062 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  8: 0x0063 [0x2B] Chasalvige (ID: 17723416/0x010E7018) [13339*]:
+  8: 0x0063 [0x2B] Chasalvige (ID: 17723416/0x010E7018) [13340*]:
     → "This is the cathedral Reliquary. It was built in remembrance of one of our former papsques, Muchavatte P Couchiret."
   9: 0x006A [0x7B] Chasalvige (ID: 17723416/0x010E7018) stops talking
  10: 0x006F [0x1C] WAIT(30* ticks)
@@ -403,14 +403,14 @@
   1: 0x00B7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00B8 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00B9 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11305*)
+  4: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=11306*)
     → "Greetings, faithful one. Have you come to hear the vicasque's sermons? Indeed they are the surest way to Paradise."
   5: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00CC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x00DB [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   8: 0x00E8 [0x1C] WAIT(30* ticks)
   9: 0x00EB [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
+ 10: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
     → "May Paradise open its gates to you."
  11: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x00FE [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]
@@ -591,10 +591,10 @@
   0: 0x0185 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x018A [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x018B [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=13421*)
+  3: 0x018C [0x1D] PRINT_EVENT_MESSAGE(message_id=13422*)
     → "I spoke with the researchers in Beaucedine on the matter of Sir Louverance."
   4: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=13422*)
+  5: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=13423*)
     → "From what I can gather, your friend has most likely been transported to the Rhinostery in the Federation of Windurst."
   6: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0194 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -625,10 +625,10 @@
   0: 0x0198 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x019D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=13372*)
+  3: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=13373*)
     → "I was not aware that Sir Louverance was acting as an envoy for the cathedral."
   4: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13373*)
+  5: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13374*)
     → "However, if he is traveling by airship, perhaps you should await his return to San d'Oria at the port."
   6: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01A7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

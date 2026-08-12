@@ -28,12 +28,12 @@
 |       4 | 0x00EA      |         234 |
 |       5 | 0x0078      |         120 |
 |       6 | 0x00B4      |         180 |
-|       7 | 0x1CD4      |        7380 |
+|       7 | 0x1CD5      |        7381 |
 |       8 | 0x0001      |           1 |
 
 ## String References
 
-- **7380**: Leave the room? [Yes./Not yet.]
+- **7381**: Leave the room? [Yes./Not yet.]
 
 ## Events
 
@@ -140,7 +140,7 @@
 
 ```
   0: 0x0087 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0089 [0x24] CREATE_DIALOG(message_id=7380*, default_option=1*, option_flags=0*)
+  1: 0x0089 [0x24] CREATE_DIALOG(message_id=7381*, default_option=1*, option_flags=0*)
     → "Leave the room? [Yes./Not yet.]"
   2: 0x0090 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0091 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011C

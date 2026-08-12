@@ -22,9 +22,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x2002      |        8194 |
-|       3 | 0x2003      |        8195 |
-|       4 | 0x2004      |        8196 |
+|       2 | 0x2003      |        8195 |
+|       3 | 0x2004      |        8196 |
+|       4 | 0x2005      |        8197 |
 
 ## Events
 
@@ -76,13 +76,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x2B] EventEntity [8194*]:
+  3: 0x0018 [0x2B] EventEntity [8195*]:
     → "Whoa! No outsiders are allowed to enter! Warlock Warlord Robel-Akbel would have my head!"
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8195*]:
+  5: 0x0020 [0x2B] EventEntity [8196*]:
     → "Ever since he was initiated as Warlock Warlord, our military applications of magic have seen a marked improvementaru."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0028 [0x2B] EventEntity [8196*]:
+  7: 0x0028 [0x2B] EventEntity [8197*]:
     → "There are some who speak ill of him, but he is an irrefutarubly gifted leader."
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

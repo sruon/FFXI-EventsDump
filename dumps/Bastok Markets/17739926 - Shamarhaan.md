@@ -33,8 +33,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x254D      |        9549 |
-|       1 | 0x254E      |        9550 |
+|       0 | 0x254E      |        9550 |
+|       1 | 0x254F      |        9551 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0013      |          19 |
@@ -45,29 +45,29 @@
 |       9 | 0x000A      |          10 |
 |      10 | 0x010B      |         267 |
 |      11 | 0x012C      |         300 |
-|      12 | 0x254F      |        9551 |
+|      12 | 0x2550      |        9552 |
 |      13 | 0x005A      |          90 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x001D      |          29 |
-|      16 | 0x2550      |        9552 |
-|      17 | 0x2551      |        9553 |
-|      18 | 0x2552      |        9554 |
-|      19 | 0x2553      |        9555 |
-|      20 | 0x2554      |        9556 |
-|      21 | 0x2555      |        9557 |
-|      22 | 0x2556      |        9558 |
-|      23 | 0x2557      |        9559 |
-|      24 | 0x2558      |        9560 |
-|      25 | 0x2559      |        9561 |
-|      26 | 0x255A      |        9562 |
-|      27 | 0x255B      |        9563 |
-|      28 | 0x255C      |        9564 |
-|      29 | 0x255D      |        9565 |
-|      30 | 0x255E      |        9566 |
+|      16 | 0x2551      |        9553 |
+|      17 | 0x2552      |        9554 |
+|      18 | 0x2553      |        9555 |
+|      19 | 0x2554      |        9556 |
+|      20 | 0x2555      |        9557 |
+|      21 | 0x2556      |        9558 |
+|      22 | 0x2557      |        9559 |
+|      23 | 0x2558      |        9560 |
+|      24 | 0x2559      |        9561 |
+|      25 | 0x255A      |        9562 |
+|      26 | 0x255B      |        9563 |
+|      27 | 0x255C      |        9564 |
+|      28 | 0x255D      |        9565 |
+|      29 | 0x255E      |        9566 |
+|      30 | 0x255F      |        9567 |
 |      31 | 0x007F      |         127 |
-|      32 | 0x255F      |        9567 |
-|      33 | 0x2560      |        9568 |
-|      34 | 0x2561      |        9569 |
+|      32 | 0x2560      |        9568 |
+|      33 | 0x2561      |        9569 |
+|      34 | 0x2562      |        9570 |
 |      35 | 0xFFFB96A8  |  4294678184 |
 |      36 | 0xFFFEBE8A  |  4294885002 |
 |      37 | 0xFFFFD10B  |  4294955275 |
@@ -77,51 +77,51 @@
 |      41 | 0xFFFEB419  |  4294882329 |
 |      42 | 0x034B      |         843 |
 |      43 | 0x034C      |         844 |
-|      44 | 0x2570      |        9584 |
-|      45 | 0x2571      |        9585 |
-|      46 | 0x2578      |        9592 |
-|      47 | 0x25E9      |        9705 |
-|      48 | 0x25EA      |        9706 |
-|      49 | 0x25EB      |        9707 |
+|      44 | 0x2571      |        9585 |
+|      45 | 0x2572      |        9586 |
+|      46 | 0x2579      |        9593 |
+|      47 | 0x25EA      |        9706 |
+|      48 | 0x25EB      |        9707 |
+|      49 | 0x25EC      |        9708 |
 |      50 | 0x091D      |        2333 |
-|      51 | 0x25F3      |        9715 |
-|      52 | 0x25F4      |        9716 |
-|      53 | 0x25F5      |        9717 |
-|      54 | 0x25F6      |        9718 |
-|      55 | 0x25F7      |        9719 |
+|      51 | 0x25F4      |        9716 |
+|      52 | 0x25F5      |        9717 |
+|      53 | 0x25F6      |        9718 |
+|      54 | 0x25F7      |        9719 |
+|      55 | 0x25F8      |        9720 |
 |      56 | 0x0001      |           1 |
 |      57 | 0x0078      |         120 |
-|      58 | 0x25F8      |        9720 |
+|      58 | 0x25F9      |        9721 |
 
 ## String References
 
-- **9549**: ...
-- **9552**: Looks like he's taken a liking to you!
-- **9553**: This little guy's name is Valkeng. What do you say, Val?
-- **9555**: Ha ha, isn't he just the cutest thing?
-- **9556**: But to tell the truth, it's only because I made him that way. I'm not sure if you noticed, but I was controlling his every movement!
-- **9557**: "Puppets" like him are called automatons. They can do all sorts of things, but it all depends on the handler's skill.
-- **9558**: I make my living entertaining people this way.
-- **9559**: People who can control and customize automatons are referred to as "puppetmasters" in the Near East.
-- **9560**: You say you'd like to give it a try yourself?
-- **9561**: Ha ha, I'm afraid you've got to be a puppetmaster for that.
-- **9562**: Eh? You want to be a puppetmaster, do you? Quite the hasty one, aren't we?
-- **9563**: Well, if I had time, I'd be glad to teach you the ropes, but I can't make a living staying in the same town for months on end, now can I?
-- **9564**: Ah, I have the perfect solution! You should meet with my pupil, Iruki-Waraki. I've taught him everything I know.
-- **9565**: Not only that, but he's currently the most acclaimed puppeteer in Vana'diel! You should be able to find him entertaining the folk in Aht Urhgan Whitegate with his automaton.
-- **9566**: He has grown far better than I. You really must witness his expertise before learning how to control an automaton yourself.
-- **9567**: If you really want to become a puppetmaster, I advise speaking to Iruki-Waraki in Aht Urhgan Whitegate.
-- **9568**: Puppeteering can be challenging, but don't let that get you down!
-- **9584**: If you want to prove that you're worthy, take $3 and go to Talacca Cove on the Arrapago Islands.
-- **9585**: Ah, but before that you'll also need a $3. The Trolls used to use them during construction, so you might be able to find one on Mount Zhayolm.
-- **9705**: You should go back to Iruki-Waraki now.
-- **9706**: Cheer him up for me, will you?
-- **9715**: Find $0 and bring it to me. I will determine myself whether or not you can manage such power.
-- **9716**: It looks like you are ready.
-- **9717**: We will meet where the Trolls punish their prisoners...the Navukgo Execution Chamber. There, you will do battle with me.
-- **9718**: When you arrive, use this $0 to enter the battlefield.
-- **9719**: You must prepare yourself first. I will go on ahead.
-- **9720**: May we both grow in our trade.
+- **9550**: ...
+- **9553**: Looks like he's taken a liking to you!
+- **9554**: This little guy's name is Valkeng. What do you say, Val?
+- **9556**: Ha ha, isn't he just the cutest thing?
+- **9557**: But to tell the truth, it's only because I made him that way. I'm not sure if you noticed, but I was controlling his every movement!
+- **9558**: "Puppets" like him are called automatons. They can do all sorts of things, but it all depends on the handler's skill.
+- **9559**: I make my living entertaining people this way.
+- **9560**: People who can control and customize automatons are referred to as "puppetmasters" in the Near East.
+- **9561**: You say you'd like to give it a try yourself?
+- **9562**: Ha ha, I'm afraid you've got to be a puppetmaster for that.
+- **9563**: Eh? You want to be a puppetmaster, do you? Quite the hasty one, aren't we?
+- **9564**: Well, if I had time, I'd be glad to teach you the ropes, but I can't make a living staying in the same town for months on end, now can I?
+- **9565**: Ah, I have the perfect solution! You should meet with my pupil, Iruki-Waraki. I've taught him everything I know.
+- **9566**: Not only that, but he's currently the most acclaimed puppeteer in Vana'diel! You should be able to find him entertaining the folk in Aht Urhgan Whitegate with his automaton.
+- **9567**: He has grown far better than I. You really must witness his expertise before learning how to control an automaton yourself.
+- **9568**: If you really want to become a puppetmaster, I advise speaking to Iruki-Waraki in Aht Urhgan Whitegate.
+- **9569**: Puppeteering can be challenging, but don't let that get you down!
+- **9585**: If you want to prove that you're worthy, take $3 and go to Talacca Cove on the Arrapago Islands.
+- **9586**: Ah, but before that you'll also need a $3. The Trolls used to use them during construction, so you might be able to find one on Mount Zhayolm.
+- **9706**: You should go back to Iruki-Waraki now.
+- **9707**: Cheer him up for me, will you?
+- **9716**: Find $0 and bring it to me. I will determine myself whether or not you can manage such power.
+- **9717**: It looks like you are ready.
+- **9718**: We will meet where the Trolls punish their prisoners...the Navukgo Execution Chamber. There, you will do battle with me.
+- **9719**: When you arrive, use this $0 to enter the battlefield.
+- **9720**: You must prepare yourself first. I will go on ahead.
+- **9721**: May we both grow in our trade.
 
 ## Events
 
@@ -166,10 +166,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9549*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=9550*)
     → "..."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9550*]:
+  2: 0x0005 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9551*]:
     → "Dancing now. Please observe."
   3: 0x000C [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000D [0x21] END_EVENT
@@ -270,7 +270,7 @@
  18: 0x0097 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k000" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  19: 0x00A8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  20: 0x00B9 [0x1C] WAIT(300* ticks)
- 21: 0x00BC [0x2B] Valkeng (ID: 17739927/0x010EB097) [9551*]:
+ 21: 0x00BC [0x2B] Valkeng (ID: 17739927/0x010EB097) [9552*]:
     → "Would like to join in dance?"
  22: 0x00C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x00C4 [0x1C] WAIT(90* ticks)
@@ -281,10 +281,10 @@
  28: 0x00F3 [0x7B] Shamarhaan (ID: 17739926/0x010EB096) stops talking
  29: 0x00F8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
  30: 0x0107 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
- 31: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=9552*)
+ 31: 0x0114 [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
     → "Looks like he's taken a liking to you!"
  32: 0x0117 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 33: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9553*)
+ 33: 0x0118 [0x1D] PRINT_EVENT_MESSAGE(message_id=9554*)
     → "This little guy's name is Valkeng. What do you say, Val?"
  34: 0x011B [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x011C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -292,24 +292,24 @@
  37: 0x0138 [0x52] END_LOAD_SCHEDULER: End scheduler "k002" with entities [LocalPlayer, LocalPlayer], work=267*
  38: 0x0147 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k003" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  39: 0x0158 [0x27] REQ_SET(priority=0x0A, entity_id=Valkeng (ID: 17739927/0x010EB097), tag_num=0x03)
- 40: 0x015F [0x2B] Valkeng (ID: 17739927/0x010EB097) [9554*]:
+ 40: 0x015F [0x2B] Valkeng (ID: 17739927/0x010EB097) [9555*]:
     → "Nice to meet kind [sir/lady]."
  41: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0167 [0x1C] WAIT(60* ticks)
  43: 0x016A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 44: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9555*)
+ 44: 0x0179 [0x1D] PRINT_EVENT_MESSAGE(message_id=9556*)
     → "Ha ha, isn't he just the cutest thing?"
  45: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x017D [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk0" with entities [EventEntity, EventEntity]
  47: 0x018A [0x52] END_LOAD_SCHEDULER: End scheduler "k003" with entities [LocalPlayer, LocalPlayer], work=267*
  48: 0x0199 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k004" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  49: 0x01AA [0x1C] WAIT(60* ticks)
- 50: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9556*)
+ 50: 0x01AD [0x1D] PRINT_EVENT_MESSAGE(message_id=9557*)
     → "But to tell the truth, it's only because I made him that way. I'm not sure if you noticed, but I was controlling his every movement!"
  51: 0x01B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x01B1 [0x1C] WAIT(30* ticks)
  53: 0x01B4 [0x4A] LocalPlayer looks at Shamarhaan (ID: 17739926/0x010EB096)
- 54: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9557*)
+ 54: 0x01BD [0x1D] PRINT_EVENT_MESSAGE(message_id=9558*)
     → ""Puppets" like him are called automatons. They can do all sorts of things, but it all depends on the handler's skill."
  55: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x01C1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
@@ -318,31 +318,31 @@
  59: 0x01F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k005" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  60: 0x0201 [0x1C] WAIT(30* ticks)
  61: 0x0204 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa0" with entities [EventEntity, EventEntity], work=29*
- 62: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=9558*)
+ 62: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=9559*)
     → "I make my living entertaining people this way."
  63: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=9559*)
+ 64: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=9560*)
     → "People who can control and customize automatons are referred to as "puppetmasters" in the Near East."
  65: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x021B [0x1C] WAIT(60* ticks)
- 67: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=9560*)
+ 67: 0x021E [0x1D] PRINT_EVENT_MESSAGE(message_id=9561*)
     → "You say you'd like to give it a try yourself?"
  68: 0x0221 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x0222 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twa1" with entities [EventEntity, EventEntity], work=29*
  70: 0x0231 [0x52] END_LOAD_SCHEDULER: End scheduler "k005" with entities [LocalPlayer, LocalPlayer], work=267*
  71: 0x0240 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k009" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  72: 0x0251 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
- 73: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=9561*)
+ 73: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=9562*)
     → "Ha ha, I'm afraid you've got to be a puppetmaster for that."
  74: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x0264 [0x1C] WAIT(30* ticks)
- 76: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=9562*)
+ 76: 0x0267 [0x1D] PRINT_EVENT_MESSAGE(message_id=9563*)
     → "Eh? You want to be a puppetmaster, do you? Quite the hasty one, aren't we?"
  77: 0x026A [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x026B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=29*
  79: 0x027A [0x1C] WAIT(60* ticks)
  80: 0x027D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Shamarhaan (ID: 17739926/0x010EB096), Shamarhaan (ID: 17739926/0x010EB096)], work=29*
- 81: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=9563*)
+ 81: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=9564*)
     → "Well, if I had time, I'd be glad to teach you the ropes, but I can't make a living staying in the same town for months on end, now can I?"
  82: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x0290 [0x1C] WAIT(60* ticks)
@@ -350,10 +350,10 @@
  85: 0x02A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "k006" with entities [LocalPlayer, LocalPlayer], work=[267*, 0*]
  86: 0x02B3 [0x1C] WAIT(60* ticks)
  87: 0x02B6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Shamarhaan (ID: 17739926/0x010EB096), Shamarhaan (ID: 17739926/0x010EB096)], work=29*
- 88: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9564*)
+ 88: 0x02C5 [0x1D] PRINT_EVENT_MESSAGE(message_id=9565*)
     → "Ah, I have the perfect solution! You should meet with my pupil, Iruki-Waraki. I've taught him everything I know."
  89: 0x02C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9565*)
+ 90: 0x02C9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9566*)
     → "Not only that, but he's currently the most acclaimed puppeteer in Vana'diel! You should be able to find him entertaining the folk in Aht Urhgan Whitegate with his automaton."
  91: 0x02CC [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x02CD [0x52] END_LOAD_SCHEDULER: End scheduler "k006" with entities [LocalPlayer, LocalPlayer], work=267*
@@ -361,7 +361,7 @@
  94: 0x02ED [0x1C] WAIT(60* ticks)
  95: 0x02F0 [0x27] REQ_SET(priority=0x0A, entity_id=Valkeng (ID: 17739927/0x010EB097), tag_num=0x03)
  96: 0x02F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "twb0" with entities [EventEntity, EventEntity], work=29*
- 97: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=9566*)
+ 97: 0x0306 [0x1D] PRINT_EVENT_MESSAGE(message_id=9567*)
     → "He has grown far better than I. You really must witness his expertise before learning how to control an automaton yourself."
  98: 0x0309 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x030A [0x1C] WAIT(30* ticks)
@@ -401,7 +401,7 @@
 
 ```
   0: 0x036D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=9567*)
+  1: 0x0372 [0x1D] PRINT_EVENT_MESSAGE(message_id=9568*)
     → "If you really want to become a puppetmaster, I advise speaking to Iruki-Waraki in Aht Urhgan Whitegate."
   2: 0x0375 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0376 [0x21] END_EVENT
@@ -429,10 +429,10 @@
 
 ```
   0: 0x0378 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=9568*)
+  1: 0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=9569*)
     → "Puppeteering can be challenging, but don't let that get you down!"
   2: 0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0381 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9569*]:
+  3: 0x0381 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9570*]:
     → "Good luck!"
   4: 0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0389 [0x21] END_EVENT
@@ -536,13 +536,13 @@
   0: 0x03A9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x03AE [0x03] Work_Zone[2] = 843*
   2: 0x03B3 [0x03] Work_Zone[3] = 844*
-  3: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9584*)
+  3: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9585*)
     → "If you want to prove that you're worthy, take $3 and go to Talacca Cove on the Arrapago Islands."
   4: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9585*)
+  5: 0x03BC [0x1D] PRINT_EVENT_MESSAGE(message_id=9586*)
     → "Ah, but before that you'll also need a $3. The Trolls used to use them during construction, so you might be able to find one on Mount Zhayolm."
   6: 0x03BF [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x03C0 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9592*]:
+  7: 0x03C0 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9593*]:
     → "Good luck!"
   8: 0x03C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x03C8 [0x21] END_EVENT
@@ -591,13 +591,13 @@
 #### Opcodes
 
 ```
-  0: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9705*)
+  0: 0x03CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9706*)
     → "You should go back to Iruki-Waraki now."
   1: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9706*)
+  2: 0x03CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9707*)
     → "Cheer him up for me, will you?"
   3: 0x03D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x03D3 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9707*]:
+  4: 0x03D3 [0x2B] Valkeng (ID: 17739927/0x010EB097) [9708*]:
     → "Cheer up Iruki!"
   5: 0x03DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x03DB [0x21] END_EVENT
@@ -648,7 +648,7 @@
 ```
   0: 0x03DE [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x03E3 [0x03] Work_Zone[2] = 2333*
-  2: 0x03E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9715*)
+  2: 0x03E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
     → "Find $0 and bring it to me. I will determine myself whether or not you can manage such power."
   3: 0x03EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x03EC [0x21] END_EVENT
@@ -680,16 +680,16 @@
   0: 0x03EE [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x03EF [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x03F4 [0x03] Work_Zone[2] = 2333*
-  3: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9716*)
+  3: 0x03F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
     → "It looks like you are ready."
   4: 0x03FC [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9717*)
+  5: 0x03FD [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
     → "We will meet where the Trolls punish their prisoners...the Navukgo Execution Chamber. There, you will do battle with me."
   6: 0x0400 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=9718*)
+  7: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=9719*)
     → "When you arrive, use this $0 to enter the battlefield."
   8: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=9719*)
+  9: 0x0405 [0x1D] PRINT_EVENT_MESSAGE(message_id=9720*)
     → "You must prepare yourself first. I will go on ahead."
  10: 0x0408 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0409 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]
@@ -719,7 +719,7 @@
 
 ```
   0: 0x0420 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=9720*)
+  1: 0x0425 [0x1D] PRINT_EVENT_MESSAGE(message_id=9721*)
     → "May we both grow in our trade."
   2: 0x0428 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0429 [0x21] END_EVENT

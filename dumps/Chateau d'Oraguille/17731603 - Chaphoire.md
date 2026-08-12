@@ -41,7 +41,7 @@
 |       2 | 0x0000      |           0 |
 |       3 | 0x0837      |        2103 |
 |       4 | 0x0014      |          20 |
-|       5 | 0x1C3C      |        7228 |
+|       5 | 0x1C3D      |        7229 |
 |       6 | 0x001E      |          30 |
 |       7 | 0xFFFF6559  |  4294927705 |
 |       8 | 0x147ED     |       83949 |
@@ -56,7 +56,7 @@
 
 ## String References
 
-- **7228**: The door beyond leads to the Royal Knights' quarters. Down the corridor to the right is the central garden.
+- **7229**: The door beyond leads to the Royal Knights' quarters. Down the corridor to the right is the central garden.
 
 ## Events
 
@@ -152,7 +152,7 @@
   1: 0x0011 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0012 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0013 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7228*)
+  4: 0x0022 [0x1D] PRINT_EVENT_MESSAGE(message_id=7229*)
     → "The door beyond leads to the Royal Knights' quarters. Down the corridor to the right is the central garden."
   5: 0x0025 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0026 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

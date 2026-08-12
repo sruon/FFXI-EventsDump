@@ -24,49 +24,49 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
-|       1 | 0x1F8D      |        8077 |
+|       1 | 0x1F8E      |        8078 |
 |       2 | 0x09FF      |        2559 |
 |       3 | 0x16DD      |        5853 |
-|       4 | 0x1F8E      |        8078 |
+|       4 | 0x1F8F      |        8079 |
 |       5 | 0x0009      |           9 |
-|       6 | 0x1F8F      |        8079 |
+|       6 | 0x1F90      |        8080 |
 |       7 | 0x000A      |          10 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x0062      |          98 |
-|      10 | 0x1F90      |        8080 |
-|      11 | 0x1F91      |        8081 |
+|       9 | 0x0063      |          99 |
+|      10 | 0x1F91      |        8081 |
+|      11 | 0x1F92      |        8082 |
 |      12 | 0x0002      |           2 |
-|      13 | 0x1F9E      |        8094 |
-|      14 | 0x1F9F      |        8095 |
-|      15 | 0x1FA0      |        8096 |
+|      13 | 0x1F9F      |        8095 |
+|      14 | 0x1FA0      |        8096 |
+|      15 | 0x1FA1      |        8097 |
 |      16 | 0x0064      |         100 |
 |      17 | 0x03E8      |        1000 |
 |      18 | 0x2710      |       10000 |
-|      19 | 0x1FA2      |        8098 |
-|      20 | 0x1FA3      |        8099 |
+|      19 | 0x1FA3      |        8099 |
+|      20 | 0x1FA4      |        8100 |
 |      21 | 0x07D0      |        2000 |
-|      22 | 0x1FA4      |        8100 |
-|      23 | 0x1FA5      |        8101 |
-|      24 | 0x1FA1      |        8097 |
+|      22 | 0x1FA5      |        8101 |
+|      23 | 0x1FA6      |        8102 |
+|      24 | 0x1FA2      |        8098 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x1869F     |       99999 |
-|      27 | 0x1FA7      |        8103 |
-|      28 | 0x1FC9      |        8137 |
+|      27 | 0x1FA8      |        8104 |
+|      28 | 0x1FCA      |        8138 |
 |      29 | 0x0003      |           3 |
 |      30 | 0x0008      |           8 |
 |      31 | 0x001F      |          31 |
-|      32 | 0x1FA6      |        8102 |
-|      33 | 0x1FC7      |        8135 |
+|      32 | 0x1FA7      |        8103 |
+|      33 | 0x1FC8      |        8136 |
 |      34 | 0x0004      |           4 |
-|      35 | 0x1FC8      |        8136 |
-|      36 | 0x1F92      |        8082 |
-|      37 | 0x1F93      |        8083 |
-|      38 | 0x1F94      |        8084 |
-|      39 | 0x1F95      |        8085 |
-|      40 | 0x1F96      |        8086 |
-|      41 | 0x1F97      |        8087 |
-|      42 | 0x1F98      |        8088 |
-|      43 | 0x1F99      |        8089 |
+|      35 | 0x1FC9      |        8137 |
+|      36 | 0x1F93      |        8083 |
+|      37 | 0x1F94      |        8084 |
+|      38 | 0x1F95      |        8085 |
+|      39 | 0x1F96      |        8086 |
+|      40 | 0x1F97      |        8087 |
+|      41 | 0x1F98      |        8088 |
+|      42 | 0x1F99      |        8089 |
+|      43 | 0x1F9A      |        8090 |
 |      44 | 0x0006      |           6 |
 |      45 | 0x0007      |           7 |
 |      46 | 0x000B      |          11 |
@@ -79,107 +79,107 @@
 |      53 | 0x0012      |          18 |
 |      54 | 0x0013      |          19 |
 |      55 | 0x0014      |          20 |
-|      56 | 0x1F9B      |        8091 |
-|      57 | 0x1F9C      |        8092 |
+|      56 | 0x1F9C      |        8092 |
+|      57 | 0x1F9D      |        8093 |
 |      58 | 0x0017      |          23 |
-|      59 | 0x1F9D      |        8093 |
+|      59 | 0x1F9E      |        8094 |
 |      60 | 0x0016      |          22 |
-|      61 | 0x1FA8      |        8104 |
-|      62 | 0x1FA9      |        8105 |
-|      63 | 0x1FAC      |        8108 |
-|      64 | 0x1FAE      |        8110 |
-|      65 | 0x1FAA      |        8106 |
-|      66 | 0x1FAF      |        8111 |
-|      67 | 0x1FB0      |        8112 |
-|      68 | 0x1FB1      |        8113 |
-|      69 | 0x1FB2      |        8114 |
-|      70 | 0x1FB3      |        8115 |
-|      71 | 0x1FB4      |        8116 |
-|      72 | 0x1FB5      |        8117 |
-|      73 | 0x1FB6      |        8118 |
-|      74 | 0x1FB7      |        8119 |
-|      75 | 0x1FB8      |        8120 |
-|      76 | 0x1FB9      |        8121 |
-|      77 | 0x1FBA      |        8122 |
+|      61 | 0x1FA9      |        8105 |
+|      62 | 0x1FAA      |        8106 |
+|      63 | 0x1FAD      |        8109 |
+|      64 | 0x1FAF      |        8111 |
+|      65 | 0x1FAB      |        8107 |
+|      66 | 0x1FB0      |        8112 |
+|      67 | 0x1FB1      |        8113 |
+|      68 | 0x1FB2      |        8114 |
+|      69 | 0x1FB3      |        8115 |
+|      70 | 0x1FB4      |        8116 |
+|      71 | 0x1FB5      |        8117 |
+|      72 | 0x1FB6      |        8118 |
+|      73 | 0x1FB7      |        8119 |
+|      74 | 0x1FB8      |        8120 |
+|      75 | 0x1FB9      |        8121 |
+|      76 | 0x1FBA      |        8122 |
+|      77 | 0x1FBB      |        8123 |
 |      78 | 0xFFFFFFFF  |  4294967295 |
 |      79 | 0xFFFFFFFE  |  4294967294 |
-|      80 | 0x1FBB      |        8123 |
-|      81 | 0x1FBC      |        8124 |
+|      80 | 0x1FBC      |        8124 |
+|      81 | 0x1FBD      |        8125 |
 |      82 | 0x4824      |       18468 |
-|      83 | 0x1FC4      |        8132 |
-|      84 | 0x1FC3      |        8131 |
-|      85 | 0x1FC0      |        8128 |
-|      86 | 0x1FC1      |        8129 |
-|      87 | 0x1FBD      |        8125 |
-|      88 | 0x1FBE      |        8126 |
-|      89 | 0x1FC2      |        8130 |
+|      83 | 0x1FC5      |        8133 |
+|      84 | 0x1FC4      |        8132 |
+|      85 | 0x1FC1      |        8129 |
+|      86 | 0x1FC2      |        8130 |
+|      87 | 0x1FBE      |        8126 |
+|      88 | 0x1FBF      |        8127 |
+|      89 | 0x1FC3      |        8131 |
 |      90 | 0x0015      |          21 |
-|      91 | 0x1FD0      |        8144 |
+|      91 | 0x1FD1      |        8145 |
 |      92 | 0x43AE      |       17326 |
-|      93 | 0x1FC5      |        8133 |
-|      94 | 0x1FC6      |        8134 |
-|      95 | 0x1F9A      |        8090 |
+|      93 | 0x1FC6      |        8134 |
+|      94 | 0x1FC7      |        8135 |
+|      95 | 0x1F9B      |        8091 |
 
 ## String References
 
-- **8077**: Kupopopo... You do realize what we're selling here, don't you?
-- **8078**: Whatever could they be selling? [%./$1.]
-- **8079**: If you looked up the entry for "wrong answer" in an encyclopedia, that's exactly what would appear, kupo!
-- **8080**: You can purchase your $2 tickets here, kupo.
-- **8081**: What would you like to do? [Purchase ticket./Learn about prizes./Learn about the [Mog Bonanza/Nomad Mog Bonanza]./Nothing.]
-- **8082**: The Mog Bonanza is a number guessing game, kupo.
-- **8083**: The player selects a number between 0 and $3. This number is then recorded on $0, which can be purchased for $1 gil, kupo.
-- **8084**: The winning numbers will be announced at a later date, so make sure you don't misplace your $0.
-- **8085**: You can record the same number on multiple $0. This will mean bigger earnings should you have a winning number, kupo!
-- **8086**: Trade me $0 that has a winning number, and I'll give you a prize in exchange.
-- **8087**: But remember to trade winning numbers before the deadline, otherwise they'll be as good as trash.
-- **8088**: One more thing. You can only have up to $1 $0, so select your numbers carefully, kupo!
-- **8089**: View which rank of prizes? [Rank 1./Rank 2./Rank 3./Rank 4./Rank 5./Nothing.]
-- **8090**: $26Rank $21 prize list: [??? gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Back.]
-- **8092**: The cash prize for rank $21 is $0 gil, kupo!
-- **8093**: $22 is a rank $21 prize, kupo!
-- **8094**: Great! Please select a number between 0 and $3, kupo. You can also leave this to me if you like.
-- **8095**: What will you do? [Leave it up to you./Select my own number./Nothing.]
-- **8096**: All right then... How about this number, kupo?
-- **8097**: What number would you like?
-- **8098**: $0.
-- **8099**: Confirm number $0? [Yes please./Changed my mind./Cancel purchase.]
-- **8100**: Affirmative! That will be $1 gil, kupo. Is that okay?
-- **8101**: What would you like to do? [Purchase number $0 for $1 gil./Cancel purchase.]
-- **8102**: Thank you, and good luck, kupo!
-- **8103**: I'm afraid that number is not available. Please pick a different number, kupo.
-- **8104**: You can check winning numbers and claim prizes for the $2 here, kupo.
-- **8105**: What would you like to do? [See winning numbers./Learn how to claim a prize./Nothing.]
-- **8106**: The winning numbers for each rank are: [Rank 1 "$5$6$7$8$9"/Rank 2 (last $1 digits) "$10$11$12$13"/Rank 3 (last $2 digits) "$14$15$16"/Rank 4 (last $3 digits) "$17$18"/Rank 5 (last $4 digit) "$19"/Back.]
-- **8108**: If you have $0 for the $2, trade them to me one at a time.
-- **8110**: I'll give you a prize for each $0 with a winning number, kupo.
-- **8111**: Let me check the number on your $0...
-- **8112**: ...
-- **8113**: <Gasp>! It...it...it's a miracle, kupo!!!
-- **8114**: You won a Rank 1 Prize!!! I-I'm so excited, I-I...k-k-k-kupoooooo!!!
-- **8115**: Oh my sparkling stars!!! Th-this is...!!!
-- **8116**: You won a Rank 2 Prize!!! That's incredible, kupo!!!
-- **8117**: Wowsers! Wonderful!
-- **8118**: You won a Rank 3 Prize! Congratulations, kupo!
-- **8119**: Hmmm...!
-- **8120**: You won a Rank 4 Prize! Congratulations, kupo!
-- **8121**: Hmmm...
-- **8122**: You won a Rank 5 Prize! Well done, kupo.
-- **8123**: Hm...
-- **8124**: I'm sorry, but you got the least-coveted Rank [6/4] Prize, kupo.
-- **8125**: Please choose a prize from the following list, kupo.
-- **8126**: What will it be? [$0 gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Choose later.]
-- **8128**: You got it! Just a moment, kupo.
-- **8129**: Understood. Please come back when you've made up your mind, kupo.
-- **8130**: You chose $0 gil. [Confirm./Changed my mind./Choose later.]
-- **8131**: You chose $22. [Confirm./Changed my mind./Choose later.]
-- **8132**: Your consolation prize is $0, kupo!
-- **8133**: I'll dispose of the $0 for you, kupo.
-- **8134**: Here you go... Can't imagine why you'd want it, though, kupo.
-- **8135**: Sorry, but you can have only up to $1 $0, kupo.
-- **8136**: Sorry, but your main job level has to be $1 or more to buy $0, kupo.
-- **8137**: Sorry, but I cannot serve you at the moment. Please try again later, kupo.
-- **8144**: plz select [mes/query/end]
+- **8078**: Kupopopo... You do realize what we're selling here, don't you?
+- **8079**: Whatever could they be selling? [%./$1.]
+- **8080**: If you looked up the entry for "wrong answer" in an encyclopedia, that's exactly what would appear, kupo!
+- **8081**: You can purchase your $2 tickets here, kupo.
+- **8082**: What would you like to do? [Purchase ticket./Learn about prizes./Learn about the [Mog Bonanza/Nomad Mog Bonanza]./Nothing.]
+- **8083**: The Mog Bonanza is a number guessing game, kupo.
+- **8084**: The player selects a number between 0 and $3. This number is then recorded on $0, which can be purchased for $1 gil, kupo.
+- **8085**: The winning numbers will be announced at a later date, so make sure you don't misplace your $0.
+- **8086**: You can record the same number on multiple $0. This will mean bigger earnings should you have a winning number, kupo!
+- **8087**: Trade me $0 that has a winning number, and I'll give you a prize in exchange.
+- **8088**: But remember to trade winning numbers before the deadline, otherwise they'll be as good as trash.
+- **8089**: One more thing. You can only have up to $1 $0, so select your numbers carefully, kupo!
+- **8090**: View which rank of prizes? [Rank 1./Rank 2./Rank 3./Rank 4./Rank 5./Nothing.]
+- **8091**: $26Rank $21 prize list: [??? gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Back.]
+- **8093**: The cash prize for rank $21 is $0 gil, kupo!
+- **8094**: $22 is a rank $21 prize, kupo!
+- **8095**: Great! Please select a number between 0 and $3, kupo. You can also leave this to me if you like.
+- **8096**: What will you do? [Leave it up to you./Select my own number./Nothing.]
+- **8097**: All right then... How about this number, kupo?
+- **8098**: What number would you like?
+- **8099**: $0.
+- **8100**: Confirm number $0? [Yes please./Changed my mind./Cancel purchase.]
+- **8101**: Affirmative! That will be $1 gil, kupo. Is that okay?
+- **8102**: What would you like to do? [Purchase number $0 for $1 gil./Cancel purchase.]
+- **8103**: Thank you, and good luck, kupo!
+- **8104**: I'm afraid that number is not available. Please pick a different number, kupo.
+- **8105**: You can check winning numbers and claim prizes for the $2 here, kupo.
+- **8106**: What would you like to do? [See winning numbers./Learn how to claim a prize./Nothing.]
+- **8107**: The winning numbers for each rank are: [Rank 1 "$5$6$7$8$9"/Rank 2 (last $1 digits) "$10$11$12$13"/Rank 3 (last $2 digits) "$14$15$16"/Rank 4 (last $3 digits) "$17$18"/Rank 5 (last $4 digit) "$19"/Back.]
+- **8109**: If you have $0 for the $2, trade them to me one at a time.
+- **8111**: I'll give you a prize for each $0 with a winning number, kupo.
+- **8112**: Let me check the number on your $0...
+- **8113**: ...
+- **8114**: <Gasp>! It...it...it's a miracle, kupo!!!
+- **8115**: You won a Rank 1 Prize!!! I-I'm so excited, I-I...k-k-k-kupoooooo!!!
+- **8116**: Oh my sparkling stars!!! Th-this is...!!!
+- **8117**: You won a Rank 2 Prize!!! That's incredible, kupo!!!
+- **8118**: Wowsers! Wonderful!
+- **8119**: You won a Rank 3 Prize! Congratulations, kupo!
+- **8120**: Hmmm...!
+- **8121**: You won a Rank 4 Prize! Congratulations, kupo!
+- **8122**: Hmmm...
+- **8123**: You won a Rank 5 Prize! Well done, kupo.
+- **8124**: Hm...
+- **8125**: I'm sorry, but you got the least-coveted Rank [6/4] Prize, kupo.
+- **8126**: Please choose a prize from the following list, kupo.
+- **8127**: What will it be? [$0 gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Choose later.]
+- **8129**: You got it! Just a moment, kupo.
+- **8130**: Understood. Please come back when you've made up your mind, kupo.
+- **8131**: You chose $0 gil. [Confirm./Changed my mind./Choose later.]
+- **8132**: You chose $22. [Confirm./Changed my mind./Choose later.]
+- **8133**: Your consolation prize is $0, kupo!
+- **8134**: I'll dispose of the $0 for you, kupo.
+- **8135**: Here you go... Can't imagine why you'd want it, though, kupo.
+- **8136**: Sorry, but you can have only up to $1 $0, kupo.
+- **8137**: Sorry, but your main job level has to be $1 or more to buy $0, kupo.
+- **8138**: Sorry, but I cannot serve you at the moment. Please try again later, kupo.
+- **8145**: plz select [mes/query/end]
 
 ## Events
 
@@ -309,18 +309,18 @@
   1: 0x0002 [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[2]
   2: 0x0007 [0x4A] EventEntity looks at LocalPlayer
   3: 0x0010 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x004C
-  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8077*)
+  4: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=8078*)
     → "Kupopopo... You do realize what we're selling here, don't you?"
   5: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001C [0x03] Work_Zone[2] = 2559*
   7: 0x0021 [0x03] Work_Zone[3] = 5853*
-  8: 0x0026 [0x24] CREATE_DIALOG(message_id=8078*, default_option=0*, option_flags=0*)
+  8: 0x0026 [0x24] CREATE_DIALOG(message_id=8079*, default_option=0*, option_flags=0*)
     → "Whatever could they be selling? [%./$1.]"
   9: 0x002D [0x25] WAIT_DIALOG_SELECT()
  10: 0x002E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x003E
  11: 0x0036 [0x03] Work_Zone[1] = 9*
  12: 0x003B [0x01] GOTO 0x0049
- 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8079*)
+ 13: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
     → "If you looked up the entry for "wrong answer" in an encyclopedia, that's exactly what would appear, kupo!"
  14: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0042 [0x03] Work_Zone[1] = 10*
@@ -333,15 +333,15 @@ SUBROUTINE_0049:
 SUBROUTINE_004C:
  19: 0x004C [0x03] Work_Zone_1700[22] = 0*
  20: 0x0051 [0x03] ExtData[1]->WorkLocal[0] = 1*
- 21: 0x0056 [0x03] Work_Zone[4] = 98*
- 22: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+ 21: 0x0056 [0x03] Work_Zone[4] = 99*
+ 22: 0x005B [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "You can purchase your $2 tickets here, kupo."
  23: 0x005E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_005F:
  24: 0x005F [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x00A9
- 25: 0x0067 [0x03] Work_Zone[4] = 98*
- 26: 0x006C [0x24] CREATE_DIALOG(message_id=8081*, default_option=0*, option_flags=0*)
+ 25: 0x0067 [0x03] Work_Zone[4] = 99*
+ 26: 0x006C [0x24] CREATE_DIALOG(message_id=8082*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase ticket./Learn about prizes./Learn about the [Mog Bonanza/Nomad Mog Bonanza]./Nothing.]"
  27: 0x0073 [0x25] WAIT_DIALOG_SELECT()
  28: 0x0074 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0082
@@ -366,16 +366,16 @@ SUBROUTINE_00AB:
 
 SUBROUTINE_00AE:
  43: 0x00AE [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x0201
- 44: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
+ 44: 0x00B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
     → "Great! Please select a number between 0 and $3, kupo. You can also leave this to me if you like."
  45: 0x00B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 46: 0x00BA [0x24] CREATE_DIALOG(message_id=8095*, default_option=0*, option_flags=0*)
+ 46: 0x00BA [0x24] CREATE_DIALOG(message_id=8096*, default_option=0*, option_flags=0*)
     → "What will you do? [Leave it up to you./Select my own number./Nothing.]"
  47: 0x00C1 [0x25] WAIT_DIALOG_SELECT()
  48: 0x00C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0173
 
 SUBROUTINE_00CA:
- 49: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
+ 49: 0x00CA [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
     → "All right then... How about this number, kupo?"
  50: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00CE [0x13] Work_Zone[2] = rand() % 9*
@@ -395,18 +395,18 @@ SUBROUTINE_00CA:
  65: 0x010C [0x13] Work_Zone[3] = rand() % 9*
  66: 0x0111 [0x14] Work_Zone[3] *= 10000*
  67: 0x0116 [0x07] Work_Zone[2] += Work_Zone[3]
- 68: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+ 68: 0x011B [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
     → "$0."
  69: 0x011E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x011F [0x24] CREATE_DIALOG(message_id=8099*, default_option=1*, option_flags=0*)
+ 70: 0x011F [0x24] CREATE_DIALOG(message_id=8100*, default_option=1*, option_flags=0*)
     → "Confirm number $0? [Yes please./Changed my mind./Cancel purchase.]"
  71: 0x0126 [0x25] WAIT_DIALOG_SELECT()
  72: 0x0127 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x015F
  73: 0x012F [0x03] Work_Zone[3] = 2000*
- 74: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+ 74: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "Affirmative! That will be $1 gil, kupo. Is that okay?"
  75: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0138 [0x24] CREATE_DIALOG(message_id=8101*, default_option=0*, option_flags=0*)
+ 76: 0x0138 [0x24] CREATE_DIALOG(message_id=8102*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase number $0 for $1 gil./Cancel purchase.]"
  77: 0x013F [0x25] WAIT_DIALOG_SELECT()
  78: 0x0140 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x014E
@@ -426,22 +426,22 @@ SUBROUTINE_0170:
  88: 0x0173 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x01FB
 
 SUBROUTINE_017B:
- 89: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
+ 89: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
     → "What number would you like?"
  90: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x017F [0x71] USER_INPUT_HANDLER: Open numerical input with params (work=[1*, 5*])
  92: 0x0185 [0x71] USER_INPUT_HANDLER: Process numerical input B (work=Work_Zone[2])
  93: 0x0189 [0x02] IF !(Work_Zone[2] < 0*) GOTO 0x01F4
  94: 0x0191 [0x02] IF !(Work_Zone[2] > 99999*) GOTO 0x01ED
- 95: 0x0199 [0x24] CREATE_DIALOG(message_id=8099*, default_option=1*, option_flags=0*)
+ 95: 0x0199 [0x24] CREATE_DIALOG(message_id=8100*, default_option=1*, option_flags=0*)
     → "Confirm number $0? [Yes please./Changed my mind./Cancel purchase.]"
  96: 0x01A0 [0x25] WAIT_DIALOG_SELECT()
  97: 0x01A1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01D9
  98: 0x01A9 [0x03] Work_Zone[3] = 2000*
- 99: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+ 99: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "Affirmative! That will be $1 gil, kupo. Is that okay?"
 100: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-101: 0x01B2 [0x24] CREATE_DIALOG(message_id=8101*, default_option=0*, option_flags=0*)
+101: 0x01B2 [0x24] CREATE_DIALOG(message_id=8102*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase number $0 for $1 gil./Cancel purchase.]"
 102: 0x01B9 [0x25] WAIT_DIALOG_SELECT()
 103: 0x01BA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01C8
@@ -458,13 +458,13 @@ SUBROUTINE_01D6:
 
 SUBROUTINE_01EA:
 112: 0x01EA [0x01] GOTO 0x01F1
-113: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+113: 0x01ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "I'm afraid that number is not available. Please pick a different number, kupo."
 114: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_01F1:
 115: 0x01F1 [0x01] GOTO 0x01F8
-116: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+116: 0x01F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "I'm afraid that number is not available. Please pick a different number, kupo."
 117: 0x01F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -479,7 +479,7 @@ SUBROUTINE_01FE:
 SUBROUTINE_0202:
 122: 0x0202 [0x02] IF !(Work_Zone[2] >= 0*) GOTO 0x0228
 123: 0x020A [0x02] IF !(Work_Zone[2] <= 99999*) GOTO 0x0228
-124: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
+124: 0x0212 [0x1D] PRINT_EVENT_MESSAGE(message_id=8138*)
     → "Sorry, but I cannot serve you at the moment. Please try again later, kupo."
 125: 0x0215 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0216 [0x03] Work_Zone[1] = 3*
@@ -491,23 +491,23 @@ SUBROUTINE_0202:
 132: 0x0236 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 133: 0x0238 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 134: 0x023A [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0249
-135: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+135: 0x0242 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Thank you, and good luck, kupo!"
 136: 0x0245 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x0246 [0x01] GOTO 0x0275
 138: 0x0249 [0x02] IF !(Work_Zone[9] == 3*) GOTO 0x025D
 139: 0x0251 [0x03] Work_Zone[2] = 2559*
-140: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+140: 0x0256 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Sorry, but you can have only up to $1 $0, kupo."
 141: 0x0259 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x025A [0x01] GOTO 0x0275
 143: 0x025D [0x02] IF !(Work_Zone[9] == 4*) GOTO 0x0271
 144: 0x0265 [0x03] Work_Zone[2] = 2559*
-145: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
+145: 0x026A [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "Sorry, but your main job level has to be $1 or more to buy $0, kupo."
 146: 0x026D [0x23] WAIT_FOR_DIALOG_INTERACTION
 147: 0x026E [0x01] GOTO 0x0275
-148: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
+148: 0x0271 [0x1D] PRINT_EVENT_MESSAGE(message_id=8138*)
     → "Sorry, but I cannot serve you at the moment. Please try again later, kupo."
 149: 0x0274 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -518,30 +518,30 @@ SUBROUTINE_0275:
 153: 0x0286 [0x1B] RETURN
 
 SUBROUTINE_0287:
-154: 0x0287 [0x03] Work_Zone[4] = 98*
-155: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+154: 0x0287 [0x03] Work_Zone[4] = 99*
+155: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "The Mog Bonanza is a number guessing game, kupo."
 156: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0290 [0x03] Work_Zone[2] = 2559*
 158: 0x0295 [0x03] Work_Zone[3] = 2000*
-159: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+159: 0x029A [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "The player selects a number between 0 and $3. This number is then recorded on $0, which can be purchased for $1 gil, kupo."
 160: 0x029D [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x029E [0x03] Work_Zone[5] = 99999*
-162: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+162: 0x02A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "The winning numbers will be announced at a later date, so make sure you don't misplace your $0."
 163: 0x02A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-164: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+164: 0x02A7 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "You can record the same number on multiple $0. This will mean bigger earnings should you have a winning number, kupo!"
 165: 0x02AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-166: 0x02AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
+166: 0x02AB [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
     → "Trade me $0 that has a winning number, and I'll give you a prize in exchange."
 167: 0x02AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-168: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+168: 0x02AF [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
     → "But remember to trade winning numbers before the deadline, otherwise they'll be as good as trash."
 169: 0x02B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x02B3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[21]
-171: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+171: 0x02B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "One more thing. You can only have up to $1 $0, so select your numbers carefully, kupo!"
 172: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x02BC [0x1B] RETURN
@@ -551,7 +551,7 @@ SUBROUTINE_02BD:
 
 SUBROUTINE_02C0:
 175: 0x02C0 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 1*) GOTO 0x02EC
-176: 0x02C8 [0x24] CREATE_DIALOG(message_id=8089*, default_option=0*, option_flags=0*)
+176: 0x02C8 [0x24] CREATE_DIALOG(message_id=8090*, default_option=0*, option_flags=0*)
     → "View which rank of prizes? [Rank 1./Rank 2./Rank 3./Rank 4./Rank 5./Nothing.]"
 177: 0x02CF [0x25] WAIT_DIALOG_SELECT()
 178: 0x02D0 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x02DE
@@ -578,7 +578,7 @@ SUBROUTINE_02F0:
 193: 0x035A [0xD4] MAP_QUERY_WINDOW: Prepare buffer configuration A (buffer=[33 80 08 17 D4 03 34 80...])
 194: 0x0378 [0xD4] MAP_QUERY_WINDOW: Test and open query window (flag=0x38, work=[0x80, 0x0E80, 0x2500])
 195: 0x0381 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0390
-196: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+196: 0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "The cash prize for rank $21 is $0 gil, kupo!"
 197: 0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x038D [0x01] GOTO 0x03B0
@@ -587,7 +587,7 @@ SUBROUTINE_02F0:
 201: 0x039B [0x01] GOTO 0x03B0
 202: 0x039E [0x9D] Work_Zone_1700[14] = 0x04E1[Work_Zone[0]] // Read WORD
 203: 0x03A6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[14])
-204: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+204: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "$22 is a rank $21 prize, kupo!"
 205: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 206: 0x03AD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
@@ -710,13 +710,13 @@ SUBROUTINE_03B4:
   5: 0x0526 [0x03] ExtData[1]->WorkLocal[19] = Work_Zone[6]
   6: 0x052B [0x4A] EventEntity looks at LocalPlayer
   7: 0x0534 [0x03] ExtData[1]->WorkLocal[0] = 1*
-  8: 0x0539 [0x03] Work_Zone[4] = 98*
-  9: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+  8: 0x0539 [0x03] Work_Zone[4] = 99*
+  9: 0x053E [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "You can check winning numbers and claim prizes for the $2 here, kupo."
  10: 0x0541 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0542 [0x02] IF !(ExtData[1]->WorkLocal[0] <= 0*) GOTO 0x0579
- 12: 0x054A [0x03] Work_Zone[4] = 98*
- 13: 0x054F [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
+ 12: 0x054A [0x03] Work_Zone[4] = 99*
+ 13: 0x054F [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
     → "What would you like to do? [See winning numbers./Learn how to claim a prize./Nothing.]"
  14: 0x0556 [0x25] WAIT_DIALOG_SELECT()
  15: 0x0557 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0565
@@ -734,11 +734,11 @@ SUBROUTINE_0576:
 
 SUBROUTINE_057B:
  25: 0x057B [0x03] Work_Zone[2] = 2559*
- 26: 0x0580 [0x03] Work_Zone[4] = 98*
- 27: 0x0585 [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
+ 26: 0x0580 [0x03] Work_Zone[4] = 99*
+ 27: 0x0585 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
     → "If you have $0 for the $2, trade them to me one at a time."
  28: 0x0588 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 29: 0x0589 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
+ 29: 0x0589 [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
     → "I'll give you a prize for each $0 with a winning number, kupo."
  30: 0x058C [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x058D [0x1B] RETURN
@@ -791,7 +791,7 @@ SUBROUTINE_0591:
  74: 0x0679 [0x3F] Work_Zone_1700[10] = Work_Zone_1700[10] % 10*
  75: 0x0680 [0x03] Work_Zone_1700[11] = ExtData[1]->WorkLocal[19]
  76: 0x0685 [0x3F] Work_Zone_1700[11] = Work_Zone_1700[11] % 10*
- 77: 0x068C [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
+ 77: 0x068C [0x24] CREATE_DIALOG(message_id=8107*, default_option=0*, option_flags=0*)
     → "The winning numbers for each rank are: [Rank 1 "$5$6$7$8$9"/Rank 2 (last $1 digits) "$10$11$12$13"/Rank 3 (last $2 digits) "$14$15$16"/Rank 4 (last $3 digits) "$17$18"/Rank 5 (last $4 digit) "$19"/Back.]"
  78: 0x0693 [0x25] WAIT_DIALOG_SELECT()
  79: 0x0694 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x06A2
@@ -870,10 +870,10 @@ SUBROUTINE_06AD:
   0: 0x06B1 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x06B2 [0x4A] EventEntity looks at LocalPlayer
   2: 0x06BB [0x03] Work_Zone[2] = 2559*
-  3: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
+  3: 0x06C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
     → "Let me check the number on your $0..."
   4: 0x06C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
+  5: 0x06C4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8113*)
     → "..."
   6: 0x06C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x06C8 [0x03] Work_Zone[1] = 8*
@@ -881,10 +881,10 @@ SUBROUTINE_06AD:
   9: 0x06CF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  10: 0x06D1 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0775
  11: 0x06D9 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x06F7
- 12: 0x06E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8113*)
+ 12: 0x06E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
     → "<Gasp>! It...it...it's a miracle, kupo!!!"
  13: 0x06E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+ 14: 0x06E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
     → "You won a Rank 1 Prize!!! I-I'm so excited, I-I...k-k-k-kupoooooo!!!"
  15: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x06E9 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
@@ -892,10 +892,10 @@ SUBROUTINE_06AD:
  18: 0x06F1 [0x1A] CALL_SUBROUTINE(address=0x07EA)
  19: 0x06F4 [0x01] GOTO 0x0772
  20: 0x06F7 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x0715
- 21: 0x06FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+ 21: 0x06FF [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "Oh my sparkling stars!!! Th-this is...!!!"
  22: 0x0702 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0703 [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+ 23: 0x0703 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "You won a Rank 2 Prize!!! That's incredible, kupo!!!"
  24: 0x0706 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0707 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
@@ -903,10 +903,10 @@ SUBROUTINE_06AD:
  27: 0x070F [0x1A] CALL_SUBROUTINE(address=0x07EA)
  28: 0x0712 [0x01] GOTO 0x0772
  29: 0x0715 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x0733
- 30: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+ 30: 0x071D [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "Wowsers! Wonderful!"
  31: 0x0720 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0721 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+ 32: 0x0721 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "You won a Rank 3 Prize! Congratulations, kupo!"
  33: 0x0724 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0725 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
@@ -914,10 +914,10 @@ SUBROUTINE_06AD:
  36: 0x072D [0x1A] CALL_SUBROUTINE(address=0x07EA)
  37: 0x0730 [0x01] GOTO 0x0772
  38: 0x0733 [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0751
- 39: 0x073B [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
+ 39: 0x073B [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
     → "Hmmm...!"
  40: 0x073E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
+ 41: 0x073F [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
     → "You won a Rank 4 Prize! Congratulations, kupo!"
  42: 0x0742 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x0743 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
@@ -925,10 +925,10 @@ SUBROUTINE_06AD:
  45: 0x074B [0x1A] CALL_SUBROUTINE(address=0x07EA)
  46: 0x074E [0x01] GOTO 0x0772
  47: 0x0751 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x076F
- 48: 0x0759 [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+ 48: 0x0759 [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "Hmmm..."
  49: 0x075C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 50: 0x075D [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+ 50: 0x075D [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
     → "You won a Rank 5 Prize! Well done, kupo."
  51: 0x0760 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x0761 [0x03] ExtData[1]->WorkLocal[1] = Work_Zone[2]
@@ -953,22 +953,22 @@ SUBROUTINE_0796:
 
 SUBROUTINE_0798:
  67: 0x0798 [0x03] Work_Zone_1700[22] = 0*
- 68: 0x079D [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+ 68: 0x079D [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Hm..."
  69: 0x07A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x07A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 70: 0x07A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "I'm sorry, but you got the least-coveted Rank [6/4] Prize, kupo."
  71: 0x07A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x07A5 [0x03] Work_Zone[2] = 18468*
- 73: 0x07AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8132*)
+ 73: 0x07AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
     → "Your consolation prize is $0, kupo!"
  74: 0x07AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x07AE [0x03] Work_Zone_1700[14] = 18468*
- 76: 0x07B3 [0x24] CREATE_DIALOG(message_id=8131*, default_option=0*, option_flags=2*)
+ 76: 0x07B3 [0x24] CREATE_DIALOG(message_id=8132*, default_option=0*, option_flags=2*)
     → "You chose $22. [Confirm./Changed my mind./Choose later.]"
  77: 0x07BA [0x25] WAIT_DIALOG_SELECT()
  78: 0x07BB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07D2
- 79: 0x07C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 79: 0x07C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "You got it! Just a moment, kupo."
  80: 0x07C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x07C7 [0x03] Work_Zone[1] = 6*
@@ -976,7 +976,7 @@ SUBROUTINE_0798:
  83: 0x07CF [0x01] GOTO 0x07E9
  84: 0x07D2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07DD
  85: 0x07DA [0x01] GOTO 0x07E9
- 86: 0x07DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+ 86: 0x07DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Understood. Please come back when you've made up your mind, kupo."
  87: 0x07E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x07E1 [0x03] Work_Zone[1] = 7*
@@ -986,7 +986,7 @@ SUBROUTINE_07E9:
  90: 0x07E9 [0x1B] RETURN
 
 SUBROUTINE_07EA:
- 91: 0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 91: 0x07EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Please choose a prize from the following list, kupo."
  92: 0x07ED [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x07EE [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -1003,11 +1003,11 @@ SUBROUTINE_07F6:
 102: 0x087E [0xD4] MAP_QUERY_WINDOW: Test and open query window (flag=0x58, work=[0x80, 0x0E80, 0x2500])
 103: 0x0887 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08DF
 104: 0x088F [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[0]
-105: 0x0894 [0x24] CREATE_DIALOG(message_id=8130*, default_option=1*, option_flags=0*)
+105: 0x0894 [0x24] CREATE_DIALOG(message_id=8131*, default_option=1*, option_flags=0*)
     → "You chose $0 gil. [Confirm./Changed my mind./Choose later.]"
 106: 0x089B [0x25] WAIT_DIALOG_SELECT()
 107: 0x089C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08C5
-108: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+108: 0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "You got it! Just a moment, kupo."
 109: 0x08A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x08A8 [0x03] Work_Zone[1] = 4*
@@ -1017,7 +1017,7 @@ SUBROUTINE_07F6:
 114: 0x08C2 [0x01] GOTO 0x08DC
 115: 0x08C5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x08D0
 116: 0x08CD [0x01] GOTO 0x08DC
-117: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+117: 0x08D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Understood. Please come back when you've made up your mind, kupo."
 118: 0x08D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x08D4 [0x0C] ExtData[1]->WorkLocal[0]--
@@ -1027,7 +1027,7 @@ SUBROUTINE_08DC:
 121: 0x08DC [0x01] GOTO 0x0958
 122: 0x08DF [0x02] IF !(Work_Zone[0] == 21*) GOTO 0x08F6
 123: 0x08E7 [0x0C] ExtData[1]->WorkLocal[0]--
-124: 0x08EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+124: 0x08EA [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Understood. Please come back when you've made up your mind, kupo."
 125: 0x08ED [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x08EE [0x03] Work_Zone[1] = 5*
@@ -1035,15 +1035,15 @@ SUBROUTINE_08DC:
 128: 0x08F6 [0x03] ExtData[1]->WorkLocal[20] = Work_Zone[0]
 129: 0x08FB [0x9D] Work_Zone_1700[14] = 0x04E1[Work_Zone[0]] // Read WORD
 130: 0x0903 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[14])
-131: 0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+131: 0x0906 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "$22 is a rank $21 prize, kupo!"
 132: 0x0909 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x090A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-134: 0x090D [0x24] CREATE_DIALOG(message_id=8131*, default_option=1*, option_flags=0*)
+134: 0x090D [0x24] CREATE_DIALOG(message_id=8132*, default_option=1*, option_flags=0*)
     → "You chose $22. [Confirm./Changed my mind./Choose later.]"
 135: 0x0914 [0x25] WAIT_DIALOG_SELECT()
 136: 0x0915 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x093E
-137: 0x091D [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+137: 0x091D [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "You got it! Just a moment, kupo."
 138: 0x0920 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x0921 [0x03] Work_Zone[1] = 4*
@@ -1053,7 +1053,7 @@ SUBROUTINE_08DC:
 143: 0x093B [0x01] GOTO 0x0958
 144: 0x093E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0949
 145: 0x0946 [0x01] GOTO 0x0958
-146: 0x0949 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+146: 0x0949 [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Understood. Please come back when you've made up your mind, kupo."
 147: 0x094C [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x094D [0x0C] ExtData[1]->WorkLocal[0]--
@@ -1123,7 +1123,7 @@ SUBROUTINE_0958:
 
 ```
   0: 0x095F [0x02] IF !(1* == 1*) GOTO 0x0990
-  1: 0x0967 [0x24] CREATE_DIALOG(message_id=8144*, default_option=0*, option_flags=0*)
+  1: 0x0967 [0x24] CREATE_DIALOG(message_id=8145*, default_option=0*, option_flags=0*)
     → "plz select [mes/query/end]"
   2: 0x096E [0x25] WAIT_DIALOG_SELECT()
   3: 0x096F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x097D
@@ -1141,135 +1141,135 @@ SUBROUTINE_098D:
  13: 0x0991 [0x00] END_REQSTACK()
 
 SUBROUTINE_0992:
- 14: 0x0992 [0x03] Work_Zone[4] = 98*
- 15: 0x0997 [0x1D] PRINT_EVENT_MESSAGE(message_id=8080*)
+ 14: 0x0992 [0x03] Work_Zone[4] = 99*
+ 15: 0x0997 [0x1D] PRINT_EVENT_MESSAGE(message_id=8081*)
     → "You can purchase your $2 tickets here, kupo."
  16: 0x099A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x099B [0x1D] PRINT_EVENT_MESSAGE(message_id=8082*)
+ 17: 0x099B [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
     → "The Mog Bonanza is a number guessing game, kupo."
  18: 0x099E [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x099F [0x03] Work_Zone[2] = 2559*
  20: 0x09A4 [0x03] Work_Zone[3] = 1000*
  21: 0x09A9 [0x03] Work_Zone[5] = 99999*
- 22: 0x09AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8083*)
+ 22: 0x09AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
     → "The player selects a number between 0 and $3. This number is then recorded on $0, which can be purchased for $1 gil, kupo."
  23: 0x09B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x09B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8084*)
+ 24: 0x09B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
     → "The winning numbers will be announced at a later date, so make sure you don't misplace your $0."
  25: 0x09B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 26: 0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8085*)
+ 26: 0x09B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
     → "You can record the same number on multiple $0. This will mean bigger earnings should you have a winning number, kupo!"
  27: 0x09B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8086*)
+ 28: 0x09BA [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
     → "Trade me $0 that has a winning number, and I'll give you a prize in exchange."
  29: 0x09BD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8087*)
+ 30: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
     → "But remember to trade winning numbers before the deadline, otherwise they'll be as good as trash."
  31: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x09C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8088*)
+ 32: 0x09C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=8089*)
     → "One more thing. You can only have up to $1 $0, so select your numbers carefully, kupo!"
  33: 0x09C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x09C6 [0x03] Work_Zone_1700[13] = 1*
  35: 0x09CB [0x03] Work_Zone[2] = 2*
  36: 0x09D0 [0x03] Work_Zone_1700[14] = 17326*
- 37: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8092*)
+ 37: 0x09D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
     → "The cash prize for rank $21 is $0 gil, kupo!"
  38: 0x09D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x09D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8093*)
+ 39: 0x09D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
     → "$22 is a rank $21 prize, kupo!"
  40: 0x09DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x09DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8094*)
+ 41: 0x09DD [0x1D] PRINT_EVENT_MESSAGE(message_id=8095*)
     → "Great! Please select a number between 0 and $3, kupo. You can also leave this to me if you like."
  42: 0x09E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x09E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8096*)
+ 43: 0x09E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
     → "All right then... How about this number, kupo?"
  44: 0x09E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 45: 0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8097*)
+ 45: 0x09E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
     → "What number would you like?"
  46: 0x09E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 47: 0x09E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8098*)
+ 47: 0x09E9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8099*)
     → "$0."
  48: 0x09EC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8100*)
+ 49: 0x09ED [0x1D] PRINT_EVENT_MESSAGE(message_id=8101*)
     → "Affirmative! That will be $1 gil, kupo. Is that okay?"
  50: 0x09F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8102*)
+ 51: 0x09F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
     → "Thank you, and good luck, kupo!"
  52: 0x09F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x09F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8103*)
+ 53: 0x09F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
     → "I'm afraid that number is not available. Please pick a different number, kupo."
  54: 0x09F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 55: 0x09F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8104*)
+ 55: 0x09F9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8105*)
     → "You can check winning numbers and claim prizes for the $2 here, kupo."
  56: 0x09FC [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x09FD [0x03] Work_Zone[2] = 2559*
- 58: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=8108*)
+ 58: 0x0A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=8109*)
     → "If you have $0 for the $2, trade them to me one at a time."
  59: 0x0A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 60: 0x0A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=8110*)
+ 60: 0x0A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
     → "I'll give you a prize for each $0 with a winning number, kupo."
  61: 0x0A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 62: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=8111*)
+ 62: 0x0A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
     → "Let me check the number on your $0..."
  63: 0x0A0D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 64: 0x0A0E [0x1D] PRINT_EVENT_MESSAGE(message_id=8112*)
+ 64: 0x0A0E [0x1D] PRINT_EVENT_MESSAGE(message_id=8113*)
     → "..."
  65: 0x0A11 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=8113*)
+ 66: 0x0A12 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
     → "<Gasp>! It...it...it's a miracle, kupo!!!"
  67: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8114*)
+ 68: 0x0A16 [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
     → "You won a Rank 1 Prize!!! I-I'm so excited, I-I...k-k-k-kupoooooo!!!"
  69: 0x0A19 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 70: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=8115*)
+ 70: 0x0A1A [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
     → "Oh my sparkling stars!!! Th-this is...!!!"
  71: 0x0A1D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 72: 0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=8116*)
+ 72: 0x0A1E [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
     → "You won a Rank 2 Prize!!! That's incredible, kupo!!!"
  73: 0x0A21 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8117*)
+ 74: 0x0A22 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
     → "Wowsers! Wonderful!"
  75: 0x0A25 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 76: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=8118*)
+ 76: 0x0A26 [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
     → "You won a Rank 3 Prize! Congratulations, kupo!"
  77: 0x0A29 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x0A2A [0x1D] PRINT_EVENT_MESSAGE(message_id=8119*)
+ 78: 0x0A2A [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
     → "Hmmm...!"
  79: 0x0A2D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x0A2E [0x1D] PRINT_EVENT_MESSAGE(message_id=8120*)
+ 80: 0x0A2E [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
     → "You won a Rank 4 Prize! Congratulations, kupo!"
  81: 0x0A31 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x0A32 [0x1D] PRINT_EVENT_MESSAGE(message_id=8121*)
+ 82: 0x0A32 [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
     → "Hmmm..."
  83: 0x0A35 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x0A36 [0x1D] PRINT_EVENT_MESSAGE(message_id=8122*)
+ 84: 0x0A36 [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
     → "You won a Rank 5 Prize! Well done, kupo."
  85: 0x0A39 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8123*)
+ 86: 0x0A3A [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
     → "Hm..."
  87: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 88: 0x0A3E [0x1D] PRINT_EVENT_MESSAGE(message_id=8124*)
+ 88: 0x0A3E [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
     → "I'm sorry, but you got the least-coveted Rank [6/4] Prize, kupo."
  89: 0x0A41 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8125*)
+ 90: 0x0A42 [0x1D] PRINT_EVENT_MESSAGE(message_id=8126*)
     → "Please choose a prize from the following list, kupo."
  91: 0x0A45 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 92: 0x0A46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+ 92: 0x0A46 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "You got it! Just a moment, kupo."
  93: 0x0A49 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 94: 0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+ 94: 0x0A4A [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Understood. Please come back when you've made up your mind, kupo."
  95: 0x0A4D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 96: 0x0A4E [0x1D] PRINT_EVENT_MESSAGE(message_id=8133*)
+ 96: 0x0A4E [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
     → "I'll dispose of the $0 for you, kupo."
  97: 0x0A51 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 98: 0x0A52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8134*)
+ 98: 0x0A52 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
     → "Here you go... Can't imagine why you'd want it, though, kupo."
  99: 0x0A55 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0A56 [0x1D] PRINT_EVENT_MESSAGE(message_id=8135*)
+100: 0x0A56 [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
     → "Sorry, but you can have only up to $1 $0, kupo."
 101: 0x0A59 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x0A5A [0x1D] PRINT_EVENT_MESSAGE(message_id=8136*)
+102: 0x0A5A [0x1D] PRINT_EVENT_MESSAGE(message_id=8137*)
     → "Sorry, but your main job level has to be $1 or more to buy $0, kupo."
 103: 0x0A5D [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0A5E [0x1B] RETURN
@@ -1296,84 +1296,84 @@ SUBROUTINE_0A5F:
 123: 0x0AB9 [0x03] Work_Zone_1700[10] = 2559*
 124: 0x0ABE [0x03] Work_Zone_1700[11] = 2559*
 125: 0x0AC3 [0x03] Work_Zone_1700[12] = 2559*
-126: 0x0AC8 [0x24] CREATE_DIALOG(message_id=8081*, default_option=0*, option_flags=0*)
+126: 0x0AC8 [0x24] CREATE_DIALOG(message_id=8082*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase ticket./Learn about prizes./Learn about the [Mog Bonanza/Nomad Mog Bonanza]./Nothing.]"
 127: 0x0ACF [0x25] WAIT_DIALOG_SELECT()
 128: 0x0AD0 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0ADB
 129: 0x0AD8 [0x01] GOTO 0x0ADB
 
 SUBROUTINE_0ADB:
-130: 0x0ADB [0x24] CREATE_DIALOG(message_id=8089*, default_option=0*, option_flags=0*)
+130: 0x0ADB [0x24] CREATE_DIALOG(message_id=8090*, default_option=0*, option_flags=0*)
     → "View which rank of prizes? [Rank 1./Rank 2./Rank 3./Rank 4./Rank 5./Nothing.]"
 131: 0x0AE2 [0x25] WAIT_DIALOG_SELECT()
 132: 0x0AE3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AEE
 133: 0x0AEB [0x01] GOTO 0x0AEE
 
 SUBROUTINE_0AEE:
-134: 0x0AEE [0x24] CREATE_DIALOG(message_id=8090*, default_option=0*, option_flags=0*)
+134: 0x0AEE [0x24] CREATE_DIALOG(message_id=8091*, default_option=0*, option_flags=0*)
     → "$26Rank $21 prize list: [??? gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Back.]"
 135: 0x0AF5 [0x25] WAIT_DIALOG_SELECT()
 136: 0x0AF6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B01
 137: 0x0AFE [0x01] GOTO 0x0B01
 
 SUBROUTINE_0B01:
-138: 0x0B01 [0x24] CREATE_DIALOG(message_id=8095*, default_option=0*, option_flags=0*)
+138: 0x0B01 [0x24] CREATE_DIALOG(message_id=8096*, default_option=0*, option_flags=0*)
     → "What will you do? [Leave it up to you./Select my own number./Nothing.]"
 139: 0x0B08 [0x25] WAIT_DIALOG_SELECT()
 140: 0x0B09 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B14
 141: 0x0B11 [0x01] GOTO 0x0B14
 
 SUBROUTINE_0B14:
-142: 0x0B14 [0x24] CREATE_DIALOG(message_id=8099*, default_option=0*, option_flags=0*)
+142: 0x0B14 [0x24] CREATE_DIALOG(message_id=8100*, default_option=0*, option_flags=0*)
     → "Confirm number $0? [Yes please./Changed my mind./Cancel purchase.]"
 143: 0x0B1B [0x25] WAIT_DIALOG_SELECT()
 144: 0x0B1C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B27
 145: 0x0B24 [0x01] GOTO 0x0B27
 
 SUBROUTINE_0B27:
-146: 0x0B27 [0x24] CREATE_DIALOG(message_id=8101*, default_option=0*, option_flags=0*)
+146: 0x0B27 [0x24] CREATE_DIALOG(message_id=8102*, default_option=0*, option_flags=0*)
     → "What would you like to do? [Purchase number $0 for $1 gil./Cancel purchase.]"
 147: 0x0B2E [0x25] WAIT_DIALOG_SELECT()
 148: 0x0B2F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B3A
 149: 0x0B37 [0x01] GOTO 0x0B3A
 
 SUBROUTINE_0B3A:
-150: 0x0B3A [0x24] CREATE_DIALOG(message_id=8105*, default_option=0*, option_flags=0*)
+150: 0x0B3A [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
     → "What would you like to do? [See winning numbers./Learn how to claim a prize./Nothing.]"
 151: 0x0B41 [0x25] WAIT_DIALOG_SELECT()
 152: 0x0B42 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B4D
 153: 0x0B4A [0x01] GOTO 0x0B4D
 
 SUBROUTINE_0B4D:
-154: 0x0B4D [0x24] CREATE_DIALOG(message_id=8106*, default_option=0*, option_flags=0*)
+154: 0x0B4D [0x24] CREATE_DIALOG(message_id=8107*, default_option=0*, option_flags=0*)
     → "The winning numbers for each rank are: [Rank 1 "$5$6$7$8$9"/Rank 2 (last $1 digits) "$10$11$12$13"/Rank 3 (last $2 digits) "$14$15$16"/Rank 4 (last $3 digits) "$17$18"/Rank 5 (last $4 digit) "$19"/Back.]"
 155: 0x0B54 [0x25] WAIT_DIALOG_SELECT()
 156: 0x0B55 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B60
 157: 0x0B5D [0x01] GOTO 0x0B60
 
 SUBROUTINE_0B60:
-158: 0x0B60 [0x24] CREATE_DIALOG(message_id=8126*, default_option=0*, option_flags=0*)
+158: 0x0B60 [0x24] CREATE_DIALOG(message_id=8127*, default_option=0*, option_flags=0*)
     → "What will it be? [$0 gil./$1./$2./$3./$4./$5./$6./$7./$8./$9./$10./$11./$12./$13./$14./$15./$16./$17./$18./$19./$20./[Next/Previous] page./Choose later.]"
 159: 0x0B67 [0x25] WAIT_DIALOG_SELECT()
 160: 0x0B68 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B73
 161: 0x0B70 [0x01] GOTO 0x0B73
 
 SUBROUTINE_0B73:
-162: 0x0B73 [0x24] CREATE_DIALOG(message_id=8130*, default_option=0*, option_flags=0*)
+162: 0x0B73 [0x24] CREATE_DIALOG(message_id=8131*, default_option=0*, option_flags=0*)
     → "You chose $0 gil. [Confirm./Changed my mind./Choose later.]"
 163: 0x0B7A [0x25] WAIT_DIALOG_SELECT()
 164: 0x0B7B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B86
 165: 0x0B83 [0x01] GOTO 0x0B86
 
 SUBROUTINE_0B86:
-166: 0x0B86 [0x24] CREATE_DIALOG(message_id=8131*, default_option=0*, option_flags=0*)
+166: 0x0B86 [0x24] CREATE_DIALOG(message_id=8132*, default_option=0*, option_flags=0*)
     → "You chose $22. [Confirm./Changed my mind./Choose later.]"
 167: 0x0B8D [0x25] WAIT_DIALOG_SELECT()
 168: 0x0B8E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0B99
 169: 0x0B96 [0x01] GOTO 0x0B99
 
 SUBROUTINE_0B99:
-170: 0x0B99 [0x24] CREATE_DIALOG(message_id=8132*, default_option=0*, option_flags=0*)
+170: 0x0B99 [0x24] CREATE_DIALOG(message_id=8133*, default_option=0*, option_flags=0*)
     → "Your consolation prize is $0, kupo!"
 171: 0x0BA0 [0x25] WAIT_DIALOG_SELECT()
 172: 0x0BA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BAC

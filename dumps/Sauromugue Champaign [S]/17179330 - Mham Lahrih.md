@@ -26,9 +26,9 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x041A      |        1050 |
 |       2 | 0x003B      |          59 |
-|       3 | 0x1F1F      |        7967 |
-|       4 | 0x1F20      |        7968 |
-|       5 | 0x1F21      |        7969 |
+|       3 | 0x1F20      |        7968 |
+|       4 | 0x1F21      |        7969 |
+|       5 | 0x1F22      |        7970 |
 
 ## Events
 
@@ -125,10 +125,10 @@
   1: 0x000C [0x1C] WAIT(30* ticks)
   2: 0x000F [0x03] Work_Zone[2] = 1050*
   3: 0x0014 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  4: 0x0023 [0x2B] EventEntity [7967*]:
+  4: 0x0023 [0x2B] EventEntity [7968*]:
     → "Hey, you must be <Player>. Lehko's told me about the strrrategy."
   5: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002B [0x2B] EventEntity [7968*]:
+  6: 0x002B [0x2B] EventEntity [7969*]:
     → "Here's a spare $3. Now, go and show them Gigas a trrrick or two!"
   7: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0033 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*
@@ -161,7 +161,7 @@
   0: 0x0044 [0x4A] EventEntity looks at LocalPlayer
   1: 0x004D [0x1C] WAIT(30* ticks)
   2: 0x0050 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=59*
-  3: 0x005F [0x2B] EventEntity [7969*]:
+  3: 0x005F [0x2B] EventEntity [7970*]:
     → "What is it? The battle's rrraging, so if you don't want to take a stray arrow where the sun don't shine, stay on your toes."
   4: 0x0066 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0067 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=59*

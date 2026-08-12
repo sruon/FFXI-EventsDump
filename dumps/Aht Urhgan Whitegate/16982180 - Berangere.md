@@ -22,34 +22,34 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1844      |        6212 |
-|       1 | 0x1845      |        6213 |
+|       0 | 0x1845      |        6213 |
+|       1 | 0x1846      |        6214 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1635      |        5685 |
-|       4 | 0x1846      |        6214 |
+|       3 | 0x1636      |        5686 |
+|       4 | 0x1847      |        6215 |
 |       5 | 0x0814      |        2068 |
 |       6 | 0x0815      |        2069 |
 |       7 | 0x0816      |        2070 |
 |       8 | 0x0817      |        2071 |
 |       9 | 0x0818      |        2072 |
-|      10 | 0x1847      |        6215 |
-|      11 | 0x1848      |        6216 |
-|      12 | 0x1690      |        5776 |
+|      10 | 0x1848      |        6216 |
+|      11 | 0x1849      |        6217 |
+|      12 | 0x1691      |        5777 |
 |      13 | 0x0001      |           1 |
 |      14 | 0x0004      |           4 |
-|      15 | 0x184A      |        6218 |
-|      16 | 0x184B      |        6219 |
+|      15 | 0x184B      |        6219 |
+|      16 | 0x184C      |        6220 |
 |      17 | 0x2A92      |       10898 |
 |      18 | 0x28E7      |       10471 |
 |      19 | 0x2918      |       10520 |
 |      20 | 0x2937      |       10551 |
 |      21 | 0x2979      |       10617 |
-|      22 | 0x184C      |        6220 |
+|      22 | 0x184D      |        6221 |
 |      23 | 0x0017      |          23 |
 |      24 | 0x0018      |          24 |
 |      25 | 0x0003      |           3 |
 |      26 | 0x0006      |           6 |
-|      27 | 0x184D      |        6221 |
+|      27 | 0x184E      |        6222 |
 |      28 | 0x0002      |           2 |
 |      29 | 0x0005      |           5 |
 |      30 | 0x2A97      |       10903 |
@@ -114,53 +114,53 @@
 |      89 | 0x2925      |       10533 |
 |      90 | 0x2944      |       10564 |
 |      91 | 0x2986      |       10630 |
-|      92 | 0x1849      |        6217 |
-|      93 | 0x184E      |        6222 |
-|      94 | 0x184F      |        6223 |
-|      95 | 0x1850      |        6224 |
-|      96 | 0x1851      |        6225 |
-|      97 | 0x1852      |        6226 |
-|      98 | 0x1853      |        6227 |
-|      99 | 0x1854      |        6228 |
-|     100 | 0x1855      |        6229 |
-|     101 | 0x1856      |        6230 |
-|     102 | 0x1691      |        5777 |
+|      92 | 0x184A      |        6218 |
+|      93 | 0x184F      |        6223 |
+|      94 | 0x1850      |        6224 |
+|      95 | 0x1851      |        6225 |
+|      96 | 0x1852      |        6226 |
+|      97 | 0x1853      |        6227 |
+|      98 | 0x1854      |        6228 |
+|      99 | 0x1855      |        6229 |
+|     100 | 0x1856      |        6230 |
+|     101 | 0x1857      |        6231 |
+|     102 | 0x1692      |        5778 |
 |     103 | 0x0011      |          17 |
-|     104 | 0x167E      |        5758 |
-|     105 | 0x1683      |        5763 |
-|     106 | 0x167F      |        5759 |
-|     107 | 0x1680      |        5760 |
-|     108 | 0x1682      |        5762 |
+|     104 | 0x167F      |        5759 |
+|     105 | 0x1684      |        5764 |
+|     106 | 0x1680      |        5760 |
+|     107 | 0x1681      |        5761 |
+|     108 | 0x1683      |        5763 |
 
 ## String References
 
-- **5685**: How may I help you today?
-- **5758**: You cannot equip the $39. Do you still wish to proceed?
-- **5759**: Your level is too low to equip the $39. Do you still wish to proceed?
-- **5760**: You seem to be able to equip the $39. Do you wish to proceed?
-- **5762**: Proceed? [Yes, purchase item./Cancel purchase.]
-- **5763**: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
-- **5776**: Is there anything else I can help you with?
-- **5777**: Thank you for visiting the Commissions Agency.
-- **6212**: Welcome to the Nyzul Isle field station of the Aht Urhgan Archaeological Research Institute. It is here that we conduct our most pioneering research, undeterred by the threat of danger that lurks in every nook of these ruins.
-- **6213**: I am not authorized to converse with civilians. Please be on your way.
-- **6214**: Ask for something? [Redeem an astrarium./About astraria./Nothing for now.]
-- **6215**: What will you redeem? [$6./$6./$6./$6./$6./Nothing for now.]
-- **6216**: What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]
-- **6217**: You currently '[possess/do not possess] a fully assembled $3.
-- **6218**: You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one.
-- **6219**: You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one.
-- **6220**: Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]
-- **6221**: Without $6 in your possession, we cannot offer you $39.
-- **6222**: Ah, astraria! Remarkable relics of an era long forgotten!
-- **6223**: Ancient astronomical clocks, they are, once used by the denizens of these parts to predict changes in the weather and seasons...or so we surmise.
-- **6224**: Though the astraria we have unearthed have been far too weathered and waterlogged to serve their original function, they have proven a veritable treasure trove of insight into the civilization that created them.
-- **6225**: To call them the key to answering questions we have pondered for so long is no understatement.
-- **6226**: "What does this have to do with me," you ask? An astute question, if I do say so myself!
-- **6227**: My colleagues and I are but humble students of archaeology. We have neither the courage nor the wherewithal to venture into the depths to recover the artifacts so vital to our research.
-- **6228**: Thus we are dependent on mercenaries like yourself. We would be greatly in your debt if you could recover and return to us any astraria you might come across in your travels.
-- **6229**: A single astrarium is a sizable apparatus. For reasons unbeknownst to us, they are most often found shattered into numerous pieces. Five, to be exact.
-- **6230**: Assemble a full astrarium and deliver it to us, and we shall reward you with other artifacts we have recovered--equally rare, but far more practical to one of your profession. Needless to say, the exchange would be to our mutual benefit.
+- **5686**: How may I help you today?
+- **5759**: You cannot equip the $39. Do you still wish to proceed?
+- **5760**: Your level is too low to equip the $39. Do you still wish to proceed?
+- **5761**: You seem to be able to equip the $39. Do you wish to proceed?
+- **5763**: Proceed? [Yes, purchase item./Cancel purchase.]
+- **5764**: Proceed? [Yes, even though I can't equip it./Cancel purchase.]
+- **5777**: Is there anything else I can help you with?
+- **5778**: Thank you for visiting the Commissions Agency.
+- **6213**: Welcome to the Nyzul Isle field station of the Aht Urhgan Archaeological Research Institute. It is here that we conduct our most pioneering research, undeterred by the threat of danger that lurks in every nook of these ruins.
+- **6214**: I am not authorized to converse with civilians. Please be on your way.
+- **6215**: Ask for something? [Redeem an astrarium./About astraria./Nothing for now.]
+- **6216**: What will you redeem? [$6./$6./$6./$6./$6./Nothing for now.]
+- **6217**: What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]
+- **6218**: You currently '[possess/do not possess] a fully assembled $3.
+- **6219**: You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one.
+- **6220**: You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one.
+- **6221**: Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]
+- **6222**: Without $6 in your possession, we cannot offer you $39.
+- **6223**: Ah, astraria! Remarkable relics of an era long forgotten!
+- **6224**: Ancient astronomical clocks, they are, once used by the denizens of these parts to predict changes in the weather and seasons...or so we surmise.
+- **6225**: Though the astraria we have unearthed have been far too weathered and waterlogged to serve their original function, they have proven a veritable treasure trove of insight into the civilization that created them.
+- **6226**: To call them the key to answering questions we have pondered for so long is no understatement.
+- **6227**: "What does this have to do with me," you ask? An astute question, if I do say so myself!
+- **6228**: My colleagues and I are but humble students of archaeology. We have neither the courage nor the wherewithal to venture into the depths to recover the artifacts so vital to our research.
+- **6229**: Thus we are dependent on mercenaries like yourself. We would be greatly in your debt if you could recover and return to us any astraria you might come across in your travels.
+- **6230**: A single astrarium is a sizable apparatus. For reasons unbeknownst to us, they are most often found shattered into numerous pieces. Five, to be exact.
+- **6231**: Assemble a full astrarium and deliver it to us, and we shall reward you with other artifacts we have recovered--equally rare, but far more practical to one of your profession. Needless to say, the exchange would be to our mutual benefit.
 
 ## Events
 
@@ -206,10 +206,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=6212*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=6213*)
     → "Welcome to the Nyzul Isle field station of the Aht Urhgan Archaeological Research Institute. It is here that we conduct our most pioneering research, undeterred by the threat of danger that lurks in every nook of these ruins."
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=6213*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=6214*)
     → "I am not authorized to converse with civilians. Please be on your way."
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -729,13 +729,13 @@
 ```
   0: 0x0010 [0x03] Work_Zone[1] = 0*
   1: 0x0015 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=6212*)
+  2: 0x001A [0x1D] PRINT_EVENT_MESSAGE(message_id=6213*)
     → "Welcome to the Nyzul Isle field station of the Aht Urhgan Archaeological Research Institute. It is here that we conduct our most pioneering research, undeterred by the threat of danger that lurks in every nook of these ruins."
   3: 0x001D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=5685*)
+  4: 0x001E [0x1D] PRINT_EVENT_MESSAGE(message_id=5686*)
     → "How may I help you today?"
   5: 0x0021 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0022 [0x24] CREATE_DIALOG(message_id=6214*, default_option=0*, option_flags=0*)
+  6: 0x0022 [0x24] CREATE_DIALOG(message_id=6215*, default_option=0*, option_flags=0*)
     → "Ask for something? [Redeem an astrarium./About astraria./Nothing for now.]"
   7: 0x0029 [0x25] WAIT_DIALOG_SELECT()
   8: 0x002A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DB2
@@ -744,17 +744,17 @@
  11: 0x003C [0x03] Work_Zone_1700[3] = 2070*
  12: 0x0041 [0x03] Work_Zone_1700[4] = 2071*
  13: 0x0046 [0x03] Work_Zone_1700[5] = 2072*
- 14: 0x004B [0x24] CREATE_DIALOG(message_id=6215*, default_option=0*, option_flags=0*)
+ 14: 0x004B [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
     → "What will you redeem? [$6./$6./$6./$6./$6./Nothing for now.]"
  15: 0x0052 [0x25] WAIT_DIALOG_SELECT()
  16: 0x0053 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0640
  17: 0x005B [0x03] Work_Zone_1700[30] = 2068*
  18: 0x0060 [0x03] Work_Zone_1700[31] = 0*
- 19: 0x0065 [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
+ 19: 0x0065 [0x24] CREATE_DIALOG(message_id=6217*, default_option=0*, option_flags=0*)
     → "What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]"
  20: 0x006C [0x25] WAIT_DIALOG_SELECT()
  21: 0x006D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007F
- 22: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 22: 0x0075 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
  23: 0x0078 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0079 [0x01] GOTO 0x0032
@@ -763,11 +763,11 @@ SUBROUTINE_009B:
  25: 0x009B [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 0*-4*)
  26: 0x00A4 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x00B8
  27: 0x00AC [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
- 28: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+ 28: 0x00B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
  29: 0x00B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x00B5 [0x01] GOTO 0x00BC
- 31: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+ 31: 0x00B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
  32: 0x00BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -777,11 +777,11 @@ SUBROUTINE_00BC:
  35: 0x00C6 [0x03] Work_Zone_1700[3] = 10520*
  36: 0x00CB [0x03] Work_Zone_1700[4] = 10551*
  37: 0x00D0 [0x03] Work_Zone_1700[5] = 10617*
- 38: 0x00D5 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+ 38: 0x00D5 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
  39: 0x00DC [0x25] WAIT_DIALOG_SELECT()
  40: 0x00DD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00EF
- 41: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 41: 0x00E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
  42: 0x00E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x00E9 [0x01] GOTO 0x005B
@@ -798,11 +798,11 @@ SUBROUTINE_0137:
  52: 0x016B [0x01] GOTO 0x00BC
  53: 0x016E [0x01] GOTO 0x0182
  54: 0x0171 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
- 55: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+ 55: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
  56: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0178 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 58: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 58: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
  59: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x017F [0x01] GOTO 0x00BC
@@ -819,11 +819,11 @@ SUBROUTINE_0182:
  69: 0x01B6 [0x01] GOTO 0x00BC
  70: 0x01B9 [0x01] GOTO 0x01CD
  71: 0x01BC [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
- 72: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+ 72: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
  73: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x01C3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 75: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 75: 0x01C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
  76: 0x01C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x01CA [0x01] GOTO 0x00BC
@@ -840,11 +840,11 @@ SUBROUTINE_01CD:
  86: 0x0201 [0x01] GOTO 0x00BC
  87: 0x0204 [0x01] GOTO 0x0218
  88: 0x0207 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
- 89: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+ 89: 0x020A [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
  90: 0x020D [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x020E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
- 92: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+ 92: 0x0211 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
  93: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
  94: 0x0215 [0x01] GOTO 0x00BC
@@ -861,11 +861,11 @@ SUBROUTINE_0218:
 103: 0x024C [0x01] GOTO 0x00BC
 104: 0x024F [0x01] GOTO 0x0263
 105: 0x0252 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-106: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+106: 0x0255 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 107: 0x0258 [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x0259 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-109: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+109: 0x025C [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 110: 0x025F [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0260 [0x01] GOTO 0x00BC
@@ -885,11 +885,11 @@ SUBROUTINE_0285:
 119: 0x0285 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 0*-4*)
 120: 0x028E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x02A2
 121: 0x0296 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-122: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+122: 0x029B [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 123: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x029F [0x01] GOTO 0x02A6
-125: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+125: 0x02A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 126: 0x02A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -899,11 +899,11 @@ SUBROUTINE_02A6:
 129: 0x02B0 [0x03] Work_Zone_1700[3] = 10525*
 130: 0x02B5 [0x03] Work_Zone_1700[4] = 10556*
 131: 0x02BA [0x03] Work_Zone_1700[5] = 10622*
-132: 0x02BF [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+132: 0x02BF [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 133: 0x02C6 [0x25] WAIT_DIALOG_SELECT()
 134: 0x02C7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02D9
-135: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+135: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 136: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 137: 0x02D3 [0x01] GOTO 0x005B
@@ -920,11 +920,11 @@ SUBROUTINE_0321:
 146: 0x0355 [0x01] GOTO 0x02A6
 147: 0x0358 [0x01] GOTO 0x036C
 148: 0x035B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-149: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+149: 0x035E [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 150: 0x0361 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0362 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-152: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+152: 0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 153: 0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0369 [0x01] GOTO 0x02A6
@@ -941,11 +941,11 @@ SUBROUTINE_036C:
 163: 0x03A0 [0x01] GOTO 0x02A6
 164: 0x03A3 [0x01] GOTO 0x03B7
 165: 0x03A6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-166: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+166: 0x03A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 167: 0x03AC [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x03AD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-169: 0x03B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+169: 0x03B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 170: 0x03B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x03B4 [0x01] GOTO 0x02A6
@@ -962,11 +962,11 @@ SUBROUTINE_03B7:
 180: 0x03EB [0x01] GOTO 0x02A6
 181: 0x03EE [0x01] GOTO 0x0402
 182: 0x03F1 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-183: 0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+183: 0x03F4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 184: 0x03F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x03F8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-186: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+186: 0x03FB [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 187: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x03FF [0x01] GOTO 0x02A6
@@ -983,11 +983,11 @@ SUBROUTINE_0402:
 197: 0x0436 [0x01] GOTO 0x02A6
 198: 0x0439 [0x01] GOTO 0x044D
 199: 0x043C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-200: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+200: 0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 201: 0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
 202: 0x0443 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-203: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+203: 0x0446 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 204: 0x0449 [0x23] WAIT_FOR_DIALOG_INTERACTION
 205: 0x044A [0x01] GOTO 0x02A6
@@ -1007,11 +1007,11 @@ SUBROUTINE_046F:
 213: 0x046F [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 0*-4*)
 214: 0x0478 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x048C
 215: 0x0480 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-216: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+216: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 217: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
 218: 0x0489 [0x01] GOTO 0x0490
-219: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+219: 0x048C [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 220: 0x048F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1021,11 +1021,11 @@ SUBROUTINE_0490:
 223: 0x049A [0x03] Work_Zone_1700[3] = 10530*
 224: 0x049F [0x03] Work_Zone_1700[4] = 10561*
 225: 0x04A4 [0x03] Work_Zone_1700[5] = 10627*
-226: 0x04A9 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+226: 0x04A9 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 227: 0x04B0 [0x25] WAIT_DIALOG_SELECT()
 228: 0x04B1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04C3
-229: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+229: 0x04B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 230: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
 231: 0x04BD [0x01] GOTO 0x005B
@@ -1042,11 +1042,11 @@ SUBROUTINE_050B:
 240: 0x053F [0x01] GOTO 0x0490
 241: 0x0542 [0x01] GOTO 0x0556
 242: 0x0545 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-243: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+243: 0x0548 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 244: 0x054B [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x054C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-246: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+246: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 247: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
 248: 0x0553 [0x01] GOTO 0x0490
@@ -1063,11 +1063,11 @@ SUBROUTINE_0556:
 257: 0x058A [0x01] GOTO 0x0490
 258: 0x058D [0x01] GOTO 0x05A1
 259: 0x0590 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-260: 0x0593 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+260: 0x0593 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 261: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x0597 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-263: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+263: 0x059A [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 264: 0x059D [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x059E [0x01] GOTO 0x0490
@@ -1084,11 +1084,11 @@ SUBROUTINE_05A1:
 274: 0x05D5 [0x01] GOTO 0x0490
 275: 0x05D8 [0x01] GOTO 0x05EC
 276: 0x05DB [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-277: 0x05DE [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+277: 0x05DE [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 278: 0x05E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 279: 0x05E2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-280: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+280: 0x05E5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 281: 0x05E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x05E9 [0x01] GOTO 0x0490
@@ -1105,11 +1105,11 @@ SUBROUTINE_05EC:
 291: 0x0620 [0x01] GOTO 0x0490
 292: 0x0623 [0x01] GOTO 0x0637
 293: 0x0626 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-294: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+294: 0x0629 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 295: 0x062C [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x062D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-297: 0x0630 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+297: 0x0630 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 298: 0x0633 [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x0634 [0x01] GOTO 0x0490
@@ -1127,11 +1127,11 @@ SUBROUTINE_063D:
 SUBROUTINE_0648:
 304: 0x0648 [0x03] Work_Zone_1700[30] = 2069*
 305: 0x064D [0x03] Work_Zone_1700[31] = 0*
-306: 0x0652 [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
+306: 0x0652 [0x24] CREATE_DIALOG(message_id=6217*, default_option=0*, option_flags=0*)
     → "What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]"
 307: 0x0659 [0x25] WAIT_DIALOG_SELECT()
 308: 0x065A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x066C
-309: 0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+309: 0x0662 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 310: 0x0665 [0x23] WAIT_FOR_DIALOG_INTERACTION
 311: 0x0666 [0x01] GOTO 0x0032
@@ -1140,11 +1140,11 @@ SUBROUTINE_0688:
 312: 0x0688 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 5*-9*)
 313: 0x0691 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x06A5
 314: 0x0699 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-315: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+315: 0x069E [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 316: 0x06A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 317: 0x06A2 [0x01] GOTO 0x06A9
-318: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+318: 0x06A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 319: 0x06A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1154,11 +1154,11 @@ SUBROUTINE_06A9:
 322: 0x06B3 [0x03] Work_Zone_1700[3] = 10521*
 323: 0x06B8 [0x03] Work_Zone_1700[4] = 10552*
 324: 0x06BD [0x03] Work_Zone_1700[5] = 10618*
-325: 0x06C2 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+325: 0x06C2 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 326: 0x06C9 [0x25] WAIT_DIALOG_SELECT()
 327: 0x06CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x06DC
-328: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+328: 0x06D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 329: 0x06D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x06D6 [0x01] GOTO 0x0648
@@ -1175,11 +1175,11 @@ SUBROUTINE_0724:
 339: 0x0758 [0x01] GOTO 0x06A9
 340: 0x075B [0x01] GOTO 0x076F
 341: 0x075E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-342: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+342: 0x0761 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 343: 0x0764 [0x23] WAIT_FOR_DIALOG_INTERACTION
 344: 0x0765 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-345: 0x0768 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+345: 0x0768 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 346: 0x076B [0x23] WAIT_FOR_DIALOG_INTERACTION
 347: 0x076C [0x01] GOTO 0x06A9
@@ -1196,11 +1196,11 @@ SUBROUTINE_076F:
 356: 0x07A3 [0x01] GOTO 0x06A9
 357: 0x07A6 [0x01] GOTO 0x07BA
 358: 0x07A9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-359: 0x07AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+359: 0x07AC [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 360: 0x07AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 361: 0x07B0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-362: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+362: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 363: 0x07B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x07B7 [0x01] GOTO 0x06A9
@@ -1217,11 +1217,11 @@ SUBROUTINE_07BA:
 373: 0x07EE [0x01] GOTO 0x06A9
 374: 0x07F1 [0x01] GOTO 0x0805
 375: 0x07F4 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-376: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+376: 0x07F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 377: 0x07FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 378: 0x07FB [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-379: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+379: 0x07FE [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 380: 0x0801 [0x23] WAIT_FOR_DIALOG_INTERACTION
 381: 0x0802 [0x01] GOTO 0x06A9
@@ -1238,11 +1238,11 @@ SUBROUTINE_0805:
 390: 0x0839 [0x01] GOTO 0x06A9
 391: 0x083C [0x01] GOTO 0x0850
 392: 0x083F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-393: 0x0842 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+393: 0x0842 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 394: 0x0845 [0x23] WAIT_FOR_DIALOG_INTERACTION
 395: 0x0846 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-396: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+396: 0x0849 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 397: 0x084C [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x084D [0x01] GOTO 0x06A9
@@ -1262,11 +1262,11 @@ SUBROUTINE_0872:
 406: 0x0872 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 5*-9*)
 407: 0x087B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x088F
 408: 0x0883 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-409: 0x0888 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+409: 0x0888 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 410: 0x088B [0x23] WAIT_FOR_DIALOG_INTERACTION
 411: 0x088C [0x01] GOTO 0x0893
-412: 0x088F [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+412: 0x088F [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 413: 0x0892 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1276,11 +1276,11 @@ SUBROUTINE_0893:
 416: 0x089D [0x03] Work_Zone_1700[3] = 10526*
 417: 0x08A2 [0x03] Work_Zone_1700[4] = 10557*
 418: 0x08A7 [0x03] Work_Zone_1700[5] = 10623*
-419: 0x08AC [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+419: 0x08AC [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 420: 0x08B3 [0x25] WAIT_DIALOG_SELECT()
 421: 0x08B4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08C6
-422: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+422: 0x08BC [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 423: 0x08BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 424: 0x08C0 [0x01] GOTO 0x0648
@@ -1297,11 +1297,11 @@ SUBROUTINE_090E:
 433: 0x0942 [0x01] GOTO 0x0893
 434: 0x0945 [0x01] GOTO 0x0959
 435: 0x0948 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-436: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+436: 0x094B [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 437: 0x094E [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x094F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-439: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+439: 0x0952 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 440: 0x0955 [0x23] WAIT_FOR_DIALOG_INTERACTION
 441: 0x0956 [0x01] GOTO 0x0893
@@ -1318,11 +1318,11 @@ SUBROUTINE_0959:
 450: 0x098D [0x01] GOTO 0x0893
 451: 0x0990 [0x01] GOTO 0x09A4
 452: 0x0993 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-453: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+453: 0x0996 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 454: 0x0999 [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x099A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-456: 0x099D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+456: 0x099D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 457: 0x09A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x09A1 [0x01] GOTO 0x0893
@@ -1339,11 +1339,11 @@ SUBROUTINE_09A4:
 467: 0x09D8 [0x01] GOTO 0x0893
 468: 0x09DB [0x01] GOTO 0x09EF
 469: 0x09DE [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-470: 0x09E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+470: 0x09E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 471: 0x09E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 472: 0x09E5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-473: 0x09E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+473: 0x09E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 474: 0x09EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 475: 0x09EC [0x01] GOTO 0x0893
@@ -1360,11 +1360,11 @@ SUBROUTINE_09EF:
 484: 0x0A23 [0x01] GOTO 0x0893
 485: 0x0A26 [0x01] GOTO 0x0A3A
 486: 0x0A29 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-487: 0x0A2C [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+487: 0x0A2C [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 488: 0x0A2F [0x23] WAIT_FOR_DIALOG_INTERACTION
 489: 0x0A30 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-490: 0x0A33 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+490: 0x0A33 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 491: 0x0A36 [0x23] WAIT_FOR_DIALOG_INTERACTION
 492: 0x0A37 [0x01] GOTO 0x0893
@@ -1384,11 +1384,11 @@ SUBROUTINE_0A5C:
 500: 0x0A5C [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 5*-9*)
 501: 0x0A65 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0A79
 502: 0x0A6D [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-503: 0x0A72 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+503: 0x0A72 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 504: 0x0A75 [0x23] WAIT_FOR_DIALOG_INTERACTION
 505: 0x0A76 [0x01] GOTO 0x0A7D
-506: 0x0A79 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+506: 0x0A79 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 507: 0x0A7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1398,11 +1398,11 @@ SUBROUTINE_0A7D:
 510: 0x0A87 [0x03] Work_Zone_1700[3] = 10531*
 511: 0x0A8C [0x03] Work_Zone_1700[4] = 10562*
 512: 0x0A91 [0x03] Work_Zone_1700[5] = 10628*
-513: 0x0A96 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+513: 0x0A96 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 514: 0x0A9D [0x25] WAIT_DIALOG_SELECT()
 515: 0x0A9E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0AB0
-516: 0x0AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+516: 0x0AA6 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 517: 0x0AA9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 518: 0x0AAA [0x01] GOTO 0x0648
@@ -1419,11 +1419,11 @@ SUBROUTINE_0AF8:
 527: 0x0B2C [0x01] GOTO 0x0A7D
 528: 0x0B2F [0x01] GOTO 0x0B43
 529: 0x0B32 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-530: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+530: 0x0B35 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 531: 0x0B38 [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x0B39 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-533: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+533: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 534: 0x0B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 535: 0x0B40 [0x01] GOTO 0x0A7D
@@ -1440,11 +1440,11 @@ SUBROUTINE_0B43:
 544: 0x0B77 [0x01] GOTO 0x0A7D
 545: 0x0B7A [0x01] GOTO 0x0B8E
 546: 0x0B7D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-547: 0x0B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+547: 0x0B80 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 548: 0x0B83 [0x23] WAIT_FOR_DIALOG_INTERACTION
 549: 0x0B84 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-550: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+550: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 551: 0x0B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 552: 0x0B8B [0x01] GOTO 0x0A7D
@@ -1461,11 +1461,11 @@ SUBROUTINE_0B8E:
 561: 0x0BC2 [0x01] GOTO 0x0A7D
 562: 0x0BC5 [0x01] GOTO 0x0BD9
 563: 0x0BC8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-564: 0x0BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+564: 0x0BCB [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 565: 0x0BCE [0x23] WAIT_FOR_DIALOG_INTERACTION
 566: 0x0BCF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-567: 0x0BD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+567: 0x0BD2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 568: 0x0BD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 569: 0x0BD6 [0x01] GOTO 0x0A7D
@@ -1482,11 +1482,11 @@ SUBROUTINE_0BD9:
 578: 0x0C0D [0x01] GOTO 0x0A7D
 579: 0x0C10 [0x01] GOTO 0x0C24
 580: 0x0C13 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-581: 0x0C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+581: 0x0C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 582: 0x0C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x0C1A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-584: 0x0C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+584: 0x0C1D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 585: 0x0C20 [0x23] WAIT_FOR_DIALOG_INTERACTION
 586: 0x0C21 [0x01] GOTO 0x0A7D
@@ -1504,11 +1504,11 @@ SUBROUTINE_0C2A:
 SUBROUTINE_0C35:
 591: 0x0C35 [0x03] Work_Zone_1700[30] = 2070*
 592: 0x0C3A [0x03] Work_Zone_1700[31] = 0*
-593: 0x0C3F [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
+593: 0x0C3F [0x24] CREATE_DIALOG(message_id=6217*, default_option=0*, option_flags=0*)
     → "What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]"
 594: 0x0C46 [0x25] WAIT_DIALOG_SELECT()
 595: 0x0C47 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0C59
-596: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+596: 0x0C4F [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 597: 0x0C52 [0x23] WAIT_FOR_DIALOG_INTERACTION
 598: 0x0C53 [0x01] GOTO 0x0032
@@ -1517,11 +1517,11 @@ SUBROUTINE_0C75:
 599: 0x0C75 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 10*-14*)
 600: 0x0C7E [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0C92
 601: 0x0C86 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-602: 0x0C8B [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+602: 0x0C8B [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 603: 0x0C8E [0x23] WAIT_FOR_DIALOG_INTERACTION
 604: 0x0C8F [0x01] GOTO 0x0C96
-605: 0x0C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+605: 0x0C92 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 606: 0x0C95 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1531,11 +1531,11 @@ SUBROUTINE_0C96:
 609: 0x0CA0 [0x03] Work_Zone_1700[3] = 10522*
 610: 0x0CA5 [0x03] Work_Zone_1700[4] = 10553*
 611: 0x0CAA [0x03] Work_Zone_1700[5] = 10619*
-612: 0x0CAF [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+612: 0x0CAF [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 613: 0x0CB6 [0x25] WAIT_DIALOG_SELECT()
 614: 0x0CB7 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0CC9
-615: 0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+615: 0x0CBF [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 616: 0x0CC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 617: 0x0CC3 [0x01] GOTO 0x0C35
@@ -1552,11 +1552,11 @@ SUBROUTINE_0D11:
 626: 0x0D45 [0x01] GOTO 0x0C96
 627: 0x0D48 [0x01] GOTO 0x0D5C
 628: 0x0D4B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-629: 0x0D4E [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+629: 0x0D4E [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 630: 0x0D51 [0x23] WAIT_FOR_DIALOG_INTERACTION
 631: 0x0D52 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-632: 0x0D55 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+632: 0x0D55 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 633: 0x0D58 [0x23] WAIT_FOR_DIALOG_INTERACTION
 634: 0x0D59 [0x01] GOTO 0x0C96
@@ -1573,11 +1573,11 @@ SUBROUTINE_0D5C:
 643: 0x0D90 [0x01] GOTO 0x0C96
 644: 0x0D93 [0x01] GOTO 0x0DA7
 645: 0x0D96 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-646: 0x0D99 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+646: 0x0D99 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 647: 0x0D9C [0x23] WAIT_FOR_DIALOG_INTERACTION
 648: 0x0D9D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-649: 0x0DA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+649: 0x0DA0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 650: 0x0DA3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 651: 0x0DA4 [0x01] GOTO 0x0C96
@@ -1594,11 +1594,11 @@ SUBROUTINE_0DA7:
 660: 0x0DDB [0x01] GOTO 0x0C96
 661: 0x0DDE [0x01] GOTO 0x0DF2
 662: 0x0DE1 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-663: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+663: 0x0DE4 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 664: 0x0DE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 665: 0x0DE8 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-666: 0x0DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+666: 0x0DEB [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 667: 0x0DEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 668: 0x0DEF [0x01] GOTO 0x0C96
@@ -1615,11 +1615,11 @@ SUBROUTINE_0DF2:
 677: 0x0E26 [0x01] GOTO 0x0C96
 678: 0x0E29 [0x01] GOTO 0x0E3D
 679: 0x0E2C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-680: 0x0E2F [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+680: 0x0E2F [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 681: 0x0E32 [0x23] WAIT_FOR_DIALOG_INTERACTION
 682: 0x0E33 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-683: 0x0E36 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+683: 0x0E36 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 684: 0x0E39 [0x23] WAIT_FOR_DIALOG_INTERACTION
 685: 0x0E3A [0x01] GOTO 0x0C96
@@ -1639,11 +1639,11 @@ SUBROUTINE_0E5F:
 693: 0x0E5F [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 10*-14*)
 694: 0x0E68 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x0E7C
 695: 0x0E70 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-696: 0x0E75 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+696: 0x0E75 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 697: 0x0E78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 698: 0x0E79 [0x01] GOTO 0x0E80
-699: 0x0E7C [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+699: 0x0E7C [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 700: 0x0E7F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1653,11 +1653,11 @@ SUBROUTINE_0E80:
 703: 0x0E8A [0x03] Work_Zone_1700[3] = 10527*
 704: 0x0E8F [0x03] Work_Zone_1700[4] = 10558*
 705: 0x0E94 [0x03] Work_Zone_1700[5] = 10624*
-706: 0x0E99 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+706: 0x0E99 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 707: 0x0EA0 [0x25] WAIT_DIALOG_SELECT()
 708: 0x0EA1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0EB3
-709: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+709: 0x0EA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 710: 0x0EAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 711: 0x0EAD [0x01] GOTO 0x0C35
@@ -1674,11 +1674,11 @@ SUBROUTINE_0EFB:
 720: 0x0F2F [0x01] GOTO 0x0E80
 721: 0x0F32 [0x01] GOTO 0x0F46
 722: 0x0F35 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-723: 0x0F38 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+723: 0x0F38 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 724: 0x0F3B [0x23] WAIT_FOR_DIALOG_INTERACTION
 725: 0x0F3C [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-726: 0x0F3F [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+726: 0x0F3F [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 727: 0x0F42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 728: 0x0F43 [0x01] GOTO 0x0E80
@@ -1695,11 +1695,11 @@ SUBROUTINE_0F46:
 737: 0x0F7A [0x01] GOTO 0x0E80
 738: 0x0F7D [0x01] GOTO 0x0F91
 739: 0x0F80 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-740: 0x0F83 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+740: 0x0F83 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 741: 0x0F86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 742: 0x0F87 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-743: 0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+743: 0x0F8A [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 744: 0x0F8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 745: 0x0F8E [0x01] GOTO 0x0E80
@@ -1716,11 +1716,11 @@ SUBROUTINE_0F91:
 754: 0x0FC5 [0x01] GOTO 0x0E80
 755: 0x0FC8 [0x01] GOTO 0x0FDC
 756: 0x0FCB [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-757: 0x0FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+757: 0x0FCE [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 758: 0x0FD1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 759: 0x0FD2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-760: 0x0FD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+760: 0x0FD5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 761: 0x0FD8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 762: 0x0FD9 [0x01] GOTO 0x0E80
@@ -1737,11 +1737,11 @@ SUBROUTINE_0FDC:
 771: 0x1010 [0x01] GOTO 0x0E80
 772: 0x1013 [0x01] GOTO 0x1027
 773: 0x1016 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-774: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+774: 0x1019 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 775: 0x101C [0x23] WAIT_FOR_DIALOG_INTERACTION
 776: 0x101D [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-777: 0x1020 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+777: 0x1020 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 778: 0x1023 [0x23] WAIT_FOR_DIALOG_INTERACTION
 779: 0x1024 [0x01] GOTO 0x0E80
@@ -1761,11 +1761,11 @@ SUBROUTINE_1049:
 787: 0x1049 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 10*-14*)
 788: 0x1052 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1066
 789: 0x105A [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-790: 0x105F [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+790: 0x105F [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 791: 0x1062 [0x23] WAIT_FOR_DIALOG_INTERACTION
 792: 0x1063 [0x01] GOTO 0x106A
-793: 0x1066 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+793: 0x1066 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 794: 0x1069 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1775,11 +1775,11 @@ SUBROUTINE_106A:
 797: 0x1074 [0x03] Work_Zone_1700[3] = 10532*
 798: 0x1079 [0x03] Work_Zone_1700[4] = 10563*
 799: 0x107E [0x03] Work_Zone_1700[5] = 10629*
-800: 0x1083 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+800: 0x1083 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 801: 0x108A [0x25] WAIT_DIALOG_SELECT()
 802: 0x108B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x109D
-803: 0x1093 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+803: 0x1093 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 804: 0x1096 [0x23] WAIT_FOR_DIALOG_INTERACTION
 805: 0x1097 [0x01] GOTO 0x0C35
@@ -1796,11 +1796,11 @@ SUBROUTINE_10E5:
 814: 0x1119 [0x01] GOTO 0x106A
 815: 0x111C [0x01] GOTO 0x1130
 816: 0x111F [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-817: 0x1122 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+817: 0x1122 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 818: 0x1125 [0x23] WAIT_FOR_DIALOG_INTERACTION
 819: 0x1126 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-820: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+820: 0x1129 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 821: 0x112C [0x23] WAIT_FOR_DIALOG_INTERACTION
 822: 0x112D [0x01] GOTO 0x106A
@@ -1817,11 +1817,11 @@ SUBROUTINE_1130:
 831: 0x1164 [0x01] GOTO 0x106A
 832: 0x1167 [0x01] GOTO 0x117B
 833: 0x116A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-834: 0x116D [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+834: 0x116D [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 835: 0x1170 [0x23] WAIT_FOR_DIALOG_INTERACTION
 836: 0x1171 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-837: 0x1174 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+837: 0x1174 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 838: 0x1177 [0x23] WAIT_FOR_DIALOG_INTERACTION
 839: 0x1178 [0x01] GOTO 0x106A
@@ -1838,11 +1838,11 @@ SUBROUTINE_117B:
 848: 0x11AF [0x01] GOTO 0x106A
 849: 0x11B2 [0x01] GOTO 0x11C6
 850: 0x11B5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-851: 0x11B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+851: 0x11B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 852: 0x11BB [0x23] WAIT_FOR_DIALOG_INTERACTION
 853: 0x11BC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-854: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+854: 0x11BF [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 855: 0x11C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 856: 0x11C3 [0x01] GOTO 0x106A
@@ -1859,11 +1859,11 @@ SUBROUTINE_11C6:
 865: 0x11FA [0x01] GOTO 0x106A
 866: 0x11FD [0x01] GOTO 0x1211
 867: 0x1200 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-868: 0x1203 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+868: 0x1203 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 869: 0x1206 [0x23] WAIT_FOR_DIALOG_INTERACTION
 870: 0x1207 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-871: 0x120A [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+871: 0x120A [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 872: 0x120D [0x23] WAIT_FOR_DIALOG_INTERACTION
 873: 0x120E [0x01] GOTO 0x106A
@@ -1881,11 +1881,11 @@ SUBROUTINE_1217:
 SUBROUTINE_1222:
 878: 0x1222 [0x03] Work_Zone_1700[30] = 2071*
 879: 0x1227 [0x03] Work_Zone_1700[31] = 1*
-880: 0x122C [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
+880: 0x122C [0x24] CREATE_DIALOG(message_id=6217*, default_option=0*, option_flags=0*)
     → "What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]"
 881: 0x1233 [0x25] WAIT_DIALOG_SELECT()
 882: 0x1234 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1246
-883: 0x123C [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+883: 0x123C [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 884: 0x123F [0x23] WAIT_FOR_DIALOG_INTERACTION
 885: 0x1240 [0x01] GOTO 0x0032
@@ -1894,11 +1894,11 @@ SUBROUTINE_1262:
 886: 0x1262 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 15*-19*)
 887: 0x126B [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x127F
 888: 0x1273 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-889: 0x1278 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+889: 0x1278 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 890: 0x127B [0x23] WAIT_FOR_DIALOG_INTERACTION
 891: 0x127C [0x01] GOTO 0x1283
-892: 0x127F [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+892: 0x127F [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 893: 0x1282 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1908,11 +1908,11 @@ SUBROUTINE_1283:
 896: 0x128D [0x03] Work_Zone_1700[3] = 10523*
 897: 0x1292 [0x03] Work_Zone_1700[4] = 10554*
 898: 0x1297 [0x03] Work_Zone_1700[5] = 10620*
-899: 0x129C [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+899: 0x129C [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 900: 0x12A3 [0x25] WAIT_DIALOG_SELECT()
 901: 0x12A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x12B6
-902: 0x12AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+902: 0x12AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 903: 0x12AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 904: 0x12B0 [0x01] GOTO 0x1222
@@ -1929,11 +1929,11 @@ SUBROUTINE_12FE:
 913: 0x1332 [0x01] GOTO 0x1283
 914: 0x1335 [0x01] GOTO 0x1349
 915: 0x1338 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-916: 0x133B [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+916: 0x133B [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 917: 0x133E [0x23] WAIT_FOR_DIALOG_INTERACTION
 918: 0x133F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-919: 0x1342 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+919: 0x1342 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 920: 0x1345 [0x23] WAIT_FOR_DIALOG_INTERACTION
 921: 0x1346 [0x01] GOTO 0x1283
@@ -1950,11 +1950,11 @@ SUBROUTINE_1349:
 930: 0x137D [0x01] GOTO 0x1283
 931: 0x1380 [0x01] GOTO 0x1394
 932: 0x1383 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-933: 0x1386 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+933: 0x1386 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 934: 0x1389 [0x23] WAIT_FOR_DIALOG_INTERACTION
 935: 0x138A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-936: 0x138D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+936: 0x138D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 937: 0x1390 [0x23] WAIT_FOR_DIALOG_INTERACTION
 938: 0x1391 [0x01] GOTO 0x1283
@@ -1971,11 +1971,11 @@ SUBROUTINE_1394:
 947: 0x13C8 [0x01] GOTO 0x1283
 948: 0x13CB [0x01] GOTO 0x13DF
 949: 0x13CE [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-950: 0x13D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+950: 0x13D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 951: 0x13D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 952: 0x13D5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-953: 0x13D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+953: 0x13D8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 954: 0x13DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 955: 0x13DC [0x01] GOTO 0x1283
@@ -1992,11 +1992,11 @@ SUBROUTINE_13DF:
 964: 0x1413 [0x01] GOTO 0x1283
 965: 0x1416 [0x01] GOTO 0x142A
 966: 0x1419 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-967: 0x141C [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+967: 0x141C [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 968: 0x141F [0x23] WAIT_FOR_DIALOG_INTERACTION
 969: 0x1420 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-970: 0x1423 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+970: 0x1423 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 971: 0x1426 [0x23] WAIT_FOR_DIALOG_INTERACTION
 972: 0x1427 [0x01] GOTO 0x1283
@@ -2016,11 +2016,11 @@ SUBROUTINE_144C:
 980: 0x144C [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 15*-19*)
 981: 0x1455 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1469
 982: 0x145D [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-983: 0x1462 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+983: 0x1462 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 984: 0x1465 [0x23] WAIT_FOR_DIALOG_INTERACTION
 985: 0x1466 [0x01] GOTO 0x146D
-986: 0x1469 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+986: 0x1469 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 987: 0x146C [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2030,11 +2030,11 @@ SUBROUTINE_146D:
 990: 0x1477 [0x03] Work_Zone_1700[3] = 10528*
 991: 0x147C [0x03] Work_Zone_1700[4] = 10559*
 992: 0x1481 [0x03] Work_Zone_1700[5] = 10625*
-993: 0x1486 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+993: 0x1486 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 994: 0x148D [0x25] WAIT_DIALOG_SELECT()
 995: 0x148E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14A0
-996: 0x1496 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+996: 0x1496 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 997: 0x1499 [0x23] WAIT_FOR_DIALOG_INTERACTION
 998: 0x149A [0x01] GOTO 0x1222
@@ -2051,11 +2051,11 @@ SUBROUTINE_14E8:
 1007: 0x151C [0x01] GOTO 0x146D
 1008: 0x151F [0x01] GOTO 0x1533
 1009: 0x1522 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1010: 0x1525 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1010: 0x1525 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1011: 0x1528 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1012: 0x1529 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1013: 0x152C [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1013: 0x152C [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1014: 0x152F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1015: 0x1530 [0x01] GOTO 0x146D
@@ -2072,11 +2072,11 @@ SUBROUTINE_1533:
 1024: 0x1567 [0x01] GOTO 0x146D
 1025: 0x156A [0x01] GOTO 0x157E
 1026: 0x156D [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1027: 0x1570 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1027: 0x1570 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1028: 0x1573 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1029: 0x1574 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1030: 0x1577 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1030: 0x1577 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1031: 0x157A [0x23] WAIT_FOR_DIALOG_INTERACTION
 1032: 0x157B [0x01] GOTO 0x146D
@@ -2093,11 +2093,11 @@ SUBROUTINE_157E:
 1041: 0x15B2 [0x01] GOTO 0x146D
 1042: 0x15B5 [0x01] GOTO 0x15C9
 1043: 0x15B8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1044: 0x15BB [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1044: 0x15BB [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1045: 0x15BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 1046: 0x15BF [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1047: 0x15C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1047: 0x15C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1048: 0x15C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1049: 0x15C6 [0x01] GOTO 0x146D
@@ -2114,11 +2114,11 @@ SUBROUTINE_15C9:
 1058: 0x15FD [0x01] GOTO 0x146D
 1059: 0x1600 [0x01] GOTO 0x1614
 1060: 0x1603 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1061: 0x1606 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1061: 0x1606 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1062: 0x1609 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1063: 0x160A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1064: 0x160D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1064: 0x160D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1065: 0x1610 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1066: 0x1611 [0x01] GOTO 0x146D
@@ -2138,11 +2138,11 @@ SUBROUTINE_1636:
 1074: 0x1636 [0x41] ExtData[1]->WorkLocal[0] = Work_Zone[3] (bits 15*-19*)
 1075: 0x163F [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x1653
 1076: 0x1647 [0x03] Work_Zone_1700[29] = ExtData[1]->WorkLocal[0]
-1077: 0x164C [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
+1077: 0x164C [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[as well as/but do possess] $% of the fragments necessary to '[assemble another/assemble] one."
 1078: 0x164F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1079: 0x1650 [0x01] GOTO 0x1657
-1080: 0x1653 [0x1D] PRINT_EVENT_MESSAGE(message_id=6219*)
+1080: 0x1653 [0x1D] PRINT_EVENT_MESSAGE(message_id=6220*)
     → "You currently '[possess/do not possess] a fully assembled $3, '[but have/and have] none of the fragments necessary to '[assemble another/assemble] one."
 1081: 0x1656 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2152,11 +2152,11 @@ SUBROUTINE_1657:
 1084: 0x1661 [0x03] Work_Zone_1700[3] = 10533*
 1085: 0x1666 [0x03] Work_Zone_1700[4] = 10564*
 1086: 0x166B [0x03] Work_Zone_1700[5] = 10630*
-1087: 0x1670 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+1087: 0x1670 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 1088: 0x1677 [0x25] WAIT_DIALOG_SELECT()
 1089: 0x1678 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x168A
-1090: 0x1680 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1090: 0x1680 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1091: 0x1683 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1092: 0x1684 [0x01] GOTO 0x1222
@@ -2173,11 +2173,11 @@ SUBROUTINE_16D2:
 1101: 0x1706 [0x01] GOTO 0x1657
 1102: 0x1709 [0x01] GOTO 0x171D
 1103: 0x170C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1104: 0x170F [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1104: 0x170F [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1105: 0x1712 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1106: 0x1713 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1107: 0x1716 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1107: 0x1716 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1108: 0x1719 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1109: 0x171A [0x01] GOTO 0x1657
@@ -2194,11 +2194,11 @@ SUBROUTINE_171D:
 1118: 0x1751 [0x01] GOTO 0x1657
 1119: 0x1754 [0x01] GOTO 0x1768
 1120: 0x1757 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1121: 0x175A [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1121: 0x175A [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1122: 0x175D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1123: 0x175E [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1124: 0x1761 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1124: 0x1761 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1125: 0x1764 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1126: 0x1765 [0x01] GOTO 0x1657
@@ -2215,11 +2215,11 @@ SUBROUTINE_1768:
 1135: 0x179C [0x01] GOTO 0x1657
 1136: 0x179F [0x01] GOTO 0x17B3
 1137: 0x17A2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1138: 0x17A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1138: 0x17A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1139: 0x17A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1140: 0x17A9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1141: 0x17AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1141: 0x17AC [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1142: 0x17AF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1143: 0x17B0 [0x01] GOTO 0x1657
@@ -2236,11 +2236,11 @@ SUBROUTINE_17B3:
 1152: 0x17E7 [0x01] GOTO 0x1657
 1153: 0x17EA [0x01] GOTO 0x17FE
 1154: 0x17ED [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1155: 0x17F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1155: 0x17F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1156: 0x17F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1157: 0x17F4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1158: 0x17F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1158: 0x17F7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1159: 0x17FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1160: 0x17FB [0x01] GOTO 0x1657
@@ -2258,17 +2258,17 @@ SUBROUTINE_1804:
 SUBROUTINE_180F:
 1165: 0x180F [0x03] Work_Zone_1700[30] = 2072*
 1166: 0x1814 [0x03] Work_Zone_1700[31] = 1*
-1167: 0x1819 [0x24] CREATE_DIALOG(message_id=6216*, default_option=0*, option_flags=0*)
+1167: 0x1819 [0x24] CREATE_DIALOG(message_id=6217*, default_option=0*, option_flags=0*)
     → "What would you like? [On second thought, nothing./'[Rheic/Phorcys] armor./'[Euxine/Thaumas] armor./'[Tethyan/Nares] armor.]"
 1168: 0x1820 [0x25] WAIT_DIALOG_SELECT()
 1169: 0x1821 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1833
-1170: 0x1829 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1170: 0x1829 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1171: 0x182C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1172: 0x182D [0x01] GOTO 0x0032
 
 SUBROUTINE_184F:
-1173: 0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=6217*)
+1173: 0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
     → "You currently '[possess/do not possess] a fully assembled $3."
 1174: 0x1852 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2278,11 +2278,11 @@ SUBROUTINE_1853:
 1177: 0x185D [0x03] Work_Zone_1700[3] = 10523*
 1178: 0x1862 [0x03] Work_Zone_1700[4] = 10554*
 1179: 0x1867 [0x03] Work_Zone_1700[5] = 10620*
-1180: 0x186C [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+1180: 0x186C [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 1181: 0x1873 [0x25] WAIT_DIALOG_SELECT()
 1182: 0x1874 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1886
-1183: 0x187C [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1183: 0x187C [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1184: 0x187F [0x23] WAIT_FOR_DIALOG_INTERACTION
 1185: 0x1880 [0x01] GOTO 0x180F
@@ -2299,11 +2299,11 @@ SUBROUTINE_18CE:
 1194: 0x1902 [0x01] GOTO 0x1853
 1195: 0x1905 [0x01] GOTO 0x1919
 1196: 0x1908 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1197: 0x190B [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1197: 0x190B [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1198: 0x190E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1199: 0x190F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1200: 0x1912 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1200: 0x1912 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1201: 0x1915 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1202: 0x1916 [0x01] GOTO 0x1853
@@ -2320,11 +2320,11 @@ SUBROUTINE_1919:
 1211: 0x194D [0x01] GOTO 0x1853
 1212: 0x1950 [0x01] GOTO 0x1964
 1213: 0x1953 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1214: 0x1956 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1214: 0x1956 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1215: 0x1959 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1216: 0x195A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1217: 0x195D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1217: 0x195D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1218: 0x1960 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1219: 0x1961 [0x01] GOTO 0x1853
@@ -2341,11 +2341,11 @@ SUBROUTINE_1964:
 1228: 0x1998 [0x01] GOTO 0x1853
 1229: 0x199B [0x01] GOTO 0x19AF
 1230: 0x199E [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1231: 0x19A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1231: 0x19A1 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1232: 0x19A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1233: 0x19A5 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1234: 0x19A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1234: 0x19A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1235: 0x19AB [0x23] WAIT_FOR_DIALOG_INTERACTION
 1236: 0x19AC [0x01] GOTO 0x1853
@@ -2362,11 +2362,11 @@ SUBROUTINE_19AF:
 1245: 0x19E3 [0x01] GOTO 0x1853
 1246: 0x19E6 [0x01] GOTO 0x19FA
 1247: 0x19E9 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1248: 0x19EC [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1248: 0x19EC [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1249: 0x19EF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1250: 0x19F0 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1251: 0x19F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1251: 0x19F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1252: 0x19F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1253: 0x19F7 [0x01] GOTO 0x1853
@@ -2383,7 +2383,7 @@ SUBROUTINE_19FD:
 1260: 0x1A17 [0x03] Work_Zone_1700[31] = 1*
 
 SUBROUTINE_1A1C:
-1261: 0x1A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=6217*)
+1261: 0x1A1C [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
     → "You currently '[possess/do not possess] a fully assembled $3."
 1262: 0x1A1F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2393,11 +2393,11 @@ SUBROUTINE_1A20:
 1265: 0x1A2A [0x03] Work_Zone_1700[3] = 10528*
 1266: 0x1A2F [0x03] Work_Zone_1700[4] = 10559*
 1267: 0x1A34 [0x03] Work_Zone_1700[5] = 10625*
-1268: 0x1A39 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+1268: 0x1A39 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 1269: 0x1A40 [0x25] WAIT_DIALOG_SELECT()
 1270: 0x1A41 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1A53
-1271: 0x1A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1271: 0x1A49 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1272: 0x1A4C [0x23] WAIT_FOR_DIALOG_INTERACTION
 1273: 0x1A4D [0x01] GOTO 0x180F
@@ -2414,11 +2414,11 @@ SUBROUTINE_1A9B:
 1282: 0x1ACF [0x01] GOTO 0x1A20
 1283: 0x1AD2 [0x01] GOTO 0x1AE6
 1284: 0x1AD5 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1285: 0x1AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1285: 0x1AD8 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1286: 0x1ADB [0x23] WAIT_FOR_DIALOG_INTERACTION
 1287: 0x1ADC [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1288: 0x1ADF [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1288: 0x1ADF [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1289: 0x1AE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1290: 0x1AE3 [0x01] GOTO 0x1A20
@@ -2435,11 +2435,11 @@ SUBROUTINE_1AE6:
 1299: 0x1B1A [0x01] GOTO 0x1A20
 1300: 0x1B1D [0x01] GOTO 0x1B31
 1301: 0x1B20 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1302: 0x1B23 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1302: 0x1B23 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1303: 0x1B26 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1304: 0x1B27 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1305: 0x1B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1305: 0x1B2A [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1306: 0x1B2D [0x23] WAIT_FOR_DIALOG_INTERACTION
 1307: 0x1B2E [0x01] GOTO 0x1A20
@@ -2456,11 +2456,11 @@ SUBROUTINE_1B31:
 1316: 0x1B65 [0x01] GOTO 0x1A20
 1317: 0x1B68 [0x01] GOTO 0x1B7C
 1318: 0x1B6B [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1319: 0x1B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1319: 0x1B6E [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1320: 0x1B71 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1321: 0x1B72 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1322: 0x1B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1322: 0x1B75 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1323: 0x1B78 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1324: 0x1B79 [0x01] GOTO 0x1A20
@@ -2477,11 +2477,11 @@ SUBROUTINE_1B7C:
 1333: 0x1BB0 [0x01] GOTO 0x1A20
 1334: 0x1BB3 [0x01] GOTO 0x1BC7
 1335: 0x1BB6 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1336: 0x1BB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1336: 0x1BB9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1337: 0x1BBC [0x23] WAIT_FOR_DIALOG_INTERACTION
 1338: 0x1BBD [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1339: 0x1BC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1339: 0x1BC0 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1340: 0x1BC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1341: 0x1BC4 [0x01] GOTO 0x1A20
@@ -2498,7 +2498,7 @@ SUBROUTINE_1BCA:
 1348: 0x1BE4 [0x03] Work_Zone_1700[31] = 1*
 
 SUBROUTINE_1BE9:
-1349: 0x1BE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6217*)
+1349: 0x1BE9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6218*)
     → "You currently '[possess/do not possess] a fully assembled $3."
 1350: 0x1BEC [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2508,11 +2508,11 @@ SUBROUTINE_1BED:
 1353: 0x1BF7 [0x03] Work_Zone_1700[3] = 10533*
 1354: 0x1BFC [0x03] Work_Zone_1700[4] = 10564*
 1355: 0x1C01 [0x03] Work_Zone_1700[5] = 10630*
-1356: 0x1C06 [0x24] CREATE_DIALOG(message_id=6220*, default_option=0*, option_flags=0*)
+1356: 0x1C06 [0x24] CREATE_DIALOG(message_id=6221*, default_option=0*, option_flags=0*)
     → "Which item do you wish to purchase? [Nothing for now./$9./$10./$11./$12./$13.]"
 1357: 0x1C0D [0x25] WAIT_DIALOG_SELECT()
 1358: 0x1C0E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1C20
-1359: 0x1C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1359: 0x1C16 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1360: 0x1C19 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1361: 0x1C1A [0x01] GOTO 0x180F
@@ -2529,11 +2529,11 @@ SUBROUTINE_1C68:
 1370: 0x1C9C [0x01] GOTO 0x1BED
 1371: 0x1C9F [0x01] GOTO 0x1CB3
 1372: 0x1CA2 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1373: 0x1CA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1373: 0x1CA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1374: 0x1CA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1375: 0x1CA9 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1376: 0x1CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1376: 0x1CAC [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1377: 0x1CAF [0x23] WAIT_FOR_DIALOG_INTERACTION
 1378: 0x1CB0 [0x01] GOTO 0x1BED
@@ -2550,11 +2550,11 @@ SUBROUTINE_1CB3:
 1387: 0x1CE7 [0x01] GOTO 0x1BED
 1388: 0x1CEA [0x01] GOTO 0x1CFE
 1389: 0x1CED [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1390: 0x1CF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1390: 0x1CF0 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1391: 0x1CF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1392: 0x1CF4 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1393: 0x1CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1393: 0x1CF7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1394: 0x1CFA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1395: 0x1CFB [0x01] GOTO 0x1BED
@@ -2571,11 +2571,11 @@ SUBROUTINE_1CFE:
 1404: 0x1D32 [0x01] GOTO 0x1BED
 1405: 0x1D35 [0x01] GOTO 0x1D49
 1406: 0x1D38 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1407: 0x1D3B [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1407: 0x1D3B [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1408: 0x1D3E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1409: 0x1D3F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1410: 0x1D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1410: 0x1D42 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1411: 0x1D45 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1412: 0x1D46 [0x01] GOTO 0x1BED
@@ -2592,11 +2592,11 @@ SUBROUTINE_1D49:
 1421: 0x1D7D [0x01] GOTO 0x1BED
 1422: 0x1D80 [0x01] GOTO 0x1D94
 1423: 0x1D83 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1424: 0x1D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=6221*)
+1424: 0x1D86 [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
     → "Without $6 in your possession, we cannot offer you $39."
 1425: 0x1D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1426: 0x1D8A [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1427: 0x1D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1427: 0x1D8D [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1428: 0x1D90 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1429: 0x1D91 [0x01] GOTO 0x1BED
@@ -2610,7 +2610,7 @@ SUBROUTINE_1D97:
 SUBROUTINE_1D9A:
 1432: 0x1D9A [0x01] GOTO 0x1DAF
 1433: 0x1D9D [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x1DAF
-1434: 0x1DA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1434: 0x1DA5 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1435: 0x1DA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1436: 0x1DA9 [0x01] GOTO 0x0022
@@ -2618,35 +2618,35 @@ SUBROUTINE_1D9A:
 SUBROUTINE_1DAF:
 1437: 0x1DAF [0x01] GOTO 0x1DFC
 1438: 0x1DB2 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1DED
-1439: 0x1DBA [0x1D] PRINT_EVENT_MESSAGE(message_id=6222*)
+1439: 0x1DBA [0x1D] PRINT_EVENT_MESSAGE(message_id=6223*)
     → "Ah, astraria! Remarkable relics of an era long forgotten!"
 1440: 0x1DBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 1441: 0x1DBE [0x03] Work_Zone_1700[31] = 5*
-1442: 0x1DC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6223*)
+1442: 0x1DC3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6224*)
     → "Ancient astronomical clocks, they are, once used by the denizens of these parts to predict changes in the weather and seasons...or so we surmise."
 1443: 0x1DC6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1444: 0x1DC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6224*)
+1444: 0x1DC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6225*)
     → "Though the astraria we have unearthed have been far too weathered and waterlogged to serve their original function, they have proven a veritable treasure trove of insight into the civilization that created them."
 1445: 0x1DCA [0x23] WAIT_FOR_DIALOG_INTERACTION
-1446: 0x1DCB [0x1D] PRINT_EVENT_MESSAGE(message_id=6225*)
+1446: 0x1DCB [0x1D] PRINT_EVENT_MESSAGE(message_id=6226*)
     → "To call them the key to answering questions we have pondered for so long is no understatement."
 1447: 0x1DCE [0x23] WAIT_FOR_DIALOG_INTERACTION
-1448: 0x1DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=6226*)
+1448: 0x1DCF [0x1D] PRINT_EVENT_MESSAGE(message_id=6227*)
     → ""What does this have to do with me," you ask? An astute question, if I do say so myself!"
 1449: 0x1DD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1450: 0x1DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6227*)
+1450: 0x1DD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=6228*)
     → "My colleagues and I are but humble students of archaeology. We have neither the courage nor the wherewithal to venture into the depths to recover the artifacts so vital to our research."
 1451: 0x1DD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1452: 0x1DD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6228*)
+1452: 0x1DD7 [0x1D] PRINT_EVENT_MESSAGE(message_id=6229*)
     → "Thus we are dependent on mercenaries like yourself. We would be greatly in your debt if you could recover and return to us any astraria you might come across in your travels."
 1453: 0x1DDA [0x23] WAIT_FOR_DIALOG_INTERACTION
-1454: 0x1DDB [0x1D] PRINT_EVENT_MESSAGE(message_id=6229*)
+1454: 0x1DDB [0x1D] PRINT_EVENT_MESSAGE(message_id=6230*)
     → "A single astrarium is a sizable apparatus. For reasons unbeknownst to us, they are most often found shattered into numerous pieces. Five, to be exact."
 1455: 0x1DDE [0x23] WAIT_FOR_DIALOG_INTERACTION
-1456: 0x1DDF [0x1D] PRINT_EVENT_MESSAGE(message_id=6230*)
+1456: 0x1DDF [0x1D] PRINT_EVENT_MESSAGE(message_id=6231*)
     → "Assemble a full astrarium and deliver it to us, and we shall reward you with other artifacts we have recovered--equally rare, but far more practical to one of your profession. Needless to say, the exchange would be to our mutual benefit."
 1457: 0x1DE2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-1458: 0x1DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1458: 0x1DE3 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1459: 0x1DE6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1460: 0x1DE7 [0x01] GOTO 0x0022
@@ -2662,11 +2662,11 @@ SUBROUTINE_1DFE:
 1466: 0x1E0B [0x03] ExtData[1]->WorkLocal[0] = 0*
 1467: 0x1E10 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x1E52
 1468: 0x1E18 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1469: 0x1E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=5758*)
+1469: 0x1E1B [0x1D] PRINT_EVENT_MESSAGE(message_id=5759*)
     → "You cannot equip the $39. Do you still wish to proceed?"
 1470: 0x1E1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 1471: 0x1E1F [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1472: 0x1E22 [0x24] CREATE_DIALOG(message_id=5763*, default_option=1*, option_flags=0*)
+1472: 0x1E22 [0x24] CREATE_DIALOG(message_id=5764*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes, even though I can't equip it./Cancel purchase.]"
 1473: 0x1E29 [0x25] WAIT_DIALOG_SELECT()
 1474: 0x1E2A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E36
@@ -2674,7 +2674,7 @@ SUBROUTINE_1DFE:
 1476: 0x1E33 [0x01] GOTO 0x1E4F
 1477: 0x1E36 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E4F
 1478: 0x1E3E [0x03] Work_Zone[1] = 0*
-1479: 0x1E43 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1479: 0x1E43 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1480: 0x1E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1481: 0x1E47 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -2684,11 +2684,11 @@ SUBROUTINE_1E4F:
 1483: 0x1E4F [0x01] GOTO 0x1ED6
 1484: 0x1E52 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x1E94
 1485: 0x1E5A [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1486: 0x1E5D [0x1D] PRINT_EVENT_MESSAGE(message_id=5759*)
+1486: 0x1E5D [0x1D] PRINT_EVENT_MESSAGE(message_id=5760*)
     → "Your level is too low to equip the $39. Do you still wish to proceed?"
 1487: 0x1E60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1488: 0x1E61 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1489: 0x1E64 [0x24] CREATE_DIALOG(message_id=5763*, default_option=1*, option_flags=0*)
+1489: 0x1E64 [0x24] CREATE_DIALOG(message_id=5764*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes, even though I can't equip it./Cancel purchase.]"
 1490: 0x1E6B [0x25] WAIT_DIALOG_SELECT()
 1491: 0x1E6C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1E78
@@ -2696,7 +2696,7 @@ SUBROUTINE_1E4F:
 1493: 0x1E75 [0x01] GOTO 0x1E91
 1494: 0x1E78 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1E91
 1495: 0x1E80 [0x03] Work_Zone[1] = 0*
-1496: 0x1E85 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1496: 0x1E85 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1497: 0x1E88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1498: 0x1E89 [0x03] ExtData[1]->WorkLocal[0] = 1*
@@ -2706,11 +2706,11 @@ SUBROUTINE_1E91:
 1500: 0x1E91 [0x01] GOTO 0x1ED6
 1501: 0x1E94 [0x02] IF !(Work_Zone[9] == 2*) GOTO 0x1ED6
 1502: 0x1E9C [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone_1700[31])
-1503: 0x1E9F [0x1D] PRINT_EVENT_MESSAGE(message_id=5760*)
+1503: 0x1E9F [0x1D] PRINT_EVENT_MESSAGE(message_id=5761*)
     → "You seem to be able to equip the $39. Do you wish to proceed?"
 1504: 0x1EA2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 1505: 0x1EA3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-1506: 0x1EA6 [0x24] CREATE_DIALOG(message_id=5762*, default_option=1*, option_flags=0*)
+1506: 0x1EA6 [0x24] CREATE_DIALOG(message_id=5763*, default_option=1*, option_flags=0*)
     → "Proceed? [Yes, purchase item./Cancel purchase.]"
 1507: 0x1EAD [0x25] WAIT_DIALOG_SELECT()
 1508: 0x1EAE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1EBA
@@ -2718,7 +2718,7 @@ SUBROUTINE_1E91:
 1510: 0x1EB7 [0x01] GOTO 0x1ED3
 1511: 0x1EBA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x1ED3
 1512: 0x1EC2 [0x03] Work_Zone[1] = 0*
-1513: 0x1EC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5776*)
+1513: 0x1EC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=5777*)
     → "Is there anything else I can help you with?"
 1514: 0x1ECA [0x23] WAIT_FOR_DIALOG_INTERACTION
 1515: 0x1ECB [0x03] ExtData[1]->WorkLocal[0] = 1*

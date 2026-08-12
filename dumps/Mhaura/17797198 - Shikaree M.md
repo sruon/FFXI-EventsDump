@@ -71,12 +71,12 @@
 |      23 | 0xFFFF4A0E  |  4294920718 |
 |      24 | 0x98CA      |       39114 |
 |      25 | 0xFFFFC0CE  |  4294951118 |
-|      26 | 0x1C80      |        7296 |
-|      27 | 0x1C81      |        7297 |
-|      28 | 0x1C82      |        7298 |
-|      29 | 0x1C83      |        7299 |
-|      30 | 0x1C84      |        7300 |
-|      31 | 0x1C85      |        7301 |
+|      26 | 0x1C81      |        7297 |
+|      27 | 0x1C82      |        7298 |
+|      28 | 0x1C83      |        7299 |
+|      29 | 0x1C84      |        7300 |
+|      30 | 0x1C85      |        7301 |
+|      31 | 0x1C86      |        7302 |
 |      32 | 0x0018      |          24 |
 |      33 | 0x0008      |           8 |
 |      34 | 0x000A      |          10 |
@@ -86,12 +86,12 @@
 
 ## String References
 
-- **7296**: I go now to check the verrracity of that story, to see for my own eyes the body of Syu Befrathi, daughter of Chieftainness Nhev Befrathi.
-- **7297**: I have heard from the townspeople that dangerous creatures rrroam the dark hallways of the Eldieme Necropolis.
-- **7298**: It is a place that cannot be entered alone. But of course, I have no intention of giving up on my quarrry.
-- **7299**: You are one of the brrreed they call adventurers, right? Adventurers are said to take on almost any kind of work as long as the pay is good.
-- **7300**: I will follow after you, keeping out of sight. Clear the path ahead, making for the cemetery in the center of the necropolis.
-- **7301**: Meet me at the necropolis, and don't be late.
+- **7297**: I go now to check the verrracity of that story, to see for my own eyes the body of Syu Befrathi, daughter of Chieftainness Nhev Befrathi.
+- **7298**: I have heard from the townspeople that dangerous creatures rrroam the dark hallways of the Eldieme Necropolis.
+- **7299**: It is a place that cannot be entered alone. But of course, I have no intention of giving up on my quarrry.
+- **7300**: You are one of the brrreed they call adventurers, right? Adventurers are said to take on almost any kind of work as long as the pay is good.
+- **7301**: I will follow after you, keeping out of sight. Clear the path ahead, making for the cemetery in the center of the necropolis.
+- **7302**: Meet me at the necropolis, and don't be late.
 
 ## Events
 
@@ -662,7 +662,7 @@
 #### Opcodes
 
 ```
-  0: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=7296*)
+  0: 0x0546 [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
     → "I go now to check the verrracity of that story, to see for my own eyes the body of Syu Befrathi, daughter of Chieftainness Nhev Befrathi."
   1: 0x0549 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x054A [0x00] END_REQSTACK()
@@ -688,10 +688,10 @@
 #### Opcodes
 
 ```
-  0: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=7297*)
+  0: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
     → "I have heard from the townspeople that dangerous creatures rrroam the dark hallways of the Eldieme Necropolis."
   1: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
+  2: 0x054F [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
     → "It is a place that cannot be entered alone. But of course, I have no intention of giving up on my quarrry."
   3: 0x0552 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0553 [0x00] END_REQSTACK()
@@ -716,7 +716,7 @@
 #### Opcodes
 
 ```
-  0: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
+  0: 0x0554 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
     → "You are one of the brrreed they call adventurers, right? Adventurers are said to take on almost any kind of work as long as the pay is good."
   1: 0x0557 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0558 [0x00] END_REQSTACK()
@@ -741,7 +741,7 @@
 #### Opcodes
 
 ```
-  0: 0x0559 [0x1D] PRINT_EVENT_MESSAGE(message_id=7300*)
+  0: 0x0559 [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
     → "I will follow after you, keeping out of sight. Clear the path ahead, making for the cemetery in the center of the necropolis."
   1: 0x055C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x055D [0x00] END_REQSTACK()
@@ -767,7 +767,7 @@
 #### Opcodes
 
 ```
-  0: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7301*)
+  0: 0x055E [0x1D] PRINT_EVENT_MESSAGE(message_id=7302*)
     → "Meet me at the necropolis, and don't be late."
   1: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0562 [0x00] END_REQSTACK()

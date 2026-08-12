@@ -22,31 +22,31 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1BA1      |        7073 |
+|       0 | 0x1BA2      |        7074 |
 |       1 | 0x038E      |         910 |
-|       2 | 0x1BA4      |        7076 |
+|       2 | 0x1BA5      |        7077 |
 |       3 | 0x0001      |           1 |
 |       4 | 0x0000      |           0 |
 |       5 | 0x00C8      |         200 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x0013      |          19 |
 |       8 | 0x0155      |         341 |
-|       9 | 0x1BA3      |        7075 |
+|       9 | 0x1BA4      |        7076 |
 |      10 | 0x00C9      |         201 |
-|      11 | 0x1BA2      |        7074 |
+|      11 | 0x1BA3      |        7075 |
 |      12 | 0x0078      |         120 |
 |      13 | 0x001E      |          30 |
 |      14 | 0x0B1B      |        2843 |
-|      15 | 0x1BB3      |        7091 |
+|      15 | 0x1BB4      |        7092 |
 |      16 | 0x0002      |           2 |
 
 ## String References
 
-- **7073**: You can feel the warm, moist breath of the maw on your skin.
-- **7074**: An unseen force is drawing you towards the maw.
-- **7075**: A portal has opened within the depths of the maw.
-- **7076**: Raise your $3? [Yes./No.]
-- **7091**: To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]
+- **7074**: You can feel the warm, moist breath of the maw on your skin.
+- **7075**: An unseen force is drawing you towards the maw.
+- **7076**: A portal has opened within the depths of the maw.
+- **7077**: Raise your $3? [Yes./No.]
+- **7092**: To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]
 
 ## Events
 
@@ -105,11 +105,11 @@
 
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0003 [0x48] [System] [7073*]:
+  1: 0x0003 [0x48] [System] [7074*]:
     → "You can feel the warm, moist breath of the maw on your skin."
   2: 0x0006 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0007 [0x03] Work_Zone[2] = 910*
-  4: 0x000C [0x24] CREATE_DIALOG(message_id=7076*, default_option=1*, option_flags=0*)
+  4: 0x000C [0x24] CREATE_DIALOG(message_id=7077*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x0013 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0014 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00CF
@@ -124,7 +124,7 @@
  15: 0x003F [0x29] REQ_SET_WAIT(priority=0x01, entity_id=LocalPlayer, tag_num=0x03)
  16: 0x0046 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "at04" with entities [LocalPlayer, LocalPlayer], work=[341*, 0*]
  17: 0x0057 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 18: 0x0068 [0x48] [System] [7075*]:
+ 18: 0x0068 [0x48] [System] [7076*]:
     → "A portal has opened within the depths of the maw."
  19: 0x006B [0x1C] WAIT(60* ticks)
  20: 0x006E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -183,11 +183,11 @@ SUBROUTINE_00DA:
 
 ```
   0: 0x00DE [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00E0 [0x48] [System] [7074*]:
+  1: 0x00E0 [0x48] [System] [7075*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00E4 [0x03] Work_Zone[2] = 910*
-  4: 0x00E9 [0x24] CREATE_DIALOG(message_id=7076*, default_option=1*, option_flags=0*)
+  4: 0x00E9 [0x24] CREATE_DIALOG(message_id=7077*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x00F0 [0x25] WAIT_DIALOG_SELECT()
   6: 0x00F1 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01F2
@@ -282,16 +282,16 @@ SUBROUTINE_01FD:
 
 ```
   0: 0x0201 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0203 [0x48] [System] [7074*]:
+  1: 0x0203 [0x48] [System] [7075*]:
     → "An unseen force is drawing you towards the maw."
   2: 0x0206 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0207 [0x03] Work_Zone[2] = 2843*
-  4: 0x020C [0x24] CREATE_DIALOG(message_id=7076*, default_option=1*, option_flags=0*)
+  4: 0x020C [0x24] CREATE_DIALOG(message_id=7077*, default_option=1*, option_flags=0*)
     → "Raise your $3? [Yes./No.]"
   5: 0x0213 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0214 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0439
   7: 0x021C [0x03] Work_Zone[2] = 1*
-  8: 0x0221 [0x24] CREATE_DIALOG(message_id=7091*, default_option=2*, option_flags=0*)
+  8: 0x0221 [0x24] CREATE_DIALOG(message_id=7092*, default_option=2*, option_flags=0*)
     → "To where will you head? [[The past/The present]./Walk of Echoes./Nowhere for now.]"
   9: 0x0228 [0x25] WAIT_DIALOG_SELECT()
  10: 0x0229 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x032A

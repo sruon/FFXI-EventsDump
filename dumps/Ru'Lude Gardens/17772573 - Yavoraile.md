@@ -30,21 +30,21 @@
 |       2 | 0x07CB      |        1995 |
 |       3 | 0x0BEC      |        3052 |
 |       4 | 0x000A      |          10 |
-|       5 | 0x2807      |       10247 |
-|       6 | 0x3614      |       13844 |
+|       5 | 0x2808      |       10248 |
+|       6 | 0x3615      |       13845 |
 |       7 | 0x001E      |          30 |
-|       8 | 0x361B      |       13851 |
-|       9 | 0x361C      |       13852 |
+|       8 | 0x361C      |       13852 |
+|       9 | 0x361D      |       13853 |
 |      10 | 0x8D91      |       36241 |
 |      11 | 0x117AB     |       71595 |
 |      12 | 0x04F2      |        1266 |
 
 ## String References
 
-- **10247**: The archduke hosts so many dignitaries, every night is a banquet. Composing original menus makes me fret!
-- **13844**: <Player>'s badge flashes brightly.
-- **13851**: Near Eastern cuisine is all the rage now. Lately I've been studying up on it to add some spice to the palace banquets.
-- **13852**: Near Eastern cooking is considered one of the leading cuisines in Vana'diel, so I am sure the archduke will be most pleased.
+- **10248**: The archduke hosts so many dignitaries, every night is a banquet. Composing original menus makes me fret!
+- **13845**: <Player>'s badge flashes brightly.
+- **13852**: Near Eastern cuisine is all the rage now. Lately I've been studying up on it to add some spice to the palace banquets.
+- **13853**: Near Eastern cooking is considered one of the leading cuisines in Vana'diel, so I am sure the archduke will be most pleased.
 
 ## Events
 
@@ -120,7 +120,7 @@
   1: 0x0010 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0011 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0012 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  4: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
+  4: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
     → "The archduke hosts so many dignitaries, every night is a banquet. Composing original menus makes me fret!"
   5: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0025 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=10*
@@ -152,15 +152,15 @@
 
 ```
   0: 0x0043 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0044 [0x48] [System] [13844*]:
+  1: 0x0044 [0x48] [System] [13845*]:
     → "<Player>'s badge flashes brightly."
   2: 0x0047 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x004C [0x1C] WAIT(30* ticks)
   4: 0x004F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=10*
-  5: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=13851*)
+  5: 0x005E [0x1D] PRINT_EVENT_MESSAGE(message_id=13852*)
     → "Near Eastern cuisine is all the rage now. Lately I've been studying up on it to add some spice to the palace banquets."
   6: 0x0061 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=13852*)
+  7: 0x0062 [0x1D] PRINT_EVENT_MESSAGE(message_id=13853*)
     → "Near Eastern cooking is considered one of the leading cuisines in Vana'diel, so I am sure the archduke will be most pleased."
   8: 0x0065 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0066 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=10*

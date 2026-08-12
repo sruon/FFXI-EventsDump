@@ -33,20 +33,20 @@
 |       0 | 0x0028      |          40 |
 |       1 | 0x0029      |          41 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x1F04      |        7940 |
-|       4 | 0x1F05      |        7941 |
-|       5 | 0x2284      |        8836 |
-|       6 | 0x2285      |        8837 |
+|       3 | 0x1F05      |        7941 |
+|       4 | 0x1F06      |        7942 |
+|       5 | 0x2285      |        8837 |
+|       6 | 0x2286      |        8838 |
 |       7 | 0x0001      |           1 |
-|       8 | 0x2286      |        8838 |
+|       8 | 0x2287      |        8839 |
 
 ## String References
 
-- **7940**: Hmm... Tsk-tsk... This is more serious-derious than I thought-dought...
-- **7941**: ...Ah? ...Oh! ...Huh? If you're looking-dooking for the entrance to Heavens Tower, it's on the other side-dide of this poor old star tree that encases it.
-- **8836**: ...Oh, $6! You have Rhinostery authorization-nation.
-- **8837**: ...I heard aboutaru the theory that the withering-dithering of the Star Tree is caused by insects chewing-zewing on the roots.
-- **8838**: We'll leave the extermination-termination of the bugs in your capable hands.
+- **7941**: Hmm... Tsk-tsk... This is more serious-derious than I thought-dought...
+- **7942**: ...Ah? ...Oh! ...Huh? If you're looking-dooking for the entrance to Heavens Tower, it's on the other side-dide of this poor old star tree that encases it.
+- **8837**: ...Oh, $6! You have Rhinostery authorization-nation.
+- **8838**: ...I heard aboutaru the theory that the withering-dithering of the Star Tree is caused by insects chewing-zewing on the roots.
+- **8839**: We'll leave the extermination-termination of the bugs in your capable hands.
 
 ## Events
 
@@ -309,13 +309,13 @@
 
 ```
   0: 0x007B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x01)
-  1: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7940*)
+  1: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
     → "Hmm... Tsk-tsk... This is more serious-derious than I thought-dought..."
   2: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0086 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x008B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   5: 0x008C [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  6: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7941*)
+  6: 0x008D [0x1D] PRINT_EVENT_MESSAGE(message_id=7942*)
     → "...Ah? ...Oh! ...Huh? If you're looking-dooking for the entrance to Heavens Tower, it's on the other side-dide of this poor old star tree that encases it."
   7: 0x0090 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0091 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x08)
@@ -351,18 +351,18 @@
   1: 0x00A1 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x00A2 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x00A3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x06)
-  4: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8836*)
+  4: 0x00AA [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
     → "...Oh, $6! You have Rhinostery authorization-nation."
   5: 0x00AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x00AE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x07)
   7: 0x00B5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x01)
-  8: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8837*)
+  8: 0x00BC [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
     → "...I heard aboutaru the theory that the withering-dithering of the Star Tree is caused by insects chewing-zewing on the roots."
   9: 0x00BF [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x00C0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Polikal-Ramikal (ID: 17756243/0x010EF053), tag_num=0x08)
  11: 0x00C7 [0x6E] EventEntity uses emote 1*
  12: 0x00CE [0x99] Wait for EventEntity animation to complete
- 13: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8838*)
+ 13: 0x00D3 [0x1D] PRINT_EVENT_MESSAGE(message_id=8839*)
     → "We'll leave the extermination-termination of the bugs in your capable hands."
  14: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00D7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -22,13 +22,13 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0013      |          19 |
-|       2 | 0x301E      |       12318 |
-|       3 | 0x301F      |       12319 |
+|       2 | 0x301F      |       12319 |
+|       3 | 0x3020      |       12320 |
 
 ## String References
 
-- **12318**: There's a mining spot in Grauberg where you can dig up some very good quality crystals.
-- **12319**: Apparently the Quadav Shieldwarriors will stop at nothing to gain control of mining resources. That's the reason for the continuing conflict between them and the Republic.
+- **12319**: There's a mining spot in Grauberg where you can dig up some very good quality crystals.
+- **12320**: Apparently the Quadav Shieldwarriors will stop at nothing to gain control of mining resources. That's the reason for the continuing conflict between them and the Republic.
 
 ## Events
 
@@ -78,10 +78,10 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=19*
-  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12318*)
+  3: 0x0018 [0x1D] PRINT_EVENT_MESSAGE(message_id=12319*)
     → "There's a mining spot in Grauberg where you can dig up some very good quality crystals."
   4: 0x001B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12319*)
+  5: 0x001C [0x1D] PRINT_EVENT_MESSAGE(message_id=12320*)
     → "Apparently the Quadav Shieldwarriors will stop at nothing to gain control of mining resources. That's the reason for the continuing conflict between them and the Republic."
   6: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0020 [0x21] END_EVENT

@@ -51,19 +51,19 @@
 |       2 | 0x9CC5      |       40133 |
 |       3 | 0xFFFFF2BA  |  4294963898 |
 |       4 | 0x093A      |        2362 |
-|       5 | 0x1AAB      |        6827 |
-|       6 | 0x1AAC      |        6828 |
-|       7 | 0x1AB1      |        6833 |
-|       8 | 0x1AB2      |        6834 |
-|       9 | 0x1AB3      |        6835 |
+|       5 | 0x1AAC      |        6828 |
+|       6 | 0x1AAD      |        6829 |
+|       7 | 0x1AB2      |        6834 |
+|       8 | 0x1AB3      |        6835 |
+|       9 | 0x1AB4      |        6836 |
 
 ## String References
 
-- **6827**: It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?
-- **6828**: Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!
-- **6833**: These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy.
-- **6834**: The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps...
-- **6835**: We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith.
+- **6828**: It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?
+- **6829**: Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!
+- **6834**: These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy.
+- **6835**: The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps...
+- **6836**: We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith.
 
 ## Events
 
@@ -640,7 +640,7 @@
 
 ```
   0: 0x0158 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x11)
-  1: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=6827*)
+  1: 0x015F [0x1D] PRINT_EVENT_MESSAGE(message_id=6828*)
     → "It is true! The Humes are fools, and no better. Can they truly believe that some ancient power lies hidden in that forsaken wasteland?"
   2: 0x0162 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0163 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x12)
@@ -668,7 +668,7 @@
 
 ```
   0: 0x016B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x13)
-  1: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=6828*)
+  1: 0x0172 [0x1D] PRINT_EVENT_MESSAGE(message_id=6829*)
     → "Hah! Do they hope to find the gates to eternal Paradise there, in that lair of fiends most uncouth? Preposterous!"
   2: 0x0175 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0176 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x14)
@@ -697,7 +697,7 @@
 
 ```
   0: 0x017E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x0D)
-  1: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=6833*)
+  1: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
     → "These foreigners are wily and faithless. Never let down your guard, and may the Goddess of the Dawn protect you in Her mercy."
   2: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0189 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x0E)
@@ -728,7 +728,7 @@
 
 ```
   0: 0x019F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x09)
-  1: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6834*)
+  1: 0x01A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
     → "The king has taken a beautiful queen, and I think a splendid addition to the royal family is not far off. An heir, perhaps..."
   2: 0x01A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01AA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x0A)
@@ -757,7 +757,7 @@
 
 ```
   0: 0x01B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x05)
-  1: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6835*)
+  1: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=6836*)
     → "We people of San d'Oria, too, must ever look to the future. The Elvaan must never fall behind foreigners, in power or faith."
   2: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x01BD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Muchavatte (ID: 17772701/0x010F309D), tag_num=0x06)

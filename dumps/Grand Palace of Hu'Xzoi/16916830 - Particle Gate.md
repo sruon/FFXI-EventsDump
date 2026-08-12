@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C63      |        7267 |
-|       1 | 0x1C64      |        7268 |
+|       0 | 0x1C64      |        7268 |
+|       1 | 0x1C65      |        7269 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0000      |           0 |
 |       4 | 0xFFF8A298  |  4294484632 |
@@ -30,8 +30,8 @@
 
 ## String References
 
-- **7267**: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
-- **7268**: Investigate the portal? [Yes./No.]
+- **7268**: You feel a mysterious energy emanating from the glowing stone in the center of the portal.
+- **7269**: Investigate the portal? [Yes./No.]
 
 ## Events
 
@@ -83,10 +83,10 @@
 ```
   0: 0x0001 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x0003 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0005 [0x48] [System] [7267*]:
+  2: 0x0005 [0x48] [System] [7268*]:
     → "You feel a mysterious energy emanating from the glowing stone in the center of the portal."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0009 [0x24] CREATE_DIALOG(message_id=7268*, default_option=1*, option_flags=0*)
+  4: 0x0009 [0x24] CREATE_DIALOG(message_id=7269*, default_option=1*, option_flags=0*)
     → "Investigate the portal? [Yes./No.]"
   5: 0x0010 [0x25] WAIT_DIALOG_SELECT()
   6: 0x0011 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0040

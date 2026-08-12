@@ -89,15 +89,15 @@
 |      28 | 0xFFFEF9E8  |  4294900200 |
 |      29 | 0xFFFEC505  |  4294886661 |
 |      30 | 0x0C11      |        3089 |
-|      31 | 0x1C62      |        7266 |
+|      31 | 0x1C63      |        7267 |
 |      32 | 0x0001      |           1 |
 |      33 | 0x00B4      |         180 |
 |      34 | 0x00C8      |         200 |
 |      35 | 0x003C      |          60 |
-|      36 | 0x1C6A      |        7274 |
-|      37 | 0x1C6B      |        7275 |
+|      36 | 0x1C6B      |        7275 |
+|      37 | 0x1C6C      |        7276 |
 |      38 | 0x01DE      |         478 |
-|      39 | 0x1C6C      |        7276 |
+|      39 | 0x1C6D      |        7277 |
 |      40 | 0x01FB      |         507 |
 |      41 | 0x0078      |         120 |
 |      42 | 0x00C9      |         201 |
@@ -115,39 +115,39 @@
 |      54 | 0x000A      |          10 |
 |      55 | 0x0005      |           5 |
 |      56 | 0x006C      |         108 |
-|      57 | 0x1C6D      |        7277 |
-|      58 | 0x1C6E      |        7278 |
+|      57 | 0x1C6E      |        7278 |
+|      58 | 0x1C6F      |        7279 |
 |      59 | 0x0014      |          20 |
 |      60 | 0x0008      |           8 |
-|      61 | 0x1C6F      |        7279 |
+|      61 | 0x1C70      |        7280 |
 |      62 | 0x000F      |          15 |
-|      63 | 0x1C70      |        7280 |
-|      64 | 0x1C71      |        7281 |
-|      65 | 0x1C72      |        7282 |
+|      63 | 0x1C71      |        7281 |
+|      64 | 0x1C72      |        7282 |
+|      65 | 0x1C73      |        7283 |
 |      66 | 0x0032      |          50 |
-|      67 | 0x1C73      |        7283 |
-|      68 | 0x1C74      |        7284 |
+|      67 | 0x1C74      |        7284 |
+|      68 | 0x1C75      |        7285 |
 |      69 | 0x005A      |          90 |
-|      70 | 0x1C75      |        7285 |
+|      70 | 0x1C76      |        7286 |
 |      71 | 0x0006      |           6 |
-|      72 | 0x1C76      |        7286 |
-|      73 | 0x1C77      |        7287 |
-|      74 | 0x1C78      |        7288 |
+|      72 | 0x1C77      |        7287 |
+|      73 | 0x1C78      |        7288 |
+|      74 | 0x1C79      |        7289 |
 |      75 | 0x449A8     |      281000 |
 |      76 | 0xFFFF3368  |  4294914920 |
 |      77 | 0x0384      |         900 |
-|      78 | 0x1C79      |        7289 |
-|      79 | 0x1C7A      |        7290 |
-|      80 | 0x1C7B      |        7291 |
-|      81 | 0x1C7C      |        7292 |
-|      82 | 0x1C7D      |        7293 |
-|      83 | 0x1C7E      |        7294 |
-|      84 | 0x1C7F      |        7295 |
-|      85 | 0x1C80      |        7296 |
+|      78 | 0x1C7A      |        7290 |
+|      79 | 0x1C7B      |        7291 |
+|      80 | 0x1C7C      |        7292 |
+|      81 | 0x1C7D      |        7293 |
+|      82 | 0x1C7E      |        7294 |
+|      83 | 0x1C7F      |        7295 |
+|      84 | 0x1C80      |        7296 |
+|      85 | 0x1C81      |        7297 |
 |      86 | 0x00D0      |         208 |
-|      87 | 0x1C81      |        7297 |
+|      87 | 0x1C82      |        7298 |
 |      88 | 0x00DE      |         222 |
-|      89 | 0x1C82      |        7298 |
+|      89 | 0x1C83      |        7299 |
 |      90 | 0x00A0      |         160 |
 |      91 | 0x004F      |          79 |
 |      92 | 0x012C      |         300 |
@@ -170,10 +170,10 @@
 
 ## String References
 
-- **7266**: Use the device? [Yes./No.]
-- **7274**: You have no registered data.
-- **7275**: Register your data in order to use the device.
-- **7276**: The $0 shatters!
+- **7267**: Use the device? [Yes./No.]
+- **7275**: You have no registered data.
+- **7276**: Register your data in order to use the device.
+- **7277**: The $0 shatters!
 
 ## Events
 
@@ -541,7 +541,7 @@
 
 ```
   0: 0x008A [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x008C [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x008C [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0093 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0094 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00B0
@@ -584,7 +584,7 @@ SUBROUTINE_00BB:
 
 ```
   0: 0x00BF [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00C1 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x00C1 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x00C8 [0x25] WAIT_DIALOG_SELECT()
   3: 0x00C9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E5
@@ -626,7 +626,7 @@ SUBROUTINE_00F0:
 
 ```
   0: 0x00F4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x00F6 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x00F6 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x00FD [0x25] WAIT_DIALOG_SELECT()
   3: 0x00FE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011A
@@ -670,7 +670,7 @@ SUBROUTINE_0125:
 
 ```
   0: 0x0129 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x012B [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x012B [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0132 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0133 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0170
@@ -715,15 +715,15 @@ SUBROUTINE_017B:
 
 ```
   0: 0x017F [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x0181 [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x0181 [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0188 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0189 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x019D
   4: 0x0191 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  5: 0x0192 [0x48] [System] [7274*]:
+  5: 0x0192 [0x48] [System] [7275*]:
     → "You have no registered data."
   6: 0x0195 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0196 [0x48] [System] [7275*]:
+  7: 0x0196 [0x48] [System] [7276*]:
     → "Register your data in order to use the device."
   8: 0x0199 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x019A [0x01] GOTO 0x01A8
@@ -766,7 +766,7 @@ SUBROUTINE_01A8:
 
 ```
   0: 0x01AC [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x01AE [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x01AE [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x01B5 [0x25] WAIT_DIALOG_SELECT()
   3: 0x01B6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023C
@@ -774,7 +774,7 @@ SUBROUTINE_01A8:
   5: 0x01BF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   6: 0x01C1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   7: 0x01C3 [0x03] Work_Zone[2] = 478*
-  8: 0x01C8 [0x48] [System] [7276*]:
+  8: 0x01C8 [0x48] [System] [7277*]:
     → "The $0 shatters!"
   9: 0x01CB [0x73] LocalPlayer casts magic 507* on LocalPlayer
  10: 0x01D6 [0x03] Work_Zone[1] = 1*
@@ -828,7 +828,7 @@ SUBROUTINE_0247:
 
 ```
   0: 0x024B [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x024D [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x024D [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x0254 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0255 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02DB
@@ -836,7 +836,7 @@ SUBROUTINE_0247:
   5: 0x025E [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   6: 0x0260 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   7: 0x0262 [0x03] Work_Zone[2] = 478*
-  8: 0x0267 [0x48] [System] [7276*]:
+  8: 0x0267 [0x48] [System] [7277*]:
     → "The $0 shatters!"
   9: 0x026A [0x73] LocalPlayer casts magic 507* on LocalPlayer
  10: 0x0275 [0x03] Work_Zone[1] = 1*
@@ -890,7 +890,7 @@ SUBROUTINE_02E6:
 
 ```
   0: 0x02EA [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  1: 0x02EC [0x24] CREATE_DIALOG(message_id=7266*, default_option=1*, option_flags=0*)
+  1: 0x02EC [0x24] CREATE_DIALOG(message_id=7267*, default_option=1*, option_flags=0*)
     → "Use the device? [Yes./No.]"
   2: 0x02F3 [0x25] WAIT_DIALOG_SELECT()
   3: 0x02F4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x037A
@@ -898,7 +898,7 @@ SUBROUTINE_02E6:
   5: 0x02FD [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
   6: 0x02FF [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
   7: 0x0301 [0x03] Work_Zone[2] = 478*
-  8: 0x0306 [0x48] [System] [7276*]:
+  8: 0x0306 [0x48] [System] [7277*]:
     → "The $0 shatters!"
   9: 0x0309 [0x73] LocalPlayer casts magic 507* on LocalPlayer
  10: 0x0314 [0x03] Work_Zone[1] = 1*
@@ -1213,13 +1213,13 @@ SUBROUTINE_0385:
  39: 0x0543 [0x1C] WAIT(10* ticks)
  40: 0x0546 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blof" with entities [Nag'molada (ID: 16834578/0x0100E012), Nag'molada (ID: 16834578/0x0100E012)], work=[200*, 0*]
  41: 0x0557 [0x1C] WAIT(60* ticks)
- 42: 0x055A [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7277*]:
+ 42: 0x055A [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7278*]:
     → "Hah, so you've finally arrived. I heard that you were poking your nose into matters at the second crag, so I naturally assumed that this would be the next place you'd visit."
  43: 0x0561 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0562 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Nag'molada (ID: 16834578/0x0100E012))
  45: 0x0568 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
  46: 0x0579 [0x27] REQ_SET(priority=0x03, entity_id=Nag'molada (ID: 16834578/0x0100E012), tag_num=0x02)
- 47: 0x0580 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7278*]:
+ 47: 0x0580 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7279*]:
     → "Hm? Alone, are we? Well, I see you are not as foolish as I thought. You may think you have the upper hand now, but I, too, have a few tricks up my sleeve."
  48: 0x0587 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x0588 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Nag'molada (ID: 16834578/0x0100E012))
@@ -1243,7 +1243,7 @@ SUBROUTINE_0385:
 
 SUBROUTINE_0640:
  67: 0x0640 [0x1C] WAIT(60* ticks)
- 68: 0x0643 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7279*]:
+ 68: 0x0643 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7280*]:
     → "The only thing I care about is that boy. One less adventurer in my way would only be a benefit to me."
  69: 0x064A [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x064B [0x2A] GET_REQ_LEVEL(level=3, entity_id=Nag'molada (ID: 16834578/0x0100E012))
@@ -1252,26 +1252,26 @@ SUBROUTINE_0640:
  73: 0x0661 [0x1C] WAIT(15* ticks)
  74: 0x0664 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
  75: 0x0675 [0x1C] WAIT(60* ticks)
- 76: 0x0678 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7280*]:
+ 76: 0x0678 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7281*]:
     → "Wolfgang. Kill [him/her]."
  77: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0680 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=73*
  79: 0x068F [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 16834576/0x0100E010), tag_num=0x05)
  80: 0x0696 [0x1C] WAIT(10* ticks)
  81: 0x0699 [0x03] Work_Zone[2] = (Entity->Render.Flags01 >> 25) & 1
- 82: 0x069E [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7281*]:
+ 82: 0x069E [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7282*]:
     → "But sir... While [he/she] was seen with the boy, our research on [him/her] has turned up no evidence of any other connections. I do not feel that <Player>'s crimes warrant [his/her] death."
  83: 0x06A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x06A6 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 16834576/0x0100E010), tag_num=0x06)
- 85: 0x06AD [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7282*]:
+ 85: 0x06AD [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7283*]:
     → "Wolfgang, you asked what the purpose behind this place was, and I'm certain I explained matters clearly."
  86: 0x06B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x06B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
  88: 0x06C6 [0x1C] WAIT(50* ticks)
- 89: 0x06C9 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7283*]:
+ 89: 0x06C9 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7284*]:
     → "It is a citadel, built to protect the mother of all life on Vana'diel--the crystal."
  90: 0x06D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 91: 0x06D1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7284*]:
+ 91: 0x06D1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7285*]:
     → "Only we know that secret--and as the secret's keepers, we are eternally bound to this place as her protectors."
  92: 0x06D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x06D9 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=73*
@@ -1279,7 +1279,7 @@ SUBROUTINE_0640:
  95: 0x06EF [0x1C] WAIT(10* ticks)
  96: 0x06F2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
  97: 0x0703 [0x1C] WAIT(90* ticks)
- 98: 0x0706 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7285*]:
+ 98: 0x0706 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7286*]:
     → "However, darkness has already befallen the crystals within two of the crags. The boy was present at both, and it was <Player> who led him."
  99: 0x070D [0x23] WAIT_FOR_DIALOG_INTERACTION
 100: 0x070E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=73*
@@ -1291,13 +1291,13 @@ SUBROUTINE_0640:
 106: 0x0748 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 107: 0x0759 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=73*
 108: 0x0768 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 16834576/0x0100E010), tag_num=0x05)
-109: 0x076F [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7286*]:
+109: 0x076F [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7287*]:
     → "B-but...what of proof?"
 110: 0x0776 [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x0777 [0x27] REQ_SET(priority=0x03, entity_id=Wolfgang (ID: 16834576/0x0100E010), tag_num=0x06)
 112: 0x077E [0x27] REQ_SET(priority=0x03, entity_id=Nag'molada (ID: 16834578/0x0100E012), tag_num=0x06)
 113: 0x0785 [0x1C] WAIT(15* ticks)
-114: 0x0788 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7287*]:
+114: 0x0788 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7288*]:
     → "Proof? What more proof do we need? Where <Player> is, the boy is sure to follow."
 115: 0x078F [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0790 [0x27] REQ_SET(priority=0x03, entity_id=Nag'molada (ID: 16834578/0x0100E012), tag_num=0x07)
@@ -1305,7 +1305,7 @@ SUBROUTINE_0640:
 118: 0x07A8 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=73*
 119: 0x07B7 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 16834577/0x0100E011)
 120: 0x07BD [0x79] Nag'molada (ID: 16834578/0x0100E012) looks at ??? (ID: 16834577/0x0100E011) (Basic look)
-121: 0x07C7 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7288*]:
+121: 0x07C7 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7289*]:
     → "And here he is now."
 122: 0x07CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x07CF [0x27] REQ_SET(priority=0x03, entity_id=??? (ID: 16834577/0x0100E011), tag_num=0x02)
@@ -1324,17 +1324,17 @@ SUBROUTINE_0640:
 136: 0x0859 [0x27] REQ_SET(priority=0x03, entity_id=??? (ID: 16834577/0x0100E011), tag_num=0x03)
 137: 0x0860 [0x79] ??? (ID: 16834577/0x0100E011) looks at Nag'molada (ID: 16834578/0x0100E012) (Basic look)
 138: 0x086A [0x1C] WAIT(10* ticks)
-139: 0x086D [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7289*]:
+139: 0x086D [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7290*]:
     → "You, boy without a name, you know the darkness of which I speak. The darkness that the Dawnmaidens have feared for thousands of years."
 140: 0x0874 [0x23] WAIT_FOR_DIALOG_INTERACTION
-141: 0x0875 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7290*]:
+141: 0x0875 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7291*]:
     → "The darkness that eats away at the very soul of Vana'diel. The darkness known as the "Emptiness.""
 142: 0x087C [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x087D [0x52] END_LOAD_SCHEDULER: End scheduler "y002" with entities [LocalPlayer, LocalPlayer], work=73*
 144: 0x088C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [??? (ID: 16834577/0x0100E011), ??? (ID: 16834577/0x0100E011)], work=[200*, 0*]
 145: 0x089D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y003" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 146: 0x08AE [0x1C] WAIT(30* ticks)
-147: 0x08B1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7291*]:
+147: 0x08B1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7292*]:
     → "And you. You were born with the Emptiness. You brought it with you into our world. From where did you bring it?"
 148: 0x08B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x08B9 [0x1C] WAIT(60* ticks)
@@ -1346,7 +1346,7 @@ SUBROUTINE_0640:
 155: 0x08F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y010" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 156: 0x0902 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y010" with entities [LocalPlayer, LocalPlayer], work=73*
 157: 0x0911 [0x1C] WAIT(60* ticks)
-158: 0x0914 [0x2B] ??? (ID: 16834577/0x0100E011) [7292*]:
+158: 0x0914 [0x2B] ??? (ID: 16834577/0x0100E011) [7293*]:
     → "..."
 159: 0x091B [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x091C [0x1C] WAIT(10* ticks)
@@ -1357,11 +1357,11 @@ SUBROUTINE_0640:
 165: 0x0948 [0x4A] Nag'molada (ID: 16834578/0x0100E012) looks at Wolfgang (ID: 16834576/0x0100E010)
 166: 0x0951 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 167: 0x0952 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Nag'molada (ID: 16834578/0x0100E012) Render.Flags0 and Render.Flags3 conditions are met
-168: 0x0957 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7293*]:
+168: 0x0957 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7294*]:
     → "Not going to answer, are we? Wolfgang, do you need any more proof?"
 169: 0x095E [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x095F [0x7B] Nag'molada (ID: 16834578/0x0100E012) stops talking
-171: 0x0964 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7294*]:
+171: 0x0964 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7295*]:
     → "Do not forget your duty as the captain of the Ducal Guard. Any more hesitation in your decision-making and you'll end up like your father..."
 172: 0x096B [0x23] WAIT_FOR_DIALOG_INTERACTION
 173: 0x096C [0x27] REQ_SET(priority=0x03, entity_id=Nag'molada (ID: 16834578/0x0100E012), tag_num=0x04)
@@ -1377,12 +1377,12 @@ SUBROUTINE_0640:
 183: 0x09CA [0x1C] WAIT(50* ticks)
 184: 0x09CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y007" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 185: 0x09DE [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y007" with entities [LocalPlayer, LocalPlayer], work=73*
-186: 0x09ED [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7295*]:
+186: 0x09ED [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7296*]:
     → "You. Does the specimen need to be alive for us to collect sufficient data?"
 187: 0x09F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 188: 0x09F5 [0x27] REQ_SET(priority=0x03, entity_id=??? (ID: 16834579/0x0100E013), tag_num=0x02)
 189: 0x09FC [0x1C] WAIT(15* ticks)
-190: 0x09FF [0x2B] ??? (ID: 16834579/0x0100E013) [7296*]:
+190: 0x09FF [0x2B] ??? (ID: 16834579/0x0100E013) [7297*]:
     → "Of course not, sir."
 191: 0x0A06 [0x23] WAIT_FOR_DIALOG_INTERACTION
 192: 0x0A07 [0x28] REQ_SET_WITH_CONDITIONS(priority=0x03, target_entity=Wolfgang (ID: 16834576/0x0100E010), tag_num=0x03)
@@ -1419,7 +1419,7 @@ SUBROUTINE_0640:
 223: 0x0B3C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y00a" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 224: 0x0B4D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y00a" with entities [LocalPlayer, LocalPlayer], work=73*
 225: 0x0B5C [0x1C] WAIT(20* ticks)
-226: 0x0B5F [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7297*]:
+226: 0x0B5F [0x2B] Wolfgang (ID: 16834576/0x0100E010) [7298*]:
     → "He... He didn't fight back? Why...?"
 227: 0x0B66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x0B67 [0x1C] WAIT(30* ticks)
@@ -1437,7 +1437,7 @@ SUBROUTINE_0640:
 240: 0x0BCB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y00b" with entities [LocalPlayer, LocalPlayer], work=[73*, 0*]
 241: 0x0BDC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "y00b" with entities [LocalPlayer, LocalPlayer], work=73*
 242: 0x0BEB [0x4E] SET_ENTITY_HIDE_FLAG: Hide Wolfgang (ID: 16834576/0x0100E010)
-243: 0x0BF1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7298*]:
+243: 0x0BF1 [0x2B] Nag'molada (ID: 16834578/0x0100E012) [7299*]:
     → "!?"
 244: 0x0BF8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 245: 0x0BF9 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Nag'molada (ID: 16834578/0x0100E012))

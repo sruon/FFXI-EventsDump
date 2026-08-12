@@ -23,7 +23,7 @@
 |       0 | 0x0000      |           0 |
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
-|       3 | 0x1E44      |        7748 |
+|       3 | 0x1E45      |        7749 |
 |       4 | 0x003C      |          60 |
 |       5 | 0x0078      |         120 |
 |       6 | 0x0003      |           3 |
@@ -31,9 +31,9 @@
 |       8 | 0x0006      |           6 |
 |       9 | 0x0005      |           5 |
 |      10 | 0x04F7      |        1271 |
-|      11 | 0x1E45      |        7749 |
+|      11 | 0x1E46      |        7750 |
 |      12 | 0x40000000  |  1073741824 |
-|      13 | 0x1E46      |        7750 |
+|      13 | 0x1E47      |        7751 |
 |      14 | 0x000F      |          15 |
 |      15 | 0x0010      |          16 |
 |      16 | 0x001F      |          31 |
@@ -54,14 +54,14 @@
 |      31 | 0x1518      |        5400 |
 |      32 | 0x000D      |          13 |
 |      33 | 0x1C20      |        7200 |
-|      34 | 0x1E47      |        7751 |
+|      34 | 0x1E48      |        7752 |
 
 ## String References
 
-- **7748**: Time debug: Time limit: $0 [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
-- **7749**: Time debug: Do what? [Nuttin'./Increase time limit./Reduce time limit./Switch OFF "Search flag switched ON flag."/Forced exit flag OFF./Receive one $3.]
-- **7750**: Time debug: Increase by how much? [Return./+0 minute./+1 minute./+2 minutes./+3 minutes./+5 minutes./+10 minutes./+15 minutes./+30 minutes./+45 minutes./+60 minutes./+75 minutes./+90 minutes./+120 minutes.]
-- **7751**: Time debug: Reduce by how much? [\`Gi/-0 minute./-1 minute./-2 minutes./-3 minutes./-5 minutes./-10 minutes./-15 minutes./-30 minutes./-45 minutes./-60 minutes./-75 minutes./-90 minutes./-120 minutes.]
+- **7749**: Time debug: Time limit: $0 [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]
+- **7750**: Time debug: Do what? [Nuttin'./Increase time limit./Reduce time limit./Switch OFF "Search flag switched ON flag."/Forced exit flag OFF./Receive one $3.]
+- **7751**: Time debug: Increase by how much? [Return./+0 minute./+1 minute./+2 minutes./+3 minutes./+5 minutes./+10 minutes./+15 minutes./+30 minutes./+45 minutes./+60 minutes./+75 minutes./+90 minutes./+120 minutes.]
+- **7752**: Time debug: Reduce by how much? [\`Gi/-0 minute./-1 minute./-2 minutes./-3 minutes./-5 minutes./-10 minutes./-15 minutes./-30 minutes./-45 minutes./-60 minutes./-75 minutes./-90 minutes./-120 minutes.]
 
 ## Events
 
@@ -208,7 +208,7 @@ SUBROUTINE_0062:
  23: 0x0071 [0x03] Work_Zone[6] = 0*
 
 SUBROUTINE_0076:
- 24: 0x0076 [0x48] [System] [7748*]:
+ 24: 0x0076 [0x48] [System] [7749*]:
     → "Time debug: Time limit: $0 [sec./min.] Time debug: Search flag: [OFF/ON] Time debug: Search flag switched ON flag: [OFF/ON] Time debug: Forced exit flag: [OFF/ON]"
  25: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x007A [0x03] ExtData[1]->WorkLocal[4] = 0*
@@ -234,14 +234,14 @@ SUBROUTINE_00CC:
  40: 0x00CC [0x02] IF !(ExtData[1]->WorkLocal[3] < 6*) GOTO 0x00DB
  41: 0x00D4 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[4], bit_index_work_offset=5*, condition_work_offset=1*)
  42: 0x00DB [0x03] Work_Zone[2] = 1271*
- 43: 0x00E0 [0x24] CREATE_DIALOG(message_id=7749*, default_option=0*, option_flags=ExtData[1]->WorkLocal[4])
+ 43: 0x00E0 [0x24] CREATE_DIALOG(message_id=7750*, default_option=0*, option_flags=ExtData[1]->WorkLocal[4])
     → "Time debug: Do what? [Nuttin'./Increase time limit./Reduce time limit./Switch OFF "Search flag switched ON flag."/Forced exit flag OFF./Receive one $3.]"
  44: 0x00E7 [0x25] WAIT_DIALOG_SELECT()
  45: 0x00E8 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00F8
  46: 0x00F0 [0x03] Work_Zone[1] = 1073741824*
  47: 0x00F5 [0x01] GOTO 0x0487
  48: 0x00F8 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0294
- 49: 0x0100 [0x24] CREATE_DIALOG(message_id=7750*, default_option=0*, option_flags=0*)
+ 49: 0x0100 [0x24] CREATE_DIALOG(message_id=7751*, default_option=0*, option_flags=0*)
     → "Time debug: Increase by how much? [Return./+0 minute./+1 minute./+2 minutes./+3 minutes./+5 minutes./+10 minutes./+15 minutes./+30 minutes./+45 minutes./+60 minutes./+75 minutes./+90 minutes./+120 minutes.]"
  50: 0x0107 [0x25] WAIT_DIALOG_SELECT()
  51: 0x0108 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0118
@@ -303,7 +303,7 @@ SUBROUTINE_00CC:
 SUBROUTINE_0291:
 106: 0x0291 [0x01] GOTO 0x0487
 107: 0x0294 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0430
-108: 0x029C [0x24] CREATE_DIALOG(message_id=7751*, default_option=0*, option_flags=0*)
+108: 0x029C [0x24] CREATE_DIALOG(message_id=7752*, default_option=0*, option_flags=0*)
     → "Time debug: Reduce by how much? [`Gi/-0 minute./-1 minute./-2 minutes./-3 minutes./-5 minutes./-10 minutes./-15 minutes./-30 minutes./-45 minutes./-60 minutes./-75 minutes./-90 minutes./-120 minutes.]"
 109: 0x02A3 [0x25] WAIT_DIALOG_SELECT()
 110: 0x02A4 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B4

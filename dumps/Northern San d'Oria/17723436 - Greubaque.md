@@ -23,41 +23,41 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0002      |           2 |
-|       1 | 0x1B50      |        6992 |
+|       1 | 0x1B51      |        6993 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1BE3      |        7139 |
-|       4 | 0x1B51      |        6993 |
+|       3 | 0x1BE4      |        7140 |
+|       4 | 0x1B52      |        6994 |
 |       5 | 0x0001      |           1 |
-|       6 | 0x1BE5      |        7141 |
+|       6 | 0x1BE6      |        7142 |
 |       7 | 0x00C8      |         200 |
 |       8 | 0x005A      |          90 |
-|       9 | 0x1BE4      |        7140 |
-|      10 | 0x1BE6      |        7142 |
-|      11 | 0x1B55      |        6997 |
-|      12 | 0x1B7B      |        7035 |
-|      13 | 0x1B59      |        7001 |
-|      14 | 0x1B58      |        7000 |
-|      15 | 0x1B57      |        6999 |
-|      16 | 0x1B56      |        6998 |
-|      17 | 0x1BE7      |        7143 |
-|      18 | 0x1BE2      |        7138 |
+|       9 | 0x1BE5      |        7141 |
+|      10 | 0x1BE7      |        7143 |
+|      11 | 0x1B56      |        6998 |
+|      12 | 0x1B7C      |        7036 |
+|      13 | 0x1B5A      |        7002 |
+|      14 | 0x1B59      |        7001 |
+|      15 | 0x1B58      |        7000 |
+|      16 | 0x1B57      |        6999 |
+|      17 | 0x1BE8      |        7144 |
+|      18 | 0x1BE3      |        7139 |
 
 ## String References
 
-- **6992**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
-- **6993**: Image support: $0 gil. [Accept./Decline.]
-- **6997**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
-- **6998**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
-- **6999**: $4 x $0 $5 x $0$0 $6 x $0
-- **7000**: $4 x $0 $5 x $0$0
-- **7001**: $4 x $0
-- **7035**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
-- **7138**: Can't you see I'm busy? We are up to our ears in work these days!
-- **7139**: No, you should try it on your own.
-- **7140**: Oh, I'm sorry. The guildmaster is displeased when we give help for free. "A friend is but a competitor," he likes to say.
-- **7141**: All right. Close your eyes, and focus on the craft.
-- **7142**: Hmm... Well, I'd recommend someone of your skill to try crafting $0. Here's what you'll need:
-- **7143**: Did you get that? Remember, our guildmaster is strict, but behind his grim face lies joy at seeing new apprentices. Come back any time, friend!
+- **6993**: Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]
+- **6994**: Image support: $0 gil. [Accept./Decline.]
+- **6998**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:
+- **6999**: $4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3
+- **7000**: $4 x $0 $5 x $0$0 $6 x $0
+- **7001**: $4 x $0 $5 x $0$0
+- **7002**: $4 x $0
+- **7036**: Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:
+- **7139**: Can't you see I'm busy? We are up to our ears in work these days!
+- **7140**: No, you should try it on your own.
+- **7141**: Oh, I'm sorry. The guildmaster is displeased when we give help for free. "A friend is but a competitor," he likes to say.
+- **7142**: All right. Close your eyes, and focus on the craft.
+- **7143**: Hmm... Well, I'd recommend someone of your skill to try crafting $0. Here's what you'll need:
+- **7144**: Did you get that? Remember, our guildmaster is strict, but behind his grim face lies joy at seeing new apprentices. Come back any time, friend!
 
 ## Events
 
@@ -151,21 +151,21 @@
 
 ```
   0: 0x0002 [0x3E] IF !(Work_Zone[5] bit 2*) GOTO 0x01A5
-  1: 0x0009 [0x24] CREATE_DIALOG(message_id=6992*, default_option=2*, option_flags=0*)
+  1: 0x0009 [0x24] CREATE_DIALOG(message_id=6993*, default_option=2*, option_flags=0*)
     → "Request...? [[Advanced synthesis/Synthesis/Synthesis] image support./Information on synthesis materials./Nothing.]"
   2: 0x0010 [0x25] WAIT_DIALOG_SELECT()
   3: 0x0011 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0087
   4: 0x0019 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x0028
-  5: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
+  5: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
     → "No, you should try it on your own."
   6: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0025 [0x01] GOTO 0x0084
-  8: 0x0028 [0x24] CREATE_DIALOG(message_id=6993*, default_option=1*, option_flags=0*)
+  8: 0x0028 [0x24] CREATE_DIALOG(message_id=6994*, default_option=1*, option_flags=0*)
     → "Image support: $0 gil. [Accept./Decline.]"
   9: 0x002F [0x25] WAIT_DIALOG_SELECT()
  10: 0x0030 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0079
  11: 0x0038 [0x02] IF !(Work_Zone[6] < Work_Zone[2]) GOTO 0x0072
- 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7141*)
+ 12: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=7142*)
     → "All right. Close your eyes, and focus on the craft."
  13: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0044 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -174,7 +174,7 @@
  17: 0x0059 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  18: 0x006A [0x03] Work_Zone[1] = 1*
  19: 0x006F [0x01] GOTO 0x0076
- 20: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7140*)
+ 20: 0x0072 [0x1D] PRINT_EVENT_MESSAGE(message_id=7141*)
     → "Oh, I'm sorry. The guildmaster is displeased when we give help for free. "A friend is but a competitor," he likes to say."
  21: 0x0075 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -190,7 +190,7 @@ SUBROUTINE_0084:
  28: 0x0094 [0x8C] CRAFTING_HANDLER(mode=0x00) // Initialize crafting session
  29: 0x009C [0x8C] CRAFTING_HANDLER(mode=0x01) // End crafting session
  30: 0x009E [0x03] Work_Zone[2] = Work_Zone[64]
- 31: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7142*)
+ 31: 0x00A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=7143*)
     → "Hmm... Well, I'd recommend someone of your skill to try crafting $0. Here's what you'll need:"
  32: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00A7 [0x03] Work_Zone[3] = Work_Zone[65]
@@ -199,11 +199,11 @@ SUBROUTINE_0084:
  36: 0x00B6 [0x03] Work_Zone[6] = Work_Zone[68]
  37: 0x00BB [0x03] Work_Zone[7] = Work_Zone[85]
  38: 0x00C0 [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x00CF
- 39: 0x00C8 [0x48] [System] [6997*]:
+ 39: 0x00C8 [0x48] [System] [6998*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary items:"
  40: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x00CC [0x01] GOTO 0x00D3
- 42: 0x00CF [0x48] [System] [7035*]:
+ 42: 0x00CF [0x48] [System] [7036*]:
     → "Necessary skills: [Fishing/Woodworking/Smithing/Goldsmithing/Clothcraft/Leatherworking/Bonecraft/Alchemy/Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, Woodworking/, Smithing/, Goldsmithing/, Clothcraft/, Leatherworking/, Bonecraft/, Alchemy/, Cooking][ /, & Woodworking/, & Smithing/, & Goldsmithing/, & Clothcraft/, & Leatherworking/, & Bonecraft/, & Alchemy/, & Cooking] Necessary crystal: $4 Necessary key item: $3 Necessary items:"
  43: 0x00D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -217,21 +217,21 @@ SUBROUTINE_00D3:
  50: 0x00F1 [0x03] Work_Zone[8] = Work_Zone[79]
  51: 0x00F6 [0x03] Work_Zone[9] = Work_Zone[80]
  52: 0x00FB [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x010A
- 53: 0x0103 [0x48] [System] [7001*]:
+ 53: 0x0103 [0x48] [System] [7002*]:
     → "$4 x $0"
  54: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x0107 [0x01] GOTO 0x0190
  56: 0x010A [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x0119
- 57: 0x0112 [0x48] [System] [7000*]:
+ 57: 0x0112 [0x48] [System] [7001*]:
     → "$4 x $0 $5 x $0$0"
  58: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x0116 [0x01] GOTO 0x0190
  60: 0x0119 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0128
- 61: 0x0121 [0x48] [System] [6999*]:
+ 61: 0x0121 [0x48] [System] [7000*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  62: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x0125 [0x01] GOTO 0x0190
- 64: 0x0128 [0x48] [System] [6998*]:
+ 64: 0x0128 [0x48] [System] [6999*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  65: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
  66: 0x012C [0x03] Work_Zone[2] = Work_Zone[73]
@@ -245,26 +245,26 @@ SUBROUTINE_00D3:
  74: 0x0154 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x015F
  75: 0x015C [0x01] GOTO 0x0190
  76: 0x015F [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x016E
- 77: 0x0167 [0x48] [System] [7001*]:
+ 77: 0x0167 [0x48] [System] [7002*]:
     → "$4 x $0"
  78: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x016B [0x01] GOTO 0x0190
  80: 0x016E [0x02] IF !(Work_Zone[8] == 0*) GOTO 0x017D
- 81: 0x0176 [0x48] [System] [7000*]:
+ 81: 0x0176 [0x48] [System] [7001*]:
     → "$4 x $0 $5 x $0$0"
  82: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x017A [0x01] GOTO 0x0190
  84: 0x017D [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x018C
- 85: 0x0185 [0x48] [System] [6999*]:
+ 85: 0x0185 [0x48] [System] [7000*]:
     → "$4 x $0 $5 x $0$0 $6 x $0"
  86: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0189 [0x01] GOTO 0x0190
- 88: 0x018C [0x48] [System] [6998*]:
+ 88: 0x018C [0x48] [System] [6999*]:
     → "$4 x $0 $5 x $0$0 $6 x $0 $7 x $0$3"
  89: 0x018F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0190:
- 90: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=7143*)
+ 90: 0x0190 [0x1D] PRINT_EVENT_MESSAGE(message_id=7144*)
     → "Did you get that? Remember, our guildmaster is strict, but behind his grim face lies joy at seeing new apprentices. Come back any time, friend!"
  91: 0x0193 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x0194 [0x01] GOTO 0x01A2
@@ -273,7 +273,7 @@ SUBROUTINE_0190:
 
 SUBROUTINE_01A2:
  95: 0x01A2 [0x01] GOTO 0x01A9
- 96: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7138*)
+ 96: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=7139*)
     → "Can't you see I'm busy? We are up to our ears in work these days!"
  97: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

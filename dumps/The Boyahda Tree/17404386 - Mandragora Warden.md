@@ -46,7 +46,7 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0871      |        2161 |
-|       1 | 0x1C19      |        7193 |
+|       1 | 0x1C1A      |        7194 |
 |       2 | 0x0B8F      |        2959 |
 |       3 | 0x012C      |         300 |
 |       4 | 0x0028      |          40 |
@@ -56,7 +56,7 @@
 
 ## String References
 
-- **7193**: Ya...pahpah, pakyah!
+- **7194**: Ya...pahpah, pakyah!
 
 ## Events
 
@@ -533,7 +533,7 @@
 
 ```
   0: 0x010D [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7193*)
+  1: 0x0112 [0x1D] PRINT_EVENT_MESSAGE(message_id=7194*)
     → "Ya...pahpah, pakyah!"
   2: 0x0115 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0116 [0x21] END_EVENT

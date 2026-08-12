@@ -34,42 +34,42 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2739      |       10041 |
-|       1 | 0x273A      |       10042 |
-|       2 | 0x273B      |       10043 |
-|       3 | 0x273C      |       10044 |
+|       0 | 0x273A      |       10042 |
+|       1 | 0x273B      |       10043 |
+|       2 | 0x273C      |       10044 |
+|       3 | 0x273D      |       10045 |
 |       4 | 0x0001      |           1 |
-|       5 | 0x2809      |       10249 |
-|       6 | 0x2804      |       10244 |
-|       7 | 0x2805      |       10245 |
-|       8 | 0x2806      |       10246 |
-|       9 | 0x2807      |       10247 |
-|      10 | 0x2808      |       10248 |
-|      11 | 0x280A      |       10250 |
+|       5 | 0x280A      |       10250 |
+|       6 | 0x2805      |       10245 |
+|       7 | 0x2806      |       10246 |
+|       8 | 0x2807      |       10247 |
+|       9 | 0x2808      |       10248 |
+|      10 | 0x2809      |       10249 |
+|      11 | 0x280B      |       10251 |
 |      12 | 0x0000      |           0 |
-|      13 | 0x280C      |       10252 |
+|      13 | 0x280D      |       10253 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x000B      |          11 |
-|      16 | 0x280B      |       10251 |
-|      17 | 0x280D      |       10253 |
+|      16 | 0x280C      |       10252 |
+|      17 | 0x280E      |       10254 |
 |      18 | 0x0013      |          19 |
 |      19 | 0x00E9      |         233 |
 |      20 | 0x00C8      |         200 |
-|      21 | 0x280E      |       10254 |
+|      21 | 0x280F      |       10255 |
 |      22 | 0x0032      |          50 |
-|      23 | 0x280F      |       10255 |
-|      24 | 0x2810      |       10256 |
-|      25 | 0x2811      |       10257 |
-|      26 | 0x2812      |       10258 |
-|      27 | 0x2813      |       10259 |
-|      28 | 0x2814      |       10260 |
+|      23 | 0x2810      |       10256 |
+|      24 | 0x2811      |       10257 |
+|      25 | 0x2812      |       10258 |
+|      26 | 0x2813      |       10259 |
+|      27 | 0x2814      |       10260 |
+|      28 | 0x2815      |       10261 |
 |      29 | 0x01C4      |         452 |
-|      30 | 0x2815      |       10261 |
-|      31 | 0x2816      |       10262 |
+|      30 | 0x2816      |       10262 |
+|      31 | 0x2817      |       10263 |
 |      32 | 0x001E      |          30 |
-|      33 | 0x2817      |       10263 |
-|      34 | 0x2818      |       10264 |
-|      35 | 0x2819      |       10265 |
+|      33 | 0x2818      |       10264 |
+|      34 | 0x2819      |       10265 |
+|      35 | 0x281A      |       10266 |
 |      36 | 0x000A      |          10 |
 |      37 | 0x0014      |          20 |
 |      38 | 0x0028      |          40 |
@@ -85,32 +85,32 @@
 
 ## String References
 
-- **10041**: Hail, fellow adventurer. My name is Maryoh-Comyujah. I braved the long, arrrduous journey from the mainland to search for trrreasure in the Quicksand Caves.
-- **10042**: It's been a little harrrder than I expected, though. The Quicksand Caves are extensive and verrry confusing.
-- **10043**: On top of that, there are all these ant-type beastmen crawling around down there. Not a nice place to be looking for lost rrriches!
-- **10044**: The rrroad to hidden trrreasure is long indeed...
-- **10244**: Ho there! Aren't you the adventurer known as <Player>? The winds carry word of your interest in the ruins of Li'Telor.
-- **10245**: I know how to get in. Into the very center of the rrruins, I mean. I wouldn't mind just telling you, but...you know what they say, "Nothing of value should come for free."
-- **10246**: I have a little favor to ask. Underneath the Altepa Desert lie the expansive Quicksand Caves. I've got a hunch that there's some undiscovered trrreasure in there, still waiting to be claimed.
-- **10247**: Just head a short way into the caves and pick up anything that strrrikes you as valuable. If I like what you brrring me, I'll tell you everything I know about the rrruins.
-- **10248**: Not a bad deal, rrright? You scrrratch my back, and I'll scrrratch yours.
-- **10249**: What's up? You changed your mind?
-- **10250**: Do a deal with Maryoh Comyujah? [Sounds fair./I can scratch my own back.]
-- **10251**: Okay then, it's a deal. The Quicksand Caves are expansive and have many entrances, but I'm sure you'll figure them out.
-- **10252**: What, you don't trrrust me? Well, I'll be arrround here for a while, so come on back if you change your mind.
-- **10253**: My hunter's instinct tells me that there's something unusual beyond that weight-operated device in the caves.
-- **10254**: Wow, this is incrrredible!
-- **10255**: Now listen carefully, and I'll tell you what I know about the rrruins, just like I prrromised.
-- **10256**: What I'm about to tell you happened long before I came to Kuzotz. I went alone to explore Li'Telor, a place that has been known as a holy land since ancient times.
-- **10257**: I was traveling through a dense fog and, though it embarrasses me to rrrecall, completely lost my way. After wandering for a time, I somehow found myself at the rrruins.
-- **10258**: What I saw there, you already know. Those huge statues facing one another in that great hall, and beyond... The immovable wall that bars the way into the heart of the rrruins.
-- **10259**: I searched every inch of that place. And then I found it. A mysterrrious crystal glowing with a clear, blue light.
-- **10260**: I don't know why it was there, but it was shining from below the surface of the lake in the great hall. ...Glowing as if in rrresponse to the moonlight that poured in from above.
-- **10261**: This is that $3. I brought it back with me thinking I could sell it, but I haven't been able to find a buyer. I might as well give it to you.
-- **10262**: Place it into the hollow in the center of that wall and see what happens for yourself. You wouldn't want me to spoil it for you now, would you? Hehehe.
-- **10263**: Those rrruins in Li'Telor are interesting to visit on a night of the full moon. You learn anew that there are still many things in this world that are beyond our understanding.
-- **10264**: Ho, <Player>. What did you see? There's nothing in there, rrright? I already knew that, though... Huh? You saw a floating island in there?
-- **10265**: Haha, nice try. If you're gonna make something up, try for something a little more believable. There's nothing at the top of those stairs besides that altar.
+- **10042**: Hail, fellow adventurer. My name is Maryoh-Comyujah. I braved the long, arrrduous journey from the mainland to search for trrreasure in the Quicksand Caves.
+- **10043**: It's been a little harrrder than I expected, though. The Quicksand Caves are extensive and verrry confusing.
+- **10044**: On top of that, there are all these ant-type beastmen crawling around down there. Not a nice place to be looking for lost rrriches!
+- **10045**: The rrroad to hidden trrreasure is long indeed...
+- **10245**: Ho there! Aren't you the adventurer known as <Player>? The winds carry word of your interest in the ruins of Li'Telor.
+- **10246**: I know how to get in. Into the very center of the rrruins, I mean. I wouldn't mind just telling you, but...you know what they say, "Nothing of value should come for free."
+- **10247**: I have a little favor to ask. Underneath the Altepa Desert lie the expansive Quicksand Caves. I've got a hunch that there's some undiscovered trrreasure in there, still waiting to be claimed.
+- **10248**: Just head a short way into the caves and pick up anything that strrrikes you as valuable. If I like what you brrring me, I'll tell you everything I know about the rrruins.
+- **10249**: Not a bad deal, rrright? You scrrratch my back, and I'll scrrratch yours.
+- **10250**: What's up? You changed your mind?
+- **10251**: Do a deal with Maryoh Comyujah? [Sounds fair./I can scratch my own back.]
+- **10252**: Okay then, it's a deal. The Quicksand Caves are expansive and have many entrances, but I'm sure you'll figure them out.
+- **10253**: What, you don't trrrust me? Well, I'll be arrround here for a while, so come on back if you change your mind.
+- **10254**: My hunter's instinct tells me that there's something unusual beyond that weight-operated device in the caves.
+- **10255**: Wow, this is incrrredible!
+- **10256**: Now listen carefully, and I'll tell you what I know about the rrruins, just like I prrromised.
+- **10257**: What I'm about to tell you happened long before I came to Kuzotz. I went alone to explore Li'Telor, a place that has been known as a holy land since ancient times.
+- **10258**: I was traveling through a dense fog and, though it embarrasses me to rrrecall, completely lost my way. After wandering for a time, I somehow found myself at the rrruins.
+- **10259**: What I saw there, you already know. Those huge statues facing one another in that great hall, and beyond... The immovable wall that bars the way into the heart of the rrruins.
+- **10260**: I searched every inch of that place. And then I found it. A mysterrrious crystal glowing with a clear, blue light.
+- **10261**: I don't know why it was there, but it was shining from below the surface of the lake in the great hall. ...Glowing as if in rrresponse to the moonlight that poured in from above.
+- **10262**: This is that $3. I brought it back with me thinking I could sell it, but I haven't been able to find a buyer. I might as well give it to you.
+- **10263**: Place it into the hollow in the center of that wall and see what happens for yourself. You wouldn't want me to spoil it for you now, would you? Hehehe.
+- **10264**: Those rrruins in Li'Telor are interesting to visit on a night of the full moon. You learn anew that there are still many things in this world that are beyond our understanding.
+- **10265**: Ho, <Player>. What did you see? There's nothing in there, rrright? I already knew that, though... Huh? You saw a floating island in there?
+- **10266**: Haha, nice try. If you're gonna make something up, try for something a little more believable. There's nothing at the top of those stairs besides that altar.
 
 ## Events
 
@@ -180,16 +180,16 @@
 ```
   0: 0x0002 [0x1A] CALL_SUBROUTINE(address=0x0254)
   1: 0x0005 [0x1A] CALL_SUBROUTINE(address=0x02C2)
-  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10041*)
+  2: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=10042*)
     → "Hail, fellow adventurer. My name is Maryoh-Comyujah. I braved the long, arrrduous journey from the mainland to search for trrreasure in the Quicksand Caves."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=10042*)
+  4: 0x000C [0x1D] PRINT_EVENT_MESSAGE(message_id=10043*)
     → "It's been a little harrrder than I expected, though. The Quicksand Caves are extensive and verrry confusing."
   5: 0x000F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10043*)
+  6: 0x0010 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
     → "On top of that, there are all these ant-type beastmen crawling around down there. Not a nice place to be looking for lost rrriches!"
   7: 0x0013 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10044*)
+  8: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=10045*)
     → "The rrroad to hidden trrreasure is long indeed..."
   9: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0018 [0x21] END_EVENT
@@ -225,32 +225,32 @@
   0: 0x001A [0x1A] CALL_SUBROUTINE(address=0x0254)
   1: 0x001D [0x1A] CALL_SUBROUTINE(address=0x02C2)
   2: 0x0020 [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x002F
-  3: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
+  3: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=10250*)
     → "What's up? You changed your mind?"
   4: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x002C [0x01] GOTO 0x0043
-  6: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10244*)
+  6: 0x002F [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
     → "Ho there! Aren't you the adventurer known as <Player>? The winds carry word of your interest in the ruins of Li'Telor."
   7: 0x0032 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10245*)
+  8: 0x0033 [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
     → "I know how to get in. Into the very center of the rrruins, I mean. I wouldn't mind just telling you, but...you know what they say, "Nothing of value should come for free.""
   9: 0x0036 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10246*)
+ 10: 0x0037 [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
     → "I have a little favor to ask. Underneath the Altepa Desert lie the expansive Quicksand Caves. I've got a hunch that there's some undiscovered trrreasure in there, still waiting to be claimed."
  11: 0x003A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10247*)
+ 12: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
     → "Just head a short way into the caves and pick up anything that strrrikes you as valuable. If I like what you brrring me, I'll tell you everything I know about the rrruins."
  13: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10248*)
+ 14: 0x003F [0x1D] PRINT_EVENT_MESSAGE(message_id=10249*)
     → "Not a bad deal, rrright? You scrrratch my back, and I'll scrrratch yours."
  15: 0x0042 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0043:
- 16: 0x0043 [0x24] CREATE_DIALOG(message_id=10250*, default_option=1*, option_flags=0*)
+ 16: 0x0043 [0x24] CREATE_DIALOG(message_id=10251*, default_option=1*, option_flags=0*)
     → "Do a deal with Maryoh Comyujah? [Sounds fair./I can scratch my own back.]"
  17: 0x004A [0x25] WAIT_DIALOG_SELECT()
  18: 0x004B [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x005D
- 19: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
+ 19: 0x0053 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
     → "What, you don't trrrust me? Well, I'll be arrround here for a while, so come on back if you change your mind."
  20: 0x0056 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0057 [0x01] GOTO 0x0080
@@ -263,7 +263,7 @@ SUBROUTINE_005D:
  26: 0x006B [0x6E] EventEntity uses emote 11*
  27: 0x0072 [0x99] Wait for EventEntity animation to complete
  28: 0x0077 [0x99] Wait for EventEntity animation to complete
- 29: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=10251*)
+ 29: 0x007C [0x1D] PRINT_EVENT_MESSAGE(message_id=10252*)
     → "Okay then, it's a deal. The Quicksand Caves are expansive and have many entrances, but I'm sure you'll figure them out."
  30: 0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -300,7 +300,7 @@ SUBROUTINE_0080:
 ```
   0: 0x0082 [0x1A] CALL_SUBROUTINE(address=0x0254)
   1: 0x0085 [0x1A] CALL_SUBROUTINE(address=0x02C2)
-  2: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10253*)
+  2: 0x0088 [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
     → "My hunter's instinct tells me that there's something unusual beyond that weight-operated device in the caves."
   3: 0x008B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x008C [0x21] END_EVENT
@@ -366,14 +366,14 @@ SUBROUTINE_0080:
  10: 0x00CB [0x6E] EventEntity uses emote 11*
  11: 0x00D2 [0x99] Wait for EventEntity animation to complete
  12: 0x00D7 [0x99] Wait for EventEntity animation to complete
- 13: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10254*)
+ 13: 0x00DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
     → "Wow, this is incrrredible!"
  14: 0x00DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x00E0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 16: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
+ 16: 0x00EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
     → "Now listen carefully, and I'll tell you what I know about the rrruins, just like I prrromised."
  17: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
+ 18: 0x00F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
     → "What I'm about to tell you happened long before I came to Kuzotz. I went alone to explore Li'Telor, a place that has been known as a holy land since ancient times."
  19: 0x00F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x00F7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -382,16 +382,16 @@ SUBROUTINE_0080:
  23: 0x0122 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ze02" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  24: 0x0133 [0x81] SET_ENTITY_BLINKING(blink_flag=0x00, entity=Maryoh Comyujah (ID: 17788931/0x010F7003))
  25: 0x0139 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
- 26: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
+ 26: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
     → "I was traveling through a dense fog and, though it embarrasses me to rrrecall, completely lost my way. After wandering for a time, I somehow found myself at the rrruins."
  27: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
+ 28: 0x014C [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
     → "What I saw there, you already know. Those huge statues facing one another in that great hall, and beyond... The immovable wall that bars the way into the heart of the rrruins."
  29: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
+ 30: 0x0150 [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
     → "I searched every inch of that place. And then I found it. A mysterrrious crystal glowing with a clear, blue light."
  31: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
+ 32: 0x0154 [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
     → "I don't know why it was there, but it was shining from below the surface of the lake in the great hall. ...Glowing as if in rrresponse to the moonlight that poured in from above."
  33: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x0158 [0x81] SET_ENTITY_BLINKING(blink_flag=0x01, entity=Maryoh Comyujah (ID: 17788931/0x010F7003))
@@ -401,14 +401,14 @@ SUBROUTINE_0080:
  38: 0x0189 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ze03" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  39: 0x019A [0x03] Work_Zone[2] = 452*
  40: 0x019F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=50*
- 41: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
+ 41: 0x01AE [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
     → "This is that $3. I brought it back with me thinking I could sell it, but I haven't been able to find a buyer. I might as well give it to you."
  42: 0x01B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x01B2 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "pas0" with entities [EventEntity, EventEntity]
  44: 0x01BF [0x52] END_LOAD_SCHEDULER: End scheduler "ze03" with entities [LocalPlayer, LocalPlayer], work=233*
  45: 0x01CE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ze04" with entities [LocalPlayer, LocalPlayer], work=[233*, 0*]
  46: 0x01DF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=50*
- 47: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
+ 47: 0x01EE [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
     → "Place it into the hollow in the center of that wall and see what happens for yourself. You wouldn't want me to spoil it for you now, would you? Hehehe."
  48: 0x01F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x01F2 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk2" with entities [EventEntity, EventEntity], work=50*
@@ -444,7 +444,7 @@ SUBROUTINE_0080:
 ```
   0: 0x0238 [0x1A] CALL_SUBROUTINE(address=0x0254)
   1: 0x023B [0x1A] CALL_SUBROUTINE(address=0x02C2)
-  2: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
+  2: 0x023E [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
     → "Those rrruins in Li'Telor are interesting to visit on a night of the full moon. You learn anew that there are still many things in this world that are beyond our understanding."
   3: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0242 [0x21] END_EVENT
@@ -528,10 +528,10 @@ SUBROUTINE_0080:
 ```
   0: 0x0244 [0x1A] CALL_SUBROUTINE(address=0x0254)
   1: 0x0247 [0x1A] CALL_SUBROUTINE(address=0x02C2)
-  2: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
+  2: 0x024A [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
     → "Ho, <Player>. What did you see? There's nothing in there, rrright? I already knew that, though... Huh? You saw a floating island in there?"
   3: 0x024D [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
+  4: 0x024E [0x1D] PRINT_EVENT_MESSAGE(message_id=10266*)
     → "Haha, nice try. If you're gonna make something up, try for something a little more believable. There's nothing at the top of those stairs besides that altar."
   5: 0x0251 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0252 [0x21] END_EVENT

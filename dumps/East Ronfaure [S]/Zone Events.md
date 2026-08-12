@@ -131,28 +131,28 @@
 |      78 | 0x0094      |         148 |
 |      79 | 0x00F0      |         240 |
 |      80 | 0x00C8      |         200 |
-|      81 | 0x1DF4      |        7668 |
+|      81 | 0x1DF5      |        7669 |
 |      82 | 0x005A      |          90 |
-|      83 | 0x1ED5      |        7893 |
+|      83 | 0x1ED6      |        7894 |
 |      84 | 0x00EA      |         234 |
 |      85 | 0x0003      |           3 |
 |      86 | 0x0013      |          19 |
 |      87 | 0x0090      |         144 |
 |      88 | 0x00B4      |         180 |
-|      89 | 0x1C21      |        7201 |
-|      90 | 0x1C22      |        7202 |
-|      91 | 0x1C24      |        7204 |
-|      92 | 0x1C25      |        7205 |
-|      93 | 0x1C26      |        7206 |
-|      94 | 0x1C27      |        7207 |
+|      89 | 0x1C22      |        7202 |
+|      90 | 0x1C23      |        7203 |
+|      91 | 0x1C25      |        7205 |
+|      92 | 0x1C26      |        7206 |
+|      93 | 0x1C27      |        7207 |
+|      94 | 0x1C28      |        7208 |
 |      95 | 0x0102      |         258 |
 |      96 | 0x0202      |         514 |
 |      97 | 0x0156      |         342 |
 
 ## String References
 
-- **7668**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
-- **7893**: The sandworm swallows you whole!
+- **7669**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7894**: The sandworm swallows you whole!
 
 ## Events
 
@@ -1011,7 +1011,7 @@ SUBROUTINE_00B0:
 
 ```
   0: 0x0320 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0321 [0x48] [System] [7668*]:
+  1: 0x0321 [0x48] [System] [7669*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0324 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0335 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0351
@@ -1050,7 +1050,7 @@ SUBROUTINE_00B0:
 
 ```
   0: 0x0386 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0387 [0x48] [System] [7893*]:
+  1: 0x0387 [0x48] [System] [7894*]:
     → "The sandworm swallows you whole!"
   2: 0x038A [0xBB] LOAD_EVENT_SCHEDULER_ALT: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[234*, 0*]
   3: 0x039B [0x1C] WAIT(60* ticks)
@@ -1278,17 +1278,17 @@ SUBROUTINE_0603:
 
 SUBROUTINE_0604:
 109: 0x0604 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0617
-110: 0x060C [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7201*]:
+110: 0x060C [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7202*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x0613 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0614 [0x01] GOTO 0x063D
 113: 0x0617 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x062A
-114: 0x061F [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7201*]:
+114: 0x061F [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7202*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x0626 [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x0627 [0x01] GOTO 0x063D
 117: 0x062A [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x063D
-118: 0x0632 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7201*]:
+118: 0x0632 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7202*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x0639 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x063A [0x01] GOTO 0x063D
@@ -1298,17 +1298,17 @@ SUBROUTINE_063D:
 
 SUBROUTINE_063E:
 122: 0x063E [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0651
-123: 0x0646 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7202*]:
+123: 0x0646 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7203*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x064D [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x064E [0x01] GOTO 0x0677
 126: 0x0651 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0664
-127: 0x0659 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7202*]:
+127: 0x0659 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7203*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x0661 [0x01] GOTO 0x0677
 130: 0x0664 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x0677
-131: 0x066C [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7202*]:
+131: 0x066C [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7203*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x0673 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x0674 [0x01] GOTO 0x0677
@@ -1318,17 +1318,17 @@ SUBROUTINE_0677:
 
 SUBROUTINE_0678:
 135: 0x0678 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x068B
-136: 0x0680 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7204*]:
+136: 0x0680 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7205*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x0687 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0688 [0x01] GOTO 0x06B1
 139: 0x068B [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x069E
-140: 0x0693 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7204*]:
+140: 0x0693 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7205*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x069B [0x01] GOTO 0x06B1
 143: 0x069E [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x06B1
-144: 0x06A6 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7204*]:
+144: 0x06A6 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7205*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x06AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x06AE [0x01] GOTO 0x06B1
@@ -1338,17 +1338,17 @@ SUBROUTINE_06B1:
 
 SUBROUTINE_06B2:
 148: 0x06B2 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x06C5
-149: 0x06BA [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7205*]:
+149: 0x06BA [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7206*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x06C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x06C2 [0x01] GOTO 0x06EB
 152: 0x06C5 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x06D8
-153: 0x06CD [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7205*]:
+153: 0x06CD [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7206*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x06D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x06D5 [0x01] GOTO 0x06EB
 156: 0x06D8 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x06EB
-157: 0x06E0 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7205*]:
+157: 0x06E0 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7206*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x06E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x06E8 [0x01] GOTO 0x06EB
@@ -1358,17 +1358,17 @@ SUBROUTINE_06EB:
 
 SUBROUTINE_06EC:
 161: 0x06EC [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x06FF
-162: 0x06F4 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7206*]:
+162: 0x06F4 [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7207*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x06FB [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x06FC [0x01] GOTO 0x0725
 165: 0x06FF [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x0712
-166: 0x0707 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7206*]:
+166: 0x0707 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7207*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x070E [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x070F [0x01] GOTO 0x0725
 169: 0x0712 [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x0725
-170: 0x071A [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7206*]:
+170: 0x071A [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7207*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x0721 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0722 [0x01] GOTO 0x0725
@@ -1378,17 +1378,17 @@ SUBROUTINE_0725:
 
 SUBROUTINE_0726:
 174: 0x0726 [0x02] IF !(ExtData[1]->WorkLocal[5] == 1*) GOTO 0x0739
-175: 0x072E [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7207*]:
+175: 0x072E [0x2B] Arlayse, R.K. (ID: 17109768/0x01051308) [7208*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x0735 [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x0736 [0x01] GOTO 0x075F
 178: 0x0739 [0x02] IF !(ExtData[1]->WorkLocal[5] == 2*) GOTO 0x074C
-179: 0x0741 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7207*]:
+179: 0x0741 [0x2B] Aged Stone, L.C. (ID: 17109769/0x01051309) [7208*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x0748 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0749 [0x01] GOTO 0x075F
 182: 0x074C [0x02] IF !(ExtData[1]->WorkLocal[5] == 3*) GOTO 0x075F
-183: 0x0754 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7207*]:
+183: 0x0754 [0x2B] Ihli Llamhya, M.C. (ID: 17109770/0x0105130A) [7208*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x075B [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x075C [0x01] GOTO 0x075F

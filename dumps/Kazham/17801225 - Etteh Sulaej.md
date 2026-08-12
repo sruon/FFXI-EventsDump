@@ -81,10 +81,10 @@
 |       2 | 0x016C      |         364 |
 |       3 | 0x0168      |         360 |
 |       4 | 0x0245      |         581 |
-|       5 | 0x26F5      |        9973 |
-|       6 | 0x26F6      |        9974 |
-|       7 | 0x2862      |       10338 |
-|       8 | 0x2863      |       10339 |
+|       5 | 0x26F6      |        9974 |
+|       6 | 0x26F7      |        9975 |
+|       7 | 0x2863      |       10339 |
+|       8 | 0x2864      |       10340 |
 |       9 | 0x000D      |          13 |
 |      10 | 0x16F89     |       94089 |
 |      11 | 0xFFFE496D  |  4294855021 |
@@ -100,60 +100,60 @@
 |      21 | 0x0096      |         150 |
 |      22 | 0x0006      |           6 |
 |      23 | 0x0008      |           8 |
-|      24 | 0x2775      |       10101 |
+|      24 | 0x2776      |       10102 |
 |      25 | 0x0001      |           1 |
 |      26 | 0x0002      |           2 |
-|      27 | 0x277B      |       10107 |
-|      28 | 0x277C      |       10108 |
-|      29 | 0x277E      |       10110 |
-|      30 | 0x277F      |       10111 |
+|      27 | 0x277C      |       10108 |
+|      28 | 0x277D      |       10109 |
+|      29 | 0x277F      |       10111 |
+|      30 | 0x2780      |       10112 |
 |      31 | 0x0064      |         100 |
 |      32 | 0x0087      |         135 |
-|      33 | 0x2772      |       10098 |
-|      34 | 0x2773      |       10099 |
-|      35 | 0x2774      |       10100 |
-|      36 | 0x2776      |       10102 |
-|      37 | 0x2777      |       10103 |
-|      38 | 0x2778      |       10104 |
-|      39 | 0x2779      |       10105 |
-|      40 | 0x277A      |       10106 |
-|      41 | 0x277D      |       10109 |
-|      42 | 0x2780      |       10112 |
-|      43 | 0x2781      |       10113 |
+|      33 | 0x2773      |       10099 |
+|      34 | 0x2774      |       10100 |
+|      35 | 0x2775      |       10101 |
+|      36 | 0x2777      |       10103 |
+|      37 | 0x2778      |       10104 |
+|      38 | 0x2779      |       10105 |
+|      39 | 0x277A      |       10106 |
+|      40 | 0x277B      |       10107 |
+|      41 | 0x277E      |       10110 |
+|      42 | 0x2781      |       10113 |
+|      43 | 0x2782      |       10114 |
 |      44 | 0x007F      |         127 |
-|      45 | 0x2786      |       10118 |
-|      46 | 0x2787      |       10119 |
-|      47 | 0x278E      |       10126 |
-|      48 | 0x2784      |       10116 |
-|      49 | 0x2785      |       10117 |
-|      50 | 0x278A      |       10122 |
-|      51 | 0x2792      |       10130 |
-|      52 | 0x2793      |       10131 |
-|      53 | 0x2795      |       10133 |
+|      45 | 0x2787      |       10119 |
+|      46 | 0x2788      |       10120 |
+|      47 | 0x278F      |       10127 |
+|      48 | 0x2785      |       10117 |
+|      49 | 0x2786      |       10118 |
+|      50 | 0x278B      |       10123 |
+|      51 | 0x2793      |       10131 |
+|      52 | 0x2794      |       10132 |
+|      53 | 0x2796      |       10134 |
 |      54 | 0x0800      |        2048 |
-|      55 | 0x2797      |       10135 |
+|      55 | 0x2798      |       10136 |
 |      56 | 0x00C9      |         201 |
-|      57 | 0x2794      |       10132 |
-|      58 | 0x279A      |       10138 |
-|      59 | 0x279B      |       10139 |
-|      60 | 0x27A1      |       10145 |
-|      61 | 0x27A2      |       10146 |
-|      62 | 0x27A3      |       10147 |
-|      63 | 0x27A4      |       10148 |
-|      64 | 0x279E      |       10142 |
-|      65 | 0x279F      |       10143 |
-|      66 | 0x27A0      |       10144 |
-|      67 | 0x27A6      |       10150 |
-|      68 | 0x27A8      |       10152 |
-|      69 | 0x27A7      |       10151 |
-|      70 | 0x27A9      |       10153 |
-|      71 | 0x27AA      |       10154 |
-|      72 | 0x27AE      |       10158 |
-|      73 | 0x27AD      |       10157 |
-|      74 | 0x27B7      |       10167 |
-|      75 | 0x27B8      |       10168 |
-|      76 | 0x27C2      |       10178 |
-|      77 | 0x27C3      |       10179 |
+|      57 | 0x2795      |       10133 |
+|      58 | 0x279B      |       10139 |
+|      59 | 0x279C      |       10140 |
+|      60 | 0x27A2      |       10146 |
+|      61 | 0x27A3      |       10147 |
+|      62 | 0x27A4      |       10148 |
+|      63 | 0x27A5      |       10149 |
+|      64 | 0x279F      |       10143 |
+|      65 | 0x27A0      |       10144 |
+|      66 | 0x27A1      |       10145 |
+|      67 | 0x27A7      |       10151 |
+|      68 | 0x27A9      |       10153 |
+|      69 | 0x27A8      |       10152 |
+|      70 | 0x27AA      |       10154 |
+|      71 | 0x27AB      |       10155 |
+|      72 | 0x27AF      |       10159 |
+|      73 | 0x27AE      |       10158 |
+|      74 | 0x27B8      |       10168 |
+|      75 | 0x27B9      |       10169 |
+|      76 | 0x27C3      |       10179 |
+|      77 | 0x27C4      |       10180 |
 |      78 | 0x16F69     |       94057 |
 |      79 | 0xFFFE49DE  |  4294855134 |
 |      80 | 0xFFFFC75C  |  4294952796 |
@@ -161,44 +161,44 @@
 
 ## String References
 
-- **9973**: Stop right there! What business do you have with the chieftainness?
-- **9974**: It had better be good, or you won't be seeing the light of tomorrow.
-- **10098**: What the...
-- **10099**: Unbelievable! What the hell are those mainlanders thinking?
-- **10100**: Hold on there. You're from the mainlands. You wouldn't happen to know a Hume named Angelica, would you?
-- **10101**: Do you know an Angelica? [Of course./Never heard of her.]
-- **10102**: Well, who the hell does she think she is? The other day, she sent this letter to the chieftainness.
-- **10103**: Well, aren't you lucky. The other day, this Angelica sent a letter to the chieftainness.
-- **10104**: You won't believe what it was about. Listen. I'll rrread it for you.
-- **10105**: "Dear Chieftainness, My name is Angelica, and I'm the best artist here in Windurst. This may seem sudden, but I have a favor to ask. The other day, I heard an adventurer talking about her journey to the Temple of Uggalepih.
-- **10106**: "She said she came across a rrroom that resembled an art gallery. The walls were covered with numerous frames, but in these frames there were no paintings.
-- **10109**: This girl has got to be either crazy or stupid. I wonder if that adventurer actually told her what kind of place the temple rrreally is?
-- **10112**: Those Humes... I haven't been this surprised since the former chieftainness...
-- **10113**: But that's nothing for you to worry about! Now hurry off and deliver that letter to Windurst.
-- **10116**: What the...
-- **10117**: Unbelievable! What the hell are those mainlanders thinking?
-- **10118**: Chieftainness! That Angelica looks like she's serious about her crazy plan.
-- **10122**: I-I apologize! Ch-Chieftainness! Have mercy! Chieftainness!
-- **10130**: I get dizzy every time I look at that girl's paintings.
-- **10131**: It's kind of like dreaming while I'm still awake...
-- **10132**: So, did you put the painting in the frame? What? You heard a strange voice and were attacked by a monster!?
-- **10138**: A lot of people say that they hear voices when they travel around the Uggalepih Temple.
-- **10139**: I never heard any, though. I guess I just don't have that "sixth sense."
-- **10142**: Hey, listen to this! That Angelica has sent another letter!
-- **10143**: "Dear Chieftainness, I thank you for all of your assistance with my private exhibition.
-- **10144**: "It looks like some evil spirit is still living in the gallery of the temple. From what I can see, that spirit must have found some flaw in my painting and then rrripped it up.
-- **10148**: Do you accept the offer? [If not me.../I've had enough!]
-- **10150**: Understood!
-- **10152**: What? You're going back? And all this for a crazy mainlander... What is going on in you people's heads!?
-- **10153**: Those Humes... I haven't been this surprised since the former chieftainness...
-- **10154**: But that's nothing for you to worry about! Now hurry off to the Temple of Uggalepih!
-- **10157**: You're back, so... What!? You were attacked again!?
-- **10167**: Everyone knows to keep their hands off the Tonberries' $1!
-- **10168**: What did you mainlanders eat to grow up so stupid!?
-- **10178**: Wait up there. Tell me. How did you cure yourself of that curse?
-- **10179**: Not going to tell me? Come o\`n. You can tell me. What did I ever do to you mainlanders to deserve this?
-- **10338**: Stop rrright there! What business does someone with such a foul stench have with the chieftainness?
-- **10339**: It had better be good, because with that body odor, I wouldn't expect you to be seeing the light of tomorrow.
+- **9974**: Stop right there! What business do you have with the chieftainness?
+- **9975**: It had better be good, or you won't be seeing the light of tomorrow.
+- **10099**: What the...
+- **10100**: Unbelievable! What the hell are those mainlanders thinking?
+- **10101**: Hold on there. You're from the mainlands. You wouldn't happen to know a Hume named Angelica, would you?
+- **10102**: Do you know an Angelica? [Of course./Never heard of her.]
+- **10103**: Well, who the hell does she think she is? The other day, she sent this letter to the chieftainness.
+- **10104**: Well, aren't you lucky. The other day, this Angelica sent a letter to the chieftainness.
+- **10105**: You won't believe what it was about. Listen. I'll rrread it for you.
+- **10106**: "Dear Chieftainness, My name is Angelica, and I'm the best artist here in Windurst. This may seem sudden, but I have a favor to ask. The other day, I heard an adventurer talking about her journey to the Temple of Uggalepih.
+- **10107**: "She said she came across a rrroom that resembled an art gallery. The walls were covered with numerous frames, but in these frames there were no paintings.
+- **10110**: This girl has got to be either crazy or stupid. I wonder if that adventurer actually told her what kind of place the temple rrreally is?
+- **10113**: Those Humes... I haven't been this surprised since the former chieftainness...
+- **10114**: But that's nothing for you to worry about! Now hurry off and deliver that letter to Windurst.
+- **10117**: What the...
+- **10118**: Unbelievable! What the hell are those mainlanders thinking?
+- **10119**: Chieftainness! That Angelica looks like she's serious about her crazy plan.
+- **10123**: I-I apologize! Ch-Chieftainness! Have mercy! Chieftainness!
+- **10131**: I get dizzy every time I look at that girl's paintings.
+- **10132**: It's kind of like dreaming while I'm still awake...
+- **10133**: So, did you put the painting in the frame? What? You heard a strange voice and were attacked by a monster!?
+- **10139**: A lot of people say that they hear voices when they travel around the Uggalepih Temple.
+- **10140**: I never heard any, though. I guess I just don't have that "sixth sense."
+- **10143**: Hey, listen to this! That Angelica has sent another letter!
+- **10144**: "Dear Chieftainness, I thank you for all of your assistance with my private exhibition.
+- **10145**: "It looks like some evil spirit is still living in the gallery of the temple. From what I can see, that spirit must have found some flaw in my painting and then rrripped it up.
+- **10149**: Do you accept the offer? [If not me.../I've had enough!]
+- **10151**: Understood!
+- **10153**: What? You're going back? And all this for a crazy mainlander... What is going on in you people's heads!?
+- **10154**: Those Humes... I haven't been this surprised since the former chieftainness...
+- **10155**: But that's nothing for you to worry about! Now hurry off to the Temple of Uggalepih!
+- **10158**: You're back, so... What!? You were attacked again!?
+- **10168**: Everyone knows to keep their hands off the Tonberries' $1!
+- **10169**: What did you mainlanders eat to grow up so stupid!?
+- **10179**: Wait up there. Tell me. How did you cure yourself of that curse?
+- **10180**: Not going to tell me? Come o\`n. You can tell me. What did I ever do to you mainlanders to deserve this?
+- **10339**: Stop rrright there! What business does someone with such a foul stench have with the chieftainness?
+- **10340**: It had better be good, because with that body odor, I wouldn't expect you to be seeing the light of tomorrow.
 
 ## Events
 
@@ -814,10 +814,10 @@
   0: 0x0198 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x019D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x019E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=9973*)
+  3: 0x019F [0x1D] PRINT_EVENT_MESSAGE(message_id=9974*)
     → "Stop right there! What business do you have with the chieftainness?"
   4: 0x01A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9974*)
+  5: 0x01A3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9975*)
     → "It had better be good, or you won't be seeing the light of tomorrow."
   6: 0x01A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01A7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -848,10 +848,10 @@
   0: 0x01AB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x01B0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x01B1 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10338*)
+  3: 0x01B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
     → "Stop rrright there! What business does someone with such a foul stench have with the chieftainness?"
   4: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10339*)
+  5: 0x01B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10340*)
     → "It had better be good, because with that body odor, I wouldn't expect you to be seeing the light of tomorrow."
   6: 0x01B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x01BA [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -1057,7 +1057,7 @@ SUBROUTINE_0392:
  59: 0x0392 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x07)
  60: 0x0399 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x1E)
  61: 0x03A0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x08)
- 62: 0x03A7 [0x24] CREATE_DIALOG(message_id=10101*, default_option=0*, option_flags=0*)
+ 62: 0x03A7 [0x24] CREATE_DIALOG(message_id=10102*, default_option=0*, option_flags=0*)
     → "Do you know an Angelica? [Of course./Never heard of her.]"
  63: 0x03AE [0x25] WAIT_DIALOG_SELECT()
  64: 0x03AF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x045C
@@ -1121,10 +1121,10 @@ SUBROUTINE_0509:
 116: 0x057F [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=150*
 117: 0x058E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 118: 0x059F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
-119: 0x05B0 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10107*]:
+119: 0x05B0 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10108*]:
     → ""Ever since I picked up my first brush, I have dreamed of having my works put on display at a private exhibition. After hearing this adventurer's words, I feel that this may be my chance."
 120: 0x05B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
-121: 0x05B8 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10108*]:
+121: 0x05B8 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10109*]:
     → ""Chieftainness, you've got to let me display my works in the Temple of Uggalepih's gallery. I'll even pay you, if that's what you want.""
 122: 0x05BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x05C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -1144,12 +1144,12 @@ SUBROUTINE_0509:
 137: 0x065B [0x4A] LocalPlayer looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
 138: 0x0664 [0x4A] Etteh Sulaej (ID: 17801225/0x010FA009) looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
 139: 0x066D [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
-140: 0x0674 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10110*]:
+140: 0x0674 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10111*]:
     → "You. Come over here. If you are traveling in Windurst, I'd like you to deliver this letter to a Hume by the name of Angelica."
 141: 0x067B [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x067C [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
 143: 0x0682 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x01)
-144: 0x0689 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10111*]:
+144: 0x0689 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10112*]:
     → "I explained to her in detail about the dangerrrs of Uggalepih. Not that I expect her to listen..."
 145: 0x0690 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0691 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x02)
@@ -1187,7 +1187,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10098*)
+  0: 0x06E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10099*)
     → "What the..."
   1: 0x06E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06E5 [0x00] END_REQSTACK()
@@ -1212,7 +1212,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10099*)
+  0: 0x06E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10100*)
     → "Unbelievable! What the hell are those mainlanders thinking?"
   1: 0x06E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06EA [0x00] END_REQSTACK()
@@ -1237,7 +1237,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10100*)
+  0: 0x06EB [0x1D] PRINT_EVENT_MESSAGE(message_id=10101*)
     → "Hold on there. You're from the mainlands. You wouldn't happen to know a Hume named Angelica, would you?"
   1: 0x06EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06EF [0x00] END_REQSTACK()
@@ -1262,7 +1262,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10102*)
+  0: 0x06F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10103*)
     → "Well, who the hell does she think she is? The other day, she sent this letter to the chieftainness."
   1: 0x06F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06F4 [0x00] END_REQSTACK()
@@ -1287,7 +1287,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10103*)
+  0: 0x06F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
     → "Well, aren't you lucky. The other day, this Angelica sent a letter to the chieftainness."
   1: 0x06F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06F9 [0x00] END_REQSTACK()
@@ -1312,7 +1312,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10104*)
+  0: 0x06FA [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
     → "You won't believe what it was about. Listen. I'll rrread it for you."
   1: 0x06FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x06FE [0x00] END_REQSTACK()
@@ -1338,10 +1338,10 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x06FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10105*)
+  0: 0x06FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
     → ""Dear Chieftainness, My name is Angelica, and I'm the best artist here in Windurst. This may seem sudden, but I have a favor to ask. The other day, I heard an adventurer talking about her journey to the Temple of Uggalepih."
   1: 0x0702 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0703 [0x1D] PRINT_EVENT_MESSAGE(message_id=10106*)
+  2: 0x0703 [0x1D] PRINT_EVENT_MESSAGE(message_id=10107*)
     → ""She said she came across a rrroom that resembled an art gallery. The walls were covered with numerous frames, but in these frames there were no paintings."
   3: 0x0706 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0707 [0x00] END_REQSTACK()
@@ -1366,7 +1366,7 @@ SUBROUTINE_0509:
 #### Opcodes
 
 ```
-  0: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10109*)
+  0: 0x0708 [0x1D] PRINT_EVENT_MESSAGE(message_id=10110*)
     → "This girl has got to be either crazy or stupid. I wonder if that adventurer actually told her what kind of place the temple rrreally is?"
   1: 0x070B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x070C [0x00] END_REQSTACK()
@@ -1396,11 +1396,11 @@ SUBROUTINE_0509:
   0: 0x070D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0712 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0713 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=10112*)
+  3: 0x0714 [0x1D] PRINT_EVENT_MESSAGE(message_id=10113*)
     → "Those Humes... I haven't been this surprised since the former chieftainness..."
   4: 0x0717 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0718 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x09)
-  6: 0x071F [0x1D] PRINT_EVENT_MESSAGE(message_id=10113*)
+  6: 0x071F [0x1D] PRINT_EVENT_MESSAGE(message_id=10114*)
     → "But that's nothing for you to worry about! Now hurry off and deliver that letter to Windurst."
   7: 0x0722 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0723 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x0A)
@@ -1517,7 +1517,7 @@ SUBROUTINE_0509:
  30: 0x07FE [0x1E] EventEntity looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008) and starts talking
  31: 0x0803 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  32: 0x0804 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 33: 0x0805 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10118*]:
+ 33: 0x0805 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10119*]:
     → "Chieftainness! That Angelica looks like she's serious about her crazy plan."
  34: 0x080C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x080D [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
@@ -1525,7 +1525,7 @@ SUBROUTINE_0509:
  37: 0x0819 [0x52] END_LOAD_SCHEDULER: End scheduler "s095" with entities [LocalPlayer, LocalPlayer], work=150*
  38: 0x0828 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s097" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  39: 0x0839 [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
- 40: 0x0840 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10119*]:
+ 40: 0x0840 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10120*]:
     → "She wrrrote back saying that she still wants to display her paintings in the temple!"
  41: 0x0847 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x0848 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
@@ -1587,7 +1587,7 @@ SUBROUTINE_097A:
 SUBROUTINE_0A1E:
  95: 0x0A1E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  96: 0x0A2F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x03)
- 97: 0x0A36 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10126*]:
+ 97: 0x0A36 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10127*]:
     → "That's right. You're going to put that painting up. If you don't want to do it, you go back and tell her yourself."
  98: 0x0A3D [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x0A3E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x04)
@@ -1628,7 +1628,7 @@ SUBROUTINE_0A1E:
 #### Opcodes
 
 ```
-  0: 0x0AA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10116*)
+  0: 0x0AA9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
     → "What the..."
   1: 0x0AAC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AAD [0x00] END_REQSTACK()
@@ -1654,7 +1654,7 @@ SUBROUTINE_0A1E:
 #### Opcodes
 
 ```
-  0: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=10117*)
+  0: 0x0AAE [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
     → "Unbelievable! What the hell are those mainlanders thinking?"
   1: 0x0AB1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AB2 [0x00] END_REQSTACK()
@@ -1679,7 +1679,7 @@ SUBROUTINE_0A1E:
 #### Opcodes
 
 ```
-  0: 0x0AB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10118*)
+  0: 0x0AB3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10119*)
     → "Chieftainness! That Angelica looks like she's serious about her crazy plan."
   1: 0x0AB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0AB7 [0x00] END_REQSTACK()
@@ -1704,7 +1704,7 @@ SUBROUTINE_0A1E:
 #### Opcodes
 
 ```
-  0: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10122*)
+  0: 0x0AB8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10123*)
     → "I-I apologize! Ch-Chieftainness! Have mercy! Chieftainness!"
   1: 0x0ABB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0ABC [0x00] END_REQSTACK()
@@ -1736,12 +1736,12 @@ SUBROUTINE_0A1E:
   1: 0x0AC2 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0AC3 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0AC4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x05)
-  4: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=10130*)
+  4: 0x0ACB [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
     → "I get dizzy every time I look at that girl's paintings."
   5: 0x0ACE [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0ACF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x06)
   7: 0x0AD6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x07)
-  8: 0x0ADD [0x1D] PRINT_EVENT_MESSAGE(message_id=10131*)
+  8: 0x0ADD [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
     → "It's kind of like dreaming while I'm still awake..."
   9: 0x0AE0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0AE1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x08)
@@ -1891,7 +1891,7 @@ SUBROUTINE_0C86:
  56: 0x0C86 [0x4A] LocalPlayer looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  57: 0x0C8F [0x4A] Etteh Sulaej (ID: 17801225/0x010FA009) looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  58: 0x0C98 [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
- 59: 0x0C9F [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10133*]:
+ 59: 0x0C9F [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10134*]:
     → "Interrresting... Tell me more."
  60: 0x0CA6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0CA7 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
@@ -1924,7 +1924,7 @@ SUBROUTINE_0D45:
  86: 0x0D8B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  87: 0x0D9C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s103" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
  88: 0x0DAD [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x09)
- 89: 0x0DB4 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10135*]:
+ 89: 0x0DB4 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10136*]:
     → "The voice you heard was probably one of the angrrry spirits of those people."
  90: 0x0DBB [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x0DBC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x0A)
@@ -1970,7 +1970,7 @@ SUBROUTINE_0D45:
 #### Opcodes
 
 ```
-  0: 0x0E7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10132*)
+  0: 0x0E7B [0x1D] PRINT_EVENT_MESSAGE(message_id=10133*)
     → "So, did you put the painting in the frame? What? You heard a strange voice and were attacked by a monster!?"
   1: 0x0E7E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0E7F [0x00] END_REQSTACK()
@@ -2001,10 +2001,10 @@ SUBROUTINE_0D45:
   1: 0x0E85 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0E86 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0E87 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x03)
-  4: 0x0E8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10138*)
+  4: 0x0E8E [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
     → "A lot of people say that they hear voices when they travel around the Uggalepih Temple."
   5: 0x0E91 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0E92 [0x1D] PRINT_EVENT_MESSAGE(message_id=10139*)
+  6: 0x0E92 [0x1D] PRINT_EVENT_MESSAGE(message_id=10140*)
     → "I never heard any, though. I guess I just don't have that "sixth sense.""
   7: 0x0E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0E96 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x04)
@@ -2163,10 +2163,10 @@ SUBROUTINE_0FDD:
  51: 0x101A [0x52] END_LOAD_SCHEDULER: End scheduler "s090" with entities [LocalPlayer, LocalPlayer], work=150*
  52: 0x1029 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  53: 0x103A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s092" with entities [LocalPlayer, LocalPlayer], work=[150*, 0*]
- 54: 0x104B [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10145*]:
+ 54: 0x104B [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10146*]:
     → ""But, I'm not giving up! I'm determined to paint a work that is powerful and moving enough to soothe the most evil of spirits!"
  55: 0x1052 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 56: 0x1053 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10146*]:
+ 56: 0x1053 [0x2B] Etteh Sulaej (ID: 17801225/0x010FA009) [10147*]:
     → ""Chieftainness, give me one more chance to display my works in the Temple of Uggalepih's gallery. If you need more incentive, I'm rrready to pay any price.""
  57: 0x105A [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x105B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -2180,12 +2180,12 @@ SUBROUTINE_0FDD:
  66: 0x10BB [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
  67: 0x10C2 [0x4A] Etteh Sulaej (ID: 17801225/0x010FA009) looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  68: 0x10CB [0x4A] LocalPlayer looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
- 69: 0x10D4 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10147*]:
+ 69: 0x10D4 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10148*]:
     → "As I expected... Mainlanders neverrr listen to reason. So, can I count on you to take this painting to the gallery?"
  70: 0x10DB [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x10DC [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
  72: 0x10E2 [0x52] END_LOAD_SCHEDULER: End scheduler "s103" with entities [LocalPlayer, LocalPlayer], work=150*
- 73: 0x10F1 [0x24] CREATE_DIALOG(message_id=10148*, default_option=0*, option_flags=0*)
+ 73: 0x10F1 [0x24] CREATE_DIALOG(message_id=10149*, default_option=0*, option_flags=0*)
     → "Do you accept the offer? [If not me.../I've had enough!]"
  74: 0x10F8 [0x25] WAIT_DIALOG_SELECT()
  75: 0x10F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x11AE
@@ -2289,7 +2289,7 @@ SUBROUTINE_1311:
 #### Opcodes
 
 ```
-  0: 0x1338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10142*)
+  0: 0x1338 [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
     → "Hey, listen to this! That Angelica has sent another letter!"
   1: 0x133B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x133C [0x00] END_REQSTACK()
@@ -2315,10 +2315,10 @@ SUBROUTINE_1311:
 #### Opcodes
 
 ```
-  0: 0x133D [0x1D] PRINT_EVENT_MESSAGE(message_id=10143*)
+  0: 0x133D [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
     → ""Dear Chieftainness, I thank you for all of your assistance with my private exhibition."
   1: 0x1340 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x1341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10144*)
+  2: 0x1341 [0x1D] PRINT_EVENT_MESSAGE(message_id=10145*)
     → ""It looks like some evil spirit is still living in the gallery of the temple. From what I can see, that spirit must have found some flaw in my painting and then rrripped it up."
   3: 0x1344 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x1345 [0x00] END_REQSTACK()
@@ -2343,7 +2343,7 @@ SUBROUTINE_1311:
 #### Opcodes
 
 ```
-  0: 0x1346 [0x1D] PRINT_EVENT_MESSAGE(message_id=10150*)
+  0: 0x1346 [0x1D] PRINT_EVENT_MESSAGE(message_id=10151*)
     → "Understood!"
   1: 0x1349 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x134A [0x00] END_REQSTACK()
@@ -2447,11 +2447,11 @@ SUBROUTINE_1311:
 SUBROUTINE_13FC:
  29: 0x13FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  30: 0x140D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x03)
- 31: 0x1414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10152*)
+ 31: 0x1414 [0x1D] PRINT_EVENT_MESSAGE(message_id=10153*)
     → "What? You're going back? And all this for a crazy mainlander... What is going on in you people's heads!?"
  32: 0x1417 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x1418 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x04)
- 34: 0x141F [0x24] CREATE_DIALOG(message_id=10148*, default_option=0*, option_flags=0*)
+ 34: 0x141F [0x24] CREATE_DIALOG(message_id=10149*, default_option=0*, option_flags=0*)
     → "Do you accept the offer? [If not me.../I've had enough!]"
  35: 0x1426 [0x25] WAIT_DIALOG_SELECT()
  36: 0x1427 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1534
@@ -2485,7 +2485,7 @@ SUBROUTINE_150A:
  60: 0x150A [0x4A] Etteh Sulaej (ID: 17801225/0x010FA009) looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  61: 0x1513 [0x4A] LocalPlayer looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  62: 0x151C [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
- 63: 0x1523 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10151*]:
+ 63: 0x1523 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10152*]:
     → "A glutton for punishment, I see. Take this painting to the gallery. I hope Angelica's painting is better received this time around."
  64: 0x152A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x152B [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
@@ -2554,12 +2554,12 @@ SUBROUTINE_1612:
   1: 0x162E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x162F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x1630 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x05)
-  4: 0x1637 [0x1D] PRINT_EVENT_MESSAGE(message_id=10153*)
+  4: 0x1637 [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
     → "Those Humes... I haven't been this surprised since the former chieftainness..."
   5: 0x163A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x163B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x06)
   7: 0x1642 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x07)
-  8: 0x1649 [0x1D] PRINT_EVENT_MESSAGE(message_id=10154*)
+  8: 0x1649 [0x1D] PRINT_EVENT_MESSAGE(message_id=10155*)
     → "But that's nothing for you to worry about! Now hurry off to the Temple of Uggalepih!"
   9: 0x164C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x164D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Etteh Sulaej (ID: 17801225/0x010FA009), tag_num=0x08)
@@ -2693,7 +2693,7 @@ SUBROUTINE_1809:
  56: 0x1809 [0x4A] LocalPlayer looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  57: 0x1812 [0x4A] Etteh Sulaej (ID: 17801225/0x010FA009) looks at Jakoh Wahcondalo (ID: 17801224/0x010FA008)
  58: 0x181B [0x27] REQ_SET(priority=0x0B, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008), tag_num=0x1F)
- 59: 0x1822 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10158*]:
+ 59: 0x1822 [0x2B] Jakoh Wahcondalo (ID: 17801224/0x010FA008) [10159*]:
     → "Hah-hah! It looks like the spirit wasn't moved by Angelica's latest work, eitherrr."
  60: 0x1829 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x182A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Jakoh Wahcondalo (ID: 17801224/0x010FA008))
@@ -2741,7 +2741,7 @@ SUBROUTINE_18BB:
 #### Opcodes
 
 ```
-  0: 0x18E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10157*)
+  0: 0x18E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10158*)
     → "You're back, so... What!? You were attacked again!?"
   1: 0x18E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x18E7 [0x00] END_REQSTACK()
@@ -2770,10 +2770,10 @@ SUBROUTINE_18BB:
   0: 0x18E8 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x18ED [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x18EE [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x18EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10167*)
+  3: 0x18EF [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
     → "Everyone knows to keep their hands off the Tonberries' $1!"
   4: 0x18F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x18F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10168*)
+  5: 0x18F3 [0x1D] PRINT_EVENT_MESSAGE(message_id=10169*)
     → "What did you mainlanders eat to grow up so stupid!?"
   6: 0x18F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x18F7 [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control
@@ -2804,10 +2804,10 @@ SUBROUTINE_18BB:
   0: 0x18FB [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x1900 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x1901 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x1902 [0x1D] PRINT_EVENT_MESSAGE(message_id=10178*)
+  3: 0x1902 [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
     → "Wait up there. Tell me. How did you cure yourself of that curse?"
   4: 0x1905 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x1906 [0x1D] PRINT_EVENT_MESSAGE(message_id=10179*)
+  5: 0x1906 [0x1D] PRINT_EVENT_MESSAGE(message_id=10180*)
     → "Not going to tell me? Come o`n. You can tell me. What did I ever do to you mainlanders to deserve this?"
   6: 0x1909 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x190A [0x20] SET_CLI_EVENT_UC_FLAG: Unlock player control

@@ -81,81 +81,81 @@
 |      18 | 0x064F      |        1615 |
 |      19 | 0x00DB      |         219 |
 |      20 | 0x000A      |          10 |
-|      21 | 0x2871      |       10353 |
+|      21 | 0x2872      |       10354 |
 |      22 | 0x003C      |          60 |
-|      23 | 0x2872      |       10354 |
+|      23 | 0x2873      |       10355 |
 |      24 | 0x0001      |           1 |
-|      25 | 0x2873      |       10355 |
-|      26 | 0x2874      |       10356 |
-|      27 | 0x2875      |       10357 |
-|      28 | 0x2876      |       10358 |
-|      29 | 0x2877      |       10359 |
+|      25 | 0x2874      |       10356 |
+|      26 | 0x2875      |       10357 |
+|      27 | 0x2876      |       10358 |
+|      28 | 0x2877      |       10359 |
+|      29 | 0x2878      |       10360 |
 |      30 | 0x009B      |         155 |
-|      31 | 0x2878      |       10360 |
-|      32 | 0x2879      |       10361 |
-|      33 | 0x287A      |       10362 |
-|      34 | 0x287B      |       10363 |
+|      31 | 0x2879      |       10361 |
+|      32 | 0x287A      |       10362 |
+|      33 | 0x287B      |       10363 |
+|      34 | 0x287C      |       10364 |
 |      35 | 0x0045      |          69 |
-|      36 | 0x287C      |       10364 |
+|      36 | 0x287D      |       10365 |
 |      37 | 0x0651      |        1617 |
-|      38 | 0x287D      |       10365 |
-|      39 | 0x287E      |       10366 |
-|      40 | 0x287F      |       10367 |
-|      41 | 0x2880      |       10368 |
-|      42 | 0x2881      |       10369 |
-|      43 | 0x2882      |       10370 |
-|      44 | 0x2883      |       10371 |
-|      45 | 0x2884      |       10372 |
-|      46 | 0x2885      |       10373 |
-|      47 | 0x2886      |       10374 |
-|      48 | 0x2887      |       10375 |
+|      38 | 0x287E      |       10366 |
+|      39 | 0x287F      |       10367 |
+|      40 | 0x2880      |       10368 |
+|      41 | 0x2881      |       10369 |
+|      42 | 0x2882      |       10370 |
+|      43 | 0x2883      |       10371 |
+|      44 | 0x2884      |       10372 |
+|      45 | 0x2885      |       10373 |
+|      46 | 0x2886      |       10374 |
+|      47 | 0x2887      |       10375 |
+|      48 | 0x2888      |       10376 |
 |      49 | 0x00B4      |         180 |
-|      50 | 0x2888      |       10376 |
-|      51 | 0x2889      |       10377 |
-|      52 | 0x288A      |       10378 |
-|      53 | 0x288B      |       10379 |
-|      54 | 0x288C      |       10380 |
-|      55 | 0x288D      |       10381 |
-|      56 | 0x288E      |       10382 |
-|      57 | 0x288F      |       10383 |
+|      50 | 0x2889      |       10377 |
+|      51 | 0x288A      |       10378 |
+|      52 | 0x288B      |       10379 |
+|      53 | 0x288C      |       10380 |
+|      54 | 0x288D      |       10381 |
+|      55 | 0x288E      |       10382 |
+|      56 | 0x288F      |       10383 |
+|      57 | 0x2890      |       10384 |
 |      58 | 0x007A      |         122 |
-|      59 | 0x2890      |       10384 |
-|      60 | 0x2891      |       10385 |
-|      61 | 0x2892      |       10386 |
+|      59 | 0x2891      |       10385 |
+|      60 | 0x2892      |       10386 |
+|      61 | 0x2893      |       10387 |
 |      62 | 0x0078      |         120 |
 |      63 | 0x0028      |          40 |
 |      64 | 0x00C9      |         201 |
-|      65 | 0x2893      |       10387 |
-|      66 | 0x2894      |       10388 |
-|      67 | 0x2895      |       10389 |
-|      68 | 0x2896      |       10390 |
+|      65 | 0x2894      |       10388 |
+|      66 | 0x2895      |       10389 |
+|      67 | 0x2896      |       10390 |
+|      68 | 0x2897      |       10391 |
 |      69 | 0x005A      |          90 |
-|      70 | 0x2897      |       10391 |
+|      70 | 0x2898      |       10392 |
 |      71 | 0x009C      |         156 |
-|      72 | 0x2898      |       10392 |
-|      73 | 0x2899      |       10393 |
-|      74 | 0x289A      |       10394 |
-|      75 | 0x289B      |       10395 |
-|      76 | 0x289C      |       10396 |
-|      77 | 0x289D      |       10397 |
-|      78 | 0x289E      |       10398 |
-|      79 | 0x289F      |       10399 |
-|      80 | 0x28A0      |       10400 |
-|      81 | 0x28A1      |       10401 |
-|      82 | 0x28A2      |       10402 |
-|      83 | 0x28A3      |       10403 |
-|      84 | 0x28A4      |       10404 |
-|      85 | 0x28A5      |       10405 |
-|      86 | 0x28A6      |       10406 |
-|      87 | 0x28A7      |       10407 |
-|      88 | 0x28A8      |       10408 |
-|      89 | 0x28A9      |       10409 |
-|      90 | 0x28AA      |       10410 |
-|      91 | 0x28AB      |       10411 |
-|      92 | 0x28AC      |       10412 |
+|      72 | 0x2899      |       10393 |
+|      73 | 0x289A      |       10394 |
+|      74 | 0x289B      |       10395 |
+|      75 | 0x289C      |       10396 |
+|      76 | 0x289D      |       10397 |
+|      77 | 0x289E      |       10398 |
+|      78 | 0x289F      |       10399 |
+|      79 | 0x28A0      |       10400 |
+|      80 | 0x28A1      |       10401 |
+|      81 | 0x28A2      |       10402 |
+|      82 | 0x28A3      |       10403 |
+|      83 | 0x28A4      |       10404 |
+|      84 | 0x28A5      |       10405 |
+|      85 | 0x28A6      |       10406 |
+|      86 | 0x28A7      |       10407 |
+|      87 | 0x28A8      |       10408 |
+|      88 | 0x28A9      |       10409 |
+|      89 | 0x28AA      |       10410 |
+|      90 | 0x28AB      |       10411 |
+|      91 | 0x28AC      |       10412 |
+|      92 | 0x28AD      |       10413 |
 |      93 | 0x001E      |          30 |
-|      94 | 0x28AD      |       10413 |
-|      95 | 0x28AE      |       10414 |
+|      94 | 0x28AE      |       10414 |
+|      95 | 0x28AF      |       10415 |
 |      96 | 0x0096      |         150 |
 |      97 | 0x00D0      |         208 |
 |      98 | 0x17FB2     |       98226 |
@@ -205,7 +205,7 @@
 |     142 | 0x0046      |          70 |
 |     143 | 0x008C      |         140 |
 |     144 | 0x00D2      |         210 |
-|     145 | 0x2753      |       10067 |
+|     145 | 0x2754      |       10068 |
 |     146 | 0x000D      |          13 |
 |     147 | 0x3F6B      |       16235 |
 |     148 | 0x2019      |        8217 |
@@ -230,15 +230,15 @@
 |     167 | 0x0083      |         131 |
 |     168 | 0x161A      |        5658 |
 |     169 | 0x12FD3     |       77779 |
-|     170 | 0x2F4C      |       12108 |
+|     170 | 0x2F4D      |       12109 |
 |     171 | 0x0FF7      |        4087 |
 |     172 | 0x12EB2     |       77490 |
 
 ## String References
 
 - **1**: Set this as current home point? [Yes./No.]
-- **10067**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
-- **12108**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
+- **10068**: For your own safety, it is recommended that you set this location as your home point after changing jobs.
+- **12109**: Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy].
 
 ## Events
 
@@ -549,107 +549,107 @@
   8: 0x00E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x00F3 [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at LocalPlayer
  10: 0x00FC [0x1C] WAIT(10* ticks)
- 11: 0x00FF [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10353*]:
+ 11: 0x00FF [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10354*]:
     → "Wait, you must be the adventurer that has been sent to aid me in the investigation."
  12: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  13: 0x0107 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
- 14: 0x0116 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10354*]:
+ 14: 0x0116 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10355*]:
     → "According to my research, the $3 that the senator requires is only found in one place."
  15: 0x011D [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x011E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
  17: 0x012D [0x27] REQ_SET(priority=0x0A, entity_id=Gumbah (ID: 17788990/0x010F703E), tag_num=0x03)
  18: 0x0134 [0x1C] WAIT(1* ticks)
  19: 0x0137 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
- 20: 0x0148 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10355*]:
+ 20: 0x0148 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10356*]:
     → "And that would be the Gustav Tunnel...am I right?"
  21: 0x014F [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0150 [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at Gumbah (ID: 17788990/0x010F703E)
  23: 0x0159 [0x4A] LocalPlayer looks at Gumbah (ID: 17788990/0x010F703E)
- 24: 0x0162 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10356*]:
+ 24: 0x0162 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10357*]:
     → "Who are you...?"
  25: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x016A [0x2A] GET_REQ_LEVEL(level=10, entity_id=Gumbah (ID: 17788990/0x010F703E))
  27: 0x0170 [0x27] REQ_SET(priority=0x0A, entity_id=Iron Eater (ID: 17788991/0x010F703F), tag_num=0x03)
- 28: 0x0177 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10357*]:
+ 28: 0x0177 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10358*]:
     → "He accompanied me, but that is a long story."
  29: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x017F [0x79] Dancing Wolf (ID: 17788989/0x010F703D) looks at Iron Eater (ID: 17788991/0x010F703F) (Basic look)
- 31: 0x0189 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10358*]:
+ 31: 0x0189 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10359*]:
     → "Sir Iron Eater!"
  32: 0x0190 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x0191 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Iron Eater (ID: 17788991/0x010F703F))
  34: 0x0197 [0x52] END_LOAD_SCHEDULER: End scheduler "s031" with entities [LocalPlayer, LocalPlayer], work=219*
  35: 0x01A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  36: 0x01B7 [0x4A] Gumbah (ID: 17788990/0x010F703E) looks at Iron Eater (ID: 17788991/0x010F703F)
- 37: 0x01C0 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10359*]:
+ 37: 0x01C0 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10360*]:
     → "I told you I knew where it was. I remember Werei talking about it years ago."
  38: 0x01C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x01C8 [0x79] Iron Eater (ID: 17788991/0x010F703F) looks at Gumbah (ID: 17788990/0x010F703E) (Basic look)
  40: 0x01D2 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
- 41: 0x01E1 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10360*]:
+ 41: 0x01E1 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10361*]:
     → "There is an old Galkan legend that tells of our people setting off on journeys to find this $3 and postpone their rebirth."
  42: 0x01E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x01E9 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10361*]:
+ 43: 0x01E9 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10362*]:
     → "But what is more interesting is this: There is a theory that states the Galkan journey of rebirth originated from this journey to collect $3."
  44: 0x01F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x01F1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tla1" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
- 46: 0x0200 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10362*]:
+ 46: 0x0200 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10363*]:
     → "Now even I don't believe that, but there may be some connection between this obsession with rocksalt and the Galka's long history of mineworking."
  47: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0208 [0x52] END_LOAD_SCHEDULER: End scheduler "s032" with entities [LocalPlayer, LocalPlayer], work=219*
  49: 0x0217 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  50: 0x0228 [0x4A] Iron Eater (ID: 17788991/0x010F703F) looks at Gumbah (ID: 17788990/0x010F703E)
- 51: 0x0231 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10363*]:
+ 51: 0x0231 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10364*]:
     → "So the reason that you joined me on this mission was to learn more of the $3's role in Galkan legend..."
  52: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0239 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iron Eater (ID: 17788991/0x010F703F), Iron Eater (ID: 17788991/0x010F703F)], work=69*
- 54: 0x0248 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10364*]:
+ 54: 0x0248 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10365*]:
     → "...and to learn more of Werei's journey. You knew that he would want to learn more of the legend before he..."
  55: 0x024F [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0250 [0x6B] STOP_AND_IDLE: Iron Eater (ID: 17788991/0x010F703F) stops current action and resets to idle (animation="idl0")
  57: 0x0259 [0x4B] UPDATE_ENTITY_YAW(entity=Gumbah (ID: 17788990/0x010F703E), yaw=8.9°*)
- 58: 0x0260 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10365*]:
+ 58: 0x0260 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10366*]:
     → "While on his journey, Werei...left many clues behind for us. The message that we found earlier was probably the last."
  59: 0x0267 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0268 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
- 61: 0x0277 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10366*]:
+ 61: 0x0277 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10367*]:
     → "But I'm not satisfied with what he left, and I'm not giving up until I find out what really happened to him."
  62: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x027F [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlc0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)]
  64: 0x028C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlc1" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
- 65: 0x029B [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10367*]:
+ 65: 0x029B [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10368*]:
     → "Gumbah..."
  66: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x02A3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
- 68: 0x02B2 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10368*]:
+ 68: 0x02B2 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10369*]:
     → "Oh, and there is one more reason why I stuck my nose into this mission, but that's still a secret. If everything goes as planned, you'll see what I mean."
  69: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x02BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlb1" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
  71: 0x02C9 [0x52] END_LOAD_SCHEDULER: End scheduler "s033" with entities [LocalPlayer, LocalPlayer], work=219*
  72: 0x02D8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  73: 0x02E9 [0x4A] Gumbah (ID: 17788990/0x010F703E) looks at Dancing Wolf (ID: 17788989/0x010F703D)
- 74: 0x02F2 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10369*]:
+ 74: 0x02F2 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10370*]:
     → "I'm sorry, Mister Dancing Wolf. Please tell the adventurer what [he/she] needs to know."
  75: 0x02F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x02FA [0x79] Dancing Wolf (ID: 17788989/0x010F703D) looks at Gumbah (ID: 17788990/0x010F703E) (Basic look)
  77: 0x0304 [0x79] Iron Eater (ID: 17788991/0x010F703F) looks at Dancing Wolf (ID: 17788989/0x010F703D) (Basic look)
  78: 0x030E [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at Iron Eater (ID: 17788991/0x010F703F)
- 79: 0x0317 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10370*]:
+ 79: 0x0317 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10371*]:
     → "The $3 that we are looking for only appears in the Gustav Tunnel where freshwater and saltwater mix."
  80: 0x031E [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x031F [0x79] Dancing Wolf (ID: 17788989/0x010F703D) looks at LocalPlayer (Basic look)
  82: 0x0329 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
- 83: 0x0338 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10371*]:
+ 83: 0x0338 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10372*]:
     → "However, that cave is filled with hideous beasts. I would get killed if I even tried getting close."
  84: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x0340 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
  86: 0x034F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Iron Eater (ID: 17788991/0x010F703F), Iron Eater (ID: 17788991/0x010F703F)], work=69*
- 87: 0x035E [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10372*]:
+ 87: 0x035E [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10373*]:
     → "I see... Then the senator was correct when saying that it would be dangerous to send an inexperienced adventurer."
  88: 0x0365 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x0366 [0x6B] STOP_AND_IDLE: Iron Eater (ID: 17788991/0x010F703F) stops current action and resets to idle (animation="idl0")
  90: 0x036F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
- 91: 0x037E [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10373*]:
+ 91: 0x037E [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10374*]:
     → "If you happen to find the $3, bring it to me before you return to Bastok. I'm required to write a report of your findings."
  92: 0x0385 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0386 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
@@ -783,39 +783,39 @@
   7: 0x040D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s030" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
   8: 0x041E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   9: 0x042F [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at LocalPlayer
- 10: 0x0438 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10374*]:
+ 10: 0x0438 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10375*]:
     → "Oh, I'm glad to see you back here in one piece. So this is the $3?"
  11: 0x043F [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0440 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
- 13: 0x044F [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10375*]:
+ 13: 0x044F [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10376*]:
     → "Hmmm... You know, it looks a lot like that..."
  14: 0x0456 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0457 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  16: 0x0468 [0x27] REQ_SET(priority=0x0A, entity_id=Iron Eater (ID: 17788991/0x010F703F), tag_num=0x03)
  17: 0x046F [0x27] REQ_SET(priority=0x0A, entity_id=Gumbah (ID: 17788990/0x010F703E), tag_num=0x03)
  18: 0x0476 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=180*)
- 19: 0x047B [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10376*]:
+ 19: 0x047B [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10377*]:
     → "It looks a lot like what?"
  20: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x0483 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10377*]:
+ 21: 0x0483 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10378*]:
     → "What did you see, Mister Dancing Wolf?"
  22: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x048B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Dancing Wolf (ID: 17788989/0x010F703D), Dancing Wolf (ID: 17788989/0x010F703D)], work=60*
- 24: 0x049A [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10378*]:
+ 24: 0x049A [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10379*]:
     → "One day when I was doing my research on $3, I met a strange Galkan child."
  25: 0x04A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x04A2 [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at Iron Eater (ID: 17788991/0x010F703F)
- 27: 0x04AB [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10379*]:
+ 27: 0x04AB [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10380*]:
     → "An adventurer said she found the boy wandering about the desert carrying something that closely resembled $3."
  28: 0x04B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x04B3 [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [LocalPlayer, LocalPlayer], work=219*
  30: 0x04C2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
- 31: 0x04D3 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10380*]:
+ 31: 0x04D3 [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10381*]:
     → "The boy had no memory of how he had gotten there, so we all assumed that he must have been on his way back from his journey of rebirth."
  32: 0x04DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x04DB [0x29] REQ_SET_WAIT(priority=0x0A, entity_id=??? (ID: 17788992/0x010F7040), tag_num=0x02)
  34: 0x04E2 [0x4A] Dancing Wolf (ID: 17788989/0x010F703D) looks at ??? (ID: 17788992/0x010F7040)
- 35: 0x04EB [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10381*]:
+ 35: 0x04EB [0x2B] Dancing Wolf (ID: 17788989/0x010F703D) [10382*]:
     → "Wait, there he is, over there."
  36: 0x04F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x04F3 [0x2A] GET_REQ_LEVEL(level=10, entity_id=Gumbah (ID: 17788990/0x010F703E))
@@ -824,27 +824,27 @@
  40: 0x050B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  41: 0x050C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Gumbah (ID: 17788990/0x010F703E) Render.Flags0 and Render.Flags3 conditions are met
  42: 0x0511 [0x1C] WAIT(60* ticks)
- 43: 0x0514 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10382*]:
+ 43: 0x0514 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10383*]:
     → "Th-that's..."
  44: 0x051B [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x051C [0x4A] Iron Eater (ID: 17788991/0x010F703F) looks at Gumbah (ID: 17788990/0x010F703E)
- 46: 0x0525 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10383*]:
+ 46: 0x0525 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10384*]:
     → "Gumbah, what's wrong?"
  47: 0x052C [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x052D [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 122*
  49: 0x0531 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 122*
  50: 0x0535 [0x52] END_LOAD_SCHEDULER: End scheduler "s035" with entities [LocalPlayer, LocalPlayer], work=219*
  51: 0x0544 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
- 52: 0x0555 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10384*]:
+ 52: 0x0555 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10385*]:
     → "That's impossible... He couldn't have returned so quickly..."
  53: 0x055C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 54: 0x055D [0x2B] Gumbah (ID: 17788990/0x010F703E) [10385*]:
+ 54: 0x055D [0x2B] Gumbah (ID: 17788990/0x010F703E) [10386*]:
     → "He... He looks the same as he did when we played together...two hundred years ago..."
  55: 0x0564 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x0565 [0x52] END_LOAD_SCHEDULER: End scheduler "s036" with entities [LocalPlayer, LocalPlayer], work=219*
  57: 0x0574 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s037" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  58: 0x0585 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "blon" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
- 59: 0x0596 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10386*]:
+ 59: 0x0596 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10387*]:
     → "Werei!"
  60: 0x059D [0x1C] WAIT(120* ticks)
  61: 0x05A0 [0x4A] ??? (ID: 17788992/0x010F7040) looks at Gumbah (ID: 17788990/0x010F703E)
@@ -856,7 +856,7 @@
  67: 0x05DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  68: 0x05EF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  69: 0x0600 [0x79] Iron Eater (ID: 17788991/0x010F703F) looks at ??? (ID: 17788992/0x010F7040) (Basic look)
- 70: 0x060A [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10387*]:
+ 70: 0x060A [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10388*]:
     → "What!?"
  71: 0x0611 [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x0612 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s038" with entities [LocalPlayer, LocalPlayer], work=219*
@@ -865,51 +865,51 @@
  75: 0x0641 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  76: 0x0652 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi0" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  77: 0x0663 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 17788992/0x010F7040), tag_num=0x03)
- 78: 0x066A [0x2B] ??? (ID: 17788992/0x010F7040) [10388*]:
+ 78: 0x066A [0x2B] ??? (ID: 17788992/0x010F7040) [10389*]:
     → "Werei? Did you just call me Werei? That's strange..."
  79: 0x0671 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x0672 [0x2B] ??? (ID: 17788992/0x010F7040) [10389*]:
+ 80: 0x0672 [0x2B] ??? (ID: 17788992/0x010F7040) [10390*]:
     → "That name sounds so familiar... Hey, what's your name?"
  81: 0x0679 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x067A [0x2B] Gumbah (ID: 17788990/0x010F703E) [10390*]:
+ 82: 0x067A [0x2B] Gumbah (ID: 17788990/0x010F703E) [10391*]:
     → "Gumbah..."
  83: 0x0681 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0682 [0x2A] GET_REQ_LEVEL(level=10, entity_id=??? (ID: 17788992/0x010F7040))
  85: 0x0688 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [??? (ID: 17788992/0x010F7040), ??? (ID: 17788992/0x010F7040)], work=90*
- 86: 0x0697 [0x2B] ??? (ID: 17788992/0x010F7040) [10391*]:
+ 86: 0x0697 [0x2B] ??? (ID: 17788992/0x010F7040) [10392*]:
     → "Gumbah? Now that's a weird name."
  87: 0x069E [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x069F [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "uta0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=156*
- 89: 0x06AE [0x2B] Gumbah (ID: 17788990/0x010F703E) [10392*]:
+ 89: 0x06AE [0x2B] Gumbah (ID: 17788990/0x010F703E) [10393*]:
     → "You...don't remember?"
  90: 0x06B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  91: 0x06B6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "uta1" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=156*
  92: 0x06C5 [0x52] END_LOAD_SCHEDULER: End scheduler "s039" with entities [LocalPlayer, LocalPlayer], work=219*
  93: 0x06D4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
  94: 0x06E5 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [??? (ID: 17788992/0x010F7040), ??? (ID: 17788992/0x010F7040)], work=90*
- 95: 0x06F4 [0x2B] ??? (ID: 17788992/0x010F7040) [10393*]:
+ 95: 0x06F4 [0x2B] ??? (ID: 17788992/0x010F7040) [10394*]:
     → "Remember? Remember what?"
  96: 0x06FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x06FC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [??? (ID: 17788992/0x010F7040), ??? (ID: 17788992/0x010F7040)], work=90*
- 98: 0x070B [0x2B] ??? (ID: 17788992/0x010F7040) [10394*]:
+ 98: 0x070B [0x2B] ??? (ID: 17788992/0x010F7040) [10395*]:
     → "I've gotta go. The caravan that I've been traveling with is about to set off."
  99: 0x0712 [0x23] WAIT_FOR_DIALOG_INTERACTION
-100: 0x0713 [0x2B] ??? (ID: 17788992/0x010F7040) [10395*]:
+100: 0x0713 [0x2B] ??? (ID: 17788992/0x010F7040) [10396*]:
     → "Always on the road... Never settling down... Now that's the life for me."
 101: 0x071A [0x23] WAIT_FOR_DIALOG_INTERACTION
 102: 0x071B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [??? (ID: 17788992/0x010F7040), ??? (ID: 17788992/0x010F7040)], work=90*
-103: 0x072A [0x2B] ??? (ID: 17788992/0x010F7040) [10396*]:
+103: 0x072A [0x2B] ??? (ID: 17788992/0x010F7040) [10397*]:
     → "Well, I'm off. That name you called me--Warai--I liked it."
 104: 0x0731 [0x23] WAIT_FOR_DIALOG_INTERACTION
 105: 0x0732 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [LocalPlayer, LocalPlayer], work=219*
 106: 0x0741 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s042" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
-107: 0x0752 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10397*]:
+107: 0x0752 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10398*]:
     → "Werei..."
 108: 0x0759 [0x23] WAIT_FOR_DIALOG_INTERACTION
-109: 0x075A [0x2B] ??? (ID: 17788992/0x010F7040) [10398*]:
+109: 0x075A [0x2B] ??? (ID: 17788992/0x010F7040) [10399*]:
     → "Yeah, yeah. That was it. Werei..."
 110: 0x0761 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x0762 [0x2B] ??? (ID: 17788992/0x010F7040) [10399*]:
+111: 0x0762 [0x2B] ??? (ID: 17788992/0x010F7040) [10400*]:
     → "I'll be seeing you around, Gumbah."
 112: 0x0769 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 17788992/0x010F7040), tag_num=0x04)
 113: 0x0770 [0x1C] WAIT(60* ticks)
@@ -919,7 +919,7 @@
 117: 0x079C [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x079D [0x2A] GET_REQ_LEVEL(level=10, entity_id=??? (ID: 17788992/0x010F7040))
 119: 0x07A3 [0x4A] ??? (ID: 17788992/0x010F7040) looks at Gumbah (ID: 17788990/0x010F703E)
-120: 0x07AC [0x2B] ??? (ID: 17788992/0x010F7040) [10400*]:
+120: 0x07AC [0x2B] ??? (ID: 17788992/0x010F7040) [10401*]:
     → "Hey, why do you look so down? You should try smiling a little more, got it? Well, bye!"
 121: 0x07B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x07B4 [0x27] REQ_SET(priority=0x0A, entity_id=??? (ID: 17788992/0x010F7040), tag_num=0x05)
@@ -928,48 +928,48 @@
 125: 0x07DB [0x52] END_LOAD_SCHEDULER: End scheduler "s041" with entities [LocalPlayer, LocalPlayer], work=219*
 126: 0x07EA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
 127: 0x07FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
-128: 0x080C [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10401*]:
+128: 0x080C [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10402*]:
     → "Gumbah... Was that what I thought it was...?"
 129: 0x0813 [0x23] WAIT_FOR_DIALOG_INTERACTION
-130: 0x0814 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10402*]:
+130: 0x0814 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10403*]:
     → "Who does he think he is, shooting his mouth off at me like that..."
 131: 0x081B [0x23] WAIT_FOR_DIALOG_INTERACTION
-132: 0x081C [0x2B] Gumbah (ID: 17788990/0x010F703E) [10403*]:
+132: 0x081C [0x2B] Gumbah (ID: 17788990/0x010F703E) [10404*]:
     → "But I guess I can't blame him. It was my fault that he was forced to live such a hard life..."
 133: 0x0823 [0x23] WAIT_FOR_DIALOG_INTERACTION
 134: 0x0824 [0x52] END_LOAD_SCHEDULER: End scheduler "s043" with entities [LocalPlayer, LocalPlayer], work=219*
 135: 0x0833 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
-136: 0x0844 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10404*]:
+136: 0x0844 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10405*]:
     → "So he was the real Werei...?"
 137: 0x084B [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x084C [0x2B] Gumbah (ID: 17788990/0x010F703E) [10405*]:
+138: 0x084C [0x2B] Gumbah (ID: 17788990/0x010F703E) [10406*]:
     → "I don't know, Iron Eater..."
 139: 0x0853 [0x23] WAIT_FOR_DIALOG_INTERACTION
 140: 0x0854 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
-141: 0x0863 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10406*]:
+141: 0x0863 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10407*]:
     → "I never thought that this simple $3 could bring about such a miracle."
 142: 0x086A [0x23] WAIT_FOR_DIALOG_INTERACTION
-143: 0x086B [0x2B] Gumbah (ID: 17788990/0x010F703E) [10407*]:
+143: 0x086B [0x2B] Gumbah (ID: 17788990/0x010F703E) [10408*]:
     → "On the other hand, it could have been that the two just simply looked alike..."
 144: 0x0872 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x0873 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=155*
-146: 0x0882 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10408*]:
+146: 0x0882 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10409*]:
     → "But I guess that is something we will never know. Not even a Talekeeper can remember his rebirth, so chasing after the memory of it would be foolish..."
 147: 0x0889 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x088A [0x7B] Gumbah (ID: 17788990/0x010F703E) stops talking
-149: 0x088F [0x2B] Gumbah (ID: 17788990/0x010F703E) [10409*]:
+149: 0x088F [0x2B] Gumbah (ID: 17788990/0x010F703E) [10410*]:
     → "I guess some things are better left unknown."
 150: 0x0896 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0897 [0x52] END_LOAD_SCHEDULER: End scheduler "s044" with entities [LocalPlayer, LocalPlayer], work=219*
 152: 0x08A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
-153: 0x08B7 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10410*]:
+153: 0x08B7 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10411*]:
     → "Gumbah..."
 154: 0x08BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x08BF [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ksr0" with entities [Gumbah (ID: 17788990/0x010F703E), Gumbah (ID: 17788990/0x010F703E)], work=156*
-156: 0x08CE [0x2B] Gumbah (ID: 17788990/0x010F703E) [10411*]:
+156: 0x08CE [0x2B] Gumbah (ID: 17788990/0x010F703E) [10412*]:
     → "A Galka named Werei has set out on his journey of life..."
 157: 0x08D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x08D6 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10412*]:
+158: 0x08D6 [0x2B] Gumbah (ID: 17788990/0x010F703E) [10413*]:
     → "Isn't that enough?"
 159: 0x08DD [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x08DE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -980,10 +980,10 @@
 165: 0x091F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s046" with entities [LocalPlayer, LocalPlayer], work=[219*, 0*]
 166: 0x0930 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 167: 0x0941 [0x1C] WAIT(30* ticks)
-168: 0x0944 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10413*]:
+168: 0x0944 [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10414*]:
     → "Excellent work, <Player>. Not only have you finished your work here, but you have also given us the opportunity to meet someone special."
 169: 0x094B [0x23] WAIT_FOR_DIALOG_INTERACTION
-170: 0x094C [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10414*]:
+170: 0x094C [0x2B] Iron Eater (ID: 17788991/0x010F703F) [10415*]:
     → "But your mission is not complete. Take the $3 back to the senator. We'll see what Gumbah has in store for him."
 171: 0x0953 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0954 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=150*)
@@ -1549,7 +1549,7 @@ SUBROUTINE_0B49:
 ```
   0: 0x0BC3 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0BC4 [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
-  2: 0x0BC6 [0x48] [System] [10067*]:
+  2: 0x0BC6 [0x48] [System] [10068*]:
     → "For your own safety, it is recommended that you set this location as your home point after changing jobs."
   3: 0x0BC9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0BCA [0x24] CREATE_DIALOG(message_id=1*, default_option=1*, option_flags=0*)
@@ -1954,7 +1954,7 @@ SUBROUTINE_0EA1:
 
 ```
   0: 0x0EFD [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0EFE [0x48] [System] [12108*]:
+  1: 0x0EFE [0x48] [System] [12109*]:
     → "Entering [/Sheol A/Sheol B/Sheol C/Sheol: Gaol][/: Very Difficult/: Difficult/: Normal/: Easy/: Very Easy]."
   2: 0x0F01 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0F12 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[1*, 0*]

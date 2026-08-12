@@ -20,149 +20,149 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CA9      |        7337 |
+|       0 | 0x1CAA      |        7338 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0008      |           8 |
-|       3 | 0x1CAA      |        7338 |
-|       4 | 0x1CAB      |        7339 |
-|       5 | 0x1C64      |        7268 |
-|       6 | 0x1CBD      |        7357 |
-|       7 | 0x1CBE      |        7358 |
-|       8 | 0x1CBF      |        7359 |
+|       3 | 0x1CAB      |        7339 |
+|       4 | 0x1CAC      |        7340 |
+|       5 | 0x1C65      |        7269 |
+|       6 | 0x1CBE      |        7358 |
+|       7 | 0x1CBF      |        7359 |
+|       8 | 0x1CC0      |        7360 |
 |       9 | 0x0003      |           3 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x1CC0      |        7360 |
-|      12 | 0x1CC1      |        7361 |
-|      13 | 0x1CC2      |        7362 |
+|      11 | 0x1CC1      |        7361 |
+|      12 | 0x1CC2      |        7362 |
+|      13 | 0x1CC3      |        7363 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x1CC4      |        7364 |
-|      16 | 0x1CC3      |        7363 |
-|      17 | 0x1CC5      |        7365 |
-|      18 | 0x1CC6      |        7366 |
-|      19 | 0x1CC7      |        7367 |
+|      15 | 0x1CC5      |        7365 |
+|      16 | 0x1CC4      |        7364 |
+|      17 | 0x1CC6      |        7366 |
+|      18 | 0x1CC7      |        7367 |
+|      19 | 0x1CC8      |        7368 |
 |      20 | 0x0004      |           4 |
-|      21 | 0x1CC8      |        7368 |
-|      22 | 0x1CC9      |        7369 |
+|      21 | 0x1CC9      |        7369 |
+|      22 | 0x1CCA      |        7370 |
 |      23 | 0x0005      |           5 |
-|      24 | 0x1CCA      |        7370 |
-|      25 | 0x1CCB      |        7371 |
+|      24 | 0x1CCB      |        7371 |
+|      25 | 0x1CCC      |        7372 |
 |      26 | 0x0006      |           6 |
-|      27 | 0x1CCC      |        7372 |
-|      28 | 0x1CCD      |        7373 |
+|      27 | 0x1CCD      |        7373 |
+|      28 | 0x1CCE      |        7374 |
 |      29 | 0x0007      |           7 |
-|      30 | 0x1CCE      |        7374 |
-|      31 | 0x1CCF      |        7375 |
-|      32 | 0x1CD0      |        7376 |
-|      33 | 0x1CD1      |        7377 |
+|      30 | 0x1CCF      |        7375 |
+|      31 | 0x1CD0      |        7376 |
+|      32 | 0x1CD1      |        7377 |
+|      33 | 0x1CD2      |        7378 |
 |      34 | 0x0009      |           9 |
-|      35 | 0x1CD2      |        7378 |
-|      36 | 0x1CD3      |        7379 |
+|      35 | 0x1CD3      |        7379 |
+|      36 | 0x1CD4      |        7380 |
 |      37 | 0x000A      |          10 |
-|      38 | 0x1CD4      |        7380 |
-|      39 | 0x1CD5      |        7381 |
+|      38 | 0x1CD5      |        7381 |
+|      39 | 0x1CD6      |        7382 |
 |      40 | 0x000B      |          11 |
-|      41 | 0x1CD6      |        7382 |
-|      42 | 0x1CD7      |        7383 |
+|      41 | 0x1CD7      |        7383 |
+|      42 | 0x1CD8      |        7384 |
 |      43 | 0x000C      |          12 |
-|      44 | 0x1CD8      |        7384 |
-|      45 | 0x1CD9      |        7385 |
+|      44 | 0x1CD9      |        7385 |
+|      45 | 0x1CDA      |        7386 |
 |      46 | 0x000D      |          13 |
-|      47 | 0x1CAC      |        7340 |
-|      48 | 0x1CDA      |        7386 |
-|      49 | 0x1CDB      |        7387 |
-|      50 | 0x1CE7      |        7399 |
-|      51 | 0x1CE8      |        7400 |
-|      52 | 0x1CE3      |        7395 |
-|      53 | 0x1CE4      |        7396 |
-|      54 | 0x1CDD      |        7389 |
-|      55 | 0x1CDE      |        7390 |
-|      56 | 0x1CDC      |        7388 |
-|      57 | 0x1CDF      |        7391 |
-|      58 | 0x1CE5      |        7397 |
-|      59 | 0x1CE6      |        7398 |
-|      60 | 0x1CE0      |        7392 |
-|      61 | 0x1CE1      |        7393 |
-|      62 | 0x1CE2      |        7394 |
-|      63 | 0x1CAD      |        7341 |
-|      64 | 0x1CEB      |        7403 |
-|      65 | 0x1CEC      |        7404 |
-|      66 | 0x1CED      |        7405 |
-|      67 | 0x1CEE      |        7406 |
-|      68 | 0x1CF2      |        7410 |
-|      69 | 0x1CF3      |        7411 |
-|      70 | 0x1CE9      |        7401 |
-|      71 | 0x1CEA      |        7402 |
-|      72 | 0x1CF4      |        7412 |
-|      73 | 0x1CF5      |        7413 |
-|      74 | 0x1CEF      |        7407 |
-|      75 | 0x1CF0      |        7408 |
-|      76 | 0x1CF1      |        7409 |
+|      47 | 0x1CAD      |        7341 |
+|      48 | 0x1CDB      |        7387 |
+|      49 | 0x1CDC      |        7388 |
+|      50 | 0x1CE8      |        7400 |
+|      51 | 0x1CE9      |        7401 |
+|      52 | 0x1CE4      |        7396 |
+|      53 | 0x1CE5      |        7397 |
+|      54 | 0x1CDE      |        7390 |
+|      55 | 0x1CDF      |        7391 |
+|      56 | 0x1CDD      |        7389 |
+|      57 | 0x1CE0      |        7392 |
+|      58 | 0x1CE6      |        7398 |
+|      59 | 0x1CE7      |        7399 |
+|      60 | 0x1CE1      |        7393 |
+|      61 | 0x1CE2      |        7394 |
+|      62 | 0x1CE3      |        7395 |
+|      63 | 0x1CAE      |        7342 |
+|      64 | 0x1CEC      |        7404 |
+|      65 | 0x1CED      |        7405 |
+|      66 | 0x1CEE      |        7406 |
+|      67 | 0x1CEF      |        7407 |
+|      68 | 0x1CF3      |        7411 |
+|      69 | 0x1CF4      |        7412 |
+|      70 | 0x1CEA      |        7402 |
+|      71 | 0x1CEB      |        7403 |
+|      72 | 0x1CF5      |        7413 |
+|      73 | 0x1CF6      |        7414 |
+|      74 | 0x1CF0      |        7408 |
+|      75 | 0x1CF1      |        7409 |
+|      76 | 0x1CF2      |        7410 |
 
 ## String References
 
-- **7268**: @@
-- **7337**: This shelf is stacked with tomes elucidating the multifarious institutions within the Sacred City of Adoulin.
-- **7338**: What subject will you research? [The Twelve Orders./Administrative Positions./Coalitions./Something else./Nothing.]
-- **7339**: What order shall you research? [What are the Twelve Orders?/Adoulin./Woltaris./Weatherspoon./Janniston./Renaye./Gorney./Haverton./Karieyh./Vocane./Thurandaut./Shneddick./Orvail./None.]
-- **7340**: What minister shall you research? [Grand Chancellor./Minister of Commerce./Minister of Public Affairs./Minister of Finance./Minister of Education./Minister of Judication./None.]
-- **7341**: What coalition shall you research? [Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'./None.]
-- **7357**: The Twelve Orders are organizations that control the Sacred City of Adoulin's political and economic climates. Only the most eminent of members may be chosen as successors to an order when a leader either abdicates or passes on.
-- **7358**: Though not considered houses by strict standards--as they are not always headed by the progeny of an order's founding member, and sometimes even choose not to appoint a leader if none of the candidates are deemed fit for succession--their lineages remain intact thanks in part to adoption of heirs and strategic marriage practices.
-- **7359**: Each order has its own sphere of influence, and the representative of a particular order will assume the office of either minister or maester of its appointed dominion, working for the benefit of the city and its populace.
-- **7360**: [While no longer officially a royal family, the/The] Adoulins are direct descendants of the founder king--August Adoulin--with the blood of that renowned rule coursing uncorrupted through the veins of its current scion, [Ygnas S. Adoulin/Arciela V. Adoulin].
-- **7361**: The Order of Adoulin: Formerly the royal family, the members of this order sit at the apex of the alliance which gave birth to the Sacred City of Adoulin, and their representative traditionally claims the position of grand chancellor within Adoulin's body politic. The order is symbolized by a swallow, the germaneness of which has engendered much debate.
-- **7362**: With the venerable King August Adoulin as the order's ancestor, it is only natural that the community looks to them when in need of direction and decisive action. The family occupies Castle Adoulin, the towering edifice that defines the eastern district of the city.
-- **7363**: The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. Therefore, as the head of the order, Melvien de Malecroix serves in this esteemed post.
-- **7364**: The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. As the former head of the order, Melvien de Malecroix once served in this esteemed post.
-- **7365**: Due to the sway they hold over this station, the vast majority of this organization devotes itself to the study of fiscal matters and theories of coin inside its building situated in Eastern Adoulin's Coronal Esplanade. Their custom of instilling pecuniary perspicacity in its members perhaps explains why more bureaucrats hail from the Order of Woltaris than any other institution in Ulbuka.
-- **7366**: The Order of Weatherspoon: Purveyors of Adoulin's judicial system, the order is led by the senescent and austere Hildebert. In contrast, their coat of arms once consisted of a young and vibrant butterfly, which has often been used as a joke at the aging Elvaan's expense.
-- **7367**: The Order of Weatherspoon also exercises jurisdiction over exorcist activities, and the position of archexorcist--occupied by Vortimere as of this writing--is always chosen by those within the order. The group shares the Coronal Esplanade with the Order of Woltaris as the site of its headquarters.
-- **7368**: The Order of Janniston: The motherly Svenja uses her seemingly infinite kindness to fairly govern this organization. With her unconditional largesse and inexhaustible energy, it's difficult to tell exactly where Svenja's role as maester ends and the rest of the Order begins.
-- **7369**: The order's coat of arms was adorned with a soothingly cool dewdrop long ago, which even now perfectly exemplifies the fact that many of its members are adept practitioners of medicine and white magic. They often give back to the community by supporting pioneers on the front lines of the colonization movement and looking after ailing individuals within the city's walls, with their base of operations situated in Western Adoulin's Platea Triumphus.
-- **7370**: The Order of Renaye: The old symbol of this order--a lush tuft of shimmering grass--accurately illustrates the importance they place on the natural world, which is also heralded by their mistress and Adoulin's minister of education, Ikhi Askamot.
-- **7371**: In addition to cultivating geomantic powers, the order also works to instill skepticism and critical thinking in its members, which explains why researchers--in addition to geomancers--belong to this order. Interestingly, the order's abode rests snugly on the side of Sverdhried Hillock--named after the father of the runic arts.
-- **7372**: The Order of Gorney: Many Adoulinians joke that while the snake is slimy enough, the order's insignia should be the mosquito instead because its doyen, Chero-Machero, the minister of commerce, is wildly successful at sucking the city's populace dry.
-- **7373**: While their tendency to spurn the more theoretical aspects of economics for the sake of turning a profit does not necessarily help their cause, no one can argue that merchants from the Order of Gorney--both at home and abroad--do not contribute to the wealth of the city as a whole. Those interested in making a little extra bayld or learning the gift of the gab to get gil should seek them out in the Coronal Esplanade in Eastern Adoulin.
-- **7374**: The Order of Haverton: Sometimes known by the midnight raven that acted as their regalia in the days of yore, this order is headed by the heady and inquisitive Margret. They are intricately tied to the Scouts' Coalition.
-- **7375**: To further this symbiotic relationship, the order puts its members through myriad living hells to ensure they possess the wit and determination to accurately gather all the necessary information needed for their assignment and to concisely convey it to their clients. Like many of the other orders tied to specific coalitions, the building in which the Order of Haverton conducts most of its business sits directly across from its sister coalition...though some speculate that this architectural arrangement is so that coalition members can catch order escapees mid-flight.
-- **7376**: The Order of Karieyh: This order may possibly be the most recognizable, not only because its leader serves as the maester for the Pioneers' Coalition--which anyone who has braved the infinitely long lines to register as a pioneer knows is a popular one--but because she is also the famous Lhe Lhangavo. Many a Pioneers' Coalition member has undertaken a mission at her behest to come back utterly exhausted, but better for both the experience and the opportunity to work for "the good of Adoulin." Their symbol, a monkey, represents ingenuity in the face of the unknown.
-- **7377**: However, Lhe's tough love is but a continuation of the order's policies, which have brought prosperity to Adoulin as well as notoriety to the coalition. Through extensive survival training that consists of spending weeks on end deep within the Eastern Ulbukan jungle, agricultural endeavors that leave participants with dirt up to their elbows, and the operation of island workshops throughout the archipelago, the Order of Karieyh brings a bounty from both land and sea back to Adoulin. Its main building stands right next to that of the Pioneers' Coalition in Western Adoulin, which makes it difficult to miss.
-- **7378**: The Order of Vocane: Tasked with keeping the city safe and sound, those within its ranks who exhibit an exceptional sense of allegiance to Adoulin and an ability to keep their composure can be elevated to the role of Peacekeepers' Coalition maester. The grizzly Gratzigg currently occupies that position, and Adoulin's denizens report that peace has certainly taken root throughout the city, much like the order's ancient emblem.
-- **7379**: As keeping the peace involves dealing with nefarious criminals and sanguinary monstrosities, they place particular emphasis upon having a muscular frame. Training for new recruits is especially arduous, with sessions beginning in the wee hours of the morning in front of the order's headquarters next to the Peacekeepers' Coalition and ending when Eastern Adoulin is once again enveloped in darkness.
-- **7380**: The Order of Thurandaut: Currently headed by the dry-witted Flaviria, those within the order's ranks who wish to be appointed as the Mummers' Coalition maester must dance circles around their competition. For an appropriate analogy to this, one need look no further than the darting tongue of the order's ancient emblem--the lizard.
-- **7381**: Though many members take the analogy farther by becoming proficient with the lizard-tongue-like polearm, the order is well known for their performers skilled in both letters and arms. The more avant-garde entertainers among them have begun adding techniques involving small animals to their repertoire, which causes detractors to quip that their building near the Residential Area is the most entertaining and cost-effective bestiary in all of Ulbuka.
-- **7382**: The Order of Shneddick: In contrast with its antiquarian murine emblem, the Order of Shneddick-raised maesters of the Couriers' Coalition have been nothing but the pinnacle of righteousness, of which the current maester, Reginald, is an excellent example.
-- **7383**: Though members may tame beasts in a similar manner to their counterparts from the Order of Thurandaut, they combine their skills in domestication with knowledge in the field of transport to improve trade routes with the other nations. They also guard against smuggling, and barely have a blemish on their record. The monument to efficiency that is their building stands behind the Couriers' Coalition, a symbol of Reginald's belief that the members of the order keep the city operating behind the scenes.
-- **7384**: The Order of Orvail: Formerly an order of knights who flew banners emblazoned with spiders, this order now maintains close ties with the Inventors' Coalition. The head of Orvail--Amchuchu, an energetic and gifted rune fencer--serves concurrently as the leader of both organizations.
-- **7385**: Many order members dabble in crafting as well as the runic arts, which explains why so many of them go on to become rune fencers and contribute to the Inventors' Coalition. In addition, the order places a particular emphasis on the thrill of discovery, leading to an exceptional number of naval recruits and explorers from among their ranks. The building that houses this band of inquisitive individuals can be found directly behind the Inventors' Coalition's headquarters.
-- **7386**: Grand Chancellor: Traditionally occupied by a representative from the Order of Adoulin, this office is currently held by Ygnas S. Adoulin.
-- **7387**: Those who assume the role of chancellor must possess a great sense of responsibility, for they become the figurehead for the entirety of the Sacred City of Adoulin. With the advancement of the colonization movement, the chancellor has also had to try his hand at foreign affairs in recent years.
-- **7388**: Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office is currently held by Melvien de Malecroix.
-- **7389**: Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office was previously held by Melvien de Malecroix.
-- **7390**: Estienne has been acting in Melvien's stead following his untimely demise in the wilds.
-- **7391**: While those in this position are, strictly speaking, in charge of Adoulin's treasury and cataloguing the nation's expenditures, the minister of finance also acts as an unofficial consultant for various business matters. The coalitions often seek his advice on how to balance their ledgers, effectively maintain organizational hierarchy, and create profitable exhibitions of their services.
-- **7392**: Minister of Judication: Traditionally occupied by a representative from the Order of Weatherspoon, this office is currently held by Hildebert.
-- **7393**: The very image of impartiality, the minister of judication presides over Adoulin's courts and ensures the law is being observed to its fullest extent. Much like the minister of finance, he occasionally acts as a counselor to those in need of legal advice.
-- **7394**: Though the office of archexorcist also exists, the priory falls under the jurisdiction of the minister of judication. Therefore, his piety remains under constant scrutiny, and he is often encouraged to participate in religious ceremonies.
-- **7395**: Minister of Public Affairs: Traditionally occupied by a representative from the Order of Janniston, this office is currently held by Svenja.
-- **7396**: Well versed in the art of healing, this minister is also charged with keeping the streets pristine and the citizens happy. Arguably the minister with the closest ties to Adoulin's populace, her relationship to the people also forces her to be, for better or worse, a total populist. As she must spend much of her time interacting with denizens and compiling figures on their well-being, one can easily understand why this minister needs possess a charismatic personality.
-- **7397**: Minister of Education: Traditionally occupied by a representative from the Order of Renaye, this office is currently held by Ikhi Askamot.
-- **7398**: The minister of education endeavors to foster intellectual development among Adoulin's citizenry as well as provide them the necessary means to increase their quality of life. An avid interest in the city's history is another essential quality in education ministers, for research regarding one's past is the only way to avoid repeating those mistakes in the future. Finally, she also holds her own lectures in a special edifice built for the express purpose of educating the next generation of Adoulinians.
-- **7399**: Minister of Commerce: Traditionally occupied by a representative from the Order of Gorney, this office is currently held by Chero-Machero.
-- **7400**: Stimulating economic growth and facilitating mercantile success are two tasks the minister of commerce must undertake. Recent ministers have proposed some profoundly innovative business concepts, including the construction of island workshops off the coast of Ulbuka. The incumbent commercial supervisor continues this tradition of eccentric contrivances, stunning his peers in the assembly almost daily.
-- **7401**: Scouts' Coalition: They mainly concern themselves with the acquisition and analysis of intelligence, and the veritable ocean of information they have amassed ebbs and flows amongst the shelves of the Celennia Memorial Library.
-- **7402**: Expert cartographers abound in this coalition, led by Margret from the Order of Haverton, and the sale of maps detailing Ulbuka's cryptic locales are one of the most direct ways in which they support the colonization movement.
-- **7403**: Pioneers' Coalition: Perhaps one of the busiest coalitions on the continent, the Pioneers' Coalition supervises the registration and induction of pioneers from the Middle Lands. While certain members may have their hands full with those duties, the Order of Karieyh's Lhe Lhangavo did not ascend to her position as maester by breeding idle hands.
-- **7404**: The coalition also prepares invaluable materials to assist pioneers in establishing frontier stations and improving the coalition headquarters, for care taken on the outside reflects the effort put into matters on the inside. Lastly, they furnish adventurers with the latest contraptions to make the harsh wilderness that much more docile.
-- **7405**: Peacekeepers' Coalition: What began as a small legion of bodyguards to the king has grown into a full-fledged organization that serves and protects the whole populace of Adoulin. Once firmly rooted to a single calling, the coalition has expanded its horizons to include patrolling the streets and manning the parapets surrounding the city in order to defend it from the swarms of savage creatures hellsbent on razing it to the ground.
-- **7406**: Spearheaded by Gratzigg from the Order of Vocane, the members of this intensely loyal coalition pledge their lives to securing Adoulin's safety and giving its people the peace of mind to drift softly off to sleep each and every night. They train as if the world were to end on the morrow, and their bodies are said to rival midrium in both durability and strength.
-- **7407**: Mummers' Coalition: This troupe of seasoned performers act as messengers of merriment, refining their craft day after day in the pursuit of procuring the ultimate laugh from their audience. While their institution was originally thought to be of little import, their leader, Flaviria--from the Order of Thurandaut--proved that a single smile can set the soul at ease and turn the tide of battle when faced with an unforgiving frontier.
-- **7408**: A shining example of just how the word can be mightier than the sword is evinced by a certain Tarutaru comedic duo who have quietly been building a reputation for hilarious hijinks the continent over.
-- **7409**: Not only do they arrange events within Adoulin itself, but also venture outside the city's comforting walls to console lonely administrators and pioneers stranded in the wilds of East Ulbuka.
-- **7410**: Couriers' Coalition: Headed by the tight-lipped and straight-laced Reginald from the Order of Shneddick, the coalition has flourished under his meticulous supervision. In charge of coordinating shipments between nations, the physical transportation of goods, and stocking delivered products, there is never any rest for weary Couriers' Coalition members.
-- **7411**: In times of war and during the contemporary pioneering movement, however, their duties are expanded to include conveying provisions and arms to the brave souls fighting for Adoulin on the front lines. Though they may not receive many accolades for a job well done, it is undeniable that without them Adoulin would no longer be standing.
-- **7412**: Inventors' Coalition: From the armor worn proudly by the Peacekeepers' Coalition to the harpoons local fishermen use to bring home the catch of the day, the Inventors' Coalition creates or repairs most everything that Adoulinians and pioneers alike employ in their everyday lives.
-- **7413**: Their most prided concoctions, however, are the resplendent whirling waypoints that punctuate the landscape around Ulbuka. Guided by Amchuchu's diminutive but heavy hand, those in the coalition set about placing new waypoints and mending weathered ones when they have no requests to fill from townsfolk or Middle Landers.
+- **7269**: @@
+- **7338**: This shelf is stacked with tomes elucidating the multifarious institutions within the Sacred City of Adoulin.
+- **7339**: What subject will you research? [The Twelve Orders./Administrative Positions./Coalitions./Something else./Nothing.]
+- **7340**: What order shall you research? [What are the Twelve Orders?/Adoulin./Woltaris./Weatherspoon./Janniston./Renaye./Gorney./Haverton./Karieyh./Vocane./Thurandaut./Shneddick./Orvail./None.]
+- **7341**: What minister shall you research? [Grand Chancellor./Minister of Commerce./Minister of Public Affairs./Minister of Finance./Minister of Education./Minister of Judication./None.]
+- **7342**: What coalition shall you research? [Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'./None.]
+- **7358**: The Twelve Orders are organizations that control the Sacred City of Adoulin's political and economic climates. Only the most eminent of members may be chosen as successors to an order when a leader either abdicates or passes on.
+- **7359**: Though not considered houses by strict standards--as they are not always headed by the progeny of an order's founding member, and sometimes even choose not to appoint a leader if none of the candidates are deemed fit for succession--their lineages remain intact thanks in part to adoption of heirs and strategic marriage practices.
+- **7360**: Each order has its own sphere of influence, and the representative of a particular order will assume the office of either minister or maester of its appointed dominion, working for the benefit of the city and its populace.
+- **7361**: [While no longer officially a royal family, the/The] Adoulins are direct descendants of the founder king--August Adoulin--with the blood of that renowned rule coursing uncorrupted through the veins of its current scion, [Ygnas S. Adoulin/Arciela V. Adoulin].
+- **7362**: The Order of Adoulin: Formerly the royal family, the members of this order sit at the apex of the alliance which gave birth to the Sacred City of Adoulin, and their representative traditionally claims the position of grand chancellor within Adoulin's body politic. The order is symbolized by a swallow, the germaneness of which has engendered much debate.
+- **7363**: With the venerable King August Adoulin as the order's ancestor, it is only natural that the community looks to them when in need of direction and decisive action. The family occupies Castle Adoulin, the towering edifice that defines the eastern district of the city.
+- **7364**: The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. Therefore, as the head of the order, Melvien de Malecroix serves in this esteemed post.
+- **7365**: The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. As the former head of the order, Melvien de Malecroix once served in this esteemed post.
+- **7366**: Due to the sway they hold over this station, the vast majority of this organization devotes itself to the study of fiscal matters and theories of coin inside its building situated in Eastern Adoulin's Coronal Esplanade. Their custom of instilling pecuniary perspicacity in its members perhaps explains why more bureaucrats hail from the Order of Woltaris than any other institution in Ulbuka.
+- **7367**: The Order of Weatherspoon: Purveyors of Adoulin's judicial system, the order is led by the senescent and austere Hildebert. In contrast, their coat of arms once consisted of a young and vibrant butterfly, which has often been used as a joke at the aging Elvaan's expense.
+- **7368**: The Order of Weatherspoon also exercises jurisdiction over exorcist activities, and the position of archexorcist--occupied by Vortimere as of this writing--is always chosen by those within the order. The group shares the Coronal Esplanade with the Order of Woltaris as the site of its headquarters.
+- **7369**: The Order of Janniston: The motherly Svenja uses her seemingly infinite kindness to fairly govern this organization. With her unconditional largesse and inexhaustible energy, it's difficult to tell exactly where Svenja's role as maester ends and the rest of the Order begins.
+- **7370**: The order's coat of arms was adorned with a soothingly cool dewdrop long ago, which even now perfectly exemplifies the fact that many of its members are adept practitioners of medicine and white magic. They often give back to the community by supporting pioneers on the front lines of the colonization movement and looking after ailing individuals within the city's walls, with their base of operations situated in Western Adoulin's Platea Triumphus.
+- **7371**: The Order of Renaye: The old symbol of this order--a lush tuft of shimmering grass--accurately illustrates the importance they place on the natural world, which is also heralded by their mistress and Adoulin's minister of education, Ikhi Askamot.
+- **7372**: In addition to cultivating geomantic powers, the order also works to instill skepticism and critical thinking in its members, which explains why researchers--in addition to geomancers--belong to this order. Interestingly, the order's abode rests snugly on the side of Sverdhried Hillock--named after the father of the runic arts.
+- **7373**: The Order of Gorney: Many Adoulinians joke that while the snake is slimy enough, the order's insignia should be the mosquito instead because its doyen, Chero-Machero, the minister of commerce, is wildly successful at sucking the city's populace dry.
+- **7374**: While their tendency to spurn the more theoretical aspects of economics for the sake of turning a profit does not necessarily help their cause, no one can argue that merchants from the Order of Gorney--both at home and abroad--do not contribute to the wealth of the city as a whole. Those interested in making a little extra bayld or learning the gift of the gab to get gil should seek them out in the Coronal Esplanade in Eastern Adoulin.
+- **7375**: The Order of Haverton: Sometimes known by the midnight raven that acted as their regalia in the days of yore, this order is headed by the heady and inquisitive Margret. They are intricately tied to the Scouts' Coalition.
+- **7376**: To further this symbiotic relationship, the order puts its members through myriad living hells to ensure they possess the wit and determination to accurately gather all the necessary information needed for their assignment and to concisely convey it to their clients. Like many of the other orders tied to specific coalitions, the building in which the Order of Haverton conducts most of its business sits directly across from its sister coalition...though some speculate that this architectural arrangement is so that coalition members can catch order escapees mid-flight.
+- **7377**: The Order of Karieyh: This order may possibly be the most recognizable, not only because its leader serves as the maester for the Pioneers' Coalition--which anyone who has braved the infinitely long lines to register as a pioneer knows is a popular one--but because she is also the famous Lhe Lhangavo. Many a Pioneers' Coalition member has undertaken a mission at her behest to come back utterly exhausted, but better for both the experience and the opportunity to work for "the good of Adoulin." Their symbol, a monkey, represents ingenuity in the face of the unknown.
+- **7378**: However, Lhe's tough love is but a continuation of the order's policies, which have brought prosperity to Adoulin as well as notoriety to the coalition. Through extensive survival training that consists of spending weeks on end deep within the Eastern Ulbukan jungle, agricultural endeavors that leave participants with dirt up to their elbows, and the operation of island workshops throughout the archipelago, the Order of Karieyh brings a bounty from both land and sea back to Adoulin. Its main building stands right next to that of the Pioneers' Coalition in Western Adoulin, which makes it difficult to miss.
+- **7379**: The Order of Vocane: Tasked with keeping the city safe and sound, those within its ranks who exhibit an exceptional sense of allegiance to Adoulin and an ability to keep their composure can be elevated to the role of Peacekeepers' Coalition maester. The grizzly Gratzigg currently occupies that position, and Adoulin's denizens report that peace has certainly taken root throughout the city, much like the order's ancient emblem.
+- **7380**: As keeping the peace involves dealing with nefarious criminals and sanguinary monstrosities, they place particular emphasis upon having a muscular frame. Training for new recruits is especially arduous, with sessions beginning in the wee hours of the morning in front of the order's headquarters next to the Peacekeepers' Coalition and ending when Eastern Adoulin is once again enveloped in darkness.
+- **7381**: The Order of Thurandaut: Currently headed by the dry-witted Flaviria, those within the order's ranks who wish to be appointed as the Mummers' Coalition maester must dance circles around their competition. For an appropriate analogy to this, one need look no further than the darting tongue of the order's ancient emblem--the lizard.
+- **7382**: Though many members take the analogy farther by becoming proficient with the lizard-tongue-like polearm, the order is well known for their performers skilled in both letters and arms. The more avant-garde entertainers among them have begun adding techniques involving small animals to their repertoire, which causes detractors to quip that their building near the Residential Area is the most entertaining and cost-effective bestiary in all of Ulbuka.
+- **7383**: The Order of Shneddick: In contrast with its antiquarian murine emblem, the Order of Shneddick-raised maesters of the Couriers' Coalition have been nothing but the pinnacle of righteousness, of which the current maester, Reginald, is an excellent example.
+- **7384**: Though members may tame beasts in a similar manner to their counterparts from the Order of Thurandaut, they combine their skills in domestication with knowledge in the field of transport to improve trade routes with the other nations. They also guard against smuggling, and barely have a blemish on their record. The monument to efficiency that is their building stands behind the Couriers' Coalition, a symbol of Reginald's belief that the members of the order keep the city operating behind the scenes.
+- **7385**: The Order of Orvail: Formerly an order of knights who flew banners emblazoned with spiders, this order now maintains close ties with the Inventors' Coalition. The head of Orvail--Amchuchu, an energetic and gifted rune fencer--serves concurrently as the leader of both organizations.
+- **7386**: Many order members dabble in crafting as well as the runic arts, which explains why so many of them go on to become rune fencers and contribute to the Inventors' Coalition. In addition, the order places a particular emphasis on the thrill of discovery, leading to an exceptional number of naval recruits and explorers from among their ranks. The building that houses this band of inquisitive individuals can be found directly behind the Inventors' Coalition's headquarters.
+- **7387**: Grand Chancellor: Traditionally occupied by a representative from the Order of Adoulin, this office is currently held by Ygnas S. Adoulin.
+- **7388**: Those who assume the role of chancellor must possess a great sense of responsibility, for they become the figurehead for the entirety of the Sacred City of Adoulin. With the advancement of the colonization movement, the chancellor has also had to try his hand at foreign affairs in recent years.
+- **7389**: Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office is currently held by Melvien de Malecroix.
+- **7390**: Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office was previously held by Melvien de Malecroix.
+- **7391**: Estienne has been acting in Melvien's stead following his untimely demise in the wilds.
+- **7392**: While those in this position are, strictly speaking, in charge of Adoulin's treasury and cataloguing the nation's expenditures, the minister of finance also acts as an unofficial consultant for various business matters. The coalitions often seek his advice on how to balance their ledgers, effectively maintain organizational hierarchy, and create profitable exhibitions of their services.
+- **7393**: Minister of Judication: Traditionally occupied by a representative from the Order of Weatherspoon, this office is currently held by Hildebert.
+- **7394**: The very image of impartiality, the minister of judication presides over Adoulin's courts and ensures the law is being observed to its fullest extent. Much like the minister of finance, he occasionally acts as a counselor to those in need of legal advice.
+- **7395**: Though the office of archexorcist also exists, the priory falls under the jurisdiction of the minister of judication. Therefore, his piety remains under constant scrutiny, and he is often encouraged to participate in religious ceremonies.
+- **7396**: Minister of Public Affairs: Traditionally occupied by a representative from the Order of Janniston, this office is currently held by Svenja.
+- **7397**: Well versed in the art of healing, this minister is also charged with keeping the streets pristine and the citizens happy. Arguably the minister with the closest ties to Adoulin's populace, her relationship to the people also forces her to be, for better or worse, a total populist. As she must spend much of her time interacting with denizens and compiling figures on their well-being, one can easily understand why this minister needs possess a charismatic personality.
+- **7398**: Minister of Education: Traditionally occupied by a representative from the Order of Renaye, this office is currently held by Ikhi Askamot.
+- **7399**: The minister of education endeavors to foster intellectual development among Adoulin's citizenry as well as provide them the necessary means to increase their quality of life. An avid interest in the city's history is another essential quality in education ministers, for research regarding one's past is the only way to avoid repeating those mistakes in the future. Finally, she also holds her own lectures in a special edifice built for the express purpose of educating the next generation of Adoulinians.
+- **7400**: Minister of Commerce: Traditionally occupied by a representative from the Order of Gorney, this office is currently held by Chero-Machero.
+- **7401**: Stimulating economic growth and facilitating mercantile success are two tasks the minister of commerce must undertake. Recent ministers have proposed some profoundly innovative business concepts, including the construction of island workshops off the coast of Ulbuka. The incumbent commercial supervisor continues this tradition of eccentric contrivances, stunning his peers in the assembly almost daily.
+- **7402**: Scouts' Coalition: They mainly concern themselves with the acquisition and analysis of intelligence, and the veritable ocean of information they have amassed ebbs and flows amongst the shelves of the Celennia Memorial Library.
+- **7403**: Expert cartographers abound in this coalition, led by Margret from the Order of Haverton, and the sale of maps detailing Ulbuka's cryptic locales are one of the most direct ways in which they support the colonization movement.
+- **7404**: Pioneers' Coalition: Perhaps one of the busiest coalitions on the continent, the Pioneers' Coalition supervises the registration and induction of pioneers from the Middle Lands. While certain members may have their hands full with those duties, the Order of Karieyh's Lhe Lhangavo did not ascend to her position as maester by breeding idle hands.
+- **7405**: The coalition also prepares invaluable materials to assist pioneers in establishing frontier stations and improving the coalition headquarters, for care taken on the outside reflects the effort put into matters on the inside. Lastly, they furnish adventurers with the latest contraptions to make the harsh wilderness that much more docile.
+- **7406**: Peacekeepers' Coalition: What began as a small legion of bodyguards to the king has grown into a full-fledged organization that serves and protects the whole populace of Adoulin. Once firmly rooted to a single calling, the coalition has expanded its horizons to include patrolling the streets and manning the parapets surrounding the city in order to defend it from the swarms of savage creatures hellsbent on razing it to the ground.
+- **7407**: Spearheaded by Gratzigg from the Order of Vocane, the members of this intensely loyal coalition pledge their lives to securing Adoulin's safety and giving its people the peace of mind to drift softly off to sleep each and every night. They train as if the world were to end on the morrow, and their bodies are said to rival midrium in both durability and strength.
+- **7408**: Mummers' Coalition: This troupe of seasoned performers act as messengers of merriment, refining their craft day after day in the pursuit of procuring the ultimate laugh from their audience. While their institution was originally thought to be of little import, their leader, Flaviria--from the Order of Thurandaut--proved that a single smile can set the soul at ease and turn the tide of battle when faced with an unforgiving frontier.
+- **7409**: A shining example of just how the word can be mightier than the sword is evinced by a certain Tarutaru comedic duo who have quietly been building a reputation for hilarious hijinks the continent over.
+- **7410**: Not only do they arrange events within Adoulin itself, but also venture outside the city's comforting walls to console lonely administrators and pioneers stranded in the wilds of East Ulbuka.
+- **7411**: Couriers' Coalition: Headed by the tight-lipped and straight-laced Reginald from the Order of Shneddick, the coalition has flourished under his meticulous supervision. In charge of coordinating shipments between nations, the physical transportation of goods, and stocking delivered products, there is never any rest for weary Couriers' Coalition members.
+- **7412**: In times of war and during the contemporary pioneering movement, however, their duties are expanded to include conveying provisions and arms to the brave souls fighting for Adoulin on the front lines. Though they may not receive many accolades for a job well done, it is undeniable that without them Adoulin would no longer be standing.
+- **7413**: Inventors' Coalition: From the armor worn proudly by the Peacekeepers' Coalition to the harpoons local fishermen use to bring home the catch of the day, the Inventors' Coalition creates or repairs most everything that Adoulinians and pioneers alike employ in their everyday lives.
+- **7414**: Their most prided concoctions, however, are the resplendent whirling waypoints that punctuate the landscape around Ulbuka. Guided by Amchuchu's diminutive but heavy hand, those in the coalition set about placing new waypoints and mending weathered ones when they have no requests to fill from townsfolk or Middle Landers.
 
 ## Events
 
@@ -285,7 +285,7 @@
   6: 0x001F [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
   7: 0x0024 [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
   8: 0x0029 [0x4A] LocalPlayer looks at EventEntity
-  9: 0x0032 [0x48] [System] [7337*]:
+  9: 0x0032 [0x48] [System] [7338*]:
     → "This shelf is stacked with tomes elucidating the multifarious institutions within the Sacred City of Adoulin."
  10: 0x0035 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0036 [0x03] ExtData[1]->WorkLocal[8] = 0*
@@ -297,28 +297,28 @@
  17: 0x0055 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 0*) GOTO 0x0066
  18: 0x005C [0x03] ExtData[1]->WorkLocal[14] = 8*
  19: 0x0061 [0x0E] ExtData[1]->WorkLocal[12] |= ExtData[1]->WorkLocal[14]
- 20: 0x0066 [0x24] CREATE_DIALOG(message_id=7338*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[12])
+ 20: 0x0066 [0x24] CREATE_DIALOG(message_id=7339*, default_option=ExtData[1]->WorkLocal[10], option_flags=ExtData[1]->WorkLocal[12])
     → "What subject will you research? [The Twelve Orders./Administrative Positions./Coalitions./Something else./Nothing.]"
  21: 0x006D [0x25] WAIT_DIALOG_SELECT()
  22: 0x006E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x024E
  23: 0x0076 [0x03] ExtData[1]->WorkLocal[10] = Work_Zone[0]
  24: 0x007B [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x024B
  25: 0x0083 [0x06] ExtData[1]->WorkLocal[13] = 0
- 26: 0x0086 [0x24] CREATE_DIALOG(message_id=7339*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+ 26: 0x0086 [0x24] CREATE_DIALOG(message_id=7340*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "What order shall you research? [What are the Twelve Orders?/Adoulin./Woltaris./Weatherspoon./Janniston./Renaye./Gorney./Haverton./Karieyh./Vocane./Thurandaut./Shneddick./Orvail./None.]"
  27: 0x008D [0x25] WAIT_DIALOG_SELECT()
  28: 0x008E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00C6
  29: 0x0096 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 30: 0x009B [0x48] [System] [7268*]:
+ 30: 0x009B [0x48] [System] [7269*]:
     → "@@"
  31: 0x009E [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x009F [0x48] [System] [7357*]:
+ 32: 0x009F [0x48] [System] [7358*]:
     → "The Twelve Orders are organizations that control the Sacred City of Adoulin's political and economic climates. Only the most eminent of members may be chosen as successors to an order when a leader either abdicates or passes on."
  33: 0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x00A3 [0x48] [System] [7358*]:
+ 34: 0x00A3 [0x48] [System] [7359*]:
     → "Though not considered houses by strict standards--as they are not always headed by the progeny of an order's founding member, and sometimes even choose not to appoint a leader if none of the candidates are deemed fit for succession--their lineages remain intact thanks in part to adoption of heirs and strategic marriage practices."
  35: 0x00A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x00A7 [0x48] [System] [7359*]:
+ 36: 0x00A7 [0x48] [System] [7360*]:
     → "Each order has its own sphere of influence, and the representative of a particular order will assume the office of either minister or maester of its appointed dominion, working for the benefit of the city and its populace."
  37: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00AB [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x00BA
@@ -327,16 +327,16 @@
  41: 0x00BA [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_00BF:
- 42: 0x00BF [0x48] [System] [7360*]:
+ 42: 0x00BF [0x48] [System] [7361*]:
     → "[While no longer officially a royal family, the/The] Adoulins are direct descendants of the founder king--August Adoulin--with the blood of that renowned rule coursing uncorrupted through the veins of its current scion, [Ygnas S. Adoulin/Arciela V. Adoulin]."
  43: 0x00C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00C3 [0x01] GOTO 0x0248
  45: 0x00C6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00F6
  46: 0x00CE [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 47: 0x00D3 [0x48] [System] [7268*]:
+ 47: 0x00D3 [0x48] [System] [7269*]:
     → "@@"
  48: 0x00D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x00D7 [0x48] [System] [7361*]:
+ 49: 0x00D7 [0x48] [System] [7362*]:
     → "The Order of Adoulin: Formerly the royal family, the members of this order sit at the apex of the alliance which gave birth to the Sacred City of Adoulin, and their representative traditionally claims the position of grand chancellor within Adoulin's body politic. The order is symbolized by a swallow, the germaneness of which has engendered much debate."
  50: 0x00DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00DB [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 3*) GOTO 0x00EA
@@ -345,146 +345,146 @@ SUBROUTINE_00BF:
  54: 0x00EA [0x03] Work_Zone[2] = 0*
 
 SUBROUTINE_00EF:
- 55: 0x00EF [0x48] [System] [7362*]:
+ 55: 0x00EF [0x48] [System] [7363*]:
     → "With the venerable King August Adoulin as the order's ancestor, it is only natural that the community looks to them when in need of direction and decisive action. The family occupies Castle Adoulin, the towering edifice that defines the eastern district of the city."
  56: 0x00F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x00F3 [0x01] GOTO 0x0248
  58: 0x00F6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0120
  59: 0x00FE [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 60: 0x0103 [0x48] [System] [7268*]:
+ 60: 0x0103 [0x48] [System] [7269*]:
     → "@@"
  61: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0107 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x0115
- 63: 0x010E [0x48] [System] [7364*]:
+ 63: 0x010E [0x48] [System] [7365*]:
     → "The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. As the former head of the order, Melvien de Malecroix once served in this esteemed post."
  64: 0x0111 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0112 [0x01] GOTO 0x0119
- 66: 0x0115 [0x48] [System] [7363*]:
+ 66: 0x0115 [0x48] [System] [7364*]:
     → "The Order of Woltaris: Symbolized by a verdant leaf in ages past, this order's distinguished members hold the economic fate of the city in their hands, as its most distinguished of members take office as the minister of finance. Therefore, as the head of the order, Melvien de Malecroix serves in this esteemed post."
  67: 0x0118 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0119:
- 68: 0x0119 [0x48] [System] [7365*]:
+ 68: 0x0119 [0x48] [System] [7366*]:
     → "Due to the sway they hold over this station, the vast majority of this organization devotes itself to the study of fiscal matters and theories of coin inside its building situated in Eastern Adoulin's Coronal Esplanade. Their custom of instilling pecuniary perspicacity in its members perhaps explains why more bureaucrats hail from the Order of Woltaris than any other institution in Ulbuka."
  69: 0x011C [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x011D [0x01] GOTO 0x0248
  71: 0x0120 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x013C
  72: 0x0128 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 73: 0x012D [0x48] [System] [7268*]:
+ 73: 0x012D [0x48] [System] [7269*]:
     → "@@"
  74: 0x0130 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 75: 0x0131 [0x48] [System] [7366*]:
+ 75: 0x0131 [0x48] [System] [7367*]:
     → "The Order of Weatherspoon: Purveyors of Adoulin's judicial system, the order is led by the senescent and austere Hildebert. In contrast, their coat of arms once consisted of a young and vibrant butterfly, which has often been used as a joke at the aging Elvaan's expense."
  76: 0x0134 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 77: 0x0135 [0x48] [System] [7367*]:
+ 77: 0x0135 [0x48] [System] [7368*]:
     → "The Order of Weatherspoon also exercises jurisdiction over exorcist activities, and the position of archexorcist--occupied by Vortimere as of this writing--is always chosen by those within the order. The group shares the Coronal Esplanade with the Order of Woltaris as the site of its headquarters."
  78: 0x0138 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0139 [0x01] GOTO 0x0248
  80: 0x013C [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x0158
  81: 0x0144 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 82: 0x0149 [0x48] [System] [7268*]:
+ 82: 0x0149 [0x48] [System] [7269*]:
     → "@@"
  83: 0x014C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 84: 0x014D [0x48] [System] [7368*]:
+ 84: 0x014D [0x48] [System] [7369*]:
     → "The Order of Janniston: The motherly Svenja uses her seemingly infinite kindness to fairly govern this organization. With her unconditional largesse and inexhaustible energy, it's difficult to tell exactly where Svenja's role as maester ends and the rest of the Order begins."
  85: 0x0150 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x0151 [0x48] [System] [7369*]:
+ 86: 0x0151 [0x48] [System] [7370*]:
     → "The order's coat of arms was adorned with a soothingly cool dewdrop long ago, which even now perfectly exemplifies the fact that many of its members are adept practitioners of medicine and white magic. They often give back to the community by supporting pioneers on the front lines of the colonization movement and looking after ailing individuals within the city's walls, with their base of operations situated in Western Adoulin's Platea Triumphus."
  87: 0x0154 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x0155 [0x01] GOTO 0x0248
  89: 0x0158 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0174
  90: 0x0160 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
- 91: 0x0165 [0x48] [System] [7268*]:
+ 91: 0x0165 [0x48] [System] [7269*]:
     → "@@"
  92: 0x0168 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 93: 0x0169 [0x48] [System] [7370*]:
+ 93: 0x0169 [0x48] [System] [7371*]:
     → "The Order of Renaye: The old symbol of this order--a lush tuft of shimmering grass--accurately illustrates the importance they place on the natural world, which is also heralded by their mistress and Adoulin's minister of education, Ikhi Askamot."
  94: 0x016C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 95: 0x016D [0x48] [System] [7371*]:
+ 95: 0x016D [0x48] [System] [7372*]:
     → "In addition to cultivating geomantic powers, the order also works to instill skepticism and critical thinking in its members, which explains why researchers--in addition to geomancers--belong to this order. Interestingly, the order's abode rests snugly on the side of Sverdhried Hillock--named after the father of the runic arts."
  96: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x0171 [0x01] GOTO 0x0248
  98: 0x0174 [0x02] IF !(Work_Zone[0] == 6*) GOTO 0x0190
  99: 0x017C [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-100: 0x0181 [0x48] [System] [7268*]:
+100: 0x0181 [0x48] [System] [7269*]:
     → "@@"
 101: 0x0184 [0x23] WAIT_FOR_DIALOG_INTERACTION
-102: 0x0185 [0x48] [System] [7372*]:
+102: 0x0185 [0x48] [System] [7373*]:
     → "The Order of Gorney: Many Adoulinians joke that while the snake is slimy enough, the order's insignia should be the mosquito instead because its doyen, Chero-Machero, the minister of commerce, is wildly successful at sucking the city's populace dry."
 103: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
-104: 0x0189 [0x48] [System] [7373*]:
+104: 0x0189 [0x48] [System] [7374*]:
     → "While their tendency to spurn the more theoretical aspects of economics for the sake of turning a profit does not necessarily help their cause, no one can argue that merchants from the Order of Gorney--both at home and abroad--do not contribute to the wealth of the city as a whole. Those interested in making a little extra bayld or learning the gift of the gab to get gil should seek them out in the Coronal Esplanade in Eastern Adoulin."
 105: 0x018C [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x018D [0x01] GOTO 0x0248
 107: 0x0190 [0x02] IF !(Work_Zone[0] == 7*) GOTO 0x01AC
 108: 0x0198 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-109: 0x019D [0x48] [System] [7268*]:
+109: 0x019D [0x48] [System] [7269*]:
     → "@@"
 110: 0x01A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-111: 0x01A1 [0x48] [System] [7374*]:
+111: 0x01A1 [0x48] [System] [7375*]:
     → "The Order of Haverton: Sometimes known by the midnight raven that acted as their regalia in the days of yore, this order is headed by the heady and inquisitive Margret. They are intricately tied to the Scouts' Coalition."
 112: 0x01A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-113: 0x01A5 [0x48] [System] [7375*]:
+113: 0x01A5 [0x48] [System] [7376*]:
     → "To further this symbiotic relationship, the order puts its members through myriad living hells to ensure they possess the wit and determination to accurately gather all the necessary information needed for their assignment and to concisely convey it to their clients. Like many of the other orders tied to specific coalitions, the building in which the Order of Haverton conducts most of its business sits directly across from its sister coalition...though some speculate that this architectural arrangement is so that coalition members can catch order escapees mid-flight."
 114: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x01A9 [0x01] GOTO 0x0248
 116: 0x01AC [0x02] IF !(Work_Zone[0] == 8*) GOTO 0x01C8
 117: 0x01B4 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-118: 0x01B9 [0x48] [System] [7268*]:
+118: 0x01B9 [0x48] [System] [7269*]:
     → "@@"
 119: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-120: 0x01BD [0x48] [System] [7376*]:
+120: 0x01BD [0x48] [System] [7377*]:
     → "The Order of Karieyh: This order may possibly be the most recognizable, not only because its leader serves as the maester for the Pioneers' Coalition--which anyone who has braved the infinitely long lines to register as a pioneer knows is a popular one--but because she is also the famous Lhe Lhangavo. Many a Pioneers' Coalition member has undertaken a mission at her behest to come back utterly exhausted, but better for both the experience and the opportunity to work for "the good of Adoulin." Their symbol, a monkey, represents ingenuity in the face of the unknown."
 121: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-122: 0x01C1 [0x48] [System] [7377*]:
+122: 0x01C1 [0x48] [System] [7378*]:
     → "However, Lhe's tough love is but a continuation of the order's policies, which have brought prosperity to Adoulin as well as notoriety to the coalition. Through extensive survival training that consists of spending weeks on end deep within the Eastern Ulbukan jungle, agricultural endeavors that leave participants with dirt up to their elbows, and the operation of island workshops throughout the archipelago, the Order of Karieyh brings a bounty from both land and sea back to Adoulin. Its main building stands right next to that of the Pioneers' Coalition in Western Adoulin, which makes it difficult to miss."
 123: 0x01C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x01C5 [0x01] GOTO 0x0248
 125: 0x01C8 [0x02] IF !(Work_Zone[0] == 9*) GOTO 0x01E4
 126: 0x01D0 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-127: 0x01D5 [0x48] [System] [7268*]:
+127: 0x01D5 [0x48] [System] [7269*]:
     → "@@"
 128: 0x01D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-129: 0x01D9 [0x48] [System] [7378*]:
+129: 0x01D9 [0x48] [System] [7379*]:
     → "The Order of Vocane: Tasked with keeping the city safe and sound, those within its ranks who exhibit an exceptional sense of allegiance to Adoulin and an ability to keep their composure can be elevated to the role of Peacekeepers' Coalition maester. The grizzly Gratzigg currently occupies that position, and Adoulin's denizens report that peace has certainly taken root throughout the city, much like the order's ancient emblem."
 130: 0x01DC [0x23] WAIT_FOR_DIALOG_INTERACTION
-131: 0x01DD [0x48] [System] [7379*]:
+131: 0x01DD [0x48] [System] [7380*]:
     → "As keeping the peace involves dealing with nefarious criminals and sanguinary monstrosities, they place particular emphasis upon having a muscular frame. Training for new recruits is especially arduous, with sessions beginning in the wee hours of the morning in front of the order's headquarters next to the Peacekeepers' Coalition and ending when Eastern Adoulin is once again enveloped in darkness."
 132: 0x01E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x01E1 [0x01] GOTO 0x0248
 134: 0x01E4 [0x02] IF !(Work_Zone[0] == 10*) GOTO 0x0200
 135: 0x01EC [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-136: 0x01F1 [0x48] [System] [7268*]:
+136: 0x01F1 [0x48] [System] [7269*]:
     → "@@"
 137: 0x01F4 [0x23] WAIT_FOR_DIALOG_INTERACTION
-138: 0x01F5 [0x48] [System] [7380*]:
+138: 0x01F5 [0x48] [System] [7381*]:
     → "The Order of Thurandaut: Currently headed by the dry-witted Flaviria, those within the order's ranks who wish to be appointed as the Mummers' Coalition maester must dance circles around their competition. For an appropriate analogy to this, one need look no further than the darting tongue of the order's ancient emblem--the lizard."
 139: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-140: 0x01F9 [0x48] [System] [7381*]:
+140: 0x01F9 [0x48] [System] [7382*]:
     → "Though many members take the analogy farther by becoming proficient with the lizard-tongue-like polearm, the order is well known for their performers skilled in both letters and arms. The more avant-garde entertainers among them have begun adding techniques involving small animals to their repertoire, which causes detractors to quip that their building near the Residential Area is the most entertaining and cost-effective bestiary in all of Ulbuka."
 141: 0x01FC [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x01FD [0x01] GOTO 0x0248
 143: 0x0200 [0x02] IF !(Work_Zone[0] == 11*) GOTO 0x021C
 144: 0x0208 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-145: 0x020D [0x48] [System] [7268*]:
+145: 0x020D [0x48] [System] [7269*]:
     → "@@"
 146: 0x0210 [0x23] WAIT_FOR_DIALOG_INTERACTION
-147: 0x0211 [0x48] [System] [7382*]:
+147: 0x0211 [0x48] [System] [7383*]:
     → "The Order of Shneddick: In contrast with its antiquarian murine emblem, the Order of Shneddick-raised maesters of the Couriers' Coalition have been nothing but the pinnacle of righteousness, of which the current maester, Reginald, is an excellent example."
 148: 0x0214 [0x23] WAIT_FOR_DIALOG_INTERACTION
-149: 0x0215 [0x48] [System] [7383*]:
+149: 0x0215 [0x48] [System] [7384*]:
     → "Though members may tame beasts in a similar manner to their counterparts from the Order of Thurandaut, they combine their skills in domestication with knowledge in the field of transport to improve trade routes with the other nations. They also guard against smuggling, and barely have a blemish on their record. The monument to efficiency that is their building stands behind the Couriers' Coalition, a symbol of Reginald's belief that the members of the order keep the city operating behind the scenes."
 150: 0x0218 [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x0219 [0x01] GOTO 0x0248
 152: 0x021C [0x02] IF !(Work_Zone[0] == 12*) GOTO 0x0238
 153: 0x0224 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-154: 0x0229 [0x48] [System] [7268*]:
+154: 0x0229 [0x48] [System] [7269*]:
     → "@@"
 155: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x022D [0x48] [System] [7384*]:
+156: 0x022D [0x48] [System] [7385*]:
     → "The Order of Orvail: Formerly an order of knights who flew banners emblazoned with spiders, this order now maintains close ties with the Inventors' Coalition. The head of Orvail--Amchuchu, an energetic and gifted rune fencer--serves concurrently as the leader of both organizations."
 157: 0x0230 [0x23] WAIT_FOR_DIALOG_INTERACTION
-158: 0x0231 [0x48] [System] [7385*]:
+158: 0x0231 [0x48] [System] [7386*]:
     → "Many order members dabble in crafting as well as the runic arts, which explains why so many of them go on to become rune fencers and contribute to the Inventors' Coalition. In addition, the order places a particular emphasis on the thrill of discovery, leading to an exceptional number of naval recruits and explorers from among their ranks. The building that houses this band of inquisitive individuals can be found directly behind the Inventors' Coalition's headquarters."
 159: 0x0234 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0235 [0x01] GOTO 0x0248
@@ -501,91 +501,91 @@ SUBROUTINE_0248:
 SUBROUTINE_025B:
 168: 0x025B [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x033F
 169: 0x0263 [0x06] ExtData[1]->WorkLocal[13] = 0
-170: 0x0266 [0x24] CREATE_DIALOG(message_id=7340*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+170: 0x0266 [0x24] CREATE_DIALOG(message_id=7341*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "What minister shall you research? [Grand Chancellor./Minister of Commerce./Minister of Public Affairs./Minister of Finance./Minister of Education./Minister of Judication./None.]"
 171: 0x026D [0x25] WAIT_DIALOG_SELECT()
 172: 0x026E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x028A
 173: 0x0276 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-174: 0x027B [0x48] [System] [7268*]:
+174: 0x027B [0x48] [System] [7269*]:
     → "@@"
 175: 0x027E [0x23] WAIT_FOR_DIALOG_INTERACTION
-176: 0x027F [0x48] [System] [7386*]:
+176: 0x027F [0x48] [System] [7387*]:
     → "Grand Chancellor: Traditionally occupied by a representative from the Order of Adoulin, this office is currently held by Ygnas S. Adoulin."
 177: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x0283 [0x48] [System] [7387*]:
+178: 0x0283 [0x48] [System] [7388*]:
     → "Those who assume the role of chancellor must possess a great sense of responsibility, for they become the figurehead for the entirety of the Sacred City of Adoulin. With the advancement of the colonization movement, the chancellor has also had to try his hand at foreign affairs in recent years."
 179: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0287 [0x01] GOTO 0x033C
 181: 0x028A [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02A6
 182: 0x0292 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-183: 0x0297 [0x48] [System] [7268*]:
+183: 0x0297 [0x48] [System] [7269*]:
     → "@@"
 184: 0x029A [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x029B [0x48] [System] [7399*]:
+185: 0x029B [0x48] [System] [7400*]:
     → "Minister of Commerce: Traditionally occupied by a representative from the Order of Gorney, this office is currently held by Chero-Machero."
 186: 0x029E [0x23] WAIT_FOR_DIALOG_INTERACTION
-187: 0x029F [0x48] [System] [7400*]:
+187: 0x029F [0x48] [System] [7401*]:
     → "Stimulating economic growth and facilitating mercantile success are two tasks the minister of commerce must undertake. Recent ministers have proposed some profoundly innovative business concepts, including the construction of island workshops off the coast of Ulbuka. The incumbent commercial supervisor continues this tradition of eccentric contrivances, stunning his peers in the assembly almost daily."
 188: 0x02A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 189: 0x02A3 [0x01] GOTO 0x033C
 190: 0x02A6 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x02C2
 191: 0x02AE [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-192: 0x02B3 [0x48] [System] [7268*]:
+192: 0x02B3 [0x48] [System] [7269*]:
     → "@@"
 193: 0x02B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-194: 0x02B7 [0x48] [System] [7395*]:
+194: 0x02B7 [0x48] [System] [7396*]:
     → "Minister of Public Affairs: Traditionally occupied by a representative from the Order of Janniston, this office is currently held by Svenja."
 195: 0x02BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-196: 0x02BB [0x48] [System] [7396*]:
+196: 0x02BB [0x48] [System] [7397*]:
     → "Well versed in the art of healing, this minister is also charged with keeping the streets pristine and the citizens happy. Arguably the minister with the closest ties to Adoulin's populace, her relationship to the people also forces her to be, for better or worse, a total populist. As she must spend much of her time interacting with denizens and compiling figures on their well-being, one can easily understand why this minister needs possess a charismatic personality."
 197: 0x02BE [0x23] WAIT_FOR_DIALOG_INTERACTION
 198: 0x02BF [0x01] GOTO 0x033C
 199: 0x02C2 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02F0
 200: 0x02CA [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-201: 0x02CF [0x48] [System] [7268*]:
+201: 0x02CF [0x48] [System] [7269*]:
     → "@@"
 202: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 203: 0x02D3 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 2*) GOTO 0x02E5
-204: 0x02DA [0x48] [System] [7389*]:
+204: 0x02DA [0x48] [System] [7390*]:
     → "Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office was previously held by Melvien de Malecroix."
 205: 0x02DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-206: 0x02DE [0x48] [System] [7390*]:
+206: 0x02DE [0x48] [System] [7391*]:
     → "Estienne has been acting in Melvien's stead following his untimely demise in the wilds."
 207: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x02E2 [0x01] GOTO 0x02E9
-209: 0x02E5 [0x48] [System] [7388*]:
+209: 0x02E5 [0x48] [System] [7389*]:
     → "Minister of Finance: Traditionally occupied by a representative from the Order of Woltaris, this office is currently held by Melvien de Malecroix."
 210: 0x02E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_02E9:
-211: 0x02E9 [0x48] [System] [7391*]:
+211: 0x02E9 [0x48] [System] [7392*]:
     → "While those in this position are, strictly speaking, in charge of Adoulin's treasury and cataloguing the nation's expenditures, the minister of finance also acts as an unofficial consultant for various business matters. The coalitions often seek his advice on how to balance their ledgers, effectively maintain organizational hierarchy, and create profitable exhibitions of their services."
 212: 0x02EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 213: 0x02ED [0x01] GOTO 0x033C
 214: 0x02F0 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x030C
 215: 0x02F8 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-216: 0x02FD [0x48] [System] [7268*]:
+216: 0x02FD [0x48] [System] [7269*]:
     → "@@"
 217: 0x0300 [0x23] WAIT_FOR_DIALOG_INTERACTION
-218: 0x0301 [0x48] [System] [7397*]:
+218: 0x0301 [0x48] [System] [7398*]:
     → "Minister of Education: Traditionally occupied by a representative from the Order of Renaye, this office is currently held by Ikhi Askamot."
 219: 0x0304 [0x23] WAIT_FOR_DIALOG_INTERACTION
-220: 0x0305 [0x48] [System] [7398*]:
+220: 0x0305 [0x48] [System] [7399*]:
     → "The minister of education endeavors to foster intellectual development among Adoulin's citizenry as well as provide them the necessary means to increase their quality of life. An avid interest in the city's history is another essential quality in education ministers, for research regarding one's past is the only way to avoid repeating those mistakes in the future. Finally, she also holds her own lectures in a special edifice built for the express purpose of educating the next generation of Adoulinians."
 221: 0x0308 [0x23] WAIT_FOR_DIALOG_INTERACTION
 222: 0x0309 [0x01] GOTO 0x033C
 223: 0x030C [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x032C
 224: 0x0314 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-225: 0x0319 [0x48] [System] [7268*]:
+225: 0x0319 [0x48] [System] [7269*]:
     → "@@"
 226: 0x031C [0x23] WAIT_FOR_DIALOG_INTERACTION
-227: 0x031D [0x48] [System] [7392*]:
+227: 0x031D [0x48] [System] [7393*]:
     → "Minister of Judication: Traditionally occupied by a representative from the Order of Weatherspoon, this office is currently held by Hildebert."
 228: 0x0320 [0x23] WAIT_FOR_DIALOG_INTERACTION
-229: 0x0321 [0x48] [System] [7393*]:
+229: 0x0321 [0x48] [System] [7394*]:
     → "The very image of impartiality, the minister of judication presides over Adoulin's courts and ensures the law is being observed to its fullest extent. Much like the minister of finance, he occasionally acts as a counselor to those in need of legal advice."
 230: 0x0324 [0x23] WAIT_FOR_DIALOG_INTERACTION
-231: 0x0325 [0x48] [System] [7394*]:
+231: 0x0325 [0x48] [System] [7395*]:
     → "Though the office of archexorcist also exists, the priory falls under the jurisdiction of the minister of judication. Therefore, his piety remains under constant scrutiny, and he is often encouraged to participate in religious ceremonies."
 232: 0x0328 [0x23] WAIT_FOR_DIALOG_INTERACTION
 233: 0x0329 [0x01] GOTO 0x033C
@@ -602,82 +602,82 @@ SUBROUTINE_033C:
 SUBROUTINE_034F:
 241: 0x034F [0x02] IF !(ExtData[1]->WorkLocal[9] == 0*) GOTO 0x0428
 242: 0x0357 [0x06] ExtData[1]->WorkLocal[13] = 0
-243: 0x035A [0x24] CREATE_DIALOG(message_id=7341*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
+243: 0x035A [0x24] CREATE_DIALOG(message_id=7342*, default_option=ExtData[1]->WorkLocal[11], option_flags=ExtData[1]->WorkLocal[13])
     → "What coalition shall you research? [Pioneers'./Peacekeepers'./Couriers'./Scouts'./Inventors'./Mummers'./None.]"
 244: 0x0361 [0x25] WAIT_DIALOG_SELECT()
 245: 0x0362 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x037E
 246: 0x036A [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-247: 0x036F [0x48] [System] [7268*]:
+247: 0x036F [0x48] [System] [7269*]:
     → "@@"
 248: 0x0372 [0x23] WAIT_FOR_DIALOG_INTERACTION
-249: 0x0373 [0x48] [System] [7403*]:
+249: 0x0373 [0x48] [System] [7404*]:
     → "Pioneers' Coalition: Perhaps one of the busiest coalitions on the continent, the Pioneers' Coalition supervises the registration and induction of pioneers from the Middle Lands. While certain members may have their hands full with those duties, the Order of Karieyh's Lhe Lhangavo did not ascend to her position as maester by breeding idle hands."
 250: 0x0376 [0x23] WAIT_FOR_DIALOG_INTERACTION
-251: 0x0377 [0x48] [System] [7404*]:
+251: 0x0377 [0x48] [System] [7405*]:
     → "The coalition also prepares invaluable materials to assist pioneers in establishing frontier stations and improving the coalition headquarters, for care taken on the outside reflects the effort put into matters on the inside. Lastly, they furnish adventurers with the latest contraptions to make the harsh wilderness that much more docile."
 252: 0x037A [0x23] WAIT_FOR_DIALOG_INTERACTION
 253: 0x037B [0x01] GOTO 0x0425
 254: 0x037E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x039A
 255: 0x0386 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-256: 0x038B [0x48] [System] [7268*]:
+256: 0x038B [0x48] [System] [7269*]:
     → "@@"
 257: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
-258: 0x038F [0x48] [System] [7405*]:
+258: 0x038F [0x48] [System] [7406*]:
     → "Peacekeepers' Coalition: What began as a small legion of bodyguards to the king has grown into a full-fledged organization that serves and protects the whole populace of Adoulin. Once firmly rooted to a single calling, the coalition has expanded its horizons to include patrolling the streets and manning the parapets surrounding the city in order to defend it from the swarms of savage creatures hellsbent on razing it to the ground."
 259: 0x0392 [0x23] WAIT_FOR_DIALOG_INTERACTION
-260: 0x0393 [0x48] [System] [7406*]:
+260: 0x0393 [0x48] [System] [7407*]:
     → "Spearheaded by Gratzigg from the Order of Vocane, the members of this intensely loyal coalition pledge their lives to securing Adoulin's safety and giving its people the peace of mind to drift softly off to sleep each and every night. They train as if the world were to end on the morrow, and their bodies are said to rival midrium in both durability and strength."
 261: 0x0396 [0x23] WAIT_FOR_DIALOG_INTERACTION
 262: 0x0397 [0x01] GOTO 0x0425
 263: 0x039A [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03B6
 264: 0x03A2 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-265: 0x03A7 [0x48] [System] [7268*]:
+265: 0x03A7 [0x48] [System] [7269*]:
     → "@@"
 266: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
-267: 0x03AB [0x48] [System] [7410*]:
+267: 0x03AB [0x48] [System] [7411*]:
     → "Couriers' Coalition: Headed by the tight-lipped and straight-laced Reginald from the Order of Shneddick, the coalition has flourished under his meticulous supervision. In charge of coordinating shipments between nations, the physical transportation of goods, and stocking delivered products, there is never any rest for weary Couriers' Coalition members."
 268: 0x03AE [0x23] WAIT_FOR_DIALOG_INTERACTION
-269: 0x03AF [0x48] [System] [7411*]:
+269: 0x03AF [0x48] [System] [7412*]:
     → "In times of war and during the contemporary pioneering movement, however, their duties are expanded to include conveying provisions and arms to the brave souls fighting for Adoulin on the front lines. Though they may not receive many accolades for a job well done, it is undeniable that without them Adoulin would no longer be standing."
 270: 0x03B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 271: 0x03B3 [0x01] GOTO 0x0425
 272: 0x03B6 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x03D2
 273: 0x03BE [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-274: 0x03C3 [0x48] [System] [7268*]:
+274: 0x03C3 [0x48] [System] [7269*]:
     → "@@"
 275: 0x03C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-276: 0x03C7 [0x48] [System] [7401*]:
+276: 0x03C7 [0x48] [System] [7402*]:
     → "Scouts' Coalition: They mainly concern themselves with the acquisition and analysis of intelligence, and the veritable ocean of information they have amassed ebbs and flows amongst the shelves of the Celennia Memorial Library."
 277: 0x03CA [0x23] WAIT_FOR_DIALOG_INTERACTION
-278: 0x03CB [0x48] [System] [7402*]:
+278: 0x03CB [0x48] [System] [7403*]:
     → "Expert cartographers abound in this coalition, led by Margret from the Order of Haverton, and the sale of maps detailing Ulbuka's cryptic locales are one of the most direct ways in which they support the colonization movement."
 279: 0x03CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 280: 0x03CF [0x01] GOTO 0x0425
 281: 0x03D2 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x03EE
 282: 0x03DA [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-283: 0x03DF [0x48] [System] [7268*]:
+283: 0x03DF [0x48] [System] [7269*]:
     → "@@"
 284: 0x03E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-285: 0x03E3 [0x48] [System] [7412*]:
+285: 0x03E3 [0x48] [System] [7413*]:
     → "Inventors' Coalition: From the armor worn proudly by the Peacekeepers' Coalition to the harpoons local fishermen use to bring home the catch of the day, the Inventors' Coalition creates or repairs most everything that Adoulinians and pioneers alike employ in their everyday lives."
 286: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-287: 0x03E7 [0x48] [System] [7413*]:
+287: 0x03E7 [0x48] [System] [7414*]:
     → "Their most prided concoctions, however, are the resplendent whirling waypoints that punctuate the landscape around Ulbuka. Guided by Amchuchu's diminutive but heavy hand, those in the coalition set about placing new waypoints and mending weathered ones when they have no requests to fill from townsfolk or Middle Landers."
 288: 0x03EA [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x03EB [0x01] GOTO 0x0425
 290: 0x03EE [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x0415
 291: 0x03F6 [0x03] ExtData[1]->WorkLocal[11] = Work_Zone[0]
-292: 0x03FB [0x48] [System] [7268*]:
+292: 0x03FB [0x48] [System] [7269*]:
     → "@@"
 293: 0x03FE [0x23] WAIT_FOR_DIALOG_INTERACTION
-294: 0x03FF [0x48] [System] [7407*]:
+294: 0x03FF [0x48] [System] [7408*]:
     → "Mummers' Coalition: This troupe of seasoned performers act as messengers of merriment, refining their craft day after day in the pursuit of procuring the ultimate laugh from their audience. While their institution was originally thought to be of little import, their leader, Flaviria--from the Order of Thurandaut--proved that a single smile can set the soul at ease and turn the tide of battle when faced with an unforgiving frontier."
 295: 0x0402 [0x23] WAIT_FOR_DIALOG_INTERACTION
 296: 0x0403 [0x3E] IF !(ExtData[1]->WorkLocal[0] bit 1*) GOTO 0x040E
-297: 0x040A [0x48] [System] [7408*]:
+297: 0x040A [0x48] [System] [7409*]:
     → "A shining example of just how the word can be mightier than the sword is evinced by a certain Tarutaru comedic duo who have quietly been building a reputation for hilarious hijinks the continent over."
 298: 0x040D [0x23] WAIT_FOR_DIALOG_INTERACTION
-299: 0x040E [0x48] [System] [7409*]:
+299: 0x040E [0x48] [System] [7410*]:
     → "Not only do they arrange events within Adoulin itself, but also venture outside the city's comforting walls to console lonely administrators and pioneers stranded in the wilds of East Ulbuka."
 300: 0x0411 [0x23] WAIT_FOR_DIALOG_INTERACTION
 301: 0x0412 [0x01] GOTO 0x0425

@@ -20,7 +20,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1CDE      |        7390 |
+|       0 | 0x1CDF      |        7391 |
 |       1 | 0x0000      |           0 |
 |       2 | 0x0001      |           1 |
 |       3 | 0x0002      |           2 |
@@ -29,7 +29,7 @@
 
 ## String References
 
-- **7390**: WHAT IS YOUR WISH, MASTER? [A PURPLE RIBBON, PLEASE!/QUEST REQUIREMENTS, PLEASE!/TO HAVE DEFEATED THE BOSS!/TO RESET ALL FLAGS, PLEASE!/GIMME A HEAP OF PURPLE RIBBONS!]
+- **7391**: WHAT IS YOUR WISH, MASTER? [A PURPLE RIBBON, PLEASE!/QUEST REQUIREMENTS, PLEASE!/TO HAVE DEFEATED THE BOSS!/TO RESET ALL FLAGS, PLEASE!/GIMME A HEAP OF PURPLE RIBBONS!]
 
 ## Events
 
@@ -79,7 +79,7 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7390*, default_option=0*, option_flags=0*)
+  0: 0x0001 [0x24] CREATE_DIALOG(message_id=7391*, default_option=0*, option_flags=0*)
     → "WHAT IS YOUR WISH, MASTER? [A PURPLE RIBBON, PLEASE!/QUEST REQUIREMENTS, PLEASE!/TO HAVE DEFEATED THE BOSS!/TO RESET ALL FLAGS, PLEASE!/GIMME A HEAP OF PURPLE RIBBONS!]"
   1: 0x0008 [0x25] WAIT_DIALOG_SELECT()
   2: 0x0009 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0019

@@ -43,119 +43,119 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3886      |       14470 |
-|       1 | 0x3887      |       14471 |
+|       0 | 0x3887      |       14471 |
+|       1 | 0x3888      |       14472 |
 |       2 | 0x003C      |          60 |
-|       3 | 0x3888      |       14472 |
-|       4 | 0x3893      |       14483 |
-|       5 | 0x3894      |       14484 |
+|       3 | 0x3889      |       14473 |
+|       4 | 0x3894      |       14484 |
+|       5 | 0x3895      |       14485 |
 |       6 | 0x0000      |           0 |
-|       7 | 0x3895      |       14485 |
+|       7 | 0x3896      |       14486 |
 |       8 | 0x00C9      |         201 |
 |       9 | 0x001E      |          30 |
 |      10 | 0x0001      |           1 |
-|      11 | 0x3896      |       14486 |
-|      12 | 0x3897      |       14487 |
-|      13 | 0x3898      |       14488 |
+|      11 | 0x3897      |       14487 |
+|      12 | 0x3898      |       14488 |
+|      13 | 0x3899      |       14489 |
 |      14 | 0x0002      |           2 |
 |      15 | 0x0003      |           3 |
 |      16 | 0x0004      |           4 |
 |      17 | 0x04ED      |        1261 |
 |      18 | 0x1688      |        5768 |
 |      19 | 0x1388      |        5000 |
-|      20 | 0x38DA      |       14554 |
-|      21 | 0x38DB      |       14555 |
-|      22 | 0x38DC      |       14556 |
-|      23 | 0x38DD      |       14557 |
-|      24 | 0x38DE      |       14558 |
-|      25 | 0x38DF      |       14559 |
+|      20 | 0x38DB      |       14555 |
+|      21 | 0x38DC      |       14556 |
+|      22 | 0x38DD      |       14557 |
+|      23 | 0x38DE      |       14558 |
+|      24 | 0x38DF      |       14559 |
+|      25 | 0x38E0      |       14560 |
 |      26 | 0x00FA      |         250 |
-|      27 | 0x38E0      |       14560 |
+|      27 | 0x38E1      |       14561 |
 |      28 | 0xFFFFFFFF  |  4294967295 |
-|      29 | 0x38C3      |       14531 |
+|      29 | 0x38C4      |       14532 |
 |      30 | 0xFFFFFFFE  |  4294967294 |
-|      31 | 0x38C0      |       14528 |
+|      31 | 0x38C1      |       14529 |
 |      32 | 0xFFFFFFFD  |  4294967293 |
 |      33 | 0xFFFFFF9D  |  4294967197 |
-|      34 | 0x38C4      |       14532 |
+|      34 | 0x38C5      |       14533 |
 |      35 | 0xFFFFFF01  |  4294967041 |
-|      36 | 0x38C1      |       14529 |
-|      37 | 0x38A8      |       14504 |
-|      38 | 0x38B7      |       14519 |
+|      36 | 0x38C2      |       14530 |
+|      37 | 0x38A9      |       14505 |
+|      38 | 0x38B8      |       14520 |
 |      39 | 0xFFF0      |       65520 |
-|      40 | 0x38CE      |       14542 |
+|      40 | 0x38CF      |       14543 |
 |      41 | 0x0010      |          16 |
-|      42 | 0x38AC      |       14508 |
-|      43 | 0x38AD      |       14509 |
-|      44 | 0x38AE      |       14510 |
-|      45 | 0x38AF      |       14511 |
-|      46 | 0x38B0      |       14512 |
-|      47 | 0x38B1      |       14513 |
-|      48 | 0x38B2      |       14514 |
-|      49 | 0x38B3      |       14515 |
-|      50 | 0x38B4      |       14516 |
-|      51 | 0x38B5      |       14517 |
-|      52 | 0x3889      |       14473 |
-|      53 | 0x388B      |       14475 |
-|      54 | 0x388C      |       14476 |
-|      55 | 0x388D      |       14477 |
-|      56 | 0x388E      |       14478 |
-|      57 | 0x388F      |       14479 |
-|      58 | 0x3890      |       14480 |
-|      59 | 0x3891      |       14481 |
-|      60 | 0x3892      |       14482 |
-|      61 | 0x389A      |       14490 |
-|      62 | 0x389E      |       14494 |
-|      63 | 0x389F      |       14495 |
-|      64 | 0x38A0      |       14496 |
+|      42 | 0x38AD      |       14509 |
+|      43 | 0x38AE      |       14510 |
+|      44 | 0x38AF      |       14511 |
+|      45 | 0x38B0      |       14512 |
+|      46 | 0x38B1      |       14513 |
+|      47 | 0x38B2      |       14514 |
+|      48 | 0x38B3      |       14515 |
+|      49 | 0x38B4      |       14516 |
+|      50 | 0x38B5      |       14517 |
+|      51 | 0x38B6      |       14518 |
+|      52 | 0x388A      |       14474 |
+|      53 | 0x388C      |       14476 |
+|      54 | 0x388D      |       14477 |
+|      55 | 0x388E      |       14478 |
+|      56 | 0x388F      |       14479 |
+|      57 | 0x3890      |       14480 |
+|      58 | 0x3891      |       14481 |
+|      59 | 0x3892      |       14482 |
+|      60 | 0x3893      |       14483 |
+|      61 | 0x389B      |       14491 |
+|      62 | 0x389F      |       14495 |
+|      63 | 0x38A0      |       14496 |
+|      64 | 0x38A1      |       14497 |
 |      65 | 0x00CD      |         205 |
 |      66 | 0x012C      |         300 |
 |      67 | 0x0006      |           6 |
 |      68 | 0x0008      |           8 |
 |      69 | 0x001F      |          31 |
-|      70 | 0x38A1      |       14497 |
-|      71 | 0x38A2      |       14498 |
-|      72 | 0x38A3      |       14499 |
+|      70 | 0x38A2      |       14498 |
+|      71 | 0x38A3      |       14499 |
+|      72 | 0x38A4      |       14500 |
 |      73 | 0x0005      |           5 |
-|      74 | 0x38AB      |       14507 |
-|      75 | 0x38A4      |       14500 |
+|      74 | 0x38AC      |       14508 |
+|      75 | 0x38A5      |       14501 |
 |      76 | 0x000F      |          15 |
 |      77 | 0x000A      |          10 |
-|      78 | 0x3899      |       14489 |
+|      78 | 0x389A      |       14490 |
 |      79 | 0x0007      |           7 |
 |      80 | 0x0009      |           9 |
-|      81 | 0x38AA      |       14506 |
+|      81 | 0x38AB      |       14507 |
 |      82 | 0x000B      |          11 |
 |      83 | 0x000C      |          12 |
 |      84 | 0x000D      |          13 |
 |      85 | 0x000E      |          14 |
 |      86 | 0x0FFF      |        4095 |
 |      87 | 0x10000     |       65536 |
-|      88 | 0x38D2      |       14546 |
+|      88 | 0x38D3      |       14547 |
 |      89 | 0x0172      |         370 |
 |      90 | 0x0972      |        2418 |
 |      91 | 0x1172      |        4466 |
-|      92 | 0x38D3      |       14547 |
-|      93 | 0x399C      |       14748 |
-|      94 | 0x38D0      |       14544 |
-|      95 | 0x38D1      |       14545 |
-|      96 | 0x38CF      |       14543 |
-|      97 | 0x38D4      |       14548 |
-|      98 | 0x38D5      |       14549 |
-|      99 | 0x38D9      |       14553 |
-|     100 | 0x38E1      |       14561 |
-|     101 | 0x38B8      |       14520 |
-|     102 | 0x38B9      |       14521 |
-|     103 | 0x38BA      |       14522 |
+|      92 | 0x38D4      |       14548 |
+|      93 | 0x399D      |       14749 |
+|      94 | 0x38D1      |       14545 |
+|      95 | 0x38D2      |       14546 |
+|      96 | 0x38D0      |       14544 |
+|      97 | 0x38D5      |       14549 |
+|      98 | 0x38D6      |       14550 |
+|      99 | 0x38DA      |       14554 |
+|     100 | 0x38E2      |       14562 |
+|     101 | 0x38B9      |       14521 |
+|     102 | 0x38BA      |       14522 |
+|     103 | 0x38BB      |       14523 |
 |     104 | 0x00CB      |         203 |
-|     105 | 0x38BB      |       14523 |
-|     106 | 0x38BC      |       14524 |
+|     105 | 0x38BC      |       14524 |
+|     106 | 0x38BD      |       14525 |
 |     107 | 0x00CE      |         206 |
-|     108 | 0x38BD      |       14525 |
-|     109 | 0x38BE      |       14526 |
-|     110 | 0x38CD      |       14541 |
-|     111 | 0x38BF      |       14527 |
-|     112 | 0x38C2      |       14530 |
+|     108 | 0x38BE      |       14526 |
+|     109 | 0x38BF      |       14527 |
+|     110 | 0x38CE      |       14542 |
+|     111 | 0x38C0      |       14528 |
+|     112 | 0x38C3      |       14531 |
 |     113 | 0x03DF      |         991 |
 |     114 | 0x03E2      |         994 |
 |     115 | 0x03E5      |         997 |
@@ -715,25 +715,25 @@
 |     669 | 0x0A99      |        2713 |
 |     670 | 0x112D      |        4397 |
 |     671 | 0x1131      |        4401 |
-|     672 | 0x38A5      |       14501 |
-|     673 | 0x38A6      |       14502 |
-|     674 | 0x38A7      |       14503 |
-|     675 | 0x38C5      |       14533 |
-|     676 | 0x389D      |       14493 |
-|     677 | 0x38A9      |       14505 |
+|     672 | 0x38A6      |       14502 |
+|     673 | 0x38A7      |       14503 |
+|     674 | 0x38A8      |       14504 |
+|     675 | 0x38C6      |       14534 |
+|     676 | 0x389E      |       14494 |
+|     677 | 0x38AA      |       14506 |
 |     678 | 0x0078      |         120 |
 |     679 | 0xFFFFFFFC  |  4294967292 |
-|     680 | 0x38C6      |       14534 |
-|     681 | 0x38D7      |       14551 |
-|     682 | 0x38C7      |       14535 |
-|     683 | 0x38C8      |       14536 |
+|     680 | 0x38C7      |       14535 |
+|     681 | 0x38D8      |       14552 |
+|     682 | 0x38C8      |       14536 |
+|     683 | 0x38C9      |       14537 |
 |     684 | 0x00CC      |         204 |
 |     685 | 0x00F0      |         240 |
 |     686 | 0x0103      |         259 |
-|     687 | 0x38C9      |       14537 |
-|     688 | 0x38CA      |       14538 |
-|     689 | 0x38CB      |       14539 |
-|     690 | 0x38CC      |       14540 |
+|     687 | 0x38CA      |       14538 |
+|     688 | 0x38CB      |       14539 |
+|     689 | 0x38CC      |       14540 |
+|     690 | 0x38CD      |       14541 |
 |     691 | 0x00C8      |         200 |
 |     692 | 0x002D      |          45 |
 |     693 | 0x00D7      |         215 |
@@ -746,33 +746,33 @@
 |     700 | 0x1CFE2     |      118754 |
 |     701 | 0x0771      |        1905 |
 |     702 | 0x0232      |         562 |
-|     703 | 0x39F5      |       14837 |
-|     704 | 0x39F6      |       14838 |
-|     705 | 0x39F7      |       14839 |
-|     706 | 0x39F8      |       14840 |
-|     707 | 0x39F9      |       14841 |
-|     708 | 0x39FA      |       14842 |
-|     709 | 0x39FB      |       14843 |
-|     710 | 0x39FC      |       14844 |
+|     703 | 0x39F6      |       14838 |
+|     704 | 0x39F7      |       14839 |
+|     705 | 0x39F8      |       14840 |
+|     706 | 0x39F9      |       14841 |
+|     707 | 0x39FA      |       14842 |
+|     708 | 0x39FB      |       14843 |
+|     709 | 0x39FC      |       14844 |
+|     710 | 0x39FD      |       14845 |
 |     711 | 0x0024      |          36 |
-|     712 | 0x39FD      |       14845 |
-|     713 | 0x39FE      |       14846 |
-|     714 | 0x3A00      |       14848 |
-|     715 | 0x39FF      |       14847 |
-|     716 | 0x3A03      |       14851 |
-|     717 | 0x3A04      |       14852 |
-|     718 | 0x3A05      |       14853 |
-|     719 | 0x3A06      |       14854 |
-|     720 | 0x3A07      |       14855 |
-|     721 | 0x3A01      |       14849 |
-|     722 | 0x3A02      |       14850 |
-|     723 | 0x3A08      |       14856 |
-|     724 | 0x3A09      |       14857 |
+|     712 | 0x39FE      |       14846 |
+|     713 | 0x39FF      |       14847 |
+|     714 | 0x3A01      |       14849 |
+|     715 | 0x3A00      |       14848 |
+|     716 | 0x3A04      |       14852 |
+|     717 | 0x3A05      |       14853 |
+|     718 | 0x3A06      |       14854 |
+|     719 | 0x3A07      |       14855 |
+|     720 | 0x3A08      |       14856 |
+|     721 | 0x3A02      |       14850 |
+|     722 | 0x3A03      |       14851 |
+|     723 | 0x3A09      |       14857 |
+|     724 | 0x3A0A      |       14858 |
 |     725 | 0x0AC3      |        2755 |
-|     726 | 0x39F3      |       14835 |
+|     726 | 0x39F4      |       14836 |
 |     727 | 0x0075      |         117 |
-|     728 | 0x3A0A      |       14858 |
-|     729 | 0x3A0B      |       14859 |
+|     728 | 0x3A0B      |       14859 |
+|     729 | 0x3A0C      |       14860 |
 |     730 | 0x005F      |          95 |
 |     731 | 0x0064      |         100 |
 |     732 | 0x0069      |         105 |
@@ -995,89 +995,89 @@
 
 ## String References
 
-- **14470**: Kupo-ho! Another adventurer has found [his/her] way to my domain. Was it my aura of superior sagacity that led you here? This conspicuous crate and chest that sit seductively at my side?
-- **14471**: Many secrets have I to tell, but sadly, they would be beyond your meager mental faculties to fathom. Return when your abilities are up to the task.
-- **14472**: It is no matter. What matters is that you are here, and from the look of it, you are a suitable subject for the task I would entrust to you.
-- **14473**: I speak to you on behalf of the Magian Mooglehood, an ancient and august assembly of wisemoogles hailing from the once-glorious Kingdom of Kupalika.
-- **14475**: Each illustrious member of the Magian Mooglehood guards knowledge of a distinct branch of our lineal lore. My specialty lies in weaponry; with my aid, you will be doling out damage and destruction in ways heretofore unimagined!
-- **14476**: "What impelled you to impart this long-withheld wisdom to us? And why now, kupo?" the unenlightened adventurer might ask.
-- **14477**: To which the wise moogle would readily reply: The answer, my friend, is in the mog tablets--those remarkable relics wrought by King Kupofried himself--that were only recently recovered by resourceful adventurers such as rrr...yourself.
-- **14478**: There is an ancient (and somewhat alarming) prophecy in our mooglehood. It goes...<ahem>..."King Kupofried's creations shall slumber soundly until such time as their Super Kupowers are called upon to save the realm from utter ruin, kupo."
-- **14479**: The particulars of the prophecy--preposterous as this may seem--outstrip even our prodigious powers of perception.
-- **14480**: Yet this I know, kupo: if moogle magic is what shall deliver this world from destruction, then moogle magic this world shall have--in abundance!
-- **14481**: As an adventurer of renown, repute, and paramount prowess, you would seem a worthy beneficiary for our boon. And yet the Magian Mooglehood is nothing if not meticulously methodical. No, we must be certain...
-- **14482**: I propose to task you with a series of trials. Each time you emerge victorious, we shall proffer you a portion of our powers, kupo.
-- **14483**: What say you, adventurer? Will you undertake the Trial of the Magians, that you might one day wield the mightiest of moogle magic to save your realm from destruction and devastation?
-- **14484**: Tackle the Trial of the Magians, kupo? [Will I ever!/Maybe another time...]
-- **14485**: Excellent. Then my first gift unto you shall be this: a journal that shall serve to record all of your extraordinary exploits.
-- **14486**: We understand, for with great kupower comes great responsibility. Should you ever be willing to bear the burden, we shall welcome your return.
-- **14487**: You, who would inherit the mysteries of the magians...speak unto me your wish, kupo.
-- **14488**: Choose your action: [Review current trial./Abandon current trial./List available trials./Ask for aid./Ask about roaming trial log./Move on.]
-- **14489**: [Review/Abandon] which trial? [Trial $30./Trial $31./Trial $ ./Trial $!./Trial $"./Trial $#./Trial $$./Trial $%./Trial $&./Trial $'./Return.]
-- **14490**: You are not currently undertaking any trials.
-- **14493**: Press onward with this trial? [Persevere./Retire.]
-- **14494**: Abandon this trial, and all records of your efforts thus far will be lost forever. I encourage due deliberation before making your decision.
-- **14495**: Truly abandon the trial, kupo? [Persevere./Retire.]
-- **14496**: Very well, kupo. I shall remove all records of this trial from your $3.
-- **14497**: You have abandoned Trial $0.
-- **14498**: Remember that before you can undertake a new trial, your target item must be purged of its trial insignia.
-- **14499**: Trade the item to me, and I shall see it returned to its pristine original state, kupo.
-- **14500**: You are not currently undertaking that trial.
-- **14501**: Kupo-ho. This item bears the insignia of a trial already abandoned.
-- **14502**: It is but a superfluous scribble now. Shall I erase it for you, kupo?
-- **14503**: Erase the abandoned trial insignia? [Yes, remove it./No, leave it.]
-- **14504**: Kupo...ho? My moogle magic seems to have misfired. Perhaps we should try that again.
-- **14505**: The trial insignia has vanished from your $0.
-- **14506**: Select a category: [Hand-to-Hand./Daggers./Swords./Great Swords./Axes./Great Axes./Scythes./Polearms./Katana./Great Katana./Clubs./Staves./Archery./Marksmanship./Instruments./Search by trial number./Cancel.]
-- **14507**: Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist.
-- **14508**: What would you know, kupo? [About the trials./Undertaking a trial./Completing a trial./Return.]
-- **14509**: Did I not regale you with the tale of the magians only a short while ago? Well, not all can be possessed of moogle-class powers of memory...
-- **14510**: As I have already apprised you, the ancient moogle art of weapon augmentation is my specialty, kupo.
-- **14511**: First, you must retrieve a weapon from the chest beside me. Show it to me, and I will reveal to you the trials you may undertake to receive my boon.
-- **14512**: The $3 I entrusted to you will record your exploits for up to ten trials at any given time, kupo.
-- **14513**: Be aware that certain extraordinary weapons entail exclusive trials. Such details and more may be confirmed by requesting of me a list of available trials.
-- **14514**: Should you successfully complete an assigned trial, return and present your target weapon to me to substantiate your success.
-- **14515**: If I deem that you have completed my challenge in good order, you shall receive your reward right then and there, kupo!
-- **14516**: Now, this is important enough that I shall say it twice, even thrice: at the end of your trial, you must trade to me the very same weapon you submitted at the start.
-- **14517**: Lose this weapon and all your hard-won successes will be for naught. You must avoid such a grievous gaffe at all costs, kupo.
-- **14519**: Kupo-ho! Is that $0 I see? Why, yes... I could fashion a fitting trial or two for you, kupo.
-- **14520**: Are you absolutely, positively sure that you want to undertake Trial $0, kupo?
-- **14521**: Undertake Trial $0? [I am ready./Perhaps another time.]
-- **14522**: Excellent, kupo! Now, to invoke a simple incantation, and...
-- **14523**: Your $3 is now recording the progress of your trials!
-- **14524**: Through the marvel of moogle magic, your exploits will be recorded without you having to so much as lift a quill! And just in case you're the forgetful type...
-- **14525**: A trial insignia has been inscribed upon your $0!
-- **14526**: Note: You may not undertake a different trial with an already-inscribed weapon.
-- **14527**: Kupo-oh? Might your mind be muddled, my friend? You're already attempting that trial.
-- **14528**: Kupo... I fear this item is ill-suited for the trial you wish to undertake.
-- **14529**: Why, every page in your $3 is full!
-- **14530**: You must complete or abandon one of your current trials before undertaking another, kupo.
-- **14531**: Kupo...oh? It would seem I have no trials pertaining to that particular piece of weaponry.
-- **14532**: As I advised you previously, my sole specialty is weapons. I have not the moogle magic at my disposal to augment items of this variety, kupo...
-- **14533**: You are already undertaking Trial $1 with that $0.
-- **14534**: You have done well, kupo.
-- **14535**: The Magian Mooglehood recognizes your feats, and proffers you now a portion of our ancestral powers.
-- **14536**: Ready yourself to receive our boon...
-- **14537**: There is a sudden flash of light as potent moogle magic surges through the $0!
-- **14538**: The deed is done, kupo.
-- **14539**: Know, adventurer, that the $0 you now hold is no mere earthly arm. Nay, it is an empyrean weapon--an artifact birthed of the heavens, possessed of such power as to transcend even time and space.
-- **14540**: Supreme strength, lost for ages to even the most hallowed heroes of your world, now lies at your disposal. Use it well, kupo.
-- **14541**: With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!
-- **14542**: Choose a trial to '[review/undertake]. [Trial $0./Trial $1./Trial $2./Trial $3./Trial $4./Trial $5./Trial $6./Trial $7./Trial $8./Trial $9./Trial $10./Trial $11./Trial $12./Trial $13./Trial $14./Trial $15./'[Return/Cancel].]
-- **14546**: Just a moment, kupo...
-- **14547**: Here is all you need to know about Trial $0, kupo.
-- **14548**: You will need this item to begin the trial, kupo.
-- **14549**: You will be rewarded with this item upon your triumphant return, kupo!
-- **14551**: You must dispose of the $0 in your possession before I can confer upon you another one.
-- **14553**: Warning: Completing this trial will result in an increase in the level requirement for the target item.
-- **14554**: Ah, so you wish to review your $3 whilst adventuring, do you? A most reasonable request, kupo.
-- **14555**: Sadly, Magian Mooglehood protocol dictates that all trial progress be recorded in archaic moogleglyphs that are, I fear, illegible to your unenlightened eye.
-- **14556**: That is where this $1 comes into play. Outfitted with this marvel of moogle technology, why, even the most slow-witted snoll could decipher moogleglyphs as effortlessly as if he were King Kupofried himself!
-- **14557**: What's more, its owner will also gain access to the Moogle's Almanack. With the secrets of weather prognostication contained therein, you'll never be a victim to capricious changes in the elements again!
-- **14558**: For only a small donation of $2 gil, it is yours. All proceeds go toward the Kupalikan United Preservationsists Overseeing History and Orthography (KUPOHO)--a commendable cause, I'm sure you'll agree.
-- **14559**: Donate $2 gil, kupo? [Donate./Not today.]
-- **14560**: Ah well. Perhaps another time, kupo.
-- **14561**: * Warning * An item currently in your possession may prevent you from receiving the reward item for the trial you have selected.
+- **14471**: Kupo-ho! Another adventurer has found [his/her] way to my domain. Was it my aura of superior sagacity that led you here? This conspicuous crate and chest that sit seductively at my side?
+- **14472**: Many secrets have I to tell, but sadly, they would be beyond your meager mental faculties to fathom. Return when your abilities are up to the task.
+- **14473**: It is no matter. What matters is that you are here, and from the look of it, you are a suitable subject for the task I would entrust to you.
+- **14474**: I speak to you on behalf of the Magian Mooglehood, an ancient and august assembly of wisemoogles hailing from the once-glorious Kingdom of Kupalika.
+- **14476**: Each illustrious member of the Magian Mooglehood guards knowledge of a distinct branch of our lineal lore. My specialty lies in weaponry; with my aid, you will be doling out damage and destruction in ways heretofore unimagined!
+- **14477**: "What impelled you to impart this long-withheld wisdom to us? And why now, kupo?" the unenlightened adventurer might ask.
+- **14478**: To which the wise moogle would readily reply: The answer, my friend, is in the mog tablets--those remarkable relics wrought by King Kupofried himself--that were only recently recovered by resourceful adventurers such as rrr...yourself.
+- **14479**: There is an ancient (and somewhat alarming) prophecy in our mooglehood. It goes...<ahem>..."King Kupofried's creations shall slumber soundly until such time as their Super Kupowers are called upon to save the realm from utter ruin, kupo."
+- **14480**: The particulars of the prophecy--preposterous as this may seem--outstrip even our prodigious powers of perception.
+- **14481**: Yet this I know, kupo: if moogle magic is what shall deliver this world from destruction, then moogle magic this world shall have--in abundance!
+- **14482**: As an adventurer of renown, repute, and paramount prowess, you would seem a worthy beneficiary for our boon. And yet the Magian Mooglehood is nothing if not meticulously methodical. No, we must be certain...
+- **14483**: I propose to task you with a series of trials. Each time you emerge victorious, we shall proffer you a portion of our powers, kupo.
+- **14484**: What say you, adventurer? Will you undertake the Trial of the Magians, that you might one day wield the mightiest of moogle magic to save your realm from destruction and devastation?
+- **14485**: Tackle the Trial of the Magians, kupo? [Will I ever!/Maybe another time...]
+- **14486**: Excellent. Then my first gift unto you shall be this: a journal that shall serve to record all of your extraordinary exploits.
+- **14487**: We understand, for with great kupower comes great responsibility. Should you ever be willing to bear the burden, we shall welcome your return.
+- **14488**: You, who would inherit the mysteries of the magians...speak unto me your wish, kupo.
+- **14489**: Choose your action: [Review current trial./Abandon current trial./List available trials./Ask for aid./Ask about roaming trial log./Move on.]
+- **14490**: [Review/Abandon] which trial? [Trial $30./Trial $31./Trial $ ./Trial $!./Trial $"./Trial $#./Trial $$./Trial $%./Trial $&./Trial $'./Return.]
+- **14491**: You are not currently undertaking any trials.
+- **14494**: Press onward with this trial? [Persevere./Retire.]
+- **14495**: Abandon this trial, and all records of your efforts thus far will be lost forever. I encourage due deliberation before making your decision.
+- **14496**: Truly abandon the trial, kupo? [Persevere./Retire.]
+- **14497**: Very well, kupo. I shall remove all records of this trial from your $3.
+- **14498**: You have abandoned Trial $0.
+- **14499**: Remember that before you can undertake a new trial, your target item must be purged of its trial insignia.
+- **14500**: Trade the item to me, and I shall see it returned to its pristine original state, kupo.
+- **14501**: You are not currently undertaking that trial.
+- **14502**: Kupo-ho. This item bears the insignia of a trial already abandoned.
+- **14503**: It is but a superfluous scribble now. Shall I erase it for you, kupo?
+- **14504**: Erase the abandoned trial insignia? [Yes, remove it./No, leave it.]
+- **14505**: Kupo...ho? My moogle magic seems to have misfired. Perhaps we should try that again.
+- **14506**: The trial insignia has vanished from your $0.
+- **14507**: Select a category: [Hand-to-Hand./Daggers./Swords./Great Swords./Axes./Great Axes./Scythes./Polearms./Katana./Great Katana./Clubs./Staves./Archery./Marksmanship./Instruments./Search by trial number./Cancel.]
+- **14508**: Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist.
+- **14509**: What would you know, kupo? [About the trials./Undertaking a trial./Completing a trial./Return.]
+- **14510**: Did I not regale you with the tale of the magians only a short while ago? Well, not all can be possessed of moogle-class powers of memory...
+- **14511**: As I have already apprised you, the ancient moogle art of weapon augmentation is my specialty, kupo.
+- **14512**: First, you must retrieve a weapon from the chest beside me. Show it to me, and I will reveal to you the trials you may undertake to receive my boon.
+- **14513**: The $3 I entrusted to you will record your exploits for up to ten trials at any given time, kupo.
+- **14514**: Be aware that certain extraordinary weapons entail exclusive trials. Such details and more may be confirmed by requesting of me a list of available trials.
+- **14515**: Should you successfully complete an assigned trial, return and present your target weapon to me to substantiate your success.
+- **14516**: If I deem that you have completed my challenge in good order, you shall receive your reward right then and there, kupo!
+- **14517**: Now, this is important enough that I shall say it twice, even thrice: at the end of your trial, you must trade to me the very same weapon you submitted at the start.
+- **14518**: Lose this weapon and all your hard-won successes will be for naught. You must avoid such a grievous gaffe at all costs, kupo.
+- **14520**: Kupo-ho! Is that $0 I see? Why, yes... I could fashion a fitting trial or two for you, kupo.
+- **14521**: Are you absolutely, positively sure that you want to undertake Trial $0, kupo?
+- **14522**: Undertake Trial $0? [I am ready./Perhaps another time.]
+- **14523**: Excellent, kupo! Now, to invoke a simple incantation, and...
+- **14524**: Your $3 is now recording the progress of your trials!
+- **14525**: Through the marvel of moogle magic, your exploits will be recorded without you having to so much as lift a quill! And just in case you're the forgetful type...
+- **14526**: A trial insignia has been inscribed upon your $0!
+- **14527**: Note: You may not undertake a different trial with an already-inscribed weapon.
+- **14528**: Kupo-oh? Might your mind be muddled, my friend? You're already attempting that trial.
+- **14529**: Kupo... I fear this item is ill-suited for the trial you wish to undertake.
+- **14530**: Why, every page in your $3 is full!
+- **14531**: You must complete or abandon one of your current trials before undertaking another, kupo.
+- **14532**: Kupo...oh? It would seem I have no trials pertaining to that particular piece of weaponry.
+- **14533**: As I advised you previously, my sole specialty is weapons. I have not the moogle magic at my disposal to augment items of this variety, kupo...
+- **14534**: You are already undertaking Trial $1 with that $0.
+- **14535**: You have done well, kupo.
+- **14536**: The Magian Mooglehood recognizes your feats, and proffers you now a portion of our ancestral powers.
+- **14537**: Ready yourself to receive our boon...
+- **14538**: There is a sudden flash of light as potent moogle magic surges through the $0!
+- **14539**: The deed is done, kupo.
+- **14540**: Know, adventurer, that the $0 you now hold is no mere earthly arm. Nay, it is an empyrean weapon--an artifact birthed of the heavens, possessed of such power as to transcend even time and space.
+- **14541**: Supreme strength, lost for ages to even the most hallowed heroes of your world, now lies at your disposal. Use it well, kupo.
+- **14542**: With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!
+- **14543**: Choose a trial to '[review/undertake]. [Trial $0./Trial $1./Trial $2./Trial $3./Trial $4./Trial $5./Trial $6./Trial $7./Trial $8./Trial $9./Trial $10./Trial $11./Trial $12./Trial $13./Trial $14./Trial $15./'[Return/Cancel].]
+- **14547**: Just a moment, kupo...
+- **14548**: Here is all you need to know about Trial $0, kupo.
+- **14549**: You will need this item to begin the trial, kupo.
+- **14550**: You will be rewarded with this item upon your triumphant return, kupo!
+- **14552**: You must dispose of the $0 in your possession before I can confer upon you another one.
+- **14554**: Warning: Completing this trial will result in an increase in the level requirement for the target item.
+- **14555**: Ah, so you wish to review your $3 whilst adventuring, do you? A most reasonable request, kupo.
+- **14556**: Sadly, Magian Mooglehood protocol dictates that all trial progress be recorded in archaic moogleglyphs that are, I fear, illegible to your unenlightened eye.
+- **14557**: That is where this $1 comes into play. Outfitted with this marvel of moogle technology, why, even the most slow-witted snoll could decipher moogleglyphs as effortlessly as if he were King Kupofried himself!
+- **14558**: What's more, its owner will also gain access to the Moogle's Almanack. With the secrets of weather prognostication contained therein, you'll never be a victim to capricious changes in the elements again!
+- **14559**: For only a small donation of $2 gil, it is yours. All proceeds go toward the Kupalikan United Preservationsists Overseeing History and Orthography (KUPOHO)--a commendable cause, I'm sure you'll agree.
+- **14560**: Donate $2 gil, kupo? [Donate./Not today.]
+- **14561**: Ah well. Perhaps another time, kupo.
+- **14562**: * Warning * An item currently in your possession may prevent you from receiving the reward item for the trial you have selected.
 
 ## Events
 
@@ -1126,10 +1126,10 @@
   0: 0x0001 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
   1: 0x0002 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x0007 [0x79] EventEntity looks at LocalPlayer (Basic look)
-  3: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=14470*)
+  3: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=14471*)
     → "Kupo-ho! Another adventurer has found [his/her] way to my domain. Was it my aura of superior sagacity that led you here? This conspicuous crate and chest that sit seductively at my side?"
   4: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=14471*)
+  5: 0x0015 [0x1D] PRINT_EVENT_MESSAGE(message_id=14472*)
     → "Many secrets have I to tell, but sadly, they would be beyond your meager mental faculties to fathom. Return when your abilities are up to the task."
   6: 0x0018 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0019 [0x21] END_EVENT
@@ -1167,21 +1167,21 @@
   2: 0x0021 [0x79] EventEntity looks at LocalPlayer (Basic look)
   3: 0x002B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x09)
   4: 0x0032 [0x1C] WAIT(60* ticks)
-  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=14470*)
+  5: 0x0035 [0x1D] PRINT_EVENT_MESSAGE(message_id=14471*)
     → "Kupo-ho! Another adventurer has found [his/her] way to my domain. Was it my aura of superior sagacity that led you here? This conspicuous crate and chest that sit seductively at my side?"
   6: 0x0038 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=14472*)
+  7: 0x0039 [0x1D] PRINT_EVENT_MESSAGE(message_id=14473*)
     → "It is no matter. What matters is that you are here, and from the look of it, you are a suitable subject for the task I would entrust to you."
   8: 0x003C [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x003D [0x1A] CALL_SUBROUTINE(address=0x0379)
- 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=14483*)
+ 10: 0x0040 [0x1D] PRINT_EVENT_MESSAGE(message_id=14484*)
     → "What say you, adventurer? Will you undertake the Trial of the Magians, that you might one day wield the mightiest of moogle magic to save your realm from destruction and devastation?"
  11: 0x0043 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x0044 [0x24] CREATE_DIALOG(message_id=14484*, default_option=0*, option_flags=0*)
+ 12: 0x0044 [0x24] CREATE_DIALOG(message_id=14485*, default_option=0*, option_flags=0*)
     → "Tackle the Trial of the Magians, kupo? [Will I ever!/Maybe another time...]"
  13: 0x004B [0x25] WAIT_DIALOG_SELECT()
  14: 0x004C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x007B
- 15: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=14485*)
+ 15: 0x0054 [0x1D] PRINT_EVENT_MESSAGE(message_id=14486*)
     → "Excellent. Then my first gift unto you shall be this: a journal that shall serve to record all of your extraordinary exploits."
  16: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0058 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x0A)
@@ -1189,7 +1189,7 @@
  19: 0x0070 [0x1C] WAIT(30* ticks)
  20: 0x0073 [0x03] Work_Zone[1] = 1*
  21: 0x0078 [0x01] GOTO 0x0089
- 22: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=14486*)
+ 22: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=14487*)
     → "We understand, for with great kupower comes great responsibility. Should you ever be willing to bear the burden, we shall welcome your return."
  23: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x007F [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x0A)
@@ -1238,10 +1238,10 @@ SUBROUTINE_0089:
   2: 0x0091 [0x79] EventEntity looks at LocalPlayer (Basic look)
   3: 0x009B [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x09)
   4: 0x00A2 [0x1C] WAIT(60* ticks)
-  5: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14470*)
+  5: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14471*)
     → "Kupo-ho! Another adventurer has found [his/her] way to my domain. Was it my aura of superior sagacity that led you here? This conspicuous crate and chest that sit seductively at my side?"
   6: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14487*)
+  7: 0x00A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14488*)
     → "You, who would inherit the mysteries of the magians...speak unto me your wish, kupo."
   8: 0x00AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x00AD [0x06] ExtData[1]->WorkLocal[45] = 0
@@ -1249,7 +1249,7 @@ SUBROUTINE_0089:
  11: 0x00B8 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=0*, condition_work_offset=1*)
  12: 0x00BF [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[45], bit_index_work_offset=1*, condition_work_offset=1*)
  13: 0x00C6 [0x02] IF !(1* == 1*) GOTO 0x016B
- 14: 0x00CE [0x24] CREATE_DIALOG(message_id=14488*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
+ 14: 0x00CE [0x24] CREATE_DIALOG(message_id=14489*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
     → "Choose your action: [Review current trial./Abandon current trial./List available trials./Ask for aid./Ask about roaming trial log./Move on.]"
  15: 0x00D5 [0x25] WAIT_DIALOG_SELECT()
  16: 0x00D6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00E4
@@ -1269,22 +1269,22 @@ SUBROUTINE_0089:
  30: 0x0117 [0x03] Work_Zone[2] = 1261*
  31: 0x011C [0x03] Work_Zone[3] = 5768*
  32: 0x0121 [0x03] Work_Zone[4] = 5000*
- 33: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=14554*)
+ 33: 0x0126 [0x1D] PRINT_EVENT_MESSAGE(message_id=14555*)
     → "Ah, so you wish to review your $3 whilst adventuring, do you? A most reasonable request, kupo."
  34: 0x0129 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 35: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=14555*)
+ 35: 0x012A [0x1D] PRINT_EVENT_MESSAGE(message_id=14556*)
     → "Sadly, Magian Mooglehood protocol dictates that all trial progress be recorded in archaic moogleglyphs that are, I fear, illegible to your unenlightened eye."
  36: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 37: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=14556*)
+ 37: 0x012E [0x1D] PRINT_EVENT_MESSAGE(message_id=14557*)
     → "That is where this $1 comes into play. Outfitted with this marvel of moogle technology, why, even the most slow-witted snoll could decipher moogleglyphs as effortlessly as if he were King Kupofried himself!"
  38: 0x0131 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=14557*)
+ 39: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=14558*)
     → "What's more, its owner will also gain access to the Moogle's Almanack. With the secrets of weather prognostication contained therein, you'll never be a victim to capricious changes in the elements again!"
  40: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 41: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=14558*)
+ 41: 0x0136 [0x1D] PRINT_EVENT_MESSAGE(message_id=14559*)
     → "For only a small donation of $2 gil, it is yours. All proceeds go toward the Kupalikan United Preservationsists Overseeing History and Orthography (KUPOHO)--a commendable cause, I'm sure you'll agree."
  42: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 43: 0x013A [0x24] CREATE_DIALOG(message_id=14559*, default_option=1*, option_flags=0*)
+ 43: 0x013A [0x24] CREATE_DIALOG(message_id=14560*, default_option=1*, option_flags=0*)
     → "Donate $2 gil, kupo? [Donate./Not today.]"
  44: 0x0141 [0x25] WAIT_DIALOG_SELECT()
  45: 0x0142 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0154
@@ -1645,7 +1645,7 @@ SUBROUTINE_0168:
  10: 0x01A3 [0x03] ExtData[1]->WorkLocal[30] = Work_Zone[7]
  11: 0x01A8 [0x01] GOTO 0x0229
  12: 0x01AB [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x01C1
- 13: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14531*)
+ 13: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=14532*)
     → "Kupo...oh? It would seem I have no trials pertaining to that particular piece of weaponry."
  14: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01B7 [0x03] Work_Zone[1] = 4294967295*
@@ -1654,7 +1654,7 @@ SUBROUTINE_0168:
 
 SUBROUTINE_0229:
  18: 0x0229 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[30]
- 19: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=14519*)
+ 19: 0x022E [0x1D] PRINT_EVENT_MESSAGE(message_id=14520*)
     → "Kupo-ho! Is that $0 I see? Why, yes... I could fashion a fitting trial or two for you, kupo."
  20: 0x0231 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x0232 [0x06] ExtData[1]->WorkLocal[45] = 0
@@ -1675,7 +1675,7 @@ SUBROUTINE_0276:
  34: 0x0288 [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[28]
  35: 0x028D [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[29]
  36: 0x0292 [0x03] Work_Zone_1700[31] = 1*
- 37: 0x0297 [0x24] CREATE_DIALOG(message_id=14542*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
+ 37: 0x0297 [0x24] CREATE_DIALOG(message_id=14543*, default_option=0*, option_flags=ExtData[1]->WorkLocal[45])
     → "Choose a trial to '[review/undertake]. [Trial $0./Trial $1./Trial $2./Trial $3./Trial $4./Trial $5./Trial $6./Trial $7./Trial $8./Trial $9./Trial $10./Trial $11./Trial $12./Trial $13./Trial $14./Trial $15./'[Return/Cancel].]"
  38: 0x029E [0x25] WAIT_DIALOG_SELECT()
  39: 0x029F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AF
@@ -1708,14 +1708,14 @@ SUBROUTINE_0312:
 
 SUBROUTINE_08EC:
  62: 0x08EC [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[34]
- 63: 0x08F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14546*)
+ 63: 0x08F1 [0x1D] PRINT_EVENT_MESSAGE(message_id=14547*)
     → "Just a moment, kupo..."
  64: 0x08F4 [0x03] Work_Zone[1] = 1*
  65: 0x08F9 [0x40] SET_BIT_WORK_RANGE(start_bit=16*, end_bit=31*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[20])
  66: 0x0902 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  67: 0x0904 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  68: 0x0906 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x0918
- 69: 0x090E [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+ 69: 0x090E [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
  70: 0x0911 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0912 [0x03] ExtData[1]->WorkLocal[48] = 4294967295*
@@ -1735,7 +1735,7 @@ SUBROUTINE_08EC:
  85: 0x0958 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  86: 0x095A [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  87: 0x095C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x096E
- 88: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+ 88: 0x0964 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
  89: 0x0967 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0968 [0x03] ExtData[1]->WorkLocal[48] = 4294967295*
@@ -1753,7 +1753,7 @@ SUBROUTINE_08EC:
 102: 0x09A4 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 103: 0x09A6 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 104: 0x09A8 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x09BA
-105: 0x09B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+105: 0x09B0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
 106: 0x09B3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x09B4 [0x03] ExtData[1]->WorkLocal[48] = 4294967295*
@@ -1767,7 +1767,7 @@ SUBROUTINE_08EC:
 115: 0x09DC [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 116: 0x09DE [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 117: 0x09E0 [0x02] IF !(Work_Zone[9] >= 0*) GOTO 0x09F2
-118: 0x09E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+118: 0x09E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
 119: 0x09EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x09EC [0x03] ExtData[1]->WorkLocal[48] = 4294967295*
@@ -1778,22 +1778,22 @@ SUBROUTINE_08EC:
 125: 0x0A01 [0x03] ExtData[1]->WorkLocal[25] = Work_Zone[5]
 126: 0x0A06 [0x03] ExtData[1]->WorkLocal[21] = Work_Zone[6]
 127: 0x0A0B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
-128: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=14547*)
+128: 0x0A10 [0x1D] PRINT_EVENT_MESSAGE(message_id=14548*)
     → "Here is all you need to know about Trial $0, kupo."
 129: 0x0A13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0A14 [0x06] ExtData[1]->WorkLocal[32] = 0
 131: 0x0A17 [0x02] IF !(ExtData[1]->WorkLocal[21] == 0*) GOTO 0x0A37
 132: 0x0A1F [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0A2F
-133: 0x0A27 [0x03] ExtData[1]->WorkLocal[34] = 14748*
+133: 0x0A27 [0x03] ExtData[1]->WorkLocal[34] = 14749*
 134: 0x0A2C [0x01] GOTO 0x0A34
-135: 0x0A2F [0x03] ExtData[1]->WorkLocal[34] = 14544*
+135: 0x0A2F [0x03] ExtData[1]->WorkLocal[34] = 14545*
 
 SUBROUTINE_0A34:
 136: 0x0A34 [0x01] GOTO 0x0A4C
 137: 0x0A37 [0x02] IF !(ExtData[1]->WorkLocal[22] == 0*) GOTO 0x0A47
-138: 0x0A3F [0x03] ExtData[1]->WorkLocal[34] = 14545*
+138: 0x0A3F [0x03] ExtData[1]->WorkLocal[34] = 14546*
 139: 0x0A44 [0x01] GOTO 0x0A4C
-140: 0x0A47 [0x03] ExtData[1]->WorkLocal[34] = 14543*
+140: 0x0A47 [0x03] ExtData[1]->WorkLocal[34] = 14544*
 
 SUBROUTINE_0A4C:
 141: 0x0A4C [0x02] IF !(ExtData[1]->WorkLocal[47] == 0*) GOTO 0x0A5E
@@ -1854,7 +1854,7 @@ SUBROUTINE_0B3D:
 182: 0x0B40 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[1], buffer1=ExtData[1]->WorkLocal[2], buffer2=ExtData[1]->WorkLocal[3], buffer3=ExtData[1]->WorkLocal[4])
 
 SUBROUTINE_0B4A:
-183: 0x0B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=14548*)
+183: 0x0B4A [0x1D] PRINT_EVENT_MESSAGE(message_id=14549*)
     → "You will need this item to begin the trial, kupo."
 184: 0x0B4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0B4E [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0B86
@@ -1914,7 +1914,7 @@ SUBROUTINE_0C1A:
 224: 0x0C1D [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[5], buffer1=ExtData[1]->WorkLocal[6], buffer2=ExtData[1]->WorkLocal[7], buffer3=ExtData[1]->WorkLocal[8])
 
 SUBROUTINE_0C27:
-225: 0x0C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=14549*)
+225: 0x0C27 [0x1D] PRINT_EVENT_MESSAGE(message_id=14550*)
     → "You will be rewarded with this item upon your triumphant return, kupo!"
 226: 0x0C2A [0x23] WAIT_FOR_DIALOG_INTERACTION
 227: 0x0C2B [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0C63
@@ -2023,7 +2023,7 @@ SUBROUTINE_0DEB:
 308: 0x0DFD [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x0E19
 309: 0x0E05 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0E10
 310: 0x0E0D [0x01] GOTO 0x0E16
-311: 0x0E10 [0x48] [System] [14553*]:
+311: 0x0E10 [0x48] [System] [14554*]:
     → "Warning: Completing this trial will result in an increase in the level requirement for the target item."
 312: 0x0E13 [0x1C] WAIT(60* ticks)
 
@@ -2037,16 +2037,16 @@ SUBROUTINE_0E19:
 317: 0x0E29 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 318: 0x0E2B [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0E36
 319: 0x0E33 [0x01] GOTO 0x0E3C
-320: 0x0E36 [0x48] [System] [14561*]:
+320: 0x0E36 [0x48] [System] [14562*]:
     → "* Warning * An item currently in your possession may prevent you from receiving the reward item for the trial you have selected."
 321: 0x0E39 [0x1C] WAIT(60* ticks)
 
 SUBROUTINE_0E3C:
 322: 0x0E3C [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-323: 0x0E41 [0x1D] PRINT_EVENT_MESSAGE(message_id=14520*)
+323: 0x0E41 [0x1D] PRINT_EVENT_MESSAGE(message_id=14521*)
     → "Are you absolutely, positively sure that you want to undertake Trial $0, kupo?"
 324: 0x0E44 [0x23] WAIT_FOR_DIALOG_INTERACTION
-325: 0x0E45 [0x24] CREATE_DIALOG(message_id=14521*, default_option=1*, option_flags=0*)
+325: 0x0E45 [0x24] CREATE_DIALOG(message_id=14522*, default_option=1*, option_flags=0*)
     → "Undertake Trial $0? [I am ready./Perhaps another time.]"
 326: 0x0E4C [0x25] WAIT_DIALOG_SELECT()
 327: 0x0E4D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0F3D
@@ -2060,7 +2060,7 @@ SUBROUTINE_0E3C:
 335: 0x0E75 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[2]
 336: 0x0E7A [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[3]
 337: 0x0E7F [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[4]
-338: 0x0E84 [0x1D] PRINT_EVENT_MESSAGE(message_id=14522*)
+338: 0x0E84 [0x1D] PRINT_EVENT_MESSAGE(message_id=14523*)
     → "Excellent, kupo! Now, to invoke a simple incantation, and..."
 339: 0x0E87 [0x23] WAIT_FOR_DIALOG_INTERACTION
 340: 0x0E88 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
@@ -2068,10 +2068,10 @@ SUBROUTINE_0E3C:
 342: 0x0EA1 [0x1C] WAIT(300* ticks)
 343: 0x0EA4 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
 344: 0x0EB1 [0x03] Work_Zone[2] = 1261*
-345: 0x0EB6 [0x48] [System] [14523*]:
+345: 0x0EB6 [0x48] [System] [14524*]:
     → "Your $3 is now recording the progress of your trials!"
 346: 0x0EB9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-347: 0x0EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=14524*)
+347: 0x0EBA [0x1D] PRINT_EVENT_MESSAGE(message_id=14525*)
     → "Through the marvel of moogle magic, your exploits will be recorded without you having to so much as lift a quill! And just in case you're the forgetful type..."
 348: 0x0EBD [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x0EBE [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap0" with entities [EventEntity, EventEntity]
@@ -2079,34 +2079,34 @@ SUBROUTINE_0E3C:
 351: 0x0ED7 [0x1C] WAIT(300* ticks)
 352: 0x0EDA [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
 353: 0x0EE7 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-354: 0x0EEC [0x48] [System] [14525*]:
+354: 0x0EEC [0x48] [System] [14526*]:
     → "A trial insignia has been inscribed upon your $0!"
 355: 0x0EEF [0x23] WAIT_FOR_DIALOG_INTERACTION
-356: 0x0EF0 [0x48] [System] [14526*]:
+356: 0x0EF0 [0x48] [System] [14527*]:
     → "Note: You may not undertake a different trial with an already-inscribed weapon."
 357: 0x0EF3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-358: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14541*)
+358: 0x0EF4 [0x1D] PRINT_EVENT_MESSAGE(message_id=14542*)
     → "With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!"
 359: 0x0EF7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 360: 0x0EF8 [0x03] ExtData[1]->WorkLocal[34] = 0*
 361: 0x0EFD [0x01] GOTO 0x0F3A
 362: 0x0F00 [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x0F14
-363: 0x0F08 [0x1D] PRINT_EVENT_MESSAGE(message_id=14527*)
+363: 0x0F08 [0x1D] PRINT_EVENT_MESSAGE(message_id=14528*)
     → "Kupo-oh? Might your mind be muddled, my friend? You're already attempting that trial."
 364: 0x0F0B [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x0F0C [0x03] ExtData[1]->WorkLocal[34] = 4294967295*
 366: 0x0F11 [0x01] GOTO 0x0F3A
 367: 0x0F14 [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x0F31
 368: 0x0F1C [0x03] Work_Zone[2] = 1261*
-369: 0x0F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=14529*)
+369: 0x0F21 [0x1D] PRINT_EVENT_MESSAGE(message_id=14530*)
     → "Why, every page in your $3 is full!"
 370: 0x0F24 [0x23] WAIT_FOR_DIALOG_INTERACTION
-371: 0x0F25 [0x1D] PRINT_EVENT_MESSAGE(message_id=14530*)
+371: 0x0F25 [0x1D] PRINT_EVENT_MESSAGE(message_id=14531*)
     → "You must complete or abandon one of your current trials before undertaking another, kupo."
 372: 0x0F28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 373: 0x0F29 [0x03] ExtData[1]->WorkLocal[34] = 4294967294*
 374: 0x0F2E [0x01] GOTO 0x0F3A
-375: 0x0F31 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+375: 0x0F31 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
 376: 0x0F34 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x0F35 [0x03] ExtData[1]->WorkLocal[34] = 4294967293*
@@ -2134,72 +2134,72 @@ SUBROUTINE_0F42:
      0x0305 [0x01] GOTO 0x0312
 # Dead code (unreachable instructions):
      0x0317 [0x02] IF !(1* == 1*) GOTO 0x0378
-     0x031F [0x24] CREATE_DIALOG(message_id=14508*, default_option=0*, option_flags=0*)
+     0x031F [0x24] CREATE_DIALOG(message_id=14509*, default_option=0*, option_flags=0*)
     → "What would you know, kupo? [About the trials./Undertaking a trial./Completing a trial./Return.]"
      0x0326 [0x25] WAIT_DIALOG_SELECT()
      0x0327 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0339
-     0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=14509*)
+     0x032F [0x1D] PRINT_EVENT_MESSAGE(message_id=14510*)
     → "Did I not regale you with the tale of the magians only a short while ago? Well, not all can be possessed of moogle-class powers of memory..."
      0x0332 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0333 [0x1A] CALL_SUBROUTINE(address=0x0379)
      0x0336 [0x01] GOTO 0x0375
      0x0339 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0359
-     0x0341 [0x1D] PRINT_EVENT_MESSAGE(message_id=14510*)
+     0x0341 [0x1D] PRINT_EVENT_MESSAGE(message_id=14511*)
     → "As I have already apprised you, the ancient moogle art of weapon augmentation is my specialty, kupo."
      0x0344 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=14511*)
+     0x0345 [0x1D] PRINT_EVENT_MESSAGE(message_id=14512*)
     → "First, you must retrieve a weapon from the chest beside me. Show it to me, and I will reveal to you the trials you may undertake to receive my boon."
      0x0348 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0349 [0x03] Work_Zone[2] = 1261*
-     0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=14512*)
+     0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=14513*)
     → "The $3 I entrusted to you will record your exploits for up to ten trials at any given time, kupo."
      0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0352 [0x1D] PRINT_EVENT_MESSAGE(message_id=14513*)
+     0x0352 [0x1D] PRINT_EVENT_MESSAGE(message_id=14514*)
     → "Be aware that certain extraordinary weapons entail exclusive trials. Such details and more may be confirmed by requesting of me a list of available trials."
      0x0355 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0356 [0x01] GOTO 0x0375
      0x0359 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0374
-     0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=14514*)
+     0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=14515*)
     → "Should you successfully complete an assigned trial, return and present your target weapon to me to substantiate your success."
      0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=14515*)
+     0x0365 [0x1D] PRINT_EVENT_MESSAGE(message_id=14516*)
     → "If I deem that you have completed my challenge in good order, you shall receive your reward right then and there, kupo!"
      0x0368 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=14516*)
+     0x0369 [0x1D] PRINT_EVENT_MESSAGE(message_id=14517*)
     → "Now, this is important enough that I shall say it twice, even thrice: at the end of your trial, you must trade to me the very same weapon you submitted at the start."
      0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=14517*)
+     0x036D [0x1D] PRINT_EVENT_MESSAGE(message_id=14518*)
     → "Lose this weapon and all your hard-won successes will be for naught. You must avoid such a grievous gaffe at all costs, kupo."
      0x0370 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0371 [0x01] GOTO 0x0375
      0x0374 [0x1B] RETURN
      0x0375 [0x01] GOTO 0x0317
      0x0378 [0x1B] RETURN
-     0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=14473*)
+     0x0379 [0x1D] PRINT_EVENT_MESSAGE(message_id=14474*)
     → "I speak to you on behalf of the Magian Mooglehood, an ancient and august assembly of wisemoogles hailing from the once-glorious Kingdom of Kupalika."
      0x037C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=14475*)
+     0x037D [0x1D] PRINT_EVENT_MESSAGE(message_id=14476*)
     → "Each illustrious member of the Magian Mooglehood guards knowledge of a distinct branch of our lineal lore. My specialty lies in weaponry; with my aid, you will be doling out damage and destruction in ways heretofore unimagined!"
      0x0380 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=14476*)
+     0x0381 [0x1D] PRINT_EVENT_MESSAGE(message_id=14477*)
     → ""What impelled you to impart this long-withheld wisdom to us? And why now, kupo?" the unenlightened adventurer might ask."
      0x0384 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=14477*)
+     0x0385 [0x1D] PRINT_EVENT_MESSAGE(message_id=14478*)
     → "To which the wise moogle would readily reply: The answer, my friend, is in the mog tablets--those remarkable relics wrought by King Kupofried himself--that were only recently recovered by resourceful adventurers such as rrr...yourself."
      0x0388 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=14478*)
+     0x0389 [0x1D] PRINT_EVENT_MESSAGE(message_id=14479*)
     → "There is an ancient (and somewhat alarming) prophecy in our mooglehood. It goes...<ahem>..."King Kupofried's creations shall slumber soundly until such time as their Super Kupowers are called upon to save the realm from utter ruin, kupo.""
      0x038C [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=14479*)
+     0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=14480*)
     → "The particulars of the prophecy--preposterous as this may seem--outstrip even our prodigious powers of perception."
      0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=14480*)
+     0x0391 [0x1D] PRINT_EVENT_MESSAGE(message_id=14481*)
     → "Yet this I know, kupo: if moogle magic is what shall deliver this world from destruction, then moogle magic this world shall have--in abundance!"
      0x0394 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=14481*)
+     0x0395 [0x1D] PRINT_EVENT_MESSAGE(message_id=14482*)
     → "As an adventurer of renown, repute, and paramount prowess, you would seem a worthy beneficiary for our boon. And yet the Magian Mooglehood is nothing if not meticulously methodical. No, we must be certain..."
      0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=14482*)
+     0x0399 [0x1D] PRINT_EVENT_MESSAGE(message_id=14483*)
     → "I propose to task you with a series of trials. Each time you emerge victorious, we shall proffer you a portion of our powers, kupo."
      0x039C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x039D [0x1B] RETURN
@@ -2220,20 +2220,20 @@ SUBROUTINE_0F42:
      0x03DE [0x1B] RETURN
      0x03DF [0x01] GOTO 0x0494
      0x03E2 [0x02] IF !(ExtData[1]->WorkLocal[34] == 4294967294*) GOTO 0x03EF
-     0x03EA [0x48] [System] [14490*]:
+     0x03EA [0x48] [System] [14491*]:
     → "You are not currently undertaking any trials."
      0x03ED [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x03EE [0x1B] RETURN
-     0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=14494*)
+     0x03EF [0x1D] PRINT_EVENT_MESSAGE(message_id=14495*)
     → "Abandon this trial, and all records of your efforts thus far will be lost forever. I encourage due deliberation before making your decision."
      0x03F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x03F3 [0x24] CREATE_DIALOG(message_id=14495*, default_option=0*, option_flags=0*)
+     0x03F3 [0x24] CREATE_DIALOG(message_id=14496*, default_option=0*, option_flags=0*)
     → "Truly abandon the trial, kupo? [Persevere./Retire.]"
      0x03FA [0x25] WAIT_DIALOG_SELECT()
      0x03FB [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0493
      0x0403 [0x42] SET_CLI_EVENT_CANCEL_DATA()
      0x0404 [0x03] Work_Zone[2] = 1261*
-     0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=14496*)
+     0x0409 [0x1D] PRINT_EVENT_MESSAGE(message_id=14497*)
     → "Very well, kupo. I shall remove all records of this trial from your $3."
      0x040C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x040D [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 2 with entities [EventEntity, LocalPlayer], work=205*
@@ -2244,13 +2244,13 @@ SUBROUTINE_0F42:
      0x042C [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
      0x042E [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x046D
      0x0436 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[34]
-     0x043B [0x48] [System] [14497*]:
+     0x043B [0x48] [System] [14498*]:
     → "You have abandoned Trial $0."
      0x043E [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=14498*)
+     0x043F [0x1D] PRINT_EVENT_MESSAGE(message_id=14499*)
     → "Remember that before you can undertake a new trial, your target item must be purged of its trial insignia."
      0x0442 [0x23] WAIT_FOR_DIALOG_INTERACTION
-     0x0443 [0x1D] PRINT_EVENT_MESSAGE(message_id=14499*)
+     0x0443 [0x1D] PRINT_EVENT_MESSAGE(message_id=14500*)
     → "Trade the item to me, and I shall see it returned to its pristine original state, kupo."
      0x0446 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0447 [0x03] Work_Zone[1] = 5*
@@ -2263,16 +2263,16 @@ SUBROUTINE_0F42:
      0x0469 [0x1B] RETURN
      0x046A [0x01] GOTO 0x0490
      0x046D [0x02] IF !(Work_Zone[9] == 4294967295*) GOTO 0x047C
-     0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+     0x0475 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
      0x0478 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0479 [0x01] GOTO 0x0490
      0x047C [0x02] IF !(Work_Zone[9] == 4294967294*) GOTO 0x048B
-     0x0484 [0x48] [System] [14500*]:
+     0x0484 [0x48] [System] [14501*]:
     → "You are not currently undertaking that trial."
      0x0487 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0488 [0x01] GOTO 0x0490
-     0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=14504*)
+     0x048B [0x1D] PRINT_EVENT_MESSAGE(message_id=14505*)
     → "Kupo...ho? My moogle magic seems to have misfired. Perhaps we should try that again."
      0x048E [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x048F [0x1B] RETURN
@@ -2306,7 +2306,7 @@ SUBROUTINE_0F42:
      0x0532 [0x0B] ExtData[1]->WorkLocal[39]++
      0x0535 [0x01] GOTO 0x0511
      0x0538 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[34]
-     0x053D [0x24] CREATE_DIALOG(message_id=14489*, default_option=0*, option_flags=ExtData[1]->WorkLocal[32])
+     0x053D [0x24] CREATE_DIALOG(message_id=14490*, default_option=0*, option_flags=ExtData[1]->WorkLocal[32])
     → "[Review/Abandon] which trial? [Trial $30./Trial $31./Trial $ ./Trial $!./Trial $"./Trial $#./Trial $$./Trial $%./Trial $&./Trial $'./Return.]"
      0x0544 [0x25] WAIT_DIALOG_SELECT()
      0x0545 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0555
@@ -2345,7 +2345,7 @@ SUBROUTINE_0F42:
      0x05F0 [0x06] ExtData[1]->WorkLocal[44] = 0
      0x05F3 [0x02] IF !(1* == 1*) GOTO 0x0759
      0x05FB [0x06] ExtData[1]->WorkLocal[41] = 0
-     0x05FE [0x24] CREATE_DIALOG(message_id=14506*, default_option=0*, option_flags=0*)
+     0x05FE [0x24] CREATE_DIALOG(message_id=14507*, default_option=0*, option_flags=0*)
     → "Select a category: [Hand-to-Hand./Daggers./Swords./Great Swords./Axes./Great Axes./Scythes./Polearms./Katana./Great Katana./Clubs./Staves./Archery./Marksmanship./Instruments./Search by trial number./Cancel.]"
      0x0605 [0x25] WAIT_DIALOG_SELECT()
      0x0606 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0611
@@ -2393,7 +2393,7 @@ SUBROUTINE_0F42:
      0x06F4 [0x02] IF !(ExtData[1]->WorkLocal[34] < 65536*) GOTO 0x0707
      0x06FC [0x02] IF !(ExtData[1]->WorkLocal[34] > 65536*) GOTO 0x0707
      0x0704 [0x01] GOTO 0x0743
-     0x0707 [0x1D] PRINT_EVENT_MESSAGE(message_id=14507*)
+     0x0707 [0x1D] PRINT_EVENT_MESSAGE(message_id=14508*)
     → "Kupo-ho...ho? I know of no such trial. And given the immense nature of my intellect, that means it could not possibly exist."
      0x070A [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x070B [0x1B] RETURN
@@ -2402,7 +2402,7 @@ SUBROUTINE_0F42:
      0x0710 [0x03] ExtData[1]->WorkLocal[42] = Work_Zone[0]
      0x0715 [0x1A] CALL_SUBROUTINE(address=0x075A)
      0x0718 [0x03] Work_Zone_1700[31] = 0*
-     0x071D [0x24] CREATE_DIALOG(message_id=14542*, default_option=ExtData[1]->WorkLocal[44], option_flags=ExtData[1]->WorkLocal[34])
+     0x071D [0x24] CREATE_DIALOG(message_id=14543*, default_option=ExtData[1]->WorkLocal[44], option_flags=ExtData[1]->WorkLocal[34])
     → "Choose a trial to '[review/undertake]. [Trial $0./Trial $1./Trial $2./Trial $3./Trial $4./Trial $5./Trial $6./Trial $7./Trial $8./Trial $9./Trial $10./Trial $11./Trial $12./Trial $13./Trial $14./Trial $15./'[Return/Cancel].]"
      0x0724 [0x25] WAIT_DIALOG_SELECT()
      0x0725 [0x02] IF !(Work_Zone[0] == 16*) GOTO 0x0736
@@ -2806,13 +2806,13 @@ SUBROUTINE_0F42:
  14: 0x149F [0x02] IF !(ExtData[1]->WorkLocal[34] == 0*) GOTO 0x14AA
  15: 0x14A7 [0x01] GOTO 0x1636
  16: 0x14AA [0x02] IF !(ExtData[1]->WorkLocal[34] == 4294967295*) GOTO 0x1508
- 17: 0x14B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14501*)
+ 17: 0x14B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14502*)
     → "Kupo-ho. This item bears the insignia of a trial already abandoned."
  18: 0x14B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 19: 0x14B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14502*)
+ 19: 0x14B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14503*)
     → "It is but a superfluous scribble now. Shall I erase it for you, kupo?"
  20: 0x14B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x14BA [0x24] CREATE_DIALOG(message_id=14503*, default_option=0*, option_flags=0*)
+ 21: 0x14BA [0x24] CREATE_DIALOG(message_id=14504*, default_option=0*, option_flags=0*)
     → "Erase the abandoned trial insignia? [Yes, remove it./No, leave it.]"
  22: 0x14C1 [0x25] WAIT_DIALOG_SELECT()
  23: 0x14C2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14FA
@@ -2831,21 +2831,21 @@ SUBROUTINE_1505:
  34: 0x1508 [0x02] IF !(ExtData[1]->WorkLocal[34] == 4294967294*) GOTO 0x15CD
  35: 0x1510 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
  36: 0x1515 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[20]
- 37: 0x151A [0x1D] PRINT_EVENT_MESSAGE(message_id=14533*)
+ 37: 0x151A [0x1D] PRINT_EVENT_MESSAGE(message_id=14534*)
     → "You are already undertaking Trial $1 with that $0."
  38: 0x151D [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x151E [0x03] ExtData[1]->WorkLocal[34] = ExtData[1]->WorkLocal[20]
  40: 0x1523 [0x03] ExtData[1]->WorkLocal[46] = 1*
  41: 0x1528 [0x1A] CALL_SUBROUTINE(address=0x08DC)
  42: 0x152B [0x03] ExtData[1]->WorkLocal[20] = ExtData[1]->WorkLocal[0]
- 43: 0x1530 [0x24] CREATE_DIALOG(message_id=14493*, default_option=0*, option_flags=0*)
+ 43: 0x1530 [0x24] CREATE_DIALOG(message_id=14494*, default_option=0*, option_flags=0*)
     → "Press onward with this trial? [Persevere./Retire.]"
  44: 0x1537 [0x25] WAIT_DIALOG_SELECT()
  45: 0x1538 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x15BF
- 46: 0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=14494*)
+ 46: 0x1540 [0x1D] PRINT_EVENT_MESSAGE(message_id=14495*)
     → "Abandon this trial, and all records of your efforts thus far will be lost forever. I encourage due deliberation before making your decision."
  47: 0x1543 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 48: 0x1544 [0x24] CREATE_DIALOG(message_id=14495*, default_option=0*, option_flags=0*)
+ 48: 0x1544 [0x24] CREATE_DIALOG(message_id=14496*, default_option=0*, option_flags=0*)
     → "Truly abandon the trial, kupo? [Persevere./Retire.]"
  49: 0x154B [0x25] WAIT_DIALOG_SELECT()
  50: 0x154C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1557
@@ -2853,7 +2853,7 @@ SUBROUTINE_1505:
  52: 0x1557 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x15BC
  53: 0x155F [0x42] SET_CLI_EVENT_CANCEL_DATA()
  54: 0x1560 [0x03] Work_Zone[2] = 1261*
- 55: 0x1565 [0x1D] PRINT_EVENT_MESSAGE(message_id=14496*)
+ 55: 0x1565 [0x1D] PRINT_EVENT_MESSAGE(message_id=14497*)
     → "Very well, kupo. I shall remove all records of this trial from your $3."
  56: 0x1568 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x1569 [0x03] Work_Zone[1] = 8*
@@ -2865,11 +2865,11 @@ SUBROUTINE_1505:
  63: 0x1594 [0x1C] WAIT(300* ticks)
  64: 0x1597 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "hap1" with entities [EventEntity, EventEntity]
  65: 0x15A4 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[20]
- 66: 0x15A9 [0x48] [System] [14497*]:
+ 66: 0x15A9 [0x48] [System] [14498*]:
     → "You have abandoned Trial $0."
  67: 0x15AC [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x15AD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[49]
- 69: 0x15B2 [0x48] [System] [14505*]:
+ 69: 0x15B2 [0x48] [System] [14506*]:
     → "The trial insignia has vanished from your $0."
  70: 0x15B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x15B6 [0x1C] WAIT(120* ticks)
@@ -2883,13 +2883,13 @@ SUBROUTINE_15BC:
 SUBROUTINE_15CA:
  76: 0x15CA [0x01] GOTO 0x1636
  77: 0x15CD [0x02] IF !(ExtData[1]->WorkLocal[34] == 4294967293*) GOTO 0x162B
- 78: 0x15D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14501*)
+ 78: 0x15D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=14502*)
     → "Kupo-ho. This item bears the insignia of a trial already abandoned."
  79: 0x15D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x15D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14502*)
+ 80: 0x15D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=14503*)
     → "It is but a superfluous scribble now. Shall I erase it for you, kupo?"
  81: 0x15DC [0x23] WAIT_FOR_DIALOG_INTERACTION
- 82: 0x15DD [0x24] CREATE_DIALOG(message_id=14503*, default_option=0*, option_flags=0*)
+ 82: 0x15DD [0x24] CREATE_DIALOG(message_id=14504*, default_option=0*, option_flags=0*)
     → "Erase the abandoned trial insignia? [Yes, remove it./No, leave it.]"
  83: 0x15E4 [0x25] WAIT_DIALOG_SELECT()
  84: 0x15E5 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x161D
@@ -2909,7 +2909,7 @@ SUBROUTINE_1628:
  96: 0x1633 [0x01] GOTO 0x1636
 
 SUBROUTINE_1636:
- 97: 0x1636 [0x1D] PRINT_EVENT_MESSAGE(message_id=14541*)
+ 97: 0x1636 [0x1D] PRINT_EVENT_MESSAGE(message_id=14542*)
     → "With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!"
  98: 0x1639 [0x23] WAIT_FOR_DIALOG_INTERACTION
  99: 0x163A [0x21] END_EVENT
@@ -2922,7 +2922,7 @@ SUBROUTINE_163C:
 104: 0x164B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 105: 0x164D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 106: 0x164F [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[49]
-107: 0x1654 [0x48] [System] [14505*]:
+107: 0x1654 [0x48] [System] [14506*]:
     → "The trial insignia has vanished from your $0."
 108: 0x1657 [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x1658 [0x1C] WAIT(120* ticks)
@@ -2956,11 +2956,11 @@ SUBROUTINE_163C:
   2: 0x1662 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x1667 [0x79] EventEntity looks at LocalPlayer (Basic look)
   4: 0x1671 [0x03] Work_Zone[2] = 1261*
-  5: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=14534*)
+  5: 0x1676 [0x1D] PRINT_EVENT_MESSAGE(message_id=14535*)
     → "You have done well, kupo."
   6: 0x1679 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x167A [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
-  8: 0x167F [0x1D] PRINT_EVENT_MESSAGE(message_id=14551*)
+  8: 0x167F [0x1D] PRINT_EVENT_MESSAGE(message_id=14552*)
     → "You must dispose of the $0 in your possession before I can confer upon you another one."
   9: 0x1682 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x1683 [0x21] END_EVENT
@@ -3028,10 +3028,10 @@ SUBROUTINE_163C:
  11: 0x16BD [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x09)
  12: 0x16C4 [0x1C] WAIT(60* ticks)
  13: 0x16C7 [0x03] Work_Zone[2] = 1261*
- 14: 0x16CC [0x1D] PRINT_EVENT_MESSAGE(message_id=14534*)
+ 14: 0x16CC [0x1D] PRINT_EVENT_MESSAGE(message_id=14535*)
     → "You have done well, kupo."
  15: 0x16CF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x16D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14535*)
+ 16: 0x16D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14536*)
     → "The Magian Mooglehood recognizes your feats, and proffers you now a portion of our ancestral powers."
  17: 0x16D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x16D4 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x170C
@@ -3050,7 +3050,7 @@ SUBROUTINE_1709:
  27: 0x170C [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[1], buffer1=ExtData[1]->WorkLocal[2], buffer2=ExtData[1]->WorkLocal[3], buffer3=ExtData[1]->WorkLocal[4])
 
 SUBROUTINE_1716:
- 28: 0x1716 [0x1D] PRINT_EVENT_MESSAGE(message_id=14536*)
+ 28: 0x1716 [0x1D] PRINT_EVENT_MESSAGE(message_id=14537*)
     → "Ready yourself to receive our boon..."
  29: 0x1719 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x171A [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x1752
@@ -3079,7 +3079,7 @@ SUBROUTINE_175C:
  47: 0x1790 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "job1" with entities [EventEntity, EventEntity]
  48: 0x179D [0x1C] WAIT(120* ticks)
  49: 0x17A0 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 50: 0x17A5 [0x48] [System] [14537*]:
+ 50: 0x17A5 [0x48] [System] [14538*]:
     → "There is a sudden flash of light as potent moogle magic surges through the $0!"
  51: 0x17A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x17A9 [0x1A] CALL_SUBROUTINE(address=0x1ABD)
@@ -3099,7 +3099,7 @@ SUBROUTINE_17E1:
  62: 0x17E4 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[5], buffer1=ExtData[1]->WorkLocal[6], buffer2=ExtData[1]->WorkLocal[7], buffer3=ExtData[1]->WorkLocal[8])
 
 SUBROUTINE_17EE:
- 63: 0x17EE [0x1D] PRINT_EVENT_MESSAGE(message_id=14538*)
+ 63: 0x17EE [0x1D] PRINT_EVENT_MESSAGE(message_id=14539*)
     → "The deed is done, kupo."
  64: 0x17F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x17F2 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x182A
@@ -3118,7 +3118,7 @@ SUBROUTINE_1827:
  74: 0x182A [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=0*, buffer1=0*, buffer2=0*, buffer3=0*)
 
 SUBROUTINE_1834:
- 75: 0x1834 [0x1D] PRINT_EVENT_MESSAGE(message_id=14541*)
+ 75: 0x1834 [0x1D] PRINT_EVENT_MESSAGE(message_id=14542*)
     → "With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!"
  76: 0x1837 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x1838 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
@@ -3189,10 +3189,10 @@ SUBROUTINE_1834:
  11: 0x1886 [0x29] REQ_SET_WAIT(priority=0x80, entity_id=Unnamed NPC (ID: 17772779/0x010F30EB), tag_num=0x09)
  12: 0x188D [0x1C] WAIT(60* ticks)
  13: 0x1890 [0x03] Work_Zone[2] = 1261*
- 14: 0x1895 [0x1D] PRINT_EVENT_MESSAGE(message_id=14534*)
+ 14: 0x1895 [0x1D] PRINT_EVENT_MESSAGE(message_id=14535*)
     → "You have done well, kupo."
  15: 0x1898 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x1899 [0x1D] PRINT_EVENT_MESSAGE(message_id=14535*)
+ 16: 0x1899 [0x1D] PRINT_EVENT_MESSAGE(message_id=14536*)
     → "The Magian Mooglehood recognizes your feats, and proffers you now a portion of our ancestral powers."
  17: 0x189C [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x189D [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x18D5
@@ -3211,7 +3211,7 @@ SUBROUTINE_18D2:
  27: 0x18D5 [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[1], buffer1=ExtData[1]->WorkLocal[2], buffer2=ExtData[1]->WorkLocal[3], buffer3=ExtData[1]->WorkLocal[4])
 
 SUBROUTINE_18DF:
- 28: 0x18DF [0x1D] PRINT_EVENT_MESSAGE(message_id=14536*)
+ 28: 0x18DF [0x1D] PRINT_EVENT_MESSAGE(message_id=14537*)
     → "Ready yourself to receive our boon..."
  29: 0x18E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x18E3 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x191B
@@ -3240,7 +3240,7 @@ SUBROUTINE_1925:
  47: 0x1959 [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "job1" with entities [EventEntity, EventEntity]
  48: 0x1966 [0x1C] WAIT(120* ticks)
  49: 0x1969 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[1]
- 50: 0x196E [0x48] [System] [14537*]:
+ 50: 0x196E [0x48] [System] [14538*]:
     → "There is a sudden flash of light as potent moogle magic surges through the $0!"
  51: 0x1971 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x1972 [0x1A] CALL_SUBROUTINE(address=0x1ABD)
@@ -3260,7 +3260,7 @@ SUBROUTINE_19AA:
  62: 0x19AD [0xCC] ITEM_INFO_WINDOW_HANDLER(case=0x01 - Open item info window (with chase), check_value=ExtData[1]->WorkLocal[5], buffer1=ExtData[1]->WorkLocal[6], buffer2=ExtData[1]->WorkLocal[7], buffer3=ExtData[1]->WorkLocal[8])
 
 SUBROUTINE_19B7:
- 63: 0x19B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14538*)
+ 63: 0x19B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=14539*)
     → "The deed is done, kupo."
  64: 0x19BA [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x19BB [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x19F3
@@ -3280,13 +3280,13 @@ SUBROUTINE_19F0:
 
 SUBROUTINE_19FD:
  75: 0x19FD [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[5]
- 76: 0x1A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=14539*)
+ 76: 0x1A02 [0x1D] PRINT_EVENT_MESSAGE(message_id=14540*)
     → "Know, adventurer, that the $0 you now hold is no mere earthly arm. Nay, it is an empyrean weapon--an artifact birthed of the heavens, possessed of such power as to transcend even time and space."
  77: 0x1A05 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x1A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=14540*)
+ 78: 0x1A06 [0x1D] PRINT_EVENT_MESSAGE(message_id=14541*)
     → "Supreme strength, lost for ages to even the most hallowed heroes of your world, now lies at your disposal. Use it well, kupo."
  79: 0x1A09 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x1A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=14541*)
+ 80: 0x1A0A [0x1D] PRINT_EVENT_MESSAGE(message_id=14542*)
     → "With great kupower comes great responsibility. Wield our gift wisely, that the world may be saved and King Kupofried's noble aims brought to fruition!"
  81: 0x1A0D [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x1A0E [0x2C] CREATE_SCHEDULER_TASK: Create scheduler "lvup" with entities [EventEntity, LocalPlayer]
@@ -3693,42 +3693,42 @@ SUBROUTINE_19FD:
  26: 0x1D72 [0x1A] CALL_SUBROUTINE(address=0x3B40)
  27: 0x1D75 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[51]
  28: 0x1D7A [0x02] IF !(ExtData[1]->WorkLocal[61] == 0*) GOTO 0x1D8D
- 29: 0x1D82 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14837*]:
+ 29: 0x1D82 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14838*]:
     → "<Player> and [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji], was it? You have done well to return. The time for your next trial is at hand, kupo."
  30: 0x1D89 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x1D8A [0x01] GOTO 0x1E12
  32: 0x1D8D [0x02] IF !(ExtData[1]->WorkLocal[61] == 1*) GOTO 0x1DA0
- 33: 0x1D95 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14838*]:
+ 33: 0x1D95 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14839*]:
     → "<Player> and [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde], was it? You have done well to return. The time for your next trial is at hand, kupo."
  34: 0x1D9C [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x1D9D [0x01] GOTO 0x1E12
  36: 0x1DA0 [0x02] IF !(ExtData[1]->WorkLocal[61] == 2*) GOTO 0x1DB3
- 37: 0x1DA8 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14839*]:
+ 37: 0x1DA8 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14840*]:
     → "<Player> and [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant], was it? You have done well to return. The time for your next trial is at hand, kupo."
  38: 0x1DAF [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x1DB0 [0x01] GOTO 0x1E12
  40: 0x1DB3 [0x02] IF !(ExtData[1]->WorkLocal[61] == 3*) GOTO 0x1DC6
- 41: 0x1DBB [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14840*]:
+ 41: 0x1DBB [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14841*]:
     → "<Player> and [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue], was it? You have done well to return. The time for your next trial is at hand, kupo."
  42: 0x1DC2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x1DC3 [0x01] GOTO 0x1E12
  44: 0x1DC6 [0x02] IF !(ExtData[1]->WorkLocal[61] == 4*) GOTO 0x1DD9
- 45: 0x1DCE [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14841*]:
+ 45: 0x1DCE [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14842*]:
     → "<Player> and [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga], was it? You have done well to return. The time for your next trial is at hand, kupo."
  46: 0x1DD5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x1DD6 [0x01] GOTO 0x1E12
  48: 0x1DD9 [0x02] IF !(ExtData[1]->WorkLocal[61] == 5*) GOTO 0x1DEC
- 49: 0x1DE1 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14842*]:
+ 49: 0x1DE1 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14843*]:
     → "<Player> and [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa], was it? You have done well to return. The time for your next trial is at hand, kupo."
  50: 0x1DE8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x1DE9 [0x01] GOTO 0x1E12
  52: 0x1DEC [0x02] IF !(ExtData[1]->WorkLocal[61] == 6*) GOTO 0x1DFF
- 53: 0x1DF4 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14843*]:
+ 53: 0x1DF4 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14844*]:
     → "<Player> and [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka], was it? You have done well to return. The time for your next trial is at hand, kupo."
  54: 0x1DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x1DFC [0x01] GOTO 0x1E12
  56: 0x1DFF [0x02] IF !(ExtData[1]->WorkLocal[61] == 7*) GOTO 0x1E12
- 57: 0x1E07 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14844*]:
+ 57: 0x1E07 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14845*]:
     → "<Player> and [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof], was it? You have done well to return. The time for your next trial is at hand, kupo."
  58: 0x1E0E [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x1E0F [0x01] GOTO 0x1E12
@@ -3754,51 +3754,51 @@ SUBROUTINE_1EA2:
  75: 0x1EA9 [0x99] Wait for Unnamed NPC (ID: 17772835/0x010F3123) animation to complete
  76: 0x1EAE [0x1A] CALL_SUBROUTINE(address=0x3C21)
  77: 0x1EB1 [0x02] IF !(ExtData[1]->WorkLocal[58] == 1*) GOTO 0x1EC3
- 78: 0x1EB9 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14845*]:
+ 78: 0x1EB9 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14846*]:
     → "It's about time."
  79: 0x1EC0 [0x01] GOTO 0x1F89
  80: 0x1EC3 [0x02] IF !(ExtData[1]->WorkLocal[58] == 2*) GOTO 0x1ED5
- 81: 0x1ECB [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14846*]:
+ 81: 0x1ECB [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14847*]:
     → "Bring it on!"
  82: 0x1ED2 [0x01] GOTO 0x1F89
  83: 0x1ED5 [0x02] IF !(ExtData[1]->WorkLocal[58] == 3*) GOTO 0x1EE7
- 84: 0x1EDD [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14848*]:
+ 84: 0x1EDD [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14849*]:
     → "Let's hear what you have in store for us this time."
  85: 0x1EE4 [0x01] GOTO 0x1F89
  86: 0x1EE7 [0x02] IF !(ExtData[1]->WorkLocal[58] == 4*) GOTO 0x1EF9
- 87: 0x1EEF [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14847*]:
+ 87: 0x1EEF [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14848*]:
     → "...I am ready."
  88: 0x1EF6 [0x01] GOTO 0x1F89
  89: 0x1EF9 [0x02] IF !(ExtData[1]->WorkLocal[58] == 5*) GOTO 0x1F0B
- 90: 0x1F01 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14851*]:
+ 90: 0x1F01 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14852*]:
     → "Why, I thought I'd die of waiting!"
  91: 0x1F08 [0x01] GOTO 0x1F89
  92: 0x1F0B [0x02] IF !(ExtData[1]->WorkLocal[58] == 6*) GOTO 0x1F1D
- 93: 0x1F13 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14852*]:
+ 93: 0x1F13 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14853*]:
     → "You hear that, <Player>? Let's go!"
  94: 0x1F1A [0x01] GOTO 0x1F89
  95: 0x1F1D [0x02] IF !(ExtData[1]->WorkLocal[58] == 7*) GOTO 0x1F2F
- 96: 0x1F25 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14853*]:
+ 96: 0x1F25 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14854*]:
     → "I wonder what challenges await us this time."
  97: 0x1F2C [0x01] GOTO 0x1F89
  98: 0x1F2F [0x02] IF !(ExtData[1]->WorkLocal[58] == 8*) GOTO 0x1F41
- 99: 0x1F37 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14854*]:
+ 99: 0x1F37 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14855*]:
     → "Ooh, ooh! What's on the menu this time, Mister Moogle?"
 100: 0x1F3E [0x01] GOTO 0x1F89
 101: 0x1F41 [0x02] IF !(ExtData[1]->WorkLocal[58] == 9*) GOTO 0x1F53
-102: 0x1F49 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14855*]:
+102: 0x1F49 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14856*]:
     → "I am ready for whatever comes my way!"
 103: 0x1F50 [0x01] GOTO 0x1F89
 104: 0x1F53 [0x02] IF !(ExtData[1]->WorkLocal[58] == 10*) GOTO 0x1F65
-105: 0x1F5B [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14849*]:
+105: 0x1F5B [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14850*]:
     → "Woo boy! My heart won't stop pounding."
 106: 0x1F62 [0x01] GOTO 0x1F89
 107: 0x1F65 [0x02] IF !(ExtData[1]->WorkLocal[58] == 11*) GOTO 0x1F77
-108: 0x1F6D [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14850*]:
+108: 0x1F6D [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14851*]:
     → "Ahaha! These are the times I feel alive!"
 109: 0x1F74 [0x01] GOTO 0x1F89
 110: 0x1F77 [0x02] IF !(ExtData[1]->WorkLocal[58] == 12*) GOTO 0x1F89
-111: 0x1F7F [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14856*]:
+111: 0x1F7F [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14857*]:
     → "Spare us the dramatics and get on with it, would you?"
 112: 0x1F86 [0x01] GOTO 0x1F89
 
@@ -3809,14 +3809,14 @@ SUBROUTINE_1F89:
 116: 0x1F9C [0x52] END_LOAD_SCHEDULER: End scheduler "etmm" with entities [LocalPlayer, LocalPlayer], work=562*
 117: 0x1FAB [0x52] END_LOAD_SCHEDULER: End scheduler "etll" with entities [LocalPlayer, LocalPlayer], work=562*
 118: 0x1FBA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "et01" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
-119: 0x1FCB [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14857*]:
+119: 0x1FCB [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14858*]:
     → "Your eagerness is admirable, but let it not turn to impatience, lest it doom you to downfall..."
 120: 0x1FD2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x1FD3 [0x52] END_LOAD_SCHEDULER: End scheduler "et01" with entities [LocalPlayer, LocalPlayer], work=562*
 122: 0x1FE2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "et02" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
 123: 0x1FF3 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Magian Moogle (ID: 17772778/0x010F30EA), Magian Moogle (ID: 17772778/0x010F30EA)], work=2755*
 124: 0x2002 [0x1C] WAIT(30* ticks)
-125: 0x2005 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14835*]:
+125: 0x2005 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14836*]:
     → "At any rate, hand this over to Brother Blue to commence your challenge. Now take your leave of me, kupo."
 126: 0x200C [0x1C] WAIT(30* ticks)
 127: 0x200F [0x6E] Unnamed NPC (ID: 17772835/0x010F3123) uses emote 7*
@@ -3940,42 +3940,42 @@ SUBROUTINE_1F89:
  26: 0x2103 [0x1A] CALL_SUBROUTINE(address=0x3B40)
  27: 0x2106 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[51]
  28: 0x210B [0x02] IF !(ExtData[1]->WorkLocal[61] == 0*) GOTO 0x211E
- 29: 0x2113 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14837*]:
+ 29: 0x2113 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14838*]:
     → "<Player> and [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji], was it? You have done well to return. The time for your next trial is at hand, kupo."
  30: 0x211A [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x211B [0x01] GOTO 0x21A3
  32: 0x211E [0x02] IF !(ExtData[1]->WorkLocal[61] == 1*) GOTO 0x2131
- 33: 0x2126 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14838*]:
+ 33: 0x2126 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14839*]:
     → "<Player> and [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde], was it? You have done well to return. The time for your next trial is at hand, kupo."
  34: 0x212D [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x212E [0x01] GOTO 0x21A3
  36: 0x2131 [0x02] IF !(ExtData[1]->WorkLocal[61] == 2*) GOTO 0x2144
- 37: 0x2139 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14839*]:
+ 37: 0x2139 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14840*]:
     → "<Player> and [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant], was it? You have done well to return. The time for your next trial is at hand, kupo."
  38: 0x2140 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x2141 [0x01] GOTO 0x21A3
  40: 0x2144 [0x02] IF !(ExtData[1]->WorkLocal[61] == 3*) GOTO 0x2157
- 41: 0x214C [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14840*]:
+ 41: 0x214C [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14841*]:
     → "<Player> and [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue], was it? You have done well to return. The time for your next trial is at hand, kupo."
  42: 0x2153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x2154 [0x01] GOTO 0x21A3
  44: 0x2157 [0x02] IF !(ExtData[1]->WorkLocal[61] == 4*) GOTO 0x216A
- 45: 0x215F [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14841*]:
+ 45: 0x215F [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14842*]:
     → "<Player> and [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga], was it? You have done well to return. The time for your next trial is at hand, kupo."
  46: 0x2166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x2167 [0x01] GOTO 0x21A3
  48: 0x216A [0x02] IF !(ExtData[1]->WorkLocal[61] == 5*) GOTO 0x217D
- 49: 0x2172 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14842*]:
+ 49: 0x2172 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14843*]:
     → "<Player> and [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa], was it? You have done well to return. The time for your next trial is at hand, kupo."
  50: 0x2179 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x217A [0x01] GOTO 0x21A3
  52: 0x217D [0x02] IF !(ExtData[1]->WorkLocal[61] == 6*) GOTO 0x2190
- 53: 0x2185 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14843*]:
+ 53: 0x2185 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14844*]:
     → "<Player> and [Fhig Lahrv/Khuma Tagyawhan/Pimy Kettihl/Raka Maimhov/Sahyu Banjyao/Sufhi Uchnouma/Tsuim Nhomango/Yoli Kohlpaka], was it? You have done well to return. The time for your next trial is at hand, kupo."
  54: 0x218C [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x218D [0x01] GOTO 0x21A3
  56: 0x2190 [0x02] IF !(ExtData[1]->WorkLocal[61] == 7*) GOTO 0x21A3
- 57: 0x2198 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14844*]:
+ 57: 0x2198 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14845*]:
     → "<Player> and [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof], was it? You have done well to return. The time for your next trial is at hand, kupo."
  58: 0x219F [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x21A0 [0x01] GOTO 0x21A3
@@ -4001,51 +4001,51 @@ SUBROUTINE_2233:
  75: 0x223A [0x99] Wait for Unnamed NPC (ID: 17772835/0x010F3123) animation to complete
  76: 0x223F [0x1A] CALL_SUBROUTINE(address=0x3C21)
  77: 0x2242 [0x02] IF !(ExtData[1]->WorkLocal[58] == 1*) GOTO 0x2254
- 78: 0x224A [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14845*]:
+ 78: 0x224A [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14846*]:
     → "It's about time."
  79: 0x2251 [0x01] GOTO 0x231A
  80: 0x2254 [0x02] IF !(ExtData[1]->WorkLocal[58] == 2*) GOTO 0x2266
- 81: 0x225C [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14846*]:
+ 81: 0x225C [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14847*]:
     → "Bring it on!"
  82: 0x2263 [0x01] GOTO 0x231A
  83: 0x2266 [0x02] IF !(ExtData[1]->WorkLocal[58] == 3*) GOTO 0x2278
- 84: 0x226E [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14848*]:
+ 84: 0x226E [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14849*]:
     → "Let's hear what you have in store for us this time."
  85: 0x2275 [0x01] GOTO 0x231A
  86: 0x2278 [0x02] IF !(ExtData[1]->WorkLocal[58] == 4*) GOTO 0x228A
- 87: 0x2280 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14847*]:
+ 87: 0x2280 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14848*]:
     → "...I am ready."
  88: 0x2287 [0x01] GOTO 0x231A
  89: 0x228A [0x02] IF !(ExtData[1]->WorkLocal[58] == 5*) GOTO 0x229C
- 90: 0x2292 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14851*]:
+ 90: 0x2292 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14852*]:
     → "Why, I thought I'd die of waiting!"
  91: 0x2299 [0x01] GOTO 0x231A
  92: 0x229C [0x02] IF !(ExtData[1]->WorkLocal[58] == 6*) GOTO 0x22AE
- 93: 0x22A4 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14852*]:
+ 93: 0x22A4 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14853*]:
     → "You hear that, <Player>? Let's go!"
  94: 0x22AB [0x01] GOTO 0x231A
  95: 0x22AE [0x02] IF !(ExtData[1]->WorkLocal[58] == 7*) GOTO 0x22C0
- 96: 0x22B6 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14853*]:
+ 96: 0x22B6 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14854*]:
     → "I wonder what challenges await us this time."
  97: 0x22BD [0x01] GOTO 0x231A
  98: 0x22C0 [0x02] IF !(ExtData[1]->WorkLocal[58] == 8*) GOTO 0x22D2
- 99: 0x22C8 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14854*]:
+ 99: 0x22C8 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14855*]:
     → "Ooh, ooh! What's on the menu this time, Mister Moogle?"
 100: 0x22CF [0x01] GOTO 0x231A
 101: 0x22D2 [0x02] IF !(ExtData[1]->WorkLocal[58] == 9*) GOTO 0x22E4
-102: 0x22DA [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14855*]:
+102: 0x22DA [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14856*]:
     → "I am ready for whatever comes my way!"
 103: 0x22E1 [0x01] GOTO 0x231A
 104: 0x22E4 [0x02] IF !(ExtData[1]->WorkLocal[58] == 10*) GOTO 0x22F6
-105: 0x22EC [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14849*]:
+105: 0x22EC [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14850*]:
     → "Woo boy! My heart won't stop pounding."
 106: 0x22F3 [0x01] GOTO 0x231A
 107: 0x22F6 [0x02] IF !(ExtData[1]->WorkLocal[58] == 11*) GOTO 0x2308
-108: 0x22FE [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14850*]:
+108: 0x22FE [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14851*]:
     → "Ahaha! These are the times I feel alive!"
 109: 0x2305 [0x01] GOTO 0x231A
 110: 0x2308 [0x02] IF !(ExtData[1]->WorkLocal[58] == 12*) GOTO 0x231A
-111: 0x2310 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14856*]:
+111: 0x2310 [0x2B] Unnamed NPC (ID: 17772835/0x010F3123) [14857*]:
     → "Spare us the dramatics and get on with it, would you?"
 112: 0x2317 [0x01] GOTO 0x231A
 
@@ -4056,14 +4056,14 @@ SUBROUTINE_231A:
 116: 0x232D [0x52] END_LOAD_SCHEDULER: End scheduler "etmm" with entities [LocalPlayer, LocalPlayer], work=562*
 117: 0x233C [0x52] END_LOAD_SCHEDULER: End scheduler "etll" with entities [LocalPlayer, LocalPlayer], work=562*
 118: 0x234B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "et01" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
-119: 0x235C [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14857*]:
+119: 0x235C [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14858*]:
     → "Your eagerness is admirable, but let it not turn to impatience, lest it doom you to downfall..."
 120: 0x2363 [0x23] WAIT_FOR_DIALOG_INTERACTION
 121: 0x2364 [0x52] END_LOAD_SCHEDULER: End scheduler "et01" with entities [LocalPlayer, LocalPlayer], work=562*
 122: 0x2373 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "et02" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
 123: 0x2384 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Magian Moogle (ID: 17772778/0x010F30EA), Magian Moogle (ID: 17772778/0x010F30EA)], work=2755*
 124: 0x2393 [0x1C] WAIT(30* ticks)
-125: 0x2396 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14835*]:
+125: 0x2396 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14836*]:
     → "At any rate, hand this over to Brother Blue to commence your challenge. Now take your leave of me, kupo."
 126: 0x239D [0x1C] WAIT(30* ticks)
 127: 0x23A0 [0x6E] Unnamed NPC (ID: 17772835/0x010F3123) uses emote 7*
@@ -4242,7 +4242,7 @@ SUBROUTINE_231A:
  27: 0x249F [0x6E] Unnamed NPC (ID: 17772835/0x010F3123) uses emote 19*
  28: 0x24A6 [0x99] Wait for Unnamed NPC (ID: 17772835/0x010F3123) animation to complete
  29: 0x24AB [0x1C] WAIT(60* ticks)
- 30: 0x24AE [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14858*]:
+ 30: 0x24AE [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14859*]:
     → "Lost your item, have you? I fear I can provide no insurance for such irresponsibility. You will simply have to undertake the trial once more from the beginning."
  31: 0x24B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x24B6 [0x52] END_LOAD_SCHEDULER: End scheduler "rt00" with entities [LocalPlayer, LocalPlayer], work=562*
@@ -4250,14 +4250,14 @@ SUBROUTINE_231A:
  34: 0x24D6 [0x6E] LocalPlayer uses emote 5*
  35: 0x24DD [0x99] Wait for LocalPlayer animation to complete
  36: 0x24E2 [0x1C] WAIT(30* ticks)
- 37: 0x24E5 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14859*]:
+ 37: 0x24E5 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14860*]:
     → "But it is not all for naught, kupo. I am certain that the experience you have earned will serve you well."
  38: 0x24EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x24ED [0x52] END_LOAD_SCHEDULER: End scheduler "rt01" with entities [LocalPlayer, LocalPlayer], work=562*
  40: 0x24FC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "rt02" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
  41: 0x250D [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Magian Moogle (ID: 17772778/0x010F30EA), Magian Moogle (ID: 17772778/0x010F30EA)], work=2755*
  42: 0x251C [0x1C] WAIT(30* ticks)
- 43: 0x251F [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14835*]:
+ 43: 0x251F [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14836*]:
     → "At any rate, hand this over to Brother Blue to commence your challenge. Now take your leave of me, kupo."
  44: 0x2526 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x2527 [0x1A] CALL_SUBROUTINE(address=0x1A9C)
@@ -5507,7 +5507,7 @@ SUBROUTINE_231A:
  27: 0x261A [0x6E] Unnamed NPC (ID: 17772835/0x010F3123) uses emote 19*
  28: 0x2621 [0x99] Wait for Unnamed NPC (ID: 17772835/0x010F3123) animation to complete
  29: 0x2626 [0x1C] WAIT(60* ticks)
- 30: 0x2629 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14858*]:
+ 30: 0x2629 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14859*]:
     → "Lost your item, have you? I fear I can provide no insurance for such irresponsibility. You will simply have to undertake the trial once more from the beginning."
  31: 0x2630 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x2631 [0x52] END_LOAD_SCHEDULER: End scheduler "rt00" with entities [LocalPlayer, LocalPlayer], work=562*
@@ -5515,14 +5515,14 @@ SUBROUTINE_231A:
  34: 0x2651 [0x6E] LocalPlayer uses emote 5*
  35: 0x2658 [0x99] Wait for LocalPlayer animation to complete
  36: 0x265D [0x1C] WAIT(30* ticks)
- 37: 0x2660 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14859*]:
+ 37: 0x2660 [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14860*]:
     → "But it is not all for naught, kupo. I am certain that the experience you have earned will serve you well."
  38: 0x2667 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x2668 [0x52] END_LOAD_SCHEDULER: End scheduler "rt01" with entities [LocalPlayer, LocalPlayer], work=562*
  40: 0x2677 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "rt02" with entities [LocalPlayer, LocalPlayer], work=[562*, 0*]
  41: 0x2688 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pas0" with entities [Magian Moogle (ID: 17772778/0x010F30EA), Magian Moogle (ID: 17772778/0x010F30EA)], work=2755*
  42: 0x2697 [0x1C] WAIT(30* ticks)
- 43: 0x269A [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14835*]:
+ 43: 0x269A [0x2B] Magian Moogle (ID: 17772778/0x010F30EA) [14836*]:
     → "At any rate, hand this over to Brother Blue to commence your challenge. Now take your leave of me, kupo."
  44: 0x26A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x26A2 [0x1A] CALL_SUBROUTINE(address=0x1A9C)

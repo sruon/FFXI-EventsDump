@@ -24,15 +24,15 @@
 |       0 | 0x001E      |          30 |
 |       1 | 0x001D      |          29 |
 |       2 | 0x0000      |           0 |
-|       3 | 0x1FCC      |        8140 |
-|       4 | 0x1FCB      |        8139 |
-|       5 | 0x1FD4      |        8148 |
+|       3 | 0x1FCD      |        8141 |
+|       4 | 0x1FCC      |        8140 |
+|       5 | 0x1FD5      |        8149 |
 
 ## String References
 
-- **8139**: Blast! Were it not for that accursed whisker, we'd make short work of these fiends! At least, so the commander says...
-- **8140**: If you've a mind to venture inland, I suggest you take due caution. The stories that our scouts tell would have even the most battle-hardened knight quaking in his sollerets.
-- **8148**: (Just between you and I, somehow Commander Rahal just doesn't inspire the confidence he once did. Fighting off the hordes has taken its toll on even the most stout-hearted of us, I fear...)
+- **8140**: Blast! Were it not for that accursed whisker, we'd make short work of these fiends! At least, so the commander says...
+- **8141**: If you've a mind to venture inland, I suggest you take due caution. The stories that our scouts tell would have even the most battle-hardened knight quaking in his sollerets.
+- **8149**: (Just between you and I, somehow Commander Rahal just doesn't inspire the confidence he once did. Fighting off the hordes has taken its toll on even the most stout-hearted of us, I fear...)
 
 ## Events
 
@@ -83,11 +83,11 @@
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
   3: 0x0018 [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x0027
-  4: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
+  4: 0x0020 [0x1D] PRINT_EVENT_MESSAGE(message_id=8141*)
     → "If you've a mind to venture inland, I suggest you take due caution. The stories that our scouts tell would have even the most battle-hardened knight quaking in his sollerets."
   5: 0x0023 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0024 [0x01] GOTO 0x002B
-  7: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8139*)
+  7: 0x0027 [0x1D] PRINT_EVENT_MESSAGE(message_id=8140*)
     → "Blast! Were it not for that accursed whisker, we'd make short work of these fiends! At least, so the commander says..."
   8: 0x002A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -120,7 +120,7 @@ SUBROUTINE_002B:
   0: 0x002D [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0032 [0x1C] WAIT(30* ticks)
   2: 0x0035 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=29*
-  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8148*)
+  3: 0x0044 [0x1D] PRINT_EVENT_MESSAGE(message_id=8149*)
     → "(Just between you and I, somehow Commander Rahal just doesn't inspire the confidence he once did. Fighting off the hordes has taken its toll on even the most stout-hearted of us, I fear...)"
   4: 0x0047 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0048 [0x21] END_EVENT

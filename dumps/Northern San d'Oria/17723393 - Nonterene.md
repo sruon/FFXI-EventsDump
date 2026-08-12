@@ -26,61 +26,61 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2B7D      |       11133 |
+|       0 | 0x2B7E      |       11134 |
 |       1 | 0xFFFFE7C9  |  4294961097 |
 |       2 | 0x3982      |       14722 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x036E      |         878 |
 |       5 | 0x0014      |          20 |
-|       6 | 0x2B92      |       11154 |
-|       7 | 0x2B93      |       11155 |
+|       6 | 0x2B93      |       11155 |
+|       7 | 0x2B94      |       11156 |
 |       8 | 0x0001      |           1 |
-|       9 | 0x2B94      |       11156 |
+|       9 | 0x2B95      |       11157 |
 |      10 | 0x001E      |          30 |
-|      11 | 0x2B95      |       11157 |
+|      11 | 0x2B96      |       11158 |
 |      12 | 0x0083      |         131 |
-|      13 | 0x2B96      |       11158 |
-|      14 | 0x2B97      |       11159 |
-|      15 | 0x2B98      |       11160 |
-|      16 | 0x2B99      |       11161 |
+|      13 | 0x2B97      |       11159 |
+|      14 | 0x2B98      |       11160 |
+|      15 | 0x2B99      |       11161 |
+|      16 | 0x2B9A      |       11162 |
 |      17 | 0x0002      |           2 |
-|      18 | 0x2B9B      |       11163 |
+|      18 | 0x2B9C      |       11164 |
 |      19 | 0x0003      |           3 |
-|      20 | 0x2B9C      |       11164 |
-|      21 | 0x2B9E      |       11166 |
-|      22 | 0x2B9F      |       11167 |
-|      23 | 0x2BA0      |       11168 |
-|      24 | 0x2BA1      |       11169 |
-|      25 | 0x2BA2      |       11170 |
-|      26 | 0x2BA3      |       11171 |
-|      27 | 0x2BA4      |       11172 |
-|      28 | 0x2BAD      |       11181 |
-|      29 | 0x2BAE      |       11182 |
-|      30 | 0x2BAF      |       11183 |
+|      20 | 0x2B9D      |       11165 |
+|      21 | 0x2B9F      |       11167 |
+|      22 | 0x2BA0      |       11168 |
+|      23 | 0x2BA1      |       11169 |
+|      24 | 0x2BA2      |       11170 |
+|      25 | 0x2BA3      |       11171 |
+|      26 | 0x2BA4      |       11172 |
+|      27 | 0x2BA5      |       11173 |
+|      28 | 0x2BAE      |       11182 |
+|      29 | 0x2BAF      |       11183 |
+|      30 | 0x2BB0      |       11184 |
 
 ## String References
 
-- **11133**: [Cutscene] Never before has [he/she] set foot within the Elvaan capital, but [he/she] is resolved to let nothing stand in [his/her] way.
-- **11154**: You seem lost, recruit. Tell me if there's anything you wish to know.
-- **11155**: Something you'd like to know? [Nothing in particular./I want to go out and fight!/I want to go shopping./I want to know more about adventuring.]
-- **11156**: Just arrived and you're already aching to leave, eh? Listen, the land is wild beyond our gates, filled with fiends and their ilk.
-- **11157**: If you must go outside, head through Ranperre Gate. Allow me to explain.
-- **11158**: Right now we're on the Parade Grounds. Find the gate to the west.
-- **11159**: Step through and pass the furniture store and the inn. Take the gate on the left.
-- **11160**: Make another left down the stairs. You'll see Ranperre Gate beyond.
-- **11161**: Should you need directions, ask those around you. Our citizens are friendly, for the most part.
-- **11163**: For weapons and basic supplies, take a walk through the city and you'll find all that you need.
-- **11164**: Recruits... Don't know which way to hold a sword and you think you're ready. Well, what would you like to know?
-- **11166**: What would you like to know about? [Helping people./Hunting monsters./Making easy money./Working for my country.]
-- **11167**: Ah, a commendable choice! I saw a lady in front of a house on Pikeman's Way who may be in need of assistance.
-- **11168**: Novices... Don't know your own limits until a fiend beats it into your head for you. Very well. How about gathering some hides for the Tanners' Guild in Southern San d'Oria?
-- **11169**: Southern San d'Oria is just beyond Victory Arch there. Pass through and go west. You'll find the Tanners' Guild soon enough.
-- **11170**: Easy money, eh? Typical! I can't promise ease, but check the lumberyard on Laborman's Way. They should have some work for you.
-- **11171**: Go through the gate to the west and pass the Phoenix Perch Inn. You should see another gate there to your right. That gate leads to Laborman's Way.
-- **11172**: Ah, a commendable choice! Each entrance to the city has a gatehouse. Tell the guards there you wish to work for the glory of the Kingdom!
-- **11181**: A gambler? Oh, you mean Varchet. He went strolling through Victory Arch just a while ago.
-- **11182**: He's probably at some tavern by now. You'd best stay away from gamblers like him.
-- **11183**: He was a knight, once, and always loved games of chance. They say his habit eventually cost him his knighthood.
+- **11134**: [Cutscene] Never before has [he/she] set foot within the Elvaan capital, but [he/she] is resolved to let nothing stand in [his/her] way.
+- **11155**: You seem lost, recruit. Tell me if there's anything you wish to know.
+- **11156**: Something you'd like to know? [Nothing in particular./I want to go out and fight!/I want to go shopping./I want to know more about adventuring.]
+- **11157**: Just arrived and you're already aching to leave, eh? Listen, the land is wild beyond our gates, filled with fiends and their ilk.
+- **11158**: If you must go outside, head through Ranperre Gate. Allow me to explain.
+- **11159**: Right now we're on the Parade Grounds. Find the gate to the west.
+- **11160**: Step through and pass the furniture store and the inn. Take the gate on the left.
+- **11161**: Make another left down the stairs. You'll see Ranperre Gate beyond.
+- **11162**: Should you need directions, ask those around you. Our citizens are friendly, for the most part.
+- **11164**: For weapons and basic supplies, take a walk through the city and you'll find all that you need.
+- **11165**: Recruits... Don't know which way to hold a sword and you think you're ready. Well, what would you like to know?
+- **11167**: What would you like to know about? [Helping people./Hunting monsters./Making easy money./Working for my country.]
+- **11168**: Ah, a commendable choice! I saw a lady in front of a house on Pikeman's Way who may be in need of assistance.
+- **11169**: Novices... Don't know your own limits until a fiend beats it into your head for you. Very well. How about gathering some hides for the Tanners' Guild in Southern San d'Oria?
+- **11170**: Southern San d'Oria is just beyond Victory Arch there. Pass through and go west. You'll find the Tanners' Guild soon enough.
+- **11171**: Easy money, eh? Typical! I can't promise ease, but check the lumberyard on Laborman's Way. They should have some work for you.
+- **11172**: Go through the gate to the west and pass the Phoenix Perch Inn. You should see another gate there to your right. That gate leads to Laborman's Way.
+- **11173**: Ah, a commendable choice! Each entrance to the city has a gatehouse. Tell the guards there you wish to work for the glory of the Kingdom!
+- **11182**: A gambler? Oh, you mean Varchet. He went strolling through Victory Arch just a while ago.
+- **11183**: He's probably at some tavern by now. You'd best stay away from gamblers like him.
+- **11184**: He was a knight, once, and always loved games of chance. They say his habit eventually cost him his knighthood.
 
 ## Events
 
@@ -147,7 +147,7 @@
 #### Opcodes
 
 ```
-  0: 0x0002 [0x48] [System] [11133*]:
+  0: 0x0002 [0x48] [System] [11134*]:
     → "[Cutscene] Never before has [he/she] set foot within the Elvaan capital, but [he/she] is resolved to let nothing stand in [his/her] way."
   1: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0006 [0x00] END_REQSTACK()
@@ -278,26 +278,26 @@
   1: 0x001D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x001E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nonterene (ID: 17723393/0x010E7001), Nonterene (ID: 17723393/0x010E7001)], work=20*
-  4: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11154*)
+  4: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=11155*)
     → "You seem lost, recruit. Tell me if there's anything you wish to know."
   5: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0032 [0x24] CREATE_DIALOG(message_id=11155*, default_option=0*, option_flags=0*)
+  6: 0x0032 [0x24] CREATE_DIALOG(message_id=11156*, default_option=0*, option_flags=0*)
     → "Something you'd like to know? [Nothing in particular./I want to go out and fight!/I want to go shopping./I want to know more about adventuring.]"
   7: 0x0039 [0x25] WAIT_DIALOG_SELECT()
   8: 0x003A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0046
   9: 0x0042 [0x21] END_EVENT
 
 SUBROUTINE_014E:
- 10: 0x014E [0x24] CREATE_DIALOG(message_id=11166*, default_option=0*, option_flags=0*)
+ 10: 0x014E [0x24] CREATE_DIALOG(message_id=11167*, default_option=0*, option_flags=0*)
     → "What would you like to know about? [Helping people./Hunting monsters./Making easy money./Working for my country.]"
  11: 0x0155 [0x25] WAIT_DIALOG_SELECT()
  12: 0x0156 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0185
  13: 0x015E [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nonterene (ID: 17723393/0x010E7001), Nonterene (ID: 17723393/0x010E7001)], work=20*
- 14: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=11167*)
+ 14: 0x016D [0x1D] PRINT_EVENT_MESSAGE(message_id=11168*)
     → "Ah, a commendable choice! I saw a lady in front of a house on Pikeman's Way who may be in need of assistance."
  15: 0x0170 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0171 [0x1C] WAIT(30* ticks)
- 17: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11161*)
+ 17: 0x0174 [0x1D] PRINT_EVENT_MESSAGE(message_id=11162*)
     → "Should you need directions, ask those around you. Our citizens are friendly, for the most part."
  18: 0x0177 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0178 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -351,15 +351,15 @@ SUBROUTINE_0220:
   1: 0x0227 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0228 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0229 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Nonterene (ID: 17723393/0x010E7001), Nonterene (ID: 17723393/0x010E7001)], work=20*
-  4: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=11181*)
+  4: 0x0238 [0x1D] PRINT_EVENT_MESSAGE(message_id=11182*)
     → "A gambler? Oh, you mean Varchet. He went strolling through Victory Arch just a while ago."
   5: 0x023B [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x023C [0x1C] WAIT(30* ticks)
-  7: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=11182*)
+  7: 0x023F [0x1D] PRINT_EVENT_MESSAGE(message_id=11183*)
     → "He's probably at some tavern by now. You'd best stay away from gamblers like him."
   8: 0x0242 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0243 [0x1C] WAIT(30* ticks)
- 10: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=11183*)
+ 10: 0x0246 [0x1D] PRINT_EVENT_MESSAGE(message_id=11184*)
     → "He was a knight, once, and always loved games of chance. They say his habit eventually cost him his knighthood."
  11: 0x0249 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x024A [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")

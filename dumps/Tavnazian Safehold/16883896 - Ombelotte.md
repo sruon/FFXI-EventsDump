@@ -5,9 +5,9 @@
 | Field            | Value                       |
 |------------------|-----------------------------|
 | Zone             | Tavnazian Safehold (ID: 26) |
-| Block Size       | 2724 bytes                  |
+| Block Size       | 2728 bytes                  |
 | Total Events     | 2                           |
-| References Count | 90                          |
+| References Count | 91                          |
 
 ## List of Events
 
@@ -27,35 +27,35 @@
 |       4 | 0x0008      |           8 |
 |       5 | 0x0006      |           6 |
 |       6 | 0x000B      |          11 |
-|       7 | 0x33D8      |       13272 |
-|       8 | 0x33DA      |       13274 |
-|       9 | 0x33E2      |       13282 |
+|       7 | 0x33D9      |       13273 |
+|       8 | 0x33DB      |       13275 |
+|       9 | 0x33E3      |       13283 |
 |      10 | 0xFFFFFFFF  |  4294967295 |
 |      11 | 0x0002      |           2 |
-|      12 | 0x33E8      |       13288 |
-|      13 | 0x33FA      |       13306 |
+|      12 | 0x33E9      |       13289 |
+|      13 | 0x33FB      |       13307 |
 |      14 | 0x000A      |          10 |
-|      15 | 0x33FE      |       13310 |
-|      16 | 0x3402      |       13314 |
-|      17 | 0x3406      |       13318 |
+|      15 | 0x33FF      |       13311 |
+|      16 | 0x3403      |       13315 |
+|      17 | 0x3407      |       13319 |
 |      18 | 0x0003      |           3 |
-|      19 | 0x340A      |       13322 |
-|      20 | 0x340E      |       13326 |
-|      21 | 0x3412      |       13330 |
-|      22 | 0x3416      |       13334 |
+|      19 | 0x340B      |       13323 |
+|      20 | 0x340F      |       13327 |
+|      21 | 0x3413      |       13331 |
+|      22 | 0x3417      |       13335 |
 |      23 | 0x0007      |           7 |
-|      24 | 0x341A      |       13338 |
-|      25 | 0x341E      |       13342 |
+|      24 | 0x341B      |       13339 |
+|      25 | 0x341F      |       13343 |
 |      26 | 0x0009      |           9 |
-|      27 | 0x3422      |       13346 |
-|      28 | 0x3426      |       13350 |
-|      29 | 0x33E9      |       13289 |
-|      30 | 0x33ED      |       13293 |
+|      27 | 0x3423      |       13347 |
+|      28 | 0x3427      |       13351 |
+|      29 | 0x33EA      |       13290 |
+|      30 | 0x33EE      |       13294 |
 |      31 | 0x001A      |          26 |
 |      32 | 0x001E      |          30 |
 |      33 | 0xFFFF3ACE  |  4294916814 |
 |      34 | 0xFFFF5D21  |  4294925601 |
-|      35 | 0x33F4      |       13300 |
+|      35 | 0x33F5      |       13301 |
 |      36 | 0x1B269     |      111209 |
 |      37 | 0xFFFEB217  |  4294881815 |
 |      38 | 0x142C6     |       82630 |
@@ -80,68 +80,69 @@
 |      57 | 0xFFFF9A8E  |  4294941326 |
 |      58 | 0x000E      |          14 |
 |      59 | 0x3E12      |       15890 |
-|      60 | 0x000F      |          15 |
-|      61 | 0xFFFE70B5  |  4294865077 |
-|      62 | 0xE592      |       58770 |
-|      63 | 0x0010      |          16 |
-|      64 | 0x146F1     |       83697 |
-|      65 | 0x0CB2      |        3250 |
-|      66 | 0x0011      |          17 |
-|      67 | 0x13354     |       78676 |
-|      68 | 0x1136E     |       70510 |
-|      69 | 0x0012      |          18 |
-|      70 | 0xFFFFB9F7  |  4294949367 |
-|      71 | 0x1E6ED     |      124653 |
-|      72 | 0x0013      |          19 |
-|      73 | 0x0014      |          20 |
-|      74 | 0x33E6      |       13286 |
-|      75 | 0x33EE      |       13294 |
-|      76 | 0x33E7      |       13287 |
-|      77 | 0xFFF4D2FC  |  4294234876 |
-|      78 | 0xFFFB5A82  |  4294662786 |
-|      79 | 0x33F5      |       13301 |
-|      80 | 0xFFFFF024  |  4294963236 |
-|      81 | 0x10FB8     |       69560 |
-|      82 | 0x33F6      |       13302 |
-|      83 | 0x005A      |          90 |
-|      84 | 0x003C      |          60 |
-|      85 | 0x33F1      |       13297 |
+|      60 | 0x340A      |       13322 |
+|      61 | 0x000F      |          15 |
+|      62 | 0xFFFE70B5  |  4294865077 |
+|      63 | 0xE592      |       58770 |
+|      64 | 0x0010      |          16 |
+|      65 | 0x146F1     |       83697 |
+|      66 | 0x0CB2      |        3250 |
+|      67 | 0x0011      |          17 |
+|      68 | 0x13354     |       78676 |
+|      69 | 0x1136E     |       70510 |
+|      70 | 0x0012      |          18 |
+|      71 | 0xFFFFB9F7  |  4294949367 |
+|      72 | 0x1E6ED     |      124653 |
+|      73 | 0x0013      |          19 |
+|      74 | 0x0014      |          20 |
+|      75 | 0x33E7      |       13287 |
+|      76 | 0x33EF      |       13295 |
+|      77 | 0x33E8      |       13288 |
+|      78 | 0xFFF4D2FC  |  4294234876 |
+|      79 | 0xFFFB5A82  |  4294662786 |
+|      80 | 0x33F6      |       13302 |
+|      81 | 0xFFFFF024  |  4294963236 |
+|      82 | 0x10FB8     |       69560 |
+|      83 | 0x33F7      |       13303 |
+|      84 | 0x005A      |          90 |
+|      85 | 0x003C      |          60 |
 |      86 | 0x33F2      |       13298 |
 |      87 | 0x33F3      |       13299 |
-|      88 | 0x33DF      |       13279 |
+|      88 | 0x33F4      |       13300 |
 |      89 | 0x33E0      |       13280 |
+|      90 | 0x33E1      |       13281 |
 
 ## String References
 
-- **13272**: It's not often we get visitors to Tavnazia. My name is Ombelotte, and I'd be...happy to offer you any guidance you may need.
-- **13274**: Inquire about what? [I want to find some quests!/I want a map of Tavnazia!/I have other questions./Nothing for now.]
-- **13279**: Bring me a map of Tavnazia, and I can mark some places that'll help set you on the right path.
-- **13280**: You know who can help you procure a map? Elysia--provided you help her out. Let me show you where she is.
-- **13282**: Tavnazia may look safe, but there are always people who need an adventurer's aid. Would you like me to find some such people?
-- **13286**: Outside of town, you might be able to get work from one of the people I'm about to list for you.
-- **13287**: You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands].
-- **13288**: Inquire about which locale? [None./Tavnazia: $1 individual[/s]./Other: $2 individual[/s].]
-- **13289**: The following people in Tavnazia may have some tasks for you.
-- **13293**: Who will you go see in Tavnazia? [No one./Elysia./Despachiaire./Anteurephiaux./Frescheque./Ferchinne./Enaremand./Ondieulix./Travonce./Jonette./Enaremand./Tressia./Despachiaire./Quelveuiat./Nivorajean./Epinolle./Yurim./Justinius./Owain./Despachiaire./Despachiaire.]
-- **13294**: Who will you go see? [No one./Someone someplace special.]
-- **13297**: If you open the main menu and press the right arrow key, you'll come across an entry called "Help Desk."
-- **13298**: Selecting that option and then clicking "Help Desk" again brings up a small list, of which one entry reads "I need help with the game controls."
-- **13299**: There's a lot of specific examples that might help you out, so give it a look if you're unclear on something.
-- **13300**: I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!
-- **13301**: Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map.
-- **13302**: Be sure to take a good look!
-- **13306**: There's still one other thing remaining to share with you.
-- **13310**: There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.
-- **13314**: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!
-- **13318**: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.
-- **13322**: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.
-- **13326**: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.
-- **13330**: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.
-- **13334**: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.
-- **13338**: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.
-- **13342**: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.
-- **13346**: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.
-- **13350**: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs.
+- **13273**: It's not often we get visitors to Tavnazia. My name is Ombelotte, and I'd be...happy to offer you any guidance you may need.
+- **13275**: Inquire about what? [I want to find some quests!/I want a map of Tavnazia!/I have other questions./Nothing for now.]
+- **13280**: Bring me a map of Tavnazia, and I can mark some places that'll help set you on the right path.
+- **13281**: You know who can help you procure a map? Elysia--provided you help her out. Let me show you where she is.
+- **13283**: Tavnazia may look safe, but there are always people who need an adventurer's aid. Would you like me to find some such people?
+- **13287**: Outside of town, you might be able to get work from one of the people I'm about to list for you.
+- **13288**: You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands].
+- **13289**: Inquire about which locale? [None./Tavnazia: $1 individual[/s]./Other: $2 individual[/s].]
+- **13290**: The following people in Tavnazia may have some tasks for you.
+- **13294**: Who will you go see in Tavnazia? [No one./Elysia./Despachiaire./Anteurephiaux./Frescheque./Ferchinne./Enaremand./Ondieulix./Travonce./Jonette./Enaremand./Tressia./Despachiaire./Quelveuiat./Nivorajean./Epinolle./Yurim./Justinius./Owain./Despachiaire./Despachiaire.]
+- **13295**: Who will you go see? [No one./Someone someplace special.]
+- **13298**: If you open the main menu and press the right arrow key, you'll come across an entry called "Help Desk."
+- **13299**: Selecting that option and then clicking "Help Desk" again brings up a small list, of which one entry reads "I need help with the game controls."
+- **13300**: There's a lot of specific examples that might help you out, so give it a look if you're unclear on something.
+- **13301**: I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!
+- **13302**: Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map.
+- **13303**: Be sure to take a good look!
+- **13307**: There's still one other thing remaining to share with you.
+- **13311**: There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places.
+- **13315**: Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!
+- **13319**: If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor.
+- **13323**: Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you.
+- **13327**: Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic.
+- **13331**: Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate.
+- **13335**: Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure.
+- **13339**: Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion.
+- **13343**: Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells.
+- **13347**: Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells.
+- **13351**: Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs.
 
 ## Events
 
@@ -274,58 +275,58 @@
 05B0: 00 00 02 07 00 1A 80 03  BF 05 07 07 00 01 80 1C  ................
 05C0: 20 80 1D 23 80 23 8A 1C  20 80 01 BE 07 02 00 10   ..#.#.. .......
 05D0: 3A 80 00 14 06 42 8D 1F  80 0B 80 1C 20 80 B8 1F  :....B...... ...
-05E0: 80 0B 80 07 00 3B 80 13  80 4E 69 76 6F 72 61 6A  .....;...Nivoraj
+05E0: 80 0B 80 07 00 3B 80 3C  80 4E 69 76 6F 72 61 6A  .....;.<.Nivoraj
 05F0: 65 61 6E 00 00 00 00 00  00 02 07 00 1A 80 03 06  ean.............
 0600: 06 07 07 00 01 80 1C 20  80 1D 23 80 23 8A 1C 20  ....... ..#.#.. 
-0610: 80 01 BE 07 02 00 10 3C  80 00 5B 06 42 8D 1F 80  .......<..[.B...
-0620: 0B 80 1C 20 80 B8 1F 80  0B 80 07 00 3D 80 3E 80  ... ........=.>.
+0610: 80 01 BE 07 02 00 10 3D  80 00 5B 06 42 8D 1F 80  .......=..[.B...
+0620: 0B 80 1C 20 80 B8 1F 80  0B 80 07 00 3E 80 3F 80  ... ........>.?.
 0630: 45 70 69 6E 6F 6C 6C 65  00 00 00 00 00 00 00 00  Epinolle........
 0640: 02 07 00 1A 80 03 4D 06  07 07 00 01 80 1C 20 80  ......M....... .
-0650: 1D 23 80 23 8A 1C 20 80  01 BE 07 02 00 10 3F 80  .#.#.. .......?.
+0650: 1D 23 80 23 8A 1C 20 80  01 BE 07 02 00 10 40 80  .#.#.. .......@.
 0660: 00 A2 06 42 8D 1F 80 01  80 1C 20 80 B8 1F 80 01  ...B...... .....
-0670: 80 07 00 40 80 41 80 59  75 72 69 6D 00 00 00 00  ...@.A.Yurim....
+0670: 80 07 00 41 80 42 80 59  75 72 69 6D 00 00 00 00  ...A.B.Yurim....
 0680: 00 00 00 00 00 00 00 02  07 00 1A 80 03 94 06 07  ................
 0690: 07 00 01 80 1C 20 80 1D  23 80 23 8A 1C 20 80 01  ..... ..#.#.. ..
-06A0: BE 07 02 00 10 42 80 00  E9 06 42 8D 1F 80 01 80  .....B....B.....
-06B0: 1C 20 80 B8 1F 80 01 80  07 00 43 80 44 80 4A 75  . ........C.D.Ju
+06A0: BE 07 02 00 10 43 80 00  E9 06 42 8D 1F 80 01 80  .....C....B.....
+06B0: 1C 20 80 B8 1F 80 01 80  07 00 44 80 45 80 4A 75  . ........D.E.Ju
 06C0: 73 74 69 6E 69 75 73 00  00 00 00 00 00 00 02 07  stinius.........
 06D0: 00 1A 80 03 DB 06 07 07  00 01 80 1C 20 80 1D 23  ............ ..#
-06E0: 80 23 8A 1C 20 80 01 BE  07 02 00 10 45 80 00 30  .#.. .......E..0
+06E0: 80 23 8A 1C 20 80 01 BE  07 02 00 10 46 80 00 30  .#.. .......F..0
 06F0: 07 42 8D 1F 80 0B 80 1C  20 80 B8 1F 80 0B 80 07  .B...... .......
-0700: 00 46 80 47 80 4F 77 61  69 6E 00 00 00 00 00 00  .F.G.Owain......
+0700: 00 47 80 48 80 4F 77 61  69 6E 00 00 00 00 00 00  .G.H.Owain......
 0710: 00 00 00 00 00 02 07 00  1A 80 03 22 07 07 07 00  ..........."....
 0720: 01 80 1C 20 80 1D 23 80  23 8A 1C 20 80 01 BE 07  ... ..#.#.. ....
-0730: 02 00 10 48 80 00 77 07  42 8D 1F 80 01 80 1C 20  ...H..w.B...... 
+0730: 02 00 10 49 80 00 77 07  42 8D 1F 80 01 80 1C 20  ...I..w.B...... 
 0740: 80 B8 1F 80 01 80 07 00  24 80 25 80 44 65 73 70  ........$.%.Desp
 0750: 61 63 68 69 61 69 72 65  00 00 00 00 02 07 00 1A  achiaire........
 0760: 80 03 69 07 07 07 00 01  80 1C 20 80 1D 23 80 23  ..i....... ..#.#
-0770: 8A 1C 20 80 01 BE 07 02  00 10 49 80 00 BE 07 42  .. .......I....B
+0770: 8A 1C 20 80 01 BE 07 02  00 10 4A 80 00 BE 07 42  .. .......J....B
 0780: 8D 1F 80 01 80 1C 20 80  B8 1F 80 01 80 07 00 24  ...... ........$
 0790: 80 25 80 44 65 73 70 61  63 68 69 61 69 72 65 00  .%.Despachiaire.
 07A0: 00 00 00 02 07 00 1A 80  03 B0 07 07 07 00 01 80  ................
 07B0: 1C 20 80 1D 23 80 23 8A  1C 20 80 01 BE 07 01 FB  . ..#.#.. ......
 07C0: 01 01 6D 08 02 00 10 0B  80 00 6D 08 03 02 10 01  ..m.......m.....
-07D0: 80 03 09 10 00 80 1D 4A  80 23 03 0B 00 01 80 02  .......J.#......
+07D0: 80 03 09 10 00 80 1D 4B  80 23 03 0B 00 01 80 02  .......K.#......
 07E0: 0B 00 00 80 02 6A 08 03  07 10 00 80 03 08 10 08  .....j..........
-07F0: 00 07 08 10 49 80 03 01  10 08 10 43 00 43 01 2E  ....I......C.C..
-0800: 24 4B 80 00 80 01 00 25  02 00 10 00 80 00 17 08  $K.....%........
+07F0: 00 07 08 10 4A 80 03 01  10 08 10 43 00 43 01 2E  ....J......C.C..
+0800: 24 4C 80 00 80 01 00 25  02 00 10 00 80 00 17 08  $L.....%........
 0810: 06 0B 00 2E 01 67 08 02  00 10 01 80 00 67 08 42  .....g.......g.B
-0820: 03 07 10 0B 80 1D 4C 80  23 8D 20 80 0B 80 1C 20  ......L.#. .... 
-0830: 80 B8 20 80 0B 80 08 00  4D 80 4E 80 3F 3F 3F 00  .. .....M.N.???.
+0820: 03 07 10 0B 80 1D 4D 80  23 8D 20 80 0B 80 1C 20  ......M.#. .... 
+0830: 80 B8 20 80 0B 80 08 00  4E 80 4F 80 3F 3F 3F 00  .. .....N.O.???.
 0840: 00 00 00 00 00 00 00 00  00 00 00 00 02 08 00 1A  ................
-0850: 80 03 59 08 07 08 00 01  80 1C 20 80 1D 4F 80 23  ..Y....... ..O.#
+0850: 80 03 59 08 07 08 00 01  80 1C 20 80 1D 50 80 23  ..Y....... ..P.#
 0860: 8A 1C 20 80 01 67 08 01  DF 07 01 6D 08 01 DC 00  .. ..g.....m....
 0870: 20 00 21 00 01 DF 08 02  00 10 01 80 00 B3 08 03   .!.............
 0880: 09 10 00 80 C8 1F 80 0B  80 01 80 8B 1F 80 0B 80  ................
-0890: 50 80 51 80 4F 6D 62 65  6C 6F 74 74 65 00 00 00  P.Q.Ombelotte...
-08A0: 00 00 00 00 1D 52 80 1C  53 80 23 8A 1C 54 80 2E  .....R..S.#..T..
+0890: 51 80 52 80 4F 6D 62 65  6C 6F 74 74 65 00 00 00  Q.R.Ombelotte...
+08A0: 00 00 00 00 1D 53 80 1C  54 80 23 8A 1C 55 80 2E  .....S..T.#..U..
 08B0: 01 DF 08 02 00 10 0B 80  00 CF 08 03 09 10 00 80  ................
-08C0: 1D 55 80 23 1D 56 80 23  1D 57 80 23 01 DF 08 02  .U.#.V.#.W.#....
+08C0: 1D 56 80 23 1D 57 80 23  1D 58 80 23 01 DF 08 02  .V.#.W.#.X.#....
 08D0: 00 10 12 80 00 DF 08 03  0E 00 01 80 01 DF 08 01  ................
 08E0: 84 00 5E 69 64 6C 30 20  00 21 00 03 09 10 01 80  ..^idl0 .!......
-08F0: 1D 58 80 23 42 C8 1F 80  0B 80 07 00 1C 20 80 8B  .X.#B........ ..
+08F0: 1D 59 80 23 42 C8 1F 80  0B 80 07 00 1C 20 80 8B  .Y.#B........ ..
 0900: 1F 80 0B 80 21 80 22 80  45 6C 79 73 69 61 00 00  ....!.".Elysia..
-0910: 00 00 00 00 00 00 00 00  1C 20 80 1D 59 80 23 8A  ......... ..Y.#.
+0910: 00 00 00 00 00 00 00 00  1C 20 80 1D 5A 80 23 8A  ......... ..Z.#.
 0920: 1C 20 80 1B                                       . ..            
 ```
 
@@ -354,7 +355,7 @@ SUBROUTINE_0033:
  17: 0x0068 [0x41] Work_Zone[4] = ExtData[1]->WorkLocal[5] (bits 6*-11*)
  18: 0x0071 [0x03] ExtData[1]->WorkLocal[15] = 0*
  19: 0x0076 [0x1E] EventEntity looks at LocalPlayer and starts talking
- 20: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=13272*)
+ 20: 0x007B [0x1D] PRINT_EVENT_MESSAGE(message_id=13273*)
     → "It's not often we get visitors to Tavnazia. My name is Ombelotte, and I'd be...happy to offer you any guidance you may need."
  21: 0x007E [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x007F [0x03] ExtData[1]->WorkLocal[14] = 0*
@@ -362,14 +363,14 @@ SUBROUTINE_0033:
 SUBROUTINE_0084:
  23: 0x0084 [0x02] IF !(ExtData[1]->WorkLocal[14] == 0*) GOTO 0x08E2
  24: 0x008C [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
- 25: 0x008D [0x24] CREATE_DIALOG(message_id=13274*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
+ 25: 0x008D [0x24] CREATE_DIALOG(message_id=13275*, default_option=0*, option_flags=ExtData[1]->WorkLocal[15])
     → "Inquire about what? [I want to find some quests!/I want a map of Tavnazia!/I have other questions./Nothing for now.]"
  26: 0x0094 [0x25] WAIT_DIALOG_SELECT()
  27: 0x0095 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0877
  28: 0x009D [0x02] IF !(ExtData[1]->WorkLocal[6] == 1*) GOTO 0x00AB
  29: 0x00A5 [0x1A] CALL_SUBROUTINE(address=0x08EB)
  30: 0x00A8 [0x01] GOTO 0x0870
- 31: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13282*)
+ 31: 0x00AB [0x1D] PRINT_EVENT_MESSAGE(message_id=13283*)
     → "Tavnazia may look safe, but there are always people who need an adventurer's aid. Would you like me to find some such people?"
  32: 0x00AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x00AF [0x02] IF !(ExtData[1]->WorkLocal[0] == 4294967295*) GOTO 0x00C3
@@ -391,68 +392,68 @@ SUBROUTINE_00DC:
  47: 0x0112 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=Work_Zone[2], bit_index_work_offset=2*, condition_work_offset=1*)
  48: 0x0119 [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
  49: 0x011A [0x03] Work_Zone[9] = 0*
- 50: 0x011F [0x24] CREATE_DIALOG(message_id=13288*, default_option=0*, option_flags=Work_Zone[2])
+ 50: 0x011F [0x24] CREATE_DIALOG(message_id=13289*, default_option=0*, option_flags=Work_Zone[2])
     → "Inquire about which locale? [None./Tavnazia: $1 individual[/s]./Other: $2 individual[/s].]"
  51: 0x0126 [0x25] WAIT_DIALOG_SELECT()
  52: 0x0127 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01E5
  53: 0x012F [0x06] ExtData[1]->WorkLocal[12] = 0
  54: 0x0132 [0x03] Work_Zone[9] = 0*
- 55: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=13306*)
+ 55: 0x0137 [0x1D] PRINT_EVENT_MESSAGE(message_id=13307*)
     → "There's still one other thing remaining to share with you."
  56: 0x013A [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x013B [0x13] ExtData[1]->WorkLocal[13] = rand() % 10*
  58: 0x0140 [0x02] IF !(ExtData[1]->WorkLocal[13] == 0*) GOTO 0x014F
- 59: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=13310*)
+ 59: 0x0148 [0x1D] PRINT_EVENT_MESSAGE(message_id=13311*)
     → "There's some special crystal nodes known as "home points" that'll undoubtedly serve you well. Don't forget to interact with all that you find, as they can help you get to far away places."
  60: 0x014B [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x014C [0x01] GOTO 0x01E2
  62: 0x014F [0x02] IF !(ExtData[1]->WorkLocal[13] == 1*) GOTO 0x015E
- 63: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=13314*)
+ 63: 0x0157 [0x1D] PRINT_EVENT_MESSAGE(message_id=13315*)
     → "Did you know that some vendors will sell you maps of specific areas? It sure beats stumbling around like a dullard!"
  64: 0x015A [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x015B [0x01] GOTO 0x01E2
  66: 0x015E [0x02] IF !(ExtData[1]->WorkLocal[13] == 2*) GOTO 0x016D
- 67: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=13318*)
+ 67: 0x0166 [0x1D] PRINT_EVENT_MESSAGE(message_id=13319*)
     → "If there's something you've got that you don't need, try putting it up at the auction house rather than selling it to some unscrupulous vendor."
  68: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x016A [0x01] GOTO 0x01E2
  70: 0x016D [0x02] IF !(ExtData[1]->WorkLocal[13] == 3*) GOTO 0x017C
- 71: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=13322*)
+ 71: 0x0175 [0x1D] PRINT_EVENT_MESSAGE(message_id=13323*)
     → "Undead are always out for blood and brains, so watch out if you're low on health! They'll make a beeline right for you."
  72: 0x0178 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0179 [0x01] GOTO 0x01E2
  74: 0x017C [0x02] IF !(ExtData[1]->WorkLocal[13] == 4*) GOTO 0x018B
- 75: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=13326*)
+ 75: 0x0184 [0x1D] PRINT_EVENT_MESSAGE(message_id=13327*)
     → "Increasing your strength (STR) enhances your attack power, but unfortunately does nothing for the efficacy of your magic."
  76: 0x0187 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0188 [0x01] GOTO 0x01E2
  78: 0x018B [0x02] IF !(ExtData[1]->WorkLocal[13] == 5*) GOTO 0x019A
- 79: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=13330*)
+ 79: 0x0193 [0x1D] PRINT_EVENT_MESSAGE(message_id=13331*)
     → "Increasing your dexterity (DEX) enhances attributes such as accuracy and critical hit rate."
  80: 0x0196 [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x0197 [0x01] GOTO 0x01E2
  82: 0x019A [0x02] IF !(ExtData[1]->WorkLocal[13] == 6*) GOTO 0x01A9
- 83: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13334*)
+ 83: 0x01A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13335*)
     → "Increasing your vitality (VIT) enhances attributes such as physical defense and restorative abilities such as cure."
  84: 0x01A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  85: 0x01A6 [0x01] GOTO 0x01E2
  86: 0x01A9 [0x02] IF !(ExtData[1]->WorkLocal[13] == 7*) GOTO 0x01B8
- 87: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13338*)
+ 87: 0x01B1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13339*)
     → "Increasing your agility (AGI) enhances attributes such as physical evasion and ranged accuracy. It also decreases enemies' critical hit evasion."
  88: 0x01B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  89: 0x01B5 [0x01] GOTO 0x01E2
  90: 0x01B8 [0x02] IF !(ExtData[1]->WorkLocal[13] == 8*) GOTO 0x01C7
- 91: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13342*)
+ 91: 0x01C0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13343*)
     → "Increasing your intelligence (INT) enhances attributes such as the accuracy and damage of your elemental magic spells."
  92: 0x01C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x01C4 [0x01] GOTO 0x01E2
  94: 0x01C7 [0x02] IF !(ExtData[1]->WorkLocal[13] == 9*) GOTO 0x01D6
- 95: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=13346*)
+ 95: 0x01CF [0x1D] PRINT_EVENT_MESSAGE(message_id=13347*)
     → "Increasing your mind (MND) enhances attributes such as the potency of healing spells and the accuracy of white magic spells."
  96: 0x01D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x01D3 [0x01] GOTO 0x01E2
  98: 0x01D6 [0x02] IF !(ExtData[1]->WorkLocal[13] == 10*) GOTO 0x01E2
- 99: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=13350*)
+ 99: 0x01DE [0x1D] PRINT_EVENT_MESSAGE(message_id=13351*)
     → "Increasing your charisma (CHR) enhances attributes such as the effectiveness of the beastmaster ability "charm" and the accuracy of bards' songs."
 100: 0x01E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -460,7 +461,7 @@ SUBROUTINE_01E2:
 101: 0x01E2 [0x01] GOTO 0x086D
 102: 0x01E5 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x07C4
 103: 0x01ED [0x03] Work_Zone[2] = 0*
-104: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13289*)
+104: 0x01F2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13290*)
     → "The following people in Tavnazia may have some tasks for you."
 105: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x01F6 [0x03] ExtData[1]->WorkLocal[11] = 1*
@@ -474,7 +475,7 @@ SUBROUTINE_01FB:
 112: 0x0214 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 113: 0x0216 [0x03] Work_Zone[9] = 0*
 114: 0x021B [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-115: 0x021C [0x24] CREATE_DIALOG(message_id=13293*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
+115: 0x021C [0x24] CREATE_DIALOG(message_id=13294*, default_option=0*, option_flags=ExtData[1]->WorkLocal[0])
     → "Who will you go see in Tavnazia? [No one./Elysia./Despachiaire./Anteurephiaux./Frescheque./Ferchinne./Enaremand./Ondieulix./Travonce./Jonette./Enaremand./Tressia./Despachiaire./Quelveuiat./Nivorajean./Epinolle./Yurim./Justinius./Owain./Despachiaire./Despachiaire.]"
 116: 0x0223 [0x25] WAIT_DIALOG_SELECT()
 117: 0x0224 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0232
@@ -488,7 +489,7 @@ SUBROUTINE_01FB:
 125: 0x025E [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x026B
 126: 0x0266 [0x07] ExtData[1]->WorkLocal[7] += 1*
 127: 0x026B [0x1C] WAIT(30* ticks)
-128: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+128: 0x026E [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 129: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0272 [0x8A] CLOSE_MAP()
@@ -502,7 +503,7 @@ SUBROUTINE_01FB:
 138: 0x02A5 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x02B2
 139: 0x02AD [0x07] ExtData[1]->WorkLocal[7] += 1*
 140: 0x02B2 [0x1C] WAIT(30* ticks)
-141: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+141: 0x02B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 142: 0x02B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x02B9 [0x8A] CLOSE_MAP()
@@ -516,7 +517,7 @@ SUBROUTINE_01FB:
 151: 0x02EC [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x02F9
 152: 0x02F4 [0x07] ExtData[1]->WorkLocal[7] += 1*
 153: 0x02F9 [0x1C] WAIT(30* ticks)
-154: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+154: 0x02FC [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 155: 0x02FF [0x23] WAIT_FOR_DIALOG_INTERACTION
 156: 0x0300 [0x8A] CLOSE_MAP()
@@ -530,7 +531,7 @@ SUBROUTINE_01FB:
 164: 0x0333 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0340
 165: 0x033B [0x07] ExtData[1]->WorkLocal[7] += 1*
 166: 0x0340 [0x1C] WAIT(30* ticks)
-167: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+167: 0x0343 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 168: 0x0346 [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0347 [0x8A] CLOSE_MAP()
@@ -544,7 +545,7 @@ SUBROUTINE_01FB:
 177: 0x037A [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0387
 178: 0x0382 [0x07] ExtData[1]->WorkLocal[7] += 1*
 179: 0x0387 [0x1C] WAIT(30* ticks)
-180: 0x038A [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+180: 0x038A [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 181: 0x038D [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x038E [0x8A] CLOSE_MAP()
@@ -558,7 +559,7 @@ SUBROUTINE_01FB:
 190: 0x03C1 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x03CE
 191: 0x03C9 [0x07] ExtData[1]->WorkLocal[7] += 1*
 192: 0x03CE [0x1C] WAIT(30* ticks)
-193: 0x03D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+193: 0x03D1 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 194: 0x03D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 195: 0x03D5 [0x8A] CLOSE_MAP()
@@ -572,7 +573,7 @@ SUBROUTINE_01FB:
 203: 0x0408 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0415
 204: 0x0410 [0x07] ExtData[1]->WorkLocal[7] += 1*
 205: 0x0415 [0x1C] WAIT(30* ticks)
-206: 0x0418 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+206: 0x0418 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 207: 0x041B [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x041C [0x8A] CLOSE_MAP()
@@ -586,7 +587,7 @@ SUBROUTINE_01FB:
 216: 0x044F [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x045C
 217: 0x0457 [0x07] ExtData[1]->WorkLocal[7] += 1*
 218: 0x045C [0x1C] WAIT(30* ticks)
-219: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+219: 0x045F [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 220: 0x0462 [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0463 [0x8A] CLOSE_MAP()
@@ -600,7 +601,7 @@ SUBROUTINE_01FB:
 229: 0x0496 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x04A3
 230: 0x049E [0x07] ExtData[1]->WorkLocal[7] += 1*
 231: 0x04A3 [0x1C] WAIT(30* ticks)
-232: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+232: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 233: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 234: 0x04AA [0x8A] CLOSE_MAP()
@@ -614,7 +615,7 @@ SUBROUTINE_01FB:
 242: 0x04DD [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x04EA
 243: 0x04E5 [0x07] ExtData[1]->WorkLocal[7] += 1*
 244: 0x04EA [0x1C] WAIT(30* ticks)
-245: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+245: 0x04ED [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 246: 0x04F0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 247: 0x04F1 [0x8A] CLOSE_MAP()
@@ -628,7 +629,7 @@ SUBROUTINE_01FB:
 255: 0x0524 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0531
 256: 0x052C [0x07] ExtData[1]->WorkLocal[7] += 1*
 257: 0x0531 [0x1C] WAIT(30* ticks)
-258: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+258: 0x0534 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 259: 0x0537 [0x23] WAIT_FOR_DIALOG_INTERACTION
 260: 0x0538 [0x8A] CLOSE_MAP()
@@ -642,7 +643,7 @@ SUBROUTINE_01FB:
 268: 0x056B [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0578
 269: 0x0573 [0x07] ExtData[1]->WorkLocal[7] += 1*
 270: 0x0578 [0x1C] WAIT(30* ticks)
-271: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+271: 0x057B [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 272: 0x057E [0x23] WAIT_FOR_DIALOG_INTERACTION
 273: 0x057F [0x8A] CLOSE_MAP()
@@ -656,7 +657,7 @@ SUBROUTINE_01FB:
 281: 0x05B2 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x05BF
 282: 0x05BA [0x07] ExtData[1]->WorkLocal[7] += 1*
 283: 0x05BF [0x1C] WAIT(30* ticks)
-284: 0x05C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+284: 0x05C2 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 285: 0x05C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 286: 0x05C6 [0x8A] CLOSE_MAP()
@@ -670,7 +671,7 @@ SUBROUTINE_01FB:
 294: 0x05F9 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0606
 295: 0x0601 [0x07] ExtData[1]->WorkLocal[7] += 1*
 296: 0x0606 [0x1C] WAIT(30* ticks)
-297: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+297: 0x0609 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 298: 0x060C [0x23] WAIT_FOR_DIALOG_INTERACTION
 299: 0x060D [0x8A] CLOSE_MAP()
@@ -684,7 +685,7 @@ SUBROUTINE_01FB:
 307: 0x0640 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x064D
 308: 0x0648 [0x07] ExtData[1]->WorkLocal[7] += 1*
 309: 0x064D [0x1C] WAIT(30* ticks)
-310: 0x0650 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+310: 0x0650 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 311: 0x0653 [0x23] WAIT_FOR_DIALOG_INTERACTION
 312: 0x0654 [0x8A] CLOSE_MAP()
@@ -698,7 +699,7 @@ SUBROUTINE_01FB:
 320: 0x0687 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0694
 321: 0x068F [0x07] ExtData[1]->WorkLocal[7] += 1*
 322: 0x0694 [0x1C] WAIT(30* ticks)
-323: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+323: 0x0697 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 324: 0x069A [0x23] WAIT_FOR_DIALOG_INTERACTION
 325: 0x069B [0x8A] CLOSE_MAP()
@@ -712,7 +713,7 @@ SUBROUTINE_01FB:
 333: 0x06CE [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x06DB
 334: 0x06D6 [0x07] ExtData[1]->WorkLocal[7] += 1*
 335: 0x06DB [0x1C] WAIT(30* ticks)
-336: 0x06DE [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+336: 0x06DE [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 337: 0x06E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 338: 0x06E2 [0x8A] CLOSE_MAP()
@@ -726,7 +727,7 @@ SUBROUTINE_01FB:
 346: 0x0715 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0722
 347: 0x071D [0x07] ExtData[1]->WorkLocal[7] += 1*
 348: 0x0722 [0x1C] WAIT(30* ticks)
-349: 0x0725 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+349: 0x0725 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 350: 0x0728 [0x23] WAIT_FOR_DIALOG_INTERACTION
 351: 0x0729 [0x8A] CLOSE_MAP()
@@ -740,7 +741,7 @@ SUBROUTINE_01FB:
 359: 0x075C [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x0769
 360: 0x0764 [0x07] ExtData[1]->WorkLocal[7] += 1*
 361: 0x0769 [0x1C] WAIT(30* ticks)
-362: 0x076C [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+362: 0x076C [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 363: 0x076F [0x23] WAIT_FOR_DIALOG_INTERACTION
 364: 0x0770 [0x8A] CLOSE_MAP()
@@ -754,7 +755,7 @@ SUBROUTINE_01FB:
 372: 0x07A3 [0x02] IF !(ExtData[1]->WorkLocal[7] >= 9*) GOTO 0x07B0
 373: 0x07AB [0x07] ExtData[1]->WorkLocal[7] += 1*
 374: 0x07B0 [0x1C] WAIT(30* ticks)
-375: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13300*)
+375: 0x07B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
     → "I'll mark that person's location on your map to make finding them easier. Never forget how useful your map can be!"
 376: 0x07B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 377: 0x07B7 [0x8A] CLOSE_MAP()
@@ -767,7 +768,7 @@ SUBROUTINE_07BE:
 382: 0x07C4 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x086D
 383: 0x07CC [0x03] Work_Zone[2] = 1*
 384: 0x07D1 [0x03] Work_Zone[9] = 0*
-385: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13286*)
+385: 0x07D6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13287*)
     → "Outside of town, you might be able to get work from one of the people I'm about to list for you."
 386: 0x07D9 [0x23] WAIT_FOR_DIALOG_INTERACTION
 387: 0x07DA [0x03] ExtData[1]->WorkLocal[11] = 1*
@@ -781,7 +782,7 @@ SUBROUTINE_07DF:
 393: 0x07FB [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 394: 0x07FD [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 395: 0x07FF [0x2E] SET_CLI_EVENT_CANCEL_FLAGS()
-396: 0x0800 [0x24] CREATE_DIALOG(message_id=13294*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
+396: 0x0800 [0x24] CREATE_DIALOG(message_id=13295*, default_option=0*, option_flags=ExtData[1]->WorkLocal[1])
     → "Who will you go see? [No one./Someone someplace special.]"
 397: 0x0807 [0x25] WAIT_DIALOG_SELECT()
 398: 0x0808 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0817
@@ -791,7 +792,7 @@ SUBROUTINE_07DF:
 402: 0x0817 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0867
 403: 0x081F [0x42] SET_CLI_EVENT_CANCEL_DATA()
 404: 0x0820 [0x03] Work_Zone[7] = 2*
-405: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=13287*)
+405: 0x0825 [0x1D] PRINT_EVENT_MESSAGE(message_id=13288*)
     → "You can find them in [Pashhow Marshlands/Carpenter's Landing deep in Northern San d'Oria/Riverne-Site #A01 in Tavnazia/Uleguerand Range/Oldton Movalpolos deep in North Gustaberg/Xarcabard/Boneyard Gully deep in Attohwa Chasm/La Theine Plateau/Monastic Cavern in Davoi/Qulun Dome in Beadeaux/The Altar Room in Castle Oztroja/Past Pashhow Marshlands]."
 406: 0x0828 [0x23] WAIT_FOR_DIALOG_INTERACTION
 407: 0x0829 [0x8D] OPEN_MAP_WITH_PROPERTIES(map_id=30*, properties=2*)
@@ -800,7 +801,7 @@ SUBROUTINE_07DF:
 410: 0x084C [0x02] IF !(ExtData[1]->WorkLocal[8] >= 9*) GOTO 0x0859
 411: 0x0854 [0x07] ExtData[1]->WorkLocal[8] += 1*
 412: 0x0859 [0x1C] WAIT(30* ticks)
-413: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=13301*)
+413: 0x085C [0x1D] PRINT_EVENT_MESSAGE(message_id=13302*)
     → "Someplace special, hmm? Well, it wouldn't do for you to get lost along the way, so let me mark that spot on your map."
 414: 0x085F [0x23] WAIT_FOR_DIALOG_INTERACTION
 415: 0x0860 [0x8A] CLOSE_MAP()
@@ -828,7 +829,7 @@ SUBROUTINE_08DF:
 
 SUBROUTINE_08EB:
 429: 0x08EB [0x03] Work_Zone[9] = 1*
-430: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13279*)
+430: 0x08F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=13280*)
     → "Bring me a map of Tavnazia, and I can mark some places that'll help set you on the right path."
 431: 0x08F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 432: 0x08F4 [0x42] SET_CLI_EVENT_CANCEL_DATA()
@@ -837,7 +838,7 @@ SUBROUTINE_08EB:
 435: 0x08FF [0x8B] SET_EVENT_MARK: Add/update map marker on map 26* at (-50.482*, -41.695*), index=2*, name=(no name)
 436: 0x0908 [0x45] LOAD_SCHEDULED_TASK: Load scheduler 0x00000000 with entities [Unknown NPC (ID: 6383987/0x00616973), Unknown NPC (ID: 0/0x00000000)], work=[0x796C, 0x1C00]
 437: 0x0919 [0x20] SET_CLI_EVENT_UC_FLAG: Unknown flag value 0x80
-438: 0x091B [0x1D] PRINT_EVENT_MESSAGE(message_id=13280*)
+438: 0x091B [0x1D] PRINT_EVENT_MESSAGE(message_id=13281*)
     → "You know who can help you procure a map? Elysia--provided you help her out. Let me show you where she is."
 439: 0x091E [0x23] WAIT_FOR_DIALOG_INTERACTION
 440: 0x091F [0x8A] CLOSE_MAP()
@@ -851,7 +852,7 @@ SUBROUTINE_08EB:
 # Dead code (unreachable instructions):
      0x0874 [0x01] GOTO 0x08DF
      0x08A3 [0x00] END_REQSTACK()
-     0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13302*)
+     0x08A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=13303*)
     → "Be sure to take a good look!"
      0x08A7 [0x1C] WAIT(90* ticks)
      0x08AA [0x23] WAIT_FOR_DIALOG_INTERACTION

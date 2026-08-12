@@ -25,43 +25,43 @@
 |---------|-------------|-------------|
 |       0 | 0x0000      |           0 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x280F      |       10255 |
-|       3 | 0x2810      |       10256 |
-|       4 | 0x2811      |       10257 |
+|       2 | 0x2810      |       10256 |
+|       3 | 0x2811      |       10257 |
+|       4 | 0x2812      |       10258 |
 |       5 | 0x003C      |          60 |
 |       6 | 0x0001      |           1 |
 |       7 | 0x019C      |         412 |
-|       8 | 0x2812      |       10258 |
-|       9 | 0x2813      |       10259 |
+|       8 | 0x2813      |       10259 |
+|       9 | 0x2814      |       10260 |
 |      10 | 0x408A      |       16522 |
-|      11 | 0x2814      |       10260 |
-|      12 | 0x2815      |       10261 |
+|      11 | 0x2815      |       10261 |
+|      12 | 0x2816      |       10262 |
 |      13 | 0x40000000  |  1073741824 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x2816      |       10262 |
+|      15 | 0x2817      |       10263 |
 |      16 | 0x0003      |           3 |
-|      17 | 0x2818      |       10264 |
-|      18 | 0x2817      |       10263 |
+|      17 | 0x2819      |       10265 |
+|      18 | 0x2818      |       10264 |
 |      19 | 0x00C9      |         201 |
-|      20 | 0x281B      |       10267 |
-|      21 | 0x2706      |        9990 |
-|      22 | 0x2707      |        9991 |
+|      20 | 0x281C      |       10268 |
+|      21 | 0x2707      |        9991 |
+|      22 | 0x2708      |        9992 |
 
 ## String References
 
-- **9990**: The petition is now complete.
-- **9991**: You have $0 more [signature/signatures] to go.
-- **10255**: This monument was built at the end of the war...as a reminder that nobody should suffer like that ever again.
-- **10256**: And now, people forget the mistakes of the past and quarrel all over again. I bet this is the only place where that promise is still remembered.
-- **10257**: I want somebody to take this map I got in the north and stave off impending disaster, but you don't look ready for such a task.
-- **10258**: Maybe you can take this $3 I got in the north, and stave off impending disaster... Do you think you've got what it takes?
-- **10259**: What do you say? [I can do it./Not now.]
-- **10260**: I knew you were the one! Now bring me $2 and show me what you're made of!
-- **10261**: Well, that's a bummer. I thought you just might be the one!
-- **10262**: Bring me $2. I'm counting on you!
-- **10263**: Good job! I knew you could do it. But be on your guard.
-- **10264**: Don't forget our vow here. Remember how precious peace is.
-- **10267**: Well, if they can tear down the clock tower, who knows what they'll do to the monument? Quick, where do I sign?
+- **9991**: The petition is now complete.
+- **9992**: You have $0 more [signature/signatures] to go.
+- **10256**: This monument was built at the end of the war...as a reminder that nobody should suffer like that ever again.
+- **10257**: And now, people forget the mistakes of the past and quarrel all over again. I bet this is the only place where that promise is still remembered.
+- **10258**: I want somebody to take this map I got in the north and stave off impending disaster, but you don't look ready for such a task.
+- **10259**: Maybe you can take this $3 I got in the north, and stave off impending disaster... Do you think you've got what it takes?
+- **10260**: What do you say? [I can do it./Not now.]
+- **10261**: I knew you were the one! Now bring me $2 and show me what you're made of!
+- **10262**: Well, that's a bummer. I thought you just might be the one!
+- **10263**: Bring me $2. I'm counting on you!
+- **10264**: Good job! I knew you could do it. But be on your guard.
+- **10265**: Don't forget our vow here. Remember how precious peace is.
+- **10268**: Well, if they can tear down the clock tower, who knows what they'll do to the monument? Quick, where do I sign?
 
 ## Events
 
@@ -128,13 +128,13 @@
   3: 0x000C [0x06] Work_Zone[1] = 0
   4: 0x000F [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x003D
   5: 0x0017 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10255*)
+  6: 0x0026 [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
     → "This monument was built at the end of the war...as a reminder that nobody should suffer like that ever again."
   7: 0x0029 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10256*)
+  8: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
     → "And now, people forget the mistakes of the past and quarrel all over again. I bet this is the only place where that promise is still remembered."
   9: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=10257*)
+ 10: 0x002E [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
     → "I want somebody to take this map I got in the north and stave off impending disaster, but you don't look ready for such a task."
  11: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0032 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -144,23 +144,23 @@
  16: 0x0045 [0x42] SET_CLI_EVENT_CANCEL_DATA()
  17: 0x0046 [0x03] Work_Zone[3] = 412*
  18: 0x004B [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=30*
- 19: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=10258*)
+ 19: 0x005A [0x1D] PRINT_EVENT_MESSAGE(message_id=10259*)
     → "Maybe you can take this $3 I got in the north, and stave off impending disaster... Do you think you've got what it takes?"
  20: 0x005D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 21: 0x005E [0x24] CREATE_DIALOG(message_id=10259*, default_option=1*, option_flags=0*)
+ 21: 0x005E [0x24] CREATE_DIALOG(message_id=10260*, default_option=1*, option_flags=0*)
     → "What do you say? [I can do it./Not now.]"
  22: 0x0065 [0x25] WAIT_DIALOG_SELECT()
  23: 0x0066 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x008E
  24: 0x006E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=30*
  25: 0x007D [0x03] Work_Zone[4] = 16522*
- 26: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=10260*)
+ 26: 0x0082 [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
     → "I knew you were the one! Now bring me $2 and show me what you're made of!"
  27: 0x0085 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0086 [0x03] Work_Zone[1] = 1*
  29: 0x008B [0x01] GOTO 0x00B1
  30: 0x008E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x00B1
  31: 0x0096 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=30*
- 32: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10261*)
+ 32: 0x00A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
     → "Well, that's a bummer. I thought you just might be the one!"
  33: 0x00A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00A9 [0x03] Work_Zone[1] = 1073741824*
@@ -171,7 +171,7 @@ SUBROUTINE_00B1:
  37: 0x00B4 [0x02] IF !(Work_Zone[2] == 2*) GOTO 0x00DF
  38: 0x00BC [0x03] Work_Zone[4] = 16522*
  39: 0x00C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 40: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10262*)
+ 40: 0x00D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
     → "Bring me $2. I'm counting on you!"
  41: 0x00D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x00D4 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -179,7 +179,7 @@ SUBROUTINE_00B1:
  44: 0x00DC [0x01] GOTO 0x0105
  45: 0x00DF [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x0105
  46: 0x00E7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
- 47: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
+ 47: 0x00F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10265*)
     → "Don't forget our vow here. Remember how precious peace is."
  48: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  49: 0x00FA [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -219,7 +219,7 @@ SUBROUTINE_0105:
   3: 0x010F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0110 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0111 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10263*)
+  6: 0x0120 [0x1D] PRINT_EVENT_MESSAGE(message_id=10264*)
     → "Good job! I knew you could do it. But be on your guard."
   7: 0x0123 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0124 [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
@@ -258,15 +258,15 @@ SUBROUTINE_0105:
   3: 0x0147 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   4: 0x0148 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   5: 0x0149 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=30*
-  6: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=10267*)
+  6: 0x0158 [0x1D] PRINT_EVENT_MESSAGE(message_id=10268*)
     → "Well, if they can tear down the clock tower, who knows what they'll do to the monument? Quick, where do I sign?"
   7: 0x015B [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x015C [0x02] IF !(Work_Zone[2] == 0*) GOTO 0x016B
-  9: 0x0164 [0x48] [System] [9990*]:
+  9: 0x0164 [0x48] [System] [9991*]:
     → "The petition is now complete."
  10: 0x0167 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x0168 [0x01] GOTO 0x016F
- 12: 0x016B [0x48] [System] [9991*]:
+ 12: 0x016B [0x48] [System] [9992*]:
     → "You have $0 more [signature/signatures] to go."
  13: 0x016E [0x23] WAIT_FOR_DIALOG_INTERACTION
 

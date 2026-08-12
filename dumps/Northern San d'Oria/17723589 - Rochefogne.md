@@ -110,41 +110,41 @@
 |      11 | 0xFFFFFA88  |  4294965896 |
 |      12 | 0xFFFFDDBB  |  4294958523 |
 |      13 | 0x282F      |       10287 |
-|      14 | 0x30DC      |       12508 |
-|      15 | 0x30DD      |       12509 |
-|      16 | 0x30DE      |       12510 |
-|      17 | 0x30DF      |       12511 |
-|      18 | 0x30E0      |       12512 |
-|      19 | 0x30E1      |       12513 |
-|      20 | 0x30E3      |       12515 |
-|      21 | 0x30E4      |       12516 |
-|      22 | 0x30E6      |       12518 |
-|      23 | 0x30E7      |       12519 |
-|      24 | 0x30E8      |       12520 |
+|      14 | 0x30DD      |       12509 |
+|      15 | 0x30DE      |       12510 |
+|      16 | 0x30DF      |       12511 |
+|      17 | 0x30E0      |       12512 |
+|      18 | 0x30E1      |       12513 |
+|      19 | 0x30E2      |       12514 |
+|      20 | 0x30E4      |       12516 |
+|      21 | 0x30E5      |       12517 |
+|      22 | 0x30E7      |       12519 |
+|      23 | 0x30E8      |       12520 |
+|      24 | 0x30E9      |       12521 |
 |      25 | 0x0006      |           6 |
-|      26 | 0x30E9      |       12521 |
-|      27 | 0x30EB      |       12523 |
-|      28 | 0x30EC      |       12524 |
-|      29 | 0x30ED      |       12525 |
-|      30 | 0x30EE      |       12526 |
-|      31 | 0x30EF      |       12527 |
-|      32 | 0x30F1      |       12529 |
-|      33 | 0x30F3      |       12531 |
-|      34 | 0x30F4      |       12532 |
-|      35 | 0x30F5      |       12533 |
-|      36 | 0x30F7      |       12535 |
-|      37 | 0x30FA      |       12538 |
-|      38 | 0x30FC      |       12540 |
-|      39 | 0x30FD      |       12541 |
-|      40 | 0x30FF      |       12543 |
-|      41 | 0x3100      |       12544 |
-|      42 | 0x3101      |       12545 |
-|      43 | 0x3102      |       12546 |
-|      44 | 0x3103      |       12547 |
-|      45 | 0x3107      |       12551 |
-|      46 | 0x3108      |       12552 |
-|      47 | 0x3109      |       12553 |
-|      48 | 0x310A      |       12554 |
+|      26 | 0x30EA      |       12522 |
+|      27 | 0x30EC      |       12524 |
+|      28 | 0x30ED      |       12525 |
+|      29 | 0x30EE      |       12526 |
+|      30 | 0x30EF      |       12527 |
+|      31 | 0x30F0      |       12528 |
+|      32 | 0x30F2      |       12530 |
+|      33 | 0x30F4      |       12532 |
+|      34 | 0x30F5      |       12533 |
+|      35 | 0x30F6      |       12534 |
+|      36 | 0x30F8      |       12536 |
+|      37 | 0x30FB      |       12539 |
+|      38 | 0x30FD      |       12541 |
+|      39 | 0x30FE      |       12542 |
+|      40 | 0x3100      |       12544 |
+|      41 | 0x3101      |       12545 |
+|      42 | 0x3102      |       12546 |
+|      43 | 0x3103      |       12547 |
+|      44 | 0x3104      |       12548 |
+|      45 | 0x3108      |       12552 |
+|      46 | 0x3109      |       12553 |
+|      47 | 0x310A      |       12554 |
+|      48 | 0x310B      |       12555 |
 |      49 | 0xFFFC6858  |  4294731864 |
 |      50 | 0xE56E      |       58734 |
 |      51 | 0x1F3F      |        7999 |
@@ -157,11 +157,11 @@
 |      58 | 0xDE46      |       56902 |
 |      59 | 0xFFFC5EAE  |  4294729390 |
 |      60 | 0xBF2A      |       48938 |
-|      61 | 0x3133      |       12595 |
-|      62 | 0x3134      |       12596 |
-|      63 | 0x3136      |       12598 |
-|      64 | 0x313B      |       12603 |
-|      65 | 0x313E      |       12606 |
+|      61 | 0x3134      |       12596 |
+|      62 | 0x3135      |       12597 |
+|      63 | 0x3137      |       12599 |
+|      64 | 0x313C      |       12604 |
+|      65 | 0x313F      |       12607 |
 |      66 | 0x16DDE     |       93662 |
 |      67 | 0x1314E     |       78158 |
 |      68 | 0x06D5      |        1749 |
@@ -176,45 +176,45 @@
 
 ## String References
 
-- **12508**: Say, are you an adventurer?
-- **12509**: My name is Rochefogne, and I am an adventurer, too. I have just arrived at San d'Oria...
-- **12510**: And already I am struck at how little has changed! Time has no dominion over this city.
-- **12511**: Can you see the great cathedral yonder? Faithful San d'Orians gather there still in worship to the Goddess of the Dawn.
-- **12512**: And behold its balcony! Could the papsque still rise there to grant benedictions?
-- **12513**: Hmm? And they must be Royal Knights...
-- **12515**: You, too, must learn the difference between the Temple Knights and the Royal Knights, if you are to bear San d'Orian citizenship!
-- **12516**: The Temple Knights shield the capital, while the Royal Knights strike at our foes!
-- **12518**: Yes, Trion... Of him I have heard naught for ages. I do hope the princes are well.
-- **12519**: And Princess Claidie! Fair is said to be the younger sister of Trion and Pieuje. Perhaps someday I may meet her!
-- **12520**: But, I ramble. Many pardons!
-- **12521**: So long have I been away that my head races. Please, let me hear your questions.
-- **12523**: Should you wish to leave the city from here in Northern San d'Oria, you must pass through Ranperre Gate to the west.
-- **12524**: You surely must have a map of this city, but hear my directions anyway.
-- **12525**: First, walk west from the Parade Grounds upon which we now stand.
-- **12526**: Pass through the gate, and follow the road past the furniture shop and the inn.
-- **12527**: Take the gate on your left, and make another left down the stairs. Soon Ranperre Gate will rise before you.
-- **12529**: For weaponry, ask at the weapon shop in the northwest corner of Northern San d'Oria. Upon your map is written a sword. That is the place.
-- **12531**: If you seek magic, go northwest. Near the Carpenters' Guild is the gate that opens to Port San d'Oria. Look for a scroll on your map to find the magic shop.
-- **12532**: For money, townsfolk may give you a reward for helping them. You could also hunt monsters and sell the bounty to merchants in town.
-- **12533**: Spoken like an adventurer! What do you seek to know?
-- **12535**: Helping people, eh? Come to think of it, I saw a lady pacing back and forth before a house in Southern San d'Oria.
-- **12538**: You seem confident of yourself. I am much relieved.
-- **12540**: Maybe you could instead? Walk through Victory Arch behind you to enter Southern San d'Oria. Then, head west to reach the Tanners' Guild.
-- **12541**: New weapons and armor can cost a fortune.
-- **12543**: Laborman's Way lies north-west of us. Pass the furniture shop and the inn, and take the gate on the right. Laborman's Way opens beneath it.
-- **12544**: To further San d'Oria's glory, you should undertake missions given from the gatehouses.
-- **12545**: They do not pay, but you can earn rank points as proof of your contributions to our kingdom.
-- **12546**: With enough rank points, your rank will rise.
-- **12547**: And with higher rank comes greater opportunity. Those of high rank are granted tasks that decide the fate of the Kingdom!
-- **12551**: Oh, before I forget... I give you this for your journeys. Show it to Matildie, who stands before the drawbridge to Chateau d'Oraguille.
-- **12552**: However, know you of our tradition regarding the bequeathal of objects? Ere giving to others, we open the main menu and select "Trade."
-- **12553**: Do not hesitate to ask other adventurers for help.
-- **12554**: Now, I must go and seek entrance to the castle. May we meet again, <Player>!
-- **12595**: Lord knight, forgive this interruption, but there is something I must ask of you.
-- **12596**: I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?
-- **12598**: Please, I have traveled from afar to see Her Highness!
-- **12603**: Er...
-- **12606**: Is that so? Well, I thank you for your kindness, proud knight of San d'Oria.
+- **12509**: Say, are you an adventurer?
+- **12510**: My name is Rochefogne, and I am an adventurer, too. I have just arrived at San d'Oria...
+- **12511**: And already I am struck at how little has changed! Time has no dominion over this city.
+- **12512**: Can you see the great cathedral yonder? Faithful San d'Orians gather there still in worship to the Goddess of the Dawn.
+- **12513**: And behold its balcony! Could the papsque still rise there to grant benedictions?
+- **12514**: Hmm? And they must be Royal Knights...
+- **12516**: You, too, must learn the difference between the Temple Knights and the Royal Knights, if you are to bear San d'Orian citizenship!
+- **12517**: The Temple Knights shield the capital, while the Royal Knights strike at our foes!
+- **12519**: Yes, Trion... Of him I have heard naught for ages. I do hope the princes are well.
+- **12520**: And Princess Claidie! Fair is said to be the younger sister of Trion and Pieuje. Perhaps someday I may meet her!
+- **12521**: But, I ramble. Many pardons!
+- **12522**: So long have I been away that my head races. Please, let me hear your questions.
+- **12524**: Should you wish to leave the city from here in Northern San d'Oria, you must pass through Ranperre Gate to the west.
+- **12525**: You surely must have a map of this city, but hear my directions anyway.
+- **12526**: First, walk west from the Parade Grounds upon which we now stand.
+- **12527**: Pass through the gate, and follow the road past the furniture shop and the inn.
+- **12528**: Take the gate on your left, and make another left down the stairs. Soon Ranperre Gate will rise before you.
+- **12530**: For weaponry, ask at the weapon shop in the northwest corner of Northern San d'Oria. Upon your map is written a sword. That is the place.
+- **12532**: If you seek magic, go northwest. Near the Carpenters' Guild is the gate that opens to Port San d'Oria. Look for a scroll on your map to find the magic shop.
+- **12533**: For money, townsfolk may give you a reward for helping them. You could also hunt monsters and sell the bounty to merchants in town.
+- **12534**: Spoken like an adventurer! What do you seek to know?
+- **12536**: Helping people, eh? Come to think of it, I saw a lady pacing back and forth before a house in Southern San d'Oria.
+- **12539**: You seem confident of yourself. I am much relieved.
+- **12541**: Maybe you could instead? Walk through Victory Arch behind you to enter Southern San d'Oria. Then, head west to reach the Tanners' Guild.
+- **12542**: New weapons and armor can cost a fortune.
+- **12544**: Laborman's Way lies north-west of us. Pass the furniture shop and the inn, and take the gate on the right. Laborman's Way opens beneath it.
+- **12545**: To further San d'Oria's glory, you should undertake missions given from the gatehouses.
+- **12546**: They do not pay, but you can earn rank points as proof of your contributions to our kingdom.
+- **12547**: With enough rank points, your rank will rise.
+- **12548**: And with higher rank comes greater opportunity. Those of high rank are granted tasks that decide the fate of the Kingdom!
+- **12552**: Oh, before I forget... I give you this for your journeys. Show it to Matildie, who stands before the drawbridge to Chateau d'Oraguille.
+- **12553**: However, know you of our tradition regarding the bequeathal of objects? Ere giving to others, we open the main menu and select "Trade."
+- **12554**: Do not hesitate to ask other adventurers for help.
+- **12555**: Now, I must go and seek entrance to the castle. May we meet again, <Player>!
+- **12596**: Lord knight, forgive this interruption, but there is something I must ask of you.
+- **12597**: I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?
+- **12599**: Please, I have traveled from afar to see Her Highness!
+- **12604**: Er...
+- **12607**: Is that so? Well, I thank you for your kindness, proud knight of San d'Oria.
 
 ## Events
 
@@ -928,7 +928,7 @@
 #### Opcodes
 
 ```
-  0: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=12508*)
+  0: 0x0162 [0x1D] PRINT_EVENT_MESSAGE(message_id=12509*)
     → "Say, are you an adventurer?"
   1: 0x0165 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0166 [0x00] END_REQSTACK()
@@ -953,7 +953,7 @@
 #### Opcodes
 
 ```
-  0: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=12509*)
+  0: 0x0167 [0x1D] PRINT_EVENT_MESSAGE(message_id=12510*)
     → "My name is Rochefogne, and I am an adventurer, too. I have just arrived at San d'Oria..."
   1: 0x016A [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x016B [0x00] END_REQSTACK()
@@ -979,7 +979,7 @@
 #### Opcodes
 
 ```
-  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=12510*)
+  0: 0x016C [0x1D] PRINT_EVENT_MESSAGE(message_id=12511*)
     → "And already I am struck at how little has changed! Time has no dominion over this city."
   1: 0x016F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0170 [0x00] END_REQSTACK()
@@ -1004,7 +1004,7 @@
 #### Opcodes
 
 ```
-  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=12511*)
+  0: 0x0171 [0x1D] PRINT_EVENT_MESSAGE(message_id=12512*)
     → "Can you see the great cathedral yonder? Faithful San d'Orians gather there still in worship to the Goddess of the Dawn."
   1: 0x0174 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0175 [0x00] END_REQSTACK()
@@ -1029,7 +1029,7 @@
 #### Opcodes
 
 ```
-  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12512*)
+  0: 0x0176 [0x1D] PRINT_EVENT_MESSAGE(message_id=12513*)
     → "And behold its balcony! Could the papsque still rise there to grant benedictions?"
   1: 0x0179 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017A [0x00] END_REQSTACK()
@@ -1054,7 +1054,7 @@
 #### Opcodes
 
 ```
-  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=12513*)
+  0: 0x017B [0x1D] PRINT_EVENT_MESSAGE(message_id=12514*)
     → "Hmm? And they must be Royal Knights..."
   1: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x017F [0x00] END_REQSTACK()
@@ -1079,7 +1079,7 @@
 #### Opcodes
 
 ```
-  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=12515*)
+  0: 0x0180 [0x1D] PRINT_EVENT_MESSAGE(message_id=12516*)
     → "You, too, must learn the difference between the Temple Knights and the Royal Knights, if you are to bear San d'Orian citizenship!"
   1: 0x0183 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0184 [0x00] END_REQSTACK()
@@ -1104,7 +1104,7 @@
 #### Opcodes
 
 ```
-  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=12516*)
+  0: 0x0185 [0x1D] PRINT_EVENT_MESSAGE(message_id=12517*)
     → "The Temple Knights shield the capital, while the Royal Knights strike at our foes!"
   1: 0x0188 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0189 [0x00] END_REQSTACK()
@@ -1129,7 +1129,7 @@
 #### Opcodes
 
 ```
-  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=12518*)
+  0: 0x018A [0x1D] PRINT_EVENT_MESSAGE(message_id=12519*)
     → "Yes, Trion... Of him I have heard naught for ages. I do hope the princes are well."
   1: 0x018D [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x018E [0x00] END_REQSTACK()
@@ -1155,7 +1155,7 @@
 #### Opcodes
 
 ```
-  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=12519*)
+  0: 0x018F [0x1D] PRINT_EVENT_MESSAGE(message_id=12520*)
     → "And Princess Claidie! Fair is said to be the younger sister of Trion and Pieuje. Perhaps someday I may meet her!"
   1: 0x0192 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0193 [0x00] END_REQSTACK()
@@ -1180,7 +1180,7 @@
 #### Opcodes
 
 ```
-  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=12520*)
+  0: 0x0194 [0x1D] PRINT_EVENT_MESSAGE(message_id=12521*)
     → "But, I ramble. Many pardons!"
   1: 0x0197 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0198 [0x00] END_REQSTACK()
@@ -1208,7 +1208,7 @@
 ```
   0: 0x0199 [0x6E] EventEntity uses emote 6*
   1: 0x01A0 [0x99] Wait for EventEntity animation to complete
-  2: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12521*)
+  2: 0x01A5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12522*)
     → "So long have I been away that my head races. Please, let me hear your questions."
   3: 0x01A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x01A9 [0x00] END_REQSTACK()
@@ -1233,7 +1233,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12523*)
+  0: 0x01AA [0x1D] PRINT_EVENT_MESSAGE(message_id=12524*)
     → "Should you wish to leave the city from here in Northern San d'Oria, you must pass through Ranperre Gate to the west."
   1: 0x01AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01AE [0x00] END_REQSTACK()
@@ -1259,7 +1259,7 @@
 #### Opcodes
 
 ```
-  0: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12524*)
+  0: 0x01AF [0x1D] PRINT_EVENT_MESSAGE(message_id=12525*)
     → "You surely must have a map of this city, but hear my directions anyway."
   1: 0x01B2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B3 [0x00] END_REQSTACK()
@@ -1284,7 +1284,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12525*)
+  0: 0x01B4 [0x1D] PRINT_EVENT_MESSAGE(message_id=12526*)
     → "First, walk west from the Parade Grounds upon which we now stand."
   1: 0x01B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01B8 [0x00] END_REQSTACK()
@@ -1309,7 +1309,7 @@
 #### Opcodes
 
 ```
-  0: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12526*)
+  0: 0x01B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=12527*)
     → "Pass through the gate, and follow the road past the furniture shop and the inn."
   1: 0x01BC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01BD [0x00] END_REQSTACK()
@@ -1335,7 +1335,7 @@
 #### Opcodes
 
 ```
-  0: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12527*)
+  0: 0x01BE [0x1D] PRINT_EVENT_MESSAGE(message_id=12528*)
     → "Take the gate on your left, and make another left down the stairs. Soon Ranperre Gate will rise before you."
   1: 0x01C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C2 [0x00] END_REQSTACK()
@@ -1360,7 +1360,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12529*)
+  0: 0x01C3 [0x1D] PRINT_EVENT_MESSAGE(message_id=12530*)
     → "For weaponry, ask at the weapon shop in the northwest corner of Northern San d'Oria. Upon your map is written a sword. That is the place."
   1: 0x01C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01C7 [0x00] END_REQSTACK()
@@ -1385,7 +1385,7 @@
 #### Opcodes
 
 ```
-  0: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12531*)
+  0: 0x01C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=12532*)
     → "If you seek magic, go northwest. Near the Carpenters' Guild is the gate that opens to Port San d'Oria. Look for a scroll on your map to find the magic shop."
   1: 0x01CB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01CC [0x00] END_REQSTACK()
@@ -1411,7 +1411,7 @@
 #### Opcodes
 
 ```
-  0: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12532*)
+  0: 0x01CD [0x1D] PRINT_EVENT_MESSAGE(message_id=12533*)
     → "For money, townsfolk may give you a reward for helping them. You could also hunt monsters and sell the bounty to merchants in town."
   1: 0x01D0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D1 [0x00] END_REQSTACK()
@@ -1436,7 +1436,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12533*)
+  0: 0x01D2 [0x1D] PRINT_EVENT_MESSAGE(message_id=12534*)
     → "Spoken like an adventurer! What do you seek to know?"
   1: 0x01D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01D6 [0x00] END_REQSTACK()
@@ -1461,7 +1461,7 @@
 #### Opcodes
 
 ```
-  0: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12535*)
+  0: 0x01D7 [0x1D] PRINT_EVENT_MESSAGE(message_id=12536*)
     → "Helping people, eh? Come to think of it, I saw a lady pacing back and forth before a house in Southern San d'Oria."
   1: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01DB [0x00] END_REQSTACK()
@@ -1487,7 +1487,7 @@
 #### Opcodes
 
 ```
-  0: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12538*)
+  0: 0x01DC [0x1D] PRINT_EVENT_MESSAGE(message_id=12539*)
     → "You seem confident of yourself. I am much relieved."
   1: 0x01DF [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E0 [0x00] END_REQSTACK()
@@ -1512,7 +1512,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12540*)
+  0: 0x01E1 [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
     → "Maybe you could instead? Walk through Victory Arch behind you to enter Southern San d'Oria. Then, head west to reach the Tanners' Guild."
   1: 0x01E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01E5 [0x00] END_REQSTACK()
@@ -1537,7 +1537,7 @@
 #### Opcodes
 
 ```
-  0: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12541*)
+  0: 0x01E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=12542*)
     → "New weapons and armor can cost a fortune."
   1: 0x01E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01EA [0x00] END_REQSTACK()
@@ -1562,7 +1562,7 @@
 #### Opcodes
 
 ```
-  0: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12543*)
+  0: 0x01EB [0x1D] PRINT_EVENT_MESSAGE(message_id=12544*)
     → "Laborman's Way lies north-west of us. Pass the furniture shop and the inn, and take the gate on the right. Laborman's Way opens beneath it."
   1: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01EF [0x00] END_REQSTACK()
@@ -1587,7 +1587,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12544*)
+  0: 0x01F0 [0x1D] PRINT_EVENT_MESSAGE(message_id=12545*)
     → "To further San d'Oria's glory, you should undertake missions given from the gatehouses."
   1: 0x01F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F4 [0x00] END_REQSTACK()
@@ -1612,7 +1612,7 @@
 #### Opcodes
 
 ```
-  0: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12545*)
+  0: 0x01F5 [0x1D] PRINT_EVENT_MESSAGE(message_id=12546*)
     → "They do not pay, but you can earn rank points as proof of your contributions to our kingdom."
   1: 0x01F8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01F9 [0x00] END_REQSTACK()
@@ -1637,7 +1637,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12546*)
+  0: 0x01FA [0x1D] PRINT_EVENT_MESSAGE(message_id=12547*)
     → "With enough rank points, your rank will rise."
   1: 0x01FD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x01FE [0x00] END_REQSTACK()
@@ -1663,7 +1663,7 @@
 #### Opcodes
 
 ```
-  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12547*)
+  0: 0x01FF [0x1D] PRINT_EVENT_MESSAGE(message_id=12548*)
     → "And with higher rank comes greater opportunity. Those of high rank are granted tasks that decide the fate of the Kingdom!"
   1: 0x0202 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0203 [0x00] END_REQSTACK()
@@ -1688,7 +1688,7 @@
 #### Opcodes
 
 ```
-  0: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=12551*)
+  0: 0x0204 [0x1D] PRINT_EVENT_MESSAGE(message_id=12552*)
     → "Oh, before I forget... I give you this for your journeys. Show it to Matildie, who stands before the drawbridge to Chateau d'Oraguille."
   1: 0x0207 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0208 [0x00] END_REQSTACK()
@@ -1713,7 +1713,7 @@
 #### Opcodes
 
 ```
-  0: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=12552*)
+  0: 0x0209 [0x1D] PRINT_EVENT_MESSAGE(message_id=12553*)
     → "However, know you of our tradition regarding the bequeathal of objects? Ere giving to others, we open the main menu and select "Trade.""
   1: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x020D [0x00] END_REQSTACK()
@@ -1739,7 +1739,7 @@
 #### Opcodes
 
 ```
-  0: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=12553*)
+  0: 0x020E [0x1D] PRINT_EVENT_MESSAGE(message_id=12554*)
     → "Do not hesitate to ask other adventurers for help."
   1: 0x0211 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0212 [0x00] END_REQSTACK()
@@ -1764,7 +1764,7 @@
 #### Opcodes
 
 ```
-  0: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=12554*)
+  0: 0x0213 [0x1D] PRINT_EVENT_MESSAGE(message_id=12555*)
     → "Now, I must go and seek entrance to the castle. May we meet again, <Player>!"
   1: 0x0216 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0217 [0x00] END_REQSTACK()
@@ -1915,7 +1915,7 @@
 #### Opcodes
 
 ```
-  0: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=12595*)
+  0: 0x0260 [0x1D] PRINT_EVENT_MESSAGE(message_id=12596*)
     → "Lord knight, forgive this interruption, but there is something I must ask of you."
   1: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0264 [0x00] END_REQSTACK()
@@ -1942,7 +1942,7 @@
 
 ```
   0: 0x0265 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rochefogne (ID: 17723589/0x010E70C5), tag_num=0x12)
-  1: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=12596*)
+  1: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=12597*)
     → "I question whether Queen Leaute truly passed away fifteen years past. Tell me, of what cause did she die?"
   2: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0270 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Rochefogne (ID: 17723589/0x010E70C5), tag_num=0x13)
@@ -1968,7 +1968,7 @@
 #### Opcodes
 
 ```
-  0: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=12598*)
+  0: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=12599*)
     → "Please, I have traveled from afar to see Her Highness!"
   1: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x027C [0x00] END_REQSTACK()
@@ -1995,7 +1995,7 @@
 
 ```
   0: 0x027D [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=12603*)
+  1: 0x0283 [0x1D] PRINT_EVENT_MESSAGE(message_id=12604*)
     → "Er..."
   2: 0x0286 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0287 [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -2022,7 +2022,7 @@
 #### Opcodes
 
 ```
-  0: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=12606*)
+  0: 0x028E [0x1D] PRINT_EVENT_MESSAGE(message_id=12607*)
     → "Is that so? Well, I thank you for your kindness, proud knight of San d'Oria."
   1: 0x0291 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0292 [0x00] END_REQSTACK()

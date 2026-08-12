@@ -24,13 +24,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0166      |         358 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1F62      |        8034 |
-|       3 | 0x1F63      |        8035 |
+|       2 | 0x1F63      |        8035 |
+|       3 | 0x1F64      |        8036 |
 
 ## String References
 
-- **8034**: Craft skills require you to practice overrr and overrr, wasting many items, until you learn how to synthesize and create things properrrly.
-- **8035**: But when you finally can create weapons and other cool stuff that aren't found at the shops, then it finally becomes worrrth all that efforrrt. At the very least, you can show off to your frrriends!
+- **8035**: Craft skills require you to practice overrr and overrr, wasting many items, until you learn how to synthesize and create things properrrly.
+- **8036**: But when you finally can create weapons and other cool stuff that aren't found at the shops, then it finally becomes worrrth all that efforrrt. At the very least, you can show off to your frrriends!
 
 ## Events
 
@@ -129,10 +129,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mocchi Katsartbih (ID: 17764515/0x010F10A3), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8034*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
     → "Craft skills require you to practice overrr and overrr, wasting many items, until you learn how to synthesize and create things properrrly."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8035*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=8036*)
     → "But when you finally can create weapons and other cool stuff that aren't found at the shops, then it finally becomes worrrth all that efforrrt. At the very least, you can show off to your frrriends!"
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Mocchi Katsartbih (ID: 17764515/0x010F10A3), tag_num=0x02)

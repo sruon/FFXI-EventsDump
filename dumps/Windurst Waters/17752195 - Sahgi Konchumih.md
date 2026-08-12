@@ -25,13 +25,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0165      |         357 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x22A2      |        8866 |
-|       3 | 0x22A3      |        8867 |
+|       2 | 0x22A3      |        8867 |
+|       3 | 0x22A4      |        8868 |
 
 ## String References
 
-- **8866**: Huh... So this is the biological laborrratory that is rrrun by the Rhinostery, eh? Doesn't seem so exciting, rrreally...
-- **8867**: I hearrrd that they carry out some weirrrd experiments herrre. Do you know anything about that?
+- **8867**: Huh... So this is the biological laborrratory that is rrrun by the Rhinostery, eh? Doesn't seem so exciting, rrreally...
+- **8868**: I hearrrd that they carry out some weirrrd experiments herrre. Do you know anything about that?
 
 ## Events
 
@@ -156,10 +156,10 @@
   1: 0x0035 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0036 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0037 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sahgi Konchumih (ID: 17752195/0x010EE083), tag_num=0x01)
-  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8866*)
+  4: 0x003E [0x1D] PRINT_EVENT_MESSAGE(message_id=8867*)
     → "Huh... So this is the biological laborrratory that is rrrun by the Rhinostery, eh? Doesn't seem so exciting, rrreally..."
   5: 0x0041 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8867*)
+  6: 0x0042 [0x1D] PRINT_EVENT_MESSAGE(message_id=8868*)
     → "I hearrrd that they carry out some weirrrd experiments herrre. Do you know anything about that?"
   7: 0x0045 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0046 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Sahgi Konchumih (ID: 17752195/0x010EE083), tag_num=0x03)

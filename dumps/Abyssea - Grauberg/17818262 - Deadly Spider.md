@@ -23,35 +23,35 @@
 |---------|-------------|-------------|
 |       0 | 0x00FE      |         254 |
 |       1 | 0x0001      |           1 |
-|       2 | 0x2092      |        8338 |
+|       2 | 0x2093      |        8339 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0007      |           7 |
-|       5 | 0x2093      |        8339 |
+|       5 | 0x2094      |        8340 |
 |       6 | 0x0008      |           8 |
-|       7 | 0x2094      |        8340 |
+|       7 | 0x2095      |        8341 |
 |       8 | 0x0002      |           2 |
 |       9 | 0x0009      |           9 |
-|      10 | 0x2095      |        8341 |
+|      10 | 0x2096      |        8342 |
 |      11 | 0x001E      |          30 |
 |      12 | 0x003C      |          60 |
-|      13 | 0x2062      |        8290 |
-|      14 | 0x2066      |        8294 |
-|      15 | 0x2063      |        8291 |
-|      16 | 0x2064      |        8292 |
-|      17 | 0x2065      |        8293 |
+|      13 | 0x2063      |        8291 |
+|      14 | 0x2067      |        8295 |
+|      15 | 0x2064      |        8292 |
+|      16 | 0x2065      |        8293 |
+|      17 | 0x2066      |        8294 |
 |      18 | 0x00C9      |         201 |
 
 ## String References
 
-- **8290**: G'day, mate. Come to check on your progress for this area, have ya? Well then, treat yerself to a good eyeful:
-- **8291**: Looks like you've completed this objective. You can give yerself a pat on the back for that.
-- **8292**: Crikey, you've completed all objectives in the area! That's something to write home about, I reckon!
-- **8293**: Here's a little reward for ya, mate, just to show our appreciation.
-- **8294**: Stay sharp out there, eh? Else you'll end up bein' tucker for them Abyssean nasties.
-- **8338**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
-- **8339**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
-- **8340**: [Requirement/Objective completed]: Obtain all atma found in this area.
-- **8341**: [Requirement/Objective completed]: Complete all quests issued in this area.
+- **8291**: G'day, mate. Come to check on your progress for this area, have ya? Well then, treat yerself to a good eyeful:
+- **8292**: Looks like you've completed this objective. You can give yerself a pat on the back for that.
+- **8293**: Crikey, you've completed all objectives in the area! That's something to write home about, I reckon!
+- **8294**: Here's a little reward for ya, mate, just to show our appreciation.
+- **8295**: Stay sharp out there, eh? Else you'll end up bein' tucker for them Abyssean nasties.
+- **8339**: Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]
+- **8340**: [Requirement/Objective completed]: Obtain all ancient abyssite found in this area.
+- **8341**: [Requirement/Objective completed]: Obtain all atma found in this area.
+- **8342**: [Requirement/Objective completed]: Complete all quests issued in this area.
 
 ## Events
 
@@ -104,7 +104,7 @@
      0x0023 [0x03] ExtData[1]->WorkLocal[5] = Work_Zone[7]
      0x0028 [0x03] ExtData[1]->WorkLocal[6] = Work_Zone[8]
      0x002D [0x02] IF !(1* == 1*) GOTO 0x00C8
-     0x0035 [0x24] CREATE_DIALOG(message_id=8338*, default_option=0*, option_flags=0*)
+     0x0035 [0x24] CREATE_DIALOG(message_id=8339*, default_option=0*, option_flags=0*)
     → "Current progress: [Ancient abyssite obtained: $0/$1/Atma obtained: $2/$3/Quests completed: $4/$5/Return.]"
      0x003C [0x25] WAIT_DIALOG_SELECT()
      0x003D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0060
@@ -112,7 +112,7 @@
      0x004C [0x03] Work_Zone[2] = 1*
      0x0051 [0x01] GOTO 0x0059
      0x0054 [0x03] Work_Zone[2] = 0*
-     0x0059 [0x48] [System] [8339*]:
+     0x0059 [0x48] [System] [8340*]:
     → "[Requirement/Objective completed]: Obtain all ancient abyssite found in this area."
      0x005C [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x005D [0x01] GOTO 0x00A7
@@ -121,7 +121,7 @@
      0x006F [0x03] Work_Zone[2] = 1*
      0x0074 [0x01] GOTO 0x007C
      0x0077 [0x03] Work_Zone[2] = 0*
-     0x007C [0x48] [System] [8340*]:
+     0x007C [0x48] [System] [8341*]:
     → "[Requirement/Objective completed]: Obtain all atma found in this area."
      0x007F [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x0080 [0x01] GOTO 0x00A7
@@ -130,7 +130,7 @@
      0x0092 [0x03] Work_Zone[2] = 1*
      0x0097 [0x01] GOTO 0x009F
      0x009A [0x03] Work_Zone[2] = 0*
-     0x009F [0x48] [System] [8341*]:
+     0x009F [0x48] [System] [8342*]:
     → "[Requirement/Objective completed]: Complete all quests issued in this area."
      0x00A2 [0x23] WAIT_FOR_DIALOG_INTERACTION
      0x00A3 [0x01] GOTO 0x00A7
@@ -171,13 +171,13 @@
   0: 0x00C9 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00CE [0x1C] WAIT(30* ticks)
   2: 0x00D1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
+  3: 0x00E0 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
     → "G'day, mate. Come to check on your progress for this area, have ya? Well then, treat yerself to a good eyeful:"
   4: 0x00E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x00E4 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=60*
   6: 0x00F3 [0x1A] CALL_SUBROUTINE(address=0x0001)
   7: 0x00F6 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  8: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
+  8: 0x0105 [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
     → "Stay sharp out there, eh? Else you'll end up bein' tucker for them Abyssean nasties."
   9: 0x0108 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0109 [0x21] END_EVENT
@@ -214,25 +214,25 @@
   2: 0x0111 [0x1E] EventEntity looks at LocalPlayer and starts talking
   3: 0x0116 [0x1C] WAIT(30* ticks)
   4: 0x0119 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=60*
-  5: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8290*)
+  5: 0x0128 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
     → "G'day, mate. Come to check on your progress for this area, have ya? Well then, treat yerself to a good eyeful:"
   6: 0x012B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x012C [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x013B
-  8: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8291*)
+  8: 0x0134 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
     → "Looks like you've completed this objective. You can give yerself a pat on the back for that."
   9: 0x0137 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0138 [0x01] GOTO 0x014A
  11: 0x013B [0x02] IF !(ExtData[1]->WorkLocal[7] == 2*) GOTO 0x014A
- 12: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8292*)
+ 12: 0x0143 [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
     → "Crikey, you've completed all objectives in the area! That's something to write home about, I reckon!"
  13: 0x0146 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0147 [0x01] GOTO 0x014A
 
 SUBROUTINE_014A:
- 15: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8293*)
+ 15: 0x014A [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
     → "Here's a little reward for ya, mate, just to show our appreciation."
  16: 0x014D [0x23] WAIT_FOR_DIALOG_INTERACTION
- 17: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8294*)
+ 17: 0x014E [0x1D] PRINT_EVENT_MESSAGE(message_id=8295*)
     → "Stay sharp out there, eh? Else you'll end up bein' tucker for them Abyssean nasties."
  18: 0x0151 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0152 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]

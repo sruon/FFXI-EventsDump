@@ -25,26 +25,26 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x3483      |       13443 |
-|       1 | 0x3484      |       13444 |
-|       2 | 0x3486      |       13446 |
+|       0 | 0x3484      |       13444 |
+|       1 | 0x3485      |       13445 |
+|       2 | 0x3487      |       13447 |
 |       3 | 0x06D2      |        1746 |
-|       4 | 0x3487      |       13447 |
+|       4 | 0x3488      |       13448 |
 |       5 | 0x06D3      |        1747 |
 |       6 | 0x06D4      |        1748 |
-|       7 | 0x3489      |       13449 |
-|       8 | 0x348A      |       13450 |
+|       7 | 0x348A      |       13450 |
+|       8 | 0x348B      |       13451 |
 |       9 | 0x0001      |           1 |
 |      10 | 0x0000      |           0 |
 |      11 | 0x00C8      |         200 |
 |      12 | 0x0064      |         100 |
-|      13 | 0x348B      |       13451 |
+|      13 | 0x348C      |       13452 |
 |      14 | 0x0003      |           3 |
-|      15 | 0x348C      |       13452 |
-|      16 | 0x348D      |       13453 |
-|      17 | 0x348E      |       13454 |
-|      18 | 0x348F      |       13455 |
-|      19 | 0x3488      |       13448 |
+|      15 | 0x348D      |       13453 |
+|      16 | 0x348E      |       13454 |
+|      17 | 0x348F      |       13455 |
+|      18 | 0x3490      |       13456 |
+|      19 | 0x3489      |       13449 |
 |      20 | 0x0006      |           6 |
 |      21 | 0x0002      |           2 |
 |      22 | 0x0009      |           9 |
@@ -52,60 +52,60 @@
 |      24 | 0x0007      |           7 |
 |      25 | 0x0005      |           5 |
 |      26 | 0x0008      |           8 |
-|      27 | 0x3514      |       13588 |
-|      28 | 0x3515      |       13589 |
-|      29 | 0x3516      |       13590 |
-|      30 | 0x3517      |       13591 |
-|      31 | 0x3518      |       13592 |
-|      32 | 0x3519      |       13593 |
-|      33 | 0x351A      |       13594 |
+|      27 | 0x3515      |       13589 |
+|      28 | 0x3516      |       13590 |
+|      29 | 0x3517      |       13591 |
+|      30 | 0x3518      |       13592 |
+|      31 | 0x3519      |       13593 |
+|      32 | 0x351A      |       13594 |
+|      33 | 0x351B      |       13595 |
 |      34 | 0x0014      |          20 |
-|      35 | 0x351B      |       13595 |
+|      35 | 0x351C      |       13596 |
 |      36 | 0x0019      |          25 |
 |      37 | 0x00B4      |         180 |
-|      38 | 0x351C      |       13596 |
-|      39 | 0x3904      |       14596 |
-|      40 | 0x3905      |       14597 |
-|      41 | 0x3906      |       14598 |
-|      42 | 0x3907      |       14599 |
-|      43 | 0x3908      |       14600 |
-|      44 | 0x3909      |       14601 |
-|      45 | 0x390A      |       14602 |
-|      46 | 0x390B      |       14603 |
-|      47 | 0x390C      |       14604 |
+|      38 | 0x351D      |       13597 |
+|      39 | 0x3905      |       14597 |
+|      40 | 0x3906      |       14598 |
+|      41 | 0x3907      |       14599 |
+|      42 | 0x3908      |       14600 |
+|      43 | 0x3909      |       14601 |
+|      44 | 0x390A      |       14602 |
+|      45 | 0x390B      |       14603 |
+|      46 | 0x390C      |       14604 |
+|      47 | 0x390D      |       14605 |
 
 ## String References
 
-- **13443**: Ho ho ho! Have you been working hard to bring joy to the wee tykes of Vana'diel?
-- **13444**: I believe the children are our future. If we don't nurture them, then all hope will be lost. That's why I've been passing out presents to show them my love. Here, why don't you try it as well?
-- **13446**: Ho ho ho! Letters from my fans?
-- **13447**: But there isn't a name on this $1... How am I supposed to return the favor if I don't know who to return it to...?
-- **13448**: Who sent it? [Artinien./Authere./Auvare./Blendare./Brifalien./Foletta./Leuveret./Maurinne./Miene./Taurette.]
-- **13449**: Are you sure [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], and [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette] are the ones who gave you the letters?
-- **13450**: Positive? [Aboslutely!/Wait a minute...]
-- **13451**: <Sigh>... If there isn't a name on this $1, how am I supposed to return the favor?
-- **13452**: I knew it! Those little ones have been my favorites since I arrived in San d'Oria.
-- **13453**: You know, you ought to try bringing joy to the children of Vana'diel yourself. Here, you can have this hat.
-- **13454**: Wear it, and all the kids will know that you're here to deliver love!
-- **13455**: Really! Acts of kindness like this always fill my heart up with this feeling...this feeling that I just can't explain. I'll have to go find those children and give 'em an extra-special present!
-- **13588**: Let me tell you the key to making the children of Vana'diel happy.
-- **13589**: You have to give them presents! That much should be obvious. I won't tell you what to give them, though. You've got to use your head for that!
-- **13590**: Oh yeah, before you start handing out gifts, you also have to wear one of these red hats like the one I've got on. That'll prove that you're a smilebringer! No kid will trust you without it!
-- **13591**: A while ago, I saw a moogle carrying a huge bag full of hats like this... Maybe they're selling them somewhere. You should find out for yourself! That's all I have to say!
-- **13592**: [You haven't brought any happiness to the children!/You've done some good./You've done fairly well./You've made the children very happy!/You've brought lots of smiles!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]
-- **13593**: You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!
-- **13594**: Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]
-- **13595**: Have a nice trip!
-- **13596**: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!
-- **14596**: Well, that was interesting. Who would have thought that one of our festival trees would just get up and start walking around? I'm just glad that it is all over.
-- **14597**: However, there is something that still bothers me... It is like a dark cloud hanging over our fair city...
-- **14598**: I've been so busy fighting treants and spreading love to the children, that it wasn't until recently that I heard the rumors of the "other" smilebringers...
-- **14599**: I don't know what these imposters are cooking up, but if they are even thinking of laying a finger on the city's innocent children...
-- **14600**: I hate to ask this of a stranger, but you look like someone I can trust. Would you please be so kind as to search out the false smilebringer and bring him to me so we can straighten this whole mess out?
-- **14601**: You're back! Were you able to find the imposter?
-- **14602**: You located him, but he managed to escape? Well, I guess that is better than nothing. Now that he knows we are on to him, perhaps he will cease to prey on the Kingdom's children.
-- **14603**: I heard from another kind adventurer that the false smilebringer was passing out strange-looking boxes to the young ones... Why, for all I know, there could be live scorpions hiding in those packages, just waiting to sting the cute little button noses of all my little friends.
-- **14604**: You don't know how much your kindness means to me. You're a little old to be my friend, but I'd like you to have this as a token of my appreciation.
+- **13444**: Ho ho ho! Have you been working hard to bring joy to the wee tykes of Vana'diel?
+- **13445**: I believe the children are our future. If we don't nurture them, then all hope will be lost. That's why I've been passing out presents to show them my love. Here, why don't you try it as well?
+- **13447**: Ho ho ho! Letters from my fans?
+- **13448**: But there isn't a name on this $1... How am I supposed to return the favor if I don't know who to return it to...?
+- **13449**: Who sent it? [Artinien./Authere./Auvare./Blendare./Brifalien./Foletta./Leuveret./Maurinne./Miene./Taurette.]
+- **13450**: Are you sure [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], and [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette] are the ones who gave you the letters?
+- **13451**: Positive? [Aboslutely!/Wait a minute...]
+- **13452**: <Sigh>... If there isn't a name on this $1, how am I supposed to return the favor?
+- **13453**: I knew it! Those little ones have been my favorites since I arrived in San d'Oria.
+- **13454**: You know, you ought to try bringing joy to the children of Vana'diel yourself. Here, you can have this hat.
+- **13455**: Wear it, and all the kids will know that you're here to deliver love!
+- **13456**: Really! Acts of kindness like this always fill my heart up with this feeling...this feeling that I just can't explain. I'll have to go find those children and give 'em an extra-special present!
+- **13589**: Let me tell you the key to making the children of Vana'diel happy.
+- **13590**: You have to give them presents! That much should be obvious. I won't tell you what to give them, though. You've got to use your head for that!
+- **13591**: Oh yeah, before you start handing out gifts, you also have to wear one of these red hats like the one I've got on. That'll prove that you're a smilebringer! No kid will trust you without it!
+- **13592**: A while ago, I saw a moogle carrying a huge bag full of hats like this... Maybe they're selling them somewhere. You should find out for yourself! That's all I have to say!
+- **13593**: [You haven't brought any happiness to the children!/You've done some good./You've done fairly well./You've made the children very happy!/You've brought lots of smiles!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]
+- **13594**: You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!
+- **13595**: Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]
+- **13596**: Have a nice trip!
+- **13597**: Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!
+- **14597**: Well, that was interesting. Who would have thought that one of our festival trees would just get up and start walking around? I'm just glad that it is all over.
+- **14598**: However, there is something that still bothers me... It is like a dark cloud hanging over our fair city...
+- **14599**: I've been so busy fighting treants and spreading love to the children, that it wasn't until recently that I heard the rumors of the "other" smilebringers...
+- **14600**: I don't know what these imposters are cooking up, but if they are even thinking of laying a finger on the city's innocent children...
+- **14601**: I hate to ask this of a stranger, but you look like someone I can trust. Would you please be so kind as to search out the false smilebringer and bring him to me so we can straighten this whole mess out?
+- **14602**: You're back! Were you able to find the imposter?
+- **14603**: You located him, but he managed to escape? Well, I guess that is better than nothing. Now that he knows we are on to him, perhaps he will cease to prey on the Kingdom's children.
+- **14604**: I heard from another kind adventurer that the false smilebringer was passing out strange-looking boxes to the young ones... Why, for all I know, there could be live scorpions hiding in those packages, just waiting to sting the cute little button noses of all my little friends.
+- **14605**: You don't know how much your kindness means to me. You're a little old to be my friend, but I'd like you to have this as a token of my appreciation.
 
 ## Events
 
@@ -151,10 +151,10 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=13443*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=13444*)
     → "Ho ho ho! Have you been working hard to bring joy to the wee tykes of Vana'diel?"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=13444*)
+  3: 0x000A [0x1D] PRINT_EVENT_MESSAGE(message_id=13445*)
     → "I believe the children are our future. If we don't nurture them, then all hope will be lost. That's why I've been passing out presents to show them my love. Here, why don't you try it as well?"
   4: 0x000D [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000E [0x21] END_EVENT
@@ -207,11 +207,11 @@
 ```
   0: 0x0010 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0011 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=13446*)
+  2: 0x0016 [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
     → "Ho ho ho! Letters from my fans?"
   3: 0x0019 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x001A [0x03] Work_Zone[3] = 1746*
-  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+  5: 0x001F [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
     → "But there isn't a name on this $1... How am I supposed to return the favor if I don't know who to return it to...?"
   6: 0x0022 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0023 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -219,7 +219,7 @@
   9: 0x002B [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  10: 0x002D [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  11: 0x002F [0x03] Work_Zone[3] = 1747*
- 12: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+ 12: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
     → "But there isn't a name on this $1... How am I supposed to return the favor if I don't know who to return it to...?"
  13: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x0038 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -227,7 +227,7 @@
  16: 0x0040 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  17: 0x0042 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  18: 0x0044 [0x03] Work_Zone[3] = 1748*
- 19: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=13447*)
+ 19: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=13448*)
     → "But there isn't a name on this $1... How am I supposed to return the favor if I don't know who to return it to...?"
  20: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x004D [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -237,10 +237,10 @@
  25: 0x0059 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[0]
  26: 0x005E [0x03] Work_Zone[4] = ExtData[1]->WorkLocal[1]
  27: 0x0063 [0x03] Work_Zone[5] = ExtData[1]->WorkLocal[2]
- 28: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=13449*)
+ 28: 0x0068 [0x1D] PRINT_EVENT_MESSAGE(message_id=13450*)
     → "Are you sure [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette], and [Artinien/Authere/Auvare/Blendare/Brifalien/Foletta/Leuveret/Maurinne/Miene/Taurette] are the ones who gave you the letters?"
  29: 0x006B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x006C [0x24] CREATE_DIALOG(message_id=13450*, default_option=1*, option_flags=0*)
+ 30: 0x006C [0x24] CREATE_DIALOG(message_id=13451*, default_option=1*, option_flags=0*)
     → "Positive? [Aboslutely!/Wait a minute...]"
  31: 0x0073 [0x25] WAIT_DIALOG_SELECT()
  32: 0x0074 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0088
@@ -253,7 +253,7 @@
  39: 0x0095 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  40: 0x0097 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  41: 0x0099 [0x03] Work_Zone[3] = 1746*
- 42: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
+ 42: 0x009E [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
     → "<Sigh>... If there isn't a name on this $1, how am I supposed to return the favor?"
  43: 0x00A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x00A2 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -261,7 +261,7 @@
  46: 0x00AA [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  47: 0x00AC [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  48: 0x00AE [0x03] Work_Zone[3] = 1747*
- 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
+ 49: 0x00B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
     → "<Sigh>... If there isn't a name on this $1, how am I supposed to return the favor?"
  50: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x00B7 [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -269,7 +269,7 @@
  53: 0x00BF [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  54: 0x00C1 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  55: 0x00C3 [0x03] Work_Zone[3] = 1748*
- 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13451*)
+ 56: 0x00C8 [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
     → "<Sigh>... If there isn't a name on this $1, how am I supposed to return the favor?"
  57: 0x00CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x00CC [0x1A] CALL_SUBROUTINE(address=0x0105)
@@ -280,18 +280,18 @@
 
 SUBROUTINE_00DE:
  63: 0x00DE [0x02] IF !(Work_Zone[2] == 3*) GOTO 0x00FA
- 64: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13452*)
+ 64: 0x00E6 [0x1D] PRINT_EVENT_MESSAGE(message_id=13453*)
     → "I knew it! Those little ones have been my favorites since I arrived in San d'Oria."
  65: 0x00E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=13453*)
+ 66: 0x00EA [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
     → "You know, you ought to try bringing joy to the children of Vana'diel yourself. Here, you can have this hat."
  67: 0x00ED [0x23] WAIT_FOR_DIALOG_INTERACTION
- 68: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13454*)
+ 68: 0x00EE [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
     → "Wear it, and all the kids will know that you're here to deliver love!"
  69: 0x00F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x00F2 [0x03] Work_Zone[1] = 1*
  71: 0x00F7 [0x01] GOTO 0x0103
- 72: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=13455*)
+ 72: 0x00FA [0x1D] PRINT_EVENT_MESSAGE(message_id=13456*)
     → "Really! Acts of kindness like this always fill my heart up with this feeling...this feeling that I just can't explain. I'll have to go find those children and give 'em an extra-special present!"
  73: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x00FE [0x03] Work_Zone[1] = 0*
@@ -301,7 +301,7 @@ SUBROUTINE_0103:
  76: 0x0104 [0x00] END_REQSTACK()
 
 SUBROUTINE_0105:
- 77: 0x0105 [0x24] CREATE_DIALOG(message_id=13448*, default_option=0*, option_flags=0*)
+ 77: 0x0105 [0x24] CREATE_DIALOG(message_id=13449*, default_option=0*, option_flags=0*)
     → "Who sent it? [Artinien./Authere./Auvare./Blendare./Brifalien./Foletta./Leuveret./Maurinne./Miene./Taurette.]"
  78: 0x010C [0x25] WAIT_DIALOG_SELECT()
  79: 0x010D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x011D
@@ -368,16 +368,16 @@ SUBROUTINE_01AD:
 
 ```
   0: 0x01AE [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13588*)
+  1: 0x01B3 [0x1D] PRINT_EVENT_MESSAGE(message_id=13589*)
     → "Let me tell you the key to making the children of Vana'diel happy."
   2: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13589*)
+  3: 0x01B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=13590*)
     → "You have to give them presents! That much should be obvious. I won't tell you what to give them, though. You've got to use your head for that!"
   4: 0x01BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13590*)
+  5: 0x01BB [0x1D] PRINT_EVENT_MESSAGE(message_id=13591*)
     → "Oh yeah, before you start handing out gifts, you also have to wear one of these red hats like the one I've got on. That'll prove that you're a smilebringer! No kid will trust you without it!"
   6: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13591*)
+  7: 0x01BF [0x1D] PRINT_EVENT_MESSAGE(message_id=13592*)
     → "A while ago, I saw a moogle carrying a huge bag full of hats like this... Maybe they're selling them somewhere. You should find out for yourself! That's all I have to say!"
   8: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x01C3 [0x21] END_EVENT
@@ -416,13 +416,13 @@ SUBROUTINE_01AD:
 
 ```
   0: 0x01C5 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13592*)
+  1: 0x01CA [0x1D] PRINT_EVENT_MESSAGE(message_id=13593*)
     → "[You haven't brought any happiness to the children!/You've done some good./You've done fairly well./You've made the children very happy!/You've brought lots of smiles!/You have the children bursting with glee!/The children love you!] [What a disappointment./You just need to give a little extra effort!/Keep it up!/You make a good smilebringer./Excellent work!/Stupendous job!/Even I think you're great!]"
   2: 0x01CD [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13593*)
+  3: 0x01CE [0x1D] PRINT_EVENT_MESSAGE(message_id=13594*)
     → "You can make good use of some of that joy you've brought to transport yourself to another nation. The children in other parts of Vana'diel need smiles, too!"
   4: 0x01D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x01D2 [0x24] CREATE_DIALOG(message_id=13594*, default_option=0*, option_flags=Work_Zone[2])
+  5: 0x01D2 [0x24] CREATE_DIALOG(message_id=13595*, default_option=0*, option_flags=Work_Zone[2])
     → "Transport to another nation? [Not now./Go to San d'Oria./Go to Bastok./Go to Windurst.]"
   6: 0x01D9 [0x25] WAIT_DIALOG_SELECT()
   7: 0x01DA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01EA
@@ -431,7 +431,7 @@ SUBROUTINE_01AD:
  10: 0x01EA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x021E
  11: 0x01F2 [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x0217
  12: 0x01FA [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=13595*)
+ 13: 0x01FB [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
     → "Have a nice trip!"
  14: 0x01FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x01FF [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -439,7 +439,7 @@ SUBROUTINE_01AD:
  17: 0x020E [0x30] SET_UCOFF_CONTINUE_ZERO()
  18: 0x020F [0x03] Work_Zone[1] = 1*
  19: 0x0214 [0x01] GOTO 0x021B
- 20: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
+ 20: 0x0217 [0x1D] PRINT_EVENT_MESSAGE(message_id=13597*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  21: 0x021A [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -448,7 +448,7 @@ SUBROUTINE_021B:
  23: 0x021E [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0252
  24: 0x0226 [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x024B
  25: 0x022E [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 26: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=13595*)
+ 26: 0x022F [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
     → "Have a nice trip!"
  27: 0x0232 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0233 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -456,7 +456,7 @@ SUBROUTINE_021B:
  30: 0x0242 [0x30] SET_UCOFF_CONTINUE_ZERO()
  31: 0x0243 [0x03] Work_Zone[1] = 2*
  32: 0x0248 [0x01] GOTO 0x024F
- 33: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
+ 33: 0x024B [0x1D] PRINT_EVENT_MESSAGE(message_id=13597*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  34: 0x024E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -465,7 +465,7 @@ SUBROUTINE_024F:
  36: 0x0252 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0286
  37: 0x025A [0x02] IF !(Work_Zone[4] < 20*) GOTO 0x027F
  38: 0x0262 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=13595*)
+ 39: 0x0263 [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
     → "Have a nice trip!"
  40: 0x0266 [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x0267 [0xAD] DUAL_ENTITY_SCHEDULER_HANDLER: Execute sub-case 0 with entities [EventEntity, LocalPlayer], work=25*
@@ -473,7 +473,7 @@ SUBROUTINE_024F:
  43: 0x0276 [0x30] SET_UCOFF_CONTINUE_ZERO()
  44: 0x0277 [0x03] Work_Zone[1] = 3*
  45: 0x027C [0x01] GOTO 0x0283
- 46: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=13596*)
+ 46: 0x027F [0x1D] PRINT_EVENT_MESSAGE(message_id=13597*)
     → "Sorry, but it looks like you don't have enough joy and happiness in your life to do that. You can earn some by giving presents to children, though!"
  47: 0x0282 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -510,19 +510,19 @@ SUBROUTINE_0286:
   1: 0x0289 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x028E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x028F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=14596*)
+  4: 0x0290 [0x1D] PRINT_EVENT_MESSAGE(message_id=14597*)
     → "Well, that was interesting. Who would have thought that one of our festival trees would just get up and start walking around? I'm just glad that it is all over."
   5: 0x0293 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=14597*)
+  6: 0x0294 [0x1D] PRINT_EVENT_MESSAGE(message_id=14598*)
     → "However, there is something that still bothers me... It is like a dark cloud hanging over our fair city..."
   7: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=14598*)
+  8: 0x0298 [0x1D] PRINT_EVENT_MESSAGE(message_id=14599*)
     → "I've been so busy fighting treants and spreading love to the children, that it wasn't until recently that I heard the rumors of the "other" smilebringers..."
   9: 0x029B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=14599*)
+ 10: 0x029C [0x1D] PRINT_EVENT_MESSAGE(message_id=14600*)
     → "I don't know what these imposters are cooking up, but if they are even thinking of laying a finger on the city's innocent children..."
  11: 0x029F [0x23] WAIT_FOR_DIALOG_INTERACTION
- 12: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14600*)
+ 12: 0x02A0 [0x1D] PRINT_EVENT_MESSAGE(message_id=14601*)
     → "I hate to ask this of a stranger, but you look like someone I can trust. Would you please be so kind as to search out the false smilebringer and bring him to me so we can straighten this whole mess out?"
  13: 0x02A3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x02A4 [0x21] END_EVENT
@@ -553,16 +553,16 @@ SUBROUTINE_0286:
   1: 0x02A7 [0x1E] EventEntity looks at LocalPlayer and starts talking
   2: 0x02AC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x02AD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  4: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=14601*)
+  4: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=14602*)
     → "You're back! Were you able to find the imposter?"
   5: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14602*)
+  6: 0x02B2 [0x1D] PRINT_EVENT_MESSAGE(message_id=14603*)
     → "You located him, but he managed to escape? Well, I guess that is better than nothing. Now that he knows we are on to him, perhaps he will cease to prey on the Kingdom's children."
   7: 0x02B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14603*)
+  8: 0x02B6 [0x1D] PRINT_EVENT_MESSAGE(message_id=14604*)
     → "I heard from another kind adventurer that the false smilebringer was passing out strange-looking boxes to the young ones... Why, for all I know, there could be live scorpions hiding in those packages, just waiting to sting the cute little button noses of all my little friends."
   9: 0x02B9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14604*)
+ 10: 0x02BA [0x1D] PRINT_EVENT_MESSAGE(message_id=14605*)
     → "You don't know how much your kindness means to me. You're a little old to be my friend, but I'd like you to have this as a token of my appreciation."
  11: 0x02BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02BE [0x21] END_EVENT

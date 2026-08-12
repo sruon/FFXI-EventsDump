@@ -28,35 +28,35 @@
 |       4 | 0x0003      |           3 |
 |       5 | 0x008F      |         143 |
 |       6 | 0x003C      |          60 |
-|       7 | 0x274E      |       10062 |
+|       7 | 0x274F      |       10063 |
 |       8 | 0x0096      |         150 |
-|       9 | 0x2751      |       10065 |
-|      10 | 0x2754      |       10068 |
-|      11 | 0x2757      |       10071 |
+|       9 | 0x2752      |       10066 |
+|      10 | 0x2755      |       10069 |
+|      11 | 0x2758      |       10072 |
 |      12 | 0x0004      |           4 |
 |      13 | 0x00C9      |         201 |
 |      14 | 0x00D2      |         210 |
-|      15 | 0x275D      |       10077 |
+|      15 | 0x275E      |       10078 |
 |      16 | 0x000F      |          15 |
 |      17 | 0x005A      |          90 |
 |      18 | 0x0075      |         117 |
-|      19 | 0x2769      |       10089 |
-|      20 | 0x276C      |       10092 |
-|      21 | 0x276F      |       10095 |
-|      22 | 0x2775      |       10101 |
-|      23 | 0x2777      |       10103 |
-|      24 | 0x2779      |       10105 |
+|      19 | 0x276A      |       10090 |
+|      20 | 0x276D      |       10093 |
+|      21 | 0x2770      |       10096 |
+|      22 | 0x2776      |       10102 |
+|      23 | 0x2778      |       10104 |
+|      24 | 0x277A      |       10106 |
 |      25 | 0x0001      |           1 |
-|      26 | 0x277C      |       10108 |
+|      26 | 0x277D      |       10109 |
 |      27 | 0x0002      |           2 |
 |      28 | 0x0038      |          56 |
-|      29 | 0x2780      |       10112 |
-|      30 | 0x2781      |       10113 |
-|      31 | 0x2785      |       10117 |
+|      29 | 0x2781      |       10113 |
+|      30 | 0x2782      |       10114 |
+|      31 | 0x2786      |       10118 |
 
 ## String References
 
-- **10103**: Proceed to the archduke's palace? [Right away./Let me think about it.]
+- **10104**: Proceed to the archduke's palace? [Right away./Let me think about it.]
 
 ## Events
 
@@ -149,7 +149,7 @@
  16: 0x0073 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0084 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x0093 [0x1C] WAIT(60* ticks)
- 19: 0x0096 [0x2B] Altair (ID: 17772548/0x010F3004) [10062*]:
+ 19: 0x0096 [0x2B] Altair (ID: 17772548/0x010F3004) [10063*]:
     → "So, there you are."
  20: 0x009D [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x009E [0x27] REQ_SET(priority=0x03, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x03)
@@ -161,7 +161,7 @@
  27: 0x00D0 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=LocalPlayer, tag_num=0x33)
  28: 0x00D7 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x0B)
  29: 0x00DE [0x27] REQ_SET(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x04)
- 30: 0x00E5 [0x2B] Altair (ID: 17772548/0x010F3004) [10065*]:
+ 30: 0x00E5 [0x2B] Altair (ID: 17772548/0x010F3004) [10066*]:
     → "Thank you so much for braving the dangers and finding me. I'm very thankful. Now, let's get down to business..."
  31: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x00ED [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x05)
@@ -169,17 +169,17 @@
  34: 0x00FB [0x1C] WAIT(60* ticks)
  35: 0x00FE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm72" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  36: 0x010F [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm72" with entities [LocalPlayer, LocalPlayer], work=143*
- 37: 0x011E [0x2B] Altair (ID: 17772548/0x010F3004) [10068*]:
+ 37: 0x011E [0x2B] Altair (ID: 17772548/0x010F3004) [10069*]:
     → "I hereby assign you, <Player>, to the post of attach<Player>i of the Embassy to Jeuno."
  38: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 39: 0x0126 [0x2B] Altair (ID: 17772548/0x010F3004) [10071*]:
+ 39: 0x0126 [0x2B] Altair (ID: 17772548/0x010F3004) [10072*]:
     → "Do all you can for your country and her friendship with Jeuno."
  40: 0x012D [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x012E [0x7D] LOAD_START_SCHEDULER_PLAYER: Load scheduler with animation_id 32780
  42: 0x0131 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "qstc" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
  43: 0x0142 [0x1C] WAIT(210* ticks)
  44: 0x0145 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x09)
- 45: 0x014C [0x2B] Altair (ID: 17772548/0x010F3004) [10077*]:
+ 45: 0x014C [0x2B] Altair (ID: 17772548/0x010F3004) [10078*]:
     → "You know, there's a certain special task you may be interested in later. Now is not the time, but I'll keep you in mind."
  46: 0x0153 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0154 [0x1C] WAIT(60* ticks)
@@ -290,13 +290,13 @@
  25: 0x029D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm81" with entities [LocalPlayer, LocalPlayer], work=143*
  26: 0x02AC [0x4D] EventEntity->StatusEvent = 9 // Close door
  27: 0x02AD [0x27] REQ_SET(priority=0x03, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x04)
- 28: 0x02B4 [0x2B] Altair (ID: 17772548/0x010F3004) [10089*]:
+ 28: 0x02B4 [0x2B] Altair (ID: 17772548/0x010F3004) [10090*]:
     → "Thanks for volunteering, <Player>."
  29: 0x02BB [0x23] WAIT_FOR_DIALOG_INTERACTION
- 30: 0x02BC [0x2B] Altair (ID: 17772548/0x010F3004) [10092*]:
+ 30: 0x02BC [0x2B] Altair (ID: 17772548/0x010F3004) [10093*]:
     → "According to a message we received from the Court of Jeuno, they want someone for a special mission."
  31: 0x02C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 32: 0x02C4 [0x2B] Altair (ID: 17772548/0x010F3004) [10095*]:
+ 32: 0x02C4 [0x2B] Altair (ID: 17772548/0x010F3004) [10096*]:
     → "At Delkfutt's Tower, you demonstrated bravery above and beyond the call of duty. That's why I want you to spearhead this mission."
  33: 0x02CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x02CC [0x27] REQ_SET(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x05)
@@ -307,16 +307,16 @@
  39: 0x02ED [0x1C] WAIT(15* ticks)
  40: 0x02F0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm82" with entities [LocalPlayer, LocalPlayer], work=[143*, 0*]
  41: 0x0301 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm82" with entities [LocalPlayer, LocalPlayer], work=143*
- 42: 0x0310 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10101*]:
+ 42: 0x0310 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10102*]:
     → "This kind of thing is a great honor, <Player>. I'm sure you'll gain the archduke's trust."
  43: 0x0317 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x0318 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Goggehn (ID: 17772547/0x010F3003), tag_num=0x16)
- 45: 0x031F [0x24] CREATE_DIALOG(message_id=10103*, default_option=0*, option_flags=0*)
+ 45: 0x031F [0x24] CREATE_DIALOG(message_id=10104*, default_option=0*, option_flags=0*)
     → "Proceed to the archduke's palace? [Right away./Let me think about it.]"
  46: 0x0326 [0x25] WAIT_DIALOG_SELECT()
  47: 0x0327 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x034D
  48: 0x032F [0x27] REQ_SET(priority=0x03, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x04)
- 49: 0x0336 [0x2B] Altair (ID: 17772548/0x010F3004) [10105*]:
+ 49: 0x0336 [0x2B] Altair (ID: 17772548/0x010F3004) [10106*]:
     → "That's the spirit!"
  50: 0x033D [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x033E [0x27] REQ_SET(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x05)
@@ -324,7 +324,7 @@
  53: 0x034A [0x01] GOTO 0x0373
  54: 0x034D [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0373
  55: 0x0355 [0x27] REQ_SET(priority=0x03, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x04)
- 56: 0x035C [0x2B] Altair (ID: 17772548/0x010F3004) [10108*]:
+ 56: 0x035C [0x2B] Altair (ID: 17772548/0x010F3004) [10109*]:
     → "Don't stress over it. All new diplomatic personnel have to report to the archduke anyway. It's always darkest before the dawn, as they say."
  57: 0x0363 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0364 [0x27] REQ_SET(priority=0x04, entity_id=Altair (ID: 17772548/0x010F3004), tag_num=0x05)
@@ -336,19 +336,19 @@ SUBROUTINE_0373:
  62: 0x037D [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x0B)
  63: 0x0384 [0x03] Work_Zone[9] = 56*
  64: 0x0389 [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x03A3
- 65: 0x0391 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10112*]:
+ 65: 0x0391 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10113*]:
     → "Here's $6."
  66: 0x0398 [0x23] WAIT_FOR_DIALOG_INTERACTION
  67: 0x0399 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Goggehn (ID: 17772547/0x010F3003), tag_num=0x15)
  68: 0x03A0 [0x01] GOTO 0x03AB
- 69: 0x03A3 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10113*]:
+ 69: 0x03A3 [0x2B] Goggehn (ID: 17772547/0x010F3003) [10114*]:
     → "You already have $6? Well, I guess we don't have to issue you a new one, then."
  70: 0x03AA [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_03AB:
  71: 0x03AB [0x79] LocalPlayer looks at Altair (ID: 17772548/0x010F3004) (Basic look)
  72: 0x03B5 [0x4A] LocalPlayer looks at Altair (ID: 17772548/0x010F3004)
- 73: 0x03BE [0x2B] Altair (ID: 17772548/0x010F3004) [10117*]:
+ 73: 0x03BE [0x2B] Altair (ID: 17772548/0x010F3004) [10118*]:
     → "Our reputation with Jeuno depends on you. Don't let us down."
  74: 0x03C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  75: 0x03C6 [0x1C] WAIT(60* ticks)

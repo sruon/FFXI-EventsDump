@@ -43,67 +43,67 @@
 |       2 | 0x01D2      |         466 |
 |       3 | 0x0003      |           3 |
 |       4 | 0x0091      |         145 |
-|       5 | 0x1CE3      |        7395 |
+|       5 | 0x1CE4      |        7396 |
 |       6 | 0x003C      |          60 |
 |       7 | 0x00A0      |         160 |
-|       8 | 0x1CE4      |        7396 |
-|       9 | 0x1CE5      |        7397 |
+|       8 | 0x1CE5      |        7397 |
+|       9 | 0x1CE6      |        7398 |
 |      10 | 0x0078      |         120 |
-|      11 | 0x1CE6      |        7398 |
-|      12 | 0x1CE7      |        7399 |
+|      11 | 0x1CE7      |        7399 |
+|      12 | 0x1CE8      |        7400 |
 |      13 | 0x001E      |          30 |
-|      14 | 0x1CE8      |        7400 |
-|      15 | 0x1CE9      |        7401 |
+|      14 | 0x1CE9      |        7401 |
+|      15 | 0x1CEA      |        7402 |
 |      16 | 0x000F      |          15 |
-|      17 | 0x1CEA      |        7402 |
+|      17 | 0x1CEB      |        7403 |
 |      18 | 0x006E      |         110 |
 |      19 | 0x005A      |          90 |
-|      20 | 0x1CEB      |        7403 |
-|      21 | 0x1CEC      |        7404 |
-|      22 | 0x1CED      |        7405 |
-|      23 | 0x1CEE      |        7406 |
-|      24 | 0x1CEF      |        7407 |
-|      25 | 0x1CF0      |        7408 |
+|      20 | 0x1CEC      |        7404 |
+|      21 | 0x1CED      |        7405 |
+|      22 | 0x1CEE      |        7406 |
+|      23 | 0x1CEF      |        7407 |
+|      24 | 0x1CF0      |        7408 |
+|      25 | 0x1CF1      |        7409 |
 |      26 | 0x0001      |           1 |
-|      27 | 0x1CF1      |        7409 |
-|      28 | 0x1CF2      |        7410 |
+|      27 | 0x1CF2      |        7410 |
+|      28 | 0x1CF3      |        7411 |
 |      29 | 0x00C0      |         192 |
-|      30 | 0x1CF3      |        7411 |
-|      31 | 0x1CF4      |        7412 |
-|      32 | 0x1CF5      |        7413 |
-|      33 | 0x1CF6      |        7414 |
+|      30 | 0x1CF4      |        7412 |
+|      31 | 0x1CF5      |        7413 |
+|      32 | 0x1CF6      |        7414 |
+|      33 | 0x1CF7      |        7415 |
 |      34 | 0x007A      |         122 |
-|      35 | 0x1CF7      |        7415 |
-|      36 | 0x1CF8      |        7416 |
-|      37 | 0x1CF9      |        7417 |
-|      38 | 0x1CFA      |        7418 |
+|      35 | 0x1CF8      |        7416 |
+|      36 | 0x1CF9      |        7417 |
+|      37 | 0x1CFA      |        7418 |
+|      38 | 0x1CFB      |        7419 |
 |      39 | 0x00C9      |         201 |
-|      40 | 0x1CFC      |        7420 |
-|      41 | 0x1CFD      |        7421 |
-|      42 | 0x1CFE      |        7422 |
-|      43 | 0x1CFF      |        7423 |
-|      44 | 0x1F57      |        8023 |
-|      45 | 0x1F58      |        8024 |
-|      46 | 0x1F59      |        8025 |
-|      47 | 0x1F5A      |        8026 |
-|      48 | 0x1F5B      |        8027 |
-|      49 | 0x1F5C      |        8028 |
+|      40 | 0x1CFD      |        7421 |
+|      41 | 0x1CFE      |        7422 |
+|      42 | 0x1CFF      |        7423 |
+|      43 | 0x1D00      |        7424 |
+|      44 | 0x1F58      |        8024 |
+|      45 | 0x1F59      |        8025 |
+|      46 | 0x1F5A      |        8026 |
+|      47 | 0x1F5B      |        8027 |
+|      48 | 0x1F5C      |        8028 |
+|      49 | 0x1F5D      |        8029 |
 |      50 | 0x00D9      |         217 |
-|      51 | 0x1F5D      |        8029 |
-|      52 | 0x1F5E      |        8030 |
-|      53 | 0x1F5F      |        8031 |
-|      54 | 0x1F60      |        8032 |
-|      55 | 0x1F61      |        8033 |
-|      56 | 0x1F62      |        8034 |
-|      57 | 0x1F63      |        8035 |
-|      58 | 0x1F64      |        8036 |
-|      59 | 0x1F65      |        8037 |
-|      60 | 0x1F66      |        8038 |
+|      51 | 0x1F5E      |        8030 |
+|      52 | 0x1F5F      |        8031 |
+|      53 | 0x1F60      |        8032 |
+|      54 | 0x1F61      |        8033 |
+|      55 | 0x1F62      |        8034 |
+|      56 | 0x1F63      |        8035 |
+|      57 | 0x1F64      |        8036 |
+|      58 | 0x1F65      |        8037 |
+|      59 | 0x1F66      |        8038 |
+|      60 | 0x1F67      |        8039 |
 
 ## String References
 
-- **7408**: Will you bring me the herb? [Yes, I'll go./No way.]
-- **8028**: Will you help us? [Of course I will./Not right now.]
+- **7409**: Will you bring me the herb? [Yes, I'll go./No way.]
+- **8029**: Will you help us? [Of course I will./Not right now.]
 
 ## Events
 
@@ -178,7 +178,7 @@
  14: 0x0064 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x0075 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  16: 0x0084 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x0F)
- 17: 0x008B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7395*]:
+ 17: 0x008B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7396*]:
     → "Who the hell are you? Get outta here!"
  18: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0093 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x10)
@@ -263,13 +263,13 @@
  15: 0x013E [0x4E] SET_ENTITY_HIDE_FLAG: Show Dietmund (ID: 17780751/0x010F500F)
  16: 0x0144 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  17: 0x0155 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 18: 0x0164 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7396*]:
+ 18: 0x0164 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7397*]:
     → "Who the hell are you?"
  19: 0x016B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x016C [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at LocalPlayer
  21: 0x0175 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  22: 0x0176 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17780751/0x010F500F) Render.Flags0 and Render.Flags3 conditions are met
- 23: 0x017B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7397*]:
+ 23: 0x017B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7398*]:
     → "Oh, you were there with those chocobos in Upper Jeuno, weren't ya?"
  24: 0x0182 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x0183 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x13)
@@ -278,13 +278,13 @@
  28: 0x019E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm62" with entities [EventEntity, EventEntity], work=145*
  29: 0x01AD [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x1F)
  30: 0x01B4 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
- 31: 0x01BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [7398*]:
+ 31: 0x01BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [7399*]:
     → "Well, give that thief a message for me. That bird's mine, and I'm gonna get it back...one way or another!"
  32: 0x01C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x01C3 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
  34: 0x01CA [0x1C] WAIT(60* ticks)
  35: 0x01CD [0x4E] SET_ENTITY_HIDE_FLAG: Show Domingart (ID: 17780752/0x010F5010)
- 36: 0x01D3 [0x2B] Domingart (ID: 17780752/0x010F5010) [7399*]:
+ 36: 0x01D3 [0x2B] Domingart (ID: 17780752/0x010F5010) [7400*]:
     → "Did you find him, Dad?"
  37: 0x01DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x01DB [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at Domingart (ID: 17780752/0x010F5010)
@@ -298,10 +298,10 @@
  46: 0x0225 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  47: 0x0226 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17780751/0x010F500F) Render.Flags0 and Render.Flags3 conditions are met
  48: 0x022B [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x16)
- 49: 0x0232 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7400*]:
+ 49: 0x0232 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7401*]:
     → "None of your business. Now go get ready for school."
  50: 0x0239 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 51: 0x023A [0x2B] Domingart (ID: 17780752/0x010F5010) [7401*]:
+ 51: 0x023A [0x2B] Domingart (ID: 17780752/0x010F5010) [7402*]:
     → "Okay."
  52: 0x0241 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0242 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x17)
@@ -314,7 +314,7 @@
  60: 0x0269 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm64" with entities [EventEntity, EventEntity], work=[145*, 0*]
  61: 0x027A [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm64" with entities [EventEntity, EventEntity], work=145*
  62: 0x0289 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
- 63: 0x0290 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7402*]:
+ 63: 0x0290 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7403*]:
     → "Just tell that scumbag to give back what's mine."
  64: 0x0297 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x0298 [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
@@ -382,7 +382,7 @@
  14: 0x034F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x0360 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  16: 0x036F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x0F)
- 17: 0x0376 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7403*]:
+ 17: 0x0376 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7404*]:
     → "You again? How many times do I gotta tell ya? That chocobo's mine. Go tell him I want it back, or else."
  18: 0x037D [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x037E [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x10)
@@ -462,56 +462,56 @@
  17: 0x0440 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x044F [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x0F)
  19: 0x0456 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x16)
- 20: 0x045D [0x2B] Dietmund (ID: 17780751/0x010F500F) [7404*]:
+ 20: 0x045D [0x2B] Dietmund (ID: 17780751/0x010F500F) [7405*]:
     → "Who the... Oh, it's you. My kid's down with an awful fever."
  21: 0x0464 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 22: 0x0465 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7405*]:
+ 22: 0x0465 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7406*]:
     → "The doc said an herb from Qufim should bring the fever down, but I have to stay here and watch over him."
  23: 0x046C [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x046D [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x17)
  25: 0x0474 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
- 26: 0x047B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7406*]:
+ 26: 0x047B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7407*]:
     → "I feel bad sayin' this, but could you go find some for me?"
  27: 0x0482 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 28: 0x0483 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7407*]:
+ 28: 0x0483 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7408*]:
     → "I was gonna head out once he started feeling better, but I don't have much time! Please!"
  29: 0x048A [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x048B [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
- 31: 0x0492 [0x24] CREATE_DIALOG(message_id=7408*, default_option=1*, option_flags=0*)
+ 31: 0x0492 [0x24] CREATE_DIALOG(message_id=7409*, default_option=1*, option_flags=0*)
     → "Will you bring me the herb? [Yes, I'll go./No way.]"
  32: 0x0499 [0x25] WAIT_DIALOG_SELECT()
  33: 0x049A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x04E6
- 34: 0x04A2 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7409*]:
+ 34: 0x04A2 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7410*]:
     → "Thanks. I won't forget it!"
  35: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 36: 0x04AA [0x2B] Domingart (ID: 17780752/0x010F5010) [7410*]:
+ 36: 0x04AA [0x2B] Domingart (ID: 17780752/0x010F5010) [7411*]:
     → "Aauhh... Daddy..."
  37: 0x04B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x04B2 [0x4B] UPDATE_ENTITY_YAW(entity=Dietmund (ID: 17780751/0x010F500F), yaw=1.1°*)
  39: 0x04B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  40: 0x04BA [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17780751/0x010F500F) Render.Flags0 and Render.Flags3 conditions are met
- 41: 0x04BF [0x2B] Dietmund (ID: 17780751/0x010F500F) [7411*]:
+ 41: 0x04BF [0x2B] Dietmund (ID: 17780751/0x010F500F) [7412*]:
     → "It's okay... Hang in there!"
  42: 0x04C6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  43: 0x04C7 [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at LocalPlayer
  44: 0x04D0 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  45: 0x04D1 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17780751/0x010F500F) Render.Flags0 and Render.Flags3 conditions are met
- 46: 0x04D6 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7412*]:
+ 46: 0x04D6 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7413*]:
     → "There's a special flower on Qufim that only blooms at night. The doc said its roots should bring down his fever. Please, hurry!"
  47: 0x04DD [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x04DE [0x03] Work_Zone[1] = 0*
  49: 0x04E3 [0x01] GOTO 0x051B
  50: 0x04E6 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x051B
- 51: 0x04EE [0x2B] Dietmund (ID: 17780751/0x010F500F) [7413*]:
+ 51: 0x04EE [0x2B] Dietmund (ID: 17780751/0x010F500F) [7414*]:
     → "Heh, typical... But come back if you ever change your mind. I don't care who helps me now."
  52: 0x04F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 53: 0x04F6 [0x2B] Domingart (ID: 17780752/0x010F5010) [7410*]:
+ 53: 0x04F6 [0x2B] Domingart (ID: 17780752/0x010F5010) [7411*]:
     → "Aauhh... Daddy..."
  54: 0x04FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  55: 0x04FE [0x4B] UPDATE_ENTITY_YAW(entity=Dietmund (ID: 17780751/0x010F500F), yaw=1.1°*)
  56: 0x0505 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  57: 0x0506 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Dietmund (ID: 17780751/0x010F500F) Render.Flags0 and Render.Flags3 conditions are met
- 58: 0x050B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7411*]:
+ 58: 0x050B [0x2B] Dietmund (ID: 17780751/0x010F500F) [7412*]:
     → "It's okay... Hang in there!"
  59: 0x0512 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x0513 [0x03] Work_Zone[1] = 1*
@@ -582,7 +582,7 @@ SUBROUTINE_051B:
  14: 0x05D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  15: 0x05E4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  16: 0x05F3 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x0F)
- 17: 0x05FA [0x2B] Dietmund (ID: 17780751/0x010F500F) [7414*]:
+ 17: 0x05FA [0x2B] Dietmund (ID: 17780751/0x010F500F) [7415*]:
     → "There's a special flower on Qufim that only blooms at night. The doc said its roots should bring down his fever. Please, hurry!"
  18: 0x0601 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0602 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x10)
@@ -659,7 +659,7 @@ SUBROUTINE_051B:
  16: 0x06BD [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  17: 0x06CC [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Domingart (ID: 17780752/0x010F5010), tag_num=0x07)
  18: 0x06D3 [0x4A] LocalPlayer looks at Domingart (ID: 17780752/0x010F5010)
- 19: 0x06DC [0x2B] Domingart (ID: 17780752/0x010F5010) [7415*]:
+ 19: 0x06DC [0x2B] Domingart (ID: 17780752/0x010F5010) [7416*]:
     → "Hello. Are you here for my dad?"
  20: 0x06E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x06E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "cm6b" with entities [EventEntity, EventEntity], work=[145*, 0*]
@@ -667,15 +667,15 @@ SUBROUTINE_051B:
  23: 0x06FC [0x1C] WAIT(60* ticks)
  24: 0x06FF [0x27] REQ_SET(priority=0x03, entity_id=Domingart (ID: 17780752/0x010F5010), tag_num=0x0C)
  25: 0x0706 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "cm6b" with entities [EventEntity, EventEntity], work=145*
- 26: 0x0715 [0x2B] Domingart (ID: 17780752/0x010F5010) [7416*]:
+ 26: 0x0715 [0x2B] Domingart (ID: 17780752/0x010F5010) [7417*]:
     → "He went out to run an errand, but he said he'd be right back."
  27: 0x071C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x071D [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Domingart (ID: 17780752/0x010F5010), tag_num=0x0D)
- 29: 0x0724 [0x2B] Domingart (ID: 17780752/0x010F5010) [7417*]:
+ 29: 0x0724 [0x2B] Domingart (ID: 17780752/0x010F5010) [7418*]:
     → "Oh, yeah. He asked me to give this to you."
  30: 0x072B [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x072C [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Domingart (ID: 17780752/0x010F5010), tag_num=0x0E)
- 32: 0x0733 [0x2B] Domingart (ID: 17780752/0x010F5010) [7418*]:
+ 32: 0x0733 [0x2B] Domingart (ID: 17780752/0x010F5010) [7419*]:
     → "Well, I've got places to go to. See you later!"
  33: 0x073A [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x073B [0x27] REQ_SET(priority=0x03, entity_id=LocalPlayer, tag_num=0x1F)
@@ -756,25 +756,25 @@ SUBROUTINE_051B:
  17: 0x084C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
  18: 0x085B [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x0F)
  19: 0x0862 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
- 20: 0x0869 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7420*]:
+ 20: 0x0869 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7421*]:
     → "Oh, it's you. Thanks to you, I remembered what it is that keeps me going. For that, you have my sincerest thanks."
  21: 0x0870 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0871 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
  23: 0x0878 [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at Domingart (ID: 17780752/0x010F5010)
- 24: 0x0881 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7421*]:
+ 24: 0x0881 [0x2B] Dietmund (ID: 17780751/0x010F500F) [7422*]:
     → "Hey, say thank you for the medicine, okay?"
  25: 0x0888 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0889 [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at LocalPlayer
  27: 0x0892 [0x27] REQ_SET(priority=0x03, entity_id=Domingart (ID: 17780752/0x010F5010), tag_num=0x06)
  28: 0x0899 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Domingart (ID: 17780752/0x010F5010))
  29: 0x089F [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at Domingart (ID: 17780752/0x010F5010)
- 30: 0x08A8 [0x2B] Domingart (ID: 17780752/0x010F5010) [7422*]:
+ 30: 0x08A8 [0x2B] Domingart (ID: 17780752/0x010F5010) [7423*]:
     → "Thank you very much!"
  31: 0x08AF [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x08B0 [0x4A] Dietmund (ID: 17780751/0x010F500F) looks at LocalPlayer
  33: 0x08B9 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  34: 0x08BA [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 35: 0x08BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [7423*]:
+ 35: 0x08BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [7424*]:
     → "You'd make a great beastmaster. I'll do my best to return to the basics, like you."
  36: 0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  37: 0x08C3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo2" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
@@ -810,7 +810,7 @@ SUBROUTINE_051B:
 ```
   0: 0x08FC [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x08FF [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x16)
-  2: 0x0906 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8023*]:
+  2: 0x0906 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8024*]:
     → "Sorry, I'm busy. Something awful has happened, and it'll take one helluva beastmaster to sort it out."
   3: 0x090D [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x090E [0x1A] CALL_SUBROUTINE(address=0x0ADA)
@@ -842,15 +842,15 @@ SUBROUTINE_051B:
 ```
   0: 0x0913 [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x0916 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
-  2: 0x091D [0x2B] Dietmund (ID: 17780751/0x010F500F) [8024*]:
+  2: 0x091D [0x2B] Dietmund (ID: 17780751/0x010F500F) [8025*]:
     → "Perfect timing! We were hoping to find a renowned beastmaster like you to take care of a little problem."
   3: 0x0924 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0925 [0x27] REQ_SET(priority=0x05, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
-  5: 0x092C [0x2B] Dietmund (ID: 17780751/0x010F500F) [8025*]:
+  5: 0x092C [0x2B] Dietmund (ID: 17780751/0x010F500F) [8026*]:
     → "You see, the beasts who inhabit Eldieme are acting strange lately. It's like they're under someone's control. They've attacked adventurers, and recently killed one!"
   6: 0x0933 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0934 [0x06] Work_Zone[1] = 0
-  8: 0x0937 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8026*]:
+  8: 0x0937 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8027*]:
     → "People suspect we beastmasters have something to do with it. You should know we'd never do anything like that. Won't you look into this for us?"
   9: 0x093E [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x093F [0x1A] CALL_SUBROUTINE(address=0x0961)
@@ -887,7 +887,7 @@ SUBROUTINE_051B:
 ```
   0: 0x0947 [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x094A [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x16)
-  2: 0x0951 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8027*]:
+  2: 0x0951 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8028*]:
     → "You see, the beasts that inhabit Eldieme are acting strange lately. It's like someone or something is controlling them. Could you look into it for us?"
   3: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0959 [0x1A] CALL_SUBROUTINE(address=0x0961)
@@ -897,23 +897,23 @@ SUBROUTINE_051B:
 
 SUBROUTINE_0961:
   8: 0x0961 [0x06] Work_Zone[1] = 0
-  9: 0x0964 [0x24] CREATE_DIALOG(message_id=8028*, default_option=1*, option_flags=0*)
+  9: 0x0964 [0x24] CREATE_DIALOG(message_id=8029*, default_option=1*, option_flags=0*)
     → "Will you help us? [Of course I will./Not right now.]"
  10: 0x096B [0x25] WAIT_DIALOG_SELECT()
  11: 0x096C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x099F
  12: 0x0974 [0x03] Work_Zone[2] = 217*
  13: 0x0979 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
- 14: 0x0980 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8029*]:
+ 14: 0x0980 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8030*]:
     → "I knew you would! Many skilled beastmasters have gone, but none have returned. Maybe they've fallen to whatever is controlling the beasts!"
  15: 0x0987 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 16: 0x0988 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8030*]:
+ 16: 0x0988 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8031*]:
     → "Take $6 to protect yourself. Ask Osker in the stables in Upper Jeuno to help you."
  17: 0x098F [0x23] WAIT_FOR_DIALOG_INTERACTION
  18: 0x0990 [0x29] REQ_SET_WAIT(priority=0x05, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
  19: 0x0997 [0x03] Work_Zone[1] = 1*
  20: 0x099C [0x01] GOTO 0x09B2
  21: 0x099F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x09B2
- 22: 0x09A7 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8031*]:
+ 22: 0x09A7 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8032*]:
     → "You're the only one we can turn to! Please come back as soon as you can."
  23: 0x09AE [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x09AF [0x01] GOTO 0x09B2
@@ -944,7 +944,7 @@ SUBROUTINE_09B2:
 ```
   0: 0x09B3 [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x09B6 [0x03] Work_Zone[2] = 217*
-  2: 0x09BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [8030*]:
+  2: 0x09BB [0x2B] Dietmund (ID: 17780751/0x010F500F) [8031*]:
     → "Take $6 to protect yourself. Ask Osker in the stables in Upper Jeuno to help you."
   3: 0x09C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09C3 [0x1A] CALL_SUBROUTINE(address=0x0ADA)
@@ -974,7 +974,7 @@ SUBROUTINE_09B2:
 ```
   0: 0x09C8 [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x09CB [0x03] Work_Zone[2] = 217*
-  2: 0x09D0 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8032*]:
+  2: 0x09D0 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8033*]:
     → "So you've got $6. Good work! You will know when to use it. Now, to the Eldieme Necropolis!"
   3: 0x09D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09D8 [0x1A] CALL_SUBROUTINE(address=0x0ADA)
@@ -1007,15 +1007,15 @@ SUBROUTINE_09B2:
 ```
   0: 0x09DD [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x09E0 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x14)
-  2: 0x09E7 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8033*]:
+  2: 0x09E7 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8034*]:
     → "So that was what was happening. I'm happy that the honor of beastmasters has been cleared. On behalf of everyone here, I thank you."
   3: 0x09EE [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x09EF [0x29] REQ_SET_WAIT(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x15)
   5: 0x09F6 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x16)
-  6: 0x09FD [0x2B] Dietmund (ID: 17780751/0x010F500F) [8034*]:
+  6: 0x09FD [0x2B] Dietmund (ID: 17780751/0x010F500F) [8035*]:
     → "Pets are precious to beastmasters. I almost lost one, so I know how it feels."
   7: 0x0A04 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x0A05 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8035*]:
+  8: 0x0A05 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8036*]:
     → "The other night I dreamed I was riding my old chocobo across the plains. Brutus told me he'd let me see it again, and I can't wait!"
   9: 0x0A0C [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0A0D [0x1A] CALL_SUBROUTINE(address=0x0ADA)
@@ -1060,14 +1060,14 @@ SUBROUTINE_09B2:
 ```
   0: 0x0A12 [0x1A] CALL_SUBROUTINE(address=0x0A46)
   1: 0x0A15 [0x27] REQ_SET(priority=0x03, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x1C)
-  2: 0x0A1C [0x2B] Dietmund (ID: 17780751/0x010F500F) [8036*]:
+  2: 0x0A1C [0x2B] Dietmund (ID: 17780751/0x010F500F) [8037*]:
     → "The other day I was finally able to ride my old chocobo... It was like, well, a dream come true. I never remembered riding to be so exciting."
   3: 0x0A23 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0A24 [0x27] REQ_SET(priority=0x04, entity_id=Dietmund (ID: 17780751/0x010F500F), tag_num=0x1D)
-  5: 0x0A2B [0x2B] Dietmund (ID: 17780751/0x010F500F) [8037*]:
+  5: 0x0A2B [0x2B] Dietmund (ID: 17780751/0x010F500F) [8038*]:
     → "Ahhhhhh-choo! Excuse me. I think I caught myself a cold riding that old girl all night. My son's been taking care of me since morning."
   6: 0x0A32 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0A33 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8038*]:
+  7: 0x0A33 [0x2B] Dietmund (ID: 17780751/0x010F500F) [8039*]:
     → "I don't know how to thank you for all you've done for me. I think I'll take me some of that great medicine you got for my son and get back into bed. Be seeing you! <Cough-cough!>"
   8: 0x0A3A [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0A3B [0x2A] GET_REQ_LEVEL(level=4, entity_id=Dietmund (ID: 17780751/0x010F500F))

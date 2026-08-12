@@ -123,13 +123,13 @@
 |       7 | 0x0010      |          16 |
 |       8 | 0x001F      |          31 |
 |       9 | 0xFFFFFFFF  |  4294967295 |
-|      10 | 0x1E0D      |        7693 |
-|      11 | 0x1DFD      |        7677 |
+|      10 | 0x1E0E      |        7694 |
+|      11 | 0x1DFE      |        7678 |
 |      12 | 0x0005      |           5 |
 |      13 | 0x0002      |           2 |
 |      14 | 0x0003      |           3 |
 |      15 | 0x0004      |           4 |
-|      16 | 0x1C90      |        7312 |
+|      16 | 0x1C91      |        7313 |
 |      17 | 0x00FF      |         255 |
 |      18 | 0x0013      |          19 |
 |      19 | 0x0008      |           8 |
@@ -139,11 +139,11 @@
 |      23 | 0xFFFD40E0  |  4294787296 |
 |      24 | 0xFFFFB9B0  |  4294949296 |
 |      25 | 0x0C00      |        3072 |
-|      26 | 0x1C9B      |        7323 |
-|      27 | 0x1C9C      |        7324 |
-|      28 | 0x1C9D      |        7325 |
-|      29 | 0x1C9E      |        7326 |
-|      30 | 0x1CC2      |        7362 |
+|      26 | 0x1C9C      |        7324 |
+|      27 | 0x1C9D      |        7325 |
+|      28 | 0x1C9E      |        7326 |
+|      29 | 0x1C9F      |        7327 |
+|      30 | 0x1CC3      |        7363 |
 |      31 | 0x0006      |           6 |
 |      32 | 0x0007      |           7 |
 |      33 | 0x000A      |          10 |
@@ -162,12 +162,12 @@
 |      46 | 0x001B      |          27 |
 |      47 | 0x001C      |          28 |
 |      48 | 0x001D      |          29 |
-|      49 | 0x1DF7      |        7671 |
+|      49 | 0x1DF8      |        7672 |
 |      50 | 0x0064      |         100 |
-|      51 | 0x1DE3      |        7651 |
+|      51 | 0x1DE4      |        7652 |
 |      52 | 0x00D9      |         217 |
 |      53 | 0x002E      |          46 |
-|      54 | 0x1C93      |        7315 |
+|      54 | 0x1C94      |        7316 |
 |      55 | 0x00C9      |         201 |
 |      56 | 0x00B4      |         180 |
 |      57 | 0xFFF6C42B  |  4294362155 |
@@ -236,10 +236,10 @@
 |     120 | 0xFFFFAA3A  |  4294945338 |
 |     121 | 0xFFFFFF06  |  4294967046 |
 |     122 | 0x0411      |        1041 |
-|     123 | 0x1DE5      |        7653 |
-|     124 | 0x1DE4      |        7652 |
-|     125 | 0x1E05      |        7685 |
-|     126 | 0x1E09      |        7689 |
+|     123 | 0x1DE6      |        7654 |
+|     124 | 0x1DE5      |        7653 |
+|     125 | 0x1E06      |        7686 |
+|     126 | 0x1E0A      |        7690 |
 |     127 | 0x0078      |         120 |
 |     128 | 0xFFF5517E  |  4294267262 |
 |     129 | 0xFFFDE3A0  |  4294828960 |
@@ -263,44 +263,44 @@
 |     147 | 0x0C1D      |        3101 |
 |     148 | 0x0C07      |        3079 |
 |     149 | 0x023E      |         574 |
-|     150 | 0x1EB7      |        7863 |
-|     151 | 0x1EB8      |        7864 |
+|     150 | 0x1EB8      |        7864 |
+|     151 | 0x1EB9      |        7865 |
 |     152 | 0x006E      |         110 |
-|     153 | 0x1EB9      |        7865 |
+|     153 | 0x1EBA      |        7866 |
 |     154 | 0x0028      |          40 |
 |     155 | 0xFFF56915  |  4294273301 |
 |     156 | 0xFFFDD25E  |  4294824542 |
 |     157 | 0x0046      |          70 |
-|     158 | 0x1EBA      |        7866 |
+|     158 | 0x1EBB      |        7867 |
 |     159 | 0x00AA      |         170 |
-|     160 | 0x1EBB      |        7867 |
-|     161 | 0x1EBC      |        7868 |
+|     160 | 0x1EBC      |        7868 |
+|     161 | 0x1EBD      |        7869 |
 |     162 | 0x0C08      |        3080 |
 |     163 | 0x006B      |         107 |
 |     164 | 0x006C      |         108 |
 |     165 | 0x0836      |        2102 |
 |     166 | 0x0096      |         150 |
 |     167 | 0x0057      |          87 |
-|     168 | 0x1EBD      |        7869 |
-|     169 | 0x1EBE      |        7870 |
+|     168 | 0x1EBE      |        7870 |
+|     169 | 0x1EBF      |        7871 |
 |     170 | 0xFFF5287A  |  4294256762 |
 |     171 | 0xFFFE0013  |  4294836243 |
 |     172 | 0x0037      |          55 |
 |     173 | 0x0C09      |        3081 |
 |     174 | 0x00A0      |         160 |
 |     175 | 0x0B1B      |        2843 |
-|     176 | 0x1EBF      |        7871 |
+|     176 | 0x1EC0      |        7872 |
 |     177 | 0x00F0      |         240 |
 |     178 | 0x0032      |          50 |
 |     179 | 0x005F      |          95 |
-|     180 | 0x1EC0      |        7872 |
+|     180 | 0x1EC1      |        7873 |
 |     181 | 0x007A      |         122 |
-|     182 | 0x1EC1      |        7873 |
-|     183 | 0x1EC2      |        7874 |
-|     184 | 0x1EC3      |        7875 |
+|     182 | 0x1EC2      |        7874 |
+|     183 | 0x1EC3      |        7875 |
+|     184 | 0x1EC4      |        7876 |
 |     185 | 0xFFF579BC  |  4294277564 |
 |     186 | 0xFFFDC385  |  4294820741 |
-|     187 | 0x1EC4      |        7876 |
+|     187 | 0x1EC5      |        7877 |
 |     188 | 0xFFF55AA8  |  4294269608 |
 |     189 | 0xFFFDDDB1  |  4294827441 |
 |     190 | 0x01F4      |         500 |
@@ -405,49 +405,49 @@
 |     289 | 0x047E      |        1150 |
 |     290 | 0xFFF555D5  |  4294268373 |
 |     291 | 0xFFFB09C5  |  4294642117 |
-|     292 | 0x1C40      |        7232 |
-|     293 | 0x1C42      |        7234 |
-|     294 | 0x1C43      |        7235 |
-|     295 | 0x1C44      |        7236 |
-|     296 | 0x1C45      |        7237 |
-|     297 | 0x1C46      |        7238 |
-|     298 | 0x1C47      |        7239 |
-|     299 | 0x1C48      |        7240 |
-|     300 | 0x1C49      |        7241 |
-|     301 | 0x1C4A      |        7242 |
-|     302 | 0x1C4B      |        7243 |
-|     303 | 0x1C4C      |        7244 |
-|     304 | 0x1C4D      |        7245 |
-|     305 | 0x1C4E      |        7246 |
-|     306 | 0x1C4F      |        7247 |
-|     307 | 0x1C50      |        7248 |
-|     308 | 0x1C51      |        7249 |
-|     309 | 0x1C52      |        7250 |
-|     310 | 0x1C53      |        7251 |
-|     311 | 0x1C54      |        7252 |
-|     312 | 0x1C55      |        7253 |
-|     313 | 0x1C57      |        7255 |
-|     314 | 0x1C56      |        7254 |
-|     315 | 0x1C58      |        7256 |
-|     316 | 0x1C8A      |        7306 |
-|     317 | 0x1C8B      |        7307 |
+|     292 | 0x1C41      |        7233 |
+|     293 | 0x1C43      |        7235 |
+|     294 | 0x1C44      |        7236 |
+|     295 | 0x1C45      |        7237 |
+|     296 | 0x1C46      |        7238 |
+|     297 | 0x1C47      |        7239 |
+|     298 | 0x1C48      |        7240 |
+|     299 | 0x1C49      |        7241 |
+|     300 | 0x1C4A      |        7242 |
+|     301 | 0x1C4B      |        7243 |
+|     302 | 0x1C4C      |        7244 |
+|     303 | 0x1C4D      |        7245 |
+|     304 | 0x1C4E      |        7246 |
+|     305 | 0x1C4F      |        7247 |
+|     306 | 0x1C50      |        7248 |
+|     307 | 0x1C51      |        7249 |
+|     308 | 0x1C52      |        7250 |
+|     309 | 0x1C53      |        7251 |
+|     310 | 0x1C54      |        7252 |
+|     311 | 0x1C55      |        7253 |
+|     312 | 0x1C56      |        7254 |
+|     313 | 0x1C58      |        7256 |
+|     314 | 0x1C57      |        7255 |
+|     315 | 0x1C59      |        7257 |
+|     316 | 0x1C8B      |        7307 |
+|     317 | 0x1C8C      |        7308 |
 |     318 | 0x063F      |        1599 |
-|     319 | 0x1C59      |        7257 |
+|     319 | 0x1C5A      |        7258 |
 |     320 | 0x40000000  |  1073741824 |
-|     321 | 0x1C41      |        7233 |
-|     322 | 0x1C5C      |        7260 |
-|     323 | 0x1C3F      |        7231 |
+|     321 | 0x1C42      |        7234 |
+|     322 | 0x1C5D      |        7261 |
+|     323 | 0x1C40      |        7232 |
 |     324 | 0x00BE      |         190 |
 |     325 | 0x03E8      |        1000 |
 |     326 | 0x07D0      |        2000 |
 |     327 | 0x0BB8      |        3000 |
 |     328 | 0x0FA0      |        4000 |
-|     329 | 0x1C7D      |        7293 |
-|     330 | 0x1C87      |        7303 |
+|     329 | 0x1C7E      |        7294 |
+|     330 | 0x1C88      |        7304 |
 |     331 | 0xFFF550B1  |  4294267057 |
 |     332 | 0xFFFB5335  |  4294660917 |
 |     333 | 0x0C24      |        3108 |
-|     334 | 0x1C91      |        7313 |
+|     334 | 0x1C92      |        7314 |
 |     335 | 0xFFF551B0  |  4294267312 |
 |     336 | 0xFFFD4045  |  4294787141 |
 |     337 | 0x0404      |        1028 |
@@ -477,54 +477,54 @@
 
 ## String References
 
-- **7231**: Leave the Walk of Echoes? [Yes./Not yet.]
-- **7232**: This veridical conflux appears to be a portal to a battlefield.
-- **7233**: You feel the faintest promise of a reaction, but nothing happens...
-- **7234**: The faint scraping of claws echoes from beyond...
-- **7235**: The faint trickling of a viscous fluid echoes from beyond...
-- **7236**: The frenzied scurrying of insects echoes faintly from beyond...
-- **7237**: The beating of fiendish wings echoes faintly from beyond...
-- **7238**: The writhing of great reptiles echoes faintly from beyond...
-- **7239**: The thunderous steps of massive reptiles echo faintly from beyond...
-- **7240**: The howling of savage beasts echoes faintly from beyond...
-- **7241**: The sinister heartbeat of a dragon echoes faintly from beyond...
-- **7242**: The spine-chilling screech of a monstrous bird echoes faintly from beyond...
-- **7243**: The curious popping of countless buds echoes faintly from beyond...
-- **7244**: The ominous sound of bone scraping against metal echoes faintly from beyond...
-- **7245**: The chilling sound of metal grinding against metal echoes faintly from beyond...
-- **7246**: The baleful sound of a thousand dark wings beating in shadow echoes faintly from beyond...
-- **7247**: The spine-chilling crack of beastly claws ripping through rock echoes faintly from beyond...
-- **7248**: This conflux emits no sound, and yet you sense an unquenchable thirst for carnage and blood...
-- **7249**: What will you do? [Nothing for now./Assess the situation./Enter the battlefield!]
-- **7250**: [There are presently no enemies on the battlefield/Enemies have emerged on the battlefield/The enemy is being engaged on the battlefield/The battle has ended, and enemies no longer prowl the battlefield].
-- **7251**: You cannot enter the battlefield at this time.
-- **7252**: Enemies will appear in [under /]$0 [minute/minutes] (Earth time).
-- **7253**: You have $0 [minute/minutes] (Earth time) to complete your objectives.
-- **7254**: You have [under /]$0 [minute/minutes] (Earth time) left to complete your objectives.
-- **7255**: There [is/are] currently $0 [participant/participants]. Up to $1 people may participate.
-- **7256**: The current battle progress is $0%.
-- **7257**: Unable to enter the battlefield. You do not possess $3.
-- **7260**: Leave the battlefield? [Run away./Stay.]
-- **7293**: Rank Set(Debug : [OFF/ON]) [Cancel/0\`$1/$1$133639\`$3/$3\`$4/$4\`$5/$5\`/[Debug ON/Debug OFF]]
-- **7303**: Do what? ([pre-pop/popped/combat/post-combat] [$25$25/$26$25/$25$26/$26$26]). [Nothing./Restart normal battle./Restart surgebattle./Set endowed rate./Set surge rate.]
-- **7306**: Items not yet obtain from the treasure coffer will be destroyed upon entry.
-- **7307**: Proceed anyway? [Yes./No.]
-- **7312**: Enter the battlefield? [Enter./Decline.]
-- **7313**: Leave the battlefield? [Run away./Stay.]
-- **7315**: You cannot enter the battlefield at present. Please wait a little longer.
-- **7323**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7232**: Leave the Walk of Echoes? [Yes./Not yet.]
+- **7233**: This veridical conflux appears to be a portal to a battlefield.
+- **7234**: You feel the faintest promise of a reaction, but nothing happens...
+- **7235**: The faint scraping of claws echoes from beyond...
+- **7236**: The faint trickling of a viscous fluid echoes from beyond...
+- **7237**: The frenzied scurrying of insects echoes faintly from beyond...
+- **7238**: The beating of fiendish wings echoes faintly from beyond...
+- **7239**: The writhing of great reptiles echoes faintly from beyond...
+- **7240**: The thunderous steps of massive reptiles echo faintly from beyond...
+- **7241**: The howling of savage beasts echoes faintly from beyond...
+- **7242**: The sinister heartbeat of a dragon echoes faintly from beyond...
+- **7243**: The spine-chilling screech of a monstrous bird echoes faintly from beyond...
+- **7244**: The curious popping of countless buds echoes faintly from beyond...
+- **7245**: The ominous sound of bone scraping against metal echoes faintly from beyond...
+- **7246**: The chilling sound of metal grinding against metal echoes faintly from beyond...
+- **7247**: The baleful sound of a thousand dark wings beating in shadow echoes faintly from beyond...
+- **7248**: The spine-chilling crack of beastly claws ripping through rock echoes faintly from beyond...
+- **7249**: This conflux emits no sound, and yet you sense an unquenchable thirst for carnage and blood...
+- **7250**: What will you do? [Nothing for now./Assess the situation./Enter the battlefield!]
+- **7251**: [There are presently no enemies on the battlefield/Enemies have emerged on the battlefield/The enemy is being engaged on the battlefield/The battle has ended, and enemies no longer prowl the battlefield].
+- **7252**: You cannot enter the battlefield at this time.
+- **7253**: Enemies will appear in [under /]$0 [minute/minutes] (Earth time).
+- **7254**: You have $0 [minute/minutes] (Earth time) to complete your objectives.
+- **7255**: You have [under /]$0 [minute/minutes] (Earth time) left to complete your objectives.
+- **7256**: There [is/are] currently $0 [participant/participants]. Up to $1 people may participate.
+- **7257**: The current battle progress is $0%.
+- **7258**: Unable to enter the battlefield. You do not possess $3.
+- **7261**: Leave the battlefield? [Run away./Stay.]
+- **7294**: Rank Set(Debug : [OFF/ON]) [Cancel/0\`$1/$1$133639\`$3/$3\`$4/$4\`$5/$5\`/[Debug ON/Debug OFF]]
+- **7304**: Do what? ([pre-pop/popped/combat/post-combat] [$25$25/$26$25/$25$26/$26$26]). [Nothing./Restart normal battle./Restart surgebattle./Set endowed rate./Set surge rate.]
+- **7307**: Items not yet obtain from the treasure coffer will be destroyed upon entry.
+- **7308**: Proceed anyway? [Yes./No.]
+- **7313**: Enter the battlefield? [Enter./Decline.]
+- **7314**: Leave the battlefield? [Run away./Stay.]
+- **7316**: You cannot enter the battlefield at present. Please wait a little longer.
 - **7324**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7325**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
 - **7326**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-- **7362**: You do not meet the requirements to enter the battlefield. Access is denied.
-- **7651**: Skip the event? [Yes./No.]
-- **7652**: Battlefield clear time: $3 second[/s]!
-- **7653**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
-- **7671**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-- **7677**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
-- **7685**: You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/Champion of the Dawn/A Forbidden Reunion/]"!
-- **7689**: You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/The Dawn Also Rises/A Forbidden Reunion/]"!
-- **7693**: Which battlefield will you enter? [None./When Wills Collide./Maiden of the Dusk./[Champion of the Dawn/The Dawn Also Rises]./A Forbidden Reunion./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/ / /@/@/@/@/@/@/@]
+- **7327**: You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+- **7363**: You do not meet the requirements to enter the battlefield. Access is denied.
+- **7652**: Skip the event? [Yes./No.]
+- **7653**: Battlefield clear time: $3 second[/s]!
+- **7654**: Battlefield clear time: $3 minute[/s], $2 second[/s]!
+- **7672**: Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+- **7678**: Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]
+- **7686**: You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/Champion of the Dawn/A Forbidden Reunion/]"!
+- **7690**: You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/The Dawn Also Rises/A Forbidden Reunion/]"!
+- **7694**: Which battlefield will you enter? [None./When Wills Collide./Maiden of the Dusk./[Champion of the Dawn/The Dawn Also Rises]./A Forbidden Reunion./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/ / /@/@/@/@/@/@/@]
 
 ## Events
 
@@ -1021,7 +1021,7 @@
  13: 0x01E4 [0x03] ExtData[1]->WorkLocal[8] = 4294967295*
  14: 0x01E9 [0x0F] ExtData[1]->WorkLocal[8] ^= ExtData[1]->WorkLocal[6]
  15: 0x01EE [0x10] ExtData[1]->WorkLocal[8] <<= 1*
- 16: 0x01F3 [0x24] CREATE_DIALOG(message_id=7693*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
+ 16: 0x01F3 [0x24] CREATE_DIALOG(message_id=7694*, default_option=0*, option_flags=ExtData[1]->WorkLocal[8])
     → "Which battlefield will you enter? [None./When Wills Collide./Maiden of the Dusk./[Champion of the Dawn/The Dawn Also Rises]./A Forbidden Reunion./@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/@/ / /@/@/@/@/@/@/@]"
  17: 0x01FA [0x25] WAIT_DIALOG_SELECT()
  18: 0x01FB [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0209
@@ -1034,7 +1034,7 @@ SUBROUTINE_0232:
 
 SUBROUTINE_0243:
  23: 0x0243 [0x1A] CALL_SUBROUTINE(address=0x2EF2)
- 24: 0x0246 [0x24] CREATE_DIALOG(message_id=7677*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
+ 24: 0x0246 [0x24] CREATE_DIALOG(message_id=7678*, default_option=5*, option_flags=ExtData[1]->WorkLocal[8])
     → "Select difficulty. [Very difficult. (Level: ???)/Difficult. (Level: ???)/Normal. (Level: $18)/Easy. (Level: $17)/Very Easy. (Level: $16)/Leave.]"
  25: 0x024D [0x25] WAIT_DIALOG_SELECT()
  26: 0x024E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x025E
@@ -1060,7 +1060,7 @@ SUBROUTINE_02B1:
  44: 0x02B4 [0x06] ExtData[1]->WorkLocal[15] = 0
  45: 0x02B7 [0x1A] CALL_SUBROUTINE(address=0x0A24)
  46: 0x02BA [0x02] IF !(ExtData[1]->WorkLocal[21] == 1*) GOTO 0x02D8
- 47: 0x02C2 [0x24] CREATE_DIALOG(message_id=7312*, default_option=1*, option_flags=0*)
+ 47: 0x02C2 [0x24] CREATE_DIALOG(message_id=7313*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
  48: 0x02C9 [0x25] WAIT_DIALOG_SELECT()
  49: 0x02CA [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x02D8
@@ -1134,22 +1134,22 @@ SUBROUTINE_03EC:
 109: 0x041E [0x01] GOTO 0x09C0
 110: 0x0421 [0x02] IF !(Work_Zone[2] == 4*) GOTO 0x046B
 111: 0x0429 [0x02] IF !(ExtData[1]->WorkLocal[0] == 1*) GOTO 0x0438
-112: 0x0431 [0x48] [System] [7323*]:
+112: 0x0431 [0x48] [System] [7324*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 113: 0x0434 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0435 [0x01] GOTO 0x0465
 115: 0x0438 [0x02] IF !(ExtData[1]->WorkLocal[0] == 2*) GOTO 0x0447
-116: 0x0440 [0x48] [System] [7324*]:
+116: 0x0440 [0x48] [System] [7325*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 117: 0x0443 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x0444 [0x01] GOTO 0x0465
 119: 0x0447 [0x02] IF !(ExtData[1]->WorkLocal[0] == 3*) GOTO 0x0456
-120: 0x044F [0x48] [System] [7325*]:
+120: 0x044F [0x48] [System] [7326*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 121: 0x0452 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0453 [0x01] GOTO 0x0465
 123: 0x0456 [0x02] IF !(ExtData[1]->WorkLocal[0] == 4*) GOTO 0x0465
-124: 0x045E [0x48] [System] [7326*]:
+124: 0x045E [0x48] [System] [7327*]:
     → "You are cleared to enter the battlefield, but you cannot while party members are engaged in combat."
 125: 0x0461 [0x23] WAIT_FOR_DIALOG_INTERACTION
 126: 0x0462 [0x01] GOTO 0x0465
@@ -1158,7 +1158,7 @@ SUBROUTINE_0465:
 127: 0x0465 [0x01] GOTO 0x09D7
 
 SUBROUTINE_0675:
-128: 0x0675 [0x48] [System] [7671*]:
+128: 0x0675 [0x48] [System] [7672*]:
     → "Only $3 [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity."
 129: 0x0678 [0x23] WAIT_FOR_DIALOG_INTERACTION
 130: 0x0679 [0x01] GOTO 0x09D7
@@ -1182,7 +1182,7 @@ SUBROUTINE_06D9:
 SUBROUTINE_06FD:
 143: 0x06FD [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x0723
 144: 0x0705 [0x02] IF !(ExtData[1]->WorkLocal[14] == 1*) GOTO 0x0723
-145: 0x070D [0x24] CREATE_DIALOG(message_id=7651*, default_option=1*, option_flags=0*)
+145: 0x070D [0x24] CREATE_DIALOG(message_id=7652*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
 146: 0x0714 [0x25] WAIT_DIALOG_SELECT()
 147: 0x0715 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0723
@@ -1330,7 +1330,7 @@ SUBROUTINE_09C0:
 277: 0x09C3 [0x02] IF !(0* == 1*) GOTO 0x09D0
 278: 0x09CB [0x03] ExtData[1]->WorkLocal[0] = 2*
 279: 0x09D0 [0x01] GOTO 0x0337
-280: 0x09D3 [0x48] [System] [7315*]:
+280: 0x09D3 [0x48] [System] [7316*]:
     → "You cannot enter the battlefield at present. Please wait a little longer."
 281: 0x09D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1652,7 +1652,7 @@ SUBROUTINE_0D7D:
  58: 0x0D88 [0x01] GOTO 0x0DA6
  59: 0x0D8B [0x02] IF !(ExtData[1]->WorkLocal[22] == 1*) GOTO 0x0E56
  60: 0x0D93 [0x1C] WAIT(15* ticks)
- 61: 0x0D96 [0x24] CREATE_DIALOG(message_id=7651*, default_option=1*, option_flags=0*)
+ 61: 0x0D96 [0x24] CREATE_DIALOG(message_id=7652*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  62: 0x0D9D [0x25] WAIT_DIALOG_SELECT()
  63: 0x0D9E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0E56
@@ -1707,11 +1707,11 @@ SUBROUTINE_0E7D:
 102: 0x0E8A [0x02] IF !(Work_Zone[5] < 60*) GOTO 0x0EA5
 103: 0x0E92 [0x3F] Work_Zone[4] = Work_Zone[5] % 60*
 104: 0x0E99 [0x15] Work_Zone[5] /= 60*
-105: 0x0E9E [0x48] [System] [7653*]:
+105: 0x0E9E [0x48] [System] [7654*]:
     → "Battlefield clear time: $3 minute[/s], $2 second[/s]!"
 106: 0x0EA1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 107: 0x0EA2 [0x01] GOTO 0x0EA9
-108: 0x0EA5 [0x48] [System] [7652*]:
+108: 0x0EA5 [0x48] [System] [7653*]:
     → "Battlefield clear time: $3 second[/s]!"
 109: 0x0EA8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1719,12 +1719,12 @@ SUBROUTINE_0EA9:
 110: 0x0EA9 [0x02] IF !(ExtData[1]->WorkLocal[26] > ExtData[1]->WorkLocal[25]) GOTO 0x0ED7
 111: 0x0EB1 [0x03] Work_Zone[7] = ExtData[1]->WorkLocal[24]
 112: 0x0EB6 [0x02] IF !(Work_Zone[6] == 0*) GOTO 0x0EC5
-113: 0x0EBE [0x48] [System] [7685*]:
+113: 0x0EBE [0x48] [System] [7686*]:
     → "You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/Champion of the Dawn/A Forbidden Reunion/]"!"
 114: 0x0EC1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 115: 0x0EC2 [0x01] GOTO 0x0ED4
 116: 0x0EC5 [0x02] IF !(Work_Zone[6] == 1*) GOTO 0x0ED4
-117: 0x0ECD [0x48] [System] [7689*]:
+117: 0x0ECD [0x48] [System] [7690*]:
     → "You have broken the clear time record for "[When Wills Collide/Maiden of the Dusk/The Dawn Also Rises/A Forbidden Reunion/]"!"
 118: 0x0ED0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0ED1 [0x01] GOTO 0x0ED4
@@ -2207,13 +2207,13 @@ SUBROUTINE_1157:
  91: 0x1387 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y000" with entities [EventEntity, EventEntity], work=[574*, 0*]
  92: 0x1398 [0x1A] CALL_SUBROUTINE(address=0x2F52)
  93: 0x139B [0x7C] Lady Lilith (ID: 17523303/0x010B6267)->Render.Flags2 |= 0x00
- 94: 0x13A1 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7863*]:
+ 94: 0x13A1 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7864*]:
     → "......"
  95: 0x13A8 [0x1C] WAIT(100* ticks)
  96: 0x13AB [0x52] END_LOAD_SCHEDULER: End scheduler "y000" with entities [EventEntity, EventEntity], work=574*
  97: 0x13BA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[574*, 0*]
  98: 0x13CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y001" with entities [EventEntity, EventEntity], work=[574*, 0*]
- 99: 0x13DC [0x2B] Lilisette (ID: 17523300/0x010B6264) [7864*]:
+ 99: 0x13DC [0x2B] Lilisette (ID: 17523300/0x010B6264) [7865*]:
     → "..."
 100: 0x13E3 [0xAC] EventEntity->StatusEvent = 0*
 101: 0x13E7 [0xAB] EventEntity->Render.Flags0 |= 0x40000 // Set bit 18
@@ -2221,7 +2221,7 @@ SUBROUTINE_1157:
 103: 0x13EC [0x52] END_LOAD_SCHEDULER: End scheduler "y001" with entities [EventEntity, EventEntity], work=574*
 104: 0x13FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ov40" with entities [EventEntity, EventEntity], work=[574*, 0*]
 105: 0x140C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y002" with entities [EventEntity, EventEntity], work=[574*, 0*]
-106: 0x141D [0x2B] Cait Sith (ID: 17523288/0x010B6258) [7865*]:
+106: 0x141D [0x2B] Cait Sith (ID: 17523288/0x010B6258) [7866*]:
     → "Have we triumphed? Are we victorious?"
 107: 0x1424 [0x1C] WAIT(40* ticks)
 108: 0x1427 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-693.995*, pos_z=-142.754*, pos_y=-12.769*, direction=231.8°*)
@@ -2232,10 +2232,10 @@ SUBROUTINE_1157:
 113: 0x1458 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y003" with entities [EventEntity, EventEntity], work=[574*, 0*]
 114: 0x1469 [0x1C] WAIT(40* ticks)
 115: 0x146C [0x1C] WAIT(70* ticks)
-116: 0x146F [0x2B] Lilisette (ID: 17523300/0x010B6264) [7866*]:
+116: 0x146F [0x2B] Lilisette (ID: 17523300/0x010B6264) [7867*]:
     → "Lilith?"
 117: 0x1476 [0x1C] WAIT(170* ticks)
-118: 0x1479 [0x2B] Lilisette (ID: 17523300/0x010B6264) [7867*]:
+118: 0x1479 [0x2B] Lilisette (ID: 17523300/0x010B6264) [7868*]:
     → "Lili--"
 119: 0x1480 [0x1C] WAIT(30* ticks)
 120: 0x1483 [0x52] END_LOAD_SCHEDULER: End scheduler "y003" with entities [EventEntity, EventEntity], work=574*
@@ -2250,7 +2250,7 @@ SUBROUTINE_1157:
 129: 0x14EC [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "llz2" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lady Lilith (ID: 17523303/0x010B6267)], work=3079*
 130: 0x14FB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y006" with entities [EventEntity, EventEntity], work=[574*, 0*]
 131: 0x150C [0x1C] WAIT(10* ticks)
-132: 0x150F [0x2B] Lilisette (ID: 17523300/0x010B6264) [7868*]:
+132: 0x150F [0x2B] Lilisette (ID: 17523300/0x010B6264) [7869*]:
     → "!!!"
 133: 0x1516 [0x1C] WAIT(70* ticks)
 134: 0x1519 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "llz3" with entities [Lady Lilith (ID: 17523304/0x010B6268), Lady Lilith (ID: 17523304/0x010B6268)], work=3079*
@@ -2280,12 +2280,12 @@ SUBROUTINE_1157:
 158: 0x1638 [0x1C] WAIT(87* ticks)
 159: 0x163B [0x52] END_LOAD_SCHEDULER: End scheduler "y008" with entities [EventEntity, EventEntity], work=574*
 160: 0x164A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y009" with entities [EventEntity, EventEntity], work=[574*, 0*]
-161: 0x165B [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7869*]:
+161: 0x165B [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7870*]:
     → "Ahahahahaha! A fool to the very last!"
 162: 0x1662 [0x1C] WAIT(120* ticks)
 163: 0x1665 [0x52] END_LOAD_SCHEDULER: End scheduler "y009" with entities [EventEntity, EventEntity], work=574*
 164: 0x1674 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y010" with entities [EventEntity, EventEntity], work=[574*, 0*]
-165: 0x1685 [0x2B] Cait Sith (ID: 17523288/0x010B6258) [7870*]:
+165: 0x1685 [0x2B] Cait Sith (ID: 17523288/0x010B6258) [7871*]:
     → "Lilisette!"
 166: 0x168C [0x1C] WAIT(40* ticks)
 167: 0x168F [0xBA] SET_ENTITY_POSITION(entity_id=Lady Lilith (ID: 17523304/0x010B6268), pos_x=-710.534*, pos_z=-131.053*, pos_y=-12.769*, direction=90.0°*)
@@ -2310,7 +2310,7 @@ SUBROUTINE_1157:
 186: 0x1794 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y013" with entities [EventEntity, EventEntity], work=[574*, 0*]
 187: 0x17A5 [0x1C] WAIT(40* ticks)
 188: 0x17A8 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fc01" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lady Lilith (ID: 17523303/0x010B6267)], work=2843*
-189: 0x17B7 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7871*]:
+189: 0x17B7 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7872*]:
     → "This is the thing...that felled me...from on high? Ab-absurd..."
 190: 0x17BE [0x1C] WAIT(60* ticks)
 191: 0x17C1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "llz7" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lady Lilith (ID: 17523303/0x010B6267)], work=3081*
@@ -2336,7 +2336,7 @@ SUBROUTINE_1157:
 211: 0x188D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y016" with entities [EventEntity, EventEntity], work=[574*, 0*]
 212: 0x189E [0x1C] WAIT(70* ticks)
 213: 0x18A1 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fc01" with entities [Lady Lilith (ID: 17523304/0x010B6268), Lady Lilith (ID: 17523304/0x010B6268)], work=2843*
-214: 0x18B0 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7872*]:
+214: 0x18B0 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7873*]:
     → "I refuse to suffer...this humiliation... I will bow...before neither god nor man..."
 215: 0x18B7 [0x1C] WAIT(150* ticks)
 216: 0x18BA [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fc00" with entities [Lady Lilith (ID: 17523304/0x010B6268), Lady Lilith (ID: 17523304/0x010B6268)], work=2843*
@@ -2359,10 +2359,10 @@ SUBROUTINE_1157:
 233: 0x1987 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "llwg" with entities [Lady Lilith (ID: 17523304/0x010B6268), Lady Lilith (ID: 17523304/0x010B6268)], work=1404*
 234: 0x1996 [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "s001" with entities [Lady Lilith (ID: 17523304/0x010B6268), Lilisette (ID: 17523300/0x010B6264)], work=[122*, 0*]
 235: 0x19A7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fc01" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lady Lilith (ID: 17523303/0x010B6267)], work=2843*
-236: 0x19B6 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7873*]:
+236: 0x19B6 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7874*]:
     → "For the sake...of my people..."
 237: 0x19BD [0x1C] WAIT(90* ticks)
-238: 0x19C0 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7874*]:
+238: 0x19C0 [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7875*]:
     → "In the name...of my world..."
 239: 0x19C7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fc00" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lady Lilith (ID: 17523303/0x010B6267)], work=2843*
 240: 0x19D6 [0x1C] WAIT(90* ticks)
@@ -2371,7 +2371,7 @@ SUBROUTINE_1157:
 243: 0x19EB [0x52] END_LOAD_SCHEDULER: End scheduler "y021" with entities [EventEntity, EventEntity], work=574*
 244: 0x19FA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y019" with entities [EventEntity, EventEntity], work=[574*, 0*]
 245: 0x1A0B [0x1C] WAIT(20* ticks)
-246: 0x1A0E [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7875*]:
+246: 0x1A0E [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7876*]:
     → "All of your kind...your gods..."
 247: 0x1A15 [0x1C] WAIT(120* ticks)
 248: 0x1A18 [0xBA] SET_ENTITY_POSITION(entity_id=LocalPlayer, pos_x=-689.732*, pos_z=-146.555*, pos_y=-12.769*, direction=231.8°*)
@@ -2381,7 +2381,7 @@ SUBROUTINE_1157:
 252: 0x1A4D [0xCD] LOAD_SCHEDULED_TASK_ALT4: Load scheduler "s002" with entities [Lady Lilith (ID: 17523303/0x010B6267), Lilisette (ID: 17523300/0x010B6264)], work=[122*, 0*]
 253: 0x1A5E [0x52] END_LOAD_SCHEDULER: End scheduler "y019" with entities [EventEntity, EventEntity], work=574*
 254: 0x1A6D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "y020" with entities [EventEntity, EventEntity], work=[574*, 0*]
-255: 0x1A7E [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7876*]:
+255: 0x1A7E [0x2B] Lady Lilith (ID: 17523303/0x010B6267) [7877*]:
     → "Shall be given...to the flames!"
 256: 0x1A85 [0x27] REQ_SET(priority=0x10, entity_id=Lady Lilith (ID: 17523304/0x010B6268), tag_num=0x0F)
 257: 0x1A8C [0x27] REQ_SET(priority=0x10, entity_id=Lilisette (ID: 17523301/0x010B6265), tag_num=0x09)
@@ -2517,7 +2517,7 @@ SUBROUTINE_1157:
   9: 0x1D77 [0x03] ExtData[1]->WorkLocal[34] = Work_Zone[3]
  10: 0x1D7C [0x03] ExtData[1]->WorkLocal[30] = Work_Zone[4]
  11: 0x1D81 [0x1A] CALL_SUBROUTINE(address=0x1E04)
- 12: 0x1D84 [0x24] CREATE_DIALOG(message_id=7651*, default_option=1*, option_flags=0*)
+ 12: 0x1D84 [0x24] CREATE_DIALOG(message_id=7652*, default_option=1*, option_flags=0*)
     → "Skip the event? [Yes./No.]"
  13: 0x1D8B [0x25] WAIT_DIALOG_SELECT()
  14: 0x1D8C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1DFB
@@ -4444,82 +4444,82 @@ SUBROUTINE_2475:
  23: 0x25ED [0x41] ExtData[1]->WorkLocal[57] = Work_Zone[3] (bits 16*-23*)
  24: 0x25F6 [0x03] ExtData[1]->WorkLocal[60] = Work_Zone[4]
  25: 0x25FB [0x03] ExtData[1]->WorkLocal[61] = Work_Zone[5]
- 26: 0x2600 [0x48] [System] [7232*]:
+ 26: 0x2600 [0x48] [System] [7233*]:
     → "This veridical conflux appears to be a portal to a battlefield."
  27: 0x2603 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x2604 [0x02] IF !(ExtData[1]->WorkLocal[54] == 1*) GOTO 0x28C0
  29: 0x260C [0x02] IF !(ExtData[1]->WorkLocal[47] == 1*) GOTO 0x261B
- 30: 0x2614 [0x48] [System] [7234*]:
+ 30: 0x2614 [0x48] [System] [7235*]:
     → "The faint scraping of claws echoes from beyond..."
  31: 0x2617 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x2618 [0x01] GOTO 0x26ED
  33: 0x261B [0x02] IF !(ExtData[1]->WorkLocal[47] == 2*) GOTO 0x262A
- 34: 0x2623 [0x48] [System] [7235*]:
+ 34: 0x2623 [0x48] [System] [7236*]:
     → "The faint trickling of a viscous fluid echoes from beyond..."
  35: 0x2626 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x2627 [0x01] GOTO 0x26ED
  37: 0x262A [0x02] IF !(ExtData[1]->WorkLocal[47] == 3*) GOTO 0x2639
- 38: 0x2632 [0x48] [System] [7236*]:
+ 38: 0x2632 [0x48] [System] [7237*]:
     → "The frenzied scurrying of insects echoes faintly from beyond..."
  39: 0x2635 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x2636 [0x01] GOTO 0x26ED
  41: 0x2639 [0x02] IF !(ExtData[1]->WorkLocal[47] == 4*) GOTO 0x2648
- 42: 0x2641 [0x48] [System] [7237*]:
+ 42: 0x2641 [0x48] [System] [7238*]:
     → "The beating of fiendish wings echoes faintly from beyond..."
  43: 0x2644 [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x2645 [0x01] GOTO 0x26ED
  45: 0x2648 [0x02] IF !(ExtData[1]->WorkLocal[47] == 5*) GOTO 0x2657
- 46: 0x2650 [0x48] [System] [7238*]:
+ 46: 0x2650 [0x48] [System] [7239*]:
     → "The writhing of great reptiles echoes faintly from beyond..."
  47: 0x2653 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x2654 [0x01] GOTO 0x26ED
  49: 0x2657 [0x02] IF !(ExtData[1]->WorkLocal[47] == 6*) GOTO 0x2666
- 50: 0x265F [0x48] [System] [7239*]:
+ 50: 0x265F [0x48] [System] [7240*]:
     → "The thunderous steps of massive reptiles echo faintly from beyond..."
  51: 0x2662 [0x23] WAIT_FOR_DIALOG_INTERACTION
  52: 0x2663 [0x01] GOTO 0x26ED
  53: 0x2666 [0x02] IF !(ExtData[1]->WorkLocal[47] == 7*) GOTO 0x2675
- 54: 0x266E [0x48] [System] [7240*]:
+ 54: 0x266E [0x48] [System] [7241*]:
     → "The howling of savage beasts echoes faintly from beyond..."
  55: 0x2671 [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x2672 [0x01] GOTO 0x26ED
  57: 0x2675 [0x02] IF !(ExtData[1]->WorkLocal[47] == 8*) GOTO 0x2684
- 58: 0x267D [0x48] [System] [7241*]:
+ 58: 0x267D [0x48] [System] [7242*]:
     → "The sinister heartbeat of a dragon echoes faintly from beyond..."
  59: 0x2680 [0x23] WAIT_FOR_DIALOG_INTERACTION
  60: 0x2681 [0x01] GOTO 0x26ED
  61: 0x2684 [0x02] IF !(ExtData[1]->WorkLocal[47] == 9*) GOTO 0x2693
- 62: 0x268C [0x48] [System] [7242*]:
+ 62: 0x268C [0x48] [System] [7243*]:
     → "The spine-chilling screech of a monstrous bird echoes faintly from beyond..."
  63: 0x268F [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x2690 [0x01] GOTO 0x26ED
  65: 0x2693 [0x02] IF !(ExtData[1]->WorkLocal[47] == 10*) GOTO 0x26A2
- 66: 0x269B [0x48] [System] [7243*]:
+ 66: 0x269B [0x48] [System] [7244*]:
     → "The curious popping of countless buds echoes faintly from beyond..."
  67: 0x269E [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x269F [0x01] GOTO 0x26ED
  69: 0x26A2 [0x02] IF !(ExtData[1]->WorkLocal[47] == 11*) GOTO 0x26B1
- 70: 0x26AA [0x48] [System] [7244*]:
+ 70: 0x26AA [0x48] [System] [7245*]:
     → "The ominous sound of bone scraping against metal echoes faintly from beyond..."
  71: 0x26AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  72: 0x26AE [0x01] GOTO 0x26ED
  73: 0x26B1 [0x02] IF !(ExtData[1]->WorkLocal[47] == 12*) GOTO 0x26C0
- 74: 0x26B9 [0x48] [System] [7245*]:
+ 74: 0x26B9 [0x48] [System] [7246*]:
     → "The chilling sound of metal grinding against metal echoes faintly from beyond..."
  75: 0x26BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x26BD [0x01] GOTO 0x26ED
  77: 0x26C0 [0x02] IF !(ExtData[1]->WorkLocal[47] == 13*) GOTO 0x26CF
- 78: 0x26C8 [0x48] [System] [7246*]:
+ 78: 0x26C8 [0x48] [System] [7247*]:
     → "The baleful sound of a thousand dark wings beating in shadow echoes faintly from beyond..."
  79: 0x26CB [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x26CC [0x01] GOTO 0x26ED
  81: 0x26CF [0x02] IF !(ExtData[1]->WorkLocal[47] == 14*) GOTO 0x26DE
- 82: 0x26D7 [0x48] [System] [7247*]:
+ 82: 0x26D7 [0x48] [System] [7248*]:
     → "The spine-chilling crack of beastly claws ripping through rock echoes faintly from beyond..."
  83: 0x26DA [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x26DB [0x01] GOTO 0x26ED
  85: 0x26DE [0x02] IF !(ExtData[1]->WorkLocal[47] == 15*) GOTO 0x26ED
- 86: 0x26E6 [0x48] [System] [7248*]:
+ 86: 0x26E6 [0x48] [System] [7249*]:
     → "This conflux emits no sound, and yet you sense an unquenchable thirst for carnage and blood..."
  87: 0x26E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x26EA [0x01] GOTO 0x26ED
@@ -4538,18 +4538,18 @@ SUBROUTINE_270D:
  97: 0x2715 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[59], bit_index_work_offset=2*, condition_work_offset=1*)
  98: 0x271C [0x02] IF !(ExtData[1]->WorkLocal[57] <= 50*) GOTO 0x272B
  99: 0x2724 [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[59], bit_index_work_offset=2*, condition_work_offset=1*)
-100: 0x272B [0x24] CREATE_DIALOG(message_id=7249*, default_option=0*, option_flags=ExtData[1]->WorkLocal[59])
+100: 0x272B [0x24] CREATE_DIALOG(message_id=7250*, default_option=0*, option_flags=ExtData[1]->WorkLocal[59])
     → "What will you do? [Nothing for now./Assess the situation./Enter the battlefield!]"
 101: 0x2732 [0x25] WAIT_DIALOG_SELECT()
 102: 0x2733 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x273E
 103: 0x273B [0x01] GOTO 0x28BD
 104: 0x273E [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x27FA
 105: 0x2746 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[49]
-106: 0x274B [0x48] [System] [7250*]:
+106: 0x274B [0x48] [System] [7251*]:
     → "[There are presently no enemies on the battlefield/Enemies have emerged on the battlefield/The enemy is being engaged on the battlefield/The battle has ended, and enemies no longer prowl the battlefield]."
 107: 0x274E [0x23] WAIT_FOR_DIALOG_INTERACTION
 108: 0x274F [0x02] IF !(ExtData[1]->WorkLocal[49] == 0*) GOTO 0x2781
-109: 0x2757 [0x48] [System] [7251*]:
+109: 0x2757 [0x48] [System] [7252*]:
     → "You cannot enter the battlefield at this time."
 110: 0x275A [0x23] WAIT_FOR_DIALOG_INTERACTION
 111: 0x275B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[51]
@@ -4560,18 +4560,18 @@ SUBROUTINE_270D:
 116: 0x2775 [0x03] Work_Zone[3] = 1*
 
 SUBROUTINE_277A:
-117: 0x277A [0x48] [System] [7252*]:
+117: 0x277A [0x48] [System] [7253*]:
     → "Enemies will appear in [under /]$0 [minute/minutes] (Earth time)."
 118: 0x277D [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x277E [0x01] GOTO 0x27F7
 120: 0x2781 [0x02] IF !(ExtData[1]->WorkLocal[49] == 1*) GOTO 0x27A3
 121: 0x2789 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[50]
-122: 0x278E [0x48] [System] [7253*]:
+122: 0x278E [0x48] [System] [7254*]:
     → "You have $0 [minute/minutes] (Earth time) to complete your objectives."
 123: 0x2791 [0x23] WAIT_FOR_DIALOG_INTERACTION
 124: 0x2792 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[55]
 125: 0x2797 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[56]
-126: 0x279C [0x48] [System] [7255*]:
+126: 0x279C [0x48] [System] [7256*]:
     → "There [is/are] currently $0 [participant/participants]. Up to $1 people may participate."
 127: 0x279F [0x23] WAIT_FOR_DIALOG_INTERACTION
 128: 0x27A0 [0x01] GOTO 0x27F7
@@ -4584,21 +4584,21 @@ SUBROUTINE_277A:
 135: 0x27C5 [0x03] Work_Zone[3] = 1*
 
 SUBROUTINE_27CA:
-136: 0x27CA [0x48] [System] [7254*]:
+136: 0x27CA [0x48] [System] [7255*]:
     → "You have [under /]$0 [minute/minutes] (Earth time) left to complete your objectives."
 137: 0x27CD [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x27CE [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[55]
 139: 0x27D3 [0x03] Work_Zone[3] = ExtData[1]->WorkLocal[56]
-140: 0x27D8 [0x48] [System] [7255*]:
+140: 0x27D8 [0x48] [System] [7256*]:
     → "There [is/are] currently $0 [participant/participants]. Up to $1 people may participate."
 141: 0x27DB [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x27DC [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[57]
-143: 0x27E1 [0x48] [System] [7256*]:
+143: 0x27E1 [0x48] [System] [7257*]:
     → "The current battle progress is $0%."
 144: 0x27E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 145: 0x27E5 [0x01] GOTO 0x27F7
 146: 0x27E8 [0x02] IF !(ExtData[1]->WorkLocal[49] == 3*) GOTO 0x27F7
-147: 0x27F0 [0x48] [System] [7251*]:
+147: 0x27F0 [0x48] [System] [7252*]:
     → "You cannot enter the battlefield at this time."
 148: 0x27F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 149: 0x27F4 [0x01] GOTO 0x27F7
@@ -4608,10 +4608,10 @@ SUBROUTINE_27F7:
 151: 0x27FA [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x28B8
 152: 0x2802 [0x06] ExtData[1]->WorkLocal[41] = 0
 153: 0x2805 [0x02] IF !(ExtData[1]->WorkLocal[61] <= 0*) GOTO 0x2835
-154: 0x280D [0x48] [System] [7306*]:
+154: 0x280D [0x48] [System] [7307*]:
     → "Items not yet obtain from the treasure coffer will be destroyed upon entry."
 155: 0x2810 [0x23] WAIT_FOR_DIALOG_INTERACTION
-156: 0x2811 [0x24] CREATE_DIALOG(message_id=7307*, default_option=1*, option_flags=0*)
+156: 0x2811 [0x24] CREATE_DIALOG(message_id=7308*, default_option=1*, option_flags=0*)
     → "Proceed anyway? [Yes./No.]"
 157: 0x2818 [0x25] WAIT_DIALOG_SELECT()
 158: 0x2819 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2827
@@ -4647,20 +4647,20 @@ SUBROUTINE_2893:
 
 SUBROUTINE_289B:
 184: 0x289B [0x01] GOTO 0x28A2
-185: 0x289E [0x48] [System] [7251*]:
+185: 0x289E [0x48] [System] [7252*]:
     → "You cannot enter the battlefield at this time."
 186: 0x28A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_28A2:
 187: 0x28A2 [0x01] GOTO 0x28A9
-188: 0x28A5 [0x48] [System] [7251*]:
+188: 0x28A5 [0x48] [System] [7252*]:
     → "You cannot enter the battlefield at this time."
 189: 0x28A8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_28A9:
 190: 0x28A9 [0x01] GOTO 0x28B5
 191: 0x28AC [0x03] Work_Zone[2] = 1599*
-192: 0x28B1 [0x48] [System] [7257*]:
+192: 0x28B1 [0x48] [System] [7258*]:
     → "Unable to enter the battlefield. You do not possess $3."
 193: 0x28B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4670,7 +4670,7 @@ SUBROUTINE_28B5:
 
 SUBROUTINE_28BD:
 196: 0x28BD [0x01] GOTO 0x28C4
-197: 0x28C0 [0x48] [System] [7233*]:
+197: 0x28C0 [0x48] [System] [7234*]:
     → "You feel the faintest promise of a reaction, but nothing happens..."
 198: 0x28C3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -4703,7 +4703,7 @@ SUBROUTINE_28C4:
 
 ```
   0: 0x28C6 [0x03] ExtData[1]->WorkLocal[42] = 2*
-  1: 0x28CB [0x24] CREATE_DIALOG(message_id=7260*, default_option=1*, option_flags=0*)
+  1: 0x28CB [0x24] CREATE_DIALOG(message_id=7261*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
   2: 0x28D2 [0x25] WAIT_DIALOG_SELECT()
   3: 0x28D3 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x28FF
@@ -4814,7 +4814,7 @@ SUBROUTINE_2904:
 
 ```
   0: 0x2944 [0x03] ExtData[1]->WorkLocal[42] = 5*
-  1: 0x2949 [0x24] CREATE_DIALOG(message_id=7231*, default_option=0*, option_flags=0*)
+  1: 0x2949 [0x24] CREATE_DIALOG(message_id=7232*, default_option=0*, option_flags=0*)
     → "Leave the Walk of Echoes? [Yes./Not yet.]"
   2: 0x2950 [0x25] WAIT_DIALOG_SELECT()
   3: 0x2951 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x29A8
@@ -5109,7 +5109,7 @@ SUBROUTINE_2AD7:
 ```
   0: 0x2B98 [0x03] ExtData[1]->WorkLocal[63] = Work_Zone[3]
   1: 0x2B9D [0x03] ExtData[1]->WorkLocal[64] = Work_Zone[4]
-  2: 0x2BA2 [0x24] CREATE_DIALOG(message_id=7303*, default_option=0*, option_flags=0*)
+  2: 0x2BA2 [0x24] CREATE_DIALOG(message_id=7304*, default_option=0*, option_flags=0*)
     → "Do what? ([pre-pop/popped/combat/post-combat] [$25$25/$26$25/$25$26/$26$26]). [Nothing./Restart normal battle./Restart surgebattle./Set endowed rate./Set surge rate.]"
   3: 0x2BA9 [0x25] WAIT_DIALOG_SELECT()
   4: 0x2BAA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2BBA
@@ -5155,7 +5155,7 @@ SUBROUTINE_2C80:
 
 ```
 # Dead code (unreachable instructions):
-     0x2C82 [0x24] CREATE_DIALOG(message_id=7312*, default_option=1*, option_flags=0*)
+     0x2C82 [0x24] CREATE_DIALOG(message_id=7313*, default_option=1*, option_flags=0*)
     → "Enter the battlefield? [Enter./Decline.]"
      0x2C89 [0x25] WAIT_DIALOG_SELECT()
      0x2C8A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2C98
@@ -5238,7 +5238,7 @@ SUBROUTINE_2C80:
      0x2E15 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [LocalPlayer, LocalPlayer], work=[2*, 0*]
      0x2E26 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi2" with entities [LocalPlayer, LocalPlayer], work=200*
      0x2E35 [0x1B] RETURN
-     0x2E36 [0x24] CREATE_DIALOG(message_id=7313*, default_option=1*, option_flags=0*)
+     0x2E36 [0x24] CREATE_DIALOG(message_id=7314*, default_option=1*, option_flags=0*)
     → "Leave the battlefield? [Run away./Stay.]"
      0x2E3D [0x25] WAIT_DIALOG_SELECT()
      0x2E3E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x2E4C

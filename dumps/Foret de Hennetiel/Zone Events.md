@@ -1100,7 +1100,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 03F0:                          32 17 80 1F 00 35 80 36          2....5.6
-0400: 80 37 80 1F 01 1E 29 62  10 01 1C 38 80 00        .7....)b...8..  
+0400: 80 37 80 1F 01 1E 2D 62  10 01 1C 38 80 00        .7....-b...8..  
 ```
 
 #### Opcodes
@@ -1109,7 +1109,7 @@
   0: 0x03F8 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x03FB [0x1F] MOVE_ENTITY: EventEntity moves to X=407.226*, Z=267.699*, Y=-1.872*
   2: 0x0403 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0405 [0x1E] EventEntity looks at Fritha (ID: 17850921/0x01106229) and starts talking
+  3: 0x0405 [0x1E] EventEntity looks at Fritha (ID: 17850925/0x0110622D) and starts talking
   4: 0x040A [0x1C] WAIT(30* ticks)
   5: 0x040D [0x00] END_REQSTACK()
 ```
@@ -1154,7 +1154,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0410:                                      32 17 80 1F              2...
-0420: 00 3C 80 3D 80 3E 80 1F  01 1E 6A 62 10 01 1C 38  .<.=.>....jb...8
+0420: 00 3C 80 3D 80 3E 80 1F  01 1E 6E 62 10 01 1C 38  .<.=.>....nb...8
 0430: 80 00                                             ..              
 ```
 
@@ -1164,7 +1164,7 @@
   0: 0x041C [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x041F [0x1F] MOVE_ENTITY: EventEntity moves to X=404.430*, Z=270.578*, Y=-1.786*
   2: 0x0427 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0429 [0x1E] EventEntity looks at Alianne (ID: 17850986/0x0110626A) and starts talking
+  3: 0x0429 [0x1E] EventEntity looks at Alianne (ID: 17850990/0x0110626E) and starts talking
   4: 0x042E [0x1C] WAIT(30* ticks)
   5: 0x0431 [0x00] END_REQSTACK()
 ```
@@ -1183,7 +1183,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0430:       32 17 80 1F 00 3F  80 40 80 41 80 1F 01 1E    2....?.@.A....
-0440: 29 62 10 01 1C 38 80 00                           )b...8..        
+0440: 2D 62 10 01 1C 38 80 00                           -b...8..        
 ```
 
 #### Opcodes
@@ -1192,7 +1192,7 @@
   0: 0x0432 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x0435 [0x1F] MOVE_ENTITY: EventEntity moves to X=409.122*, Z=268.295*, Y=-2.120*
   2: 0x043D [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x043F [0x1E] EventEntity looks at Fritha (ID: 17850921/0x01106229) and starts talking
+  3: 0x043F [0x1E] EventEntity looks at Fritha (ID: 17850925/0x0110622D) and starts talking
   4: 0x0444 [0x1C] WAIT(30* ticks)
   5: 0x0447 [0x00] END_REQSTACK()
 ```
@@ -1211,7 +1211,7 @@
       00 01 02 03 04 05 06 07  08 09 0A 0B 0C 0D 0E 0F
       -- -- -- -- -- -- -- --  -- -- -- -- -- -- -- --
 0440:                          32 17 80 1F 00 42 80 43          2....B.C
-0450: 80 2B 80 1F 01 1E 6B 62  10 01 1C 38 80 00        .+....kb...8..  
+0450: 80 2B 80 1F 01 1E 6F 62  10 01 1C 38 80 00        .+....ob...8..  
 ```
 
 #### Opcodes
@@ -1220,7 +1220,7 @@
   0: 0x0448 [0x32] ExtData[1]->MainSpeed = 40* * 0.1
   1: 0x044B [0x1F] MOVE_ENTITY: EventEntity moves to X=436.766*, Z=-278.160*, Y=-1.999*
   2: 0x0453 [0x1F] MOVE_ENTITY: Update entity position (mode=1)
-  3: 0x0455 [0x1E] EventEntity looks at Davengrot (ID: 17850987/0x0110626B) and starts talking
+  3: 0x0455 [0x1E] EventEntity looks at Davengrot (ID: 17850991/0x0110626F) and starts talking
   4: 0x045A [0x1C] WAIT(30* ticks)
   5: 0x045D [0x00] END_REQSTACK()
 ```

@@ -50,7 +50,7 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1E1C      |        7708 |
+|       0 | 0x1E1D      |        7709 |
 |       1 | 0x00C8      |         200 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x0001      |           1 |
@@ -66,13 +66,13 @@
 |      13 | 0x014B      |         331 |
 |      14 | 0x000F      |          15 |
 |      15 | 0x0397      |         919 |
-|      16 | 0x1E26      |        7718 |
+|      16 | 0x1E27      |        7719 |
 |      17 | 0x00D8      |         216 |
-|      18 | 0x1E27      |        7719 |
+|      18 | 0x1E28      |        7720 |
 |      19 | 0x09D9      |        2521 |
-|      20 | 0x1E28      |        7720 |
-|      21 | 0x1E29      |        7721 |
-|      22 | 0x1E2A      |        7722 |
+|      20 | 0x1E29      |        7721 |
+|      21 | 0x1E2A      |        7722 |
+|      22 | 0x1E2B      |        7723 |
 |      23 | 0x0028      |          40 |
 |      24 | 0x000D      |          13 |
 |      25 | 0xFFFA87CC  |  4294608844 |
@@ -130,19 +130,19 @@
 |      77 | 0x0090      |         144 |
 |      78 | 0x00B4      |         180 |
 |      79 | 0x0004      |           4 |
-|      80 | 0x1D0A      |        7434 |
-|      81 | 0x1D0B      |        7435 |
-|      82 | 0x1D0D      |        7437 |
-|      83 | 0x1D0E      |        7438 |
-|      84 | 0x1D0F      |        7439 |
-|      85 | 0x1D10      |        7440 |
+|      80 | 0x1D0B      |        7435 |
+|      81 | 0x1D0C      |        7436 |
+|      82 | 0x1D0E      |        7438 |
+|      83 | 0x1D0F      |        7439 |
+|      84 | 0x1D10      |        7440 |
+|      85 | 0x1D11      |        7441 |
 |      86 | 0x0102      |         258 |
 |      87 | 0x0202      |         514 |
 |      88 | 0x0156      |         342 |
 
 ## String References
 
-- **7708**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
+- **7709**: The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie].
 
 ## Events
 
@@ -216,7 +216,7 @@
 
 ```
   0: 0x0002 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0003 [0x48] [System] [7708*]:
+  1: 0x0003 [0x48] [System] [7709*]:
     → "The order has been given by your party leader to enter [Everbloom Hollow/the Ruhotz Silvermines/Ghoyu's Reverie]."
   2: 0x0006 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
   3: 0x0017 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0033
@@ -292,13 +292,13 @@
  15: 0x00DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  16: 0x00EB [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  17: 0x00FA [0x03] Work_Zone[2] = 919*
- 18: 0x00FF [0x2B] Leadavox (ID: 17117955/0x01053303) [7718*]:
+ 18: 0x00FF [0x2B] Leadavox (ID: 17117955/0x01053303) [7719*]:
     → "You came for the $3? Well, it's ready."
  19: 0x0106 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0107 [0x52] END_LOAD_SCHEDULER: End scheduler "s201" with entities [EventEntity, EventEntity], work=331*
  21: 0x0116 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s202" with entities [EventEntity, EventEntity], work=[331*, 0*]
  22: 0x0127 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum0" with entities [Leadavox (ID: 17117955/0x01053303), Leadavox (ID: 17117955/0x01053303)], work=216*
- 23: 0x0136 [0x2B] Leadavox (ID: 17117955/0x01053303) [7719*]:
+ 23: 0x0136 [0x2B] Leadavox (ID: 17117955/0x01053303) [7720*]:
     → "It was a hell of a job gettin' a hold of it, though. I think I deserve a little bonus."
  24: 0x013D [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x013E [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "fum1" with entities [Leadavox (ID: 17117955/0x01053303), Leadavox (ID: 17117955/0x01053303)], work=216*
@@ -306,7 +306,7 @@
  27: 0x015C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s203" with entities [EventEntity, EventEntity], work=[331*, 0*]
  28: 0x016D [0x03] Work_Zone[2] = 2521*
  29: 0x0172 [0x03] Work_Zone[3] = 919*
- 30: 0x0177 [0x2B] Leadavox (ID: 17117955/0x01053303) [7720*]:
+ 30: 0x0177 [0x2B] Leadavox (ID: 17117955/0x01053303) [7721*]:
     → "You bring me $0, you'll get the $3."
  31: 0x017E [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x017F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -375,13 +375,13 @@
  16: 0x0249 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
  17: 0x0258 [0x03] Work_Zone[2] = 2521*
  18: 0x025D [0x03] Work_Zone[3] = 919*
- 19: 0x0262 [0x2B] Leadavox (ID: 17117955/0x01053303) [7721*]:
+ 19: 0x0262 [0x2B] Leadavox (ID: 17117955/0x01053303) [7722*]:
     → "You got the $0? Here's your $3, then."
  20: 0x0269 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x026A [0x52] END_LOAD_SCHEDULER: End scheduler "s204" with entities [EventEntity, EventEntity], work=331*
  22: 0x0279 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s205" with entities [EventEntity, EventEntity], work=[331*, 0*]
  23: 0x028A [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "hap0" with entities [Leadavox (ID: 17117955/0x01053303), Leadavox (ID: 17117955/0x01053303)], work=216*
- 24: 0x0299 [0x2B] Leadavox (ID: 17117955/0x01053303) [7722*]:
+ 24: 0x0299 [0x2B] Leadavox (ID: 17117955/0x01053303) [7723*]:
     → "The Gigas love these $0. They'll tell me all sortsa secrets now. Leadavox is their little buddy."
  25: 0x02A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x02A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1353,17 +1353,17 @@ SUBROUTINE_07BC:
 
 SUBROUTINE_07BD:
 109: 0x07BD [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x07D0
-110: 0x07C5 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7434*]:
+110: 0x07C5 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7435*]:
     → "Ah, you must be <Player>. We've been expecting you."
 111: 0x07CC [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x07CD [0x01] GOTO 0x07F6
 113: 0x07D0 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x07E3
-114: 0x07D8 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7434*]:
+114: 0x07D8 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7435*]:
     → "Ah, you must be <Player>. We've been expecting you."
 115: 0x07DF [0x23] WAIT_FOR_DIALOG_INTERACTION
 116: 0x07E0 [0x01] GOTO 0x07F6
 117: 0x07E3 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x07F6
-118: 0x07EB [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7434*]:
+118: 0x07EB [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7435*]:
     → "Ah, you must be <Player>. We've been expecting you."
 119: 0x07F2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x07F3 [0x01] GOTO 0x07F6
@@ -1373,17 +1373,17 @@ SUBROUTINE_07F6:
 
 SUBROUTINE_07F7:
 122: 0x07F7 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x080A
-123: 0x07FF [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7435*]:
+123: 0x07FF [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7436*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 124: 0x0806 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0807 [0x01] GOTO 0x0830
 126: 0x080A [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x081D
-127: 0x0812 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7435*]:
+127: 0x0812 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7436*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 128: 0x0819 [0x23] WAIT_FOR_DIALOG_INTERACTION
 129: 0x081A [0x01] GOTO 0x0830
 130: 0x081D [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x0830
-131: 0x0825 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7435*]:
+131: 0x0825 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7436*]:
     → "The delivery took you $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 132: 0x082C [0x23] WAIT_FOR_DIALOG_INTERACTION
 133: 0x082D [0x01] GOTO 0x0830
@@ -1393,17 +1393,17 @@ SUBROUTINE_0830:
 
 SUBROUTINE_0831:
 135: 0x0831 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x0844
-136: 0x0839 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7437*]:
+136: 0x0839 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7438*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 137: 0x0840 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0841 [0x01] GOTO 0x086A
 139: 0x0844 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x0857
-140: 0x084C [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7437*]:
+140: 0x084C [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7438*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 141: 0x0853 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0854 [0x01] GOTO 0x086A
 143: 0x0857 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x086A
-144: 0x085F [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7437*]:
+144: 0x085F [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7438*]:
     → "While you were dawdling your way here, a separate shipment of construction materials was delivered to us. We shan't be requiring anymore."
 145: 0x0866 [0x23] WAIT_FOR_DIALOG_INTERACTION
 146: 0x0867 [0x01] GOTO 0x086A
@@ -1413,17 +1413,17 @@ SUBROUTINE_086A:
 
 SUBROUTINE_086B:
 148: 0x086B [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x087E
-149: 0x0873 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7438*]:
+149: 0x0873 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7439*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 150: 0x087A [0x23] WAIT_FOR_DIALOG_INTERACTION
 151: 0x087B [0x01] GOTO 0x08A4
 152: 0x087E [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x0891
-153: 0x0886 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7438*]:
+153: 0x0886 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7439*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 154: 0x088D [0x23] WAIT_FOR_DIALOG_INTERACTION
 155: 0x088E [0x01] GOTO 0x08A4
 156: 0x0891 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x08A4
-157: 0x0899 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7438*]:
+157: 0x0899 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7439*]:
     → "I commend you on your expeditiousness. Thanks to you, the construction work on our provision storehouse here can proceed as planned."
 158: 0x08A0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 159: 0x08A1 [0x01] GOTO 0x08A4
@@ -1433,17 +1433,17 @@ SUBROUTINE_08A4:
 
 SUBROUTINE_08A5:
 161: 0x08A5 [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x08B8
-162: 0x08AD [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7439*]:
+162: 0x08AD [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7440*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 163: 0x08B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x08B5 [0x01] GOTO 0x08DE
 165: 0x08B8 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x08CB
-166: 0x08C0 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7439*]:
+166: 0x08C0 [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7440*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 167: 0x08C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 168: 0x08C8 [0x01] GOTO 0x08DE
 169: 0x08CB [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x08DE
-170: 0x08D3 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7439*]:
+170: 0x08D3 [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7440*]:
     → "So you have something to aspire to, the quickest delivery thus far was made by %0. That indefatigable soldier traversed the same course as you in just $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time)."
 171: 0x08DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x08DB [0x01] GOTO 0x08DE
@@ -1453,17 +1453,17 @@ SUBROUTINE_08DE:
 
 SUBROUTINE_08DF:
 174: 0x08DF [0x02] IF !(ExtData[1]->WorkLocal[9] == 1*) GOTO 0x08F2
-175: 0x08E7 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7440*]:
+175: 0x08E7 [0x2B] Toulsard, R.K. (ID: 17117942/0x010532F6) [7441*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 176: 0x08EE [0x23] WAIT_FOR_DIALOG_INTERACTION
 177: 0x08EF [0x01] GOTO 0x0918
 178: 0x08F2 [0x02] IF !(ExtData[1]->WorkLocal[9] == 2*) GOTO 0x0905
-179: 0x08FA [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7440*]:
+179: 0x08FA [0x2B] Feral Moon, L.C. (ID: 17117943/0x010532F7) [7441*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 180: 0x0901 [0x23] WAIT_FOR_DIALOG_INTERACTION
 181: 0x0902 [0x01] GOTO 0x0918
 182: 0x0905 [0x02] IF !(ExtData[1]->WorkLocal[9] == 3*) GOTO 0x0918
-183: 0x090D [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7440*]:
+183: 0x090D [0x2B] Kih Katteh, M.C. (ID: 17117944/0x010532F8) [7441*]:
     → "You're the current quickest delivery record holder, with a lightning-fast time of $3 [hour/hours] ($4 [minute/minutes] and $5 [second/seconds] Earth time). But that's no excuse to slack off, you hear?"
 184: 0x0914 [0x23] WAIT_FOR_DIALOG_INTERACTION
 185: 0x0915 [0x01] GOTO 0x0918

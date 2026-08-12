@@ -29,13 +29,13 @@
 |       6 | 0x0003      |           3 |
 |       7 | 0x0090      |         144 |
 |       8 | 0x003C      |          60 |
-|       9 | 0x1BAF      |        7087 |
-|      10 | 0x1BAE      |        7086 |
+|       9 | 0x1BB0      |        7088 |
+|      10 | 0x1BAF      |        7087 |
 
 ## String References
 
-- **7086**: The flight bound for [San d'Oria/Bastok/Windurst/Kazham] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time).
-- **7087**: The flight bound for [San d'Oria/Bastok/Windurst/Kazham] is now [arriving/departing].
+- **7087**: The flight bound for [San d'Oria/Bastok/Windurst/Kazham] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time).
+- **7088**: The flight bound for [San d'Oria/Bastok/Windurst/Kazham] is now [arriving/departing].
 
 ## Events
 
@@ -110,11 +110,11 @@ SUBROUTINE_0053:
  18: 0x005D [0x15] Work_Zone[6] /= 144*
  19: 0x0062 [0x15] Work_Zone[3] /= 60*
  20: 0x0067 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x0076
- 21: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
+ 21: 0x006F [0x1D] PRINT_EVENT_MESSAGE(message_id=7088*)
     → "The flight bound for [San d'Oria/Bastok/Windurst/Kazham] is now [arriving/departing]."
  22: 0x0072 [0x23] WAIT_FOR_DIALOG_INTERACTION
  23: 0x0073 [0x01] GOTO 0x007A
- 24: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7086*)
+ 24: 0x0076 [0x1D] PRINT_EVENT_MESSAGE(message_id=7087*)
     → "The flight bound for [San d'Oria/Bastok/Windurst/Kazham] will [arrive/depart] in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] ($1 [minute/minutes] in Earth time)."
  25: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
 

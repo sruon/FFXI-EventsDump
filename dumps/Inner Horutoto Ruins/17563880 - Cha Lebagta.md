@@ -46,13 +46,13 @@
 |      10 | 0xFFFFA107  |  4294942983 |
 |      11 | 0x5069      |       20585 |
 |      12 | 0xFFFFFFEB  |  4294967275 |
-|      13 | 0x1C7C      |        7292 |
-|      14 | 0x1C82      |        7298 |
+|      13 | 0x1C7D      |        7293 |
+|      14 | 0x1C83      |        7299 |
 
 ## String References
 
-- **7292**: Hah! Perrrhaps you should consider this as your tuition fee? You see, we intended to use that book as bait...to lurrre unsuspecting do-gooders like yourself into our little trap.
-- **7298**: Grrr... This is bad!
+- **7293**: Hah! Perrrhaps you should consider this as your tuition fee? You see, we intended to use that book as bait...to lurrre unsuspecting do-gooders like yourself into our little trap.
+- **7299**: Grrr... This is bad!
 
 ## Events
 
@@ -397,7 +397,7 @@
 
 ```
   0: 0x00C7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17563880/0x010C00E8), tag_num=0x03)
-  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7292*)
+  1: 0x00CE [0x1D] PRINT_EVENT_MESSAGE(message_id=7293*)
     → "Hah! Perrrhaps you should consider this as your tuition fee? You see, we intended to use that book as bait...to lurrre unsuspecting do-gooders like yourself into our little trap."
   2: 0x00D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x00D2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Cha Lebagta (ID: 17563880/0x010C00E8), tag_num=0x04)
@@ -423,7 +423,7 @@
 #### Opcodes
 
 ```
-  0: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7298*)
+  0: 0x00DA [0x1D] PRINT_EVENT_MESSAGE(message_id=7299*)
     → "Grrr... This is bad!"
   1: 0x00DD [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x00DE [0x00] END_REQSTACK()

@@ -22,17 +22,17 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
-|       1 | 0x26EE      |        9966 |
-|       2 | 0x26EF      |        9967 |
-|       3 | 0x1FC0      |        8128 |
-|       4 | 0x1FC1      |        8129 |
+|       1 | 0x26EF      |        9967 |
+|       2 | 0x26F0      |        9968 |
+|       3 | 0x1FC1      |        8129 |
+|       4 | 0x1FC2      |        8130 |
 
 ## String References
 
-- **8128**: You came to visitaru us on behalf of the library? Wonderful organization, no doubt.
-- **8129**: Perfectaru information about the Order of Gorney. I have nothing to correct. Remember, we're always interested in new business-wusiness leads. Feel free to come back if you find anything of note!
-- **9966**: Behind me stands the amazing-wazing residence of the one and only Chero-Machero. I shouldn't need to tell you that he's the minister of commerce, but I like to talk, so I will.
-- **9967**: To be honestaru, he's probably too busy counting his bayldy-wayld to have an audience with you now, but come by the next time you have a business proposition.
+- **8129**: You came to visitaru us on behalf of the library? Wonderful organization, no doubt.
+- **8130**: Perfectaru information about the Order of Gorney. I have nothing to correct. Remember, we're always interested in new business-wusiness leads. Feel free to come back if you find anything of note!
+- **9967**: Behind me stands the amazing-wazing residence of the one and only Chero-Machero. I shouldn't need to tell you that he's the minister of commerce, but I like to talk, so I will.
+- **9968**: To be honestaru, he's probably too busy counting his bayldy-wayld to have an audience with you now, but come by the next time you have a business proposition.
 
 ## Events
 
@@ -83,10 +83,10 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9966*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=9967*)
     → "Behind me stands the amazing-wazing residence of the one and only Chero-Machero. I shouldn't need to tell you that he's the minister of commerce, but I like to talk, so I will."
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9967*)
+  6: 0x001B [0x1D] PRINT_EVENT_MESSAGE(message_id=9968*)
     → "To be honestaru, he's probably too busy counting his bayldy-wayld to have an audience with you now, but come by the next time you have a business proposition."
   7: 0x001E [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x001F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*
@@ -120,10 +120,10 @@
   2: 0x0036 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0037 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0038 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=40*
-  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8128*)
+  5: 0x0047 [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
     → "You came to visitaru us on behalf of the library? Wonderful organization, no doubt."
   6: 0x004A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8129*)
+  7: 0x004B [0x1D] PRINT_EVENT_MESSAGE(message_id=8130*)
     → "Perfectaru information about the Order of Gorney. I have nothing to correct. Remember, we're always interested in new business-wusiness leads. Feel free to come back if you find anything of note!"
   8: 0x004E [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x004F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=40*

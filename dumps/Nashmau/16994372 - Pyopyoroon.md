@@ -32,18 +32,18 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x034B      |         843 |
-|       1 | 0x296B      |       10603 |
+|       1 | 0x296C      |       10604 |
 |       2 | 0x001E      |          30 |
-|       3 | 0x296C      |       10604 |
+|       3 | 0x296D      |       10605 |
 |       4 | 0x000F      |          15 |
 |       5 | 0x0371      |         881 |
-|       6 | 0x296D      |       10605 |
-|       7 | 0x296E      |       10606 |
-|       8 | 0x296F      |       10607 |
-|       9 | 0x2970      |       10608 |
-|      10 | 0x29E7      |       10727 |
-|      11 | 0x2971      |       10609 |
-|      12 | 0x2972      |       10610 |
+|       6 | 0x296E      |       10606 |
+|       7 | 0x296F      |       10607 |
+|       8 | 0x2970      |       10608 |
+|       9 | 0x2971      |       10609 |
+|      10 | 0x29E8      |       10728 |
+|      11 | 0x2972      |       10610 |
+|      12 | 0x2973      |       10611 |
 |      13 | 0x000D      |          13 |
 |      14 | 0x5976      |       22902 |
 |      15 | 0x5DA0      |       23968 |
@@ -51,11 +51,11 @@
 |      17 | 0x5688      |       22152 |
 |      18 | 0x5A55      |       23125 |
 |      19 | 0x0903      |        2307 |
-|      20 | 0x29F4      |       10740 |
+|      20 | 0x29F5      |       10741 |
 |      21 | 0x032D      |         813 |
-|      22 | 0x29F5      |       10741 |
-|      23 | 0x29FB      |       10747 |
-|      24 | 0x29FC      |       10748 |
+|      22 | 0x29F6      |       10742 |
+|      23 | 0x29FC      |       10748 |
+|      24 | 0x29FD      |       10749 |
 |      25 | 0xFFFFEC97  |  4294962327 |
 |      26 | 0xFFFF5969  |  4294924649 |
 |      27 | 0x0466      |        1126 |
@@ -124,12 +124,12 @@
 
 ```
   0: 0x0001 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=843*
-  1: 0x0010 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10603*]:
+  1: 0x0010 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10604*]:
     → "Girl that was here, turn to ghooost! Yooo knowing?"
   2: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0018 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt1" with entities [EventEntity, EventEntity], work=843*
   4: 0x0027 [0x1C] WAIT(30* ticks)
-  5: 0x002A [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10604*]:
+  5: 0x002A [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10605*]:
     → "Cooould it be!?"
   6: 0x0031 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0032 [0x1E] EventEntity looks at LocalPlayer and starts talking
@@ -138,15 +138,15 @@
  10: 0x0039 [0x7B] EventEntity stops talking
  11: 0x003E [0x1C] WAIT(15* ticks)
  12: 0x0041 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ura0" with entities [EventEntity, EventEntity], work=881*
- 13: 0x0050 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10605*]:
+ 13: 0x0050 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10606*]:
     → "Bastoookan Blight?"
  14: 0x0057 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 15: 0x0058 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10606*]:
+ 15: 0x0058 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10607*]:
     → "Life gooo bye, and become ghooost!"
  16: 0x005F [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0060 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ura1" with entities [EventEntity, EventEntity], work=843*
  18: 0x006F [0x1C] WAIT(30* ticks)
- 19: 0x0072 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10607*]:
+ 19: 0x0072 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10608*]:
     → "Blight painfoool. Painfoool death. Then become ghooost?"
  20: 0x0079 [0x23] WAIT_FOR_DIALOG_INTERACTION
  21: 0x007A [0x21] END_EVENT
@@ -182,7 +182,7 @@
 
 ```
   0: 0x007C [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt0" with entities [EventEntity, EventEntity], work=843*
-  1: 0x008B [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10603*]:
+  1: 0x008B [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10604*]:
     → "Girl that was here, turn to ghooost! Yooo knowing?"
   2: 0x0092 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0093 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "pnt1" with entities [EventEntity, EventEntity], work=843*
@@ -191,18 +191,18 @@
   6: 0x00AA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   7: 0x00AB [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   8: 0x00AC [0x1C] WAIT(30* ticks)
-  9: 0x00AF [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10608*]:
+  9: 0x00AF [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10609*]:
     → "Did yooo hear? Do yooo know? Girl that was here, now in Al Jibby!"
  10: 0x00B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x00B7 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ang0" with entities [EventEntity, EventEntity], work=843*
- 12: 0x00C6 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10727*]:
+ 12: 0x00C6 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10728*]:
     → "Brrr. Brrr."
  13: 0x00CD [0x23] WAIT_FOR_DIALOG_INTERACTION
- 14: 0x00CE [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10609*]:
+ 14: 0x00CE [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10610*]:
     → "Pyopyoroon disappoooint. Pyopyoroon even kind of mad."
  15: 0x00D5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x00D6 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wht0" with entities [EventEntity, EventEntity], work=881*
- 17: 0x00E5 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10610*]:
+ 17: 0x00E5 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10611*]:
     → "But maybe Pyopyoroon want see her again? Can Pyopyoroon ever meet?"
  18: 0x00EC [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x00ED [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "wht1" with entities [EventEntity, EventEntity], work=881*
@@ -311,12 +311,12 @@
   1: 0x0125 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0126 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0127 [0x03] Work_Zone[3] = 2307*
-  4: 0x012C [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10740*]:
+  4: 0x012C [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10741*]:
     → "Big, red, many-many wavy-wavy arm creature has $1! Yooo go to Wajaom or Bhaflau!"
   5: 0x0133 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0134 [0x03] Work_Zone[2] = 813*
   7: 0x0139 [0x03] Work_Zone[3] = 2307*
-  8: 0x013E [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10741*]:
+  8: 0x013E [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10742*]:
     → "If Pyopyoroon has $1, Pyopyoroon make yooo $3!"
   9: 0x0145 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0146 [0x21] END_EVENT
@@ -369,10 +369,10 @@
   0: 0x0149 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x014E [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x014F [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0150 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10747*]:
+  3: 0x0150 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10748*]:
     → "Ooold smell is hard smell to make. But ghooost will smell, maybe cry?"
   4: 0x0157 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0158 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10748*]:
+  5: 0x0158 [0x2B] Pyopyoroon (ID: 16994372/0x01035044) [10749*]:
     → "Yooo go west! Many rooocks, many stooones! Yooo find ghooost!"
   6: 0x015F [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0160 [0x21] END_EVENT

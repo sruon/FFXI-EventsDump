@@ -258,72 +258,72 @@
 |     158 | 0x000F      |          15 |
 |     159 | 0x007F      |         127 |
 |     160 | 0x0258      |         600 |
-|     161 | 0x1DD0      |        7632 |
+|     161 | 0x1DD1      |        7633 |
 |     162 | 0x005A      |          90 |
-|     163 | 0x1DD1      |        7633 |
-|     164 | 0x1DD2      |        7634 |
-|     165 | 0x1DD3      |        7635 |
-|     166 | 0x1DD6      |        7638 |
-|     167 | 0x1DD7      |        7639 |
-|     168 | 0x1DD8      |        7640 |
-|     169 | 0x1DD4      |        7636 |
-|     170 | 0x1DD5      |        7637 |
+|     163 | 0x1DD2      |        7634 |
+|     164 | 0x1DD3      |        7635 |
+|     165 | 0x1DD4      |        7636 |
+|     166 | 0x1DD7      |        7639 |
+|     167 | 0x1DD8      |        7640 |
+|     168 | 0x1DD9      |        7641 |
+|     169 | 0x1DD5      |        7637 |
+|     170 | 0x1DD6      |        7638 |
 |     171 | 0x00D4      |         212 |
 |     172 | 0x00F0      |         240 |
 |     173 | 0x00E6      |         230 |
 |     174 | 0x001B      |          27 |
-|     175 | 0x1DDB      |        7643 |
-|     176 | 0x1DD9      |        7641 |
+|     175 | 0x1DDC      |        7644 |
+|     176 | 0x1DDA      |        7642 |
 |     177 | 0x00F9      |         249 |
-|     178 | 0x1DDA      |        7642 |
+|     178 | 0x1DDB      |        7643 |
 |     179 | 0xFFFDB4A1  |  4294816929 |
 |     180 | 0x9D35B     |      643931 |
 |     181 | 0xFFFFC31F  |  4294951711 |
 |     182 | 0x0A00      |        2560 |
 |     183 | 0x001D      |          29 |
 |     184 | 0x0190      |         400 |
-|     185 | 0x1DDC      |        7644 |
-|     186 | 0x1DDD      |        7645 |
-|     187 | 0x1DDE      |        7646 |
-|     188 | 0x1DDF      |        7647 |
-|     189 | 0x1DE0      |        7648 |
-|     190 | 0x1DE1      |        7649 |
-|     191 | 0x1DE2      |        7650 |
-|     192 | 0x1DE3      |        7651 |
-|     193 | 0x1DE4      |        7652 |
-|     194 | 0x1DE5      |        7653 |
+|     185 | 0x1DDD      |        7645 |
+|     186 | 0x1DDE      |        7646 |
+|     187 | 0x1DDF      |        7647 |
+|     188 | 0x1DE0      |        7648 |
+|     189 | 0x1DE1      |        7649 |
+|     190 | 0x1DE2      |        7650 |
+|     191 | 0x1DE3      |        7651 |
+|     192 | 0x1DE4      |        7652 |
+|     193 | 0x1DE5      |        7653 |
+|     194 | 0x1DE6      |        7654 |
 |     195 | 0x00B4      |         180 |
 |     196 | 0x0005      |           5 |
 |     197 | 0x007C      |         124 |
 |     198 | 0x0001      |           1 |
-|     199 | 0x1DE6      |        7654 |
-|     200 | 0x1DE7      |        7655 |
-|     201 | 0x1DE8      |        7656 |
-|     202 | 0x1DE9      |        7657 |
-|     203 | 0x1DEA      |        7658 |
-|     204 | 0x1DEB      |        7659 |
-|     205 | 0x1DEC      |        7660 |
+|     199 | 0x1DE7      |        7655 |
+|     200 | 0x1DE8      |        7656 |
+|     201 | 0x1DE9      |        7657 |
+|     202 | 0x1DEA      |        7658 |
+|     203 | 0x1DEB      |        7659 |
+|     204 | 0x1DEC      |        7660 |
+|     205 | 0x1DED      |        7661 |
 |     206 | 0x0006      |           6 |
-|     207 | 0x1DED      |        7661 |
-|     208 | 0x1DEE      |        7662 |
-|     209 | 0x1DEF      |        7663 |
-|     210 | 0x1DF0      |        7664 |
-|     211 | 0x1DF1      |        7665 |
+|     207 | 0x1DEE      |        7662 |
+|     208 | 0x1DEF      |        7663 |
+|     209 | 0x1DF0      |        7664 |
+|     210 | 0x1DF1      |        7665 |
+|     211 | 0x1DF2      |        7666 |
 |     212 | 0x0007      |           7 |
 |     213 | 0x0009      |           9 |
-|     214 | 0x1DF2      |        7666 |
-|     215 | 0x1DF3      |        7667 |
-|     216 | 0x1DF4      |        7668 |
-|     217 | 0x1DF5      |        7669 |
-|     218 | 0x1DF6      |        7670 |
-|     219 | 0x1DF7      |        7671 |
-|     220 | 0x1DF8      |        7672 |
-|     221 | 0x1DF9      |        7673 |
-|     222 | 0x1DFA      |        7674 |
-|     223 | 0x1DFB      |        7675 |
-|     224 | 0x1DFC      |        7676 |
-|     225 | 0x1DFD      |        7677 |
-|     226 | 0x1DFE      |        7678 |
+|     214 | 0x1DF3      |        7667 |
+|     215 | 0x1DF4      |        7668 |
+|     216 | 0x1DF5      |        7669 |
+|     217 | 0x1DF6      |        7670 |
+|     218 | 0x1DF7      |        7671 |
+|     219 | 0x1DF8      |        7672 |
+|     220 | 0x1DF9      |        7673 |
+|     221 | 0x1DFA      |        7674 |
+|     222 | 0x1DFB      |        7675 |
+|     223 | 0x1DFC      |        7676 |
+|     224 | 0x1DFD      |        7677 |
+|     225 | 0x1DFE      |        7678 |
+|     226 | 0x1DFF      |        7679 |
 |     227 | 0x0096      |         150 |
 |     228 | 0x00C9      |         201 |
 |     229 | 0xFFF8752D  |  4294473005 |
@@ -373,7 +373,7 @@
 
 ## String References
 
-- **7643**: You place the $3 gently on the ground.
+- **7644**: You place the $3 gently on the ground.
 
 ## Events
 
@@ -1815,7 +1815,7 @@ SUBROUTINE_0224:
  33: 0x03C8 [0x99] Wait for manequin1 (ID: 16879982/0x0101916E) animation to complete
  34: 0x03CD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s501" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  35: 0x03DE [0x1C] WAIT(60* ticks)
- 36: 0x03E1 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7632*]:
+ 36: 0x03E1 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7633*]:
     → "Ah, I see your preparations are complete."
  37: 0x03E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x03E9 [0x1C] WAIT(90* ticks)
@@ -1824,7 +1824,7 @@ SUBROUTINE_0224:
  41: 0x040C [0x27] REQ_SET(priority=0x05, entity_id=Fardimant (ID: 16879980/0x0101916C), tag_num=0x02)
  42: 0x0413 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s503" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  43: 0x0424 [0x1C] WAIT(120* ticks)
- 44: 0x0427 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7633*]:
+ 44: 0x0427 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7634*]:
     → "Y-yes... L-let us b-begin...quickly!"
  45: 0x042E [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x042F [0x1C] WAIT(60* ticks)
@@ -1832,19 +1832,19 @@ SUBROUTINE_0224:
  48: 0x0441 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  49: 0x0452 [0x79] Enaremand (ID: 16879981/0x0101916D) looks at Fardimant (ID: 16879980/0x0101916C) (Basic look)
  50: 0x045C [0x1C] WAIT(60* ticks)
- 51: 0x045F [0x2B] Fardimant (ID: 16879980/0x0101916C) [7634*]:
+ 51: 0x045F [0x2B] Fardimant (ID: 16879980/0x0101916C) [7635*]:
     → "Relax, my troubled Enaremand. All shall be realized in due time. One cannot rush the flow of the eternal lifestream."
  52: 0x0466 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0467 [0x1C] WAIT(90* ticks)
  54: 0x046A [0x52] END_LOAD_SCHEDULER: End scheduler "s005" with entities [LocalPlayer, LocalPlayer], work=165*
  55: 0x0479 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s505" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
- 56: 0x048A [0x2B] Fardimant (ID: 16879980/0x0101916C) [7635*]:
+ 56: 0x048A [0x2B] Fardimant (ID: 16879980/0x0101916C) [7636*]:
     → "... The spirits will answer our call when they are ready. ...Despite whether we are or not..."
  57: 0x0491 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0492 [0x1C] WAIT(120* ticks)
  59: 0x0495 [0x52] END_LOAD_SCHEDULER: End scheduler "s505" with entities [LocalPlayer, LocalPlayer], work=165*
  60: 0x04A4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s507" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
- 61: 0x04B5 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7638*]:
+ 61: 0x04B5 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7639*]:
     → "Now. Let us see what angel floats down from the clouds of Paradise..."
  62: 0x04BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  63: 0x04BD [0x1C] WAIT(60* ticks)
@@ -1852,7 +1852,7 @@ SUBROUTINE_0224:
  65: 0x04D1 [0x52] END_LOAD_SCHEDULER: End scheduler "s507" with entities [LocalPlayer, LocalPlayer], work=165*
  66: 0x04E0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s508" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  67: 0x04F1 [0x1C] WAIT(60* ticks)
- 68: 0x04F4 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7639*]:
+ 68: 0x04F4 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7640*]:
     → "Or what beast treads forth from the ichor of the Styx..."
  69: 0x04FB [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x04FC [0x1C] WAIT(30* ticks)
@@ -1860,14 +1860,14 @@ SUBROUTINE_0224:
  72: 0x050E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s509" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  73: 0x051F [0x1C] WAIT(30* ticks)
  74: 0x0522 [0x27] REQ_SET(priority=0x06, entity_id=Fardimant (ID: 16879980/0x0101916C), tag_num=0x03)
- 75: 0x0529 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7640*]:
+ 75: 0x0529 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7641*]:
     → "P-please... By the light of Altana...!"
  76: 0x0530 [0x23] WAIT_FOR_DIALOG_INTERACTION
  77: 0x0531 [0x1C] WAIT(60* ticks)
  78: 0x0534 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "s509" with entities [LocalPlayer, LocalPlayer], work=165*
  79: 0x0543 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s510" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  80: 0x0554 [0x1C] WAIT(120* ticks)
- 81: 0x0557 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7636*]:
+ 81: 0x0557 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7637*]:
     → "Are you ready, my friends?"
  82: 0x055E [0x23] WAIT_FOR_DIALOG_INTERACTION
  83: 0x055F [0x79] Fardimant (ID: 16879980/0x0101916C) looks at manequin1 (ID: 16879982/0x0101916E) (Basic look)
@@ -1875,7 +1875,7 @@ SUBROUTINE_0224:
  85: 0x056C [0x52] END_LOAD_SCHEDULER: End scheduler "s510" with entities [LocalPlayer, LocalPlayer], work=165*
  86: 0x057B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s511" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  87: 0x058C [0x1C] WAIT(30* ticks)
- 88: 0x058F [0x2B] Fardimant (ID: 16879980/0x0101916C) [7637*]:
+ 88: 0x058F [0x2B] Fardimant (ID: 16879980/0x0101916C) [7638*]:
     → "<Player>. Please place the $3 here."
  89: 0x0596 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0597 [0x73] Fardimant (ID: 16879980/0x0101916C) casts magic 212* on manequin1 (ID: 16879982/0x0101916E)
@@ -1966,13 +1966,13 @@ SUBROUTINE_0224:
  20: 0x06A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s513" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  21: 0x06BA [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 0*
  22: 0x06BE [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 0*
- 23: 0x06C2 [0x48] [System] [7643*]:
+ 23: 0x06C2 [0x48] [System] [7644*]:
     → "You place the $3 gently on the ground."
  24: 0x06C5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x06C6 [0x1C] WAIT(60* ticks)
  26: 0x06C9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  27: 0x06DA [0x1C] WAIT(90* ticks)
- 28: 0x06DD [0x2B] Enaremand (ID: 16879981/0x0101916D) [7641*]:
+ 28: 0x06DD [0x2B] Enaremand (ID: 16879981/0x0101916D) [7642*]:
     → "A-Alsha!"
  29: 0x06E4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x06E5 [0x1C] WAIT(60* ticks)
@@ -1984,7 +1984,7 @@ SUBROUTINE_0224:
  36: 0x0724 [0x1C] WAIT(60* ticks)
  37: 0x0727 [0x73] manequin1 (ID: 16879982/0x0101916E) casts magic 249* on manequin1 (ID: 16879982/0x0101916E)
  38: 0x0732 [0x1C] WAIT(60* ticks)
- 39: 0x0735 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7642*]:
+ 39: 0x0735 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7643*]:
     → "As I expected... <Player>! You know what you must do! But be swift!"
  40: 0x073C [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x073D [0x1C] WAIT(60* ticks)
@@ -2191,57 +2191,57 @@ SUBROUTINE_0224:
  30: 0x088D [0x52] END_LOAD_SCHEDULER: End scheduler "s600" with entities [LocalPlayer, LocalPlayer], work=165*
  31: 0x089C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s601" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  32: 0x08AD [0x1C] WAIT(30* ticks)
- 33: 0x08B0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7644*]:
+ 33: 0x08B0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7645*]:
     → "M-m-m-my...m-m-m-my beloved Alsha..."
  34: 0x08B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x08B8 [0x1C] WAIT(60* ticks)
- 36: 0x08BB [0x2B] Enaremand (ID: 16879981/0x0101916D) [7645*]:
+ 36: 0x08BB [0x2B] Enaremand (ID: 16879981/0x0101916D) [7646*]:
     → "Wh-what have you done! Y-you m-m-m-monster!"
  37: 0x08C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x08C3 [0x1C] WAIT(90* ticks)
  39: 0x08C6 [0x52] END_LOAD_SCHEDULER: End scheduler "s601" with entities [LocalPlayer, LocalPlayer], work=165*
  40: 0x08D5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s602" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  41: 0x08E6 [0x79] Fardimant (ID: 16879980/0x0101916C) looks at Enaremand (ID: 16879981/0x0101916D) (Basic look)
- 42: 0x08F0 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7646*]:
+ 42: 0x08F0 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7647*]:
     → "Enaremand... Do you still not realize?"
  43: 0x08F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 44: 0x08F8 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7647*]:
+ 44: 0x08F8 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7648*]:
     → "It is not <Player> who is the m-m-m-monster."
  45: 0x08FF [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x0900 [0x52] END_LOAD_SCHEDULER: End scheduler "s602" with entities [LocalPlayer, LocalPlayer], work=165*
  47: 0x090F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s603" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  48: 0x0920 [0x1C] WAIT(60* ticks)
- 49: 0x0923 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7648*]:
+ 49: 0x0923 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7649*]:
     → "B-but Alsha... Sh-she w-was... Sh-she was..."
  50: 0x092A [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x092B [0x1C] WAIT(60* ticks)
  52: 0x092E [0x52] END_LOAD_SCHEDULER: End scheduler "s603" with entities [LocalPlayer, LocalPlayer], work=165*
  53: 0x093D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s602" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  54: 0x094E [0x1C] WAIT(60* ticks)
- 55: 0x0951 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7649*]:
+ 55: 0x0951 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7650*]:
     → "She was nothing more than a puppet--a crude golem pieced together from sticks and clay. She was not your Alsha."
  56: 0x0958 [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0959 [0x52] END_LOAD_SCHEDULER: End scheduler "s602" with entities [LocalPlayer, LocalPlayer], work=165*
  58: 0x0968 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s604" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  59: 0x0979 [0x1C] WAIT(60* ticks)
- 60: 0x097C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7650*]:
+ 60: 0x097C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7651*]:
     → "Y-you don't understand! Y-you don't know the hell I've experienced these past t-twenty years. The hell I'm in now!"
  61: 0x0983 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0984 [0x1C] WAIT(60* ticks)
- 63: 0x0987 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7651*]:
+ 63: 0x0987 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7652*]:
     → "But what did you expect by knocking on the gates of the underworld?"
  64: 0x098E [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x098F [0x1C] WAIT(90* ticks)
  66: 0x0992 [0x52] END_LOAD_SCHEDULER: End scheduler "s604" with entities [LocalPlayer, LocalPlayer], work=165*
  67: 0x09A1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s605" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  68: 0x09B2 [0x1C] WAIT(90* ticks)
- 69: 0x09B5 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7652*]:
+ 69: 0x09B5 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7653*]:
     → "I warned you, my friend..."
  70: 0x09BC [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x09BD [0x1C] WAIT(120* ticks)
  72: 0x09C0 [0x52] END_LOAD_SCHEDULER: End scheduler "s605" with entities [LocalPlayer, LocalPlayer], work=165*
  73: 0x09CF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s607" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
- 74: 0x09E0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7653*]:
+ 74: 0x09E0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7654*]:
     → "I... There is n-nothing left for m-m-m-me in this world... Curse you, Altana! Come, darkness. Take m-m-m-me to your kingdom!"
  75: 0x09E7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x09E8 [0x1C] WAIT(180* ticks)
@@ -2261,14 +2261,14 @@ SUBROUTINE_0224:
  90: 0x0A6A [0x1C] WAIT(60* ticks)
  91: 0x0A6D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
  92: 0x0A7E [0x1C] WAIT(180* ticks)
- 93: 0x0A81 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7654*]:
+ 93: 0x0A81 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7655*]:
     → "The infernal mists have lifted..."
  94: 0x0A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0A89 [0x1C] WAIT(120* ticks)
  96: 0x0A8C [0x52] END_LOAD_SCHEDULER: End scheduler "s618" with entities [LocalPlayer, LocalPlayer], work=165*
  97: 0x0A9B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s610" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
  98: 0x0AAC [0x1C] WAIT(60* ticks)
- 99: 0x0AAF [0x2B] Enaremand (ID: 16879981/0x0101916D) [7655*]:
+ 99: 0x0AAF [0x2B] Enaremand (ID: 16879981/0x0101916D) [7656*]:
     → "..."
 100: 0x0AB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0AB7 [0x1C] WAIT(120* ticks)
@@ -2282,7 +2282,7 @@ SUBROUTINE_0224:
 109: 0x0AFD [0x6E] Enaremand (ID: 16879981/0x0101916D) uses emote 21*
 110: 0x0B04 [0x99] Wait for Enaremand (ID: 16879981/0x0101916D) animation to complete
 111: 0x0B09 [0x1C] WAIT(60* ticks)
-112: 0x0B0C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7656*]:
+112: 0x0B0C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7657*]:
     → "......!"
 113: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x0B14 [0x1C] WAIT(30* ticks)
@@ -2294,7 +2294,7 @@ SUBROUTINE_0224:
 120: 0x0B4D [0x79] Alsha (ID: 16879983/0x0101916F) looks at Enaremand (ID: 16879981/0x0101916D) (Basic look)
 121: 0x0B57 [0x62] LOAD_EVENT_SCHEDULER: Load scheduler "main" with entities [Alsha (ID: 16879983/0x0101916F), Alsha (ID: 16879983/0x0101916F)], work=[27*, 0*]
 122: 0x0B68 [0x27] REQ_SET(priority=0x1E, entity_id=Alsha (ID: 16879983/0x0101916F), tag_num=0x03)
-123: 0x0B6F [0x2B] Enaremand (ID: 16879981/0x0101916D) [7657*]:
+123: 0x0B6F [0x2B] Enaremand (ID: 16879981/0x0101916D) [7658*]:
     → "Alsha!"
 124: 0x0B76 [0x23] WAIT_FOR_DIALOG_INTERACTION
 125: 0x0B77 [0x1C] WAIT(120* ticks)
@@ -2308,12 +2308,12 @@ SUBROUTINE_0224:
 133: 0x0BC5 [0x27] REQ_SET(priority=0x0F, entity_id=Alsha (ID: 16879983/0x0101916F), tag_num=0x04)
 134: 0x0BCC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s617" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 135: 0x0BDD [0x1C] WAIT(120* ticks)
-136: 0x0BE0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7658*]:
+136: 0x0BE0 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7659*]:
     → "I... You..."
 137: 0x0BE7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 138: 0x0BE8 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Enaremand (ID: 16879981/0x0101916D), Enaremand (ID: 16879981/0x0101916D)], work=29*
 139: 0x0BF7 [0x1C] WAIT(180* ticks)
-140: 0x0BFA [0x2B] Enaremand (ID: 16879981/0x0101916D) [7659*]:
+140: 0x0BFA [0x2B] Enaremand (ID: 16879981/0x0101916D) [7660*]:
     → "S-so beautiful... Nothing like m-my m-mannequin..."
 141: 0x0C01 [0x23] WAIT_FOR_DIALOG_INTERACTION
 142: 0x0C02 [0x1C] WAIT(90* ticks)
@@ -2322,7 +2322,7 @@ SUBROUTINE_0224:
 145: 0x0C25 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
 146: 0x0C27 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s614" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 147: 0x0C38 [0x1C] WAIT(120* ticks)
-148: 0x0C3B [0x2B] Enaremand (ID: 16879981/0x0101916D) [7660*]:
+148: 0x0C3B [0x2B] Enaremand (ID: 16879981/0x0101916D) [7661*]:
     → "Oh... I'm so sorry, Alsha. What was I thinking?"
 149: 0x0C42 [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x0C43 [0x6E] Enaremand (ID: 16879981/0x0101916D) uses emote 6*
@@ -2333,18 +2333,18 @@ SUBROUTINE_0224:
 155: 0x0C67 [0x2F] Alsha (ID: 16879983/0x0101916F)->Render.Flags0 |= 0x80000 // Bit 19
 156: 0x0C6D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s615" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 157: 0x0C7E [0x1C] WAIT(60* ticks)
-158: 0x0C81 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7661*]:
+158: 0x0C81 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7662*]:
     → "I knew all along that I could never replace you...recreate you. But I was so lost..."
 159: 0x0C88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 160: 0x0C89 [0x1C] WAIT(30* ticks)
-161: 0x0C8C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7662*]:
+161: 0x0C8C [0x2B] Enaremand (ID: 16879981/0x0101916D) [7663*]:
     → "Perhaps if I had just looked harder...I would have found you..."
 162: 0x0C93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 163: 0x0C94 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 164: 0x0CA5 [0x52] END_LOAD_SCHEDULER: End scheduler "s615" with entities [LocalPlayer, LocalPlayer], work=165*
 165: 0x0CB4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s620" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 166: 0x0CC5 [0x1C] WAIT(30* ticks)
-167: 0x0CC8 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7663*]:
+167: 0x0CC8 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7664*]:
     → "Right here, in my heart..."
 168: 0x0CCF [0x23] WAIT_FOR_DIALOG_INTERACTION
 169: 0x0CD0 [0x1C] WAIT(200* ticks)
@@ -2354,10 +2354,10 @@ SUBROUTINE_0224:
 173: 0x0CFC [0x1C] WAIT(120* ticks)
 174: 0x0CFF [0x4A] Enaremand (ID: 16879981/0x0101916D) looks at LocalPlayer
 175: 0x0D08 [0x1C] WAIT(60* ticks)
-176: 0x0D0B [0x2B] Enaremand (ID: 16879981/0x0101916D) [7664*]:
+176: 0x0D0B [0x2B] Enaremand (ID: 16879981/0x0101916D) [7665*]:
     → "<Player>... I apologize for all I have put you through, and thank you for your assistance."
 177: 0x0D12 [0x23] WAIT_FOR_DIALOG_INTERACTION
-178: 0x0D13 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7665*]:
+178: 0x0D13 [0x2B] Enaremand (ID: 16879981/0x0101916D) [7666*]:
     → "Please accept this as a token of my gratitude, though I realize there is no real way I can repay you..."
 179: 0x0D1A [0x23] WAIT_FOR_DIALOG_INTERACTION
 180: 0x0D1B [0x6E] Enaremand (ID: 16879981/0x0101916D) uses emote 7*
@@ -2378,7 +2378,7 @@ SUBROUTINE_0224:
 195: 0x0D99 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 196: 0x0DAA [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [EventEntity, EventEntity], work=200*
 197: 0x0DB9 [0x1C] WAIT(60* ticks)
-198: 0x0DBC [0x2B] Fardimant (ID: 16879980/0x0101916C) [7666*]:
+198: 0x0DBC [0x2B] Fardimant (ID: 16879980/0x0101916C) [7667*]:
     → "To stand by that troubled man's side throughout his ordeals... You are quite a better [man/person] than I, <Player>."
 199: 0x0DC3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0DC4 [0x79] LocalPlayer looks at Fardimant (ID: 16879980/0x0101916C) (Basic look)
@@ -2386,11 +2386,11 @@ SUBROUTINE_0224:
 202: 0x0DD1 [0x52] END_LOAD_SCHEDULER: End scheduler "s650" with entities [LocalPlayer, LocalPlayer], work=165*
 203: 0x0DE0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s651" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 204: 0x0DF1 [0x1C] WAIT(30* ticks)
-205: 0x0DF4 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7667*]:
+205: 0x0DF4 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7668*]:
     → "Hm? Oh, I did nothing but what was required of me."
 206: 0x0DFB [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x0DFC [0x79] Fardimant (ID: 16879980/0x0101916C) looks at LocalPlayer (Basic look)
-208: 0x0E06 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7668*]:
+208: 0x0E06 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7669*]:
     → "Things would have been no different if it were you who asked to bring back someone you had lost."
 209: 0x0E0D [0x23] WAIT_FOR_DIALOG_INTERACTION
 210: 0x0E0E [0x1C] WAIT(30* ticks)
@@ -2398,12 +2398,12 @@ SUBROUTINE_0224:
 212: 0x0E20 [0x22] ENTITY_HIDE_FLAG(enabled=0x01)
 213: 0x0E22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s652" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 214: 0x0E33 [0x1C] WAIT(30* ticks)
-215: 0x0E36 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7669*]:
+215: 0x0E36 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7670*]:
     → "What? You believe I called forth that demon on purpose?"
 216: 0x0E3D [0x23] WAIT_FOR_DIALOG_INTERACTION
 217: 0x0E3E [0x1C] WAIT(60* ticks)
 218: 0x0E41 [0x7B] Fardimant (ID: 16879980/0x0101916C) stops talking
-219: 0x0E46 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7670*]:
+219: 0x0E46 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7671*]:
     → "Do I look like the person who would commit such an abominable act?"
 220: 0x0E4D [0x23] WAIT_FOR_DIALOG_INTERACTION
 221: 0x0E4E [0x27] REQ_SET(priority=0x50, entity_id=Fardimant (ID: 16879980/0x0101916C), tag_num=0x08)
@@ -2413,10 +2413,10 @@ SUBROUTINE_0224:
 225: 0x0E78 [0x22] ENTITY_HIDE_FLAG(enabled=0x00)
 226: 0x0E7A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s653" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 227: 0x0E8B [0x1C] WAIT(90* ticks)
-228: 0x0E8E [0x2B] Fardimant (ID: 16879980/0x0101916C) [7671*]:
+228: 0x0E8E [0x2B] Fardimant (ID: 16879980/0x0101916C) [7672*]:
     → "Ha ha... Perhaps I do... And perhaps I knew all along that while there are countless ways to reanimate the body, there are none to reanimate the soul."
 229: 0x0E95 [0x23] WAIT_FOR_DIALOG_INTERACTION
-230: 0x0E96 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7672*]:
+230: 0x0E96 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7673*]:
     → "However, considering the state that our friend Enaremand was in, the only way to make him realize this was..."
 231: 0x0E9D [0x23] WAIT_FOR_DIALOG_INTERACTION
 232: 0x0E9E [0x52] END_LOAD_SCHEDULER: End scheduler "s653" with entities [LocalPlayer, LocalPlayer], work=165*
@@ -2424,7 +2424,7 @@ SUBROUTINE_0224:
 234: 0x0EBE [0x1C] WAIT(90* ticks)
 235: 0x0EC1 [0x4A] Fardimant (ID: 16879980/0x0101916C) looks at LocalPlayer
 236: 0x0ECA [0x1C] WAIT(60* ticks)
-237: 0x0ECD [0x2B] Fardimant (ID: 16879980/0x0101916C) [7673*]:
+237: 0x0ECD [0x2B] Fardimant (ID: 16879980/0x0101916C) [7674*]:
     → "Well, you understand what I mean. And now, maybe for the first time in twenty years, poor Enaremand can break free from the bonds of times faded, and begin living in the light of today."
 238: 0x0ED4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 239: 0x0ED5 [0x1C] WAIT(90* ticks)
@@ -2432,7 +2432,7 @@ SUBROUTINE_0224:
 241: 0x0EE9 [0x52] END_LOAD_SCHEDULER: End scheduler "s654" with entities [LocalPlayer, LocalPlayer], work=165*
 242: 0x0EF8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s655" with entities [LocalPlayer, LocalPlayer], work=[165*, 0*]
 243: 0x0F09 [0x1C] WAIT(30* ticks)
-244: 0x0F0C [0x2B] Fardimant (ID: 16879980/0x0101916C) [7674*]:
+244: 0x0F0C [0x2B] Fardimant (ID: 16879980/0x0101916C) [7675*]:
     → "The past has no place in the present but in the form of memories..."
 245: 0x0F13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x0F14 [0x1C] WAIT(180* ticks)
@@ -2442,15 +2442,15 @@ SUBROUTINE_0224:
 250: 0x0F48 [0x1C] WAIT(90* ticks)
 251: 0x0F4B [0x79] Fardimant (ID: 16879980/0x0101916C) looks at ??? (ID: 16879979/0x0101916B) (Basic look)
 252: 0x0F55 [0x1C] WAIT(30* ticks)
-253: 0x0F58 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7675*]:
+253: 0x0F58 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7676*]:
     → "And we must let those memories support us as our dreams guide us into the future."
 254: 0x0F5F [0x23] WAIT_FOR_DIALOG_INTERACTION
 255: 0x0F60 [0x79] Fardimant (ID: 16879980/0x0101916C) looks at LocalPlayer (Basic look)
 256: 0x0F6A [0x1C] WAIT(60* ticks)
-257: 0x0F6D [0x2B] Fardimant (ID: 16879980/0x0101916C) [7676*]:
+257: 0x0F6D [0x2B] Fardimant (ID: 16879980/0x0101916C) [7677*]:
     → "......"
 258: 0x0F74 [0x23] WAIT_FOR_DIALOG_INTERACTION
-259: 0x0F75 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7677*]:
+259: 0x0F75 [0x2B] Fardimant (ID: 16879980/0x0101916C) [7678*]:
     → "<Player>, I am delighted that this crossing of our paths was fated."
 260: 0x0F7C [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x0F7D [0x1C] WAIT(30* ticks)
@@ -2459,7 +2459,7 @@ SUBROUTINE_0224:
 264: 0x0FA0 [0x1C] WAIT(60* ticks)
 265: 0x0FA3 [0x6E] Fardimant (ID: 16879980/0x0101916C) uses emote 1*
 266: 0x0FAA [0x99] Wait for Fardimant (ID: 16879980/0x0101916C) animation to complete
-267: 0x0FAF [0x2B] Fardimant (ID: 16879980/0x0101916C) [7678*]:
+267: 0x0FAF [0x2B] Fardimant (ID: 16879980/0x0101916C) [7679*]:
     → "Though I sense that this will not be the last time..."
 268: 0x0FB6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 269: 0x0FB7 [0x1C] WAIT(60* ticks)

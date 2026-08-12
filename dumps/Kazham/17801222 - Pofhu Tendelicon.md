@@ -25,17 +25,17 @@
 |---------|-------------|-------------|
 |       0 | 0x0032      |          50 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x2707      |        9991 |
-|       3 | 0x2708      |        9992 |
-|       4 | 0x286C      |       10348 |
-|       5 | 0x286D      |       10349 |
+|       2 | 0x2708      |        9992 |
+|       3 | 0x2709      |        9993 |
+|       4 | 0x286D      |       10349 |
+|       5 | 0x286E      |       10350 |
 
 ## String References
 
-- **9991**: A while back, therrre was talk about sending a party to the Temple of Uggalepih to fight the Tonberries. That place is theirrr stronghold, you know.
-- **9992**: However, the chieftainness wouldn't let them use herrr temple key, and that was the end of that.
-- **10348**: You'rrre not the most popular person in town lately, are you? It's that pollen you've got all over you. It may be nothing to you, but to us Mithra, it's about as pleasing as an outhouse in summer.
-- **10349**: If you want people to speak to you again, I would suggest dropping by M & P's Market. If anyone can help you, it would be those two.
+- **9992**: A while back, therrre was talk about sending a party to the Temple of Uggalepih to fight the Tonberries. That place is theirrr stronghold, you know.
+- **9993**: However, the chieftainness wouldn't let them use herrr temple key, and that was the end of that.
+- **10349**: You'rrre not the most popular person in town lately, are you? It's that pollen you've got all over you. It may be nothing to you, but to us Mithra, it's about as pleasing as an outhouse in summer.
+- **10350**: If you want people to speak to you again, I would suggest dropping by M & P's Market. If anyone can help you, it would be those two.
 
 ## Events
 
@@ -134,10 +134,10 @@
   1: 0x001F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0020 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0021 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pofhu Tendelicon (ID: 17801222/0x010FA006), tag_num=0x01)
-  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9991*)
+  4: 0x0028 [0x1D] PRINT_EVENT_MESSAGE(message_id=9992*)
     → "A while back, therrre was talk about sending a party to the Temple of Uggalepih to fight the Tonberries. That place is theirrr stronghold, you know."
   5: 0x002B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9992*)
+  6: 0x002C [0x1D] PRINT_EVENT_MESSAGE(message_id=9993*)
     → "However, the chieftainness wouldn't let them use herrr temple key, and that was the end of that."
   7: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0030 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pofhu Tendelicon (ID: 17801222/0x010FA006), tag_num=0x02)
@@ -171,10 +171,10 @@
   1: 0x0040 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0041 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0042 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pofhu Tendelicon (ID: 17801222/0x010FA006), tag_num=0x01)
-  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10348*)
+  4: 0x0049 [0x1D] PRINT_EVENT_MESSAGE(message_id=10349*)
     → "You'rrre not the most popular person in town lately, are you? It's that pollen you've got all over you. It may be nothing to you, but to us Mithra, it's about as pleasing as an outhouse in summer."
   5: 0x004C [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10349*)
+  6: 0x004D [0x1D] PRINT_EVENT_MESSAGE(message_id=10350*)
     → "If you want people to speak to you again, I would suggest dropping by M & P's Market. If anyone can help you, it would be those two."
   7: 0x0050 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0051 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Pofhu Tendelicon (ID: 17801222/0x010FA006), tag_num=0x02)

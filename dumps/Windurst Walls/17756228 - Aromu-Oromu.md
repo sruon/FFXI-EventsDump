@@ -26,13 +26,13 @@
 |---------|-------------|-------------|
 |       0 | 0x0028      |          40 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x1EE1      |        7905 |
-|       3 | 0x1EE2      |        7906 |
+|       2 | 0x1EE2      |        7906 |
+|       3 | 0x1EE3      |        7907 |
 
 ## String References
 
-- **7905**: Our Federation of Windurst is governed-woverned by the great Star Sibyl and the five ministries of magic.
-- **7906**: Major decisions are made by the five ministers who head the ministries, but the divinations of the Star Sibyl are the most important determinant.
+- **7906**: Our Federation of Windurst is governed-woverned by the great Star Sibyl and the five ministries of magic.
+- **7907**: Major decisions are made by the five ministers who head the ministries, but the divinations of the Star Sibyl are the most important determinant.
 
 ## Events
 
@@ -177,10 +177,10 @@
   1: 0x0027 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0028 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0029 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Aromu-Oromu (ID: 17756228/0x010EF044), tag_num=0x01)
-  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7905*)
+  4: 0x0030 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
     → "Our Federation of Windurst is governed-woverned by the great Star Sibyl and the five ministries of magic."
   5: 0x0033 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7906*)
+  6: 0x0034 [0x1D] PRINT_EVENT_MESSAGE(message_id=7907*)
     → "Major decisions are made by the five ministers who head the ministries, but the divinations of the Star Sibyl are the most important determinant."
   7: 0x0037 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0038 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Aromu-Oromu (ID: 17756228/0x010EF044), tag_num=0x02)

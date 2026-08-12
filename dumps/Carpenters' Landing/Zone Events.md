@@ -48,8 +48,8 @@
 |       1 | 0x0000      |           0 |
 |       2 | 0x003D      |          61 |
 |       3 | 0x003C      |          60 |
-|       4 | 0x1D26      |        7462 |
-|       5 | 0x1D27      |        7463 |
+|       4 | 0x1D27      |        7463 |
+|       5 | 0x1D28      |        7464 |
 |       6 | 0x00E5      |         229 |
 |       7 | 0x0065      |         101 |
 |       8 | 0x00DB      |         219 |
@@ -70,9 +70,9 @@
 |      23 | 0x0811      |        2065 |
 |      24 | 0x001E      |          30 |
 |      25 | 0x026A      |         618 |
-|      26 | 0x1D1D      |        7453 |
+|      26 | 0x1D1E      |        7454 |
 |      27 | 0x00B4      |         180 |
-|      28 | 0x1D1A      |        7450 |
+|      28 | 0x1D1B      |        7451 |
 |      29 | 0xFFFB62B2  |  4294664882 |
 |      30 | 0x7B70C     |      505612 |
 |      31 | 0x0013      |          19 |
@@ -83,70 +83,70 @@
 |      36 | 0x0001      |           1 |
 |      37 | 0x0078      |         120 |
 |      38 | 0x0074      |         116 |
-|      39 | 0x1C67      |        7271 |
+|      39 | 0x1C68      |        7272 |
 |      40 | 0x0046      |          70 |
-|      41 | 0x1C68      |        7272 |
+|      41 | 0x1C69      |        7273 |
 |      42 | 0x000A      |          10 |
-|      43 | 0x1C69      |        7273 |
+|      43 | 0x1C6A      |        7274 |
 |      44 | 0x0007      |           7 |
-|      45 | 0x1C6A      |        7274 |
+|      45 | 0x1C6B      |        7275 |
 |      46 | 0x0006      |           6 |
-|      47 | 0x1C6B      |        7275 |
+|      47 | 0x1C6C      |        7276 |
 |      48 | 0x005A      |          90 |
-|      49 | 0x1C6C      |        7276 |
+|      49 | 0x1C6D      |        7277 |
 |      50 | 0x00AA      |         170 |
-|      51 | 0x1C6D      |        7277 |
-|      52 | 0x1C6E      |        7278 |
-|      53 | 0x1C6F      |        7279 |
-|      54 | 0x1C70      |        7280 |
-|      55 | 0x1C71      |        7281 |
-|      56 | 0x1C72      |        7282 |
-|      57 | 0x1C73      |        7283 |
-|      58 | 0x1C74      |        7284 |
-|      59 | 0x1C75      |        7285 |
+|      51 | 0x1C6E      |        7278 |
+|      52 | 0x1C6F      |        7279 |
+|      53 | 0x1C70      |        7280 |
+|      54 | 0x1C71      |        7281 |
+|      55 | 0x1C72      |        7282 |
+|      56 | 0x1C73      |        7283 |
+|      57 | 0x1C74      |        7284 |
+|      58 | 0x1C75      |        7285 |
+|      59 | 0x1C76      |        7286 |
 |      60 | 0x012C      |         300 |
-|      61 | 0x1C76      |        7286 |
+|      61 | 0x1C77      |        7287 |
 |      62 | 0x006E      |         110 |
 |      63 | 0x000D      |          13 |
 |      64 | 0x0960      |        2400 |
 |      65 | 0x00A3      |         163 |
-|      66 | 0x1C77      |        7287 |
-|      67 | 0x1C78      |        7288 |
-|      68 | 0x1C79      |        7289 |
-|      69 | 0x1C7A      |        7290 |
-|      70 | 0x1C7B      |        7291 |
-|      71 | 0x1C7C      |        7292 |
+|      66 | 0x1C78      |        7288 |
+|      67 | 0x1C79      |        7289 |
+|      68 | 0x1C7A      |        7290 |
+|      69 | 0x1C7B      |        7291 |
+|      70 | 0x1C7C      |        7292 |
+|      71 | 0x1C7D      |        7293 |
 |      72 | 0xFFFE2E96  |  4294848150 |
 |      73 | 0xFFF8D8AD  |  4294498477 |
 |      74 | 0xFFFFEA59  |  4294961753 |
 |      75 | 0x07E2      |        2018 |
 |      76 | 0x004A      |          74 |
-|      77 | 0x1C51      |        7249 |
-|      78 | 0x1C52      |        7250 |
-|      79 | 0x1C53      |        7251 |
+|      77 | 0x1C52      |        7250 |
+|      78 | 0x1C53      |        7251 |
+|      79 | 0x1C54      |        7252 |
 |      80 | 0x0014      |          20 |
 |      81 | 0x0064      |         100 |
 |      82 | 0x006C      |         108 |
-|      83 | 0x1C54      |        7252 |
+|      83 | 0x1C55      |        7253 |
 |      84 | 0x0005      |           5 |
-|      85 | 0x1C55      |        7253 |
+|      85 | 0x1C56      |        7254 |
 |      86 | 0x000F      |          15 |
-|      87 | 0x1C56      |        7254 |
-|      88 | 0x1C57      |        7255 |
-|      89 | 0x1C58      |        7256 |
-|      90 | 0x1C59      |        7257 |
-|      91 | 0x1C5A      |        7258 |
-|      92 | 0x1C5B      |        7259 |
+|      87 | 0x1C57      |        7255 |
+|      88 | 0x1C58      |        7256 |
+|      89 | 0x1C59      |        7257 |
+|      90 | 0x1C5A      |        7258 |
+|      91 | 0x1C5B      |        7259 |
+|      92 | 0x1C5C      |        7260 |
 |      93 | 0x010D      |         269 |
 |      94 | 0x007F      |         127 |
-|      95 | 0x1C5C      |        7260 |
-|      96 | 0x1C5D      |        7261 |
-|      97 | 0x1C5E      |        7262 |
-|      98 | 0x1C5F      |        7263 |
-|      99 | 0x1C60      |        7264 |
+|      95 | 0x1C5D      |        7261 |
+|      96 | 0x1C5E      |        7262 |
+|      97 | 0x1C5F      |        7263 |
+|      98 | 0x1C60      |        7264 |
+|      99 | 0x1C61      |        7265 |
 |     100 | 0x0032      |          50 |
-|     101 | 0x1C61      |        7265 |
-|     102 | 0x1C62      |        7266 |
+|     101 | 0x1C62      |        7266 |
+|     102 | 0x1C63      |        7267 |
 |     103 | 0x00A0      |         160 |
 |     104 | 0x34850     |      215120 |
 |     105 | 0xFFF7EBB3  |  4294437811 |
@@ -159,10 +159,10 @@
 
 ## String References
 
-- **7273**: How do you respond? [Yes, I have a message./I have no message for you.]
-- **7453**: You were refused passage for failing to present $6!
-- **7462**: You use your $3. ($2 trip[/s] remaining)
-- **7463**: You use up your $3.
+- **7274**: How do you respond? [Yes, I have a message./I have no message for you.]
+- **7454**: You were refused passage for failing to present $6!
+- **7463**: You use your $3. ($2 trip[/s] remaining)
+- **7464**: You use up your $3.
 
 ## Events
 
@@ -376,10 +376,10 @@
   6: 0x01A0 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x01BC
   7: 0x01A8 [0x0C] Work_Zone[4]--
   8: 0x01AB [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x01B9
-  9: 0x01B3 [0x48] [System] [7462*]:
+  9: 0x01B3 [0x48] [System] [7463*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x01B6 [0x01] GOTO 0x01BC
- 11: 0x01B9 [0x48] [System] [7463*]:
+ 11: 0x01B9 [0x48] [System] [7464*]:
     → "You use up your $3."
 
 SUBROUTINE_01BC:
@@ -497,10 +497,10 @@ SUBROUTINE_01BC:
   6: 0x02AA [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x02C6
   7: 0x02B2 [0x0C] Work_Zone[4]--
   8: 0x02B5 [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x02C3
-  9: 0x02BD [0x48] [System] [7462*]:
+  9: 0x02BD [0x48] [System] [7463*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x02C0 [0x01] GOTO 0x02C6
- 11: 0x02C3 [0x48] [System] [7463*]:
+ 11: 0x02C3 [0x48] [System] [7464*]:
     → "You use up your $3."
 
 SUBROUTINE_02C6:
@@ -620,10 +620,10 @@ SUBROUTINE_02C6:
   6: 0x03B4 [0x02] IF !(Work_Zone[3] == 0*) GOTO 0x03D0
   7: 0x03BC [0x0C] Work_Zone[4]--
   8: 0x03BF [0x02] IF !(Work_Zone[4] <= 0*) GOTO 0x03CD
-  9: 0x03C7 [0x48] [System] [7462*]:
+  9: 0x03C7 [0x48] [System] [7463*]:
     → "You use your $3. ($2 trip[/s] remaining)"
  10: 0x03CA [0x01] GOTO 0x03D0
- 11: 0x03CD [0x48] [System] [7463*]:
+ 11: 0x03CD [0x48] [System] [7464*]:
     → "You use up your $3."
 
 SUBROUTINE_03D0:
@@ -752,11 +752,11 @@ SUBROUTINE_03D0:
  12: 0x04F8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x0509 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x0518 [0x03] Work_Zone[2] = 618*
- 15: 0x051D [0x48] [System] [7453*]:
+ 15: 0x051D [0x48] [System] [7454*]:
     → "You were refused passage for failing to present $6!"
  16: 0x0520 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0521 [0x1C] WAIT(180* ticks)
- 18: 0x0524 [0x2B] Chuaie (ID: 16785745/0x01002151) [7450*]:
+ 18: 0x0524 [0x2B] Chuaie (ID: 16785745/0x01002151) [7451*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x052B [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x052C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -818,11 +818,11 @@ SUBROUTINE_03D0:
  12: 0x05DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x05ED [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x05FC [0x03] Work_Zone[2] = 618*
- 15: 0x0601 [0x48] [System] [7453*]:
+ 15: 0x0601 [0x48] [System] [7454*]:
     → "You were refused passage for failing to present $6!"
  16: 0x0604 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x0605 [0x1C] WAIT(180* ticks)
- 18: 0x0608 [0x2B] Felourie (ID: 16785747/0x01002153) [7450*]:
+ 18: 0x0608 [0x2B] Felourie (ID: 16785747/0x01002153) [7451*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0610 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -884,11 +884,11 @@ SUBROUTINE_03D0:
  12: 0x06C0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi0" with entities [EventEntity, EventEntity], work=[200*, 0*]
  13: 0x06D1 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi0" with entities [EventEntity, EventEntity], work=200*
  14: 0x06E0 [0x03] Work_Zone[2] = 618*
- 15: 0x06E5 [0x48] [System] [7453*]:
+ 15: 0x06E5 [0x48] [System] [7454*]:
     → "You were refused passage for failing to present $6!"
  16: 0x06E8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  17: 0x06E9 [0x1C] WAIT(180* ticks)
- 18: 0x06EC [0x2B] Ratoulle (ID: 16785746/0x01002152) [7450*]:
+ 18: 0x06EC [0x2B] Ratoulle (ID: 16785746/0x01002152) [7451*]:
     → "If you wish to board the barge, please purchase a ticket from the vendor at the foot of the landing."
  19: 0x06F3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x06F4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo0" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1029,7 +1029,7 @@ SUBROUTINE_03D0:
  18: 0x07B5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  19: 0x07C6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  20: 0x07D7 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x02)
- 21: 0x07DE [0x2B] Louverance (ID: 16785750/0x01002156) [7271*]:
+ 21: 0x07DE [0x2B] Louverance (ID: 16785750/0x01002156) [7272*]:
     → "I recognize your face, adventurer. How do you know of this place?"
  22: 0x07E5 [0x1C] WAIT(60* ticks)
  23: 0x07E8 [0x4A] LocalPlayer looks at Louverance (ID: 16785750/0x01002156)
@@ -1039,7 +1039,7 @@ SUBROUTINE_03D0:
  27: 0x07F8 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=116*
  28: 0x0807 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  29: 0x0818 [0x1C] WAIT(70* ticks)
- 30: 0x081B [0x2B] Louverance (ID: 16785750/0x01002156) [7272*]:
+ 30: 0x081B [0x2B] Louverance (ID: 16785750/0x01002156) [7273*]:
     → "Have you come with a message from him? I hear the matter is urgent..."
  31: 0x0822 [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x0823 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=116*
@@ -1047,7 +1047,7 @@ SUBROUTINE_03D0:
  34: 0x0843 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  35: 0x0854 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z002" with entities [LocalPlayer, LocalPlayer], work=116*
  36: 0x0863 [0x1C] WAIT(10* ticks)
- 37: 0x0866 [0x24] CREATE_DIALOG(message_id=7273*, default_option=0*, option_flags=0*)
+ 37: 0x0866 [0x24] CREATE_DIALOG(message_id=7274*, default_option=0*, option_flags=0*)
     → "How do you respond? [Yes, I have a message./I have no message for you.]"
  38: 0x086D [0x25] WAIT_DIALOG_SELECT()
  39: 0x086E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x08A8
@@ -1056,7 +1056,7 @@ SUBROUTINE_03D0:
  42: 0x0882 [0x1C] WAIT(60* ticks)
  43: 0x0885 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  44: 0x0896 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x03)
- 45: 0x089D [0x2B] Louverance (ID: 16785750/0x01002156) [7274*]:
+ 45: 0x089D [0x2B] Louverance (ID: 16785750/0x01002156) [7275*]:
     → "What's this you say? A "Master Cid" requests my presence? That name sounds somewhat familiar..."
  46: 0x08A4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x08A5 [0x01] GOTO 0x08E2
@@ -1066,7 +1066,7 @@ SUBROUTINE_03D0:
  51: 0x08BC [0x1C] WAIT(60* ticks)
  52: 0x08BF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z003" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  53: 0x08D0 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x03)
- 54: 0x08D7 [0x2B] Louverance (ID: 16785750/0x01002156) [7275*]:
+ 54: 0x08D7 [0x2B] Louverance (ID: 16785750/0x01002156) [7276*]:
     → "What's this you say? You came to request my presence?"
  55: 0x08DE [0x23] WAIT_FOR_DIALOG_INTERACTION
  56: 0x08DF [0x01] GOTO 0x08E2
@@ -1077,14 +1077,14 @@ SUBROUTINE_08E2:
  59: 0x08F7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
  60: 0x0908 [0x1C] WAIT(30* ticks)
  61: 0x090B [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=90*)
- 62: 0x0910 [0x2B] Louverance (ID: 16785750/0x01002156) [7276*]:
+ 62: 0x0910 [0x2B] Louverance (ID: 16785750/0x01002156) [7277*]:
     → "One moment, [sir/madame]. I do believe you are mistaking me for...him."
  63: 0x0917 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0918 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=116*
  65: 0x0927 [0x4E] SET_ENTITY_HIDE_FLAG: Show Guilloud (ID: 16785749/0x01002155)
  66: 0x092D [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 170*
  67: 0x0931 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 170*
- 68: 0x0935 [0x2B] Guilloud (ID: 16785749/0x01002155) [7277*]:
+ 68: 0x0935 [0x2B] Guilloud (ID: 16785749/0x01002155) [7278*]:
     → "Sir Louverance! It's a trap!"
  69: 0x093C [0x1C] WAIT(30* ticks)
  70: 0x093F [0x27] REQ_SET(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x02)
@@ -1094,19 +1094,19 @@ SUBROUTINE_08E2:
  74: 0x0963 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=116*
  75: 0x0972 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0973 [0x27] REQ_SET(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x07)
- 77: 0x097A [0x2B] Guilloud (ID: 16785749/0x01002155) [7278*]:
+ 77: 0x097A [0x2B] Guilloud (ID: 16785749/0x01002155) [7279*]:
     → "That honorless count set this trap to take your life, young sir!"
  78: 0x0981 [0x23] WAIT_FOR_DIALOG_INTERACTION
  79: 0x0982 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x0B)
- 80: 0x0989 [0x2B] Louverance (ID: 16785750/0x01002156) [7279*]:
+ 80: 0x0989 [0x2B] Louverance (ID: 16785750/0x01002156) [7280*]:
     → "Explain this treachery!"
  81: 0x0990 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x0991 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x0C)
  83: 0x0998 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
- 84: 0x09A9 [0x2B] Guilloud (ID: 16785749/0x01002155) [7280*]:
+ 84: 0x09A9 [0x2B] Guilloud (ID: 16785749/0x01002155) [7281*]:
     → "I heard word that those vicious Tonberries had been released under the pretense of dealing with an interloping brigand."
  85: 0x09B0 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 86: 0x09B1 [0x2B] Guilloud (ID: 16785749/0x01002155) [7281*]:
+ 86: 0x09B1 [0x2B] Guilloud (ID: 16785749/0x01002155) [7282*]:
     → "They described the bandit as a male Elvaan wearing a mask and bright brigandine armor."
  87: 0x09B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x09B9 [0x27] REQ_SET(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x08)
@@ -1117,15 +1117,15 @@ SUBROUTINE_08E2:
  93: 0x0A00 [0x7B] Louverance (ID: 16785750/0x01002156) stops talking
  94: 0x0A05 [0x1C] WAIT(60* ticks)
  95: 0x0A08 [0x7C] Louverance (ID: 16785750/0x01002156)->Render.Flags2 |= 0x00
- 96: 0x0A0E [0x2B] Louverance (ID: 16785750/0x01002156) [7282*]:
+ 96: 0x0A0E [0x2B] Louverance (ID: 16785750/0x01002156) [7283*]:
     → "..."
  97: 0x0A15 [0x23] WAIT_FOR_DIALOG_INTERACTION
  98: 0x0A16 [0x7C] Louverance (ID: 16785750/0x01002156)->Render.Flags2 |= 0x01
- 99: 0x0A1C [0x2B] Louverance (ID: 16785750/0x01002156) [7283*]:
+ 99: 0x0A1C [0x2B] Louverance (ID: 16785750/0x01002156) [7284*]:
     → "Once a thief, always a thief. It seems he is not content with stealing just my name!"
 100: 0x0A23 [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x0A24 [0x1C] WAIT(30* ticks)
-102: 0x0A27 [0x2B] Guilloud (ID: 16785749/0x01002155) [7284*]:
+102: 0x0A27 [0x2B] Guilloud (ID: 16785749/0x01002155) [7285*]:
     → "Sir Louverance?"
 103: 0x0A2E [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x0A2F [0x4A] Louverance (ID: 16785750/0x01002156) looks at LocalPlayer
@@ -1134,7 +1134,7 @@ SUBROUTINE_08E2:
 107: 0x0A4C [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=116*
 108: 0x0A5B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 109: 0x0A5C [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Louverance (ID: 16785750/0x01002156) Render.Flags0 and Render.Flags3 conditions are met
-110: 0x0A61 [0x2B] Louverance (ID: 16785750/0x01002156) [7285*]:
+110: 0x0A61 [0x2B] Louverance (ID: 16785750/0x01002156) [7286*]:
     → "If you meet this man, give him a message: If you would call yourself a knight, then you must seek a just cause to champion!"
 111: 0x0A68 [0x23] WAIT_FOR_DIALOG_INTERACTION
 112: 0x0A69 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
@@ -1142,7 +1142,7 @@ SUBROUTINE_08E2:
 114: 0x0A75 [0x7B] Louverance (ID: 16785750/0x01002156) stops talking
 115: 0x0A7A [0x27] REQ_SET(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x03)
 116: 0x0A81 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=300*)
-117: 0x0A86 [0x2B] Louverance (ID: 16785750/0x01002156) [7286*]:
+117: 0x0A86 [0x2B] Louverance (ID: 16785750/0x01002156) [7287*]:
     → "Farewell!"
 118: 0x0A8D [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x0A8E [0x1C] WAIT(110* ticks)
@@ -1168,29 +1168,29 @@ SUBROUTINE_08E2:
 139: 0x0B1A [0x1C] WAIT(60* ticks)
 140: 0x0B1D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
 141: 0x0B2E [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z011" with entities [LocalPlayer, LocalPlayer], work=116*
-142: 0x0B3D [0x2B] Louverance (ID: 16785753/0x01002159) [7287*]:
+142: 0x0B3D [0x2B] Louverance (ID: 16785753/0x01002159) [7288*]:
     → "[Sir/Lady] <Player>... I must apologize. It appears you have defeated the Tonberries meant for my demise."
 143: 0x0B44 [0x23] WAIT_FOR_DIALOG_INTERACTION
 144: 0x0B45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
 145: 0x0B56 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785753/0x01002159), tag_num=0x06)
-146: 0x0B5D [0x2B] Louverance (ID: 16785753/0x01002159) [7288*]:
+146: 0x0B5D [0x2B] Louverance (ID: 16785753/0x01002159) [7289*]:
     → "You are a most resourceful ally. I will be sure to return the favor in the future."
 147: 0x0B64 [0x23] WAIT_FOR_DIALOG_INTERACTION
 148: 0x0B65 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785753/0x01002159), tag_num=0x08)
 149: 0x0B6C [0x1C] WAIT(30* ticks)
 150: 0x0B6F [0x52] END_LOAD_SCHEDULER: End scheduler "z012" with entities [LocalPlayer, LocalPlayer], work=116*
 151: 0x0B7E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
-152: 0x0B8F [0x2B] Louverance (ID: 16785753/0x01002159) [7289*]:
+152: 0x0B8F [0x2B] Louverance (ID: 16785753/0x01002159) [7290*]:
     → "You say that Master Cid requires my presence in Bastok? I must say, gathering lumber was never my most cherished activity in any case."
 153: 0x0B96 [0x23] WAIT_FOR_DIALOG_INTERACTION
 154: 0x0B97 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785753/0x01002159))
-155: 0x0B9D [0x2B] Louverance (ID: 16785753/0x01002159) [7290*]:
+155: 0x0B9D [0x2B] Louverance (ID: 16785753/0x01002159) [7291*]:
     → "At last, we journey to the celestial capital of Al'Taieu. Our confrontation with the Keeper of the Apocalypse is at hand."
 156: 0x0BA4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 157: 0x0BA5 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z013" with entities [LocalPlayer, LocalPlayer], work=116*
 158: 0x0BB4 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785753/0x01002159), tag_num=0x09)
 159: 0x0BBB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
-160: 0x0BCC [0x2B] Louverance (ID: 16785753/0x01002159) [7291*]:
+160: 0x0BCC [0x2B] Louverance (ID: 16785753/0x01002159) [7292*]:
     → "Let us finish this battle forthwith. If I am to follow the path of the knight, I must see justice done as a true knight should."
 161: 0x0BD3 [0x23] WAIT_FOR_DIALOG_INTERACTION
 162: 0x0BD4 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z014" with entities [LocalPlayer, LocalPlayer], work=116*
@@ -1199,7 +1199,7 @@ SUBROUTINE_08E2:
 165: 0x0BF0 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Louverance (ID: 16785753/0x01002159), tag_num=0x04)
 166: 0x0BF7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z015" with entities [LocalPlayer, LocalPlayer], work=[116*, 0*]
 167: 0x0C08 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z015" with entities [LocalPlayer, LocalPlayer], work=116*
-168: 0x0C17 [0x2B] Louverance (ID: 16785753/0x01002159) [7292*]:
+168: 0x0C17 [0x2B] Louverance (ID: 16785753/0x01002159) [7293*]:
     → "And there is no higher cause than saving the world from destruction... Wouldn't you agree, Louverance Mistalle?"
 169: 0x0C1E [0x23] WAIT_FOR_DIALOG_INTERACTION
 170: 0x0C1F [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785753/0x01002159), tag_num=0x05)
@@ -1346,21 +1346,21 @@ SUBROUTINE_0C74:
  11: 0x0CFF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
  12: 0x0D10 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  13: 0x0D21 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "fdi1" with entities [LocalPlayer, LocalPlayer], work=200*
- 14: 0x0D30 [0x2B] Guilloud (ID: 16785749/0x01002155) [7249*]:
+ 14: 0x0D30 [0x2B] Guilloud (ID: 16785749/0x01002155) [7250*]:
     → "How...how could you defeat..."
  15: 0x0D37 [0x23] WAIT_FOR_DIALOG_INTERACTION
  16: 0x0D38 [0x52] END_LOAD_SCHEDULER: End scheduler "z000" with entities [LocalPlayer, LocalPlayer], work=74*
  17: 0x0D47 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  18: 0x0D58 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
  19: 0x0D69 [0x1C] WAIT(10* ticks)
- 20: 0x0D6C [0x2B] Guilloud (ID: 16785749/0x01002155) [7250*]:
+ 20: 0x0D6C [0x2B] Guilloud (ID: 16785749/0x01002155) [7251*]:
     → "Come! Strike me down! I am not afraid of death! There is nothing I could want more than to die in the service of my master."
  21: 0x0D73 [0x23] WAIT_FOR_DIALOG_INTERACTION
  22: 0x0D74 [0x5C] MUSIC_CONTROL: Set Idle (Day) music to song 120*
  23: 0x0D78 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 120*
  24: 0x0D7C [0x9A] WAIT_MUSIC_SERVER()
  25: 0x0D7D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z001" with entities [LocalPlayer, LocalPlayer], work=74*
- 26: 0x0D8C [0x2B] Louverance (ID: 16785750/0x01002156) [7251*]:
+ 26: 0x0D8C [0x2B] Louverance (ID: 16785750/0x01002156) [7252*]:
     → "Stop this foolishness!"
  27: 0x0D93 [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x0D94 [0x4E] SET_ENTITY_HIDE_FLAG: Show Chocobo (ID: 16785754/0x0100215A)
@@ -1383,7 +1383,7 @@ SUBROUTINE_0C74:
  45: 0x0E33 [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00b" with entities [LocalPlayer, LocalPlayer], work=74*
  46: 0x0E42 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785750/0x01002156))
  47: 0x0E48 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Chocobo (ID: 16785754/0x0100215A))
- 48: 0x0E4E [0x2B] Guilloud (ID: 16785749/0x01002155) [7252*]:
+ 48: 0x0E4E [0x2B] Guilloud (ID: 16785749/0x01002155) [7253*]:
     → "Sir Louverance!"
  49: 0x0E55 [0x23] WAIT_FOR_DIALOG_INTERACTION
  50: 0x0E56 [0x1C] WAIT(30* ticks)
@@ -1391,7 +1391,7 @@ SUBROUTINE_0C74:
  52: 0x0E6A [0x1C] WAIT(5* ticks)
  53: 0x0E6D [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x07)
  54: 0x0E74 [0x1C] WAIT(90* ticks)
- 55: 0x0E77 [0x2B] Louverance (ID: 16785750/0x01002156) [7253*]:
+ 55: 0x0E77 [0x2B] Louverance (ID: 16785750/0x01002156) [7254*]:
     → "Do you truly feel your actions here today would please Count Francmage?"
  56: 0x0E7E [0x23] WAIT_FOR_DIALOG_INTERACTION
  57: 0x0E7F [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785750/0x01002156))
@@ -1404,10 +1404,10 @@ SUBROUTINE_0C74:
  64: 0x0EBD [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  65: 0x0EBE [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Louverance (ID: 16785750/0x01002156) Render.Flags0 and Render.Flags3 conditions are met
  66: 0x0EC3 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x0B)
- 67: 0x0ECA [0x2B] Louverance (ID: 16785750/0x01002156) [7254*]:
+ 67: 0x0ECA [0x2B] Louverance (ID: 16785750/0x01002156) [7255*]:
     → "Noble adventurer, please forgive this man. The Knights Mistalle were once a proud family of knights...until certain happenings within the Kingdom left the count's name scarred with disgrace."
  68: 0x0ED1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 69: 0x0ED2 [0x2B] Louverance (ID: 16785750/0x01002156) [7255*]:
+ 69: 0x0ED2 [0x2B] Louverance (ID: 16785750/0x01002156) [7256*]:
     → "The family vowed revenge... However, without a target for that revenge, they were never able to prove their innocence, and their nobility was stripped from them."
  70: 0x0ED9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x0EDA [0x52] END_LOAD_SCHEDULER: End scheduler "z004" with entities [LocalPlayer, LocalPlayer], work=74*
@@ -1415,11 +1415,11 @@ SUBROUTINE_0C74:
  73: 0x0EFA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z005" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
  74: 0x0F0B [0x1C] WAIT(60* ticks)
  75: 0x0F0E [0x02] IF !(ExtData[1]->WorkLocal[7] == 1*) GOTO 0x0F21
- 76: 0x0F16 [0x2B] Louverance (ID: 16785750/0x01002156) [7256*]:
+ 76: 0x0F16 [0x2B] Louverance (ID: 16785750/0x01002156) [7257*]:
     → "As you are quite aware, San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains."
  77: 0x0F1D [0x23] WAIT_FOR_DIALOG_INTERACTION
  78: 0x0F1E [0x01] GOTO 0x0F29
- 79: 0x0F21 [0x2B] Louverance (ID: 16785750/0x01002156) [7257*]:
+ 79: 0x0F21 [0x2B] Louverance (ID: 16785750/0x01002156) [7258*]:
     → "San d'Oria is a country built upon honor. Thirty years have passed since ill fate befell the Knights Mistalle, but the contempt towards the family remains."
  80: 0x0F28 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1428,7 +1428,7 @@ SUBROUTINE_0F29:
  82: 0x0F30 [0x1C] WAIT(30* ticks)
  83: 0x0F33 [0x27] REQ_SET(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x07)
  84: 0x0F3A [0x1C] WAIT(30* ticks)
- 85: 0x0F3D [0x2B] Guilloud (ID: 16785749/0x01002155) [7258*]:
+ 85: 0x0F3D [0x2B] Guilloud (ID: 16785749/0x01002155) [7259*]:
     → "And now I'm just an old man..."
  86: 0x0F44 [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x0F45 [0x29] REQ_SET_WAIT(priority=0x03, entity_id=Guilloud (ID: 16785749/0x01002155), tag_num=0x08)
@@ -1437,7 +1437,7 @@ SUBROUTINE_0F29:
  90: 0x0F5C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
  91: 0x0F6D [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z006" with entities [LocalPlayer, LocalPlayer], work=74*
  92: 0x0F7C [0x1C] WAIT(20* ticks)
- 93: 0x0F7F [0x2B] Louverance (ID: 16785750/0x01002156) [7259*]:
+ 93: 0x0F7F [0x2B] Louverance (ID: 16785750/0x01002156) [7260*]:
     → "What answers have you come in search of today? What do you wish to know of the count?"
  94: 0x0F86 [0x23] WAIT_FOR_DIALOG_INTERACTION
  95: 0x0F87 [0x1C] WAIT(30* ticks)
@@ -1455,26 +1455,26 @@ SUBROUTINE_0F29:
 107: 0x0FE4 [0x1C] WAIT(60* ticks)
 108: 0x0FE7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 109: 0x0FF8 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
-110: 0x1009 [0x2B] Louverance (ID: 16785750/0x01002156) [7260*]:
+110: 0x1009 [0x2B] Louverance (ID: 16785750/0x01002156) [7261*]:
     → "Ah, the Multinational Expedition to the Northlands. What were they searching for?"
 111: 0x1010 [0x23] WAIT_FOR_DIALOG_INTERACTION
-112: 0x1011 [0x2B] Louverance (ID: 16785750/0x01002156) [7261*]:
+112: 0x1011 [0x2B] Louverance (ID: 16785750/0x01002156) [7262*]:
     → "I assume their purpose was to investigate the Gates of Paradise. Detailed information on the subject can more than likely be found in the San d'Orian Cathedral."
 113: 0x1018 [0x23] WAIT_FOR_DIALOG_INTERACTION
 114: 0x1019 [0x79] Louverance (ID: 16785750/0x01002156) looks at LocalPlayer (Basic look)
 115: 0x1023 [0x52] END_LOAD_SCHEDULER: End scheduler "z007" with entities [LocalPlayer, LocalPlayer], work=74*
 116: 0x1032 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z008" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
-117: 0x1043 [0x2B] Louverance (ID: 16785750/0x01002156) [7262*]:
+117: 0x1043 [0x2B] Louverance (ID: 16785750/0x01002156) [7263*]:
     → "However, even if they did exist, not even a marquis, let alone a count could lay his eyes on the documents without direct permission from the papsque."
 118: 0x104A [0x23] WAIT_FOR_DIALOG_INTERACTION
 119: 0x104B [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x0E)
 120: 0x1052 [0x1C] WAIT(30* ticks)
-121: 0x1055 [0x2B] Louverance (ID: 16785750/0x01002156) [7263*]:
+121: 0x1055 [0x2B] Louverance (ID: 16785750/0x01002156) [7264*]:
     → "Though things were quite different when the cathedral was led by the former papsque...Muchavatte..."
 122: 0x105C [0x23] WAIT_FOR_DIALOG_INTERACTION
 123: 0x105D [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785750/0x01002156))
 124: 0x1063 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785750/0x01002156), tag_num=0x08)
-125: 0x106A [0x2B] Louverance (ID: 16785750/0x01002156) [7264*]:
+125: 0x106A [0x2B] Louverance (ID: 16785750/0x01002156) [7265*]:
     → "Muchavatte P Couchiret had strong ties with Count Caffaule. While the count passed away many years ago, his wife, Hinaree, still lives alone in their manor in Southern San d'Oria."
 126: 0x1071 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x1072 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785750/0x01002156))
@@ -1487,11 +1487,11 @@ SUBROUTINE_0F29:
 134: 0x10AC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z00c" with entities [LocalPlayer, LocalPlayer], work=74*
 135: 0x10BB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=[74*, 0*]
 136: 0x10CC [0x55] WAIT_LOAD_SCHEDULER: Wait for scheduler "z009" with entities [LocalPlayer, LocalPlayer], work=74*
-137: 0x10DB [0x2B] Louverance (ID: 16785750/0x01002156) [7265*]:
+137: 0x10DB [0x2B] Louverance (ID: 16785750/0x01002156) [7266*]:
     → "Perhaps she knows something that may be of use to you. If you mention my name, she should be delighted to assist you."
 138: 0x10E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 139: 0x10E3 [0x2A] GET_REQ_LEVEL(level=3, entity_id=Louverance (ID: 16785750/0x01002156))
-140: 0x10E9 [0x2B] Louverance (ID: 16785750/0x01002156) [7266*]:
+140: 0x10E9 [0x2B] Louverance (ID: 16785750/0x01002156) [7267*]:
     → "Take my words, adventurer, in exchange for the forgiveness of this old man's sins. Until we meet again..."
 141: 0x10F0 [0x27] REQ_SET(priority=0x03, entity_id=Louverance (ID: 16785751/0x01002157), tag_num=0x02)
 142: 0x10F7 [0x1C] WAIT(60* ticks)

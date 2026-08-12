@@ -108,22 +108,22 @@
 |      13 | 0x0C1E      |        3102 |
 |      14 | 0x1CB77     |      117623 |
 |      15 | 0x16B51     |       93009 |
-|      16 | 0x22F0      |        8944 |
-|      17 | 0x22F2      |        8946 |
-|      18 | 0x22F4      |        8948 |
-|      19 | 0x22F5      |        8949 |
-|      20 | 0x22F7      |        8951 |
-|      21 | 0x22F8      |        8952 |
+|      16 | 0x22F1      |        8945 |
+|      17 | 0x22F3      |        8947 |
+|      18 | 0x22F5      |        8949 |
+|      19 | 0x22F6      |        8950 |
+|      20 | 0x22F8      |        8952 |
+|      21 | 0x22F9      |        8953 |
 |      22 | 0x0006      |           6 |
-|      23 | 0x2482      |        9346 |
-|      24 | 0x2484      |        9348 |
-|      25 | 0x2485      |        9349 |
-|      26 | 0x2486      |        9350 |
-|      27 | 0x2487      |        9351 |
-|      28 | 0x2488      |        9352 |
-|      29 | 0x248A      |        9354 |
-|      30 | 0x248B      |        9355 |
-|      31 | 0x248C      |        9356 |
+|      23 | 0x2483      |        9347 |
+|      24 | 0x2485      |        9349 |
+|      25 | 0x2486      |        9350 |
+|      26 | 0x2487      |        9351 |
+|      27 | 0x2488      |        9352 |
+|      28 | 0x2489      |        9353 |
+|      29 | 0x248B      |        9355 |
+|      30 | 0x248C      |        9356 |
+|      31 | 0x248D      |        9357 |
 |      32 | 0x1C6A4     |      116388 |
 |      33 | 0x169D8     |       92632 |
 |      34 | 0x0200      |         512 |
@@ -134,14 +134,14 @@
 |      39 | 0x18EF6     |      102134 |
 |      40 | 0xFFFFF11F  |  4294963487 |
 |      41 | 0x0050      |          80 |
-|      42 | 0x249A      |        9370 |
-|      43 | 0x249F      |        9375 |
-|      44 | 0x24A1      |        9377 |
-|      45 | 0x24A3      |        9379 |
-|      46 | 0x24A9      |        9385 |
-|      47 | 0x24AC      |        9388 |
-|      48 | 0x24AE      |        9390 |
-|      49 | 0x24B0      |        9392 |
+|      42 | 0x249B      |        9371 |
+|      43 | 0x24A0      |        9376 |
+|      44 | 0x24A2      |        9378 |
+|      45 | 0x24A4      |        9380 |
+|      46 | 0x24AA      |        9386 |
+|      47 | 0x24AD      |        9389 |
+|      48 | 0x24AF      |        9391 |
+|      49 | 0x24B1      |        9393 |
 |      50 | 0xFFFF9585  |  4294940037 |
 |      51 | 0xFFFFA5F5  |  4294944245 |
 |      52 | 0xFFFFF63C  |  4294964796 |
@@ -164,36 +164,36 @@
 |      69 | 0xFFFFF543  |  4294964547 |
 |      70 | 0xFFFF8A26  |  4294937126 |
 |      71 | 0xFFFFCF47  |  4294954823 |
-|      72 | 0x257A      |        9594 |
-|      73 | 0x257C      |        9596 |
+|      72 | 0x257B      |        9595 |
+|      73 | 0x257D      |        9597 |
 
 ## String References
 
-- **8944**: The Mithra I just saw... She was the Mithran Tracker from the homeland, wasn't she?
-- **8946**: I want you to give me a clear answer. I come as a keeper of the peace of Windurst. Is the daughter of the sinner really dead?
-- **8948**: Yes, she followed me to Jugner Forest. It seems the sinner carries a scent that we cannot detect.
-- **8949**: But I was not the daughter the Tracker was seeking. Did you send the earring out of concern for me? If so, your fears appear to be unfounded.
-- **8951**: I will take this opportunity to tell you, even if you are found to be guilty, I have no intention of becoming the next Chieftainness of Windurst.
-- **8952**: However, I also have little desirrre to aid that Mithran Tracker in her hunt. I have no interest in the mysterrries of the past. The future is all that concerns me now.
-- **9346**: Perih Vashai. There is something I wish to ask you. Please give me an answer.
-- **9348**: No, not that. It's about my past...
-- **9349**: I rrrealized something with all this talk of the Bow of Light. The Sibyl Guards, every one of us, were prisoners in Oztroja twenty years ago.
-- **9350**: I listened to everyone's stories, and they all have memories of being saved by that bow. But for some reason, I have no recollection of it...
-- **9351**: I was one of those prisoners as well, wasn't I? I was taken in by Heavens Tower to keep the secrets of the Bow of Light hidden from the world.
-- **9352**: Or was there some other reason that only affected me? I don't know how you managed to erase the scent of sin from me, but I must be the sinner's...
-- **9354**: Then why? The Mithran Tracker assured me there was no record of my parents. And there's one thing I dimly rrrecall...
-- **9355**: At the time of the Great War, I rrremember my $1 was switched with another. My past...why...?
-- **9356**: Why doesn't anybody know about my past?
-- **9370**: It was not I who found the bow. That honor belongs to the adventurer <Player>.
-- **9375**: ...And just like that, she leaves...
-- **9377**: And not catching the sinner?
-- **9379**: In that case, the magicite's power must truly be dreadful.
-- **9385**: ...I understand now. Perih Vashai, you lost the light when you drew back the string of that cursed weapon.
-- **9388**: ...... I rrrespect you, Perih Vashai. I don't know if I could have done the same in your place.
-- **9390**: ......
-- **9392**: I will come to see you again. Until then, may the wind guide your footsteps.
-- **9594**: The bearer of darkness has returned!
-- **9596**: We don't know. We haven't been able to open the door to her chambers. But with your magic, we should be able to get in...
+- **8945**: The Mithra I just saw... She was the Mithran Tracker from the homeland, wasn't she?
+- **8947**: I want you to give me a clear answer. I come as a keeper of the peace of Windurst. Is the daughter of the sinner really dead?
+- **8949**: Yes, she followed me to Jugner Forest. It seems the sinner carries a scent that we cannot detect.
+- **8950**: But I was not the daughter the Tracker was seeking. Did you send the earring out of concern for me? If so, your fears appear to be unfounded.
+- **8952**: I will take this opportunity to tell you, even if you are found to be guilty, I have no intention of becoming the next Chieftainness of Windurst.
+- **8953**: However, I also have little desirrre to aid that Mithran Tracker in her hunt. I have no interest in the mysterrries of the past. The future is all that concerns me now.
+- **9347**: Perih Vashai. There is something I wish to ask you. Please give me an answer.
+- **9349**: No, not that. It's about my past...
+- **9350**: I rrrealized something with all this talk of the Bow of Light. The Sibyl Guards, every one of us, were prisoners in Oztroja twenty years ago.
+- **9351**: I listened to everyone's stories, and they all have memories of being saved by that bow. But for some reason, I have no recollection of it...
+- **9352**: I was one of those prisoners as well, wasn't I? I was taken in by Heavens Tower to keep the secrets of the Bow of Light hidden from the world.
+- **9353**: Or was there some other reason that only affected me? I don't know how you managed to erase the scent of sin from me, but I must be the sinner's...
+- **9355**: Then why? The Mithran Tracker assured me there was no record of my parents. And there's one thing I dimly rrrecall...
+- **9356**: At the time of the Great War, I rrremember my $1 was switched with another. My past...why...?
+- **9357**: Why doesn't anybody know about my past?
+- **9371**: It was not I who found the bow. That honor belongs to the adventurer <Player>.
+- **9376**: ...And just like that, she leaves...
+- **9378**: And not catching the sinner?
+- **9380**: In that case, the magicite's power must truly be dreadful.
+- **9386**: ...I understand now. Perih Vashai, you lost the light when you drew back the string of that cursed weapon.
+- **9389**: ...... I rrrespect you, Perih Vashai. I don't know if I could have done the same in your place.
+- **9391**: ......
+- **9393**: I will come to see you again. Until then, may the wind guide your footsteps.
+- **9595**: The bearer of darkness has returned!
+- **9597**: We don't know. We haven't been able to open the door to her chambers. But with your magic, we should be able to get in...
 
 ## Events
 
@@ -1142,7 +1142,7 @@
 #### Opcodes
 
 ```
-  0: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=8944*)
+  0: 0x026C [0x1D] PRINT_EVENT_MESSAGE(message_id=8945*)
     → "The Mithra I just saw... She was the Mithran Tracker from the homeland, wasn't she?"
   1: 0x026F [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0270 [0x00] END_REQSTACK()
@@ -1169,7 +1169,7 @@
 
 ```
   0: 0x0271 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x0C)
-  1: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=8946*)
+  1: 0x0278 [0x1D] PRINT_EVENT_MESSAGE(message_id=8947*)
     → "I want you to give me a clear answer. I come as a keeper of the peace of Windurst. Is the daughter of the sinner really dead?"
   2: 0x027B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x027C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x0D)
@@ -1198,10 +1198,10 @@
 
 ```
   0: 0x0284 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x01)
-  1: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=8948*)
+  1: 0x028B [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
     → "Yes, she followed me to Jugner Forest. It seems the sinner carries a scent that we cannot detect."
   2: 0x028E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=8949*)
+  3: 0x028F [0x1D] PRINT_EVENT_MESSAGE(message_id=8950*)
     → "But I was not the daughter the Tracker was seeking. Did you send the earring out of concern for me? If so, your fears appear to be unfounded."
   4: 0x0292 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0293 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Semih Lafihna (ID: 17764573/0x010F10DD), tag_num=0x02)
@@ -1229,7 +1229,7 @@
 #### Opcodes
 
 ```
-  0: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8951*)
+  0: 0x02A9 [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
     → "I will take this opportunity to tell you, even if you are found to be guilty, I have no intention of becoming the next Chieftainness of Windurst."
   1: 0x02AC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02AD [0x00] END_REQSTACK()
@@ -1255,7 +1255,7 @@
 #### Opcodes
 
 ```
-  0: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8952*)
+  0: 0x02AE [0x1D] PRINT_EVENT_MESSAGE(message_id=8953*)
     → "However, I also have little desirrre to aid that Mithran Tracker in her hunt. I have no interest in the mysterrries of the past. The future is all that concerns me now."
   1: 0x02B1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02B2 [0x00] END_REQSTACK()
@@ -1327,7 +1327,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9346*)
+  0: 0x02C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9347*)
     → "Perih Vashai. There is something I wish to ask you. Please give me an answer."
   1: 0x02C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02C5 [0x00] END_REQSTACK()
@@ -1352,7 +1352,7 @@
 #### Opcodes
 
 ```
-  0: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9348*)
+  0: 0x02C6 [0x1D] PRINT_EVENT_MESSAGE(message_id=9349*)
     → "No, not that. It's about my past..."
   1: 0x02C9 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02CA [0x00] END_REQSTACK()
@@ -1378,10 +1378,10 @@
 #### Opcodes
 
 ```
-  0: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9349*)
+  0: 0x02CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9350*)
     → "I rrrealized something with all this talk of the Bow of Light. The Sibyl Guards, every one of us, were prisoners in Oztroja twenty years ago."
   1: 0x02CE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9350*)
+  2: 0x02CF [0x1D] PRINT_EVENT_MESSAGE(message_id=9351*)
     → "I listened to everyone's stories, and they all have memories of being saved by that bow. But for some reason, I have no recollection of it..."
   3: 0x02D2 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x02D3 [0x00] END_REQSTACK()
@@ -1406,7 +1406,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9351*)
+  0: 0x02D4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9352*)
     → "I was one of those prisoners as well, wasn't I? I was taken in by Heavens Tower to keep the secrets of the Bow of Light hidden from the world."
   1: 0x02D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02D8 [0x00] END_REQSTACK()
@@ -1431,7 +1431,7 @@
 #### Opcodes
 
 ```
-  0: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9352*)
+  0: 0x02D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9353*)
     → "Or was there some other reason that only affected me? I don't know how you managed to erase the scent of sin from me, but I must be the sinner's..."
   1: 0x02DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02DD [0x00] END_REQSTACK()
@@ -1457,7 +1457,7 @@
 #### Opcodes
 
 ```
-  0: 0x02DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9354*)
+  0: 0x02DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9355*)
     → "Then why? The Mithran Tracker assured me there was no record of my parents. And there's one thing I dimly rrrecall..."
   1: 0x02E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E2 [0x00] END_REQSTACK()
@@ -1482,7 +1482,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9355*)
+  0: 0x02E3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9356*)
     → "At the time of the Great War, I rrremember my $1 was switched with another. My past...why...?"
   1: 0x02E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02E7 [0x00] END_REQSTACK()
@@ -1507,7 +1507,7 @@
 #### Opcodes
 
 ```
-  0: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9356*)
+  0: 0x02E8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9357*)
     → "Why doesn't anybody know about my past?"
   1: 0x02EB [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x02EC [0x00] END_REQSTACK()
@@ -1667,7 +1667,7 @@
 #### Opcodes
 
 ```
-  0: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
+  0: 0x0344 [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
     → "It was not I who found the bow. That honor belongs to the adventurer <Player>."
   1: 0x0347 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0348 [0x00] END_REQSTACK()
@@ -1692,7 +1692,7 @@
 #### Opcodes
 
 ```
-  0: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=9375*)
+  0: 0x0349 [0x1D] PRINT_EVENT_MESSAGE(message_id=9376*)
     → "...And just like that, she leaves..."
   1: 0x034C [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x034D [0x00] END_REQSTACK()
@@ -1718,7 +1718,7 @@
 #### Opcodes
 
 ```
-  0: 0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=9377*)
+  0: 0x034E [0x1D] PRINT_EVENT_MESSAGE(message_id=9378*)
     → "And not catching the sinner?"
   1: 0x0351 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0352 [0x00] END_REQSTACK()
@@ -1743,7 +1743,7 @@
 #### Opcodes
 
 ```
-  0: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=9379*)
+  0: 0x0353 [0x1D] PRINT_EVENT_MESSAGE(message_id=9380*)
     → "In that case, the magicite's power must truly be dreadful."
   1: 0x0356 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0357 [0x00] END_REQSTACK()
@@ -1768,7 +1768,7 @@
 #### Opcodes
 
 ```
-  0: 0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=9385*)
+  0: 0x0358 [0x1D] PRINT_EVENT_MESSAGE(message_id=9386*)
     → "...I understand now. Perih Vashai, you lost the light when you drew back the string of that cursed weapon."
   1: 0x035B [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x035C [0x00] END_REQSTACK()
@@ -1794,7 +1794,7 @@
 #### Opcodes
 
 ```
-  0: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=9388*)
+  0: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=9389*)
     → "...... I rrrespect you, Perih Vashai. I don't know if I could have done the same in your place."
   1: 0x0360 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0361 [0x00] END_REQSTACK()
@@ -1821,7 +1821,7 @@
 
 ```
   0: 0x0362 [0x7C] EventEntity->Render.Flags2 |= 0x00
-  1: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=9390*)
+  1: 0x0368 [0x1D] PRINT_EVENT_MESSAGE(message_id=9391*)
     → "......"
   2: 0x036B [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x036C [0x7C] EventEntity->Render.Flags2 |= 0x01
@@ -1847,7 +1847,7 @@
 #### Opcodes
 
 ```
-  0: 0x0373 [0x1D] PRINT_EVENT_MESSAGE(message_id=9392*)
+  0: 0x0373 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
     → "I will come to see you again. Until then, may the wind guide your footsteps."
   1: 0x0376 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0377 [0x00] END_REQSTACK()
@@ -2029,7 +2029,7 @@
 #### Opcodes
 
 ```
-  0: 0x03D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9594*)
+  0: 0x03D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=9595*)
     → "The bearer of darkness has returned!"
   1: 0x03DC [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03DD [0x00] END_REQSTACK()
@@ -2055,7 +2055,7 @@
 #### Opcodes
 
 ```
-  0: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9596*)
+  0: 0x03DE [0x1D] PRINT_EVENT_MESSAGE(message_id=9597*)
     → "We don't know. We haven't been able to open the door to her chambers. But with your magic, we should be able to get in..."
   1: 0x03E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x03E2 [0x00] END_REQSTACK()

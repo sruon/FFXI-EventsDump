@@ -36,9 +36,9 @@
 |       8 | 0x1ECA0     |      126112 |
 |       9 | 0x0B97      |        2967 |
 |      10 | 0x0014      |          20 |
-|      11 | 0x2C2A      |       11306 |
+|      11 | 0x2C2B      |       11307 |
 |      12 | 0x001E      |          30 |
-|      13 | 0x2BBF      |       11199 |
+|      13 | 0x2BC0      |       11200 |
 |      14 | 0x003C      |          60 |
 |      15 | 0x1CB8B     |      117643 |
 |      16 | 0x1BFE0     |      114656 |
@@ -46,8 +46,8 @@
 
 ## String References
 
-- **11199**: May Paradise open its gates to you.
-- **11306**: I study scripture so that I, too, may one day give sermons like Vicasque Arnau.
+- **11200**: May Paradise open its gates to you.
+- **11307**: I study scripture so that I, too, may one day give sermons like Vicasque Arnau.
 
 ## Events
 
@@ -201,14 +201,14 @@
   1: 0x0034 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0035 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0036 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=11306*)
+  4: 0x0045 [0x1D] PRINT_EVENT_MESSAGE(message_id=11307*)
     → "I study scripture so that I, too, may one day give sermons like Vicasque Arnau."
   5: 0x0048 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0049 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
   7: 0x0058 [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "tlk1" with entities [EventEntity, EventEntity]
   8: 0x0065 [0x1C] WAIT(30* ticks)
   9: 0x0068 [0x5B] LOAD_EXT_SCHEDULER: Load scheduler "ino0" with entities [EventEntity, EventEntity], work=20*
- 10: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11199*)
+ 10: 0x0077 [0x1D] PRINT_EVENT_MESSAGE(message_id=11200*)
     → "May Paradise open its gates to you."
  11: 0x007A [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x007B [0x53] WAIT_SCHEDULER_TASK: Wait for scheduler "ino0" with entities [EventEntity, EventEntity]

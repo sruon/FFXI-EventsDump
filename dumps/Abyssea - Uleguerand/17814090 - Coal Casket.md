@@ -23,15 +23,15 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x06B4      |        1716 |
-|       1 | 0x1EC6      |        7878 |
-|       2 | 0x1EC7      |        7879 |
-|       3 | 0x1EC9      |        7881 |
+|       1 | 0x1EC7      |        7879 |
+|       2 | 0x1EC8      |        7880 |
+|       3 | 0x1ECA      |        7882 |
 
 ## String References
 
-- **7878**: You open the casket and deposit a pack of $3 within.
-- **7879**: The casket contains an ample supply of $3.
-- **7881**: There seems to be no need for replenishment at this time.
+- **7879**: You open the casket and deposit a pack of $3 within.
+- **7880**: The casket contains an ample supply of $3.
+- **7882**: There seems to be no need for replenishment at this time.
 
 ## Events
 
@@ -100,7 +100,7 @@
 ```
   0: 0x0002 [0x03] Work_Zone[2] = 1716*
   1: 0x0007 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  2: 0x0008 [0x48] [System] [7878*]:
+  2: 0x0008 [0x48] [System] [7879*]:
     → "You open the casket and deposit a pack of $3 within."
   3: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x000C [0x21] END_EVENT
@@ -128,10 +128,10 @@
 
 ```
   0: 0x000E [0x03] Work_Zone[2] = 1716*
-  1: 0x0013 [0x48] [System] [7879*]:
+  1: 0x0013 [0x48] [System] [7880*]:
     → "The casket contains an ample supply of $3."
   2: 0x0016 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0017 [0x48] [System] [7881*]:
+  3: 0x0017 [0x48] [System] [7882*]:
     → "There seems to be no need for replenishment at this time."
   4: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x001B [0x21] END_EVENT

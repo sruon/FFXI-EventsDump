@@ -21,17 +21,17 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x2492      |        9362 |
+|       0 | 0x2493      |        9363 |
 |       1 | 0x0000      |           0 |
-|       2 | 0x2493      |        9363 |
+|       2 | 0x2494      |        9364 |
 |       3 | 0x0003      |           3 |
 |       4 | 0x262C      |        9772 |
-|       5 | 0x249A      |        9370 |
+|       5 | 0x249B      |        9371 |
 |       6 | 0x0002      |           2 |
-|       7 | 0x2494      |        9364 |
-|       8 | 0x24B1      |        9393 |
-|       9 | 0x249B      |        9371 |
-|      10 | 0x249C      |        9372 |
+|       7 | 0x2495      |        9365 |
+|       8 | 0x24B2      |        9394 |
+|       9 | 0x249C      |        9372 |
+|      10 | 0x249D      |        9373 |
 |      11 | 0xFFFFFFFF  |  4294967295 |
 |      12 | 0x0007      |           7 |
 |      13 | 0x0078      |         120 |
@@ -48,21 +48,21 @@
 |      24 | 0x40000000  |  1073741824 |
 |      25 | 0x00C8      |         200 |
 |      26 | 0x00C9      |         201 |
-|      27 | 0x249D      |        9373 |
+|      27 | 0x249E      |        9374 |
 |      28 | 0x0004      |           4 |
-|      29 | 0x249E      |        9374 |
+|      29 | 0x249F      |        9375 |
 |      30 | 0x0FA0      |        4000 |
 |      31 | 0xFFFFFB50  |  4294966096 |
 |      32 | 0x0005      |           5 |
 |      33 | 0x0006      |           6 |
-|      34 | 0x24A7      |        9383 |
-|      35 | 0x24A9      |        9385 |
-|      36 | 0x24AA      |        9386 |
-|      37 | 0x24AB      |        9387 |
-|      38 | 0x24AC      |        9388 |
-|      39 | 0x24AE      |        9390 |
-|      40 | 0x24AF      |        9391 |
-|      41 | 0x24B0      |        9392 |
+|      34 | 0x24A8      |        9384 |
+|      35 | 0x24AA      |        9386 |
+|      36 | 0x24AB      |        9387 |
+|      37 | 0x24AC      |        9388 |
+|      38 | 0x24AD      |        9389 |
+|      39 | 0x24AF      |        9391 |
+|      40 | 0x24B0      |        9392 |
+|      41 | 0x24B1      |        9393 |
 |      42 | 0x001A      |          26 |
 |      43 | 0x0008      |           8 |
 |      44 | 0x000D      |          13 |
@@ -70,23 +70,23 @@
 |      46 | 0x000C      |          12 |
 |      47 | 0x0010      |          16 |
 |      48 | 0x0011      |          17 |
-|      49 | 0x24A6      |        9382 |
+|      49 | 0x24A7      |        9383 |
 |      50 | 0x03E7      |         999 |
-|      51 | 0x24A1      |        9377 |
-|      52 | 0x24A2      |        9378 |
-|      53 | 0x24A3      |        9379 |
-|      54 | 0x24A4      |        9380 |
-|      55 | 0x24A5      |        9381 |
+|      51 | 0x24A2      |        9378 |
+|      52 | 0x24A3      |        9379 |
+|      53 | 0x24A4      |        9380 |
+|      54 | 0x24A5      |        9381 |
+|      55 | 0x24A6      |        9382 |
 |      56 | 0x0080      |         128 |
 |      57 | 0x0030      |          48 |
 |      58 | 0x15180     |       86400 |
-|      59 | 0x2496      |        9366 |
+|      59 | 0x2497      |        9367 |
 |      60 | 0x0E10      |        3600 |
-|      61 | 0x2497      |        9367 |
-|      62 | 0x2498      |        9368 |
-|      63 | 0x2499      |        9369 |
-|      64 | 0x249F      |        9375 |
-|      65 | 0x24A0      |        9376 |
+|      61 | 0x2498      |        9368 |
+|      62 | 0x2499      |        9369 |
+|      63 | 0x249A      |        9370 |
+|      64 | 0x24A0      |        9376 |
+|      65 | 0x24A1      |        9377 |
 |      66 | 0x0085      |         133 |
 |      67 | 0x00A8      |         168 |
 |      68 | 0x0084      |         132 |
@@ -107,50 +107,50 @@
 |      83 | 0x0061      |          97 |
 |      84 | 0x0060      |          96 |
 |      85 | 0x0335      |         821 |
-|      86 | 0x24B2      |        9394 |
-|      87 | 0x24B3      |        9395 |
-|      88 | 0x24B4      |        9396 |
-|      89 | 0x24B5      |        9397 |
-|      90 | 0x24B8      |        9400 |
-|      91 | 0x24B9      |        9401 |
+|      86 | 0x24B3      |        9395 |
+|      87 | 0x24B4      |        9396 |
+|      88 | 0x24B5      |        9397 |
+|      89 | 0x24B6      |        9398 |
+|      90 | 0x24B9      |        9401 |
+|      91 | 0x24BA      |        9402 |
 
 ## String References
 
-- **9362**: Welcome to the Race Change service, kupo!
-- **9363**: Please check the official website for more details regarding our service.
-- **9364**: Thank you for using the Race Change service, adventurer!
-- **9366**: You have $0 more day[/s] to use this service, kupo.
-- **9367**: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-- **9368**: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
-- **9369**: You have $2 second[/s] remaining to use this service, kupo.
-- **9370**: Please make sure to exchange your $3 while it is still valid, kupo.
-- **9371**: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
-- **9372**: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
-- **9373**: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
-- **9374**: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
-- **9375**: You will lose your character's current appearance. Are you sure you want to exit the process?
-- **9376**: Are you finished making changes? [Yes./No.]
-- **9377**: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
-- **9378**: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
-- **9379**: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
-- **9380**: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
-- **9381**: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
-- **9382**: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
-- **9383**: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
-- **9385**: Certain items can be exchanged for equippable ones by speaking with %.
-- **9386**: Applicable items can be checked with % after changing races.
-- **9387**: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
-- **9388**: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
-- **9390**: Change your character to this appearance? [Yes./No.]
-- **9391**: Are you absolutely sure? [Yes./No.]
-- **9392**: May Altana bless you as you begin your new life, kupo!
-- **9393**: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
-- **9394**: Let me see if you have any.
-- **9395**: Items held by NPCs or stored with storage slips are ineligible.
-- **9396**: Have the moogle check? [Yes, please./No, thank you.]
-- **9397**: Let's get down to business, kupo.
-- **9400**: That should cover it!
-- **9401**: Wait...I can't take anything you have.
+- **9363**: Welcome to the Race Change service, kupo!
+- **9364**: Please check the official website for more details regarding our service.
+- **9365**: Thank you for using the Race Change service, adventurer!
+- **9367**: You have $0 more day[/s] to use this service, kupo.
+- **9368**: You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+- **9369**: You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo.
+- **9370**: You have $2 second[/s] remaining to use this service, kupo.
+- **9371**: Please make sure to exchange your $3 while it is still valid, kupo.
+- **9372**: Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!
+- **9373**: Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!
+- **9374**: Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]
+- **9375**: You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera.
+- **9376**: You will lose your character's current appearance. Are you sure you want to exit the process?
+- **9377**: Are you finished making changes? [Yes./No.]
+- **9378**: Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]
+- **9379**: Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]
+- **9380**: Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]
+- **9381**: Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]
+- **9382**: Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]
+- **9383**: You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes.
+- **9384**: If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment.
+- **9386**: Certain items can be exchanged for equippable ones by speaking with %.
+- **9387**: Applicable items can be checked with % after changing races.
+- **9388**: In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR
+- **9389**: ---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------
+- **9391**: Change your character to this appearance? [Yes./No.]
+- **9392**: Are you absolutely sure? [Yes./No.]
+- **9393**: May Altana bless you as you begin your new life, kupo!
+- **9394**: You can trade me certain items that you can no longer use because of your race or gender change, kupo!
+- **9395**: Let me see if you have any.
+- **9396**: Items held by NPCs or stored with storage slips are ineligible.
+- **9397**: Have the moogle check? [Yes, please./No, thank you.]
+- **9398**: Let's get down to business, kupo.
+- **9401**: That should cover it!
+- **9402**: Wait...I can't take anything you have.
 
 ## Events
 
@@ -202,26 +202,26 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
-  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
+  3: 0x0008 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
     → "Welcome to the Race Change service, kupo!"
   4: 0x000B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x000C [0x02] IF !(Work_Zone[7] == 0*) GOTO 0x001B
-  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+  6: 0x0014 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "Please check the official website for more details regarding our service."
   7: 0x0017 [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x0018 [0x01] GOTO 0x004A
   9: 0x001B [0x3E] IF !(Work_Zone[7] bit 3*) GOTO 0x0031
  10: 0x0022 [0x1A] CALL_SUBROUTINE(address=0x0AF9)
  11: 0x0025 [0x03] Work_Zone[5] = 9772*
- 12: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
+ 12: 0x002A [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
     → "Please make sure to exchange your $3 while it is still valid, kupo."
  13: 0x002D [0x23] WAIT_FOR_DIALOG_INTERACTION
  14: 0x002E [0x01] GOTO 0x004A
  15: 0x0031 [0x3E] IF !(Work_Zone[7] bit 2*) GOTO 0x003C
- 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
+ 16: 0x0038 [0x1D] PRINT_EVENT_MESSAGE(message_id=9365*)
     → "Thank you for using the Race Change service, adventurer!"
  17: 0x003B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 18: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
+ 18: 0x003C [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
     → "You can trade me certain items that you can no longer use because of your race or gender change, kupo!"
  19: 0x003F [0x23] WAIT_FOR_DIALOG_INTERACTION
  20: 0x0040 [0x3E] IF !(Work_Zone[7] bit 0*) GOTO 0x004A
@@ -583,27 +583,27 @@ SUBROUTINE_004A:
  14: 0x008E [0x1E] EventEntity looks at LocalPlayer and starts talking
  15: 0x0093 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  16: 0x0094 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
- 17: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=9362*)
+ 17: 0x0095 [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
     → "Welcome to the Race Change service, kupo!"
  18: 0x0098 [0x23] WAIT_FOR_DIALOG_INTERACTION
  19: 0x0099 [0x02] IF !(Work_Zone[6] <= 0*) GOTO 0x00AF
  20: 0x00A1 [0x1A] CALL_SUBROUTINE(address=0x0AF9)
- 21: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9371*)
+ 21: 0x00A4 [0x1D] PRINT_EVENT_MESSAGE(message_id=9372*)
     → "Careful though! If your service period expires while you're still making changes, you'll lose any changes you've made!"
  22: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9372*)
+ 23: 0x00A8 [0x1D] PRINT_EVENT_MESSAGE(message_id=9373*)
     → "Also, as a general rule, we are unable to guarantee service in the event of any unexpected issues such as network problems. Therefore, it's wise to make your changes with plenty of time to spare, kupo!"
  24: 0x00AB [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x00AC [0x01] GOTO 0x00D0
  26: 0x00AF [0x02] IF !(Work_Zone[6] == 4294967295*) GOTO 0x00BA
  27: 0x00B7 [0x01] GOTO 0x00D0
  28: 0x00BA [0x3E] IF !(ExtData[1]->WorkLocal[11] bit 0*) GOTO 0x00CB
- 29: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
+ 29: 0x00C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
     → "You can trade me certain items that you can no longer use because of your race or gender change, kupo!"
  30: 0x00C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00C5 [0x1A] CALL_SUBROUTINE(address=0x0FD3)
  32: 0x00C8 [0x01] GOTO 0x00CF
- 33: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9363*)
+ 33: 0x00CB [0x1D] PRINT_EVENT_MESSAGE(message_id=9364*)
     → "Please check the official website for more details regarding our service."
  34: 0x00CE [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -717,7 +717,7 @@ SUBROUTINE_0275:
 125: 0x0285 [0x03] Work_Zone_1700[6] = 0*
 
 SUBROUTINE_028A:
-126: 0x028A [0x24] CREATE_DIALOG(message_id=9373*, default_option=ExtData[1]->WorkLocal[31], option_flags=0*)
+126: 0x028A [0x24] CREATE_DIALOG(message_id=9374*, default_option=ExtData[1]->WorkLocal[31], option_flags=0*)
     → "Character Race Change Service Menu [Select race. [/$26Changing]/Select face type. [/$26Changing]/Select hair color. [/$26Changing]/Select size. [/$26Changing]/Enable camera movement./View current appearance./Change to specified appearance./Exit.]"
 127: 0x0291 [0x25] WAIT_DIALOG_SELECT()
 128: 0x0292 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B8
@@ -754,7 +754,7 @@ SUBROUTINE_028A:
 159: 0x032C [0x03] ExtData[1]->WorkLocal[31] = 4*
 160: 0x0331 [0x1A] CALL_SUBROUTINE(address=0x0FB2)
 161: 0x0334 [0x02] IF !(ExtData[1]->WorkLocal[25] == 4294967295*) GOTO 0x0355
-162: 0x033C [0x48] [System] [9374*]:
+162: 0x033C [0x48] [System] [9375*]:
     → "You can move the camera to check your character's appearance. If using a keyboard, hold down the shift key and press the camera key in order to move the camera."
 163: 0x033F [0x23] WAIT_FOR_DIALOG_INTERACTION
 164: 0x0340 [0x1C] WAIT(60* ticks)
@@ -776,16 +776,16 @@ SUBROUTINE_028A:
 180: 0x03A3 [0x1A] CALL_SUBROUTINE(address=0x0E86)
 181: 0x03A6 [0x03] Work_Zone[48] = 169*
 182: 0x03AB [0x02] IF !(ExtData[1]->WorkLocal[4] == ExtData[1]->WorkLocal[0]) GOTO 0x03C3
-183: 0x03B3 [0x48] [System] [9383*]:
+183: 0x03B3 [0x48] [System] [9384*]:
     → "If you change your character to the specified race, it will lose its previous race as well as any gender-specific equipment."
 184: 0x03B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-185: 0x03B7 [0x48] [System] [9385*]:
+185: 0x03B7 [0x48] [System] [9386*]:
     → "Certain items can be exchanged for equippable ones by speaking with %."
 186: 0x03BA [0x23] WAIT_FOR_DIALOG_INTERACTION
-187: 0x03BB [0x48] [System] [9386*]:
+187: 0x03BB [0x48] [System] [9387*]:
     → "Applicable items can be checked with % after changing races."
 188: 0x03BE [0x23] WAIT_FOR_DIALOG_INTERACTION
-189: 0x03BF [0x48] [System] [9387*]:
+189: 0x03BF [0x48] [System] [9388*]:
     → "In addition, the following stats may be adjusted depending on your character's new race: HP, MP, STR, DEX, VIT, AGI, INT, MND, CHR"
 190: 0x03C2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 191: 0x03C3 [0x03] Work_Zone_1700[2] = ExtData[1]->WorkLocal[4]
@@ -793,19 +793,19 @@ SUBROUTINE_028A:
 193: 0x03CD [0x0B] Work_Zone_1700[3]++
 194: 0x03D0 [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[6]
 195: 0x03D5 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[7]
-196: 0x03DA [0x48] [System] [9388*]:
+196: 0x03DA [0x48] [System] [9389*]:
     → "---------------------------------------------- Race (after change): [None/Hume (male)/Hume (female)/Elvaan (male)/Elvaan (female)/Tarutaru (male)/Tarutaru (female)/Mithra/Galka] Face type: $11@Hair color: [A/B]@Size: [S/M/L] ----------------------------------------------"
 197: 0x03DD [0x23] WAIT_FOR_DIALOG_INTERACTION
-198: 0x03DE [0x24] CREATE_DIALOG(message_id=9390*, default_option=1*, option_flags=0*)
+198: 0x03DE [0x24] CREATE_DIALOG(message_id=9391*, default_option=1*, option_flags=0*)
     → "Change your character to this appearance? [Yes./No.]"
 199: 0x03E5 [0x25] WAIT_DIALOG_SELECT()
 200: 0x03E6 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0495
 201: 0x03EE [0x1C] WAIT(60* ticks)
-202: 0x03F1 [0x24] CREATE_DIALOG(message_id=9391*, default_option=1*, option_flags=0*)
+202: 0x03F1 [0x24] CREATE_DIALOG(message_id=9392*, default_option=1*, option_flags=0*)
     → "Are you absolutely sure? [Yes./No.]"
 203: 0x03F8 [0x25] WAIT_DIALOG_SELECT()
 204: 0x03F9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0492
-205: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=9392*)
+205: 0x0401 [0x1D] PRINT_EVENT_MESSAGE(message_id=9393*)
     → "May Altana bless you as you begin your new life, kupo!"
 206: 0x0404 [0x23] WAIT_FOR_DIALOG_INTERACTION
 207: 0x0405 [0x6E] LocalPlayer uses emote 11*
@@ -830,7 +830,7 @@ SUBROUTINE_0492:
 
 SUBROUTINE_0495:
 224: 0x0495 [0x01] GOTO 0x049C
-225: 0x0498 [0x48] [System] [9382*]:
+225: 0x0498 [0x48] [System] [9383*]:
     → "You have not edited any character attributes. Select Exit from the menu if you wish to exit this mode without making any changes."
 226: 0x049B [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -920,7 +920,7 @@ SUBROUTINE_058B:
 301: 0x0610 [0x01] GOTO 0x0613
 
 SUBROUTINE_0613:
-302: 0x0613 [0x24] CREATE_DIALOG(message_id=9377*, default_option=ExtData[1]->WorkLocal[34], option_flags=0*)
+302: 0x0613 [0x24] CREATE_DIALOG(message_id=9378*, default_option=ExtData[1]->WorkLocal[34], option_flags=0*)
     → "Choose your character's race and gender. [Hume (male). [/$26Selected/(race before change)]/Hume (female). [/$26Selected/(race before change)]/Elvaan (male).@@ [/$26Selected/(race before change)]/Elvaan (female). @[/$26Selected/(race before change)]/Tarutaru (male).@ [/$26Selected/(race before change)]/Tarutaru (female). [/$26Selected/(race before change)]/Mithra. [/$26Selected/(race before change)]/Galka. [/$26Selected/(race before change)]/Back.]"
 303: 0x061A [0x25] WAIT_DIALOG_SELECT()
 304: 0x061B [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x062E
@@ -1029,7 +1029,7 @@ SUBROUTINE_0773:
 399: 0x07F8 [0x01] GOTO 0x07FB
 
 SUBROUTINE_07FB:
-400: 0x07FB [0x24] CREATE_DIALOG(message_id=9378*, default_option=ExtData[1]->WorkLocal[36], option_flags=0*)
+400: 0x07FB [0x24] CREATE_DIALOG(message_id=9379*, default_option=ExtData[1]->WorkLocal[36], option_flags=0*)
     → "Choose your character's face type. [Face type 1.@[/$26Selected/(face before change)]/Face type 2.@[/$26Selected/(face before change)]/Face type 3.@[/$26Selected/(face before change)]/Face type 4.@[/$26Selected/(face before change)]/Face type 5.@[/$26Selected/(face before change)]/Face type 6.@[/$26Selected/(face before change)]/Face type 7.@[/$26Selected/(face before change)]/Face type 8.@[/$26Selected/(face before change)]/Back.]"
 401: 0x0802 [0x25] WAIT_DIALOG_SELECT()
 402: 0x0803 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0816
@@ -1096,7 +1096,7 @@ SUBROUTINE_08DD:
 455: 0x0902 [0x01] GOTO 0x0905
 
 SUBROUTINE_0905:
-456: 0x0905 [0x24] CREATE_DIALOG(message_id=9379*, default_option=ExtData[1]->WorkLocal[38], option_flags=0*)
+456: 0x0905 [0x24] CREATE_DIALOG(message_id=9380*, default_option=ExtData[1]->WorkLocal[38], option_flags=0*)
     → "Choose your character's hair color. [Hair A. [/$26Selected/(hair before change)]/Hair B. [/$26Selected/(hair before change)]/Back.]"
 457: 0x090C [0x25] WAIT_DIALOG_SELECT()
 458: 0x090D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0920
@@ -1146,7 +1146,7 @@ SUBROUTINE_098A:
 494: 0x09BF [0x01] GOTO 0x09C2
 
 SUBROUTINE_09C2:
-495: 0x09C2 [0x24] CREATE_DIALOG(message_id=9380*, default_option=ExtData[1]->WorkLocal[40], option_flags=0*)
+495: 0x09C2 [0x24] CREATE_DIALOG(message_id=9381*, default_option=ExtData[1]->WorkLocal[40], option_flags=0*)
     → "Choose your character's size. [Small. [/$26Selected/(size before change)]/Medium. [/$26Selected/(size before change)]/Large. [/$26Selected/(size before change)]/Back.]"
 496: 0x09C9 [0x25] WAIT_DIALOG_SELECT()
 497: 0x09CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x09DD
@@ -1173,7 +1173,7 @@ SUBROUTINE_0AF9:
 514: 0x0AFE [0x15] ExtData[1]->WorkLocal[29] /= 86400*
 515: 0x0B03 [0x02] IF !(ExtData[1]->WorkLocal[29] < 1*) GOTO 0x0B17
 516: 0x0B0B [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[29]
-517: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9366*)
+517: 0x0B10 [0x1D] PRINT_EVENT_MESSAGE(message_id=9367*)
     → "You have $0 more day[/s] to use this service, kupo."
 518: 0x0B13 [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x0B14 [0x01] GOTO 0x0B56
@@ -1183,16 +1183,16 @@ SUBROUTINE_0AF9:
 523: 0x0B28 [0x15] Work_Zone[3] /= 60*
 524: 0x0B2D [0x3F] Work_Zone[4] = Work_Zone[6] % 60*
 525: 0x0B34 [0x02] IF !(Work_Zone[2] < 1*) GOTO 0x0B43
-526: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=9367*)
+526: 0x0B3C [0x1D] PRINT_EVENT_MESSAGE(message_id=9368*)
     → "You have $0 hour[/s] $1 minute[/s] $2 second[/s] remaining to use this service, kupo."
 527: 0x0B3F [0x23] WAIT_FOR_DIALOG_INTERACTION
 528: 0x0B40 [0x01] GOTO 0x0B56
 529: 0x0B43 [0x02] IF !(Work_Zone[3] < 1*) GOTO 0x0B52
-530: 0x0B4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9368*)
+530: 0x0B4B [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
     → "You have $1 minute[/s] $2 second[/s] remaining to use this service, kupo."
 531: 0x0B4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 532: 0x0B4F [0x01] GOTO 0x0B56
-533: 0x0B52 [0x1D] PRINT_EVENT_MESSAGE(message_id=9369*)
+533: 0x0B52 [0x1D] PRINT_EVENT_MESSAGE(message_id=9370*)
     → "You have $2 second[/s] remaining to use this service, kupo."
 534: 0x0B55 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1210,10 +1210,10 @@ SUBROUTINE_0B57:
 543: 0x0B7B [0x02] IF !(ExtData[1]->WorkLocal[7] == ExtData[1]->WorkLocal[3]) GOTO 0x0B86
 544: 0x0B83 [0x05] ExtData[1]->WorkLocal[43] = 1
 545: 0x0B86 [0x02] IF !(ExtData[1]->WorkLocal[43] == 0*) GOTO 0x0BAE
-546: 0x0B8E [0x48] [System] [9375*]:
+546: 0x0B8E [0x48] [System] [9376*]:
     → "You will lose your character's current appearance. Are you sure you want to exit the process?"
 547: 0x0B91 [0x23] WAIT_FOR_DIALOG_INTERACTION
-548: 0x0B92 [0x24] CREATE_DIALOG(message_id=9376*, default_option=1*, option_flags=0*)
+548: 0x0B92 [0x24] CREATE_DIALOG(message_id=9377*, default_option=1*, option_flags=0*)
     → "Are you finished making changes? [Yes./No.]"
 549: 0x0B99 [0x25] WAIT_DIALOG_SELECT()
 550: 0x0B9A [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0BA8
@@ -1333,28 +1333,28 @@ SUBROUTINE_0FB2:
 640: 0x0FD2 [0x1B] RETURN
 
 SUBROUTINE_0FD3:
-641: 0x0FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9394*)
+641: 0x0FD3 [0x1D] PRINT_EVENT_MESSAGE(message_id=9395*)
     → "Let me see if you have any."
 642: 0x0FD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
-643: 0x0FD7 [0x48] [System] [9395*]:
+643: 0x0FD7 [0x48] [System] [9396*]:
     → "Items held by NPCs or stored with storage slips are ineligible."
-644: 0x0FDA [0x24] CREATE_DIALOG(message_id=9396*, default_option=0*, option_flags=0*)
+644: 0x0FDA [0x24] CREATE_DIALOG(message_id=9397*, default_option=0*, option_flags=0*)
     → "Have the moogle check? [Yes, please./No, thank you.]"
 645: 0x0FE1 [0x25] WAIT_DIALOG_SELECT()
 646: 0x0FE2 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1013
 647: 0x0FEA [0x42] SET_CLI_EVENT_CANCEL_DATA()
-648: 0x0FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=9397*)
+648: 0x0FEB [0x1D] PRINT_EVENT_MESSAGE(message_id=9398*)
     → "Let's get down to business, kupo."
 649: 0x0FEE [0x23] WAIT_FOR_DIALOG_INTERACTION
 650: 0x0FEF [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=7*, target=Work_Zone[1], source=3*)
 651: 0x0FF8 [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
 652: 0x0FFA [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
 653: 0x0FFC [0x02] IF !(Work_Zone[2] <= 0*) GOTO 0x100B
-654: 0x1004 [0x1D] PRINT_EVENT_MESSAGE(message_id=9400*)
+654: 0x1004 [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
     → "That should cover it!"
 655: 0x1007 [0x23] WAIT_FOR_DIALOG_INTERACTION
 656: 0x1008 [0x01] GOTO 0x100F
-657: 0x100B [0x1D] PRINT_EVENT_MESSAGE(message_id=9401*)
+657: 0x100B [0x1D] PRINT_EVENT_MESSAGE(message_id=9402*)
     → "Wait...I can't take anything you have."
 658: 0x100E [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -1377,7 +1377,7 @@ SUBROUTINE_1013:
      0x0A18 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[22]
      0x0A1D [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[23]
      0x0A22 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[24]
-     0x0A27 [0x24] CREATE_DIALOG(message_id=9381*, default_option=ExtData[1]->WorkLocal[42], option_flags=0*)
+     0x0A27 [0x24] CREATE_DIALOG(message_id=9382*, default_option=ExtData[1]->WorkLocal[42], option_flags=0*)
     → "Character display settings. [([$26/@])Display edits./([@/$26])Display translucently./([@/@/$26])Don't display old./([$26/@/@])Display old./([@/$26/@])Display old translucently./([@/$26])Display overlap./([$26/@])Display old to the side./Back.]"
      0x0A2E [0x25] WAIT_DIALOG_SELECT()
      0x0A2F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0A48

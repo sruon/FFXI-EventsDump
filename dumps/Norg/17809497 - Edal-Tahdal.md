@@ -79,58 +79,58 @@
 |       4 | 0x0151      |         337 |
 |       5 | 0x0155      |         341 |
 |       6 | 0x0003      |           3 |
-|       7 | 0x2908      |       10504 |
-|       8 | 0x28CF      |       10447 |
-|       9 | 0x2909      |       10505 |
-|      10 | 0x290B      |       10507 |
-|      11 | 0x290A      |       10506 |
+|       7 | 0x2909      |       10505 |
+|       8 | 0x28D0      |       10448 |
+|       9 | 0x290A      |       10506 |
+|      10 | 0x290C      |       10508 |
+|      11 | 0x290B      |       10507 |
 |      12 | 0x0001      |           1 |
 |      13 | 0x0000      |           0 |
 |      14 | 0x0002      |           2 |
-|      15 | 0x28D2      |       10450 |
-|      16 | 0x293E      |       10558 |
-|      17 | 0x28D3      |       10451 |
-|      18 | 0x28D4      |       10452 |
-|      19 | 0x293F      |       10559 |
-|      20 | 0x28D5      |       10453 |
-|      21 | 0x2940      |       10560 |
-|      22 | 0x28D6      |       10454 |
-|      23 | 0x28D7      |       10455 |
-|      24 | 0x28D8      |       10456 |
-|      25 | 0x2941      |       10561 |
-|      26 | 0x2942      |       10562 |
-|      27 | 0x28D9      |       10457 |
-|      28 | 0x28DA      |       10458 |
-|      29 | 0x28DB      |       10459 |
-|      30 | 0x28DC      |       10460 |
-|      31 | 0x28DD      |       10461 |
-|      32 | 0x2943      |       10563 |
-|      33 | 0x2944      |       10564 |
-|      34 | 0x28DE      |       10462 |
-|      35 | 0x28DF      |       10463 |
-|      36 | 0x28E0      |       10464 |
-|      37 | 0x28E1      |       10465 |
-|      38 | 0x2915      |       10517 |
-|      39 | 0x2916      |       10518 |
+|      15 | 0x28D3      |       10451 |
+|      16 | 0x293F      |       10559 |
+|      17 | 0x28D4      |       10452 |
+|      18 | 0x28D5      |       10453 |
+|      19 | 0x2940      |       10560 |
+|      20 | 0x28D6      |       10454 |
+|      21 | 0x2941      |       10561 |
+|      22 | 0x28D7      |       10455 |
+|      23 | 0x28D8      |       10456 |
+|      24 | 0x28D9      |       10457 |
+|      25 | 0x2942      |       10562 |
+|      26 | 0x2943      |       10563 |
+|      27 | 0x28DA      |       10458 |
+|      28 | 0x28DB      |       10459 |
+|      29 | 0x28DC      |       10460 |
+|      30 | 0x28DD      |       10461 |
+|      31 | 0x28DE      |       10462 |
+|      32 | 0x2944      |       10564 |
+|      33 | 0x2945      |       10565 |
+|      34 | 0x28DF      |       10463 |
+|      35 | 0x28E0      |       10464 |
+|      36 | 0x28E1      |       10465 |
+|      37 | 0x28E2      |       10466 |
+|      38 | 0x2916      |       10518 |
+|      39 | 0x2917      |       10519 |
 |      40 | 0x00C8      |         200 |
 |      41 | 0x441F      |       17439 |
 |      42 | 0x33BE      |       13246 |
 |      43 | 0x34FD      |       13565 |
 |      44 | 0x0013      |          19 |
-|      45 | 0x28E5      |       10469 |
+|      45 | 0x28E6      |       10470 |
 |      46 | 0x00F9      |         249 |
-|      47 | 0x28E6      |       10470 |
+|      47 | 0x28E7      |       10471 |
 |      48 | 0x0004      |           4 |
 |      49 | 0x0005      |           5 |
 |      50 | 0x0006      |           6 |
 |      51 | 0x0008      |           8 |
-|      52 | 0x28E7      |       10471 |
+|      52 | 0x28E8      |       10472 |
 |      53 | 0x0080      |         128 |
 |      54 | 0x0064      |         100 |
 |      55 | 0x00D4      |         212 |
 |      56 | 0x00C9      |         201 |
 |      57 | 0x0032      |          50 |
-|      58 | 0x28E8      |       10472 |
+|      58 | 0x28E9      |       10473 |
 |      59 | 0x001E      |          30 |
 |      60 | 0x00D3      |         211 |
 |      61 | 0x000C      |          12 |
@@ -139,9 +139,9 @@
 |      64 | 0x00FC      |         252 |
 |      65 | 0x00D1      |         209 |
 |      66 | 0x007F      |         127 |
-|      67 | 0x28FE      |       10494 |
-|      68 | 0x28FF      |       10495 |
-|      69 | 0x2900      |       10496 |
+|      67 | 0x28FF      |       10495 |
+|      68 | 0x2900      |       10496 |
+|      69 | 0x2901      |       10497 |
 |      70 | 0x44DB      |       17627 |
 |      71 | 0x33BB      |       13243 |
 |      72 | 0x34FA      |       13562 |
@@ -159,123 +159,123 @@
 |      84 | 0x0087      |         135 |
 |      85 | 0x0050      |          80 |
 |      86 | 0x0104      |         260 |
-|      87 | 0x2912      |       10514 |
-|      88 | 0x2913      |       10515 |
-|      89 | 0x2914      |       10516 |
-|      90 | 0x290E      |       10510 |
-|      91 | 0x290F      |       10511 |
-|      92 | 0x2910      |       10512 |
-|      93 | 0x28EC      |       10476 |
-|      94 | 0x28ED      |       10477 |
-|      95 | 0x28EE      |       10478 |
-|      96 | 0x28E9      |       10473 |
-|      97 | 0x28EA      |       10474 |
-|      98 | 0x28EB      |       10475 |
-|      99 | 0x2911      |       10513 |
-|     100 | 0x28EF      |       10479 |
+|      87 | 0x2913      |       10515 |
+|      88 | 0x2914      |       10516 |
+|      89 | 0x2915      |       10517 |
+|      90 | 0x290F      |       10511 |
+|      91 | 0x2910      |       10512 |
+|      92 | 0x2911      |       10513 |
+|      93 | 0x28ED      |       10477 |
+|      94 | 0x28EE      |       10478 |
+|      95 | 0x28EF      |       10479 |
+|      96 | 0x28EA      |       10474 |
+|      97 | 0x28EB      |       10475 |
+|      98 | 0x28EC      |       10476 |
+|      99 | 0x2912      |       10514 |
+|     100 | 0x28F0      |       10480 |
 |     101 | 0x00B4      |         180 |
-|     102 | 0x28F0      |       10480 |
-|     103 | 0x28F1      |       10481 |
-|     104 | 0x28F2      |       10482 |
-|     105 | 0x28F3      |       10483 |
-|     106 | 0x28F5      |       10485 |
-|     107 | 0x28F4      |       10484 |
-|     108 | 0x28F6      |       10486 |
-|     109 | 0x28F7      |       10487 |
+|     102 | 0x28F1      |       10481 |
+|     103 | 0x28F2      |       10482 |
+|     104 | 0x28F3      |       10483 |
+|     105 | 0x28F4      |       10484 |
+|     106 | 0x28F6      |       10486 |
+|     107 | 0x28F5      |       10485 |
+|     108 | 0x28F7      |       10487 |
+|     109 | 0x28F8      |       10488 |
 |     110 | 0x00A0      |         160 |
-|     111 | 0x28F8      |       10488 |
-|     112 | 0x28F9      |       10489 |
-|     113 | 0x28FA      |       10490 |
+|     111 | 0x28F9      |       10489 |
+|     112 | 0x28FA      |       10490 |
+|     113 | 0x28FB      |       10491 |
 |     114 | 0x0099      |         153 |
-|     115 | 0x28FB      |       10491 |
-|     116 | 0x28FC      |       10492 |
-|     117 | 0x28FD      |       10493 |
+|     115 | 0x28FC      |       10492 |
+|     116 | 0x28FD      |       10493 |
+|     117 | 0x28FE      |       10494 |
 |     118 | 0x0014      |          20 |
 |     119 | 0x007B      |         123 |
-|     120 | 0x2902      |       10498 |
-|     121 | 0x2903      |       10499 |
-|     122 | 0x2904      |       10500 |
-|     123 | 0x2905      |       10501 |
-|     124 | 0x2906      |       10502 |
-|     125 | 0x2907      |       10503 |
+|     120 | 0x2903      |       10499 |
+|     121 | 0x2904      |       10500 |
+|     122 | 0x2905      |       10501 |
+|     123 | 0x2906      |       10502 |
+|     124 | 0x2907      |       10503 |
+|     125 | 0x2908      |       10504 |
 |     126 | 0x0078      |         120 |
-|     127 | 0x290C      |       10508 |
-|     128 | 0x290D      |       10509 |
-|     129 | 0x291D      |       10525 |
-|     130 | 0x291E      |       10526 |
-|     131 | 0x2921      |       10529 |
-|     132 | 0x2922      |       10530 |
-|     133 | 0x2923      |       10531 |
-|     134 | 0x2925      |       10533 |
-|     135 | 0x2929      |       10537 |
-|     136 | 0x292A      |       10538 |
-|     137 | 0x2938      |       10552 |
-|     138 | 0x293B      |       10555 |
+|     127 | 0x290D      |       10509 |
+|     128 | 0x290E      |       10510 |
+|     129 | 0x291E      |       10526 |
+|     130 | 0x291F      |       10527 |
+|     131 | 0x2922      |       10530 |
+|     132 | 0x2923      |       10531 |
+|     133 | 0x2924      |       10532 |
+|     134 | 0x2926      |       10534 |
+|     135 | 0x292A      |       10538 |
+|     136 | 0x292B      |       10539 |
+|     137 | 0x2939      |       10553 |
+|     138 | 0x293C      |       10556 |
 
 ## String References
 
-- **10447**: Owzie-wowzie! Don't make me talk. I hurt all over!
-- **10450**: Owzie-wowzie! Don't make me talk. I hurt all over!
-- **10451**: Hey! You're that famous adventurer, <Player>!
-- **10452**: Yippee! This is my lucky day!
-- **10453**: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.
-- **10454**: And I'm the besty-westy they've got! I've been looking into phenomena at a certain place.
-- **10455**: What phenomena, you ask? Well, there are these giant crystals, you see! And from those crystals, a strangey-wangey power is constantly pouring forth...
-- **10456**: These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when...
-- **10457**: Guess what!
-- **10458**: We finally succeeded in awakening the crystals!
-- **10459**: Our theory on what lay dormant inside the crystals was proven to be rightaru on the money! Except they didn't appreciate being woken up... We were attacked... We were bested-wested...
-- **10460**: Why do they so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?
-- **10461**: I bet you could do it! You call yourself an adventurer, right? Give it a shot!
-- **10462**: Take up the challenge? [Bring it on!/Ah, no, thanks...]
-- **10463**: Great! Here, take this $3. But be warned--only a person who carries one can enter the crystal.
-- **10464**: This $3 will awaken the giant crystal that is found [in Ifrit's Cauldron/in the Quicksand Caves/in the Den of Rancor/in Cape Teriggan/in Fei'Yin/in The Boyahda Tree].
-- **10465**: Without it, you won't be getting inside no matter how sneaky-weaky you are! Oh, and if you want to take some friends with you, they also have to get $6 from me. Okey-dokey?
-- **10469**: How'd it go!? Wowy-wow-wow! You defeated a prime avatar!
-- **10470**: ...I see. The prime avatar said that to you? I wonder what it could mean.
-- **10472**: Y-you, you're...!
-- **10480**: What do you desire? [$5./$6./$1./$2./Gil./Nothing (a pact with the avatar).]
-- **10482**: You want $5? [Yes./Wait!]
-- **10483**: You want $6? [Yes./Wait!]
-- **10484**: You want $2? [Yes./Wait!]
-- **10485**: You want $1? [Yes./Wait!]
-- **10486**: Gil is what you truly want? [Yes./Wait!]
-- **10487**: Are you sure? [Yes./Wait!]
-- **10489**: Bring me... Power... Higher... Deeper... ...... Stronger...
-- **10494**: Uh? Huh? I went all spacey-wacey for a moment there...
-- **10495**: Um, who were you again? Was I speaking with you? What were we talking about?
-- **10496**: Did I tell you I'm a researcher from the Rhinostery in Windurst already?
-- **10498**: Huh? What? Do I know where Ildy-Goldy is?
-- **10499**: Yeah, you justaru missed him. He went off towards Cape Terrrigan with the improved tuning fork of air.
-- **10500**: Ildy-Goldy will wipe the floor with that avatar. I wonder what kind of research data he'll bring back for us?
-- **10501**: Hm? Did he seem a little different from usual?
-- **10502**: Well, now that you mention it, he did ask me to give this to any adventurers that came looking for him...
-- **10503**: I guess that must mean you. Here you go. Seems like a clear invitation to go take on the avatar in Cape Teriggan yourself.
-- **10504**: I've given you what Ildy-Goldy had me hold on to. You should be on your way to Cape Teriggan.
-- **10505**: ...Hm? You're going to help out Ildy-Goldy, but first you want to take on the avatar in Cape Teriggan under your own steam?
-- **10506**: Check it out yourself? [I like to do things my way.../All on my lonesome...?]
-- **10507**: ...You got guts, kid. Well, either way is fine with me.
-- **10508**: What!? You lost the $1!?
-- **10509**: What kind of an adventurer are you...? Well, don't go losing this one, okay?
-- **10517**: What? You want another $3?
-- **10518**: Oh, all right... But be careful-wareful with this one! These things don't grow on star trees, you know.
-- **10525**: No no no no no! That crazy-wazy contraption won't provide us with any useful data!
-- **10526**: Listen, muscle-hussle brain. Science is not about winning or spinning, life or strife, even or Steven! It's a more delicate subjectaru!
-- **10529**: No no no no no! Even if they use that half-rate spork, it'll take a tip-top summoner to defeat the prime avatar!
-- **10530**: Listen up. The fandangled $1 won't make it any easier for you to downright defeat the monster inside the crystal. Sure, it'll lower the power of the prime avatar to around $3, but it will do the same to you! And on top of that, you'll only be able to summon that itty-bitty blue bugger, Carbuncle!
-- **10531**: And to make things worse, nobody-buddy else can enter the crystal with you! You'll be battling one-on-one, man-to-man, Taru-et-Taru!
-- **10533**: Hmmm... You do have a point there... I guess one round with a prime avatar wouldn't hurtaru.
-- **10537**: Well, you asked for it! Take this $1 and ring it near one of those giant crystals. The prime avatar won't be slap-happy to be woken up, and you'll have to deal with its wrath.
-- **10538**: I guess because you are helping us check out this new tuning fork, I can use my mighty-minty magic to warp you near the giant crystal in [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]. When you're ready, just show my companion the $1.
-- **10552**: Hmmm... Just as I thoughtaru. The prime avatar that you fought with this spunky-junky tuning fork was nothing but a fake. Researching real avatars with real tuning forks is how real researchers do real research in the real world!
-- **10555**: I don't think you'll get much out of it, but if you want to go get your buttaru kicked by the prime avatar again, all you have to do is ring another $1 near a giant crystal.
-- **10558**: Hey! You're that famous adventurer, <Player>!
-- **10559**: Maybe you can help us outaru!
-- **10560**: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.
-- **10561**: You already-weddy know about the super-giant crystals, rightaru?
-- **10562**: These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when POOF, out of nowhere, a prime avatar appeared and sliced 'n diced us down to size.
-- **10563**: Why do these avatars so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?
-- **10564**: You were able to handle one all by yourself. You should have no problem defeating one with your buddy-wuddies. You'll help us out, right?
+- **10448**: Owzie-wowzie! Don't make me talk. I hurt all over!
+- **10451**: Owzie-wowzie! Don't make me talk. I hurt all over!
+- **10452**: Hey! You're that famous adventurer, <Player>!
+- **10453**: Yippee! This is my lucky day!
+- **10454**: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.
+- **10455**: And I'm the besty-westy they've got! I've been looking into phenomena at a certain place.
+- **10456**: What phenomena, you ask? Well, there are these giant crystals, you see! And from those crystals, a strangey-wangey power is constantly pouring forth...
+- **10457**: These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when...
+- **10458**: Guess what!
+- **10459**: We finally succeeded in awakening the crystals!
+- **10460**: Our theory on what lay dormant inside the crystals was proven to be rightaru on the money! Except they didn't appreciate being woken up... We were attacked... We were bested-wested...
+- **10461**: Why do they so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?
+- **10462**: I bet you could do it! You call yourself an adventurer, right? Give it a shot!
+- **10463**: Take up the challenge? [Bring it on!/Ah, no, thanks...]
+- **10464**: Great! Here, take this $3. But be warned--only a person who carries one can enter the crystal.
+- **10465**: This $3 will awaken the giant crystal that is found [in Ifrit's Cauldron/in the Quicksand Caves/in the Den of Rancor/in Cape Teriggan/in Fei'Yin/in The Boyahda Tree].
+- **10466**: Without it, you won't be getting inside no matter how sneaky-weaky you are! Oh, and if you want to take some friends with you, they also have to get $6 from me. Okey-dokey?
+- **10470**: How'd it go!? Wowy-wow-wow! You defeated a prime avatar!
+- **10471**: ...I see. The prime avatar said that to you? I wonder what it could mean.
+- **10473**: Y-you, you're...!
+- **10481**: What do you desire? [$5./$6./$1./$2./Gil./Nothing (a pact with the avatar).]
+- **10483**: You want $5? [Yes./Wait!]
+- **10484**: You want $6? [Yes./Wait!]
+- **10485**: You want $2? [Yes./Wait!]
+- **10486**: You want $1? [Yes./Wait!]
+- **10487**: Gil is what you truly want? [Yes./Wait!]
+- **10488**: Are you sure? [Yes./Wait!]
+- **10490**: Bring me... Power... Higher... Deeper... ...... Stronger...
+- **10495**: Uh? Huh? I went all spacey-wacey for a moment there...
+- **10496**: Um, who were you again? Was I speaking with you? What were we talking about?
+- **10497**: Did I tell you I'm a researcher from the Rhinostery in Windurst already?
+- **10499**: Huh? What? Do I know where Ildy-Goldy is?
+- **10500**: Yeah, you justaru missed him. He went off towards Cape Terrrigan with the improved tuning fork of air.
+- **10501**: Ildy-Goldy will wipe the floor with that avatar. I wonder what kind of research data he'll bring back for us?
+- **10502**: Hm? Did he seem a little different from usual?
+- **10503**: Well, now that you mention it, he did ask me to give this to any adventurers that came looking for him...
+- **10504**: I guess that must mean you. Here you go. Seems like a clear invitation to go take on the avatar in Cape Teriggan yourself.
+- **10505**: I've given you what Ildy-Goldy had me hold on to. You should be on your way to Cape Teriggan.
+- **10506**: ...Hm? You're going to help out Ildy-Goldy, but first you want to take on the avatar in Cape Teriggan under your own steam?
+- **10507**: Check it out yourself? [I like to do things my way.../All on my lonesome...?]
+- **10508**: ...You got guts, kid. Well, either way is fine with me.
+- **10509**: What!? You lost the $1!?
+- **10510**: What kind of an adventurer are you...? Well, don't go losing this one, okay?
+- **10518**: What? You want another $3?
+- **10519**: Oh, all right... But be careful-wareful with this one! These things don't grow on star trees, you know.
+- **10526**: No no no no no! That crazy-wazy contraption won't provide us with any useful data!
+- **10527**: Listen, muscle-hussle brain. Science is not about winning or spinning, life or strife, even or Steven! It's a more delicate subjectaru!
+- **10530**: No no no no no! Even if they use that half-rate spork, it'll take a tip-top summoner to defeat the prime avatar!
+- **10531**: Listen up. The fandangled $1 won't make it any easier for you to downright defeat the monster inside the crystal. Sure, it'll lower the power of the prime avatar to around $3, but it will do the same to you! And on top of that, you'll only be able to summon that itty-bitty blue bugger, Carbuncle!
+- **10532**: And to make things worse, nobody-buddy else can enter the crystal with you! You'll be battling one-on-one, man-to-man, Taru-et-Taru!
+- **10534**: Hmmm... You do have a point there... I guess one round with a prime avatar wouldn't hurtaru.
+- **10538**: Well, you asked for it! Take this $1 and ring it near one of those giant crystals. The prime avatar won't be slap-happy to be woken up, and you'll have to deal with its wrath.
+- **10539**: I guess because you are helping us check out this new tuning fork, I can use my mighty-minty magic to warp you near the giant crystal in [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]. When you're ready, just show my companion the $1.
+- **10553**: Hmmm... Just as I thoughtaru. The prime avatar that you fought with this spunky-junky tuning fork was nothing but a fake. Researching real avatars with real tuning forks is how real researchers do real research in the real world!
+- **10556**: I don't think you'll get much out of it, but if you want to go get your buttaru kicked by the prime avatar again, all you have to do is ring another $1 near a giant crystal.
+- **10559**: Hey! You're that famous adventurer, <Player>!
+- **10560**: Maybe you can help us outaru!
+- **10561**: Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things.
+- **10562**: You already-weddy know about the super-giant crystals, rightaru?
+- **10563**: These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when POOF, out of nowhere, a prime avatar appeared and sliced 'n diced us down to size.
+- **10564**: Why do these avatars so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?
+- **10565**: You were able to handle one all by yourself. You should have no problem defeating one with your buddy-wuddies. You'll help us out, right?
 
 ## Events
 
@@ -1130,13 +1130,13 @@
   2: 0x0217 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0218 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0219 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  5: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
+  5: 0x0220 [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
     → "I've given you what Ildy-Goldy had me hold on to. You should be on your way to Cape Teriggan."
   6: 0x0223 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0224 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
   8: 0x022B [0x01] GOTO 0x024E
   9: 0x022E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x17)
- 10: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=10447*)
+ 10: 0x0235 [0x1D] PRINT_EVENT_MESSAGE(message_id=10448*)
     → "Owzie-wowzie! Don't make me talk. I hurt all over!"
  11: 0x0238 [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x0239 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x18)
@@ -1207,21 +1207,21 @@ SUBROUTINE_024E:
   2: 0x025F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x0260 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x0261 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  5: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
+  5: 0x0268 [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
     → "I've given you what Ildy-Goldy had me hold on to. You should be on your way to Cape Teriggan."
   6: 0x026B [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x026C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
   8: 0x0273 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-  9: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
+  9: 0x027A [0x1D] PRINT_EVENT_MESSAGE(message_id=10506*)
     → "...Hm? You're going to help out Ildy-Goldy, but first you want to take on the avatar in Cape Teriggan under your own steam?"
  10: 0x027D [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x027E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
  12: 0x0285 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
- 13: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10507*)
+ 13: 0x028C [0x1D] PRINT_EVENT_MESSAGE(message_id=10508*)
     → "...You got guts, kid. Well, either way is fine with me."
  14: 0x028F [0x23] WAIT_FOR_DIALOG_INTERACTION
  15: 0x0290 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
- 16: 0x0297 [0x24] CREATE_DIALOG(message_id=10506*, default_option=1*, option_flags=0*)
+ 16: 0x0297 [0x24] CREATE_DIALOG(message_id=10507*, default_option=1*, option_flags=0*)
     → "Check it out yourself? [I like to do things my way.../All on my lonesome...?]"
  17: 0x029E [0x25] WAIT_DIALOG_SELECT()
  18: 0x029F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02AA
@@ -1236,7 +1236,7 @@ SUBROUTINE_02BE:
  25: 0x02BE [0x01] GOTO 0x0340
  26: 0x02C1 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x02E9
  27: 0x02C9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x17)
- 28: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10450*)
+ 28: 0x02D0 [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
     → "Owzie-wowzie! Don't make me talk. I hurt all over!"
  29: 0x02D3 [0x23] WAIT_FOR_DIALOG_INTERACTION
  30: 0x02D4 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x18)
@@ -1248,24 +1248,24 @@ SUBROUTINE_02BE:
  36: 0x02F0 [0x02] IF !(Work_Zone[9] >= 2*) GOTO 0x032E
  37: 0x02F8 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x11)
  38: 0x02FF [0x02] IF !(Work_Zone[9] == 1*) GOTO 0x030E
- 39: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=10558*)
+ 39: 0x0307 [0x1D] PRINT_EVENT_MESSAGE(message_id=10559*)
     → "Hey! You're that famous adventurer, <Player>!"
  40: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
  41: 0x030B [0x01] GOTO 0x0312
- 42: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=10451*)
+ 42: 0x030E [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
     → "Hey! You're that famous adventurer, <Player>!"
  43: 0x0311 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0312:
  44: 0x0312 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x12)
  45: 0x0319 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x09)
- 46: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=10452*)
+ 46: 0x0320 [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
     → "Yippee! This is my lucky day!"
  47: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x0324 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0A)
  49: 0x032B [0x01] GOTO 0x0340
  50: 0x032E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x11)
- 51: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=10559*)
+ 51: 0x0335 [0x1D] PRINT_EVENT_MESSAGE(message_id=10560*)
     → "Maybe you can help us outaru!"
  52: 0x0338 [0x23] WAIT_FOR_DIALOG_INTERACTION
  53: 0x0339 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x12)
@@ -1273,82 +1273,82 @@ SUBROUTINE_0312:
 SUBROUTINE_0340:
  54: 0x0340 [0x02] IF !(Work_Zone[9] >= 2*) GOTO 0x0356
  55: 0x0348 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 56: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=10453*)
+ 56: 0x034F [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
     → "Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things."
  57: 0x0352 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0353 [0x01] GOTO 0x0361
  59: 0x0356 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 60: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=10560*)
+ 60: 0x035D [0x1D] PRINT_EVENT_MESSAGE(message_id=10561*)
     → "Let me introduce myself. I am from the Rhinostery in Windurst. I do research on various living things."
  61: 0x0360 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
 SUBROUTINE_0361:
- 62: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=10454*)
+ 62: 0x0361 [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
     → "And I'm the besty-westy they've got! I've been looking into phenomena at a certain place."
  63: 0x0364 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x0365 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
  65: 0x036C [0x02] IF !(Work_Zone[9] >= 2*) GOTO 0x039B
  66: 0x0374 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x11)
- 67: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=10455*)
+ 67: 0x037B [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
     → "What phenomena, you ask? Well, there are these giant crystals, you see! And from those crystals, a strangey-wangey power is constantly pouring forth..."
  68: 0x037E [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x037F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x12)
  70: 0x0386 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 71: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=10456*)
+ 71: 0x038D [0x1D] PRINT_EVENT_MESSAGE(message_id=10457*)
     → "These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when..."
  72: 0x0390 [0x23] WAIT_FOR_DIALOG_INTERACTION
  73: 0x0391 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
  74: 0x0398 [0x01] GOTO 0x03B1
  75: 0x039B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 76: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10561*)
+ 76: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10562*)
     → "You already-weddy know about the super-giant crystals, rightaru?"
  77: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 78: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10562*)
+ 78: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10563*)
     → "These crystals are found all over Vana'diel, and their energies affect the surrounding ecosystems. Our research team had been investigating the unusual emanations when POOF, out of nowhere, a prime avatar appeared and sliced 'n diced us down to size."
  79: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  80: 0x03AA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
 
 SUBROUTINE_03B1:
  81: 0x03B1 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1D)
- 82: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10457*)
+ 82: 0x03B8 [0x1D] PRINT_EVENT_MESSAGE(message_id=10458*)
     → "Guess what!"
  83: 0x03BB [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x03BC [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1E)
  85: 0x03C3 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1B)
- 86: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10458*)
+ 86: 0x03CA [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
     → "We finally succeeded in awakening the crystals!"
  87: 0x03CD [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x03CE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1C)
  89: 0x03D5 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 90: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10459*)
+ 90: 0x03DC [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
     → "Our theory on what lay dormant inside the crystals was proven to be rightaru on the money! Except they didn't appreciate being woken up... We were attacked... We were bested-wested..."
  91: 0x03DF [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x03E0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
  93: 0x03E7 [0x02] IF !(Work_Zone[9] >= 2*) GOTO 0x0416
  94: 0x03EF [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
- 95: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10460*)
+ 95: 0x03F6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
     → "Why do they so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?"
  96: 0x03F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  97: 0x03FA [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
  98: 0x0401 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
- 99: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=10461*)
+ 99: 0x0408 [0x1D] PRINT_EVENT_MESSAGE(message_id=10462*)
     → "I bet you could do it! You call yourself an adventurer, right? Give it a shot!"
 100: 0x040B [0x23] WAIT_FOR_DIALOG_INTERACTION
 101: 0x040C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
 102: 0x0413 [0x01] GOTO 0x043A
 103: 0x0416 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-104: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=10563*)
+104: 0x041D [0x1D] PRINT_EVENT_MESSAGE(message_id=10564*)
     → "Why do these avatars so despise talking with us that they would rather fight? And what on Vana'diel would happen if someone were to defeat them?"
 105: 0x0420 [0x23] WAIT_FOR_DIALOG_INTERACTION
 106: 0x0421 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
 107: 0x0428 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-108: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=10564*)
+108: 0x042F [0x1D] PRINT_EVENT_MESSAGE(message_id=10565*)
     → "You were able to handle one all by yourself. You should have no problem defeating one with your buddy-wuddies. You'll help us out, right?"
 109: 0x0432 [0x23] WAIT_FOR_DIALOG_INTERACTION
 110: 0x0433 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
 
 SUBROUTINE_043A:
-111: 0x043A [0x24] CREATE_DIALOG(message_id=10462*, default_option=0*, option_flags=0*)
+111: 0x043A [0x24] CREATE_DIALOG(message_id=10463*, default_option=0*, option_flags=0*)
     → "Take up the challenge? [Bring it on!/Ah, no, thanks...]"
 112: 0x0441 [0x25] WAIT_DIALOG_SELECT()
 113: 0x0442 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0463
@@ -1356,7 +1356,7 @@ SUBROUTINE_043A:
 115: 0x044B [0x03] Work_Zone[1] = 1*
 116: 0x0450 [0x6E] EventEntity uses emote 1*
 117: 0x0457 [0x99] Wait for EventEntity animation to complete
-118: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=10463*)
+118: 0x045C [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
     → "Great! Here, take this $3. But be warned--only a person who carries one can enter the crystal."
 119: 0x045F [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x0460 [0x01] GOTO 0x0473
@@ -1402,10 +1402,10 @@ SUBROUTINE_0473:
   1: 0x047C [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x047D [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x047E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  4: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=10464*)
+  4: 0x0485 [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
     → "This $3 will awaken the giant crystal that is found [in Ifrit's Cauldron/in the Quicksand Caves/in the Den of Rancor/in Cape Teriggan/in Fei'Yin/in The Boyahda Tree]."
   5: 0x0488 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x0489 [0x1D] PRINT_EVENT_MESSAGE(message_id=10465*)
+  6: 0x0489 [0x1D] PRINT_EVENT_MESSAGE(message_id=10466*)
     → "Without it, you won't be getting inside no matter how sneaky-weaky you are! Oh, and if you want to take some friends with you, they also have to get $6 from me. Okey-dokey?"
   7: 0x048C [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x048D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
@@ -1439,10 +1439,10 @@ SUBROUTINE_0473:
   1: 0x049D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x049E [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x049F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  4: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10517*)
+  4: 0x04A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10518*)
     → "What? You want another $3?"
   5: 0x04A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  6: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10518*)
+  6: 0x04AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10519*)
     → "Oh, all right... But be careful-wareful with this one! These things don't grow on star trees, you know."
   7: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
   8: 0x04AE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
@@ -1809,7 +1809,7 @@ SUBROUTINE_0473:
  22: 0x052C [0x27] REQ_SET(priority=0x0A, entity_id=Verctissa (ID: 17809498/0x010FC05A), tag_num=0x07)
  23: 0x0533 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  24: 0x0544 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 25: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
+ 25: 0x054B [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
     → "How'd it go!? Wowy-wow-wow! You defeated a prime avatar!"
  26: 0x054E [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x054F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1823,7 +1823,7 @@ SUBROUTINE_0473:
  35: 0x05A0 [0x4E] SET_ENTITY_HIDE_FLAG: Show Talking Doll (ID: 17809500/0x010FC05C)
  36: 0x05A6 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17809499/0x010FC05B)
  37: 0x05AC [0x6C] FADE_ENTITY_COLOR(entity_id=??? (ID: 17809499/0x010FC05B), end_alpha=0*, fade_time=1*)
- 38: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
+ 38: 0x05B5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
     → "...I see. The prime avatar said that to you? I wonder what it could mean."
  39: 0x05B8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  40: 0x05B9 [0x80] LOAD_WAIT(entity=Talking Doll (ID: 17809500/0x010FC05C))
@@ -1848,7 +1848,7 @@ SUBROUTINE_0473:
 SUBROUTINE_066A:
  58: 0x066A [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1E)
  59: 0x0671 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
- 60: 0x0678 [0x2B] ??? (ID: 17809499/0x010FC05B) [10471*]:
+ 60: 0x0678 [0x2B] ??? (ID: 17809499/0x010FC05B) [10472*]:
     → "...There is no need to understand... ...You will forget what I have said..."
  61: 0x067F [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x0680 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
@@ -1879,7 +1879,7 @@ SUBROUTINE_072E:
  85: 0x0761 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s045" with entities [EventEntity, EventEntity], work=[249*, 0*]
  86: 0x0772 [0x1C] WAIT(50* ticks)
  87: 0x0775 [0x4A] LocalPlayer looks at ??? (ID: 17809499/0x010FC05B)
- 88: 0x077E [0x1D] PRINT_EVENT_MESSAGE(message_id=10472*)
+ 88: 0x077E [0x1D] PRINT_EVENT_MESSAGE(message_id=10473*)
     → "Y-you, you're...!"
  89: 0x0781 [0x23] WAIT_FOR_DIALOG_INTERACTION
  90: 0x0782 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -1912,18 +1912,18 @@ SUBROUTINE_072E:
 117: 0x0824 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 118: 0x0835 [0x7B] Edal-Tahdal (ID: 17809497/0x010FC059) stops talking
 119: 0x083A [0x1C] WAIT(100* ticks)
-120: 0x083D [0x1D] PRINT_EVENT_MESSAGE(message_id=10494*)
+120: 0x083D [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
     → "Uh? Huh? I went all spacey-wacey for a moment there..."
 121: 0x0840 [0x23] WAIT_FOR_DIALOG_INTERACTION
 122: 0x0841 [0x52] END_LOAD_SCHEDULER: End scheduler "s040" with entities [EventEntity, EventEntity], work=249*
 123: 0x0850 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s041" with entities [EventEntity, EventEntity], work=[249*, 0*]
 124: 0x0861 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-125: 0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
+125: 0x0868 [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
     → "Um, who were you again? Was I speaking with you? What were we talking about?"
 126: 0x086B [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x086C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
 128: 0x0873 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-129: 0x087A [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
+129: 0x087A [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
     → "Did I tell you I'm a researcher from the Rhinostery in Windurst already?"
 130: 0x087D [0x23] WAIT_FOR_DIALOG_INTERACTION
 131: 0x087E [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
@@ -1954,7 +1954,7 @@ SUBROUTINE_072E:
 156: 0x0935 [0x27] REQ_SET(priority=0x0A, entity_id=Verctissa (ID: 17809498/0x010FC05A), tag_num=0x06)
 157: 0x093C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 158: 0x094D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-159: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
+159: 0x0954 [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
     → "How'd it go!? Wowy-wow-wow! You defeated a prime avatar!"
 160: 0x0957 [0x23] WAIT_FOR_DIALOG_INTERACTION
 161: 0x0958 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1968,7 +1968,7 @@ SUBROUTINE_072E:
 169: 0x09A9 [0x4E] SET_ENTITY_HIDE_FLAG: Show Talking Doll (ID: 17809500/0x010FC05C)
 170: 0x09AF [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17809499/0x010FC05B)
 171: 0x09B5 [0x6C] FADE_ENTITY_COLOR(entity_id=??? (ID: 17809499/0x010FC05B), end_alpha=0*, fade_time=1*)
-172: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
+172: 0x09BE [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
     → "...I see. The prime avatar said that to you? I wonder what it could mean."
 173: 0x09C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 174: 0x09C2 [0x80] LOAD_WAIT(entity=Talking Doll (ID: 17809500/0x010FC05C))
@@ -1993,7 +1993,7 @@ SUBROUTINE_072E:
 SUBROUTINE_0A73:
 192: 0x0A73 [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1E)
 193: 0x0A7A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-194: 0x0A81 [0x2B] ??? (ID: 17809499/0x010FC05B) [10471*]:
+194: 0x0A81 [0x2B] ??? (ID: 17809499/0x010FC05B) [10472*]:
     → "...There is no need to understand... ...You will forget what I have said..."
 195: 0x0A88 [0x23] WAIT_FOR_DIALOG_INTERACTION
 196: 0x0A89 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
@@ -2024,7 +2024,7 @@ SUBROUTINE_0B37:
 219: 0x0B6A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s038" with entities [EventEntity, EventEntity], work=[249*, 0*]
 220: 0x0B7B [0x1C] WAIT(50* ticks)
 221: 0x0B7E [0x4A] LocalPlayer looks at ??? (ID: 17809499/0x010FC05B)
-222: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=10472*)
+222: 0x0B87 [0x1D] PRINT_EVENT_MESSAGE(message_id=10473*)
     → "Y-you, you're...!"
 223: 0x0B8A [0x23] WAIT_FOR_DIALOG_INTERACTION
 224: 0x0B8B [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2057,18 +2057,18 @@ SUBROUTINE_0B37:
 251: 0x0C2D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 252: 0x0C3E [0x7B] Edal-Tahdal (ID: 17809497/0x010FC059) stops talking
 253: 0x0C43 [0x1C] WAIT(100* ticks)
-254: 0x0C46 [0x1D] PRINT_EVENT_MESSAGE(message_id=10494*)
+254: 0x0C46 [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
     → "Uh? Huh? I went all spacey-wacey for a moment there..."
 255: 0x0C49 [0x23] WAIT_FOR_DIALOG_INTERACTION
 256: 0x0C4A [0x52] END_LOAD_SCHEDULER: End scheduler "s034" with entities [EventEntity, EventEntity], work=249*
 257: 0x0C59 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[249*, 0*]
 258: 0x0C6A [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-259: 0x0C71 [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
+259: 0x0C71 [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
     → "Um, who were you again? Was I speaking with you? What were we talking about?"
 260: 0x0C74 [0x23] WAIT_FOR_DIALOG_INTERACTION
 261: 0x0C75 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
 262: 0x0C7C [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-263: 0x0C83 [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
+263: 0x0C83 [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
     → "Did I tell you I'm a researcher from the Rhinostery in Windurst already?"
 264: 0x0C86 [0x23] WAIT_FOR_DIALOG_INTERACTION
 265: 0x0C87 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
@@ -2099,7 +2099,7 @@ SUBROUTINE_0B37:
 290: 0x0D3E [0x27] REQ_SET(priority=0x0A, entity_id=Verctissa (ID: 17809498/0x010FC05A), tag_num=0x05)
 291: 0x0D45 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 292: 0x0D56 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-293: 0x0D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=10469*)
+293: 0x0D5D [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
     → "How'd it go!? Wowy-wow-wow! You defeated a prime avatar!"
 294: 0x0D60 [0x23] WAIT_FOR_DIALOG_INTERACTION
 295: 0x0D61 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -2113,7 +2113,7 @@ SUBROUTINE_0B37:
 303: 0x0DB2 [0x4E] SET_ENTITY_HIDE_FLAG: Show Talking Doll (ID: 17809500/0x010FC05C)
 304: 0x0DB8 [0x4E] SET_ENTITY_HIDE_FLAG: Show ??? (ID: 17809499/0x010FC05B)
 305: 0x0DBE [0x6C] FADE_ENTITY_COLOR(entity_id=??? (ID: 17809499/0x010FC05B), end_alpha=0*, fade_time=1*)
-306: 0x0DC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10470*)
+306: 0x0DC7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10471*)
     → "...I see. The prime avatar said that to you? I wonder what it could mean."
 307: 0x0DCA [0x23] WAIT_FOR_DIALOG_INTERACTION
 308: 0x0DCB [0x80] LOAD_WAIT(entity=Talking Doll (ID: 17809500/0x010FC05C))
@@ -2138,7 +2138,7 @@ SUBROUTINE_0B37:
 SUBROUTINE_0E7C:
 326: 0x0E7C [0x27] REQ_SET(priority=0x0A, entity_id=LocalPlayer, tag_num=0x1E)
 327: 0x0E83 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-328: 0x0E8A [0x2B] ??? (ID: 17809499/0x010FC05B) [10471*]:
+328: 0x0E8A [0x2B] ??? (ID: 17809499/0x010FC05B) [10472*]:
     → "...There is no need to understand... ...You will forget what I have said..."
 329: 0x0E91 [0x23] WAIT_FOR_DIALOG_INTERACTION
 330: 0x0E92 [0x2A] GET_REQ_LEVEL(level=10, entity_id=LocalPlayer)
@@ -2169,7 +2169,7 @@ SUBROUTINE_0F40:
 353: 0x0F73 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s003" with entities [EventEntity, EventEntity], work=[249*, 0*]
 354: 0x0F84 [0x1C] WAIT(50* ticks)
 355: 0x0F87 [0x4A] LocalPlayer looks at ??? (ID: 17809499/0x010FC05B)
-356: 0x0F90 [0x1D] PRINT_EVENT_MESSAGE(message_id=10472*)
+356: 0x0F90 [0x1D] PRINT_EVENT_MESSAGE(message_id=10473*)
     → "Y-you, you're...!"
 357: 0x0F93 [0x23] WAIT_FOR_DIALOG_INTERACTION
 358: 0x0F94 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -2205,18 +2205,18 @@ SUBROUTINE_0F40:
 388: 0x1045 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
 389: 0x1056 [0x7B] Edal-Tahdal (ID: 17809497/0x010FC059) stops talking
 390: 0x105B [0x1C] WAIT(100* ticks)
-391: 0x105E [0x1D] PRINT_EVENT_MESSAGE(message_id=10494*)
+391: 0x105E [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
     → "Uh? Huh? I went all spacey-wacey for a moment there..."
 392: 0x1061 [0x23] WAIT_FOR_DIALOG_INTERACTION
 393: 0x1062 [0x52] END_LOAD_SCHEDULER: End scheduler "s004" with entities [EventEntity, EventEntity], work=249*
 394: 0x1071 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s001" with entities [EventEntity, EventEntity], work=[249*, 0*]
 395: 0x1082 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-396: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10495*)
+396: 0x1089 [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
     → "Um, who were you again? Was I speaking with you? What were we talking about?"
 397: 0x108C [0x23] WAIT_FOR_DIALOG_INTERACTION
 398: 0x108D [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
 399: 0x1094 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
-400: 0x109B [0x1D] PRINT_EVENT_MESSAGE(message_id=10496*)
+400: 0x109B [0x1D] PRINT_EVENT_MESSAGE(message_id=10497*)
     → "Did I tell you I'm a researcher from the Rhinostery in Windurst already?"
 401: 0x109E [0x23] WAIT_FOR_DIALOG_INTERACTION
 402: 0x109F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
@@ -2259,28 +2259,28 @@ SUBROUTINE_11BC:
 433: 0x11BC [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x1214
 434: 0x11C4 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x11F0
 435: 0x11CC [0x1C] WAIT(100* ticks)
-436: 0x11CF [0x2B] ??? (ID: 17809499/0x010FC05B) [10514*]:
+436: 0x11CF [0x2B] ??? (ID: 17809499/0x010FC05B) [10515*]:
     → "We m-m-meet...again... I must...fulfill...my charge."
 437: 0x11D6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 438: 0x11D7 [0x1C] WAIT(100* ticks)
-439: 0x11DA [0x2B] ??? (ID: 17809499/0x010FC05B) [10515*]:
+439: 0x11DA [0x2B] ??? (ID: 17809499/0x010FC05B) [10516*]:
     → "You must...seek power..."
 440: 0x11E1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 441: 0x11E2 [0x1C] WAIT(100* ticks)
-442: 0x11E5 [0x2B] ??? (ID: 17809499/0x010FC05B) [10516*]:
+442: 0x11E5 [0x2B] ??? (ID: 17809499/0x010FC05B) [10517*]:
     → "...And I...shall c-c-claim...my due..."
 443: 0x11EC [0x23] WAIT_FOR_DIALOG_INTERACTION
 444: 0x11ED [0x01] GOTO 0x1211
 445: 0x11F0 [0x1C] WAIT(100* ticks)
-446: 0x11F3 [0x2B] ??? (ID: 17809499/0x010FC05B) [10510*]:
+446: 0x11F3 [0x2B] ??? (ID: 17809499/0x010FC05B) [10511*]:
     → "...We m-m-meet again... ...There is no need for violence, adventurer..."
 447: 0x11FA [0x23] WAIT_FOR_DIALOG_INTERACTION
 448: 0x11FB [0x1C] WAIT(100* ticks)
-449: 0x11FE [0x2B] ??? (ID: 17809499/0x010FC05B) [10511*]:
+449: 0x11FE [0x2B] ??? (ID: 17809499/0x010FC05B) [10512*]:
     → "...I just wish to ask you som-m-me questions. ...Why do you think the avatars...give power to people...without a reason...?"
 450: 0x1205 [0x23] WAIT_FOR_DIALOG_INTERACTION
 451: 0x1206 [0x1C] WAIT(100* ticks)
-452: 0x1209 [0x2B] ??? (ID: 17809499/0x010FC05B) [10512*]:
+452: 0x1209 [0x2B] ??? (ID: 17809499/0x010FC05B) [10513*]:
     → "..And...have you...felt the power...of the avatars...?"
 453: 0x1210 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2288,28 +2288,28 @@ SUBROUTINE_1211:
 454: 0x1211 [0x01] GOTO 0x1261
 455: 0x1214 [0x02] IF !(Work_Zone[2] == 1*) GOTO 0x1240
 456: 0x121C [0x1C] WAIT(100* ticks)
-457: 0x121F [0x2B] ??? (ID: 17809499/0x010FC05B) [10476*]:
+457: 0x121F [0x2B] ??? (ID: 17809499/0x010FC05B) [10477*]:
     → "...We meet...again..."
 458: 0x1226 [0x23] WAIT_FOR_DIALOG_INTERACTION
 459: 0x1227 [0x1C] WAIT(100* ticks)
-460: 0x122A [0x2B] ??? (ID: 17809499/0x010FC05B) [10477*]:
+460: 0x122A [0x2B] ??? (ID: 17809499/0x010FC05B) [10478*]:
     → "...My charge...must...be...fulfilled..."
 461: 0x1231 [0x23] WAIT_FOR_DIALOG_INTERACTION
 462: 0x1232 [0x1C] WAIT(100* ticks)
-463: 0x1235 [0x2B] ??? (ID: 17809499/0x010FC05B) [10478*]:
+463: 0x1235 [0x2B] ??? (ID: 17809499/0x010FC05B) [10479*]:
     → "The beast...will claim...its due..."
 464: 0x123C [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x123D [0x01] GOTO 0x1261
 466: 0x1240 [0x1C] WAIT(100* ticks)
-467: 0x1243 [0x2B] ??? (ID: 17809499/0x010FC05B) [10473*]:
+467: 0x1243 [0x2B] ??? (ID: 17809499/0x010FC05B) [10474*]:
     → "...You have power..."
 468: 0x124A [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x124B [0x1C] WAIT(100* ticks)
-470: 0x124E [0x2B] ??? (ID: 17809499/0x010FC05B) [10474*]:
+470: 0x124E [0x2B] ??? (ID: 17809499/0x010FC05B) [10475*]:
     → "...Will you allow...that power... ...to slumber...for eternity...?"
 471: 0x1255 [0x23] WAIT_FOR_DIALOG_INTERACTION
 472: 0x1256 [0x1C] WAIT(100* ticks)
-473: 0x1259 [0x2B] ??? (ID: 17809499/0x010FC05B) [10475*]:
+473: 0x1259 [0x2B] ??? (ID: 17809499/0x010FC05B) [10476*]:
     → "Surrender...that power...to me... and I...will craft...that power... into whatever...you desire..."
 474: 0x1260 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -2318,7 +2318,7 @@ SUBROUTINE_1261:
 476: 0x1272 [0x1C] WAIT(60* ticks)
 477: 0x1275 [0x02] IF !(Work_Zone[5] == 1*) GOTO 0x1288
 478: 0x127D [0x1C] WAIT(100* ticks)
-479: 0x1280 [0x2B] ??? (ID: 17809499/0x010FC05B) [10513*]:
+479: 0x1280 [0x2B] ??? (ID: 17809499/0x010FC05B) [10514*]:
     → "Hahaha... ...Rather than strength without purpose... ...you should be seeking...true power..."
 480: 0x1287 [0x23] WAIT_FOR_DIALOG_INTERACTION
 481: 0x1288 [0x02] IF !(Work_Zone[9] == 5*) GOTO 0x12A2
@@ -2350,7 +2350,7 @@ SUBROUTINE_12CB:
 SUBROUTINE_1368:
 504: 0x1368 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 505: 0x1379 [0x79] LocalPlayer looks at ??? (ID: 17809499/0x010FC05B) (Basic look)
-506: 0x1383 [0x2B] ??? (ID: 17809499/0x010FC05B) [10479*]:
+506: 0x1383 [0x2B] ??? (ID: 17809499/0x010FC05B) [10480*]:
     → "Choose... What...do you desire...? What...do you seek?"
 507: 0x138A [0x23] WAIT_FOR_DIALOG_INTERACTION
 508: 0x138B [0x7B] LocalPlayer stops talking
@@ -2377,16 +2377,16 @@ SUBROUTINE_1368:
 529: 0x1437 [0x52] END_LOAD_SCHEDULER: End scheduler "s008" with entities [EventEntity, EventEntity], work=249*
 
 SUBROUTINE_1446:
-530: 0x1446 [0x24] CREATE_DIALOG(message_id=10480*, default_option=0*, option_flags=Work_Zone[6])
+530: 0x1446 [0x24] CREATE_DIALOG(message_id=10481*, default_option=0*, option_flags=Work_Zone[6])
     → "What do you desire? [$5./$6./$1./$2./Gil./Nothing (a pact with the avatar).]"
 531: 0x144D [0x25] WAIT_DIALOG_SELECT()
 532: 0x144E [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x148F
 533: 0x1456 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[7])
-534: 0x1459 [0x2B] ??? (ID: 17809499/0x010FC05B) [10481*]:
+534: 0x1459 [0x2B] ??? (ID: 17809499/0x010FC05B) [10482*]:
     → "...This is what you desire...?"
 535: 0x1460 [0x23] WAIT_FOR_DIALOG_INTERACTION
 536: 0x1461 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-537: 0x1464 [0x24] CREATE_DIALOG(message_id=10482*, default_option=1*, option_flags=0*)
+537: 0x1464 [0x24] CREATE_DIALOG(message_id=10483*, default_option=1*, option_flags=0*)
     → "You want $5? [Yes./Wait!]"
 538: 0x146B [0x25] WAIT_DIALOG_SELECT()
 539: 0x146C [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x147C
@@ -2400,11 +2400,11 @@ SUBROUTINE_148C:
 545: 0x148C [0x01] GOTO 0x15B8
 546: 0x148F [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x14D0
 547: 0x1497 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[8])
-548: 0x149A [0x2B] ??? (ID: 17809499/0x010FC05B) [10481*]:
+548: 0x149A [0x2B] ??? (ID: 17809499/0x010FC05B) [10482*]:
     → "...This is what you desire...?"
 549: 0x14A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 550: 0x14A2 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-551: 0x14A5 [0x24] CREATE_DIALOG(message_id=10483*, default_option=1*, option_flags=0*)
+551: 0x14A5 [0x24] CREATE_DIALOG(message_id=10484*, default_option=1*, option_flags=0*)
     → "You want $6? [Yes./Wait!]"
 552: 0x14AC [0x25] WAIT_DIALOG_SELECT()
 553: 0x14AD [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14BD
@@ -2418,11 +2418,11 @@ SUBROUTINE_14CD:
 559: 0x14CD [0x01] GOTO 0x15B8
 560: 0x14D0 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x1511
 561: 0x14D8 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[3])
-562: 0x14DB [0x2B] ??? (ID: 17809499/0x010FC05B) [10481*]:
+562: 0x14DB [0x2B] ??? (ID: 17809499/0x010FC05B) [10482*]:
     → "...This is what you desire...?"
 563: 0x14E2 [0x23] WAIT_FOR_DIALOG_INTERACTION
 564: 0x14E3 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-565: 0x14E6 [0x24] CREATE_DIALOG(message_id=10485*, default_option=1*, option_flags=0*)
+565: 0x14E6 [0x24] CREATE_DIALOG(message_id=10486*, default_option=1*, option_flags=0*)
     → "You want $1? [Yes./Wait!]"
 566: 0x14ED [0x25] WAIT_DIALOG_SELECT()
 567: 0x14EE [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x14FE
@@ -2436,11 +2436,11 @@ SUBROUTINE_150E:
 573: 0x150E [0x01] GOTO 0x15B8
 574: 0x1511 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x1552
 575: 0x1519 [0x93] DISPLAY_ITEM_INFO(item_id=Work_Zone[4])
-576: 0x151C [0x2B] ??? (ID: 17809499/0x010FC05B) [10481*]:
+576: 0x151C [0x2B] ??? (ID: 17809499/0x010FC05B) [10482*]:
     → "...This is what you desire...?"
 577: 0x1523 [0x23] WAIT_FOR_DIALOG_INTERACTION
 578: 0x1524 [0x93] DISPLAY_ITEM_INFO(item_id=0*)
-579: 0x1527 [0x24] CREATE_DIALOG(message_id=10484*, default_option=1*, option_flags=0*)
+579: 0x1527 [0x24] CREATE_DIALOG(message_id=10485*, default_option=1*, option_flags=0*)
     → "You want $2? [Yes./Wait!]"
 580: 0x152E [0x25] WAIT_DIALOG_SELECT()
 581: 0x152F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x153F
@@ -2453,7 +2453,7 @@ SUBROUTINE_150E:
 SUBROUTINE_154F:
 587: 0x154F [0x01] GOTO 0x15B8
 588: 0x1552 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1585
-589: 0x155A [0x24] CREATE_DIALOG(message_id=10486*, default_option=1*, option_flags=0*)
+589: 0x155A [0x24] CREATE_DIALOG(message_id=10487*, default_option=1*, option_flags=0*)
     → "Gil is what you truly want? [Yes./Wait!]"
 590: 0x1561 [0x25] WAIT_DIALOG_SELECT()
 591: 0x1562 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x1572
@@ -2466,7 +2466,7 @@ SUBROUTINE_154F:
 SUBROUTINE_1582:
 597: 0x1582 [0x01] GOTO 0x15B8
 598: 0x1585 [0x02] IF !(Work_Zone[0] == 5*) GOTO 0x15B8
-599: 0x158D [0x24] CREATE_DIALOG(message_id=10487*, default_option=1*, option_flags=0*)
+599: 0x158D [0x24] CREATE_DIALOG(message_id=10488*, default_option=1*, option_flags=0*)
     → "Are you sure? [Yes./Wait!]"
 600: 0x1594 [0x25] WAIT_DIALOG_SELECT()
 601: 0x1595 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x15A5
@@ -2486,7 +2486,7 @@ SUBROUTINE_15B8:
 611: 0x15CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s006" with entities [EventEntity, EventEntity], work=[249*, 0*]
 612: 0x15DC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 613: 0x15ED [0x1C] WAIT(160* ticks)
-614: 0x15F0 [0x2B] ??? (ID: 17809499/0x010FC05B) [10488*]:
+614: 0x15F0 [0x2B] ??? (ID: 17809499/0x010FC05B) [10489*]:
     → "Listen...to the voice without--my voice--with your ears...and your heart..."
 615: 0x15F7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 616: 0x15F8 [0x2A] GET_REQ_LEVEL(level=13, entity_id=Talking Doll (ID: 17809500/0x010FC05C))
@@ -2494,7 +2494,7 @@ SUBROUTINE_15B8:
 618: 0x160F [0x1C] WAIT(100* ticks)
 619: 0x1612 [0x52] END_LOAD_SCHEDULER: End scheduler "s006" with entities [EventEntity, EventEntity], work=249*
 620: 0x1621 [0x1C] WAIT(100* ticks)
-621: 0x1624 [0x48] [System] [10489*]:
+621: 0x1624 [0x48] [System] [10490*]:
     → "Bring me... Power... Higher... Deeper... ...... Stronger..."
 622: 0x1627 [0x23] WAIT_FOR_DIALOG_INTERACTION
 623: 0x1628 [0x1C] WAIT(80* ticks)
@@ -2506,7 +2506,7 @@ SUBROUTINE_15B8:
 629: 0x1664 [0x1C] WAIT(60* ticks)
 630: 0x1667 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi2" with entities [EventEntity, EventEntity], work=[200*, 0*]
 631: 0x1678 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Carbuncle (ID: 17809501/0x010FC05D), tag_num=0x02)
-632: 0x167F [0x2B] ??? (ID: 17809499/0x010FC05B) [10490*]:
+632: 0x167F [0x2B] ??? (ID: 17809499/0x010FC05B) [10491*]:
     → "...? ...something...interfering...?"
 633: 0x1686 [0x23] WAIT_FOR_DIALOG_INTERACTION
 634: 0x1687 [0x4E] SET_ENTITY_HIDE_FLAG: Show Carbuncle (ID: 17809501/0x010FC05D)
@@ -2517,15 +2517,15 @@ SUBROUTINE_15B8:
 639: 0x169D [0x80] LOAD_WAIT(entity=Carbuncle (ID: 17809501/0x010FC05D))
 640: 0x16A2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s009" with entities [EventEntity, EventEntity], work=[249*, 0*]
 641: 0x16B3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "whi1" with entities [LocalPlayer, LocalPlayer], work=[201*, 0*]
-642: 0x16C4 [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10491*]:
+642: 0x16C4 [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10492*]:
     → "<Player>...! Listen to the voice within you!"
 643: 0x16CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 644: 0x16CC [0x52] END_LOAD_SCHEDULER: End scheduler "s009" with entities [EventEntity, EventEntity], work=249*
 645: 0x16DB [0x27] REQ_SET(priority=0x0B, entity_id=Carbuncle (ID: 17809501/0x010FC05D), tag_num=0x03)
-646: 0x16E2 [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10492*]:
+646: 0x16E2 [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10493*]:
     → "If you focus, you will see the true Vana'diel!"
 647: 0x16E9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-648: 0x16EA [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10493*]:
+648: 0x16EA [0x2B] Carbuncle (ID: 17809501/0x010FC05D) [10494*]:
     → "...Even if...that..."
 649: 0x16F1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 650: 0x16F2 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Carbuncle (ID: 17809501/0x010FC05D))
@@ -2607,7 +2607,7 @@ SUBROUTINE_16FD:
  23: 0x176E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s034" with entities [EventEntity, EventEntity], work=[249*, 0*]
  24: 0x177F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  25: 0x1790 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
- 26: 0x1797 [0x1D] PRINT_EVENT_MESSAGE(message_id=10498*)
+ 26: 0x1797 [0x1D] PRINT_EVENT_MESSAGE(message_id=10499*)
     → "Huh? What? Do I know where Ildy-Goldy is?"
  27: 0x179A [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x179B [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
@@ -2615,30 +2615,30 @@ SUBROUTINE_16FD:
  30: 0x17B1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s056" with entities [EventEntity, EventEntity], work=[249*, 0*]
  31: 0x17C2 [0x6E] EventEntity uses emote 7*
  32: 0x17C9 [0x99] Wait for EventEntity animation to complete
- 33: 0x17CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10499*)
+ 33: 0x17CE [0x1D] PRINT_EVENT_MESSAGE(message_id=10500*)
     → "Yeah, you justaru missed him. He went off towards Cape Terrrigan with the improved tuning fork of air."
  34: 0x17D1 [0x23] WAIT_FOR_DIALOG_INTERACTION
  35: 0x17D2 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0B)
- 36: 0x17D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10500*)
+ 36: 0x17D9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10501*)
     → "Ildy-Goldy will wipe the floor with that avatar. I wonder what kind of research data he'll bring back for us?"
  37: 0x17DC [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x17DD [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0C)
  39: 0x17E4 [0x52] END_LOAD_SCHEDULER: End scheduler "s056" with entities [EventEntity, EventEntity], work=249*
  40: 0x17F3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s057" with entities [EventEntity, EventEntity], work=[249*, 0*]
  41: 0x1804 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
- 42: 0x180B [0x1D] PRINT_EVENT_MESSAGE(message_id=10501*)
+ 42: 0x180B [0x1D] PRINT_EVENT_MESSAGE(message_id=10502*)
     → "Hm? Did he seem a little different from usual?"
  43: 0x180E [0x23] WAIT_FOR_DIALOG_INTERACTION
  44: 0x180F [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
  45: 0x1816 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x05)
- 46: 0x181D [0x1D] PRINT_EVENT_MESSAGE(message_id=10502*)
+ 46: 0x181D [0x1D] PRINT_EVENT_MESSAGE(message_id=10503*)
     → "Well, now that you mention it, he did ask me to give this to any adventurers that came looking for him..."
  47: 0x1820 [0x23] WAIT_FOR_DIALOG_INTERACTION
  48: 0x1821 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x06)
  49: 0x1828 [0x52] END_LOAD_SCHEDULER: End scheduler "s057" with entities [EventEntity, EventEntity], work=249*
  50: 0x1837 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s033" with entities [EventEntity, EventEntity], work=[249*, 0*]
  51: 0x1848 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1D)
- 52: 0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=10503*)
+ 52: 0x184F [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
     → "I guess that must mean you. Here you go. Seems like a clear invitation to go take on the avatar in Cape Teriggan yourself."
  53: 0x1852 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x1853 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1E)
@@ -2688,7 +2688,7 @@ SUBROUTINE_16FD:
   1: 0x18AE [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x18AF [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x18B0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  4: 0x18B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10504*)
+  4: 0x18B7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10505*)
     → "I've given you what Ildy-Goldy had me hold on to. You should be on your way to Cape Teriggan."
   5: 0x18BA [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x18BB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
@@ -2724,12 +2724,12 @@ SUBROUTINE_16FD:
   2: 0x18CC [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   3: 0x18CD [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   4: 0x18CE [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1F)
-  5: 0x18D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10508*)
+  5: 0x18D5 [0x1D] PRINT_EVENT_MESSAGE(message_id=10509*)
     → "What!? You lost the $1!?"
   6: 0x18D8 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x18D9 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x20)
   8: 0x18E0 [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1D)
-  9: 0x18E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10509*)
+  9: 0x18E7 [0x1D] PRINT_EVENT_MESSAGE(message_id=10510*)
     → "What kind of an adventurer are you...? Well, don't go losing this one, okay?"
  10: 0x18EA [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x18EB [0x29] REQ_SET_WAIT(priority=0x0B, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1E)
@@ -2781,10 +2781,10 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x18F7 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x17)
-  1: 0x18FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10525*)
+  1: 0x18FE [0x1D] PRINT_EVENT_MESSAGE(message_id=10526*)
     → "No no no no no! That crazy-wazy contraption won't provide us with any useful data!"
   2: 0x1901 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x1902 [0x1D] PRINT_EVENT_MESSAGE(message_id=10526*)
+  3: 0x1902 [0x1D] PRINT_EVENT_MESSAGE(message_id=10527*)
     → "Listen, muscle-hussle brain. Science is not about winning or spinning, life or strife, even or Steven! It's a more delicate subjectaru!"
   4: 0x1905 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x1906 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x18)
@@ -2815,17 +2815,17 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x190E [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x17)
-  1: 0x1915 [0x1D] PRINT_EVENT_MESSAGE(message_id=10529*)
+  1: 0x1915 [0x1D] PRINT_EVENT_MESSAGE(message_id=10530*)
     → "No no no no no! Even if they use that half-rate spork, it'll take a tip-top summoner to defeat the prime avatar!"
   2: 0x1918 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1919 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x18)
   4: 0x1920 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x19)
-  5: 0x1927 [0x1D] PRINT_EVENT_MESSAGE(message_id=10530*)
+  5: 0x1927 [0x1D] PRINT_EVENT_MESSAGE(message_id=10531*)
     → "Listen up. The fandangled $1 won't make it any easier for you to downright defeat the monster inside the crystal. Sure, it'll lower the power of the prime avatar to around $3, but it will do the same to you! And on top of that, you'll only be able to summon that itty-bitty blue bugger, Carbuncle!"
   6: 0x192A [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x192B [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1A)
   8: 0x1932 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x09)
-  9: 0x1939 [0x1D] PRINT_EVENT_MESSAGE(message_id=10531*)
+  9: 0x1939 [0x1D] PRINT_EVENT_MESSAGE(message_id=10532*)
     → "And to make things worse, nobody-buddy else can enter the crystal with you! You'll be battling one-on-one, man-to-man, Taru-et-Taru!"
  10: 0x193C [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x193D [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0A)
@@ -2853,7 +2853,7 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x1945 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x03)
-  1: 0x194C [0x1D] PRINT_EVENT_MESSAGE(message_id=10533*)
+  1: 0x194C [0x1D] PRINT_EVENT_MESSAGE(message_id=10534*)
     → "Hmmm... You do have a point there... I guess one round with a prime avatar wouldn't hurtaru."
   2: 0x194F [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1950 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x04)
@@ -2882,12 +2882,12 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x1958 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1D)
-  1: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=10537*)
+  1: 0x195F [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
     → "Well, you asked for it! Take this $1 and ring it near one of those giant crystals. The prime avatar won't be slap-happy to be woken up, and you'll have to deal with its wrath."
   2: 0x1962 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x1963 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x1E)
   4: 0x196A [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  5: 0x1971 [0x1D] PRINT_EVENT_MESSAGE(message_id=10538*)
+  5: 0x1971 [0x1D] PRINT_EVENT_MESSAGE(message_id=10539*)
     → "I guess because you are helping us check out this new tuning fork, I can use my mighty-minty magic to warp you near the giant crystal in [Ifrit's Cauldron/the Quicksand Caves/the Den of Rancor/Cape Teriggan/Fei'Yin/the Boyahda Tree]. When you're ready, just show my companion the $1."
   6: 0x1974 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x1975 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)
@@ -2981,7 +2981,7 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x1980 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0B)
-  1: 0x1987 [0x1D] PRINT_EVENT_MESSAGE(message_id=10552*)
+  1: 0x1987 [0x1D] PRINT_EVENT_MESSAGE(message_id=10553*)
     → "Hmmm... Just as I thoughtaru. The prime avatar that you fought with this spunky-junky tuning fork was nothing but a fake. Researching real avatars with real tuning forks is how real researchers do real research in the real world!"
   2: 0x198A [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x198B [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x0C)
@@ -3031,7 +3031,7 @@ SUBROUTINE_16FD:
 
 ```
   0: 0x1994 [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x01)
-  1: 0x199B [0x1D] PRINT_EVENT_MESSAGE(message_id=10555*)
+  1: 0x199B [0x1D] PRINT_EVENT_MESSAGE(message_id=10556*)
     → "I don't think you'll get much out of it, but if you want to go get your buttaru kicked by the prime avatar again, all you have to do is ring another $1 near a giant crystal."
   2: 0x199E [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x199F [0x29] REQ_SET_WAIT(priority=0x09, entity_id=Edal-Tahdal (ID: 17809497/0x010FC059), tag_num=0x02)

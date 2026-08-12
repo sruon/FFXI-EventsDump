@@ -44,18 +44,18 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x135B      |        4955 |
+|       0 | 0x135C      |        4956 |
 |       1 | 0x001E      |          30 |
-|       2 | 0x135C      |        4956 |
+|       2 | 0x135D      |        4957 |
 |       3 | 0x0032      |          50 |
-|       4 | 0x135D      |        4957 |
-|       5 | 0x135E      |        4958 |
-|       6 | 0x139D      |        5021 |
+|       4 | 0x135E      |        4958 |
+|       5 | 0x135F      |        4959 |
+|       6 | 0x139E      |        5022 |
 |       7 | 0x000D      |          13 |
 |       8 | 0xFFFFCDE8  |  4294954472 |
 |       9 | 0x18FAF     |      102319 |
 |      10 | 0x07CF      |        1999 |
-|      11 | 0x13A3      |        5027 |
+|      11 | 0x13A4      |        5028 |
 |      12 | 0xFFFEAAEE  |  4294879982 |
 |      13 | 0x0CF4      |        3316 |
 |      14 | 0x0000      |           0 |
@@ -77,7 +77,7 @@
 |      30 | 0x0BC7      |        3015 |
 |      31 | 0xFFFEA7CD  |  4294879181 |
 |      32 | 0xFFFFF299  |  4294963865 |
-|      33 | 0x13FB      |        5115 |
+|      33 | 0x13FC      |        5116 |
 |      34 | 0x0008      |           8 |
 |      35 | 0x00B4      |         180 |
 |      36 | 0xFFFEA6ED  |  4294878957 |
@@ -88,19 +88,19 @@
 |      41 | 0x0078      |         120 |
 |      42 | 0xFFFEA69D  |  4294878877 |
 |      43 | 0xFFFFFAF9  |  4294966009 |
-|      44 | 0x13FA      |        5114 |
+|      44 | 0x13FB      |        5115 |
 |      45 | 0x0034      |          52 |
 
 ## String References
 
-- **4955**: <Sigh>... Fernan doesn't seem nearly as drrreamy as he did in his older work...
-- **4956**: ...What? You just want a scrap of paper?
-- **4957**: Well, I guess I'm finished rrreading this anyway. I don't think it would hurt to tear one letter out of it, so do your worst.
-- **4958**: <Player> rips a letter "A" out of Ekhu Pesshyadha's book!
-- **5021**: I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him...
-- **5027**: To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?
-- **5114**: <Sigh>... I wish I could meet a guy like Fernan...
-- **5115**: Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!
+- **4956**: <Sigh>... Fernan doesn't seem nearly as drrreamy as he did in his older work...
+- **4957**: ...What? You just want a scrap of paper?
+- **4958**: Well, I guess I'm finished rrreading this anyway. I don't think it would hurt to tear one letter out of it, so do your worst.
+- **4959**: <Player> rips a letter "A" out of Ekhu Pesshyadha's book!
+- **5022**: I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him...
+- **5028**: To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?
+- **5115**: <Sigh>... I wish I could meet a guy like Fernan...
+- **5116**: Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!
 
 ## Events
 
@@ -149,20 +149,20 @@
 
 ```
   0: 0x0001 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=4955*)
+  1: 0x0002 [0x1D] PRINT_EVENT_MESSAGE(message_id=4956*)
     → "<Sigh>... Fernan doesn't seem nearly as drrreamy as he did in his older work..."
   2: 0x0005 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x0006 [0x1E] EventEntity looks at LocalPlayer and starts talking
   4: 0x000B [0x1C] WAIT(30* ticks)
-  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=4956*)
+  5: 0x000E [0x1D] PRINT_EVENT_MESSAGE(message_id=4957*)
     → "...What? You just want a scrap of paper?"
   6: 0x0011 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0012 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=50*
-  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=4957*)
+  8: 0x0021 [0x1D] PRINT_EVENT_MESSAGE(message_id=4958*)
     → "Well, I guess I'm finished rrreading this anyway. I don't think it would hurt to tear one letter out of it, so do your worst."
   9: 0x0024 [0x23] WAIT_FOR_DIALOG_INTERACTION
  10: 0x0025 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=50*
- 11: 0x0034 [0x48] [System] [4958*]:
+ 11: 0x0034 [0x48] [System] [4959*]:
     → "<Player> rips a letter "A" out of Ekhu Pesshyadha's book!"
  12: 0x0037 [0x21] END_EVENT
  13: 0x0038 [0x00] END_REQSTACK()
@@ -232,7 +232,7 @@
 #### Opcodes
 
 ```
-  0: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=5021*)
+  0: 0x003B [0x1D] PRINT_EVENT_MESSAGE(message_id=5022*)
     → "I can't stop thinking about that handsome Elvaan in his brilliantly embroidered clothing... I wish I could find out more about him..."
   1: 0x003E [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x003F [0x21] END_EVENT
@@ -305,7 +305,7 @@
 #### Opcodes
 
 ```
-  0: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=5027*)
+  0: 0x0050 [0x1D] PRINT_EVENT_MESSAGE(message_id=5028*)
     → "To think I'd become more obsessed with Zabahf than Fernan... What's gotten into me?"
   1: 0x0053 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0054 [0x21] END_EVENT
@@ -586,7 +586,7 @@
 ```
   0: 0x00D5 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x00DA [0x1C] WAIT(30* ticks)
-  2: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=5115*)
+  2: 0x00DD [0x1D] PRINT_EVENT_MESSAGE(message_id=5116*)
     → "Yeah, go ahead and laugh. I thought maybe Zabahf and I had something there, but...nah. Fernan is the only guy for me!"
   3: 0x00E0 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x00E1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "ure0" with entities [EventEntity, EventEntity], work=8*
@@ -694,7 +694,7 @@
 #### Opcodes
 
 ```
-  0: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=5114*)
+  0: 0x0132 [0x1D] PRINT_EVENT_MESSAGE(message_id=5115*)
     → "<Sigh>... I wish I could meet a guy like Fernan..."
   1: 0x0135 [0x23] WAIT_FOR_DIALOG_INTERACTION
   2: 0x0136 [0x21] END_EVENT

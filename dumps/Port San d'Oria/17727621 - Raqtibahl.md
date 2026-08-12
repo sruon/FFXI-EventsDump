@@ -45,57 +45,57 @@
 |      12 | 0x001E      |          30 |
 |      13 | 0x011B      |         283 |
 |      14 | 0x005A      |          90 |
-|      15 | 0x2209      |        8713 |
+|      15 | 0x220A      |        8714 |
 |      16 | 0x0014      |          20 |
-|      17 | 0x220A      |        8714 |
-|      18 | 0x220B      |        8715 |
-|      19 | 0x220C      |        8716 |
-|      20 | 0x220D      |        8717 |
+|      17 | 0x220B      |        8715 |
+|      18 | 0x220C      |        8716 |
+|      19 | 0x220D      |        8717 |
+|      20 | 0x220E      |        8718 |
 |      21 | 0x003C      |          60 |
-|      22 | 0x220E      |        8718 |
-|      23 | 0x220F      |        8719 |
+|      22 | 0x220F      |        8719 |
+|      23 | 0x2210      |        8720 |
 |      24 | 0x0042      |          66 |
-|      25 | 0x2210      |        8720 |
-|      26 | 0x2211      |        8721 |
-|      27 | 0x2212      |        8722 |
-|      28 | 0x2213      |        8723 |
-|      29 | 0x2214      |        8724 |
-|      30 | 0x2215      |        8725 |
-|      31 | 0x2216      |        8726 |
-|      32 | 0x2217      |        8727 |
-|      33 | 0x2218      |        8728 |
+|      25 | 0x2211      |        8721 |
+|      26 | 0x2212      |        8722 |
+|      27 | 0x2213      |        8723 |
+|      28 | 0x2214      |        8724 |
+|      29 | 0x2215      |        8725 |
+|      30 | 0x2216      |        8726 |
+|      31 | 0x2217      |        8727 |
+|      32 | 0x2218      |        8728 |
+|      33 | 0x2219      |        8729 |
 |      34 | 0x006B      |         107 |
-|      35 | 0x2219      |        8729 |
-|      36 | 0x221A      |        8730 |
-|      37 | 0x221B      |        8731 |
-|      38 | 0x221C      |        8732 |
-|      39 | 0x221D      |        8733 |
-|      40 | 0x221E      |        8734 |
-|      41 | 0x221F      |        8735 |
-|      42 | 0x2220      |        8736 |
-|      43 | 0x2221      |        8737 |
-|      44 | 0x2222      |        8738 |
-|      45 | 0x2223      |        8739 |
-|      46 | 0x2224      |        8740 |
-|      47 | 0x2225      |        8741 |
-|      48 | 0x2226      |        8742 |
-|      49 | 0x2227      |        8743 |
-|      50 | 0x2228      |        8744 |
-|      51 | 0x2229      |        8745 |
-|      52 | 0x222A      |        8746 |
-|      53 | 0x222B      |        8747 |
-|      54 | 0x222C      |        8748 |
-|      55 | 0x222D      |        8749 |
-|      56 | 0x222E      |        8750 |
-|      57 | 0x222F      |        8751 |
+|      35 | 0x221A      |        8730 |
+|      36 | 0x221B      |        8731 |
+|      37 | 0x221C      |        8732 |
+|      38 | 0x221D      |        8733 |
+|      39 | 0x221E      |        8734 |
+|      40 | 0x221F      |        8735 |
+|      41 | 0x2220      |        8736 |
+|      42 | 0x2221      |        8737 |
+|      43 | 0x2222      |        8738 |
+|      44 | 0x2223      |        8739 |
+|      45 | 0x2224      |        8740 |
+|      46 | 0x2225      |        8741 |
+|      47 | 0x2226      |        8742 |
+|      48 | 0x2227      |        8743 |
+|      49 | 0x2228      |        8744 |
+|      50 | 0x2229      |        8745 |
+|      51 | 0x222A      |        8746 |
+|      52 | 0x222B      |        8747 |
+|      53 | 0x222C      |        8748 |
+|      54 | 0x222D      |        8749 |
+|      55 | 0x222E      |        8750 |
+|      56 | 0x222F      |        8751 |
+|      57 | 0x2230      |        8752 |
 |      58 | 0x00C9      |         201 |
-|      59 | 0x2230      |        8752 |
-|      60 | 0x2231      |        8753 |
-|      61 | 0x2232      |        8754 |
+|      59 | 0x2231      |        8753 |
+|      60 | 0x2232      |        8754 |
+|      61 | 0x2233      |        8755 |
 
 ## String References
 
-- **8715**: Show him Leleroon's letter? [Yes./Not now.]
+- **8716**: Show him Leleroon's letter? [Yes./Not now.]
 
 ## Events
 
@@ -210,20 +210,20 @@
  23: 0x007E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u000" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  24: 0x008F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  25: 0x00A0 [0x1C] WAIT(90* ticks)
- 26: 0x00A3 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8713*]:
+ 26: 0x00A3 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8714*]:
     → "Hm..."
  27: 0x00AA [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x00AB [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
- 29: 0x00BA [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8714*]:
+ 29: 0x00BA [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8715*]:
     → "I do not remember ever seeing you before. What do you need of me?"
  30: 0x00C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 31: 0x00C2 [0x24] CREATE_DIALOG(message_id=8715*, default_option=0*, option_flags=0*)
+ 31: 0x00C2 [0x24] CREATE_DIALOG(message_id=8716*, default_option=0*, option_flags=0*)
     → "Show him Leleroon's letter? [Yes./Not now.]"
  32: 0x00C9 [0x25] WAIT_DIALOG_SELECT()
  33: 0x00CA [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x00FD
  34: 0x00D2 [0x52] END_LOAD_SCHEDULER: End scheduler "u000" with entities [LocalPlayer, LocalPlayer], work=283*
  35: 0x00E1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u001" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
- 36: 0x00F2 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8716*]:
+ 36: 0x00F2 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8717*]:
     → "Well now, what have we here? I have not seen Leleroon in a long time. I wonder how the little Qiqirn is doing..."
  37: 0x00F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x00FA [0x01] GOTO 0x010B
@@ -233,7 +233,7 @@
 SUBROUTINE_010B:
  41: 0x010B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
  42: 0x011A [0x1C] WAIT(30* ticks)
- 43: 0x011D [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8717*]:
+ 43: 0x011D [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8718*]:
     → "You are a member of the Seagull Phratrie, correct? Sorry for my curt words earlier."
  44: 0x0124 [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x0125 [0x1C] WAIT(30* ticks)
@@ -241,10 +241,10 @@ SUBROUTINE_010B:
  47: 0x0137 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u002" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  48: 0x0148 [0x1C] WAIT(60* ticks)
  49: 0x014B [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 50: 0x015A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8718*]:
+ 50: 0x015A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8719*]:
     → "I was a member of the Black Cradle's crew until that giant hole was blown into its hull... Then I ventured here to San d'Oria."
  51: 0x0161 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 52: 0x0162 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8719*]:
+ 52: 0x0162 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8720*]:
     → "As the oldest member, all the battles were starting to take their toll on me. So when the ship sank, I took the opportunity to retire."
  53: 0x0169 [0x23] WAIT_FOR_DIALOG_INTERACTION
  54: 0x016A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -253,45 +253,45 @@ SUBROUTINE_010B:
  57: 0x018B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u003" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  58: 0x019C [0x1C] WAIT(30* ticks)
  59: 0x019F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [EventEntity, EventEntity], work=66*
- 60: 0x01AE [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8720*]:
+ 60: 0x01AE [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8721*]:
     → "You came here in order to get some quality corsair armor, did you?"
  61: 0x01B5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  62: 0x01B6 [0x1C] WAIT(30* ticks)
- 63: 0x01B9 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8721*]:
+ 63: 0x01B9 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8722*]:
     → "Well then, you have come to the right place. I can make $6 for you."
  64: 0x01C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
  65: 0x01C1 [0x1C] WAIT(30* ticks)
  66: 0x01C4 [0x52] END_LOAD_SCHEDULER: End scheduler "u003" with entities [LocalPlayer, LocalPlayer], work=283*
  67: 0x01D3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u004" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  68: 0x01E4 [0x1C] WAIT(60* ticks)
- 69: 0x01E7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8722*]:
+ 69: 0x01E7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8723*]:
     → "However, first I must test your skill as a corsair and determine that you are up to my standard. Until now, I have created equipment for Qultada only."
  70: 0x01EE [0x23] WAIT_FOR_DIALOG_INTERACTION
  71: 0x01EF [0x1C] WAIT(60* ticks)
- 72: 0x01F2 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8723*]:
+ 72: 0x01F2 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8724*]:
     → "You have met Qultada, have you not?"
  73: 0x01F9 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x01FA [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8724*]:
+ 74: 0x01FA [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8725*]:
     → "When I decided to abandon life at sea, the fool tried desperately to stop me."
  75: 0x0201 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0202 [0x52] END_LOAD_SCHEDULER: End scheduler "u004" with entities [LocalPlayer, LocalPlayer], work=283*
  77: 0x0211 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u005" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  78: 0x0222 [0x1C] WAIT(60* ticks)
- 79: 0x0225 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8725*]:
+ 79: 0x0225 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8726*]:
     → "Anyway, that is all in the past."
  80: 0x022C [0x23] WAIT_FOR_DIALOG_INTERACTION
  81: 0x022D [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [EventEntity, EventEntity], work=66*
- 82: 0x023C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8726*]:
+ 82: 0x023C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8727*]:
     → "Bring me $0, $1, $2, and $3..."
  83: 0x0243 [0x23] WAIT_FOR_DIALOG_INTERACTION
  84: 0x0244 [0x1C] WAIT(30* ticks)
  85: 0x0247 [0x52] END_LOAD_SCHEDULER: End scheduler "u005" with entities [LocalPlayer, LocalPlayer], work=283*
  86: 0x0256 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u006" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  87: 0x0267 [0x1C] WAIT(30* ticks)
- 88: 0x026A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8727*]:
+ 88: 0x026A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8728*]:
     → "I cannot do anything until you bring me the materials first."
  89: 0x0271 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 90: 0x0272 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8728*]:
+ 90: 0x0272 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8729*]:
     → "Come back after you manage to find them."
  91: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  92: 0x027A [0x1C] WAIT(60* ticks)
@@ -344,13 +344,13 @@ SUBROUTINE_010B:
   3: 0x02D8 [0x03] Work_Zone[4] = 1829*
   4: 0x02DD [0x03] Work_Zone[5] = 1997*
   5: 0x02E2 [0x03] Work_Zone[6] = 2187*
-  6: 0x02E7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8726*]:
+  6: 0x02E7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8727*]:
     → "Bring me $0, $1, $2, and $3..."
   7: 0x02EE [0x23] WAIT_FOR_DIALOG_INTERACTION
-  8: 0x02EF [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8727*]:
+  8: 0x02EF [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8728*]:
     → "I cannot do anything until you bring me the materials first."
   9: 0x02F6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 10: 0x02F7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8728*]:
+ 10: 0x02F7 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8729*]:
     → "Come back after you manage to find them."
  11: 0x02FE [0x23] WAIT_FOR_DIALOG_INTERACTION
  12: 0x02FF [0x21] END_EVENT
@@ -381,16 +381,16 @@ SUBROUTINE_010B:
   0: 0x0301 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0302 [0x03] Work_Zone[6] = 2187*
   2: 0x0307 [0x03] Work_Zone[7] = 1*
-  3: 0x030C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8729*]:
+  3: 0x030C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8730*]:
     → "Ah, I see you've managed to find all the materials. Good work."
   4: 0x0313 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0314 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8730*]:
+  5: 0x0314 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8731*]:
     → "All you have to do now is pay the costs of production."
   6: 0x031B [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x031C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8731*]:
+  7: 0x031C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8732*]:
     → "That will be $5 $0$4 ..."
   8: 0x0323 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  9: 0x0324 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8732*]:
+  9: 0x0324 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8733*]:
     → "I am not going anywhere. Just bring the materials whenever you want."
  10: 0x032B [0x23] WAIT_FOR_DIALOG_INTERACTION
  11: 0x032C [0x21] END_EVENT
@@ -421,10 +421,10 @@ SUBROUTINE_010B:
   0: 0x032E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x032F [0x03] Work_Zone[6] = 2187*
   2: 0x0334 [0x03] Work_Zone[7] = 1*
-  3: 0x0339 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8731*]:
+  3: 0x0339 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8732*]:
     → "That will be $5 $0$4 ..."
   4: 0x0340 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0341 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8732*]:
+  5: 0x0341 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8733*]:
     → "I am not going anywhere. Just bring the materials whenever you want."
   6: 0x0348 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0349 [0x21] END_EVENT
@@ -452,10 +452,10 @@ SUBROUTINE_010B:
 
 ```
   0: 0x034B [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x034C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8733*]:
+  1: 0x034C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8734*]:
     → "Well, this is an unexpected development..."
   2: 0x0353 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0354 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8734*]:
+  3: 0x0354 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8735*]:
     → "I guess I will have to actually make your equipment, then! Please wait a while until I can finish."
   4: 0x035B [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x035C [0x21] END_EVENT
@@ -484,13 +484,13 @@ SUBROUTINE_010B:
 
 ```
   0: 0x035E [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x035F [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8735*]:
+  1: 0x035F [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8736*]:
     → "Patience, now, patience. Hasty work makes sloppy work."
   2: 0x0366 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x0367 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8736*]:
+  3: 0x0367 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8737*]:
     → "The way of the corsair means being able to show the world an easygoing smile in the most anxious of times."
   4: 0x036E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x036F [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8737*]:
+  5: 0x036F [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8738*]:
     → "So relax and wait just a bit longer."
   6: 0x0376 [0x23] WAIT_FOR_DIALOG_INTERACTION
   7: 0x0377 [0x21] END_EVENT
@@ -579,41 +579,41 @@ SUBROUTINE_010B:
  19: 0x03EE [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  20: 0x03FF [0x1C] WAIT(60* ticks)
  21: 0x0402 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "pas0" with entities [EventEntity, EventEntity], work=20*
- 22: 0x0411 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8738*]:
+ 22: 0x0411 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8739*]:
     → "Here you go... A genuine $6, all for you."
  23: 0x0418 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x0419 [0x1C] WAIT(90* ticks)
  25: 0x041C [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [EventEntity, EventEntity], work=20*
  26: 0x042B [0x1C] WAIT(30* ticks)
- 27: 0x042E [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8739*]:
+ 27: 0x042E [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8740*]:
     → "Ah, the corsairs... Those were the days..."
  28: 0x0435 [0x23] WAIT_FOR_DIALOG_INTERACTION
  29: 0x0436 [0x52] END_LOAD_SCHEDULER: End scheduler "u007" with entities [LocalPlayer, LocalPlayer], work=283*
  30: 0x0445 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u008" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  31: 0x0456 [0x1C] WAIT(30* ticks)
- 32: 0x0459 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8740*]:
+ 32: 0x0459 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8741*]:
     → "Qultada and I had many a disagreement on that ship. I used to have more of a temper."
  33: 0x0460 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 34: 0x0461 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8741*]:
+ 34: 0x0461 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8742*]:
     → "I thought we should stop hounding the Empire."
  35: 0x0468 [0x23] WAIT_FOR_DIALOG_INTERACTION
  36: 0x0469 [0x1C] WAIT(30* ticks)
- 37: 0x046C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8742*]:
+ 37: 0x046C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8743*]:
     → "I often disagreed with his methods, and eventually left the Phratrie because of it."
  38: 0x0473 [0x23] WAIT_FOR_DIALOG_INTERACTION
  39: 0x0474 [0x52] END_LOAD_SCHEDULER: End scheduler "u008" with entities [LocalPlayer, LocalPlayer], work=283*
  40: 0x0483 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u009" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  41: 0x0494 [0x1C] WAIT(60* ticks)
  42: 0x0497 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [EventEntity, EventEntity], work=20*
- 43: 0x04A6 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8743*]:
+ 43: 0x04A6 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8744*]:
     → "Now that I am here on land, though, I am starting to understand his ideas, too. I have had a lot to think about..."
  44: 0x04AD [0x23] WAIT_FOR_DIALOG_INTERACTION
  45: 0x04AE [0x1C] WAIT(30* ticks)
  46: 0x04B1 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
- 47: 0x04C0 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8744*]:
+ 47: 0x04C0 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8745*]:
     → "It seems to me that a captain is a lot like the sea breeze..."
  48: 0x04C7 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 49: 0x04C8 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8745*]:
+ 49: 0x04C8 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8746*]:
     → "Leading a storm of a crew... Pressing ever forward over the seas..."
  50: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x04D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=20*
@@ -621,30 +621,30 @@ SUBROUTINE_010B:
  53: 0x04E2 [0x52] END_LOAD_SCHEDULER: End scheduler "u009" with entities [LocalPlayer, LocalPlayer], work=283*
  54: 0x04F1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u010" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  55: 0x0502 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std0" with entities [EventEntity, EventEntity], work=66*
- 56: 0x0511 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8746*]:
+ 56: 0x0511 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8747*]:
     → "You know Qultada, so you must know what I mean."
  57: 0x0518 [0x23] WAIT_FOR_DIALOG_INTERACTION
  58: 0x0519 [0x1C] WAIT(60* ticks)
- 59: 0x051C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8747*]:
+ 59: 0x051C [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8748*]:
     → "That man can be like a hurricane..."
  60: 0x0523 [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x0524 [0x1C] WAIT(30* ticks)
  62: 0x0527 [0x52] END_LOAD_SCHEDULER: End scheduler "u010" with entities [LocalPlayer, LocalPlayer], work=283*
  63: 0x0536 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u011" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  64: 0x0547 [0x1C] WAIT(30* ticks)
- 65: 0x054A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8748*]:
+ 65: 0x054A [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8749*]:
     → "When you came to visit me the other day, I felt the same qualities in you."
  66: 0x0551 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 67: 0x0552 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8749*]:
+ 67: 0x0552 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8750*]:
     → "Such memories make me long to return to life on the endless waves..."
  68: 0x0559 [0x23] WAIT_FOR_DIALOG_INTERACTION
  69: 0x055A [0x52] END_LOAD_SCHEDULER: End scheduler "u011" with entities [LocalPlayer, LocalPlayer], work=283*
  70: 0x0569 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "u012" with entities [LocalPlayer, LocalPlayer], work=[283*, 0*]
  71: 0x057A [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "std1" with entities [EventEntity, EventEntity], work=66*
- 72: 0x0589 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8750*]:
+ 72: 0x0589 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8751*]:
     → "Please give everyone my blessings."
  73: 0x0590 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 74: 0x0591 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8751*]:
+ 74: 0x0591 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8752*]:
     → "I can no longer sail, but I have no doubt that you and your companions will shape a new path for the corsairs."
  75: 0x0598 [0x23] WAIT_FOR_DIALOG_INTERACTION
  76: 0x0599 [0x5D] SET_MUSIC_VOLUME(volume=60*, fade_time=0*)
@@ -685,7 +685,7 @@ SUBROUTINE_010B:
 ```
   0: 0x0602 [0x42] SET_CLI_EVENT_CANCEL_DATA()
   1: 0x0603 [0x03] Work_Zone[2] = 14522*
-  2: 0x0608 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8752*]:
+  2: 0x0608 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8753*]:
     → "Are you properly caring for your $0? Whenever you have the time, please tell me how things are going on the Aradjiah continent."
   3: 0x060F [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0610 [0x21] END_EVENT
@@ -713,10 +713,10 @@ SUBROUTINE_010B:
 
 ```
   0: 0x0612 [0x42] SET_CLI_EVENT_CANCEL_DATA()
-  1: 0x0613 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8753*]:
+  1: 0x0613 [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8754*]:
     → "I have been long separated from Aradjiah, but the smell of the sea is the same across Urhguum."
   2: 0x061A [0x23] WAIT_FOR_DIALOG_INTERACTION
-  3: 0x061B [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8754*]:
+  3: 0x061B [0x2B] Raqtibahl (ID: 17727621/0x010E8085) [8755*]:
     → "Whenever I close my eyes, my homeland spreads out before me as vividly as ever."
   4: 0x0622 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0623 [0x21] END_EVENT

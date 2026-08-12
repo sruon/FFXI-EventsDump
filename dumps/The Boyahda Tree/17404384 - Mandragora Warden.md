@@ -54,8 +54,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x1C17      |        7191 |
-|       1 | 0x1CBC      |        7356 |
+|       0 | 0x1C18      |        7192 |
+|       1 | 0x1CBD      |        7357 |
 |       2 | 0x00C8      |         200 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x003C      |          60 |
@@ -64,85 +64,85 @@
 |       7 | 0x0064      |         100 |
 |       8 | 0x00FB      |         251 |
 |       9 | 0x0078      |         120 |
-|      10 | 0x1CBE      |        7358 |
+|      10 | 0x1CBF      |        7359 |
 |      11 | 0x0050      |          80 |
 |      12 | 0x0003      |           3 |
 |      13 | 0x0008      |           8 |
-|      14 | 0x1CBF      |        7359 |
-|      15 | 0x1CC0      |        7360 |
+|      14 | 0x1CC0      |        7360 |
+|      15 | 0x1CC1      |        7361 |
 |      16 | 0x00C9      |         201 |
-|      17 | 0x1CC1      |        7361 |
-|      18 | 0x1CC2      |        7362 |
-|      19 | 0x1CC3      |        7363 |
-|      20 | 0x1CC4      |        7364 |
-|      21 | 0x1CC5      |        7365 |
-|      22 | 0x1CC6      |        7366 |
-|      23 | 0x1CC7      |        7367 |
-|      24 | 0x1CC8      |        7368 |
+|      17 | 0x1CC2      |        7362 |
+|      18 | 0x1CC3      |        7363 |
+|      19 | 0x1CC4      |        7364 |
+|      20 | 0x1CC5      |        7365 |
+|      21 | 0x1CC6      |        7366 |
+|      22 | 0x1CC7      |        7367 |
+|      23 | 0x1CC8      |        7368 |
+|      24 | 0x1CC9      |        7369 |
 |      25 | 0x0320      |         800 |
-|      26 | 0x1CC9      |        7369 |
-|      27 | 0x1CCA      |        7370 |
-|      28 | 0x1CCB      |        7371 |
-|      29 | 0x1CCC      |        7372 |
-|      30 | 0x1CCD      |        7373 |
+|      26 | 0x1CCA      |        7370 |
+|      27 | 0x1CCB      |        7371 |
+|      28 | 0x1CCC      |        7372 |
+|      29 | 0x1CCD      |        7373 |
+|      30 | 0x1CCE      |        7374 |
 |      31 | 0x00FE      |         254 |
-|      32 | 0x1CCE      |        7374 |
+|      32 | 0x1CCF      |        7375 |
 |      33 | 0x007F      |         127 |
-|      34 | 0x1CCF      |        7375 |
-|      35 | 0x1CD0      |        7376 |
-|      36 | 0x1CD1      |        7377 |
-|      37 | 0x1CD2      |        7378 |
-|      38 | 0x1CD3      |        7379 |
-|      39 | 0x1CD4      |        7380 |
+|      34 | 0x1CD0      |        7376 |
+|      35 | 0x1CD1      |        7377 |
+|      36 | 0x1CD2      |        7378 |
+|      37 | 0x1CD3      |        7379 |
+|      38 | 0x1CD4      |        7380 |
+|      39 | 0x1CD5      |        7381 |
 |      40 | 0x000A      |          10 |
 |      41 | 0x0001      |           1 |
-|      42 | 0x1CD5      |        7381 |
-|      43 | 0x1CD6      |        7382 |
+|      42 | 0x1CD6      |        7382 |
+|      43 | 0x1CD7      |        7383 |
 |      44 | 0x00F1      |         241 |
 |      45 | 0x000C      |          12 |
 |      46 | 0x01A6      |         422 |
-|      47 | 0x1CD7      |        7383 |
-|      48 | 0x1CD8      |        7384 |
-|      49 | 0x1CD9      |        7385 |
-|      50 | 0x1CDA      |        7386 |
+|      47 | 0x1CD8      |        7384 |
+|      48 | 0x1CD9      |        7385 |
+|      49 | 0x1CDA      |        7386 |
+|      50 | 0x1CDB      |        7387 |
 |      51 | 0x0806      |        2054 |
-|      52 | 0x1CDB      |        7387 |
+|      52 | 0x1CDC      |        7388 |
 |      53 | 0x0099      |         153 |
-|      54 | 0x1CDC      |        7388 |
-|      55 | 0x1CDD      |        7389 |
-|      56 | 0x1CDE      |        7390 |
-|      57 | 0x1CDF      |        7391 |
-|      58 | 0x1CE0      |        7392 |
+|      54 | 0x1CDD      |        7389 |
+|      55 | 0x1CDE      |        7390 |
+|      56 | 0x1CDF      |        7391 |
+|      57 | 0x1CE0      |        7392 |
+|      58 | 0x1CE1      |        7393 |
 |      59 | 0x0002      |           2 |
-|      60 | 0x1CE1      |        7393 |
-|      61 | 0x1CE2      |        7394 |
-|      62 | 0x1CE3      |        7395 |
+|      60 | 0x1CE2      |        7394 |
+|      61 | 0x1CE3      |        7395 |
+|      62 | 0x1CE4      |        7396 |
 |      63 | 0x0082      |         130 |
-|      64 | 0x1CE4      |        7396 |
-|      65 | 0x1CE5      |        7397 |
-|      66 | 0x1CE6      |        7398 |
-|      67 | 0x1CE7      |        7399 |
-|      68 | 0x1CE8      |        7400 |
-|      69 | 0x1CE9      |        7401 |
+|      64 | 0x1CE5      |        7397 |
+|      65 | 0x1CE6      |        7398 |
+|      66 | 0x1CE7      |        7399 |
+|      67 | 0x1CE8      |        7400 |
+|      68 | 0x1CE9      |        7401 |
+|      69 | 0x1CEA      |        7402 |
 |      70 | 0x0898      |        2200 |
-|      71 | 0x1CEA      |        7402 |
-|      72 | 0x1CEB      |        7403 |
-|      73 | 0x1CEC      |        7404 |
+|      71 | 0x1CEB      |        7403 |
+|      72 | 0x1CEC      |        7404 |
+|      73 | 0x1CED      |        7405 |
 |      74 | 0x0004      |           4 |
-|      75 | 0x1CED      |        7405 |
-|      76 | 0x1CEE      |        7406 |
-|      77 | 0x1CEF      |        7407 |
-|      78 | 0x1CF0      |        7408 |
-|      79 | 0x1CF1      |        7409 |
-|      80 | 0x1CF2      |        7410 |
-|      81 | 0x1CF3      |        7411 |
+|      75 | 0x1CEE      |        7406 |
+|      76 | 0x1CEF      |        7407 |
+|      77 | 0x1CF0      |        7408 |
+|      78 | 0x1CF1      |        7409 |
+|      79 | 0x1CF2      |        7410 |
+|      80 | 0x1CF3      |        7411 |
+|      81 | 0x1CF4      |        7412 |
 |      82 | 0x0005      |           5 |
-|      83 | 0x1CF4      |        7412 |
-|      84 | 0x1CF5      |        7413 |
-|      85 | 0x1CF6      |        7414 |
+|      83 | 0x1CF5      |        7413 |
+|      84 | 0x1CF6      |        7414 |
+|      85 | 0x1CF7      |        7415 |
 |      86 | 0x0006      |           6 |
-|      87 | 0x1CF7      |        7415 |
-|      88 | 0x1CF8      |        7416 |
+|      87 | 0x1CF8      |        7416 |
+|      88 | 0x1CF9      |        7417 |
 |      89 | 0x000D      |          13 |
 |      90 | 0x13EF6     |       81654 |
 |      91 | 0x21AE4     |      137956 |
@@ -166,9 +166,9 @@
 
 ## String References
 
-- **7191**: Pa!
-- **7356**: Pi...!
-- **7374**: What do you ask? [Why did the Cardians rise up against you?/What do you know about Joker?/Did you know that Joker is alive...?/What do you mean, "interesting"?/The forbidden ritual of the Manustery...?/Why do your children hate you?/I have no more questions.]
+- **7192**: Pa!
+- **7357**: Pi...!
+- **7375**: What do you ask? [Why did the Cardians rise up against you?/What do you know about Joker?/Did you know that Joker is alive...?/What do you mean, "interesting"?/The forbidden ritual of the Manustery...?/Why do your children hate you?/I have no more questions.]
 
 ## Events
 
@@ -214,7 +214,7 @@
 
 ```
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
-  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7191*)
+  1: 0x0006 [0x1D] PRINT_EVENT_MESSAGE(message_id=7192*)
     → "Pa!"
   2: 0x0009 [0x23] WAIT_FOR_DIALOG_INTERACTION
   3: 0x000A [0x21] END_EVENT
@@ -590,7 +590,7 @@
   0: 0x000C [0x20] SET_CLI_EVENT_UC_FLAG: Lock player control
   1: 0x000E [0x42] SET_CLI_EVENT_CANCEL_DATA()
   2: 0x000F [0x46] CAMERA_CONTROL: Disable user control
-  3: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7356*)
+  3: 0x0011 [0x1D] PRINT_EVENT_MESSAGE(message_id=7357*)
     → "Pi...!"
   4: 0x0014 [0x23] WAIT_FOR_DIALOG_INTERACTION
   5: 0x0015 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -613,7 +613,7 @@
  22: 0x00A3 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s063" with entities [EventEntity, EventEntity], work=[251*, 0*]
  23: 0x00B4 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x11)
  24: 0x00BB [0x7C] Zonpa-Zippa (ID: 17404399/0x010991EF)->Render.Flags2 |= 0x00
- 25: 0x00C1 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7358*]:
+ 25: 0x00C1 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7359*]:
     → "!?"
  26: 0x00C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
  27: 0x00C9 [0x7C] Zonpa-Zippa (ID: 17404399/0x010991EF)->Render.Flags2 |= 0x01
@@ -635,7 +635,7 @@
 
 SUBROUTINE_016F:
  43: 0x016F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
- 44: 0x0175 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7359*]:
+ 44: 0x0175 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7360*]:
     → "And who might you be?"
  45: 0x017C [0x23] WAIT_FOR_DIALOG_INTERACTION
  46: 0x017D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -653,7 +653,7 @@ SUBROUTINE_01DA:
  56: 0x01DA [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[251*, 0*]
  57: 0x01EB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
  58: 0x01FC [0x4A] LocalPlayer looks at Zonpa-Zippa (ID: 17404399/0x010991EF)
- 59: 0x0205 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7360*]:
+ 59: 0x0205 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7361*]:
     → "You were wondering the same thing about me? Well then, allow me to introduce myself."
  60: 0x020C [0x23] WAIT_FOR_DIALOG_INTERACTION
  61: 0x020D [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
@@ -663,35 +663,35 @@ SUBROUTINE_01DA:
  65: 0x0233 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
  66: 0x0244 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s068" with entities [EventEntity, EventEntity], work=[251*, 0*]
  67: 0x0255 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
- 68: 0x025C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7361*]:
+ 68: 0x025C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7362*]:
     → "I am the illustrious-wustrious Zonpa-Zippa, marvelous Minister of the Manustery, and respected academic of the magical city of Windurst."
  69: 0x0263 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x0264 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
  71: 0x026B [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x05)
- 72: 0x0272 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7362*]:
+ 72: 0x0272 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7363*]:
     → "I am the eminentaru, brilliantaru, and might I add, quite dashingly handsome Tarutaru responsible for Windurst's great victory twenty years ago."
  73: 0x0279 [0x23] WAIT_FOR_DIALOG_INTERACTION
  74: 0x027A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x06)
  75: 0x0281 [0x52] END_LOAD_SCHEDULER: End scheduler "s068" with entities [EventEntity, EventEntity], work=251*
  76: 0x0290 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[251*, 0*]
  77: 0x02A1 [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x14)
- 78: 0x02A8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7363*]:
+ 78: 0x02A8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7364*]:
     → "You mightaru well ask what an unparalleled paragon of perfection such as myself would be doing in a place like this."
  79: 0x02AF [0x23] WAIT_FOR_DIALOG_INTERACTION
- 80: 0x02B0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7364*]:
+ 80: 0x02B0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7365*]:
     → "During the confusion of the Great War, I was abductarued by the Cardians, magical constructs of war, and brought to this place. I have been kept prisoner here ever since."
  81: 0x02B7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  82: 0x02B8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
  83: 0x02BE [0x4A] Zonpa-Zippa (ID: 17404399/0x010991EF) looks at LocalPlayer
  84: 0x02C7 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
  85: 0x02C8 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
- 86: 0x02CD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7365*]:
+ 86: 0x02CD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7366*]:
     → "Do not make any hasty-wasty assumptions! I have merely been playing the role of detainee in order to take advantage of the situation for research purposes."
  87: 0x02D4 [0x23] WAIT_FOR_DIALOG_INTERACTION
  88: 0x02D5 [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=251*
  89: 0x02E4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s084" with entities [EventEntity, EventEntity], work=[251*, 0*]
  90: 0x02F5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
- 91: 0x02FC [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7366*]:
+ 91: 0x02FC [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7367*]:
     → "...I do wonder, however, how my poor Windurst fares without her favorite minister. If indeed you have come to rescue me, perhaps there is something I can do to help you...?"
  92: 0x0303 [0x23] WAIT_FOR_DIALOG_INTERACTION
  93: 0x0304 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -703,13 +703,13 @@ SUBROUTINE_01DA:
  99: 0x033C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
 100: 0x0343 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[251*, 0*]
 101: 0x0354 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-102: 0x0365 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7367*]:
+102: 0x0365 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7368*]:
     → "...Hrmm, is that so? You've come at the behest of my little Apururu, have you? I mustaru say I'm surprised that my daughter has ascended to the head of the Manustery."
 103: 0x036C [0x23] WAIT_FOR_DIALOG_INTERACTION
 104: 0x036D [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=251*
 105: 0x037C [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [EventEntity, EventEntity], work=[251*, 0*]
 106: 0x038D [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0B)
-107: 0x0394 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7368*]:
+107: 0x0394 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7369*]:
     → "But are the Cardians contentaru to follow her orders? My daughter has a habitaru of instilling too much individuality into them."
 108: 0x039B [0x23] WAIT_FOR_DIALOG_INTERACTION
 109: 0x039C [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
@@ -718,11 +718,11 @@ SUBROUTINE_01DA:
 112: 0x03C3 [0x4B] UPDATE_ENTITY_YAW(entity=Zonpa-Zippa (ID: 17404399/0x010991EF), yaw=4.4°*)
 113: 0x03CA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 114: 0x03CB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
-115: 0x03D0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7369*]:
+115: 0x03D0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7370*]:
     → "The Cardians were created to perform tasks that are too physically strenuous or dangerous for Tarutaru."
 116: 0x03D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 117: 0x03D8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-118: 0x03DF [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7370*]:
+118: 0x03DF [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7371*]:
     → "If they are given too much knowledge, they become muddle-wuddled and confused. The black and white world of what they should and shouldn't do becomes stained with shades of gray."
 119: 0x03E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 120: 0x03E7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x08)
@@ -730,7 +730,7 @@ SUBROUTINE_01DA:
 122: 0x03FD [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x0B)
 123: 0x0404 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s071" with entities [EventEntity, EventEntity], work=[251*, 0*]
 124: 0x0415 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x05)
-125: 0x041C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7371*]:
+125: 0x041C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7372*]:
     → "Abducting their creator, me, the great Zonpa-Zippa, and dumping me in this Outlands jail is simply unforgivable!"
 126: 0x0423 [0x23] WAIT_FOR_DIALOG_INTERACTION
 127: 0x0424 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x06)
@@ -749,7 +749,7 @@ SUBROUTINE_0489:
 138: 0x0492 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 139: 0x0493 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
 140: 0x0498 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x09)
-141: 0x049F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7372*]:
+141: 0x049F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7373*]:
     → "...... I seem to have drifted off the pointaru slightly. You said you had some questions for me from Apururu?"
 142: 0x04A6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 143: 0x04A7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
@@ -757,7 +757,7 @@ SUBROUTINE_0489:
 145: 0x04B5 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)
 146: 0x04BA [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
 147: 0x04C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x01)
-148: 0x04C8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7373*]:
+148: 0x04C8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7374*]:
     → "Ask anything you like. Let me remind you that I, the renowned Zonpa-Zippa, am the genius who gave Windurst the awesome-warsome power of the Cardians. The question does not exist that I cannot answer!"
 149: 0x04CF [0x23] WAIT_FOR_DIALOG_INTERACTION
 150: 0x04D0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x02)
@@ -776,7 +776,7 @@ SUBROUTINE_051A:
 
 SUBROUTINE_0529:
 161: 0x0529 [0x02] IF !(ExtData[1]->WorkLocal[2] == 0*) GOTO 0x14A6
-162: 0x0531 [0x24] CREATE_DIALOG(message_id=7374*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[0])
+162: 0x0531 [0x24] CREATE_DIALOG(message_id=7375*, default_option=ExtData[1]->WorkLocal[1], option_flags=ExtData[1]->WorkLocal[0])
     → "What do you ask? [Why did the Cardians rise up against you?/What do you know about Joker?/Did you know that Joker is alive...?/What do you mean, "interesting"?/The forbidden ritual of the Manustery...?/Why do your children hate you?/I have no more questions.]"
 163: 0x0538 [0x25] WAIT_DIALOG_SELECT()
 164: 0x0539 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x07A1
@@ -784,12 +784,12 @@ SUBROUTINE_0529:
 166: 0x0545 [0x5C] MUSIC_CONTROL: Set Idle (Night) music to song 127*
 167: 0x0549 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[251*, 0*]
 168: 0x055A [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x14)
-169: 0x0561 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7375*]:
+169: 0x0561 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7376*]:
     → "That was my one and only grand-slam mistake!"
 170: 0x0568 [0x23] WAIT_FOR_DIALOG_INTERACTION
 171: 0x0569 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
 172: 0x056F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-173: 0x0576 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7376*]:
+173: 0x0576 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7377*]:
     → "Instilled in the Cardians is an absolute sense of duty to their "master." If I had justaru set them to obey only myself as their master, then none of this would have happened."
 174: 0x057D [0x23] WAIT_FOR_DIALOG_INTERACTION
 175: 0x057E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x08)
@@ -797,12 +797,12 @@ SUBROUTINE_0529:
 177: 0x0594 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 178: 0x05A5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s073" with entities [EventEntity, EventEntity], work=[251*, 0*]
 179: 0x05B6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
-180: 0x05BD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7377*]:
+180: 0x05BD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7378*]:
     → "However, it became necessary for me to create a Cardian army."
 181: 0x05C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 182: 0x05C5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
 183: 0x05CC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x09)
-184: 0x05D3 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7378*]:
+184: 0x05D3 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7379*]:
     → "Within that army, the lesser Cardians needed to heed the orders of their higher-numbered counterparts."
 185: 0x05DA [0x23] WAIT_FOR_DIALOG_INTERACTION
 186: 0x05DB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
@@ -819,7 +819,7 @@ SUBROUTINE_063A:
 195: 0x063A [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0B)
 196: 0x0641 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
 197: 0x0648 [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x16)
-198: 0x064F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7379*]:
+198: 0x064F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7380*]:
     → "And so, with the higher-ranked Cardians acting as "masters" for the rank-and-file, I set myself, the splendiferous Zonpa-Zippa, as commander of the Ace Cardians."
 199: 0x0656 [0x23] WAIT_FOR_DIALOG_INTERACTION
 200: 0x0657 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
@@ -834,7 +834,7 @@ SUBROUTINE_063A:
 SUBROUTINE_06A0:
 208: 0x06A0 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[251*, 0*]
 209: 0x06B1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
-210: 0x06B8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7380*]:
+210: 0x06B8 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7381*]:
     → "But it was that very system that invited the disaster-waster that occurred."
 211: 0x06BF [0x23] WAIT_FOR_DIALOG_INTERACTION
 212: 0x06C0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
@@ -867,14 +867,14 @@ SUBROUTINE_0779:
 235: 0x079E [0x01] GOTO 0x14A3
 236: 0x07A1 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0C87
 237: 0x07A9 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s100" with entities [EventEntity, EventEntity], work=[251*, 0*]
-238: 0x07BA [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7381*]:
+238: 0x07BA [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7382*]:
     → "Joker!?"
 239: 0x07C1 [0x23] WAIT_FOR_DIALOG_INTERACTION
 240: 0x07C2 [0x52] END_LOAD_SCHEDULER: End scheduler "s100" with entities [EventEntity, EventEntity], work=251*
 241: 0x07D1 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 242: 0x07E2 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s075" with entities [EventEntity, EventEntity], work=[251*, 0*]
 243: 0x07F3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x09)
-244: 0x07FA [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7382*]:
+244: 0x07FA [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7383*]:
     → "Now there's a name I haven'taru heard in a while... It's been what, twenty years? Joker was a creation of the Optistery minister, Karaha-Baruha."
 245: 0x0801 [0x23] WAIT_FOR_DIALOG_INTERACTION
 246: 0x0802 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
@@ -909,10 +909,10 @@ SUBROUTINE_0779:
 275: 0x08B5 [0x52] END_LOAD_SCHEDULER: End scheduler "s075" with entities [EventEntity, EventEntity], work=251*
 276: 0x08C4 [0x27] REQ_SET(priority=0x0B, entity_id=LocalPlayer, tag_num=0x0F)
 277: 0x08CB [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-278: 0x08DC [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7383*]:
+278: 0x08DC [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7384*]:
     → "Twenty years ago, Karaha-Baruha was conducting research in the magic towers of the Horutoto Ruins."
 279: 0x08E3 [0x23] WAIT_FOR_DIALOG_INTERACTION
-280: 0x08E4 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7384*]:
+280: 0x08E4 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7385*]:
     → "One day he came to me, the magnificent Zonpa-Zippa, to request several powerful, intelligent Cardians to aid in the construction of a super-special magical gizmo."
 281: 0x08EB [0x23] WAIT_FOR_DIALOG_INTERACTION
 282: 0x08EC [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
@@ -920,7 +920,7 @@ SUBROUTINE_0779:
 284: 0x0901 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "ovl1" with entities [LocalPlayer, LocalPlayer], work=[200*, 0*]
 285: 0x0912 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s077" with entities [LocalPlayer, LocalPlayer], work=[251*, 0*]
 286: 0x0923 [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x18)
-287: 0x092A [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7385*]:
+287: 0x092A [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7386*]:
     → "In response to his request, I reprogrammed the Ace Cardians to treat Karaha-Baruha as their master."
 288: 0x0931 [0x23] WAIT_FOR_DIALOG_INTERACTION
 289: 0x0932 [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
@@ -930,7 +930,7 @@ SUBROUTINE_0779:
 293: 0x0948 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
 294: 0x094D [0x27] REQ_SET(priority=0x0B, entity_id=Karaha-Baruha (ID: 17404400/0x010991F0), tag_num=0x04)
 295: 0x0954 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x01)
-296: 0x095B [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7386*]:
+296: 0x095B [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7387*]:
     → "Karaha-Baruha then proceeded to build his "Joker," using the Ace Cardians as a template to steal my design."
 297: 0x0962 [0x23] WAIT_FOR_DIALOG_INTERACTION
 298: 0x0963 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x02)
@@ -947,7 +947,7 @@ SUBROUTINE_0779:
 309: 0x09BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Spare Two (ID: 17404402/0x010991F2), tag_num=0x04)
 310: 0x09C3 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Spare Zero (ID: 17404401/0x010991F1), tag_num=0x04)
 311: 0x09CA [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
-312: 0x09D0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7387*]:
+312: 0x09D0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7388*]:
     → "Once his work was completarued, he ordered the Ace Cardians to follow his creation as their new master, and set Joker with the task of running the magical gizmos in the towers!"
 313: 0x09D7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 314: 0x09D8 [0x35] LOAD_ZONE_NO_CLOSE(zone_id=153*)
@@ -971,7 +971,7 @@ SUBROUTINE_0779:
 332: 0x0A36 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
 333: 0x0A3D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=[251*, 0*]
 334: 0x0A4E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
-335: 0x0A5F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7388*]:
+335: 0x0A5F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7389*]:
     → "However, the Great War claimed Karaha-Baruha's life... And with the death of its creator, Joker, too, passed into oblivion..."
 336: 0x0A66 [0x23] WAIT_FOR_DIALOG_INTERACTION
 337: 0x0A67 [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [LocalPlayer, LocalPlayer], work=251*
@@ -986,12 +986,12 @@ SUBROUTINE_0779:
 
 SUBROUTINE_0AD0:
 346: 0x0AD0 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0B)
-347: 0x0AD7 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7389*]:
+347: 0x0AD7 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7390*]:
     → "With the passing of a creator, the magic weaved into a doll becomes unraveled, and the Cardian follows its master into death."
 348: 0x0ADE [0x23] WAIT_FOR_DIALOG_INTERACTION
 349: 0x0ADF [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
 350: 0x0AE6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-351: 0x0AED [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7390*]:
+351: 0x0AED [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7391*]:
     → "But for the Ace Cardians, Joker's death presented them with a situation they'd never-ever had to deal with before: existence without a master."
 352: 0x0AF4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 353: 0x0AF5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x08)
@@ -1006,7 +1006,7 @@ SUBROUTINE_0AD0:
 SUBROUTINE_0B3F:
 361: 0x0B3F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[251*, 0*]
 362: 0x0B50 [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x16)
-363: 0x0B57 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7391*]:
+363: 0x0B57 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7392*]:
     → "The Aces eventually decided that if they could somehow bring Joker back to life, then their dilemma would be solved."
 364: 0x0B5E [0x23] WAIT_FOR_DIALOG_INTERACTION
 365: 0x0B5F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
@@ -1016,7 +1016,7 @@ SUBROUTINE_0B3F:
 369: 0x0B96 [0x4A] Zonpa-Zippa (ID: 17404399/0x010991EF) looks at LocalPlayer
 370: 0x0B9F [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 371: 0x0BA0 [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
-372: 0x0BA5 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7392*]:
+372: 0x0BA5 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7393*]:
     → "Those presumptuous puppets are so convinced their destiny lies in resurrecting Joker, they had the nerve to lock me, the amazing Zonpa-Zippa, in a place like this."
 373: 0x0BAC [0x23] WAIT_FOR_DIALOG_INTERACTION
 374: 0x0BAD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1048,29 +1048,29 @@ SUBROUTINE_0C5F:
 396: 0x0C84 [0x01] GOTO 0x14A3
 397: 0x0C87 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0E23
 398: 0x0C8F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[251*, 0*]
-399: 0x0CA0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7393*]:
+399: 0x0CA0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7394*]:
     → "Great blazing behemoths! Are you telling me the Cardians have already found where Joker lay hidden!?"
 400: 0x0CA7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 401: 0x0CA8 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=251*
 402: 0x0CB7 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s079" with entities [EventEntity, EventEntity], work=[251*, 0*]
 403: 0x0CC8 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x09)
-404: 0x0CCF [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7394*]:
+404: 0x0CCF [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7395*]:
     → "I thoughtaru something was up when they stopped coming by to check on me..."
 405: 0x0CD6 [0x23] WAIT_FOR_DIALOG_INTERACTION
 406: 0x0CD7 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
-407: 0x0CDE [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7395*]:
+407: 0x0CDE [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7396*]:
     → "...Wait, wait, wait. Even if they had found Joker, no amountaru of the usual, garden-variety Mana Orbs would have been enough to revive him. Who...? How...?"
 408: 0x0CE5 [0x23] WAIT_FOR_DIALOG_INTERACTION
 409: 0x0CE6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 410: 0x0CF7 [0x1C] WAIT(130* ticks)
 411: 0x0CFA [0x52] END_LOAD_SCHEDULER: End scheduler "s079" with entities [EventEntity, EventEntity], work=251*
-412: 0x0D09 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7396*]:
+412: 0x0D09 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7397*]:
     → "(Surely not... When the Yagudo stole...?)"
 413: 0x0D10 [0x23] WAIT_FOR_DIALOG_INTERACTION
 414: 0x0D11 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[251*, 0*]
 415: 0x0D22 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 416: 0x0D33 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0B)
-417: 0x0D3A [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7397*]:
+417: 0x0D3A [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7398*]:
     → "Ahem. Well, in any event, the revival of a dead Cardian will mean things have become interesting indeed!"
 418: 0x0D41 [0x23] WAIT_FOR_DIALOG_INTERACTION
 419: 0x0D42 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
@@ -1104,20 +1104,20 @@ SUBROUTINE_0DFB:
 443: 0x0E23 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x0FE7
 444: 0x0E2B [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s070" with entities [EventEntity, EventEntity], work=[251*, 0*]
 445: 0x0E3C [0x1C] WAIT(60* ticks)
-446: 0x0E3F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7398*]:
+446: 0x0E3F [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7399*]:
     → "......"
 447: 0x0E46 [0x23] WAIT_FOR_DIALOG_INTERACTION
-448: 0x0E47 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7399*]:
+448: 0x0E47 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7400*]:
     → "Right, then. I'm only going to say this once, so make sure that melon you have on your shoulders is switched on."
 449: 0x0E4E [0x23] WAIT_FOR_DIALOG_INTERACTION
 450: 0x0E4F [0x52] END_LOAD_SCHEDULER: End scheduler "s070" with entities [EventEntity, EventEntity], work=251*
 451: 0x0E5E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s069" with entities [EventEntity, EventEntity], work=[251*, 0*]
 452: 0x0E6F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
-453: 0x0E76 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7400*]:
+453: 0x0E76 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7401*]:
     → "There is an unbreakable law that accompanies the art of imbuing an inanimate object with life and will--the death of the creator will result in the loss of the objects' animating force."
 454: 0x0E7D [0x23] WAIT_FOR_DIALOG_INTERACTION
 455: 0x0E7E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
-456: 0x0E85 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7401*]:
+456: 0x0E85 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7402*]:
     → "And in accordance with that law..."
 457: 0x0E8C [0x23] WAIT_FOR_DIALOG_INTERACTION
 458: 0x0E8D [0x52] END_LOAD_SCHEDULER: End scheduler "s069" with entities [EventEntity, EventEntity], work=251*
@@ -1125,12 +1125,12 @@ SUBROUTINE_0DFB:
 460: 0x0EA3 [0x4B] UPDATE_ENTITY_YAW(entity=Zonpa-Zippa (ID: 17404399/0x010991EF), yaw=12.1°*)
 461: 0x0EAA [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
 462: 0x0EAB [0x76] CHECK_ENTITY_RENDER_FLAGS: Wait until Zonpa-Zippa (ID: 17404399/0x010991EF) Render.Flags0 and Render.Flags3 conditions are met
-463: 0x0EB0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7402*]:
+463: 0x0EB0 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7403*]:
     → "The deceased object must never be brought back to life. This act will call back the creator from Death's dark hall."
 464: 0x0EB7 [0x23] WAIT_FOR_DIALOG_INTERACTION
 465: 0x0EB8 [0x2A] GET_REQ_LEVEL(level=11, entity_id=LocalPlayer)
 466: 0x0EBE [0x52] END_LOAD_SCHEDULER: End scheduler "s080" with entities [EventEntity, EventEntity], work=251*
-467: 0x0ECD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7403*]:
+467: 0x0ECD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7404*]:
     → "The conclusion is obvious, isn't it?"
 468: 0x0ED4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 469: 0x0ED5 [0x4A] Zonpa-Zippa (ID: 17404399/0x010991EF) looks at LocalPlayer
@@ -1139,7 +1139,7 @@ SUBROUTINE_0DFB:
 472: 0x0EE4 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[251*, 0*]
 473: 0x0EF5 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdi1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 474: 0x0F06 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-475: 0x0F0D [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7404*]:
+475: 0x0F0D [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7405*]:
     → "When Joker was resurrectarued, Karaha-Baruha was also dragged back into the world of the living."
 476: 0x0F14 [0x23] WAIT_FOR_DIALOG_INTERACTION
 477: 0x0F15 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
@@ -1172,36 +1172,36 @@ SUBROUTINE_0FBF:
 500: 0x0FE7 [0x02] IF !(Work_Zone[0] == 4*) GOTO 0x1255
 501: 0x0FEF [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s067" with entities [EventEntity, EventEntity], work=[251*, 0*]
 502: 0x1000 [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x14)
-503: 0x1007 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7405*]:
+503: 0x1007 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7406*]:
     → "Hrmm. In layman's terms, the forbidden ritual of the Manustery is referred to as the "Legend of the Magic Doll." The long-ago tale of a mage plunging Windurst into catastra-disastrophe by using the ritual is still famous today."
 504: 0x100E [0x23] WAIT_FOR_DIALOG_INTERACTION
 505: 0x100F [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
 506: 0x1015 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-507: 0x101C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7406*]:
+507: 0x101C [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7407*]:
     → "However, this now-forbidden practice was a marvelous magic originally inventarued for the protection of Windurst. The tale I just mentioned was simply an example of abusing the power the ritual brings."
 508: 0x1023 [0x23] WAIT_FOR_DIALOG_INTERACTION
 509: 0x1024 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x08)
 510: 0x102B [0x52] END_LOAD_SCHEDULER: End scheduler "s067" with entities [EventEntity, EventEntity], work=251*
 511: 0x103A [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s066" with entities [EventEntity, EventEntity], work=[251*, 0*]
 512: 0x104B [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x19)
-513: 0x1052 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7407*]:
+513: 0x1052 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7408*]:
     → "There is still the story of how the original weaver of this art returned from the dead to defend Windurst after his magic doll was resurrected..."
 514: 0x1059 [0x23] WAIT_FOR_DIALOG_INTERACTION
 515: 0x105A [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
 516: 0x1060 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
-517: 0x1067 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7408*]:
+517: 0x1067 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7409*]:
     → "Of course, this magic is not a recipe for immortality. It relies on the principle of calling on the lifeforce that lies dormantaru in the doll after the creator has died."
 518: 0x106E [0x23] WAIT_FOR_DIALOG_INTERACTION
 519: 0x106F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
 520: 0x1076 [0x52] END_LOAD_SCHEDULER: End scheduler "s066" with entities [EventEntity, EventEntity], work=251*
 521: 0x1085 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[251*, 0*]
-522: 0x1096 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7409*]:
+522: 0x1096 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7410*]:
     → "To sum things up, this ritual requires the mage to store a portion-wortion of his life into the doll while he is still alive... Do you understand?"
 523: 0x109D [0x23] WAIT_FOR_DIALOG_INTERACTION
 524: 0x109E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "fdo1" with entities [EventEntity, EventEntity], work=[200*, 0*]
 525: 0x10AF [0x1C] WAIT(60* ticks)
 526: 0x10B2 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x09)
-527: 0x10B9 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7410*]:
+527: 0x10B9 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7411*]:
     → "Hmm? And then, you ask...?"
 528: 0x10C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
 529: 0x10C1 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0A)
@@ -1217,7 +1217,7 @@ SUBROUTINE_0FBF:
 
 SUBROUTINE_1131:
 539: 0x1131 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0B)
-540: 0x1138 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7411*]:
+540: 0x1138 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7412*]:
     → "... This is not a subject for idle-widle adventurers' ears. Apururu should already be well-versed on the practice."
 541: 0x113F [0x23] WAIT_FOR_DIALOG_INTERACTION
 542: 0x1140 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x0C)
@@ -1267,12 +1267,12 @@ SUBROUTINE_122D:
 
 SUBROUTINE_12A6:
 580: 0x12A6 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
-581: 0x12AD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7412*]:
+581: 0x12AD [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7413*]:
     → "My children hate me, the celebrated Zonpa-Zippa? What are you talking aboutaru?"
 582: 0x12B4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 583: 0x12B5 [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x07)
 584: 0x12BC [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x03)
-585: 0x12C3 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7413*]:
+585: 0x12C3 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7414*]:
     → "Ajido-Marujido and Apururu have absolutaruly no reason to hate me."
 586: 0x12CA [0x23] WAIT_FOR_DIALOG_INTERACTION
 587: 0x12CB [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x04)
@@ -1296,7 +1296,7 @@ SUBROUTINE_1315:
 
 SUBROUTINE_136F:
 603: 0x136F [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x01)
-604: 0x1376 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7414*]:
+604: 0x1376 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7415*]:
     → "How could they possibly despise a brilliantaru father who saved their fair country from disaster? Ahahaha!"
 605: 0x137D [0x23] WAIT_FOR_DIALOG_INTERACTION
 606: 0x137E [0x29] REQ_SET_WAIT(priority=0x08, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x02)
@@ -1344,7 +1344,7 @@ SUBROUTINE_14A3:
 640: 0x14A6 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s074" with entities [EventEntity, EventEntity], work=[251*, 0*]
 641: 0x14B7 [0x92] Zonpa-Zippa (ID: 17404399/0x010991EF)->Render.Flags3 ^= 0x01
 642: 0x14BD [0x27] REQ_SET(priority=0x0B, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF), tag_num=0x1A)
-643: 0x14C4 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7415*]:
+643: 0x14C4 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7416*]:
     → "Just a momentaru. This may have been a bit much for you to absorb, so let me write it in a letter for you to give to Apururu."
 644: 0x14CB [0x23] WAIT_FOR_DIALOG_INTERACTION
 645: 0x14CC [0x2A] GET_REQ_LEVEL(level=11, entity_id=Zonpa-Zippa (ID: 17404399/0x010991EF))
@@ -1359,7 +1359,7 @@ SUBROUTINE_14A3:
 654: 0x151F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "s065" with entities [EventEntity, EventEntity], work=[251*, 0*]
 
 SUBROUTINE_1530:
-655: 0x1530 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7416*]:
+655: 0x1530 [0x2B] Zonpa-Zippa (ID: 17404399/0x010991EF) [7417*]:
     → "Give my regards to my children. Tell them this: If there ever comes a time when they need my help, don'taru hesitate to ask."
 656: 0x1537 [0x23] WAIT_FOR_DIALOG_INTERACTION
 657: 0x1538 [0x5D] SET_MUSIC_VOLUME(volume=0*, fade_time=200*)

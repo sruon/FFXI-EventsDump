@@ -22,9 +22,9 @@
 |---------|-------------|-------------|
 |       0 | 0x001E      |          30 |
 |       1 | 0x0031      |          49 |
-|       2 | 0x1FF2      |        8178 |
-|       3 | 0x1FF3      |        8179 |
-|       4 | 0x1FF4      |        8180 |
+|       2 | 0x1FF3      |        8179 |
+|       3 | 0x1FF4      |        8180 |
+|       4 | 0x1FF5      |        8181 |
 
 ## Events
 
@@ -76,13 +76,13 @@
   0: 0x0001 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0006 [0x1C] WAIT(30* ticks)
   2: 0x0009 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=49*
-  3: 0x0018 [0x2B] EventEntity [8178*]:
+  3: 0x0018 [0x2B] EventEntity [8179*]:
     → "Our path is lit by yon brilliant star, Many on the long journey embark. Guided true by that celestial spark, To find a timeless green that can know no dark."
   4: 0x001F [0x23] WAIT_FOR_DIALOG_INTERACTION
-  5: 0x0020 [0x2B] EventEntity [8179*]:
+  5: 0x0020 [0x2B] EventEntity [8180*]:
     → "Oh, the six points of yon shining star, even the raging of beasts shall slake. In the south heavens glows a pearly lake, traverses the sky and leaves an azure wake."
   6: 0x0027 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  7: 0x0028 [0x2B] EventEntity [8180*]:
+  7: 0x0028 [0x2B] EventEntity [8181*]:
     → "Hm? Oh, that's just an old song my grandmother taught me. It's supposed to be about the Horutoto Ruins, if I remember."
   8: 0x002F [0x23] WAIT_FOR_DIALOG_INTERACTION
   9: 0x0030 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [EventEntity, EventEntity], work=49*

@@ -32,8 +32,8 @@
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
 |       0 | 0x0014      |          20 |
-|       1 | 0x2104      |        8452 |
-|       2 | 0x2103      |        8451 |
+|       1 | 0x2105      |        8453 |
+|       2 | 0x2104      |        8452 |
 |       3 | 0x0000      |           0 |
 |       4 | 0x0001      |           1 |
 |       5 | 0x40000000  |  1073741824 |
@@ -70,8 +70,8 @@
 
 ## String References
 
-- **8451**: Send an item? [Send something./No, thanks.]
-- **8452**: Parcels delivered to rooms anywhere in Vana'diel!
+- **8452**: Send an item? [Send something./No, thanks.]
+- **8453**: Parcels delivered to rooms anywhere in Vana'diel!
 
 ## Events
 
@@ -124,11 +124,11 @@
   1: 0x0006 [0x6F] WAIT_FRAME_DELAY: Yield until WaitTime reaches zero
   2: 0x0007 [0x70] WAIT_ENTITY_RENDER_FLAG: Wait while EventEntity->Render.Flags3 bit 2 is set (cancel turn if not)
   3: 0x0008 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [EventEntity, EventEntity], work=20*
-  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8452*)
+  4: 0x0017 [0x1D] PRINT_EVENT_MESSAGE(message_id=8453*)
     → "Parcels delivered to rooms anywhere in Vana'diel!"
   5: 0x001A [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x001B [0x5E] EventEntity goes idle (kills current action) (animation: "idl0")
-  7: 0x0020 [0x24] CREATE_DIALOG(message_id=8451*, default_option=0*, option_flags=0*)
+  7: 0x0020 [0x24] CREATE_DIALOG(message_id=8452*, default_option=0*, option_flags=0*)
     → "Send an item? [Send something./No, thanks.]"
   8: 0x0027 [0x25] WAIT_DIALOG_SELECT()
   9: 0x0028 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0038

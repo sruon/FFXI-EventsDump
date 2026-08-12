@@ -35,41 +35,41 @@
 |       7 | 0x003C      |          60 |
 |       8 | 0x013B      |         315 |
 |       9 | 0x00B6      |         182 |
-|      10 | 0x1DAA      |        7594 |
+|      10 | 0x1DAB      |        7595 |
 |      11 | 0x000F      |          15 |
 |      12 | 0x0031      |          49 |
-|      13 | 0x1DAB      |        7595 |
-|      14 | 0x1DAC      |        7596 |
-|      15 | 0x1DAD      |        7597 |
-|      16 | 0x1DAE      |        7598 |
-|      17 | 0x1DAF      |        7599 |
+|      13 | 0x1DAC      |        7596 |
+|      14 | 0x1DAD      |        7597 |
+|      15 | 0x1DAE      |        7598 |
+|      16 | 0x1DAF      |        7599 |
+|      17 | 0x1DB0      |        7600 |
 |      18 | 0x0004      |           4 |
-|      19 | 0x1DB0      |        7600 |
-|      20 | 0x1DB1      |        7601 |
-|      21 | 0x1DB2      |        7602 |
-|      22 | 0x1DB4      |        7604 |
+|      19 | 0x1DB1      |        7601 |
+|      20 | 0x1DB2      |        7602 |
+|      21 | 0x1DB3      |        7603 |
+|      22 | 0x1DB5      |        7605 |
 |      23 | 0x0022      |          34 |
-|      24 | 0x1DB5      |        7605 |
+|      24 | 0x1DB6      |        7606 |
 |      25 | 0x0078      |         120 |
 |      26 | 0x001E      |          30 |
 |      27 | 0x0021      |          33 |
-|      28 | 0x1DBD      |        7613 |
-|      29 | 0x1DBF      |        7615 |
-|      30 | 0x1DC0      |        7616 |
+|      28 | 0x1DBE      |        7614 |
+|      29 | 0x1DC0      |        7616 |
+|      30 | 0x1DC1      |        7617 |
 |      31 | 0x005A      |          90 |
 |      32 | 0x001D      |          29 |
-|      33 | 0x1DBE      |        7614 |
+|      33 | 0x1DBF      |        7615 |
 |      34 | 0x002D      |          45 |
 |      35 | 0x000D      |          13 |
-|      36 | 0x1DB8      |        7608 |
-|      37 | 0x1DB9      |        7609 |
-|      38 | 0x1DBA      |        7610 |
-|      39 | 0x1DBC      |        7612 |
+|      36 | 0x1DB9      |        7609 |
+|      37 | 0x1DBA      |        7610 |
+|      38 | 0x1DBB      |        7611 |
+|      39 | 0x1DBD      |        7613 |
 |      40 | 0x00C9      |         201 |
-|      41 | 0x1DC1      |        7617 |
-|      42 | 0x1DC2      |        7618 |
-|      43 | 0x1DB6      |        7606 |
-|      44 | 0x1DB7      |        7607 |
+|      41 | 0x1DC2      |        7618 |
+|      42 | 0x1DC3      |        7619 |
+|      43 | 0x1DB7      |        7607 |
+|      44 | 0x1DB8      |        7608 |
 
 ## Events
 
@@ -174,7 +174,7 @@
  19: 0x0091 [0x1C] WAIT(60* ticks)
  20: 0x0094 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 0*
  21: 0x009B [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 22: 0x00A0 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7594*]:
+ 22: 0x00A0 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7595*]:
     → "Hey there, kid, I'm Naiko-Paneiko, up-and-coming ace journalist. Journeying to the remotest frontlines of battle to cover all the news that's fit to printaru!"
  23: 0x00A7 [0x23] WAIT_FOR_DIALOG_INTERACTION
  24: 0x00A8 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -182,53 +182,53 @@
  26: 0x00BC [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n001" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
  27: 0x00CD [0x1C] WAIT(15* ticks)
  28: 0x00D0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk1" with entities [Naiko-Paneiko (ID: 17478341/0x010AB2C5), Naiko-Paneiko (ID: 17478341/0x010AB2C5)], work=49*
- 29: 0x00DF [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7595*]:
+ 29: 0x00DF [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7596*]:
     → "I'll travel all over Vana'diel if I have to! To tell people the truth! The real truth about this war that the wartime papers aren't printing!"
  30: 0x00E6 [0x23] WAIT_FOR_DIALOG_INTERACTION
  31: 0x00E7 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "thk2" with entities [Naiko-Paneiko (ID: 17478341/0x010AB2C5), Naiko-Paneiko (ID: 17478341/0x010AB2C5)], work=49*
- 32: 0x00F6 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7596*]:
+ 32: 0x00F6 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7597*]:
     → "...Oh, what's this? You've got a slight air of journalism about you, kid. Whaddaya say? Wanna help a Taru out?"
  33: 0x00FD [0x23] WAIT_FOR_DIALOG_INTERACTION
  34: 0x00FE [0x52] END_LOAD_SCHEDULER: End scheduler "n001" with entities [LocalPlayer, LocalPlayer], work=315*
  35: 0x010D [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n002" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
- 36: 0x011E [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7597*]:
+ 36: 0x011E [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7598*]:
     → "There's just two things a good journalist has gotta have, kid! Impeccable verbiage, and a nose for the truth! And, well...and feet, I suppose...to go story-hunting... Three things!"
  37: 0x0125 [0x23] WAIT_FOR_DIALOG_INTERACTION
  38: 0x0126 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 0*
  39: 0x012D [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 40: 0x0132 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7598*]:
+ 40: 0x0132 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7599*]:
     → "And I sense all of those things in you. Especially the feet! You're practically overflowing with journalistic vibes, kid! A natural-born newshound! And I'm not only saying that because I'm tragically shorthanded, either."
  41: 0x0139 [0x23] WAIT_FOR_DIALOG_INTERACTION
  42: 0x013A [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
  43: 0x013F [0x52] END_LOAD_SCHEDULER: End scheduler "n002" with entities [LocalPlayer, LocalPlayer], work=315*
  44: 0x014E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n003" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
- 45: 0x015F [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7599*]:
+ 45: 0x015F [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7600*]:
     → "In fact, it so happens that I just received a hotaru lead! I was eavesdropping on some sol--I mean... I overheard some soldiers talking the other day. Yeah, that's it!"
  46: 0x0166 [0x23] WAIT_FOR_DIALOG_INTERACTION
  47: 0x0167 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 4*
  48: 0x016E [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 49: 0x0173 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7600*]:
+ 49: 0x0173 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7601*]:
     → "Rumor has it that a peculiar oddity of a monster has appeared in the Rolanberry Fields."
  50: 0x017A [0x23] WAIT_FOR_DIALOG_INTERACTION
  51: 0x017B [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
  52: 0x0180 [0x52] END_LOAD_SCHEDULER: End scheduler "n003" with entities [LocalPlayer, LocalPlayer], work=315*
  53: 0x018F [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n004" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
  54: 0x01A0 [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naiko-Paneiko (ID: 17478341/0x010AB2C5), Naiko-Paneiko (ID: 17478341/0x010AB2C5)], work=49*
- 55: 0x01AF [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7601*]:
+ 55: 0x01AF [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7602*]:
     → "Supposedly some soldiers have been dispatched to take care of it. So go track them down and find out exactly whataru is going on, kid!"
  56: 0x01B6 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 57: 0x01B7 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7602*]:
+ 57: 0x01B7 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7603*]:
     → "Here ya go. Use this to reportaru back as soon as you hear something."
  58: 0x01BE [0x23] WAIT_FOR_DIALOG_INTERACTION
  59: 0x01BF [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk1" with entities [Naiko-Paneiko (ID: 17478341/0x010AB2C5), Naiko-Paneiko (ID: 17478341/0x010AB2C5)], work=49*
  60: 0x01CE [0x52] END_LOAD_SCHEDULER: End scheduler "n004" with entities [LocalPlayer, LocalPlayer], work=315*
  61: 0x01DD [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n005" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
- 62: 0x01EE [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7604*]:
+ 62: 0x01EE [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7605*]:
     → "You even know how to use a linkpearl, kid? Tell ya what, I'll wait a while and then give you a call."
  63: 0x01F5 [0x23] WAIT_FOR_DIALOG_INTERACTION
  64: 0x01F6 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 34*
  65: 0x01FD [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 66: 0x0202 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7605*]:
+ 66: 0x0202 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7606*]:
     → "Woohoo, this is what we live for, kid! Can't ya feel it!? Now get a move on! There's no time to lose! A cold story is no story at all!"
  67: 0x0209 [0x23] WAIT_FOR_DIALOG_INTERACTION
  68: 0x020A [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -307,10 +307,10 @@
  19: 0x02F4 [0x1C] WAIT(30* ticks)
  20: 0x02F7 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 33*
  21: 0x02FE [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 22: 0x0303 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7613*]:
+ 22: 0x0303 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7614*]:
     → "Oooh, look who's back! We got problems, kid?"
  23: 0x030A [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x030B [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7615*]:
+ 24: 0x030B [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7616*]:
     → "I just don'taru get it. These articles are all based on the finest intelligence gathering. But we can't even sell an issue! And just look at these losses! Get out there and get me some more stories!"
  25: 0x0312 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0313 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -318,7 +318,7 @@
  28: 0x0327 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n007" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
  29: 0x0338 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 0*
  30: 0x033F [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 31: 0x0344 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7616*]:
+ 31: 0x0344 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7617*]:
     → "Rewrite! From the beginning! Go back and get your facts straightaru! Move it!"
  32: 0x034B [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x034C [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -396,10 +396,10 @@
  19: 0x0436 [0x1C] WAIT(30* ticks)
  20: 0x0439 [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 29*
  21: 0x0440 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 22: 0x0445 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7613*]:
+ 22: 0x0445 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7614*]:
     → "Oooh, look who's back! We got problems, kid?"
  23: 0x044C [0x23] WAIT_FOR_DIALOG_INTERACTION
- 24: 0x044D [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7614*]:
+ 24: 0x044D [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7615*]:
     → "This just doesn't make any sense! Nothing but columns based on solid factaru, and I'm receiving complaint after complaint from readers saying that they're all fabrications and falsehoods!"
  25: 0x0454 [0x23] WAIT_FOR_DIALOG_INTERACTION
  26: 0x0455 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -407,7 +407,7 @@
  28: 0x0469 [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n007" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
  29: 0x047A [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 34*
  30: 0x0481 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 31: 0x0486 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7616*]:
+ 31: 0x0486 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7617*]:
     → "Rewrite! From the beginning! Go back and get your facts straightaru! Move it!"
  32: 0x048D [0x23] WAIT_FOR_DIALOG_INTERACTION
  33: 0x048E [0x1C] WAIT(45* ticks)
@@ -484,10 +484,10 @@
  18: 0x055B [0x1C] WAIT(30* ticks)
  19: 0x055E [0x6E] Naiko-Paneiko (ID: 17478341/0x010AB2C5) uses emote 13*
  20: 0x0565 [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
- 21: 0x056A [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7608*]:
+ 21: 0x056A [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7609*]:
     → "Oh, there you are, kid. Greataru work! That was some top-rate info you delivered. I knew I was right about you!"
  22: 0x0571 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 23: 0x0572 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7609*]:
+ 23: 0x0572 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7610*]:
     → "We gotta put this in printaru and get it in the paper-wapers, double-time! It's sure to get rave reviews from our readers!"
  24: 0x0579 [0x23] WAIT_FOR_DIALOG_INTERACTION
  25: 0x057A [0x99] Wait for Naiko-Paneiko (ID: 17478341/0x010AB2C5) animation to complete
@@ -495,11 +495,11 @@
  27: 0x058E [0x45] LOAD_SCHEDULED_TASK: Load scheduler "n007" with entities [LocalPlayer, LocalPlayer], work=[315*, 0*]
  28: 0x059F [0x66] LOAD_EXT_SCHEDULER_MAIN: Load scheduler "tlk0" with entities [Naiko-Paneiko (ID: 17478341/0x010AB2C5), Naiko-Paneiko (ID: 17478341/0x010AB2C5)], work=49*
  29: 0x05AE [0x02] IF !(ExtData[1]->WorkLocal[0] == 0*) GOTO 0x05C1
- 30: 0x05B6 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7610*]:
+ 30: 0x05B6 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7611*]:
     → "Here ya go, kid. A little token of appreciation from one journalistaru to another. A good newshound's gotta know where they're going before they can track down the stories. Put it to good use."
  31: 0x05BD [0x23] WAIT_FOR_DIALOG_INTERACTION
  32: 0x05BE [0x01] GOTO 0x05C9
- 33: 0x05C1 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7612*]:
+ 33: 0x05C1 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7613*]:
     → "Here ya go, kid. Put it to good use."
  34: 0x05C8 [0x23] WAIT_FOR_DIALOG_INTERACTION
 
@@ -542,10 +542,10 @@ SUBROUTINE_05C9:
 ```
   0: 0x062F [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x0634 [0x1C] WAIT(30* ticks)
-  2: 0x0637 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7617*]:
+  2: 0x0637 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7618*]:
     → "Alll rightaru! Let's make the news!"
   3: 0x063E [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x063F [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7618*]:
+  4: 0x063F [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7619*]:
     → "I might justaru send you off on another story-hunt, kid. Be ready-weady! A good journalist always is!"
   5: 0x0646 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0647 [0x21] END_EVENT
@@ -575,10 +575,10 @@ SUBROUTINE_05C9:
 ```
   0: 0x0649 [0x1E] EventEntity looks at LocalPlayer and starts talking
   1: 0x064E [0x1C] WAIT(30* ticks)
-  2: 0x0651 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7606*]:
+  2: 0x0651 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7607*]:
     → "What are you doing, kid? Get to the Rolanberry Fields rightaru away! There won't be any news left if you don't step on it!"
   3: 0x0658 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  4: 0x0659 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7607*]:
+  4: 0x0659 [0x2B] Naiko-Paneiko (ID: 17478341/0x010AB2C5) [7608*]:
     → "If you're not turned on to the news, the news will turn on you! Now get with the program, kid!"
   5: 0x0660 [0x23] WAIT_FOR_DIALOG_INTERACTION
   6: 0x0661 [0x21] END_EVENT

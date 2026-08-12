@@ -24,42 +24,42 @@
 |       1 | 0x0001      |           1 |
 |       2 | 0x0002      |           2 |
 |       3 | 0x0003      |           3 |
-|       4 | 0x203D      |        8253 |
-|       5 | 0x203E      |        8254 |
-|       6 | 0x203F      |        8255 |
+|       4 | 0x203E      |        8254 |
+|       5 | 0x203F      |        8255 |
+|       6 | 0x2040      |        8256 |
 |       7 | 0x0004      |           4 |
 |       8 | 0x0007      |           7 |
-|       9 | 0x2040      |        8256 |
-|      10 | 0x2041      |        8257 |
+|       9 | 0x2041      |        8257 |
+|      10 | 0x2042      |        8258 |
 |      11 | 0x022F      |         559 |
-|      12 | 0x2846      |       10310 |
+|      12 | 0x2847      |       10311 |
 |      13 | 0x0006      |           6 |
-|      14 | 0x2841      |       10305 |
-|      15 | 0x2842      |       10306 |
-|      16 | 0x2843      |       10307 |
+|      14 | 0x2842      |       10306 |
+|      15 | 0x2843      |       10307 |
+|      16 | 0x2844      |       10308 |
 |      17 | 0x0005      |           5 |
-|      18 | 0x2441      |        9281 |
-|      19 | 0x2879      |       10361 |
-|      20 | 0x287D      |       10365 |
-|      21 | 0x287C      |       10364 |
-|      22 | 0x287E      |       10366 |
+|      18 | 0x2442      |        9282 |
+|      19 | 0x287A      |       10362 |
+|      20 | 0x287E      |       10366 |
+|      21 | 0x287D      |       10365 |
+|      22 | 0x287F      |       10367 |
 |      23 | 0x0008      |           8 |
-|      24 | 0x287A      |       10362 |
+|      24 | 0x287B      |       10363 |
 |      25 | 0x0009      |           9 |
-|      26 | 0x287B      |       10363 |
-|      27 | 0x2880      |       10368 |
-|      28 | 0x2881      |       10369 |
-|      29 | 0x2882      |       10370 |
-|      30 | 0x2883      |       10371 |
-|      31 | 0x2884      |       10372 |
-|      32 | 0x2885      |       10373 |
-|      33 | 0x2886      |       10374 |
-|      34 | 0x2887      |       10375 |
-|      35 | 0x2888      |       10376 |
-|      36 | 0x2889      |       10377 |
-|      37 | 0x288A      |       10378 |
-|      38 | 0x288B      |       10379 |
-|      39 | 0x288C      |       10380 |
+|      26 | 0x287C      |       10364 |
+|      27 | 0x2881      |       10369 |
+|      28 | 0x2882      |       10370 |
+|      29 | 0x2883      |       10371 |
+|      30 | 0x2884      |       10372 |
+|      31 | 0x2885      |       10373 |
+|      32 | 0x2886      |       10374 |
+|      33 | 0x2887      |       10375 |
+|      34 | 0x2888      |       10376 |
+|      35 | 0x2889      |       10377 |
+|      36 | 0x288A      |       10378 |
+|      37 | 0x288B      |       10379 |
+|      38 | 0x288C      |       10380 |
+|      39 | 0x288D      |       10381 |
 |      40 | 0x000F      |          15 |
 |      41 | 0x0010      |          16 |
 |      42 | 0x0017      |          23 |
@@ -68,32 +68,32 @@
 
 ## String References
 
-- **8253**: Greetings, friend. I am charged with recruiting able-bodied warriors for Dominion Ops under Captain [Maat/Romaa Mihgo/Zazarg]'s jurisdiction. If my soft-spoken nature doesn't strike you as particularly sergeant-like, it is because I'm still new to my role. But I digress. You've come to lend your sword arm to the cause, I trust?
-- **8254**: What would you like to do? [About turn and leave./Partake in Dominion Ops./Review current objective./Cancel current objective./Learn about Dominion Ops./View current morale benefits.]
-- **8255**: Undertake which objective? [None for now./No.1 (Influence: $0%)/No.2 (Influence: $1%)/No.3 (Influence: $2%)/No.4 (Influence: $3%)/No.5 (Influence: $4%)/No.6 (Influence: $5%)/No.7 (Influence: $6%)/No.8 (Influence: $7%)/No.9 (Influence: $8%)/No.10 (Influence: $9%)/No.11 (Influence: $10%)/No.12 (Influence: $11%)/No.13 (Influence: $12%)/No.14 (Influence: $13%)]
-- **8256**: This objective requires that you vanquish the following:
-- **10305**: Difficulty: [$26$25$25$25$25/$26$26$25$25$25/$26$26$26$25$25/$26$26$26$26$25/$26$26$26$26$26]
-- **10306**: Undertake this objective? [Yes./No.]
-- **10307**: Excellent! I will immediately see to the tedious but necessary paperwork. After all, we sergeants are nothing if not organized. In the meantime, I wish you the best of luck out in the field!
-- **10361**: That is all.
-- **10362**: As our sphere of influence expands, so too will spirit rise among our troops. In turn, this boost in morale leads to an overall improvement in the performance of our forces, granting us various advantages against the enemy.
-- **10363**: Current morale benefits: [Finish viewing./MP/HP bonus: Lv.$0/Attribute bonus: Lv.$1/Increased EXP yield: Lv.$2/Increased cruor yield: Lv.$3/Increased pyxis discovery: Lv.$4/High-grade pyxis discovery: Lv.$5/Increased treasure yield: Lv.$6/None.]
-- **10364**: Are you certain? [Yes./No.]
-- **10365**: Cancel your current Dominion Ops? [Yes./No.]
-- **10366**: Ah, it appears you have returned from a successful mission! Well done, soldier!
-- **10368**: What will you ask about? [Nothing right now./Dominion Ops./Sphere of influence./Completing an objective.]
-- **10369**: Dominion Ops is the name given to Resistance operations whose objective is the suppression of the monster population.
-- **10370**: Besides the detachment encamped here, two others can be found operating in the area. If you wish to partake in Dominion Ops, you may do so by speaking with either me or a fellow sergeant.
-- **10371**: Likewise, you may report back to any one of us upon the successful completion of your objective, at which time you will be issued your reward for assistance rendered.
-- **10372**: As long as he or she is in the same area, any sergeant is authorized to attend to your needs. Keep this in mind, and you won't waste precious time hopping between encampments.
-- **10373**: Each Dominion Ops successfully completed slightly expands our sphere of influence over the Abyssean hordes.
-- **10374**: Needless to say, our ultimate goal is complete and utter domination. Every individual effort counts!
-- **10375**: Bear in mind, however, that the enemy will not be taking any of this sitting down. Do not be surprised if an especially fearsome fiend emerges in an attempt to thwart our efforts.
-- **10376**: And unfortunately for us, the Abyssean fiends are confoundingly fertile. Their numbers will literally explode if left unchecked, in turn causing our hard-won sphere of influence to diminish.
-- **10377**: As the sphere of influence directly influences troop morale, it is imperative that we do not slacken our efforts. We earnestly ask for your cooperation in keeping the area safe for all survivors.
-- **10378**: To cancel an objective in progress, you must seek out one of the sergeants in the area.
-- **10379**: The same applies if you wish to review your progress or report your success. In the case of the latter, you will also be issued your reward, which includes Dominion Notes, for assistance rendered.
-- **10380**: Any notes you have earned may be taken to a Dominion tactician and redeemed for useful equipment and items.
+- **8254**: Greetings, friend. I am charged with recruiting able-bodied warriors for Dominion Ops under Captain [Maat/Romaa Mihgo/Zazarg]'s jurisdiction. If my soft-spoken nature doesn't strike you as particularly sergeant-like, it is because I'm still new to my role. But I digress. You've come to lend your sword arm to the cause, I trust?
+- **8255**: What would you like to do? [About turn and leave./Partake in Dominion Ops./Review current objective./Cancel current objective./Learn about Dominion Ops./View current morale benefits.]
+- **8256**: Undertake which objective? [None for now./No.1 (Influence: $0%)/No.2 (Influence: $1%)/No.3 (Influence: $2%)/No.4 (Influence: $3%)/No.5 (Influence: $4%)/No.6 (Influence: $5%)/No.7 (Influence: $6%)/No.8 (Influence: $7%)/No.9 (Influence: $8%)/No.10 (Influence: $9%)/No.11 (Influence: $10%)/No.12 (Influence: $11%)/No.13 (Influence: $12%)/No.14 (Influence: $13%)]
+- **8257**: This objective requires that you vanquish the following:
+- **10306**: Difficulty: [$26$25$25$25$25/$26$26$25$25$25/$26$26$26$25$25/$26$26$26$26$25/$26$26$26$26$26]
+- **10307**: Undertake this objective? [Yes./No.]
+- **10308**: Excellent! I will immediately see to the tedious but necessary paperwork. After all, we sergeants are nothing if not organized. In the meantime, I wish you the best of luck out in the field!
+- **10362**: That is all.
+- **10363**: As our sphere of influence expands, so too will spirit rise among our troops. In turn, this boost in morale leads to an overall improvement in the performance of our forces, granting us various advantages against the enemy.
+- **10364**: Current morale benefits: [Finish viewing./MP/HP bonus: Lv.$0/Attribute bonus: Lv.$1/Increased EXP yield: Lv.$2/Increased cruor yield: Lv.$3/Increased pyxis discovery: Lv.$4/High-grade pyxis discovery: Lv.$5/Increased treasure yield: Lv.$6/None.]
+- **10365**: Are you certain? [Yes./No.]
+- **10366**: Cancel your current Dominion Ops? [Yes./No.]
+- **10367**: Ah, it appears you have returned from a successful mission! Well done, soldier!
+- **10369**: What will you ask about? [Nothing right now./Dominion Ops./Sphere of influence./Completing an objective.]
+- **10370**: Dominion Ops is the name given to Resistance operations whose objective is the suppression of the monster population.
+- **10371**: Besides the detachment encamped here, two others can be found operating in the area. If you wish to partake in Dominion Ops, you may do so by speaking with either me or a fellow sergeant.
+- **10372**: Likewise, you may report back to any one of us upon the successful completion of your objective, at which time you will be issued your reward for assistance rendered.
+- **10373**: As long as he or she is in the same area, any sergeant is authorized to attend to your needs. Keep this in mind, and you won't waste precious time hopping between encampments.
+- **10374**: Each Dominion Ops successfully completed slightly expands our sphere of influence over the Abyssean hordes.
+- **10375**: Needless to say, our ultimate goal is complete and utter domination. Every individual effort counts!
+- **10376**: Bear in mind, however, that the enemy will not be taking any of this sitting down. Do not be surprised if an especially fearsome fiend emerges in an attempt to thwart our efforts.
+- **10377**: And unfortunately for us, the Abyssean fiends are confoundingly fertile. Their numbers will literally explode if left unchecked, in turn causing our hard-won sphere of influence to diminish.
+- **10378**: As the sphere of influence directly influences troop morale, it is imperative that we do not slacken our efforts. We earnestly ask for your cooperation in keeping the area safe for all survivors.
+- **10379**: To cancel an objective in progress, you must seek out one of the sergeants in the area.
+- **10380**: The same applies if you wish to review your progress or report your success. In the case of the latter, you will also be issued your reward, which includes Dominion Notes, for assistance rendered.
+- **10381**: Any notes you have earned may be taken to a Dominion tactician and redeemed for useful equipment and items.
 
 ## Events
 
@@ -236,14 +236,14 @@ SUBROUTINE_004A:
  23: 0x006A [0x03] ExtData[1]->WorkLocal[9] = Work_Zone[8]
  24: 0x006F [0x03] ExtData[1]->WorkLocal[7] = Work_Zone[9]
  25: 0x0074 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
- 26: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8253*)
+ 26: 0x0079 [0x1D] PRINT_EVENT_MESSAGE(message_id=8254*)
     → "Greetings, friend. I am charged with recruiting able-bodied warriors for Dominion Ops under Captain [Maat/Romaa Mihgo/Zazarg]'s jurisdiction. If my soft-spoken nature doesn't strike you as particularly sergeant-like, it is because I'm still new to my role. But I digress. You've come to lend your sword arm to the cause, I trust?"
  27: 0x007C [0x23] WAIT_FOR_DIALOG_INTERACTION
  28: 0x007D [0x05] ExtData[1]->WorkLocal[5] = 1
 
 SUBROUTINE_0080:
  29: 0x0080 [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x01F2
- 30: 0x0088 [0x24] CREATE_DIALOG(message_id=8254*, default_option=1*, option_flags=ExtData[1]->WorkLocal[2])
+ 30: 0x0088 [0x24] CREATE_DIALOG(message_id=8255*, default_option=1*, option_flags=ExtData[1]->WorkLocal[2])
     → "What would you like to do? [About turn and leave./Partake in Dominion Ops./Review current objective./Cancel current objective./Learn about Dominion Ops./View current morale benefits.]"
  31: 0x008F [0x25] WAIT_DIALOG_SELECT()
  32: 0x0090 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x009E
@@ -268,7 +268,7 @@ SUBROUTINE_00A9:
  49: 0x00E8 [0x03] Work_Zone_1700[3] = ExtData[1]->WorkLocal[24]
  50: 0x00ED [0x03] Work_Zone_1700[4] = ExtData[1]->WorkLocal[25]
  51: 0x00F2 [0x03] Work_Zone_1700[5] = ExtData[1]->WorkLocal[26]
- 52: 0x00F7 [0x24] CREATE_DIALOG(message_id=8255*, default_option=1*, option_flags=ExtData[1]->WorkLocal[4])
+ 52: 0x00F7 [0x24] CREATE_DIALOG(message_id=8256*, default_option=1*, option_flags=ExtData[1]->WorkLocal[4])
     → "Undertake which objective? [None for now./No.1 (Influence: $0%)/No.2 (Influence: $1%)/No.3 (Influence: $2%)/No.4 (Influence: $3%)/No.5 (Influence: $4%)/No.6 (Influence: $5%)/No.7 (Influence: $6%)/No.8 (Influence: $7%)/No.9 (Influence: $8%)/No.10 (Influence: $9%)/No.11 (Influence: $10%)/No.12 (Influence: $11%)/No.13 (Influence: $12%)/No.14 (Influence: $13%)]"
  53: 0x00FE [0x25] WAIT_DIALOG_SELECT()
  54: 0x00FF [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x010D
@@ -283,17 +283,17 @@ SUBROUTINE_010D:
  61: 0x012C [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  62: 0x012E [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
  63: 0x0130 [0x02] IF !(Work_Zone[9] == 0*) GOTO 0x01B7
- 64: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=8256*)
+ 64: 0x0138 [0x1D] PRINT_EVENT_MESSAGE(message_id=8257*)
     → "This objective requires that you vanquish the following:"
  65: 0x013B [0x23] WAIT_FOR_DIALOG_INTERACTION
- 66: 0x013C [0x03] ExtData[1]->WorkLocal[8] = 8257*
+ 66: 0x013C [0x03] ExtData[1]->WorkLocal[8] = 8258*
  67: 0x0141 [0x07] ExtData[1]->WorkLocal[8] += Work_Zone[9]
  68: 0x0146 [0x48] [System] [ExtData[1]->WorkLocal[8]]:
     → "This area is currently affected by the Super Kupower: "Myriad Mystery Boxes"!"
  69: 0x0149 [0x23] WAIT_FOR_DIALOG_INTERACTION
  70: 0x014A [0x03] ExtData[1]->WorkLocal[8] = Work_Zone[9]
  71: 0x014F [0x08] ExtData[1]->WorkLocal[8] -= 559*
- 72: 0x0154 [0x07] ExtData[1]->WorkLocal[8] += 10310*
+ 72: 0x0154 [0x07] ExtData[1]->WorkLocal[8] += 10311*
  73: 0x0159 [0x48] [System] [ExtData[1]->WorkLocal[8]]:
     → "This area is currently affected by the Super Kupower: "Myriad Mystery Boxes"!"
  74: 0x015C [0x23] WAIT_FOR_DIALOG_INTERACTION
@@ -301,15 +301,15 @@ SUBROUTINE_010D:
  76: 0x0166 [0x40] SET_BIT_WORK_RANGE(start_bit=4*, end_bit=7*, target=Work_Zone[1], source=ExtData[1]->WorkLocal[1])
  77: 0x016F [0x43] SEND_EVENT_UPDATE: Send pending tag to server (packet 0x005B)
  78: 0x0171 [0x43] SEND_EVENT_UPDATE: Check pending flag (skip if not pending)
- 79: 0x0173 [0x48] [System] [10305*]:
+ 79: 0x0173 [0x48] [System] [10306*]:
     → "Difficulty: [$26$25$25$25$25/$26$26$25$25$25/$26$26$26$25$25/$26$26$26$26$25/$26$26$26$26$26]"
  80: 0x0176 [0x23] WAIT_FOR_DIALOG_INTERACTION
- 81: 0x0177 [0x24] CREATE_DIALOG(message_id=10306*, default_option=1*, option_flags=0*)
+ 81: 0x0177 [0x24] CREATE_DIALOG(message_id=10307*, default_option=1*, option_flags=0*)
     → "Undertake this objective? [Yes./No.]"
  82: 0x017E [0x25] WAIT_DIALOG_SELECT()
  83: 0x017F [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x01A7
  84: 0x0187 [0x42] SET_CLI_EVENT_CANCEL_DATA()
- 85: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10307*)
+ 85: 0x0188 [0x1D] PRINT_EVENT_MESSAGE(message_id=10308*)
     → "Excellent! I will immediately see to the tedious but necessary paperwork. After all, we sergeants are nothing if not organized. In the meantime, I wish you the best of luck out in the field!"
  86: 0x018B [0x23] WAIT_FOR_DIALOG_INTERACTION
  87: 0x018C [0x06] ExtData[1]->WorkLocal[5] = 0
@@ -347,14 +347,14 @@ SUBROUTINE_01F3:
 113: 0x0207 [0x06] ExtData[1]->WorkLocal[2] = 0
 114: 0x020A [0x3C] SET_BIT_FLAG_CONDITIONAL(target_work_offset=ExtData[1]->WorkLocal[2], bit_index_work_offset=1*, condition_work_offset=1*)
 115: 0x0211 [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[0]
-116: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=8253*)
+116: 0x0216 [0x1D] PRINT_EVENT_MESSAGE(message_id=8254*)
     → "Greetings, friend. I am charged with recruiting able-bodied warriors for Dominion Ops under Captain [Maat/Romaa Mihgo/Zazarg]'s jurisdiction. If my soft-spoken nature doesn't strike you as particularly sergeant-like, it is because I'm still new to my role. But I digress. You've come to lend your sword arm to the cause, I trust?"
 117: 0x0219 [0x23] WAIT_FOR_DIALOG_INTERACTION
 118: 0x021A [0x05] ExtData[1]->WorkLocal[5] = 1
 
 SUBROUTINE_021D:
 119: 0x021D [0x02] IF !(ExtData[1]->WorkLocal[5] == 0*) GOTO 0x02FD
-120: 0x0225 [0x24] CREATE_DIALOG(message_id=8254*, default_option=2*, option_flags=ExtData[1]->WorkLocal[2])
+120: 0x0225 [0x24] CREATE_DIALOG(message_id=8255*, default_option=2*, option_flags=ExtData[1]->WorkLocal[2])
     → "What would you like to do? [About turn and leave./Partake in Dominion Ops./Review current objective./Cancel current objective./Learn about Dominion Ops./View current morale benefits.]"
 121: 0x022C [0x25] WAIT_DIALOG_SELECT()
 122: 0x022D [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x023B
@@ -365,28 +365,28 @@ SUBROUTINE_021D:
 127: 0x0246 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x0280
 128: 0x024E [0x03] Work_Zone[2] = ExtData[1]->WorkLocal[11]
 129: 0x0253 [0x03] Work_Zone[6] = ExtData[1]->WorkLocal[12]
-130: 0x0258 [0x03] ExtData[1]->WorkLocal[8] = 9281*
+130: 0x0258 [0x03] ExtData[1]->WorkLocal[8] = 9282*
 131: 0x025D [0x07] ExtData[1]->WorkLocal[8] += ExtData[1]->WorkLocal[7]
 132: 0x0262 [0x48] [System] [ExtData[1]->WorkLocal[8]]:
     → "This area is currently affected by the Super Kupower: "Myriad Mystery Boxes"!"
 133: 0x0265 [0x23] WAIT_FOR_DIALOG_INTERACTION
-134: 0x0266 [0x03] ExtData[1]->WorkLocal[8] = 10310*
+134: 0x0266 [0x03] ExtData[1]->WorkLocal[8] = 10311*
 135: 0x026B [0x07] ExtData[1]->WorkLocal[8] += ExtData[1]->WorkLocal[7]
 136: 0x0270 [0x08] ExtData[1]->WorkLocal[8] -= 559*
 137: 0x0275 [0x48] [System] [ExtData[1]->WorkLocal[8]]:
     → "This area is currently affected by the Super Kupower: "Myriad Mystery Boxes"!"
 138: 0x0278 [0x23] WAIT_FOR_DIALOG_INTERACTION
-139: 0x0279 [0x48] [System] [10361*]:
+139: 0x0279 [0x48] [System] [10362*]:
     → "That is all."
 140: 0x027C [0x23] WAIT_FOR_DIALOG_INTERACTION
 141: 0x027D [0x01] GOTO 0x02FA
 142: 0x0280 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x02DE
-143: 0x0288 [0x24] CREATE_DIALOG(message_id=10365*, default_option=1*, option_flags=0*)
+143: 0x0288 [0x24] CREATE_DIALOG(message_id=10366*, default_option=1*, option_flags=0*)
     → "Cancel your current Dominion Ops? [Yes./No.]"
 144: 0x028F [0x25] WAIT_DIALOG_SELECT()
 145: 0x0290 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02CB
 146: 0x0298 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=3*)
-147: 0x02A1 [0x24] CREATE_DIALOG(message_id=10364*, default_option=1*, option_flags=0*)
+147: 0x02A1 [0x24] CREATE_DIALOG(message_id=10365*, default_option=1*, option_flags=0*)
     → "Are you certain? [Yes./No.]"
 148: 0x02A8 [0x25] WAIT_DIALOG_SELECT()
 149: 0x02A9 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x02B8
@@ -418,14 +418,14 @@ SUBROUTINE_02FA:
 
 SUBROUTINE_02FE:
 169: 0x02FE [0x42] SET_CLI_EVENT_CANCEL_DATA()
-170: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10366*)
+170: 0x02FF [0x1D] PRINT_EVENT_MESSAGE(message_id=10367*)
     → "Ah, it appears you have returned from a successful mission! Well done, soldier!"
 171: 0x0302 [0x23] WAIT_FOR_DIALOG_INTERACTION
 172: 0x0303 [0x40] SET_BIT_WORK_RANGE(start_bit=0*, end_bit=3*, target=Work_Zone[1], source=8*)
 173: 0x030C [0x1B] RETURN
 
 SUBROUTINE_030D:
-174: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=10362*)
+174: 0x030D [0x1D] PRINT_EVENT_MESSAGE(message_id=10363*)
     → "As our sphere of influence expands, so too will spirit rise among our troops. In turn, this boost in morale leads to an overall improvement in the performance of our forces, granting us various advantages against the enemy."
 175: 0x0310 [0x23] WAIT_FOR_DIALOG_INTERACTION
 176: 0x0311 [0x03] Work_Zone[1] = 0*
@@ -436,7 +436,7 @@ SUBROUTINE_030D:
 
 SUBROUTINE_0326:
 181: 0x0326 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x0355
-182: 0x032E [0x24] CREATE_DIALOG(message_id=10363*, default_option=0*, option_flags=Work_Zone[9])
+182: 0x032E [0x24] CREATE_DIALOG(message_id=10364*, default_option=0*, option_flags=Work_Zone[9])
     → "Current morale benefits: [Finish viewing./MP/HP bonus: Lv.$0/Attribute bonus: Lv.$1/Increased EXP yield: Lv.$2/Increased cruor yield: Lv.$3/Increased pyxis discovery: Lv.$4/High-grade pyxis discovery: Lv.$5/Increased treasure yield: Lv.$6/None.]"
 183: 0x0335 [0x25] WAIT_DIALOG_SELECT()
 184: 0x0336 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0344
@@ -455,51 +455,51 @@ SUBROUTINE_0356:
 
 SUBROUTINE_0359:
 193: 0x0359 [0x02] IF !(ExtData[1]->WorkLocal[6] == 0*) GOTO 0x03CB
-194: 0x0361 [0x24] CREATE_DIALOG(message_id=10368*, default_option=0*, option_flags=0*)
+194: 0x0361 [0x24] CREATE_DIALOG(message_id=10369*, default_option=0*, option_flags=0*)
     → "What will you ask about? [Nothing right now./Dominion Ops./Sphere of influence./Completing an objective.]"
 195: 0x0368 [0x25] WAIT_DIALOG_SELECT()
 196: 0x0369 [0x02] IF !(Work_Zone[0] == 0*) GOTO 0x0377
 197: 0x0371 [0x05] ExtData[1]->WorkLocal[6] = 1
 198: 0x0374 [0x01] GOTO 0x03C8
 199: 0x0377 [0x02] IF !(Work_Zone[0] == 1*) GOTO 0x0392
-200: 0x037F [0x1D] PRINT_EVENT_MESSAGE(message_id=10369*)
+200: 0x037F [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
     → "Dominion Ops is the name given to Resistance operations whose objective is the suppression of the monster population."
 201: 0x0382 [0x23] WAIT_FOR_DIALOG_INTERACTION
-202: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=10370*)
+202: 0x0383 [0x1D] PRINT_EVENT_MESSAGE(message_id=10371*)
     → "Besides the detachment encamped here, two others can be found operating in the area. If you wish to partake in Dominion Ops, you may do so by speaking with either me or a fellow sergeant."
 203: 0x0386 [0x23] WAIT_FOR_DIALOG_INTERACTION
-204: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=10371*)
+204: 0x0387 [0x1D] PRINT_EVENT_MESSAGE(message_id=10372*)
     → "Likewise, you may report back to any one of us upon the successful completion of your objective, at which time you will be issued your reward for assistance rendered."
 205: 0x038A [0x23] WAIT_FOR_DIALOG_INTERACTION
-206: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10372*)
+206: 0x038B [0x1D] PRINT_EVENT_MESSAGE(message_id=10373*)
     → "As long as he or she is in the same area, any sergeant is authorized to attend to your needs. Keep this in mind, and you won't waste precious time hopping between encampments."
 207: 0x038E [0x23] WAIT_FOR_DIALOG_INTERACTION
 208: 0x038F [0x01] GOTO 0x03C8
 209: 0x0392 [0x02] IF !(Work_Zone[0] == 2*) GOTO 0x03B1
-210: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=10373*)
+210: 0x039A [0x1D] PRINT_EVENT_MESSAGE(message_id=10374*)
     → "Each Dominion Ops successfully completed slightly expands our sphere of influence over the Abyssean hordes."
 211: 0x039D [0x23] WAIT_FOR_DIALOG_INTERACTION
-212: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=10374*)
+212: 0x039E [0x1D] PRINT_EVENT_MESSAGE(message_id=10375*)
     → "Needless to say, our ultimate goal is complete and utter domination. Every individual effort counts!"
 213: 0x03A1 [0x23] WAIT_FOR_DIALOG_INTERACTION
-214: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10375*)
+214: 0x03A2 [0x1D] PRINT_EVENT_MESSAGE(message_id=10376*)
     → "Bear in mind, however, that the enemy will not be taking any of this sitting down. Do not be surprised if an especially fearsome fiend emerges in an attempt to thwart our efforts."
 215: 0x03A5 [0x23] WAIT_FOR_DIALOG_INTERACTION
-216: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10376*)
+216: 0x03A6 [0x1D] PRINT_EVENT_MESSAGE(message_id=10377*)
     → "And unfortunately for us, the Abyssean fiends are confoundingly fertile. Their numbers will literally explode if left unchecked, in turn causing our hard-won sphere of influence to diminish."
 217: 0x03A9 [0x23] WAIT_FOR_DIALOG_INTERACTION
-218: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10377*)
+218: 0x03AA [0x1D] PRINT_EVENT_MESSAGE(message_id=10378*)
     → "As the sphere of influence directly influences troop morale, it is imperative that we do not slacken our efforts. We earnestly ask for your cooperation in keeping the area safe for all survivors."
 219: 0x03AD [0x23] WAIT_FOR_DIALOG_INTERACTION
 220: 0x03AE [0x01] GOTO 0x03C8
 221: 0x03B1 [0x02] IF !(Work_Zone[0] == 3*) GOTO 0x03C8
-222: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10378*)
+222: 0x03B9 [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
     → "To cancel an objective in progress, you must seek out one of the sergeants in the area."
 223: 0x03BC [0x23] WAIT_FOR_DIALOG_INTERACTION
-224: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10379*)
+224: 0x03BD [0x1D] PRINT_EVENT_MESSAGE(message_id=10380*)
     → "The same applies if you wish to review your progress or report your success. In the case of the latter, you will also be issued your reward, which includes Dominion Notes, for assistance rendered."
 225: 0x03C0 [0x23] WAIT_FOR_DIALOG_INTERACTION
-226: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10380*)
+226: 0x03C1 [0x1D] PRINT_EVENT_MESSAGE(message_id=10381*)
     → "Any notes you have earned may be taken to a Dominion tactician and redeemed for useful equipment and items."
 227: 0x03C4 [0x23] WAIT_FOR_DIALOG_INTERACTION
 228: 0x03C5 [0x01] GOTO 0x03C8

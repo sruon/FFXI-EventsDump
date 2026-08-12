@@ -20,8 +20,8 @@
 
 |   Index | Hex Value   |   Dec Value |
 |---------|-------------|-------------|
-|       0 | 0x272D      |       10029 |
-|       1 | 0x272E      |       10030 |
+|       0 | 0x272E      |       10030 |
+|       1 | 0x272F      |       10031 |
 |       2 | 0x0000      |           0 |
 |       3 | 0x000A      |          10 |
 |       4 | 0x0014      |          20 |
@@ -36,8 +36,8 @@
 
 ## String References
 
-- **10029**: There's a cave system at the north edge of the Western Altepa Desert called the Kuftal Tunnel. Cape Teriggan lies at the other end of those caves.
-- **10030**: A few decades ago, you could easily travel from the cape further into the Quon continent. However, that path was lost when the land itself shifted during the Great War.
+- **10030**: There's a cave system at the north edge of the Western Altepa Desert called the Kuftal Tunnel. Cape Teriggan lies at the other end of those caves.
+- **10031**: A few decades ago, you could easily travel from the cape further into the Quon continent. However, that path was lost when the land itself shifted during the Great War.
 
 ## Events
 
@@ -96,10 +96,10 @@
 #### Opcodes
 
 ```
-  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10029*)
+  0: 0x0001 [0x1D] PRINT_EVENT_MESSAGE(message_id=10030*)
     → "There's a cave system at the north edge of the Western Altepa Desert called the Kuftal Tunnel. Cape Teriggan lies at the other end of those caves."
   1: 0x0004 [0x23] WAIT_FOR_DIALOG_INTERACTION
-  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10030*)
+  2: 0x0005 [0x1D] PRINT_EVENT_MESSAGE(message_id=10031*)
     → "A few decades ago, you could easily travel from the cape further into the Quon continent. However, that path was lost when the land itself shifted during the Great War."
   3: 0x0008 [0x23] WAIT_FOR_DIALOG_INTERACTION
   4: 0x0009 [0x21] END_EVENT
